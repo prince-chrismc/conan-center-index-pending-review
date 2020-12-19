@@ -10,6 +10,7 @@ import (
 	"syscall"
 
 	"github.com/google/go-github/v33/github"
+	"github.com/prince-chrismc/conan-center-index-pending-review/pending_review"
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/oauth2"
 )
@@ -25,22 +26,91 @@ type Package struct {
 }
 
 type PullRequest struct {
-	Number         int
-	Comments       int
-	MergeCommitSHA string
+	Number        int
+	Reviews       int
+	LastCommitSHA string
 }
 
 func main() {
 	context := context.Background()
+	client := pending_review.NewClient(determineAndSetupCredentials(context))
 
-	var httpClient *http.Client
+	// Get Rate limit information
+	rateLimit, _, err := client.RateLimits(context)
+	if err != nil {
+		fmt.Printf("Problem getting rate limit information %v\n", err)
+		return
+	}
 
+	// We have not exceeded the limit so we can continue
+	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Limit, rateLimit.Remaining)
+
+	repo, _, err := client.Repositories.Get(context, "conan-io", "conan-center-index")
+	if err != nil {
+		fmt.Printf("Problem in getting repository information %v\n", err)
+		os.Exit(1)
+	}
+	fmt.Printf("%+v\n-----\n", Package{
+		FullName:        *repo.FullName,
+		Description:     *repo.Description,
+		ForksCount:      *repo.ForksCount,
+		StarsCount:      *repo.StargazersCount,
+		OpenIssuesCount: *repo.OpenIssuesCount,
+	})
+
+	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
+		// Sort:      "long-running",
+		// Direction: "desc",
+		ListOptions: github.ListOptions{
+			Page:    0,
+			PerPage: 100,
+		},
+	})
+
+	for _, pr := range pulls {
+		p := PullRequest{
+			Number: pr.GetNumber(),
+		}
+
+		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
+			Page:    0,
+			PerPage: 10,
+		})
+		if err != nil {
+			fmt.Printf("Problem getting reviews information %v\n", err)
+			os.Exit(1)
+		}
+		p.Reviews = len(reviews)
+
+		commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
+			Page:    0,
+			PerPage: 10,
+		})
+		if err != nil {
+			fmt.Printf("Problem getting reviews information %v\n", err)
+			os.Exit(1)
+		}
+
+		head := commits[len(commits)-1]
+		p.LastCommitSHA = head.GetSHA()
+		fmt.Printf("%+v\n", p)
+
+		for _, review := range reviews {
+			if review.GetState() != "APPROVED" {
+				continue // Let's ignore the rest!
+			}
+			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
+		}
+	}
+}
+
+func determineAndSetupCredentials(context context.Context) *http.Client {
 	token, exists := os.LookupEnv("GITHUB_TOKEN")
 	if exists {
 		tokenService := oauth2.StaticTokenSource(
 			&oauth2.Token{AccessToken: token},
 		)
-		httpClient = oauth2.NewClient(context, tokenService)
+		return oauth2.NewClient(context, tokenService)
 	} else {
 		r := bufio.NewReader(os.Stdin)
 		fmt.Print("GitHub Username: ")
@@ -55,70 +125,6 @@ func main() {
 			Password: strings.TrimSpace(password),
 		}
 
-		httpClient = tp.Client()
-	}
-
-	client := github.NewClient(httpClient)
-
-	// Get Rate limit information
-	rateLimit, _, err := client.RateLimits(context)
-	if err != nil {
-		fmt.Printf("Problem in getting rate limit information %v\n", err)
-		return
-	}
-
-	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Core.Limit, rateLimit.Core.Remaining)
-
-	repo, _, err := client.Repositories.Get(context, "conan-io", "conan-center-index")
-	if err != nil {
-		fmt.Printf("Problem in getting repository information %v\n", err)
-		os.Exit(1)
-	}
-
-	pack := &Package{
-		FullName:        *repo.FullName,
-		Description:     *repo.Description,
-		ForksCount:      *repo.ForksCount,
-		StarsCount:      *repo.StargazersCount,
-		OpenIssuesCount: *repo.OpenIssuesCount,
-	}
-
-	fmt.Printf("%+v\n", pack)
-
-	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
-		ListOptions: github.ListOptions{
-			Page:    0,
-			PerPage: 3,
-		},
-	})
-	for _, pr := range pulls {
-		p := PullRequest{Number: pr.GetNumber(), Comments: pr.GetComments(), MergeCommitSHA: pr.GetMergeCommitSHA()}
-		fmt.Printf("%+v\n", p)
-
-		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
-			Page:    0,
-			PerPage: 10,
-		})
-		if err != nil {
-			fmt.Printf("Problem getting reviews information %v\n", err)
-			os.Exit(1)
-		}
-
-		commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
-			Page:    0,
-			PerPage: 10,
-		})
-		if err != nil {
-			fmt.Printf("Problem getting reviews information %v\n", err)
-			os.Exit(1)
-		}
-
-		head := commits[len(commits)-1]
-		fmt.Printf("last SHA: %s\n", head.GetSHA())
-
-		for _, review := range reviews {
-			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
-		}
+		return tp.Client()
 	}
 }
-
