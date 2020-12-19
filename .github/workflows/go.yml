@@ -38,3 +38,5 @@ jobs:
       
     - name: Run
       run: go run -v ./...
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
