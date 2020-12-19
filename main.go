@@ -4,8 +4,10 @@ import (
 	"bufio"
 	"bytes"
 	"context"
+	"encoding/json"
 	"fmt"
 	"io"
+	"io/ioutil"
 	"net/http"
 	"net/url"
 	"os"
@@ -224,7 +226,7 @@ func main() {
 	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
 		ListOptions: github.ListOptions{
 			Page:    0,
-			PerPage: 2,
+			PerPage: 3,
 		},
 	})
 	for _, pr := range pulls {
@@ -247,16 +249,26 @@ func main() {
 		}
 
 		reviews := new(ReviewsResponse)
-		_, err = client.Do(context, req, reviews)
+		// resp, err := client.Do(context, req, reviews)
+		resp, err := httpClient.Do(req)
 		if err != nil {
 			fmt.Printf("Problem executing reviews request %v\n", err)
 			return
 		}
 
+		defer resp.Body.Close()
+		body, err := ioutil.ReadAll(resp.Body)
+		ioutil.WriteFile("dump.json", body, 0600)
+		buff := string(body)
+		fmt.Println(buff)
+
+		json.Unmarshal([]byte(buff), reviews)
+
 		for _, review := range *reviews {
-			r := *review
+			// r := *review
 			// fmt.Printf("%+v\n", r)
-			fmt.Printf("%s (%s): %s %s\n", r.User.GetLogin(), r.GetAuthorAssociation(), r.GetState(), r.GetCommitID())
+			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
 		}
 	}
 }
+
