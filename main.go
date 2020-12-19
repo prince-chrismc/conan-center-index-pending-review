@@ -2,19 +2,14 @@ package main
 
 import (
 	"bufio"
-	"bytes"
 	"context"
 	"fmt"
-	"io"
 	"net/http"
-	"net/url"
 	"os"
-	"reflect"
 	"strings"
 	"syscall"
 
 	"github.com/google/go-github/v33/github"
-	"github.com/google/go-querystring/query"
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/oauth2"
 )
@@ -33,136 +28,6 @@ type PullRequest struct {
 	Number    int
 	Comments  int
 	ReviewUrl string
-}
-
-type Review struct {
-	ID                *int         `json:"id,omitempty"`
-	NodeID            *string      `json:"node_id,omitempty"`
-	User              *github.User `json:"user,omitempty"`
-	State             *string      `json:"state,omitempty"`
-	AuthorAssociation *string      `json:"author_association,omitempty"`
-	CommitID          *string      `json:"commit_id,omitempty"`
-}
-
-func (r *Review) GetState() string {
-	if r == nil || r.State == nil {
-		return ""
-	}
-	return *r.State
-}
-func (r *Review) GetAuthorAssociation() string {
-	if r == nil || r.AuthorAssociation == nil {
-		return ""
-	}
-	return *r.AuthorAssociation
-}
-func (r *Review) GetCommitID() string {
-	if r == nil || r.CommitID == nil {
-		return ""
-	}
-	return *r.CommitID
-}
-
-type ReviewsResponse []*Review
-
-var timestampType = reflect.TypeOf(github.Timestamp{})
-
-func Stringify(message interface{}) string {
-	var buf bytes.Buffer
-	v := reflect.ValueOf(message)
-	stringifyValue(&buf, v)
-	return buf.String()
-}
-
-func stringifyValue(w io.Writer, val reflect.Value) {
-	if val.Kind() == reflect.Ptr && val.IsNil() {
-		w.Write([]byte("<nil>"))
-		return
-	}
-
-	v := reflect.Indirect(val)
-
-	switch v.Kind() {
-	case reflect.String:
-		fmt.Fprintf(w, `"%s"`, v)
-	case reflect.Slice:
-		w.Write([]byte{'['})
-		for i := 0; i < v.Len(); i++ {
-			if i > 0 {
-				w.Write([]byte{' '})
-			}
-
-			stringifyValue(w, v.Index(i))
-		}
-
-		w.Write([]byte{']'})
-		return
-	case reflect.Struct:
-		if v.Type().Name() != "" {
-			w.Write([]byte(v.Type().String()))
-		}
-
-		// special handling of Timestamp values
-		if v.Type() == timestampType {
-			fmt.Fprintf(w, "{%s}", v.Interface())
-			return
-		}
-
-		w.Write([]byte{'{'})
-
-		var sep bool
-		for i := 0; i < v.NumField(); i++ {
-			fv := v.Field(i)
-			if fv.Kind() == reflect.Ptr && fv.IsNil() {
-				continue
-			}
-			if fv.Kind() == reflect.Slice && fv.IsNil() {
-				continue
-			}
-
-			if sep {
-				w.Write([]byte(", "))
-			} else {
-				sep = true
-			}
-
-			w.Write([]byte(v.Type().Field(i).Name))
-			w.Write([]byte{':'})
-			stringifyValue(w, fv)
-		}
-
-		w.Write([]byte{'}'})
-	default:
-		if v.CanInterface() {
-			fmt.Fprint(w, v.Interface())
-		}
-	}
-}
-
-func (u ReviewsResponse) String() string {
-	return Stringify(u)
-}
-
-// addOptions adds the parameters in opts as URL query parameters to s. opts
-// must be a struct whose fields may contain "url" tags.
-func addOptions(s string, opts interface{}) (string, error) {
-	v := reflect.ValueOf(opts)
-	if v.Kind() == reflect.Ptr && v.IsNil() {
-		return s, nil
-	}
-
-	u, err := url.Parse(s)
-	if err != nil {
-		return s, err
-	}
-
-	qs, err := query.Values(opts)
-	if err != nil {
-		return s, err
-	}
-
-	u.RawQuery = qs.Encode()
-	return u.String(), nil
 }
 
 func main() {
@@ -240,8 +105,6 @@ func main() {
 		}
 
 		for _, review := range reviews {
-			// r := *review
-			// fmt.Printf("%+v\n", r)
 			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
 		}
 	}
