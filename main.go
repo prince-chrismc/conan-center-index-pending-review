@@ -25,7 +25,7 @@ func main() {
 
 	var httpClient *http.Client
 	token := os.Getenv("GITHUB_TOKEN")
-	if token != "" {
+	if token == "" {
 		fmt.Printf("There is no token specifiec!")
 		os.Exit(1)
 	}
