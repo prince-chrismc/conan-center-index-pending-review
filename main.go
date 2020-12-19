@@ -207,7 +207,7 @@ func main() {
 			return
 		}
 
-		for _, review := range reviews.Reviews {
+		for _, review := range *reviews {
 			fmt.Printf("%+v\n", review)
 		}
 	}
