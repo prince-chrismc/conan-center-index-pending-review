@@ -115,14 +115,14 @@ func main() {
 		}
 	}
 
-	issueComment, _, err := client.Issues.GetComment(context, "conan-io", "conan-center-index", 771457642)
+	issueComment, _, err := client.Issues.GetComment(context, "prince-chrismc", "conan-center-index-pending-review", 771457642)
 	if err != nil {
 		fmt.Printf("Problem getting issue comment %v\n", err)
 		os.Exit(1)
 }
 
 	issueComment.Body = github.String("Hello World, From Action!")
-	issueComment, _, err = client.Issues.EditComment(context, "conan-io", "conan-center-index", 771457642, issueComment)
+	issueComment, _, err = client.Issues.EditComment(context, "prince-chrismc", "conan-center-index-pending-review", 771457642, issueComment)
 	if err != nil {
 		fmt.Printf("Problem editing issue comment %v\n", err)
 		os.Exit(1)
