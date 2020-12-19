@@ -65,6 +65,10 @@ func main() {
 		},
 	})
 	for _, pr := range pulls {
+		if pr.Number == nil || pr.Comments == nil {
+			continue
+		}
+
 		p := PullRequest{Number: *pr.Number, Comments: *pr.Comments}
 		fmt.Printf("%+v\n", p)
 	}
