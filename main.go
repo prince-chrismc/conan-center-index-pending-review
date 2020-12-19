@@ -20,6 +20,11 @@ type Package struct {
 	OpenIssuesCount int
 }
 
+type PullRequest struct {
+	Number   int
+	Comments int
+}
+
 func main() {
 	context := context.Background()
 
@@ -60,17 +65,9 @@ func main() {
 		},
 	})
 	for _, pr := range pulls {
-		fmt.Printf("pull/%d - Reviews: %d", pr.Number, pr.Comments)
+		p := PullRequest{Number: *pr.Number, Comments: *pr.Comments}
+		fmt.Printf("%+v\n", p)
 	}
-
-	commitInfo, _, err := client.Repositories.ListCommits(context, "Golang-Coach", "Lessons", nil)
-
-	if err != nil {
-		fmt.Printf("Problem in commit information %v\n", err)
-		os.Exit(1)
-	}
-
-	fmt.Printf("%+v\n", commitInfo[0]) // Last commit information
 
 	// Get Rate limit information
 	rateLimit, _, err := client.RateLimits(context)
