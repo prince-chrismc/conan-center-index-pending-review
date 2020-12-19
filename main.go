@@ -4,10 +4,8 @@ import (
 	"bufio"
 	"bytes"
 	"context"
-	"encoding/json"
 	"fmt"
 	"io"
-	"io/ioutil"
 	"net/http"
 	"net/url"
 	"os"
@@ -15,7 +13,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/google/go-github/github"
+	"github.com/google/go-github/v33/github"
 	"github.com/google/go-querystring/query"
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/oauth2"
@@ -207,7 +205,6 @@ func main() {
 	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Core.Limit, rateLimit.Core.Remaining)
 
 	repo, _, err := client.Repositories.Get(context, "conan-io", "conan-center-index")
-
 	if err != nil {
 		fmt.Printf("Problem in getting repository information %v\n", err)
 		os.Exit(1)
@@ -233,38 +230,16 @@ func main() {
 		p := PullRequest{Number: pr.GetNumber(), Comments: pr.GetComments(), ReviewUrl: pr.GetReviewCommentsURL()}
 		fmt.Printf("%+v\n", p)
 
-		u, err := addOptions(p.ReviewUrl, github.ListOptions{
+		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
 			Page:    0,
 			PerPage: 10,
 		})
 		if err != nil {
-			fmt.Printf("Problem format reviews request url %v\n", err)
-			return
+			fmt.Printf("Problem getting reviews information %v\n", err)
+			os.Exit(1)
 		}
 
-		req, err := client.NewRequest("GET", u, nil)
-		if err != nil {
-			fmt.Printf("Problem making reviews request %v\n", err)
-			return
-		}
-
-		reviews := new(ReviewsResponse)
-		// resp, err := client.Do(context, req, reviews)
-		resp, err := httpClient.Do(req)
-		if err != nil {
-			fmt.Printf("Problem executing reviews request %v\n", err)
-			return
-		}
-
-		defer resp.Body.Close()
-		body, err := ioutil.ReadAll(resp.Body)
-		ioutil.WriteFile("dump.json", body, 0600)
-		buff := string(body)
-		fmt.Println(buff)
-
-		json.Unmarshal([]byte(buff), reviews)
-
-		for _, review := range *reviews {
+		for _, review := range reviews {
 			// r := *review
 			// fmt.Printf("%+v\n", r)
 			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
