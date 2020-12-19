@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bufio"
 	"bytes"
 	"context"
 	"fmt"
@@ -9,9 +10,12 @@ import (
 	"net/url"
 	"os"
 	"reflect"
+	"strings"
+	"syscall"
 
 	"github.com/google/go-github/github"
 	"github.com/google/go-querystring/query"
+	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/oauth2"
 )
 
@@ -146,16 +150,30 @@ func main() {
 	context := context.Background()
 
 	var httpClient *http.Client
-	token := os.Getenv("GITHUB_TOKEN")
-	if token == "" {
-		fmt.Printf("There is no token specifiec!")
-		os.Exit(1)
+
+	token, exists := os.LookupEnv("GITHUB_TOKEN")
+	if exists {
+		tokenService := oauth2.StaticTokenSource(
+			&oauth2.Token{AccessToken: token},
+		)
+		httpClient = oauth2.NewClient(context, tokenService)
+	} else {
+		r := bufio.NewReader(os.Stdin)
+		fmt.Print("GitHub Username: ")
+		username, _ := r.ReadString('\n')
+
+		fmt.Print("GitHub Password: ")
+		bytePassword, _ := terminal.ReadPassword(int(syscall.Stdin))
+		password := string(bytePassword)
+
+		tp := github.BasicAuthTransport{
+			Username: strings.TrimSpace(username),
+			Password: strings.TrimSpace(password),
+		}
+
+		httpClient = tp.Client()
 	}
 
-	tokenService := oauth2.StaticTokenSource(
-		&oauth2.Token{AccessToken: token},
-	)
-	httpClient = oauth2.NewClient(context, tokenService)
 	client := github.NewClient(httpClient)
 
 	repo, _, err := client.Repositories.Get(context, "conan-io", "conan-center-index")
