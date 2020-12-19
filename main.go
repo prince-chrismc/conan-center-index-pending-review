@@ -36,15 +36,34 @@ type PullRequest struct {
 }
 
 type Review struct {
-	ID                int
-	NodeID            string
-	User              github.User
-	State             string
-	AuthorAssociation string
-	CommitID          string
+	ID                *int         `json:"id,omitempty"`
+	NodeID            *string      `json:"node_id,omitempty"`
+	User              *github.User `json:"user,omitempty"`
+	State             *string      `json:"state,omitempty"`
+	AuthorAssociation *string      `json:"author_association,omitempty"`
+	CommitID          *string      `json:"commit_id,omitempty"`
 }
 
-type ReviewsResponse []Review
+func (r *Review) GetState() string {
+	if r == nil || r.State == nil {
+		return ""
+	}
+	return *r.State
+}
+func (r *Review) GetAuthorAssociation() string {
+	if r == nil || r.AuthorAssociation == nil {
+		return ""
+	}
+	return *r.AuthorAssociation
+}
+func (r *Review) GetCommitID() string {
+	if r == nil || r.CommitID == nil {
+		return ""
+	}
+	return *r.CommitID
+}
+
+type ReviewsResponse []*Review
 
 var timestampType = reflect.TypeOf(github.Timestamp{})
 
@@ -176,6 +195,15 @@ func main() {
 
 	client := github.NewClient(httpClient)
 
+	// Get Rate limit information
+	rateLimit, _, err := client.RateLimits(context)
+	if err != nil {
+		fmt.Printf("Problem in getting rate limit information %v\n", err)
+		return
+	}
+
+	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Core.Limit, rateLimit.Core.Remaining)
+
 	repo, _, err := client.Repositories.Get(context, "conan-io", "conan-center-index")
 
 	if err != nil {
@@ -196,7 +224,7 @@ func main() {
 	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
 		ListOptions: github.ListOptions{
 			Page:    0,
-			PerPage: 100,
+			PerPage: 2,
 		},
 	})
 	for _, pr := range pulls {
@@ -205,7 +233,7 @@ func main() {
 
 		u, err := addOptions(p.ReviewUrl, github.ListOptions{
 			Page:    0,
-			PerPage: 100,
+			PerPage: 10,
 		})
 		if err != nil {
 			fmt.Printf("Problem format reviews request url %v\n", err)
@@ -226,16 +254,9 @@ func main() {
 		}
 
 		for _, review := range *reviews {
-			fmt.Printf("%s (%s): %s\n", review.User.GetName(), review.AuthorAssociation, review.State)
+			r := *review
+			// fmt.Printf("%+v\n", r)
+			fmt.Printf("%s (%s): %s %s\n", r.User.GetLogin(), r.GetAuthorAssociation(), r.GetState(), r.GetCommitID())
 		}
 	}
-
-	// Get Rate limit information
-	rateLimit, _, err := client.RateLimits(context)
-	if err != nil {
-		fmt.Printf("Problem in getting rate limit information %v\n", err)
-		return
-	}
-
-	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Core.Limit, rateLimit.Core.Remaining) // Last commit information
 }
