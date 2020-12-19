@@ -21,8 +21,9 @@ type Package struct {
 }
 
 type PullRequest struct {
-	Number   int
-	Comments int
+	Number    int
+	Comments  int
+	ReviewUrl string
 }
 
 func main() {
@@ -65,11 +66,7 @@ func main() {
 		},
 	})
 	for _, pr := range pulls {
-		if pr.Number == nil || pr.Comments == nil {
-			continue
-		}
-
-		p := PullRequest{Number: *pr.Number, Comments: *pr.Comments}
+		p := PullRequest{Number: pr.GetNumber(), Comments: pr.GetComments(), ReviewUrl: pr.GetReviewCommentsURL()}
 		fmt.Printf("%+v\n", p)
 	}
 
