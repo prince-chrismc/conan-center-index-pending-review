@@ -115,18 +115,13 @@ func main() {
 		}
 	}
 
-	issueComment, _, err := client.Issues.GetComment(context, "prince-chrismc", "conan-center-index-pending-review", 771457642)
+	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
+		Body: github.String("Hello World, From Action!"),
+	})
 	if err != nil {
-		fmt.Printf("Problem getting issue comment %v\n", err)
+		fmt.Printf("Problem editing issue %v\n", err)
 		os.Exit(1)
 }
-
-	issueComment.Body = github.String("Hello World, From Action!")
-	issueComment, _, err = client.Issues.EditComment(context, "prince-chrismc", "conan-center-index-pending-review", 771457642, issueComment)
-	if err != nil {
-		fmt.Printf("Problem editing issue comment %v\n", err)
-		os.Exit(1)
-	}
 }
 
 func determineAndSetupCredentials(context context.Context) *http.Client {
