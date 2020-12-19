@@ -53,7 +53,12 @@ func main() {
 
 	fmt.Printf("%+v\n", pack)
 
-	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{})
+	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
+		ListOptions: github.ListOptions{
+			Page:    0,
+			PerPage: 100,
+		},
+	})
 	for _, pr := range pulls {
 		fmt.Printf("pulls/%d - Reviews: %d", *pr.Number, *pr.Comments)
 	}
