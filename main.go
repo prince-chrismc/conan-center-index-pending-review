@@ -40,9 +40,7 @@ type Review struct {
 	CommitID          string
 }
 
-type ReviewsResponse struct {
-	Reviews []*Review
-}
+type ReviewsResponse []*Review
 
 var timestampType = reflect.TypeOf(github.Timestamp{})
 
