@@ -21,7 +21,6 @@ type Package struct {
 	Description     string
 	StarsCount      int
 	ForksCount      int
-	LastUpdatedBy   string
 	OpenIssuesCount int
 }
 
@@ -72,9 +71,18 @@ func main() {
 			Number: pr.GetNumber(),
 		}
 
+		if len(pr.Labels) > 0 {
+			fmt.Printf("#%d has labels: ", p.Number)
+			for _, label := range pr.Labels {
+				fmt.Printf(" %s", label.GetName())
+			}
+			fmt.Println()
+			continue // We know if there are labels then there's probably somethnig wrong!
+		}
+
 		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
 			Page:    0,
-			PerPage: 10,
+			PerPage: 100,
 		})
 		if err != nil {
 			fmt.Printf("Problem getting reviews information %v\n", err)
@@ -82,9 +90,13 @@ func main() {
 		}
 		p.Reviews = len(reviews)
 
+		if p.Reviews < 1 {
+			continue // Has not been looked at, let's skip!
+		}
+
 		commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
 			Page:    0,
-			PerPage: 10,
+			PerPage: 100,
 		})
 		if err != nil {
 			fmt.Printf("Problem getting reviews information %v\n", err)
