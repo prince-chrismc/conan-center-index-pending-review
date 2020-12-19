@@ -208,7 +208,7 @@ func main() {
 		}
 
 		for _, review := range *reviews {
-			fmt.Printf("%+v\n", review)
+			fmt.Printf("%s (%s): %s\n", review.User.GetName(), review.AuthorAssociation, review.State)
 		}
 	}
 
