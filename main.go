@@ -25,9 +25,9 @@ type Package struct {
 }
 
 type PullRequest struct {
-	Number    int
-	Comments  int
-	ReviewUrl string
+	Number         int
+	Comments       int
+	MergeCommitSHA string
 }
 
 func main() {
@@ -92,7 +92,7 @@ func main() {
 		},
 	})
 	for _, pr := range pulls {
-		p := PullRequest{Number: pr.GetNumber(), Comments: pr.GetComments(), ReviewUrl: pr.GetReviewCommentsURL()}
+		p := PullRequest{Number: pr.GetNumber(), Comments: pr.GetComments(), MergeCommitSHA: pr.GetMergeCommitSHA()}
 		fmt.Printf("%+v\n", p)
 
 		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
@@ -103,6 +103,18 @@ func main() {
 			fmt.Printf("Problem getting reviews information %v\n", err)
 			os.Exit(1)
 		}
+
+		commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
+			Page:    0,
+			PerPage: 10,
+		})
+		if err != nil {
+			fmt.Printf("Problem getting reviews information %v\n", err)
+			os.Exit(1)
+		}
+
+		head := commits[len(commits)-1]
+		fmt.Printf("last SHA: %s\n", head.GetSHA())
 
 		for _, review := range reviews {
 			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
