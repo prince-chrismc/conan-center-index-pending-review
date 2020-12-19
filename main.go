@@ -114,6 +114,19 @@ func main() {
 			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
 		}
 	}
+
+	issueComment, _, err := client.Issues.GetComment(context, "conan-io", "conan-center-index", 771457642)
+	if err != nil {
+		fmt.Printf("Problem getting issue comment %v\n", err)
+		os.Exit(1)
+}
+
+	issueComment.Body = github.String("Hello World, From Action!")
+	issueComment, _, err = client.Issues.EditComment(context, "conan-io", "conan-center-index", 771457642, issueComment)
+	if err != nil {
+		fmt.Printf("Problem editing issue comment %v\n", err)
+		os.Exit(1)
+	}
 }
 
 func determineAndSetupCredentials(context context.Context) *http.Client {
