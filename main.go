@@ -60,7 +60,7 @@ func main() {
 		},
 	})
 	for _, pr := range pulls {
-		fmt.Printf("%+v", *pr)
+		fmt.Printf("pull/%d - Reviews: %d", pr.Number, pr.Comments)
 	}
 
 	commitInfo, _, err := client.Repositories.ListCommits(context, "Golang-Coach", "Lessons", nil)
