@@ -8,6 +8,7 @@ import (
 	"net/http"
 	"os"
 	"strings"
+	"sync"
 	"syscall"
 
 	"github.com/google/go-github/v33/github"
@@ -92,7 +93,8 @@ func main() {
 
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) <-chan PullRequest {
 	out := make(chan PullRequest)
-	defer close(out)
+	var wg sync.WaitGroup
+
 	for _, pr := range prs {
 		if len := len(pr.Labels); len > 0 {
 			if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
@@ -100,7 +102,10 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			}
 		}
 
+		wg.Add(1)
 		go func(pr *github.PullRequest) {
+			defer wg.Done()
+
 			p := PullRequest{
 				Number:    pr.GetNumber(),
 				ReviewURL: pr.GetURL(),
@@ -145,9 +150,11 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			if p.AtLeastOneApproval {
 				out <- p
 			}
-
 		}(pr)
 	}
+
+	wg.Wait()
+	close(out)
 	return out
 }
 
