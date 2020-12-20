@@ -153,7 +153,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			case CHANGE:
 				fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, review.GetState(), review.GetCommitID())
 				if onBranchHead && isC3iTeam {
-					p.HeadCommitBlockers = append(p.HeadCommitApprovals, reviewerName)
+					p.HeadCommitBlockers = append(p.HeadCommitBlockers, reviewerName)
 				}
 			case APPRVD:
 				p.AtLeastOneApproval = true
