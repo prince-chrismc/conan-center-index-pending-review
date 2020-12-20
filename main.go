@@ -20,6 +20,7 @@ type PullRequest struct {
 	Number              int
 	Reviews             int
 	LastCommitSHA       string
+	ReviewURL           string
 	AtLeastOneApproval  bool
 	HeadCommitApprovals []string
 }
@@ -100,7 +101,8 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			}
 
 			p := PullRequest{
-				Number: pr.GetNumber(),
+				Number:    pr.GetNumber(),
+				ReviewURL: pr.GetURL(),
 			}
 
 			reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
