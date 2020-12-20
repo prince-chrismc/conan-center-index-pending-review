@@ -92,14 +92,14 @@ func main() {
 
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) <-chan PullRequest {
 	out := make(chan PullRequest)
-	go func() {
-		for _, pr := range prs {
-			if len := len(pr.Labels); len > 0 {
-				if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
-					continue // We know if there are labels then there's probably somethnig wrong!
-				}
+	for _, pr := range prs {
+		if len := len(pr.Labels); len > 0 {
+			if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
+				continue // We know if there are labels then there's probably somethnig wrong!
 			}
+		}
 
+		go func(pr *github.PullRequest) {
 			p := PullRequest{
 				Number:    pr.GetNumber(),
 				ReviewURL: pr.GetURL(),
@@ -115,7 +115,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			}
 
 			if p.Reviews = len(reviews); p.Reviews < 1 {
-				continue // Has not been looked at, let's skip!
+				return // Has not been looked at, let's skip!
 			}
 
 			commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
@@ -144,11 +144,10 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			if p.AtLeastOneApproval {
 				out <- p
 			}
-		}
-		close(out)
-	}()
+			close(out)
+		}(pr)
+	}
 	return out
-
 }
 
 func containsLabelNamed(slice []*github.Label, item string) bool {
