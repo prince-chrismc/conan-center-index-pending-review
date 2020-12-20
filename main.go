@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"context"
+	"encoding/json"
 	"fmt"
 	"net/http"
 	"os"
@@ -16,9 +17,11 @@ import (
 )
 
 type PullRequest struct {
-	Number        int
-	Reviews       int
-	LastCommitSHA string
+	Number              int
+	Reviews             int
+	LastCommitSHA       string
+	AtLeastOneApproval  bool
+	HeadCommitApprovals int
 }
 
 func main() {
@@ -45,22 +48,20 @@ func main() {
 	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
 		ListOptions: github.ListOptions{
 			Page:    0,
-			PerPage: 5,
+			PerPage: 25,
 		},
 	})
 
+	var retval []PullRequest
 	for _, pr := range pulls {
 		p := PullRequest{
 			Number: pr.GetNumber(),
 		}
 
-		if len(pr.Labels) > 0 {
-			fmt.Printf("#%d has labels: ", p.Number)
-			for _, label := range pr.Labels {
-				fmt.Printf(" %s", label.GetName())
-			}
-			fmt.Println()
+		if len := len(pr.Labels); len > 0 {
+			if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
 			continue // We know if there are labels then there's probably somethnig wrong!
+		}
 		}
 
 		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
@@ -71,9 +72,8 @@ func main() {
 			fmt.Printf("Problem getting reviews information %v\n", err)
 			os.Exit(1)
 		}
-		p.Reviews = len(reviews)
 
-		if p.Reviews < 1 {
+		if p.Reviews = len(reviews); p.Reviews < 1 {
 			continue // Has not been looked at, let's skip!
 		}
 
@@ -88,23 +88,49 @@ func main() {
 
 		head := commits[len(commits)-1]
 		p.LastCommitSHA = head.GetSHA()
-		fmt.Printf("%+v\n", p)
 
 		for _, review := range reviews {
 			if review.GetState() != "APPROVED" {
 				continue // Let's ignore the rest!
 			}
+
+			p.AtLeastOneApproval = true
 			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
+
+			if p.LastCommitSHA == review.GetCommitID() {
+				p.HeadCommitApprovals = p.HeadCommitApprovals + 1
 		}
+		}
+
+		if p.AtLeastOneApproval {
+			retval = append(retval, p)
+		}
+
+		fmt.Printf("%+v\n", p)
+	}
+
+	bytes, err := json.MarshalIndent(retval, "", " ")
+	if err != nil {
+		fmt.Printf("Problem formating result to JSON %v\n", err)
+		os.Exit(1)
 	}
 
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
-		Body: github.String("Hello World, From Action!"),
+		Body: github.String("Hello World, From Action! ```json" + string(bytes) + "```"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
 		os.Exit(1)
 	}
+}
+
+func containsLabelNamed(slice []*github.Label, item string) bool {
+	for _, a := range slice {
+		if a.GetName() == item {
+			return true
+		}
+	}
+	return false
 }
 
 func determineAndSetupCredentials(context context.Context) *http.Client {
