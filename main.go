@@ -8,7 +8,6 @@ import (
 	"net/http"
 	"os"
 	"strings"
-	"sync"
 	"syscall"
 
 	"github.com/google/go-github/v33/github"
@@ -21,7 +20,6 @@ type PullRequest struct {
 	Number              int
 	Reviews             int
 	LastCommitSHA       string
-	ReviewURL           string
 	AtLeastOneApproval  bool
 	HeadCommitApprovals []string
 }
@@ -65,7 +63,6 @@ func main() {
 
 		out := gatherReviewStatus(context, client, pulls...) // start a goroutine for each PR to speed up proccessing
 		for pr := range out {
-			fmt.Printf("%+v\n", pr)
 			retval = append(retval, pr)
 		}
 
@@ -76,7 +73,7 @@ func main() {
 		opt.Page = resp.NextPage
 	}
 
-	bytes, err := json.MarshalIndent(retval, "", "   ")
+	bytes, err := json.MarshalIndent(retval, "", " ")
 	if err != nil {
 		fmt.Printf("Problem formating result to JSON %v\n", err)
 		os.Exit(1)
@@ -91,75 +88,65 @@ func main() {
 	}
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) <-chan PullRequest {
-	out := make(chan PullRequest)
-	var wg sync.WaitGroup
-
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) []PullRequest {
+	var out []PullRequest
 	for _, pr := range prs {
+		p := PullRequest{
+			Number: pr.GetNumber(),
+		}
+
 		if len := len(pr.Labels); len > 0 {
 			if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
 				continue // We know if there are labels then there's probably somethnig wrong!
 			}
 		}
 
-		wg.Add(1)
-		go func(pr *github.PullRequest, wg *sync.WaitGroup) {
-			fmt.Println(pr.GetNumber(), "Starting goroutine")
-			defer wg.Done()
+		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
+			Page:    0,
+			PerPage: 100,
+		})
+		if err != nil {
+			fmt.Printf("Problem getting list of reviews %v\n", err)
+			os.Exit(1)
+		}
 
-			p := PullRequest{
-				Number:    pr.GetNumber(),
-				ReviewURL: pr.GetURL(),
+		if p.Reviews = len(reviews); p.Reviews < 1 {
+			continue // Has not been looked at, let's skip!
+		}
+
+		commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
+			Page:    0,
+			PerPage: 100,
+		})
+		if err != nil {
+			fmt.Printf("Problem getting list of commits %v\n", err)
+			os.Exit(1)
+		}
+
+		head := commits[len(commits)-1]
+		p.LastCommitSHA = head.GetSHA()
+
+		for _, review := range reviews {
+			if review.GetState() != "APPROVED" {
+				continue // Let's ignore the rest!
 			}
 
-			reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
-				Page:    0,
-				PerPage: 100,
-			})
-			if err != nil {
-				fmt.Printf("Problem getting list of reviews %v\n", err)
-				os.Exit(1)
+			p.AtLeastOneApproval = true
+			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
+
+			if p.LastCommitSHA == review.GetCommitID() {
+				p.HeadCommitApprovals = append(p.HeadCommitApprovals, review.User.GetLogin())
 			}
+		}
 
-			if p.Reviews = len(reviews); p.Reviews < 1 {
-				fmt.Println(pr.GetNumber(), "no reviews!")
-				return // Has not been looked at, let's skip!
-			}
+		if p.AtLeastOneApproval {
+			out = append(out, p)
+		}
 
-			commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
-				Page:    0,
-				PerPage: 100,
-			})
-			if err != nil {
-				fmt.Printf("Problem getting list of commits %v\n", err)
-				os.Exit(1)
-			}
-
-			head := commits[len(commits)-1]
-			p.LastCommitSHA = head.GetSHA()
-
-			for _, review := range reviews {
-				if review.GetState() != "APPROVED" {
-					continue // Let's ignore the rest!
-				}
-
-				p.AtLeastOneApproval = true
-				if p.LastCommitSHA == review.GetCommitID() {
-					p.HeadCommitApprovals = append(p.HeadCommitApprovals, review.User.GetLogin())
-				}
-			}
-
-			if p.AtLeastOneApproval {
-				out <- p
-			}
-			fmt.Println(pr.GetNumber(), "completed")
-			return
-		}(pr, &wg)
+		fmt.Printf("%+v\n", p)
 	}
-
-	wg.Wait()
-	close(out)
 	return out
+
 }
 
 func containsLabelNamed(slice []*github.Label, item string) bool {
