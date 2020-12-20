@@ -61,61 +61,10 @@ func main() {
 			os.Exit(1)
 		}
 
-	for _, pr := range pulls {
-		p := PullRequest{
-			Number: pr.GetNumber(),
+		out := gatherReviewStatus(context, client, pulls...) // start a goroutine for each PR to speed up proccessing
+		for pr := range out {
+			retval = append(retval, pr)
 		}
-
-		if len := len(pr.Labels); len > 0 {
-			if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
-			continue // We know if there are labels then there's probably somethnig wrong!
-		}
-		}
-
-		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
-			Page:    0,
-			PerPage: 100,
-		})
-		if err != nil {
-				fmt.Printf("Problem getting list of reviews %v\n", err)
-			os.Exit(1)
-		}
-
-		if p.Reviews = len(reviews); p.Reviews < 1 {
-			continue // Has not been looked at, let's skip!
-		}
-
-		commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
-			Page:    0,
-			PerPage: 100,
-		})
-		if err != nil {
-				fmt.Printf("Problem getting list of commits %v\n", err)
-			os.Exit(1)
-		}
-
-		head := commits[len(commits)-1]
-		p.LastCommitSHA = head.GetSHA()
-
-		for _, review := range reviews {
-			if review.GetState() != "APPROVED" {
-				continue // Let's ignore the rest!
-			}
-
-			p.AtLeastOneApproval = true
-			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
-
-			if p.LastCommitSHA == review.GetCommitID() {
-				p.HeadCommitApprovals = append(p.HeadCommitApprovals, review.User.GetLogin())
-		}
-		}
-
-		if p.AtLeastOneApproval {
-			retval = append(retval, p)
-		}
-
-		fmt.Printf("%+v\n", p)
-	}
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
 		if resp.NextPage == 0 {
@@ -137,6 +86,70 @@ func main() {
 		fmt.Printf("Problem editing issue %v\n", err)
 		os.Exit(1)
 	}
+}
+
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) <-chan PullRequest {
+	out := make(chan PullRequest)
+	go func() {
+		for _, pr := range prs {
+			p := PullRequest{
+				Number: pr.GetNumber(),
+			}
+
+			if len := len(pr.Labels); len > 0 {
+				if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
+					continue // We know if there are labels then there's probably somethnig wrong!
+				}
+			}
+
+			reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
+				Page:    0,
+				PerPage: 100,
+			})
+			if err != nil {
+				fmt.Printf("Problem getting list of reviews %v\n", err)
+				os.Exit(1)
+			}
+
+			if p.Reviews = len(reviews); p.Reviews < 1 {
+				continue // Has not been looked at, let's skip!
+			}
+
+			commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
+				Page:    0,
+				PerPage: 100,
+			})
+			if err != nil {
+				fmt.Printf("Problem getting list of commits %v\n", err)
+				os.Exit(1)
+			}
+
+			head := commits[len(commits)-1]
+			p.LastCommitSHA = head.GetSHA()
+
+			for _, review := range reviews {
+				if review.GetState() != "APPROVED" {
+					continue // Let's ignore the rest!
+				}
+
+				p.AtLeastOneApproval = true
+				fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
+
+				if p.LastCommitSHA == review.GetCommitID() {
+					p.HeadCommitApprovals = append(p.HeadCommitApprovals, review.User.GetLogin())
+				}
+			}
+
+			if p.AtLeastOneApproval {
+				out <- p
+			}
+
+			fmt.Printf("%+v\n", p)
+		}
+		close(out)
+	}()
+	return out
+
 }
 
 func containsLabelNamed(slice []*github.Label, item string) bool {
