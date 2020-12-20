@@ -144,7 +144,8 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			if p.AtLeastOneApproval {
 				out <- p
 			}
-			close(out)
+
+			defer close(out)
 		}(pr)
 	}
 	return out
