@@ -150,6 +150,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			if p.AtLeastOneApproval {
 				out <- p
 			}
+			return
 		}(pr)
 	}
 
