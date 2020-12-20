@@ -21,7 +21,7 @@ type PullRequest struct {
 	Reviews             int
 	LastCommitSHA       string
 	AtLeastOneApproval  bool
-	HeadCommitApprovals int
+	HeadCommitApprovals []string
 }
 
 func main() {
@@ -98,7 +98,7 @@ func main() {
 			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
 
 			if p.LastCommitSHA == review.GetCommitID() {
-				p.HeadCommitApprovals = p.HeadCommitApprovals + 1
+				p.HeadCommitApprovals = append(p.HeadCommitApprovals, review.User.GetLogin())
 		}
 		}
 
