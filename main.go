@@ -15,15 +15,6 @@ import (
 	"golang.org/x/oauth2"
 )
 
-// Model
-type Package struct {
-	FullName        string
-	Description     string
-	StarsCount      int
-	ForksCount      int
-	OpenIssuesCount int
-}
-
 type PullRequest struct {
 	Number        int
 	Reviews       int
@@ -44,25 +35,17 @@ func main() {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	repo, _, err := client.Repositories.Get(context, "conan-io", "conan-center-index")
+	repo, _, err := client.Repository.Get(context, "conan-io", "conan-center-index")
 	if err != nil {
 		fmt.Printf("Problem in getting repository information %v\n", err)
 		os.Exit(1)
 	}
-	fmt.Printf("%+v\n-----\n", Package{
-		FullName:        *repo.FullName,
-		Description:     *repo.Description,
-		ForksCount:      *repo.ForksCount,
-		StarsCount:      *repo.StargazersCount,
-		OpenIssuesCount: *repo.OpenIssuesCount,
-	})
+	fmt.Printf("%+v\n-----\n", repo)
 
 	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
-		// Sort:      "long-running",
-		// Direction: "desc",
 		ListOptions: github.ListOptions{
 			Page:    0,
-			PerPage: 100,
+			PerPage: 5,
 		},
 	})
 
@@ -121,7 +104,7 @@ func main() {
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
 		os.Exit(1)
-}
+	}
 }
 
 func determineAndSetupCredentials(context context.Context) *http.Client {
