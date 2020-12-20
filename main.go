@@ -20,6 +20,7 @@ type PullRequest struct {
 	Number              int
 	Reviews             int
 	LastCommitSHA       string
+	ReviewURL           string
 	AtLeastOneApproval  bool
 	HeadCommitApprovals []string
 }
@@ -62,9 +63,7 @@ func main() {
 		}
 
 		out := gatherReviewStatus(context, client, pulls...) // start a goroutine for each PR to speed up proccessing
-		for pr := range out {
-			retval = append(retval, pr)
-		}
+		retval = append(retval, out...)
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
 		if resp.NextPage == 0 {
@@ -73,7 +72,7 @@ func main() {
 		opt.Page = resp.NextPage
 	}
 
-	bytes, err := json.MarshalIndent(retval, "", " ")
+	bytes, err := json.MarshalIndent(retval, "", "   ")
 	if err != nil {
 		fmt.Printf("Problem formating result to JSON %v\n", err)
 		os.Exit(1)
@@ -91,14 +90,15 @@ func main() {
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) []PullRequest {
 	var out []PullRequest
 	for _, pr := range prs {
-		p := PullRequest{
-			Number: pr.GetNumber(),
-		}
-
 		if len := len(pr.Labels); len > 0 {
 			if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
 				continue // We know if there are labels then there's probably somethnig wrong!
 			}
+		}
+
+		p := PullRequest{
+			Number:    pr.GetNumber(),
+			ReviewURL: pr.GetURL(),
 		}
 
 		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
