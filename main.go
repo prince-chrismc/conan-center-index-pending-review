@@ -103,7 +103,8 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		wg.Add(1)
-		go func(pr *github.PullRequest) {
+		go func(pr *github.PullRequest, wg *sync.WaitGroup) {
+			fmt.Println(pr.GetNumber(), "Starting goroutine")
 			defer wg.Done()
 
 			p := PullRequest{
@@ -121,6 +122,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			}
 
 			if p.Reviews = len(reviews); p.Reviews < 1 {
+				fmt.Println(pr.GetNumber(), "no reviews!")
 				return // Has not been looked at, let's skip!
 			}
 
@@ -150,8 +152,9 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			if p.AtLeastOneApproval {
 				out <- p
 			}
+			fmt.Println(pr.GetNumber(), "completed")
 			return
-		}(pr)
+		}(pr, &wg)
 	}
 
 	wg.Wait()
