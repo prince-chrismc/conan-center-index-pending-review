@@ -16,13 +16,29 @@ import (
 	"golang.org/x/oauth2"
 )
 
+const (
+	// Labels
+	BUMP_VERSION = "Bump Version"
+
+	// Review States
+	CHANGE = "CHANGES_REQUESTED"
+	APPRVD = "APPROVED"
+
+	// Author Associations
+	COLLABORATOR = "COLLABORATOR"
+	CONTRIBUTOR  = "CONTRIBUTOR"
+	MEMBER       = "MEMBER"
+)
+
 type PullRequest struct {
 	Number              int
-	Reviews             int
-	LastCommitSHA       string
+	OpenedBy            string
 	ReviewURL           string
+	LastCommitSHA       string
+	Reviews             int
 	AtLeastOneApproval  bool
 	HeadCommitApprovals []string
+	HeadCommitBlockers  []string
 }
 
 func main() {
@@ -91,13 +107,14 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 	var out []PullRequest
 	for _, pr := range prs {
 		if len := len(pr.Labels); len > 0 {
-			if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
+			if len > 1 || !containsLabelNamed(pr.Labels, BUMP_VERSION) {
 				continue // We know if there are labels then there's probably somethnig wrong!
 			}
 		}
 
 		p := PullRequest{
 			Number:    pr.GetNumber(),
+			OpenedBy:  pr.GetUser().GetLogin(),
 			ReviewURL: pr.GetHTMLURL(),
 		}
 
@@ -127,16 +144,27 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		p.LastCommitSHA = head.GetSHA()
 
 		for _, review := range reviews {
-			if review.GetState() != "APPROVED" {
-				continue // Let's ignore the rest!
+			onBranchHead := p.LastCommitSHA == review.GetCommitID()
+			reviewerName := review.User.GetLogin()
+			reviewerAssociation := review.GetAuthorAssociation()
+			isC3iTeam := reviewerAssociation == MEMBER || reviewerAssociation == COLLABORATOR
+
+			switch state := review.GetState(); state {
+			case CHANGE:
+				fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, review.GetState(), review.GetCommitID())
+				if onBranchHead && isC3iTeam {
+					p.HeadCommitBlockers = append(p.HeadCommitApprovals, reviewerName)
+				}
+			case APPRVD:
+				p.AtLeastOneApproval = true
+				fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, review.GetState(), review.GetCommitID())
+
+				if onBranchHead {
+					p.HeadCommitApprovals = append(p.HeadCommitApprovals, reviewerName)
+				}
+			default:
 			}
 
-			p.AtLeastOneApproval = true
-			fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
-
-			if p.LastCommitSHA == review.GetCommitID() {
-				p.HeadCommitApprovals = append(p.HeadCommitApprovals, review.User.GetLogin())
-			}
 		}
 
 		if p.AtLeastOneApproval {
@@ -156,6 +184,15 @@ func containsLabelNamed(slice []*github.Label, item string) bool {
 		}
 	}
 	return false
+}
+
+func find(slice []string, val string) (int, bool) {
+	for i, item := range slice {
+		if item == val {
+			return i, true
+		}
+	}
+	return -1, false
 }
 
 func determineAndSetupCredentials(context context.Context) *http.Client {
