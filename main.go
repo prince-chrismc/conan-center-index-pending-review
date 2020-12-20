@@ -63,6 +63,7 @@ func main() {
 
 		out := gatherReviewStatus(context, client, pulls...) // start a goroutine for each PR to speed up proccessing
 		for pr := range out {
+			fmt.Printf("%+v\n", pr)
 			retval = append(retval, pr)
 		}
 
@@ -73,7 +74,7 @@ func main() {
 		opt.Page = resp.NextPage
 	}
 
-	bytes, err := json.MarshalIndent(retval, "", " ")
+	bytes, err := json.MarshalIndent(retval, "", "   ")
 	if err != nil {
 		fmt.Printf("Problem formating result to JSON %v\n", err)
 		os.Exit(1)
@@ -92,14 +93,14 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 	out := make(chan PullRequest)
 	go func() {
 		for _, pr := range prs {
-			p := PullRequest{
-				Number: pr.GetNumber(),
-			}
-
 			if len := len(pr.Labels); len > 0 {
 				if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
 					continue // We know if there are labels then there's probably somethnig wrong!
 				}
+			}
+
+			p := PullRequest{
+				Number: pr.GetNumber(),
 			}
 
 			reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
@@ -133,8 +134,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 				}
 
 				p.AtLeastOneApproval = true
-				fmt.Printf("%s (%s): '%s' on commit %s\n", review.User.GetLogin(), review.GetAuthorAssociation(), review.GetState(), review.GetCommitID())
-
 				if p.LastCommitSHA == review.GetCommitID() {
 					p.HeadCommitApprovals = append(p.HeadCommitApprovals, review.User.GetLogin())
 				}
@@ -143,8 +142,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			if p.AtLeastOneApproval {
 				out <- p
 			}
-
-			fmt.Printf("%+v\n", p)
 		}
 		close(out)
 	}()
