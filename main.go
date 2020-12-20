@@ -53,7 +53,7 @@ func main() {
 		Direction: "asc",
 		ListOptions: github.ListOptions{
 			Page:    0,
-			PerPage: 3,
+			PerPage: 100,
 		},
 	}
 	for {
