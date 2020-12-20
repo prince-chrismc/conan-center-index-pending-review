@@ -48,7 +48,7 @@ func main() {
 	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
 		ListOptions: github.ListOptions{
 			Page:    0,
-			PerPage: 25,
+			PerPage: 100,
 		},
 	})
 
@@ -116,7 +116,7 @@ func main() {
 	}
 
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
-		Body: github.String("Hello World, From Action! ```json" + string(bytes) + "```"),
+		Body: github.String("Hello World, From Action!\n\n```json\n" + string(bytes) + "\n```"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
