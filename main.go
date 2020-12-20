@@ -52,7 +52,7 @@ func main() {
 		Direction: "asc",
 		ListOptions: github.ListOptions{
 			Page:    0,
-			PerPage: 100,
+			PerPage: 3,
 		},
 	}
 	for {
@@ -92,6 +92,7 @@ func main() {
 
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) <-chan PullRequest {
 	out := make(chan PullRequest)
+	defer close(out)
 	for _, pr := range prs {
 		if len := len(pr.Labels); len > 0 {
 			if len > 1 || !containsLabelNamed(pr.Labels, "Bump Version") {
@@ -145,7 +146,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 				out <- p
 			}
 
-			defer close(out)
 		}(pr)
 	}
 	return out
