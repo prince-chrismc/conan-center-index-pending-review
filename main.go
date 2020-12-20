@@ -45,14 +45,22 @@ func main() {
 	}
 	fmt.Printf("%+v\n-----\n", repo)
 
-	pulls, _, err := client.PullRequests.List(context, "conan-io", "conan-center-index", &github.PullRequestListOptions{
+	var retval []PullRequest
+	opt := &github.PullRequestListOptions{
+		Sort:      "created",
+		Direction: "asc",
 		ListOptions: github.ListOptions{
 			Page:    0,
 			PerPage: 100,
 		},
-	})
+	}
+	for {
+		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
+		if err != nil {
+			fmt.Printf("Problem getting pull request list %v\n", err)
+			os.Exit(1)
+		}
 
-	var retval []PullRequest
 	for _, pr := range pulls {
 		p := PullRequest{
 			Number: pr.GetNumber(),
@@ -69,7 +77,7 @@ func main() {
 			PerPage: 100,
 		})
 		if err != nil {
-			fmt.Printf("Problem getting reviews information %v\n", err)
+				fmt.Printf("Problem getting list of reviews %v\n", err)
 			os.Exit(1)
 		}
 
@@ -82,7 +90,7 @@ func main() {
 			PerPage: 100,
 		})
 		if err != nil {
-			fmt.Printf("Problem getting reviews information %v\n", err)
+				fmt.Printf("Problem getting list of commits %v\n", err)
 			os.Exit(1)
 		}
 
@@ -107,6 +115,13 @@ func main() {
 		}
 
 		fmt.Printf("%+v\n", p)
+	}
+
+		// Handle Pagination: https://github.com/google/go-github#pagination
+		if resp.NextPage == 0 {
+			break
+		}
+		opt.Page = resp.NextPage
 	}
 
 	bytes, err := json.MarshalIndent(retval, "", " ")
