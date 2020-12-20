@@ -98,7 +98,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 
 		p := PullRequest{
 			Number:    pr.GetNumber(),
-			ReviewURL: pr.GetURL(),
+			ReviewURL: pr.GetHTMLURL(),
 		}
 
 		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
