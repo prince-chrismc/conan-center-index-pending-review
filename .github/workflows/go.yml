@@ -1,6 +1,8 @@
 name: Go
 
 on:
+  schedule:
+    - cron:  '0 12 * * *' # 7am GMT-5
   push:
     branches: [ main ]
   pull_request:
