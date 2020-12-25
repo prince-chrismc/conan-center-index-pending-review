@@ -78,7 +78,7 @@ func main() {
 			os.Exit(1)
 		}
 
-		out := gatherReviewStatus(context, client, pulls...) // start a goroutine for each PR to speed up proccessing
+		out := gatherReviewStatus(context, client, pulls...)
 		retval = append(retval, out...)
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
