@@ -123,11 +123,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			LastCommitSHA: pr.GetHead().GetSHA(),
 		}
 
-		if pr.GetComments() < 1 && pr.GetReviewComments() < 1 {
-			out = append(out, p)
-			continue // Has not been looked at, let's save it and continue!
-		}
-
 		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
 			Page:    0,
 			PerPage: 100,
@@ -139,7 +134,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 
 		if p.Reviews = len(reviews); p.Reviews < 1 {
 			out = append(out, p)
-			continue // Has not been looked at, let's save it and continue!
+			continue // Has not been looked at, let's save it!
 		}
 
 		for _, review := range reviews {
