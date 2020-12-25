@@ -78,7 +78,7 @@ func main() {
 			os.Exit(1)
 		}
 
-		out := gatherReviewStatus(context, client, pulls...)
+		out := gatherReviewStatus(context, client, pulls...) // start a goroutine for each PR to speed up proccessing
 		retval = append(retval, out...)
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
@@ -106,6 +106,10 @@ func main() {
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) []PullRequest {
 	var out []PullRequest
 	for _, pr := range prs {
+		if pr.GetDraft() {
+			continue // Let's skip these
+		}
+
 		if len := len(pr.Labels); len > 0 {
 			if len > 1 || !containsLabelNamed(pr.Labels, BUMP_VERSION) {
 				continue // We know if there are labels then there's probably somethnig wrong!
