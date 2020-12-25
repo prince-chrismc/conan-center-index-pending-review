@@ -78,7 +78,7 @@ func main() {
 			os.Exit(1)
 		}
 
-		out := gatherReviewStatus(context, client, pulls...) // start a goroutine for each PR to speed up proccessing
+		out := gatherReviewStatus(context, client, pulls...)
 		retval = append(retval, out...)
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
@@ -117,9 +117,15 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		p := PullRequest{
-			Number:    pr.GetNumber(),
-			OpenedBy:  pr.GetUser().GetLogin(),
-			ReviewURL: pr.GetHTMLURL(),
+			Number:        pr.GetNumber(),
+			OpenedBy:      pr.GetUser().GetLogin(),
+			ReviewURL:     pr.GetHTMLURL(),
+			LastCommitSHA: pr.GetHead().GetSHA(),
+		}
+
+		if pr.GetComments() < 1 && pr.GetReviewComments() < 1 {
+			out = append(out, p)
+			continue // Has not been looked at, let's save it and continue!
 		}
 
 		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
@@ -132,20 +138,9 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		if p.Reviews = len(reviews); p.Reviews < 1 {
-			continue // Has not been looked at, let's skip!
+			out = append(out, p)
+			continue // Has not been looked at, let's save it and continue!
 		}
-
-		commits, _, err := client.PullRequests.ListCommits(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
-			Page:    0,
-			PerPage: 100,
-		})
-		if err != nil {
-			fmt.Printf("Problem getting list of commits %v\n", err)
-			os.Exit(1)
-		}
-
-		head := commits[len(commits)-1]
-		p.LastCommitSHA = head.GetSHA()
 
 		for _, review := range reviews {
 			onBranchHead := p.LastCommitSHA == review.GetCommitID()
