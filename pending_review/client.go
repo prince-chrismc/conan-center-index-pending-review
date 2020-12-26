@@ -27,6 +27,7 @@ func NewClient(httpClient *http.Client) *Client {
 	c := &Client{Client: github.NewClient(httpClient)}
 	c.common.client = c
 	c.Repository = (*RepositoryService)(&c.common)
+	c.PullRequest = (*PullRequestService)(&c.common)
 	return c
 }
 
