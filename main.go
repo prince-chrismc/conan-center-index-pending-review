@@ -12,7 +12,7 @@ import (
 	"syscall"
 
 	"github.com/google/go-github/v33/github"
-	"github.com/prince-chrismc/conan-center-index-pending-review/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v1/pending_review"
 	"golang.org/x/crypto/ssh/terminal"
 	"golang.org/x/oauth2"
 )
@@ -20,27 +20,7 @@ import (
 const (
 	// Labels
 	BUMP_VERSION = "Bump Version"
-
-	// Review States
-	CHANGE = "CHANGES_REQUESTED"
-	APPRVD = "APPROVED"
-
-	// Author Associations
-	COLLABORATOR = "COLLABORATOR"
-	CONTRIBUTOR  = "CONTRIBUTOR"
-	MEMBER       = "MEMBER"
 )
-
-type PullRequest struct {
-	Number              int
-	OpenedBy            string
-	ReviewURL           string
-	LastCommitSHA       string
-	Reviews             int
-	AtLeastOneApproval  bool
-	HeadCommitApprovals []string
-	HeadCommitBlockers  []string
-}
 
 func main() {
 	context := context.Background()
@@ -96,7 +76,20 @@ func main() {
 	}
 
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
-		Body: github.String("Hello World, From Action!\n\n```json\n" + string(bytes) + "\n```"),
+		Body: github.String(`## :sparkles: Pull Requests Pending Review Summary!
+
+### :ballot_box_with_check: Selection Criteria:
+
+- No reivews and pull requests was created within 24hrs
+- There has been at least one approval
+
+### :nerd_face: Please Review!
+
+Number | Opened By | Total Reviews | Blockers | Approvers
+--- | --- | --- | --- | ---
+1 | octocat | 5 | :stop_sign: | :glowing_star:
+
+` + "<details><summary>Raw JSON data</summary>```json\n" + string(bytes) + "\n```</details>"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
