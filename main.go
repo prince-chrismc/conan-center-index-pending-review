@@ -140,7 +140,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 				if pr.GetCreatedAt().Add(hours).After(time.Now()) { // created within 24hrs
 					out = append(out, p) // let's save it!
 				}
-				continue
+				break
 			}
 
 			for _, review := range reviews {
