@@ -78,7 +78,7 @@ func main() {
 			os.Exit(1)
 		}
 
-		out := gatherReviewStatus(context, client, pulls...)
+		out := gatherReviewStatus(context, client, pulls)
 		retval = append(retval, out...)
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
@@ -103,7 +103,7 @@ func main() {
 	}
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs ...*github.PullRequest) []PullRequest {
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*github.PullRequest) []PullRequest {
 	var out []PullRequest
 	for _, pr := range prs {
 		if pr.GetDraft() {
@@ -127,7 +127,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			Page:    0,
 			PerPage: 100,
 		}
-		reviews, resp, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, opt)
+		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, opt)
 		if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)
 			os.Exit(1)
@@ -167,10 +167,10 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 
 		fmt.Printf("%+v\n", p)
 
-		if resp.NextPage == 0 {
-			break
-		}
-		opt.Page = resp.NextPage
+		// if resp.NextPage == 0 {
+		// 	break
+		// }
+		// opt.Page = resp.NextPage
 	}
 	return out
 
