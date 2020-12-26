@@ -9,6 +9,7 @@ import (
 	"os"
 	"strings"
 	"syscall"
+	"time"
 
 	"github.com/google/go-github/v33/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/pending_review"
@@ -134,9 +135,12 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 				os.Exit(1)
 			}
 
-			if p.Reviews = len(reviews); p.Reviews < 1 {
-				out = append(out, p)
-				continue // Has not been looked at, let's save it!
+			if p.Reviews = len(reviews); p.Reviews < 1 { // Has not been looked at...
+				hours, _ := time.ParseDuration("24h")
+				if pr.GetCreatedAt().Add(hours).After(time.Now()) { // created within 24hrs
+					out = append(out, p) // let's save it!
+				}
+				continue
 			}
 
 			for _, review := range reviews {
