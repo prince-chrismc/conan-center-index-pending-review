@@ -127,53 +127,54 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			Page:    0,
 			PerPage: 100,
 		}
-		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, opt)
-		if err != nil {
-			fmt.Printf("Problem getting list of reviews %v\n", err)
-			os.Exit(1)
-		}
-
-		if p.Reviews = len(reviews); p.Reviews < 1 {
-			out = append(out, p)
-			continue // Has not been looked at, let's save it!
-		}
-
-		for _, review := range reviews {
-			onBranchHead := p.LastCommitSHA == review.GetCommitID()
-			reviewerName := review.User.GetLogin()
-			reviewerAssociation := review.GetAuthorAssociation()
-			isC3iTeam := reviewerAssociation == MEMBER || reviewerAssociation == COLLABORATOR
-
-			switch state := review.GetState(); state {
-			case CHANGE:
-				fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, review.GetState(), review.GetCommitID())
-				if onBranchHead && isC3iTeam {
-					p.HeadCommitBlockers = append(p.HeadCommitBlockers, reviewerName)
-				}
-			case APPRVD:
-				p.AtLeastOneApproval = true
-				fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, review.GetState(), review.GetCommitID())
-
-				if onBranchHead {
-					p.HeadCommitApprovals = append(p.HeadCommitApprovals, reviewerName)
-				}
-			default:
+		for {
+			reviews, resp, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, opt)
+			if err != nil {
+				fmt.Printf("Problem getting list of reviews %v\n", err)
+				os.Exit(1)
 			}
+
+			if p.Reviews = len(reviews); p.Reviews < 1 {
+				out = append(out, p)
+				continue // Has not been looked at, let's save it!
+			}
+
+			for _, review := range reviews {
+				onBranchHead := p.LastCommitSHA == review.GetCommitID()
+				reviewerName := review.User.GetLogin()
+				reviewerAssociation := review.GetAuthorAssociation()
+				isC3iTeam := reviewerAssociation == MEMBER || reviewerAssociation == COLLABORATOR
+
+				switch state := review.GetState(); state {
+				case CHANGE:
+					fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, state, review.GetCommitID())
+					if onBranchHead && isC3iTeam {
+						p.HeadCommitBlockers = append(p.HeadCommitBlockers, reviewerName)
+					}
+				case APPRVD:
+					p.AtLeastOneApproval = true
+					fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, state, review.GetCommitID())
+
+					if onBranchHead {
+						p.HeadCommitApprovals = append(p.HeadCommitApprovals, reviewerName)
+					}
+				default:
+				}
+			}
+
+			if p.AtLeastOneApproval {
+				out = append(out, p)
+			}
+
+			fmt.Printf("%+v\n", p)
+
+			if resp.NextPage == 0 {
+				break
+			}
+			opt.Page = resp.NextPage
 		}
-
-		if p.AtLeastOneApproval {
-			out = append(out, p)
-		}
-
-		fmt.Printf("%+v\n", p)
-
-		// if resp.NextPage == 0 {
-		// 	break
-		// }
-		// opt.Page = resp.NextPage
 	}
 	return out
-
 }
 
 func containsLabelNamed(slice []*github.Label, item string) bool {
