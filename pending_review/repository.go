@@ -19,7 +19,7 @@ type Repository struct {
 func (s *RepositoryService) Get(ctx context.Context, owner string, repo string) (*Repository, *Response, error) {
 	repos, resp, err := s.client.Repositories.Get(ctx, owner, repo)
 	if err != nil {
-		return nil, nil, err
+		return nil, resp, err
 	}
 
 	return &Repository{

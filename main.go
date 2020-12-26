@@ -4,12 +4,12 @@ import (
 	"bufio"
 	"context"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"net/http"
 	"os"
 	"strings"
 	"syscall"
-	"time"
 
 	"github.com/google/go-github/v33/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/pending_review"
@@ -63,7 +63,7 @@ func main() {
 	}
 	fmt.Printf("%+v\n-----\n", repo)
 
-	var retval []PullRequest
+	var retval []*pending_review.PullRequestStatus
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
 		Direction: "asc",
@@ -104,8 +104,8 @@ func main() {
 	}
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*github.PullRequest) []PullRequest {
-	var out []PullRequest
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*github.PullRequest) []*pending_review.PullRequestStatus {
+	var out []*pending_review.PullRequestStatus
 	for _, pr := range prs {
 		if pr.GetDraft() {
 			continue // Let's skip these
@@ -117,60 +117,21 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			}
 		}
 
-		p := PullRequest{
-			Number:        pr.GetNumber(),
-			OpenedBy:      pr.GetUser().GetLogin(),
-			ReviewURL:     pr.GetHTMLURL(),
-			LastCommitSHA: pr.GetHead().GetSHA(),
-		}
-
 		opt := &github.ListOptions{
 			Page:    0,
 			PerPage: 100,
 		}
 		for {
-			reviews, resp, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, opt)
-			if err != nil {
+			review, resp, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr, opt)
+			if errors.Is(err, pending_review.ErrNoReviews) {
+				break
+			} else if err != nil {
 				fmt.Printf("Problem getting list of reviews %v\n", err)
 				os.Exit(1)
 			}
 
-			if p.Reviews = len(reviews); p.Reviews < 1 { // Has not been looked at...
-				hours, _ := time.ParseDuration("24h")
-				if pr.GetCreatedAt().Add(hours).After(time.Now()) { // created within 24hrs
-					out = append(out, p) // let's save it!
-				}
-				break
-			}
-
-			for _, review := range reviews {
-				onBranchHead := p.LastCommitSHA == review.GetCommitID()
-				reviewerName := review.User.GetLogin()
-				reviewerAssociation := review.GetAuthorAssociation()
-				isC3iTeam := reviewerAssociation == MEMBER || reviewerAssociation == COLLABORATOR
-
-				switch state := review.GetState(); state {
-				case CHANGE:
-					fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, state, review.GetCommitID())
-					if onBranchHead && isC3iTeam {
-						p.HeadCommitBlockers = append(p.HeadCommitBlockers, reviewerName)
-					}
-				case APPRVD:
-					p.AtLeastOneApproval = true
-					fmt.Printf("%s (%s): '%s' on commit %s\n", reviewerName, reviewerAssociation, state, review.GetCommitID())
-
-					if onBranchHead {
-						p.HeadCommitApprovals = append(p.HeadCommitApprovals, reviewerName)
-					}
-				default:
-				}
-			}
-
-			if p.AtLeastOneApproval {
-				out = append(out, p)
-			}
-
-			fmt.Printf("%+v\n", p)
+			fmt.Printf("%+v\n", review)
+			out = append(out, review)
 
 			if resp.NextPage == 0 {
 				break

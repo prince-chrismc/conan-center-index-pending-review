@@ -8,13 +8,15 @@ import (
 )
 
 type Response = github.Response
+type PullRequest = github.PullRequest
 
 type Client struct {
 	*github.Client
 
 	common service
 
-	Repository *RepositoryService
+	Repository  *RepositoryService
+	PullRequest *PullRequestService
 }
 
 type service struct {
