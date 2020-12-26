@@ -87,9 +87,9 @@ func main() {
 
 Number | Opened By | Total Reviews | Blockers | Approvers
 --- | --- | --- | --- | ---
-1 | octocat | 5 | :stop_sign: | :glowing_star:
+1 | octocat | 5 | :stop_sign: | :star2:
 
-` + "<details><summary>Raw JSON data</summary>```json\n" + string(bytes) + "\n```</details>"),
+` + "<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
