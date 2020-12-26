@@ -123,10 +123,11 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			LastCommitSHA: pr.GetHead().GetSHA(),
 		}
 
-		reviews, _, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, &github.ListOptions{
+		opt := &github.ListOptions{
 			Page:    0,
 			PerPage: 100,
-		})
+		}
+		reviews, resp, err := client.PullRequests.ListReviews(context, "conan-io", "conan-center-index", p.Number, opt)
 		if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)
 			os.Exit(1)
@@ -158,7 +159,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 				}
 			default:
 			}
-
 		}
 
 		if p.AtLeastOneApproval {
@@ -166,6 +166,11 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		fmt.Printf("%+v\n", p)
+
+		if resp.NextPage == 0 {
+			break
+		}
+		opt.Page = resp.NextPage
 	}
 	return out
 
