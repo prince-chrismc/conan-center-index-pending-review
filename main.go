@@ -88,8 +88,7 @@ func main() {
 Number | Opened By | Total Reviews | Blockers | Approvers
 --- | --- | --- | --- | ---
 1 | octocat | 5 | :stop_sign: | :star2:
-
-` + "<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
+` + formatPullRequestToMarkdownRows(retval) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
@@ -97,7 +96,16 @@ Number | Opened By | Total Reviews | Blockers | Approvers
 	}
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*github.PullRequest) []*pending_review.PullRequestStatus {
+func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) string {
+	var retval string
+	for _, pr := range prs {
+		retval += fmt.Sprint("[", pr.Number, "](", pr.ReviewURL, ")", "|[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")|", pr.Reviews,
+			"|", strings.Join(pr.HeadCommitBlockers, ", "), strings.Join(pr.HeadCommitApprovals, ", "))
+	}
+	return retval
+}
+
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) []*pending_review.PullRequestStatus {
 	var out []*pending_review.PullRequestStatus
 	for _, pr := range prs {
 		if pr.GetDraft() {
