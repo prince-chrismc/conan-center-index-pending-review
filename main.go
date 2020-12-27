@@ -85,9 +85,8 @@ func main() {
 
 ### :nerd_face: Please Review!
 
-Number | Opened By | Total Reviews | Blockers | Approvers
+Number | Opened By | Reviews | :stop_sign: Blockers | :heavy_check_mark: Approvers :star2:
 --- | --- | --- | --- | ---
-1 | octocat | 5 | :stop_sign: | :star2:
 ` + formatPullRequestToMarkdownRows(retval) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
