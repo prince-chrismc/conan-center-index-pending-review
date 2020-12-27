@@ -81,7 +81,7 @@ func main() {
 
 ### :ballot_box_with_check: Selection Criteria:
 
-- No reviews and created in the last 24hrs
+- No reviews and pull requests were created in the last 24hrs
 - There has been at least one approval
 
 ### :nerd_face: Please Review!
