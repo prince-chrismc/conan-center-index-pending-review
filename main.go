@@ -99,8 +99,14 @@ Number | Opened By | Total Reviews | Blockers | Approvers
 func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) string {
 	var retval string
 	for _, pr := range prs {
-		retval += fmt.Sprint("[", pr.Number, "](", pr.ReviewURL, ")", "|[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")|", pr.Reviews,
-			"|", strings.Join(pr.HeadCommitBlockers, ", "), strings.Join(pr.HeadCommitApprovals, ", "))
+		column := []string{
+			fmt.Sprint("[", pr.Number, "](", pr.ReviewURL, ")"),
+			fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
+			fmt.Sprint(pr.Reviews),
+			strings.Join(pr.HeadCommitBlockers, ", "),
+			strings.Join(pr.HeadCommitApprovals, ", "),
+		}
+		retval += strings.Join(column, "|")
 	}
 	return retval
 }
