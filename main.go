@@ -20,6 +20,7 @@ import (
 const (
 	// Labels
 	BUMP_VERSION = "Bump Version"
+	UNEXP_ERR    = "Unexpected Error"
 )
 
 func main() {
@@ -119,7 +120,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		if len := len(pr.Labels); len > 0 {
-			if len > 1 || !containsLabelNamed(pr.Labels, BUMP_VERSION) {
+			if len > 1 || !containsLabelNamed(pr.Labels, BUMP_VERSION) || !containsLabelNamed(pr.Labels, UNEXP_ERR) {
 				continue // We know if there are labels then there's probably somethnig wrong!
 			}
 		}
