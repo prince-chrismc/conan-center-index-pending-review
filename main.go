@@ -107,6 +107,7 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) st
 			strings.Join(pr.HeadCommitApprovals, ", "),
 		}
 		retval += strings.Join(column, "|")
+		retval += "\n"
 	}
 	return retval
 }
