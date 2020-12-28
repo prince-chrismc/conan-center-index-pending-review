@@ -88,7 +88,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 
 		switch state := review.GetState(); state {
 		case CHANGE:
-			if onBranchHead && isC3iTeam {
+			if isC3iTeam {
 				p.HeadCommitBlockers = append(p.HeadCommitBlockers, reviewerName)
 			}
 		case APPRVD:
