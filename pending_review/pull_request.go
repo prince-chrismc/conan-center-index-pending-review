@@ -52,6 +52,11 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 	}
 
 	p.Title = strings.SplitN(files[0].GetFilename(), "/", 3)[1] // FIXME: Error handling
+	if pr.GetDeletions() == 0 {
+		p.Title = ":new " + p.Title
+	} else {
+		p.Title = ":memo: " + p.Title
+	}
 
 	reviews, resp, err := s.client.PullRequests.ListReviews(ctx, owner, repo, p.Number, opts)
 	if err != nil {
