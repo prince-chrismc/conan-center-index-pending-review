@@ -100,6 +100,10 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			if len(p.HeadCommitBlockers) > 0 {
 				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
 			}
+		case DISMISSED:
+			if len(p.HeadCommitBlockers) > 0 {
+				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
+			}
 		default:
 		}
 	}
