@@ -121,8 +121,16 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		if len := len(pr.Labels); len > 0 {
-			if len > 1 || !containsLabelNamed(pr.Labels, BUMP_VERSION) || !containsLabelNamed(pr.Labels, UNEXP_ERR) {
-				continue // We know if there are labels then there's probably something wrong!
+			shouldSkip := false
+			for _, label := range pr.Labels {
+				name := label.GetName()
+				if name != BUMP_VERSION && name != UNEXP_ERR {
+					shouldSkip = true
+				}
+			}
+
+			if shouldSkip {
+				continue // We know if there are certain labels then there's probably something wrong!
 			}
 		}
 
@@ -153,15 +161,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 	}
 	return out
-}
-
-func containsLabelNamed(slice []*github.Label, item string) bool {
-	for _, a := range slice {
-		if a.GetName() == item {
-			return true
-		}
-	}
-	return false
 }
 
 func find(slice []string, val string) (int, bool) {
