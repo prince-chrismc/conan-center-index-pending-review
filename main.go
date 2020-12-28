@@ -124,7 +124,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			shouldSkip := true
 			for _, label := range pr.Labels {
 				name := label.GetName()
-				if name == BUMP_VERSION || name == UNEXP_ERR {
+				if name == BUMP_VERSION {
 					shouldSkip = false
 					fmt.Printf("Processing PR #%d since it had label '%s'\n", pr.GetNumber(), name)
 				}
