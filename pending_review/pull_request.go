@@ -89,12 +89,16 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		switch state := review.GetState(); state {
 		case CHANGE:
 			if isC3iTeam {
-				p.HeadCommitBlockers = append(p.HeadCommitBlockers, reviewerName)
+				p.HeadCommitBlockers = appendUnique(p.HeadCommitBlockers, reviewerName)
 			}
 		case APPRVD:
 			p.AtLeastOneApproval = true
 			if onBranchHead {
-				p.HeadCommitApprovals = append(p.HeadCommitApprovals, reviewerName)
+				p.HeadCommitApprovals = appendUnique(p.HeadCommitApprovals, reviewerName)
+			}
+
+			if len(p.HeadCommitBlockers) > 0 {
+				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
 			}
 		default:
 		}
@@ -105,4 +109,24 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 	}
 
 	return nil, resp, fmt.Errorf("%w", ErrNoReviews)
+}
+
+func appendUnique(slice []string, elem string) []string {
+	for _, e := range slice {
+		if e == elem {
+			return slice
+		}
+	}
+
+	return append(slice, elem)
+}
+
+func removeUnique(slice []string, elem string) []string {
+	for i, e := range slice {
+		if e == elem {
+			return append(slice[:i], slice[i+1:]...)
+		}
+	}
+
+	return slice
 }
