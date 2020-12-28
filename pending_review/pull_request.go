@@ -4,6 +4,7 @@ import (
 	"context"
 	"errors"
 	"fmt"
+	"strings"
 	"time"
 )
 
@@ -45,12 +46,12 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}
 
-	// files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, p.Number, opts)
-	// if err != nil {
-	// 	return nil, resp, err
-	// }
+	files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, p.Number, opts)
+	if err != nil {
+		return nil, resp, err
+	}
 
-	// p.Title = strings.SplitN(files[0].GetFilename(), "/", 3)[1] // FIXME: Error handling
+	p.Title = strings.SplitN(files[0].GetFilename(), "/", 3)[1] // FIXME: Error handling
 
 	reviews, resp, err := s.client.PullRequests.ListReviews(ctx, owner, repo, p.Number, opts)
 	if err != nil {
