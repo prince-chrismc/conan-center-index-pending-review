@@ -23,6 +23,7 @@ type PullRequestService service
 type PullRequestStatus struct {
 	Number              int
 	OpenedBy            string
+	Title               string
 	ReviewURL           string
 	LastCommitSHA       string
 	Reviews             int
@@ -37,6 +38,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 	p := &PullRequestStatus{
 		Number:        pr.GetNumber(),
 		OpenedBy:      pr.GetUser().GetLogin(),
+		Title:         pr.GetTitle(),
 		ReviewURL:     pr.GetHTMLURL(),
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}

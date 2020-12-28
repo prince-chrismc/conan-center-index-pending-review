@@ -86,8 +86,8 @@ func main() {
 
 ### :nerd_face: Please Review!
 
-Number | Opened By | Reviews | :stop_sign: Blockers | :heavy_check_mark: Approvers :star2:
---- | --- | --- | --- | ---
+Number | Opened By | Title | Reviews | :stop_sign: Blockers | :heavy_check_mark: Approvers :star2:
+:---: | --- | --- | :---: | --- | ---
 ` + formatPullRequestToMarkdownRows(retval) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
@@ -100,8 +100,9 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) st
 	var retval string
 	for _, pr := range prs {
 		column := []string{
-			fmt.Sprint("[", pr.Number, "](", pr.ReviewURL, ")"),
+			fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
 			fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
+			fmt.Sprintf("%.12q", pr.Title),
 			fmt.Sprint(pr.Reviews),
 			strings.Join(pr.HeadCommitBlockers, ", "),
 			strings.Join(pr.HeadCommitApprovals, ", "),
