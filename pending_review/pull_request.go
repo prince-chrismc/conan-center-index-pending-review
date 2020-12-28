@@ -27,6 +27,7 @@ type PullRequestStatus struct {
 	Title               string
 	ReviewURL           string
 	LastCommitSHA       string
+	LastCommitAt        time.Time
 	Reviews             int
 	AtLeastOneApproval  bool
 	HeadCommitApprovals []string
@@ -44,6 +45,12 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}
 
+	commit, resp, err := s.client.Repositories.GetCommit(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
+	if err != nil {
+		return nil, resp, err
+	}
+	p.LastCommitAt = commit.GetCommit().GetAuthor().GetDate()
+
 	reviews, resp, err := s.client.PullRequests.ListReviews(ctx, owner, repo, p.Number, opts)
 	if err != nil {
 		return nil, resp, err
@@ -51,7 +58,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 
 	if p.Reviews = len(reviews); p.Reviews < 1 { // Has not been looked at...
 		hours, _ := time.ParseDuration("24h")
-		if pr.GetCreatedAt().Add(hours).After(time.Now()) { // created within 24hrs
+		if p.LastCommitAt.Add(hours).After(time.Now()) { // commited within 24hrs
 			return p, resp, nil // let's save it!
 		}
 		return nil, resp, fmt.Errorf("%w", ErrNoReviews)
