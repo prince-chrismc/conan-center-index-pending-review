@@ -19,7 +19,7 @@ import (
 
 const (
 	// Labels
-	BUMP_VERSION = "Bump Version"
+	BUMP_VERSION = "Bump version"
 	UNEXP_ERR    = "Unexpected Error"
 )
 
