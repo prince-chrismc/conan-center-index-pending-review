@@ -46,7 +46,10 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}
 
-	files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, p.Number, opts)
+	files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, p.Number, &ListOptions{
+		Page:    0,
+		PerPage: 5,
+	})
 	if err != nil {
 		return nil, resp, err
 	}
