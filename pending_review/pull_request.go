@@ -9,8 +9,9 @@ import (
 
 const (
 	// Review States
-	CHANGE = "CHANGES_REQUESTED"
-	APPRVD = "APPROVED"
+	CHANGE    = "CHANGES_REQUESTED"
+	APPRVD    = "APPROVED"
+	DISMISSED = "DISMISSED"
 
 	// Author Associations
 	COLLABORATOR = "COLLABORATOR"
@@ -67,6 +68,8 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			if onBranchHead && isC3iTeam {
 				p.HeadCommitBlockers = append(p.HeadCommitBlockers, reviewerName)
 			}
+		case DISMISSED:
+			p.AtLeastOneApproval = true
 		case APPRVD:
 			p.AtLeastOneApproval = true
 			if onBranchHead {
