@@ -126,9 +126,9 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			}
 		}
 
-		if pr.GetChangedFiles() < 1 {
-			continue // Something is seriously wrong
-		}
+		// if pr.GetChangedFiles() < 1 {
+		// 	continue // Something is seriously wrong
+		// }
 
 		opt := &github.ListOptions{
 			Page:    0,
