@@ -86,7 +86,7 @@ func main() {
 
 ### :nerd_face: Please Review!
 
-Number | Opened By | Title | Reviews | :stop_sign: Blockers | :heavy_check_mark: Approvers :star2:
+Number | Opened By | Recipe | Reviews | :stop_sign: Blockers | :heavy_check_mark: Approvers :star2:
 :---: | --- | --- | :---: | --- | ---
 ` + formatPullRequestToMarkdownRows(retval) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
@@ -102,7 +102,7 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) st
 		column := []string{
 			fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
 			fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
-			fmt.Sprintf("%.12q", pr.Title),
+			pr.Title,
 			fmt.Sprint(pr.Reviews),
 			strings.Join(pr.HeadCommitBlockers, ", "),
 			strings.Join(pr.HeadCommitApprovals, ", "),
@@ -122,8 +122,12 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 
 		if len := len(pr.Labels); len > 0 {
 			if len > 1 || !containsLabelNamed(pr.Labels, BUMP_VERSION) || !containsLabelNamed(pr.Labels, UNEXP_ERR) {
-				continue // We know if there are labels then there's probably somethnig wrong!
+				continue // We know if there are labels then there's probably something wrong!
 			}
+		}
+
+		if pr.GetChangedFiles() < 1 {
+			continue // Something is seriously wrong
 		}
 
 		opt := &github.ListOptions{
