@@ -68,8 +68,6 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			if onBranchHead && isC3iTeam {
 				p.HeadCommitBlockers = append(p.HeadCommitBlockers, reviewerName)
 			}
-		case DISMISSED:
-			p.AtLeastOneApproval = true
 		case APPRVD:
 			p.AtLeastOneApproval = true
 			if onBranchHead {
