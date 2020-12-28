@@ -52,8 +52,8 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 	}
 
 	p.Title = strings.SplitN(files[0].GetFilename(), "/", 3)[1] // FIXME: Error handling
-	if pr.GetDeletions() == 0 {
-		p.Title = ":new " + p.Title
+	if files[0].GetStatus() == "added" {
+		p.Title = ":new: " + p.Title
 	} else {
 		p.Title = ":memo: " + p.Title
 	}
