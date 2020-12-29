@@ -91,19 +91,17 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			if isC3iTeam {
 				p.HeadCommitBlockers = appendUnique(p.HeadCommitBlockers, reviewerName)
 			}
+
+			p.HeadCommitApprovals = removeUnique(p.HeadCommitApprovals, reviewerName)
 		case APPRVD:
 			p.AtLeastOneApproval = true
 			if onBranchHead {
 				p.HeadCommitApprovals = appendUnique(p.HeadCommitApprovals, reviewerName)
 			}
 
-			if len(p.HeadCommitBlockers) > 0 {
-				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
-			}
+			p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
 		case DISMISSED:
-			if len(p.HeadCommitBlockers) > 0 {
-				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
-			}
+			p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
 		default:
 		}
 	}
