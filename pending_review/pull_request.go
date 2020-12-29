@@ -36,9 +36,8 @@ type PullRequestStatus struct {
 }
 
 var ErrNoReviews = errors.New("no reviews on pull request")
-var ErrInvalidPullRequest = errors.New("pull request crossed the valid diff broundry")
 
-func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner string, repo string, pr *PullRequest, opts *ListOptions) (*PullRequestStatus, *Response, error) {
+func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner string, repo string, pr *PullRequest) (*PullRequestStatus, *Response, error) {
 	p := &PullRequestStatus{
 		Number:        pr.GetNumber(),
 		OpenedBy:      pr.GetUser().GetLogin(),
@@ -61,49 +60,60 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		p.Title = ":memo: " + p.Title
 	}
 
-	reviews, resp, err := s.client.PullRequests.ListReviews(ctx, owner, repo, p.Number, opts)
-	if err != nil {
-		return nil, resp, err
+	opt := &ListOptions{
+		Page:    0,
+		PerPage: 100,
 	}
-
-	if p.Reviews = len(reviews); p.Reviews < 1 { // Has not been looked at...
-		commit, resp, err := s.client.Repositories.GetCommit(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
+	for {
+		reviews, resp, err := s.client.PullRequests.ListReviews(ctx, owner, repo, p.Number, opt)
 		if err != nil {
 			return nil, resp, err
 		}
-		p.LastCommitAt = commit.GetCommit().GetAuthor().GetDate()
 
-		hours, _ := time.ParseDuration("24h")
-		if p.LastCommitAt.Add(hours).After(time.Now()) { // commited within 24hrs
-			return p, resp, nil // let's save it!
-		}
-		return nil, resp, fmt.Errorf("%w", ErrNoReviews)
-	}
-
-	for _, review := range reviews {
-		onBranchHead := p.LastCommitSHA == review.GetCommitID()
-		reviewerName := review.User.GetLogin()
-		reviewerAssociation := review.GetAuthorAssociation()
-		isC3iTeam := reviewerAssociation == MEMBER || reviewerAssociation == COLLABORATOR
-
-		switch state := review.GetState(); state {
-		case CHANGE:
-			if isC3iTeam {
-				p.HeadCommitBlockers = appendUnique(p.HeadCommitBlockers, reviewerName)
+		if p.Reviews = len(reviews); p.Reviews < 1 { // Has not been looked at...
+			commit, resp, err := s.client.Repositories.GetCommit(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
+			if err != nil {
+				return nil, resp, err
 			}
+			p.LastCommitAt = commit.GetCommit().GetAuthor().GetDate()
 
-			p.HeadCommitApprovals = removeUnique(p.HeadCommitApprovals, reviewerName)
-		case APPRVD:
-			p.AtLeastOneApproval = true
-			if onBranchHead {
-				p.HeadCommitApprovals = appendUnique(p.HeadCommitApprovals, reviewerName)
+			hours, _ := time.ParseDuration("24h")
+			if p.LastCommitAt.Add(hours).After(time.Now()) { // commited within 24hrs
+				return p, resp, nil // let's save it!
 			}
-
-			p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
-		case DISMISSED:
-			p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
-		default:
+			return nil, resp, fmt.Errorf("%w", ErrNoReviews)
 		}
+
+		for _, review := range reviews {
+			onBranchHead := p.LastCommitSHA == review.GetCommitID()
+			reviewerName := review.User.GetLogin()
+			reviewerAssociation := review.GetAuthorAssociation()
+			isC3iTeam := reviewerAssociation == MEMBER || reviewerAssociation == COLLABORATOR
+
+			switch state := review.GetState(); state {
+			case CHANGE:
+				if isC3iTeam {
+					p.HeadCommitBlockers = appendUnique(p.HeadCommitBlockers, reviewerName)
+				}
+
+				p.HeadCommitApprovals = removeUnique(p.HeadCommitApprovals, reviewerName)
+			case APPRVD:
+				p.AtLeastOneApproval = true
+				if onBranchHead {
+					p.HeadCommitApprovals = appendUnique(p.HeadCommitApprovals, reviewerName)
+				}
+
+				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
+			case DISMISSED:
+				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
+			default:
+			}
+		}
+
+		if resp.NextPage == 0 {
+			break
+		}
+		opt.Page = resp.NextPage
 	}
 
 	if p.AtLeastOneApproval {

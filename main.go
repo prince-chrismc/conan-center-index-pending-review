@@ -126,7 +126,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 				name := label.GetName()
 				if name == BUMP_VERSION {
 					shouldSkip = false
-					fmt.Printf("Processing PR #%d since it had label '%s'\n", pr.GetNumber(), name)
 				}
 			}
 
@@ -135,31 +134,17 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			}
 		}
 
-		// if pr.GetChangedFiles() < 1 {
-		// 	continue // Something is seriously wrong
-		// }
-
-		opt := &github.ListOptions{
-			Page:    0,
-			PerPage: 100,
+		review, _, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr)
+		if errors.Is(err, pending_review.ErrNoReviews) {
+			break
+		} else if err != nil {
+			fmt.Printf("Problem getting list of reviews %v\n", err)
+			os.Exit(1)
 		}
-		for {
-			review, resp, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr, opt)
-			if errors.Is(err, pending_review.ErrNoReviews) {
-				break
-			} else if err != nil {
-				fmt.Printf("Problem getting list of reviews %v\n", err)
-				os.Exit(1)
-			}
 
-			fmt.Printf("%+v\n", review)
-			out = append(out, review)
+		fmt.Printf("%+v\n", review)
+		out = append(out, review)
 
-			if resp.NextPage == 0 {
-				break
-			}
-			opt.Page = resp.NextPage
-		}
 	}
 	return out
 }
