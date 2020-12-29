@@ -136,7 +136,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 
 		review, _, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr)
 		if errors.Is(err, pending_review.ErrNoReviews) {
-			break
+			continue
 		} else if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)
 			os.Exit(1)
