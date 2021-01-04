@@ -138,7 +138,7 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 		return false, errors.New("content did not contain the expected raw JSON section")
 	}
 
-	obtained := content[rawJsonStart+len("```json\n") : -rawJsonEnd]
+	obtained := content[rawJsonStart+len("```json\n") : rawJsonEnd]
 
 	return obtained == expected, nil
 }
