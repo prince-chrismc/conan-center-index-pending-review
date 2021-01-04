@@ -132,7 +132,7 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 	content := issue.GetBody()
 
 	rawJsonStart := strings.Index(content, "```json\n")
-	rawJsonEnd := strings.Index(content, "\n```")
+	rawJsonEnd := strings.Index(content, "\n```\n")
 
 	if rawJsonStart == -1 || rawJsonEnd == -1 {
 		return false, errors.New("content did not contain the expected raw JSON section")
