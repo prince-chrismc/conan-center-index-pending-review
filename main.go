@@ -76,6 +76,17 @@ func main() {
 		os.Exit(1)
 	}
 
+	// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
+	isDifferent, err := validateContentIsDifferent(context, client, string(bytes))
+	if err != nil {
+		fmt.Printf("Problem getting original issue content %v\n", err)
+		os.Exit(1)
+	}
+	if !isDifferent {
+		fmt.Println("the obtained content is identical to the new result.")
+		return // The published results are the same no need to update the table.
+	}
+
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
 		Body: github.String(`## :sparkles: Pull Requests Pending Review Summary!
 
@@ -111,6 +122,25 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) st
 		retval += "\n"
 	}
 	return retval
+}
+
+func validateContentIsDifferent(context context.Context, client *pending_review.Client, expected string) (bool, error) {
+	issue, _, err := client.Issues.Get(context, "prince-chrismc", "conan-center-index-pending-review", 1)
+	if err != nil {
+		return false, err
+	}
+	content := issue.GetBody()
+
+	rawJsonStart := strings.Index(content, "```json\n")
+	rawJsonEnd := strings.Index(content, "\n```")
+
+	if rawJsonStart == -1 || rawJsonEnd == -1 {
+		return false, errors.New("content did not contain the expected raw JSON section")
+	}
+
+	obtained := content[rawJsonStart+len("```json\n") : -rawJsonEnd]
+
+	return obtained == expected, nil
 }
 
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) []*pending_review.PullRequestStatus {
