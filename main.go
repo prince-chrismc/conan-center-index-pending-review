@@ -140,7 +140,7 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 
 	obtained := content[rawJsonStart+len("```json\n") : rawJsonEnd]
 
-	return obtained == expected, nil
+	return obtained != expected, nil
 }
 
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) []*pending_review.PullRequestStatus {
