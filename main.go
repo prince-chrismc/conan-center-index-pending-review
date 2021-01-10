@@ -110,10 +110,23 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :heavy_check_mark: Approvers
 func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) string {
 	var retval string
 	for _, pr := range prs {
+		title := "recipe"
+		switch pr.Change {
+		case pending_review.ADDED:
+			title = ":new: " + pr.Recipe
+			break
+		case pending_review.EDIT:
+			title = ":memo: " + pr.Recipe
+			break
+		case pending_review.BUMP:
+			title = ":arrow_up: " + pr.Recipe
+			break
+		}
+
 		column := []string{
 			fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
 			fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
-			pr.Title,
+			title,
 			fmt.Sprint(pr.Reviews),
 			strings.Join(pr.HeadCommitBlockers, ", "),
 			strings.Join(pr.HeadCommitApprovals, ", "),
@@ -150,42 +163,36 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			continue // Let's skip these
 		}
 
+		isBump := false
 		if len := len(pr.Labels); len > 0 {
-			shouldSkip := true
 			for _, label := range pr.Labels {
 				name := label.GetName()
 				if name == BUMP_VERSION {
-					shouldSkip = false
+					isBump = true
 				}
 			}
 
-			if shouldSkip {
+			if !isBump {
 				continue // We know if there are certain labels then there's probably something wrong!
 			}
 		}
 
 		review, _, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr)
-		if errors.Is(err, pending_review.ErrNoReviews) {
+		if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) {
 			continue
 		} else if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)
 			os.Exit(1)
 		}
 
+		if isBump {
+			review.Change = pending_review.BUMP // FIXME: It would be nice for this logic to be internal
+		}
+
 		fmt.Printf("%+v\n", review)
 		out = append(out, review)
-
 	}
 	return out
-}
-
-func find(slice []string, val string) (int, bool) {
-	for i, item := range slice {
-		if item == val {
-			return i, true
-		}
-	}
-	return -1, false
 }
 
 func determineAndSetupCredentials(context context.Context) *http.Client {

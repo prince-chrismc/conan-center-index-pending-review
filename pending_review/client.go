@@ -9,6 +9,8 @@ import (
 
 type Response = github.Response
 type PullRequest = github.PullRequest
+type ListOptions = github.ListOptions
+type CommitFile = github.CommitFile
 
 type Client struct {
 	*github.Client
@@ -30,8 +32,6 @@ func NewClient(httpClient *http.Client) *Client {
 	c.PullRequest = (*PullRequestService)(&c.common)
 	return c
 }
-
-type ListOptions = github.ListOptions
 
 type RateLimit = github.Rate
 

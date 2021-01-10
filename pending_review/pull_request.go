@@ -20,12 +20,19 @@ const (
 	MEMBER       = "MEMBER"
 )
 
-type PullRequestService service
+type Status int
+
+const (
+	ADDED Status = iota
+	EDIT  Status = iota
+	BUMP  Status = iota
+)
 
 type PullRequestStatus struct {
 	Number              int
 	OpenedBy            string
-	Title               string
+	Recipe              string
+	Change              Status
 	ReviewURL           string
 	LastCommitSHA       string
 	LastCommitAt        time.Time
@@ -37,6 +44,8 @@ type PullRequestStatus struct {
 
 var ErrNoReviews = errors.New("no reviews on pull request")
 
+type PullRequestService service
+
 func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner string, repo string, pr *PullRequest) (*PullRequestStatus, *Response, error) {
 	p := &PullRequestStatus{
 		Number:        pr.GetNumber(),
@@ -45,20 +54,13 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}
 
-	files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, p.Number, &ListOptions{
-		Page:    0,
-		PerPage: 5,
-	})
+	diff, resp, err := s.determineTypeOfChange(ctx, owner, repo, p.Number, 10 /* recipes are currently 5-7 files */)
 	if err != nil {
 		return nil, resp, err
 	}
 
-	p.Title = strings.SplitN(files[0].GetFilename(), "/", 3)[1] // FIXME: Error handling
-	if files[0].GetStatus() == "added" {
-		p.Title = ":new: " + p.Title
-	} else {
-		p.Title = ":memo: " + p.Title
-	}
+	p.Recipe = diff.Recipe
+	p.Change = diff.Change
 
 	opt := &ListOptions{
 		Page:    0,
@@ -141,4 +143,62 @@ func removeUnique(slice []string, elem string) []string {
 	}
 
 	return slice
+}
+
+type change struct {
+	Recipe string
+	Change Status
+}
+
+var ErrInvalidChange = errors.New("the files, or lack thereof, make this PR invalid")
+
+func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner string, repo string, number int, per_page int) (*change, *Response, error) {
+	files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, number, &ListOptions{
+		Page:    0,
+		PerPage: per_page,
+	})
+	if err != nil {
+		return nil, resp, err
+	}
+
+	if len(files) < 1 {
+		return nil, resp, fmt.Errorf("%w", ErrInvalidChange)
+	}
+
+	change, err := getDiff(files[0])
+	if err != nil {
+		return nil, resp, err
+	}
+
+	for _, file := range files[1:] {
+		obtained, err := getDiff(file)
+		if err != nil {
+			return nil, resp, err
+		}
+
+		if change.Recipe != obtained.Recipe { // PR shouls only be changing one recipe at a time
+			return nil, resp, fmt.Errorf("%w", ErrInvalidChange)
+		}
+
+		if obtained.Change == EDIT {
+			change.Change = EDIT // Any edit breaks the "new receipe"
+		}
+	}
+
+	return change, resp, nil
+}
+
+func getDiff(file *CommitFile) (*change, error) {
+	segments := strings.SplitN(file.GetFilename(), "/", 3)
+	if len(segments) < 3 { // Expected format is "recipes" , "<name>", "..."
+		return nil, fmt.Errorf("%w", ErrInvalidChange)
+	}
+
+	title := segments[1]
+	status := ADDED
+	if file.GetStatus() != "added" {
+		status = EDIT
+	}
+
+	return &change{title, status}, nil
 }
