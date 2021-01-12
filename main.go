@@ -97,9 +97,15 @@ func main() {
 
 ### :nerd_face: Please Review!
 
-PR | By | Recipe | Reviews | :stop_sign: Blockers | :heavy_check_mark: Mergeable | :star2: Approvers
-:---: | --- | --- | :---: | --- | --- | ---
-` + formatPullRequestToMarkdownRows(retval) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
+PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
+:---: | --- | --- | :---: | --- | ---
+` + formatPullRequestToMarkdownRows(retval, false) + `
+
+### :heavy_check_mark: Ready to Merge
+
+PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
+:---: | --- | --- | :---: | --- | ---
+` + formatPullRequestToMarkdownRows(retval, true) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
@@ -107,9 +113,13 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :heavy_check_mark: Mergeable
 	}
 }
 
-func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) string {
+func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus, canMerge bool) string {
 	var retval string
 	for _, pr := range prs {
+		if pr.IsMergeable == canMerge {
+			continue
+		}
+
 		title := "recipe"
 		switch pr.Change {
 		case pending_review.ADDED:
@@ -122,10 +132,6 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) st
 			title = ":arrow_up: " + pr.Recipe
 			break
 		}
-		merge := ""
-		if pr.IsMergeable {
-			merge = "Yes"
-		}
 
 		columns := []string{
 			fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
@@ -133,7 +139,6 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) st
 			title,
 			fmt.Sprint(pr.Reviews),
 			strings.Join(pr.HeadCommitBlockers, ", "),
-			merge,
 			strings.Join(pr.HeadCommitApprovals, ", "),
 		}
 		retval += strings.Join(columns, "|")
