@@ -117,7 +117,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			}
 		}
 
-		p.IsMergeable = atleastOneTeamApproval && len(p.HeadCommitApprovals) >= 3
+		p.IsMergeable = atleastOneTeamApproval && len(p.HeadCommitApprovals) >= 3 && len(p.HeadCommitBlockers) == 0
 
 		if resp.NextPage == 0 {
 			break
