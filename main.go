@@ -97,8 +97,8 @@ func main() {
 
 ### :nerd_face: Please Review!
 
-PR | By | Recipe | Reviews | :stop_sign: Blockers | :heavy_check_mark: Approvers :star2:
-:---: | --- | --- | :---: | --- | ---
+PR | By | Recipe | Reviews | :stop_sign: Blockers | :heavy_check_mark: Mergeable | :star2: Approvers
+:---: | --- | --- | :---: | --- | --- | ---
 ` + formatPullRequestToMarkdownRows(retval) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
@@ -122,16 +122,21 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus) st
 			title = ":arrow_up: " + pr.Recipe
 			break
 		}
+		merge := ""
+		if pr.IsMergeable {
+			merge = "Yes"
+		}
 
-		column := []string{
+		columns := []string{
 			fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
 			fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
 			title,
 			fmt.Sprint(pr.Reviews),
 			strings.Join(pr.HeadCommitBlockers, ", "),
+			merge,
 			strings.Join(pr.HeadCommitApprovals, ", "),
 		}
-		retval += strings.Join(column, "|")
+		retval += strings.Join(columns, "|")
 		retval += "\n"
 	}
 	return retval

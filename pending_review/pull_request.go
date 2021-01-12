@@ -38,6 +38,7 @@ type PullRequestStatus struct {
 	LastCommitAt        time.Time
 	Reviews             int
 	AtLeastOneApproval  bool
+	IsMergeable         bool
 	HeadCommitApprovals []string
 	HeadCommitBlockers  []string
 }
@@ -86,6 +87,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			return nil, resp, fmt.Errorf("%w", ErrNoReviews)
 		}
 
+		atleastOneTeamApproval := false
 		for _, review := range reviews {
 			onBranchHead := p.LastCommitSHA == review.GetCommitID()
 			reviewerName := review.User.GetLogin()
@@ -103,6 +105,9 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 				p.AtLeastOneApproval = true
 				if onBranchHead {
 					p.HeadCommitApprovals = appendUnique(p.HeadCommitApprovals, reviewerName)
+					if isC3iTeam {
+						atleastOneTeamApproval = true
+					}
 				}
 
 				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
@@ -111,6 +116,8 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			default:
 			}
 		}
+
+		p.IsMergeable = atleastOneTeamApproval && len(p.HeadCommitApprovals) >= 3
 
 		if resp.NextPage == 0 {
 			break
