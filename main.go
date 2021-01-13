@@ -99,13 +99,13 @@ func main() {
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, false) + `
+` + formatPullRequestToMarkdownRows(retval, true) + `
 
 ### :heavy_check_mark: Ready to Merge
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, true) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
+` + formatPullRequestToMarkdownRows(retval, false) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
