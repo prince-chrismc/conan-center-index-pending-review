@@ -92,8 +92,9 @@ func main() {
 
 ### :ballot_box_with_check: Selection Criteria:
 
+- There has been at least one approval (at any point)
 - No reviews and commited to in the last 24hrs
-- There has been at least one approval
+- No labels with exception to "bump version"
 
 ### :nerd_face: Please Review!
 
@@ -105,7 +106,8 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, false) + "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
+` + formatPullRequestToMarkdownRows(retval, false) +
+				    "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
