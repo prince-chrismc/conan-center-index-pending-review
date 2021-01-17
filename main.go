@@ -100,14 +100,14 @@ func main() {
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, true) + `
+` + formatPullRequestToMarkdownRows(retval, false) + `
 
 ### :heavy_check_mark: Ready to Merge
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, false) +
-				    "\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
+` + formatPullRequestToMarkdownRows(retval, true) +
+			"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
@@ -118,7 +118,7 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus, canMerge bool) string {
 	var retval string
 	for _, pr := range prs {
-		if pr.IsMergeable == canMerge {
+		if pr.IsMergeable != canMerge {
 			continue
 		}
 
