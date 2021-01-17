@@ -75,7 +75,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		}
 
 		if p.Reviews = len(reviews); p.Reviews < 1 { // Has not been looked at...
-			commit, resp, err := s.client.Repositories.GetCommit(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
+			commit, _, err := s.client.Repositories.GetCommit(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
 			if err != nil {
 				return nil, resp, err
 			}
@@ -85,6 +85,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			if p.LastCommitAt.Add(hours).After(time.Now()) { // commited within 24hrs
 				return p, resp, nil // let's save it!
 			}
+
 			return nil, resp, fmt.Errorf("%w", ErrNoReviews)
 		}
 
@@ -125,14 +126,13 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		}
 		p.IsMergeable = atleastOneTeamApproval && p.ValidApprovals >= 3 && len(p.HeadCommitBlockers) == 0
 
-		statuses, resp, err := s.client.Repositories.ListStatuses(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA, &ListOptions{
+		statuses, _, err := s.client.Repositories.ListStatuses(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA, &ListOptions{
 			Page:    0,
 			PerPage: 1,
 		})
 		if err != nil {
 			return nil, resp, err
 		}
-
 		p.CciBotPassed = len(statuses) > 0 && statuses[0].GetState() == "success"
 
 		if resp.NextPage == 0 {
