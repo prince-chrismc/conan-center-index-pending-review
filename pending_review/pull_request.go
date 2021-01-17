@@ -37,7 +37,7 @@ type PullRequestStatus struct {
 	LastCommitSHA       string
 	LastCommitAt        time.Time
 	Reviews             int
-	AtLeastOneApproval  bool
+	ValidApprovals      int
 	IsMergeable         bool
 	HeadCommitApprovals []string
 	HeadCommitBlockers  []string
@@ -102,12 +102,18 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 
 				p.HeadCommitApprovals = removeUnique(p.HeadCommitApprovals, reviewerName)
 			case APPRVD:
-				p.AtLeastOneApproval = true
 				if onBranchHead {
 					p.HeadCommitApprovals = appendUnique(p.HeadCommitApprovals, reviewerName)
 					if isC3iTeam {
 						atleastOneTeamApproval = true
+						p.ValidApprovals = p.ValidApprovals + 1
 					}
+				}
+
+				switch reviewerName {
+				case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos":
+					p.ValidApprovals = p.ValidApprovals + 1
+				default:
 				}
 
 				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
@@ -117,7 +123,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			}
 		}
 
-		p.IsMergeable = atleastOneTeamApproval && len(p.HeadCommitApprovals) >= 3 && len(p.HeadCommitBlockers) == 0
+		p.IsMergeable = atleastOneTeamApproval && p.ValidApprovals >= 3 && len(p.HeadCommitBlockers) == 0
 
 		if resp.NextPage == 0 {
 			break
@@ -125,7 +131,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		opt.Page = resp.NextPage
 	}
 
-	if p.AtLeastOneApproval {
+	if len(p.HeadCommitApprovals) > 0 {
 		return p, resp, nil
 	}
 
