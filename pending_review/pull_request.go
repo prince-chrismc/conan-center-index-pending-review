@@ -125,7 +125,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		}
 		p.IsMergeable = atleastOneTeamApproval && p.ValidApprovals >= 3 && len(p.HeadCommitBlockers) == 0
 
-		statuses, resp, err := s.client.Repositories.ListStatuses(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA, &ListOptions{
+		statuses, resp, err := s.client.Repositories.ListStatuses(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA, &ListOptions{
 			Page:    0,
 			PerPage: 1,
 		})
