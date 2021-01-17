@@ -135,6 +135,10 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus, ca
 			break
 		}
 
+		if !pr.CciBotPassed && pr.IsMergeable {
+			title = ":warning: " + pr.Recipe
+		}
+
 		columns := []string{
 			fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
 			fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),

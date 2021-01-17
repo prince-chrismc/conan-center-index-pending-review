@@ -39,6 +39,7 @@ type PullRequestStatus struct {
 	Reviews             int
 	ValidApprovals      int
 	IsMergeable         bool
+	CciBotPassed        bool
 	HeadCommitApprovals []string
 	HeadCommitBlockers  []string
 }
@@ -122,8 +123,17 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			default:
 			}
 		}
-
 		p.IsMergeable = atleastOneTeamApproval && p.ValidApprovals >= 3 && len(p.HeadCommitBlockers) == 0
+
+		statuses, resp, err := s.client.Repositories.ListStatuses(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA, &ListOptions{
+			Page:    0,
+			PerPage: 1,
+		})
+		if err != nil {
+			return nil, resp, err
+		}
+
+		p.CciBotPassed = len(statuses) > 0 && statuses[0].GetState() == "success"
 
 		if resp.NextPage == 0 {
 			break
