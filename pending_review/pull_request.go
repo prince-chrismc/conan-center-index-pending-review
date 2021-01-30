@@ -79,9 +79,9 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		}
 
 		summary := ProcessReviewComments(reviews, p.LastCommitSHA)
-		p.ValidApprovals = summary.ValidApprovals // FIXME: v2 refactor
-		p.HeadCommitBlockers = summary.HeadCommitBlockers
-		p.HeadCommitBlockers = summary.HeadCommitBlockers
+		p.ValidApprovals += summary.ValidApprovals // FIXME: v2 refactor
+		p.HeadCommitBlockers = append(p.HeadCommitBlockers, summary.HeadCommitBlockers...)
+		p.HeadCommitApprovals = append(p.HeadCommitApprovals, summary.HeadCommitApprovals...)
 
 		p.IsMergeable = summary.PriorityApproval && p.ValidApprovals >= 3 && len(p.HeadCommitBlockers) == 0
 
