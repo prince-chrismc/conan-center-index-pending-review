@@ -18,9 +18,7 @@ import (
 )
 
 const (
-	// Labels
-	BUMP_VERSION = "Bump version"
-	UNEXP_ERR    = "Unexpected Error"
+	BUMP = "Bump version"
 )
 
 func main() {
@@ -31,7 +29,7 @@ func main() {
 	rateLimit, _, err := client.RateLimits(context)
 	if err != nil {
 		fmt.Printf("Problem getting rate limit information %v\n", err)
-		return
+		os.Exit(1)
 	}
 
 	// We have not exceeded the limit so we can continue
@@ -160,20 +158,20 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 	}
 	content := issue.GetBody()
 
-	rawJsonStart := strings.Index(content, "```json\n")
-	rawJsonEnd := strings.Index(content, "\n```\n")
+	rawStart := strings.Index(content, "```json\n")
+	rawEnd := strings.Index(content, "\n```\n")
 
-	if rawJsonStart == -1 || rawJsonEnd == -1 {
+	if rawStart == -1 || rawEnd == -1 {
 		// Second chance... Editing the issues manually on windows will add CR to the entire content
-		rawJsonStart = strings.Index(content, "```json\r\n")
-		rawJsonEnd = strings.Index(content, "\r\n```\r\n")
+		rawStart = strings.Index(content, "```json\r\n")
+		rawEnd = strings.Index(content, "\r\n```\r\n")
 
-		if rawJsonStart == -1 || rawJsonEnd == -1 {
+		if rawStart == -1 || rawEnd == -1 {
 			return false, errors.New("content did not contain the expected raw JSON section")
 		}
 	}
 
-	obtained := content[rawJsonStart+len("```json\n") : rawJsonEnd]
+	obtained := content[rawStart+len("```json\n") : rawEnd]
 
 	return obtained != expected, nil
 }
@@ -189,7 +187,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		if len := len(pr.Labels); len > 0 {
 			for _, label := range pr.Labels {
 				name := label.GetName()
-				if name == BUMP_VERSION {
+				if name == BUMP {
 					isBump = true
 				}
 			}
