@@ -8,20 +8,10 @@ import (
 	"time"
 )
 
-const (
-	// Review States
-	CHANGE    = "CHANGES_REQUESTED"
-	APPRVD    = "APPROVED"
-	DISMISSED = "DISMISSED"
-
-	// Author Associations
-	COLLABORATOR = "COLLABORATOR"
-	CONTRIBUTOR  = "CONTRIBUTOR"
-	MEMBER       = "MEMBER"
-)
-
+// Category describing the type of change being introduced by the pull request
 type Status int
 
+// Category describing the type of change being introduced by the pull request
 const (
 	ADDED Status = iota
 	EDIT  Status = iota
@@ -88,52 +78,21 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			return nil, resp, fmt.Errorf("%w", ErrNoReviews)
 		}
 
-		atleastOneTeamApproval := false
-		for _, review := range reviews {
-			onBranchHead := p.LastCommitSHA == review.GetCommitID()
-			reviewerName := review.GetUser().GetLogin()
-			reviewerAssociation := review.GetAuthorAssociation()
-			isC3iTeam := reviewerAssociation == MEMBER || reviewerAssociation == COLLABORATOR
+		summary := ProcessReviewComments(reviews, p.LastCommitSHA)
+		p.ValidApprovals = summary.ValidApprovals // FIXME: v2 refactor
+		p.HeadCommitBlockers = summary.HeadCommitBlockers
+		p.HeadCommitBlockers = summary.HeadCommitBlockers
 
-			switch review.GetState() {
-			case CHANGE:
-				if isC3iTeam {
-					p.HeadCommitBlockers = appendUnique(p.HeadCommitBlockers, reviewerName)
-				}
+		p.IsMergeable = summary.PriorityApproval && p.ValidApprovals >= 3 && len(p.HeadCommitBlockers) == 0
 
-				p.HeadCommitApprovals = removeUnique(p.HeadCommitApprovals, reviewerName)
-			case APPRVD:
-				if onBranchHead {
-					p.HeadCommitApprovals = appendUnique(p.HeadCommitApprovals, reviewerName)
-					if isC3iTeam {
-						atleastOneTeamApproval = true
-						p.ValidApprovals = p.ValidApprovals + 1
-					}
-				}
-
-				switch reviewerName {
-				case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos":
-					p.ValidApprovals = p.ValidApprovals + 1
-				default:
-				}
-
-				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
-			case DISMISSED:
-				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
-				// Out-dated Approvals are transformed into comments https://github.com/conan-io/conan-center-index/pull/3855#issuecomment-770120073
-			default:
-			}
-		}
-		p.IsMergeable = atleastOneTeamApproval && p.ValidApprovals >= 3 && len(p.HeadCommitBlockers) == 0
-
-		statuses, _, err := s.client.Repositories.ListStatuses(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA, &ListOptions{
-			Page:    0,
-			PerPage: 1,
-		})
-		if err != nil {
+		status, _, err := s.client.Repository.GetCommitStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
+		if errors.Is(err, ErrNoCommitStatus) {
+			p.CciBotPassed = false
+		} else if err != nil {
 			return nil, resp, err
+		} else {
+			p.CciBotPassed = status.GetState() == "success"
 		}
-		p.CciBotPassed = len(statuses) > 0 && statuses[0].GetState() == "success"
 
 		if resp.NextPage == 0 {
 			break
@@ -151,26 +110,6 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 func isWithin24Hours(t time.Time) bool {
 	hours, _ := time.ParseDuration("24h")
 	return t.Add(hours).After(time.Now())
-}
-
-func appendUnique(slice []string, elem string) []string {
-	for _, e := range slice {
-		if e == elem {
-			return slice
-		}
-	}
-
-	return append(slice, elem)
-}
-
-func removeUnique(slice []string, elem string) []string {
-	for i, e := range slice {
-		if e == elem {
-			return append(slice[:i], slice[i+1:]...)
-		}
-	}
-
-	return slice
 }
 
 type change struct {
@@ -204,12 +143,12 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 			return nil, resp, err
 		}
 
-		if change.Recipe != obtained.Recipe { // PR shouls only be changing one recipe at a time
+		if change.Recipe != obtained.Recipe { // PR should only be changing one recipe at a time
 			return nil, resp, fmt.Errorf("%w", ErrInvalidChange)
 		}
 
 		if obtained.Change == EDIT {
-			change.Change = EDIT // Any edit breaks the "new receipe"
+			change.Change = EDIT // Any edit breaks the "new receipe" definition
 		}
 	}
 

@@ -2,6 +2,7 @@ package pending_review
 
 import (
 	"context"
+	"errors"
 	"time"
 )
 
@@ -40,4 +41,22 @@ func (s *RepositoryService) GetCommitDate(ctx context.Context, owner string, rep
 		return time.Time{}, resp, err
 	}
 	return commit.GetCommit().GetAuthor().GetDate(), resp, nil
+}
+
+var ErrNoCommitStatus = errors.New("no repository status avialble for this commit")
+
+func (s *RepositoryService) GetCommitStatus(ctx context.Context, owner string, repo string, sha string) (*RepoStatus, *Response, error) {
+	statuses, resp, err := s.client.Repositories.ListStatuses(ctx, owner, repo, sha, &ListOptions{
+		Page:    0,
+		PerPage: 1,
+	})
+	if err != nil {
+		return nil, resp, err
+	}
+
+	if len(statuses) == 0 {
+		return nil, resp, ErrNoCommitStatus
+	}
+
+	return statuses[0], resp, nil
 }
