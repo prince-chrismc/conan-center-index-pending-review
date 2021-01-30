@@ -74,15 +74,14 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 			return nil, resp, err
 		}
 
-		if p.Reviews = len(reviews); p.Reviews < 1 { // Has not been looked at...
-			commit, _, err := s.client.Repositories.GetCommit(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
+		if p.Reviews += len(reviews); p.Reviews < 1 { // Has not been looked at...
+			date, _, err := s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
 			if err != nil {
 				return nil, resp, err
 			}
-			p.LastCommitAt = commit.GetCommit().GetAuthor().GetDate()
+			p.LastCommitAt = date
 
-			hours, _ := time.ParseDuration("24h")
-			if p.LastCommitAt.Add(hours).After(time.Now()) { // commited within 24hrs
+			if isWithin24Hours(p.LastCommitAt) { // commited within 24hrs
 				return p, resp, nil // let's save it!
 			}
 
@@ -92,11 +91,11 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		atleastOneTeamApproval := false
 		for _, review := range reviews {
 			onBranchHead := p.LastCommitSHA == review.GetCommitID()
-			reviewerName := review.User.GetLogin()
+			reviewerName := review.GetUser().GetLogin()
 			reviewerAssociation := review.GetAuthorAssociation()
 			isC3iTeam := reviewerAssociation == MEMBER || reviewerAssociation == COLLABORATOR
 
-			switch state := review.GetState(); state {
+			switch review.GetState() {
 			case CHANGE:
 				if isC3iTeam {
 					p.HeadCommitBlockers = appendUnique(p.HeadCommitBlockers, reviewerName)
@@ -121,6 +120,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
 			case DISMISSED:
 				p.HeadCommitBlockers = removeUnique(p.HeadCommitBlockers, reviewerName)
+				// Out-dated Approvals are transformed into comments https://github.com/conan-io/conan-center-index/pull/3855#issuecomment-770120073
 			default:
 			}
 		}
@@ -146,6 +146,11 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 	}
 
 	return nil, resp, fmt.Errorf("%w", ErrNoReviews)
+}
+
+func isWithin24Hours(t time.Time) bool {
+	hours, _ := time.ParseDuration("24h")
+	return t.Add(hours).After(time.Now())
 }
 
 func appendUnique(slice []string, elem string) []string {
@@ -175,10 +180,10 @@ type change struct {
 
 var ErrInvalidChange = errors.New("the files, or lack thereof, make this PR invalid")
 
-func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner string, repo string, number int, per_page int) (*change, *Response, error) {
+func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner string, repo string, number int, perPage int) (*change, *Response, error) {
 	files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, number, &ListOptions{
 		Page:    0,
-		PerPage: per_page,
+		PerPage: perPage,
 	})
 	if err != nil {
 		return nil, resp, err
