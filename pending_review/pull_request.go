@@ -156,16 +156,26 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 	return change, resp, nil
 }
 
+// Expected format is
+// - "recipes" , "<name>", "..."
+// - "docs", "<filename>.md"
 func getDiff(file *CommitFile) (*change, error) {
 	segments := strings.SplitN(file.GetFilename(), "/", 3)
-	if len(segments) < 3 { // Expected format is "recipes" , "<name>", "..."
+	if len(segments) < 2 { // Expected format is "recipes" , "<name>", "..."
 		return nil, fmt.Errorf("%w", ErrInvalidChange)
 	}
 
+	folder := segments[0]
 	title := segments[1]
 	status := ADDED
 	if file.GetStatus() != "added" {
 		status = EDIT
+	}
+	if folder == "docs" {
+		status = DOCS
+		title = "docs"
+	} else if folder != "recipes" {
+		return nil, fmt.Errorf("%w", ErrInvalidChange)
 	}
 
 	return &change{title, status}, nil

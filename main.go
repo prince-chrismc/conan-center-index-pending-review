@@ -217,10 +217,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			review.Change = pending_review.BUMP // FIXME: It would be nice for this logic to be internal
 		}
 
-		if isDoc {
-			review.Change = pending_review.DOCS // FIXME: It would be nice for this logic to be internal
-		}
-
 		fmt.Printf("%+v\n", review)
 		out = append(out, review)
 	}
