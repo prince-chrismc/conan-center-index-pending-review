@@ -92,7 +92,7 @@ func main() {
 
 - There has been at least one approval (at any point)
 - No reviews and commited to in the last 24hrs
-- No labels with exception to "bump version"
+- No labels with exception to "bump version" and "Docs"
 
 ### :nerd_face: Please Review!
 
@@ -130,6 +130,9 @@ func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus, ca
 			break
 		case pending_review.BUMP:
 			title = ":arrow_up: " + pr.Recipe
+			break
+		case pending_review.DOCS:
+			title = ":green_book: " + pr.Recipe
 			break
 		}
 
@@ -184,15 +187,18 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		isBump := false
+		isDoc := false
 		if len := len(pr.Labels); len > 0 {
 			for _, label := range pr.Labels {
-				name := label.GetName()
-				if name == BUMP {
+				switch label.GetName() {
+				case BUMP:
 					isBump = true
+				case "Docs":
+					isDoc = true
 				}
 			}
 
-			if !isBump {
+			if !isBump || !isDoc {
 				continue // We know if there are certain labels then there's probably something wrong!
 			}
 		}
@@ -207,6 +213,10 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 
 		if isBump {
 			review.Change = pending_review.BUMP // FIXME: It would be nice for this logic to be internal
+		}
+
+		if isDoc {
+			review.Change = pending_review.DOCS // FIXME: It would be nice for this logic to be internal
 		}
 
 		fmt.Printf("%+v\n", review)

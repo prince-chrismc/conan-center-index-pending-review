@@ -16,6 +16,7 @@ const (
 	ADDED Status = iota
 	EDIT  Status = iota
 	BUMP  Status = iota
+	DOCS  Status = iota
 )
 
 type PullRequestStatus struct {
