@@ -188,7 +188,9 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 
 		isBump := false
 		isDoc := false
-		if len := len(pr.Labels); len > 0 {
+		if len := len(pr.Labels); len > 1 {
+			continue // We know if there are certain labels then it's probably something worth skipping!
+		} else if len > 0 {
 			for _, label := range pr.Labels {
 				switch label.GetName() {
 				case BUMP:
@@ -198,7 +200,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 				}
 			}
 
-			if !isBump || !isDoc {
+			if !isBump && !isDoc {
 				continue // We know if there are certain labels then there's probably something wrong!
 			}
 		}
