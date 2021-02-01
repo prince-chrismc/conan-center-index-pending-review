@@ -21,6 +21,14 @@ const (
 	BUMP = "Bump version"
 )
 
+type stats struct {
+	Open    int
+	Draft   int
+	Stale   int
+	Failed  int
+	Blocked int
+}
+
 func main() {
 	context := context.Background()
 	client := pending_review.NewClient(determineAndSetupCredentials(context))
@@ -42,6 +50,7 @@ func main() {
 	}
 	fmt.Printf("%+v\n-----\n", repo)
 
+	var stats stats
 	var retval []*pending_review.PullRequestStatus
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
@@ -58,8 +67,13 @@ func main() {
 			os.Exit(1)
 		}
 
-		out := gatherReviewStatus(context, client, pulls)
+		stats.Open += len(pulls)
+		out, s := gatherReviewStatus(context, client, pulls)
 		retval = append(retval, out...)
+		stats.Draft += s.Draft
+		stats.Stale += s.Stale
+		stats.Failed += s.Failed
+		stats.Blocked += s.Blocked
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
 		if resp.NextPage == 0 {
@@ -92,7 +106,7 @@ func main() {
 
 - There has been at least one approval (at any point)
 - No reviews and commited to in the last 24hrs
-- No labels with exception to "bump version" and "Docs"
+- No labels with exception to "bump version" and "docs"
 
 ### :nerd_face: Please Review!
 
@@ -104,7 +118,21 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, true) +
+` + formatPullRequestToMarkdownRows(retval, true) + `
+
+#### :bar_chart: Statistics
+
+> :warning: These are just rough metrics counthing the labels and may not reflect the acutal state of pull requests
+
+- Commit: ` + os.Getenv("GITHUB_SHA") + `
+- PRs
+   - Open: ` + fmt.Sprint(stats.Open) + `
+   - Draft: ` + fmt.Sprint(stats.Draft) + `
+- Labels
+   - Stale: ` + fmt.Sprint(stats.Stale) + `
+   - Failed: ` + fmt.Sprint(stats.Failed) + `
+   - Blocked: ` + fmt.Sprint(stats.Blocked) + `
+` +
 			"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
@@ -179,30 +207,41 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 	return obtained != expected, nil
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) []*pending_review.PullRequestStatus {
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestStatus, stats) {
+	var stats stats
 	var out []*pending_review.PullRequestStatus
 	for _, pr := range prs {
 		if pr.GetDraft() {
+			stats.Draft++
 			continue // Let's skip these
 		}
 
 		isBump := false
 		isDoc := false
-		if len := len(pr.Labels); len > 1 {
-			continue // We know if there are certain labels then it's probably something worth skipping!
-		} else if len > 0 {
+		len := len(pr.Labels)
+		if len > 0 {
 			for _, label := range pr.Labels {
 				switch label.GetName() {
 				case BUMP:
 					isBump = true
 				case "Docs":
 					isDoc = true
+				case "stale":
+					stats.Stale++
+				case "Failed", "Unexpected Error":
+					stats.Failed++
+				case "infrastructure", "blocked":
+					stats.Blocked++
 				}
 			}
 
 			if !isBump && !isDoc {
 				continue // We know if there are certain labels then there's probably something wrong!
 			}
+		}
+
+		if len > 1 { // Check second so we can count the labels for some quick stats
+			continue // We know if there are certain labels then it's probably something worth skipping!
 		}
 
 		review, _, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr)
@@ -220,7 +259,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		fmt.Printf("%+v\n", review)
 		out = append(out, review)
 	}
-	return out
+	return out, stats
 }
 
 func determineAndSetupCredentials(context context.Context) *http.Client {
