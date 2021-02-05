@@ -10,6 +10,7 @@ import (
 	"os"
 	"strings"
 	"syscall"
+	"time"
 
 	"github.com/google/go-github/v33/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v1/pending_review"
@@ -24,9 +25,12 @@ const (
 type stats struct {
 	Open    int
 	Draft   int
+	Review  int
+	Merge   int
 	Stale   int
 	Failed  int
 	Blocked int
+	Age     time.Duration
 }
 
 func main() {
@@ -67,13 +71,16 @@ func main() {
 			os.Exit(1)
 		}
 
-		stats.Open += len(pulls)
 		out, s := gatherReviewStatus(context, client, pulls)
 		retval = append(retval, out...)
+		stats.Age = time.Duration(((stats.Age.Nanoseconds() * int64(stats.Open)) + (s.Age.Nanoseconds() * int64(s.Open))) / int64(stats.Open+s.Open))
+		stats.Open += s.Open
 		stats.Draft += s.Draft
 		stats.Stale += s.Stale
 		stats.Failed += s.Failed
 		stats.Blocked += s.Blocked
+		stats.Merge += s.Merge
+		stats.Review += s.Review
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
 		if resp.NextPage == 0 {
@@ -108,13 +115,13 @@ func main() {
 - No reviews and commited to in the last 24hrs
 - No labels with exception to "bump version" and "docs"
 
-### :nerd_face: Please Review!
+### :nerd_face: Please Review! (` + fmt.Sprint(stats.Review) + `)
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
 ` + formatPullRequestToMarkdownRows(retval, false) + `
 
-### :heavy_check_mark: Ready to Merge
+### :heavy_check_mark: Ready to Merge (` + fmt.Sprint(stats.Merge) + `)
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
@@ -128,6 +135,7 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 - PRs
    - Open: ` + fmt.Sprint(stats.Open) + `
    - Draft: ` + fmt.Sprint(stats.Draft) + `
+   - Age: ` + stats.Age.String() + `
 - Labels
    - Stale: ` + fmt.Sprint(stats.Stale) + `
    - Failed: ` + fmt.Sprint(stats.Failed) + `
@@ -211,6 +219,9 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 	var stats stats
 	var out []*pending_review.PullRequestStatus
 	for _, pr := range prs {
+		stats.Age = time.Duration(int64(float64((time.Now().Sub(pr.GetCreatedAt()) + time.Duration(stats.Age.Nanoseconds()*int64(stats.Open))).Nanoseconds()) / float64(stats.Open+1)))
+		stats.Open++
+
 		if pr.GetDraft() {
 			stats.Draft++
 			continue // Let's skip these
@@ -254,6 +265,11 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 
 		if isBump {
 			review.Change = pending_review.BUMP // FIXME: It would be nice for this logic to be internal
+		}
+
+		stats.Review++
+		if review.IsMergeable {
+			stats.Merge++
 		}
 
 		fmt.Printf("%+v\n", review)
