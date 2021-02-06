@@ -22,6 +22,32 @@ const (
 	BUMP = "Bump version"
 )
 
+const (
+	day  = time.Minute * 60 * 24
+	year = 365 * day
+)
+
+// https://gist.github.com/harshavardhana/327e0577c4fed9211f65#gistcomment-2557682
+func duration(d time.Duration) string {
+	if d < day {
+		return d.String()
+	}
+
+	var b strings.Builder
+
+	if d >= year {
+		years := d / year
+		fmt.Fprintf(&b, "%dy", years)
+		d -= years * year
+	}
+
+	days := d / day
+	d -= days * day
+	fmt.Fprintf(&b, "%dd%s", days, d)
+
+	return b.String()
+}
+
 type stats struct {
 	Open    int
 	Draft   int
@@ -103,7 +129,18 @@ func main() {
 	}
 	if !isDifferent {
 		fmt.Println("the obtained content is identical to the new result.")
-		return // The published results are the same no need to update the table.
+		return // The published results are the same, no need to update the table.
+	}
+
+	var ready string
+	if stats.Merge > 0 {
+		ready = `
+
+		### :heavy_check_mark: Ready to Merge (` + fmt.Sprint(stats.Merge) + `)
+		
+		PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
+		:---: | --- | --- | :---: | --- | ---
+		` + formatPullRequestToMarkdownRows(retval, true)
 	}
 
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
@@ -115,17 +152,13 @@ func main() {
 - No reviews and commited to in the last 24hrs
 - No labels with exception to "bump version" and "docs"
 
-### :nerd_face: Please Review! (` + fmt.Sprint(stats.Review) + `)
+### :nerd_face: Please Review! 
+
+There are **` + fmt.Sprint(stats.Review) + `** pull requests currently under way :eyes:
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, false) + `
-
-### :heavy_check_mark: Ready to Merge (` + fmt.Sprint(stats.Merge) + `)
-
-PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
-:---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, true) + `
+` + formatPullRequestToMarkdownRows(retval, false) + ready + `
 
 #### :bar_chart: Statistics
 
@@ -135,7 +168,7 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 - PRs
    - Open: ` + fmt.Sprint(stats.Open) + `
    - Draft: ` + fmt.Sprint(stats.Draft) + `
-   - Age: ` + stats.Age.String() + `
+   - Age: ` + duration(stats.Age) + `
 - Labels
    - Stale: ` + fmt.Sprint(stats.Stale) + `
    - Failed: ` + fmt.Sprint(stats.Failed) + `
