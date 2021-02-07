@@ -136,11 +136,11 @@ func main() {
 	if stats.Merge > 0 {
 		ready = `
 
-		### :heavy_check_mark: Ready to Merge (` + fmt.Sprint(stats.Merge) + `)
-		
-		PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
-		:---: | --- | --- | :---: | --- | ---
-		` + formatPullRequestToMarkdownRows(retval, true)
+### :heavy_check_mark: Ready to Merge (` + fmt.Sprint(stats.Merge) + `)
+
+PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
+:---: | --- | --- | :---: | --- | ---
+` + formatPullRequestToMarkdownRows(retval, true)
 	}
 
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
