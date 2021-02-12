@@ -136,7 +136,9 @@ func main() {
 	if stats.Merge > 0 {
 		ready = `
 
-### :heavy_check_mark: Ready to Merge (` + fmt.Sprint(stats.Merge) + `)
+### :heavy_check_mark: Ready to Merge 
+
+Currently **` + fmt.Sprint(stats.Merge) + `** pull request(s) is/are waiting to be merged :tada:
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
