@@ -101,7 +101,7 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 		opt.Page = resp.NextPage
 	}
 
-	if len(p.HeadCommitApprovals) > 0 {
+	if len(p.HeadCommitApprovals) > 0 || p.Change == DOCS { // Always save documentation pull requests
 		return p, resp, nil
 	}
 
