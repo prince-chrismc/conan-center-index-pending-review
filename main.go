@@ -289,9 +289,9 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		review, _, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr)
-		if errors.Is(err, pending_review.ErrNoReviews) && !isDoc { // Always save documentation pull requests
-			continue
-		} else if errors.Is(err, pending_review.ErrInvalidChange) {
+		if errors.Is(err, pending_review.ErrNoReviews) && isDoc {
+			err = nil  // Always save documentation pull requests
+		} else if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) {
 			continue
 		} else if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)
