@@ -302,11 +302,12 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			review.Change = pending_review.BUMP // FIXME: It would be nice for this logic to be internal
 		}
 
-		stats.Review++
 		if review.IsMergeable {
 			stats.Merge++
+		} else {
+			stats.Review++
 		}
-
+		
 		fmt.Printf("%+v\n", review)
 		out = append(out, review)
 	}
