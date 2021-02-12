@@ -284,12 +284,14 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			}
 		}
 
-		if len > 1 { // Check second so we can count the labels for some quick stats
+		if len > 1 && !isDoc { // We always want to review documentation changes
 			continue // We know if there are certain labels then it's probably something worth skipping!
 		}
 
 		review, _, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr)
-		if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) {
+		if errors.Is(err, pending_review.ErrNoReviews) && !isDoc { // Always save documentation pull requests
+			continue
+		} else if errors.Is(err, pending_review.ErrInvalidChange) {
 			continue
 		} else if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)
