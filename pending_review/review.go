@@ -54,14 +54,19 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSumm
 		switch review.GetState() {
 		case CHANGE.String():
 			if isC3iTeam {
-				summary.HeadCommitBlockers = appendUnique(summary.HeadCommitBlockers, reviewerName)
+				summary.HeadCommitBlockers, _ = appendUnique(summary.HeadCommitBlockers, reviewerName)
 			}
 
 			summary.HeadCommitApprovals = removeUnique(summary.HeadCommitApprovals, reviewerName)
 
 		case APPRVD.String():
 			if onBranchHead {
-				summary.HeadCommitApprovals = appendUnique(summary.HeadCommitApprovals, reviewerName)
+				approvals, new := appendUnique(summary.HeadCommitApprovals, reviewerName)
+				if !new { // Duplicate review (usually an accident)
+					break
+				}
+
+				summary.HeadCommitApprovals = approvals
 				if isC3iTeam {
 					summary.PriorityApproval = true
 					summary.ValidApprovals = summary.ValidApprovals + 1
@@ -87,14 +92,14 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSumm
 	return summary
 }
 
-func appendUnique(slice []string, elem string) []string {
+func appendUnique(slice []string, elem string) ([]string, bool) {
 	for _, e := range slice {
 		if e == elem {
-			return slice
+			return slice, false
 		}
 	}
 
-	return append(slice, elem)
+	return append(slice, elem), true
 }
 
 func removeUnique(slice []string, elem string) []string {
