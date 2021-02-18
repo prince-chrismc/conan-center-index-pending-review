@@ -75,7 +75,7 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSumm
 
 			// We always count the community reviewer approvals (for any commit) because this matches closer with the GitHub UI
 			switch reviewerName {
-			case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos":
+			case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos", "mathbunnyru":
 				summary.ValidApprovals = summary.ValidApprovals + 1
 			default:
 			}
