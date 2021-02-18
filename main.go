@@ -162,6 +162,14 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
 ` + formatPullRequestToMarkdownRows(retval, false) + ready + `
 
+> #### Legend
+> :new: - adding a recipe which does not exist
+> :arrow_up: - a version bump (matches the label)
+> :memo: - modification to an existing recipe
+> :green_book: - a documentation change (matches the label)
+> ##### Merge Specific
+> :warning: - the status does **not** indicate success
+
 #### :bar_chart: Statistics
 
 > :warning: These are just rough metrics counthing the labels and may not reflect the acutal state of pull requests
