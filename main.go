@@ -154,6 +154,14 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 - No reviews and commited to in the last 24hrs
 - No labels with exception to "bump version" and "docs"
 
+#### Legend
+
+:new: - adding a recipe which does not yet exist
+:arrow_up: - a version bump (matches the label)
+:memo: - modification to an existing recipe
+:green_book: - a documentation change (matches the label)
+:warning: - the merge commit status does **not** indicate success (only displayed when ready to merge)
+
 ### :nerd_face: Please Review! 
 
 There are **` + fmt.Sprint(stats.Review) + `** pull requests currently under way :eyes:
@@ -161,14 +169,6 @@ There are **` + fmt.Sprint(stats.Review) + `** pull requests currently under way
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
 ` + formatPullRequestToMarkdownRows(retval, false) + ready + `
-
-> #### Legend
-> :new: - adding a recipe which does not exist
-> :arrow_up: - a version bump (matches the label)
-> :memo: - modification to an existing recipe
-> :green_book: - a documentation change (matches the label)
-> ##### Merge Specific
-> :warning: - the status does **not** indicate success
 
 #### :bar_chart: Statistics
 
