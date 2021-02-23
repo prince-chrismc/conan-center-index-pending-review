@@ -57,7 +57,22 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSumm
 				summary.HeadCommitBlockers, _ = appendUnique(summary.HeadCommitBlockers, reviewerName)
 			}
 
-			summary.HeadCommitApprovals = removeUnique(summary.HeadCommitApprovals, reviewerName)
+			removed := false
+			summary.HeadCommitApprovals, removed = removeUnique(summary.HeadCommitApprovals, reviewerName)
+			if removed {
+				// If a reviewer retracted their reivew, the count needs to be adjusted
+
+				if isC3iTeam {
+					summary.ValidApprovals = summary.ValidApprovals - 1
+				}
+
+				switch reviewerName {
+				case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos":
+					// If a community reviewer retracted their reivew, the count needs to be adjusted
+					summary.ValidApprovals = summary.ValidApprovals - 1
+				default:
+				}
+			}
 
 		case APPRVD.String():
 			if onBranchHead {
@@ -80,11 +95,11 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSumm
 			default:
 			}
 
-			summary.HeadCommitBlockers = removeUnique(summary.HeadCommitBlockers, reviewerName)
+			summary.HeadCommitBlockers, _ = removeUnique(summary.HeadCommitBlockers, reviewerName)
 
 		case DISMISSED.String():
 			// Out-dated Approvals are transformed into comments https://github.com/conan-io/conan-center-index/pull/3855#issuecomment-770120073
-			summary.HeadCommitBlockers = removeUnique(summary.HeadCommitBlockers, reviewerName)
+			summary.HeadCommitBlockers, _ = removeUnique(summary.HeadCommitBlockers, reviewerName)
 		default:
 		}
 	}
@@ -102,12 +117,12 @@ func appendUnique(slice []string, elem string) ([]string, bool) {
 	return append(slice, elem), true
 }
 
-func removeUnique(slice []string, elem string) []string {
+func removeUnique(slice []string, elem string) ([]string, bool) {
 	for i, e := range slice {
 		if e == elem {
-			return append(slice[:i], slice[i+1:]...)
+			return append(slice[:i], slice[i+1:]...), true
 		}
 	}
 
-	return slice
+	return slice, false
 }
