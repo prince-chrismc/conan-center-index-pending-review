@@ -175,10 +175,10 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 > :warning: These are just rough metrics counthing the labels and may not reflect the acutal state of pull requests
 
 - Commit: ` + os.Getenv("GITHUB_SHA") + `
-- PRs
-   - Open: ` + fmt.Sprint(stats.Open) + `
+- Pull Requests
+   - Open: **` + fmt.Sprint(stats.Open) + `**
    - Draft: ` + fmt.Sprint(stats.Draft) + `
-   - Age: ` + duration(stats.Age) + `
+   - Average Age: ` + duration(stats.Age) + ` :see_no_evil:
 - Labels
    - Stale: ` + fmt.Sprint(stats.Stale) + `
    - Failed: ` + fmt.Sprint(stats.Failed) + `
