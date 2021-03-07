@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"time"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
 )
 
 // Stats for the open pull requests being evaluated
@@ -13,12 +13,12 @@ type Stats struct {
 	Stale   int
 	Failed  int
 	Blocked int
-	Age     time.Duration
+	Age     duration.MovingAverage
 }
 
 // Add two stats together
 func (stats *Stats) Add(s Stats) {
-	stats.Age = time.Duration(((stats.Age.Nanoseconds() * int64(stats.Open)) + (s.Age.Nanoseconds() * int64(s.Open))) / int64(stats.Open+s.Open))
+	stats.Age.Combine(s.Age)
 	stats.Open += s.Open
 	stats.Draft += s.Draft
 	stats.Stale += s.Stale

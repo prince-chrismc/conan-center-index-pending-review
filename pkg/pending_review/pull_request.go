@@ -154,9 +154,11 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		}
 	}
 
-	// if len(files) == 2 {
-	// 	if
-	// }
+	if len(files) == 2 {
+		if strings.HasSuffix(files[0].GetFilename(), "conandata.yml") && strings.HasSuffix(files[1].GetFilename(), "config.yml") {
+			change.Change = BUMP
+		}
+	}
 
 	return change, resp, nil
 }

@@ -16,6 +16,9 @@ type PullRequest = github.PullRequest
 // PullRequestReview represents a review of a pull request.
 type PullRequestReview = github.PullRequestReview
 
+// Label represents a GitHub label on an Issue
+type Label = github.Label
+
 // ListOptions specifies the optional parameters to various List methods that
 // support offset pagination.
 type ListOptions = github.ListOptions

@@ -13,17 +13,13 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/format"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/validate"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"golang.org/x/oauth2"
 )
 
-const (
-	BUMP = "Bump version"
-)
-
 // Run the analysis
 func Run(token string, dryRun bool) error {
-
 	tokenService := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: token},
 	)
@@ -145,7 +141,7 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 - PRs
    - Open: ` + fmt.Sprint(stats.Open) + `
    - Draft: ` + fmt.Sprint(stats.Draft) + `
-   - Age: ` + duration.Duration(stats.Age) + `
+   - Age: ` + duration.Duration(stats.Age.GetCurrentAverage()) + `
 - Labels
    - Stale: ` + fmt.Sprint(stats.Stale) + `
    - Failed: ` + fmt.Sprint(stats.Failed) + `
@@ -190,7 +186,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 	var stats stats.Stats
 	var out []*pending_review.PullRequestStatus
 	for _, pr := range prs {
-		stats.Age = time.Duration(int64(float64((time.Now().Sub(pr.GetCreatedAt()) + time.Duration(stats.Age.Nanoseconds()*int64(stats.Open))).Nanoseconds()) / float64(stats.Open+1)))
+		stats.Age.Append(time.Now().Sub(pr.GetCreatedAt()))
 		stats.Open++
 
 		if pr.GetDraft() {
@@ -198,32 +194,9 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			continue // Let's skip these
 		}
 
-		isBump := false
-		isDoc := false
-		len := len(pr.Labels)
-		if len > 0 {
-			for _, label := range pr.Labels {
-				switch label.GetName() {
-				case BUMP:
-					isBump = true
-				case "Docs":
-					isDoc = true
-				case "stale":
-					stats.Stale++
-				case "Failed", "Unexpected Error":
-					stats.Failed++
-				case "infrastructure", "blocked":
-					stats.Blocked++
-				}
-			}
-
-			if !isBump && !isDoc {
-				continue // We know if there are certain labels then there's probably something wrong!
-			}
-		}
-
-		if len > 1 && !isDoc { // We always want to review documentation changes
-			continue // We know if there are certain labels then it's probably something worth skipping!
+		valid := validate.OnlyAcceptableLabels(pr.Labels, &stats)
+		if !valid {
+			continue
 		}
 
 		review, _, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr)
@@ -232,10 +205,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		} else if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)
 			os.Exit(1)
-		}
-
-		if isBump {
-			review.Change = pending_review.BUMP // FIXME: It would be nice for this logic to be internal
 		}
 
 		if review.IsMergeable {
