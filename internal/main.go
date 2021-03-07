@@ -1,20 +1,19 @@
-package main
+package internal
 
 import (
-	"bufio"
 	"context"
 	"encoding/json"
 	"errors"
 	"fmt"
-	"net/http"
 	"os"
 	"strings"
-	"syscall"
 	"time"
 
 	"github.com/google/go-github/v33/github"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v1/pending_review"
-	"golang.org/x/crypto/ssh/terminal"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/format"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"golang.org/x/oauth2"
 )
 
@@ -22,46 +21,15 @@ const (
 	BUMP = "Bump version"
 )
 
-const (
-	day  = time.Minute * 60 * 24
-	year = 365 * day
-)
+// Run the analysis
+func Run(token string, dryRun bool) error {
 
-// https://gist.github.com/harshavardhana/327e0577c4fed9211f65#gistcomment-2557682
-func duration(d time.Duration) string {
-	if d < day {
-		return d.String()
-	}
+	tokenService := oauth2.StaticTokenSource(
+		&oauth2.Token{AccessToken: token},
+	)
 
-	var b strings.Builder
-
-	if d >= year {
-		years := d / year
-		fmt.Fprintf(&b, "%dy", years)
-		d -= years * year
-	}
-
-	days := d / day
-	d -= days * day
-	fmt.Fprintf(&b, "%dd%s", days, d)
-
-	return b.String()
-}
-
-type stats struct {
-	Open    int
-	Draft   int
-	Review  int
-	Merge   int
-	Stale   int
-	Failed  int
-	Blocked int
-	Age     time.Duration
-}
-
-func main() {
 	context := context.Background()
-	client := pending_review.NewClient(determineAndSetupCredentials(context))
+	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
 
 	// Get Rate limit information
 	rateLimit, _, err := client.RateLimits(context)
@@ -80,7 +48,7 @@ func main() {
 	}
 	fmt.Printf("%+v\n-----\n", repo)
 
-	var stats stats
+	var stats stats.Stats
 	var retval []*pending_review.PullRequestStatus
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
@@ -99,14 +67,7 @@ func main() {
 
 		out, s := gatherReviewStatus(context, client, pulls)
 		retval = append(retval, out...)
-		stats.Age = time.Duration(((stats.Age.Nanoseconds() * int64(stats.Open)) + (s.Age.Nanoseconds() * int64(s.Open))) / int64(stats.Open+s.Open))
-		stats.Open += s.Open
-		stats.Draft += s.Draft
-		stats.Stale += s.Stale
-		stats.Failed += s.Failed
-		stats.Blocked += s.Blocked
-		stats.Merge += s.Merge
-		stats.Review += s.Review
+		stats.Add(s)
 
 		// Handle Pagination: https://github.com/google/go-github#pagination
 		if resp.NextPage == 0 {
@@ -127,9 +88,15 @@ func main() {
 		fmt.Printf("Problem getting original issue content %v\n", err)
 		os.Exit(1)
 	}
+
 	if !isDifferent {
 		fmt.Println("the obtained content is identical to the new result.")
-		return // The published results are the same, no need to update the table.
+		return nil // The published results are the same, no need to update the table.
+	}
+
+	if dryRun {
+		fmt.Println(string(bytes))
+		return nil
 	}
 
 	var ready string
@@ -142,7 +109,7 @@ Currently **` + fmt.Sprint(stats.Merge) + `** pull request(s) is/are waiting to 
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, true)
+` + format.ReviewsToMarkdownRows(retval, true)
 	}
 
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
@@ -168,7 +135,7 @@ There are **` + fmt.Sprint(stats.Review) + `** pull requests currently under way
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-` + formatPullRequestToMarkdownRows(retval, false) + ready + `
+` + format.ReviewsToMarkdownRows(retval, false) + ready + `
 
 #### :bar_chart: Statistics
 
@@ -178,7 +145,7 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 - PRs
    - Open: ` + fmt.Sprint(stats.Open) + `
    - Draft: ` + fmt.Sprint(stats.Draft) + `
-   - Age: ` + duration(stats.Age) + `
+   - Age: ` + duration.Duration(stats.Age) + `
 - Labels
    - Stale: ` + fmt.Sprint(stats.Stale) + `
    - Failed: ` + fmt.Sprint(stats.Failed) + `
@@ -190,47 +157,8 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 		fmt.Printf("Problem editing issue %v\n", err)
 		os.Exit(1)
 	}
-}
 
-func formatPullRequestToMarkdownRows(prs []*pending_review.PullRequestStatus, canMerge bool) string {
-	var retval string
-	for _, pr := range prs {
-		if pr.IsMergeable != canMerge {
-			continue
-		}
-
-		title := "recipe"
-		switch pr.Change {
-		case pending_review.ADDED:
-			title = ":new: " + pr.Recipe
-			break
-		case pending_review.EDIT:
-			title = ":memo: " + pr.Recipe
-			break
-		case pending_review.BUMP:
-			title = ":arrow_up: " + pr.Recipe
-			break
-		case pending_review.DOCS:
-			title = ":green_book: " + pr.Recipe
-			break
-		}
-
-		if !pr.CciBotPassed && pr.IsMergeable {
-			title = ":warning: " + pr.Recipe
-		}
-
-		columns := []string{
-			fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
-			fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
-			title,
-			fmt.Sprint(pr.Reviews),
-			strings.Join(pr.HeadCommitBlockers, ", "),
-			strings.Join(pr.HeadCommitApprovals, ", "),
-		}
-		retval += strings.Join(columns, "|")
-		retval += "\n"
-	}
-	return retval
+	return nil
 }
 
 func validateContentIsDifferent(context context.Context, client *pending_review.Client, expected string) (bool, error) {
@@ -258,8 +186,8 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 	return obtained != expected, nil
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestStatus, stats) {
-	var stats stats
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestStatus, stats.Stats) {
+	var stats stats.Stats
 	var out []*pending_review.PullRequestStatus
 	for _, pr := range prs {
 		stats.Age = time.Duration(int64(float64((time.Now().Sub(pr.GetCreatedAt()) + time.Duration(stats.Age.Nanoseconds()*int64(stats.Open))).Nanoseconds()) / float64(stats.Open+1)))
@@ -315,34 +243,9 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		} else {
 			stats.Review++
 		}
-		
+
 		fmt.Printf("%+v\n", review)
 		out = append(out, review)
 	}
 	return out, stats
-}
-
-func determineAndSetupCredentials(context context.Context) *http.Client {
-	token, exists := os.LookupEnv("GITHUB_TOKEN")
-	if exists {
-		tokenService := oauth2.StaticTokenSource(
-			&oauth2.Token{AccessToken: token},
-		)
-		return oauth2.NewClient(context, tokenService)
-	} else {
-		r := bufio.NewReader(os.Stdin)
-		fmt.Print("GitHub Username: ")
-		username, _ := r.ReadString('\n')
-
-		fmt.Print("GitHub Password: ")
-		bytePassword, _ := terminal.ReadPassword(int(syscall.Stdin))
-		password := string(bytePassword)
-
-		tp := github.BasicAuthTransport{
-			Username: strings.TrimSpace(username),
-			Password: strings.TrimSpace(password),
-		}
-
-		return tp.Client()
-	}
 }

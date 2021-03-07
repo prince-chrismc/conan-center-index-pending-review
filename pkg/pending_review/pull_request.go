@@ -118,6 +118,7 @@ type change struct {
 	Change Status
 }
 
+// ErrInvalidChange in the commit files of the pull request which break the rules of CCI
 var ErrInvalidChange = errors.New("the files, or lack thereof, make this PR invalid")
 
 func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner string, repo string, number int, perPage int) (*change, *Response, error) {
@@ -152,6 +153,10 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 			change.Change = EDIT // Any edit breaks the "new receipe" definition
 		}
 	}
+
+	// if len(files) == 2 {
+	// 	if
+	// }
 
 	return change, resp, nil
 }
