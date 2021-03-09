@@ -109,7 +109,7 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 	}
 
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
-		Body: github.String(`## :sparkles: Pull Requests Pending Review Summary!
+		Body: github.String(`## :sparkles: Summary of Pull Requests Pending Review!
 
 ### :ballot_box_with_check: Selection Criteria:
 
@@ -117,13 +117,15 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 - No reviews and commited to in the last 24hrs
 - No labels with exception to "bump version" and "docs"
 
-#### Legend
+#### :world_map: Legend
 
-:new: - adding a recipe which does not yet exist
-:arrow_up: - a version bump (matches the label)
-:memo: - modification to an existing recipe
-:green_book: - a documentation change (matches the label)
-:warning: - the merge commit status does **not** indicate success (only displayed when ready to merge)
+Icon | Description | Notes
+--|--|--
+:new: | Adding a recipe which does not yet exist |
+:arrow_up: | Version bump | _closely_ matches the label
+:memo: | Modification to an existing recipe |
+:green_book: | Documentation change | matches the label
+:warning: | The merge commit status does **not** indicate success | only displayed when ready to merge
 
 ### :nerd_face: Please Review! 
 
@@ -141,7 +143,7 @@ PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 - PRs
    - Open: ` + fmt.Sprint(stats.Open) + `
    - Draft: ` + fmt.Sprint(stats.Draft) + `
-   - Age: ` + duration.Duration(stats.Age.GetCurrentAverage()) + `
+   - Age: ` + duration.String(stats.Age.GetCurrentAverage()) + `
 - Labels
    - Stale: ` + fmt.Sprint(stats.Stale) + `
    - Failed: ` + fmt.Sprint(stats.Failed) + `

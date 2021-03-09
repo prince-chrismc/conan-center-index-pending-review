@@ -15,22 +15,7 @@ func ReviewsToMarkdownRows(prs []*pending_review.PullRequestStatus, canMerge boo
 			continue
 		}
 
-		title := "recipe"
-		switch pr.Change {
-		case pending_review.ADDED:
-			title = ":new: " + pr.Recipe
-			break
-		case pending_review.EDIT:
-			title = ":memo: " + pr.Recipe
-			break
-		case pending_review.BUMP:
-			title = ":arrow_up: " + pr.Recipe
-			break
-		case pending_review.DOCS:
-			title = ":green_book: " + pr.Recipe
-			break
-		}
-
+		title := title(pr.Change, pr.Recipe)
 		if !pr.CciBotPassed && pr.IsMergeable {
 			title = ":warning: " + pr.Recipe
 		}
@@ -47,4 +32,19 @@ func ReviewsToMarkdownRows(prs []*pending_review.PullRequestStatus, canMerge boo
 		retval += "\n"
 	}
 	return retval
+}
+
+func title(change pending_review.Status, recipe string) string {
+	switch change {
+	case pending_review.ADDED:
+		return ":new: " + recipe
+	case pending_review.EDIT:
+		return ":memo: " + recipe
+	case pending_review.BUMP:
+		return ":arrow_up: " + recipe
+	case pending_review.DOCS:
+		return ":green_book: " + recipe
+	}
+
+	return "???"
 }
