@@ -10,8 +10,7 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  build:
-    name: Build
+  run:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/setup-go@v2
@@ -26,8 +25,7 @@ jobs:
           ${{ runner.os }}-go-
     - run: go get -v -t -d ./...
     - run: go test -v ./...
-    - run: go build -o cpr github.com/prince-chrismc/conan-center-index-pending-review/v2/cmd
-      
+    - run: go build -o cpr ./cmd    
     - run: ./cpr -d
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
