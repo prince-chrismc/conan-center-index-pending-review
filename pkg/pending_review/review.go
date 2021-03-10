@@ -1,44 +1,20 @@
 package pending_review
 
-type reviewState string
-
-// State of the review, either as indicated by the reviewer or by updates from the GitHub API
-const (
-	CHANGE    reviewState = "CHANGES_REQUESTED"
-	APPRVD    reviewState = "APPROVED"
-	DISMISSED reviewState = "DISMISSED"
-)
-
-func (rs reviewState) String() string {
-	return string(rs)
-}
-
 type authorAssociation string
 
-// Reviewer's author associations to the repository
-const (
-	COLLABORATOR authorAssociation = "COLLABORATOR"
-	CONTRIBUTOR  authorAssociation = "CONTRIBUTOR"
-	MEMBER       authorAssociation = "MEMBER"
-)
-
-func (as authorAssociation) String() string {
-	return string(as)
-}
-
-// ReviewsSummary digested representation of all the reviews of a given pull request
-type ReviewsSummary struct {
+// Reviews summary of all the reviews of a given pull request
+type Reviews struct {
 	Count            int  // Total number of comments, requested changes, and approvals
-	ValidApprovals   int  // Counted by head commit approvals from official community reviewers and c3i team
-	PriorityApproval bool // At least one approval from a c31 team member
+	ValidApprovals   int  // Counted by head commit approvals from official community reviewers and the Conan team
+	PriorityApproval bool // At least one approval from the Conan team
 
 	HeadCommitApprovals []string // List of users who have approved the pull request
-	HeadCommitBlockers  []string // List of c3i team members who have requested changes on the head commit
+	HeadCommitBlockers  []string // List of Conan team members who have requested changes on the head commit
 }
 
 // ProcessReviewComments interprets the all the reviews to extract a summary based on the requirements of CCI
-func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSummary {
-	summary := ReviewsSummary{
+func ProcessReviewComments(reviews []*PullRequestReview, sha string) Reviews {
+	summary := Reviews{
 		Count:            len(reviews),
 		PriorityApproval: false,
 	}
@@ -48,11 +24,10 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSumm
 
 		reviewerName := review.GetUser().GetLogin()
 		reviewerAssociation := review.GetAuthorAssociation()
+		isC3iTeam := reviewerAssociation == "MEMBER" || reviewerAssociation == "COLLABORATOR"
 
-		isC3iTeam := reviewerAssociation == MEMBER.String() || reviewerAssociation == COLLABORATOR.String()
-
-		switch review.GetState() {
-		case CHANGE.String():
+		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API
+		case "CHANGES_REQUESTED":
 			if isC3iTeam {
 				summary.HeadCommitBlockers, _ = appendUnique(summary.HeadCommitBlockers, reviewerName)
 			}
@@ -74,7 +49,7 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSumm
 				}
 			}
 
-		case APPRVD.String():
+		case "APPROVED":
 			if onBranchHead {
 				approvals, new := appendUnique(summary.HeadCommitApprovals, reviewerName)
 				if !new { // Duplicate review (usually an accident)
@@ -97,7 +72,7 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) ReviewsSumm
 
 			summary.HeadCommitBlockers, _ = removeUnique(summary.HeadCommitBlockers, reviewerName)
 
-		case DISMISSED.String():
+		case "DISMISSED":
 			// Out-dated Approvals are transformed into comments https://github.com/conan-io/conan-center-index/pull/3855#issuecomment-770120073
 			summary.HeadCommitBlockers, _ = removeUnique(summary.HeadCommitBlockers, reviewerName)
 		default:

@@ -45,7 +45,7 @@ func Run(token string, dryRun bool) error {
 	fmt.Printf("%+v\n-----\n", repo)
 
 	var stats stats.Stats
-	var retval []*pending_review.PullRequestStatus
+	var retval []*pending_review.ReviewSummary
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
 		Direction: "asc",
@@ -184,9 +184,9 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 	return obtained != expected, nil
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestStatus, stats.Stats) {
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.ReviewSummary, stats.Stats) {
 	var stats stats.Stats
-	var out []*pending_review.PullRequestStatus
+	var out []*pending_review.ReviewSummary
 	for _, pr := range prs {
 		stats.Age.Append(time.Now().Sub(pr.GetCreatedAt()))
 		stats.Open++
@@ -201,7 +201,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			continue
 		}
 
-		review, _, err := client.PullRequest.GatherRelevantReviews(context, "conan-io", "conan-center-index", pr)
+		review, _, err := client.PullRequest.GetReviewSummary(context, "conan-io", "conan-center-index", pr)
 		if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) {
 			continue
 		} else if err != nil {

@@ -8,7 +8,7 @@ import (
 )
 
 // ReviewsToMarkdownRows Converts pull request review status to GitHub markdown table rows
-func ReviewsToMarkdownRows(prs []*pending_review.PullRequestStatus, canMerge bool) string {
+func ReviewsToMarkdownRows(prs []*pending_review.ReviewSummary, canMerge bool) string {
 	var retval string
 	for _, pr := range prs {
 		if pr.IsMergeable != canMerge {
@@ -34,7 +34,7 @@ func ReviewsToMarkdownRows(prs []*pending_review.PullRequestStatus, canMerge boo
 	return retval
 }
 
-func title(change pending_review.Status, recipe string) string {
+func title(change pending_review.Category, recipe string) string {
 	switch change {
 	case pending_review.ADDED:
 		return ":new: " + recipe

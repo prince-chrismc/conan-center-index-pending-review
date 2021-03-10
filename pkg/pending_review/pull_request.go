@@ -9,21 +9,24 @@ import (
 )
 
 // Category describing the type of change being introduced by the pull request
-type Status int
+type Category int
 
 // Category describing the type of change being introduced by the pull request
 const (
-	ADDED Status = iota
-	EDIT  Status = iota
-	BUMP  Status = iota
-	DOCS  Status = iota
+	ADDED Category = iota
+	EDIT  Category = iota
+	BUMP  Category = iota
+	DOCS  Category = iota
 )
 
-type PullRequestStatus struct {
+// ReviewSummary of a pull request based on the rules of conan-center-index.
+// See https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
+// for more inforamtion
+type ReviewSummary struct {
 	Number              int
 	OpenedBy            string
 	Recipe              string
-	Change              Status
+	Change              Category
 	ReviewURL           string
 	LastCommitSHA       string
 	LastCommitAt        time.Time
@@ -35,12 +38,15 @@ type PullRequestStatus struct {
 	HeadCommitBlockers  []string
 }
 
+// ErrNoReviews indicated there were no reviews on a pull request and a summary could not be generated
 var ErrNoReviews = errors.New("no reviews on pull request")
 
+// PullRequestService handles communication with the pull request related methods of the GitHub API
 type PullRequestService service
 
-func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner string, repo string, pr *PullRequest) (*PullRequestStatus, *Response, error) {
-	p := &PullRequestStatus{
+// GetReviewSummary of a specific pull request
+func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string, repo string, pr *PullRequest) (*ReviewSummary, *Response, error) {
+	p := &ReviewSummary{
 		Number:        pr.GetNumber(),
 		OpenedBy:      pr.GetUser().GetLogin(),
 		ReviewURL:     pr.GetHTMLURL(),
@@ -109,13 +115,12 @@ func (s *PullRequestService) GatherRelevantReviews(ctx context.Context, owner st
 }
 
 func isWithin24Hours(t time.Time) bool {
-	hours, _ := time.ParseDuration("24h")
-	return t.Add(hours).After(time.Now())
+	return t.Add(time.Hour * 24).After(time.Now())
 }
 
 type change struct {
 	Recipe string
-	Change Status
+	Change Category
 }
 
 // ErrInvalidChange in the commit files of the pull request which break the rules of CCI
