@@ -37,7 +37,7 @@ func Run(token string, dryRun bool) error {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	repo, _, err := client.Repository.Get(context, "conan-io", "conan-center-index")
+	repo, _, err := client.Repository.GetSummary(context, "conan-io", "conan-center-index")
 	if err != nil {
 		fmt.Printf("Problem in getting repository information %v\n", err)
 		os.Exit(1)
