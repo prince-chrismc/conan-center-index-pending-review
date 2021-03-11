@@ -168,17 +168,6 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 
 	rawStart := strings.Index(content, "```json\n")
 	rawEnd := strings.Index(content, "\n```\n")
-
-	if rawStart == -1 || rawEnd == -1 {
-		// Second chance... Editing the issues manually on windows will add CR to the entire content
-		rawStart = strings.Index(content, "```json\r\n")
-		rawEnd = strings.Index(content, "\r\n```\r\n")
-
-		if rawStart == -1 || rawEnd == -1 {
-			return false, errors.New("content did not contain the expected raw JSON section")
-		}
-	}
-
 	obtained := content[rawStart+len("```json\n") : rawEnd]
 
 	return obtained != expected, nil
