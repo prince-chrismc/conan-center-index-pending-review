@@ -24,7 +24,12 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-go-
     - run: go get -v -t -d ./...
-    - run: go test -v ./...
+    - if: github.event_name != 'schedule'
+      run: go test -race -coverprofile=coverage.out -covermode=atomic -v ./...
+    - if: github.event_name != 'schedule'
+      uses: codecov/codecov-action@v1
+      with:
+        files: coverage.out
     - run: go build -o cpr ./cmd    
     - run: ./cpr -d
       env:
