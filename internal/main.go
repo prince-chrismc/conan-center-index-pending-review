@@ -198,7 +198,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			os.Exit(1)
 		}
 
-		if review.IsMergeable {
+		if review.Summary.IsApproved() {
 			stats.Merge++
 		} else {
 			stats.Review++

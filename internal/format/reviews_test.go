@@ -30,10 +30,10 @@ func TestFormatMarkdownRows(t *testing.T) {
 		   "ValidApprovals": 1,
 		   "IsMergeable": false,
 		   "CciBotPassed": true,
-		   "HeadCommitApprovals": [
+		   "Approvals": [
 			  "prince-chrismc"
 		   ],
-		   "HeadCommitBlockers": null
+		   "Blockers": null
 		},
 		{
 		   "Number": 4682,
@@ -47,10 +47,10 @@ func TestFormatMarkdownRows(t *testing.T) {
 		   "ValidApprovals": 1,
 		   "IsMergeable": true,
 		   "CciBotPassed": false,
-		   "HeadCommitApprovals": [
+		   "Approvals": [
 			  "prince-chrismc"
 		   ],
-		   "HeadCommitBlockers": [
+		   "Blockers": [
 			  "uilianries"
 		   ]
 		}

@@ -11,12 +11,12 @@ import (
 func ReviewsToMarkdownRows(prs []*pending_review.ReviewSummary, canMerge bool) string {
 	var retval string
 	for _, pr := range prs {
-		if pr.IsMergeable != canMerge {
+		if pr.Summary.IsApproved() != canMerge {
 			continue
 		}
 
 		title := title(pr.Change, pr.Recipe)
-		if !pr.CciBotPassed && pr.IsMergeable {
+		if !pr.CciBotPassed && pr.Summary.IsApproved() { //TODO(prince-chrismc): Always display bad commit statuses?
 			title = ":warning: " + pr.Recipe
 		}
 
@@ -24,9 +24,9 @@ func ReviewsToMarkdownRows(prs []*pending_review.ReviewSummary, canMerge bool) s
 			fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
 			fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
 			title,
-			fmt.Sprint(pr.Reviews),
-			strings.Join(pr.HeadCommitBlockers, ", "),
-			strings.Join(pr.HeadCommitApprovals, ", "),
+			fmt.Sprint(pr.Summary.Count),
+			strings.Join(pr.Summary.Blockers, ", "),
+			strings.Join(pr.Summary.Approvals, ", "),
 		}
 		retval += strings.Join(columns, "|")
 		retval += "\n"

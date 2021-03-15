@@ -23,19 +23,15 @@ const (
 // See https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
 // for more inforamtion
 type ReviewSummary struct {
-	Number              int
-	OpenedBy            string
-	Recipe              string
-	Change              Category
-	ReviewURL           string
-	LastCommitSHA       string
-	LastCommitAt        time.Time
-	Reviews             int
-	ValidApprovals      int
-	IsMergeable         bool
-	CciBotPassed        bool
-	HeadCommitApprovals []string
-	HeadCommitBlockers  []string
+	Number        int
+	OpenedBy      string
+	Recipe        string
+	Change        Category
+	ReviewURL     string
+	LastCommitSHA string
+	LastCommitAt  time.Time
+	CciBotPassed  bool
+	Summary       Reviews
 }
 
 // ErrNoReviews indicated there were no reviews on a pull request and a summary could not be generated
@@ -43,6 +39,31 @@ var ErrNoReviews = errors.New("no reviews on pull request")
 
 // PullRequestService handles communication with the pull request related methods of the GitHub API
 type PullRequestService service
+
+// ListAllReviews lists all reviews on the specified pull request.
+func (s *PullRequestService) ListAllReviews(ctx context.Context, owner string, repo string, number int) ([]*PullRequestReview, *Response, error) {
+	var reviews []*PullRequestReview
+	var resp *Response
+	opt := &ListOptions{
+		Page:    0,
+		PerPage: 100,
+	}
+	for {
+		newReviews, resp, err := s.client.PullRequests.ListReviews(ctx, owner, repo, number, opt)
+		if err != nil {
+			return nil, resp, err
+		}
+
+		reviews = append(reviews, newReviews...)
+
+		if resp.NextPage == 0 {
+			break
+		}
+		opt.Page = resp.NextPage
+	}
+
+	return reviews, resp, nil
+}
 
 // GetReviewSummary of a specific pull request
 func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string, repo string, pr *PullRequest) (*ReviewSummary, *Response, error) {
@@ -61,53 +82,37 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	p.Recipe = diff.Recipe
 	p.Change = diff.Change
 
-	opt := &ListOptions{
-		Page:    0,
-		PerPage: 100,
+	reviews, resp, err := s.ListAllReviews(ctx, owner, repo, p.Number)
+	if err != nil {
+		return nil, resp, err
 	}
-	for {
-		reviews, resp, err := s.client.PullRequests.ListReviews(ctx, owner, repo, p.Number, opt)
+
+	p.Summary = ProcessReviewComments(reviews, p.LastCommitSHA)
+
+	if p.Summary.Count < 1 { // Has not been looked at...
+		date, _, err := s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
 		if err != nil {
 			return nil, resp, err
 		}
+		p.LastCommitAt = date
 
-		if p.Reviews += len(reviews); p.Reviews < 1 { // Has not been looked at...
-			date, _, err := s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
-			if err != nil {
-				return nil, resp, err
-			}
-			p.LastCommitAt = date
-
-			if isWithin24Hours(p.LastCommitAt) { // commited within 24hrs
-				return p, resp, nil // let's save it!
-			}
-
-			return nil, resp, fmt.Errorf("%w", ErrNoReviews)
+		if isWithin24Hours(p.LastCommitAt) { // commited within 24hrs
+			return p, resp, nil // let's save it!
 		}
 
-		summary := ProcessReviewComments(reviews, p.LastCommitSHA)
-		p.ValidApprovals += summary.ValidApprovals // FIXME: v2 refactor
-		p.HeadCommitBlockers = append(p.HeadCommitBlockers, summary.HeadCommitBlockers...)
-		p.HeadCommitApprovals = append(p.HeadCommitApprovals, summary.HeadCommitApprovals...)
-
-		p.IsMergeable = summary.PriorityApproval && p.ValidApprovals >= 3 && len(p.HeadCommitBlockers) == 0
-
-		status, _, err := s.client.Repository.GetCommitStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
-		if errors.Is(err, ErrNoCommitStatus) {
-			p.CciBotPassed = false
-		} else if err != nil {
-			return nil, resp, err
-		} else {
-			p.CciBotPassed = status.GetState() == "success"
-		}
-
-		if resp.NextPage == 0 {
-			break
-		}
-		opt.Page = resp.NextPage
+		return nil, resp, fmt.Errorf("%w", ErrNoReviews)
 	}
 
-	if len(p.HeadCommitApprovals) > 0 || p.Change == DOCS { // Always save documentation pull requests
+	status, _, err := s.client.Repository.GetCommitStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
+	if errors.Is(err, ErrNoCommitStatus) {
+		p.CciBotPassed = false
+	} else if err != nil {
+		return nil, resp, err
+	} else {
+		p.CciBotPassed = status.GetState() == "success"
+	}
+
+	if len(p.Summary.Approvals) > 0 || p.Change == DOCS { // Always save documentation pull requests
 		return p, resp, nil
 	}
 
