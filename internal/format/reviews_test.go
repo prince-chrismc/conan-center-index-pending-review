@@ -26,14 +26,15 @@ func TestFormatMarkdownRows(t *testing.T) {
 		   "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4556",
 		   "LastCommitSHA": "6a14a091f3b63f0f7039520d03627c607e58f770",
 		   "LastCommitAt": "0001-01-01T00:00:00Z",
-		   "Reviews": 36,
-		   "ValidApprovals": 1,
-		   "IsMergeable": false,
-		   "CciBotPassed": true,
-		   "Approvals": [
-			  "prince-chrismc"
-		   ],
-		   "Blockers": null
+		   "Summary": {
+			   "Count": 36,
+			   "ValidApprovals": 1,
+			   "TeamApproval": false,
+			   "Approvals": [
+				  "prince-chrismc"
+			   ],
+			   "Blockers": null
+		   }
 		},
 		{
 		   "Number": 4682,
