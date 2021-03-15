@@ -26,6 +26,7 @@ func TestFormatMarkdownRows(t *testing.T) {
 		   "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4556",
 		   "LastCommitSHA": "6a14a091f3b63f0f7039520d03627c607e58f770",
 		   "LastCommitAt": "0001-01-01T00:00:00Z",
+		   "CciBotPassed": true,
 		   "Summary": {
 			   "Count": 36,
 			   "ValidApprovals": 1,
@@ -33,7 +34,9 @@ func TestFormatMarkdownRows(t *testing.T) {
 			   "Approvals": [
 				  "prince-chrismc"
 			   ],
-			   "Blockers": null
+			   "Blockers": [
+				"uilianries"
+			 ]
 		   }
 		},
 		{
@@ -44,21 +47,21 @@ func TestFormatMarkdownRows(t *testing.T) {
 		   "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4682",
 		   "LastCommitSHA": "8b0f82031d2dd5099e33bea3cece524f084950f3",
 		   "LastCommitAt": "0001-01-01T00:00:00Z",
-		   "Reviews": 13,
-		   "ValidApprovals": 1,
-		   "IsMergeable": true,
 		   "CciBotPassed": false,
-		   "Approvals": [
-			  "prince-chrismc"
-		   ],
-		   "Blockers": [
-			  "uilianries"
-		   ]
+		   "Summary": {
+			   "Count": 13,
+			   "ValidApprovals": 3,
+			   "TeamApproval": true,
+			   "Approvals": [
+				  "prince-chrismc"
+			   ],
+			   "Blockers": null
+		   }
 		}
 	]`), &rs); err != nil {
 		t.Fatal("Broken test - invalid JSON content:", err)
 	}
 
-	assert.Equal(t, ReviewsToMarkdownRows(rs, false), "[#4556](https://github.com/conan-io/conan-center-index/pull/4556)|[anton-danielsson](https://github.com/anton-danielsson)|:memo: protobuf|36||prince-chrismc\n")
-	assert.Equal(t, ReviewsToMarkdownRows(rs, true), "[#4682](https://github.com/conan-io/conan-center-index/pull/4682)|[floriansimon1](https://github.com/floriansimon1)|:warning: protobuf|13|uilianries|prince-chrismc\n")
+	assert.Equal(t, ReviewsToMarkdownRows(rs, false), "[#4556](https://github.com/conan-io/conan-center-index/pull/4556)|[anton-danielsson](https://github.com/anton-danielsson)|:memo: protobuf|36|uilianries|prince-chrismc\n")
+	assert.Equal(t, ReviewsToMarkdownRows(rs, true), "[#4682](https://github.com/conan-io/conan-center-index/pull/4682)|[floriansimon1](https://github.com/floriansimon1)|:warning: protobuf|13||prince-chrismc\n")
 }
