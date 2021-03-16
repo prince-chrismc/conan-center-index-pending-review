@@ -16,7 +16,7 @@ func TestFormatTitles(t *testing.T) {
 }
 
 func TestFormatMarkdownRows(t *testing.T) {
-	var rs []*pending_review.ReviewSummary
+	var rs []*pending_review.PullRequestSummary
 	if err := json.Unmarshal([]byte(`[
 		{
 		   "Number": 4556,
@@ -62,6 +62,11 @@ func TestFormatMarkdownRows(t *testing.T) {
 		t.Fatal("Broken test - invalid JSON content:", err)
 	}
 
-	assert.Equal(t, ReviewsToMarkdownRows(rs, false), "[#4556](https://github.com/conan-io/conan-center-index/pull/4556)|[anton-danielsson](https://github.com/anton-danielsson)|:memo: protobuf|36|uilianries|prince-chrismc\n")
-	assert.Equal(t, ReviewsToMarkdownRows(rs, true), "[#4682](https://github.com/conan-io/conan-center-index/pull/4682)|[floriansimon1](https://github.com/floriansimon1)|:warning: protobuf|13||prince-chrismc\n")
+	mergeRow, mergeCount := ReviewsToMarkdownRows(rs, false)
+	assert.Equal(t, mergeCount, 1)
+	assert.Equal(t, mergeRow, "[#4556](https://github.com/conan-io/conan-center-index/pull/4556)|[anton-danielsson](https://github.com/anton-danielsson)|:memo: protobuf|36|uilianries|prince-chrismc\n")
+
+	reviewRow, reviewCount := ReviewsToMarkdownRows(rs, true)
+	assert.Equal(t, reviewCount, 1)
+	assert.Equal(t, reviewRow, "[#4682](https://github.com/conan-io/conan-center-index/pull/4682)|[floriansimon1](https://github.com/floriansimon1)|:warning: protobuf|13||prince-chrismc\n")
 }

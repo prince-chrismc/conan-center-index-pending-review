@@ -19,10 +19,10 @@ const (
 	DOCS  Category = iota
 )
 
-// ReviewSummary of a pull request based on the rules of conan-center-index.
+// PullRequestSummary regarding its location in the review process of conan-center-index.
 // See https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
 // for more inforamtion
-type ReviewSummary struct {
+type PullRequestSummary struct {
 	Number        int
 	OpenedBy      string
 	Recipe        string
@@ -66,8 +66,8 @@ func (s *PullRequestService) ListAllReviews(ctx context.Context, owner string, r
 }
 
 // GetReviewSummary of a specific pull request
-func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string, repo string, pr *PullRequest) (*ReviewSummary, *Response, error) {
-	p := &ReviewSummary{
+func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string, repo string, pr *PullRequest) (*PullRequestSummary, *Response, error) {
+	p := &PullRequestSummary{
 		Number:        pr.GetNumber(),
 		OpenedBy:      pr.GetUser().GetLogin(),
 		ReviewURL:     pr.GetHTMLURL(),

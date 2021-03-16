@@ -10,7 +10,6 @@ import (
 	"time"
 
 	"github.com/google/go-github/v33/github"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/format"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/validate"
@@ -45,7 +44,7 @@ func Run(token string, dryRun bool) error {
 	fmt.Printf("%+v\n-----\n", repo)
 
 	var stats stats.Stats
-	var retval []*pending_review.ReviewSummary
+	var retval []*pending_review.PullRequestSummary
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
 		Direction: "asc",
@@ -65,7 +64,6 @@ func Run(token string, dryRun bool) error {
 		retval = append(retval, out...)
 		stats.Add(s)
 
-		// Handle Pagination: https://github.com/google/go-github#pagination
 		if resp.NextPage == 0 {
 			break
 		}
@@ -95,19 +93,6 @@ func Run(token string, dryRun bool) error {
 		return nil
 	}
 
-	var ready string
-	if stats.Merge > 0 {
-		ready = `
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **` + fmt.Sprint(stats.Merge) + `** pull request(s) is/are waiting to be merged :tada:
-
-PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
-:---: | --- | --- | :---: | --- | ---
-` + format.ReviewsToMarkdownRows(retval, true)
-	}
-
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
 		Body: github.String(`## :sparkles: Summary of Pull Requests Pending Review!
 
@@ -125,30 +110,8 @@ Icon | Description | Notes
 :arrow_up: | Version bump | _closely_ matches the label
 :memo: | Modification to an existing recipe |
 :green_book: | Documentation change | matches the label
-:warning: | The merge commit status does **not** indicate success | only displayed when ready to merge
-
-### :nerd_face: Please Review! 
-
-There are **` + fmt.Sprint(stats.Review) + `** pull requests currently under way :eyes:
-
-PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
-:---: | --- | --- | :---: | --- | ---
-` + format.ReviewsToMarkdownRows(retval, false) + ready + `
-
-#### :bar_chart: Statistics
-
-> :warning: These are just rough metrics counthing the labels and may not reflect the acutal state of pull requests
-
-- Commit: ` + os.Getenv("GITHUB_SHA") + `
-- PRs
-   - Open: ` + fmt.Sprint(stats.Open) + `
-   - Draft: ` + fmt.Sprint(stats.Draft) + `
-   - Age: ` + duration.String(stats.Age.GetCurrentAverage()) + `
-- Labels
-   - Stale: ` + fmt.Sprint(stats.Stale) + `
-   - Failed: ` + fmt.Sprint(stats.Failed) + `
-   - Blocked: ` + fmt.Sprint(stats.Blocked) + `
-` +
+:warning: | The merge commit status does **not** indicate success | only displayed when ready to merge` +
+			format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) +
 			"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
 	})
 	if err != nil {
@@ -173,9 +136,9 @@ func validateContentIsDifferent(context context.Context, client *pending_review.
 	return obtained != expected, nil
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.ReviewSummary, stats.Stats) {
+func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats) {
 	var stats stats.Stats
-	var out []*pending_review.ReviewSummary
+	var out []*pending_review.PullRequestSummary
 	for _, pr := range prs {
 		stats.Age.Append(time.Now().Sub(pr.GetCreatedAt()))
 		stats.Open++

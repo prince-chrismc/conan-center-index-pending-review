@@ -8,13 +8,15 @@ import (
 )
 
 // ReviewsToMarkdownRows Converts pull request review status to GitHub markdown table rows
-func ReviewsToMarkdownRows(prs []*pending_review.ReviewSummary, canMerge bool) string {
+func ReviewsToMarkdownRows(prs []*pending_review.PullRequestSummary, canMerge bool) (string, int) {
+	count := 0
 	var retval string
 	for _, pr := range prs {
 		if pr.Summary.IsApproved() != canMerge {
 			continue
 		}
 
+		count++
 		title := title(pr.Change, pr.Recipe)
 		if !pr.CciBotPassed && pr.Summary.IsApproved() { //TODO(prince-chrismc): Always display bad commit statuses?
 			title = ":warning: " + pr.Recipe
@@ -31,7 +33,7 @@ func ReviewsToMarkdownRows(prs []*pending_review.ReviewSummary, canMerge bool) s
 		retval += strings.Join(columns, "|")
 		retval += "\n"
 	}
-	return retval
+	return retval, count
 }
 
 func title(change pending_review.Category, recipe string) string {
