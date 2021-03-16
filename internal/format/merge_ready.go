@@ -15,7 +15,7 @@ func ReadyToMerge(prs []*pending_review.PullRequestSummary) string {
 
 	breif := "**1** pull request is"
 	if rowCount > 1 {
-		breif = "***" + fmt.Sprint(rowCount) + "** pull requests are"
+		breif = "**" + fmt.Sprint(rowCount) + "** pull requests are"
 	}
 
 	return `
