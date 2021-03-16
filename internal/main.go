@@ -92,11 +92,11 @@ func Run(token string, dryRun bool) error {
 
 ### :ballot_box_with_check: Selection Criteria:
 
-- There has been at least one approval (at any point)
-- No reviews and commited to in the last 24hrs
+- There has been at least one approval on the head commit
+- No reviews and last committed within the  previous 24 hours
 - No labels with exception to "bump version" and "docs"
 
-#### :world_map: Legend
+#### Legend
 
 :new: - Adding a recipe which does not yet exist
 :arrow_up: - Version bump <sup>[1]</sup>
@@ -105,7 +105,7 @@ func Run(token string, dryRun bool) error {
 :warning: - The merge commit status does **not** indicate success <sup>[2]</sup>
 
 <sup>[1]</sup>: _closely_ matches the label
-<sup>[2]</sup>: (only displayed when ready to merge)` +
+<sup>[2]</sup>: only displayed when ready to merge` +
 		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) +
 		"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"
 
