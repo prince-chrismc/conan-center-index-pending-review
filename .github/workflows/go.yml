@@ -2,7 +2,7 @@ name: Go
 
 on:
   schedule:
-    - cron: "1 5-22/1 * * *" # At every minute past every hour from 5 through 22
+    - cron: '0 */1 * * *'
   push:
     branches: [main]
   pull_request:
