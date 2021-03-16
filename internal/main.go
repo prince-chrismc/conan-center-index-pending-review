@@ -98,13 +98,14 @@ func Run(token string, dryRun bool) error {
 
 #### :world_map: Legend
 
-Icon | Description | Notes
---|--|--
-:new: | Adding a recipe which does not yet exist |
-:arrow_up: | Version bump | _closely_ matches the label
-:memo: | Modification to an existing recipe |
-:green_book: | Documentation change | matches the label
-:warning: | The merge commit status does **not** indicate success | only displayed when ready to merge` +
+:new: - Adding a recipe which does not yet exist
+:arrow_up: - Version bump <sup>[1]</sup>
+:memo: - Modification to an existing recipe
+:green_book: - Documentation change <sup>[1]</sup>
+:warning: - The merge commit status does **not** indicate success <sup>[2]</sup>
+
+<sup>[1]</sup>: _closely_ matches the label
+<sup>[2]</sup>: (only displayed when ready to merge)` +
 		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) +
 		"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"
 
