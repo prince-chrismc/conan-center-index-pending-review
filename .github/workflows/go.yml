@@ -33,6 +33,9 @@ jobs:
           files: coverage.out
 
       - run: go build -o cpr ./cmd
-      - run: ./cpr -d
+      - if: github.event_name == 'pull_request'
+        run: ./cpr -d
+      - if: github.event_name != 'pull_request'
+        run: ./cpr
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
