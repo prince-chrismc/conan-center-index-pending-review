@@ -22,11 +22,11 @@ func UnderReview(prs []*pending_review.PullRequestSummary) string {
 
 	return `
 
-	### :nerd_face: Please Review! 
-	
-	There ` + breif + ` currently under way :eyes:
-	
-	PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
-	:---: | --- | --- | :---: | --- | ---
+### :nerd_face: Please Review! 
+
+There ` + breif + ` currently under way :eyes:
+
+PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
+:---: | --- | --- | :---: | --- | ---
 	` + tableBody
 }
