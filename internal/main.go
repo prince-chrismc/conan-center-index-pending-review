@@ -88,13 +88,7 @@ func Run(token string, dryRun bool) error {
 		return nil // The published results are the same, no need to update the table.
 	}
 
-	if dryRun {
-		fmt.Println(string(bytes))
-		return nil
-	}
-
-	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
-		Body: github.String(`## :sparkles: Summary of Pull Requests Pending Review!
+	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
 
 ### :ballot_box_with_check: Selection Criteria:
 
@@ -111,8 +105,16 @@ Icon | Description | Notes
 :memo: | Modification to an existing recipe |
 :green_book: | Documentation change | matches the label
 :warning: | The merge commit status does **not** indicate success | only displayed when ready to merge` +
-			format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) +
-			"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"),
+		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) +
+		"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"
+
+	if dryRun {
+		fmt.Println(commentBody)
+		return nil
+	}
+
+	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
+		Body: github.String(commentBody),
 	})
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
