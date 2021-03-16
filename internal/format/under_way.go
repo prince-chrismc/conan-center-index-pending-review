@@ -17,7 +17,7 @@ func UnderReview(prs []*pending_review.PullRequestSummary) string {
 
 	breif := "is **1** pull request"
 	if rowCount > 1 {
-		breif = "are ***" + fmt.Sprint(rowCount) + "** pull requests"
+		breif = "are **" + fmt.Sprint(rowCount) + "** pull requests"
 	}
 
 	return `
@@ -28,5 +28,6 @@ There ` + breif + ` currently under way :eyes:
 
 PR | By | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | :---: | --- | ---
-	` + tableBody
+` +
+		tableBody
 }
