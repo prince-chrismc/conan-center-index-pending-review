@@ -6,9 +6,11 @@ import (
 	"time"
 )
 
+// RepositoryService handles communication with the repository related methods of the GitHub API
 type RepositoryService service
 
-type Repository struct {
+// RepositorySumarry provides a basic overview of a specific repository
+type RepositorySumarry struct {
 	Name            string
 	Owner           string
 	FullName        string
@@ -18,13 +20,14 @@ type Repository struct {
 	OpenIssuesCount int
 }
 
-func (s *RepositoryService) Get(ctx context.Context, owner string, repo string) (*Repository, *Response, error) {
+// GetSummary of a specific repository on GitHub
+func (s *RepositoryService) GetSummary(ctx context.Context, owner string, repo string) (*RepositorySumarry, *Response, error) {
 	repos, resp, err := s.client.Repositories.Get(ctx, owner, repo)
 	if err != nil {
 		return nil, resp, err
 	}
 
-	return &Repository{
+	return &RepositorySumarry{
 		Name:            repos.GetName(),
 		Owner:           repos.GetOwner().GetLogin(),
 		FullName:        repos.GetFullName(),
@@ -35,6 +38,7 @@ func (s *RepositoryService) Get(ctx context.Context, owner string, repo string) 
 	}, resp, nil
 }
 
+// GetCommitDate fetches the specified commit's authorship date
 func (s *RepositoryService) GetCommitDate(ctx context.Context, owner string, repo string, sha string) (time.Time, *Response, error) {
 	commit, resp, err := s.client.Repositories.GetCommit(ctx, owner, repo, sha)
 	if err != nil {
@@ -43,8 +47,10 @@ func (s *RepositoryService) GetCommitDate(ctx context.Context, owner string, rep
 	return commit.GetCommit().GetAuthor().GetDate(), resp, nil
 }
 
+// ErrNoCommitStatus available
 var ErrNoCommitStatus = errors.New("no repository status avialble for this commit")
 
+// GetCommitStatus fetches the latest/most recent status available for a commit
 func (s *RepositoryService) GetCommitStatus(ctx context.Context, owner string, repo string, sha string) (*RepoStatus, *Response, error) {
 	statuses, resp, err := s.client.Repositories.ListStatuses(ctx, owner, repo, sha, &ListOptions{
 		Page:    0,
