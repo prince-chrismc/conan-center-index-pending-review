@@ -10,10 +10,6 @@ import (
 )
 
 func TestSomething(t *testing.T) {
-
-	// assert equality
-	assert.Equal(t, 123, 123, "they should be equal")
-
 	defer gock.Off()
 
 	gock.New("https://api.github.com").
