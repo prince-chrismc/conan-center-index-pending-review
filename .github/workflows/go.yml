@@ -35,6 +35,8 @@ jobs:
       - run: go build -o cpr ./cmd
       - if: github.event_name == 'pull_request'
         run: ./cpr -d
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - if: github.event_name != 'pull_request'
         run: ./cpr
         env:
