@@ -213,7 +213,7 @@ func TimeInReview(token string, dryRun bool) error {
 
 		count := len(pulls)
 		opened := pulls[count-1].GetCreatedAt()
-		if !opened.After(time.Date(2020, time.September, 1, 0, 0, 0, 0, nil)) {
+		if !opened.After(time.Date(2020, time.September, 1, 0, 0, 0, 0, time.UTC)) {
 			fmt.Println("Reached data limit of September 1st 2020")
 			break
 		}
