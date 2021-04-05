@@ -205,10 +205,17 @@ func TimeInReview(token string, dryRun bool) error {
 		},
 	}
 	for {
-		_, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
+		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
 			fmt.Printf("Problem getting pull request list %v\n", err)
 			os.Exit(1)
+		}
+
+		count := len(pulls)
+		opened := pulls[count-1].GetCreatedAt()
+		if !opened.After(time.Date(2020, time.September, 1, 0, 0, 0, 0, nil)) {
+			fmt.Println("Reached data limit of September 1st 2020")
+			break
 		}
 
 		if resp.NextPage == 0 {
@@ -221,18 +228,6 @@ func TimeInReview(token string, dryRun bool) error {
 	if err != nil {
 		fmt.Printf("Problem formating result to JSON %v\n", err)
 		os.Exit(1)
-	}
-
-	// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
-	isDifferent, err := validateContentIsDifferent(context, client, string(bytes))
-	if err != nil {
-		fmt.Printf("Problem getting original issue content %v\n", err)
-		os.Exit(1)
-	}
-
-	if !isDifferent {
-		fmt.Println("the obtained content is identical to the new result.")
-		return nil // The published results are the same, no need to update the table.
 	}
 
 	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
