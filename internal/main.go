@@ -195,7 +195,7 @@ func TimeInReview(token string, dryRun bool) error {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	var retval []*pending_review.PullRequestSummary
+	var retval []time.Duration
 	opt := &github.PullRequestListOptions{
 		Sort:  "created",
 		State: "closed",
@@ -211,9 +211,16 @@ func TimeInReview(token string, dryRun bool) error {
 			os.Exit(1)
 		}
 
-		count := len(pulls)
-		opened := pulls[count-1].GetCreatedAt()
-		if !opened.After(time.Date(2020, time.September, 1, 0, 0, 0, 0, time.UTC)) {
+		dateLimitReached := false
+		for _, pr := range pulls {
+			dateLimitReached = pr.GetCreatedAt().After(time.Date(2020, time.September, 1, 0, 0, 0, 0, time.UTC))
+
+			if pr.GetMerged() {
+				retval = append(retval, pr.GetMergedAt().Sub(pr.GetCreatedAt()))
+			}
+		}
+
+		if dateLimitReached {
 			fmt.Println("Reached data limit of September 1st 2020")
 			break
 		}
@@ -230,7 +237,7 @@ func TimeInReview(token string, dryRun bool) error {
 		os.Exit(1)
 	}
 
-	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
+	commentBody := `### :see_no_evil: Raw date for time in review!
 	
 	` + "```json\n" + string(bytes) + "\n```"
 
