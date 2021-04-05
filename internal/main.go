@@ -17,8 +17,8 @@ import (
 	"golang.org/x/oauth2"
 )
 
-// Run the analysis
-func Run(token string, dryRun bool) error {
+// PendingReview analysis of open pull requests
+func PendingReview(token string, dryRun bool) error {
 	tokenService := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: token},
 	)
@@ -174,4 +174,75 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		out = append(out, review)
 	}
 	return out, stats
+}
+
+// TimeInReview analysis of merged pull requests
+func TimeInReview(token string, dryRun bool) error {
+	tokenService := oauth2.StaticTokenSource(
+		&oauth2.Token{AccessToken: token},
+	)
+
+	context := context.Background()
+	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
+
+	// Get Rate limit information
+	rateLimit, _, err := client.RateLimits(context)
+	if err != nil {
+		fmt.Printf("Problem getting rate limit information %v\n", err)
+		os.Exit(1)
+	}
+
+	// We have not exceeded the limit so we can continue
+	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Limit, rateLimit.Remaining)
+
+	var retval []*pending_review.PullRequestSummary
+	opt := &github.PullRequestListOptions{
+		Sort:  "created",
+		State: "closed",
+		ListOptions: github.ListOptions{
+			Page:    0,
+			PerPage: 100,
+		},
+	}
+	for {
+		_, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
+		if err != nil {
+			fmt.Printf("Problem getting pull request list %v\n", err)
+			os.Exit(1)
+		}
+
+		if resp.NextPage == 0 {
+			break
+		}
+		opt.Page = resp.NextPage
+	}
+
+	bytes, err := json.MarshalIndent(retval, "", "   ")
+	if err != nil {
+		fmt.Printf("Problem formating result to JSON %v\n", err)
+		os.Exit(1)
+	}
+
+	// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
+	isDifferent, err := validateContentIsDifferent(context, client, string(bytes))
+	if err != nil {
+		fmt.Printf("Problem getting original issue content %v\n", err)
+		os.Exit(1)
+	}
+
+	if !isDifferent {
+		fmt.Println("the obtained content is identical to the new result.")
+		return nil // The published results are the same, no need to update the table.
+	}
+
+	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
+	
+	` + "```json\n" + string(bytes) + "\n```"
+
+	if dryRun {
+		fmt.Println(commentBody)
+		return nil
+	}
+
+	return nil
 }

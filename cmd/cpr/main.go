@@ -28,7 +28,7 @@ func main() {
 			dryRun := c.Bool("dry-run")
 			token := c.String("access-token")
 
-			return internal.Run(token, dryRun)
+			return internal.PendingReview(token, dryRun)
 		},
 	}
 
