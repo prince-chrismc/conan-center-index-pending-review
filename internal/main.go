@@ -193,14 +193,15 @@ func TimeInReview(token string, dryRun bool) error {
 	}
 
 	// We have not exceeded the limit so we can continue
-	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Limit, rateLimit.Remaining)
+	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
 	var retval []time.Duration
 	opt := &github.PullRequestListOptions{
-		Sort:  "created",
+		Sort: "created",
+		// Direction: "dec",
 		State: "closed",
 		ListOptions: github.ListOptions{
-			Page:    0,
+			Page:    16, // Through browsing GitHub this is about where the meaningful data starts
 			PerPage: 100,
 		},
 	}
@@ -211,18 +212,18 @@ func TimeInReview(token string, dryRun bool) error {
 			os.Exit(1)
 		}
 
-		dateLimitReached := false
-		for _, pr := range pulls {
-			dateLimitReached = pr.GetCreatedAt().After(time.Date(2020, time.September, 1, 0, 0, 0, 0, time.UTC))
-
-			if pr.GetMerged() {
-				retval = append(retval, pr.GetMergedAt().Sub(pr.GetCreatedAt()))
+		for _, pull := range pulls {
+			// The 'community reviewers' was fully emplace on Sept 28th 2020, however it seems to have taken a little longer to see the effects
+			// see https://github.com/conan-io/conan-center-index/issues/2857#issuecomment-696221003
+			if pull.GetCreatedAt().Before(time.Date(2020, time.October, 1, 0, 0, 0, 0, time.UTC)) {
+				continue
 			}
-		}
 
-		if dateLimitReached {
-			fmt.Println("Reached data limit of September 1st 2020")
-			break
+			merged := pull.GetMergedAt() != time.Time{} // merged is not returned when paging through the API - so calculated
+			if merged {
+				fmt.Printf("#%4d was created at %s and merged at %s\n", pull.GetNumber(), pull.GetCreatedAt().String(), pull.GetMergedAt().String())
+				retval = append(retval, pull.GetMergedAt().Sub(pull.GetCreatedAt()))
+			}
 		}
 
 		if resp.NextPage == 0 {
