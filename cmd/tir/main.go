@@ -28,7 +28,6 @@ func main() {
 			dryRun := c.Bool("dry-run")
 			token := c.String("access-token")
 
-			makeChart()
 			return internal.TimeInReview(token, dryRun)
 		},
 	}

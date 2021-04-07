@@ -201,7 +201,7 @@ func TimeInReview(token string, dryRun bool) error {
 		// Direction: "dec",
 		State: "closed",
 		ListOptions: github.ListOptions{
-			Page:    30, // Through browsing GitHub this is about where the meaningful data starts
+			Page:    16, // Through browsing GitHub this is about where the meaningful data starts
 			PerPage: 100,
 		},
 	}
@@ -222,7 +222,7 @@ func TimeInReview(token string, dryRun bool) error {
 			merged := pull.GetMergedAt() != time.Time{} // merged is not returned when paging through the API - so calculated
 			if merged {
 				fmt.Printf("#%4d was created at %s and merged at %s\n", pull.GetNumber(), pull.GetCreatedAt().String(), pull.GetMergedAt().String())
-				retval = append(retval, time.Duration(pull.GetMergedAt().Sub(pull.GetCreatedAt()).Hours()))
+				retval = append(retval, pull.GetMergedAt().Sub(pull.GetCreatedAt()))
 			}
 		}
 
