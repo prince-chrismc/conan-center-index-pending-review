@@ -3,7 +3,6 @@ package main
 import (
 	"os"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/urfave/cli/v2"
 )
 
@@ -28,9 +27,7 @@ func main() {
 			dryRun := c.Bool("dry-run")
 			token := c.String("access-token")
 
-			makeChart()
-			return nil
-			return internal.TimeInReview(token, dryRun)
+			return TimeInReview(token, dryRun)
 		},
 	}
 
