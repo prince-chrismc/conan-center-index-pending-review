@@ -58,7 +58,8 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 	mainSeries := chart.TimeSeries{
 		Name: "Time in review",
 		Style: chart.Style{
-			StrokeColor: chart.GetDefaultColor(0),
+			StrokeColor: chart.ColorBlue,
+			FillColor:   chart.ColorBlue.WithAlpha(100),
 		},
 		XValues: getCreatedAt(data),
 		YValues: toDays(data),
@@ -86,7 +87,9 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 	} // we can optionally set the `WindowSize` property which alters how the moving average is calculated.
 
 	graph := chart.Chart{
-		Title: "Summary of Time in Review",
+		Width:  1280,
+		Height: 720,
+		Title:  "Summary of Time in Review",
 		XAxis: chart.XAxis{
 			Name: "Created At",
 		},
@@ -95,6 +98,9 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 		},
 		YAxisSecondary: chart.YAxis{
 			Name: "Number of PRs Merged",
+			NameStyle: chart.Style{
+				Padding: chart.Box{Right: 10},
+			},
 		},
 		Series: []chart.Series{
 			mainSeries,
