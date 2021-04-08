@@ -2,6 +2,7 @@ package main
 
 import (
 	"os"
+	"sort"
 	"time"
 
 	"github.com/wcharczuk/go-chart/v2"
@@ -19,15 +20,40 @@ func getCreatedAt(data []dataPoint) []time.Time {
 	return dates
 }
 
-func toHours(raw []dataPoint) []float64 {
+func toDays(raw []dataPoint) []float64 {
 	var seconds []float64
 	for _, d := range raw {
-		seconds = append(seconds, d.Duration.Hours())
+		seconds = append(seconds, d.Duration.Hours()/24.0)
 	}
 	return seconds
 }
 
-func makeChart(data []dataPoint) {
+func arrayOfTime(cpd closedPerDay) []time.Time {
+	v := make([]time.Time, len(cpd), len(cpd))
+	idx := 0
+	for time := range cpd {
+		v[idx] = time
+		idx++
+	}
+
+	sort.SliceStable(v, func(i, j int) bool {
+		return v[i].Before(v[j])
+	})
+
+	return v
+}
+
+func arrayOfCounts(cpd closedPerDay, sorted []time.Time) []float64 {
+	v := make([]float64, len(cpd), len(cpd))
+	idx := 0
+	for _, value := range sorted {
+		v[idx] = float64(cpd[value])
+		idx++
+	}
+	return v
+}
+
+func makeChart(data []dataPoint, cpd closedPerDay) {
 
 	mainSeries := chart.TimeSeries{
 		Name: "Time in review",
@@ -35,18 +61,19 @@ func makeChart(data []dataPoint) {
 			StrokeColor: chart.GetDefaultColor(0),
 		},
 		XValues: getCreatedAt(data),
-		YValues: toHours(data),
+		YValues: toDays(data),
 	}
 
-	// secondSeries := chart.TimeSeries{
-	// 	Name: "SPY",
-	// 	Style: chart.Style{
-	// 		StrokeColor: drawing.ColorFromHex("efefef"),
-	// 		FillColor:   drawing.ColorFromHex("efefef").WithAlpha(64),
-	// 	},
-	// 	XValues: shortXvalues(),
-	// 	YValues: shortYvalues(),
-	// }
+	sortedTime := arrayOfTime(cpd)
+	secondSeries := chart.TimeSeries{
+		Name: "Closed per day",
+		Style: chart.Style{
+			StrokeColor: drawing.ColorGreen,
+		},
+		YAxis:   chart.YAxisSecondary,
+		XValues: sortedTime,
+		YValues: arrayOfCounts(cpd, sortedTime),
+	}
 
 	// note we create a SimpleMovingAverage series by assignin the inner series.
 	// we need to use a reference because `.Render()` needs to modify state within the series.
@@ -59,16 +86,20 @@ func makeChart(data []dataPoint) {
 	} // we can optionally set the `WindowSize` property which alters how the moving average is calculated.
 
 	graph := chart.Chart{
+		Title: "Summary of Time in Review",
 		XAxis: chart.XAxis{
 			Name: "Created At",
 		},
 		YAxis: chart.YAxis{
-			Name: "Hours until Merged",
+			Name: "Days until Merged",
+		},
+		YAxisSecondary: chart.YAxis{
+			Name: "Number of PRs Merged",
 		},
 		Series: []chart.Series{
 			mainSeries,
 			smaSeries,
-			// secondSeries,
+			secondSeries,
 		},
 	}
 

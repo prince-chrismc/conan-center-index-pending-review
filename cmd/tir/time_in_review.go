@@ -16,6 +16,8 @@ type dataPoint struct {
 	Duration time.Duration
 }
 
+type closedPerDay map[time.Time]int
+
 // TimeInReview analysis of merged pull requests
 func TimeInReview(token string, dryRun bool) error {
 	tokenService := oauth2.StaticTokenSource(
@@ -36,6 +38,7 @@ func TimeInReview(token string, dryRun bool) error {
 	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
 	var retval []dataPoint
+	cpd := make(closedPerDay)
 	opt := &github.PullRequestListOptions{
 		Sort:  "created",
 		State: "closed",
@@ -65,6 +68,13 @@ func TimeInReview(token string, dryRun bool) error {
 					pull.GetCreatedAt(),
 					pull.GetMergedAt().Sub(pull.GetCreatedAt()),
 				})
+				mergedOn := pull.GetMergedAt().Truncate(time.Hour * 24)
+				currentCounter, found := cpd[mergedOn]
+				if found {
+					cpd[mergedOn] = currentCounter + 1
+				} else {
+					cpd[mergedOn] = 1
+				}
 			}
 		}
 
@@ -79,7 +89,7 @@ func TimeInReview(token string, dryRun bool) error {
 	// 	return retval[i].Created.Before(retval[j].Created)
 	// })
 
-	makeChart(retval)
+	makeChart(retval, cpd)
 
 	// bytes, err := json.MarshalIndent(retval, "", "   ")
 	// if err != nil {
