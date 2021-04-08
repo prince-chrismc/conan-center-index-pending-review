@@ -11,6 +11,11 @@ import (
 	"golang.org/x/oauth2"
 )
 
+type dataPoint struct {
+	Created  time.Time
+	Duration time.Duration
+}
+
 // TimeInReview analysis of merged pull requests
 func TimeInReview(token string, dryRun bool) error {
 	tokenService := oauth2.StaticTokenSource(
@@ -30,14 +35,12 @@ func TimeInReview(token string, dryRun bool) error {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	var created []time.Time
-	var retval []time.Duration
+	var retval []dataPoint
 	opt := &github.PullRequestListOptions{
-		Sort: "created",
-		// Direction: "dec",
+		Sort:  "created",
 		State: "closed",
 		ListOptions: github.ListOptions{
-			Page:    30, // Through browsing GitHub this is about where the meaningful data starts
+			Page:    22, // Through browsing GitHub this is about where the meaningful data starts
 			PerPage: 100,
 		},
 	}
@@ -58,8 +61,10 @@ func TimeInReview(token string, dryRun bool) error {
 			merged := pull.GetMergedAt() != time.Time{} // merged is not returned when paging through the API - so calculated
 			if merged {
 				fmt.Printf("#%4d was created at %s and merged at %s\n", pull.GetNumber(), pull.GetCreatedAt().String(), pull.GetMergedAt().String())
-				created = append(created, pull.GetClosedAt())
-				retval = append(retval, pull.GetMergedAt().Sub(pull.GetCreatedAt()))
+				retval = append(retval, dataPoint{
+					pull.GetCreatedAt(),
+					pull.GetMergedAt().Sub(pull.GetCreatedAt()),
+				})
 			}
 		}
 
@@ -67,9 +72,14 @@ func TimeInReview(token string, dryRun bool) error {
 			break
 		}
 		opt.Page = resp.NextPage
+
 	}
 
-	makeChart(created, retval)
+	// sort.SliceStable(retval, func(i, j int) bool {
+	// 	return retval[i].Created.Before(retval[j].Created)
+	// })
+
+	makeChart(retval)
 
 	// bytes, err := json.MarshalIndent(retval, "", "   ")
 	// if err != nil {
