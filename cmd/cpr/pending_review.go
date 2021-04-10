@@ -1,4 +1,4 @@
-package internal
+package main
 
 import (
 	"context"
@@ -143,7 +143,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 	var stats stats.Stats
 	var out []*pending_review.PullRequestSummary
 	for _, pr := range prs {
-		stats.Age.Append(time.Now().Sub(pr.GetCreatedAt()))
+		stats.Age.Append(time.Since(pr.GetCreatedAt()))
 		stats.Open++
 
 		if pr.GetDraft() {

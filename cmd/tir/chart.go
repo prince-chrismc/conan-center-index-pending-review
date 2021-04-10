@@ -11,7 +11,7 @@ import (
 )
 
 func arrayOfDataTime(d dataPoint) []time.Time {
-	v := make([]time.Time, len(d), len(d))
+	v := make([]time.Time, len(d))
 	idx := 0
 	for time := range d {
 		v[idx] = time
@@ -26,7 +26,7 @@ func arrayOfDataTime(d dataPoint) []time.Time {
 }
 
 func arrayOfTime(d closedPerDay) []time.Time {
-	v := make([]time.Time, len(d), len(d))
+	v := make([]time.Time, len(d))
 	idx := 0
 	for time := range d {
 		v[idx] = time
@@ -41,7 +41,7 @@ func arrayOfTime(d closedPerDay) []time.Time {
 }
 
 func arrayOfCounts(cpd closedPerDay, sorted []time.Time) []float64 {
-	v := make([]float64, len(cpd), len(cpd))
+	v := make([]float64, len(cpd))
 	idx := 0
 	for _, value := range sorted {
 		v[idx] = float64(cpd[value])
@@ -51,7 +51,7 @@ func arrayOfCounts(cpd closedPerDay, sorted []time.Time) []float64 {
 }
 
 func arrayOfDurations(cpd dataPoint, sorted []time.Time) []float64 {
-	v := make([]float64, len(cpd), len(cpd))
+	v := make([]float64, len(cpd))
 	idx := 0
 	for _, value := range sorted {
 		v[idx] = cpd[value].Hours() / 24.0
