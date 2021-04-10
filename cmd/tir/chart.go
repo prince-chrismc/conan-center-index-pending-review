@@ -71,6 +71,7 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 		Style: chart.Style{
 			StrokeColor:     drawing.ColorRed,
 			StrokeDashArray: []float64{5.0, 5.0},
+			StrokeWidth:     2,
 		},
 		InnerSeries: mainSeries,
 	}
