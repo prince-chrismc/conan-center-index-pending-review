@@ -136,6 +136,7 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 		Series: []chart.Series{
 			mainSeries,
 			smaSeries,
+			chart.LastValueAnnotationSeries(smaSeries),
 			secondSeries,
 		},
 	}
