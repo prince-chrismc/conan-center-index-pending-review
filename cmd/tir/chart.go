@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"os"
 	"sort"
 	"time"
@@ -65,6 +66,15 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 		YValues: toDays(data),
 	}
 
+	smaSeries := &chart.SMASeries{
+		Name: "Moving average of time",
+		Style: chart.Style{
+			StrokeColor:     drawing.ColorRed,
+			StrokeDashArray: []float64{5.0, 5.0},
+		},
+		InnerSeries: mainSeries,
+	}
+
 	sortedTime := arrayOfTime(cpd)
 	secondSeries := chart.TimeSeries{
 		Name: "Closed per day",
@@ -76,26 +86,16 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 		YValues: arrayOfCounts(cpd, sortedTime),
 	}
 
-	// note we create a SimpleMovingAverage series by assignin the inner series.
-	// we need to use a reference because `.Render()` needs to modify state within the series.
-	smaSeries := &chart.SMASeries{
-		Style: chart.Style{
-			StrokeColor:     drawing.ColorRed,
-			StrokeDashArray: []float64{5.0, 5.0},
-		},
-		InnerSeries: mainSeries,
-	} // we can optionally set the `WindowSize` property which alters how the moving average is calculated.
-
 	graph := chart.Chart{
 		Background: chart.Style{
 			Padding: chart.Box{
-				Left: 150,
+				Left: 175,
 			},
 		},
 		Title: "Summary of Time in Review",
 		TitleStyle: chart.Style{
 			Padding: chart.Box{
-				Left: 150,
+				Left: 175,
 			},
 		},
 		XAxis: chart.XAxis{
@@ -103,6 +103,13 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 		},
 		YAxis: chart.YAxis{
 			Name: "Days until Merged",
+			ValueFormatter: func(v interface{}) string {
+				if vf, isFloat := v.(float64); isFloat {
+					vi := int64(vf)
+					return fmt.Sprintf("%d", vi)
+				}
+				return ""
+			},
 		},
 		YAxisSecondary: chart.YAxis{
 			Name: "Number of PRs Merged",
@@ -110,6 +117,12 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 				Padding: chart.Box{
 					Left: -20,
 				},
+			},
+			ValueFormatter: func(v interface{}) string {
+				if vf, isFloat := v.(float64); isFloat {
+					return fmt.Sprintf("%.1f", vf)
+				}
+				return ""
 			},
 		},
 		Series: []chart.Series{
