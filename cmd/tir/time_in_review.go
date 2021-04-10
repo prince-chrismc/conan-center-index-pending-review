@@ -11,11 +11,7 @@ import (
 	"golang.org/x/oauth2"
 )
 
-type dataPoint struct {
-	Created  time.Time
-	Duration time.Duration
-}
-
+type dataPoint map[time.Time]time.Duration
 type closedPerDay map[time.Time]int
 
 // TimeInReview analysis of merged pull requests
@@ -37,7 +33,7 @@ func TimeInReview(token string, dryRun bool) error {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	var retval []dataPoint
+	retval := make(dataPoint)
 	cpd := make(closedPerDay)
 	opt := &github.PullRequestListOptions{
 		Sort:  "created",
@@ -64,10 +60,7 @@ func TimeInReview(token string, dryRun bool) error {
 			merged := pull.GetMergedAt() != time.Time{} // merged is not returned when paging through the API - so calculated
 			if merged {
 				fmt.Printf("#%4d was created at %s and merged at %s\n", pull.GetNumber(), pull.GetCreatedAt().String(), pull.GetMergedAt().String())
-				retval = append(retval, dataPoint{
-					pull.GetCreatedAt(),
-					pull.GetMergedAt().Sub(pull.GetCreatedAt()),
-				})
+				retval[pull.GetMergedAt()] = pull.GetMergedAt().Sub(pull.GetCreatedAt())
 				mergedOn := pull.GetMergedAt().Truncate(time.Hour * 24)
 				currentCounter, found := cpd[mergedOn]
 				if found {
@@ -84,10 +77,6 @@ func TimeInReview(token string, dryRun bool) error {
 		opt.Page = resp.NextPage
 
 	}
-
-	// sort.SliceStable(retval, func(i, j int) bool {
-	// 	return retval[i].Created.Before(retval[j].Created)
-	// })
 
 	makeChart(retval, cpd)
 

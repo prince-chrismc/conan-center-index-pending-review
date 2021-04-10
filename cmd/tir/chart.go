@@ -10,29 +10,25 @@ import (
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
-func getCreatedAt(data []dataPoint) []time.Time {
-	var dates []time.Time
-	for i, ts := range data {
-		dates = append(dates, ts.Created)
-		if !dates[i].Equal(ts.Created) {
-			panic("values do not match!")
-		}
-	}
-	return dates
-}
-
-func toDays(raw []dataPoint) []float64 {
-	var seconds []float64
-	for _, d := range raw {
-		seconds = append(seconds, d.Duration.Hours()/24.0)
-	}
-	return seconds
-}
-
-func arrayOfTime(cpd closedPerDay) []time.Time {
-	v := make([]time.Time, len(cpd), len(cpd))
+func arrayOfDataTime(d dataPoint) []time.Time {
+	v := make([]time.Time, len(d), len(d))
 	idx := 0
-	for time := range cpd {
+	for time := range d {
+		v[idx] = time
+		idx++
+	}
+
+	sort.SliceStable(v, func(i, j int) bool {
+		return v[i].Before(v[j])
+	})
+
+	return v
+}
+
+func arrayOfTime(d closedPerDay) []time.Time {
+	v := make([]time.Time, len(d), len(d))
+	idx := 0
+	for time := range d {
 		v[idx] = time
 		idx++
 	}
@@ -54,16 +50,27 @@ func arrayOfCounts(cpd closedPerDay, sorted []time.Time) []float64 {
 	return v
 }
 
-func makeChart(data []dataPoint, cpd closedPerDay) {
+func arrayOfDurations(cpd dataPoint, sorted []time.Time) []float64 {
+	v := make([]float64, len(cpd), len(cpd))
+	idx := 0
+	for _, value := range sorted {
+		v[idx] = cpd[value].Hours() / 24.0
+		idx++
+	}
+	return v
+}
 
+func makeChart(data dataPoint, cpd closedPerDay) {
+
+	sortedData := arrayOfDataTime(data)
 	mainSeries := chart.TimeSeries{
 		Name: "Time in review",
 		Style: chart.Style{
 			StrokeColor: chart.ColorBlue,
 			FillColor:   chart.ColorBlue.WithAlpha(100),
 		},
-		XValues: getCreatedAt(data),
-		YValues: toDays(data),
+		XValues: sortedData,
+		YValues: arrayOfDurations(data, sortedData),
 	}
 
 	smaSeries := &chart.SMASeries{
@@ -93,14 +100,14 @@ func makeChart(data []dataPoint, cpd closedPerDay) {
 				Left: 175,
 			},
 		},
-		Title: "Summary of Time in Review",
+		Title: "Time Spent in Review",
 		TitleStyle: chart.Style{
 			Padding: chart.Box{
 				Left: 175,
 			},
 		},
 		XAxis: chart.XAxis{
-			Name: "Created At",
+			Name: "Closed At",
 		},
 		YAxis: chart.YAxis{
 			Name: "Days until Merged",
