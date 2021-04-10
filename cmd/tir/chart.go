@@ -78,9 +78,8 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 		Style: chart.Style{
 			StrokeColor:     drawing.ColorRed,
 			StrokeDashArray: []float64{5.0, 5.0},
-			StrokeWidth:     1,
+			StrokeWidth:     2,
 		},
-		// Period:      30,
 		InnerSeries: mainSeries,
 	}
 
@@ -109,17 +108,6 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 		},
 		XAxis: chart.XAxis{
 			Name: "Closed At",
-			GridMajorStyle: chart.Style{
-				StrokeColor:     chart.ColorAlternateGray,
-				StrokeWidth:     1,
-				StrokeDashArray: []float64{10.0, 25.0},
-			},
-			GridLines: []chart.GridLine{
-				{Value: chart.TimeToFloat64(sortedData[len(sortedData)-1].AddDate(0, 0, -30))},
-				{Value: chart.TimeToFloat64(sortedData[len(sortedData)-1].AddDate(0, 0, -60))},
-				{Value: chart.TimeToFloat64(sortedData[len(sortedData)-1].AddDate(0, 0, -90))},
-				{Value: chart.TimeToFloat64(sortedData[len(sortedData)-1].AddDate(0, 0, -120))},
-			},
 		},
 		YAxis: chart.YAxis{
 			Name: "Days until Merged",
@@ -137,14 +125,6 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 				Padding: chart.Box{
 					Left: -20,
 				},
-			},
-			Ticks: []chart.Tick{
-				{Value: 0.0, Label: "0.00"},
-				{Value: 20.0, Label: "2.00"},
-				{Value: 40.0, Label: "4.00"},
-				{Value: 60.0, Label: "6.00"},
-				{Value: 80.0, Label: "Eight"},
-				{Value: 100.0, Label: "Ten"},
 			},
 			ValueFormatter: func(v interface{}) string {
 				if vf, isFloat := v.(float64); isFloat {
