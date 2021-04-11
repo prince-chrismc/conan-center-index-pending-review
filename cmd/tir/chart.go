@@ -66,8 +66,8 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 	mainSeries := chart.TimeSeries{
 		Name: "Time in review",
 		Style: chart.Style{
-			StrokeColor: chart.ColorBlue,
-			FillColor:   chart.ColorBlue.WithAlpha(100),
+			StrokeColor: chart.ColorBlue.WithAlpha(125),
+			FillColor:   chart.ColorBlue.WithAlpha(50),
 		},
 		XValues: sortedData,
 		YValues: arrayOfDurations(data, sortedData),
@@ -76,18 +76,17 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 	smaSeries := &chart.SMASeries{
 		Name: "Moving average of time",
 		Style: chart.Style{
-			StrokeColor:     drawing.ColorRed,
-			StrokeDashArray: []float64{5.0, 5.0},
-			StrokeWidth:     2,
+			StrokeColor: drawing.ColorRed,
 		},
 		InnerSeries: mainSeries,
+		Period:      50,
 	}
 
 	sortedTime := arrayOfTime(cpd)
 	secondSeries := chart.TimeSeries{
 		Name: "Closed per day",
 		Style: chart.Style{
-			StrokeColor: drawing.ColorFromHex("E5934C"),
+			StrokeColor: drawing.ColorFromHex("E5934C").WithAlpha(150),
 		},
 		YAxis:   chart.YAxisSecondary,
 		XValues: sortedTime,
@@ -117,6 +116,16 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 					return fmt.Sprintf("%d", vi)
 				}
 				return ""
+			},
+			GridMajorStyle: chart.Style{
+				StrokeColor:     chart.ColorAlternateGray,
+				StrokeWidth:     1,
+				StrokeDashArray: []float64{10.0, 25.0},
+			},
+			GridLines: []chart.GridLine{
+				{Value: 15},
+				{Value: 30},
+				{Value: 60},
 			},
 		},
 		YAxisSecondary: chart.YAxis{
