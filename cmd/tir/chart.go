@@ -66,8 +66,8 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 	mainSeries := chart.TimeSeries{
 		Name: "Time in review",
 		Style: chart.Style{
-			StrokeColor: chart.ColorBlue.WithAlpha(125),
-			FillColor:   chart.ColorBlue.WithAlpha(50),
+			StrokeColor:     chart.ColorBlue,
+			StrokeDashArray: []float64{5.0, 5.0},
 		},
 		XValues: sortedData,
 		YValues: arrayOfDurations(data, sortedData),
@@ -86,7 +86,8 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 	secondSeries := chart.TimeSeries{
 		Name: "Closed per day",
 		Style: chart.Style{
-			StrokeColor: drawing.ColorFromHex("E5934C").WithAlpha(150),
+			StrokeColor:     drawing.ColorFromHex("E5934C"),
+			StrokeDashArray: []float64{5.0, 5.0},
 		},
 		YAxis:   chart.YAxisSecondary,
 		XValues: sortedTime,
