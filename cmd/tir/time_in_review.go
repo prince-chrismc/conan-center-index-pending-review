@@ -80,6 +80,20 @@ func TimeInReview(token string, dryRun bool) error {
 
 	makeChart(retval, cpd)
 
+	client.Git.CreateCommit(context, "prince-chrismc", "conan-center-index-pending-review", &github.Commit{})
+
+	// Note: the file needs to be absent from the repository as you are not
+	// specifying a SHA reference here.
+	opts := &github.RepositoryContentFileOptions{
+		Message:   github.String("New data"),
+		Content:   []byte("c"),
+		Branch:    github.String("data"),
+		Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"), Email: github.String("github-actions[bot]@example.com")},
+	}
+	client.Repositories.CreateFile(context, "prince-chrismc", "conan-center-index-pending-review", "/data.json", opts)
+
+	// Alt: https://github.com/google/go-github/blob/0ef5f9046bf23d49d9efa2dc30cec684113c3b1e/github/repos_contents_test.go#L586
+
 	// bytes, err := json.MarshalIndent(retval, "", "   ")
 	// if err != nil {
 	// 	fmt.Printf("Problem formating result to JSON %v\n", err)
