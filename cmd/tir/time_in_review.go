@@ -2,6 +2,8 @@ package main
 
 import (
 	"context"
+	"crypto/sha1"
+	"encoding/json"
 	"fmt"
 	"os"
 	"time"
@@ -80,34 +82,37 @@ func TimeInReview(token string, dryRun bool) error {
 
 	makeChart(retval, cpd)
 
-	client.Git.CreateCommit(context, "prince-chrismc", "conan-center-index-pending-review", &github.Commit{})
-
-	// Note: the file needs to be absent from the repository as you are not
-	// specifying a SHA reference here.
-	opts := &github.RepositoryContentFileOptions{
-		Message:   github.String("New data"),
-		Content:   []byte("c"),
-		Branch:    github.String("data"),
-		Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"), Email: github.String("github-actions[bot]@example.com")},
+	bytes, err := json.MarshalIndent(retval, "", "   ")
+	if err != nil {
+		fmt.Printf("Problem formating result to JSON %v\n", err)
+		os.Exit(1)
 	}
-	client.Repositories.CreateFile(context, "prince-chrismc", "conan-center-index-pending-review", "/data.json", opts)
 
-	// Alt: https://github.com/google/go-github/blob/0ef5f9046bf23d49d9efa2dc30cec684113c3b1e/github/repos_contents_test.go#L586
+	fileContent, _, _, err := client.Repositories.GetContents(context, "prince-chrismc", "conan-center-index-pending-review", "time-in-review.json", &github.RepositoryContentGetOptions{
+		Ref: "raw-data",
+	})
+	if err != nil {
+		fmt.Printf("Problem getting current file %v\n", err)
+		os.Exit(1)
+	}
 
-	// bytes, err := json.MarshalIndent(retval, "", "   ")
-	// if err != nil {
-	// 	fmt.Printf("Problem formating result to JSON %v\n", err)
-	// 	os.Exit(1)
-	// }
-
-	// commentBody := `### :see_no_evil: Raw date for time in review!
-
-	// ` + "```json\n" + string(bytes) + "\n```"
-
-	// if dryRun {
-	// 	// fmt.Println(commentBody)
-	// 	return nil
-	// }
+	newSha := fmt.Sprint(sha1.Sum(bytes))
+	if newSha != fileContent.GetSHA() {
+		opts := &github.RepositoryContentFileOptions{
+			SHA:       fileContent.SHA, // Required to edit the file
+			Message:   github.String("Time in review: New data - " + time.Now().Format(time.RFC3339)),
+			Content:   bytes,
+			Branch:    github.String("raw-data"),
+			Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"), Email: github.String("github-actions[bot]@users.noreply.github.com")},
+		}
+		_, _, err = client.Repositories.UpdateFile(context, "prince-chrismc", "conan-center-index-pending-review", "time-in-review.json", opts)
+		if err != nil {
+			fmt.Printf("Problem creating file %v\n", err)
+			os.Exit(1)
+		}
+	} else {
+		fmt.Println("Content for 'time-in-review.json' was the same")
+	}
 
 	return nil
 }
