@@ -1,15 +1,17 @@
 package main
 
 import (
+	"bytes"
 	"context"
-	"crypto/sha1"
 	"encoding/json"
 	"fmt"
 	"os"
 	"time"
 
 	"github.com/google/go-github/v33/github"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
+	"github.com/wcharczuk/go-chart/v2"
 	"golang.org/x/oauth2"
 )
 
@@ -34,6 +36,8 @@ func TimeInReview(token string, dryRun bool) error {
 
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
+
+	fmt.Println("::group::🔎 Gather data of all Pull Requests")
 
 	retval := make(dataPoint)
 	cpd := make(closedPerDay)
@@ -77,41 +81,46 @@ func TimeInReview(token string, dryRun bool) error {
 			break
 		}
 		opt.Page = resp.NextPage
-
 	}
 
-	makeChart(retval, cpd)
+	fmt.Println("::endgroup")
 
-	bytes, err := json.MarshalIndent(retval, "", "   ")
+	// if dryRun {
+	// 	return nil
+	// }
+
+	data, err := json.MarshalIndent(retval, "", "   ")
 	if err != nil {
 		fmt.Printf("Problem formating result to JSON %v\n", err)
 		os.Exit(1)
 	}
 
-	fileContent, _, _, err := client.Repositories.GetContents(context, "prince-chrismc", "conan-center-index-pending-review", "time-in-review.json", &github.RepositoryContentGetOptions{
-		Ref: "raw-data",
-	})
+	err = internal.UpdateDataFile(context, client, "time-in-review.json", data)
 	if err != nil {
-		fmt.Printf("Problem getting current file %v\n", err)
+		fmt.Printf("Problem updating %s %v\n", "time-in-review.json", err)
 		os.Exit(1)
 	}
 
-	newSha := fmt.Sprint(sha1.Sum(bytes))
-	if newSha != fileContent.GetSHA() {
-		opts := &github.RepositoryContentFileOptions{
-			SHA:       fileContent.SHA, // Required to edit the file
-			Message:   github.String("Time in review: New data - " + time.Now().Format(time.RFC3339)),
-			Content:   bytes,
-			Branch:    github.String("raw-data"),
-			Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"), Email: github.String("github-actions[bot]@users.noreply.github.com")},
-		}
-		_, _, err = client.Repositories.UpdateFile(context, "prince-chrismc", "conan-center-index-pending-review", "time-in-review.json", opts)
-		if err != nil {
-			fmt.Printf("Problem creating file %v\n", err)
-			os.Exit(1)
-		}
-	} else {
-		fmt.Println("Content for 'time-in-review.json' was the same")
+	data, err = json.MarshalIndent(cpd, "", "   ")
+	if err != nil {
+		fmt.Printf("Problem formating result to JSON %v\n", err)
+		os.Exit(1)
+	}
+
+	err = internal.UpdateDataFile(context, client, "closed-per-day.json", data)
+	if err != nil {
+		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err)
+		os.Exit(1)
+	}
+
+	graph := makeChart(retval, cpd)
+	var b bytes.Buffer
+	graph.Render(chart.PNG, &b)
+
+	err = internal.UpdateDataFile(context, client, "time-in-review.png", b.Bytes())
+	if err != nil {
+		fmt.Printf("Problem updating %s %v\n", "time-in-review.png", err)
+		os.Exit(1)
 	}
 
 	return nil

@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"os"
 	"sort"
 	"time"
 
@@ -60,7 +59,7 @@ func arrayOfDurations(cpd dataPoint, sorted []time.Time) []float64 {
 	return v
 }
 
-func makeChart(data dataPoint, cpd closedPerDay) {
+func makeChart(data dataPoint, cpd closedPerDay) chart.Chart {
 
 	sortedData := arrayOfDataTime(data)
 	mainSeries := chart.TimeSeries{
@@ -153,7 +152,5 @@ func makeChart(data dataPoint, cpd closedPerDay) {
 		chart.LegendLeft(&graph),
 	}
 
-	f, _ := os.Create("output.png")
-	defer f.Close()
-	graph.Render(chart.PNG, f)
+	return graph
 }
