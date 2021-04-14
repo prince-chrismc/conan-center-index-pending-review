@@ -6,10 +6,10 @@ import (
 	"errors"
 	"fmt"
 	"os"
-	"strings"
 	"time"
 
 	"github.com/google/go-github/v33/github"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/format"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/validate"
@@ -76,16 +76,18 @@ func PendingReview(token string, dryRun bool) error {
 		os.Exit(1)
 	}
 
-	// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
-	isDifferent, err := validateContentIsDifferent(context, client, string(bytes))
-	if err != nil {
-		fmt.Printf("Problem getting original issue content %v\n", err)
-		os.Exit(1)
-	}
+	if !dryRun {
+		isDifferent, err := internal.UpdateDataFile(context, client, "pending-review.json", bytes)
+		if err != nil {
+			fmt.Printf("Problem updating 'pending-review.json' %v\n", err)
+			os.Exit(1)
+		}
 
-	if !isDifferent {
-		fmt.Println("the obtained content is identical to the new result.")
-		return nil // The published results are the same, no need to update the table.
+		// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
+		if !isDifferent {
+			fmt.Println("the obtained content is identical to the new result.")
+			return nil // The published results are the same, no need to update the table.
+		}
 	}
 
 	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
@@ -106,8 +108,16 @@ func PendingReview(token string, dryRun bool) error {
 
 <sup>[1]</sup>: _closely_ matches the label
 <sup>[2]</sup>: only displayed when ready to merge` +
-		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) +
-		"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"
+		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) + `
+		
+[Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
+
+## :hourglass: Time Spent in Review
+
+> :firecracker: This a _new_ feature! I would really :sparkling_heart: appreciate :heartbeat: any feedback, suggestions, or comments in #11
+
+![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
+`
 
 	if dryRun {
 		fmt.Println(commentBody)
@@ -123,20 +133,6 @@ func PendingReview(token string, dryRun bool) error {
 	}
 
 	return nil
-}
-
-func validateContentIsDifferent(context context.Context, client *pending_review.Client, expected string) (bool, error) {
-	issue, _, err := client.Issues.Get(context, "prince-chrismc", "conan-center-index-pending-review", 1)
-	if err != nil {
-		return false, err
-	}
-	content := issue.GetBody()
-
-	rawStart := strings.Index(content, "```json\n")
-	rawEnd := strings.Index(content, "\n```\n")
-	obtained := content[rawStart+len("```json\n") : rawEnd]
-
-	return obtained != expected, nil
 }
 
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats) {

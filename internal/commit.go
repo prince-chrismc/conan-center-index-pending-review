@@ -10,30 +10,31 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
-func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) error {
+func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) (bool, error) {
 	fileContent, _, _, err := client.Repositories.GetContents(context, "prince-chrismc", "conan-center-index-pending-review", file, &github.RepositoryContentGetOptions{
 		Ref: "raw-data",
 	})
 	if err != nil {
-		return err
+		return false, err
 	}
 
 	newSha := git.ComputeHash(git.BlobObject, content).String()
-	if newSha != fileContent.GetSHA() {
-		opts := &github.RepositoryContentFileOptions{
-			SHA:       fileContent.SHA, // Required to edit the file
-			Message:   github.String(file + ": New data - " + time.Now().Format(time.RFC3339)),
-			Content:   content,
-			Branch:    github.String("raw-data"),
-			Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"), Email: github.String("github-actions[bot]@users.noreply.github.com")},
-		}
-		_, _, err = client.Repositories.UpdateFile(context, "prince-chrismc", "conan-center-index-pending-review", file, opts)
-		if err != nil {
-			return err
-		}
-	} else {
+	if newSha == fileContent.GetSHA() {
 		fmt.Printf("Content for '%s' was the same\n", file)
+		return false, nil
 	}
 
-	return nil
+	opts := &github.RepositoryContentFileOptions{
+		SHA:       fileContent.SHA, // Required to edit the file
+		Message:   github.String(file + ": New data - " + time.Now().Format(time.RFC3339)),
+		Content:   content,
+		Branch:    github.String("raw-data"),
+		Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"), Email: github.String("github-actions[bot]@users.noreply.github.com")},
+	}
+	_, _, err = client.Repositories.UpdateFile(context, "prince-chrismc", "conan-center-index-pending-review", file, opts)
+	if err != nil {
+		return false, err
+	}
+
+	return true, nil
 }

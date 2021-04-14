@@ -95,7 +95,7 @@ func TimeInReview(token string, dryRun bool) error {
 		os.Exit(1)
 	}
 
-	err = internal.UpdateDataFile(context, client, "time-in-review.json", data)
+	_, err = internal.UpdateDataFile(context, client, "time-in-review.json", data)
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "time-in-review.json", err)
 		os.Exit(1)
@@ -107,7 +107,7 @@ func TimeInReview(token string, dryRun bool) error {
 		os.Exit(1)
 	}
 
-	err = internal.UpdateDataFile(context, client, "closed-per-day.json", data)
+	_, err = internal.UpdateDataFile(context, client, "closed-per-day.json", data)
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err)
 		os.Exit(1)
@@ -117,7 +117,7 @@ func TimeInReview(token string, dryRun bool) error {
 	var b bytes.Buffer
 	graph.Render(chart.PNG, &b)
 
-	err = internal.UpdateDataFile(context, client, "time-in-review.png", b.Bytes())
+	_, err = internal.UpdateDataFile(context, client, "time-in-review.png", b.Bytes())
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "time-in-review.png", err)
 		os.Exit(1)
