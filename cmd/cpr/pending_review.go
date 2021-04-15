@@ -92,6 +92,8 @@ func PendingReview(token string, dryRun bool) error {
 
 	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
 
+<p align="right"> Found this useful? Give it a :star: by clicking :arrow_upper_right: </p>
+
 ### :ballot_box_with_check: Selection Criteria:
 
 - There has been at least one approval on the head commit
