@@ -85,9 +85,9 @@ func TimeInReview(token string, dryRun bool) error {
 
 	fmt.Println("::endgroup")
 
-	// if dryRun {
-	// 	return nil
-	// }
+	if dryRun {
+		return nil
+	}
 
 	data, err := json.MarshalIndent(retval, "", "   ")
 	if err != nil {
