@@ -239,12 +239,30 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
+         "Count": 6,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "theirix"
          ],
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5238,
+      "OpenedBy": "ericLemanissier",
+      "Recipe": "freeglut",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5238",
+      "LastCommitSHA": "9644adce5e124d748af8a5689bd8b65b5b98f9e7",
+      "LastCommitAt": "2021-04-16T09:34:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null
       }
    },
