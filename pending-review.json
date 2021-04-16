@@ -269,6 +269,25 @@
       }
    },
    {
+      "Number": 5238,
+      "OpenedBy": "ericLemanissier",
+      "Recipe": "freeglut",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5238",
+      "LastCommitSHA": "04fdf755b77baf6bc250233093aef05b8c8d0323",
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 12,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5239,
       "OpenedBy": "SpaceIm",
       "Recipe": "vk-bootstrap",
