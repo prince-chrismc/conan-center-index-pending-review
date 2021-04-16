@@ -1,5 +1,24 @@
 [
    {
+      "Number": 4327,
+      "OpenedBy": "uilianries",
+      "Recipe": "mingw-w64",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4327",
+      "LastCommitSHA": "b7db354b9a80dd9afb8de23af511693675cc7967",
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 27,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
+         "Blockers": null
+      }
+   },
+   {
       "Number": 4630,
       "OpenedBy": "Woazim",
       "Recipe": "imagl",
