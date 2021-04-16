@@ -87,7 +87,7 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -164,7 +164,7 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
+         "Count": 12,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -213,28 +213,6 @@
       }
    },
    {
-      "Number": 5232,
-      "OpenedBy": "SpaceIm",
-      "Recipe": "openal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5232",
-      "LastCommitSHA": "0402fba2968fb26f59f489913cf8aa6942ce0b0e",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5234,
       "OpenedBy": "ericLemanissier",
       "Recipe": "qt",
@@ -261,30 +239,14 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "SSE4"
+            "SSE4",
+            "theirix"
          ],
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5237,
-      "OpenedBy": "xyz1001",
-      "Recipe": "sole",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5237",
-      "LastCommitSHA": "f5e8294093dce1ae39d3dba4312f308773cdaf5d",
-      "LastCommitAt": "2021-04-16T03:52:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
          "Blockers": null
       }
    }
