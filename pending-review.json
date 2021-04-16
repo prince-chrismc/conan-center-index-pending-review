@@ -241,7 +241,7 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 8,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
@@ -261,30 +261,10 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 12,
+         "Count": 13,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5239,
-      "OpenedBy": "SpaceIm",
-      "Recipe": "vk-bootstrap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5239",
-      "LastCommitSHA": "6d49beb3773949ffc809e2ab27a66d4fc780b534",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
             "prince-chrismc"
          ],
          "Blockers": null
