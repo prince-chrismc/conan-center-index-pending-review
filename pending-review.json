@@ -38,26 +38,6 @@
       }
    },
    {
-      "Number": 5035,
-      "OpenedBy": "lukaszlaszko",
-      "Recipe": "aeron",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5035",
-      "LastCommitSHA": "8d290384b5ae4e36b8fa7db7d1bc18dfcb2762b6",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 20,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5054,
       "OpenedBy": "ThomasHauth",
       "Recipe": "opencv",
@@ -242,13 +222,14 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
+         "Count": 4,
+         "ValidApprovals": 4,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
             "uilianries",
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null
       }
@@ -280,11 +261,12 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null
       }
