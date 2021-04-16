@@ -228,5 +228,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 5237,
+      "OpenedBy": "xyz1001",
+      "Recipe": "sole",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5237",
+      "LastCommitSHA": "70dcadb0abd0fb2f4c1a253cd191103b78be25d9",
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null
+      }
    }
 ]
