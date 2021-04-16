@@ -31,15 +31,8 @@ jobs:
         with:
           files: coverage.out
 
-      - run: go build ./cmd/cpr
-      - run: ./cpr -d
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - run: go build  ./cmd/tir
-      - run: ./tir -d
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: go run ./cmd/cpr -d
+      - run: go run ./cmd/tir -d
 
   run:
     runs-on: ubuntu-latest
