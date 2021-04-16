@@ -1,15 +1,14 @@
-package internal
+package main
 
 import (
 	"context"
-	"encoding/json"
 	"errors"
 	"fmt"
 	"os"
-	"strings"
 	"time"
 
 	"github.com/google/go-github/v33/github"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/format"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/validate"
@@ -17,8 +16,8 @@ import (
 	"golang.org/x/oauth2"
 )
 
-// Run the analysis
-func Run(token string, dryRun bool) error {
+// PendingReview analysis of open pull requests
+func PendingReview(token string, dryRun bool) error {
 	tokenService := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: token},
 	)
@@ -70,25 +69,23 @@ func Run(token string, dryRun bool) error {
 		opt.Page = resp.NextPage
 	}
 
-	bytes, err := json.MarshalIndent(retval, "", "   ")
-	if err != nil {
-		fmt.Printf("Problem formating result to JSON %v\n", err)
-		os.Exit(1)
-	}
+	if !dryRun {
+		isDifferent, err := internal.UpdateJSONFile(context, client, "pending-review.json", retval)
+		if err != nil {
+			fmt.Printf("Problem updating 'pending-review.json' %v\n", err)
+			os.Exit(1)
+		}
 
-	// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
-	isDifferent, err := validateContentIsDifferent(context, client, string(bytes))
-	if err != nil {
-		fmt.Printf("Problem getting original issue content %v\n", err)
-		os.Exit(1)
-	}
-
-	if !isDifferent {
-		fmt.Println("the obtained content is identical to the new result.")
-		return nil // The published results are the same, no need to update the table.
+		// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
+		if !isDifferent {
+			fmt.Println("the obtained content is identical to the new result.")
+			return nil // The published results are the same, no need to update the table.
+		}
 	}
 
 	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
+
+<p align="right"> Found this useful? Give it a :star: by clicking :arrow_upper_right: </p>
 
 ### :ballot_box_with_check: Selection Criteria:
 
@@ -106,8 +103,16 @@ func Run(token string, dryRun bool) error {
 
 <sup>[1]</sup>: _closely_ matches the label
 <sup>[2]</sup>: only displayed when ready to merge` +
-		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) +
-		"\n\n<details><summary>Raw JSON data</summary>\n\n```json\n" + string(bytes) + "\n```\n\n</details>"
+		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) + `
+		
+[Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
+
+## :hourglass: Time Spent in Review
+
+> :firecracker: This a _new_ feature! I would really :sparkling_heart: appreciate :heartbeat: any feedback, suggestions, or comments in #11
+
+![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
+`
 
 	if dryRun {
 		fmt.Println(commentBody)
@@ -125,25 +130,11 @@ func Run(token string, dryRun bool) error {
 	return nil
 }
 
-func validateContentIsDifferent(context context.Context, client *pending_review.Client, expected string) (bool, error) {
-	issue, _, err := client.Issues.Get(context, "prince-chrismc", "conan-center-index-pending-review", 1)
-	if err != nil {
-		return false, err
-	}
-	content := issue.GetBody()
-
-	rawStart := strings.Index(content, "```json\n")
-	rawEnd := strings.Index(content, "\n```\n")
-	obtained := content[rawStart+len("```json\n") : rawEnd]
-
-	return obtained != expected, nil
-}
-
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats) {
 	var stats stats.Stats
 	var out []*pending_review.PullRequestSummary
 	for _, pr := range prs {
-		stats.Age.Append(time.Now().Sub(pr.GetCreatedAt()))
+		stats.Age.Append(time.Since(pr.GetCreatedAt()))
 		stats.Open++
 
 		if pr.GetDraft() {

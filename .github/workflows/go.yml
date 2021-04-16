@@ -2,7 +2,8 @@ name: Go
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: "0 */1 * * *"
+    - cron: "0 0 * * *"
   push:
     branches: [main]
   pull_request:
@@ -30,10 +31,8 @@ jobs:
         with:
           files: coverage.out
 
-      - run: go build -o cpr ./cmd
-      - run: ./cpr -d
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: go run ./cmd/cpr -d -t ${{ secrets.GITHUB_TOKEN }}
+      - run: go run ./cmd/tir -d -t ${{ secrets.GITHUB_TOKEN }}
 
   run:
     runs-on: ubuntu-latest
@@ -50,7 +49,7 @@ jobs:
           restore-keys: ${{ runner.os }}-go-
       - run: go get -v -t -d ./...
 
-      - run: go build -o cpr ./cmd
-      - run: ./cpr
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 0 * * *' }}
+        run: go run ./cmd/tir -t ${{ secrets.GITHUB_TOKEN }}
+
+      - run: go run ./cmd/cpr -t ${{ secrets.GITHUB_TOKEN }}

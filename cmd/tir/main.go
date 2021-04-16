@@ -3,13 +3,12 @@ package main
 import (
 	"os"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/urfave/cli/v2"
 )
 
 func main() {
 	app := &cli.App{
-		Name:  "conan-center-index-pending-review",
+		Name:  "conan-center-index-time-in-review",
 		Usage: "create a comprehensive list of all the open pull requests under review and how far along they are",
 		Flags: []cli.Flag{
 			&cli.BoolFlag{
@@ -28,7 +27,7 @@ func main() {
 			dryRun := c.Bool("dry-run")
 			token := c.String("access-token")
 
-			return internal.Run(token, dryRun)
+			return TimeInReview(token, dryRun)
 		},
 	}
 

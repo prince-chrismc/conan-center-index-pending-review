@@ -8,6 +8,7 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 )
 
+// Statistics makes a markdown section and unordered list
 func Statistics(stats stats.Stats) string {
 	return `
 
