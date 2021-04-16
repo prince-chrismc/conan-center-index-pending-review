@@ -239,7 +239,7 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
@@ -250,36 +250,22 @@
       }
    },
    {
-      "Number": 5238,
-      "OpenedBy": "ericLemanissier",
-      "Recipe": "freeglut",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5238",
-      "LastCommitSHA": "9644adce5e124d748af8a5689bd8b65b5b98f9e7",
-      "LastCommitAt": "2021-04-16T09:34:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5239,
       "OpenedBy": "SpaceIm",
       "Recipe": "vk-bootstrap",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5239",
       "LastCommitSHA": "6d49beb3773949ffc809e2ab27a66d4fc780b534",
-      "LastCommitAt": "2021-04-16T09:25:35Z",
-      "CciBotPassed": false,
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries",
+            "prince-chrismc"
+         ],
          "Blockers": null
       }
    },
