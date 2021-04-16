@@ -232,23 +232,6 @@
       }
    },
    {
-      "Number": 5234,
-      "OpenedBy": "ericLemanissier",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5234",
-      "LastCommitSHA": "fefd86a17a4e0ee88de2dc4508455c9140d349e8",
-      "LastCommitAt": "2021-04-15T20:58:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5237,
       "OpenedBy": "xyz1001",
       "Recipe": "sole",
