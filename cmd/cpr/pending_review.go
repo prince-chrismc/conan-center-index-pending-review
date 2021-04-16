@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"
-	"encoding/json"
 	"errors"
 	"fmt"
 	"os"
@@ -70,14 +69,8 @@ func PendingReview(token string, dryRun bool) error {
 		opt.Page = resp.NextPage
 	}
 
-	bytes, err := json.MarshalIndent(retval, "", "   ")
-	if err != nil {
-		fmt.Printf("Problem formating result to JSON %v\n", err)
-		os.Exit(1)
-	}
-
 	if !dryRun {
-		isDifferent, err := internal.UpdateDataFile(context, client, "pending-review.json", bytes)
+		isDifferent, err := internal.UpdateJsonFile(context, client, "pending-review.json", retval)
 		if err != nil {
 			fmt.Printf("Problem updating 'pending-review.json' %v\n", err)
 			os.Exit(1)

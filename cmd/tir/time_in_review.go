@@ -3,7 +3,6 @@ package main
 import (
 	"bytes"
 	"context"
-	"encoding/json"
 	"fmt"
 	"os"
 	"time"
@@ -15,7 +14,7 @@ import (
 	"golang.org/x/oauth2"
 )
 
-type dataPoint map[time.Time]time.Duration
+type timeInReview map[time.Time]time.Duration
 type closedPerDay map[time.Time]int
 
 // TimeInReview analysis of merged pull requests
@@ -37,9 +36,9 @@ func TimeInReview(token string, dryRun bool) error {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	fmt.Println("::group::🔎 Gather data of all Pull Requests")
+	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
-	retval := make(dataPoint)
+	tir := make(timeInReview)
 	cpd := make(closedPerDay)
 	opt := &github.PullRequestListOptions{
 		Sort:  "created",
@@ -63,10 +62,10 @@ func TimeInReview(token string, dryRun bool) error {
 				continue
 			}
 
-			merged := pull.GetMergedAt() != time.Time{} // merged is not returned when paging through the API - so calculated
+			merged := pull.GetMergedAt() != time.Time{} // `merged` is not returned when paging through the API - so calculate it
 			if merged {
 				fmt.Printf("#%4d was created at %s and merged at %s\n", pull.GetNumber(), pull.GetCreatedAt().String(), pull.GetMergedAt().String())
-				retval[pull.GetMergedAt()] = pull.GetMergedAt().Sub(pull.GetCreatedAt())
+				tir[pull.GetMergedAt()] = pull.GetMergedAt().Sub(pull.GetCreatedAt())
 				mergedOn := pull.GetMergedAt().Truncate(time.Hour * 24)
 				currentCounter, found := cpd[mergedOn]
 				if found {
@@ -89,31 +88,19 @@ func TimeInReview(token string, dryRun bool) error {
 		return nil
 	}
 
-	data, err := json.MarshalIndent(retval, "", "   ")
-	if err != nil {
-		fmt.Printf("Problem formating result to JSON %v\n", err)
-		os.Exit(1)
-	}
-
-	_, err = internal.UpdateDataFile(context, client, "time-in-review.json", data)
+	_, err = internal.UpdateJsonFile(context, client, "time-in-review.json", tir)
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "time-in-review.json", err)
 		os.Exit(1)
 	}
 
-	data, err = json.MarshalIndent(cpd, "", "   ")
-	if err != nil {
-		fmt.Printf("Problem formating result to JSON %v\n", err)
-		os.Exit(1)
-	}
-
-	_, err = internal.UpdateDataFile(context, client, "closed-per-day.json", data)
+	_, err = internal.UpdateJsonFile(context, client, "closed-per-day.json", cpd)
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err)
 		os.Exit(1)
 	}
 
-	graph := makeChart(retval, cpd)
+	graph := makeChart(tir, cpd)
 	var b bytes.Buffer
 	graph.Render(chart.PNG, &b)
 

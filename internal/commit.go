@@ -2,6 +2,7 @@ package internal
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"time"
 
@@ -10,6 +11,7 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
+// UpdateDataFile commits the new content if it's different. It returns if the modification took place and any error encountered.
 func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) (bool, error) {
 	fileContent, _, _, err := client.Repositories.GetContents(context, "prince-chrismc", "conan-center-index-pending-review", file, &github.RepositoryContentGetOptions{
 		Ref: "raw-data",
@@ -37,4 +39,19 @@ func UpdateDataFile(context context.Context, client *pending_review.Client, file
 	}
 
 	return true, nil
+}
+
+// UpdateJsonFile commits the new content if it's different. It returns if the modification took place and any error encountered.
+func UpdateJsonFile(context context.Context, client *pending_review.Client, file string, content interface{}) (bool, error) {
+	data, err := json.MarshalIndent(content, "", "   ")
+	if err != nil {
+		return false, err
+	}
+
+	updated, err := UpdateDataFile(context, client, file, data)
+	if err != nil {
+		return false, err
+	}
+
+	return updated, nil
 }

@@ -9,7 +9,7 @@ import (
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
-func arrayOfDataTime(d dataPoint) []time.Time {
+func arrayOfDataTime(d timeInReview) []time.Time {
 	v := make([]time.Time, len(d))
 	idx := 0
 	for time := range d {
@@ -49,7 +49,7 @@ func arrayOfCounts(cpd closedPerDay, sorted []time.Time) []float64 {
 	return v
 }
 
-func arrayOfDurations(cpd dataPoint, sorted []time.Time) []float64 {
+func arrayOfDurations(cpd timeInReview, sorted []time.Time) []float64 {
 	v := make([]float64, len(cpd))
 	idx := 0
 	for _, value := range sorted {
@@ -59,7 +59,7 @@ func arrayOfDurations(cpd dataPoint, sorted []time.Time) []float64 {
 	return v
 }
 
-func makeChart(data dataPoint, cpd closedPerDay) chart.Chart {
+func makeChart(data timeInReview, cpd closedPerDay) chart.Chart {
 
 	sortedData := arrayOfDataTime(data)
 	mainSeries := chart.TimeSeries{
