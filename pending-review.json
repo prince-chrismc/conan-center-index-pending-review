@@ -87,7 +87,7 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -274,6 +274,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5239",
       "LastCommitSHA": "6d49beb3773949ffc809e2ab27a66d4fc780b534",
       "LastCommitAt": "2021-04-16T09:25:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5240,
+      "OpenedBy": "xyz1001",
+      "Recipe": "panzi_portable_endian",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5240",
+      "LastCommitSHA": "96077fc712976300c36d9a240e0c7f035ab144c8",
+      "LastCommitAt": "2021-04-16T11:21:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
