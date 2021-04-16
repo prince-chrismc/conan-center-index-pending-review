@@ -88,13 +88,13 @@ func TimeInReview(token string, dryRun bool) error {
 		return nil
 	}
 
-	_, err = internal.UpdateJsonFile(context, client, "time-in-review.json", tir)
+	_, err = internal.UpdateJSONFile(context, client, "time-in-review.json", tir)
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "time-in-review.json", err)
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateJsonFile(context, client, "closed-per-day.json", cpd)
+	_, err = internal.UpdateJSONFile(context, client, "closed-per-day.json", cpd)
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err)
 		os.Exit(1)

@@ -70,7 +70,7 @@ func PendingReview(token string, dryRun bool) error {
 	}
 
 	if !dryRun {
-		isDifferent, err := internal.UpdateJsonFile(context, client, "pending-review.json", retval)
+		isDifferent, err := internal.UpdateJSONFile(context, client, "pending-review.json", retval)
 		if err != nil {
 			fmt.Printf("Problem updating 'pending-review.json' %v\n", err)
 			os.Exit(1)

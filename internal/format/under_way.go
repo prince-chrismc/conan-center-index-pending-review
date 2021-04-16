@@ -6,6 +6,7 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
+// UnderReview formats the pull request summaries into a markdown table for those **not** considered 'ready to merge'
 func UnderReview(prs []*pending_review.PullRequestSummary) string {
 	tableBody, rowCount := ReviewsToMarkdownRows(prs, false)
 

@@ -9,7 +9,7 @@ import (
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
-func arrayOfDataTime(d timeInReview) []time.Time {
+func inReviewKeys(d timeInReview) []time.Time {
 	v := make([]time.Time, len(d))
 	idx := 0
 	for time := range d {
@@ -24,7 +24,17 @@ func arrayOfDataTime(d timeInReview) []time.Time {
 	return v
 }
 
-func arrayOfTime(d closedPerDay) []time.Time {
+func inReviewDurationValues(d timeInReview, sorted []time.Time) []float64 {
+	v := make([]float64, len(d))
+	idx := 0
+	for _, value := range sorted {
+		v[idx] = d[value].Hours() / 24.0
+		idx++
+	}
+	return v
+}
+
+func closedKeys(d closedPerDay) []time.Time {
 	v := make([]time.Time, len(d))
 	idx := 0
 	for time := range d {
@@ -39,29 +49,18 @@ func arrayOfTime(d closedPerDay) []time.Time {
 	return v
 }
 
-func arrayOfCounts(cpd closedPerDay, sorted []time.Time) []float64 {
-	v := make([]float64, len(cpd))
+func closedCountValues(d closedPerDay, sorted []time.Time) []float64 {
+	v := make([]float64, len(d))
 	idx := 0
 	for _, value := range sorted {
-		v[idx] = float64(cpd[value])
+		v[idx] = float64(d[value])
 		idx++
 	}
 	return v
 }
 
-func arrayOfDurations(cpd timeInReview, sorted []time.Time) []float64 {
-	v := make([]float64, len(cpd))
-	idx := 0
-	for _, value := range sorted {
-		v[idx] = cpd[value].Hours() / 24.0
-		idx++
-	}
-	return v
-}
-
-func makeChart(data timeInReview, cpd closedPerDay) chart.Chart {
-
-	sortedData := arrayOfDataTime(data)
+func makeChart(tir timeInReview, cpd closedPerDay) chart.Chart {
+	sortedData := inReviewKeys(tir)
 	mainSeries := chart.TimeSeries{
 		Name: "Time in review",
 		Style: chart.Style{
@@ -69,7 +68,7 @@ func makeChart(data timeInReview, cpd closedPerDay) chart.Chart {
 			FillColor:   chart.ColorBlue.WithAlpha(50),
 		},
 		XValues: sortedData,
-		YValues: arrayOfDurations(data, sortedData),
+		YValues: inReviewDurationValues(tir, sortedData),
 	}
 
 	smaSeries := &chart.SMASeries{
@@ -81,7 +80,7 @@ func makeChart(data timeInReview, cpd closedPerDay) chart.Chart {
 		Period:      50,
 	}
 
-	sortedTime := arrayOfTime(cpd)
+	sortedTime := closedKeys(cpd)
 	secondSeries := chart.TimeSeries{
 		Name: "Closed per day",
 		Style: chart.Style{
@@ -89,21 +88,14 @@ func makeChart(data timeInReview, cpd closedPerDay) chart.Chart {
 		},
 		YAxis:   chart.YAxisSecondary,
 		XValues: sortedTime,
-		YValues: arrayOfCounts(cpd, sortedTime),
+		YValues: closedCountValues(cpd, sortedTime),
 	}
 
+	padding := chart.Style{Padding: chart.Box{Left: 175}}
 	graph := chart.Chart{
-		Background: chart.Style{
-			Padding: chart.Box{
-				Left: 175,
-			},
-		},
-		Title: "Time Spent in Review",
-		TitleStyle: chart.Style{
-			Padding: chart.Box{
-				Left: 175,
-			},
-		},
+		Background: padding,
+		Title:      "Time Spent in Review",
+		TitleStyle: padding,
 		XAxis: chart.XAxis{
 			Name: "Closed At",
 		},
@@ -128,12 +120,7 @@ func makeChart(data timeInReview, cpd closedPerDay) chart.Chart {
 			},
 		},
 		YAxisSecondary: chart.YAxis{
-			Name: "Number of PRs Merged",
-			NameStyle: chart.Style{
-				Padding: chart.Box{
-					Left: -20,
-				},
-			},
+			Name: "PRs Merged",
 			ValueFormatter: func(v interface{}) string {
 				if vf, isFloat := v.(float64); isFloat {
 					return fmt.Sprintf("%.1f", vf)

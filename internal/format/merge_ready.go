@@ -6,6 +6,7 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
+// ReadyToMerge formats the pull request summaries into a markdown table for those considered 'ready to merge'
 func ReadyToMerge(prs []*pending_review.PullRequestSummary) string {
 	tableBody, rowCount := ReviewsToMarkdownRows(prs, true)
 
