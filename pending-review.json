@@ -268,22 +268,5 @@
          ],
          "Blockers": null
       }
-   },
-   {
-      "Number": 5240,
-      "OpenedBy": "xyz1001",
-      "Recipe": "panzi_portable_endian",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5240",
-      "LastCommitSHA": "96077fc712976300c36d9a240e0c7f035ab144c8",
-      "LastCommitAt": "2021-04-16T11:21:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
