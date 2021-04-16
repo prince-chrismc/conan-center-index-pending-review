@@ -214,27 +214,6 @@
       }
    },
    {
-      "Number": 5217,
-      "OpenedBy": "SpaceIm",
-      "Recipe": "openvr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5217",
-      "LastCommitSHA": "60e3ed2e378becd2b33b3743315ab29706fb7a7b",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5220,
       "OpenedBy": "uilianries",
       "Recipe": "docs",
