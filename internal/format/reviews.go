@@ -44,8 +44,8 @@ func underWay(pr *pending_review.PullRequestSummary) string {
 	}
 
 	if pr.Summary.LastReview != nil {
-		columns = append(columns, fmt.Sprint("[", pr.Summary.LastReview.ReviewerName, "](", pr.Summary.LastReview.HTMLURL, ") at ", pr.Summary.LastReview.SubmittedAt.Format("Jan 2")))
-		// columns = append(columns, pr.Summary.LastReview.SubmittedAt.Format("Jan 2"))
+		// columns = append(columns, fmt.Sprint("[", pr.Summary.LastReview.ReviewerName, "](", pr.Summary.LastReview.HTMLURL, ") at ", pr.Summary.LastReview.SubmittedAt.Format("Jan 2")))
+		columns = append(columns, pr.Summary.LastReview.SubmittedAt.Format("Jan 2"))
 	}
 
 	retval += strings.Join(columns, "|")
