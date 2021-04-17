@@ -251,25 +251,5 @@
          ],
          "Blockers": null
       }
-   },
-   {
-      "Number": 5245,
-      "OpenedBy": "madebr",
-      "Recipe": "strawberryperl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5245",
-      "LastCommitSHA": "829960f94443c8e5674edda807cc7b5768a7f386",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "SpaceIm"
-         ],
-         "Blockers": null
-      }
    }
 ]
