@@ -9,11 +9,12 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 27,
-         "ValidApprovals": 1,
+         "Count": 28,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb"
+            "danimtb",
+            "prince-chrismc"
          ],
          "Blockers": null
       }
@@ -193,26 +194,6 @@
       }
    },
    {
-      "Number": 5188,
-      "OpenedBy": "SpaceIm",
-      "Recipe": "nlohmann_json",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5188",
-      "LastCommitSHA": "5a4a644334d44d1ec6325d635cbc8ab0b8c513de",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5220,
       "OpenedBy": "uilianries",
       "Recipe": "docs",
@@ -261,7 +242,7 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 13,
+         "Count": 15,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
