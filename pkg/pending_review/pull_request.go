@@ -25,6 +25,7 @@ const (
 type PullRequestSummary struct {
 	Number        int
 	OpenedBy      string
+	CreatedAt     time.Time
 	Recipe        string
 	Change        Category
 	ReviewURL     string
@@ -70,6 +71,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	p := &PullRequestSummary{
 		Number:        pr.GetNumber(),
 		OpenedBy:      pr.GetUser().GetLogin(),
+		CreatedAt:     pr.GetCreatedAt(),
 		ReviewURL:     pr.GetHTMLURL(),
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}

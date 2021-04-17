@@ -68,5 +68,5 @@ func TestFormatMarkdownRows(t *testing.T) {
 
 	reviewRow, reviewCount := ReviewsToMarkdownRows(rs, true)
 	assert.Equal(t, reviewCount, 1)
-	assert.Equal(t, reviewRow, "[#4682](https://github.com/conan-io/conan-center-index/pull/4682)|[floriansimon1](https://github.com/floriansimon1)|:warning: protobuf|13||prince-chrismc\n")
+	assert.Equal(t, reviewRow, "[#4682](https://github.com/conan-io/conan-center-index/pull/4682)|[floriansimon1](https://github.com/floriansimon1)|:warning: protobuf|13|prince-chrismc\n")
 }
