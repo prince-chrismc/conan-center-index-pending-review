@@ -138,25 +138,6 @@
       }
    },
    {
-      "Number": 5097,
-      "OpenedBy": "AlvaroFS",
-      "Recipe": "opentracing-cpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5097",
-      "LastCommitSHA": "65486c8e1a6e9c2fdfa8dcad5746ab9c35b384b2",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 28,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5099,
       "OpenedBy": "ivabrajer",
       "Recipe": "boost",
