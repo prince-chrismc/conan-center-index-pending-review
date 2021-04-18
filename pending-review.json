@@ -251,5 +251,22 @@
          ],
          "Blockers": null
       }
+   },
+   {
+      "Number": 5254,
+      "OpenedBy": "tomas-krupa",
+      "Recipe": "hippomocks",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5254",
+      "LastCommitSHA": "630bb3c18664c9f0189f2d46794196f71e315c12",
+      "LastCommitAt": "2021-04-18T11:14:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
