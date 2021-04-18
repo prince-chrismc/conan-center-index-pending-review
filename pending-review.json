@@ -213,26 +213,6 @@
       }
    },
    {
-      "Number": 5237,
-      "OpenedBy": "xyz1001",
-      "Recipe": "sole",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5237",
-      "LastCommitSHA": "daa773c0c7a7e1637196ecfead5b60852648e80e",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "SpaceIm"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5238,
       "OpenedBy": "ericLemanissier",
       "Recipe": "freeglut",
@@ -262,31 +242,12 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5253,
-      "OpenedBy": "madebr",
-      "Recipe": "catch2",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5253",
-      "LastCommitSHA": "1304abfce830eace0d0c180422a98628d11edf86",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
+         "Count": 10,
          "ValidApprovals": 2,
-         "TeamApproval": false,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm",
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null
       }
