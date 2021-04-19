@@ -176,25 +176,6 @@
       }
    },
    {
-      "Number": 5178,
-      "OpenedBy": "mdavezac",
-      "Recipe": "so3",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5178",
-      "LastCommitSHA": "10173a3ad9054cf9c38ddad1a1d0b27c4dec7b8e",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5220,
       "OpenedBy": "uilianries",
       "Recipe": "docs",
