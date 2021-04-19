@@ -215,6 +215,25 @@
       }
    },
    {
+      "Number": 5247,
+      "OpenedBy": "xyz1001",
+      "Recipe": "huffman",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5247",
+      "LastCommitSHA": "f19e3d9c0a31fcbf340128640ba7c6c4da4603ea",
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5252,
       "OpenedBy": "madebr",
       "Recipe": "libzip",
