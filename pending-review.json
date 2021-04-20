@@ -1,45 +1,5 @@
 [
    {
-      "Number": 4327,
-      "OpenedBy": "uilianries",
-      "Recipe": "mingw-w64",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4327",
-      "LastCommitSHA": "b7db354b9a80dd9afb8de23af511693675cc7967",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 28,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb",
-            "prince-chrismc"
-         ],
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 4445,
-      "OpenedBy": "danimtb",
-      "Recipe": "pybind11",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4445",
-      "LastCommitSHA": "1942632de1f6619838fe87840e7ff308c5241c5c",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 4630,
       "OpenedBy": "Woazim",
       "Recipe": "imagl",
@@ -126,12 +86,13 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 32,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 33,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null
       }
@@ -273,6 +234,25 @@
       }
    },
    {
+      "Number": 5256,
+      "OpenedBy": "rockdreamer",
+      "Recipe": "fontconfig",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5256",
+      "LastCommitSHA": "0af32610fbd3c4075b2ff31930c4ea3389b398d0",
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5258,
       "OpenedBy": "anton-danielsson",
       "Recipe": "protobuf",
@@ -282,11 +262,12 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "rockdreamer"
          ],
          "Blockers": null
       }
