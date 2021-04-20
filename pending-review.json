@@ -59,27 +59,6 @@
       }
    },
    {
-      "Number": 5054,
-      "OpenedBy": "ThomasHauth",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5054",
-      "LastCommitSHA": "918df0e52618ade2df2921fc299d98f5ceaff39a",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": [
-            "uilianries"
-         ]
-      }
-   },
-   {
       "Number": 5064,
       "OpenedBy": "SSE4",
       "Recipe": "stc",
