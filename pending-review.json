@@ -289,5 +289,22 @@
          ],
          "Blockers": null
       }
+   },
+   {
+      "Number": 5274,
+      "OpenedBy": "rockdreamer",
+      "Recipe": "fontconfig",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5274",
+      "LastCommitSHA": "907ce2305723242b718ad7823323c0ef6646a145",
+      "LastCommitAt": "2021-04-20T18:22:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
