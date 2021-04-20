@@ -213,40 +213,21 @@
       }
    },
    {
-      "Number": 5258,
-      "OpenedBy": "anton-danielsson",
-      "Recipe": "protobuf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5258",
-      "LastCommitSHA": "f1da846119bdb9f01d00ad398163c8f97f888ddf",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc",
-            "rockdreamer",
-            "SpaceIm"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5266,
       "OpenedBy": "ruilvo",
       "Recipe": "uwebsockets",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5266",
       "LastCommitSHA": "37e7621a2c1b5e14aeb635c12eb1af074aa1bce6",
-      "LastCommitAt": "2021-04-20T09:12:07Z",
-      "CciBotPassed": false,
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null
       }
    },
