@@ -262,11 +262,12 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null
       }
@@ -287,23 +288,6 @@
          "Approvals": [
             "madebr"
          ],
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5274,
-      "OpenedBy": "rockdreamer",
-      "Recipe": "fontconfig",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5274",
-      "LastCommitSHA": "907ce2305723242b718ad7823323c0ef6646a145",
-      "LastCommitAt": "2021-04-20T18:22:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
          "Blockers": null
       }
    }
