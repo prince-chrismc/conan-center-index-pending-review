@@ -115,26 +115,6 @@
       }
    },
    {
-      "Number": 5194,
-      "OpenedBy": "ollien",
-      "Recipe": "cpr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5194",
-      "LastCommitSHA": "99d5e8c1f1410cac94a4d225146fbbfb67ee08ee",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 17,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5220,
       "OpenedBy": "uilianries",
       "Recipe": "docs",
@@ -220,13 +200,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5256",
       "LastCommitSHA": "0af32610fbd3c4075b2ff31930c4ea3389b398d0",
       "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null
       }
