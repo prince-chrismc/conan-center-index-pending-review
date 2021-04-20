@@ -184,7 +184,7 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 14,
+         "Count": 17,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -243,7 +243,7 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 6,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
