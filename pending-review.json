@@ -7,7 +7,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4356",
       "LastCommitSHA": "3a41abc84079d5871c2a82724b17426f6a8b3d1b",
       "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 9,
          "ValidApprovals": 0,
@@ -155,6 +155,25 @@
       }
    },
    {
+      "Number": 5218,
+      "OpenedBy": "mjvankampen",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5218",
+      "LastCommitSHA": "107a463697b1a2ff338c0be92ac4895ac7564522",
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5220,
       "OpenedBy": "uilianries",
       "Recipe": "docs",
@@ -243,11 +262,12 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 14,
-         "ValidApprovals": 1,
+         "Count": 15,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "prince-chrismc"
          ],
          "Blockers": null
       }
@@ -262,11 +282,12 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "prince-chrismc"
          ],
          "Blockers": null
       }
@@ -278,13 +299,15 @@
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5279",
       "LastCommitSHA": "7ee4a6c74375e2ed1b8da0cdcb7c5fb25b99c3e8",
-      "LastCommitAt": "2021-04-21T09:34:39Z",
-      "CciBotPassed": false,
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null
       }
    }
