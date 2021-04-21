@@ -234,21 +234,20 @@
       }
    },
    {
-      "Number": 5263,
-      "OpenedBy": "floriansimon1",
-      "Recipe": "stlab",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5263",
-      "LastCommitSHA": "5f535cb999abac7f38d9311ceb33e5a311c3fdf1",
+      "Number": 5254,
+      "OpenedBy": "tomas-krupa",
+      "Recipe": "hippomocks",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5254",
+      "LastCommitSHA": "ca5b93d9c375c2adcde4072d2dbf8e84e771eda2",
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "Count": 14,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "prince-chrismc",
-            "SSE4"
+            "madebr"
          ],
          "Blockers": null
       }
@@ -289,6 +288,23 @@
             "prince-chrismc",
             "SSE4"
          ],
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5279,
+      "OpenedBy": "SpaceIm",
+      "Recipe": "box2d",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5279",
+      "LastCommitSHA": "a12e597ccc99146e37b0657fa4d0a68a17d598f6",
+      "LastCommitAt": "2021-04-21T08:45:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null
       }
    }
