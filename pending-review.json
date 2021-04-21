@@ -7,13 +7,14 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4356",
       "LastCommitSHA": "3a41abc84079d5871c2a82724b17426f6a8b3d1b",
       "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 13,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "a4z"
+            "a4z",
+            "SSE4"
          ],
          "Blockers": null
       }
