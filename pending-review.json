@@ -290,22 +290,5 @@
          ],
          "Blockers": null
       }
-   },
-   {
-      "Number": 5279,
-      "OpenedBy": "SpaceIm",
-      "Recipe": "box2d",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5279",
-      "LastCommitSHA": "a12e597ccc99146e37b0657fa4d0a68a17d598f6",
-      "LastCommitAt": "2021-04-21T08:45:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
