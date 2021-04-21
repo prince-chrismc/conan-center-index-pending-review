@@ -233,26 +233,6 @@
       }
    },
    {
-      "Number": 5256,
-      "OpenedBy": "rockdreamer",
-      "Recipe": "fontconfig",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5256",
-      "LastCommitSHA": "0af32610fbd3c4075b2ff31930c4ea3389b398d0",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5266,
       "OpenedBy": "ruilvo",
       "Recipe": "uwebsockets",
@@ -262,12 +242,13 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
+         "Count": 7,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "uilianries"
+            "uilianries",
+            "prince-chrismc"
          ],
          "Blockers": null
       }
@@ -282,11 +263,12 @@
       "LastCommitAt": "0001-01-01T00:00:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "prince-chrismc"
          ],
          "Blockers": null
       }
