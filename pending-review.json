@@ -292,5 +292,22 @@
          ],
          "Blockers": null
       }
+   },
+   {
+      "Number": 5284,
+      "OpenedBy": "ChatPion",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5284",
+      "LastCommitSHA": "1ed8c4132dbad0daffd399849ddc42751536d2da",
+      "LastCommitAt": "2021-04-22T08:36:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
