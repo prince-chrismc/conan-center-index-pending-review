@@ -295,13 +295,15 @@
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5287",
       "LastCommitSHA": "0b895bbaa546d3293472706ac4226a91c809c818",
-      "LastCommitAt": "2021-04-22T12:28:11Z",
-      "CciBotPassed": false,
+      "LastCommitAt": "0001-01-01T00:00:00Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
          "Blockers": null
       }
    }
