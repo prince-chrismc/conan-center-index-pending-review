@@ -39,27 +39,6 @@
       }
    },
    {
-      "Number": 5054,
-      "OpenedBy": "ThomasHauth",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5054",
-      "LastCommitSHA": "0312ed6a599bfb125edc06030a410b6163413f74",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": [
-            "uilianries"
-         ]
-      }
-   },
-   {
       "Number": 5064,
       "OpenedBy": "SSE4",
       "Recipe": "stc",
@@ -234,23 +213,19 @@
       }
    },
    {
-      "Number": 5254,
+      "Number": 5264,
       "OpenedBy": "tomas-krupa",
-      "Recipe": "hippomocks",
+      "Recipe": "zlib-ng",
       "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5254",
-      "LastCommitSHA": "ca5b93d9c375c2adcde4072d2dbf8e84e771eda2",
-      "LastCommitAt": "0001-01-01T00:00:00Z",
-      "CciBotPassed": true,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5264",
+      "LastCommitSHA": "3ed909e603771cf38a1a2a09ee1293df34e47ded",
+      "LastCommitAt": "2021-04-22T14:19:25Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 16,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "SSE4"
-         ],
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null
       }
    },
