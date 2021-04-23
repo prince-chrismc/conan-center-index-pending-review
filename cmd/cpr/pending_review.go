@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"encoding/json"
 	"errors"
 	"fmt"
 	"os"
@@ -15,6 +16,8 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"golang.org/x/oauth2"
 )
+
+type countInReview map[time.Time]int
 
 // PendingReview analysis of open pull requests
 func PendingReview(token string, dryRun bool) error {
@@ -81,6 +84,8 @@ func PendingReview(token string, dryRun bool) error {
 			fmt.Println("the obtained content is identical to the new result.")
 			return nil // The published results are the same, no need to update the table.
 		}
+
+		updateInReviewCount(context, client, len(retval))
 	}
 
 	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
@@ -129,6 +134,34 @@ func PendingReview(token string, dryRun bool) error {
 	}
 
 	return nil
+}
+
+func updateInReviewCount(context context.Context, client *pending_review.Client, count int) {
+	fileContent, err := internal.GetDataFile(context, client, "review-count.json")
+	if err != nil {
+		fmt.Printf("Problem updating 'review-count.json' %v\n", err)
+		os.Exit(1)
+	}
+
+	str, err := fileContent.GetContent()
+	if err != nil {
+		fmt.Printf("Problem updating 'review-count.json' %v\n", err)
+		os.Exit(1)
+	}
+
+	var counts countInReview
+	if err := json.Unmarshal([]byte(str), &counts); err != nil {
+		fmt.Printf("Problem updating 'review-count.json' %v\n", err)
+		os.Exit(1)
+	}
+
+	counts[time.Now()] = count
+
+	_, err = internal.UpdateJSONFile(context, client, "review-count.json", counts)
+	if err != nil {
+		fmt.Printf("Problem updating 'review-count.json' %v\n", err)
+		os.Exit(1)
+	}
 }
 
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats) {
