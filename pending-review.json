@@ -491,5 +491,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 5300,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-04-23T18:08:14Z",
+      "Recipe": "pdcurses",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5300",
+      "LastCommitSHA": "9368b3f35df9bf19fd1b71e220e74611649ed7e6",
+      "LastCommitAt": "2021-04-23T18:06:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5301,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-04-23T18:11:52Z",
+      "Recipe": "re2c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5301",
+      "LastCommitSHA": "887d26da562c21db485abb456581226be67ad4c4",
+      "LastCommitAt": "2021-04-23T18:10:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
