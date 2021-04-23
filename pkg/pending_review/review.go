@@ -18,7 +18,7 @@ type Reviews struct {
 	Approvals []string // List of users who have approved the pull request on the head commit
 	Blockers  []string // List of Conan team members who have requested changes on the head commit
 
-	LastReview *Review // Snapshot of the last review
+	LastReview *Review `json:",omitempty"` // Snapshot of the last review
 }
 
 // IsApproved when the conditions for merging are meet as per https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md

@@ -100,6 +100,7 @@ func PendingReview(token string, dryRun bool) error {
 :memo: - Modification to an existing recipe
 :green_book: - Documentation change <sup>[1]</sup>
 :warning: - The merge commit status does **not** indicate success <sup>[2]</sup>
+:bell: - The last review was more than 12 days ago
 
 <sup>[1]</sup>: _closely_ matches the label
 <sup>[2]</sup>: only displayed when ready to merge` +

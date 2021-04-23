@@ -3,6 +3,7 @@ package format
 import (
 	"fmt"
 	"strings"
+	"time"
 
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
@@ -39,13 +40,9 @@ func underWay(pr *pending_review.PullRequestSummary) string {
 		pr.CreatedAt.Format("Jan 2"),
 		title,
 		fmt.Sprint(pr.Summary.Count),
+		lastReviewTime(pr),
 		strings.Join(pr.Summary.Blockers, ", "),
 		strings.Join(pr.Summary.Approvals, ", "),
-	}
-
-	if pr.Summary.LastReview != nil {
-		// columns = append(columns, fmt.Sprint("[", pr.Summary.LastReview.ReviewerName, "](", pr.Summary.LastReview.HTMLURL, ") at ", pr.Summary.LastReview.SubmittedAt.Format("Jan 2")))
-		columns = append(columns, pr.Summary.LastReview.SubmittedAt.Format("Jan 2"))
 	}
 
 	retval += strings.Join(columns, "|")
@@ -64,6 +61,7 @@ func toMerge(pr *pending_review.PullRequestSummary) string {
 	columns := []string{
 		fmt.Sprint("[#", pr.Number, "](", pr.ReviewURL, ")"),
 		fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
+		pr.CreatedAt.Format("Jan 2"),
 		title,
 		fmt.Sprint(pr.Summary.Count),
 		strings.Join(pr.Summary.Approvals, ", "),
@@ -87,4 +85,19 @@ func title(change pending_review.Category, recipe string) string {
 	}
 
 	return "???"
+}
+
+func lastReviewTime(pr *pending_review.PullRequestSummary) string {
+	if pr.Summary.LastReview != nil {
+		//fmt.Sprint("[", pr.Summary.LastReview.ReviewerName, "](", pr.Summary.LastReview.HTMLURL, ") at ", pr.Summary.LastReview.SubmittedAt.Format("Jan 2")))
+		date := pr.Summary.LastReview.SubmittedAt.Format("Jan 2")
+
+		if time.Since(pr.Summary.LastReview.SubmittedAt) >= time.Hour*24*12 {
+			date += " :bell:"
+		}
+
+		return date
+	}
+
+	return ""
 }

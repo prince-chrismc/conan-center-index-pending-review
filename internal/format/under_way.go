@@ -27,7 +27,7 @@ func UnderReview(prs []*pending_review.PullRequestSummary) string {
 
 There ` + breif + ` currently under way :eyes:
 
-PR | By | Opened | Recipe | Reviews | :stop_sign: Blockers | :star2: Approvers | Last
+PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 ` +
 		tableBody
