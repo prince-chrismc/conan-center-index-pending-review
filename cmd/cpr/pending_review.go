@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"encoding/json"
 	"errors"
 	"fmt"
 	"os"
@@ -15,6 +16,8 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"golang.org/x/oauth2"
 )
+
+type countInReview map[time.Time]int
 
 // PendingReview analysis of open pull requests
 func PendingReview(token string, dryRun bool) error {
@@ -81,6 +84,12 @@ func PendingReview(token string, dryRun bool) error {
 			fmt.Println("the obtained content is identical to the new result.")
 			return nil // The published results are the same, no need to update the table.
 		}
+
+		err = updateInReviewCount(context, client, len(retval))
+		if err != nil {
+			fmt.Printf("Problem updating 'review-count.json' %v\n", err)
+			os.Exit(1)
+		}
 	}
 
 	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
@@ -100,6 +109,7 @@ func PendingReview(token string, dryRun bool) error {
 :memo: - Modification to an existing recipe
 :green_book: - Documentation change <sup>[1]</sup>
 :warning: - The merge commit status does **not** indicate success <sup>[2]</sup>
+:bell: - The last review was more than 12 days ago
 
 <sup>[1]</sup>: _closely_ matches the label
 <sup>[2]</sup>: only displayed when ready to merge` +
@@ -125,6 +135,32 @@ func PendingReview(token string, dryRun bool) error {
 	if err != nil {
 		fmt.Printf("Problem editing issue %v\n", err)
 		os.Exit(1)
+	}
+
+	return nil
+}
+
+func updateInReviewCount(context context.Context, client *pending_review.Client, count int) error {
+	fileContent, err := internal.GetDataFile(context, client, "review-count.json")
+	if err != nil {
+		return err
+	}
+
+	str, err := fileContent.GetContent()
+	if err != nil {
+		return err
+	}
+
+	var counts countInReview
+	if err := json.Unmarshal([]byte(str), &counts); err != nil {
+		return err
+	}
+
+	counts[time.Now()] = count
+
+	_, err = internal.UpdateJSONFile(context, client, "review-count.json", counts)
+	if err != nil {
+		return err
 	}
 
 	return nil

@@ -11,10 +11,19 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
-// UpdateDataFile commits the new content if it's different. It returns if the modification took place and any error encountered.
-func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) (bool, error) {
+func GetDataFile(context context.Context, client *pending_review.Client, file string) (*github.RepositoryContent, error) {
 	fileContent, _, _, err := client.Repositories.GetContents(context, "prince-chrismc", "conan-center-index-pending-review", file,
 		&github.RepositoryContentGetOptions{Ref: "raw-data"})
+	if err != nil {
+		return nil, err
+	}
+
+	return fileContent, nil
+}
+
+// UpdateDataFile commits the new content if it's different. It returns if the modification took place and any error encountered.
+func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) (bool, error) {
+	fileContent, err := GetDataFile(context, client, file)
 	if err != nil {
 		return false, err
 	}

@@ -25,6 +25,7 @@ const (
 type PullRequestSummary struct {
 	Number        int
 	OpenedBy      string
+	CreatedAt     time.Time
 	Recipe        string
 	Change        Category
 	ReviewURL     string
@@ -70,6 +71,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	p := &PullRequestSummary{
 		Number:        pr.GetNumber(),
 		OpenedBy:      pr.GetUser().GetLogin(),
+		CreatedAt:     pr.GetCreatedAt(),
 		ReviewURL:     pr.GetHTMLURL(),
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}
@@ -89,13 +91,12 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 
 	p.Summary = ProcessReviewComments(reviews, p.LastCommitSHA)
 
-	if p.Summary.Count < 1 { // Has not been looked at...
-		date, _, err := s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
-		if err != nil {
-			return nil, resp, err
-		}
-		p.LastCommitAt = date
+	p.LastCommitAt, _, err = s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
+	if err != nil {
+		return nil, resp, err
+	}
 
+	if p.Summary.Count < 1 { // Has not been looked at...
 		if isWithin24Hours(p.LastCommitAt) { // commited within 24hrs
 			return p, resp, nil // let's save it!
 		}

@@ -1,5 +1,14 @@
 package pending_review
 
+import "time"
+
+// Review contains teh essentials of a submission
+type Review struct {
+	ReviewerName string
+	SubmittedAt  time.Time
+	HTMLURL      string
+}
+
 // Reviews summarizes all the reviews of a given pull request
 type Reviews struct {
 	Count          int  // Total number of comments, requested changes, and approvals
@@ -8,6 +17,8 @@ type Reviews struct {
 
 	Approvals []string // List of users who have approved the pull request on the head commit
 	Blockers  []string // List of Conan team members who have requested changes on the head commit
+
+	LastReview *Review `json:",omitempty"` // Snapshot of the last review
 }
 
 // IsApproved when the conditions for merging are meet as per https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
@@ -20,6 +31,15 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) Reviews {
 	summary := Reviews{
 		Count:        len(reviews),
 		TeamApproval: false,
+	}
+
+	if len := len(reviews); len > 0 {
+		lastReview := reviews[len-1]
+		summary.LastReview = &Review{
+			ReviewerName: lastReview.GetUser().GetLogin(),
+			SubmittedAt:  lastReview.GetSubmittedAt(),
+			HTMLURL:      lastReview.GetHTMLURL(),
+		}
 	}
 
 	for _, review := range reviews {
