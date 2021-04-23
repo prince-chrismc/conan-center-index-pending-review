@@ -238,7 +238,7 @@
       "LastCommitAt": "2021-04-18T14:42:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 16,
+         "Count": 25,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -248,8 +248,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-04-23T13:09:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5246#pullrequestreview-643278569"
+            "SubmittedAt": "2021-04-23T13:53:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5246#pullrequestreview-643323060"
          }
       }
    },
@@ -354,6 +354,24 @@
             "SubmittedAt": "2021-04-23T12:21:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5291#pullrequestreview-643236665"
          }
+      }
+   },
+   {
+      "Number": 5292,
+      "OpenedBy": "tomas-krupa",
+      "CreatedAt": "2021-04-23T13:35:35Z",
+      "Recipe": "cajun-jsonapi",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5292",
+      "LastCommitSHA": "2cb24430f47679d0d7553c355ae21d3d69feff73",
+      "LastCommitAt": "2021-04-23T13:32:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
