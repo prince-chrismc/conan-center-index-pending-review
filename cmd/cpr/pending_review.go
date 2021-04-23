@@ -85,7 +85,11 @@ func PendingReview(token string, dryRun bool) error {
 			return nil // The published results are the same, no need to update the table.
 		}
 
-		updateInReviewCount(context, client, len(retval))
+		err = updateInReviewCount(context, client, len(retval))
+		if err != nil {
+			fmt.Printf("Problem updating 'review-count.json' %v\n", err)
+			os.Exit(1)
+		}
 	}
 
 	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
@@ -136,32 +140,30 @@ func PendingReview(token string, dryRun bool) error {
 	return nil
 }
 
-func updateInReviewCount(context context.Context, client *pending_review.Client, count int) {
+func updateInReviewCount(context context.Context, client *pending_review.Client, count int) error {
 	fileContent, err := internal.GetDataFile(context, client, "review-count.json")
 	if err != nil {
-		fmt.Printf("Problem updating 'review-count.json' %v\n", err)
-		os.Exit(1)
+		return err
 	}
 
 	str, err := fileContent.GetContent()
 	if err != nil {
-		fmt.Printf("Problem updating 'review-count.json' %v\n", err)
-		os.Exit(1)
+		return err
 	}
 
 	var counts countInReview
 	if err := json.Unmarshal([]byte(str), &counts); err != nil {
-		fmt.Printf("Problem updating 'review-count.json' %v\n", err)
-		os.Exit(1)
+		return err
 	}
 
 	counts[time.Now()] = count
 
 	_, err = internal.UpdateJSONFile(context, client, "review-count.json", counts)
 	if err != nil {
-		fmt.Printf("Problem updating 'review-count.json' %v\n", err)
-		os.Exit(1)
+		return err
 	}
+
+	return nil
 }
 
 func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats) {
