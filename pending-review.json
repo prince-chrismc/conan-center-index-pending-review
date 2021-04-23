@@ -529,24 +529,6 @@
       }
    },
    {
-      "Number": 5302,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2021-04-23T18:15:44Z",
-      "Recipe": "sqlite3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5302",
-      "LastCommitSHA": "57e8dfd0be74d483513d51ee00676c513382a413",
-      "LastCommitAt": "2021-04-23T18:14:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5303,
       "OpenedBy": "uilianries",
       "CreatedAt": "2021-04-23T18:18:36Z",
