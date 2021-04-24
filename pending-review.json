@@ -359,32 +359,6 @@
       }
    },
    {
-      "Number": 5294,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2021-04-23T15:04:07Z",
-      "Recipe": "jpeg-compressor",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5294",
-      "LastCommitSHA": "e0f0caa6cdadcedd21770dbddfffcd0d41858140",
-      "LastCommitAt": "2021-04-23T15:02:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-24T14:02:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5294#pullrequestreview-644035283"
-         }
-      }
-   },
-   {
       "Number": 5296,
       "OpenedBy": "uilianries",
       "CreatedAt": "2021-04-23T15:30:26Z",
