@@ -138,15 +138,17 @@
       "LastCommitAt": "2021-04-24T13:40:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ZombieRaccoon"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-04-23T13:02:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5146#pullrequestreview-643271689"
+            "ReviewerName": "ZombieRaccoon",
+            "SubmittedAt": "2021-04-25T06:15:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5146#pullrequestreview-644096408"
          }
       }
    },
