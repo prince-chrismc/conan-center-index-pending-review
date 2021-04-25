@@ -332,33 +332,6 @@
       }
    },
    {
-      "Number": 5293,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2021-04-23T14:32:11Z",
-      "Recipe": "easylzma",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5293",
-      "LastCommitSHA": "5657c11e7a980239bca91b1c0f396c16a46abf8b",
-      "LastCommitAt": "2021-04-23T15:05:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-24T13:59:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5293#pullrequestreview-644035093"
-         }
-      }
-   },
-   {
       "Number": 5294,
       "OpenedBy": "uilianries",
       "CreatedAt": "2021-04-23T15:04:07Z",
