@@ -25,7 +25,8 @@ func ReadyToMerge(prs []*pending_review.PullRequestSummary) string {
 
 Currently ` + breif + ` waiting to be merged :tada:
 
-PR | By | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | :---: | ---
+
+PR | By | Opened | Recipe | Reviews | :star2: Approvers
+:---: | --- | --- | --- | :---: | ---
 ` + tableBody
 }
