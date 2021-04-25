@@ -476,17 +476,18 @@
       "LastCommitAt": "2021-04-25T12:29:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-25T14:06:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5298#pullrequestreview-644144160"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-04-25T15:20:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5298#pullrequestreview-644151808"
          }
       }
    },
@@ -714,18 +715,19 @@
       "LastCommitAt": "2021-04-24T19:26:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 12,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "SpaceIm"
+            "SpaceIm",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-25T00:12:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5307#pullrequestreview-644076511"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-04-25T15:23:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5307#pullrequestreview-644152062"
          }
       }
    },
@@ -740,18 +742,44 @@
       "LastCommitAt": "2021-04-24T18:35:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-25T00:44:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5312#pullrequestreview-644077969"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-04-25T15:17:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5312#pullrequestreview-644151540"
+         }
+      }
+   },
+   {
+      "Number": 5313,
+      "OpenedBy": "spjuanjoc",
+      "CreatedAt": "2021-04-24T20:38:42Z",
+      "Recipe": "soci",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5313",
+      "LastCommitSHA": "4fcbee4ce10af8b4d21a1f06ee7aa82c96f91edd",
+      "LastCommitAt": "2021-04-24T21:17:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-04-25T15:16:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5313#pullrequestreview-644151414"
          }
       }
    },
@@ -766,17 +794,18 @@
       "LastCommitAt": "2021-04-25T07:35:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-25T14:11:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5314#pullrequestreview-644144588"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-04-25T15:16:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5314#pullrequestreview-644151358"
          }
       }
    },
@@ -789,13 +818,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5315",
       "LastCommitSHA": "2c2b5ec80b82fa005ced93ad639dc77f7de3e371",
       "LastCommitAt": "2021-04-25T14:15:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-04-25T15:15:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5315#pullrequestreview-644151261"
+         }
       }
    },
    {
@@ -807,13 +843,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5316",
       "LastCommitSHA": "1c2f52d30f21e2fed883509f1e1ba437856e1795",
       "LastCommitAt": "2021-04-25T14:51:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-04-25T15:14:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5316#pullrequestreview-644151199"
+         }
       }
    }
 ]
