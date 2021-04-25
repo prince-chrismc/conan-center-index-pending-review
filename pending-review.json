@@ -794,7 +794,7 @@
       "LastCommitAt": "2021-04-25T07:35:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -803,9 +803,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-04-25T15:16:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5314#pullrequestreview-644151358"
+            "ReviewerName": "ZombieRaccoon",
+            "SubmittedAt": "2021-04-25T16:27:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5314#pullrequestreview-644157853"
          }
       }
    },
