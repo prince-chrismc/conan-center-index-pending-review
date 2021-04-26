@@ -435,33 +435,6 @@
       }
    },
    {
-      "Number": 5307,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2021-04-24T08:22:35Z",
-      "Recipe": "libjpeg-turbo",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5307",
-      "LastCommitSHA": "86bf83649ad9bb7130f5c86e9fab158c75575bd3",
-      "LastCommitAt": "2021-04-24T19:26:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SpaceIm",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-04-25T15:23:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5307#pullrequestreview-644152062"
-         }
-      }
-   },
-   {
       "Number": 5312,
       "OpenedBy": "skannan89",
       "CreatedAt": "2021-04-24T18:37:54Z",
