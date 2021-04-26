@@ -88,17 +88,18 @@
       "LastCommitAt": "2021-04-24T14:18:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 9,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "rockdreamer"
+            "rockdreamer",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "rockdreamer",
-            "SubmittedAt": "2021-04-24T16:35:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5080#pullrequestreview-644047722"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-04-26T19:57:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5080#pullrequestreview-645064237"
          }
       }
    },
@@ -488,6 +489,31 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-04-26T09:03:11Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5316#pullrequestreview-644431525"
+         }
+      }
+   },
+   {
+      "Number": 5317,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-04-25T17:36:15Z",
+      "Recipe": "podofo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5317",
+      "LastCommitSHA": "2e5e19764efdfa89e8fbd3d60536aad81516a1b7",
+      "LastCommitAt": "2021-04-26T18:24:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-04-26T19:43:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5317#pullrequestreview-645053156"
          }
       }
    },
