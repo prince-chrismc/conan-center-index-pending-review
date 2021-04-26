@@ -435,33 +435,6 @@
       }
    },
    {
-      "Number": 5306,
-      "OpenedBy": "tt4g",
-      "CreatedAt": "2021-04-24T06:50:52Z",
-      "Recipe": "libpqxx",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5306",
-      "LastCommitSHA": "76691b915bf57d054779131340eeb0524eb0f168",
-      "LastCommitAt": "2021-04-24T06:45:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "theirix",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-24T14:28:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5306#pullrequestreview-644037541"
-         }
-      }
-   },
-   {
       "Number": 5307,
       "OpenedBy": "theirix",
       "CreatedAt": "2021-04-24T08:22:35Z",
