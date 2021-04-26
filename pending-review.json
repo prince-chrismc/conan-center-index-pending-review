@@ -281,32 +281,6 @@
       }
    },
    {
-      "Number": 5284,
-      "OpenedBy": "ChatPion",
-      "CreatedAt": "2021-04-22T08:41:45Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5284",
-      "LastCommitSHA": "1ed8c4132dbad0daffd399849ddc42751536d2da",
-      "LastCommitAt": "2021-04-22T08:36:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-23T02:54:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5284#pullrequestreview-642888090"
-         }
-      }
-   },
-   {
       "Number": 5292,
       "OpenedBy": "tomas-krupa",
       "CreatedAt": "2021-04-23T13:35:35Z",
@@ -419,18 +393,19 @@
       "LastCommitAt": "2021-04-23T18:14:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "prince-chrismc"
+            "prince-chrismc",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-24T14:25:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5302#pullrequestreview-644037249"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-04-26T09:05:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5302#pullrequestreview-644433523"
          }
       }
    },
