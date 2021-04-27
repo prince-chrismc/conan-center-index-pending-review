@@ -155,31 +155,6 @@
       }
    },
    {
-      "Number": 5264,
-      "OpenedBy": "tomas-krupa",
-      "CreatedAt": "2021-04-19T20:08:32Z",
-      "Recipe": "zlib-ng",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5264",
-      "LastCommitSHA": "4d06356285b5df42a3ebee17eb152bb574e1f96b",
-      "LastCommitAt": "2021-04-24T21:12:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-04-24T21:58:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5264#pullrequestreview-644069925"
-         }
-      }
-   },
-   {
       "Number": 5274,
       "OpenedBy": "rockdreamer",
       "CreatedAt": "2021-04-20T18:24:24Z",
