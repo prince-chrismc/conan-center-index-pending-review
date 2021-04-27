@@ -685,5 +685,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5337#pullrequestreview-645679885"
          }
       }
+   },
+   {
+      "Number": 5343,
+      "OpenedBy": "ruilvo",
+      "CreatedAt": "2021-04-27T11:53:28Z",
+      "Recipe": "miniaudio",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5343",
+      "LastCommitSHA": "8d13aa2042732e11138f0ad58576d4dae4c7065c",
+      "LastCommitAt": "2021-04-27T11:51:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
