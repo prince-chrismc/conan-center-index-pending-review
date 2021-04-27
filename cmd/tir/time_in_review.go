@@ -44,7 +44,8 @@ func TimeInReview(token string, dryRun bool) error {
 		Sort:  "created",
 		State: "closed",
 		ListOptions: github.ListOptions{
-			Page:    22, // Through browsing GitHub this is about where the meaningful data starts
+			// Through browsing GitHub this is about where the meaningful data starts
+			Page:    20,
 			PerPage: 100,
 		},
 	}
@@ -56,15 +57,15 @@ func TimeInReview(token string, dryRun bool) error {
 		}
 
 		for _, pull := range pulls {
-			// The 'community reviewers' was fully emplace on Sept 28th 2020, however it seems to have taken a little longer to see the effects
+			// The 'community reviewers' was fully emplace on Sept 28th 2020
 			// see https://github.com/conan-io/conan-center-index/issues/2857#issuecomment-696221003
-			if pull.GetCreatedAt().Before(time.Date(2020, time.October, 1, 0, 0, 0, 0, time.UTC)) {
+			if pull.GetClosedAt().Before(time.Date(2020, time.September, 28, 0, 0, 0, 0, time.UTC)) {
 				continue
 			}
 
 			merged := pull.GetMergedAt() != time.Time{} // `merged` is not returned when paging through the API - so calculate it
 			if merged {
-				fmt.Printf("#%4d was created at %s and merged at %s\n", pull.GetNumber(), pull.GetCreatedAt().String(), pull.GetMergedAt().String())
+				fmt.Printf("#%4d was closed at %s and merged at %s\n", pull.GetNumber(), pull.GetClosedAt().String(), pull.GetMergedAt().String())
 				tir[pull.GetMergedAt()] = pull.GetMergedAt().Sub(pull.GetCreatedAt())
 				mergedOn := pull.GetMergedAt().Truncate(time.Hour * 24)
 				currentCounter, found := cpd[mergedOn]
@@ -84,7 +85,13 @@ func TimeInReview(token string, dryRun bool) error {
 
 	fmt.Println("::endgroup")
 
+	graph := makeChart(tir, cpd)
+
 	if dryRun {
+		f, _ := os.Create("tir.png")
+		defer f.Close()
+		graph.Render(chart.PNG, f)
+
 		return nil
 	}
 
@@ -99,8 +106,6 @@ func TimeInReview(token string, dryRun bool) error {
 		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err)
 		os.Exit(1)
 	}
-
-	graph := makeChart(tir, cpd)
 	var b bytes.Buffer
 	graph.Render(chart.PNG, &b)
 
