@@ -19,7 +19,7 @@ func OnlyAcceptableLabels(labels []*pending_review.Label, stats *stats.Stats) bo
 				isDoc = true
 			case "stale":
 				stats.Stale++
-			case "Failed", "Unexpected Error":
+			case "Failed": // , "Unexpected Error" Are alway tagged failed
 				stats.Failed++
 			case "infrastructure", "blocked":
 				stats.Blocked++
