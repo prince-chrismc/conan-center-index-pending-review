@@ -182,31 +182,6 @@
       }
    },
    {
-      "Number": 5277,
-      "OpenedBy": "AJIOB",
-      "CreatedAt": "2021-04-21T06:22:19Z",
-      "Recipe": "sqlite3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5277",
-      "LastCommitSHA": "0bbf27f31e1cfcad47fbc59c78db9456bfeda1de",
-      "LastCommitAt": "2021-04-23T13:09:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 14,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "AJIOB",
-            "SubmittedAt": "2021-04-27T16:25:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5277#pullrequestreview-646100673"
-         }
-      }
-   },
-   {
       "Number": 5292,
       "OpenedBy": "tomas-krupa",
       "CreatedAt": "2021-04-23T13:35:35Z",
@@ -228,33 +203,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2021-04-27T14:07:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5292#pullrequestreview-645878545"
-         }
-      }
-   },
-   {
-      "Number": 5313,
-      "OpenedBy": "spjuanjoc",
-      "CreatedAt": "2021-04-24T20:38:42Z",
-      "Recipe": "soci",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5313",
-      "LastCommitSHA": "16c018ee321f786d72c20385674bfddc09ff73b0",
-      "LastCommitAt": "2021-04-26T15:29:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-04-27T14:11:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5313#pullrequestreview-645907015"
          }
       }
    },
