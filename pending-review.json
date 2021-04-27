@@ -669,38 +669,21 @@
       "LastCommitAt": "2021-04-26T21:18:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
             "prince-chrismc",
-            "SSE4"
+            "SSE4",
+            "a4z"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-04-27T04:23:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5337#pullrequestreview-645425970"
+            "ReviewerName": "a4z",
+            "SubmittedAt": "2021-04-27T10:11:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5337#pullrequestreview-645679885"
          }
-      }
-   },
-   {
-      "Number": 5341,
-      "OpenedBy": "igormironchik",
-      "CreatedAt": "2021-04-27T10:02:57Z",
-      "Recipe": "cfgfile",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5341",
-      "LastCommitSHA": "30efaf887970f112d30a9b23cecc30ff70017e16",
-      "LastCommitAt": "2021-04-27T08:16:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
