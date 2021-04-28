@@ -264,21 +264,22 @@
       "Recipe": "earcut",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5314",
-      "LastCommitSHA": "b053a3c51d04d5bfc587cbaf82f6c5f61166d841",
-      "LastCommitAt": "2021-04-27T16:32:23Z",
+      "LastCommitSHA": "22bd5554a47975541250bafb30c50c435bd47f35",
+      "LastCommitAt": "2021-04-28T16:22:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
+         "Count": 11,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
          "Approvals": [
-            "uilianries"
+            "SpaceIm",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-04-27T22:04:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5314#pullrequestreview-646397466"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-04-28T17:19:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5314#pullrequestreview-647329534"
          }
       }
    },
@@ -375,8 +376,8 @@
       "Recipe": "libcurl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5356",
-      "LastCommitSHA": "1ba8051afbf1d858d52e3eed57de1a48db654f77",
-      "LastCommitAt": "2021-04-28T15:57:10Z",
+      "LastCommitSHA": "bc066da7ea16feb5c925cad4ba2539e360be4503",
+      "LastCommitAt": "2021-04-28T16:37:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -438,7 +439,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5360",
       "LastCommitSHA": "8a09ebe8f26a6bdff86c60bd88c89c78b50580b1",
       "LastCommitAt": "2021-04-28T15:39:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
