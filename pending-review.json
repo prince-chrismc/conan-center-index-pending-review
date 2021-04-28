@@ -334,24 +334,6 @@
       }
    },
    {
-      "Number": 5349,
-      "OpenedBy": "igormironchik",
-      "CreatedAt": "2021-04-27T18:11:08Z",
-      "Recipe": "cfgfile",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5349",
-      "LastCommitSHA": "03001814a0f4cf67f68eba5f05b4951b80ae8035",
-      "LastCommitAt": "2021-04-27T18:09:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5354,
       "OpenedBy": "voidbar",
       "CreatedAt": "2021-04-28T06:17:52Z",
