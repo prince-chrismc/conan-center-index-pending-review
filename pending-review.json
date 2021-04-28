@@ -284,34 +284,6 @@
       }
    },
    {
-      "Number": 5337,
-      "OpenedBy": "jothepro",
-      "CreatedAt": "2021-04-26T21:21:07Z",
-      "Recipe": "djinni-generator",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5337",
-      "LastCommitSHA": "72ec09ecdd199dff27210830e5d41d7b020f3fcb",
-      "LastCommitAt": "2021-04-26T21:18:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "SSE4",
-            "a4z"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "a4z",
-            "SubmittedAt": "2021-04-27T10:11:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5337#pullrequestreview-645679885"
-         }
-      }
-   },
-   {
       "Number": 5343,
       "OpenedBy": "ruilvo",
       "CreatedAt": "2021-04-27T11:53:28Z",
