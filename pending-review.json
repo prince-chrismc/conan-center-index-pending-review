@@ -157,33 +157,6 @@
       }
    },
    {
-      "Number": 5238,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-04-16T08:11:59Z",
-      "Recipe": "freeglut",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5238",
-      "LastCommitSHA": "00a6463001f13a225d72b0b033f76d2eacdebe5c",
-      "LastCommitAt": "2021-04-27T08:02:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 31,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-04-29T08:19:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5238#pullrequestreview-647930164"
-         }
-      }
-   },
-   {
       "Number": 5277,
       "OpenedBy": "AJIOB",
       "CreatedAt": "2021-04-21T06:22:19Z",
@@ -370,19 +343,20 @@
       "LastCommitAt": "2021-04-28T15:39:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "a4z",
             "ericLemanissier",
-            "SSE4"
+            "SSE4",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-04-29T08:58:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5360#pullrequestreview-647966492"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-04-29T10:51:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5360#pullrequestreview-648063928"
          }
       }
    }
