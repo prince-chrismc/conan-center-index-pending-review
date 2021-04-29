@@ -26,31 +26,6 @@
       }
    },
    {
-      "Number": 4666,
-      "OpenedBy": "fcelda",
-      "CreatedAt": "2021-02-24T10:37:49Z",
-      "Recipe": "libmaxminddb",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4666",
-      "LastCommitSHA": "1f622f896e65401cf9655ac5597016a1e407f83a",
-      "LastCommitAt": "2021-02-24T10:19:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "mathbunnyru"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "mathbunnyru",
-            "SubmittedAt": "2021-04-28T21:46:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4666#pullrequestreview-647667192"
-         }
-      }
-   },
-   {
       "Number": 5080,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-03-28T16:35:05Z",
@@ -153,33 +128,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-04-27T06:30:11Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5220#pullrequestreview-645481366"
-         }
-      }
-   },
-   {
-      "Number": 5277,
-      "OpenedBy": "AJIOB",
-      "CreatedAt": "2021-04-21T06:22:19Z",
-      "Recipe": "sqlite3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5277",
-      "LastCommitSHA": "b3bcfb46a16efb43d1fa3a2b3ef5f9d2e0c4a08b",
-      "LastCommitAt": "2021-04-27T18:26:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 18,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-04-29T08:20:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5277#pullrequestreview-647931469"
          }
       }
    },
