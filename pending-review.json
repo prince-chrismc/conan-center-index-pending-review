@@ -330,13 +330,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5374",
       "LastCommitSHA": "334048abcc539710218bac3f3899cb3fb7f286a0",
       "LastCommitAt": "2021-04-30T10:03:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-04-30T17:27:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5374#pullrequestreview-649432307"
+         }
       }
    },
    {
@@ -348,24 +355,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5376",
       "LastCommitSHA": "60e3139808b9699955e59626b4a4d2a6c8292b00",
       "LastCommitAt": "2021-04-30T13:18:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5381,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-04-30T16:16:09Z",
-      "Recipe": "libtool",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5381",
-      "LastCommitSHA": "9c0dd08de3aad747298683a0b75d41e80fb80545",
-      "LastCommitAt": "2021-04-30T16:07:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
