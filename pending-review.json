@@ -10,17 +10,18 @@
       "LastCommitAt": "2021-02-24T10:19:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 1,
+         "Count": 12,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "mathbunnyru"
+            "mathbunnyru",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "mathbunnyru",
-            "SubmittedAt": "2021-04-29T19:31:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4666#pullrequestreview-648578400"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-04-30T00:10:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4666#pullrequestreview-648772232"
          }
       }
    },
@@ -211,17 +212,18 @@
       "LastCommitAt": "2021-04-28T08:28:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-04-28T15:57:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5339#pullrequestreview-647247954"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-04-30T00:13:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5339#pullrequestreview-648773112"
          }
       }
    },
