@@ -91,22 +91,22 @@ func makeChart(tir timeInReview, cpd closedPerDay) chart.Chart {
 		YValues: closedCountValues(cpd, sortedTime),
 	}
 
-	padding := chart.Style{Padding: chart.Box{Left: 175}}
 	graph := chart.Chart{
-		Background: padding,
-		Title:      "Time Spent in Review",
-		TitleStyle: padding,
+		Background: chart.Style{Padding: chart.Box{Top: 25, Left: 20}},
 		XAxis: chart.XAxis{
 			Name: "Closed At",
 		},
 		YAxis: chart.YAxis{
-			Name: "Days until Merged",
-			ValueFormatter: func(v interface{}) string {
-				if vf, isFloat := v.(float64); isFloat {
-					vi := int64(vf)
-					return fmt.Sprintf("%d", vi)
-				}
-				return ""
+			Name: "Days",
+			Ticks: []chart.Tick{
+				{Value: 0.0, Label: "0"},
+				{Value: 7.0, Label: "7"},
+				{Value: 15.0, Label: "15"},
+				{Value: 30.0, Label: "30"},
+				{Value: 45.0, Label: "45"},
+				{Value: 60.0, Label: "60"},
+				{Value: 75.0, Label: "75"},
+				{Value: 90.0, Label: "90"},
 			},
 			GridMajorStyle: chart.Style{
 				StrokeColor:     chart.ColorAlternateGray,
@@ -114,13 +114,14 @@ func makeChart(tir timeInReview, cpd closedPerDay) chart.Chart {
 				StrokeDashArray: []float64{10.0, 25.0},
 			},
 			GridLines: []chart.GridLine{
+				{Value: 7},
 				{Value: 15},
 				{Value: 30},
 				{Value: 60},
 			},
 		},
 		YAxisSecondary: chart.YAxis{
-			Name: "PRs Merged",
+			Name: "Pull Requests",
 			ValueFormatter: func(v interface{}) string {
 				if vf, isFloat := v.(float64); isFloat {
 					return fmt.Sprintf("%.1f", vf)
@@ -136,7 +137,7 @@ func makeChart(tir timeInReview, cpd closedPerDay) chart.Chart {
 		},
 	}
 	graph.Elements = []chart.Renderable{
-		chart.LegendLeft(&graph),
+		chart.LegendThin(&graph),
 	}
 
 	return graph
