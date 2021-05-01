@@ -433,6 +433,24 @@
       }
    },
    {
+      "Number": 5387,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-05-01T01:36:31Z",
+      "Recipe": "ncurses",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5387",
+      "LastCommitSHA": "90df3cb72ec85584c8ed3b6b22f7ec38980dd0e0",
+      "LastCommitAt": "2021-05-01T01:58:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5388,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-05-01T01:37:11Z",
