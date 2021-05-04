@@ -241,17 +241,18 @@
       "LastCommitAt": "2021-04-28T06:13:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 1,
+         "Count": 12,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "mathbunnyru"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-05-04T15:52:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5354#pullrequestreview-651400296"
+            "ReviewerName": "mathbunnyru",
+            "SubmittedAt": "2021-05-04T22:21:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5354#pullrequestreview-651719336"
          }
       }
    },
