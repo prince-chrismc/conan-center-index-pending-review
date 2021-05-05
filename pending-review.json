@@ -387,17 +387,18 @@
       "LastCommitAt": "2021-05-04T09:17:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "andioz"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-05-04T10:51:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5422#pullrequestreview-651107377"
+            "ReviewerName": "andioz",
+            "SubmittedAt": "2021-05-05T08:29:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5422#pullrequestreview-652047540"
          }
       }
    },
@@ -509,6 +510,31 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-05-05T06:55:28Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5431#pullrequestreview-651976533"
+         }
+      }
+   },
+   {
+      "Number": 5435,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-05-05T08:58:50Z",
+      "Recipe": "opencl-headers",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5435",
+      "LastCommitSHA": "67a468fdc6917fa7d83901da1c5b5f6c63004f32",
+      "LastCommitAt": "2021-05-05T06:40:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-05-05T09:15:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5435#pullrequestreview-652089421"
          }
       }
    }
