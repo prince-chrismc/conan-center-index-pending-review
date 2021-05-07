@@ -115,7 +115,7 @@
       "LastCommitAt": "2021-05-07T00:03:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -123,9 +123,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "mathbunnyru",
-            "SubmittedAt": "2021-05-07T00:04:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5321#pullrequestreview-653984218"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-05-07T12:10:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5321#pullrequestreview-654387733"
          }
       }
    },
@@ -332,17 +332,18 @@
       "LastCommitAt": "2021-05-06T18:32:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "mathbunnyru"
+            "mathbunnyru",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "mathbunnyru",
-            "SubmittedAt": "2021-05-07T00:16:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5459#pullrequestreview-653988718"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-05-07T12:15:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5459#pullrequestreview-654391447"
          }
       }
    },
