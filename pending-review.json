@@ -133,24 +133,6 @@
       }
    },
    {
-      "Number": 5376,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-04-30T13:42:07Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5376",
-      "LastCommitSHA": "40f6b5285bd4e0e07d2b94ce828d7e26bb852985",
-      "LastCommitAt": "2021-05-07T08:44:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5383,
       "OpenedBy": "jakecobb",
       "CreatedAt": "2021-04-30T18:41:27Z",
@@ -285,13 +267,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5478",
       "LastCommitSHA": "41edb5df544fd514813b9eabbca717ed5e762b65",
       "LastCommitAt": "2021-05-08T01:12:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-05-08T08:38:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5478#pullrequestreview-654973308"
+         }
       }
    }
 ]
