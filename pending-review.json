@@ -176,24 +176,6 @@
       }
    },
    {
-      "Number": 5420,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-05-03T23:51:36Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5420",
-      "LastCommitSHA": "8a1f39b8edc36eb48a49b62e840ed71e879d4903",
-      "LastCommitAt": "2021-05-07T00:55:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5425,
       "OpenedBy": "uilianries",
       "CreatedAt": "2021-05-04T16:54:46Z",
@@ -318,6 +300,31 @@
             "ReviewerName": "a4z",
             "SubmittedAt": "2021-05-07T20:38:01Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5475#pullrequestreview-654848391"
+         }
+      }
+   },
+   {
+      "Number": 5477,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-05-07T22:14:00Z",
+      "Recipe": "xapian-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5477",
+      "LastCommitSHA": "50af4ca36bf41e3aceebc97753e98c5a73e8939f",
+      "LastCommitAt": "2021-05-07T23:11:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 8,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-05-08T00:45:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5477#pullrequestreview-654936725"
          }
       }
    }
