@@ -133,31 +133,6 @@
       }
    },
    {
-      "Number": 5376,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-04-30T13:42:07Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5376",
-      "LastCommitSHA": "40f6b5285bd4e0e07d2b94ce828d7e26bb852985",
-      "LastCommitAt": "2021-05-07T08:44:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-05-09T02:37:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5376#pullrequestreview-655035512"
-         }
-      }
-   },
-   {
       "Number": 5382,
       "OpenedBy": "mpusz",
       "CreatedAt": "2021-04-30T17:54:56Z",
@@ -254,32 +229,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-05-09T02:39:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5465#pullrequestreview-655035592"
-         }
-      }
-   },
-   {
-      "Number": 5477,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-05-07T22:14:00Z",
-      "Recipe": "xapian-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5477",
-      "LastCommitSHA": "50af4ca36bf41e3aceebc97753e98c5a73e8939f",
-      "LastCommitAt": "2021-05-07T23:11:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-05-08T17:27:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5477#pullrequestreview-655008896"
          }
       }
    },
