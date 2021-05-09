@@ -39,7 +39,7 @@
       "LastCommitAt": "2021-04-26T20:38:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 6,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -48,9 +48,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "mathbunnyru",
-            "SubmittedAt": "2021-05-06T14:35:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5220#pullrequestreview-653499205"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-05-09T13:38:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5220#pullrequestreview-655079589"
          }
       }
    },
