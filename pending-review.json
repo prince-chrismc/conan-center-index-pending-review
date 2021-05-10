@@ -115,17 +115,18 @@
       "LastCommitAt": "2021-05-10T05:59:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 12,
-         "ValidApprovals": 1,
+         "Count": 13,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb"
+            "danimtb",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-05-10T09:16:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5292#pullrequestreview-655428484"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-05-10T10:28:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5292#pullrequestreview-655489628"
          }
       }
    },
