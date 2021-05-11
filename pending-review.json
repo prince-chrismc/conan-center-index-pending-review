@@ -365,8 +365,8 @@
       "Recipe": "uri-template",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5506",
-      "LastCommitSHA": "46a93d65ec48f6d68e71c797d3eda22caba6afe6",
-      "LastCommitAt": "2021-05-11T09:28:50Z",
+      "LastCommitSHA": "412a6dc92bd0198129dff7f55634f7b7d830e8fa",
+      "LastCommitAt": "2021-05-11T10:21:33Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
