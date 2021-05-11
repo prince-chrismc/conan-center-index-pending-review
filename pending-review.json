@@ -1,31 +1,5 @@
 [
    {
-      "Number": 5234,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-04-15T19:22:26Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5234",
-      "LastCommitSHA": "7ed2f09d7fbea856ef615c23644887a72944d662",
-      "LastCommitAt": "2021-05-06T16:39:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-05-10T12:40:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5234#pullrequestreview-655595775"
-         }
-      }
-   },
-   {
       "Number": 5251,
       "OpenedBy": "grafikrobot",
       "CreatedAt": "2021-04-17T15:03:00Z",
@@ -382,6 +356,24 @@
             "SubmittedAt": "2021-05-10T15:52:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5500#pullrequestreview-655806571"
          }
+      }
+   },
+   {
+      "Number": 5506,
+      "OpenedBy": "i-vovk",
+      "CreatedAt": "2021-05-10T17:01:38Z",
+      "Recipe": "uri-template",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5506",
+      "LastCommitSHA": "46a93d65ec48f6d68e71c797d3eda22caba6afe6",
+      "LastCommitAt": "2021-05-11T09:28:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
