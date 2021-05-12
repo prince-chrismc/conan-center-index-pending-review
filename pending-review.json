@@ -154,33 +154,6 @@
       }
    },
    {
-      "Number": 5506,
-      "OpenedBy": "i-vovk",
-      "CreatedAt": "2021-05-10T17:01:38Z",
-      "Recipe": "tcsbank-uri-template",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5506",
-      "LastCommitSHA": "032bcf2cb20885badc14043e45614f51872d9a81",
-      "LastCommitAt": "2021-05-12T06:08:12Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-05-12T15:55:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5506#pullrequestreview-658071798"
-         }
-      }
-   },
-   {
       "Number": 5510,
       "OpenedBy": "GavinNL",
       "CreatedAt": "2021-05-10T21:07:22Z",
@@ -297,33 +270,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-05-12T15:54:21Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5519#pullrequestreview-658070485"
-         }
-      }
-   },
-   {
-      "Number": 5520,
-      "OpenedBy": "mpusz",
-      "CreatedAt": "2021-05-12T12:48:24Z",
-      "Recipe": "mp-units",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5520",
-      "LastCommitSHA": "a729cc44061b92e83e22b8ed708b804793579713",
-      "LastCommitAt": "2021-05-11T20:09:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "jgsogo",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-05-12T15:53:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5520#pullrequestreview-658069990"
          }
       }
    }
