@@ -27,24 +27,6 @@
       }
    },
    {
-      "Number": 5085,
-      "OpenedBy": "jmarrec",
-      "CreatedAt": "2021-03-29T12:49:01Z",
-      "Recipe": "libffi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5085",
-      "LastCommitSHA": "69752cce26db00feaf2a58ef3987577a437669cb",
-      "LastCommitAt": "2021-05-12T12:07:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5420,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-05-03T23:51:36Z",
@@ -172,33 +154,6 @@
       }
    },
    {
-      "Number": 5505,
-      "OpenedBy": "i-vovk",
-      "CreatedAt": "2021-05-10T16:35:48Z",
-      "Recipe": "tcsbank-uconfig",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5505",
-      "LastCommitSHA": "2df2d434148c27f7cb125dfc97a070d0b70e8c63",
-      "LastCommitAt": "2021-05-12T06:02:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 13,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "czoido",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-05-12T09:03:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5505#pullrequestreview-657642034"
-         }
-      }
-   },
-   {
       "Number": 5506,
       "OpenedBy": "i-vovk",
       "CreatedAt": "2021-05-10T17:01:38Z",
@@ -313,33 +268,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-05-12T08:49:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5514#pullrequestreview-657627992"
-         }
-      }
-   },
-   {
-      "Number": 5516,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-05-11T15:42:45Z",
-      "Recipe": "gsoap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5516",
-      "LastCommitSHA": "72a028a899a2686abd67a40e422d9b8aaa514fd5",
-      "LastCommitAt": "2021-05-11T15:38:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "ericLemanissier",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-05-12T08:37:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5516#pullrequestreview-657615806"
          }
       }
    },
