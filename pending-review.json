@@ -327,23 +327,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 5525,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-05-14T08:22:04Z",
-      "Recipe": "mp-units",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5525",
-      "LastCommitSHA": "ef1c18c4553f74108bd023c49a84d7d639e518e1",
-      "LastCommitAt": "2021-05-14T08:16:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
