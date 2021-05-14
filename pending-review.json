@@ -54,32 +54,6 @@
       }
    },
    {
-      "Number": 5178,
-      "OpenedBy": "mdavezac",
-      "CreatedAt": "2021-04-10T15:09:40Z",
-      "Recipe": "astro-informatics-so3",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5178",
-      "LastCommitSHA": "8da86eb26d0d0e0cabab34f9f2967d62b6dc68d3",
-      "LastCommitAt": "2021-05-13T20:35:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 19,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc",
-            "czoido"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2021-05-14T13:31:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5178#pullrequestreview-659841448"
-         }
-      }
-   },
-   {
       "Number": 5318,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-04-25T17:59:04Z",
