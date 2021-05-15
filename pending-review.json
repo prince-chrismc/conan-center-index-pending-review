@@ -295,18 +295,62 @@
       "LastCommitAt": "2021-05-15T03:02:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-05-15T06:28:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5530#pullrequestreview-660312082"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-05-15T08:21:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5530#pullrequestreview-660319250"
          }
+      }
+   },
+   {
+      "Number": 5531,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2021-05-14T16:28:06Z",
+      "Recipe": "cfgfile",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5531",
+      "LastCommitSHA": "926c020308ea2b62f9397f3a95be03a075606d27",
+      "LastCommitAt": "2021-05-15T03:47:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-05-15T08:21:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5531#pullrequestreview-660319223"
+         }
+      }
+   },
+   {
+      "Number": 5534,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-05-15T08:56:02Z",
+      "Recipe": "zstd",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5534",
+      "LastCommitSHA": "c6d138feeb99b2bf53a0024fd873054f35bd79e3",
+      "LastCommitAt": "2021-05-15T08:55:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
