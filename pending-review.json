@@ -258,32 +258,6 @@
       }
    },
    {
-      "Number": 5526,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2021-05-14T09:31:35Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5526",
-      "LastCommitSHA": "c77fdc5c2a84fe2a45cdcd759bb8f1d216dcbbbb",
-      "LastCommitAt": "2021-05-14T09:30:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-05-14T10:13:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5526#pullrequestreview-659706881"
-         }
-      }
-   },
-   {
       "Number": 5529,
       "OpenedBy": "ngrodzitski",
       "CreatedAt": "2021-05-14T15:20:27Z",
@@ -294,17 +268,18 @@
       "LastCommitAt": "2021-05-14T15:37:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "LHLaurini"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-05-14T15:44:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5529#pullrequestreview-659967715"
+            "ReviewerName": "LHLaurini",
+            "SubmittedAt": "2021-05-15T02:29:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5529#pullrequestreview-660298263"
          }
       }
    },
@@ -315,16 +290,14 @@
       "Recipe": "docs",
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5530",
-      "LastCommitSHA": "24f6a6292547db50b87e9679ea89fb4443a65d4a",
-      "LastCommitAt": "2021-05-14T16:02:56Z",
+      "LastCommitSHA": "b0973453e1d330bfc840c04e8d9a434fff94e909",
+      "LastCommitAt": "2021-05-15T03:02:15Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
