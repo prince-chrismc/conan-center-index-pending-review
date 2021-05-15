@@ -284,6 +284,24 @@
       }
    },
    {
+      "Number": 5524,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-05-13T22:49:37Z",
+      "Recipe": "sentry-native",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5524",
+      "LastCommitSHA": "9aac11adff9e146069a06136b97ca7810e294f9a",
+      "LastCommitAt": "2021-05-15T16:46:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5529,
       "OpenedBy": "ngrodzitski",
       "CreatedAt": "2021-05-14T15:20:27Z",
