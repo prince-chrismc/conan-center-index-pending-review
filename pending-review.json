@@ -406,5 +406,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 5537,
+      "OpenedBy": "axalon900",
+      "CreatedAt": "2021-05-16T18:46:12Z",
+      "Recipe": "ctre",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5537",
+      "LastCommitSHA": "a8a5d754723a729efdcb6945e58c3b5378ab50aa",
+      "LastCommitAt": "2021-05-16T12:50:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
