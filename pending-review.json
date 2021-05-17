@@ -90,17 +90,18 @@
       "LastCommitAt": "2021-05-07T00:55:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 11,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-05-17T08:37:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5420#pullrequestreview-660708117"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-05-17T13:16:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5420#pullrequestreview-660952549"
          }
       }
    },
@@ -204,6 +205,24 @@
             "SubmittedAt": "2021-05-17T09:05:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5539#pullrequestreview-660734753"
          }
+      }
+   },
+   {
+      "Number": 5544,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2021-05-17T12:02:23Z",
+      "Recipe": "libharu",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5544",
+      "LastCommitSHA": "5d50980b51624477dabb9db72d11e40a540f9129",
+      "LastCommitAt": "2021-05-17T12:12:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
