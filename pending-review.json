@@ -64,7 +64,7 @@
       "LastCommitAt": "2021-05-07T13:51:27Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 17,
+         "Count": 18,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -73,9 +73,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-05-17T09:26:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5257#pullrequestreview-660754829"
+            "ReviewerName": "AlvaroFS",
+            "SubmittedAt": "2021-05-17T15:30:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5257#pullrequestreview-661111707"
          }
       }
    },
@@ -216,24 +216,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5544",
       "LastCommitSHA": "5d50980b51624477dabb9db72d11e40a540f9129",
       "LastCommitAt": "2021-05-17T12:12:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5547,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-05-17T14:16:28Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5547",
-      "LastCommitSHA": "54b052071d062a5099180481bd340ca42a110b52",
-      "LastCommitAt": "2021-05-17T14:14:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
