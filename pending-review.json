@@ -54,6 +54,33 @@
       }
    },
    {
+      "Number": 4838,
+      "OpenedBy": "vaerizk",
+      "CreatedAt": "2021-03-11T00:13:20Z",
+      "Recipe": "qtxlsxwriter",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4838",
+      "LastCommitSHA": "3bf683f258b5fd6056c397bf25113256d6392f94",
+      "LastCommitAt": "2021-05-17T18:35:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 25,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": [
+            "jgsogo"
+         ],
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-05-17T18:56:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4838#pullrequestreview-661304522"
+         }
+      }
+   },
+   {
       "Number": 5257,
       "OpenedBy": "AlvaroFS",
       "CreatedAt": "2021-04-18T12:54:03Z",
