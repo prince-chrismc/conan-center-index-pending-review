@@ -64,7 +64,7 @@
       "LastCommitAt": "2021-05-17T18:35:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 25,
+         "Count": 26,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -74,9 +74,9 @@
             "jgsogo"
          ],
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-05-17T18:56:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4838#pullrequestreview-661304522"
+            "ReviewerName": "vaerizk",
+            "SubmittedAt": "2021-05-17T21:46:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4838#pullrequestreview-661451841"
          }
       }
    },
