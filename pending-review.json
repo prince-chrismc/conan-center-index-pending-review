@@ -37,19 +37,18 @@
       "LastCommitAt": "2021-05-11T21:46:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 37,
-         "ValidApprovals": 1,
+         "Count": 38,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb"
-         ],
-         "Blockers": [
+            "danimtb",
             "jgsogo"
          ],
+         "Blockers": [],
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-05-13T14:40:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4630#pullrequestreview-658974724"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-05-18T10:28:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4630#pullrequestreview-661909272"
          }
       }
    },
@@ -250,14 +249,14 @@
       }
    },
    {
-      "Number": 5552,
-      "OpenedBy": "wdobbe",
-      "CreatedAt": "2021-05-18T09:42:31Z",
-      "Recipe": "qt",
+      "Number": 5553,
+      "OpenedBy": "lieser",
+      "CreatedAt": "2021-05-18T10:42:06Z",
+      "Recipe": "boost",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5552",
-      "LastCommitSHA": "98296f3506abaa294bff194b8b7bd3bd7af2f27f",
-      "LastCommitAt": "2021-05-18T09:30:14Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5553",
+      "LastCommitSHA": "e3d49e4dfdc7da03750f993cf16322b50abb178e",
+      "LastCommitAt": "2021-05-18T09:53:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
