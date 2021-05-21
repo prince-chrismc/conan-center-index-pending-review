@@ -213,5 +213,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 5590,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-05-21T01:41:53Z",
+      "Recipe": "libtiff",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5590",
+      "LastCommitSHA": "c1552c43777d18736f3e45294b8e9de5602e776e",
+      "LastCommitAt": "2021-05-21T01:40:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
