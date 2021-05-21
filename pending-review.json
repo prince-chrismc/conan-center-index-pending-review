@@ -296,5 +296,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5590#pullrequestreview-665111363"
          }
       }
+   },
+   {
+      "Number": 5592,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-05-21T10:55:00Z",
+      "Recipe": "cairo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5592",
+      "LastCommitSHA": "77d790024021539099a912c8d50a2a513c7b0e48",
+      "LastCommitAt": "2021-05-21T11:20:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
