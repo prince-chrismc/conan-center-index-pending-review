@@ -379,5 +379,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 5598,
+      "OpenedBy": "shiena",
+      "CreatedAt": "2021-05-21T17:56:12Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5598",
+      "LastCommitSHA": "d9b44ba54339c6270663a00a105fb9cdb1937b48",
+      "LastCommitAt": "2021-05-21T17:51:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5599,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-05-21T17:58:41Z",
+      "Recipe": "libsafec",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5599",
+      "LastCommitSHA": "fa49e945475cadc412b7e1b1802ced804350feaf",
+      "LastCommitAt": "2021-05-21T17:53:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
