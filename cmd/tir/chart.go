@@ -72,12 +72,12 @@ func makeChart(tir timeInReview, cpd closedPerDay) chart.Chart {
 	}
 
 	smaSeries := &chart.SMASeries{
-		Name: "Moving average of time",
+		Name: "Moving average",
 		Style: chart.Style{
 			StrokeColor: drawing.ColorRed,
 		},
 		InnerSeries: mainSeries,
-		Period:      50,
+		Period:      75,
 	}
 
 	sortedTime := closedKeys(cpd)
