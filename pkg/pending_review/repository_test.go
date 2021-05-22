@@ -9,7 +9,7 @@ import (
 	gock "gopkg.in/h2non/gock.v1"
 )
 
-func TestSomething(t *testing.T) {
+func TestGetRepositorySummary(t *testing.T) {
 	defer gock.Off()
 
 	gock.New("https://api.github.com").
@@ -141,10 +141,10 @@ func TestSomething(t *testing.T) {
 
 	repository, res, err := NewClient(&http.Client{}).Repository.GetSummary(context.Background(), "conan-io", "conan-center-index")
 
-	assert.Equal(t, err, nil)
-	assert.Equal(t, res.StatusCode, 200)
+	assert.Equal(t, nil, err)
+	assert.Equal(t, 200, res.StatusCode)
 
-	assert.Equal(t, repository, &RepositorySumarry{Name: "conan-center-index", Owner: "conan-io", FullName: "conan-io/conan-center-index", Description: "Recipes for the ConanCenter repository", StarsCount: 304, ForksCount: 440, OpenIssuesCount: 549})
+	assert.Equal(t, &RepositorySumarry{Name: "conan-center-index", Owner: "conan-io", FullName: "conan-io/conan-center-index", Description: "Recipes for the ConanCenter repository", StarsCount: 304, ForksCount: 440, OpenIssuesCount: 549}, repository)
 
-	assert.Equal(t, gock.IsDone(), true)
+	assert.Equal(t, true, gock.IsDone())
 }

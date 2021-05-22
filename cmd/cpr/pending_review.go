@@ -2,7 +2,6 @@ package main
 
 import (
 	"context"
-	"encoding/json"
 	"errors"
 	"fmt"
 	"os"
@@ -16,8 +15,6 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"golang.org/x/oauth2"
 )
-
-type countInReview map[time.Time]int
 
 // PendingReview analysis of open pull requests
 func PendingReview(token string, dryRun bool) error {
@@ -85,9 +82,15 @@ func PendingReview(token string, dryRun bool) error {
 			return nil // The published results are the same, no need to update the table.
 		}
 
-		err = updateInReviewCount(context, client, len(retval))
+		err = updateCountFile(context, client, "review-count.json", len(retval))
 		if err != nil {
 			fmt.Printf("Problem updating 'review-count.json' %v\n", err)
+			os.Exit(1)
+		}
+
+		err = updateCountFile(context, client, "open-count.json", stats.Open)
+		if err != nil {
+			fmt.Printf("Problem updating 'open-count.json' %v\n", err)
 			os.Exit(1)
 		}
 	}
@@ -140,25 +143,16 @@ func PendingReview(token string, dryRun bool) error {
 	return nil
 }
 
-func updateInReviewCount(context context.Context, client *pending_review.Client, count int) error {
-	fileContent, err := internal.GetDataFile(context, client, "review-count.json")
+func updateCountFile(context context.Context, client *pending_review.Client, file string, count int) error {
+	counts := stats.CountAtTime{}
+	err := internal.GetJSONFile(context, client, file, &counts)
 	if err != nil {
 		return err
 	}
 
-	str, err := fileContent.GetContent()
-	if err != nil {
-		return err
-	}
+	counts.AddNow(count)
 
-	var counts countInReview
-	if err := json.Unmarshal([]byte(str), &counts); err != nil {
-		return err
-	}
-
-	counts[time.Now()] = count
-
-	_, err = internal.UpdateJSONFile(context, client, "review-count.json", counts)
+	_, err = internal.UpdateJSONFile(context, client, file, counts)
 	if err != nil {
 		return err
 	}

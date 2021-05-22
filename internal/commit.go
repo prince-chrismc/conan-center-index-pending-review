@@ -21,6 +21,24 @@ func GetDataFile(context context.Context, client *pending_review.Client, file st
 	return fileContent, nil
 }
 
+func GetJSONFile(context context.Context, client *pending_review.Client, file string, content interface{}) error {
+	fileContent, err := GetDataFile(context, client, file)
+	if err != nil {
+		return err
+	}
+
+	str, err := fileContent.GetContent()
+	if err != nil {
+		return err
+	}
+
+	if err := json.Unmarshal([]byte(str), content); err != nil {
+		return err
+	}
+
+	return nil
+}
+
 // UpdateDataFile commits the new content if it's different. It returns if the modification took place and any error encountered.
 func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) (bool, error) {
 	fileContent, err := GetDataFile(context, client, file)
