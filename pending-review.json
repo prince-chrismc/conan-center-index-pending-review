@@ -252,20 +252,23 @@
       "LastCommitAt": "2021-05-23T21:51:57Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 7,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             "alex-176",
             "pmakaragc",
             "ShmuelFine",
-            "yossavi"
+            "yossavi",
+            "ctc-santanaa",
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "yossavi",
-            "SubmittedAt": "2021-05-24T15:11:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5609#pullrequestreview-666858359"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-05-24T17:33:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5609#pullrequestreview-667000515"
          }
       }
    },
@@ -280,18 +283,19 @@
       "LastCommitAt": "2021-05-24T14:26:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "danimtb",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-05-24T15:02:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5614#pullrequestreview-666850200"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-05-24T17:29:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5614#pullrequestreview-666997969"
          }
       }
    },
