@@ -120,19 +120,20 @@
       "LastCommitAt": "2021-05-21T23:19:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
+         "Count": 9,
+         "ValidApprovals": 4,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
             "danimtb",
-            "uilianries"
+            "uilianries",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-05-24T13:14:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5583#pullrequestreview-666723780"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-05-24T15:14:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5583#pullrequestreview-666860487"
          }
       }
    },
@@ -251,18 +252,46 @@
       "LastCommitAt": "2021-05-23T21:51:57Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 4,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
             "alex-176",
-            "pmakaragc"
+            "pmakaragc",
+            "ShmuelFine",
+            "yossavi"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "pmakaragc",
-            "SubmittedAt": "2021-05-24T11:32:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5609#pullrequestreview-666648878"
+            "ReviewerName": "yossavi",
+            "SubmittedAt": "2021-05-24T15:11:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5609#pullrequestreview-666858359"
+         }
+      }
+   },
+   {
+      "Number": 5614,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-05-24T14:29:43Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5614",
+      "LastCommitSHA": "bde52ddfb70bc80044bf7a0b66d49def398a182c",
+      "LastCommitAt": "2021-05-24T14:26:38Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-05-24T15:02:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5614#pullrequestreview-666850200"
          }
       }
    }
