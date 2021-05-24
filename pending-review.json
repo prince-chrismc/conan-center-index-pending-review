@@ -30,32 +30,6 @@
       }
    },
    {
-      "Number": 3375,
-      "OpenedBy": "newlawrence",
-      "CreatedAt": "2020-11-01T11:45:09Z",
-      "Recipe": "llvm-core",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/3375",
-      "LastCommitSHA": "f6a023ba475bfb5819f70ad70268cfa4a4b02cc7",
-      "LastCommitAt": "2021-05-22T05:27:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 25,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "intelligide",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-05-24T08:30:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/3375#pullrequestreview-666514338"
-         }
-      }
-   },
-   {
       "Number": 5440,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2021-05-05T13:58:50Z",
@@ -324,13 +298,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5609",
       "LastCommitSHA": "2416dacc3e5caf452d7ed48c6ca3f2c5d741e668",
       "LastCommitAt": "2021-05-23T21:51:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "alex-176"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "alex-176",
+            "SubmittedAt": "2021-05-24T10:34:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5609#pullrequestreview-666609334"
+         }
       }
    }
 ]
