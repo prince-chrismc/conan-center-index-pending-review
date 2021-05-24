@@ -316,5 +316,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 5620,
+      "OpenedBy": "jothepro",
+      "CreatedAt": "2021-05-24T18:41:56Z",
+      "Recipe": "djinni-support-lib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5620",
+      "LastCommitSHA": "63bebb16c9783942809481a2d6d4843130a3dbe3",
+      "LastCommitAt": "2021-05-24T18:34:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
