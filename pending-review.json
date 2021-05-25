@@ -215,7 +215,7 @@
       "LastCommitAt": "2021-05-25T18:19:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 8,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -223,9 +223,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "helmesjo",
-            "SubmittedAt": "2021-05-25T19:31:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5630#pullrequestreview-668268708"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-05-25T22:08:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5630#pullrequestreview-668415203"
          }
       }
    }
