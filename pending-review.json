@@ -326,5 +326,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 5634,
+      "OpenedBy": "alejandro-colomar",
+      "CreatedAt": "2021-05-26T07:44:39Z",
+      "Recipe": "civetweb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5634",
+      "LastCommitSHA": "930ab9a77fa9df68c6aad4c4fd2e8611f02357e6",
+      "LastCommitAt": "2021-05-26T07:41:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-05-26T08:11:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5634#pullrequestreview-668721415"
+         }
+      }
    }
 ]
