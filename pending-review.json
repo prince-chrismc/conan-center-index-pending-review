@@ -106,31 +106,6 @@
       }
    },
    {
-      "Number": 5536,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-05-15T18:04:40Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5536",
-      "LastCommitSHA": "bd3a0f2a4780bc755f0ced0e1b25f3a6d9b3e323",
-      "LastCommitAt": "2021-05-15T23:10:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-05-26T00:43:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5536#pullrequestreview-668509342"
-         }
-      }
-   },
-   {
       "Number": 5585,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-05-20T22:21:51Z",
