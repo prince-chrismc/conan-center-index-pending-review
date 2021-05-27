@@ -265,7 +265,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5654",
       "LastCommitSHA": "fec7c8721a31a3185bd737ce0117dc869d416103",
       "LastCommitAt": "2021-05-27T13:15:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -309,13 +309,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5656",
       "LastCommitSHA": "4780f82a7af31f431759810161d606a1421accb9",
       "LastCommitAt": "2021-05-27T13:12:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-05-27T19:16:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5656#pullrequestreview-670552323"
+         }
       }
    },
    {
@@ -361,7 +368,7 @@
       "Recipe": "assimp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5659",
-      "LastCommitSHA": "f9087a2f6618922e84496f86cb1c0cda84f107f0",
+      "LastCommitSHA": "b6c45265d52fbe57aa2dd23deb0490e462f36f3e",
       "LastCommitAt": "2021-05-27T18:18:59Z",
       "CciBotPassed": false,
       "Summary": {
