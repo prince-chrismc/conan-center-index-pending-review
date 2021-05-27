@@ -240,13 +240,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5653",
       "LastCommitSHA": "153923041e7a83725fec2efa146b2df399589ab0",
       "LastCommitAt": "2021-05-27T13:00:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-05-27T18:26:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5653#pullrequestreview-670511256"
+         }
       }
    },
    {
@@ -260,11 +267,19 @@
       "LastCommitAt": "2021-05-27T13:15:40Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "Croydon",
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-05-27T18:25:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5654#pullrequestreview-670510685"
+         }
       }
    },
    {
@@ -330,6 +345,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5658",
       "LastCommitSHA": "031b8139b1b984468a111bda0a18e330cde1e73e",
       "LastCommitAt": "2021-05-27T13:08:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5659,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-05-27T18:25:33Z",
+      "Recipe": "assimp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5659",
+      "LastCommitSHA": "f9087a2f6618922e84496f86cb1c0cda84f107f0",
+      "LastCommitAt": "2021-05-27T18:18:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
