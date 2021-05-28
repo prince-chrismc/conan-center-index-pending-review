@@ -10,7 +10,7 @@
       "LastCommitAt": "2021-05-27T16:02:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 25,
+         "Count": 28,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -22,8 +22,8 @@
          ],
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-05-28T10:40:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/3794#pullrequestreview-671168389"
+            "SubmittedAt": "2021-05-28T10:49:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/3794#pullrequestreview-671174804"
          }
       }
    },
@@ -63,7 +63,7 @@
       "LastCommitAt": "2021-05-09T11:55:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 10,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -75,9 +75,9 @@
             "uilianries"
          ],
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-05-21T19:56:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5509#pullrequestreview-665832503"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-05-28T11:41:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5509#pullrequestreview-671210400"
          }
       }
    },
@@ -128,32 +128,6 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-05-28T09:20:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5564#pullrequestreview-671104130"
-         }
-      }
-   },
-   {
-      "Number": 5585,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-05-20T22:21:51Z",
-      "Recipe": "univalue",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5585",
-      "LastCommitSHA": "e99ca7dcf8badc9d14af665088b4ab163dedb826",
-      "LastCommitAt": "2021-05-20T22:20:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-05-26T06:30:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5585#pullrequestreview-668637978"
          }
       }
    },
@@ -411,33 +385,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-05-28T07:36:29Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5663#pullrequestreview-671015002"
-         }
-      }
-   },
-   {
-      "Number": 5664,
-      "OpenedBy": "KingKili",
-      "CreatedAt": "2021-05-28T07:29:17Z",
-      "Recipe": "libcurl",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5664",
-      "LastCommitSHA": "a9856d555a8c11835f1edb1816d6738ee8d7cf58",
-      "LastCommitAt": "2021-05-28T07:28:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-05-28T10:00:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5664#pullrequestreview-671138147"
          }
       }
    },
