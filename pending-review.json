@@ -284,33 +284,6 @@
       }
    },
    {
-      "Number": 5668,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-05-28T08:44:42Z",
-      "Recipe": "outcome",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5668",
-      "LastCommitSHA": "e3c0474587688a93264dc5f14404f0ac47c6a5b9",
-      "LastCommitAt": "2021-05-28T07:31:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-05-28T21:36:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5668#pullrequestreview-671655667"
-         }
-      }
-   },
-   {
       "Number": 5672,
       "OpenedBy": "alejandro-colomar",
       "CreatedAt": "2021-05-28T09:34:12Z",
@@ -437,24 +410,6 @@
             "SubmittedAt": "2021-05-28T21:35:26Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5683#pullrequestreview-671655076"
          }
-      }
-   },
-   {
-      "Number": 5684,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-05-28T21:50:38Z",
-      "Recipe": "libkml",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5684",
-      "LastCommitSHA": "37d10b4c85e16024a1caa1877744e5ef0f4f8e6a",
-      "LastCommitAt": "2021-05-28T21:48:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
