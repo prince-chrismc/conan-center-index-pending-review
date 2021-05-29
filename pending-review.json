@@ -402,17 +402,18 @@
       "LastCommitAt": "2021-05-28T17:56:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-05-28T21:34:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5682#pullrequestreview-671654632"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-05-29T01:14:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5682#pullrequestreview-671700739"
          }
       }
    },
