@@ -118,17 +118,18 @@
       "LastCommitAt": "2021-05-28T12:58:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
+         "Count": 7,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-05-30T09:49:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5564#pullrequestreview-671811457"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-05-30T15:56:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5564#pullrequestreview-671843593"
          }
       }
    },
@@ -336,24 +337,6 @@
             "SubmittedAt": "2021-05-29T18:32:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5683#pullrequestreview-671765770"
          }
-      }
-   },
-   {
-      "Number": 5692,
-      "OpenedBy": "newlawrence",
-      "CreatedAt": "2021-05-29T16:17:33Z",
-      "Recipe": "llvm-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5692",
-      "LastCommitSHA": "d33e2cde969037cc9453d358d2e61f81250c9641",
-      "LastCommitAt": "2021-05-29T16:14:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
