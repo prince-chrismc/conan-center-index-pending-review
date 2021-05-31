@@ -338,5 +338,41 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5683#pullrequestreview-671765770"
          }
       }
+   },
+   {
+      "Number": 5692,
+      "OpenedBy": "newlawrence",
+      "CreatedAt": "2021-05-29T16:17:33Z",
+      "Recipe": "llvm-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5692",
+      "LastCommitSHA": "666b09ff8bf1d9c50785f6f5a072bf6bd2358727",
+      "LastCommitAt": "2021-05-31T07:38:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5698,
+      "OpenedBy": "alejandro-colomar",
+      "CreatedAt": "2021-05-31T07:02:31Z",
+      "Recipe": "cppcommon",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5698",
+      "LastCommitSHA": "d40a46ee27e724eac0feb94de0dcc55dcb1d7753",
+      "LastCommitAt": "2021-05-31T07:01:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
