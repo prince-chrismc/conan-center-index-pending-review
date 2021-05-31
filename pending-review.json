@@ -331,13 +331,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5701",
       "LastCommitSHA": "638c6f53d51156f689a716ace96ae047fbe15a6d",
       "LastCommitAt": "2021-05-31T10:50:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "Croydon",
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-05-31T14:38:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5701#pullrequestreview-672372016"
+         }
       }
    },
    {
