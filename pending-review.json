@@ -296,8 +296,8 @@
       "Recipe": "sentry-native",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5717",
-      "LastCommitSHA": "d869485f20686fcc41fc0bfd771ac70855d9a06d",
-      "LastCommitAt": "2021-06-01T17:14:02Z",
+      "LastCommitSHA": "d48390bfb6e6078b9782958abc9542589f011f34",
+      "LastCommitAt": "2021-06-01T22:46:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
