@@ -331,14 +331,14 @@
       }
    },
    {
-      "Number": 5720,
-      "OpenedBy": "newlawrence",
-      "CreatedAt": "2021-06-01T21:02:12Z",
-      "Recipe": "llvm-core",
+      "Number": 5721,
+      "OpenedBy": "grafikrobot",
+      "CreatedAt": "2021-06-02T02:29:58Z",
+      "Recipe": "b2",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5720",
-      "LastCommitSHA": "a3d762103210991baa4037a563938fe069016467",
-      "LastCommitAt": "2021-06-01T20:20:27Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5721",
+      "LastCommitSHA": "3d824e25559f16ee4d01893b502f254db36718d6",
+      "LastCommitAt": "2021-06-02T02:28:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
