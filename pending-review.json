@@ -316,6 +316,24 @@
       }
    },
    {
+      "Number": 5723,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-06-02T09:27:51Z",
+      "Recipe": "oatpp-postgresql",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5723",
+      "LastCommitSHA": "663ed6821f2efac5f24f6a9b8a88b593c3002fac",
+      "LastCommitAt": "2021-06-03T10:18:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5727,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-06-02T14:31:38Z",
@@ -519,7 +537,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5743",
       "LastCommitSHA": "edcac50b7c9bead88c87863312de4b944d93adbe",
       "LastCommitAt": "2021-06-03T09:38:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -585,6 +603,24 @@
             "SubmittedAt": "2021-06-03T11:33:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5745#pullrequestreview-675175247"
          }
+      }
+   },
+   {
+      "Number": 5748,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-06-03T13:17:22Z",
+      "Recipe": "fontconfig",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5748",
+      "LastCommitSHA": "161c4399dfd0d69a8857682fe56c096f1fbb1895",
+      "LastCommitAt": "2021-06-03T13:17:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
