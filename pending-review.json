@@ -246,18 +246,19 @@
       "LastCommitAt": "2021-06-02T18:15:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "uilianries"
+            "uilianries",
+            "AndreyMlashkin"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-02T19:20:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5677#pullrequestreview-674598215"
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2021-06-03T07:33:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5677#pullrequestreview-674964552"
          }
       }
    },
