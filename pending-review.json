@@ -324,13 +324,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5723",
       "LastCommitSHA": "663ed6821f2efac5f24f6a9b8a88b593c3002fac",
       "LastCommitAt": "2021-06-03T10:18:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-06-03T17:16:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5723#pullrequestreview-675537339"
+         }
       }
    },
    {
@@ -394,7 +401,7 @@
       "LastCommitAt": "2021-06-02T21:57:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 7,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -402,9 +409,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-03T09:34:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5737#pullrequestreview-675077795"
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2021-06-03T17:06:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5737#pullrequestreview-675529473"
          }
       }
    },
@@ -614,24 +621,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5748",
       "LastCommitSHA": "161c4399dfd0d69a8857682fe56c096f1fbb1895",
       "LastCommitAt": "2021-06-03T13:17:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5751,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-06-03T15:28:33Z",
-      "Recipe": "microtar",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5751",
-      "LastCommitSHA": "9538ea326e43847a3105ee1e9980238eb1ef45d7",
-      "LastCommitAt": "2021-06-03T15:27:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
