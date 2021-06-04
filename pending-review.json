@@ -596,33 +596,6 @@
       }
    },
    {
-      "Number": 5746,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-06-03T10:51:00Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5746",
-      "LastCommitSHA": "493db85c42939819f0912cbecaca34dac48259ef",
-      "LastCommitAt": "2021-06-03T13:34:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-06-04T08:46:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5746#pullrequestreview-676061198"
-         }
-      }
-   },
-   {
       "Number": 5748,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-06-03T13:17:22Z",
