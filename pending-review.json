@@ -504,7 +504,7 @@
       "LastCommitAt": "2021-06-02T21:57:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
+         "Count": 10,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -512,9 +512,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-04T14:02:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5737#pullrequestreview-676316624"
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2021-06-04T14:10:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5737#pullrequestreview-676328359"
          }
       }
    },
