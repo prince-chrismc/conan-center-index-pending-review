@@ -420,31 +420,6 @@
       }
    },
    {
-      "Number": 5737,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-06-02T20:48:59Z",
-      "Recipe": "sentry-breakpad",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5737",
-      "LastCommitSHA": "7f6d4493b2086ffb026b1f936e1560d541f863bd",
-      "LastCommitAt": "2021-06-02T21:57:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericriff",
-            "SubmittedAt": "2021-06-04T14:10:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5737#pullrequestreview-676328359"
-         }
-      }
-   },
-   {
       "Number": 5740,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-06-02T23:44:43Z",
