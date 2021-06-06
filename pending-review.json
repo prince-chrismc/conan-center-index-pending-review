@@ -730,31 +730,6 @@
       }
    },
    {
-      "Number": 5772,
-      "OpenedBy": "bobrofon",
-      "CreatedAt": "2021-06-05T13:44:25Z",
-      "Recipe": "libsystemd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5772",
-      "LastCommitSHA": "f992427bf3a57fac1e49387de1c4359485d214c0",
-      "LastCommitAt": "2021-06-05T13:42:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-05T22:55:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5772#pullrequestreview-676813361"
-         }
-      }
-   },
-   {
       "Number": 5774,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-06-05T21:50:08Z",
