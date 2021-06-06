@@ -948,17 +948,18 @@
       "LastCommitAt": "2021-06-06T16:27:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-06T19:03:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5781#pullrequestreview-676894292"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-06-06T20:11:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5781#pullrequestreview-676899306"
          }
       }
    }
