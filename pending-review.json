@@ -237,61 +237,6 @@
       }
    },
    {
-      "Number": 5772,
-      "OpenedBy": "bobrofon",
-      "CreatedAt": "2021-06-05T13:44:25Z",
-      "Recipe": "libsystemd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5772",
-      "LastCommitSHA": "5d85e6d2734b54f1970ff93026ba9d370dddcd7d",
-      "LastCommitAt": "2021-06-05T13:42:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "madebr",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-07T18:49:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5772#pullrequestreview-677775326"
-         }
-      }
-   },
-   {
-      "Number": 5774,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-06-05T21:50:08Z",
-      "Recipe": "abseil",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5774",
-      "LastCommitSHA": "0efe7be702b44695ed29108d7b6f25758da7f8b9",
-      "LastCommitAt": "2021-06-05T19:12:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "intelligide",
-            "SpaceIm",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-07T18:48:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5774#pullrequestreview-677774519"
-         }
-      }
-   },
-   {
       "Number": 5775,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-06-05T21:53:39Z",
