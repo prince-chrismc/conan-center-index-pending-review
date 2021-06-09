@@ -318,36 +318,19 @@
       "LastCommitAt": "2021-06-09T12:25:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-09T14:18:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5830#pullrequestreview-679721181"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-06-09T23:02:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5830#pullrequestreview-680213755"
          }
-      }
-   },
-   {
-      "Number": 5833,
-      "OpenedBy": "VladimirVR",
-      "CreatedAt": "2021-06-09T15:17:46Z",
-      "Recipe": "capnproto",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5833",
-      "LastCommitSHA": "63b44d526f732d373d74e64ae93072a71ff23213",
-      "LastCommitAt": "2021-06-09T12:17:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -361,17 +344,18 @@
       "LastCommitAt": "2021-06-09T15:57:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "intelligide"
+            "intelligide",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-06-09T19:40:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5834#pullrequestreview-680075258"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-06-09T23:12:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5834#pullrequestreview-680218067"
          }
       }
    },
@@ -400,8 +384,8 @@
       "Recipe": "taocpp-pegtl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5837",
-      "LastCommitSHA": "8e86a4dadf6f2493a0158cc10903130296dea2ce",
-      "LastCommitAt": "2021-06-09T20:34:03Z",
+      "LastCommitSHA": "69b664f8725582c598e323d127435fdcc227cf2d",
+      "LastCommitAt": "2021-06-09T22:18:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
