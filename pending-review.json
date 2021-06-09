@@ -233,6 +233,31 @@
       }
    },
    {
+      "Number": 5822,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-06-08T21:44:51Z",
+      "Recipe": "libtiff",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5822",
+      "LastCommitSHA": "845388d6d011c8b8fd879781b3f769f42c34ddfe",
+      "LastCommitAt": "2021-06-09T14:46:36Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-06-09T19:41:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5822#pullrequestreview-680077501"
+         }
+      }
+   },
+   {
       "Number": 5825,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-06-09T01:16:40Z",
@@ -309,13 +334,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5834",
       "LastCommitSHA": "2a8c5a358e236de91919b1962c5ec53bc0fe56be",
       "LastCommitAt": "2021-06-09T15:57:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-06-09T19:40:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5834#pullrequestreview-680075258"
+         }
       }
    },
    {
@@ -327,6 +359,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5835",
       "LastCommitSHA": "82f7897a7e5eb9de6fa0bf666b95de093182547f",
       "LastCommitAt": "2021-06-09T16:15:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5837,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-06-09T19:31:28Z",
+      "Recipe": "taocpp-pegtl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5837",
+      "LastCommitSHA": "c48523a997db6281accfe5290946e17380b5196b",
+      "LastCommitAt": "2021-06-09T19:30:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
