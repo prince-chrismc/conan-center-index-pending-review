@@ -64,7 +64,7 @@
       "LastCommitAt": "2021-06-09T20:25:57Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
+         "Count": 12,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -74,9 +74,9 @@
             "jgsogo"
          ],
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-10T07:40:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5550#pullrequestreview-680437131"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-06-10T21:37:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5550#pullrequestreview-681280942"
          }
       }
    },
@@ -208,33 +208,6 @@
       }
    },
    {
-      "Number": 5833,
-      "OpenedBy": "VladimirVR",
-      "CreatedAt": "2021-06-09T15:17:46Z",
-      "Recipe": "capnproto",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5833",
-      "LastCommitSHA": "63b44d526f732d373d74e64ae93072a71ff23213",
-      "LastCommitAt": "2021-06-09T12:17:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "danimtb",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-10T20:40:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5833#pullrequestreview-681240108"
-         }
-      }
-   },
-   {
       "Number": 5835,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-06-09T16:16:14Z",
@@ -256,33 +229,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-06-10T18:46:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5835#pullrequestreview-681137648"
-         }
-      }
-   },
-   {
-      "Number": 5837,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-09T19:31:28Z",
-      "Recipe": "taocpp-pegtl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5837",
-      "LastCommitSHA": "69b664f8725582c598e323d127435fdcc227cf2d",
-      "LastCommitAt": "2021-06-09T22:18:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-10T20:54:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5837#pullrequestreview-681250539"
          }
       }
    },
