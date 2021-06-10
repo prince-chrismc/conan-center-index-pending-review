@@ -242,7 +242,7 @@
       "LastCommitAt": "2021-06-09T12:17:57Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -251,9 +251,34 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-06-10T12:08:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5833#pullrequestreview-680697450"
+            "ReviewerName": "VladimirVR",
+            "SubmittedAt": "2021-06-10T18:32:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5833#pullrequestreview-681123926"
+         }
+      }
+   },
+   {
+      "Number": 5835,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-06-09T16:16:14Z",
+      "Recipe": "gperf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5835",
+      "LastCommitSHA": "367374d9ead928dceff05ab692a5bc795f08a138",
+      "LastCommitAt": "2021-06-10T14:41:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-06-10T18:46:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5835#pullrequestreview-681137648"
          }
       }
    },
