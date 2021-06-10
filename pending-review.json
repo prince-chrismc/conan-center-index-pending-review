@@ -358,41 +358,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5834#pullrequestreview-680218067"
          }
       }
-   },
-   {
-      "Number": 5835,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-06-09T16:16:14Z",
-      "Recipe": "gperf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5835",
-      "LastCommitSHA": "82f7897a7e5eb9de6fa0bf666b95de093182547f",
-      "LastCommitAt": "2021-06-09T16:15:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5837,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-09T19:31:28Z",
-      "Recipe": "taocpp-pegtl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5837",
-      "LastCommitSHA": "69b664f8725582c598e323d127435fdcc227cf2d",
-      "LastCommitAt": "2021-06-09T22:18:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
