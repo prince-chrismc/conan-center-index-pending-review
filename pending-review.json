@@ -82,17 +82,18 @@
       "LastCommitAt": "2021-06-11T16:30:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 14,
-         "ValidApprovals": 1,
+         "Count": 15,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "prince-chrismc"
          ],
          "Blockers": [],
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-11T17:42:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5550#pullrequestreview-682082363"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-06-11T22:33:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5550#pullrequestreview-682252542"
          }
       }
    },
@@ -208,17 +209,18 @@
       "LastCommitAt": "2021-06-10T20:04:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-06-11T19:23:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5847#pullrequestreview-682153224"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-06-11T22:45:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5847#pullrequestreview-682256314"
          }
       }
    },
@@ -245,24 +247,6 @@
             "SubmittedAt": "2021-06-11T19:27:12Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5850#pullrequestreview-682155829"
          }
-      }
-   },
-   {
-      "Number": 5865,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-11T22:08:58Z",
-      "Recipe": "libmediainfo",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5865",
-      "LastCommitSHA": "55c1bc856d57bcda236831b9216526fe99f8bfc9",
-      "LastCommitAt": "2021-06-11T22:07:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
