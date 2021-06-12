@@ -264,23 +264,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 5869,
-      "OpenedBy": "bobrofon",
-      "CreatedAt": "2021-06-12T17:20:29Z",
-      "Recipe": "sdbus-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5869",
-      "LastCommitSHA": "48e9065429c60d5554cc4d3839f1931d6a260be7",
-      "LastCommitAt": "2021-06-12T17:13:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
