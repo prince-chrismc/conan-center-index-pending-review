@@ -272,17 +272,18 @@
       "LastCommitAt": "2021-06-14T06:45:40Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-14T11:35:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5880#pullrequestreview-682804540"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-06-14T19:57:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5880#pullrequestreview-683300206"
          }
       }
    },
@@ -377,6 +378,24 @@
             "SubmittedAt": "2021-06-14T15:35:18Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5887#pullrequestreview-683063710"
          }
+      }
+   },
+   {
+      "Number": 5893,
+      "OpenedBy": "Croydon",
+      "CreatedAt": "2021-06-14T20:05:40Z",
+      "Recipe": "cmake",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5893",
+      "LastCommitSHA": "f86d1c83beb0304915cd348719e45449b3295ac7",
+      "LastCommitAt": "2021-06-14T20:03:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
