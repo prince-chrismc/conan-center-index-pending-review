@@ -55,33 +55,6 @@
       }
    },
    {
-      "Number": 5829,
-      "OpenedBy": "Nekto89",
-      "CreatedAt": "2021-06-09T12:12:24Z",
-      "Recipe": "vectorclass",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5829",
-      "LastCommitSHA": "d2395502ad0e555abeff6935edd7a59ad2171cd9",
-      "LastCommitAt": "2021-06-14T11:06:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 20,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-15T13:27:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5829#pullrequestreview-684005552"
-         }
-      }
-   },
-   {
       "Number": 5836,
       "OpenedBy": "theirix",
       "CreatedAt": "2021-06-09T18:37:28Z",
