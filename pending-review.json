@@ -355,6 +355,24 @@
       }
    },
    {
+      "Number": 5892,
+      "OpenedBy": "paulo-coutinho",
+      "CreatedAt": "2021-06-14T19:39:17Z",
+      "Recipe": "gtest",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5892",
+      "LastCommitSHA": "113a8c33457b586dba076d9df469ee01a1691c64",
+      "LastCommitAt": "2021-06-15T01:42:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5893,
       "OpenedBy": "Croydon",
       "CreatedAt": "2021-06-14T20:05:40Z",
