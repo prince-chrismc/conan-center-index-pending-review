@@ -159,6 +159,24 @@
       }
    },
    {
+      "Number": 5720,
+      "OpenedBy": "newlawrence",
+      "CreatedAt": "2021-06-01T21:02:12Z",
+      "Recipe": "llvm-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5720",
+      "LastCommitSHA": "21d69ae9b74bf5849e49525a4ac783cfd4a0fe81",
+      "LastCommitAt": "2021-06-14T17:01:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5829,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2021-06-09T12:12:24Z",
@@ -347,17 +365,18 @@
       "LastCommitAt": "2021-06-14T20:03:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-14T20:33:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5893#pullrequestreview-683328071"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-06-15T00:26:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5893#pullrequestreview-683458577"
          }
       }
    }
