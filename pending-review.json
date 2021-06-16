@@ -241,17 +241,18 @@
       "LastCommitAt": "2021-06-15T10:14:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-06-15T10:37:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5897#pullrequestreview-683840526"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-06-16T14:00:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5897#pullrequestreview-685209657"
          }
       }
    },
@@ -476,7 +477,7 @@
       "Recipe": "tmxlite",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5923",
-      "LastCommitSHA": "1d46f7b0335734bd189c944c9dd827c94c255e48",
+      "LastCommitSHA": "fb8dfdbe6091cd0e2bf4431a6ced67b4a5350943",
       "LastCommitAt": "2021-06-16T11:43:11Z",
       "CciBotPassed": false,
       "Summary": {
@@ -494,8 +495,26 @@
       "Recipe": "tmx",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5924",
-      "LastCommitSHA": "8b534e897fe95c7aae8d116da0ac533c0f523a05",
+      "LastCommitSHA": "48f0a4ab625d0cfbaaf9dd6c4c15a42392c6fb39",
       "LastCommitAt": "2021-06-16T12:46:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5925,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-06-16T13:27:55Z",
+      "Recipe": "tl-function-ref",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5925",
+      "LastCommitSHA": "5f915477903f1566ac1521e9ff91951c13490f66",
+      "LastCommitAt": "2021-06-16T13:27:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
