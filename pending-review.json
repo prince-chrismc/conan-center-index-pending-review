@@ -268,32 +268,6 @@
       }
    },
    {
-      "Number": 5907,
-      "OpenedBy": "ruilvo",
-      "CreatedAt": "2021-06-15T16:50:46Z",
-      "Recipe": "fftw",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5907",
-      "LastCommitSHA": "14ca8cae95ab4127fc88ed124dddaaf537941bd6",
-      "LastCommitAt": "2021-06-15T17:19:21Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-15T19:57:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5907#pullrequestreview-684431582"
-         }
-      }
-   },
-   {
       "Number": 5909,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2021-06-15T17:23:48Z",
@@ -380,6 +354,24 @@
       }
    },
    {
+      "Number": 5917,
+      "OpenedBy": "ruilvo",
+      "CreatedAt": "2021-06-15T22:43:06Z",
+      "Recipe": "doctest",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5917",
+      "LastCommitSHA": "0250a641b0915e5c81a3c0fff570342c3275ec52",
+      "LastCommitAt": "2021-06-15T23:47:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5918,
       "OpenedBy": "ruilvo",
       "CreatedAt": "2021-06-15T22:53:59Z",
@@ -388,13 +380,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5918",
       "LastCommitSHA": "ab3d46bef41f0c5036d30e8fbd1f5e3498bee8c8",
       "LastCommitAt": "2021-06-15T22:52:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-06-16T00:00:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5918#pullrequestreview-684612328"
+         }
       }
    }
 ]
