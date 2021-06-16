@@ -55,6 +55,31 @@
       }
    },
    {
+      "Number": 5720,
+      "OpenedBy": "newlawrence",
+      "CreatedAt": "2021-06-01T21:02:12Z",
+      "Recipe": "llvm-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5720",
+      "LastCommitSHA": "3ac945755c6900b1584dd82d2c5da4df45cc4aae",
+      "LastCommitAt": "2021-06-15T17:56:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": [],
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-06-16T10:58:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5720#pullrequestreview-685020864"
+         }
+      }
+   },
+   {
       "Number": 5827,
       "OpenedBy": "yemreinci",
       "CreatedAt": "2021-06-09T07:36:11Z",
