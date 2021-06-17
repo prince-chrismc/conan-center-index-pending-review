@@ -1,32 +1,5 @@
 [
    {
-      "Number": 4629,
-      "OpenedBy": "hnOsmium0001",
-      "CreatedAt": "2021-02-20T19:02:04Z",
-      "Recipe": "andreasbuhr-cppcoro",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/4629",
-      "LastCommitSHA": "4910829c2814e525525de9ac82662de0ba1db1a8",
-      "LastCommitAt": "2021-06-11T18:33:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": [
-            "jgsogo"
-         ],
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-17T13:34:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/4629#pullrequestreview-686312636"
-         }
-      }
-   },
-   {
       "Number": 5509,
       "OpenedBy": "hpesoj",
       "CreatedAt": "2021-05-10T19:57:51Z",
@@ -365,6 +338,24 @@
       }
    },
    {
+      "Number": 5933,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2021-06-17T09:49:05Z",
+      "Recipe": "itk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5933",
+      "LastCommitSHA": "050b7e8b481d93a33f5648d950215f8c910973ab",
+      "LastCommitAt": "2021-06-17T11:59:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5934,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-06-17T10:26:50Z",
@@ -380,35 +371,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 5943,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-06-17T13:44:40Z",
-      "Recipe": "rapidjson",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5943",
-      "LastCommitSHA": "46b9afc553e19b654f747537f319747985728f75",
-      "LastCommitAt": "2021-06-17T14:11:26Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 5,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "ericLemanissier",
-            "Croydon",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-17T18:44:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5943#pullrequestreview-686683445"
-         }
       }
    },
    {
@@ -430,30 +392,21 @@
       }
    },
    {
-      "Number": 5950,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-06-17T16:06:47Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5950",
-      "LastCommitSHA": "02c3dc32fea02f903313e9b34407009faca70f26",
-      "LastCommitAt": "2021-06-17T16:05:55Z",
-      "CciBotPassed": true,
+      "Number": 5951,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-06-17T16:36:16Z",
+      "Recipe": "ninja",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5951",
+      "LastCommitSHA": "9306ce1737ac15c5c2a209e7b28fb9718755a83d",
+      "LastCommitAt": "2021-06-17T16:35:16Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-17T20:29:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5950#pullrequestreview-686772720"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
