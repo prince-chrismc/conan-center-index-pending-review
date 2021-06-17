@@ -428,14 +428,32 @@
       }
    },
    {
-      "Number": 5955,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-17T20:11:24Z",
-      "Recipe": "spscqueue",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5955",
-      "LastCommitSHA": "fa30823cc94f954d462ee5b44084695e937212ee",
-      "LastCommitAt": "2021-06-17T20:10:48Z",
+      "Number": 5957,
+      "OpenedBy": "blackliner",
+      "CreatedAt": "2021-06-17T22:54:27Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5957",
+      "LastCommitSHA": "0702f69c37d5ed343558e1ab24336e4326f3f72f",
+      "LastCommitAt": "2021-06-17T22:53:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 5958,
+      "OpenedBy": "ledocc",
+      "CreatedAt": "2021-06-17T23:01:33Z",
+      "Recipe": "libusb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5958",
+      "LastCommitSHA": "dfe4ae06b1470933fabcd6dbf77843988c63671a",
+      "LastCommitAt": "2021-06-17T22:51:28Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
