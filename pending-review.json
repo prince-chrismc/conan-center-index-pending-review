@@ -157,32 +157,6 @@
       }
    },
    {
-      "Number": 5836,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2021-06-09T18:37:28Z",
-      "Recipe": "libaom-av1",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5836",
-      "LastCommitSHA": "bfcd9a3c2c3c9a34efb6c812df3eb20e0a106782",
-      "LastCommitAt": "2021-06-13T19:24:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-06-16T15:02:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5836#pullrequestreview-685295252"
-         }
-      }
-   },
-   {
       "Number": 5864,
       "OpenedBy": "AlexanderLanin",
       "CreatedAt": "2021-06-11T21:20:24Z",
