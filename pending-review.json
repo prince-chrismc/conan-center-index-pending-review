@@ -90,17 +90,18 @@
       "LastCommitAt": "2021-06-02T20:14:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-02T20:44:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5690#pullrequestreview-674664443"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-06-18T12:11:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5690#pullrequestreview-687339716"
          }
       }
    },
@@ -410,24 +411,6 @@
             "SubmittedAt": "2021-06-17T13:24:42Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5932#pullrequestreview-686304122"
          }
-      }
-   },
-   {
-      "Number": 5933,
-      "OpenedBy": "Nekto89",
-      "CreatedAt": "2021-06-17T09:49:05Z",
-      "Recipe": "itk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5933",
-      "LastCommitSHA": "050b7e8b481d93a33f5648d950215f8c910973ab",
-      "LastCommitAt": "2021-06-17T11:59:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
