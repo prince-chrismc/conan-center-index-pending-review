@@ -550,31 +550,6 @@
       }
    },
    {
-      "Number": 5953,
-      "OpenedBy": "ohanar",
-      "CreatedAt": "2021-06-17T17:34:16Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5953",
-      "LastCommitSHA": "8d1289170aa38141158fb8fbcfe287233245a493",
-      "LastCommitAt": "2021-06-17T17:32:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-06-18T00:48:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5953#pullrequestreview-686949033"
-         }
-      }
-   },
-   {
       "Number": 5958,
       "OpenedBy": "ledocc",
       "CreatedAt": "2021-06-17T23:01:33Z",
@@ -637,7 +612,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5963",
       "LastCommitSHA": "36380659a8426790776c917a7d8de11059974078",
       "LastCommitAt": "2021-06-18T06:43:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -651,6 +626,24 @@
             "SubmittedAt": "2021-06-18T07:52:22Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5963#pullrequestreview-687129849"
          }
+      }
+   },
+   {
+      "Number": 5966,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-06-18T09:34:27Z",
+      "Recipe": "msys2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5966",
+      "LastCommitSHA": "b25d740e104d7c979f20ac53e95e37bb9fddcf38",
+      "LastCommitAt": "2021-06-18T09:33:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
