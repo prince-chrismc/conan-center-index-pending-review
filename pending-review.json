@@ -601,5 +601,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 5963,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-06-18T07:32:36Z",
+      "Recipe": "thrift",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5963",
+      "LastCommitSHA": "36380659a8426790776c917a7d8de11059974078",
+      "LastCommitAt": "2021-06-18T06:43:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-06-18T07:52:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5963#pullrequestreview-687129849"
+         }
+      }
    }
 ]
