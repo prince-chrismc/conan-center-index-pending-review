@@ -47,8 +47,7 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) Reviews {
 
 		reviewerName := review.GetUser().GetLogin()
 		isTeamMember := isTeamMember(review.GetAuthorAssociation())
-		isCommunityMember := isCommunityMember(reviewerName)
-		isMember := isTeamMember || isCommunityMember
+		isMember := isTeamMember || isCommunityMember(reviewerName)
 
 		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API
 		case "CHANGES_REQUESTED":
@@ -97,9 +96,14 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) Reviews {
 	return summary
 }
 
-func isTeamMember(reviewerAssociation string) bool {
-	// TODO(prince-chrismc): Should this be passed on https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#official-reviewers
-	return reviewerAssociation == "MEMBER" || reviewerAssociation == "COLLABORATOR"
+func isTeamMember(reviewerName string) bool {
+	switch reviewerName {
+	// As defined by https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#official-reviewers
+	case "memsharded", "lasote", "danimtb", "jgsogo", "czoido", "solvingj", "sse4", "uilianries":
+		return true
+	default:
+		return false
+	}
 }
 
 func isCommunityMember(reviewerName string) bool {
