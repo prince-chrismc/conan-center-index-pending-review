@@ -6,6 +6,8 @@ import (
 	"fmt"
 	"strings"
 	"time"
+
+	"github.com/google/go-github/v34/github"
 )
 
 // Category describing the type of change being introduced by the pull request
@@ -165,13 +167,32 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		}
 	}
 
-	if len(files) == 2 {
-		if strings.HasSuffix(files[0].GetFilename(), "conandata.yml") && strings.HasSuffix(files[1].GetFilename(), "config.yml") {
-			change.Change = BUMP
-		}
+	if onlyBumpFilesChanged(files) {
+		change.Change = BUMP
 	}
 
 	return change, resp, nil
+}
+
+func onlyBumpFilesChanged(files []*github.CommitFile) bool {
+	if len(files) != 2 {
+		return false
+	}
+
+	hasConandata := false
+	hasConfig := false
+
+	for _, file := range files {
+		if strings.HasSuffix(file.GetFilename(), "conandata.yml") {
+			hasConandata = true
+		}
+
+		if strings.HasSuffix(file.GetFilename(), "config.yml") {
+			hasConfig = true
+		}
+	}
+
+	return hasConandata && hasConfig
 }
 
 // Expected format is
