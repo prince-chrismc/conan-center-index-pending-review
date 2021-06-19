@@ -291,24 +291,6 @@
       }
    },
    {
-      "Number": 5969,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-18T14:12:58Z",
-      "Recipe": "quantlib",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5969",
-      "LastCommitSHA": "6ba73796f0c9bcacc89d300297e08a3ac9d57da3",
-      "LastCommitAt": "2021-06-18T15:52:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5977,
       "OpenedBy": "ivalery111",
       "CreatedAt": "2021-06-18T17:23:32Z",
