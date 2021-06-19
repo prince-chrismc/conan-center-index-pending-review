@@ -16,7 +16,7 @@
          "Approvals": [
             "prince-chrismc"
          ],
-         "Blockers": [],
+         "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-06-19T13:22:45Z",
@@ -36,16 +36,14 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 12,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
             "intelligide",
             "a4z",
             "SSE4"
          ],
-         "Blockers": [
-            "uilianries"
-         ],
+         "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2021-05-28T11:47:19Z",
@@ -90,8 +88,8 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
          "Approvals": [
             "SSE4",
             "uilianries"
@@ -116,8 +114,8 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 9,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
          "Approvals": [
             "jgsogo",
             "uilianries"
@@ -142,8 +140,8 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
          "Approvals": [
             "jgsogo",
             "uilianries"
@@ -194,8 +192,8 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
             "uilianries",
             "prince-chrismc"
@@ -380,8 +378,8 @@
       "Recipe": "pngpp",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5984",
-      "LastCommitSHA": "1d48d4abb6eaf53746a10f6a64c657153c14602f",
-      "LastCommitAt": "2021-06-19T09:30:05Z",
+      "LastCommitSHA": "26c4f01da1d0456b6992cbe7494e1e136d11d9ad",
+      "LastCommitAt": "2021-06-19T15:09:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -400,24 +398,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5985",
       "LastCommitSHA": "91a70f617643018f482f3c707a6bfda08c7a0ba4",
       "LastCommitAt": "2021-06-19T11:09:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 5986,
-      "OpenedBy": "werto87",
-      "CreatedAt": "2021-06-19T11:43:07Z",
-      "Recipe": "confu_json",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5986",
-      "LastCommitSHA": "eb95b6d78920afbc07d08d7b7cebe403e7d1ac76",
-      "LastCommitAt": "2021-06-19T11:40:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
