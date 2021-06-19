@@ -337,8 +337,8 @@
       "Recipe": "confu-json",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5979",
-      "LastCommitSHA": "1371c296adde220dae0fd3711133b2a7a54d1ec4",
-      "LastCommitAt": "2021-06-19T08:00:25Z",
+      "LastCommitSHA": "5c9f0f04095a96c9e8b0a790234ee64f0302959f",
+      "LastCommitAt": "2021-06-19T08:35:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
