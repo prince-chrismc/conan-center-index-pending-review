@@ -417,8 +417,8 @@
       "Recipe": "miniupnpc",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5990",
-      "LastCommitSHA": "079a450c53ea5b0d284192ea3f26310c4b2c62a4",
-      "LastCommitAt": "2021-06-20T10:55:28Z",
+      "LastCommitSHA": "af5792d4b822c8769a73a41ab951bcf56c3933c5",
+      "LastCommitAt": "2021-06-20T11:48:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
