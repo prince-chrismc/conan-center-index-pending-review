@@ -255,24 +255,6 @@
       }
    },
    {
-      "Number": 5968,
-      "OpenedBy": "dotChris90",
-      "CreatedAt": "2021-06-18T13:20:47Z",
-      "Recipe": "fast-dds",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5968",
-      "LastCommitSHA": "a161e6a854ca26652eee47a353c0813edc1ccd50",
-      "LastCommitAt": "2021-06-19T06:21:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 5976,
       "OpenedBy": "Guyutongxue",
       "CreatedAt": "2021-06-18T15:55:22Z",
