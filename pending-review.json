@@ -78,33 +78,6 @@
       }
    },
    {
-      "Number": 5955,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-17T20:11:24Z",
-      "Recipe": "spscqueue",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5955",
-      "LastCommitSHA": "fa30823cc94f954d462ee5b44084695e937212ee",
-      "LastCommitAt": "2021-06-17T20:10:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "jgsogo",
-            "prince-chrismc",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-21T12:58:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5955#pullrequestreview-688391428"
-         }
-      }
-   },
-   {
       "Number": 5961,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-06-18T01:35:28Z",
@@ -353,7 +326,7 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5997",
-      "LastCommitSHA": "7e37dedf20a57be4ad239bb8b8d0e857e27ee0d1",
+      "LastCommitSHA": "047333bdad5caa957d457e7ce59d760de3a77c70",
       "LastCommitAt": "2021-06-20T18:14:05Z",
       "CciBotPassed": false,
       "Summary": {
@@ -375,18 +348,19 @@
       "LastCommitAt": "2021-06-21T13:14:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "prince-chrismc"
+            "prince-chrismc",
+            "czoido"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-21T13:55:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6000#pullrequestreview-688452512"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2021-06-21T14:44:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6000#pullrequestreview-688510183"
          }
       }
    }
