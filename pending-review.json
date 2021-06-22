@@ -78,31 +78,6 @@
       }
    },
    {
-      "Number": 5900,
-      "OpenedBy": "fennibay",
-      "CreatedAt": "2021-06-15T12:32:46Z",
-      "Recipe": "rocksdb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5900",
-      "LastCommitSHA": "ff45efef5e8fe354c0bbaa0471c0b7dc7835422f",
-      "LastCommitAt": "2021-06-21T18:47:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-22T00:37:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5900#pullrequestreview-688967099"
-         }
-      }
-   },
-   {
       "Number": 5936,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-06-17T12:26:46Z",
