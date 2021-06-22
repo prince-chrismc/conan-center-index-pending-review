@@ -10,7 +10,7 @@
       "LastCommitAt": "2021-02-06T16:24:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 16,
+         "Count": 17,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -19,9 +19,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-22T16:31:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/3957#pullrequestreview-689747410"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-06-22T22:43:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/3957#pullrequestreview-690054330"
          }
       }
    },
@@ -49,32 +49,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2021-05-28T11:47:19Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5509#pullrequestreview-671215864"
-         }
-      }
-   },
-   {
-      "Number": 5579,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-05-20T21:07:31Z",
-      "Recipe": "apriltag",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5579",
-      "LastCommitSHA": "6d48e21634a42907e1a23af2ef04f40febe86005",
-      "LastCommitAt": "2021-06-21T12:45:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            "jgsogo",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-06-22T10:38:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5579#pullrequestreview-689341855"
          }
       }
    },
@@ -553,24 +527,6 @@
             "SubmittedAt": "2021-06-22T19:17:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6027#pullrequestreview-689908664"
          }
-      }
-   },
-   {
-      "Number": 6029,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-22T22:12:06Z",
-      "Recipe": "qcustomplot",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6029",
-      "LastCommitSHA": "958b81f1fb8c03c0236a417a84b0a0f42c4a76f1",
-      "LastCommitAt": "2021-06-22T22:10:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
