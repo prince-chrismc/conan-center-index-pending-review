@@ -1,5 +1,30 @@
 [
    {
+      "Number": 3957,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2020-12-19T17:24:42Z",
+      "Recipe": "libftdi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/3957",
+      "LastCommitSHA": "0e4f0e5fcbedb34af238a169146be26341e0a45c",
+      "LastCommitAt": "2021-02-06T16:24:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 14,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            "danimtb"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-06-22T10:35:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/3957#pullrequestreview-689339136"
+         }
+      }
+   },
+   {
       "Number": 4629,
       "OpenedBy": "hnOsmium0001",
       "CreatedAt": "2021-02-20T19:02:04Z",
@@ -49,6 +74,32 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2021-05-28T11:47:19Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5509#pullrequestreview-671215864"
+         }
+      }
+   },
+   {
+      "Number": 5579,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-05-20T21:07:31Z",
+      "Recipe": "apriltag",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5579",
+      "LastCommitSHA": "6d48e21634a42907e1a23af2ef04f40febe86005",
+      "LastCommitAt": "2021-06-21T12:45:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            "jgsogo",
+            "danimtb"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-06-22T10:38:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5579#pullrequestreview-689341855"
          }
       }
    },
@@ -344,17 +395,18 @@
       "LastCommitAt": "2021-06-21T18:38:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-22T07:20:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6016#pullrequestreview-689144492"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-06-22T10:55:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6016#pullrequestreview-689356069"
          }
       }
    },
@@ -369,18 +421,37 @@
       "LastCommitAt": "2021-06-21T18:38:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-22T07:42:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6017#pullrequestreview-689165113"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-06-22T10:55:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6017#pullrequestreview-689355780"
          }
+      }
+   },
+   {
+      "Number": 6020,
+      "OpenedBy": "GIGte",
+      "CreatedAt": "2021-06-22T10:34:41Z",
+      "Recipe": "highway",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6020",
+      "LastCommitSHA": "bfd2d9cde48065bb3ce6a1e2b647695899bdb031",
+      "LastCommitAt": "2021-06-22T10:26:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
