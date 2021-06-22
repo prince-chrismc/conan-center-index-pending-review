@@ -128,6 +128,24 @@
       }
    },
    {
+      "Number": 5994,
+      "OpenedBy": "uselessgoddess",
+      "CreatedAt": "2021-06-20T16:21:45Z",
+      "Recipe": "platform.interfaces",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5994",
+      "LastCommitSHA": "d6f07d358706cb39375fc0c8d8d50cf54567050c",
+      "LastCommitAt": "2021-06-22T03:54:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5996,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-06-20T17:45:57Z",
