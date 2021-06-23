@@ -156,60 +156,6 @@
       }
    },
    {
-      "Number": 6013,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-06-21T20:02:11Z",
-      "Recipe": "oatpp-websocket",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6013",
-      "LastCommitSHA": "ef721398998a1d223d804f5c8c62be3e9d034ded",
-      "LastCommitAt": "2021-06-21T18:39:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc",
-            "jgsogo",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-23T20:01:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6013#pullrequestreview-691088529"
-         }
-      }
-   },
-   {
-      "Number": 6014,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-06-21T20:02:47Z",
-      "Recipe": "nameof",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6014",
-      "LastCommitSHA": "bae1356b8f1893db3ee1f6dbb5cf8826e9bf0a64",
-      "LastCommitAt": "2021-06-21T18:39:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc",
-            "jgsogo",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-23T20:01:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6014#pullrequestreview-691088723"
-         }
-      }
-   },
-   {
       "Number": 6015,
       "OpenedBy": "espositofulvio",
       "CreatedAt": "2021-06-21T21:19:19Z",
