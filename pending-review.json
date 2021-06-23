@@ -309,33 +309,6 @@
       }
    },
    {
-      "Number": 6027,
-      "OpenedBy": "Talkless",
-      "CreatedAt": "2021-06-22T17:06:07Z",
-      "Recipe": "libpq",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6027",
-      "LastCommitSHA": "51abde381301fc12076259f7bf2105223651dc8f",
-      "LastCommitAt": "2021-06-22T17:03:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "uilianries",
-            "jgsogo",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-23T21:20:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6027#pullrequestreview-691151455"
-         }
-      }
-   },
-   {
       "Number": 6032,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2021-06-23T07:31:48Z",
@@ -384,33 +357,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-06-23T21:30:02Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6033#pullrequestreview-691161234"
-         }
-      }
-   },
-   {
-      "Number": 6038,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-23T13:17:06Z",
-      "Recipe": "vc",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6038",
-      "LastCommitSHA": "95cdb9e32015f60a51cd13dbc1eb6b2c9f3b7420",
-      "LastCommitAt": "2021-06-23T13:11:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "jgsogo",
-            "uilianries",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-23T21:18:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6038#pullrequestreview-691150191"
          }
       }
    },
