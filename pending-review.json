@@ -360,33 +360,6 @@
       }
    },
    {
-      "Number": 6048,
-      "OpenedBy": "memsharded",
-      "CreatedAt": "2021-06-24T12:27:25Z",
-      "Recipe": "zulu-openjdk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6048",
-      "LastCommitSHA": "7ec3a27896c214d1c394fad3375990bda24aeb28",
-      "LastCommitAt": "2021-06-24T12:25:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier",
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-24T14:17:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6048#pullrequestreview-691812116"
-         }
-      }
-   },
-   {
       "Number": 6050,
       "OpenedBy": "igormironchik",
       "CreatedAt": "2021-06-24T12:59:06Z",
