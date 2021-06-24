@@ -205,32 +205,6 @@
       }
    },
    {
-      "Number": 6030,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-06-22T22:42:47Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6030",
-      "LastCommitSHA": "362295012c033633eeb017234eda2fd8a484533d",
-      "LastCommitAt": "2021-06-23T13:01:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-24T20:05:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6030#pullrequestreview-692179774"
-         }
-      }
-   },
-   {
       "Number": 6044,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2021-06-24T08:09:49Z",
@@ -382,6 +356,32 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2021-06-24T21:05:38Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6053#pullrequestreview-692226139"
+         }
+      }
+   },
+   {
+      "Number": 6055,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-06-24T21:40:37Z",
+      "Recipe": "platform.interfaces",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6055",
+      "LastCommitSHA": "5ad27f7bfa6b3e54daee2684630f6a688f5b845e",
+      "LastCommitAt": "2021-06-24T21:37:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr",
+            "wolfee001"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "wolfee001",
+            "SubmittedAt": "2021-06-24T21:57:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6055#pullrequestreview-692260394"
          }
       }
    }
