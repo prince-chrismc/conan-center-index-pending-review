@@ -53,6 +53,31 @@
       }
    },
    {
+      "Number": 5605,
+      "OpenedBy": "dvirtz",
+      "CreatedAt": "2021-05-23T11:11:43Z",
+      "Recipe": "azure-storage-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5605",
+      "LastCommitSHA": "c9eb4525929d754e3cac4bf4411676a932b20b1d",
+      "LastCommitAt": "2021-06-24T12:18:09Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 12,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-06-24T22:13:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5605#pullrequestreview-692269534"
+         }
+      }
+   },
+   {
       "Number": 5792,
       "OpenedBy": "boussaffawalid",
       "CreatedAt": "2021-06-07T14:47:55Z",
@@ -370,18 +395,20 @@
       "LastCommitAt": "2021-06-24T21:37:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "wolfee001"
+            "wolfee001",
+            "prince-chrismc",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "wolfee001",
-            "SubmittedAt": "2021-06-24T21:57:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6055#pullrequestreview-692260394"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-06-24T22:52:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6055#pullrequestreview-692296625"
          }
       }
    }
