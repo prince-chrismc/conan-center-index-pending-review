@@ -335,20 +335,39 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6043",
       "LastCommitSHA": "404804ea4b2ec8cd45c6a0fe8e0ffc0bcca81e9a",
       "LastCommitAt": "2021-06-24T07:43:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-06-24T08:02:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6043#pullrequestreview-691453503"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-06-24T11:04:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6043#pullrequestreview-691621226"
          }
+      }
+   },
+   {
+      "Number": 6047,
+      "OpenedBy": "wolfee001",
+      "CreatedAt": "2021-06-24T10:39:13Z",
+      "Recipe": "sdsl-lite",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6047",
+      "LastCommitSHA": "2b8013369d4c1632ded45fbcb2fd722546fbcfc0",
+      "LastCommitAt": "2021-06-24T10:33:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
