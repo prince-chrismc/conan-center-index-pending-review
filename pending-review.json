@@ -154,6 +154,32 @@
       }
    },
    {
+      "Number": 5994,
+      "OpenedBy": "uselessgoddess",
+      "CreatedAt": "2021-06-20T16:21:45Z",
+      "Recipe": "platform.interfaces",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5994",
+      "LastCommitSHA": "756ea575c8b954f6f206be923c15a836e50801f5",
+      "LastCommitAt": "2021-06-24T15:27:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 15,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            "uilianries",
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-06-24T16:52:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5994#pullrequestreview-692004548"
+         }
+      }
+   },
+   {
       "Number": 5997,
       "OpenedBy": "CAMOBAP",
       "CreatedAt": "2021-06-20T18:15:58Z",
@@ -356,6 +382,56 @@
             "ReviewerName": "danimtb",
             "SubmittedAt": "2021-06-24T11:04:55Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6043#pullrequestreview-691621226"
+         }
+      }
+   },
+   {
+      "Number": 6044,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-06-24T08:09:49Z",
+      "Recipe": "opencl-icd-loader",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6044",
+      "LastCommitSHA": "65b5e9b371aa9dbb9a699ba31ceccd7e8dd1fe71",
+      "LastCommitAt": "2021-06-24T10:05:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            "czoido"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2021-06-24T17:16:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6044#pullrequestreview-692025573"
+         }
+      }
+   },
+   {
+      "Number": 6045,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-06-24T08:12:14Z",
+      "Recipe": "termcap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6045",
+      "LastCommitSHA": "df28cf423c9a9029eac1e502b7de212cbfb16b27",
+      "LastCommitAt": "2021-06-24T15:32:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            "czoido"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2021-06-24T17:16:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6045#pullrequestreview-692025642"
          }
       }
    },
