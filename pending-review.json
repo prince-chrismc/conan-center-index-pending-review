@@ -274,59 +274,6 @@
       }
    },
    {
-      "Number": 6044,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-06-24T08:09:49Z",
-      "Recipe": "opencl-icd-loader",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6044",
-      "LastCommitSHA": "65b5e9b371aa9dbb9a699ba31ceccd7e8dd1fe71",
-      "LastCommitAt": "2021-06-24T10:05:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            "czoido",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-25T13:53:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6044#pullrequestreview-692843283"
-         }
-      }
-   },
-   {
-      "Number": 6046,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-06-24T08:23:01Z",
-      "Recipe": "freexl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6046",
-      "LastCommitSHA": "494701a211345111be740041980b526ddd287bac",
-      "LastCommitAt": "2021-06-24T08:48:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "SpaceIm",
-            "czoido",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-25T13:49:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6046#pullrequestreview-692839364"
-         }
-      }
-   },
-   {
       "Number": 6050,
       "OpenedBy": "igormironchik",
       "CreatedAt": "2021-06-24T12:59:06Z",
