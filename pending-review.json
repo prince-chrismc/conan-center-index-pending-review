@@ -357,58 +357,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6050#pullrequestreview-692075875"
          }
       }
-   },
-   {
-      "Number": 6052,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-24T17:48:42Z",
-      "Recipe": "decimal_for_cpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6052",
-      "LastCommitSHA": "24eaf1530a5dbfc564c5b4d7ec524602b7c22220",
-      "LastCommitAt": "2021-06-24T17:47:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-24T21:02:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6052#pullrequestreview-692221376"
-         }
-      }
-   },
-   {
-      "Number": 6053,
-      "OpenedBy": "wolfee001",
-      "CreatedAt": "2021-06-24T19:49:24Z",
-      "Recipe": "xxsds-sdsl-lite",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6053",
-      "LastCommitSHA": "62c33422384f7cb765cd3461e4a70e17be7c0611",
-      "LastCommitAt": "2021-06-24T20:30:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-25T08:13:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6053#pullrequestreview-692572770"
-         }
-      }
    }
 ]
