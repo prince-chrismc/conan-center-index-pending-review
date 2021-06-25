@@ -163,18 +163,19 @@
       "LastCommitAt": "2021-06-18T22:03:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 6,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
             "jgsogo",
-            "uilianries"
+            "uilianries",
+            "tisonkun"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-06-23T20:00:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5962#pullrequestreview-691088192"
+            "ReviewerName": "tisonkun",
+            "SubmittedAt": "2021-06-25T01:49:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5962#pullrequestreview-692377043"
          }
       }
    },
