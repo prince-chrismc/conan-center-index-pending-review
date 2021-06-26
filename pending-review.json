@@ -310,30 +310,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6050#pullrequestreview-692075875"
          }
       }
-   },
-   {
-      "Number": 6064,
-      "OpenedBy": "espositofulvio",
-      "CreatedAt": "2021-06-25T15:31:53Z",
-      "Recipe": "vulkan-headers",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6064",
-      "LastCommitSHA": "824726deeaedff571b38e2c667588fe020272d94",
-      "LastCommitAt": "2021-06-25T15:30:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-06-25T22:04:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6064#pullrequestreview-693221083"
-         }
-      }
    }
 ]
