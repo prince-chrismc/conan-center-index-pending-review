@@ -478,31 +478,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6102",
       "LastCommitSHA": "0310b1c02dccf7348ee1042ce0e2af0a03e22405",
       "LastCommitAt": "2021-06-29T22:51:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 6104,
-      "OpenedBy": "paulo-coutinho",
-      "CreatedAt": "2021-06-29T23:37:39Z",
-      "Recipe": "poco",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6104",
-      "LastCommitSHA": "4d527470d453160ec6474937427b1e205256334c",
-      "LastCommitAt": "2021-06-29T23:37:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-06-30T02:49:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6102#pullrequestreview-695651372"
+         }
       }
    },
    {
