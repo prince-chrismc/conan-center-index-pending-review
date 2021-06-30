@@ -141,7 +141,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6078",
       "LastCommitSHA": "2dea1b5c4ed6cfa425bc41c187af244e08f75ff8",
       "LastCommitAt": "2021-06-28T19:52:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -374,6 +374,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6105",
       "LastCommitSHA": "c89f7900552f8354f41c995566e8b02c3d908abc",
       "LastCommitAt": "2021-06-30T01:53:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6106,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-06-30T07:31:50Z",
+      "Recipe": "pango",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6106",
+      "LastCommitSHA": "7a5c7f55c02d7d9329223ef8a482b0f50621b0ec",
+      "LastCommitAt": "2021-06-30T06:41:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
