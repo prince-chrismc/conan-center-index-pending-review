@@ -188,7 +188,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6075",
       "LastCommitSHA": "236aa959216ccb508e3ea73b82fdc499dd4b6169",
       "LastCommitAt": "2021-06-28T15:15:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 3,
@@ -309,24 +309,6 @@
             "SubmittedAt": "2021-06-30T13:50:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6084#pullrequestreview-696188623"
          }
-      }
-   },
-   {
-      "Number": 6086,
-      "OpenedBy": "AshleyRoll",
-      "CreatedAt": "2021-06-29T12:17:50Z",
-      "Recipe": "crc_cpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6086",
-      "LastCommitSHA": "b23c4847dd09d8407e70198b77432862c57464dc",
-      "LastCommitAt": "2021-06-30T10:45:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -470,6 +452,24 @@
             "SubmittedAt": "2021-06-30T09:04:02Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6107#pullrequestreview-695876981"
          }
+      }
+   },
+   {
+      "Number": 6110,
+      "OpenedBy": "paulo-coutinho",
+      "CreatedAt": "2021-06-30T16:53:42Z",
+      "Recipe": "poco",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6110",
+      "LastCommitSHA": "b43494c3d24f74163e83770da72f2addb96058ce",
+      "LastCommitAt": "2021-06-30T16:52:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
