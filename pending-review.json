@@ -524,6 +524,31 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6116",
       "LastCommitSHA": "f2a28cedffa506c9f32929c317aad97dfdacc190",
       "LastCommitAt": "2021-07-01T08:31:52Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "theirix"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "theirix",
+            "SubmittedAt": "2021-07-01T12:52:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6116#pullrequestreview-697205637"
+         }
+      }
+   },
+   {
+      "Number": 6121,
+      "OpenedBy": "slietzau",
+      "CreatedAt": "2021-07-01T13:01:33Z",
+      "Recipe": "xerces-c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6121",
+      "LastCommitSHA": "5045b511259e79843c801dbfc2e15e80eb753d77",
+      "LastCommitAt": "2021-07-01T12:39:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
