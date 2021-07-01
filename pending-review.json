@@ -77,6 +77,31 @@
       }
    },
    {
+      "Number": 5905,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2021-06-15T16:49:37Z",
+      "Recipe": "log4cxx",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5905",
+      "LastCommitSHA": "cc6434a0384425968fc4fe26bdac0640e48c01ef",
+      "LastCommitAt": "2021-06-30T08:58:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 12,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-01T09:23:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5905#pullrequestreview-697020996"
+         }
+      }
+   },
+   {
       "Number": 5968,
       "OpenedBy": "dotChris90",
       "CreatedAt": "2021-06-18T13:20:47Z",
@@ -413,31 +438,6 @@
       }
    },
    {
-      "Number": 6106,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-06-30T07:31:50Z",
-      "Recipe": "pango",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6106",
-      "LastCommitSHA": "7a5c7f55c02d7d9329223ef8a482b0f50621b0ec",
-      "LastCommitAt": "2021-06-30T06:41:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-30T20:44:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6106#pullrequestreview-696601391"
-         }
-      }
-   },
-   {
       "Number": 6107,
       "OpenedBy": "ngrodzitski",
       "CreatedAt": "2021-06-30T07:34:11Z",
@@ -448,18 +448,19 @@
       "LastCommitAt": "2021-06-30T07:31:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "SSE4",
-            "prince-chrismc"
+            "prince-chrismc",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-30T20:44:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6107#pullrequestreview-696601586"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-07-01T09:53:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6107#pullrequestreview-697049909"
          }
       }
    },
@@ -474,17 +475,19 @@
       "LastCommitAt": "2021-06-30T16:50:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "jgsogo",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-06-30T20:45:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6109#pullrequestreview-696601891"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-07-01T09:39:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6109#pullrequestreview-697036452"
          }
       }
    },
@@ -515,13 +518,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6113",
       "LastCommitSHA": "5480c934249ee08b29fb13ef89bbb963236dbd1b",
       "LastCommitAt": "2021-07-01T06:42:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jgsogo",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-07-01T09:38:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6113#pullrequestreview-697035715"
+         }
       }
    },
    {
@@ -533,13 +544,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6114",
       "LastCommitSHA": "d2adc4b81abac8a03f74a75c95765d144661521f",
       "LastCommitAt": "2021-07-01T06:37:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jgsogo",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-07-01T09:38:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6114#pullrequestreview-697035353"
+         }
       }
    },
    {
@@ -551,6 +570,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6116",
       "LastCommitSHA": "f2a28cedffa506c9f32929c317aad97dfdacc190",
       "LastCommitAt": "2021-07-01T08:31:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6118,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-07-01T09:32:58Z",
+      "Recipe": "cpuinfo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6118",
+      "LastCommitSHA": "0be0c346768a26b98f8ec7412a7e2f027b9e2f91",
+      "LastCommitAt": "2021-07-01T09:31:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
