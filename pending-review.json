@@ -374,37 +374,20 @@
       "LastCommitAt": "2021-07-01T12:39:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "ericLemanissier"
+            "ericLemanissier",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-07-01T14:54:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6121#pullrequestreview-697346685"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-07-02T15:32:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6121#pullrequestreview-698302787"
          }
-      }
-   },
-   {
-      "Number": 6126,
-      "OpenedBy": "czoido",
-      "CreatedAt": "2021-07-01T16:06:33Z",
-      "Recipe": "libmad",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6126",
-      "LastCommitSHA": "599aa816941c9f594ea68735f14df2063b117ae0",
-      "LastCommitAt": "2021-07-01T16:46:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
