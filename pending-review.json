@@ -87,17 +87,18 @@
       "LastCommitAt": "2021-06-17T17:32:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "Croydon"
+            "Croydon",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-06-18T00:48:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5953#pullrequestreview-686949033"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-07-03T22:40:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5953#pullrequestreview-698623317"
          }
       }
    },
@@ -463,6 +464,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6147",
       "LastCommitSHA": "1df54865880834a4b5b70c46242b252766630557",
       "LastCommitAt": "2021-07-03T21:30:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6148,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-03T22:27:06Z",
+      "Recipe": "geographiclib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6148",
+      "LastCommitSHA": "5b187dd90c99aa39bd7d6d92bb5faf41f3bbf7ab",
+      "LastCommitAt": "2021-07-03T22:26:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
