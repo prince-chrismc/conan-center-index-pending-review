@@ -232,32 +232,6 @@
       }
    },
    {
-      "Number": 6104,
-      "OpenedBy": "paulo-coutinho",
-      "CreatedAt": "2021-06-29T23:37:39Z",
-      "Recipe": "poco",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6104",
-      "LastCommitSHA": "e5f2594dcd074b491ab4ebfe4fae9eaa3ae7508d",
-      "LastCommitAt": "2021-07-02T17:17:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-03T12:53:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6104#pullrequestreview-698591959"
-         }
-      }
-   },
-   {
       "Number": 6110,
       "OpenedBy": "paulo-coutinho",
       "CreatedAt": "2021-06-30T16:53:42Z",
@@ -381,31 +355,6 @@
             "ReviewerName": "jgsogo",
             "SubmittedAt": "2021-07-03T07:57:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6142#pullrequestreview-698575516"
-         }
-      }
-   },
-   {
-      "Number": 6144,
-      "OpenedBy": "espositofulvio",
-      "CreatedAt": "2021-07-03T08:47:52Z",
-      "Recipe": "spirv-tools",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6144",
-      "LastCommitSHA": "3093bad9162e288d55eeddec288b0481d964518e",
-      "LastCommitAt": "2021-07-03T08:46:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-03T12:32:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6144#pullrequestreview-698590899"
          }
       }
    },
