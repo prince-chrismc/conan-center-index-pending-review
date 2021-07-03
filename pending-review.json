@@ -102,29 +102,27 @@
       }
    },
    {
-      "Number": 6028,
-      "OpenedBy": "tisonkun",
-      "CreatedAt": "2021-06-22T20:04:10Z",
-      "Recipe": "poco",
+      "Number": 6056,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-06-24T23:14:36Z",
+      "Recipe": "freetype",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6028",
-      "LastCommitSHA": "08f1ca904c6b7eb74392c54e4fdb53f6c8ce312d",
-      "LastCommitAt": "2021-06-22T20:02:45Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6056",
+      "LastCommitSHA": "c6a874fcf75181f6b8e7ef65f88d730ac54c56bd",
+      "LastCommitAt": "2021-06-29T15:40:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
-            "uilianries",
-            "prince-chrismc",
             "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-06-24T17:54:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6028#pullrequestreview-692060133"
+            "SubmittedAt": "2021-07-03T14:53:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6056#pullrequestreview-698598936"
          }
       }
    },
