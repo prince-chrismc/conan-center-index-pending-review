@@ -446,23 +446,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 6151,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-04T12:09:12Z",
-      "Recipe": "proj",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6151",
-      "LastCommitSHA": "f90d605ca7e9e861451d223d3e51d41f6aa4c4b2",
-      "LastCommitAt": "2021-07-04T13:57:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
