@@ -259,33 +259,6 @@
       }
    },
    {
-      "Number": 6111,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-06-30T17:31:43Z",
-      "Recipe": "mongo-c-driver",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6111",
-      "LastCommitSHA": "0be46e880bb34c0382b4c67ae7043f7611afe44c",
-      "LastCommitAt": "2021-06-30T17:29:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-04T09:19:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6111#pullrequestreview-698654407"
-         }
-      }
-   },
-   {
       "Number": 6130,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-07-02T09:41:57Z",
