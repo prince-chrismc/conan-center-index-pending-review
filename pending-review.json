@@ -472,8 +472,8 @@
       "Recipe": "sqlite3",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6154",
-      "LastCommitSHA": "2bccd234801139f3c06ce2504dcb4bed46f013d6",
-      "LastCommitAt": "2021-07-04T18:00:38Z",
+      "LastCommitSHA": "3cfd6ee0946faf6109dbe58c3f2a9d9e6cfdc093",
+      "LastCommitAt": "2021-07-04T18:21:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
