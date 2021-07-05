@@ -14,7 +14,7 @@ func Statistics(stats stats.Stats) string {
 
 #### :bar_chart: Statistics
 
-> :warning: These are just rough metrics counting the labels and may not reflect the acutal state of pull requests
+> :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
 - Commit: ` + os.Getenv("GITHUB_SHA") + `
 - Pull Requests:
