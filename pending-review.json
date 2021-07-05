@@ -160,63 +160,6 @@
       }
    },
    {
-      "Number": 6147,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-03T21:31:41Z",
-      "Recipe": "bitmagic",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6147",
-      "LastCommitSHA": "1df54865880834a4b5b70c46242b252766630557",
-      "LastCommitAt": "2021-07-03T21:30:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 5,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4",
-            "ericLemanissier",
-            "jgsogo",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-07-05T19:32:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6147#pullrequestreview-699389616"
-         }
-      }
-   },
-   {
-      "Number": 6148,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-03T22:27:06Z",
-      "Recipe": "geographiclib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6148",
-      "LastCommitSHA": "5b187dd90c99aa39bd7d6d92bb5faf41f3bbf7ab",
-      "LastCommitAt": "2021-07-03T22:26:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4",
-            "jgsogo",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-07-05T19:31:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6148#pullrequestreview-699389369"
-         }
-      }
-   },
-   {
       "Number": 6151,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-07-04T12:09:12Z",
@@ -691,24 +634,6 @@
             "SubmittedAt": "2021-07-05T19:35:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6177#pullrequestreview-699390556"
          }
-      }
-   },
-   {
-      "Number": 6180,
-      "OpenedBy": "espositofulvio",
-      "CreatedAt": "2021-07-05T19:02:38Z",
-      "Recipe": "glslang",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6180",
-      "LastCommitSHA": "db8b779d9333430c1b8f520c23292508fa88390c",
-      "LastCommitAt": "2021-07-05T18:59:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
