@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func parseJson(t *testing.T, str string) []*github.CommitFile {
+func parsePrJson(t *testing.T, str string) []*github.CommitFile {
 	var files []*github.CommitFile
 
 	if err := json.Unmarshal([]byte(str), &files); err != nil {
@@ -19,7 +19,7 @@ func parseJson(t *testing.T, str string) []*github.CommitFile {
 }
 
 func TestOnlyBumpFilesChangedNotTwo(t *testing.T) {
-	oneFile := parseJson(t, `[
+	oneFile := parsePrJson(t, `[
 		{
 		  "sha": "5cbce65d888e970205160de1ea33cb3dae4b948b",
 		  "filename": "recipes/b2/portable/conandata.yml",
@@ -38,7 +38,7 @@ func TestOnlyBumpFilesChangedNotTwo(t *testing.T) {
 }
 
 func TestOnlyBumpFilesChangedWrongFiles(t *testing.T) {
-	filesCMakeRecipe := parseJson(t, `[
+	filesCMakeRecipe := parsePrJson(t, `[
 		{
 		  "sha": "9c7b7521252773b5e1880c9c7f4cbc0f2196ad42",
 		  "filename": "recipes/cpu_features/all/CMakeLists.txt",
@@ -69,7 +69,7 @@ func TestOnlyBumpFilesChangedWrongFiles(t *testing.T) {
 }
 
 func TestOnlyBumpFilesChanged(t *testing.T) {
-	filesConfigData := parseJson(t, `[
+	filesConfigData := parsePrJson(t, `[
 		{
 		  "sha": "d4cfe969ef2e75f2f66cfbd4e41b61ee50962d54",
 		  "filename": "recipes/b2/config.yml",
@@ -100,7 +100,7 @@ func TestOnlyBumpFilesChanged(t *testing.T) {
 }
 
 func TestOnlyBumpFilesChangedWorngOrder(t *testing.T) {
-	filesDataConfig := parseJson(t, `[
+	filesDataConfig := parsePrJson(t, `[
 		{
 		  "sha": "b7081bc87d34dcf2cebac5e897e4869fc92d71a9",
 		  "filename": "recipes/djinni-generator/all/conandata.yml",

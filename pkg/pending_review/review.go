@@ -46,7 +46,7 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) Reviews {
 		onBranchHead := sha == review.GetCommitID()
 
 		reviewerName := review.GetUser().GetLogin()
-		isTeamMember := isTeamMember(review.GetAuthorAssociation())
+		isTeamMember := isTeamMember(reviewerName)
 		isMember := isTeamMember || isCommunityMember(reviewerName)
 
 		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API
@@ -99,7 +99,7 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) Reviews {
 func isTeamMember(reviewerName string) bool {
 	switch reviewerName {
 	// As defined by https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#official-reviewers
-	case "memsharded", "lasote", "danimtb", "jgsogo", "czoido", "solvingj", "sse4", "uilianries":
+	case "memsharded", "lasote", "danimtb", "jgsogo", "czoido", "solvingj", "SSE4", "uilianries":
 		return true
 	default:
 		return false
