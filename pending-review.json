@@ -247,18 +247,37 @@
       "LastCommitAt": "2021-07-06T10:17:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-06T14:18:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6193#pullrequestreview-700013280"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-07-06T17:56:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6193#pullrequestreview-700235098"
          }
+      }
+   },
+   {
+      "Number": 6197,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-06T17:53:26Z",
+      "Recipe": "andreasbuhr-cppcoro",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6197",
+      "LastCommitSHA": "75ccb126c9edd9c7dd63286225a6ad4deeaf7002",
+      "LastCommitAt": "2021-07-06T17:51:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
