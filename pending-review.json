@@ -262,24 +262,6 @@
       }
    },
    {
-      "Number": 6197,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-06T17:53:26Z",
-      "Recipe": "andreasbuhr-cppcoro",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6197",
-      "LastCommitSHA": "54b7486edc8e666334fbd82ac476643dbe6c5c78",
-      "LastCommitAt": "2021-07-06T21:11:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 6199,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-07-06T19:12:19Z",
