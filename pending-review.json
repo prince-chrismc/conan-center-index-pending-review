@@ -142,13 +142,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6134",
       "LastCommitSHA": "f16768f0265c5592e806868268136fb23adc0cad",
       "LastCommitAt": "2021-07-06T11:46:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-07-06T20:00:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6134#pullrequestreview-700333396"
+         }
       }
    },
    {
@@ -252,6 +259,51 @@
             "SubmittedAt": "2021-07-06T14:18:26Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6191#pullrequestreview-700012792"
          }
+      }
+   },
+   {
+      "Number": 6196,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-06T12:50:22Z",
+      "Recipe": "openal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6196",
+      "LastCommitSHA": "1054b47244d21d650b40fbbea82b1df089275346",
+      "LastCommitAt": "2021-07-06T12:48:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc",
+            "madebr",
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-06T14:01:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6196#pullrequestreview-699991923"
+         }
+      }
+   },
+   {
+      "Number": 6199,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-06T19:12:19Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6199",
+      "LastCommitSHA": "710cc958422f226399bb5d8da73b98e491f78485",
+      "LastCommitAt": "2021-07-06T19:08:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
