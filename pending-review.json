@@ -296,5 +296,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6202,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2021-07-06T22:55:33Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6202",
+      "LastCommitSHA": "08fb9d3257ac4987e1a828e701f70444d1006bae",
+      "LastCommitAt": "2021-07-06T22:55:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
