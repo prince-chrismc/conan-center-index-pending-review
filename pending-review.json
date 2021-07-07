@@ -119,17 +119,18 @@
       "LastCommitAt": "2021-07-06T08:54:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-06T14:15:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6126#pullrequestreview-700009498"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-07-07T08:49:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6126#pullrequestreview-700743910"
          }
       }
    },
@@ -287,6 +288,78 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6209",
       "LastCommitSHA": "62c24755861d3ee06a79f30a3097c221941c8f57",
       "LastCommitAt": "2021-07-07T07:54:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6211,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-07T08:26:14Z",
+      "Recipe": "astro-informatics-so3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6211",
+      "LastCommitSHA": "c006ce507ff70ce9c4f2bc35c18d5fe60504da1a",
+      "LastCommitAt": "2021-07-07T08:39:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6212,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-07T09:09:36Z",
+      "Recipe": "bdwgc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6212",
+      "LastCommitSHA": "ee09c9a86ede421f052e710cdf01867f4854d7da",
+      "LastCommitAt": "2021-07-07T09:08:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6213,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-07-07T09:10:38Z",
+      "Recipe": "libx265",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6213",
+      "LastCommitSHA": "51af57f6b732f7704476dff3f8e9fd332b8e4907",
+      "LastCommitAt": "2021-07-07T09:09:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6214,
+      "OpenedBy": "a4z",
+      "CreatedAt": "2021-07-07T09:13:46Z",
+      "Recipe": "djinni-support-lib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6214",
+      "LastCommitSHA": "ac643c811655afebebcb24401fe35d9438841648",
+      "LastCommitAt": "2021-07-07T09:12:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
