@@ -132,31 +132,27 @@
       }
    },
    {
-      "Number": 6214,
-      "OpenedBy": "a4z",
-      "CreatedAt": "2021-07-07T09:13:46Z",
-      "Recipe": "djinni-support-lib",
+      "Number": 6221,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-07T15:37:17Z",
+      "Recipe": "cctz",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6214",
-      "LastCommitSHA": "27fc068e5fa8cc658c53f84b83886a5e7f6fde22",
-      "LastCommitAt": "2021-07-07T16:39:29Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6221",
+      "LastCommitSHA": "868745c3b0e98a39f82594d312a4124e736ffbc9",
+      "LastCommitAt": "2021-07-07T16:45:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "jothepro",
-            "SpaceIm",
-            "SSE4",
-            "ruilvo",
-            "jgsogo"
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-08T12:03:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6214#pullrequestreview-701976075"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-07-08T12:59:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6221#pullrequestreview-702030258"
          }
       }
    },
