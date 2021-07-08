@@ -55,33 +55,6 @@
       }
    },
    {
-      "Number": 6108,
-      "OpenedBy": "spaque-qustodio",
-      "CreatedAt": "2021-06-30T11:09:31Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6108",
-      "LastCommitSHA": "d55c0e76c319ab5df13feed82e11048be84be1f6",
-      "LastCommitAt": "2021-06-30T10:46:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-08T18:49:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6108#pullrequestreview-702396072"
-         }
-      }
-   },
-   {
       "Number": 6165,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2021-07-05T09:47:22Z",
@@ -181,6 +154,24 @@
             "SubmittedAt": "2021-07-08T16:29:59Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6234#pullrequestreview-702274880"
          }
+      }
+   },
+   {
+      "Number": 6240,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2021-07-08T18:54:42Z",
+      "Recipe": "sassc",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6240",
+      "LastCommitSHA": "2891753f3bec718976e7fbc380e5c168730f9c4f",
+      "LastCommitAt": "2021-07-08T18:40:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
