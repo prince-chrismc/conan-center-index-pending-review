@@ -192,17 +192,18 @@
       "LastCommitAt": "2021-07-07T16:39:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jothepro"
+            "jothepro",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jothepro",
-            "SubmittedAt": "2021-07-07T18:57:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6214#pullrequestreview-701347896"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-08T05:44:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6214#pullrequestreview-701659219"
          }
       }
    },
