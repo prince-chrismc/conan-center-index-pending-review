@@ -65,17 +65,18 @@
       "LastCommitAt": "2021-06-30T10:46:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
+         "Count": 6,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "spaque-qustodio",
-            "SubmittedAt": "2021-07-08T13:54:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6108#pullrequestreview-702094162"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-08T15:13:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6108#pullrequestreview-702192318"
          }
       }
    },
