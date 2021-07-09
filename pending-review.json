@@ -25,35 +25,6 @@
       }
    },
    {
-      "Number": 5509,
-      "OpenedBy": "hpesoj",
-      "CreatedAt": "2021-05-10T19:57:51Z",
-      "Recipe": "angelscript",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5509",
-      "LastCommitSHA": "d16f7a8fcb5b8195bb274980a5e80031ac3a7541",
-      "LastCommitAt": "2021-05-09T11:55:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "intelligide",
-            "a4z",
-            "SSE4"
-         ],
-         "Blockers": [
-            "uilianries"
-         ],
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-05-28T11:47:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5509#pullrequestreview-671215864"
-         }
-      }
-   },
-   {
       "Number": 5792,
       "OpenedBy": "boussaffawalid",
       "CreatedAt": "2021-06-07T14:47:55Z",
@@ -242,17 +213,18 @@
       "LastCommitAt": "2021-07-08T16:15:02Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-09T12:03:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6237#pullrequestreview-702979717"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-09T13:55:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6237#pullrequestreview-703075849"
          }
       }
    },
@@ -279,33 +251,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-07-09T12:02:48Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6240#pullrequestreview-702979401"
-         }
-      }
-   },
-   {
-      "Number": 6242,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2021-07-08T19:32:13Z",
-      "Recipe": "bison",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6242",
-      "LastCommitSHA": "214fedfe5ae9e66ea520f062d40910cb947b4ea0",
-      "LastCommitAt": "2021-07-08T19:28:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": [
-            "jgsogo"
-         ],
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-09T12:52:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6242#pullrequestreview-703017836"
          }
       }
    },
