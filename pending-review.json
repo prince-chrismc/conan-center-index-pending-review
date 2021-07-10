@@ -173,5 +173,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6256,
+      "OpenedBy": "martinmoene",
+      "CreatedAt": "2021-07-10T09:13:39Z",
+      "Recipe": "ring-span-lite",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6256",
+      "LastCommitSHA": "4abf7a981a255ca5dc088f26fbbf959f8e97dbaf",
+      "LastCommitAt": "2021-07-10T09:12:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
