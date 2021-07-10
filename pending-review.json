@@ -209,60 +209,6 @@
       }
    },
    {
-      "Number": 6243,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-08T20:51:29Z",
-      "Recipe": "docopt.cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6243",
-      "LastCommitSHA": "d33a900721c2a6e3ccc1df20b988229d40b2a4dc",
-      "LastCommitAt": "2021-07-08T20:49:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-10T01:43:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6243#pullrequestreview-703460051"
-         }
-      }
-   },
-   {
-      "Number": 6245,
-      "OpenedBy": "ericriff",
-      "CreatedAt": "2021-07-08T21:40:47Z",
-      "Recipe": "sentry-breakpad",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6245",
-      "LastCommitSHA": "a717200a2a596c80b7d1fceb82c6eeed1414e16a",
-      "LastCommitAt": "2021-07-08T21:37:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-10T01:44:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6245#pullrequestreview-703460078"
-         }
-      }
-   },
-   {
       "Number": 6249,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-07-09T08:21:46Z",
