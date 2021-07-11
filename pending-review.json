@@ -239,8 +239,8 @@
       "Recipe": "gf-complete",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6274",
-      "LastCommitSHA": "6769b270adc582f9c0f39e8dff72a15b0538f760",
-      "LastCommitAt": "2021-07-11T17:08:01Z",
+      "LastCommitSHA": "bcfd65373f2f88bdf691193552018c25fd3d2dc5",
+      "LastCommitAt": "2021-07-11T19:04:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
