@@ -163,7 +163,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6221",
       "LastCommitSHA": "868745c3b0e98a39f82594d312a4124e736ffbc9",
       "LastCommitAt": "2021-07-07T16:45:18Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 2,
@@ -335,6 +335,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6270",
       "LastCommitSHA": "48a95fd9432753ed8880b8b388d2714fa7d639ae",
       "LastCommitAt": "2021-07-11T09:12:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6271,
+      "OpenedBy": "martinmoene",
+      "CreatedAt": "2021-07-11T10:58:29Z",
+      "Recipe": "ring-span-lite",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6271",
+      "LastCommitSHA": "63b355d20181c9e1152e95560d4a3a52156b2e17",
+      "LastCommitAt": "2021-07-11T10:57:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
