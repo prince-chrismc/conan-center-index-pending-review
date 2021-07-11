@@ -269,7 +269,7 @@
       "LastCommitAt": "2021-07-11T09:12:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 9,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -277,9 +277,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-07-11T13:01:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6270#pullrequestreview-703585856"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-07-11T13:49:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6270#pullrequestreview-703590554"
          }
       }
    },
@@ -308,6 +308,24 @@
             "SubmittedAt": "2021-07-11T13:03:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6271#pullrequestreview-703586004"
          }
+      }
+   },
+   {
+      "Number": 6272,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-11T11:21:33Z",
+      "Recipe": "gdbm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6272",
+      "LastCommitSHA": "9fbe0867cbf6c26451be3cd8f02a02de3aa710a0",
+      "LastCommitAt": "2021-07-11T12:35:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
