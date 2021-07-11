@@ -242,18 +242,19 @@
       "LastCommitAt": "2021-07-10T12:45:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "ericLemanissier"
+            "ericLemanissier",
+            "theirix"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-07-11T05:27:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6260#pullrequestreview-703548911"
+            "ReviewerName": "theirix",
+            "SubmittedAt": "2021-07-11T08:13:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6260#pullrequestreview-703560044"
          }
       }
    },
@@ -293,17 +294,18 @@
       "LastCommitAt": "2021-07-10T12:44:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "theirix"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-10T17:34:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6264#pullrequestreview-703517112"
+            "ReviewerName": "theirix",
+            "SubmittedAt": "2021-07-11T08:13:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6264#pullrequestreview-703560013"
          }
       }
    },
@@ -330,6 +332,24 @@
             "SubmittedAt": "2021-07-10T17:34:13Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6265#pullrequestreview-703517101"
          }
+      }
+   },
+   {
+      "Number": 6268,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2021-07-11T08:12:17Z",
+      "Recipe": "yaml-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6268",
+      "LastCommitSHA": "e92c9c128e7a685f7e22d1e8ee71133c426411dc",
+      "LastCommitAt": "2021-07-11T08:00:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
