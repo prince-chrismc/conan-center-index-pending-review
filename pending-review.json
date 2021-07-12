@@ -408,5 +408,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6278,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-12T08:48:32Z",
+      "Recipe": "libsodium",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6278",
+      "LastCommitSHA": "46acf61d0995a8fbf20fc03e122fe93d5bbc507c",
+      "LastCommitAt": "2021-07-12T08:44:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
