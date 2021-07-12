@@ -390,5 +390,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6275#pullrequestreview-703742796"
          }
       }
+   },
+   {
+      "Number": 6277,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-07-12T07:38:56Z",
+      "Recipe": "oatpp-sqlite",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6277",
+      "LastCommitSHA": "e2f7a4a56761414b71d66320ee6de841b63e7a87",
+      "LastCommitAt": "2021-07-12T07:37:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
