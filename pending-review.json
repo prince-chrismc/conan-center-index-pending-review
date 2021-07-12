@@ -291,7 +291,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6274",
       "LastCommitSHA": "bcfd65373f2f88bdf691193552018c25fd3d2dc5",
       "LastCommitAt": "2021-07-11T19:04:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -305,6 +305,24 @@
             "SubmittedAt": "2021-07-11T22:49:40Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6274#pullrequestreview-703630466"
          }
+      }
+   },
+   {
+      "Number": 6275,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-11T23:28:52Z",
+      "Recipe": "icecream-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6275",
+      "LastCommitSHA": "0e5b165f58e1b49cef03684180256b5a7d3779fc",
+      "LastCommitAt": "2021-07-11T23:27:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
