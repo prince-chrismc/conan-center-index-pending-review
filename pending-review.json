@@ -444,5 +444,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6280,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-07-12T10:18:14Z",
+      "Recipe": "sentry-native",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6280",
+      "LastCommitSHA": "9bb62d204947afc8b3cecab845dca5df7e7a0bd1",
+      "LastCommitAt": "2021-07-12T10:10:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-07-12T10:27:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6280#pullrequestreview-703956553"
+         }
+      }
    }
 ]
