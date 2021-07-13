@@ -165,7 +165,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6277",
       "LastCommitSHA": "e2f7a4a56761414b71d66320ee6de841b63e7a87",
       "LastCommitAt": "2021-07-12T07:37:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 3,
@@ -206,33 +206,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-07-12T22:03:01Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6281#pullrequestreview-704580884"
-         }
-      }
-   },
-   {
-      "Number": 6282,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-07-12T11:15:00Z",
-      "Recipe": "opengl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6282",
-      "LastCommitSHA": "f5117e68139b12ece578cd510fc9ea326b39e04b",
-      "LastCommitAt": "2021-07-12T11:14:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-12T21:56:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6282#pullrequestreview-704577024"
          }
       }
    },
