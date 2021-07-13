@@ -157,60 +157,6 @@
       }
    },
    {
-      "Number": 6274,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-11T17:30:34Z",
-      "Recipe": "gf-complete",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6274",
-      "LastCommitSHA": "bcfd65373f2f88bdf691193552018c25fd3d2dc5",
-      "LastCommitAt": "2021-07-11T19:04:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-12T18:12:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6274#pullrequestreview-704406691"
-         }
-      }
-   },
-   {
-      "Number": 6275,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-11T23:28:52Z",
-      "Recipe": "icecream-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6275",
-      "LastCommitSHA": "0e5b165f58e1b49cef03684180256b5a7d3779fc",
-      "LastCommitAt": "2021-07-11T23:27:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-12T13:04:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6275#pullrequestreview-704085681"
-         }
-      }
-   },
-   {
       "Number": 6277,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2021-07-12T07:38:56Z",
@@ -355,20 +301,21 @@
       "LastCommitAt": "2021-07-12T12:29:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
+         "Count": 5,
+         "ValidApprovals": 5,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
             "prince-chrismc",
             "theirix",
-            "uilianries"
+            "uilianries",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-12T20:48:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6283#pullrequestreview-704529940"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-07-13T00:29:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6283#pullrequestreview-704646583"
          }
       }
    },
