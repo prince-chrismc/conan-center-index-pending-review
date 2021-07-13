@@ -104,33 +104,6 @@
       }
    },
    {
-      "Number": 6286,
-      "OpenedBy": "AGreat1",
-      "CreatedAt": "2021-07-12T14:28:49Z",
-      "Recipe": "jerryscript",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6286",
-      "LastCommitSHA": "9dd5d9c8cec4d154c2e440353435d4f103582485",
-      "LastCommitAt": "2021-07-12T19:48:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-13T18:23:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6286#pullrequestreview-705513421"
-         }
-      }
-   },
-   {
       "Number": 6297,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2021-07-13T07:02:50Z",
@@ -139,7 +112,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6297",
       "LastCommitSHA": "376a76b077bc81686a09a057d9dbb6a9113b1050",
       "LastCommitAt": "2021-07-13T07:01:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 2,
@@ -247,6 +220,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6315",
       "LastCommitSHA": "51ead6475694087392162034a9cbb5ee6ddf155c",
       "LastCommitAt": "2021-07-13T15:49:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6322,
+      "OpenedBy": "Renari",
+      "CreatedAt": "2021-07-13T21:29:15Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6322",
+      "LastCommitSHA": "9d7f66c1b54073ed053372586f5f37c5cd39c838",
+      "LastCommitAt": "2021-07-13T21:27:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6324,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-13T22:09:35Z",
+      "Recipe": "kangaru",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6324",
+      "LastCommitSHA": "01b1ff986952175dc7460e5fa7176d237fca55f3",
+      "LastCommitAt": "2021-07-13T22:07:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
