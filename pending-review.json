@@ -216,17 +216,18 @@
       "LastCommitAt": "2021-07-13T07:01:56Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "espositofulvio"
+            "espositofulvio",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "espositofulvio",
-            "SubmittedAt": "2021-07-13T15:29:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6297#pullrequestreview-705342457"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-13T16:31:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6297#pullrequestreview-705409101"
          }
       }
    },
@@ -395,6 +396,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6315",
       "LastCommitSHA": "51ead6475694087392162034a9cbb5ee6ddf155c",
       "LastCommitAt": "2021-07-13T15:49:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6317,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-13T17:08:48Z",
+      "Recipe": "jxrlib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6317",
+      "LastCommitSHA": "17d1f2171e53f992397beac8aba5cc5280a32996",
+      "LastCommitAt": "2021-07-13T17:06:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
