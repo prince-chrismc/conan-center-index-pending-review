@@ -63,17 +63,18 @@
       "LastCommitAt": "2021-06-29T21:46:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-14T06:16:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6100#pullrequestreview-705890934"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-14T12:16:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6100#pullrequestreview-706201366"
          }
       }
    },
@@ -113,18 +114,19 @@
       "LastCommitAt": "2021-07-13T12:17:04Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
+         "Count": 6,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "madebr"
+            "madebr",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-14T10:08:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6300#pullrequestreview-706090584"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-14T12:19:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6300#pullrequestreview-706204872"
          }
       }
    },
@@ -299,6 +301,24 @@
             "SubmittedAt": "2021-07-14T06:12:26Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6326#pullrequestreview-705888391"
          }
+      }
+   },
+   {
+      "Number": 6334,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-14T11:14:18Z",
+      "Recipe": "libcpuid",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6334",
+      "LastCommitSHA": "832908ea002351160fc9a4a11c171e73b7c55c7e",
+      "LastCommitAt": "2021-07-14T11:12:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
