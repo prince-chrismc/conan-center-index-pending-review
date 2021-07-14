@@ -300,23 +300,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6326#pullrequestreview-705888391"
          }
       }
-   },
-   {
-      "Number": 6332,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-14T10:04:29Z",
-      "Recipe": "libconfuse",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6332",
-      "LastCommitSHA": "ca78bee6fa46dc1703083bda0e5b972503c2d73e",
-      "LastCommitAt": "2021-07-14T10:01:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
