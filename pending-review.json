@@ -10,19 +10,45 @@
       "LastCommitAt": "2021-07-12T15:15:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 13,
-         "ValidApprovals": 3,
+         "Count": 14,
+         "ValidApprovals": 4,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
             "uilianries",
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": [],
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-12T18:56:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5243#pullrequestreview-704442216"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-07-14T13:37:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5243#pullrequestreview-706284465"
+         }
+      }
+   },
+   {
+      "Number": 5532,
+      "OpenedBy": "AlvaroFS",
+      "CreatedAt": "2021-05-14T21:16:04Z",
+      "Recipe": "dd-opentracing-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5532",
+      "LastCommitSHA": "83c96bc588d52e2f3215223d5de17a06c28efd4f",
+      "LastCommitAt": "2021-06-29T18:08:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-07-14T13:37:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5532#pullrequestreview-706284803"
          }
       }
    },
@@ -100,33 +126,6 @@
             "ReviewerName": "AndreyMlashkin",
             "SubmittedAt": "2021-07-13T15:10:01Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6180#pullrequestreview-705318267"
-         }
-      }
-   },
-   {
-      "Number": 6306,
-      "OpenedBy": "hosseinmoein",
-      "CreatedAt": "2021-07-13T13:09:27Z",
-      "Recipe": "dataframe",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6306",
-      "LastCommitSHA": "1010aa94f6ef16aeb1e1a458da71f1b5005a80a5",
-      "LastCommitAt": "2021-07-13T19:32:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-14T12:21:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6306#pullrequestreview-706206230"
          }
       }
    },
