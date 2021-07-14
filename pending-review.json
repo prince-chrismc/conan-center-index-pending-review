@@ -51,33 +51,6 @@
       }
    },
    {
-      "Number": 6100,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-06-29T21:56:29Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6100",
-      "LastCommitSHA": "c56b664c0a0930080434f52ea8d655969ace5176",
-      "LastCommitAt": "2021-06-29T21:46:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-14T16:48:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6100#pullrequestreview-706503647"
-         }
-      }
-   },
-   {
       "Number": 6180,
       "OpenedBy": "espositofulvio",
       "CreatedAt": "2021-07-05T19:02:38Z",
@@ -88,18 +61,19 @@
       "LastCommitAt": "2021-07-13T14:48:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 1,
+         "Count": 12,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "AndreyMlashkin",
-            "jgsogo"
+            "jgsogo",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-14T16:46:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6180#pullrequestreview-706501151"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-07-14T18:13:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6180#pullrequestreview-706578955"
          }
       }
    },
@@ -263,18 +237,19 @@
       "LastCommitAt": "2021-07-14T07:51:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
+         "Count": 5,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "jgsogo"
+            "jgsogo",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-14T16:16:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6327#pullrequestreview-706472453"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-07-14T18:13:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6327#pullrequestreview-706579224"
          }
       }
    },
