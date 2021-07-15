@@ -219,5 +219,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6348,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-07-15T04:15:04Z",
+      "Recipe": "winpcap",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6348",
+      "LastCommitSHA": "66a4d8b4b35a7a384af2f92e4e9bfffe1b935e37",
+      "LastCommitAt": "2021-07-15T02:34:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
