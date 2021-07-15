@@ -51,33 +51,6 @@
       }
    },
    {
-      "Number": 6223,
-      "OpenedBy": "blackliner",
-      "CreatedAt": "2021-07-07T17:14:19Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6223",
-      "LastCommitSHA": "38ce140573874436d3468ad8be5c48b545417a98",
-      "LastCommitAt": "2021-07-12T14:04:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 22,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "prince-chrismc",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-15T07:56:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6223#pullrequestreview-707040038"
-         }
-      }
-   },
-   {
       "Number": 6303,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-07-13T11:05:42Z",
@@ -174,6 +147,31 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-07-14T23:39:21Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6333#pullrequestreview-706804014"
+         }
+      }
+   },
+   {
+      "Number": 6343,
+      "OpenedBy": "espositofulvio",
+      "CreatedAt": "2021-07-14T21:11:33Z",
+      "Recipe": "vulkan-validationlayers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6343",
+      "LastCommitSHA": "ff399cc977e1ff40f74115afce18a8f8fa196a72",
+      "LastCommitAt": "2021-07-15T07:18:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 8,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-15T09:06:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6343#pullrequestreview-707111012"
          }
       }
    },
