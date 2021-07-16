@@ -10,18 +10,19 @@
       "LastCommitAt": "2021-07-16T08:07:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
+         "Count": 11,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "prince-chrismc"
+            "prince-chrismc",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-16T19:31:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5792#pullrequestreview-708692673"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-07-16T22:47:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5792#pullrequestreview-708788569"
          }
       }
    },
@@ -196,61 +197,6 @@
             "ReviewerName": "jgsogo",
             "SubmittedAt": "2021-07-16T16:11:02Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6360#pullrequestreview-708548987"
-         }
-      }
-   },
-   {
-      "Number": 6373,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-16T12:34:20Z",
-      "Recipe": "libmodplug",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6373",
-      "LastCommitSHA": "e85cf690c16d35e5a8d3c731ef02336f9a40cbb2",
-      "LastCommitAt": "2021-07-16T12:32:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "madebr",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-16T16:01:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6373#pullrequestreview-708540728"
-         }
-      }
-   },
-   {
-      "Number": 6374,
-      "OpenedBy": "theodelrieu",
-      "CreatedAt": "2021-07-16T14:00:33Z",
-      "Recipe": "mgs",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6374",
-      "LastCommitSHA": "4e42dc56cf4ed6547b1b31766f3b3c5350aed304",
-      "LastCommitAt": "2021-07-16T13:59:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "madebr",
-            "jgsogo",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-07-16T16:04:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6374#pullrequestreview-708543263"
          }
       }
    },
