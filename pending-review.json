@@ -213,5 +213,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6383,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-17T09:01:19Z",
+      "Recipe": "abseil",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6383",
+      "LastCommitSHA": "85bff757d294a7cfc5587629a84e5353cf32fa2e",
+      "LastCommitAt": "2021-07-17T09:04:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
