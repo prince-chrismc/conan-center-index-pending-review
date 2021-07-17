@@ -237,7 +237,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6379",
       "LastCommitSHA": "4d9073d8a69e478a1a965914b9a32ca04b1c962e",
       "LastCommitAt": "2021-07-16T23:36:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -276,6 +276,24 @@
             "SubmittedAt": "2021-07-17T09:45:53Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6381#pullrequestreview-708904445"
          }
+      }
+   },
+   {
+      "Number": 6384,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-17T10:11:51Z",
+      "Recipe": "libpcap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6384",
+      "LastCommitSHA": "c54bee623a8881b5356d06149c8e266524900bb9",
+      "LastCommitAt": "2021-07-17T11:15:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
