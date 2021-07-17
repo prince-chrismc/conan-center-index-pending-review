@@ -155,6 +155,31 @@
       }
    },
    {
+      "Number": 6371,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-16T12:11:36Z",
+      "Recipe": "libmodbus",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6371",
+      "LastCommitSHA": "cbb92eb35991d68237f8c8759db3e36aaa851aef",
+      "LastCommitAt": "2021-07-16T16:39:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 13,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-07-17T15:08:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6371#pullrequestreview-708948824"
+         }
+      }
+   },
+   {
       "Number": 6372,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-07-16T12:13:02Z",
