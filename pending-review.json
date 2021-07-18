@@ -27,24 +27,6 @@
       }
    },
    {
-      "Number": 5998,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2021-06-21T00:48:23Z",
-      "Recipe": "aaf",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5998",
-      "LastCommitSHA": "db92f6946f5daf0de03da9f9c56e3e9450185453",
-      "LastCommitAt": "2021-07-17T19:21:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 6133,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-07-02T11:32:09Z",
