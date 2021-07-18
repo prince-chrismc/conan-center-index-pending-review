@@ -409,7 +409,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6392",
       "LastCommitSHA": "734a617127c820922ad64eb9e9fa305b0533a6ac",
       "LastCommitAt": "2021-07-17T21:04:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -451,6 +451,31 @@
       }
    },
    {
+      "Number": 6394,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-17T21:59:24Z",
+      "Recipe": "libsvm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6394",
+      "LastCommitSHA": "6b4ad5dfe810e230dcd9a0db3942106799952de2",
+      "LastCommitAt": "2021-07-17T23:00:21Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-07-17T23:17:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6394#pullrequestreview-708975043"
+         }
+      }
+   },
+   {
       "Number": 6396,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-07-17T22:32:39Z",
@@ -459,6 +484,49 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6396",
       "LastCommitSHA": "4c2a1235172730d85fb8724dfab9437a42b0324f",
       "LastCommitAt": "2021-07-17T22:31:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-07-17T23:34:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6396#pullrequestreview-708975622"
+         }
+      }
+   },
+   {
+      "Number": 6397,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-17T23:44:55Z",
+      "Recipe": "libunistring",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6397",
+      "LastCommitSHA": "d8388b07ef3b4eed3be0ca9feb1272e02cfd54e3",
+      "LastCommitAt": "2021-07-17T23:43:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6398,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-18T00:11:26Z",
+      "Recipe": "libusb-compat",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6398",
+      "LastCommitSHA": "56a3fd34c2cabb4fab1b36adce622f7521928d5a",
+      "LastCommitAt": "2021-07-18T00:11:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
