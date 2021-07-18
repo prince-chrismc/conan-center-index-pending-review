@@ -565,14 +565,14 @@
       }
    },
    {
-      "Number": 6405,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-18T11:51:27Z",
-      "Recipe": "libvpx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6405",
-      "LastCommitSHA": "a7ec863dd49555c561323e9b9f2645662a9e08ff",
-      "LastCommitAt": "2021-07-18T12:09:08Z",
+      "Number": 6406,
+      "OpenedBy": "martinmoene",
+      "CreatedAt": "2021-07-18T12:45:40Z",
+      "Recipe": "ring-span-lite",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6406",
+      "LastCommitSHA": "db0f01512e81af3593271f03c8accb276b875632",
+      "LastCommitAt": "2021-07-18T12:26:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
