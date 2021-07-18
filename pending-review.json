@@ -529,14 +529,14 @@
       }
    },
    {
-      "Number": 6399,
-      "OpenedBy": "fmorgner",
-      "CreatedAt": "2021-07-18T09:27:30Z",
-      "Recipe": "godot-cpp",
+      "Number": 6403,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-18T10:31:20Z",
+      "Recipe": "libusb",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6399",
-      "LastCommitSHA": "615b378f5c991dee69eedc0ced584ad17fe4ab9a",
-      "LastCommitAt": "2021-07-18T09:20:44Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6403",
+      "LastCommitSHA": "9f7635793ca09e4507621d7d549ff7a409bbd1b6",
+      "LastCommitAt": "2021-07-18T10:27:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
