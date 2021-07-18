@@ -527,5 +527,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6398#pullrequestreview-708995515"
          }
       }
+   },
+   {
+      "Number": 6399,
+      "OpenedBy": "fmorgner",
+      "CreatedAt": "2021-07-18T09:27:30Z",
+      "Recipe": "godot-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6399",
+      "LastCommitSHA": "615b378f5c991dee69eedc0ced584ad17fe4ab9a",
+      "LastCommitAt": "2021-07-18T09:20:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
