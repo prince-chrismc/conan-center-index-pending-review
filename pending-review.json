@@ -206,31 +206,6 @@
       }
    },
    {
-      "Number": 6422,
-      "OpenedBy": "paulo-coutinho",
-      "CreatedAt": "2021-07-19T18:44:37Z",
-      "Recipe": "poco",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6422",
-      "LastCommitSHA": "9d45c6ed82f1ed89f09b120c8f12db25e7da42dc",
-      "LastCommitAt": "2021-07-19T18:44:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-19T19:15:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6422#pullrequestreview-709893353"
-         }
-      }
-   },
-   {
       "Number": 6426,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-07-19T19:52:56Z",
@@ -239,7 +214,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6426",
       "LastCommitSHA": "860068db71727d308f2f5c85c76ff8e4a15d6646",
       "LastCommitAt": "2021-07-19T19:49:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
