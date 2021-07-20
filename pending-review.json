@@ -1,31 +1,5 @@
 [
    {
-      "Number": 5532,
-      "OpenedBy": "AlvaroFS",
-      "CreatedAt": "2021-05-14T21:16:04Z",
-      "Recipe": "dd-opentracing-cpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5532",
-      "LastCommitSHA": "2ca44e0578230afc494741e7cb22bc31e22f81c7",
-      "LastCommitAt": "2021-07-15T11:32:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-20T11:43:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5532#pullrequestreview-710479821"
-         }
-      }
-   },
-   {
       "Number": 5773,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-06-05T17:42:28Z",
@@ -36,18 +10,20 @@
       "LastCommitAt": "2021-06-06T17:17:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 9,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "madebr"
+            "madebr",
+            "uilianries",
+            "jwillikers"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-20T00:14:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5773#pullrequestreview-710080079"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2021-07-20T14:56:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5773#pullrequestreview-710684796"
          }
       }
    },
@@ -62,7 +38,7 @@
       "LastCommitAt": "2021-07-16T08:07:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
+         "Count": 12,
          "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
@@ -72,9 +48,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-07-16T22:47:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5792#pullrequestreview-708788569"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-20T15:13:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5792#pullrequestreview-710704805"
          }
       }
    },
@@ -294,7 +270,7 @@
       "LastCommitAt": "2021-07-20T00:23:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 6,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -303,34 +279,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-07-20T14:08:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6428#pullrequestreview-710626084"
-         }
-      }
-   },
-   {
-      "Number": 6431,
-      "OpenedBy": "ruilvo",
-      "CreatedAt": "2021-07-20T08:09:19Z",
-      "Recipe": "crowcpp-crow",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6431",
-      "LastCommitSHA": "c926c34e4c67122dccd3cf900ee48ef13350925a",
-      "LastCommitAt": "2021-07-20T08:28:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-20T11:38:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6431#pullrequestreview-710476188"
+            "SubmittedAt": "2021-07-20T14:22:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6428#pullrequestreview-710642621"
          }
       }
    }
