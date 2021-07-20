@@ -282,5 +282,30 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6428#pullrequestreview-710193866"
          }
       }
+   },
+   {
+      "Number": 6431,
+      "OpenedBy": "ruilvo",
+      "CreatedAt": "2021-07-20T08:09:19Z",
+      "Recipe": "crowcpp-crow",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6431",
+      "LastCommitSHA": "c926c34e4c67122dccd3cf900ee48ef13350925a",
+      "LastCommitAt": "2021-07-20T08:28:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-07-20T08:30:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6431#pullrequestreview-710315322"
+         }
+      }
    }
 ]
