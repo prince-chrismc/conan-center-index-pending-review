@@ -324,5 +324,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6428,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-20T01:08:21Z",
+      "Recipe": "mosquitto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6428",
+      "LastCommitSHA": "f43543d794879c7596eff875f8b0c7ce0fe24ee1",
+      "LastCommitAt": "2021-07-20T00:23:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
