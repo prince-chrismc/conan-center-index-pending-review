@@ -151,8 +151,8 @@
       "Recipe": "libcurl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6452",
-      "LastCommitSHA": "ae97ed99acc2dafc1cab94188549925699b15098",
-      "LastCommitAt": "2021-07-21T17:02:33Z",
+      "LastCommitSHA": "a7add6b4d89c1666784671c82bca2e61088d5022",
+      "LastCommitAt": "2021-07-21T19:55:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
