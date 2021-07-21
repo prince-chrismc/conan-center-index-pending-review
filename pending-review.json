@@ -25,33 +25,6 @@
       }
    },
    {
-      "Number": 6248,
-      "OpenedBy": "mjvankampen",
-      "CreatedAt": "2021-07-09T05:00:03Z",
-      "Recipe": "cppcheck",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6248",
-      "LastCommitSHA": "2963296536e31614c16abf7339708ad8e053ca87",
-      "LastCommitAt": "2021-07-09T04:59:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "madebr",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-21T15:54:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6248#pullrequestreview-711875238"
-         }
-      }
-   },
-   {
       "Number": 6410,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-07-18T20:29:48Z",
@@ -144,33 +117,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 6445,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-07-21T05:22:38Z",
-      "Recipe": "spdlog",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6445",
-      "LastCommitSHA": "f50ba4afa3c5f111366b28a3c7c8d8dea6815d08",
-      "LastCommitAt": "2021-07-21T01:16:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-21T13:02:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6445#pullrequestreview-711626141"
-         }
       }
    },
    {
