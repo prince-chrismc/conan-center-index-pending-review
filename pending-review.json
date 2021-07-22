@@ -1,5 +1,30 @@
 [
    {
+      "Number": 5590,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-05-21T01:41:53Z",
+      "Recipe": "libtiff",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5590",
+      "LastCommitSHA": "61291ac9fc8a44c687eac854b1ef1aa14a3627eb",
+      "LastCommitAt": "2021-07-18T14:07:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 15,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-22T22:28:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5590#pullrequestreview-713284245"
+         }
+      }
+   },
+   {
       "Number": 5792,
       "OpenedBy": "boussaffawalid",
       "CreatedAt": "2021-06-07T14:47:55Z",
@@ -224,6 +249,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6463",
       "LastCommitSHA": "64ed3e20f37d0b0c13c1670afb8e9c30c85172c4",
       "LastCommitAt": "2021-07-22T13:19:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6466,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-22T22:17:34Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6466",
+      "LastCommitSHA": "d14dc6bca05e40eef2b23559603a2a2639e56c28",
+      "LastCommitAt": "2021-07-22T22:06:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
