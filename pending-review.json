@@ -155,18 +155,19 @@
       "LastCommitAt": "2021-07-22T00:28:02Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "uilianries"
+            "uilianries",
+            "martin-schulze-vireso"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-22T12:23:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6455#pullrequestreview-712673903"
+            "ReviewerName": "martin-schulze-vireso",
+            "SubmittedAt": "2021-07-22T15:20:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6455#pullrequestreview-712924742"
          }
       }
    },
@@ -179,13 +180,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6457",
       "LastCommitSHA": "74eaa00f69572c9ee9599a04dc9e0fcc75dab436",
       "LastCommitAt": "2021-07-22T08:16:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-07-22T15:38:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6457#pullrequestreview-712945544"
+         }
       }
    },
    {
