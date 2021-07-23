@@ -162,44 +162,18 @@
       "LastCommitAt": "2021-07-21T11:17:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-23T16:12:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6447#pullrequestreview-713882161"
-         }
-      }
-   },
-   {
-      "Number": 6452,
-      "OpenedBy": "dheater",
-      "CreatedAt": "2021-07-21T17:15:32Z",
-      "Recipe": "libcurl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6452",
-      "LastCommitSHA": "1c92b2a0ad81a842891cabf384365468a08059c6",
-      "LastCommitAt": "2021-07-23T01:17:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SpaceIm",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-23T15:49:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6452#pullrequestreview-713862892"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-07-23T16:28:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6447#pullrequestreview-713894799"
          }
       }
    },
@@ -294,6 +268,24 @@
             "SubmittedAt": "2021-07-23T13:29:29Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6470#pullrequestreview-713727472"
          }
+      }
+   },
+   {
+      "Number": 6473,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-07-23T16:09:38Z",
+      "Recipe": "xorg-proto",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6473",
+      "LastCommitSHA": "f1a9f4fafeb1640d4393b038725c8cebf4404b29",
+      "LastCommitAt": "2021-07-23T16:56:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
