@@ -128,33 +128,6 @@
       }
    },
    {
-      "Number": 6457,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-22T08:21:11Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6457",
-      "LastCommitSHA": "74eaa00f69572c9ee9599a04dc9e0fcc75dab436",
-      "LastCommitAt": "2021-07-22T08:16:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-22T23:41:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6457#pullrequestreview-713313642"
-         }
-      }
-   },
-   {
       "Number": 6460,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-07-22T10:44:09Z",
