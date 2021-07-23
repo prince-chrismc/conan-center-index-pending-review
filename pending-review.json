@@ -87,17 +87,18 @@
       "LastCommitAt": "2021-07-20T20:55:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-07-23T08:10:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6390#pullrequestreview-713487477"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-07-23T09:05:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6390#pullrequestreview-713528875"
          }
       }
    },
