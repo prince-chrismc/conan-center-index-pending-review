@@ -63,6 +63,12 @@ func TimeInReview(token string, dryRun bool) error {
 				continue
 			}
 
+			// These typically take little to no time and are sometimes forces through
+			// https://github.com/conan-io/conan-center-index/pulls?q=is%3Apr+is%3Amerged+label%3ADocs
+			if len(pull.Labels) > 0 && pull.Labels[0].GetName() == "Docs" {
+				continue
+			}
+
 			merged := pull.GetMergedAt() != time.Time{} // `merged` is not returned when paging through the API - so calculate it
 			if merged {
 				fmt.Printf("#%4d was closed at %s and merged at %s\n", pull.GetNumber(), pull.GetClosedAt().String(), pull.GetMergedAt().String())
