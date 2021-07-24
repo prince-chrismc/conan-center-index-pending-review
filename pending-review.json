@@ -177,13 +177,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6477",
       "LastCommitSHA": "25a9e49efcdcbedc9c0fdd3c248cda07dc964d00",
       "LastCommitAt": "2021-07-24T14:04:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-07-24T14:18:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6477#pullrequestreview-714237747"
+         }
       }
    },
    {
@@ -195,6 +202,103 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6478",
       "LastCommitSHA": "c75a0f5c2f25c00bbf81fea55ede4e3630adf92c",
       "LastCommitAt": "2021-07-24T14:08:04Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-07-24T14:19:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6478#pullrequestreview-714237826"
+         }
+      }
+   },
+   {
+      "Number": 6479,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-07-24T14:17:36Z",
+      "Recipe": "enkits",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6479",
+      "LastCommitSHA": "e51fb9a1e7c956e598451cf3b6037efa02a36e20",
+      "LastCommitAt": "2021-07-24T12:41:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6480,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-07-24T14:20:28Z",
+      "Recipe": "taywee-args",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6480",
+      "LastCommitSHA": "efcf9fc8d965406a3a293aedbad7af1924035afd",
+      "LastCommitAt": "2021-07-24T12:45:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6481,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-07-24T14:27:06Z",
+      "Recipe": "libgit2",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6481",
+      "LastCommitSHA": "cade5db7b826ea801c49acc1205aebc34e24e943",
+      "LastCommitAt": "2021-07-24T12:52:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6482,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-07-24T14:28:59Z",
+      "Recipe": "libwebsockets",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6482",
+      "LastCommitSHA": "34bc77284c9b3b523a82e1669a36ecaeafecd6b8",
+      "LastCommitAt": "2021-07-24T12:56:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6483,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-07-24T14:29:05Z",
+      "Recipe": "minizip-ng",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6483",
+      "LastCommitSHA": "442dd67ba02e0db4b8549b302050e585dcd3be40",
+      "LastCommitAt": "2021-07-24T12:45:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
