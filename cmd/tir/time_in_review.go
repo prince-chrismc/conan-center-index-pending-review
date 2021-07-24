@@ -15,7 +15,16 @@ import (
 )
 
 type timeInReview map[time.Time]time.Duration
-type closedPerDay map[time.Time]int
+type countPerDay map[time.Time]int
+
+func (c countPerDay) count(time time.Time) {
+	currentCounter, found := c[time]
+	if found {
+		c[time] = currentCounter + 1
+	} else {
+		c[time] = 1
+	}
+}
 
 // TimeInReview analysis of merged pull requests
 func TimeInReview(token string, dryRun bool) error {
@@ -39,7 +48,9 @@ func TimeInReview(token string, dryRun bool) error {
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
 	tir := make(timeInReview)
-	cpd := make(closedPerDay)
+	cpd := make(countPerDay)
+	opd := make(countPerDay)
+
 	opt := &github.PullRequestListOptions{
 		Sort:  "created",
 		State: "closed",
@@ -73,13 +84,8 @@ func TimeInReview(token string, dryRun bool) error {
 			if merged {
 				fmt.Printf("#%4d was closed at %s and merged at %s\n", pull.GetNumber(), pull.GetClosedAt().String(), pull.GetMergedAt().String())
 				tir[pull.GetMergedAt()] = pull.GetMergedAt().Sub(pull.GetCreatedAt())
-				mergedOn := pull.GetMergedAt().Truncate(time.Hour * 24)
-				currentCounter, found := cpd[mergedOn]
-				if found {
-					cpd[mergedOn] = currentCounter + 1
-				} else {
-					cpd[mergedOn] = 1
-				}
+				cpd.count(pull.GetMergedAt().Truncate(time.Hour * 24))
+				opd.count(pull.GetCreatedAt().Truncate(time.Hour * 24))
 			}
 		}
 
@@ -112,6 +118,13 @@ func TimeInReview(token string, dryRun bool) error {
 		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err)
 		os.Exit(1)
 	}
+
+	_, err = internal.UpdateJSONFile(context, client, "opened-per-day.json", opd)
+	if err != nil {
+		fmt.Printf("Problem updating %s %v\n", "opened-per-day.json", err)
+		os.Exit(1)
+	}
+
 	var b bytes.Buffer
 	graph.Render(chart.PNG, &b)
 
