@@ -1,31 +1,5 @@
 [
    {
-      "Number": 5132,
-      "OpenedBy": "aapocketz",
-      "CreatedAt": "2021-04-05T16:58:17Z",
-      "Recipe": "kaitai_struct_cpp_stl_runtime",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5132",
-      "LastCommitSHA": "3d99337ca009be31a09fad34878d3a48450073af",
-      "LastCommitAt": "2021-07-22T12:21:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 13,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-23T19:38:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5132#pullrequestreview-714075732"
-         }
-      }
-   },
-   {
       "Number": 5792,
       "OpenedBy": "boussaffawalid",
       "CreatedAt": "2021-06-07T14:47:55Z",
@@ -213,18 +187,19 @@
       "LastCommitAt": "2021-07-23T13:04:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "theirix"
+            "theirix",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "theirix",
-            "SubmittedAt": "2021-07-23T18:20:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6470#pullrequestreview-714023908"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-07-24T08:50:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6470#pullrequestreview-714218282"
          }
       }
    },
