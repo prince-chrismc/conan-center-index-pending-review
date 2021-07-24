@@ -346,13 +346,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6485",
       "LastCommitSHA": "2a8daa00fb24c34ef19f8bf59511261690fcaaef",
       "LastCommitAt": "2021-07-24T16:44:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm",
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-07-24T20:51:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6485#pullrequestreview-714259587"
+         }
       }
    },
    {
@@ -380,15 +388,22 @@
       "Recipe": "prometheus-cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6487",
-      "LastCommitSHA": "b380c2a2e4475c9cd0de1c919f396fcbad6cc7b0",
-      "LastCommitAt": "2021-07-24T18:56:28Z",
+      "LastCommitSHA": "75714b93eb73ec9e49e5a7ae2c3885abf9200ff0",
+      "LastCommitAt": "2021-07-24T20:46:58Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-07-24T20:51:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6487#pullrequestreview-714259611"
+         }
       }
    }
 ]
