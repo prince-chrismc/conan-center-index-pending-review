@@ -227,13 +227,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6479",
       "LastCommitSHA": "e51fb9a1e7c956e598451cf3b6037efa02a36e20",
       "LastCommitAt": "2021-07-24T12:41:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-24T16:14:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6479#pullrequestreview-714244935"
+         }
       }
    },
    {
@@ -245,13 +252,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6480",
       "LastCommitSHA": "efcf9fc8d965406a3a293aedbad7af1924035afd",
       "LastCommitAt": "2021-07-24T12:45:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-24T16:15:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6480#pullrequestreview-714245002"
+         }
       }
    },
    {
@@ -263,13 +277,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6481",
       "LastCommitSHA": "cade5db7b826ea801c49acc1205aebc34e24e943",
       "LastCommitAt": "2021-07-24T12:52:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-24T16:17:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6481#pullrequestreview-714245084"
+         }
       }
    },
    {
@@ -281,13 +302,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6482",
       "LastCommitSHA": "34bc77284c9b3b523a82e1669a36ecaeafecd6b8",
       "LastCommitAt": "2021-07-24T12:56:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-24T16:18:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6482#pullrequestreview-714245165"
+         }
       }
    },
    {
@@ -299,6 +327,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6483",
       "LastCommitSHA": "442dd67ba02e0db4b8549b302050e585dcd3be40",
       "LastCommitAt": "2021-07-24T12:45:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6484,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-24T16:07:04Z",
+      "Recipe": "podofo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6484",
+      "LastCommitSHA": "ac74b1aab051b5c3c90c386d62f526250543bf60",
+      "LastCommitAt": "2021-07-24T16:03:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
