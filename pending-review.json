@@ -553,7 +553,7 @@
       "Recipe": "soci",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6497",
-      "LastCommitSHA": "f4813cefce4391ede63be0911b1969f1bbb890b5",
+      "LastCommitSHA": "713efc506188992f4b8718287ffa61b531aa58e5",
       "LastCommitAt": "2021-07-25T18:03:02Z",
       "CciBotPassed": false,
       "Summary": {
