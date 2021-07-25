@@ -530,30 +530,31 @@
       "LastCommitAt": "2021-07-25T12:00:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "theirix",
-            "madebr"
+            "madebr",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-25T15:47:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6495#pullrequestreview-714329388"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-25T18:09:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6495#pullrequestreview-714339899"
          }
       }
    },
    {
-      "Number": 6496,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2021-07-25T16:11:31Z",
-      "Recipe": "celero",
+      "Number": 6497,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-25T17:51:41Z",
+      "Recipe": "soci",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6496",
-      "LastCommitSHA": "26c2b8dee28fd8b396cc2502d168e556c14e7eb1",
-      "LastCommitAt": "2021-07-25T16:05:14Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6497",
+      "LastCommitSHA": "f4813cefce4391ede63be0911b1969f1bbb890b5",
+      "LastCommitAt": "2021-07-25T18:03:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
