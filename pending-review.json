@@ -313,33 +313,6 @@
       }
    },
    {
-      "Number": 6518,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-07-26T22:32:31Z",
-      "Recipe": "aws-c-compression",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6518",
-      "LastCommitSHA": "ffb95a2cc714b343bcd27e975df0f933ce9c184f",
-      "LastCommitAt": "2021-07-25T01:13:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-27T20:19:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6518#pullrequestreview-716340294"
-         }
-      }
-   },
-   {
       "Number": 6523,
       "OpenedBy": "intelligide",
       "CreatedAt": "2021-07-27T01:34:43Z",
