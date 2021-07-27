@@ -164,17 +164,18 @@
       "LastCommitAt": "2021-07-25T19:08:03Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 4,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "Croydon"
+            "Croydon",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-25T23:59:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6498#pullrequestreview-714364377"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-27T12:20:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6498#pullrequestreview-715841143"
          }
       }
    },
@@ -213,7 +214,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6505",
       "LastCommitSHA": "ed051f90c0cd1b58804f80c9337dc439a86518c4",
       "LastCommitAt": "2021-07-26T15:35:31Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 1,
@@ -739,8 +740,26 @@
       "Recipe": "tidy-html5",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6547",
-      "LastCommitSHA": "d28a8997e2e55047ac4813eb00d8fe8c0ef0cff5",
-      "LastCommitAt": "2021-07-27T11:47:40Z",
+      "LastCommitSHA": "955b7c9b2b2d0910d0133859fdf52fe8e0625a05",
+      "LastCommitAt": "2021-07-27T13:00:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6549,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-27T13:09:49Z",
+      "Recipe": "libxml2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6549",
+      "LastCommitSHA": "2a44f98339088d5560f0f2bccd0bcd97122bcfd6",
+      "LastCommitAt": "2021-07-27T13:08:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
