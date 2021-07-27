@@ -107,7 +107,7 @@ func TimeInReview(token string, dryRun bool) error {
 		defer f.Close()
 		lineGraph.Render(chart.PNG, f)
 
-		f2, _ := os.Create("som.png")
+		f2, _ := os.Create("ovm.png")
 		defer f2.Close()
 		barGraph.Render(chart.PNG, f2)
 
