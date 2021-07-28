@@ -416,33 +416,6 @@
       }
    },
    {
-      "Number": 6533,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-07-27T01:39:36Z",
-      "Recipe": "octomap",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6533",
-      "LastCommitSHA": "3f9fd633eabb42856c0e0d9260e5173e1fcbbb69",
-      "LastCommitAt": "2021-07-25T01:20:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "SpaceIm",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-27T20:24:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6533#pullrequestreview-716344496"
-         }
-      }
-   },
-   {
       "Number": 6534,
       "OpenedBy": "intelligide",
       "CreatedAt": "2021-07-27T01:39:46Z",
