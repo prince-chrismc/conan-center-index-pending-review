@@ -494,32 +494,6 @@
       }
    },
    {
-      "Number": 6539,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-07-27T02:43:50Z",
-      "Recipe": "meshoptimizer",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6539",
-      "LastCommitSHA": "384d229de632cf088e36b25047781b278eca376a",
-      "LastCommitAt": "2021-07-27T02:28:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-27T20:28:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6539#pullrequestreview-716347929"
-         }
-      }
-   },
-   {
       "Number": 6546,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-07-27T11:22:40Z",
