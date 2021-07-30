@@ -52,6 +52,31 @@
       }
    },
    {
+      "Number": 6094,
+      "OpenedBy": "CAMOBAP",
+      "CreatedAt": "2021-06-29T16:32:30Z",
+      "Recipe": "onnx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6094",
+      "LastCommitSHA": "015a4a2b44cf0ae50deb2a46e92e10ca09a37241",
+      "LastCommitAt": "2021-06-29T20:05:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-07-30T12:53:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6094#pullrequestreview-719045709"
+         }
+      }
+   },
+   {
       "Number": 6266,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2021-07-10T14:38:11Z",
@@ -165,17 +190,18 @@
       "LastCommitAt": "2021-07-30T11:42:16Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 8,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-07-30T11:45:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6454#pullrequestreview-718993293"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-07-30T12:34:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6454#pullrequestreview-719030062"
          }
       }
    },
@@ -474,18 +500,19 @@
       "LastCommitAt": "2021-07-28T09:36:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-29T09:40:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6557#pullrequestreview-717886334"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-30T13:14:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6557#pullrequestreview-719064058"
          }
       }
    },
@@ -500,44 +527,19 @@
       "LastCommitAt": "2021-07-28T12:17:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
+         "Count": 6,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-29T09:40:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6562#pullrequestreview-717885920"
-         }
-      }
-   },
-   {
-      "Number": 6569,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-28T13:13:30Z",
-      "Recipe": "cwalk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6569",
-      "LastCommitSHA": "efafa1c22f7e9f9c9cacf364a61753b2a3e8ed0a",
-      "LastCommitAt": "2021-07-28T13:12:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-29T09:39:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6569#pullrequestreview-717884699"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-30T13:08:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6562#pullrequestreview-719059007"
          }
       }
    },
@@ -579,18 +581,19 @@
       "LastCommitAt": "2021-07-28T22:31:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-29T09:37:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6574#pullrequestreview-717883019"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-30T12:51:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6574#pullrequestreview-719043961"
          }
       }
    },
@@ -732,13 +735,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6596",
       "LastCommitSHA": "f50fc5b65fa662d876688b1acc65ca4b7436675b",
       "LastCommitAt": "2021-07-30T10:47:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4",
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-07-30T12:50:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6596#pullrequestreview-719043353"
+         }
       }
    }
 ]
