@@ -512,6 +512,31 @@
       }
    },
    {
+      "Number": 6564,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-28T11:14:58Z",
+      "Recipe": "libstudxml",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6564",
+      "LastCommitSHA": "a4148819dec265d73928a9cfd423b37e05261c1b",
+      "LastCommitAt": "2021-07-30T10:44:23Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-07-30T10:45:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6564#pullrequestreview-718953251"
+         }
+      }
+   },
+   {
       "Number": 6573,
       "OpenedBy": "wwizz",
       "CreatedAt": "2021-07-28T20:07:13Z",
@@ -625,17 +650,18 @@
       "LastCommitAt": "2021-07-30T18:00:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
+         "Count": 6,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-07-30T19:54:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6591#pullrequestreview-719418450"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-07-30T22:56:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6591#pullrequestreview-719507306"
          }
       }
    },
