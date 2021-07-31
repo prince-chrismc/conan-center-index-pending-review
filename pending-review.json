@@ -25,60 +25,6 @@
       }
    },
    {
-      "Number": 6395,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-17T22:11:54Z",
-      "Recipe": "libtar",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6395",
-      "LastCommitSHA": "213b7f6602f9132ca2169f624df83e932ff98035",
-      "LastCommitAt": "2021-07-30T13:58:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-31T14:13:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6395#pullrequestreview-719578260"
-         }
-      }
-   },
-   {
-      "Number": 6461,
-      "OpenedBy": "martin-schulze-vireso",
-      "CreatedAt": "2021-07-22T11:37:27Z",
-      "Recipe": "poppler",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6461",
-      "LastCommitSHA": "a5a3a16240adaa7f534c99bc42679e83971b331c",
-      "LastCommitAt": "2021-07-26T18:17:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-31T14:15:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6461#pullrequestreview-719578374"
-         }
-      }
-   },
-   {
       "Number": 6468,
       "OpenedBy": "mmatisko",
       "CreatedAt": "2021-07-23T09:35:22Z",
@@ -378,7 +324,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6603",
       "LastCommitSHA": "84e79b540818e625496fdd72e04a09d07c2b53a1",
       "LastCommitAt": "2021-07-31T11:53:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -418,6 +364,24 @@
             "SubmittedAt": "2021-07-31T13:15:03Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6608#pullrequestreview-719574703"
          }
+      }
+   },
+   {
+      "Number": 6609,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-07-31T16:09:18Z",
+      "Recipe": "abseil",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6609",
+      "LastCommitSHA": "4fe8a0db8db45d3180fbe1c34f3e40ece1c23e02",
+      "LastCommitAt": "2021-07-31T16:06:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
