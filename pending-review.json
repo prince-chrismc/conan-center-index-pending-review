@@ -76,33 +76,6 @@
       }
    },
    {
-      "Number": 6502,
-      "OpenedBy": "cguentherTUChemnitz",
-      "CreatedAt": "2021-07-26T10:41:01Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6502",
-      "LastCommitSHA": "21af495069833966945264cac379ee9e51b09c9c",
-      "LastCommitAt": "2021-07-27T14:41:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-07-31T14:16:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6502#pullrequestreview-719578424"
-         }
-      }
-   },
-   {
       "Number": 6510,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-07-26T13:31:19Z",
