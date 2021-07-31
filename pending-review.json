@@ -282,33 +282,6 @@
       }
    },
    {
-      "Number": 6544,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-27T08:52:46Z",
-      "Recipe": "libjpeg-turbo",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6544",
-      "LastCommitSHA": "09b59f015154a4a33bf507f723416fbfed61e6af",
-      "LastCommitAt": "2021-07-27T08:48:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "theirix"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "theirix",
-            "SubmittedAt": "2021-07-31T10:26:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6544#pullrequestreview-719564976"
-         }
-      }
-   },
-   {
       "Number": 6564,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-07-28T11:14:58Z",
@@ -481,6 +454,31 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 6608,
+      "OpenedBy": "Hopobcn",
+      "CreatedAt": "2021-07-31T11:49:37Z",
+      "Recipe": "glu",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6608",
+      "LastCommitSHA": "b381fdce864d48e06028936116437656478a6f2d",
+      "LastCommitAt": "2021-07-31T11:39:40Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-07-31T12:15:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6608#pullrequestreview-719571339"
+         }
       }
    }
 ]
