@@ -258,5 +258,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6614,
+      "OpenedBy": "vvarma",
+      "CreatedAt": "2021-08-01T03:22:40Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6614",
+      "LastCommitSHA": "5697a69d2d190e678fb637798103b89bfa759cfd",
+      "LastCommitAt": "2021-08-01T03:19:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
