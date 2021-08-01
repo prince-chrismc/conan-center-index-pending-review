@@ -101,34 +101,6 @@
       }
    },
    {
-      "Number": 6594,
-      "OpenedBy": "alejandro-colomar",
-      "CreatedAt": "2021-07-30T06:37:25Z",
-      "Recipe": "nanodbc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6594",
-      "LastCommitSHA": "d3de58895b016f4812691cc1d845a2b74ed472cd",
-      "LastCommitAt": "2021-07-30T06:34:49Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "prince-chrismc",
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-07-31T14:30:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6594#pullrequestreview-719579183"
-         }
-      }
-   },
-   {
       "Number": 6603,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-07-30T16:58:52Z",
@@ -232,24 +204,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6611",
       "LastCommitSHA": "1adbe2e14370e80e190644827d76a833d895899c",
       "LastCommitAt": "2021-07-31T22:19:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 6613,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-07-31T23:23:37Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6613",
-      "LastCommitSHA": "b9e8e1ebe3a56ba54ea61897c59986022aa71f93",
-      "LastCommitAt": "2021-07-31T23:21:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
