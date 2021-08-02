@@ -60,7 +60,7 @@
       "LastCommitAt": "2021-07-26T16:03:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 6,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -68,9 +68,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-07-29T09:42:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6513#pullrequestreview-717888327"
+            "ReviewerName": "mathbunnyru",
+            "SubmittedAt": "2021-08-02T10:29:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6513#pullrequestreview-720055312"
          }
       }
    },
@@ -287,24 +287,6 @@
             "SubmittedAt": "2021-08-02T08:25:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6642#pullrequestreview-719945955"
          }
-      }
-   },
-   {
-      "Number": 6644,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-08-02T09:17:59Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6644",
-      "LastCommitSHA": "6cc28a8eadc6737c9aced145591aef69b993c109",
-      "LastCommitAt": "2021-08-02T09:16:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
