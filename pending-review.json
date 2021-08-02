@@ -288,31 +288,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6636#pullrequestreview-719945015"
          }
       }
-   },
-   {
-      "Number": 6642,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-01T23:01:13Z",
-      "Recipe": "paho-mqtt-c",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6642",
-      "LastCommitSHA": "eef2b4c1b3a399f4f13930e9d5a75bc24343e819",
-      "LastCommitAt": "2021-08-01T23:02:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-02T08:25:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6642#pullrequestreview-719945955"
-         }
-      }
    }
 ]
