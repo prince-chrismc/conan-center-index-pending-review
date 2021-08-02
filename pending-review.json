@@ -85,17 +85,18 @@
       "LastCommitAt": "2021-07-31T11:53:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-07-31T12:54:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6603#pullrequestreview-719573380"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-08-02T15:18:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6603#pullrequestreview-720322603"
          }
       }
    },
@@ -199,42 +200,6 @@
             "SubmittedAt": "2021-08-02T11:41:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6618#pullrequestreview-720108657"
          }
-      }
-   },
-   {
-      "Number": 6628,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-01T14:02:31Z",
-      "Recipe": "gperf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6628",
-      "LastCommitSHA": "f8d2fd91e53720b190538b0cbe7199e03cbc3eec",
-      "LastCommitAt": "2021-08-01T16:06:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 6631,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-08-01T16:16:53Z",
-      "Recipe": "cpr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6631",
-      "LastCommitSHA": "221c9cc95fe635d574c9c0ac152d560562fedc89",
-      "LastCommitAt": "2021-08-01T16:15:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
