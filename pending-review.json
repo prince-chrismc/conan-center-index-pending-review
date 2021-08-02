@@ -264,33 +264,6 @@
       }
    },
    {
-      "Number": 6639,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-08-01T20:39:09Z",
-      "Recipe": "taskflow",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6639",
-      "LastCommitSHA": "e1e8bc3909e5dfdb503108a16402630cb4412d91",
-      "LastCommitAt": "2021-08-01T18:33:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "intelligide",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-02T08:25:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6639#pullrequestreview-719945724"
-         }
-      }
-   },
-   {
       "Number": 6642,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-01T23:01:13Z",
@@ -317,31 +290,21 @@
       }
    },
    {
-      "Number": 6643,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-01T23:50:51Z",
-      "Recipe": "polylineencoder",
+      "Number": 6644,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-08-02T09:17:59Z",
+      "Recipe": "qt",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6643",
-      "LastCommitSHA": "96b30c5199d483d30b1ce1e8bbe27906ecc86013",
-      "LastCommitAt": "2021-08-01T23:49:51Z",
-      "CciBotPassed": true,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6644",
+      "LastCommitSHA": "6cc28a8eadc6737c9aced145591aef69b993c109",
+      "LastCommitAt": "2021-08-02T09:16:37Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericriff",
-            "madebr",
-            "intelligide",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-02T08:25:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6643#pullrequestreview-719946169"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
