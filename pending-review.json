@@ -295,5 +295,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6667,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-08-03T21:26:02Z",
+      "Recipe": "sentry-crashpad",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6667",
+      "LastCommitSHA": "485e49804f077db060bc7bbdfd902bf7d887ff92",
+      "LastCommitAt": "2021-08-03T21:25:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6668,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-08-03T21:28:14Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6668",
+      "LastCommitSHA": "8fee1a7eab560f7102670ab277e340aa00b8a4fd",
+      "LastCommitAt": "2021-08-03T21:17:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6669,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-08-03T21:29:32Z",
+      "Recipe": "sentry-breakpad",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6669",
+      "LastCommitSHA": "57d84191ef475eb4fb68818f199fa14a3a279c94",
+      "LastCommitAt": "2021-08-03T21:28:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
