@@ -203,60 +203,21 @@
       }
    },
    {
-      "Number": 6669,
+      "Number": 6680,
       "OpenedBy": "MartinDelille",
-      "CreatedAt": "2021-08-03T21:29:32Z",
-      "Recipe": "sentry-breakpad",
+      "CreatedAt": "2021-08-04T17:48:07Z",
+      "Recipe": "sentry-native",
       "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6669",
-      "LastCommitSHA": "57d84191ef475eb4fb68818f199fa14a3a279c94",
-      "LastCommitAt": "2021-08-03T21:28:15Z",
-      "CciBotPassed": true,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6680",
+      "LastCommitSHA": "d27a8a91bd17a7e44bbab819462d5d2286f593aa",
+      "LastCommitAt": "2021-08-04T17:47:12Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 5,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "prince-chrismc",
-            "ericriff",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-08-04T14:38:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6669#pullrequestreview-722369681"
-         }
-      }
-   },
-   {
-      "Number": 6675,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-04T01:17:53Z",
-      "Recipe": "automake",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6675",
-      "LastCommitSHA": "d7f58c16dae9abd036cd55915a184a09c23b1fee",
-      "LastCommitAt": "2021-08-04T01:14:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "jgsogo",
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-04T13:19:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6675#pullrequestreview-722272193"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
