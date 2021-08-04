@@ -75,33 +75,6 @@
       }
    },
    {
-      "Number": 6631,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-08-01T16:16:53Z",
-      "Recipe": "cpr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6631",
-      "LastCommitSHA": "221c9cc95fe635d574c9c0ac152d560562fedc89",
-      "LastCommitAt": "2021-08-01T16:15:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-08-04T16:05:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6631#pullrequestreview-722472679"
-         }
-      }
-   },
-   {
       "Number": 6633,
       "OpenedBy": "theirix",
       "CreatedAt": "2021-08-01T16:28:21Z",
