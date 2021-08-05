@@ -254,5 +254,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6684#pullrequestreview-722810016"
          }
       }
+   },
+   {
+      "Number": 6685,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-04T23:52:03Z",
+      "Recipe": "ftjam",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6685",
+      "LastCommitSHA": "29b2c63e34028810aba86f69defbc0fd890a959d",
+      "LastCommitAt": "2021-08-05T00:08:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
