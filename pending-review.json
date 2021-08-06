@@ -155,32 +155,6 @@
       }
    },
    {
-      "Number": 6685,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-04T23:52:03Z",
-      "Recipe": "ftjam",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6685",
-      "LastCommitSHA": "29b2c63e34028810aba86f69defbc0fd890a959d",
-      "LastCommitAt": "2021-08-05T00:08:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-08-05T23:08:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6685#pullrequestreview-723863108"
-         }
-      }
-   },
-   {
       "Number": 6691,
       "OpenedBy": "uilianries",
       "CreatedAt": "2021-08-05T12:55:29Z",
@@ -260,11 +234,18 @@
       "LastCommitAt": "2021-08-05T22:52:20Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-05T23:44:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6699#pullrequestreview-723876972"
+         }
       }
    },
    {
