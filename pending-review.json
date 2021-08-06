@@ -100,33 +100,6 @@
       }
    },
    {
-      "Number": 6698,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-05T21:54:54Z",
-      "Recipe": "libheif",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6698",
-      "LastCommitSHA": "a82f29098c6f8eb12ebf35406cc6f82145fc2017",
-      "LastCommitAt": "2021-08-05T21:52:49Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-06T18:47:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6698#pullrequestreview-724626401"
-         }
-      }
-   },
-   {
       "Number": 6700,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-05T23:00:50Z",
