@@ -51,33 +51,6 @@
       }
    },
    {
-      "Number": 6646,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-02T10:15:10Z",
-      "Recipe": "jasper",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6646",
-      "LastCommitSHA": "1b3e4bf1d9c0b28bf20dc5f9734ae72a08c1ec8d",
-      "LastCommitAt": "2021-08-02T10:10:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-06T01:56:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6646#pullrequestreview-723920661"
-         }
-      }
-   },
-   {
       "Number": 6665,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-08-03T16:58:51Z",
@@ -167,18 +140,19 @@
       "LastCommitAt": "2021-08-05T18:43:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "prince-chrismc"
+            "prince-chrismc",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-06T01:59:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6696#pullrequestreview-723921797"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-08-06T03:13:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6696#pullrequestreview-723947245"
          }
       }
    },
