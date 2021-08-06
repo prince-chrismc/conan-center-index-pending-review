@@ -229,24 +229,6 @@
       }
    },
    {
-      "Number": 6709,
-      "OpenedBy": "sh0",
-      "CreatedAt": "2021-08-06T15:08:10Z",
-      "Recipe": "gstreamer",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6709",
-      "LastCommitSHA": "65a2381289f52327a750343d0b33e05a87934ba0",
-      "LastCommitAt": "2021-08-06T15:05:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 6710,
       "OpenedBy": "sh0",
       "CreatedAt": "2021-08-06T15:16:56Z",
