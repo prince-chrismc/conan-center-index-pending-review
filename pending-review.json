@@ -35,18 +35,19 @@
       "LastCommitAt": "2021-07-30T05:38:45Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
+         "Count": 5,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "SSE4"
+            "SSE4",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-05T12:24:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6592#pullrequestreview-723287818"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-08-06T01:55:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6592#pullrequestreview-723920453"
          }
       }
    },
@@ -87,18 +88,19 @@
       "LastCommitAt": "2021-08-02T10:10:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "uilianries"
+            "uilianries",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-04T15:06:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6646#pullrequestreview-722403730"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-08-06T01:56:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6646#pullrequestreview-723920661"
          }
       }
    },
@@ -232,7 +234,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6699",
       "LastCommitSHA": "fd6a42cdd49dcf96650d5bcd43bc5278b897947a",
       "LastCommitAt": "2021-08-05T22:52:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
