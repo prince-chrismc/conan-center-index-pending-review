@@ -61,17 +61,18 @@
       "LastCommitAt": "2021-08-06T09:28:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "intelligide"
+            "intelligide",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-08-06T12:34:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6607#pullrequestreview-724309484"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-08-06T17:01:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6607#pullrequestreview-724550504"
          }
       }
    },
