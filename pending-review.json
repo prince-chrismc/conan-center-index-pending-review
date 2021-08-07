@@ -192,31 +192,6 @@
       }
    },
    {
-      "Number": 6729,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-07T11:57:02Z",
-      "Recipe": "cfitsio",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6729",
-      "LastCommitSHA": "5e978e87c7147598b622aa5e75a72bba05589aa5",
-      "LastCommitAt": "2021-08-07T11:52:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-07T17:43:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6729#pullrequestreview-724835823"
-         }
-      }
-   },
-   {
       "Number": 6730,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-07T12:32:00Z",
