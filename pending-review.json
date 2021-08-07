@@ -233,5 +233,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 6730,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-07T12:32:00Z",
+      "Recipe": "kuba-zip",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6730",
+      "LastCommitSHA": "36534fecef813fa64731abbd19bfbc97bad6a9e2",
+      "LastCommitAt": "2021-08-07T13:13:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
