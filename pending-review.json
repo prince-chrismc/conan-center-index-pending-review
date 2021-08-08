@@ -61,18 +61,19 @@
       "LastCommitAt": "2021-08-05T09:09:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
+         "Count": 5,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "Croydon",
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-08T08:23:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6687#pullrequestreview-724876326"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-08T22:02:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6687#pullrequestreview-724940084"
          }
       }
    },
@@ -110,18 +111,19 @@
       "LastCommitAt": "2021-08-06T15:05:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
+         "Count": 7,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-08T15:22:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6709#pullrequestreview-724913475"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-08T22:02:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6709#pullrequestreview-724940047"
          }
       }
    },
@@ -136,18 +138,19 @@
       "LastCommitAt": "2021-08-07T10:59:19Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-08T15:22:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6710#pullrequestreview-724913493"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-08T22:02:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6710#pullrequestreview-724940060"
          }
       }
    },
