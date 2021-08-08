@@ -328,5 +328,48 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6747#pullrequestreview-724835587"
          }
       }
+   },
+   {
+      "Number": 6761,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-08T14:51:14Z",
+      "Recipe": "libnova",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6761",
+      "LastCommitSHA": "c23429d9100d13ce36000c298e650caaed24889d",
+      "LastCommitAt": "2021-08-08T18:40:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-08T19:13:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6761#pullrequestreview-724929742"
+         }
+      }
+   },
+   {
+      "Number": 6765,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-08T19:22:43Z",
+      "Recipe": "openal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6765",
+      "LastCommitSHA": "acbe7167e17b1799471800459d355bfab4c3f180",
+      "LastCommitAt": "2021-08-08T19:27:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
