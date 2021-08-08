@@ -305,33 +305,6 @@
       }
    },
    {
-      "Number": 6746,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2021-08-07T14:24:58Z",
-      "Recipe": "aws-c-io",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6746",
-      "LastCommitSHA": "ce9c19f3f85667e4dffd346bc6e372fde039e267",
-      "LastCommitAt": "2021-08-07T14:23:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "intelligide",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-08T14:54:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6746#pullrequestreview-724911122"
-         }
-      }
-   },
-   {
       "Number": 6747,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2021-08-07T16:26:03Z",
@@ -353,33 +326,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-08-07T17:39:29Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6747#pullrequestreview-724835587"
-         }
-      }
-   },
-   {
-      "Number": 6751,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-08-07T21:51:26Z",
-      "Recipe": "glib",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6751",
-      "LastCommitSHA": "6ed0273a16ba9543e16e26c17132852b052ecff7",
-      "LastCommitAt": "2021-08-07T18:29:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-08T14:54:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6751#pullrequestreview-724911144"
          }
       }
    }
