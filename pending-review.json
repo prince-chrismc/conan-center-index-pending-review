@@ -177,6 +177,31 @@
       }
    },
    {
+      "Number": 6714,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-08-06T22:10:56Z",
+      "Recipe": "aws-c-http",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6714",
+      "LastCommitSHA": "c78846aab9c3e88e8fecbdb31e485f10f1303738",
+      "LastCommitAt": "2021-08-08T20:09:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-08T21:10:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6714#pullrequestreview-724936974"
+         }
+      }
+   },
+   {
       "Number": 6718,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-07T00:16:23Z",
@@ -263,7 +288,7 @@
       "LastCommitAt": "2021-08-07T12:30:50Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -273,34 +298,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-08T14:51:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6735#pullrequestreview-724910842"
-         }
-      }
-   },
-   {
-      "Number": 6745,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-08-07T14:17:41Z",
-      "Recipe": "cpp-jwt",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6745",
-      "LastCommitSHA": "af8fe89f1c0f09a61495f339ffeb1385f7243ce6",
-      "LastCommitAt": "2021-08-07T12:30:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-08-08T01:23:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6745#pullrequestreview-724855458"
+            "SubmittedAt": "2021-08-08T20:35:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6735#pullrequestreview-724934766"
          }
       }
    },
@@ -363,13 +362,46 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6765",
       "LastCommitSHA": "acbe7167e17b1799471800459d355bfab4c3f180",
       "LastCommitAt": "2021-08-08T19:27:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr",
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-08T21:11:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6765#pullrequestreview-724937015"
+         }
+      }
+   },
+   {
+      "Number": 6766,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-08-08T20:21:50Z",
+      "Recipe": "libalsa",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6766",
+      "LastCommitSHA": "d8c1f5f4bd15e06990bc21ae2bcbbfc4d4ad6713",
+      "LastCommitAt": "2021-08-08T20:21:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-08T20:43:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6766#pullrequestreview-724935216"
+         }
       }
    }
 ]
