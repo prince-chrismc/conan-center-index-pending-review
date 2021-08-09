@@ -108,18 +108,19 @@
       "LastCommitAt": "2021-08-07T22:05:04Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "AndreyMlashkin"
+            "AndreyMlashkin",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2021-08-08T14:31:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6719#pullrequestreview-724908965"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-08-09T07:58:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6719#pullrequestreview-725109481"
          }
       }
    },
@@ -146,33 +147,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-08-09T00:37:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6730#pullrequestreview-724954673"
-         }
-      }
-   },
-   {
-      "Number": 6735,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-08-07T14:12:37Z",
-      "Recipe": "iceoryx",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6735",
-      "LastCommitSHA": "00c1339b7b94b7da26bfa5b0a730582a5fc4011a",
-      "LastCommitAt": "2021-08-07T12:30:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-09T07:09:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6735#pullrequestreview-725075336"
          }
       }
    },
