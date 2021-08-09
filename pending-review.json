@@ -74,6 +74,31 @@
       }
    },
    {
+      "Number": 6693,
+      "OpenedBy": "leha-bot",
+      "CreatedAt": "2021-08-05T16:57:10Z",
+      "Recipe": "procxx-boost-ext-simd",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6693",
+      "LastCommitSHA": "143e887b7ded584ad69bf2416883550f81f83abe",
+      "LastCommitAt": "2021-08-05T16:37:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 11,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-09T16:14:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6693#pullrequestreview-725567700"
+         }
+      }
+   },
+   {
       "Number": 6722,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-08-07T00:22:55Z",
@@ -135,45 +160,19 @@
       "LastCommitAt": "2021-08-07T19:28:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
+         "Count": 6,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "jgsogo",
-            "uilianries"
+            "uilianries",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-09T15:00:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6729#pullrequestreview-725486423"
-         }
-      }
-   },
-   {
-      "Number": 6747,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2021-08-07T16:26:03Z",
-      "Recipe": "hdf5",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6747",
-      "LastCommitSHA": "eb56a9a42d8d0b678959552af426785f60f7d47f",
-      "LastCommitAt": "2021-08-07T15:08:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "jgsogo",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-09T14:27:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6747#pullrequestreview-725447234"
+            "SubmittedAt": "2021-08-09T15:38:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6729#pullrequestreview-725529951"
          }
       }
    },
@@ -256,6 +255,24 @@
       }
    },
    {
+      "Number": 6772,
+      "OpenedBy": "exief",
+      "CreatedAt": "2021-08-09T05:11:28Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6772",
+      "LastCommitSHA": "4fd968ce1cee45f84bfdcb0432f53f6f4f7dab4b",
+      "LastCommitAt": "2021-08-09T08:45:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 6778,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-08-09T10:32:47Z",
@@ -307,7 +324,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6782",
       "LastCommitSHA": "05d2e6e21ba6f991eca4995fa2c4ef93ad8f3c4f",
       "LastCommitAt": "2021-08-09T11:56:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
