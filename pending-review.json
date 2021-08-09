@@ -74,60 +74,6 @@
       }
    },
    {
-      "Number": 6713,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-06T20:50:40Z",
-      "Recipe": "exiv2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6713",
-      "LastCommitSHA": "1db6c1c39a93e05858ceb1a49386c3835f311940",
-      "LastCommitAt": "2021-08-06T20:49:05Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "jgsogo",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-09T13:06:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6713#pullrequestreview-725355793"
-         }
-      }
-   },
-   {
-      "Number": 6718,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-07T00:16:23Z",
-      "Recipe": "poppler",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6718",
-      "LastCommitSHA": "563a3b85405d7dbf13f46504e53cb1caa52d1199",
-      "LastCommitAt": "2021-08-07T00:15:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "jgsogo",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-09T13:12:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6718#pullrequestreview-725362481"
-         }
-      }
-   },
-   {
       "Number": 6719,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-08-07T00:17:03Z",
@@ -166,17 +112,18 @@
       "LastCommitAt": "2021-08-07T01:02:02Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-09T08:48:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6722#pullrequestreview-725148856"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-08-09T13:27:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6722#pullrequestreview-725378366"
          }
       }
    },
@@ -187,21 +134,21 @@
       "Recipe": "xorg-gccmakedep",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6723",
-      "LastCommitSHA": "97ec25c5baa201586d51accd55030f80bfc6de0c",
-      "LastCommitAt": "2021-08-07T00:33:02Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "846df97f3ae4381e6119f06d482e4747ba9d6ba1",
+      "LastCommitAt": "2021-08-09T13:44:29Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-09T08:47:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6723#pullrequestreview-725148228"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-08-09T13:46:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6723#pullrequestreview-725399303"
          }
       }
    },
@@ -361,6 +308,31 @@
       }
    },
    {
+      "Number": 6778,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-08-09T10:32:47Z",
+      "Recipe": "libx264",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6778",
+      "LastCommitSHA": "f9f1a7999e61d6edb9939da376d9cdcd30d7517e",
+      "LastCommitAt": "2021-08-09T10:32:12Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-09T13:23:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6778#pullrequestreview-725373512"
+         }
+      }
+   },
+   {
       "Number": 6781,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-08-09T11:48:13Z",
@@ -389,11 +361,18 @@
       "LastCommitAt": "2021-08-09T11:56:05Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "AndreyMlashkin"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2021-08-09T13:50:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6782#pullrequestreview-725404450"
+         }
       }
    },
    {
@@ -407,11 +386,18 @@
       "LastCommitAt": "2021-08-09T12:04:43Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-09T14:07:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6783#pullrequestreview-725423550"
+         }
       }
    }
 ]
