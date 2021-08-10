@@ -214,17 +214,18 @@
       "LastCommitAt": "2021-08-09T17:30:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "intelligide"
+            "intelligide",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-08-09T18:11:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6775#pullrequestreview-725671850"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-08-10T08:04:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6775#pullrequestreview-726128420"
          }
       }
    },
@@ -297,14 +298,14 @@
       }
    },
    {
-      "Number": 6795,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2021-08-10T06:55:10Z",
-      "Recipe": "libjpeg-turbo",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6795",
-      "LastCommitSHA": "40988e803b31466ea38f6985f5da0804f0b8fc80",
-      "LastCommitAt": "2021-08-10T06:52:50Z",
+      "Number": 6792,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-10T00:28:14Z",
+      "Recipe": "librttopo",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6792",
+      "LastCommitSHA": "d0e1eff158bb2556d2bcd9d1f984a37e8d3c7927",
+      "LastCommitAt": "2021-08-09T23:16:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
