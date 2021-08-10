@@ -347,33 +347,6 @@
       }
    },
    {
-      "Number": 6791,
-      "OpenedBy": "bowb",
-      "CreatedAt": "2021-08-09T20:31:00Z",
-      "Recipe": "botan",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6791",
-      "LastCommitSHA": "d725a2afdd4ae51b810c1d4ba537e90adf93d96f",
-      "LastCommitAt": "2021-08-09T22:48:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-10T09:35:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6791#pullrequestreview-726221629"
-         }
-      }
-   },
-   {
       "Number": 6792,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-10T00:28:14Z",
