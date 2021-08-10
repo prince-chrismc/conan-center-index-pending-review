@@ -290,17 +290,43 @@
       "LastCommitAt": "2021-08-10T08:54:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-10T09:31:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6775#pullrequestreview-726217999"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-10T12:22:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6775#pullrequestreview-726364691"
+         }
+      }
+   },
+   {
+      "Number": 6776,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-08-09T09:00:48Z",
+      "Recipe": "aws-c-mqtt",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6776",
+      "LastCommitSHA": "a5ee8f68c65476aa159e5caaf232ccf248e9a3d0",
+      "LastCommitAt": "2021-08-10T09:23:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-10T12:22:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6776#pullrequestreview-726365143"
          }
       }
    },
@@ -365,7 +391,7 @@
       "LastCommitAt": "2021-08-09T11:56:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -374,9 +400,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-08-10T12:13:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6782#pullrequestreview-726356888"
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2021-08-10T13:11:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6782#pullrequestreview-726415427"
          }
       }
    },
@@ -387,8 +413,8 @@
       "Recipe": "librttopo",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6792",
-      "LastCommitSHA": "d0e1eff158bb2556d2bcd9d1f984a37e8d3c7927",
-      "LastCommitAt": "2021-08-09T23:16:56Z",
+      "LastCommitSHA": "77f18b763c9e841dec56522882428a6a17fe09f5",
+      "LastCommitAt": "2021-08-10T12:37:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -427,17 +453,18 @@
       "LastCommitAt": "2021-08-10T08:17:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-08-10T09:19:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6795#pullrequestreview-726205930"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-10T12:23:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6795#pullrequestreview-726365800"
          }
       }
    }
