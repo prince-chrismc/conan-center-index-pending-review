@@ -204,24 +204,6 @@
       }
    },
    {
-      "Number": 6772,
-      "OpenedBy": "exief",
-      "CreatedAt": "2021-08-09T05:11:28Z",
-      "Recipe": "libcurl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6772",
-      "LastCommitSHA": "4fd968ce1cee45f84bfdcb0432f53f6f4f7dab4b",
-      "LastCommitAt": "2021-08-09T08:45:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 6775,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2021-08-09T08:59:11Z",
@@ -312,6 +294,24 @@
             "SubmittedAt": "2021-08-09T13:50:40Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6782#pullrequestreview-725404450"
          }
+      }
+   },
+   {
+      "Number": 6795,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2021-08-10T06:55:10Z",
+      "Recipe": "libjpeg-turbo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6795",
+      "LastCommitSHA": "40988e803b31466ea38f6985f5da0804f0b8fc80",
+      "LastCommitAt": "2021-08-10T06:52:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
