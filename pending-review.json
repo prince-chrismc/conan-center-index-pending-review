@@ -329,33 +329,6 @@
       }
    },
    {
-      "Number": 6802,
-      "OpenedBy": "martin-schulze-vireso",
-      "CreatedAt": "2021-08-10T15:05:19Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6802",
-      "LastCommitSHA": "437cf9749b56cf34aab0a2e5070571b4dc9af9e1",
-      "LastCommitAt": "2021-08-10T14:37:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "jgsogo",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-11T08:18:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6802#pullrequestreview-727189461"
-         }
-      }
-   },
-   {
       "Number": 6806,
       "OpenedBy": "Croydon",
       "CreatedAt": "2021-08-11T05:48:50Z",
@@ -379,6 +352,24 @@
             "SubmittedAt": "2021-08-11T08:20:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6806#pullrequestreview-727190834"
          }
+      }
+   },
+   {
+      "Number": 6810,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-11T10:20:46Z",
+      "Recipe": "readosm",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6810",
+      "LastCommitSHA": "c15a34cc1fb13c8137642a8ec0a2b9816c262334",
+      "LastCommitAt": "2021-08-11T10:19:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
