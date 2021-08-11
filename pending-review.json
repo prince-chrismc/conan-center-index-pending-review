@@ -338,32 +338,6 @@
       }
    },
    {
-      "Number": 6792,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-10T00:28:14Z",
-      "Recipe": "librttopo",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6792",
-      "LastCommitSHA": "77f18b763c9e841dec56522882428a6a17fe09f5",
-      "LastCommitAt": "2021-08-10T12:37:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-10T19:15:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6792#pullrequestreview-726754963"
-         }
-      }
-   },
-   {
       "Number": 6793,
       "OpenedBy": "dannftk",
       "CreatedAt": "2021-08-10T05:42:06Z",
