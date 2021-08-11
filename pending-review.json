@@ -25,32 +25,6 @@
       }
    },
    {
-      "Number": 6588,
-      "OpenedBy": "gmeeker",
-      "CreatedAt": "2021-07-29T20:05:42Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6588",
-      "LastCommitSHA": "646b23477054188fe3007ab6960e80bed08143ea",
-      "LastCommitAt": "2021-08-09T18:12:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-10T21:51:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6588#pullrequestreview-726876370"
-         }
-      }
-   },
-   {
       "Number": 6691,
       "OpenedBy": "uilianries",
       "CreatedAt": "2021-08-05T12:55:29Z",
@@ -86,17 +60,18 @@
       "LastCommitAt": "2021-08-10T08:08:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 21,
-         "ValidApprovals": 1,
+         "Count": 22,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-10T14:38:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6705#pullrequestreview-726524854"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-08-11T18:09:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6705#pullrequestreview-727793351"
          }
       }
    },
