@@ -156,32 +156,6 @@
       }
    },
    {
-      "Number": 6793,
-      "OpenedBy": "dannftk",
-      "CreatedAt": "2021-08-10T05:42:06Z",
-      "Recipe": "libgpg-error",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6793",
-      "LastCommitSHA": "99ed78d72494ad8c23035c82abce0b9cbf7cac0c",
-      "LastCommitAt": "2021-08-11T16:44:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 26,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-11T17:11:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6793#pullrequestreview-727739913"
-         }
-      }
-   },
-   {
       "Number": 6799,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-10T14:04:29Z",
