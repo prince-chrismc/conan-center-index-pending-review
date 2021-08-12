@@ -86,7 +86,7 @@
       "LastCommitAt": "2021-08-11T15:16:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
+         "Count": 10,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -95,9 +95,9 @@
          ],
          "Blockers": [],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-11T18:23:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6720#pullrequestreview-727805608"
+            "ReviewerName": "sparik",
+            "SubmittedAt": "2021-08-12T01:32:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6720#pullrequestreview-728081778"
          }
       }
    },
@@ -234,7 +234,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6810",
       "LastCommitSHA": "6054c460a7dc6d43100b41b3a273931965a3c652",
       "LastCommitAt": "2021-08-12T00:03:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -305,37 +305,20 @@
       "LastCommitAt": "2021-08-11T16:52:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "madebr"
+            "madebr",
+            "sparik"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-11T23:50:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6819#pullrequestreview-728045020"
+            "ReviewerName": "sparik",
+            "SubmittedAt": "2021-08-12T01:34:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6819#pullrequestreview-728084807"
          }
-      }
-   },
-   {
-      "Number": 6821,
-      "OpenedBy": "sparik",
-      "CreatedAt": "2021-08-11T23:08:40Z",
-      "Recipe": "linux-headers-generic",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6821",
-      "LastCommitSHA": "0415327dbdf73e44e68f050afd5cab644a2d5fb8",
-      "LastCommitAt": "2021-08-12T00:29:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
