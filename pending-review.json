@@ -304,31 +304,6 @@
       }
    },
    {
-      "Number": 6821,
-      "OpenedBy": "sparik",
-      "CreatedAt": "2021-08-11T23:08:40Z",
-      "Recipe": "linux-headers-generic",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6821",
-      "LastCommitSHA": "8717886cf9b7327a2ce51dfc2592233f4618f709",
-      "LastCommitAt": "2021-08-12T07:40:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "sparik",
-            "SubmittedAt": "2021-08-12T16:51:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6821#pullrequestreview-728858108"
-         }
-      }
-   },
-   {
       "Number": 6828,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-12T14:41:38Z",
@@ -389,17 +364,18 @@
       "LastCommitAt": "2021-08-12T17:29:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "Croydon"
+            "Croydon",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-08-12T18:22:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6831#pullrequestreview-728941017"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-12T19:51:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6831#pullrequestreview-729015562"
          }
       }
    },
