@@ -216,6 +216,32 @@
       }
    },
    {
+      "Number": 6808,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-08-11T08:09:58Z",
+      "Recipe": "aws-c-s3",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6808",
+      "LastCommitSHA": "464ed34183481d9fbd08d36f20a78095d213d758",
+      "LastCommitAt": "2021-08-12T10:10:30Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide",
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-12T12:31:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6808#pullrequestreview-728538642"
+         }
+      }
+   },
+   {
       "Number": 6810,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-11T10:20:46Z",
