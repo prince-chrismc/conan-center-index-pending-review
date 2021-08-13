@@ -266,7 +266,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6836",
       "LastCommitSHA": "c637eb9f414b9f50ae8a18dd517e80aa3fe198e5",
       "LastCommitAt": "2021-08-13T15:41:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 2,
@@ -292,7 +292,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6841",
       "LastCommitSHA": "74a73cbf05117bd684b7803186ce0aec0c8229b3",
       "LastCommitAt": "2021-08-13T11:25:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -353,7 +353,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6847",
       "LastCommitSHA": "cba1af420f6d80ae125aa39f5c89024fe3deea9d",
       "LastCommitAt": "2021-08-13T15:00:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -367,6 +367,24 @@
             "SubmittedAt": "2021-08-13T15:29:31Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6847#pullrequestreview-729736258"
          }
+      }
+   },
+   {
+      "Number": 6850,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-13T19:32:46Z",
+      "Recipe": "libnova",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6850",
+      "LastCommitSHA": "e0d63a8baeef8216b5a1d4b2c3a98181a690744a",
+      "LastCommitAt": "2021-08-13T19:31:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
