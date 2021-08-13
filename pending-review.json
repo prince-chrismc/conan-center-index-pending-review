@@ -320,19 +320,63 @@
       "LastCommitAt": "2021-08-13T00:42:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "Croydon",
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-13T05:42:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6833#pullrequestreview-729278674"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-13T12:06:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6833#pullrequestreview-729547681"
          }
+      }
+   },
+   {
+      "Number": 6836,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-08-13T10:10:13Z",
+      "Recipe": "aws-crt-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6836",
+      "LastCommitSHA": "a4947ddcb5a78282daef503655e45964008d0a35",
+      "LastCommitAt": "2021-07-14T21:17:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-13T12:07:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6836#pullrequestreview-729548458"
+         }
+      }
+   },
+   {
+      "Number": 6841,
+      "OpenedBy": "dotChris90",
+      "CreatedAt": "2021-08-13T11:43:26Z",
+      "Recipe": "foonathan-memory",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6841",
+      "LastCommitSHA": "74a73cbf05117bd684b7803186ce0aec0c8229b3",
+      "LastCommitAt": "2021-08-13T11:25:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
