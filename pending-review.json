@@ -311,6 +311,31 @@
       }
    },
    {
+      "Number": 6824,
+      "OpenedBy": "dannftk",
+      "CreatedAt": "2021-08-12T07:47:40Z",
+      "Recipe": "libgcrypt",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6824",
+      "LastCommitSHA": "6f037ff60bfceaa18e68976eb1be4926ddaf38b7",
+      "LastCommitAt": "2021-08-06T05:33:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 13,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-13T05:49:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6824#pullrequestreview-729281195"
+         }
+      }
+   },
+   {
       "Number": 6828,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-12T14:41:38Z",
@@ -321,17 +346,43 @@
       "LastCommitAt": "2021-08-12T16:50:04Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-12T19:05:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6828#pullrequestreview-728977669"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-13T05:48:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6828#pullrequestreview-729280867"
+         }
+      }
+   },
+   {
+      "Number": 6829,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-08-12T14:47:07Z",
+      "Recipe": "tar",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6829",
+      "LastCommitSHA": "50f27b3918523e691098c148d5d4928fece72aa3",
+      "LastCommitAt": "2021-08-12T16:48:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-13T05:45:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6829#pullrequestreview-729279689"
          }
       }
    },
@@ -346,43 +397,18 @@
       "LastCommitAt": "2021-08-12T16:01:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-08-12T16:07:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6830#pullrequestreview-728814302"
-         }
-      }
-   },
-   {
-      "Number": 6831,
-      "OpenedBy": "remiburtin",
-      "CreatedAt": "2021-08-12T16:30:46Z",
-      "Recipe": "cli11",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6831",
-      "LastCommitSHA": "244a00bc6fd301fe6b204400b14d2c437810fa8e",
-      "LastCommitAt": "2021-08-12T17:29:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
+         "Count": 2,
          "ValidApprovals": 2,
-         "TeamApproval": false,
+         "TeamApproval": true,
          "Approvals": [
-            "Croydon",
-            "madebr"
+            "SpaceIm",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-12T19:51:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6831#pullrequestreview-729015562"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-13T05:43:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6830#pullrequestreview-729279044"
          }
       }
    },
@@ -397,19 +423,20 @@
       "LastCommitAt": "2021-08-12T12:31:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": false,
+         "Count": 4,
+         "ValidApprovals": 4,
+         "TeamApproval": true,
          "Approvals": [
             "Croydon",
             "madebr",
-            "intelligide"
+            "intelligide",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-08-12T22:46:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6832#pullrequestreview-729134281"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-13T05:43:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6832#pullrequestreview-729278763"
          }
       }
    },
@@ -422,13 +449,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6833",
       "LastCommitSHA": "de56e59844c2d90b64a6656c499fccd0626cf966",
       "LastCommitAt": "2021-08-13T00:42:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "Croydon",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-13T05:42:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6833#pullrequestreview-729278674"
+         }
       }
    }
 ]
