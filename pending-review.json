@@ -76,33 +76,6 @@
       }
    },
    {
-      "Number": 6836,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2021-08-13T10:10:13Z",
-      "Recipe": "aws-crt-cpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6836",
-      "LastCommitSHA": "c637eb9f414b9f50ae8a18dd517e80aa3fe198e5",
-      "LastCommitAt": "2021-08-13T15:41:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "intelligide",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-14T01:59:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6836#pullrequestreview-730043596"
-         }
-      }
-   },
-   {
       "Number": 6841,
       "OpenedBy": "dotChris90",
       "CreatedAt": "2021-08-13T11:43:26Z",
