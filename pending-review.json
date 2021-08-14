@@ -51,31 +51,6 @@
       }
    },
    {
-      "Number": 6824,
-      "OpenedBy": "dannftk",
-      "CreatedAt": "2021-08-12T07:47:40Z",
-      "Recipe": "libgcrypt",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6824",
-      "LastCommitSHA": "6f037ff60bfceaa18e68976eb1be4926ddaf38b7",
-      "LastCommitAt": "2021-08-06T05:33:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 18,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-14T08:56:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6824#pullrequestreview-730078776"
-         }
-      }
-   },
-   {
       "Number": 6847,
       "OpenedBy": "garethsb",
       "CreatedAt": "2021-08-13T15:23:07Z",
