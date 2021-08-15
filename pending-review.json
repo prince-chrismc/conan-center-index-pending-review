@@ -49,31 +49,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6772#pullrequestreview-730043313"
          }
       }
-   },
-   {
-      "Number": 6854,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2021-08-14T10:05:36Z",
-      "Recipe": "benchmark",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6854",
-      "LastCommitSHA": "9b99cf9497eb38cdd9c08841e6ae50e1a798fa74",
-      "LastCommitAt": "2021-08-14T06:23:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-08-15T03:58:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6854#pullrequestreview-730147446"
-         }
-      }
    }
 ]
