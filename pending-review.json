@@ -92,5 +92,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6854#pullrequestreview-730086284"
          }
       }
+   },
+   {
+      "Number": 6860,
+      "OpenedBy": "FernandoVelcic",
+      "CreatedAt": "2021-08-15T00:33:22Z",
+      "Recipe": "soil2",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6860",
+      "LastCommitSHA": "9b5d45467c91d6608d5accbb405c3560f1ee9248",
+      "LastCommitAt": "2021-08-15T00:30:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
