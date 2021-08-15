@@ -51,24 +51,6 @@
       }
    },
    {
-      "Number": 6848,
-      "OpenedBy": "uselessgoddess",
-      "CreatedAt": "2021-08-13T15:50:16Z",
-      "Recipe": "platform.equality",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6848",
-      "LastCommitSHA": "e0788616b5a2ccbbaa27dd4ed2511c378d165386",
-      "LastCommitAt": "2021-08-14T09:52:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 6854,
       "OpenedBy": "leha-bot",
       "CreatedAt": "2021-08-14T10:05:36Z",
