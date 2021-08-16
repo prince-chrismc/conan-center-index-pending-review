@@ -204,7 +204,7 @@
       "LastCommitAt": "2021-08-16T12:39:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
@@ -213,9 +213,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-16T19:52:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6878#pullrequestreview-731078106"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-16T20:27:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6878#pullrequestreview-731105591"
          }
       }
    },
@@ -253,19 +253,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6881",
       "LastCommitSHA": "e20321004bf3264027ce226a0bc7e07596f058ac",
       "LastCommitAt": "2021-08-16T16:12:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 8,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "dmn-star"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-08-16T16:15:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6881#pullrequestreview-730898799"
+            "ReviewerName": "dmn-star",
+            "SubmittedAt": "2021-08-16T20:25:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6881#pullrequestreview-731103045"
          }
       }
    },
@@ -321,7 +322,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6886",
       "LastCommitSHA": "b88ffa190dbc94d9db7142a0d7911b8cd6d79930",
       "LastCommitAt": "2021-08-16T17:10:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
@@ -335,6 +336,24 @@
             "SubmittedAt": "2021-08-16T17:14:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6886#pullrequestreview-730951926"
          }
+      }
+   },
+   {
+      "Number": 6888,
+      "OpenedBy": "dmn-star",
+      "CreatedAt": "2021-08-16T21:10:16Z",
+      "Recipe": "android-ndk",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6888",
+      "LastCommitSHA": "f232b02abe0a566d347443866b00f19bb1692f9a",
+      "LastCommitAt": "2021-08-16T20:27:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
