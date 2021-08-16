@@ -51,24 +51,6 @@
       }
    },
    {
-      "Number": 6849,
-      "OpenedBy": "Pro",
-      "CreatedAt": "2021-08-13T16:38:12Z",
-      "Recipe": "mingw-w64",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6849",
-      "LastCommitSHA": "4003013f24ea5122e94feeabb9d05db1662967b8",
-      "LastCommitAt": "2021-08-15T13:32:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 6863,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-08-16T02:57:48Z",
@@ -77,13 +59,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6863",
       "LastCommitSHA": "fd4a150e9b7f64f356851cc1169d22e4d7aa6614",
       "LastCommitAt": "2021-08-16T02:57:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "dannftk"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "dannftk",
+            "SubmittedAt": "2021-08-16T05:47:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6863#pullrequestreview-730342948"
+         }
       }
    }
 ]
