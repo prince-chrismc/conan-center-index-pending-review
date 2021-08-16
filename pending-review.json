@@ -101,6 +101,31 @@
       }
    },
    {
+      "Number": 6848,
+      "OpenedBy": "uselessgoddess",
+      "CreatedAt": "2021-08-13T15:50:16Z",
+      "Recipe": "platform.equality",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6848",
+      "LastCommitSHA": "612c4884cecbb780df19da932a66d84bded7cbc7",
+      "LastCommitAt": "2021-08-16T07:59:03Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-16T08:18:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6848#pullrequestreview-730444296"
+         }
+      }
+   },
+   {
       "Number": 6863,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-08-16T02:57:48Z",
@@ -111,19 +136,38 @@
       "LastCommitAt": "2021-08-16T02:57:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "dannftk",
-            "SSE4"
+            "SSE4",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-16T07:06:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6863#pullrequestreview-730386509"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-16T08:18:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6863#pullrequestreview-730444727"
          }
+      }
+   },
+   {
+      "Number": 6868,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-08-16T09:07:28Z",
+      "Recipe": "libepoxy",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6868",
+      "LastCommitSHA": "a840447794d9374da64e7f39732dfc872c03b7f0",
+      "LastCommitAt": "2021-08-16T09:06:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
