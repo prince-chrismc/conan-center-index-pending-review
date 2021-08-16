@@ -50,6 +50,31 @@
       }
    },
    {
+      "Number": 6388,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-07-17T15:49:07Z",
+      "Recipe": "nas",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6388",
+      "LastCommitSHA": "338305b3c1b3ec04286d1ed077c859c4605dba52",
+      "LastCommitAt": "2021-08-16T15:56:55Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 15,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-16T16:32:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6388#pullrequestreview-730915186"
+         }
+      }
+   },
+   {
       "Number": 6772,
       "OpenedBy": "exief",
       "CreatedAt": "2021-08-09T05:11:28Z",
@@ -261,21 +286,28 @@
       }
    },
    {
-      "Number": 6885,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2021-08-16T16:19:37Z",
-      "Recipe": "cotila",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6885",
-      "LastCommitSHA": "5501118d826cde8680f8ca7c347b47771051d5d0",
-      "LastCommitAt": "2021-08-16T16:05:43Z",
+      "Number": 6886,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-16T17:00:43Z",
+      "Recipe": "calceph",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6886",
+      "LastCommitSHA": "b88ffa190dbc94d9db7142a0d7911b8cd6d79930",
+      "LastCommitAt": "2021-08-16T17:10:36Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-16T17:14:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6886#pullrequestreview-730951926"
+         }
       }
    }
 ]
