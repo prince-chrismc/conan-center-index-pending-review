@@ -51,6 +51,24 @@
       }
    },
    {
+      "Number": 6849,
+      "OpenedBy": "Pro",
+      "CreatedAt": "2021-08-13T16:38:12Z",
+      "Recipe": "mingw-w64",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6849",
+      "LastCommitSHA": "4003013f24ea5122e94feeabb9d05db1662967b8",
+      "LastCommitAt": "2021-08-15T13:32:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 6863,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-08-16T02:57:48Z",
