@@ -51,6 +51,31 @@
       }
    },
    {
+      "Number": 6824,
+      "OpenedBy": "dannftk",
+      "CreatedAt": "2021-08-12T07:47:40Z",
+      "Recipe": "libgcrypt",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6824",
+      "LastCommitSHA": "fa455c5364b35cfc70eca22c3edf75ed19d2ec0c",
+      "LastCommitAt": "2021-08-16T05:45:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 35,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-16T07:08:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6824#pullrequestreview-730387890"
+         }
+      }
+   },
+   {
       "Number": 6863,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-08-16T02:57:48Z",
@@ -61,17 +86,18 @@
       "LastCommitAt": "2021-08-16T02:57:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "dannftk"
+            "dannftk",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "dannftk",
-            "SubmittedAt": "2021-08-16T05:47:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6863#pullrequestreview-730342948"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-16T07:06:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6863#pullrequestreview-730386509"
          }
       }
    }
