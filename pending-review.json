@@ -433,5 +433,55 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6889#pullrequestreview-731474229"
          }
       }
+   },
+   {
+      "Number": 6893,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2021-08-17T12:43:01Z",
+      "Recipe": "jwt-cpp",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6893",
+      "LastCommitSHA": "e17b19d47ce9580b91741c3e05b3cda794cea835",
+      "LastCommitAt": "2021-08-17T12:27:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-08-17T13:01:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6893#pullrequestreview-731734289"
+         }
+      }
+   },
+   {
+      "Number": 6894,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2021-08-17T12:44:52Z",
+      "Recipe": "outcome",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6894",
+      "LastCommitSHA": "4654a1acb6cb14a9bca7c455a9bf10e7fcbf991c",
+      "LastCommitAt": "2021-08-17T12:30:56Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-08-17T13:01:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6894#pullrequestreview-731733516"
+         }
+      }
    }
 ]
