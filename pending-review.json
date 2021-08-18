@@ -343,17 +343,19 @@
       "LastCommitAt": "2021-08-17T19:27:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
-            "intelligide"
+            "intelligide",
+            "prince-chrismc",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-08-17T20:40:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6901#pullrequestreview-732204592"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-08-18T01:56:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6901#pullrequestreview-732366856"
          }
       }
    },
