@@ -78,33 +78,6 @@
       }
    },
    {
-      "Number": 6885,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2021-08-16T16:19:37Z",
-      "Recipe": "cotila",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6885",
-      "LastCommitSHA": "3c115963166f80b1e55401cbe08715a501061439",
-      "LastCommitAt": "2021-08-16T16:05:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-18T11:48:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6885#pullrequestreview-732761746"
-         }
-      }
-   },
-   {
       "Number": 6897,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-08-17T17:10:14Z",
