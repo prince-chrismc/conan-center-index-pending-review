@@ -111,7 +111,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6862",
       "LastCommitSHA": "4de55a2c8ad6d27d51ea190abd2d10174c6f3d47",
       "LastCommitAt": "2021-08-17T19:11:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 14,
          "ValidApprovals": 2,
@@ -382,8 +382,8 @@
       "Recipe": "leaf",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6906",
-      "LastCommitSHA": "919b12a7f7300ed384284d15679b245cee642356",
-      "LastCommitAt": "2021-08-17T23:09:47Z",
+      "LastCommitSHA": "7e9a28fb805a1cafb3f02d8f75cb4b763a663a0d",
+      "LastCommitAt": "2021-08-18T00:22:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
