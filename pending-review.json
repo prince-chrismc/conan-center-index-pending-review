@@ -94,6 +94,32 @@
       }
    },
    {
+      "Number": 6888,
+      "OpenedBy": "dmn-star",
+      "CreatedAt": "2021-08-16T21:10:16Z",
+      "Recipe": "android-ndk",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6888",
+      "LastCommitSHA": "f232b02abe0a566d347443866b00f19bb1692f9a",
+      "LastCommitAt": "2021-08-16T20:27:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-19T08:59:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6888#pullrequestreview-733738984"
+         }
+      }
+   },
+   {
       "Number": 6905,
       "OpenedBy": "tcanabrava",
       "CreatedAt": "2021-08-17T21:20:42Z",
@@ -104,17 +130,18 @@
       "LastCommitAt": "2021-08-17T16:16:54Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-18T22:56:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6905#pullrequestreview-733417564"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-08-19T08:30:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6905#pullrequestreview-733709648"
          }
       }
    },
@@ -190,6 +217,24 @@
             "SubmittedAt": "2021-08-19T05:24:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6923#pullrequestreview-733572176"
          }
+      }
+   },
+   {
+      "Number": 6924,
+      "OpenedBy": "Croydon",
+      "CreatedAt": "2021-08-19T08:22:41Z",
+      "Recipe": "llvm-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6924",
+      "LastCommitSHA": "9b58708d979db834d066ae9a8789e0a18b30cc71",
+      "LastCommitAt": "2021-08-19T08:21:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
