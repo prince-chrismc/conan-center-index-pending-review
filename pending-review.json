@@ -210,21 +210,19 @@
       "Recipe": "docs",
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6919",
-      "LastCommitSHA": "5d01a7fbe82b20f3259c22cdc3d69c2ef409f07a",
-      "LastCommitAt": "2021-08-19T13:04:12Z",
+      "LastCommitSHA": "53015539fc640b81bf2b45ae1e143a89e9b5f132",
+      "LastCommitAt": "2021-08-19T20:32:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
+         "Count": 9,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "garethsb",
-            "SubmittedAt": "2021-08-19T19:23:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6919#pullrequestreview-734379587"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-08-19T20:31:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6919#pullrequestreview-734441062"
          }
       }
    },
