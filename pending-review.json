@@ -212,17 +212,18 @@
       "LastCommitAt": "2021-08-19T00:46:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-19T05:24:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6923#pullrequestreview-733572176"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-08-19T11:34:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6923#pullrequestreview-733877170"
          }
       }
    },
@@ -253,6 +254,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6925",
       "LastCommitSHA": "356135edffeb36ca3570e0a2d2e944c32ce94f13",
       "LastCommitAt": "2021-08-19T06:39:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6928,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2021-08-19T11:33:52Z",
+      "Recipe": "avahi-system",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6928",
+      "LastCommitSHA": "8a4793bdbf01bbae5635a3a143b09af606de9a70",
+      "LastCommitAt": "2021-08-19T11:23:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
