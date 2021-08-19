@@ -253,28 +253,21 @@
       }
    },
    {
-      "Number": 6928,
-      "OpenedBy": "garethsb",
-      "CreatedAt": "2021-08-19T11:33:52Z",
-      "Recipe": "avahi-system",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6928",
-      "LastCommitSHA": "8a4793bdbf01bbae5635a3a143b09af606de9a70",
-      "LastCommitAt": "2021-08-19T11:23:44Z",
-      "CciBotPassed": true,
+      "Number": 6932,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-08-19T17:11:30Z",
+      "Recipe": "wayland",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6932",
+      "LastCommitSHA": "21c6e8a4e9db2a8d940f6f167d1046d121b414fc",
+      "LastCommitAt": "2021-08-19T17:10:41Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
+         "Count": 0,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-19T16:13:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6928#pullrequestreview-734209691"
-         }
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
