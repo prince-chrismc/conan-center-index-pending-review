@@ -192,5 +192,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6919#pullrequestreview-733383523"
          }
       }
+   },
+   {
+      "Number": 6923,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-08-19T04:54:07Z",
+      "Recipe": "meson",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6923",
+      "LastCommitSHA": "2fa18f10a0a3b255d63309e9d60a9961b7cc9f10",
+      "LastCommitAt": "2021-08-19T00:46:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
