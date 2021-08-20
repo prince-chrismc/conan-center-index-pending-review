@@ -101,6 +101,32 @@
       }
    },
    {
+      "Number": 6815,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-11T13:52:54Z",
+      "Recipe": "librasterlite",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6815",
+      "LastCommitSHA": "2b4d9f88c33cce34ec3056c5c9f24b5eb23d445e",
+      "LastCommitAt": "2021-08-11T13:28:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 8,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "prince-chrismc",
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-20T13:06:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6815#pullrequestreview-735008362"
+         }
+      }
+   },
+   {
       "Number": 6835,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-08-13T09:20:03Z",
