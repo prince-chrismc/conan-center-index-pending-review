@@ -239,7 +239,7 @@
       "LastCommitAt": "2021-08-20T11:16:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -247,9 +247,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-20T15:00:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6935#pullrequestreview-735121680"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-20T21:09:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6935#pullrequestreview-735388653"
          }
       }
    },
@@ -262,6 +262,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6939",
       "LastCommitSHA": "3cf4d2c6a360cb00344fe7c4ec5fd5a9d4c94365",
       "LastCommitAt": "2021-08-20T15:04:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6942,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-08-20T20:36:52Z",
+      "Recipe": "vulkan-loader",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6942",
+      "LastCommitSHA": "b0b180101c2f867fcd68f3cfee152dc29f74fc27",
+      "LastCommitAt": "2021-08-20T20:35:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
