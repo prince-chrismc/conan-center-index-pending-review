@@ -25,6 +25,31 @@
       }
    },
    {
+      "Number": 6290,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-07-12T16:57:51Z",
+      "Recipe": "corrade",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6290",
+      "LastCommitSHA": "d7e6c08077f182a6f033be71fdfa83cf594b7557",
+      "LastCommitAt": "2021-08-18T11:42:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 27,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-20T07:40:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6290#pullrequestreview-734757291"
+         }
+      }
+   },
+   {
       "Number": 6335,
       "OpenedBy": "davidsanfal",
       "CreatedAt": "2021-07-14T11:43:06Z",
@@ -126,33 +151,6 @@
       }
    },
    {
-      "Number": 6905,
-      "OpenedBy": "tcanabrava",
-      "CreatedAt": "2021-08-17T21:20:42Z",
-      "Recipe": "wt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6905",
-      "LastCommitSHA": "ef3483eb1f67d2a227ff8b261943f1b3db6942a8",
-      "LastCommitAt": "2021-08-17T16:16:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "jgsogo",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-19T12:49:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6905#pullrequestreview-733944648"
-         }
-      }
-   },
-   {
       "Number": 6909,
       "OpenedBy": "sh0",
       "CreatedAt": "2021-08-18T08:43:05Z",
@@ -227,32 +225,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-08-20T06:53:57Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6919#pullrequestreview-734724577"
-         }
-      }
-   },
-   {
-      "Number": 6932,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-08-19T17:11:30Z",
-      "Recipe": "wayland",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6932",
-      "LastCommitSHA": "21c6e8a4e9db2a8d940f6f167d1046d121b414fc",
-      "LastCommitAt": "2021-08-19T17:10:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-20T06:52:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6932#pullrequestreview-734723621"
          }
       }
    },
