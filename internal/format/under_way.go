@@ -25,7 +25,7 @@ func UnderReview(prs []*pending_review.PullRequestSummary) string {
 
 ### :nerd_face: Please Review! 
 
-There ` + breif + ` currently under way :eyes:
+There ` + breif + ` currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
