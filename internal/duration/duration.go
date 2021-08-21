@@ -7,9 +7,10 @@ import (
 )
 
 const (
-	hour = time.Minute * 60
-	day  = hour * 24
-	year = 365 * day
+	HOUR  = time.Minute * 60
+	DAY   = HOUR * 24
+	MONTH = 30 * DAY
+	YEAR  = 365 * DAY
 )
 
 // Duration represents the elapsed time between two instants as a time.Duration. It adds a few extras for working with the scale of CCI
@@ -20,24 +21,24 @@ func String(d Duration) string {
 	var b strings.Builder
 	and := false
 
-	if d >= year {
+	if d >= YEAR {
 		and = true
-		years := d / year
-		d -= years * year
+		years := d / YEAR
+		d -= years * YEAR
 		fmt.Fprintf(&b, "%d years, ", years)
 	}
 
-	if d >= day {
+	if d >= DAY {
 		and = true
-		days := d / day
-		d -= days * day
+		days := d / DAY
+		d -= days * DAY
 		fmt.Fprintf(&b, "%d days, ", days)
 	}
 
-	if d >= hour {
+	if d >= HOUR {
 		and = true
-		hours := d / hour
-		d -= hours * hour
+		hours := d / HOUR
+		d -= hours * HOUR
 		fmt.Fprintf(&b, "%d hours, ", hours)
 	}
 

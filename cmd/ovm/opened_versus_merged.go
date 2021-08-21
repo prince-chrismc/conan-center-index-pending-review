@@ -8,11 +8,14 @@ import (
 
 	"github.com/google/go-github/v34/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/charts"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"github.com/wcharczuk/go-chart/v2"
 	"golang.org/x/oauth2"
 )
+
+const interval = duration.MONTH * 3
 
 func OpenVersusMerged(token string, dryRun bool) error {
 	tokenService := oauth2.StaticTokenSource(
@@ -64,10 +67,10 @@ func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Co
 	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
 
 	opt := &github.PullRequestListOptions{
-		Sort:  "created",
-		State: "closed",
+		Sort:      "created",
+		State:     "closed",
+		Direction: "desc",
 		ListOptions: github.ListOptions{
-			Page:    30,
 			PerPage: 100,
 		},
 	}
@@ -80,8 +83,8 @@ func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Co
 
 		for _, pull := range pulls {
 			createdOn := prCreationDay(pull)
-			if time.Since(createdOn) > time.Hour*24*60 {
-				continue
+			if time.Since(createdOn) > interval {
+				return
 			}
 
 			opw.Count(createdOn)
@@ -94,7 +97,7 @@ func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Co
 		}
 
 		if resp.NextPage == 0 {
-			break
+			return
 		}
 		opt.Page = resp.NextPage
 	}
@@ -104,14 +107,14 @@ func countOpenedPullRequests(tokenService oauth2.TokenSource, context context.Co
 	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
 
 	opt := &github.PullRequestListOptions{
-		Sort:  "created",
-		State: "opened",
+		Sort:      "created",
+		State:     "opened",
+		Direction: "desc",
 		ListOptions: github.ListOptions{
 			PerPage: 100,
 		},
 	}
 	for {
-		fmt.Println("- Page: ", opt.Page)
 		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
 			fmt.Printf("Problem getting pull request list %v\n", err)
@@ -120,8 +123,8 @@ func countOpenedPullRequests(tokenService oauth2.TokenSource, context context.Co
 
 		for _, pull := range pulls {
 			createdOn := prCreationDay(pull)
-			if time.Since(createdOn) > time.Hour*24*60 {
-				continue
+			if time.Since(createdOn) > interval {
+				return
 			}
 
 			opw.Count(createdOn)
