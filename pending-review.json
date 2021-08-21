@@ -311,6 +311,24 @@
       }
    },
    {
+      "Number": 6944,
+      "OpenedBy": "Lemiort",
+      "CreatedAt": "2021-08-20T23:29:39Z",
+      "Recipe": "rectpack2d",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6944",
+      "LastCommitSHA": "ab37f422fd795dbb61825599eec9ae52c331eb81",
+      "LastCommitAt": "2021-08-21T15:18:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 6948,
       "OpenedBy": "dBagrat",
       "CreatedAt": "2021-08-21T14:26:40Z",
@@ -319,13 +337,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6948",
       "LastCommitSHA": "48ac87c0b143b292f633db6704f0d917dc904d0a",
       "LastCommitAt": "2021-08-21T14:22:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-21T16:01:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6948#pullrequestreview-735505186"
+         }
       }
    }
 ]
