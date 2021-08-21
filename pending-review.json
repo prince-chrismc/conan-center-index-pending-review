@@ -390,17 +390,18 @@
       "LastCommitAt": "2021-08-21T14:22:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-21T16:01:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6948#pullrequestreview-735505186"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-08-21T22:29:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6948#pullrequestreview-735524853"
          }
       }
    },
