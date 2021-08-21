@@ -309,5 +309,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6939#pullrequestreview-735476059"
          }
       }
+   },
+   {
+      "Number": 6944,
+      "OpenedBy": "Lemiort",
+      "CreatedAt": "2021-08-20T23:29:39Z",
+      "Recipe": "rectpack2d",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6944",
+      "LastCommitSHA": "adf51c61121f90bb3e0eecfe8d7fb730233a0f99",
+      "LastCommitAt": "2021-08-20T22:14:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
