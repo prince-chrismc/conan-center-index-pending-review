@@ -1,4 +1,4 @@
-package main
+package charts
 
 import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
@@ -6,14 +6,14 @@ import (
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
-func makeStackedChart( /*opd stats.CountAtTime,*/ cxd stats.CountAtTime, mxd stats.CountAtTime) chart.StackedBarChart {
+func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.CountAtTime) chart.StackedBarChart {
 	bars := []chart.StackedBar{}
-	for _, t := range cxd.Keys() {
+	for _, t := range opd.Keys() {
 		bars = append(bars, chart.StackedBar{
 			Name: t.Format(chart.DefaultDateFormat),
 			// Width: 25,
 			Values: []chart.Value{
-				// {Value: float64(opd[t] - cxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("3fb950")}},
+				{Value: float64(opd[t] - cxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("3fb950")}},
 				{Value: float64(cxd[t] - mxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("f85149")}},
 				{Value: float64(mxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("a371f7")}},
 			},

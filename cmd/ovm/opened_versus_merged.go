@@ -7,8 +7,10 @@ import (
 	"time"
 
 	"github.com/google/go-github/v34/github"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/charts"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
+	"github.com/wcharczuk/go-chart/v2"
 	"golang.org/x/oauth2"
 )
 
@@ -36,15 +38,29 @@ func OpenVersusMerged(token string, dryRun bool) error {
 
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
-	fn0(tokenService, context, cxw, mxw)
-	fn1(tokenService, context, opw)
+	countClosedPullRequests(tokenService, context, opw, cxw, mxw)
+	countOpenedPullRequests(tokenService, context, opw)
 
 	fmt.Println("::endgroup")
+
+	barGraph := charts.MakeStackedChart(opw, cxw, mxw)
+
+	if dryRun {
+		f, _ := os.Create("ovm.png")
+		defer f.Close()
+		barGraph.Render(chart.PNG, f)
+
+		return nil
+	}
 
 	return nil
 }
 
-func fn0(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime) {
+func prCreationDay(pull *github.PullRequest) time.Time {
+	return pull.GetCreatedAt().Truncate(time.Hour * 24)
+}
+
+func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime) {
 	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
 
 	opt := &github.PullRequestListOptions{
@@ -63,16 +79,17 @@ func fn0(tokenService oauth2.TokenSource, context context.Context, opw stats.Cou
 		}
 
 		for _, pull := range pulls {
-			if time.Since(pull.GetCreatedAt()) > time.Hour*24*60 {
+			createdOn := prCreationDay(pull)
+			if time.Since(createdOn) > time.Hour*24*60 {
 				continue
 			}
 
-			opw.Count(pull.GetCreatedAt().Truncate(time.Hour * 24))
-			cxw.Count(pull.GetCreatedAt().Truncate(time.Hour * 24))
+			opw.Count(createdOn)
+			cxw.Count(createdOn)
 
 			merged := pull.GetMergedAt() != time.Time{}
 			if merged {
-				mxw.Count(pull.GetCreatedAt().Truncate(time.Hour * 24))
+				mxw.Count(createdOn)
 			}
 		}
 
@@ -83,18 +100,18 @@ func fn0(tokenService oauth2.TokenSource, context context.Context, opw stats.Cou
 	}
 }
 
-func fn1(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime) {
+func countOpenedPullRequests(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime) {
 	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
 
 	opt := &github.PullRequestListOptions{
 		Sort:  "created",
 		State: "opened",
 		ListOptions: github.ListOptions{
-			Page:    30,
 			PerPage: 100,
 		},
 	}
 	for {
+		fmt.Println("- Page: ", opt.Page)
 		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
 			fmt.Printf("Problem getting pull request list %v\n", err)
@@ -102,11 +119,12 @@ func fn1(tokenService oauth2.TokenSource, context context.Context, opw stats.Cou
 		}
 
 		for _, pull := range pulls {
-			if time.Since(pull.GetCreatedAt()) > time.Hour*24*60 {
+			createdOn := prCreationDay(pull)
+			if time.Since(createdOn) > time.Hour*24*60 {
 				continue
 			}
 
-			opw.Count(pull.GetCreatedAt().Truncate(time.Hour * 24))
+			opw.Count(createdOn)
 		}
 
 		if resp.NextPage == 0 {

@@ -100,16 +100,11 @@ func TimeInReview(token string, dryRun bool) error {
 	fmt.Println("::group::🖊️ Rendering data and saving results!")
 
 	lineGraph := makeLineChart(tir, mpd)
-	barGraph := makeStackedChart( /*opd,*/ cxd, mxd)
 
 	if dryRun {
 		f, _ := os.Create("tir.png")
 		defer f.Close()
 		lineGraph.Render(chart.PNG, f)
-
-		f2, _ := os.Create("ovm.png")
-		defer f2.Close()
-		barGraph.Render(chart.PNG, f2)
 
 		return nil
 	}
