@@ -97,6 +97,10 @@ func lastReviewTime(pr *pending_review.PullRequestSummary) string {
 		}
 
 		return date
+	} else {
+		if time.Since(pr.LastCommitAt) >= time.Hour*24*3 {
+			return ":eyes:"
+		}
 	}
 
 	return ""

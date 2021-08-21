@@ -99,11 +99,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	}
 
 	if p.Summary.Count < 1 { // Has not been looked at...
-		if isWithin24Hours(p.LastCommitAt) { // commited within 24hrs
-			return p, resp, nil // let's save it!
-		}
-
-		return nil, resp, fmt.Errorf("%w", ErrNoReviews)
+		return p, resp, nil // let's save it! So it can get some attention
 	}
 
 	status, _, err := s.client.Repository.GetCommitStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
@@ -120,10 +116,6 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	}
 
 	return nil, resp, fmt.Errorf("%w", ErrNoReviews)
-}
-
-func isWithin24Hours(t time.Time) bool {
-	return t.Add(time.Hour * 24).After(time.Now())
 }
 
 type change struct {
