@@ -352,5 +352,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6948#pullrequestreview-735505186"
          }
       }
+   },
+   {
+      "Number": 6949,
+      "OpenedBy": "akemimadoka",
+      "CreatedAt": "2021-08-21T17:02:21Z",
+      "Recipe": "llvm-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6949",
+      "LastCommitSHA": "f669e6d63cbfad31552efa76adb7987dd60a0934",
+      "LastCommitAt": "2021-08-21T17:00:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
