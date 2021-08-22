@@ -346,17 +346,18 @@
       "LastCommitAt": "2021-08-21T12:02:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-08-22T07:45:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6946#pullrequestreview-735549509"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-08-22T13:11:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6946#pullrequestreview-735575795"
          }
       }
    },
@@ -371,17 +372,18 @@
       "LastCommitAt": "2021-08-21T17:00:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-22T11:48:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6949#pullrequestreview-735568626"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-08-22T12:35:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6949#pullrequestreview-735572681"
          }
       }
    },
@@ -409,6 +411,42 @@
             "SubmittedAt": "2021-08-22T11:48:15Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6950#pullrequestreview-735568607"
          }
+      }
+   },
+   {
+      "Number": 6952,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2021-08-22T13:13:15Z",
+      "Recipe": "effolkronium-random",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6952",
+      "LastCommitSHA": "394e2a64bacdbd1df13ed49c6929e2a9d5713617",
+      "LastCommitAt": "2021-08-22T12:27:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 6953,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2021-08-22T13:15:08Z",
+      "Recipe": "functionalplus",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6953",
+      "LastCommitSHA": "5852c72f86e0324a0c64e0f8daf6b8aedf644f80",
+      "LastCommitAt": "2021-08-22T12:27:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
