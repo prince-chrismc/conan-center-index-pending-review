@@ -35,18 +35,19 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	opw := make(stats.CountAtTime) // Opend Per Week
-	cxw := make(stats.CountAtTime) // Closed (based on creation date) Per Day
-	mxw := make(stats.CountAtTime) // Merged (based on creation date) Per Day
+	opw := make(stats.CountAtTime)  // Opend Per Week
+	cxw := make(stats.CountAtTime)  // Closed (based on creation date) Per Week
+	mxw := make(stats.CountAtTime)  // Merged (based on creation date) Per Week
+	m7xw := make(stats.CountAtTime) // Merged within 7 days (based on creation date) Per Week
 
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
-	countClosedPullRequests(tokenService, context, opw, cxw, mxw)
+	countClosedPullRequests(tokenService, context, opw, cxw, mxw, m7xw)
 	countOpenedPullRequests(tokenService, context, opw)
 
 	fmt.Println("::endgroup")
 
-	barGraph := charts.MakeStackedChart(opw, cxw, mxw)
+	barGraph := charts.MakeStackedChart(opw, cxw, mxw, m7xw)
 
 	if dryRun {
 		f, _ := os.Create("ovm.png")
@@ -63,7 +64,7 @@ func prCreationDay(pull *github.PullRequest) time.Time {
 	return pull.GetCreatedAt().Truncate(duration.WEEK)
 }
 
-func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime) {
+func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime, m7xw stats.CountAtTime) {
 	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
 
 	opt := &github.PullRequestListOptions{
@@ -90,9 +91,13 @@ func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Co
 			opw.Count(createdOn)
 			cxw.Count(createdOn)
 
-			merged := pull.GetMergedAt() != time.Time{}
+			mergedOn := pull.GetMergedAt()
+			merged := mergedOn != time.Time{}
 			if merged {
 				mxw.Count(createdOn)
+				if mergedOn.Sub(pull.GetCreatedAt()) < duration.WEEK {
+					m7xw.Count(createdOn)
+				}
 			}
 		}
 
