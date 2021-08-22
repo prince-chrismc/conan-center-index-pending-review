@@ -7,12 +7,14 @@ import (
 )
 
 func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.CountAtTime) chart.StackedBarChart {
+	most := opd.Values()[0]
 	bars := []chart.StackedBar{}
 	for _, t := range opd.Keys() {
 		bars = append(bars, chart.StackedBar{
 			Name: t.Format(chart.DefaultDateFormat),
 			// Width: 25,
 			Values: []chart.Value{
+				{Value: float64(most - opd[t]), Style: chart.Style{FillColor: chart.ColorWhite.WithAlpha(0), StrokeColor: chart.ColorWhite.WithAlpha(0)}},
 				{Value: float64(opd[t] - cxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("3fb950")}},
 				{Value: float64(cxd[t] - mxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("f85149")}},
 				{Value: float64(mxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("a371f7")}},
@@ -21,9 +23,14 @@ func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.Co
 	}
 
 	return chart.StackedBarChart{
-		// Title:  "Open versus merged pull requests",
-		Canvas: chart.Style{ /*Padding: chart.Box{Top: 40, Left: 40, Right: 40, Bottom: 40},*/ FillColor: chart.ColorWhite.WithAlpha(0)},
-		// Background: chart.Style{Padding: chart.Box{Top: 100, Left: 100, Right: 100, Bottom: 100}, FillColor: chart.ColorWhite.WithAlpha(0)},
+		Title: "Open versus merged pull requests",
+		TitleStyle: chart.Style{
+			FontSize:          50,
+			FontColor:         drawing.ColorFromHex("58a6ff"),
+			TextVerticalAlign: chart.TextVerticalAlignTop,
+		},
+		Canvas:     chart.Style{FillColor: chart.ColorWhite.WithAlpha(0)},
+		Background: chart.Style{Padding: chart.Box{Top: 125}},
 		Bars:       bars,
 		BarSpacing: 25,
 		Height:     2048,

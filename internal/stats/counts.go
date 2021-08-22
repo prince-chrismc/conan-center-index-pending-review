@@ -42,3 +42,18 @@ func (c CountAtTime) Keys() []time.Time {
 
 	return keys
 }
+
+func (c CountAtTime) Values() []int {
+	values := make([]int, len(c)) // Allocate everything in one step for performance
+	idx := 0
+	for _, count := range c {
+		values[idx] = count // Fill each elemenet of the array
+		idx++
+	}
+
+	sort.SliceStable(values, func(i, j int) bool {
+		return values[i] > values[j]
+	})
+
+	return values
+}

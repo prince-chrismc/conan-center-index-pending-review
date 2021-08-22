@@ -15,7 +15,7 @@ import (
 	"golang.org/x/oauth2"
 )
 
-const interval = duration.MONTH * 3
+const interval = duration.WEEK * 52
 
 func OpenVersusMerged(token string, dryRun bool) error {
 	tokenService := oauth2.StaticTokenSource(
@@ -60,7 +60,7 @@ func OpenVersusMerged(token string, dryRun bool) error {
 }
 
 func prCreationDay(pull *github.PullRequest) time.Time {
-	return pull.GetCreatedAt().Truncate(time.Hour * 24)
+	return pull.GetCreatedAt().Truncate(duration.WEEK)
 }
 
 func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime) {

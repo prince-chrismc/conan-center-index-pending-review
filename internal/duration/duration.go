@@ -9,6 +9,7 @@ import (
 const (
 	HOUR  = time.Minute * 60
 	DAY   = HOUR * 24
+	WEEK  = 7 * DAY
 	MONTH = 30 * DAY
 	YEAR  = 365 * DAY
 )

@@ -46,3 +46,14 @@ func TestCountAtTimeGivesKeys(t *testing.T) {
 	keys := counts.Keys()
 	assert.Equal(t, []time.Time{t1, t2}, keys)
 }
+
+func TestCountAtTimeGivesValues(t *testing.T) {
+	counts := CountAtTime{}
+	t1 := time.Now()
+	counts.Add(t1, 5)
+	t2 := time.Now().Add(time.Hour)
+	counts.Count(t2)
+
+	keys := counts.Values()
+	assert.Equal(t, []int{5, 1}, keys)
+}
