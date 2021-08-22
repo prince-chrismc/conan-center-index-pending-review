@@ -519,5 +519,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6956#pullrequestreview-735578069"
          }
       }
+   },
+   {
+      "Number": 6958,
+      "OpenedBy": "uselessgoddess",
+      "CreatedAt": "2021-08-22T17:28:46Z",
+      "Recipe": "platform.hashing",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6958",
+      "LastCommitSHA": "c2a53f70a177b59ab01e34f7526002bf4da90aa9",
+      "LastCommitAt": "2021-08-22T18:04:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
