@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/google/go-github/v34/github"
+	"github.com/google/go-github/v38/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
