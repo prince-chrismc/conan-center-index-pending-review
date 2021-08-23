@@ -299,59 +299,6 @@
       }
    },
    {
-      "Number": 6946,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-08-21T11:38:15Z",
-      "Recipe": "wayland-protocols",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6946",
-      "LastCommitSHA": "a916efe9e12f50f3b981bdce4fa84ba38f4fb286",
-      "LastCommitAt": "2021-08-21T12:02:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-08-22T14:19:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6946#pullrequestreview-735581692"
-         }
-      }
-   },
-   {
-      "Number": 6955,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-08-22T13:20:41Z",
-      "Recipe": "libxcrypt",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6955",
-      "LastCommitSHA": "76cacd20164ba955542bfb6716aa02b19e227cb5",
-      "LastCommitAt": "2021-08-22T12:30:13Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo",
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-23T07:27:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6955#pullrequestreview-735798777"
-         }
-      }
-   },
-   {
       "Number": 6956,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-08-22T13:22:56Z",
