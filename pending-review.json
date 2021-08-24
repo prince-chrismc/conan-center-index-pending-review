@@ -378,33 +378,6 @@
       }
    },
    {
-      "Number": 6964,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-23T13:48:52Z",
-      "Recipe": "jsonnet",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6964",
-      "LastCommitSHA": "a2521d30a6870e3229e4ceffd65b6bf86ba04b56",
-      "LastCommitAt": "2021-08-23T13:48:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "ericLemanissier",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-08-24T08:09:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6964#pullrequestreview-736924971"
-         }
-      }
-   },
-   {
       "Number": 6967,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-08-23T14:27:01Z",
@@ -1238,6 +1211,24 @@
             "SubmittedAt": "2021-08-24T07:59:30Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7021#pullrequestreview-736914708"
          }
+      }
+   },
+   {
+      "Number": 7024,
+      "OpenedBy": "SamsonBox",
+      "CreatedAt": "2021-08-24T07:32:30Z",
+      "Recipe": "libftdi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7024",
+      "LastCommitSHA": "6bc0bc8dff2898644b86991676fa3ab44510d34a",
+      "LastCommitAt": "2021-08-24T09:09:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
