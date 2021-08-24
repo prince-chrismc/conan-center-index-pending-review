@@ -1083,24 +1083,6 @@
       }
    },
    {
-      "Number": 7020,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-24T03:46:59Z",
-      "Recipe": "gf-complete",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7020",
-      "LastCommitSHA": "84cb56c4df6cfedd545df74d142eaf6f2c19f541",
-      "LastCommitAt": "2021-08-24T03:46:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7021,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-08-24T03:50:09Z",
