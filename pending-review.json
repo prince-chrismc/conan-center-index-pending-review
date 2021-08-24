@@ -388,7 +388,7 @@
       "LastCommitAt": "2021-08-23T18:27:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
+         "Count": 11,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -396,9 +396,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-23T20:16:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6958#pullrequestreview-736527746"
+            "ReviewerName": "uselessgoddess",
+            "SubmittedAt": "2021-08-24T05:06:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6958#pullrequestreview-736784912"
          }
       }
    },
