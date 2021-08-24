@@ -1117,23 +1117,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 7023,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-24T04:02:24Z",
-      "Recipe": "fontconfig",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7023",
-      "LastCommitSHA": "e7169d5c3dcf58b173ebf220f1fe29c5099f1e80",
-      "LastCommitAt": "2021-08-24T04:01:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
