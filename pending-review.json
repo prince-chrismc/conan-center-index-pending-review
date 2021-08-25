@@ -206,7 +206,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6907",
       "LastCommitSHA": "751b17d17771b37ae6d5c7045a9beb0101b4bb6b",
       "LastCommitAt": "2021-08-18T08:36:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -449,60 +449,6 @@
       }
    },
    {
-      "Number": 7018,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-24T01:26:11Z",
-      "Recipe": "lcms",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7018",
-      "LastCommitSHA": "bda0d93ca46fa296e2c1ce68a7a8c77408b93b2c",
-      "LastCommitAt": "2021-08-24T12:27:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "jgsogo",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-08-25T08:50:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7018#pullrequestreview-738080620"
-         }
-      }
-   },
-   {
-      "Number": 7019,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-24T03:40:30Z",
-      "Recipe": "libatomic_ops",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7019",
-      "LastCommitSHA": "d75fe0dfb068c1ca8504def907f7f6177efe3981",
-      "LastCommitAt": "2021-08-24T03:39:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "jgsogo",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-08-24T12:09:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7019#pullrequestreview-737145578"
-         }
-      }
-   },
-   {
       "Number": 7020,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-08-24T03:46:59Z",
@@ -651,7 +597,7 @@
       "LastCommitAt": "2021-08-24T16:33:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 6,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -660,9 +606,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-08-25T09:12:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7032#pullrequestreview-737892971"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-25T12:18:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7032#pullrequestreview-738276240"
          }
       }
    },
@@ -675,7 +621,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7034",
       "LastCommitSHA": "357e409842dda5490416079b78f21687445fc883",
       "LastCommitAt": "2021-08-24T17:02:00Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 4,
@@ -772,6 +718,24 @@
             "SubmittedAt": "2021-08-25T09:29:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7042#pullrequestreview-738119416"
          }
+      }
+   },
+   {
+      "Number": 7045,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-25T11:36:20Z",
+      "Recipe": "giflib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7045",
+      "LastCommitSHA": "2f21116746144418d537fcee56137c8b0bc81cfb",
+      "LastCommitAt": "2021-08-25T11:42:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
