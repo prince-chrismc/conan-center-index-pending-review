@@ -17,7 +17,7 @@ func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.Co
 				{Value: float64(most - opd[t]), Style: chart.Style{FillColor: chart.ColorWhite.WithAlpha(0), StrokeColor: chart.ColorWhite.WithAlpha(0)}},
 				{Value: float64(opd[t] - cxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("3fb950"), StrokeColor: chart.ColorWhite.WithAlpha(0)}},
 				{Value: float64(cxd[t] - mxd[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("f85149"), StrokeColor: chart.ColorWhite.WithAlpha(0)}},
-				{Value: float64(mxd[t] - m7xw[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("b588f9"), StrokeColor: chart.ColorWhite.WithAlpha(0)}},
+				{Value: float64(mxd[t] - m7xw[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("a371f7"), StrokeColor: chart.ColorWhite.WithAlpha(0)}},
 				{Value: float64(m7xw[t]), Style: chart.Style{FillColor: drawing.ColorFromHex("865ec9"), StrokeColor: chart.ColorWhite.WithAlpha(0)}},
 			},
 		})
