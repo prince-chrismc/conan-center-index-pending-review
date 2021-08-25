@@ -1,5 +1,23 @@
 [
    {
+      "Number": 5684,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-05-28T21:50:38Z",
+      "Recipe": "libkml",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5684",
+      "LastCommitSHA": "d77d29a5623170e3c0d0408a6158bb881050baa2",
+      "LastCommitAt": "2021-08-24T21:28:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 5768,
       "OpenedBy": "Flow-It",
       "CreatedAt": "2021-06-05T11:59:10Z",
@@ -362,7 +380,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6988",
       "LastCommitSHA": "b0c4e626e28b6566f2725086d0f93e40a079beab",
       "LastCommitAt": "2021-08-24T22:27:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
@@ -375,34 +393,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2021-08-24T22:38:44Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6988#pullrequestreview-737750328"
-         }
-      }
-   },
-   {
-      "Number": 6992,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-23T21:51:34Z",
-      "Recipe": "libconfuse",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6992",
-      "LastCommitSHA": "e5b4dd5e201d255cc187b48f7ed376dd79253516",
-      "LastCommitAt": "2021-08-23T21:51:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "SSE4",
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-24T16:18:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6992#pullrequestreview-737433341"
          }
       }
    },
@@ -530,7 +520,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7000",
       "LastCommitSHA": "911d4fc428e6b1c597d5fa7f18c3e551096a9842",
       "LastCommitAt": "2021-08-24T22:25:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 1,
@@ -1128,6 +1118,31 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7039",
       "LastCommitSHA": "e081fc0ba3898aa8d37e451400518f791ae5f88f",
       "LastCommitAt": "2021-08-24T22:28:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-24T23:21:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7039#pullrequestreview-737769695"
+         }
+      }
+   },
+   {
+      "Number": 7041,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-08-25T00:13:30Z",
+      "Recipe": "bison",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7041",
+      "LastCommitSHA": "5ab25dd327b355680dfb5d4b29d016802e501ab5",
+      "LastCommitAt": "2021-08-25T00:12:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
