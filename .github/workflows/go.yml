@@ -31,8 +31,8 @@ jobs:
         with:
           files: coverage.out
 
-      - run: go run ./cmd/cpr -d -t ${{ secrets.GITHUB_TOKEN }}
-      - run: go run ./cmd/tir -d -t ${{ secrets.GITHUB_TOKEN }}
+      - run: go run ./cmd/cpr -d -t ${{ secrets.REPO_PAT }}
+      - run: go run ./cmd/tir -d -t ${{ secrets.REPO_PAT }}
 
   run:
     runs-on: ubuntu-latest
@@ -50,6 +50,6 @@ jobs:
       - run: go get -v -t -d ./...
 
       - if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 0 * * *' }}
-        run: go run ./cmd/tir -t ${{ secrets.GITHUB_TOKEN }}
+        run: go run ./cmd/tir -t ${{ secrets.REPO_PAT }}
 
-      - run: go run ./cmd/cpr -t ${{ secrets.GITHUB_TOKEN }}
+      - run: go run ./cmd/cpr -t ${{ secrets.REPO_PAT }}
