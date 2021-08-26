@@ -158,21 +158,21 @@
       "Recipe": "rectpack2d",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6944",
-      "LastCommitSHA": "bc9a14d935339e23f156afca1ad4dbeafb70d355",
-      "LastCommitAt": "2021-08-22T15:38:02Z",
+      "LastCommitSHA": "9c09dac17304af587c25487bced34e8af9f507e5",
+      "LastCommitAt": "2021-08-26T21:40:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 11,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "prince-chrismc"
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-26T21:07:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6944#pullrequestreview-739937873"
+            "SubmittedAt": "2021-08-26T21:56:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6944#pullrequestreview-739969890"
          }
       }
    },
@@ -218,24 +218,6 @@
             "SubmittedAt": "2021-08-26T14:13:39Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7009#pullrequestreview-739532941"
          }
-      }
-   },
-   {
-      "Number": 7059,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-26T12:45:58Z",
-      "Recipe": "spirv-cross",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7059",
-      "LastCommitSHA": "013fd88a1465ab7af8757ac4845d69eb799fd8c8",
-      "LastCommitAt": "2021-08-26T12:42:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
