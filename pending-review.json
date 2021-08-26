@@ -68,32 +68,6 @@
       }
    },
    {
-      "Number": 6387,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-07-17T14:42:56Z",
-      "Recipe": "sdl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6387",
-      "LastCommitSHA": "443d66f8884c1113bc009508766adec4b51527ec",
-      "LastCommitAt": "2021-08-21T10:12:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 20,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-25T13:39:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6387#pullrequestreview-738367390"
-         }
-      }
-   },
-   {
       "Number": 6796,
       "OpenedBy": "FusionBolt",
       "CreatedAt": "2021-08-10T08:27:59Z",
@@ -176,8 +150,8 @@
       "Recipe": "libtommath",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6998",
-      "LastCommitSHA": "0b0c29a3dd9649ae4ea1861d1ac987031b9744ae",
-      "LastCommitAt": "2021-08-24T11:37:31Z",
+      "LastCommitSHA": "1c9a6a481ed0281e8e0589af1a9421112cee50c8",
+      "LastCommitAt": "2021-08-26T16:58:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -210,31 +184,6 @@
             "ReviewerName": "jgsogo",
             "SubmittedAt": "2021-08-26T14:13:39Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7009#pullrequestreview-739532941"
-         }
-      }
-   },
-   {
-      "Number": 7014,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-24T01:04:11Z",
-      "Recipe": "libfdk_aac",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7014",
-      "LastCommitSHA": "3d5c4abde8fce064301906a894707df9212bffb9",
-      "LastCommitAt": "2021-08-24T13:04:05Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-08-25T09:06:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7014#pullrequestreview-738097068"
          }
       }
    },
