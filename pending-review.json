@@ -129,18 +129,19 @@
       "LastCommitAt": "2021-08-18T08:36:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-25T13:40:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6907#pullrequestreview-738368718"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-08-26T08:04:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6907#pullrequestreview-739162246"
          }
       }
    },
@@ -260,60 +261,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2021-08-25T09:06:53Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7014#pullrequestreview-738097068"
-         }
-      }
-   },
-   {
-      "Number": 7042,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-25T01:09:09Z",
-      "Recipe": "automake",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7042",
-      "LastCommitSHA": "7bf1d674864889b8637df3ff7011c4dfc50d4946",
-      "LastCommitAt": "2021-08-25T01:07:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-25T20:32:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7042#pullrequestreview-738802568"
-         }
-      }
-   },
-   {
-      "Number": 7045,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-08-25T11:36:20Z",
-      "Recipe": "giflib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7045",
-      "LastCommitSHA": "2f21116746144418d537fcee56137c8b0bc81cfb",
-      "LastCommitAt": "2021-08-25T11:42:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-25T20:33:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7045#pullrequestreview-738803274"
          }
       }
    },
