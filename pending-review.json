@@ -198,17 +198,18 @@
       "LastCommitAt": "2021-08-24T00:17:46Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 9,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-25T13:13:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7009#pullrequestreview-738336036"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-08-26T14:13:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7009#pullrequestreview-739532941"
          }
       }
    },
@@ -256,34 +257,6 @@
       }
    },
    {
-      "Number": 7060,
-      "OpenedBy": "andioz",
-      "CreatedAt": "2021-08-26T12:57:48Z",
-      "Recipe": "ghc-filesystem",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7060",
-      "LastCommitSHA": "2daa94d3527d9be5d7587302c6ece520338ff243",
-      "LastCommitAt": "2021-08-26T12:56:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4",
-            "Croydon",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-26T14:09:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7060#pullrequestreview-739527983"
-         }
-      }
-   },
-   {
       "Number": 7061,
       "OpenedBy": "andioz",
       "CreatedAt": "2021-08-26T13:05:06Z",
@@ -294,17 +267,18 @@
       "LastCommitAt": "2021-08-26T13:03:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-26T14:10:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7061#pullrequestreview-739528518"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-26T14:23:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7061#pullrequestreview-739545734"
          }
       }
    },
@@ -315,8 +289,8 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7063",
-      "LastCommitSHA": "b51cca29a8d8ef6f5a43cec384df790c3d896ce2",
-      "LastCommitAt": "2021-08-26T13:23:58Z",
+      "LastCommitSHA": "f49db5149fb3ab3b2b2baeb1dd75219c7111abb7",
+      "LastCommitAt": "2021-08-26T14:50:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -337,11 +311,18 @@
       "LastCommitAt": "2021-08-26T13:31:06Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-26T14:21:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7064#pullrequestreview-739542570"
+         }
       }
    },
    {
@@ -355,11 +336,18 @@
       "LastCommitAt": "2021-08-26T13:36:49Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-26T14:21:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7065#pullrequestreview-739542886"
+         }
       }
    }
 ]
