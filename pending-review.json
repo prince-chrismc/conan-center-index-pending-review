@@ -187,13 +187,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6998",
       "LastCommitSHA": "1c9a6a481ed0281e8e0589af1a9421112cee50c8",
       "LastCommitAt": "2021-08-26T16:58:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-27T07:25:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6998#pullrequestreview-740218379"
+         }
       }
    },
    {
@@ -231,13 +238,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7059",
       "LastCommitSHA": "013fd88a1465ab7af8757ac4845d69eb799fd8c8",
       "LastCommitAt": "2021-08-26T12:42:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-08-27T08:13:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7059#pullrequestreview-740255160"
+         }
       }
    },
    {
