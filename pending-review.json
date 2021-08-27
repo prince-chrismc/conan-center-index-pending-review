@@ -1,32 +1,5 @@
 [
    {
-      "Number": 5684,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-05-28T21:50:38Z",
-      "Recipe": "libkml",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5684",
-      "LastCommitSHA": "d77d29a5623170e3c0d0408a6158bb881050baa2",
-      "LastCommitAt": "2021-08-24T21:28:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jgsogo",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-27T13:09:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5684#pullrequestreview-740503710"
-         }
-      }
-   },
-   {
       "Number": 5768,
       "OpenedBy": "Flow-It",
       "CreatedAt": "2021-06-05T11:59:10Z",
@@ -180,33 +153,6 @@
       }
    },
    {
-      "Number": 7009,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-24T00:19:02Z",
-      "Recipe": "libsodium",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7009",
-      "LastCommitSHA": "c38734aaf1ba122a21a8b8945aa202d1db0255c9",
-      "LastCommitAt": "2021-08-24T00:17:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "jgsogo",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-27T13:12:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7009#pullrequestreview-740506844"
-         }
-      }
-   },
-   {
       "Number": 7049,
       "OpenedBy": "garethsb",
       "CreatedAt": "2021-08-25T14:18:06Z",
@@ -294,18 +240,19 @@
       "LastCommitAt": "2021-08-27T09:41:16Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "ericLemanissier",
-            "prince-chrismc"
+            "prince-chrismc",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-27T13:15:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7073#pullrequestreview-740509592"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-08-27T13:42:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7073#pullrequestreview-740536530"
          }
       }
    },
@@ -377,6 +324,42 @@
             "SubmittedAt": "2021-08-27T13:16:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7078#pullrequestreview-740510092"
          }
+      }
+   },
+   {
+      "Number": 7081,
+      "OpenedBy": "uselessgoddess",
+      "CreatedAt": "2021-08-27T13:57:35Z",
+      "Recipe": "platform.exceptions",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7081",
+      "LastCommitSHA": "afcc961a4ef07eeb0933f720ebcd530e30e8d23e",
+      "LastCommitAt": "2021-08-27T13:50:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7082,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-08-27T14:03:49Z",
+      "Recipe": "libvpx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7082",
+      "LastCommitSHA": "f4cd0b5f8c818a3896d102b57eb73faa473afe50",
+      "LastCommitAt": "2021-08-27T14:01:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
