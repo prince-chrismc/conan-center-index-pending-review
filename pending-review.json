@@ -180,61 +180,6 @@
       }
    },
    {
-      "Number": 7073,
-      "OpenedBy": "dBagrat",
-      "CreatedAt": "2021-08-27T09:52:31Z",
-      "Recipe": "imgui",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7073",
-      "LastCommitSHA": "740f4bbfada86bf8b2ccce4dc52616588345ea33",
-      "LastCommitAt": "2021-08-27T09:41:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "prince-chrismc",
-            "SpaceIm",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-27T14:52:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7073#pullrequestreview-740609715"
-         }
-      }
-   },
-   {
-      "Number": 7074,
-      "OpenedBy": "i-vovk",
-      "CreatedAt": "2021-08-27T09:55:12Z",
-      "Recipe": "tcsbank-uri-template",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7074",
-      "LastCommitSHA": "8d3a8490d133e4550432e215691ce71b7cebbc10",
-      "LastCommitAt": "2021-08-27T09:53:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-08-27T14:52:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7074#pullrequestreview-740610075"
-         }
-      }
-   },
-   {
       "Number": 7078,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-27T12:09:17Z",
