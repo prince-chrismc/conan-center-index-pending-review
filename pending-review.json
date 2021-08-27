@@ -329,5 +329,55 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7065#pullrequestreview-739897094"
          }
       }
+   },
+   {
+      "Number": 7073,
+      "OpenedBy": "dBagrat",
+      "CreatedAt": "2021-08-27T09:52:31Z",
+      "Recipe": "imgui",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7073",
+      "LastCommitSHA": "740f4bbfada86bf8b2ccce4dc52616588345ea33",
+      "LastCommitAt": "2021-08-27T09:41:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-08-27T09:57:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7073#pullrequestreview-740349213"
+         }
+      }
+   },
+   {
+      "Number": 7074,
+      "OpenedBy": "i-vovk",
+      "CreatedAt": "2021-08-27T09:55:12Z",
+      "Recipe": "tcsbank-uri-template",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7074",
+      "LastCommitSHA": "8d3a8490d133e4550432e215691ce71b7cebbc10",
+      "LastCommitAt": "2021-08-27T09:53:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-08-27T09:57:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7074#pullrequestreview-740348946"
+         }
+      }
    }
 ]
