@@ -231,5 +231,41 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7081#pullrequestreview-740726927"
          }
       }
+   },
+   {
+      "Number": 7084,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-08-27T19:48:59Z",
+      "Recipe": "zlib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7084",
+      "LastCommitSHA": "68d69eca600dabf112370c431cd9e259895fa65c",
+      "LastCommitAt": "2021-08-27T19:47:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7085,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-08-27T19:57:14Z",
+      "Recipe": "libxcrypt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7085",
+      "LastCommitSHA": "1ffdf0863c532a0d2c085d5921508ae620303b9f",
+      "LastCommitAt": "2021-08-27T19:56:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
