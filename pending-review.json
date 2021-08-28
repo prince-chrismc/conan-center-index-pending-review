@@ -10,7 +10,7 @@
       "LastCommitAt": "2021-08-28T06:38:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -18,9 +18,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-28T12:24:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5768#pullrequestreview-741021945"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-08-28T21:23:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5768#pullrequestreview-741057193"
          }
       }
    },
@@ -376,33 +376,6 @@
       }
    },
    {
-      "Number": 7091,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-08-28T03:26:17Z",
-      "Recipe": "cpp-httplib",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7091",
-      "LastCommitSHA": "96864f0446558f1fcd560ad393207313faf79f0d",
-      "LastCommitAt": "2021-08-28T00:44:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo",
-            "intelligide",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-28T20:57:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7091#pullrequestreview-741056207"
-         }
-      }
-   },
-   {
       "Number": 7093,
       "OpenedBy": "vbieleny",
       "CreatedAt": "2021-08-28T09:10:40Z",
@@ -426,24 +399,6 @@
             "SubmittedAt": "2021-08-28T20:58:10Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7093#pullrequestreview-741056259"
          }
-      }
-   },
-   {
-      "Number": 7098,
-      "OpenedBy": "daravi",
-      "CreatedAt": "2021-08-28T19:30:20Z",
-      "Recipe": "libalsa",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7098",
-      "LastCommitSHA": "93137cdb3d9717ecddb56942eedceb3e02019882",
-      "LastCommitAt": "2021-08-28T19:27:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
