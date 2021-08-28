@@ -297,6 +297,24 @@
       }
    },
    {
+      "Number": 7053,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-08-26T09:39:38Z",
+      "Recipe": "backward-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7053",
+      "LastCommitSHA": "f3bce82122abc775968f0a4b850dc9eb35719acb",
+      "LastCommitAt": "2021-08-28T11:17:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7064,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-08-26T13:27:35Z",
