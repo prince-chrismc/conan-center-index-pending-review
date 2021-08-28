@@ -451,5 +451,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7093#pullrequestreview-741025473"
          }
       }
+   },
+   {
+      "Number": 7098,
+      "OpenedBy": "daravi",
+      "CreatedAt": "2021-08-28T19:30:20Z",
+      "Recipe": "libalsa",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7098",
+      "LastCommitSHA": "93137cdb3d9717ecddb56942eedceb3e02019882",
+      "LastCommitAt": "2021-08-28T19:27:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
