@@ -102,6 +102,10 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		return p, resp, nil // let's save it! So it can get some attention
 	}
 
+	if p.Change == DOCS { // Always save documentation pull requests
+		return p, resp, nil
+	}
+
 	status, _, err := s.client.Repository.GetCommitStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
 	if errors.Is(err, ErrNoCommitStatus) {
 		p.CciBotPassed = false
@@ -111,8 +115,12 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		p.CciBotPassed = status.GetState() == "success"
 	}
 
-	if len(p.Summary.Approvals) > 0 || p.Change == DOCS { // Always save documentation pull requests
+	if len(p.Summary.Approvals) > 0 { // It's been approved!
 		return p, resp, nil
+	}
+
+	if p.LastCommitAt.After(p.Summary.LastReview.SubmittedAt) { // OP has presumably applied review comments
+		return p, resp, nil // Let's save it so it gets another pass
 	}
 
 	return nil, resp, fmt.Errorf("%w", ErrNoReviews)

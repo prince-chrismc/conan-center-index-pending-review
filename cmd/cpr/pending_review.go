@@ -102,7 +102,7 @@ func PendingReview(token string, dryRun bool) error {
 ### :ballot_box_with_check: Selection Criteria:
 
 - There has been at least one approval on the head commit
-- No reviews and last committed within the  previous 24 hours
+- The last commit occured after any reviews
 - No labels with exception to "bump version" and "docs"
 
 #### Legend
