@@ -137,18 +137,19 @@
       "LastCommitAt": "2021-08-27T15:33:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 16,
-         "ValidApprovals": 2,
+         "Count": 17,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "jgsogo"
+            "jgsogo",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-27T17:13:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7049#pullrequestreview-740733860"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-08-28T02:21:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7049#pullrequestreview-740969212"
          }
       }
    },
@@ -177,6 +178,24 @@
             "SubmittedAt": "2021-08-27T14:55:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7063#pullrequestreview-740613185"
          }
+      }
+   },
+   {
+      "Number": 7070,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-08-26T20:21:52Z",
+      "Recipe": "google-cloud-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7070",
+      "LastCommitSHA": "a2fb7ab7e404e4477f27e5c9124494544ad78f29",
+      "LastCommitAt": "2021-08-27T17:05:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
