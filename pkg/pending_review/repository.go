@@ -4,6 +4,8 @@ import (
 	"context"
 	"errors"
 	"time"
+
+	"github.com/google/go-github/v38/github"
 )
 
 // RepositoryService handles communication with the repository related methods of the GitHub API
@@ -40,7 +42,7 @@ func (s *RepositoryService) GetSummary(ctx context.Context, owner string, repo s
 
 // GetCommitDate fetches the specified commit's authorship date
 func (s *RepositoryService) GetCommitDate(ctx context.Context, owner string, repo string, sha string) (time.Time, *Response, error) {
-	commit, resp, err := s.client.Repositories.GetCommit(ctx, owner, repo, sha)
+	commit, resp, err := s.client.Repositories.GetCommit(ctx, owner, repo, sha, &github.ListOptions{})
 	if err != nil {
 		return time.Time{}, resp, err
 	}

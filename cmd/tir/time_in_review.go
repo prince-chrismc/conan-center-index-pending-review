@@ -7,15 +7,14 @@ import (
 	"os"
 	"time"
 
-	"github.com/google/go-github/v34/github"
+	"github.com/google/go-github/v38/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/charts"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"github.com/wcharczuk/go-chart/v2"
 	"golang.org/x/oauth2"
 )
-
-type timeInReview map[time.Time]time.Duration
-type closedPerDay map[time.Time]int
 
 // TimeInReview analysis of merged pull requests
 func TimeInReview(token string, dryRun bool) error {
@@ -38,8 +37,9 @@ func TimeInReview(token string, dryRun bool) error {
 
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
-	tir := make(timeInReview)
-	cpd := make(closedPerDay)
+	tir := make(stats.DurationAtTime) // Time in review
+	mpd := make(stats.CountAtTime)    // Merged Per Day
+
 	opt := &github.PullRequestListOptions{
 		Sort:  "created",
 		State: "closed",
@@ -63,17 +63,17 @@ func TimeInReview(token string, dryRun bool) error {
 				continue
 			}
 
+			// These typically take little to no time and are sometimes forces through
+			// https://github.com/conan-io/conan-center-index/pulls?q=is%3Apr+is%3Amerged+label%3ADocs
+			if len(pull.Labels) > 0 && pull.Labels[0].GetName() == "Docs" {
+				continue
+			}
+
 			merged := pull.GetMergedAt() != time.Time{} // `merged` is not returned when paging through the API - so calculate it
 			if merged {
 				fmt.Printf("#%4d was closed at %s and merged at %s\n", pull.GetNumber(), pull.GetClosedAt().String(), pull.GetMergedAt().String())
 				tir[pull.GetMergedAt()] = pull.GetMergedAt().Sub(pull.GetCreatedAt())
-				mergedOn := pull.GetMergedAt().Truncate(time.Hour * 24)
-				currentCounter, found := cpd[mergedOn]
-				if found {
-					cpd[mergedOn] = currentCounter + 1
-				} else {
-					cpd[mergedOn] = 1
-				}
+				mpd.Count(pull.GetMergedAt().Truncate(time.Hour * 24))
 			}
 		}
 
@@ -85,12 +85,14 @@ func TimeInReview(token string, dryRun bool) error {
 
 	fmt.Println("::endgroup")
 
-	graph := makeChart(tir, cpd)
+	fmt.Println("::group::🖊️ Rendering data and saving results!")
+
+	lineGraph := charts.MakeLineChart(tir, mpd)
 
 	if dryRun {
 		f, _ := os.Create("tir.png")
 		defer f.Close()
-		graph.Render(chart.PNG, f)
+		lineGraph.Render(chart.PNG, f)
 
 		return nil
 	}
@@ -101,19 +103,22 @@ func TimeInReview(token string, dryRun bool) error {
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateJSONFile(context, client, "closed-per-day.json", cpd)
+	_, err = internal.UpdateJSONFile(context, client, "closed-per-day.json", mpd) // Legacy file name
 	if err != nil {
-		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err)
+		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err) // Legacy file name
 		os.Exit(1)
 	}
+
 	var b bytes.Buffer
-	graph.Render(chart.PNG, &b)
+	lineGraph.Render(chart.PNG, &b)
 
 	_, err = internal.UpdateDataFile(context, client, "time-in-review.png", b.Bytes())
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "time-in-review.png", err)
 		os.Exit(1)
 	}
+
+	fmt.Println("::endgroup")
 
 	return nil
 }

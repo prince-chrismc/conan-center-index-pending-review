@@ -12,12 +12,12 @@ func TestDurationString(t *testing.T) {
 
 	assert.Equal(t, String(time), "1.50 minutes")
 
-	time += hour * 5
+	time += HOUR * 5
 	assert.Equal(t, String(time), "5 hours, and 1.50 minutes")
 
-	time += day * 27
+	time += DAY * 27
 	assert.Equal(t, String(time), "27 days, 5 hours, and 1.50 minutes")
 
-	time += year * 2
+	time += YEAR * 2
 	assert.Equal(t, String(time), "2 years, 27 days, 5 hours, and 1.50 minutes")
 }

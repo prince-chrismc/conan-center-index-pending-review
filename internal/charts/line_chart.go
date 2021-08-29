@@ -1,15 +1,16 @@
-package main
+package charts
 
 import (
 	"fmt"
 	"sort"
 	"time"
 
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/wcharczuk/go-chart/v2"
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
-func inReviewKeys(d timeInReview) []time.Time {
+func inReviewKeys(d stats.DurationAtTime) []time.Time {
 	v := make([]time.Time, len(d))
 	idx := 0
 	for time := range d {
@@ -24,7 +25,7 @@ func inReviewKeys(d timeInReview) []time.Time {
 	return v
 }
 
-func inReviewDurationValues(d timeInReview, sorted []time.Time) []float64 {
+func inReviewDurationValues(d stats.DurationAtTime, sorted []time.Time) []float64 {
 	v := make([]float64, len(d))
 	idx := 0
 	for _, value := range sorted {
@@ -34,22 +35,7 @@ func inReviewDurationValues(d timeInReview, sorted []time.Time) []float64 {
 	return v
 }
 
-func closedKeys(d closedPerDay) []time.Time {
-	v := make([]time.Time, len(d))
-	idx := 0
-	for time := range d {
-		v[idx] = time
-		idx++
-	}
-
-	sort.SliceStable(v, func(i, j int) bool {
-		return v[i].Before(v[j])
-	})
-
-	return v
-}
-
-func closedCountValues(d closedPerDay, sorted []time.Time) []float64 {
+func closedCountValues(d stats.CountAtTime, sorted []time.Time) []float64 {
 	v := make([]float64, len(d))
 	idx := 0
 	for _, value := range sorted {
@@ -59,7 +45,7 @@ func closedCountValues(d closedPerDay, sorted []time.Time) []float64 {
 	return v
 }
 
-func makeChart(tir timeInReview, cpd closedPerDay) chart.Chart {
+func MakeLineChart(tir stats.DurationAtTime, cpd stats.CountAtTime) chart.Chart {
 	sortedData := inReviewKeys(tir)
 	mainSeries := chart.TimeSeries{
 		Name: "Time in review",
@@ -80,7 +66,7 @@ func makeChart(tir timeInReview, cpd closedPerDay) chart.Chart {
 		Period:      75,
 	}
 
-	sortedTime := closedKeys(cpd)
+	sortedTime := cpd.Keys()
 	secondSeries := chart.TimeSeries{
 		Name: "Closed per day",
 		Style: chart.Style{

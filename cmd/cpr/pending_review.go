@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/google/go-github/v34/github"
+	"github.com/google/go-github/v38/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/format"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
@@ -121,9 +121,21 @@ func PendingReview(token string, dryRun bool) error {
 		
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
 
-## :hourglass: Time Spent in Review
+## :bar_chart: Open Versus Merged
 
 > :firecracker: This a _new_ feature! I would really :sparkling_heart: appreciate :heartbeat: any feedback, suggestions, or comments in #11
+
+#### Legend
+
+:green_square: - Open pull requests
+:red_square: - Closed pull requests
+:purple_square: - Merged pull requests <sup>[1]</sup>
+
+![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.png?raw=true)
+
+<sup>[1]</sup>: the darker bottom section indicated merged within 7 days of being opened
+
+## :hourglass: Time Spent in Review
 
 ![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
 `

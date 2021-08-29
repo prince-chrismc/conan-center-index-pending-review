@@ -9,14 +9,14 @@ import (
 
 func main() {
 	app := &cli.App{
-		Name:  "conan-center-index-time-in-review",
-		Usage: "create a comprehensive list of all the open pull requests under review and how far along they are",
+		Name:  "conan-center-index-open-versus-merged",
+		Usage: "create a graph displaying the trend of open, merged and closed pull requests",
 		Flags: app.DefaultFlags(),
 		Action: func(c *cli.Context) error {
 			dryRun := c.Bool("dry-run")
 			token := c.String("access-token")
 
-			return TimeInReview(token, dryRun)
+			return OpenVersusMerged(token, dryRun)
 		},
 	}
 
