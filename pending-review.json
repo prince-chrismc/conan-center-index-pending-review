@@ -10,7 +10,7 @@
       "LastCommitAt": "2021-08-28T06:38:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 7,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -18,9 +18,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-28T21:23:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5768#pullrequestreview-741057193"
+            "ReviewerName": "Flow-It",
+            "SubmittedAt": "2021-08-29T08:59:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5768#pullrequestreview-741090972"
          }
       }
    },
