@@ -1,4 +1,4 @@
-package main
+package charts
 
 import (
 	"fmt"
@@ -10,7 +10,7 @@ import (
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
-func inReviewKeys(d timeInReview) []time.Time {
+func inReviewKeys(d stats.DurationAtTime) []time.Time {
 	v := make([]time.Time, len(d))
 	idx := 0
 	for time := range d {
@@ -25,7 +25,7 @@ func inReviewKeys(d timeInReview) []time.Time {
 	return v
 }
 
-func inReviewDurationValues(d timeInReview, sorted []time.Time) []float64 {
+func inReviewDurationValues(d stats.DurationAtTime, sorted []time.Time) []float64 {
 	v := make([]float64, len(d))
 	idx := 0
 	for _, value := range sorted {
@@ -45,7 +45,7 @@ func closedCountValues(d stats.CountAtTime, sorted []time.Time) []float64 {
 	return v
 }
 
-func makeLineChart(tir timeInReview, cpd stats.CountAtTime) chart.Chart {
+func MakeLineChart(tir stats.DurationAtTime, cpd stats.CountAtTime) chart.Chart {
 	sortedData := inReviewKeys(tir)
 	mainSeries := chart.TimeSeries{
 		Name: "Time in review",

@@ -1,12 +1,14 @@
 package main
 
 import (
+	"bytes"
 	"context"
 	"fmt"
 	"os"
 	"time"
 
 	"github.com/google/go-github/v38/github"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/charts"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
@@ -47,6 +49,8 @@ func OpenVersusMerged(token string, dryRun bool) error {
 
 	fmt.Println("::endgroup")
 
+	fmt.Println("::group::🖊️ Rendering data and saving results!")
+
 	barGraph := charts.MakeStackedChart(opw, cxw, mxw, m7xw)
 
 	if dryRun {
@@ -56,6 +60,17 @@ func OpenVersusMerged(token string, dryRun bool) error {
 
 		return nil
 	}
+
+	var b bytes.Buffer
+	barGraph.Render(chart.PNG, &b)
+
+	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b.Bytes())
+	if err != nil {
+		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.png", err)
+		os.Exit(1)
+	}
+
+	fmt.Println("::endgroup")
 
 	return nil
 }
