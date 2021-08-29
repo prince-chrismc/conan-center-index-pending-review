@@ -6,6 +6,8 @@ import (
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
+const y_axis_padding = 125
+
 func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.CountAtTime, m7xw stats.CountAtTime) chart.StackedBarChart {
 	most := opd.Values()[0]
 	bars := []chart.StackedBar{}
@@ -26,15 +28,23 @@ func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.Co
 	return chart.StackedBarChart{
 		Title: "Open versus merged pull requests",
 		TitleStyle: chart.Style{
-			FontSize:          50,
+			FontSize:          60,
 			FontColor:         drawing.ColorFromHex("58a6ff"),
 			TextVerticalAlign: chart.TextVerticalAlignTop,
+		},
+		XAxis: chart.Style{
+			FontSize:  7,
+			FontColor: drawing.ColorFromHex("58a6ff"),
+		},
+		YAxis: chart.Style{
+			FontSize:  25,
+			FontColor: drawing.ColorFromHex("58a6ff"),
 		},
 		Canvas:     chart.Style{FillColor: chart.ColorWhite.WithAlpha(0)},
 		Background: chart.Style{Padding: chart.Box{Top: 125}},
 		Bars:       bars,
 		BarSpacing: 25,
 		Height:     2048,
-		Width:      len(bars)*75 + 40,
+		Width:      len(bars)*75 + y_axis_padding,
 	}
 }
