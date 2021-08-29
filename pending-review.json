@@ -6,16 +6,14 @@
       "Recipe": "libbpf",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5768",
-      "LastCommitSHA": "4dd3cf9b807069e6ac22a80227a65899a2e02dbf",
-      "LastCommitAt": "2021-08-28T06:38:35Z",
+      "LastCommitSHA": "2280532d7d054b1024409701e3d0162058e7eba7",
+      "LastCommitAt": "2021-08-29T13:15:07Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 10,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
@@ -496,6 +494,24 @@
             "SubmittedAt": "2021-08-29T10:30:26Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7102#pullrequestreview-741098654"
          }
+      }
+   },
+   {
+      "Number": 7105,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-08-29T13:51:11Z",
+      "Recipe": "libraw",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7105",
+      "LastCommitSHA": "ca5ec32e73a909dfbfe158640a472e376e3387bd",
+      "LastCommitAt": "2021-08-29T13:16:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
