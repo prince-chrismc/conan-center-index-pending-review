@@ -12,7 +12,7 @@ import (
 func Statistics(stats stats.Stats) string {
 	return `
 
-#### :bar_chart: Statistics
+#### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
