@@ -35,15 +35,17 @@
       "LastCommitAt": "2021-08-30T10:29:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 24,
-         "ValidApprovals": 0,
+         "Count": 25,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-29T15:00:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5998#pullrequestreview-741124335"
+            "SubmittedAt": "2021-08-30T15:11:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5998#pullrequestreview-741763176"
          }
       }
    },
@@ -306,15 +308,17 @@
       "LastCommitAt": "2021-08-30T14:06:07Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
+         "Count": 7,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-08-30T13:28:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7044#pullrequestreview-741648427"
+            "SubmittedAt": "2021-08-30T15:07:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7044#pullrequestreview-741759574"
          }
       }
    },
@@ -541,24 +545,6 @@
             "SubmittedAt": "2021-08-30T11:12:17Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7111#pullrequestreview-741532245"
          }
-      }
-   },
-   {
-      "Number": 7112,
-      "OpenedBy": "vbieleny",
-      "CreatedAt": "2021-08-30T08:56:31Z",
-      "Recipe": "rectanglebinpack",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7112",
-      "LastCommitSHA": "7d73337f73b13dc4014879fd97853f53baccff59",
-      "LastCommitAt": "2021-08-30T12:48:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
