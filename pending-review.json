@@ -33,7 +33,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6163",
       "LastCommitSHA": "556aafc3c46b3ced26c8dd9e608e997478cf06f3",
       "LastCommitAt": "2021-08-29T09:35:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 10,
          "ValidApprovals": 0,
@@ -370,34 +370,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-08-29T14:37:30Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7084#pullrequestreview-741122352"
-         }
-      }
-   },
-   {
-      "Number": 7101,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-08-28T23:54:07Z",
-      "Recipe": "restinio",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7101",
-      "LastCommitSHA": "d3648eff777e823e34bca93859a9f9e4dfdb754f",
-      "LastCommitAt": "2021-08-28T23:53:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "garethsb",
-            "madebr",
-            "SSE4",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-08-30T07:52:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7101#pullrequestreview-741371539"
          }
       }
    },
