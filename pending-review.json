@@ -195,31 +195,6 @@
       }
    },
    {
-      "Number": 6959,
-      "OpenedBy": "FMeinicke",
-      "CreatedAt": "2021-08-22T17:58:07Z",
-      "Recipe": "xerces-c",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6959",
-      "LastCommitSHA": "4fcae3b4dfe4231366bbe082aac11f5e85944334",
-      "LastCommitAt": "2021-08-30T11:50:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "jgsogo"
-         ],
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-08-30T11:32:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6959#pullrequestreview-741544933"
-         }
-      }
-   },
-   {
       "Number": 6993,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-08-23T22:16:09Z",
@@ -545,6 +520,24 @@
             "SubmittedAt": "2021-08-30T11:12:17Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7111#pullrequestreview-741532245"
          }
+      }
+   },
+   {
+      "Number": 7115,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-08-30T16:17:24Z",
+      "Recipe": "libvpx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7115",
+      "LastCommitSHA": "58e9677f9064d2481666a3484067dbefb2d62a86",
+      "LastCommitAt": "2021-08-30T16:16:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
