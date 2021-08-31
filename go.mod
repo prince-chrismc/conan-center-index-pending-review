@@ -4,7 +4,7 @@ go 1.15
 
 require (
 	github.com/go-git/go-git/v5 v5.4.2
-	github.com/google/go-github/v38 v38.0.0
+	github.com/google/go-github/v38 v38.1.0
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/wcharczuk/go-chart/v2 v2.1.0
