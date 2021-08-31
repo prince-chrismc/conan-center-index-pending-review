@@ -112,15 +112,17 @@
       "LastCommitAt": "2021-08-19T10:44:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
+         "Count": 6,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-08-19T10:21:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6781#pullrequestreview-733816744"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-08-31T00:07:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6781#pullrequestreview-742167651"
          }
       }
    },
@@ -297,6 +299,24 @@
             "SubmittedAt": "2021-08-30T19:43:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7071#pullrequestreview-742005220"
          }
+      }
+   },
+   {
+      "Number": 7079,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-08-27T12:48:39Z",
+      "Recipe": "coin-osi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7079",
+      "LastCommitSHA": "ecae66988763b675d606ca41caee13b47a362454",
+      "LastCommitAt": "2021-08-30T23:05:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
