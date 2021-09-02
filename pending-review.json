@@ -239,9 +239,9 @@
       "Recipe": "nmos-cpp",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6891",
-      "LastCommitSHA": "be6d1048a4fb1644e8b3a19795679fb5169bd2cd",
-      "LastCommitAt": "2021-09-02T07:04:28Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "0393f972eebed0e4ea8bcdf07588b0ea633be038",
+      "LastCommitAt": "2021-09-02T11:58:47Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 36,
          "ValidApprovals": 0,
