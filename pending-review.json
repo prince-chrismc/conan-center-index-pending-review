@@ -220,17 +220,41 @@
       "LastCommitAt": "2021-08-23T14:45:04Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "ihsandemir"
+            "ihsandemir",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ihsandemir",
-            "SubmittedAt": "2021-09-03T12:25:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6971#pullrequestreview-746048123"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-09-03T13:21:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6971#pullrequestreview-746100435"
+         }
+      }
+   },
+   {
+      "Number": 7112,
+      "OpenedBy": "vbieleny",
+      "CreatedAt": "2021-08-30T08:56:31Z",
+      "Recipe": "rectanglebinpack",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7112",
+      "LastCommitSHA": "3e73a4eafc52c5c0d1d89c8c75159e2a8a22756e",
+      "LastCommitAt": "2021-09-03T13:47:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 8,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "vbieleny",
+            "SubmittedAt": "2021-08-30T17:23:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7112#pullrequestreview-741888315"
          }
       }
    },
@@ -346,43 +370,19 @@
       "LastCommitAt": "2021-09-03T10:07:01Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "jgsogo",
-            "prince-chrismc"
+            "prince-chrismc",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-03T12:36:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7163#pullrequestreview-746057924"
-         }
-      }
-   },
-   {
-      "Number": 7164,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-09-03T11:46:51Z",
-      "Recipe": "vulkan-memory-allocator",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7164",
-      "LastCommitSHA": "b31614d8b302cd674977ed57287ce816b7e6dd8f",
-      "LastCommitAt": "2021-09-03T11:46:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-03T12:37:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7164#pullrequestreview-746058755"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-09-03T13:30:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7163#pullrequestreview-746109552"
          }
       }
    }
