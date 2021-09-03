@@ -296,5 +296,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7153#pullrequestreview-745617730"
          }
       }
+   },
+   {
+      "Number": 7161,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-09-03T09:08:50Z",
+      "Recipe": "aaf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7161",
+      "LastCommitSHA": "32d273dbf9b386c52f99ad1dbb599bbd432c132d",
+      "LastCommitAt": "2021-09-03T09:06:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
