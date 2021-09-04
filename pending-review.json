@@ -271,18 +271,19 @@
       "LastCommitAt": "2021-09-01T15:52:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "prince-chrismc"
+            "prince-chrismc",
+            "dmn-star"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-03T12:23:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7115#pullrequestreview-746046987"
+            "ReviewerName": "dmn-star",
+            "SubmittedAt": "2021-09-04T14:06:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7115#pullrequestreview-746572693"
          }
       }
    },
