@@ -184,31 +184,6 @@
       }
    },
    {
-      "Number": 6959,
-      "OpenedBy": "FMeinicke",
-      "CreatedAt": "2021-08-22T17:58:07Z",
-      "Recipe": "xerces-c",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6959",
-      "LastCommitSHA": "4e3f5066c77a98df7fa24e5c206eeb457f0817d0",
-      "LastCommitAt": "2021-09-04T08:56:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 19,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "jgsogo"
-         ],
-         "LastReview": {
-            "ReviewerName": "FMeinicke",
-            "SubmittedAt": "2021-09-04T08:55:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6959#pullrequestreview-746554672"
-         }
-      }
-   },
-   {
       "Number": 6971,
       "OpenedBy": "yemreinci",
       "CreatedAt": "2021-08-23T14:45:38Z",
