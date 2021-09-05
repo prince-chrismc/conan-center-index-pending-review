@@ -289,6 +289,29 @@
       }
    },
    {
+      "Number": 7152,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-09-02T13:00:53Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7152",
+      "LastCommitSHA": "fc5acbd4894e744fc230e2917a3b12a53161d851",
+      "LastCommitAt": "2021-09-05T11:52:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-09-03T15:18:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7152#pullrequestreview-746228865"
+         }
+      }
+   },
+   {
       "Number": 7153,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2021-09-02T15:27:15Z",
@@ -421,18 +444,14 @@
       "Recipe": "sfml",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7171",
-      "LastCommitSHA": "4e6c70c0c1575ecbd102f2a4180845de9e1365c0",
-      "LastCommitAt": "2021-09-04T17:32:56Z",
+      "LastCommitSHA": "13f002aca622e4fce3af73ddf9dcce300ae00791",
+      "LastCommitAt": "2021-09-05T12:16:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 9,
-         "ValidApprovals": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "szavadsky",
-            "madebr",
-            "intelligide"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "intelligide",
