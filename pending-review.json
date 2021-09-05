@@ -459,31 +459,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7169#pullrequestreview-746634276"
          }
       }
-   },
-   {
-      "Number": 7177,
-      "OpenedBy": "ngrodzitski",
-      "CreatedAt": "2021-09-05T15:11:00Z",
-      "Recipe": "so5extra",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7177",
-      "LastCommitSHA": "2b2823197aaa86475652b7b3b232b431dd22abfb",
-      "LastCommitAt": "2021-09-05T15:05:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-09-05T19:43:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7177#pullrequestreview-746678413"
-         }
-      }
    }
 ]
