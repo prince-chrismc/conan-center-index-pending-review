@@ -164,17 +164,18 @@
       "LastCommitAt": "2021-09-03T13:47:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 10,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 11,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-04T00:58:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7112#pullrequestreview-746525525"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-09-06T19:46:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7112#pullrequestreview-747405811"
          }
       }
    },
@@ -333,6 +334,42 @@
             "SubmittedAt": "2021-09-04T14:34:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7168#pullrequestreview-746574421"
          }
+      }
+   },
+   {
+      "Number": 7185,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-09-06T19:31:50Z",
+      "Recipe": "vulkan-headers",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7185",
+      "LastCommitSHA": "a99e31295689e979f9b6f5dab8fd0e513e462b5d",
+      "LastCommitAt": "2021-09-06T18:31:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7186,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-09-06T19:33:49Z",
+      "Recipe": "nfrechette-acl",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7186",
+      "LastCommitSHA": "78df1f487861599b27bb72d2659f5ebdc2db2326",
+      "LastCommitAt": "2021-09-06T19:32:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
