@@ -282,32 +282,6 @@
       }
    },
    {
-      "Number": 7162,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-09-03T10:07:25Z",
-      "Recipe": "coin-clp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7162",
-      "LastCommitSHA": "fb24c56cab166c6912fa2619ac6e02fa455ca5c4",
-      "LastCommitAt": "2021-09-03T11:18:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-06T03:31:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7162#pullrequestreview-746747145"
-         }
-      }
-   },
-   {
       "Number": 7166,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-09-03T16:03:36Z",
