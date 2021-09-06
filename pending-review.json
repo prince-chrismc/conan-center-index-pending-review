@@ -388,6 +388,24 @@
       }
    },
    {
+      "Number": 7180,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2021-09-06T11:49:52Z",
+      "Recipe": "mdnsresponder",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7180",
+      "LastCommitSHA": "beec49cd2f5c15a480962baf2460870c4b19fb9f",
+      "LastCommitAt": "2021-09-06T21:13:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7185,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-09-06T19:31:50Z",
