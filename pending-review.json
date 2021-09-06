@@ -462,5 +462,30 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7171#pullrequestreview-746876845"
          }
       }
+   },
+   {
+      "Number": 7179,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2021-09-06T09:35:54Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7179",
+      "LastCommitSHA": "a5b8f7cc8a8537598455be73fdb40781d6aa46ac",
+      "LastCommitAt": "2021-09-06T09:17:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-09-06T09:42:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7179#pullrequestreview-747033641"
+         }
+      }
    }
 ]
