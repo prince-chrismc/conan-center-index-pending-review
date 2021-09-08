@@ -560,6 +560,24 @@
       }
    },
    {
+      "Number": 7195,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-09-07T09:02:57Z",
+      "Recipe": "vulkan-validationlayers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7195",
+      "LastCommitSHA": "807398db7170a0e413e4632abe0f8c788f1fae82",
+      "LastCommitAt": "2021-09-07T12:08:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7198,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-09-07T13:45:30Z",
