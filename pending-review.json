@@ -233,8 +233,8 @@
       "Recipe": "magnum",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7095",
-      "LastCommitSHA": "2cef46b9e90e8b7ecab6625dcfc9cf7f9a63e32d",
-      "LastCommitAt": "2021-09-08T20:53:10Z",
+      "LastCommitSHA": "5b73cad630ee90fdebb95d6e4fa065c01e4bdc97",
+      "LastCommitAt": "2021-09-08T22:36:47Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 13,
@@ -670,8 +670,8 @@
       "Recipe": "nspr",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7212",
-      "LastCommitSHA": "3a9dd3e9e9e8e1917faa08916b5ca3cd9b96acc7",
-      "LastCommitAt": "2021-09-08T20:30:37Z",
+      "LastCommitSHA": "3b05267ce8a18bb1c6c27c7c364fea341faa244c",
+      "LastCommitAt": "2021-09-08T22:27:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -738,8 +738,8 @@
       "Recipe": "openssl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7219",
-      "LastCommitSHA": "dd7387cb5aeed43a105d7a9360a40ad81ee33c17",
-      "LastCommitAt": "2021-09-08T20:21:05Z",
+      "LastCommitSHA": "3b0bdabd16a2d9b8dccc317df52d0909f66a91c6",
+      "LastCommitAt": "2021-09-08T21:26:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
