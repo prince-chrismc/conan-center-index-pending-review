@@ -490,19 +490,20 @@
       "LastCommitAt": "2021-09-07T06:31:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
+         "Count": 4,
+         "ValidApprovals": 4,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
             "madebr",
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-07T15:42:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7192#pullrequestreview-748135275"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-09-08T04:31:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7192#pullrequestreview-748633213"
          }
       }
    },
@@ -517,19 +518,20 @@
       "LastCommitAt": "2021-09-07T06:26:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
+         "Count": 4,
+         "ValidApprovals": 4,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
             "madebr",
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-07T15:44:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7193#pullrequestreview-748136898"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-09-08T04:31:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7193#pullrequestreview-748633243"
          }
       }
    },
@@ -588,19 +590,20 @@
       "LastCommitAt": "2021-09-07T12:50:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "SpaceIm",
             "madebr",
-            "AndreyMlashkin"
+            "AndreyMlashkin",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2021-09-07T21:02:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7198#pullrequestreview-748417561"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-09-08T04:31:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7198#pullrequestreview-748633266"
          }
       }
    },
