@@ -743,5 +743,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7226,
+      "OpenedBy": "mjvankampen",
+      "CreatedAt": "2021-09-09T11:04:18Z",
+      "Recipe": "sentry-crashpad",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7226",
+      "LastCommitSHA": "c19cda5baf5be37ad13b646b5452d15e1d8e58f4",
+      "LastCommitAt": "2021-09-09T11:02:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7227,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-09-09T11:07:58Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7227",
+      "LastCommitSHA": "c8ce66d7d62cb2444dfaa1e55946034a72a615b3",
+      "LastCommitAt": "2021-09-09T11:07:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
