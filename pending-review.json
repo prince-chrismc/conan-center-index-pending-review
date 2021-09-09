@@ -336,6 +336,31 @@
       }
    },
    {
+      "Number": 7187,
+      "OpenedBy": "ericriff",
+      "CreatedAt": "2021-09-06T20:05:54Z",
+      "Recipe": "ruy",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7187",
+      "LastCommitSHA": "6620411c3842a904bf54795df4f3c2e6e3d90561",
+      "LastCommitAt": "2021-09-08T14:07:40Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 11,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-09-09T16:10:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7187#pullrequestreview-750556207"
+         }
+      }
+   },
+   {
       "Number": 7190,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-09-07T00:30:11Z",
@@ -686,13 +711,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7223",
       "LastCommitSHA": "413fdcce8dd4cd9b295ff9b5fe605c0339ef7d9d",
       "LastCommitAt": "2021-09-08T21:54:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-09-09T15:25:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7223#pullrequestreview-750503825"
+         }
       }
    },
    {
@@ -702,15 +734,20 @@
       "Recipe": "volk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7225",
-      "LastCommitSHA": "b1f838da7347d94794c84102e90a52ffeb5e2fd6",
-      "LastCommitAt": "2021-09-09T07:51:24Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "2c565c98f2868d4ca13c9a2b25e0e863474f2b73",
+      "LastCommitAt": "2021-09-09T15:29:22Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-09-09T15:22:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7225#pullrequestreview-750500589"
+         }
       }
    },
    {
