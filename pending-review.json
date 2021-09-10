@@ -361,33 +361,6 @@
       }
    },
    {
-      "Number": 7175,
-      "OpenedBy": "szavadsky",
-      "CreatedAt": "2021-09-05T00:36:48Z",
-      "Recipe": "wise_enum",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7175",
-      "LastCommitSHA": "ad206431f14bc5681ea5d4077513b8cc2a9ecb5f",
-      "LastCommitAt": "2021-09-09T23:42:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 16,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-10T06:05:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7175#pullrequestreview-751073483"
-         }
-      }
-   },
-   {
       "Number": 7195,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-09-07T09:02:57Z",
@@ -461,32 +434,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2021-09-08T20:31:34Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7201#pullrequestreview-749587214"
-         }
-      }
-   },
-   {
-      "Number": 7206,
-      "OpenedBy": "github-actions[bot]",
-      "CreatedAt": "2021-09-08T08:33:28Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7206",
-      "LastCommitSHA": "cdfcc0452e20b90b9175b83a5627c2704ddda116",
-      "LastCommitAt": "2021-09-09T13:03:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-10T06:05:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7206#pullrequestreview-751073106"
          }
       }
    },
