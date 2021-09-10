@@ -179,33 +179,6 @@
       }
    },
    {
-      "Number": 6929,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2021-08-19T12:32:42Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6929",
-      "LastCommitSHA": "8a5cd5a4ebfea91da01f9563022029ec967334fa",
-      "LastCommitAt": "2021-08-19T12:22:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "dmn-star"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "dmn-star",
-            "SubmittedAt": "2021-09-10T19:41:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6929#pullrequestreview-751740767"
-         }
-      }
-   },
-   {
       "Number": 6959,
       "OpenedBy": "FMeinicke",
       "CreatedAt": "2021-08-22T17:58:07Z",
@@ -741,17 +714,18 @@
       "LastCommitAt": "2021-09-10T14:27:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 15,
-         "ValidApprovals": 1,
+         "Count": 16,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-10T17:07:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7231#pullrequestreview-751623211"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-09-10T21:09:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7231#pullrequestreview-751800015"
          }
       }
    },
