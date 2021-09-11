@@ -669,5 +669,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7251,
+      "OpenedBy": "bobrofon",
+      "CreatedAt": "2021-09-11T18:19:33Z",
+      "Recipe": "libcap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7251",
+      "LastCommitSHA": "6290a20eb4f5905121dfa42a59e1988bf09a3e1a",
+      "LastCommitAt": "2021-09-11T17:50:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
