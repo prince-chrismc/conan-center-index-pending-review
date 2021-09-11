@@ -707,6 +707,24 @@
       }
    },
    {
+      "Number": 7241,
+      "OpenedBy": "cqc-alec",
+      "CreatedAt": "2021-09-10T13:20:21Z",
+      "Recipe": "symengine",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7241",
+      "LastCommitSHA": "b6cfbc37ce46efccc5eddeb50a34c7361e9af9b0",
+      "LastCommitAt": "2021-09-11T06:01:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7245,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-09-11T05:26:23Z",
