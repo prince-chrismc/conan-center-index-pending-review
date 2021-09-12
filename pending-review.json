@@ -400,22 +400,19 @@
       "Recipe": "approvaltests.cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7213",
-      "LastCommitSHA": "bef9533e4a1c2c021d002e2b67356413a16f429a",
-      "LastCommitAt": "2021-09-10T19:09:24Z",
+      "LastCommitSHA": "947378b21d7d45097b188757d402c9a7fb2e421e",
+      "LastCommitAt": "2021-09-12T07:48:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
+         "Count": 6,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-12T06:44:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7213#pullrequestreview-752098312"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-09-12T07:30:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7213#pullrequestreview-752101596"
          }
       }
    },
