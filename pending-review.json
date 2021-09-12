@@ -741,5 +741,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7258,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-09-11T23:24:11Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7258",
+      "LastCommitSHA": "bfd5d309af6d78816244eac14f4fbde9d8f20fba",
+      "LastCommitAt": "2021-09-11T23:23:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7260,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-09-11T23:43:32Z",
+      "Recipe": "aws-c-cal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7260",
+      "LastCommitSHA": "2cf97c9cac327af4fb5ff71de728c307da00086b",
+      "LastCommitAt": "2021-09-11T23:41:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
