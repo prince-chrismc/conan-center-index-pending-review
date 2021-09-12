@@ -422,33 +422,6 @@
       }
    },
    {
-      "Number": 7214,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-09-08T16:52:41Z",
-      "Recipe": "gnulib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7214",
-      "LastCommitSHA": "4edb3adaf199c2e2f227e57519a7db66559e596b",
-      "LastCommitAt": "2021-09-09T00:01:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "SpaceIm",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-12T03:06:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7214#pullrequestreview-752067468"
-         }
-      }
-   },
-   {
       "Number": 7215,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-09-08T17:01:38Z",
