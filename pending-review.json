@@ -498,60 +498,6 @@
       }
    },
    {
-      "Number": 7251,
-      "OpenedBy": "bobrofon",
-      "CreatedAt": "2021-09-11T18:19:33Z",
-      "Recipe": "libcap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7251",
-      "LastCommitSHA": "e444edd1f9899e96d281cbf5f557dcefb996026f",
-      "LastCommitAt": "2021-09-11T17:50:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-12T17:44:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7251#pullrequestreview-752182029"
-         }
-      }
-   },
-   {
-      "Number": 7252,
-      "OpenedBy": "bobrofon",
-      "CreatedAt": "2021-09-11T19:25:01Z",
-      "Recipe": "libsystemd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7252",
-      "LastCommitSHA": "dc0e503a7cc29339393c9441c038395f7cbb3ad5",
-      "LastCommitAt": "2021-09-11T19:17:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-12T17:45:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7252#pullrequestreview-752182049"
-         }
-      }
-   },
-   {
       "Number": 7259,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2021-09-11T23:40:34Z",
@@ -587,18 +533,19 @@
       "LastCommitAt": "2021-09-11T23:41:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "SSE4"
+            "SSE4",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-12T17:45:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7260#pullrequestreview-752182085"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-09-12T18:55:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7260#pullrequestreview-752187497"
          }
       }
    },
