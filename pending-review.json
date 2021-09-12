@@ -134,16 +134,14 @@
       "Recipe": "microprofile",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6925",
-      "LastCommitSHA": "c8394f4018a36cc3d4fd5086f0711c0cdfec13ad",
-      "LastCommitAt": "2021-09-11T14:19:40Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d3cf62a8463fc295d1cd78df3721832722a48dc5",
+      "LastCommitAt": "2021-09-12T06:06:17Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 17,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -507,31 +505,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 7241,
-      "OpenedBy": "cqc-alec",
-      "CreatedAt": "2021-09-10T13:20:21Z",
-      "Recipe": "symengine",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7241",
-      "LastCommitSHA": "91b85211d655790e06ca2192f5d5c057dec52cad",
-      "LastCommitAt": "2021-09-11T20:25:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-11T20:54:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7241#pullrequestreview-751971287"
-         }
       }
    },
    {
