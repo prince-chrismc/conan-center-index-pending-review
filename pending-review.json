@@ -112,18 +112,19 @@
       "LastCommitAt": "2021-09-10T12:28:39Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 13,
-         "ValidApprovals": 2,
+         "Count": 14,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "SSE4"
+            "SSE4",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-10T17:19:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6919#pullrequestreview-751632752"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-09-13T07:04:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6919#pullrequestreview-752378919"
          }
       }
    },
@@ -205,31 +206,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-09-11T04:40:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6977#pullrequestreview-751889056"
-         }
-      }
-   },
-   {
-      "Number": 7133,
-      "OpenedBy": "samvik",
-      "CreatedAt": "2021-09-01T06:39:12Z",
-      "Recipe": "libcoap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7133",
-      "LastCommitSHA": "2acaed28a11140c91e9dec4263da7c3c3135c947",
-      "LastCommitAt": "2021-09-09T06:23:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-12T22:18:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7133#pullrequestreview-752220798"
          }
       }
    },
