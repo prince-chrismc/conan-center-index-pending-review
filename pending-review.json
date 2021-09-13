@@ -178,6 +178,24 @@
       }
    },
    {
+      "Number": 6985,
+      "OpenedBy": "corporategoth",
+      "CreatedAt": "2021-08-23T20:25:47Z",
+      "Recipe": "rabbitmq-c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6985",
+      "LastCommitSHA": "bfd491530dba08bdd1e257f7dca76533922ebbc7",
+      "LastCommitAt": "2021-09-13T17:41:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7133,
       "OpenedBy": "samvik",
       "CreatedAt": "2021-09-01T06:39:12Z",
@@ -214,15 +232,17 @@
       "LastCommitAt": "2021-09-10T09:48:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-03T15:04:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7155#pullrequestreview-746205868"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-09-13T18:20:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7155#pullrequestreview-753074562"
          }
       }
    },
