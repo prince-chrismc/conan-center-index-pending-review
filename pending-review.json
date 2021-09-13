@@ -442,34 +442,6 @@
       }
    },
    {
-      "Number": 7265,
-      "OpenedBy": "sh0",
-      "CreatedAt": "2021-09-12T11:41:06Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7265",
-      "LastCommitSHA": "43056c4baae04c7bd2ff60b400c34633df9ca8c7",
-      "LastCommitAt": "2021-09-12T11:32:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "MartinDelille",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-09-13T10:08:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7265#pullrequestreview-752557936"
-         }
-      }
-   },
-   {
       "Number": 7266,
       "OpenedBy": "TheSalvator",
       "CreatedAt": "2021-09-12T13:45:33Z",
