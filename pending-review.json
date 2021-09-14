@@ -472,34 +472,6 @@
       }
    },
    {
-      "Number": 7270,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-09-13T01:29:22Z",
-      "Recipe": "mosquitto",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7270",
-      "LastCommitSHA": "9c8c80e73120897ee41bc6da09125f071803e0a7",
-      "LastCommitAt": "2021-09-13T01:02:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "intelligide",
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-09-13T20:39:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7270#pullrequestreview-753194320"
-         }
-      }
-   },
-   {
       "Number": 7278,
       "OpenedBy": "Renari",
       "CreatedAt": "2021-09-13T22:05:43Z",
