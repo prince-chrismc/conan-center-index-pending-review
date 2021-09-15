@@ -442,23 +442,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 7290,
-      "OpenedBy": "klimkin",
-      "CreatedAt": "2021-09-14T17:44:22Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7290",
-      "LastCommitSHA": "984471194a5b1117f73ef53e41d5a0a6b3c34a14",
-      "LastCommitAt": "2021-03-26T00:28:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
