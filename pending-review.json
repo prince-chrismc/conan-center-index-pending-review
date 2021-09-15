@@ -451,14 +451,14 @@
       }
    },
    {
-      "Number": 7296,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2021-09-15T15:16:32Z",
-      "Recipe": "openblas",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7296",
-      "LastCommitSHA": "dfa027a4980ad862995482a451e6768adc36b349",
-      "LastCommitAt": "2021-09-15T15:07:09Z",
+      "Number": 7297,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-09-15T18:05:43Z",
+      "Recipe": "lua",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7297",
+      "LastCommitSHA": "f19ba8c377ea0087cf259fed5f75c451adf9f1b3",
+      "LastCommitAt": "2021-09-15T18:01:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
