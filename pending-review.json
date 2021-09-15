@@ -460,5 +460,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7292,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-09-15T09:30:46Z",
+      "Recipe": "google-cloud-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7292",
+      "LastCommitSHA": "a337115177010a24fa1059948cac64ad9dd3e9cc",
+      "LastCommitAt": "2021-09-15T09:30:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
