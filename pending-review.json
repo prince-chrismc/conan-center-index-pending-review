@@ -486,17 +486,18 @@
       "LastCommitAt": "2021-09-15T18:01:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-09-15T18:54:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7297#pullrequestreview-755511688"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-09-15T22:18:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7297#pullrequestreview-755670475"
          }
       }
    },
@@ -507,8 +508,8 @@
       "Recipe": "docs",
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7298",
-      "LastCommitSHA": "75f8b237ff3306809dd075c5879c901e71261112",
-      "LastCommitAt": "2021-09-15T19:14:59Z",
+      "LastCommitSHA": "3b9ab5f2e8d3588beb17a45d1d8d498b46fd9ea9",
+      "LastCommitAt": "2021-09-15T20:42:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
