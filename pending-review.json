@@ -597,23 +597,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7309#pullrequestreview-756448930"
          }
       }
-   },
-   {
-      "Number": 7317,
-      "OpenedBy": "xissburg",
-      "CreatedAt": "2021-09-16T20:11:47Z",
-      "Recipe": "edyn",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7317",
-      "LastCommitSHA": "87792cbf0710813a4b3e1e349dab395082bfce9d",
-      "LastCommitAt": "2021-09-16T20:03:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
