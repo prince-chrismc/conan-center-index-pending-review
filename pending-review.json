@@ -153,32 +153,6 @@
       }
    },
    {
-      "Number": 6985,
-      "OpenedBy": "corporategoth",
-      "CreatedAt": "2021-08-23T20:25:47Z",
-      "Recipe": "rabbitmq-c",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6985",
-      "LastCommitSHA": "bfd491530dba08bdd1e257f7dca76533922ebbc7",
-      "LastCommitAt": "2021-09-13T17:41:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-16T01:40:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6985#pullrequestreview-755754313"
-         }
-      }
-   },
-   {
       "Number": 7155,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-09-02T17:42:18Z",
