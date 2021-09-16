@@ -368,44 +368,37 @@
       "LastCommitAt": "2021-09-13T20:53:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-15T15:53:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7281#pullrequestreview-755309235"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-09-16T07:59:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7281#pullrequestreview-755980892"
          }
       }
    },
    {
-      "Number": 7297,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-09-15T18:05:43Z",
-      "Recipe": "lua",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7297",
-      "LastCommitSHA": "f19ba8c377ea0087cf259fed5f75c451adf9f1b3",
-      "LastCommitAt": "2021-09-15T18:01:56Z",
-      "CciBotPassed": true,
+      "Number": 7290,
+      "OpenedBy": "klimkin",
+      "CreatedAt": "2021-09-14T17:44:22Z",
+      "Recipe": "boost",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7290",
+      "LastCommitSHA": "984471194a5b1117f73ef53e41d5a0a6b3c34a14",
+      "LastCommitAt": "2021-03-26T00:28:16Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 0,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-15T22:18:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7297#pullrequestreview-755670475"
-         }
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
