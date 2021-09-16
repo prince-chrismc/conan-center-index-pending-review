@@ -386,7 +386,7 @@
       "LastCommitAt": "2021-09-16T12:17:21Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -394,9 +394,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-16T13:19:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7298#pullrequestreview-756289708"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-09-16T14:39:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7298#pullrequestreview-756387127"
          }
       }
    },
@@ -534,24 +534,6 @@
             "SubmittedAt": "2021-09-16T12:20:05Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7308#pullrequestreview-756224905"
          }
-      }
-   },
-   {
-      "Number": 7309,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-09-16T12:21:15Z",
-      "Recipe": "wayland-protocols",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7309",
-      "LastCommitSHA": "9ff2dd183603ddcc1b086a0b090b85eb619c6581",
-      "LastCommitAt": "2021-09-16T12:19:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
