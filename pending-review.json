@@ -289,7 +289,7 @@
       "LastCommitAt": "2021-09-09T21:48:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 8,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -298,9 +298,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-16T01:51:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7232#pullrequestreview-755758390"
+            "ReviewerName": "kenfred",
+            "SubmittedAt": "2021-09-16T23:37:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7232#pullrequestreview-756933836"
          }
       }
    },
@@ -420,29 +420,6 @@
             "ReviewerName": "jgsogo",
             "SubmittedAt": "2021-09-16T14:39:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7298#pullrequestreview-756387127"
-         }
-      }
-   },
-   {
-      "Number": 7299,
-      "OpenedBy": "ericriff",
-      "CreatedAt": "2021-09-15T19:31:27Z",
-      "Recipe": "intel-neon2sse",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7299",
-      "LastCommitSHA": "f73f9e0664e73b223f577d583199bc8a9d6ab922",
-      "LastCommitAt": "2021-09-16T23:05:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 18,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-16T14:19:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7299#pullrequestreview-756366877"
          }
       }
    },
