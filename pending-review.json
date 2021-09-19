@@ -189,6 +189,24 @@
       }
    },
    {
+      "Number": 7255,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-09-11T21:21:38Z",
+      "Recipe": "openimageio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7255",
+      "LastCommitSHA": "add1a6e10db36e3ea02ce69afa65e6ffb45262bc",
+      "LastCommitAt": "2021-09-11T21:13:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7261,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-09-12T00:50:04Z",
