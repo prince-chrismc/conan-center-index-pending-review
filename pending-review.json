@@ -171,34 +171,6 @@
       }
    },
    {
-      "Number": 7224,
-      "OpenedBy": "kenfred",
-      "CreatedAt": "2021-09-08T22:00:17Z",
-      "Recipe": "qwt",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7224",
-      "LastCommitSHA": "d77cca7c020599539898f5dc65b8affd6e62be93",
-      "LastCommitAt": "2021-09-17T14:55:12Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "madebr",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-19T08:03:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7224#pullrequestreview-758122443"
-         }
-      }
-   },
-   {
       "Number": 7261,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-09-12T00:50:04Z",
@@ -245,33 +217,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-09-17T21:03:55Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7298#pullrequestreview-757857574"
-         }
-      }
-   },
-   {
-      "Number": 7299,
-      "OpenedBy": "ericriff",
-      "CreatedAt": "2021-09-15T19:31:27Z",
-      "Recipe": "intel-neon2sse",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7299",
-      "LastCommitSHA": "0c3de6d33e1d8969fde965702430aa5f52405114",
-      "LastCommitAt": "2021-09-17T15:58:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 36,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-18T22:04:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7299#pullrequestreview-758094563"
          }
       }
    },
