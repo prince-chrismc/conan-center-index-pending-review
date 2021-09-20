@@ -33,7 +33,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6085",
       "LastCommitSHA": "0f213ec1df0510a7759540752a2628ee5da5bad8",
       "LastCommitAt": "2021-09-20T19:04:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 12,
          "ValidApprovals": 0,
@@ -216,6 +216,24 @@
             "SubmittedAt": "2021-09-20T07:41:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7298#pullrequestreview-758328412"
          }
+      }
+   },
+   {
+      "Number": 7345,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-09-20T08:00:50Z",
+      "Recipe": "at-spi2-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7345",
+      "LastCommitSHA": "8fbc7d28a62514c1b124bbc1f97f158bfc5cb6f8",
+      "LastCommitAt": "2021-09-20T18:58:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
