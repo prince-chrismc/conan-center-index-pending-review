@@ -35,15 +35,17 @@
       "LastCommitAt": "2021-09-20T19:04:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 12,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 13,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "CAMOBAP",
-            "SubmittedAt": "2021-09-20T05:11:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6085#pullrequestreview-758256283"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-09-20T21:05:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6085#pullrequestreview-759096315"
          }
       }
    },
@@ -143,52 +145,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-09-16T01:47:30Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7212#pullrequestreview-755756843"
-         }
-      }
-   },
-   {
-      "Number": 7255,
-      "OpenedBy": "sh0",
-      "CreatedAt": "2021-09-11T21:21:38Z",
-      "Recipe": "openimageio",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7255",
-      "LastCommitSHA": "041ec810a50af81413746fd1076d09b6e2f203a1",
-      "LastCommitAt": "2021-09-20T14:25:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-20T07:07:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7255#pullrequestreview-758303381"
-         }
-      }
-   },
-   {
-      "Number": 7296,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2021-09-15T15:16:32Z",
-      "Recipe": "openblas",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7296",
-      "LastCommitSHA": "d0942f9fb6b5e37d33e2161e1206100237edf192",
-      "LastCommitAt": "2021-09-20T13:29:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-09-20T12:39:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7296#pullrequestreview-758578230"
          }
       }
    },
