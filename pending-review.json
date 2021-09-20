@@ -130,17 +130,14 @@
       "Recipe": "openimageio",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7255",
-      "LastCommitSHA": "add1a6e10db36e3ea02ce69afa65e6ffb45262bc",
-      "LastCommitAt": "2021-09-11T21:13:32Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "041ec810a50af81413746fd1076d09b6e2f203a1",
+      "LastCommitAt": "2021-09-20T14:25:18Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -199,33 +196,6 @@
       }
    },
    {
-      "Number": 7347,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-09-20T08:49:58Z",
-      "Recipe": "cimg",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7347",
-      "LastCommitSHA": "17e27c796db74f0f32f174a45587ddb6a925c71c",
-      "LastCommitAt": "2021-09-19T01:07:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-09-20T13:29:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7347#pullrequestreview-758633903"
-         }
-      }
-   },
-   {
       "Number": 7350,
       "OpenedBy": "YaZasnyal",
       "CreatedAt": "2021-09-20T11:35:38Z",
@@ -244,14 +214,14 @@
       }
    },
    {
-      "Number": 7352,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-09-20T13:50:48Z",
-      "Recipe": "gtest",
+      "Number": 7351,
+      "OpenedBy": "ItsBasi",
+      "CreatedAt": "2021-09-20T13:41:33Z",
+      "Recipe": "opencl-icd-loader",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7352",
-      "LastCommitSHA": "31b01a3e992f70645be883fb2fb188d35c83853f",
-      "LastCommitAt": "2021-09-20T13:49:43Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7351",
+      "LastCommitSHA": "fb8efe5ebe819f6d9c76217e3d6d83a73178f751",
+      "LastCommitAt": "2021-09-20T13:45:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -262,14 +232,14 @@
       }
    },
    {
-      "Number": 7353,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-09-20T14:14:19Z",
-      "Recipe": "qxmpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7353",
-      "LastCommitSHA": "d20bbb3832204bcd2fe6721316eb248fe4a08d77",
-      "LastCommitAt": "2021-09-20T14:13:13Z",
+      "Number": 7352,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-09-20T13:50:48Z",
+      "Recipe": "gtest",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7352",
+      "LastCommitSHA": "31b01a3e992f70645be883fb2fb188d35c83853f",
+      "LastCommitAt": "2021-09-20T13:49:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
