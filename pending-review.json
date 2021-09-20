@@ -335,18 +335,19 @@
       "LastCommitAt": "2021-09-19T09:04:50Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             "ericLemanissier",
-            "madebr"
+            "madebr",
+            "PatSche"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-19T20:22:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7337#pullrequestreview-758182863"
+            "ReviewerName": "PatSche",
+            "SubmittedAt": "2021-09-19T23:36:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7337#pullrequestreview-758197824"
          }
       }
    },
