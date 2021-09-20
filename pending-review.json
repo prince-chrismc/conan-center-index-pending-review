@@ -227,5 +227,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7354,
+      "OpenedBy": "PatSche",
+      "CreatedAt": "2021-09-20T22:39:28Z",
+      "Recipe": "cppzmq",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7354",
+      "LastCommitSHA": "6d72e3efcdaef01bceb0a2c71f5eb9b726cf7c47",
+      "LastCommitAt": "2021-09-20T22:07:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7355,
+      "OpenedBy": "ciclark2",
+      "CreatedAt": "2021-09-20T22:42:53Z",
+      "Recipe": "sdl_net",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7355",
+      "LastCommitSHA": "aebee0c0f305354c8d1c804d4496fc0ca3d6a541",
+      "LastCommitAt": "2021-09-16T20:54:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
