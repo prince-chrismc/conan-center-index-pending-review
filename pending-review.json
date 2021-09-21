@@ -342,7 +342,7 @@
       "LastCommitAt": "2021-09-21T03:57:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -350,10 +350,28 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-21T07:55:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7356#pullrequestreview-759416875"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-09-21T12:05:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7356#pullrequestreview-759654785"
          }
+      }
+   },
+   {
+      "Number": 7358,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-09-21T08:32:08Z",
+      "Recipe": "magnum",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7358",
+      "LastCommitSHA": "bfdd1a568bd3bbc170d12575cd04179d13ecf37d",
+      "LastCommitAt": "2021-09-21T10:35:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
