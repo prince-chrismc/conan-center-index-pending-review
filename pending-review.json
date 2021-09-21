@@ -325,28 +325,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7367#pullrequestreview-759946533"
          }
       }
-   },
-   {
-      "Number": 7369,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-09-21T19:17:17Z",
-      "Recipe": "m4",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7369",
-      "LastCommitSHA": "3301000e1f08aae06c93a79e001f096b546d516d",
-      "LastCommitAt": "2021-09-21T20:44:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-21T20:44:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7369#pullrequestreview-760234809"
-         }
-      }
    }
 ]
