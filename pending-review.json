@@ -239,6 +239,31 @@
       }
    },
    {
+      "Number": 7349,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-09-20T11:14:55Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7349",
+      "LastCommitSHA": "f78b96433ceaada28b019f78e987a314958037b4",
+      "LastCommitAt": "2021-09-21T05:02:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-09-21T10:25:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7349#pullrequestreview-759567849"
+         }
+      }
+   },
+   {
       "Number": 7350,
       "OpenedBy": "YaZasnyal",
       "CreatedAt": "2021-09-20T11:35:38Z",
