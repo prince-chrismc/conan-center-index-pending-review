@@ -357,14 +357,14 @@
       }
    },
    {
-      "Number": 7358,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-09-21T08:32:08Z",
-      "Recipe": "magnum",
+      "Number": 7363,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-09-21T13:10:40Z",
+      "Recipe": "libevent",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7358",
-      "LastCommitSHA": "bfdd1a568bd3bbc170d12575cd04179d13ecf37d",
-      "LastCommitAt": "2021-09-21T10:35:01Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7363",
+      "LastCommitSHA": "20bb44a00ae0ad9631fc6eae8a14f0822d27ad63",
+      "LastCommitAt": "2021-09-21T13:07:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
