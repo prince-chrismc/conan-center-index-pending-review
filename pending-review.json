@@ -173,32 +173,6 @@
       }
    },
    {
-      "Number": 7345,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-09-20T08:00:50Z",
-      "Recipe": "at-spi2-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7345",
-      "LastCommitSHA": "d0bed27a7f9bfbf7f648af2a65ae6864fafdfe25",
-      "LastCommitAt": "2021-09-21T05:07:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-09-21T13:35:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7345#pullrequestreview-759758134"
-         }
-      }
-   },
-   {
       "Number": 7348,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-09-20T09:01:46Z",
@@ -235,17 +209,18 @@
       "LastCommitAt": "2021-09-21T15:29:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-09-21T16:09:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7356#pullrequestreview-759963844"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-09-21T17:23:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7356#pullrequestreview-760045579"
          }
       }
    },
@@ -272,6 +247,24 @@
             "SubmittedAt": "2021-09-21T16:42:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7363#pullrequestreview-760003806"
          }
+      }
+   },
+   {
+      "Number": 7364,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-09-21T15:06:15Z",
+      "Recipe": "libgd",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7364",
+      "LastCommitSHA": "640495d059762dd1cb521d47dd8a1394de147cca",
+      "LastCommitAt": "2021-09-21T15:42:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
