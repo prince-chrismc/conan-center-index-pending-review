@@ -173,25 +173,25 @@
       }
    },
    {
-      "Number": 7314,
+      "Number": 7312,
       "OpenedBy": "Mo-Tay",
-      "CreatedAt": "2021-09-16T17:58:59Z",
-      "Recipe": "open62541",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7314",
-      "LastCommitSHA": "27da24f1dbe51c930573650ed458bdce6c1cbced",
-      "LastCommitAt": "2021-09-21T08:58:17Z",
-      "CciBotPassed": false,
+      "CreatedAt": "2021-09-16T15:36:17Z",
+      "Recipe": "ua-nodeset",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7312",
+      "LastCommitSHA": "9ab696f3f95186bb6802997362f6010030f50b91",
+      "LastCommitAt": "2021-09-21T10:02:47Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 11,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-17T15:50:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7314#pullrequestreview-757618490"
+            "ReviewerName": "Pro",
+            "SubmittedAt": "2021-09-21T09:09:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7312#pullrequestreview-759492716"
          }
       }
    },
