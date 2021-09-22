@@ -463,8 +463,8 @@
       "Recipe": "xtr",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7371",
-      "LastCommitSHA": "a47bb14e744d51d3fb608f227c9e607c89785b08",
-      "LastCommitAt": "2021-09-21T22:55:40Z",
+      "LastCommitSHA": "c0f6b8323245c29a7c1c5c24fecf764e86bc5cf2",
+      "LastCommitAt": "2021-09-22T09:52:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
