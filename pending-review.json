@@ -134,7 +134,7 @@
       "LastCommitAt": "2021-09-08T22:27:22Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -142,9 +142,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-16T01:47:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7212#pullrequestreview-755756843"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-09-22T13:56:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7212#pullrequestreview-760952960"
          }
       }
    },
@@ -288,29 +288,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-09-22T08:07:39Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7353#pullrequestreview-760583862"
-         }
-      }
-   },
-   {
-      "Number": 7355,
-      "OpenedBy": "ciclark2",
-      "CreatedAt": "2021-09-20T22:42:53Z",
-      "Recipe": "sdl_net",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7355",
-      "LastCommitSHA": "6eb39e5fa4ea8defef4fdafe6a1f568413ed5e9e",
-      "LastCommitAt": "2021-09-22T12:46:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-21T21:39:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7355#pullrequestreview-760278129"
          }
       }
    },
@@ -570,6 +547,24 @@
             "SubmittedAt": "2021-09-22T11:13:22Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7375#pullrequestreview-760772298"
          }
+      }
+   },
+   {
+      "Number": 7379,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-09-22T14:09:43Z",
+      "Recipe": "indicators",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7379",
+      "LastCommitSHA": "299b4c52f782ca2cee3d7b2685743c14325c0607",
+      "LastCommitAt": "2021-09-22T01:55:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
