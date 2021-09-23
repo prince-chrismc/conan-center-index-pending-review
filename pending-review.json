@@ -407,6 +407,31 @@
       }
    },
    {
+      "Number": 7380,
+      "OpenedBy": "vvarma",
+      "CreatedAt": "2021-09-22T16:13:20Z",
+      "Recipe": "nng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7380",
+      "LastCommitSHA": "2c7b36bf8362f5f489148c46440505108863c407",
+      "LastCommitAt": "2021-08-03T03:46:37Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-09-23T17:30:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7380#pullrequestreview-762312306"
+         }
+      }
+   },
+   {
       "Number": 7383,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2021-09-22T22:51:31Z",
