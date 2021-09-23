@@ -534,5 +534,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7403,
+      "OpenedBy": "bowb",
+      "CreatedAt": "2021-09-23T20:38:39Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7403",
+      "LastCommitSHA": "56cc7627258445fb3ccd64ae27ce689d9d4c8210",
+      "LastCommitAt": "2021-09-23T20:35:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
