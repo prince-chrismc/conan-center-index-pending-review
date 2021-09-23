@@ -432,30 +432,21 @@
       }
    },
    {
-      "Number": 7389,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-09-23T00:27:04Z",
-      "Recipe": "s2n",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7389",
-      "LastCommitSHA": "3e53f950427daab32c74e8b8bf1ac4d50676395d",
-      "LastCommitAt": "2021-09-22T18:39:43Z",
-      "CciBotPassed": true,
+      "Number": 7394,
+      "OpenedBy": "mjvankampen",
+      "CreatedAt": "2021-09-23T12:28:38Z",
+      "Recipe": "rapidcheck",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7394",
+      "LastCommitSHA": "2564165f34dc44c5df2029582e0b40d3f4c20999",
+      "LastCommitAt": "2021-09-23T13:07:48Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "intelligide",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-09-23T13:06:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7389#pullrequestreview-761993305"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -492,6 +483,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7400",
       "LastCommitSHA": "672b3ca8e2084c37b12ed8230e8fc2e9d14d63c1",
       "LastCommitAt": "2021-09-10T19:01:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7401,
+      "OpenedBy": "balintfodor",
+      "CreatedAt": "2021-09-23T16:36:32Z",
+      "Recipe": "valijson",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7401",
+      "LastCommitSHA": "66b50ee55273f379e8ac3b7a84f2f2db2c47f3ce",
+      "LastCommitAt": "2021-09-23T16:33:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
