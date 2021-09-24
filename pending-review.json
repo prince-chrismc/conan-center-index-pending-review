@@ -356,33 +356,6 @@
       }
    },
    {
-      "Number": 7370,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2021-09-21T22:51:41Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7370",
-      "LastCommitSHA": "0b0ea19f45119a75b0691153db2877a23224b66d",
-      "LastCommitAt": "2021-09-21T22:51:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "danimtb",
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-09-24T01:48:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7370#pullrequestreview-762631546"
-         }
-      }
-   },
-   {
       "Number": 7371,
       "OpenedBy": "choll",
       "CreatedAt": "2021-09-21T23:01:45Z",
