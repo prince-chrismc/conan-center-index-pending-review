@@ -366,18 +366,19 @@
       "LastCommitAt": "2021-09-21T22:51:38Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
+         "Count": 6,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "danimtb"
+            "danimtb",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-09-23T07:50:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7370#pullrequestreview-761689908"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-09-24T01:48:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7370#pullrequestreview-762631546"
          }
       }
    },
