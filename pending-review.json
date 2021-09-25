@@ -478,5 +478,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7413,
+      "OpenedBy": "jothepro",
+      "CreatedAt": "2021-09-25T17:15:34Z",
+      "Recipe": "djinni-generator",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7413",
+      "LastCommitSHA": "1d71045a94778580b73a23788e2d4a53d21a0815",
+      "LastCommitAt": "2021-09-25T17:12:30Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            "a4z"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "a4z",
+            "SubmittedAt": "2021-09-25T17:18:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7413#pullrequestreview-763616453"
+         }
+      }
    }
 ]
