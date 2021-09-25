@@ -205,16 +205,14 @@
       "Recipe": "magnum-plugins",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7272",
-      "LastCommitSHA": "4ba4c59e78f6b75919b5ca129983f4a2f55711f4",
-      "LastCommitAt": "2021-09-24T10:59:11Z",
+      "LastCommitSHA": "47ff16095a3cd1ef53b8a9cb3c8026010fa17353",
+      "LastCommitAt": "2021-09-25T21:25:09Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 9,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
