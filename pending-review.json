@@ -509,32 +509,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7394#pullrequestreview-763544011"
          }
       }
-   },
-   {
-      "Number": 7405,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-09-24T09:14:43Z",
-      "Recipe": "magnum",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7405",
-      "LastCommitSHA": "4b2ab28b65efd7c1d70a1ed0a848d703a1c21bcc",
-      "LastCommitAt": "2021-09-24T10:54:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-25T00:58:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7405#pullrequestreview-763545335"
-         }
-      }
    }
 ]
