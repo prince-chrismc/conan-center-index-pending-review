@@ -469,34 +469,6 @@
       }
    },
    {
-      "Number": 7413,
-      "OpenedBy": "jothepro",
-      "CreatedAt": "2021-09-25T17:15:34Z",
-      "Recipe": "djinni-generator",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7413",
-      "LastCommitSHA": "1d71045a94778580b73a23788e2d4a53d21a0815",
-      "LastCommitAt": "2021-09-25T17:12:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "a4z",
-            "prince-chrismc",
-            "SSE4",
-            "theirix"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "theirix",
-            "SubmittedAt": "2021-09-26T07:09:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7413#pullrequestreview-763661663"
-         }
-      }
-   },
-   {
       "Number": 7415,
       "OpenedBy": "a4z",
       "CreatedAt": "2021-09-26T06:32:45Z",
@@ -520,6 +492,24 @@
             "SubmittedAt": "2021-09-26T07:08:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7415#pullrequestreview-763661579"
          }
+      }
+   },
+   {
+      "Number": 7416,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-09-26T07:42:02Z",
+      "Recipe": "spirv-cross",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7416",
+      "LastCommitSHA": "4e62030c487eff703c5c82897a39d7eb7b4589a9",
+      "LastCommitAt": "2021-09-26T07:41:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
