@@ -526,5 +526,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7420,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-09-26T10:24:03Z",
+      "Recipe": "flatbuffers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7420",
+      "LastCommitSHA": "09ec3c7518ebc6b8eccaceea4fe235808a60ca55",
+      "LastCommitAt": "2021-09-26T10:23:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
