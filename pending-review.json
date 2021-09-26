@@ -475,40 +475,19 @@
       "Recipe": "faac",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7414",
-      "LastCommitSHA": "160c306de172c95f50b4aa88320caa0314f7941a",
-      "LastCommitAt": "2021-09-26T08:13:26Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "7c3c4f093cf08d78bed938b057d28da0b23e7e7c",
+      "LastCommitAt": "2021-09-26T09:45:18Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7415,
-      "OpenedBy": "a4z",
-      "CreatedAt": "2021-09-26T06:32:45Z",
-      "Recipe": "djinni-support-lib",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7415",
-      "LastCommitSHA": "0d9363cc626ced8dfd5386a60efd9ace6a598447",
-      "LastCommitAt": "2021-09-26T06:31:49Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "theirix"
-         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "theirix",
-            "SubmittedAt": "2021-09-26T07:08:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7415#pullrequestreview-763661579"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-09-26T09:34:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7414#pullrequestreview-763675352"
          }
       }
    },
