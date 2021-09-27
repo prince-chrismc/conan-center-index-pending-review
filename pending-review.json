@@ -1,30 +1,5 @@
 [
    {
-      "Number": 5792,
-      "OpenedBy": "boussaffawalid",
-      "CreatedAt": "2021-06-07T14:47:55Z",
-      "Recipe": "openjdk",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/5792",
-      "LastCommitSHA": "74d890d7c6d5fb4d54732f5dda80ad24bff1a46d",
-      "LastCommitAt": "2021-07-27T20:05:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 25,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-08-28T03:30:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/5792#pullrequestreview-740974453"
-         }
-      }
-   },
-   {
       "Number": 5849,
       "OpenedBy": "Renari",
       "CreatedAt": "2021-06-10T21:40:37Z",
@@ -86,7 +61,7 @@
       "LastCommitAt": "2021-08-23T16:06:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 78,
+         "Count": 79,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -94,9 +69,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "vaerizk",
-            "SubmittedAt": "2021-09-27T00:17:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6475#pullrequestreview-763752158"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-09-27T05:09:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6475#pullrequestreview-763840855"
          }
       }
    },
