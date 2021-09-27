@@ -427,17 +427,14 @@
       "Recipe": "libsecret",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7368",
-      "LastCommitSHA": "930f532ebd3efd4d7cdf01f70e1dad0b86d991ec",
-      "LastCommitAt": "2021-09-21T15:32:04Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c3a4ffda8ce0c27f357dde6ecc02c8a76f074248",
+      "LastCommitAt": "2021-09-27T07:07:16Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
