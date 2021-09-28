@@ -312,7 +312,7 @@
       "LastCommitAt": "2021-09-28T11:55:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -320,9 +320,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-28T18:16:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7447#pullrequestreview-765806535"
+            "ReviewerName": "ohanar",
+            "SubmittedAt": "2021-09-28T20:54:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7447#pullrequestreview-765950731"
          }
       }
    },
