@@ -51,6 +51,24 @@
       }
    },
    {
+      "Number": 6771,
+      "OpenedBy": "dvetutnev",
+      "CreatedAt": "2021-08-09T01:57:29Z",
+      "Recipe": "mariadb-connector-c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6771",
+      "LastCommitSHA": "72bf14eedd6bf994b7599fcbd1f0c238c2edf978",
+      "LastCommitAt": "2021-08-09T09:16:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 6805,
       "OpenedBy": "erikzenker",
       "CreatedAt": "2021-08-10T20:04:07Z",
@@ -61,7 +79,7 @@
       "LastCommitAt": "2021-09-26T14:41:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 25,
+         "Count": 26,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -69,9 +87,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-09-28T01:16:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6805#pullrequestreview-764880916"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-09-28T11:33:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6805#pullrequestreview-765317364"
          }
       }
    },
@@ -159,17 +177,41 @@
       "LastCommitAt": "2021-09-25T15:51:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-09-27T17:33:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7410#pullrequestreview-764563579"
+            "SubmittedAt": "2021-09-28T12:21:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7410#pullrequestreview-765362944"
+         }
+      }
+   },
+   {
+      "Number": 7419,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-09-26T09:23:52Z",
+      "Recipe": "magnum-integration",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7419",
+      "LastCommitSHA": "4eb2b7591f0f40dc1ebbae2cc1c42a1e7c88e785",
+      "LastCommitAt": "2021-09-28T12:14:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-09-28T11:59:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7419#pullrequestreview-765341356"
          }
       }
    },
