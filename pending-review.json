@@ -94,6 +94,32 @@
       }
    },
    {
+      "Number": 7036,
+      "OpenedBy": "mjvankampen",
+      "CreatedAt": "2021-08-24T19:34:00Z",
+      "Recipe": "sentry-native",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7036",
+      "LastCommitSHA": "354b62af39626e834a8760b0724cb6a70f7aab4d",
+      "LastCommitAt": "2021-08-24T19:32:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr",
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-08-25T02:15:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7036#pullrequestreview-737835059"
+         }
+      }
+   },
+   {
       "Number": 7075,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-08-27T11:38:01Z",
@@ -217,33 +243,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-09-28T18:21:08Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7419#pullrequestreview-765811208"
-         }
-      }
-   },
-   {
-      "Number": 7429,
-      "OpenedBy": "tuxu",
-      "CreatedAt": "2021-09-27T09:24:31Z",
-      "Recipe": "capnproto",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7429",
-      "LastCommitSHA": "f1eecb18a2b6ca3215252d19bce6e9140fb540ac",
-      "LastCommitAt": "2021-09-28T15:40:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-28T18:17:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7429#pullrequestreview-765807613"
          }
       }
    },
