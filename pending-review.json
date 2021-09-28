@@ -174,31 +174,6 @@
       }
    },
    {
-      "Number": 7419,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-09-26T09:23:52Z",
-      "Recipe": "magnum-integration",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7419",
-      "LastCommitSHA": "136c29786c4f346c8ab39c09e9f74b40ae45b94d",
-      "LastCommitAt": "2021-09-27T08:45:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-28T05:36:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7419#pullrequestreview-764986023"
-         }
-      }
-   },
-   {
       "Number": 7437,
       "OpenedBy": "ericriff",
       "CreatedAt": "2021-09-27T17:02:43Z",
