@@ -380,6 +380,24 @@
       }
    },
    {
+      "Number": 7429,
+      "OpenedBy": "tuxu",
+      "CreatedAt": "2021-09-27T09:24:31Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7429",
+      "LastCommitSHA": "010cee920fc0b5ca6e3c163893092106d49d65bb",
+      "LastCommitAt": "2021-09-27T23:25:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7436,
       "OpenedBy": "toge",
       "CreatedAt": "2021-09-27T16:17:32Z",
