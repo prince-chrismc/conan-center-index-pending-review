@@ -298,5 +298,41 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7446#pullrequestreview-765478534"
          }
       }
+   },
+   {
+      "Number": 7447,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-09-28T11:46:02Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7447",
+      "LastCommitSHA": "2021901b5d8e98effe820e484fab20f4355a80dd",
+      "LastCommitAt": "2021-09-28T11:55:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7451,
+      "OpenedBy": "Renari",
+      "CreatedAt": "2021-09-28T18:08:38Z",
+      "Recipe": "geographiclib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7451",
+      "LastCommitSHA": "d58c75b2c53b2aa850750f1b89bb4f680a090b16",
+      "LastCommitAt": "2021-09-28T18:06:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
