@@ -144,6 +144,29 @@
       }
    },
    {
+      "Number": 7400,
+      "OpenedBy": "coryan",
+      "CreatedAt": "2021-09-23T16:03:22Z",
+      "Recipe": "functions-framework-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7400",
+      "LastCommitSHA": "b91f9a35a6e632f377994be1c923aa8583ee6502",
+      "LastCommitAt": "2021-09-28T14:44:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 11,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "coryan",
+            "SubmittedAt": "2021-09-27T14:24:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7400#pullrequestreview-764347561"
+         }
+      }
+   },
+   {
       "Number": 7402,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-09-23T19:30:57Z",
@@ -202,22 +225,46 @@
       "Recipe": "magnum-integration",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7419",
-      "LastCommitSHA": "4eb2b7591f0f40dc1ebbae2cc1c42a1e7c88e785",
-      "LastCommitAt": "2021-09-28T12:14:11Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "86c1a16993cf94f9332321164d65eb8b5fbfb030",
+      "LastCommitAt": "2021-09-28T15:59:41Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "Count": 12,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "uilianries",
-            "SSE4"
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-28T15:07:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7419#pullrequestreview-765585319"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-09-28T16:11:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7419#pullrequestreview-765666128"
+         }
+      }
+   },
+   {
+      "Number": 7429,
+      "OpenedBy": "tuxu",
+      "CreatedAt": "2021-09-27T09:24:31Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7429",
+      "LastCommitSHA": "f1eecb18a2b6ca3215252d19bce6e9140fb540ac",
+      "LastCommitAt": "2021-09-28T15:40:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-09-28T15:43:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7429#pullrequestreview-765632504"
          }
       }
    },
