@@ -104,18 +104,19 @@
       "LastCommitAt": "2021-08-24T19:32:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "Croydon"
+            "Croydon",
+            "ericriff"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-08-25T02:15:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7036#pullrequestreview-737835059"
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2021-09-29T02:04:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7036#pullrequestreview-766129711"
          }
       }
    },
