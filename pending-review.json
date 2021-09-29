@@ -264,8 +264,8 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7447",
-      "LastCommitSHA": "0e0afa0fd3b681ebb056b75a15585f71a1069142",
-      "LastCommitAt": "2021-09-29T05:49:08Z",
+      "LastCommitSHA": "397a5333657c3c13e50a9f17fdc6a3a749af849f",
+      "LastCommitAt": "2021-09-29T07:59:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
@@ -277,32 +277,6 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-09-29T05:22:48Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7447#pullrequestreview-766212805"
-         }
-      }
-   },
-   {
-      "Number": 7455,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-09-29T01:28:01Z",
-      "Recipe": "aws-c-common",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7455",
-      "LastCommitSHA": "ffba0c9d622c6e53eb68770c4245f15d632f339b",
-      "LastCommitAt": "2021-09-28T09:44:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-09-29T04:57:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7455#pullrequestreview-766201752"
          }
       }
    },
