@@ -181,6 +181,24 @@
       }
    },
    {
+      "Number": 7407,
+      "OpenedBy": "dvirtz",
+      "CreatedAt": "2021-09-24T14:29:41Z",
+      "Recipe": "aws-cdi-sdk",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7407",
+      "LastCommitSHA": "696dc90c2e0c7440d077d95c5d8ab99893a62cca",
+      "LastCommitAt": "2021-09-29T10:48:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7426,
       "OpenedBy": "vvarma",
       "CreatedAt": "2021-09-27T08:21:15Z",
