@@ -61,20 +61,19 @@
       "LastCommitAt": "2021-08-18T15:53:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 31,
-         "ValidApprovals": 2,
+         "Count": 32,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "uilianries"
-         ],
-         "Blockers": [
+            "uilianries",
             "jgsogo"
          ],
+         "Blockers": [],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-09-30T12:23:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6849#pullrequestreview-767785580"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-09-30T14:03:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6849#pullrequestreview-767909157"
          }
       }
    },
@@ -230,32 +229,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-09-30T07:06:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7426#pullrequestreview-767470293"
-         }
-      }
-   },
-   {
-      "Number": 7457,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-09-29T06:12:39Z",
-      "Recipe": "meson",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7457",
-      "LastCommitSHA": "0e327048d3f1e28e1ab6d4b1b2726c4e95693380",
-      "LastCommitAt": "2021-09-29T06:11:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-09-30T13:14:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7457#pullrequestreview-767843560"
          }
       }
    },
