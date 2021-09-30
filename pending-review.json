@@ -51,33 +51,6 @@
       }
    },
    {
-      "Number": 6849,
-      "OpenedBy": "Pro",
-      "CreatedAt": "2021-08-13T16:38:12Z",
-      "Recipe": "mingw-w64",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6849",
-      "LastCommitSHA": "45e04b5c43e9ae3a5c3b5555e55c2187bfa7609d",
-      "LastCommitAt": "2021-08-18T15:53:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 32,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-09-30T14:03:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6849#pullrequestreview-767909157"
-         }
-      }
-   },
-   {
       "Number": 7075,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-08-27T11:38:01Z",
@@ -243,7 +216,7 @@
       "LastCommitAt": "2021-09-29T09:44:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -252,9 +225,27 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-09-30T10:33:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7458#pullrequestreview-767683481"
+            "SubmittedAt": "2021-09-30T15:10:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7458#pullrequestreview-767999067"
          }
+      }
+   },
+   {
+      "Number": 7470,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-09-30T15:04:35Z",
+      "Recipe": "aws-c-compression",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7470",
+      "LastCommitSHA": "a30f1fbede9b8f0288ef163f244f8ebc1f628cbc",
+      "LastCommitAt": "2021-09-30T14:55:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
