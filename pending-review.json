@@ -267,18 +267,37 @@
       "LastCommitAt": "2021-09-30T14:55:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-09-30T16:00:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7470#pullrequestreview-768059788"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-09-30T16:47:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7470#pullrequestreview-768109324"
          }
+      }
+   },
+   {
+      "Number": 7472,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-09-30T17:08:36Z",
+      "Recipe": "aws-c-common",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7472",
+      "LastCommitSHA": "f7a935b2c89dd8d326749886c8a8824c2040c7ae",
+      "LastCommitAt": "2021-09-30T17:05:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
