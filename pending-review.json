@@ -255,5 +255,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7473#pullrequestreview-768464713"
          }
       }
+   },
+   {
+      "Number": 7474,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-10-01T00:54:34Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7474",
+      "LastCommitSHA": "8906cccf6951d242ecb4099f6a6696ff12f22de9",
+      "LastCommitAt": "2021-10-01T01:07:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
