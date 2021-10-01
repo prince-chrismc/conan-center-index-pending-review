@@ -176,15 +176,17 @@
       "LastCommitAt": "2021-10-01T02:29:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericriff",
-            "SubmittedAt": "2021-09-27T22:42:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7408#pullrequestreview-764813761"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-10-01T20:20:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7408#pullrequestreview-769344237"
          }
       }
    },
@@ -267,6 +269,24 @@
       }
    },
    {
+      "Number": 7481,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2021-10-01T19:08:29Z",
+      "Recipe": "leptonica",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7481",
+      "LastCommitSHA": "1c4538bad5362d836073cf6a9679dce8df34c9ff",
+      "LastCommitAt": "2021-10-01T19:10:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7482,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-10-01T20:05:48Z",
@@ -275,6 +295,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7482",
       "LastCommitSHA": "cfbc22ab588c7ba6022d814d1128a700c4d16e6f",
       "LastCommitAt": "2021-10-01T20:02:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7483,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-10-01T20:59:24Z",
+      "Recipe": "cairo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7483",
+      "LastCommitSHA": "0e06afe15bbb5896ab9e657186d4abb5dbf9cb79",
+      "LastCommitAt": "2021-10-01T20:56:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
