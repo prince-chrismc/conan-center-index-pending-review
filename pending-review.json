@@ -299,5 +299,31 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7476,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-10-01T11:39:32Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7476",
+      "LastCommitSHA": "c5c22b7f938a0c585b4f1a50f2a85f91e7d43afa",
+      "LastCommitAt": "2021-10-01T11:38:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4",
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-10-01T11:54:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7476#pullrequestreview-768871229"
+         }
+      }
    }
 ]
