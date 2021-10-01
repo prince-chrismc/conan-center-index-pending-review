@@ -175,33 +175,6 @@
       }
    },
    {
-      "Number": 7458,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-09-29T09:47:14Z",
-      "Recipe": "aws-c-cal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7458",
-      "LastCommitSHA": "f3b2cf2a5b2bf2ea79c73b2c9b8ac809a1ac7a0a",
-      "LastCommitAt": "2021-09-29T09:44:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-01T13:15:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7458#pullrequestreview-768948663"
-         }
-      }
-   },
-   {
       "Number": 7473,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-09-30T23:41:15Z",
@@ -238,17 +211,18 @@
       "LastCommitAt": "2021-10-01T01:07:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-01T14:02:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7474#pullrequestreview-769009707"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-01T16:18:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7474#pullrequestreview-769157393"
          }
       }
    },
