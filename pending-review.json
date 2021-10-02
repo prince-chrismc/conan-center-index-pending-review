@@ -396,23 +396,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 7496,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-10-02T16:13:35Z",
-      "Recipe": "pango",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7496",
-      "LastCommitSHA": "34e377953a0d8391097426fb265b9522e954d7f6",
-      "LastCommitAt": "2021-10-02T16:09:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
