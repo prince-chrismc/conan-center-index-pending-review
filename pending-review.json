@@ -432,49 +432,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7492",
       "LastCommitSHA": "012a701c69081a9099ed66409b68236fe0a5dfdd",
       "LastCommitAt": "2021-10-02T08:03:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7493,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-10-02T08:07:17Z",
-      "Recipe": "imagl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7493",
-      "LastCommitSHA": "43a118eef2ba9c618ae0255641ab5f39672e7e2b",
-      "LastCommitAt": "2021-10-02T08:06:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7494,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-10-02T08:09:54Z",
-      "Recipe": "andreasbuhr-cppcoro",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7494",
-      "LastCommitSHA": "2fdfa3650f6cb701e37c2511bba94a457921467e",
-      "LastCommitAt": "2021-10-02T08:09:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier",
+            "theirix"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "theirix",
+            "SubmittedAt": "2021-10-02T08:22:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7492#pullrequestreview-769475662"
+         }
       }
    }
 ]
