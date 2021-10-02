@@ -311,22 +311,19 @@
       "Recipe": "aws-c-io",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7487",
-      "LastCommitSHA": "a134ce4404522747f07f766989de260d38dd1f57",
-      "LastCommitAt": "2021-10-01T23:33:42Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "75cc1889b47d9465bf230f71b383c36b9b8569f2",
+      "LastCommitAt": "2021-10-02T12:12:24Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-02T09:33:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7487#pullrequestreview-769479991"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-10-02T12:00:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7487#pullrequestreview-769489182"
          }
       }
    },
