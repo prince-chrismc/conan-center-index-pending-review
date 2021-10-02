@@ -27,6 +27,31 @@
       }
    },
    {
+      "Number": 6606,
+      "OpenedBy": "dvetutnev",
+      "CreatedAt": "2021-07-31T10:10:00Z",
+      "Recipe": "andreasbuhr-cppcoro",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6606",
+      "LastCommitSHA": "ee581f2cba5c2465b76468db608222404085007e",
+      "LastCommitAt": "2021-10-02T11:17:25Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-10-02T14:53:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6606#pullrequestreview-769501298"
+         }
+      }
+   },
+   {
       "Number": 6805,
       "OpenedBy": "erikzenker",
       "CreatedAt": "2021-08-10T20:04:07Z",
@@ -139,15 +164,15 @@
       "LastCommitAt": "2021-10-02T06:17:58Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-02T01:36:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7477#pullrequestreview-769449826"
+            "SubmittedAt": "2021-10-02T14:55:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7477#pullrequestreview-769501440"
          }
       }
    },
@@ -301,32 +326,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-10-02T09:33:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7489#pullrequestreview-769479960"
-         }
-      }
-   },
-   {
-      "Number": 7491,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-10-02T02:30:20Z",
-      "Recipe": "span-lite",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7491",
-      "LastCommitSHA": "ea53ac09282f47843fe5a56d611d17bb28d4215c",
-      "LastCommitAt": "2021-10-02T00:53:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-02T09:32:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7491#pullrequestreview-769479932"
          }
       }
    }
