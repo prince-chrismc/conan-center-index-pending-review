@@ -276,34 +276,6 @@
       }
    },
    {
-      "Number": 7487,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-10-01T23:38:54Z",
-      "Recipe": "aws-c-io",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7487",
-      "LastCommitSHA": "75cc1889b47d9465bf230f71b383c36b9b8569f2",
-      "LastCommitAt": "2021-10-02T12:12:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "theirix",
-            "prince-chrismc",
-            "MartinDelille",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-03T06:37:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7487#pullrequestreview-769550665"
-         }
-      }
-   },
-   {
       "Number": 7489,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-10-02T02:28:26Z",
@@ -460,8 +432,8 @@
       "Recipe": "opencolorio",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7508",
-      "LastCommitSHA": "514ed58b46a7c0347b93201bfa88b5e8b4e8dcdf",
-      "LastCommitAt": "2021-10-03T06:46:58Z",
+      "LastCommitSHA": "12dacf657c5ad8395949acbea471943a62965520",
+      "LastCommitAt": "2021-10-03T07:17:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
