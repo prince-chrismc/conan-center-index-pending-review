@@ -451,7 +451,7 @@
       "LastCommitAt": "2021-10-03T13:12:02Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
+         "Count": 11,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -459,9 +459,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-03T13:25:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7511#pullrequestreview-769587293"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-10-03T21:51:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7511#pullrequestreview-769675768"
          }
       }
    },
@@ -517,24 +517,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7515",
       "LastCommitSHA": "380466c00df0616f03f1cbf93e1367e84dcc449d",
       "LastCommitAt": "2021-10-03T17:20:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7519,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-10-03T20:57:17Z",
-      "Recipe": "unicorn",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7519",
-      "LastCommitSHA": "17abd4aeeb17d6fc5d234d77f436bbf21122f569",
-      "LastCommitAt": "2021-10-03T20:56:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
