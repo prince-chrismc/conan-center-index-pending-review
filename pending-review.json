@@ -355,24 +355,6 @@
       }
    },
    {
-      "Number": 7500,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-10-02T18:53:36Z",
-      "Recipe": "libucl",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7500",
-      "LastCommitSHA": "2664b3fc0def6542bf226b2a707a3dc13ac0642a",
-      "LastCommitAt": "2021-10-02T22:09:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7501,
       "OpenedBy": "redradist",
       "CreatedAt": "2021-10-02T19:04:31Z",
