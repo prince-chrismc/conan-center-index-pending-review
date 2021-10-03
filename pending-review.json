@@ -339,18 +339,19 @@
       "LastCommitAt": "2021-10-02T12:12:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             "theirix",
-            "prince-chrismc"
+            "prince-chrismc",
+            "MartinDelille"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-02T15:26:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7487#pullrequestreview-769503724"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2021-10-02T23:23:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7487#pullrequestreview-769532397"
          }
       }
    },
