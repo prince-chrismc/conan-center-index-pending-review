@@ -258,21 +258,19 @@
       "Recipe": "sqlitecpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7486",
-      "LastCommitSHA": "1c8f95a691b852746041cec1091806ceaf127d8f",
-      "LastCommitAt": "2021-10-01T22:48:58Z",
+      "LastCommitSHA": "a42a76e149083d1d61698a1de0a1144059c4768c",
+      "LastCommitAt": "2021-10-04T03:44:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-04T00:59:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7486#pullrequestreview-769777237"
+            "ReviewerName": "paulo-coutinho",
+            "SubmittedAt": "2021-10-04T03:42:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7486#pullrequestreview-769831881"
          }
       }
    },
