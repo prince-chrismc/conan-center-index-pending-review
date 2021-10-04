@@ -62,17 +62,18 @@
       "LastCommitAt": "2021-10-04T06:29:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 29,
-         "ValidApprovals": 1,
+         "Count": 30,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-04T06:46:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6805#pullrequestreview-769915378"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-10-04T07:36:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6805#pullrequestreview-769951913"
          }
       }
    },
@@ -451,29 +452,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-10-04T01:15:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7505#pullrequestreview-769781279"
-         }
-      }
-   },
-   {
-      "Number": 7511,
-      "OpenedBy": "YaZasnyal",
-      "CreatedAt": "2021-10-03T12:28:37Z",
-      "Recipe": "jpcre2",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7511",
-      "LastCommitSHA": "71312e0e4ad97018465106cbfd0653a9aed7d6d6",
-      "LastCommitAt": "2021-10-04T07:04:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-10-03T21:51:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7511#pullrequestreview-769675768"
          }
       }
    },
