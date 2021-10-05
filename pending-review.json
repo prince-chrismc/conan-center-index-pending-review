@@ -6,19 +6,19 @@
       "Recipe": "cpython",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/1510",
-      "LastCommitSHA": "4c9136d5ac8665e2ff02d5bc71f44e894f626541",
-      "LastCommitAt": "2021-10-04T23:13:03Z",
+      "LastCommitSHA": "6a36b3b67b8ce59d2f70fee05dac6bd44936ec65",
+      "LastCommitAt": "2021-10-05T10:44:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 76,
+         "Count": 77,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-02T20:05:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/1510#pullrequestreview-769522977"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-05T10:43:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/1510#pullrequestreview-771275952"
          }
       }
    },
