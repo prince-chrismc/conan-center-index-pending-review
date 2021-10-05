@@ -135,7 +135,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7293",
       "LastCommitSHA": "98bf3aa2a9b728e667028ff50ec54824ad08d5ca",
       "LastCommitAt": "2021-09-15T10:19:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -320,29 +320,6 @@
       }
    },
    {
-      "Number": 7508,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2021-10-03T06:47:39Z",
-      "Recipe": "opencolorio",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7508",
-      "LastCommitSHA": "44cc2875074589db164117ae958b98b46b0c88c3",
-      "LastCommitAt": "2021-10-05T06:46:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-04T22:59:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7508#pullrequestreview-770841882"
-         }
-      }
-   },
-   {
       "Number": 7527,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-10-04T07:36:03Z",
@@ -394,28 +371,28 @@
       }
    },
    {
-      "Number": 7536,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-10-04T21:19:23Z",
-      "Recipe": "aws-c-auth",
+      "Number": 7541,
+      "OpenedBy": "grafikrobot",
+      "CreatedAt": "2021-10-05T02:52:38Z",
+      "Recipe": "b2",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7536",
-      "LastCommitSHA": "687a4c37fb417e82c2b8c818e6680abfe525e0fb",
-      "LastCommitAt": "2021-10-04T21:17:33Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7541",
+      "LastCommitSHA": "1b540e6a7aa673839ee42b7dc45e1777b66a235c",
+      "LastCommitAt": "2021-10-05T12:27:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 5,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-05T08:05:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7536#pullrequestreview-771109195"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-10-05T13:09:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7541#pullrequestreview-771422343"
          }
       }
    }
