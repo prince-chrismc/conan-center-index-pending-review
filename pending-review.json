@@ -330,60 +330,6 @@
       }
    },
    {
-      "Number": 7544,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2021-10-05T15:00:20Z",
-      "Recipe": "aws-c-mqtt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7544",
-      "LastCommitSHA": "d245eb23f0ae16e2fb6b2f0f2aa2bb4afad21c4d",
-      "LastCommitAt": "2021-10-05T16:26:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-05T20:01:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7544#pullrequestreview-771929608"
-         }
-      }
-   },
-   {
-      "Number": 7545,
-      "OpenedBy": "sparik",
-      "CreatedAt": "2021-10-05T15:58:58Z",
-      "Recipe": "libgpiod",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7545",
-      "LastCommitSHA": "4119d5ced689d68564e7cd32f80090b11ae07674",
-      "LastCommitAt": "2021-10-05T15:57:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-05T19:40:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7545#pullrequestreview-771910901"
-         }
-      }
-   },
-   {
       "Number": 7547,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-10-05T16:21:55Z",
@@ -392,7 +338,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7547",
       "LastCommitSHA": "fa60b0dec5ce1ef3f902b2b110321d05f7730a4d",
       "LastCommitAt": "2021-10-05T16:21:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 3,
@@ -475,6 +421,31 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 7552,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-10-05T17:03:48Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7552",
+      "LastCommitSHA": "056ef9124e3862cb1e75877b4f819544fa0b706c",
+      "LastCommitAt": "2021-10-05T20:36:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-10-05T20:55:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7552#pullrequestreview-771975364"
+         }
       }
    },
    {
