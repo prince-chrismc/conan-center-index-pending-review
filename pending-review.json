@@ -134,17 +134,14 @@
       "Recipe": "opengv",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7408",
-      "LastCommitSHA": "de4f4fad7c14d959eea0ab128123941370cd0578",
-      "LastCommitAt": "2021-10-01T21:19:25Z",
+      "LastCommitSHA": "b78d5fe1cdf5ffac16c5f767c814cf27d36510e6",
+      "LastCommitAt": "2021-10-05T19:06:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -224,33 +221,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2021-10-04T13:08:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7482#pullrequestreview-770271860"
-         }
-      }
-   },
-   {
-      "Number": 7485,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2021-10-01T22:08:45Z",
-      "Recipe": "flint",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7485",
-      "LastCommitSHA": "073fef28afbd3674cd1398437483ea124d2401d3",
-      "LastCommitAt": "2021-10-02T07:21:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-05T18:00:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7485#pullrequestreview-771786980"
          }
       }
    },
