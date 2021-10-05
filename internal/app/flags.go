@@ -2,6 +2,7 @@ package app
 
 import "github.com/urfave/cli/v2"
 
+// DefaultFlags for conan-center-index-pending-review apps
 func DefaultFlags() []cli.Flag {
 	return []cli.Flag{
 		&cli.BoolFlag{

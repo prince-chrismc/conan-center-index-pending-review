@@ -45,6 +45,7 @@ func closedCountValues(d stats.CountAtTime, sorted []time.Time) []float64 {
 	return v
 }
 
+// MakeLineChart showing the duration and count for each unit
 func MakeLineChart(tir stats.DurationAtTime, cpd stats.CountAtTime) chart.Chart {
 	sortedData := inReviewKeys(tir)
 	mainSeries := chart.TimeSeries{

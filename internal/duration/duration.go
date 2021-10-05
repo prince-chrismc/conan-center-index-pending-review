@@ -6,6 +6,7 @@ import (
 	"time"
 )
 
+// Units of Durations
 const (
 	HOUR  = time.Minute * 60
 	DAY   = HOUR * 24

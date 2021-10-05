@@ -7,7 +7,7 @@ import (
 	"github.com/stretchr/testify/assert"
 )
 
-func parseReviewJson(t *testing.T, str string) []*PullRequestReview {
+func parseReviewJSON(t *testing.T, str string) []*PullRequestReview {
 	var files []*PullRequestReview
 
 	if err := json.Unmarshal([]byte(str), &files); err != nil {
@@ -18,7 +18,7 @@ func parseReviewJson(t *testing.T, str string) []*PullRequestReview {
 }
 
 func TestKnowCase6144(t *testing.T) {
-	reviews := parseReviewJson(t, `[
+	reviews := parseReviewJSON(t, `[
 		{
 		  "id": 698590899,
 		  "node_id": "MDE3OlB1bGxSZXF1ZXN0UmV2aWV3Njk4NTkwODk5",

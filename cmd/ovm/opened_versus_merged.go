@@ -19,6 +19,7 @@ import (
 
 const interval = duration.WEEK * 52
 
+// OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
 func OpenVersusMerged(token string, dryRun bool) error {
 	tokenService := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: token},
@@ -44,8 +45,8 @@ func OpenVersusMerged(token string, dryRun bool) error {
 
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
-	countClosedPullRequests(tokenService, context, opw, cxw, mxw, m7xw)
-	countOpenedPullRequests(tokenService, context, opw)
+	countClosedPullRequests(context, client, opw, cxw, mxw, m7xw)
+	countOpenedPullRequests(context, client, opw)
 
 	fmt.Println("::endgroup")
 
@@ -79,9 +80,7 @@ func prCreationDay(pull *github.PullRequest) time.Time {
 	return pull.GetCreatedAt().Truncate(duration.WEEK)
 }
 
-func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime, m7xw stats.CountAtTime) {
-	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
-
+func countClosedPullRequests(context context.Context, client *pending_review.Client, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime, m7xw stats.CountAtTime) {
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
 		State:     "closed",
@@ -123,9 +122,7 @@ func countClosedPullRequests(tokenService oauth2.TokenSource, context context.Co
 	}
 }
 
-func countOpenedPullRequests(tokenService oauth2.TokenSource, context context.Context, opw stats.CountAtTime) {
-	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
-
+func countOpenedPullRequests(context context.Context, client *pending_review.Client, opw stats.CountAtTime) {
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
 		State:     "opened",

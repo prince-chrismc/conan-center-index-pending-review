@@ -6,8 +6,9 @@ import (
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )
 
-const y_axis_padding = 125
+const yAxisPadding = 125
 
+// MakeStackedChart of opened, closed, merged pull requrests
 func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.CountAtTime, m7xw stats.CountAtTime) chart.StackedBarChart {
 	most := opd.Values()[0]
 	bars := []chart.StackedBar{}
@@ -45,6 +46,6 @@ func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.Co
 		Bars:       bars,
 		BarSpacing: 25,
 		Height:     2048,
-		Width:      len(bars)*75 + y_axis_padding,
+		Width:      len(bars)*75 + yAxisPadding,
 	}
 }

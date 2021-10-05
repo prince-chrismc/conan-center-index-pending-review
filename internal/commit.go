@@ -11,6 +11,7 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
+// GetDataFile returns the content of file from the root directory of the raw-data branch
 func GetDataFile(context context.Context, client *pending_review.Client, file string) (*github.RepositoryContent, error) {
 	fileContent, _, _, err := client.Repositories.GetContents(context, "prince-chrismc", "conan-center-index-pending-review", file,
 		&github.RepositoryContentGetOptions{Ref: "raw-data"})
@@ -21,6 +22,7 @@ func GetDataFile(context context.Context, client *pending_review.Client, file st
 	return fileContent, nil
 }
 
+// GetJSONFile returns the JSON structure of file from the root directory of the raw-data branch
 func GetJSONFile(context context.Context, client *pending_review.Client, file string, content interface{}) error {
 	fileContent, err := GetDataFile(context, client, file)
 	if err != nil {

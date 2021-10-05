@@ -5,6 +5,7 @@ import (
 	"strings"
 	"time"
 
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
@@ -92,15 +93,15 @@ func lastReviewTime(pr *pending_review.PullRequestSummary) string {
 		//fmt.Sprint("[", pr.Summary.LastReview.ReviewerName, "](", pr.Summary.LastReview.HTMLURL, ") at ", pr.Summary.LastReview.SubmittedAt.Format("Jan 2")))
 		date := pr.Summary.LastReview.SubmittedAt.Format("Jan 2")
 
-		if time.Since(pr.Summary.LastReview.SubmittedAt) >= time.Hour*24*12 {
+		if time.Since(pr.Summary.LastReview.SubmittedAt) >= duration.DAY*12 {
 			date += " :bell:"
 		}
 
 		return date
-	} else {
-		if time.Since(pr.LastCommitAt) >= time.Hour*24*3 {
-			return ":eyes:"
-		}
+	}
+
+	if time.Since(pr.LastCommitAt) >= duration.DAY*3 {
+		return ":eyes:"
 	}
 
 	return ""

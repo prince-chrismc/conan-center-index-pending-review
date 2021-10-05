@@ -28,6 +28,7 @@ func (c CountAtTime) Count(time time.Time) {
 	}
 }
 
+// Keys returns all the time values recorded sorted
 func (c CountAtTime) Keys() []time.Time {
 	keys := make([]time.Time, len(c)) // Allocate everything in one step for performance
 	idx := 0
@@ -43,6 +44,7 @@ func (c CountAtTime) Keys() []time.Time {
 	return keys
 }
 
+// Values returns all the recorded counters sorted
 func (c CountAtTime) Values() []int {
 	values := make([]int, len(c)) // Allocate everything in one step for performance
 	idx := 0
