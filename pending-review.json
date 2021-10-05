@@ -283,16 +283,14 @@
       "Recipe": "opencolorio",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7508",
-      "LastCommitSHA": "d305cf41bf0dfb3c9868a89482388304ac75c45d",
-      "LastCommitAt": "2021-10-04T08:25:08Z",
+      "LastCommitSHA": "44cc2875074589db164117ae958b98b46b0c88c3",
+      "LastCommitAt": "2021-10-05T06:46:38Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
