@@ -52,7 +52,7 @@ func (s *RepositoryService) GetCommitDate(ctx context.Context, owner string, rep
 // ErrNoCommitStatus available
 var ErrNoCommitStatus = errors.New("no repository status avialble for this commit")
 
-// GetCommitStatus fetches the latest/most recent status available for a commit
+// Deprecated: GetCommitStatus fetches the latest/most recent status available for a commit
 func (s *RepositoryService) GetCommitStatus(ctx context.Context, owner string, repo string, sha string) (*RepoStatus, *Response, error) {
 	statuses, resp, err := s.client.Repositories.ListStatuses(ctx, owner, repo, sha, &ListOptions{
 		Page:    0,
@@ -67,4 +67,18 @@ func (s *RepositoryService) GetCommitStatus(ctx context.Context, owner string, r
 	}
 
 	return statuses[0], resp, nil
+}
+
+// GetStatus fetches the complete status available for a ref
+func (s *RepositoryService) GetStatus(ctx context.Context, owner string, repo string, ref string) (*CombinedStatus, *Response, error) {
+	status, resp, err := s.client.Repositories.GetCombinedStatus(ctx, owner, repo, ref, &ListOptions{})
+	if err != nil {
+		return nil, resp, err
+	}
+
+	if status.GetTotalCount() == 0 {
+		return nil, resp, ErrNoCommitStatus
+	}
+
+	return status, resp, nil
 }

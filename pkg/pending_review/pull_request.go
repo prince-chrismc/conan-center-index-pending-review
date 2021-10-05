@@ -106,7 +106,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		return p, resp, nil
 	}
 
-	status, _, err := s.client.Repository.GetCommitStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
+	status, _, err := s.client.Repository.GetStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
 	if errors.Is(err, ErrNoCommitStatus) {
 		p.CciBotPassed = false
 	} else if err != nil {

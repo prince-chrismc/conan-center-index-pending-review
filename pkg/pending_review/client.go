@@ -28,6 +28,9 @@ type CommitFile = github.CommitFile
 // RepoStatus represents the status of a repository at a particular reference.
 type RepoStatus = github.RepoStatus
 
+// CombinedStatus represents the combined status of a repository at a particular reference.
+type CombinedStatus = github.CombinedStatus
+
 // A Client manages communication with the GitHub API. This wraps the github.Client
 // and provides convenient access to interupt information from CCI prespective
 type Client struct {
