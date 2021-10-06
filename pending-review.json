@@ -51,33 +51,6 @@
       }
    },
    {
-      "Number": 7292,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-09-15T09:30:46Z",
-      "Recipe": "google-cloud-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7292",
-      "LastCommitSHA": "3f7245e0cde8f950fd365f2744495f750b243970",
-      "LastCommitAt": "2021-09-24T14:57:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-02T19:49:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7292#pullrequestreview-769522024"
-         }
-      }
-   },
-   {
       "Number": 7293,
       "OpenedBy": "dev-plvlml",
       "CreatedAt": "2021-09-15T10:55:28Z",
