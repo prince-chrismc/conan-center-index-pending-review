@@ -227,24 +227,6 @@
       }
    },
    {
-      "Number": 7571,
-      "OpenedBy": "YaZasnyal",
-      "CreatedAt": "2021-10-06T17:31:45Z",
-      "Recipe": "opencore-amr",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7571",
-      "LastCommitSHA": "ea792deb237a6a52e474677bb7023a42c61ec05a",
-      "LastCommitAt": "2021-10-07T07:29:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7574,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-10-06T19:18:56Z",
