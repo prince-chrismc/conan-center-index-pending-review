@@ -227,29 +227,21 @@
       }
    },
    {
-      "Number": 7556,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2021-10-05T17:27:35Z",
-      "Recipe": "aws-crt-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7556",
-      "LastCommitSHA": "50454c55665ca9c733f8564da46b3ff2963f05f9",
-      "LastCommitAt": "2021-10-05T16:55:28Z",
-      "CciBotPassed": true,
+      "Number": 7571,
+      "OpenedBy": "YaZasnyal",
+      "CreatedAt": "2021-10-06T17:31:45Z",
+      "Recipe": "opencore-amr",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7571",
+      "LastCommitSHA": "ea792deb237a6a52e474677bb7023a42c61ec05a",
+      "LastCommitAt": "2021-10-07T07:29:35Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-10-07T09:36:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7556#pullrequestreview-773672967"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
