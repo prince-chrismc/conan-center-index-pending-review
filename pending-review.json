@@ -307,33 +307,6 @@
       }
    },
    {
-      "Number": 7575,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-10-06T19:23:44Z",
-      "Recipe": "aws-c-common",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7575",
-      "LastCommitSHA": "b00f29d34f4276f36e0227be095a3892a2d45369",
-      "LastCommitAt": "2021-10-04T10:51:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-07T06:12:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7575#pullrequestreview-773479759"
-         }
-      }
-   },
-   {
       "Number": 7581,
       "OpenedBy": "TheClonerx",
       "CreatedAt": "2021-10-06T22:51:42Z",
