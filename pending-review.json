@@ -175,31 +175,6 @@
       }
    },
    {
-      "Number": 7565,
-      "OpenedBy": "seemk",
-      "CreatedAt": "2021-10-06T12:02:33Z",
-      "Recipe": "splunk-opentelemetry",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7565",
-      "LastCommitSHA": "5112c17ae581c87db1abc94f7e56824558d542ca",
-      "LastCommitAt": "2021-10-07T16:51:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "uilianries"
-         ],
-         "LastReview": {
-            "ReviewerName": "seemk",
-            "SubmittedAt": "2021-10-07T16:45:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7565#pullrequestreview-774159970"
-         }
-      }
-   },
-   {
       "Number": 7574,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-10-06T19:18:56Z",
