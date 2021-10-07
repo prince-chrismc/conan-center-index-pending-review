@@ -97,32 +97,6 @@
       }
    },
    {
-      "Number": 7445,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-09-28T07:38:21Z",
-      "Recipe": "magnum-extras",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7445",
-      "LastCommitSHA": "725f862068e851d56a067372cc3e4ca0ceb70439",
-      "LastCommitAt": "2021-10-06T07:35:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-07T16:56:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7445#pullrequestreview-774170699"
-         }
-      }
-   },
-   {
       "Number": 7550,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-10-05T16:36:45Z",
