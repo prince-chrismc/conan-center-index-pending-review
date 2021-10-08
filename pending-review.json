@@ -398,5 +398,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7611,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-10-08T18:36:55Z",
+      "Recipe": "libudev",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7611",
+      "LastCommitSHA": "8014ffd80645220cf164093287111c63d2d3b146",
+      "LastCommitAt": "2021-10-08T18:50:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
