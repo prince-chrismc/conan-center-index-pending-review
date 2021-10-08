@@ -123,32 +123,6 @@
       }
    },
    {
-      "Number": 7563,
-      "OpenedBy": "jpilet",
-      "CreatedAt": "2021-10-06T08:58:55Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7563",
-      "LastCommitSHA": "741ded553829ddfa651919f63b75dc961348d094",
-      "LastCommitAt": "2021-10-07T12:55:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "MartinDelille"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-08T07:05:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7563#pullrequestreview-774661122"
-         }
-      }
-   },
-   {
       "Number": 7571,
       "OpenedBy": "YaZasnyal",
       "CreatedAt": "2021-10-06T17:31:45Z",
