@@ -416,23 +416,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 7613,
-      "OpenedBy": "rdeterre",
-      "CreatedAt": "2021-10-08T20:11:33Z",
-      "Recipe": "llvm",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7613",
-      "LastCommitSHA": "905ad6138f94feb606e256ac22f88aff0fb1bf84",
-      "LastCommitAt": "2021-10-08T18:49:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
