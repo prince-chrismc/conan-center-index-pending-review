@@ -133,7 +133,7 @@
       "LastCommitAt": "2021-10-07T12:55:46Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -142,9 +142,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2021-10-07T14:53:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7563#pullrequestreview-774023379"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-10-08T01:12:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7563#pullrequestreview-774514506"
          }
       }
    },
@@ -159,17 +159,18 @@
       "LastCommitAt": "2021-10-07T17:54:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
+         "Count": 8,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-10-07T21:51:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7571#pullrequestreview-774428696"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-10-08T01:13:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7571#pullrequestreview-774516609"
          }
       }
    },
@@ -208,6 +209,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7585",
       "LastCommitSHA": "85be65fc9ed93cd4dbab68fd76f44c347e39e7aa",
       "LastCommitAt": "2021-10-07T18:26:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7586,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2021-10-07T20:02:48Z",
+      "Recipe": "json_dto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7586",
+      "LastCommitSHA": "1d1df7ab19b386ba5c92c048669485b19282cc82",
+      "LastCommitAt": "2021-10-08T01:21:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
