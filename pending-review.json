@@ -121,5 +121,77 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7586#pullrequestreview-774982793"
          }
       }
+   },
+   {
+      "Number": 7600,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-10-08T14:08:29Z",
+      "Recipe": "libgit2",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7600",
+      "LastCommitSHA": "4026dcb123218f9c31ec7605a15bc2c07c2d2bb7",
+      "LastCommitAt": "2021-10-08T12:38:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7601,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-10-08T14:09:23Z",
+      "Recipe": "libsvm",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7601",
+      "LastCommitSHA": "746e2d94ce18fe73761843bd1f95828c0cf943d0",
+      "LastCommitAt": "2021-10-08T12:35:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7602,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-10-08T14:09:41Z",
+      "Recipe": "libsrtp",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7602",
+      "LastCommitSHA": "3ded963e4690f9d18b4dd4545f315b358389e3db",
+      "LastCommitAt": "2021-10-08T12:34:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7603,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2021-10-08T14:10:31Z",
+      "Recipe": "libwebsockets",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7603",
+      "LastCommitSHA": "a2e252e089da17a0d6693e86576e1d84f1d18740",
+      "LastCommitAt": "2021-10-08T12:41:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
