@@ -212,7 +212,7 @@
       "LastCommitAt": "2021-10-09T06:13:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -222,8 +222,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-09T13:03:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7611#pullrequestreview-775577048"
+            "SubmittedAt": "2021-10-09T13:23:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7611#pullrequestreview-775578558"
          }
       }
    },
@@ -263,17 +263,18 @@
       "LastCommitAt": "2021-10-08T18:24:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-09T08:07:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7617#pullrequestreview-775556290"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-10-09T14:11:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7617#pullrequestreview-775581884"
          }
       }
    },
@@ -288,17 +289,18 @@
       "LastCommitAt": "2021-10-08T18:31:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-09T08:07:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7618#pullrequestreview-775556277"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-10-09T14:11:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7618#pullrequestreview-775581874"
          }
       }
    },
