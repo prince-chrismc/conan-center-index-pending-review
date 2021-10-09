@@ -313,17 +313,18 @@
       "LastCommitAt": "2021-10-09T01:24:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-09T08:07:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7620#pullrequestreview-775556263"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-10-09T09:22:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7620#pullrequestreview-775562042"
          }
       }
    },
