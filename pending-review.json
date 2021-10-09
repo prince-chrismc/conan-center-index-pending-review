@@ -179,16 +179,14 @@
       "Recipe": "libudev",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7611",
-      "LastCommitSHA": "8014ffd80645220cf164093287111c63d2d3b146",
-      "LastCommitAt": "2021-10-08T18:50:12Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "08234ff85702fb782fda61a07e4355de7819b72d",
+      "LastCommitAt": "2021-10-09T06:13:43Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
