@@ -360,5 +360,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7630,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-10-10T04:19:19Z",
+      "Recipe": "cista",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7630",
+      "LastCommitSHA": "4988e081f94a2ce6e29fc04619e94e73a38a1ff1",
+      "LastCommitAt": "2021-10-10T11:50:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
