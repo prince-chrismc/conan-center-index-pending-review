@@ -358,17 +358,18 @@
       "LastCommitAt": "2021-10-10T14:53:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-10T15:39:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7631#pullrequestreview-775684669"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-10-10T19:25:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7631#pullrequestreview-775702912"
          }
       }
    },
@@ -424,7 +425,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7636",
       "LastCommitSHA": "1ba6247d5ee7ce5b02d8e245b128895c563efb22",
       "LastCommitAt": "2021-10-10T15:34:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -449,7 +450,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7637",
       "LastCommitSHA": "4b55ba076448477e43cd30d994dca39763dca56a",
       "LastCommitAt": "2021-10-10T15:36:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
