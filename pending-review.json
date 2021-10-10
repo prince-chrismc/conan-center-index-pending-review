@@ -379,8 +379,8 @@
       "Recipe": "foonathan-memory",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7632",
-      "LastCommitSHA": "609bd6c58bd381300c4dc5be9febeb80218bd17d",
-      "LastCommitAt": "2021-10-10T16:29:11Z",
+      "LastCommitSHA": "30fd667579d217c9ad4fd2738428424b56efd73a",
+      "LastCommitAt": "2021-10-10T17:35:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
