@@ -226,60 +226,6 @@
       }
    },
    {
-      "Number": 7617,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-10-08T22:55:35Z",
-      "Recipe": "hiredis",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7617",
-      "LastCommitSHA": "3cc25eb09fd55c5ebdc097c386d9d9d3cddad07b",
-      "LastCommitAt": "2021-10-08T18:24:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "intelligide",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-09T22:45:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7617#pullrequestreview-775613233"
-         }
-      }
-   },
-   {
-      "Number": 7618,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-10-08T22:59:01Z",
-      "Recipe": "mongo-cxx-driver",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7618",
-      "LastCommitSHA": "c3b0f59ed22fc89bb9a93d467e96347c5e599351",
-      "LastCommitAt": "2021-10-08T18:31:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "intelligide",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-09T22:47:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7618#pullrequestreview-775613304"
-         }
-      }
-   },
-   {
       "Number": 7619,
       "OpenedBy": "TheClonerx",
       "CreatedAt": "2021-10-08T23:58:51Z",
@@ -337,46 +283,19 @@
       "Recipe": "docs",
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7621",
-      "LastCommitSHA": "b234eb1fae5b26c2d554283de0aa1219f63c2d9f",
-      "LastCommitAt": "2021-10-09T01:36:01Z",
+      "LastCommitSHA": "5850ecfc6cce8669f5f1e7f624104553bcdd0b4e",
+      "LastCommitAt": "2021-10-10T00:29:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-10-09T22:47:17Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7621#pullrequestreview-775613287"
-         }
-      }
-   },
-   {
-      "Number": 7624,
-      "OpenedBy": "TheClonerx",
-      "CreatedAt": "2021-10-09T23:07:29Z",
-      "Recipe": "bison",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7624",
-      "LastCommitSHA": "a45dcd993e89bf2702fe23b4cece928c14a8d9f2",
-      "LastCommitAt": "2021-10-09T23:05:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-09T23:08:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7624#pullrequestreview-775614287"
          }
       }
    },
@@ -387,8 +306,44 @@
       "Recipe": "sfml",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7625",
-      "LastCommitSHA": "fe40e4bd640ff87433044d0bad44b1b5a3c08970",
-      "LastCommitAt": "2021-10-09T23:08:39Z",
+      "LastCommitSHA": "05a71295824803c8a2bd9c2856cd5b097f5f4f9a",
+      "LastCommitAt": "2021-10-09T23:50:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7626,
+      "OpenedBy": "TheClonerx",
+      "CreatedAt": "2021-10-09T23:38:10Z",
+      "Recipe": "autoconf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7626",
+      "LastCommitSHA": "d26818b0a23a303226676c52cfdb89b875eb9de3",
+      "LastCommitAt": "2021-10-09T23:37:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7628,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-10-10T00:22:53Z",
+      "Recipe": "libfreenect2",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7628",
+      "LastCommitSHA": "9cd012f021a5b0569d81b4ea5bc97bcf892daf41",
+      "LastCommitAt": "2021-10-10T00:10:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
