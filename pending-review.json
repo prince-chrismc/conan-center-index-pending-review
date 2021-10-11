@@ -1,32 +1,5 @@
 [
    {
-      "Number": 6571,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2021-07-28T14:26:21Z",
-      "Recipe": "arrow",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6571",
-      "LastCommitSHA": "0690d26ed119fb3dde38569ed30a3caafe9a1172",
-      "LastCommitAt": "2021-10-01T21:02:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4",
-            "jgsogo"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-10-11T08:09:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6571#pullrequestreview-775926203"
-         }
-      }
-   },
-   {
       "Number": 7040,
       "OpenedBy": "TheClonerx",
       "CreatedAt": "2021-08-24T23:41:02Z",
@@ -207,33 +180,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-10-10T00:45:03Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7609#pullrequestreview-775618200"
-         }
-      }
-   },
-   {
-      "Number": 7620,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-10-09T01:25:01Z",
-      "Recipe": "librdkafka",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7620",
-      "LastCommitSHA": "36d7f9afe488be6d51f0943eef27b1a64c791664",
-      "LastCommitAt": "2021-10-09T01:24:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "Croydon",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-10-11T08:12:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7620#pullrequestreview-775928744"
          }
       }
    },
@@ -499,6 +445,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7641",
       "LastCommitSHA": "8d43525cc9ba7ccfcd1ab3046204e8156afb4ab8",
       "LastCommitAt": "2021-10-11T04:27:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7643,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-10-11T08:27:52Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7643",
+      "LastCommitSHA": "96474105a96d24ab7b735b6afc126614cb8158f9",
+      "LastCommitAt": "2021-10-11T08:27:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
