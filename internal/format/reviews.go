@@ -55,7 +55,7 @@ func underWay(pr *pending_review.PullRequestSummary) string {
 func toMerge(pr *pending_review.PullRequestSummary) string {
 	var retval string
 	title := title(pr.Change, pr.Recipe)
-	if !pr.CciBotPassed && pr.Summary.IsApproved() { //TODO(prince-chrismc): Always display bad commit statuses?
+	if (!pr.CciBotPassed && pr.Change != pending_review.DOCS) && pr.Summary.IsApproved() { //TODO(prince-chrismc): Always display bad commit statuses?
 		title = ":warning: " + pr.Recipe
 	}
 
