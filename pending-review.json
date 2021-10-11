@@ -3,19 +3,17 @@
       "Number": 7040,
       "OpenedBy": "TheClonerx",
       "CreatedAt": "2021-08-24T23:41:02Z",
-      "Recipe": "game-networking-sockets",
+      "Recipe": "gamenetworkingsockets",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7040",
-      "LastCommitSHA": "f46a753d4932e97064cf1b178552d2d87122756a",
-      "LastCommitAt": "2021-10-08T21:55:01Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "2e2bbd6b81d552dd4e5753317f949e4a245ceced",
+      "LastCommitAt": "2021-10-11T20:29:06Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 14,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
