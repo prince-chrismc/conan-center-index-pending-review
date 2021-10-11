@@ -110,32 +110,6 @@
       }
    },
    {
-      "Number": 7609,
-      "OpenedBy": "sh0",
-      "CreatedAt": "2021-10-08T14:36:20Z",
-      "Recipe": "theora",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7609",
-      "LastCommitSHA": "bf7a8b6c8b2a9ee59aabb91bd293ed2f7c6a053c",
-      "LastCommitAt": "2021-10-08T14:26:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-10T00:45:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7609#pullrequestreview-775618200"
-         }
-      }
-   },
-   {
       "Number": 7621,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2021-10-09T01:36:09Z",
@@ -332,24 +306,6 @@
             "SubmittedAt": "2021-10-11T08:14:57Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7638#pullrequestreview-775931414"
          }
-      }
-   },
-   {
-      "Number": 7641,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-10-11T02:10:05Z",
-      "Recipe": "embree3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7641",
-      "LastCommitSHA": "8d43525cc9ba7ccfcd1ab3046204e8156afb4ab8",
-      "LastCommitAt": "2021-10-11T04:27:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
