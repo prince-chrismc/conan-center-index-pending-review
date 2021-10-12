@@ -136,6 +136,29 @@
       }
    },
    {
+      "Number": 7632,
+      "OpenedBy": "dotChris90",
+      "CreatedAt": "2021-10-10T13:23:24Z",
+      "Recipe": "foonathan-memory",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7632",
+      "LastCommitSHA": "9527acfeea03e14a0ecb9eefa24dee9f4e532170",
+      "LastCommitAt": "2021-10-12T06:50:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-11T15:28:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7632#pullrequestreview-776413209"
+         }
+      }
+   },
+   {
       "Number": 7636,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-10-10T15:34:39Z",
@@ -247,15 +270,18 @@
       "LastCommitAt": "2021-10-11T17:19:46Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "ericLemanissier",
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-10-11T16:57:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7655#pullrequestreview-776499285"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-12T08:15:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7655#pullrequestreview-777029266"
          }
       }
    },
