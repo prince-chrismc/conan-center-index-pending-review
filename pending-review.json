@@ -54,7 +54,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7510",
       "LastCommitSHA": "3c4fe47dedabeaaf6af5487750336bbcc9771b18",
       "LastCommitAt": "2021-10-12T01:48:24Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 40,
          "ValidApprovals": 0,
@@ -201,19 +201,20 @@
       "LastCommitAt": "2021-10-10T15:34:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
+         "Count": 4,
+         "ValidApprovals": 4,
          "TeamApproval": true,
          "Approvals": [
             "Croydon",
             "uilianries",
-            "prince-chrismc"
+            "prince-chrismc",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-11T23:09:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7636#pullrequestreview-776761110"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-10-12T02:43:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7636#pullrequestreview-776836366"
          }
       }
    },
