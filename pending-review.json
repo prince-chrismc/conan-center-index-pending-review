@@ -151,9 +151,9 @@
       "Recipe": "bitserializer",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7593",
-      "LastCommitSHA": "86a8cd80df3074d3ac2f9363de597eebc6bf7052",
-      "LastCommitAt": "2021-10-12T17:56:01Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "bed40c94bd4688e516dfc8eb0671a4086f8981a8",
+      "LastCommitAt": "2021-10-12T21:02:22Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
