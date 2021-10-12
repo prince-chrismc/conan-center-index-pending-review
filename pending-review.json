@@ -145,6 +145,29 @@
       }
    },
    {
+      "Number": 7593,
+      "OpenedBy": "PavelKisliak",
+      "CreatedAt": "2021-10-07T20:52:31Z",
+      "Recipe": "bitserializer",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7593",
+      "LastCommitSHA": "86a8cd80df3074d3ac2f9363de597eebc6bf7052",
+      "LastCommitAt": "2021-10-12T17:56:01Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "PavelKisliak",
+            "SubmittedAt": "2021-10-11T20:56:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7593#pullrequestreview-776656563"
+         }
+      }
+   },
+   {
       "Number": 7597,
       "OpenedBy": "Psy-Kai",
       "CreatedAt": "2021-10-08T10:41:44Z",
@@ -414,6 +437,24 @@
             "SubmittedAt": "2021-10-12T14:17:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7663#pullrequestreview-777448300"
          }
+      }
+   },
+   {
+      "Number": 7666,
+      "OpenedBy": "dBagrat",
+      "CreatedAt": "2021-10-12T20:02:24Z",
+      "Recipe": "imgui",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7666",
+      "LastCommitSHA": "e194848f5c63947e14dbeba08c0212fe63332b8c",
+      "LastCommitAt": "2021-10-12T19:19:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
