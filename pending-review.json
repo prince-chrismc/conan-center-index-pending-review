@@ -148,7 +148,7 @@
       "LastCommitAt": "2021-10-11T22:35:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 6,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -156,9 +156,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-10-12T13:37:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7629#pullrequestreview-777396561"
+            "ReviewerName": "kobi-ca",
+            "SubmittedAt": "2021-10-12T17:33:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7629#pullrequestreview-777673647"
          }
       }
    },
