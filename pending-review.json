@@ -233,64 +233,6 @@
       }
    },
    {
-      "Number": 7636,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-10-10T15:34:39Z",
-      "Recipe": "pango",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7636",
-      "LastCommitSHA": "1ba6247d5ee7ce5b02d8e245b128895c563efb22",
-      "LastCommitAt": "2021-10-10T15:34:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 5,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "uilianries",
-            "prince-chrismc",
-            "SpaceIm",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-10-12T13:35:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7636#pullrequestreview-777394193"
-         }
-      }
-   },
-   {
-      "Number": 7637,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-10-10T15:37:19Z",
-      "Recipe": "pango",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7637",
-      "LastCommitSHA": "4b55ba076448477e43cd30d994dca39763dca56a",
-      "LastCommitAt": "2021-10-10T15:36:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "a4z",
-            "Croydon",
-            "uilianries",
-            "ericLemanissier",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-10-12T13:35:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7637#pullrequestreview-777394098"
-         }
-      }
-   },
-   {
       "Number": 7641,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-10-11T02:10:05Z",
@@ -354,17 +296,18 @@
       "LastCommitAt": "2021-10-11T19:15:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-12T00:35:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7658#pullrequestreview-776791450"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-13T09:14:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7658#pullrequestreview-778306379"
          }
       }
    },
@@ -455,19 +398,38 @@
       "LastCommitAt": "2021-10-12T19:19:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "jgsogo"
+            "jgsogo",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-10-13T08:34:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7666#pullrequestreview-778260805"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-13T09:14:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7666#pullrequestreview-778305961"
          }
+      }
+   },
+   {
+      "Number": 7668,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-13T08:25:28Z",
+      "Recipe": "msys2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7668",
+      "LastCommitSHA": "04c350eb5222f69396439c49f37c2d954e816760",
+      "LastCommitAt": "2021-10-13T09:02:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
