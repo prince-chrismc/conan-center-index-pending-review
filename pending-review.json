@@ -145,31 +145,6 @@
       }
    },
    {
-      "Number": 7565,
-      "OpenedBy": "seemk",
-      "CreatedAt": "2021-10-06T12:02:33Z",
-      "Recipe": "splunk-opentelemetry",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7565",
-      "LastCommitSHA": "52033a30655598e35b38e803cda5ca9ab4afd7a4",
-      "LastCommitAt": "2021-10-12T18:05:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "uilianries"
-         ],
-         "LastReview": {
-            "ReviewerName": "seemk",
-            "SubmittedAt": "2021-10-12T17:57:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7565#pullrequestreview-777695020"
-         }
-      }
-   },
-   {
       "Number": 7593,
       "OpenedBy": "PavelKisliak",
       "CreatedAt": "2021-10-07T20:52:31Z",
@@ -447,20 +422,39 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7675",
       "LastCommitSHA": "456e4e95d8b0b99151ed4323b42a36ae62d6060f",
       "LastCommitAt": "2021-10-13T15:45:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-13T15:59:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7675#pullrequestreview-778790258"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-13T18:04:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7675#pullrequestreview-778927642"
          }
+      }
+   },
+   {
+      "Number": 7677,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-10-13T16:43:53Z",
+      "Recipe": "daw_header_libraries",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7677",
+      "LastCommitSHA": "81f19f376ba360ab0a118351c0997ac983431a65",
+      "LastCommitAt": "2021-10-13T17:14:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
