@@ -387,6 +387,31 @@
       }
    },
    {
+      "Number": 7658,
+      "OpenedBy": "datalogics-kam",
+      "CreatedAt": "2021-10-11T20:22:37Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7658",
+      "LastCommitSHA": "99bf9dfba297dc3b199382f31bd447cfcdd26c7e",
+      "LastCommitAt": "2021-10-11T19:15:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-10-12T00:35:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7658#pullrequestreview-776791450"
+         }
+      }
+   },
+   {
       "Number": 7659,
       "OpenedBy": "github-actions[bot]",
       "CreatedAt": "2021-10-12T05:03:01Z",
