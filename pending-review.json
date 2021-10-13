@@ -8,17 +8,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7040",
       "LastCommitSHA": "58c76d45d36a92b952ee8094274df67ca0a773c4",
       "LastCommitAt": "2021-10-11T23:32:47Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 15,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 16,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-10-11T21:28:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7040#pullrequestreview-776675247"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-10-13T11:08:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7040#pullrequestreview-778422656"
          }
       }
    },
@@ -322,18 +324,19 @@
       "LastCommitAt": "2021-10-12T05:02:54Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "intelligide"
+            "intelligide",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-10-12T13:38:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7659#pullrequestreview-777397478"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-10-13T10:24:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7659#pullrequestreview-778381494"
          }
       }
    },
