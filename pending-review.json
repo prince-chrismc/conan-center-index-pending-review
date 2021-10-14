@@ -411,6 +411,49 @@
       "LastCommitAt": "2021-10-14T08:48:36Z",
       "CciBotPassed": false,
       "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-14T09:34:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7680#pullrequestreview-779531912"
+         }
+      }
+   },
+   {
+      "Number": 7681,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-10-14T09:33:02Z",
+      "Recipe": "libjpeg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7681",
+      "LastCommitSHA": "41fdd5f35cccb4af8176019cda6a8b26fd61f179",
+      "LastCommitAt": "2021-10-14T09:32:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7682,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-10-14T09:41:27Z",
+      "Recipe": "aaf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7682",
+      "LastCommitSHA": "783cec2941de621c15e45bc78ee53f0e72d5040e",
+      "LastCommitAt": "2021-10-11T08:56:00Z",
+      "CciBotPassed": false,
+      "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
