@@ -349,17 +349,18 @@
       "LastCommitAt": "2021-10-13T09:02:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-13T11:19:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7668#pullrequestreview-778432302"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-10-14T07:37:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7668#pullrequestreview-779409637"
          }
       }
    },
