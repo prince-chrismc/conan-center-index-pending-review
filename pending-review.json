@@ -407,5 +407,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7679,
+      "OpenedBy": "sparik",
+      "CreatedAt": "2021-10-13T23:19:56Z",
+      "Recipe": "libfuse",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7679",
+      "LastCommitSHA": "3fbefedcd61509b55685fa6461ff9e34c4284d58",
+      "LastCommitAt": "2021-10-13T23:19:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
