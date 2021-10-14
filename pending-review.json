@@ -315,6 +315,29 @@
       }
    },
    {
+      "Number": 7679,
+      "OpenedBy": "sparik",
+      "CreatedAt": "2021-10-13T23:19:56Z",
+      "Recipe": "libfuse",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7679",
+      "LastCommitSHA": "f8765ddedca26eb386649350ef4f0592e1961727",
+      "LastCommitAt": "2021-10-14T17:35:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-14T12:54:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7679#pullrequestreview-779721470"
+         }
+      }
+   },
+   {
       "Number": 7681,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-10-14T09:33:02Z",
