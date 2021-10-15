@@ -444,6 +444,31 @@
       }
    },
    {
+      "Number": 7695,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-15T14:32:18Z",
+      "Recipe": "djinni-support-lib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7695",
+      "LastCommitSHA": "ddb0d5bc0997756db1d4739292b870e2d76e0453",
+      "LastCommitAt": "2021-10-15T14:58:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-10-15T15:03:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7695#pullrequestreview-780947189"
+         }
+      }
+   },
+   {
       "Number": 7696,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-10-15T14:54:43Z",
@@ -466,6 +491,60 @@
             "SubmittedAt": "2021-10-15T15:03:42Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7696#pullrequestreview-780947892"
          }
+      }
+   },
+   {
+      "Number": 7697,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-15T15:25:29Z",
+      "Recipe": "gobject-introspection",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7697",
+      "LastCommitSHA": "4d0da0f0633040d2fdf2e408fc02f4d03b5cf489",
+      "LastCommitAt": "2021-10-15T12:37:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7698,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-15T15:25:44Z",
+      "Recipe": "gst-plugins-base",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7698",
+      "LastCommitSHA": "15c5ff1b5ca372c71f670082b19cb8aa425f9dc4",
+      "LastCommitAt": "2021-10-15T12:42:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7699,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-15T15:25:58Z",
+      "Recipe": "gstreamer",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7699",
+      "LastCommitSHA": "4eb799f51f3c0e530a106f82a58ddc3e0a7e6f57",
+      "LastCommitAt": "2021-10-15T12:38:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
