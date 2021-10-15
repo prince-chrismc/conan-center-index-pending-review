@@ -320,34 +320,6 @@
       }
    },
    {
-      "Number": 7686,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2021-10-14T21:56:41Z",
-      "Recipe": "fmt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7686",
-      "LastCommitSHA": "f76ca539317db9900805426cfe8cd35eb7ab2f43",
-      "LastCommitAt": "2021-10-15T11:09:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "uilianries",
-            "jgsogo",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-10-15T12:39:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7686#pullrequestreview-780791030"
-         }
-      }
-   },
-   {
       "Number": 7690,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-10-15T08:36:56Z",
@@ -531,6 +503,78 @@
             "SubmittedAt": "2021-10-15T16:25:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7699#pullrequestreview-781028541"
          }
+      }
+   },
+   {
+      "Number": 7700,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-15T15:32:04Z",
+      "Recipe": "wt",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7700",
+      "LastCommitSHA": "45b23a12377cf4132c6b7f1c35c1168d667e1f80",
+      "LastCommitAt": "2021-10-15T15:44:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7701,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-10-15T18:34:49Z",
+      "Recipe": "mozilla-build",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7701",
+      "LastCommitSHA": "abb632475ac3799778cecce08f1ce35f54a4db75",
+      "LastCommitAt": "2021-10-15T18:32:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7702,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-10-15T18:52:10Z",
+      "Recipe": "depot_tools",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7702",
+      "LastCommitSHA": "b2b198e0c0fbd4eebbaf27a68ef960e0146d4462",
+      "LastCommitAt": "2021-10-15T18:45:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7703,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-10-15T19:07:37Z",
+      "Recipe": "ragel",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7703",
+      "LastCommitSHA": "809d89c39e69cc99d37e44d1ca8eb37d77a252da",
+      "LastCommitAt": "2021-10-15T19:03:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
