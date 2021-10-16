@@ -448,24 +448,6 @@
       }
    },
    {
-      "Number": 7717,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:51:40Z",
-      "Recipe": "libsamplerate",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7717",
-      "LastCommitSHA": "1a97dfc98b7ede9eba35f0005844f5cd55112322",
-      "LastCommitAt": "2021-10-16T12:40:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7718,
       "OpenedBy": "intelligide",
       "CreatedAt": "2021-10-16T16:51:48Z",
@@ -510,78 +492,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7720",
       "LastCommitSHA": "0a0e759452d185dd30ac9659b171a3b6164ee84a",
       "LastCommitAt": "2021-10-16T12:32:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7721,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:52:17Z",
-      "Recipe": "inih",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7721",
-      "LastCommitSHA": "c73e66c7610753b266f2191fec918bc6677588f7",
-      "LastCommitAt": "2021-10-16T12:32:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7722,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:52:24Z",
-      "Recipe": "huffman",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7722",
-      "LastCommitSHA": "4ccc936e771670f2762d0b834400503f52a11609",
-      "LastCommitAt": "2021-10-16T12:34:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7723,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:52:31Z",
-      "Recipe": "hidapi",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7723",
-      "LastCommitSHA": "63383a0c214a2efd523f332f2eebc1d2f6cf102d",
-      "LastCommitAt": "2021-10-16T12:33:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7724,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:52:43Z",
-      "Recipe": "fribidi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7724",
-      "LastCommitSHA": "0a5ff8f45217f4e85f768a749aa0f4b1fe7eeca0",
-      "LastCommitAt": "2021-10-16T12:39:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
