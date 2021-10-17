@@ -366,56 +366,27 @@
       }
    },
    {
-      "Number": 7716,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:51:33Z",
-      "Recipe": "librdkafka",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7716",
-      "LastCommitSHA": "6b32f021e0f57aed76e6aa0a17a185120d3a1947",
-      "LastCommitAt": "2021-10-16T12:40:57Z",
+      "Number": 7712,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-10-16T13:17:49Z",
+      "Recipe": "daw_utf_range",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7712",
+      "LastCommitSHA": "349d2e840d576609ee478f2077885eeebd835ae6",
+      "LastCommitAt": "2021-10-17T13:29:03Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier",
-            "SSE4",
             "madebr"
          ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-17T12:20:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7716#pullrequestreview-781443609"
-         }
-      }
-   },
-   {
-      "Number": 7718,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:51:48Z",
-      "Recipe": "libbpf",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7718",
-      "LastCommitSHA": "06190690beae8f56017e69b7444ab1c2afcc4e68",
-      "LastCommitAt": "2021-10-16T12:36:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-17T12:21:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7718#pullrequestreview-781443682"
+            "SubmittedAt": "2021-10-17T13:44:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7712#pullrequestreview-781451883"
          }
       }
    },
