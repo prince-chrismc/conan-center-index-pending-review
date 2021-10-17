@@ -155,16 +155,14 @@
       "Recipe": "foonathan-memory",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7632",
-      "LastCommitSHA": "9527acfeea03e14a0ecb9eefa24dee9f4e532170",
-      "LastCommitAt": "2021-10-12T06:50:14Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "19419c479c20cb1aae93d661c34c3c0afd3112a6",
+      "LastCommitAt": "2021-10-17T06:54:27Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 8,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -627,13 +625,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7730",
       "LastCommitSHA": "255bc393f2b6c7922c1629c8c8dec8de1fbcc81b",
       "LastCommitAt": "2021-10-17T04:39:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-17T06:36:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7730#pullrequestreview-781413442"
+         }
       }
    }
 ]
