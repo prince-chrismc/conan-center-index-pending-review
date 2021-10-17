@@ -391,60 +391,6 @@
       }
    },
    {
-      "Number": 7725,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:52:52Z",
-      "Recipe": "emsdk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7725",
-      "LastCommitSHA": "f9ac28bfca7a799edce1fec501c1ccf74b69ed16",
-      "LastCommitAt": "2021-10-16T12:32:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-17T12:24:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7725#pullrequestreview-781444029"
-         }
-      }
-   },
-   {
-      "Number": 7726,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:53:04Z",
-      "Recipe": "asio",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7726",
-      "LastCommitSHA": "9a861a9ffb01603a77524ea00589e8fefd4c2b2c",
-      "LastCommitAt": "2021-10-16T12:39:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-17T12:24:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7726#pullrequestreview-781444060"
-         }
-      }
-   },
-   {
       "Number": 7727,
       "OpenedBy": "intelligide",
       "CreatedAt": "2021-10-16T16:53:12Z",
@@ -480,7 +426,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7730",
       "LastCommitSHA": "255bc393f2b6c7922c1629c8c8dec8de1fbcc81b",
       "LastCommitAt": "2021-10-17T04:39:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
