@@ -109,17 +109,18 @@
       "LastCommitAt": "2021-10-11T19:42:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 1,
+         "Count": 10,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-15T14:14:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7584#pullrequestreview-780890313"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-17T17:04:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7584#pullrequestreview-781470961"
          }
       }
    },
@@ -145,29 +146,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-10-15T12:18:58Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7597#pullrequestreview-780774317"
-         }
-      }
-   },
-   {
-      "Number": 7632,
-      "OpenedBy": "dotChris90",
-      "CreatedAt": "2021-10-10T13:23:24Z",
-      "Recipe": "foonathan-memory",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7632",
-      "LastCommitSHA": "19419c479c20cb1aae93d661c34c3c0afd3112a6",
-      "LastCommitAt": "2021-10-17T06:54:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-15T21:16:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7632#pullrequestreview-781241421"
          }
       }
    },
@@ -391,33 +369,6 @@
       }
    },
    {
-      "Number": 7727,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2021-10-16T16:53:12Z",
-      "Recipe": "arduinojson",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7727",
-      "LastCommitSHA": "89ea3ad5fee6c1d08b7b2e78766c0ab12d93dbaa",
-      "LastCommitAt": "2021-10-16T12:32:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-17T12:25:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7727#pullrequestreview-781444079"
-         }
-      }
-   },
-   {
       "Number": 7730,
       "OpenedBy": "toge",
       "CreatedAt": "2021-10-17T04:52:31Z",
@@ -467,24 +418,6 @@
             "SubmittedAt": "2021-10-17T12:26:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7731#pullrequestreview-781444191"
          }
-      }
-   },
-   {
-      "Number": 7732,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-10-17T12:58:05Z",
-      "Recipe": "cairo",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7732",
-      "LastCommitSHA": "87882ee4cf6a81bf31a0bb81d2cb331d01a54f60",
-      "LastCommitAt": "2021-10-17T12:57:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
