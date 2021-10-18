@@ -173,17 +173,18 @@
       "LastCommitAt": "2021-10-18T09:08:40Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-18T18:07:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7597#pullrequestreview-782410644"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-18T18:53:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7597#pullrequestreview-782456371"
          }
       }
    },
@@ -545,17 +546,18 @@
       "LastCommitAt": "2021-10-18T15:02:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "jwillikers"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-10-18T15:20:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7751#pullrequestreview-782230570"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2021-10-18T18:17:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7751#pullrequestreview-782423599"
          }
       }
    },
@@ -586,14 +588,14 @@
       }
    },
    {
-      "Number": 7755,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2021-10-18T17:53:50Z",
-      "Recipe": "wayland-protocols",
+      "Number": 7758,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-18T18:28:22Z",
+      "Recipe": "qt",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7755",
-      "LastCommitSHA": "90927423b75b34a1c41d91659cf416a9c8ad5ce8",
-      "LastCommitAt": "2021-10-18T17:44:52Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7758",
+      "LastCommitSHA": "e923d389eee971ebf62e437163a38ac84765201c",
+      "LastCommitAt": "2021-10-18T18:28:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
