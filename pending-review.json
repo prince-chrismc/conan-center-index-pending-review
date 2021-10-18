@@ -176,6 +176,29 @@
       }
    },
    {
+      "Number": 7678,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-10-13T19:43:04Z",
+      "Recipe": "opentelemetry-proto",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7678",
+      "LastCommitSHA": "c3bbd5e67d87c3bf9240ae0f655ab82a6909e93f",
+      "LastCommitAt": "2021-10-18T13:41:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 7,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-10-14T14:38:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7678#pullrequestreview-779862087"
+         }
+      }
+   },
+   {
       "Number": 7682,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2021-10-14T09:41:27Z",
@@ -210,7 +233,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7692",
       "LastCommitSHA": "4d67a840880a55be20da01c0597b6df0e5ad28f6",
       "LastCommitAt": "2021-10-18T12:07:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 28,
          "ValidApprovals": 0,
@@ -252,33 +275,6 @@
       }
    },
    {
-      "Number": 7712,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-10-16T13:17:49Z",
-      "Recipe": "daw_utf_range",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7712",
-      "LastCommitSHA": "349d2e840d576609ee478f2077885eeebd835ae6",
-      "LastCommitAt": "2021-10-17T13:29:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "jgsogo",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-18T13:04:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7712#pullrequestreview-782025063"
-         }
-      }
-   },
-   {
       "Number": 7723,
       "OpenedBy": "intelligide",
       "CreatedAt": "2021-10-16T16:52:31Z",
@@ -300,33 +296,6 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-10-16T20:54:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7723#pullrequestreview-781389158"
-         }
-      }
-   },
-   {
-      "Number": 7733,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-10-17T13:00:20Z",
-      "Recipe": "gst-plugins-base",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7733",
-      "LastCommitSHA": "67abb389c057e3d9c1559ccab073a9792b94def2",
-      "LastCommitAt": "2021-10-17T12:59:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo",
-            "ericLemanissier",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-18T13:05:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7733#pullrequestreview-782026158"
          }
       }
    },
@@ -440,13 +409,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7745",
       "LastCommitSHA": "d01eb7f0f238e2dee1ff96df4831b5518dd48cd4",
       "LastCommitAt": "2021-10-18T06:29:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-10-18T14:59:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7745#pullrequestreview-782191228"
+         }
       }
    },
    {
@@ -499,6 +475,60 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7748",
       "LastCommitSHA": "30ba4ef042796f089c27478de4e15c89283aba72",
       "LastCommitAt": "2021-10-18T13:18:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7751,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-18T15:02:36Z",
+      "Recipe": "wayland-protocols",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7751",
+      "LastCommitSHA": "9716849dc2990049a96860da4558538be53ae282",
+      "LastCommitAt": "2021-10-18T15:02:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7753,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2021-10-18T15:18:44Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7753",
+      "LastCommitSHA": "4c35588ec8f0d41d9caafa0fafb8aec1bbb25b92",
+      "LastCommitAt": "2021-10-18T15:14:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7754,
+      "OpenedBy": "Jihadist",
+      "CreatedAt": "2021-10-18T15:18:45Z",
+      "Recipe": "zint",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7754",
+      "LastCommitSHA": "4a7ceefd541b55ebaa3d23e0190309d14b2caac2",
+      "LastCommitAt": "2021-10-18T14:42:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
