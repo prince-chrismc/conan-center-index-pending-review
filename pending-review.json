@@ -49,33 +49,6 @@
       }
    },
    {
-      "Number": 7505,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2021-10-02T22:34:27Z",
-      "Recipe": "aws-sdk-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7505",
-      "LastCommitSHA": "7b6f62ff0a2651fa54cf5b79b32a8c4683fa5661",
-      "LastCommitAt": "2021-10-12T16:09:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-10-18T13:16:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7505#pullrequestreview-782039119"
-         }
-      }
-   },
-   {
       "Number": 7507,
       "OpenedBy": "toge",
       "CreatedAt": "2021-10-03T02:43:08Z",
@@ -225,33 +198,6 @@
             "ReviewerName": "jgsogo",
             "SubmittedAt": "2021-10-18T08:40:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7682#pullrequestreview-781753536"
-         }
-      }
-   },
-   {
-      "Number": 7688,
-      "OpenedBy": "PolyPik",
-      "CreatedAt": "2021-10-15T05:10:14Z",
-      "Recipe": "cmocka",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7688",
-      "LastCommitSHA": "eb25abd5e5fe6efa12b260bee1cb45e40829210b",
-      "LastCommitAt": "2021-10-16T00:06:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "jgsogo",
-            "uilianries"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-18T13:06:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7688#pullrequestreview-782026796"
          }
       }
    },
@@ -470,17 +416,18 @@
       "LastCommitAt": "2021-10-18T06:32:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "Croydon"
+            "Croydon",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-10-18T08:19:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7742#pullrequestreview-781731706"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-10-18T13:36:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7742#pullrequestreview-782065291"
          }
       }
    },
@@ -534,6 +481,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7747",
       "LastCommitSHA": "dfe84196a44be82465117661c3e5f31eddf3031e",
       "LastCommitAt": "2021-10-18T11:26:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7748,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2021-10-18T13:27:34Z",
+      "Recipe": "nmos-cpp",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7748",
+      "LastCommitSHA": "30ba4ef042796f089c27478de4e15c89283aba72",
+      "LastCommitAt": "2021-10-18T13:18:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
