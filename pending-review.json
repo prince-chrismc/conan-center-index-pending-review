@@ -198,32 +198,6 @@
       }
    },
    {
-      "Number": 7645,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-10-11T09:27:01Z",
-      "Recipe": "pkgconf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7645",
-      "LastCommitSHA": "a041ce8cdc98d09bb05d29a89aeded482bbf9b23",
-      "LastCommitAt": "2021-10-11T10:27:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-18T08:58:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7645#pullrequestreview-781776594"
-         }
-      }
-   },
-   {
       "Number": 7682,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2021-10-14T09:41:27Z",
@@ -246,32 +220,6 @@
             "ReviewerName": "jgsogo",
             "SubmittedAt": "2021-10-18T08:40:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7682#pullrequestreview-781753536"
-         }
-      }
-   },
-   {
-      "Number": 7685,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-10-14T17:03:23Z",
-      "Recipe": "gsoap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7685",
-      "LastCommitSHA": "b4b001abbc40b13badc99422670d30b374d905f0",
-      "LastCommitAt": "2021-10-15T10:41:12Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-15T20:59:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7685#pullrequestreview-781231425"
          }
       }
    },
