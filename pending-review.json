@@ -393,32 +393,6 @@
       }
    },
    {
-      "Number": 7745,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-10-18T10:40:05Z",
-      "Recipe": "godot_headers",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7745",
-      "LastCommitSHA": "d01eb7f0f238e2dee1ff96df4831b5518dd48cd4",
-      "LastCommitAt": "2021-10-18T06:29:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-18T23:11:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7745#pullrequestreview-782654943"
-         }
-      }
-   },
-   {
       "Number": 7747,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2021-10-18T11:29:01Z",
@@ -429,17 +403,18 @@
       "LastCommitAt": "2021-10-18T11:26:27Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-18T23:15:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7747#pullrequestreview-782657037"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-10-19T02:48:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7747#pullrequestreview-782741121"
          }
       }
    },
