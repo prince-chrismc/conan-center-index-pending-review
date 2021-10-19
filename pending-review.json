@@ -251,17 +251,18 @@
       "LastCommitAt": "2021-10-18T17:56:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 12,
-         "ValidApprovals": 1,
+         "Count": 13,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "madebr"
          ],
          "Blockers": [],
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-10-19T08:53:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7678#pullrequestreview-782979070"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-19T09:54:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7678#pullrequestreview-783050333"
          }
       }
    },
@@ -354,18 +355,19 @@
       "LastCommitAt": "2021-10-16T12:33:45Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "danimtb"
+            "danimtb",
+            "Jihadist"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-10-19T07:50:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7723#pullrequestreview-782908899"
+            "ReviewerName": "Jihadist",
+            "SubmittedAt": "2021-10-19T09:21:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7723#pullrequestreview-783011442"
          }
       }
    },
@@ -415,6 +417,31 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-10-18T23:10:20Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7735#pullrequestreview-782654599"
+         }
+      }
+   },
+   {
+      "Number": 7746,
+      "OpenedBy": "sparik",
+      "CreatedAt": "2021-10-18T10:42:10Z",
+      "Recipe": "libfuse",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7746",
+      "LastCommitSHA": "aecb1b858325b829c9f0cd0512f21a106ca543b4",
+      "LastCommitAt": "2021-10-19T09:43:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "sparik",
+            "SubmittedAt": "2021-10-19T09:59:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7746#pullrequestreview-783056224"
          }
       }
    },
