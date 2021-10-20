@@ -272,34 +272,6 @@
       }
    },
    {
-      "Number": 7767,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-10-19T15:10:22Z",
-      "Recipe": "wasmtime-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7767",
-      "LastCommitSHA": "5380485db5c9505b28c373fc766c5fdeb7e1cb54",
-      "LastCommitAt": "2021-10-19T16:55:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "ericLemanissier",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-20T13:19:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7767#pullrequestreview-784475754"
-         }
-      }
-   },
-   {
       "Number": 7770,
       "OpenedBy": "NolanC33",
       "CreatedAt": "2021-10-19T22:02:41Z",
