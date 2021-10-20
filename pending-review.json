@@ -671,5 +671,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7776,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-20T06:57:21Z",
+      "Recipe": "godot-cpp",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7776",
+      "LastCommitSHA": "b7127bd5c56efb2d01feeed475029a8d132dc67d",
+      "LastCommitAt": "2021-10-20T06:29:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7777,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-20T07:01:00Z",
+      "Recipe": "opencl-headers",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7777",
+      "LastCommitSHA": "09704e85a31f4d805089caa2c2afeabbfb9d9807",
+      "LastCommitAt": "2021-10-20T06:25:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
