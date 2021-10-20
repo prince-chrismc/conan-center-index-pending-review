@@ -367,22 +367,21 @@
       "Recipe": "libfuse",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7746",
-      "LastCommitSHA": "aecb1b858325b829c9f0cd0512f21a106ca543b4",
-      "LastCommitAt": "2021-10-19T09:43:24Z",
+      "LastCommitSHA": "288b1c03b784d0bd166a6b8d43bfe9862d09bf7c",
+      "LastCommitAt": "2021-10-20T16:28:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "Count": 11,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "madebr",
-            "SSE4"
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "sparik",
-            "SubmittedAt": "2021-10-20T16:00:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7746#pullrequestreview-784697901"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-20T16:46:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7746#pullrequestreview-784750141"
          }
       }
    },
@@ -638,24 +637,6 @@
             "SubmittedAt": "2021-10-20T15:22:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7778#pullrequestreview-784650152"
          }
-      }
-   },
-   {
-      "Number": 7781,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-10-20T15:33:54Z",
-      "Recipe": "xsimd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7781",
-      "LastCommitSHA": "f4a11849f5d0531d96e2d2cb06c08a8f85528629",
-      "LastCommitAt": "2021-10-20T08:17:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
