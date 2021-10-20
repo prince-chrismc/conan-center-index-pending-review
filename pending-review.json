@@ -436,32 +436,6 @@
       }
    },
    {
-      "Number": 7735,
-      "OpenedBy": "blackliner",
-      "CreatedAt": "2021-10-17T17:32:28Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7735",
-      "LastCommitSHA": "db78bf46aed4e6aa462c3a6dfbbf6412d2cdeaac",
-      "LastCommitAt": "2021-10-18T16:21:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-18T23:10:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7735#pullrequestreview-782654599"
-         }
-      }
-   },
-   {
       "Number": 7744,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-10-18T09:25:54Z",
@@ -622,17 +596,18 @@
       "LastCommitAt": "2021-10-19T16:55:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-19T17:02:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7767#pullrequestreview-783557519"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-20T07:21:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7767#pullrequestreview-784087299"
          }
       }
    },
@@ -663,24 +638,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7771",
       "LastCommitSHA": "62ece8ac887f9d7576f2b1b3aba721ea3b771dfe",
       "LastCommitAt": "2021-10-19T22:47:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7776,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-10-20T06:57:21Z",
-      "Recipe": "godot-cpp",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7776",
-      "LastCommitSHA": "b7127bd5c56efb2d01feeed475029a8d132dc67d",
-      "LastCommitAt": "2021-10-20T06:29:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
