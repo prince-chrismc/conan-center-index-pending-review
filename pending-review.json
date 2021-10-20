@@ -595,7 +595,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7765",
       "LastCommitSHA": "44215395438fc953f6b10604f85ec470d1d17524",
       "LastCommitAt": "2021-10-19T12:52:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -634,6 +634,24 @@
             "SubmittedAt": "2021-10-19T17:02:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7767#pullrequestreview-783557519"
          }
+      }
+   },
+   {
+      "Number": 7770,
+      "OpenedBy": "NolanC33",
+      "CreatedAt": "2021-10-19T22:02:41Z",
+      "Recipe": "gsl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7770",
+      "LastCommitSHA": "5d40619188c38015ecee85e3c35e6e07fc21fccd",
+      "LastCommitAt": "2021-10-19T22:05:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
