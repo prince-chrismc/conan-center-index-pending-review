@@ -261,7 +261,7 @@
       "LastCommitAt": "2021-10-19T22:47:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 8,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -270,9 +270,32 @@
          ],
          "Blockers": null,
          "LastReview": {
+            "ReviewerName": "eigenwhat",
+            "SubmittedAt": "2021-10-21T20:52:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7771#pullrequestreview-786188622"
+         }
+      }
+   },
+   {
+      "Number": 7784,
+      "OpenedBy": "mjvankampen",
+      "CreatedAt": "2021-10-21T11:50:49Z",
+      "Recipe": "norm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7784",
+      "LastCommitSHA": "c65f3054da611bba7f9d74be4ceccaf30bdc0c60",
+      "LastCommitAt": "2021-10-21T19:39:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 10,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-21T12:49:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7771#pullrequestreview-785646256"
+            "SubmittedAt": "2021-10-21T19:31:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7784#pullrequestreview-786119335"
          }
       }
    },
