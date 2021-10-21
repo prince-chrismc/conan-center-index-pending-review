@@ -261,7 +261,7 @@
       "LastCommitAt": "2021-10-19T22:47:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
+         "Count": 9,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -271,8 +271,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "eigenwhat",
-            "SubmittedAt": "2021-10-21T20:52:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7771#pullrequestreview-786188622"
+            "SubmittedAt": "2021-10-21T21:20:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7771#pullrequestreview-786211225"
          }
       }
    },
