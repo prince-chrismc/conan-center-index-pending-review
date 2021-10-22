@@ -284,5 +284,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7803,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-10-22T23:12:02Z",
+      "Recipe": "ezc3d",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7803",
+      "LastCommitSHA": "d43bb28f6246bd4e6799a675e2c5d915840b6573",
+      "LastCommitAt": "2021-10-22T23:10:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
