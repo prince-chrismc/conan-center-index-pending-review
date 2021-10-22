@@ -153,32 +153,6 @@
       }
    },
    {
-      "Number": 7770,
-      "OpenedBy": "NolanC33",
-      "CreatedAt": "2021-10-19T22:02:41Z",
-      "Recipe": "gsl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7770",
-      "LastCommitSHA": "28164db1eb798364b4820dbdb461b016b80fd050",
-      "LastCommitAt": "2021-10-20T20:21:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-10-22T09:11:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7770#pullrequestreview-786609740"
-         }
-      }
-   },
-   {
       "Number": 7784,
       "OpenedBy": "mjvankampen",
       "CreatedAt": "2021-10-21T11:50:49Z",
@@ -198,33 +172,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-10-21T19:31:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7784#pullrequestreview-786119335"
-         }
-      }
-   },
-   {
-      "Number": 7787,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-10-21T16:25:35Z",
-      "Recipe": "librdkafka",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7787",
-      "LastCommitSHA": "c19da70ab4b20501584720365b879eceba63423d",
-      "LastCommitAt": "2021-10-21T16:25:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "jgsogo",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-10-22T10:02:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7787#pullrequestreview-786659189"
          }
       }
    },
