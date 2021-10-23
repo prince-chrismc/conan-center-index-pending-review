@@ -223,5 +223,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7806,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2021-10-23T14:49:54Z",
+      "Recipe": "ncurses",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7806",
+      "LastCommitSHA": "0ac781c1bcb763f61956b825744c6fc680ab11b0",
+      "LastCommitAt": "2021-10-23T14:47:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
