@@ -129,19 +129,19 @@
       "Recipe": "embedded-template-library",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7649",
-      "LastCommitSHA": "a6895bcb61f3d16989d49974b1d0b980ff0a3aa2",
-      "LastCommitAt": "2021-10-23T21:10:17Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "8c46ee92624683337a4a3ca2009ed21780109249",
+      "LastCommitAt": "2021-10-23T21:27:13Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jputcu",
-            "SubmittedAt": "2021-10-23T20:48:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7649#pullrequestreview-787433447"
+            "SubmittedAt": "2021-10-23T21:17:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7649#pullrequestreview-787438325"
          }
       }
    },
@@ -298,6 +298,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7810",
       "LastCommitSHA": "c312c560d2338e9f3ac565396d3b32690463f00a",
       "LastCommitAt": "2021-10-23T20:50:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7811,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-10-23T21:33:57Z",
+      "Recipe": "zimg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7811",
+      "LastCommitSHA": "a81d408f017e2c0607cfdb5607476e8f58c48659",
+      "LastCommitAt": "2021-10-23T21:31:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
