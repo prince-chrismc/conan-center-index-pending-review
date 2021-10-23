@@ -189,6 +189,24 @@
       }
    },
    {
+      "Number": 7799,
+      "OpenedBy": "seemk",
+      "CreatedAt": "2021-10-22T13:25:25Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7799",
+      "LastCommitSHA": "a5dd54f50f2fe1efe8b08bf68af4a48665c57f31",
+      "LastCommitAt": "2021-10-23T13:29:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7801,
       "OpenedBy": "chausner",
       "CreatedAt": "2021-10-22T21:39:24Z",
