@@ -33,7 +33,7 @@
       "LastCommitAt": "2021-10-20T15:22:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
+         "Count": 10,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -42,9 +42,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-23T08:55:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7469#pullrequestreview-787373453"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-23T09:31:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7469#pullrequestreview-787375906"
          }
       }
    },
@@ -213,34 +213,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-10-21T19:31:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7784#pullrequestreview-786119335"
-         }
-      }
-   },
-   {
-      "Number": 7796,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-10-22T11:23:22Z",
-      "Recipe": "cccl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7796",
-      "LastCommitSHA": "2a7b74e92aa3927d43ebdba1048ae3cf9d5831af",
-      "LastCommitAt": "2021-10-22T11:48:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "theirix",
-            "toge",
-            "Croydon",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-23T08:52:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7796#pullrequestreview-787373248"
          }
       }
    },
