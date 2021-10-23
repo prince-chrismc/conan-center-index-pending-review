@@ -100,24 +100,6 @@
       }
    },
    {
-      "Number": 7649,
-      "OpenedBy": "jputcu",
-      "CreatedAt": "2021-10-11T13:25:33Z",
-      "Recipe": "embedded-template-library",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7649",
-      "LastCommitSHA": "59ad58c9d8e2b507de6f26412b82463c6b6bc49d",
-      "LastCommitAt": "2021-10-23T07:41:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7652,
       "OpenedBy": "toge",
       "CreatedAt": "2021-10-11T15:15:51Z",
@@ -168,24 +150,6 @@
       }
    },
    {
-      "Number": 7799,
-      "OpenedBy": "seemk",
-      "CreatedAt": "2021-10-22T13:25:25Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7799",
-      "LastCommitSHA": "a5dd54f50f2fe1efe8b08bf68af4a48665c57f31",
-      "LastCommitAt": "2021-10-23T13:29:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7806,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-10-23T14:49:54Z",
@@ -194,6 +158,31 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7806",
       "LastCommitSHA": "0ac781c1bcb763f61956b825744c6fc680ab11b0",
       "LastCommitAt": "2021-10-23T14:47:08Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-10-23T17:48:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7806#pullrequestreview-787411214"
+         }
+      }
+   },
+   {
+      "Number": 7808,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-10-23T17:36:32Z",
+      "Recipe": "libsass",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7808",
+      "LastCommitSHA": "952a15e1ec00df2bbd7e4abf6133ab6cf04c5c22",
+      "LastCommitAt": "2021-10-23T16:21:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
