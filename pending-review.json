@@ -166,34 +166,6 @@
       }
    },
    {
-      "Number": 7744,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-10-18T09:25:54Z",
-      "Recipe": "jfalcou-eve",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7744",
-      "LastCommitSHA": "a4dec57aee93bdfc861fc72f352fdd9c4e5184d5",
-      "LastCommitAt": "2021-10-19T14:02:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": [
-            "jgsogo"
-         ],
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2021-10-22T09:24:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7744#pullrequestreview-786622217"
-         }
-      }
-   },
-   {
       "Number": 7784,
       "OpenedBy": "mjvankampen",
       "CreatedAt": "2021-10-21T11:50:49Z",
@@ -245,18 +217,19 @@
       "LastCommitAt": "2021-10-22T23:10:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "SSE4"
+            "SSE4",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-23T08:51:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7803#pullrequestreview-787373208"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-10-23T11:39:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7803#pullrequestreview-787384533"
          }
       }
    }
