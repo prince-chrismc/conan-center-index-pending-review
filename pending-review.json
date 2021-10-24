@@ -403,6 +403,31 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7816",
       "LastCommitSHA": "02417200869e89c875f01328bf911db654a73d73",
       "LastCommitAt": "2021-10-24T06:36:12Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-10-24T09:42:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7816#pullrequestreview-787490403"
+         }
+      }
+   },
+   {
+      "Number": 7817,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-10-24T09:25:01Z",
+      "Recipe": "spirv-headers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7817",
+      "LastCommitSHA": "dc4bf6c55f7742bb6ee7321bf24d9470f3ba89de",
+      "LastCommitAt": "2021-10-24T09:23:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
