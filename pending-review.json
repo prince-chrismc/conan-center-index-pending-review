@@ -170,6 +170,31 @@
       }
    },
    {
+      "Number": 7789,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-10-21T16:54:27Z",
+      "Recipe": "libusb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7789",
+      "LastCommitSHA": "32323d79558b8789a406567ece01ce6a0bdaa969",
+      "LastCommitAt": "2021-10-21T16:24:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-24T22:33:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7789#pullrequestreview-787560602"
+         }
+      }
+   },
+   {
       "Number": 7806,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-10-23T14:49:54Z",
