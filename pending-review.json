@@ -232,7 +232,7 @@
       "LastCommitAt": "2021-10-23T18:24:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 8,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -240,9 +240,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-10-24T11:54:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7801#pullrequestreview-787363984"
+            "ReviewerName": "chausner",
+            "SubmittedAt": "2021-10-24T12:42:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7801#pullrequestreview-787508030"
          }
       }
    },
