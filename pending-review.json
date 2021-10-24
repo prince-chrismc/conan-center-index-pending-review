@@ -404,18 +404,37 @@
       "LastCommitAt": "2021-10-24T09:23:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "toge"
+            "toge",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-10-24T11:50:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7817#pullrequestreview-787502624"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-24T13:56:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7817#pullrequestreview-787515562"
          }
+      }
+   },
+   {
+      "Number": 7819,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-10-24T13:32:47Z",
+      "Recipe": "libselinux",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7819",
+      "LastCommitSHA": "741713d5731e973924f8ccc903315eca73182ffb",
+      "LastCommitAt": "2021-10-24T13:31:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
