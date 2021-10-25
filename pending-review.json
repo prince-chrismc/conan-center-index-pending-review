@@ -197,6 +197,29 @@
       }
    },
    {
+      "Number": 7799,
+      "OpenedBy": "seemk",
+      "CreatedAt": "2021-10-22T13:25:25Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7799",
+      "LastCommitSHA": "c952add2214eab9c6f3fce5f622b02f83649887c",
+      "LastCommitAt": "2021-10-25T07:55:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "seemk",
+            "SubmittedAt": "2021-10-23T20:47:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7799#pullrequestreview-787433385"
+         }
+      }
+   },
+   {
       "Number": 7809,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-10-23T19:00:12Z",
@@ -343,6 +366,24 @@
             "SubmittedAt": "2021-10-25T06:25:18Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7825#pullrequestreview-787695830"
          }
+      }
+   },
+   {
+      "Number": 7826,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-10-25T08:11:47Z",
+      "Recipe": "spirv-cross",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7826",
+      "LastCommitSHA": "195e3fb9923dfe7c44f8ba47457413fa0cdf4f81",
+      "LastCommitAt": "2021-10-25T08:09:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
