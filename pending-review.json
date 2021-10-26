@@ -158,5 +158,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7842,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-10-26T15:05:04Z",
+      "Recipe": "cairo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7842",
+      "LastCommitSHA": "fd5df005f02a0027c363ef89f7fae16d6cafee57",
+      "LastCommitAt": "2021-10-26T15:01:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
