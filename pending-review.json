@@ -51,33 +51,6 @@
       }
    },
    {
-      "Number": 7632,
-      "OpenedBy": "dotChris90",
-      "CreatedAt": "2021-10-10T13:23:24Z",
-      "Recipe": "foonathan-memory",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7632",
-      "LastCommitSHA": "9d43bb8347394a4e65d245e0c4426f7ddb86a827",
-      "LastCommitAt": "2021-10-23T18:47:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 15,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-26T09:20:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7632#pullrequestreview-789092912"
-         }
-      }
-   },
-   {
       "Number": 7769,
       "OpenedBy": "blackliner",
       "CreatedAt": "2021-10-19T21:37:33Z",
