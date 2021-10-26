@@ -132,6 +132,29 @@
       }
    },
    {
+      "Number": 7799,
+      "OpenedBy": "seemk",
+      "CreatedAt": "2021-10-22T13:25:25Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7799",
+      "LastCommitSHA": "db6ae57ccd9ff65950bee45356deb09e7393e09b",
+      "LastCommitAt": "2021-10-26T17:38:55Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 14,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-10-26T17:29:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7799#pullrequestreview-789711601"
+         }
+      }
+   },
+   {
       "Number": 7810,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-10-23T20:53:09Z",
