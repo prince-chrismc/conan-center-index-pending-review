@@ -222,8 +222,8 @@
       "Recipe": "draco",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7843",
-      "LastCommitSHA": "8abf3fa582bfed45c94b9c8323be114bd6eccb02",
-      "LastCommitAt": "2021-10-26T15:50:28Z",
+      "LastCommitSHA": "f15f15b2efe94f300197b0021957653af69f62ab",
+      "LastCommitAt": "2021-10-26T20:49:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
