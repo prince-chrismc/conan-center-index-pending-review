@@ -220,5 +220,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7834#pullrequestreview-788531474"
          }
       }
+   },
+   {
+      "Number": 7838,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2021-10-25T23:40:47Z",
+      "Recipe": "gemmlowp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7838",
+      "LastCommitSHA": "d6db0b49678da4dccef457cdcac38d414f61667f",
+      "LastCommitAt": "2021-10-25T23:36:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
