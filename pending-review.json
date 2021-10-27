@@ -50,6 +50,29 @@
       }
    },
    {
+      "Number": 7664,
+      "OpenedBy": "sparik",
+      "CreatedAt": "2021-10-12T14:17:56Z",
+      "Recipe": "libgphoto2",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7664",
+      "LastCommitSHA": "31df04986675c12c2a41305db722c9d471feb012",
+      "LastCommitAt": "2021-10-27T09:31:56Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 13,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-14T22:45:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7664#pullrequestreview-780314422"
+         }
+      }
+   },
+   {
       "Number": 7754,
       "OpenedBy": "Jihadist",
       "CreatedAt": "2021-10-18T15:18:45Z",
@@ -258,6 +281,31 @@
             "ReviewerName": "danimtb",
             "SubmittedAt": "2021-10-27T08:47:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7845#pullrequestreview-790335308"
+         }
+      }
+   },
+   {
+      "Number": 7846,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2021-10-26T18:06:36Z",
+      "Recipe": "perfetto",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7846",
+      "LastCommitSHA": "eb8b61212e6a066fcb0d4dea1eed409d66dfc01a",
+      "LastCommitAt": "2021-10-27T09:02:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 20,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-27T09:54:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7846#pullrequestreview-790412374"
          }
       }
    },
