@@ -10,15 +10,17 @@
       "LastCommitAt": "2021-10-14T16:07:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 21,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 22,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-14T16:07:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6887#pullrequestreview-779972907"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-10-27T08:01:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6887#pullrequestreview-790283358"
          }
       }
    },
@@ -180,24 +182,6 @@
       }
    },
    {
-      "Number": 7826,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-10-25T08:11:47Z",
-      "Recipe": "spirv-cross",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7826",
-      "LastCommitSHA": "195e3fb9923dfe7c44f8ba47457413fa0cdf4f81",
-      "LastCommitAt": "2021-10-25T08:09:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7842,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-10-26T15:05:04Z",
@@ -242,6 +226,49 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7844",
       "LastCommitSHA": "6a71d6831be292617f2d9db45d276a3b328181bf",
       "LastCommitAt": "2021-10-26T16:31:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7845,
+      "OpenedBy": "yemreinci",
+      "CreatedAt": "2021-10-26T18:05:09Z",
+      "Recipe": "hazelcast-cpp-client",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7845",
+      "LastCommitSHA": "bf76fdefd212f4762ead2dbafb5bf60e1cb5252c",
+      "LastCommitAt": "2021-10-26T18:04:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-27T00:20:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7845#pullrequestreview-790037931"
+         }
+      }
+   },
+   {
+      "Number": 7850,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-10-27T07:56:40Z",
+      "Recipe": "onnx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7850",
+      "LastCommitSHA": "eafdb569653deedfe58cdc5ddd0f93d28f867292",
+      "LastCommitAt": "2021-10-27T00:03:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
