@@ -328,5 +328,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7858,
+      "OpenedBy": "Croydon",
+      "CreatedAt": "2021-10-27T21:40:25Z",
+      "Recipe": "cmake",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7858",
+      "LastCommitSHA": "c2bda9b6eaab5b23f9c4bceecf8fa024efa17415",
+      "LastCommitAt": "2021-10-27T21:27:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-27T21:58:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7858#pullrequestreview-791199080"
+         }
+      }
    }
 ]
