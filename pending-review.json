@@ -182,24 +182,6 @@
       }
    },
    {
-      "Number": 7842,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-10-26T15:05:04Z",
-      "Recipe": "cairo",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7842",
-      "LastCommitSHA": "f09b5ff6d091d6b8e64036c377dc7ca59be2e784",
-      "LastCommitAt": "2021-10-26T15:01:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7843,
       "OpenedBy": "lederernc",
       "CreatedAt": "2021-10-26T15:56:32Z",
@@ -210,15 +192,17 @@
       "LastCommitAt": "2021-10-28T06:27:15Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "lederernc",
-            "SubmittedAt": "2021-10-27T15:22:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7843#pullrequestreview-790804511"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-10-28T09:44:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7843#pullrequestreview-791634622"
          }
       }
    },
@@ -291,14 +275,14 @@
       }
    },
    {
-      "Number": 7857,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-10-27T21:00:58Z",
-      "Recipe": "protobuf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7857",
-      "LastCommitSHA": "493b1a188490f4767cba1fde49dc31b4535cc243",
-      "LastCommitAt": "2021-10-27T20:56:32Z",
+      "Number": 7859,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-27T21:56:13Z",
+      "Recipe": "libxshmfence",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7859",
+      "LastCommitSHA": "f74a0f8e7cd0d1942d59cacec9e1db5d8db89ce9",
+      "LastCommitAt": "2021-10-28T06:57:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -319,17 +303,18 @@
       "LastCommitAt": "2021-10-27T23:01:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-27T23:22:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7860#pullrequestreview-791244254"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-28T09:44:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7860#pullrequestreview-791634415"
          }
       }
    },
