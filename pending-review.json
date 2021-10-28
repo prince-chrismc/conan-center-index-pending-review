@@ -10,17 +10,18 @@
       "LastCommitAt": "2021-10-14T16:07:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 22,
-         "ValidApprovals": 1,
+         "Count": 23,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb"
+            "danimtb",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-10-27T08:01:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6887#pullrequestreview-790283358"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-10-28T18:30:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6887#pullrequestreview-792228167"
          }
       }
    },
@@ -50,6 +51,29 @@
       }
    },
    {
+      "Number": 7533,
+      "OpenedBy": "jhabermas",
+      "CreatedAt": "2021-10-04T16:09:08Z",
+      "Recipe": "certify",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7533",
+      "LastCommitSHA": "c10e1ab499ef39b0b893a87594f0e7040d517624",
+      "LastCommitAt": "2021-10-28T18:30:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 11,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-10-22T12:16:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7533#pullrequestreview-786771750"
+         }
+      }
+   },
+   {
       "Number": 7649,
       "OpenedBy": "jputcu",
       "CreatedAt": "2021-10-11T13:25:33Z",
@@ -60,15 +84,17 @@
       "LastCommitAt": "2021-10-28T10:38:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 18,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 19,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jputcu",
-            "SubmittedAt": "2021-10-28T10:38:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7649#pullrequestreview-791688631"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-10-28T18:33:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7649#pullrequestreview-792230835"
          }
       }
    },
@@ -322,6 +348,24 @@
       }
    },
    {
+      "Number": 7849,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-10-27T07:55:44Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7849",
+      "LastCommitSHA": "f2d74f3b776eeceff7eeb8943af261b1996299de",
+      "LastCommitAt": "2021-10-28T10:39:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7851,
       "OpenedBy": "mjvankampen",
       "CreatedAt": "2021-10-27T08:17:58Z",
@@ -435,6 +479,24 @@
             "SubmittedAt": "2021-10-28T12:54:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7867#pullrequestreview-791823555"
          }
+      }
+   },
+   {
+      "Number": 7873,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2021-10-28T14:39:25Z",
+      "Recipe": "gemmlowp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7873",
+      "LastCommitSHA": "0cfd1bb942305376ea9a499aed7aab261fab82b6",
+      "LastCommitAt": "2021-10-28T16:33:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
