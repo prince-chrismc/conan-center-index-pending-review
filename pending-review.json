@@ -309,33 +309,6 @@
       }
    },
    {
-      "Number": 7858,
-      "OpenedBy": "Croydon",
-      "CreatedAt": "2021-10-27T21:40:25Z",
-      "Recipe": "cmake",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7858",
-      "LastCommitSHA": "c2bda9b6eaab5b23f9c4bceecf8fa024efa17415",
-      "LastCommitAt": "2021-10-27T21:27:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-28T07:26:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7858#pullrequestreview-791467611"
-         }
-      }
-   },
-   {
       "Number": 7860,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-10-27T23:03:31Z",
@@ -371,17 +344,18 @@
       "LastCommitAt": "2021-10-28T06:12:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-10-28T06:52:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7866#pullrequestreview-791437361"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-28T09:06:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7866#pullrequestreview-791592140"
          }
       }
    },
@@ -394,49 +368,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7867",
       "LastCommitSHA": "3cedcb8a34a7e6ef24db1f0af5264c911b583c05",
       "LastCommitAt": "2021-10-28T06:38:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7868,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-10-28T06:37:02Z",
-      "Recipe": "diligentgraphics-vulkan-headers",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7868",
-      "LastCommitSHA": "9cfe9621dea66be35aa8bab888ea654d9e245a69",
-      "LastCommitAt": "2021-10-28T06:36:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 7869,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-10-28T07:59:46Z",
-      "Recipe": "diligentgraphics-spirv-tools",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7869",
-      "LastCommitSHA": "1a21232a94f37a91ee6696372db05a63d5d22811",
-      "LastCommitAt": "2021-10-28T07:58:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-28T09:02:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7867#pullrequestreview-791587998"
+         }
       }
    }
 ]
