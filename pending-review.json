@@ -322,6 +322,29 @@
       }
    },
    {
+      "Number": 7851,
+      "OpenedBy": "mjvankampen",
+      "CreatedAt": "2021-10-27T08:17:58Z",
+      "Recipe": "litehtml",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7851",
+      "LastCommitSHA": "c4e7bdfd12b03f9f35536df6e065199d5dacde8f",
+      "LastCommitAt": "2021-10-28T13:59:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-28T12:54:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7851#pullrequestreview-791822856"
+         }
+      }
+   },
+   {
       "Number": 7856,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2021-10-27T19:47:43Z",
@@ -439,6 +462,50 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7874",
       "LastCommitSHA": "85dabfdc287bd4b9f528844b742cea10a054f3f3",
       "LastCommitAt": "2021-10-28T14:54:27Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr",
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-10-28T15:55:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7874#pullrequestreview-792070650"
+         }
+      }
+   },
+   {
+      "Number": 7875,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-10-28T15:53:16Z",
+      "Recipe": "cpr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7875",
+      "LastCommitSHA": "b1767177c17593b5b1f716e24c572155c1d535c4",
+      "LastCommitAt": "2021-10-28T15:45:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7876,
+      "OpenedBy": "killzoner",
+      "CreatedAt": "2021-10-28T15:55:53Z",
+      "Recipe": "protobuf",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7876",
+      "LastCommitSHA": "6e5d14673ca6dcf3b19adc80b4f70cf70f2f9528",
+      "LastCommitAt": "2021-10-27T09:31:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
