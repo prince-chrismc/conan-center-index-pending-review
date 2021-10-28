@@ -332,15 +332,17 @@
       "LastCommitAt": "2021-10-28T13:59:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericLemanissier"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-10-28T12:54:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7851#pullrequestreview-791822856"
+            "SubmittedAt": "2021-10-28T16:33:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7851#pullrequestreview-792112514"
          }
       }
    },
@@ -436,24 +438,6 @@
       }
    },
    {
-      "Number": 7873,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2021-10-28T14:39:25Z",
-      "Recipe": "gemmlowp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7873",
-      "LastCommitSHA": "051b17dbc7f367e4f2d831243fb95112926a8cfb",
-      "LastCommitAt": "2021-10-28T14:29:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7874,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-10-28T14:54:42Z",
@@ -506,6 +490,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7876",
       "LastCommitSHA": "6e5d14673ca6dcf3b19adc80b4f70cf70f2f9528",
       "LastCommitAt": "2021-10-27T09:31:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7878,
+      "OpenedBy": "justinmcbride",
+      "CreatedAt": "2021-10-28T16:28:10Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7878",
+      "LastCommitSHA": "d910baa741f61b125a56730847b44e48c6a65f20",
+      "LastCommitAt": "2021-10-28T16:21:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
