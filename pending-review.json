@@ -50,32 +50,6 @@
       }
    },
    {
-      "Number": 7664,
-      "OpenedBy": "sparik",
-      "CreatedAt": "2021-10-12T14:17:56Z",
-      "Recipe": "libgphoto2",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7664",
-      "LastCommitSHA": "31df04986675c12c2a41305db722c9d471feb012",
-      "LastCommitAt": "2021-10-27T09:31:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 15,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-27T20:55:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7664#pullrequestreview-791151708"
-         }
-      }
-   },
-   {
       "Number": 7754,
       "OpenedBy": "Jihadist",
       "CreatedAt": "2021-10-18T15:18:45Z",
@@ -345,18 +319,19 @@
       "LastCommitAt": "2021-10-27T21:27:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-27T23:22:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7858#pullrequestreview-791244339"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-28T07:26:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7858#pullrequestreview-791467611"
          }
       }
    },
@@ -437,6 +412,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7868",
       "LastCommitSHA": "9cfe9621dea66be35aa8bab888ea654d9e245a69",
       "LastCommitAt": "2021-10-28T06:36:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7869,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-10-28T07:59:46Z",
+      "Recipe": "diligentgraphics-spirv-tools",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7869",
+      "LastCommitSHA": "1a21232a94f37a91ee6696372db05a63d5d22811",
+      "LastCommitAt": "2021-10-28T07:58:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
