@@ -171,33 +171,6 @@
       }
    },
    {
-      "Number": 7843,
-      "OpenedBy": "lederernc",
-      "CreatedAt": "2021-10-26T15:56:32Z",
-      "Recipe": "draco",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7843",
-      "LastCommitSHA": "7c8bb948b56d3175b9a097263be3a6df6fcff965",
-      "LastCommitAt": "2021-10-28T06:27:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-29T05:33:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7843#pullrequestreview-792636782"
-         }
-      }
-   },
-   {
       "Number": 7846,
       "OpenedBy": "miklelappo",
       "CreatedAt": "2021-10-26T18:06:36Z",
@@ -208,17 +181,18 @@
       "LastCommitAt": "2021-10-29T05:18:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 34,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 35,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "miklelappo",
-            "SubmittedAt": "2021-10-29T06:42:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7846#pullrequestreview-792673074"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-10-29T07:25:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7846#pullrequestreview-792703859"
          }
       }
    },
