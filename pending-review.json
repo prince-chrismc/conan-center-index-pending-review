@@ -427,17 +427,18 @@
       "LastCommitAt": "2021-10-29T14:42:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-29T14:52:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7891#pullrequestreview-793135427"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-29T18:07:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7891#pullrequestreview-793325942"
          }
       }
    },
@@ -452,36 +453,19 @@
       "LastCommitAt": "2021-10-29T12:40:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-29T14:52:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7892#pullrequestreview-793135057"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-10-29T18:06:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7892#pullrequestreview-793325354"
          }
-      }
-   },
-   {
-      "Number": 7896,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2021-10-29T17:15:14Z",
-      "Recipe": "boost-ext-ut",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7896",
-      "LastCommitSHA": "d2dcb591a37e156851ba9cacb327fad245a48fa0",
-      "LastCommitAt": "2021-10-29T17:13:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
