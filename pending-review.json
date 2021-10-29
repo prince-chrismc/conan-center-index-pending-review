@@ -294,32 +294,6 @@
       }
    },
    {
-      "Number": 7865,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-10-28T06:04:29Z",
-      "Recipe": "nspr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7865",
-      "LastCommitSHA": "b876a1eacc33e6760497762afa548bde8f2fca03",
-      "LastCommitAt": "2021-10-28T12:20:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-29T05:36:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7865#pullrequestreview-792638313"
-         }
-      }
-   },
-   {
       "Number": 7867,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-10-28T06:29:49Z",
@@ -378,7 +352,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7872",
       "LastCommitSHA": "227c4ec570fb70a5ef9da969e4def4a81ea74afe",
       "LastCommitAt": "2021-10-28T14:28:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -420,40 +394,14 @@
       }
    },
    {
-      "Number": 7875,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-10-28T15:53:16Z",
-      "Recipe": "cpr",
+      "Number": 7890,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2021-10-29T14:10:09Z",
+      "Recipe": "ms-gsl",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7875",
-      "LastCommitSHA": "b1767177c17593b5b1f716e24c572155c1d535c4",
-      "LastCommitAt": "2021-10-28T15:45:12Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-10-29T05:29:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7875#pullrequestreview-792634996"
-         }
-      }
-   },
-   {
-      "Number": 7885,
-      "OpenedBy": "reneme",
-      "CreatedAt": "2021-10-29T10:22:01Z",
-      "Recipe": "botan",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7885",
-      "LastCommitSHA": "3abcf7e91ba49c30fd29aa97a506b88732a8d1f3",
-      "LastCommitAt": "2021-10-29T10:18:34Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7890",
+      "LastCommitSHA": "ec63a6da09375d12d6245809793545ea9f24b8e0",
+      "LastCommitAt": "2021-10-29T14:07:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
