@@ -467,14 +467,14 @@
       }
    },
    {
-      "Number": 7894,
+      "Number": 7896,
       "OpenedBy": "jwillikers",
-      "CreatedAt": "2021-10-29T15:34:14Z",
-      "Recipe": "gtest",
+      "CreatedAt": "2021-10-29T17:15:14Z",
+      "Recipe": "boost-ext-ut",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7894",
-      "LastCommitSHA": "d31f28412c949ae82ad16967362a210843dcd81f",
-      "LastCommitAt": "2021-10-29T15:31:32Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7896",
+      "LastCommitSHA": "d2dcb591a37e156851ba9cacb327fad245a48fa0",
+      "LastCommitAt": "2021-10-29T17:13:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
