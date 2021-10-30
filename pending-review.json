@@ -224,32 +224,6 @@
       }
    },
    {
-      "Number": 7856,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2021-10-27T19:47:43Z",
-      "Recipe": "xnnpack",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7856",
-      "LastCommitSHA": "3ab42cb031a5a1a5fe9b1042d651c7adc59d7e0e",
-      "LastCommitAt": "2021-10-28T12:00:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-29T15:10:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7856#pullrequestreview-793155611"
-         }
-      }
-   },
-   {
       "Number": 7862,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-10-28T00:38:49Z",
@@ -282,17 +256,14 @@
       "Recipe": "diligentgraphics-spirv-headers",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7867",
-      "LastCommitSHA": "4e6a54d8772ad35094db7362e5c241498141999d",
-      "LastCommitAt": "2021-10-28T11:48:51Z",
+      "LastCommitSHA": "653447d5a24126ce5336f73e426d72e28cbc23a4",
+      "LastCommitAt": "2021-10-30T06:30:03Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -308,16 +279,14 @@
       "Recipe": "diligentgraphics-vulkan-headers",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7868",
-      "LastCommitSHA": "e186bb623d6f5cb689eb3f0e2f423ea89d5541fa",
-      "LastCommitAt": "2021-10-28T21:06:26Z",
+      "LastCommitSHA": "083dab2e757394ef7b7b913caa7f4470becf2a30",
+      "LastCommitAt": "2021-10-30T06:29:11Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
