@@ -373,6 +373,32 @@
       }
    },
    {
+      "Number": 7902,
+      "OpenedBy": "maksim-0",
+      "CreatedAt": "2021-10-30T14:38:55Z",
+      "Recipe": "libmysqlclient",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7902",
+      "LastCommitSHA": "e5fb9db66cfcccd78f996e576ad4c1a44d39b428",
+      "LastCommitAt": "2021-10-30T14:48:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr",
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-10-30T15:20:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7902#pullrequestreview-793579010"
+         }
+      }
+   },
+   {
       "Number": 7904,
       "OpenedBy": "maksim-0",
       "CreatedAt": "2021-10-30T15:08:24Z",
