@@ -327,32 +327,6 @@
       }
    },
    {
-      "Number": 7872,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-10-28T14:28:40Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7872",
-      "LastCommitSHA": "227c4ec570fb70a5ef9da969e4def4a81ea74afe",
-      "LastCommitAt": "2021-10-28T14:28:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-10-29T20:03:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7872#pullrequestreview-793411856"
-         }
-      }
-   },
-   {
       "Number": 7873,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2021-10-28T14:39:25Z",
@@ -399,6 +373,29 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-10-29T21:16:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7878#pullrequestreview-793458383"
+         }
+      }
+   },
+   {
+      "Number": 7894,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2021-10-29T15:34:14Z",
+      "Recipe": "gtest",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7894",
+      "LastCommitSHA": "8aa1835e4d64542685efb30e9b059a496c3c00da",
+      "LastCommitAt": "2021-10-29T23:47:40Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2021-10-29T16:58:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7894#pullrequestreview-793269069"
          }
       }
    }
