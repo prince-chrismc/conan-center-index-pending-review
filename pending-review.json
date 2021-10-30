@@ -322,6 +322,31 @@
       }
    },
    {
+      "Number": 7890,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2021-10-29T14:10:09Z",
+      "Recipe": "ms-gsl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7890",
+      "LastCommitSHA": "4c1a82f676f452d0d84325d94a826aa963c88de8",
+      "LastCommitAt": "2021-10-29T23:35:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 10,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-10-30T20:07:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7890#pullrequestreview-793601417"
+         }
+      }
+   },
+   {
       "Number": 7895,
       "OpenedBy": "toge",
       "CreatedAt": "2021-10-29T15:47:27Z",
