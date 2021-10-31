@@ -439,30 +439,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 7906,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-10-30T20:33:15Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7906",
-      "LastCommitSHA": "b41ef546629dc9a2d742d5ddd76cb0a25d08883f",
-      "LastCommitAt": "2021-10-30T20:32:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-31T00:26:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7906#pullrequestreview-793650021"
-         }
-      }
    }
 ]
