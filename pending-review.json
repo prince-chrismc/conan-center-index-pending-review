@@ -595,6 +595,24 @@
       }
    },
    {
+      "Number": 7910,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-10-31T15:32:24Z",
+      "Recipe": "abseil",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7910",
+      "LastCommitSHA": "f704dd3f6b72ad67ab40eaaf72c3d88dcd909ed0",
+      "LastCommitAt": "2021-10-31T15:31:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7911,
       "OpenedBy": "toge",
       "CreatedAt": "2021-10-31T16:49:20Z",
