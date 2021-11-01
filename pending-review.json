@@ -304,32 +304,6 @@
       }
    },
    {
-      "Number": 7867,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-10-28T06:29:49Z",
-      "Recipe": "diligentgraphics-spirv-headers",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7867",
-      "LastCommitSHA": "653447d5a24126ce5336f73e426d72e28cbc23a4",
-      "LastCommitAt": "2021-10-30T06:30:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-01T09:51:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7867#pullrequestreview-794035620"
-         }
-      }
-   },
-   {
       "Number": 7868,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-10-28T06:37:02Z",
@@ -340,17 +314,18 @@
       "LastCommitAt": "2021-10-30T06:29:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 8,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-30T12:21:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7868#pullrequestreview-793564895"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-11-01T17:30:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7868#pullrequestreview-794466629"
          }
       }
    },
@@ -467,18 +442,19 @@
       "LastCommitAt": "2021-10-30T06:25:50Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-01T11:51:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7900#pullrequestreview-794125435"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-11-01T17:37:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7900#pullrequestreview-794473436"
          }
       }
    },
