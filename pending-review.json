@@ -623,17 +623,18 @@
       "LastCommitAt": "2021-10-31T16:46:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-31T21:42:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7911#pullrequestreview-793762564"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-11-01T07:37:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7911#pullrequestreview-793920878"
          }
       }
    }
