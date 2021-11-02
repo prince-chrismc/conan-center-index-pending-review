@@ -231,31 +231,6 @@
       }
    },
    {
-      "Number": 7799,
-      "OpenedBy": "seemk",
-      "CreatedAt": "2021-10-22T13:25:25Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7799",
-      "LastCommitSHA": "20e4bc8421e6de1e86363dfa7f6fe2fd6f73ce98",
-      "LastCommitAt": "2021-11-02T08:14:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 34,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-02T21:02:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7799#pullrequestreview-795913158"
-         }
-      }
-   },
-   {
       "Number": 7842,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-10-26T15:05:04Z",
@@ -303,29 +278,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2021-10-29T19:58:35Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7862#pullrequestreview-793408430"
-         }
-      }
-   },
-   {
-      "Number": 7869,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-10-28T07:59:46Z",
-      "Recipe": "diligentgraphics-spirv-tools",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7869",
-      "LastCommitSHA": "8402348c9439fc5c1540ee9d46d712c96360decc",
-      "LastCommitAt": "2021-11-02T09:00:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-01T21:11:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7869#pullrequestreview-794652599"
          }
       }
    },
