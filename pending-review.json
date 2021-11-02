@@ -535,6 +535,24 @@
       }
    },
    {
+      "Number": 7908,
+      "OpenedBy": "AntonHorbach",
+      "CreatedAt": "2021-10-31T08:09:57Z",
+      "Recipe": "boost",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7908",
+      "LastCommitSHA": "734bf30d546f92ef31931793b5ca0b7fb27c09cf",
+      "LastCommitAt": "2021-10-31T07:34:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7910,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-10-31T15:32:24Z",
