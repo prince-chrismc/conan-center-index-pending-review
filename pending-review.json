@@ -625,8 +625,8 @@
       "Recipe": "drwav",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7927",
-      "LastCommitSHA": "fa4504f930bba1ce9e40e23f178a70f058d6e8e7",
-      "LastCommitAt": "2021-11-02T22:40:49Z",
+      "LastCommitSHA": "aaf9d6a6bcbe266af63f69771674942c5a7a3baf",
+      "LastCommitAt": "2021-11-03T20:42:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
