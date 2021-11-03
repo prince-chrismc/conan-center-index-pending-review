@@ -106,6 +106,32 @@
       }
    },
    {
+      "Number": 7660,
+      "OpenedBy": "jpilet",
+      "CreatedAt": "2021-10-12T08:19:26Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7660",
+      "LastCommitSHA": "b55d2f10a9fedd5b7fdb1c2aa2672e34a8c3080f",
+      "LastCommitAt": "2021-11-02T14:27:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 13,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-11-03T12:05:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7660#pullrequestreview-796446111"
+         }
+      }
+   },
+   {
       "Number": 7705,
       "OpenedBy": "uilianries",
       "CreatedAt": "2021-10-15T19:43:11Z",
@@ -513,17 +539,18 @@
       "LastCommitAt": "2021-10-31T15:31:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-01T14:32:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7910#pullrequestreview-794276504"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-03T11:41:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7910#pullrequestreview-796424447"
          }
       }
    },
@@ -565,18 +592,19 @@
       "LastCommitAt": "2021-11-01T19:09:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "Croydon",
-            "SSE4"
+            "SSE4",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-02T11:14:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7918#pullrequestreview-795191973"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-03T11:40:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7918#pullrequestreview-796423827"
          }
       }
    },
@@ -591,17 +619,18 @@
       "LastCommitAt": "2021-11-02T12:04:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-02T18:12:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7924#pullrequestreview-795765417"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-03T11:40:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7924#pullrequestreview-796423532"
          }
       }
    },
@@ -673,6 +702,24 @@
             "SubmittedAt": "2021-11-03T10:02:50Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7929#pullrequestreview-796318827"
          }
+      }
+   },
+   {
+      "Number": 7931,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-11-03T12:06:48Z",
+      "Recipe": "crowcpp-crow",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7931",
+      "LastCommitSHA": "12a40b49d2d4e517af013aee67e4976e2a0ebeed",
+      "LastCommitAt": "2021-11-03T12:04:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
