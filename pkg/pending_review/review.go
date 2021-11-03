@@ -99,7 +99,7 @@ func ProcessReviewComments(reviews []*PullRequestReview, sha string) Reviews {
 func isTeamMember(reviewerName string) bool {
 	switch reviewerName {
 	// As defined by https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#official-reviewers
-	case "memsharded", "lasote", "danimtb", "jgsogo", "czoido", "solvingj", "SSE4", "uilianries":
+	case "memsharded", "lasote", "danimtb", "jgsogo", "czoido", "SSE4", "uilianries":
 		return true
 	default:
 		return false
@@ -110,7 +110,7 @@ func isCommunityMember(reviewerName string) bool {
 	switch reviewerName {
 	// As defined by https://github.com/conan-io/conan-center-index/issues/2857
 	// and https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#community-reviewers
-	case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos", "mathbunnyru", "ericriff":
+	case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos", "mathbunnyru", "ericriff". "toge":
 		return true
 	default:
 		return false
