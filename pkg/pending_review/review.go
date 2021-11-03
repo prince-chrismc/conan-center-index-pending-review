@@ -110,7 +110,7 @@ func isCommunityMember(reviewerName string) bool {
 	switch reviewerName {
 	// As defined by https://github.com/conan-io/conan-center-index/issues/2857
 	// and https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#community-reviewers
-	case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos", "mathbunnyru", "ericriff". "toge":
+	case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos", "mathbunnyru", "ericriff", "toge":
 		return true
 	default:
 		return false
