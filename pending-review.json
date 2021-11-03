@@ -368,18 +368,19 @@
       "LastCommitAt": "2021-10-28T16:33:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
+         "Count": 5,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "uilianries"
+            "uilianries",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-01T14:18:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7873#pullrequestreview-794259678"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-11-03T16:30:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7873#pullrequestreview-796807530"
          }
       }
    },
@@ -530,6 +531,31 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-11-03T11:41:30Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7910#pullrequestreview-796424447"
+         }
+      }
+   },
+   {
+      "Number": 7912,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-10-31T17:43:51Z",
+      "Recipe": "google-cloud-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7912",
+      "LastCommitSHA": "dd37e05c3bed8d73b7ce058760afd2a108fbd6b4",
+      "LastCommitAt": "2021-10-31T17:43:03Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-10-31T21:41:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7912#pullrequestreview-793762506"
          }
       }
    },
