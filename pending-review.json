@@ -705,23 +705,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 7935,
-      "OpenedBy": "avitevet",
-      "CreatedAt": "2021-11-03T17:49:47Z",
-      "Recipe": "lcms",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7935",
-      "LastCommitSHA": "993e773c2756d827503a6d04b52fb3d40d4871e1",
-      "LastCommitAt": "2021-11-03T17:21:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
