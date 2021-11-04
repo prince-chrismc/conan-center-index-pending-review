@@ -431,7 +431,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7951",
       "LastCommitSHA": "94dc1087135abff20ca4b6b5e005c934c47d94a4",
       "LastCommitAt": "2021-11-04T15:33:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -456,6 +456,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7952",
       "LastCommitSHA": "f8b9525674148dd1a0bfac25f1197ef113c9b3f1",
       "LastCommitAt": "2021-11-04T18:22:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7954,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-11-04T22:03:14Z",
+      "Recipe": "aws-c-compression",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7954",
+      "LastCommitSHA": "794aba76d5fcb814ab82d4fadfb7e3247733f6d4",
+      "LastCommitAt": "2021-11-04T21:59:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
