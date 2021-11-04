@@ -1,32 +1,5 @@
 [
    {
-      "Number": 7331,
-      "OpenedBy": "kexianda",
-      "CreatedAt": "2021-09-18T12:18:51Z",
-      "Recipe": "arrow",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7331",
-      "LastCommitSHA": "c1668ab3e723c55678aec6497315fed986165150",
-      "LastCommitAt": "2021-09-18T07:24:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": [
-            "jgsogo"
-         ],
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-01T12:35:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7331#pullrequestreview-794159052"
-         }
-      }
-   },
-   {
       "Number": 7507,
       "OpenedBy": "toge",
       "CreatedAt": "2021-10-03T02:43:08Z",
