@@ -202,33 +202,6 @@
       }
    },
    {
-      "Number": 7878,
-      "OpenedBy": "justinmcbride",
-      "CreatedAt": "2021-10-28T16:28:10Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7878",
-      "LastCommitSHA": "65c2fe8e58f3de91ed58f7d2bfa66e73f6a3ff15",
-      "LastCommitAt": "2021-10-29T18:54:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-04T09:57:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7878#pullrequestreview-797540420"
-         }
-      }
-   },
-   {
       "Number": 7894,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2021-10-29T15:34:14Z",
@@ -363,17 +336,18 @@
       "LastCommitAt": "2021-10-31T17:43:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-10-31T21:41:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7912#pullrequestreview-793762506"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-11-04T13:05:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7912#pullrequestreview-797711924"
          }
       }
    },
@@ -561,18 +535,19 @@
       "LastCommitAt": "2021-11-04T09:52:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 2,
+         "Count": 11,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-04T11:25:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7936#pullrequestreview-797621179"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-11-04T12:35:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7936#pullrequestreview-797681283"
          }
       }
    },
