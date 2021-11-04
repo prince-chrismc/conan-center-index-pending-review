@@ -405,6 +405,24 @@
       }
    },
    {
+      "Number": 7950,
+      "OpenedBy": "GIGte",
+      "CreatedAt": "2021-11-04T15:49:54Z",
+      "Recipe": "libjxl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7950",
+      "LastCommitSHA": "feae5ffc1113527bff0c75616bf22b6b3e88c549",
+      "LastCommitAt": "2021-11-04T17:19:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7951,
       "OpenedBy": "lkotsonis",
       "CreatedAt": "2021-11-04T15:53:44Z",
@@ -427,6 +445,24 @@
             "SubmittedAt": "2021-11-04T18:03:49Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7951#pullrequestreview-798092269"
          }
+      }
+   },
+   {
+      "Number": 7952,
+      "OpenedBy": "GIGte",
+      "CreatedAt": "2021-11-04T18:40:52Z",
+      "Recipe": "imagemagick",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7952",
+      "LastCommitSHA": "f8b9525674148dd1a0bfac25f1197ef113c9b3f1",
+      "LastCommitAt": "2021-11-04T18:22:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
