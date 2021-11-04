@@ -706,5 +706,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7936,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2021-11-03T18:30:29Z",
+      "Recipe": "jsoncpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7936",
+      "LastCommitSHA": "e8ab8a272c694900b14e5a77d3bb283a32dbdff7",
+      "LastCommitAt": "2021-11-03T21:34:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-11-04T07:07:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7936#pullrequestreview-797401711"
+         }
+      }
    }
 ]
