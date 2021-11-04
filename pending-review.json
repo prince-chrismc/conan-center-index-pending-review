@@ -714,21 +714,19 @@
       "Recipe": "jsoncpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7936",
-      "LastCommitSHA": "e8ab8a272c694900b14e5a77d3bb283a32dbdff7",
-      "LastCommitAt": "2021-11-03T21:34:02Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d6b874ac170ce7140c1ee5f1bfbcf16bc857cbdc",
+      "LastCommitAt": "2021-11-04T08:14:24Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-04T07:07:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7936#pullrequestreview-797401711"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-11-04T07:55:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7936#pullrequestreview-797429400"
          }
       }
    }
