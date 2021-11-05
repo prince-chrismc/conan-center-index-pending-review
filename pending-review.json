@@ -527,14 +527,14 @@
       }
    },
    {
-      "Number": 7960,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-11-05T08:48:46Z",
-      "Recipe": "ktx",
+      "Number": 7961,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-11-05T09:29:31Z",
+      "Recipe": "aws-c-cal",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7960",
-      "LastCommitSHA": "490e836ba037726515b0d751f69b6139f9f83b42",
-      "LastCommitAt": "2021-11-05T08:46:49Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7961",
+      "LastCommitSHA": "461dfcde3882f828ac3d2edbbf9e2ee94b842211",
+      "LastCommitAt": "2021-11-05T09:28:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
