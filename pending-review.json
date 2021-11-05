@@ -99,6 +99,24 @@
       }
    },
    {
+      "Number": 7855,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2021-10-27T19:23:28Z",
+      "Recipe": "tensorflow-lite",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7855",
+      "LastCommitSHA": "74413f00c83fc4cc08bb06486d91c14bc0fa4c5d",
+      "LastCommitAt": "2021-11-05T09:25:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 7862,
       "OpenedBy": "madebr",
       "CreatedAt": "2021-10-28T00:38:49Z",
@@ -524,6 +542,24 @@
             "SubmittedAt": "2021-11-05T07:57:29Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7957#pullrequestreview-798575947"
          }
+      }
+   },
+   {
+      "Number": 7960,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-11-05T08:48:46Z",
+      "Recipe": "ktx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7960",
+      "LastCommitSHA": "9ec25e0e592050f192dab46a4809913fe20ea19b",
+      "LastCommitAt": "2021-11-05T10:01:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
