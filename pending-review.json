@@ -492,5 +492,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7959,
+      "OpenedBy": "srnwk",
+      "CreatedAt": "2021-11-05T03:55:06Z",
+      "Recipe": "thrift",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7959",
+      "LastCommitSHA": "e8f3043053ec0afc170df91c67836a5c1150dd00",
+      "LastCommitAt": "2021-11-05T03:41:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
