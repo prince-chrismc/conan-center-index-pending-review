@@ -665,23 +665,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 7975,
-      "OpenedBy": "obiltschnig",
-      "CreatedAt": "2021-11-06T08:10:39Z",
-      "Recipe": "poco",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7975",
-      "LastCommitSHA": "c6172432f3b532b4b085af9be62a224cb2a8784f",
-      "LastCommitAt": "2021-11-05T20:53:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
