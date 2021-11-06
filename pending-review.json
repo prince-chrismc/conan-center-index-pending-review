@@ -607,5 +607,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 7980,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-11-06T18:02:48Z",
+      "Recipe": "uwebsockets",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7980",
+      "LastCommitSHA": "df6f446d2a41fcd0059a96457cec6031e6a3bab2",
+      "LastCommitAt": "2021-11-06T17:59:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
