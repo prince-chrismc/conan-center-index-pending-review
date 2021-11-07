@@ -122,32 +122,6 @@
       }
    },
    {
-      "Number": 7894,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2021-10-29T15:34:14Z",
-      "Recipe": "gtest",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7894",
-      "LastCommitSHA": "8aa1835e4d64542685efb30e9b059a496c3c00da",
-      "LastCommitAt": "2021-10-29T23:47:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-07T04:42:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7894#pullrequestreview-799496409"
-         }
-      }
-   },
-   {
       "Number": 7908,
       "OpenedBy": "AntonHorbach",
       "CreatedAt": "2021-10-31T08:09:57Z",
@@ -397,6 +371,29 @@
       }
    },
    {
+      "Number": 7972,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2021-11-05T19:16:56Z",
+      "Recipe": "farmhash",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7972",
+      "LastCommitSHA": "20e62edac1cf0c8f7c67a0137134145d93b843aa",
+      "LastCommitAt": "2021-11-06T18:41:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-11-06T18:19:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7972#pullrequestreview-799465845"
+         }
+      }
+   },
+   {
       "Number": 7973,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-11-05T23:48:47Z",
@@ -454,9 +451,9 @@
       "Recipe": "android-ndk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7976",
-      "LastCommitSHA": "bd37ba42387de9dd86ba69b5b761d7fbff0bf710",
-      "LastCommitAt": "2021-11-06T19:19:19Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8f174c026cbd6a1044fc3a1924ae28d7de0afc90",
+      "LastCommitAt": "2021-11-07T12:41:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
