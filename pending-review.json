@@ -371,32 +371,6 @@
       }
    },
    {
-      "Number": 7976,
-      "OpenedBy": "andioz",
-      "CreatedAt": "2021-11-06T09:19:49Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7976",
-      "LastCommitSHA": "8f174c026cbd6a1044fc3a1924ae28d7de0afc90",
-      "LastCommitAt": "2021-11-07T12:41:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "justinmcbride",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-08T06:30:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7976#pullrequestreview-799728777"
-         }
-      }
-   },
-   {
       "Number": 7977,
       "OpenedBy": "sh0",
       "CreatedAt": "2021-11-06T14:49:06Z",
@@ -524,6 +498,24 @@
             "SubmittedAt": "2021-11-08T12:11:06Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7986#pullrequestreview-800037424"
          }
+      }
+   },
+   {
+      "Number": 7990,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-11-08T11:59:11Z",
+      "Recipe": "sqlite_orm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7990",
+      "LastCommitSHA": "3a20d9ab401c646a136a7b6b4504b4c3fe54cb1b",
+      "LastCommitAt": "2021-11-08T13:21:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
