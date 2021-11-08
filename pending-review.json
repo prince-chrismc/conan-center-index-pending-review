@@ -247,6 +247,29 @@
       }
    },
    {
+      "Number": 7919,
+      "OpenedBy": "darcamo",
+      "CreatedAt": "2021-11-01T20:23:33Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7919",
+      "LastCommitSHA": "1848d712b9314fadeae3af9fab620e4eacb3a393",
+      "LastCommitAt": "2021-11-08T04:17:25Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2021-11-06T07:26:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7919#pullrequestreview-799423297"
+         }
+      }
+   },
+   {
       "Number": 7931,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-03T12:06:48Z",
@@ -596,6 +619,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7984",
       "LastCommitSHA": "f0cc06f8648b51bf062bd333aac2eb3de3c1fdf2",
       "LastCommitAt": "2021-11-07T16:40:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 7985,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-11-07T21:29:24Z",
+      "Recipe": "proj",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7985",
+      "LastCommitSHA": "43b826faa6838c7537205d56e154e8fc18dfaa11",
+      "LastCommitAt": "2021-11-07T22:53:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
