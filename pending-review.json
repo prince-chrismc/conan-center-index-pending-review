@@ -505,15 +505,17 @@
       "LastCommitAt": "2021-11-07T12:41:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "justinmcbride"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-06T19:17:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7976#pullrequestreview-799469760"
+            "ReviewerName": "justinmcbride",
+            "SubmittedAt": "2021-11-08T01:34:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7976#pullrequestreview-799624135"
          }
       }
    },
