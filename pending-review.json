@@ -249,32 +249,6 @@
       }
    },
    {
-      "Number": 7959,
-      "OpenedBy": "srnwk",
-      "CreatedAt": "2021-11-05T03:55:06Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7959",
-      "LastCommitSHA": "e8f3043053ec0afc170df91c67836a5c1150dd00",
-      "LastCommitAt": "2021-11-05T03:41:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-08T18:36:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7959#pullrequestreview-800477855"
-         }
-      }
-   },
-   {
       "Number": 7961,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-05T09:29:31Z",
@@ -311,18 +285,19 @@
       "LastCommitAt": "2021-11-05T16:18:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-08T18:43:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7968#pullrequestreview-800484035"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-11-09T12:41:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7968#pullrequestreview-801228735"
          }
       }
    },
