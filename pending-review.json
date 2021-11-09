@@ -105,17 +105,14 @@
       "Recipe": "tensorflow-lite",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7855",
-      "LastCommitSHA": "717d2e396f688ab05f15b92322acabeb5cd2e6c6",
-      "LastCommitAt": "2021-11-09T09:26:36Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "178d440e4e66f28ad08f4d11c20399a4d5890a11",
+      "LastCommitAt": "2021-11-09T22:58:44Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
