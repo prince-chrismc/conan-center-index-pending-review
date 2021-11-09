@@ -109,15 +109,17 @@
       "LastCommitAt": "2021-11-09T09:26:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-05T16:11:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7855#pullrequestreview-799080254"
+            "SubmittedAt": "2021-11-09T11:58:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7855#pullrequestreview-801187167"
          }
       }
    },
@@ -360,43 +362,18 @@
       "LastCommitAt": "2021-11-08T21:30:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-09T09:11:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7999#pullrequestreview-801016075"
-         }
-      }
-   },
-   {
-      "Number": 8000,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-11-09T08:11:26Z",
-      "Recipe": "pango",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8000",
-      "LastCommitSHA": "5153eed242468e031603fd508dda4dbec4060a8c",
-      "LastCommitAt": "2021-11-09T06:37:06Z",
-      "CciBotPassed": true,
-      "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "Croydon",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-09T09:06:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8000#pullrequestreview-801010459"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-11-09T11:55:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7999#pullrequestreview-801184476"
          }
       }
    }
