@@ -299,31 +299,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7996#pullrequestreview-800504296"
          }
       }
-   },
-   {
-      "Number": 7999,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-11-08T21:36:32Z",
-      "Recipe": "vulkan-loader",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7999",
-      "LastCommitSHA": "f8686b90921d75df709995d85d5ad3e7556c2aaa",
-      "LastCommitAt": "2021-11-08T21:30:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-09T11:55:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7999#pullrequestreview-801184476"
-         }
-      }
    }
 ]
