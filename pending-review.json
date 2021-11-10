@@ -99,29 +99,6 @@
       }
    },
    {
-      "Number": 7855,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2021-10-27T19:23:28Z",
-      "Recipe": "tensorflow-lite",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7855",
-      "LastCommitSHA": "178d440e4e66f28ad08f4d11c20399a4d5890a11",
-      "LastCommitAt": "2021-11-09T22:58:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-09T16:22:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7855#pullrequestreview-801509954"
-         }
-      }
-   },
-   {
       "Number": 7881,
       "OpenedBy": "mosure",
       "CreatedAt": "2021-10-28T22:38:09Z",
@@ -295,6 +272,24 @@
             "SubmittedAt": "2021-11-08T19:06:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7996#pullrequestreview-800504296"
          }
+      }
+   },
+   {
+      "Number": 8006,
+      "OpenedBy": "bowb",
+      "CreatedAt": "2021-11-09T21:22:59Z",
+      "Recipe": "xqilla",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8006",
+      "LastCommitSHA": "5de2fdd1da800b3dbf961ad8f85bad815205cc6d",
+      "LastCommitAt": "2021-11-10T00:22:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
