@@ -274,48 +274,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7961#pullrequestreview-800479375"
          }
       }
-   },
-   {
-      "Number": 7996,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-08T16:12:16Z",
-      "Recipe": "avir",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7996",
-      "LastCommitSHA": "60581d14702b61b5e3b13b158b4669371c54e7e6",
-      "LastCommitAt": "2021-11-07T16:13:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-08T19:06:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7996#pullrequestreview-800504296"
-         }
-      }
-   },
-   {
-      "Number": 8007,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-10T06:24:52Z",
-      "Recipe": "st_tree",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8007",
-      "LastCommitSHA": "4d33dbf36cfa682d801984a51efc751b44bede2a",
-      "LastCommitAt": "2021-11-08T16:51:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
