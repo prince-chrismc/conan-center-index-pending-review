@@ -105,19 +105,19 @@
       "Recipe": "tensorflow-lite",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7855",
-      "LastCommitSHA": "ac98b807a031c91411ce8d3dc0aed5ac495f9e1d",
-      "LastCommitAt": "2021-11-09T22:58:44Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "88968dde673673fa864cad3197166636573d582e",
+      "LastCommitAt": "2021-11-10T14:03:37Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-09T16:22:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7855#pullrequestreview-801509954"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-11-10T13:55:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7855#pullrequestreview-802621699"
          }
       }
    },
@@ -295,24 +295,6 @@
             "SubmittedAt": "2021-11-08T19:06:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7996#pullrequestreview-800504296"
          }
-      }
-   },
-   {
-      "Number": 8006,
-      "OpenedBy": "bowb",
-      "CreatedAt": "2021-11-09T21:22:59Z",
-      "Recipe": "xqilla",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8006",
-      "LastCommitSHA": "2a79629c7ef1b2e4fc95597a5e47bae4e520b5d0",
-      "LastCommitAt": "2021-11-10T02:20:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
