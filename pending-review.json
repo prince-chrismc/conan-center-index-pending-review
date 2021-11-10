@@ -281,8 +281,8 @@
       "Recipe": "xqilla",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8006",
-      "LastCommitSHA": "5de2fdd1da800b3dbf961ad8f85bad815205cc6d",
-      "LastCommitAt": "2021-11-10T00:22:22Z",
+      "LastCommitSHA": "2a79629c7ef1b2e4fc95597a5e47bae4e520b5d0",
+      "LastCommitAt": "2021-11-10T02:20:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
