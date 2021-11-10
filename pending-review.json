@@ -301,6 +301,29 @@
       }
    },
    {
+      "Number": 8006,
+      "OpenedBy": "bowb",
+      "CreatedAt": "2021-11-09T21:22:59Z",
+      "Recipe": "xqilla",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8006",
+      "LastCommitSHA": "ab4b4b73ce0e8efd59cb1b76f03686a23293b006",
+      "LastCommitAt": "2021-11-10T22:21:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-10T21:50:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8006#pullrequestreview-803181363"
+         }
+      }
+   },
+   {
       "Number": 8007,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-10T06:24:52Z",
