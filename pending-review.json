@@ -234,18 +234,19 @@
       "LastCommitAt": "2021-11-05T09:28:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 4,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "uilianries"
+            "uilianries",
+            "Zvicii"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-08T18:38:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7961#pullrequestreview-800479375"
+            "ReviewerName": "Zvicii",
+            "SubmittedAt": "2021-11-11T03:46:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7961#pullrequestreview-803383627"
          }
       }
    },
