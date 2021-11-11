@@ -434,15 +434,17 @@
       "LastCommitAt": "2021-11-11T13:00:53Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-11T08:06:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8010#pullrequestreview-803509661"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-11-11T14:25:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8010#pullrequestreview-803854191"
          }
       }
    },
@@ -558,13 +560,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8017",
       "LastCommitSHA": "08ab93122c6256cdcf74a358a807c8f2e6f65d5d",
       "LastCommitAt": "2021-11-11T08:49:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-11-11T14:20:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8017#pullrequestreview-803848418"
+         }
       }
    },
    {
@@ -576,6 +585,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8019",
       "LastCommitSHA": "13e298c646d3f307b7ac17698fa4e2ebb76915e1",
       "LastCommitAt": "2021-11-11T11:48:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8021,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2021-11-11T14:18:18Z",
+      "Recipe": "args-parser",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8021",
+      "LastCommitSHA": "c4019da4d152a154fbc47f1bf57931e7a0ee194e",
+      "LastCommitAt": "2021-11-11T14:05:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
