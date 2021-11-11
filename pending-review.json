@@ -455,16 +455,14 @@
       "Recipe": "vulkan-validationlayers",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8013",
-      "LastCommitSHA": "3ebc7877298a9a9c710e3b281b702459249bb055",
-      "LastCommitAt": "2021-11-10T21:57:31Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e1dfd13304bdaf1573a20cc244c658fb9a3133c7",
+      "LastCommitAt": "2021-11-11T09:42:31Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
