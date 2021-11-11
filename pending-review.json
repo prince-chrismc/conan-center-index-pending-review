@@ -406,23 +406,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 8014,
-      "OpenedBy": "Zvicii",
-      "CreatedAt": "2021-11-11T02:25:02Z",
-      "Recipe": "aws-c-io",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8014",
-      "LastCommitSHA": "29727344c1d3947864a080908b6d48c40557f3a1",
-      "LastCommitAt": "2021-11-11T02:23:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
