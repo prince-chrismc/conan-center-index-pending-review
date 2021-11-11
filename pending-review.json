@@ -535,14 +535,14 @@
       }
    },
    {
-      "Number": 8018,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-11-11T11:07:28Z",
-      "Recipe": "libjpeg",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8018",
-      "LastCommitSHA": "1c9c1a0d2e0129b784c59466cd53fe2a5782b978",
-      "LastCommitAt": "2021-11-11T11:06:42Z",
+      "Number": 8019,
+      "OpenedBy": "vvarma",
+      "CreatedAt": "2021-11-11T11:49:18Z",
+      "Recipe": "easyloggingpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8019",
+      "LastCommitSHA": "13e298c646d3f307b7ac17698fa4e2ebb76915e1",
+      "LastCommitAt": "2021-11-11T11:48:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
