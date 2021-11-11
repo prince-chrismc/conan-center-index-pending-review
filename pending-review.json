@@ -347,6 +347,29 @@
       }
    },
    {
+      "Number": 8010,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2021-11-10T17:56:21Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8010",
+      "LastCommitSHA": "1eecb475ed1c957adbb2f71d9916754bae592943",
+      "LastCommitAt": "2021-11-10T18:35:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-11-10T18:10:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8010#pullrequestreview-802961625"
+         }
+      }
+   },
+   {
       "Number": 8012,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-11-10T20:20:10Z",
@@ -373,6 +396,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8013",
       "LastCommitSHA": "3ebc7877298a9a9c710e3b281b702459249bb055",
       "LastCommitAt": "2021-11-10T21:57:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8015,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-11-11T05:17:11Z",
+      "Recipe": "gmp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8015",
+      "LastCommitSHA": "c402b502f109393cd4077ef916e253a17826e154",
+      "LastCommitAt": "2021-11-11T05:16:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
