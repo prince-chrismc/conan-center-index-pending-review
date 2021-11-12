@@ -461,7 +461,7 @@
       "LastCommitAt": "2021-11-12T04:23:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -469,9 +469,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-12T09:30:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8026#pullrequestreview-804573678"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-12T22:39:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8026#pullrequestreview-805276086"
          }
       }
    },
@@ -512,7 +512,7 @@
       "LastCommitAt": "2021-11-12T16:36:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -520,10 +520,46 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-12T20:21:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8029#pullrequestreview-805193949"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-12T22:46:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8029#pullrequestreview-805280822"
          }
+      }
+   },
+   {
+      "Number": 8032,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-11-12T22:29:49Z",
+      "Recipe": "spirv-cross",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8032",
+      "LastCommitSHA": "54c31ca7443648d7d160380c39873ea8eaeacd69",
+      "LastCommitAt": "2021-11-12T22:28:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8033,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-11-12T23:11:34Z",
+      "Recipe": "diligentgraphics-glslang",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8033",
+      "LastCommitSHA": "ccc386442e73c24347f035e3beda6f9ea0a860c6",
+      "LastCommitAt": "2021-11-12T23:10:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
