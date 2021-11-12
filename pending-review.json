@@ -437,18 +437,19 @@
       "LastCommitAt": "2021-11-11T08:49:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "Croydon",
-            "madebr"
+            "madebr",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-11T15:52:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8017#pullrequestreview-803953064"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-12T09:01:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8017#pullrequestreview-804547693"
          }
       }
    },
@@ -463,17 +464,18 @@
       "LastCommitAt": "2021-11-11T11:48:40Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-11T15:50:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8019#pullrequestreview-803950881"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-12T09:00:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8019#pullrequestreview-804547226"
          }
       }
    },
@@ -488,18 +490,19 @@
       "LastCommitAt": "2021-11-11T14:05:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "toge"
+            "toge",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-11-11T16:54:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8021#pullrequestreview-804018848"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-12T08:59:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8021#pullrequestreview-804546298"
          }
       }
    },
@@ -512,13 +515,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8022",
       "LastCommitSHA": "ccc2abdad01f4166e62b2cba8ae951f9964c23c9",
       "LastCommitAt": "2021-11-11T17:13:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-12T08:56:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8022#pullrequestreview-804543956"
+         }
       }
    },
    {
@@ -532,17 +542,18 @@
       "LastCommitAt": "2021-11-11T21:26:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "Croydon"
+            "Croydon",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-11-11T22:55:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8025#pullrequestreview-804282735"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-12T08:56:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8025#pullrequestreview-804543606"
          }
       }
    },
