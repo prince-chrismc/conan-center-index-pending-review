@@ -527,6 +527,24 @@
       }
    },
    {
+      "Number": 8031,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2021-11-12T22:17:10Z",
+      "Recipe": "tensorflow-lite",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8031",
+      "LastCommitSHA": "eac2cfb30ae0148a94953f82d823693afc19c431",
+      "LastCommitAt": "2021-11-12T22:11:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8032,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-11-12T22:29:49Z",
