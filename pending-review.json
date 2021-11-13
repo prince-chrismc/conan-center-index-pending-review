@@ -543,23 +543,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 8033,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-11-12T23:11:34Z",
-      "Recipe": "diligentgraphics-glslang",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8033",
-      "LastCommitSHA": "ccc386442e73c24347f035e3beda6f9ea0a860c6",
-      "LastCommitAt": "2021-11-12T23:10:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
