@@ -517,24 +517,6 @@
       }
    },
    {
-      "Number": 8028,
-      "OpenedBy": "igormironchik",
-      "CreatedAt": "2021-11-12T11:55:17Z",
-      "Recipe": "cfgfile",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8028",
-      "LastCommitSHA": "e574b87a9aff48bf1dd9286d74595bbeb2324879",
-      "LastCommitAt": "2021-11-13T12:13:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 8029,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-12T15:35:25Z",
@@ -545,15 +527,17 @@
       "LastCommitAt": "2021-11-13T10:24:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "madebr"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-12T22:46:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8029#pullrequestreview-805280822"
+            "SubmittedAt": "2021-11-13T15:54:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8029#pullrequestreview-805380272"
          }
       }
    },
