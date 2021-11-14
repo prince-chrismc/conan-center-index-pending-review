@@ -134,7 +134,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7923",
       "LastCommitSHA": "087a2a74df9012ef6d0a767db2f7f496823f0f01",
       "LastCommitAt": "2021-11-10T07:58:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 10,
          "ValidApprovals": 3,
@@ -559,6 +559,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8038",
       "LastCommitSHA": "4b4ab7a31479f1c3e44d885d4796a76ae252fdae",
       "LastCommitAt": "2021-11-13T22:17:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8040,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2021-11-14T00:36:23Z",
+      "Recipe": "armadillo",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8040",
+      "LastCommitSHA": "183b25cf5e5d31ed4ce326de7f4ba64d02a0e43d",
+      "LastCommitAt": "2021-11-14T00:34:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
