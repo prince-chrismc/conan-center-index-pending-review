@@ -212,16 +212,14 @@
       "Recipe": "xqilla",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8006",
-      "LastCommitSHA": "ab4b4b73ce0e8efd59cb1b76f03686a23293b006",
-      "LastCommitAt": "2021-11-10T22:21:29Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "773e3e4afb129182a818cd3bab88ee2b89e8bfd4",
+      "LastCommitAt": "2021-11-15T16:04:53Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 15,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -580,33 +578,6 @@
       }
    },
    {
-      "Number": 8050,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-11-15T11:25:24Z",
-      "Recipe": "spirv-headers",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8050",
-      "LastCommitSHA": "70c39ad218536ac8f4ea546d722d177cf08089bd",
-      "LastCommitAt": "2021-11-15T11:24:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "Croydon",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-15T14:55:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8050#pullrequestreview-806169337"
-         }
-      }
-   },
-   {
       "Number": 8054,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-11-15T14:43:28Z",
@@ -615,24 +586,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8054",
       "LastCommitSHA": "aac6784480938fe801041ef5b66bf8a6bcbf4708",
       "LastCommitAt": "2021-11-15T14:46:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 8055,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-11-15T15:07:40Z",
-      "Recipe": "yasm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8055",
-      "LastCommitSHA": "04e74fb40eaadf15e31b54676edc2a58ae20fad0",
-      "LastCommitAt": "2021-11-15T15:07:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
