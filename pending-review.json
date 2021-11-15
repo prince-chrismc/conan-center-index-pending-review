@@ -284,33 +284,6 @@
       }
    },
    {
-      "Number": 8047,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-14T16:53:52Z",
-      "Recipe": "bitmagic",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8047",
-      "LastCommitSHA": "604bb6574e21d8b90166e2b4549042effd2f4b52",
-      "LastCommitAt": "2021-11-14T12:34:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-15T18:05:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8047#pullrequestreview-806393585"
-         }
-      }
-   },
-   {
       "Number": 8049,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-11-15T08:45:57Z",
@@ -390,7 +363,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8059",
       "LastCommitSHA": "15d2acb41f7cd58b38f9cb8385bede7d4d09e029",
       "LastCommitAt": "2021-11-15T17:30:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
