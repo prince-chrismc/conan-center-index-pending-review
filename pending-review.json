@@ -284,61 +284,6 @@
       }
    },
    {
-      "Number": 8038,
-      "OpenedBy": "ngrodzitski",
-      "CreatedAt": "2021-11-13T22:19:49Z",
-      "Recipe": "logr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8038",
-      "LastCommitSHA": "4b4ab7a31479f1c3e44d885d4796a76ae252fdae",
-      "LastCommitAt": "2021-11-13T22:17:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier",
-            "uilianries",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-15T17:37:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8038#pullrequestreview-806367760"
-         }
-      }
-   },
-   {
-      "Number": 8046,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-14T15:56:22Z",
-      "Recipe": "redis-plus-plus",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8046",
-      "LastCommitSHA": "9c06995ef0955a22ec2e017da08e9bf305d8383a",
-      "LastCommitAt": "2021-11-14T16:09:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-15T18:04:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8046#pullrequestreview-806393177"
-         }
-      }
-   },
-   {
       "Number": 8047,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-14T16:53:52Z",
@@ -460,24 +405,6 @@
             "SubmittedAt": "2021-11-15T18:37:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8059#pullrequestreview-806422285"
          }
-      }
-   },
-   {
-      "Number": 8061,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-11-15T18:46:06Z",
-      "Recipe": "moltenvk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8061",
-      "LastCommitSHA": "846312228f0fe494d5e4c9ad7851d2d6fb201393",
-      "LastCommitAt": "2021-11-15T18:44:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
