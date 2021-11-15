@@ -135,13 +135,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7933",
       "LastCommitSHA": "ac31ab8d580d5a44e80afcb1e8d752ffd70407d2",
       "LastCommitAt": "2021-11-03T15:58:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-15T08:35:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7933#pullrequestreview-805762092"
+         }
       }
    },
    {
@@ -397,32 +404,6 @@
       }
    },
    {
-      "Number": 8032,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-11-12T22:29:49Z",
-      "Recipe": "spirv-cross",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8032",
-      "LastCommitSHA": "54c31ca7443648d7d160380c39873ea8eaeacd69",
-      "LastCommitAt": "2021-11-12T22:28:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-14T16:27:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8032#pullrequestreview-805491313"
-         }
-      }
-   },
-   {
       "Number": 8038,
       "OpenedBy": "ngrodzitski",
       "CreatedAt": "2021-11-13T22:19:49Z",
@@ -574,6 +555,31 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-11-15T06:19:37Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8048#pullrequestreview-805668859"
+         }
+      }
+   },
+   {
+      "Number": 8049,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-11-15T08:45:57Z",
+      "Recipe": "vulkan-headers",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8049",
+      "LastCommitSHA": "8948ef39c9207691a268392810473bb728aa52e5",
+      "LastCommitAt": "2021-11-15T08:45:30Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-11-15T08:50:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8049#pullrequestreview-805776558"
          }
       }
    }
