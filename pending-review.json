@@ -35,18 +35,19 @@
       "LastCommitAt": "2021-11-13T21:02:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
+         "Count": 6,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "danimtb"
+            "danimtb",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-11-15T11:14:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7350#pullrequestreview-805932869"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-11-15T14:06:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7350#pullrequestreview-806108730"
          }
       }
    },
