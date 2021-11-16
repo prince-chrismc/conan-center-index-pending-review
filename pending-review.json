@@ -127,82 +127,25 @@
       }
    },
    {
-      "Number": 7998,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-11-08T18:20:30Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7998",
-      "LastCommitSHA": "49023c3b46fd55cfe4901ed176b600923c23d6c1",
-      "LastCommitAt": "2021-11-10T12:32:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-16T04:17:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7998#pullrequestreview-806797788"
-         }
-      }
-   },
-   {
       "Number": 8006,
       "OpenedBy": "bowb",
       "CreatedAt": "2021-11-09T21:22:59Z",
       "Recipe": "xqilla",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8006",
-      "LastCommitSHA": "773e3e4afb129182a818cd3bab88ee2b89e8bfd4",
-      "LastCommitAt": "2021-11-15T16:04:53Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "b468827ce4f7aac0a29dcb8ace41fdd659455ac4",
+      "LastCommitAt": "2021-11-16T06:10:43Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 19,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "madebr"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2021-11-16T04:21:44Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8006#pullrequestreview-806799318"
-         }
-      }
-   },
-   {
-      "Number": 8007,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-10T06:24:52Z",
-      "Recipe": "st_tree",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8007",
-      "LastCommitSHA": "90278a06b7a4d9d93d38d192296611d095e2e93b",
-      "LastCommitAt": "2021-11-10T16:12:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-16T04:22:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8007#pullrequestreview-806799633"
          }
       }
    },
