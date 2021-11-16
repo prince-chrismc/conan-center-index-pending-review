@@ -373,5 +373,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8073,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-11-16T20:22:55Z",
+      "Recipe": "shaderc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8073",
+      "LastCommitSHA": "cad310a4bcbe4ea16fa679f05a0572d8caf2ca1f",
+      "LastCommitAt": "2021-11-16T20:12:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
