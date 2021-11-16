@@ -271,6 +271,24 @@
       }
    },
    {
+      "Number": 8065,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-11-16T12:16:02Z",
+      "Recipe": "poco",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8065",
+      "LastCommitSHA": "23ebc9be8b9756c531236738a2b2819d68d9aa8b",
+      "LastCommitAt": "2021-11-16T12:51:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8066,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-11-16T13:23:38Z",
@@ -297,7 +315,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8068",
       "LastCommitSHA": "86caa36a5c73276bdab880dbffe96d96073c2072",
       "LastCommitAt": "2021-11-16T15:15:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -322,7 +340,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8069",
       "LastCommitSHA": "0354506b008ca2a915c72dfa90afc96f92bb8769",
       "LastCommitAt": "2021-11-16T15:32:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
