@@ -553,5 +553,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8085,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-11-17T12:39:52Z",
+      "Recipe": "bison",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8085",
+      "LastCommitSHA": "f55decae2d8295782a27f321d2e8afae7376dd39",
+      "LastCommitAt": "2021-11-17T12:38:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
