@@ -571,5 +571,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8086,
+      "OpenedBy": "ShuangLiu1992",
+      "CreatedAt": "2021-11-17T15:04:52Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8086",
+      "LastCommitSHA": "ece36790fd0f472a49da2254f0fd260266ffcded",
+      "LastCommitAt": "2021-11-17T15:03:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
