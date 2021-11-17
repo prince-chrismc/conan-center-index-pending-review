@@ -522,23 +522,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 8080,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-11-17T05:44:08Z",
-      "Recipe": "wolfssl",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8080",
-      "LastCommitSHA": "c6a02a18566b1aef48711318a930725ab298a858",
-      "LastCommitAt": "2021-11-17T01:00:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
