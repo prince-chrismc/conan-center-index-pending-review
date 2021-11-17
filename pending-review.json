@@ -545,8 +545,8 @@
       "Recipe": "wiringpi",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8082",
-      "LastCommitSHA": "11dd70eb6b06eeefcc06c7874901395fd633d059",
-      "LastCommitAt": "2021-11-17T09:30:13Z",
+      "LastCommitSHA": "e3d9dbf9f454056702266c8e573512dc2d77296c",
+      "LastCommitAt": "2021-11-17T18:26:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
