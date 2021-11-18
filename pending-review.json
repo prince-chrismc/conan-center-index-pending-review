@@ -207,6 +207,31 @@
       }
    },
    {
+      "Number": 8036,
+      "OpenedBy": "andiwand",
+      "CreatedAt": "2021-11-13T14:36:39Z",
+      "Recipe": "uchardet",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8036",
+      "LastCommitSHA": "372d3e23ae0e32a5452f2bbbcacfe2eca538fc0a",
+      "LastCommitAt": "2021-11-18T19:03:48Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 9,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-18T19:36:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8036#pullrequestreview-810371598"
+         }
+      }
+   },
+   {
       "Number": 8053,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2021-11-15T13:22:51Z",
