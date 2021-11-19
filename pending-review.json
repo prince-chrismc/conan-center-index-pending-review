@@ -1,5 +1,30 @@
 [
    {
+      "Number": 1510,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2020-05-02T18:19:31Z",
+      "Recipe": "cpython",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/1510",
+      "LastCommitSHA": "bdfd47a42ea4113a4b0294a16fab0c9dc34882ab",
+      "LastCommitAt": "2021-11-19T07:35:22Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 86,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-11-19T13:27:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/1510#pullrequestreview-811203423"
+         }
+      }
+   },
+   {
       "Number": 5378,
       "OpenedBy": "uilianries",
       "CreatedAt": "2021-04-30T14:19:12Z",
@@ -631,7 +656,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8098",
       "LastCommitSHA": "74039847982921bf838cfe2c7b5d52fbb771e7c4",
       "LastCommitAt": "2021-11-18T16:54:48Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
