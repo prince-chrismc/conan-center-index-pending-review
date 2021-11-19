@@ -35,7 +35,7 @@
       "LastCommitAt": "2021-11-18T08:32:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 18,
+         "Count": 21,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -45,9 +45,9 @@
             "uilianries"
          ],
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-18T17:15:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7565#pullrequestreview-810222995"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-11-19T05:40:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7565#pullrequestreview-810778122"
          }
       }
    },
@@ -749,6 +749,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8106",
       "LastCommitSHA": "8d8200eaa8a13a51bb8469647ed4654c088de2c7",
       "LastCommitAt": "2021-11-19T04:17:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8107,
+      "OpenedBy": "Croydon",
+      "CreatedAt": "2021-11-19T03:44:20Z",
+      "Recipe": "cmake",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8107",
+      "LastCommitSHA": "94034a8932d773b7ffb143aea7958bf3190cfe2e",
+      "LastCommitAt": "2021-11-19T04:15:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
