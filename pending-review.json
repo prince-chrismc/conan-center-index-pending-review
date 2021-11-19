@@ -696,5 +696,30 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8099#pullrequestreview-810524766"
          }
       }
+   },
+   {
+      "Number": 8102,
+      "OpenedBy": "n-bes",
+      "CreatedAt": "2021-11-18T18:50:51Z",
+      "Recipe": "wilzegers-autotest",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8102",
+      "LastCommitSHA": "e27cdc3717a6a535a58fe0a44127f48f3554c945",
+      "LastCommitAt": "2021-11-18T23:01:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 13,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-18T23:15:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8102#pullrequestreview-810550868"
+         }
+      }
    }
 ]
