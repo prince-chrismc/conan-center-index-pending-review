@@ -777,32 +777,14 @@
       }
    },
    {
-      "Number": 8110,
-      "OpenedBy": "db4",
-      "CreatedAt": "2021-11-19T09:17:36Z",
-      "Recipe": "boost",
+      "Number": 8114,
+      "OpenedBy": "gjasny",
+      "CreatedAt": "2021-11-19T11:39:09Z",
+      "Recipe": "civetweb",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8110",
-      "LastCommitSHA": "3346dd293b6762314296d41092d82499d98e38ab",
-      "LastCommitAt": "2021-11-18T16:59:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 8112,
-      "OpenedBy": "sh0",
-      "CreatedAt": "2021-11-19T11:09:06Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8112",
-      "LastCommitSHA": "cfc7433983038736817e90e03f811da5aad5fb7e",
-      "LastCommitAt": "2021-11-19T11:06:30Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8114",
+      "LastCommitSHA": "e696202094b436618a4f3e3470123f0b1220bf79",
+      "LastCommitAt": "2021-11-19T11:32:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
