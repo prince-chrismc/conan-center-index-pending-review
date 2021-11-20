@@ -860,5 +860,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8124,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2021-11-20T07:09:44Z",
+      "Recipe": "libjpeg-turbo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8124",
+      "LastCommitSHA": "6e9af96060e39e5fb1b275e5706f2694fe004fa5",
+      "LastCommitAt": "2021-11-20T07:06:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
