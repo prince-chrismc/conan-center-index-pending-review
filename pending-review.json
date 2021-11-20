@@ -728,6 +728,32 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8124",
       "LastCommitSHA": "6e9af96060e39e5fb1b275e5706f2694fe004fa5",
       "LastCommitAt": "2021-11-20T07:06:46Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr",
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-11-20T13:41:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8124#pullrequestreview-811830878"
+         }
+      }
+   },
+   {
+      "Number": 8130,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2021-11-20T14:08:32Z",
+      "Recipe": "protobuf",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8130",
+      "LastCommitSHA": "bec0a2e993bbcaf432df19a4195258770b95391b",
+      "LastCommitAt": "2021-11-20T14:01:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
