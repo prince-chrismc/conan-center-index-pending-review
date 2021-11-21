@@ -607,57 +607,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8134#pullrequestreview-811878199"
          }
       }
-   },
-   {
-      "Number": 8137,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-11-20T23:26:53Z",
-      "Recipe": "magnum-plugins",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8137",
-      "LastCommitSHA": "a685781bf3838bfa7b6bb12a3a6709a0657324f1",
-      "LastCommitAt": "2021-11-20T23:25:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-21T04:10:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8137#pullrequestreview-811878220"
-         }
-      }
-   },
-   {
-      "Number": 8138,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-11-20T23:27:08Z",
-      "Recipe": "magnum",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8138",
-      "LastCommitSHA": "f3bfeb45331845d14582fc23e8c53597053d65c8",
-      "LastCommitAt": "2021-11-20T23:24:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-21T04:10:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8138#pullrequestreview-811878231"
-         }
-      }
    }
 ]
