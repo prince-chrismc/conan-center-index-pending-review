@@ -309,33 +309,6 @@
       }
    },
    {
-      "Number": 8083,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-11-17T10:54:57Z",
-      "Recipe": "emsdk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8083",
-      "LastCommitSHA": "1af098a7d2c2adac60abe87dbaae18e1c0d89425",
-      "LastCommitAt": "2021-11-17T15:58:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-21T03:57:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8083#pullrequestreview-811877688"
-         }
-      }
-   },
-   {
       "Number": 8085,
       "OpenedBy": "SSE4",
       "CreatedAt": "2021-11-17T12:39:52Z",
