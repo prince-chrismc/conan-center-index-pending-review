@@ -643,5 +643,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8141,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2021-11-21T11:46:01Z",
+      "Recipe": "logr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8141",
+      "LastCommitSHA": "179a2023e4924395a6450a63fa1747d41d65a226",
+      "LastCommitAt": "2021-11-21T11:42:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-11-21T11:47:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8141#pullrequestreview-811911378"
+         }
+      }
    }
 ]
