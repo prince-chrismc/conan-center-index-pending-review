@@ -268,7 +268,7 @@
       "LastCommitAt": "2021-11-20T17:03:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
+         "Count": 12,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -277,9 +277,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-11-21T17:13:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8095#pullrequestreview-811944917"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-21T18:07:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8095#pullrequestreview-811949592"
          }
       }
    },
@@ -401,60 +401,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 8133,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-11-20T19:31:37Z",
-      "Recipe": "vulkan-headers",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8133",
-      "LastCommitSHA": "1bf9c6893f87007d3a9d61f7a6067befb4238e37",
-      "LastCommitAt": "2021-11-20T19:14:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-21T13:55:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8133#pullrequestreview-811924734"
-         }
-      }
-   },
-   {
-      "Number": 8134,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-11-20T19:32:22Z",
-      "Recipe": "spirv-cross",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8134",
-      "LastCommitSHA": "df35f8a83fbaa22a590d09cf611ebb1eb0d0f91a",
-      "LastCommitAt": "2021-11-20T19:29:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-21T13:54:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8134#pullrequestreview-811924711"
-         }
       }
    },
    {
