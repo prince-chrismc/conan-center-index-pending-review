@@ -575,15 +575,17 @@
       "LastCommitAt": "2021-11-22T20:49:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 22,
-         "ValidApprovals": 0,
+         "Count": 23,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "madebr"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "michalwidera",
-            "SubmittedAt": "2021-11-22T19:04:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8143#pullrequestreview-812917356"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-22T22:30:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8143#pullrequestreview-813081797"
          }
       }
    },
@@ -686,6 +688,50 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-11-22T21:19:56Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8155#pullrequestreview-813029187"
+         }
+      }
+   },
+   {
+      "Number": 8156,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-11-22T22:34:19Z",
+      "Recipe": "spirv-tools",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8156",
+      "LastCommitSHA": "8a375ac963c02b3795ef90ed39be4a56a3785475",
+      "LastCommitAt": "2021-11-22T22:33:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8157,
+      "OpenedBy": "ericriff",
+      "CreatedAt": "2021-11-22T22:40:45Z",
+      "Recipe": "libtool",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8157",
+      "LastCommitSHA": "93dc7cc8b49f85206ccf5b1072d4d44535417eac",
+      "LastCommitAt": "2021-11-22T22:21:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr",
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-11-22T22:54:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8157#pullrequestreview-813096631"
          }
       }
    }
