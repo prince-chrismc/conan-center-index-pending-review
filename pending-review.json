@@ -557,33 +557,6 @@
       }
    },
    {
-      "Number": 8143,
-      "OpenedBy": "michalwidera",
-      "CreatedAt": "2021-11-21T18:51:47Z",
-      "Recipe": "antlr4-cppruntime",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8143",
-      "LastCommitSHA": "61ffc22c56f34074dd6e00abb2b0e97a5becbce6",
-      "LastCommitAt": "2021-11-22T20:49:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 25,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-11-23T18:10:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8143#pullrequestreview-814022177"
-         }
-      }
-   },
-   {
       "Number": 8146,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2021-11-21T21:18:14Z",
