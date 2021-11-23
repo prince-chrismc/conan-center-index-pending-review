@@ -657,5 +657,30 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8153#pullrequestreview-812818351"
          }
       }
+   },
+   {
+      "Number": 8162,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-11-23T13:51:42Z",
+      "Recipe": "wayland-protocols",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8162",
+      "LastCommitSHA": "3abbee6f90feaae9e4aecdb7b1639d201b07ea21",
+      "LastCommitAt": "2021-11-23T14:11:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-11-23T14:38:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8162#pullrequestreview-813748635"
+         }
+      }
    }
 ]
