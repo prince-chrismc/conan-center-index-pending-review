@@ -700,5 +700,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8168,
+      "OpenedBy": "justinmcbride",
+      "CreatedAt": "2021-11-23T22:08:06Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8168",
+      "LastCommitSHA": "a09a6c45d0d9fe4d8779ca91c5fde97e142fcfe3",
+      "LastCommitAt": "2021-11-23T21:55:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
