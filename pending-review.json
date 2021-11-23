@@ -385,32 +385,6 @@
       }
    },
    {
-      "Number": 8095,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-18T15:18:32Z",
-      "Recipe": "tinyalsa",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8095",
-      "LastCommitSHA": "1f6a3045065c67f6c785003f4108bc428f80bffb",
-      "LastCommitAt": "2021-11-20T17:03:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 14,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "theirix",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-11-23T13:12:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8095#pullrequestreview-813639179"
-         }
-      }
-   },
-   {
       "Number": 8099,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-18T17:00:10Z",
