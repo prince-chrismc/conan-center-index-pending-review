@@ -10,17 +10,18 @@
       "LastCommitAt": "2021-11-20T19:08:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-21T04:00:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7094#pullrequestreview-811877786"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-11-24T15:12:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7094#pullrequestreview-815036258"
          }
       }
    },
@@ -35,20 +36,21 @@
       "LastCommitAt": "2021-11-19T08:13:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 24,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 25,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "prince-chrismc"
+            "prince-chrismc",
+            "danimtb"
          ],
          "Blockers": [
             "uilianries"
          ],
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-21T04:02:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7565#pullrequestreview-811877890"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-11-24T15:13:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7565#pullrequestreview-815038230"
          }
       }
    },
@@ -417,7 +419,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8112",
       "LastCommitSHA": "a3800a1dca731c1760edf49ca776217847adea4c",
       "LastCommitAt": "2021-11-24T12:33:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -442,7 +444,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8113",
       "LastCommitSHA": "3ab4faa85d7c782f4caae912ef3378319f5c07ca",
       "LastCommitAt": "2021-11-24T12:07:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
