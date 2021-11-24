@@ -409,6 +409,31 @@
       }
    },
    {
+      "Number": 8112,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-11-19T11:09:06Z",
+      "Recipe": "sentry-crashpad",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8112",
+      "LastCommitSHA": "a3800a1dca731c1760edf49ca776217847adea4c",
+      "LastCommitAt": "2021-11-24T12:33:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-24T14:01:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8112#pullrequestreview-814943488"
+         }
+      }
+   },
+   {
       "Number": 8113,
       "OpenedBy": "sh0",
       "CreatedAt": "2021-11-19T11:16:37Z",
@@ -678,24 +703,6 @@
             "SubmittedAt": "2021-11-24T12:50:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8169#pullrequestreview-814857833"
          }
-      }
-   },
-   {
-      "Number": 8170,
-      "OpenedBy": "db4",
-      "CreatedAt": "2021-11-24T13:14:46Z",
-      "Recipe": "libosmscout",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8170",
-      "LastCommitSHA": "a767fb103b07564d7ceccaf451292c0422a5a632",
-      "LastCommitAt": "2021-08-25T15:54:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
