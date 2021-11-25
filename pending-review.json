@@ -728,33 +728,6 @@
       }
    },
    {
-      "Number": 8179,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-25T01:32:05Z",
-      "Recipe": "nsimd",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8179",
-      "LastCommitSHA": "f25d6a04095a25d719b729ab4081b008b9f85bc3",
-      "LastCommitAt": "2021-11-25T01:00:13Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-11-25T11:02:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8179#pullrequestreview-815849233"
-         }
-      }
-   },
-   {
       "Number": 8180,
       "OpenedBy": "mydatamodels",
       "CreatedAt": "2021-11-25T09:32:35Z",
