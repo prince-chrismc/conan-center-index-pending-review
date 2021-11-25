@@ -762,7 +762,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8178",
       "LastCommitSHA": "a769cbbc6bc9d0acb6e5686c9874dffea1ae8bc6",
       "LastCommitAt": "2021-11-25T15:49:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -803,6 +803,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8183",
       "LastCommitSHA": "0e615ba738105faceec086240d5024109c093bc0",
       "LastCommitAt": "2021-11-25T17:26:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8184,
+      "OpenedBy": "jothepro",
+      "CreatedAt": "2021-11-25T20:35:43Z",
+      "Recipe": "djinni-generator",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8184",
+      "LastCommitSHA": "c064e873229df23d9653a395987956116ab9749e",
+      "LastCommitAt": "2021-11-25T20:33:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
