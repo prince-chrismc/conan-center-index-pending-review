@@ -410,15 +410,18 @@
       "LastCommitAt": "2021-11-25T16:03:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 18,
-         "ValidApprovals": 0,
+         "Count": 20,
+         "ValidApprovals": 2,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "madebr",
+            "theirix"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-11-25T15:37:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8095#pullrequestreview-816124205"
+            "ReviewerName": "theirix",
+            "SubmittedAt": "2021-11-25T17:17:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8095#pullrequestreview-816205004"
          }
       }
    },
