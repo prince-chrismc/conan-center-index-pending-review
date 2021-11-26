@@ -804,28 +804,27 @@
       }
    },
    {
-      "Number": 8184,
-      "OpenedBy": "jothepro",
-      "CreatedAt": "2021-11-25T20:35:43Z",
-      "Recipe": "djinni-generator",
+      "Number": 8186,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-11-26T08:39:28Z",
+      "Recipe": "meson",
       "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8184",
-      "LastCommitSHA": "c064e873229df23d9653a395987956116ab9749e",
-      "LastCommitAt": "2021-11-25T20:33:57Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8186",
+      "LastCommitSHA": "ddd4a8b07f67d96ee7b976600d297267c31aa7c7",
+      "LastCommitAt": "2021-11-26T06:41:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "madebr",
             "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-26T04:44:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8184#pullrequestreview-816413441"
+            "SubmittedAt": "2021-11-26T09:02:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8186#pullrequestreview-816555488"
          }
       }
    }
