@@ -80,24 +80,6 @@
       }
    },
    {
-      "Number": 7804,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-10-23T05:45:27Z",
-      "Recipe": "diligent-core",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7804",
-      "LastCommitSHA": "aaff4aa2ac06c75ba5617a8097fca91fafdbe34c",
-      "LastCommitAt": "2021-11-23T11:12:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 7808,
       "OpenedBy": "sh0",
       "CreatedAt": "2021-10-23T17:36:32Z",
