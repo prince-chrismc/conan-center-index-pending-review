@@ -244,7 +244,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8061",
       "LastCommitSHA": "6684a51ea85cdb9e4c12700189c529c93a5c8e77",
       "LastCommitAt": "2021-11-28T13:17:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -669,15 +669,17 @@
       "LastCommitAt": "2021-11-27T22:36:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-11-27T11:45:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8187#pullrequestreview-817127144"
+            "SubmittedAt": "2021-11-28T14:14:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8187#pullrequestreview-817222097"
          }
       }
    },
@@ -764,18 +766,19 @@
       "LastCommitAt": "2021-11-28T01:03:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "Croydon",
-            "ericLemanissier"
+            "ericLemanissier",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-11-28T07:35:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8197#pullrequestreview-817183382"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-11-28T14:23:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8197#pullrequestreview-817222965"
          }
       }
    }
