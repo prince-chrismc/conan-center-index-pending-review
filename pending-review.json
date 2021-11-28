@@ -495,15 +495,17 @@
       "LastCommitAt": "2021-11-24T12:07:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-21T14:01:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8113#pullrequestreview-811925453"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-11-28T18:19:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8113#pullrequestreview-817244529"
          }
       }
    },
