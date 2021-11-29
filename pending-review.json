@@ -617,22 +617,19 @@
       "Recipe": "xbyak",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8176",
-      "LastCommitSHA": "0ee08c2453d3feb8ffaa24f4c39b54621f31cc32",
-      "LastCommitAt": "2021-11-24T17:12:31Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8fb47b1ea543a9c57fbbc904735f7ab99de8dd69",
+      "LastCommitAt": "2021-11-29T03:07:20Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr"
-         ],
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-11-27T11:47:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8176#pullrequestreview-817127237"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-11-29T02:52:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8176#pullrequestreview-817318923"
          }
       }
    },
