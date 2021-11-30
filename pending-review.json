@@ -682,61 +682,6 @@
       }
    },
    {
-      "Number": 8223,
-      "OpenedBy": "franramirez688",
-      "CreatedAt": "2021-11-29T12:16:04Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8223",
-      "LastCommitSHA": "8d3f4a98e7660a8f371ad2f66a38cecc35f2f1b4",
-      "LastCommitAt": "2021-11-29T12:09:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "SpaceIm",
-            "SSE4",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-11-30T12:26:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8223#pullrequestreview-818957740"
-         }
-      }
-   },
-   {
-      "Number": 8224,
-      "OpenedBy": "lasote",
-      "CreatedAt": "2021-11-29T12:19:19Z",
-      "Recipe": "ms-gsl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8224",
-      "LastCommitSHA": "a915a09a6c5fe5731a2e142bae0eeb74d66b4268",
-      "LastCommitAt": "2021-11-29T12:18:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "SSE4",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-11-30T09:47:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8224#pullrequestreview-818786663"
-         }
-      }
-   },
-   {
       "Number": 8225,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-11-29T12:20:50Z",
