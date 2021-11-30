@@ -705,31 +705,27 @@
       }
    },
    {
-      "Number": 8234,
-      "OpenedBy": "lasote",
-      "CreatedAt": "2021-11-29T13:08:58Z",
-      "Recipe": "vulkan-headers",
+      "Number": 8241,
+      "OpenedBy": "bowb",
+      "CreatedAt": "2021-11-29T22:44:04Z",
+      "Recipe": "xqilla",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8234",
-      "LastCommitSHA": "1448908bc859a1135aa347f6787f483dcc01033a",
-      "LastCommitAt": "2021-11-29T13:08:31Z",
-      "CciBotPassed": false,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8241",
+      "LastCommitSHA": "c3d3aeec4b3ab689354c8641a9a4838aa4499fd3",
+      "LastCommitAt": "2021-11-30T20:59:44Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 5,
-         "TeamApproval": true,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "Croydon",
-            "SpaceIm",
-            "ericLemanissier",
-            "danimtb",
-            "czoido"
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2021-11-30T17:19:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8234#pullrequestreview-819335672"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-11-30T21:17:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8241#pullrequestreview-819565100"
          }
       }
    },
