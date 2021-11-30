@@ -705,60 +705,6 @@
       }
    },
    {
-      "Number": 8232,
-      "OpenedBy": "lasote",
-      "CreatedAt": "2021-11-29T13:03:26Z",
-      "Recipe": "sqlite_orm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8232",
-      "LastCommitSHA": "e6df48ade889cc8402cf7119161dbcab670d2ae5",
-      "LastCommitAt": "2021-11-29T13:03:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "SpaceIm",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-30T04:52:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8232#pullrequestreview-818557007"
-         }
-      }
-   },
-   {
-      "Number": 8233,
-      "OpenedBy": "lasote",
-      "CreatedAt": "2021-11-29T13:06:38Z",
-      "Recipe": "tensorflow-lite",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8233",
-      "LastCommitSHA": "241df6f6aeaf7342e53b72dcf503b9edc3bec831",
-      "LastCommitAt": "2021-11-29T14:59:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-11-30T12:16:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8233#pullrequestreview-818947128"
-         }
-      }
-   },
-   {
       "Number": 8234,
       "OpenedBy": "lasote",
       "CreatedAt": "2021-11-29T13:08:58Z",
