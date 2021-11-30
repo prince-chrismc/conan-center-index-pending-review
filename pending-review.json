@@ -1177,6 +1177,24 @@
       }
    },
    {
+      "Number": 8225,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-11-29T12:20:50Z",
+      "Recipe": "vulkan-validationlayers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8225",
+      "LastCommitSHA": "30cfa982ae464540404e094c9a372635382559c1",
+      "LastCommitAt": "2021-11-29T22:11:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8226,
       "OpenedBy": "lasote",
       "CreatedAt": "2021-11-29T12:40:20Z",
@@ -1386,8 +1404,8 @@
       "Recipe": "xqilla",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8241",
-      "LastCommitSHA": "6862bcee4020ba3a425989c5b2735eef2da836f1",
-      "LastCommitAt": "2021-11-29T22:40:36Z",
+      "LastCommitSHA": "21efa5d2442e16c03f6fe4fb512db0da76214c8b",
+      "LastCommitAt": "2021-11-30T00:30:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
