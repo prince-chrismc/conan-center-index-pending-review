@@ -705,34 +705,6 @@
       }
    },
    {
-      "Number": 8230,
-      "OpenedBy": "lasote",
-      "CreatedAt": "2021-11-29T12:56:35Z",
-      "Recipe": "redis-plus-plus",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8230",
-      "LastCommitSHA": "96e024ca49c7b6f6dc80301c9df4023516d0cf58",
-      "LastCommitAt": "2021-11-29T12:55:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "prince-chrismc",
-            "SSE4",
-            "tapia"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "tapia",
-            "SubmittedAt": "2021-11-30T15:29:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8230#pullrequestreview-819190028"
-         }
-      }
-   },
-   {
       "Number": 8231,
       "OpenedBy": "lasote",
       "CreatedAt": "2021-11-29T13:01:35Z",
