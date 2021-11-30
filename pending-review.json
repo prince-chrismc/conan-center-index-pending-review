@@ -286,33 +286,6 @@
       }
    },
    {
-      "Number": 8085,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-11-17T12:39:52Z",
-      "Recipe": "bison",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8085",
-      "LastCommitSHA": "f55decae2d8295782a27f321d2e8afae7376dd39",
-      "LastCommitAt": "2021-11-17T12:38:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-11-30T12:42:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8085#pullrequestreview-818974246"
-         }
-      }
-   },
-   {
       "Number": 8087,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-17T17:02:20Z",
@@ -709,33 +682,6 @@
       }
    },
    {
-      "Number": 8216,
-      "OpenedBy": "lasote",
-      "CreatedAt": "2021-11-29T11:53:19Z",
-      "Recipe": "glew",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8216",
-      "LastCommitSHA": "c14aeaf3a0af8e84c67219ec56ec3a2b1fae267b",
-      "LastCommitAt": "2021-11-30T10:05:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb",
-            "ericLemanissier",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-11-30T13:12:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8216#pullrequestreview-819007969"
-         }
-      }
-   },
-   {
       "Number": 8223,
       "OpenedBy": "franramirez688",
       "CreatedAt": "2021-11-29T12:16:04Z",
@@ -1072,18 +1018,19 @@
       "LastCommitAt": "2021-11-30T00:30:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "SSE4"
+            "SSE4",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-11-30T09:44:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8241#pullrequestreview-818782488"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-30T13:58:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8241#pullrequestreview-819063072"
          }
       }
    }
