@@ -466,33 +466,6 @@
       }
    },
    {
-      "Number": 8260,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2021-12-01T11:36:45Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8260",
-      "LastCommitSHA": "04e79a1672254c873b5ec435d33ab53b01f60b96",
-      "LastCommitAt": "2021-12-01T11:35:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "czoido",
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-12-01T15:53:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8260#pullrequestreview-820450526"
-         }
-      }
-   },
-   {
       "Number": 8265,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2021-12-01T12:31:17Z",
@@ -545,6 +518,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8282",
       "LastCommitSHA": "963d7437f29f03153f39a4d2a39360f18d2fbd07",
       "LastCommitAt": "2021-10-11T19:00:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8283,
+      "OpenedBy": "ValentiWorkLearning",
+      "CreatedAt": "2021-12-01T20:27:32Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8283",
+      "LastCommitSHA": "a8871332b1af1731f45a7d8b7c1cc7107fe824d8",
+      "LastCommitAt": "2021-12-01T20:23:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
