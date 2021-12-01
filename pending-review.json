@@ -338,58 +338,6 @@
       }
    },
    {
-      "Number": 8168,
-      "OpenedBy": "justinmcbride",
-      "CreatedAt": "2021-11-23T22:08:06Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8168",
-      "LastCommitSHA": "e18792bdb031c8bf18301cc23a1000ad9c29cb83",
-      "LastCommitAt": "2021-11-24T18:46:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 23,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4",
-            "danimtb"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-12-01T12:30:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8168#pullrequestreview-820194270"
-         }
-      }
-   },
-   {
-      "Number": 8182,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-25T15:48:28Z",
-      "Recipe": "libzippp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8182",
-      "LastCommitSHA": "88591f03ecf317729acd82de1f63e66ff7b2d7ce",
-      "LastCommitAt": "2021-11-26T16:57:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-11-30T17:01:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8182#pullrequestreview-819312655"
-         }
-      }
-   },
-   {
       "Number": 8183,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-25T16:55:48Z",
@@ -409,34 +357,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-11-26T12:57:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8183#pullrequestreview-816759868"
-         }
-      }
-   },
-   {
-      "Number": 8187,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2021-11-26T09:21:27Z",
-      "Recipe": "vulkan-headers",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8187",
-      "LastCommitSHA": "f50e6b70ad775f833c8dd5c18fb971e14a27832b",
-      "LastCommitAt": "2021-11-29T13:32:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SpaceIm",
-            "danimtb",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-01T13:05:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8187#pullrequestreview-820229613"
          }
       }
    },
@@ -585,18 +505,37 @@
       "LastCommitAt": "2021-12-01T12:37:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "Croydon"
+            "Croydon",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-12-01T15:53:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8265#pullrequestreview-820450124"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-12-01T16:48:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8265#pullrequestreview-820522152"
          }
+      }
+   },
+   {
+      "Number": 8278,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-12-01T17:13:29Z",
+      "Recipe": "xtl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8278",
+      "LastCommitSHA": "a363c90fdcd225df0f8f6316642ec0277995cc74",
+      "LastCommitAt": "2021-12-01T17:12:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
