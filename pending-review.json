@@ -116,18 +116,19 @@
       "LastCommitAt": "2021-11-19T14:56:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
+         "Count": 6,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "SSE4"
+            "SSE4",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-21T13:58:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7808#pullrequestreview-811925055"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-01T12:18:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7808#pullrequestreview-820182092"
          }
       }
    },
@@ -142,18 +143,19 @@
       "LastCommitAt": "2021-11-14T08:29:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
+         "Count": 8,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "SSE4"
+            "SSE4",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-21T13:58:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7864#pullrequestreview-811925109"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-01T12:19:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7864#pullrequestreview-820183070"
          }
       }
    },
@@ -194,17 +196,18 @@
       "LastCommitAt": "2021-11-21T08:06:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 14,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 15,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-22T03:21:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8036#pullrequestreview-812046378"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-01T12:20:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8036#pullrequestreview-820184289"
          }
       }
    },
@@ -244,17 +247,18 @@
       "LastCommitAt": "2021-11-29T12:29:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 7,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-11-30T03:23:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8061#pullrequestreview-818521432"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-01T12:21:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8061#pullrequestreview-820185589"
          }
       }
    },
@@ -269,18 +273,19 @@
       "LastCommitAt": "2021-11-24T12:45:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "toge",
-            "SSE4"
+            "SSE4",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-11-30T05:09:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8080#pullrequestreview-818564259"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-01T12:22:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8080#pullrequestreview-820186129"
          }
       }
    },
@@ -710,14 +715,14 @@
       }
    },
    {
-      "Number": 8258,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-12-01T11:00:59Z",
-      "Recipe": "qt",
+      "Number": 8252,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-12-01T01:09:54Z",
+      "Recipe": "cairo",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8258",
-      "LastCommitSHA": "bbf4ea2a4d2956c64d2df22354d9013e6dfa661f",
-      "LastCommitAt": "2021-12-01T10:44:03Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8252",
+      "LastCommitSHA": "e4849437490ae712a8586ed339a1c266b9c563ff",
+      "LastCommitAt": "2021-12-01T11:41:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -725,6 +730,31 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 8260,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2021-12-01T11:36:45Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8260",
+      "LastCommitSHA": "04e79a1672254c873b5ec435d33ab53b01f60b96",
+      "LastCommitAt": "2021-12-01T11:35:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-12-01T11:40:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8260#pullrequestreview-820146053"
+         }
       }
    }
 ]
