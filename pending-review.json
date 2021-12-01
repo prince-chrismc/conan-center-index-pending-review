@@ -710,14 +710,14 @@
       }
    },
    {
-      "Number": 8254,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2021-12-01T09:08:39Z",
-      "Recipe": "tesseract",
+      "Number": 8256,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2021-12-01T10:11:48Z",
+      "Recipe": "pango",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8254",
-      "LastCommitSHA": "ab9cd493980578cc83688e22e672e5288a58e0ba",
-      "LastCommitAt": "2021-12-01T09:05:26Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8256",
+      "LastCommitSHA": "a5c17e5886b57ab334507168bf1b4a5a5e6757a0",
+      "LastCommitAt": "2021-12-01T10:10:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
