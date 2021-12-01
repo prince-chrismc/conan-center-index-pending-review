@@ -209,60 +209,6 @@
       }
    },
    {
-      "Number": 8080,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2021-11-17T05:44:08Z",
-      "Recipe": "wolfssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8080",
-      "LastCommitSHA": "bc86b9c66acce31470d6de03509562a2f60e1e3c",
-      "LastCommitAt": "2021-11-24T12:45:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "toge",
-            "SSE4",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-12-01T12:22:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8080#pullrequestreview-820186129"
-         }
-      }
-   },
-   {
-      "Number": 8087,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-11-17T17:02:20Z",
-      "Recipe": "xtensor",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8087",
-      "LastCommitSHA": "45a47bf01ff2601a8d4a81a28c4478d0870c9ec4",
-      "LastCommitAt": "2021-11-17T03:12:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-12-01T12:24:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8087#pullrequestreview-820187911"
-         }
-      }
-   },
-   {
       "Number": 8089,
       "OpenedBy": "gjasny",
       "CreatedAt": "2021-11-17T20:24:04Z",
@@ -715,6 +661,24 @@
             "SubmittedAt": "2021-12-01T12:25:06Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8260#pullrequestreview-820188846"
          }
+      }
+   },
+   {
+      "Number": 8265,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2021-12-01T12:31:17Z",
+      "Recipe": "minizip-ng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8265",
+      "LastCommitSHA": "2be0541100144711a371a2869948fbaf5dc900dd",
+      "LastCommitAt": "2021-12-01T12:37:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
