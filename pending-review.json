@@ -562,23 +562,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 8279,
-      "OpenedBy": "Bigpet",
-      "CreatedAt": "2021-12-01T17:58:26Z",
-      "Recipe": "libx264",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8279",
-      "LastCommitSHA": "80a790b7e40587f959c5c3ac3d7da6f676e9a395",
-      "LastCommitAt": "2021-12-01T17:54:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
