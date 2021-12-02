@@ -433,8 +433,8 @@
       "Recipe": "xorg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8302",
-      "LastCommitSHA": "c1c5ff5121399d2dc87e3e5f2c318c42a59013d2",
-      "LastCommitAt": "2021-12-02T13:41:12Z",
+      "LastCommitSHA": "f626b7780587591051274151675675a24c813c24",
+      "LastCommitAt": "2021-12-02T14:25:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
