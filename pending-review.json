@@ -106,6 +106,29 @@
       }
    },
    {
+      "Number": 7881,
+      "OpenedBy": "mosure",
+      "CreatedAt": "2021-10-28T22:38:09Z",
+      "Recipe": "inversify-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7881",
+      "LastCommitSHA": "62b20a0fd340a30e68e2ee60c12472d4c481ddd4",
+      "LastCommitAt": "2021-12-02T01:32:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2021-11-13T19:22:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7881#pullrequestreview-805396110"
+         }
+      }
+   },
+   {
       "Number": 8060,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-15T18:10:20Z",
@@ -259,33 +282,6 @@
       }
    },
    {
-      "Number": 8241,
-      "OpenedBy": "bowb",
-      "CreatedAt": "2021-11-29T22:44:04Z",
-      "Recipe": "xqilla",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8241",
-      "LastCommitSHA": "c3d3aeec4b3ab689354c8641a9a4838aa4499fd3",
-      "LastCommitAt": "2021-11-30T20:59:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "danimtb",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-01T21:41:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8241#pullrequestreview-820833289"
-         }
-      }
-   },
-   {
       "Number": 8252,
       "OpenedBy": "sh0",
       "CreatedAt": "2021-12-01T01:09:54Z",
@@ -347,18 +343,19 @@
       "LastCommitAt": "2021-12-01T12:37:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "Croydon",
-            "toge"
+            "toge",
+            "madebr"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-12-01T16:48:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8265#pullrequestreview-820522152"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-12-02T01:29:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8265#pullrequestreview-820965614"
          }
       }
    },
@@ -432,7 +429,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8285",
       "LastCommitSHA": "77c7641990b34183c2e222e86f7d57051b091c6f",
       "LastCommitAt": "2021-12-01T21:25:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -446,6 +443,24 @@
             "SubmittedAt": "2021-12-01T22:14:18Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8285#pullrequestreview-820859379"
          }
+      }
+   },
+   {
+      "Number": 8286,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-02T01:06:29Z",
+      "Recipe": "mariadb-connector-c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8286",
+      "LastCommitSHA": "0d885f385a2184d11f40363c67e2810a9d540150",
+      "LastCommitAt": "2021-12-02T01:05:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
