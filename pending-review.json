@@ -314,16 +314,14 @@
       "Recipe": "tesseract",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8254",
-      "LastCommitSHA": "32f6143ad9d2703880fce5f2eb2c068c0564bc17",
-      "LastCommitAt": "2021-12-01T14:33:02Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "5a9c97f491af28856afdb2571baf797438d4c9d6",
+      "LastCommitAt": "2021-12-02T06:31:58Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -343,19 +341,20 @@
       "LastCommitAt": "2021-12-01T12:37:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
+         "Count": 4,
+         "ValidApprovals": 4,
          "TeamApproval": false,
          "Approvals": [
             "Croydon",
             "toge",
-            "madebr"
+            "madebr",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-02T01:29:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8265#pullrequestreview-820965614"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-12-02T06:23:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8265#pullrequestreview-821089480"
          }
       }
    },
