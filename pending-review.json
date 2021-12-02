@@ -376,6 +376,31 @@
       }
    },
    {
+      "Number": 8283,
+      "OpenedBy": "ValentiWorkLearning",
+      "CreatedAt": "2021-12-01T20:27:32Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8283",
+      "LastCommitSHA": "a8871332b1af1731f45a7d8b7c1cc7107fe824d8",
+      "LastCommitAt": "2021-12-01T20:23:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-12-02T06:03:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8283#pullrequestreview-821079051"
+         }
+      }
+   },
+   {
       "Number": 8286,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-12-02T01:06:29Z",
