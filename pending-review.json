@@ -418,18 +418,19 @@
       "LastCommitAt": "2021-10-11T19:00:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "danimtb"
+            "danimtb",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-12-03T08:33:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8282#pullrequestreview-822375069"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-12-03T10:10:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8282#pullrequestreview-822469826"
          }
       }
    },
@@ -510,8 +511,8 @@
       "Recipe": "xorg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8302",
-      "LastCommitSHA": "f626b7780587591051274151675675a24c813c24",
-      "LastCommitAt": "2021-12-02T14:25:46Z",
+      "LastCommitSHA": "d936de87157d7040383325204a6cc612157eeab2",
+      "LastCommitAt": "2021-12-03T09:36:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -575,17 +576,18 @@
       "LastCommitAt": "2021-12-03T07:38:27Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-12-03T08:19:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8310#pullrequestreview-822363493"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-03T09:43:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8310#pullrequestreview-822442789"
          }
       }
    }
