@@ -506,17 +506,18 @@
       "LastCommitAt": "2021-12-02T19:16:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "toge"
+            "toge",
+            "AndreyMlashkin"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-12-03T02:44:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8307#pullrequestreview-822206251"
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2021-12-03T15:01:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8307#pullrequestreview-822756783"
          }
       }
    },
