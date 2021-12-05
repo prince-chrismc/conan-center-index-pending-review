@@ -224,31 +224,6 @@
       }
    },
    {
-      "Number": 8302,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-12-02T13:41:27Z",
-      "Recipe": "xorg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8302",
-      "LastCommitSHA": "d936de87157d7040383325204a6cc612157eeab2",
-      "LastCommitAt": "2021-12-03T09:36:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-12-05T16:42:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8302#pullrequestreview-823411412"
-         }
-      }
-   },
-   {
       "Number": 8306,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-02T18:21:57Z",
