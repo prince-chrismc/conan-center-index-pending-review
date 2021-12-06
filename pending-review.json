@@ -501,6 +501,24 @@
       }
    },
    {
+      "Number": 8340,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-12-06T11:16:25Z",
+      "Recipe": "folly",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8340",
+      "LastCommitSHA": "4db793be3a4d00e0353aaf82bb2ba149da3cde43",
+      "LastCommitAt": "2021-12-06T13:12:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8341,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-06T11:23:54Z",
