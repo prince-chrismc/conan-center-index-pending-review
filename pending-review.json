@@ -307,17 +307,14 @@
       "Recipe": "mingw-w64",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8306",
-      "LastCommitSHA": "a486534070082a56ea4d69f38060fcac1a7c0fb5",
-      "LastCommitAt": "2021-12-02T19:05:12Z",
+      "LastCommitSHA": "37d0321b24896785f4d7c97376f16d182f1d34fe",
+      "LastCommitAt": "2021-12-07T09:30:15Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 10,
-         "ValidApprovals": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "prince-chrismc"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -544,32 +541,6 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-12-06T22:45:34Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8340#pullrequestreview-824572169"
-         }
-      }
-   },
-   {
-      "Number": 8347,
-      "OpenedBy": "tonyseek",
-      "CreatedAt": "2021-12-07T06:00:34Z",
-      "Recipe": "behaviortree.cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8347",
-      "LastCommitSHA": "666931e526d86fd140366f23073d0a74865d4721",
-      "LastCommitAt": "2021-12-07T04:45:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-07T08:45:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8347#pullrequestreview-824955744"
          }
       }
    }
