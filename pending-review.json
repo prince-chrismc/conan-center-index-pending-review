@@ -482,7 +482,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8340",
       "LastCommitSHA": "73415770f140b3832b17a5f840299c8a945f4961",
       "LastCommitAt": "2021-12-07T17:53:21Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 1,
@@ -525,6 +525,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8353",
       "LastCommitSHA": "a3f21e3356f5460d6cc799d7c1199a9a96b7cdf9",
       "LastCommitAt": "2021-12-07T16:21:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8355,
+      "OpenedBy": "dvirtz",
+      "CreatedAt": "2021-12-07T18:58:39Z",
+      "Recipe": "libpciaccess",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8355",
+      "LastCommitSHA": "a29a61d0537b12feb28d5caed315e3e9e68e7fe6",
+      "LastCommitAt": "2021-12-07T18:56:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
