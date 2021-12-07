@@ -389,17 +389,18 @@
       "LastCommitAt": "2021-12-03T13:50:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 7,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-06T15:31:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8315#pullrequestreview-824105090"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-12-07T07:27:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8315#pullrequestreview-824873726"
          }
       }
    },
@@ -457,17 +458,18 @@
       "LastCommitAt": "2021-12-04T06:03:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "toge"
+            "toge",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-12-05T13:16:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8330#pullrequestreview-823390257"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-12-07T07:25:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8330#pullrequestreview-824872155"
          }
       }
    },
@@ -508,15 +510,40 @@
       "LastCommitAt": "2021-12-06T22:20:45Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-12-07T07:25:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8339#pullrequestreview-824871776"
+         }
+      }
+   },
+   {
+      "Number": 8340,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-12-06T11:16:25Z",
+      "Recipe": "folly",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8340",
+      "LastCommitSHA": "d653021f84a611e009c171e825c1818c61c71fb9",
+      "LastCommitAt": "2021-12-07T06:57:30Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-06T14:53:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8339#pullrequestreview-824054717"
+            "SubmittedAt": "2021-12-06T22:45:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8340#pullrequestreview-824572169"
          }
       }
    },
@@ -556,13 +583,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8347",
       "LastCommitSHA": "666931e526d86fd140366f23073d0a74865d4721",
       "LastCommitAt": "2021-12-07T04:45:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-12-07T07:23:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8347#pullrequestreview-824870280"
+         }
       }
    }
 ]
