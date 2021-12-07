@@ -480,22 +480,21 @@
       "Recipe": "folly",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8340",
-      "LastCommitSHA": "d653021f84a611e009c171e825c1818c61c71fb9",
-      "LastCommitAt": "2021-12-07T06:57:30Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "73415770f140b3832b17a5f840299c8a945f4961",
+      "LastCommitAt": "2021-12-07T17:53:21Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
+         "Count": 7,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "madebr",
             "ericriff"
          ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericriff",
-            "SubmittedAt": "2021-12-07T16:11:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8340#pullrequestreview-825494243"
+            "SubmittedAt": "2021-12-07T17:54:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8340#pullrequestreview-825608730"
          }
       }
    },
