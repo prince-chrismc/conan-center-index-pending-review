@@ -458,7 +458,7 @@
       "LastCommitAt": "2021-12-04T06:03:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -467,9 +467,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-07T07:25:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8330#pullrequestreview-824872155"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-07T08:24:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8330#pullrequestreview-824926210"
          }
       }
    },
@@ -548,33 +548,6 @@
       }
    },
    {
-      "Number": 8344,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-12-06T16:16:15Z",
-      "Recipe": "sdl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8344",
-      "LastCommitSHA": "89fce0430a825415f7e0d30ec937b8cf168abe17",
-      "LastCommitAt": "2021-12-06T20:24:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "edoren",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-07T04:44:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8344#pullrequestreview-824764424"
-         }
-      }
-   },
-   {
       "Number": 8347,
       "OpenedBy": "tonyseek",
       "CreatedAt": "2021-12-07T06:00:34Z",
@@ -585,17 +558,18 @@
       "LastCommitAt": "2021-12-07T04:45:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-07T07:23:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8347#pullrequestreview-824870280"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-07T08:45:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8347#pullrequestreview-824955744"
          }
       }
    }
