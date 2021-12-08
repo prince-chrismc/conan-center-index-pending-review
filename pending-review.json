@@ -627,6 +627,24 @@
       }
    },
    {
+      "Number": 8363,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-12-08T11:54:48Z",
+      "Recipe": "coin-cgl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8363",
+      "LastCommitSHA": "5207492de04ed873e2ed130ab7cd57c3774e29e4",
+      "LastCommitAt": "2021-12-08T13:42:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8364,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-08T11:57:15Z",
@@ -687,17 +705,18 @@
       "LastCommitAt": "2021-12-08T12:55:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-08T13:34:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8366#pullrequestreview-826443088"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-12-08T14:37:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8366#pullrequestreview-826516392"
          }
       }
    },
