@@ -627,6 +627,29 @@
       }
    },
    {
+      "Number": 8362,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-12-08T11:53:07Z",
+      "Recipe": "coin-cbc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8362",
+      "LastCommitSHA": "02c78f765b5ef5500d02bd098304ccc6d880de5c",
+      "LastCommitAt": "2021-12-08T14:57:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-12-08T14:19:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8362#pullrequestreview-826494356"
+         }
+      }
+   },
+   {
       "Number": 8363,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-08T11:54:48Z",
@@ -817,6 +840,31 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-12-08T13:37:05Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8370#pullrequestreview-826446041"
+         }
+      }
+   },
+   {
+      "Number": 8371,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-12-08T12:08:13Z",
+      "Recipe": "verilator",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8371",
+      "LastCommitSHA": "0a997d6f2289ebd2fa36c3731e064b27074d04cb",
+      "LastCommitAt": "2021-12-08T14:54:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-12-08T16:02:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8371#pullrequestreview-826625980"
          }
       }
    }
