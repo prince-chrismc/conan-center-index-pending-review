@@ -53,6 +53,29 @@
       }
    },
    {
+      "Number": 7804,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2021-10-23T05:45:27Z",
+      "Recipe": "diligent-core",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7804",
+      "LastCommitSHA": "bab01227967098a1be3022c210ef984634d649c5",
+      "LastCommitAt": "2021-12-10T19:09:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2021-12-10T17:57:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7804#pullrequestreview-829177774"
+         }
+      }
+   },
+   {
       "Number": 8060,
       "OpenedBy": "toge",
       "CreatedAt": "2021-11-15T18:10:20Z",
@@ -403,6 +426,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8390",
       "LastCommitSHA": "7f34e2bd44dd5e047007399ff7864ba7525c9446",
       "LastCommitAt": "2021-12-10T17:54:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8392,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2021-12-10T19:54:27Z",
+      "Recipe": "rtmidi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8392",
+      "LastCommitSHA": "95a8cf36f7ed5392c4f397f9a62c9a30b147474b",
+      "LastCommitAt": "2021-11-18T10:49:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
