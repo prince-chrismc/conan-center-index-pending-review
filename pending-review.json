@@ -488,6 +488,24 @@
       }
    },
    {
+      "Number": 8379,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-12-09T16:49:55Z",
+      "Recipe": "aravis",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8379",
+      "LastCommitSHA": "54df344b0b17727a3566a5bfd79c8aaeae9f7d06",
+      "LastCommitAt": "2021-12-10T09:03:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8380,
       "OpenedBy": "toge",
       "CreatedAt": "2021-12-09T16:53:56Z",
