@@ -447,5 +447,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8393,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2021-12-11T05:03:49Z",
+      "Recipe": "read-excel",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8393",
+      "LastCommitSHA": "e523d36daca66fd5786e28d9561bac77081f678c",
+      "LastCommitAt": "2021-12-11T05:01:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
