@@ -479,5 +479,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8393#pullrequestreview-829473460"
          }
       }
+   },
+   {
+      "Number": 8394,
+      "OpenedBy": "YaZasnyal",
+      "CreatedAt": "2021-12-11T13:04:11Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8394",
+      "LastCommitSHA": "3350459abe7dc6008724957601843f73882353ac",
+      "LastCommitAt": "2021-12-11T12:57:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
