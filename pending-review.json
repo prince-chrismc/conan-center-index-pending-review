@@ -385,13 +385,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8387",
       "LastCommitSHA": "56a7a6c9196095450aabf7fe46d8df7059d0e88c",
       "LastCommitAt": "2021-12-10T06:34:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge",
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2021-12-11T14:59:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8387#pullrequestreview-829538529"
+         }
       }
    },
    {
@@ -421,13 +429,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8390",
       "LastCommitSHA": "7f34e2bd44dd5e047007399ff7864ba7525c9446",
       "LastCommitAt": "2021-12-10T17:54:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-12-11T14:44:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8390#pullrequestreview-829537526"
+         }
       }
    },
    {
@@ -491,6 +506,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8395",
       "LastCommitSHA": "2ae53a8f9259d636efd88591b3932fb649d22e53",
       "LastCommitAt": "2021-12-07T13:55:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8397,
+      "OpenedBy": "grafikrobot",
+      "CreatedAt": "2021-12-11T14:45:39Z",
+      "Recipe": "lyra",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8397",
+      "LastCommitSHA": "c76546e801279bf9e1297b50bed7ae10141e3482",
+      "LastCommitAt": "2021-12-11T14:44:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
