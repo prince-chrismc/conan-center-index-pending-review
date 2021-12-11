@@ -441,17 +441,18 @@
       "LastCommitAt": "2021-11-18T10:49:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-12-11T07:23:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8392#pullrequestreview-829473779"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-12-11T13:46:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8392#pullrequestreview-829533453"
          }
       }
    },
@@ -466,29 +467,30 @@
       "LastCommitAt": "2021-12-11T05:01:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-12-11T07:19:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8393#pullrequestreview-829473460"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-12-11T13:45:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8393#pullrequestreview-829533392"
          }
       }
    },
    {
-      "Number": 8394,
-      "OpenedBy": "YaZasnyal",
-      "CreatedAt": "2021-12-11T13:04:11Z",
-      "Recipe": "capnproto",
+      "Number": 8395,
+      "OpenedBy": "sh0",
+      "CreatedAt": "2021-12-11T13:28:39Z",
+      "Recipe": "qt",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8394",
-      "LastCommitSHA": "3350459abe7dc6008724957601843f73882353ac",
-      "LastCommitAt": "2021-12-11T12:57:27Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8395",
+      "LastCommitSHA": "2ae53a8f9259d636efd88591b3932fb649d22e53",
+      "LastCommitAt": "2021-12-07T13:55:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
