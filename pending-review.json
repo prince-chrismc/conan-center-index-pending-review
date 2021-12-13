@@ -618,6 +618,24 @@
       }
    },
    {
+      "Number": 8405,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-12-12T18:27:13Z",
+      "Recipe": "zeromq",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8405",
+      "LastCommitSHA": "22ada631c9db665e334abb0fbfb3529548f1b8c5",
+      "LastCommitAt": "2021-12-12T18:25:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8408,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2021-12-12T20:13:46Z",
