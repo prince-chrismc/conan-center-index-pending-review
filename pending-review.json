@@ -36,20 +36,21 @@
       "LastCommitAt": "2021-12-03T06:08:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
+         "Count": 11,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "uilianries"
+            "uilianries",
+            "danimtb"
          ],
          "Blockers": [
             "jgsogo"
          ],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-09T17:36:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7331#pullrequestreview-827998309"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-13T13:08:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7331#pullrequestreview-830213378"
          }
       }
    },
@@ -360,34 +361,6 @@
       }
    },
    {
-      "Number": 8393,
-      "OpenedBy": "igormironchik",
-      "CreatedAt": "2021-12-11T05:03:49Z",
-      "Recipe": "read-excel",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8393",
-      "LastCommitSHA": "e523d36daca66fd5786e28d9561bac77081f678c",
-      "LastCommitAt": "2021-12-11T05:01:13Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "toge",
-            "madebr",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-13T09:09:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8393#pullrequestreview-829933681"
-         }
-      }
-   },
-   {
       "Number": 8397,
       "OpenedBy": "grafikrobot",
       "CreatedAt": "2021-12-11T14:45:39Z",
@@ -398,7 +371,7 @@
       "LastCommitAt": "2021-12-11T17:26:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -406,9 +379,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-12-13T09:58:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8397#pullrequestreview-829987964"
+            "ReviewerName": "grafikrobot",
+            "SubmittedAt": "2021-12-13T13:11:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8397#pullrequestreview-830217093"
          }
       }
    },
