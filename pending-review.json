@@ -309,33 +309,6 @@
       }
    },
    {
-      "Number": 8411,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-12-13T08:47:59Z",
-      "Recipe": "harfbuzz",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8411",
-      "LastCommitSHA": "0de6dc6bdc7b0dc61d634f7439545cefa3e009e6",
-      "LastCommitAt": "2021-12-13T06:57:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-13T18:26:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8411#pullrequestreview-830603492"
-         }
-      }
-   },
-   {
       "Number": 8412,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-13T09:51:33Z",
