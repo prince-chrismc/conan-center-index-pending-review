@@ -107,6 +107,24 @@
       }
    },
    {
+      "Number": 8277,
+      "OpenedBy": "czoido",
+      "CreatedAt": "2021-12-01T16:58:14Z",
+      "Recipe": "tensorflow-lite",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8277",
+      "LastCommitSHA": "7614eab9d5bae4e8b202c38356f9965039a3f14f",
+      "LastCommitAt": "2021-12-01T17:09:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8281,
       "OpenedBy": "czoido",
       "CreatedAt": "2021-12-01T18:01:32Z",
@@ -141,13 +159,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8288",
       "LastCommitSHA": "3669c3fd272acca5e79f7e9e232a1b1a45d6b99f",
       "LastCommitAt": "2021-12-10T14:13:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "czoido"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2021-12-14T16:20:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8288#pullrequestreview-831736209"
+         }
       }
    },
    {
@@ -161,17 +186,18 @@
       "LastCommitAt": "2021-12-07T09:49:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "czoido"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-12-12T09:59:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8292#pullrequestreview-829606326"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2021-12-14T16:19:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8292#pullrequestreview-831734545"
          }
       }
    },
@@ -186,15 +212,17 @@
       "LastCommitAt": "2021-12-14T15:15:13Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
+         "Count": 6,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-12-14T14:54:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8295#pullrequestreview-831614234"
+            "SubmittedAt": "2021-12-14T16:00:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8295#pullrequestreview-831708543"
          }
       }
    },
@@ -209,17 +237,18 @@
       "LastCommitAt": "2021-12-02T09:14:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "czoido"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-12-02T10:00:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8296#pullrequestreview-821282134"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2021-12-14T16:18:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8296#pullrequestreview-831732853"
          }
       }
    },
@@ -536,60 +565,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2021-12-13T18:20:01Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8402#pullrequestreview-830597263"
-         }
-      }
-   },
-   {
-      "Number": 8405,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-12-12T18:27:13Z",
-      "Recipe": "zeromq",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8405",
-      "LastCommitSHA": "22ada631c9db665e334abb0fbfb3529548f1b8c5",
-      "LastCommitAt": "2021-12-12T18:25:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-14T14:47:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8405#pullrequestreview-831602978"
-         }
-      }
-   },
-   {
-      "Number": 8412,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2021-12-13T09:51:33Z",
-      "Recipe": "taocpp-taopq",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8412",
-      "LastCommitSHA": "11200697152367148276868b87561673aed6bb73",
-      "LastCommitAt": "2021-12-13T09:49:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-14T14:48:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8412#pullrequestreview-831604277"
          }
       }
    },
