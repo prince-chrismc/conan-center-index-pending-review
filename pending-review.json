@@ -545,6 +545,24 @@
       }
    },
    {
+      "Number": 8417,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-12-13T22:41:00Z",
+      "Recipe": "ctpg",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8417",
+      "LastCommitSHA": "f91b668de0d0a9b4d1f74cfe21b706926333ba63",
+      "LastCommitAt": "2021-12-14T16:59:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8419,
       "OpenedBy": "igormironchik",
       "CreatedAt": "2021-12-14T09:45:57Z",
@@ -580,6 +598,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8423",
       "LastCommitSHA": "948cfc5b196176d701560d71d1b8e4d69078a00f",
       "LastCommitAt": "2021-12-14T12:44:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8428,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-14T17:46:13Z",
+      "Recipe": "aws-c-common",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8428",
+      "LastCommitSHA": "734cc0b938c8731ae6f8ea080ce087b842151935",
+      "LastCommitAt": "2021-12-14T17:45:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8429,
+      "OpenedBy": "shiena",
+      "CreatedAt": "2021-12-14T18:06:02Z",
+      "Recipe": "sqlcipher",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8429",
+      "LastCommitSHA": "ec3e74364da6787ea514f1a37b624404ecf479de",
+      "LastCommitAt": "2021-12-14T17:59:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
