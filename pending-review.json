@@ -198,6 +198,24 @@
       }
    },
    {
+      "Number": 8289,
+      "OpenedBy": "czoido",
+      "CreatedAt": "2021-12-02T08:32:33Z",
+      "Recipe": "spirv-cross",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8289",
+      "LastCommitSHA": "9054674a00c59ecf9be179a1c5b60c543db82e19",
+      "LastCommitAt": "2021-12-02T08:31:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8290,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-02T08:33:10Z",
@@ -747,6 +765,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8439",
       "LastCommitSHA": "6e6bb9d39f4d7d201d4ee886838d3639e5fc115f",
       "LastCommitAt": "2021-12-15T10:57:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8442,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-15T13:50:21Z",
+      "Recipe": "cpr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8442",
+      "LastCommitSHA": "816c3e8e78cb9f28a5d85e43bffdae95c8efacf6",
+      "LastCommitAt": "2021-12-15T13:49:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
