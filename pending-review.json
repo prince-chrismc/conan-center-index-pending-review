@@ -601,19 +601,20 @@
       "LastCommitAt": "2021-12-14T18:24:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 16,
-         "ValidApprovals": 1,
+         "Count": 17,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "ericLemanissier"
          ],
          "Blockers": [
             "uilianries"
          ],
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-12-15T10:25:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8402#pullrequestreview-832618174"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-12-15T12:16:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8402#pullrequestreview-832738710"
          }
       }
    },
@@ -685,7 +686,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8428",
       "LastCommitSHA": "734cc0b938c8731ae6f8ea080ce087b842151935",
       "LastCommitAt": "2021-12-14T17:45:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -746,6 +747,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8439",
       "LastCommitSHA": "6e6bb9d39f4d7d201d4ee886838d3639e5fc115f",
       "LastCommitAt": "2021-12-15T10:57:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8441,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-15T12:02:34Z",
+      "Recipe": "spdlog",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8441",
+      "LastCommitSHA": "6c4f0970204d1a4b73334c4bee6c745f1a073812",
+      "LastCommitAt": "2021-12-15T12:00:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
