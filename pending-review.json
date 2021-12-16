@@ -926,6 +926,24 @@
       }
    },
    {
+      "Number": 8429,
+      "OpenedBy": "shiena",
+      "CreatedAt": "2021-12-14T18:06:02Z",
+      "Recipe": "sqlcipher",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8429",
+      "LastCommitSHA": "c63eba195cf349dc8a8a5c81d9bbb59a9794189b",
+      "LastCommitAt": "2021-12-16T16:45:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8432,
       "OpenedBy": "miklelappo",
       "CreatedAt": "2021-12-14T19:38:26Z",
