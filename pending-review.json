@@ -972,5 +972,41 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8449#pullrequestreview-833667803"
          }
       }
+   },
+   {
+      "Number": 8450,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2021-12-16T04:29:38Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8450",
+      "LastCommitSHA": "aaf8f30a54b994d76c811b9101282b7b40322306",
+      "LastCommitAt": "2021-12-16T04:28:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8452,
+      "OpenedBy": "yuriy-mochurad",
+      "CreatedAt": "2021-12-16T10:53:57Z",
+      "Recipe": "grpc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8452",
+      "LastCommitSHA": "bb2dd592d04b2c9522e1c0c35d115278281a2bbc",
+      "LastCommitAt": "2021-12-16T10:51:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
