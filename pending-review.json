@@ -926,18 +926,37 @@
       "LastCommitAt": "2021-12-15T20:46:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "Croydon"
+            "Croydon",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-12-15T20:50:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8448#pullrequestreview-833389971"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-12-16T04:02:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8448#pullrequestreview-833626080"
          }
+      }
+   },
+   {
+      "Number": 8449,
+      "OpenedBy": "Croydon",
+      "CreatedAt": "2021-12-16T04:09:30Z",
+      "Recipe": "openssl",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8449",
+      "LastCommitSHA": "cbaf21e7ec129080ffd7cba2dede63a68caafb2f",
+      "LastCommitAt": "2021-12-16T03:52:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
