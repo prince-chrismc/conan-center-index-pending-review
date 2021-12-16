@@ -109,7 +109,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8239",
       "LastCommitSHA": "e3e9005f6fffde10c7b89910d327543eed75e2c6",
       "LastCommitAt": "2021-11-29T19:21:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 3,
@@ -524,7 +524,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8309",
       "LastCommitSHA": "dabc73a2f1cf80a9fbe90a803dab61b3c0db0bfe",
       "LastCommitAt": "2021-12-03T06:35:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -1091,24 +1091,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8452",
       "LastCommitSHA": "bb2dd592d04b2c9522e1c0c35d115278281a2bbc",
       "LastCommitAt": "2021-12-16T10:51:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 8454,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2021-12-16T12:14:26Z",
-      "Recipe": "tbb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8454",
-      "LastCommitSHA": "1d4a98031e795e4eae3fb38e1f8a40989299b3f8",
-      "LastCommitAt": "2021-12-16T12:09:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
