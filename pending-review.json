@@ -101,6 +101,33 @@
       }
    },
    {
+      "Number": 8239,
+      "OpenedBy": "drmacdon",
+      "CreatedAt": "2021-11-29T19:32:54Z",
+      "Recipe": "automake",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8239",
+      "LastCommitSHA": "e3e9005f6fffde10c7b89910d327543eed75e2c6",
+      "LastCommitAt": "2021-11-29T19:21:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm",
+            "ericLemanissier",
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-11-30T13:58:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8239#pullrequestreview-819063914"
+         }
+      }
+   },
+   {
       "Number": 8259,
       "OpenedBy": "czoido",
       "CreatedAt": "2021-12-01T11:34:14Z",
@@ -489,6 +516,32 @@
       }
    },
    {
+      "Number": 8309,
+      "OpenedBy": "eeyrw",
+      "CreatedAt": "2021-12-03T07:36:24Z",
+      "Recipe": "brynet",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8309",
+      "LastCommitSHA": "dabc73a2f1cf80a9fbe90a803dab61b3c0db0bfe",
+      "LastCommitAt": "2021-12-03T06:35:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr",
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-12-05T14:26:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8309#pullrequestreview-823397538"
+         }
+      }
+   },
+   {
       "Number": 8314,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-03T12:19:49Z",
@@ -806,17 +859,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8426",
       "LastCommitSHA": "cf0344f8f397bfd348e6f96048e8e75b51501e39",
       "LastCommitAt": "2021-12-16T10:03:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-12-14T17:13:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8426#pullrequestreview-831805084"
+            "SubmittedAt": "2021-12-16T12:09:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8426#pullrequestreview-834007675"
          }
       }
    },
@@ -902,6 +957,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8433",
       "LastCommitSHA": "0155f3b4085d503efff00c70f0d2789dc06c533e",
       "LastCommitAt": "2021-12-14T20:36:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8434,
+      "OpenedBy": "maximiliank",
+      "CreatedAt": "2021-12-14T21:50:36Z",
+      "Recipe": "sqlitecpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8434",
+      "LastCommitSHA": "53281d1c7e4b1402439ffb2c134b9e20b0c81601",
+      "LastCommitAt": "2021-12-14T21:44:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8440,
+      "OpenedBy": "aacebedo",
+      "CreatedAt": "2021-12-15T11:13:07Z",
+      "Recipe": "sdbus-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8440",
+      "LastCommitSHA": "cb293410c9ec94c471a58c350ff0fa218070777a",
+      "LastCommitAt": "2021-12-15T11:05:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1000,6 +1091,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8452",
       "LastCommitSHA": "bb2dd592d04b2c9522e1c0c35d115278281a2bbc",
       "LastCommitAt": "2021-12-16T10:51:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8454,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2021-12-16T12:14:26Z",
+      "Recipe": "tbb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8454",
+      "LastCommitSHA": "1d4a98031e795e4eae3fb38e1f8a40989299b3f8",
+      "LastCommitAt": "2021-12-16T12:09:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
