@@ -932,8 +932,8 @@
       "Recipe": "sqlcipher",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8429",
-      "LastCommitSHA": "c63eba195cf349dc8a8a5c81d9bbb59a9794189b",
-      "LastCommitAt": "2021-12-16T16:45:22Z",
+      "LastCommitSHA": "47457f0a6a0940f9765812da4d91f5998145235c",
+      "LastCommitAt": "2021-12-16T19:08:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1134,7 +1134,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8454",
       "LastCommitSHA": "59bac21842067bf920c6b3b571ea0ef2a6a09438",
       "LastCommitAt": "2021-12-16T17:00:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
