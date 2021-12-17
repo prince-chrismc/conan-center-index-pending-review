@@ -574,6 +574,29 @@
       }
    },
    {
+      "Number": 8394,
+      "OpenedBy": "YaZasnyal",
+      "CreatedAt": "2021-12-11T13:04:11Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8394",
+      "LastCommitSHA": "e4ca31d92e351482aff931fa651d88fd24fea470",
+      "LastCommitAt": "2021-12-17T18:38:25Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-12-11T15:40:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8394#pullrequestreview-829541570"
+         }
+      }
+   },
+   {
       "Number": 8395,
       "OpenedBy": "sh0",
       "CreatedAt": "2021-12-11T13:28:39Z",
