@@ -337,17 +337,18 @@
       "LastCommitAt": "2021-12-01T15:37:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-12-02T09:54:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8297#pullrequestreview-821274566"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-17T10:39:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8297#pullrequestreview-835084670"
          }
       }
    },
