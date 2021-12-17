@@ -607,8 +607,8 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8423",
-      "LastCommitSHA": "948cfc5b196176d701560d71d1b8e4d69078a00f",
-      "LastCommitAt": "2021-12-14T12:44:02Z",
+      "LastCommitSHA": "0b3bbda62bf5fe1277378c523e3a5ee5293f2d68",
+      "LastCommitAt": "2021-12-17T06:31:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -861,33 +861,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 8449,
-      "OpenedBy": "Croydon",
-      "CreatedAt": "2021-12-16T04:09:30Z",
-      "Recipe": "openssl",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8449",
-      "LastCommitSHA": "cbaf21e7ec129080ffd7cba2dede63a68caafb2f",
-      "LastCommitAt": "2021-12-16T03:52:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-12-17T02:20:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8449#pullrequestreview-834777735"
-         }
       }
    },
    {
