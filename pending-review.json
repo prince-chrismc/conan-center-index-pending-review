@@ -1192,23 +1192,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 8458,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2021-12-16T21:44:07Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8458",
-      "LastCommitSHA": "9ba9f29948cb04e82c213ea5e156b8b8f579ce43",
-      "LastCommitAt": "2021-12-16T20:04:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
