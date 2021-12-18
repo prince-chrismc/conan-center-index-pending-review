@@ -704,18 +704,19 @@
       "LastCommitAt": "2021-12-16T10:03:46Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "SSE4"
+            "SSE4",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-18T06:28:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8426#pullrequestreview-835749174"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-12-18T15:14:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8426#pullrequestreview-835781152"
          }
       }
    },
@@ -742,6 +743,31 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2021-12-18T06:27:44Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8427#pullrequestreview-835749164"
+         }
+      }
+   },
+   {
+      "Number": 8428,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-14T17:46:13Z",
+      "Recipe": "aws-c-common",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8428",
+      "LastCommitSHA": "0b50f31853a618a1f74ff813cc4699a7547ce032",
+      "LastCommitAt": "2021-12-17T15:52:40Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-12-18T15:10:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8428#pullrequestreview-835780893"
          }
       }
    },
@@ -1004,13 +1030,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8465",
       "LastCommitSHA": "cde5bff7ef5ff46c3f0c8a6c4a5bb7d6797238fe",
       "LastCommitAt": "2021-12-18T07:37:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-12-18T15:06:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8465#pullrequestreview-835780557"
+         }
       }
    },
    {
