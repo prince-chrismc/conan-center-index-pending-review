@@ -206,32 +206,6 @@
       }
    },
    {
-      "Number": 8288,
-      "OpenedBy": "franramirez688",
-      "CreatedAt": "2021-12-02T08:29:31Z",
-      "Recipe": "aws-c-http",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8288",
-      "LastCommitSHA": "3669c3fd272acca5e79f7e9e232a1b1a45d6b99f",
-      "LastCommitAt": "2021-12-10T14:13:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "czoido",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-12-20T11:44:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8288#pullrequestreview-836298089"
-         }
-      }
-   },
-   {
       "Number": 8289,
       "OpenedBy": "czoido",
       "CreatedAt": "2021-12-02T08:32:33Z",
@@ -934,6 +908,29 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2021-12-20T11:26:35Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8470#pullrequestreview-836282848"
+         }
+      }
+   },
+   {
+      "Number": 8471,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2021-12-20T10:12:50Z",
+      "Recipe": "read-excel",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8471",
+      "LastCommitSHA": "f9c6324e1f2a15afbe5fab1aaff26d0a0c2b1abf",
+      "LastCommitAt": "2021-12-20T12:38:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-12-20T10:15:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8471#pullrequestreview-836217512"
          }
       }
    }
