@@ -129,60 +129,6 @@
       }
    },
    {
-      "Number": 8280,
-      "OpenedBy": "czoido",
-      "CreatedAt": "2021-12-01T17:58:35Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8280",
-      "LastCommitSHA": "ea17955e46c0bdf0211482aad2350ca771254e0e",
-      "LastCommitAt": "2021-12-14T09:19:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "ericLemanissier",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-20T17:24:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8280#pullrequestreview-836644543"
-         }
-      }
-   },
-   {
-      "Number": 8289,
-      "OpenedBy": "czoido",
-      "CreatedAt": "2021-12-02T08:32:33Z",
-      "Recipe": "spirv-cross",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8289",
-      "LastCommitSHA": "9054674a00c59ecf9be179a1c5b60c543db82e19",
-      "LastCommitAt": "2021-12-02T08:31:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "lasote",
-            "ericLemanissier",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-20T17:34:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8289#pullrequestreview-836653578"
-         }
-      }
-   },
-   {
       "Number": 8290,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-02T08:33:10Z",
@@ -555,17 +501,18 @@
       "LastCommitAt": "2021-12-17T06:31:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-18T06:28:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8423#pullrequestreview-835749216"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-20T18:18:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8423#pullrequestreview-836690229"
          }
       }
    },
@@ -604,13 +551,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8429",
       "LastCommitSHA": "2a453c6ff4d99dae27bfa2f78644bed84971a5c7",
       "LastCommitAt": "2021-12-17T08:59:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-20T18:21:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8429#pullrequestreview-836692348"
+         }
       }
    },
    {
@@ -624,7 +578,7 @@
       "LastCommitAt": "2021-12-15T07:59:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -633,9 +587,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-18T06:26:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8432#pullrequestreview-835749126"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-20T18:24:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8432#pullrequestreview-836694705"
          }
       }
    },
@@ -650,18 +604,19 @@
       "LastCommitAt": "2021-12-14T21:44:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-18T06:26:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8434#pullrequestreview-835749083"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-20T18:28:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8434#pullrequestreview-836697733"
          }
       }
    },
@@ -674,13 +629,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8442",
       "LastCommitSHA": "816c3e8e78cb9f28a5d85e43bffdae95c8efacf6",
       "LastCommitAt": "2021-12-15T13:49:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-20T18:30:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8442#pullrequestreview-836699771"
+         }
       }
    },
    {
