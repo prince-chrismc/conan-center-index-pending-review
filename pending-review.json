@@ -801,6 +801,31 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8474",
       "LastCommitSHA": "c4e8c0f396449552c45d5a8754da88f18771c121",
       "LastCommitAt": "2021-12-20T21:52:01Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2021-12-20T22:45:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8474#pullrequestreview-836875595"
+         }
+      }
+   },
+   {
+      "Number": 8475,
+      "OpenedBy": "datalogics-aarroyo",
+      "CreatedAt": "2021-12-20T22:54:19Z",
+      "Recipe": "giflib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8475",
+      "LastCommitSHA": "e74289308d3b39d14c5778c34851eac3294e6a4f",
+      "LastCommitAt": "2021-12-20T18:25:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
