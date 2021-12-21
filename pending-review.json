@@ -393,21 +393,22 @@
       "LastCommitAt": "2021-12-14T16:47:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 5,
+         "Count": 9,
+         "ValidApprovals": 6,
          "TeamApproval": true,
          "Approvals": [
             "Croydon",
             "ericLemanissier",
             "madebr",
             "danimtb",
-            "uilianries"
+            "uilianries",
+            "czoido"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-21T08:38:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8425#pullrequestreview-837153972"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2021-12-21T14:01:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8425#pullrequestreview-837468934"
          }
       }
    },
