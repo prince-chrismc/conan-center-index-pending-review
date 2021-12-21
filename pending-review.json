@@ -88,7 +88,7 @@
       "LastCommitAt": "2021-12-14T08:31:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
+         "Count": 9,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -96,9 +96,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-12-20T17:22:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7779#pullrequestreview-836642889"
+            "ReviewerName": "ivanvurbanov",
+            "SubmittedAt": "2021-12-21T11:32:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7779#pullrequestreview-837330471"
          }
       }
    },
