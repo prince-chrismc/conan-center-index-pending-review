@@ -380,33 +380,6 @@
       }
    },
    {
-      "Number": 8462,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2021-12-17T11:36:09Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8462",
-      "LastCommitSHA": "d79b14fff46e6096d11e16d538c091e2f5118a0c",
-      "LastCommitAt": "2021-12-17T11:35:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-21T09:04:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8462#pullrequestreview-837179423"
-         }
-      }
-   },
-   {
       "Number": 8468,
       "OpenedBy": "toge",
       "CreatedAt": "2021-12-19T12:25:28Z",
@@ -593,24 +566,6 @@
             "SubmittedAt": "2021-12-21T18:36:58Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8475#pullrequestreview-837751797"
          }
-      }
-   },
-   {
-      "Number": 8476,
-      "OpenedBy": "bemehiser",
-      "CreatedAt": "2021-12-21T01:00:00Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8476",
-      "LastCommitSHA": "365575dc329733e760fc467ec27944e0df27fe1f",
-      "LastCommitAt": "2021-12-21T00:38:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
