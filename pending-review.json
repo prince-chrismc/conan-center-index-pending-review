@@ -274,5 +274,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8486#pullrequestreview-838434620"
          }
       }
+   },
+   {
+      "Number": 8492,
+      "OpenedBy": "AntonHorbach",
+      "CreatedAt": "2021-12-22T15:44:25Z",
+      "Recipe": "mpdecimal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8492",
+      "LastCommitSHA": "ce6da698b3a0a5b2991ca01269e845f29dac1fed",
+      "LastCommitAt": "2021-12-22T14:06:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
