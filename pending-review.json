@@ -274,23 +274,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8486#pullrequestreview-838434620"
          }
       }
-   },
-   {
-      "Number": 8490,
-      "OpenedBy": "miklelappo",
-      "CreatedAt": "2021-12-22T13:07:20Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8490",
-      "LastCommitSHA": "5fb8f03fcdd86ef25c4ff83e3101669dcfa13279",
-      "LastCommitAt": "2021-12-22T12:59:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
