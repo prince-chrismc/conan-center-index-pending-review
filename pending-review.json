@@ -139,17 +139,18 @@
       "LastCommitAt": "2021-12-22T18:27:27Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "czoido"
+            "czoido",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2021-12-22T18:28:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8264#pullrequestreview-838734070"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-12-22T23:06:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8264#pullrequestreview-838897981"
          }
       }
    },
