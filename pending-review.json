@@ -328,33 +328,6 @@
       }
    },
    {
-      "Number": 8474,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-12-20T21:53:26Z",
-      "Recipe": "wasmtime-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8474",
-      "LastCommitSHA": "c4e8c0f396449552c45d5a8754da88f18771c121",
-      "LastCommitAt": "2021-12-20T21:52:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "madebr",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-21T09:11:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8474#pullrequestreview-837186882"
-         }
-      }
-   },
-   {
       "Number": 8475,
       "OpenedBy": "datalogics-aarroyo",
       "CreatedAt": "2021-12-20T22:54:19Z",
