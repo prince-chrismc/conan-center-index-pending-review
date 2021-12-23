@@ -498,5 +498,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8519,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-23T14:00:42Z",
+      "Recipe": "msgpack-cxx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8519",
+      "LastCommitSHA": "0b98fd2831c2647f7ae8278f9a0d3bfbda941f35",
+      "LastCommitAt": "2021-12-23T13:58:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
