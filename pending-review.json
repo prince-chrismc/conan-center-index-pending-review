@@ -580,50 +580,14 @@
       }
    },
    {
-      "Number": 8524,
+      "Number": 8523,
       "OpenedBy": "toge",
-      "CreatedAt": "2021-12-23T18:51:16Z",
-      "Recipe": "oatpp-swagger",
+      "CreatedAt": "2021-12-23T18:41:20Z",
+      "Recipe": "oatpp-sqlite",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8524",
-      "LastCommitSHA": "4fbcf8969852d58c6198c80baaf580b2b47635d7",
-      "LastCommitAt": "2021-12-23T18:47:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 8525,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-12-23T18:58:37Z",
-      "Recipe": "oatpp-websocket",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8525",
-      "LastCommitSHA": "1ba700dfd913c14c66f0c9eb3dba84b296ccddd4",
-      "LastCommitAt": "2021-12-23T18:57:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 8526,
-      "OpenedBy": "pgeler",
-      "CreatedAt": "2021-12-23T19:57:03Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8526",
-      "LastCommitSHA": "401254bdae6076845f36089fbb225bdc781025a6",
-      "LastCommitAt": "2021-12-23T19:53:40Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8523",
+      "LastCommitSHA": "f1a3367fc3c907520bb5d47d0e924f441985cc98",
+      "LastCommitAt": "2021-12-23T18:48:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
