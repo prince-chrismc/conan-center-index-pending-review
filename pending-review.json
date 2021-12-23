@@ -103,33 +103,6 @@
       }
    },
    {
-      "Number": 8301,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2021-12-02T12:20:25Z",
-      "Recipe": "onedpl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8301",
-      "LastCommitSHA": "d256874b293ca9e8dccd3ab10bf523b874ae59f2",
-      "LastCommitAt": "2021-12-20T11:10:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2021-12-23T06:41:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8301#pullrequestreview-839053300"
-         }
-      }
-   },
-   {
       "Number": 8307,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-02T19:17:57Z",
