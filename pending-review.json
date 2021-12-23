@@ -249,17 +249,14 @@
       "Recipe": "aws-c-cal",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8503",
-      "LastCommitSHA": "c15fb6e0f0a45fd8f924148f194e4d5155e887b9",
-      "LastCommitAt": "2021-12-23T10:24:17Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "2ba35ce6360fd28bcc154927f7a3ddb9d8cd172a",
+      "LastCommitAt": "2021-12-23T15:26:26Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "czoido"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "czoido",
@@ -275,17 +272,14 @@
       "Recipe": "aws-c-sdkutils",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8506",
-      "LastCommitSHA": "a0f507477299129d595610b55e4f780cd60aa652",
-      "LastCommitAt": "2021-12-23T10:40:08Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8212b348b038d9b75f01b809d214c16c1d8a2ee7",
+      "LastCommitAt": "2021-12-23T15:26:53Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "czoido"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "czoido",
@@ -508,6 +502,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8519",
       "LastCommitSHA": "0b98fd2831c2647f7ae8278f9a0d3bfbda941f35",
       "LastCommitAt": "2021-12-23T13:58:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8520,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-23T14:24:20Z",
+      "Recipe": "sdl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8520",
+      "LastCommitSHA": "fede6446fc8efc042d9e7a7e31cabc9137fe59ba",
+      "LastCommitAt": "2021-12-23T14:41:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
