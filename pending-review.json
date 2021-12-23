@@ -201,6 +201,29 @@
       }
    },
    {
+      "Number": 8417,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-12-13T22:41:00Z",
+      "Recipe": "ctpg",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8417",
+      "LastCommitSHA": "e7c8d0e0014d107be70901c460869c3076d0f4c7",
+      "LastCommitAt": "2021-12-23T03:08:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-12-22T16:21:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8417#pullrequestreview-838631383"
+         }
+      }
+   },
+   {
       "Number": 8452,
       "OpenedBy": "yuriy-mochurad",
       "CreatedAt": "2021-12-16T10:53:57Z",
@@ -226,31 +249,6 @@
       }
    },
    {
-      "Number": 8477,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-12-21T02:16:51Z",
-      "Recipe": "zstd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8477",
-      "LastCommitSHA": "88af08607939764ccd602b8074cd85261e79b784",
-      "LastCommitAt": "2021-12-22T15:20:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-12-22T19:07:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8477#pullrequestreview-838760961"
-         }
-      }
-   },
-   {
       "Number": 8490,
       "OpenedBy": "miklelappo",
       "CreatedAt": "2021-12-22T13:07:20Z",
@@ -259,7 +257,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8490",
       "LastCommitSHA": "2e3713be946a6ae0f59243591de7b08dac3fbd7c",
       "LastCommitAt": "2021-12-22T21:47:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
