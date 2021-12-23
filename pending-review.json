@@ -243,6 +243,24 @@
       }
    },
    {
+      "Number": 8502,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-23T10:19:12Z",
+      "Recipe": "aws-c-auth",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8502",
+      "LastCommitSHA": "654b2b1a343d86ecfcd0c549f8bd5ffbf13152d1",
+      "LastCommitAt": "2021-12-23T15:25:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8503,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-12-23T10:25:19Z",
@@ -251,7 +269,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8503",
       "LastCommitSHA": "2ba35ce6360fd28bcc154927f7a3ddb9d8cd172a",
       "LastCommitAt": "2021-12-23T15:26:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -266,6 +284,42 @@
       }
    },
    {
+      "Number": 8504,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-23T10:30:50Z",
+      "Recipe": "aws-c-mqtt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8504",
+      "LastCommitSHA": "230b16067b77bc3631b12631d612971c57ef0770",
+      "LastCommitAt": "2021-12-23T15:25:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8505,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-23T10:36:52Z",
+      "Recipe": "aws-c-s3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8505",
+      "LastCommitSHA": "b3fea46ac5e7fc0a0fb659062ac8182e8b525682",
+      "LastCommitAt": "2021-12-23T15:27:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8506,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-12-23T10:40:52Z",
@@ -274,7 +328,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8506",
       "LastCommitSHA": "8212b348b038d9b75f01b809d214c16c1d8a2ee7",
       "LastCommitAt": "2021-12-23T15:26:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
