@@ -302,18 +302,19 @@
       "LastCommitAt": "2021-12-23T15:25:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "ericLemanissier",
-            "madebr"
+            "madebr",
+            "ericriff"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-24T09:13:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8502#pullrequestreview-839828084"
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2021-12-24T17:47:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8502#pullrequestreview-839975344"
          }
       }
    },
@@ -431,18 +432,19 @@
       "LastCommitAt": "2021-12-23T11:10:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "Croydon"
+            "Croydon",
+            "ericriff"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-12-24T12:10:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8508#pullrequestreview-839897519"
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2021-12-24T17:44:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8508#pullrequestreview-839975051"
          }
       }
    },
@@ -457,18 +459,19 @@
       "LastCommitAt": "2021-12-23T11:11:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "madebr",
-            "Croydon"
+            "Croydon",
+            "ericriff"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2021-12-24T12:37:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8509#pullrequestreview-839905947"
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2021-12-24T17:43:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8509#pullrequestreview-839974904"
          }
       }
    },
