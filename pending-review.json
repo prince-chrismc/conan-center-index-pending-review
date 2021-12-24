@@ -666,8 +666,8 @@
       "Recipe": "oatpp-websocket",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8525",
-      "LastCommitSHA": "d2a17fbff117dca5ace4e12b50bcd5497b1f20a2",
-      "LastCommitAt": "2021-12-24T02:38:00Z",
+      "LastCommitSHA": "5df7ce1bd24ff4d2496bc792fe4c3daae8508a13",
+      "LastCommitAt": "2021-12-24T04:32:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
