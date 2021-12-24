@@ -248,6 +248,24 @@
       }
    },
    {
+      "Number": 8487,
+      "OpenedBy": "MrLIk",
+      "CreatedAt": "2021-12-22T10:36:17Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8487",
+      "LastCommitSHA": "685aa57d9cabfb968ed6f66a0fe593f7fe64fe0c",
+      "LastCommitAt": "2021-12-22T08:55:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8500,
       "OpenedBy": "kevswims",
       "CreatedAt": "2021-12-23T02:30:04Z",
@@ -856,6 +874,24 @@
             "SubmittedAt": "2021-12-24T09:16:24Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8529#pullrequestreview-839829405"
          }
+      }
+   },
+   {
+      "Number": 8531,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-24T09:25:00Z",
+      "Recipe": "geotrans",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8531",
+      "LastCommitSHA": "88b92604e74a0ab6957c91c1215027937a5ca283",
+      "LastCommitAt": "2021-12-24T10:15:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
