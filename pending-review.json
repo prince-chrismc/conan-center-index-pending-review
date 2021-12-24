@@ -431,17 +431,18 @@
       "LastCommitAt": "2021-12-23T11:10:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "madebr",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2021-12-24T09:17:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8508#pullrequestreview-839829808"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-12-24T12:10:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8508#pullrequestreview-839897519"
          }
       }
    },
@@ -885,6 +886,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8531",
       "LastCommitSHA": "88b92604e74a0ab6957c91c1215027937a5ca283",
       "LastCommitAt": "2021-12-24T10:15:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8533,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-24T12:16:13Z",
+      "Recipe": "grpc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8533",
+      "LastCommitSHA": "cd6317444087b7b68fdc9d4cda02864dc99811e5",
+      "LastCommitAt": "2021-12-24T12:14:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
