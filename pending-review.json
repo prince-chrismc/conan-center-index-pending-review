@@ -1039,5 +1039,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8538#pullrequestreview-840022061"
          }
       }
+   },
+   {
+      "Number": 8539,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-25T14:03:03Z",
+      "Recipe": "ezc3d",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8539",
+      "LastCommitSHA": "a0aa434520f1ea7b485dc49095d266d282d32e39",
+      "LastCommitAt": "2021-12-25T14:02:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
