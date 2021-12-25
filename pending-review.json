@@ -731,6 +731,29 @@
       }
    },
    {
+      "Number": 8522,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-12-23T18:31:47Z",
+      "Recipe": "oatpp-postgresql",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8522",
+      "LastCommitSHA": "0290dc35c9e77838d4e5d6abdcc8a91853916c73",
+      "LastCommitAt": "2021-12-25T15:41:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-12-24T09:15:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8522#pullrequestreview-839828985"
+         }
+      }
+   },
+   {
       "Number": 8523,
       "OpenedBy": "toge",
       "CreatedAt": "2021-12-23T18:41:20Z",
@@ -753,6 +776,31 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2021-12-24T09:15:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8523#pullrequestreview-839829107"
+         }
+      }
+   },
+   {
+      "Number": 8524,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-12-23T18:51:16Z",
+      "Recipe": "oatpp-swagger",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8524",
+      "LastCommitSHA": "fc98e19eb42496ccce41d5bb575610fd8fe8d811",
+      "LastCommitAt": "2021-12-25T15:27:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-12-25T16:09:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8524#pullrequestreview-840028919"
          }
       }
    },
@@ -885,16 +933,14 @@
       "Recipe": "cpp-httplib",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8530",
-      "LastCommitSHA": "f95683db67326b05697c5e4e156f4471fcc099d3",
-      "LastCommitAt": "2021-12-24T18:10:31Z",
+      "LastCommitSHA": "51f26627364a772c1b96ace3dcda7ca54875cb5b",
+      "LastCommitAt": "2021-12-25T15:32:12Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
@@ -1039,6 +1085,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8539",
       "LastCommitSHA": "a0aa434520f1ea7b485dc49095d266d282d32e39",
       "LastCommitAt": "2021-12-25T14:02:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8540,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-25T15:43:18Z",
+      "Recipe": "kuba-zip",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8540",
+      "LastCommitSHA": "34864835794ed0870fe574d48cc71ef019c7e43c",
+      "LastCommitAt": "2021-12-25T15:41:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
