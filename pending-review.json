@@ -1014,5 +1014,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8538,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-25T12:39:08Z",
+      "Recipe": "cista",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8538",
+      "LastCommitSHA": "0ff5935a9a3189764948ec49b32cb3e4ad3efa79",
+      "LastCommitAt": "2021-12-25T12:38:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2021-12-25T12:55:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8538#pullrequestreview-840022061"
+         }
+      }
    }
 ]
