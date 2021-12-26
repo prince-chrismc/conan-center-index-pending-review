@@ -1146,6 +1146,31 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8542",
       "LastCommitSHA": "d800e3b6ea95a79b613287b7fbbc3fdd0deab64c",
       "LastCommitAt": "2021-12-26T11:46:01Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2021-12-26T14:47:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8542#pullrequestreview-840090541"
+         }
+      }
+   },
+   {
+      "Number": 8543,
+      "OpenedBy": "Zeeno-atl",
+      "CreatedAt": "2021-12-26T13:31:30Z",
+      "Recipe": "pretty-name",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8543",
+      "LastCommitSHA": "e3ce2ba2e94b8c695a727b06aa1411ab52ad9b29",
+      "LastCommitAt": "2021-12-26T14:08:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
