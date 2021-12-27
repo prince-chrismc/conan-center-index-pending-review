@@ -349,63 +349,6 @@
       }
    },
    {
-      "Number": 8537,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-12-25T12:19:56Z",
-      "Recipe": "nlopt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8537",
-      "LastCommitSHA": "079f5179e09850a2a0fb52de11706a0388b3b02a",
-      "LastCommitAt": "2021-12-25T12:17:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "toge",
-            "ericLemanissier",
-            "SSE4",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-12-27T13:37:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8537#pullrequestreview-840376727"
-         }
-      }
-   },
-   {
-      "Number": 8538,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2021-12-25T12:39:08Z",
-      "Recipe": "cista",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8538",
-      "LastCommitSHA": "0ff5935a9a3189764948ec49b32cb3e4ad3efa79",
-      "LastCommitAt": "2021-12-25T12:38:26Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "toge",
-            "ZombieRaccoon",
-            "SSE4",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-12-27T13:36:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8538#pullrequestreview-840376323"
-         }
-      }
-   },
-   {
       "Number": 8539,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2021-12-25T14:03:03Z",
