@@ -361,5 +361,28 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8558,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-28T08:43:25Z",
+      "Recipe": "i2c-tools",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8558",
+      "LastCommitSHA": "57dda25009957d9f3c55b1ebc353fbf483fea616",
+      "LastCommitAt": "2021-12-28T10:37:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2021-12-28T09:34:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8558#pullrequestreview-840760871"
+         }
+      }
    }
 ]
