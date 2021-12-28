@@ -271,18 +271,19 @@
       "LastCommitAt": "2021-12-21T00:38:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
+         "Count": 5,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-27T09:09:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8476#pullrequestreview-840252460"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-12-28T06:58:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8476#pullrequestreview-840682633"
          }
       }
    },
@@ -367,32 +368,6 @@
       }
    },
    {
-      "Number": 8548,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2021-12-27T17:02:00Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8548",
-      "LastCommitSHA": "dbd945a2a1e5a0b680391ccf0ed924978dc58a5d",
-      "LastCommitAt": "2021-12-27T16:59:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-12-28T01:57:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8548#pullrequestreview-840611941"
-         }
-      }
-   },
-   {
       "Number": 8549,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2021-12-27T17:04:43Z",
@@ -403,18 +378,19 @@
       "LastCommitAt": "2021-12-27T17:03:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "madebr",
-            "intelligide"
+            "intelligide",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2021-12-28T01:57:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8549#pullrequestreview-840611932"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2021-12-28T06:57:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8549#pullrequestreview-840682056"
          }
       }
    },
