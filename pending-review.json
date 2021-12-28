@@ -126,6 +126,31 @@
       }
    },
    {
+      "Number": 8262,
+      "OpenedBy": "tapia",
+      "CreatedAt": "2021-12-01T12:11:53Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8262",
+      "LastCommitSHA": "fd2e75dd61d6a2ccc6de7fb2231cb5e8c2466214",
+      "LastCommitAt": "2021-12-22T19:07:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 10,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2021-12-22T19:53:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8262#pullrequestreview-838795070"
+         }
+      }
+   },
+   {
       "Number": 8270,
       "OpenedBy": "tapia",
       "CreatedAt": "2021-12-01T16:38:59Z",
@@ -413,7 +438,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8564",
       "LastCommitSHA": "2d33734afe44425ed508660ef03b679cb1a00667",
       "LastCommitAt": "2021-12-28T17:50:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
