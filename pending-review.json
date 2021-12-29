@@ -65,18 +65,19 @@
       "LastCommitAt": "2021-12-14T08:31:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 12,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "prince-chrismc"
+            "prince-chrismc",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-12-29T05:08:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7779#pullrequestreview-841187058"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2021-12-29T11:37:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7779#pullrequestreview-841350020"
          }
       }
    },
@@ -104,28 +105,27 @@
       }
    },
    {
-      "Number": 8262,
+      "Number": 8272,
       "OpenedBy": "tapia",
-      "CreatedAt": "2021-12-01T12:11:53Z",
-      "Recipe": "sqlite3",
+      "CreatedAt": "2021-12-01T16:41:39Z",
+      "Recipe": "vulkan-headers",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8262",
-      "LastCommitSHA": "fd2e75dd61d6a2ccc6de7fb2231cb5e8c2466214",
-      "LastCommitAt": "2021-12-22T19:07:33Z",
-      "CciBotPassed": true,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8272",
+      "LastCommitSHA": "72f8b456994a9de56d475a4c36e97d2a004837e7",
+      "LastCommitAt": "2021-12-29T10:56:10Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 2,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "SpaceIm",
-            "danimtb"
+            "czoido"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2021-12-29T10:40:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8262#pullrequestreview-841321636"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2021-12-29T11:39:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8272#pullrequestreview-841350863"
          }
       }
    },
@@ -186,7 +186,7 @@
       "LastCommitAt": "2021-12-28T09:58:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 21,
+         "Count": 22,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -194,9 +194,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2021-12-29T05:16:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8375#pullrequestreview-841188561"
+            "ReviewerName": "Kr4is",
+            "SubmittedAt": "2021-12-29T11:21:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8375#pullrequestreview-841342481"
          }
       }
    },
@@ -342,18 +342,19 @@
       "LastCommitAt": "2021-12-28T17:50:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "toge"
+            "toge",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-12-29T04:43:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8564#pullrequestreview-841182287"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-29T11:54:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8564#pullrequestreview-841357917"
          }
       }
    },
