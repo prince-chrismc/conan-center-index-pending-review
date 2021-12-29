@@ -115,19 +115,20 @@
       "LastCommitAt": "2021-12-29T10:56:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
+         "Count": 5,
+         "ValidApprovals": 4,
          "TeamApproval": true,
          "Approvals": [
             "czoido",
             "uilianries",
-            "SpaceIm"
+            "SpaceIm",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2021-12-29T13:37:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8272#pullrequestreview-841410731"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2021-12-29T15:02:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8272#pullrequestreview-841460705"
          }
       }
    },
@@ -437,6 +438,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8576",
       "LastCommitSHA": "8282e7e7fb427321723bc49e53535781aad317de",
       "LastCommitAt": "2021-12-29T14:04:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8577,
+      "OpenedBy": "anton-danielsson",
+      "CreatedAt": "2021-12-29T14:24:12Z",
+      "Recipe": "abseil",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8577",
+      "LastCommitSHA": "c29e85d4b1d89921fcc686140f86527acb4a3356",
+      "LastCommitAt": "2021-12-29T14:21:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
