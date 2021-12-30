@@ -303,32 +303,6 @@
       }
    },
    {
-      "Number": 8571,
-      "OpenedBy": "toge",
-      "CreatedAt": "2021-12-29T06:25:51Z",
-      "Recipe": "civetweb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8571",
-      "LastCommitSHA": "c085c4d7129ee2fe72ac52a2ba6003b6808598ff",
-      "LastCommitAt": "2021-12-29T06:24:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-29T17:20:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8571#pullrequestreview-841534830"
-         }
-      }
-   },
-   {
       "Number": 8578,
       "OpenedBy": "n-bes",
       "CreatedAt": "2021-12-29T14:43:47Z",
@@ -357,17 +331,18 @@
       "LastCommitAt": "2021-12-29T15:46:16Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2021-12-29T17:12:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8579#pullrequestreview-841531031"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-12-30T17:54:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8579#pullrequestreview-842029456"
          }
       }
    },
