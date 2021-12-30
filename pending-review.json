@@ -106,29 +106,6 @@
       }
    },
    {
-      "Number": 8167,
-      "OpenedBy": "wpalfi",
-      "CreatedAt": "2021-11-23T21:34:06Z",
-      "Recipe": "cvplot",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8167",
-      "LastCommitSHA": "ebb54ea28c26c511f71ff144e462b4770f9d5cd8",
-      "LastCommitAt": "2021-12-29T18:48:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2021-12-28T08:39:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8167#pullrequestreview-840726242"
-         }
-      }
-   },
-   {
       "Number": 8272,
       "OpenedBy": "tapia",
       "CreatedAt": "2021-12-01T16:41:39Z",
@@ -499,18 +476,19 @@
       "LastCommitAt": "2021-12-29T08:53:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "toge"
+            "toge",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-12-30T01:34:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8573#pullrequestreview-841673560"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-12-30T09:39:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8573#pullrequestreview-841799934"
          }
       }
    },
@@ -525,18 +503,19 @@
       "LastCommitAt": "2021-12-29T14:04:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "toge"
+            "toge",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2021-12-30T01:34:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8576#pullrequestreview-841673503"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2021-12-30T09:39:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8576#pullrequestreview-841799813"
          }
       }
    },
