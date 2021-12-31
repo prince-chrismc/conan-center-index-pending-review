@@ -458,5 +458,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8593,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2021-12-31T10:43:17Z",
+      "Recipe": "pistache",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8593",
+      "LastCommitSHA": "00bd902953dd1a9f92bb3d5b931173d185d9676e",
+      "LastCommitAt": "2021-12-31T10:55:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8596,
+      "OpenedBy": "toge",
+      "CreatedAt": "2021-12-31T12:13:08Z",
+      "Recipe": "zstr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8596",
+      "LastCommitSHA": "89924c515abd99021bcd3395a560a11171032334",
+      "LastCommitAt": "2021-12-31T12:12:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
