@@ -512,29 +512,6 @@
       }
    },
    {
-      "Number": 8599,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-12-31T16:51:58Z",
-      "Recipe": "veque",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8599",
-      "LastCommitSHA": "b5c5572af19ec0eb62856714f03aafb7871a54e5",
-      "LastCommitAt": "2022-01-01T18:22:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-01-01T18:21:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8599#pullrequestreview-842352329"
-         }
-      }
-   },
-   {
       "Number": 8602,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-01T16:16:52Z",
