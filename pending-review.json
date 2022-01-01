@@ -462,23 +462,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 8599,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-12-31T16:51:58Z",
-      "Recipe": "veque",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8599",
-      "LastCommitSHA": "d5c1d5acb3967ce403beebe45c767175f85ffdec",
-      "LastCommitAt": "2021-12-31T17:27:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
