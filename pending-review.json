@@ -594,5 +594,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8604#pullrequestreview-842399372"
          }
       }
+   },
+   {
+      "Number": 8611,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-01-02T14:07:08Z",
+      "Recipe": "nanobench",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8611",
+      "LastCommitSHA": "dbc4f2adb4e0c18860fd42ef54494da528110034",
+      "LastCommitAt": "2022-01-02T12:52:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
