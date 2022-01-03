@@ -526,5 +526,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8614#pullrequestreview-842746537"
          }
       }
+   },
+   {
+      "Number": 8619,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-03T23:00:41Z",
+      "Recipe": "vk-bootstrap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8619",
+      "LastCommitSHA": "a27ec9e41018886da2f10719c1934a4c8b8e0611",
+      "LastCommitAt": "2022-01-03T22:59:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
