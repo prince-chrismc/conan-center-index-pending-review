@@ -92,7 +92,11 @@ func TimeInReview(token string, dryRun bool) error {
 	if dryRun {
 		f, _ := os.Create("tir.png")
 		defer f.Close()
-		lineGraph.Render(chart.PNG, f)
+		err = lineGraph.Render(chart.PNG, f)
+		if err != nil {
+			fmt.Printf("Problem rendering %s %v\n", "tir.png", err)
+			os.Exit(1)
+		}
 
 		return nil
 	}
@@ -110,7 +114,11 @@ func TimeInReview(token string, dryRun bool) error {
 	}
 
 	var b bytes.Buffer
-	lineGraph.Render(chart.PNG, &b)
+	err = lineGraph.Render(chart.PNG, &b)
+	if err != nil {
+		fmt.Printf("Problem rendering %s %v\n", "time-in-review.png", err)
+		os.Exit(1)
+	}
 
 	_, err = internal.UpdateDataFile(context, client, "time-in-review.png", b.Bytes())
 	if err != nil {
