@@ -57,13 +57,21 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	if dryRun {
 		f, _ := os.Create("ovm.png")
 		defer f.Close()
-		barGraph.Render(chart.PNG, f)
+		err = barGraph.Render(chart.PNG, f)
+		if err != nil {
+			fmt.Printf("Problem rendering %s %v\n", "ovm.png", err)
+			os.Exit(1)
+		}
 
 		return nil
 	}
 
 	var b bytes.Buffer
-	barGraph.Render(chart.PNG, &b)
+	err = barGraph.Render(chart.PNG, &b)
+	if err != nil {
+		fmt.Printf("Problem rendering %s %v\n", "open-versus-merged.png", err)
+		os.Exit(1)
+	}
 
 	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b.Bytes())
 	if err != nil {
