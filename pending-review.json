@@ -160,17 +160,18 @@
       "LastCommitAt": "2022-01-03T12:11:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 27,
-         "ValidApprovals": 1,
+         "Count": 28,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-01-03T12:14:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8375#pullrequestreview-842680797"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-01-03T20:41:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8375#pullrequestreview-843027562"
          }
       }
    },
