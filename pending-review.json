@@ -643,5 +643,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8611#pullrequestreview-842452780"
          }
       }
+   },
+   {
+      "Number": 8612,
+      "OpenedBy": "paulo-coutinho",
+      "CreatedAt": "2022-01-03T04:19:02Z",
+      "Recipe": "emsdk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8612",
+      "LastCommitSHA": "7df4b22b267129eae12d54d49a2f4889060e89ec",
+      "LastCommitAt": "2022-01-03T04:18:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
