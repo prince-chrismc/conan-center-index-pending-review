@@ -158,7 +158,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8375",
       "LastCommitSHA": "a7cb9ec14a3dfcb33d12183840527a6e42fd038a",
       "LastCommitAt": "2022-01-03T12:11:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 27,
          "ValidApprovals": 1,
@@ -337,7 +337,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8561",
       "LastCommitSHA": "cb98c696ef5f7c839da1c515664a72a383e4aa05",
       "LastCommitAt": "2022-01-03T11:35:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 20,
          "ValidApprovals": 1,
@@ -431,33 +431,6 @@
       }
    },
    {
-      "Number": 8602,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-01T16:16:52Z",
-      "Recipe": "libsecret",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8602",
-      "LastCommitSHA": "4ddb4fef04eee681b17506e5bac1a879a1dad321",
-      "LastCommitAt": "2022-01-01T16:15:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "uilianries",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-01-03T12:16:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8602#pullrequestreview-842682117"
-         }
-      }
-   },
-   {
       "Number": 8603,
       "OpenedBy": "dean0x7d",
       "CreatedAt": "2022-01-01T18:17:54Z",
@@ -505,33 +478,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-01-03T11:27:49Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8604#pullrequestreview-842655046"
-         }
-      }
-   },
-   {
-      "Number": 8611,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-01-02T14:07:08Z",
-      "Recipe": "nanobench",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8611",
-      "LastCommitSHA": "dbc4f2adb4e0c18860fd42ef54494da528110034",
-      "LastCommitAt": "2022-01-02T12:52:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "madebr",
-            "ericLemanissier",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-03T11:28:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8611#pullrequestreview-842655468"
          }
       }
    },
