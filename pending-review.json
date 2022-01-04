@@ -544,23 +544,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 8620,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-01-04T01:55:03Z",
-      "Recipe": "taskflow",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8620",
-      "LastCommitSHA": "10be30caeca80a3848af73d327c546d911df8c7e",
-      "LastCommitAt": "2022-01-04T01:54:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
