@@ -648,16 +648,14 @@
       "Recipe": "opencl-headers",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8623",
-      "LastCommitSHA": "837ed7a7bd5939b99e11f69ad8650498a7989f1c",
-      "LastCommitAt": "2022-01-04T13:44:14Z",
+      "LastCommitSHA": "dca3351bd08324a4707ac95d890f579e9922dd3b",
+      "LastCommitAt": "2022-01-04T20:19:54Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "SpaceIm"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
@@ -702,17 +700,18 @@
       "LastCommitAt": "2022-01-04T19:19:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-01-04T19:30:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8631#pullrequestreview-843930082"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-01-04T20:28:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8631#pullrequestreview-843975616"
          }
       }
    }
