@@ -322,7 +322,7 @@
       "LastCommitAt": "2022-01-05T15:28:10Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -330,9 +330,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-05T15:49:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8589#pullrequestreview-844761796"
+            "ReviewerName": "MauriceS-WTI",
+            "SubmittedAt": "2022-01-05T17:35:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8589#pullrequestreview-844880146"
          }
       }
    },
@@ -510,6 +510,24 @@
             "SubmittedAt": "2022-01-05T13:33:08Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8640#pullrequestreview-844602016"
          }
+      }
+   },
+   {
+      "Number": 8642,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-05T12:54:49Z",
+      "Recipe": "cspice",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8642",
+      "LastCommitSHA": "58ad40eb5c45fa7c8601b8adcf68f849e2a059c9",
+      "LastCommitAt": "2022-01-05T16:41:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
