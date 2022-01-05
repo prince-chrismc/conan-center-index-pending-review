@@ -296,7 +296,7 @@
       "LastCommitAt": "2022-01-03T11:35:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 22,
+         "Count": 25,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -305,9 +305,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-01-05T09:42:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8561#pullrequestreview-844396643"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-01-05T20:30:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8561#pullrequestreview-845036099"
          }
       }
    },
