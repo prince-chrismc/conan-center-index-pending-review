@@ -513,24 +513,6 @@
       }
    },
    {
-      "Number": 8642,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-05T12:54:49Z",
-      "Recipe": "cspice",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8642",
-      "LastCommitSHA": "c8c094377d07da419b1c2d5ea687af22950aff99",
-      "LastCommitAt": "2022-01-05T14:28:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 8643,
       "OpenedBy": "toge",
       "CreatedAt": "2022-01-05T13:09:08Z",
