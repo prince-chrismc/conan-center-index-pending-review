@@ -338,24 +338,6 @@
       }
    },
    {
-      "Number": 8589,
-      "OpenedBy": "MauriceS-WTI",
-      "CreatedAt": "2021-12-30T16:41:18Z",
-      "Recipe": "liboping",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8589",
-      "LastCommitSHA": "ffa599853c13cca7387bbbefc3d6ddbbf04879c9",
-      "LastCommitAt": "2022-01-04T22:32:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 8592,
       "OpenedBy": "kdsx",
       "CreatedAt": "2021-12-31T07:38:50Z",
@@ -550,17 +532,18 @@
       "LastCommitAt": "2022-01-04T13:57:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-01-04T19:11:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8627#pullrequestreview-843914896"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-01-05T11:07:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8627#pullrequestreview-844478465"
          }
       }
    },
