@@ -519,8 +519,8 @@
       "Recipe": "cspice",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8642",
-      "LastCommitSHA": "58ad40eb5c45fa7c8601b8adcf68f849e2a059c9",
-      "LastCommitAt": "2022-01-05T16:41:35Z",
+      "LastCommitSHA": "35cecf940c9fd63966bc9bfa29b4bfa6e7af5f8e",
+      "LastCommitAt": "2022-01-06T01:45:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
