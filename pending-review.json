@@ -322,7 +322,7 @@
       "LastCommitAt": "2022-01-05T15:28:10Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -330,9 +330,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "MauriceS-WTI",
-            "SubmittedAt": "2022-01-05T17:35:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8589#pullrequestreview-844880146"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-01-06T12:19:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8589#pullrequestreview-845571119"
          }
       }
    },
