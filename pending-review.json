@@ -623,5 +623,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8650,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-01-06T04:57:15Z",
+      "Recipe": "nudb",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8650",
+      "LastCommitSHA": "81982e824f317df503bc6fe7543dc0c6783d8b6b",
+      "LastCommitAt": "2022-01-06T06:25:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
