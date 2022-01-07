@@ -632,19 +632,20 @@
       "LastCommitAt": "2022-01-07T06:46:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
+         "Count": 4,
+         "ValidApprovals": 4,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
             "SSE4",
-            "uilianries"
+            "uilianries",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-07T08:36:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8664#pullrequestreview-846384944"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-01-07T09:21:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8664#pullrequestreview-846419519"
          }
       }
    },
