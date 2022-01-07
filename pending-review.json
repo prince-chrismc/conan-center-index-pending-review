@@ -615,5 +615,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8661,
+      "OpenedBy": "paulo-coutinho",
+      "CreatedAt": "2022-01-07T02:23:09Z",
+      "Recipe": "sqlite3",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8661",
+      "LastCommitSHA": "45ad5d8a442823f9b753c9b29f78a6a9a61c92e1",
+      "LastCommitAt": "2022-01-07T02:22:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
