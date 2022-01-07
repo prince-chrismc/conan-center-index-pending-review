@@ -206,6 +206,24 @@
       }
    },
    {
+      "Number": 8495,
+      "OpenedBy": "Lorac",
+      "CreatedAt": "2021-12-22T20:25:48Z",
+      "Recipe": "tesseract",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8495",
+      "LastCommitSHA": "d9dbb23cf87a01f11bab5680ae42059717855a34",
+      "LastCommitAt": "2021-12-22T20:18:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8547,
       "OpenedBy": "wouterz",
       "CreatedAt": "2021-12-27T16:03:42Z",
