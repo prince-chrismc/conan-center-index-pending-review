@@ -597,5 +597,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8660,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-06T23:16:55Z",
+      "Recipe": "mongo-cxx-driver",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8660",
+      "LastCommitSHA": "19b5b509a18813c010f6a0acef381d263867ca1d",
+      "LastCommitAt": "2022-01-06T23:43:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
