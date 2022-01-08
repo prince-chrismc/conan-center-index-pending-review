@@ -313,61 +313,6 @@
       }
    },
    {
-      "Number": 8666,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2022-01-07T06:59:33Z",
-      "Recipe": "nlohmann_json",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8666",
-      "LastCommitSHA": "ce6f264ca39c3042835ae206d8ad1910af97e3bc",
-      "LastCommitAt": "2022-01-07T06:46:05Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "uilianries",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-01-07T13:15:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8666#pullrequestreview-846598154"
-         }
-      }
-   },
-   {
-      "Number": 8669,
-      "OpenedBy": "ngrodzitski",
-      "CreatedAt": "2022-01-07T12:51:43Z",
-      "Recipe": "sobjectizer",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8669",
-      "LastCommitSHA": "2eef229ec00b5d11e1344b6a2db4055d4476a290",
-      "LastCommitAt": "2022-01-07T12:49:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-01-07T18:31:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8669#pullrequestreview-846881620"
-         }
-      }
-   },
-   {
       "Number": 8671,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-07T13:32:17Z",
