@@ -336,6 +336,24 @@
       }
    },
    {
+      "Number": 8670,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2022-01-07T13:08:59Z",
+      "Recipe": "so5extra",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8670",
+      "LastCommitSHA": "8ba8359476487f8a6326db6be495507273882e36",
+      "LastCommitAt": "2022-01-08T16:24:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8671,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-07T13:32:17Z",
@@ -397,18 +415,19 @@
       "LastCommitAt": "2022-01-07T15:05:52Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "toge"
+            "toge",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-01-08T05:23:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8673#pullrequestreview-847122759"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-01-08T17:21:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8673#pullrequestreview-847174038"
          }
       }
    },
