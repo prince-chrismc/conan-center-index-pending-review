@@ -717,5 +717,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8705,
+      "OpenedBy": "Zeeno-atl",
+      "CreatedAt": "2022-01-08T17:43:28Z",
+      "Recipe": "simple-yaml",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8705",
+      "LastCommitSHA": "684fb0415c16b6f9737affb025fd356181afd550",
+      "LastCommitAt": "2022-01-08T18:36:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8706,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-08T19:00:58Z",
+      "Recipe": "brotli",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8706",
+      "LastCommitSHA": "f33d0197b5b89bfdeadf0de591f7d7eed8f3dede",
+      "LastCommitAt": "2022-01-08T18:59:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8707,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-08T19:06:22Z",
+      "Recipe": "jbig",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8707",
+      "LastCommitSHA": "367357d7c89d6abf989d4e6e1d3024b589b3e724",
+      "LastCommitAt": "2022-01-08T19:05:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
