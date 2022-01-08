@@ -678,14 +678,14 @@
       }
    },
    {
-      "Number": 8688,
+      "Number": 8690,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-08T00:49:01Z",
-      "Recipe": "libarchive",
+      "CreatedAt": "2022-01-08T01:13:39Z",
+      "Recipe": "libalsa",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8688",
-      "LastCommitSHA": "28799aa91ccb5b2e180643d7eadc70abf2a237db",
-      "LastCommitAt": "2022-01-08T00:48:29Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8690",
+      "LastCommitSHA": "0cc73735c4ce90e54ccfb3b7878a7175bff5cceb",
+      "LastCommitAt": "2022-01-08T01:13:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
