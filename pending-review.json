@@ -787,14 +787,14 @@
       }
    },
    {
-      "Number": 8708,
+      "Number": 8709,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-08T20:41:57Z",
-      "Recipe": "capnproto",
+      "CreatedAt": "2022-01-08T22:03:42Z",
+      "Recipe": "cmake",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8708",
-      "LastCommitSHA": "e13ce60de2945aa76be98d7bad9079cd11a86e04",
-      "LastCommitAt": "2022-01-08T20:39:48Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8709",
+      "LastCommitSHA": "89183679d38690e8f3a6992309a6128563fb8265",
+      "LastCommitAt": "2022-01-08T21:59:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
