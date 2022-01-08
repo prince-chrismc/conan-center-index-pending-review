@@ -495,36 +495,19 @@
       "LastCommitAt": "2022-01-07T23:12:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 4,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "toge"
+            "toge",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-01-08T06:31:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8683#pullrequestreview-847126035"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-01-08T08:41:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8683#pullrequestreview-847134756"
          }
-      }
-   },
-   {
-      "Number": 8685,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-07T23:50:37Z",
-      "Recipe": "libpq",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8685",
-      "LastCommitSHA": "eab5c121916c52a2b61f5fe0c8af68bad1a0e820",
-      "LastCommitAt": "2022-01-07T23:50:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
