@@ -803,5 +803,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8710,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-08T22:21:09Z",
+      "Recipe": "libccd",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8710",
+      "LastCommitSHA": "fa2ff32828887dc094027912ff19ecf6a1063c2a",
+      "LastCommitAt": "2022-01-08T22:20:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8713,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-08T22:41:56Z",
+      "Recipe": "libdeflate",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8713",
+      "LastCommitSHA": "c9b89a69ab1d47b671c1d28ad86c51a9777868e2",
+      "LastCommitAt": "2022-01-08T22:41:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8714,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-08T22:54:02Z",
+      "Recipe": "libgeotiff",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8714",
+      "LastCommitSHA": "4b459aa6f29269ddca794b47a354c1714dee3d62",
+      "LastCommitAt": "2022-01-08T22:53:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
