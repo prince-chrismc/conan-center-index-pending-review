@@ -502,6 +502,31 @@
       }
    },
    {
+      "Number": 8672,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-07T13:48:51Z",
+      "Recipe": "libpng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8672",
+      "LastCommitSHA": "1eb90d073e13f296355dad7886eb57454afbec48",
+      "LastCommitAt": "2022-01-07T15:05:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2022-01-07T21:42:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8672#pullrequestreview-847018436"
+         }
+      }
+   },
+   {
       "Number": 8673,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-07T15:02:46Z",
@@ -607,6 +632,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8683",
       "LastCommitSHA": "2d280c46bf4f11c024d33657d3751a2059b5f7e8",
       "LastCommitAt": "2022-01-07T23:12:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8685,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-07T23:50:37Z",
+      "Recipe": "libpq",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8685",
+      "LastCommitSHA": "eab5c121916c52a2b61f5fe0c8af68bad1a0e820",
+      "LastCommitAt": "2022-01-07T23:50:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8687,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-08T00:30:09Z",
+      "Recipe": "openal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8687",
+      "LastCommitSHA": "031a7fa89b54adf8f391c62cba29ceea23fcea30",
+      "LastCommitAt": "2022-01-08T00:27:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
