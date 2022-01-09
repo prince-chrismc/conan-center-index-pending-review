@@ -978,14 +978,14 @@
       }
    },
    {
-      "Number": 8723,
+      "Number": 8724,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-09T12:18:25Z",
-      "Recipe": "eigen",
+      "CreatedAt": "2022-01-09T12:36:52Z",
+      "Recipe": "flecs",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8723",
-      "LastCommitSHA": "33a24a643565f33b2ad9d03a945274f6a93837bd",
-      "LastCommitAt": "2022-01-09T12:17:52Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8724",
+      "LastCommitSHA": "105e0d0c1c0e2e5a460b88427e7d15d4e0e3e519",
+      "LastCommitAt": "2022-01-09T12:36:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
