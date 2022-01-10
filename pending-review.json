@@ -775,33 +775,6 @@
       }
    },
    {
-      "Number": 8715,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-08T23:16:51Z",
-      "Recipe": "libkml",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8715",
-      "LastCommitSHA": "8258fdc4c3a9332d8ec5ade1fbccccd3123e82a2",
-      "LastCommitAt": "2022-01-08T23:19:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-01-10T03:01:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8715#pullrequestreview-847353140"
-         }
-      }
-   },
-   {
       "Number": 8716,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-08T23:25:01Z",
