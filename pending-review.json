@@ -1738,7 +1738,7 @@
       "LastCommitAt": "2022-01-10T15:48:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 5,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -1746,9 +1746,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "sonicxml",
-            "SubmittedAt": "2022-01-11T13:56:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8794#pullrequestreview-849201435"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-01-11T14:58:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8794#pullrequestreview-849298286"
          }
       }
    },
@@ -1877,33 +1877,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-01-11T09:58:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8807#pullrequestreview-848930756"
-         }
-      }
-   },
-   {
-      "Number": 8808,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-11T01:42:43Z",
-      "Recipe": "mariadb-connector-c",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8808",
-      "LastCommitSHA": "40ed98cac44936ce1c373ca6dda94c082b46d7fc",
-      "LastCommitAt": "2022-01-11T01:41:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "toge",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-11T09:59:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8808#pullrequestreview-848931672"
          }
       }
    },
@@ -2070,14 +2043,14 @@
       }
    },
    {
-      "Number": 8821,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-11T13:49:42Z",
-      "Recipe": "sdl",
+      "Number": 8823,
+      "OpenedBy": "IvanRibakov",
+      "CreatedAt": "2022-01-11T14:58:56Z",
+      "Recipe": "cajun-jsonapi",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8821",
-      "LastCommitSHA": "8319f71e1b04318d8a68581ed115f15d8723fa07",
-      "LastCommitAt": "2022-01-11T13:58:32Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8823",
+      "LastCommitSHA": "628cbda50b7907de55575d535657de7c8814f0d9",
+      "LastCommitAt": "2022-01-11T14:43:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
