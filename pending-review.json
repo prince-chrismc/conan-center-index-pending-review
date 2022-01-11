@@ -671,7 +671,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8708",
       "LastCommitSHA": "1d0e1ea84bb13314c9655b9ba882521224789abd",
       "LastCommitAt": "2022-01-11T00:44:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -1083,7 +1083,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8741",
       "LastCommitSHA": "ccfb3b5cd1b4c1e0368905a48eb5a8450b95b180",
       "LastCommitAt": "2022-01-11T00:30:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -1247,7 +1247,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8753",
       "LastCommitSHA": "dfea9ae87576f95c322c6e822288ad574e35aac9",
       "LastCommitAt": "2022-01-11T00:37:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -1832,6 +1832,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8799",
       "LastCommitSHA": "ceeb537eaa3348d593e5e60e967baaf778d03366",
       "LastCommitAt": "2022-01-10T22:03:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8800,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2022-01-10T18:38:58Z",
+      "Recipe": "cairo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8800",
+      "LastCommitSHA": "b8de69ad6ef4ddcf4ceb2334899d293b67538473",
+      "LastCommitAt": "2022-01-10T20:04:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
