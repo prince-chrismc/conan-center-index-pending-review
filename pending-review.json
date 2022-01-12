@@ -58,16 +58,14 @@
       "Recipe": "aws-sdk-cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7830",
-      "LastCommitSHA": "50c287c69878a0aac0c1af6ffe98692fa38c5e3b",
-      "LastCommitAt": "2021-12-23T21:25:35Z",
+      "LastCommitSHA": "738fd2f2cb97cd41ae59c7e3288f03f9f3141c9f",
+      "LastCommitAt": "2022-01-12T18:50:57Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
