@@ -110,17 +110,18 @@
       "LastCommitAt": "2021-11-16T05:33:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 1,
+         "Count": 10,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-13T08:56:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8071#pullrequestreview-851418143"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-01-13T13:58:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8071#pullrequestreview-851745811"
          }
       }
    },
@@ -2029,6 +2030,24 @@
             "SubmittedAt": "2022-01-13T13:13:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8884#pullrequestreview-851693489"
          }
+      }
+   },
+   {
+      "Number": 8885,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-13T13:25:45Z",
+      "Recipe": "jinja2cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8885",
+      "LastCommitSHA": "53ff26e2310f04385a3b462d807877580371f8c5",
+      "LastCommitAt": "2022-01-13T13:25:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
