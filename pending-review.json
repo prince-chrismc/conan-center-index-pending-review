@@ -1865,6 +1865,24 @@
       }
    },
    {
+      "Number": 8868,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-12T15:55:57Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8868",
+      "LastCommitSHA": "812849459a27a2a11e752f41515f5ffe47dc1ac4",
+      "LastCommitAt": "2022-01-13T07:51:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8870,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-01-12T20:03:33Z",
@@ -2277,6 +2295,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8902",
       "LastCommitSHA": "2f15ee30e9201e22e343f3d085c0ba714e391c5d",
       "LastCommitAt": "2022-01-13T20:58:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8904,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-13T22:28:41Z",
+      "Recipe": "clipper",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8904",
+      "LastCommitSHA": "f28743187c1bba98c5b6b015041eb669bc0febb4",
+      "LastCommitAt": "2022-01-13T22:27:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
