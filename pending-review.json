@@ -1994,6 +1994,24 @@
       }
    },
    {
+      "Number": 8877,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-12T23:56:43Z",
+      "Recipe": "mfast",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8877",
+      "LastCommitSHA": "9f21b791bce36c330be3fc06dd4c6a8aaa5cf3a5",
+      "LastCommitAt": "2022-01-13T12:42:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 8878,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-13T01:27:42Z",
@@ -2079,7 +2097,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8884",
       "LastCommitSHA": "c4d12e52b08bb0a1978b6ca3ab4cc8720efdc20f",
       "LastCommitAt": "2022-01-13T13:07:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -2194,24 +2212,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8894",
       "LastCommitSHA": "c01308314054ff4f80860e09ad403a2a6ef0f540",
       "LastCommitAt": "2022-01-13T17:14:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 8895,
-      "OpenedBy": "pedro-alves-ferreira",
-      "CreatedAt": "2022-01-13T17:16:25Z",
-      "Recipe": "nmos-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8895",
-      "LastCommitSHA": "9f03635f788cb9277628d5d2cc1464aa2ad356f8",
-      "LastCommitAt": "2022-01-13T17:12:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
