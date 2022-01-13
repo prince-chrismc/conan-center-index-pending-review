@@ -160,7 +160,7 @@
       "LastCommitAt": "2022-01-12T18:01:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
+         "Count": 10,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -168,9 +168,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-01-13T05:47:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8317#pullrequestreview-851271248"
+            "ReviewerName": "Nekto89",
+            "SubmittedAt": "2022-01-13T09:27:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8317#pullrequestreview-851452680"
          }
       }
    },
@@ -362,6 +362,29 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-01-12T17:07:35Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8651#pullrequestreview-850768315"
+         }
+      }
+   },
+   {
+      "Number": 8656,
+      "OpenedBy": "synacker",
+      "CreatedAt": "2022-01-06T19:52:03Z",
+      "Recipe": "daggy",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8656",
+      "LastCommitSHA": "7c28fc3996dd93dcd251a7561dbd2ff5b011f1ec",
+      "LastCommitAt": "2022-01-13T09:35:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "synacker",
+            "SubmittedAt": "2022-01-12T21:10:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8656#pullrequestreview-851008596"
          }
       }
    },
@@ -1945,6 +1968,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8879",
       "LastCommitSHA": "52e2a06e4094c6add43804b753ae5db4095e70c3",
       "LastCommitAt": "2022-01-13T01:33:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8881,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-01-13T09:25:47Z",
+      "Recipe": "libdeflate",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8881",
+      "LastCommitSHA": "9299eb719589e0856746ee6417002fdf7172c7c4",
+      "LastCommitAt": "2022-01-13T09:24:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
