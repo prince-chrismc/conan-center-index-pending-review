@@ -87,17 +87,18 @@
       "LastCommitAt": "2021-11-15T15:07:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-01-13T00:19:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8055#pullrequestreview-851133155"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-01-14T13:55:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8055#pullrequestreview-852941240"
          }
       }
    },
@@ -973,29 +974,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-01-13T00:25:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8801#pullrequestreview-851136003"
-         }
-      }
-   },
-   {
-      "Number": 8802,
-      "OpenedBy": "gouriano",
-      "CreatedAt": "2022-01-10T20:33:01Z",
-      "Recipe": "ncbi-cxx-toolkit-public",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8802",
-      "LastCommitSHA": "45a0a1809c8c1a94dd6039efc23184ea3fb72fbb",
-      "LastCommitAt": "2022-01-14T12:52:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 20,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "gouriano",
-            "SubmittedAt": "2022-01-12T18:29:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8802#pullrequestreview-850855008"
          }
       }
    },
@@ -2491,6 +2469,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8909",
       "LastCommitSHA": "16bc0916581c4b6cfd6773e581a8cf7a14f56595",
       "LastCommitAt": "2022-01-14T09:53:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8911,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-14T11:10:09Z",
+      "Recipe": "geographiclib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8911",
+      "LastCommitSHA": "2989c544ffce7cf924422e88c7178bd1788a4ac6",
+      "LastCommitAt": "2022-01-14T12:35:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
