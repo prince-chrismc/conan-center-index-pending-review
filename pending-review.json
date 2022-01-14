@@ -678,33 +678,6 @@
       }
    },
    {
-      "Number": 8736,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-09T18:45:55Z",
-      "Recipe": "physx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8736",
-      "LastCommitSHA": "aaab59baf782c276512725de6109f3154dac618c",
-      "LastCommitAt": "2022-01-09T18:45:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-01-14T07:59:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8736#pullrequestreview-852620479"
-         }
-      }
-   },
-   {
       "Number": 8739,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-09T19:57:44Z",
@@ -2470,24 +2443,6 @@
             "SubmittedAt": "2022-01-14T06:15:03Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8907#pullrequestreview-852552803"
          }
-      }
-   },
-   {
-      "Number": 8908,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-14T09:13:39Z",
-      "Recipe": "gklib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8908",
-      "LastCommitSHA": "b49cdfbd557e3abf6819bbfd329961c744d4a93b",
-      "LastCommitAt": "2022-01-14T09:09:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
