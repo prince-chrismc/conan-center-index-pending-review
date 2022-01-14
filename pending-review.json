@@ -983,9 +983,9 @@
       "Recipe": "ncbi-cxx-toolkit-public",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8802",
-      "LastCommitSHA": "251177d46b1baceff9e2db943d5b1e9b5c9b79b6",
-      "LastCommitAt": "2022-01-13T14:51:08Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "45a0a1809c8c1a94dd6039efc23184ea3fb72fbb",
+      "LastCommitAt": "2022-01-14T12:52:07Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 20,
          "ValidApprovals": 0,
@@ -2527,6 +2527,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8914",
       "LastCommitSHA": "3c2081006a0746fa938eaa060cb559870d97019b",
       "LastCommitAt": "2022-01-14T11:32:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8917,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-14T13:08:00Z",
+      "Recipe": "cubicinterpolation",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8917",
+      "LastCommitSHA": "9cdf13324bd596317314d9f9f2e739aa0bdde976",
+      "LastCommitAt": "2022-01-14T13:07:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8918,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-14T13:12:49Z",
+      "Recipe": "cwalk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8918",
+      "LastCommitSHA": "1723351ba0c40e03d1d26487a2469ccbdffce6ea",
+      "LastCommitAt": "2022-01-14T13:12:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
