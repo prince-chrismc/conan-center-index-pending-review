@@ -4,6 +4,11 @@ import (
 	"bytes"
 	"context"
 	"fmt"
+	"image"
+	"image/color"
+	"image/draw"
+	"image/gif"
+	"image/png"
 	"os"
 	"time"
 
@@ -17,7 +22,7 @@ import (
 	"golang.org/x/oauth2"
 )
 
-const interval = duration.WEEK * 52
+const interval = duration.WEEK * 10
 
 // OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
 func OpenVersusMerged(token string, dryRun bool) error {
@@ -60,6 +65,43 @@ func OpenVersusMerged(token string, dryRun bool) error {
 		err = barGraph.Render(chart.PNG, f)
 		if err != nil {
 			fmt.Printf("Problem rendering %s %v\n", "ovm.png", err)
+			os.Exit(1)
+		}
+
+		f1, _ := os.Open("ovm.png")
+		defer f1.Close()
+		img, err := png.Decode(f1)
+		if err != nil {
+			fmt.Printf("Problem decoding %s %v\n", "ovm.png", err)
+			os.Exit(1)
+		}
+
+		var palette color.Palette = color.Palette{
+			image.Transparent,
+			color.RGBA{88, 166, 255, 255},
+			color.RGBA{63, 185, 80, 255},
+			color.RGBA{248, 81, 73, 255},
+			color.RGBA{163, 113, 247, 255},
+			color.RGBA{134, 94, 201, 255},
+		}
+		empty := image.NewPaletted(img.Bounds(), palette)
+		draw.Draw(empty, img.Bounds(), img, img.Bounds().Min, draw.Over)
+
+		// gif.Encode(palette, img, &gif.Options{
+		// 	Quantizer: draw.Quantizer,
+		// })
+
+		jif := gif.GIF{
+			Image: []*image.Paletted{empty},
+			Delay: []int{0},
+		}
+
+		g, _ := os.Create("ovm.gif")
+		defer g.Close()
+
+		err = gif.EncodeAll(g, &jif)
+		if err != nil {
+			fmt.Printf("Problem encoding %s %v\n", "ovm.gif", err)
 			os.Exit(1)
 		}
 
