@@ -154,33 +154,6 @@
       }
    },
    {
-      "Number": 8396,
-      "OpenedBy": "ItsBasi",
-      "CreatedAt": "2021-12-11T13:48:04Z",
-      "Recipe": "doctest",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8396",
-      "LastCommitSHA": "36aaea1eefac56c2522e92018f418a893b2ae764",
-      "LastCommitAt": "2022-01-13T04:43:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-01-15T07:38:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8396#pullrequestreview-853524034"
-         }
-      }
-   },
-   {
       "Number": 8452,
       "OpenedBy": "yuriy-mochurad",
       "CreatedAt": "2021-12-16T10:53:57Z",
@@ -239,33 +212,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 8600,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2021-12-31T19:00:18Z",
-      "Recipe": "tinkerforge-bindings",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8600",
-      "LastCommitSHA": "80920ac63807c52c5f22f0ae6b9d34b8574aa79b",
-      "LastCommitAt": "2022-01-13T17:03:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 13,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "czoido",
-            "danimtb",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-01-15T07:39:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8600#pullrequestreview-853524078"
-         }
       }
    },
    {
