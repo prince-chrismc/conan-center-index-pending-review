@@ -2345,23 +2345,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 8925,
-      "OpenedBy": "BlueSolei",
-      "CreatedAt": "2022-01-15T00:37:00Z",
-      "Recipe": "zug",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8925",
-      "LastCommitSHA": "d2fd330c63f202602001d4458ae6a190b04a1bdc",
-      "LastCommitAt": "2022-01-15T00:35:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
