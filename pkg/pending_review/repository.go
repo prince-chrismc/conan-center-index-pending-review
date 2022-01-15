@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/google/go-github/v41/github"
+	"github.com/google/go-github/v42/github"
 )
 
 // RepositoryService handles communication with the repository related methods of the GitHub API

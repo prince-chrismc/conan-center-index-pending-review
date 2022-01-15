@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/google/go-github/v41/github"
+	"github.com/google/go-github/v42/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/format"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
@@ -44,10 +44,10 @@ func PendingReview(token string, dryRun bool) error {
 
 	var stats stats.Stats
 	var retval []*pending_review.PullRequestSummary
-	opt := &github.PullRequestListOptions{
+	opt := &pending_review.PullRequestListOptions{
 		Sort:      "created",
 		Direction: "asc",
-		ListOptions: github.ListOptions{
+		ListOptions: pending_review.ListOptions{
 			Page:    0,
 			PerPage: 100,
 		},

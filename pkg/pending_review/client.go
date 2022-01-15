@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/google/go-github/v41/github"
+	"github.com/google/go-github/v42/github"
 )
 
 // Response is a GitHub API response.
@@ -15,6 +15,9 @@ type PullRequest = github.PullRequest
 
 // PullRequestReview represents a review of a pull request.
 type PullRequestReview = github.PullRequestReview
+
+// PullRequestListOptions specifies the optional parameters to the Pull Request service
+type PullRequestListOptions = github.PullRequestListOptions
 
 // Label represents a GitHub label on an Issue
 type Label = github.Label
