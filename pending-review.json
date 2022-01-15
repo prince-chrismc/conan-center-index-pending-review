@@ -1165,33 +1165,6 @@
       }
    },
    {
-      "Number": 8856,
-      "OpenedBy": "pedro-alves-ferreira",
-      "CreatedAt": "2022-01-12T11:57:03Z",
-      "Recipe": "cpprestsdk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8856",
-      "LastCommitSHA": "91f216a32df42dadb312b4848703b56666c03ba0",
-      "LastCommitAt": "2022-01-12T11:43:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-14T18:39:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8856#pullrequestreview-853242338"
-         }
-      }
-   },
-   {
       "Number": 8857,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-12T12:01:58Z",
