@@ -35,17 +35,18 @@ It's always benifical to see the output of the commands, so it's encouraged to p
 
 ### Enviroment
 
-We current test against Golang `^1.15`. You can follow [the official installation instructions](https://golang.org/doc/install) for your operating system.
+We current test against Golang `^1.17`. You can follow [the official installation instructions](https://golang.org/doc/install) for your operating system.
 
 ### Working Locally
 
-You can build and/or run the commands locally by using:
+You can run the commands locally by using:
 
-```
-go run ./cmd/ovm --dry-run -t {YOU GITHUB PERSONALL ACCECSS TOKEN HERE}
+```sh
+go run ./cmd/ovm --dry-run -t ${GITHUB_TOKEN}
 ```
 
-You can see [these instruction](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) to make a token
+You can see [these instruction](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+to make a personal access token.
 
 <!-- Credits
 https://raw.githubusercontent.com/atom/atom/8a6581b5c57dee2408ec5ce3bf9c2aa8f1f054b2/CONTRIBUTING.md
