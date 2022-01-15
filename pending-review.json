@@ -958,87 +958,6 @@
       }
    },
    {
-      "Number": 8832,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-11T21:21:00Z",
-      "Recipe": "libe57format",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8832",
-      "LastCommitSHA": "50af289a6f3e004fc54ed5845cab3a0b8dcc64eb",
-      "LastCommitAt": "2022-01-11T21:15:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-14T18:19:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8832#pullrequestreview-853225118"
-         }
-      }
-   },
-   {
-      "Number": 8833,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-11T21:31:00Z",
-      "Recipe": "parallel-hashmap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8833",
-      "LastCommitSHA": "05acdb8a397eb900bdac32930e15a3b576c14ff4",
-      "LastCommitAt": "2022-01-11T21:30:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-14T18:19:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8833#pullrequestreview-853225550"
-         }
-      }
-   },
-   {
-      "Number": 8834,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-11T21:39:22Z",
-      "Recipe": "xproperty",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8834",
-      "LastCommitSHA": "a782056a2d75585b44c17c11f7dad3a60e4a2d3b",
-      "LastCommitAt": "2022-01-11T21:38:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-14T18:20:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8834#pullrequestreview-853225880"
-         }
-      }
-   },
-   {
       "Number": 8837,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-12T00:18:17Z",
@@ -2400,6 +2319,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8922",
       "LastCommitSHA": "a6eb391107fd01e24b5a6acecbfee4552ec29df0",
       "LastCommitAt": "2022-01-14T19:34:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8924,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-15T00:02:25Z",
+      "Recipe": "libjpeg",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8924",
+      "LastCommitSHA": "316474d1e4c8395765b3c5f3117284b9e0363bce",
+      "LastCommitAt": "2022-01-15T00:01:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8925,
+      "OpenedBy": "BlueSolei",
+      "CreatedAt": "2022-01-15T00:37:00Z",
+      "Recipe": "zug",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8925",
+      "LastCommitSHA": "d2fd330c63f202602001d4458ae6a190b04a1bdc",
+      "LastCommitAt": "2022-01-15T00:35:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
