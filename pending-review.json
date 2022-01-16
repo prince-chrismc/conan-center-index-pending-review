@@ -1846,6 +1846,29 @@
       }
    },
    {
+      "Number": 8932,
+      "OpenedBy": "Zeeno-atl",
+      "CreatedAt": "2022-01-15T13:32:56Z",
+      "Recipe": "source_location",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8932",
+      "LastCommitSHA": "1a3ba1de538948eb39e89c6452440792a4705de0",
+      "LastCommitAt": "2022-01-16T08:58:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-01-15T18:09:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8932#pullrequestreview-853581060"
+         }
+      }
+   },
+   {
       "Number": 8933,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-15T14:33:59Z",
@@ -1900,17 +1923,18 @@
       "LastCommitAt": "2022-01-16T03:40:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "Croydon"
+            "Croydon",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2022-01-16T03:43:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8937#pullrequestreview-853627523"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-01-16T08:47:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8937#pullrequestreview-853646298"
          }
       }
    }
