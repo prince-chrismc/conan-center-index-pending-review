@@ -2028,5 +2028,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8939#pullrequestreview-853697835"
          }
       }
+   },
+   {
+      "Number": 8941,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-01-16T22:03:20Z",
+      "Recipe": "qxlsx",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8941",
+      "LastCommitSHA": "2d61debd5eee20cc76364193054381f4b175f9c1",
+      "LastCommitAt": "2022-01-16T16:24:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
