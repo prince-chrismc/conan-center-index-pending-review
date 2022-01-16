@@ -1886,24 +1886,6 @@
       }
    },
    {
-      "Number": 8931,
-      "OpenedBy": "synacker",
-      "CreatedAt": "2022-01-15T13:20:54Z",
-      "Recipe": "daggy",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8931",
-      "LastCommitSHA": "a84999a39571fd711732c1acfe398af95e173be8",
-      "LastCommitAt": "2022-01-16T16:34:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 8932,
       "OpenedBy": "Zeeno-atl",
       "CreatedAt": "2022-01-15T13:32:56Z",
