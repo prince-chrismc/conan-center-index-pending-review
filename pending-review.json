@@ -1793,18 +1793,19 @@
       "LastCommitAt": "2022-01-15T06:49:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "toge",
-            "ericLemanissier"
+            "ericLemanissier",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-01-16T15:12:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8926#pullrequestreview-853687200"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-01-16T15:51:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8926#pullrequestreview-853691741"
          }
       }
    },
@@ -1975,24 +1976,6 @@
             "SubmittedAt": "2022-01-16T08:47:01Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8937#pullrequestreview-853646298"
          }
-      }
-   },
-   {
-      "Number": 8939,
-      "OpenedBy": "martinmoene",
-      "CreatedAt": "2022-01-16T15:11:48Z",
-      "Recipe": "status-value-lite",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8939",
-      "LastCommitSHA": "832bb844236894144ea1b3dc66a9ab0965f79824",
-      "LastCommitAt": "2022-01-16T15:09:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
