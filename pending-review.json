@@ -1531,17 +1531,18 @@
       "LastCommitAt": "2022-01-16T08:58:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 6,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "toge"
+            "toge",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Zeeno-atl",
-            "SubmittedAt": "2022-01-17T18:40:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8932#pullrequestreview-854708586"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-01-17T19:26:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8932#pullrequestreview-854732760"
          }
       }
    },
