@@ -802,33 +802,6 @@
       }
    },
    {
-      "Number": 8854,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-12T11:22:57Z",
-      "Recipe": "sfml",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8854",
-      "LastCommitSHA": "4dce941adb0290c492b73ea9834e9f6f063d4dfe",
-      "LastCommitAt": "2022-01-12T11:21:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2022-01-17T00:38:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8854#pullrequestreview-853793602"
-         }
-      }
-   },
-   {
       "Number": 8857,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-12T12:01:58Z",
