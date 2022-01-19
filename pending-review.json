@@ -1062,17 +1062,18 @@
       "LastCommitAt": "2022-01-15T15:00:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-17T17:08:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8934#pullrequestreview-854647919"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-01-19T14:16:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8934#pullrequestreview-856853734"
          }
       }
    },
@@ -1085,38 +1086,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8935",
       "LastCommitSHA": "72a259596fff7ef263cc13a7895bddbf497e5fd2",
       "LastCommitAt": "2022-01-18T18:45:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 8939,
-      "OpenedBy": "martinmoene",
-      "CreatedAt": "2022-01-16T15:11:48Z",
-      "Recipe": "status-value-lite",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8939",
-      "LastCommitSHA": "cb4c398fe067100716b04ea86abb743a1d375125",
-      "LastCommitAt": "2022-01-16T16:32:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "toge",
-            "uilianries"
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-17T17:12:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8939#pullrequestreview-854651915"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-01-19T14:16:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8935#pullrequestreview-856853410"
          }
       }
    },
@@ -1131,17 +1113,18 @@
       "LastCommitAt": "2022-01-18T10:43:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "toge"
+            "toge",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-01-18T15:07:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8954#pullrequestreview-855558136"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-01-19T14:14:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8954#pullrequestreview-856850317"
          }
       }
    },
@@ -1154,13 +1137,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8955",
       "LastCommitSHA": "db335eada6c5fbe3956ad8ab83de8ef7acfcfaa8",
       "LastCommitAt": "2022-01-19T11:02:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-01-19T14:13:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8955#pullrequestreview-856849613"
+         }
       }
    },
    {
