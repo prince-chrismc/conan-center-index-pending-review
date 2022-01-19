@@ -1382,5 +1382,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8972,
+      "OpenedBy": "paulo-coutinho",
+      "CreatedAt": "2022-01-19T03:01:12Z",
+      "Recipe": "sdl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8972",
+      "LastCommitSHA": "be340496d16a87284022ccb324b7fddcc7838833",
+      "LastCommitAt": "2022-01-19T03:00:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
