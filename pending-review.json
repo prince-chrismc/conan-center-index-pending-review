@@ -1472,6 +1472,31 @@
       }
    },
    {
+      "Number": 8979,
+      "OpenedBy": "lkotsonis",
+      "CreatedAt": "2022-01-19T12:05:05Z",
+      "Recipe": "cereal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8979",
+      "LastCommitSHA": "6192c6e2c5fb35fc86c93612a8e722ced44273ec",
+      "LastCommitAt": "2022-01-19T10:26:46Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 7,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-01-19T20:26:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8979#pullrequestreview-857309000"
+         }
+      }
+   },
+   {
       "Number": 8984,
       "OpenedBy": "jmarrec",
       "CreatedAt": "2022-01-19T17:19:09Z",
@@ -1514,7 +1539,7 @@
       "Recipe": "aws-sdk-cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8986",
-      "LastCommitSHA": "72eaebb416ffafae28252ea600ac5e9a842eabc8",
+      "LastCommitSHA": "9a96f5d0d0922c22cef406ab5a5e7d23cdd45ae6",
       "LastCommitAt": "2022-01-19T20:10:15Z",
       "CciBotPassed": false,
       "Summary": {
