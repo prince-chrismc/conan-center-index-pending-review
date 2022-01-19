@@ -1253,17 +1253,18 @@
       "LastCommitAt": "2022-01-18T20:55:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-01-18T21:35:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8961#pullrequestreview-856002923"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-01-19T08:22:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8961#pullrequestreview-856441707"
          }
       }
    },
@@ -1366,6 +1367,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8970",
       "LastCommitSHA": "1d8538c20fe606b4218267100e0e43d32ebddd7e",
       "LastCommitAt": "2022-01-19T01:34:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8973,
+      "OpenedBy": "narcdev",
+      "CreatedAt": "2022-01-19T08:19:24Z",
+      "Recipe": "ffmpeg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8973",
+      "LastCommitSHA": "36ccc6fd53df01885560830447161ac1d7c419cb",
+      "LastCommitAt": "2022-01-19T08:18:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
