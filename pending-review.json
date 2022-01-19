@@ -576,7 +576,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8885",
       "LastCommitSHA": "aaafb5d6b12315a5f3656e43a1b3a6aa86bb24f1",
       "LastCommitAt": "2022-01-19T16:26:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -652,7 +652,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8891",
       "LastCommitSHA": "ae56ad69d286976aa2e7ec3962ce28ba0d0e3fc5",
       "LastCommitAt": "2022-01-19T16:22:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -1404,7 +1404,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8976",
       "LastCommitSHA": "bfab80c10fdfd35d319200bf1ffb03b0645db355",
       "LastCommitAt": "2022-01-19T10:40:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -1498,6 +1498,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8985",
       "LastCommitSHA": "991aa0403c12abc1522cc3b30db4ec3075d03fb6",
       "LastCommitAt": "2022-01-19T18:22:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8986,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-19T20:08:57Z",
+      "Recipe": "aws-sdk-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8986",
+      "LastCommitSHA": "72eaebb416ffafae28252ea600ac5e9a842eabc8",
+      "LastCommitAt": "2022-01-19T20:10:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
