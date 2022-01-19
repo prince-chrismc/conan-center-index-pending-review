@@ -1178,8 +1178,8 @@
       "Recipe": "c4core",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8955",
-      "LastCommitSHA": "7810ead45bd707b104fa31b3573d11292f8381e3",
-      "LastCommitAt": "2022-01-19T07:37:36Z",
+      "LastCommitSHA": "db335eada6c5fbe3956ad8ab83de8ef7acfcfaa8",
+      "LastCommitAt": "2022-01-19T11:02:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1401,6 +1401,24 @@
             "SubmittedAt": "2022-01-19T10:10:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8975#pullrequestreview-856567282"
          }
+      }
+   },
+   {
+      "Number": 8976,
+      "OpenedBy": "lkotsonis",
+      "CreatedAt": "2022-01-19T10:43:30Z",
+      "Recipe": "cereal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8976",
+      "LastCommitSHA": "bfab80c10fdfd35d319200bf1ffb03b0645db355",
+      "LastCommitAt": "2022-01-19T10:40:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
