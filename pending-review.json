@@ -1328,5 +1328,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 8967,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-01-19T00:52:34Z",
+      "Recipe": "cpprestsdk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8967",
+      "LastCommitSHA": "82d0b0eac017922bf3462d016708fd6b4fe158cf",
+      "LastCommitAt": "2022-01-19T00:52:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8968,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-19T00:56:47Z",
+      "Recipe": "exiv2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8968",
+      "LastCommitSHA": "5f52d41d5cffb8458fd426729082e75a4f6a2f11",
+      "LastCommitAt": "2022-01-19T00:48:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 8970,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-19T01:34:50Z",
+      "Recipe": "fast-cdr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8970",
+      "LastCommitSHA": "1d8538c20fe606b4218267100e0e43d32ebddd7e",
+      "LastCommitAt": "2022-01-19T01:34:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
