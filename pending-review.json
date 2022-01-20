@@ -26,32 +26,6 @@
       }
    },
    {
-      "Number": 7535,
-      "OpenedBy": "maspri",
-      "CreatedAt": "2021-10-04T18:01:18Z",
-      "Recipe": "osgearth",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7535",
-      "LastCommitSHA": "8a00af82e3bb3082826ba2a3f1758d1361f542a8",
-      "LastCommitAt": "2022-01-05T10:03:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 18,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-01-09T16:45:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7535#pullrequestreview-847280413"
-         }
-      }
-   },
-   {
       "Number": 7830,
       "OpenedBy": "dvirtz",
       "CreatedAt": "2021-10-25T11:31:56Z",
@@ -730,15 +704,17 @@
       "LastCommitAt": "2022-01-20T13:05:38Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 6,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "pedro-alves-ferreira",
-            "SubmittedAt": "2022-01-16T12:00:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8895#pullrequestreview-853666056"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-01-20T14:06:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8895#pullrequestreview-858291598"
          }
       }
    },
