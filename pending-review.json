@@ -51,6 +51,29 @@
       }
    },
    {
+      "Number": 7919,
+      "OpenedBy": "darcamo",
+      "CreatedAt": "2021-11-01T20:23:33Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7919",
+      "LastCommitSHA": "84da2822e8c43905b80cf753bcc747d43d736d06",
+      "LastCommitAt": "2022-01-21T02:20:48Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 9,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-01-19T06:36:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7919#pullrequestreview-856308223"
+         }
+      }
+   },
+   {
       "Number": 8307,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2021-12-02T19:17:57Z",
