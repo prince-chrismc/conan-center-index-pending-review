@@ -61,15 +61,17 @@
       "LastCommitAt": "2022-01-21T02:20:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
+         "Count": 10,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "samuel-emrys"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-01-19T06:36:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7919#pullrequestreview-856308223"
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2022-01-21T03:14:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7919#pullrequestreview-859070395"
          }
       }
    },
