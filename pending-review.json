@@ -1661,23 +1661,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9041,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-22T21:08:26Z",
-      "Recipe": "libressl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9041",
-      "LastCommitSHA": "0361fc798fe49f1262896b995e4863e26392b5fa",
-      "LastCommitAt": "2022-01-22T20:58:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
