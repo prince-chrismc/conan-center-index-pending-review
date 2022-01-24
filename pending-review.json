@@ -2018,13 +2018,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9064",
       "LastCommitSHA": "31fd3155c364cf1d96067852be152eeda7f0a881",
       "LastCommitAt": "2022-01-24T18:18:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-01-24T19:58:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9064#pullrequestreview-861454486"
+         }
       }
    }
 ]
