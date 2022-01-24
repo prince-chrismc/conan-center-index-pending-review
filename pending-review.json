@@ -505,7 +505,7 @@
       "LastCommitAt": "2022-01-19T16:18:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 8,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -515,8 +515,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-01-23T17:38:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8902#pullrequestreview-860351859"
+            "SubmittedAt": "2022-01-24T21:34:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8902#pullrequestreview-861541678"
          }
       }
    },
@@ -1855,17 +1855,18 @@
       "LastCommitAt": "2022-01-24T09:46:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-01-24T09:56:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9050#pullrequestreview-860712760"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-01-24T21:19:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9050#pullrequestreview-861528595"
          }
       }
    },
@@ -2032,6 +2033,24 @@
             "SubmittedAt": "2022-01-24T19:58:37Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9064#pullrequestreview-861454486"
          }
+      }
+   },
+   {
+      "Number": 9065,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-24T22:09:24Z",
+      "Recipe": "libpng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9065",
+      "LastCommitSHA": "a1554bf272986b8a49677352b4ccb958adbe86cb",
+      "LastCommitAt": "2022-01-24T22:08:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
