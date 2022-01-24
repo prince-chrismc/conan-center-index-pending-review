@@ -1971,5 +1971,48 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9051#pullrequestreview-860852107"
          }
       }
+   },
+   {
+      "Number": 9053,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2022-01-24T13:25:56Z",
+      "Recipe": "cfgfile",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9053",
+      "LastCommitSHA": "063ca7063fae1a9423d567c518f0511cc5bae64f",
+      "LastCommitAt": "2022-01-24T13:22:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-01-24T14:05:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9053#pullrequestreview-861003972"
+         }
+      }
+   },
+   {
+      "Number": 9054,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-24T13:38:23Z",
+      "Recipe": "bzip2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9054",
+      "LastCommitSHA": "0bfe19fbd6da72e234a44d7c5f4b046396efb3ea",
+      "LastCommitAt": "2022-01-24T13:37:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
