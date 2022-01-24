@@ -2036,14 +2036,14 @@
       }
    },
    {
-      "Number": 9065,
+      "Number": 9067,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-24T22:09:24Z",
-      "Recipe": "libpng",
+      "CreatedAt": "2022-01-24T23:04:52Z",
+      "Recipe": "libjpeg",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9065",
-      "LastCommitSHA": "a1554bf272986b8a49677352b4ccb958adbe86cb",
-      "LastCommitAt": "2022-01-24T22:08:48Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9067",
+      "LastCommitSHA": "4a68237d4fec73c89e67e7ac7949953353022037",
+      "LastCommitAt": "2022-01-24T22:57:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
