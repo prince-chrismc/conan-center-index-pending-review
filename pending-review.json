@@ -2068,23 +2068,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9069,
-      "OpenedBy": "accwebs",
-      "CreatedAt": "2022-01-25T00:26:20Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9069",
-      "LastCommitSHA": "0471a181235e1f988ace94cb47757ab119ceae65",
-      "LastCommitAt": "2022-01-25T00:13:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
