@@ -571,15 +571,17 @@
       "LastCommitAt": "2022-01-24T16:02:03Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "madebr"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-01-21T14:24:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8984#pullrequestreview-859604881"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-01-26T14:04:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8984#pullrequestreview-863583297"
          }
       }
    },
@@ -1521,24 +1523,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9095",
       "LastCommitSHA": "36523a2621299677fe78479a962b5544c3b33528",
       "LastCommitAt": "2022-01-26T12:55:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9096,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-01-26T13:13:48Z",
-      "Recipe": "atk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9096",
-      "LastCommitSHA": "2ec9599365c29a6367adf7d833419094c20fae69",
-      "LastCommitAt": "2022-01-26T13:13:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
