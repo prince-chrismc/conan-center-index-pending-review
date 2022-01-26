@@ -402,17 +402,18 @@
       "LastCommitAt": "2022-01-14T09:53:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-25T16:13:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8909#pullrequestreview-862525579"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-01-26T20:56:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8909#pullrequestreview-864095347"
          }
       }
    },
@@ -1676,6 +1677,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9106",
       "LastCommitSHA": "7a83e13637edd816b147c849049783ce7f1de69d",
       "LastCommitAt": "2022-01-26T14:52:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9107,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-26T20:48:24Z",
+      "Recipe": "brotli",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9107",
+      "LastCommitSHA": "e8d38e7accc7aa7ea5599e308ffb9148c2ad24e7",
+      "LastCommitAt": "2022-01-26T20:47:28Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
