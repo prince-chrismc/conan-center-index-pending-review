@@ -1490,17 +1490,18 @@
       "LastCommitAt": "2022-01-26T01:49:07Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-26T08:35:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9090#pullrequestreview-863232083"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-01-26T11:07:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9090#pullrequestreview-863396479"
          }
       }
    }
