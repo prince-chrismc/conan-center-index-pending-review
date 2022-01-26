@@ -979,32 +979,6 @@
       }
    },
    {
-      "Number": 9036,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-22T18:28:13Z",
-      "Recipe": "libwebp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9036",
-      "LastCommitSHA": "9bf09b77677b0b0f5008093b903019c4fab09a9f",
-      "LastCommitAt": "2022-01-25T00:36:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-01-25T18:59:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9036#pullrequestreview-862733473"
-         }
-      }
-   },
-   {
       "Number": 9038,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-22T20:01:15Z",
@@ -1431,33 +1405,6 @@
       }
    },
    {
-      "Number": 9080,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-01-25T08:08:09Z",
-      "Recipe": "vulkan-loader",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9080",
-      "LastCommitSHA": "c14929e226774448b32b53894386b62166e6b1f2",
-      "LastCommitAt": "2022-01-25T08:07:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-01-25T10:23:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9080#pullrequestreview-862077648"
-         }
-      }
-   },
-   {
       "Number": 9081,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-01-25T15:30:14Z",
@@ -1503,14 +1450,14 @@
       }
    },
    {
-      "Number": 9088,
+      "Number": 9089,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-25T22:43:51Z",
-      "Recipe": "xz_utils",
+      "CreatedAt": "2022-01-26T00:01:26Z",
+      "Recipe": "libdeflate",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9088",
-      "LastCommitSHA": "6bb0e5dab20ce22d75649fa9a01537150644fdc8",
-      "LastCommitAt": "2022-01-25T22:42:50Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9089",
+      "LastCommitSHA": "8d7c41732914be08332a1f00274d2c4f8e0bf45f",
+      "LastCommitAt": "2022-01-26T00:00:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
