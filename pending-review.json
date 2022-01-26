@@ -1139,7 +1139,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9056",
       "LastCommitSHA": "826808593c68d2f29847c439e744119250a41760",
       "LastCommitAt": "2022-01-24T14:51:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1463,24 +1463,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9086",
       "LastCommitSHA": "f9c0b4d37f58555ca40ece253272f8744debee1d",
       "LastCommitAt": "2022-01-25T21:06:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9089,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-26T00:01:26Z",
-      "Recipe": "libdeflate",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9089",
-      "LastCommitSHA": "8d7c41732914be08332a1f00274d2c4f8e0bf45f",
-      "LastCommitAt": "2022-01-26T00:00:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
