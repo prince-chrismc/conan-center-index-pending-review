@@ -1470,5 +1470,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9116#pullrequestreview-865323971"
          }
       }
+   },
+   {
+      "Number": 9121,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-28T00:20:42Z",
+      "Recipe": "zopfli",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9121",
+      "LastCommitSHA": "5bd6f525a51c8af44f9f8326ccbd992dd6618e8d",
+      "LastCommitAt": "2022-01-28T00:19:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
