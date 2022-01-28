@@ -1433,7 +1433,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9121",
       "LastCommitSHA": "5bd6f525a51c8af44f9f8326ccbd992dd6618e8d",
       "LastCommitAt": "2022-01-28T00:19:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1468,14 +1468,14 @@
       }
    },
    {
-      "Number": 9126,
+      "Number": 9125,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-28T12:25:50Z",
-      "Recipe": "libsodium",
+      "CreatedAt": "2022-01-28T11:13:19Z",
+      "Recipe": "zeromq",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9126",
-      "LastCommitSHA": "a6e19b312632969f1b840713a754f557a6b0589d",
-      "LastCommitAt": "2022-01-28T12:25:01Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9125",
+      "LastCommitSHA": "59f6b50bce03bcf9fc74ef7b7a4c5ade13a106cf",
+      "LastCommitAt": "2022-01-28T11:11:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
