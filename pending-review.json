@@ -1570,23 +1570,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9133,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-28T20:12:37Z",
-      "Recipe": "gmp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9133",
-      "LastCommitSHA": "ba9e8873937e1583a5a02b06d6e96f44d05f1deb",
-      "LastCommitAt": "2022-01-28T19:59:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
