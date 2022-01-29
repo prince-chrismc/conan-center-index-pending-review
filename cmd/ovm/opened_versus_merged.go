@@ -60,17 +60,15 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	barGraph := charts.MakeStackedChart(opw, cxw, mxw, m7xw)
 
 	if dryRun {
-		f, _ := os.Create("ovm.png")
-		defer f.Close()
-		err = barGraph.Render(chart.PNG, f)
+
+		var b bytes.Buffer
+		err = barGraph.Render(chart.PNG, &b)
 		if err != nil {
 			fmt.Printf("Problem rendering %s %v\n", "ovm.png", err)
 			os.Exit(1)
 		}
 
-		f1, _ := os.Open("ovm.png")
-		defer f1.Close()
-		img, err := png.Decode(f1)
+		img, err := png.Decode(&b)
 		if err != nil {
 			fmt.Printf("Problem decoding %s %v\n", "ovm.png", err)
 			os.Exit(1)
@@ -84,15 +82,15 @@ func OpenVersusMerged(token string, dryRun bool) error {
 			color.RGBA{163, 113, 247, 255},
 			color.RGBA{134, 94, 201, 255},
 		}
-		empty := image.NewPaletted(img.Bounds(), palette)
-		draw.Draw(empty, img.Bounds(), img, img.Bounds().Min, draw.Over)
+		frameOne := image.NewPaletted(img.Bounds(), palette)
+		draw.Draw(frameOne, img.Bounds(), img, img.Bounds().Min, draw.Over)
 
 		// gif.Encode(palette, img, &gif.Options{
 		// 	Quantizer: draw.Quantizer,
 		// })
 
 		jif := gif.GIF{
-			Image: []*image.Paletted{empty},
+			Image: []*image.Paletted{frameOne},
 			Delay: []int{0},
 		}
 
