@@ -22,7 +22,8 @@ import (
 	"golang.org/x/oauth2"
 )
 
-const interval = duration.WEEK * 10
+const interval = duration.WEEK * 52
+const delay = 75
 
 // OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
 func OpenVersusMerged(token string, dryRun bool) error {
@@ -74,24 +75,32 @@ func OpenVersusMerged(token string, dryRun bool) error {
 			os.Exit(1)
 		}
 
-		var palette color.Palette = color.Palette{
-			image.Transparent,
-			color.RGBA{88, 166, 255, 255},
-			color.RGBA{63, 185, 80, 255},
-			color.RGBA{248, 81, 73, 255},
-			color.RGBA{163, 113, 247, 255},
-			color.RGBA{134, 94, 201, 255},
-		}
-		frameOne := image.NewPaletted(img.Bounds(), palette)
-		draw.Draw(frameOne, img.Bounds(), img, img.Bounds().Min, draw.Over)
+		frames := make([]*image.Paletted, 0)
+		delays := make([]int, 0)
 
-		// gif.Encode(palette, img, &gif.Options{
-		// 	Quantizer: draw.Quantizer,
-		// })
+		lastFrame := renderToPalette(img)
+		frames = append(frames, lastFrame)
+		delays = append(delays, delay)
+
+		images, err := GetOvmPngFromThisWeek(context, client)
+		if err != nil {
+			fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
+			os.Exit(1)
+		}
+
+		// TODO(prince-chrismc) The last one is placed weirdly...
+		for _, png := range images[:len(images)-1] {
+			// frames = append([]*image.Paletted{renderToPalette(png)}, frames...)
+			frames = append(frames, renderToPalette(png))
+			delays = append(delays, delay)
+		}
+
+		frames = reversePaletted(frames)
 
 		jif := gif.GIF{
-			Image: []*image.Paletted{frameOne},
-			Delay: []int{0},
+			Image:     frames,
+			Delay:     delays,
+			LoopCount: 10,
 		}
 
 		g, _ := os.Create("ovm.gif")
@@ -102,6 +111,7 @@ func OpenVersusMerged(token string, dryRun bool) error {
 			fmt.Printf("Problem encoding %s %v\n", "ovm.gif", err)
 			os.Exit(1)
 		}
+		fmt.Println("::endgroup")
 
 		return nil
 	}
@@ -122,6 +132,32 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	fmt.Println("::endgroup")
 
 	return nil
+}
+
+func reversePaletted(frames []*image.Paletted) []*image.Paletted {
+	i := 0
+	j := len(frames) - 1
+	for i < j {
+		frames[i], frames[j] = frames[j], frames[i]
+		i++
+		j--
+	}
+
+	return frames
+}
+
+func renderToPalette(img image.Image) *image.Paletted {
+	var palette color.Palette = color.Palette{
+		image.Transparent,
+		color.RGBA{88, 166, 255, 255},
+		color.RGBA{63, 185, 80, 255},
+		color.RGBA{248, 81, 73, 255},
+		color.RGBA{163, 113, 247, 255},
+		color.RGBA{134, 94, 201, 255},
+	}
+	paletted := image.NewPaletted(img.Bounds(), palette)
+	draw.Draw(paletted, img.Bounds(), img, img.Bounds().Min, draw.Over)
+	return paletted
 }
 
 func prCreationDay(pull *github.PullRequest) time.Time {
