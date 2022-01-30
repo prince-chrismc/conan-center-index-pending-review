@@ -76,29 +76,6 @@
       }
    },
    {
-      "Number": 8200,
-      "OpenedBy": "woidpointer",
-      "CreatedAt": "2021-11-28T19:56:31Z",
-      "Recipe": "open-simulation-interface",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8200",
-      "LastCommitSHA": "d1922fe0483258922bc3f22dbfc3cc7411660596",
-      "LastCommitAt": "2022-01-29T07:15:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "slietzau",
-            "SubmittedAt": "2022-01-28T06:47:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8200#pullrequestreview-865744649"
-         }
-      }
-   },
-   {
       "Number": 8379,
       "OpenedBy": "sh0",
       "CreatedAt": "2021-12-09T16:49:55Z",
