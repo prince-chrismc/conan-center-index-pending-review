@@ -2219,7 +2219,7 @@
       "Recipe": "tracy",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9163",
-      "LastCommitSHA": "2695ae8d32a3b0935479ae6fc1221f652ab8c87c",
+      "LastCommitSHA": "1df437ddea0ac93fd6316fc108bf51aa011a8bd0",
       "LastCommitAt": "2022-01-30T10:48:48Z",
       "CciBotPassed": false,
       "Summary": {
