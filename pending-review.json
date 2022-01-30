@@ -2359,6 +2359,24 @@
       }
    },
    {
+      "Number": 9172,
+      "OpenedBy": "dvirtz",
+      "CreatedAt": "2022-01-30T20:19:19Z",
+      "Recipe": "mingw-w64",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9172",
+      "LastCommitSHA": "ee58e81dd6fc0491a2b2a6aaa865918c4073f055",
+      "LastCommitAt": "2022-01-30T20:03:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9173,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-30T20:36:48Z",
@@ -2385,6 +2403,60 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9174",
       "LastCommitSHA": "90ee7338b7c1e00145fff3515bb83c2a7f220fae",
       "LastCommitAt": "2022-01-30T20:49:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9175,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-30T21:12:44Z",
+      "Recipe": "taocpp-operators",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9175",
+      "LastCommitSHA": "64f059256d2cb9ebc26ed80c490dae23f16e3383",
+      "LastCommitAt": "2022-01-30T21:11:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9176,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-30T21:20:16Z",
+      "Recipe": "systemc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9176",
+      "LastCommitSHA": "c1d2c7fa4045481673d93b8bbe8fc21a00d17ee9",
+      "LastCommitAt": "2022-01-30T21:19:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9177,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-30T21:43:02Z",
+      "Recipe": "spectra",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9177",
+      "LastCommitSHA": "38691bc4c7d6d3a1749d215ec91e3892b375421f",
+      "LastCommitAt": "2022-01-30T21:42:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
