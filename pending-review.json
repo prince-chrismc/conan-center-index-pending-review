@@ -2487,5 +2487,41 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9188#pullrequestreview-867433780"
          }
       }
+   },
+   {
+      "Number": 9191,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-01-31T08:11:35Z",
+      "Recipe": "sentry-breakpad",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9191",
+      "LastCommitSHA": "2bede7b926e37055c0ebd7115318075ae8bad812",
+      "LastCommitAt": "2022-01-31T08:11:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9192,
+      "OpenedBy": "wbitesi",
+      "CreatedAt": "2022-01-31T08:13:58Z",
+      "Recipe": "stduuid",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9192",
+      "LastCommitSHA": "eb1ae319e50d2a5d675527c8aa69a35e4098de2a",
+      "LastCommitAt": "2022-01-31T08:12:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
