@@ -2414,23 +2414,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9186,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-31T01:41:47Z",
-      "Recipe": "sentry-native",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9186",
-      "LastCommitSHA": "0467676c00fe8f52848235930ee9a10915359b65",
-      "LastCommitAt": "2022-01-31T01:40:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
