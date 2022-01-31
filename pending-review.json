@@ -2509,23 +2509,19 @@
       "Recipe": "openal",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9188",
-      "LastCommitSHA": "f291780da1c2230482cda27e7c1d82340ef9d9f3",
-      "LastCommitAt": "2022-01-31T04:55:40Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c3ded7aef1bb9e2141ed76c73c3ba631e6c3d1cf",
+      "LastCommitAt": "2022-01-31T17:17:38Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
+         "Count": 4,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier",
-            "SpaceIm",
-            "intelligide"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-01-31T13:28:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9188#pullrequestreview-867841903"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-01-31T17:17:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9188#pullrequestreview-868170130"
          }
       }
    },
