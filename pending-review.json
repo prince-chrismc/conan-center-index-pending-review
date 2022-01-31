@@ -2414,23 +2414,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9187,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-31T02:37:38Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9187",
-      "LastCommitSHA": "39164d3bd0adc490a4986d6e47ff6a64408129aa",
-      "LastCommitAt": "2022-01-31T02:33:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
