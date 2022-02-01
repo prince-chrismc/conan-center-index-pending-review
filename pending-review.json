@@ -897,16 +897,14 @@
       "Recipe": "gsl-lite",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9075",
-      "LastCommitSHA": "2e87e997df4cf5c7aaa0d029a360d9ddcd36d1f4",
-      "LastCommitAt": "2022-01-29T20:22:36Z",
+      "LastCommitSHA": "92768535faf6e68a0a546171dded0f2b179754e9",
+      "LastCommitAt": "2022-02-01T05:44:45Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
