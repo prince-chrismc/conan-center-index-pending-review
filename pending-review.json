@@ -2220,17 +2220,18 @@
       "LastCommitAt": "2022-01-31T01:40:46Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "MartinDelille"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-01-31T09:41:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9186#pullrequestreview-867595312"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2022-02-01T07:17:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9186#pullrequestreview-868738891"
          }
       }
    },
