@@ -2114,6 +2114,29 @@
       }
    },
    {
+      "Number": 9189,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-01-31T07:49:48Z",
+      "Recipe": "gdk-pixbuf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9189",
+      "LastCommitSHA": "b53818c5f65027f22c83455937075abdde8215f0",
+      "LastCommitAt": "2022-02-02T06:06:04Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-01-31T18:14:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9189#pullrequestreview-868242358"
+         }
+      }
+   },
+   {
       "Number": 9190,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-01-31T07:52:33Z",
@@ -2122,7 +2145,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9190",
       "LastCommitSHA": "84e8db3f060ff529bc413010c3e9011373f17db6",
       "LastCommitAt": "2022-02-02T05:56:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
