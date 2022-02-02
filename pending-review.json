@@ -1101,24 +1101,6 @@
       }
    },
    {
-      "Number": 9117,
-      "OpenedBy": "sonicxml",
-      "CreatedAt": "2022-01-27T18:55:42Z",
-      "Recipe": "libvault",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9117",
-      "LastCommitSHA": "0f72e5fb32ad649b5682ff1aeacae0ae6b4e691b",
-      "LastCommitAt": "2022-02-01T21:26:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 9119,
       "OpenedBy": "patmantru",
       "CreatedAt": "2022-01-27T21:06:59Z",
