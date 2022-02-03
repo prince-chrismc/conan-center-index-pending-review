@@ -1308,34 +1308,6 @@
       }
    },
    {
-      "Number": 9185,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-01-31T01:25:39Z",
-      "Recipe": "sigslot",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9185",
-      "LastCommitSHA": "cc5ce070d09c7f10be38c867a5dc1fd3a844945e",
-      "LastCommitAt": "2022-01-31T01:24:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4",
-            "prince-chrismc",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-02-02T17:14:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9185#pullrequestreview-870866736"
-         }
-      }
-   },
-   {
       "Number": 9187,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-01-31T02:37:38Z",
@@ -1631,24 +1603,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9238",
       "LastCommitSHA": "6a1c4b162c2acc1e43a49f9085cc767264a0f2c7",
       "LastCommitAt": "2022-02-03T00:28:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9239,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-03T01:24:21Z",
-      "Recipe": "libtins",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9239",
-      "LastCommitSHA": "83ebda10f2488a4ff4cb601109a26a16a4f91475",
-      "LastCommitAt": "2022-02-03T01:23:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
