@@ -4,11 +4,6 @@ import (
 	"bytes"
 	"context"
 	"fmt"
-	"image"
-	"image/color"
-	"image/draw"
-	"image/gif"
-	"image/png"
 	"os"
 	"time"
 
@@ -44,7 +39,7 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	opw := make(stats.CountAtTime)  // Opend Per Week
+	opw := make(stats.CountAtTime)  // Opened Per Week
 	cxw := make(stats.CountAtTime)  // Closed (based on creation date) Per Week
 	mxw := make(stats.CountAtTime)  // Merged (based on creation date) Per Week
 	m7xw := make(stats.CountAtTime) // Merged within 7 days (based on creation date) Per Week
@@ -61,57 +56,17 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	barGraph := charts.MakeStackedChart(opw, cxw, mxw, m7xw)
 
 	if dryRun {
-
-		var b bytes.Buffer
-		err = barGraph.Render(chart.PNG, &b)
-		if err != nil {
-			fmt.Printf("Problem rendering %s %v\n", "ovm.png", err)
-			os.Exit(1)
-		}
-
-		img, err := png.Decode(&b)
-		if err != nil {
-			fmt.Printf("Problem decoding %s %v\n", "ovm.png", err)
-			os.Exit(1)
-		}
-
 		images, err := GetOvmPngFromThisWeek(context, client)
 		if err != nil {
 			fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
-			os.Exit(1)
+			return err
 		}
 
-		// Alloc slice with 0 elems but capacity of all previous images + new latest image
-		frames := make([]*image.Paletted, 0, len(images)+1)
-		delays := make([]int, 0, len(images)+1)
-
-		// TODO(prince-chrismc) The last one is placed weirdly...
-		for _, png := range images[:len(images)-1] {
-			frames = append([]*image.Paletted{renderToPalette(png)}, frames...)
-			delays = append(delays, delay)
-		}
-
-		lastFrame := renderToPalette(img)
-		frames = append(frames, lastFrame)
-		delays = append(delays, delay)
-
-		jif := gif.GIF{
-			Image:     frames,
-			Delay:     delays,
-			LoopCount: 10,
-		}
-
-		g, _ := os.Create("ovm.gif")
-		defer g.Close()
-
-		err = gif.EncodeAll(g, &jif)
+		err = SaveToDisk(barGraph, images)
 		if err != nil {
-			fmt.Printf("Problem encoding %s %v\n", "ovm.gif", err)
+			fmt.Println("::endgroup")
 			os.Exit(1)
 		}
-		fmt.Println("::endgroup")
-
-		return nil
 	}
 
 	var b bytes.Buffer
@@ -130,20 +85,6 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	fmt.Println("::endgroup")
 
 	return nil
-}
-
-func renderToPalette(img image.Image) *image.Paletted {
-	var palette color.Palette = color.Palette{
-		image.Transparent,
-		color.RGBA{88, 166, 255, 255},
-		color.RGBA{63, 185, 80, 255},
-		color.RGBA{248, 81, 73, 255},
-		color.RGBA{163, 113, 247, 255},
-		color.RGBA{134, 94, 201, 255},
-	}
-	paletted := image.NewPaletted(img.Bounds(), palette)
-	draw.Draw(paletted, img.Bounds(), img, img.Bounds().Min, draw.Over)
-	return paletted
 }
 
 func prCreationDay(pull *github.PullRequest) time.Time {
