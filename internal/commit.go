@@ -11,6 +11,28 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
+// GetCommitsSince returns a list of commits made to a certain file after a point in time from the raw-data branch
+func GetCommitsSince(context context.Context, client *pending_review.Client, file string, since time.Time) ([]*github.RepositoryCommit, error) {
+	commits, _, err := client.Repositories.ListCommits(context, "prince-chrismc", "conan-center-index-pending-review",
+		&github.CommitsListOptions{SHA: "raw-data", Path: file, Since: since})
+	if err != nil {
+		return nil, err
+	}
+
+	return commits, nil
+}
+
+// GetDataFileAtRef returns the content of file from the root directory from a commit sha
+func GetDataFileAtRef(context context.Context, client *pending_review.Client, file string, sha string) (*github.RepositoryContent, error) {
+	fileContent, _, _, err := client.Repositories.GetContents(context, "prince-chrismc", "conan-center-index-pending-review", file,
+		&github.RepositoryContentGetOptions{Ref: sha})
+	if err != nil {
+		return nil, err
+	}
+
+	return fileContent, nil
+}
+
 // GetDataFile returns the content of file from the root directory of the raw-data branch
 func GetDataFile(context context.Context, client *pending_review.Client, file string) (*github.RepositoryContent, error) {
 	fileContent, _, _, err := client.Repositories.GetContents(context, "prince-chrismc", "conan-center-index-pending-review", file,

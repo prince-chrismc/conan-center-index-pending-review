@@ -4,6 +4,9 @@ import (
 	"bytes"
 	"context"
 	"fmt"
+	"image"
+	"image/gif"
+	"image/png"
 	"os"
 	"time"
 
@@ -18,6 +21,7 @@ import (
 )
 
 const interval = duration.WEEK * 52
+const delay = 75
 
 // OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
 func OpenVersusMerged(token string, dryRun bool) error {
@@ -38,7 +42,7 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	// We have not exceeded the limit so we can continue
 	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
-	opw := make(stats.CountAtTime)  // Opend Per Week
+	opw := make(stats.CountAtTime)  // Opened Per Week
 	cxw := make(stats.CountAtTime)  // Closed (based on creation date) Per Week
 	mxw := make(stats.CountAtTime)  // Merged (based on creation date) Per Week
 	m7xw := make(stats.CountAtTime) // Merged within 7 days (based on creation date) Per Week
@@ -48,6 +52,15 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	countClosedPullRequests(context, client, opw, cxw, mxw, m7xw)
 	countOpenedPullRequests(context, client, opw)
 
+	images, err := GetOvmPngFromThisWeek(context, client)
+	if err != nil {
+		fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
+		os.Exit(1)
+	}
+
+	// TODO(prince-chrismc) The last one is placed weirdly...
+	images = images[:len(images)-1]
+
 	fmt.Println("::endgroup")
 
 	fmt.Println("::group::🖊️ Rendering data and saving results!")
@@ -55,27 +68,44 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	barGraph := charts.MakeStackedChart(opw, cxw, mxw, m7xw)
 
 	if dryRun {
-		f, _ := os.Create("ovm.png")
-		defer f.Close()
-		err = barGraph.Render(chart.PNG, f)
-		if err != nil {
-			fmt.Printf("Problem rendering %s %v\n", "ovm.png", err)
-			os.Exit(1)
-		}
+		err = SaveToDisk(barGraph, images)
 
-		return nil
+		fmt.Println("::endgroup")
+		return err
 	}
 
-	var b bytes.Buffer
-	err = barGraph.Render(chart.PNG, &b)
+	var b1 bytes.Buffer
+	err = barGraph.Render(chart.PNG, &b1)
 	if err != nil {
 		fmt.Printf("Problem rendering %s %v\n", "open-versus-merged.png", err)
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b.Bytes())
+	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b1.Bytes())
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.png", err)
+		os.Exit(1)
+	}
+
+	img, err := png.Decode(&b1)
+	if err != nil {
+		fmt.Printf("Problem decoding %s %v\n", "ovm.png", err)
+		return err
+	}
+
+	images = append([]image.Image{img}, images...)
+	jif := charts.MakeGif(images, delay)
+
+	var b2 bytes.Buffer
+	err = gif.EncodeAll(&b2, &jif)
+	if err != nil {
+		fmt.Printf("Problem encoding %s %v\n", "ovm.gif", err)
+		os.Exit(1)
+	}
+
+	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.gif", b2.Bytes())
+	if err != nil {
+		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.gif", err)
 		os.Exit(1)
 	}
 
