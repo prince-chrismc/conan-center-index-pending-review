@@ -4,12 +4,11 @@ import (
 	"bytes"
 	"fmt"
 	"image"
-	"image/color"
-	"image/draw"
 	"image/gif"
 	"image/png"
 	"os"
 
+	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/charts"
 	"github.com/wcharczuk/go-chart/v2"
 )
 
@@ -24,7 +23,11 @@ func SaveToDisk(barGraph chart.StackedBarChart, images []image.Image) error {
 
 	f, _ := os.Create("ovm.png")
 	defer f.Close()
-	f.Write(b.Bytes())
+	_, err = f.Write(b.Bytes())
+	if err != nil {
+		fmt.Printf("Problem writting %s %v\n", "ovm.png", err)
+		return err
+	}
 
 	img, err := png.Decode(&b)
 	if err != nil {
@@ -32,25 +35,9 @@ func SaveToDisk(barGraph chart.StackedBarChart, images []image.Image) error {
 		return err
 	}
 
-	// Alloc slice with 0 elems but capacity of all previous images + new latest image
-	frames := make([]*image.Paletted, 0, len(images)+1)
-	delays := make([]int, 0, len(images)+1)
-
 	// TODO(prince-chrismc) The last one is placed weirdly...
-	for _, png := range images[:len(images)-1] {
-		frames = append([]*image.Paletted{renderToPalette(png)}, frames...)
-		delays = append(delays, delay)
-	}
-
-	lastFrame := renderToPalette(img)
-	frames = append(frames, lastFrame)
-	delays = append(delays, delay)
-
-	jif := gif.GIF{
-		Image:     frames,
-		Delay:     delays,
-		LoopCount: 10,
-	}
+	images = append([]image.Image{img}, images[:len(images)-1]...)
+	jif := charts.MakeGif(images, delay)
 
 	g, _ := os.Create("ovm.gif")
 	defer g.Close()
@@ -62,18 +49,4 @@ func SaveToDisk(barGraph chart.StackedBarChart, images []image.Image) error {
 	}
 
 	return nil
-}
-
-func renderToPalette(img image.Image) *image.Paletted {
-	var palette color.Palette = color.Palette{
-		image.Transparent,
-		color.RGBA{88, 166, 255, 255},
-		color.RGBA{63, 185, 80, 255},
-		color.RGBA{248, 81, 73, 255},
-		color.RGBA{163, 113, 247, 255},
-		color.RGBA{134, 94, 201, 255},
-	}
-	paletted := image.NewPaletted(img.Bounds(), palette)
-	draw.Draw(paletted, img.Bounds(), img, img.Bounds().Min, draw.Over)
-	return paletted
 }
