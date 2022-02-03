@@ -78,7 +78,7 @@ func PendingReview(token string, dryRun bool) error {
 
 		// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
 		if !isDifferent {
-			fmt.Println("the obtained content is identical to the new result.")
+			fmt.Println("🦺 The obtained content is identical to the new result.")
 			return nil // The published results are the same, no need to update the table.
 		}
 
@@ -131,7 +131,7 @@ func PendingReview(token string, dryRun bool) error {
 :red_square: - Closed pull requests
 :purple_square: - Merged pull requests <sup>[1]</sup>
 
-![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.png?raw=true)
+![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.gif?raw=true)
 
 <sup>[1]</sup>: the darker bottom section indicated merged within 7 days of being opened
 
