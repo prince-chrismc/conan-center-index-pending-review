@@ -4,6 +4,9 @@ import (
 	"bytes"
 	"context"
 	"fmt"
+	"image"
+	"image/gif"
+	"image/png"
 	"os"
 	"time"
 
@@ -49,6 +52,15 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	countClosedPullRequests(context, client, opw, cxw, mxw, m7xw)
 	countOpenedPullRequests(context, client, opw)
 
+	images, err := GetOvmPngFromThisWeek(context, client)
+	if err != nil {
+		fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
+		os.Exit(1)
+	}
+
+	// TODO(prince-chrismc) The last one is placed weirdly...
+	images = images[:len(images)-1]
+
 	fmt.Println("::endgroup")
 
 	fmt.Println("::group::🖊️ Rendering data and saving results!")
@@ -56,29 +68,44 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	barGraph := charts.MakeStackedChart(opw, cxw, mxw, m7xw)
 
 	if dryRun {
-		images, err := GetOvmPngFromThisWeek(context, client)
-		if err != nil {
-			fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
-			return err
-		}
-
 		err = SaveToDisk(barGraph, images)
-		if err != nil {
-			fmt.Println("::endgroup")
-			os.Exit(1)
-		}
+
+		fmt.Println("::endgroup")
+		return err
 	}
 
-	var b bytes.Buffer
-	err = barGraph.Render(chart.PNG, &b)
+	var b1 bytes.Buffer
+	err = barGraph.Render(chart.PNG, &b1)
 	if err != nil {
 		fmt.Printf("Problem rendering %s %v\n", "open-versus-merged.png", err)
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b.Bytes())
+	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b1.Bytes())
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.png", err)
+		os.Exit(1)
+	}
+
+	img, err := png.Decode(&b1)
+	if err != nil {
+		fmt.Printf("Problem decoding %s %v\n", "ovm.png", err)
+		return err
+	}
+
+	images = append([]image.Image{img}, images...)
+	jif := charts.MakeGif(images, delay)
+
+	var b2 bytes.Buffer
+	err = gif.EncodeAll(&b2, &jif)
+	if err != nil {
+		fmt.Printf("Problem encoding %s %v\n", "ovm.gif", err)
+		os.Exit(1)
+	}
+
+	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.gif", b2.Bytes())
+	if err != nil {
+		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.gif", err)
 		os.Exit(1)
 	}
 

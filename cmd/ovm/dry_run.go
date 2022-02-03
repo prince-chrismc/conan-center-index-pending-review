@@ -35,8 +35,7 @@ func SaveToDisk(barGraph chart.StackedBarChart, images []image.Image) error {
 		return err
 	}
 
-	// TODO(prince-chrismc) The last one is placed weirdly...
-	images = append([]image.Image{img}, images[:len(images)-1]...)
+	images = append([]image.Image{img}, images...)
 	jif := charts.MakeGif(images, delay)
 
 	g, _ := os.Create("ovm.gif")
