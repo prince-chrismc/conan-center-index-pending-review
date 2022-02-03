@@ -75,27 +75,25 @@ func OpenVersusMerged(token string, dryRun bool) error {
 			os.Exit(1)
 		}
 
-		frames := make([]*image.Paletted, 0)
-		delays := make([]int, 0)
-
-		lastFrame := renderToPalette(img)
-		frames = append(frames, lastFrame)
-		delays = append(delays, delay)
-
 		images, err := GetOvmPngFromThisWeek(context, client)
 		if err != nil {
 			fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
 			os.Exit(1)
 		}
 
+		// Alloc slice with 0 elems but capacity of all previous images + new latest image
+		frames := make([]*image.Paletted, 0, len(images)+1)
+		delays := make([]int, 0, len(images)+1)
+
 		// TODO(prince-chrismc) The last one is placed weirdly...
 		for _, png := range images[:len(images)-1] {
-			// frames = append([]*image.Paletted{renderToPalette(png)}, frames...)
-			frames = append(frames, renderToPalette(png))
+			frames = append([]*image.Paletted{renderToPalette(png)}, frames...)
 			delays = append(delays, delay)
 		}
 
-		frames = reversePaletted(frames)
+		lastFrame := renderToPalette(img)
+		frames = append(frames, lastFrame)
+		delays = append(delays, delay)
 
 		jif := gif.GIF{
 			Image:     frames,
@@ -132,18 +130,6 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	fmt.Println("::endgroup")
 
 	return nil
-}
-
-func reversePaletted(frames []*image.Paletted) []*image.Paletted {
-	i := 0
-	j := len(frames) - 1
-	for i < j {
-		frames[i], frames[j] = frames[j], frames[i]
-		i++
-		j--
-	}
-
-	return frames
 }
 
 func renderToPalette(img image.Image) *image.Paletted {
