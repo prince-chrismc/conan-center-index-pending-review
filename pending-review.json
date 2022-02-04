@@ -552,17 +552,18 @@
       "LastCommitAt": "2022-02-01T18:37:17Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 12,
-         "ValidApprovals": 1,
+         "Count": 13,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-02-02T16:50:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9140#pullrequestreview-870834488"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-02-04T09:09:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9140#pullrequestreview-872834204"
          }
       }
    },
@@ -1230,6 +1231,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9258",
       "LastCommitSHA": "3f4f5bf78e4ef4ec6ebcad98d69f66046c61ba75",
       "LastCommitAt": "2022-02-04T01:22:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9262,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-04T09:00:21Z",
+      "Recipe": "rabbitmq-c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9262",
+      "LastCommitSHA": "76230fd529188b2e9edb0abb495bd124970f2cc2",
+      "LastCommitAt": "2022-02-04T08:53:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
