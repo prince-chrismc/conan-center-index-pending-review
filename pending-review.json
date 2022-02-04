@@ -1125,34 +1125,6 @@
       }
    },
    {
-      "Number": 9250,
-      "OpenedBy": "slietzau",
-      "CreatedAt": "2022-02-03T14:19:54Z",
-      "Recipe": "pybind11",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9250",
-      "LastCommitSHA": "d637e9b2c9e4df0afb28232a2fc0406df9efd773",
-      "LastCommitAt": "2022-02-03T14:13:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "Skylion007",
-            "ericLemanissier",
-            "henryiii",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-02-03T16:17:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9250#pullrequestreview-872080779"
-         }
-      }
-   },
-   {
       "Number": 9251,
       "OpenedBy": "danimtb",
       "CreatedAt": "2022-02-03T16:11:57Z",
@@ -1163,11 +1135,18 @@
       "LastCommitAt": "2022-02-03T16:10:50Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-02-04T05:46:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9251#pullrequestreview-872692848"
+         }
       }
    },
    {
