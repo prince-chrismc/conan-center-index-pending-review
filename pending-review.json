@@ -1449,6 +1449,24 @@
       }
    },
    {
+      "Number": 9274,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-02-04T15:33:21Z",
+      "Recipe": "plutovg",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9274",
+      "LastCommitSHA": "ef7adc1becbed32cd6be7942968402601d503bf9",
+      "LastCommitAt": "2022-02-05T16:11:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9275,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-02-04T16:11:00Z",
