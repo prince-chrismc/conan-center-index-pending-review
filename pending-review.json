@@ -84,17 +84,14 @@
       "Recipe": "fmt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8389",
-      "LastCommitSHA": "251189cd1e739e1662e1cec3d9087153350a4619",
-      "LastCommitAt": "2022-01-12T11:42:21Z",
+      "LastCommitSHA": "78eff637c8ba39f86472bfdcedeb128807a9ca34",
+      "LastCommitAt": "2022-02-05T07:42:51Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 14,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [],
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -941,7 +938,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9208",
       "LastCommitSHA": "7fec453c2c01d130fc8468aeb970d8e334508fc4",
       "LastCommitAt": "2022-02-01T22:26:20Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
