@@ -1536,13 +1536,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9287",
       "LastCommitSHA": "3ffbc56e15a19e6a2c2f173aa22eb1f8c4fe835d",
       "LastCommitAt": "2022-02-06T11:52:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-02-06T19:33:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9287#pullrequestreview-874076582"
+         }
       }
    },
    {
@@ -1554,6 +1561,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9288",
       "LastCommitSHA": "d3d4f2bbfc92cde6990369cf79c8d30776e507d4",
       "LastCommitAt": "2022-02-06T14:33:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9290,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-06T19:18:40Z",
+      "Recipe": "jasper",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9290",
+      "LastCommitSHA": "d828df9fac8b5f2bba22191713463ff2f570fe8d",
+      "LastCommitAt": "2022-02-05T23:05:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
