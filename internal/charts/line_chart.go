@@ -11,11 +11,9 @@ import (
 )
 
 func inReviewKeys(d stats.DurationAtTime) []time.Time {
-	v := make([]time.Time, len(d))
-	idx := 0
+	v := make([]time.Time, 0, len(d))
 	for time := range d {
-		v[idx] = time
-		idx++
+		v = append(v, time)
 	}
 
 	sort.SliceStable(v, func(i, j int) bool {
@@ -26,21 +24,19 @@ func inReviewKeys(d stats.DurationAtTime) []time.Time {
 }
 
 func inReviewDurationValues(d stats.DurationAtTime, sorted []time.Time) []float64 {
-	v := make([]float64, len(d))
-	idx := 0
+	// TODO(prince-chrismc) This is a great place to try out generics
+	v := make([]float64, 0, len(d))
 	for _, value := range sorted {
-		v[idx] = d[value].Hours() / 24.0
-		idx++
+		v = append(v, d[value].Hours()/24.0)
 	}
 	return v
 }
 
 func closedCountValues(d stats.CountAtTime, sorted []time.Time) []float64 {
-	v := make([]float64, len(d))
-	idx := 0
+	// TODO(prince-chrismc) This is a great place to try out generics
+	v := make([]float64, 0, len(d))
 	for _, value := range sorted {
-		v[idx] = float64(d[value])
-		idx++
+		v = append(v, float64(d[value]))
 	}
 	return v
 }

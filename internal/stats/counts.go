@@ -30,11 +30,9 @@ func (c CountAtTime) Count(time time.Time) {
 
 // Keys returns all the time values recorded sorted
 func (c CountAtTime) Keys() []time.Time {
-	keys := make([]time.Time, len(c)) // Allocate everything in one step for performance
-	idx := 0
+	keys := make([]time.Time, 0, len(c))
 	for time := range c {
-		keys[idx] = time // Fill each elemenet of the array
-		idx++
+		keys = append(keys, time) // Fill each elemenet of the array
 	}
 
 	sort.SliceStable(keys, func(i, j int) bool {
@@ -46,11 +44,9 @@ func (c CountAtTime) Keys() []time.Time {
 
 // Values returns all the recorded counters sorted
 func (c CountAtTime) Values() []int {
-	values := make([]int, len(c)) // Allocate everything in one step for performance
-	idx := 0
+	values := make([]int, 0, len(c))
 	for _, count := range c {
-		values[idx] = count // Fill each elemenet of the array
-		idx++
+		values = append(values, count) // Fill each elemenet of the array
 	}
 
 	sort.SliceStable(values, func(i, j int) bool {
