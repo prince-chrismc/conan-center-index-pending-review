@@ -632,33 +632,6 @@
       }
    },
    {
-      "Number": 9251,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2022-02-03T16:11:57Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9251",
-      "LastCommitSHA": "d84b3c886019858a72ae86d4c23438ec028db878",
-      "LastCommitAt": "2022-02-03T16:10:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-02-07T09:15:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9251#pullrequestreview-874379929"
-         }
-      }
-   },
-   {
       "Number": 9253,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-03T21:33:06Z",
@@ -784,60 +757,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2022-02-06T10:39:37Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9265#pullrequestreview-874021359"
-         }
-      }
-   },
-   {
-      "Number": 9267,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2022-02-04T11:53:00Z",
-      "Recipe": "termcap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9267",
-      "LastCommitSHA": "2a8435d1877e3ca0b8fc1b599b1e245dfcc818c5",
-      "LastCommitAt": "2022-02-04T17:26:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-02-07T05:18:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9267#pullrequestreview-874195198"
-         }
-      }
-   },
-   {
-      "Number": 9269,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-04T13:55:08Z",
-      "Recipe": "cereal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9269",
-      "LastCommitSHA": "0614b4980cf605f1e5e1b62c363c1eb358a1bb9d",
-      "LastCommitAt": "2022-02-04T13:54:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-02-07T05:21:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9269#pullrequestreview-874196378"
          }
       }
    },
