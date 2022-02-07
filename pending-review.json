@@ -936,5 +936,41 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9288#pullrequestreview-874368751"
          }
       }
+   },
+   {
+      "Number": 9293,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-02-07T15:06:52Z",
+      "Recipe": "diligent-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9293",
+      "LastCommitSHA": "8e2ec03230245d3f5a47c2facd3e57769c5a7a93",
+      "LastCommitAt": "2022-02-07T15:06:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9294,
+      "OpenedBy": "serge1",
+      "CreatedAt": "2022-02-07T15:11:42Z",
+      "Recipe": "elfio",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9294",
+      "LastCommitSHA": "46a664111bf4d8d4ca9ad5d8a28bb52c9645c4c1",
+      "LastCommitAt": "2022-02-07T15:05:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
