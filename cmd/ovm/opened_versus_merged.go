@@ -84,7 +84,8 @@ func OpenVersusMerged(token string, dryRun bool) error {
 		os.Exit(1)
 	}
 
-	img, err := png.Decode(&b1)
+	b2 := bytes.NewBuffer(b1.Bytes())
+	img, err := png.Decode(b2)
 	if err != nil {
 		fmt.Printf("Problem decoding %s %v\n", "ovm.png", err)
 		return err
@@ -93,14 +94,14 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	images = append([]image.Image{img}, images...)
 	jif := charts.MakeGif(images, delay)
 
-	var b2 bytes.Buffer
-	err = gif.EncodeAll(&b2, &jif)
+	var b3 bytes.Buffer
+	err = gif.EncodeAll(&b3, &jif)
 	if err != nil {
 		fmt.Printf("Problem encoding %s %v\n", "ovm.gif", err)
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.gif", b2.Bytes())
+	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.gif", b3.Bytes())
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.gif", err)
 		os.Exit(1)

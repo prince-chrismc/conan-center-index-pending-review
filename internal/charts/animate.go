@@ -33,7 +33,14 @@ func renderToPalette(img image.Image) *image.Paletted {
 		color.RGBA{163, 113, 247, 255},
 		color.RGBA{134, 94, 201, 255},
 	}
+
+	// Some days the images are off by a column so we are just hard coding the fix for now
+	// TODO(prince-chrismc) Make this more generic
+	sp := img.Bounds().Min
+	width := img.Bounds().Dx()
+	sp.X = width - 4025
+
 	paletted := image.NewPaletted(img.Bounds(), palette)
-	draw.Draw(paletted, img.Bounds(), img, img.Bounds().Min, draw.Over)
+	draw.Draw(paletted, img.Bounds(), img, sp, draw.Over)
 	return paletted
 }
