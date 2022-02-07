@@ -26,28 +26,25 @@
       }
    },
    {
-      "Number": 7691,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2021-10-15T10:11:21Z",
-      "Recipe": "gst-plugins-good",
+      "Number": 7407,
+      "OpenedBy": "dvirtz",
+      "CreatedAt": "2021-09-24T14:29:41Z",
+      "Recipe": "aws-cdi-sdk",
       "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7691",
-      "LastCommitSHA": "7ba69697ca84b23acabc092ffc4374183e570da3",
-      "LastCommitAt": "2022-01-21T19:12:14Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7407",
+      "LastCommitSHA": "6c18977ab5cebbe0ade1f9ba64f1a6a9398c454a",
+      "LastCommitAt": "2022-02-07T21:43:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
+         "Count": 26,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-02-04T15:38:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7691#pullrequestreview-873246969"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-02-07T13:48:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7407#pullrequestreview-874706511"
          }
       }
    },
@@ -964,6 +961,42 @@
             "SubmittedAt": "2022-02-07T20:13:13Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9295#pullrequestreview-875196399"
          }
+      }
+   },
+   {
+      "Number": 9298,
+      "OpenedBy": "bemehiser",
+      "CreatedAt": "2022-02-07T21:11:00Z",
+      "Recipe": "hiredis",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9298",
+      "LastCommitSHA": "c253fcfb20bfc4596f03ffce44a9bf4127762c99",
+      "LastCommitAt": "2022-02-07T21:09:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9299,
+      "OpenedBy": "datalogics-robb",
+      "CreatedAt": "2022-02-07T21:51:34Z",
+      "Recipe": "icu",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9299",
+      "LastCommitSHA": "6911077709343c9b0156633d34dbc05d343c0187",
+      "LastCommitAt": "2022-02-07T21:45:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
