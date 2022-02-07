@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"image"
 	"image/gif"
-	"image/png"
 	"os"
 
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/charts"
@@ -29,13 +28,8 @@ func SaveToDisk(barGraph chart.StackedBarChart, images []image.Image) error {
 		return err
 	}
 
-	img, err := png.Decode(&b)
-	if err != nil {
-		fmt.Printf("Problem decoding %s %v\n", "ovm.png", err)
-		return err
-	}
-
-	images = append([]image.Image{img}, images...)
+	// TODO(prince-chrismc) Fix graph PNG Decode
+	// Dont bother with graph results since they are oddly sized
 	jif := charts.MakeGif(images, delay)
 
 	g, _ := os.Create("ovm.gif")

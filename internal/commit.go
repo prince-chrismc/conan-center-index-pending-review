@@ -11,7 +11,18 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
-// GetCommitsSince returns a list of commits made to a certain file after a point in time from the raw-data branch
+// GetCommits returns a list of of number from the raw-data branch
+func GetCommits(context context.Context, client *pending_review.Client, file string, count int) ([]*github.RepositoryCommit, error) {
+	commits, _, err := client.Repositories.ListCommits(context, "prince-chrismc", "conan-center-index-pending-review",
+		&github.CommitsListOptions{SHA: "raw-data", Path: file, ListOptions: github.ListOptions{PerPage: count}})
+	if err != nil {
+		return nil, err
+	}
+
+	return commits, nil
+}
+
+// Deprecated: GetCommitsSince returns a list of commits made to a certain file after a point in time from the raw-data branch
 func GetCommitsSince(context context.Context, client *pending_review.Client, file string, since time.Time) ([]*github.RepositoryCommit, error) {
 	commits, _, err := client.Repositories.ListCommits(context, "prince-chrismc", "conan-center-index-pending-review",
 		&github.CommitsListOptions{SHA: "raw-data", Path: file, Since: since})

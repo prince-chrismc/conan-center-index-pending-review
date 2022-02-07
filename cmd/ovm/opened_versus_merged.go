@@ -53,13 +53,10 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	countOpenedPullRequests(context, client, opw)
 
 	images, err := GetOvmPngFromThisWeek(context, client)
-	if err != nil {
+	if err != nil || len(images) == 0 { // We know there should always be commits
 		fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
 		os.Exit(1)
 	}
-
-	// TODO(prince-chrismc) The last one is placed weirdly...
-	images = images[:len(images)-1]
 
 	fmt.Println("::endgroup")
 
