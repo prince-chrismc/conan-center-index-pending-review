@@ -978,16 +978,14 @@
       "Recipe": "icu",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9299",
-      "LastCommitSHA": "6911077709343c9b0156633d34dbc05d343c0187",
-      "LastCommitAt": "2022-02-07T21:45:32Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "009cf3285eb6e6be762265d7416cf1521a204a33",
+      "LastCommitAt": "2022-02-08T20:01:06Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "toge"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "toge",
@@ -1028,42 +1026,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9304",
       "LastCommitSHA": "59bf97126fa9a3933bf8e70ba055cc98669e3ac0",
       "LastCommitAt": "2022-02-08T14:16:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9309,
-      "OpenedBy": "datalogics-kam",
-      "CreatedAt": "2022-02-08T19:07:10Z",
-      "Recipe": "innoextract",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9309",
-      "LastCommitSHA": "0f399351baceb4a67ec639c62cffc8592403c4c5",
-      "LastCommitAt": "2021-11-11T21:49:34Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9310,
-      "OpenedBy": "winternet",
-      "CreatedAt": "2022-02-08T19:09:36Z",
-      "Recipe": "fusepp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9310",
-      "LastCommitSHA": "b82fba48c17c4345906057f572343f527270f892",
-      "LastCommitAt": "2022-02-08T18:49:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
