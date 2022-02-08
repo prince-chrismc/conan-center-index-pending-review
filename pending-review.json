@@ -1034,5 +1034,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 9314,
+      "OpenedBy": "hardsetting",
+      "CreatedAt": "2022-02-08T20:25:41Z",
+      "Recipe": "ruy",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9314",
+      "LastCommitSHA": "e8ef2b2526dc693f3d9a9a939f115c0b59dcf420",
+      "LastCommitAt": "2022-02-08T19:46:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-02-08T20:27:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9314#pullrequestreview-876610897"
+         }
+      }
    }
 ]
