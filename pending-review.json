@@ -92,29 +92,6 @@
       }
    },
    {
-      "Number": 8802,
-      "OpenedBy": "gouriano",
-      "CreatedAt": "2022-01-10T20:33:01Z",
-      "Recipe": "ncbi-cxx-toolkit-public",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8802",
-      "LastCommitSHA": "48e6ae683aa47b48f2fe46bae4415c8049df257e",
-      "LastCommitAt": "2022-02-07T20:29:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 26,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "gouriano",
-            "SubmittedAt": "2022-02-02T20:47:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8802#pullrequestreview-871088639"
-         }
-      }
-   },
-   {
       "Number": 8835,
       "OpenedBy": "wouterz",
       "CreatedAt": "2022-01-11T22:24:46Z",
