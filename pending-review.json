@@ -848,13 +848,21 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9293",
       "LastCommitSHA": "a941949431695bec5032bc5ee8dfeaaeb0e34ef2",
       "LastCommitAt": "2022-02-07T15:06:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 4,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4",
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-02-08T12:17:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9293#pullrequestreview-875940533"
+         }
       }
    },
    {
@@ -946,6 +954,24 @@
             "SubmittedAt": "2022-02-08T10:13:21Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9300#pullrequestreview-875737146"
          }
+      }
+   },
+   {
+      "Number": 9303,
+      "OpenedBy": "jlouazel",
+      "CreatedAt": "2022-02-08T11:36:07Z",
+      "Recipe": "civetweb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9303",
+      "LastCommitSHA": "fbcaba60500fe858751d7528edfbeeac0dd081ac",
+      "LastCommitAt": "2022-02-08T11:25:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
