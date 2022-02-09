@@ -745,29 +745,6 @@
       }
    },
    {
-      "Number": 9299,
-      "OpenedBy": "datalogics-robb",
-      "CreatedAt": "2022-02-07T21:51:34Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9299",
-      "LastCommitSHA": "009cf3285eb6e6be762265d7416cf1521a204a33",
-      "LastCommitAt": "2022-02-08T20:01:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-02-08T10:10:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9299#pullrequestreview-875794434"
-         }
-      }
-   },
-   {
       "Number": 9300,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-02-08T09:01:48Z",
