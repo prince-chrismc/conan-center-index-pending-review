@@ -874,7 +874,7 @@
       "LastCommitAt": "2022-02-07T18:54:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -882,9 +882,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-02-07T20:13:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9295#pullrequestreview-875196399"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-02-08T23:48:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9295#pullrequestreview-876775125"
          }
       }
    },
@@ -978,6 +978,24 @@
       }
    },
    {
+      "Number": 9313,
+      "OpenedBy": "hardsetting",
+      "CreatedAt": "2022-02-08T20:18:58Z",
+      "Recipe": "fp16",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9313",
+      "LastCommitSHA": "c074a2acde10529e4deb830ee157d93e05c9cb07",
+      "LastCommitAt": "2022-02-08T20:39:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9314,
       "OpenedBy": "hardsetting",
       "CreatedAt": "2022-02-08T20:25:41Z",
@@ -986,7 +1004,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9314",
       "LastCommitSHA": "e8ef2b2526dc693f3d9a9a939f115c0b59dcf420",
       "LastCommitAt": "2022-02-08T19:46:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
