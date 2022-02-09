@@ -758,5 +758,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 9330,
+      "OpenedBy": "hardsetting",
+      "CreatedAt": "2022-02-09T20:00:09Z",
+      "Recipe": "xnnpack",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9330",
+      "LastCommitSHA": "7be5451cac9e5be1c0d6f65bcb6aa0e8f7900097",
+      "LastCommitAt": "2022-02-07T09:28:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
