@@ -870,5 +870,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 9340,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-02-10T18:08:35Z",
+      "Recipe": "implot",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9340",
+      "LastCommitSHA": "34a1eba1a9d114e7dfae58e0f721ea78522869e3",
+      "LastCommitAt": "2022-02-10T12:34:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
