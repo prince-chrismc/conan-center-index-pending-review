@@ -931,5 +931,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 9344,
+      "OpenedBy": "AlvaroFS",
+      "CreatedAt": "2022-02-10T19:40:47Z",
+      "Recipe": "dd-opentracing-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9344",
+      "LastCommitSHA": "933eb51baec9658b93dc32cdd8d03a0552b0187e",
+      "LastCommitAt": "2022-02-10T19:32:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
