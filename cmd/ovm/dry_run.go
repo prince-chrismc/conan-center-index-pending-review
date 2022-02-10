@@ -8,7 +8,6 @@ import (
 	"image/png"
 	"os"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/charts"
 	"github.com/wcharczuk/go-chart/v2"
 )
 
@@ -37,7 +36,7 @@ func SaveToDisk(barGraph chart.StackedBarChart, images []image.Image) error {
 	}
 
 	images = append([]image.Image{img}, images...)
-	jif := charts.MakeGif(images, delay)
+	jif := MakeGif(images, delay)
 
 	g, _ := os.Create("ovm.gif")
 	defer g.Close()

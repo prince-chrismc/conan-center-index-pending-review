@@ -92,7 +92,7 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	}
 
 	images = append([]image.Image{img}, images...)
-	jif := charts.MakeGif(images, delay)
+	jif := MakeGif(images, delay)
 
 	var b3 bytes.Buffer
 	err = gif.EncodeAll(&b3, &jif)
