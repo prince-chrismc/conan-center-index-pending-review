@@ -882,6 +882,49 @@
       "LastCommitAt": "2022-02-10T12:34:53Z",
       "CciBotPassed": false,
       "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-02-10T18:22:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9340#pullrequestreview-879264050"
+         }
+      }
+   },
+   {
+      "Number": 9341,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-02-10T18:36:18Z",
+      "Recipe": "zstd",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9341",
+      "LastCommitSHA": "7dcb4a4d87ef1dca61aeeff8a5cc6f5b5e77cd06",
+      "LastCommitAt": "2022-02-10T18:33:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9342,
+      "OpenedBy": "Tzoockee",
+      "CreatedAt": "2022-02-10T18:51:45Z",
+      "Recipe": "hdf5",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9342",
+      "LastCommitSHA": "00cb4fe0520508b477c3f73ebb793c4a9ee4bd7a",
+      "LastCommitAt": "2022-02-10T18:48:48Z",
+      "CciBotPassed": false,
+      "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
