@@ -20,7 +20,7 @@ import (
 	"golang.org/x/oauth2"
 )
 
-const interval = duration.WEEK * 10
+const interval = duration.WEEK * 52
 const delay = 75
 
 // OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
