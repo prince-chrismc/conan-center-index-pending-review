@@ -20,7 +20,7 @@ import (
 	"golang.org/x/oauth2"
 )
 
-const interval = duration.WEEK * 52
+const interval = duration.WEEK * 10
 const delay = 75
 
 // OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
@@ -92,7 +92,7 @@ func OpenVersusMerged(token string, dryRun bool) error {
 	}
 
 	images = append([]image.Image{img}, images...)
-	jif := charts.MakeGif(images, delay)
+	jif := MakeGif(images, delay)
 
 	var b3 bytes.Buffer
 	err = gif.EncodeAll(&b3, &jif)
