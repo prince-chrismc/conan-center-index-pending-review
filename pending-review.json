@@ -26,29 +26,6 @@
       }
    },
    {
-      "Number": 7407,
-      "OpenedBy": "dvirtz",
-      "CreatedAt": "2021-09-24T14:29:41Z",
-      "Recipe": "aws-cdi-sdk",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7407",
-      "LastCommitSHA": "6c18977ab5cebbe0ade1f9ba64f1a6a9398c454a",
-      "LastCommitAt": "2022-02-07T21:43:49Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 26,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-02-07T13:48:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7407#pullrequestreview-874706511"
-         }
-      }
-   },
-   {
       "Number": 8557,
       "OpenedBy": "daravi",
       "CreatedAt": "2021-12-28T02:27:59Z",
@@ -182,15 +159,17 @@
       "LastCommitAt": "2022-02-09T12:32:33Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-02-04T15:31:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9044#pullrequestreview-873238256"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-02-10T04:54:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9044#pullrequestreview-878327356"
          }
       }
    },
