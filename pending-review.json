@@ -1004,13 +1004,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9352",
       "LastCommitSHA": "b5aa923bbaae98f9fa78348c303c57db115fbd5f",
       "LastCommitAt": "2022-02-11T13:18:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-02-11T15:23:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9352#pullrequestreview-880322497"
+         }
       }
    }
 ]
