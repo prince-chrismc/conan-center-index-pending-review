@@ -1096,23 +1096,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9364,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-12T18:06:47Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9364",
-      "LastCommitSHA": "5d9abfd8fbdf8ae7f7e8afac4da8e0e8d4deb761",
-      "LastCommitAt": "2022-02-12T18:02:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
