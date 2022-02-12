@@ -909,17 +909,18 @@
       "LastCommitAt": "2022-02-10T18:33:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-02-11T12:40:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9341#pullrequestreview-880125672"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-02-12T06:22:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9341#pullrequestreview-880826641"
          }
       }
    },
@@ -958,38 +959,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9349",
       "LastCommitSHA": "4445a1390d60bb5a0f3819f3574ff8bcf962e1db",
       "LastCommitAt": "2022-02-11T10:22:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9352,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-11T13:21:40Z",
-      "Recipe": "libpcap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9352",
-      "LastCommitSHA": "b5aa923bbaae98f9fa78348c303c57db115fbd5f",
-      "LastCommitAt": "2022-02-11T13:18:04Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "madebr",
-            "prince-chrismc"
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-02-11T19:21:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9352#pullrequestreview-880585859"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-02-12T06:22:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9349#pullrequestreview-880826629"
          }
       }
    },
