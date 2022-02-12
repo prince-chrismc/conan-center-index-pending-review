@@ -862,17 +862,18 @@
       "LastCommitAt": "2022-02-10T11:58:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-02-11T07:40:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9336#pullrequestreview-879847229"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-02-12T16:24:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9336#pullrequestreview-880869668"
          }
       }
    },
@@ -1024,10 +1025,28 @@
       "OpenedBy": "toge",
       "CreatedAt": "2022-02-12T16:10:12Z",
       "Recipe": "wiringpi",
-      "Change": 2,
+      "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9361",
-      "LastCommitSHA": "d909995fb451732665a54def4d92b40f42bab11c",
-      "LastCommitAt": "2022-02-12T16:08:14Z",
+      "LastCommitSHA": "5574ef08cc2c885564ce4ae7a62e5575f5a2b706",
+      "LastCommitAt": "2022-02-12T16:20:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9362,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-12T16:46:08Z",
+      "Recipe": "rocksdb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9362",
+      "LastCommitSHA": "c13e66e5eb019f91006cb68fb8d8e3812f073cb9",
+      "LastCommitAt": "2022-02-12T16:40:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
