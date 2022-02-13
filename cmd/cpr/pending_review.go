@@ -85,8 +85,6 @@ func PendingReview(token string, dryRun bool) error {
 
 	commentBody := `## :sparkles: Summary of Pull Requests Pending Review!
 
-<p align="right"> Found this useful? Give it a :star: by clicking :arrow_upper_right: </p>
-
 ### :ballot_box_with_check: Selection Criteria:
 
 - There has been at least one approval on the head commit
@@ -126,6 +124,8 @@ func PendingReview(token string, dryRun bool) error {
 ## :hourglass: Time Spent in Review
 
 ![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
+
+Found this useful? Give it a :star: :pray:
 `
 
 	if dryRun {
