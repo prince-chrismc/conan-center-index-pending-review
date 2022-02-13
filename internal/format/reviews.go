@@ -31,8 +31,9 @@ func ReviewsToMarkdownRows(prs []*pending_review.PullRequestSummary, canMerge bo
 func underWay(pr *pending_review.PullRequestSummary) string {
 	var retval string
 	title := title(pr.Change, pr.Recipe)
-	if !pr.CciBotPassed && pr.Summary.IsApproved() {
-		title = ":warning: " + pr.Recipe
+	if !pr.CciBotPassed {
+		// The assumption here is that "no passing" means in progress since "failing" PRs are disgarded
+		title = ":stopwatch: " + pr.Recipe
 	}
 
 	columns := []string{

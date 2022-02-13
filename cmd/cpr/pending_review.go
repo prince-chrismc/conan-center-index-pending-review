@@ -98,12 +98,12 @@ func PendingReview(token string, dryRun bool) error {
 :memo: - Modification to an existing recipe
 :green_book: - Documentation change <sup>[1]</sup>
 :gear: - GitHub configuration/workflow changes <sup>[1]</sup>
-:warning: - The merge commit status does **not** indicate success <sup>[2]</sup>
+:stopwatch: or :warning: - The commit status does **not** indicate success <sup>[2]</sup>
 :bell: - The last review was more than 12 days ago
 :eyes: - It's been more than 3 days since the last commit and there are no reviews
 
 <sup>[1]</sup>: _closely_ matches the label
-<sup>[2]</sup>: only displayed when ready to merge` +
+<sup>[2]</sup>: depending whether the PR is under way or ready to merge` +
 		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) + `
 		
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
