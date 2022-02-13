@@ -167,14 +167,16 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		}
 	}
 
-	if onlyBumpFilesChanged(files) {
+	if onlyVersionBumpFilesChanged(files) {
+		change.Change = BUMP
+	} else if onlyDepsBumpFilesChanged(files) {
 		change.Change = BUMP
 	}
 
 	return change, resp, nil
 }
 
-func onlyBumpFilesChanged(files []*github.CommitFile) bool {
+func onlyVersionBumpFilesChanged(files []*github.CommitFile) bool {
 	if len(files) != 2 {
 		return false
 	}
@@ -193,6 +195,30 @@ func onlyBumpFilesChanged(files []*github.CommitFile) bool {
 	}
 
 	return hasConandata && hasConfig
+}
+
+func onlyDepsBumpFilesChanged(files []*github.CommitFile) bool {
+	for _, file := range files {
+		if !strings.HasSuffix(file.GetFilename(), "conanfile.py") {
+			return false
+		}
+
+		lines := strings.Split(file.GetPatch(), "\n")
+		additions := filter(lines, func(word string) bool {
+			return strings.HasPrefix(word, "+") && strings.Contains(word, "requires")
+		})
+		deletions := filter(lines, func(word string) bool {
+			return strings.HasPrefix(word, "-") && strings.Contains(word, "requires")
+		})
+
+		println(len(additions), " ", file.GetAdditions(), " ", len(deletions), " ", file.GetDeletions())
+		if len(additions) != file.GetAdditions() || len(deletions) != file.GetDeletions() {
+			return false
+		}
+	}
+
+	// All `conanfile.py` only contain changes with "requires" keyword
+	return true
 }
 
 // Expected format is
@@ -218,4 +244,14 @@ func getDiff(file *CommitFile) (*change, error) {
 	}
 
 	return &change{title, status}, nil
+}
+
+func filter(vs []string, f func(string) bool) []string {
+	filtered := make([]string, 0)
+	for _, v := range vs {
+		if f(v) {
+			filtered = append(filtered, v)
+		}
+	}
+	return filtered
 }

@@ -89,12 +89,12 @@ func PendingReview(token string, dryRun bool) error {
 
 - There has been at least one approval on the head commit
 - The last commit occured after any reviews
-- No labels with exception to "bump version" and "docs"
+- No labels with exception to "bump version", "bump dependencies" and "docs"
 
 #### Legend
 
 :new: - Adding a recipe which does not yet exist
-:arrow_up: - Version bump <sup>[1]</sup>
+:arrow_up: - Version or dependencies bump <sup>[1]</sup>
 :memo: - Modification to an existing recipe
 :green_book: - Documentation change <sup>[1]</sup>
 :warning: - The merge commit status does **not** indicate success <sup>[2]</sup>

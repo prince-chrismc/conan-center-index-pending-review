@@ -34,7 +34,7 @@ func TestOnlyBumpFilesChangedNotTwo(t *testing.T) {
 		}
 	  ]`)
 
-	assert.Equal(t, false, onlyBumpFilesChanged(oneFile))
+	assert.Equal(t, false, onlyVersionBumpFilesChanged(oneFile))
 }
 
 func TestOnlyBumpFilesChangedWrongFiles(t *testing.T) {
@@ -65,7 +65,7 @@ func TestOnlyBumpFilesChangedWrongFiles(t *testing.T) {
 		}
 	  ]`)
 
-	assert.Equal(t, false, onlyBumpFilesChanged(filesCMakeRecipe))
+	assert.Equal(t, false, onlyVersionBumpFilesChanged(filesCMakeRecipe))
 }
 
 func TestOnlyBumpFilesChanged(t *testing.T) {
@@ -96,7 +96,7 @@ func TestOnlyBumpFilesChanged(t *testing.T) {
 		}
 	  ]`)
 
-	assert.Equal(t, true, onlyBumpFilesChanged(filesConfigData))
+	assert.Equal(t, true, onlyVersionBumpFilesChanged(filesConfigData))
 }
 
 func TestOnlyBumpFilesChangedWorngOrder(t *testing.T) {
@@ -127,5 +127,105 @@ func TestOnlyBumpFilesChangedWorngOrder(t *testing.T) {
 		}
 	  ]`)
 
-	assert.Equal(t, true, onlyBumpFilesChanged(filesDataConfig))
+	assert.Equal(t, true, onlyVersionBumpFilesChanged(filesDataConfig))
+}
+
+func TestOnlyBumpDumpFileChanged(t *testing.T) {
+	filesDataConfig := parsePrJSON(t, `[
+		{
+		  "sha": "7b0a5b2235454cd64a93729d0ec340ed8228b27f",
+		  "filename": "recipes/pulseaudio/all/conanfile.py",
+		  "status": "modified",
+		  "additions": 5,
+		  "deletions": 5,
+		  "changes": 10,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/0945dbcace4a3c1fb10c0f50d767d229bd053e05/recipes/pulseaudio/all/conanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/0945dbcace4a3c1fb10c0f50d767d229bd053e05/recipes/pulseaudio/all/conanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes/pulseaudio/all/conanfile.py?ref=0945dbcace4a3c1fb10c0f50d767d229bd053e05",
+		  "patch": "@@ -59,17 +59,17 @@ def configure(self):\n     def requirements(self):\n         self.requires(\"libiconv/1.16\")\n         self.requires(\"libsndfile/1.0.31\")\n-        self.requires(\"libcap/2.50\")\n+        self.requires(\"libcap/2.62\")\n         if self.options.with_alsa:\n-            self.requires(\"libalsa/1.2.4\")\n+            self.requires(\"libalsa/1.2.5.1\")\n         if self.options.with_glib:\n-            self.requires(\"glib/2.69.0\")\n+            self.requires(\"glib/2.70.1\")\n         if self.options.get_safe(\"with_fftw\"):\n             self.requires(\"fftw/3.3.9\")\n         if self.options.with_x11:\n             self.requires(\"xorg/system\")\n         if self.options.with_openssl:\n-            self.requires(\"openssl/1.1.1l\")\n+            self.requires(\"openssl/1.1.1m\")\n         if self.options.with_dbus:\n             self.requires(\"dbus/1.12.20\")\n \n@@ -81,7 +81,7 @@ def validate(self):\n                                             % self.options[\"fftw\"].precision)\n \n     def build_requirements(self):\n-        self.build_requires(\"gettext/0.20.1\")\n+        self.build_requires(\"gettext/0.21\")\n         self.build_requires(\"libtool/2.4.6\")\n         self.build_requires(\"pkgconf/1.7.4\")\n "
+		}
+	  ]`)
+
+	assert.Equal(t, true, onlyDepsBumpFilesChanged(filesDataConfig))
+}
+
+func TestOnlyBumpDumpFileChangedAgain(t *testing.T) {
+	filesDataConfig := parsePrJSON(t, `[
+		{
+		  "sha": "f65739875c349ead8849a73bc600e9ab4d0ed45c",
+		  "filename": "recipes/gst-plugins-base/all/conanfile.py",
+		  "status": "modified",
+		  "additions": 1,
+		  "deletions": 1,
+		  "changes": 2,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/95e6388a6f3485cad308fe45277782b7dff1f2a3/recipes/gst-plugins-base/all/conanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/95e6388a6f3485cad308fe45277782b7dff1f2a3/recipes/gst-plugins-base/all/conanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes/gst-plugins-base/all/conanfile.py?ref=95e6388a6f3485cad308fe45277782b7dff1f2a3",
+		  "patch": "@@ -102,7 +102,7 @@ def requirements(self):\n         self.requires(\"glib/2.70.1\")\n         self.requires(\"gstreamer/1.19.1\")\n         if self.options.get_safe(\"with_libalsa\"):\n-            self.requires(\"libalsa/1.1.9\")\n+            self.requires(\"libalsa/1.2.5.1\")\n         if self.options.get_safe(\"with_xorg\"):\n             self.requires(\"xorg/system\")\n         if self.options.with_gl:"
+		}
+	  ]`)
+
+	assert.Equal(t, true, onlyDepsBumpFilesChanged(filesDataConfig))
+}
+
+func TestOnlyBumpDumpFilesChanged(t *testing.T) {
+	filesDataConfig := parsePrJSON(t, `[
+		{
+		  "sha": "768b6a5d9256da3ffc207c2fbf5d67ad721e2059",
+		  "filename": "recipes/opencv/3.x/conanfile.py",
+		  "status": "modified",
+		  "additions": 1,
+		  "deletions": 1,
+		  "changes": 2,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/7f972d41ff9b70ee1af3ed66e44950b1976eff94/recipes/opencv/3.x/conanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/7f972d41ff9b70ee1af3ed66e44950b1976eff94/recipes/opencv/3.x/conanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes/opencv/3.x/conanfile.py?ref=7f972d41ff9b70ee1af3ed66e44950b1976eff94",
+		  "patch": "@@ -100,7 +100,7 @@ def requirements(self):\n         if self.options.parallel == \"tbb\":\n             self.requires(\"tbb/2020.3\")\n         if self.options.with_webp:\n-            self.requires(\"libwebp/1.2.1\")\n+            self.requires(\"libwebp/1.2.2\")\n         if self.options.contrib:\n             self.requires(\"freetype/2.11.1\")\n             self.requires(\"harfbuzz/3.2.0\")"
+		},
+		{
+		  "sha": "458c85dbf2b27409b0918025491df49d515a5403",
+		  "filename": "recipes/opencv/4.x/conanfile.py",
+		  "status": "modified",
+		  "additions": 1,
+		  "deletions": 1,
+		  "changes": 2,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/7f972d41ff9b70ee1af3ed66e44950b1976eff94/recipes/opencv/4.x/conanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/7f972d41ff9b70ee1af3ed66e44950b1976eff94/recipes/opencv/4.x/conanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes/opencv/4.x/conanfile.py?ref=7f972d41ff9b70ee1af3ed66e44950b1976eff94",
+		  "patch": "@@ -193,7 +193,7 @@ def requirements(self):\n         if self.options.parallel == \"tbb\":\n             self.requires(\"tbb/2020.3\")\n         if self.options.with_webp:\n-            self.requires(\"libwebp/1.2.1\")\n+            self.requires(\"libwebp/1.2.2\")\n         if self.options.get_safe(\"contrib_freetype\"):\n             self.requires(\"freetype/2.11.1\")\n             self.requires(\"harfbuzz/3.2.0\")"
+		}
+	  ]`)
+
+	assert.Equal(t, true, onlyDepsBumpFilesChanged(filesDataConfig))
+}
+
+func TestOnlyBumpDepsFilesChangedWrongFiles(t *testing.T) {
+	oneFile := parsePrJSON(t, `[
+		{
+			"sha": "7b0a5b2235454cd64a93729d0ec340ed8228b27f",
+			"filename": "recipes/pulseaudio/all/conanfile.py",
+			"status": "modified",
+			"additions": 5,
+			"deletions": 5,
+			"changes": 10,
+			"blob_url": "https://github.com/conan-io/conan-center-index/blob/0945dbcace4a3c1fb10c0f50d767d229bd053e05/recipes/pulseaudio/all/conanfile.py",
+			"raw_url": "https://github.com/conan-io/conan-center-index/raw/0945dbcace4a3c1fb10c0f50d767d229bd053e05/recipes/pulseaudio/all/conanfile.py",
+			"contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes/pulseaudio/all/conanfile.py?ref=0945dbcace4a3c1fb10c0f50d767d229bd053e05",
+			"patch": "@@ -59,17 +59,17 @@ def configure(self):\n     def requirements(self):\n         self.requires(\"libiconv/1.16\")\n         self.requires(\"libsndfile/1.0.31\")\n-        self.requires(\"libcap/2.50\")\n+        self.requires(\"libcap/2.62\")\n         if self.options.with_alsa:\n-            self.requires(\"libalsa/1.2.4\")\n+            self.requires(\"libalsa/1.2.5.1\")\n         if self.options.with_glib:\n-            self.requires(\"glib/2.69.0\")\n+            self.requires(\"glib/2.70.1\")\n         if self.options.get_safe(\"with_fftw\"):\n             self.requires(\"fftw/3.3.9\")\n         if self.options.with_x11:\n             self.requires(\"xorg/system\")\n         if self.options.with_openssl:\n-            self.requires(\"openssl/1.1.1l\")\n+            self.requires(\"openssl/1.1.1m\")\n         if self.options.with_dbus:\n             self.requires(\"dbus/1.12.20\")\n \n@@ -81,7 +81,7 @@ def validate(self):\n                                             % self.options[\"fftw\"].precision)\n \n     def build_requirements(self):\n-        self.build_requires(\"gettext/0.20.1\")\n+        self.build_requires(\"gettext/0.21\")\n         self.build_requires(\"libtool/2.4.6\")\n         self.build_requires(\"pkgconf/1.7.4\")\n "
+		},
+		{
+		  "sha": "5cbce65d888e970205160de1ea33cb3dae4b948b",
+		  "filename": "recipes/b2/portable/conandata.yml",
+		  "status": "modified",
+		  "additions": 3,
+		  "deletions": 0,
+		  "changes": 3,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/7558ff23fa9eabd5ae08e90b89abc125f4a557e4/recipes/b2/portable/conandata.yml",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/7558ff23fa9eabd5ae08e90b89abc125f4a557e4/recipes/b2/portable/conandata.yml",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes/b2/portable/conandata.yml?ref=7558ff23fa9eabd5ae08e90b89abc125f4a557e4",
+		  "patch": "@@ -17,3 +17,6 @@ sources:\n   \"4.6.0\":\n     url: \"https://github.com/bfgroup/b2/archive/4.6.0.tar.gz\"\n     sha256: \"3a308e0f79a039d8a9495b375f3292f5163000c19caa79c5687e4cb5b1938b49\"\n+  \"4.6.1\":\n+    url: \"https://github.com/bfgroup/b2/archive/4.6.1.tar.gz\"\n+    sha256: \"a3f3323eaeb2c27d7a3ca86842665c6c3bc3d93cc626ba362ae6d0c5a7bfbe2c\""
+		}
+	  ]`)
+
+	assert.Equal(t, false, onlyVersionBumpFilesChanged(oneFile))
 }

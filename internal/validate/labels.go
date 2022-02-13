@@ -13,7 +13,7 @@ func OnlyAcceptableLabels(labels []*pending_review.Label, stats *stats.Stats) bo
 	if len > 0 {
 		for _, label := range labels {
 			switch label.GetName() {
-			case "Bump version":
+			case "Bump version", "Bump dependencies":
 				isBump = true
 			case "Docs":
 				isDoc = true
