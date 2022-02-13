@@ -1194,17 +1194,18 @@
       "LastCommitAt": "2022-02-13T15:09:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-02-13T18:23:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9370#pullrequestreview-881028373"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-02-13T22:23:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9370#pullrequestreview-881052065"
          }
       }
    },
