@@ -993,18 +993,19 @@
       "LastCommitAt": "2022-02-12T13:53:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "toge",
-            "prince-chrismc"
+            "prince-chrismc",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-02-13T05:54:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9359#pullrequestreview-880939717"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-02-13T15:19:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9359#pullrequestreview-880994773"
          }
       }
    },
