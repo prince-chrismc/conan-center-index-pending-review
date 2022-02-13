@@ -11,7 +11,7 @@ import (
 // RepositoryService handles communication with the repository related methods of the GitHub API
 type RepositoryService service
 
-// RepositorySumarry provides a basic overview of a specific repository
+// Deprecated: RepositorySumarry provides a basic overview of a specific repository
 type RepositorySumarry struct {
 	Name            string
 	Owner           string
@@ -22,7 +22,7 @@ type RepositorySumarry struct {
 	OpenIssuesCount int
 }
 
-// GetSummary of a specific repository on GitHub
+// Deprecated: GetSummary of a specific repository on GitHub
 func (s *RepositoryService) GetSummary(ctx context.Context, owner string, repo string) (*RepositorySumarry, *Response, error) {
 	repos, resp, err := s.client.Repositories.Get(ctx, owner, repo)
 	if err != nil {

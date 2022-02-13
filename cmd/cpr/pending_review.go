@@ -13,34 +13,18 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/validate"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
-	"golang.org/x/oauth2"
 )
 
 // PendingReview analysis of open pull requests
 func PendingReview(token string, dryRun bool) error {
-	tokenService := oauth2.StaticTokenSource(
-		&oauth2.Token{AccessToken: token},
-	)
-
 	context := context.Background()
-	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
-
-	// Get Rate limit information
-	rateLimit, _, err := client.RateLimits(context)
+	client, err := internal.MakeClient(context, token)
 	if err != nil {
 		fmt.Printf("Problem getting rate limit information %v\n", err)
 		os.Exit(1)
 	}
 
-	// We have not exceeded the limit so we can continue
-	fmt.Printf("Limit: %d \nRemaining %d \n", rateLimit.Limit, rateLimit.Remaining)
-
-	repo, _, err := client.Repository.GetSummary(context, "conan-io", "conan-center-index")
-	if err != nil {
-		fmt.Printf("Problem in getting repository information %v\n", err)
-		os.Exit(1)
-	}
-	fmt.Printf("%+v\n-----\n", repo)
+	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
 	var stats stats.Stats
 	var retval []*pending_review.PullRequestSummary
@@ -68,6 +52,10 @@ func PendingReview(token string, dryRun bool) error {
 		}
 		opt.Page = resp.NextPage
 	}
+
+	fmt.Println("::endgroup")
+
+	fmt.Println("::group::🖊️ Rendering data and saving results!")
 
 	if !dryRun {
 		isDifferent, err := internal.UpdateJSONFile(context, client, "pending-review.json", retval)
@@ -152,6 +140,8 @@ func PendingReview(token string, dryRun bool) error {
 		fmt.Printf("Problem editing issue %v\n", err)
 		os.Exit(1)
 	}
+
+	fmt.Println("::endgroup")
 
 	return nil
 }

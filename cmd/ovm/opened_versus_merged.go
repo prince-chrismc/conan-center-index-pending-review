@@ -17,7 +17,6 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"github.com/wcharczuk/go-chart/v2"
-	"golang.org/x/oauth2"
 )
 
 const interval = duration.WEEK * 52
@@ -25,22 +24,12 @@ const delay = 75
 
 // OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
 func OpenVersusMerged(token string, dryRun bool) error {
-	tokenService := oauth2.StaticTokenSource(
-		&oauth2.Token{AccessToken: token},
-	)
-
 	context := context.Background()
-	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
-
-	// Get Rate limit information
-	rateLimit, _, err := client.RateLimits(context)
+	client, err := internal.MakeClient(context, token)
 	if err != nil {
 		fmt.Printf("Problem getting rate limit information %v\n", err)
 		os.Exit(1)
 	}
-
-	// We have not exceeded the limit so we can continue
-	fmt.Printf("Limit: %d \nRemaining: %d \n", rateLimit.Limit, rateLimit.Remaining)
 
 	opw := make(stats.CountAtTime)  // Opened Per Week
 	cxw := make(stats.CountAtTime)  // Closed (based on creation date) Per Week
