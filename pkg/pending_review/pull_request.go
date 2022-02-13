@@ -19,6 +19,8 @@ const (
 	EDIT  Category = iota
 	BUMP  Category = iota
 	DOCS  Category = iota
+	// GitHub Configuration files
+	GHC Category = iota
 )
 
 // PullRequestSummary regarding its location in the review process of conan-center-index.
@@ -113,6 +115,10 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		return nil, resp, err
 	} else {
 		p.CciBotPassed = status.GetState() == "success"
+	}
+
+	if p.Change == GHC && p.CciBotPassed { // Always save `.github` pull requests that are passing
+		return p, resp, nil
 	}
 
 	if len(p.Summary.Approvals) > 0 { // It's been approved!
@@ -211,7 +217,6 @@ func onlyDepsBumpFilesChanged(files []*github.CommitFile) bool {
 			return strings.HasPrefix(word, "-") && strings.Contains(word, "requires")
 		})
 
-		println(len(additions), " ", file.GetAdditions(), " ", len(deletions), " ", file.GetDeletions())
 		if len(additions) != file.GetAdditions() || len(deletions) != file.GetDeletions() {
 			return false
 		}
@@ -224,6 +229,7 @@ func onlyDepsBumpFilesChanged(files []*github.CommitFile) bool {
 // Expected format is
 // - "recipes" , "<name>", "..."
 // - "docs", "<filename>.md"
+// - ".github", "<filename>", "..."
 func getDiff(file *CommitFile) (*change, error) {
 	segments := strings.SplitN(file.GetFilename(), "/", 3)
 	if len(segments) < 2 { // Expected format is "recipes" , "<name>", "..."
@@ -236,10 +242,16 @@ func getDiff(file *CommitFile) (*change, error) {
 	if file.GetStatus() != "added" {
 		status = EDIT
 	}
-	if folder == "docs" {
+
+	switch folder {
+	case "docs":
 		status = DOCS
 		title = "docs"
-	} else if folder != "recipes" {
+	case ".github":
+		status = GHC
+		title = ".github"
+	case "recipes":
+	default:
 		return nil, fmt.Errorf("%w", ErrInvalidChange)
 	}
 

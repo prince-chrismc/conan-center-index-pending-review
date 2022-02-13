@@ -9,6 +9,7 @@ import (
 func OnlyAcceptableLabels(labels []*pending_review.Label, stats *stats.Stats) bool {
 	isBump := false
 	isDoc := false
+	isConfig := false
 	len := len(labels)
 	if len > 0 {
 		for _, label := range labels {
@@ -17,6 +18,8 @@ func OnlyAcceptableLabels(labels []*pending_review.Label, stats *stats.Stats) bo
 				isBump = true
 			case "Docs":
 				isDoc = true
+			case "GitHub config":
+				isConfig = true
 			case "stale":
 				stats.Stale++
 			case "Failed": // , "Unexpected Error" Are alway tagged failed
@@ -26,7 +29,7 @@ func OnlyAcceptableLabels(labels []*pending_review.Label, stats *stats.Stats) bo
 			}
 		}
 
-		if !isBump && !isDoc {
+		if !isBump && !isDoc && !isConfig {
 			return false // We know if there are certain labels then there's probably something wrong!
 		}
 	}

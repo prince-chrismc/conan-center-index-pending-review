@@ -89,7 +89,7 @@ func PendingReview(token string, dryRun bool) error {
 
 - There has been at least one approval on the head commit
 - The last commit occured after any reviews
-- No labels with exception to "bump version", "bump dependencies" and "docs"
+- No labels with exception to "bump version", "bump dependencies", "docs", and "GitHub config"
 
 #### Legend
 
@@ -97,6 +97,7 @@ func PendingReview(token string, dryRun bool) error {
 :arrow_up: - Version or dependencies bump <sup>[1]</sup>
 :memo: - Modification to an existing recipe
 :green_book: - Documentation change <sup>[1]</sup>
+:gear: - GitHub configuration/workflow changes <sup>[1]</sup>
 :warning: - The merge commit status does **not** indicate success <sup>[2]</sup>
 :bell: - The last review was more than 12 days ago
 :eyes: - It's been more than 3 days since the last commit and there are no reviews
