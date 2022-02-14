@@ -423,17 +423,18 @@
       "LastCommitAt": "2022-02-03T21:14:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-02-04T16:52:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9239#pullrequestreview-873337524"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-02-14T12:30:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9239#pullrequestreview-881561606"
          }
       }
    },
@@ -457,33 +458,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-02-09T11:05:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9243#pullrequestreview-877156227"
-         }
-      }
-   },
-   {
-      "Number": 9248,
-      "OpenedBy": "jeremy-coulon",
-      "CreatedAt": "2022-02-03T11:38:17Z",
-      "Recipe": "aws-sdk-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9248",
-      "LastCommitSHA": "065417f12a3c982e2baa5d4493b03607b4a99660",
-      "LastCommitAt": "2022-02-04T09:12:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "uilianries",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-02-14T12:10:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9248#pullrequestreview-881540564"
          }
       }
    },
