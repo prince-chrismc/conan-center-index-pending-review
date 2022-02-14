@@ -1209,32 +1209,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9377#pullrequestreview-881147202"
          }
       }
-   },
-   {
-      "Number": 9378,
-      "OpenedBy": "bernedom",
-      "CreatedAt": "2022-02-14T07:42:05Z",
-      "Recipe": "si",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9378",
-      "LastCommitSHA": "29374adea34674cc526aa0873af4fb5744984c69",
-      "LastCommitAt": "2022-02-14T07:40:49Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "jgsogo",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-02-14T09:09:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9378#pullrequestreview-881336041"
-         }
-      }
    }
 ]
