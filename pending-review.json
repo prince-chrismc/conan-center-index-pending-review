@@ -963,51 +963,6 @@
       }
    },
    {
-      "Number": 9385,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-02-14T17:30:15Z",
-      "Recipe": "ctpg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9385",
-      "LastCommitSHA": "a1ed89dfe2cfedf0b0276265110009bc5ca565b1",
-      "LastCommitAt": "2022-02-14T17:27:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9390,
-      "OpenedBy": "github-actions[bot]",
-      "CreatedAt": "2022-02-15T04:27:32Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9390",
-      "LastCommitSHA": "6a4d91aa5094d756ce0141b19cabb7fc6c37624e",
-      "LastCommitAt": "2022-02-15T04:27:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-02-15T14:56:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9390#pullrequestreview-883111735"
-         }
-      }
-   },
-   {
       "Number": 9392,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-02-15T14:55:07Z",
@@ -1016,13 +971,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9392",
       "LastCommitSHA": "f4d7abc4ba9069a21a4588d3dbc39a4a92385827",
       "LastCommitAt": "2022-02-15T14:54:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-02-15T16:21:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9392#pullrequestreview-883260453"
+         }
       }
    }
 ]
