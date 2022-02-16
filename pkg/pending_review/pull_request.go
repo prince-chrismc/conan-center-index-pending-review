@@ -184,21 +184,25 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 }
 
 func onlyVersionBumpFilesChanged(files []*github.CommitFile) bool {
-	if len(files) != 2 {
-		return false
-	}
-
 	hasConandata := false
 	hasConfig := false
 
 	for _, file := range files {
-		if strings.HasSuffix(file.GetFilename(), "conandata.yml") {
+		filename := file.GetFilename()
+		if strings.HasSuffix(filename, "conandata.yml") {
 			hasConandata = true
 		}
 
-		if strings.HasSuffix(file.GetFilename(), "config.yml") {
+		if strings.HasSuffix(filename, "config.yml") {
 			hasConfig = true
 		}
+
+		// TODO(prince-chrismc): This is not good enough since it starts with `recipes/pkg/ver`
+		if strings.HasPrefix(filename, "patches") {
+			continue
+		}
+
+		return false
 	}
 
 	return hasConandata && hasConfig
