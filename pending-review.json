@@ -1240,11 +1240,18 @@
       "LastCommitAt": "2022-02-16T17:43:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-02-16T21:48:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9402#pullrequestreview-885183112"
+         }
       }
    },
    {
@@ -1274,7 +1281,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9404",
       "LastCommitSHA": "9ce62a4dc1f7f890773bca4a1144489784c3e03b",
       "LastCommitAt": "2022-02-16T18:10:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
