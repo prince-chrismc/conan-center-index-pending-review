@@ -1081,15 +1081,17 @@
       "LastCommitAt": "2022-02-16T02:50:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericLemanissier"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-02-15T22:17:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9394#pullrequestreview-883716302"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-02-16T16:46:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9394#pullrequestreview-884833037"
          }
       }
    },
