@@ -116,3 +116,65 @@ func TestFormatMarkdownRowsDocs(t *testing.T) {
 	assert.Equal(t, mergeCount, 1)
 	assert.Equal(t, "[#7648](https://github.com/conan-io/conan-center-index/pull/7648)|[jgsogo](https://github.com/jgsogo)|Oct 11|:green_book: docs|3|SSE4, uilianries, prince-chrismc\n", mergeRow)
 }
+
+func TestFormatMarkdownRowsCiPending(t *testing.T) {
+	var rs []*pending_review.PullRequestSummary
+	if err := json.Unmarshal([]byte(`[
+		{
+			"Number": 8557,
+			"OpenedBy": "daravi",
+			"CreatedAt": "2021-12-28T02:27:59Z",
+			"Recipe": "libkmod",
+			"Change": 0,
+			"ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8557",
+			"LastCommitSHA": "88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+			"LastCommitAt": "2021-12-28T02:26:17Z",
+			"CciBotPassed": false,
+			"Summary": {
+				"Count": 0,
+				"ValidApprovals": 0,
+				"TeamApproval": false,
+				"Approvals": [],
+				"Blockers": [],
+				"LastReview": null
+			}
+		}
+	]`), &rs); err != nil {
+		t.Fatal("Broken test - invalid JSON content:", err)
+	}
+
+	mergeRow, mergeCount := ReviewsToMarkdownRows(rs, false)
+	assert.Equal(t, mergeCount, 1)
+	assert.Equal(t, "[#8557](https://github.com/conan-io/conan-center-index/pull/8557)|[daravi](https://github.com/daravi)|Dec 28|:stopwatch: libkmod|0|:eyes:||\n", mergeRow)
+}
+
+func TestFormatMarkdownRowsCiSuccess(t *testing.T) {
+	var rs []*pending_review.PullRequestSummary
+	if err := json.Unmarshal([]byte(`[
+		{
+			"Number": 8557,
+			"OpenedBy": "daravi",
+			"CreatedAt": "2021-12-28T02:27:59Z",
+			"Recipe": "libkmod",
+			"Change": 0,
+			"ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8557",
+			"LastCommitSHA": "88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+			"LastCommitAt": "2021-12-28T02:26:17Z",
+			"CciBotPassed": true,
+			"Summary": {
+				"Count": 0,
+				"ValidApprovals": 0,
+				"TeamApproval": false,
+				"Approvals": [],
+				"Blockers": [],
+				"LastReview": null
+			}
+		}
+	]`), &rs); err != nil {
+		t.Fatal("Broken test - invalid JSON content:", err)
+	}
+
+	mergeRow, mergeCount := ReviewsToMarkdownRows(rs, false)
+	assert.Equal(t, mergeCount, 1)
+	assert.Equal(t, "[#8557](https://github.com/conan-io/conan-center-index/pull/8557)|[daravi](https://github.com/daravi)|Dec 28|:new: libkmod|0|:eyes:||\n", mergeRow)
+}

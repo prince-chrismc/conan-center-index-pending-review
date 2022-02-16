@@ -149,7 +149,185 @@ func TestGetRepositorySummary(t *testing.T) {
 	assert.Equal(t, true, gock.IsDone())
 }
 
-func TestGetStatus(t *testing.T) {
+func TestGetStatusSuccess(t *testing.T) {
+	defer gock.Off()
+
+	gock.New("https://api.github.com").
+		Get("/commits/08f356aabf77ff55d96ae43de3e3bfdfb67f6018/status").
+		Reply(200).
+		BodyString(`{
+			"state": "success",
+			"statuses": [
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+				"avatar_url": "https://avatars.githubusercontent.com/oa/160438?v=4",
+				"id": 15739127358,
+				"node_id": "SC_kwDODDMJAM8AAAADqiAGPg",
+				"state": "success",
+				"description": "Contributor License Agreement is signed.",
+				"target_url": "https://cla-assistant.io/conan-io/conan-center-index?pullRequest=8557",
+				"context": "license/cla",
+				"created_at": "2022-01-03T07:58:20Z",
+				"updated_at": "2022-01-03T07:58:20Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 15739154257,
+				"node_id": "SC_kwDODDMJAM8AAAADqiBvUQ",
+				"state": "success",
+				"description": "All green! (1)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/8557/3-linux-gcc/libkmod/system//summary.json",
+				"context": "[required] libkmod/system@ Linux, GCC",
+				"created_at": "2022-01-03T08:03:28Z",
+				"updated_at": "2022-01-03T08:03:28Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 15739163568,
+				"node_id": "SC_kwDODDMJAM8AAAADqiCTsA",
+				"state": "success",
+				"description": "All green! (1)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/8557/3-linux-clang/libkmod/system//summary.json",
+				"context": "[required] libkmod/system@ Linux, Clang",
+				"created_at": "2022-01-03T08:05:18Z",
+				"updated_at": "2022-01-03T08:05:18Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 15739168865,
+				"node_id": "SC_kwDODDMJAM8AAAADqiCoYQ",
+				"state": "success",
+				"description": "All green! (0)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/8557/3-configs/macos-clang/libkmod/system//summary.json",
+				"context": "[required] libkmod/system@ macOS, Clang",
+				"created_at": "2022-01-03T08:06:16Z",
+				"updated_at": "2022-01-03T08:06:16Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 15739174241,
+				"node_id": "SC_kwDODDMJAM8AAAADqiC9YQ",
+				"state": "success",
+				"description": "All green! (0)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/8557/3-configs/macos-m1-clang/libkmod/system//summary.json",
+				"context": "[required] libkmod/system@ macOS, Clang (M1/arm64)",
+				"created_at": "2022-01-03T08:07:15Z",
+				"updated_at": "2022-01-03T08:07:15Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 15739179383,
+				"node_id": "SC_kwDODDMJAM8AAAADqiDRdw",
+				"state": "success",
+				"description": "All green! (0)",
+				"target_url": "https://c3i.jfrog.io/c3i/misc/summary.html?json=https://c3i.jfrog.io/c3i/misc/logs/pr/8557/3-configs/windows-visual_studio/libkmod/system//summary.json",
+				"context": "[required] libkmod/system@ Windows, Visual Studio",
+				"created_at": "2022-01-03T08:08:14Z",
+				"updated_at": "2022-01-03T08:08:14Z"
+			  },
+			  {
+				"url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+				"avatar_url": "https://avatars.githubusercontent.com/u/54393557?v=4",
+				"id": 15739179848,
+				"node_id": "SC_kwDODDMJAM8AAAADqiDTSA",
+				"state": "success",
+				"description": "This commit looks good",
+				"target_url": "https://ci-conan-prod.jfrog.team/job/cci/job/PR-8557/3/display/redirect",
+				"context": "continuous-integration/jenkins/pr-merge",
+				"created_at": "2022-01-03T08:08:19Z",
+				"updated_at": "2022-01-03T08:08:19Z"
+			  }
+			],
+			"sha": "88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+			"total_count": 7,
+			"repository": {
+			  "id": 204671232,
+			  "node_id": "MDEwOlJlcG9zaXRvcnkyMDQ2NzEyMzI=",
+			  "name": "conan-center-index",
+			  "full_name": "conan-io/conan-center-index",
+			  "private": false,
+			  "owner": {
+				"login": "conan-io",
+				"id": 15212165,
+				"node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MjEyMTY1",
+				"avatar_url": "https://avatars.githubusercontent.com/u/15212165?v=4",
+				"gravatar_id": "",
+				"url": "https://api.github.com/users/conan-io",
+				"html_url": "https://github.com/conan-io",
+				"followers_url": "https://api.github.com/users/conan-io/followers",
+				"following_url": "https://api.github.com/users/conan-io/following{/other_user}",
+				"gists_url": "https://api.github.com/users/conan-io/gists{/gist_id}",
+				"starred_url": "https://api.github.com/users/conan-io/starred{/owner}{/repo}",
+				"subscriptions_url": "https://api.github.com/users/conan-io/subscriptions",
+				"organizations_url": "https://api.github.com/users/conan-io/orgs",
+				"repos_url": "https://api.github.com/users/conan-io/repos",
+				"events_url": "https://api.github.com/users/conan-io/events{/privacy}",
+				"received_events_url": "https://api.github.com/users/conan-io/received_events",
+				"type": "Organization",
+				"site_admin": false
+			  },
+			  "html_url": "https://github.com/conan-io/conan-center-index",
+			  "description": "Recipes for the ConanCenter repository",
+			  "fork": false,
+			  "url": "https://api.github.com/repos/conan-io/conan-center-index",
+			  "forks_url": "https://api.github.com/repos/conan-io/conan-center-index/forks",
+			  "keys_url": "https://api.github.com/repos/conan-io/conan-center-index/keys{/key_id}",
+			  "collaborators_url": "https://api.github.com/repos/conan-io/conan-center-index/collaborators{/collaborator}",
+			  "teams_url": "https://api.github.com/repos/conan-io/conan-center-index/teams",
+			  "hooks_url": "https://api.github.com/repos/conan-io/conan-center-index/hooks",
+			  "issue_events_url": "https://api.github.com/repos/conan-io/conan-center-index/issues/events{/number}",
+			  "events_url": "https://api.github.com/repos/conan-io/conan-center-index/events",
+			  "assignees_url": "https://api.github.com/repos/conan-io/conan-center-index/assignees{/user}",
+			  "branches_url": "https://api.github.com/repos/conan-io/conan-center-index/branches{/branch}",
+			  "tags_url": "https://api.github.com/repos/conan-io/conan-center-index/tags",
+			  "blobs_url": "https://api.github.com/repos/conan-io/conan-center-index/git/blobs{/sha}",
+			  "git_tags_url": "https://api.github.com/repos/conan-io/conan-center-index/git/tags{/sha}",
+			  "git_refs_url": "https://api.github.com/repos/conan-io/conan-center-index/git/refs{/sha}",
+			  "trees_url": "https://api.github.com/repos/conan-io/conan-center-index/git/trees{/sha}",
+			  "statuses_url": "https://api.github.com/repos/conan-io/conan-center-index/statuses/{sha}",
+			  "languages_url": "https://api.github.com/repos/conan-io/conan-center-index/languages",
+			  "stargazers_url": "https://api.github.com/repos/conan-io/conan-center-index/stargazers",
+			  "contributors_url": "https://api.github.com/repos/conan-io/conan-center-index/contributors",
+			  "subscribers_url": "https://api.github.com/repos/conan-io/conan-center-index/subscribers",
+			  "subscription_url": "https://api.github.com/repos/conan-io/conan-center-index/subscription",
+			  "commits_url": "https://api.github.com/repos/conan-io/conan-center-index/commits{/sha}",
+			  "git_commits_url": "https://api.github.com/repos/conan-io/conan-center-index/git/commits{/sha}",
+			  "comments_url": "https://api.github.com/repos/conan-io/conan-center-index/comments{/number}",
+			  "issue_comment_url": "https://api.github.com/repos/conan-io/conan-center-index/issues/comments{/number}",
+			  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/{+path}",
+			  "compare_url": "https://api.github.com/repos/conan-io/conan-center-index/compare/{base}...{head}",
+			  "merges_url": "https://api.github.com/repos/conan-io/conan-center-index/merges",
+			  "archive_url": "https://api.github.com/repos/conan-io/conan-center-index/{archive_format}{/ref}",
+			  "downloads_url": "https://api.github.com/repos/conan-io/conan-center-index/downloads",
+			  "issues_url": "https://api.github.com/repos/conan-io/conan-center-index/issues{/number}",
+			  "pulls_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls{/number}",
+			  "milestones_url": "https://api.github.com/repos/conan-io/conan-center-index/milestones{/number}",
+			  "notifications_url": "https://api.github.com/repos/conan-io/conan-center-index/notifications{?since,all,participating}",
+			  "labels_url": "https://api.github.com/repos/conan-io/conan-center-index/labels{/name}",
+			  "releases_url": "https://api.github.com/repos/conan-io/conan-center-index/releases{/id}",
+			  "deployments_url": "https://api.github.com/repos/conan-io/conan-center-index/deployments"
+			},
+			"commit_url": "https://api.github.com/repos/conan-io/conan-center-index/commits/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca",
+			"url": "https://api.github.com/repos/conan-io/conan-center-index/commits/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca/status"
+		  }`)
+
+	status, res, err := NewClient(&http.Client{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "08f356aabf77ff55d96ae43de3e3bfdfb67f6018")
+
+	assert.Equal(t, nil, err)
+	assert.Equal(t, 200, res.StatusCode)
+
+	assert.Equal(t, "success", status.GetState())
+	assert.Equal(t, 7, status.GetTotalCount())
+
+	assert.Equal(t, true, gock.IsDone())
+}
+
+func TestGetStatusPending(t *testing.T) {
 	defer gock.Off()
 
 	gock.New("https://api.github.com").
@@ -387,7 +565,7 @@ func TestGetStatus(t *testing.T) {
 	assert.Equal(t, true, gock.IsDone())
 }
 
-func TestGetStatusTwo(t *testing.T) {
+func TestGetStatusPendingTwo(t *testing.T) {
 	defer gock.Off()
 
 	gock.New("https://api.github.com").

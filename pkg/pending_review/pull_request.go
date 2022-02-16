@@ -100,14 +100,6 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		return nil, resp, err
 	}
 
-	if p.Summary.Count < 1 { // Has not been looked at...
-		return p, resp, nil // let's save it! So it can get some attention
-	}
-
-	if p.Change == DOCS { // Always save documentation pull requests
-		return p, resp, nil
-	}
-
 	status, _, err := s.client.Repository.GetStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
 	if errors.Is(err, ErrNoCommitStatus) {
 		p.CciBotPassed = false
@@ -117,8 +109,16 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		p.CciBotPassed = status.GetState() == "success"
 	}
 
+	if p.Change == DOCS { // Always save documentation pull requests
+		return p, resp, nil
+	}
+
 	if p.Change == GHC && p.CciBotPassed { // Always save `.github` pull requests that are passing
 		return p, resp, nil
+	}
+
+	if p.Summary.Count < 1 { // Has not been looked at...
+		return p, resp, nil // let's save it! So it can get some attention
 	}
 
 	if len(p.Summary.Approvals) > 0 { // It's been approved!
