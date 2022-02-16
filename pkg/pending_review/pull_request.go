@@ -93,6 +93,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		return nil, resp, err
 	}
 
+	reviews = FilterAuthor(reviews, p.OpenedBy)
 	p.Summary = ProcessReviewComments(reviews, p.LastCommitSHA)
 
 	p.LastCommitAt, _, err = s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)

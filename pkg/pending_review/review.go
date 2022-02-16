@@ -136,3 +136,14 @@ func removeUnique(slice []string, elem string) ([]string, bool) {
 
 	return slice, false
 }
+
+// FilterAuthor removes any reviews by a given user's login
+func FilterAuthor(reviews []*PullRequestReview, author string) []*PullRequestReview {
+	filtered := make([]*PullRequestReview, 0, len(reviews))
+	for _, r := range reviews {
+		if r.GetUser().GetLogin() != author {
+			filtered = append(filtered, r)
+		}
+	}
+	return filtered
+}
