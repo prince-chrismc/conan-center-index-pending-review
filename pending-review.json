@@ -190,11 +190,18 @@
       "LastCommitAt": "2022-02-16T18:02:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "Jihadist"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Jihadist",
+            "SubmittedAt": "2022-02-17T10:17:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8941#pullrequestreview-885733390"
+         }
       }
    },
    {
@@ -1194,31 +1201,6 @@
       }
    },
    {
-      "Number": 9398,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-02-16T10:49:32Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9398",
-      "LastCommitSHA": "c5cc11f4d850b12aac4327abc595f9c4853c7667",
-      "LastCommitAt": "2022-02-16T10:50:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-02-17T04:10:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9398#pullrequestreview-885421686"
-         }
-      }
-   },
-   {
       "Number": 9401,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-16T17:33:57Z",
@@ -1331,6 +1313,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9412",
       "LastCommitSHA": "bda8b2e4362387c4b930cfa221ed5bc113e4b8bf",
       "LastCommitAt": "2022-02-16T22:37:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9413,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-02-17T10:25:15Z",
+      "Recipe": "diligent-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9413",
+      "LastCommitSHA": "d1df9e400ea6e886feb8cb02de5103993dea9d54",
+      "LastCommitAt": "2022-02-17T10:22:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
