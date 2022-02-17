@@ -231,7 +231,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9034",
       "LastCommitSHA": "4d2291e7773f92ef67406c13ac5f90b7bc31be95",
       "LastCommitAt": "2022-02-16T17:35:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 13,
          "ValidApprovals": 0,
@@ -1227,6 +1227,31 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 9401,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-16T17:33:57Z",
+      "Recipe": "vulkan-loader",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9401",
+      "LastCommitSHA": "24cec33dc6a924bbbbc2660f34dd851c1d367684",
+      "LastCommitAt": "2022-02-16T18:30:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-02-16T21:50:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9401#pullrequestreview-885184521"
+         }
       }
    },
    {
