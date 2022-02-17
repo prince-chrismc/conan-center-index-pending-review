@@ -732,8 +732,8 @@
       "Recipe": "fusepp",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9310",
-      "LastCommitSHA": "7ab9cffa8ec2ccf7fc25cbee08535cb6680f1c3a",
-      "LastCommitAt": "2022-02-15T17:16:59Z",
+      "LastCommitSHA": "1ea2ec4a1c4b4579826bc83fa308a5e5ab655a91",
+      "LastCommitAt": "2022-02-17T19:34:55Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
