@@ -1422,5 +1422,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 9414,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2022-02-17T11:58:06Z",
+      "Recipe": "fmt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9414",
+      "LastCommitSHA": "59d91c529344c574aeeebe733a031120f7520d32",
+      "LastCommitAt": "2022-02-17T11:57:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
