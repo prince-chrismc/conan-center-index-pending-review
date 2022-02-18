@@ -963,17 +963,14 @@
       "Recipe": "opene57",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9345",
-      "LastCommitSHA": "8d088eac0a8f456ee9b697bfa19f42218641ced1",
-      "LastCommitAt": "2022-02-16T12:02:28Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "5e1b62beee89ad46e928a0fad3327d605f4bc90a",
+      "LastCommitAt": "2022-02-18T12:54:26Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
