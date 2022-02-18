@@ -948,17 +948,18 @@
       "LastCommitAt": "2022-02-16T12:02:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 7,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-02-17T09:15:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9345#pullrequestreview-885646534"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-02-18T09:14:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9345#pullrequestreview-887009561"
          }
       }
    },
@@ -1389,9 +1390,9 @@
       "Recipe": "diligent-core",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9413",
-      "LastCommitSHA": "d1df9e400ea6e886feb8cb02de5103993dea9d54",
-      "LastCommitAt": "2022-02-17T10:22:18Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "9a5fdd5e633569e3d53c5b89a6c84ac5549a2dc9",
+      "LastCommitAt": "2022-02-18T08:32:46Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1429,11 +1430,18 @@
       "LastCommitAt": "2022-02-18T04:55:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-02-18T08:30:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9415#pullrequestreview-886963689"
+         }
       }
    }
 ]
