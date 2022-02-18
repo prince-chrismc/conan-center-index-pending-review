@@ -1177,6 +1177,31 @@
       }
    },
    {
+      "Number": 9382,
+      "OpenedBy": "Pollux42",
+      "CreatedAt": "2022-02-14T15:39:58Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9382",
+      "LastCommitSHA": "4d4efedc01f0125f8d1b013ee66a93ab6d5fc1d8",
+      "LastCommitAt": "2022-02-14T15:31:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-02-15T09:41:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9382#pullrequestreview-882713590"
+         }
+      }
+   },
+   {
       "Number": 9385,
       "OpenedBy": "toge",
       "CreatedAt": "2022-02-14T17:30:15Z",
@@ -1200,6 +1225,24 @@
             "SubmittedAt": "2022-02-16T10:40:50Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9385#pullrequestreview-884329746"
          }
+      }
+   },
+   {
+      "Number": 9393,
+      "OpenedBy": "gracicot",
+      "CreatedAt": "2022-02-15T15:26:47Z",
+      "Recipe": "kangaru",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9393",
+      "LastCommitSHA": "3478cb8905574604415c10fa477a86659b6a2b8b",
+      "LastCommitAt": "2022-02-15T15:13:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
