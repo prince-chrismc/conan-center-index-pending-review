@@ -1440,5 +1440,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 9415,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-02-17T15:27:28Z",
+      "Recipe": "wasmedge",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9415",
+      "LastCommitSHA": "67ff768fc7eb488dc928bde85b8f77cc7643cfd4",
+      "LastCommitAt": "2022-02-18T04:55:55Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
