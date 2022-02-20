@@ -1554,32 +1554,6 @@
       }
    },
    {
-      "Number": 9427,
-      "OpenedBy": "datalogics-robb",
-      "CreatedAt": "2022-02-18T23:36:44Z",
-      "Recipe": "expat",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9427",
-      "LastCommitSHA": "50ad17b1588012bc56b252c430d81bfe8baaa980",
-      "LastCommitAt": "2022-02-18T23:34:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "SpaceIm",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-02-19T03:30:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9427#pullrequestreview-887883481"
-         }
-      }
-   },
-   {
       "Number": 9429,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-19T11:14:52Z",
@@ -1748,17 +1722,18 @@
       "LastCommitAt": "2022-02-19T21:48:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "intelligide"
+            "intelligide",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-02-20T03:05:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9437#pullrequestreview-887984956"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-02-20T03:24:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9437#pullrequestreview-887985883"
          }
       }
    }
