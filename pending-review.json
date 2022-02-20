@@ -403,17 +403,18 @@
       "LastCommitAt": "2022-01-29T23:11:19Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-02-14T11:32:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9155#pullrequestreview-881502585"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-02-20T14:54:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9155#pullrequestreview-888046800"
          }
       }
    },
@@ -1626,11 +1627,18 @@
       "LastCommitAt": "2022-02-19T13:48:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-02-20T14:47:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9432#pullrequestreview-888045842"
+         }
       }
    },
    {
@@ -1768,6 +1776,24 @@
             "SubmittedAt": "2022-02-20T12:28:38Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9439#pullrequestreview-888029108"
          }
+      }
+   },
+   {
+      "Number": 9440,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-20T10:55:56Z",
+      "Recipe": "libxml2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9440",
+      "LastCommitSHA": "b3b51799def44a45d6a27f5e00077c1be16885db",
+      "LastCommitAt": "2022-02-20T12:52:03Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
