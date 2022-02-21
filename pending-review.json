@@ -179,17 +179,18 @@
       "LastCommitAt": "2022-02-16T14:18:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-02-21T09:36:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8786#pullrequestreview-888418668"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-02-21T12:17:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8786#pullrequestreview-888604837"
          }
       }
    },
