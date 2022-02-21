@@ -1371,32 +1371,6 @@
       }
    },
    {
-      "Number": 9409,
-      "OpenedBy": "elazarl",
-      "CreatedAt": "2022-02-17T08:01:33Z",
-      "Recipe": "ftxui",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9409",
-      "LastCommitSHA": "5acc45695b39a66e76cd63f51e1f3b5482ce8086",
-      "LastCommitAt": "2022-02-20T17:52:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 27,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "SpaceIm",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-02-20T23:07:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9409#pullrequestreview-888099098"
-         }
-      }
-   },
-   {
       "Number": 9412,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-17T09:42:26Z",
@@ -1754,32 +1728,6 @@
       }
    },
    {
-      "Number": 9439,
-      "OpenedBy": "jputcu",
-      "CreatedAt": "2022-02-20T08:53:24Z",
-      "Recipe": "etl",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9439",
-      "LastCommitSHA": "3dffa4a61f5bf5447140643173bbda8cab262b49",
-      "LastCommitAt": "2022-02-20T06:49:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "toge",
-            "intelligide"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-02-21T02:02:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9439#pullrequestreview-888136620"
-         }
-      }
-   },
-   {
       "Number": 9440,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-20T10:55:56Z",
@@ -1808,18 +1756,19 @@
       "LastCommitAt": "2022-02-20T12:48:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "intelligide"
+            "intelligide",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-02-21T02:01:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9442#pullrequestreview-888136584"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-02-21T05:04:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9442#pullrequestreview-888202712"
          }
       }
    },
