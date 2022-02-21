@@ -1017,15 +1017,17 @@
       "LastCommitAt": "2022-02-19T21:59:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 12,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 13,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-02-19T10:57:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9345#pullrequestreview-887914419"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-02-21T12:26:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9345#pullrequestreview-888613977"
          }
       }
    },
@@ -1917,6 +1919,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9448",
       "LastCommitSHA": "2086378c40c26b66535eca3ab2263206b584159a",
       "LastCommitAt": "2022-02-21T08:35:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9451,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-02-21T12:43:11Z",
+      "Recipe": "diligent-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9451",
+      "LastCommitSHA": "c86b94df4b0e28fe5d09a92e0a36bff35a0a67bc",
+      "LastCommitAt": "2022-02-21T12:42:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
