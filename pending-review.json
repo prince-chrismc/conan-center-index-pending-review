@@ -2025,17 +2025,18 @@
       "LastCommitAt": "2022-02-22T06:49:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "toge"
+            "toge",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-02-22T12:49:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9470#pullrequestreview-889746675"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-02-22T16:34:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9470#pullrequestreview-890059362"
          }
       }
    },
@@ -2091,6 +2092,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9477",
       "LastCommitSHA": "67d00f12b8e2fcf2e9d8536ee748eb99af03aa56",
       "LastCommitAt": "2022-02-22T13:00:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9479,
+      "OpenedBy": "sourcedelica",
+      "CreatedAt": "2022-02-22T17:04:25Z",
+      "Recipe": "folly",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9479",
+      "LastCommitSHA": "f373c68733aed1d6c862eb072c341034f613fcfd",
+      "LastCommitAt": "2022-02-22T15:53:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
