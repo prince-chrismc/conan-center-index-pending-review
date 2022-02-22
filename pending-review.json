@@ -301,31 +301,6 @@
       }
    },
    {
-      "Number": 8901,
-      "OpenedBy": "friendlyanon",
-      "CreatedAt": "2022-01-13T20:34:51Z",
-      "Recipe": "c-client",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8901",
-      "LastCommitSHA": "db24d2979ecf236d853503ffa9408f735197575a",
-      "LastCommitAt": "2022-02-21T19:07:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 16,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "uilianries"
-         ],
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-02-21T16:40:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8901#pullrequestreview-888916656"
-         }
-      }
-   },
-   {
       "Number": 8941,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2022-01-16T22:03:20Z",
@@ -938,7 +913,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9325",
       "LastCommitSHA": "da7971da4200f95ab5039205e37cbe261f578ad3",
       "LastCommitAt": "2022-02-21T07:19:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -2135,6 +2110,24 @@
       "LastCommitSHA": "ee7a9dccd2925f8b4613147ce0878e86fb91970c",
       "LastCommitAt": "2022-02-22T00:01:30Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9470,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-02-22T08:43:48Z",
+      "Recipe": "xkbcommon",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9470",
+      "LastCommitSHA": "629f2396a944cd738478fabd3bde81ed20e63713",
+      "LastCommitAt": "2022-02-22T06:49:01Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
