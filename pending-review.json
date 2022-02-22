@@ -1965,24 +1965,6 @@
       }
    },
    {
-      "Number": 9456,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2022-02-21T15:11:35Z",
-      "Recipe": "openimageio",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9456",
-      "LastCommitSHA": "20952f6d98446706263a5ba521336b59078fbd8b",
-      "LastCommitAt": "2022-02-21T15:10:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 9457,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-21T16:25:33Z",
@@ -2065,18 +2047,19 @@
       "LastCommitAt": "2022-02-21T19:47:27Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "intelligide"
+            "intelligide",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-02-21T22:21:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9463#pullrequestreview-889136720"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-02-22T05:48:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9463#pullrequestreview-889313954"
          }
       }
    },
