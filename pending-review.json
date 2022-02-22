@@ -207,17 +207,18 @@
       "LastCommitAt": "2022-02-18T18:24:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 37,
-         "ValidApprovals": 1,
+         "Count": 38,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-02-21T06:52:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8802#pullrequestreview-888257520"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-02-22T13:07:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8802#pullrequestreview-889768454"
          }
       }
    },
@@ -2071,11 +2072,18 @@
       "LastCommitAt": "2022-02-22T06:49:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-02-22T12:49:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9470#pullrequestreview-889746675"
+         }
       }
    },
    {
@@ -2088,6 +2096,24 @@
       "LastCommitSHA": "ac404e312750eafd3b43441bc5f41f5ab91048cc",
       "LastCommitAt": "2022-02-22T11:52:49Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9476,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-22T12:57:15Z",
+      "Recipe": "icu",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9476",
+      "LastCommitSHA": "eea27a1714b7d3a37b3107e867a3f1a57c088046",
+      "LastCommitAt": "2022-02-22T12:56:51Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
