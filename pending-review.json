@@ -2086,18 +2086,19 @@
       "LastCommitAt": "2022-02-22T06:49:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             "toge",
-            "intelligide"
+            "intelligide",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-02-22T16:34:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9470#pullrequestreview-890059362"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-02-22T18:28:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9470#pullrequestreview-890202132"
          }
       }
    },
@@ -2163,28 +2164,21 @@
       }
    },
    {
-      "Number": 9479,
-      "OpenedBy": "sourcedelica",
-      "CreatedAt": "2022-02-22T17:04:25Z",
-      "Recipe": "folly",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9479",
-      "LastCommitSHA": "f373c68733aed1d6c862eb072c341034f613fcfd",
-      "LastCommitAt": "2022-02-22T15:53:59Z",
-      "CciBotPassed": false,
+      "Number": 9478,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-22T15:23:27Z",
+      "Recipe": "cctag",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9478",
+      "LastCommitSHA": "7fcd32b83b7a81987da0ed3021357e4f1c007ce7",
+      "LastCommitAt": "2022-02-22T17:19:59Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-02-22T18:14:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9479#pullrequestreview-890186891"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
