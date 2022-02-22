@@ -1563,16 +1563,14 @@
       "Recipe": "grpc",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9417",
-      "LastCommitSHA": "81f05139b9e62ff1be6be2b9c32235b760462fd2",
-      "LastCommitAt": "2022-02-18T11:54:38Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "9cb4a343abbf52d3f5c734ba4bfc11d0cb88e232",
+      "LastCommitAt": "2022-02-22T15:34:35Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -1971,24 +1969,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9455",
       "LastCommitSHA": "f047c54b41b8af89ee60f9cee8c007f430b550a2",
       "LastCommitAt": "2022-02-21T14:55:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9456,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2022-02-21T15:11:35Z",
-      "Recipe": "openimageio",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9456",
-      "LastCommitSHA": "20952f6d98446706263a5ba521336b59078fbd8b",
-      "LastCommitAt": "2022-02-21T15:10:41Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
