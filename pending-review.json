@@ -386,18 +386,19 @@
       "LastCommitAt": "2022-01-31T11:54:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "SSE4"
+            "SSE4",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-02-23T03:58:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8980#pullrequestreview-890597278"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-02-23T11:11:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8980#pullrequestreview-890928404"
          }
       }
    },
@@ -2000,7 +2001,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9451",
       "LastCommitSHA": "c86b94df4b0e28fe5d09a92e0a36bff35a0a67bc",
       "LastCommitAt": "2022-02-21T12:42:03Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -2341,6 +2342,42 @@
       "LastCommitSHA": "4bb3a4f50b38d64930c274bd4067e21fe2c6f217",
       "LastCommitAt": "2022-02-23T09:29:27Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9489,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-23T10:25:28Z",
+      "Recipe": "hffix",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9489",
+      "LastCommitSHA": "9d21368f414e06b35fb078b0678615b3efc79cfe",
+      "LastCommitAt": "2022-02-23T10:25:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9491,
+      "OpenedBy": "ggulgulia",
+      "CreatedAt": "2022-02-23T11:09:03Z",
+      "Recipe": "ignition-cmake",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9491",
+      "LastCommitSHA": "90b9a25f38e812e3ac53f630dcddfe25fcc6c1be",
+      "LastCommitAt": "2022-02-23T10:55:55Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
