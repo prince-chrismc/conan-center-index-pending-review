@@ -1713,17 +1713,18 @@
       "LastCommitAt": "2022-02-18T14:48:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-02-21T07:11:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9422#pullrequestreview-888270286"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-02-25T12:25:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9422#pullrequestreview-893615228"
          }
       }
    },
@@ -2820,6 +2821,24 @@
       "LastCommitSHA": "476a5145a6cb9aa88de42b85b171fd12045e7005",
       "LastCommitAt": "2022-02-25T00:46:03Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9512,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-25T13:14:09Z",
+      "Recipe": "hidapi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9512",
+      "LastCommitSHA": "039ba3777a4820ed068b78f5fd22f4ec228bf197",
+      "LastCommitAt": "2022-02-25T13:07:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
