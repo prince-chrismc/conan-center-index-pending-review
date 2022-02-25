@@ -480,7 +480,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9163",
       "LastCommitSHA": "884741cac07d6e2f4bdc730d5f2eb86371e01345",
       "LastCommitAt": "2022-02-24T21:12:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -518,6 +518,24 @@
             "SubmittedAt": "2022-02-21T16:31:44Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9164#pullrequestreview-888907565"
          }
+      }
+   },
+   {
+      "Number": 9184,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-31T01:15:02Z",
+      "Recipe": "rttr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9184",
+      "LastCommitSHA": "390c55e55c335c16a460a7b56ad53830b0dd55b7",
+      "LastCommitAt": "2022-02-24T19:21:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -1071,6 +1089,24 @@
             "SubmittedAt": "2022-02-21T16:42:29Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9349#pullrequestreview-888918855"
          }
+      }
+   },
+   {
+      "Number": 9350,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-11T10:57:17Z",
+      "Recipe": "libmysqlclient",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9350",
+      "LastCommitSHA": "5996447c1c5fe1956a1fccb9e80cc067e53468d9",
+      "LastCommitAt": "2022-02-24T23:01:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -2504,7 +2540,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9487",
       "LastCommitSHA": "c60a8632a7d4a875fa8a906335a3b3600c714a51",
       "LastCommitAt": "2022-02-25T01:41:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 10,
          "ValidApprovals": 0,
@@ -2622,6 +2658,24 @@
       }
    },
    {
+      "Number": 9498,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-02-24T10:41:12Z",
+      "Recipe": "stduuid",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9498",
+      "LastCommitSHA": "30c70a3c38e0cb98621c68fecd4aabc05844758a",
+      "LastCommitAt": "2022-02-25T01:41:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9500,
       "OpenedBy": "danimtb",
       "CreatedAt": "2022-02-24T14:06:15Z",
@@ -2666,6 +2720,24 @@
       }
    },
    {
+      "Number": 9508,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-24T21:04:43Z",
+      "Recipe": "leveldb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9508",
+      "LastCommitSHA": "9dad573b7a8fe6fe0d61611c533c45229fad52fa",
+      "LastCommitAt": "2022-02-24T21:15:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9509,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-24T21:25:44Z",
@@ -2674,7 +2746,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9509",
       "LastCommitSHA": "426521574545ac77f1533f1f64a88d73c0345a03",
       "LastCommitAt": "2022-02-24T21:22:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2692,7 +2764,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9510",
       "LastCommitSHA": "d0630907e8bce841fcb3a6594e13b6e36c912910",
       "LastCommitAt": "2022-02-25T00:46:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
