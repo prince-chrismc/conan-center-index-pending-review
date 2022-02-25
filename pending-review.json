@@ -2828,23 +2828,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9512,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-25T13:14:09Z",
-      "Recipe": "hidapi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9512",
-      "LastCommitSHA": "039ba3777a4820ed068b78f5fd22f4ec228bf197",
-      "LastCommitAt": "2022-02-25T13:07:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
