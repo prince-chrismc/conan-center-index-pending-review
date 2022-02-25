@@ -2732,24 +2732,6 @@
       }
    },
    {
-      "Number": 9505,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-02-24T15:53:11Z",
-      "Recipe": "libarchive",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9505",
-      "LastCommitSHA": "2d6b58d19bedafb73f981991af94c0f692aa2e7b",
-      "LastCommitAt": "2022-02-24T22:01:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 9508,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-24T21:04:43Z",
@@ -2778,11 +2760,18 @@
       "LastCommitAt": "2022-02-24T21:22:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-02-25T23:05:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9509#pullrequestreview-894308532"
+         }
       }
    },
    {
@@ -2882,9 +2871,9 @@
       "Recipe": "sqlcipher",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9517",
-      "LastCommitSHA": "e6023007f561c3c5025470b4a3efea2b70309a11",
-      "LastCommitAt": "2022-02-25T20:45:14Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d12f5b1a607a4677531ded4d09876dbe97d95c4f",
+      "LastCommitAt": "2022-02-25T22:17:41Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
