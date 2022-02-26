@@ -152,17 +152,14 @@
       "Recipe": "gdal",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8635",
-      "LastCommitSHA": "20b7cf6de9f3d265b0b6537a67634a4a879fc033",
-      "LastCommitAt": "2022-02-04T15:09:45Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "fde36dee223125ce35f574d6b48f75e8e259fe4f",
+      "LastCommitAt": "2022-02-26T13:37:10Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -2838,9 +2835,9 @@
       "Recipe": "sqlcipher",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9517",
-      "LastCommitSHA": "d12f5b1a607a4677531ded4d09876dbe97d95c4f",
+      "LastCommitSHA": "276ed2d1895586db19d7346ad96091db48d3f123",
       "LastCommitAt": "2022-02-25T22:17:41Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2856,16 +2853,14 @@
       "Recipe": "docs",
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9519",
-      "LastCommitSHA": "becda30a715b9b278e0ebf23bd48ea9cc3a59b66",
-      "LastCommitAt": "2022-02-26T00:49:39Z",
+      "LastCommitSHA": "90c5015e192beec51fceff7c9c6fa2d871216ee5",
+      "LastCommitAt": "2022-02-26T13:21:07Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
