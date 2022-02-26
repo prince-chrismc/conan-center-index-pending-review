@@ -2893,5 +2893,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9520#pullrequestreview-894423510"
          }
       }
+   },
+   {
+      "Number": 9521,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-02-26T18:01:12Z",
+      "Recipe": "cyrus-sasl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9521",
+      "LastCommitSHA": "8683cda55a4cfb7a1925776d28c46cd53a6657f4",
+      "LastCommitAt": "2022-02-26T17:50:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
