@@ -2868,5 +2868,30 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9519#pullrequestreview-894388743"
          }
       }
+   },
+   {
+      "Number": 9520,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-02-26T16:40:50Z",
+      "Recipe": "libdeflate",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9520",
+      "LastCommitSHA": "67ee450eeb9ff7d4759c33c502cbbbf69c0e7c66",
+      "LastCommitAt": "2022-02-26T12:33:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-02-26T16:52:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9520#pullrequestreview-894423510"
+         }
+      }
    }
 ]
