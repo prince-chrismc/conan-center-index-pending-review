@@ -2830,24 +2830,6 @@
       }
    },
    {
-      "Number": 9514,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-02-25T16:10:02Z",
-      "Recipe": "sqlite3",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9514",
-      "LastCommitSHA": "771e312bed6235382a6b9e92696d2dd19bc7b475",
-      "LastCommitAt": "2022-02-25T04:14:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 9516,
       "OpenedBy": "isidore",
       "CreatedAt": "2022-02-25T17:05:15Z",
