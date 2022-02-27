@@ -51,32 +51,6 @@
       }
    },
    {
-      "Number": 7940,
-      "OpenedBy": "ericriff",
-      "CreatedAt": "2021-11-03T21:34:48Z",
-      "Recipe": "libusb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7940",
-      "LastCommitSHA": "5088b2623200964d2b777de9f4f25eb7d8378354",
-      "LastCommitAt": "2022-02-21T07:49:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-02-21T15:47:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/7940#pullrequestreview-888857897"
-         }
-      }
-   },
-   {
       "Number": 8094,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2021-11-18T13:23:37Z",
