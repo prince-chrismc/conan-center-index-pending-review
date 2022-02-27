@@ -433,15 +433,17 @@
       "LastCommitAt": "2022-02-27T17:30:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericLemanissier"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-02-03T16:32:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9216#pullrequestreview-872101584"
+            "SubmittedAt": "2022-02-27T20:18:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9216#pullrequestreview-894542006"
          }
       }
    },
@@ -1109,60 +1111,6 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2022-02-27T16:55:40Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9430#pullrequestreview-894525123"
-         }
-      }
-   },
-   {
-      "Number": 9431,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-19T13:36:22Z",
-      "Recipe": "c-blosc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9431",
-      "LastCommitSHA": "4e109e3bdffa2220dbf5670cb64e98e59417e456",
-      "LastCommitAt": "2022-02-19T13:34:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "toge",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-02-27T16:55:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9431#pullrequestreview-894525079"
-         }
-      }
-   },
-   {
-      "Number": 9432,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-19T13:50:44Z",
-      "Recipe": "snappy",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9432",
-      "LastCommitSHA": "9fe2845a6e642ed1909cfcc5ba5ce39f603f8fac",
-      "LastCommitAt": "2022-02-19T13:48:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "toge",
-            "SSE4",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-02-27T16:54:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9432#pullrequestreview-894524985"
          }
       }
    },
@@ -2545,9 +2493,9 @@
       "Recipe": "graphene",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9534",
-      "LastCommitSHA": "289774f48ba0f307cb9bf78e0ed4182d1ac83b04",
-      "LastCommitAt": "2022-02-27T17:13:15Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "aaf702fece33fff360fc7c1647abedf44734b392",
+      "LastCommitAt": "2022-02-27T20:42:17Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
