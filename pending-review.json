@@ -1846,58 +1846,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9552#pullrequestreview-895824860"
          }
       }
-   },
-   {
-      "Number": 9553,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2022-03-01T01:07:54Z",
-      "Recipe": "vulkan-headers",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9553",
-      "LastCommitSHA": "bc7b5f839efa305979e3b3947d86949e6b2a214d",
-      "LastCommitAt": "2022-03-01T01:06:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-03-01T08:14:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9553#pullrequestreview-895975904"
-         }
-      }
-   },
-   {
-      "Number": 9554,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-03-01T08:36:54Z",
-      "Recipe": "wayland",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9554",
-      "LastCommitSHA": "42a78f5863819e96e05237b62038451f2cfbf707",
-      "LastCommitAt": "2022-03-01T09:19:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-03-01T10:04:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9554#pullrequestreview-896097887"
-         }
-      }
    }
 ]
