@@ -1960,24 +1960,6 @@
       }
    },
    {
-      "Number": 9564,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2022-03-02T00:26:42Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9564",
-      "LastCommitSHA": "551229fa58af307fcd6f9a45b7115a1e1efbd2ba",
-      "LastCommitAt": "2022-03-02T00:26:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 9565,
       "OpenedBy": "BishopJohnson",
       "CreatedAt": "2022-03-02T00:54:08Z",
