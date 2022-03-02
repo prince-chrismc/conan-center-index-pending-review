@@ -1953,23 +1953,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9565,
-      "OpenedBy": "BishopJohnson",
-      "CreatedAt": "2022-03-02T00:54:08Z",
-      "Recipe": "enjincppsdk",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9565",
-      "LastCommitSHA": "71346d3f5642570ddf6c2b8a512d9e89c71ee24e",
-      "LastCommitAt": "2022-03-02T00:33:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
