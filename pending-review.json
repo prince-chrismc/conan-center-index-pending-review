@@ -2067,29 +2067,6 @@
       }
    },
    {
-      "Number": 9565,
-      "OpenedBy": "BishopJohnson",
-      "CreatedAt": "2022-03-02T00:54:08Z",
-      "Recipe": "enjincppsdk",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9565",
-      "LastCommitSHA": "b253194976acb08015fedfa93d40529d26a9e9c8",
-      "LastCommitAt": "2022-03-02T18:28:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-03-02T14:43:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9565#pullrequestreview-897672427"
-         }
-      }
-   },
-   {
       "Number": 9566,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-03-02T09:56:46Z",
