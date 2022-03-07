@@ -101,18 +101,19 @@
       "LastCommitAt": "2022-03-07T08:25:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 13,
-         "ValidApprovals": 2,
+         "Count": 14,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "jgsogo",
-            "uilianries"
+            "uilianries",
+            "prince-chrismc"
          ],
          "Blockers": [],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-03-07T17:51:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8835#pullrequestreview-902045854"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-03-07T19:08:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8835#pullrequestreview-902133685"
          }
       }
    },
@@ -174,18 +175,14 @@
       "Recipe": "qxlsx",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8941",
-      "LastCommitSHA": "bdc38675bc8bdaa98d839c35cc3de52226956d6d",
-      "LastCommitAt": "2022-02-16T18:02:00Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8b4173b62bcfdbe18a9ea47b707953e19653bc8e",
+      "LastCommitAt": "2022-03-07T18:19:36Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "Jihadist",
-            "SSE4",
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "Jihadist",
@@ -1011,29 +1008,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-03-02T17:58:56Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9548#pullrequestreview-897960644"
-         }
-      }
-   },
-   {
-      "Number": 9555,
-      "OpenedBy": "friendlyanon",
-      "CreatedAt": "2022-03-01T12:06:47Z",
-      "Recipe": "fbclient",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9555",
-      "LastCommitSHA": "e9c1d587dc075a20acc86bf23904a9e52af0d8a6",
-      "LastCommitAt": "2022-03-03T13:05:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-03-02T05:20:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9555#pullrequestreview-897108028"
          }
       }
    },
