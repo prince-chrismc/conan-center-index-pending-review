@@ -957,6 +957,29 @@
       }
    },
    {
+      "Number": 9539,
+      "OpenedBy": "Enhex",
+      "CreatedAt": "2022-02-28T03:20:12Z",
+      "Recipe": "enhex-strong_type",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9539",
+      "LastCommitSHA": "96d58b4e57b284477f2c7a4dc6a0f7da2463868b",
+      "LastCommitAt": "2022-03-07T02:07:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-03-04T09:00:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9539#pullrequestreview-899964893"
+         }
+      }
+   },
+   {
       "Number": 9548,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-02-28T16:17:13Z",
