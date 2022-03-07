@@ -99,7 +99,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8835",
       "LastCommitSHA": "7c940b5cbd3343ad401a0f3d4d03c564e6ebf1b4",
       "LastCommitAt": "2022-03-07T08:25:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 12,
          "ValidApprovals": 1,
@@ -532,24 +532,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9397",
       "LastCommitSHA": "9a0fbf17624c8470e61218eef38b4cdf8a25e323",
       "LastCommitAt": "2022-03-05T17:53:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9420,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-02-18T14:02:54Z",
-      "Recipe": "diligent-fx",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9420",
-      "LastCommitSHA": "f7f297a1ccf42e964d66dffa78a3bb15ed677338",
-      "LastCommitAt": "2022-03-03T13:29:21Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -1651,6 +1633,24 @@
             "SubmittedAt": "2022-03-06T08:35:18Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9623#pullrequestreview-901046061"
          }
+      }
+   },
+   {
+      "Number": 9626,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-03-06T10:11:36Z",
+      "Recipe": "mailio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9626",
+      "LastCommitSHA": "e9eb94fece0093623264e947d49f659a6b5cde03",
+      "LastCommitAt": "2022-03-07T08:29:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
