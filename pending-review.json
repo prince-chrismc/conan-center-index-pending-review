@@ -1668,7 +1668,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9628",
       "LastCommitSHA": "97b8a76ad65f0168dfd8461e7d1632262d08a420",
       "LastCommitAt": "2022-03-06T21:43:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1720,9 +1720,9 @@
       "Recipe": "jansson",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9636",
-      "LastCommitSHA": "b08e1ded6e1019d573fb7770a1eb775fcbbd34eb",
-      "LastCommitAt": "2022-03-06T21:52:30Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "97ecb5164137d71c4d483f24ced344a4eeb6d1e1",
+      "LastCommitAt": "2022-03-06T23:57:06Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
