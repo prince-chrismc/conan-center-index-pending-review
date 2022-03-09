@@ -1110,8 +1110,8 @@
       "Recipe": "pbtools",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9573",
-      "LastCommitSHA": "73ef22fd1532b2ac8c30f76dc2f657045e172ff4",
-      "LastCommitAt": "2022-03-04T18:20:07Z",
+      "LastCommitSHA": "49f2e952fb6de3e1895c13d81d2aeb89bc7c35a3",
+      "LastCommitAt": "2022-03-09T06:30:18Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -1689,11 +1689,18 @@
       "LastCommitAt": "2022-03-06T21:43:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-03-09T06:41:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9628#pullrequestreview-903921605"
+         }
       }
    },
    {
