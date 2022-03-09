@@ -1509,9 +1509,9 @@
       "Recipe": "msgpack-cxx",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9600",
-      "LastCommitSHA": "a22991a65984d984cc6ccd2385f58b46cf2dcc5f",
-      "LastCommitAt": "2022-03-03T14:30:36Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "01018f0d08aa2b72cd94efaa8ee6895a573ccd20",
+      "LastCommitAt": "2022-03-09T02:07:59Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
