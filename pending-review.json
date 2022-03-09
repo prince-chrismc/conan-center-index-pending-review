@@ -521,29 +521,6 @@
       }
    },
    {
-      "Number": 9420,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-02-18T14:02:54Z",
-      "Recipe": "diligent-fx",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9420",
-      "LastCommitSHA": "4ad02979901c838a5806d1c644a153a6d13ee27a",
-      "LastCommitAt": "2022-03-09T09:37:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-03-09T08:49:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9420#pullrequestreview-904036045"
-         }
-      }
-   },
-   {
       "Number": 9424,
       "OpenedBy": "toge",
       "CreatedAt": "2022-02-18T15:12:59Z",
