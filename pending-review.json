@@ -796,11 +796,18 @@
       "LastCommitAt": "2022-03-11T09:46:50Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-03-11T12:15:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9665#pullrequestreview-907142084"
+         }
       }
    },
    {
