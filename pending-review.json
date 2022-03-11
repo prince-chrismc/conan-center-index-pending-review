@@ -236,7 +236,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9424",
       "LastCommitSHA": "8ee47319a2ad311d731cf0cde9fb988a95c424aa",
       "LastCommitAt": "2022-02-23T14:17:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -249,33 +249,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-03-02T12:20:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9424#pullrequestreview-897499473"
-         }
-      }
-   },
-   {
-      "Number": 9434,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-19T17:57:11Z",
-      "Recipe": "calceph",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9434",
-      "LastCommitSHA": "06bc058faf94ace9e7d7a576ba9d1ed169f60d81",
-      "LastCommitAt": "2022-02-19T20:17:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-03-10T13:10:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9434#pullrequestreview-905808751"
          }
       }
    },
