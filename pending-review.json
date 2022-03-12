@@ -874,17 +874,18 @@
       "LastCommitAt": "2022-03-05T07:47:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-03-12T05:15:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9624#pullrequestreview-907953074"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-03-12T09:26:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9624#pullrequestreview-907977767"
          }
       }
    },
@@ -1530,6 +1531,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9733",
       "LastCommitSHA": "fb286039895b8db8ffe4d254454b673db1f6b248",
       "LastCommitAt": "2022-03-12T06:34:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9734,
+      "OpenedBy": "eerimoq",
+      "CreatedAt": "2022-03-12T09:58:54Z",
+      "Recipe": "detools",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9734",
+      "LastCommitSHA": "62b903458574f9b213211ab2c4ee0d4b91b92eba",
+      "LastCommitAt": "2022-03-12T07:53:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
