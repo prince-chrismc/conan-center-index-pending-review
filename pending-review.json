@@ -872,15 +872,17 @@
       "LastCommitAt": "2022-03-05T07:47:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-03-05T07:47:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9624#pullrequestreview-900927588"
+            "SubmittedAt": "2022-03-12T05:15:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9624#pullrequestreview-907953074"
          }
       }
    },
