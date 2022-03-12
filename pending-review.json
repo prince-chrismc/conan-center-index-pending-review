@@ -1,32 +1,5 @@
 [
    {
-      "Number": 8578,
-      "OpenedBy": "n-bes",
-      "CreatedAt": "2021-12-29T14:43:47Z",
-      "Recipe": "libprotobuf-mutator",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8578",
-      "LastCommitSHA": "48a7aca05a30370671fbc57fbafda42a050b11a2",
-      "LastCommitAt": "2022-03-10T08:52:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-03-12T07:19:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8578#pullrequestreview-907963175"
-         }
-      }
-   },
-   {
       "Number": 9237,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-02T21:44:12Z",
@@ -1617,29 +1590,18 @@
       "LastCommitAt": "2022-03-12T12:39:56Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9739,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-03-12T16:01:45Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9739",
-      "LastCommitSHA": "5d531196399d522ac707dea96a0b7838669707e0",
-      "LastCommitAt": "2022-03-12T15:56:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-03-12T19:08:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9738#pullrequestreview-908040661"
+         }
       }
    },
    {
