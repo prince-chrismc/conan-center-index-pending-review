@@ -841,17 +841,14 @@
       "Recipe": "daw_json_link",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9623",
-      "LastCommitSHA": "ead1bf5ddd60dfd68c623110254309bf4f30e977",
-      "LastCommitAt": "2022-03-05T00:37:23Z",
+      "LastCommitSHA": "1c2fed3a727f766cfd793583863dca80890e8fff",
+      "LastCommitAt": "2022-03-12T13:22:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
