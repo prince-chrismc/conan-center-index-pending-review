@@ -439,6 +439,24 @@
       }
    },
    {
+      "Number": 9567,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-03-02T10:19:25Z",
+      "Recipe": "libspatialite",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9567",
+      "LastCommitSHA": "4717b56c4bd046b607d9ed4998177d3e04ae2b8b",
+      "LastCommitAt": "2022-03-02T16:51:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9570,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-03-02T16:19:19Z",
