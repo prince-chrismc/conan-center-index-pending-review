@@ -161,17 +161,14 @@
       "Recipe": "arrow",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9358",
-      "LastCommitSHA": "10c715ca4181a680e880d0352bb1652d374feec1",
-      "LastCommitAt": "2022-02-28T00:17:45Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "4a717223baa0db3f642a575ab3989ed1adec9008",
+      "LastCommitAt": "2022-03-12T11:38:06Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -1547,7 +1544,7 @@
       "Recipe": "detools",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9734",
-      "LastCommitSHA": "62b903458574f9b213211ab2c4ee0d4b91b92eba",
+      "LastCommitSHA": "dda10ca368269a1ed32076dd24de7ae3a400fb13",
       "LastCommitAt": "2022-03-12T07:53:00Z",
       "CciBotPassed": false,
       "Summary": {
@@ -1585,6 +1582,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9736",
       "LastCommitSHA": "3f600c3127b2abfd2808e83133874ba9d352c39b",
       "LastCommitAt": "2022-03-12T10:29:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9737,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-03-12T12:15:32Z",
+      "Recipe": "glfw",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9737",
+      "LastCommitSHA": "6808c5b06d5c0c8a99f69295bede414593d5366b",
+      "LastCommitAt": "2022-03-12T12:14:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
