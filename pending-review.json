@@ -1854,23 +1854,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9751,
-      "OpenedBy": "boussaffawalid",
-      "CreatedAt": "2022-03-13T20:08:32Z",
-      "Recipe": "karchive",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9751",
-      "LastCommitSHA": "6372c42ff8a26cc270bbca2a9449c9c4fe7b0ec1",
-      "LastCommitAt": "2020-10-15T23:03:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
