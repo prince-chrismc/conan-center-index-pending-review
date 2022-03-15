@@ -280,6 +280,32 @@
       }
    },
    {
+      "Number": 9558,
+      "OpenedBy": "maksim-0",
+      "CreatedAt": "2022-03-01T13:42:07Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9558",
+      "LastCommitSHA": "fcc4e9a7a2cce10dfc52cf7980bb12faf06d54dd",
+      "LastCommitAt": "2022-03-02T10:51:56Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "ericLemanissier",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-03-15T16:02:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9558#pullrequestreview-910455758"
+         }
+      }
+   },
+   {
       "Number": 9567,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-03-02T10:19:25Z",
@@ -838,7 +864,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9732",
       "LastCommitSHA": "d7dfbcb37b9c614e333741fba9cc824f0462fd42",
       "LastCommitAt": "2022-03-15T08:37:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -1091,24 +1117,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9782",
       "LastCommitSHA": "808dad12904ad3d4209c415223770082ab1a5f64",
       "LastCommitAt": "2022-03-15T09:20:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9786,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-03-15T15:14:09Z",
-      "Recipe": "jsonnet",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9786",
-      "LastCommitSHA": "9ecb07eb9d281d6c3e67f013cd79dab0e3ec0031",
-      "LastCommitAt": "2022-03-15T15:11:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
