@@ -56,17 +56,14 @@
       "Recipe": "easy_profiler",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8963",
-      "LastCommitSHA": "b13d9ad89da188c47974893b7003f5cd996be834",
-      "LastCommitAt": "2022-03-14T19:25:39Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "2348eed56aa94c472fea6021a916c45984f3585e",
+      "LastCommitAt": "2022-03-16T16:57:17Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -1080,6 +1077,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9802",
       "LastCommitSHA": "de5f79f5f0280685cd3abe7c93ee9161de1a5305",
       "LastCommitAt": "2022-03-16T12:59:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9804,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-03-16T16:40:47Z",
+      "Recipe": "tinyxml2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9804",
+      "LastCommitSHA": "a594bc7233f718871dea4ca30e3e2313a591f4ad",
+      "LastCommitAt": "2022-03-16T16:37:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
