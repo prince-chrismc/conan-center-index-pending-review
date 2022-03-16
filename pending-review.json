@@ -160,18 +160,19 @@
       "LastCommitAt": "2022-03-12T11:38:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
+         "Count": 7,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "SSE4"
+            "SSE4",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-03-15T09:53:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9358#pullrequestreview-909921694"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-03-16T20:14:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9358#pullrequestreview-912207643"
          }
       }
    },
@@ -795,7 +796,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9716",
       "LastCommitSHA": "b0edde8e64f49fd8189afd39c363e48a9b48deb4",
       "LastCommitAt": "2022-03-11T12:02:07Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1124,24 +1125,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9805",
       "LastCommitSHA": "fa501e21bab6574cba4ad2466f14578d15c34f8a",
       "LastCommitAt": "2022-03-16T17:51:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9807,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-03-16T18:01:33Z",
-      "Recipe": "zlib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9807",
-      "LastCommitSHA": "eb6b0833cff661e16fb13c8e9f7d98bd516f77aa",
-      "LastCommitAt": "2022-03-16T18:00:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
