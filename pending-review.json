@@ -1088,23 +1088,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9803,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-03-16T14:35:13Z",
-      "Recipe": "pybind11_json",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9803",
-      "LastCommitSHA": "a712360de0e0b06ba230688f0434337e02441f54",
-      "LastCommitAt": "2022-03-16T12:45:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
