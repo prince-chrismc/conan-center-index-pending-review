@@ -277,6 +277,42 @@
       }
    },
    {
+      "Number": 9574,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-03-02T20:35:48Z",
+      "Recipe": "librasterlite",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9574",
+      "LastCommitSHA": "122f2d859bf206356662a4ef77db10fa6b51d8de",
+      "LastCommitAt": "2022-03-02T20:33:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9575,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-03-02T21:11:51Z",
+      "Recipe": "librasterlite2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9575",
+      "LastCommitSHA": "bc91408a55eed40e207c42a49c74abc37dbc319d",
+      "LastCommitAt": "2022-03-02T20:58:40Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9586,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-03-03T12:04:19Z",
