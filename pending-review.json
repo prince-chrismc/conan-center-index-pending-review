@@ -884,5 +884,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 9825,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-03-17T22:06:51Z",
+      "Recipe": "fftw",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9825",
+      "LastCommitSHA": "f7bb1854aba38425b60fe3c5e3b19c56f650aea2",
+      "LastCommitAt": "2022-03-17T22:04:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
