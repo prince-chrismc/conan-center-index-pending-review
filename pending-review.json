@@ -125,29 +125,6 @@
       }
    },
    {
-      "Number": 9445,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-02-20T21:29:14Z",
-      "Recipe": "sentry-native",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9445",
-      "LastCommitSHA": "3805150b06165a2767467f7f1223abd55750b803",
-      "LastCommitAt": "2022-03-17T10:08:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-03-16T17:12:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9445#pullrequestreview-912001418"
-         }
-      }
-   },
-   {
       "Number": 9484,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-02-22T21:51:33Z",
