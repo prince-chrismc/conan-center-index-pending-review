@@ -126,33 +126,6 @@
       }
    },
    {
-      "Number": 9484,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-02-22T21:51:33Z",
-      "Recipe": "libsndfile",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9484",
-      "LastCommitSHA": "3ba7d06711c692a8f22226c119a3584f3e079ec8",
-      "LastCommitAt": "2022-03-14T15:36:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "AndreyMlashkin",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-03-18T08:50:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9484#pullrequestreview-914084427"
-         }
-      }
-   },
-   {
       "Number": 9503,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-02-24T15:39:55Z",
