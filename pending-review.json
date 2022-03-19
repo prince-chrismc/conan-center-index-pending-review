@@ -964,7 +964,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9861",
       "LastCommitSHA": "267b6fec0515afa002679c93db56c13019fc6c20",
       "LastCommitAt": "2022-03-19T19:35:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9862,
+      "OpenedBy": "Croydon",
+      "CreatedAt": "2022-03-19T20:43:55Z",
+      "Recipe": "glu",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9862",
+      "LastCommitSHA": "6fe55a2c86d539581697c832abd0d0a993da3d03",
+      "LastCommitAt": "2022-03-19T20:50:21Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
