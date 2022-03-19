@@ -850,17 +850,18 @@
       "LastCommitAt": "2022-03-18T15:28:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "SpaceIm"
+            "SpaceIm",
+            "AndreyMlashkin"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-03-18T15:37:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9844#pullrequestreview-914529425"
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2022-03-19T19:24:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9844#pullrequestreview-915029142"
          }
       }
    },
@@ -946,6 +947,24 @@
       "LastCommitSHA": "6228517617267b65603f562d561a87684132a34b",
       "LastCommitAt": "2022-03-19T16:05:35Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9861,
+      "OpenedBy": "dpronin",
+      "CreatedAt": "2022-03-19T19:40:09Z",
+      "Recipe": "cryptopp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9861",
+      "LastCommitSHA": "267b6fec0515afa002679c93db56c13019fc6c20",
+      "LastCommitAt": "2022-03-19T19:35:34Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
