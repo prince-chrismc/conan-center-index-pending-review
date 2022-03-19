@@ -701,7 +701,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9836",
       "LastCommitSHA": "cfa6794e80cc6cfb568de0dce305025af7b1c2af",
       "LastCommitAt": "2022-03-18T11:12:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -849,24 +849,6 @@
             "SubmittedAt": "2022-03-19T06:50:22Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9850#pullrequestreview-914976433"
          }
-      }
-   },
-   {
-      "Number": 9855,
-      "OpenedBy": "p-podsiadly",
-      "CreatedAt": "2022-03-19T08:45:33Z",
-      "Recipe": "imath",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9855",
-      "LastCommitSHA": "60379917e2cb71a4b0e593e24b57d89327f4c548",
-      "LastCommitAt": "2022-03-18T16:11:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
