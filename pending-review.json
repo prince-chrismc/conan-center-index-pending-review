@@ -920,6 +920,24 @@
       }
    },
    {
+      "Number": 9848,
+      "OpenedBy": "jtbandes",
+      "CreatedAt": "2022-03-18T23:22:59Z",
+      "Recipe": "mcap",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9848",
+      "LastCommitSHA": "c5a1319245a78ea790b3b9df0bdf9b2903fe1c21",
+      "LastCommitAt": "2022-03-20T23:11:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9855,
       "OpenedBy": "p-podsiadly",
       "CreatedAt": "2022-03-19T08:45:33Z",
