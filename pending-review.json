@@ -85,18 +85,19 @@
       "LastCommitAt": "2022-02-17T15:54:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "SSE4"
+            "SSE4",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-03-19T09:17:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9416#pullrequestreview-914985752"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-03-21T10:09:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9416#pullrequestreview-915497946"
          }
       }
    },
@@ -1012,11 +1013,11 @@
       "OpenedBy": "toge",
       "CreatedAt": "2022-03-21T07:54:11Z",
       "Recipe": "quazip",
-      "Change": 2,
+      "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9868",
-      "LastCommitSHA": "c80520a9278c301074e36c10a8de8bfa6f0bf796",
-      "LastCommitAt": "2022-03-21T07:53:32Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "4f4e66e934feb590a2bf4a4097412203f22885f3",
+      "LastCommitAt": "2022-03-21T09:31:50Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
