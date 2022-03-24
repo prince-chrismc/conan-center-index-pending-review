@@ -828,7 +828,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9882",
       "LastCommitSHA": "b7fb741da87075a0c435479bf5e2fe69cc5d2534",
       "LastCommitAt": "2022-03-22T11:36:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -882,7 +882,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9905",
       "LastCommitSHA": "66b5d963e9ec194df40a04f9876751459073ace8",
       "LastCommitAt": "2022-03-24T15:39:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -898,8 +898,8 @@
       "Recipe": "s2n",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9906",
-      "LastCommitSHA": "e269318f5b4c30a535c7bbb83cfd5010a19ee999",
-      "LastCommitAt": "2022-03-24T15:46:11Z",
+      "LastCommitSHA": "b350fb717f9e109bb9a55269e30f429838037e4b",
+      "LastCommitAt": "2022-03-24T16:41:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -918,24 +918,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9907",
       "LastCommitSHA": "5778b27017cb4a8cf54e0a57ed0eec4da60e5b78",
       "LastCommitAt": "2022-03-24T15:49:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9908,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-03-24T15:54:32Z",
-      "Recipe": "aws-c-compression",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9908",
-      "LastCommitSHA": "67d256c3c71ac552b6534cdb95dc0e83652a9748",
-      "LastCommitAt": "2022-03-24T15:53:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
