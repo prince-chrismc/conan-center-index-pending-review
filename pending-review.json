@@ -367,16 +367,14 @@
       "Recipe": "boost-ext-ut",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9723",
-      "LastCommitSHA": "2c76ce8243736db3a054dcdfd1243d3da5499655",
-      "LastCommitAt": "2022-03-18T18:30:15Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "6a0b5085afcc6eb81dc601a5dd6b94d734065540",
+      "LastCommitAt": "2022-03-24T13:30:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -828,7 +826,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9886",
       "LastCommitSHA": "3d796111b92ea6264a0ffab5b579dc29da56b4d8",
       "LastCommitAt": "2022-03-24T13:20:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
