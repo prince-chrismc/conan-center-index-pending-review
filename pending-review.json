@@ -369,17 +369,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9723",
       "LastCommitSHA": "6a0b5085afcc6eb81dc601a5dd6b94d734065540",
       "LastCommitAt": "2022-03-24T13:30:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-03-23T12:06:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9723#pullrequestreview-918652104"
+            "SubmittedAt": "2022-03-24T14:27:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9723#pullrequestreview-920359306"
          }
       }
    },
@@ -815,6 +817,24 @@
             "SubmittedAt": "2022-03-22T10:22:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9876#pullrequestreview-916991921"
          }
+      }
+   },
+   {
+      "Number": 9882,
+      "OpenedBy": "svenpilz",
+      "CreatedAt": "2022-03-22T11:54:22Z",
+      "Recipe": "openmesh",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9882",
+      "LastCommitSHA": "b7fb741da87075a0c435479bf5e2fe69cc5d2534",
+      "LastCommitAt": "2022-03-22T11:36:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
