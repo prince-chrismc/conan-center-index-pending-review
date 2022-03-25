@@ -621,18 +621,14 @@
       "Recipe": "assimp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9821",
-      "LastCommitSHA": "ede758caab7b6213e390adbee9920f1c6a837188",
-      "LastCommitAt": "2022-03-19T12:00:16Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c9d2b28e8a86d04dac2333377982116e6ea1f3b0",
+      "LastCommitAt": "2022-03-25T12:41:04Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "StellaSmith"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
