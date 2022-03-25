@@ -418,17 +418,14 @@
       "Recipe": "c-dbg-macro",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9736",
-      "LastCommitSHA": "bca2995017dd2eb16960224121a4c5e09e6977c8",
-      "LastCommitAt": "2022-03-17T06:28:21Z",
+      "LastCommitSHA": "42d7ac42b53f2676c6f08bedaa5c2ac232025e30",
+      "LastCommitAt": "2022-03-25T07:24:08Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
