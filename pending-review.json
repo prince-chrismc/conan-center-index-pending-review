@@ -1035,24 +1035,6 @@
       }
    },
    {
-      "Number": 9918,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-03-25T10:56:31Z",
-      "Recipe": "asio",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9918",
-      "LastCommitSHA": "deb22616c09fc3300799dc460720fa352d29ffe7",
-      "LastCommitAt": "2022-03-25T06:50:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 9919,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-03-25T10:56:42Z",
@@ -1061,7 +1043,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9919",
       "LastCommitSHA": "5be7918bf93139346a9beff0840ad5afad5b8268",
       "LastCommitAt": "2022-03-25T06:53:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1097,7 +1079,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9921",
       "LastCommitSHA": "bab2502417c4a1dd8411d1a4b688b60ab9f2406d",
       "LastCommitAt": "2022-03-25T06:41:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1115,7 +1097,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9922",
       "LastCommitSHA": "d78cddbaa3ef77e5a4afe225c3b6925bd611e1bd",
       "LastCommitAt": "2022-03-25T06:50:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
