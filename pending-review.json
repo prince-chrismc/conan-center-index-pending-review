@@ -769,32 +769,6 @@
       }
    },
    {
-      "Number": 9872,
-      "OpenedBy": "ggulgulia",
-      "CreatedAt": "2022-03-21T13:19:22Z",
-      "Recipe": "ignition-cmake",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9872",
-      "LastCommitSHA": "3e38c7a995082a75dae748db90a79d439a7de56a",
-      "LastCommitAt": "2022-03-22T13:53:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-03-24T09:20:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9872#pullrequestreview-919949437"
-         }
-      }
-   },
-   {
       "Number": 9876,
       "OpenedBy": "fdefelici",
       "CreatedAt": "2022-03-21T18:02:52Z",
