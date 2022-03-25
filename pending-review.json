@@ -847,36 +847,17 @@
       "LastCommitAt": "2022-03-24T09:47:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 9905,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-03-24T15:41:06Z",
-      "Recipe": "aws-c-cal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9905",
-      "LastCommitSHA": "66b5d963e9ec194df40a04f9876751459073ace8",
-      "LastCommitAt": "2022-03-24T15:39:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
          "Approvals": [
-            "uilianries",
-            "SpaceIm"
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-03-25T10:19:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9905#pullrequestreview-921436687"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-03-25T22:51:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9897#pullrequestreview-922201443"
          }
       }
    },
@@ -891,18 +872,19 @@
       "LastCommitAt": "2022-03-24T16:41:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "SpaceIm"
+            "SpaceIm",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-03-25T10:18:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9906#pullrequestreview-921436274"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-03-25T22:51:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9906#pullrequestreview-922201201"
          }
       }
    },
@@ -943,17 +925,18 @@
       "LastCommitAt": "2022-03-24T17:07:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "intelligide"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-03-25T08:52:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9909#pullrequestreview-921338688"
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-03-25T22:51:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9909#pullrequestreview-922201112"
          }
       }
    },
