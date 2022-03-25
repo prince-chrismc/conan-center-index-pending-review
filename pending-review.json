@@ -1081,14 +1081,14 @@
       }
    },
    {
-      "Number": 9931,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-03-25T18:12:29Z",
-      "Recipe": "highway",
+      "Number": 9932,
+      "OpenedBy": "SamsonBox",
+      "CreatedAt": "2022-03-25T18:50:15Z",
+      "Recipe": "libcurl",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9931",
-      "LastCommitSHA": "8ba02dd16eb701501fbe45cca24782f33a7c38e7",
-      "LastCommitAt": "2022-03-25T18:11:39Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9932",
+      "LastCommitSHA": "ecaa47d27993c7508be06a23731ba1b1779891b2",
+      "LastCommitAt": "2022-03-25T18:43:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
