@@ -1031,11 +1031,18 @@
       "LastCommitAt": "2022-03-25T23:33:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-03-26T09:10:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9934#pullrequestreview-922298384"
+         }
       }
    },
    {
@@ -1047,6 +1054,49 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9938",
       "LastCommitSHA": "9971f4b3c580a55aad4a6e34043b0bc16bbfcf43",
       "LastCommitAt": "2022-03-26T07:49:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9939,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-03-26T08:46:25Z",
+      "Recipe": "pkgconf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9939",
+      "LastCommitSHA": "1e8e74d61dd581e6d9f66db786e97aaea947dfd3",
+      "LastCommitAt": "2022-03-26T08:45:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-03-26T08:49:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9939#pullrequestreview-922296880"
+         }
+      }
+   },
+   {
+      "Number": 9940,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2022-03-26T09:00:56Z",
+      "Recipe": "magic_enum",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9940",
+      "LastCommitSHA": "f5ebe29af9958a1d9b42b7033729c4166afd2112",
+      "LastCommitAt": "2022-03-26T09:00:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
