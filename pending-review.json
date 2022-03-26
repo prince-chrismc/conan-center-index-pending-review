@@ -876,7 +876,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9907",
       "LastCommitSHA": "5778b27017cb4a8cf54e0a57ed0eec4da60e5b78",
       "LastCommitAt": "2022-03-24T15:49:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 3,
@@ -1060,7 +1060,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9939",
       "LastCommitSHA": "1e8e74d61dd581e6d9f66db786e97aaea947dfd3",
       "LastCommitAt": "2022-03-26T08:45:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1087,11 +1087,18 @@
       "LastCommitAt": "2022-03-26T09:00:24Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-03-26T13:09:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9940#pullrequestreview-922315973"
+         }
       }
    }
 ]
