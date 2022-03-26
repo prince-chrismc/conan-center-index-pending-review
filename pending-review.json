@@ -1052,24 +1052,6 @@
       }
    },
    {
-      "Number": 9938,
-      "OpenedBy": "basiliscos",
-      "CreatedAt": "2022-03-26T07:55:12Z",
-      "Recipe": "rotor",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9938",
-      "LastCommitSHA": "9971f4b3c580a55aad4a6e34043b0bc16bbfcf43",
-      "LastCommitAt": "2022-03-26T07:49:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 9939,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-03-26T08:46:25Z",
