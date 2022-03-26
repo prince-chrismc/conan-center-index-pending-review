@@ -730,7 +730,7 @@
       "LastCommitAt": "2022-03-20T09:31:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
@@ -739,8 +739,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2022-03-21T14:37:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9856#pullrequestreview-915847734"
+            "SubmittedAt": "2022-03-26T06:54:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9856#pullrequestreview-922282496"
          }
       }
    },
