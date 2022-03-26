@@ -1037,23 +1037,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 9935,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-03-26T00:15:06Z",
-      "Recipe": "ceres-solver",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9935",
-      "LastCommitSHA": "cfab29c4334006d55f35d62cdb40c9db81bc335f",
-      "LastCommitAt": "2022-03-26T00:11:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
