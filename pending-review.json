@@ -1017,7 +1017,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9949",
       "LastCommitSHA": "2da8ea2e7da67d14e91e50fedbcaa9e8ee3365cb",
       "LastCommitAt": "2022-03-27T17:47:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 9950,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-03-27T18:22:10Z",
+      "Recipe": "aaf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9950",
+      "LastCommitSHA": "453c1dcfc4d16c2e607abc004fcef0d14522b4b6",
+      "LastCommitAt": "2022-03-27T18:03:43Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
