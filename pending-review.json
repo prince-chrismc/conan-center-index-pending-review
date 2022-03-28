@@ -911,15 +911,17 @@
       "LastCommitAt": "2022-03-28T16:43:33Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-03-28T15:55:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9975#pullrequestreview-923376721"
+            "SubmittedAt": "2022-03-28T18:45:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9975#pullrequestreview-923595438"
          }
       }
    },
