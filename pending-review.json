@@ -838,5 +838,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9975#pullrequestreview-923862391"
          }
       }
+   },
+   {
+      "Number": 9978,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-03-28T14:01:15Z",
+      "Recipe": "mysql-connector-c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9978",
+      "LastCommitSHA": "4015f89c6b7770ec09632afc682992bd299d6e02",
+      "LastCommitAt": "2022-03-29T05:38:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
