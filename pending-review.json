@@ -562,17 +562,18 @@
       "LastCommitAt": "2022-03-29T11:29:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "intelligide"
+            "intelligide",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "intelligide",
-            "SubmittedAt": "2022-03-29T12:25:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9992#pullrequestreview-924528771"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-03-29T17:18:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9992#pullrequestreview-924972987"
          }
       }
    },
@@ -624,32 +625,6 @@
             "ReviewerName": "intelligide",
             "SubmittedAt": "2022-03-29T13:45:44Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9994#pullrequestreview-924650776"
-         }
-      }
-   },
-   {
-      "Number": 9995,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-03-29T12:44:10Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9995",
-      "LastCommitSHA": "ad0a2f478e0ab44ca5d6d090a6fc9b1abd0624c3",
-      "LastCommitAt": "2022-03-29T12:43:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-03-29T15:12:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9995#pullrequestreview-924797695"
          }
       }
    },
