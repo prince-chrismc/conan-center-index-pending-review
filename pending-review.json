@@ -511,24 +511,6 @@
       }
    },
    {
-      "Number": 10013,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-03-29T15:58:25Z",
-      "Recipe": "aws-c-http",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10013",
-      "LastCommitSHA": "61fd2bc309830bd74898a39a6c7300003b184a32",
-      "LastCommitAt": "2022-03-29T15:57:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10018,
       "OpenedBy": "toge",
       "CreatedAt": "2022-03-30T02:30:06Z",
