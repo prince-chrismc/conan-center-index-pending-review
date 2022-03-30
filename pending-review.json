@@ -468,11 +468,18 @@
       "LastCommitAt": "2022-03-29T13:58:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-03-30T22:56:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10000#pullrequestreview-926811578"
+         }
       }
    },
    {
@@ -511,17 +518,18 @@
       "LastCommitAt": "2022-03-29T15:13:27Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-03-30T14:01:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10010#pullrequestreview-926174178"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-03-30T22:58:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10010#pullrequestreview-926812750"
          }
       }
    },
@@ -536,17 +544,18 @@
       "LastCommitAt": "2022-03-29T15:57:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-03-30T13:33:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10013#pullrequestreview-926128384"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-03-30T22:58:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10013#pullrequestreview-926813106"
          }
       }
    },
@@ -603,24 +612,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10029",
       "LastCommitSHA": "859069873d7ddfcdf750dfd51dcdeb3fd554ba9a",
       "LastCommitAt": "2022-03-30T13:09:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10031,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-03-30T15:32:03Z",
-      "Recipe": "mongo-c-driver",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10031",
-      "LastCommitSHA": "62b1d7a228e03e045526f1df3e9fa6a96277de99",
-      "LastCommitAt": "2022-03-30T10:58:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
