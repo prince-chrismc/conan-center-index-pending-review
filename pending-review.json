@@ -833,5 +833,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10038,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2022-03-30T18:13:55Z",
+      "Recipe": "libusb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10038",
+      "LastCommitSHA": "b304ddaa56b51484aaff6489debb1545a074970e",
+      "LastCommitAt": "2022-03-31T10:11:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
