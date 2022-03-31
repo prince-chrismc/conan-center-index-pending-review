@@ -554,6 +554,31 @@
       }
    },
    {
+      "Number": 9994,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2022-03-29T12:38:47Z",
+      "Recipe": "libgettext",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9994",
+      "LastCommitSHA": "9b3e405695851d0b6542f81447c8dfa9f75741dd",
+      "LastCommitAt": "2022-03-29T12:31:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "intelligide"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "intelligide",
+            "SubmittedAt": "2022-03-29T13:45:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9994#pullrequestreview-924650776"
+         }
+      }
+   },
+   {
       "Number": 9997,
       "OpenedBy": "SSE4",
       "CreatedAt": "2022-03-29T13:27:47Z",
@@ -820,6 +845,24 @@
             "SubmittedAt": "2022-03-31T16:29:57Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10038#pullrequestreview-927878123"
          }
+      }
+   },
+   {
+      "Number": 10039,
+      "OpenedBy": "gleb-kov",
+      "CreatedAt": "2022-03-30T18:14:24Z",
+      "Recipe": "mimalloc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10039",
+      "LastCommitSHA": "ead247c6605436865edb37dac6f33060162d4f07",
+      "LastCommitAt": "2022-03-31T18:37:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
