@@ -45,33 +45,6 @@
       }
    },
    {
-      "Number": 9639,
-      "OpenedBy": "ggulgulia",
-      "CreatedAt": "2022-03-07T08:44:34Z",
-      "Recipe": "ignition-utils",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9639",
-      "LastCommitSHA": "ec71ee0ccd40bc60ee78b0bab649a619a2b1c957",
-      "LastCommitAt": "2022-03-16T16:45:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-03-31T15:58:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9639#pullrequestreview-927835939"
-         }
-      }
-   },
-   {
       "Number": 9695,
       "OpenedBy": "friendlyanon",
       "CreatedAt": "2022-03-10T13:26:14Z",
@@ -962,7 +935,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10053",
       "LastCommitSHA": "916b4b55203e59984c51bc693757bbbbbca91eb4",
       "LastCommitAt": "2022-03-31T15:04:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
