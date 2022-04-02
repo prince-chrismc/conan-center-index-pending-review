@@ -153,6 +153,29 @@
       }
    },
    {
+      "Number": 9938,
+      "OpenedBy": "basiliscos",
+      "CreatedAt": "2022-03-26T07:55:12Z",
+      "Recipe": "rotor",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9938",
+      "LastCommitSHA": "9c0c829928000ed83d158f8ea2be9ff0f50dc700",
+      "LastCommitAt": "2022-04-01T21:01:23Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-04-01T19:34:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9938#pullrequestreview-929346889"
+         }
+      }
+   },
+   {
       "Number": 9976,
       "OpenedBy": "SSE4",
       "CreatedAt": "2022-03-28T13:22:33Z",
@@ -657,7 +680,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10067",
       "LastCommitSHA": "7948c9fae607d6b1f598d8ce55ddea0075cabc92",
       "LastCommitAt": "2022-04-01T21:49:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
