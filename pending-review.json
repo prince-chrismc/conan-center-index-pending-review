@@ -701,7 +701,7 @@
       "Recipe": "libpqxx",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10073",
-      "LastCommitSHA": "6da321e09e6ad239a01b4a945167cab0e0ca7fc8",
+      "LastCommitSHA": "ef4a3017d810d4d768a3fbe47309d10ccc68f880",
       "LastCommitAt": "2022-04-02T03:17:58Z",
       "CciBotPassed": false,
       "Summary": {
