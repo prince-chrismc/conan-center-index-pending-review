@@ -783,5 +783,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10078,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-04-03T11:17:30Z",
+      "Recipe": "ctre",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10078",
+      "LastCommitSHA": "3112a6e78d8e7fe52ef2f37e082b4d5a93c79605",
+      "LastCommitAt": "2022-04-03T11:16:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10079,
+      "OpenedBy": "fdefelici",
+      "CreatedAt": "2022-04-03T11:58:15Z",
+      "Recipe": "clove-unit",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10079",
+      "LastCommitSHA": "19b5d113019d2ecaa0d03de9cb2e9771ee927b54",
+      "LastCommitAt": "2022-04-03T11:55:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10080,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-03T12:09:53Z",
+      "Recipe": "gdal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10080",
+      "LastCommitSHA": "79337dfe976242179edf449d277fbc0ae1a8c168",
+      "LastCommitAt": "2022-04-03T12:05:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
