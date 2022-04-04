@@ -795,11 +795,18 @@
       "LastCommitAt": "2022-04-03T20:01:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-04-04T06:13:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10082#pullrequestreview-929869874"
+         }
       }
    },
    {
