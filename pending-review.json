@@ -854,5 +854,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10101,
+      "OpenedBy": "5chmidti",
+      "CreatedAt": "2022-04-04T16:50:31Z",
+      "Recipe": "cli11",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10101",
+      "LastCommitSHA": "23e4cfe9ab4a2dac0cb1a22f1caa845b83b588eb",
+      "LastCommitAt": "2022-04-01T21:47:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
