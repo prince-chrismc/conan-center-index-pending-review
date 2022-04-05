@@ -722,59 +722,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10104#pullrequestreview-931762162"
          }
       }
-   },
-   {
-      "Number": 10120,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-04-05T14:27:15Z",
-      "Recipe": "libxml2",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10120",
-      "LastCommitSHA": "0621a26609266191310e0862eb84e58c1dd041f4",
-      "LastCommitAt": "2022-04-05T14:26:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10122,
-      "OpenedBy": "l2dy",
-      "CreatedAt": "2022-04-05T15:30:17Z",
-      "Recipe": "wolfssl",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10122",
-      "LastCommitSHA": "2f058cb8b206d994daa7f800b1d6c605f25eb0b9",
-      "LastCommitAt": "2022-04-05T13:02:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10126,
-      "OpenedBy": "miklelappo",
-      "CreatedAt": "2022-04-05T19:48:06Z",
-      "Recipe": "perfetto",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10126",
-      "LastCommitSHA": "0dae90e28dcfbe4f79a5a606ef53920f5f163a78",
-      "LastCommitAt": "2022-04-05T19:46:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
