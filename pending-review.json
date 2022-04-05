@@ -211,19 +211,20 @@
       "LastCommitAt": "2022-03-29T16:59:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
             "MartinDelille",
-            "SSE4"
+            "SSE4",
+            "jwillikers"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-05T12:14:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9981#pullrequestreview-931756513"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-04-05T13:48:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9981#pullrequestreview-931891986"
          }
       }
    },
@@ -523,61 +524,6 @@
             "ReviewerName": "MartinDelille",
             "SubmittedAt": "2022-04-04T09:54:59Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10066#pullrequestreview-930110932"
-         }
-      }
-   },
-   {
-      "Number": 10069,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-04-01T17:55:17Z",
-      "Recipe": "diligent-tools",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10069",
-      "LastCommitSHA": "91b3e894fc1fe9da9232f5afca86dbdec1af0608",
-      "LastCommitAt": "2022-04-02T08:27:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-05T12:16:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10069#pullrequestreview-931758799"
-         }
-      }
-   },
-   {
-      "Number": 10073,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-02T03:21:21Z",
-      "Recipe": "libpqxx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10073",
-      "LastCommitSHA": "ef4a3017d810d4d768a3fbe47309d10ccc68f880",
-      "LastCommitAt": "2022-04-02T03:17:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "AndreyMlashkin",
-            "uilianries",
-            "jgsogo",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-05T12:17:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10073#pullrequestreview-931759457"
          }
       }
    },
