@@ -10,15 +10,17 @@
       "LastCommitAt": "2022-04-05T17:19:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-01T14:13:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8728#pullrequestreview-928994778"
+            "SubmittedAt": "2022-04-06T13:52:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8728#pullrequestreview-933533546"
          }
       }
    },
@@ -700,17 +702,18 @@
       "LastCommitAt": "2022-04-06T00:59:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "AndreyMlashkin"
+            "AndreyMlashkin",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2022-04-06T11:57:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10128#pullrequestreview-933365476"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-04-06T13:38:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10128#pullrequestreview-933511176"
          }
       }
    },
@@ -759,14 +762,32 @@
       }
    },
    {
-      "Number": 10140,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2022-04-06T13:23:28Z",
-      "Recipe": "rtm",
+      "Number": 10141,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-04-06T13:45:49Z",
+      "Recipe": "libcurl",
       "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10140",
-      "LastCommitSHA": "b7fc045466a410c6ad3921799971df87c7da9dcf",
-      "LastCommitAt": "2022-04-06T13:22:43Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10141",
+      "LastCommitSHA": "46bf7b3cc78afb742c5a3ea5af8fee05ad750bf3",
+      "LastCommitAt": "2022-04-06T13:39:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10142,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-04-06T13:56:50Z",
+      "Recipe": "ffmpeg",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10142",
+      "LastCommitSHA": "fb1d169a1d0e5264e9cf3a7a7dd9409fd04dc6c7",
+      "LastCommitAt": "2022-04-06T13:56:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
