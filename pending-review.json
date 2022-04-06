@@ -286,15 +286,17 @@
       "LastCommitAt": "2022-04-05T15:25:27Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-05T15:13:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9987#pullrequestreview-927256958"
+            "SubmittedAt": "2022-04-06T10:31:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9987#pullrequestreview-933256504"
          }
       }
    },
@@ -687,6 +689,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10103",
       "LastCommitSHA": "7fef80f0f526e377ec835e20e63fe4c3b7a68f5b",
       "LastCommitAt": "2022-04-05T08:15:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10126,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2022-04-05T19:48:06Z",
+      "Recipe": "perfetto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10126",
+      "LastCommitSHA": "ccd95aa5c8aa3cd3ce47ebca828795c98de8dd31",
+      "LastCommitAt": "2022-04-06T08:26:36Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
