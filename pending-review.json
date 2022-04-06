@@ -256,7 +256,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9981",
       "LastCommitSHA": "498d574784d878367bdb5dcb3298e8d51b168691",
       "LastCommitAt": "2022-03-29T16:59:29Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 2,
@@ -513,7 +513,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10047",
       "LastCommitSHA": "d342b3f7c5928d75f36d05f0db973cb6d747acb6",
       "LastCommitAt": "2022-04-01T05:43:22Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -737,6 +737,24 @@
             "SubmittedAt": "2022-04-06T06:57:53Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10129#pullrequestreview-932927487"
          }
+      }
+   },
+   {
+      "Number": 10131,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-04-06T07:52:02Z",
+      "Recipe": "harfbuzz",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10131",
+      "LastCommitSHA": "4898c8d97ba05a53a621a0956e83f343f6ba50d6",
+      "LastCommitAt": "2022-04-06T07:51:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
