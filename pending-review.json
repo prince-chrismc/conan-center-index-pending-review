@@ -770,8 +770,8 @@
       "Recipe": "libcurl",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10141",
-      "LastCommitSHA": "46bf7b3cc78afb742c5a3ea5af8fee05ad750bf3",
-      "LastCommitAt": "2022-04-06T13:39:57Z",
+      "LastCommitSHA": "e06cc2283f6dd91f38f06b3d356af9ff17f4731a",
+      "LastCommitAt": "2022-04-06T17:06:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -788,8 +788,8 @@
       "Recipe": "ffmpeg",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10142",
-      "LastCommitSHA": "953ab7cf0fa6a9b042e23ebaef3dc869e59367f1",
-      "LastCommitAt": "2022-04-06T14:22:21Z",
+      "LastCommitSHA": "733023151f50438e772ba1924dcb76983bc54226",
+      "LastCommitAt": "2022-04-06T17:11:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
