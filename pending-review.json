@@ -766,11 +766,18 @@
       "LastCommitAt": "2022-04-07T18:51:12Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "AndreyMlashkin"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2022-04-07T20:51:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10163#pullrequestreview-935663488"
+         }
       }
    }
 ]
