@@ -782,23 +782,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 10153,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2022-04-06T22:12:08Z",
-      "Recipe": "cglm",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10153",
-      "LastCommitSHA": "7b1b882101b458dc3a9d04a6cd5fe4bcef65eb61",
-      "LastCommitAt": "2022-04-06T22:10:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
