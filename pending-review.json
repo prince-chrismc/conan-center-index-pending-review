@@ -800,23 +800,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 10154,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-07T00:00:40Z",
-      "Recipe": "gdk-pixbuf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10154",
-      "LastCommitSHA": "7fe7473d6b25c20f70093938ab2bc0d259e814ab",
-      "LastCommitAt": "2022-04-07T00:08:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
