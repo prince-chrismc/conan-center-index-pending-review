@@ -490,15 +490,17 @@
       "LastCommitAt": "2022-04-07T12:01:19Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "rockdreamer",
-            "SubmittedAt": "2022-04-05T15:26:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10094#pullrequestreview-932070381"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-04-07T13:36:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10094#pullrequestreview-935080672"
          }
       }
    },
