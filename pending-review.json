@@ -620,5 +620,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10162,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-07T17:06:40Z",
+      "Recipe": "cppkafka",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10162",
+      "LastCommitSHA": "4b0e8f37bff1f2abbc76be46885a6a6fc468fc4f",
+      "LastCommitAt": "2022-04-07T17:07:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
