@@ -604,26 +604,21 @@
       }
    },
    {
-      "Number": 10153,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2022-04-06T22:12:08Z",
-      "Recipe": "cglm",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10153",
-      "LastCommitSHA": "bede53b83acec26ecd80c9e6ca7c25ff90550d27",
-      "LastCommitAt": "2022-04-07T16:30:26Z",
-      "CciBotPassed": false,
+      "Number": 10152,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2022-04-06T21:45:40Z",
+      "Recipe": "pulseaudio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10152",
+      "LastCommitSHA": "1dba376e9378b0b1fb466a947c2cbc02d9f687ce",
+      "LastCommitAt": "2022-04-06T21:44:34Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-07T08:48:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10153#pullrequestreview-934706845"
-         }
+         "Blockers": null
       }
    },
    {
