@@ -756,5 +756,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10185,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-04-08T16:27:01Z",
+      "Recipe": "cpr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10185",
+      "LastCommitSHA": "fe07165c3e502e928f8c27d45d80472fab344724",
+      "LastCommitAt": "2022-04-08T16:07:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
