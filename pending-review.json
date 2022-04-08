@@ -660,25 +660,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10158",
       "LastCommitSHA": "16189a5751cd54e2449df4b5dccf630d8568f1d8",
       "LastCommitAt": "2022-04-07T12:29:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10161,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-04-07T16:36:36Z",
-      "Recipe": "daw_header_libraries",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10161",
-      "LastCommitSHA": "5e2e1b914cc14cdb204460e1c7265396693fabab",
-      "LastCommitAt": "2022-04-07T12:46:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
