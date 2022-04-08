@@ -6,8 +6,8 @@
       "Recipe": "drwav",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7927",
-      "LastCommitSHA": "9532fe71000796818a40fc01721ed2e485582d28",
-      "LastCommitAt": "2022-04-08T21:52:32Z",
+      "LastCommitSHA": "d10ce422ae81ffcc1ae3e66cdfa935d9f631c35f",
+      "LastCommitAt": "2022-04-08T22:30:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 8,
@@ -692,31 +692,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-04-07T08:48:53Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10153#pullrequestreview-934706845"
-         }
-      }
-   },
-   {
-      "Number": 10157,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-04-07T12:20:14Z",
-      "Recipe": "pcre2",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10157",
-      "LastCommitSHA": "1cf79028a75d7d8533dcd421efcb5c21f6396a59",
-      "LastCommitAt": "2022-04-07T12:18:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-04-07T16:31:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10157#pullrequestreview-935370711"
          }
       }
    },
