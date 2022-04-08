@@ -627,31 +627,6 @@
       }
    },
    {
-      "Number": 10155,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-04-07T12:20:12Z",
-      "Recipe": "libpng",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10155",
-      "LastCommitSHA": "a98de6a6c568568ca2eeeb179614b2fd808de4cc",
-      "LastCommitAt": "2022-04-07T12:19:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-04-07T16:31:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10155#pullrequestreview-935371113"
-         }
-      }
-   },
-   {
       "Number": 10158,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-04-07T12:29:30Z",
@@ -667,49 +642,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 10162,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-07T17:06:40Z",
-      "Recipe": "cppkafka",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10162",
-      "LastCommitSHA": "4b0e8f37bff1f2abbc76be46885a6a6fc468fc4f",
-      "LastCommitAt": "2022-04-07T17:07:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10163,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-07T18:50:40Z",
-      "Recipe": "glslang",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10163",
-      "LastCommitSHA": "de23c4d83cf48a0286fb7413e0ec34a9334d61ad",
-      "LastCommitAt": "2022-04-07T18:51:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            "AndreyMlashkin"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2022-04-07T20:51:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10163#pullrequestreview-935663488"
-         }
       }
    }
 ]
