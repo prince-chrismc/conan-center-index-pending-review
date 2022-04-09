@@ -867,5 +867,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10185#pullrequestreview-937104671"
          }
       }
+   },
+   {
+      "Number": 10187,
+      "OpenedBy": "rfn123",
+      "CreatedAt": "2022-04-09T09:38:09Z",
+      "Recipe": "pagmo2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10187",
+      "LastCommitSHA": "0ff1aff7a152cc7ccf777d4b08ed144668742057",
+      "LastCommitAt": "2022-04-09T09:23:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
