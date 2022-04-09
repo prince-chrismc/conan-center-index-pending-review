@@ -486,16 +486,14 @@
       "Recipe": "diligent-core",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10093",
-      "LastCommitSHA": "23393b50a96a53b3d5904bb6d23187b079a6921b",
-      "LastCommitAt": "2022-04-07T14:19:38Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "98cee2d3d3e07028f6c6abf07ce6931e318528e0",
+      "LastCommitAt": "2022-04-09T13:46:21Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "intelligide"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
@@ -639,15 +637,40 @@
       "LastCommitAt": "2022-04-08T22:10:19Z",
       "CciBotPassed": true,
       "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            "AndreyMlashkin"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2022-04-09T13:47:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10128#pullrequestreview-937131463"
+         }
+      }
+   },
+   {
+      "Number": 10137,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2022-04-06T12:13:40Z",
+      "Recipe": "imgui",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10137",
+      "LastCommitSHA": "ebce8556d61729474b85132c469faa5abab904fd",
+      "LastCommitAt": "2022-04-07T18:33:21Z",
+      "CciBotPassed": true,
+      "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-07T07:45:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10128#pullrequestreview-934619490"
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-04-06T22:14:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10137#pullrequestreview-934204465"
          }
       }
    },
