@@ -703,15 +703,17 @@
       "LastCommitAt": "2022-04-08T14:04:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-08T07:19:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10152#pullrequestreview-936013127"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-04-09T16:42:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10152#pullrequestreview-937157847"
          }
       }
    },
@@ -904,31 +906,6 @@
       }
    },
    {
-      "Number": 10185,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-04-08T16:27:01Z",
-      "Recipe": "cpr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10185",
-      "LastCommitSHA": "fe07165c3e502e928f8c27d45d80472fab344724",
-      "LastCommitAt": "2022-04-08T16:07:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-04-09T08:55:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10185#pullrequestreview-937104671"
-         }
-      }
-   },
-   {
       "Number": 10187,
       "OpenedBy": "rfn123",
       "CreatedAt": "2022-04-09T09:38:09Z",
@@ -951,6 +928,24 @@
             "SubmittedAt": "2022-04-09T10:26:35Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10187#pullrequestreview-937115904"
          }
+      }
+   },
+   {
+      "Number": 10189,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-04-09T16:55:35Z",
+      "Recipe": "aws-sdk-cpp",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10189",
+      "LastCommitSHA": "f1a6299311abaf4e3b9d777529c3f045527753f9",
+      "LastCommitAt": "2022-04-09T16:54:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
