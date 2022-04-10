@@ -804,7 +804,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10206",
       "LastCommitSHA": "79f57383e916807e59de73a75c602f1f68672d8a",
       "LastCommitAt": "2022-04-10T09:00:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -980,6 +980,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10221",
       "LastCommitSHA": "a0d944ff691c29b838ff8011014458fec68f89da",
       "LastCommitAt": "2022-04-10T19:13:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10223,
+      "OpenedBy": "l2dy",
+      "CreatedAt": "2022-04-10T21:20:27Z",
+      "Recipe": "libnghttp2",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10223",
+      "LastCommitSHA": "76fa727479615bb2df64f572ca195a2f618f6c84",
+      "LastCommitAt": "2022-04-10T18:58:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
