@@ -8,7 +8,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7927",
       "LastCommitSHA": "d10ce422ae81ffcc1ae3e66cdfa935d9f631c35f",
       "LastCommitAt": "2022-04-08T22:30:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -654,6 +654,29 @@
       }
    },
    {
+      "Number": 10198,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-10T00:31:36Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10198",
+      "LastCommitSHA": "cb6b0ee7fafc34a6602e3aa3ddd19a9b1c5c5178",
+      "LastCommitAt": "2022-04-10T08:08:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-04-10T06:12:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10198#pullrequestreview-937210669"
+         }
+      }
+   },
+   {
       "Number": 10199,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-04-10T00:41:13Z",
@@ -675,6 +698,31 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2022-04-10T06:11:22Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10199#pullrequestreview-937210606"
+         }
+      }
+   },
+   {
+      "Number": 10200,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-10T00:45:01Z",
+      "Recipe": "uriparser",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10200",
+      "LastCommitSHA": "0d79eb100da28b4eb82b96783a32a691476a7bc6",
+      "LastCommitAt": "2022-04-10T00:44:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-04-10T06:12:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10200#pullrequestreview-937210685"
          }
       }
    },
@@ -701,6 +749,60 @@
             "SubmittedAt": "2022-04-10T06:05:15Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10201#pullrequestreview-937210177"
          }
+      }
+   },
+   {
+      "Number": 10203,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-10T08:19:35Z",
+      "Recipe": "wt",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10203",
+      "LastCommitSHA": "1171333c357644e6d6f28641d9d9a944e6dc533b",
+      "LastCommitAt": "2022-04-10T08:19:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10205,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-10T08:31:50Z",
+      "Recipe": "mongo-c-driver",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10205",
+      "LastCommitSHA": "fd23ad78d2434f58f4eb5c3427e35b8b05ab30dd",
+      "LastCommitAt": "2022-04-10T08:30:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10206,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-10T09:00:28Z",
+      "Recipe": "protobuf",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10206",
+      "LastCommitSHA": "79f57383e916807e59de73a75c602f1f68672d8a",
+      "LastCommitAt": "2022-04-10T09:00:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
