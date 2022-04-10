@@ -650,24 +650,6 @@
       }
    },
    {
-      "Number": 10197,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-10T00:29:09Z",
-      "Recipe": "c-blosc",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10197",
-      "LastCommitSHA": "9ee8e67b7476eeab96c7399b143a608b6c92b88c",
-      "LastCommitAt": "2022-04-10T00:28:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10199,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-04-10T00:41:13Z",
