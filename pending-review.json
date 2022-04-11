@@ -1205,11 +1205,18 @@
       "LastCommitAt": "2022-04-11T18:13:15Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-04-11T18:25:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10248#pullrequestreview-938423830"
+         }
       }
    },
    {
@@ -1228,6 +1235,31 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 10250,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-11T18:23:48Z",
+      "Recipe": "leptonica",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10250",
+      "LastCommitSHA": "688705a349bedd3c059d716dc8a96c2e236ab761",
+      "LastCommitAt": "2022-04-11T18:22:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-04-11T18:26:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10250#pullrequestreview-938424461"
+         }
       }
    }
 ]
