@@ -907,6 +907,24 @@
       }
    },
    {
+      "Number": 10215,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-04-10T16:50:45Z",
+      "Recipe": "tomlplusplus",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10215",
+      "LastCommitSHA": "d0497c4b63921dec1c34dd9af440551293cda95b",
+      "LastCommitAt": "2022-04-11T02:08:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10217,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-04-10T18:15:57Z",
@@ -976,7 +994,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10226",
       "LastCommitSHA": "82aab5f318cd598c712c279d09af5114220246b9",
       "LastCommitAt": "2022-04-10T23:52:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1026,7 +1044,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10228",
       "LastCommitSHA": "86d3f1c257d5dae3b4e76bd4f089f985b250ea27",
       "LastCommitAt": "2022-04-10T23:58:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
