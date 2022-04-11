@@ -974,6 +974,31 @@
       }
    },
    {
+      "Number": 10229,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-11T00:10:22Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10229",
+      "LastCommitSHA": "83ef6f5b354bebc6e7b91c10200cc29058c3e2aa",
+      "LastCommitAt": "2022-04-11T00:09:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2022-04-11T12:59:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10229#pullrequestreview-937963544"
+         }
+      }
+   },
+   {
       "Number": 10234,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-04-11T11:44:37Z",
@@ -1083,6 +1108,29 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2022-04-11T14:19:01Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10240#pullrequestreview-938084324"
+         }
+      }
+   },
+   {
+      "Number": 10241,
+      "OpenedBy": "a4z",
+      "CreatedAt": "2022-04-11T12:54:42Z",
+      "Recipe": "sqlcipher",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10241",
+      "LastCommitSHA": "3e41eadd68c1b9c2dee5bd2681c0ad1528cc5bc1",
+      "LastCommitAt": "2022-04-11T16:26:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-04-11T14:18:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10241#pullrequestreview-938083812"
          }
       }
    },
