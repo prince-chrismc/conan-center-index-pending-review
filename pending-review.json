@@ -184,7 +184,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9997",
       "LastCommitSHA": "9b83af671fe35f1fd72f9e1041da5c27b96a706c",
       "LastCommitAt": "2022-04-11T09:37:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -1107,6 +1107,24 @@
             "SubmittedAt": "2022-04-11T13:55:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10243#pullrequestreview-938047383"
          }
+      }
+   },
+   {
+      "Number": 10244,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2022-04-11T14:46:24Z",
+      "Recipe": "vectorclass",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10244",
+      "LastCommitSHA": "5439a6ad3aa8e8a6dd2728eedc0216976da61674",
+      "LastCommitAt": "2022-04-11T14:44:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
