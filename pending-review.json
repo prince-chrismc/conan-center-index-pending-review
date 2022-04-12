@@ -1348,7 +1348,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10270",
       "LastCommitSHA": "2eb3d3b41e08d68dd88a2d4ead3af1df1b10fcbb",
       "LastCommitAt": "2022-04-12T16:37:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1382,8 +1382,67 @@
       "Recipe": "structopt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10272",
-      "LastCommitSHA": "0ce71c18a9ab9e0e8455fe6ffd567eada271f749",
-      "LastCommitAt": "2022-04-12T17:14:54Z",
+      "LastCommitSHA": "cc9e60f9d697d9f0fa19e3943cdcabdb39ef1161",
+      "LastCommitAt": "2022-04-12T18:31:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "tbeu",
+            "SubmittedAt": "2022-04-12T18:28:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10272#pullrequestreview-939980432"
+         }
+      }
+   },
+   {
+      "Number": 10273,
+      "OpenedBy": "tbeu",
+      "CreatedAt": "2022-04-12T18:23:53Z",
+      "Recipe": "thrift",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10273",
+      "LastCommitSHA": "7d68057067194292e8b8910e4bbeae2897fe570b",
+      "LastCommitAt": "2022-04-12T18:22:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10274,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-04-12T18:29:23Z",
+      "Recipe": "visit_struct",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10274",
+      "LastCommitSHA": "581e6f0be495e7b0aa96e925b4419c1410a438d4",
+      "LastCommitAt": "2022-04-12T18:26:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10275,
+      "OpenedBy": "tbeu",
+      "CreatedAt": "2022-04-12T18:41:19Z",
+      "Recipe": "wayland",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10275",
+      "LastCommitSHA": "77c23a6ece223da627da6bcb421ed2ef4de41fe7",
+      "LastCommitAt": "2022-04-12T18:40:38Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
