@@ -978,24 +978,6 @@
       }
    },
    {
-      "Number": 10244,
-      "OpenedBy": "Nekto89",
-      "CreatedAt": "2022-04-11T14:46:24Z",
-      "Recipe": "vectorclass",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10244",
-      "LastCommitSHA": "5439a6ad3aa8e8a6dd2728eedc0216976da61674",
-      "LastCommitAt": "2022-04-11T14:44:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10245,
       "OpenedBy": "l2dy",
       "CreatedAt": "2022-04-11T15:12:55Z",
@@ -1018,24 +1000,6 @@
             "SubmittedAt": "2022-04-12T09:22:17Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10245#pullrequestreview-939225636"
          }
-      }
-   },
-   {
-      "Number": 10247,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-11T17:58:58Z",
-      "Recipe": "libnghttp2",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10247",
-      "LastCommitSHA": "dc99ad27892cac047cfcee639caa050a4e6cdc8d",
-      "LastCommitAt": "2022-04-11T17:57:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
