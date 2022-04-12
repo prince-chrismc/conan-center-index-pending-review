@@ -1029,31 +1029,6 @@
       }
    },
    {
-      "Number": 10249,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-11T18:17:56Z",
-      "Recipe": "fltk",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10249",
-      "LastCommitSHA": "108efaeddcd22562bfcb12fa3a54be431422159b",
-      "LastCommitAt": "2022-04-11T18:17:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-12T09:28:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10249#pullrequestreview-939235303"
-         }
-      }
-   },
-   {
       "Number": 10250,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-04-11T18:23:48Z",
@@ -1102,42 +1077,6 @@
             "SubmittedAt": "2022-04-12T09:26:28Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10253#pullrequestreview-939232371"
          }
-      }
-   },
-   {
-      "Number": 10254,
-      "OpenedBy": "tbeu",
-      "CreatedAt": "2022-04-11T20:03:39Z",
-      "Recipe": "libxlsxwriter",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10254",
-      "LastCommitSHA": "93a37dd211b37511253bda7997346d5ed3fd817f",
-      "LastCommitAt": "2022-04-11T20:02:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10264,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-04-12T09:58:26Z",
-      "Recipe": "sdl",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10264",
-      "LastCommitSHA": "aefb899d5c3a37365ed32927f8bc20b7df09c3b3",
-      "LastCommitAt": "2022-04-12T09:58:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -1244,7 +1183,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10273",
       "LastCommitSHA": "7d68057067194292e8b8910e4bbeae2897fe570b",
       "LastCommitAt": "2022-04-12T18:22:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
