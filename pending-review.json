@@ -625,6 +625,24 @@
       }
    },
    {
+      "Number": 10194,
+      "OpenedBy": "StellaSmith",
+      "CreatedAt": "2022-04-09T22:11:35Z",
+      "Recipe": "edyn",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10194",
+      "LastCommitSHA": "9d00df004ab2897c7ffb16d0ba0cf98c7e18ccf6",
+      "LastCommitAt": "2022-04-12T20:13:38Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10198,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-04-10T00:31:36Z",
@@ -1175,15 +1193,15 @@
       }
    },
    {
-      "Number": 10276,
-      "OpenedBy": "tbeu",
-      "CreatedAt": "2022-04-12T19:50:10Z",
-      "Recipe": "cpprestsdk",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10276",
-      "LastCommitSHA": "2d5d39d66a98cafaf30916f0c3629a2533fdf481",
-      "LastCommitAt": "2022-04-12T19:49:33Z",
-      "CciBotPassed": false,
+      "Number": 10274,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-04-12T18:29:23Z",
+      "Recipe": "visit_struct",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10274",
+      "LastCommitSHA": "7865649b35d5d5eb182a8497c7d7c30836d8f7fa",
+      "LastCommitAt": "2022-04-13T00:38:05Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
