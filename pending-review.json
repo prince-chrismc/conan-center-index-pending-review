@@ -635,33 +635,6 @@
       }
    },
    {
-      "Number": 10250,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-11T18:23:48Z",
-      "Recipe": "leptonica",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10250",
-      "LastCommitSHA": "688705a349bedd3c059d716dc8a96c2e236ab761",
-      "LastCommitAt": "2022-04-11T18:22:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-13T07:21:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10250#pullrequestreview-940518390"
-         }
-      }
-   },
-   {
       "Number": 10252,
       "OpenedBy": "tbeu",
       "CreatedAt": "2022-04-11T19:29:02Z",
@@ -835,31 +808,6 @@
             "ReviewerName": "Nekto89",
             "SubmittedAt": "2022-04-13T08:44:49Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10277#pullrequestreview-940627775"
-         }
-      }
-   },
-   {
-      "Number": 10279,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-04-13T06:40:08Z",
-      "Recipe": "fontconfig",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10279",
-      "LastCommitSHA": "c5106e2d0c53a52f63bf2cf607f5ac206c11cb4f",
-      "LastCommitAt": "2022-04-13T06:39:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            "PatSche"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "PatSche",
-            "SubmittedAt": "2022-04-13T11:18:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10279#pullrequestreview-940811879"
          }
       }
    },
