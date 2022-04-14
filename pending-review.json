@@ -865,5 +865,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10304,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-04-14T16:08:15Z",
+      "Recipe": "cairo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10304",
+      "LastCommitSHA": "fc1e32a16bf92c2f2af24452485a66c7217d0a5b",
+      "LastCommitAt": "2022-04-14T17:02:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
