@@ -967,11 +967,18 @@
       "LastCommitAt": "2022-04-15T06:53:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-04-15T08:29:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10315#pullrequestreview-943255933"
+         }
       }
    }
 ]
