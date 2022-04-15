@@ -814,7 +814,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10299",
       "LastCommitSHA": "516e69cb9b6e1ce5ad258a922f8ad67fe8bf6d38",
       "LastCommitAt": "2022-04-14T09:35:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -967,7 +967,7 @@
       "LastCommitAt": "2022-04-15T06:53:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -975,10 +975,46 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-04-15T08:29:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10315#pullrequestreview-943255933"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-04-15T09:17:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10315#pullrequestreview-943287512"
          }
+      }
+   },
+   {
+      "Number": 10318,
+      "OpenedBy": "l2dy",
+      "CreatedAt": "2022-04-15T09:28:25Z",
+      "Recipe": "amqp-cpp",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10318",
+      "LastCommitSHA": "e477b0291f7d31d0cf4c39ac2fb7b79a35f589f1",
+      "LastCommitAt": "2022-04-15T06:34:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10320,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-15T10:06:25Z",
+      "Recipe": "tinyexr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10320",
+      "LastCommitSHA": "01cfae5ca09a89bf5112be19e190bbef5d0dd96d",
+      "LastCommitAt": "2022-04-15T10:05:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
