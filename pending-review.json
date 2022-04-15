@@ -860,6 +860,24 @@
       }
    },
    {
+      "Number": 10306,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-04-14T16:21:10Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10306",
+      "LastCommitSHA": "da64822953bab1e395fab4715bfb0efa5fbb24e8",
+      "LastCommitAt": "2022-04-14T16:43:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10308,
       "OpenedBy": "toge",
       "CreatedAt": "2022-04-14T18:26:19Z",
@@ -930,6 +948,24 @@
       "LastCommitSHA": "d9bda2eb96cceec6b5c84eab2eb97d08e3fde76d",
       "LastCommitAt": "2022-04-15T00:33:14Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10315,
+      "OpenedBy": "taoyouh",
+      "CreatedAt": "2022-04-15T06:51:37Z",
+      "Recipe": "libepoxy",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10315",
+      "LastCommitSHA": "9f514e12deb17c5ab97a17b4e72bd4a02d57f1ab",
+      "LastCommitAt": "2022-04-15T06:53:00Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
