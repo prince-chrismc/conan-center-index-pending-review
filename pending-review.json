@@ -588,7 +588,7 @@
       "LastCommitAt": "2022-04-13T20:16:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 6,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -597,9 +597,9 @@
          ],
          "Blockers": [],
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-04-15T20:38:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10252#pullrequestreview-943729707"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-04-15T21:15:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10252#pullrequestreview-943746218"
          }
       }
    },
@@ -1159,6 +1159,24 @@
       "LastCommitSHA": "a98e9c555f1b97a11cf5e4083055930727ad4b4d",
       "LastCommitAt": "2022-04-15T12:34:43Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10334,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-15T21:55:29Z",
+      "Recipe": "podofo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10334",
+      "LastCommitSHA": "ba2b0eed55a1e9da5428c4d6768b53712cba64b3",
+      "LastCommitAt": "2022-04-15T21:51:32Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
