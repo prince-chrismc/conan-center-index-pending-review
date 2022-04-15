@@ -588,19 +588,18 @@
       "LastCommitAt": "2022-04-13T20:16:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SpaceIm"
-         ],
-         "Blockers": [
+            "SpaceIm",
             "jgsogo"
          ],
+         "Blockers": [],
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-04-13T20:24:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10252#pullrequestreview-941517597"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-04-15T20:38:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10252#pullrequestreview-943729707"
          }
       }
    },
@@ -1124,6 +1123,24 @@
       "LastCommitSHA": "bc293a98596818d103e123933ad07efd0ed3937b",
       "LastCommitAt": "2022-04-15T12:54:50Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10330,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-04-15T14:16:42Z",
+      "Recipe": "librdkafka",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10330",
+      "LastCommitSHA": "3b951fa26ab0c67fd9b9f531969441704ec395ae",
+      "LastCommitAt": "2022-04-15T14:15:12Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
