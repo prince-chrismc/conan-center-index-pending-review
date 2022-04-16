@@ -680,33 +680,6 @@
       }
    },
    {
-      "Number": 10289,
-      "OpenedBy": "Croydon",
-      "CreatedAt": "2022-04-13T12:59:00Z",
-      "Recipe": "cmake",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10289",
-      "LastCommitSHA": "0a6766dc204c88fa6d8b0ac6bf72c2ddf5dad7ac",
-      "LastCommitAt": "2022-04-13T13:42:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "jgsogo",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-16T07:49:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10289#pullrequestreview-943835542"
-         }
-      }
-   },
-   {
       "Number": 10292,
       "OpenedBy": "jsantorek",
       "CreatedAt": "2022-04-13T15:54:18Z",
@@ -740,33 +713,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 10298,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-14T09:39:47Z",
-      "Recipe": "hdrhistogram-c",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10298",
-      "LastCommitSHA": "62c02e60005b9b0ae055e6b8687c0fad47073b36",
-      "LastCommitAt": "2022-04-14T09:38:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "toge",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-16T07:49:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10298#pullrequestreview-943835550"
-         }
       }
    },
    {
