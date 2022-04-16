@@ -989,24 +989,6 @@
       }
    },
    {
-      "Number": 10337,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-04-16T11:51:38Z",
-      "Recipe": "cairo",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10337",
-      "LastCommitSHA": "b0ee24e64758f94612d159410ac549d8f4602ee1",
-      "LastCommitAt": "2022-04-16T11:50:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10339,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-04-16T12:10:23Z",
