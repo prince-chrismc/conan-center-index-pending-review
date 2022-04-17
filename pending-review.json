@@ -867,32 +867,6 @@
       }
    },
    {
-      "Number": 10322,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-04-15T10:38:36Z",
-      "Recipe": "glib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10322",
-      "LastCommitSHA": "84485042aa8059f481fc6854dca0674e1ae9acf1",
-      "LastCommitAt": "2022-04-15T10:38:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-15T13:02:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10322#pullrequestreview-943401406"
-         }
-      }
-   },
-   {
       "Number": 10323,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-04-15T10:46:16Z",
