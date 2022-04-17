@@ -927,14 +927,14 @@
       }
    },
    {
-      "Number": 10345,
-      "OpenedBy": "l2dy",
-      "CreatedAt": "2022-04-17T12:06:51Z",
-      "Recipe": "caf",
+      "Number": 10346,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-04-17T14:40:11Z",
+      "Recipe": "cppcheck",
       "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10345",
-      "LastCommitSHA": "bfa4cad7395138f1780356c52a223da3a8ef5ba3",
-      "LastCommitAt": "2022-04-17T06:52:27Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10346",
+      "LastCommitSHA": "dcf0d4e4d3c06029b11873bc56bf59341f22eaf3",
+      "LastCommitAt": "2022-04-17T12:57:28Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
