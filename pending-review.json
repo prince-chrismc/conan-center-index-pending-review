@@ -8,7 +8,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7927",
       "LastCommitSHA": "66fc649e3276ddeffe750e656a017af30dba4029",
       "LastCommitAt": "2022-04-18T10:57:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 11,
          "ValidApprovals": 0,
@@ -517,7 +517,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10270",
       "LastCommitSHA": "73907fb47839cba0113788c7f25a97d982359cdf",
       "LastCommitAt": "2022-04-18T11:15:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -927,21 +927,28 @@
       }
    },
    {
-      "Number": 10359,
-      "OpenedBy": "sujankota",
-      "CreatedAt": "2022-04-18T14:11:49Z",
-      "Recipe": "opentdf-client",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10359",
-      "LastCommitSHA": "a1c460c25ace0c1d93a2e0ada7103181e73dffbe",
-      "LastCommitAt": "2022-04-18T12:48:39Z",
+      "Number": 10360,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-04-18T14:18:37Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10360",
+      "LastCommitSHA": "426e2b9196359244694a68ca9530686e1cc4b4ef",
+      "LastCommitAt": "2022-04-18T14:15:25Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-04-18T14:23:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10360#pullrequestreview-944453855"
+         }
       }
    }
 ]
