@@ -745,6 +745,24 @@
       }
    },
    {
+      "Number": 10313,
+      "OpenedBy": "tt4g",
+      "CreatedAt": "2022-04-14T22:31:48Z",
+      "Recipe": "libpqxx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10313",
+      "LastCommitSHA": "6e4ef62ce927aa8c0bca9e3ef0a49d0d618621cf",
+      "LastCommitAt": "2022-04-15T14:13:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10322,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-04-15T10:38:36Z",
@@ -997,6 +1015,49 @@
       "LastCommitSHA": "fe1d65c7d5ec5a5b3f9b6c19c4124045247b3cd8",
       "LastCommitAt": "2022-04-18T16:43:19Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10368,
+      "OpenedBy": "maksim-0",
+      "CreatedAt": "2022-04-18T20:15:26Z",
+      "Recipe": "autoconf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10368",
+      "LastCommitSHA": "d3a2f6c019a8cac7f5dc55f82dc418e39daec225",
+      "LastCommitAt": "2022-04-18T21:19:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2022-04-18T22:06:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10368#pullrequestreview-944870412"
+         }
+      }
+   },
+   {
+      "Number": 10369,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-04-18T22:14:56Z",
+      "Recipe": "quill",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10369",
+      "LastCommitSHA": "656b8e32db173cd3e0fdfcd1d08971cdab9db403",
+      "LastCommitAt": "2022-04-17T16:04:10Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
