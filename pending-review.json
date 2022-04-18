@@ -806,15 +806,17 @@
       "LastCommitAt": "2022-04-15T16:17:25Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-04-15T16:04:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10325#pullrequestreview-943525012"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-04-18T20:55:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10325#pullrequestreview-944818717"
          }
       }
    },
@@ -995,42 +997,6 @@
       "LastCommitSHA": "fe1d65c7d5ec5a5b3f9b6c19c4124045247b3cd8",
       "LastCommitAt": "2022-04-18T16:43:19Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10367,
-      "OpenedBy": "chausner",
-      "CreatedAt": "2022-04-18T19:47:01Z",
-      "Recipe": "hash-library",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10367",
-      "LastCommitSHA": "b876fd3c9fe609681f9c693412af3bce8bb134b4",
-      "LastCommitAt": "2022-04-18T19:58:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10368,
-      "OpenedBy": "maksim-0",
-      "CreatedAt": "2022-04-18T20:15:26Z",
-      "Recipe": "autoconf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10368",
-      "LastCommitSHA": "8fc0ffc3105d11bdb3d024057dfccd70147993bf",
-      "LastCommitAt": "2022-04-18T20:12:47Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
