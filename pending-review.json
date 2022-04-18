@@ -491,6 +491,24 @@
       }
    },
    {
+      "Number": 10246,
+      "OpenedBy": "yzsolt",
+      "CreatedAt": "2022-04-11T16:16:13Z",
+      "Recipe": "spdlog",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10246",
+      "LastCommitSHA": "4d65a5fc340a923a4f20c0efa2d324060d66e5b5",
+      "LastCommitAt": "2022-04-15T07:23:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10261,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-04-12T08:53:52Z",
@@ -977,6 +995,42 @@
       "LastCommitSHA": "fe1d65c7d5ec5a5b3f9b6c19c4124045247b3cd8",
       "LastCommitAt": "2022-04-18T16:43:19Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10367,
+      "OpenedBy": "chausner",
+      "CreatedAt": "2022-04-18T19:47:01Z",
+      "Recipe": "hash-library",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10367",
+      "LastCommitSHA": "b876fd3c9fe609681f9c693412af3bce8bb134b4",
+      "LastCommitAt": "2022-04-18T19:58:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10368,
+      "OpenedBy": "maksim-0",
+      "CreatedAt": "2022-04-18T20:15:26Z",
+      "Recipe": "autoconf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10368",
+      "LastCommitSHA": "8fc0ffc3105d11bdb3d024057dfccd70147993bf",
+      "LastCommitAt": "2022-04-18T20:12:47Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
