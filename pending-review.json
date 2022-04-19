@@ -159,18 +159,19 @@
       "LastCommitAt": "2022-04-11T09:37:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 8,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "jgsogo"
+            "jgsogo",
+            "AndreyMlashkin"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-04-18T06:52:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9997#pullrequestreview-944135596"
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2022-04-19T06:13:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9997#pullrequestreview-945103479"
          }
       }
    },
@@ -1094,6 +1095,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10370",
       "LastCommitSHA": "7ce8d026631960061ef792b2be8d7a89b7d3e025",
       "LastCommitAt": "2022-04-19T00:31:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10372,
+      "OpenedBy": "taoyouh",
+      "CreatedAt": "2022-04-19T04:34:38Z",
+      "Recipe": "bison",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10372",
+      "LastCommitSHA": "86da500ff3e67628b5a5ceba3c4d658529d4fdf8",
+      "LastCommitAt": "2022-04-19T04:29:48Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
