@@ -101,6 +101,31 @@
       }
    },
    {
+      "Number": 9947,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-03-27T11:22:04Z",
+      "Recipe": "vulkan-memory-allocator",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9947",
+      "LastCommitSHA": "ae82c9366e0d24865f5a13e01e9d663e570600e2",
+      "LastCommitAt": "2022-04-19T18:54:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-04-19T19:01:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9947#pullrequestreview-946166446"
+         }
+      }
+   },
+   {
       "Number": 9997,
       "OpenedBy": "SSE4",
       "CreatedAt": "2022-03-29T13:27:47Z",
@@ -650,17 +675,18 @@
       "LastCommitAt": "2022-04-15T12:46:46Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-18T10:45:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10323#pullrequestreview-944288899"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-04-19T19:34:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10323#pullrequestreview-946199907"
          }
       }
    },
@@ -883,6 +909,24 @@
             "SubmittedAt": "2022-04-19T13:25:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10373#pullrequestreview-945713053"
          }
+      }
+   },
+   {
+      "Number": 10376,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-04-19T09:40:44Z",
+      "Recipe": "gst-plugins-base",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10376",
+      "LastCommitSHA": "3665fd67e0469fdab563ca8fcf82d3f01a58aba2",
+      "LastCommitAt": "2022-04-19T09:40:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
