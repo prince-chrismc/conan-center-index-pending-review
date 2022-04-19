@@ -886,24 +886,6 @@
       }
    },
    {
-      "Number": 10378,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-04-19T09:46:04Z",
-      "Recipe": "pango",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10378",
-      "LastCommitSHA": "847a0f17bf5be6d6d53e4c6d9f63e0da20d61922",
-      "LastCommitAt": "2022-04-19T09:45:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10379,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-04-19T10:47:15Z",
@@ -983,11 +965,18 @@
       "LastCommitAt": "2022-04-19T16:09:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-04-19T19:03:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10387#pullrequestreview-946167804"
+         }
       }
    },
    {
