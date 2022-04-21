@@ -159,9 +159,9 @@
       "Recipe": "qcustomplot",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10115",
-      "LastCommitSHA": "d5e16cd54d20b374e96e201030640998a0bee4ce",
-      "LastCommitAt": "2022-04-05T12:07:42Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c36a3e99ffed4faf079f139e17cca5b5172119ec",
+      "LastCommitAt": "2022-04-21T17:53:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -204,7 +204,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10154",
       "LastCommitSHA": "00a5b6f159f770fa5978f71a8188b066c78fd0b5",
       "LastCommitAt": "2022-04-21T16:54:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -675,6 +675,29 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2022-04-21T09:59:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10405#pullrequestreview-948368328"
+         }
+      }
+   },
+   {
+      "Number": 10406,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2022-04-20T23:47:21Z",
+      "Recipe": "binutils",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10406",
+      "LastCommitSHA": "fe25185ecbbff387b6b65a8eb4ec1fec694c3ec7",
+      "LastCommitAt": "2022-04-21T17:06:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-04-21T06:39:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10406#pullrequestreview-948123670"
          }
       }
    },
