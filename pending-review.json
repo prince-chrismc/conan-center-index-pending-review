@@ -599,25 +599,21 @@
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-04-14T19:32:28Z",
       "Recipe": "nss",
-      "Change": 2,
+      "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10310",
-      "LastCommitSHA": "26b66c4f2fd32c45c43cf61e9f994a4492f16ef7",
-      "LastCommitAt": "2022-04-14T19:32:11Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a66ac48e324cffc969d2cf263dbb84b7e53e11c1",
+      "LastCommitAt": "2022-04-21T09:18:36Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "uilianries",
-            "SSE4"
-         ],
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-18T15:28:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10310#pullrequestreview-944520592"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-04-21T09:03:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10310#pullrequestreview-948295721"
          }
       }
    },
