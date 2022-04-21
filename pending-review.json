@@ -506,7 +506,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10382",
       "LastCommitSHA": "ee484e301e2929ddd0a5582d13b0670eefef10c4",
       "LastCommitAt": "2022-04-19T16:35:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -531,7 +531,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10383",
       "LastCommitSHA": "d5db19e2ea11cd619761e6ff756f1eba9b6e98e4",
       "LastCommitAt": "2022-04-20T12:10:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -772,6 +772,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10421",
       "LastCommitSHA": "55fadd5c89d08b9d9d23c9d75e46acb3f41a7c76",
       "LastCommitAt": "2022-04-21T12:29:09Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10423,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-04-21T13:11:49Z",
+      "Recipe": "cppcheck",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10423",
+      "LastCommitSHA": "268b045fd486ff8a43246314e21b57b6d0b982e3",
+      "LastCommitAt": "2022-04-21T13:17:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
