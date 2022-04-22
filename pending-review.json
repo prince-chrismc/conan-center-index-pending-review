@@ -224,15 +224,17 @@
       "LastCommitAt": "2022-04-21T16:54:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
+         "Count": 9,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericLemanissier"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-04-19T09:48:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10154#pullrequestreview-945404952"
+            "SubmittedAt": "2022-04-22T05:21:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10154#pullrequestreview-949452075"
          }
       }
    },
@@ -957,6 +959,24 @@
       "LastCommitSHA": "9fa5d9674a0a898646c9fa168f7649bcbc8dd5db",
       "LastCommitAt": "2022-04-21T05:26:24Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10438,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2022-04-22T05:27:46Z",
+      "Recipe": "libusb",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10438",
+      "LastCommitSHA": "70e5a563e6e9361cdc63f8e3cda87910858c66d0",
+      "LastCommitAt": "2022-04-22T05:25:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
