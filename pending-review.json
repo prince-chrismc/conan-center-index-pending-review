@@ -871,17 +871,18 @@
       "LastCommitAt": "2022-04-23T21:12:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-25T11:37:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10465#pullrequestreview-951725519"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-04-25T16:23:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10465#pullrequestreview-952143102"
          }
       }
    },
@@ -896,17 +897,18 @@
       "LastCommitAt": "2022-04-23T21:18:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-25T11:41:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10466#pullrequestreview-951729322"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-04-25T16:23:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10466#pullrequestreview-952142478"
          }
       }
    },
@@ -921,17 +923,18 @@
       "LastCommitAt": "2022-04-24T09:03:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-25T11:46:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10470#pullrequestreview-951734673"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-04-25T16:22:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10470#pullrequestreview-952142082"
          }
       }
    },
