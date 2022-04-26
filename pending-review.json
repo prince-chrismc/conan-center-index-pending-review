@@ -8,17 +8,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8810",
       "LastCommitSHA": "3ac1ced965a49d8b68a2f238bf3afe142a50178e",
       "LastCommitAt": "2022-04-26T15:48:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
+         "Count": 7,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericLemanissier"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-04-26T13:54:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8810#pullrequestreview-953424734"
+            "SubmittedAt": "2022-04-26T17:57:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/8810#pullrequestreview-953798074"
          }
       }
    },
@@ -1193,33 +1195,6 @@
       }
    },
    {
-      "Number": 10501,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-04-25T17:57:56Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10501",
-      "LastCommitSHA": "8297c9dca34bc68a3d1e3789dd4986984a61871d",
-      "LastCommitAt": "2022-04-25T17:56:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-26T11:40:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10501#pullrequestreview-953230977"
-         }
-      }
-   },
-   {
       "Number": 10502,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-04-25T20:31:56Z",
@@ -1298,42 +1273,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10509",
       "LastCommitSHA": "2f4d14d1537b2f89f7addad8a8583efb0b6818f5",
       "LastCommitAt": "2022-04-26T12:39:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10511,
-      "OpenedBy": "simoncent",
-      "CreatedAt": "2022-04-26T17:02:01Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10511",
-      "LastCommitSHA": "8616ed2ace93af4512cb7864aeb93e969cb9d052",
-      "LastCommitAt": "2022-04-21T12:58:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10512,
-      "OpenedBy": "Iswenzz",
-      "CreatedAt": "2022-04-26T17:14:43Z",
-      "Recipe": "openfx",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10512",
-      "LastCommitSHA": "2468cb710ef738ab87fc7efe6dd7294b9735f915",
-      "LastCommitAt": "2022-04-26T17:08:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
