@@ -1372,7 +1372,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10509",
       "LastCommitSHA": "2f4d14d1537b2f89f7addad8a8583efb0b6818f5",
       "LastCommitAt": "2022-04-26T12:39:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1425,24 +1425,6 @@
       }
    },
    {
-      "Number": 10521,
-      "OpenedBy": "Jean1995",
-      "CreatedAt": "2022-04-27T08:05:06Z",
-      "Recipe": "proposal",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10521",
-      "LastCommitSHA": "84a2405328852d9e3c02badabb2d077fe7536117",
-      "LastCommitAt": "2022-04-27T08:04:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10522,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-04-27T09:07:15Z",
@@ -1451,7 +1433,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10522",
       "LastCommitSHA": "93203fc97079620e1b9324a94e064459908735b6",
       "LastCommitAt": "2022-04-27T09:02:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
