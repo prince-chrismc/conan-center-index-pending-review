@@ -1390,5 +1390,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10518,
+      "OpenedBy": "l2dy",
+      "CreatedAt": "2022-04-27T04:28:10Z",
+      "Recipe": "frugally-deep",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10518",
+      "LastCommitSHA": "0270580e8659442764fd1b478909b56d2c2ada8c",
+      "LastCommitAt": "2022-04-27T04:27:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
