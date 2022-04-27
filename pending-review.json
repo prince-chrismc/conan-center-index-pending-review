@@ -6,16 +6,14 @@
       "Recipe": "gtk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/8810",
-      "LastCommitSHA": "3ac1ced965a49d8b68a2f238bf3afe142a50178e",
-      "LastCommitAt": "2022-04-26T15:48:44Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "5c0568a24bb72b8da6794e705448ae175aa6fb7c",
+      "LastCommitAt": "2022-04-27T11:33:00Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
@@ -792,17 +790,18 @@
       "LastCommitAt": "2022-04-26T20:31:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
+         "Count": 9,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "MartinDelille"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-04-26T21:08:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10440#pullrequestreview-954006700"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2022-04-27T12:22:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10440#pullrequestreview-954802809"
          }
       }
    },
@@ -1290,32 +1289,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-04-26T07:15:30Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10494#pullrequestreview-952874406"
-         }
-      }
-   },
-   {
-      "Number": 10500,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-04-25T15:12:02Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10500",
-      "LastCommitSHA": "b55315d4347708874084a05f4e4c9c26010e7189",
-      "LastCommitAt": "2022-04-26T10:04:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "AndreyMlashkin",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-04-27T08:10:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10500#pullrequestreview-954491474"
          }
       }
    },
