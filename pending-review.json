@@ -684,14 +684,14 @@
       }
    },
    {
-      "Number": 10544,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-04-28T16:34:54Z",
-      "Recipe": "miniaudio",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10544",
-      "LastCommitSHA": "82db386bfbaf6bb4aa640c8342815fe97fd3747b",
-      "LastCommitAt": "2022-04-28T05:32:22Z",
+      "Number": 10542,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2022-04-28T15:00:24Z",
+      "Recipe": "nmos-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10542",
+      "LastCommitSHA": "93c30bee11ac8be5a6cbb3dd96cdd3a3f22fe9c1",
+      "LastCommitAt": "2022-04-28T16:16:00Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
