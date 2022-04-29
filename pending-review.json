@@ -601,15 +601,18 @@
       "LastCommitAt": "2022-04-29T10:41:16Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "madebr",
+            "ericriff"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-04-29T10:35:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10439#pullrequestreview-957554170"
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2022-04-29T16:17:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10439#pullrequestreview-957965485"
          }
       }
    },
@@ -681,24 +684,6 @@
             "SubmittedAt": "2022-04-29T06:47:59Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10511#pullrequestreview-957304384"
          }
-      }
-   },
-   {
-      "Number": 10515,
-      "OpenedBy": "Macfly",
-      "CreatedAt": "2022-04-27T00:29:01Z",
-      "Recipe": "pybind11",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10515",
-      "LastCommitSHA": "03f4324d18e2cb62739336c7735b05d7d665ea76",
-      "LastCommitAt": "2022-04-27T00:27:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -825,6 +810,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10552",
       "LastCommitSHA": "eb9803e582a5f7a9a405afd0f561bf4588d23030",
       "LastCommitAt": "2022-04-29T12:08:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10553,
+      "OpenedBy": "VladyslavUsenko",
+      "CreatedAt": "2022-04-29T16:17:11Z",
+      "Recipe": "sophus",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10553",
+      "LastCommitSHA": "bdf49c0dc964c5d037b19d0025a52fb85191cc04",
+      "LastCommitAt": "2022-04-29T16:15:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
