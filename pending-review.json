@@ -599,7 +599,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10439",
       "LastCommitSHA": "6b2d284115eba93c4cd8aaa069ebed9e3c3ac472",
       "LastCommitAt": "2022-04-29T10:41:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 2,
@@ -712,24 +712,6 @@
       }
    },
    {
-      "Number": 10523,
-      "OpenedBy": "mkviatkovskii",
-      "CreatedAt": "2022-04-27T09:43:32Z",
-      "Recipe": "jemalloc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10523",
-      "LastCommitSHA": "4f48768ee02656525951f8910b3dc3b7364ef465",
-      "LastCommitAt": "2022-04-27T09:24:14Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10542,
       "OpenedBy": "garethsb",
       "CreatedAt": "2022-04-28T15:00:24Z",
@@ -810,24 +792,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10552",
       "LastCommitSHA": "eb9803e582a5f7a9a405afd0f561bf4588d23030",
       "LastCommitAt": "2022-04-29T12:08:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10553,
-      "OpenedBy": "VladyslavUsenko",
-      "CreatedAt": "2022-04-29T16:17:11Z",
-      "Recipe": "sophus",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10553",
-      "LastCommitSHA": "bdf49c0dc964c5d037b19d0025a52fb85191cc04",
-      "LastCommitAt": "2022-04-29T16:15:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
