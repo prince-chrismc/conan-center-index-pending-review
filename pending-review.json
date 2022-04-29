@@ -100,6 +100,29 @@
       }
    },
    {
+      "Number": 9932,
+      "OpenedBy": "SamsonBox",
+      "CreatedAt": "2022-03-25T18:50:15Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9932",
+      "LastCommitSHA": "f078407213388b3ca97b8f3e0c7c232d70e6f91e",
+      "LastCommitAt": "2022-04-28T10:50:09Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-04-06T13:56:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9932#pullrequestreview-933539785"
+         }
+      }
+   },
+   {
       "Number": 9947,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-03-27T11:22:04Z",
@@ -671,6 +694,24 @@
       }
    },
    {
+      "Number": 10517,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-04-27T01:57:40Z",
+      "Recipe": "libsigcpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10517",
+      "LastCommitSHA": "6842ddb78b61e7495cdeb7f5324b13c1ae67a38d",
+      "LastCommitAt": "2022-04-28T22:02:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10540,
       "OpenedBy": "l2dy",
       "CreatedAt": "2022-04-28T14:39:49Z",
@@ -733,13 +774,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10546",
       "LastCommitSHA": "d347649da432e5da24c4ecb03cb140464ed20844",
       "LastCommitAt": "2022-04-28T19:17:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "MartinDelille"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2022-04-29T06:06:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10546#pullrequestreview-957278349"
+         }
       }
    },
    {
