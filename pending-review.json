@@ -614,8 +614,8 @@
       "Recipe": "libxslt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10551",
-      "LastCommitSHA": "9bd58774f43f012d292fa50f77dc03303c4464d5",
-      "LastCommitAt": "2022-04-29T09:56:12Z",
+      "LastCommitSHA": "7c5429a715b7c325629afa6905aba1d58b28af96",
+      "LastCommitAt": "2022-04-29T21:57:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -677,11 +677,18 @@
       "LastCommitAt": "2022-04-29T18:58:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-04-29T22:09:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10554#pullrequestreview-958322926"
+         }
       }
    }
 ]
