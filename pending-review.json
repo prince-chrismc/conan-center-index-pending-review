@@ -562,16 +562,14 @@
       "Recipe": "libxslt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10551",
-      "LastCommitSHA": "d4a43748223eed92857008cfec44d6cfddfd38d3",
-      "LastCommitAt": "2022-04-30T00:31:18Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "3673d70a588d03031e778130d7b2171a210f3e9f",
+      "LastCommitAt": "2022-04-30T11:01:02Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
