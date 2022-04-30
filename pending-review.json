@@ -522,37 +522,21 @@
       "LastCommitAt": "2022-04-29T08:14:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 7,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "SSE4"
+            "SSE4",
+            "mlappo",
+            "miklelappo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-29T17:41:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10517#pullrequestreview-958051317"
+            "ReviewerName": "miklelappo",
+            "SubmittedAt": "2022-04-30T21:35:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10517#pullrequestreview-958521939"
          }
-      }
-   },
-   {
-      "Number": 10536,
-      "OpenedBy": "aborzunov",
-      "CreatedAt": "2022-04-28T08:57:12Z",
-      "Recipe": "dlib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10536",
-      "LastCommitSHA": "6320af493a01e2ed1e5d9d489bab44c13fc14c59",
-      "LastCommitAt": "2022-04-28T08:53:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
