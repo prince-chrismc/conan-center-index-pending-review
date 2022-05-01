@@ -720,24 +720,6 @@
       }
    },
    {
-      "Number": 10566,
-      "OpenedBy": "l2dy",
-      "CreatedAt": "2022-05-01T09:32:46Z",
-      "Recipe": "openblas",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10566",
-      "LastCommitSHA": "ae9579758db52aa857fbd1f458f3a4d6807516d5",
-      "LastCommitAt": "2022-05-01T06:58:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10567,
       "OpenedBy": "toge",
       "CreatedAt": "2022-05-01T09:35:57Z",
