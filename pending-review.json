@@ -563,6 +563,24 @@
       }
    },
    {
+      "Number": 10526,
+      "OpenedBy": "sgoth",
+      "CreatedAt": "2022-04-27T11:06:11Z",
+      "Recipe": "aws-sdk-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10526",
+      "LastCommitSHA": "61b99fa6444a191bc3bab238593057b1db96040b",
+      "LastCommitAt": "2022-04-30T11:49:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10551,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-04-29T11:14:46Z",
@@ -650,6 +668,29 @@
             "ReviewerName": "madebr",
             "SubmittedAt": "2022-05-01T00:06:48Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10557#pullrequestreview-958528343"
+         }
+      }
+   },
+   {
+      "Number": 10562,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2022-04-30T20:27:43Z",
+      "Recipe": "lmdb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10562",
+      "LastCommitSHA": "2f496390cc8fa83e3f64848237fe85acc9e4131b",
+      "LastCommitAt": "2022-05-01T08:18:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-01T07:32:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10562#pullrequestreview-958554098"
          }
       }
    },
