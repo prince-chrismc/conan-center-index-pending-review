@@ -691,21 +691,21 @@
       "Recipe": "lmdb",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10562",
-      "LastCommitSHA": "2f496390cc8fa83e3f64848237fe85acc9e4131b",
-      "LastCommitAt": "2022-05-01T08:18:56Z",
+      "LastCommitSHA": "56e5f6826fd09c8ba8ef165f132f3ef0e62e9984",
+      "LastCommitAt": "2022-05-02T16:24:58Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 6,
+         "Count": 8,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "madebr"
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-05-02T13:02:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10562#pullrequestreview-959037998"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-05-02T16:40:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10562#pullrequestreview-959293355"
          }
       }
    },
@@ -770,17 +770,18 @@
       "LastCommitAt": "2022-05-01T23:31:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "MartinDelille"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-05-02T08:49:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10569#pullrequestreview-958846634"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2022-05-02T17:22:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10569#pullrequestreview-959337097"
          }
       }
    },
