@@ -808,8 +808,8 @@
       "Recipe": "opencolorio",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10572",
-      "LastCommitSHA": "ae4bc5110c7d23ba9650d542e1ee2c75061093d1",
-      "LastCommitAt": "2022-05-02T10:15:29Z",
+      "LastCommitSHA": "8c8c94eb00061760139b411167684dc0f24af5aa",
+      "LastCommitAt": "2022-05-02T10:27:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
