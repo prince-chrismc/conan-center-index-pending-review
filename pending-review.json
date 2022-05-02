@@ -415,8 +415,8 @@
       "Recipe": ".github",
       "Change": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10395",
-      "LastCommitSHA": "be78e7f96deac84c552e1fd5fd66d4a326d303a4",
-      "LastCommitAt": "2022-05-02T06:14:07Z",
+      "LastCommitSHA": "8352b4daa62260fff9b301d8e3d57dcfce8740f1",
+      "LastCommitAt": "2022-05-02T07:11:32Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 4,
