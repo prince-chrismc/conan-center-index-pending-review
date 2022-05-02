@@ -967,5 +967,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10583,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-02T20:21:33Z",
+      "Recipe": "magnum",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10583",
+      "LastCommitSHA": "6834540512cf85e4af0d23eb271347f797b84143",
+      "LastCommitAt": "2022-05-02T20:52:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10584,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-02T20:46:20Z",
+      "Recipe": "magnum-extras",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10584",
+      "LastCommitSHA": "c0ed165a0f2d9ab5aa62f81b725134044ae88d43",
+      "LastCommitAt": "2022-05-02T20:44:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
