@@ -568,7 +568,7 @@
       "LastCommitAt": "2022-04-30T11:01:02Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -576,9 +576,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-05-01T00:03:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10551#pullrequestreview-958528153"
+            "ReviewerName": "puetzk",
+            "SubmittedAt": "2022-05-02T19:06:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10551#pullrequestreview-959444683"
          }
       }
    },
@@ -941,6 +941,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10580",
       "LastCommitSHA": "6db0692f1981889e183f02d635c18d984a9daaa9",
       "LastCommitAt": "2022-05-02T17:39:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10582,
+      "OpenedBy": "datalogics-robb",
+      "CreatedAt": "2022-05-02T19:14:41Z",
+      "Recipe": "boost",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10582",
+      "LastCommitSHA": "acc400a50920795a08cca30797456f8455c1656d",
+      "LastCommitAt": "2022-04-28T14:58:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
