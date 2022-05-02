@@ -1021,5 +1021,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10586,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-02T22:39:36Z",
+      "Recipe": "magnum-integration",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10586",
+      "LastCommitSHA": "22438aec68e85139bf294d8997a6fb9a42d10cac",
+      "LastCommitAt": "2022-05-02T22:37:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10587,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-02T23:13:04Z",
+      "Recipe": "hipony-enumerate",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10587",
+      "LastCommitSHA": "55c8ca051653759b6c0acb2d5ef7786274aaf417",
+      "LastCommitAt": "2022-05-02T23:12:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
