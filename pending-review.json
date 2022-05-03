@@ -525,6 +525,29 @@
       }
    },
    {
+      "Number": 10573,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-02T11:20:43Z",
+      "Recipe": "openimageio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10573",
+      "LastCommitSHA": "01a687393921e42fa6be4d260597443f786014ef",
+      "LastCommitAt": "2022-05-03T17:15:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-05-02T13:23:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10573#pullrequestreview-959062867"
+         }
+      }
+   },
+   {
       "Number": 10575,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-05-02T14:03:35Z",
