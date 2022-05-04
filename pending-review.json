@@ -756,7 +756,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10593",
       "LastCommitSHA": "0fd06a4f429419b4eb490fdb0f4eb71523e51e17",
       "LastCommitAt": "2022-05-03T09:17:14Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -807,6 +807,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10606",
       "LastCommitSHA": "ae88bd02a1f5c30707f53454b729f20191a12c74",
       "LastCommitAt": "2022-05-04T05:54:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10607,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-04T08:36:34Z",
+      "Recipe": "sfml",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10607",
+      "LastCommitSHA": "9ddf7740e9f09ee13bb49804ae34dee753c9913c",
+      "LastCommitAt": "2022-05-04T08:33:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10608,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-05-04T09:14:40Z",
+      "Recipe": "coin-lemon",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10608",
+      "LastCommitSHA": "d151d8043be1480891be36f9f7756f331c96a341",
+      "LastCommitAt": "2022-05-04T09:13:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
