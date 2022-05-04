@@ -698,14 +698,14 @@
       }
    },
    {
-      "Number": 10619,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2022-05-04T14:53:35Z",
-      "Recipe": "sentry-native",
+      "Number": 10622,
+      "OpenedBy": "jothepro",
+      "CreatedAt": "2022-05-04T16:03:36Z",
+      "Recipe": "djinni-support-lib",
       "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10619",
-      "LastCommitSHA": "edced91b65f61123b840f7dd37a770f5541daf6c",
-      "LastCommitAt": "2022-05-04T14:52:38Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10622",
+      "LastCommitSHA": "321cd9ef0cc595826acb9bc9688e3f845633f001",
+      "LastCommitAt": "2022-05-04T19:27:34Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -713,31 +713,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 10620,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-04T15:28:34Z",
-      "Recipe": "sdl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10620",
-      "LastCommitSHA": "ea6290838b8c4ae0845cadc1ff850d7b31a2ab9e",
-      "LastCommitAt": "2022-05-04T15:58:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2022-05-04T17:36:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10620#pullrequestreview-962245502"
-         }
       }
    },
    {
