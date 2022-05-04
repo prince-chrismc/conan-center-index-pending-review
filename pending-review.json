@@ -662,6 +662,24 @@
       }
    },
    {
+      "Number": 10615,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-04T14:02:37Z",
+      "Recipe": "taocpp-json",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10615",
+      "LastCommitSHA": "43a3053c449bd42610be2fd8a2b41e5e91d4896f",
+      "LastCommitAt": "2022-05-04T13:59:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10618,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-05-04T14:36:13Z",
@@ -670,7 +688,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10618",
       "LastCommitSHA": "8854b836dc86ceb6e4abd436c91d8b18c9696558",
       "LastCommitAt": "2022-05-04T14:31:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -688,7 +706,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10619",
       "LastCommitSHA": "edced91b65f61123b840f7dd37a770f5541daf6c",
       "LastCommitAt": "2022-05-04T14:52:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -723,15 +741,15 @@
       }
    },
    {
-      "Number": 10621,
-      "OpenedBy": "jothepro",
-      "CreatedAt": "2022-05-04T15:55:00Z",
-      "Recipe": "djinni-generator",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10621",
-      "LastCommitSHA": "e0bc727fabcad2e569feddbe4bd61877fff343cb",
-      "LastCommitAt": "2022-05-04T15:52:53Z",
-      "CciBotPassed": false,
+      "Number": 10625,
+      "OpenedBy": "HappySeaFox",
+      "CreatedAt": "2022-05-04T17:19:01Z",
+      "Recipe": "sail",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10625",
+      "LastCommitSHA": "fbc797f06a4556ee8c1c097d5218d78351d6b901",
+      "LastCommitAt": "2022-05-04T18:24:50Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
