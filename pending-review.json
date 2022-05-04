@@ -130,6 +130,24 @@
       }
    },
    {
+      "Number": 10297,
+      "OpenedBy": "tmartiel",
+      "CreatedAt": "2022-04-14T06:55:42Z",
+      "Recipe": "dbus",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10297",
+      "LastCommitSHA": "3a3be7cada0ee60bf80f4b7e69c1b03cb9085ae3",
+      "LastCommitAt": "2022-05-03T19:39:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10308,
       "OpenedBy": "toge",
       "CreatedAt": "2022-04-14T18:26:19Z",
@@ -652,7 +670,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10612",
       "LastCommitSHA": "f8a7952c720cd4d7691cd14901efa1024e6437e6",
       "LastCommitAt": "2022-05-04T12:11:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -688,24 +706,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10618",
       "LastCommitSHA": "8854b836dc86ceb6e4abd436c91d8b18c9696558",
       "LastCommitAt": "2022-05-04T14:31:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10622,
-      "OpenedBy": "jothepro",
-      "CreatedAt": "2022-05-04T16:03:36Z",
-      "Recipe": "djinni-support-lib",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10622",
-      "LastCommitSHA": "321cd9ef0cc595826acb9bc9688e3f845633f001",
-      "LastCommitAt": "2022-05-04T19:27:34Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
