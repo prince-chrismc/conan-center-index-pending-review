@@ -530,7 +530,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10638",
       "LastCommitSHA": "be1b82da11c477c99c87bb7fb6961eda5fafeefd",
       "LastCommitAt": "2022-05-05T14:15:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -572,14 +572,14 @@
       }
    },
    {
-      "Number": 10645,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-05T17:17:56Z",
-      "Recipe": "zyre",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10645",
-      "LastCommitSHA": "a57b4fc1fedccf78efc904f47c8ef9b9517f9fab",
-      "LastCommitAt": "2022-05-05T17:16:32Z",
+      "Number": 10646,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-05T17:28:46Z",
+      "Recipe": "mapbox-variant",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10646",
+      "LastCommitSHA": "5aeb36fc474e65920bf722f569635b83dcecd5a2",
+      "LastCommitAt": "2022-05-05T17:26:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
