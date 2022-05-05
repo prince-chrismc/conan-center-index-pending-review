@@ -275,6 +275,29 @@
       }
    },
    {
+      "Number": 10499,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2022-04-25T14:59:10Z",
+      "Recipe": "google-cloud-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10499",
+      "LastCommitSHA": "26d471c1c8be36c1dfde85e141d3d9418e257f64",
+      "LastCommitAt": "2022-05-04T12:29:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-04-25T15:23:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10499#pullrequestreview-952055338"
+         }
+      }
+   },
+   {
       "Number": 10512,
       "OpenedBy": "Iswenzz",
       "CreatedAt": "2022-04-26T17:14:43Z",
