@@ -326,32 +326,6 @@
       }
    },
    {
-      "Number": 10615,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-04T14:02:37Z",
-      "Recipe": "taocpp-json",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10615",
-      "LastCommitSHA": "43a3053c449bd42610be2fd8a2b41e5e91d4896f",
-      "LastCommitAt": "2022-05-04T13:59:13Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-05-05T14:40:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10615#pullrequestreview-963476705"
-         }
-      }
-   },
-   {
       "Number": 10616,
       "OpenedBy": "toge",
       "CreatedAt": "2022-05-04T14:19:08Z",
@@ -367,31 +341,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 10617,
-      "OpenedBy": "Croydon",
-      "CreatedAt": "2022-05-04T14:21:55Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10617",
-      "LastCommitSHA": "645ab9707acc3eac560f213d256d687930dc5e2e",
-      "LastCommitAt": "2022-05-04T15:24:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-05-05T14:26:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10617#pullrequestreview-963454417"
-         }
       }
    },
    {
