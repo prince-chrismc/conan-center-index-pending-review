@@ -77,58 +77,6 @@
       }
    },
    {
-      "Number": 10115,
-      "OpenedBy": "PatSche",
-      "CreatedAt": "2022-04-05T12:09:02Z",
-      "Recipe": "qcustomplot",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10115",
-      "LastCommitSHA": "c36a3e99ffed4faf079f139e17cca5b5172119ec",
-      "LastCommitAt": "2022-04-21T17:53:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-03T07:46:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10115#pullrequestreview-960031416"
-         }
-      }
-   },
-   {
-      "Number": 10137,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-04-06T12:13:40Z",
-      "Recipe": "imgui",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10137",
-      "LastCommitSHA": "ebce8556d61729474b85132c469faa5abab904fd",
-      "LastCommitAt": "2022-04-07T18:33:21Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-04-22T14:11:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10137#pullrequestreview-950151534"
-         }
-      }
-   },
-   {
       "Number": 10194,
       "OpenedBy": "StellaSmith",
       "CreatedAt": "2022-04-09T22:11:35Z",
@@ -295,6 +243,24 @@
             "SubmittedAt": "2022-04-25T15:23:12Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10499#pullrequestreview-952055338"
          }
+      }
+   },
+   {
+      "Number": 10506,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-04-26T09:51:10Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10506",
+      "LastCommitSHA": "26819a0f90dc39dfcc1cda43a9d033ca20090676",
+      "LastCommitAt": "2022-04-26T11:19:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
