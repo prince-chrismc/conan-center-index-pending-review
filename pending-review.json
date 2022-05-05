@@ -568,7 +568,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10637",
       "LastCommitSHA": "294df22067b576c943d20f119450f477bf187868",
       "LastCommitAt": "2022-05-05T19:34:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -633,29 +633,6 @@
       }
    },
    {
-      "Number": 10642,
-      "OpenedBy": "rfn123",
-      "CreatedAt": "2022-05-05T16:11:24Z",
-      "Recipe": "pagmo2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10642",
-      "LastCommitSHA": "9c9ce48abc0ae2fe9b1df6c6c297474e958a4573",
-      "LastCommitAt": "2022-05-05T19:52:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-05-05T18:44:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10642#pullrequestreview-963805653"
-         }
-      }
-   },
-   {
       "Number": 10646,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-05-05T17:28:46Z",
@@ -682,7 +659,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10648",
       "LastCommitSHA": "891720aadc0439293a351c72f557ea35fe6c06a8",
       "LastCommitAt": "2022-05-05T19:50:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
