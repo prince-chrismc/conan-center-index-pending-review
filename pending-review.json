@@ -753,11 +753,18 @@
       "LastCommitAt": "2022-05-06T08:21:50Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-05-06T14:14:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10655#pullrequestreview-964719435"
+         }
       }
    },
    {
@@ -867,6 +874,60 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10662",
       "LastCommitSHA": "584d9d54e89e7eb4819bf8adae98e3a3dcdf3a88",
       "LastCommitAt": "2022-05-06T13:19:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10663,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-06T13:44:24Z",
+      "Recipe": "brynet",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10663",
+      "LastCommitSHA": "af231671415cb94bbc9111e5b76a5c310aba02ca",
+      "LastCommitAt": "2022-05-06T13:43:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10665,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-06T14:03:12Z",
+      "Recipe": "vcglib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10665",
+      "LastCommitSHA": "dbb9685a935bb2b43d2f6b1b905ee5b6dfd0cafa",
+      "LastCommitAt": "2022-05-06T14:01:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10666,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-06T14:14:51Z",
+      "Recipe": "argparse",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10666",
+      "LastCommitSHA": "71f9016ef7fbeb5c6e98eb71b3ac74796c38a744",
+      "LastCommitAt": "2022-05-06T14:14:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
