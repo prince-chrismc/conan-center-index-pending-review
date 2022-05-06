@@ -821,5 +821,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10660,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-06T12:55:50Z",
+      "Recipe": "spectra",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10660",
+      "LastCommitSHA": "b1f091ca423e89aeebe3253f31971e0bade3e777",
+      "LastCommitAt": "2022-05-06T12:54:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10661,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-06T13:02:07Z",
+      "Recipe": "zstr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10661",
+      "LastCommitSHA": "655c8c6d197a5bc6bc28c550a65c6f2dab718ab6",
+      "LastCommitAt": "2022-05-06T13:03:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10662,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-06T13:21:40Z",
+      "Recipe": "opencascade",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10662",
+      "LastCommitSHA": "584d9d54e89e7eb4819bf8adae98e3a3dcdf3a88",
+      "LastCommitAt": "2022-05-06T13:19:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
