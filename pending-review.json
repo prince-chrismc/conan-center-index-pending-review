@@ -1160,33 +1160,20 @@
       "Recipe": "concurrencpp",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10676",
-      "LastCommitSHA": "2a6d709f942516401d3e3a7ed1c9c17eebe6da5a",
-      "LastCommitAt": "2022-05-06T20:52:15Z",
+      "LastCommitSHA": "f9b9c565bb73a2dcb0510790fd40bbb32fb52ad4",
+      "LastCommitAt": "2022-05-06T23:08:51Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10677,
-      "OpenedBy": "bemehiser",
-      "CreatedAt": "2022-05-06T22:07:19Z",
-      "Recipe": "protobuf-c",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10677",
-      "LastCommitSHA": "14fafbd556e366f9ee6a40abdfb470531b134715",
-      "LastCommitAt": "2021-12-23T16:25:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-06T23:05:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10676#pullrequestreview-965244171"
+         }
       }
    }
 ]
