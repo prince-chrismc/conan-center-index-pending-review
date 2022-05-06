@@ -667,5 +667,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10652,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-05T23:43:49Z",
+      "Recipe": "oniguruma",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10652",
+      "LastCommitSHA": "c7136573413c521b8e2c93d95dc39a6cb7b8c56d",
+      "LastCommitAt": "2022-05-05T23:39:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10653,
+      "OpenedBy": "paulocoutinhox",
+      "CreatedAt": "2022-05-06T00:44:27Z",
+      "Recipe": "sqlite3",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10653",
+      "LastCommitSHA": "e118be0f3f5c456c8d28120fdf201af8ff814e6a",
+      "LastCommitAt": "2022-05-06T00:44:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
