@@ -1170,5 +1170,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10680,
+      "OpenedBy": "paulocoutinhox",
+      "CreatedAt": "2022-05-07T07:42:29Z",
+      "Recipe": "sqlite3",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10680",
+      "LastCommitSHA": "dea67ab4c6b8f7b5d3a124a426bc464b338e20d6",
+      "LastCommitAt": "2022-05-07T07:42:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
