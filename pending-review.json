@@ -1275,5 +1275,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10686,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2022-05-07T17:13:25Z",
+      "Recipe": "nfrechette-acl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10686",
+      "LastCommitSHA": "efad499a903c6e228437a1357fc33d48d8638384",
+      "LastCommitAt": "2022-05-07T17:12:30Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
