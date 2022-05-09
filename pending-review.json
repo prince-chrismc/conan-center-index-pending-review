@@ -826,31 +826,6 @@
       }
    },
    {
-      "Number": 10693,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-05-08T15:15:51Z",
-      "Recipe": "crashpad",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10693",
-      "LastCommitSHA": "a3ecfa4f6b30a5762be4a1a16b457af47d2dc7ce",
-      "LastCommitAt": "2022-05-08T15:19:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-05-08T16:19:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10693#pullrequestreview-965458688"
-         }
-      }
-   },
-   {
       "Number": 10694,
       "OpenedBy": "toge",
       "CreatedAt": "2022-05-08T15:21:59Z",
