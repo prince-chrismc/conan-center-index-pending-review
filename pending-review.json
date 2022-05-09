@@ -390,32 +390,6 @@
       }
    },
    {
-      "Number": 10625,
-      "OpenedBy": "HappySeaFox",
-      "CreatedAt": "2022-05-04T17:19:01Z",
-      "Recipe": "sail",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10625",
-      "LastCommitSHA": "fbc797f06a4556ee8c1c097d5218d78351d6b901",
-      "LastCommitAt": "2022-05-04T18:24:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-05-09T18:10:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10625#pullrequestreview-966645375"
-         }
-      }
-   },
-   {
       "Number": 10626,
       "OpenedBy": "toge",
       "CreatedAt": "2022-05-04T17:19:03Z",
@@ -749,11 +723,18 @@
       "LastCommitAt": "2022-05-09T14:52:22Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "AndreyMlashkin"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2022-05-09T18:26:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10701#pullrequestreview-966661905"
+         }
       }
    },
    {
