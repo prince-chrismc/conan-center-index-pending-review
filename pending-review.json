@@ -186,17 +186,18 @@
       "LastCommitAt": "2022-05-04T12:04:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
+         "Count": 6,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-09T15:10:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10382#pullrequestreview-966315640"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-05-09T16:13:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10382#pullrequestreview-966436243"
          }
       }
    },
@@ -728,7 +729,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10684",
       "LastCommitSHA": "1b635a444cf16ade5d336f959e467ecb6165176b",
       "LastCommitAt": "2022-05-07T15:14:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -786,6 +787,29 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-05-09T12:44:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10696#pullrequestreview-966068478"
+         }
+      }
+   },
+   {
+      "Number": 10697,
+      "OpenedBy": "DavidAce",
+      "CreatedAt": "2022-05-09T11:22:57Z",
+      "Recipe": "h5pp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10697",
+      "LastCommitSHA": "d4cdc4d29e513cef4b4e45f34da0cf55e65b3d65",
+      "LastCommitAt": "2022-05-09T16:07:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-09T14:29:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10697#pullrequestreview-966229348"
          }
       }
    },
