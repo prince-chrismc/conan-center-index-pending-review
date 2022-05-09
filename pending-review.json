@@ -390,24 +390,6 @@
       }
    },
    {
-      "Number": 10613,
-      "OpenedBy": "wadimklincov",
-      "CreatedAt": "2022-05-04T12:48:59Z",
-      "Recipe": "sbp",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10613",
-      "LastCommitSHA": "ca68db0a92658c90a64264c32ab538d05971edfb",
-      "LastCommitAt": "2022-05-04T12:33:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10625,
       "OpenedBy": "HappySeaFox",
       "CreatedAt": "2022-05-04T17:19:01Z",
@@ -481,56 +463,6 @@
       }
    },
    {
-      "Number": 10654,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-06T08:16:34Z",
-      "Recipe": "cpp-httplib",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10654",
-      "LastCommitSHA": "9d25f525cf65d46128b42f9c7f28c54172c7e23e",
-      "LastCommitAt": "2022-05-06T08:16:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-06T12:07:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10654#pullrequestreview-964558533"
-         }
-      }
-   },
-   {
-      "Number": 10655,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-06T08:22:22Z",
-      "Recipe": "libmorton",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10655",
-      "LastCommitSHA": "e5a257d808551e0b4b8e95157f81fe123c2f5bfa",
-      "LastCommitAt": "2022-05-06T08:21:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-06T14:14:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10655#pullrequestreview-964719435"
-         }
-      }
-   },
-   {
       "Number": 10656,
       "OpenedBy": "rfn123",
       "CreatedAt": "2022-05-06T08:36:06Z",
@@ -600,24 +532,6 @@
       }
    },
    {
-      "Number": 10660,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-06T12:55:50Z",
-      "Recipe": "spectra",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10660",
-      "LastCommitSHA": "b1f091ca423e89aeebe3253f31971e0bade3e777",
-      "LastCommitAt": "2022-05-06T12:54:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10661,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-05-06T13:02:07Z",
@@ -626,7 +540,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10661",
       "LastCommitSHA": "655c8c6d197a5bc6bc28c550a65c6f2dab718ab6",
       "LastCommitAt": "2022-05-06T13:03:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -695,7 +609,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10666",
       "LastCommitSHA": "71f9016ef7fbeb5c6e98eb71b3ac74796c38a744",
       "LastCommitAt": "2022-05-06T14:14:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -1065,7 +979,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10694",
       "LastCommitSHA": "97bf048cee213e10c04a562213d47e8100e6da32",
       "LastCommitAt": "2022-05-08T15:21:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
