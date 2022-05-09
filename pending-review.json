@@ -738,31 +738,6 @@
       }
    },
    {
-      "Number": 10694,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-08T15:21:59Z",
-      "Recipe": "daw_header_libraries",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10694",
-      "LastCommitSHA": "97bf048cee213e10c04a562213d47e8100e6da32",
-      "LastCommitAt": "2022-05-08T15:21:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-09T11:56:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10694#pullrequestreview-966010520"
-         }
-      }
-   },
-   {
       "Number": 10696,
       "OpenedBy": "nmgwddj",
       "CreatedAt": "2022-05-09T07:35:06Z",
@@ -773,18 +748,19 @@
       "LastCommitAt": "2022-05-09T07:31:19Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
             "MartinDelille",
-            "Zvicii"
+            "Zvicii",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Zvicii",
-            "SubmittedAt": "2022-05-09T09:03:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10696#pullrequestreview-965818520"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-05-09T12:44:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10696#pullrequestreview-966068478"
          }
       }
    },
