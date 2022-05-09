@@ -593,24 +593,6 @@
       }
    },
    {
-      "Number": 10669,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-06T15:25:15Z",
-      "Recipe": "wasmtime-cpp",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10669",
-      "LastCommitSHA": "68e9d75bfd44ee17f5b6bb46a6948433ee616103",
-      "LastCommitAt": "2022-05-04T16:47:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10671,
       "OpenedBy": "Sil3ntStorm",
       "CreatedAt": "2022-05-06T16:46:44Z",
@@ -647,47 +629,6 @@
       }
    },
    {
-      "Number": 10674,
-      "OpenedBy": "StellaSmith",
-      "CreatedAt": "2022-05-06T19:20:36Z",
-      "Recipe": "onetbb",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10674",
-      "LastCommitSHA": "16d32b6845248378a70b6fffaac37e8305ad5862",
-      "LastCommitAt": "2022-05-06T19:20:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10675,
-      "OpenedBy": "StellaSmith",
-      "CreatedAt": "2022-05-06T19:25:36Z",
-      "Recipe": "openddl-parser",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10675",
-      "LastCommitSHA": "65ab1ed96e25fbca90d9cf71f628ab8d81307b9f",
-      "LastCommitAt": "2022-05-06T21:52:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-05-06T19:37:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10675#pullrequestreview-965120069"
-         }
-      }
-   },
-   {
       "Number": 10676,
       "OpenedBy": "chausner",
       "CreatedAt": "2022-05-06T20:56:39Z",
@@ -719,7 +660,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10678",
       "LastCommitSHA": "3111921a66b9cba6290ba178f0766479de422a47",
       "LastCommitAt": "2022-05-07T06:16:42Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -835,6 +776,24 @@
       "LastCommitSHA": "97bf048cee213e10c04a562213d47e8100e6da32",
       "LastCommitAt": "2022-05-08T15:21:18Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10696,
+      "OpenedBy": "nmgwddj",
+      "CreatedAt": "2022-05-09T07:35:06Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10696",
+      "LastCommitSHA": "dd4c481d99bf3d31ad23accf5e9da84e4d7ede45",
+      "LastCommitAt": "2022-05-09T07:31:19Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
