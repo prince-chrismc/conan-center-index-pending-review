@@ -611,24 +611,6 @@
       }
    },
    {
-      "Number": 10673,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-05-06T18:50:56Z",
-      "Recipe": "cairomm",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10673",
-      "LastCommitSHA": "5169462290427872dfee24ab8e63a1f32e5b00ac",
-      "LastCommitAt": "2022-05-06T19:42:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10676,
       "OpenedBy": "chausner",
       "CreatedAt": "2022-05-06T20:56:39Z",
@@ -795,11 +777,19 @@
       "LastCommitAt": "2022-05-09T07:31:19Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "MartinDelille",
+            "Zvicii"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Zvicii",
+            "SubmittedAt": "2022-05-09T09:03:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10696#pullrequestreview-965818520"
+         }
       }
    }
 ]
