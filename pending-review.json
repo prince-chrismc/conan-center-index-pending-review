@@ -176,32 +176,6 @@
       }
    },
    {
-      "Number": 10382,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2022-04-19T15:04:50Z",
-      "Recipe": "create-dmg",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10382",
-      "LastCommitSHA": "90b1ff92082d0ff0915f7f081527c834f870b1c1",
-      "LastCommitAt": "2022-05-04T12:04:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-05-09T16:13:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10382#pullrequestreview-966436243"
-         }
-      }
-   },
-   {
       "Number": 10395,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-04-20T11:03:05Z",
