@@ -398,7 +398,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10626",
       "LastCommitSHA": "21bf85eeabf83e4fc5aa6d921f659d7226f0cf60",
       "LastCommitAt": "2022-05-06T15:33:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -668,6 +668,31 @@
       }
    },
    {
+      "Number": 10693,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-05-08T15:15:51Z",
+      "Recipe": "crashpad",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10693",
+      "LastCommitSHA": "2e3c59983a4a29fdfa7e7fb67e1054efe9045601",
+      "LastCommitAt": "2022-05-09T15:33:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            "AndreyMlashkin"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2022-05-09T18:24:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10693#pullrequestreview-966659841"
+         }
+      }
+   },
+   {
       "Number": 10696,
       "OpenedBy": "nmgwddj",
       "CreatedAt": "2022-05-09T07:35:06Z",
@@ -769,7 +794,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10703",
       "LastCommitSHA": "2e2bc2107da7ab72af912083966f3aba6ae1fc10",
       "LastCommitAt": "2022-05-09T18:05:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
