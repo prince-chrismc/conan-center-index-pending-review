@@ -509,16 +509,14 @@
       "Recipe": "libaom-av1",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10716",
-      "LastCommitSHA": "177e1c60b24c86511609b6f0512abeb5d330ac60",
-      "LastCommitAt": "2022-05-10T19:43:20Z",
+      "LastCommitSHA": "dcbfdcc618ef1d3ee2d286b426fa030a68dc9d30",
+      "LastCommitAt": "2022-05-10T20:46:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
