@@ -149,24 +149,6 @@
       }
    },
    {
-      "Number": 10580,
-      "OpenedBy": "pbailey-hf",
-      "CreatedAt": "2022-05-02T17:52:46Z",
-      "Recipe": "libcurl",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10580",
-      "LastCommitSHA": "6db0692f1981889e183f02d635c18d984a9daaa9",
-      "LastCommitAt": "2022-05-02T17:39:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10612,
       "OpenedBy": "datalogics-robb",
       "CreatedAt": "2022-05-04T12:13:32Z",
@@ -310,17 +292,18 @@
       "LastCommitAt": "2022-05-06T14:55:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-05-10T09:12:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10668#pullrequestreview-967439299"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-10T19:25:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10668#pullrequestreview-968304044"
          }
       }
    },
@@ -477,7 +460,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10712",
       "LastCommitSHA": "78c9d44a87dbec859499c612d1d2932b331dd74c",
       "LastCommitAt": "2022-05-05T17:09:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -516,6 +499,31 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-05-10T19:00:20Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10713#pullrequestreview-968278451"
+         }
+      }
+   },
+   {
+      "Number": 10716,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-10T19:46:33Z",
+      "Recipe": "libaom-av1",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10716",
+      "LastCommitSHA": "177e1c60b24c86511609b6f0512abeb5d330ac60",
+      "LastCommitAt": "2022-05-10T19:43:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-05-10T20:10:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10716#pullrequestreview-968355068"
          }
       }
    }
