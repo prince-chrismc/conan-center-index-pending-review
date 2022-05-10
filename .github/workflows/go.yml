@@ -31,9 +31,9 @@ jobs:
         with:
           files: coverage.out
 
-      - run: go run ./cmd/cpr -d -t ${{ secrets.REPO_PAT }}
-      - run: go run ./cmd/tir -d -t ${{ secrets.REPO_PAT }}
-      - run: go run ./cmd/ovm -d -t ${{ secrets.REPO_PAT }}
+      - run: go run ./cmd/cpr -d -t ${{ secrets.GITHUB_TOKEN }}
+      - run: go run ./cmd/tir -d -t ${{ secrets.GITHUB_TOKEN }}
+      - run: go run ./cmd/ovm -d -t ${{ secrets.GITHUB_TOKEN }}
 
   run:
     runs-on: ubuntu-latest
