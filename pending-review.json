@@ -391,7 +391,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10697",
       "LastCommitSHA": "3f0a00392bd78e8fc772c6cd1c42aca487e115a5",
       "LastCommitAt": "2022-05-10T08:45:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
@@ -499,29 +499,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-05-10T19:00:20Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10713#pullrequestreview-968278451"
-         }
-      }
-   },
-   {
-      "Number": 10716,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-10T19:46:33Z",
-      "Recipe": "libaom-av1",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10716",
-      "LastCommitSHA": "dcbfdcc618ef1d3ee2d286b426fa030a68dc9d30",
-      "LastCommitAt": "2022-05-10T20:46:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-05-10T20:10:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10716#pullrequestreview-968355068"
          }
       }
    }
