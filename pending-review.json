@@ -125,32 +125,6 @@
       }
    },
    {
-      "Number": 10506,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-04-26T09:51:10Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10506",
-      "LastCommitSHA": "26819a0f90dc39dfcc1cda43a9d033ca20090676",
-      "LastCommitAt": "2022-04-26T11:19:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-10T07:40:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10506#pullrequestreview-967314310"
-         }
-      }
-   },
-   {
       "Number": 10512,
       "OpenedBy": "Iswenzz",
       "CreatedAt": "2022-04-26T17:14:43Z",
@@ -197,32 +171,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-04-29T08:52:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10534#pullrequestreview-957450423"
-         }
-      }
-   },
-   {
-      "Number": 10552,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-04-29T12:01:40Z",
-      "Recipe": "hdf5",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10552",
-      "LastCommitSHA": "eb9803e582a5f7a9a405afd0f561bf4588d23030",
-      "LastCommitAt": "2022-04-29T12:08:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-10T07:39:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10552#pullrequestreview-967312709"
          }
       }
    },
