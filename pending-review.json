@@ -455,56 +455,21 @@
       }
    },
    {
-      "Number": 10724,
+      "Number": 10736,
       "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-05-11T05:58:32Z",
-      "Recipe": "cspice",
+      "CreatedAt": "2022-05-11T12:02:49Z",
+      "Recipe": "qt",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10724",
-      "LastCommitSHA": "db1a567977edfbafadfe619065108bbf8002aa5b",
-      "LastCommitAt": "2022-05-11T06:18:11Z",
-      "CciBotPassed": true,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10736",
+      "LastCommitSHA": "15e1801280529f7b432be3b3d4832a0302c60a7b",
+      "LastCommitAt": "2022-05-11T12:00:16Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "jgsogo",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-11T08:47:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10724#pullrequestreview-968916741"
-         }
-      }
-   },
-   {
-      "Number": 10731,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2022-05-11T09:09:40Z",
-      "Recipe": "docs",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10731",
-      "LastCommitSHA": "d4633b01997b27ad06cda5da638bbc79b574ef90",
-      "LastCommitAt": "2022-05-11T09:07:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-11T09:49:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10731#pullrequestreview-969020875"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
