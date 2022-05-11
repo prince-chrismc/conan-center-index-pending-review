@@ -572,16 +572,54 @@
       "LastCommitAt": "2022-05-10T23:10:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericLemanissier"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-05-10T20:10:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10716#pullrequestreview-968355068"
+            "SubmittedAt": "2022-05-11T04:54:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10716#pullrequestreview-968676101"
          }
+      }
+   },
+   {
+      "Number": 10719,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-05-11T04:56:21Z",
+      "Recipe": "magic_enum",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10719",
+      "LastCommitSHA": "ef99daf32ebccc81e6541e0443cab0bd9c3f1b1c",
+      "LastCommitAt": "2022-05-11T01:24:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10721,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-05-11T05:18:56Z",
+      "Recipe": "cryptopp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10721",
+      "LastCommitSHA": "8ea6d314c2441fc8149e9eb10e7e723a80bea950",
+      "LastCommitAt": "2022-05-11T05:18:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
