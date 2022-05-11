@@ -473,5 +473,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10739,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-05-11T14:37:37Z",
+      "Recipe": "sentry-crashpad",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10739",
+      "LastCommitSHA": "dab7f5b1a64e5b84406e5c9560375725f52cd3b5",
+      "LastCommitAt": "2022-05-11T14:35:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
