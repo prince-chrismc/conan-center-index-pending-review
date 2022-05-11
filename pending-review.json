@@ -269,7 +269,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10671",
       "LastCommitSHA": "5aaaa4b217d25f0ed4c42a225149bece8b1234e9",
       "LastCommitAt": "2022-05-06T15:57:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -465,24 +465,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10736",
       "LastCommitSHA": "15e1801280529f7b432be3b3d4832a0302c60a7b",
       "LastCommitAt": "2022-05-11T12:00:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10739,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-05-11T14:37:37Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10739",
-      "LastCommitSHA": "dab7f5b1a64e5b84406e5c9560375725f52cd3b5",
-      "LastCommitAt": "2022-05-11T14:35:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
