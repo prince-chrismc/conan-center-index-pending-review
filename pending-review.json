@@ -371,17 +371,19 @@
       "LastCommitAt": "2022-05-10T08:45:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
             "uilianries"
          ],
-         "Blockers": null,
+         "Blockers": [
+            "jgsogo"
+         ],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-10T10:03:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10697#pullrequestreview-967505819"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-05-11T14:10:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10697#pullrequestreview-969422340"
          }
       }
    },
