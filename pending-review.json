@@ -231,32 +231,6 @@
       }
    },
    {
-      "Number": 10672,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-06T18:27:24Z",
-      "Recipe": "libmediainfo",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10672",
-      "LastCommitSHA": "3ae10bfdeac15f21c9e5a26995e33d83b44a7b48",
-      "LastCommitAt": "2022-05-09T14:33:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-12T04:43:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10672#pullrequestreview-970242775"
-         }
-      }
-   },
-   {
       "Number": 10676,
       "OpenedBy": "chausner",
       "CreatedAt": "2022-05-06T20:56:39Z",
@@ -350,32 +324,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 10712,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-10T13:35:58Z",
-      "Recipe": "mapbox-geometry",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10712",
-      "LastCommitSHA": "78c9d44a87dbec859499c612d1d2932b331dd74c",
-      "LastCommitAt": "2022-05-05T17:09:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-12T04:44:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10712#pullrequestreview-970243163"
-         }
       }
    },
    {
