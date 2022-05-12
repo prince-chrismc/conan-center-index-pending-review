@@ -175,18 +175,19 @@
       "LastCommitAt": "2022-05-05T16:20:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
+         "Count": 4,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "ericLemanissier",
-            "uilianries"
+            "uilianries",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-12T13:57:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10643#pullrequestreview-970900683"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-12T21:10:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10643#pullrequestreview-971462116"
          }
       }
    },
@@ -271,41 +272,19 @@
       "LastCommitAt": "2022-05-06T14:55:42Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "SSE4"
+            "SSE4",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-12T04:43:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10667#pullrequestreview-970242670"
-         }
-      }
-   },
-   {
-      "Number": 10676,
-      "OpenedBy": "chausner",
-      "CreatedAt": "2022-05-06T20:56:39Z",
-      "Recipe": "concurrencpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10676",
-      "LastCommitSHA": "9bf870738ca20ebdaae31267822d7e84833a88a4",
-      "LastCommitAt": "2022-05-07T11:54:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-05-07T08:54:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10676#pullrequestreview-965310495"
+            "SubmittedAt": "2022-05-12T21:07:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10667#pullrequestreview-971459095"
          }
       }
    },
@@ -484,17 +463,18 @@
       "LastCommitAt": "2022-05-12T09:21:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-05-12T09:52:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10750#pullrequestreview-970576400"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-12T21:04:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10750#pullrequestreview-971456978"
          }
       }
    },
@@ -610,7 +590,7 @@
       "LastCommitAt": "2022-01-24T12:41:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -618,9 +598,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-12T16:51:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10763#pullrequestreview-971177806"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-12T20:55:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10763#pullrequestreview-971446323"
          }
       }
    },
