@@ -342,11 +342,18 @@
       "LastCommitAt": "2022-05-11T12:00:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-05-12T10:34:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10736#pullrequestreview-970627500"
+         }
       }
    },
    {
@@ -431,15 +438,20 @@
       "Recipe": "docs",
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10747",
-      "LastCommitSHA": "3304c8f9ec9139aec33103d79c0ad364e89cc24c",
-      "LastCommitAt": "2022-05-12T07:13:05Z",
+      "LastCommitSHA": "ca76ea9ee6bc28a5b5dd8341bcdbbc3df8164532",
+      "LastCommitAt": "2022-05-12T10:52:40Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-05-12T10:32:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10747#pullrequestreview-970625465"
+         }
       }
    },
    {
@@ -452,6 +464,24 @@
       "LastCommitSHA": "6af44730caca85e2252f77cfe4507f4c20c54d2c",
       "LastCommitAt": "2022-05-12T09:06:26Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10752,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2022-05-12T10:36:04Z",
+      "Recipe": ".github",
+      "Change": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10752",
+      "LastCommitSHA": "ef58f81a62b481730091082be440423f604a6e4f",
+      "LastCommitAt": "2022-05-12T10:35:35Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
