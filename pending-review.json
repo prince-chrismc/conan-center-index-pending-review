@@ -390,7 +390,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10749",
       "LastCommitSHA": "6af44730caca85e2252f77cfe4507f4c20c54d2c",
       "LastCommitAt": "2022-05-12T09:06:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -527,6 +527,49 @@
       "LastCommitSHA": "05416e26f2cac881b9464559d5519869da3ae40e",
       "LastCommitAt": "2022-05-12T15:09:32Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-05-12T16:18:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10762#pullrequestreview-971136016"
+         }
+      }
+   },
+   {
+      "Number": 10763,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2022-05-12T16:16:13Z",
+      "Recipe": "tllist",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10763",
+      "LastCommitSHA": "931ea6cc29aafc6007bdb6e2aab55b597f2b817c",
+      "LastCommitAt": "2022-01-24T12:41:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10765,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-05-12T16:23:31Z",
+      "Recipe": "openvdb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10765",
+      "LastCommitSHA": "0dbfb1f87af40785c5e3563929639970460fc979",
+      "LastCommitAt": "2022-05-12T16:18:56Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
