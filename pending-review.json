@@ -471,6 +471,31 @@
       }
    },
    {
+      "Number": 10760,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-05-12T13:14:19Z",
+      "Recipe": "gettext",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10760",
+      "LastCommitSHA": "7573905b74342aadebf27d737c64aa20f964cd24",
+      "LastCommitAt": "2022-05-13T09:28:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-05-13T15:35:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10760#pullrequestreview-972454559"
+         }
+      }
+   },
+   {
       "Number": 10761,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-05-12T13:25:43Z",
@@ -654,6 +679,24 @@
             "SubmittedAt": "2022-05-13T11:29:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10779#pullrequestreview-972116551"
          }
+      }
+   },
+   {
+      "Number": 10783,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-05-13T15:32:04Z",
+      "Recipe": "opentelemetry-proto",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10783",
+      "LastCommitSHA": "4bd7fb02ea31d413a605da8ec25dc2a9b9d3ba04",
+      "LastCommitAt": "2022-05-13T12:50:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
