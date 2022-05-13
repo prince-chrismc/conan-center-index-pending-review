@@ -668,17 +668,18 @@
       "LastCommitAt": "2022-05-13T09:41:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "nmgwddj"
+            "nmgwddj",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "nmgwddj",
-            "SubmittedAt": "2022-05-13T11:29:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10779#pullrequestreview-972116551"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-05-13T21:14:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10779#pullrequestreview-972870755"
          }
       }
    },
