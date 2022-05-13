@@ -632,5 +632,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10780,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-05-13T10:24:57Z",
+      "Recipe": "diligent-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10780",
+      "LastCommitSHA": "50073051b44601e7dfe1ef83798aef2786ce8553",
+      "LastCommitAt": "2022-05-13T10:24:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-05-13T10:49:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10780#pullrequestreview-972077741"
+         }
+      }
    }
 ]
