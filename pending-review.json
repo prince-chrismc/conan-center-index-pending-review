@@ -238,23 +238,21 @@
       "Recipe": "elfutils",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10667",
-      "LastCommitSHA": "f546dccd693bd9bb2d1a21de7f0daab31550bd54",
-      "LastCommitAt": "2022-05-06T14:55:42Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d6dcc4418b46852c305f1a8ae320974d873e2d0a",
+      "LastCommitAt": "2022-05-13T14:01:52Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "uilianries",
-            "SSE4",
             "SpaceIm"
          ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-05-12T21:07:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10667#pullrequestreview-971459095"
+            "SubmittedAt": "2022-05-13T14:04:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10667#pullrequestreview-972314313"
          }
       }
    },
@@ -555,16 +553,14 @@
       "Recipe": "zlib",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10771",
-      "LastCommitSHA": "efde86489c04ee022d6bdc4de6e5112358e32ef5",
-      "LastCommitAt": "2022-05-13T09:22:41Z",
+      "LastCommitSHA": "9e152ff157af266bc54b7f98ceefebbc4a97c6cc",
+      "LastCommitAt": "2022-05-13T13:54:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
