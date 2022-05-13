@@ -8,7 +8,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9629",
       "LastCommitSHA": "a2ed7ca9781ac8e3a529dfee55decca2d2ac2b24",
       "LastCommitAt": "2022-05-13T08:25:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 11,
          "ValidApprovals": 0,
@@ -618,6 +618,24 @@
       }
    },
    {
+      "Number": 10775,
+      "OpenedBy": "seladb",
+      "CreatedAt": "2022-05-13T07:18:17Z",
+      "Recipe": "pcapplusplus",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10775",
+      "LastCommitSHA": "a5b318683352c0f73c7d7a1a1fbd5bdd8453a360",
+      "LastCommitAt": "2022-05-13T07:53:03Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10779,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-05-13T09:43:03Z",
@@ -640,50 +658,6 @@
             "SubmittedAt": "2022-05-13T11:29:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10779#pullrequestreview-972116551"
          }
-      }
-   },
-   {
-      "Number": 10780,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-05-13T10:24:57Z",
-      "Recipe": "diligent-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10780",
-      "LastCommitSHA": "50073051b44601e7dfe1ef83798aef2786ce8553",
-      "LastCommitAt": "2022-05-13T10:24:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-05-13T11:52:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10780#pullrequestreview-972140857"
-         }
-      }
-   },
-   {
-      "Number": 10781,
-      "OpenedBy": "Croydon",
-      "CreatedAt": "2022-05-13T12:03:57Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10781",
-      "LastCommitSHA": "98843b9f92926119511d332f49215e7dc64d08a3",
-      "LastCommitAt": "2022-05-13T12:03:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
