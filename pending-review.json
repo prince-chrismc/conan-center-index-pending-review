@@ -280,32 +280,6 @@
       }
    },
    {
-      "Number": 10746,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-12T07:12:37Z",
-      "Recipe": "polylabel",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10746",
-      "LastCommitSHA": "0df50193bb29b4e69682019d18a5ba9762562373",
-      "LastCommitAt": "2022-05-05T18:36:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-14T06:18:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10746#pullrequestreview-972983388"
-         }
-      }
-   },
-   {
       "Number": 10747,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-05-12T07:14:51Z",
@@ -375,32 +349,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-05-13T13:19:40Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10757#pullrequestreview-972246232"
-         }
-      }
-   },
-   {
-      "Number": 10761,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-05-12T13:25:43Z",
-      "Recipe": "dlib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10761",
-      "LastCommitSHA": "dd4d29d377e3a6fd76c4e283c6d37c386531d6fb",
-      "LastCommitAt": "2022-05-12T13:12:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-14T06:17:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10761#pullrequestreview-972983342"
          }
       }
    },
