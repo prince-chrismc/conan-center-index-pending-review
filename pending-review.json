@@ -498,15 +498,22 @@
       "Recipe": "gdal",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10796",
-      "LastCommitSHA": "3911ebb63e1a9d5c331eb9ff8f0acdb3c38d144e",
-      "LastCommitAt": "2022-05-14T16:17:45Z",
+      "LastCommitSHA": "feaeb18ba01d44a274cb85f5283f5045f5e5b06d",
+      "LastCommitAt": "2022-05-14T20:27:15Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-05-14T20:53:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10796#pullrequestreview-973099627"
+         }
       }
    }
 ]
