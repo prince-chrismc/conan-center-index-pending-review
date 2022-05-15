@@ -405,16 +405,14 @@
       "Recipe": "diligent-core",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10780",
-      "LastCommitSHA": "5aa0998a4a3c851c201209e51b207eca8d43b854",
-      "LastCommitAt": "2022-05-13T13:29:02Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "0e0b4f9083db72409b0cbf1bc5bae807e706f86f",
+      "LastCommitAt": "2022-05-15T05:27:24Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 9,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -482,7 +480,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10793",
       "LastCommitSHA": "95bb905fc839f84b969460e944cbb75f1c68098a",
       "LastCommitAt": "2022-05-14T11:15:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
