@@ -498,7 +498,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10796",
       "LastCommitSHA": "feaeb18ba01d44a274cb85f5283f5045f5e5b06d",
       "LastCommitAt": "2022-05-14T20:27:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -524,6 +524,24 @@
       "LastCommitSHA": "9f86d5083e49d19320a9d5603fed8c2e2b876cdc",
       "LastCommitAt": "2022-05-15T04:58:00Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10802,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2022-05-15T10:13:10Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10802",
+      "LastCommitSHA": "b0b0d30f71eaa173a2d74eef3ad3e9f1d549248c",
+      "LastCommitAt": "2022-05-15T10:07:27Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
