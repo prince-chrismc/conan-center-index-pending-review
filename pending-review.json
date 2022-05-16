@@ -560,5 +560,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10809,
+      "OpenedBy": "nmgwddj",
+      "CreatedAt": "2022-05-16T03:57:37Z",
+      "Recipe": "aws-c-common",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10809",
+      "LastCommitSHA": "46b4344cb31bb7b8b72095934a73efdb08e7b5e0",
+      "LastCommitAt": "2022-05-16T03:55:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
