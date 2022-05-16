@@ -409,15 +409,17 @@
       "LastCommitAt": "2022-05-15T05:27:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 10,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-14T06:16:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10780#pullrequestreview-972983222"
+            "SubmittedAt": "2022-05-16T07:36:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10780#pullrequestreview-973518104"
          }
       }
    },
@@ -536,11 +538,18 @@
       "LastCommitAt": "2022-05-15T04:58:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-05-16T07:36:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10798#pullrequestreview-973518462"
+         }
       }
    },
    {
@@ -580,15 +589,15 @@
       }
    },
    {
-      "Number": 10809,
-      "OpenedBy": "nmgwddj",
-      "CreatedAt": "2022-05-16T03:57:37Z",
-      "Recipe": "aws-c-common",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10809",
-      "LastCommitSHA": "46b4344cb31bb7b8b72095934a73efdb08e7b5e0",
-      "LastCommitAt": "2022-05-16T03:55:42Z",
-      "CciBotPassed": true,
+      "Number": 10810,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-05-16T08:20:56Z",
+      "Recipe": "diligent-fx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10810",
+      "LastCommitSHA": "316a9e0eef3e071ce33c287ede07389f0214ce35",
+      "LastCommitAt": "2022-05-16T08:20:39Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
