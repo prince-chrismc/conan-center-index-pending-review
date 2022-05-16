@@ -689,5 +689,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10823,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2022-05-16T18:43:35Z",
+      "Recipe": "sobjectizer",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10823",
+      "LastCommitSHA": "149c75a1c7c26062455a7f926ae475d0165a371f",
+      "LastCommitAt": "2022-05-16T18:41:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
