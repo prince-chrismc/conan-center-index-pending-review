@@ -587,23 +587,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 10810,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-05-16T08:20:56Z",
-      "Recipe": "diligent-fx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10810",
-      "LastCommitSHA": "316a9e0eef3e071ce33c287ede07389f0214ce35",
-      "LastCommitAt": "2022-05-16T08:20:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
