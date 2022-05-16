@@ -23,7 +23,7 @@ type Reviews struct {
 
 // IsApproved when the conditions for merging are meet as per https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
 func (r *Reviews) IsApproved() bool {
-	return r.TeamApproval && r.ValidApprovals >= 3 && len(r.Blockers) == 0
+	return r.TeamApproval && r.ValidApprovals >= 2 && len(r.Blockers) == 0
 }
 
 // ProcessReviewComments interprets the all the reviews to extract a summary based on the requirements of CCI
@@ -110,7 +110,8 @@ func isCommunityMember(reviewerName string) bool {
 	switch reviewerName {
 	// As defined by https://github.com/conan-io/conan-center-index/issues/2857
 	// and https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#community-reviewers
-	case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos", "mathbunnyru", "ericriff", "toge":
+	case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos", "mathbunnyru", "ericriff", "toge",
+		"AndreyMlashkin", "MartinDelille", "dmn-star":
 		return true
 	default:
 		return false
