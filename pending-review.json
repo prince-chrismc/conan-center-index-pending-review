@@ -123,16 +123,14 @@
       "Recipe": "openfx",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10512",
-      "LastCommitSHA": "c87d177ca4d370747060e48631a05ae7706c0956",
-      "LastCommitAt": "2022-05-03T11:18:03Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "bb3fbc708ca7f1ce5ca49c76f0c59b272a53dc0c",
+      "LastCommitAt": "2022-05-16T16:44:16Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -303,24 +301,6 @@
       }
    },
    {
-      "Number": 10732,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-05-11T09:22:10Z",
-      "Recipe": "diligent-tools",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10732",
-      "LastCommitSHA": "fa214b0e4764845b50724707cc019d6b70b94886",
-      "LastCommitAt": "2022-05-13T10:17:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10747,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-05-12T07:14:51Z",
@@ -473,9 +453,9 @@
       "Recipe": "fastpfor",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10792",
-      "LastCommitSHA": "7919a325dc394d38e0c9bcea93663e53a2e79e12",
-      "LastCommitAt": "2022-05-16T00:13:47Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "f3a095d18a6b137ca2a5d759039ac81beb93bbb9",
+      "LastCommitAt": "2022-05-16T17:18:08Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -676,6 +656,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10821",
       "LastCommitSHA": "00dcb31ece7592e3d464dfc89d1562a1aeef9299",
       "LastCommitAt": "2022-05-16T16:04:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10822,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-05-16T16:49:07Z",
+      "Recipe": "quill",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10822",
+      "LastCommitSHA": "ced2a7afc6e0fc457331e832175fdc20a0df41f7",
+      "LastCommitAt": "2022-05-16T16:46:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
