@@ -594,24 +594,6 @@
       }
    },
    {
-      "Number": 10813,
-      "OpenedBy": "fdgStilla",
-      "CreatedAt": "2022-05-16T09:53:29Z",
-      "Recipe": "cryptopp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10813",
-      "LastCommitSHA": "06cbb63917ac627f5810a8889ea6b10a7fb5a20b",
-      "LastCommitAt": "2022-05-16T09:51:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10819,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-05-16T14:34:40Z",
