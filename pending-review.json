@@ -486,16 +486,14 @@
       "Recipe": "so5extra",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10827",
-      "LastCommitSHA": "d5ae548c8eebe20c7e1b2bc837d021a0c2ff26b6",
-      "LastCommitAt": "2022-05-17T06:16:54Z",
+      "LastCommitSHA": "65ac67e7c075d6b8a408db5691f98fbc0def42c8",
+      "LastCommitAt": "2022-05-17T18:48:25Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "toge"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
