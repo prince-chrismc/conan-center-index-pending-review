@@ -689,5 +689,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10827,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2022-05-17T06:17:59Z",
+      "Recipe": "so5extra",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10827",
+      "LastCommitSHA": "d5ae548c8eebe20c7e1b2bc837d021a0c2ff26b6",
+      "LastCommitAt": "2022-05-17T06:16:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
