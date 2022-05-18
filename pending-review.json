@@ -439,5 +439,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10860,
+      "OpenedBy": "oleurodecision",
+      "CreatedAt": "2022-05-18T21:11:04Z",
+      "Recipe": "glpk",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10860",
+      "LastCommitSHA": "bd2da5455d243ae30622d868a88e06672aec515d",
+      "LastCommitAt": "2022-05-04T20:18:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
