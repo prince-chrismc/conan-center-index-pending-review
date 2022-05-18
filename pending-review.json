@@ -422,11 +422,18 @@
       "LastCommitAt": "2022-05-16T16:04:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-05-18T07:11:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10821#pullrequestreview-976457239"
+         }
       }
    },
    {
@@ -513,24 +520,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10829",
       "LastCommitSHA": "ddeee3ba7618e75e69800bc5f3ce6b3e9992f4c2",
       "LastCommitAt": "2022-05-16T19:52:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10831,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-17T16:29:44Z",
-      "Recipe": "edlib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10831",
-      "LastCommitSHA": "f308e91605c8fd44a090bbacacf0d6a8ad33efbd",
-      "LastCommitAt": "2022-05-17T16:28:12Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
