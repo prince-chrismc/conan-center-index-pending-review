@@ -6,13 +6,14 @@ require (
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/google/go-github/v42 v42.0.0
 	github.com/stretchr/testify v1.7.1
-	github.com/urfave/cli/v2 v2.6.0
+	github.com/urfave/cli/v2 v2.7.1
 	github.com/wcharczuk/go-chart/v2 v2.1.0
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	gopkg.in/h2non/gock.v1 v1.1.2
 )
 
 require (
+	github.com/antzucaro/matchr v0.0.0-20210222213004-b04723ef80f0 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0 // indirect
