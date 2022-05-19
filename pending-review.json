@@ -179,7 +179,7 @@
       "LastCommitAt": "2022-05-12T10:52:40Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -190,34 +190,8 @@
          ],
          "LastReview": {
             "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-05-18T12:39:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10747#pullrequestreview-976879584"
-         }
-      }
-   },
-   {
-      "Number": 10763,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2022-05-12T16:16:13Z",
-      "Recipe": "tllist",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10763",
-      "LastCommitSHA": "0251bb4341f8de6e85b602a07a3b5f3a0d32bce5",
-      "LastCommitAt": "2022-05-19T07:43:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-19T08:54:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10763#pullrequestreview-978210927"
+            "SubmittedAt": "2022-05-19T10:13:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10747#pullrequestreview-978320165"
          }
       }
    },
@@ -405,6 +379,24 @@
             "SubmittedAt": "2022-05-19T07:53:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10853#pullrequestreview-978113852"
          }
+      }
+   },
+   {
+      "Number": 10860,
+      "OpenedBy": "oleurodecision",
+      "CreatedAt": "2022-05-18T21:11:04Z",
+      "Recipe": "glpk",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10860",
+      "LastCommitSHA": "2621b6234f31d2815e392aa37cf21fcf2efbc8c8",
+      "LastCommitAt": "2022-05-19T07:15:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
