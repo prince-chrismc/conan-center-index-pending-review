@@ -411,6 +411,24 @@
       }
    },
    {
+      "Number": 10862,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-05-19T05:25:55Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10862",
+      "LastCommitSHA": "b8f9c92e672564143ecf1062f0166966c34866e4",
+      "LastCommitAt": "2022-05-19T09:24:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10864,
       "OpenedBy": "oleurodecision",
       "CreatedAt": "2022-05-19T11:43:43Z",
