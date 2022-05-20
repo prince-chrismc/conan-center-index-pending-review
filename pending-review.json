@@ -1,28 +1,5 @@
 [
    {
-      "Number": 9932,
-      "OpenedBy": "SamsonBox",
-      "CreatedAt": "2022-03-25T18:50:15Z",
-      "Recipe": "libcurl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9932",
-      "LastCommitSHA": "f078407213388b3ca97b8f3e0c7c232d70e6f91e",
-      "LastCommitAt": "2022-04-28T10:50:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-04-06T13:56:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9932#pullrequestreview-933539785"
-         }
-      }
-   },
-   {
       "Number": 10029,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-03-30T13:10:49Z",
