@@ -404,11 +404,18 @@
       "LastCommitAt": "2022-05-18T18:52:52Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-05-20T12:01:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10857#pullrequestreview-979997437"
+         }
       }
    },
    {
@@ -544,24 +551,6 @@
       "LastCommitSHA": "058501be69ea32b9d3216807b6bfdf22451728d9",
       "LastCommitAt": "2022-05-19T21:12:29Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10873,
-      "OpenedBy": "oleurodecision",
-      "CreatedAt": "2022-05-20T11:01:54Z",
-      "Recipe": "coin-cgl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10873",
-      "LastCommitSHA": "396fd2877fab06ab425579369baf5d4e2fb01338",
-      "LastCommitAt": "2022-05-20T10:14:59Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
