@@ -117,6 +117,29 @@
       }
    },
    {
+      "Number": 10676,
+      "OpenedBy": "chausner",
+      "CreatedAt": "2022-05-06T20:56:39Z",
+      "Recipe": "concurrencpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10676",
+      "LastCommitSHA": "57fa3204d41b999d6fad1d1e4cc1d25cc5b7e3e8",
+      "LastCommitAt": "2022-05-20T22:27:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-12T21:49:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10676#pullrequestreview-971493768"
+         }
+      }
+   },
+   {
       "Number": 10697,
       "OpenedBy": "DavidAce",
       "CreatedAt": "2022-05-09T11:22:57Z",
