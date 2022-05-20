@@ -1,5 +1,28 @@
 [
    {
+      "Number": 9932,
+      "OpenedBy": "SamsonBox",
+      "CreatedAt": "2022-03-25T18:50:15Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9932",
+      "LastCommitSHA": "5070a1bd0220654e1426e1fd9dab257f2d6b5504",
+      "LastCommitAt": "2022-05-20T10:50:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-05-20T08:36:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9932#pullrequestreview-979733864"
+         }
+      }
+   },
+   {
       "Number": 10029,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-03-30T13:10:49Z",
@@ -521,6 +544,24 @@
       "LastCommitSHA": "058501be69ea32b9d3216807b6bfdf22451728d9",
       "LastCommitAt": "2022-05-19T21:12:29Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10873,
+      "OpenedBy": "oleurodecision",
+      "CreatedAt": "2022-05-20T11:01:54Z",
+      "Recipe": "coin-cgl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10873",
+      "LastCommitSHA": "396fd2877fab06ab425579369baf5d4e2fb01338",
+      "LastCommitAt": "2022-05-20T10:14:59Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
