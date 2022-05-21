@@ -629,23 +629,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 10880,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-05-21T00:45:15Z",
-      "Recipe": "opengl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10880",
-      "LastCommitSHA": "0da53f5228eb23073fe7d7f8b81a8e41db17ca10",
-      "LastCommitAt": "2022-05-21T00:34:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
