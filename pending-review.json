@@ -243,6 +243,29 @@
       }
    },
    {
+      "Number": 10781,
+      "OpenedBy": "Croydon",
+      "CreatedAt": "2022-05-13T12:03:57Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10781",
+      "LastCommitSHA": "9b37c2d1a8aef24ea357622f172e68b13fe8d8ad",
+      "LastCommitAt": "2022-05-15T00:34:37Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-05-14T21:45:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10781#pullrequestreview-973102241"
+         }
+      }
+   },
+   {
       "Number": 10792,
       "OpenedBy": "toge",
       "CreatedAt": "2022-05-14T11:01:44Z",
@@ -603,7 +626,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10878",
       "LastCommitSHA": "5c48cef26a4723f7e2d25232c72dcaa2798d4d27",
       "LastCommitAt": "2022-05-20T20:57:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
