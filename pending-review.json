@@ -109,7 +109,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10729",
       "LastCommitSHA": "e2bd4b25aecd7be439a93c2b1f89080f6c6e1914",
       "LastCommitAt": "2022-05-23T15:49:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -279,31 +279,6 @@
       }
    },
    {
-      "Number": 10860,
-      "OpenedBy": "oleurodecision",
-      "CreatedAt": "2022-05-18T21:11:04Z",
-      "Recipe": "glpk",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10860",
-      "LastCommitSHA": "be5c9048b5c0123d8b97de1365abbf3f7a2aa09c",
-      "LastCommitAt": "2022-05-19T11:45:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-19T13:04:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10860#pullrequestreview-978535901"
-         }
-      }
-   },
-   {
       "Number": 10866,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-05-19T12:56:41Z",
@@ -410,16 +385,14 @@
       "Recipe": "fltk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10891",
-      "LastCommitSHA": "e5cc374f7de686c6c4cb01e46c6f97a670b2c240",
-      "LastCommitAt": "2022-05-23T01:20:52Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "afe70b3418427b751afb76b5f0657507ebbe091e",
+      "LastCommitAt": "2022-05-23T16:33:33Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
