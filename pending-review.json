@@ -614,7 +614,7 @@
       "Recipe": "openssl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10939",
-      "LastCommitSHA": "57f73a423a87c1053e6abb0f11701f30b353fb4c",
+      "LastCommitSHA": "159d5a1b03e94b49b78bfbe6bf67ea90d7c902fd",
       "LastCommitAt": "2022-05-24T16:02:10Z",
       "CciBotPassed": false,
       "Summary": {
@@ -634,6 +634,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10940",
       "LastCommitSHA": "c43346f82ee027983d3a15aea62534d521f126a7",
       "LastCommitAt": "2022-05-24T18:25:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 10941,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-05-24T19:34:13Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10941",
+      "LastCommitSHA": "fcedb7b7ac3aa116df19a932e10b0b17e29eef0f",
+      "LastCommitAt": "2022-05-24T19:59:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
