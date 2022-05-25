@@ -157,16 +157,14 @@
       "Recipe": "openfst",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10729",
-      "LastCommitSHA": "e2bd4b25aecd7be439a93c2b1f89080f6c6e1914",
-      "LastCommitAt": "2022-05-23T15:49:46Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "3b8ac8968150f47974b31553add3fa5f6c9206d7",
+      "LastCommitAt": "2022-05-25T05:36:00Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 10,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -492,15 +490,17 @@
       "LastCommitAt": "2022-05-23T16:33:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-23T11:53:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10891#pullrequestreview-981631475"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-05-25T05:25:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10891#pullrequestreview-984227896"
          }
       }
    },
