@@ -678,5 +678,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10943,
+      "OpenedBy": "Sil3ntStorm",
+      "CreatedAt": "2022-05-25T00:11:19Z",
+      "Recipe": "grpc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10943",
+      "LastCommitSHA": "0176f6ba1ad6d41d9451493fc0f66024163687f4",
+      "LastCommitAt": "2022-05-24T23:56:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
