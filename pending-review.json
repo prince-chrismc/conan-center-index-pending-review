@@ -809,5 +809,28 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10956,
+      "OpenedBy": "dfleury2",
+      "CreatedAt": "2022-05-26T10:46:45Z",
+      "Recipe": "beauty",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10956",
+      "LastCommitSHA": "8e8e207c1d23edc55e8b775207cb94add36f7097",
+      "LastCommitAt": "2022-05-26T13:35:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "dvirtz",
+            "SubmittedAt": "2022-05-26T13:11:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10956#pullrequestreview-986190767"
+         }
+      }
    }
 ]
