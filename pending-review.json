@@ -817,8 +817,8 @@
       "Recipe": "beauty",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10956",
-      "LastCommitSHA": "8e8e207c1d23edc55e8b775207cb94add36f7097",
-      "LastCommitAt": "2022-05-26T13:35:52Z",
+      "LastCommitSHA": "8be3b7bd3a16a8d4ad8238cd0f87848b188c78b0",
+      "LastCommitAt": "2022-05-26T14:51:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
@@ -831,6 +831,24 @@
             "SubmittedAt": "2022-05-26T13:11:29Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10956#pullrequestreview-986190767"
          }
+      }
+   },
+   {
+      "Number": 10957,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-05-26T15:07:29Z",
+      "Recipe": "ftxui",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10957",
+      "LastCommitSHA": "86739134c107298aef65df11b85cd7d7ee0ae4fd",
+      "LastCommitAt": "2022-05-26T15:06:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
