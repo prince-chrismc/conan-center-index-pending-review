@@ -826,17 +826,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10956",
       "LastCommitSHA": "8be3b7bd3a16a8d4ad8238cd0f87848b188c78b0",
       "LastCommitAt": "2022-05-26T14:51:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "dvirtz",
-            "SubmittedAt": "2022-05-26T13:11:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10956#pullrequestreview-986190767"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-05-26T19:05:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10956#pullrequestreview-986664113"
          }
       }
    },
