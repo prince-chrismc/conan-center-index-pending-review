@@ -155,8 +155,8 @@
       "Recipe": "openfst",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10729",
-      "LastCommitSHA": "3b8ac8968150f47974b31553add3fa5f6c9206d7",
-      "LastCommitAt": "2022-05-25T05:36:00Z",
+      "LastCommitSHA": "d59023c41bada444c9f14c3418a0a9951ae18c6f",
+      "LastCommitAt": "2022-05-26T01:22:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 10,
