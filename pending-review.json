@@ -487,11 +487,18 @@
       "LastCommitAt": "2022-05-23T14:37:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-05-26T09:16:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10903#pullrequestreview-985948390"
+         }
       }
    },
    {
@@ -603,8 +610,8 @@
       "Recipe": "beauty",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10917",
-      "LastCommitSHA": "608d1ccaa285648a90f2694006402b3475bd1048",
-      "LastCommitAt": "2022-05-26T07:21:11Z",
+      "LastCommitSHA": "b64f4f70072357cde5a829944bbbaa5937885810",
+      "LastCommitAt": "2022-05-26T07:26:28Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
