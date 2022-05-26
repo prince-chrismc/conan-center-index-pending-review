@@ -477,32 +477,6 @@
       }
    },
    {
-      "Number": 10900,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-05-23T12:52:45Z",
-      "Recipe": "libxft",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10900",
-      "LastCommitSHA": "1038f9a0f830f0990d915b15fa775265be04ab69",
-      "LastCommitAt": "2022-05-24T14:27:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-25T04:52:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10900#pullrequestreview-984209186"
-         }
-      }
-   },
-   {
       "Number": 10906,
       "OpenedBy": "paulharris",
       "CreatedAt": "2022-05-23T15:47:30Z",
