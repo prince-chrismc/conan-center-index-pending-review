@@ -768,31 +768,6 @@
       }
    },
    {
-      "Number": 10949,
-      "OpenedBy": "datalogics-robb",
-      "CreatedAt": "2022-05-25T17:01:23Z",
-      "Recipe": "libgd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10949",
-      "LastCommitSHA": "f571e17962eb332d8ce34b3b695e6f6d12581e4a",
-      "LastCommitAt": "2022-05-24T16:54:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-05-26T02:42:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10949#pullrequestreview-985664126"
-         }
-      }
-   },
-   {
       "Number": 10950,
       "OpenedBy": "datalogics-robb",
       "CreatedAt": "2022-05-25T17:04:13Z",
@@ -826,24 +801,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10955",
       "LastCommitSHA": "ba7d1e92973d22120b9606ac4dbd004b01931448",
       "LastCommitAt": "2022-05-26T08:28:12Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10956,
-      "OpenedBy": "dfleury2",
-      "CreatedAt": "2022-05-26T10:46:45Z",
-      "Recipe": "beauty",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10956",
-      "LastCommitSHA": "2f56d375e192ef4dd586ae995b8e64d6afc3ef47",
-      "LastCommitAt": "2022-05-26T10:46:21Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
