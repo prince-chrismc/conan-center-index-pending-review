@@ -590,6 +590,24 @@
       }
    },
    {
+      "Number": 10912,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-05-23T16:53:48Z",
+      "Recipe": "ruby",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10912",
+      "LastCommitSHA": "473e14dd4b9c5de58ea1083c17a407923d17e0de",
+      "LastCommitAt": "2022-05-25T16:41:36Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10924,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-05-24T08:26:56Z",
@@ -677,7 +695,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10938",
       "LastCommitSHA": "a655ac500158222023b9a82603b9aeaec219ec55",
       "LastCommitAt": "2022-05-24T16:54:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -758,31 +776,6 @@
       }
    },
    {
-      "Number": 10942,
-      "OpenedBy": "buresu",
-      "CreatedAt": "2022-05-24T21:24:55Z",
-      "Recipe": "llvm-openmp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10942",
-      "LastCommitSHA": "988f195d2a2a97fd9a4b4bd590c453d00d05b399",
-      "LastCommitAt": "2022-05-24T21:18:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-25T08:48:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10942#pullrequestreview-984447606"
-         }
-      }
-   },
-   {
       "Number": 10949,
       "OpenedBy": "datalogics-robb",
       "CreatedAt": "2022-05-25T17:01:23Z",
@@ -791,7 +784,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10949",
       "LastCommitSHA": "f571e17962eb332d8ce34b3b695e6f6d12581e4a",
       "LastCommitAt": "2022-05-24T16:54:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -809,24 +802,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10950",
       "LastCommitSHA": "faed5c06d81e67ef30db226d0abad6152d8d0250",
       "LastCommitAt": "2022-05-24T16:54:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10951,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-25T19:06:29Z",
-      "Recipe": "catch2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10951",
-      "LastCommitSHA": "1afda44447d1b6372224352a2fbc4968711b0767",
-      "LastCommitAt": "2022-05-25T19:00:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
