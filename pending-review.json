@@ -803,11 +803,18 @@
       "LastCommitAt": "2022-05-26T08:28:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-05-26T16:41:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10955#pullrequestreview-986497905"
+         }
       }
    },
    {
