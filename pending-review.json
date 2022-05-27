@@ -751,14 +751,18 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10941",
-      "LastCommitSHA": "d8786a5745dad522903278695b5747b2de022e40",
-      "LastCommitAt": "2022-05-26T11:15:26Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "fcedb7b7ac3aa116df19a932e10b0b17e29eef0f",
+      "LastCommitAt": "2022-05-24T19:59:58Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "jwillikers",
+            "SSE4",
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
