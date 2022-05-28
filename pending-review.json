@@ -483,5 +483,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10974,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-05-28T17:53:55Z",
+      "Recipe": "protobuf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10974",
+      "LastCommitSHA": "352b7828fd39c3d79321f2b8a69556999201eafa",
+      "LastCommitAt": "2022-05-28T17:53:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
