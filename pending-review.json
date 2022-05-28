@@ -125,32 +125,6 @@
       }
    },
    {
-      "Number": 10848,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-18T15:32:26Z",
-      "Recipe": "drogon",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10848",
-      "LastCommitSHA": "ce771ed3caa7691071be1ce4d015e69d49c337a8",
-      "LastCommitAt": "2022-05-23T14:36:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-25T13:08:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10848#pullrequestreview-984780557"
-         }
-      }
-   },
-   {
       "Number": 10873,
       "OpenedBy": "oleurodecision",
       "CreatedAt": "2022-05-20T11:01:54Z",
@@ -172,32 +146,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2022-05-25T05:12:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10873#pullrequestreview-984220393"
-         }
-      }
-   },
-   {
-      "Number": 10875,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-20T14:31:38Z",
-      "Recipe": "quill",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10875",
-      "LastCommitSHA": "bf7a6ca05d89d7619c8876ea5f71047c28c289c1",
-      "LastCommitAt": "2022-05-22T11:00:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-05-27T16:10:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10875#pullrequestreview-987713520"
          }
       }
    },
