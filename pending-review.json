@@ -483,23 +483,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 10973,
-      "OpenedBy": "martinmoene",
-      "CreatedAt": "2022-05-28T07:53:54Z",
-      "Recipe": "expected-lite",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10973",
-      "LastCommitSHA": "6174a2857bf06854035ad0ff6cc11892af3b0a22",
-      "LastCommitAt": "2022-05-28T07:53:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
