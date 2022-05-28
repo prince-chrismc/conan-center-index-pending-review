@@ -25,6 +25,29 @@
       }
    },
    {
+      "Number": 9120,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-01-28T00:07:31Z",
+      "Recipe": "zxing-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9120",
+      "LastCommitSHA": "23351f64fac6f174d8cd800aa4abd8436cc7e42d",
+      "LastCommitAt": "2022-05-25T14:06:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-01-29T08:51:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9120#pullrequestreview-866905875"
+         }
+      }
+   },
+   {
       "Number": 10512,
       "OpenedBy": "Iswenzz",
       "CreatedAt": "2022-04-26T17:14:43Z",
