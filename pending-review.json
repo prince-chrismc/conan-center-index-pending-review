@@ -35,15 +35,17 @@
       "LastCommitAt": "2022-05-25T14:06:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-01-29T08:51:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9120#pullrequestreview-866905875"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-05-29T11:13:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/9120#pullrequestreview-988607296"
          }
       }
    },
@@ -382,16 +384,14 @@
       "Recipe": "fpgen",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10928",
-      "LastCommitSHA": "b25a67e8ccd04f030b7edc0dcc333b39e947d0b1",
-      "LastCommitAt": "2022-05-27T15:56:37Z",
+      "LastCommitSHA": "91ac1b2bad2d282b6114622a3a03b4c1e9760d2e",
+      "LastCommitAt": "2022-05-29T11:37:42Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
