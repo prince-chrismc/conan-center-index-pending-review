@@ -229,59 +229,6 @@
       }
    },
    {
-      "Number": 10942,
-      "OpenedBy": "buresu",
-      "CreatedAt": "2022-05-24T21:24:55Z",
-      "Recipe": "llvm-openmp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10942",
-      "LastCommitSHA": "63b06cf8764b315339b252787ec15ebff94af3b7",
-      "LastCommitAt": "2022-05-24T21:18:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-30T11:57:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10942#pullrequestreview-989241439"
-         }
-      }
-   },
-   {
-      "Number": 10947,
-      "OpenedBy": "minlexx",
-      "CreatedAt": "2022-05-25T12:10:33Z",
-      "Recipe": "nasm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10947",
-      "LastCommitSHA": "cbc7916177eff2c3cf4c14a8932a87610859d174",
-      "LastCommitAt": "2022-05-27T19:09:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-30T11:44:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10947#pullrequestreview-989226493"
-         }
-      }
-   },
-   {
       "Number": 10951,
       "OpenedBy": "toge",
       "CreatedAt": "2022-05-25T19:06:29Z",
@@ -307,32 +254,6 @@
       }
    },
    {
-      "Number": 10956,
-      "OpenedBy": "dfleury2",
-      "CreatedAt": "2022-05-26T10:46:45Z",
-      "Recipe": "beauty",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10956",
-      "LastCommitSHA": "77bb47aaa238594040f4bfedd7719e0cb676cec2",
-      "LastCommitAt": "2022-05-27T08:06:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "toge",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-30T10:29:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10956#pullrequestreview-989078179"
-         }
-      }
-   },
-   {
       "Number": 10959,
       "OpenedBy": "hesham-essam",
       "CreatedAt": "2022-05-26T19:23:42Z",
@@ -352,32 +273,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-05-30T09:31:44Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10959#pullrequestreview-989062918"
-         }
-      }
-   },
-   {
-      "Number": 10968,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-27T15:56:02Z",
-      "Recipe": "wasmedge",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10968",
-      "LastCommitSHA": "4dd5e559900d954e645917f532d88ac24b9e8e8e",
-      "LastCommitAt": "2022-05-28T02:53:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-30T11:51:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10968#pullrequestreview-989234927"
          }
       }
    },
@@ -441,7 +336,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10989",
       "LastCommitSHA": "5b02f79747826aadb99df194e873cf8829781c81",
       "LastCommitAt": "2022-05-30T09:57:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
