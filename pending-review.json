@@ -268,5 +268,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 10994,
+      "OpenedBy": "buresu",
+      "CreatedAt": "2022-05-30T20:02:43Z",
+      "Recipe": "llvm-openmp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10994",
+      "LastCommitSHA": "cf6a390f0709f386d5a4c7e094825e720a9e8369",
+      "LastCommitAt": "2022-05-30T19:56:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
