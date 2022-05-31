@@ -25,6 +25,29 @@
       }
    },
    {
+      "Number": 10645,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-05-05T17:17:56Z",
+      "Recipe": "zyre",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10645",
+      "LastCommitSHA": "bbb0cbf7034e119eabc274655d08163ebbf0c5b9",
+      "LastCommitAt": "2022-05-31T15:25:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-05-06T11:37:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10645#pullrequestreview-964530163"
+         }
+      }
+   },
+   {
       "Number": 10697,
       "OpenedBy": "DavidAce",
       "CreatedAt": "2022-05-09T11:22:57Z",
