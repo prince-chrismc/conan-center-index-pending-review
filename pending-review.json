@@ -250,24 +250,6 @@
       }
    },
    {
-      "Number": 10993,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-30T17:24:34Z",
-      "Recipe": "libspng",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10993",
-      "LastCommitSHA": "ab17a549cacd2335ba3b421b3641268563a80cbd",
-      "LastCommitAt": "2022-05-30T17:23:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10994,
       "OpenedBy": "buresu",
       "CreatedAt": "2022-05-30T20:02:43Z",
@@ -277,24 +259,6 @@
       "LastCommitSHA": "ceeb33b0938876b76a1ee6dc3dc18fdeacf144e6",
       "LastCommitAt": "2022-05-30T19:56:29Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 10995,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-05-31T00:03:15Z",
-      "Recipe": "cpp-peglib",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10995",
-      "LastCommitSHA": "381173f693675cd688ba66b78798e58ccf48815b",
-      "LastCommitAt": "2022-05-30T21:39:31Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
