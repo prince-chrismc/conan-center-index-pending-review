@@ -129,6 +129,24 @@
       }
    },
    {
+      "Number": 10988,
+      "OpenedBy": "dsche",
+      "CreatedAt": "2022-05-30T09:01:21Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10988",
+      "LastCommitSHA": "836e9098c6ccf3190f04506515119c1e985065db",
+      "LastCommitAt": "2022-05-30T08:50:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 10992,
       "OpenedBy": "hesham-essam",
       "CreatedAt": "2022-05-30T14:19:24Z",
@@ -139,15 +157,17 @@
       "LastCommitAt": "2022-05-30T17:04:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2022-05-30T16:51:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10992#pullrequestreview-989564464"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-05-31T11:31:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10992#pullrequestreview-990283744"
          }
       }
    },
@@ -160,7 +180,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10998",
       "LastCommitSHA": "233ab5f7bb8acfd81d1d5ae2e3296e6bf7307522",
       "LastCommitAt": "2022-05-31T10:49:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
