@@ -181,9 +181,9 @@
       "Recipe": "lightgbm",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10930",
-      "LastCommitSHA": "9495f0e5b1138d177eeb2c081cc3f3e52212fdb5",
+      "LastCommitSHA": "1869f9ad8203dfa757367ec9c57ae0b1f035e489",
       "LastCommitAt": "2022-05-24T11:31:54Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -288,6 +288,24 @@
             "SubmittedAt": "2022-05-30T16:51:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10992#pullrequestreview-989564464"
          }
+      }
+   },
+   {
+      "Number": 10993,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-05-30T17:24:34Z",
+      "Recipe": "libspng",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10993",
+      "LastCommitSHA": "867d072554422617db0c5f3bc64afffd144b5a05",
+      "LastCommitAt": "2022-05-31T04:42:27Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
