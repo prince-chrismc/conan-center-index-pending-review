@@ -172,6 +172,31 @@
       }
    },
    {
+      "Number": 10994,
+      "OpenedBy": "buresu",
+      "CreatedAt": "2022-05-30T20:02:43Z",
+      "Recipe": "llvm-openmp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10994",
+      "LastCommitSHA": "cc84ea5e78ddad6b95a3301978154eb57e7edf59",
+      "LastCommitAt": "2022-05-30T19:56:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-05-31T13:25:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10994#pullrequestreview-990447672"
+         }
+      }
+   },
+   {
       "Number": 10998,
       "OpenedBy": "basiliscos",
       "CreatedAt": "2022-05-31T10:51:53Z",
