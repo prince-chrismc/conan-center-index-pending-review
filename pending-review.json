@@ -58,20 +58,19 @@
       "LastCommitAt": "2022-05-27T16:41:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 13,
-         "ValidApprovals": 2,
+         "Count": 14,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "SSE4",
-            "uilianries"
-         ],
-         "Blockers": [
+            "uilianries",
             "jgsogo"
          ],
+         "Blockers": [],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-30T11:37:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10697#pullrequestreview-989217743"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-06-01T10:05:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10697#pullrequestreview-991717040"
          }
       }
    },
@@ -206,24 +205,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10988",
       "LastCommitSHA": "836e9098c6ccf3190f04506515119c1e985065db",
       "LastCommitAt": "2022-05-30T08:50:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11004,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-01T02:02:18Z",
-      "Recipe": "quill",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11004",
-      "LastCommitSHA": "b6c97a54e25f13be076eefb892b35209b57ed9bb",
-      "LastCommitAt": "2022-06-01T01:36:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
