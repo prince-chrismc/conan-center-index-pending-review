@@ -191,31 +191,6 @@
       }
    },
    {
-      "Number": 11001,
-      "OpenedBy": "paulocoutinhox",
-      "CreatedAt": "2022-05-31T18:04:05Z",
-      "Recipe": "emsdk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11001",
-      "LastCommitSHA": "62232b24038b06b4b839686be441b318831acfef",
-      "LastCommitAt": "2022-05-31T19:58:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-06-01T16:15:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11001#pullrequestreview-992247103"
-         }
-      }
-   },
-   {
       "Number": 11009,
       "OpenedBy": "Jihadist",
       "CreatedAt": "2022-06-01T12:32:23Z",
