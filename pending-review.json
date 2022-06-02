@@ -256,15 +256,17 @@
       "LastCommitAt": "2022-06-01T16:21:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-01T16:14:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11010#pullrequestreview-992246092"
+            "SubmittedAt": "2022-06-02T07:15:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11010#pullrequestreview-993102817"
          }
       }
    }
