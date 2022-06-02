@@ -400,6 +400,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11028",
       "LastCommitSHA": "d4d627ce1c9daa1551da1aa9293f485d7d78c64e",
       "LastCommitAt": "2022-06-02T17:22:03Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11030,
+      "OpenedBy": "WilliamBehrens",
+      "CreatedAt": "2022-06-02T19:33:43Z",
+      "Recipe": "cppunit",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11030",
+      "LastCommitSHA": "de2174362b474774c0c2e8c128c47b1d1c353ee8",
+      "LastCommitAt": "2022-06-02T19:33:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11032,
+      "OpenedBy": "AntonHorbach",
+      "CreatedAt": "2022-06-02T20:15:01Z",
+      "Recipe": "opencolorio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11032",
+      "LastCommitSHA": "835ec3522b5c30d908cbe8d2e66bd1056d5eb0bc",
+      "LastCommitAt": "2022-06-02T20:11:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
