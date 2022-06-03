@@ -214,6 +214,24 @@
       }
    },
    {
+      "Number": 11003,
+      "OpenedBy": "paulocoutinhox",
+      "CreatedAt": "2022-05-31T22:34:48Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11003",
+      "LastCommitSHA": "be15b7cfcd723bf259c502e0d7a0139e369afc84",
+      "LastCommitAt": "2022-06-03T17:18:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11005,
       "OpenedBy": "tk-tnz",
       "CreatedAt": "2022-06-01T02:39:57Z",
@@ -222,7 +240,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11005",
       "LastCommitSHA": "5dffa2b45012b81ef9b722f135dd2ed3e35a2ced",
       "LastCommitAt": "2022-06-01T02:03:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
