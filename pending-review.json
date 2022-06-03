@@ -234,32 +234,6 @@
       }
    },
    {
-      "Number": 11017,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-02T08:15:54Z",
-      "Recipe": "zyre",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11017",
-      "LastCommitSHA": "c597a34d97f018f0c2e128e91e36b4dd0f326530",
-      "LastCommitAt": "2022-06-02T08:12:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-06-03T08:49:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11017#pullrequestreview-994640833"
-         }
-      }
-   },
-   {
       "Number": 11019,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-06-02T09:17:25Z",
@@ -499,6 +473,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11036",
       "LastCommitSHA": "7da3118cec337fd0a6c9e25cec0f47aa0160b67f",
       "LastCommitAt": "2022-06-03T06:26:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11038,
+      "OpenedBy": "npuichigo",
+      "CreatedAt": "2022-06-03T09:22:54Z",
+      "Recipe": "openfst",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11038",
+      "LastCommitSHA": "d8d67858b22dbc01232d7ae3c6dfae42c0d73b3d",
+      "LastCommitAt": "2022-06-03T09:22:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11039,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-06-03T10:18:03Z",
+      "Recipe": "pcre2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11039",
+      "LastCommitSHA": "31b8f64f0a73926c94caadf1ce5fce9fdf37dcd2",
+      "LastCommitAt": "2022-06-03T10:16:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
