@@ -306,24 +306,6 @@
       }
    },
    {
-      "Number": 11024,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-06-02T12:52:31Z",
-      "Recipe": "diligent-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11024",
-      "LastCommitSHA": "6344476e0155a08ec39ab45a280d615290407eaa",
-      "LastCommitAt": "2022-06-03T12:26:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11025,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-02T13:47:24Z",
@@ -566,6 +548,24 @@
             "SubmittedAt": "2022-06-03T10:20:23Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11039#pullrequestreview-994730926"
          }
+      }
+   },
+   {
+      "Number": 11040,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-06-03T13:05:55Z",
+      "Recipe": "gdk-pixbuf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11040",
+      "LastCommitSHA": "8611432a3226d6e7ce4f7e55dd2e6e4467ee5ec6",
+      "LastCommitAt": "2022-06-03T12:57:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
