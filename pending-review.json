@@ -191,6 +191,24 @@
       }
    },
    {
+      "Number": 11005,
+      "OpenedBy": "tk-tnz",
+      "CreatedAt": "2022-06-01T02:39:57Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11005",
+      "LastCommitSHA": "5dffa2b45012b81ef9b722f135dd2ed3e35a2ced",
+      "LastCommitAt": "2022-06-01T02:03:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11009,
       "OpenedBy": "Jihadist",
       "CreatedAt": "2022-06-01T12:32:23Z",
@@ -279,6 +297,24 @@
       "LastCommitSHA": "495cb7c4daaf8ca70aa32f5dd52f37a09390a5be",
       "LastCommitAt": "2022-06-02T09:17:29Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11024,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-06-02T12:52:31Z",
+      "Recipe": "diligent-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11024",
+      "LastCommitSHA": "6344476e0155a08ec39ab45a280d615290407eaa",
+      "LastCommitAt": "2022-06-03T12:26:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
