@@ -450,35 +450,17 @@
       "LastCommitAt": "2022-06-02T21:00:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11034,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-06-02T21:02:59Z",
-      "Recipe": "cmake",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11034",
-      "LastCommitSHA": "25a1f219c5811b9b185d24e9fef6bca87029ddbb",
-      "LastCommitAt": "2022-06-02T21:02:44Z",
-      "CciBotPassed": true,
-      "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
-         "TeamApproval": true,
+         "TeamApproval": false,
          "Approvals": [
-            "uilianries"
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-03T08:23:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11034#pullrequestreview-994613387"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-06-03T16:35:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11033#pullrequestreview-995184206"
          }
       }
    },
@@ -578,7 +560,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11041",
       "LastCommitSHA": "990d06af49d75d3b899c47be699a71d2185fd43a",
       "LastCommitAt": "2022-06-03T14:19:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -594,26 +576,8 @@
       "Recipe": "cairo",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11043",
-      "LastCommitSHA": "f491311d39adc21aa5fedbe24d0de5ddcdd29791",
-      "LastCommitAt": "2022-06-03T14:58:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11044,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-03T15:18:35Z",
-      "Recipe": "ctre",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11044",
-      "LastCommitSHA": "dcb207c95edf55b1abb0d725cc9fb818fca20916",
-      "LastCommitAt": "2022-06-03T15:17:42Z",
+      "LastCommitSHA": "9a6cf7a0c3c471f79d5a969c5e9d66928e2b299a",
+      "LastCommitAt": "2022-06-03T16:45:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -625,8 +589,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-06-03T15:30:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11044#pullrequestreview-995072408"
+            "SubmittedAt": "2022-06-03T16:53:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11043#pullrequestreview-995214148"
          }
       }
    }
