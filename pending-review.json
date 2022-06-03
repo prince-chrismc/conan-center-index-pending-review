@@ -244,17 +244,18 @@
       "LastCommitAt": "2022-06-02T08:12:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-02T09:41:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11017#pullrequestreview-993280259"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-06-03T08:49:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11017#pullrequestreview-994640833"
          }
       }
    },
@@ -391,11 +392,18 @@
       "LastCommitAt": "2022-06-03T03:10:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-06-03T08:24:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11028#pullrequestreview-994613944"
+         }
       }
    },
    {
@@ -468,11 +476,18 @@
       "LastCommitAt": "2022-06-02T21:02:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-06-03T08:23:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11034#pullrequestreview-994613387"
+         }
       }
    },
    {
