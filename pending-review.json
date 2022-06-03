@@ -398,9 +398,9 @@
       "Recipe": "simdjson",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11028",
-      "LastCommitSHA": "d4d627ce1c9daa1551da1aa9293f485d7d78c64e",
-      "LastCommitAt": "2022-06-02T17:22:03Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "663f7a45718a0d463074129e52285ccd244d1fd7",
+      "LastCommitAt": "2022-06-03T03:10:00Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
