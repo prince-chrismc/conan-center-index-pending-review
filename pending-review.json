@@ -641,24 +641,6 @@
       }
    },
    {
-      "Number": 11048,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-06-04T10:34:26Z",
-      "Recipe": "pango",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11048",
-      "LastCommitSHA": "bb24458fbd44a12fe0c4331afd445426132c29e7",
-      "LastCommitAt": "2022-06-04T10:32:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11049,
       "OpenedBy": "basiliscos",
       "CreatedAt": "2022-06-04T11:45:36Z",
@@ -667,7 +649,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11049",
       "LastCommitSHA": "ee289218d917e0b5c40707e6e3eba45a4d5aff60",
       "LastCommitAt": "2022-06-04T11:44:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
