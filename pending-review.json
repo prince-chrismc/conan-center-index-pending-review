@@ -632,23 +632,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11044#pullrequestreview-995072408"
          }
       }
-   },
-   {
-      "Number": 11046,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-06-03T18:16:56Z",
-      "Recipe": "harfbuzz",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11046",
-      "LastCommitSHA": "602c6ead1a65a9490423f75da0c6d51b30f71843",
-      "LastCommitAt": "2022-06-03T18:15:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
