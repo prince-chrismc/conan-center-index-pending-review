@@ -303,18 +303,19 @@
       "LastCommitAt": "2022-06-03T09:22:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "SSE4"
+            "SSE4",
+            "czoido"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-05T09:11:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11038#pullrequestreview-995989044"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2022-06-05T13:25:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11038#pullrequestreview-996006138"
          }
       }
    },
@@ -468,6 +469,31 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2022-06-05T09:17:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11050#pullrequestreview-995989396"
+         }
+      }
+   },
+   {
+      "Number": 11051,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-04T17:40:20Z",
+      "Recipe": "highway",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11051",
+      "LastCommitSHA": "8257ae2c7dda3d036cb896ffb16caf244fd3e58a",
+      "LastCommitAt": "2022-06-05T08:20:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-06-05T13:59:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11051#pullrequestreview-996008609"
          }
       }
    },
