@@ -443,6 +443,24 @@
       }
    },
    {
+      "Number": 11045,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-03T16:22:24Z",
+      "Recipe": "libnfs",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11045",
+      "LastCommitSHA": "5c53ba7147e3d9b4f65441ed113fc3e917297cf5",
+      "LastCommitAt": "2022-06-03T18:01:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11049,
       "OpenedBy": "basiliscos",
       "CreatedAt": "2022-06-04T11:45:36Z",
@@ -569,15 +587,15 @@
       }
    },
    {
-      "Number": 11061,
+      "Number": 11060,
       "OpenedBy": "toge",
-      "CreatedAt": "2022-06-05T15:43:02Z",
-      "Recipe": "capnproto",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11061",
-      "LastCommitSHA": "b2efe67ddf0600a6898180aaa179da0e41c43374",
-      "LastCommitAt": "2022-06-05T15:41:37Z",
-      "CciBotPassed": false,
+      "CreatedAt": "2022-06-05T15:27:54Z",
+      "Recipe": "libsixel",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11060",
+      "LastCommitSHA": "efc815f6208fb3c3a4667eb7e5cfe00324dc652d",
+      "LastCommitAt": "2022-06-05T17:22:16Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
