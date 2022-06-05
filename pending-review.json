@@ -603,5 +603,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11061,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-05T15:43:02Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11061",
+      "LastCommitSHA": "7d0f1571344fd1bf4ac6d477275e92139fc37f86",
+      "LastCommitAt": "2022-06-05T17:30:56Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
