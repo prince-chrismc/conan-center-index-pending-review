@@ -274,7 +274,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11025",
       "LastCommitSHA": "397405decac524725848d8dff9d61f519db06869",
       "LastCommitAt": "2022-06-05T14:56:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -611,9 +611,9 @@
       "Recipe": "capnproto",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11061",
-      "LastCommitSHA": "7d0f1571344fd1bf4ac6d477275e92139fc37f86",
-      "LastCommitAt": "2022-06-05T17:30:56Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "bfa10de2cc8ce43623ffb4bc793eff5ddb7b32a8",
+      "LastCommitAt": "2022-06-06T01:53:34Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
