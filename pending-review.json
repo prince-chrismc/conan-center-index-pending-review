@@ -841,5 +841,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11080,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-08T03:16:53Z",
+      "Recipe": "arrow",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11080",
+      "LastCommitSHA": "ed4a366334b44946e9ecbcf2025d14164e3de02f",
+      "LastCommitAt": "2022-06-08T04:09:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11083,
+      "OpenedBy": "l2dy",
+      "CreatedAt": "2022-06-08T05:31:23Z",
+      "Recipe": "cereal",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11083",
+      "LastCommitSHA": "a5e9cec585ca367d82151b8adb9c0fa85f1438da",
+      "LastCommitAt": "2022-06-08T01:09:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
