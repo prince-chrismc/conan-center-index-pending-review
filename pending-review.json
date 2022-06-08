@@ -68,86 +68,6 @@
       }
    },
    {
-      "Number": 11065,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-06T16:31:24Z",
-      "Recipe": "opentelemetry-proto",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11065",
-      "LastCommitSHA": "f3dbad357256c17aebd67918a3e372b7770ad839",
-      "LastCommitAt": "2022-06-06T21:39:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-08T11:08:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11065#pullrequestreview-999540684"
-         }
-      }
-   },
-   {
-      "Number": 11066,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-06-06T19:45:37Z",
-      "Recipe": "libalsa",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11066",
-      "LastCommitSHA": "329876546a9f77373858d04a533d1e05944e001f",
-      "LastCommitAt": "2022-06-06T19:45:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "intelligide",
-            "Croydon",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-08T11:08:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11066#pullrequestreview-999540824"
-         }
-      }
-   },
-   {
-      "Number": 11067,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-06-06T19:54:58Z",
-      "Recipe": "at-spi2-core",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11067",
-      "LastCommitSHA": "47b738e25f8e61322d2adf1cffe6c6fabbb68bc5",
-      "LastCommitAt": "2022-06-06T19:54:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "intelligide",
-            "Croydon",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-08T11:08:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11067#pullrequestreview-999541642"
-         }
-      }
-   },
-   {
       "Number": 11068,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-06-06T20:00:29Z",
@@ -308,33 +228,6 @@
       }
    },
    {
-      "Number": 11086,
-      "OpenedBy": "vvarma",
-      "CreatedAt": "2022-06-08T08:29:02Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11086",
-      "LastCommitSHA": "640fe904c9cdc93c9bea72d568c2ab6ece951dd2",
-      "LastCommitAt": "2022-05-31T18:13:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-06-08T18:02:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11086#pullrequestreview-1000213675"
-         }
-      }
-   },
-   {
       "Number": 11088,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-08T10:02:10Z",
@@ -343,7 +236,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11088",
       "LastCommitSHA": "817b001571d809c27dcb6eb5bf2155df7449b9c4",
       "LastCommitAt": "2022-06-08T06:58:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
