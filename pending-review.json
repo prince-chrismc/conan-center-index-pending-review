@@ -166,7 +166,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11089",
       "LastCommitSHA": "e47f7dc1c829e212b59a3a751203f0eea2c6ad5a",
       "LastCommitAt": "2022-06-08T13:03:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -222,11 +222,18 @@
       "LastCommitAt": "2022-06-08T16:38:17Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-06-09T07:07:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11093#pullrequestreview-1000821219"
+         }
       }
    },
    {
@@ -248,24 +255,6 @@
       }
    },
    {
-      "Number": 11096,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-09T02:50:01Z",
-      "Recipe": "cpp-httplib",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11096",
-      "LastCommitSHA": "6e23268a846ac392d71a92de4515926e2db03072",
-      "LastCommitAt": "2022-06-09T01:24:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11097,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-09T02:53:23Z",
@@ -274,7 +263,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11097",
       "LastCommitSHA": "ab6627d51f8c2815f2d145d81eb76f553aca35fb",
       "LastCommitAt": "2022-06-09T01:13:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
