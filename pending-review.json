@@ -131,32 +131,6 @@
       }
    },
    {
-      "Number": 11091,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-06-08T16:28:34Z",
-      "Recipe": "mingw-w64",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11091",
-      "LastCommitSHA": "c264337c5f31ab78c131dc018b8928099b75527d",
-      "LastCommitAt": "2022-06-09T12:59:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-09T20:07:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11091#pullrequestreview-1001917410"
-         }
-      }
-   },
-   {
       "Number": 11093,
       "OpenedBy": "hesham-essam",
       "CreatedAt": "2022-06-08T16:46:52Z",
@@ -201,24 +175,6 @@
       }
    },
    {
-      "Number": 11095,
-      "OpenedBy": "datalogics-robb",
-      "CreatedAt": "2022-06-08T22:53:36Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11095",
-      "LastCommitSHA": "c34c4899cfff6da4dfa19e3cb0a54eb8d01afdb7",
-      "LastCommitAt": "2022-06-08T13:56:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11099,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-09T04:59:37Z",
@@ -246,6 +202,24 @@
       "LastCommitSHA": "301a10807f3f6caf95101cd0dd17d64d3083f8cf",
       "LastCommitAt": "2022-06-09T12:56:59Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11105,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-06-09T11:50:30Z",
+      "Recipe": "ceres-solver",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11105",
+      "LastCommitSHA": "340d513434d936a69bd9548a1a1ece24ab07bc0c",
+      "LastCommitAt": "2022-06-09T13:41:15Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
