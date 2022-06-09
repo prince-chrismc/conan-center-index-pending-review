@@ -181,6 +181,24 @@
       }
    },
    {
+      "Number": 11094,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-08T18:00:35Z",
+      "Recipe": "thrift",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11094",
+      "LastCommitSHA": "5836673af6dea8d51b8a18f623ee5f65dc387b4e",
+      "LastCommitAt": "2022-06-09T00:50:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11099,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-09T04:59:37Z",
@@ -261,6 +279,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11109",
       "LastCommitSHA": "a9800358b057184d2e922ad5167d5d3bb46453b6",
       "LastCommitAt": "2022-06-09T16:40:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11110,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-09T17:47:07Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11110",
+      "LastCommitSHA": "44567d88ea545a0b227c203ae70dcf61e4b1991c",
+      "LastCommitAt": "2022-06-09T17:45:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
