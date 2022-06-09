@@ -202,7 +202,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11092",
       "LastCommitSHA": "45fb8393bfd9dea91ebaf94e2dc7125cb0bd1bb3",
       "LastCommitAt": "2022-06-08T23:50:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -248,24 +248,6 @@
       }
    },
    {
-      "Number": 11095,
-      "OpenedBy": "datalogics-robb",
-      "CreatedAt": "2022-06-08T22:53:36Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11095",
-      "LastCommitSHA": "c34c4899cfff6da4dfa19e3cb0a54eb8d01afdb7",
-      "LastCommitAt": "2022-06-08T13:56:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11096,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-09T02:50:01Z",
@@ -292,24 +274,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11097",
       "LastCommitSHA": "ab6627d51f8c2815f2d145d81eb76f553aca35fb",
       "LastCommitAt": "2022-06-09T01:13:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11099,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-09T04:59:37Z",
-      "Recipe": "libmysqlclient",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11099",
-      "LastCommitSHA": "55d0296b0eb04101c0a8128c1b2528dc079c7a7d",
-      "LastCommitAt": "2022-06-09T04:55:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
