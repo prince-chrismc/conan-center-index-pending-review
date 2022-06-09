@@ -68,6 +68,33 @@
       }
    },
    {
+      "Number": 11073,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2022-06-07T08:54:04Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11073",
+      "LastCommitSHA": "2bcbcfb500955a2afcff88f1ad96d93109ebc372",
+      "LastCommitAt": "2022-06-07T08:53:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4",
+            "uilianries",
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-06-07T09:07:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11073#pullrequestreview-997792904"
+         }
+      }
+   },
+   {
       "Number": 11075,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-06-07T13:40:34Z",
@@ -167,6 +194,24 @@
       }
    },
    {
+      "Number": 11092,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-08T16:44:03Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11092",
+      "LastCommitSHA": "45fb8393bfd9dea91ebaf94e2dc7125cb0bd1bb3",
+      "LastCommitAt": "2022-06-08T23:50:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11093,
       "OpenedBy": "hesham-essam",
       "CreatedAt": "2022-06-08T16:46:52Z",
@@ -191,8 +236,8 @@
       "Recipe": "thrift",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11094",
-      "LastCommitSHA": "f115af0ebff8a523a3045799a9f9d48b3e79947e",
-      "LastCommitAt": "2022-06-08T17:57:42Z",
+      "LastCommitSHA": "5836673af6dea8d51b8a18f623ee5f65dc387b4e",
+      "LastCommitAt": "2022-06-09T00:50:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
