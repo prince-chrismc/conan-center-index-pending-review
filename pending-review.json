@@ -264,5 +264,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11096,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-09T02:50:01Z",
+      "Recipe": "cpp-httplib",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11096",
+      "LastCommitSHA": "6e23268a846ac392d71a92de4515926e2db03072",
+      "LastCommitAt": "2022-06-09T01:24:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11097,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-09T02:53:23Z",
+      "Recipe": "cpp-peglib",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11097",
+      "LastCommitSHA": "ab6627d51f8c2815f2d145d81eb76f553aca35fb",
+      "LastCommitAt": "2022-06-09T01:13:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
