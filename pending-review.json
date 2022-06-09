@@ -249,26 +249,39 @@
       }
    },
    {
-      "Number": 11102,
-      "OpenedBy": "ggulgulia",
-      "CreatedAt": "2022-06-09T08:13:41Z",
-      "Recipe": "ogre",
+      "Number": 11104,
+      "OpenedBy": "bigerl",
+      "CreatedAt": "2022-06-09T10:04:31Z",
+      "Recipe": "dice-template-library",
       "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11102",
-      "LastCommitSHA": "4eea32483a7f0a84ca739552af1250166c221a6b",
-      "LastCommitAt": "2022-06-09T11:06:24Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11104",
+      "LastCommitSHA": "21f4ef6c6b77deccd2e49cb5502f0cdc345a2c69",
+      "LastCommitAt": "2022-06-09T12:20:10Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-09T10:27:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11102#pullrequestreview-1001075643"
-         }
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11106,
+      "OpenedBy": "l2dy",
+      "CreatedAt": "2022-06-09T12:33:18Z",
+      "Recipe": "aws-c-event-stream",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11106",
+      "LastCommitSHA": "02272b08e920a3f5a4dfd89228463cc97482e794",
+      "LastCommitAt": "2022-06-09T06:39:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
