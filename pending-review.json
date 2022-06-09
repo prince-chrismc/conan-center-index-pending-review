@@ -123,24 +123,6 @@
       "LastCommitAt": "2022-06-09T12:59:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11092,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-08T16:44:03Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11092",
-      "LastCommitSHA": "45fb8393bfd9dea91ebaf94e2dc7125cb0bd1bb3",
-      "LastCommitAt": "2022-06-08T23:50:37Z",
-      "CciBotPassed": true,
-      "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
          "TeamApproval": true,
@@ -150,8 +132,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-09T07:41:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11092#pullrequestreview-1000863793"
+            "SubmittedAt": "2022-06-09T14:15:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11091#pullrequestreview-1001413977"
          }
       }
    },
@@ -178,42 +160,6 @@
             "SubmittedAt": "2022-06-09T07:07:13Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11093#pullrequestreview-1000821219"
          }
-      }
-   },
-   {
-      "Number": 11094,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-08T18:00:35Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11094",
-      "LastCommitSHA": "5836673af6dea8d51b8a18f623ee5f65dc387b4e",
-      "LastCommitAt": "2022-06-09T00:50:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11095,
-      "OpenedBy": "datalogics-robb",
-      "CreatedAt": "2022-06-08T22:53:36Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11095",
-      "LastCommitSHA": "c34c4899cfff6da4dfa19e3cb0a54eb8d01afdb7",
-      "LastCommitAt": "2022-06-08T13:56:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -245,17 +191,18 @@
       "LastCommitAt": "2022-06-09T07:53:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-09T08:01:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11101#pullrequestreview-1000891519"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-06-09T14:55:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11101#pullrequestreview-1001485747"
          }
       }
    },
@@ -268,7 +215,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11104",
       "LastCommitSHA": "301a10807f3f6caf95101cd0dd17d64d3083f8cf",
       "LastCommitAt": "2022-06-09T12:56:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -304,7 +251,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11107",
       "LastCommitSHA": "477725072f965fc0491ddcfd031603fd4d9c5e25",
       "LastCommitAt": "2022-06-09T13:06:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
