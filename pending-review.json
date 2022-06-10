@@ -437,5 +437,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11123,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-06-10T14:47:23Z",
+      "Recipe": ".github",
+      "Change": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11123",
+      "LastCommitSHA": "da4fa45fec4fa126e94572669d299616b12b9510",
+      "LastCommitAt": "2022-06-10T14:51:08Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
