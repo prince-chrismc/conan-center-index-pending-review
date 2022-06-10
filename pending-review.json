@@ -186,17 +186,14 @@
       "Recipe": "cairo",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11093",
-      "LastCommitSHA": "910ce40ccb46395b7fd13abacbb5a61c0bef74af",
-      "LastCommitAt": "2022-06-08T16:38:17Z",
+      "LastCommitSHA": "af9dbc5ab6e452766fcd5e0c6bfaffc177a27d90",
+      "LastCommitAt": "2022-06-10T17:36:11Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -214,6 +211,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11094",
       "LastCommitSHA": "5836673af6dea8d51b8a18f623ee5f65dc387b4e",
       "LastCommitAt": "2022-06-09T00:50:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11095,
+      "OpenedBy": "datalogics-robb",
+      "CreatedAt": "2022-06-08T22:53:36Z",
+      "Recipe": "icu",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11095",
+      "LastCommitSHA": "e0668671d050f92103e966d47078beb48f37e96a",
+      "LastCommitAt": "2022-06-10T17:46:06Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
