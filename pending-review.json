@@ -299,5 +299,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11114,
+      "OpenedBy": "Zvicii",
+      "CreatedAt": "2022-06-10T04:13:40Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11114",
+      "LastCommitSHA": "a0f652171660e52a50200b93d21b325a48dfb3f5",
+      "LastCommitAt": "2022-06-10T04:12:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
