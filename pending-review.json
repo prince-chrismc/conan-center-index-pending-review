@@ -73,6 +73,29 @@
       }
    },
    {
+      "Number": 10597,
+      "OpenedBy": "staskau",
+      "CreatedAt": "2022-05-03T13:31:25Z",
+      "Recipe": "systemc-cci",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10597",
+      "LastCommitSHA": "9c16dd406782bf259cf7143beb45b596e372778c",
+      "LastCommitAt": "2022-06-10T18:58:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-05-07T09:26:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10597#pullrequestreview-965313327"
+         }
+      }
+   },
+   {
       "Number": 10988,
       "OpenedBy": "dsche",
       "CreatedAt": "2022-05-30T09:01:21Z",
@@ -88,32 +111,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11071,
-      "OpenedBy": "mvhv",
-      "CreatedAt": "2022-06-07T06:54:42Z",
-      "Recipe": "libjpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11071",
-      "LastCommitSHA": "7c21b41fb6e4306aa5150eb144cd55b53551e41f",
-      "LastCommitAt": "2022-06-07T06:03:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2022-06-07T10:31:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11071#pullrequestreview-997905715"
-         }
       }
    },
    {
