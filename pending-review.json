@@ -213,24 +213,6 @@
       }
    },
    {
-      "Number": 11095,
-      "OpenedBy": "datalogics-robb",
-      "CreatedAt": "2022-06-08T22:53:36Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11095",
-      "LastCommitSHA": "e0668671d050f92103e966d47078beb48f37e96a",
-      "LastCommitAt": "2022-06-10T17:46:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11099,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-09T04:59:37Z",
@@ -264,32 +246,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11113,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-09T23:58:53Z",
-      "Recipe": "catch2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11113",
-      "LastCommitSHA": "848e8c9b70a0a7529019492ceed32af0a185cff4",
-      "LastCommitAt": "2022-06-09T23:56:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-10T20:34:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11113#pullrequestreview-1003298882"
-         }
       }
    },
    {
