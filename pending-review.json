@@ -164,11 +164,18 @@
       "LastCommitAt": "2022-06-08T15:53:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-06-11T22:56:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11090#pullrequestreview-1003504771"
+         }
       }
    },
    {
@@ -192,24 +199,6 @@
             "SubmittedAt": "2022-06-09T20:07:10Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11093#pullrequestreview-1001917509"
          }
-      }
-   },
-   {
-      "Number": 11094,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-08T18:00:35Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11094",
-      "LastCommitSHA": "5836673af6dea8d51b8a18f623ee5f65dc387b4e",
-      "LastCommitAt": "2022-06-09T00:50:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -239,24 +228,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11099",
       "LastCommitSHA": "6e6e7aff3b2c446a74c52aadafba67bf58c7f2d7",
       "LastCommitAt": "2022-06-09T10:25:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11104,
-      "OpenedBy": "bigerl",
-      "CreatedAt": "2022-06-09T10:04:31Z",
-      "Recipe": "dice-template-library",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11104",
-      "LastCommitSHA": "301a10807f3f6caf95101cd0dd17d64d3083f8cf",
-      "LastCommitAt": "2022-06-09T12:56:59Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -365,6 +336,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11131",
       "LastCommitSHA": "1562fc175b322627f89592a6ef8f393baa56c423",
       "LastCommitAt": "2022-06-11T18:36:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11133,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2022-06-11T22:39:55Z",
+      "Recipe": "automake",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11133",
+      "LastCommitSHA": "0de150eb16eb1f4ba2407b92af65716748cdd285",
+      "LastCommitAt": "2022-06-11T22:39:06Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
