@@ -418,8 +418,8 @@
       "Recipe": "gtk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11137",
-      "LastCommitSHA": "59fe64f35bc11cebebac683fa8db1052c85bd50f",
-      "LastCommitAt": "2022-06-12T13:08:41Z",
+      "LastCommitSHA": "5aa4b97fd8eba6edfc2bb61cb7b7f7da8a97ed29",
+      "LastCommitAt": "2022-06-12T13:22:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
