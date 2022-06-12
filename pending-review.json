@@ -346,15 +346,15 @@
       }
    },
    {
-      "Number": 11133,
+      "Number": 11134,
       "OpenedBy": "madebr",
-      "CreatedAt": "2022-06-11T22:39:55Z",
-      "Recipe": "automake",
+      "CreatedAt": "2022-06-11T22:44:10Z",
+      "Recipe": "libtool",
       "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11133",
-      "LastCommitSHA": "0de150eb16eb1f4ba2407b92af65716748cdd285",
-      "LastCommitAt": "2022-06-11T22:39:06Z",
-      "CciBotPassed": true,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11134",
+      "LastCommitSHA": "db5e1dc2263e97d66d42c2b854a8e440e4dddd35",
+      "LastCommitAt": "2022-06-11T22:42:20Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
