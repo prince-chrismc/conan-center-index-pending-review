@@ -127,31 +127,6 @@
       }
    },
    {
-      "Number": 11090,
-      "OpenedBy": "datalogics-kam",
-      "CreatedAt": "2022-06-08T15:59:42Z",
-      "Recipe": "b2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11090",
-      "LastCommitSHA": "6992b01e28173904b4c57210e1489648cf926b5a",
-      "LastCommitAt": "2022-06-08T15:53:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "madebr"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-06-11T22:56:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11090#pullrequestreview-1003504771"
-         }
-      }
-   },
-   {
       "Number": 11093,
       "OpenedBy": "hesham-essam",
       "CreatedAt": "2022-06-08T16:46:52Z",
