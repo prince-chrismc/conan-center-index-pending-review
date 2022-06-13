@@ -33,7 +33,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10084",
       "LastCommitSHA": "03146325b2f9f76711f96a15cdbb18ec980da048",
       "LastCommitAt": "2022-06-13T19:30:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -93,6 +93,24 @@
             "SubmittedAt": "2022-05-07T09:26:21Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10597#pullrequestreview-965313327"
          }
+      }
+   },
+   {
+      "Number": 10988,
+      "OpenedBy": "dsche",
+      "CreatedAt": "2022-05-30T09:01:21Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10988",
+      "LastCommitSHA": "8a734e3588e32fb0dd1f434d424d27de714a871e",
+      "LastCommitAt": "2022-06-07T08:21:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -307,7 +325,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11153",
       "LastCommitSHA": "a615cc9411d11185415bb781a8df036c35db1c69",
       "LastCommitAt": "2022-06-13T10:13:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -325,7 +343,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11154",
       "LastCommitSHA": "eb1b0d6f001b37c2332c78ca266a5cedda1f35ff",
       "LastCommitAt": "2022-06-13T09:16:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -394,24 +412,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11170",
       "LastCommitSHA": "9c9b5b376d4caf10aac9344715cb9034b529fc84",
       "LastCommitAt": "2022-06-13T19:12:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11171,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-06-13T19:34:24Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11171",
-      "LastCommitSHA": "8e1e168d90255fd451128e1ffdebfec042317c21",
-      "LastCommitAt": "2022-06-13T19:33:06Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
