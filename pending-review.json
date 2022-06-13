@@ -351,5 +351,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11158,
+      "OpenedBy": "fcelda",
+      "CreatedAt": "2022-06-13T11:21:29Z",
+      "Recipe": "ldns",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11158",
+      "LastCommitSHA": "3bec9262f4cc36a1696621f438046a90a66dd184",
+      "LastCommitAt": "2022-06-13T13:45:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
