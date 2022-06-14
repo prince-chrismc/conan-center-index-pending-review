@@ -173,7 +173,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11077",
       "LastCommitSHA": "af49818cbf904ba63e7228748639d1d78bae0c22",
       "LastCommitAt": "2022-06-14T11:10:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -572,6 +572,24 @@
             "SubmittedAt": "2022-06-14T10:08:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11191#pullrequestreview-1005594961"
          }
+      }
+   },
+   {
+      "Number": 11193,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-14T12:15:59Z",
+      "Recipe": "kuba-zip",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11193",
+      "LastCommitSHA": "08ec207c8c6a621a2359f5bf61b174da0862e415",
+      "LastCommitAt": "2022-06-14T06:44:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
