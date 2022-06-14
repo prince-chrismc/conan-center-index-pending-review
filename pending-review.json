@@ -79,9 +79,9 @@
       "Recipe": "systemc-cci",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10597",
-      "LastCommitSHA": "ee23bb3da0e8167b9370d55d59fa01677b351ebf",
-      "LastCommitAt": "2022-06-13T09:00:36Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a0076972109bddcc3baa95144406f43262c0b456",
+      "LastCommitAt": "2022-06-14T14:55:55Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -235,8 +235,8 @@
       "Recipe": "ogre",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11102",
-      "LastCommitSHA": "2c4589c37c60e1e8d1e3786d6a91c5be86a4d9dd",
-      "LastCommitAt": "2022-06-14T13:56:41Z",
+      "LastCommitSHA": "a56213825a5326ab23e503b2be8a549d9c787182",
+      "LastCommitAt": "2022-06-14T15:01:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 9,
