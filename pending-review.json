@@ -366,5 +366,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11171,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-06-13T19:34:24Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11171",
+      "LastCommitSHA": "1e3629650b8d6b41b007ce874a839ba0d17f699f",
+      "LastCommitAt": "2022-06-13T19:33:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-06-13T23:36:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11171#pullrequestreview-1005071971"
+         }
+      }
    }
 ]
