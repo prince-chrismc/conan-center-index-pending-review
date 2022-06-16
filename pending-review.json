@@ -411,31 +411,6 @@
       }
    },
    {
-      "Number": 11226,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-06-16T06:01:32Z",
-      "Recipe": "spirv-tools",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11226",
-      "LastCommitSHA": "30e586a7eae276a708c3f66609a7b07947c77033",
-      "LastCommitAt": "2022-06-16T06:00:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-16T07:01:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11226#pullrequestreview-1008585257"
-         }
-      }
-   },
-   {
       "Number": 11228,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-06-16T07:34:52Z",
@@ -444,24 +419,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11228",
       "LastCommitSHA": "580e57c3c9407a49dc295f9acc1754f384e47427",
       "LastCommitAt": "2022-06-16T07:34:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11229,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-06-16T07:41:12Z",
-      "Recipe": "geos",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11229",
-      "LastCommitSHA": "7530a7577b2b0163d6b43f0df25ffdeaecb15395",
-      "LastCommitAt": "2022-06-16T07:40:49Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
