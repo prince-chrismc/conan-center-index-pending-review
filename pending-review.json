@@ -226,32 +226,6 @@
       }
    },
    {
-      "Number": 11166,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-06-13T14:37:58Z",
-      "Recipe": "pango",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11166",
-      "LastCommitSHA": "e6c8a9301e4820c74a2d4c632ac2e0d1d283aea1",
-      "LastCommitAt": "2022-06-15T12:03:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-15T16:30:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11166#pullrequestreview-1007805084"
-         }
-      }
-   },
-   {
       "Number": 11172,
       "OpenedBy": "ggulgulia",
       "CreatedAt": "2022-06-13T20:04:24Z",
@@ -334,7 +308,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11180",
       "LastCommitSHA": "574b55a7afff744e6a295b6db3149467a7e72891",
       "LastCommitAt": "2022-06-14T08:15:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 2,
@@ -776,7 +750,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11229",
       "LastCommitSHA": "7530a7577b2b0163d6b43f0df25ffdeaecb15395",
       "LastCommitAt": "2022-06-16T07:40:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
