@@ -114,6 +114,54 @@
       }
    },
    {
+      "Number": 11035,
+      "OpenedBy": "lbakman",
+      "CreatedAt": "2022-06-02T22:36:19Z",
+      "Recipe": "poco",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11035",
+      "LastCommitSHA": "e34b502d9a1dcac3936a79fc773f2b3f84043e7c",
+      "LastCommitAt": "2022-06-16T07:19:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": [],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-06-16T07:25:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11035#pullrequestreview-1008611222"
+         }
+      }
+   },
+   {
+      "Number": 11063,
+      "OpenedBy": "strangeQuark1041",
+      "CreatedAt": "2022-06-06T07:44:26Z",
+      "Recipe": "samarium",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11063",
+      "LastCommitSHA": "4b74c975942922e5167af597c8e22b5a2865deec",
+      "LastCommitAt": "2022-06-16T08:03:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-06-16T07:22:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11063#pullrequestreview-1008599230"
+         }
+      }
+   },
+   {
       "Number": 11075,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-06-07T13:40:34Z",
@@ -743,6 +791,42 @@
             "SubmittedAt": "2022-06-16T07:01:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11226#pullrequestreview-1008585257"
          }
+      }
+   },
+   {
+      "Number": 11228,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-06-16T07:34:52Z",
+      "Recipe": "proj",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11228",
+      "LastCommitSHA": "580e57c3c9407a49dc295f9acc1754f384e47427",
+      "LastCommitAt": "2022-06-16T07:34:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11229,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-06-16T07:41:12Z",
+      "Recipe": "geos",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11229",
+      "LastCommitSHA": "7530a7577b2b0163d6b43f0df25ffdeaecb15395",
+      "LastCommitAt": "2022-06-16T07:40:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
