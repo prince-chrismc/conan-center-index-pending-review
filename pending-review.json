@@ -632,5 +632,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11224,
+      "OpenedBy": "buresu",
+      "CreatedAt": "2022-06-16T04:52:28Z",
+      "Recipe": "opencv",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11224",
+      "LastCommitSHA": "599fd13a7b65249d8c2f60a48fdd1df4aaef32cd",
+      "LastCommitAt": "2022-06-16T04:47:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
