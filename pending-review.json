@@ -455,13 +455,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11238",
       "LastCommitSHA": "36060f02bf163aa505d56983e7a287ee2c5beede",
       "LastCommitAt": "2022-06-16T20:25:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-06-16T21:54:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11238#pullrequestreview-1009740090"
+         }
       }
    },
    {
@@ -473,6 +480,85 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11239",
       "LastCommitSHA": "71eb0489f13e0aedd57cc8694d2200491f56ba32",
       "LastCommitAt": "2022-06-16T20:27:21Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-06-16T21:53:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11239#pullrequestreview-1009739486"
+         }
+      }
+   },
+   {
+      "Number": 11241,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-06-16T21:45:55Z",
+      "Recipe": "vulkan-validationlayers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11241",
+      "LastCommitSHA": "8c5c42b3e424dbe62c88c38921ab7d291519a2cb",
+      "LastCommitAt": "2022-06-16T21:45:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11242,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-06-16T21:51:48Z",
+      "Recipe": "glslang",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11242",
+      "LastCommitSHA": "75587dbfc67bc41f65e84eeabbcb1b1ec2dbf4b6",
+      "LastCommitAt": "2022-06-16T21:51:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11243,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-06-16T21:56:26Z",
+      "Recipe": "vulkan-memory-allocator",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11243",
+      "LastCommitSHA": "59cbc18a689ef86e472e7ffe9d0bb9cce95f8d51",
+      "LastCommitAt": "2022-06-16T21:56:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11244,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-06-16T22:08:09Z",
+      "Recipe": "volk",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11244",
+      "LastCommitSHA": "039d308fd131eac37bb489a943de81a8079eeba9",
+      "LastCommitAt": "2022-06-16T22:07:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
