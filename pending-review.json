@@ -122,7 +122,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11035",
       "LastCommitSHA": "41cb7845c45f700f353583ce74fe5818d9034260",
       "LastCommitAt": "2022-06-15T12:13:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -612,6 +612,42 @@
       "LastCommitSHA": "f35c3b90d3322ccc2c7123421dc0186c6de79da7",
       "LastCommitAt": "2022-06-15T16:55:17Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11221,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-15T23:26:32Z",
+      "Recipe": "daw_utf_range",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11221",
+      "LastCommitSHA": "a9982b9344f9de1be1ae10c565d317b2a146ffe0",
+      "LastCommitAt": "2022-06-15T23:25:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11222,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-15T23:54:24Z",
+      "Recipe": "simdjson",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11222",
+      "LastCommitSHA": "b9f1ce4366845d1b6d0bb8175abfcdcb7dd955ad",
+      "LastCommitAt": "2022-06-15T23:51:34Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
