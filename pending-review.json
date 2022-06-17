@@ -505,7 +505,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11241",
       "LastCommitSHA": "8c5c42b3e424dbe62c88c38921ab7d291519a2cb",
       "LastCommitAt": "2022-06-16T21:45:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -551,32 +551,14 @@
       }
    },
    {
-      "Number": 11245,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-06-16T22:19:46Z",
-      "Recipe": "calceph",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11245",
-      "LastCommitSHA": "f719d28a391ec2c9bb93a64fdbcfd0dcb1b48a86",
-      "LastCommitAt": "2022-06-16T22:19:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11247,
-      "OpenedBy": "KaoCC",
-      "CreatedAt": "2022-06-16T22:55:33Z",
-      "Recipe": "glfw",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11247",
-      "LastCommitSHA": "b0d1ce6459fba9686fc8c9773e61dc428ae83c21",
-      "LastCommitAt": "2022-06-16T22:50:54Z",
+      "Number": 11248,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-16T23:48:06Z",
+      "Recipe": "libgit2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11248",
+      "LastCommitSHA": "6b2859cfcf8676feffd6cee48ed52d8103c00632",
+      "LastCommitAt": "2022-06-16T02:53:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
