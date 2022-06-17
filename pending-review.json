@@ -114,32 +114,6 @@
       }
    },
    {
-      "Number": 11035,
-      "OpenedBy": "lbakman",
-      "CreatedAt": "2022-06-02T22:36:19Z",
-      "Recipe": "poco",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11035",
-      "LastCommitSHA": "e34b502d9a1dcac3936a79fc773f2b3f84043e7c",
-      "LastCommitAt": "2022-06-16T07:19:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-17T04:26:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11035#pullrequestreview-1009982922"
-         }
-      }
-   },
-   {
       "Number": 11075,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-06-07T13:40:34Z",
