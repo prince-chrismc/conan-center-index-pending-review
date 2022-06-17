@@ -117,29 +117,6 @@
       }
    },
    {
-      "Number": 11102,
-      "OpenedBy": "ggulgulia",
-      "CreatedAt": "2022-06-09T08:13:41Z",
-      "Recipe": "ogre",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11102",
-      "LastCommitSHA": "51dc8598c6566344e85f52caebb470dc517c073a",
-      "LastCommitAt": "2022-06-17T08:56:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 16,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-06-17T08:51:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11102#pullrequestreview-1010208394"
-         }
-      }
-   },
-   {
       "Number": 11154,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-06-13T09:19:08Z",
@@ -186,41 +163,17 @@
       "LastCommitAt": "2022-06-16T08:38:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-16T06:45:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11172#pullrequestreview-1008569905"
-         }
-      }
-   },
-   {
-      "Number": 11178,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-06-14T07:09:33Z",
-      "Recipe": "cn-cbor",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11178",
-      "LastCommitSHA": "5c9da7f7bb29fe208cc0a53c7f826189e1cf41f6",
-      "LastCommitAt": "2022-06-14T07:09:12Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 7,
+         "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries",
-            "ericLemanissier"
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-06-14T08:09:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11178#pullrequestreview-1005420436"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-06-17T10:08:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11172#pullrequestreview-1010298110"
          }
       }
    },
@@ -271,11 +224,18 @@
       "LastCommitAt": "2022-06-16T16:32:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-06-17T10:15:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11234#pullrequestreview-1010305165"
+         }
       }
    },
    {
@@ -349,6 +309,24 @@
       "LastCommitSHA": "6b2859cfcf8676feffd6cee48ed52d8103c00632",
       "LastCommitAt": "2022-06-16T02:53:36Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11253,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-06-17T09:45:00Z",
+      "Recipe": "libmysqlclient",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11253",
+      "LastCommitSHA": "42e47aa8bafa6e89033b3f5fc48d93771247c9c9",
+      "LastCommitAt": "2022-06-17T09:44:11Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
