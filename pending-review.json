@@ -205,7 +205,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11249",
       "LastCommitSHA": "01cb7d2f4cf0bada6a447965c0bc522e2280705b",
       "LastCommitAt": "2022-06-18T16:21:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -307,33 +307,15 @@
       }
    },
    {
-      "Number": 11262,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2022-06-18T11:10:06Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11262",
-      "LastCommitSHA": "a23326a14cf3fba4c3a15b72fe319d3671d1c347",
-      "LastCommitAt": "2022-06-18T16:57:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11263,
       "OpenedBy": "theirix",
       "CreatedAt": "2022-06-18T12:45:05Z",
       "Recipe": "open62541",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11263",
-      "LastCommitSHA": "dd64143816225de12fb7c395a7edc7a4fbd7c95b",
-      "LastCommitAt": "2022-06-18T14:57:10Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a19f40e163a16ef941b814f8e65275fba6c5b99d",
+      "LastCommitAt": "2022-06-18T19:32:25Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
