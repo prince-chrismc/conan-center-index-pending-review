@@ -214,31 +214,6 @@
       }
    },
    {
-      "Number": 11250,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-17T06:40:43Z",
-      "Recipe": "gdal",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11250",
-      "LastCommitSHA": "57d33b0f6cdc8de03bb517694d62ab8a303fdf65",
-      "LastCommitAt": "2022-06-17T06:39:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-06-17T15:06:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11250#pullrequestreview-1010631184"
-         }
-      }
-   },
-   {
       "Number": 11253,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-06-17T09:45:00Z",
@@ -249,15 +224,17 @@
       "LastCommitAt": "2022-06-17T22:56:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "toge"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-06-17T15:06:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11253#pullrequestreview-1010631804"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-06-18T02:23:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11253#pullrequestreview-1011243193"
          }
       }
    },
@@ -286,8 +263,8 @@
       "Recipe": "arrow",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11258",
-      "LastCommitSHA": "3c5d3f055dc1591ec9524761b3cc670a7fa4af46",
-      "LastCommitAt": "2022-06-17T23:15:12Z",
+      "LastCommitSHA": "6937536f907e283badb4335ba43d689ddf4b4091",
+      "LastCommitAt": "2022-06-18T02:00:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
