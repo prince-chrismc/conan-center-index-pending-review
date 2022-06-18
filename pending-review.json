@@ -284,32 +284,14 @@
       }
    },
    {
-      "Number": 11262,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2022-06-18T11:10:06Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11262",
-      "LastCommitSHA": "c3bf6b044ae391842d0ce30a2b5215c00b92e114",
-      "LastCommitAt": "2022-06-18T13:05:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11263,
       "OpenedBy": "theirix",
       "CreatedAt": "2022-06-18T12:45:05Z",
       "Recipe": "open62541",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11263",
-      "LastCommitSHA": "e02439695b08d0e676931cf65dc6723443481aa4",
-      "LastCommitAt": "2022-06-18T13:07:06Z",
+      "LastCommitSHA": "dd64143816225de12fb7c395a7edc7a4fbd7c95b",
+      "LastCommitAt": "2022-06-18T14:57:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
