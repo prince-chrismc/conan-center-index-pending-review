@@ -300,8 +300,26 @@
       "Recipe": "libwebsockets",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11262",
-      "LastCommitSHA": "278612941cef18b81e746b6fe0bc06977f4523a2",
-      "LastCommitAt": "2022-06-18T11:08:45Z",
+      "LastCommitSHA": "c3bf6b044ae391842d0ce30a2b5215c00b92e114",
+      "LastCommitAt": "2022-06-18T13:05:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11263,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2022-06-18T12:45:05Z",
+      "Recipe": "open62541",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11263",
+      "LastCommitSHA": "e02439695b08d0e676931cf65dc6723443481aa4",
+      "LastCommitAt": "2022-06-18T13:07:06Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
