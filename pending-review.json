@@ -359,5 +359,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11267,
+      "OpenedBy": "Enhex",
+      "CreatedAt": "2022-06-18T22:46:04Z",
+      "Recipe": "deco",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11267",
+      "LastCommitSHA": "a54f54ee56f4d167887ae364d44e98be54e3f48e",
+      "LastCommitAt": "2022-06-18T22:44:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
