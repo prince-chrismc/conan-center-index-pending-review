@@ -436,23 +436,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 11272,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-19T03:26:56Z",
-      "Recipe": "hidapi",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11272",
-      "LastCommitSHA": "410f19af10e343eabaa8670f6a2afbbceb080bc3",
-      "LastCommitAt": "2022-06-19T01:32:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
