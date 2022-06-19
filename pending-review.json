@@ -349,7 +349,7 @@
       "Recipe": "graphene",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11265",
-      "LastCommitSHA": "5e967287f491591252db4e050ba750fb6cc23ac6",
+      "LastCommitSHA": "74185a589aaa0b1aae46971d595de28e4cf89c0c",
       "LastCommitAt": "2022-06-18T20:24:09Z",
       "CciBotPassed": true,
       "Summary": {
