@@ -1,23 +1,5 @@
 [
    {
-      "Number": 9671,
-      "OpenedBy": "ggulgulia",
-      "CreatedAt": "2022-03-09T12:26:34Z",
-      "Recipe": "ignition-msgs",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9671",
-      "LastCommitSHA": "ae918a4b829929953d3e877ff2218b2873d69691",
-      "LastCommitAt": "2022-06-19T08:06:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 9996,
       "OpenedBy": "SSE4",
       "CreatedAt": "2022-03-29T12:54:12Z",
@@ -404,24 +386,6 @@
       }
    },
    {
-      "Number": 11268,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-19T00:15:28Z",
-      "Recipe": "yyjson",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11268",
-      "LastCommitSHA": "e12e47e7f1698f5770d31517ab634761c4e7ade1",
-      "LastCommitAt": "2022-06-19T00:14:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11269,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-19T01:20:26Z",
@@ -449,24 +413,6 @@
       "LastCommitSHA": "9284ba2c3ebc3c673c8f0188bfce78cb8afa408d",
       "LastCommitAt": "2022-06-19T02:17:11Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11273,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-19T06:56:18Z",
-      "Recipe": "huffman",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11273",
-      "LastCommitSHA": "19a705c4cd5937d14ebf7a50990fe688d8bbd722",
-      "LastCommitAt": "2022-06-19T06:44:52Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
