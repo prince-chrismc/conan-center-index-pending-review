@@ -1,5 +1,23 @@
 [
    {
+      "Number": 9671,
+      "OpenedBy": "ggulgulia",
+      "CreatedAt": "2022-03-09T12:26:34Z",
+      "Recipe": "ignition-msgs",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9671",
+      "LastCommitSHA": "ae918a4b829929953d3e877ff2218b2873d69691",
+      "LastCommitAt": "2022-06-19T08:06:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 9996,
       "OpenedBy": "SSE4",
       "CreatedAt": "2022-03-29T12:54:12Z",
@@ -315,7 +333,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11263",
       "LastCommitSHA": "73567ea9a20c21aadb2124494cf7f4865365aa37",
       "LastCommitAt": "2022-06-19T05:42:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
