@@ -438,5 +438,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11273,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-19T06:56:18Z",
+      "Recipe": "huffman",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11273",
+      "LastCommitSHA": "19a705c4cd5937d14ebf7a50990fe688d8bbd722",
+      "LastCommitAt": "2022-06-19T06:44:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
