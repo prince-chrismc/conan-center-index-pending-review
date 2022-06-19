@@ -288,16 +288,14 @@
       "Recipe": "daw_json_link",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11260",
-      "LastCommitSHA": "8f010e3ed31c15e114b18fc6c651892fc446f605",
-      "LastCommitAt": "2022-06-18T08:29:29Z",
+      "LastCommitSHA": "3a6fdc46154b30a6f1e58344c92738b98d553d6b",
+      "LastCommitAt": "2022-06-19T00:17:28Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "theirix"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "theirix",
@@ -369,6 +367,31 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11267",
       "LastCommitSHA": "a54f54ee56f4d167887ae364d44e98be54e3f48e",
       "LastCommitAt": "2022-06-18T22:44:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-06-19T00:17:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11267#pullrequestreview-1011461225"
+         }
+      }
+   },
+   {
+      "Number": 11268,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-19T00:15:28Z",
+      "Recipe": "yyjson",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11268",
+      "LastCommitSHA": "e12e47e7f1698f5770d31517ab634761c4e7ade1",
+      "LastCommitAt": "2022-06-19T00:14:42Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
