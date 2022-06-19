@@ -292,15 +292,17 @@
       "LastCommitAt": "2022-06-19T00:17:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "theirix"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "theirix",
-            "SubmittedAt": "2022-06-18T14:01:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11260#pullrequestreview-1011422248"
+            "SubmittedAt": "2022-06-19T05:39:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11260#pullrequestreview-1011475518"
          }
       }
    },
@@ -311,9 +313,9 @@
       "Recipe": "open62541",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11263",
-      "LastCommitSHA": "a19f40e163a16ef941b814f8e65275fba6c5b99d",
-      "LastCommitAt": "2022-06-18T19:32:25Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "73567ea9a20c21aadb2124494cf7f4865365aa37",
+      "LastCommitAt": "2022-06-19T05:42:43Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
