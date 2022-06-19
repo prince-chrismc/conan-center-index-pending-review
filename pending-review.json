@@ -395,6 +395,24 @@
       }
    },
    {
+      "Number": 11277,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-19T15:39:03Z",
+      "Recipe": "qcbor",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11277",
+      "LastCommitSHA": "60dc89b8c0a6de994ed99021261f990e2d5a7d53",
+      "LastCommitAt": "2022-06-19T22:34:12Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11280,
       "OpenedBy": "paulocoutinhox",
       "CreatedAt": "2022-06-19T19:57:47Z",
@@ -403,7 +421,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11280",
       "LastCommitSHA": "eaf5c6a2d77e7deec52950015138c8cdb99cd83f",
       "LastCommitAt": "2022-06-19T19:57:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -446,7 +464,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11282",
       "LastCommitSHA": "d0b2571e9de0bf73bc4dfe2e9867c92c734fec24",
       "LastCommitAt": "2022-06-19T20:57:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
