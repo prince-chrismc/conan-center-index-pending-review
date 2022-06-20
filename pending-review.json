@@ -358,14 +358,14 @@
       }
    },
    {
-      "Number": 11296,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2022-06-20T16:12:12Z",
-      "Recipe": "bs-thread-pool",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11296",
-      "LastCommitSHA": "9e37357f21a482ab0154ca8fa89b654c6f445162",
-      "LastCommitAt": "2022-06-20T17:49:47Z",
+      "Number": 11298,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-06-20T18:30:41Z",
+      "Recipe": "lyra",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11298",
+      "LastCommitSHA": "9f65f06367f6a675c9d9c91bba9e9acec79f1e5b",
+      "LastCommitAt": "2022-06-20T18:30:20Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
