@@ -332,17 +332,18 @@
       "LastCommitAt": "2022-06-03T13:01:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-20T11:01:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11285#pullrequestreview-1012089856"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-06-20T16:09:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11285#pullrequestreview-1012512896"
          }
       }
    },
@@ -353,9 +354,9 @@
       "Recipe": "libunifex",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11292",
-      "LastCommitSHA": "771e7649d8bcf40e899922ea03c78d3306a69574",
-      "LastCommitAt": "2022-06-20T14:44:48Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "26eba1f088237f7de7ba2e1ed3be2b3c7e6986bb",
+      "LastCommitAt": "2022-06-20T15:59:48Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -373,7 +374,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11294",
       "LastCommitSHA": "fe73cb00f6cec50df43ae38702d596681f5b9084",
       "LastCommitAt": "2022-03-28T13:58:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
