@@ -356,5 +356,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11296,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2022-06-20T16:12:12Z",
+      "Recipe": "bs-thread-pool",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11296",
+      "LastCommitSHA": "9e37357f21a482ab0154ca8fa89b654c6f445162",
+      "LastCommitAt": "2022-06-20T17:49:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
