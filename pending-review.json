@@ -353,8 +353,8 @@
       "Recipe": "libunifex",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11292",
-      "LastCommitSHA": "392912b767c5f0e38bb4984ecba5bca3ea61e9de",
-      "LastCommitAt": "2022-06-20T14:04:25Z",
+      "LastCommitSHA": "771e7649d8bcf40e899922ea03c78d3306a69574",
+      "LastCommitAt": "2022-06-20T14:44:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -365,14 +365,14 @@
       }
    },
    {
-      "Number": 11293,
+      "Number": 11294,
       "OpenedBy": "MartinDelille",
-      "CreatedAt": "2022-06-20T13:47:54Z",
-      "Recipe": "sentry-native",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11293",
-      "LastCommitSHA": "9aad1cc543d653d28f066fd4466590a8c10a5144",
-      "LastCommitAt": "2022-06-20T12:47:51Z",
+      "CreatedAt": "2022-06-20T14:33:28Z",
+      "Recipe": "quazip",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11294",
+      "LastCommitSHA": "fe73cb00f6cec50df43ae38702d596681f5b9084",
+      "LastCommitAt": "2022-03-28T13:58:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
