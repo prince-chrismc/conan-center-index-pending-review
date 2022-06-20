@@ -322,5 +322,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11285#pullrequestreview-1012089856"
          }
       }
+   },
+   {
+      "Number": 11291,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-06-20T12:46:40Z",
+      "Recipe": "sentry-crashpad",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11291",
+      "LastCommitSHA": "55e3ec39f6b7f35ac9e5d369a494b04efcc91a22",
+      "LastCommitAt": "2022-06-20T12:43:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
