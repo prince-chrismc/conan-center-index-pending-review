@@ -281,5 +281,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11303,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-06-21T02:49:33Z",
+      "Recipe": "qr-code-generator",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11303",
+      "LastCommitSHA": "e61aa6055e667bfa9a42ec06893f527e286335ee",
+      "LastCommitAt": "2022-06-21T02:47:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
