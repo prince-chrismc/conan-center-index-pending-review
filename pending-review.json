@@ -332,14 +332,14 @@
       }
    },
    {
-      "Number": 11306,
+      "Number": 11305,
       "OpenedBy": "garethsb",
-      "CreatedAt": "2022-06-21T07:34:03Z",
-      "Recipe": "cpprestsdk",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11306",
-      "LastCommitSHA": "cb89148dac5415bd36768aa68bf4d7852d85a693",
-      "LastCommitAt": "2022-06-21T07:33:00Z",
+      "CreatedAt": "2022-06-21T06:40:03Z",
+      "Recipe": "nmos-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11305",
+      "LastCommitSHA": "47e4cf8dddb2d43743253df02fbc982ed0ae9e8a",
+      "LastCommitAt": "2022-06-21T06:38:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -399,7 +399,7 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11316",
-      "LastCommitSHA": "f4a0541da5c7be6d69f936e476652c1d24c849a0",
+      "LastCommitSHA": "0e398808755d9ce662e0021dd83babc315fa61e1",
       "LastCommitAt": "2022-06-21T15:04:17Z",
       "CciBotPassed": false,
       "Summary": {
