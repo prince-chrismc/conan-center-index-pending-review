@@ -196,7 +196,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11215",
       "LastCommitSHA": "cad3156cd44eefd63504957ff29c9ada58fe704e",
       "LastCommitAt": "2022-06-13T14:44:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -273,7 +273,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11279",
       "LastCommitSHA": "fdd850283eab7665315fbd429ada114b1cbd8c40",
       "LastCommitAt": "2022-06-21T14:37:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -302,6 +302,29 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-06-21T07:55:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11292#pullrequestreview-1013126087"
+         }
+      }
+   },
+   {
+      "Number": 11298,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-06-20T18:30:41Z",
+      "Recipe": "lyra",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11298",
+      "LastCommitSHA": "99b22422fb00772794ef66a33090a35960d29cff",
+      "LastCommitAt": "2022-06-21T20:36:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-06-21T18:41:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11298#pullrequestreview-1014077293"
          }
       }
    },
