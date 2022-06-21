@@ -189,7 +189,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11292",
       "LastCommitSHA": "83674e576daf38ffa90e9b3334178290c8555a6e",
       "LastCommitAt": "2022-06-21T12:42:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -270,6 +270,24 @@
             "SubmittedAt": "2022-06-21T10:04:21Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11307#pullrequestreview-1013322523"
          }
+      }
+   },
+   {
+      "Number": 11308,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-06-21T10:39:10Z",
+      "Recipe": "gtk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11308",
+      "LastCommitSHA": "be91e6c278a39cee5b6cc1869e3056c26bea66c0",
+      "LastCommitAt": "2022-06-21T10:33:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
