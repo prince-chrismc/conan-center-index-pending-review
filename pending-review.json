@@ -41,31 +41,6 @@
       }
    },
    {
-      "Number": 10988,
-      "OpenedBy": "dsche",
-      "CreatedAt": "2022-05-30T09:01:21Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10988",
-      "LastCommitSHA": "8a734e3588e32fb0dd1f434d424d27de714a871e",
-      "LastCommitAt": "2022-06-07T08:21:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-06-21T13:05:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10988#pullrequestreview-1013567105"
-         }
-      }
-   },
-   {
       "Number": 11102,
       "OpenedBy": "ggulgulia",
       "CreatedAt": "2022-06-09T08:13:41Z",
@@ -99,17 +74,18 @@
       "LastCommitAt": "2022-06-10T16:11:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-13T07:19:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11126#pullrequestreview-1003882940"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-06-22T06:46:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11126#pullrequestreview-1014610711"
          }
       }
    },
@@ -147,17 +123,18 @@
       "LastCommitAt": "2022-06-13T13:22:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb"
+            "danimtb",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-06-21T14:59:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11165#pullrequestreview-1013769594"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-06-22T06:46:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11165#pullrequestreview-1014610556"
          }
       }
    },
@@ -316,17 +293,18 @@
       "LastCommitAt": "2022-06-21T20:36:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 4,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "toge"
+            "toge",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-06-22T00:44:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11298#pullrequestreview-1014388716"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-06-22T06:46:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11298#pullrequestreview-1014610335"
          }
       }
    },
@@ -359,17 +337,18 @@
       "LastCommitAt": "2022-06-21T09:28:45Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-21T10:04:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11307#pullrequestreview-1013322523"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-06-22T06:45:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11307#pullrequestreview-1014610100"
          }
       }
    },
@@ -402,17 +381,18 @@
       "LastCommitAt": "2022-06-21T15:04:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-06-22T04:21:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11316#pullrequestreview-1014509498"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-06-22T06:45:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11316#pullrequestreview-1014609851"
          }
       }
    }
