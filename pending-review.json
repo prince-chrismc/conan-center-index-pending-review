@@ -295,18 +295,19 @@
       "LastCommitAt": "2022-06-22T10:37:44Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             "Croydon",
-            "toge"
+            "toge",
+            "tsondergaard"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-06-22T15:56:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11322#pullrequestreview-1015476096"
+            "ReviewerName": "tsondergaard",
+            "SubmittedAt": "2022-06-22T22:01:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11322#pullrequestreview-1015939065"
          }
       }
    },
