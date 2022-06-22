@@ -295,19 +295,20 @@
       "LastCommitAt": "2022-06-22T10:37:44Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             "Croydon",
             "toge",
-            "tsondergaard"
+            "tsondergaard",
+            "gegles"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "tsondergaard",
-            "SubmittedAt": "2022-06-22T22:01:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11322#pullrequestreview-1015939065"
+            "ReviewerName": "gegles",
+            "SubmittedAt": "2022-06-22T23:14:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11322#pullrequestreview-1016085360"
          }
       }
    },
@@ -345,31 +346,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11327,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-22T15:04:11Z",
-      "Recipe": "flatcc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11327",
-      "LastCommitSHA": "67997530342e9311564f584157ad56e154308202",
-      "LastCommitAt": "2022-06-22T15:55:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-06-22T16:27:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11327#pullrequestreview-1015534955"
-         }
       }
    },
    {
