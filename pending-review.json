@@ -125,15 +125,17 @@
       "LastCommitAt": "2022-06-22T19:15:27Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-06-22T16:58:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11230#pullrequestreview-1015589964"
+            "SubmittedAt": "2022-06-23T02:16:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11230#pullrequestreview-1016251071"
          }
       }
    },
@@ -355,19 +357,21 @@
       "Recipe": "flatcc",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11327",
-      "LastCommitSHA": "40ddc84b7cecb51e4fac1b26c29a97d81090c219",
-      "LastCommitAt": "2022-06-23T00:43:27Z",
+      "LastCommitSHA": "edcea4c2ec758deda0cdf99651a5f917297f54bd",
+      "LastCommitAt": "2022-06-23T01:53:06Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-06-22T16:27:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11327#pullrequestreview-1015534955"
+            "SubmittedAt": "2022-06-23T02:16:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11327#pullrequestreview-1016250698"
          }
       }
    },
@@ -380,6 +384,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11328",
       "LastCommitSHA": "1dc5f950dec5043d86c3ec8e6033b4ab7753c29f",
       "LastCommitAt": "2022-06-22T16:14:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11330,
+      "OpenedBy": "paulharris",
+      "CreatedAt": "2022-06-23T01:30:53Z",
+      "Recipe": "geotrans",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11330",
+      "LastCommitSHA": "afc29290ae7854fe8a47bf055db2a4a9ab76108a",
+      "LastCommitAt": "2022-06-23T01:29:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
