@@ -222,17 +222,18 @@
       "LastCommitAt": "2022-06-22T16:45:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 4,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-06-22T16:45:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11292#pullrequestreview-1015570302"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-06-23T14:09:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11292#pullrequestreview-1017080454"
          }
       }
    },
@@ -528,6 +529,78 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11338",
       "LastCommitSHA": "694709a80a65b0a4b7f54aea14a8b39b6fa4b537",
       "LastCommitAt": "2022-06-23T12:44:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11342,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-06-23T13:58:22Z",
+      "Recipe": "calceph",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11342",
+      "LastCommitSHA": "1ad99f5ca46a4d92465368aa4fa9c3aa077c2ad7",
+      "LastCommitAt": "2022-06-23T10:59:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11344,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-06-23T14:00:27Z",
+      "Recipe": "cityhash",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11344",
+      "LastCommitSHA": "a554f1741ddf93a34b84e86851feeae7c82a776b",
+      "LastCommitAt": "2022-06-23T11:16:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11345,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-06-23T14:01:31Z",
+      "Recipe": "cocoyaxi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11345",
+      "LastCommitSHA": "c93b37888c609c2266af5bd5a76ceac2e4b319e4",
+      "LastCommitAt": "2022-06-23T10:47:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11346,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-06-23T14:02:34Z",
+      "Recipe": "cyrus-sasl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11346",
+      "LastCommitSHA": "4032418ddc72ac71769f5099f26e5656e3f0fd9f",
+      "LastCommitAt": "2022-06-23T10:22:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
