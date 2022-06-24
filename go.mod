@@ -6,7 +6,7 @@ require (
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/google/go-github/v42 v42.0.0
 	github.com/stretchr/testify v1.7.4
-	github.com/urfave/cli/v2 v2.10.2
+	github.com/urfave/cli/v2 v2.10.3
 	github.com/wcharczuk/go-chart/v2 v2.1.0
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8
 	gopkg.in/h2non/gock.v1 v1.1.2
