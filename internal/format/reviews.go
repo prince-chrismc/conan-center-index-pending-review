@@ -80,8 +80,6 @@ func title(change pending_review.Category, recipe string) string {
 		return ":new: " + recipe
 	case pending_review.EDIT:
 		return ":memo: " + recipe
-	case pending_review.BUMP:
-		return ":arrow_up: " + recipe
 	case pending_review.DOCS:
 		return ":green_book: " + recipe
 	case pending_review.GHC:

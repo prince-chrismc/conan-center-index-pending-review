@@ -17,6 +17,7 @@ type Category int
 const (
 	ADDED Category = iota
 	EDIT  Category = iota
+	// Deprecated: Bump since these pull requests are automatically merged they are not relevant
 	BUMP  Category = iota
 	DOCS  Category = iota
 	// GitHub Configuration files
@@ -174,57 +175,7 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		}
 	}
 
-	if onlyVersionBumpFilesChanged(files) {
-		change.Change = BUMP
-	} else if onlyDepsBumpFilesChanged(files) {
-		change.Change = BUMP
-	}
-
 	return change, resp, nil
-}
-
-func onlyVersionBumpFilesChanged(files []*github.CommitFile) bool {
-	if len(files) != 2 {
-		return false
-	}
-
-	hasConandata := false
-	hasConfig := false
-
-	for _, file := range files {
-		if strings.HasSuffix(file.GetFilename(), "conandata.yml") {
-			hasConandata = true
-		}
-
-		if strings.HasSuffix(file.GetFilename(), "config.yml") {
-			hasConfig = true
-		}
-	}
-
-	return hasConandata && hasConfig
-}
-
-func onlyDepsBumpFilesChanged(files []*github.CommitFile) bool {
-	for _, file := range files {
-		if !strings.HasSuffix(file.GetFilename(), "conanfile.py") {
-			return false
-		}
-
-		lines := strings.Split(file.GetPatch(), "\n")
-		additions := filter(lines, func(word string) bool {
-			return strings.HasPrefix(word, "+") && strings.Contains(word, "requires")
-		})
-		deletions := filter(lines, func(word string) bool {
-			return strings.HasPrefix(word, "-") && strings.Contains(word, "requires")
-		})
-
-		if len(additions) != file.GetAdditions() || len(deletions) != file.GetDeletions() {
-			return false
-		}
-	}
-
-	// All `conanfile.py` only contain changes with "requires" keyword
-	return true
 }
 
 // Expected format is
