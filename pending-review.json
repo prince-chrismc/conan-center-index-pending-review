@@ -6,16 +6,14 @@
       "Recipe": "ixwebsocket",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10784",
-      "LastCommitSHA": "9257eac4a3e6d2107a5205173793636a8b11f8c4",
-      "LastCommitAt": "2022-06-21T15:00:52Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "413e71011a2011ce53f4b0056a55d5afbcf66ddd",
+      "LastCommitAt": "2022-06-24T01:03:44Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -58,15 +56,17 @@
       "LastCommitAt": "2022-06-23T14:56:41Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 21,
-         "ValidApprovals": 0,
+         "Count": 24,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-23T07:54:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11102#pullrequestreview-1016549142"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-06-24T00:36:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11102#pullrequestreview-1017853565"
          }
       }
    },
@@ -262,24 +262,6 @@
             "SubmittedAt": "2022-06-22T16:26:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11305#pullrequestreview-1015533469"
          }
-      }
-   },
-   {
-      "Number": 11308,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-06-21T10:39:10Z",
-      "Recipe": "gtk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11308",
-      "LastCommitSHA": "2a3d2d3001e569e1a91ab7d67ebaac296d0eefad",
-      "LastCommitAt": "2022-06-23T18:46:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
