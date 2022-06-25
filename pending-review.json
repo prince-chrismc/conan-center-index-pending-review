@@ -281,23 +281,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 11370,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-25T02:03:44Z",
-      "Recipe": "wasmtime",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11370",
-      "LastCommitSHA": "0838c9bfb49e39a3628e91c7289a7d5afb66daad",
-      "LastCommitAt": "2022-06-25T10:31:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
