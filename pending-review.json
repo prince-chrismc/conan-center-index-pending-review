@@ -258,59 +258,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 11370,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-25T02:03:44Z",
-      "Recipe": "wasmtime",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11370",
-      "LastCommitSHA": "bcf250cec34d8f16941f6cf64009ad6213c05752",
-      "LastCommitAt": "2022-06-25T17:43:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11371,
-      "OpenedBy": "ngrodzitski",
-      "CreatedAt": "2022-06-25T17:59:07Z",
-      "Recipe": "so5extra",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11371",
-      "LastCommitSHA": "a8baa4d4f7e2aed3adcf20d412fa202332785cfe",
-      "LastCommitAt": "2022-06-25T17:47:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11372,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-25T18:09:26Z",
-      "Recipe": "sol2",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11372",
-      "LastCommitSHA": "cc78f42721c29ee48eb1c149b8b2ec01d6c7b767",
-      "LastCommitAt": "2022-06-25T13:03:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
