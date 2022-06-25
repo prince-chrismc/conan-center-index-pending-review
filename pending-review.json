@@ -23,29 +23,6 @@
       }
    },
    {
-      "Number": 11063,
-      "OpenedBy": "strangeQuark1041",
-      "CreatedAt": "2022-06-06T07:44:26Z",
-      "Recipe": "samarium",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11063",
-      "LastCommitSHA": "8186cc8444cda556895392b86a4ee69b42e65bd7",
-      "LastCommitAt": "2022-06-25T10:23:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-16T07:22:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11063#pullrequestreview-1008599230"
-         }
-      }
-   },
-   {
       "Number": 11076,
       "OpenedBy": "toge",
       "CreatedAt": "2022-06-07T15:06:34Z",
