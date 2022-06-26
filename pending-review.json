@@ -242,50 +242,14 @@
       }
    },
    {
-      "Number": 11374,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-06-26T04:17:25Z",
-      "Recipe": "antlr4-cppruntime",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11374",
-      "LastCommitSHA": "5acc020e3d4e986f784c218df488bc93076735aa",
-      "LastCommitAt": "2022-06-26T04:18:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11375,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-26T11:00:09Z",
-      "Recipe": "sol2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11375",
-      "LastCommitSHA": "a49ae604d4590546d081071362f6be2df3219104",
-      "LastCommitAt": "2022-06-26T10:56:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11376,
       "OpenedBy": "bigerl",
       "CreatedAt": "2022-06-26T11:03:45Z",
       "Recipe": "serd",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11376",
-      "LastCommitSHA": "21e6d141e37201b32a05841e34044ddbade46e40",
-      "LastCommitAt": "2022-06-26T11:01:24Z",
+      "LastCommitSHA": "80ae9befe0309fbe8c2cfcdd06cbd2c91da109f1",
+      "LastCommitAt": "2022-06-26T12:13:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -304,6 +268,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11377",
       "LastCommitSHA": "5faf69fb1eff73cae3388f970a5e3238fbafa274",
       "LastCommitAt": "2022-06-26T06:39:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11378,
+      "OpenedBy": "andiwand",
+      "CreatedAt": "2022-06-26T11:21:15Z",
+      "Recipe": "pango",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11378",
+      "LastCommitSHA": "5cc3a598eed5025ddc005432d42efc9c6003c704",
+      "LastCommitAt": "2022-06-26T11:20:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
