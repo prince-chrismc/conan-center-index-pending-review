@@ -112,24 +112,6 @@
       }
    },
    {
-      "Number": 11311,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-21T15:36:47Z",
-      "Recipe": "mongo-c-driver",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11311",
-      "LastCommitSHA": "2ab28cf040333a947f45c7035ad561b1185d383c",
-      "LastCommitAt": "2022-06-26T14:52:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11314,
       "OpenedBy": "staskau",
       "CreatedAt": "2022-06-21T16:30:17Z",
@@ -145,32 +127,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11321,
-      "OpenedBy": "Zvicii",
-      "CreatedAt": "2022-06-22T08:37:27Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11321",
-      "LastCommitSHA": "d519bcc029d9b71b66fd85f81a8aee1f02c80cf0",
-      "LastCommitAt": "2022-06-22T08:36:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-06-24T13:34:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11321#pullrequestreview-1018490829"
-         }
       }
    },
    {
@@ -338,8 +294,8 @@
       "Recipe": "serd",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11376",
-      "LastCommitSHA": "5069e394de54bcbe883d1a8ce510f8332e4de599",
-      "LastCommitAt": "2022-06-26T21:07:06Z",
+      "LastCommitSHA": "9b013b5acfd9426846652e9d59a891f4729825b4",
+      "LastCommitAt": "2022-06-26T22:00:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
