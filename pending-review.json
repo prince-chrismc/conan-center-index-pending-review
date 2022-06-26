@@ -156,6 +156,31 @@
       }
    },
    {
+      "Number": 11347,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-06-23T14:37:35Z",
+      "Recipe": "bison",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11347",
+      "LastCommitSHA": "5fb26121ab32536d0ad19d0ded98d0de7865ec8a",
+      "LastCommitAt": "2022-06-23T14:36:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-06-26T20:06:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11347#pullrequestreview-1019473312"
+         }
+      }
+   },
+   {
       "Number": 11350,
       "OpenedBy": "robomics",
       "CreatedAt": "2022-06-23T17:07:31Z",
@@ -189,7 +214,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11359",
       "LastCommitSHA": "13b22f77e4a103bba9f49d9708ec32fe4bdbdd18",
       "LastCommitAt": "2022-06-24T14:33:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -282,6 +307,24 @@
             "SubmittedAt": "2022-06-26T16:38:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11380#pullrequestreview-1019455715"
          }
+      }
+   },
+   {
+      "Number": 11381,
+      "OpenedBy": "andiwand",
+      "CreatedAt": "2022-06-26T19:22:17Z",
+      "Recipe": "poppler",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11381",
+      "LastCommitSHA": "c1ba99c1c7156ee13e5dacdad1e871924ae97152",
+      "LastCommitAt": "2022-06-26T19:21:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
