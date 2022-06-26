@@ -112,24 +112,6 @@
       }
    },
    {
-      "Number": 11311,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-21T15:36:47Z",
-      "Recipe": "mongo-c-driver",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11311",
-      "LastCommitSHA": "2ab28cf040333a947f45c7035ad561b1185d383c",
-      "LastCommitAt": "2022-06-26T14:52:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11314,
       "OpenedBy": "staskau",
       "CreatedAt": "2022-06-21T16:30:17Z",
@@ -296,24 +278,6 @@
       }
    },
    {
-      "Number": 11378,
-      "OpenedBy": "andiwand",
-      "CreatedAt": "2022-06-26T11:21:15Z",
-      "Recipe": "pango",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11378",
-      "LastCommitSHA": "5cc3a598eed5025ddc005432d42efc9c6003c704",
-      "LastCommitAt": "2022-06-26T11:20:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11380,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2022-06-26T16:23:00Z",
@@ -322,7 +286,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11380",
       "LastCommitSHA": "b4ecebc5f4e7cf5a2471bda8016879c9b82fa974",
       "LastCommitAt": "2022-06-26T16:20:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
