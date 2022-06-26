@@ -148,24 +148,6 @@
       }
    },
    {
-      "Number": 11323,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-06-22T12:10:43Z",
-      "Recipe": "glib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11323",
-      "LastCommitSHA": "33cc769ca1a906764253985e59a460355615c927",
-      "LastCommitAt": "2022-06-24T09:48:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11350,
       "OpenedBy": "robomics",
       "CreatedAt": "2022-06-23T17:07:31Z",
