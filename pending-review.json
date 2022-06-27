@@ -130,35 +130,6 @@
       }
    },
    {
-      "Number": 11322,
-      "OpenedBy": "the-nic",
-      "CreatedAt": "2022-06-22T10:39:51Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11322",
-      "LastCommitSHA": "dd3c169cb73e59c0f8a44f4d8732aa09dc1d8c5f",
-      "LastCommitAt": "2022-06-22T10:37:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "toge",
-            "tsondergaard",
-            "gegles",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-23T06:31:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11322#pullrequestreview-1016453885"
-         }
-      }
-   },
-   {
       "Number": 11323,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-06-22T12:10:43Z",
@@ -346,24 +317,6 @@
             "SubmittedAt": "2022-06-26T16:38:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11380#pullrequestreview-1019455715"
          }
-      }
-   },
-   {
-      "Number": 11381,
-      "OpenedBy": "andiwand",
-      "CreatedAt": "2022-06-26T19:22:17Z",
-      "Recipe": "poppler",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11381",
-      "LastCommitSHA": "c1ba99c1c7156ee13e5dacdad1e871924ae97152",
-      "LastCommitAt": "2022-06-26T19:21:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
