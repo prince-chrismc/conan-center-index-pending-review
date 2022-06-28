@@ -6,8 +6,6 @@ import (
 	"fmt"
 	"strings"
 	"time"
-
-	"github.com/google/go-github/v42/github"
 )
 
 // Category describing the type of change being introduced by the pull request
@@ -18,15 +16,15 @@ const (
 	ADDED Category = iota
 	EDIT  Category = iota
 	// Deprecated: Bump since these pull requests are automatically merged they are not relevant
-	BUMP  Category = iota
-	DOCS  Category = iota
+	BUMP Category = iota
+	DOCS Category = iota
 	// GitHub Configuration files
 	GHC Category = iota
 )
 
 // PullRequestSummary regarding its location in the review process of conan-center-index.
 // See https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
-// for more inforamtion
+// for more information
 type PullRequestSummary struct {
 	Number        int
 	OpenedBy      string
@@ -171,7 +169,7 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		}
 
 		if obtained.Change == EDIT {
-			change.Change = EDIT // Any edit breaks the "new receipe" definition
+			change.Change = EDIT // Any edit breaks the "new recipe" definition
 		}
 	}
 
@@ -208,14 +206,4 @@ func getDiff(file *CommitFile) (*change, error) {
 	}
 
 	return &change{title, status}, nil
-}
-
-func filter(vs []string, f func(string) bool) []string {
-	filtered := make([]string, 0)
-	for _, v := range vs {
-		if f(v) {
-			filtered = append(filtered, v)
-		}
-	}
-	return filtered
 }
