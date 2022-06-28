@@ -5,17 +5,14 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
 
-// OnlyAcceptableLabels checks is the labels associated to the pull request are exclusively `Docs` or `Bump version`
+// OnlyAcceptableLabels checks is the labels associated to the pull request are exclusively `Docs` or `GitHub Config`
 func OnlyAcceptableLabels(labels []*pending_review.Label, stats *stats.Stats) bool {
-	isBump := false
 	isDoc := false
 	isConfig := false
 	len := len(labels)
 	if len > 0 {
 		for _, label := range labels {
 			switch label.GetName() {
-			case "Bump version", "Bump dependencies":
-				isBump = true
 			case "Docs":
 				isDoc = true
 			case "GitHub config":
@@ -29,7 +26,7 @@ func OnlyAcceptableLabels(labels []*pending_review.Label, stats *stats.Stats) bo
 			}
 		}
 
-		if !isBump && !isDoc && !isConfig {
+		if !isDoc && !isConfig {
 			return false // We know if there are certain labels then there's probably something wrong!
 		}
 	}

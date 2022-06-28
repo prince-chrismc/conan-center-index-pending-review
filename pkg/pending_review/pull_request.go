@@ -6,8 +6,6 @@ import (
 	"fmt"
 	"strings"
 	"time"
-
-	"github.com/google/go-github/v42/github"
 )
 
 // Category describing the type of change being introduced by the pull request
@@ -17,15 +15,16 @@ type Category int
 const (
 	ADDED Category = iota
 	EDIT  Category = iota
-	BUMP  Category = iota
-	DOCS  Category = iota
+	// Deprecated: Bump since these pull requests are automatically merged they are not relevant
+	BUMP Category = iota
+	DOCS Category = iota
 	// GitHub Configuration files
 	GHC Category = iota
 )
 
 // PullRequestSummary regarding its location in the review process of conan-center-index.
 // See https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
-// for more inforamtion
+// for more information
 type PullRequestSummary struct {
 	Number        int
 	OpenedBy      string
@@ -170,61 +169,11 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		}
 
 		if obtained.Change == EDIT {
-			change.Change = EDIT // Any edit breaks the "new receipe" definition
+			change.Change = EDIT // Any edit breaks the "new recipe" definition
 		}
-	}
-
-	if onlyVersionBumpFilesChanged(files) {
-		change.Change = BUMP
-	} else if onlyDepsBumpFilesChanged(files) {
-		change.Change = BUMP
 	}
 
 	return change, resp, nil
-}
-
-func onlyVersionBumpFilesChanged(files []*github.CommitFile) bool {
-	if len(files) != 2 {
-		return false
-	}
-
-	hasConandata := false
-	hasConfig := false
-
-	for _, file := range files {
-		if strings.HasSuffix(file.GetFilename(), "conandata.yml") {
-			hasConandata = true
-		}
-
-		if strings.HasSuffix(file.GetFilename(), "config.yml") {
-			hasConfig = true
-		}
-	}
-
-	return hasConandata && hasConfig
-}
-
-func onlyDepsBumpFilesChanged(files []*github.CommitFile) bool {
-	for _, file := range files {
-		if !strings.HasSuffix(file.GetFilename(), "conanfile.py") {
-			return false
-		}
-
-		lines := strings.Split(file.GetPatch(), "\n")
-		additions := filter(lines, func(word string) bool {
-			return strings.HasPrefix(word, "+") && strings.Contains(word, "requires")
-		})
-		deletions := filter(lines, func(word string) bool {
-			return strings.HasPrefix(word, "-") && strings.Contains(word, "requires")
-		})
-
-		if len(additions) != file.GetAdditions() || len(deletions) != file.GetDeletions() {
-			return false
-		}
-	}
-
-	// All `conanfile.py` only contain changes with "requires" keyword
-	return true
 }
 
 // Expected format is
@@ -257,14 +206,4 @@ func getDiff(file *CommitFile) (*change, error) {
 	}
 
 	return &change{title, status}, nil
-}
-
-func filter(vs []string, f func(string) bool) []string {
-	filtered := make([]string, 0)
-	for _, v := range vs {
-		if f(v) {
-			filtered = append(filtered, v)
-		}
-	}
-	return filtered
 }

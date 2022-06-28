@@ -11,7 +11,6 @@ import (
 func TestFormatTitles(t *testing.T) {
 	assert.Equal(t, title(pending_review.ADDED, "new-recipe"), ":new: new-recipe")
 	assert.Equal(t, title(pending_review.EDIT, "edit-recipe"), ":memo: edit-recipe")
-	assert.Equal(t, title(pending_review.BUMP, "bump-recipe"), ":arrow_up: bump-recipe")
 	assert.Equal(t, title(pending_review.DOCS, "docs"), ":green_book: docs")
 	assert.Equal(t, title(pending_review.GHC, ".github"), ":gear: .github")
 }
