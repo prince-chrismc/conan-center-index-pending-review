@@ -69,6 +69,32 @@
       }
    },
    {
+      "Number": 11345,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-06-23T14:01:31Z",
+      "Recipe": "cocoyaxi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11345",
+      "LastCommitSHA": "c93b37888c609c2266af5bd5a76ceac2e4b319e4",
+      "LastCommitAt": "2022-06-23T10:47:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "SpaceIm",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-06-27T14:33:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11345#pullrequestreview-1020300634"
+         }
+      }
+   },
+   {
       "Number": 11363,
       "OpenedBy": "paulharris",
       "CreatedAt": "2022-06-24T14:28:14Z",
