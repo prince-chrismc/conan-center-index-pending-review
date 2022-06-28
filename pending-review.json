@@ -323,24 +323,6 @@
       }
    },
    {
-      "Number": 11395,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2022-06-27T16:50:47Z",
-      "Recipe": "nss",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11395",
-      "LastCommitSHA": "fd7abf2bfcee067bc475fe6e19628e534e7ec2cc",
-      "LastCommitAt": "2022-06-28T13:27:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11402,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2022-06-28T02:49:33Z",
@@ -445,15 +427,15 @@
       }
    },
    {
-      "Number": 11422,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-28T16:08:31Z",
-      "Recipe": "libiconv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11422",
-      "LastCommitSHA": "8bc76adf09ba03df5dc2aab296c13d3fcb635ec5",
-      "LastCommitAt": "2022-06-28T16:05:43Z",
-      "CciBotPassed": false,
+      "Number": 11426,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-06-28T21:18:22Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11426",
+      "LastCommitSHA": "1d1ea0bfcd902f1b4dbda8b7b205d5c199e7394c",
+      "LastCommitAt": "2022-06-28T21:17:57Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
