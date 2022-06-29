@@ -490,16 +490,14 @@
       "Recipe": "samarium",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11063",
-      "LastCommitSHA": "e5f473a9cdb03045422ae9632ce294abed360c6a",
-      "LastCommitAt": "2022-06-28T15:52:11Z",
+      "LastCommitSHA": "b0580c28cebe39d8b9233fb57205d6ee8616c133",
+      "LastCommitAt": "2022-06-29T16:55:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
