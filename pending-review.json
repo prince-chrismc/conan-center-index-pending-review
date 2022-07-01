@@ -93,7 +93,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10574",
       "LastCommitSHA": "7f2b22de6a902ad12fadaed4a87e2a7ada8565c6",
       "LastCommitAt": "2022-05-02T12:45:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -992,6 +992,65 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11459",
       "LastCommitSHA": "35186f94d8a46896a13088476bc752b69dc3343c",
       "LastCommitAt": "2022-07-01T00:32:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11466,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-01T09:22:00Z",
+      "Recipe": "arsenalgear",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11466",
+      "LastCommitSHA": "088e3e8388de8026ca288a17764b15879cc93172",
+      "LastCommitAt": "2022-07-01T09:47:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-01T09:36:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11466#pullrequestreview-1025977760"
+         }
+      }
+   },
+   {
+      "Number": 11467,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-01T09:44:09Z",
+      "Recipe": "gtest",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11467",
+      "LastCommitSHA": "7002cf37fe1f969a172b4374fc2a27a4e74e4b37",
+      "LastCommitAt": "2022-07-01T10:06:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11469,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-07-01T10:07:27Z",
+      "Recipe": "glibmm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11469",
+      "LastCommitSHA": "36e4bbb053ac3b58de5c11d25b458e5a9bc450a6",
+      "LastCommitAt": "2022-07-01T09:54:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
