@@ -549,6 +549,24 @@
       }
    },
    {
+      "Number": 11262,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2022-06-18T11:10:06Z",
+      "Recipe": "libwebsockets",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11262",
+      "LastCommitSHA": "44a76ef5b20b80e6d4ae1e495c096deb317e8398",
+      "LastCommitAt": "2022-07-01T07:03:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11308,
       "OpenedBy": "hesham-essam",
       "CreatedAt": "2022-06-21T10:39:10Z",
