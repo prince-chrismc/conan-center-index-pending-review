@@ -72,7 +72,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/9785",
       "LastCommitSHA": "ee79300360a34afbe617712093a3e7b4c8eb7b73",
       "LastCommitAt": "2022-07-01T18:20:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 0,
@@ -707,7 +707,7 @@
       "Recipe": "range-v3",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11369",
-      "LastCommitSHA": "5309b9acf849a494dae490ab137eaaa555bf7593",
+      "LastCommitSHA": "0b4e9f1ccf01f0936875e14b66a82a037fcf2206",
       "LastCommitAt": "2022-06-24T18:57:24Z",
       "CciBotPassed": false,
       "Summary": {
@@ -1037,32 +1037,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11469,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-07-01T10:07:27Z",
-      "Recipe": "glibmm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11469",
-      "LastCommitSHA": "b572d30f5f3c893b0f5455320b7e96a1102e0464",
-      "LastCommitAt": "2022-07-01T10:31:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-01T15:22:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11469#pullrequestreview-1026361906"
-         }
       }
    },
    {
