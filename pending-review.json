@@ -1068,24 +1068,6 @@
       }
    },
    {
-      "Number": 11450,
-      "OpenedBy": "Latios96",
-      "CreatedAt": "2022-06-30T12:43:48Z",
-      "Recipe": "opensubdiv",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11450",
-      "LastCommitSHA": "ca1930ac272b56a2c850a80e249b23a7d12a461b",
-      "LastCommitAt": "2022-07-01T14:31:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11459,
       "OpenedBy": "hnOsmium0001",
       "CreatedAt": "2022-06-30T23:38:46Z",
