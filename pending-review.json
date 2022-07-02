@@ -527,8 +527,8 @@
       "Recipe": "gtk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11308",
-      "LastCommitSHA": "6bdeb0d02b7afbca5010ed184b0bc56917d3772c",
-      "LastCommitAt": "2022-07-01T12:20:52Z",
+      "LastCommitSHA": "c67f2bfd2d8ff98394ff27a2faeccb324601010a",
+      "LastCommitAt": "2022-07-02T12:51:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 4,
@@ -1082,16 +1082,14 @@
       "Recipe": "detours",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11480",
-      "LastCommitSHA": "d6739eb099f2ae4db419dee451986c5e85d398c2",
-      "LastCommitAt": "2022-07-02T01:22:19Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "f133085c92c8a1e7d83c798ca91a256cfe7f3d33",
+      "LastCommitAt": "2022-07-02T12:52:41Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "toge"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "toge",
