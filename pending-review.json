@@ -1050,6 +1050,29 @@
       }
    },
    {
+      "Number": 11480,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2022-07-02T01:30:56Z",
+      "Recipe": "detours",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11480",
+      "LastCommitSHA": "a7dd060113001bc0a39eb8fc02713aea2664d54a",
+      "LastCommitAt": "2022-07-02T16:19:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-07-02T10:25:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11480#pullrequestreview-1026746361"
+         }
+      }
+   },
+   {
       "Number": 11491,
       "OpenedBy": "toge",
       "CreatedAt": "2022-07-02T15:33:35Z",
@@ -1058,7 +1081,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11491",
       "LastCommitSHA": "19a506a77168a8e1d1723a492f84b37e343924e6",
       "LastCommitAt": "2022-07-02T15:31:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1094,6 +1117,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11494",
       "LastCommitSHA": "415ae3f5c44df806ae16d8ebd669634283f29e40",
       "LastCommitAt": "2022-07-02T16:07:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11495,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-07-02T17:04:27Z",
+      "Recipe": "pangomm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11495",
+      "LastCommitSHA": "0f49b1f933c4a511541ec3513b5c688989699fbe",
+      "LastCommitAt": "2022-07-02T17:02:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
