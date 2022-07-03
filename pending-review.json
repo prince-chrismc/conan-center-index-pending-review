@@ -1127,5 +1127,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11517,
+      "OpenedBy": "intelligide",
+      "CreatedAt": "2022-07-03T22:19:05Z",
+      "Recipe": "nfrechette-acl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11517",
+      "LastCommitSHA": "e77383cbc8bbc6d517ace392a88f35fb99640814",
+      "LastCommitAt": "2022-07-03T22:17:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11518,
+      "OpenedBy": "leha-bot",
+      "CreatedAt": "2022-07-03T22:21:56Z",
+      "Recipe": "erikzenker-hsm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11518",
+      "LastCommitSHA": "d501fcd67638cb28a606ebacb0330f69c6dc2f4c",
+      "LastCommitAt": "2022-07-03T22:12:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
