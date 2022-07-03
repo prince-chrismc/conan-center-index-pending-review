@@ -623,29 +623,6 @@
       }
    },
    {
-      "Number": 11364,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2022-06-24T14:58:37Z",
-      "Recipe": "qxlsx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11364",
-      "LastCommitSHA": "d92ae5a6fdfe59dc510fd8664da3a9cf87f153cc",
-      "LastCommitAt": "2022-06-30T15:12:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-06-28T02:07:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11364#pullrequestreview-1020998757"
-         }
-      }
-   },
-   {
       "Number": 11378,
       "OpenedBy": "andiwand",
       "CreatedAt": "2022-06-26T11:21:15Z",
@@ -1099,7 +1076,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11499",
       "LastCommitSHA": "c7480990fa65f13394703d021c950d7ca6ef4bdd",
       "LastCommitAt": "2022-07-03T11:04:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1140,8 +1117,8 @@
       "Recipe": "geos",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11502",
-      "LastCommitSHA": "e1e6ac192bfa7ea59c4e9e85629c9b595def35f6",
-      "LastCommitAt": "2022-07-03T14:51:27Z",
+      "LastCommitSHA": "1dae3e35e10b3819efcec289cb206bf0e0429956",
+      "LastCommitAt": "2022-07-03T18:05:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
