@@ -963,7 +963,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11480",
       "LastCommitSHA": "a7dd060113001bc0a39eb8fc02713aea2664d54a",
       "LastCommitAt": "2022-07-02T16:19:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1032,24 +1032,6 @@
       }
    },
    {
-      "Number": 11495,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-07-02T17:04:27Z",
-      "Recipe": "pangomm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11495",
-      "LastCommitSHA": "0f49b1f933c4a511541ec3513b5c688989699fbe",
-      "LastCommitAt": "2022-07-02T17:02:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11496,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2022-07-02T18:38:45Z",
@@ -1108,24 +1090,6 @@
             "SubmittedAt": "2022-07-03T16:16:35Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11501#pullrequestreview-1026873454"
          }
-      }
-   },
-   {
-      "Number": 11502,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-07-03T14:53:09Z",
-      "Recipe": "geos",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11502",
-      "LastCommitSHA": "1dae3e35e10b3819efcec289cb206bf0e0429956",
-      "LastCommitAt": "2022-07-03T18:05:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
