@@ -1107,5 +1107,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11501,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-07-03T14:12:09Z",
+      "Recipe": "create-dmg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11501",
+      "LastCommitSHA": "de49c384c1f1ab78b54af1a4c8cfee7a11acc48e",
+      "LastCommitAt": "2022-07-03T14:04:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
