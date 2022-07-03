@@ -1089,5 +1089,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11499,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-07-03T11:42:28Z",
+      "Recipe": "quazip",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11499",
+      "LastCommitSHA": "c7480990fa65f13394703d021c950d7ca6ef4bdd",
+      "LastCommitAt": "2022-07-03T11:04:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
