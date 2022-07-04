@@ -604,7 +604,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11364",
       "LastCommitSHA": "d92ae5a6fdfe59dc510fd8664da3a9cf87f153cc",
       "LastCommitAt": "2022-06-30T15:12:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -974,84 +974,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11517,
-      "OpenedBy": "intelligide",
-      "CreatedAt": "2022-07-03T22:19:05Z",
-      "Recipe": "nfrechette-acl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11517",
-      "LastCommitSHA": "e77383cbc8bbc6d517ace392a88f35fb99640814",
-      "LastCommitAt": "2022-07-03T22:17:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-04T14:27:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11517#pullrequestreview-1027631825"
-         }
-      }
-   },
-   {
-      "Number": 11518,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2022-07-03T22:21:56Z",
-      "Recipe": "erikzenker-hsm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11518",
-      "LastCommitSHA": "d501fcd67638cb28a606ebacb0330f69c6dc2f4c",
-      "LastCommitAt": "2022-07-03T22:12:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-04T14:27:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11518#pullrequestreview-1027631994"
-         }
-      }
-   },
-   {
-      "Number": 11524,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-07-04T08:54:55Z",
-      "Recipe": "pango",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11524",
-      "LastCommitSHA": "ed2f10f8e5c60d73cbf969700aeab290b112b5ca",
-      "LastCommitAt": "2022-07-04T08:54:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "toge",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-04T14:27:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11524#pullrequestreview-1027632174"
-         }
       }
    },
    {
