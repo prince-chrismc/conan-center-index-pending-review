@@ -511,7 +511,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11308",
       "LastCommitSHA": "b02237b3864b756f8e7e058f199d868ade2c2137",
       "LastCommitAt": "2022-07-02T15:16:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -1106,9 +1106,9 @@
       "Recipe": "geos",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11502",
-      "LastCommitSHA": "1dae3e35e10b3819efcec289cb206bf0e0429956",
-      "LastCommitAt": "2022-07-03T18:05:45Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "059e58ef0f71f53b5dd4d769dacc19bd73a6e158",
+      "LastCommitAt": "2022-07-04T06:58:34Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
