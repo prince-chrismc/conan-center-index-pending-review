@@ -976,25 +976,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11534",
       "LastCommitSHA": "bc6d04c01e3ca42989cf68fc712b36315b69fe10",
       "LastCommitAt": "2022-07-04T15:20:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11538,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-05T01:18:00Z",
-      "Recipe": "osmanip",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11538",
-      "LastCommitSHA": "8f927b4a50fa92d00fab80b23393eb297fb61907",
-      "LastCommitAt": "2022-07-05T00:17:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
