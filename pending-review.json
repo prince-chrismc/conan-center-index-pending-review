@@ -584,20 +584,14 @@
       "Recipe": "openssl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11322",
-      "LastCommitSHA": "dd3c169cb73e59c0f8a44f4d8732aa09dc1d8c5f",
-      "LastCommitAt": "2022-06-22T10:37:44Z",
+      "LastCommitSHA": "56eeb862889fb0058007871a2939af66aa87eae8",
+      "LastCommitAt": "2022-07-05T19:40:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "toge",
-            "tsondergaard",
-            "gegles",
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
