@@ -940,36 +940,13 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11502",
       "LastCommitSHA": "059e58ef0f71f53b5dd4d769dacc19bd73a6e158",
       "LastCommitAt": "2022-07-04T06:58:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11530,
-      "OpenedBy": "bigerl",
-      "CreatedAt": "2022-07-04T12:47:01Z",
-      "Recipe": "metall",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11530",
-      "LastCommitSHA": "0647d279f1c9d2ab6aa9441f60ef4619f017ed75",
-      "LastCommitAt": "2022-07-04T15:33:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-04T14:04:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11530#pullrequestreview-1027604649"
-         }
       }
    },
    {
