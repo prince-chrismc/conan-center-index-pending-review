@@ -860,29 +860,6 @@
       }
    },
    {
-      "Number": 11450,
-      "OpenedBy": "Latios96",
-      "CreatedAt": "2022-06-30T12:43:48Z",
-      "Recipe": "opensubdiv",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11450",
-      "LastCommitSHA": "8f3415ed4e3b86ba4fcf712da5047c91de2495b8",
-      "LastCommitAt": "2022-07-05T12:44:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-04T10:19:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11450#pullrequestreview-1027330671"
-         }
-      }
-   },
-   {
       "Number": 11459,
       "OpenedBy": "hnOsmium0001",
       "CreatedAt": "2022-06-30T23:38:46Z",
@@ -1160,7 +1137,7 @@
       "Recipe": "xerces-c",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11548",
-      "LastCommitSHA": "4cbb43e11fbec81ff6be6008506b915f1b5673c4",
+      "LastCommitSHA": "cc8c6f5c33ab8a5590195fee2e5c670fe52dac5d",
       "LastCommitAt": "2022-07-05T11:15:30Z",
       "CciBotPassed": false,
       "Summary": {
@@ -1190,31 +1167,13 @@
       }
    },
    {
-      "Number": 11552,
-      "OpenedBy": "boussaffawalid",
-      "CreatedAt": "2022-07-05T12:32:42Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11552",
-      "LastCommitSHA": "78c581113a35e3f5edb12d33af32431aeccd409a",
-      "LastCommitAt": "2022-07-05T14:41:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11554,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2022-07-05T14:22:06Z",
       "Recipe": "fmt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11554",
-      "LastCommitSHA": "ffeba49cbb5bb0d50ecb4df4db2edf05fa2bc173",
+      "LastCommitSHA": "c22a733bcaa27cbdc5085e70ddc8a34dadca66c5",
       "LastCommitAt": "2022-07-05T14:12:07Z",
       "CciBotPassed": false,
       "Summary": {
