@@ -860,6 +860,29 @@
       }
    },
    {
+      "Number": 11450,
+      "OpenedBy": "Latios96",
+      "CreatedAt": "2022-06-30T12:43:48Z",
+      "Recipe": "opensubdiv",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11450",
+      "LastCommitSHA": "b56c6059c3396b1772c3bc06318b79f54090c15a",
+      "LastCommitAt": "2022-07-05T16:44:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-04T10:19:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11450#pullrequestreview-1027330671"
+         }
+      }
+   },
+   {
       "Number": 11459,
       "OpenedBy": "hnOsmium0001",
       "CreatedAt": "2022-06-30T23:38:46Z",
@@ -1137,15 +1160,22 @@
       "Recipe": "xerces-c",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11548",
-      "LastCommitSHA": "cc8c6f5c33ab8a5590195fee2e5c670fe52dac5d",
+      "LastCommitSHA": "66f04220a9e0775279e057234dc915e7c7a9c26b",
       "LastCommitAt": "2022-07-05T11:15:30Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-07-05T16:42:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11548#pullrequestreview-1028923819"
+         }
       }
    },
    {
