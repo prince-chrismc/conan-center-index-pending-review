@@ -938,7 +938,7 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11496",
-      "LastCommitSHA": "700286c0bde3a66de9a83e28e59c111f2d15dfe1",
+      "LastCommitSHA": "8f96032e6b267b95f7fb558fbb0325eaa63896cf",
       "LastCommitAt": "2022-06-30T14:03:43Z",
       "CciBotPassed": false,
       "Summary": {
@@ -1042,7 +1042,7 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11531",
-      "LastCommitSHA": "d8da844a3a58cb8263636bb9e016490ac9aed8a8",
+      "LastCommitSHA": "3472451a40eec5380e08d462d149d5d139a7a2f1",
       "LastCommitAt": "2022-07-04T14:40:39Z",
       "CciBotPassed": false,
       "Summary": {
@@ -1139,6 +1139,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11547",
       "LastCommitSHA": "12281aa1bc189ab88cde311afa8f34bec779155a",
       "LastCommitAt": "2022-07-05T10:07:36Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11548,
+      "OpenedBy": "Cogitri",
+      "CreatedAt": "2022-07-05T11:24:06Z",
+      "Recipe": "xerces-c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11548",
+      "LastCommitSHA": "4cbb43e11fbec81ff6be6008506b915f1b5673c4",
+      "LastCommitAt": "2022-07-05T11:15:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11549,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-05T11:27:49Z",
+      "Recipe": "libjpeg-turbo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11549",
+      "LastCommitSHA": "e05c450fbfeaae8667e3e93826702ec3dcdc983d",
+      "LastCommitAt": "2022-07-05T11:24:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
