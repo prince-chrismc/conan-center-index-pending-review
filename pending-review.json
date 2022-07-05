@@ -144,17 +144,18 @@
       "LastCommitAt": "2022-05-06T13:43:24Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-05-06T14:29:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10663#pullrequestreview-964741022"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-07-05T09:31:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10663#pullrequestreview-1028335849"
          }
       }
    },
@@ -450,29 +451,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2022-06-19T21:28:42Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11154#pullrequestreview-1011569218"
-         }
-      }
-   },
-   {
-      "Number": 11201,
-      "OpenedBy": "xhuohai",
-      "CreatedAt": "2022-06-15T05:12:42Z",
-      "Recipe": "xtensor-blas",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11201",
-      "LastCommitSHA": "cbd09714286fb2c3de4aac261b0fdb421bc568d6",
-      "LastCommitAt": "2022-07-05T09:13:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-04T08:31:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11201#pullrequestreview-1027201302"
          }
       }
    },
@@ -946,17 +924,19 @@
       "LastCommitAt": "2022-06-30T16:45:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "ericLemanissier",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-05T07:50:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11526#pullrequestreview-1028197906"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-07-05T10:00:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11526#pullrequestreview-1028374516"
          }
       }
    },
