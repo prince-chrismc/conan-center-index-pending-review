@@ -1100,18 +1100,19 @@
       "LastCommitAt": "2022-07-05T05:08:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "uilianries",
-            "jwillikers"
+            "jwillikers",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-07-05T17:53:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11545#pullrequestreview-1028999324"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-07-06T05:16:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11545#pullrequestreview-1029505789"
          }
       }
    },
