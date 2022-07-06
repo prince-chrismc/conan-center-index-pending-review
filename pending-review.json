@@ -978,13 +978,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11496",
       "LastCommitSHA": "8f96032e6b267b95f7fb558fbb0325eaa63896cf",
       "LastCommitAt": "2022-06-30T14:03:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-07-06T15:13:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11496#pullrequestreview-1030276663"
+         }
       }
    },
    {
@@ -1272,24 +1279,6 @@
       }
    },
    {
-      "Number": 11563,
-      "OpenedBy": "boussaffawalid",
-      "CreatedAt": "2022-07-06T11:46:07Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11563",
-      "LastCommitSHA": "454bb5fb577915141cf09d7ef246595f2146d73b",
-      "LastCommitAt": "2022-07-06T11:41:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11565,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-07-06T12:35:21Z",
@@ -1323,6 +1312,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11566",
       "LastCommitSHA": "ce1b454527efe36b216a8a98645bd0fc9fc2feda",
       "LastCommitAt": "2022-07-06T12:48:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11569,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-07-06T15:24:20Z",
+      "Recipe": "create-dmg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11569",
+      "LastCommitSHA": "1e4e77f0930f50176d8d2a241cd6322f7b790b78",
+      "LastCommitAt": "2022-07-06T07:35:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
