@@ -699,7 +699,7 @@
       "Recipe": "boost",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11402",
-      "LastCommitSHA": "93379dbef9e3d528d7e95606c7aef47ccac8b049",
+      "LastCommitSHA": "0387cbf2acb842c8ece759bcfd804ffc20792d36",
       "LastCommitAt": "2022-06-22T16:14:05Z",
       "CciBotPassed": false,
       "Summary": {
