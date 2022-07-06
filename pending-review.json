@@ -1331,23 +1331,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 11567,
-      "OpenedBy": "tt4g",
-      "CreatedAt": "2022-07-06T13:39:03Z",
-      "Recipe": "libpqxx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11567",
-      "LastCommitSHA": "d600cb5e695d34354578775bec39b2a344388a62",
-      "LastCommitAt": "2022-07-06T13:27:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
