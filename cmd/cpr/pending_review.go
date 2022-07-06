@@ -128,6 +128,15 @@ func PendingReview(token string, dryRun bool) error {
 Found this useful? Give it a :star: :pray:
 `
 
+    if err := os.Mkdir("pages", os.ModePerm); err != nil {
+		fmt.Printf("Problem creating pages folder %v\n", err)
+		os.Exit(1)
+    }
+    if err := os.WriteFile("pages/index.md", []byte(commentBody), 0666); err != nil {
+		fmt.Printf("Problem writing index.md %v\n", err)
+		os.Exit(1)
+    }
+
 	if dryRun {
 		fmt.Println(commentBody)
 		return nil
