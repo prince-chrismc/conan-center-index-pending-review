@@ -1039,7 +1039,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11561",
       "LastCommitSHA": "44617d1076d90544cd36d69bb119c4022047c092",
       "LastCommitAt": "2022-07-06T19:36:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1120,24 +1120,6 @@
       }
    },
    {
-      "Number": 11581,
-      "OpenedBy": "bigerl",
-      "CreatedAt": "2022-07-07T08:05:47Z",
-      "Recipe": "metall",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11581",
-      "LastCommitSHA": "568396344f61cbb5783c3528e7d9fccd81f7059f",
-      "LastCommitAt": "2022-07-07T08:04:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11587,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-07-07T10:09:24Z",
@@ -1159,6 +1141,31 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2022-07-07T10:13:59Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11587#pullrequestreview-1031330689"
+         }
+      }
+   },
+   {
+      "Number": 11588,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-07-07T11:07:04Z",
+      "Recipe": "docs",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11588",
+      "LastCommitSHA": "1fe5dfc59c0ad98c31e76314f34237d3147af181",
+      "LastCommitAt": "2022-07-07T10:57:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-07-07T11:13:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11588#pullrequestreview-1031399582"
          }
       }
    }
