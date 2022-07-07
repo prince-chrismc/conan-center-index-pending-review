@@ -518,31 +518,6 @@
       }
    },
    {
-      "Number": 11383,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-06-27T05:00:38Z",
-      "Recipe": "sqlite3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11383",
-      "LastCommitSHA": "f3b7d33c966affe33a19bd208460567cf3b58d83",
-      "LastCommitAt": "2022-06-26T00:28:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-06-27T08:13:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11383#pullrequestreview-1019784035"
-         }
-      }
-   },
-   {
       "Number": 11402,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2022-06-28T02:49:33Z",
@@ -605,6 +580,32 @@
             "ReviewerName": "hesham-essam",
             "SubmittedAt": "2022-06-30T01:50:41Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11436#pullrequestreview-1024173379"
+         }
+      }
+   },
+   {
+      "Number": 11439,
+      "OpenedBy": "tsondergaard",
+      "CreatedAt": "2022-06-29T15:51:58Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11439",
+      "LastCommitSHA": "c73e82899ba409e8e9e95bb801161f29abe585df",
+      "LastCommitAt": "2022-06-29T15:14:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-07-05T18:10:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11439#pullrequestreview-1029037068"
          }
       }
    },
