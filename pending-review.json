@@ -891,6 +891,24 @@
       }
    },
    {
+      "Number": 11557,
+      "OpenedBy": "ntagliani",
+      "CreatedAt": "2022-07-05T20:35:28Z",
+      "Recipe": "spirv-tools",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11557",
+      "LastCommitSHA": "125e0a60d69c53f7368cc72082a78192c448f5a3",
+      "LastCommitAt": "2022-07-05T16:53:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11558,
       "OpenedBy": "madebr",
       "CreatedAt": "2022-07-05T23:21:45Z",
