@@ -790,24 +790,6 @@
       }
    },
    {
-      "Number": 11557,
-      "OpenedBy": "ntagliani",
-      "CreatedAt": "2022-07-05T20:35:28Z",
-      "Recipe": "spirv-tools",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11557",
-      "LastCommitSHA": "125e0a60d69c53f7368cc72082a78192c448f5a3",
-      "LastCommitAt": "2022-07-05T16:53:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11558,
       "OpenedBy": "madebr",
       "CreatedAt": "2022-07-05T23:21:45Z",
@@ -859,7 +841,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11576",
       "LastCommitSHA": "a992f393c70cb07c15f237f706a247c60ca83570",
       "LastCommitAt": "2022-07-07T21:18:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -966,24 +948,6 @@
             "SubmittedAt": "2022-07-09T02:12:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11601#pullrequestreview-1033469161"
          }
-      }
-   },
-   {
-      "Number": 11607,
-      "OpenedBy": "paulocoutinhox",
-      "CreatedAt": "2022-07-08T17:06:02Z",
-      "Recipe": "poco",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11607",
-      "LastCommitSHA": "1125da93e9f1b97bfcd9cdaffa172fc94b6f3b2f",
-      "LastCommitAt": "2022-07-08T17:05:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
