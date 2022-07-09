@@ -553,24 +553,6 @@
       }
    },
    {
-      "Number": 11369,
-      "OpenedBy": "romariorios",
-      "CreatedAt": "2022-06-24T19:25:03Z",
-      "Recipe": "range-v3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11369",
-      "LastCommitSHA": "e12d092aa6de2d28dfa8ffb15da01e3db36d1070",
-      "LastCommitAt": "2022-07-09T07:41:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11381,
       "OpenedBy": "andiwand",
       "CreatedAt": "2022-06-26T19:22:17Z",
@@ -989,51 +971,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11576,
-      "OpenedBy": "syoliver",
-      "CreatedAt": "2022-07-06T18:21:10Z",
-      "Recipe": "hyperscan",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11576",
-      "LastCommitSHA": "a992f393c70cb07c15f237f706a247c60ca83570",
-      "LastCommitAt": "2022-07-07T21:18:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11577,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-07-06T19:50:06Z",
-      "Recipe": "zxing-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11577",
-      "LastCommitSHA": "14787f902056e01d2858334629ec6a84cb30672f",
-      "LastCommitAt": "2022-07-06T20:32:34Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-07T08:28:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11577#pullrequestreview-1031188509"
-         }
       }
    },
    {
