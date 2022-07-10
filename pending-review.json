@@ -335,29 +335,6 @@
       }
    },
    {
-      "Number": 11071,
-      "OpenedBy": "mvhv",
-      "CreatedAt": "2022-06-07T06:54:42Z",
-      "Recipe": "libjpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11071",
-      "LastCommitSHA": "eccf3201b2b114013b984394b8a332f2d322ee40",
-      "LastCommitAt": "2022-07-10T11:17:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2022-06-07T10:31:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11071#pullrequestreview-997905715"
-         }
-      }
-   },
-   {
       "Number": 11098,
       "OpenedBy": "npuichigo",
       "CreatedAt": "2022-06-09T02:59:01Z",
@@ -985,24 +962,6 @@
             "SubmittedAt": "2022-07-09T18:40:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11612#pullrequestreview-1033560450"
          }
-      }
-   },
-   {
-      "Number": 11614,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-09T16:42:27Z",
-      "Recipe": "zxing-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11614",
-      "LastCommitSHA": "2bd5cbb639ec85488d651706c8dd0dc9ba2a0dc5",
-      "LastCommitAt": "2022-07-10T11:51:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
