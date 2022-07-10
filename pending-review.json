@@ -466,33 +466,6 @@
       }
    },
    {
-      "Number": 11322,
-      "OpenedBy": "the-nic",
-      "CreatedAt": "2022-06-22T10:39:51Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11322",
-      "LastCommitSHA": "56eeb862889fb0058007871a2939af66aa87eae8",
-      "LastCommitAt": "2022-07-05T19:40:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "gegles",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-06T15:33:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11322#pullrequestreview-1030306366"
-         }
-      }
-   },
-   {
       "Number": 11330,
       "OpenedBy": "paulharris",
       "CreatedAt": "2022-06-23T01:30:53Z",
@@ -1072,24 +1045,6 @@
             "SubmittedAt": "2022-07-09T02:11:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11609#pullrequestreview-1033469092"
          }
-      }
-   },
-   {
-      "Number": 11611,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-07-09T00:11:48Z",
-      "Recipe": "mongo-c-driver",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11611",
-      "LastCommitSHA": "1d777b3ada1ccece86bc70ec62c15b385642555a",
-      "LastCommitAt": "2022-07-09T00:23:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
