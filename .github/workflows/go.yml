@@ -52,6 +52,13 @@ jobs:
 
       - run: go run ./cmd/cpr -t ${{ github.token }}
 
+      - name: Deploy 
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages # The branch the action should deploy to.
+          folder: pages # The folder the action should deploy.
+          clean: true
+
       - if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 0 * * *' }}
         run: go run ./cmd/tir -t ${{ github.token }}
 
