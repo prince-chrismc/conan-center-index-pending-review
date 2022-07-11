@@ -67,7 +67,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|||
 [#11633](https://github.com/conan-io/conan-center-index/pull/11633)|[jngrb](https://github.com/jngrb)|Jul 11|:stopwatch: poco|0|||
 [#11634](https://github.com/conan-io/conan-center-index/pull/11634)|[jwillikers](https://github.com/jwillikers)|Jul 11|:memo: xorg|1|Jul 11||ericLemanissier
-[#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:stopwatch: imagl|0|||
+[#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -91,7 +91,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 151
 	- Draft: 26
-	- Average Age: 85 days, 4 hours, and 45.52 minutes
+	- Average Age: 85 days, 5 hours, and 37.49 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 53
