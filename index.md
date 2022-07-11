@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **43** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,7 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
 [#11071](https://github.com/conan-io/conan-center-index/pull/11071)|[mvhv](https://github.com/mvhv)|Jun 7|:memo: libjpeg|3|Jul 11||SSE4
 [#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:stopwatch: opengrm|0|:eyes:||
-[#11121](https://github.com/conan-io/conan-center-index/pull/11121)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 10|:new: libglvnd|3|Jun 10 :bell:||
+[#11121](https://github.com/conan-io/conan-center-index/pull/11121)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 10|:new: libglvnd|4|Jul 11||Croydon
 [#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:memo: gtsam|0|:eyes:||
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
 [#11308](https://github.com/conan-io/conan-center-index/pull/11308)|[hesham-essam](https://github.com/hesham-essam)|Jun 21|:memo: gtk|4|Jun 28 :bell:||
@@ -61,7 +61,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|0|||
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|2|Jul 11||jwillikers
 [#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|3|Jul 11||jwillikers
-[#11611](https://github.com/conan-io/conan-center-index/pull/11611)|[SpaceIm](https://github.com/SpaceIm)|Jul 9|:stopwatch: mongo-c-driver|0|||
 [#11612](https://github.com/conan-io/conan-center-index/pull/11612)|[toge](https://github.com/toge)|Jul 9|:new: bzip3|5|Jul 11||jwillikers, SSE4
 [#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|1|Jul 11||SSE4
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|||
@@ -91,10 +90,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 151
 	- Draft: 26
-	- Average Age: 85 days, 5 hours, and 37.49 minutes
+	- Average Age: 85 days, 6 hours, and 37.68 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 53
+	- Failed: 54
 	- Blocked: 11
 	
 		
