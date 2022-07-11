@@ -516,7 +516,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11383",
       "LastCommitSHA": "f3b7d33c966affe33a19bd208460567cf3b58d83",
       "LastCommitAt": "2022-06-26T00:28:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -613,32 +613,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11467,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-01T09:44:09Z",
-      "Recipe": "gtest",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11467",
-      "LastCommitSHA": "5a653ebd7a1a3f20d6385706ccd0b836d4d7bcf5",
-      "LastCommitAt": "2022-07-01T11:29:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-10T11:01:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11467#pullrequestreview-1033622166"
-         }
       }
    },
    {
@@ -931,24 +905,6 @@
             "SubmittedAt": "2022-07-11T12:16:34Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11621#pullrequestreview-1034240508"
          }
-      }
-   },
-   {
-      "Number": 11631,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-11T13:14:53Z",
-      "Recipe": "libxmlpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11631",
-      "LastCommitSHA": "78c19c85d2c0ed4eed9463bd176d80ccc3920bf4",
-      "LastCommitAt": "2022-07-09T18:05:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
