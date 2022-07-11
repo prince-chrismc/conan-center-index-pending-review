@@ -614,7 +614,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11452",
       "LastCommitSHA": "1f2a65f745813d7f7e9084c2de4467b04cd80e18",
       "LastCommitAt": "2022-06-30T12:59:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -803,6 +803,24 @@
       }
    },
    {
+      "Number": 11595,
+      "OpenedBy": "szmyd",
+      "CreatedAt": "2022-07-07T15:57:10Z",
+      "Recipe": "userspace-rcu",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11595",
+      "LastCommitSHA": "5504d976a50522d74560800c935303c476bfd110",
+      "LastCommitAt": "2022-07-11T17:54:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11598,
       "OpenedBy": "toge",
       "CreatedAt": "2022-07-08T00:03:22Z",
@@ -836,7 +854,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11608",
       "LastCommitSHA": "a7139a01bd82730fe51884024cf0abb78a4eced0",
       "LastCommitAt": "2022-07-11T18:28:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -879,19 +897,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11612",
       "LastCommitSHA": "ffd8b97d5fe413f43c8ada423f11ca9fd9646869",
       "LastCommitAt": "2022-07-11T18:02:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-07-11T18:09:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11612#pullrequestreview-1034747586"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-07-11T19:38:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11612#pullrequestreview-1034842293"
          }
       }
    },
