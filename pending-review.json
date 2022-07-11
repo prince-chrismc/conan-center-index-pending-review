@@ -1050,8 +1050,8 @@
       "Recipe": "catch2",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11621",
-      "LastCommitSHA": "a72f59be2ca3181a27aab04043caaa3b0f84e80d",
-      "LastCommitAt": "2022-07-10T17:03:08Z",
+      "LastCommitSHA": "85a766b5655d4c025d1355d5d2f8c080055b43f0",
+      "LastCommitAt": "2022-07-10T23:44:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
