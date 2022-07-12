@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **43** pull requests currently under way :detective:
+There are **44** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,7 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|3|Jun 30||
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:stopwatch: poppler|0|:eyes:||
 [#11402](https://github.com/conan-io/conan-center-index/pull/11402)|[jwillikers](https://github.com/jwillikers)|Jun 28|:memo: boost|1|Jul 11||SSE4
-[#11436](https://github.com/conan-io/conan-center-index/pull/11436)|[planetmarshall](https://github.com/planetmarshall)|Jun 29|:memo: gdk-pixbuf|3|Jun 30||
+[#11436](https://github.com/conan-io/conan-center-index/pull/11436)|[planetmarshall](https://github.com/planetmarshall)|Jun 29|:memo: gdk-pixbuf|3|Jun 30 :bell:||
 [#11450](https://github.com/conan-io/conan-center-index/pull/11450)|[Latios96](https://github.com/Latios96)|Jun 30|:new: opensubdiv|1|Jul 4||
 [#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|2|Jun 30||prince-chrismc
 [#11459](https://github.com/conan-io/conan-center-index/pull/11459)|[hnOsmium0001](https://github.com/hnOsmium0001)|Jun 30|:stopwatch: status-code|0|:eyes:||
@@ -55,6 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|2|Jul 11||SSE4
 [#11542](https://github.com/conan-io/conan-center-index/pull/11542)|[jgsogo](https://github.com/jgsogo)|Jul 5|:stopwatch: grpc|1|Jul 11||danimtb
+[#11554](https://github.com/conan-io/conan-center-index/pull/11554)|[jwillikers](https://github.com/jwillikers)|Jul 5|:memo: fmt|4|Jul 12||toge
 [#11557](https://github.com/conan-io/conan-center-index/pull/11557)|[ntagliani](https://github.com/ntagliani)|Jul 5|:memo: spirv-tools|1|Jul 10||SpaceIm
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
 [#11580](https://github.com/conan-io/conan-center-index/pull/11580)|[jwillikers](https://github.com/jwillikers)|Jul 7|:memo: wayland|2|Jul 8||SSE4
@@ -72,7 +73,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -80,7 +81,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10663](https://github.com/conan-io/conan-center-index/pull/10663)|[SpaceIm](https://github.com/SpaceIm)|May 6|:warning: brynet|2|uilianries, ericLemanissier
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11322](https://github.com/conan-io/conan-center-index/pull/11322)|[the-nic](https://github.com/the-nic)|Jun 22|:warning: openssl|8|Croydon, gegles, SSE4
 
 
 #### :clipboard: Statistics
@@ -89,9 +89,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8f9d1421be5591aec2adeb456e68f10cf52ecae7
 - Pull Requests:
-	- Open: 152
+	- Open: 151
 	- Draft: 26
-	- Average Age: 84 days, 19 hours, and 11.13 minutes
+	- Average Age: 85 days, 8 hours, and 14.61 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 53
