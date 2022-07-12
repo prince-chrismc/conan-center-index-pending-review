@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"time"
+	"os"
 
 	git "github.com/go-git/go-git/v5/plumbing"
 	"github.com/google/go-github/v42/github"
@@ -13,11 +14,7 @@ import (
 
 // GetCommits returns a list of of number from the raw-data branch
 func GetCommits(context context.Context, client *pending_review.Client, file string, count int) ([]*github.RepositoryCommit, error) {
-	user, _, err := client.Users.Get(context, "")
-	if err != nil {
-		return nil, err
-	}
-	commits, _, err := client.Repositories.ListCommits(context, user.GetLogin(), "conan-center-index-pending-review",
+	commits, _, err := client.Repositories.ListCommits(context, os.Getenv("GITHUB_REPOSITORY_OWNER"), "conan-center-index-pending-review",
 		&github.CommitsListOptions{SHA: "raw-data", Path: file, ListOptions: github.ListOptions{PerPage: count}})
 	if err != nil {
 		return nil, err
@@ -28,11 +25,7 @@ func GetCommits(context context.Context, client *pending_review.Client, file str
 
 // Deprecated: GetCommitsSince returns a list of commits made to a certain file after a point in time from the raw-data branch
 func GetCommitsSince(context context.Context, client *pending_review.Client, file string, since time.Time) ([]*github.RepositoryCommit, error) {
-	user, _, err := client.Users.Get(context, "")
-	if err != nil {
-		return nil, err
-	}
-	commits, _, err := client.Repositories.ListCommits(context, user.GetLogin(), "conan-center-index-pending-review",
+	commits, _, err := client.Repositories.ListCommits(context, os.Getenv("GITHUB_REPOSITORY_OWNER"), "conan-center-index-pending-review",
 		&github.CommitsListOptions{SHA: "raw-data", Path: file, Since: since})
 	if err != nil {
 		return nil, err
@@ -43,11 +36,7 @@ func GetCommitsSince(context context.Context, client *pending_review.Client, fil
 
 // GetDataFileAtRef returns the content of file from the root directory from a commit sha
 func GetDataFileAtRef(context context.Context, client *pending_review.Client, file string, sha string) (*github.RepositoryContent, error) {
-	user, _, err := client.Users.Get(context, "")
-	if err != nil {
-		return nil, err
-	}
-	fileContent, _, _, err := client.Repositories.GetContents(context, user.GetLogin(), "conan-center-index-pending-review", file,
+	fileContent, _, _, err := client.Repositories.GetContents(context, os.Getenv("GITHUB_REPOSITORY_OWNER"), "conan-center-index-pending-review", file,
 		&github.RepositoryContentGetOptions{Ref: sha})
 	if err != nil {
 		return nil, err
@@ -58,11 +47,7 @@ func GetDataFileAtRef(context context.Context, client *pending_review.Client, fi
 
 // GetDataFile returns the content of file from the root directory of the raw-data branch
 func GetDataFile(context context.Context, client *pending_review.Client, file string) (*github.RepositoryContent, error) {
-	user, _, err := client.Users.Get(context, "")
-	if err != nil {
-		return nil, err
-	}
-	fileContent, _, _, err := client.Repositories.GetContents(context, user.GetLogin(), "conan-center-index-pending-review", file,
+	fileContent, _, _, err := client.Repositories.GetContents(context, os.Getenv("GITHUB_REPOSITORY_OWNER"), "conan-center-index-pending-review", file,
 		&github.RepositoryContentGetOptions{Ref: "raw-data"})
 	if err != nil {
 		return nil, err
@@ -111,11 +96,7 @@ func UpdateDataFile(context context.Context, client *pending_review.Client, file
 		Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"),
 			Email: github.String("github-actions[bot]@users.noreply.github.com")},
 	}
-	user, _, err := client.Users.Get(context, "")
-	if err != nil {
-		return false, err
-	}
-	_, _, err = client.Repositories.UpdateFile(context, user.GetLogin(), "conan-center-index-pending-review", file, opts)
+	_, _, err = client.Repositories.UpdateFile(context, os.Getenv("GITHUB_REPOSITORY_OWNER"), "conan-center-index-pending-review", file, opts)
 	if err != nil {
 		return false, err
 	}
