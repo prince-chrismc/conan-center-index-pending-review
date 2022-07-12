@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **48** pull requests currently under way :detective:
+There are **47** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,9 +64,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11614](https://github.com/conan-io/conan-center-index/pull/11614)|[toge](https://github.com/toge)|Jul 9|:memo: zxing-cpp|0|||
 [#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|1|Jul 11||SSE4
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|||
-[#11634](https://github.com/conan-io/conan-center-index/pull/11634)|[jwillikers](https://github.com/jwillikers)|Jul 11|:memo: xorg|3|Jul 12||ericLemanissier, prince-chrismc
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|||
-[#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:stopwatch: imagl|1|Jul 12||
+[#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|1|Jul 12||
 [#11640](https://github.com/conan-io/conan-center-index/pull/11640)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: boost|2|Jul 12||ericLemanissier, prince-chrismc
 [#11641](https://github.com/conan-io/conan-center-index/pull/11641)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: box2d|3|Jul 12||ericLemanissier, toge, prince-chrismc
 [#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|0|||
@@ -77,14 +76,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10663](https://github.com/conan-io/conan-center-index/pull/10663)|[SpaceIm](https://github.com/SpaceIm)|May 6|:warning: brynet|2|uilianries, ericLemanissier
-[#10784](https://github.com/conan-io/conan-center-index/pull/10784)|[bsergean](https://github.com/bsergean)|May 13|:memo: ixwebsocket|7|SSE4, prince-chrismc
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
 
 
@@ -94,9 +92,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4d702e921739ae768c3b1ce114ac8a7e4d7f78a2
 - Pull Requests:
-	- Open: 155
+	- Open: 154
 	- Draft: 27
-	- Average Age: 83 days, 11 hours, and 25.60 minutes
+	- Average Age: 83 days, 15 hours, and 52.64 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 52
