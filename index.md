@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **47** pull requests currently under way :detective:
+There are **48** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11430](https://github.com/conan-io/conan-center-index/pull/11430)|[kenneth-jia](https://github.com/kenneth-jia)|Jun 29|:new: modern-cpp-kafka|5|Jul 5||
 [#11436](https://github.com/conan-io/conan-center-index/pull/11436)|[planetmarshall](https://github.com/planetmarshall)|Jun 29|:memo: gdk-pixbuf|4|Jul 12||danimtb
 [#11450](https://github.com/conan-io/conan-center-index/pull/11450)|[Latios96](https://github.com/Latios96)|Jun 30|:new: opensubdiv|1|Jul 4||
-[#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|2|Jun 30||prince-chrismc
+[#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|2|Jun 30 :bell:||prince-chrismc
 [#11459](https://github.com/conan-io/conan-center-index/pull/11459)|[hnOsmium0001](https://github.com/hnOsmium0001)|Jun 30|:stopwatch: status-code|0|:eyes:||
 [#11478](https://github.com/conan-io/conan-center-index/pull/11478)|[toge](https://github.com/toge)|Jul 1|:memo: libcurl|1|Jul 12||SSE4
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
@@ -61,17 +61,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|0|||
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|2|Jul 11||jwillikers
 [#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|3|Jul 11||jwillikers
-[#11611](https://github.com/conan-io/conan-center-index/pull/11611)|[SpaceIm](https://github.com/SpaceIm)|Jul 9|:stopwatch: mongo-c-driver|0|||
+[#11611](https://github.com/conan-io/conan-center-index/pull/11611)|[SpaceIm](https://github.com/SpaceIm)|Jul 9|:memo: mongo-c-driver|0|||
 [#11612](https://github.com/conan-io/conan-center-index/pull/11612)|[toge](https://github.com/toge)|Jul 9|:new: bzip3|5|Jul 11||jwillikers, SSE4
 [#11614](https://github.com/conan-io/conan-center-index/pull/11614)|[toge](https://github.com/toge)|Jul 9|:memo: zxing-cpp|0|||
 [#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|1|Jul 11||SSE4
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|||
 [#11633](https://github.com/conan-io/conan-center-index/pull/11633)|[jngrb](https://github.com/jngrb)|Jul 11|:memo: poco|1|Jul 12||toge
 [#11634](https://github.com/conan-io/conan-center-index/pull/11634)|[jwillikers](https://github.com/jwillikers)|Jul 11|:memo: xorg|2|Jul 12||ericLemanissier
+[#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|||
 [#11640](https://github.com/conan-io/conan-center-index/pull/11640)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: boost|1|Jul 12||ericLemanissier
 [#11641](https://github.com/conan-io/conan-center-index/pull/11641)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: box2d|2|Jul 12||ericLemanissier, toge
-[#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:stopwatch: perfetto|0|||
-[#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:stopwatch: quill|0|||
+[#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|0|||
+[#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -92,12 +93,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e8ff717749e5969e81e0bce82920be02b577b89e
 - Pull Requests:
-	- Open: 155
+	- Open: 153
 	- Draft: 26
-	- Average Age: 83 days, 5 hours, and 44.81 minutes
+	- Average Age: 84 days, 8 hours, and 49.22 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 52
+	- Failed: 51
 	- Blocked: 10
 	
 		
