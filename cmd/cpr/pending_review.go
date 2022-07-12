@@ -105,7 +105,7 @@ func PendingReview(token string, dryRun bool) error {
 <sup>[2]</sup>: depending whether the PR is under way or ready to merge` +
 		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) + `
 		
-[Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
+[Raw JSON data](https://raw.githubusercontent.com/` + os.Getenv("GITHUB_REPOSITORY") + `/raw-data/pending-review.json)
 
 ## :bar_chart: Open Versus Merged
 
@@ -117,13 +117,13 @@ func PendingReview(token string, dryRun bool) error {
 :red_square: - Closed pull requests
 :purple_square: - Merged pull requests <sup>[1]</sup>
 
-![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.gif?raw=true)
+![ovm](https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/blob/raw-data/open-versus-merged.gif?raw=true)
 
 <sup>[1]</sup>: the darker bottom section indicated merged within 7 days of being opened
 
 ## :hourglass: Time Spent in Review
 
-![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
+![tir](https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/blob/raw-data/time-in-review.png?raw=true)
 
 Found this useful? Give it a :star: :pray:
 `
@@ -146,7 +146,7 @@ Found this useful? Give it a :star: :pray:
 		return nil
 	}
 
-	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
+	_, _, err = client.Issues.Edit(context, os.Getenv("GITHUB_REPOSITORY_OWNER"), "conan-center-index-pending-review", 1, &github.IssueRequest{
 		Body: github.String(commentBody),
 	})
 	if err != nil {

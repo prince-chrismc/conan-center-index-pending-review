@@ -2,6 +2,7 @@ package format
 
 import (
 	"fmt"
+	"os"
 
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 )
@@ -12,7 +13,7 @@ func UnderReview(prs []*pending_review.PullRequestSummary) string {
 
 	if rowCount == 0 {
 		return `
-		:confused: There's nothing within the review process... You should [open a bug report](https://github.com/prince-chrismc/conan-center-index-pending-review/issues/new)
+		:confused: There's nothing within the review process... You should [open a bug report](https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/issues/new)
 		`
 	}
 
