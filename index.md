@@ -52,7 +52,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11450](https://github.com/conan-io/conan-center-index/pull/11450)|[Latios96](https://github.com/Latios96)|Jun 30|:new: opensubdiv|1|Jul 4||
 [#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|2|Jun 30||prince-chrismc
 [#11459](https://github.com/conan-io/conan-center-index/pull/11459)|[hnOsmium0001](https://github.com/hnOsmium0001)|Jun 30|:stopwatch: status-code|0|:eyes:||
-[#11478](https://github.com/conan-io/conan-center-index/pull/11478)|[toge](https://github.com/toge)|Jul 1|:memo: libcurl|0|:eyes:||
+[#11478](https://github.com/conan-io/conan-center-index/pull/11478)|[toge](https://github.com/toge)|Jul 1|:memo: libcurl|1|Jul 12||SSE4
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|2|Jul 11||SSE4
 [#11557](https://github.com/conan-io/conan-center-index/pull/11557)|[ntagliani](https://github.com/ntagliani)|Jul 5|:memo: spirv-tools|1|Jul 10||SpaceIm
@@ -93,11 +93,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 510398c03e170d2728e5414a7efb6463bd60fd3d
 - Pull Requests:
 	- Open: 152
-	- Draft: 24
-	- Average Age: 85 days, 1 hours, and 7.83 minutes
+	- Draft: 25
+	- Average Age: 85 days, 3 hours, and 46.39 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 54
+	- Failed: 53
 	- Blocked: 10
 	
 		
