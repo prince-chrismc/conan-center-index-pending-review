@@ -17,7 +17,7 @@ func GetCommits(context context.Context, client *pending_review.Client, file str
 	if err != nil {
 		return nil, err
 	}
-	commits, _, err := client.Repositories.ListCommits(context, user, "conan-center-index-pending-review",
+	commits, _, err := client.Repositories.ListCommits(context, user.GetLogin(), "conan-center-index-pending-review",
 		&github.CommitsListOptions{SHA: "raw-data", Path: file, ListOptions: github.ListOptions{PerPage: count}})
 	if err != nil {
 		return nil, err
@@ -32,7 +32,7 @@ func GetCommitsSince(context context.Context, client *pending_review.Client, fil
 	if err != nil {
 		return nil, err
 	}
-	commits, _, err := client.Repositories.ListCommits(context, user, "conan-center-index-pending-review",
+	commits, _, err := client.Repositories.ListCommits(context, user.GetLogin(), "conan-center-index-pending-review",
 		&github.CommitsListOptions{SHA: "raw-data", Path: file, Since: since})
 	if err != nil {
 		return nil, err
@@ -47,7 +47,7 @@ func GetDataFileAtRef(context context.Context, client *pending_review.Client, fi
 	if err != nil {
 		return nil, err
 	}
-	fileContent, _, _, err := client.Repositories.GetContents(context, user, "conan-center-index-pending-review", file,
+	fileContent, _, _, err := client.Repositories.GetContents(context, user.GetLogin(), "conan-center-index-pending-review", file,
 		&github.RepositoryContentGetOptions{Ref: sha})
 	if err != nil {
 		return nil, err
@@ -62,7 +62,7 @@ func GetDataFile(context context.Context, client *pending_review.Client, file st
 	if err != nil {
 		return nil, err
 	}
-	fileContent, _, _, err := client.Repositories.GetContents(context, user, "conan-center-index-pending-review", file,
+	fileContent, _, _, err := client.Repositories.GetContents(context, user.GetLogin(), "conan-center-index-pending-review", file,
 		&github.RepositoryContentGetOptions{Ref: "raw-data"})
 	if err != nil {
 		return nil, err
@@ -115,7 +115,7 @@ func UpdateDataFile(context context.Context, client *pending_review.Client, file
 	if err != nil {
 		return false, err
 	}
-	_, _, err = client.Repositories.UpdateFile(context, user, "conan-center-index-pending-review", file, opts)
+	_, _, err = client.Repositories.UpdateFile(context, user.GetLogin(), "conan-center-index-pending-review", file, opts)
 	if err != nil {
 		return false, err
 	}
