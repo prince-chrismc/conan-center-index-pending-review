@@ -81,7 +81,7 @@ func GetJSONFile(context context.Context, client *pending_review.Client, file st
 
 // UpdateDataFileAtRef commits the new content if it's different. It returns if the modification took place and any error encountered.
 func UpdateFileAtRef(context context.Context, client *pending_review.Client, file string, branch string, content []byte) (bool, error) {
-	fileContent, err := GetDataFileAtRef(context, client, file, branch)
+	fileContent, err := GetFileAtRef(context, client, file, branch)
 	if err != nil {
 		return false, err
 	}
