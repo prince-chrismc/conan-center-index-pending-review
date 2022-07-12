@@ -109,8 +109,6 @@ func PendingReview(token string, dryRun bool) error {
 
 ## :bar_chart: Open Versus Merged
 
-> :firecracker: This a _new_ feature! I would really :sparkling_heart: appreciate :heartbeat: any feedback, suggestions, or comments in #11
-
 #### Legend
 
 :green_square: - Open pull requests
