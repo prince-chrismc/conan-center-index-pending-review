@@ -492,33 +492,6 @@
       }
    },
    {
-      "Number": 11322,
-      "OpenedBy": "the-nic",
-      "CreatedAt": "2022-06-22T10:39:51Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11322",
-      "LastCommitSHA": "56eeb862889fb0058007871a2939af66aa87eae8",
-      "LastCommitAt": "2022-07-05T19:40:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "gegles",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-06T15:33:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11322#pullrequestreview-1030306366"
-         }
-      }
-   },
-   {
       "Number": 11381,
       "OpenedBy": "andiwand",
       "CreatedAt": "2022-06-26T19:22:17Z",
@@ -733,6 +706,31 @@
             "ReviewerName": "danimtb",
             "SubmittedAt": "2022-07-11T13:07:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11542#pullrequestreview-1034306028"
+         }
+      }
+   },
+   {
+      "Number": 11554,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-07-05T14:22:06Z",
+      "Recipe": "fmt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11554",
+      "LastCommitSHA": "a106137f707e35d178b716e086edd2e644d2622c",
+      "LastCommitAt": "2022-07-05T14:12:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-07-12T01:43:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11554#pullrequestreview-1035116525"
          }
       }
    },
