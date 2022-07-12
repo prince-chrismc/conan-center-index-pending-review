@@ -21,7 +21,7 @@ func GetOvmPngFromThisWeek(context context.Context, client *pending_review.Clien
 	snapshots := make([]image.Image, 0, 7)
 
 	for _, commit := range commits {
-		fileContent, err := internal.GetDataFileAtRef(context, client, "open-versus-merged.png", commit.GetSHA())
+		fileContent, err := internal.GetFileAtRef(context, client, "open-versus-merged.png", commit.GetSHA())
 		if err != nil {
 			return snapshots, err
 		}

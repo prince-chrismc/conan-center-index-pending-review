@@ -34,8 +34,13 @@ func GetCommitsSince(context context.Context, client *pending_review.Client, fil
 	return commits, nil
 }
 
-// GetDataFileAtRef returns the content of file from the root directory from a commit sha
+// Deprecated: GetDataFileAtRef use GetFileAtRef
 func GetDataFileAtRef(context context.Context, client *pending_review.Client, file string, sha string) (*github.RepositoryContent, error) {
+	return GetFileAtRef(context, client, file, sha)
+}
+
+// GetFileAtRef returns the content of file from the root directory from a commit sha
+func GetFileAtRef(context context.Context, client *pending_review.Client, file string, sha string) (*github.RepositoryContent, error) {
 	fileContent, _, _, err := client.Repositories.GetContents(context, os.Getenv("GITHUB_REPOSITORY_OWNER"), "conan-center-index-pending-review", file,
 		&github.RepositoryContentGetOptions{Ref: sha})
 	if err != nil {
@@ -75,9 +80,9 @@ func GetJSONFile(context context.Context, client *pending_review.Client, file st
 	return nil
 }
 
-// UpdateDataFile commits the new content if it's different. It returns if the modification took place and any error encountered.
-func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) (bool, error) {
-	fileContent, err := GetDataFile(context, client, file)
+// UpdateDataFileAtRef commits the new content if it's different. It returns if the modification took place and any error encountered.
+func UpdateFileAtRef(context context.Context, client *pending_review.Client, file string, branch string, content []byte) (bool, error) {
+	fileContent, err := GetFileAtRef(context, client, file, branch)
 	if err != nil {
 		return false, err
 	}
@@ -92,7 +97,7 @@ func UpdateDataFile(context context.Context, client *pending_review.Client, file
 		SHA:     fileContent.SHA, // Required to edit the file
 		Message: github.String(file + ": New data - " + time.Now().Format(time.RFC3339)),
 		Content: content,
-		Branch:  github.String("raw-data"),
+		Branch:  github.String(branch),
 		Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"),
 			Email: github.String("github-actions[bot]@users.noreply.github.com")},
 	}
@@ -102,6 +107,11 @@ func UpdateDataFile(context context.Context, client *pending_review.Client, file
 	}
 
 	return true, nil
+}
+
+// UpdateDataFile commits the new content to `raw-data` if it's different. It returns if the modification took place and any error encountered.
+func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) (bool, error) {
+	return UpdateFileAtRef(context, client, file, "raw-data", content)
 }
 
 // UpdateJSONFile commits the new content if it's different. It returns if the modification took place and any error encountered.
