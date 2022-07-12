@@ -73,7 +73,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11641](https://github.com/conan-io/conan-center-index/pull/11641)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: box2d|2|Jul 12||ericLemanissier, toge
 [#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|0|||
 [#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|0|||
-[#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:stopwatch: djinni-generator|0|||
+[#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -92,11 +92,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: e8ff717749e5969e81e0bce82920be02b577b89e
+- Commit: 
 - Pull Requests:
 	- Open: 154
 	- Draft: 26
-	- Average Age: 83 days, 20 hours, and 40.23 minutes
+	- Average Age: 83 days, 21 hours, and 22.13 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 51
