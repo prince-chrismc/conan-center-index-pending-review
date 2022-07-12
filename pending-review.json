@@ -1111,5 +1111,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11654,
+      "OpenedBy": "a4z",
+      "CreatedAt": "2022-07-12T17:29:28Z",
+      "Recipe": "djinni-generator",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11654",
+      "LastCommitSHA": "5b516d155e7ce0673c6266b0c716a741c62e7594",
+      "LastCommitAt": "2022-07-12T18:01:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
