@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **49** pull requests currently under way :detective:
+There are **51** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -57,6 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|2|Jul 11||SSE4
 [#11557](https://github.com/conan-io/conan-center-index/pull/11557)|[ntagliani](https://github.com/ntagliani)|Jul 5|:memo: spirv-tools|1|Jul 10||SpaceIm
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
+[#11576](https://github.com/conan-io/conan-center-index/pull/11576)|[syoliver](https://github.com/syoliver)|Jul 6|:stopwatch: hyperscan|1|Jul 11||
 [#11580](https://github.com/conan-io/conan-center-index/pull/11580)|[jwillikers](https://github.com/jwillikers)|Jul 7|:memo: wayland|2|Jul 8||SSE4
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|0|||
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|2|Jul 11||jwillikers
@@ -74,6 +75,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|0|||
 [#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|0|||
 [#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|0|||
+[#11655](https://github.com/conan-io/conan-center-index/pull/11655)|[ngrodzitski](https://github.com/ngrodzitski)|Jul 12|:stopwatch: restinio|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -92,11 +94,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 
+- Commit: 4cfc7ea05e5f7a6c20ff301a604c4efeec8f1dab
 - Pull Requests:
-	- Open: 154
+	- Open: 155
 	- Draft: 26
-	- Average Age: 83 days, 21 hours, and 22.13 minutes
+	- Average Age: 83 days, 9 hours, and 38.52 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 51
