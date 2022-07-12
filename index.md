@@ -70,8 +70,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11634](https://github.com/conan-io/conan-center-index/pull/11634)|[jwillikers](https://github.com/jwillikers)|Jul 11|:memo: xorg|2|Jul 12||ericLemanissier
 [#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|0|||
 [#11640](https://github.com/conan-io/conan-center-index/pull/11640)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: boost|1|Jul 12||ericLemanissier
-[#11641](https://github.com/conan-io/conan-center-index/pull/11641)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: box2d|1|Jul 12||ericLemanissier
-[#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:stopwatch: perfetto|0|||
+[#11641](https://github.com/conan-io/conan-center-index/pull/11641)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: box2d|2|Jul 12||ericLemanissier, toge
+[#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -92,12 +92,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 510398c03e170d2728e5414a7efb6463bd60fd3d
 - Pull Requests:
-	- Open: 151
+	- Open: 152
 	- Draft: 24
-	- Average Age: 85 days, 13 hours, and 14.23 minutes
+	- Average Age: 85 days, 1 hours, and 7.83 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 53
+	- Failed: 54
 	- Blocked: 10
 	
 		
