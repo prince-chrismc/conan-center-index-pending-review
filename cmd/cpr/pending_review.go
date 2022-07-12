@@ -128,22 +128,15 @@ func PendingReview(token string, dryRun bool) error {
 Found this useful? Give it a :star: :pray:
 `
 
-	if err := os.Mkdir("pages", os.ModePerm); err != nil {
-		fmt.Printf("Problem creating pages folder %v\n", err)
-		os.Exit(1)
-	}
-	if err := os.WriteFile("pages/index.md", []byte(commentBody), 0666); err != nil {
-		fmt.Printf("Problem writing index.md %v\n", err)
-		os.Exit(1)
-	}
-	if err := os.WriteFile("pages/_config.yml", []byte("plugins:\n  - jemoji\n"), 0666); err != nil {
-		fmt.Printf("Problem writing _config.yml %v\n", err)
-		os.Exit(1)
-	}
-
 	if dryRun {
 		fmt.Println(commentBody)
 		return nil
+	}
+
+	_, err = internal.UpdateFileAtRef(context, client, "index.md", "gh-pages", []byte(commentBody))
+	if err != nil {
+		fmt.Printf("Problem editing web view %v\n", err)
+		os.Exit(1)
 	}
 
 	_, _, err = client.Issues.Edit(context, "prince-chrismc", "conan-center-index-pending-review", 1, &github.IssueRequest{
