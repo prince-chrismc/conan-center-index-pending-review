@@ -66,15 +66,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|||
 [#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|1|Jul 12||
-[#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|0|||
+[#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|1|Jul 13||danimtb
 [#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|0|||
 [#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|1|Jul 12||prince-chrismc
-[#11655](https://github.com/conan-io/conan-center-index/pull/11655)|[ngrodzitski](https://github.com/ngrodzitski)|Jul 12|:memo: restinio|1|Jul 12||prince-chrismc
+[#11662](https://github.com/conan-io/conan-center-index/pull/11662)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -82,6 +82,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10663](https://github.com/conan-io/conan-center-index/pull/10663)|[SpaceIm](https://github.com/SpaceIm)|May 6|:warning: brynet|2|uilianries, ericLemanissier
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
+[#11439](https://github.com/conan-io/conan-center-index/pull/11439)|[tsondergaard](https://github.com/tsondergaard)|Jun 29|:warning: openssl|2|uilianries, SSE4
 
 
 #### :clipboard: Statistics
@@ -90,12 +91,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4d702e921739ae768c3b1ce114ac8a7e4d7f78a2
 - Pull Requests:
-	- Open: 151
-	- Draft: 26
-	- Average Age: 85 days, 9 hours, and 29.62 minutes
+	- Open: 154
+	- Draft: 27
+	- Average Age: 84 days, 12 hours, and 48.59 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 53
+	- Failed: 52
 	- Blocked: 10
 	
 		
