@@ -1062,6 +1062,49 @@
       "LastCommitAt": "2022-07-13T07:59:39Z",
       "CciBotPassed": true,
       "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-07-13T08:52:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11662#pullrequestreview-1037003308"
+         }
+      }
+   },
+   {
+      "Number": 11664,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-07-13T08:25:11Z",
+      "Recipe": "diligent-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11664",
+      "LastCommitSHA": "34c84a9c9951bdca06b8bd1c406f8dc72285c161",
+      "LastCommitAt": "2022-07-13T08:35:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11666,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-07-13T09:13:35Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11666",
+      "LastCommitSHA": "9c622fefbc6fe320e99330d843ab79d66a778bee",
+      "LastCommitAt": "2022-07-13T09:13:06Z",
+      "CciBotPassed": false,
+      "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
