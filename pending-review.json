@@ -657,6 +657,24 @@
       }
    },
    {
+      "Number": 11483,
+      "OpenedBy": "sheepgrass",
+      "CreatedAt": "2022-07-02T07:15:26Z",
+      "Recipe": "cpp_project_framework",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11483",
+      "LastCommitSHA": "35124411c3c9d96909a81eb9c7e550596e1cbd1c",
+      "LastCommitAt": "2022-07-13T13:59:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11495,
       "OpenedBy": "hesham-essam",
       "CreatedAt": "2022-07-02T17:04:27Z",
@@ -862,7 +880,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11612",
       "LastCommitSHA": "650e049568aec7e2396d65bc261bdbf11e873ef1",
       "LastCommitAt": "2022-07-13T12:47:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 1,
@@ -1102,7 +1120,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11666",
       "LastCommitSHA": "23620ee4368856568f9b67437121535ecbbc2199",
       "LastCommitAt": "2022-07-13T09:47:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
