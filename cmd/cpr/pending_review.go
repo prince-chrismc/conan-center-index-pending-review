@@ -8,11 +8,11 @@ import (
 	"time"
 
 	"github.com/google/go-github/v42/github"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/format"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/validate"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/format"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/validate"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 )
 
 // PendingReview analysis of open pull requests

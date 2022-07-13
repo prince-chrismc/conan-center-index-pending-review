@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 	"golang.org/x/oauth2"
 )
 

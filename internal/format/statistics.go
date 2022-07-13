@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/duration"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
 )
 
 // Statistics makes a markdown section and unordered list
