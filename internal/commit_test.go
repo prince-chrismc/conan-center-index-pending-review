@@ -25,7 +25,7 @@ func TestGetDataFile(t *testing.T) {
 			"url": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/contents/data.txt?ref=raw-data",
 			"html_url": "https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/data.txt",
 			"git_url": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
-			"download_url": "https://raw.githubusercontent.com/pprince-chrismc/conan-center-index-pending-review/raw-data/data.txt",
+			"download_url": "https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/data.txt",
 			"type": "file",
 			"content": "SGVsbG8gV29ybGQh",
 			"encoding": "base64",
