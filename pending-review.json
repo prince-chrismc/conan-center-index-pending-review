@@ -252,31 +252,6 @@
       }
    },
    {
-      "Number": 11071,
-      "OpenedBy": "mvhv",
-      "CreatedAt": "2022-06-07T06:54:42Z",
-      "Recipe": "libjpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11071",
-      "LastCommitSHA": "ec134d5d5b54007e7d88fbcd1971831f20e4774a",
-      "LastCommitAt": "2022-07-10T17:54:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-11T08:50:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11071#pullrequestreview-1034004441"
-         }
-      }
-   },
-   {
       "Number": 11098,
       "OpenedBy": "npuichigo",
       "CreatedAt": "2022-06-09T02:59:01Z",
@@ -365,9 +340,9 @@
       "Recipe": "gtk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11308",
-      "LastCommitSHA": "b02237b3864b756f8e7e058f199d868ade2c2137",
-      "LastCommitAt": "2022-07-02T15:16:43Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7bf76052145a3d4a0b179cf6eaeaff481e0a110b",
+      "LastCommitAt": "2022-07-13T20:47:19Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -736,33 +711,6 @@
       }
    },
    {
-      "Number": 11612,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-09T13:37:40Z",
-      "Recipe": "bzip3",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11612",
-      "LastCommitSHA": "650e049568aec7e2396d65bc261bdbf11e873ef1",
-      "LastCommitAt": "2022-07-13T12:47:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-07-13T18:50:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11612#pullrequestreview-1037820847"
-         }
-      }
-   },
-   {
       "Number": 11614,
       "OpenedBy": "toge",
       "CreatedAt": "2022-07-09T16:42:27Z",
@@ -962,7 +910,7 @@
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-07-13T08:00:07Z",
       "Recipe": "docs",
-      "Change": 3,
+      "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11662",
       "LastCommitSHA": "a18c754f14b57062f7a6763d88e2b9d554aef330",
       "LastCommitAt": "2022-07-13T07:59:39Z",
@@ -1085,7 +1033,7 @@
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-07-13T20:15:44Z",
       "Recipe": "docs",
-      "Change": 3,
+      "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11683",
       "LastCommitSHA": "355a9eda820937dc270e99c26d2ba40ae2ae08e2",
       "LastCommitAt": "2022-07-13T20:15:25Z",
