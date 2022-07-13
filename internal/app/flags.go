@@ -16,5 +16,18 @@ func DefaultFlags() []cli.Flag {
 			Usage:   "a GitHub `access-token` to use, this can be either the default or a Personal Access Token (PAT).",
 			EnvVars: []string{"ACCESS_TOKEN", "GITHUB_TOKEN"},
 		},
+		&cli.StringFlag{
+			Name:    "repo-owner",
+			Aliases: []string{"o"},
+			Value:   "prince-chrismc",
+			Usage:   "The current repository owner.",
+			EnvVars: []string{"GITHUB_REPOSITORY_OWNER"},
+		},
+		&cli.StringFlag{
+			Name:    "repo-name",
+			Aliases: []string{"r"},
+			Value:   "conan-center-index-pending-review",
+			Usage:   "The current repository name.",
+		},
 	}
 }

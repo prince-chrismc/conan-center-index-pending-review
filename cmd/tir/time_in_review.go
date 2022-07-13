@@ -15,7 +15,7 @@ import (
 )
 
 // TimeInReview analysis of merged pull requests
-func TimeInReview(token string, dryRun bool) error {
+func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 	context := context.Background()
 	client, err := internal.MakeClient(context, token)
 	if err != nil {
@@ -89,13 +89,13 @@ func TimeInReview(token string, dryRun bool) error {
 		return nil
 	}
 
-	_, err = internal.UpdateJSONFile(context, client, "time-in-review.json", tir)
+	_, err = internal.UpdateJSONFile(context, client, "time-in-review.json", tir, owner, repo)
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "time-in-review.json", err)
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateJSONFile(context, client, "closed-per-day.json", mpd) // Legacy file name
+	_, err = internal.UpdateJSONFile(context, client, "closed-per-day.json", mpd, owner, repo) // Legacy file name
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err) // Legacy file name
 		os.Exit(1)
@@ -108,7 +108,7 @@ func TimeInReview(token string, dryRun bool) error {
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateDataFile(context, client, "time-in-review.png", b.Bytes())
+	_, err = internal.UpdateDataFile(context, client, "time-in-review.png", b.Bytes(), owner, repo)
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "time-in-review.png", err)
 		os.Exit(1)

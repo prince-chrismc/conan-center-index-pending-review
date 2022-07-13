@@ -7,12 +7,12 @@ import (
 )
 
 // UnderReview formats the pull request summaries into a markdown table for those **not** considered 'ready to merge'
-func UnderReview(prs []*pending_review.PullRequestSummary) string {
+func UnderReview(prs []*pending_review.PullRequestSummary, owner string, repo string) string {
 	tableBody, rowCount := ReviewsToMarkdownRows(prs, false)
 
 	if rowCount == 0 {
 		return `
-		:confused: There's nothing within the review process... You should [open a bug report](https://github.com/prince-chrismc/conan-center-index-pending-review/issues/new)
+		:confused: There's nothing within the review process... You should [open a bug report](https://github.com/` + owner + "/" + repo + `/issues/new)
 		`
 	}
 

@@ -36,7 +36,7 @@ func TestGetDataFile(t *testing.T) {
 			}
 		  }`)
 
-	fileContent, err := GetDataFile(context.Background(), pending_review.NewClient(&http.Client{}), "data.txt")
+	fileContent, err := GetDataFile(context.Background(), pending_review.NewClient(&http.Client{}), "data.txt", "prince-chrismc", "conan-center-index-pending-review")
 	assert.Equal(t, nil, err)
 
 	data, err := fileContent.GetContent()
@@ -73,7 +73,7 @@ func TestGetJSONFile(t *testing.T) {
 		  }`)
 
 	contents := map[string]string{}
-	err := GetJSONFile(context.Background(), pending_review.NewClient(&http.Client{}), "data.json", &contents)
+	err := GetJSONFile(context.Background(), pending_review.NewClient(&http.Client{}), "data.json", &contents, "prince-chrismc", "conan-center-index-pending-review")
 	assert.Equal(t, nil, err)
 
 	assert.Equal(t, nil, err)
