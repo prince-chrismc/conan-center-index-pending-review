@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **47** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,7 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
 [#10801](https://github.com/conan-io/conan-center-index/pull/10801)|[hmartinez82](https://github.com/hmartinez82)|May 15|:stopwatch: libmp3lame|1|Jul 12||prince-chrismc
-[#10855](https://github.com/conan-io/conan-center-index/pull/10855)|[paulharris](https://github.com/paulharris)|May 18|:memo: cgns|0|||
+[#10855](https://github.com/conan-io/conan-center-index/pull/10855)|[paulharris](https://github.com/paulharris)|May 18|:memo: cgns|0|:eyes:||
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:stopwatch: openssl|0|:eyes:||
 [#10945](https://github.com/conan-io/conan-center-index/pull/10945)|[AntonHorbach](https://github.com/AntonHorbach)|May 25|:stopwatch: infoware|1|May 27 :bell:||
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
@@ -55,7 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|2|Jul 11||SSE4
 [#11557](https://github.com/conan-io/conan-center-index/pull/11557)|[ntagliani](https://github.com/ntagliani)|Jul 5|:memo: spirv-tools|1|Jul 10||SpaceIm
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
-[#11580](https://github.com/conan-io/conan-center-index/pull/11580)|[jwillikers](https://github.com/jwillikers)|Jul 7|:memo: wayland|2|Jul 8||SSE4
+[#11580](https://github.com/conan-io/conan-center-index/pull/11580)|[jwillikers](https://github.com/jwillikers)|Jul 7|:memo: wayland|3|Jul 12||SSE4
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|0|||
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|2|Jul 11||jwillikers
 [#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|3|Jul 11||jwillikers
@@ -66,8 +66,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|||
 [#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|1|Jul 12||
-[#11640](https://github.com/conan-io/conan-center-index/pull/11640)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: boost|2|Jul 12||ericLemanissier, prince-chrismc
-[#11641](https://github.com/conan-io/conan-center-index/pull/11641)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: box2d|3|Jul 12||ericLemanissier, toge, prince-chrismc
 [#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|0|||
 [#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|0|||
 [#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|1|Jul 12||prince-chrismc
@@ -92,12 +90,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4d702e921739ae768c3b1ce114ac8a7e4d7f78a2
 - Pull Requests:
-	- Open: 154
-	- Draft: 27
-	- Average Age: 83 days, 15 hours, and 52.64 minutes
+	- Open: 151
+	- Draft: 26
+	- Average Age: 85 days, 9 hours, and 29.62 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 52
+	- Failed: 53
 	- Blocked: 10
 	
 		
