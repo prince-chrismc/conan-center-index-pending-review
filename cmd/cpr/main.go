@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/app"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/app"
 	"github.com/urfave/cli/v2"
 )
 

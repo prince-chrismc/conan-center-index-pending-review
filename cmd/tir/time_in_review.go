@@ -8,9 +8,9 @@ import (
 	"time"
 
 	"github.com/google/go-github/v42/github"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/charts"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/charts"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
 	"github.com/wcharczuk/go-chart/v2"
 )
 

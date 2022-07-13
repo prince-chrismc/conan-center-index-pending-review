@@ -15,9 +15,7 @@ type Category int
 const (
 	ADDED Category = iota
 	EDIT  Category = iota
-	// Deprecated: Bump since these pull requests are automatically merged they are not relevant
-	BUMP Category = iota
-	DOCS Category = iota
+	DOCS  Category = iota
 	// GitHub Configuration files
 	GHC Category = iota
 )

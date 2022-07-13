@@ -1,8 +1,8 @@
 package validate
 
 import (
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/stats"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 )
 
 // OnlyAcceptableLabels checks is the labels associated to the pull request are exclusively `Docs` or `GitHub Config`

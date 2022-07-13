@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/internal/duration"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/duration"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 )
 
 // ReviewsToMarkdownRows Converts pull request review status to GitHub markdown table rows
@@ -56,8 +56,12 @@ func underWay(pr *pending_review.PullRequestSummary) string {
 func toMerge(pr *pending_review.PullRequestSummary) string {
 	var retval string
 	title := title(pr.Change, pr.Recipe)
-	if (!pr.CciBotPassed && pr.Change != pending_review.DOCS) && pr.Summary.IsApproved() { //TODO(prince-chrismc): Always display bad commit statuses?
-		title = ":warning: " + pr.Recipe
+	if !pr.CciBotPassed {
+		switch pr.Change {
+		case pending_review.ADDED:
+		case pending_review.EDIT:
+			title = ":warning: " + pr.Recipe
+		}
 	}
 
 	columns := []string{

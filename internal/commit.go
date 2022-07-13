@@ -8,7 +8,7 @@ import (
 
 	git "github.com/go-git/go-git/v5/plumbing"
 	"github.com/google/go-github/v42/github"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 )
 
 // GetCommits returns a list of of number from the raw-data branch
@@ -20,22 +20,6 @@ func GetCommits(context context.Context, client *pending_review.Client, file str
 	}
 
 	return commits, nil
-}
-
-// Deprecated: GetCommitsSince returns a list of commits made to a certain file after a point in time from the raw-data branch
-func GetCommitsSince(context context.Context, client *pending_review.Client, file string, since time.Time, owner string, repo string) ([]*github.RepositoryCommit, error) {
-	commits, _, err := client.Repositories.ListCommits(context, owner, repo,
-		&github.CommitsListOptions{SHA: "raw-data", Path: file, Since: since})
-	if err != nil {
-		return nil, err
-	}
-
-	return commits, nil
-}
-
-// Deprecated: GetDataFileAtRef use GetFileAtRef
-func GetDataFileAtRef(context context.Context, client *pending_review.Client, file string, sha string, owner string, repo string) (*github.RepositoryContent, error) {
-	return GetFileAtRef(context, client, file, sha, owner, repo)
 }
 
 // GetFileAtRef returns the content of file from the root directory from a commit sha

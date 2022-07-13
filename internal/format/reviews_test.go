@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -85,7 +85,7 @@ func TestFormatMarkdownRowsDocs(t *testing.T) {
 			"OpenedBy": "jgsogo",
 			"CreatedAt": "2021-10-11T10:45:20Z",
 			"Recipe": "docs",
-			"Change": 3,
+			"Change": 2,
 			"ReviewURL": "https://github.com/conan-io/conan-center-index/pull/7648",
 			"LastCommitSHA": "e9457d1319b4cdb57b732c54cc9e61db8adb398a",
 			"LastCommitAt": "2021-10-11T10:39:04Z",

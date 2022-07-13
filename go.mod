@@ -1,4 +1,4 @@
-module github.com/prince-chrismc/conan-center-index-pending-review/v2
+module github.com/prince-chrismc/conan-center-index-pending-review/v3
 
 go 1.17
 
