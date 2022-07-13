@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **47** pull requests currently under way :detective:
+There are **48** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,7 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
 [#11071](https://github.com/conan-io/conan-center-index/pull/11071)|[mvhv](https://github.com/mvhv)|Jun 7|:memo: libjpeg|3|Jul 11||SSE4
 [#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:stopwatch: opengrm|0|:eyes:||
-[#11121](https://github.com/conan-io/conan-center-index/pull/11121)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 10|:new: libglvnd|4|Jul 11||Croydon
+[#11121](https://github.com/conan-io/conan-center-index/pull/11121)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 10|:new: libglvnd|4|Jul 11||
 [#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:memo: gtsam|0|:eyes:||
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
 [#11308](https://github.com/conan-io/conan-center-index/pull/11308)|[hesham-essam](https://github.com/hesham-essam)|Jun 21|:memo: gtk|4|Jun 28 :bell:||
@@ -72,6 +72,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11662](https://github.com/conan-io/conan-center-index/pull/11662)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:green_book: docs|1|Jul 13||jgsogo
 [#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:stopwatch: diligent-core|0|||
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:stopwatch: glib|0|||
+[#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:stopwatch: bitmagic|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -93,12 +94,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4d702e921739ae768c3b1ce114ac8a7e4d7f78a2
 - Pull Requests:
-	- Open: 158
+	- Open: 160
 	- Draft: 28
-	- Average Age: 82 days, 10 hours, and 21.55 minutes
+	- Average Age: 81 days, 10 hours, and 41.18 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 53
+	- Failed: 54
 	- Blocked: 10
 	
 		
