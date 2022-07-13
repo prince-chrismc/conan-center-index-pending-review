@@ -60,18 +60,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|2|Jul 11||jwillikers
 [#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|3|Jul 11||jwillikers
 [#11611](https://github.com/conan-io/conan-center-index/pull/11611)|[SpaceIm](https://github.com/SpaceIm)|Jul 9|:memo: mongo-c-driver|0|||
-[#11612](https://github.com/conan-io/conan-center-index/pull/11612)|[toge](https://github.com/toge)|Jul 9|:new: bzip3|6|Jul 12||jwillikers, SSE4
+[#11612](https://github.com/conan-io/conan-center-index/pull/11612)|[toge](https://github.com/toge)|Jul 9|:stopwatch: bzip3|8|Jul 13||jwillikers, SSE4
 [#11614](https://github.com/conan-io/conan-center-index/pull/11614)|[toge](https://github.com/toge)|Jul 9|:memo: zxing-cpp|0|||
 [#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|1|Jul 11||SSE4
+[#11619](https://github.com/conan-io/conan-center-index/pull/11619)|[boussaffawalid](https://github.com/boussaffawalid)|Jul 10|:stopwatch: qt|0|||
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|||
 [#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|1|Jul 12||
 [#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|1|Jul 13||danimtb
-[#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|0|||
 [#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|1|Jul 12||prince-chrismc
-[#11662](https://github.com/conan-io/conan-center-index/pull/11662)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:green_book: docs|1|Jul 13||jgsogo
+[#11662](https://github.com/conan-io/conan-center-index/pull/11662)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:green_book: docs|2|Jul 13||jgsogo, jwillikers
 [#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:stopwatch: diligent-core|0|||
-[#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:stopwatch: glib|0|||
+[#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:stopwatch: glib|1|Jul 13||jwillikers
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|0|||
 
 
@@ -96,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 160
 	- Draft: 28
-	- Average Age: 81 days, 12 hours, and 51.06 minutes
+	- Average Age: 80 days, 10 hours, and 30.84 minutes
 - Labels:
-	- Stale: 12
+	- Stale: 11
 	- Failed: 54
 	- Blocked: 10
 	
