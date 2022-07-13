@@ -4,7 +4,6 @@ import (
 	"context"
 	"net/http"
 	"testing"
-	"os"
 
 	"github.com/prince-chrismc/conan-center-index-pending-review/v2/pkg/pending_review"
 	"github.com/stretchr/testify/assert"
@@ -15,7 +14,7 @@ func TestGetDataFile(t *testing.T) {
 	defer gock.Off()
 
 	gock.New("https://api.github.com").
-		Get("/repos/" + os.Getenv("GITHUB_REPOSITORY") + "/contents/data.txt").
+		Get("/repos/prince-chrismc/conan-center-index-pending-review/contents/data.txt").
 		MatchParam("ref", "raw-data").
 		Reply(200).
 		BodyString(`{
@@ -23,21 +22,21 @@ func TestGetDataFile(t *testing.T) {
 			"path": "data.txt",
 			"sha": "c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
 			"size": 16,
-			"url": "https://api.github.com/repos/` + os.Getenv("GITHUB_REPOSITORY") + `/contents/data.txt?ref=raw-data",
-			"html_url": "https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/blob/raw-data/data.txt",
-			"git_url": "https://api.github.com/repos/` + os.Getenv("GITHUB_REPOSITORY") + `/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
-			"download_url": "https://raw.githubusercontent.com/p` + os.Getenv("GITHUB_REPOSITORY") + `/raw-data/data.txt",
+			"url": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/contents/data.txt?ref=raw-data",
+			"html_url": "https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/data.txt",
+			"git_url": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
+			"download_url": "https://raw.githubusercontent.com/pprince-chrismc/conan-center-index-pending-review/raw-data/data.txt",
 			"type": "file",
 			"content": "SGVsbG8gV29ybGQh",
 			"encoding": "base64",
 			"_links": {
-			  "self": "https://api.github.com/repos/` + os.Getenv("GITHUB_REPOSITORY") + `/contents/data.txt?ref=raw-data",
-			  "git": "https://api.github.com/repos/` + os.Getenv("GITHUB_REPOSITORY") + `/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
-			  "html": "https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/blob/raw-data/data.txt"
+			  "self": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/contents/data.txt?ref=raw-data",
+			  "git": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
+			  "html": "https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/data.txt"
 			}
 		  }`)
 
-	fileContent, err := GetDataFile(context.Background(), pending_review.NewClient(&http.Client{}), "data.txt")
+	fileContent, err := GetDataFile(context.Background(), pending_review.NewClient(&http.Client{}), "data.txt", "prince-chrismc", "conan-center-index-pending-review")
 	assert.Equal(t, nil, err)
 
 	data, err := fileContent.GetContent()
@@ -51,7 +50,7 @@ func TestGetJSONFile(t *testing.T) {
 	defer gock.Off()
 
 	gock.New("https://api.github.com").
-		Get("/repos/" + os.Getenv("GITHUB_REPOSITORY") + "/contents/data.json").
+		Get("/repos/prince-chrismc/conan-center-index-pending-review/contents/data.json").
 		MatchParam("ref", "raw-data").
 		Reply(200).
 		BodyString(`{
@@ -59,22 +58,22 @@ func TestGetJSONFile(t *testing.T) {
 			"path": "data.json",
 			"sha": "c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
 			"size": 20,
-			"url": "https://api.github.com/repos/` + os.Getenv("GITHUB_REPOSITORY") + `/contents/data.json?ref=raw-data",
-			"html_url": "https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/blob/raw-data/data.json",
-			"git_url": "https://api.github.com/repos/` + os.Getenv("GITHUB_REPOSITORY") + `/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
-			"download_url": "https://raw.githubusercontent.com/` + os.Getenv("GITHUB_REPOSITORY") + `/raw-data/data.json",
+			"url": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/contents/data.json?ref=raw-data",
+			"html_url": "https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/data.json",
+			"git_url": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
+			"download_url": "https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/data.json",
 			"type": "file",
 			"content": "eyJmb28iOiJiYXIifQ==",
 			"encoding": "base64",
 			"_links": {
-			  "self": "https://api.github.com/repos/` + os.Getenv("GITHUB_REPOSITORY") + `/contents/data.json?ref=raw-data",
-			  "git": "https://api.github.com/repos/` + os.Getenv("GITHUB_REPOSITORY") + `/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
-			  "html": "https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/blob/raw-data/data.json"
+			  "self": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/contents/data.json?ref=raw-data",
+			  "git": "https://api.github.com/repos/prince-chrismc/conan-center-index-pending-review/git/blobs/c958c6f2fae4c522d1bc690d2dc4bfc1d3101474",
+			  "html": "https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/data.json"
 			}
 		  }`)
 
 	contents := map[string]string{}
-	err := GetJSONFile(context.Background(), pending_review.NewClient(&http.Client{}), "data.json", &contents)
+	err := GetJSONFile(context.Background(), pending_review.NewClient(&http.Client{}), "data.json", &contents, "prince-chrismc", "conan-center-index-pending-review")
 	assert.Equal(t, nil, err)
 
 	assert.Equal(t, nil, err)

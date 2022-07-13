@@ -16,7 +16,7 @@ import (
 )
 
 // PendingReview analysis of open pull requests
-func PendingReview(token string, dryRun bool) error {
+func PendingReview(token string, dryRun bool, owner string, repo string) error {
 	context := context.Background()
 	client, err := internal.MakeClient(context, token)
 	if err != nil {
@@ -58,7 +58,7 @@ func PendingReview(token string, dryRun bool) error {
 	fmt.Println("::group::🖊️ Rendering data and saving results!")
 
 	if !dryRun {
-		isDifferent, err := internal.UpdateJSONFile(context, client, "pending-review.json", retval)
+		isDifferent, err := internal.UpdateJSONFile(context, client, "pending-review.json", retval, owner, repo)
 		if err != nil {
 			fmt.Printf("Problem updating 'pending-review.json' %v\n", err)
 			os.Exit(1)
@@ -70,13 +70,13 @@ func PendingReview(token string, dryRun bool) error {
 			return nil // The published results are the same, no need to update the table.
 		}
 
-		err = updateCountFile(context, client, "review-count.json", len(retval))
+		err = updateCountFile(context, client, "review-count.json", len(retval), owner, repo)
 		if err != nil {
 			fmt.Printf("Problem updating 'review-count.json' %v\n", err)
 			os.Exit(1)
 		}
 
-		err = updateCountFile(context, client, "open-count.json", stats.Open)
+		err = updateCountFile(context, client, "open-count.json", stats.Open, owner, repo)
 		if err != nil {
 			fmt.Printf("Problem updating 'open-count.json' %v\n", err)
 			os.Exit(1)
@@ -103,9 +103,9 @@ func PendingReview(token string, dryRun bool) error {
 
 <sup>[1]</sup>: _closely_ matches the label
 <sup>[2]</sup>: depending whether the PR is under way or ready to merge` +
-		format.UnderReview(retval) + format.ReadyToMerge(retval) + format.Statistics(stats) + `
+		format.UnderReview(retval, owner, repo) + format.ReadyToMerge(retval) + format.Statistics(stats) + `
 		
-[Raw JSON data](https://raw.githubusercontent.com/` + os.Getenv("GITHUB_REPOSITORY") + `/raw-data/pending-review.json)
+[Raw JSON data](https://raw.githubusercontent.com/` + owner + "/" + repo + `/raw-data/pending-review.json)
 
 ## :bar_chart: Open Versus Merged
 
@@ -115,13 +115,13 @@ func PendingReview(token string, dryRun bool) error {
 :red_square: - Closed pull requests
 :purple_square: - Merged pull requests <sup>[1]</sup>
 
-![ovm](https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/blob/raw-data/open-versus-merged.gif?raw=true)
+![ovm](https://github.com/` + owner + "/" + repo + `/blob/raw-data/open-versus-merged.gif?raw=true)
 
 <sup>[1]</sup>: the darker bottom section indicated merged within 7 days of being opened
 
 ## :hourglass: Time Spent in Review
 
-![tir](https://github.com/` + os.Getenv("GITHUB_REPOSITORY") + `/blob/raw-data/time-in-review.png?raw=true)
+![tir](https://github.com/` + owner + "/" + repo + `/blob/raw-data/time-in-review.png?raw=true)
 
 Found this useful? Give it a :star: :pray:
 `
@@ -131,13 +131,13 @@ Found this useful? Give it a :star: :pray:
 		return nil
 	}
 
-	_, err = internal.UpdateFileAtRef(context, client, "index.md", "gh-pages", []byte(commentBody))
+	_, err = internal.UpdateFileAtRef(context, client, "index.md", "gh-pages", []byte(commentBody), owner, repo)
 	if err != nil {
 		fmt.Printf("Problem editing web view %v\n", err)
 		os.Exit(1)
 	}
 
-	_, _, err = client.Issues.Edit(context, os.Getenv("GITHUB_REPOSITORY_OWNER"), "conan-center-index-pending-review", 1, &github.IssueRequest{
+	_, _, err = client.Issues.Edit(context, owner, repo, 1, &github.IssueRequest{
 		Body: github.String(commentBody),
 	})
 	if err != nil {
@@ -150,16 +150,16 @@ Found this useful? Give it a :star: :pray:
 	return nil
 }
 
-func updateCountFile(context context.Context, client *pending_review.Client, file string, count int) error {
+func updateCountFile(context context.Context, client *pending_review.Client, file string, count int, owner string, repo string) error {
 	counts := stats.CountAtTime{}
-	err := internal.GetJSONFile(context, client, file, &counts)
+	err := internal.GetJSONFile(context, client, file, &counts, owner, repo)
 	if err != nil {
 		return err
 	}
 
 	counts.AddNow(count)
 
-	_, err = internal.UpdateJSONFile(context, client, file, counts)
+	_, err = internal.UpdateJSONFile(context, client, file, counts, owner, repo)
 	if err != nil {
 		return err
 	}

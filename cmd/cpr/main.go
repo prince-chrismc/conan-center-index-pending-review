@@ -15,8 +15,10 @@ func main() {
 		Action: func(c *cli.Context) error {
 			dryRun := c.Bool("dry-run")
 			token := c.String("access-token")
+			owner := c.String("repo-owner")
+			repo := c.String("repo-name")
 
-			return PendingReview(token, dryRun)
+			return PendingReview(token, dryRun, owner, repo)
 		},
 	}
 

@@ -12,8 +12,8 @@ import (
 
 // GetOvmPngFromThisWeek returns the last sevent PNGs that have been uploaded.
 // Note: This is under the basis that the deployment does this every ~24hrs.
-func GetOvmPngFromThisWeek(context context.Context, client *pending_review.Client) ([]image.Image, error) {
-	commits, err := internal.GetCommits(context, client, "open-versus-merged.png", 7)
+func GetOvmPngFromThisWeek(context context.Context, client *pending_review.Client, owner string, repo string) ([]image.Image, error) {
+	commits, err := internal.GetCommits(context, client, "open-versus-merged.png", 7, owner, repo)
 	if err != nil {
 		return nil, err
 	}
@@ -21,7 +21,7 @@ func GetOvmPngFromThisWeek(context context.Context, client *pending_review.Clien
 	snapshots := make([]image.Image, 0, 7)
 
 	for _, commit := range commits {
-		fileContent, err := internal.GetFileAtRef(context, client, "open-versus-merged.png", commit.GetSHA())
+		fileContent, err := internal.GetFileAtRef(context, client, "open-versus-merged.png", commit.GetSHA(), owner, repo)
 		if err != nil {
 			return snapshots, err
 		}
