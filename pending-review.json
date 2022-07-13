@@ -345,16 +345,14 @@
       "Recipe": "libglvnd",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11121",
-      "LastCommitSHA": "f6084dd0bc2743094626ed8875377ce6f4d42457",
-      "LastCommitAt": "2022-06-11T11:50:58Z",
+      "LastCommitSHA": "b9fe18676d2971b362085eb2d18ce24485d88877",
+      "LastCommitAt": "2022-07-13T09:57:46Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "Croydon"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "Croydon",
@@ -1101,8 +1099,26 @@
       "Recipe": "glib",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11666",
-      "LastCommitSHA": "9c622fefbc6fe320e99330d843ab79d66a778bee",
-      "LastCommitAt": "2022-07-13T09:13:06Z",
+      "LastCommitSHA": "23620ee4368856568f9b67437121535ecbbc2199",
+      "LastCommitAt": "2022-07-13T09:47:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11668,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-13T09:42:57Z",
+      "Recipe": "bitmagic",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11668",
+      "LastCommitSHA": "c7be4f883c8b0bade49cdcd48da80712de48c5f8",
+      "LastCommitAt": "2022-07-13T09:41:11Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
