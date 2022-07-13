@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **44** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,7 +39,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11121](https://github.com/conan-io/conan-center-index/pull/11121)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 10|:new: libglvnd|4|Jul 11||
 [#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:memo: gtsam|0|:eyes:||
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
-[#11308](https://github.com/conan-io/conan-center-index/pull/11308)|[hesham-essam](https://github.com/hesham-essam)|Jun 21|:stopwatch: gtk|4|Jun 28 :bell:||
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|3|Jun 30 :bell:||
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:stopwatch: poppler|0|:eyes:||
 [#11430](https://github.com/conan-io/conan-center-index/pull/11430)|[kenneth-jia](https://github.com/kenneth-jia)|Jun 29|:new: modern-cpp-kafka|5|Jul 5||
@@ -64,12 +63,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|1|Jul 13||danimtb
 [#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:stopwatch: quill|2|Jul 13||jwillikers
 [#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|1|Jul 12||prince-chrismc
-[#11662](https://github.com/conan-io/conan-center-index/pull/11662)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:green_book: docs|2|Jul 13||jgsogo, jwillikers
 [#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:memo: diligent-core|0|||
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
-[#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|0|||
-[#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:stopwatch: redboltz-mqtt_cpp|0|||
-[#11672](https://github.com/conan-io/conan-center-index/pull/11672)|[jgsogo](https://github.com/jgsogo)|Jul 13|:memo: msix|0|||
+[#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
+[#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
+[#11672](https://github.com/conan-io/conan-center-index/pull/11672)|[jgsogo](https://github.com/jgsogo)|Jul 13|:memo: msix|1|Jul 13||prince-chrismc
 [#11683](https://github.com/conan-io/conan-center-index/pull/11683)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 13|:green_book: docs|0|||
 
 
@@ -91,12 +89,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 165
+	- Open: 164
 	- Draft: 28
-	- Average Age: 77 days, 18 hours, and 21.78 minutes
+	- Average Age: 78 days, 6 hours, and 37.84 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 56
+	- Failed: 57
 	- Blocked: 10
 	
 		
