@@ -657,24 +657,6 @@
       }
    },
    {
-      "Number": 11483,
-      "OpenedBy": "sheepgrass",
-      "CreatedAt": "2022-07-02T07:15:26Z",
-      "Recipe": "cpp_project_framework",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11483",
-      "LastCommitSHA": "35124411c3c9d96909a81eb9c7e550596e1cbd1c",
-      "LastCommitAt": "2022-07-13T13:59:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11495,
       "OpenedBy": "hesham-essam",
       "CreatedAt": "2022-07-02T17:04:27Z",
@@ -1102,7 +1084,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11664",
       "LastCommitSHA": "b0eaee62ab438361e31cfff6fe3122a0d9edc825",
       "LastCommitAt": "2022-07-13T11:25:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1146,6 +1128,24 @@
       "LastCommitSHA": "c7be4f883c8b0bade49cdcd48da80712de48c5f8",
       "LastCommitAt": "2022-07-13T09:41:11Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11670,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-13T13:33:59Z",
+      "Recipe": "redboltz-mqtt_cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11670",
+      "LastCommitSHA": "cd67721659c39fd5461bc675dbc42ac746473a08",
+      "LastCommitAt": "2022-07-13T14:59:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
