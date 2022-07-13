@@ -8,20 +8,20 @@
 
 #### Legend
 
-:new: - Adding a recipe which does not yet exist
-:memo: - Modification to an existing recipe
-:green_book: - Documentation change <sup>[1]</sup>
-:gear: - GitHub configuration/workflow changes <sup>[1]</sup>
-:stopwatch: or :warning: - The commit status does **not** indicate success <sup>[2]</sup>
-:bell: - The last review was more than 12 days ago
-:eyes: - It's been more than 3 days since the last commit and there are no reviews
-
-<sup>[1]</sup>: _closely_ matches the label
+:new: - Adding a recipe which does not yet exist<br>
+:memo: - Modification to an existing recipe<br>
+:green_book: - Documentation change <sup>[1]</sup><br>
+:gear: - GitHub configuration/workflow changes <sup>[1]</sup><br>
+:stopwatch: or :warning: - The commit status does **not** indicate success <sup>[2]</sup><br>
+:bell: - The last review was more than 12 days ago<br>
+:eyes: - It's been more than 3 days since the last commit and there are no reviews<br>
+<br>
+<sup>[1]</sup>: _closely_ matches the label<br>
 <sup>[2]</sup>: depending whether the PR is under way or ready to merge
 
 ### :nerd_face: Please Review! 
 
-There are **49** pull requests currently under way :detective:
+There are **50** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -68,6 +68,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|||
 [#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|1|Jul 12||
 [#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|1|Jul 13||danimtb
+[#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:stopwatch: quill|1|Jul 13||
 [#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|1|Jul 12||prince-chrismc
 [#11662](https://github.com/conan-io/conan-center-index/pull/11662)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:green_book: docs|2|Jul 13||jgsogo, jwillikers
 [#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:memo: diligent-core|0|||
@@ -93,11 +94,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 4d702e921739ae768c3b1ce114ac8a7e4d7f78a2
+- Commit: 47571075ca9498dcaa730f37c7b3aa74cc432d18
 - Pull Requests:
-	- Open: 159
+	- Open: 160
 	- Draft: 28
-	- Average Age: 80 days, 23 hours, and 27.90 minutes
+	- Average Age: 80 days, 12 hours, and 25.90 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 52
@@ -110,9 +111,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 #### Legend
 
-:green_square: - Open pull requests
-:red_square: - Closed pull requests
-:purple_square: - Merged pull requests <sup>[1]</sup>
+:green_square: - Open pull requests<br>
+:red_square: - Closed pull requests<br>
+:purple_square: - Merged pull requests <sup>[1]</sup><br>
 
 ![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.gif?raw=true)
 
