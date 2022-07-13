@@ -35,7 +35,7 @@ type RepoStatus = github.RepoStatus
 type CombinedStatus = github.CombinedStatus
 
 // A Client manages communication with the GitHub API. This wraps the github.Client
-// and provides convenient access to interupt information from CCI prespective
+// and provides convenient access to interrupt information from CCI perspective
 type Client struct {
 	*github.Client
 
