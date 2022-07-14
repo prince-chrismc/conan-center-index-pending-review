@@ -25,7 +25,7 @@ There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
-[#6640](https://github.com/conan-io/conan-center-index/pull/6640)|[madebr](https://github.com/madebr)|Aug 1|:stopwatch: pdfium|17|Aug 12 :bell:||
+[#6640](https://github.com/conan-io/conan-center-index/pull/6640)|[madebr](https://github.com/madebr)|Aug 1|:new: pdfium|17|Aug 12 :bell:||
 [#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
@@ -86,12 +86,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 157
+	- Open: 158
 	- Draft: 26
-	- Average Age: 84 days, 8 hours, and 48.56 minutes
+	- Average Age: 83 days, 21 hours, and 2.65 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 60
+	- Failed: 61
 	- Blocked: 10
 	
 		
