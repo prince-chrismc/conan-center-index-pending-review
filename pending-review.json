@@ -554,9 +554,9 @@
       "Recipe": "userspace-rcu",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11595",
-      "LastCommitSHA": "e220ffd0f95db32c5efa3ba7eecc7d1346ac016b",
+      "LastCommitSHA": "24d891065a03b44417ee2669e098f88116cbb0c8",
       "LastCommitAt": "2022-07-14T16:26:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -958,24 +958,6 @@
       "LastCommitSHA": "cd67721659c39fd5461bc675dbc42ac746473a08",
       "LastCommitAt": "2022-07-13T14:59:54Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11702,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-07-14T15:41:11Z",
-      "Recipe": "diligent-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11702",
-      "LastCommitSHA": "2eb082b5a343272b6824632265c74f750241b3b4",
-      "LastCommitAt": "2022-07-14T16:12:15Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
