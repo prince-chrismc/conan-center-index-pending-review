@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,19 +64,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
-[#11685](https://github.com/conan-io/conan-center-index/pull/11685)|[toge](https://github.com/toge)|Jul 14|:memo: libcurl|1|Jul 14||AndreyMlashkin
-[#11691](https://github.com/conan-io/conan-center-index/pull/11691)|[toge](https://github.com/toge)|Jul 14|:stopwatch: gettext|1|Jul 14||AndreyMlashkin
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
+[#11685](https://github.com/conan-io/conan-center-index/pull/11685)|[toge](https://github.com/toge)|Jul 14|:memo: libcurl|2|AndreyMlashkin, jgsogo
+[#11691](https://github.com/conan-io/conan-center-index/pull/11691)|[toge](https://github.com/toge)|Jul 14|:memo: gettext|2|AndreyMlashkin, jgsogo
 
 
 #### :clipboard: Statistics
@@ -87,7 +87,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 158
 	- Draft: 27
-	- Average Age: 83 days, 17 hours, and 47.81 minutes
+	- Average Age: 83 days, 18 hours, and 42.52 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 60
