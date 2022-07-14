@@ -951,14 +951,14 @@
       }
    },
    {
-      "Number": 11703,
-      "OpenedBy": "boussaffawalid",
-      "CreatedAt": "2022-07-14T16:01:25Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11703",
-      "LastCommitSHA": "021b1896cac70a2bc608905caba15bbb73cc210f",
-      "LastCommitAt": "2022-07-14T16:00:30Z",
+      "Number": 11707,
+      "OpenedBy": "szmyd",
+      "CreatedAt": "2022-07-14T18:26:29Z",
+      "Recipe": "isa-l",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11707",
+      "LastCommitSHA": "8928b2b73ab6a033f2cf7aad8d6f1301bdbec527",
+      "LastCommitAt": "2022-07-14T22:56:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
