@@ -967,23 +967,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 11707,
-      "OpenedBy": "szmyd",
-      "CreatedAt": "2022-07-14T18:26:29Z",
-      "Recipe": "isa-l",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11707",
-      "LastCommitSHA": "74c65988be67b01e614317a33c8287bc83f320e3",
-      "LastCommitAt": "2022-07-14T21:06:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
