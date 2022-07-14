@@ -67,7 +67,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
-[#11703](https://github.com/conan-io/conan-center-index/pull/11703)|[boussaffawalid](https://github.com/boussaffawalid)|Jul 14|:stopwatch: icu|0|||
+[#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:stopwatch: isa-l|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -89,10 +89,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 163
 	- Draft: 26
-	- Average Age: 81 days, 15 hours, and 37.00 minutes
+	- Average Age: 81 days, 16 hours, and 36.97 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 67
+	- Failed: 66
 	- Blocked: 10
 	
 		
