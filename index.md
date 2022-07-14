@@ -21,10 +21,11 @@
 
 ### :nerd_face: Please Review! 
 
-There are **39** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
+[#6640](https://github.com/conan-io/conan-center-index/pull/6640)|[madebr](https://github.com/madebr)|Aug 1|:stopwatch: pdfium|17|Aug 12 :bell:||
 [#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
@@ -47,6 +48,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11459](https://github.com/conan-io/conan-center-index/pull/11459)|[hnOsmium0001](https://github.com/hnOsmium0001)|Jun 30|:stopwatch: status-code|0|:eyes:||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|2|Jul 11||SSE4
+[#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:stopwatch: qt|2|Jul 6||ericLemanissier
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|3|Jul 13||jwillikers, prince-chrismc
 [#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|3|Jul 11||jwillikers
@@ -58,6 +60,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|||
 [#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|1|Jul 12||
 [#11644](https://github.com/conan-io/conan-center-index/pull/11644)|[miklelappo](https://github.com/miklelappo)|Jul 12|:memo: perfetto|1|Jul 13||danimtb
+[#11646](https://github.com/conan-io/conan-center-index/pull/11646)|[toge](https://github.com/toge)|Jul 12|:new: c-blosc2|1|Jul 12||
 [#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|2|Jul 13||jwillikers
 [#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|1|Jul 12||prince-chrismc
 [#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:memo: diligent-core|0|||
@@ -68,15 +71,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11685](https://github.com/conan-io/conan-center-index/pull/11685)|[toge](https://github.com/toge)|Jul 14|:memo: libcurl|2|AndreyMlashkin, jgsogo
-[#11691](https://github.com/conan-io/conan-center-index/pull/11691)|[toge](https://github.com/toge)|Jul 14|:memo: gettext|2|AndreyMlashkin, jgsogo
 
 
 #### :clipboard: Statistics
@@ -85,9 +86,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 158
-	- Draft: 27
-	- Average Age: 83 days, 18 hours, and 42.52 minutes
+	- Open: 157
+	- Draft: 26
+	- Average Age: 84 days, 8 hours, and 48.56 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 60
