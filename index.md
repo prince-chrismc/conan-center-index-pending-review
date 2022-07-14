@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **44** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,10 +47,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|3|Jul 14||prince-chrismc
 [#11459](https://github.com/conan-io/conan-center-index/pull/11459)|[hnOsmium0001](https://github.com/hnOsmium0001)|Jun 30|:stopwatch: status-code|0|:eyes:||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
-[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:stopwatch: mold|4|Jul 14||
 [#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:stopwatch: qt|2|Jul 6||ericLemanissier
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
-[#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:stopwatch: userspace-rcu|1|Jul 14||
+[#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|1|Jul 14||
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|3|Jul 13||jwillikers, prince-chrismc
 [#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|3|Jul 11||jwillikers
 [#11611](https://github.com/conan-io/conan-center-index/pull/11611)|[SpaceIm](https://github.com/SpaceIm)|Jul 9|:memo: mongo-c-driver|0|||
@@ -70,7 +69,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
 [#11703](https://github.com/conan-io/conan-center-index/pull/11703)|[boussaffawalid](https://github.com/boussaffawalid)|Jul 14|:stopwatch: icu|0|||
-[#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:stopwatch: isa-l|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -90,12 +88,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 165
+	- Open: 164
 	- Draft: 26
-	- Average Age: 80 days, 12 hours, and 51.93 minutes
+	- Average Age: 81 days, 1 hours, and 42.47 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 64
+	- Failed: 66
 	- Blocked: 10
 	
 		
