@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,21 +64,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
-[#11672](https://github.com/conan-io/conan-center-index/pull/11672)|[jgsogo](https://github.com/jgsogo)|Jul 13|:memo: msix|2|Jul 14||prince-chrismc, toge
 [#11683](https://github.com/conan-io/conan-center-index/pull/11683)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 13|:green_book: docs|1|Jul 14||toge
 [#11685](https://github.com/conan-io/conan-center-index/pull/11685)|[toge](https://github.com/toge)|Jul 14|:stopwatch: libcurl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11580](https://github.com/conan-io/conan-center-index/pull/11580)|[jwillikers](https://github.com/jwillikers)|Jul 7|:memo: wayland|4|SSE4, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -87,12 +85,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 159
+	- Open: 156
 	- Draft: 28
-	- Average Age: 80 days, 17 hours, and 25.76 minutes
+	- Average Age: 82 days, 7 hours, and 49.64 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 58
+	- Failed: 59
 	- Blocked: 10
 	
 		
