@@ -21,13 +21,14 @@
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
+[#10456](https://github.com/conan-io/conan-center-index/pull/10456)|[SSE4](https://github.com/SSE4)|Apr 23|:stopwatch: fmt|5|Jul 14|czoido|
 [#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
@@ -64,8 +65,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
-[#11685](https://github.com/conan-io/conan-center-index/pull/11685)|[toge](https://github.com/toge)|Jul 14|:memo: libcurl|0|||
-[#11691](https://github.com/conan-io/conan-center-index/pull/11691)|[toge](https://github.com/toge)|Jul 14|:stopwatch: gettext|0|||
+[#11685](https://github.com/conan-io/conan-center-index/pull/11685)|[toge](https://github.com/toge)|Jul 14|:memo: libcurl|1|Jul 14||AndreyMlashkin
+[#11691](https://github.com/conan-io/conan-center-index/pull/11691)|[toge](https://github.com/toge)|Jul 14|:stopwatch: gettext|1|Jul 14||AndreyMlashkin
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -85,11 +86,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 157
-	- Draft: 28
-	- Average Age: 81 days, 23 hours, and 38.83 minutes
+	- Open: 158
+	- Draft: 27
+	- Average Age: 83 days, 16 hours, and 47.35 minutes
 - Labels:
-	- Stale: 11
+	- Stale: 12
 	- Failed: 59
 	- Blocked: 10
 	
