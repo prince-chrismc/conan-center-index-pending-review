@@ -37,8 +37,6 @@ func TestGetDataFile(t *testing.T) {
 
 	reviewers, err := DownloadKnownReviewersList(context.Background(), NewClient(&http.Client{}))
 	assert.Equal(t, nil, err)
-
-	assert.Equal(t, nil, err)
 	assert.Equal(t, "Hello World!", reviewers)
 
 	assert.Equal(t, true, gock.IsDone())
