@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -49,10 +49,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:stopwatch: qt|2|Jul 6||ericLemanissier
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
+[#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:stopwatch: userspace-rcu|1|Jul 14||
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|3|Jul 13||jwillikers, prince-chrismc
 [#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|3|Jul 11||jwillikers
 [#11611](https://github.com/conan-io/conan-center-index/pull/11611)|[SpaceIm](https://github.com/SpaceIm)|Jul 9|:memo: mongo-c-driver|0|||
-[#11614](https://github.com/conan-io/conan-center-index/pull/11614)|[toge](https://github.com/toge)|Jul 9|:memo: zxing-cpp|0|||
+[#11614](https://github.com/conan-io/conan-center-index/pull/11614)|[toge](https://github.com/toge)|Jul 9|:stopwatch: zxing-cpp|0|||
 [#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|1|Jul 11||SSE4
 [#11619](https://github.com/conan-io/conan-center-index/pull/11619)|[boussaffawalid](https://github.com/boussaffawalid)|Jul 10|:stopwatch: qt|0|||
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|||
@@ -67,6 +68,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
+[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:stopwatch: diligent-core|0|||
+[#11703](https://github.com/conan-io/conan-center-index/pull/11703)|[boussaffawalid](https://github.com/boussaffawalid)|Jul 14|:stopwatch: icu|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -86,9 +89,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 159
+	- Open: 163
 	- Draft: 26
-	- Average Age: 83 days, 9 hours, and 47.08 minutes
+	- Average Age: 81 days, 9 hours, and 49.42 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 63
