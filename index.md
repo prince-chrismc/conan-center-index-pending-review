@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -65,6 +65,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
 [#11685](https://github.com/conan-io/conan-center-index/pull/11685)|[toge](https://github.com/toge)|Jul 14|:memo: libcurl|0|||
+[#11691](https://github.com/conan-io/conan-center-index/pull/11691)|[toge](https://github.com/toge)|Jul 14|:stopwatch: gettext|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -86,7 +87,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 157
 	- Draft: 28
-	- Average Age: 81 days, 22 hours, and 34.87 minutes
+	- Average Age: 81 days, 23 hours, and 38.83 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 59
