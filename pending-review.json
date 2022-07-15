@@ -967,5 +967,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11709,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-07-15T04:50:06Z",
+      "Recipe": "libnfnetlink",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11709",
+      "LastCommitSHA": "f31f40718531d8f46397eb47461d52debd4a2a96",
+      "LastCommitAt": "2022-07-15T04:45:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
