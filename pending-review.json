@@ -1001,11 +1001,16 @@
       "LastCommitAt": "2022-07-15T10:10:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-07-15T12:30:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11713#pullrequestreview-1040229372"
+         }
       }
    },
    {
