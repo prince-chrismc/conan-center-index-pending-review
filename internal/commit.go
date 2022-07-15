@@ -12,8 +12,8 @@ import (
 )
 
 // GetCommits returns a list of of number from the raw-data branch
-func GetCommits(context context.Context, client *pending_review.Client, file string, count int, owner string, repo string) ([]*github.RepositoryCommit, error) {
-	commits, _, err := client.Repositories.ListCommits(context, owner, repo,
+func GetCommits(context context.Context, client *pending_review.Client, file string, count int) ([]*github.RepositoryCommit, error) {
+	commits, _, err := client.Repositories.ListCommits(context, client.TargetRepository.Owner, client.TargetRepository.Name,
 		&github.CommitsListOptions{SHA: "raw-data", Path: file, ListOptions: github.ListOptions{PerPage: count}})
 	if err != nil {
 		return nil, err
@@ -23,8 +23,8 @@ func GetCommits(context context.Context, client *pending_review.Client, file str
 }
 
 // GetFileAtRef returns the content of file from the root directory from a commit sha
-func GetFileAtRef(context context.Context, client *pending_review.Client, file string, sha string, owner string, repo string) (*github.RepositoryContent, error) {
-	fileContent, _, _, err := client.Repositories.GetContents(context, owner, repo, file,
+func GetFileAtRef(context context.Context, client *pending_review.Client, file string, sha string) (*github.RepositoryContent, error) {
+	fileContent, _, _, err := client.Repositories.GetContents(context, client.TargetRepository.Owner, client.TargetRepository.Name, file,
 		&github.RepositoryContentGetOptions{Ref: sha})
 	if err != nil {
 		return nil, err
@@ -34,13 +34,13 @@ func GetFileAtRef(context context.Context, client *pending_review.Client, file s
 }
 
 // GetDataFile returns the content of file from the root directory of the raw-data branch
-func GetDataFile(context context.Context, client *pending_review.Client, file string, owner string, repo string) (*github.RepositoryContent, error) {
-	return GetFileAtRef(context, client, file, "raw-data", owner, repo)
+func GetDataFile(context context.Context, client *pending_review.Client, file string) (*github.RepositoryContent, error) {
+	return GetFileAtRef(context, client, file, "raw-data")
 }
 
 // GetJSONFile returns the JSON structure of file from the root directory of the raw-data branch
-func GetJSONFile(context context.Context, client *pending_review.Client, file string, content interface{}, owner string, repo string) error {
-	fileContent, err := GetDataFile(context, client, file, owner, repo)
+func GetJSONFile(context context.Context, client *pending_review.Client, file string, content interface{}) error {
+	fileContent, err := GetDataFile(context, client, file)
 	if err != nil {
 		return err
 	}
@@ -58,8 +58,8 @@ func GetJSONFile(context context.Context, client *pending_review.Client, file st
 }
 
 // UpdateDataFileAtRef commits the new content if it's different. It returns if the modification took place and any error encountered.
-func UpdateFileAtRef(context context.Context, client *pending_review.Client, file string, branch string, content []byte, owner string, repo string) (bool, error) {
-	fileContent, err := GetFileAtRef(context, client, file, branch, owner, repo)
+func UpdateFileAtRef(context context.Context, client *pending_review.Client, file string, branch string, content []byte) (bool, error) {
+	fileContent, err := GetFileAtRef(context, client, file, branch)
 	if err != nil {
 		return false, err
 	}
@@ -78,7 +78,7 @@ func UpdateFileAtRef(context context.Context, client *pending_review.Client, fil
 		Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"),
 			Email: github.String("github-actions[bot]@users.noreply.github.com")},
 	}
-	_, _, err = client.Repositories.UpdateFile(context, owner, repo, file, opts)
+	_, _, err = client.Repositories.UpdateFile(context, client.TargetRepository.Owner, client.TargetRepository.Name, file, opts)
 	if err != nil {
 		return false, err
 	}
@@ -87,18 +87,18 @@ func UpdateFileAtRef(context context.Context, client *pending_review.Client, fil
 }
 
 // UpdateDataFile commits the new content to `raw-data` if it's different. It returns if the modification took place and any error encountered.
-func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte, owner string, repo string) (bool, error) {
-	return UpdateFileAtRef(context, client, file, "raw-data", content, owner, repo)
+func UpdateDataFile(context context.Context, client *pending_review.Client, file string, content []byte) (bool, error) {
+	return UpdateFileAtRef(context, client, file, "raw-data", content)
 }
 
 // UpdateJSONFile commits the new content if it's different. It returns if the modification took place and any error encountered.
-func UpdateJSONFile(context context.Context, client *pending_review.Client, file string, content interface{}, owner string, repo string) (bool, error) {
+func UpdateJSONFile(context context.Context, client *pending_review.Client, file string, content interface{}) (bool, error) {
 	data, err := json.MarshalIndent(content, "", "   ")
 	if err != nil {
 		return false, err
 	}
 
-	updated, err := UpdateDataFile(context, client, file, data, owner, repo)
+	updated, err := UpdateDataFile(context, client, file, data)
 	if err != nil {
 		return false, err
 	}

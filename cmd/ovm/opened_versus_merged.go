@@ -25,7 +25,7 @@ const delay = 75
 // OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
 func OpenVersusMerged(token string, dryRun bool, owner string, repo string) error {
 	context := context.Background()
-	client, err := internal.MakeClient(context, token)
+	client, err := internal.MakeClient(context, token, pending_review.TargetRepository{Owner: owner, Name: repo})
 	if err != nil {
 		fmt.Printf("Problem getting rate limit information %v\n", err)
 		os.Exit(1)
@@ -41,7 +41,7 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 	countClosedPullRequests(context, client, opw, cxw, mxw, m7xw)
 	countOpenedPullRequests(context, client, opw)
 
-	images, err := GetOvmPngFromThisWeek(context, client, owner, repo)
+	images, err := GetOvmPngFromThisWeek(context, client)
 	if err != nil || len(images) == 0 { // We know there should always be commits
 		fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
 		os.Exit(1)
@@ -67,7 +67,7 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b1.Bytes(), owner, repo)
+	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b1.Bytes())
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.png", err)
 		os.Exit(1)
@@ -90,7 +90,7 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 		os.Exit(1)
 	}
 
-	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.gif", b3.Bytes(), owner, repo)
+	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.gif", b3.Bytes())
 	if err != nil {
 		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.gif", err)
 		os.Exit(1)

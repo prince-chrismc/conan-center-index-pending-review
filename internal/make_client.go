@@ -8,12 +8,12 @@ import (
 	"golang.org/x/oauth2"
 )
 
-func MakeClient(context context.Context, token string) (*pending_review.Client, error) {
+func MakeClient(context context.Context, token string, target pending_review.TargetRepository) (*pending_review.Client, error) {
 	tokenService := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: token},
 	)
 
-	client := pending_review.NewClient(oauth2.NewClient(context, tokenService))
+	client := pending_review.NewClient(oauth2.NewClient(context, tokenService), target)
 
 	// Get Rate limit information
 	rateLimit, _, err := client.RateLimits(context)

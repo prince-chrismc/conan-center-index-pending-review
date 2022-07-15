@@ -18,7 +18,7 @@ import (
 // PendingReview analysis of open pull requests
 func PendingReview(token string, dryRun bool, owner string, repo string) error {
 	context := context.Background()
-	client, err := internal.MakeClient(context, token)
+	client, err := internal.MakeClient(context, token, pending_review.TargetRepository{Owner: owner, Name: repo})
 	if err != nil {
 		fmt.Printf("Problem getting rate limit information %v\n", err)
 		os.Exit(1)
@@ -58,7 +58,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 	fmt.Println("::group::🖊️ Rendering data and saving results!")
 
 	if !dryRun {
-		isDifferent, err := internal.UpdateJSONFile(context, client, "pending-review.json", retval, owner, repo)
+		isDifferent, err := internal.UpdateJSONFile(context, client, "pending-review.json", retval)
 		if err != nil {
 			fmt.Printf("Problem updating 'pending-review.json' %v\n", err)
 			os.Exit(1)
@@ -70,13 +70,13 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 			return nil // The published results are the same, no need to update the table.
 		}
 
-		err = updateCountFile(context, client, "review-count.json", len(retval), owner, repo)
+		err = updateCountFile(context, client, "review-count.json", len(retval))
 		if err != nil {
 			fmt.Printf("Problem updating 'review-count.json' %v\n", err)
 			os.Exit(1)
 		}
 
-		err = updateCountFile(context, client, "open-count.json", stats.Open, owner, repo)
+		err = updateCountFile(context, client, "open-count.json", stats.Open)
 		if err != nil {
 			fmt.Printf("Problem updating 'open-count.json' %v\n", err)
 			os.Exit(1)
@@ -131,7 +131,7 @@ Found this useful? Give it a :star: :pray:
 		return nil
 	}
 
-	_, err = internal.UpdateFileAtRef(context, client, "index.md", "gh-pages", []byte(commentBody), owner, repo)
+	_, err = internal.UpdateFileAtRef(context, client, "index.md", "gh-pages", []byte(commentBody))
 	if err != nil {
 		fmt.Printf("Problem editing web view %v\n", err)
 		os.Exit(1)
@@ -150,16 +150,16 @@ Found this useful? Give it a :star: :pray:
 	return nil
 }
 
-func updateCountFile(context context.Context, client *pending_review.Client, file string, count int, owner string, repo string) error {
+func updateCountFile(context context.Context, client *pending_review.Client, file string, count int) error {
 	counts := stats.CountAtTime{}
-	err := internal.GetJSONFile(context, client, file, &counts, owner, repo)
+	err := internal.GetJSONFile(context, client, file, &counts)
 	if err != nil {
 		return err
 	}
 
 	counts.AddNow(count)
 
-	_, err = internal.UpdateJSONFile(context, client, file, counts, owner, repo)
+	_, err = internal.UpdateJSONFile(context, client, file, counts)
 	if err != nil {
 		return err
 	}
