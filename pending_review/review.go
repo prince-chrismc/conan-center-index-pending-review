@@ -2,7 +2,7 @@ package pending_review
 
 import "time"
 
-// Review contains the essentials of a submission
+// Review contains teh essentials of a submission
 type Review struct {
 	ReviewerName string
 	SubmittedAt  time.Time
@@ -27,7 +27,7 @@ func (r *Reviews) IsApproved() bool {
 }
 
 // ProcessReviewComments interprets the all the reviews to extract a summary based on the requirements of CCI
-func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullRequestReview, sha string) Reviews {
+func ProcessReviewComments(reviews []*PullRequestReview, sha string) Reviews {
 	summary := Reviews{
 		Count:        len(reviews),
 		TeamApproval: false,
@@ -46,8 +46,8 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 		onBranchHead := sha == review.GetCommitID()
 
 		reviewerName := review.GetUser().GetLogin()
-		isTeamMember := reviewers.IsTeamMember(reviewerName)
-		isMember := isTeamMember || reviewers.IsCommunityMember(reviewerName)
+		isTeamMember := isTeamMember(reviewerName)
+		isMember := isTeamMember || isCommunityMember(reviewerName)
 
 		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API
 		case "CHANGES_REQUESTED":
@@ -94,6 +94,28 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 	}
 
 	return summary
+}
+
+func isTeamMember(reviewerName string) bool {
+	switch reviewerName {
+	// As defined by https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#official-reviewers
+	case "memsharded", "lasote", "danimtb", "jgsogo", "czoido", "SSE4", "uilianries":
+		return true
+	default:
+		return false
+	}
+}
+
+func isCommunityMember(reviewerName string) bool {
+	switch reviewerName {
+	// As defined by https://github.com/conan-io/conan-center-index/issues/2857
+	// and https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md#community-reviewers
+	case "madebr", "SpaceIm", "ericLemanissier", "prince-chrismc", "Croydon", "intelligide", "theirix", "gocarlos", "mathbunnyru", "ericriff", "toge",
+		"AndreyMlashkin", "MartinDelille", "dmn-star":
+		return true
+	default:
+		return false
+	}
 }
 
 func appendUnique(slice []string, elem string) ([]string, bool) {

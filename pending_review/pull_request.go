@@ -40,16 +40,7 @@ type PullRequestSummary struct {
 var ErrNoReviews = errors.New("no reviews on pull request")
 
 // PullRequestService handles communication with the pull request related methods of the GitHub API
-type PullRequestService struct {
-	service
-
-	reviewers *ConanCenterReviewers
-}
-
-func NewPullRequestService(client *Client) *PullRequestService {
-	prService := &PullRequestService{service: service{client: client}}
-	reviewers, err := DownloadKnownReviewersList(context.Background(), client)
-}
+type PullRequestService service
 
 // ListAllReviews lists all reviews on the specified pull request.
 func (s *PullRequestService) ListAllReviews(ctx context.Context, owner string, repo string, number int) ([]*PullRequestReview, *Response, error) {
