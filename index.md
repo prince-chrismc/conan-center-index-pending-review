@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -59,7 +59,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11646](https://github.com/conan-io/conan-center-index/pull/11646)|[toge](https://github.com/toge)|Jul 12|:new: c-blosc2|1|Jul 12||
 [#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|2|Jul 13||jwillikers
 [#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|1|Jul 12||prince-chrismc
-[#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|11|Jul 15||SSE4
+[#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|12|Jul 15|jgsogo|SSE4
 [#11660](https://github.com/conan-io/conan-center-index/pull/11660)|[danimtb](https://github.com/danimtb)|Jul 13|:memo: aaf|3|Jul 14||prince-chrismc
 [#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:memo: diligent-core|0|||
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
@@ -67,6 +67,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
 [#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:new: isa-l|0|||
 [#11709](https://github.com/conan-io/conan-center-index/pull/11709)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: libnfnetlink|0|||
+[#11710](https://github.com/conan-io/conan-center-index/pull/11710)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 15|:stopwatch: xorg-proto|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -86,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 164
+	- Open: 165
 	- Draft: 25
-	- Average Age: 81 days, 11 hours, and 16.95 minutes
+	- Average Age: 81 days, and 21.72 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 67
