@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **45** pull requests currently under way :detective:
+There are **46** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,12 +64,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
 [#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|0|||
-[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:stopwatch: diligent-core|0|||
+[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|0|||
 [#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:new: isa-l|0|||
-[#11708](https://github.com/conan-io/conan-center-index/pull/11708)|[toge](https://github.com/toge)|Jul 14|:stopwatch: xmlsec|0|||
 [#11709](https://github.com/conan-io/conan-center-index/pull/11709)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: libnfnetlink|1|Jul 15||jgsogo
 [#11710](https://github.com/conan-io/conan-center-index/pull/11710)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 15|:memo: xorg-proto|0|||
 [#11711](https://github.com/conan-io/conan-center-index/pull/11711)|[jgsogo](https://github.com/jgsogo)|Jul 15|:green_book: docs|0|||
+[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|0|||
+[#11714](https://github.com/conan-io/conan-center-index/pull/11714)|[db4](https://github.com/db4)|Jul 15|:memo: pybind11|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -89,12 +90,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 167
-	- Draft: 25
-	- Average Age: 80 days, 3 hours, and 49.14 minutes
+	- Open: 168
+	- Draft: 24
+	- Average Age: 79 days, 17 hours, and 16.57 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 67
+	- Failed: 68
 	- Blocked: 10
 	
 		
