@@ -35,13 +35,7 @@ func GetFileAtRef(context context.Context, client *pending_review.Client, file s
 
 // GetDataFile returns the content of file from the root directory of the raw-data branch
 func GetDataFile(context context.Context, client *pending_review.Client, file string, owner string, repo string) (*github.RepositoryContent, error) {
-	fileContent, _, _, err := client.Repositories.GetContents(context, owner, repo, file,
-		&github.RepositoryContentGetOptions{Ref: "raw-data"})
-	if err != nil {
-		return nil, err
-	}
-
-	return fileContent, nil
+	return GetFileAtRef(context, client, file, "raw-data", owner, repo)
 }
 
 // GetJSONFile returns the JSON structure of file from the root directory of the raw-data branch
