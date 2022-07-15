@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **47** pull requests currently under way :detective:
+There are **48** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -43,6 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11430](https://github.com/conan-io/conan-center-index/pull/11430)|[kenneth-jia](https://github.com/kenneth-jia)|Jun 29|:new: modern-cpp-kafka|5|Jul 5||
 [#11450](https://github.com/conan-io/conan-center-index/pull/11450)|[Latios96](https://github.com/Latios96)|Jun 30|:new: opensubdiv|1|Jul 4||
 [#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|3|Jul 14||prince-chrismc
+[#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:stopwatch: qt|2|Jul 6||ericLemanissier
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
@@ -93,10 +94,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 169
 	- Draft: 24
-	- Average Age: 79 days, 9 hours, and 3.45 minutes
+	- Average Age: 79 days, 10 hours, and 1.24 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 68
+	- Failed: 67
 	- Blocked: 10
 	
 		
