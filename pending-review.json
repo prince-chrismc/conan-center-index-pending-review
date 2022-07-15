@@ -930,6 +930,24 @@
       }
    },
    {
+      "Number": 11708,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-14T23:46:36Z",
+      "Recipe": "xmlsec",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11708",
+      "LastCommitSHA": "85b8f57a12a0aac8b7209c1299c8e0c55d95fe43",
+      "LastCommitAt": "2022-07-15T08:43:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11709,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-07-15T04:50:06Z",
@@ -954,9 +972,9 @@
       "Recipe": "xorg-proto",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11710",
-      "LastCommitSHA": "9751d45f44d9c18f9097f3c5aeccb1d422e94892",
-      "LastCommitAt": "2022-07-15T07:26:44Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ede791b3f1dcc7c0e1308234e3ab3cc75a2e5afa",
+      "LastCommitAt": "2022-07-15T08:34:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -975,6 +993,24 @@
       "LastCommitSHA": "e812e6aa223acf0695c5d21a44d40ac35271548c",
       "LastCommitAt": "2022-07-15T07:55:00Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11712,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-07-15T09:01:30Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11712",
+      "LastCommitSHA": "f46e7b716bf731a2679fab8cda1390300562aade",
+      "LastCommitAt": "2022-07-15T09:01:19Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
