@@ -902,7 +902,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11702",
       "LastCommitSHA": "bd00d10f2063bc77f019b8b9745342c8fda20e87",
       "LastCommitAt": "2022-07-15T07:54:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -921,24 +921,6 @@
       "LastCommitSHA": "8928b2b73ab6a033f2cf7aad8d6f1301bdbec527",
       "LastCommitAt": "2022-07-14T22:56:13Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11708,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-14T23:46:36Z",
-      "Recipe": "xmlsec",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11708",
-      "LastCommitSHA": "85b8f57a12a0aac8b7209c1299c8e0c55d95fe43",
-      "LastCommitAt": "2022-07-15T08:43:50Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -999,6 +981,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11711",
       "LastCommitSHA": "e812e6aa223acf0695c5d21a44d40ac35271548c",
       "LastCommitAt": "2022-07-15T07:55:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11713,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2022-07-15T10:14:00Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11713",
+      "LastCommitSHA": "d0bcc7b03c5a024c35501121de551323b0af14c3",
+      "LastCommitAt": "2022-07-15T10:10:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11714,
+      "OpenedBy": "db4",
+      "CreatedAt": "2022-07-15T10:36:13Z",
+      "Recipe": "pybind11",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11714",
+      "LastCommitSHA": "0215a578d50919dc5b69e3d0ff9b154136f743c5",
+      "LastCommitAt": "2022-06-27T07:05:23Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
