@@ -11,8 +11,8 @@ import (
 type ReviewerType string
 
 const (
-	Team      ReviewerType = "Team"
-	Community ReviewerType = "Community"
+	Team      ReviewerType = "team"
+	Community ReviewerType = "community"
 )
 
 type Reviewer struct {
@@ -23,6 +23,16 @@ type Reviewer struct {
 
 type ConanCenterReviewers struct {
 	Reviewers []Reviewer `yaml:"reviewers"`
+}
+
+func parseReviewers(str string) (*ConanCenterReviewers, error) {
+	var reviewers ConanCenterReviewers
+	err := yaml.Unmarshal([]byte(str), &reviewers)
+	if err != nil {
+		return nil, err
+	}
+
+	return &reviewers, nil
 }
 
 func DownloadKnownReviewersList(context context.Context, client *Client) (*ConanCenterReviewers, error) {
@@ -37,11 +47,10 @@ func DownloadKnownReviewersList(context context.Context, client *Client) (*Conan
 		return nil, err
 	}
 
-	var reviewers ConanCenterReviewers
-	err = yaml.Unmarshal([]byte(str), &reviewers)
+	reviewers, err := parseReviewers(str)
 	if err != nil {
 		return nil, err
 	}
 
-	return &reviewers, nil
+	return reviewers, nil
 }
