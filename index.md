@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11717](https://github.com/conan-io/conan-center-index/pull/11717)|[bshoshany](https://github.com/bshoshany)|Jul 15|:memo: bshoshany-thread-pool|0|||
 [#11719](https://github.com/conan-io/conan-center-index/pull/11719)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: mdns|3|Jul 15||
 [#11720](https://github.com/conan-io/conan-center-index/pull/11720)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:green_book: docs|0|||
-[#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:stopwatch: skyr-url|0|||
+[#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:memo: skyr-url|0|||
 [#11724](https://github.com/conan-io/conan-center-index/pull/11724)|[github-actions[bot]](https://github.com/github-actions[bot])|Jul 16|:green_book: docs|1|Jul 16||SSE4
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:stopwatch: openssl|0|||
 
@@ -94,13 +94,13 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 172
+	- Open: 171
 	- Draft: 24
-	- Average Age: 78 days, 23 hours, and 6.17 minutes
+	- Average Age: 78 days, 9 hours, and 40.59 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 66
-	- Blocked: 10
+	- Failed: 65
+	- Blocked: 9
 	
 		
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
