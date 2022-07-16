@@ -1108,8 +1108,8 @@
       "Recipe": "openssl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11725",
-      "LastCommitSHA": "67c3179dbd923abd654d5f647105eb52f17a9d88",
-      "LastCommitAt": "2022-07-16T12:56:31Z",
+      "LastCommitSHA": "d3c3659408eb9b65820a5c9215716bdb492cb760",
+      "LastCommitAt": "2022-07-16T13:50:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
