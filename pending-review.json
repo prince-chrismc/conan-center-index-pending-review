@@ -1065,9 +1065,9 @@
       "Recipe": "skyr-url",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11722",
-      "LastCommitSHA": "f6e2cca97d2c8f8a8ddfbb3a25ed6435c5b6fad4",
-      "LastCommitAt": "2022-07-16T05:33:01Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "0fc84b25448d30433b05d0b6e474e569a6aef662",
+      "LastCommitAt": "2022-07-16T14:46:29Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
