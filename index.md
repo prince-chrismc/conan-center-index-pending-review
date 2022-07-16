@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11709](https://github.com/conan-io/conan-center-index/pull/11709)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: libnfnetlink|1|Jul 15||jgsogo
 [#11710](https://github.com/conan-io/conan-center-index/pull/11710)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 15|:memo: xorg-proto|1|Jul 15||prince-chrismc
 [#11711](https://github.com/conan-io/conan-center-index/pull/11711)|[jgsogo](https://github.com/jgsogo)|Jul 15|:green_book: docs|1|Jul 15||prince-chrismc
-[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|8|Jul 16||SSE4
+[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|11|Jul 16||SSE4
 [#11714](https://github.com/conan-io/conan-center-index/pull/11714)|[db4](https://github.com/db4)|Jul 15|:memo: pybind11|0|:eyes:||
 [#11717](https://github.com/conan-io/conan-center-index/pull/11717)|[bshoshany](https://github.com/bshoshany)|Jul 15|:memo: bshoshany-thread-pool|0|||
 [#11719](https://github.com/conan-io/conan-center-index/pull/11719)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: mdns|3|Jul 15||
@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 171
 	- Draft: 25
-	- Average Age: 79 days, 2 hours, and 19.20 minutes
+	- Average Age: 79 days, 3 hours, and 23.92 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 64
