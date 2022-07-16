@@ -66,7 +66,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|1|Jul 15||prince-chrismc
 [#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|0|||
 [#11705](https://github.com/conan-io/conan-center-index/pull/11705)|[VestniK](https://github.com/VestniK)|Jul 14|:memo: swig|0|||
-[#11708](https://github.com/conan-io/conan-center-index/pull/11708)|[toge](https://github.com/toge)|Jul 14|:stopwatch: xmlsec|0|||
 [#11709](https://github.com/conan-io/conan-center-index/pull/11709)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: libnfnetlink|1|Jul 15||jgsogo
 [#11710](https://github.com/conan-io/conan-center-index/pull/11710)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 15|:memo: xorg-proto|1|Jul 15||prince-chrismc
 [#11711](https://github.com/conan-io/conan-center-index/pull/11711)|[jgsogo](https://github.com/jgsogo)|Jul 15|:green_book: docs|1|Jul 15||prince-chrismc
@@ -75,6 +74,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11717](https://github.com/conan-io/conan-center-index/pull/11717)|[bshoshany](https://github.com/bshoshany)|Jul 15|:memo: bshoshany-thread-pool|0|||
 [#11719](https://github.com/conan-io/conan-center-index/pull/11719)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: mdns|3|Jul 15||
 [#11720](https://github.com/conan-io/conan-center-index/pull/11720)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:green_book: docs|0|||
+[#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:memo: skyr-url|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -95,11 +95,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
 	- Open: 171
-	- Draft: 24
-	- Average Age: 79 days, and 20.12 minutes
+	- Draft: 25
+	- Average Age: 79 days, 1 hours, and 23.88 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 65
+	- Failed: 64
 	- Blocked: 10
 	
 		
