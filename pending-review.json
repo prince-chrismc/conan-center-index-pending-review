@@ -1017,7 +1017,7 @@
       "LastCommitAt": "2022-07-15T10:10:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
+         "Count": 11,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -1025,9 +1025,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-16T06:58:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11713#pullrequestreview-1040962840"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2022-07-16T07:57:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11713#pullrequestreview-1040966989"
          }
       }
    },
