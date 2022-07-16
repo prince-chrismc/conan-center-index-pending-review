@@ -411,8 +411,8 @@
       "Recipe": "cpp_project_framework",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11483",
-      "LastCommitSHA": "131f7abfab8412aab65e65af6af23eeb10eee835",
-      "LastCommitAt": "2022-07-15T14:54:42Z",
+      "LastCommitSHA": "e31fb37e1a664ca3ee734d460225f1c1a94aa682",
+      "LastCommitAt": "2022-07-16T00:51:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
