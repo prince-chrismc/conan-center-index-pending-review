@@ -1126,8 +1126,8 @@
       "Recipe": "playrho",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11728",
-      "LastCommitSHA": "4be51002a9cd7f6de0f3fe734caedb491423a840",
-      "LastCommitAt": "2022-07-16T18:10:13Z",
+      "LastCommitSHA": "314fb9371cfc43d9050177b165edd36d03f08d48",
+      "LastCommitAt": "2022-07-16T18:34:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
