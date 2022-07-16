@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **52** pull requests currently under way :detective:
+There are **51** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -75,8 +75,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:memo: skyr-url|0|||
 [#11724](https://github.com/conan-io/conan-center-index/pull/11724)|[github-actions[bot]](https://github.com/github-actions[bot])|Jul 16|:green_book: docs|1|Jul 16||SSE4
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|||
-[#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:stopwatch: playrho|0|||
-[#11729](https://github.com/conan-io/conan-center-index/pull/11729)|[dotChris90](https://github.com/dotChris90)|Jul 16|:stopwatch: iceoryx|0|||
+[#11729](https://github.com/conan-io/conan-center-index/pull/11729)|[dotChris90](https://github.com/dotChris90)|Jul 16|:memo: iceoryx|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -98,10 +97,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 173
 	- Draft: 24
-	- Average Age: 77 days, 14 hours, and 47.21 minutes
+	- Average Age: 77 days, 15 hours, and 50.13 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 65
+	- Failed: 67
 	- Blocked: 9
 	
 		
