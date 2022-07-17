@@ -1143,24 +1143,6 @@
       }
    },
    {
-      "Number": 11728,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-16T18:11:06Z",
-      "Recipe": "playrho",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11728",
-      "LastCommitSHA": "7cca05e5815a8fa49bf909a3f08021f8a7dd683b",
-      "LastCommitAt": "2022-07-17T09:01:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11729,
       "OpenedBy": "dotChris90",
       "CreatedAt": "2022-07-16T18:14:08Z",
@@ -1187,7 +1169,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11731",
       "LastCommitSHA": "2ab0f30ea5035c63637d2159ec132461c6a1334a",
       "LastCommitAt": "2022-07-17T06:42:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
