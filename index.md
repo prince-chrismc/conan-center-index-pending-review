@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **52** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,10 +37,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10945](https://github.com/conan-io/conan-center-index/pull/10945)|[AntonHorbach](https://github.com/AntonHorbach)|May 25|:stopwatch: infoware|1|May 27 :bell:||
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
 [#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:stopwatch: opengrm|0|:eyes:||
+[#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:stopwatch: gtsam|2|Jul 15||
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|3|Jun 30 :bell:||
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:stopwatch: poppler|0|:eyes:||
-[#11430](https://github.com/conan-io/conan-center-index/pull/11430)|[kenneth-jia](https://github.com/kenneth-jia)|Jun 29|:new: modern-cpp-kafka|5|Jul 5||
+[#11430](https://github.com/conan-io/conan-center-index/pull/11430)|[kenneth-jia](https://github.com/kenneth-jia)|Jun 29|:new: modern-cpp-kafka|5|Jul 5 :bell:||
 [#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|3|Jul 14||prince-chrismc
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
@@ -75,6 +76,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:memo: skyr-url|0|||
 [#11724](https://github.com/conan-io/conan-center-index/pull/11724)|[github-actions[bot]](https://github.com/github-actions[bot])|Jul 16|:green_book: docs|1|Jul 16||SSE4
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|||
+[#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:stopwatch: playrho|0|||
 [#11729](https://github.com/conan-io/conan-center-index/pull/11729)|[dotChris90](https://github.com/dotChris90)|Jul 16|:memo: iceoryx|0|||
 [#11731](https://github.com/conan-io/conan-center-index/pull/11731)|[paulocoutinhox](https://github.com/paulocoutinhox)|Jul 17|:stopwatch: poco|0|||
 
@@ -96,12 +98,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 174
+	- Open: 175
 	- Draft: 24
-	- Average Age: 77 days, 16 hours, and 2.32 minutes
+	- Average Age: 77 days, 7 hours, and 23.20 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 67
+	- Failed: 66
 	- Blocked: 9
 	
 		
