@@ -45,14 +45,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|3|Jul 14||prince-chrismc
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
-[#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:stopwatch: erikzenker-hsm|0|||
+[#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:memo: erikzenker-hsm|0|||
 [#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:stopwatch: qt|3|Jul 15||ericLemanissier, prince-chrismc
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|1|Jul 14||
 [#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|3|Jul 13||jwillikers, prince-chrismc
 [#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|4|Jul 15||jwillikers, prince-chrismc
 [#11611](https://github.com/conan-io/conan-center-index/pull/11611)|[SpaceIm](https://github.com/SpaceIm)|Jul 9|:memo: mongo-c-driver|0|:eyes:||
-[#11614](https://github.com/conan-io/conan-center-index/pull/11614)|[toge](https://github.com/toge)|Jul 9|:memo: zxing-cpp|0|||
+[#11614](https://github.com/conan-io/conan-center-index/pull/11614)|[toge](https://github.com/toge)|Jul 9|:memo: zxing-cpp|0|:eyes:||
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|0|:eyes:||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|1|Jul 12||
@@ -101,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 174
 	- Draft: 23
-	- Average Age: 78 days, and 3.16 minutes
+	- Average Age: 78 days, 1 hours, and 7.83 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 66
