@@ -1149,8 +1149,8 @@
       "Recipe": "playrho",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11728",
-      "LastCommitSHA": "3887c0553715d7f8b3880bfc1e06bf7b561c6ecb",
-      "LastCommitAt": "2022-07-17T11:47:01Z",
+      "LastCommitSHA": "553a463060b6759092ddea909035aed37a32bd33",
+      "LastCommitAt": "2022-07-17T13:21:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1189,11 +1189,18 @@
       "LastCommitAt": "2022-07-17T06:42:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-07-17T13:22:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11731#pullrequestreview-1041127317"
+         }
       }
    }
 ]
