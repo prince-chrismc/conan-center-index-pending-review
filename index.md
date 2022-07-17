@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **55** pull requests currently under way :detective:
+There are **60** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -80,6 +80,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:new: playrho|0|||
 [#11729](https://github.com/conan-io/conan-center-index/pull/11729)|[dotChris90](https://github.com/dotChris90)|Jul 16|:memo: iceoryx|0|||
 [#11731](https://github.com/conan-io/conan-center-index/pull/11731)|[paulocoutinhox](https://github.com/paulocoutinhox)|Jul 17|:memo: poco|1|Jul 17||toge
+[#11743](https://github.com/conan-io/conan-center-index/pull/11743)|[leha-bot](https://github.com/leha-bot)|Jul 17|:stopwatch: hlslpp|0|||
+[#11745](https://github.com/conan-io/conan-center-index/pull/11745)|[leha-bot](https://github.com/leha-bot)|Jul 17|:stopwatch: kmod|0|||
+[#11751](https://github.com/conan-io/conan-center-index/pull/11751)|[leha-bot](https://github.com/leha-bot)|Jul 17|:stopwatch: liquid-dsp|0|||
+[#11755](https://github.com/conan-io/conan-center-index/pull/11755)|[leha-bot](https://github.com/leha-bot)|Jul 17|:stopwatch: mcap|0|||
+[#11756](https://github.com/conan-io/conan-center-index/pull/11756)|[leha-bot](https://github.com/leha-bot)|Jul 17|:stopwatch: mongo-cxx-driver|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -99,12 +104,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 174
+	- Open: 193
 	- Draft: 23
-	- Average Age: 78 days, 1 hours, and 7.83 minutes
+	- Average Age: 70 days, 14 hours, and 7.38 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 66
+	- Failed: 68
 	- Blocked: 9
 	
 		
