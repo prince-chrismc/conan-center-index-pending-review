@@ -4,7 +4,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/google/go-github/v42/github"
+	"github.com/google/go-github/v45/github"
 )
 
 // Response is a GitHub API response.

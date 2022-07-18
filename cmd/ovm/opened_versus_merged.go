@@ -10,7 +10,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/google/go-github/v42/github"
+	"github.com/google/go-github/v45/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/charts"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/duration"
