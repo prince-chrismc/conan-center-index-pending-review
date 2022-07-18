@@ -24,6 +24,15 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 		os.Exit(1)
 	}
 
+	fmt.Println("::group::👤 Initializing list of known reviewers")
+	reviewers, err := pending_review.DownloadKnownReviewersList(context, client)
+	if err != nil {
+		fmt.Printf("Problem getting list of known reviewers from CCI %v\n", err)
+		os.Exit(1)
+	}
+	fmt.Printf("%+v\n", reviewers)
+	fmt.Println("::endgroup")
+
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
 	var stats stats.Stats
@@ -36,6 +45,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 			PerPage: 100,
 		},
 	}
+
 	for {
 		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
@@ -43,7 +53,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 			os.Exit(1)
 		}
 
-		out, s := gatherReviewStatus(context, client, pulls)
+		out, s := gatherReviewStatus(context, client, reviewers, pulls)
 		retval = append(retval, out...)
 		stats.Add(s)
 
@@ -167,7 +177,7 @@ func updateCountFile(context context.Context, client *pending_review.Client, fil
 	return nil
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats) {
+func gatherReviewStatus(context context.Context, client *pending_review.Client, reviewers *pending_review.ConanCenterReviewers, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats) {
 	var stats stats.Stats
 	var out []*pending_review.PullRequestSummary
 	for _, pr := range prs {
@@ -184,7 +194,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			continue
 		}
 
-		review, _, err := client.PullRequest.GetReviewSummary(context, "conan-io", "conan-center-index", pr)
+		review, _, err := client.PullRequest.GetReviewSummary(context, "conan-io", "conan-center-index", reviewers, pr)
 		if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) {
 			continue
 		} else if err != nil {
