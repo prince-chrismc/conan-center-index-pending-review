@@ -9,6 +9,33 @@ import (
 	gock "gopkg.in/h2non/gock.v1"
 )
 
+func TestIsReviwers(t *testing.T) {
+	reviewers := ConanCenterReviewers{
+		[]Reviewer{
+			{User: "danimtb", Type: Team, Requested: true},
+			{User: "lasote", Type: Team, Requested: false},
+			{User: "jgsogo", Type: Team, Requested: true},
+			{User: "czoido", Type: Team, Requested: false},
+			{User: "memsharded", Type: Team, Requested: false},
+			{User: "SSE4", Type: Team, Requested: true},
+			{User: "uilianries", Type: Team, Requested: true},
+			{User: "madebr", Type: Community, Requested: false},
+			{User: "SpaceIm", Type: Community, Requested: false},
+			{User: "ericLemanissier", Type: Community, Requested: false},
+		},
+	}
+
+	assert.Equal(t, true, reviewers.IsTeamMember("danimtb"))
+	assert.Equal(t, false, reviewers.IsCommunityMember("danimtb"))
+	assert.Equal(t, true, reviewers.IsTeamMember("czoido"))
+	assert.Equal(t, false, reviewers.IsCommunityMember("czoido"))
+
+	assert.Equal(t, false, reviewers.IsTeamMember("madebr"))
+	assert.Equal(t, true, reviewers.IsCommunityMember("madebr"))
+	assert.Equal(t, false, reviewers.IsTeamMember("ericLemanissier"))
+	assert.Equal(t, true, reviewers.IsCommunityMember("ericLemanissier"))
+}
+
 func TestParseReviewers(t *testing.T) {
 	reviewers, err := parseReviewers(`reviewers:
   # List with users whose review is taken into account so that a pull-request is merged.
