@@ -24,6 +24,15 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 		os.Exit(1)
 	}
 
+	fmt.Println("::group::👤 Initializing list of known reviewers")
+	reviewers, err := pending_review.DownloadKnownReviewersList(context, client)
+	if err != nil {
+		fmt.Printf("Problem getting list of known reviewers from CCI %v\n", err)
+		os.Exit(1)
+	}
+	fmt.Printf("%+v\n", reviewers)
+	fmt.Println("::endgroup")
+
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
 	var stats stats.Stats
@@ -35,12 +44,6 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 			Page:    0,
 			PerPage: 100,
 		},
-	}
-
-	reviewers, err := pending_review.DownloadKnownReviewersList(context, client)
-	if err != nil {
-		fmt.Printf("Problem getting list of known reviewers from CCI %v\n", err)
-		os.Exit(1)
 	}
 
 	for {
