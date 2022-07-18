@@ -761,24 +761,6 @@
       }
    },
    {
-      "Number": 11702,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-07-14T15:41:11Z",
-      "Recipe": "diligent-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11702",
-      "LastCommitSHA": "27513d7651af02bf1c485820d1b20eed18a9b67f",
-      "LastCommitAt": "2022-07-18T15:17:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11707,
       "OpenedBy": "szmyd",
       "CreatedAt": "2022-07-14T18:26:29Z",
@@ -1008,7 +990,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11780",
       "LastCommitSHA": "5631efc6f682589930ec16e9b59e175b181e8c1e",
       "LastCommitAt": "2022-07-18T13:55:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
