@@ -692,33 +692,6 @@
       }
    },
    {
-      "Number": 11650,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-12T15:50:45Z",
-      "Recipe": "quill",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11650",
-      "LastCommitSHA": "8bbc77bbf23519689c6e9bebd729190ba6d49bfb",
-      "LastCommitAt": "2022-07-13T15:48:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "uilianries",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-07-18T08:20:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11650#pullrequestreview-1041434568"
-         }
-      }
-   },
-   {
       "Number": 11656,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-07-12T20:25:06Z",
@@ -740,32 +713,6 @@
             "ReviewerName": "jgsogo",
             "SubmittedAt": "2022-07-18T06:35:15Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11656#pullrequestreview-1041329422"
-         }
-      }
-   },
-   {
-      "Number": 11660,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2022-07-13T06:56:32Z",
-      "Recipe": "aaf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11660",
-      "LastCommitSHA": "4d37dcd4578dd0ca6fa57f21db3d4896d6ea0fbe",
-      "LastCommitAt": "2022-07-14T08:21:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-18T07:33:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11660#pullrequestreview-1041382879"
          }
       }
    },
@@ -1027,17 +974,18 @@
       "LastCommitAt": "2022-07-15T13:26:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-18T07:57:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11717#pullrequestreview-1041408532"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-07-18T08:40:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11717#pullrequestreview-1041458176"
          }
       }
    },
@@ -1094,6 +1042,29 @@
       }
    },
    {
+      "Number": 11722,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-16T03:10:20Z",
+      "Recipe": "skyr-url",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11722",
+      "LastCommitSHA": "e8e2f1a5b7a11aebda98cd472c122c05a8669b03",
+      "LastCommitAt": "2022-07-18T09:04:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-18T08:05:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11722#pullrequestreview-1041416769"
+         }
+      }
+   },
+   {
       "Number": 11725,
       "OpenedBy": "tsondergaard",
       "CreatedAt": "2022-07-16T13:14:11Z",
@@ -1118,16 +1089,14 @@
       "Recipe": "playrho",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11728",
-      "LastCommitSHA": "553a463060b6759092ddea909035aed37a32bd33",
-      "LastCommitAt": "2022-07-17T13:21:09Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d7ea3138bfbe62a99611b241b021ddb2ab4fd001",
+      "LastCommitAt": "2022-07-18T08:55:31Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
