@@ -1,30 +1,5 @@
 [
    {
-      "Number": 6640,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2021-08-01T20:39:13Z",
-      "Recipe": "pdfium",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/6640",
-      "LastCommitSHA": "5907d6ed5788c555d43f7e4d441f4802b8737280",
-      "LastCommitAt": "2022-07-15T19:02:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 20,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-07-18T07:14:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/6640#pullrequestreview-1041362509"
-         }
-      }
-   },
-   {
       "Number": 9492,
       "OpenedBy": "lasote",
       "CreatedAt": "2022-02-23T11:54:22Z",
@@ -790,19 +765,19 @@
       "Recipe": "diligent-core",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11702",
-      "LastCommitSHA": "b0f0a8f6b395804f226a4d57dc3fb336502980dd",
-      "LastCommitAt": "2022-07-18T17:40:22Z",
+      "LastCommitSHA": "840310a298fed012e232305bcf81a9b58952b6e6",
+      "LastCommitAt": "2022-07-18T19:03:12Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
+         "Count": 5,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "TheMostDiligent",
-            "SubmittedAt": "2022-07-18T17:37:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11702#pullrequestreview-1042237992"
+            "SubmittedAt": "2022-07-18T18:49:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11702#pullrequestreview-1042329018"
          }
       }
    },
@@ -1000,7 +975,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11777",
       "LastCommitSHA": "7175411e04ffc839713c1e522e593d0ba50b9c17",
       "LastCommitAt": "2022-07-18T11:39:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1106,8 +1081,8 @@
       "Recipe": "libmysqlclient",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11793",
-      "LastCommitSHA": "87d6c70f7c8c13e4396cba32b3dfa88f19550fdc",
-      "LastCommitAt": "2022-07-18T18:12:07Z",
+      "LastCommitSHA": "1b81f3b84a5a5a9475d7ff23d5a05a61c631940a",
+      "LastCommitAt": "2022-07-18T18:35:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
