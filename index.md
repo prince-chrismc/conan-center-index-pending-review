@@ -21,14 +21,15 @@
 
 ### :nerd_face: Please Review! 
 
-There are **55** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
-[#6640](https://github.com/conan-io/conan-center-index/pull/6640)|[madebr](https://github.com/madebr)|Aug 1|:new: pdfium|19|Jul 15||
+[#6640](https://github.com/conan-io/conan-center-index/pull/6640)|[madebr](https://github.com/madebr)|Aug 1|:new: pdfium|20|Jul 18||danimtb
 [#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
+[#10456](https://github.com/conan-io/conan-center-index/pull/10456)|[SSE4](https://github.com/SSE4)|Apr 23|:stopwatch: fmt|35|Jul 16|czoido|
 [#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
@@ -53,46 +54,38 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11614](https://github.com/conan-io/conan-center-index/pull/11614)|[toge](https://github.com/toge)|Jul 9|:memo: zxing-cpp|1|Jul 18||uilianries
 [#11631](https://github.com/conan-io/conan-center-index/pull/11631)|[toge](https://github.com/toge)|Jul 11|:memo: libxmlpp|1|Jul 18||uilianries
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
-[#11638](https://github.com/conan-io/conan-center-index/pull/11638)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 11|:memo: imagl|1|Jul 12||
 [#11646](https://github.com/conan-io/conan-center-index/pull/11646)|[toge](https://github.com/toge)|Jul 12|:new: c-blosc2|1|Jul 12||
-[#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|2|Jul 13||jwillikers
-[#11654](https://github.com/conan-io/conan-center-index/pull/11654)|[a4z](https://github.com/a4z)|Jul 12|:memo: djinni-generator|1|Jul 12||prince-chrismc
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|13|Jul 18|jgsogo|
-[#11660](https://github.com/conan-io/conan-center-index/pull/11660)|[danimtb](https://github.com/danimtb)|Jul 13|:memo: aaf|3|Jul 14||prince-chrismc
-[#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:memo: diligent-core|0|:eyes:||
-[#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|1|Jul 13||jwillikers
-[#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|1|Jul 13||prince-chrismc
-[#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|1|Jul 15||prince-chrismc
-[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|0|||
-[#11705](https://github.com/conan-io/conan-center-index/pull/11705)|[VestniK](https://github.com/VestniK)|Jul 14|:memo: swig|0|||
-[#11709](https://github.com/conan-io/conan-center-index/pull/11709)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: libnfnetlink|1|Jul 15||jgsogo
-[#11710](https://github.com/conan-io/conan-center-index/pull/11710)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 15|:memo: xorg-proto|1|Jul 15||prince-chrismc
-[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|11|Jul 16||SSE4
-[#11714](https://github.com/conan-io/conan-center-index/pull/11714)|[db4](https://github.com/db4)|Jul 15|:memo: pybind11|0|:eyes:||
-[#11717](https://github.com/conan-io/conan-center-index/pull/11717)|[bshoshany](https://github.com/bshoshany)|Jul 15|:memo: bshoshany-thread-pool|0|||
-[#11719](https://github.com/conan-io/conan-center-index/pull/11719)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: mdns|3|Jul 15||
-[#11720](https://github.com/conan-io/conan-center-index/pull/11720)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:green_book: docs|0|||
-[#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:memo: skyr-url|0|||
+[#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:memo: diligent-core|1|Jul 18||uilianries
+[#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|2|Jul 18||jwillikers, uilianries
+[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|0|:eyes:||
+[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|12|Jul 18||
+[#11714](https://github.com/conan-io/conan-center-index/pull/11714)|[db4](https://github.com/db4)|Jul 15|:memo: pybind11|1|Jul 18||uilianries
+[#11717](https://github.com/conan-io/conan-center-index/pull/11717)|[bshoshany](https://github.com/bshoshany)|Jul 15|:memo: bshoshany-thread-pool|1|Jul 18||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|||
-[#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:new: playrho|0|||
+[#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:new: playrho|1|Jul 18||uilianries
 [#11729](https://github.com/conan-io/conan-center-index/pull/11729)|[dotChris90](https://github.com/dotChris90)|Jul 16|:memo: iceoryx|0|||
-[#11731](https://github.com/conan-io/conan-center-index/pull/11731)|[paulocoutinhox](https://github.com/paulocoutinhox)|Jul 17|:memo: poco|1|Jul 17||toge
-[#11743](https://github.com/conan-io/conan-center-index/pull/11743)|[leha-bot](https://github.com/leha-bot)|Jul 17|:memo: hlslpp|0|||
-[#11745](https://github.com/conan-io/conan-center-index/pull/11745)|[leha-bot](https://github.com/leha-bot)|Jul 17|:memo: kmod|0|||
-[#11762](https://github.com/conan-io/conan-center-index/pull/11762)|[leha-bot](https://github.com/leha-bot)|Jul 17|:stopwatch: tinyspline|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11598](https://github.com/conan-io/conan-center-index/pull/11598)|[toge](https://github.com/toge)|Jul 8|:new: picobench|4|jwillikers, prince-chrismc, uilianries
-[#11608](https://github.com/conan-io/conan-center-index/pull/11608)|[toge](https://github.com/toge)|Jul 8|:memo: osmanip|5|jwillikers, prince-chrismc, uilianries
+[#11650](https://github.com/conan-io/conan-center-index/pull/11650)|[toge](https://github.com/toge)|Jul 12|:memo: quill|4|jwillikers, uilianries, ericLemanissier
+[#11660](https://github.com/conan-io/conan-center-index/pull/11660)|[danimtb](https://github.com/danimtb)|Jul 13|:memo: aaf|4|prince-chrismc, uilianries
+[#11668](https://github.com/conan-io/conan-center-index/pull/11668)|[toge](https://github.com/toge)|Jul 13|:memo: bitmagic|2|prince-chrismc, uilianries
+[#11670](https://github.com/conan-io/conan-center-index/pull/11670)|[toge](https://github.com/toge)|Jul 13|:new: redboltz-mqtt_cpp|2|prince-chrismc, uilianries
+[#11705](https://github.com/conan-io/conan-center-index/pull/11705)|[VestniK](https://github.com/VestniK)|Jul 14|:memo: swig|2|uilianries, ericLemanissier
+[#11709](https://github.com/conan-io/conan-center-index/pull/11709)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: libnfnetlink|2|jgsogo, uilianries
+[#11710](https://github.com/conan-io/conan-center-index/pull/11710)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 15|:memo: xorg-proto|2|prince-chrismc, uilianries
+[#11719](https://github.com/conan-io/conan-center-index/pull/11719)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: mdns|5|uilianries, ericLemanissier
+[#11720](https://github.com/conan-io/conan-center-index/pull/11720)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:green_book: docs|2|uilianries, SSE4
+[#11731](https://github.com/conan-io/conan-center-index/pull/11731)|[paulocoutinhox](https://github.com/paulocoutinhox)|Jul 17|:memo: poco|2|toge, uilianries
 
 
 #### :clipboard: Statistics
@@ -101,12 +94,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 183
+	- Open: 180
 	- Draft: 24
-	- Average Age: 74 days, 19 hours, and 24.53 minutes
+	- Average Age: 75 days, 22 hours, and 15.65 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 70
+	- Failed: 72
 	- Blocked: 9
 	
 		
