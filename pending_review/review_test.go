@@ -176,8 +176,8 @@ func TestKnowCase6144(t *testing.T) {
 		  "commit_id": "3093bad9162e288d55eeddec288b0481d964518e"
 		}
 	  ]`)
-
-	result := ProcessReviewComments(reviews, "3093bad9162e288d55eeddec288b0481d964518e")
+	reviewers := ConanCenterReviewers{Reviewers: []Reviewer{{User: "danimtb", Type: "team", Requested: true}, {User: "lasote", Type: "team", Requested: false}, {User: "jgsogo", Type: "team", Requested: true}, {User: "czoido", Type: "team", Requested: false}, {User: "memsharded", Type: "team", Requested: false}, {User: "SSE4", Type: "team", Requested: true}, {User: "uilianries", Type: "team", Requested: true}, {User: "madebr", Type: "community", Requested: false}, {User: "SpaceIm", Type: "community", Requested: false}, {User: "ericLemanissier", Type: "community", Requested: false}, {User: "prince-chrismc", Type: "team", Requested: false}, {User: "Croydon", Type: "community", Requested: false}, {User: "intelligide", Type: "community", Requested: false}, {User: "theirix", Type: "community", Requested: false}, {User: "gocarlos", Type: "community", Requested: false}, {User: "mathbunnyru", Type: "community", Requested: false}, {User: "ericriff", Type: "community", Requested: false}, {User: "toge", Type: "community", Requested: false}, {User: "AndreyMlashkin", Type: "community", Requested: false}, {User: "MartinDelille", Type: "community", Requested: false}, {User: "dmn-star", Type: "community", Requested: false}}}
+	result := ProcessReviewComments(&reviewers, reviews, "3093bad9162e288d55eeddec288b0481d964518e")
 	assert.Equal(t, Reviews{
 		Count: 4, ValidApprovals: 3, TeamApproval: true,
 		Approvals: []string{"prince-chrismc", "SSE4", "jgsogo", "AndreyMlashkin_"},

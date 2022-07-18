@@ -25,6 +25,26 @@ type ConanCenterReviewers struct {
 	Reviewers []Reviewer `yaml:"reviewers"`
 }
 
+func (reviewers *ConanCenterReviewers) IsTeamMember(reviewerName string) bool {
+	for _, v := range reviewers.Reviewers {
+		if v.User == reviewerName && v.Type == Team {
+			return true
+		}
+	}
+
+	return false
+}
+
+func (reviewers *ConanCenterReviewers) IsCommunityMember(reviewerName string) bool {
+	for _, v := range reviewers.Reviewers {
+		if v.User == reviewerName && v.Type == Community {
+			return true
+		}
+	}
+
+	return false
+}
+
 func parseReviewers(str string) (*ConanCenterReviewers, error) {
 	var reviewers ConanCenterReviewers
 	err := yaml.Unmarshal([]byte(str), &reviewers)
