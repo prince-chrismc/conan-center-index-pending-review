@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **45** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -29,7 +29,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
-[#10456](https://github.com/conan-io/conan-center-index/pull/10456)|[SSE4](https://github.com/SSE4)|Apr 23|:stopwatch: fmt|35|Jul 16|czoido|
 [#10497](https://github.com/conan-io/conan-center-index/pull/10497)|[netheril96](https://github.com/netheril96)|Apr 25|:stopwatch: argon2|0|:eyes:||
 [#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
@@ -47,7 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|3|Jul 14||prince-chrismc
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
-[#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:stopwatch: erikzenker-hsm|0|||
+[#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:memo: erikzenker-hsm|0|||
 [#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:stopwatch: qt|3|Jul 15||ericLemanissier, prince-chrismc
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|1|Jul 14||
@@ -57,9 +56,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11646](https://github.com/conan-io/conan-center-index/pull/11646)|[toge](https://github.com/toge)|Jul 12|:new: c-blosc2|1|Jul 12||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|13|Jul 18|jgsogo|
-[#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:memo: diligent-core|1|Jul 18||uilianries
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|2|Jul 18||jwillikers, uilianries
-[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:stopwatch: diligent-core|0|||
+[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|0|||
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|13|Jul 18||
 [#11714](https://github.com/conan-io/conan-center-index/pull/11714)|[db4](https://github.com/db4)|Jul 15|:memo: pybind11|1|Jul 18||uilianries
 [#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:memo: skyr-url|1|Jul 18||
@@ -90,12 +88,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 177
-	- Draft: 24
-	- Average Age: 77 days, 3 hours, and 45.92 minutes
+	- Open: 173
+	- Draft: 25
+	- Average Age: 78 days, 23 hours, and 32.83 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 72
+	- Failed: 73
 	- Blocked: 9
 	
 		
