@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -30,6 +30,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
 [#10456](https://github.com/conan-io/conan-center-index/pull/10456)|[SSE4](https://github.com/SSE4)|Apr 23|:stopwatch: fmt|35|Jul 16|czoido|
+[#10497](https://github.com/conan-io/conan-center-index/pull/10497)|[netheril96](https://github.com/netheril96)|Apr 25|:stopwatch: argon2|0|:eyes:||
 [#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
@@ -46,7 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11452](https://github.com/conan-io/conan-center-index/pull/11452)|[joaotavora](https://github.com/joaotavora)|Jun 30|:memo: glm|3|Jul 14||prince-chrismc
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
-[#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:memo: erikzenker-hsm|0|||
+[#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:stopwatch: erikzenker-hsm|0|||
 [#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:stopwatch: qt|3|Jul 15||ericLemanissier, prince-chrismc
 [#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|0|:eyes:||
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|1|Jul 14||
@@ -59,27 +60,28 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11664](https://github.com/conan-io/conan-center-index/pull/11664)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 13|:memo: diligent-core|1|Jul 18||uilianries
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|2|Jul 18||jwillikers, uilianries
 [#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:stopwatch: diligent-core|0|||
-[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|12|Jul 18||
+[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|13|Jul 18||
 [#11714](https://github.com/conan-io/conan-center-index/pull/11714)|[db4](https://github.com/db4)|Jul 15|:memo: pybind11|1|Jul 18||uilianries
 [#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:memo: skyr-url|1|Jul 18||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|||
 [#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:new: playrho|1|Jul 18||
 [#11729](https://github.com/conan-io/conan-center-index/pull/11729)|[dotChris90](https://github.com/dotChris90)|Jul 16|:stopwatch: iceoryx|0|||
 [#11772](https://github.com/conan-io/conan-center-index/pull/11772)|[jngrb](https://github.com/jngrb)|Jul 18|:stopwatch: poco|0|||
+[#11776](https://github.com/conan-io/conan-center-index/pull/11776)|[leha-bot](https://github.com/leha-bot)|Jul 18|:stopwatch: iir1|0|||
+[#11777](https://github.com/conan-io/conan-center-index/pull/11777)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:stopwatch: re2|0|||
+[#11779](https://github.com/conan-io/conan-center-index/pull/11779)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:stopwatch: ezc3d|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11719](https://github.com/conan-io/conan-center-index/pull/11719)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:memo: mdns|6|uilianries, ericLemanissier, SpaceIm
-[#11720](https://github.com/conan-io/conan-center-index/pull/11720)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:green_book: docs|2|uilianries, SSE4
-[#11731](https://github.com/conan-io/conan-center-index/pull/11731)|[paulocoutinhox](https://github.com/paulocoutinhox)|Jul 17|:memo: poco|2|toge, uilianries
+[#11778](https://github.com/conan-io/conan-center-index/pull/11778)|[github-actions[bot]](https://github.com/github-actions[bot])|Jul 18|:green_book: docs|2|ericLemanissier, SSE4
 
 
 #### :clipboard: Statistics
@@ -88,9 +90,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 174
+	- Open: 177
 	- Draft: 24
-	- Average Age: 78 days, 11 hours, and 20.08 minutes
+	- Average Age: 77 days, 3 hours, and 45.92 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 72
