@@ -58,15 +58,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11646](https://github.com/conan-io/conan-center-index/pull/11646)|[toge](https://github.com/toge)|Jul 12|:new: c-blosc2|1|Jul 12||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|13|Jul 18|jgsogo|
 [#11666](https://github.com/conan-io/conan-center-index/pull/11666)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 13|:memo: glib|2|Jul 18||jwillikers, uilianries
-[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|0|||
-[#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:stopwatch: isa-l|6|Jul 15||
+[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:stopwatch: diligent-core|0|||
+[#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:new: isa-l|6|Jul 15||
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|13|Jul 18||
 [#11714](https://github.com/conan-io/conan-center-index/pull/11714)|[db4](https://github.com/db4)|Jul 15|:memo: pybind11|1|Jul 18||uilianries
 [#11722](https://github.com/conan-io/conan-center-index/pull/11722)|[toge](https://github.com/toge)|Jul 16|:memo: skyr-url|1|Jul 18||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|||
 [#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:new: playrho|1|Jul 18||
-[#11729](https://github.com/conan-io/conan-center-index/pull/11729)|[dotChris90](https://github.com/dotChris90)|Jul 16|:stopwatch: iceoryx|0|||
-[#11776](https://github.com/conan-io/conan-center-index/pull/11776)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: iir1|0|||
+[#11729](https://github.com/conan-io/conan-center-index/pull/11729)|[dotChris90](https://github.com/dotChris90)|Jul 16|:memo: iceoryx|1|Jul 18||SSE4
+[#11776](https://github.com/conan-io/conan-center-index/pull/11776)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: iir1|1|Jul 18||ericLemanissier
 [#11777](https://github.com/conan-io/conan-center-index/pull/11777)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:stopwatch: re2|0|||
 [#11779](https://github.com/conan-io/conan-center-index/pull/11779)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:memo: ezc3d|0|||
 [#11780](https://github.com/conan-io/conan-center-index/pull/11780)|[jngrb](https://github.com/jngrb)|Jul 18|:stopwatch: openssl|0|||
@@ -74,14 +74,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11778](https://github.com/conan-io/conan-center-index/pull/11778)|[github-actions[bot]](https://github.com/github-actions[bot])|Jul 18|:green_book: docs|2|ericLemanissier, SSE4
 
 
 #### :clipboard: Statistics
@@ -90,12 +89,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b345d95f66b102924ff2536929008744f2025c7a
 - Pull Requests:
-	- Open: 174
+	- Open: 172
 	- Draft: 25
-	- Average Age: 78 days, 13 hours, and 12.27 minutes
+	- Average Age: 79 days, 12 hours, and 1.70 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 72
+	- Failed: 73
 	- Blocked: 9
 	
 		
