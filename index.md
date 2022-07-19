@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **32** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,6 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||jgsogo
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
+[#11646](https://github.com/conan-io/conan-center-index/pull/11646)|[toge](https://github.com/toge)|Jul 12|:new: c-blosc2|2|Jul 19||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|13|Jul 18|jgsogo|
 [#11690](https://github.com/conan-io/conan-center-index/pull/11690)|[abouvier](https://github.com/abouvier)|Jul 14|:memo: inih|0|:eyes:||
 [#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:new: isa-l|7|Jul 19||jgsogo
@@ -54,9 +55,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11772](https://github.com/conan-io/conan-center-index/pull/11772)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: poco|1|Jul 19||jgsogo
 [#11779](https://github.com/conan-io/conan-center-index/pull/11779)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:memo: ezc3d|1|Jul 19||jgsogo
 [#11780](https://github.com/conan-io/conan-center-index/pull/11780)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: openssl|2|Jul 19|jgsogo|prince-chrismc
-[#11798](https://github.com/conan-io/conan-center-index/pull/11798)|[toge](https://github.com/toge)|Jul 19|:stopwatch: cpr|0|||
+[#11798](https://github.com/conan-io/conan-center-index/pull/11798)|[toge](https://github.com/toge)|Jul 19|:memo: cpr|0|||
 [#11800](https://github.com/conan-io/conan-center-index/pull/11800)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: openal|0|||
-[#11803](https://github.com/conan-io/conan-center-index/pull/11803)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 19|:green_book: docs|1|Jul 19||
+[#11803](https://github.com/conan-io/conan-center-index/pull/11803)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 19|:green_book: docs|2|Jul 19||SSE4
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -77,9 +78,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 163
+	- Open: 162
 	- Draft: 24
-	- Average Age: 81 days, 5 hours, and 45.12 minutes
+	- Average Age: 81 days, 18 hours, and 51.00 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 76
