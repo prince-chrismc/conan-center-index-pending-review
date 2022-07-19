@@ -886,7 +886,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11796",
       "LastCommitSHA": "fc407a766c5c13c8c2dbe375780cbed37ad25dba",
       "LastCommitAt": "2022-07-19T01:25:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11797,
+      "OpenedBy": "jadamwilson2",
+      "CreatedAt": "2022-07-19T02:05:51Z",
+      "Recipe": "tclap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11797",
+      "LastCommitSHA": "cd5a9bf6441495b3364bda922a74445479088576",
+      "LastCommitAt": "2022-07-19T02:03:17Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
