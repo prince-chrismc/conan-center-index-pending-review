@@ -21,13 +21,14 @@
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
+[#10456](https://github.com/conan-io/conan-center-index/pull/10456)|[SSE4](https://github.com/SSE4)|Apr 23|:stopwatch: fmt|36|Jul 18|czoido|
 [#10497](https://github.com/conan-io/conan-center-index/pull/10497)|[netheril96](https://github.com/netheril96)|Apr 25|:memo: argon2|0|:eyes:||
 [#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
@@ -62,7 +63,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11779](https://github.com/conan-io/conan-center-index/pull/11779)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:memo: ezc3d|0|||
 [#11780](https://github.com/conan-io/conan-center-index/pull/11780)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: openssl|1|Jul 18||prince-chrismc
 [#11786](https://github.com/conan-io/conan-center-index/pull/11786)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: nv-codec-headers|0|||
-[#11788](https://github.com/conan-io/conan-center-index/pull/11788)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: libalsa|0|||
+[#11788](https://github.com/conan-io/conan-center-index/pull/11788)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: libalsa|1|Jul 19||ericLemanissier
 [#11789](https://github.com/conan-io/conan-center-index/pull/11789)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: inih|0|||
 [#11796](https://github.com/conan-io/conan-center-index/pull/11796)|[BishopJohnson](https://github.com/BishopJohnson)|Jul 19|:memo: enjincppsdk|0|||
 [#11797](https://github.com/conan-io/conan-center-index/pull/11797)|[jadamwilson2](https://github.com/jadamwilson2)|Jul 19|:memo: tclap|0|||
@@ -86,12 +87,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 172
-	- Draft: 25
-	- Average Age: 77 days, 18 hours, and 32.94 minutes
+	- Open: 170
+	- Draft: 24
+	- Average Age: 78 days, 16 hours, and 57.10 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 76
+	- Failed: 75
 	- Blocked: 9
 	
 		
