@@ -21,15 +21,14 @@
 
 ### :nerd_face: Please Review! 
 
-There are **34** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
-[#10456](https://github.com/conan-io/conan-center-index/pull/10456)|[SSE4](https://github.com/SSE4)|Apr 23|:memo: fmt|37|Jul 19|czoido|jgsogo
-[#10497](https://github.com/conan-io/conan-center-index/pull/10497)|[netheril96](https://github.com/netheril96)|Apr 25|:memo: argon2|1|Jul 19||jgsogo
+[#10456](https://github.com/conan-io/conan-center-index/pull/10456)|[SSE4](https://github.com/SSE4)|Apr 23|:memo: fmt|40|Jul 19|czoido|jgsogo, prince-chrismc
 [#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
@@ -44,12 +43,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
-[#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:memo: erikzenker-hsm|1|Jul 19||uilianries
-[#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|1|Jul 19||jgsogo
-[#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|2|Jul 19||jgsogo
+[#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||jgsogo
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|13|Jul 18|jgsogo|
-[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|5|Jul 18||
+[#11690](https://github.com/conan-io/conan-center-index/pull/11690)|[abouvier](https://github.com/abouvier)|Jul 14|:stopwatch: inih|0|:eyes:||
 [#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:new: isa-l|7|Jul 19||jgsogo
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|17|Jul 19||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
@@ -57,20 +54,23 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11772](https://github.com/conan-io/conan-center-index/pull/11772)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: poco|1|Jul 19||jgsogo
 [#11779](https://github.com/conan-io/conan-center-index/pull/11779)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:memo: ezc3d|1|Jul 19||jgsogo
 [#11780](https://github.com/conan-io/conan-center-index/pull/11780)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: openssl|2|Jul 19|jgsogo|prince-chrismc
-[#11798](https://github.com/conan-io/conan-center-index/pull/11798)|[toge](https://github.com/toge)|Jul 19|:memo: cpr|0|||
-[#11800](https://github.com/conan-io/conan-center-index/pull/11800)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: openal|0|||
+[#11798](https://github.com/conan-io/conan-center-index/pull/11798)|[toge](https://github.com/toge)|Jul 19|:stopwatch: cpr|0|||
+[#11800](https://github.com/conan-io/conan-center-index/pull/11800)|[leha-bot](https://github.com/leha-bot)|Jul 19|:stopwatch: openal|0|||
+[#11803](https://github.com/conan-io/conan-center-index/pull/11803)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 19|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
+[#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:memo: erikzenker-hsm|2|uilianries, prince-chrismc
 [#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:warning: qt|3|ericLemanissier, prince-chrismc
+[#11561](https://github.com/conan-io/conan-center-index/pull/11561)|[jmarrec](https://github.com/jmarrec)|Jul 6|:memo: ruby|2|jgsogo, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -81,7 +81,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 163
 	- Draft: 24
-	- Average Age: 81 days, 20 hours, and 27.30 minutes
+	- Average Age: 81 days, 9 hours, and 1.18 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 75
