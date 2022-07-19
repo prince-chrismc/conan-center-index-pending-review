@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **35** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -52,14 +52,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|5|Jul 18||
 [#11707](https://github.com/conan-io/conan-center-index/pull/11707)|[szmyd](https://github.com/szmyd)|Jul 14|:new: isa-l|7|Jul 19||jgsogo
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|17|Jul 19||
-[#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|||
+[#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:new: playrho|2|Jul 19||jgsogo
 [#11772](https://github.com/conan-io/conan-center-index/pull/11772)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: poco|1|Jul 19||jgsogo
 [#11779](https://github.com/conan-io/conan-center-index/pull/11779)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:memo: ezc3d|1|Jul 19||jgsogo
 [#11780](https://github.com/conan-io/conan-center-index/pull/11780)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: openssl|2|Jul 19|jgsogo|prince-chrismc
 [#11798](https://github.com/conan-io/conan-center-index/pull/11798)|[toge](https://github.com/toge)|Jul 19|:memo: cpr|0|||
 [#11800](https://github.com/conan-io/conan-center-index/pull/11800)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: openal|0|||
-[#11802](https://github.com/conan-io/conan-center-index/pull/11802)|[Croydon](https://github.com/Croydon)|Jul 19|:stopwatch: benchmark|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -82,10 +81,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 163
 	- Draft: 24
-	- Average Age: 81 days, 19 hours, and 49.64 minutes
+	- Average Age: 81 days, 20 hours, and 27.30 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 74
+	- Failed: 75
 	- Blocked: 9
 	
 		
