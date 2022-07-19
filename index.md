@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **39** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,6 +64,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11786](https://github.com/conan-io/conan-center-index/pull/11786)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: nv-codec-headers|0|||
 [#11788](https://github.com/conan-io/conan-center-index/pull/11788)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: libalsa|0|||
 [#11789](https://github.com/conan-io/conan-center-index/pull/11789)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: inih|0|||
+[#11796](https://github.com/conan-io/conan-center-index/pull/11796)|[BishopJohnson](https://github.com/BishopJohnson)|Jul 19|:stopwatch: enjincppsdk|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -84,9 +85,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 170
+	- Open: 171
 	- Draft: 25
-	- Average Age: 78 days, 13 hours, and 51.79 minutes
+	- Average Age: 78 days, 3 hours, and 14.64 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 76
