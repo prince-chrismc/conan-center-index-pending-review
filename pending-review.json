@@ -483,6 +483,29 @@
       }
    },
    {
+      "Number": 11646,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-12T11:30:09Z",
+      "Recipe": "c-blosc2",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11646",
+      "LastCommitSHA": "3fb68451f50b67a68c529754fbf65a8d96c2942b",
+      "LastCommitAt": "2022-07-19T16:21:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-07-19T08:21:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11646#pullrequestreview-1043020869"
+         }
+      }
+   },
+   {
       "Number": 11656,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-07-12T20:25:06Z",
@@ -702,7 +725,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11798",
       "LastCommitSHA": "406c74549340ea7ec07dfce730fee7645000eeaa",
       "LastCommitAt": "2022-07-19T15:19:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -740,15 +763,17 @@
       "LastCommitAt": "2022-07-19T14:50:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-07-19T15:56:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11803#pullrequestreview-1043692898"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-07-19T16:37:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11803#pullrequestreview-1043765683"
          }
       }
    }
