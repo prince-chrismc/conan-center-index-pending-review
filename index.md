@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,8 +39,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:stopwatch: opengrm|0|:eyes:||
 [#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:stopwatch: gtsam|3|Jul 19||
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
+[#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:stopwatch: ignition-tools|4|Jul 19||
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:stopwatch: poppler|0|:eyes:||
-[#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:stopwatch: swig|0|:eyes:||
+[#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11516](https://github.com/conan-io/conan-center-index/pull/11516)|[leha-bot](https://github.com/leha-bot)|Jul 3|:memo: erikzenker-hsm|1|Jul 19||uilianries
@@ -62,7 +63,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -70,9 +71,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
 [#11551](https://github.com/conan-io/conan-center-index/pull/11551)|[FaerHack](https://github.com/FaerHack)|Jul 5|:warning: qt|3|ericLemanissier, prince-chrismc
-[#11786](https://github.com/conan-io/conan-center-index/pull/11786)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: nv-codec-headers|2|jgsogo, ericLemanissier
-[#11789](https://github.com/conan-io/conan-center-index/pull/11789)|[leha-bot](https://github.com/leha-bot)|Jul 18|:memo: inih|2|jgsogo, ericLemanissier
-[#11796](https://github.com/conan-io/conan-center-index/pull/11796)|[BishopJohnson](https://github.com/BishopJohnson)|Jul 19|:memo: enjincppsdk|2|jgsogo, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -81,12 +79,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 165
+	- Open: 162
 	- Draft: 24
-	- Average Age: 80 days, 17 hours, and 55.97 minutes
+	- Average Age: 82 days, 6 hours, and 49.47 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 75
+	- Failed: 74
 	- Blocked: 9
 	
 		
