@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,19 +55,21 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11798](https://github.com/conan-io/conan-center-index/pull/11798)|[toge](https://github.com/toge)|Jul 19|:memo: cpr|1|Jul 19||prince-chrismc
 [#11800](https://github.com/conan-io/conan-center-index/pull/11800)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: openal|0|||
 [#11803](https://github.com/conan-io/conan-center-index/pull/11803)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 19|:green_book: docs|2|Jul 19||SSE4
+[#11807](https://github.com/conan-io/conan-center-index/pull/11807)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: bertrand|0|||
+[#11808](https://github.com/conan-io/conan-center-index/pull/11808)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: safeint|0|||
+[#11809](https://github.com/conan-io/conan-center-index/pull/11809)|[leha-bot](https://github.com/leha-bot)|Jul 19|:stopwatch: rmlui|0|||
+[#11810](https://github.com/conan-io/conan-center-index/pull/11810)|[leha-bot](https://github.com/leha-bot)|Jul 19|:stopwatch: godot-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11728](https://github.com/conan-io/conan-center-index/pull/11728)|[toge](https://github.com/toge)|Jul 16|:new: playrho|4|jgsogo, prince-chrismc
-[#11779](https://github.com/conan-io/conan-center-index/pull/11779)|[SpaceIm](https://github.com/SpaceIm)|Jul 18|:memo: ezc3d|2|jgsogo, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -76,9 +78,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 160
+	- Open: 162
 	- Draft: 24
-	- Average Age: 82 days, 22 hours, and 14.26 minutes
+	- Average Age: 81 days, 22 hours, and 0.32 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 76
