@@ -807,23 +807,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 11802,
-      "OpenedBy": "Croydon",
-      "CreatedAt": "2022-07-19T13:17:13Z",
-      "Recipe": "benchmark",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11802",
-      "LastCommitSHA": "c68f9c2bf3568cb0d1b88648192f2e4c3b581469",
-      "LastCommitAt": "2022-07-19T13:17:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
