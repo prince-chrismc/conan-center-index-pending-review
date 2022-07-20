@@ -47,7 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||jgsogo
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11646](https://github.com/conan-io/conan-center-index/pull/11646)|[toge](https://github.com/toge)|Jul 12|:new: c-blosc2|2|Jul 19||
-[#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:stopwatch: googleapis|1|Jul 13||
+[#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|1|Jul 13||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|14|Jul 19|jgsogo|
 [#11690](https://github.com/conan-io/conan-center-index/pull/11690)|[abouvier](https://github.com/abouvier)|Jul 14|:memo: inih|0|:eyes:||
 [#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|7|Jul 19||prince-chrismc
@@ -80,7 +80,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 162
 	- Draft: 26
-	- Average Age: 82 days, 3 hours, and 23.20 minutes
+	- Average Age: 82 days, 4 hours, and 20.77 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 74
