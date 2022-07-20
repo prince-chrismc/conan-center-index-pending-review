@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -54,10 +54,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11780](https://github.com/conan-io/conan-center-index/pull/11780)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: openssl|3|Jul 20|jgsogo|prince-chrismc, SSE4
 [#11800](https://github.com/conan-io/conan-center-index/pull/11800)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: openal|1|Jul 20||SSE4
-[#11807](https://github.com/conan-io/conan-center-index/pull/11807)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: bertrand|1|Jul 20||SSE4
 [#11808](https://github.com/conan-io/conan-center-index/pull/11808)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: safeint|3|Jul 20||SSE4
-[#11809](https://github.com/conan-io/conan-center-index/pull/11809)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: rmlui|1|Jul 20||SSE4
 [#11810](https://github.com/conan-io/conan-center-index/pull/11810)|[leha-bot](https://github.com/leha-bot)|Jul 19|:stopwatch: godot-cpp|0|||
+[#11813](https://github.com/conan-io/conan-center-index/pull/11813)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: xorg|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -69,8 +68,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11702](https://github.com/conan-io/conan-center-index/pull/11702)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 14|:memo: diligent-core|8|prince-chrismc, SSE4
-[#11798](https://github.com/conan-io/conan-center-index/pull/11798)|[toge](https://github.com/toge)|Jul 19|:memo: cpr|2|prince-chrismc, SSE4
+[#11807](https://github.com/conan-io/conan-center-index/pull/11807)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: bertrand|2|SSE4, ericLemanissier
+[#11809](https://github.com/conan-io/conan-center-index/pull/11809)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: rmlui|2|SSE4, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -79,9 +78,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 162
+	- Open: 161
 	- Draft: 26
-	- Average Age: 82 days, 5 hours, and 4.39 minutes
+	- Average Age: 82 days, 17 hours, and 20.01 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 74
