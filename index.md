@@ -21,14 +21,13 @@
 
 ### :nerd_face: Please Review! 
 
-There are **29** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
 [#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
 [#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
-[#10456](https://github.com/conan-io/conan-center-index/pull/10456)|[SSE4](https://github.com/SSE4)|Apr 23|:memo: fmt|40|Jul 19|czoido|jgsogo, prince-chrismc
 [#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
@@ -36,7 +35,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10945](https://github.com/conan-io/conan-center-index/pull/10945)|[AntonHorbach](https://github.com/AntonHorbach)|May 25|:stopwatch: infoware|1|May 27 :bell:||
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
 [#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:stopwatch: opengrm|0|:eyes:||
-[#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:stopwatch: gtsam|4|Jul 20||uilianries
+[#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:memo: gtsam|4|Jul 20||uilianries
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|4|Jul 19||
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:stopwatch: poppler|0|:eyes:||
@@ -49,7 +48,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11646](https://github.com/conan-io/conan-center-index/pull/11646)|[toge](https://github.com/toge)|Jul 12|:new: c-blosc2|3|Jul 20||uilianries
 [#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:stopwatch: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
-[#11690](https://github.com/conan-io/conan-center-index/pull/11690)|[abouvier](https://github.com/abouvier)|Jul 14|:memo: inih|1|Jul 20||uilianries
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|18|Jul 19||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11780](https://github.com/conan-io/conan-center-index/pull/11780)|[jngrb](https://github.com/jngrb)|Jul 18|:memo: openssl|4|Jul 20|jgsogo|prince-chrismc, SSE4, uilianries
@@ -74,12 +72,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 159
-	- Draft: 27
-	- Average Age: 83 days, 20 hours, and 5.24 minutes
+	- Open: 160
+	- Draft: 28
+	- Average Age: 82 days, 18 hours, and 17.66 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 74
+	- Failed: 77
 	- Blocked: 9
 	
 		
