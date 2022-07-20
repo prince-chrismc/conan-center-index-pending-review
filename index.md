@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **26** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,18 +39,21 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|4|Jul 19||
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:stopwatch: poppler|0|:eyes:||
+[#11430](https://github.com/conan-io/conan-center-index/pull/11430)|[kenneth-jia](https://github.com/kenneth-jia)|Jun 29|:new: modern-cpp-kafka|10|Jul 20|jgsogo|
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11569](https://github.com/conan-io/conan-center-index/pull/11569)|[MartinDelille](https://github.com/MartinDelille)|Jul 6|:memo: create-dmg|2|Jul 20||
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||jgsogo
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
-[#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:stopwatch: googleapis|2|Jul 20||
+[#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|19|Jul 20||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#11813](https://github.com/conan-io/conan-center-index/pull/11813)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: xorg|1|Jul 20||uilianries
-[#11821](https://github.com/conan-io/conan-center-index/pull/11821)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: wayland|0|||
+[#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|0|||
+[#11813](https://github.com/conan-io/conan-center-index/pull/11813)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: xorg|2|Jul 20||uilianries, jwillikers
+[#11819](https://github.com/conan-io/conan-center-index/pull/11819)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 20|:stopwatch: diligent-tools|0|||
+[#11821](https://github.com/conan-io/conan-center-index/pull/11821)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:stopwatch: wayland|1|Jul 20||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -70,12 +73,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 158
-	- Draft: 29
-	- Average Age: 83 days, 22 hours, and 18.68 minutes
+	- Open: 157
+	- Draft: 28
+	- Average Age: 84 days, 12 hours, and 5.40 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 76
+	- Failed: 74
 	- Blocked: 9
 	
 		
