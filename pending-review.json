@@ -442,8 +442,8 @@
       "Recipe": "userspace-rcu",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11595",
-      "LastCommitSHA": "bd03939bdfadba63bba7e4c2f8d84095a1d75f32",
-      "LastCommitAt": "2022-07-20T19:48:06Z",
+      "LastCommitSHA": "499d0861f8519622ee994e10e5fc655d5297913a",
+      "LastCommitAt": "2022-07-20T20:24:10Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
