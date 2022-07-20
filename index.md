@@ -53,7 +53,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:stopwatch: boost|0|||
 [#11813](https://github.com/conan-io/conan-center-index/pull/11813)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: xorg|2|Jul 20||uilianries, jwillikers
 [#11821](https://github.com/conan-io/conan-center-index/pull/11821)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: wayland|2|Jul 20||jwillikers
-[#11825](https://github.com/conan-io/conan-center-index/pull/11825)|[Enhex](https://github.com/Enhex)|Jul 20|:stopwatch: openssl|0|||
+[#11825](https://github.com/conan-io/conan-center-index/pull/11825)|[Enhex](https://github.com/Enhex)|Jul 20|:memo: openssl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -73,9 +73,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 162
+	- Open: 161
 	- Draft: 29
-	- Average Age: 81 days, 23 hours, and 32.98 minutes
+	- Average Age: 82 days, 12 hours, and 42.92 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 76
