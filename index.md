@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11569](https://github.com/conan-io/conan-center-index/pull/11569)|[MartinDelille](https://github.com/MartinDelille)|Jul 6|:memo: create-dmg|2|Jul 20||
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||jgsogo
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
-[#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:stopwatch: googleapis|2|Jul 20||
+[#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|19|Jul 20||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
@@ -54,7 +54,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11813](https://github.com/conan-io/conan-center-index/pull/11813)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: xorg|2|Jul 20||uilianries, jwillikers
 [#11821](https://github.com/conan-io/conan-center-index/pull/11821)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: wayland|2|Jul 20||jwillikers
 [#11825](https://github.com/conan-io/conan-center-index/pull/11825)|[Enhex](https://github.com/Enhex)|Jul 20|:stopwatch: openssl|0|||
-[#11826](https://github.com/conan-io/conan-center-index/pull/11826)|[toge](https://github.com/toge)|Jul 20|:stopwatch: luau|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -72,14 +71,14 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
+- Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 159
-	- Draft: 28
-	- Average Age: 83 days, 11 hours, and 39.65 minutes
+	- Open: 162
+	- Draft: 29
+	- Average Age: 81 days, 23 hours, and 32.98 minutes
 - Labels:
 	- Stale: 11
-	- Failed: 75
+	- Failed: 76
 	- Blocked: 9
 	
 		
