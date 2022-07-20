@@ -61,15 +61,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
-[#11807](https://github.com/conan-io/conan-center-index/pull/11807)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: bertrand|2|SSE4, ericLemanissier
-[#11809](https://github.com/conan-io/conan-center-index/pull/11809)|[leha-bot](https://github.com/leha-bot)|Jul 19|:memo: rmlui|2|SSE4, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -78,9 +76,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9ca41d677df70b6156c73af8d34c01363a3d6be8
 - Pull Requests:
-	- Open: 161
+	- Open: 159
 	- Draft: 26
-	- Average Age: 82 days, 17 hours, and 20.01 minutes
+	- Average Age: 83 days, 19 hours, and 6.64 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 74
