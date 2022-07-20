@@ -394,9 +394,9 @@
       "Recipe": "create-dmg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11569",
-      "LastCommitSHA": "f1c4bfe60012a32b0398943679786f32514f9220",
-      "LastCommitAt": "2022-07-20T11:18:39Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "5935669b53838f4e1ddcd92cde5d51c569376830",
+      "LastCommitAt": "2022-07-20T12:51:57Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
