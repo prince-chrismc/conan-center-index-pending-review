@@ -366,9 +366,9 @@
       "Recipe": "modern-cpp-kafka",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11430",
-      "LastCommitSHA": "4fdd7a5059cfdc66ca97bcaa6849ad3e09551e34",
-      "LastCommitAt": "2022-07-20T01:20:45Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "1396f749dc7f2fff7c6ed69b4abdfbed757b465a",
+      "LastCommitAt": "2022-07-20T01:45:04Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 9,
          "ValidApprovals": 0,
