@@ -669,32 +669,6 @@
       }
    },
    {
-      "Number": 11807,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2022-07-19T21:34:29Z",
-      "Recipe": "bertrand",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11807",
-      "LastCommitSHA": "b529651e9db798edc8c1ef7dd9f123ce0c6c910d",
-      "LastCommitAt": "2022-07-19T18:34:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-07-20T05:42:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11807#pullrequestreview-1044446505"
-         }
-      }
-   },
-   {
       "Number": 11808,
       "OpenedBy": "leha-bot",
       "CreatedAt": "2022-07-19T21:35:54Z",
@@ -716,32 +690,6 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2022-07-20T05:14:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11808#pullrequestreview-1044428685"
-         }
-      }
-   },
-   {
-      "Number": 11809,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2022-07-19T21:38:31Z",
-      "Recipe": "rmlui",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11809",
-      "LastCommitSHA": "a5237cdc53acbf64c02d5889aa1fd319ba29e763",
-      "LastCommitAt": "2022-07-19T18:50:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-07-20T05:41:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11809#pullrequestreview-1044445883"
          }
       }
    },
