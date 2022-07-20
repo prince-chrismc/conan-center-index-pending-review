@@ -442,16 +442,14 @@
       "Recipe": "userspace-rcu",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11595",
-      "LastCommitSHA": "0c41f78be919c957c99aa291cbb9c11df041df47",
-      "LastCommitAt": "2022-07-14T19:01:57Z",
+      "LastCommitSHA": "bd03939bdfadba63bba7e4c2f8d84095a1d75f32",
+      "LastCommitAt": "2022-07-20T19:48:06Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -578,7 +576,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11811",
       "LastCommitSHA": "7669c2e9af5e7c6af50ceadc0e1614cf57d23dc7",
       "LastCommitAt": "2022-07-19T21:40:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
