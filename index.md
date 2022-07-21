@@ -32,7 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
 [#10855](https://github.com/conan-io/conan-center-index/pull/10855)|[paulharris](https://github.com/paulharris)|May 18|:memo: cgns|5|Jul 21||
-[#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:stopwatch: openssl|0|||
+[#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|||
 [#10945](https://github.com/conan-io/conan-center-index/pull/10945)|[AntonHorbach](https://github.com/AntonHorbach)|May 25|:stopwatch: infoware|1|May 27 :bell:||
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
 [#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:stopwatch: opengrm|0|:eyes:||
@@ -79,7 +79,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 163
 	- Draft: 28
-	- Average Age: 82 days, 2 hours, and 44.09 minutes
+	- Average Age: 82 days, 3 hours, and 50.69 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 77
