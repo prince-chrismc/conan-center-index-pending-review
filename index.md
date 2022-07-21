@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -50,6 +50,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
+[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|0|||
 [#11696](https://github.com/conan-io/conan-center-index/pull/11696)|[danimtb](https://github.com/danimtb)|Jul 14|:memo: expat|11|Jul 20||jwillikers
 [#11697](https://github.com/conan-io/conan-center-index/pull/11697)|[hoisunng](https://github.com/hoisunng)|Jul 14|:memo: gtest|0|:eyes:||
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|19|Jul 20||
@@ -79,10 +80,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 163
 	- Draft: 28
-	- Average Age: 82 days, 3 hours, and 50.69 minutes
+	- Average Age: 82 days, 4 hours, and 30.09 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 77
+	- Failed: 76
 	- Blocked: 9
 	
 		
