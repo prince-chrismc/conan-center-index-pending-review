@@ -42,7 +42,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:stopwatch: poppler|0|:eyes:||
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
-[#11490](https://github.com/conan-io/conan-center-index/pull/11490)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 2|:memo: platform.hashing|5|Jul 21||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|4|Jul 14||
 [#11569](https://github.com/conan-io/conan-center-index/pull/11569)|[MartinDelille](https://github.com/MartinDelille)|Jul 6|:memo: create-dmg|4|Jul 21||uilianries
@@ -53,6 +52,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|0|||
 [#11696](https://github.com/conan-io/conan-center-index/pull/11696)|[danimtb](https://github.com/danimtb)|Jul 14|:memo: expat|11|Jul 20||jwillikers
 [#11697](https://github.com/conan-io/conan-center-index/pull/11697)|[hoisunng](https://github.com/hoisunng)|Jul 14|:memo: gtest|0|:eyes:||
+[#11698](https://github.com/conan-io/conan-center-index/pull/11698)|[jwillikers](https://github.com/jwillikers)|Jul 14|:stopwatch: xorg|2|Jul 15||
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|19|Jul 20||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|0|||
@@ -78,12 +78,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 163
+	- Open: 162
 	- Draft: 28
-	- Average Age: 82 days, 4 hours, and 30.09 minutes
+	- Average Age: 82 days, 14 hours, and 50.80 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 76
+	- Failed: 75
 	- Blocked: 9
 	
 		
