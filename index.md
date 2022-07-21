@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **35** pull requests currently under way :detective:
+There are **36** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -43,10 +43,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
-[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|4|Jul 14||
+[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|5|Jul 21||toge
 [#11569](https://github.com/conan-io/conan-center-index/pull/11569)|[MartinDelille](https://github.com/MartinDelille)|Jul 6|:memo: create-dmg|4|Jul 21||uilianries
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||
-[#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:stopwatch: dbus|3|Jul 15||
+[#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|3|Jul 15||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
@@ -55,11 +55,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11697](https://github.com/conan-io/conan-center-index/pull/11697)|[hoisunng](https://github.com/hoisunng)|Jul 14|:memo: gtest|0|:eyes:||
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|19|Jul 20||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
+[#11736](https://github.com/conan-io/conan-center-index/pull/11736)|[toge](https://github.com/toge)|Jul 17|:stopwatch: wt|0|||
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|0|||
 [#11813](https://github.com/conan-io/conan-center-index/pull/11813)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: xorg|2|Jul 20||uilianries, jwillikers
 [#11821](https://github.com/conan-io/conan-center-index/pull/11821)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: wayland|3|Jul 21||jwillikers, uilianries
-[#11826](https://github.com/conan-io/conan-center-index/pull/11826)|[toge](https://github.com/toge)|Jul 20|:stopwatch: luau|0|||
-[#11836](https://github.com/conan-io/conan-center-index/pull/11836)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 21|:memo: zbar|0|||
+[#11826](https://github.com/conan-io/conan-center-index/pull/11826)|[toge](https://github.com/toge)|Jul 20|:new: luau|0|||
+[#11836](https://github.com/conan-io/conan-center-index/pull/11836)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 21|:memo: zbar|1|Jul 21||toge
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -79,12 +80,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 163
-	- Draft: 28
-	- Average Age: 82 days, 4 hours, and 42.31 minutes
+	- Open: 162
+	- Draft: 26
+	- Average Age: 82 days, 17 hours, and 52.72 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 74
+	- Failed: 75
 	- Blocked: 9
 	
 		
