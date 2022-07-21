@@ -324,7 +324,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11309",
       "LastCommitSHA": "566276adcbf0f4aab26165555f2ec438e5459f34",
       "LastCommitAt": "2022-07-21T08:15:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -354,31 +354,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11430,
-      "OpenedBy": "kenneth-jia",
-      "CreatedAt": "2022-06-29T11:12:33Z",
-      "Recipe": "modern-cpp-kafka",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11430",
-      "LastCommitSHA": "acac5710be98e23a6fa34d062abc147dfa7370d1",
-      "LastCommitAt": "2022-07-20T14:52:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-07-20T15:51:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11430#pullrequestreview-1045291258"
-         }
       }
    },
    {
@@ -651,11 +626,19 @@
       "LastCommitAt": "2022-07-21T08:12:01Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "ericLemanissier",
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-21T08:47:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11793#pullrequestreview-1046167584"
+         }
       }
    },
    {
@@ -725,24 +708,6 @@
             "SubmittedAt": "2022-07-20T16:09:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11821#pullrequestreview-1045318214"
          }
-      }
-   },
-   {
-      "Number": 11825,
-      "OpenedBy": "Enhex",
-      "CreatedAt": "2022-07-20T15:17:21Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11825",
-      "LastCommitSHA": "5064665b8964a6104746ebc4aa2356a9b29ce6ab",
-      "LastCommitAt": "2022-07-20T15:16:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
