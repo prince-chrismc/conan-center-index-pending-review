@@ -490,9 +490,9 @@
       "Recipe": "dbus",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11616",
-      "LastCommitSHA": "d936b5c3f49f480771faeee3e2f2777ebe5584e5",
-      "LastCommitAt": "2022-07-21T17:10:24Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ef43ec812cee8a59e493dcfb04882c802d0dfc93",
+      "LastCommitAt": "2022-07-21T20:07:56Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -805,6 +805,24 @@
             "SubmittedAt": "2022-07-21T17:34:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11836#pullrequestreview-1046908305"
          }
+      }
+   },
+   {
+      "Number": 11848,
+      "OpenedBy": "jtbandes",
+      "CreatedAt": "2022-07-21T19:19:39Z",
+      "Recipe": "mcap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11848",
+      "LastCommitSHA": "a72a64a1bd1747f51d20aa24ab1d86fdc137555b",
+      "LastCommitAt": "2022-07-21T19:19:03Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
