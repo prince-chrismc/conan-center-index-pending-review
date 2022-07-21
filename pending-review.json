@@ -197,7 +197,7 @@
       "Recipe": "openssl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10939",
-      "LastCommitSHA": "159d5a1b03e94b49b78bfbe6bf67ea90d7c902fd",
+      "LastCommitSHA": "66bee89ddc568de7a72798bd7a5400da51f041e9",
       "LastCommitAt": "2022-05-24T16:02:10Z",
       "CciBotPassed": false,
       "Summary": {
@@ -616,32 +616,6 @@
       }
    },
    {
-      "Number": 11793,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-18T18:12:38Z",
-      "Recipe": "libmysqlclient",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11793",
-      "LastCommitSHA": "9c9b5545cf2dfb957fc7a6c5e2481590e912db9d",
-      "LastCommitAt": "2022-07-21T08:12:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-21T08:47:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11793#pullrequestreview-1046167584"
-         }
-      }
-   },
-   {
       "Number": 11811,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2022-07-19T22:22:15Z",
@@ -708,6 +682,24 @@
             "SubmittedAt": "2022-07-20T16:09:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11821#pullrequestreview-1045318214"
          }
+      }
+   },
+   {
+      "Number": 11836,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-07-21T08:36:11Z",
+      "Recipe": "zbar",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11836",
+      "LastCommitSHA": "4eb36c60b25bc37700c6e3a49a84d94c2bd560e7",
+      "LastCommitAt": "2022-07-21T09:37:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
