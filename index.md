@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -31,6 +31,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
+[#10855](https://github.com/conan-io/conan-center-index/pull/10855)|[paulharris](https://github.com/paulharris)|May 18|:memo: cgns|5|Jul 21||SSE4
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:stopwatch: openssl|0|:eyes:||
 [#10945](https://github.com/conan-io/conan-center-index/pull/10945)|[AntonHorbach](https://github.com/AntonHorbach)|May 25|:stopwatch: infoware|1|May 27 :bell:||
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
@@ -76,7 +77,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 160
 	- Draft: 29
-	- Average Age: 83 days, 7 hours, and 56.93 minutes
+	- Average Age: 83 days, 12 hours, and 12.58 minutes
 - Labels:
 	- Stale: 11
 	- Failed: 75
