@@ -488,8 +488,8 @@
       "Recipe": "userspace-rcu",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11595",
-      "LastCommitSHA": "499d0861f8519622ee994e10e5fc655d5297913a",
-      "LastCommitAt": "2022-07-20T20:24:10Z",
+      "LastCommitSHA": "6b29a540f09469da289c5f79f3676327c686629b",
+      "LastCommitAt": "2022-07-21T13:39:43Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
@@ -570,6 +570,24 @@
             "SubmittedAt": "2022-07-20T07:34:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11656#pullrequestreview-1044556718"
          }
+      }
+   },
+   {
+      "Number": 11694,
+      "OpenedBy": "jpilet",
+      "CreatedAt": "2022-07-14T12:58:51Z",
+      "Recipe": "gdal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11694",
+      "LastCommitSHA": "8118c75b1268706e1565615b187fbcd8b80fd20c",
+      "LastCommitAt": "2022-07-21T13:41:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
