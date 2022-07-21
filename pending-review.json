@@ -174,16 +174,14 @@
       "Recipe": "cgns",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10855",
-      "LastCommitSHA": "6d53ee1872b0edf97495b292cf287ff67fb871d7",
-      "LastCommitAt": "2022-07-10T00:33:33Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7d8acc31232fc9b59bf094b1861f14efd09c9713",
+      "LastCommitAt": "2022-07-21T05:53:43Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -682,24 +680,6 @@
             "SubmittedAt": "2022-07-20T16:09:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11821#pullrequestreview-1045318214"
          }
-      }
-   },
-   {
-      "Number": 11825,
-      "OpenedBy": "Enhex",
-      "CreatedAt": "2022-07-20T15:17:21Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11825",
-      "LastCommitSHA": "5064665b8964a6104746ebc4aa2356a9b29ce6ab",
-      "LastCommitAt": "2022-07-20T15:16:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
