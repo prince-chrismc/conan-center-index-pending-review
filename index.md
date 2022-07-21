@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **35** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,6 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|4|Jul 14||
 [#11569](https://github.com/conan-io/conan-center-index/pull/11569)|[MartinDelille](https://github.com/MartinDelille)|Jul 6|:memo: create-dmg|4|Jul 21||uilianries
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||
+[#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:stopwatch: dbus|3|Jul 15||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
@@ -57,6 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|0|||
 [#11813](https://github.com/conan-io/conan-center-index/pull/11813)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: xorg|2|Jul 20||uilianries, jwillikers
 [#11821](https://github.com/conan-io/conan-center-index/pull/11821)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: wayland|3|Jul 21||jwillikers, uilianries
+[#11826](https://github.com/conan-io/conan-center-index/pull/11826)|[toge](https://github.com/toge)|Jul 20|:stopwatch: luau|0|||
 [#11836](https://github.com/conan-io/conan-center-index/pull/11836)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 21|:memo: zbar|0|||
 
 
@@ -77,12 +79,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 162
+	- Open: 163
 	- Draft: 28
-	- Average Age: 82 days, 15 hours, and 54.58 minutes
+	- Average Age: 82 days, 4 hours, and 42.31 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 76
+	- Failed: 74
 	- Blocked: 9
 	
 		
