@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **36** pull requests currently under way :detective:
+There are **35** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -60,7 +60,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11821](https://github.com/conan-io/conan-center-index/pull/11821)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 20|:memo: wayland|3|Jul 21||jwillikers, uilianries
 [#11826](https://github.com/conan-io/conan-center-index/pull/11826)|[toge](https://github.com/toge)|Jul 20|:new: luau|0|||
 [#11836](https://github.com/conan-io/conan-center-index/pull/11836)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 21|:memo: zbar|1|Jul 21||toge
-[#11840](https://github.com/conan-io/conan-center-index/pull/11840)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 21|:stopwatch: libstrophe|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -82,10 +81,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 163
 	- Draft: 26
-	- Average Age: 82 days, 16 hours, and 46.41 minutes
+	- Average Age: 82 days, 17 hours, and 43.86 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 76
+	- Failed: 77
 	- Blocked: 9
 	
 		
