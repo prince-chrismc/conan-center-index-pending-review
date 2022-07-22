@@ -349,11 +349,18 @@
       "LastCommitAt": "2022-06-26T19:21:48Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "MartinDelille"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2022-07-22T12:12:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11381#pullrequestreview-1047815536"
+         }
       }
    },
    {
@@ -560,7 +567,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11694",
       "LastCommitSHA": "6c1988310701855d1ac9f923bd48244818b8add0",
       "LastCommitAt": "2022-07-21T17:33:53Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -654,32 +661,6 @@
       }
    },
    {
-      "Number": 11850,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-07-22T07:38:16Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11850",
-      "LastCommitSHA": "d4309f28f8ad5961ba87d02e7a575ff683ed9f8a",
-      "LastCommitAt": "2022-07-22T07:36:14Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-07-22T10:31:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11850#pullrequestreview-1047718624"
-         }
-      }
-   },
-   {
       "Number": 11852,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-07-22T07:51:56Z",
@@ -704,16 +685,14 @@
       "Recipe": "glib",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11854",
-      "LastCommitSHA": "499df8cafe487ecf4bc315ac5a93b20dbc604158",
-      "LastCommitAt": "2022-07-22T09:46:59Z",
+      "LastCommitSHA": "b7339a73f82e099369e1361409b8a0cb21a0ed64",
+      "LastCommitAt": "2022-07-22T11:52:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jgsogo",
