@@ -50,13 +50,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
 [#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|0|||
 [#11696](https://github.com/conan-io/conan-center-index/pull/11696)|[danimtb](https://github.com/danimtb)|Jul 14|:memo: expat|11|Jul 20||jwillikers
-[#11698](https://github.com/conan-io/conan-center-index/pull/11698)|[jwillikers](https://github.com/jwillikers)|Jul 14|:memo: xorg|2|Jul 15||
+[#11698](https://github.com/conan-io/conan-center-index/pull/11698)|[jwillikers](https://github.com/jwillikers)|Jul 14|:memo: xorg|3|Jul 22||ericLemanissier
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|19|Jul 20||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11736](https://github.com/conan-io/conan-center-index/pull/11736)|[toge](https://github.com/toge)|Jul 17|:memo: wt|0|||
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:stopwatch: boost|1|Jul 22||
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|0|||
-[#11854](https://github.com/conan-io/conan-center-index/pull/11854)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:stopwatch: glib|3|Jul 22||jwillikers
+[#11854](https://github.com/conan-io/conan-center-index/pull/11854)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:stopwatch: glib|4|Jul 22||jwillikers, uilianries
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -77,9 +77,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 166
+	- Open: 167
 	- Draft: 26
-	- Average Age: 81 days, 12 hours, and 26.78 minutes
+	- Average Age: 81 days, 1 hours, and 53.23 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 82
