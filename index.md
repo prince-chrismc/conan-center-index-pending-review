@@ -44,11 +44,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|5|Jul 21||toge
 [#11569](https://github.com/conan-io/conan-center-index/pull/11569)|[MartinDelille](https://github.com/MartinDelille)|Jul 6|:memo: create-dmg|4|Jul 21||uilianries
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||
-[#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:stopwatch: dbus|3|Jul 15||
+[#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|3|Jul 15||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
-[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|0|||
+[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:memo: gdal|0|||
 [#11696](https://github.com/conan-io/conan-center-index/pull/11696)|[danimtb](https://github.com/danimtb)|Jul 14|:memo: expat|11|Jul 20||jwillikers
 [#11698](https://github.com/conan-io/conan-center-index/pull/11698)|[jwillikers](https://github.com/jwillikers)|Jul 14|:memo: xorg|3|Jul 22||ericLemanissier
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|19|Jul 20||
@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:stopwatch: boost|1|Jul 22||
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|0|||
 [#11854](https://github.com/conan-io/conan-center-index/pull/11854)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:stopwatch: glib|4|Jul 22||jwillikers, uilianries
-[#11868](https://github.com/conan-io/conan-center-index/pull/11868)|[Dobiasd](https://github.com/Dobiasd)|Jul 22|:stopwatch: frugally-deep|0|||
+[#11868](https://github.com/conan-io/conan-center-index/pull/11868)|[Dobiasd](https://github.com/Dobiasd)|Jul 22|:memo: frugally-deep|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -78,9 +78,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 168
+	- Open: 167
 	- Draft: 26
-	- Average Age: 80 days, 16 hours, and 11.93 minutes
+	- Average Age: 81 days, 5 hours, and 43.18 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 82
