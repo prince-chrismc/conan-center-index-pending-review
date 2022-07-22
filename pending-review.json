@@ -176,7 +176,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10855",
       "LastCommitSHA": "ae88958443def0648d994ff9a760e4179500b10d",
       "LastCommitAt": "2022-07-22T04:21:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -791,7 +791,7 @@
       "Recipe": "libstrophe",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11840",
-      "LastCommitSHA": "2927733a973aa9056261d0a372924be7ead98fb8",
+      "LastCommitSHA": "666fe3df813ba6c36d3081c0d6ec75fde43477d2",
       "LastCommitAt": "2022-07-22T04:40:57Z",
       "CciBotPassed": false,
       "Summary": {
