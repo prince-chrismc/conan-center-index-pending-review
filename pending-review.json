@@ -456,9 +456,9 @@
       "Recipe": "dbus",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11616",
-      "LastCommitSHA": "36d17032c70b877c28a95f094ca39422f07bdfe4",
-      "LastCommitAt": "2022-07-22T21:07:47Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "d8c68e7824538d4b58f69f1191d6c7e090c2982e",
+      "LastCommitAt": "2022-07-22T21:37:13Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
