@@ -174,9 +174,9 @@
       "Recipe": "cgns",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10855",
-      "LastCommitSHA": "2a70c59d9261539d465ee1cc2228c32126754ca0",
-      "LastCommitAt": "2022-07-21T06:51:08Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ae88958443def0648d994ff9a760e4179500b10d",
+      "LastCommitAt": "2022-07-22T04:21:14Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -782,6 +782,24 @@
             "SubmittedAt": "2022-07-21T17:34:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11836#pullrequestreview-1046908305"
          }
+      }
+   },
+   {
+      "Number": 11840,
+      "OpenedBy": "tuduongquyet",
+      "CreatedAt": "2022-07-21T11:48:05Z",
+      "Recipe": "libstrophe",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11840",
+      "LastCommitSHA": "2927733a973aa9056261d0a372924be7ead98fb8",
+      "LastCommitAt": "2022-07-22T04:40:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
