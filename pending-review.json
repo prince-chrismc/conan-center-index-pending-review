@@ -227,24 +227,6 @@
       }
    },
    {
-      "Number": 11098,
-      "OpenedBy": "npuichigo",
-      "CreatedAt": "2022-06-09T02:59:01Z",
-      "Recipe": "opengrm",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11098",
-      "LastCommitSHA": "35ae00d67713d45862b7e25a3b66016af4b61162",
-      "LastCommitAt": "2022-07-23T08:50:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11122,
       "OpenedBy": "martinvl",
       "CreatedAt": "2022-06-10T14:07:11Z",
@@ -797,7 +779,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11873",
       "LastCommitSHA": "c7e2ab836b7f434596472e6720971e90a34d3fa3",
       "LastCommitAt": "2022-07-23T09:00:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -815,6 +797,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11874",
       "LastCommitSHA": "37c579b2b117737538041f729cbb615fbce05376",
       "LastCommitAt": "2022-07-23T08:43:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11876,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-23T09:49:05Z",
+      "Recipe": "roaring",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11876",
+      "LastCommitSHA": "778cdb2eda12a98a92462ae10408ccf20b22e281",
+      "LastCommitAt": "2022-07-23T09:47:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
