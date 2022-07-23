@@ -709,6 +709,24 @@
       }
    },
    {
+      "Number": 11846,
+      "OpenedBy": "strangeQuark1041",
+      "CreatedAt": "2022-07-21T18:36:50Z",
+      "Recipe": "samarium",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11846",
+      "LastCommitSHA": "0f742697f0c6c1181e893423d7ee2a134f1b3b59",
+      "LastCommitAt": "2022-07-23T20:14:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11852,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-07-22T07:51:56Z",
