@@ -715,8 +715,8 @@
       "Recipe": "samarium",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11846",
-      "LastCommitSHA": "0f742697f0c6c1181e893423d7ee2a134f1b3b59",
-      "LastCommitAt": "2022-07-23T20:14:37Z",
+      "LastCommitSHA": "631d410b824718d6171696371d2f9d41cef3670a",
+      "LastCommitAt": "2022-07-23T20:59:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
