@@ -283,7 +283,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11309",
       "LastCommitSHA": "ae68bd33222406973734ef1861f1943e79b5658b",
       "LastCommitAt": "2022-07-23T11:53:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -815,24 +815,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11876",
       "LastCommitSHA": "778cdb2eda12a98a92462ae10408ccf20b22e281",
       "LastCommitAt": "2022-07-23T09:47:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11879,
-      "OpenedBy": "tuduongquyet",
-      "CreatedAt": "2022-07-23T11:19:04Z",
-      "Recipe": "libiconv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11879",
-      "LastCommitSHA": "7ebc6859db68bc2127ef395b0c91323d9769d7f4",
-      "LastCommitAt": "2022-07-23T11:18:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
