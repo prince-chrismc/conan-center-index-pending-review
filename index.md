@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **35** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -59,7 +59,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|0|||
 [#11854](https://github.com/conan-io/conan-center-index/pull/11854)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: glib|4|Jul 22||jwillikers, uilianries
 [#11868](https://github.com/conan-io/conan-center-index/pull/11868)|[Dobiasd](https://github.com/Dobiasd)|Jul 22|:memo: frugally-deep|0|||
-[#11872](https://github.com/conan-io/conan-center-index/pull/11872)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 23|:stopwatch: xorg|0|||
+[#11872](https://github.com/conan-io/conan-center-index/pull/11872)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 23|:memo: xorg|0|||
+[#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:stopwatch: platform.hashing|0|||
+[#11874](https://github.com/conan-io/conan-center-index/pull/11874)|[toge](https://github.com/toge)|Jul 23|:stopwatch: daw_json_link|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -79,12 +81,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 167
-	- Draft: 26
-	- Average Age: 81 days, 17 hours, and 37.87 minutes
+	- Open: 166
+	- Draft: 25
+	- Average Age: 82 days, 5 hours, and 22.35 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 81
+	- Failed: 79
 	- Blocked: 9
 	
 		
