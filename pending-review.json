@@ -692,9 +692,9 @@
       "Recipe": "boost",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11811",
-      "LastCommitSHA": "b8cd83803fdd4deb611f2f370c307e200509f1fa",
-      "LastCommitAt": "2022-07-23T02:19:05Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "422377d4abde3794a70b6d34be5180c2f63fe781",
+      "LastCommitAt": "2022-07-23T22:02:24Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -706,24 +706,6 @@
             "SubmittedAt": "2022-07-22T07:30:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11811#pullrequestreview-1047504892"
          }
-      }
-   },
-   {
-      "Number": 11846,
-      "OpenedBy": "strangeQuark1041",
-      "CreatedAt": "2022-07-21T18:36:50Z",
-      "Recipe": "samarium",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11846",
-      "LastCommitSHA": "631d410b824718d6171696371d2f9d41cef3670a",
-      "LastCommitAt": "2022-07-23T20:59:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
