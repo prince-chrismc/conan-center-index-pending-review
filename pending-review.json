@@ -233,8 +233,8 @@
       "Recipe": "opengrm",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11098",
-      "LastCommitSHA": "c47b07b9dbe980c0e14fdb7d09e13045861d6a60",
-      "LastCommitAt": "2022-07-23T08:12:19Z",
+      "LastCommitSHA": "35ae00d67713d45862b7e25a3b66016af4b61162",
+      "LastCommitAt": "2022-07-23T08:50:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -777,8 +777,44 @@
       "Recipe": "xorg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11872",
-      "LastCommitSHA": "2cbe0251fc40e6a85cc96e2f4521df54b036e7bc",
-      "LastCommitAt": "2022-07-23T08:15:12Z",
+      "LastCommitSHA": "96a4781f48bd36844a82873c54092dc3909e1f5a",
+      "LastCommitAt": "2022-07-23T08:35:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11873,
+      "OpenedBy": "FreePhoenix888",
+      "CreatedAt": "2022-07-23T08:24:42Z",
+      "Recipe": "platform.hashing",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11873",
+      "LastCommitSHA": "c7e2ab836b7f434596472e6720971e90a34d3fa3",
+      "LastCommitAt": "2022-07-23T09:00:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11874,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-23T08:43:48Z",
+      "Recipe": "daw_json_link",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11874",
+      "LastCommitSHA": "37c579b2b117737538041f729cbb615fbce05376",
+      "LastCommitAt": "2022-07-23T08:43:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
