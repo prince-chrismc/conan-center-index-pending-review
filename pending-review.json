@@ -227,6 +227,24 @@
       }
    },
    {
+      "Number": 11098,
+      "OpenedBy": "npuichigo",
+      "CreatedAt": "2022-06-09T02:59:01Z",
+      "Recipe": "opengrm",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11098",
+      "LastCommitSHA": "03d585c6f21da111494c9c6472153137dd0e7400",
+      "LastCommitAt": "2022-07-23T06:16:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11122,
       "OpenedBy": "martinvl",
       "CreatedAt": "2022-06-10T14:07:11Z",
