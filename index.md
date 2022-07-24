@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **38** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -63,6 +63,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:memo: platform.hashing|0|||
 [#11874](https://github.com/conan-io/conan-center-index/pull/11874)|[toge](https://github.com/toge)|Jul 23|:memo: daw_json_link|0|||
 [#11876](https://github.com/conan-io/conan-center-index/pull/11876)|[toge](https://github.com/toge)|Jul 23|:memo: roaring|0|||
+[#11886](https://github.com/conan-io/conan-center-index/pull/11886)|[toge](https://github.com/toge)|Jul 24|:stopwatch: luau|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -84,10 +85,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 172
 	- Draft: 27
-	- Average Age: 79 days, 21 hours, and 24.92 minutes
+	- Average Age: 80 days, 3 hours, and 37.17 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 82
+	- Failed: 81
 	- Blocked: 9
 	
 		
