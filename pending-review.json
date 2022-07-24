@@ -694,7 +694,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11811",
       "LastCommitSHA": "422377d4abde3794a70b6d34be5180c2f63fe781",
       "LastCommitAt": "2022-07-23T22:02:24Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -706,6 +706,24 @@
             "SubmittedAt": "2022-07-22T07:30:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11811#pullrequestreview-1047504892"
          }
+      }
+   },
+   {
+      "Number": 11846,
+      "OpenedBy": "strangeQuark1041",
+      "CreatedAt": "2022-07-21T18:36:50Z",
+      "Recipe": "samarium",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11846",
+      "LastCommitSHA": "07551dd3c390c03c9b264fd7501bb71c496e2337",
+      "LastCommitAt": "2022-07-24T15:01:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -858,6 +876,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11886",
       "LastCommitSHA": "77dc259c935feb0d7822c506a95057643b8504b2",
       "LastCommitAt": "2022-07-24T01:39:04Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11891,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-24T13:43:47Z",
+      "Recipe": "quickfix",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11891",
+      "LastCommitSHA": "893b4bdd9b0145d500f30817e52bc5d8a24b7ec4",
+      "LastCommitAt": "2022-07-24T14:14:21Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11892,
+      "OpenedBy": "Tradias",
+      "CreatedAt": "2022-07-24T13:47:14Z",
+      "Recipe": "asio-grpc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11892",
+      "LastCommitSHA": "41940cc8fbd0063af940f0e1e7e5c93cebfa7c23",
+      "LastCommitAt": "2022-07-24T14:22:16Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
