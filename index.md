@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **43** pull requests currently under way :detective:
+There are **44** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -34,7 +34,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#10945](https://github.com/conan-io/conan-center-index/pull/10945)|[AntonHorbach](https://github.com/AntonHorbach)|May 25|:stopwatch: infoware|1|May 27 :bell:||
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
-[#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:new: opengrm|0|||
+[#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:new: opengrm|1|Jul 24||SSE4
 [#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:memo: gtsam|4|Jul 20||uilianries
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|4|Jul 19||
@@ -64,8 +64,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:memo: platform.hashing|0|||
 [#11874](https://github.com/conan-io/conan-center-index/pull/11874)|[toge](https://github.com/toge)|Jul 23|:memo: daw_json_link|0|||
 [#11876](https://github.com/conan-io/conan-center-index/pull/11876)|[toge](https://github.com/toge)|Jul 23|:memo: roaring|0|||
+[#11882](https://github.com/conan-io/conan-center-index/pull/11882)|[toge](https://github.com/toge)|Jul 23|:stopwatch: librdkafka|0|||
 [#11886](https://github.com/conan-io/conan-center-index/pull/11886)|[toge](https://github.com/toge)|Jul 24|:memo: luau|0|||
-[#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:stopwatch: quickfix|0|||
+[#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|0|||
 [#11892](https://github.com/conan-io/conan-center-index/pull/11892)|[Tradias](https://github.com/Tradias)|Jul 24|:memo: asio-grpc|0|||
 [#11894](https://github.com/conan-io/conan-center-index/pull/11894)|[toge](https://github.com/toge)|Jul 24|:memo: valijson|0|||
 
@@ -87,12 +88,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 176
+	- Open: 177
 	- Draft: 27
-	- Average Age: 78 days, 19 hours, and 29.70 minutes
+	- Average Age: 78 days, 9 hours, and 44.74 minutes
 - Labels:
 	- Stale: 12
-	- Failed: 80
+	- Failed: 79
 	- Blocked: 9
 	
 		
