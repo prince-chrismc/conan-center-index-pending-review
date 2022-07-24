@@ -820,9 +820,9 @@
       "Recipe": "daw_json_link",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11874",
-      "LastCommitSHA": "37c579b2b117737538041f729cbb615fbce05376",
-      "LastCommitAt": "2022-07-23T08:43:16Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e24e00462e9711649e3e6bbef07079bf4b68df9c",
+      "LastCommitAt": "2022-07-24T12:15:39Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
