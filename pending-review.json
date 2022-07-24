@@ -715,9 +715,9 @@
       "Recipe": "samarium",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11846",
-      "LastCommitSHA": "07551dd3c390c03c9b264fd7501bb71c496e2337",
-      "LastCommitAt": "2022-07-24T15:01:47Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "32e038da98ac5a5817ca48111d5d3c6a7cf2ea92",
+      "LastCommitAt": "2022-07-24T15:32:23Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -892,9 +892,9 @@
       "Recipe": "quickfix",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11891",
-      "LastCommitSHA": "893b4bdd9b0145d500f30817e52bc5d8a24b7ec4",
-      "LastCommitAt": "2022-07-24T14:14:21Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "211c6a05f799aec3c53346d6eb8171db89156ec2",
+      "LastCommitAt": "2022-07-24T16:12:02Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -912,6 +912,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11892",
       "LastCommitSHA": "41940cc8fbd0063af940f0e1e7e5c93cebfa7c23",
       "LastCommitAt": "2022-07-24T14:22:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11894,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-24T15:33:52Z",
+      "Recipe": "valijson",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11894",
+      "LastCommitSHA": "968f5d3497151526d8eec8005fe625c2b5a9150e",
+      "LastCommitAt": "2022-07-24T12:57:50Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
