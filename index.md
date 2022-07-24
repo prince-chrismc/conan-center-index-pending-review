@@ -61,7 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11868](https://github.com/conan-io/conan-center-index/pull/11868)|[Dobiasd](https://github.com/Dobiasd)|Jul 22|:memo: frugally-deep|0|||
 [#11872](https://github.com/conan-io/conan-center-index/pull/11872)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 23|:memo: xorg|1|Jul 23||Croydon
 [#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:memo: platform.hashing|0|||
-[#11874](https://github.com/conan-io/conan-center-index/pull/11874)|[toge](https://github.com/toge)|Jul 23|:memo: daw_json_link|0|||
+[#11874](https://github.com/conan-io/conan-center-index/pull/11874)|[toge](https://github.com/toge)|Jul 23|:stopwatch: daw_json_link|0|||
 [#11876](https://github.com/conan-io/conan-center-index/pull/11876)|[toge](https://github.com/toge)|Jul 23|:memo: roaring|0|||
 [#11886](https://github.com/conan-io/conan-center-index/pull/11886)|[toge](https://github.com/toge)|Jul 24|:memo: luau|0|||
 
@@ -83,9 +83,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 173
+	- Open: 172
 	- Draft: 27
-	- Average Age: 79 days, 23 hours, and 9.31 minutes
+	- Average Age: 80 days, 11 hours, and 34.08 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 81
