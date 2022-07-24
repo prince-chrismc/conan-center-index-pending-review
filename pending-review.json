@@ -237,11 +237,18 @@
       "LastCommitAt": "2022-07-23T14:31:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-07-24T16:23:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11098#pullrequestreview-1048663155"
+         }
       }
    },
    {
@@ -868,6 +875,24 @@
       }
    },
    {
+      "Number": 11882,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-23T16:12:36Z",
+      "Recipe": "librdkafka",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11882",
+      "LastCommitSHA": "fbf71aa5854716f64ac4d1a2b20a25a1d599749a",
+      "LastCommitAt": "2022-07-24T17:05:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11886,
       "OpenedBy": "toge",
       "CreatedAt": "2022-07-24T04:29:43Z",
@@ -894,7 +919,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11891",
       "LastCommitSHA": "211c6a05f799aec3c53346d6eb8171db89156ec2",
       "LastCommitAt": "2022-07-24T16:12:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
