@@ -18,7 +18,7 @@ import (
 // PendingReview analysis of open pull requests
 func PendingReview(token string, dryRun bool, owner string, repo string) error {
 	context := context.Background()
-	client, err := internal.MakeClient(context, token, pending_review.TargetRepository{Owner: owner, Name: repo})
+	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
 	if err != nil {
 		fmt.Printf("Problem getting rate limit information %v\n", err)
 		os.Exit(1)

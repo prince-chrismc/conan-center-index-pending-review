@@ -36,7 +36,7 @@ func TestGetDataFile(t *testing.T) {
 			}
 		  }`)
 
-	fileContent, err := GetDataFile(context.Background(), pending_review.NewClient(&http.Client{}, pending_review.TargetRepository{Owner: "prince-chrismc", Name: "conan-center-index-pending-review"}), "data.txt")
+	fileContent, err := GetDataFile(context.Background(), pending_review.NewClient(&http.Client{}, pending_review.WorkingRepository{Owner: "prince-chrismc", Name: "conan-center-index-pending-review"}), "data.txt")
 	assert.Equal(t, nil, err)
 
 	data, err := fileContent.GetContent()
@@ -73,7 +73,7 @@ func TestGetJSONFile(t *testing.T) {
 		  }`)
 
 	contents := map[string]string{}
-	err := GetJSONFile(context.Background(), pending_review.NewClient(&http.Client{}, pending_review.TargetRepository{
+	err := GetJSONFile(context.Background(), pending_review.NewClient(&http.Client{}, pending_review.WorkingRepository{
 		Owner: "prince-chrismc", Name: "conan-center-index-pending-review",
 	}), "data.json", &contents)
 	assert.Equal(t, nil, err)

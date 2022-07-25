@@ -13,7 +13,7 @@ import (
 
 // GetCommits returns a list of of number from the raw-data branch
 func GetCommits(context context.Context, client *pending_review.Client, file string, count int) ([]*github.RepositoryCommit, error) {
-	commits, _, err := client.Repositories.ListCommits(context, client.TargetRepository.Owner, client.TargetRepository.Name,
+	commits, _, err := client.Repositories.ListCommits(context, client.WorkingRepository.Owner, client.WorkingRepository.Name,
 		&github.CommitsListOptions{SHA: "raw-data", Path: file, ListOptions: github.ListOptions{PerPage: count}})
 	if err != nil {
 		return nil, err
@@ -24,7 +24,7 @@ func GetCommits(context context.Context, client *pending_review.Client, file str
 
 // GetFileAtRef returns the content of file from the root directory from a commit sha
 func GetFileAtRef(context context.Context, client *pending_review.Client, file string, sha string) (*github.RepositoryContent, error) {
-	fileContent, _, _, err := client.Repositories.GetContents(context, client.TargetRepository.Owner, client.TargetRepository.Name, file,
+	fileContent, _, _, err := client.Repositories.GetContents(context, client.WorkingRepository.Owner, client.WorkingRepository.Name, file,
 		&github.RepositoryContentGetOptions{Ref: sha})
 	if err != nil {
 		return nil, err
@@ -78,7 +78,7 @@ func UpdateFileAtRef(context context.Context, client *pending_review.Client, fil
 		Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"),
 			Email: github.String("github-actions[bot]@users.noreply.github.com")},
 	}
-	_, _, err = client.Repositories.UpdateFile(context, client.TargetRepository.Owner, client.TargetRepository.Name, file, opts)
+	_, _, err = client.Repositories.UpdateFile(context, client.WorkingRepository.Owner, client.WorkingRepository.Name, file, opts)
 	if err != nil {
 		return false, err
 	}

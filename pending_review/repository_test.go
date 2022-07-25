@@ -176,7 +176,7 @@ func TestGetStatusSuccess(t *testing.T) {
 			"url": "https://api.github.com/repos/conan-io/conan-center-index/commits/88e25c1a89cbc4b130e37fb3d42fe7e16cf3b4ca/status"
 		  }`)
 
-	status, res, err := NewClient(&http.Client{}, TargetRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "08f356aabf77ff55d96ae43de3e3bfdfb67f6018")
+	status, res, err := NewClient(&http.Client{}, WorkingRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "08f356aabf77ff55d96ae43de3e3bfdfb67f6018")
 
 	assert.Equal(t, nil, err)
 	assert.Equal(t, 200, res.StatusCode)
@@ -414,7 +414,7 @@ func TestGetStatusPending(t *testing.T) {
 			"url": "https://api.github.com/repos/conan-io/conan-center-index/commits/08f356aabf77ff55d96ae43de3e3bfdfb67f6018/status"
 		  }`)
 
-	status, res, err := NewClient(&http.Client{}, TargetRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "08f356aabf77ff55d96ae43de3e3bfdfb67f6018")
+	status, res, err := NewClient(&http.Client{}, WorkingRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "08f356aabf77ff55d96ae43de3e3bfdfb67f6018")
 
 	assert.Equal(t, nil, err)
 	assert.Equal(t, 200, res.StatusCode)
@@ -868,7 +868,7 @@ func TestGetStatusPendingTwo(t *testing.T) {
 			"url": "https://api.github.com/repos/conan-io/conan-center-index/commits/fa60b0dec5ce1ef3f902b2b110321d05f7730a4d/status"
 		  }`)
 
-	status, res, err := NewClient(&http.Client{}, TargetRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "fa60b0dec5ce1ef3f902b2b110321d05f7730a4d")
+	status, res, err := NewClient(&http.Client{}, WorkingRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "fa60b0dec5ce1ef3f902b2b110321d05f7730a4d")
 
 	assert.Equal(t, nil, err)
 	assert.Equal(t, 200, res.StatusCode)
@@ -962,7 +962,7 @@ func TestGetStatusNoStatus(t *testing.T) {
 			"url": "https://api.github.com/repos/conan-io/conan-center-index/commits/08f356aabf77ff55d96ae43de3e3bfdfb67f6018/status"
 		  }`)
 
-	status, res, err := NewClient(&http.Client{}, TargetRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "08f356aabf77ff55d96ae43de3e3bfdfb67f6018")
+	status, res, err := NewClient(&http.Client{}, WorkingRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "08f356aabf77ff55d96ae43de3e3bfdfb67f6018")
 
 	assert.Equal(t, ErrNoCommitStatus, err)
 	assert.Equal(t, 200, res.StatusCode)
@@ -1079,7 +1079,7 @@ func TestGetStatusDocs(t *testing.T) {
 			"url": "https://api.github.com/repos/conan-io/conan-center-index/commits/96474105a96d24ab7b735b6afc126614cb8158f9/status"
 		  }`)
 
-	status, res, err := NewClient(&http.Client{}, TargetRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "96474105a96d24ab7b735b6afc126614cb8158f9")
+	status, res, err := NewClient(&http.Client{}, WorkingRepository{}).Repository.GetStatus(context.Background(), "conan-io", "conan-center-index", "96474105a96d24ab7b735b6afc126614cb8158f9")
 
 	assert.Equal(t, nil, err)
 	assert.Equal(t, 200, res.StatusCode)

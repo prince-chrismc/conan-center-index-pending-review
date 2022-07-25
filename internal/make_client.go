@@ -8,7 +8,7 @@ import (
 	"golang.org/x/oauth2"
 )
 
-func MakeClient(context context.Context, token string, target pending_review.TargetRepository) (*pending_review.Client, error) {
+func MakeClient(context context.Context, token string, target pending_review.WorkingRepository) (*pending_review.Client, error) {
 	tokenService := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: token},
 	)

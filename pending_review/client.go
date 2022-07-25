@@ -34,8 +34,8 @@ type RepoStatus = github.RepoStatus
 // CombinedStatus represents the combined status of a repository at a particular reference.
 type CombinedStatus = github.CombinedStatus
 
-// TargetRepository when using the client to access or publish data
-type TargetRepository struct {
+// WorkingRepository when using the client to access or publish data
+type WorkingRepository struct {
 	Owner string
 	Name  string
 }
@@ -50,7 +50,7 @@ type Client struct {
 	Repository  *RepositoryService
 	PullRequest *PullRequestService
 
-	TargetRepository TargetRepository
+	WorkingRepository WorkingRepository
 }
 
 type service struct {
@@ -58,8 +58,8 @@ type service struct {
 }
 
 // NewClient returns a new GitHub API client. Requires authentication.
-func NewClient(httpClient *http.Client, target TargetRepository) *Client {
-	c := &Client{Client: github.NewClient(httpClient), TargetRepository: target}
+func NewClient(httpClient *http.Client, target WorkingRepository) *Client {
+	c := &Client{Client: github.NewClient(httpClient), WorkingRepository: target}
 	c.common.client = c
 	c.Repository = (*RepositoryService)(&c.common)
 	c.PullRequest = (*PullRequestService)(&c.common)
