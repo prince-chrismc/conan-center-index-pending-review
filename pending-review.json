@@ -524,9 +524,9 @@
       "Recipe": "gdal",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11694",
-      "LastCommitSHA": "3f83b0413be62620dee6c58fdea7f9d37652e283",
-      "LastCommitAt": "2022-07-25T12:33:12Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ebb3d7e7640d6a613715a05ed123535e704a3af5",
+      "LastCommitAt": "2022-07-25T16:06:46Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -663,29 +663,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 11846,
-      "OpenedBy": "strangeQuark1041",
-      "CreatedAt": "2022-07-21T18:36:50Z",
-      "Recipe": "samarium",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11846",
-      "LastCommitSHA": "1ec9638e75fdc40258a1bb9564925aa91538bdad",
-      "LastCommitAt": "2022-07-25T15:08:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-25T10:20:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11846#pullrequestreview-1049201900"
-         }
       }
    },
    {
