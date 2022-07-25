@@ -402,31 +402,6 @@
       }
    },
    {
-      "Number": 11569,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2022-07-06T15:24:20Z",
-      "Recipe": "create-dmg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11569",
-      "LastCommitSHA": "a620b7e581005be02a878908210f4a5f5dee49cc",
-      "LastCommitAt": "2022-07-21T06:52:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-21T07:19:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11569#pullrequestreview-1046049117"
-         }
-      }
-   },
-   {
       "Number": 11595,
       "OpenedBy": "szmyd",
       "CreatedAt": "2022-07-07T15:57:10Z",
@@ -551,7 +526,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11694",
       "LastCommitSHA": "3f83b0413be62620dee6c58fdea7f9d37652e283",
       "LastCommitAt": "2022-07-25T12:33:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -587,31 +562,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2022-07-20T13:29:01Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11696#pullrequestreview-1045032179"
-         }
-      }
-   },
-   {
-      "Number": 11698,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2022-07-14T14:50:44Z",
-      "Recipe": "xorg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11698",
-      "LastCommitSHA": "a0b019b699ea1924aee3f161002a050eeed65ab7",
-      "LastCommitAt": "2022-07-21T15:15:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-07-22T16:21:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11698#pullrequestreview-1048137171"
          }
       }
    },
@@ -713,6 +663,29 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 11846,
+      "OpenedBy": "strangeQuark1041",
+      "CreatedAt": "2022-07-21T18:36:50Z",
+      "Recipe": "samarium",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11846",
+      "LastCommitSHA": "1ec9638e75fdc40258a1bb9564925aa91538bdad",
+      "LastCommitAt": "2022-07-25T15:08:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-25T10:20:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11846#pullrequestreview-1049201900"
+         }
       }
    },
    {
@@ -861,24 +834,6 @@
       "LastCommitSHA": "24ed2ca921540b8774bcf1ab73b9ca355049fa0a",
       "LastCommitAt": "2022-07-25T12:08:26Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 11907,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-07-25T13:05:56Z",
-      "Recipe": "diligent-tools",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11907",
-      "LastCommitSHA": "1d319266ae612c11ac6384d5b26a58b410c93918",
-      "LastCommitAt": "2022-07-25T13:05:18Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
