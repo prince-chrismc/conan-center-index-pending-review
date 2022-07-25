@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **43** pull requests currently under way :detective:
+There are **44** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -68,6 +68,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|0|||
 [#11892](https://github.com/conan-io/conan-center-index/pull/11892)|[Tradias](https://github.com/Tradias)|Jul 24|:memo: asio-grpc|0|||
 [#11894](https://github.com/conan-io/conan-center-index/pull/11894)|[toge](https://github.com/toge)|Jul 24|:memo: valijson|0|||
+[#11900](https://github.com/conan-io/conan-center-index/pull/11900)|[toge](https://github.com/toge)|Jul 25|:stopwatch: openldap|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,9 +88,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 175
+	- Open: 176
 	- Draft: 27
-	- Average Age: 79 days, 9 hours, and 10.26 minutes
+	- Average Age: 79 days, 2 hours, and 43.40 minutes
 - Labels:
 	- Stale: 12
 	- Failed: 80
