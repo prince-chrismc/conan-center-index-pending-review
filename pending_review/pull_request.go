@@ -68,7 +68,7 @@ func (s *PullRequestService) ListAllReviews(ctx context.Context, owner string, r
 }
 
 // GetReviewSummary of a specific pull request
-func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string, repo string, pr *PullRequest) (*PullRequestSummary, *Response, error) {
+func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string, repo string, reviewers *ConanCenterReviewers, pr *PullRequest) (*PullRequestSummary, *Response, error) {
 	p := &PullRequestSummary{
 		Number:        pr.GetNumber(),
 		OpenedBy:      pr.GetUser().GetLogin(),
@@ -91,7 +91,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	}
 
 	reviews = FilterAuthor(reviews, p.OpenedBy)
-	p.Summary = ProcessReviewComments(reviews, p.LastCommitSHA)
+	p.Summary = ProcessReviewComments(reviewers, reviews, p.LastCommitSHA)
 
 	p.LastCommitAt, _, err = s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
 	if err != nil {

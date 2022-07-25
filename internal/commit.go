@@ -7,7 +7,7 @@ import (
 	"time"
 
 	git "github.com/go-git/go-git/v5/plumbing"
-	"github.com/google/go-github/v42/github"
+	"github.com/google/go-github/v45/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 )
 
