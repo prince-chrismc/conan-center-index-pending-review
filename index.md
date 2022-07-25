@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **36** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -53,7 +53,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11736](https://github.com/conan-io/conan-center-index/pull/11736)|[toge](https://github.com/toge)|Jul 17|:memo: wt|0|:eyes:||
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|1|Jul 22||
-[#11819](https://github.com/conan-io/conan-center-index/pull/11819)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 20|:memo: diligent-tools|0|||
+[#11819](https://github.com/conan-io/conan-center-index/pull/11819)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 20|:memo: diligent-tools|1|Jul 25||SSE4
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|0|:eyes:||
 [#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:memo: platform.hashing|1|Jul 25||uilianries
 [#11874](https://github.com/conan-io/conan-center-index/pull/11874)|[toge](https://github.com/toge)|Jul 23|:memo: daw_json_link|1|Jul 25||uilianries
@@ -61,6 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11882](https://github.com/conan-io/conan-center-index/pull/11882)|[toge](https://github.com/toge)|Jul 23|:memo: librdkafka|0|||
 [#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|1|Jul 25||uilianries
 [#11906](https://github.com/conan-io/conan-center-index/pull/11906)|[toge](https://github.com/toge)|Jul 25|:memo: xkbcommon|0|||
+[#11909](https://github.com/conan-io/conan-center-index/pull/11909)|[toge](https://github.com/toge)|Jul 25|:stopwatch: wasmtime|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -80,9 +81,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 169
+	- Open: 171
 	- Draft: 26
-	- Average Age: 82 days, 10 hours, and 30.61 minutes
+	- Average Age: 81 days, 12 hours, and 22.77 minutes
 - Labels:
 	- Stale: 13
 	- Failed: 82
