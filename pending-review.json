@@ -945,5 +945,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 11900,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-25T02:21:58Z",
+      "Recipe": "openldap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11900",
+      "LastCommitSHA": "ae84b5a7f80899ddea073625d120a21095425ce0",
+      "LastCommitAt": "2022-07-25T02:21:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
