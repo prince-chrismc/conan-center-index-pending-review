@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **44** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,15 +37,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11098](https://github.com/conan-io/conan-center-index/pull/11098)|[npuichigo](https://github.com/npuichigo)|Jun 9|:new: opengrm|1|Jul 24||SSE4
 [#11122](https://github.com/conan-io/conan-center-index/pull/11122)|[martinvl](https://github.com/martinvl)|Jun 10|:memo: gtsam|4|Jul 20||uilianries
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
-[#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|4|Jul 19||
+[#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|5|Jul 25||uilianries
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:stopwatch: poppler|2|Jul 22||MartinDelille
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
-[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:stopwatch: mold|5|Jul 21||
+[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:stopwatch: mold|7|Jul 25||
 [#11569](https://github.com/conan-io/conan-center-index/pull/11569)|[MartinDelille](https://github.com/MartinDelille)|Jul 6|:memo: create-dmg|4|Jul 21||uilianries
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||
-[#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|3|Jul 15||
+[#11616](https://github.com/conan-io/conan-center-index/pull/11616)|[jwillikers](https://github.com/jwillikers)|Jul 9|:memo: dbus|4|Jul 25||uilianries
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
@@ -59,11 +59,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|0|||
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|0|||
 [#11854](https://github.com/conan-io/conan-center-index/pull/11854)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: glib|4|Jul 22||jwillikers, uilianries
-[#11868](https://github.com/conan-io/conan-center-index/pull/11868)|[Dobiasd](https://github.com/Dobiasd)|Jul 22|:memo: frugally-deep|0|||
-[#11872](https://github.com/conan-io/conan-center-index/pull/11872)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 23|:memo: xorg|1|Jul 23||Croydon
-[#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:memo: platform.hashing|0|||
+[#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:memo: platform.hashing|1|Jul 25||uilianries
 [#11874](https://github.com/conan-io/conan-center-index/pull/11874)|[toge](https://github.com/toge)|Jul 23|:memo: daw_json_link|0|||
-[#11876](https://github.com/conan-io/conan-center-index/pull/11876)|[toge](https://github.com/toge)|Jul 23|:memo: roaring|0|||
+[#11876](https://github.com/conan-io/conan-center-index/pull/11876)|[toge](https://github.com/toge)|Jul 23|:memo: roaring|1|Jul 25||uilianries
 [#11886](https://github.com/conan-io/conan-center-index/pull/11886)|[toge](https://github.com/toge)|Jul 24|:memo: luau|0|||
 [#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|0|||
 [#11892](https://github.com/conan-io/conan-center-index/pull/11892)|[Tradias](https://github.com/Tradias)|Jul 24|:memo: asio-grpc|0|||
@@ -73,13 +71,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
+[#11872](https://github.com/conan-io/conan-center-index/pull/11872)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 23|:memo: xorg|2|Croydon, uilianries
 
 
 #### :clipboard: Statistics
@@ -88,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 177
+	- Open: 175
 	- Draft: 27
-	- Average Age: 78 days, 20 hours, and 35.79 minutes
+	- Average Age: 79 days, 18 hours, and 45.23 minutes
 - Labels:
 	- Stale: 13
 	- Failed: 80
