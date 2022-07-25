@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **36** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,7 +47,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|2|Jul 20||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|SSE4
-[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|8|Jul 25||
 [#11696](https://github.com/conan-io/conan-center-index/pull/11696)|[danimtb](https://github.com/danimtb)|Jul 14|:memo: expat|11|Jul 20||jwillikers
 [#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|19|Jul 20||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
@@ -61,7 +60,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11882](https://github.com/conan-io/conan-center-index/pull/11882)|[toge](https://github.com/toge)|Jul 23|:memo: librdkafka|0|||
 [#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|1|Jul 25||uilianries
 [#11906](https://github.com/conan-io/conan-center-index/pull/11906)|[toge](https://github.com/toge)|Jul 25|:memo: xkbcommon|0|||
-[#11909](https://github.com/conan-io/conan-center-index/pull/11909)|[toge](https://github.com/toge)|Jul 25|:stopwatch: wasmtime|0|||
+[#11909](https://github.com/conan-io/conan-center-index/pull/11909)|[toge](https://github.com/toge)|Jul 25|:memo: wasmtime|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -81,12 +80,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 171
+	- Open: 170
 	- Draft: 26
-	- Average Age: 81 days, 12 hours, and 22.77 minutes
+	- Average Age: 82 days, and 49.88 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 82
+	- Failed: 83
 	- Blocked: 9
 	
 		
