@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **36** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,7 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11450](https://github.com/conan-io/conan-center-index/pull/11450)|[Latios96](https://github.com/Latios96)|Jun 30|:new: opensubdiv|3|Jul 15||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|0|:eyes:||
-[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:stopwatch: mold|13|Jul 26||
+[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|13|Jul 26||
 [#11595](https://github.com/conan-io/conan-center-index/pull/11595)|[szmyd](https://github.com/szmyd)|Jul 7|:new: userspace-rcu|3|Jul 19||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11651](https://github.com/conan-io/conan-center-index/pull/11651)|[jgsogo](https://github.com/jgsogo)|Jul 12|:memo: googleapis|3|Jul 26||danimtb
@@ -49,7 +49,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11736](https://github.com/conan-io/conan-center-index/pull/11736)|[toge](https://github.com/toge)|Jul 17|:memo: wt|0|:eyes:||
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|1|Jul 22||
-[#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:stopwatch: samarium|3|Jul 26||
+[#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|3|Jul 26||
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|1|Jul 26||jwillikers
 [#11853](https://github.com/conan-io/conan-center-index/pull/11853)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:stopwatch: qt|2|Jul 22||
 [#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:memo: platform.hashing|4|Jul 26||uilianries
@@ -58,10 +58,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11882](https://github.com/conan-io/conan-center-index/pull/11882)|[toge](https://github.com/toge)|Jul 23|:memo: librdkafka|1|Jul 26||uilianries
 [#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|1|Jul 25||uilianries
 [#11906](https://github.com/conan-io/conan-center-index/pull/11906)|[toge](https://github.com/toge)|Jul 25|:memo: xkbcommon|2|Jul 26||uilianries, jwillikers
-[#11922](https://github.com/conan-io/conan-center-index/pull/11922)|[toge](https://github.com/toge)|Jul 26|:memo: wasmtime-cpp|0|||
+[#11922](https://github.com/conan-io/conan-center-index/pull/11922)|[toge](https://github.com/toge)|Jul 26|:memo: wasmtime-cpp|1|Jul 26||uilianries
 [#11925](https://github.com/conan-io/conan-center-index/pull/11925)|[danimtb](https://github.com/danimtb)|Jul 26|:green_book: docs|2|Jul 26||uilianries, jwillikers
-[#11926](https://github.com/conan-io/conan-center-index/pull/11926)|[MartinDelille](https://github.com/MartinDelille)|Jul 26|:stopwatch: poppler|0|:eyes:||
-[#11927](https://github.com/conan-io/conan-center-index/pull/11927)|[jwillikers](https://github.com/jwillikers)|Jul 26|:stopwatch: xorg|0|||
+[#11927](https://github.com/conan-io/conan-center-index/pull/11927)|[jwillikers](https://github.com/jwillikers)|Jul 26|:memo: xorg|1|Jul 26||ericLemanissier
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -83,10 +82,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 172
 	- Draft: 26
-	- Average Age: 81 days, 8 hours, and 45.74 minutes
+	- Average Age: 81 days, 9 hours, and 49.71 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 83
+	- Failed: 84
 	- Blocked: 9
 	
 		
