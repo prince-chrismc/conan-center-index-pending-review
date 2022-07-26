@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **24** pull requests currently under way :detective:
+There are **23** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -48,12 +48,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|3|Jul 26||
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|2|Jul 26||jwillikers, SSE4
 [#11853](https://github.com/conan-io/conan-center-index/pull/11853)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:stopwatch: qt|2|Jul 22||
-[#11928](https://github.com/conan-io/conan-center-index/pull/11928)|[toge](https://github.com/toge)|Jul 26|:stopwatch: tesseract|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -61,8 +60,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:warning: poppler|3|MartinDelille, SSE4
-[#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|3|uilianries, jwillikers, prince-chrismc
-[#11922](https://github.com/conan-io/conan-center-index/pull/11922)|[toge](https://github.com/toge)|Jul 26|:memo: wasmtime-cpp|3|uilianries, jwillikers, prince-chrismc
 [#11925](https://github.com/conan-io/conan-center-index/pull/11925)|[danimtb](https://github.com/danimtb)|Jul 26|:green_book: docs|4|uilianries, jwillikers, prince-chrismc, SSE4
 [#11927](https://github.com/conan-io/conan-center-index/pull/11927)|[jwillikers](https://github.com/jwillikers)|Jul 26|:memo: xorg|4|ericLemanissier, toge, prince-chrismc, SSE4
 
@@ -73,12 +70,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 166
+	- Open: 165
 	- Draft: 26
-	- Average Age: 84 days, 6 hours, and 35.61 minutes
+	- Average Age: 84 days, 19 hours, and 25.20 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 85
+	- Failed: 87
 	- Blocked: 9
 	
 		
