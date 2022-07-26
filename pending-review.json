@@ -564,59 +564,6 @@
       }
    },
    {
-      "Number": 11876,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-23T09:49:05Z",
-      "Recipe": "roaring",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11876",
-      "LastCommitSHA": "778cdb2eda12a98a92462ae10408ccf20b22e281",
-      "LastCommitAt": "2022-07-23T09:47:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-07-26T17:57:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11876#pullrequestreview-1051406127"
-         }
-      }
-   },
-   {
-      "Number": 11882,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-23T16:12:36Z",
-      "Recipe": "librdkafka",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11882",
-      "LastCommitSHA": "783b2cedc222fd5913a3736b60db33d84784f175",
-      "LastCommitAt": "2022-07-25T10:21:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-07-26T17:59:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11882#pullrequestreview-1051408587"
-         }
-      }
-   },
-   {
       "Number": 11891,
       "OpenedBy": "toge",
       "CreatedAt": "2022-07-24T13:43:47Z",
