@@ -52,7 +52,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -60,8 +60,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:warning: poppler|3|MartinDelille, SSE4
-[#11925](https://github.com/conan-io/conan-center-index/pull/11925)|[danimtb](https://github.com/danimtb)|Jul 26|:green_book: docs|4|uilianries, jwillikers, prince-chrismc, SSE4
-[#11927](https://github.com/conan-io/conan-center-index/pull/11927)|[jwillikers](https://github.com/jwillikers)|Jul 26|:memo: xorg|4|ericLemanissier, toge, prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -70,9 +68,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 165
+	- Open: 163
 	- Draft: 26
-	- Average Age: 84 days, 19 hours, and 25.20 minutes
+	- Average Age: 85 days, 21 hours, and 19.53 minutes
 - Labels:
 	- Stale: 13
 	- Failed: 87
