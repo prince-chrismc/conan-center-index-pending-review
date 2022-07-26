@@ -564,60 +564,6 @@
       }
    },
    {
-      "Number": 11891,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-24T13:43:47Z",
-      "Recipe": "quickfix",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11891",
-      "LastCommitSHA": "211c6a05f799aec3c53346d6eb8171db89156ec2",
-      "LastCommitAt": "2022-07-24T16:12:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-07-26T18:00:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11891#pullrequestreview-1051409100"
-         }
-      }
-   },
-   {
-      "Number": 11922,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-26T11:21:14Z",
-      "Recipe": "wasmtime-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11922",
-      "LastCommitSHA": "08215102a0bd46bc580126b94f29fcb1482229d1",
-      "LastCommitAt": "2022-07-26T11:23:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-07-26T18:01:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11922#pullrequestreview-1051410110"
-         }
-      }
-   },
-   {
       "Number": 11925,
       "OpenedBy": "danimtb",
       "CreatedAt": "2022-07-26T13:20:55Z",
@@ -671,24 +617,6 @@
             "SubmittedAt": "2022-07-26T18:53:34Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11927#pullrequestreview-1051473086"
          }
-      }
-   },
-   {
-      "Number": 11928,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-26T17:04:03Z",
-      "Recipe": "tesseract",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11928",
-      "LastCommitSHA": "0221a5c75239738cdac53a481003ecf1bef60745",
-      "LastCommitAt": "2022-07-26T17:34:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
