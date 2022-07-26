@@ -49,15 +49,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11736](https://github.com/conan-io/conan-center-index/pull/11736)|[toge](https://github.com/toge)|Jul 17|:memo: wt|0|:eyes:||
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|1|Jul 22||
-[#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|2|Jul 25||
-[#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|0|:eyes:||
+[#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|1|Jul 26||jwillikers
 [#11853](https://github.com/conan-io/conan-center-index/pull/11853)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:stopwatch: qt|2|Jul 22||
 [#11873](https://github.com/conan-io/conan-center-index/pull/11873)|[FreePhoenix888](https://github.com/FreePhoenix888)|Jul 23|:memo: platform.hashing|4|Jul 26||uilianries
 [#11874](https://github.com/conan-io/conan-center-index/pull/11874)|[toge](https://github.com/toge)|Jul 23|:memo: daw_json_link|1|Jul 25||uilianries
 [#11876](https://github.com/conan-io/conan-center-index/pull/11876)|[toge](https://github.com/toge)|Jul 23|:memo: roaring|1|Jul 25||uilianries
 [#11882](https://github.com/conan-io/conan-center-index/pull/11882)|[toge](https://github.com/toge)|Jul 23|:memo: librdkafka|1|Jul 26||uilianries
 [#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|1|Jul 25||uilianries
-[#11906](https://github.com/conan-io/conan-center-index/pull/11906)|[toge](https://github.com/toge)|Jul 25|:memo: xkbcommon|1|Jul 26||uilianries
+[#11906](https://github.com/conan-io/conan-center-index/pull/11906)|[toge](https://github.com/toge)|Jul 25|:memo: xkbcommon|2|Jul 26||uilianries, jwillikers
+[#11922](https://github.com/conan-io/conan-center-index/pull/11922)|[toge](https://github.com/toge)|Jul 26|:stopwatch: wasmtime-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -77,12 +77,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 418f02f5c92f4c3df093fd0ef499c7ab7a3bb47c
 - Pull Requests:
-	- Open: 167
+	- Open: 169
 	- Draft: 26
-	- Average Age: 83 days, 16 hours, and 10.88 minutes
+	- Average Age: 82 days, 17 hours, and 42.43 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 83
+	- Failed: 85
 	- Blocked: 9
 	
 		
