@@ -53,7 +53,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -61,8 +61,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:warning: poppler|3|MartinDelille, SSE4
-[#11876](https://github.com/conan-io/conan-center-index/pull/11876)|[toge](https://github.com/toge)|Jul 23|:memo: roaring|3|uilianries, jwillikers, prince-chrismc
-[#11882](https://github.com/conan-io/conan-center-index/pull/11882)|[toge](https://github.com/toge)|Jul 23|:memo: librdkafka|3|uilianries, prince-chrismc
 [#11891](https://github.com/conan-io/conan-center-index/pull/11891)|[toge](https://github.com/toge)|Jul 24|:memo: quickfix|3|uilianries, jwillikers, prince-chrismc
 [#11922](https://github.com/conan-io/conan-center-index/pull/11922)|[toge](https://github.com/toge)|Jul 26|:memo: wasmtime-cpp|3|uilianries, jwillikers, prince-chrismc
 [#11925](https://github.com/conan-io/conan-center-index/pull/11925)|[danimtb](https://github.com/danimtb)|Jul 26|:green_book: docs|4|uilianries, jwillikers, prince-chrismc, SSE4
@@ -75,12 +73,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 168
+	- Open: 166
 	- Draft: 26
-	- Average Age: 83 days, 6 hours, and 24.34 minutes
+	- Average Age: 84 days, 6 hours, and 35.61 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 84
+	- Failed: 85
 	- Blocked: 9
 	
 		
