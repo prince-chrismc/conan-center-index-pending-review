@@ -47,7 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|1|Jul 22||
 [#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|3|Jul 26||
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|2|Jul 26||jwillikers, SSE4
-[#11928](https://github.com/conan-io/conan-center-index/pull/11928)|[toge](https://github.com/toge)|Jul 26|:stopwatch: tesseract|0|||
+[#11928](https://github.com/conan-io/conan-center-index/pull/11928)|[toge](https://github.com/toge)|Jul 26|:memo: tesseract|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -68,9 +68,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 163
+	- Open: 164
 	- Draft: 26
-	- Average Age: 86 days, and 30.94 minutes
+	- Average Age: 85 days, 14 hours, and 14.66 minutes
 - Labels:
 	- Stale: 13
 	- Failed: 88
