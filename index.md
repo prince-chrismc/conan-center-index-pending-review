@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **21** pull requests currently under way :detective:
+There are **23** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -44,8 +44,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|2|Jul 26||jwillikers, SSE4
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:stopwatch: serd|0|||
 [#11928](https://github.com/conan-io/conan-center-index/pull/11928)|[toge](https://github.com/toge)|Jul 26|:memo: tesseract|2|Jul 27||uilianries, jwillikers
+[#11932](https://github.com/conan-io/conan-center-index/pull/11932)|[szmyd](https://github.com/szmyd)|Jul 26|:stopwatch: forestdb|0|||
 [#11938](https://github.com/conan-io/conan-center-index/pull/11938)|[Hopobcn](https://github.com/Hopobcn)|Jul 27|:stopwatch: folly|0|||
 [#11939](https://github.com/conan-io/conan-center-index/pull/11939)|[vectorsli](https://github.com/vectorsli)|Jul 27|:stopwatch: expat|0|||
+[#11940](https://github.com/conan-io/conan-center-index/pull/11940)|[SSE4](https://github.com/SSE4)|Jul 27|:stopwatch: range-v3|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -67,9 +69,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 162
+	- Open: 163
 	- Draft: 26
-	- Average Age: 87 days, 1 hours, and 30.55 minutes
+	- Average Age: 86 days, 13 hours, and 42.72 minutes
 - Labels:
 	- Stale: 13
 	- Failed: 83
