@@ -399,29 +399,25 @@
       }
    },
    {
-      "Number": 11928,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-07-26T17:04:03Z",
-      "Recipe": "tesseract",
+      "Number": 11853,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-07-22T08:00:53Z",
+      "Recipe": "qt",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11928",
-      "LastCommitSHA": "268c92764d5b2053e19ae528cfd9428e5c944daf",
-      "LastCommitAt": "2022-07-27T00:35:11Z",
-      "CciBotPassed": true,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11853",
+      "LastCommitSHA": "f9b185d3e2005ef5e642dbf5231b186cca9b104a",
+      "LastCommitAt": "2022-07-26T08:07:47Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers",
-            "prince-chrismc"
-         ],
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-07-27T18:09:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11928#pullrequestreview-1052926647"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-07-22T14:45:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11853#pullrequestreview-1048011888"
          }
       }
    },
@@ -432,8 +428,8 @@
       "Recipe": "forestdb",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11932",
-      "LastCommitSHA": "8c635b1180308dfb172f87fddd7343f4526566c3",
-      "LastCommitAt": "2022-07-27T17:03:51Z",
+      "LastCommitSHA": "7ac3b8a517a947e3832398e559690c546156ef7b",
+      "LastCommitAt": "2022-07-27T19:52:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -484,6 +480,42 @@
             "SubmittedAt": "2022-07-27T18:09:55Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11940#pullrequestreview-1052927610"
          }
+      }
+   },
+   {
+      "Number": 11944,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-07-27T18:26:37Z",
+      "Recipe": "libevent",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11944",
+      "LastCommitSHA": "815d9a6a30b2d82c8c025073fc46198691e2a96c",
+      "LastCommitAt": "2022-07-27T18:26:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11945,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2022-07-27T20:05:09Z",
+      "Recipe": "libtool",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11945",
+      "LastCommitSHA": "8e1e68d8cce5e8c78e9c6acb8fa1943003151d1c",
+      "LastCommitAt": "2022-07-27T20:09:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
