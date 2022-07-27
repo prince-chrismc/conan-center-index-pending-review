@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **23** pull requests currently under way :detective:
+There are **19** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,19 +40,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|2|Jul 27||uilianries
-[#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|2|Jul 26||jwillikers, SSE4
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:stopwatch: serd|0|||
-[#11928](https://github.com/conan-io/conan-center-index/pull/11928)|[toge](https://github.com/toge)|Jul 26|:memo: tesseract|2|Jul 27||uilianries, jwillikers
 [#11932](https://github.com/conan-io/conan-center-index/pull/11932)|[szmyd](https://github.com/szmyd)|Jul 26|:stopwatch: forestdb|0|||
-[#11938](https://github.com/conan-io/conan-center-index/pull/11938)|[Hopobcn](https://github.com/Hopobcn)|Jul 27|:stopwatch: folly|0|||
 [#11939](https://github.com/conan-io/conan-center-index/pull/11939)|[vectorsli](https://github.com/vectorsli)|Jul 27|:stopwatch: expat|0|||
-[#11940](https://github.com/conan-io/conan-center-index/pull/11940)|[SSE4](https://github.com/SSE4)|Jul 27|:stopwatch: range-v3|0|||
+[#11940](https://github.com/conan-io/conan-center-index/pull/11940)|[SSE4](https://github.com/SSE4)|Jul 27|:stopwatch: range-v3|1|Jul 27||prince-chrismc
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -61,6 +57,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:warning: poppler|3|MartinDelille, SSE4
 [#11495](https://github.com/conan-io/conan-center-index/pull/11495)|[hesham-essam](https://github.com/hesham-essam)|Jul 2|:memo: pangomm|2|SSE4, uilianries
+[#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|5|uilianries, prince-chrismc
+[#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|3|jwillikers, SSE4, prince-chrismc
+[#11928](https://github.com/conan-io/conan-center-index/pull/11928)|[toge](https://github.com/toge)|Jul 26|:memo: tesseract|3|uilianries, jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -69,12 +68,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 163
+	- Open: 165
 	- Draft: 26
-	- Average Age: 86 days, 13 hours, and 42.72 minutes
+	- Average Age: 85 days, 13 hours, and 25.83 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 83
+	- Failed: 84
 	- Blocked: 9
 	
 		
