@@ -494,14 +494,32 @@
       }
    },
    {
+      "Number": 11932,
+      "OpenedBy": "szmyd",
+      "CreatedAt": "2022-07-26T20:33:50Z",
+      "Recipe": "forestdb",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11932",
+      "LastCommitSHA": "8c635b1180308dfb172f87fddd7343f4526566c3",
+      "LastCommitAt": "2022-07-27T17:03:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11938,
       "OpenedBy": "Hopobcn",
       "CreatedAt": "2022-07-27T11:34:52Z",
       "Recipe": "folly",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11938",
-      "LastCommitSHA": "c0fb2f85d7ad8d44a10b208bd9bcdc403d11b350",
-      "LastCommitAt": "2022-07-27T12:51:49Z",
+      "LastCommitSHA": "6c05e7201ef21200c9c85b6af4cc51e51f6b71c8",
+      "LastCommitAt": "2022-07-27T17:10:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -520,6 +538,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11939",
       "LastCommitSHA": "eecdbf5a2a90036dc6f8023e107658cb958fea29",
       "LastCommitAt": "2022-07-27T15:01:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11940,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2022-07-27T17:23:30Z",
+      "Recipe": "range-v3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11940",
+      "LastCommitSHA": "adfaff519030ecd89049ed986f1e8c222a9f2955",
+      "LastCommitAt": "2022-07-27T17:22:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
