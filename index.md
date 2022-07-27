@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **22** pull requests currently under way :detective:
+There are **21** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,7 +39,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|
-[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|8|Jul 25||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|2|Jul 27||uilianries
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|2|Jul 26||jwillikers, SSE4
@@ -70,7 +69,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 162
 	- Draft: 26
-	- Average Age: 87 days, and 25.93 minutes
+	- Average Age: 87 days, 1 hours, and 30.55 minutes
 - Labels:
 	- Stale: 13
 	- Failed: 83
