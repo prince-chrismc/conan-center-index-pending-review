@@ -404,31 +404,6 @@
       }
    },
    {
-      "Number": 11713,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2022-07-15T10:14:00Z",
-      "Recipe": "docs",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11713",
-      "LastCommitSHA": "148666b21a4967ba1eadbf25ab9bf1ac0803e8ea",
-      "LastCommitAt": "2022-07-27T07:08:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 21,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-27T08:30:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11713#pullrequestreview-1052099305"
-         }
-      }
-   },
-   {
       "Number": 11725,
       "OpenedBy": "tsondergaard",
       "CreatedAt": "2022-07-16T13:14:11Z",
@@ -498,6 +473,24 @@
       }
    },
    {
+      "Number": 11897,
+      "OpenedBy": "bigerl",
+      "CreatedAt": "2022-07-24T20:34:08Z",
+      "Recipe": "serd",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11897",
+      "LastCommitSHA": "b264337f90ff15c7868371a0ee66b9893a9a8e86",
+      "LastCommitAt": "2022-07-27T14:57:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11928,
       "OpenedBy": "toge",
       "CreatedAt": "2022-07-26T17:04:03Z",
@@ -532,6 +525,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11938",
       "LastCommitSHA": "c0fb2f85d7ad8d44a10b208bd9bcdc403d11b350",
       "LastCommitAt": "2022-07-27T12:51:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11939,
+      "OpenedBy": "vectorsli",
+      "CreatedAt": "2022-07-27T15:02:38Z",
+      "Recipe": "expat",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11939",
+      "LastCommitSHA": "eecdbf5a2a90036dc6f8023e107658cb958fea29",
+      "LastCommitAt": "2022-07-27T15:01:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
