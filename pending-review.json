@@ -541,26 +541,39 @@
       }
    },
    {
-      "Number": 11853,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-07-22T08:00:53Z",
-      "Recipe": "qt",
+      "Number": 11928,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-07-26T17:04:03Z",
+      "Recipe": "tesseract",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11853",
-      "LastCommitSHA": "f9b185d3e2005ef5e642dbf5231b186cca9b104a",
-      "LastCommitAt": "2022-07-26T08:07:47Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11928",
+      "LastCommitSHA": "268c92764d5b2053e19ae528cfd9428e5c944daf",
+      "LastCommitAt": "2022-07-27T00:35:11Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-07-22T14:45:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11853#pullrequestreview-1048011888"
-         }
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11932,
+      "OpenedBy": "szmyd",
+      "CreatedAt": "2022-07-26T20:33:50Z",
+      "Recipe": "forestdb",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11932",
+      "LastCommitSHA": "5679d4c9ad99b225f14cfbbdbdef88d71d50a607",
+      "LastCommitAt": "2022-07-27T01:11:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
