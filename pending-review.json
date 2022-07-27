@@ -557,23 +557,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 11932,
-      "OpenedBy": "szmyd",
-      "CreatedAt": "2022-07-26T20:33:50Z",
-      "Recipe": "forestdb",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11932",
-      "LastCommitSHA": "5679d4c9ad99b225f14cfbbdbdef88d71d50a607",
-      "LastCommitAt": "2022-07-27T01:11:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
