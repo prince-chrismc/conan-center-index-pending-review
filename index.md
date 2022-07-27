@@ -41,12 +41,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|18|Jul 26||SSE4
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|
-[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:stopwatch: docs|20|Jul 26||
+[#11713](https://github.com/conan-io/conan-center-index/pull/11713)|[danimtb](https://github.com/danimtb)|Jul 15|:green_book: docs|20|Jul 26||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|1|Jul 22||
-[#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|3|Jul 26||
+[#11811](https://github.com/conan-io/conan-center-index/pull/11811)|[jwillikers](https://github.com/jwillikers)|Jul 19|:memo: boost|2|Jul 27||uilianries
+[#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:stopwatch: samarium|6|Jul 27||
 [#11852](https://github.com/conan-io/conan-center-index/pull/11852)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: wayland-protocols|2|Jul 26||jwillikers, SSE4
-[#11928](https://github.com/conan-io/conan-center-index/pull/11928)|[toge](https://github.com/toge)|Jul 26|:memo: tesseract|0|||
+[#11928](https://github.com/conan-io/conan-center-index/pull/11928)|[toge](https://github.com/toge)|Jul 26|:memo: tesseract|1|Jul 27||uilianries
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -67,12 +67,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 164
+	- Open: 162
 	- Draft: 26
-	- Average Age: 85 days, 17 hours, and 42.04 minutes
+	- Average Age: 86 days, 19 hours, and 20.98 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 88
+	- Failed: 84
 	- Blocked: 9
 	
 		
