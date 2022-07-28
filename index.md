@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#11853](https://github.com/conan-io/conan-center-index/pull/11853)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:stopwatch: qt|2|Jul 22||
+[#11853](https://github.com/conan-io/conan-center-index/pull/11853)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qt|2|Jul 22||
 [#11939](https://github.com/conan-io/conan-center-index/pull/11939)|[vectorsli](https://github.com/vectorsli)|Jul 27|:memo: expat|1|Jul 28||uilianries
 [#11944](https://github.com/conan-io/conan-center-index/pull/11944)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 27|:memo: libevent|1|Jul 28||uilianries
 [#11945](https://github.com/conan-io/conan-center-index/pull/11945)|[madebr](https://github.com/madebr)|Jul 27|:memo: libtool|1|Jul 28||uilianries
@@ -70,10 +70,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 162
 	- Draft: 27
-	- Average Age: 87 days, 19 hours, and 17.96 minutes
+	- Average Age: 87 days, 20 hours, and 52.96 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 84
+	- Failed: 85
 	- Blocked: 9
 	
 		
