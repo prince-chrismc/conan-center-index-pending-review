@@ -495,24 +495,6 @@
       }
    },
    {
-      "Number": 11897,
-      "OpenedBy": "bigerl",
-      "CreatedAt": "2022-07-24T20:34:08Z",
-      "Recipe": "serd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11897",
-      "LastCommitSHA": "2b0e6cd1ba72d66832985d352923a69c386b8edc",
-      "LastCommitAt": "2022-07-28T12:09:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11939,
       "OpenedBy": "vectorsli",
       "CreatedAt": "2022-07-27T15:02:38Z",
