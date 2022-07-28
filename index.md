@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11853](https://github.com/conan-io/conan-center-index/pull/11853)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:stopwatch: qt|2|Jul 22||
 [#11932](https://github.com/conan-io/conan-center-index/pull/11932)|[szmyd](https://github.com/szmyd)|Jul 26|:stopwatch: forestdb|0|||
 [#11939](https://github.com/conan-io/conan-center-index/pull/11939)|[vectorsli](https://github.com/vectorsli)|Jul 27|:stopwatch: expat|0|||
-[#11940](https://github.com/conan-io/conan-center-index/pull/11940)|[SSE4](https://github.com/SSE4)|Jul 27|:stopwatch: range-v3|1|Jul 27||prince-chrismc
+[#11940](https://github.com/conan-io/conan-center-index/pull/11940)|[SSE4](https://github.com/SSE4)|Jul 27|:memo: range-v3|1|Jul 27||prince-chrismc
 [#11944](https://github.com/conan-io/conan-center-index/pull/11944)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 27|:stopwatch: libevent|0|||
 [#11945](https://github.com/conan-io/conan-center-index/pull/11945)|[madebr](https://github.com/madebr)|Jul 27|:stopwatch: libtool|0|||
 
@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 163
 	- Draft: 26
-	- Average Age: 86 days, 14 hours, and 28.00 minutes
+	- Average Age: 86 days, 19 hours, and 22.61 minutes
 - Labels:
 	- Stale: 13
 	- Failed: 84
