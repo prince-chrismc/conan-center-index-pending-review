@@ -442,6 +442,24 @@
       }
    },
    {
+      "Number": 11938,
+      "OpenedBy": "Hopobcn",
+      "CreatedAt": "2022-07-27T11:34:52Z",
+      "Recipe": "folly",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11938",
+      "LastCommitSHA": "854ffd6cfd2b9c096121147a199f011b33ea8e27",
+      "LastCommitAt": "2022-07-28T08:15:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11939,
       "OpenedBy": "vectorsli",
       "CreatedAt": "2022-07-27T15:02:38Z",
@@ -450,7 +468,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11939",
       "LastCommitSHA": "eecdbf5a2a90036dc6f8023e107658cb958fea29",
       "LastCommitAt": "2022-07-27T15:01:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
