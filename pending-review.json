@@ -428,8 +428,8 @@
       "Recipe": "forestdb",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11932",
-      "LastCommitSHA": "7ac3b8a517a947e3832398e559690c546156ef7b",
-      "LastCommitAt": "2022-07-27T19:52:08Z",
+      "LastCommitSHA": "483e2103e6aabb9012f336664b47568cb27bd81b",
+      "LastCommitAt": "2022-07-28T01:01:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -466,7 +466,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11940",
       "LastCommitSHA": "b2752f71a2b3ddce984f19d53c43b551b06d7875",
       "LastCommitAt": "2022-07-27T17:22:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
