@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **23** pull requests currently under way :detective:
+There are **25** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,16 +37,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
-[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:stopwatch: mold|20|Jul 29||
+[#11536](https://github.com/conan-io/conan-center-index/pull/11536)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 4|:new: mold|21|Jul 29||uilianries
 [#11576](https://github.com/conan-io/conan-center-index/pull/11576)|[syoliver](https://github.com/syoliver)|Jul 6|:memo: hyperscan|6|Jul 29||
 [#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|11|Jul 28||uilianries
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|
+[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|8|Jul 25||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11853](https://github.com/conan-io/conan-center-index/pull/11853)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qt|3|Jul 29||uilianries
 [#11932](https://github.com/conan-io/conan-center-index/pull/11932)|[szmyd](https://github.com/szmyd)|Jul 26|:new: forestdb|3|Jul 29||uilianries
 [#11939](https://github.com/conan-io/conan-center-index/pull/11939)|[vectorsli](https://github.com/vectorsli)|Jul 27|:memo: expat|1|Jul 28||uilianries
 [#11944](https://github.com/conan-io/conan-center-index/pull/11944)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 27|:memo: libevent|1|Jul 28||uilianries
+[#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:stopwatch: libcurl|1|Jul 29|uilianries|
 [#11962](https://github.com/conan-io/conan-center-index/pull/11962)|[bshoshany](https://github.com/bshoshany)|Jul 29|:memo: bshoshany-thread-pool|1|Jul 29||uilianries
 
 
@@ -68,12 +70,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 167
+	- Open: 166
 	- Draft: 26
-	- Average Age: 86 days, and 17.58 minutes
+	- Average Age: 86 days, 13 hours, and 38.18 minutes
 - Labels:
 	- Stale: 13
-	- Failed: 85
+	- Failed: 84
 	- Blocked: 9
 	
 		
