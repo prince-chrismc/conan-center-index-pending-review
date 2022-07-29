@@ -312,28 +312,25 @@
       }
    },
    {
-      "Number": 11495,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-07-02T17:04:27Z",
-      "Recipe": "pangomm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11495",
-      "LastCommitSHA": "0f49b1f933c4a511541ec3513b5c688989699fbe",
-      "LastCommitAt": "2022-07-02T17:02:45Z",
-      "CciBotPassed": false,
+      "Number": 11536,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-07-04T16:41:32Z",
+      "Recipe": "mold",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11536",
+      "LastCommitSHA": "bc81c340374123f21a4617db7c45bab09f756e0a",
+      "LastCommitAt": "2022-07-29T08:33:57Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
+         "Count": 19,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-27T13:38:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11495#pullrequestreview-1052524506"
+            "SubmittedAt": "2022-07-29T08:13:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11536#pullrequestreview-1055163297"
          }
       }
    },
@@ -346,7 +343,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11576",
       "LastCommitSHA": "1b85b0631495b29bdbc0d8f910e9c638e731c86a",
       "LastCommitAt": "2022-07-29T07:36:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
@@ -457,15 +454,17 @@
       "LastCommitAt": "2022-07-26T08:07:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-07-22T14:45:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11853#pullrequestreview-1048011888"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-29T08:23:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11853#pullrequestreview-1055183336"
          }
       }
    },
@@ -480,15 +479,17 @@
       "LastCommitAt": "2022-07-28T15:22:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-28T08:52:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11932#pullrequestreview-1053703452"
+            "SubmittedAt": "2022-07-29T09:02:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11932#pullrequestreview-1055235469"
          }
       }
    },
@@ -540,24 +541,6 @@
             "SubmittedAt": "2022-07-28T09:52:20Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11944#pullrequestreview-1053806751"
          }
-      }
-   },
-   {
-      "Number": 11957,
-      "OpenedBy": "Anokhi1994",
-      "CreatedAt": "2022-07-28T19:56:42Z",
-      "Recipe": "libcurl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11957",
-      "LastCommitSHA": "abab40c88f53b22417773f1d02ce4d116e64ce3f",
-      "LastCommitAt": "2022-07-28T19:54:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
