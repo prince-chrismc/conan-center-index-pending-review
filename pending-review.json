@@ -312,25 +312,28 @@
       }
    },
    {
-      "Number": 11536,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-07-04T16:41:32Z",
-      "Recipe": "mold",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11536",
-      "LastCommitSHA": "205d8f715c97cc644ed6a66c3de631d4b20d0b02",
-      "LastCommitAt": "2022-07-28T10:17:13Z",
-      "CciBotPassed": true,
+      "Number": 11495,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-07-02T17:04:27Z",
+      "Recipe": "pangomm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11495",
+      "LastCommitSHA": "0f49b1f933c4a511541ec3513b5c688989699fbe",
+      "LastCommitAt": "2022-07-02T17:02:45Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 18,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4",
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-07-26T18:54:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11536#pullrequestreview-1051474607"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-27T13:38:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11495#pullrequestreview-1052524506"
          }
       }
    },
@@ -341,16 +344,14 @@
       "Recipe": "hyperscan",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11576",
-      "LastCommitSHA": "7a1576b8f391ec0a998640dba83c870ee4b52182",
-      "LastCommitAt": "2022-07-12T20:09:44Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "1b85b0631495b29bdbc0d8f910e9c638e731c86a",
+      "LastCommitAt": "2022-07-29T07:36:05Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
