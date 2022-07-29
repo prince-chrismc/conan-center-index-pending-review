@@ -250,6 +250,29 @@
       }
    },
    {
+      "Number": 11309,
+      "OpenedBy": "ggulgulia",
+      "CreatedAt": "2022-06-21T11:00:11Z",
+      "Recipe": "ignition-tools",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11309",
+      "LastCommitSHA": "1ff89f45afad944b449d5447eb95adec40f364b1",
+      "LastCommitAt": "2022-07-29T13:07:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 8,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-07-25T21:30:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11309#pullrequestreview-1050095515"
+         }
+      }
+   },
+   {
       "Number": 11381,
       "OpenedBy": "andiwand",
       "CreatedAt": "2022-06-26T19:22:17Z",
@@ -347,15 +370,17 @@
       "LastCommitAt": "2022-07-29T07:36:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 7,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-07-29T05:21:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11576#pullrequestreview-1055022856"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-29T12:49:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11576#pullrequestreview-1055523236"
          }
       }
    },
@@ -424,29 +449,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-07-20T07:34:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11656#pullrequestreview-1044556718"
-         }
-      }
-   },
-   {
-      "Number": 11694,
-      "OpenedBy": "jpilet",
-      "CreatedAt": "2022-07-14T12:58:51Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11694",
-      "LastCommitSHA": "545406af8efee347e8e6a9df7d7eed1bb484635e",
-      "LastCommitAt": "2022-07-29T10:43:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-07-25T09:55:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11694#pullrequestreview-1049169852"
          }
       }
    },
@@ -570,29 +572,6 @@
       }
    },
    {
-      "Number": 11947,
-      "OpenedBy": "staskau",
-      "CreatedAt": "2022-07-28T06:26:02Z",
-      "Recipe": "systemc-components",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11947",
-      "LastCommitSHA": "ca6049cc44fe300811e4c2872e1c7b6b34566c44",
-      "LastCommitAt": "2022-07-29T11:48:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-29T10:00:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11947#pullrequestreview-1055303027"
-         }
-      }
-   },
-   {
       "Number": 11957,
       "OpenedBy": "Anokhi1994",
       "CreatedAt": "2022-07-28T19:56:42Z",
@@ -651,7 +630,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11967",
       "LastCommitSHA": "a528dc7fc7c9a23621f381ae416cec00de419242",
       "LastCommitAt": "2022-07-29T11:47:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
