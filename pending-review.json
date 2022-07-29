@@ -312,32 +312,6 @@
       }
    },
    {
-      "Number": 11495,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-07-02T17:04:27Z",
-      "Recipe": "pangomm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11495",
-      "LastCommitSHA": "0f49b1f933c4a511541ec3513b5c688989699fbe",
-      "LastCommitAt": "2022-07-02T17:02:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-27T13:38:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11495#pullrequestreview-1052524506"
-         }
-      }
-   },
-   {
       "Number": 11536,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-07-04T16:41:32Z",
@@ -637,7 +611,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11967",
       "LastCommitSHA": "c1195890359a083ce16752d7b9381a0a1320ac55",
       "LastCommitAt": "2022-07-29T06:11:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
