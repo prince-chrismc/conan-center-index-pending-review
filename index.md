@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **27** pull requests currently under way :detective:
+There are **26** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -44,14 +44,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20|jgsogo|
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11853](https://github.com/conan-io/conan-center-index/pull/11853)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qt|2|Jul 22||
-[#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|0|||
 [#11932](https://github.com/conan-io/conan-center-index/pull/11932)|[szmyd](https://github.com/szmyd)|Jul 26|:new: forestdb|1|Jul 28||
 [#11939](https://github.com/conan-io/conan-center-index/pull/11939)|[vectorsli](https://github.com/vectorsli)|Jul 27|:memo: expat|1|Jul 28||uilianries
 [#11944](https://github.com/conan-io/conan-center-index/pull/11944)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 27|:memo: libevent|1|Jul 28||uilianries
-[#11945](https://github.com/conan-io/conan-center-index/pull/11945)|[madebr](https://github.com/madebr)|Jul 27|:memo: libtool|1|Jul 28||uilianries
 [#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:memo: libcurl|0|||
-[#11959](https://github.com/conan-io/conan-center-index/pull/11959)|[toge](https://github.com/toge)|Jul 29|:memo: libest|0|||
+[#11959](https://github.com/conan-io/conan-center-index/pull/11959)|[toge](https://github.com/toge)|Jul 29|:memo: libest|1|Jul 29||prince-chrismc
 [#11962](https://github.com/conan-io/conan-center-index/pull/11962)|[bshoshany](https://github.com/bshoshany)|Jul 29|:memo: bshoshany-thread-pool|0|||
+[#11967](https://github.com/conan-io/conan-center-index/pull/11967)|[toge](https://github.com/toge)|Jul 29|:stopwatch: minitrace|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -73,9 +72,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 167
+	- Open: 168
 	- Draft: 27
-	- Average Age: 85 days, 19 hours, and 41.44 minutes
+	- Average Age: 85 days, 8 hours, and 7.20 minutes
 - Labels:
 	- Stale: 13
 	- Failed: 84
