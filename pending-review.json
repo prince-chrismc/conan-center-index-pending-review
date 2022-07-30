@@ -545,31 +545,6 @@
       }
    },
    {
-      "Number": 11939,
-      "OpenedBy": "vectorsli",
-      "CreatedAt": "2022-07-27T15:02:38Z",
-      "Recipe": "expat",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11939",
-      "LastCommitSHA": "eecdbf5a2a90036dc6f8023e107658cb958fea29",
-      "LastCommitAt": "2022-07-27T15:01:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-28T10:28:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11939#pullrequestreview-1053856847"
-         }
-      }
-   },
-   {
       "Number": 11944,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-07-27T18:26:37Z",
