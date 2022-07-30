@@ -21,20 +21,13 @@
 
 ### :nerd_face: Please Review! 
 
-There are **26** pull requests currently under way :detective:
+There are **19** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
-[#9492](https://github.com/conan-io/conan-center-index/pull/9492)|[lasote](https://github.com/lasote)|Feb 23|:stopwatch: pybind11|0|:eyes:||
-[#9753](https://github.com/conan-io/conan-center-index/pull/9753)|[HerrNamenlos123](https://github.com/HerrNamenlos123)|Mar 13|:stopwatch: allegro5|22|Apr 13 :bell:||
-[#9824](https://github.com/conan-io/conan-center-index/pull/9824)|[ggulgulia](https://github.com/ggulgulia)|Mar 17|:stopwatch: ignition-plugin|0|:eyes:||
-[#10670](https://github.com/conan-io/conan-center-index/pull/10670)|[SpaceIm](https://github.com/SpaceIm)|May 6|:stopwatch: quantlib|0|:eyes:||
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
-[#10769](https://github.com/conan-io/conan-center-index/pull/10769)|[ruilvo](https://github.com/ruilvo)|May 12|:stopwatch: cpython|0|:eyes:||
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#10945](https://github.com/conan-io/conan-center-index/pull/10945)|[AntonHorbach](https://github.com/AntonHorbach)|May 25|:stopwatch: infoware|1|May 27 :bell:||
 [#11030](https://github.com/conan-io/conan-center-index/pull/11030)|[WilliamBehrens](https://github.com/WilliamBehrens)|Jun 2|:stopwatch: cppunit|0|:eyes:||
-[#11154](https://github.com/conan-io/conan-center-index/pull/11154)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jun 13|:stopwatch: sentry-native|1|Jun 19 :bell:||
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|8|Jul 25||
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:stopwatch: cpp_project_framework|0|:eyes:||
@@ -55,13 +48,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
-[#10838](https://github.com/conan-io/conan-center-index/pull/10838)|[sify21](https://github.com/sify21)|May 18|:warning: libigl|6|MartinDelille, ericLemanissier, AndreyMlashkin, uilianries, SSE4
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:warning: poppler|3|MartinDelille, SSE4
 
 
@@ -71,12 +63,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 168
-	- Draft: 26
-	- Average Age: 86 days, 12 hours, and 24.58 minutes
+	- Open: 162
+	- Draft: 25
+	- Average Age: 85 days, 7 hours, and 43.36 minutes
 - Labels:
-	- Stale: 12
-	- Failed: 86
+	- Stale: 27
+	- Failed: 84
 	- Blocked: 9
 	
 		
