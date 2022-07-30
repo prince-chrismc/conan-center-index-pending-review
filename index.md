@@ -49,7 +49,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11932](https://github.com/conan-io/conan-center-index/pull/11932)|[szmyd](https://github.com/szmyd)|Jul 26|:new: forestdb|3|Jul 29||uilianries
 [#11939](https://github.com/conan-io/conan-center-index/pull/11939)|[vectorsli](https://github.com/vectorsli)|Jul 27|:memo: expat|1|Jul 28||uilianries
 [#11944](https://github.com/conan-io/conan-center-index/pull/11944)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 27|:memo: libevent|1|Jul 28||uilianries
-[#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:memo: libcurl|1|Jul 29|uilianries|
+[#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:memo: libcurl|2|Jul 30|uilianries|ericLemanissier
 [#11962](https://github.com/conan-io/conan-center-index/pull/11962)|[bshoshany](https://github.com/bshoshany)|Jul 29|:memo: bshoshany-thread-pool|1|Jul 29||uilianries
 [#11967](https://github.com/conan-io/conan-center-index/pull/11967)|[toge](https://github.com/toge)|Jul 29|:new: minitrace|1|Jul 29||
 
@@ -74,9 +74,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 168
 	- Draft: 26
-	- Average Age: 86 days, 2 hours, and 43.02 minutes
+	- Average Age: 86 days, 9 hours, and 53.65 minutes
 - Labels:
-	- Stale: 13
+	- Stale: 12
 	- Failed: 85
 	- Blocked: 9
 	
