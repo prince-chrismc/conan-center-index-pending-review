@@ -153,9 +153,9 @@
       "Recipe": "cpp_project_framework",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11483",
-      "LastCommitSHA": "9c6ee91cda6cbc267a4d3fa7c3fd55054abef8c1",
-      "LastCommitAt": "2022-07-31T07:05:37Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "2b95e321876597d0c298d01ff92df01928154571",
+      "LastCommitAt": "2022-07-31T07:57:00Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -270,6 +270,24 @@
       "LastCommitSHA": "d3c3659408eb9b65820a5c9215716bdb492cb760",
       "LastCommitAt": "2022-07-16T13:50:54Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11851,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-07-22T07:47:53Z",
+      "Recipe": "qcoro",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11851",
+      "LastCommitSHA": "79f564c58843d0fb146e6c0b1586c285584cf8fd",
+      "LastCommitAt": "2022-07-31T08:09:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
