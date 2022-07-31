@@ -39,7 +39,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:memo: libcurl|3|Jul 31|uilianries|ericLemanissier
 [#11967](https://github.com/conan-io/conan-center-index/pull/11967)|[toge](https://github.com/toge)|Jul 29|:new: minitrace|1|Jul 29||
 [#11982](https://github.com/conan-io/conan-center-index/pull/11982)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 31|:green_book: docs|0|||
-[#11983](https://github.com/conan-io/conan-center-index/pull/11983)|[toge](https://github.com/toge)|Jul 31|:stopwatch: luau|0|||
+[#11983](https://github.com/conan-io/conan-center-index/pull/11983)|[toge](https://github.com/toge)|Jul 31|:memo: luau|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -61,7 +61,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 152
 	- Draft: 26
-	- Average Age: 83 days, 12 hours, and 56.16 minutes
+	- Average Age: 83 days, 13 hours, and 57.46 minutes
 - Labels:
 	- Stale: 20
 	- Failed: 76
