@@ -230,15 +230,17 @@
       "LastCommitAt": "2022-07-29T23:12:02Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-29T09:33:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11686#pullrequestreview-1055265838"
+            "SubmittedAt": "2022-08-01T07:36:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11686#pullrequestreview-1056864025"
          }
       }
    },
@@ -357,15 +359,17 @@
       "LastCommitAt": "2022-07-29T11:47:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-29T09:46:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11967#pullrequestreview-1055286491"
+            "SubmittedAt": "2022-08-01T07:21:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11967#pullrequestreview-1056847482"
          }
       }
    },
@@ -397,6 +401,24 @@
       "LastCommitSHA": "3948be4e327de9ec337ac610c0be7ecc0e4bb2da",
       "LastCommitAt": "2022-07-31T01:37:47Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11986,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-08-01T07:56:06Z",
+      "Recipe": "wayland",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11986",
+      "LastCommitSHA": "4bfc62c5361538a6d794686111971dd6aff124b3",
+      "LastCommitAt": "2022-08-01T08:08:25Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
