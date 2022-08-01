@@ -510,8 +510,26 @@
       "Recipe": "opentdf-client",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12002",
-      "LastCommitSHA": "f44d8ba78e44ded1dd243b8dfd5803b15311424b",
-      "LastCommitAt": "2022-08-01T19:04:57Z",
+      "LastCommitSHA": "828ea9ded7804c505ae509fafb37dabbd14f40c7",
+      "LastCommitAt": "2022-08-01T20:08:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12003,
+      "OpenedBy": "YaZasnyal",
+      "CreatedAt": "2022-08-01T20:07:58Z",
+      "Recipe": "opencore-amr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12003",
+      "LastCommitSHA": "ff954ba89c8593d1fbb9749730b4e089d3379a64",
+      "LastCommitAt": "2022-08-01T20:06:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
