@@ -417,17 +417,18 @@
       "LastCommitAt": "2022-08-01T08:08:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-08-01T09:25:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11986#pullrequestreview-1057003914"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-08-01T20:36:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11986#pullrequestreview-1057834767"
          }
       }
    },
@@ -468,14 +469,32 @@
       }
    },
    {
+      "Number": 11995,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-08-01T15:18:59Z",
+      "Recipe": "gsoap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11995",
+      "LastCommitSHA": "adc8e70ba95a1eada1bdd852be62b3ad703ea874",
+      "LastCommitAt": "2022-08-01T20:33:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 12000,
       "OpenedBy": "wolfee001",
       "CreatedAt": "2022-08-01T17:39:23Z",
       "Recipe": "polylineencoder",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12000",
-      "LastCommitSHA": "86ca79437ee21299432821c2981148613195d641",
-      "LastCommitAt": "2022-08-01T18:14:50Z",
+      "LastCommitSHA": "59e435e51622d15e6399afbc5aaeccf6d6e6a0aa",
+      "LastCommitAt": "2022-08-01T20:25:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -494,24 +513,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12001",
       "LastCommitSHA": "85a86e49bfac816dbba8e1340d4a1fd9286aef43",
       "LastCommitAt": "2022-08-01T17:42:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12002,
-      "OpenedBy": "patmantru",
-      "CreatedAt": "2022-08-01T19:07:56Z",
-      "Recipe": "opentdf-client",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12002",
-      "LastCommitSHA": "828ea9ded7804c505ae509fafb37dabbd14f40c7",
-      "LastCommitAt": "2022-08-01T20:08:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
