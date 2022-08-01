@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **22** pull requests currently under way :detective:
+There are **23** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,6 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12000](https://github.com/conan-io/conan-center-index/pull/12000)|[wolfee001](https://github.com/wolfee001)|Aug 1|:stopwatch: polylineencoder|0|||
 [#12001](https://github.com/conan-io/conan-center-index/pull/12001)|[toge](https://github.com/toge)|Aug 1|:stopwatch: opentelemetry-cpp|0|||
 [#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:stopwatch: opentdf-client|0|||
+[#12003](https://github.com/conan-io/conan-center-index/pull/12003)|[YaZasnyal](https://github.com/YaZasnyal)|Aug 1|:stopwatch: opencore-amr|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -66,9 +67,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 158
+	- Open: 159
 	- Draft: 26
-	- Average Age: 81 days, 10 hours, and 23.06 minutes
+	- Average Age: 80 days, 23 hours, and 12.69 minutes
 - Labels:
 	- Stale: 28
 	- Failed: 70
