@@ -32,28 +32,29 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:new: cpp_project_framework|1|Jul 31||
 [#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|11|Jul 28||uilianries
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
-[#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|17|Jul 20 :bell:|jgsogo|
+[#11656](https://github.com/conan-io/conan-center-index/pull/11656)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 12|:green_book: docs|18|Aug 1||jgsogo
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|2|Aug 1||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#11851](https://github.com/conan-io/conan-center-index/pull/11851)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qcoro|0|||
-[#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:stopwatch: libiconv|0|:eyes:||
+[#11851](https://github.com/conan-io/conan-center-index/pull/11851)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qcoro|1|Aug 1||uilianries
+[#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:stopwatch: libiconv|1|Aug 1||uilianries
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
-[#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:memo: libcurl|3|Jul 31|uilianries|ericLemanissier
-[#11967](https://github.com/conan-io/conan-center-index/pull/11967)|[toge](https://github.com/toge)|Jul 29|:new: minitrace|2|Aug 1||uilianries
+[#11947](https://github.com/conan-io/conan-center-index/pull/11947)|[staskau](https://github.com/staskau)|Jul 28|:stopwatch: systemc-components|2|Jul 29||
+[#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:memo: libcurl|4|Aug 1|uilianries|ericLemanissier
 [#11982](https://github.com/conan-io/conan-center-index/pull/11982)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 31|:green_book: docs|1|Aug 1||MartinDelille
-[#11983](https://github.com/conan-io/conan-center-index/pull/11983)|[toge](https://github.com/toge)|Jul 31|:memo: luau|0|||
-[#11986](https://github.com/conan-io/conan-center-index/pull/11986)|[uilianries](https://github.com/uilianries)|Aug 1|:memo: wayland|0|||
+[#11986](https://github.com/conan-io/conan-center-index/pull/11986)|[uilianries](https://github.com/uilianries)|Aug 1|:memo: wayland|1|Aug 1||ericLemanissier
+[#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:stopwatch: boost|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#11381](https://github.com/conan-io/conan-center-index/pull/11381)|[andiwand](https://github.com/andiwand)|Jun 26|:warning: poppler|3|MartinDelille, SSE4
+[#11967](https://github.com/conan-io/conan-center-index/pull/11967)|[toge](https://github.com/toge)|Jul 29|:new: minitrace|3|uilianries, jgsogo
 
 
 #### :clipboard: Statistics
@@ -62,12 +63,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 151
+	- Open: 150
 	- Draft: 26
-	- Average Age: 84 days, 20 hours, and 52.82 minutes
+	- Average Age: 85 days, 10 hours, and 37.32 minutes
 - Labels:
 	- Stale: 28
-	- Failed: 72
+	- Failed: 71
 	- Blocked: 9
 	
 		
