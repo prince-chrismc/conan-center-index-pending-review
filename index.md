@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **20** pull requests currently under way :detective:
+There are **19** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,7 +40,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11851](https://github.com/conan-io/conan-center-index/pull/11851)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qcoro|1|Aug 1||uilianries
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
-[#11947](https://github.com/conan-io/conan-center-index/pull/11947)|[staskau](https://github.com/staskau)|Jul 28|:stopwatch: systemc-components|2|Jul 29||
 [#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:memo: libcurl|4|Aug 1|uilianries|ericLemanissier
 [#11982](https://github.com/conan-io/conan-center-index/pull/11982)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 31|:green_book: docs|1|Aug 1||MartinDelille
 [#11986](https://github.com/conan-io/conan-center-index/pull/11986)|[uilianries](https://github.com/uilianries)|Aug 1|:memo: wayland|1|Aug 1||ericLemanissier
@@ -64,12 +63,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 151
+	- Open: 153
 	- Draft: 26
-	- Average Age: 84 days, 22 hours, and 44.73 minutes
+	- Average Age: 83 days, 21 hours, and 14.67 minutes
 - Labels:
 	- Stale: 28
-	- Failed: 69
+	- Failed: 70
 	- Blocked: 9
 	
 		
