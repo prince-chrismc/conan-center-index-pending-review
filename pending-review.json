@@ -287,9 +287,9 @@
       "Recipe": "libiconv",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11879",
-      "LastCommitSHA": "500074494897ae011bce3f094f250fea63c33039",
-      "LastCommitAt": "2022-08-01T06:16:26Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e0aae685e6849da78a1ac659831a37d543d5f9ae",
+      "LastCommitAt": "2022-07-23T11:18:00Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -384,11 +384,18 @@
       "LastCommitAt": "2022-07-31T02:50:37Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "MartinDelille"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2022-08-01T08:45:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11982#pullrequestreview-1056949206"
+         }
       }
    },
    {
@@ -418,7 +425,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11986",
       "LastCommitSHA": "4bfc62c5361538a6d794686111971dd6aff124b3",
       "LastCommitAt": "2022-08-01T08:08:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
