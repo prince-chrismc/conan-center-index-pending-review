@@ -382,6 +382,29 @@
       }
    },
    {
+      "Number": 11947,
+      "OpenedBy": "staskau",
+      "CreatedAt": "2022-07-28T06:26:02Z",
+      "Recipe": "systemc-components",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11947",
+      "LastCommitSHA": "ba6ca83131be0fb7ed6ae20db793185c745a6183",
+      "LastCommitAt": "2022-08-01T14:56:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-07-29T10:00:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11947#pullrequestreview-1055303027"
+         }
+      }
+   },
+   {
       "Number": 11957,
       "OpenedBy": "Anokhi1994",
       "CreatedAt": "2022-07-28T19:56:42Z",
@@ -467,6 +490,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11988",
       "LastCommitSHA": "7146efc6551912a8df1a35f3e58c15a7957d7b6f",
       "LastCommitAt": "2022-08-01T09:59:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11993,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-08-01T12:39:55Z",
+      "Recipe": "hazelcast-cpp-client",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11993",
+      "LastCommitSHA": "96dab6c721eb6adfd8e200231f703bebf46cf638",
+      "LastCommitAt": "2022-08-01T15:06:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 11995,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-08-01T15:18:59Z",
+      "Recipe": "gsoap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11995",
+      "LastCommitSHA": "fe10d2c7c4adc8a5407948a17203f10e5198d775",
+      "LastCommitAt": "2022-08-01T15:18:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
