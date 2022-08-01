@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|1|Jul 29||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11851](https://github.com/conan-io/conan-center-index/pull/11851)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qcoro|0|||
-[#11944](https://github.com/conan-io/conan-center-index/pull/11944)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 27|:memo: libevent|1|Jul 28||uilianries
+[#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:stopwatch: libiconv|0|||
 [#11957](https://github.com/conan-io/conan-center-index/pull/11957)|[Anokhi1994](https://github.com/Anokhi1994)|Jul 28|:memo: libcurl|3|Jul 31|uilianries|ericLemanissier
 [#11967](https://github.com/conan-io/conan-center-index/pull/11967)|[toge](https://github.com/toge)|Jul 29|:new: minitrace|1|Jul 29||
 [#11982](https://github.com/conan-io/conan-center-index/pull/11982)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 31|:green_book: docs|0|||
@@ -60,12 +60,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 150
+	- Open: 149
 	- Draft: 26
-	- Average Age: 85 days, 7 hours, and 44.07 minutes
+	- Average Age: 85 days, 21 hours, and 26.65 minutes
 - Labels:
 	- Stale: 28
-	- Failed: 73
+	- Failed: 72
 	- Blocked: 9
 	
 		
