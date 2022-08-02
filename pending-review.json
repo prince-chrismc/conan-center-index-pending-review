@@ -129,29 +129,6 @@
       }
    },
    {
-      "Number": 11483,
-      "OpenedBy": "sheepgrass",
-      "CreatedAt": "2022-07-02T07:15:26Z",
-      "Recipe": "cpp_project_framework",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11483",
-      "LastCommitSHA": "6e63c47bc3cdf931364f672e14b30bc97f85445b",
-      "LastCommitAt": "2022-08-02T09:19:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-02T08:27:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11483#pullrequestreview-1027228439"
-         }
-      }
-   },
-   {
       "Number": 11591,
       "OpenedBy": "DonOregano",
       "CreatedAt": "2022-07-07T12:57:33Z",
@@ -440,24 +417,6 @@
       "LastCommitSHA": "7146efc6551912a8df1a35f3e58c15a7957d7b6f",
       "LastCommitAt": "2022-08-01T09:59:44Z",
       "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12000,
-      "OpenedBy": "wolfee001",
-      "CreatedAt": "2022-08-01T17:39:23Z",
-      "Recipe": "polylineencoder",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12000",
-      "LastCommitSHA": "9e7d8354ecc72c493ed8b932c3e2a1cbc0a66fe7",
-      "LastCommitAt": "2022-08-02T07:55:24Z",
-      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
