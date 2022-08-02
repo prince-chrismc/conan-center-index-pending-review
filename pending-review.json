@@ -426,7 +426,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11995",
       "LastCommitSHA": "b63d3e2b2e456173c38cf2ca6e553b8c041be343",
       "LastCommitAt": "2022-08-02T16:17:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -444,7 +444,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12000",
       "LastCommitSHA": "d59558f2102e241a70b7991c222985095e511db7",
       "LastCommitAt": "2022-08-02T15:29:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -492,25 +492,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12013",
       "LastCommitSHA": "2103e642aedcdeb139be804c7a2ac0aa2e2a36d3",
       "LastCommitAt": "2022-08-02T18:40:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12014,
-      "OpenedBy": "patmantru",
-      "CreatedAt": "2022-08-02T18:20:56Z",
-      "Recipe": "opentdf-client",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12014",
-      "LastCommitSHA": "478a0cd4bdeeaa6fac264bf19c325a0f69a7a798",
-      "LastCommitAt": "2022-08-02T19:11:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
