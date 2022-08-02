@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|2|Aug 1||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|6|Jul 27||
-[#11850](https://github.com/conan-io/conan-center-index/pull/11850)|[jgsogo](https://github.com/jgsogo)|Jul 22|:stopwatch: grpc|2|Jul 22||
+[#11850](https://github.com/conan-io/conan-center-index/pull/11850)|[jgsogo](https://github.com/jgsogo)|Jul 22|:memo: grpc|2|Jul 22||
 [#11851](https://github.com/conan-io/conan-center-index/pull/11851)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qcoro|1|Aug 1||uilianries
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
@@ -67,10 +67,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 161
 	- Draft: 27
-	- Average Age: 80 days, 18 hours, and 6.04 minutes
+	- Average Age: 80 days, 19 hours, and 9.63 minutes
 - Labels:
 	- Stale: 28
-	- Failed: 73
+	- Failed: 72
 	- Blocked: 10
 	
 		
