@@ -296,15 +296,17 @@
       "LastCommitAt": "2022-08-02T07:04:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericLemanissier"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-07-22T10:31:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11850#pullrequestreview-1047718624"
+            "SubmittedAt": "2022-08-02T21:51:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11850#pullrequestreview-1059468043"
          }
       }
    },
@@ -451,17 +453,18 @@
       "LastCommitAt": "2022-08-02T09:27:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "wolfee001"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-08-02T15:51:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12007#pullrequestreview-1059012755"
+            "ReviewerName": "wolfee001",
+            "SubmittedAt": "2022-08-02T21:42:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12007#pullrequestreview-1059461261"
          }
       }
    },
@@ -476,11 +479,18 @@
       "LastCommitAt": "2022-08-02T18:40:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "wolfee001"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "wolfee001",
+            "SubmittedAt": "2022-08-02T21:42:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12013#pullrequestreview-1059460808"
+         }
       }
    }
 ]
