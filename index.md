@@ -41,7 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
 [#11986](https://github.com/conan-io/conan-center-index/pull/11986)|[uilianries](https://github.com/uilianries)|Aug 1|:memo: wayland|2|Aug 1||ericLemanissier, toge
-[#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:stopwatch: boost|0|||
+[#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|||
 [#12007](https://github.com/conan-io/conan-center-index/pull/12007)|[github-actions[bot]](https://github.com/github-actions[bot])|Aug 2|:green_book: docs|0|||
 
 
@@ -64,7 +64,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 160
 	- Draft: 27
-	- Average Age: 81 days, 1 hours, and 15.97 minutes
+	- Average Age: 81 days, 2 hours, and 38.16 minutes
 - Labels:
 	- Stale: 28
 	- Failed: 76
