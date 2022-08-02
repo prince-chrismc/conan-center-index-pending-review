@@ -405,29 +405,6 @@
       }
    },
    {
-      "Number": 11947,
-      "OpenedBy": "staskau",
-      "CreatedAt": "2022-07-28T06:26:02Z",
-      "Recipe": "systemc-components",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11947",
-      "LastCommitSHA": "c87d936fc7bc6a493be54ee2ab3f039d3b45e2ed",
-      "LastCommitAt": "2022-08-02T06:32:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-07-29T10:00:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11947#pullrequestreview-1055303027"
-         }
-      }
-   },
-   {
       "Number": 11982,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-07-31T02:51:39Z",
@@ -438,17 +415,18 @@
       "LastCommitAt": "2022-08-01T16:42:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-08-01T16:46:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11982#pullrequestreview-1057587062"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-02T07:51:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11982#pullrequestreview-1058280245"
          }
       }
    },
@@ -497,14 +475,32 @@
       }
    },
    {
-      "Number": 12005,
-      "OpenedBy": "vectorsli",
-      "CreatedAt": "2022-08-02T07:05:38Z",
-      "Recipe": "gtest",
+      "Number": 12000,
+      "OpenedBy": "wolfee001",
+      "CreatedAt": "2022-08-01T17:39:23Z",
+      "Recipe": "polylineencoder",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12005",
-      "LastCommitSHA": "c002a1191c3218b5287b670dc4463ec793a00256",
-      "LastCommitAt": "2022-08-02T07:03:59Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12000",
+      "LastCommitSHA": "9e7d8354ecc72c493ed8b932c3e2a1cbc0a66fe7",
+      "LastCommitAt": "2022-08-02T07:55:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12006,
+      "OpenedBy": "jcar87",
+      "CreatedAt": "2022-08-02T08:14:18Z",
+      "Recipe": "zlib-ng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12006",
+      "LastCommitSHA": "7e33ce3abc1d3a34301361ed0be1dd6154318cc6",
+      "LastCommitAt": "2022-08-02T08:16:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
