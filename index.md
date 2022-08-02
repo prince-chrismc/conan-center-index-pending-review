@@ -36,15 +36,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|2|Aug 1||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|6|Jul 27||
-[#11850](https://github.com/conan-io/conan-center-index/pull/11850)|[jgsogo](https://github.com/jgsogo)|Jul 22|:memo: grpc|2|Jul 22||
+[#11850](https://github.com/conan-io/conan-center-index/pull/11850)|[jgsogo](https://github.com/jgsogo)|Jul 22|:memo: grpc|3|Aug 2||ericLemanissier
 [#11851](https://github.com/conan-io/conan-center-index/pull/11851)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qcoro|1|Aug 1||uilianries
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|||
 [#11995](https://github.com/conan-io/conan-center-index/pull/11995)|[toge](https://github.com/toge)|Aug 1|:memo: gsoap|0|||
 [#12000](https://github.com/conan-io/conan-center-index/pull/12000)|[wolfee001](https://github.com/wolfee001)|Aug 1|:memo: polylineencoder|3|Aug 2||
-[#12007](https://github.com/conan-io/conan-center-index/pull/12007)|[github-actions[bot]](https://github.com/github-actions[bot])|Aug 2|:green_book: docs|1|Aug 2||prince-chrismc
-[#12013](https://github.com/conan-io/conan-center-index/pull/12013)|[szmyd](https://github.com/szmyd)|Aug 2|:memo: userspace-rcu|0|||
+[#12007](https://github.com/conan-io/conan-center-index/pull/12007)|[github-actions[bot]](https://github.com/github-actions[bot])|Aug 2|:green_book: docs|2|Aug 2||prince-chrismc, wolfee001
+[#12013](https://github.com/conan-io/conan-center-index/pull/12013)|[szmyd](https://github.com/szmyd)|Aug 2|:memo: userspace-rcu|1|Aug 2||wolfee001
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -66,7 +66,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 162
 	- Draft: 27
-	- Average Age: 80 days, 8 hours, and 25.44 minutes
+	- Average Age: 80 days, 9 hours, and 28.26 minutes
 - Labels:
 	- Stale: 28
 	- Failed: 74
