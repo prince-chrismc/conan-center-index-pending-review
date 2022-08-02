@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **20** pull requests currently under way :detective:
+There are **18** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -29,7 +29,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|8|Jul 25||
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
-[#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:new: cpp_project_framework|7|Aug 1||
 [#11591](https://github.com/conan-io/conan-center-index/pull/11591)|[DonOregano](https://github.com/DonOregano)|Jul 7|:memo: qcustomplot|4|Jul 11 :bell:||
 [#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|11|Jul 28||uilianries
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|:eyes:||
@@ -44,7 +43,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11986](https://github.com/conan-io/conan-center-index/pull/11986)|[uilianries](https://github.com/uilianries)|Aug 1|:memo: wayland|2|Aug 1||ericLemanissier, toge
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:stopwatch: boost|0|||
 [#12000](https://github.com/conan-io/conan-center-index/pull/12000)|[wolfee001](https://github.com/wolfee001)|Aug 1|:stopwatch: polylineencoder|0|||
-[#12006](https://github.com/conan-io/conan-center-index/pull/12006)|[jcar87](https://github.com/jcar87)|Aug 2|:stopwatch: zlib-ng|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -67,10 +65,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 158
 	- Draft: 27
-	- Average Age: 81 days, 23 hours, and 20.25 minutes
+	- Average Age: 82 days, and 14.66 minutes
 - Labels:
 	- Stale: 28
-	- Failed: 72
+	- Failed: 74
 	- Blocked: 9
 	
 		
