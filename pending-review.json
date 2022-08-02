@@ -319,7 +319,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11879",
       "LastCommitSHA": "e0aae685e6849da78a1ac659831a37d543d5f9ae",
       "LastCommitAt": "2022-07-23T11:18:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -428,32 +428,14 @@
       }
    },
    {
-      "Number": 11995,
+      "Number": 11993,
       "OpenedBy": "toge",
-      "CreatedAt": "2022-08-01T15:18:59Z",
-      "Recipe": "gsoap",
+      "CreatedAt": "2022-08-01T12:39:55Z",
+      "Recipe": "hazelcast-cpp-client",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11995",
-      "LastCommitSHA": "adc8e70ba95a1eada1bdd852be62b3ad703ea874",
-      "LastCommitAt": "2022-08-01T20:33:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12000,
-      "OpenedBy": "wolfee001",
-      "CreatedAt": "2022-08-01T17:39:23Z",
-      "Recipe": "polylineencoder",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12000",
-      "LastCommitSHA": "59e435e51622d15e6399afbc5aaeccf6d6e6a0aa",
-      "LastCommitAt": "2022-08-01T20:25:18Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11993",
+      "LastCommitSHA": "0da19581acf6375d9cbeb9c6afeab19b38d0931e",
+      "LastCommitAt": "2022-08-02T02:41:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
