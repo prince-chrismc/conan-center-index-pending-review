@@ -137,7 +137,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11591",
       "LastCommitSHA": "a80b85dc6126ce4710f25c8f3d37d48ef30a73cc",
       "LastCommitAt": "2022-07-16T12:05:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -286,29 +286,6 @@
       }
    },
    {
-      "Number": 11850,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-07-22T07:38:16Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11850",
-      "LastCommitSHA": "d48a27bd2935df41db7904e886f829b4da90dfcc",
-      "LastCommitAt": "2022-08-01T10:58:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-07-22T10:31:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11850#pullrequestreview-1047718624"
-         }
-      }
-   },
-   {
       "Number": 11851,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-07-22T07:47:53Z",
@@ -451,24 +428,6 @@
       }
    },
    {
-      "Number": 11993,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-08-01T12:39:55Z",
-      "Recipe": "hazelcast-cpp-client",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11993",
-      "LastCommitSHA": "96dab6c721eb6adfd8e200231f703bebf46cf638",
-      "LastCommitAt": "2022-08-01T15:06:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11995,
       "OpenedBy": "toge",
       "CreatedAt": "2022-08-01T15:18:59Z",
@@ -495,24 +454,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12000",
       "LastCommitSHA": "59e435e51622d15e6399afbc5aaeccf6d6e6a0aa",
       "LastCommitAt": "2022-08-01T20:25:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12003,
-      "OpenedBy": "YaZasnyal",
-      "CreatedAt": "2022-08-01T20:07:58Z",
-      "Recipe": "opencore-amr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12003",
-      "LastCommitSHA": "ff954ba89c8593d1fbb9749730b4e089d3379a64",
-      "LastCommitAt": "2022-08-01T20:06:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
