@@ -41,7 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|||
-[#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:stopwatch: hazelcast-cpp-client|0|||
+[#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|||
 [#11995](https://github.com/conan-io/conan-center-index/pull/11995)|[toge](https://github.com/toge)|Aug 1|:memo: gsoap|0|||
 [#12000](https://github.com/conan-io/conan-center-index/pull/12000)|[wolfee001](https://github.com/wolfee001)|Aug 1|:memo: polylineencoder|3|Aug 2||
 [#12007](https://github.com/conan-io/conan-center-index/pull/12007)|[github-actions[bot]](https://github.com/github-actions[bot])|Aug 2|:green_book: docs|2|Aug 2||prince-chrismc, wolfee001
@@ -65,9 +65,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 163
+	- Open: 162
 	- Draft: 27
-	- Average Age: 80 days, and 38.00 minutes
+	- Average Age: 80 days, 15 hours, and 2.42 minutes
 - Labels:
 	- Stale: 28
 	- Failed: 73
