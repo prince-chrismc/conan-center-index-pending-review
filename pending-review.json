@@ -570,6 +570,52 @@
       }
    },
    {
+      "Number": 12015,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2022-08-02T20:30:04Z",
+      "Recipe": "asn1c",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12015",
+      "LastCommitSHA": "1ce77b763d7b22feab2d71644750d6de13f01eb5",
+      "LastCommitAt": "2022-08-03T20:29:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-03T13:36:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12015#pullrequestreview-1060308528"
+         }
+      }
+   },
+   {
+      "Number": 12022,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-03T07:59:04Z",
+      "Recipe": "librdkafka",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12022",
+      "LastCommitSHA": "78befd33fcd9b8672228e26b2564bb7ce27549b7",
+      "LastCommitAt": "2022-08-03T21:11:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-03T13:46:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12022#pullrequestreview-1060336273"
+         }
+      }
+   },
+   {
       "Number": 12024,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-08-03T11:02:51Z",
@@ -594,16 +640,14 @@
       "Recipe": "entt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12025",
-      "LastCommitSHA": "e323d7bcd138156a442289b404ece9008a3d0f68",
-      "LastCommitAt": "2022-08-03T11:52:21Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a6a2341a67fe478e8d67c92f04be5af69c0949c8",
+      "LastCommitAt": "2022-08-03T20:38:08Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
