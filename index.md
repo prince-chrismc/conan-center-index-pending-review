@@ -21,10 +21,11 @@
 
 ### :nerd_face: Please Review! 
 
-There are **26** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
+[#10677](https://github.com/conan-io/conan-center-index/pull/10677)|[bemehiser](https://github.com/bemehiser)|May 6|:stopwatch: protobuf-c|6|Aug 3||gegles
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|8|Jul 25||
@@ -37,12 +38,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|6|Jul 27||
 [#11851](https://github.com/conan-io/conan-center-index/pull/11851)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qcoro|1|Aug 1||uilianries
+[#11877](https://github.com/conan-io/conan-center-index/pull/11877)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:stopwatch: marisa|1|Jul 25||
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
 [#11913](https://github.com/conan-io/conan-center-index/pull/11913)|[leha-bot](https://github.com/leha-bot)|Jul 25|:stopwatch: mdspan|0|||
-[#11973](https://github.com/conan-io/conan-center-index/pull/11973)|[paulocoutinhox](https://github.com/paulocoutinhox)|Jul 29|:memo: sdl_mixer|1|Aug 3||uilianries
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|||
+[#11994](https://github.com/conan-io/conan-center-index/pull/11994)|[syoliver](https://github.com/syoliver)|Aug 1|:stopwatch: hexl|3|Aug 3||uilianries
 [#11995](https://github.com/conan-io/conan-center-index/pull/11995)|[toge](https://github.com/toge)|Aug 1|:memo: gsoap|1|Aug 3||uilianries
 [#12000](https://github.com/conan-io/conan-center-index/pull/12000)|[wolfee001](https://github.com/wolfee001)|Aug 1|:memo: polylineencoder|4|Aug 3||uilianries
 [#12013](https://github.com/conan-io/conan-center-index/pull/12013)|[szmyd](https://github.com/szmyd)|Aug 2|:memo: userspace-rcu|1|Aug 2||wolfee001
@@ -73,10 +75,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 167
 	- Draft: 26
-	- Average Age: 78 days, 12 hours, and 19.83 minutes
+	- Average Age: 78 days, 12 hours, and 42.14 minutes
 - Labels:
-	- Stale: 28
-	- Failed: 72
+	- Stale: 27
+	- Failed: 71
 	- Blocked: 10
 	
 		
