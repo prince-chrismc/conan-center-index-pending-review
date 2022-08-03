@@ -402,6 +402,24 @@
       }
    },
    {
+      "Number": 11993,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-08-01T12:39:55Z",
+      "Recipe": "hazelcast-cpp-client",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11993",
+      "LastCommitSHA": "9ccef88bd16907fc3458f483a89af559351ff224",
+      "LastCommitAt": "2022-08-03T00:13:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11995,
       "OpenedBy": "toge",
       "CreatedAt": "2022-08-01T15:18:59Z",
