@@ -45,12 +45,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|||
 [#11994](https://github.com/conan-io/conan-center-index/pull/11994)|[syoliver](https://github.com/syoliver)|Aug 1|:new: hexl|3|Aug 3||uilianries
 [#11995](https://github.com/conan-io/conan-center-index/pull/11995)|[toge](https://github.com/toge)|Aug 1|:memo: gsoap|1|Aug 3||uilianries
-[#12000](https://github.com/conan-io/conan-center-index/pull/12000)|[wolfee001](https://github.com/wolfee001)|Aug 1|:memo: polylineencoder|4|Aug 3||uilianries
+[#12000](https://github.com/conan-io/conan-center-index/pull/12000)|[wolfee001](https://github.com/wolfee001)|Aug 1|:stopwatch: polylineencoder|4|Aug 3||uilianries
 [#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:stopwatch: opentdf-client|0|||
 [#12013](https://github.com/conan-io/conan-center-index/pull/12013)|[szmyd](https://github.com/szmyd)|Aug 2|:memo: userspace-rcu|1|Aug 2||wolfee001
 [#12024](https://github.com/conan-io/conan-center-index/pull/12024)|[uilianries](https://github.com/uilianries)|Aug 3|:stopwatch: boost|0|||
 [#12025](https://github.com/conan-io/conan-center-index/pull/12025)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: entt|1|Aug 3||uilianries
-[#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: glfw|0|||
+[#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: glfw|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -71,9 +71,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 168
+	- Open: 167
 	- Draft: 26
-	- Average Age: 78 days, 3 hours, and 23.86 minutes
+	- Average Age: 78 days, 15 hours, and 30.27 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 75
