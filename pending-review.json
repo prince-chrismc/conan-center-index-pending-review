@@ -501,7 +501,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12000",
       "LastCommitSHA": "d59558f2102e241a70b7991c222985095e511db7",
       "LastCommitAt": "2022-08-02T15:29:50Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
@@ -524,8 +524,8 @@
       "Recipe": "opentdf-client",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12002",
-      "LastCommitSHA": "b65fed62563d2687b42738ebbd845b3b9b3b22be",
-      "LastCommitAt": "2022-08-03T18:05:07Z",
+      "LastCommitSHA": "3abde09883fdf9607841cbefa494e7b1bc5c8359",
+      "LastCommitAt": "2022-08-03T18:56:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -639,7 +639,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12030",
       "LastCommitSHA": "2407c866a1632a9de6c801b765c42c452a1b130f",
       "LastCommitAt": "2022-08-03T17:31:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
