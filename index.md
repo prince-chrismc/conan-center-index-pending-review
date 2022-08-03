@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **21** pull requests currently under way :detective:
+There are **22** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,6 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11851](https://github.com/conan-io/conan-center-index/pull/11851)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 22|:memo: qcoro|1|Aug 1||uilianries
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
+[#11973](https://github.com/conan-io/conan-center-index/pull/11973)|[paulocoutinhox](https://github.com/paulocoutinhox)|Jul 29|:stopwatch: sdl_mixer|0|:eyes:||
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|||
 [#11995](https://github.com/conan-io/conan-center-index/pull/11995)|[toge](https://github.com/toge)|Aug 1|:memo: gsoap|0|||
@@ -67,7 +68,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 162
 	- Draft: 27
-	- Average Age: 80 days, 15 hours, and 2.42 minutes
+	- Average Age: 80 days, 16 hours, and 10.26 minutes
 - Labels:
 	- Stale: 28
 	- Failed: 73
