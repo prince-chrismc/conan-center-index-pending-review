@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **26** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,8 +47,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11995](https://github.com/conan-io/conan-center-index/pull/11995)|[toge](https://github.com/toge)|Aug 1|:memo: gsoap|1|Aug 3||uilianries
 [#12000](https://github.com/conan-io/conan-center-index/pull/12000)|[wolfee001](https://github.com/wolfee001)|Aug 1|:stopwatch: polylineencoder|4|Aug 3||uilianries
 [#12013](https://github.com/conan-io/conan-center-index/pull/12013)|[szmyd](https://github.com/szmyd)|Aug 2|:memo: userspace-rcu|1|Aug 2||wolfee001
+[#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:stopwatch: asn1c|1|Aug 3||
+[#12022](https://github.com/conan-io/conan-center-index/pull/12022)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: librdkafka|1|Aug 3||
 [#12024](https://github.com/conan-io/conan-center-index/pull/12024)|[uilianries](https://github.com/uilianries)|Aug 3|:stopwatch: boost|0|||
-[#12025](https://github.com/conan-io/conan-center-index/pull/12025)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: entt|1|Aug 3||uilianries
+[#12025](https://github.com/conan-io/conan-center-index/pull/12025)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: entt|1|Aug 3||
 [#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: glfw|0|||
 [#12037](https://github.com/conan-io/conan-center-index/pull/12037)|[bshoshany](https://github.com/bshoshany)|Aug 3|:stopwatch: bshoshany-thread-pool|0|||
 
@@ -73,10 +75,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 168
 	- Draft: 26
-	- Average Age: 78 days, 5 hours, and 20.00 minutes
+	- Average Age: 78 days, 6 hours, and 17.34 minutes
 - Labels:
 	- Stale: 27
-	- Failed: 76
+	- Failed: 74
 	- Blocked: 10
 	
 		
