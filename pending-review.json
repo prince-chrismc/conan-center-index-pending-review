@@ -429,7 +429,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12002",
       "LastCommitSHA": "bffbf9ea699e2c205cb5113f238fa434f39da327",
       "LastCommitAt": "2022-08-04T18:21:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -564,7 +564,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12037",
       "LastCommitSHA": "790869451e1445e1fd9f69bda0cc510d47594103",
       "LastCommitAt": "2022-08-04T15:35:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
