@@ -562,9 +562,9 @@
       "Recipe": "bshoshany-thread-pool",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12037",
-      "LastCommitSHA": "bfe1b89610326ef52e221e3a09a0dc2a5eaaf7f1",
-      "LastCommitAt": "2022-08-03T19:28:59Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "790869451e1445e1fd9f69bda0cc510d47594103",
+      "LastCommitAt": "2022-08-04T15:35:07Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -671,6 +671,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12050",
       "LastCommitSHA": "045020a6fac762255e7fc1b2daddb18de8c1cb05",
       "LastCommitAt": "2022-08-04T15:00:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12055,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-08-04T16:08:20Z",
+      "Recipe": "sentry-native",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12055",
+      "LastCommitSHA": "42afa996c431fc14b033a601f406c8faf26160dd",
+      "LastCommitAt": "2022-08-04T14:46:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
