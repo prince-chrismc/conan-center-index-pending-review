@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **29** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -50,8 +50,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12024](https://github.com/conan-io/conan-center-index/pull/12024)|[uilianries](https://github.com/uilianries)|Aug 3|:stopwatch: boost|0|||
 [#12025](https://github.com/conan-io/conan-center-index/pull/12025)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: entt|1|Aug 3||
 [#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: glfw|0|||
-[#12033](https://github.com/conan-io/conan-center-index/pull/12033)|[MartinDelille](https://github.com/MartinDelille)|Aug 3|:stopwatch: ffmpeg|0|||
-[#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:stopwatch: dacap-clip|0|||
 [#12037](https://github.com/conan-io/conan-center-index/pull/12037)|[bshoshany](https://github.com/bshoshany)|Aug 3|:memo: bshoshany-thread-pool|0|||
 [#12039](https://github.com/conan-io/conan-center-index/pull/12039)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:memo: kmod|0|||
 
@@ -76,10 +74,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 166
 	- Draft: 26
-	- Average Age: 79 days, 8 hours, and 17.02 minutes
+	- Average Age: 79 days, 8 hours, and 34.62 minutes
 - Labels:
 	- Stale: 27
-	- Failed: 71
+	- Failed: 73
 	- Blocked: 10
 	
 		
