@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,7 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|4|Jul 31||
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|:eyes:||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|||
-[#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:stopwatch: opentdf-client|2|Aug 4||
+[#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:memo: opentdf-client|2|Aug 4||
 [#12013](https://github.com/conan-io/conan-center-index/pull/12013)|[szmyd](https://github.com/szmyd)|Aug 2|:memo: userspace-rcu|2|Aug 4||wolfee001, SSE4
 [#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: flecs|0|||
 [#12022](https://github.com/conan-io/conan-center-index/pull/12022)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: librdkafka|2|Aug 4||
@@ -52,7 +52,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12047](https://github.com/conan-io/conan-center-index/pull/12047)|[Bigpet](https://github.com/Bigpet)|Aug 4|:stopwatch: android-ndk|1|Aug 4||
 [#12049](https://github.com/conan-io/conan-center-index/pull/12049)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:stopwatch: aaplus|0|||
 [#12050](https://github.com/conan-io/conan-center-index/pull/12050)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:memo: kmod|0|||
-[#12055](https://github.com/conan-io/conan-center-index/pull/12055)|[MartinDelille](https://github.com/MartinDelille)|Aug 4|:stopwatch: sentry-native|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -76,10 +75,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 165
 	- Draft: 26
-	- Average Age: 80 days, 2 hours, and 14.92 minutes
+	- Average Age: 80 days, 3 hours, and 14.42 minutes
 - Labels:
 	- Stale: 27
-	- Failed: 70
+	- Failed: 71
 	- Blocked: 10
 	
 		
