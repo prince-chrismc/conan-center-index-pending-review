@@ -52,7 +52,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12046](https://github.com/conan-io/conan-center-index/pull/12046)|[MartinDelille](https://github.com/MartinDelille)|Aug 4|:memo: libx264|1|Aug 4||
 [#12047](https://github.com/conan-io/conan-center-index/pull/12047)|[Bigpet](https://github.com/Bigpet)|Aug 4|:memo: android-ndk|1|Aug 4||
 [#12049](https://github.com/conan-io/conan-center-index/pull/12049)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:stopwatch: aaplus|0|||
-[#12050](https://github.com/conan-io/conan-center-index/pull/12050)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:memo: kmod|0|||
+[#12050](https://github.com/conan-io/conan-center-index/pull/12050)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:stopwatch: kmod|0|||
 [#12057](https://github.com/conan-io/conan-center-index/pull/12057)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:stopwatch: alac|0|||
 
 
@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 166
 	- Draft: 26
-	- Average Age: 79 days, 19 hours, and 11.44 minutes
+	- Average Age: 79 days, 20 hours, and 12.57 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 70
