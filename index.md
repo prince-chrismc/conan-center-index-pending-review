@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **27** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,12 +46,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: flecs|0|||
 [#12022](https://github.com/conan-io/conan-center-index/pull/12022)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: librdkafka|2|Aug 4||
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|0|||
-[#12037](https://github.com/conan-io/conan-center-index/pull/12037)|[bshoshany](https://github.com/bshoshany)|Aug 3|:memo: bshoshany-thread-pool|0|||
+[#12037](https://github.com/conan-io/conan-center-index/pull/12037)|[bshoshany](https://github.com/bshoshany)|Aug 3|:stopwatch: bshoshany-thread-pool|0|||
 [#12041](https://github.com/conan-io/conan-center-index/pull/12041)|[tuduongquyet](https://github.com/tuduongquyet)|Aug 4|:memo: sqlite3|3|Aug 4||prince-chrismc
 [#12046](https://github.com/conan-io/conan-center-index/pull/12046)|[MartinDelille](https://github.com/MartinDelille)|Aug 4|:stopwatch: libx264|1|Aug 4||
 [#12047](https://github.com/conan-io/conan-center-index/pull/12047)|[Bigpet](https://github.com/Bigpet)|Aug 4|:stopwatch: android-ndk|1|Aug 4||
 [#12049](https://github.com/conan-io/conan-center-index/pull/12049)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:stopwatch: aaplus|0|||
-[#12050](https://github.com/conan-io/conan-center-index/pull/12050)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:stopwatch: kmod|0|||
+[#12050](https://github.com/conan-io/conan-center-index/pull/12050)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:memo: kmod|0|||
+[#12055](https://github.com/conan-io/conan-center-index/pull/12055)|[MartinDelille](https://github.com/MartinDelille)|Aug 4|:stopwatch: sentry-native|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -75,7 +76,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 165
 	- Draft: 26
-	- Average Age: 80 days, 1 hours, and 11.71 minutes
+	- Average Age: 80 days, 2 hours, and 14.92 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 70
