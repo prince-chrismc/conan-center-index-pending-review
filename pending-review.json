@@ -296,7 +296,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11802",
       "LastCommitSHA": "e2af63e7d0e24413886525f605ac6f2402571b1e",
       "LastCommitAt": "2022-08-04T00:48:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -546,7 +546,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12022",
       "LastCommitSHA": "f452bcc0fb4c62672ff239916fa6ed4c6fd739eb",
       "LastCommitAt": "2022-08-03T23:22:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -587,7 +587,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12025",
       "LastCommitSHA": "5c14efad7e71f3fb72d8f734ad9130d31ee9645d",
       "LastCommitAt": "2022-08-03T23:40:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -611,24 +611,6 @@
       "LastCommitSHA": "fffe637caa3c9efa8586965dbd5359144558cb19",
       "LastCommitAt": "2022-08-03T23:28:35Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12034,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-08-03T17:46:34Z",
-      "Recipe": "dacap-clip",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12034",
-      "LastCommitSHA": "dfacc5b3375af127db71a48d82157c7946725b35",
-      "LastCommitAt": "2022-08-04T02:48:19Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
