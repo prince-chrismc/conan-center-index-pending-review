@@ -620,42 +620,6 @@
       }
    },
    {
-      "Number": 12033,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2022-08-03T16:22:47Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12033",
-      "LastCommitSHA": "85ae99e1ee52a3a92b27dc6242f9bda5d588b882",
-      "LastCommitAt": "2022-08-03T22:20:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12034,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-08-03T17:46:34Z",
-      "Recipe": "dacap-clip",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12034",
-      "LastCommitSHA": "3a728c6c9ce0c1d3c8523bce7d1b2ee272929f6f",
-      "LastCommitAt": "2022-08-03T23:52:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 12037,
       "OpenedBy": "bshoshany",
       "CreatedAt": "2022-08-03T19:32:34Z",
