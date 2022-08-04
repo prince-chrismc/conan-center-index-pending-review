@@ -421,6 +421,29 @@
       }
    },
    {
+      "Number": 12002,
+      "OpenedBy": "patmantru",
+      "CreatedAt": "2022-08-01T19:07:56Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12002",
+      "LastCommitSHA": "bffbf9ea699e2c205cb5113f238fa434f39da327",
+      "LastCommitAt": "2022-08-04T18:21:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-04T08:34:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12002#pullrequestreview-1061498077"
+         }
+      }
+   },
+   {
       "Number": 12007,
       "OpenedBy": "github-actions[bot]",
       "CreatedAt": "2022-08-02T09:27:46Z",
@@ -584,7 +607,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12046",
       "LastCommitSHA": "4217e35887d7759348f33aceae5a16262604341e",
       "LastCommitAt": "2022-08-04T14:02:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -619,6 +642,24 @@
             "SubmittedAt": "2022-08-04T10:35:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12047#pullrequestreview-1061672284"
          }
+      }
+   },
+   {
+      "Number": 12049,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-04T12:29:33Z",
+      "Recipe": "aaplus",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12049",
+      "LastCommitSHA": "1d888c9c18f9451bca85b395dcead9f4c2af6eab",
+      "LastCommitAt": "2022-08-04T19:03:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
