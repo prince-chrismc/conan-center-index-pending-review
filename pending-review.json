@@ -503,8 +503,8 @@
       "Recipe": "flecs",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12021",
-      "LastCommitSHA": "c630290ef13b743781eb5497572e5d0c591c79e3",
-      "LastCommitAt": "2022-08-04T15:02:47Z",
+      "LastCommitSHA": "3812e17b252cda0e3f8b538af1595efdd0f01d26",
+      "LastCommitAt": "2022-08-04T21:07:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -521,8 +521,8 @@
       "Recipe": "librdkafka",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12022",
-      "LastCommitSHA": "c15379cd5050c36b98545934c113fd94a578f56e",
-      "LastCommitAt": "2022-08-04T15:02:22Z",
+      "LastCommitSHA": "ca8b9a16de58351d586e3f448529753f65a2fa08",
+      "LastCommitAt": "2022-08-04T21:10:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -535,6 +535,24 @@
             "SubmittedAt": "2022-08-04T05:32:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12022#pullrequestreview-1061298979"
          }
+      }
+   },
+   {
+      "Number": 12030,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-03T15:14:29Z",
+      "Recipe": "glfw",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12030",
+      "LastCommitSHA": "1a985e73da799d4890a5a4b2921f982496f035ba",
+      "LastCommitAt": "2022-08-04T21:09:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -630,7 +648,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12047",
       "LastCommitSHA": "9ed5dd036339bf815c1a2c032096031a947229e8",
       "LastCommitAt": "2022-08-04T11:54:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -651,8 +669,8 @@
       "Recipe": "aaplus",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12049",
-      "LastCommitSHA": "1d888c9c18f9451bca85b395dcead9f4c2af6eab",
-      "LastCommitAt": "2022-08-04T19:03:52Z",
+      "LastCommitSHA": "8e5811eb6c39bcc00495e60110b0779c1e7c7f1a",
+      "LastCommitAt": "2022-08-04T21:06:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -672,6 +690,24 @@
       "LastCommitSHA": "045020a6fac762255e7fc1b2daddb18de8c1cb05",
       "LastCommitAt": "2022-08-04T15:00:58Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12057,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-04T21:03:52Z",
+      "Recipe": "alac",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12057",
+      "LastCommitSHA": "be929c1624acfc38f3c5b4148cbda34bab61c6ff",
+      "LastCommitAt": "2022-08-04T21:05:35Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
