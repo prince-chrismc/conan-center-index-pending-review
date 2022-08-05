@@ -549,17 +549,18 @@
       "LastCommitAt": "2022-08-04T22:10:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-08-05T06:51:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12021#pullrequestreview-1062917990"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-05T09:13:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12021#pullrequestreview-1063081923"
          }
       }
    },
@@ -792,23 +793,38 @@
       "Recipe": "expat",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12059",
-      "LastCommitSHA": "21bf380103e15b269b55178ee666ebae132a2b22",
-      "LastCommitAt": "2022-08-05T00:38:30Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "586d1cfaf0a7241c28d5434c11bcc5fc2ca603a9",
+      "LastCommitAt": "2022-08-05T08:32:08Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "jgsogo"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jgsogo",
             "SubmittedAt": "2022-08-05T07:54:11Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12059#pullrequestreview-1062985290"
          }
+      }
+   },
+   {
+      "Number": 12063,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-05T09:15:08Z",
+      "Recipe": "assimp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12063",
+      "LastCommitSHA": "bd1bab77398147604a5086b85e42bd13061ecd13",
+      "LastCommitAt": "2022-08-04T22:07:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
