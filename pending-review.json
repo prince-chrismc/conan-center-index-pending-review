@@ -505,7 +505,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12021",
       "LastCommitSHA": "a18bde321d6ac8124769daa7c34eddceaf99180d",
       "LastCommitAt": "2022-08-04T22:10:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -523,7 +523,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12022",
       "LastCommitSHA": "1b94cc518d75220caabf9fcd0883f6bf21bce96f",
       "LastCommitAt": "2022-08-04T22:11:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -653,7 +653,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12049",
       "LastCommitSHA": "569be155d86998db0a4957ea2342155bf2f9a80b",
       "LastCommitAt": "2022-08-04T22:09:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -690,6 +690,42 @@
       "LastCommitSHA": "be929c1624acfc38f3c5b4148cbda34bab61c6ff",
       "LastCommitAt": "2022-08-04T21:05:35Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12058,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2022-08-04T23:32:36Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12058",
+      "LastCommitSHA": "1b53f6c4a4c9127229a75519658d9f6e301b5d03",
+      "LastCommitAt": "2022-08-04T23:32:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12059,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-05T00:36:24Z",
+      "Recipe": "expat",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12059",
+      "LastCommitSHA": "21bf380103e15b269b55178ee666ebae132a2b22",
+      "LastCommitAt": "2022-08-05T00:38:30Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
