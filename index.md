@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **39** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,7 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|8|Jul 25||
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
 [#11591](https://github.com/conan-io/conan-center-index/pull/11591)|[DonOregano](https://github.com/DonOregano)|Jul 7|:memo: qcustomplot|4|Jul 11 :bell:||
-[#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:stopwatch: onedpl|0|||
+[#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|0|||
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|2|Aug 1||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11827](https://github.com/conan-io/conan-center-index/pull/11827)|[jgsogo](https://github.com/jgsogo)|Jul 20|:memo: grpc-proto|0|||
@@ -42,9 +42,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11981](https://github.com/conan-io/conan-center-index/pull/11981)|[uilianries](https://github.com/uilianries)|Jul 30|:memo: spdlog|4|Aug 5||
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|:eyes:||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|||
-[#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:stopwatch: opentdf-client|6|Aug 5|uilianries|
+[#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:memo: opentdf-client|6|Aug 5|uilianries|
 [#12006](https://github.com/conan-io/conan-center-index/pull/12006)|[jcar87](https://github.com/jcar87)|Aug 2|:stopwatch: zlib-ng|8|Aug 5||prince-chrismc
-[#12010](https://github.com/conan-io/conan-center-index/pull/12010)|[jcar87](https://github.com/jcar87)|Aug 2|:stopwatch: zstd|23|Aug 5||czoido
 [#12013](https://github.com/conan-io/conan-center-index/pull/12013)|[szmyd](https://github.com/szmyd)|Aug 2|:memo: userspace-rcu|2|Aug 4||wolfee001, SSE4
 [#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:new: asn1c|1|Aug 3||
 [#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: flecs|2|Aug 5||
@@ -64,6 +63,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12075](https://github.com/conan-io/conan-center-index/pull/12075)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: zlib|0|||
 [#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:stopwatch: android-ndk|0|||
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: sqlite3|0|||
+[#12080](https://github.com/conan-io/conan-center-index/pull/12080)|[TheClonerx](https://github.com/TheClonerx)|Aug 5|:stopwatch: liburing|0|||
+[#12082](https://github.com/conan-io/conan-center-index/pull/12082)|[TheClonerx](https://github.com/TheClonerx)|Aug 5|:stopwatch: onetbb|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -89,12 +90,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 182
+	- Open: 185
 	- Draft: 26
-	- Average Age: 73 days, 5 hours, and 2.90 minutes
+	- Average Age: 72 days, 1 hours, and 26.66 minutes
 - Labels:
 	- Stale: 27
-	- Failed: 71
+	- Failed: 73
 	- Blocked: 9
 	
 		
