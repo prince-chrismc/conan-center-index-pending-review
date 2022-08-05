@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,8 +41,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|:eyes:||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|||
-[#12006](https://github.com/conan-io/conan-center-index/pull/12006)|[jcar87](https://github.com/jcar87)|Aug 2|:stopwatch: zlib-ng|3|Aug 3||
-[#12010](https://github.com/conan-io/conan-center-index/pull/12010)|[jcar87](https://github.com/jcar87)|Aug 2|:stopwatch: zstd|21|Aug 5||czoido
+[#12006](https://github.com/conan-io/conan-center-index/pull/12006)|[jcar87](https://github.com/jcar87)|Aug 2|:stopwatch: zlib-ng|6|Aug 5||
+[#12010](https://github.com/conan-io/conan-center-index/pull/12010)|[jcar87](https://github.com/jcar87)|Aug 2|:stopwatch: zstd|23|Aug 5||czoido
 [#12013](https://github.com/conan-io/conan-center-index/pull/12013)|[szmyd](https://github.com/szmyd)|Aug 2|:memo: userspace-rcu|2|Aug 4||wolfee001, SSE4
 [#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:new: asn1c|1|Aug 3||
 [#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: glfw|0|||
@@ -55,6 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12059](https://github.com/conan-io/conan-center-index/pull/12059)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: expat|3|Aug 5||jwillikers
 [#12063](https://github.com/conan-io/conan-center-index/pull/12063)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: assimp|0|||
 [#12068](https://github.com/conan-io/conan-center-index/pull/12068)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: asyncplusplus|0|||
+[#12070](https://github.com/conan-io/conan-center-index/pull/12070)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: asmjit|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -82,9 +83,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 173
+	- Open: 174
 	- Draft: 25
-	- Average Age: 77 days, 1 hours, and 10.02 minutes
+	- Average Age: 76 days, 15 hours, and 8.52 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 69
