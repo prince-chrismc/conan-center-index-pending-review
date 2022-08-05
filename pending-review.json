@@ -448,19 +448,19 @@
       "Recipe": "zlib-ng",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12006",
-      "LastCommitSHA": "d6286a242721a931397523813931147f7baceae6",
-      "LastCommitAt": "2022-08-05T13:33:47Z",
+      "LastCommitSHA": "5dc28eb5ce75790f0b3cdc4234bb5b9a48e7c105",
+      "LastCommitAt": "2022-08-05T14:05:23Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
+         "Count": 6,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-08-03T21:28:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12006#pullrequestreview-1061033249"
+            "SubmittedAt": "2022-08-05T14:01:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12006#pullrequestreview-1063408787"
          }
       }
    },
@@ -502,7 +502,7 @@
       "LastCommitAt": "2022-08-05T13:15:45Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 21,
+         "Count": 23,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -510,9 +510,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2022-08-05T13:19:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12010#pullrequestreview-1063348258"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-08-05T14:09:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12010#pullrequestreview-1063419693"
          }
       }
    },
@@ -909,6 +909,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12068",
       "LastCommitSHA": "a4b21b0537a5dd7e43036e2c2d1c0666c42a6461",
       "LastCommitAt": "2022-08-05T13:20:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12070,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-05T13:53:33Z",
+      "Recipe": "asmjit",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12070",
+      "LastCommitSHA": "d9c54e414ca589068382baa24f94fb858dae92c0",
+      "LastCommitAt": "2022-08-05T14:13:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
