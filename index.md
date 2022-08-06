@@ -55,7 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12070](https://github.com/conan-io/conan-center-index/pull/12070)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: asmjit|0|||
 [#12071](https://github.com/conan-io/conan-center-index/pull/12071)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: geos|0|||
 [#12072](https://github.com/conan-io/conan-center-index/pull/12072)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: dataframe|0|||
-[#12073](https://github.com/conan-io/conan-center-index/pull/12073)|[BlueSolei](https://github.com/BlueSolei)|Aug 5|:stopwatch: tuplet|1|Aug 5||
+[#12073](https://github.com/conan-io/conan-center-index/pull/12073)|[BlueSolei](https://github.com/BlueSolei)|Aug 5|:new: tuplet|1|Aug 5||
 [#12075](https://github.com/conan-io/conan-center-index/pull/12075)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: zlib|0|||
 [#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:memo: android-ndk|1|Aug 6||paulocoutinhox
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: sqlite3|0|||
@@ -83,7 +83,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 172
 	- Draft: 25
-	- Average Age: 77 days, 14 hours, and 1.20 minutes
+	- Average Age: 77 days, 15 hours, and 0.14 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 73
