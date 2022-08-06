@@ -61,7 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: sqlite3|0|||
 [#12079](https://github.com/conan-io/conan-center-index/pull/12079)|[pgeler](https://github.com/pgeler)|Aug 5|:stopwatch: protobuf|0|||
 [#12080](https://github.com/conan-io/conan-center-index/pull/12080)|[TheClonerx](https://github.com/TheClonerx)|Aug 5|:memo: liburing|0|||
-[#12081](https://github.com/conan-io/conan-center-index/pull/12081)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: bzip2|0|||
+[#12081](https://github.com/conan-io/conan-center-index/pull/12081)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: bzip2|0|||
 [#12085](https://github.com/conan-io/conan-center-index/pull/12085)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 6|:green_book: docs|0|||
 
 
@@ -95,7 +95,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 188
 	- Draft: 25
-	- Average Age: 71 days, 6 hours, and 55.08 minutes
+	- Average Age: 71 days, 7 hours, and 47.60 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 73
