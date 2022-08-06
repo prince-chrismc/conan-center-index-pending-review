@@ -146,29 +146,6 @@
       }
    },
    {
-      "Number": 11483,
-      "OpenedBy": "sheepgrass",
-      "CreatedAt": "2022-07-02T07:15:26Z",
-      "Recipe": "cpp_project_framework",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11483",
-      "LastCommitSHA": "29eec8bb0b643d47ed192b42ff46df7b61d82a89",
-      "LastCommitAt": "2022-08-06T09:56:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 18,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-05T15:58:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11483#pullrequestreview-1063564787"
-         }
-      }
-   },
-   {
       "Number": 11591,
       "OpenedBy": "DonOregano",
       "CreatedAt": "2022-07-07T12:57:33Z",
