@@ -474,7 +474,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12006",
       "LastCommitSHA": "5dc28eb5ce75790f0b3cdc4234bb5b9a48e7c105",
       "LastCommitAt": "2022-08-05T14:05:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 10,
          "ValidApprovals": 2,
@@ -973,6 +973,29 @@
       }
    },
    {
+      "Number": 12073,
+      "OpenedBy": "BlueSolei",
+      "CreatedAt": "2022-08-05T14:59:38Z",
+      "Recipe": "tuplet",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12073",
+      "LastCommitSHA": "8769d34ec4692fcc82eb90a6ca355a2c9ebea99f",
+      "LastCommitAt": "2022-08-06T00:44:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-05T16:59:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12073#pullrequestreview-1063625500"
+         }
+      }
+   },
+   {
       "Number": 12075,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-05T15:23:25Z",
@@ -999,7 +1022,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12076",
       "LastCommitSHA": "646ecc696302bb776f53a2590e152ef2ab5d9e92",
       "LastCommitAt": "2022-08-05T15:42:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
