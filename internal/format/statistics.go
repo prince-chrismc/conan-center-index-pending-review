@@ -21,9 +21,6 @@ func Statistics(stats stats.Stats) string {
 	- Open: ` + fmt.Sprint(stats.Open) + `
 	- Draft: ` + fmt.Sprint(stats.Draft) + `
 	- Average Age: ` + duration.String(stats.Age.GetCurrentAverage()) + `
-- Labels:
-	- Stale: ` + fmt.Sprint(stats.Stale) + `
-	- Failed: ` + fmt.Sprint(stats.Failed) + `
-	- Blocked: ` + fmt.Sprint(stats.Blocked) + `
+	- Stop Label: ` + fmt.Sprint(stats.Stopped) + `
 	`
 }

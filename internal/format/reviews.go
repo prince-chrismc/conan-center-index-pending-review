@@ -58,8 +58,7 @@ func toMerge(pr *pending_review.PullRequestSummary) string {
 	title := title(pr.Change, pr.Recipe)
 	if !pr.CciBotPassed {
 		switch pr.Change {
-		case pending_review.ADDED:
-		case pending_review.EDIT:
+		case pending_review.NEW, pending_review.EDIT:
 			title = ":warning: " + pr.Recipe
 		}
 	}
@@ -80,13 +79,13 @@ func toMerge(pr *pending_review.PullRequestSummary) string {
 
 func title(change pending_review.Category, recipe string) string {
 	switch change {
-	case pending_review.ADDED:
+	case pending_review.NEW:
 		return ":new: " + recipe
 	case pending_review.EDIT:
 		return ":memo: " + recipe
 	case pending_review.DOCS:
 		return ":green_book: " + recipe
-	case pending_review.GHC:
+	case pending_review.CONFIG:
 		return ":gear: " + recipe
 	}
 
@@ -95,7 +94,6 @@ func title(change pending_review.Category, recipe string) string {
 
 func lastReviewTime(pr *pending_review.PullRequestSummary) string {
 	if pr.Summary.LastReview != nil {
-		//fmt.Sprint("[", pr.Summary.LastReview.ReviewerName, "](", pr.Summary.LastReview.HTMLURL, ") at ", pr.Summary.LastReview.SubmittedAt.Format("Jan 2")))
 		date := pr.Summary.LastReview.SubmittedAt.Format("Jan 2")
 
 		if time.Since(pr.Summary.LastReview.SubmittedAt) >= duration.DAY*12 {

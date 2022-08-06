@@ -13,11 +13,10 @@ type Category int
 
 // Category describing the type of change being introduced by the pull request
 const (
-	ADDED Category = iota
-	EDIT  Category = iota
-	DOCS  Category = iota
-	// GitHub Configuration files
-	GHC Category = iota
+	NEW    Category = iota
+	EDIT   Category = iota
+	DOCS   Category = iota
+	CONFIG Category = iota
 )
 
 // PullRequestSummary regarding its location in the review process of conan-center-index.
@@ -36,8 +35,14 @@ type PullRequestSummary struct {
 	Summary       Reviews
 }
 
+// ErrLabelStopped indicates there is an issue with the pull request
+var ErrLabelStopped = errors.New("the pull request contains at least one label indicated that progress has stopped")
+
 // ErrNoReviews indicated there were no reviews on a pull request and a summary could not be generated
 var ErrNoReviews = errors.New("no reviews on pull request")
+
+// ErrInvalidChange in the commit files of the pull request which break the rules of CCI
+var ErrInvalidChange = errors.New("the files, or lack thereof, make this PR invalid")
 
 // PullRequestService handles communication with the pull request related methods of the GitHub API
 type PullRequestService service
@@ -77,6 +82,15 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}
 
+	for _, label := range pr.Labels {
+		switch label.GetName() {
+		case "stale", "Failed", "infrastructure", "blocked":
+			return nil, nil, fmt.Errorf("%w", ErrLabelStopped)
+		default:
+			continue
+		}
+	}
+
 	diff, resp, err := s.determineTypeOfChange(ctx, owner, repo, p.Number, 10 /* recipes are currently 5-7 files */)
 	if err != nil {
 		return nil, resp, err
@@ -111,7 +125,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		return p, resp, nil
 	}
 
-	if p.Change == GHC && p.CciBotPassed { // Always save `.github` pull requests that are passing
+	if p.Change == CONFIG && p.CciBotPassed { // Always save infrastructure pull requests that are passing
 		return p, resp, nil
 	}
 
@@ -134,9 +148,6 @@ type change struct {
 	Recipe string
 	Change Category
 }
-
-// ErrInvalidChange in the commit files of the pull request which break the rules of CCI
-var ErrInvalidChange = errors.New("the files, or lack thereof, make this PR invalid")
 
 func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner string, repo string, number int, perPage int) (*change, *Response, error) {
 	files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, number, &ListOptions{
@@ -166,7 +177,7 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 			return nil, resp, fmt.Errorf("%w", ErrInvalidChange)
 		}
 
-		if obtained.Change == EDIT {
+		if change.Change == NEW && obtained.Change == EDIT {
 			change.Change = EDIT // Any edit breaks the "new recipe" definition
 		}
 	}
@@ -174,19 +185,17 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 	return change, resp, nil
 }
 
-// Expected format is
-// - "recipes" , "<name>", "..."
-// - "docs", "<filename>.md"
-// - ".github", "<filename>", "..."
 func getDiff(file *CommitFile) (*change, error) {
+	// Expected format is: "folder" , "<name>", "..."
+	// Other changes are 3-9 months so not worth supporting
 	segments := strings.SplitN(file.GetFilename(), "/", 3)
-	if len(segments) < 2 { // Expected format is "recipes" , "<name>", "..."
+	if len(segments) < 2 {
 		return nil, fmt.Errorf("%w", ErrInvalidChange)
 	}
 
 	folder := segments[0]
 	title := segments[1]
-	status := ADDED
+	status := NEW
 	if file.GetStatus() != "added" {
 		status = EDIT
 	}
@@ -196,8 +205,14 @@ func getDiff(file *CommitFile) (*change, error) {
 		status = DOCS
 		title = "docs"
 	case ".github":
-		status = GHC
+		status = CONFIG
 		title = ".github"
+	case ".c3i":
+		status = CONFIG
+		title = ".c3i"
+	case "linter":
+		status = CONFIG
+		title = "linter"
 	case "recipes":
 	default:
 		return nil, fmt.Errorf("%w", ErrInvalidChange)

@@ -12,7 +12,7 @@ type Stats struct {
 	Merge   int
 	Stale   int
 	Failed  int
-	Blocked int
+	Stopped int
 	Age     duration.MovingAverage
 }
 
@@ -21,9 +21,7 @@ func (stats *Stats) Add(s Stats) {
 	stats.Age.Combine(s.Age)
 	stats.Open += s.Open
 	stats.Draft += s.Draft
-	stats.Stale += s.Stale
-	stats.Failed += s.Failed
-	stats.Blocked += s.Blocked
+	stats.Stopped += s.Stopped
 	stats.Merge += s.Merge
 	stats.Review += s.Review
 }
