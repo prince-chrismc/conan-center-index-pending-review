@@ -496,32 +496,6 @@
       }
    },
    {
-      "Number": 12037,
-      "OpenedBy": "bshoshany",
-      "CreatedAt": "2022-08-03T19:32:34Z",
-      "Recipe": "bshoshany-thread-pool",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12037",
-      "LastCommitSHA": "790869451e1445e1fd9f69bda0cc510d47594103",
-      "LastCommitAt": "2022-08-04T15:35:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-08-05T19:58:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12037#pullrequestreview-1063884598"
-         }
-      }
-   },
-   {
       "Number": 12041,
       "OpenedBy": "tuduongquyet",
       "CreatedAt": "2022-08-04T02:34:17Z",
@@ -543,32 +517,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-08-04T10:01:34Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12041#pullrequestreview-1061631424"
-         }
-      }
-   },
-   {
-      "Number": 12047,
-      "OpenedBy": "Bigpet",
-      "CreatedAt": "2022-08-04T09:58:50Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12047",
-      "LastCommitSHA": "9ed5dd036339bf815c1a2c032096031a947229e8",
-      "LastCommitAt": "2022-08-04T11:54:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-08-05T20:00:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12047#pullrequestreview-1063885712"
          }
       }
    },
