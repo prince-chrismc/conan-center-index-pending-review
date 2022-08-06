@@ -66,15 +66,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#11862](https://github.com/conan-io/conan-center-index/pull/11862)|[ovostrikov](https://github.com/ovostrikov)|Jul 22|:warning: boost|2|uilianries, SSE4
-[#12037](https://github.com/conan-io/conan-center-index/pull/12037)|[bshoshany](https://github.com/bshoshany)|Aug 3|:memo: bshoshany-thread-pool|2|uilianries, SSE4
-[#12047](https://github.com/conan-io/conan-center-index/pull/12047)|[Bigpet](https://github.com/Bigpet)|Aug 4|:memo: android-ndk|4|uilianries, SSE4
 [#12057](https://github.com/conan-io/conan-center-index/pull/12057)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:memo: alac|2|uilianries, jgsogo
 [#12058](https://github.com/conan-io/conan-center-index/pull/12058)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 4|:green_book: docs|3|SSE4, jgsogo, uilianries
 [#12059](https://github.com/conan-io/conan-center-index/pull/12059)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:warning: expat|7|prince-chrismc, SSE4
@@ -87,9 +85,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 182
+	- Open: 179
 	- Draft: 25
-	- Average Age: 73 days, 7 hours, and 30.77 minutes
+	- Average Age: 74 days, 13 hours, and 4.28 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 73
