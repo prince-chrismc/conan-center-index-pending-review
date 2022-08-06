@@ -67,14 +67,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
-[#11862](https://github.com/conan-io/conan-center-index/pull/11862)|[ovostrikov](https://github.com/ovostrikov)|Jul 22|:warning: boost|2|uilianries, SSE4
-[#12059](https://github.com/conan-io/conan-center-index/pull/12059)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:warning: expat|7|prince-chrismc, SSE4
 [#12065](https://github.com/conan-io/conan-center-index/pull/12065)|[danimtb](https://github.com/danimtb)|Aug 5|:green_book: docs|3|uilianries, jgsogo, prince-chrismc
 
 
@@ -84,9 +82,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 176
+	- Open: 174
 	- Draft: 25
-	- Average Age: 75 days, 20 hours, and 3.61 minutes
+	- Average Age: 76 days, 15 hours, and 39.73 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 73
