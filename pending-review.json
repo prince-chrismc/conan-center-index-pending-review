@@ -276,32 +276,6 @@
       }
    },
    {
-      "Number": 11862,
-      "OpenedBy": "ovostrikov",
-      "CreatedAt": "2022-07-22T11:35:33Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11862",
-      "LastCommitSHA": "78fc3935352aa8717eb242f4e19b057f72902649",
-      "LastCommitAt": "2022-07-22T10:52:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-08-05T19:54:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11862#pullrequestreview-1063880921"
-         }
-      }
-   },
-   {
       "Number": 11879,
       "OpenedBy": "tuduongquyet",
       "CreatedAt": "2022-07-23T11:19:04Z",
@@ -588,32 +562,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-08-05T07:25:11Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12050#pullrequestreview-1062951878"
-         }
-      }
-   },
-   {
-      "Number": 12059,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-08-05T00:36:24Z",
-      "Recipe": "expat",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12059",
-      "LastCommitSHA": "637e87af780baad52f7b3e5f2bda9ee8d5819911",
-      "LastCommitAt": "2022-08-05T17:18:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-08-06T08:07:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12059#pullrequestreview-1064284224"
          }
       }
    },
