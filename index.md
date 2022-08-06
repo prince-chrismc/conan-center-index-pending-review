@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **36** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,8 +55,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12070](https://github.com/conan-io/conan-center-index/pull/12070)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: asmjit|0|||
 [#12071](https://github.com/conan-io/conan-center-index/pull/12071)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: geos|0|||
 [#12072](https://github.com/conan-io/conan-center-index/pull/12072)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: dataframe|0|||
+[#12073](https://github.com/conan-io/conan-center-index/pull/12073)|[BlueSolei](https://github.com/BlueSolei)|Aug 5|:new: tuplet|1|Aug 5||
 [#12075](https://github.com/conan-io/conan-center-index/pull/12075)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: zlib|0|||
-[#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:stopwatch: android-ndk|0|||
+[#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:memo: android-ndk|0|||
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: sqlite3|0|||
 [#12079](https://github.com/conan-io/conan-center-index/pull/12079)|[pgeler](https://github.com/pgeler)|Aug 5|:stopwatch: protobuf|0|||
 [#12080](https://github.com/conan-io/conan-center-index/pull/12080)|[TheClonerx](https://github.com/TheClonerx)|Aug 5|:memo: liburing|0|||
@@ -75,7 +76,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#11862](https://github.com/conan-io/conan-center-index/pull/11862)|[ovostrikov](https://github.com/ovostrikov)|Jul 22|:warning: boost|2|uilianries, SSE4
 [#11897](https://github.com/conan-io/conan-center-index/pull/11897)|[bigerl](https://github.com/bigerl)|Jul 24|:memo: serd|6|prince-chrismc, SSE4
 [#11938](https://github.com/conan-io/conan-center-index/pull/11938)|[Hopobcn](https://github.com/Hopobcn)|Jul 27|:memo: folly|4|prince-chrismc, SSE4
-[#12006](https://github.com/conan-io/conan-center-index/pull/12006)|[jcar87](https://github.com/jcar87)|Aug 2|:warning: zlib-ng|10|prince-chrismc, SSE4
+[#12006](https://github.com/conan-io/conan-center-index/pull/12006)|[jcar87](https://github.com/jcar87)|Aug 2|:memo: zlib-ng|10|prince-chrismc, SSE4
 [#12007](https://github.com/conan-io/conan-center-index/pull/12007)|[github-actions[bot]](https://github.com/github-actions[bot])|Aug 2|:green_book: docs|6|SSE4, danimtb, uilianries
 [#12022](https://github.com/conan-io/conan-center-index/pull/12022)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: librdkafka|4|prince-chrismc, SSE4
 [#12037](https://github.com/conan-io/conan-center-index/pull/12037)|[bshoshany](https://github.com/bshoshany)|Aug 3|:memo: bshoshany-thread-pool|2|uilianries, SSE4
@@ -92,8 +93,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
 	- Open: 187
-	- Draft: 26
-	- Average Age: 71 days, 12 hours, and 49.61 minutes
+	- Draft: 25
+	- Average Age: 71 days, 15 hours, and 0.19 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 73
