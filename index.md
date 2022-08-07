@@ -65,7 +65,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12080](https://github.com/conan-io/conan-center-index/pull/12080)|[TheClonerx](https://github.com/TheClonerx)|Aug 5|:memo: liburing|0|||
 [#12081](https://github.com/conan-io/conan-center-index/pull/12081)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: bzip2|0|||
 [#12087](https://github.com/conan-io/conan-center-index/pull/12087)|[leha-bot](https://github.com/leha-bot)|Aug 6|:memo: emsdk|0|:eyes:||
-[#12090](https://github.com/conan-io/conan-center-index/pull/12090)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 7|:stopwatch: glib|0|||
+[#12090](https://github.com/conan-io/conan-center-index/pull/12090)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 7|:memo: glib|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -84,9 +84,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 174
+	- Open: 173
 	- Draft: 24
-	- Average Age: 77 days, 10 hours, and 14.24 minutes
+	- Average Age: 77 days, 21 hours, and 54.46 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 72
