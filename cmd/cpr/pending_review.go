@@ -98,7 +98,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 
 - There has been at least one approval on the head commit
 - The last commit occurred after any reviews
-- Must not be labeled as stopped (e.g. "stale", "failed", "blocked")
+- Must not have a label indicating stopped or auto merge
 
 #### Legend
 
@@ -189,10 +189,10 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		}
 
 		review, _, err := client.PullRequest.GetReviewSummary(context, "conan-io", "conan-center-index", reviewers, pr)
-		if errors.Is(err, pending_review.ErrLabelStopped) {
+		if errors.Is(err, pending_review.ErrStoppedLabel) {
 			stats.Stopped++
 			continue
-		} else if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) {
+		} else if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) || errors.Is(err, pending_review.ErrBumpLabel) {
 			continue
 		} else if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)

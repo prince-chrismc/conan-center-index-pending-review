@@ -35,8 +35,11 @@ type PullRequestSummary struct {
 	Summary       Reviews
 }
 
-// ErrLabelStopped indicates there is an issue with the pull request
-var ErrLabelStopped = errors.New("the pull request contains at least one label indicated that progress has stopped")
+// ErrStoppedLabel indicates there is an issue with the pull request
+var ErrStoppedLabel = errors.New("the pull request contains at least one label indicated that progress has stopped")
+
+// ErrStoppedLabel indicates the pull request only has minor impact and is automatically handled by the bot, does not require attention
+var ErrBumpLabel = errors.New("the pull request is labelled as bump and will automatically be merged")
 
 // ErrNoReviews indicated there were no reviews on a pull request and a summary could not be generated
 var ErrNoReviews = errors.New("no reviews on pull request")
@@ -82,13 +85,9 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}
 
-	for _, label := range pr.Labels {
-		switch label.GetName() {
-		case "stale", "Failed", "infrastructure", "blocked":
-			return nil, nil, fmt.Errorf("%w", ErrLabelStopped)
-		default:
-			continue
-		}
+	err := processLabels(pr.Labels)
+	if err != nil {
+		return nil, nil, err
 	}
 
 	diff, resp, err := s.determineTypeOfChange(ctx, owner, repo, p.Number, 10 /* recipes are currently 5-7 files */)
@@ -142,6 +141,21 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	}
 
 	return nil, resp, fmt.Errorf("%w", ErrNoReviews)
+}
+
+func processLabels(labels []*Label) error {
+	for _, label := range labels {
+		switch label.GetName() {
+		case "bug", "stale", "Failed", "infrastructure", "blocked", "duplicate", "invalid":
+			return fmt.Errorf("%w", ErrStoppedLabel)
+		case "Bump version", "Bump dependencies":
+			return fmt.Errorf("%w", ErrBumpLabel)
+		default:
+			continue
+		}
+	}
+
+	return nil
 }
 
 type change struct {
