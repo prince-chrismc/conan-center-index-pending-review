@@ -194,24 +194,6 @@
       }
    },
    {
-      "Number": 11635,
-      "OpenedBy": "jhabermas",
-      "CreatedAt": "2022-07-11T17:38:17Z",
-      "Recipe": "onedpl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11635",
-      "LastCommitSHA": "94e9a9abd95d272f84426273155346018c937264",
-      "LastCommitAt": "2022-08-05T13:33:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 11686,
       "OpenedBy": "daniellecandid",
       "CreatedAt": "2022-07-14T01:32:04Z",
