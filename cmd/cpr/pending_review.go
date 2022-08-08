@@ -24,11 +24,12 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 		os.Exit(1)
 	}
 
+	defer fmt.Println("::endgroup") // Always print when we return
+
 	fmt.Println("::group::👤 Initializing list of known reviewers")
 	reviewers, err := pending_review.DownloadKnownReviewersList(context, client)
 	if err != nil {
-		fmt.Printf("Problem getting list of known reviewers from CCI %v\n", err)
-		os.Exit(1)
+		return fmt.Errorf("problem getting list of known reviewers from CCI %w", err)
 	}
 	fmt.Printf("%+v\n", reviewers)
 	fmt.Println("::endgroup")
