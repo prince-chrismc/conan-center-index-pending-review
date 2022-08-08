@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -67,6 +67,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12087](https://github.com/conan-io/conan-center-index/pull/12087)|[leha-bot](https://github.com/leha-bot)|Aug 6|:memo: emsdk|0|:eyes:||
 [#12090](https://github.com/conan-io/conan-center-index/pull/12090)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 7|:memo: glib|0|||
 [#12096](https://github.com/conan-io/conan-center-index/pull/12096)|[l2dy](https://github.com/l2dy)|Aug 7|:memo: stc|0|||
+[#12100](https://github.com/conan-io/conan-center-index/pull/12100)|[toge](https://github.com/toge)|Aug 7|:memo: luau|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -85,9 +86,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 174
+	- Open: 175
 	- Draft: 24
-	- Average Age: 78 days, 2 hours, and 39.84 minutes
+	- Average Age: 77 days, 17 hours, and 51.82 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 73
