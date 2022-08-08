@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -56,7 +56,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12072](https://github.com/conan-io/conan-center-index/pull/12072)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: dataframe|0|||
 [#12073](https://github.com/conan-io/conan-center-index/pull/12073)|[BlueSolei](https://github.com/BlueSolei)|Aug 5|:new: tuplet|2|Aug 8||uilianries
 [#12075](https://github.com/conan-io/conan-center-index/pull/12075)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: zlib|0|||
-[#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:memo: android-ndk|1|Aug 6||paulocoutinhox
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: sqlite3|0|||
 [#12079](https://github.com/conan-io/conan-center-index/pull/12079)|[pgeler](https://github.com/pgeler)|Aug 5|:memo: protobuf|0|||
 [#12081](https://github.com/conan-io/conan-center-index/pull/12081)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: bzip2|0|||
@@ -84,11 +83,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
 	- Open: 177
-	- Draft: 24
-	- Average Age: 77 days, 4 hours, and 49.29 minutes
+	- Draft: 25
+	- Average Age: 77 days, 5 hours, and 51.82 minutes
 - Labels:
 	- Stale: 27
-	- Failed: 75
+	- Failed: 74
 	- Blocked: 9
 	
 		
