@@ -10,8 +10,6 @@ type Stats struct {
 	Draft   int
 	Review  int
 	Merge   int
-	Stale   int
-	Failed  int
 	Stopped int
 	Age     duration.MovingAverage
 }
