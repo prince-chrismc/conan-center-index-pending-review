@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,13 +37,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|2|Aug 1||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11827](https://github.com/conan-io/conan-center-index/pull/11827)|[jgsogo](https://github.com/jgsogo)|Jul 20|:memo: grpc-proto|0|||
-[#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|6|Jul 27||
+[#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|6|Jul 27 :bell:||
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
-[#11947](https://github.com/conan-io/conan-center-index/pull/11947)|[staskau](https://github.com/staskau)|Jul 28|:stopwatch: scc|2|Jul 29||
 [#11981](https://github.com/conan-io/conan-center-index/pull/11981)|[uilianries](https://github.com/uilianries)|Jul 30|:memo: spdlog|5|Aug 7||prince-chrismc
-[#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|:eyes:||
+[#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:stopwatch: boost|0|:eyes:||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|:eyes:||
-[#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:memo: opentdf-client|6|Aug 5|uilianries|
+[#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:memo: opentdf-client|7|Aug 8||uilianries
 [#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:new: asn1c|1|Aug 3||
 [#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: flecs|2|Aug 5||
 [#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: glfw|0|||
@@ -52,8 +51,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12041](https://github.com/conan-io/conan-center-index/pull/12041)|[tuduongquyet](https://github.com/tuduongquyet)|Aug 4|:memo: sqlite3|3|Aug 4||prince-chrismc
 [#12050](https://github.com/conan-io/conan-center-index/pull/12050)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:memo: kmod|2|Aug 8||uilianries
 [#12063](https://github.com/conan-io/conan-center-index/pull/12063)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: assimp|0|||
-[#12068](https://github.com/conan-io/conan-center-index/pull/12068)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: asyncplusplus|0|||
-[#12070](https://github.com/conan-io/conan-center-index/pull/12070)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: asmjit|0|||
+[#12068](https://github.com/conan-io/conan-center-index/pull/12068)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: asyncplusplus|1|Aug 8||uilianries
+[#12070](https://github.com/conan-io/conan-center-index/pull/12070)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: asmjit|1|Aug 8||uilianries
 [#12071](https://github.com/conan-io/conan-center-index/pull/12071)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: geos|0|||
 [#12072](https://github.com/conan-io/conan-center-index/pull/12072)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: dataframe|0|||
 [#12073](https://github.com/conan-io/conan-center-index/pull/12073)|[BlueSolei](https://github.com/BlueSolei)|Aug 5|:new: tuplet|2|Aug 8||uilianries
@@ -85,12 +84,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 176
+	- Open: 177
 	- Draft: 24
-	- Average Age: 77 days, 13 hours, and 19.68 minutes
+	- Average Age: 77 days, 3 hours, and 57.81 minutes
 - Labels:
 	- Stale: 27
-	- Failed: 74
+	- Failed: 75
 	- Blocked: 9
 	
 		
