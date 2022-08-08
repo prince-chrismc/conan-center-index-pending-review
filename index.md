@@ -21,23 +21,22 @@
 
 ### :nerd_face: Please Review! 
 
-There are **44** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
-[#9785](https://github.com/conan-io/conan-center-index/pull/9785)|[jfalcou](https://github.com/jfalcou)|Mar 15|:memo: jfalcou-eve|10|Aug 4||
+[#9785](https://github.com/conan-io/conan-center-index/pull/9785)|[jfalcou](https://github.com/jfalcou)|Mar 15|:memo: jfalcou-eve|12|Aug 8||prince-chrismc
 [#10677](https://github.com/conan-io/conan-center-index/pull/10677)|[bemehiser](https://github.com/bemehiser)|May 6|:stopwatch: protobuf-c|7|Aug 4||gegles
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#11053](https://github.com/conan-io/conan-center-index/pull/11053)|[SSE4](https://github.com/SSE4)|Jun 4|:memo: glib|0|:eyes:||
-[#11309](https://github.com/conan-io/conan-center-index/pull/11309)|[ggulgulia](https://github.com/ggulgulia)|Jun 21|:memo: ignition-tools|8|Jul 25 :bell:||
-[#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|0|:eyes:||
-[#11591](https://github.com/conan-io/conan-center-index/pull/11591)|[DonOregano](https://github.com/DonOregano)|Jul 7|:memo: qcustomplot|4|Jul 11 :bell:||
+[#11053](https://github.com/conan-io/conan-center-index/pull/11053)|[SSE4](https://github.com/SSE4)|Jun 4|:memo: glib|3|Aug 8||prince-chrismc
+[#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|1|Aug 8||prince-chrismc
+[#11591](https://github.com/conan-io/conan-center-index/pull/11591)|[DonOregano](https://github.com/DonOregano)|Jul 7|:memo: qcustomplot|5|Aug 8||prince-chrismc
 [#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|13|Aug 7||prince-chrismc
-[#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|2|Aug 1||uilianries
+[#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:stopwatch: libpng|3|Aug 8||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
+[#11736](https://github.com/conan-io/conan-center-index/pull/11736)|[toge](https://github.com/toge)|Jul 17|:memo: wt|9|Aug 8||prince-chrismc
 [#11827](https://github.com/conan-io/conan-center-index/pull/11827)|[jgsogo](https://github.com/jgsogo)|Jul 20|:memo: grpc-proto|1|Aug 8||uilianries
-[#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|6|Jul 27 :bell:||
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
 [#11981](https://github.com/conan-io/conan-center-index/pull/11981)|[uilianries](https://github.com/uilianries)|Jul 30|:memo: spdlog|5|Aug 7||prince-chrismc
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:stopwatch: boost|0|:eyes:||
@@ -65,21 +64,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12101](https://github.com/conan-io/conan-center-index/pull/12101)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 8|:stopwatch: poco|1|Aug 8||
 [#12108](https://github.com/conan-io/conan-center-index/pull/12108)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: lz4|0|||
 [#12109](https://github.com/conan-io/conan-center-index/pull/12109)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: libwebp|0|||
-[#12110](https://github.com/conan-io/conan-center-index/pull/12110)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: libccd|0|||
 [#12111](https://github.com/conan-io/conan-center-index/pull/12111)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: libnoise|0|||
 [#12112](https://github.com/conan-io/conan-center-index/pull/12112)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: lzfse|0|||
-[#12113](https://github.com/conan-io/conan-center-index/pull/12113)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: lzo|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
-[#12002](https://github.com/conan-io/conan-center-index/pull/12002)|[patmantru](https://github.com/patmantru)|Aug 1|:memo: opentdf-client|9|uilianries, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -88,12 +84,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 177
+	- Open: 175
 	- Draft: 25
-	- Average Age: 77 days, 14 hours, and 31.43 minutes
+	- Average Age: 78 days, 11 hours, and 46.28 minutes
 - Labels:
 	- Stale: 27
-	- Failed: 70
+	- Failed: 72
 	- Blocked: 9
 	
 		
