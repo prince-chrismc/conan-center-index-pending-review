@@ -20,8 +20,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 	context := context.Background()
 	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
 	if err != nil {
-		fmt.Printf("Problem getting rate limit information %v\n", err)
-		os.Exit(1)
+		return fmt.Errorf("problem getting rate limit information %v\n", err)
 	}
 
 	defer fmt.Println("::endgroup") // Always print when we return
@@ -50,11 +49,14 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 	for {
 		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
-			fmt.Printf("Problem getting pull request list %v\n", err)
-			os.Exit(1)
+			return fmt.Errorf("problem getting pull request list %v\n", err)
 		}
 
-		out, s := gatherReviewStatus(context, client, reviewers, pulls)
+		out, s, err := gatherReviewStatus(context, client, reviewers, pulls)
+		if err != nil {
+			return fmt.Errorf("problem getting review status %v\n", err)
+		}
+
 		summaries = append(summaries, out...)
 		stats.Add(s)
 
@@ -71,8 +73,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 	if !dryRun {
 		isDifferent, err := internal.UpdateJSONFile(context, client, "pending-review.json", summaries)
 		if err != nil {
-			fmt.Printf("Problem updating 'pending-review.json' %v\n", err)
-			os.Exit(1)
+			return fmt.Errorf("problem updating 'pending-review.json' %v\n", err)
 		}
 
 		// https://github.com/prince-chrismc/conan-center-index-pending-review/issues/5#issuecomment-754112342
@@ -83,13 +84,12 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 
 		err = updateCountFile(context, client, "review-count.json", len(summaries))
 		if err != nil {
-			fmt.Printf("Problem updating 'review-count.json' %v\n", err)
-			os.Exit(1)
+			return fmt.Errorf("problem updating 'review-count.json' %v\n", err)
 		}
 
 		err = updateCountFile(context, client, "open-count.json", stats.Open)
 		if err != nil {
-			fmt.Printf("Problem updating 'open-count.json' %v\n", err)
+			return fmt.Errorf("problem updating 'open-count.json' %v\n", err)
 			os.Exit(1)
 		}
 	}
@@ -144,16 +144,14 @@ Found this useful? Give it a :star: :pray:
 
 	_, err = internal.UpdateFileAtRef(context, client, "index.md", "gh-pages", []byte(commentBody))
 	if err != nil {
-		fmt.Printf("Problem editing web view %v\n", err)
-		os.Exit(1)
+		return fmt.Errorf("problem editing web view %v\n", err)
 	}
 
 	_, _, err = client.Issues.Edit(context, owner, repo, 1, &github.IssueRequest{
 		Body: github.String(commentBody),
 	})
 	if err != nil {
-		fmt.Printf("Problem editing issue %v\n", err)
-		os.Exit(1)
+		return fmt.Errorf("problem editing issue %v\n", err)
 	}
 
 	fmt.Println("::endgroup")
@@ -178,7 +176,7 @@ func updateCountFile(context context.Context, client *pending_review.Client, fil
 	return nil
 }
 
-func gatherReviewStatus(context context.Context, client *pending_review.Client, reviewers *pending_review.ConanCenterReviewers, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats) {
+func gatherReviewStatus(context context.Context, client *pending_review.Client, reviewers *pending_review.ConanCenterReviewers, prs []*pending_review.PullRequest) ([]*pending_review.PullRequestSummary, stats.Stats, error) {
 	var stats stats.Stats
 	var out []*pending_review.PullRequestSummary
 	for _, pr := range prs {
@@ -199,8 +197,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) {
 			continue
 		} else if err != nil {
-			fmt.Printf("Problem getting list of reviews %v\n", err)
-			os.Exit(1)
+			return nil, stats, fmt.Errorf("problem getting list of reviews %v\n", err)
 		}
 
 		if review.Summary.IsApproved() {
@@ -212,5 +209,5 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		fmt.Printf("%+v\n", review)
 		out = append(out, review)
 	}
-	return out, stats
+	return out, stats, nil
 }
