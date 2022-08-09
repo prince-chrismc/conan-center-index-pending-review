@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,7 +64,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12114](https://github.com/conan-io/conan-center-index/pull/12114)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 8|:memo: cmake|2|Aug 9||uilianries
 [#12119](https://github.com/conan-io/conan-center-index/pull/12119)|[uilianries](https://github.com/uilianries)|Aug 9|:stopwatch: boost|1|Aug 9||jgsogo
 [#12120](https://github.com/conan-io/conan-center-index/pull/12120)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 9|:stopwatch: log4cplus|1|Aug 9||uilianries
-[#12123](https://github.com/conan-io/conan-center-index/pull/12123)|[leha-bot](https://github.com/leha-bot)|Aug 9|:stopwatch: sdbus-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -86,7 +85,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 168
 	- Draft: 26
-	- Average Age: 81 days, 1 hours, and 44.15 minutes
+	- Average Age: 81 days, 2 hours, and 44.19 minutes
 	- Stop Label: 91
 	
 		
