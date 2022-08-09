@@ -4,7 +4,7 @@
 
 - There has been at least one approval on the head commit
 - The last commit occurred after any reviews
-- No labels with exception to "docs" and "GitHub config"
+- Must not have a label indicating stopped or auto merge
 
 #### Legend
 
@@ -21,17 +21,16 @@
 
 ### :nerd_face: Please Review! 
 
-There are **36** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
-[#9785](https://github.com/conan-io/conan-center-index/pull/9785)|[jfalcou](https://github.com/jfalcou)|Mar 15|:memo: jfalcou-eve|12|Aug 8||prince-chrismc
 [#10677](https://github.com/conan-io/conan-center-index/pull/10677)|[bemehiser](https://github.com/bemehiser)|May 6|:stopwatch: protobuf-c|7|Aug 4||gegles
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11053](https://github.com/conan-io/conan-center-index/pull/11053)|[SSE4](https://github.com/SSE4)|Jun 4|:memo: glib|7|Aug 9||prince-chrismc
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|1|Aug 8||prince-chrismc
-[#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:new: cpp_project_framework|22|Aug 9||uilianries
+[#11582](https://github.com/conan-io/conan-center-index/pull/11582)|[oahcy](https://github.com/oahcy)|Jul 7|:stopwatch: spirv-tools|0|:eyes:||
 [#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|13|Aug 7||prince-chrismc
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|1|Aug 8||
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|3|Aug 8||uilianries
@@ -39,10 +38,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11736](https://github.com/conan-io/conan-center-index/pull/11736)|[toge](https://github.com/toge)|Jul 17|:memo: wt|9|Aug 8||prince-chrismc
 [#11827](https://github.com/conan-io/conan-center-index/pull/11827)|[jgsogo](https://github.com/jgsogo)|Jul 20|:memo: grpc-proto|1|Aug 8||uilianries
 [#11879](https://github.com/conan-io/conan-center-index/pull/11879)|[tuduongquyet](https://github.com/tuduongquyet)|Jul 23|:memo: libiconv|1|Aug 1||uilianries
+[#11946](https://github.com/conan-io/conan-center-index/pull/11946)|[jonathan-conder-sm](https://github.com/jonathan-conder-sm)|Jul 28|:stopwatch: abseil|1|Jul 28 :bell:||uilianries
 [#11981](https://github.com/conan-io/conan-center-index/pull/11981)|[uilianries](https://github.com/uilianries)|Jul 30|:memo: spdlog|5|Aug 7||prince-chrismc
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|0|:eyes:||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|:eyes:||
 [#11996](https://github.com/conan-io/conan-center-index/pull/11996)|[t-8ch](https://github.com/t-8ch)|Aug 1|:memo: cmake|0|:eyes:||
+[#12008](https://github.com/conan-io/conan-center-index/pull/12008)|[jonaskarp](https://github.com/jonaskarp)|Aug 2|:stopwatch: xkbcommon|0|:eyes:||
 [#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:new: asn1c|2|Aug 8||prince-chrismc
 [#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: flecs|3|Aug 8||uilianries
 [#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: glfw|1|Aug 9||uilianries
@@ -55,12 +56,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12072](https://github.com/conan-io/conan-center-index/pull/12072)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: dataframe|1|Aug 8||uilianries
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|1|Aug 8||prince-chrismc
 [#12075](https://github.com/conan-io/conan-center-index/pull/12075)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: zlib|1|Aug 9||uilianries
-[#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:memo: android-ndk|2|Aug 8||paulocoutinhox
+[#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:memo: android-ndk|4|Aug 9||paulocoutinhox
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: sqlite3|1|Aug 9||uilianries
 [#12079](https://github.com/conan-io/conan-center-index/pull/12079)|[pgeler](https://github.com/pgeler)|Aug 5|:memo: protobuf|0|||
 [#12081](https://github.com/conan-io/conan-center-index/pull/12081)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: bzip2|1|Aug 8||uilianries
 [#12087](https://github.com/conan-io/conan-center-index/pull/12087)|[leha-bot](https://github.com/leha-bot)|Aug 6|:memo: emsdk|0|:eyes:||
+[#12114](https://github.com/conan-io/conan-center-index/pull/12114)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 8|:memo: cmake|1|Aug 9||
 [#12119](https://github.com/conan-io/conan-center-index/pull/12119)|[uilianries](https://github.com/uilianries)|Aug 9|:stopwatch: boost|1|Aug 9||jgsogo
+[#12120](https://github.com/conan-io/conan-center-index/pull/12120)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 9|:stopwatch: log4cplus|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -71,8 +74,8 @@ Currently **6** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
-[#12068](https://github.com/conan-io/conan-center-index/pull/12068)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: asyncplusplus|2|uilianries, jgsogo
-[#12101](https://github.com/conan-io/conan-center-index/pull/12101)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 8|:memo: poco|3|uilianries, jgsogo
+[#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:new: cpp_project_framework|23|uilianries, prince-chrismc
+[#11632](https://github.com/conan-io/conan-center-index/pull/11632)|[ksmets](https://github.com/ksmets)|Jul 11|:warning: google-cloud-cpp|2|prince-chrismc, danimtb
 [#12109](https://github.com/conan-io/conan-center-index/pull/12109)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libwebp|2|uilianries, jgsogo
 [#12111](https://github.com/conan-io/conan-center-index/pull/12111)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libnoise|2|uilianries, jgsogo
 [#12113](https://github.com/conan-io/conan-center-index/pull/12113)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: lzo|2|uilianries, jgsogo
@@ -82,15 +85,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: d178f52656da3a7c97e2481fa137c9399ef92458
+- Commit: 496ba005f0853ca6565474b5d9382c61cb699fea
 - Pull Requests:
-	- Open: 172
+	- Open: 170
 	- Draft: 26
-	- Average Age: 80 days, 4 hours, and 29.43 minutes
-- Labels:
-	- Stale: 27
-	- Failed: 73
-	- Blocked: 9
+	- Average Age: 80 days, 6 hours, and 34.93 minutes
+	- Stop Label: 90
 	
 		
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
