@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"os"
 
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/app"
@@ -24,6 +25,7 @@ func main() {
 
 	err := app.Run(os.Args)
 	if err != nil {
+		fmt.Printf("%s failed: %v\n", app.Name, err)
 		os.Exit(1)
 	}
 }

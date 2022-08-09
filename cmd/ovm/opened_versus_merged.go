@@ -7,7 +7,6 @@ import (
 	"image"
 	"image/gif"
 	"image/png"
-	"os"
 	"time"
 
 	"github.com/google/go-github/v45/github"
@@ -27,8 +26,7 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 	context := context.Background()
 	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
 	if err != nil {
-		fmt.Printf("Problem getting rate limit information %v\n", err)
-		os.Exit(1)
+		return fmt.Errorf("problem making client %w", err)
 	}
 
 	opw := make(stats.CountAtTime)  // Opened Per Week
@@ -36,15 +34,23 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 	mxw := make(stats.CountAtTime)  // Merged (based on creation date) Per Week
 	m7xw := make(stats.CountAtTime) // Merged within 7 days (based on creation date) Per Week
 
+	defer fmt.Println("::endgroup") // Always print when we return
+
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
-	countClosedPullRequests(context, client, opw, cxw, mxw, m7xw)
-	countOpenedPullRequests(context, client, opw)
+	err = countClosedPullRequests(context, client, opw, cxw, mxw, m7xw)
+	if err != nil {
+		return fmt.Errorf("problem counting closed pull requests %w", err)
+	}
+
+	err = countOpenedPullRequests(context, client, opw)
+	if err != nil {
+		return fmt.Errorf("problem counting open pull requests %w", err)
+	}
 
 	images, err := GetOvmPngFromThisWeek(context, client)
 	if err != nil || len(images) == 0 { // We know there should always be commits
-		fmt.Printf("Problem getting %s history %v\n", "ovm.png", err)
-		os.Exit(1)
+		return fmt.Errorf("problem getting %s history %w", "ovm.png", err)
 	}
 
 	fmt.Println("::endgroup")
@@ -63,21 +69,18 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 	var b1 bytes.Buffer
 	err = barGraph.Render(chart.PNG, &b1)
 	if err != nil {
-		fmt.Printf("Problem rendering %s %v\n", "open-versus-merged.png", err)
-		os.Exit(1)
+		return fmt.Errorf("problem rendering %s %w", "open-versus-merged.png", err)
 	}
 
 	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.png", b1.Bytes())
 	if err != nil {
-		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.png", err)
-		os.Exit(1)
+		return fmt.Errorf("problem updating %s %w", "open-versus-merged.png", err)
 	}
 
 	b2 := bytes.NewBuffer(b1.Bytes())
 	img, err := png.Decode(b2)
 	if err != nil {
-		fmt.Printf("Problem decoding %s %v\n", "ovm.png", err)
-		return err
+		return fmt.Errorf("problem decoding %s %w", "ovm.png", err)
 	}
 
 	images = append([]image.Image{img}, images...)
@@ -86,14 +89,12 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 	var b3 bytes.Buffer
 	err = gif.EncodeAll(&b3, &jif)
 	if err != nil {
-		fmt.Printf("Problem encoding %s %v\n", "ovm.gif", err)
-		os.Exit(1)
+		return fmt.Errorf("problem encoding %s %w", "ovm.gif", err)
 	}
 
 	_, err = internal.UpdateDataFile(context, client, "open-versus-merged.gif", b3.Bytes())
 	if err != nil {
-		fmt.Printf("Problem updating %s %v\n", "open-versus-merged.gif", err)
-		os.Exit(1)
+		return fmt.Errorf("problem updating %s %w", "open-versus-merged.gif", err)
 	}
 
 	fmt.Println("::endgroup")
@@ -105,7 +106,7 @@ func prCreationDay(pull *github.PullRequest) time.Time {
 	return pull.GetCreatedAt().Truncate(duration.WEEK)
 }
 
-func countClosedPullRequests(context context.Context, client *pending_review.Client, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime, m7xw stats.CountAtTime) {
+func countClosedPullRequests(context context.Context, client *pending_review.Client, opw stats.CountAtTime, cxw stats.CountAtTime, mxw stats.CountAtTime, m7xw stats.CountAtTime) error {
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
 		State:     "closed",
@@ -117,14 +118,13 @@ func countClosedPullRequests(context context.Context, client *pending_review.Cli
 	for {
 		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
-			fmt.Printf("Problem getting pull request list %v\n", err)
-			os.Exit(1)
+			return fmt.Errorf("problem getting pull request list %w", err)
 		}
 
 		for _, pull := range pulls {
 			createdOn := prCreationDay(pull)
 			if time.Since(createdOn) > interval {
-				return
+				return nil
 			}
 
 			opw.Count(createdOn)
@@ -141,13 +141,13 @@ func countClosedPullRequests(context context.Context, client *pending_review.Cli
 		}
 
 		if resp.NextPage == 0 {
-			return
+			return nil
 		}
 		opt.Page = resp.NextPage
 	}
 }
 
-func countOpenedPullRequests(context context.Context, client *pending_review.Client, opw stats.CountAtTime) {
+func countOpenedPullRequests(context context.Context, client *pending_review.Client, opw stats.CountAtTime) error {
 	opt := &github.PullRequestListOptions{
 		Sort:      "created",
 		State:     "opened",
@@ -159,14 +159,14 @@ func countOpenedPullRequests(context context.Context, client *pending_review.Cli
 	for {
 		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
-			fmt.Printf("Problem getting pull request list %v\n", err)
-			os.Exit(1)
+			return fmt.Errorf("problem getting pull request list %w", err)
+
 		}
 
 		for _, pull := range pulls {
 			createdOn := prCreationDay(pull)
 			if time.Since(createdOn) > interval {
-				return
+				return nil
 			}
 
 			opw.Count(createdOn)
@@ -177,4 +177,6 @@ func countOpenedPullRequests(context context.Context, client *pending_review.Cli
 		}
 		opt.Page = resp.NextPage
 	}
+
+	return nil
 }
