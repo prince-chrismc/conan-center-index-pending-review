@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **39** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,19 +64,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12114](https://github.com/conan-io/conan-center-index/pull/12114)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 8|:memo: cmake|2|Aug 9||uilianries
 [#12119](https://github.com/conan-io/conan-center-index/pull/12119)|[uilianries](https://github.com/uilianries)|Aug 9|:stopwatch: boost|1|Aug 9||jgsogo
 [#12120](https://github.com/conan-io/conan-center-index/pull/12120)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 9|:stopwatch: log4cplus|1|Aug 9||uilianries
+[#12123](https://github.com/conan-io/conan-center-index/pull/12123)|[leha-bot](https://github.com/leha-bot)|Aug 9|:stopwatch: sdbus-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#11632](https://github.com/conan-io/conan-center-index/pull/11632)|[ksmets](https://github.com/ksmets)|Jul 11|:warning: google-cloud-cpp|2|prince-chrismc, danimtb
-[#12111](https://github.com/conan-io/conan-center-index/pull/12111)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libnoise|2|uilianries, jgsogo
-[#12113](https://github.com/conan-io/conan-center-index/pull/12113)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: lzo|2|uilianries, jgsogo
 
 
 #### :clipboard: Statistics
@@ -85,9 +84,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 496ba005f0853ca6565474b5d9382c61cb699fea
 - Pull Requests:
-	- Open: 169
+	- Open: 168
 	- Draft: 26
-	- Average Age: 80 days, 13 hours, and 29.56 minutes
+	- Average Age: 81 days, 1 hours, and 44.15 minutes
 	- Stop Label: 91
 	
 		
