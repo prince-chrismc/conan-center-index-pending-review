@@ -185,31 +185,6 @@
       }
    },
    {
-      "Number": 11591,
-      "OpenedBy": "DonOregano",
-      "CreatedAt": "2022-07-07T12:57:33Z",
-      "Recipe": "qcustomplot",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11591",
-      "LastCommitSHA": "a80b85dc6126ce4710f25c8f3d37d48ef30a73cc",
-      "LastCommitAt": "2022-07-16T12:05:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-08-08T22:47:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11591#pullrequestreview-1065878675"
-         }
-      }
-   },
-   {
       "Number": 11603,
       "OpenedBy": "victorpaleologue",
       "CreatedAt": "2022-07-08T12:08:41Z",
@@ -542,11 +517,18 @@
       "LastCommitAt": "2022-08-08T21:32:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jgsogo"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-08-09T08:56:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12031#pullrequestreview-1066359653"
+         }
       }
    },
    {
