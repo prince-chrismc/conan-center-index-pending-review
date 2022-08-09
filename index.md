@@ -66,7 +66,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12101](https://github.com/conan-io/conan-center-index/pull/12101)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 8|:memo: poco|1|Aug 8||
 [#12109](https://github.com/conan-io/conan-center-index/pull/12109)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libwebp|0|||
 [#12111](https://github.com/conan-io/conan-center-index/pull/12111)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libnoise|0|||
-[#12113](https://github.com/conan-io/conan-center-index/pull/12113)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: lzo|0|||
+[#12113](https://github.com/conan-io/conan-center-index/pull/12113)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: lzo|0|||
 [#12114](https://github.com/conan-io/conan-center-index/pull/12114)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 8|:memo: cmake|0|||
 
 
@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 176
 	- Draft: 25
-	- Average Age: 78 days, 8 hours, and 8.27 minutes
+	- Average Age: 78 days, 9 hours, and 1.48 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 73
