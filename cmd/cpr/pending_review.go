@@ -17,7 +17,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 	context := context.Background()
 	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
 	if err != nil {
-		return fmt.Errorf("problem getting rate limit information %w", err)
+		return fmt.Errorf("problem making client %w", err)
 	}
 
 	defer fmt.Println("::endgroup") // Always print when we return
