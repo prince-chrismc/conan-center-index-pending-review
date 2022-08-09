@@ -137,32 +137,6 @@
       }
    },
    {
-      "Number": 11483,
-      "OpenedBy": "sheepgrass",
-      "CreatedAt": "2022-07-02T07:15:26Z",
-      "Recipe": "cpp_project_framework",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11483",
-      "LastCommitSHA": "591704d5dc71a5817d0e8152b8965b8be5362185",
-      "LastCommitAt": "2022-08-09T02:10:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 23,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-08-09T15:13:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11483#pullrequestreview-1066912667"
-         }
-      }
-   },
-   {
       "Number": 11582,
       "OpenedBy": "oahcy",
       "CreatedAt": "2022-07-07T08:06:04Z",
@@ -851,9 +825,9 @@
       "Recipe": "protobuf",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12079",
-      "LastCommitSHA": "555064fd5ffa152ea7420cdae9fafa1c955d4f00",
-      "LastCommitAt": "2022-08-08T12:24:20Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "cb67c474aa5121ec3a206cef4d53784942516f17",
+      "LastCommitAt": "2022-08-09T16:10:03Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -903,32 +877,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 12109,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-08-08T22:00:57Z",
-      "Recipe": "libwebp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12109",
-      "LastCommitSHA": "7bb357e08c8affa2cd362b6740c1a5e40ae7d4ea",
-      "LastCommitAt": "2022-08-07T21:58:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-08-09T14:08:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12109#pullrequestreview-1066794790"
-         }
       }
    },
    {
@@ -994,15 +942,17 @@
       "LastCommitAt": "2022-08-09T14:51:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-08-09T11:30:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12114#pullrequestreview-1066560015"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-09T15:20:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12114#pullrequestreview-1066923878"
          }
       }
    },
@@ -1042,11 +992,18 @@
       "LastCommitAt": "2022-08-09T15:03:36Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-09T15:20:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12120#pullrequestreview-1066923388"
+         }
       }
    }
 ]
