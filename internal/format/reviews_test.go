@@ -9,10 +9,10 @@ import (
 )
 
 func TestFormatTitles(t *testing.T) {
-	assert.Equal(t, title(pending_review.ADDED, "new-recipe"), ":new: new-recipe")
+	assert.Equal(t, title(pending_review.NEW, "new-recipe"), ":new: new-recipe")
 	assert.Equal(t, title(pending_review.EDIT, "edit-recipe"), ":memo: edit-recipe")
 	assert.Equal(t, title(pending_review.DOCS, "docs"), ":green_book: docs")
-	assert.Equal(t, title(pending_review.GHC, ".github"), ":gear: .github")
+	assert.Equal(t, title(pending_review.CONFIG, ".github"), ":gear: .github")
 }
 
 func TestFormatMarkdownRows(t *testing.T) {
