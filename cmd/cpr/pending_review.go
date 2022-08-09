@@ -4,7 +4,6 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"os"
 	"time"
 
 	"github.com/google/go-github/v45/github"
@@ -89,7 +88,6 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 		err = updateCountFile(context, client, "open-count.json", stats.Open)
 		if err != nil {
 			return fmt.Errorf("problem updating 'open-count.json' %v\n", err)
-			os.Exit(1)
 		}
 	}
 
