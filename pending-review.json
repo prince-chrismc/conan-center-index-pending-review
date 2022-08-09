@@ -953,23 +953,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12120#pullrequestreview-1066923388"
          }
       }
-   },
-   {
-      "Number": 12123,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2022-08-09T17:17:45Z",
-      "Recipe": "sdbus-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12123",
-      "LastCommitSHA": "42629430e3b2bd6228ca476ec6fe0132ae50bbe2",
-      "LastCommitAt": "2022-08-09T12:46:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
