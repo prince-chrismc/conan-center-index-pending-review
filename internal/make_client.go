@@ -10,7 +10,7 @@ import (
 )
 
 // ErrRateLimitReached by the client's login
-var ErrRateLimitReached = errors.New("current client login has exceed it's limit for requests that can be made")
+var ErrRateLimitReached = errors.New("current login has exceed it's limit for requests that can be made")
 
 func MakeClient(context context.Context, token string, target pending_review.WorkingRepository) (*pending_review.Client, error) {
 	tokenService := oauth2.StaticTokenSource(
