@@ -97,8 +97,6 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 		return fmt.Errorf("problem updating %s %w", "open-versus-merged.gif", err)
 	}
 
-	fmt.Println("::endgroup")
-
 	return nil
 }
 

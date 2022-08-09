@@ -111,7 +111,5 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 
 	}
 
-	fmt.Println("::endgroup")
-
 	return nil
 }
