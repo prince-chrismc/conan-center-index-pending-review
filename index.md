@@ -29,7 +29,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10677](https://github.com/conan-io/conan-center-index/pull/10677)|[bemehiser](https://github.com/bemehiser)|May 6|:stopwatch: protobuf-c|7|Aug 4||gegles
 [#10766](https://github.com/conan-io/conan-center-index/pull/10766)|[ayeganov](https://github.com/ayeganov)|May 12|:stopwatch: aws-sdk-cpp|0|:eyes:||
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#11053](https://github.com/conan-io/conan-center-index/pull/11053)|[SSE4](https://github.com/SSE4)|Jun 4|:memo: glib|6|Aug 9||prince-chrismc
+[#11053](https://github.com/conan-io/conan-center-index/pull/11053)|[SSE4](https://github.com/SSE4)|Jun 4|:memo: glib|7|Aug 9||prince-chrismc
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|1|Aug 8||prince-chrismc
 [#11483](https://github.com/conan-io/conan-center-index/pull/11483)|[sheepgrass](https://github.com/sheepgrass)|Jul 2|:new: cpp_project_framework|22|Aug 9||uilianries
 [#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|13|Aug 7||prince-chrismc
@@ -64,7 +64,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12101](https://github.com/conan-io/conan-center-index/pull/12101)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 8|:memo: poco|2|Aug 9||uilianries
 [#12109](https://github.com/conan-io/conan-center-index/pull/12109)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libwebp|1|Aug 9||uilianries
 [#12111](https://github.com/conan-io/conan-center-index/pull/12111)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libnoise|1|Aug 9||uilianries
-[#12113](https://github.com/conan-io/conan-center-index/pull/12113)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: lzo|0|||
+[#12113](https://github.com/conan-io/conan-center-index/pull/12113)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: lzo|1|Aug 9||uilianries
 [#12119](https://github.com/conan-io/conan-center-index/pull/12119)|[uilianries](https://github.com/uilianries)|Aug 9|:stopwatch: boost|0|||
 
 
@@ -87,7 +87,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 173
 	- Draft: 26
-	- Average Age: 79 days, 16 hours, and 14.05 minutes
+	- Average Age: 79 days, 17 hours, and 22.95 minutes
 - Labels:
 	- Stale: 27
 	- Failed: 73
