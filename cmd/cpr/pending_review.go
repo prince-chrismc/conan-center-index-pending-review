@@ -11,7 +11,6 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/format"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/validate"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 )
 
@@ -99,7 +98,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 
 - There has been at least one approval on the head commit
 - The last commit occurred after any reviews
-- No labels with exception to "docs" and "GitHub config"
+- Must not have a label indicating stopped or auto merge
 
 #### Legend
 
@@ -189,13 +188,11 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			continue // Let's skip these
 		}
 
-		valid := validate.OnlyAcceptableLabels(pr.Labels, &stats)
-		if !valid {
-			continue
-		}
-
 		review, _, err := client.PullRequest.GetReviewSummary(context, "conan-io", "conan-center-index", reviewers, pr)
-		if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) {
+		if errors.Is(err, pending_review.ErrStoppedLabel) {
+			stats.Stopped++
+			continue
+		} else if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) || errors.Is(err, pending_review.ErrBumpLabel) {
 			continue
 		} else if err != nil {
 			fmt.Printf("Problem getting list of reviews %v\n", err)
