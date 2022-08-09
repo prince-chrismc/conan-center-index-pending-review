@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -59,13 +59,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12075](https://github.com/conan-io/conan-center-index/pull/12075)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: zlib|0|:eyes:||
 [#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:memo: android-ndk|2|Aug 8||paulocoutinhox
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: sqlite3|0|:eyes:||
-[#12079](https://github.com/conan-io/conan-center-index/pull/12079)|[pgeler](https://github.com/pgeler)|Aug 5|:stopwatch: protobuf|0|||
+[#12079](https://github.com/conan-io/conan-center-index/pull/12079)|[pgeler](https://github.com/pgeler)|Aug 5|:memo: protobuf|0|||
 [#12080](https://github.com/conan-io/conan-center-index/pull/12080)|[TheClonerx](https://github.com/TheClonerx)|Aug 5|:memo: liburing|2|Aug 8||prince-chrismc
 [#12081](https://github.com/conan-io/conan-center-index/pull/12081)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: bzip2|1|Aug 8||uilianries
 [#12087](https://github.com/conan-io/conan-center-index/pull/12087)|[leha-bot](https://github.com/leha-bot)|Aug 6|:memo: emsdk|0|:eyes:||
 [#12101](https://github.com/conan-io/conan-center-index/pull/12101)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 8|:memo: poco|1|Aug 8||
 [#12109](https://github.com/conan-io/conan-center-index/pull/12109)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libwebp|0|||
 [#12111](https://github.com/conan-io/conan-center-index/pull/12111)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libnoise|0|||
+[#12113](https://github.com/conan-io/conan-center-index/pull/12113)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: lzo|0|||
 [#12114](https://github.com/conan-io/conan-center-index/pull/12114)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 8|:memo: cmake|0|||
 
 
@@ -85,12 +86,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d178f52656da3a7c97e2481fa137c9399ef92458
 - Pull Requests:
-	- Open: 177
+	- Open: 176
 	- Draft: 25
-	- Average Age: 77 days, 20 hours, and 33.48 minutes
+	- Average Age: 78 days, 8 hours, and 8.27 minutes
 - Labels:
 	- Stale: 27
-	- Failed: 74
+	- Failed: 73
 	- Blocked: 9
 	
 		
