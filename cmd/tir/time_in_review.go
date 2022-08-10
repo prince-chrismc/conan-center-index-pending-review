@@ -20,9 +20,10 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 	context := context.Background()
 	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
 	if err != nil {
-		fmt.Printf("Problem getting rate limit information %v\n", err)
-		os.Exit(1)
+		return fmt.Errorf("problem making client %w", err)
 	}
+
+	defer fmt.Println("::endgroup") // Always print when we return
 
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
@@ -41,8 +42,7 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 	for {
 		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
-			fmt.Printf("Problem getting pull request list %v\n", err)
-			os.Exit(1)
+			return fmt.Errorf("problem getting pull request list %w", err)
 		}
 
 		for _, pull := range pulls {
@@ -83,8 +83,7 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 		defer f.Close()
 		err = lineGraph.Render(chart.PNG, f)
 		if err != nil {
-			fmt.Printf("Problem rendering %s %v\n", "tir.png", err)
-			os.Exit(1)
+			return fmt.Errorf("problem rendering %s %w", "tir.png", err)
 		}
 
 		return nil
@@ -92,30 +91,25 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 
 	_, err = internal.UpdateJSONFile(context, client, "time-in-review.json", tir)
 	if err != nil {
-		fmt.Printf("Problem updating %s %v\n", "time-in-review.json", err)
-		os.Exit(1)
+		return fmt.Errorf("problem updating %s %w", "time-in-review.json", err)
 	}
 
 	_, err = internal.UpdateJSONFile(context, client, "closed-per-day.json", mpd) // Legacy file name
 	if err != nil {
-		fmt.Printf("Problem updating %s %v\n", "closed-per-day.json", err) // Legacy file name
-		os.Exit(1)
+		return fmt.Errorf("problem updating %s %w", "closed-per-day.json", err) // Legacy file name
 	}
 
 	var b bytes.Buffer
 	err = lineGraph.Render(chart.PNG, &b)
 	if err != nil {
-		fmt.Printf("Problem rendering %s %v\n", "time-in-review.png", err)
-		os.Exit(1)
+		return fmt.Errorf("problem rendering %s %w", "time-in-review.png", err)
 	}
 
 	_, err = internal.UpdateDataFile(context, client, "time-in-review.png", b.Bytes())
 	if err != nil {
-		fmt.Printf("Problem updating %s %v\n", "time-in-review.png", err)
-		os.Exit(1)
-	}
+		return fmt.Errorf("problem updating %s %w", "time-in-review.png", err)
 
-	fmt.Println("::endgroup")
+	}
 
 	return nil
 }
