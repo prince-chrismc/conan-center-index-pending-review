@@ -40,7 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|:eyes:||
 [#12008](https://github.com/conan-io/conan-center-index/pull/12008)|[jonaskarp](https://github.com/jonaskarp)|Aug 2|:stopwatch: xkbcommon|0|:eyes:||
 [#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:new: asn1c|2|Aug 8||prince-chrismc
-[#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: flecs|5|Aug 10||uilianries
+[#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:stopwatch: flecs|5|Aug 10||
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|1|Aug 8||prince-chrismc
 [#12041](https://github.com/conan-io/conan-center-index/pull/12041)|[tuduongquyet](https://github.com/tuduongquyet)|Aug 4|:memo: sqlite3|3|Aug 4||prince-chrismc
 [#12050](https://github.com/conan-io/conan-center-index/pull/12050)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:memo: kmod|2|Aug 8||uilianries
@@ -52,7 +52,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:stopwatch: android-ndk|9|Aug 10||paulocoutinhox, prince-chrismc
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: sqlite3|1|Aug 9||uilianries
 [#12079](https://github.com/conan-io/conan-center-index/pull/12079)|[pgeler](https://github.com/pgeler)|Aug 5|:memo: protobuf|1|Aug 10||uilianries
-[#12081](https://github.com/conan-io/conan-center-index/pull/12081)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: bzip2|1|Aug 8||uilianries
+[#12081](https://github.com/conan-io/conan-center-index/pull/12081)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:stopwatch: bzip2|1|Aug 8||
 [#12121](https://github.com/conan-io/conan-center-index/pull/12121)|[toge](https://github.com/toge)|Aug 9|:memo: blend2d|1|Aug 10||uilianries
 [#12127](https://github.com/conan-io/conan-center-index/pull/12127)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 10|:green_book: docs|1|Aug 10||jgsogo
 [#12128](https://github.com/conan-io/conan-center-index/pull/12128)|[mttbernardini](https://github.com/mttbernardini)|Aug 10|:stopwatch: cpython|0|||
@@ -81,7 +81,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 168
 	- Draft: 26
-	- Average Age: 80 days, 22 hours, and 13.27 minutes
+	- Average Age: 80 days, 23 hours, and 14.51 minutes
 	- Stop Label: 92
 	
 
