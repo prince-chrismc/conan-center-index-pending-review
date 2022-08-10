@@ -420,16 +420,14 @@
       "Recipe": "flecs",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12021",
-      "LastCommitSHA": "847039814ad3a7633a1d0f4195da530a11c84e48",
-      "LastCommitAt": "2022-08-05T17:19:57Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c9a968e279efb879bd4089fb2ff2b167a78560e4",
+      "LastCommitAt": "2022-08-10T22:04:38Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -721,16 +719,14 @@
       "Recipe": "bzip2",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12081",
-      "LastCommitSHA": "8c82565640776a3094213994cfd4699f6dbe0890",
-      "LastCommitAt": "2022-08-05T23:01:24Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e17e8e53cd24d8bb68e579f521cd9a9cc7321507",
+      "LastCommitAt": "2022-08-10T21:58:24Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
