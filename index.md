@@ -1,27 +1,27 @@
 ## :sparkles: Summary of Pull Requests Pending Review!
 
-	### :ballot_box_with_check: Selection Criteria:
-	
-	- There has been at least one approval on the head commit
-	- The last commit occurred after any reviews
-	- Must not have a label indicating stopped or auto merge
-	
-	#### Legend
-	
-	:new: - Adding a recipe which does not yet exist<br>
-	:memo: - Modification to an existing recipe<br>
-	:green_book: - Documentation change <sup>[1]</sup><br>
-	:gear: - GitHub configuration/workflow changes <sup>[1]</sup><br>
-	:stopwatch: or :warning: - The commit status does **not** indicate success <sup>[2]</sup><br>
-	:bell: - The last review was more than 12 days ago<br>
-	:eyes: - It's been more than 3 days since the last commit and there are no reviews<br>
-	<br>
-	<sup>[1]</sup>: _closely_ matches the label<br>
-	<sup>[2]</sup>: depending whether the PR is under way or ready to merge
+### :ballot_box_with_check: Selection Criteria:
+
+- There has been at least one approval on the head commit
+- The last commit occurred after any reviews
+- Must not have a label indicating stopped or auto merge
+
+#### Legend
+
+:new: - Adding a recipe which does not yet exist<br>
+:memo: - Modification to an existing recipe<br>
+:green_book: - Documentation change <sup>[1]</sup><br>
+:gear: - GitHub configuration/workflow changes <sup>[1]</sup><br>
+:stopwatch: or :warning: - The commit status does **not** indicate success <sup>[2]</sup><br>
+:bell: - The last review was more than 12 days ago<br>
+:eyes: - It's been more than 3 days since the last commit and there are no reviews<br>
+<br>
+<sup>[1]</sup>: _closely_ matches the label<br>
+<sup>[2]</sup>: depending whether the PR is under way or ready to merge
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **35** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,11 +39,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11981](https://github.com/conan-io/conan-center-index/pull/11981)|[uilianries](https://github.com/uilianries)|Jul 30|:memo: spdlog|5|Aug 7||prince-chrismc
 [#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:stopwatch: boost|1|Aug 9||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|:eyes:||
-[#11996](https://github.com/conan-io/conan-center-index/pull/11996)|[t-8ch](https://github.com/t-8ch)|Aug 1|:stopwatch: cmake|5|Aug 10||uilianries
 [#12008](https://github.com/conan-io/conan-center-index/pull/12008)|[jonaskarp](https://github.com/jonaskarp)|Aug 2|:stopwatch: xkbcommon|0|:eyes:||
 [#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:new: asn1c|2|Aug 8||prince-chrismc
-[#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: flecs|4|Aug 9||uilianries
-[#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: glfw|1|Aug 9||uilianries
+[#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: flecs|5|Aug 10||uilianries
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|1|Aug 8||prince-chrismc
 [#12041](https://github.com/conan-io/conan-center-index/pull/12041)|[tuduongquyet](https://github.com/tuduongquyet)|Aug 4|:memo: sqlite3|3|Aug 4||prince-chrismc
 [#12050](https://github.com/conan-io/conan-center-index/pull/12050)|[SpaceIm](https://github.com/SpaceIm)|Aug 4|:memo: kmod|2|Aug 8||uilianries
@@ -66,44 +64,46 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#11632](https://github.com/conan-io/conan-center-index/pull/11632)|[ksmets](https://github.com/ksmets)|Jul 11|:warning: google-cloud-cpp|2|prince-chrismc, danimtb
+[#11996](https://github.com/conan-io/conan-center-index/pull/11996)|[t-8ch](https://github.com/t-8ch)|Aug 1|:warning: cmake|6|uilianries, prince-chrismc
+[#12030](https://github.com/conan-io/conan-center-index/pull/12030)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: glfw|2|uilianries, prince-chrismc
 
 
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: e1399b59cf50bdebff7375164023e50769d66b25
+- Commit: 0d5f8e0a1fb37f671535875774a252ede85118fe
 - Pull Requests:
 	- Open: 168
 	- Draft: 26
-	- Average Age: 80 days, 17 hours, and 17.50 minutes
+	- Average Age: 80 days, 20 hours, and 19.67 minutes
 	- Stop Label: 91
 	
-			
-	[Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
-	
-	## :bar_chart: Open Versus Merged
-	
-	#### Legend
-	
-	:green_square: - Open pull requests<br>
-	:red_square: - Closed pull requests<br>
-	:purple_square: - Merged pull requests <sup>[1]</sup><br>
-	
-	![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.gif?raw=true)
-	
-	<sup>[1]</sup>: the darker bottom section indicated merged within 7 days of being opened
-	
-	## :hourglass: Time Spent in Review
-	
-	![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
-	
-	Found this useful? Give it a :star: :pray:
+
+[Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
+
+## :bar_chart: Open Versus Merged
+
+#### Legend
+
+:green_square: - Open pull requests<br>
+:red_square: - Closed pull requests<br>
+:purple_square: - Merged pull requests <sup>[1]</sup><br>
+
+![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.gif?raw=true)
+
+<sup>[1]</sup>: the darker bottom section indicated merged within 7 days of being opened
+
+## :hourglass: Time Spent in Review
+
+![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
+
+Found this useful? Give it a :star: :pray:
 	
