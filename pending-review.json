@@ -287,7 +287,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11846",
       "LastCommitSHA": "547dcc053948cb0b27cd02d6ddb337ff7e22e236",
       "LastCommitAt": "2022-08-10T07:36:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 11,
          "ValidApprovals": 0,
@@ -717,8 +717,8 @@
       "Recipe": "android-ndk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12076",
-      "LastCommitSHA": "98b5acc0c75dad28d37c7a2ea29ad1713ccd5cb9",
-      "LastCommitAt": "2022-08-10T07:36:25Z",
+      "LastCommitSHA": "6d7897b44ff99a8ae83b8d30587ae6df14435290",
+      "LastCommitAt": "2022-08-10T09:08:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 7,
