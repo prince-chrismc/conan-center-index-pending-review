@@ -1,23 +1,23 @@
 ## :sparkles: Summary of Pull Requests Pending Review!
 
-### :ballot_box_with_check: Selection Criteria:
-
-- There has been at least one approval on the head commit
-- The last commit occurred after any reviews
-- Must not have a label indicating stopped or auto merge
-
-#### Legend
-
-:new: - Adding a recipe which does not yet exist<br>
-:memo: - Modification to an existing recipe<br>
-:green_book: - Documentation change <sup>[1]</sup><br>
-:gear: - GitHub configuration/workflow changes <sup>[1]</sup><br>
-:stopwatch: or :warning: - The commit status does **not** indicate success <sup>[2]</sup><br>
-:bell: - The last review was more than 12 days ago<br>
-:eyes: - It's been more than 3 days since the last commit and there are no reviews<br>
-<br>
-<sup>[1]</sup>: _closely_ matches the label<br>
-<sup>[2]</sup>: depending whether the PR is under way or ready to merge
+	### :ballot_box_with_check: Selection Criteria:
+	
+	- There has been at least one approval on the head commit
+	- The last commit occurred after any reviews
+	- Must not have a label indicating stopped or auto merge
+	
+	#### Legend
+	
+	:new: - Adding a recipe which does not yet exist<br>
+	:memo: - Modification to an existing recipe<br>
+	:green_book: - Documentation change <sup>[1]</sup><br>
+	:gear: - GitHub configuration/workflow changes <sup>[1]</sup><br>
+	:stopwatch: or :warning: - The commit status does **not** indicate success <sup>[2]</sup><br>
+	:bell: - The last review was more than 12 days ago<br>
+	:eyes: - It's been more than 3 days since the last commit and there are no reviews<br>
+	<br>
+	<sup>[1]</sup>: _closely_ matches the label<br>
+	<sup>[2]</sup>: depending whether the PR is under way or ready to merge
 
 ### :nerd_face: Please Review! 
 
@@ -30,8 +30,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11053](https://github.com/conan-io/conan-center-index/pull/11053)|[SSE4](https://github.com/SSE4)|Jun 4|:memo: glib|7|Aug 9||prince-chrismc
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|1|Aug 8||prince-chrismc
-[#11582](https://github.com/conan-io/conan-center-index/pull/11582)|[oahcy](https://github.com/oahcy)|Jul 7|:stopwatch: spirv-tools|0|:eyes:||
-[#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|13|Aug 7||prince-chrismc
+[#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|14|Aug 10||prince-chrismc
 [#11635](https://github.com/conan-io/conan-center-index/pull/11635)|[jhabermas](https://github.com/jhabermas)|Jul 11|:memo: onedpl|1|Aug 8||
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|3|Aug 8||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
@@ -40,6 +39,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11946](https://github.com/conan-io/conan-center-index/pull/11946)|[jonathan-conder-sm](https://github.com/jonathan-conder-sm)|Jul 28|:stopwatch: abseil|2|Aug 9||uilianries
 [#11981](https://github.com/conan-io/conan-center-index/pull/11981)|[uilianries](https://github.com/uilianries)|Jul 30|:memo: spdlog|5|Aug 7||prince-chrismc
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|:eyes:||
+[#11996](https://github.com/conan-io/conan-center-index/pull/11996)|[t-8ch](https://github.com/t-8ch)|Aug 1|:memo: cmake|3|Aug 10||prince-chrismc
 [#12008](https://github.com/conan-io/conan-center-index/pull/12008)|[jonaskarp](https://github.com/jonaskarp)|Aug 2|:stopwatch: xkbcommon|0|:eyes:||
 [#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:new: asn1c|2|Aug 8||prince-chrismc
 [#12021](https://github.com/conan-io/conan-center-index/pull/12021)|[SpaceIm](https://github.com/SpaceIm)|Aug 3|:memo: flecs|4|Aug 9||uilianries
@@ -59,7 +59,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12087](https://github.com/conan-io/conan-center-index/pull/12087)|[leha-bot](https://github.com/leha-bot)|Aug 6|:memo: emsdk|0|:eyes:||
 [#12114](https://github.com/conan-io/conan-center-index/pull/12114)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 8|:memo: cmake|2|Aug 9||uilianries
 [#12119](https://github.com/conan-io/conan-center-index/pull/12119)|[uilianries](https://github.com/uilianries)|Aug 9|:stopwatch: boost|1|Aug 9||jgsogo
-[#12120](https://github.com/conan-io/conan-center-index/pull/12120)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 9|:memo: log4cplus|2|Aug 9||uilianries
+[#12120](https://github.com/conan-io/conan-center-index/pull/12120)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 9|:stopwatch: log4cplus|2|Aug 9||
 [#12121](https://github.com/conan-io/conan-center-index/pull/12121)|[toge](https://github.com/toge)|Aug 9|:memo: blend2d|0|||
 
 
@@ -78,30 +78,31 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 496ba005f0853ca6565474b5d9382c61cb699fea
+- Commit: e1399b59cf50bdebff7375164023e50769d66b25
 - Pull Requests:
 	- Open: 165
-	- Draft: 26
-	- Average Age: 82 days, 15 hours, and 7.85 minutes
-	- Stop Label: 91
+	- Draft: 25
+	- Average Age: 81 days, 21 hours, and 33.76 minutes
+	- Stop Label: 93
 	
-		
-[Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
-
-## :bar_chart: Open Versus Merged
-
-#### Legend
-
-:green_square: - Open pull requests<br>
-:red_square: - Closed pull requests<br>
-:purple_square: - Merged pull requests <sup>[1]</sup><br>
-
-![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.gif?raw=true)
-
-<sup>[1]</sup>: the darker bottom section indicated merged within 7 days of being opened
-
-## :hourglass: Time Spent in Review
-
-![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
-
-Found this useful? Give it a :star: :pray:
+			
+	[Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
+	
+	## :bar_chart: Open Versus Merged
+	
+	#### Legend
+	
+	:green_square: - Open pull requests<br>
+	:red_square: - Closed pull requests<br>
+	:purple_square: - Merged pull requests <sup>[1]</sup><br>
+	
+	![ovm](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/open-versus-merged.gif?raw=true)
+	
+	<sup>[1]</sup>: the darker bottom section indicated merged within 7 days of being opened
+	
+	## :hourglass: Time Spent in Review
+	
+	![tir](https://github.com/prince-chrismc/conan-center-index-pending-review/blob/raw-data/time-in-review.png?raw=true)
+	
+	Found this useful? Give it a :star: :pray:
+	
