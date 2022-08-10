@@ -779,24 +779,6 @@
       }
    },
    {
-      "Number": 12087,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2022-08-06T14:29:42Z",
-      "Recipe": "emsdk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12087",
-      "LastCommitSHA": "e170366d0c06a7a2a1c2127ed268e13deb77720b",
-      "LastCommitAt": "2022-08-01T18:41:49Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 12121,
       "OpenedBy": "toge",
       "CreatedAt": "2022-08-09T15:23:18Z",
