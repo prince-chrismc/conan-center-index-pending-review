@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -53,9 +53,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12110](https://github.com/conan-io/conan-center-index/pull/12110)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: libccd|1|Aug 11||uilianries
 [#12121](https://github.com/conan-io/conan-center-index/pull/12121)|[toge](https://github.com/toge)|Aug 9|:memo: blend2d|1|Aug 10||uilianries
 [#12128](https://github.com/conan-io/conan-center-index/pull/12128)|[mttbernardini](https://github.com/mttbernardini)|Aug 10|:stopwatch: cpython|0|||
-[#12132](https://github.com/conan-io/conan-center-index/pull/12132)|[jgsogo](https://github.com/jgsogo)|Aug 10|:memo: boost|0|||
+[#12132](https://github.com/conan-io/conan-center-index/pull/12132)|[jgsogo](https://github.com/jgsogo)|Aug 10|:stopwatch: boost|1|Aug 11||
 [#12133](https://github.com/conan-io/conan-center-index/pull/12133)|[leha-bot](https://github.com/leha-bot)|Aug 10|:memo: xsimd|2|Aug 10||uilianries
 [#12143](https://github.com/conan-io/conan-center-index/pull/12143)|[uilianries](https://github.com/uilianries)|Aug 11|:memo: wayland|1|Aug 11||jwillikers
+[#12148](https://github.com/conan-io/conan-center-index/pull/12148)|[ofiriluz](https://github.com/ofiriluz)|Aug 11|:stopwatch: octo-logger-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -78,9 +79,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0d5f8e0a1fb37f671535875774a252ede85118fe
 - Pull Requests:
-	- Open: 163
+	- Open: 165
 	- Draft: 26
-	- Average Age: 83 days, 21 hours, and 0.12 minutes
+	- Average Age: 82 days, 22 hours, and 14.36 minutes
 	- Stop Label: 90
 	
 
