@@ -840,23 +840,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 12158,
-      "OpenedBy": "staskau",
-      "CreatedAt": "2022-08-11T16:40:29Z",
-      "Recipe": "verilator",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12158",
-      "LastCommitSHA": "0efa11dad59fc578542afca4ec78b2a0ceb8b133",
-      "LastCommitAt": "2022-08-11T16:36:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
