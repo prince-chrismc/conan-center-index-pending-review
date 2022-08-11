@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **35** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,7 +47,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12063](https://github.com/conan-io/conan-center-index/pull/12063)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: assimp|1|Aug 8||uilianries
 [#12070](https://github.com/conan-io/conan-center-index/pull/12070)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: asmjit|1|Aug 8||uilianries
 [#12071](https://github.com/conan-io/conan-center-index/pull/12071)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: geos|1|Aug 9||uilianries
-[#12072](https://github.com/conan-io/conan-center-index/pull/12072)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: dataframe|1|Aug 8||uilianries
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|1|Aug 8||prince-chrismc
 [#12076](https://github.com/conan-io/conan-center-index/pull/12076)|[uilianries](https://github.com/uilianries)|Aug 5|:stopwatch: android-ndk|9|Aug 10||paulocoutinhox, prince-chrismc
 [#12078](https://github.com/conan-io/conan-center-index/pull/12078)|[SpaceIm](https://github.com/SpaceIm)|Aug 5|:memo: sqlite3|1|Aug 9||uilianries
@@ -80,9 +79,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0d5f8e0a1fb37f671535875774a252ede85118fe
 - Pull Requests:
-	- Open: 168
+	- Open: 167
 	- Draft: 26
-	- Average Age: 81 days, and 14.14 minutes
+	- Average Age: 81 days, 12 hours, and 57.92 minutes
 	- Stop Label: 91
 	
 
