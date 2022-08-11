@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -57,7 +57,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12148](https://github.com/conan-io/conan-center-index/pull/12148)|[ofiriluz](https://github.com/ofiriluz)|Aug 11|:stopwatch: octo-logger-cpp|0|||
 [#12151](https://github.com/conan-io/conan-center-index/pull/12151)|[ofiriluz](https://github.com/ofiriluz)|Aug 11|:stopwatch: octo-encryption-cpp|0|||
 [#12154](https://github.com/conan-io/conan-center-index/pull/12154)|[pgeler](https://github.com/pgeler)|Aug 11|:stopwatch: googleapis|0|||
-[#12158](https://github.com/conan-io/conan-center-index/pull/12158)|[staskau](https://github.com/staskau)|Aug 11|:stopwatch: verilator|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -81,8 +80,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 171
 	- Draft: 27
-	- Average Age: 80 days, 5 hours, and 18.56 minutes
-	- Stop Label: 95
+	- Average Age: 80 days, 6 hours, and 17.07 minutes
+	- Stop Label: 96
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
