@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|11|Aug 10||
 [#11946](https://github.com/conan-io/conan-center-index/pull/11946)|[jonathan-conder-sm](https://github.com/jonathan-conder-sm)|Jul 28|:stopwatch: abseil|3|Aug 10||uilianries
 [#11981](https://github.com/conan-io/conan-center-index/pull/11981)|[uilianries](https://github.com/uilianries)|Jul 30|:memo: spdlog|5|Aug 7||prince-chrismc
-[#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|1|Aug 9||
+[#11988](https://github.com/conan-io/conan-center-index/pull/11988)|[Nekto89](https://github.com/Nekto89)|Aug 1|:memo: boost|2|Aug 11||prince-chrismc
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|0|:eyes:||
 [#12008](https://github.com/conan-io/conan-center-index/pull/12008)|[jonaskarp](https://github.com/jonaskarp)|Aug 2|:stopwatch: xkbcommon|0|:eyes:||
 [#12015](https://github.com/conan-io/conan-center-index/pull/12015)|[theirix](https://github.com/theirix)|Aug 2|:new: asn1c|2|Aug 8||prince-chrismc
@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12143](https://github.com/conan-io/conan-center-index/pull/12143)|[uilianries](https://github.com/uilianries)|Aug 11|:memo: wayland|1|Aug 11||jwillikers
 [#12148](https://github.com/conan-io/conan-center-index/pull/12148)|[ofiriluz](https://github.com/ofiriluz)|Aug 11|:stopwatch: octo-logger-cpp|0|||
 [#12151](https://github.com/conan-io/conan-center-index/pull/12151)|[ofiriluz](https://github.com/ofiriluz)|Aug 11|:stopwatch: octo-encryption-cpp|0|||
-[#12157](https://github.com/conan-io/conan-center-index/pull/12157)|[pgeler](https://github.com/pgeler)|Aug 11|:stopwatch: grpc|0|||
+[#12158](https://github.com/conan-io/conan-center-index/pull/12158)|[staskau](https://github.com/staskau)|Aug 11|:stopwatch: verilator|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -79,10 +79,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0d5f8e0a1fb37f671535875774a252ede85118fe
 - Pull Requests:
-	- Open: 170
+	- Open: 171
 	- Draft: 26
-	- Average Age: 80 days, 12 hours, and 43.44 minutes
-	- Stop Label: 94
+	- Average Age: 80 days, 2 hours, and 22.41 minutes
+	- Stop Label: 95
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
