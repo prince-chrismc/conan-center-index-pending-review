@@ -398,17 +398,18 @@
       "LastCommitAt": "2022-08-10T22:04:38Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
+         "Count": 7,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-11T07:00:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12021#pullrequestreview-1069255040"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-08-11T07:16:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12021#pullrequestreview-1069270000"
          }
       }
    },
@@ -571,7 +572,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12076",
       "LastCommitSHA": "6d7897b44ff99a8ae83b8d30587ae6df14435290",
       "LastCommitAt": "2022-08-10T09:08:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 9,
          "ValidApprovals": 1,
@@ -776,17 +777,19 @@
       "LastCommitAt": "2022-08-11T07:04:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "ericLemanissier",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-08-11T07:15:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12140#pullrequestreview-1069268851"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-11T07:55:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12140#pullrequestreview-1069314075"
          }
       }
    }
