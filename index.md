@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **32** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -30,7 +30,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11053](https://github.com/conan-io/conan-center-index/pull/11053)|[SSE4](https://github.com/SSE4)|Jun 4|:memo: glib|7|Aug 9||prince-chrismc
 [#11441](https://github.com/conan-io/conan-center-index/pull/11441)|[VestniK](https://github.com/VestniK)|Jun 30|:memo: swig|1|Aug 8||prince-chrismc
-[#11477](https://github.com/conan-io/conan-center-index/pull/11477)|[talyz](https://github.com/talyz)|Jul 1|:stopwatch: tensorflow-lite|0|||
 [#11686](https://github.com/conan-io/conan-center-index/pull/11686)|[daniellecandid](https://github.com/daniellecandid)|Jul 14|:memo: libpng|3|Aug 8||uilianries
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11736](https://github.com/conan-io/conan-center-index/pull/11736)|[toge](https://github.com/toge)|Jul 17|:memo: wt|9|Aug 8||prince-chrismc
@@ -57,11 +56,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12133](https://github.com/conan-io/conan-center-index/pull/12133)|[leha-bot](https://github.com/leha-bot)|Aug 10|:memo: xsimd|2|Aug 10||uilianries
 [#12143](https://github.com/conan-io/conan-center-index/pull/12143)|[uilianries](https://github.com/uilianries)|Aug 11|:memo: wayland|1|Aug 11||jwillikers
 [#12148](https://github.com/conan-io/conan-center-index/pull/12148)|[ofiriluz](https://github.com/ofiriluz)|Aug 11|:stopwatch: octo-logger-cpp|0|||
+[#12151](https://github.com/conan-io/conan-center-index/pull/12151)|[ofiriluz](https://github.com/ofiriluz)|Aug 11|:stopwatch: octo-encryption-cpp|0|||
+[#12157](https://github.com/conan-io/conan-center-index/pull/12157)|[pgeler](https://github.com/pgeler)|Aug 11|:stopwatch: grpc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -70,7 +71,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#11632](https://github.com/conan-io/conan-center-index/pull/11632)|[ksmets](https://github.com/ksmets)|Jul 11|:warning: google-cloud-cpp|2|prince-chrismc, danimtb
 [#12131](https://github.com/conan-io/conan-center-index/pull/12131)|[uilianries](https://github.com/uilianries)|Aug 10|:warning: boost|5|jgsogo, SSE4, jcar87
 [#12140](https://github.com/conan-io/conan-center-index/pull/12140)|[github-actions[bot]](https://github.com/github-actions[bot])|Aug 11|:green_book: docs|3|jgsogo, ericLemanissier, uilianries
-[#12144](https://github.com/conan-io/conan-center-index/pull/12144)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 11|:gear: .c3i|2|SSE4, uilianries
 
 
 #### :clipboard: Statistics
@@ -79,10 +79,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0d5f8e0a1fb37f671535875774a252ede85118fe
 - Pull Requests:
-	- Open: 165
+	- Open: 170
 	- Draft: 26
-	- Average Age: 82 days, 22 hours, and 14.36 minutes
-	- Stop Label: 90
+	- Average Age: 80 days, 12 hours, and 43.44 minutes
+	- Stop Label: 94
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
