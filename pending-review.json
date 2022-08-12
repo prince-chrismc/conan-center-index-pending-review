@@ -678,7 +678,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12112",
       "LastCommitSHA": "9c5ad4519978879ec75af3872bce86c9f8786d60",
       "LastCommitAt": "2022-08-11T21:58:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -710,6 +710,24 @@
             "SubmittedAt": "2022-08-10T07:43:39Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12121#pullrequestreview-1067817216"
          }
+      }
+   },
+   {
+      "Number": 12125,
+      "OpenedBy": "tuduongquyet",
+      "CreatedAt": "2022-08-10T01:50:04Z",
+      "Recipe": "libeb",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12125",
+      "LastCommitSHA": "3f6d4059c2cde60880e25a559125c6129bb4fe09",
+      "LastCommitAt": "2022-08-12T06:01:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -880,7 +898,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12154",
       "LastCommitSHA": "c3217e575c7f80e61b15266c85d86d9eca790bd0",
       "LastCommitAt": "2022-08-11T19:09:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
