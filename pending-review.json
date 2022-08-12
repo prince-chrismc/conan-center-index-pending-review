@@ -627,7 +627,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12108",
       "LastCommitSHA": "70dcfcf22e7874c4cd05eded4075a66945cc2f21",
       "LastCommitAt": "2022-08-12T12:57:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -992,6 +992,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12173",
       "LastCommitSHA": "81f312344376c0da8e68b7e2d02f46c8cd1ce382",
       "LastCommitAt": "2022-08-12T13:44:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12178,
+      "OpenedBy": "Makamitsu",
+      "CreatedAt": "2022-08-12T15:24:06Z",
+      "Recipe": "openscenegraph",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12178",
+      "LastCommitSHA": "0a3fc28065e2b166eaaac3c5f3a6152c739fb0ae",
+      "LastCommitAt": "2022-08-12T14:40:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
