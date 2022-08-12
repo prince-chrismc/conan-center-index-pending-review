@@ -60,7 +60,8 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 
 			// Exception handling for different labels
 			if len(pull.Labels) > 0 {
-				// Overwhelmingly there only 1 meaningful label on PRs, when there more then one they tend to overlap
+				// Overwhelmingly there is only 1 meaningful label on a pull request,
+				// when there is more then one it's either stopped or overlap
 				firstLabelName := pull.Labels[0].GetName()
 
 				// These typically take little to no time and are sometimes forces through
