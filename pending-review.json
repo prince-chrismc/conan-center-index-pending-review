@@ -890,6 +890,24 @@
       }
    },
    {
+      "Number": 12152,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-08-11T15:41:10Z",
+      "Recipe": "libxls",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12152",
+      "LastCommitSHA": "e90c8382f2797227bd8f8601cf7cc893bbc09327",
+      "LastCommitAt": "2022-08-12T06:56:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 12154,
       "OpenedBy": "pgeler",
       "CreatedAt": "2022-08-11T16:05:18Z",
