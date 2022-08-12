@@ -51,24 +51,6 @@
       }
    },
    {
-      "Number": 10766,
-      "OpenedBy": "ayeganov",
-      "CreatedAt": "2022-05-12T17:34:24Z",
-      "Recipe": "aws-sdk-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10766",
-      "LastCommitSHA": "c09ee3973e7c6f1d659ad5338cfe1b453788b4a1",
-      "LastCommitAt": "2022-05-12T17:28:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 10838,
       "OpenedBy": "sify21",
       "CreatedAt": "2022-05-18T09:52:25Z",
@@ -162,32 +144,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2022-08-08T22:53:12Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11441#pullrequestreview-1065884198"
-         }
-      }
-   },
-   {
-      "Number": 11632,
-      "OpenedBy": "ksmets",
-      "CreatedAt": "2022-07-11T14:55:43Z",
-      "Recipe": "google-cloud-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11632",
-      "LastCommitSHA": "fa4566cd12dbfbcbc984e8a499c56406a3ddd67d",
-      "LastCommitAt": "2022-07-11T14:26:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-07-13T11:46:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11632#pullrequestreview-1037224448"
          }
       }
    },
