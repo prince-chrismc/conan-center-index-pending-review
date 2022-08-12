@@ -64,7 +64,7 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 				// when there is more then one it's either stopped or overlap
 				firstLabelName := pull.Labels[0].GetName()
 
-				// These typically take little to no time and are sometimes forces through
+				// These typically take little to no time and are sometimes forced through
 				if firstLabelName == "Docs" || firstLabelName == "GitHub config" || firstLabelName == "C3I config" {
 					continue
 				}
