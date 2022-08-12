@@ -953,7 +953,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12183",
       "LastCommitSHA": "02d23d5b3393aad584bcb2cdc9d452770cc21ab2",
       "LastCommitAt": "2022-08-12T17:54:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -965,6 +965,42 @@
             "SubmittedAt": "2022-08-12T17:47:41Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12183#pullrequestreview-1071437180"
          }
+      }
+   },
+   {
+      "Number": 12189,
+      "OpenedBy": "petamas",
+      "CreatedAt": "2022-08-12T21:34:22Z",
+      "Recipe": "crashpad",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12189",
+      "LastCommitSHA": "b9b86e3a4107edf0975d1b17ba08db05c7d3e697",
+      "LastCommitAt": "2022-08-12T22:04:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12190,
+      "OpenedBy": "petamas",
+      "CreatedAt": "2022-08-12T23:11:18Z",
+      "Recipe": "gn",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12190",
+      "LastCommitSHA": "da5071707f58bbe77d97474bc969d8393775ec44",
+      "LastCommitAt": "2022-08-12T23:06:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
