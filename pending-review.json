@@ -926,7 +926,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12166",
       "LastCommitSHA": "bfac34b9ba5056b2eb6db5dfef279763a665be84",
       "LastCommitAt": "2022-08-12T11:03:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -992,24 +992,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12173",
       "LastCommitSHA": "81f312344376c0da8e68b7e2d02f46c8cd1ce382",
       "LastCommitAt": "2022-08-12T13:44:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12174,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-08-12T14:01:08Z",
-      "Recipe": "beauty",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12174",
-      "LastCommitSHA": "fe4882f5aaa83eb9e295e8e2a61a9d6bd19d8da2",
-      "LastCommitAt": "2022-08-12T13:58:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
