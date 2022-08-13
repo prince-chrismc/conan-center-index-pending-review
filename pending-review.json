@@ -239,31 +239,6 @@
       }
    },
    {
-      "Number": 11946,
-      "OpenedBy": "jonathan-conder-sm",
-      "CreatedAt": "2022-07-28T05:15:48Z",
-      "Recipe": "abseil",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11946",
-      "LastCommitSHA": "3d9e59f7837c3ef86a7bdfbcbf7ad1a520447484",
-      "LastCommitAt": "2022-07-28T05:10:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-08-10T05:01:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11946#pullrequestreview-1067663815"
-         }
-      }
-   },
-   {
       "Number": 11981,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-07-30T16:27:03Z",
@@ -965,42 +940,6 @@
             "SubmittedAt": "2022-08-12T17:47:41Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12183#pullrequestreview-1071437180"
          }
-      }
-   },
-   {
-      "Number": 12189,
-      "OpenedBy": "petamas",
-      "CreatedAt": "2022-08-12T21:34:22Z",
-      "Recipe": "crashpad",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12189",
-      "LastCommitSHA": "b9b86e3a4107edf0975d1b17ba08db05c7d3e697",
-      "LastCommitAt": "2022-08-12T22:04:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12190,
-      "OpenedBy": "petamas",
-      "CreatedAt": "2022-08-12T23:11:18Z",
-      "Recipe": "gn",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12190",
-      "LastCommitSHA": "da5071707f58bbe77d97474bc969d8393775ec44",
-      "LastCommitAt": "2022-08-12T23:06:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
