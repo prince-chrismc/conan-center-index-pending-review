@@ -239,6 +239,31 @@
       }
    },
    {
+      "Number": 11946,
+      "OpenedBy": "jonathan-conder-sm",
+      "CreatedAt": "2022-07-28T05:15:48Z",
+      "Recipe": "abseil",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11946",
+      "LastCommitSHA": "b82422671d4cbce7cb29574941e4ac134803a482",
+      "LastCommitAt": "2022-07-28T05:10:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-08-13T03:13:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11946#pullrequestreview-1071885353"
+         }
+      }
+   },
+   {
       "Number": 11981,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-07-30T16:27:03Z",
