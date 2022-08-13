@@ -955,6 +955,24 @@
       }
    },
    {
+      "Number": 12187,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-12T18:04:42Z",
+      "Recipe": "erikzenker-hsm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12187",
+      "LastCommitSHA": "b530bdd052f5e9ad48550610e709bee73fe0afa6",
+      "LastCommitAt": "2022-08-13T20:59:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 12190,
       "OpenedBy": "petamas",
       "CreatedAt": "2022-08-12T23:11:18Z",
