@@ -825,31 +825,6 @@
       }
    },
    {
-      "Number": 12167,
-      "OpenedBy": "jgsogo",
-      "CreatedAt": "2022-08-12T11:23:22Z",
-      "Recipe": "clipp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12167",
-      "LastCommitSHA": "8755782778626b2719e5b41881cf2056c98a2df6",
-      "LastCommitAt": "2022-08-12T11:25:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-12T13:04:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12167#pullrequestreview-1071058479"
-         }
-      }
-   },
-   {
       "Number": 12170,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-08-12T11:56:48Z",
