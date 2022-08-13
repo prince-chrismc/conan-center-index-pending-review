@@ -973,5 +973,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12195,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2022-08-13T15:04:55Z",
+      "Recipe": "libbigwig",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12195",
+      "LastCommitSHA": "52de342aa383d9ad399fb2bf2d2289b99a3fe400",
+      "LastCommitAt": "2022-08-13T16:32:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
