@@ -974,8 +974,8 @@
       "Recipe": "gn",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12190",
-      "LastCommitSHA": "702f162c85f61af6f5ed5f61ae07c2b33d0622fa",
-      "LastCommitAt": "2022-08-12T23:31:57Z",
+      "LastCommitSHA": "28f8e794dd728e6205746416712e40a3e6f97ff8",
+      "LastCommitAt": "2022-08-12T23:11:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
