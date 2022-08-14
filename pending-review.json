@@ -129,15 +129,17 @@
       "LastCommitAt": "2022-08-14T17:08:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-08-14T02:31:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11686#pullrequestreview-1072022656"
+            "SubmittedAt": "2022-08-14T20:47:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11686#pullrequestreview-1072125472"
          }
       }
    },
@@ -1231,6 +1233,42 @@
       "LastCommitSHA": "fbb50d50e318cfa07756f768563395e82a31fdb5",
       "LastCommitAt": "2022-08-14T16:16:32Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12214,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-14T20:37:04Z",
+      "Recipe": "inih",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12214",
+      "LastCommitSHA": "0aa41c3a96af3e2d4e4c1dc713297f3dcccd388f",
+      "LastCommitAt": "2022-08-14T20:36:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12217,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-08-14T21:07:29Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12217",
+      "LastCommitSHA": "48efd653003eb2e6dcfb9f2cdae37c7f1e6d5891",
+      "LastCommitAt": "2022-08-14T21:06:25Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
