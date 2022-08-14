@@ -1250,25 +1250,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12214",
       "LastCommitSHA": "8f86457bf8d5c868c6609d043b1b61bc66a6fb7a",
       "LastCommitAt": "2022-08-14T21:28:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12217,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-08-14T21:07:29Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12217",
-      "LastCommitSHA": "48efd653003eb2e6dcfb9f2cdae37c7f1e6d5891",
-      "LastCommitAt": "2022-08-14T21:06:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
