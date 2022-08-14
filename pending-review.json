@@ -1055,6 +1055,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12200",
       "LastCommitSHA": "8151c8fe9635d13b7ae44ae1b3465e3a48afcd92",
       "LastCommitAt": "2022-08-14T09:55:55Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12201,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-14T10:45:35Z",
+      "Recipe": "minitrace",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12201",
+      "LastCommitSHA": "bcb39ad20c6001e21606bff4787b620b9d9c8b1a",
+      "LastCommitAt": "2022-08-14T10:44:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
