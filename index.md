@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **60** pull requests currently under way :detective:
+There are **59** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -82,8 +82,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12210](https://github.com/conan-io/conan-center-index/pull/12210)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: sophus|0|||
 [#12211](https://github.com/conan-io/conan-center-index/pull/12211)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: tuplet|0|||
 [#12212](https://github.com/conan-io/conan-center-index/pull/12212)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: xorg|0|||
-[#12214](https://github.com/conan-io/conan-center-index/pull/12214)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:stopwatch: inih|0|||
-[#12217](https://github.com/conan-io/conan-center-index/pull/12217)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 14|:stopwatch: openssl|0|||
+[#12214](https://github.com/conan-io/conan-center-index/pull/12214)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: inih|0|||
 [#12220](https://github.com/conan-io/conan-center-index/pull/12220)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 14|:stopwatch: cmake|0|||
 
 
@@ -105,8 +104,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 206
 	- Draft: 27
-	- Average Age: 68 days, 9 hours, and 52.96 minutes
-	- Stop Label: 106
+	- Average Age: 68 days, 10 hours, and 52.85 minutes
+	- Stop Label: 107
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
