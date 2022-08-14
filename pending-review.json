@@ -952,6 +952,24 @@
       }
    },
    {
+      "Number": 12186,
+      "OpenedBy": "paulocoutinhox",
+      "CreatedAt": "2022-08-12T17:27:10Z",
+      "Recipe": "sdl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12186",
+      "LastCommitSHA": "1cdc11b6f56a752136b568a74b6403f03594554c",
+      "LastCommitAt": "2022-08-14T19:10:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 12187,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-12T18:04:42Z",
