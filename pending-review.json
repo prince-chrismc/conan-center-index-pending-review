@@ -1073,6 +1073,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12201",
       "LastCommitSHA": "bcb39ad20c6001e21606bff4787b620b9d9c8b1a",
       "LastCommitAt": "2022-08-14T10:44:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12202,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-08-14T11:18:38Z",
+      "Recipe": "luau",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12202",
+      "LastCommitSHA": "8e174b2ccf517f2acc22ff0099e8b4535bcec476",
+      "LastCommitAt": "2022-08-14T06:55:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12203,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-14T11:40:31Z",
+      "Recipe": "ntv2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12203",
+      "LastCommitSHA": "b9c8dcca99578780c5c41bd9e9c0898f3c0ddfa2",
+      "LastCommitAt": "2022-08-14T11:38:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
