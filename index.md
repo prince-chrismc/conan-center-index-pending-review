@@ -66,7 +66,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12178](https://github.com/conan-io/conan-center-index/pull/12178)|[Makamitsu](https://github.com/Makamitsu)|Aug 12|:stopwatch: openscenegraph|0|||
 [#12181](https://github.com/conan-io/conan-center-index/pull/12181)|[JasonGreenNV](https://github.com/JasonGreenNV)|Aug 12|:stopwatch: qxmpp|0|||
 [#12183](https://github.com/conan-io/conan-center-index/pull/12183)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:memo: pcre2|2|Aug 12||
-[#12186](https://github.com/conan-io/conan-center-index/pull/12186)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:stopwatch: sdl|0|||
 [#12187](https://github.com/conan-io/conan-center-index/pull/12187)|[SpaceIm](https://github.com/SpaceIm)|Aug 12|:memo: erikzenker-hsm|0|||
 [#12190](https://github.com/conan-io/conan-center-index/pull/12190)|[petamas](https://github.com/petamas)|Aug 12|:memo: gn|0|||
 [#12195](https://github.com/conan-io/conan-center-index/pull/12195)|[robomics](https://github.com/robomics)|Aug 13|:new: libbigwig|0|||
@@ -79,6 +78,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12205](https://github.com/conan-io/conan-center-index/pull/12205)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: onetbb|0|||
 [#12206](https://github.com/conan-io/conan-center-index/pull/12206)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: out_ptr|0|||
 [#12207](https://github.com/conan-io/conan-center-index/pull/12207)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: polylineencoder|0|||
+[#12209](https://github.com/conan-io/conan-center-index/pull/12209)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: serd|0|||
 [#12210](https://github.com/conan-io/conan-center-index/pull/12210)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: sophus|0|||
 [#12211](https://github.com/conan-io/conan-center-index/pull/12211)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: tuplet|0|||
 [#12212](https://github.com/conan-io/conan-center-index/pull/12212)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: xorg|0|||
@@ -102,7 +102,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 200
 	- Draft: 26
-	- Average Age: 70 days, 8 hours, and 3.39 minutes
+	- Average Age: 70 days, 9 hours, and 6.38 minutes
 	- Stop Label: 104
 	
 
