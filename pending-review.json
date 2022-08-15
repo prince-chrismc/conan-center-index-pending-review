@@ -1249,5 +1249,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12233,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-15T13:13:18Z",
+      "Recipe": "sofa",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12233",
+      "LastCommitSHA": "be7ac0684a87be81d4d2c1a0842ca35c03c67472",
+      "LastCommitAt": "2022-08-15T13:11:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12234,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-15T13:24:01Z",
+      "Recipe": "yyjson",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12234",
+      "LastCommitSHA": "6cd495778bc5d8251234f6d0b0d9abccf4301d53",
+      "LastCommitAt": "2022-08-15T13:23:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
