@@ -1205,25 +1205,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12226",
       "LastCommitSHA": "bde46793effedf4957b5e4b634277e6e57293b20",
       "LastCommitAt": "2022-08-15T09:42:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12227,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2022-08-15T10:19:04Z",
-      "Recipe": "asio",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12227",
-      "LastCommitSHA": "b6345adab490eb9ae30164034bbf97d7bbb27923",
-      "LastCommitAt": "2022-08-15T06:36:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
