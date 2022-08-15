@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **59** pull requests currently under way :detective:
+There are **61** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -84,6 +84,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12230](https://github.com/conan-io/conan-center-index/pull/12230)|[dornbirndevelops](https://github.com/dornbirndevelops)|Aug 15|:stopwatch: civetweb|0|||
 [#12231](https://github.com/conan-io/conan-center-index/pull/12231)|[dornbirndevelops](https://github.com/dornbirndevelops)|Aug 15|:stopwatch: mosquitto|0|||
 [#12232](https://github.com/conan-io/conan-center-index/pull/12232)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 15|:gear: .c3i|0|||
+[#12233](https://github.com/conan-io/conan-center-index/pull/12233)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:stopwatch: sofa|0|||
+[#12234](https://github.com/conan-io/conan-center-index/pull/12234)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:stopwatch: yyjson|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -102,9 +104,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9bc8fcaa0ae7f401c267706f154ba025db43c42a
 - Pull Requests:
-	- Open: 211
+	- Open: 214
 	- Draft: 27
-	- Average Age: 67 days, 5 hours, and 49.01 minutes
+	- Average Age: 66 days, 8 hours, and 17.77 minutes
 	- Stop Label: 110
 	
 
