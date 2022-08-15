@@ -827,15 +827,20 @@
       "Recipe": "sdl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12186",
-      "LastCommitSHA": "657ff38613a23996c1d3a9b872da582500ce42b2",
-      "LastCommitAt": "2022-08-15T21:43:04Z",
+      "LastCommitSHA": "86591e95e55a40050ea0008dd3d4f5efec9a69c4",
+      "LastCommitAt": "2022-08-15T23:09:39Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-08-15T22:48:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12186#pullrequestreview-1073316222"
+         }
       }
    },
    {
@@ -1351,32 +1356,14 @@
       }
    },
    {
-      "Number": 12241,
-      "OpenedBy": "bobrofon",
-      "CreatedAt": "2022-08-15T20:09:10Z",
-      "Recipe": "libcap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12241",
-      "LastCommitSHA": "aa1caaa405dd81edec1b1bf196d34656ecdcb20a",
-      "LastCommitAt": "2022-08-14T15:22:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 12242,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2022-08-15T20:23:09Z",
       "Recipe": "glibmm",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12242",
-      "LastCommitSHA": "fe7735bf1c32915279e14cb8df5f8d86f0c2ee7c",
-      "LastCommitAt": "2022-08-15T22:15:05Z",
+      "LastCommitSHA": "678b8b1b73e30cb4ab2d23b9b07263df2b1be89d",
+      "LastCommitAt": "2022-08-15T22:54:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
