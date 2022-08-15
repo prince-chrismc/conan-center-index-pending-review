@@ -77,19 +77,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12211](https://github.com/conan-io/conan-center-index/pull/12211)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: tuplet|0|||
 [#12212](https://github.com/conan-io/conan-center-index/pull/12212)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: xorg|0|||
 [#12214](https://github.com/conan-io/conan-center-index/pull/12214)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: inih|0|||
-[#12220](https://github.com/conan-io/conan-center-index/pull/12220)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 14|:stopwatch: cmake|0|||
+[#12220](https://github.com/conan-io/conan-center-index/pull/12220)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 14|:memo: cmake|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
-[#12133](https://github.com/conan-io/conan-center-index/pull/12133)|[leha-bot](https://github.com/leha-bot)|Aug 10|:memo: xsimd|4|uilianries, prince-chrismc
-[#12154](https://github.com/conan-io/conan-center-index/pull/12154)|[pgeler](https://github.com/pgeler)|Aug 11|:memo: googleapis|2|uilianries, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -98,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9bc8fcaa0ae7f401c267706f154ba025db43c42a
 - Pull Requests:
-	- Open: 205
+	- Open: 203
 	- Draft: 27
-	- Average Age: 68 days, 18 hours, and 44.09 minutes
+	- Average Age: 69 days, 12 hours, and 42.38 minutes
 	- Stop Label: 108
 	
 
