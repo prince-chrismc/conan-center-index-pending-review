@@ -10,6 +10,7 @@ import (
 	"github.com/google/go-github/v45/github"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/charts"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/duration"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 	"github.com/wcharczuk/go-chart/v2"
@@ -35,11 +36,12 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 		State: "closed",
 		ListOptions: github.ListOptions{
 			// Through browsing GitHub this is about where the meaningful data starts
-			Page:    20,
+			Page:    40,
 			PerPage: 100,
 		},
 	}
 	for {
+		fmt.Println("Gathering PRs from page", opt.Page)
 		pulls, resp, err := client.PullRequests.List(context, "conan-io", "conan-center-index", opt)
 		if err != nil {
 			return fmt.Errorf("problem getting pull request list %w", err)
@@ -52,17 +54,34 @@ func TimeInReview(token string, dryRun bool, owner string, repo string) error {
 				continue
 			}
 
-			// These typically take little to no time and are sometimes forces through
-			// https://github.com/conan-io/conan-center-index/pulls?q=is%3Apr+is%3Amerged+label%3ADocs
-			if len(pull.Labels) > 0 && pull.Labels[0].GetName() == "Docs" {
+			if time.Since(pull.GetClosedAt()) > duration.WEEK*52 {
 				continue
+			}
+
+			// Exception handling for different labels
+			if len(pull.Labels) > 0 {
+				// Overwhelmingly there is only 1 meaningful label on a pull request,
+				// when there is more then one it's either stopped or overlap
+				firstLabelName := pull.Labels[0].GetName()
+
+				// These typically take little to no time and are sometimes forced through
+				if firstLabelName == "Docs" || firstLabelName == "GitHub config" || firstLabelName == "C3I config" {
+					continue
+				}
+
+				// These gained the ability to be automatically merged by the bot without any reviews
+				// https://github.com/conan-io/conan-center-index/pull/9672
+				if (firstLabelName == "Bump version" || firstLabelName == "Bump dependencies") &&
+					pull.GetClosedAt().After(time.Date(2022, time.March, 9, 0, 0, 0, 0, time.UTC)) {
+					continue
+				}
 			}
 
 			merged := pull.GetMergedAt() != time.Time{} // `merged` is not returned when paging through the API - so calculate it
 			if merged {
 				fmt.Printf("#%4d was closed at %s and merged at %s\n", pull.GetNumber(), pull.GetClosedAt().String(), pull.GetMergedAt().String())
 				tir[pull.GetMergedAt()] = pull.GetMergedAt().Sub(pull.GetCreatedAt())
-				mpd.Count(pull.GetMergedAt().Truncate(time.Hour * 24))
+				mpd.Count(pull.GetMergedAt().Truncate(duration.DAY))
 			}
 		}
 
