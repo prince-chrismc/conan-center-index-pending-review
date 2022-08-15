@@ -1320,8 +1320,8 @@
       "Recipe": "cairo",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12240",
-      "LastCommitSHA": "5fe14e4094674e8e5030aa1cca09d35cbec6b962",
-      "LastCommitAt": "2022-08-15T18:37:56Z",
+      "LastCommitSHA": "499575d0518937d7c671cbdd5f3902c68c1db86c",
+      "LastCommitAt": "2022-08-15T19:14:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
