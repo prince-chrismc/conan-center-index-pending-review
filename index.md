@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **57** pull requests currently under way :detective:
+There are **58** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -73,15 +73,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12205](https://github.com/conan-io/conan-center-index/pull/12205)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: onetbb|0|||
 [#12206](https://github.com/conan-io/conan-center-index/pull/12206)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: out_ptr|0|||
 [#12207](https://github.com/conan-io/conan-center-index/pull/12207)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: polylineencoder|0|||
-[#12209](https://github.com/conan-io/conan-center-index/pull/12209)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:stopwatch: serd|0|||
+[#12209](https://github.com/conan-io/conan-center-index/pull/12209)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: serd|0|||
 [#12210](https://github.com/conan-io/conan-center-index/pull/12210)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: sophus|0|||
 [#12211](https://github.com/conan-io/conan-center-index/pull/12211)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: tuplet|0|||
 [#12212](https://github.com/conan-io/conan-center-index/pull/12212)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: xorg|0|||
-[#12214](https://github.com/conan-io/conan-center-index/pull/12214)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:stopwatch: inih|0|||
+[#12214](https://github.com/conan-io/conan-center-index/pull/12214)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: inih|0|||
 [#12220](https://github.com/conan-io/conan-center-index/pull/12220)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 14|:memo: cmake|0|||
-[#12221](https://github.com/conan-io/conan-center-index/pull/12221)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:stopwatch: glib|0|||
-[#12224](https://github.com/conan-io/conan-center-index/pull/12224)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:stopwatch: xsimd|0|||
-[#12225](https://github.com/conan-io/conan-center-index/pull/12225)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:stopwatch: wayland|0|||
+[#12224](https://github.com/conan-io/conan-center-index/pull/12224)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:memo: xsimd|0|||
+[#12225](https://github.com/conan-io/conan-center-index/pull/12225)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:memo: wayland|0|||
+[#12226](https://github.com/conan-io/conan-center-index/pull/12226)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:stopwatch: brotli|0|||
+[#12227](https://github.com/conan-io/conan-center-index/pull/12227)|[leha-bot](https://github.com/leha-bot)|Aug 15|:stopwatch: asio|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -100,10 +101,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9bc8fcaa0ae7f401c267706f154ba025db43c42a
 - Pull Requests:
-	- Open: 206
+	- Open: 208
 	- Draft: 27
-	- Average Age: 68 days, 17 hours, and 40.30 minutes
-	- Stop Label: 107
+	- Average Age: 68 days, 2 hours, and 50.98 minutes
+	- Stop Label: 108
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
