@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **54** pull requests currently under way :detective:
+There are **56** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -79,6 +79,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12212](https://github.com/conan-io/conan-center-index/pull/12212)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: xorg|0|||
 [#12214](https://github.com/conan-io/conan-center-index/pull/12214)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: inih|0|||
 [#12220](https://github.com/conan-io/conan-center-index/pull/12220)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 14|:memo: cmake|0|||
+[#12221](https://github.com/conan-io/conan-center-index/pull/12221)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:stopwatch: glib|0|||
+[#12223](https://github.com/conan-io/conan-center-index/pull/12223)|[szigetics](https://github.com/szigetics)|Aug 15|:stopwatch: qt|1|Aug 15||ericLemanissier
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -97,10 +99,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 9bc8fcaa0ae7f401c267706f154ba025db43c42a
 - Pull Requests:
-	- Open: 203
+	- Open: 204
 	- Draft: 27
-	- Average Age: 69 days, 16 hours, and 1.08 minutes
-	- Stop Label: 107
+	- Average Age: 69 days, 8 hours, and 54.34 minutes
+	- Stop Label: 106
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
