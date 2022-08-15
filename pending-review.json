@@ -1159,5 +1159,48 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12221,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-14T23:20:46Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12221",
+      "LastCommitSHA": "9461b9babca405de03bf2a887274ada483c01f2f",
+      "LastCommitAt": "2022-08-15T07:50:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12223,
+      "OpenedBy": "szigetics",
+      "CreatedAt": "2022-08-15T08:10:08Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12223",
+      "LastCommitSHA": "1f9ca756024c9da2016ff4523cc3b2da0d290751",
+      "LastCommitAt": "2022-08-15T08:08:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-08-15T08:13:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12223#pullrequestreview-1072348466"
+         }
+      }
    }
 ]
