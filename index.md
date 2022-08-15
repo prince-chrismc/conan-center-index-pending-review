@@ -58,9 +58,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12173](https://github.com/conan-io/conan-center-index/pull/12173)|[jwillikers](https://github.com/jwillikers)|Aug 12|:memo: ms-gsl|0|:eyes:||
 [#12174](https://github.com/conan-io/conan-center-index/pull/12174)|[SpaceIm](https://github.com/SpaceIm)|Aug 12|:memo: beauty|0|||
 [#12178](https://github.com/conan-io/conan-center-index/pull/12178)|[Makamitsu](https://github.com/Makamitsu)|Aug 12|:stopwatch: openscenegraph|0|:eyes:||
-[#12181](https://github.com/conan-io/conan-center-index/pull/12181)|[JasonGreenNV](https://github.com/JasonGreenNV)|Aug 12|:stopwatch: qxmpp|0|||
+[#12181](https://github.com/conan-io/conan-center-index/pull/12181)|[JasonGreenNV](https://github.com/JasonGreenNV)|Aug 12|:stopwatch: qxmpp|0|:eyes:||
 [#12183](https://github.com/conan-io/conan-center-index/pull/12183)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:memo: pcre2|3|Aug 15||prince-chrismc
-[#12186](https://github.com/conan-io/conan-center-index/pull/12186)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:memo: sdl|0|||
+[#12186](https://github.com/conan-io/conan-center-index/pull/12186)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:stopwatch: sdl|0|||
 [#12187](https://github.com/conan-io/conan-center-index/pull/12187)|[SpaceIm](https://github.com/SpaceIm)|Aug 12|:memo: erikzenker-hsm|0|||
 [#12190](https://github.com/conan-io/conan-center-index/pull/12190)|[petamas](https://github.com/petamas)|Aug 12|:memo: gn|0|||
 [#12198](https://github.com/conan-io/conan-center-index/pull/12198)|[ofiriluz](https://github.com/ofiriluz)|Aug 14|:stopwatch: octo-wildcardmatching-cpp|0|||
@@ -83,7 +83,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12226](https://github.com/conan-io/conan-center-index/pull/12226)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:memo: brotli|0|||
 [#12230](https://github.com/conan-io/conan-center-index/pull/12230)|[dornbirndevelops](https://github.com/dornbirndevelops)|Aug 15|:stopwatch: civetweb|0|||
 [#12231](https://github.com/conan-io/conan-center-index/pull/12231)|[dornbirndevelops](https://github.com/dornbirndevelops)|Aug 15|:stopwatch: mosquitto|0|||
-[#12232](https://github.com/conan-io/conan-center-index/pull/12232)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 15|:gear: .c3i|0|||
+[#12232](https://github.com/conan-io/conan-center-index/pull/12232)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 15|:gear: .c3i|1|Aug 15||prince-chrismc
 [#12233](https://github.com/conan-io/conan-center-index/pull/12233)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:memo: sofa|0|||
 [#12234](https://github.com/conan-io/conan-center-index/pull/12234)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:memo: yyjson|0|||
 [#12236](https://github.com/conan-io/conan-center-index/pull/12236)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:memo: jbig|0|||
@@ -108,7 +108,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 215
 	- Draft: 27
-	- Average Age: 66 days, 2 hours, and 32.04 minutes
+	- Average Age: 66 days, 3 hours, and 36.69 minutes
 	- Stop Label: 110
 	
 
