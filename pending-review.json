@@ -1059,9 +1059,9 @@
       "Recipe": "serd",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12209",
-      "LastCommitSHA": "1c80319eaeac21fbd3ab73d6fedee3be70f331e2",
-      "LastCommitAt": "2022-08-14T19:40:14Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "69e281f8087f5ebb8003cd997fbd0339b67ebdac",
+      "LastCommitAt": "2022-08-15T08:39:25Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1131,9 +1131,9 @@
       "Recipe": "inih",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12214",
-      "LastCommitSHA": "8f86457bf8d5c868c6609d043b1b61bc66a6fb7a",
-      "LastCommitAt": "2022-08-14T21:28:52Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "f5ea15ba6e1d9e4717eefe97efd6bc7fc1a27df5",
+      "LastCommitAt": "2022-08-15T08:38:36Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1167,8 +1167,8 @@
       "Recipe": "glib",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12221",
-      "LastCommitSHA": "9461b9babca405de03bf2a887274ada483c01f2f",
-      "LastCommitAt": "2022-08-15T07:50:06Z",
+      "LastCommitSHA": "5dbee1da3b004ed1246c1fcdfb32f63e2b6ecef7",
+      "LastCommitAt": "2022-08-15T08:37:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1179,28 +1179,39 @@
       }
    },
    {
-      "Number": 12223,
-      "OpenedBy": "szigetics",
-      "CreatedAt": "2022-08-15T08:10:08Z",
-      "Recipe": "qt",
+      "Number": 12224,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-15T08:55:31Z",
+      "Recipe": "xsimd",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12223",
-      "LastCommitSHA": "1f9ca756024c9da2016ff4523cc3b2da0d290751",
-      "LastCommitAt": "2022-08-15T08:08:33Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12224",
+      "LastCommitSHA": "026c810b38e492429137ba5883bbb64b2ee8e10e",
+      "LastCommitAt": "2022-08-15T08:54:22Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 0,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-08-15T08:13:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12223#pullrequestreview-1072348466"
-         }
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12225,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-15T09:05:15Z",
+      "Recipe": "wayland",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12225",
+      "LastCommitSHA": "fc660fbeb68dd08b8a3c40b283873953e0111d2c",
+      "LastCommitAt": "2022-08-15T09:04:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
