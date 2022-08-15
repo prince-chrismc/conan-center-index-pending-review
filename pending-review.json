@@ -827,9 +827,9 @@
       "Recipe": "sdl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12186",
-      "LastCommitSHA": "26b47db27906112f3084e60c37d13b9ec90922ca",
-      "LastCommitAt": "2022-08-15T06:11:58Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "6db13a58a6399dd5de076eefaf05333838cabd17",
+      "LastCommitAt": "2022-08-15T16:09:49Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1245,11 +1245,18 @@
       "LastCommitAt": "2022-08-15T11:38:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-08-15T15:47:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12232#pullrequestreview-1072863732"
+         }
       }
    },
    {
