@@ -10,6 +10,7 @@ require (
 	github.com/wcharczuk/go-chart/v2 v2.1.0
 	golang.org/x/oauth2 v0.0.0-20220630143837-2104d58473e0
 	gopkg.in/h2non/gock.v1 v1.1.2
+	github.com/golang-jwt/jwt/v4 v4.4.2
 	gopkg.in/yaml.v3 v3.0.1
 )
 

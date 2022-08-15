@@ -75,8 +75,8 @@ func UpdateFileAtRef(context context.Context, client *pending_review.Client, fil
 		Message: github.String(file + ": New data - " + time.Now().Format(time.RFC3339)),
 		Content: content,
 		Branch:  github.String(branch),
-		Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"),
-			Email: github.String("github-actions[bot]@users.noreply.github.com")},
+		// Committer: &github.CommitAuthor{Name: github.String("github-actions[bot]"),
+		// 	Email: github.String("github-actions[bot]@users.noreply.github.com")},
 	}
 	_, _, err = client.Repositories.UpdateFile(context, client.WorkingRepository.Owner, client.WorkingRepository.Name, file, opts)
 	if err != nil {
