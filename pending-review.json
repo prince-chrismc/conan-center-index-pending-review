@@ -1312,5 +1312,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12240,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2022-08-15T18:48:13Z",
+      "Recipe": "cairo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12240",
+      "LastCommitSHA": "5fe14e4094674e8e5030aa1cca09d35cbec6b962",
+      "LastCommitAt": "2022-08-15T18:37:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
