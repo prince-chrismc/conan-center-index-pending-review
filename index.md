@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **66** pull requests currently under way :detective:
+There are **65** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -60,9 +60,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12178](https://github.com/conan-io/conan-center-index/pull/12178)|[Makamitsu](https://github.com/Makamitsu)|Aug 12|:stopwatch: openscenegraph|0|:eyes:||
 [#12181](https://github.com/conan-io/conan-center-index/pull/12181)|[JasonGreenNV](https://github.com/JasonGreenNV)|Aug 12|:stopwatch: qxmpp|0|:eyes:||
 [#12183](https://github.com/conan-io/conan-center-index/pull/12183)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:memo: pcre2|3|Aug 15||prince-chrismc
-[#12186](https://github.com/conan-io/conan-center-index/pull/12186)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:stopwatch: sdl|0|||
+[#12186](https://github.com/conan-io/conan-center-index/pull/12186)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:stopwatch: sdl|1|Aug 15||
 [#12187](https://github.com/conan-io/conan-center-index/pull/12187)|[SpaceIm](https://github.com/SpaceIm)|Aug 12|:memo: erikzenker-hsm|0|||
-[#12190](https://github.com/conan-io/conan-center-index/pull/12190)|[petamas](https://github.com/petamas)|Aug 12|:memo: gn|0|||
+[#12190](https://github.com/conan-io/conan-center-index/pull/12190)|[petamas](https://github.com/petamas)|Aug 12|:memo: gn|0|:eyes:||
 [#12198](https://github.com/conan-io/conan-center-index/pull/12198)|[ofiriluz](https://github.com/ofiriluz)|Aug 14|:stopwatch: octo-wildcardmatching-cpp|0|||
 [#12199](https://github.com/conan-io/conan-center-index/pull/12199)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: libpciaccess|0|||
 [#12200](https://github.com/conan-io/conan-center-index/pull/12200)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: metall|0|||
@@ -89,7 +89,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12236](https://github.com/conan-io/conan-center-index/pull/12236)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:memo: jbig|0|||
 [#12237](https://github.com/conan-io/conan-center-index/pull/12237)|[SpaceIm](https://github.com/SpaceIm)|Aug 15|:memo: ezc3d|0|||
 [#12240](https://github.com/conan-io/conan-center-index/pull/12240)|[planetmarshall](https://github.com/planetmarshall)|Aug 15|:memo: cairo|0|||
-[#12241](https://github.com/conan-io/conan-center-index/pull/12241)|[bobrofon](https://github.com/bobrofon)|Aug 15|:memo: libcap|0|||
 [#12242](https://github.com/conan-io/conan-center-index/pull/12242)|[planetmarshall](https://github.com/planetmarshall)|Aug 15|:stopwatch: glibmm|0|||
 
 
@@ -111,7 +110,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 218
 	- Draft: 27
-	- Average Age: 65 days, 11 hours, and 37.74 minutes
+	- Average Age: 65 days, 12 hours, and 36.57 minutes
 	- Stop Label: 110
 	
 
