@@ -94,6 +94,24 @@
       }
    },
    {
+      "Number": 11433,
+      "OpenedBy": "jnordin20",
+      "CreatedAt": "2022-06-29T11:57:10Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11433",
+      "LastCommitSHA": "ee9f1b8d766b126b12128aa4332249ae988eb852",
+      "LastCommitAt": "2022-06-29T11:51:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 11441,
       "OpenedBy": "VestniK",
       "CreatedAt": "2022-06-30T03:25:52Z",
@@ -601,16 +619,14 @@
       "Recipe": "verilator",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12158",
-      "LastCommitSHA": "c9ae6da9857fbf93b27237ed916b2ea51127d2a1",
-      "LastCommitAt": "2022-08-12T10:18:10Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ec96877a47ea3604e6ea0b751efb99bd4a6f3153",
+      "LastCommitAt": "2022-08-16T06:06:02Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
