@@ -1416,7 +1416,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12266",
       "LastCommitSHA": "3a76e596a4fd18aa55519f0a9940384ad683c68d",
       "LastCommitAt": "2022-08-16T19:15:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1506,7 +1506,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12276",
       "LastCommitSHA": "ac2372764c7ddb5e4b0686cc75d97fdb4be17ea1",
       "LastCommitAt": "2022-08-16T18:37:21Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1632,6 +1632,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12284",
       "LastCommitSHA": "05e671ae006e55f51295a84ea1e5e1158154a2df",
       "LastCommitAt": "2022-08-16T22:07:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12285,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-16T22:25:15Z",
+      "Recipe": "quirc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12285",
+      "LastCommitSHA": "e7f5f30d65d6cddf05984312d6199baa21b879de",
+      "LastCommitAt": "2022-08-16T22:24:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
