@@ -10,12 +10,13 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/urfave/cli/v2"
 )
 
 // PendingReview analysis of open pull requests
-func PendingReview(token string, dryRun bool, owner string, repo string) error {
+func PendingReview(dryRun bool, c *cli.Context) error {
 	context := context.Background()
-	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
+	client, err := internal.MakeClient(context, c)
 	if err != nil {
 		return fmt.Errorf("problem making client %w", err)
 	}
@@ -67,7 +68,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 
 	fmt.Println("::group::🖊️ Rendering data and saving results!")
 
-	commentBody := MakeCommentBody(summaries, stats, owner, repo)
+	commentBody := MakeCommentBody(summaries, stats, client.WorkingRepository.Owner, client.WorkingRepository.Name)
 
 	if dryRun {
 		fmt.Println(commentBody)
@@ -100,7 +101,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 		return fmt.Errorf("problem editing web view %w", err)
 	}
 
-	_, _, err = client.Issues.Edit(context, owner, repo, 1, &github.IssueRequest{
+	_, _, err = client.Issues.Edit(context, client.WorkingRepository.Owner, client.WorkingRepository.Name, 1, &github.IssueRequest{
 		Body: github.String(commentBody),
 	})
 	if err != nil {

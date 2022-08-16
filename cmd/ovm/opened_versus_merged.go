@@ -15,6 +15,7 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/duration"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/urfave/cli/v2"
 	"github.com/wcharczuk/go-chart/v2"
 )
 
@@ -22,9 +23,9 @@ const interval = duration.WEEK * 52
 const delay = 75
 
 // OpenVersusMerged generates a graph depicting the last 1 year of pull requests highlighting where are open, close, and merged
-func OpenVersusMerged(token string, dryRun bool, owner string, repo string) error {
+func OpenVersusMerged(dryRun bool, c *cli.Context) error {
 	context := context.Background()
-	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
+	client, err := internal.MakeClient(context, c)
 	if err != nil {
 		return fmt.Errorf("problem making client %w", err)
 	}

@@ -39,6 +39,13 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     steps:
+      - id: check
+        continue-on-error: true
+        uses: prince-chrismc/check-actor-permissions-action@v2
+        with:
+          github_token: ${{ github.token }}
+          permission: write
+
       - uses: actions/setup-go@v3
         with:
           go-version: ^1.17
@@ -50,7 +57,10 @@ jobs:
           restore-keys: ${{ runner.os }}-go-
       - run: go get -v -t -d ./...
 
-      - run: go run ./cmd/cpr -t ${{ github.token }}
+      - if: steps.check.outputs.permitted == 'true'
+        run: go run ./cmd/cpr --pem ${{ secrets.APP_PEM }}
+      - if: steps.check.outputs.permitted == 'false'
+        run: go run ./cmd/cpr -t ${{ github.token }}
 
       - if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 0 * * *' }}
         run: go run ./cmd/tir -t ${{ github.token }}

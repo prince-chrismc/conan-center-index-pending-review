@@ -15,11 +15,8 @@ func main() {
 		Flags: app.DefaultFlags(),
 		Action: func(c *cli.Context) error {
 			dryRun := c.Bool("dry-run")
-			token := c.String("access-token")
-			owner := c.String("repo-owner")
-			repo := c.String("repo-name")
 
-			return TimeInReview(token, dryRun, owner, repo)
+			return TimeInReview(dryRun, c)
 		},
 	}
 

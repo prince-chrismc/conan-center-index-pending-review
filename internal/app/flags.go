@@ -17,6 +17,11 @@ func DefaultFlags() []cli.Flag {
 			EnvVars: []string{"ACCESS_TOKEN", "GITHUB_TOKEN"},
 		},
 		&cli.StringFlag{
+			Name:    "app-pem",
+			Aliases: []string{"pem"},
+			Usage:   "a GitHub App's private key stored in PEM format.",
+		},
+		&cli.StringFlag{
 			Name:    "repo-owner",
 			Aliases: []string{"o"},
 			Value:   "prince-chrismc",

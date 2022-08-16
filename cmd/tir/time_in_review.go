@@ -11,14 +11,14 @@ import (
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/charts"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/urfave/cli/v2"
 	"github.com/wcharczuk/go-chart/v2"
 )
 
 // TimeInReview analysis of merged pull requests
-func TimeInReview(token string, dryRun bool, owner string, repo string) error {
+func TimeInReview(dryRun bool, c *cli.Context) error {
 	context := context.Background()
-	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
+	client, err := internal.MakeClient(context, c)
 	if err != nil {
 		return fmt.Errorf("problem making client %w", err)
 	}
