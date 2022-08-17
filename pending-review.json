@@ -560,6 +560,29 @@
       }
    },
    {
+      "Number": 12171,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2022-08-12T12:35:24Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12171",
+      "LastCommitSHA": "f9dbdc658697ba550aad9e83feba195e92c073a0",
+      "LastCommitAt": "2022-08-17T17:42:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-08-17T11:10:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12171#pullrequestreview-1075533059"
+         }
+      }
+   },
+   {
       "Number": 12173,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2022-08-12T13:40:34Z",
@@ -1878,6 +1901,60 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12309",
       "LastCommitSHA": "4fd71900fe4106bb9749f667655ef6ef407dc8ba",
       "LastCommitAt": "2022-08-17T15:21:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12310,
+      "OpenedBy": "jave27",
+      "CreatedAt": "2022-08-17T17:29:42Z",
+      "Recipe": "qxmpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12310",
+      "LastCommitSHA": "3238f5b04532032b246a7b90cb77fd3df3f027fc",
+      "LastCommitAt": "2022-08-12T16:18:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12311,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-17T17:41:57Z",
+      "Recipe": "double-conversion",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12311",
+      "LastCommitSHA": "6f202ee72b0ac84b60ff46ba77abe18bd481a2cc",
+      "LastCommitAt": "2022-08-17T17:41:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12312,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-17T17:59:09Z",
+      "Recipe": "cjson",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12312",
+      "LastCommitSHA": "d04819d535b38e1bbf8452a63224de3286b4992b",
+      "LastCommitAt": "2022-08-17T17:58:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
