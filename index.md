@@ -91,7 +91,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12274](https://github.com/conan-io/conan-center-index/pull/12274)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 16|:memo: libepoxy|0|||
 [#12278](https://github.com/conan-io/conan-center-index/pull/12278)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: poly2tri|2|Aug 17||jgsogo
 [#12280](https://github.com/conan-io/conan-center-index/pull/12280)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|2|Aug 17|jgsogo|
-[#12281](https://github.com/conan-io/conan-center-index/pull/12281)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|0|||
 [#12290](https://github.com/conan-io/conan-center-index/pull/12290)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: h3|1|Aug 17||uilianries
 [#12292](https://github.com/conan-io/conan-center-index/pull/12292)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: libspatialindex|0|||
 [#12293](https://github.com/conan-io/conan-center-index/pull/12293)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 17|:memo: pcre|0|||
@@ -108,6 +107,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12310](https://github.com/conan-io/conan-center-index/pull/12310)|[jave27](https://github.com/jave27)|Aug 17|:stopwatch: qxmpp|0|:eyes:||
 [#12311](https://github.com/conan-io/conan-center-index/pull/12311)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:stopwatch: double-conversion|0|||
 [#12312](https://github.com/conan-io/conan-center-index/pull/12312)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:stopwatch: cjson|0|||
+[#12314](https://github.com/conan-io/conan-center-index/pull/12314)|[uilianries](https://github.com/uilianries)|Aug 17|:stopwatch: boost|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -126,10 +126,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 240
-	- Draft: 33
-	- Average Age: 60 days, 18 hours, and 52.79 minutes
-	- Stop Label: 109
+	- Open: 242
+	- Draft: 34
+	- Average Age: 60 days, 7 hours, and 42.24 minutes
+	- Stop Label: 110
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
