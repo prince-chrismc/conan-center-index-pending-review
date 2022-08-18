@@ -615,16 +615,14 @@
       "Recipe": "pcre2",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12183",
-      "LastCommitSHA": "2766b78d54b647350707b61fb7545f7ba545a6f0",
-      "LastCommitAt": "2022-08-16T15:05:33Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d1291ba52ce0e236c7a187d96f23405fc76925c0",
+      "LastCommitAt": "2022-08-18T22:47:33Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
