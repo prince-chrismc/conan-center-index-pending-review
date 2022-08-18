@@ -1170,6 +1170,29 @@
       }
    },
    {
+      "Number": 12240,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2022-08-15T18:48:13Z",
+      "Recipe": "cairo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12240",
+      "LastCommitSHA": "d328ae8877715aa9dfd65bfd14ad75b67f04b023",
+      "LastCommitAt": "2022-08-18T20:58:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-17T14:53:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12240#pullrequestreview-1075891275"
+         }
+      }
+   },
+   {
       "Number": 12241,
       "OpenedBy": "bobrofon",
       "CreatedAt": "2022-08-15T20:09:10Z",
@@ -2437,6 +2460,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12364",
       "LastCommitSHA": "71125c154eabca9b1d866fc2ce3727168a3c54df",
       "LastCommitAt": "2022-08-18T19:22:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12367,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-18T20:43:06Z",
+      "Recipe": "libyaml",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12367",
+      "LastCommitSHA": "fa4896badc5cfac7b1a647fb771a711024d4d07a",
+      "LastCommitAt": "2022-08-18T19:50:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12369,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-18T21:08:25Z",
+      "Recipe": "lodepng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12369",
+      "LastCommitSHA": "1b292503a5a6750826540d3e1a1554273c491aa8",
+      "LastCommitAt": "2022-08-18T21:07:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
