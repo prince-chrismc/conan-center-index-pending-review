@@ -2036,6 +2036,24 @@
       }
    },
    {
+      "Number": 12360,
+      "OpenedBy": "szmyd",
+      "CreatedAt": "2022-08-18T16:46:23Z",
+      "Recipe": "nuraft",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12360",
+      "LastCommitSHA": "3cfbbe07354e3a15b0511708f20415624c01379d",
+      "LastCommitAt": "2022-08-19T23:12:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 12361,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-18T17:15:31Z",
@@ -2336,6 +2354,24 @@
       "LastCommitSHA": "6f08235e62510db310ccbf5d6fe81b5143d6056c",
       "LastCommitAt": "2022-08-19T20:34:11Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12396,
+      "OpenedBy": "pgeler",
+      "CreatedAt": "2022-08-19T22:50:53Z",
+      "Recipe": "grpc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12396",
+      "LastCommitSHA": "b8426ccc2deaea5022a44b3b83b6b6e9467615d0",
+      "LastCommitAt": "2022-08-19T22:48:24Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
