@@ -2036,24 +2036,6 @@
       }
    },
    {
-      "Number": 12360,
-      "OpenedBy": "szmyd",
-      "CreatedAt": "2022-08-18T16:46:23Z",
-      "Recipe": "nuraft",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12360",
-      "LastCommitSHA": "54c0077ee9018ff28168d3ac50a21746ceb772e6",
-      "LastCommitAt": "2022-08-19T20:22:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 12361,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-18T17:15:31Z",
@@ -2112,7 +2094,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12363",
       "LastCommitSHA": "3ae48e6e25769975d08bfe27ea7d6280369501b6",
       "LastCommitAt": "2022-08-19T20:01:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
