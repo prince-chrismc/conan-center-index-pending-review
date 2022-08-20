@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **109** pull requests currently under way :detective:
+There are **108** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -132,8 +132,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12407](https://github.com/conan-io/conan-center-index/pull/12407)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:memo: winflexbison|0|||
 [#12409](https://github.com/conan-io/conan-center-index/pull/12409)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:memo: kissfft|0|||
 [#12410](https://github.com/conan-io/conan-center-index/pull/12410)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:memo: libcds|0|||
-[#12411](https://github.com/conan-io/conan-center-index/pull/12411)|[jwillikers](https://github.com/jwillikers)|Aug 20|:stopwatch: fmt|0|||
-[#12412](https://github.com/conan-io/conan-center-index/pull/12412)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:stopwatch: taglib|0|||
+[#12412](https://github.com/conan-io/conan-center-index/pull/12412)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:memo: taglib|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -152,10 +151,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 279
+	- Open: 280
 	- Draft: 35
-	- Average Age: 53 days, 22 hours, and 44.04 minutes
-	- Stop Label: 122
+	- Average Age: 53 days, 19 hours, and 4.28 minutes
+	- Stop Label: 124
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
