@@ -1970,16 +1970,14 @@
       "Recipe": "doxygen",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12356",
-      "LastCommitSHA": "2f6c20e1574d68dc12608ccf98d55012d3bd73d5",
-      "LastCommitAt": "2022-08-19T06:39:51Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c939c978d058f81208951f48653d2f3d15dbb4b3",
+      "LastCommitAt": "2022-08-20T06:39:39Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -2327,7 +2325,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12392",
       "LastCommitSHA": "7ea2c4d7c9fa89aa93da6eb816b4b46d75b3043e",
       "LastCommitAt": "2022-08-20T06:02:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
