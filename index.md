@@ -125,8 +125,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12400](https://github.com/conan-io/conan-center-index/pull/12400)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:memo: cryptopp|0|||
 [#12401](https://github.com/conan-io/conan-center-index/pull/12401)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:memo: flac|0|||
 [#12402](https://github.com/conan-io/conan-center-index/pull/12402)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:memo: ade|0|||
-[#12403](https://github.com/conan-io/conan-center-index/pull/12403)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:stopwatch: qhull|0|||
-[#12404](https://github.com/conan-io/conan-center-index/pull/12404)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:stopwatch: openddl-parser|0|||
+[#12404](https://github.com/conan-io/conan-center-index/pull/12404)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:memo: openddl-parser|0|||
+[#12405](https://github.com/conan-io/conan-center-index/pull/12405)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:stopwatch: irrxml|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -145,10 +145,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 271
+	- Open: 272
 	- Draft: 34
-	- Average Age: 55 days, 6 hours, and 51.37 minutes
-	- Stop Label: 121
+	- Average Age: 55 days, 3 hours, and 0.03 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
