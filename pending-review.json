@@ -477,24 +477,6 @@
       }
    },
    {
-      "Number": 12165,
-      "OpenedBy": "boofhead",
-      "CreatedAt": "2022-08-12T10:40:01Z",
-      "Recipe": "gcc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12165",
-      "LastCommitSHA": "ff29e43047d16933d334412d2ccac38939348a8a",
-      "LastCommitAt": "2022-08-17T21:55:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 12166,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-08-12T11:08:21Z",
@@ -1258,16 +1240,14 @@
       "Recipe": "edlib",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12248",
-      "LastCommitSHA": "0b7e1b135f4ba1af1f176f189c2ef9eb698e3c39",
-      "LastCommitAt": "2022-08-16T09:12:13Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "01489abf47d1ea8b2d260e3b1a16b6f15c17c72c",
+      "LastCommitAt": "2022-08-19T23:54:24Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -1383,16 +1363,14 @@
       "Recipe": "fcl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12258",
-      "LastCommitSHA": "9420370e9c6314917e3b5eda82b453f13c9bf044",
-      "LastCommitAt": "2022-08-16T12:19:39Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7a03d496c1bab7d05e3818ea43c7fb9083f62e53",
+      "LastCommitAt": "2022-08-19T23:51:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -2042,9 +2020,9 @@
       "Recipe": "nuraft",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12360",
-      "LastCommitSHA": "3cfbbe07354e3a15b0511708f20415624c01379d",
-      "LastCommitAt": "2022-08-19T23:12:27Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "243c5adfe3e32aad781743982488c7136d7837c4",
+      "LastCommitAt": "2022-08-19T23:20:13Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2128,16 +2106,14 @@
       "Recipe": "laszip",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12364",
-      "LastCommitSHA": "881ee645f8546b17c5f17845509955b922dadc81",
-      "LastCommitAt": "2022-08-19T09:25:20Z",
+      "LastCommitSHA": "dd83495f526526c5501ef7cb54a13e172d8b659a",
+      "LastCommitAt": "2022-08-19T23:32:41Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -2276,16 +2252,14 @@
       "Recipe": "openjpeg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12378",
-      "LastCommitSHA": "d281da5acef15701071d7bf6c0f593962dc7dbbd",
-      "LastCommitAt": "2022-08-19T09:28:10Z",
+      "LastCommitSHA": "b03ee751087c7b64ebeeb38ece842a5963299943",
+      "LastCommitAt": "2022-08-19T23:29:40Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
