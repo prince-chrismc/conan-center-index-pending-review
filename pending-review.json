@@ -2325,9 +2325,9 @@
       "Recipe": "xorg-macros",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12392",
-      "LastCommitSHA": "6f08235e62510db310ccbf5d6fe81b5143d6056c",
-      "LastCommitAt": "2022-08-19T20:34:11Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7ea2c4d7c9fa89aa93da6eb816b4b46d75b3043e",
+      "LastCommitAt": "2022-08-20T06:02:58Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
