@@ -2361,17 +2361,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12398",
       "LastCommitSHA": "c969f5ae7cbf1713866b67d651533fbf508450cf",
       "LastCommitAt": "2022-08-20T10:57:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-08-20T09:17:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12398#pullrequestreview-1079488648"
+            "SubmittedAt": "2022-08-20T12:14:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12398#pullrequestreview-1079517453"
          }
       }
    },
@@ -2384,6 +2386,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12400",
       "LastCommitSHA": "26cb0fc1c2674244d9da261b2cf87ac8c49fd45f",
       "LastCommitAt": "2022-08-20T10:58:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12401,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-20T11:28:47Z",
+      "Recipe": "flac",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12401",
+      "LastCommitSHA": "573e3ef35e732d0644efa8297fe5d4cf2a484668",
+      "LastCommitAt": "2022-08-20T11:28:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12402,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-20T12:26:58Z",
+      "Recipe": "ade",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12402",
+      "LastCommitSHA": "69759b361e16ebf8667b4c359e31c6e1e4df3c0e",
+      "LastCommitAt": "2022-08-20T12:26:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
