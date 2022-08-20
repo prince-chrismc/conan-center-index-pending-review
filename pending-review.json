@@ -1993,9 +1993,9 @@
       "Recipe": "nuraft",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12360",
-      "LastCommitSHA": "243c5adfe3e32aad781743982488c7136d7837c4",
-      "LastCommitAt": "2022-08-19T23:20:13Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a25ae0284d17cc130256d2d4521e53c0d1e7dd95",
+      "LastCommitAt": "2022-08-20T18:05:44Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
