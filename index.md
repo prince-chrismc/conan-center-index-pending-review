@@ -80,7 +80,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12253](https://github.com/conan-io/conan-center-index/pull/12253)|[jgsogo](https://github.com/jgsogo)|Aug 16|:memo: crc_cpp|2|Aug 17||uilianries
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|1|Aug 17||uilianries
 [#12256](https://github.com/conan-io/conan-center-index/pull/12256)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Aug 16|:memo: mingw-w64|1|Aug 16||ericLemanissier
-[#12258](https://github.com/conan-io/conan-center-index/pull/12258)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:stopwatch: fcl|1|Aug 17||
+[#12258](https://github.com/conan-io/conan-center-index/pull/12258)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: fcl|1|Aug 17||
 [#12260](https://github.com/conan-io/conan-center-index/pull/12260)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: octomap|1|Aug 17||uilianries
 [#12274](https://github.com/conan-io/conan-center-index/pull/12274)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 16|:memo: libepoxy|1|Aug 18||uilianries
 [#12278](https://github.com/conan-io/conan-center-index/pull/12278)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: poly2tri|2|Aug 17||jgsogo
@@ -121,7 +121,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|1|Aug 19||uilianries
 [#12384](https://github.com/conan-io/conan-center-index/pull/12384)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: snappy|1|Aug 19||uilianries
 [#12392](https://github.com/conan-io/conan-center-index/pull/12392)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 19|:memo: xorg-macros|0|||
-[#12396](https://github.com/conan-io/conan-center-index/pull/12396)|[pgeler](https://github.com/pgeler)|Aug 19|:stopwatch: grpc|0|||
+[#12396](https://github.com/conan-io/conan-center-index/pull/12396)|[pgeler](https://github.com/pgeler)|Aug 19|:memo: grpc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -142,7 +142,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 266
 	- Draft: 34
-	- Average Age: 55 days, 21 hours, and 25.68 minutes
+	- Average Age: 55 days, 22 hours, and 19.19 minutes
 	- Stop Label: 121
 	
 
