@@ -2704,5 +2704,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12424,
+      "OpenedBy": "ofiriluz",
+      "CreatedAt": "2022-08-21T13:02:48Z",
+      "Recipe": "octo-logger-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12424",
+      "LastCommitSHA": "dd593906743f7c715e282e1b278c91fe3c0a48b8",
+      "LastCommitAt": "2022-08-21T13:01:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
