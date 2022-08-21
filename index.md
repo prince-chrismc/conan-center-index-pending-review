@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **122** pull requests currently under way :detective:
+There are **127** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -146,7 +146,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12424](https://github.com/conan-io/conan-center-index/pull/12424)|[ofiriluz](https://github.com/ofiriluz)|Aug 21|:memo: octo-logger-cpp|0|||
 [#12426](https://github.com/conan-io/conan-center-index/pull/12426)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: cmocka|0|||
 [#12427](https://github.com/conan-io/conan-center-index/pull/12427)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: concurrencpp|0|||
-[#12428](https://github.com/conan-io/conan-center-index/pull/12428)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:stopwatch: cpp-optparse|0|||
+[#12428](https://github.com/conan-io/conan-center-index/pull/12428)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: cpp-optparse|0|||
+[#12429](https://github.com/conan-io/conan-center-index/pull/12429)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: cppkafka|0|||
+[#12430](https://github.com/conan-io/conan-center-index/pull/12430)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: crc32c|0|||
+[#12431](https://github.com/conan-io/conan-center-index/pull/12431)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: crunch|0|||
+[#12432](https://github.com/conan-io/conan-center-index/pull/12432)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:stopwatch: cwalk|0|||
+[#12433](https://github.com/conan-io/conan-center-index/pull/12433)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:stopwatch: enet|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -165,9 +170,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 294
+	- Open: 299
 	- Draft: 35
-	- Average Age: 52 days, 2 hours, and 6.87 minutes
+	- Average Age: 51 days, 7 hours, and 9.57 minutes
 	- Stop Label: 122
 	
 
