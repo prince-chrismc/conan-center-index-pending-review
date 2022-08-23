@@ -3166,5 +3166,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12483,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-23T22:23:00Z",
+      "Recipe": "zfp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12483",
+      "LastCommitSHA": "75102793ab7636649edfd66a3dd21263d8b9c8e7",
+      "LastCommitAt": "2022-08-23T22:22:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12484,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-23T22:57:26Z",
+      "Recipe": "zopfli",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12484",
+      "LastCommitSHA": "ce0de699e99a6a9a9adc9479f0eaa77f0d636d0d",
+      "LastCommitAt": "2022-08-23T22:56:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12485,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-23T23:14:59Z",
+      "Recipe": "zziplib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12485",
+      "LastCommitSHA": "f71b9eb8ddfff9da21a5063e564510e4fc4cf11a",
+      "LastCommitAt": "2022-08-23T23:14:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
