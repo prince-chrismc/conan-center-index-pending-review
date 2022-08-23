@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **129** pull requests currently under way :detective:
+There are **132** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -154,6 +154,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12478](https://github.com/conan-io/conan-center-index/pull/12478)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:stopwatch: libmaxminddb|0|||
 [#12480](https://github.com/conan-io/conan-center-index/pull/12480)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:stopwatch: rttr|0|||
 [#12481](https://github.com/conan-io/conan-center-index/pull/12481)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:stopwatch: semver.c|0|||
+[#12483](https://github.com/conan-io/conan-center-index/pull/12483)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:stopwatch: zfp|0|||
+[#12484](https://github.com/conan-io/conan-center-index/pull/12484)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:stopwatch: zopfli|0|||
+[#12485](https://github.com/conan-io/conan-center-index/pull/12485)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:stopwatch: zziplib|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -173,9 +176,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 297
+	- Open: 300
 	- Draft: 33
-	- Average Age: 52 days, 15 hours, and 43.22 minutes
+	- Average Age: 52 days, 4 hours, and 5.07 minutes
 	- Stop Label: 118
 	
 
