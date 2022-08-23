@@ -94,6 +94,29 @@
       }
    },
    {
+      "Number": 11477,
+      "OpenedBy": "talyz",
+      "CreatedAt": "2022-07-01T15:24:50Z",
+      "Recipe": "tensorflow-lite",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11477",
+      "LastCommitSHA": "0238c7073f2409113db585d9ebb558d3f49853de",
+      "LastCommitAt": "2022-08-23T16:39:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-23T10:12:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11477#pullrequestreview-1081856394"
+         }
+      }
+   },
+   {
       "Number": 11694,
       "OpenedBy": "jpilet",
       "CreatedAt": "2022-07-14T12:58:51Z",
@@ -479,78 +502,25 @@
       }
    },
    {
-      "Number": 12198,
-      "OpenedBy": "ofiriluz",
-      "CreatedAt": "2022-08-14T08:50:30Z",
-      "Recipe": "octo-wildcardmatching-cpp",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12198",
-      "LastCommitSHA": "ae568f57618d24646f5fcacaf73da527d0edbda9",
-      "LastCommitAt": "2022-08-23T10:00:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-23T12:42:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12198#pullrequestreview-1082093511"
-         }
-      }
-   },
-   {
       "Number": 12206,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-14T13:01:00Z",
       "Recipe": "out_ptr",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12206",
-      "LastCommitSHA": "6d1d9d72654759aa832c0ef2ea68b52b2fcbf9d9",
-      "LastCommitAt": "2022-08-14T13:02:51Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "5d53ae3fdab3993e33387e687fe9fb6043ba711d",
+      "LastCommitAt": "2022-08-23T17:19:19Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "toge",
             "SubmittedAt": "2022-08-23T15:01:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12206#pullrequestreview-1082344039"
-         }
-      }
-   },
-   {
-      "Number": 12207,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-08-14T13:15:36Z",
-      "Recipe": "polylineencoder",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12207",
-      "LastCommitSHA": "cd7b05c73f0434e7eeaa05c4ce5908d19a16b0e5",
-      "LastCommitAt": "2022-08-16T10:31:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-08-23T15:04:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12207#pullrequestreview-1082350940"
          }
       }
    },
@@ -586,16 +556,14 @@
       "Recipe": "sophus",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12210",
-      "LastCommitSHA": "0cf309078598849c52cf1ed6bf7f24ae657c1026",
-      "LastCommitAt": "2022-08-14T15:45:06Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "401aba0effc6120309e2b1d4690f233819fcd740",
+      "LastCommitAt": "2022-08-23T17:30:09Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -611,16 +579,14 @@
       "Recipe": "tuplet",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12211",
-      "LastCommitSHA": "b66ba6aeafefd335a5ab6d2693f11ea976504ace",
-      "LastCommitAt": "2022-08-14T15:42:43Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7382419d4339abc6b92fb6732a657ff0e420a80c",
+      "LastCommitAt": "2022-08-23T18:06:02Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -661,16 +627,14 @@
       "Recipe": "xsimd",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12224",
-      "LastCommitSHA": "026c810b38e492429137ba5883bbb64b2ee8e10e",
-      "LastCommitAt": "2022-08-15T08:54:22Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "124ee5353b796283f0b47e387a7bd18e3e2d8a39",
+      "LastCommitAt": "2022-08-23T17:27:05Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -1543,7 +1507,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12326",
       "LastCommitSHA": "729f25373a4f804a72f2f5de7f58515e0e4b5783",
       "LastCommitAt": "2022-08-23T13:19:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -2259,7 +2223,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12411",
       "LastCommitSHA": "70e01f84b10ce50d19dabdaacc6a4d39f1d4c1e9",
       "LastCommitAt": "2022-08-23T13:18:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 1,
@@ -2926,32 +2890,6 @@
       }
    },
    {
-      "Number": 12457,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-08-22T22:26:23Z",
-      "Recipe": "openexr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12457",
-      "LastCommitSHA": "d13462e6fd35d51f399d5aebb3e18cde4a023d3e",
-      "LastCommitAt": "2022-08-22T22:25:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-08-23T14:16:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12457#pullrequestreview-1082262003"
-         }
-      }
-   },
-   {
       "Number": 12461,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-23T08:01:44Z",
@@ -3027,56 +2965,6 @@
       }
    },
    {
-      "Number": 12465,
-      "OpenedBy": "ofiriluz",
-      "CreatedAt": "2022-08-23T10:02:27Z",
-      "Recipe": "octo-logger-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12465",
-      "LastCommitSHA": "efa79da254ebcfc4235e8143079d9d790d05fdff",
-      "LastCommitAt": "2022-08-23T10:01:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-23T12:44:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12465#pullrequestreview-1082097608"
-         }
-      }
-   },
-   {
-      "Number": 12466,
-      "OpenedBy": "ofiriluz",
-      "CreatedAt": "2022-08-23T10:02:58Z",
-      "Recipe": "octo-encryption-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12466",
-      "LastCommitSHA": "aa29bd41989a8950c1c8c0a73b716ad29c6fa044",
-      "LastCommitAt": "2022-08-23T10:01:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-23T12:53:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12466#pullrequestreview-1082115852"
-         }
-      }
-   },
-   {
       "Number": 12468,
       "OpenedBy": "kambala-decapitator",
       "CreatedAt": "2022-08-23T11:49:14Z",
@@ -3103,7 +2991,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12469",
       "LastCommitSHA": "dabeb3952e1b661ee0c54092c32be9f3c7d31c57",
       "LastCommitAt": "2022-08-23T12:37:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3119,33 +3007,23 @@
       "Recipe": "sdl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12472",
-      "LastCommitSHA": "7b98614e798c4d1cdda123d94dffa5500b491d1e",
+      "LastCommitSHA": "6eaa24f5ca1c098cb6dd09d903d1407caa5f934b",
       "LastCommitAt": "2022-08-23T15:09:15Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 12473,
-      "OpenedBy": "patmantru",
-      "CreatedAt": "2022-08-23T15:16:45Z",
-      "Recipe": "opentdf-client",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12473",
-      "LastCommitSHA": "3481263c390b02b7c7dc2eba74d437b1f6783df4",
-      "LastCommitAt": "2022-08-23T15:13:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "paulocoutinhox",
+            "madebr"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "madebr",
+            "SubmittedAt": "2022-08-23T18:10:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12472#pullrequestreview-1082634272"
+         }
       }
    }
 ]
