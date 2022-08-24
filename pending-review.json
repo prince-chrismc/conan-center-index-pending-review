@@ -1051,7 +1051,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12264",
       "LastCommitSHA": "070002d7fb14e169fd35a6dca996874b112acb52",
       "LastCommitAt": "2022-08-23T19:28:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3047,29 +3047,6 @@
       }
    },
    {
-      "Number": 12471,
-      "OpenedBy": "staskau",
-      "CreatedAt": "2022-08-23T13:54:35Z",
-      "Recipe": "unicorn",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12471",
-      "LastCommitSHA": "e73b934eeb8021a814cd5690879d87bb569791b5",
-      "LastCommitAt": "2022-08-23T21:50:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "madebr",
-            "SubmittedAt": "2022-08-23T21:46:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12471#pullrequestreview-1082879045"
-         }
-      }
-   },
-   {
       "Number": 12472,
       "OpenedBy": "kambala-decapitator",
       "CreatedAt": "2022-08-23T14:54:56Z",
@@ -3122,7 +3099,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12478",
       "LastCommitSHA": "3ea55fc7904032dc324feeda419e6ec91bf42d46",
       "LastCommitAt": "2022-08-23T20:27:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3140,7 +3117,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12480",
       "LastCommitSHA": "6543feb131e4295157d1a4734bcb05416b08caa7",
       "LastCommitAt": "2022-08-23T20:53:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3158,7 +3135,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12481",
       "LastCommitSHA": "be81947a3adf70a6f83cf0e67ac86cbb30e37d1d",
       "LastCommitAt": "2022-08-23T21:16:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3176,7 +3153,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12483",
       "LastCommitSHA": "75102793ab7636649edfd66a3dd21263d8b9c8e7",
       "LastCommitAt": "2022-08-23T22:22:21Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3194,7 +3171,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12484",
       "LastCommitSHA": "ce0de699e99a6a9a9adc9479f0eaa77f0d636d0d",
       "LastCommitAt": "2022-08-23T22:56:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3210,8 +3187,26 @@
       "Recipe": "zziplib",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12485",
-      "LastCommitSHA": "f71b9eb8ddfff9da21a5063e564510e4fc4cf11a",
-      "LastCommitAt": "2022-08-23T23:14:15Z",
+      "LastCommitSHA": "d67865fb7a91ee6de083ec845f9e133a36479b9a",
+      "LastCommitAt": "2022-08-24T00:11:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12486,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-23T23:42:36Z",
+      "Recipe": "aws-c-common",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12486",
+      "LastCommitSHA": "683f151c2648febe1ad34fb29a8bf0b7e99bf247",
+      "LastCommitAt": "2022-08-23T23:42:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
