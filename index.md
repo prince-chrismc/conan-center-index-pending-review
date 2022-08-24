@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **88** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -113,20 +113,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12528](https://github.com/conan-io/conan-center-index/pull/12528)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:stopwatch: csvmonkey|3|Aug 24||
 [#12539](https://github.com/conan-io/conan-center-index/pull/12539)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:stopwatch: thrift|0|||
 [#12540](https://github.com/conan-io/conan-center-index/pull/12540)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:green_book: docs|0|||
+[#12541](https://github.com/conan-io/conan-center-index/pull/12541)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:stopwatch: celero|0|||
+[#12542](https://github.com/conan-io/conan-center-index/pull/12542)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:stopwatch: cereal|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **32** pull requests are waiting to be merged :tada:
+Currently **29** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|3|uilianries, ericLemanissier, prince-chrismc
-[#12420](https://github.com/conan-io/conan-center-index/pull/12420)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: charls|2|uilianries, jgsogo
-[#12421](https://github.com/conan-io/conan-center-index/pull/12421)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: chipmunk2d|2|uilianries, jgsogo
-[#12422](https://github.com/conan-io/conan-center-index/pull/12422)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: clhep|2|uilianries, jgsogo
 [#12423](https://github.com/conan-io/conan-center-index/pull/12423)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: coin-lemon|2|uilianries, jgsogo
 [#12426](https://github.com/conan-io/conan-center-index/pull/12426)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: cmocka|2|uilianries, jgsogo
 [#12427](https://github.com/conan-io/conan-center-index/pull/12427)|[SpaceIm](https://github.com/SpaceIm)|Aug 21|:memo: concurrencpp|2|uilianries, jgsogo
@@ -162,9 +161,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 290
+	- Open: 289
 	- Draft: 32
-	- Average Age: 54 days, and 39.25 minutes
+	- Average Age: 54 days, 5 hours, and 16.06 minutes
 	- Stop Label: 124
 	
 
