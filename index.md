@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **72** pull requests currently under way :detective:
+There are **73** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,11 +41,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12112](https://github.com/conan-io/conan-center-index/pull/12112)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: lzfse|5|Aug 22||uilianries
 [#12121](https://github.com/conan-io/conan-center-index/pull/12121)|[toge](https://github.com/toge)|Aug 9|:memo: blend2d|2|Aug 15||uilianries
 [#12175](https://github.com/conan-io/conan-center-index/pull/12175)|[SpaceIm](https://github.com/SpaceIm)|Aug 12|:memo: entt|2|Aug 24||uilianries
-[#12185](https://github.com/conan-io/conan-center-index/pull/12185)|[szmyd](https://github.com/szmyd)|Aug 12|:stopwatch: semver200|1|Aug 19||
-[#12240](https://github.com/conan-io/conan-center-index/pull/12240)|[planetmarshall](https://github.com/planetmarshall)|Aug 15|:memo: cairo|11|Aug 25||prince-chrismc
+[#12240](https://github.com/conan-io/conan-center-index/pull/12240)|[planetmarshall](https://github.com/planetmarshall)|Aug 15|:memo: cairo|10|Aug 25||prince-chrismc
 [#12249](https://github.com/conan-io/conan-center-index/pull/12249)|[sloriot](https://github.com/sloriot)|Aug 16|:memo: cgal|18|Aug 25||uilianries
 [#12256](https://github.com/conan-io/conan-center-index/pull/12256)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Aug 16|:memo: mingw-w64|1|Aug 16||ericLemanissier
-[#12290](https://github.com/conan-io/conan-center-index/pull/12290)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: h3|3|Aug 22||uilianries
 [#12291](https://github.com/conan-io/conan-center-index/pull/12291)|[marcusl](https://github.com/marcusl)|Aug 17|:memo: clipper|3|Aug 24|jgsogo|uilianries, prince-chrismc
 [#12292](https://github.com/conan-io/conan-center-index/pull/12292)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: libspatialindex|1|Aug 18||uilianries
 [#12301](https://github.com/conan-io/conan-center-index/pull/12301)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: fftw|3|Aug 22||uilianries
@@ -68,7 +66,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12366](https://github.com/conan-io/conan-center-index/pull/12366)|[szmyd](https://github.com/szmyd)|Aug 18|:new: jungle|2|Aug 22||
 [#12369](https://github.com/conan-io/conan-center-index/pull/12369)|[SpaceIm](https://github.com/SpaceIm)|Aug 18|:memo: lodepng|1|Aug 19||uilianries
 [#12370](https://github.com/conan-io/conan-center-index/pull/12370)|[SpaceIm](https://github.com/SpaceIm)|Aug 18|:memo: log.c|2|Aug 22||uilianries
+[#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:stopwatch: imagemagick|0|||
 [#12376](https://github.com/conan-io/conan-center-index/pull/12376)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: nlopt|2|Aug 22||uilianries
+[#12377](https://github.com/conan-io/conan-center-index/pull/12377)|[MartinDelille](https://github.com/MartinDelille)|Aug 19|:stopwatch: libcurl|12|Aug 25||
 [#12378](https://github.com/conan-io/conan-center-index/pull/12378)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: openjpeg|2|Aug 22||uilianries
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|1|Aug 19||uilianries
 [#12384](https://github.com/conan-io/conan-center-index/pull/12384)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: snappy|1|Aug 19||uilianries
@@ -97,6 +97,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12573](https://github.com/conan-io/conan-center-index/pull/12573)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:stopwatch: vulkan-headers|1|Aug 25||uilianries
 [#12574](https://github.com/conan-io/conan-center-index/pull/12574)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: spirv-headers|0|||
 [#12575](https://github.com/conan-io/conan-center-index/pull/12575)|[uilianries](https://github.com/uilianries)|Aug 25|:green_book: docs|1|Aug 25||prince-chrismc
+[#12578](https://github.com/conan-io/conan-center-index/pull/12578)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:stopwatch: sqlite3|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -108,7 +109,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|3|uilianries, ericLemanissier, prince-chrismc
-[#12332](https://github.com/conan-io/conan-center-index/pull/12332)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 18|:memo: harfbuzz|2|uilianries, prince-chrismc
+[#12290](https://github.com/conan-io/conan-center-index/pull/12290)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: h3|4|uilianries, toge
 [#12518](https://github.com/conan-io/conan-center-index/pull/12518)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: entityx|2|uilianries, jgsogo
 [#12519](https://github.com/conan-io/conan-center-index/pull/12519)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:memo: xkbcommon|4|uilianries, prince-chrismc
 [#12525](https://github.com/conan-io/conan-center-index/pull/12525)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: sdl_image|3|madebr, uilianries, jgsogo
@@ -141,8 +142,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 267
 	- Draft: 33
-	- Average Age: 58 days, 11 hours, and 36.71 minutes
-	- Stop Label: 122
+	- Average Age: 58 days, 11 hours, and 57.23 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
