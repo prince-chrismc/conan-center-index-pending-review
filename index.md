@@ -128,14 +128,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|3|uilianries, ericLemanissier, prince-chrismc
-[#12464](https://github.com/conan-io/conan-center-index/pull/12464)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:memo: simdjson|2|uilianries, jgsogo
 [#12478](https://github.com/conan-io/conan-center-index/pull/12478)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:memo: libmaxminddb|2|uilianries, jgsogo
 [#12480](https://github.com/conan-io/conan-center-index/pull/12480)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:memo: rttr|2|uilianries, jgsogo
 [#12481](https://github.com/conan-io/conan-center-index/pull/12481)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:memo: semver.c|2|uilianries, jgsogo
@@ -150,10 +149,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 280
+	- Open: 278
 	- Draft: 32
-	- Average Age: 56 days, 2 hours, and 5.31 minutes
-	- Stop Label: 124
+	- Average Age: 56 days, 12 hours, and 12.01 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
