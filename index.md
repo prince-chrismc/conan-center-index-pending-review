@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **93** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,11 +41,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12108](https://github.com/conan-io/conan-center-index/pull/12108)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: lz4|4|Aug 22||uilianries
 [#12112](https://github.com/conan-io/conan-center-index/pull/12112)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:memo: lzfse|5|Aug 22||uilianries
 [#12121](https://github.com/conan-io/conan-center-index/pull/12121)|[toge](https://github.com/toge)|Aug 9|:memo: blend2d|2|Aug 15||uilianries
-[#12162](https://github.com/conan-io/conan-center-index/pull/12162)|[uilianries](https://github.com/uilianries)|Aug 12|:memo: fmt|2|Aug 16||prince-chrismc, jwillikers
 [#12175](https://github.com/conan-io/conan-center-index/pull/12175)|[SpaceIm](https://github.com/SpaceIm)|Aug 12|:memo: entt|2|Aug 24||uilianries
 [#12185](https://github.com/conan-io/conan-center-index/pull/12185)|[szmyd](https://github.com/szmyd)|Aug 12|:new: semver200|1|Aug 19||
 [#12240](https://github.com/conan-io/conan-center-index/pull/12240)|[planetmarshall](https://github.com/planetmarshall)|Aug 15|:memo: cairo|9|Aug 24||
-[#12249](https://github.com/conan-io/conan-center-index/pull/12249)|[sloriot](https://github.com/sloriot)|Aug 16|:memo: cgal|14|Aug 24||uilianries
+[#12249](https://github.com/conan-io/conan-center-index/pull/12249)|[sloriot](https://github.com/sloriot)|Aug 16|:memo: cgal|16|Aug 25||uilianries
 [#12256](https://github.com/conan-io/conan-center-index/pull/12256)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Aug 16|:memo: mingw-w64|1|Aug 16||ericLemanissier
 [#12260](https://github.com/conan-io/conan-center-index/pull/12260)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: octomap|1|Aug 17||uilianries
 [#12264](https://github.com/conan-io/conan-center-index/pull/12264)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: geographiclib|1|Aug 24||uilianries
@@ -55,7 +54,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12290](https://github.com/conan-io/conan-center-index/pull/12290)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: h3|3|Aug 22||uilianries
 [#12291](https://github.com/conan-io/conan-center-index/pull/12291)|[marcusl](https://github.com/marcusl)|Aug 17|:memo: clipper|3|Aug 24|jgsogo|uilianries, prince-chrismc
 [#12292](https://github.com/conan-io/conan-center-index/pull/12292)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: libspatialindex|1|Aug 18||uilianries
-[#12300](https://github.com/conan-io/conan-center-index/pull/12300)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: dav1d|2|Aug 22||uilianries
 [#12301](https://github.com/conan-io/conan-center-index/pull/12301)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: fftw|3|Aug 22||uilianries
 [#12303](https://github.com/conan-io/conan-center-index/pull/12303)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: http_parser|2|Aug 22||uilianries
 [#12305](https://github.com/conan-io/conan-center-index/pull/12305)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: libde265|1|Aug 18||uilianries
@@ -96,15 +94,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12468](https://github.com/conan-io/conan-center-index/pull/12468)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: boost|0|||
 [#12472](https://github.com/conan-io/conan-center-index/pull/12472)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: sdl|4|Aug 25||
 [#12477](https://github.com/conan-io/conan-center-index/pull/12477)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: qt|0|||
-[#12514](https://github.com/conan-io/conan-center-index/pull/12514)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:memo: c-blosc|3|Aug 25||ericLemanissier
 [#12519](https://github.com/conan-io/conan-center-index/pull/12519)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:memo: xkbcommon|2|Aug 25||
 [#12528](https://github.com/conan-io/conan-center-index/pull/12528)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:stopwatch: csvmonkey|3|Aug 24||
-[#12541](https://github.com/conan-io/conan-center-index/pull/12541)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: celero|1|Aug 25||jgsogo
 [#12544](https://github.com/conan-io/conan-center-index/pull/12544)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: cpp-httplib|3|Aug 25||jgsogo
 [#12545](https://github.com/conan-io/conan-center-index/pull/12545)|[patmantru](https://github.com/patmantru)|Aug 24|:memo: opentdf-client|4|Aug 25||jgsogo
 [#12547](https://github.com/conan-io/conan-center-index/pull/12547)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: bitmagic|1|Aug 25||jgsogo
 [#12548](https://github.com/conan-io/conan-center-index/pull/12548)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: any-lite|1|Aug 25||jgsogo
-[#12549](https://github.com/conan-io/conan-center-index/pull/12549)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: bit-lite|1|Aug 25||jgsogo
 [#12550](https://github.com/conan-io/conan-center-index/pull/12550)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: boolean-lite|1|Aug 25||jgsogo
 [#12551](https://github.com/conan-io/conan-center-index/pull/12551)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: expected-lite|1|Aug 25||jgsogo
 [#12552](https://github.com/conan-io/conan-center-index/pull/12552)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: fast_float|1|Aug 25||jgsogo
@@ -114,30 +109,35 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12556](https://github.com/conan-io/conan-center-index/pull/12556)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: cista|1|Aug 25||jgsogo
 [#12557](https://github.com/conan-io/conan-center-index/pull/12557)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: concurrentqueue|1|Aug 25||jgsogo
 [#12559](https://github.com/conan-io/conan-center-index/pull/12559)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:stopwatch: functionalplus|0|||
-[#12560](https://github.com/conan-io/conan-center-index/pull/12560)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:stopwatch: tl-optional|0|||
-[#12562](https://github.com/conan-io/conan-center-index/pull/12562)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:stopwatch: tl-function-ref|0|||
-[#12565](https://github.com/conan-io/conan-center-index/pull/12565)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 25|:stopwatch: .c3i|0|||
+[#12560](https://github.com/conan-io/conan-center-index/pull/12560)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: tl-optional|0|||
+[#12562](https://github.com/conan-io/conan-center-index/pull/12562)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: tl-function-ref|0|||
+[#12565](https://github.com/conan-io/conan-center-index/pull/12565)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 25|:gear: .c3i|0|||
 [#12568](https://github.com/conan-io/conan-center-index/pull/12568)|[BjoernAtBosch](https://github.com/BjoernAtBosch)|Aug 25|:stopwatch: libcurl|0|||
+[#12570](https://github.com/conan-io/conan-center-index/pull/12570)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: tl-expected|0|||
+[#12572](https://github.com/conan-io/conan-center-index/pull/12572)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: tl|0|||
+[#12573](https://github.com/conan-io/conan-center-index/pull/12573)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:stopwatch: vulkan-headers|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|3|uilianries, ericLemanissier, prince-chrismc
-[#12411](https://github.com/conan-io/conan-center-index/pull/12411)|[jwillikers](https://github.com/jwillikers)|Aug 20|:memo: fmt|9|uilianries, jgsogo
 [#12486](https://github.com/conan-io/conan-center-index/pull/12486)|[SpaceIm](https://github.com/SpaceIm)|Aug 23|:memo: aws-c-common|2|uilianries, jgsogo
+[#12514](https://github.com/conan-io/conan-center-index/pull/12514)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:memo: c-blosc|4|ericLemanissier, danimtb
 [#12518](https://github.com/conan-io/conan-center-index/pull/12518)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: entityx|2|uilianries, jgsogo
 [#12525](https://github.com/conan-io/conan-center-index/pull/12525)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: sdl_image|3|madebr, uilianries, jgsogo
 [#12539](https://github.com/conan-io/conan-center-index/pull/12539)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: thrift|2|uilianries, jgsogo
 [#12540](https://github.com/conan-io/conan-center-index/pull/12540)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:green_book: docs|3|prince-chrismc, uilianries, jgsogo
+[#12541](https://github.com/conan-io/conan-center-index/pull/12541)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: celero|2|jgsogo, uilianries
 [#12542](https://github.com/conan-io/conan-center-index/pull/12542)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: cereal|2|jgsogo, uilianries
 [#12543](https://github.com/conan-io/conan-center-index/pull/12543)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: audiofile|2|jgsogo, uilianries
 [#12546](https://github.com/conan-io/conan-center-index/pull/12546)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: glm|2|jgsogo, uilianries
+[#12549](https://github.com/conan-io/conan-center-index/pull/12549)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: bit-lite|2|jgsogo, uilianries
 
 
 #### :clipboard: Statistics
@@ -148,7 +148,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 273
 	- Draft: 33
-	- Average Age: 57 days, 11 hours, and 55.28 minutes
+	- Average Age: 57 days, 10 hours, and 44.59 minutes
 	- Stop Label: 121
 	
 
