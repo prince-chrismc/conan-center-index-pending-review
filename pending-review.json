@@ -405,29 +405,6 @@
       }
    },
    {
-      "Number": 12185,
-      "OpenedBy": "szmyd",
-      "CreatedAt": "2022-08-12T17:09:55Z",
-      "Recipe": "semver200",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12185",
-      "LastCommitSHA": "a1d648ab1a034393ab8d1d7d0cf75c91ee320d24",
-      "LastCommitAt": "2022-08-25T15:37:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-19T08:51:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12185#pullrequestreview-1078477364"
-         }
-      }
-   },
-   {
       "Number": 12240,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2022-08-15T18:48:13Z",
@@ -438,7 +415,7 @@
       "LastCommitAt": "2022-08-24T17:36:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
+         "Count": 10,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -446,9 +423,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "hesham-essam",
-            "SubmittedAt": "2022-08-25T17:03:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12240#pullrequestreview-1085813250"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-08-25T15:32:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12240#pullrequestreview-1085676334"
          }
       }
    },
@@ -540,17 +517,18 @@
       "LastCommitAt": "2022-08-21T22:34:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-22T14:04:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12290#pullrequestreview-1080555516"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-08-25T17:31:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12290#pullrequestreview-1085849076"
          }
       }
    },
@@ -844,32 +822,6 @@
       }
    },
    {
-      "Number": 12332,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-08-18T09:26:22Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12332",
-      "LastCommitSHA": "dd9034b534265cb9866e1ae6b037cbbf27f3adc2",
-      "LastCommitAt": "2022-08-22T08:53:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-08-25T15:54:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12332#pullrequestreview-1085715318"
-         }
-      }
-   },
-   {
       "Number": 12343,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-18T12:22:24Z",
@@ -1111,6 +1063,24 @@
       }
    },
    {
+      "Number": 12371,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-08-19T00:57:37Z",
+      "Recipe": "imagemagick",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12371",
+      "LastCommitSHA": "dbf33a998539dff4176a5b93a4454d0f71ad51dc",
+      "LastCommitAt": "2022-08-25T18:11:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 12376,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-19T07:32:57Z",
@@ -1132,6 +1102,29 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-08-22T14:01:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12376#pullrequestreview-1080550052"
+         }
+      }
+   },
+   {
+      "Number": 12377,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-08-19T07:55:31Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12377",
+      "LastCommitSHA": "a8c0f7eeff80fdf4bc5933d71bfaf4274b16e0ab",
+      "LastCommitAt": "2022-08-25T17:27:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 12,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-25T10:52:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12377#pullrequestreview-1085178162"
          }
       }
    },
@@ -2342,6 +2335,24 @@
             "SubmittedAt": "2022-08-25T15:27:42Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12575#pullrequestreview-1085667551"
          }
+      }
+   },
+   {
+      "Number": 12578,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-25T18:03:59Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12578",
+      "LastCommitSHA": "43a142f183067ca6d518892e75a210a4a1772f17",
+      "LastCommitAt": "2022-08-25T18:01:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
