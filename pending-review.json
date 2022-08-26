@@ -1515,7 +1515,7 @@
       "Recipe": "emsdk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12598",
-      "LastCommitSHA": "f668e6d2edc4e2e9a65df17c3bf1a8f30f982364",
+      "LastCommitSHA": "57fdb796e241c4f5fdd6ff609957648088cf8cdb",
       "LastCommitAt": "2022-08-26T19:06:30Z",
       "CciBotPassed": false,
       "Summary": {
@@ -1737,7 +1737,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12619",
       "LastCommitSHA": "9430769c59f5870a179663b7d6c99d7b05cc2021",
       "LastCommitAt": "2022-08-26T15:38:11Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
