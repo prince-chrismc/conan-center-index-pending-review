@@ -112,7 +112,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -120,15 +120,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|3|uilianries, ericLemanissier, prince-chrismc
-[#12547](https://github.com/conan-io/conan-center-index/pull/12547)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: bitmagic|2|jgsogo, uilianries
-[#12549](https://github.com/conan-io/conan-center-index/pull/12549)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: bit-lite|2|jgsogo, uilianries
-[#12550](https://github.com/conan-io/conan-center-index/pull/12550)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: boolean-lite|2|jgsogo, uilianries
-[#12551](https://github.com/conan-io/conan-center-index/pull/12551)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: expected-lite|3|jgsogo, franramirez688, uilianries
-[#12552](https://github.com/conan-io/conan-center-index/pull/12552)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: fast_float|2|jgsogo, uilianries
-[#12553](https://github.com/conan-io/conan-center-index/pull/12553)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: fxdiv|2|jgsogo, uilianries
-[#12554](https://github.com/conan-io/conan-center-index/pull/12554)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: boolinq|2|jgsogo, uilianries
-[#12555](https://github.com/conan-io/conan-center-index/pull/12555)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: bitsery|2|jgsogo, uilianries
-[#12556](https://github.com/conan-io/conan-center-index/pull/12556)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: cista|2|jgsogo, uilianries
 [#12557](https://github.com/conan-io/conan-center-index/pull/12557)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: concurrentqueue|2|jgsogo, uilianries
 [#12565](https://github.com/conan-io/conan-center-index/pull/12565)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 25|:gear: .c3i|2|uilianries, prince-chrismc
 [#12580](https://github.com/conan-io/conan-center-index/pull/12580)|[jwillikers](https://github.com/jwillikers)|Aug 25|:memo: boost-ext-ut|7|SpaceIm, prince-chrismc
@@ -140,9 +131,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 270
+	- Open: 261
 	- Draft: 34
-	- Average Age: 57 days, 19 hours, and 40.82 minutes
+	- Average Age: 59 days, 21 hours, and 43.19 minutes
 	- Stop Label: 122
 	
 
