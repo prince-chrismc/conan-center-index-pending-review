@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12041](https://github.com/conan-io/conan-center-index/pull/12041)|[tuduongquyet](https://github.com/tuduongquyet)|Aug 4|:memo: sqlite3|3|Aug 4 :bell:||prince-chrismc
 [#12185](https://github.com/conan-io/conan-center-index/pull/12185)|[szmyd](https://github.com/szmyd)|Aug 12|:new: semver200|3|Aug 26||uilianries
 [#12204](https://github.com/conan-io/conan-center-index/pull/12204)|[fpelliccioni](https://github.com/fpelliccioni)|Aug 14|:stopwatch: mpir|0|||
-[#12249](https://github.com/conan-io/conan-center-index/pull/12249)|[sloriot](https://github.com/sloriot)|Aug 16|:memo: cgal|18|Aug 25||uilianries
+[#12249](https://github.com/conan-io/conan-center-index/pull/12249)|[sloriot](https://github.com/sloriot)|Aug 16|:memo: cgal|19|Aug 26||uilianries
 [#12256](https://github.com/conan-io/conan-center-index/pull/12256)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Aug 16|:memo: mingw-w64|1|Aug 16||ericLemanissier
 [#12291](https://github.com/conan-io/conan-center-index/pull/12291)|[marcusl](https://github.com/marcusl)|Aug 17|:memo: clipper|3|Aug 24|jgsogo|uilianries, prince-chrismc
 [#12310](https://github.com/conan-io/conan-center-index/pull/12310)|[jave27](https://github.com/jave27)|Aug 17|:stopwatch: qxmpp|0|:eyes:||
@@ -56,22 +56,21 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12528](https://github.com/conan-io/conan-center-index/pull/12528)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:stopwatch: csvmonkey|3|Aug 24||
 [#12548](https://github.com/conan-io/conan-center-index/pull/12548)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: any-lite|1|Aug 25||jgsogo
 [#12568](https://github.com/conan-io/conan-center-index/pull/12568)|[BjoernAtBosch](https://github.com/BjoernAtBosch)|Aug 25|:stopwatch: libcurl|1|Aug 25||
-[#12603](https://github.com/conan-io/conan-center-index/pull/12603)|[uilianries](https://github.com/uilianries)|Aug 26|:memo: etl|0|||
+[#12598](https://github.com/conan-io/conan-center-index/pull/12598)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: emsdk|0|||
+[#12603](https://github.com/conan-io/conan-center-index/pull/12603)|[uilianries](https://github.com/uilianries)|Aug 26|:memo: etl|1|Aug 26||SpaceIm
 [#12604](https://github.com/conan-io/conan-center-index/pull/12604)|[MartinDelille](https://github.com/MartinDelille)|Aug 26|:stopwatch: qxlsx|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **51** pull requests are waiting to be merged :tada:
+Currently **49** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
-[#12175](https://github.com/conan-io/conan-center-index/pull/12175)|[SpaceIm](https://github.com/SpaceIm)|Aug 12|:memo: entt|3|uilianries, jgsogo
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|3|uilianries, ericLemanissier, prince-chrismc
-[#12305](https://github.com/conan-io/conan-center-index/pull/12305)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: libde265|2|uilianries, jgsogo
 [#12313](https://github.com/conan-io/conan-center-index/pull/12313)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: glbinding|2|uilianries, jgsogo
 [#12317](https://github.com/conan-io/conan-center-index/pull/12317)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: miniz|3|uilianries, jgsogo
 [#12320](https://github.com/conan-io/conan-center-index/pull/12320)|[SpaceIm](https://github.com/SpaceIm)|Aug 17|:memo: re2|2|uilianries, jgsogo
@@ -126,9 +125,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 251
-	- Draft: 32
-	- Average Age: 61 days, 22 hours, and 25.86 minutes
+	- Open: 249
+	- Draft: 31
+	- Average Age: 62 days, 9 hours, and 7.58 minutes
 	- Stop Label: 120
 	
 
