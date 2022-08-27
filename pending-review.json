@@ -1788,5 +1788,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12624,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-26T23:55:26Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12624",
+      "LastCommitSHA": "89853020343ecf645bf8299fc479b1520359f820",
+      "LastCommitAt": "2022-08-26T23:52:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
