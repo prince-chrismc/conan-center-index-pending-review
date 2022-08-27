@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **39** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12477](https://github.com/conan-io/conan-center-index/pull/12477)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: qt|4|Aug 26||ericLemanissier
 [#12528](https://github.com/conan-io/conan-center-index/pull/12528)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:stopwatch: csvmonkey|3|Aug 24||
 [#12568](https://github.com/conan-io/conan-center-index/pull/12568)|[BjoernAtBosch](https://github.com/BjoernAtBosch)|Aug 25|:stopwatch: libcurl|1|Aug 25||
-[#12598](https://github.com/conan-io/conan-center-index/pull/12598)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: emsdk|0|||
+[#12598](https://github.com/conan-io/conan-center-index/pull/12598)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: emsdk|1|Aug 27||paulocoutinhox
 [#12604](https://github.com/conan-io/conan-center-index/pull/12604)|[MartinDelille](https://github.com/MartinDelille)|Aug 26|:memo: qxlsx|1|Aug 26||prince-chrismc
 [#12605](https://github.com/conan-io/conan-center-index/pull/12605)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: byte-lite|1|Aug 27||toge
 [#12606](https://github.com/conan-io/conan-center-index/pull/12606)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: getopt-for-visual-studio|0|||
@@ -64,6 +64,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12621](https://github.com/conan-io/conan-center-index/pull/12621)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: tiny-regex-c|0|||
 [#12622](https://github.com/conan-io/conan-center-index/pull/12622)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: nanoflann|0|||
 [#12624](https://github.com/conan-io/conan-center-index/pull/12624)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: android-ndk|0|||
+[#12625](https://github.com/conan-io/conan-center-index/pull/12625)|[l2dy](https://github.com/l2dy)|Aug 27|:stopwatch: artery-font-format|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -118,9 +119,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 246
+	- Open: 247
 	- Draft: 30
-	- Average Age: 63 days, 6 hours, and 42.68 minutes
+	- Average Age: 63 days, 2 hours, and 51.43 minutes
 	- Stop Label: 124
 	
 
