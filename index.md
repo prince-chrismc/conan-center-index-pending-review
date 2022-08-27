@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **58** pull requests currently under way :detective:
+There are **63** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -83,6 +83,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12642](https://github.com/conan-io/conan-center-index/pull/12642)|[leha-bot](https://github.com/leha-bot)|Aug 27|:stopwatch: fmt|0|||
 [#12643](https://github.com/conan-io/conan-center-index/pull/12643)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: jwasm|0|||
 [#12644](https://github.com/conan-io/conan-center-index/pull/12644)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: lerc|0|||
+[#12645](https://github.com/conan-io/conan-center-index/pull/12645)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: libnova|0|||
+[#12646](https://github.com/conan-io/conan-center-index/pull/12646)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mapbox-variant|0|||
+[#12647](https://github.com/conan-io/conan-center-index/pull/12647)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: minimp3|0|||
+[#12649](https://github.com/conan-io/conan-center-index/pull/12649)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mio|0|||
+[#12650](https://github.com/conan-io/conan-center-index/pull/12650)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mpmcqueue|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -137,9 +142,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 264
+	- Open: 269
 	- Draft: 30
-	- Average Age: 59 days, 12 hours, and 7.15 minutes
+	- Average Age: 58 days, 10 hours, and 37.16 minutes
 	- Stop Label: 124
 	
 
