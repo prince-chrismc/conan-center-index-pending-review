@@ -1520,11 +1520,18 @@
       "LastCommitAt": "2022-08-26T19:06:30Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "paulocoutinhox"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "paulocoutinhox",
+            "SubmittedAt": "2022-08-27T05:55:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12598#pullrequestreview-1087646589"
+         }
       }
    },
    {
@@ -1806,6 +1813,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12624",
       "LastCommitSHA": "89853020343ecf645bf8299fc479b1520359f820",
       "LastCommitAt": "2022-08-26T23:52:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12625,
+      "OpenedBy": "l2dy",
+      "CreatedAt": "2022-08-27T05:35:32Z",
+      "Recipe": "artery-font-format",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12625",
+      "LastCommitSHA": "be45a793700bb49ba5a8b3f4f1f0167355b4ac5b",
+      "LastCommitAt": "2022-08-27T01:14:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
