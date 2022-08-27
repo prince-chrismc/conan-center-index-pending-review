@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **56** pull requests currently under way :detective:
+There are **58** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,7 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|3|Aug 26|jgsogo|uilianries
 [#12389](https://github.com/conan-io/conan-center-index/pull/12389)|[kammce](https://github.com/kammce)|Aug 19|:new: libhal|1|Aug 24||
 [#12442](https://github.com/conan-io/conan-center-index/pull/12442)|[SpaceIm](https://github.com/SpaceIm)|Aug 22|:memo: freeimage|1|Aug 26||jgsogo
-[#12468](https://github.com/conan-io/conan-center-index/pull/12468)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: boost|0|:eyes:||
+[#12468](https://github.com/conan-io/conan-center-index/pull/12468)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: boost|0|||
 [#12472](https://github.com/conan-io/conan-center-index/pull/12472)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: sdl|4|Aug 25||
 [#12477](https://github.com/conan-io/conan-center-index/pull/12477)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: qt|4|Aug 26||ericLemanissier
 [#12528](https://github.com/conan-io/conan-center-index/pull/12528)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:stopwatch: csvmonkey|3|Aug 24||
@@ -81,6 +81,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12640](https://github.com/conan-io/conan-center-index/pull/12640)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: hffix|0|||
 [#12641](https://github.com/conan-io/conan-center-index/pull/12641)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: hlslpp|0|||
 [#12642](https://github.com/conan-io/conan-center-index/pull/12642)|[leha-bot](https://github.com/leha-bot)|Aug 27|:stopwatch: fmt|0|||
+[#12643](https://github.com/conan-io/conan-center-index/pull/12643)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: jwasm|0|||
+[#12644](https://github.com/conan-io/conan-center-index/pull/12644)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: lerc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -135,9 +137,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 262
+	- Open: 264
 	- Draft: 30
-	- Average Age: 59 days, 22 hours, and 7.21 minutes
+	- Average Age: 59 days, 12 hours, and 7.15 minutes
 	- Stop Label: 124
 	
 
