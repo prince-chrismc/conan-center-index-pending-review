@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **46** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12477](https://github.com/conan-io/conan-center-index/pull/12477)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:stopwatch: qt|4|Aug 26||ericLemanissier
 [#12528](https://github.com/conan-io/conan-center-index/pull/12528)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:stopwatch: csvmonkey|3|Aug 24||
 [#12568](https://github.com/conan-io/conan-center-index/pull/12568)|[BjoernAtBosch](https://github.com/BjoernAtBosch)|Aug 25|:stopwatch: libcurl|1|Aug 25||
-[#12598](https://github.com/conan-io/conan-center-index/pull/12598)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: emsdk|1|Aug 27||paulocoutinhox
+[#12598](https://github.com/conan-io/conan-center-index/pull/12598)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: emsdk|2|Aug 27||
 [#12604](https://github.com/conan-io/conan-center-index/pull/12604)|[MartinDelille](https://github.com/MartinDelille)|Aug 26|:memo: qxlsx|1|Aug 26||prince-chrismc
 [#12605](https://github.com/conan-io/conan-center-index/pull/12605)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: byte-lite|1|Aug 27||toge
 [#12606](https://github.com/conan-io/conan-center-index/pull/12606)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: getopt-for-visual-studio|0|||
@@ -65,6 +65,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12622](https://github.com/conan-io/conan-center-index/pull/12622)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: nanoflann|0|||
 [#12624](https://github.com/conan-io/conan-center-index/pull/12624)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: android-ndk|0|||
 [#12625](https://github.com/conan-io/conan-center-index/pull/12625)|[l2dy](https://github.com/l2dy)|Aug 27|:stopwatch: artery-font-format|0|||
+[#12626](https://github.com/conan-io/conan-center-index/pull/12626)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: libmorton|0|||
+[#12627](https://github.com/conan-io/conan-center-index/pull/12627)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: fast-cpp-csv-parser|0|||
+[#12628](https://github.com/conan-io/conan-center-index/pull/12628)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: half|0|||
+[#12629](https://github.com/conan-io/conan-center-index/pull/12629)|[leha-bot](https://github.com/leha-bot)|Aug 27|:stopwatch: sdbus-cpp|0|||
+[#12630](https://github.com/conan-io/conan-center-index/pull/12630)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: cpp-peglib|0|||
+[#12632](https://github.com/conan-io/conan-center-index/pull/12632)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: spy|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -119,9 +125,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 247
+	- Open: 252
 	- Draft: 30
-	- Average Age: 63 days, 2 hours, and 51.43 minutes
+	- Average Age: 61 days, 23 hours, and 56.66 minutes
 	- Stop Label: 124
 	
 
