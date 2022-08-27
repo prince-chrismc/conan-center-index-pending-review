@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **56** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -78,6 +78,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12637](https://github.com/conan-io/conan-center-index/pull/12637)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: libsamplerate|0|||
 [#12638](https://github.com/conan-io/conan-center-index/pull/12638)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: decimal_for_cpp|0|||
 [#12639](https://github.com/conan-io/conan-center-index/pull/12639)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: cspice|0|||
+[#12640](https://github.com/conan-io/conan-center-index/pull/12640)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: hffix|0|||
+[#12641](https://github.com/conan-io/conan-center-index/pull/12641)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: hlslpp|0|||
+[#12642](https://github.com/conan-io/conan-center-index/pull/12642)|[leha-bot](https://github.com/leha-bot)|Aug 27|:stopwatch: fmt|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -132,9 +135,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 259
+	- Open: 262
 	- Draft: 30
-	- Average Age: 60 days, 11 hours, and 43.39 minutes
+	- Average Age: 59 days, 22 hours, and 7.21 minutes
 	- Stop Label: 124
 	
 
