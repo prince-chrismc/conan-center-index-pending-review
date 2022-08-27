@@ -2060,5 +2060,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12639,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-27T14:38:56Z",
+      "Recipe": "cspice",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12639",
+      "LastCommitSHA": "d98fb1aa72bfe5fe63a3dc221a861b8bf3318311",
+      "LastCommitAt": "2022-08-27T14:57:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
