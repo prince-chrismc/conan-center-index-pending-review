@@ -2078,5 +2078,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12640,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-27T17:53:59Z",
+      "Recipe": "hffix",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12640",
+      "LastCommitSHA": "514ab7a318293bd624be41326f151c6947111c2b",
+      "LastCommitAt": "2022-08-27T17:53:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12641,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-27T18:00:22Z",
+      "Recipe": "hlslpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12641",
+      "LastCommitSHA": "d3229c89313aea999446acc0a85be99edac14513",
+      "LastCommitAt": "2022-08-27T18:00:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12642,
+      "OpenedBy": "leha-bot",
+      "CreatedAt": "2022-08-27T18:05:22Z",
+      "Recipe": "fmt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12642",
+      "LastCommitSHA": "138251b92ecaafdcfb55480d2a5ba97d63b5ecac",
+      "LastCommitAt": "2022-08-27T18:01:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
