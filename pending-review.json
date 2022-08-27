@@ -2258,5 +2258,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12651,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-27T21:10:29Z",
+      "Recipe": "mujs",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12651",
+      "LastCommitSHA": "5deb467e0b2e3167520ef50cbc8c0186da3cb4a8",
+      "LastCommitAt": "2022-08-27T21:08:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
