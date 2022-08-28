@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **70** pull requests currently under way :detective:
+There are **73** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -51,7 +51,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12528](https://github.com/conan-io/conan-center-index/pull/12528)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:stopwatch: csvmonkey|3|Aug 24||
 [#12568](https://github.com/conan-io/conan-center-index/pull/12568)|[BjoernAtBosch](https://github.com/BjoernAtBosch)|Aug 25|:stopwatch: libcurl|1|Aug 25||
 [#12598](https://github.com/conan-io/conan-center-index/pull/12598)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: emsdk|2|Aug 27||
-[#12604](https://github.com/conan-io/conan-center-index/pull/12604)|[MartinDelille](https://github.com/MartinDelille)|Aug 26|:memo: qxlsx|1|Aug 26||prince-chrismc
+[#12604](https://github.com/conan-io/conan-center-index/pull/12604)|[MartinDelille](https://github.com/MartinDelille)|Aug 26|:stopwatch: qxlsx|1|Aug 26||
 [#12605](https://github.com/conan-io/conan-center-index/pull/12605)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: byte-lite|1|Aug 27||toge
 [#12606](https://github.com/conan-io/conan-center-index/pull/12606)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: getopt-for-visual-studio|0|||
 [#12607](https://github.com/conan-io/conan-center-index/pull/12607)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: opencl-headers|0|||
@@ -90,11 +90,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12650](https://github.com/conan-io/conan-center-index/pull/12650)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mpmcqueue|0|||
 [#12651](https://github.com/conan-io/conan-center-index/pull/12651)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mujs|0|||
 [#12652](https://github.com/conan-io/conan-center-index/pull/12652)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: librttopo|0|||
-[#12653](https://github.com/conan-io/conan-center-index/pull/12653)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 28|:stopwatch: libpng|4|Aug 28||
+[#12653](https://github.com/conan-io/conan-center-index/pull/12653)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 28|:stopwatch: libpng|5|Aug 28||SpaceIm
 [#12654](https://github.com/conan-io/conan-center-index/pull/12654)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: spscqueue|0|||
 [#12656](https://github.com/conan-io/conan-center-index/pull/12656)|[scandyna](https://github.com/scandyna)|Aug 28|:stopwatch: qt|0|||
 [#12657](https://github.com/conan-io/conan-center-index/pull/12657)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: psimd|0|||
 [#12658](https://github.com/conan-io/conan-center-index/pull/12658)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_colony|0|||
+[#12659](https://github.com/conan-io/conan-center-index/pull/12659)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_list|0|||
+[#12660](https://github.com/conan-io/conan-center-index/pull/12660)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_queue|0|||
+[#12661](https://github.com/conan-io/conan-center-index/pull/12661)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_stack|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -149,9 +152,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 276
+	- Open: 279
 	- Draft: 30
-	- Average Age: 57 days, 15 hours, and 57.55 minutes
+	- Average Age: 57 days, 1 hours, and 51.50 minutes
 	- Stop Label: 124
 	
 
