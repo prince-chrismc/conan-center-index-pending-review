@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **66** pull requests currently under way :detective:
+There are **65** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -90,7 +90,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12650](https://github.com/conan-io/conan-center-index/pull/12650)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mpmcqueue|0|||
 [#12651](https://github.com/conan-io/conan-center-index/pull/12651)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mujs|0|||
 [#12652](https://github.com/conan-io/conan-center-index/pull/12652)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: librttopo|0|||
-[#12653](https://github.com/conan-io/conan-center-index/pull/12653)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 28|:stopwatch: libpng|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -147,7 +146,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 272
 	- Draft: 30
-	- Average Age: 58 days, 7 hours, and 9.60 minutes
+	- Average Age: 58 days, 8 hours, and 4.98 minutes
 	- Stop Label: 124
 	
 
