@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **67** pull requests currently under way :detective:
+There are **70** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12041](https://github.com/conan-io/conan-center-index/pull/12041)|[tuduongquyet](https://github.com/tuduongquyet)|Aug 4|:memo: sqlite3|3|Aug 4 :bell:||prince-chrismc
 [#12185](https://github.com/conan-io/conan-center-index/pull/12185)|[szmyd](https://github.com/szmyd)|Aug 12|:new: semver200|3|Aug 26||uilianries
 [#12204](https://github.com/conan-io/conan-center-index/pull/12204)|[fpelliccioni](https://github.com/fpelliccioni)|Aug 14|:memo: mpir|0|||
-[#12256](https://github.com/conan-io/conan-center-index/pull/12256)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Aug 16|:memo: mingw-w64|1|Aug 16||ericLemanissier
+[#12256](https://github.com/conan-io/conan-center-index/pull/12256)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Aug 16|:memo: mingw-w64|1|Aug 16 :bell:||ericLemanissier
 [#12291](https://github.com/conan-io/conan-center-index/pull/12291)|[marcusl](https://github.com/marcusl)|Aug 17|:memo: clipper|3|Aug 24|jgsogo|uilianries, prince-chrismc
 [#12310](https://github.com/conan-io/conan-center-index/pull/12310)|[jave27](https://github.com/jave27)|Aug 17|:stopwatch: qxmpp|0|:eyes:||
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|0|||
@@ -90,8 +90,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12650](https://github.com/conan-io/conan-center-index/pull/12650)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mpmcqueue|0|||
 [#12651](https://github.com/conan-io/conan-center-index/pull/12651)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: mujs|0|||
 [#12652](https://github.com/conan-io/conan-center-index/pull/12652)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: librttopo|0|||
+[#12653](https://github.com/conan-io/conan-center-index/pull/12653)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 28|:stopwatch: libpng|4|Aug 28||
 [#12654](https://github.com/conan-io/conan-center-index/pull/12654)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: spscqueue|0|||
 [#12656](https://github.com/conan-io/conan-center-index/pull/12656)|[scandyna](https://github.com/scandyna)|Aug 28|:stopwatch: qt|0|||
+[#12657](https://github.com/conan-io/conan-center-index/pull/12657)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: psimd|0|||
+[#12658](https://github.com/conan-io/conan-center-index/pull/12658)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_colony|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -146,9 +149,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 274
+	- Open: 276
 	- Draft: 30
-	- Average Age: 57 days, 22 hours, and 54.28 minutes
+	- Average Age: 57 days, 15 hours, and 57.55 minutes
 	- Stop Label: 124
 	
 
