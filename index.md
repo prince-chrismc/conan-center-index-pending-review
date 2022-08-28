@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **75** pull requests currently under way :detective:
+There are **79** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -100,6 +100,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12661](https://github.com/conan-io/conan-center-index/pull/12661)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_stack|0|||
 [#12662](https://github.com/conan-io/conan-center-index/pull/12662)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_nanotimer|0|||
 [#12664](https://github.com/conan-io/conan-center-index/pull/12664)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_indiesort|0|||
+[#12665](https://github.com/conan-io/conan-center-index/pull/12665)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: nanosvg|0|||
+[#12666](https://github.com/conan-io/conan-center-index/pull/12666)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: nuklear|0|||
+[#12667](https://github.com/conan-io/conan-center-index/pull/12667)|[mattgodbolt](https://github.com/mattgodbolt)|Aug 28|:stopwatch: seasocks|0|||
+[#12668](https://github.com/conan-io/conan-center-index/pull/12668)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: oatpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -154,9 +158,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 281
+	- Open: 285
 	- Draft: 30
-	- Average Age: 56 days, 20 hours, and 10.20 minutes
+	- Average Age: 56 days, 2 hours, and 58.24 minutes
 	- Stop Label: 124
 	
 
