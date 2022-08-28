@@ -2658,5 +2658,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12673,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-28T21:41:13Z",
+      "Recipe": "qcustomplot",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12673",
+      "LastCommitSHA": "d6978f8ab2d4656ea102733be69c961b2f8ac952",
+      "LastCommitAt": "2022-08-28T21:40:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
