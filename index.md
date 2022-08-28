@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **74** pull requests currently under way :detective:
+There are **75** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -56,7 +56,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12606](https://github.com/conan-io/conan-center-index/pull/12606)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: getopt-for-visual-studio|0|||
 [#12607](https://github.com/conan-io/conan-center-index/pull/12607)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: opencl-headers|0|||
 [#12608](https://github.com/conan-io/conan-center-index/pull/12608)|[vbieleny](https://github.com/vbieleny)|Aug 26|:memo: brotli|3|Aug 26||SpaceIm
-[#12609](https://github.com/conan-io/conan-center-index/pull/12609)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: morton-nd|0|||
+[#12609](https://github.com/conan-io/conan-center-index/pull/12609)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: morton-nd|1|Aug 28||toge
 [#12610](https://github.com/conan-io/conan-center-index/pull/12610)|[rainman110](https://github.com/rainman110)|Aug 26|:stopwatch: tixi3|0|||
 [#12611](https://github.com/conan-io/conan-center-index/pull/12611)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: utfcpp|1|Aug 28||toge
 [#12617](https://github.com/conan-io/conan-center-index/pull/12617)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: pcre|1|Aug 28||toge
@@ -99,6 +99,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12660](https://github.com/conan-io/conan-center-index/pull/12660)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_queue|0|||
 [#12661](https://github.com/conan-io/conan-center-index/pull/12661)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_stack|0|||
 [#12662](https://github.com/conan-io/conan-center-index/pull/12662)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_nanotimer|0|||
+[#12664](https://github.com/conan-io/conan-center-index/pull/12664)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: plf_indiesort|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -153,9 +154,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 280
+	- Open: 281
 	- Draft: 30
-	- Average Age: 56 days, 21 hours, and 59.88 minutes
+	- Average Age: 56 days, 20 hours, and 10.20 minutes
 	- Stop Label: 124
 	
 
