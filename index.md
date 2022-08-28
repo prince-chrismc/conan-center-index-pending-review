@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **79** pull requests currently under way :detective:
+There are **83** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -104,6 +104,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12666](https://github.com/conan-io/conan-center-index/pull/12666)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: nuklear|0|||
 [#12667](https://github.com/conan-io/conan-center-index/pull/12667)|[mattgodbolt](https://github.com/mattgodbolt)|Aug 28|:stopwatch: seasocks|0|||
 [#12668](https://github.com/conan-io/conan-center-index/pull/12668)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: oatpp|0|||
+[#12669](https://github.com/conan-io/conan-center-index/pull/12669)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: onnx|0|||
+[#12670](https://github.com/conan-io/conan-center-index/pull/12670)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: pcg-cpp|0|||
+[#12671](https://github.com/conan-io/conan-center-index/pull/12671)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:stopwatch: protozero|0|||
+[#12672](https://github.com/conan-io/conan-center-index/pull/12672)|[synacker](https://github.com/synacker)|Aug 28|:stopwatch: daggy|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -158,9 +162,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 285
+	- Open: 289
 	- Draft: 30
-	- Average Age: 56 days, 2 hours, and 58.24 minutes
+	- Average Age: 55 days, 9 hours, and 18.66 minutes
 	- Stop Label: 124
 	
 
