@@ -59,10 +59,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12609](https://github.com/conan-io/conan-center-index/pull/12609)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: morton-nd|0|||
 [#12610](https://github.com/conan-io/conan-center-index/pull/12610)|[rainman110](https://github.com/rainman110)|Aug 26|:stopwatch: tixi3|0|||
 [#12611](https://github.com/conan-io/conan-center-index/pull/12611)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: utfcpp|1|Aug 28||toge
-[#12617](https://github.com/conan-io/conan-center-index/pull/12617)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: pcre|0|||
+[#12617](https://github.com/conan-io/conan-center-index/pull/12617)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: pcre|1|Aug 28||toge
 [#12619](https://github.com/conan-io/conan-center-index/pull/12619)|[jellespijker](https://github.com/jellespijker)|Aug 26|:stopwatch: harfbuzz|1|Aug 26||SpaceIm
-[#12621](https://github.com/conan-io/conan-center-index/pull/12621)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: tiny-regex-c|0|||
-[#12622](https://github.com/conan-io/conan-center-index/pull/12622)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: nanoflann|0|||
+[#12621](https://github.com/conan-io/conan-center-index/pull/12621)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: tiny-regex-c|1|Aug 28||toge
+[#12622](https://github.com/conan-io/conan-center-index/pull/12622)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: nanoflann|1|Aug 28||toge
 [#12624](https://github.com/conan-io/conan-center-index/pull/12624)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:stopwatch: android-ndk|0|||
 [#12625](https://github.com/conan-io/conan-center-index/pull/12625)|[l2dy](https://github.com/l2dy)|Aug 27|:stopwatch: artery-font-format|0|||
 [#12626](https://github.com/conan-io/conan-center-index/pull/12626)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:stopwatch: libmorton|0|||
@@ -146,7 +146,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 271
 	- Draft: 30
-	- Average Age: 58 days, 9 hours, and 27.98 minutes
+	- Average Age: 58 days, 10 hours, and 18.45 minutes
 	- Stop Label: 124
 	
 
