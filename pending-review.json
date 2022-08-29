@@ -205,31 +205,6 @@
       }
    },
    {
-      "Number": 12041,
-      "OpenedBy": "tuduongquyet",
-      "CreatedAt": "2022-08-04T02:34:17Z",
-      "Recipe": "sqlite3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12041",
-      "LastCommitSHA": "0c6f8e3d045474c1407313984df798f1b399561a",
-      "LastCommitAt": "2022-08-04T02:32:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-08-04T10:01:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12041#pullrequestreview-1061631424"
-         }
-      }
-   },
-   {
       "Number": 12074,
       "OpenedBy": "jcar87",
       "CreatedAt": "2022-08-05T15:04:18Z",
