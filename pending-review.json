@@ -2712,5 +2712,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12676,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-08-29T00:07:20Z",
+      "Recipe": "cppcheck",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12676",
+      "LastCommitSHA": "dba11552aa42bdff14994307670315a453a221e0",
+      "LastCommitAt": "2022-08-29T00:05:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
