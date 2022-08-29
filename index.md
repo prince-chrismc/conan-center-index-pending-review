@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **37** pull requests are waiting to be merged :tada:
+Currently **36** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -131,7 +131,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#12406](https://github.com/conan-io/conan-center-index/pull/12406)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:warning: cmp|2|uilianries, jgsogo
 [#12407](https://github.com/conan-io/conan-center-index/pull/12407)|[SpaceIm](https://github.com/SpaceIm)|Aug 20|:warning: winflexbison|2|uilianries, jgsogo
 [#12514](https://github.com/conan-io/conan-center-index/pull/12514)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 24|:warning: c-blosc|7|SpaceIm, jgsogo
-[#12548](https://github.com/conan-io/conan-center-index/pull/12548)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: any-lite|2|jgsogo, toge
 [#12559](https://github.com/conan-io/conan-center-index/pull/12559)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:warning: functionalplus|2|uilianries, jgsogo
 [#12560](https://github.com/conan-io/conan-center-index/pull/12560)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:warning: tl-optional|2|uilianries, jgsogo
 [#12562](https://github.com/conan-io/conan-center-index/pull/12562)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:warning: tl-function-ref|2|uilianries, jgsogo
@@ -165,9 +164,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 292
+	- Open: 291
 	- Draft: 30
-	- Average Age: 55 days, 2 hours, and 25.41 minutes
+	- Average Age: 55 days, 7 hours, and 52.74 minutes
 	- Stop Label: 124
 	
 
