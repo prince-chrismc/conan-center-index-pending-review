@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **26** pull requests are waiting to be merged :tada:
+Currently **23** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -98,10 +98,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
-[#12573](https://github.com/conan-io/conan-center-index/pull/12573)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:warning: vulkan-headers|2|uilianries, jgsogo
-[#12597](https://github.com/conan-io/conan-center-index/pull/12597)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: pdqsort|3|jgsogo, uilianries
-[#12603](https://github.com/conan-io/conan-center-index/pull/12603)|[uilianries](https://github.com/uilianries)|Aug 26|:memo: etl|2|SpaceIm, jgsogo
-[#12605](https://github.com/conan-io/conan-center-index/pull/12605)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: byte-lite|2|toge, uilianries
+[#12573](https://github.com/conan-io/conan-center-index/pull/12573)|[SpaceIm](https://github.com/SpaceIm)|Aug 25|:memo: vulkan-headers|2|uilianries, jgsogo
 [#12608](https://github.com/conan-io/conan-center-index/pull/12608)|[vbieleny](https://github.com/vbieleny)|Aug 26|:memo: brotli|4|SpaceIm, uilianries
 [#12609](https://github.com/conan-io/conan-center-index/pull/12609)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: morton-nd|2|toge, uilianries
 [#12611](https://github.com/conan-io/conan-center-index/pull/12611)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: utfcpp|2|toge, uilianries
@@ -129,9 +126,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 268
+	- Open: 265
 	- Draft: 31
-	- Average Age: 59 days, 21 hours, and 15.57 minutes
+	- Average Age: 60 days, 13 hours, and 33.24 minutes
 	- Stop Label: 127
 	
 
