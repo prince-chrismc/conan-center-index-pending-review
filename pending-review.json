@@ -233,19 +233,19 @@
       "Recipe": "sdl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12186",
-      "LastCommitSHA": "75ae864d183e8d5d1ad35809a00d1a6eed45c2ef",
-      "LastCommitAt": "2022-08-30T18:08:16Z",
+      "LastCommitSHA": "6215132b07cb218708a2a85921252f8e66872f57",
+      "LastCommitAt": "2022-08-30T22:01:58Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 7,
+         "Count": 8,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "madebr",
-            "SubmittedAt": "2022-08-30T17:43:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12186#pullrequestreview-1090732356"
+            "SubmittedAt": "2022-08-30T21:25:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12186#pullrequestreview-1090985861"
          }
       }
    },
@@ -416,29 +416,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-08-19T23:27:37Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12386#pullrequestreview-1079419852"
-         }
-      }
-   },
-   {
-      "Number": 12477,
-      "OpenedBy": "kambala-decapitator",
-      "CreatedAt": "2022-08-23T20:23:32Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12477",
-      "LastCommitSHA": "33a3577faeae75fd6e3471b22377a8733efc6b7b",
-      "LastCommitAt": "2022-08-30T15:34:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-08-30T15:28:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12477#pullrequestreview-1090538372"
          }
       }
    },
@@ -1335,6 +1312,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12696",
       "LastCommitSHA": "2b960892a65a4015ec2df71176e4880b2a35c298",
       "LastCommitAt": "2022-08-30T19:43:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12701,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-30T21:24:32Z",
+      "Recipe": "rabbitmq-c",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12701",
+      "LastCommitSHA": "3f5526117a186dba664feb964129b04e9ee31774",
+      "LastCommitAt": "2022-08-30T21:22:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
