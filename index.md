@@ -42,7 +42,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|2|Aug 30||
 [#12568](https://github.com/conan-io/conan-center-index/pull/12568)|[BjoernAtBosch](https://github.com/BjoernAtBosch)|Aug 25|:stopwatch: libcurl|2|Aug 30||prince-chrismc
 [#12604](https://github.com/conan-io/conan-center-index/pull/12604)|[MartinDelille](https://github.com/MartinDelille)|Aug 26|:stopwatch: qxlsx|2|Aug 29||
-[#12610](https://github.com/conan-io/conan-center-index/pull/12610)|[rainman110](https://github.com/rainman110)|Aug 26|:stopwatch: tixi3|1|Aug 29||
 [#12639](https://github.com/conan-io/conan-center-index/pull/12639)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:memo: cspice|1|Aug 29||uilianries
 [#12640](https://github.com/conan-io/conan-center-index/pull/12640)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:memo: hffix|1|Aug 29||uilianries
 [#12641](https://github.com/conan-io/conan-center-index/pull/12641)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:memo: hlslpp|1|Aug 29||uilianries
@@ -70,12 +69,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12671](https://github.com/conan-io/conan-center-index/pull/12671)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:memo: protozero|1|Aug 29||uilianries
 [#12673](https://github.com/conan-io/conan-center-index/pull/12673)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:memo: qcustomplot|1|Aug 30||uilianries
 [#12678](https://github.com/conan-io/conan-center-index/pull/12678)|[uilianries](https://github.com/uilianries)|Aug 29|:green_book: docs|1|Aug 29||prince-chrismc
-[#12683](https://github.com/conan-io/conan-center-index/pull/12683)|[the-nic](https://github.com/the-nic)|Aug 29|:memo: glog|9|Aug 30||SpaceIm
+[#12683](https://github.com/conan-io/conan-center-index/pull/12683)|[the-nic](https://github.com/the-nic)|Aug 29|:memo: glog|10|Aug 30||SpaceIm
 [#12688](https://github.com/conan-io/conan-center-index/pull/12688)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 29|:gear: .github|0|||
 [#12689](https://github.com/conan-io/conan-center-index/pull/12689)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:stopwatch: spirv-tools|0|||
 [#12690](https://github.com/conan-io/conan-center-index/pull/12690)|[ulrichji](https://github.com/ulrichji)|Aug 30|:stopwatch: libgd|0|||
 [#12692](https://github.com/conan-io/conan-center-index/pull/12692)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: vulkan-loader|0|||
 [#12695](https://github.com/conan-io/conan-center-index/pull/12695)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: vulkan-memory-allocator|1|Aug 30||uilianries
+[#12696](https://github.com/conan-io/conan-center-index/pull/12696)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:stopwatch: vk-bootstrap|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -98,9 +98,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
 	- Open: 228
-	- Draft: 32
-	- Average Age: 70 days, 2 hours, and 56.48 minutes
-	- Stop Label: 124
+	- Draft: 31
+	- Average Age: 70 days, 4 hours, and 0.20 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
