@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **17** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -98,11 +98,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
-[#12621](https://github.com/conan-io/conan-center-index/pull/12621)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: tiny-regex-c|2|toge, uilianries
-[#12622](https://github.com/conan-io/conan-center-index/pull/12622)|[SpaceIm](https://github.com/SpaceIm)|Aug 26|:memo: nanoflann|2|toge, uilianries
-[#12626](https://github.com/conan-io/conan-center-index/pull/12626)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:memo: libmorton|2|toge, uilianries
-[#12627](https://github.com/conan-io/conan-center-index/pull/12627)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:memo: fast-cpp-csv-parser|2|toge, uilianries
-[#12628](https://github.com/conan-io/conan-center-index/pull/12628)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:memo: half|2|toge, uilianries
 [#12630](https://github.com/conan-io/conan-center-index/pull/12630)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:memo: cpp-peglib|2|toge, uilianries
 [#12633](https://github.com/conan-io/conan-center-index/pull/12633)|[ivmai](https://github.com/ivmai)|Aug 27|:warning: libatomic_ops|2|madebr, uilianries
 [#12634](https://github.com/conan-io/conan-center-index/pull/12634)|[SpaceIm](https://github.com/SpaceIm)|Aug 27|:memo: libnop|2|toge, uilianries
@@ -120,9 +115,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 259
+	- Open: 253
 	- Draft: 31
-	- Average Age: 61 days, 23 hours, and 51.80 minutes
+	- Average Age: 63 days, 11 hours, and 53.47 minutes
 	- Stop Label: 127
 	
 
