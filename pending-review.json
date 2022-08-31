@@ -212,7 +212,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12185",
       "LastCommitSHA": "72501dced72874b095c5721146ec3316b5cd8783",
       "LastCommitAt": "2022-08-31T16:48:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -258,7 +258,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12240",
       "LastCommitSHA": "49787f55d6fabeb07d6e4a1f4519e759d9ff94c3",
       "LastCommitAt": "2022-08-31T16:54:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 17,
          "ValidApprovals": 0,
@@ -512,6 +512,29 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-08-29T16:27:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12604#pullrequestreview-1089001879"
+         }
+      }
+   },
+   {
+      "Number": 12610,
+      "OpenedBy": "rainman110",
+      "CreatedAt": "2022-08-26T13:19:18Z",
+      "Recipe": "tixi3",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12610",
+      "LastCommitSHA": "2608a784d8644e38f47582a0335d8bd1344320a1",
+      "LastCommitAt": "2022-08-31T19:19:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-31T11:32:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12610#pullrequestreview-1091720594"
          }
       }
    },
@@ -942,7 +965,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12683",
       "LastCommitSHA": "3519ddd2abe00b68cbdaa06af3b29d0887593119",
       "LastCommitAt": "2022-08-31T14:18:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 16,
          "ValidApprovals": 0,
