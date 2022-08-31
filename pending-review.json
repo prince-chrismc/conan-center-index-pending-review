@@ -212,7 +212,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12185",
       "LastCommitSHA": "6e42223f505104fb36b9a7ba7998ce907e5ebbc3",
       "LastCommitAt": "2022-08-30T18:58:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
@@ -487,29 +487,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-08-29T16:27:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12604#pullrequestreview-1089001879"
-         }
-      }
-   },
-   {
-      "Number": 12610,
-      "OpenedBy": "rainman110",
-      "CreatedAt": "2022-08-26T13:19:18Z",
-      "Recipe": "tixi3",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12610",
-      "LastCommitSHA": "2d155252210785884fff479bfb77922086b9008b",
-      "LastCommitAt": "2022-08-30T20:52:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-29T16:10:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12610#pullrequestreview-1088897231"
          }
       }
    },
@@ -1312,7 +1289,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12696",
       "LastCommitSHA": "2b960892a65a4015ec2df71176e4880b2a35c298",
       "LastCommitAt": "2022-08-30T19:43:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1353,7 +1330,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12701",
       "LastCommitSHA": "3f5526117a186dba664feb964129b04e9ee31774",
       "LastCommitAt": "2022-08-30T21:22:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
