@@ -1349,5 +1349,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12735,
+      "OpenedBy": "JorgenPo",
+      "CreatedAt": "2022-08-31T21:23:38Z",
+      "Recipe": "jwt-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12735",
+      "LastCommitSHA": "43a3a1905e228f3de065b636fe8e1108109e496f",
+      "LastCommitAt": "2022-09-01T00:22:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
