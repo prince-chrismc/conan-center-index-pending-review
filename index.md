@@ -73,13 +73,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12712](https://github.com/conan-io/conan-center-index/pull/12712)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: xapian-core|1|Aug 31||uilianries
 [#12715](https://github.com/conan-io/conan-center-index/pull/12715)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:memo: msys2|4|Aug 31||uilianries
 [#12717](https://github.com/conan-io/conan-center-index/pull/12717)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 31|:stopwatch: boost|0|||
-[#12727](https://github.com/conan-io/conan-center-index/pull/12727)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:stopwatch: meson|0|||
 [#12730](https://github.com/conan-io/conan-center-index/pull/12730)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:stopwatch: tgc|0|||
 [#12731](https://github.com/conan-io/conan-center-index/pull/12731)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:stopwatch: tiny-bignum-c|0|||
 [#12732](https://github.com/conan-io/conan-center-index/pull/12732)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:stopwatch: tiny-utf8|0|||
 [#12733](https://github.com/conan-io/conan-center-index/pull/12733)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:stopwatch: tlx|0|||
 [#12734](https://github.com/conan-io/conan-center-index/pull/12734)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:stopwatch: transwarp|0|||
 [#12735](https://github.com/conan-io/conan-center-index/pull/12735)|[JorgenPo](https://github.com/JorgenPo)|Aug 31|:stopwatch: jwt-cpp|0|||
+[#12736](https://github.com/conan-io/conan-center-index/pull/12736)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:stopwatch: fribidi|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -101,10 +101,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 234
+	- Open: 235
 	- Draft: 32
-	- Average Age: 69 days, 6 hours, and 4.34 minutes
-	- Stop Label: 124
+	- Average Age: 69 days, and 0.10 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
