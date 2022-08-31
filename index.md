@@ -39,7 +39,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12366](https://github.com/conan-io/conan-center-index/pull/12366)|[szmyd](https://github.com/szmyd)|Aug 18|:new: jungle|5|Aug 29||uilianries
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|3|Aug 26|jgsogo|uilianries
 [#12386](https://github.com/conan-io/conan-center-index/pull/12386)|[uilianries](https://github.com/uilianries)|Aug 19|:memo: libpng|6|Aug 31||
-[#12561](https://github.com/conan-io/conan-center-index/pull/12561)|[leha-bot](https://github.com/leha-bot)|Aug 25|:stopwatch: double-conversion|3|Aug 31||
+[#12561](https://github.com/conan-io/conan-center-index/pull/12561)|[leha-bot](https://github.com/leha-bot)|Aug 25|:memo: double-conversion|4|Aug 31||SpaceIm
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|3|Aug 31||
 [#12568](https://github.com/conan-io/conan-center-index/pull/12568)|[BjoernAtBosch](https://github.com/BjoernAtBosch)|Aug 25|:stopwatch: libcurl|2|Aug 30||prince-chrismc
 [#12604](https://github.com/conan-io/conan-center-index/pull/12604)|[MartinDelille](https://github.com/MartinDelille)|Aug 26|:stopwatch: qxlsx|2|Aug 29||
@@ -97,7 +97,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 228
 	- Draft: 33
-	- Average Age: 70 days, 21 hours, and 50.86 minutes
+	- Average Age: 70 days, 22 hours, and 44.04 minutes
 	- Stop Label: 123
 	
 
