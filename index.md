@@ -21,21 +21,21 @@
 
 ### :nerd_face: Please Review! 
 
-There are **67** pull requests currently under way :detective:
+There are **74** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10677](https://github.com/conan-io/conan-center-index/pull/10677)|[bemehiser](https://github.com/bemehiser)|May 6|:stopwatch: protobuf-c|7|Aug 4 :bell:||gegles
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#11603](https://github.com/conan-io/conan-center-index/pull/11603)|[victorpaleologue](https://github.com/victorpaleologue)|Jul 8|:memo: z3|22|Sep 1||prince-chrismc
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11846](https://github.com/conan-io/conan-center-index/pull/11846)|[strangeQuark1041](https://github.com/strangeQuark1041)|Jul 21|:memo: samarium|13|Aug 22||prince-chrismc
 [#12008](https://github.com/conan-io/conan-center-index/pull/12008)|[jonaskarp](https://github.com/jonaskarp)|Aug 2|:stopwatch: xkbcommon|0|:eyes:||
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|1|Aug 8 :bell:||prince-chrismc
 [#12185](https://github.com/conan-io/conan-center-index/pull/12185)|[szmyd](https://github.com/szmyd)|Aug 12|:new: zmarok-semver|11|Sep 1||uilianries
-[#12240](https://github.com/conan-io/conan-center-index/pull/12240)|[planetmarshall](https://github.com/planetmarshall)|Aug 15|:memo: cairo|18|Sep 1||prince-chrismc
 [#12310](https://github.com/conan-io/conan-center-index/pull/12310)|[jave27](https://github.com/jave27)|Aug 17|:stopwatch: qxmpp|0|:eyes:||
+[#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:stopwatch: foonathan-memory|0|||
 [#12366](https://github.com/conan-io/conan-center-index/pull/12366)|[szmyd](https://github.com/szmyd)|Aug 18|:new: jungle|5|Aug 29||uilianries
+[#12382](https://github.com/conan-io/conan-center-index/pull/12382)|[planetmarshall](https://github.com/planetmarshall)|Aug 19|:stopwatch: pango|3|Aug 19 :bell:||
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|3|Aug 26|jgsogo|uilianries
 [#12386](https://github.com/conan-io/conan-center-index/pull/12386)|[uilianries](https://github.com/uilianries)|Aug 19|:memo: libpng|8|Sep 1||prince-chrismc
 [#12477](https://github.com/conan-io/conan-center-index/pull/12477)|[kambala-decapitator](https://github.com/kambala-decapitator)|Aug 23|:memo: qt|7|Sep 1||ericLemanissier
@@ -87,11 +87,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12742](https://github.com/conan-io/conan-center-index/pull/12742)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hyperscan|0|||
 [#12743](https://github.com/conan-io/conan-center-index/pull/12743)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hunspell|0|||
 [#12744](https://github.com/conan-io/conan-center-index/pull/12744)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hedley|0|||
-[#12745](https://github.com/conan-io/conan-center-index/pull/12745)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:stopwatch: heatshrink|0|||
+[#12745](https://github.com/conan-io/conan-center-index/pull/12745)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: heatshrink|0|||
 [#12746](https://github.com/conan-io/conan-center-index/pull/12746)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: happly|0|||
-[#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:stopwatch: hash-library|0|||
-[#12748](https://github.com/conan-io/conan-center-index/pull/12748)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:stopwatch: hdf4|0|||
-[#12749](https://github.com/conan-io/conan-center-index/pull/12749)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 1|:stopwatch: coin-osi|0|||
+[#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|0|||
+[#12748](https://github.com/conan-io/conan-center-index/pull/12748)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hdf4|0|||
+[#12749](https://github.com/conan-io/conan-center-index/pull/12749)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 1|:memo: coin-osi|1|Sep 1||AndreyMlashkin
+[#12751](https://github.com/conan-io/conan-center-index/pull/12751)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:stopwatch: imguizmo|0|||
+[#12752](https://github.com/conan-io/conan-center-index/pull/12752)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: incbin|0|||
+[#12753](https://github.com/conan-io/conan-center-index/pull/12753)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: influxdb-cpp|0|||
+[#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:stopwatch: inja|0|||
+[#12756](https://github.com/conan-io/conan-center-index/pull/12756)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: intel-neon2sse|0|||
+[#12757](https://github.com/conan-io/conan-center-index/pull/12757)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:stopwatch: itlib|0|||
+[#12759](https://github.com/conan-io/conan-center-index/pull/12759)|[danimtb](https://github.com/danimtb)|Sep 1|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -113,10 +120,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 245
+	- Open: 251
 	- Draft: 32
-	- Average Age: 66 days, 12 hours, and 7.70 minutes
-	- Stop Label: 126
+	- Average Age: 64 days, 15 hours, and 16.78 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
