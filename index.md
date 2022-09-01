@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **50** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -73,16 +73,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12741](https://github.com/conan-io/conan-center-index/pull/12741)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: huffman|0|||
 [#12751](https://github.com/conan-io/conan-center-index/pull/12751)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: imguizmo|0|||
 [#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|0|||
-[#12764](https://github.com/conan-io/conan-center-index/pull/12764)|[ivmai](https://github.com/ivmai)|Sep 1|:memo: bdwgc|2|Sep 1||
 [#12768](https://github.com/conan-io/conan-center-index/pull/12768)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: wasmedge|3|Sep 1||prince-chrismc
-[#12769](https://github.com/conan-io/conan-center-index/pull/12769)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: cryptopp-pem|1|Sep 1||uilianries
-[#12770](https://github.com/conan-io/conan-center-index/pull/12770)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: daw_utf_range|1|Sep 1||uilianries
-[#12776](https://github.com/conan-io/conan-center-index/pull/12776)|[uilianries](https://github.com/uilianries)|Sep 1|:memo: protobuf|0|||
+[#12776](https://github.com/conan-io/conan-center-index/pull/12776)|[uilianries](https://github.com/uilianries)|Sep 1|:memo: protobuf|1|Sep 1||prince-chrismc
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -90,7 +87,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
-[#12767](https://github.com/conan-io/conan-center-index/pull/12767)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: nodejs|2|uilianries, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -99,9 +95,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
 - Pull Requests:
-	- Open: 251
+	- Open: 248
 	- Draft: 33
-	- Average Age: 64 days, 23 hours, and 29.69 minutes
+	- Average Age: 65 days, 19 hours, and 16.08 minutes
 	- Stop Label: 131
 	
 
