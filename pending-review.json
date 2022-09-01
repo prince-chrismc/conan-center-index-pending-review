@@ -1124,8 +1124,8 @@
       "Recipe": "jwt-cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12735",
-      "LastCommitSHA": "43a3a1905e228f3de065b636fe8e1108109e496f",
-      "LastCommitAt": "2022-09-01T00:22:54Z",
+      "LastCommitSHA": "400d5ff862d9abcc795c9dfb9c2956d0dcd59eec",
+      "LastCommitAt": "2022-09-01T22:19:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
