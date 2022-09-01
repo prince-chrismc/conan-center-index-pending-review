@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **54** pull requests currently under way :detective:
+There are **53** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,7 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12008](https://github.com/conan-io/conan-center-index/pull/12008)|[jonaskarp](https://github.com/jonaskarp)|Aug 2|:stopwatch: xkbcommon|0|:eyes:||
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|1|Aug 8 :bell:||prince-chrismc
 [#12185](https://github.com/conan-io/conan-center-index/pull/12185)|[szmyd](https://github.com/szmyd)|Aug 12|:new: zmarok-semver|11|Sep 1||
-[#12186](https://github.com/conan-io/conan-center-index/pull/12186)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:memo: sdl|12|Sep 1||
+[#12186](https://github.com/conan-io/conan-center-index/pull/12186)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:memo: sdl|13|Sep 1||madebr
 [#12310](https://github.com/conan-io/conan-center-index/pull/12310)|[jave27](https://github.com/jave27)|Aug 17|:stopwatch: qxmpp|0|:eyes:||
 [#12366](https://github.com/conan-io/conan-center-index/pull/12366)|[szmyd](https://github.com/szmyd)|Aug 18|:new: jungle|5|Aug 29||uilianries
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|3|Aug 26|jgsogo|uilianries
@@ -74,8 +74,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12751](https://github.com/conan-io/conan-center-index/pull/12751)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: imguizmo|0|||
 [#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|0|||
 [#12764](https://github.com/conan-io/conan-center-index/pull/12764)|[ivmai](https://github.com/ivmai)|Sep 1|:memo: bdwgc|2|Sep 1||
-[#12767](https://github.com/conan-io/conan-center-index/pull/12767)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: nodejs|1|Sep 1||uilianries
-[#12768](https://github.com/conan-io/conan-center-index/pull/12768)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: wasmedge|2|Sep 1||
+[#12768](https://github.com/conan-io/conan-center-index/pull/12768)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: wasmedge|3|Sep 1||prince-chrismc
 [#12769](https://github.com/conan-io/conan-center-index/pull/12769)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: cryptopp-pem|1|Sep 1||uilianries
 [#12770](https://github.com/conan-io/conan-center-index/pull/12770)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: daw_utf_range|1|Sep 1||uilianries
 [#12776](https://github.com/conan-io/conan-center-index/pull/12776)|[uilianries](https://github.com/uilianries)|Sep 1|:memo: protobuf|0|||
@@ -83,7 +82,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -91,6 +90,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:warning: cpython|2|Croydon, uilianries
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
+[#12767](https://github.com/conan-io/conan-center-index/pull/12767)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: nodejs|2|uilianries, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -101,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 251
 	- Draft: 33
-	- Average Age: 64 days, 22 hours, and 31.62 minutes
+	- Average Age: 64 days, 23 hours, and 29.69 minutes
 	- Stop Label: 131
 	
 
