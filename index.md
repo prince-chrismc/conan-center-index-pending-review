@@ -33,7 +33,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|1|Aug 8 :bell:||prince-chrismc
 [#12186](https://github.com/conan-io/conan-center-index/pull/12186)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 12|:memo: sdl|14|Sep 2||uilianries
 [#12310](https://github.com/conan-io/conan-center-index/pull/12310)|[jave27](https://github.com/jave27)|Aug 17|:stopwatch: qxmpp|0|:eyes:||
-[#12366](https://github.com/conan-io/conan-center-index/pull/12366)|[szmyd](https://github.com/szmyd)|Aug 18|:stopwatch: jungle|6|Sep 2||
+[#12366](https://github.com/conan-io/conan-center-index/pull/12366)|[szmyd](https://github.com/szmyd)|Aug 18|:new: jungle|6|Sep 2||
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|3|Aug 26|jgsogo|uilianries
 [#12386](https://github.com/conan-io/conan-center-index/pull/12386)|[uilianries](https://github.com/uilianries)|Aug 19|:memo: libpng|8|Sep 1||prince-chrismc
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|7|Sep 2||uilianries
@@ -93,7 +93,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 250
 	- Draft: 34
-	- Average Age: 65 days, 20 hours, and 2.12 minutes
+	- Average Age: 65 days, 20 hours, and 54.00 minutes
 	- Stop Label: 133
 	
 
