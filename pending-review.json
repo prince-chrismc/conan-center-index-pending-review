@@ -560,7 +560,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12697",
       "LastCommitSHA": "4955d1487e5d164aff94a093715c0d3e53f25013",
       "LastCommitAt": "2022-09-02T17:48:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -1180,6 +1180,42 @@
             "SubmittedAt": "2022-09-02T16:08:26Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12796#pullrequestreview-1095089372"
          }
+      }
+   },
+   {
+      "Number": 12799,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-02T19:55:07Z",
+      "Recipe": "bertrand",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12799",
+      "LastCommitSHA": "bfd9f1f5cb52aee2a9044c17d807d2dcdff5e02a",
+      "LastCommitAt": "2022-09-02T19:58:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12800,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-02T20:10:58Z",
+      "Recipe": "blaze",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12800",
+      "LastCommitSHA": "967c49f367e17beffc2a35332f574ed698fbfb8c",
+      "LastCommitAt": "2022-09-02T20:10:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
