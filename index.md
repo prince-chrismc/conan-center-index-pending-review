@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -61,14 +61,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12734](https://github.com/conan-io/conan-center-index/pull/12734)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:memo: transwarp|1|Sep 1||uilianries
 [#12735](https://github.com/conan-io/conan-center-index/pull/12735)|[JorgenPo](https://github.com/JorgenPo)|Aug 31|:stopwatch: jwt-cpp|0|||
 [#12751](https://github.com/conan-io/conan-center-index/pull/12751)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: imguizmo|0|||
+[#12753](https://github.com/conan-io/conan-center-index/pull/12753)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: influxdb-cpp|2|Sep 2|uilianries|intelligide
 [#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|1|Sep 2||jgsogo
-[#12762](https://github.com/conan-io/conan-center-index/pull/12762)|[rainman110](https://github.com/rainman110)|Sep 1|:new: cminpack|1|Sep 1||
 [#12779](https://github.com/conan-io/conan-center-index/pull/12779)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 1|:memo: coin-clp|2|Sep 2||uilianries
 [#12784](https://github.com/conan-io/conan-center-index/pull/12784)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: arduinojson|1|Sep 2||uilianries
 [#12786](https://github.com/conan-io/conan-center-index/pull/12786)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: access_private|1|Sep 2||uilianries
 [#12791](https://github.com/conan-io/conan-center-index/pull/12791)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: asio|1|Sep 2||uilianries
 [#12793](https://github.com/conan-io/conan-center-index/pull/12793)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: backport-cpp|1|Sep 2||uilianries
-[#12794](https://github.com/conan-io/conan-center-index/pull/12794)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: argparse|1|Sep 2||uilianries
 [#12795](https://github.com/conan-io/conan-center-index/pull/12795)|[AlexRamallo](https://github.com/AlexRamallo)|Sep 2|:stopwatch: android-ndk|0|||
 [#12796](https://github.com/conan-io/conan-center-index/pull/12796)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: args-parser|1|Sep 2||uilianries
 
@@ -91,9 +90,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 252
+	- Open: 251
 	- Draft: 34
-	- Average Age: 65 days, 5 hours, and 32.98 minutes
+	- Average Age: 65 days, 12 hours, and 45.43 minutes
 	- Stop Label: 133
 	
 
