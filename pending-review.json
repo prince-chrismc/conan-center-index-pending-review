@@ -354,6 +354,29 @@
       }
    },
    {
+      "Number": 12470,
+      "OpenedBy": "jellespijker",
+      "CreatedAt": "2022-08-23T13:07:13Z",
+      "Recipe": "cpython",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12470",
+      "LastCommitSHA": "adaecb2dea214ce4b857ee41bdd37dfaeec1e0ab",
+      "LastCommitAt": "2022-09-02T12:28:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-09-02T12:25:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12470#pullrequestreview-1094785631"
+         }
+      }
+   },
+   {
       "Number": 12477,
       "OpenedBy": "kambala-decapitator",
       "CreatedAt": "2022-08-23T20:23:32Z",
@@ -462,7 +485,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12615",
       "LastCommitSHA": "1dd0fd171a5be013a0f29bfa42eb9a74d3ab148a",
       "LastCommitAt": "2022-09-02T10:55:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -1038,32 +1061,6 @@
       }
    },
    {
-      "Number": 12736,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-08-31T22:39:56Z",
-      "Recipe": "fribidi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12736",
-      "LastCommitSHA": "c45d1539485c25c10b3d1cbd9e01aded24353769",
-      "LastCommitAt": "2022-08-31T22:38:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-09-02T11:02:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12736#pullrequestreview-1094692029"
-         }
-      }
-   },
-   {
       "Number": 12741,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-09-01T07:19:59Z",
@@ -1131,16 +1128,14 @@
       "Recipe": "coin-clp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12779",
-      "LastCommitSHA": "e1f8b048d7376860617b7469e1280ee4d4026090",
-      "LastCommitAt": "2022-09-02T09:10:26Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c71e3d2f5cacafd0887223272ca25c96ab63101e",
+      "LastCommitAt": "2022-09-02T11:38:05Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -1183,7 +1178,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12786",
       "LastCommitSHA": "2726bcfa948b26b7ff2e4d53d6e6e3b62289784e",
       "LastCommitAt": "2022-09-02T10:54:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1197,6 +1192,42 @@
             "SubmittedAt": "2022-09-02T11:07:26Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12786#pullrequestreview-1094697316"
          }
+      }
+   },
+   {
+      "Number": 12788,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-02T11:27:50Z",
+      "Recipe": "argh",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12788",
+      "LastCommitSHA": "9ee892bf83dd8d4506635443945e3b8e3c0f1960",
+      "LastCommitAt": "2022-09-02T11:26:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12791,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-02T12:21:04Z",
+      "Recipe": "asio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12791",
+      "LastCommitSHA": "a9f74f5b440566bcd60838c1faf5d054903ae85a",
+      "LastCommitAt": "2022-09-02T12:20:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
