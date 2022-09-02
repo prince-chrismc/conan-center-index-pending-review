@@ -72,9 +72,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12736](https://github.com/conan-io/conan-center-index/pull/12736)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:memo: fribidi|1|Sep 1||uilianries
 [#12741](https://github.com/conan-io/conan-center-index/pull/12741)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: huffman|0|||
 [#12751](https://github.com/conan-io/conan-center-index/pull/12751)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: imguizmo|0|||
-[#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|0|||
+[#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|1|Sep 2||jgsogo
 [#12768](https://github.com/conan-io/conan-center-index/pull/12768)|[jgsogo](https://github.com/jgsogo)|Sep 1|:memo: wasmedge|3|Sep 1||prince-chrismc
-[#12776](https://github.com/conan-io/conan-center-index/pull/12776)|[uilianries](https://github.com/uilianries)|Sep 1|:memo: protobuf|1|Sep 1||prince-chrismc
+[#12777](https://github.com/conan-io/conan-center-index/pull/12777)|[jellespijker](https://github.com/jellespijker)|Sep 1|:stopwatch: autoconf|12|Sep 1||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -93,12 +93,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: b11499e295c0ed217c3287f90d96fa3713a0269b
+- Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
 	- Open: 248
-	- Draft: 33
-	- Average Age: 65 days, 19 hours, and 16.08 minutes
-	- Stop Label: 131
+	- Draft: 34
+	- Average Age: 66 days, 3 hours, and 57.07 minutes
+	- Stop Label: 130
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
