@@ -1255,8 +1255,8 @@
       "Recipe": "autoconf",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12777",
-      "LastCommitSHA": "ea10b5a7cc4a14eb493bf7ef4e4a9aabc271e8fd",
-      "LastCommitAt": "2022-09-02T06:43:33Z",
+      "LastCommitSHA": "6ae0e3d48e746f8823415485d17b37ba6fc0b630",
+      "LastCommitAt": "2022-09-02T07:16:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 12,
