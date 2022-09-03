@@ -408,7 +408,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12686",
       "LastCommitSHA": "a522f11b67d19ca9ed7e562b5b045f94ac0fe9cc",
       "LastCommitAt": "2022-09-03T21:18:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -958,6 +958,24 @@
       "LastCommitSHA": "91a6ddffe6335ce992cf37588cf426f0e0e19304",
       "LastCommitAt": "2022-09-02T22:17:55Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12806,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-03T15:32:52Z",
+      "Recipe": "pulseaudio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12806",
+      "LastCommitSHA": "4183dc20a3731bf4180e49d27c769f2d447fed87",
+      "LastCommitAt": "2022-09-03T22:45:20Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
