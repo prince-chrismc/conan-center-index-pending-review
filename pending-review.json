@@ -375,29 +375,6 @@
       }
    },
    {
-      "Number": 12672,
-      "OpenedBy": "synacker",
-      "CreatedAt": "2022-08-28T21:09:50Z",
-      "Recipe": "daggy",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12672",
-      "LastCommitSHA": "b9dedacbbfe4f82e6e1aec91257c983fcabeeeb9",
-      "LastCommitAt": "2022-09-03T15:47:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-29T14:38:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12672#pullrequestreview-1088825847"
-         }
-      }
-   },
-   {
       "Number": 12678,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-08-29T10:54:42Z",
@@ -1028,8 +1005,8 @@
       "Recipe": "pulseaudio",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12806",
-      "LastCommitSHA": "85871733ba125a5a409490fb4e89fa7416ee7202",
-      "LastCommitAt": "2022-09-03T16:18:47Z",
+      "LastCommitSHA": "1b98945bc9ba9a8b352850968abe63f6cc5ac2b4",
+      "LastCommitAt": "2022-09-03T17:12:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
