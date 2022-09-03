@@ -1071,15 +1071,17 @@
       "LastCommitAt": "2022-09-02T21:12:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericriff"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-02T10:38:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12782#pullrequestreview-1094666956"
+            "ReviewerName": "ericriff",
+            "SubmittedAt": "2022-09-02T23:38:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12782#pullrequestreview-1095423142"
          }
       }
    },
