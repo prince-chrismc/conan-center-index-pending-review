@@ -972,5 +972,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12809,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-03T20:59:37Z",
+      "Recipe": "bvdberg-ctest",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12809",
+      "LastCommitSHA": "edf8cfb815352573d1dff2f2f21bce8ceed9bbc1",
+      "LastCommitAt": "2022-09-03T20:58:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
