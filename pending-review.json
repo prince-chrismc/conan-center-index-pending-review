@@ -975,7 +975,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12806",
       "LastCommitSHA": "4183dc20a3731bf4180e49d27c769f2d447fed87",
       "LastCommitAt": "2022-09-03T22:45:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1011,6 +1011,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12810",
       "LastCommitSHA": "e74f21bcdf4f9edea21b3edb4290bd451b85543c",
       "LastCommitAt": "2022-09-03T21:21:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12811,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-03T23:28:18Z",
+      "Recipe": "inja",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12811",
+      "LastCommitSHA": "9a8e47618fe9dfc77ef7d57e8e00aba6b98f831f",
+      "LastCommitAt": "2022-09-03T23:29:06Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
