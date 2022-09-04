@@ -1043,8 +1043,8 @@
       "Recipe": "opencascade",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12822",
-      "LastCommitSHA": "e0090c8bc5bca710d4353cc7482a9a817c829a0d",
-      "LastCommitAt": "2022-09-04T20:00:43Z",
+      "LastCommitSHA": "835ef2d02b902178b3cf481fd054540b4ce449c7",
+      "LastCommitAt": "2022-09-04T20:18:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
