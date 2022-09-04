@@ -39,7 +39,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12678](https://github.com/conan-io/conan-center-index/pull/12678)|[uilianries](https://github.com/uilianries)|Aug 29|:green_book: docs|2|Sep 1||prince-chrismc
 [#12686](https://github.com/conan-io/conan-center-index/pull/12686)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 29|:memo: tensorflow-lite|0|||
 [#12689](https://github.com/conan-io/conan-center-index/pull/12689)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: spirv-tools|2|Sep 3||uilianries
-[#12700](https://github.com/conan-io/conan-center-index/pull/12700)|[bobrofon](https://github.com/bobrofon)|Aug 30|:memo: sdbus-cpp|3|Sep 2||
+[#12700](https://github.com/conan-io/conan-center-index/pull/12700)|[bobrofon](https://github.com/bobrofon)|Aug 30|:memo: sdbus-cpp|4|Sep 4||toge
 [#12713](https://github.com/conan-io/conan-center-index/pull/12713)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: coin-utils|6|Sep 1||uilianries
 [#12715](https://github.com/conan-io/conan-center-index/pull/12715)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:memo: msys2|4|Aug 31||uilianries
 [#12727](https://github.com/conan-io/conan-center-index/pull/12727)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:memo: meson|1|Sep 1||
@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 250
 	- Draft: 33
-	- Average Age: 67 days, 12 hours, and 36.38 minutes
+	- Average Age: 67 days, 13 hours, and 30.64 minutes
 	- Stop Label: 140
 	
 
