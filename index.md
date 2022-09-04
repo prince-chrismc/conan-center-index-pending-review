@@ -50,9 +50,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12730](https://github.com/conan-io/conan-center-index/pull/12730)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:memo: tgc|1|Sep 1||uilianries
 [#12734](https://github.com/conan-io/conan-center-index/pull/12734)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:memo: transwarp|1|Sep 1||uilianries
 [#12735](https://github.com/conan-io/conan-center-index/pull/12735)|[JorgenPo](https://github.com/JorgenPo)|Aug 31|:stopwatch: jwt-cpp|0|||
-[#12751](https://github.com/conan-io/conan-center-index/pull/12751)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: imguizmo|0|||
+[#12751](https://github.com/conan-io/conan-center-index/pull/12751)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: imguizmo|0|:eyes:||
 [#12753](https://github.com/conan-io/conan-center-index/pull/12753)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: influxdb-cpp|2|Sep 2|uilianries|intelligide
-[#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|1|Sep 2||jgsogo
+[#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|4|Sep 4||jgsogo
 [#12779](https://github.com/conan-io/conan-center-index/pull/12779)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 1|:memo: coin-clp|2|Sep 2||uilianries
 [#12782](https://github.com/conan-io/conan-center-index/pull/12782)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 2|:memo: mold|2|Sep 2||ericriff
 [#12784](https://github.com/conan-io/conan-center-index/pull/12784)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: arduinojson|1|Sep 2||uilianries
@@ -88,10 +88,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 247
+	- Open: 248
 	- Draft: 33
-	- Average Age: 67 days, 20 hours, and 40.23 minutes
-	- Stop Label: 135
+	- Average Age: 67 days, 17 hours, and 47.18 minutes
+	- Stop Label: 136
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
