@@ -233,6 +233,29 @@
       }
    },
    {
+      "Number": 12490,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-08-24T10:14:55Z",
+      "Recipe": "bzip3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12490",
+      "LastCommitSHA": "cfac253da1bd2c2364f884f2886a701cdae60d0b",
+      "LastCommitAt": "2022-09-04T22:26:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-08-24T14:27:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12490#pullrequestreview-1083921111"
+         }
+      }
+   },
+   {
       "Number": 12563,
       "OpenedBy": "ggulgulia",
       "CreatedAt": "2022-08-25T11:16:40Z",
@@ -1009,7 +1032,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12820",
       "LastCommitSHA": "04db0e624a04bf6f9ee5fc3a69c1463d4e23fb48",
       "LastCommitAt": "2022-09-04T17:31:24Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1027,13 +1050,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12821",
       "LastCommitSHA": "1a01b739591e2c9fac389d99ac14c52bf8cc49ea",
       "LastCommitAt": "2022-09-04T18:39:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "MartinDelille"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2022-09-04T22:54:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12821#pullrequestreview-1095722878"
+         }
       }
    },
    {
@@ -1061,7 +1091,7 @@
       "Recipe": "libalsa",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12824",
-      "LastCommitSHA": "2e98310ee03cd64fd1cdbe6c4c67d48ac0267820",
+      "LastCommitSHA": "981a77a5422ab6fc9e21563eb4afada26acc372a",
       "LastCommitAt": "2022-09-04T22:13:19Z",
       "CciBotPassed": false,
       "Summary": {
