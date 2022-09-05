@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,6 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12615](https://github.com/conan-io/conan-center-index/pull/12615)|[fdgStilla](https://github.com/fdgStilla)|Aug 26|:memo: podofo|5|Sep 5||uilianries
 [#12656](https://github.com/conan-io/conan-center-index/pull/12656)|[scandyna](https://github.com/scandyna)|Aug 28|:stopwatch: qt|2|Sep 4||
 [#12678](https://github.com/conan-io/conan-center-index/pull/12678)|[uilianries](https://github.com/uilianries)|Aug 29|:green_book: docs|2|Sep 1||prince-chrismc
+[#12686](https://github.com/conan-io/conan-center-index/pull/12686)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 29|:stopwatch: tensorflow-lite|2|Sep 5||
 [#12689](https://github.com/conan-io/conan-center-index/pull/12689)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: spirv-tools|2|Sep 3||uilianries
 [#12703](https://github.com/conan-io/conan-center-index/pull/12703)|[ericriff](https://github.com/ericriff)|Aug 30|:memo: mold|0|||
 [#12713](https://github.com/conan-io/conan-center-index/pull/12713)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: coin-utils|6|Sep 1||uilianries
@@ -65,19 +66,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12829](https://github.com/conan-io/conan-center-index/pull/12829)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: sdbus-cpp|1|Sep 5||uilianries
 [#12833](https://github.com/conan-io/conan-center-index/pull/12833)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-c-driver|0|||
 [#12836](https://github.com/conan-io/conan-center-index/pull/12836)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-cxx-driver|0|||
+[#12838](https://github.com/conan-io/conan-center-index/pull/12838)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: openssl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
-[#12800](https://github.com/conan-io/conan-center-index/pull/12800)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: blaze|2|uilianries, toge
-[#12801](https://github.com/conan-io/conan-center-index/pull/12801)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: avir|2|uilianries, toge
 
 
 #### :clipboard: Statistics
@@ -86,9 +86,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 249
+	- Open: 248
 	- Draft: 34
-	- Average Age: 68 days, 13 hours, and 26.60 minutes
+	- Average Age: 68 days, 20 hours, and 31.26 minutes
 	- Stop Label: 141
 	
 
