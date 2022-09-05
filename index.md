@@ -74,7 +74,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12825](https://github.com/conan-io/conan-center-index/pull/12825)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: zstd|0|||
 [#12827](https://github.com/conan-io/conan-center-index/pull/12827)|[jgsogo](https://github.com/jgsogo)|Sep 5|:memo: openssl|0|||
 [#12828](https://github.com/conan-io/conan-center-index/pull/12828)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 5|:memo: mpir|0|||
-[#12829](https://github.com/conan-io/conan-center-index/pull/12829)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: sdbus-cpp|0|||
+[#12829](https://github.com/conan-io/conan-center-index/pull/12829)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: sdbus-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -94,10 +94,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 254
+	- Open: 255
 	- Draft: 34
-	- Average Age: 67 days, 1 hours, and 7.16 minutes
-	- Stop Label: 139
+	- Average Age: 66 days, 19 hours, and 45.26 minutes
+	- Stop Label: 140
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
