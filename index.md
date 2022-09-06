@@ -61,7 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12807](https://github.com/conan-io/conan-center-index/pull/12807)|[jwillikers](https://github.com/jwillikers)|Sep 3|:stopwatch: boost|0|||
 [#12827](https://github.com/conan-io/conan-center-index/pull/12827)|[jgsogo](https://github.com/jgsogo)|Sep 5|:memo: openssl|2|Sep 6||uilianries
 [#12833](https://github.com/conan-io/conan-center-index/pull/12833)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-c-driver|1|Sep 6||uilianries
-[#12839](https://github.com/conan-io/conan-center-index/pull/12839)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: mariadb-connector-c|1|Sep 6||
+[#12839](https://github.com/conan-io/conan-center-index/pull/12839)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mariadb-connector-c|1|Sep 6||
 [#12846](https://github.com/conan-io/conan-center-index/pull/12846)|[Tradias](https://github.com/Tradias)|Sep 6|:stopwatch: asio-grpc|0|||
 
 
@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 242
 	- Draft: 38
-	- Average Age: 71 days, 11 hours, and 1.84 minutes
+	- Average Age: 71 days, 13 hours, and 4.29 minutes
 	- Stop Label: 137
 	
 
