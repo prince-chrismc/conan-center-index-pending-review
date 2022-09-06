@@ -840,8 +840,8 @@
       "Recipe": "boost",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12807",
-      "LastCommitSHA": "d54f0038ba36ee8fa1e62ef38a65ce5b085f160e",
-      "LastCommitAt": "2022-09-06T17:19:59Z",
+      "LastCommitSHA": "0f950280304f52456cada6b2c70a3489aadd4c2a",
+      "LastCommitAt": "2022-09-06T17:34:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -922,24 +922,6 @@
             "SubmittedAt": "2022-09-06T15:06:59Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12839#pullrequestreview-1097769230"
          }
-      }
-   },
-   {
-      "Number": 12844,
-      "OpenedBy": "kissandras",
-      "CreatedAt": "2022-09-06T06:47:58Z",
-      "Recipe": "archicad-apidevkit",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12844",
-      "LastCommitSHA": "eb70b39a0354e27bcf2ea2e7264679566c1a8ff0",
-      "LastCommitAt": "2022-09-06T14:12:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
