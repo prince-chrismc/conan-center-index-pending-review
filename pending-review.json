@@ -923,5 +923,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12839#pullrequestreview-1097769230"
          }
       }
+   },
+   {
+      "Number": 12846,
+      "OpenedBy": "Tradias",
+      "CreatedAt": "2022-09-06T17:15:52Z",
+      "Recipe": "asio-grpc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12846",
+      "LastCommitSHA": "787f6a2c358a923d7261db1bae8688f2f4e64429",
+      "LastCommitAt": "2022-09-06T18:10:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
