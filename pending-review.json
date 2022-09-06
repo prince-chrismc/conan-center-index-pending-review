@@ -431,8 +431,8 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12678",
-      "LastCommitSHA": "8c4a94d5922a4cf7452233d1dbdcb284365a11a3",
-      "LastCommitAt": "2022-09-06T14:13:54Z",
+      "LastCommitSHA": "629bdb5c8b602c38e48152cdbbe1257672a4c306",
+      "LastCommitAt": "2022-09-06T15:10:31Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 9,
@@ -494,6 +494,31 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2022-09-03T05:00:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12689#pullrequestreview-1095464677"
+         }
+      }
+   },
+   {
+      "Number": 12697,
+      "OpenedBy": "patmantru",
+      "CreatedAt": "2022-08-30T14:27:52Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12697",
+      "LastCommitSHA": "0badf34efdc7e11007644dcc901abc9c728bc733",
+      "LastCommitAt": "2022-09-06T14:35:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": [],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-09-06T15:15:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12697#pullrequestreview-1097783640"
          }
       }
    },
@@ -809,57 +834,6 @@
       }
    },
    {
-      "Number": 12809,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-09-03T20:59:37Z",
-      "Recipe": "bvdberg-ctest",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12809",
-      "LastCommitSHA": "edfb7263d152ef910e77353e97e80e8646820ee6",
-      "LastCommitAt": "2022-09-03T21:26:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-09-06T14:18:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12809#pullrequestreview-1097681298"
-         }
-      }
-   },
-   {
-      "Number": 12810,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-09-03T21:21:31Z",
-      "Recipe": "vectorial",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12810",
-      "LastCommitSHA": "e74f21bcdf4f9edea21b3edb4290bd451b85543c",
-      "LastCommitAt": "2022-09-03T21:21:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-05T08:49:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12810#pullrequestreview-1096099741"
-         }
-      }
-   },
-   {
       "Number": 12827,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-09-05T08:22:22Z",
@@ -907,24 +881,6 @@
             "SubmittedAt": "2022-09-06T11:01:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12833#pullrequestreview-1097384867"
          }
-      }
-   },
-   {
-      "Number": 12839,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-09-05T22:51:31Z",
-      "Recipe": "mariadb-connector-c",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12839",
-      "LastCommitSHA": "b7785719c05dd1f904d26b4e27e89a2c5cc215f5",
-      "LastCommitAt": "2022-09-05T20:40:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
