@@ -40,7 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12615](https://github.com/conan-io/conan-center-index/pull/12615)|[fdgStilla](https://github.com/fdgStilla)|Aug 26|:memo: podofo|5|Sep 5||uilianries
 [#12656](https://github.com/conan-io/conan-center-index/pull/12656)|[scandyna](https://github.com/scandyna)|Aug 28|:stopwatch: qt|2|Sep 4||
 [#12678](https://github.com/conan-io/conan-center-index/pull/12678)|[uilianries](https://github.com/uilianries)|Aug 29|:green_book: docs|2|Sep 1||prince-chrismc
-[#12686](https://github.com/conan-io/conan-center-index/pull/12686)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 29|:stopwatch: tensorflow-lite|2|Sep 5||
+[#12686](https://github.com/conan-io/conan-center-index/pull/12686)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 29|:memo: tensorflow-lite|2|Sep 5||
 [#12689](https://github.com/conan-io/conan-center-index/pull/12689)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: spirv-tools|2|Sep 3||uilianries
 [#12703](https://github.com/conan-io/conan-center-index/pull/12703)|[ericriff](https://github.com/ericriff)|Aug 30|:memo: mold|0|||
 [#12713](https://github.com/conan-io/conan-center-index/pull/12713)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: coin-utils|6|Sep 1||uilianries
@@ -67,8 +67,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12833](https://github.com/conan-io/conan-center-index/pull/12833)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-c-driver|0|||
 [#12836](https://github.com/conan-io/conan-center-index/pull/12836)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-cxx-driver|0|||
 [#12838](https://github.com/conan-io/conan-center-index/pull/12838)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: openssl|0|||
-[#12839](https://github.com/conan-io/conan-center-index/pull/12839)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: mariadb-connector-c|0|||
-[#12840](https://github.com/conan-io/conan-center-index/pull/12840)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: bzip2|0|||
+[#12840](https://github.com/conan-io/conan-center-index/pull/12840)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: bzip2|0|||
+[#12841](https://github.com/conan-io/conan-center-index/pull/12841)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:stopwatch: openal|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -88,10 +88,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 250
+	- Open: 251
 	- Draft: 34
-	- Average Age: 68 days, 8 hours, and 18.53 minutes
-	- Stop Label: 141
+	- Average Age: 68 days, 3 hours, and 56.89 minutes
+	- Stop Label: 142
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
