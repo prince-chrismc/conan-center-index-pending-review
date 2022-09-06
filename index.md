@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **38** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -62,7 +62,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12827](https://github.com/conan-io/conan-center-index/pull/12827)|[jgsogo](https://github.com/jgsogo)|Sep 5|:memo: openssl|2|Sep 6||uilianries
 [#12833](https://github.com/conan-io/conan-center-index/pull/12833)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-c-driver|1|Sep 6||uilianries
 [#12839](https://github.com/conan-io/conan-center-index/pull/12839)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: mariadb-connector-c|1|Sep 6||
-[#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:stopwatch: archicad-apidevkit|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -84,8 +83,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 241
 	- Draft: 39
-	- Average Age: 71 days, 14 hours, and 16.51 minutes
-	- Stop Label: 136
+	- Average Age: 71 days, 15 hours, and 13.08 minutes
+	- Stop Label: 137
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
