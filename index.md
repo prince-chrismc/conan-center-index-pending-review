@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -59,25 +59,24 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12809](https://github.com/conan-io/conan-center-index/pull/12809)|[SpaceIm](https://github.com/SpaceIm)|Sep 3|:memo: bvdberg-ctest|1|Sep 5||uilianries
 [#12810](https://github.com/conan-io/conan-center-index/pull/12810)|[SpaceIm](https://github.com/SpaceIm)|Sep 3|:memo: vectorial|1|Sep 5||uilianries
 [#12817](https://github.com/conan-io/conan-center-index/pull/12817)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: libheif|1|Sep 5||uilianries
-[#12819](https://github.com/conan-io/conan-center-index/pull/12819)|[jwillikers](https://github.com/jwillikers)|Sep 4|:memo: boost|1|Sep 6||uilianries
-[#12820](https://github.com/conan-io/conan-center-index/pull/12820)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: libaom-av1|1|Sep 5||uilianries
-[#12824](https://github.com/conan-io/conan-center-index/pull/12824)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: libalsa|1|Sep 5||uilianries
-[#12825](https://github.com/conan-io/conan-center-index/pull/12825)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: zstd|1|Sep 5||uilianries
-[#12828](https://github.com/conan-io/conan-center-index/pull/12828)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 5|:memo: mpir|1|Sep 5||uilianries
-[#12829](https://github.com/conan-io/conan-center-index/pull/12829)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: sdbus-cpp|1|Sep 5||uilianries
+[#12827](https://github.com/conan-io/conan-center-index/pull/12827)|[jgsogo](https://github.com/jgsogo)|Sep 5|:stopwatch: openssl|1|Sep 5||
 [#12833](https://github.com/conan-io/conan-center-index/pull/12833)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: mongo-c-driver|0|||
 [#12841](https://github.com/conan-io/conan-center-index/pull/12841)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:stopwatch: openal|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
+[#12820](https://github.com/conan-io/conan-center-index/pull/12820)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: libaom-av1|2|uilianries, jgsogo
+[#12824](https://github.com/conan-io/conan-center-index/pull/12824)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: libalsa|2|uilianries, jgsogo
+[#12825](https://github.com/conan-io/conan-center-index/pull/12825)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: zstd|2|uilianries, jgsogo
+[#12829](https://github.com/conan-io/conan-center-index/pull/12829)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: sdbus-cpp|2|uilianries, jgsogo
 [#12836](https://github.com/conan-io/conan-center-index/pull/12836)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-cxx-driver|2|uilianries, jgsogo
 [#12838](https://github.com/conan-io/conan-center-index/pull/12838)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: openssl|2|uilianries, jgsogo
 [#12840](https://github.com/conan-io/conan-center-index/pull/12840)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: bzip2|2|uilianries, jgsogo
@@ -89,9 +88,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 252
+	- Open: 250
 	- Draft: 34
-	- Average Age: 68 days, 4 hours, and 18.27 minutes
+	- Average Age: 68 days, 18 hours, and 4.46 minutes
 	- Stop Label: 142
 	
 
