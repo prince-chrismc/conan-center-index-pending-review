@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **44** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -68,7 +68,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12836](https://github.com/conan-io/conan-center-index/pull/12836)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-cxx-driver|0|||
 [#12838](https://github.com/conan-io/conan-center-index/pull/12838)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: openssl|0|||
 [#12840](https://github.com/conan-io/conan-center-index/pull/12840)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: bzip2|0|||
-[#12841](https://github.com/conan-io/conan-center-index/pull/12841)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:stopwatch: openal|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -90,8 +89,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 251
 	- Draft: 34
-	- Average Age: 68 days, 3 hours, and 56.89 minutes
-	- Stop Label: 142
+	- Average Age: 68 days, 4 hours, and 21.60 minutes
+	- Stop Label: 143
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
