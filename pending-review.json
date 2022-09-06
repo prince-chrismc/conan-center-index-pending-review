@@ -923,23 +923,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12839#pullrequestreview-1097769230"
          }
       }
-   },
-   {
-      "Number": 12847,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2022-09-06T18:55:23Z",
-      "Recipe": "fmt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12847",
-      "LastCommitSHA": "c2ea268b486ecb5ecf50aef2750ebd9ccafc35bc",
-      "LastCommitAt": "2022-09-06T18:56:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
