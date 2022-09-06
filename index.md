@@ -66,7 +66,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12829](https://github.com/conan-io/conan-center-index/pull/12829)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: sdbus-cpp|1|Sep 5||uilianries
 [#12833](https://github.com/conan-io/conan-center-index/pull/12833)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-c-driver|0|||
 [#12836](https://github.com/conan-io/conan-center-index/pull/12836)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-cxx-driver|0|||
-[#12838](https://github.com/conan-io/conan-center-index/pull/12838)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:stopwatch: openssl|0|||
+[#12838](https://github.com/conan-io/conan-center-index/pull/12838)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: openssl|0|||
 [#12840](https://github.com/conan-io/conan-center-index/pull/12840)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: bzip2|0|||
 
 
@@ -89,7 +89,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 251
 	- Draft: 34
-	- Average Age: 68 days, 4 hours, and 21.60 minutes
+	- Average Age: 68 days, 6 hours, and 50.77 minutes
 	- Stop Label: 143
 	
 
