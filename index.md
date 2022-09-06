@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12809](https://github.com/conan-io/conan-center-index/pull/12809)|[SpaceIm](https://github.com/SpaceIm)|Sep 3|:memo: bvdberg-ctest|1|Sep 5||uilianries
 [#12810](https://github.com/conan-io/conan-center-index/pull/12810)|[SpaceIm](https://github.com/SpaceIm)|Sep 3|:memo: vectorial|1|Sep 5||uilianries
 [#12817](https://github.com/conan-io/conan-center-index/pull/12817)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: libheif|1|Sep 5||uilianries
-[#12819](https://github.com/conan-io/conan-center-index/pull/12819)|[jwillikers](https://github.com/jwillikers)|Sep 4|:stopwatch: boost|0|||
+[#12819](https://github.com/conan-io/conan-center-index/pull/12819)|[jwillikers](https://github.com/jwillikers)|Sep 4|:memo: boost|0|||
 [#12820](https://github.com/conan-io/conan-center-index/pull/12820)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: libaom-av1|1|Sep 5||uilianries
 [#12824](https://github.com/conan-io/conan-center-index/pull/12824)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: libalsa|1|Sep 5||uilianries
 [#12825](https://github.com/conan-io/conan-center-index/pull/12825)|[SpaceIm](https://github.com/SpaceIm)|Sep 4|:memo: zstd|1|Sep 5||uilianries
@@ -87,10 +87,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 251
+	- Open: 252
 	- Draft: 34
-	- Average Age: 68 days, 6 hours, and 50.77 minutes
-	- Stop Label: 143
+	- Average Age: 68 days, 3 hours, and 34.29 minutes
+	- Stop Label: 144
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
