@@ -913,23 +913,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 12861,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2022-09-07T13:40:24Z",
-      "Recipe": "tomlplusplus",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12861",
-      "LastCommitSHA": "0af2bff11ad1af689778a244f719234cade20840",
-      "LastCommitAt": "2022-09-07T14:18:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
