@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **38** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -62,7 +62,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12852](https://github.com/conan-io/conan-center-index/pull/12852)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|1|Sep 7||SSE4
 [#12853](https://github.com/conan-io/conan-center-index/pull/12853)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|1|Sep 7||SSE4
 [#12855](https://github.com/conan-io/conan-center-index/pull/12855)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: coin-cgl|0|||
-[#12861](https://github.com/conan-io/conan-center-index/pull/12861)|[uilianries](https://github.com/uilianries)|Sep 7|:stopwatch: tomlplusplus|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -82,10 +81,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 238
-	- Draft: 35
-	- Average Age: 72 days, 2 hours, and 30.01 minutes
-	- Stop Label: 136
+	- Open: 237
+	- Draft: 34
+	- Average Age: 72 days, 10 hours, and 41.22 minutes
+	- Stop Label: 137
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
