@@ -547,19 +547,21 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12704",
-      "LastCommitSHA": "7d5d6971dd8e8e98d56521f9323b9b1e3ee60943",
-      "LastCommitAt": "2022-09-07T19:04:06Z",
+      "LastCommitSHA": "6380513fb4e4cc7e55039a3766423d5a57858bc6",
+      "LastCommitAt": "2022-09-07T21:47:27Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "memsharded"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-08-31T10:41:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12704#pullrequestreview-1091671782"
+            "ReviewerName": "memsharded",
+            "SubmittedAt": "2022-09-07T21:57:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12704#pullrequestreview-1099868871"
          }
       }
    },
