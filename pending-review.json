@@ -568,6 +568,24 @@
       }
    },
    {
+      "Number": 12725,
+      "OpenedBy": "paulocoutinhox",
+      "CreatedAt": "2022-08-31T17:16:22Z",
+      "Recipe": "drogon",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12725",
+      "LastCommitSHA": "474ad6e0d6b5575489a85a37f2baea8f8f94574e",
+      "LastCommitAt": "2022-09-07T05:05:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 12727,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-08-31T18:15:41Z",
