@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **38** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -62,18 +62,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12852](https://github.com/conan-io/conan-center-index/pull/12852)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|0|||
 [#12853](https://github.com/conan-io/conan-center-index/pull/12853)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|0|||
 [#12855](https://github.com/conan-io/conan-center-index/pull/12855)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: coin-cgl|0|||
+[#12858](https://github.com/conan-io/conan-center-index/pull/12858)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 7|:stopwatch: boost|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
-[#12839](https://github.com/conan-io/conan-center-index/pull/12839)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mariadb-connector-c|3|uilianries, jgsogo
 
 
 #### :clipboard: Statistics
@@ -82,9 +82,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 242
+	- Open: 243
 	- Draft: 38
-	- Average Age: 71 days, 20 hours, and 55.04 minutes
+	- Average Age: 71 days, 14 hours, and 37.17 minutes
 	- Stop Label: 138
 	
 
