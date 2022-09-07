@@ -163,24 +163,6 @@
       }
    },
    {
-      "Number": 12310,
-      "OpenedBy": "jave27",
-      "CreatedAt": "2022-08-17T17:29:42Z",
-      "Recipe": "qxmpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12310",
-      "LastCommitSHA": "d3d588e16deae74c2d712b9cc935315b0abfdde3",
-      "LastCommitAt": "2022-08-12T16:18:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 12366,
       "OpenedBy": "szmyd",
       "CreatedAt": "2022-08-18T20:00:11Z",
@@ -408,8 +390,8 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12678",
-      "LastCommitSHA": "629bdb5c8b602c38e48152cdbbe1257672a4c306",
-      "LastCommitAt": "2022-09-06T15:10:31Z",
+      "LastCommitSHA": "2c6759c8a50e2ff52a5c049cf0956bf68cf4d779",
+      "LastCommitAt": "2022-09-07T07:37:06Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 14,
@@ -882,15 +864,17 @@
       "LastCommitAt": "2022-09-06T16:45:46Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-06T15:06:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12839#pullrequestreview-1097769230"
+            "SubmittedAt": "2022-09-07T07:33:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12839#pullrequestreview-1098667482"
          }
       }
    },
@@ -903,7 +887,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12846",
       "LastCommitSHA": "787f6a2c358a923d7261db1bae8688f2f4e64429",
       "LastCommitAt": "2022-09-06T18:10:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
