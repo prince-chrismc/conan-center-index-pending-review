@@ -21,13 +21,12 @@
 
 ### :nerd_face: Please Review! 
 
-There are **38** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11636](https://github.com/conan-io/conan-center-index/pull/11636)|[jwillikers](https://github.com/jwillikers)|Jul 11|:memo: xkbcommon|5|Sep 6||uilianries
-[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|17|Aug 24 :bell:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|1|Aug 8 :bell:||prince-chrismc
 [#12256](https://github.com/conan-io/conan-center-index/pull/12256)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Aug 16|:memo: mingw-w64|3|Sep 1||
@@ -41,7 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12613](https://github.com/conan-io/conan-center-index/pull/12613)|[ggulgulia](https://github.com/ggulgulia)|Aug 26|:stopwatch: gfortran|4|Sep 4||
 [#12615](https://github.com/conan-io/conan-center-index/pull/12615)|[fdgStilla](https://github.com/fdgStilla)|Aug 26|:memo: podofo|5|Sep 5||uilianries
 [#12656](https://github.com/conan-io/conan-center-index/pull/12656)|[scandyna](https://github.com/scandyna)|Aug 28|:stopwatch: qt|2|Sep 4||
-[#12678](https://github.com/conan-io/conan-center-index/pull/12678)|[uilianries](https://github.com/uilianries)|Aug 29|:green_book: docs|11|Sep 6||
+[#12678](https://github.com/conan-io/conan-center-index/pull/12678)|[uilianries](https://github.com/uilianries)|Aug 29|:green_book: docs|14|Sep 7||
 [#12686](https://github.com/conan-io/conan-center-index/pull/12686)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 29|:memo: tensorflow-lite|3|Sep 6||uilianries
 [#12689](https://github.com/conan-io/conan-center-index/pull/12689)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: spirv-tools|2|Sep 3||uilianries
 [#12697](https://github.com/conan-io/conan-center-index/pull/12697)|[patmantru](https://github.com/patmantru)|Aug 30|:memo: opentdf-client|6|Sep 6||uilianries
@@ -54,7 +53,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|4|Sep 4||jgsogo
 [#12762](https://github.com/conan-io/conan-center-index/pull/12762)|[rainman110](https://github.com/rainman110)|Sep 1|:new: cminpack|7|Sep 3||
 [#12779](https://github.com/conan-io/conan-center-index/pull/12779)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 1|:memo: coin-clp|2|Sep 2||uilianries
-[#12792](https://github.com/conan-io/conan-center-index/pull/12792)|[ZbigniewRA](https://github.com/ZbigniewRA)|Sep 2|:new: ittapi|4|Sep 5||uilianries
 [#12795](https://github.com/conan-io/conan-center-index/pull/12795)|[AlexRamallo](https://github.com/AlexRamallo)|Sep 2|:stopwatch: android-ndk|2|Sep 5||SpaceIm
 [#12802](https://github.com/conan-io/conan-center-index/pull/12802)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: brigand|4|Sep 6||uilianries
 [#12806](https://github.com/conan-io/conan-center-index/pull/12806)|[SpaceIm](https://github.com/SpaceIm)|Sep 3|:memo: pulseaudio|1|Sep 5||uilianries
@@ -63,6 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12833](https://github.com/conan-io/conan-center-index/pull/12833)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mongo-c-driver|1|Sep 6||uilianries
 [#12839](https://github.com/conan-io/conan-center-index/pull/12839)|[SpaceIm](https://github.com/SpaceIm)|Sep 5|:memo: mariadb-connector-c|1|Sep 6||
 [#12846](https://github.com/conan-io/conan-center-index/pull/12846)|[Tradias](https://github.com/Tradias)|Sep 6|:stopwatch: asio-grpc|0|||
+[#12847](https://github.com/conan-io/conan-center-index/pull/12847)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 6|:stopwatch: fmt|7|Sep 6||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -82,10 +81,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
-	- Open: 242
+	- Open: 241
 	- Draft: 38
-	- Average Age: 71 days, 13 hours, and 4.29 minutes
-	- Stop Label: 137
+	- Average Age: 71 days, 21 hours, and 53.08 minutes
+	- Stop Label: 138
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
