@@ -21,12 +21,11 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#11636](https://github.com/conan-io/conan-center-index/pull/11636)|[jwillikers](https://github.com/jwillikers)|Jul 11|:memo: xkbcommon|5|Sep 6||uilianries
 [#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|17|Aug 24 :bell:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:stopwatch: hazelcast-cpp-client|1|Aug 15 :bell:||
@@ -59,7 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12827](https://github.com/conan-io/conan-center-index/pull/12827)|[jgsogo](https://github.com/jgsogo)|Sep 5|:memo: openssl|2|Sep 6||uilianries
 [#12846](https://github.com/conan-io/conan-center-index/pull/12846)|[Tradias](https://github.com/Tradias)|Sep 6|:stopwatch: asio-grpc|0|||
 [#12847](https://github.com/conan-io/conan-center-index/pull/12847)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 6|:stopwatch: fmt|8|Sep 7||uilianries
-[#12850](https://github.com/conan-io/conan-center-index/pull/12850)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|1|Sep 7||SSE4
+[#12850](https://github.com/conan-io/conan-center-index/pull/12850)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|2|Sep 8||SSE4
 [#12852](https://github.com/conan-io/conan-center-index/pull/12852)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|1|Sep 7||SSE4
 [#12855](https://github.com/conan-io/conan-center-index/pull/12855)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: coin-cgl|0|||
 [#12861](https://github.com/conan-io/conan-center-index/pull/12861)|[uilianries](https://github.com/uilianries)|Sep 7|:stopwatch: tomlplusplus|0|||
@@ -84,11 +83,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
+- Commit: 6d90699abd9d7c63e1425c0753f00870fb6202a0
 - Pull Requests:
-	- Open: 237
+	- Open: 236
 	- Draft: 32
-	- Average Age: 73 days, 8 hours, and 37.56 minutes
+	- Average Age: 73 days, 11 hours, and 10.19 minutes
 	- Stop Label: 135
 	
 
