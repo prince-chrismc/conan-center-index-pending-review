@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,6 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:stopwatch: hazelcast-cpp-client|1|Aug 15 :bell:||
 [#12003](https://github.com/conan-io/conan-center-index/pull/12003)|[YaZasnyal](https://github.com/YaZasnyal)|Aug 1|:stopwatch: opencore-amr|0|||
 [#12256](https://github.com/conan-io/conan-center-index/pull/12256)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Aug 16|:memo: mingw-w64|4|Sep 8||uilianries
+[#12281](https://github.com/conan-io/conan-center-index/pull/12281)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|0|||
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|3|Aug 26 :bell:|jgsogo|uilianries
 [#12386](https://github.com/conan-io/conan-center-index/pull/12386)|[uilianries](https://github.com/uilianries)|Aug 19|:memo: libpng|8|Sep 1||prince-chrismc
 [#12490](https://github.com/conan-io/conan-center-index/pull/12490)|[SpaceIm](https://github.com/SpaceIm)|Aug 24|:memo: bzip3|2|Sep 5||uilianries
@@ -42,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12686](https://github.com/conan-io/conan-center-index/pull/12686)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 29|:memo: tensorflow-lite|3|Sep 6||uilianries
 [#12689](https://github.com/conan-io/conan-center-index/pull/12689)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: spirv-tools|2|Sep 3||uilianries
 [#12697](https://github.com/conan-io/conan-center-index/pull/12697)|[patmantru](https://github.com/patmantru)|Aug 30|:memo: opentdf-client|7|Sep 8|prince-chrismc|uilianries
-[#12703](https://github.com/conan-io/conan-center-index/pull/12703)|[ericriff](https://github.com/ericriff)|Aug 30|:memo: mold|0|||
+[#12703](https://github.com/conan-io/conan-center-index/pull/12703)|[ericriff](https://github.com/ericriff)|Aug 30|:memo: mold|0|:eyes:||
 [#12704](https://github.com/conan-io/conan-center-index/pull/12704)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 31|:green_book: docs|2|Sep 7||memsharded
 [#12715](https://github.com/conan-io/conan-center-index/pull/12715)|[SpaceIm](https://github.com/SpaceIm)|Aug 31|:memo: msys2|4|Aug 31||uilianries
 [#12725](https://github.com/conan-io/conan-center-index/pull/12725)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 31|:stopwatch: drogon|0|||
@@ -63,8 +64,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12855](https://github.com/conan-io/conan-center-index/pull/12855)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: coin-cgl|0|||
 [#12861](https://github.com/conan-io/conan-center-index/pull/12861)|[uilianries](https://github.com/uilianries)|Sep 7|:stopwatch: tomlplusplus|0|||
 [#12868](https://github.com/conan-io/conan-center-index/pull/12868)|[SpaceIm](https://github.com/SpaceIm)|Sep 8|:stopwatch: poco|0|||
-[#12869](https://github.com/conan-io/conan-center-index/pull/12869)|[jgsogo](https://github.com/jgsogo)|Sep 8|:green_book: docs|2|Sep 8||
 [#12870](https://github.com/conan-io/conan-center-index/pull/12870)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 8|:stopwatch: .c3i|1|Sep 8||uilianries
+[#12872](https://github.com/conan-io/conan-center-index/pull/12872)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 8|:green_book: docs|1|Sep 8||
+[#12873](https://github.com/conan-io/conan-center-index/pull/12873)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 8|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -85,8 +87,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4a561154f1b39c717eee715b0ab7af6c1e84e6a1
 - Pull Requests:
 	- Open: 237
-	- Draft: 33
-	- Average Age: 73 days, 7 hours, and 34.46 minutes
+	- Draft: 32
+	- Average Age: 73 days, 8 hours, and 37.56 minutes
 	- Stop Label: 135
 	
 
