@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -61,7 +61,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12847](https://github.com/conan-io/conan-center-index/pull/12847)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 6|:stopwatch: fmt|8|Sep 7||uilianries
 [#12850](https://github.com/conan-io/conan-center-index/pull/12850)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|1|Sep 7||SSE4
 [#12852](https://github.com/conan-io/conan-center-index/pull/12852)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|1|Sep 7||SSE4
-[#12853](https://github.com/conan-io/conan-center-index/pull/12853)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|5|Sep 8||SSE4
 [#12855](https://github.com/conan-io/conan-center-index/pull/12855)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: coin-cgl|0|||
 [#12861](https://github.com/conan-io/conan-center-index/pull/12861)|[uilianries](https://github.com/uilianries)|Sep 7|:stopwatch: tomlplusplus|0|||
 [#12868](https://github.com/conan-io/conan-center-index/pull/12868)|[SpaceIm](https://github.com/SpaceIm)|Sep 8|:stopwatch: poco|0|||
@@ -71,13 +70,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
+[#12853](https://github.com/conan-io/conan-center-index/pull/12853)|[uilianries](https://github.com/uilianries)|Sep 7|:green_book: docs|6|SSE4, jgsogo
 
 
 #### :clipboard: Statistics
@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 238
 	- Draft: 33
-	- Average Age: 72 days, 21 hours, and 33.35 minutes
+	- Average Age: 72 days, 22 hours, and 34.41 minutes
 	- Stop Label: 135
 	
 
