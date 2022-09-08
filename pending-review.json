@@ -893,17 +893,18 @@
       "LastCommitAt": "2022-09-08T12:02:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
+         "Count": 6,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-09-08T12:20:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12853#pullrequestreview-1100644003"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-09-08T13:25:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12853#pullrequestreview-1100744275"
          }
       }
    },
