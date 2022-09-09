@@ -231,16 +231,14 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12281",
-      "LastCommitSHA": "5b0ff88daa63b960313266e119fca2b728df10bc",
-      "LastCommitAt": "2022-09-08T16:18:41Z",
+      "LastCommitSHA": "c84c3781ce84572ae8dcce913d1074d8229b1a09",
+      "LastCommitAt": "2022-09-09T16:10:38Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [
             "jgsogo"
          ],
@@ -310,7 +308,7 @@
       "Recipe": "tensorflow-lite",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12390",
-      "LastCommitSHA": "968acc0ee355d18d9852cbc9916254c509a4815e",
+      "LastCommitSHA": "7f56b36da3bbacf2755c3f6910d8e4018006e639",
       "LastCommitAt": "2022-08-19T14:36:32Z",
       "CciBotPassed": false,
       "Summary": {
@@ -397,16 +395,14 @@
       "Recipe": "tensorflow-lite",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12686",
-      "LastCommitSHA": "1dec023908c449f4cb0311b2e8134eb0114f2823",
-      "LastCommitAt": "2022-09-05T21:35:51Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "039ead7bd7bc0660ff3d9161d532fb8477174660",
+      "LastCommitAt": "2022-09-09T16:18:11Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jgsogo",
@@ -919,7 +915,7 @@
       "LastCommitAt": "2022-09-09T07:35:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -928,9 +924,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-09-09T12:43:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12878#pullrequestreview-1102250849"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-09-09T16:13:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12878#pullrequestreview-1102575755"
          }
       }
    },
