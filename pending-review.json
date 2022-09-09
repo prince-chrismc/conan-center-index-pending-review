@@ -724,17 +724,18 @@
       "LastCommitAt": "2022-09-06T17:34:01Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "gegles"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-09-08T18:25:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12807#pullrequestreview-1101213264"
+            "ReviewerName": "gegles",
+            "SubmittedAt": "2022-09-09T05:56:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12807#pullrequestreview-1101734276"
          }
       }
    },
