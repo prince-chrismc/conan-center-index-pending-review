@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **34** pull requests currently under way :detective:
+There are **35** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -49,6 +49,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12753](https://github.com/conan-io/conan-center-index/pull/12753)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: influxdb-cpp|2|Sep 2|uilianries|intelligide
 [#12754](https://github.com/conan-io/conan-center-index/pull/12754)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: inja|4|Sep 4||jgsogo
 [#12762](https://github.com/conan-io/conan-center-index/pull/12762)|[rainman110](https://github.com/rainman110)|Sep 1|:new: cminpack|10|Sep 8||uilianries
+[#12816](https://github.com/conan-io/conan-center-index/pull/12816)|[MartinDelille](https://github.com/MartinDelille)|Sep 4|:stopwatch: bandit|3|Sep 8||
 [#12827](https://github.com/conan-io/conan-center-index/pull/12827)|[jgsogo](https://github.com/jgsogo)|Sep 5|:memo: openssl|3|Sep 9||uilianries, jwillikers
 [#12846](https://github.com/conan-io/conan-center-index/pull/12846)|[Tradias](https://github.com/Tradias)|Sep 6|:stopwatch: asio-grpc|1|Sep 9||
 [#12847](https://github.com/conan-io/conan-center-index/pull/12847)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 6|:stopwatch: fmt|9|Sep 9||uilianries, jwillikers
@@ -58,7 +59,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12876](https://github.com/conan-io/conan-center-index/pull/12876)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 8|:stopwatch: ms-gsl|2|Sep 9||uilianries, jwillikers
 [#12878](https://github.com/conan-io/conan-center-index/pull/12878)|[uilianries](https://github.com/uilianries)|Sep 9|:green_book: docs|2|Sep 9||jgsogo, jwillikers
 [#12879](https://github.com/conan-io/conan-center-index/pull/12879)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 9|:stopwatch: qt|1|Sep 9||jwillikers
-[#12882](https://github.com/conan-io/conan-center-index/pull/12882)|[jwillikers](https://github.com/jwillikers)|Sep 9|:stopwatch: xkbcommon|0|||
+[#12882](https://github.com/conan-io/conan-center-index/pull/12882)|[jwillikers](https://github.com/jwillikers)|Sep 9|:memo: xkbcommon|1|Sep 9||SpaceIm
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -84,7 +85,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 206
 	- Draft: 29
-	- Average Age: 68 days, 15 hours, and 54.06 minutes
+	- Average Age: 68 days, 16 hours, and 52.07 minutes
 	- Stop Label: 112
 	
 
