@@ -389,57 +389,6 @@
       }
    },
    {
-      "Number": 12686,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2022-08-29T20:30:18Z",
-      "Recipe": "tensorflow-lite",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12686",
-      "LastCommitSHA": "039ead7bd7bc0660ff3d9161d532fb8477174660",
-      "LastCommitAt": "2022-09-09T16:18:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-09-09T10:43:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12686#pullrequestreview-1102105077"
-         }
-      }
-   },
-   {
-      "Number": 12697,
-      "OpenedBy": "patmantru",
-      "CreatedAt": "2022-08-30T14:27:52Z",
-      "Recipe": "opentdf-client",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12697",
-      "LastCommitSHA": "8e28af6f51c0a4e345dabc6ef7b811066df3ddc5",
-      "LastCommitAt": "2022-09-08T18:16:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jgsogo"
-         ],
-         "Blockers": [
-            "prince-chrismc"
-         ],
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-09-09T10:36:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12697#pullrequestreview-1102084997"
-         }
-      }
-   },
-   {
       "Number": 12704,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-08-31T05:02:07Z",
