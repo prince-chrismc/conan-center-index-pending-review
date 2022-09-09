@@ -53,7 +53,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12762](https://github.com/conan-io/conan-center-index/pull/12762)|[rainman110](https://github.com/rainman110)|Sep 1|:stopwatch: cminpack|10|Sep 8||uilianries
 [#12790](https://github.com/conan-io/conan-center-index/pull/12790)|[bog-dan-ro](https://github.com/bog-dan-ro)|Sep 2|:stopwatch: cpython|0|:eyes:||
 [#12802](https://github.com/conan-io/conan-center-index/pull/12802)|[SpaceIm](https://github.com/SpaceIm)|Sep 2|:memo: brigand|4|Sep 6||uilianries
-[#12807](https://github.com/conan-io/conan-center-index/pull/12807)|[jwillikers](https://github.com/jwillikers)|Sep 3|:stopwatch: boost|2|Sep 8||prince-chrismc
+[#12807](https://github.com/conan-io/conan-center-index/pull/12807)|[jwillikers](https://github.com/jwillikers)|Sep 3|:stopwatch: boost|3|Sep 9||prince-chrismc, gegles
 [#12827](https://github.com/conan-io/conan-center-index/pull/12827)|[jgsogo](https://github.com/jgsogo)|Sep 5|:memo: openssl|2|Sep 6||uilianries
 [#12846](https://github.com/conan-io/conan-center-index/pull/12846)|[Tradias](https://github.com/Tradias)|Sep 6|:memo: asio-grpc|0|||
 [#12847](https://github.com/conan-io/conan-center-index/pull/12847)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 6|:stopwatch: fmt|8|Sep 7||uilianries
@@ -86,7 +86,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 208
 	- Draft: 29
-	- Average Age: 67 days, 5 hours, and 21.81 minutes
+	- Average Age: 67 days, 13 hours, and 38.23 minutes
 	- Stop Label: 112
 	
 
