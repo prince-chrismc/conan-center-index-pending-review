@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -30,7 +30,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11904](https://github.com/conan-io/conan-center-index/pull/11904)|[uilianries](https://github.com/uilianries)|Jul 25|:stopwatch: luajit|1|Jul 25 :bell:||
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:stopwatch: hazelcast-cpp-client|1|Aug 15 :bell:||
-[#12003](https://github.com/conan-io/conan-center-index/pull/12003)|[YaZasnyal](https://github.com/YaZasnyal)|Aug 1|:stopwatch: opencore-amr|0|||
+[#12003](https://github.com/conan-io/conan-center-index/pull/12003)|[YaZasnyal](https://github.com/YaZasnyal)|Aug 1|:stopwatch: opencore-amr|0|:eyes:||
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:stopwatch: libxls|1|Aug 12 :bell:||
 [#12219](https://github.com/conan-io/conan-center-index/pull/12219)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:stopwatch: pkgconf|0|||
 [#12281](https://github.com/conan-io/conan-center-index/pull/12281)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|3|Sep 9|jgsogo|
@@ -57,7 +57,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12879](https://github.com/conan-io/conan-center-index/pull/12879)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 9|:stopwatch: qt|2|Sep 9||jwillikers, prince-chrismc
 [#12882](https://github.com/conan-io/conan-center-index/pull/12882)|[jwillikers](https://github.com/jwillikers)|Sep 9|:memo: xkbcommon|2|Sep 10||SpaceIm, toge
 [#12887](https://github.com/conan-io/conan-center-index/pull/12887)|[kammce](https://github.com/kammce)|Sep 9|:stopwatch: boost-leaf|0|||
-[#12889](https://github.com/conan-io/conan-center-index/pull/12889)|[GIGte](https://github.com/GIGte)|Sep 9|:stopwatch: cryptopp|0|||
+[#12892](https://github.com/conan-io/conan-center-index/pull/12892)|[jellespijker](https://github.com/jellespijker)|Sep 10|:stopwatch: m4|0|||
+[#12894](https://github.com/conan-io/conan-center-index/pull/12894)|[SpaceIm](https://github.com/SpaceIm)|Sep 10|:stopwatch: magic_enum|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -82,10 +83,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 207
-	- Draft: 29
-	- Average Age: 69 days, 6 hours, and 10.14 minutes
-	- Stop Label: 111
+	- Open: 209
+	- Draft: 28
+	- Average Age: 68 days, 17 hours, and 27.28 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
