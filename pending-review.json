@@ -982,5 +982,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12896,
+      "OpenedBy": "jellespijker",
+      "CreatedAt": "2022-09-11T13:06:28Z",
+      "Recipe": "autoconf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12896",
+      "LastCommitSHA": "94149dead1003e10d8701e7e327cd39960862a9f",
+      "LastCommitAt": "2022-09-11T16:06:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
