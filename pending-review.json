@@ -1000,23 +1000,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 12898,
-      "OpenedBy": "jellespijker",
-      "CreatedAt": "2022-09-11T17:17:18Z",
-      "Recipe": "automake",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12898",
-      "LastCommitSHA": "de8b1ce1b0bfd1e7f94a795ffd0e722020ba221e",
-      "LastCommitAt": "2022-09-11T17:13:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
