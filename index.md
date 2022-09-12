@@ -28,7 +28,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:memo: gdal|17|Aug 24 :bell:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#11904](https://github.com/conan-io/conan-center-index/pull/11904)|[uilianries](https://github.com/uilianries)|Jul 25|:stopwatch: luajit|2|Sep 12||jgsogo
+[#11904](https://github.com/conan-io/conan-center-index/pull/11904)|[uilianries](https://github.com/uilianries)|Jul 25|:stopwatch: luajit|3|Sep 12||jgsogo, Bobini1
 [#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:stopwatch: hazelcast-cpp-client|1|Aug 15 :bell:||
 [#12003](https://github.com/conan-io/conan-center-index/pull/12003)|[YaZasnyal](https://github.com/YaZasnyal)|Aug 1|:stopwatch: opencore-amr|0|:eyes:||
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:stopwatch: libxls|1|Aug 12 :bell:||
@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 227
 	- Draft: 28
-	- Average Age: 65 days, and 59.03 minutes
+	- Average Age: 65 days, 2 hours, and 2.71 minutes
 	- Stop Label: 115
 	
 
