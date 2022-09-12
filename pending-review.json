@@ -1101,24 +1101,6 @@
       }
    },
    {
-      "Number": 12904,
-      "OpenedBy": "jellespijker",
-      "CreatedAt": "2022-09-12T07:52:55Z",
-      "Recipe": "libffi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12904",
-      "LastCommitSHA": "601b6e093f9789a0e83961a40c25a1166065baed",
-      "LastCommitAt": "2022-09-12T09:23:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 12905,
       "OpenedBy": "jgsogo",
       "CreatedAt": "2022-09-12T08:12:35Z",
@@ -1137,14 +1119,50 @@
       }
    },
    {
-      "Number": 12906,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-09-12T09:00:39Z",
-      "Recipe": "qt",
+      "Number": 12908,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-09-12T11:24:13Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12908",
+      "LastCommitSHA": "f9300e838df77e496e3069a647db9d8b79a82293",
+      "LastCommitAt": "2022-09-12T11:23:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12909,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-09-12T11:41:54Z",
+      "Recipe": "glog",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12906",
-      "LastCommitSHA": "1d17959850b01c57389198feac3472ef894f5d54",
-      "LastCommitAt": "2022-09-12T09:00:18Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12909",
+      "LastCommitSHA": "2985101ccb8a4b4a7f9786c02f7b9f327b00088c",
+      "LastCommitAt": "2022-09-12T11:41:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12910,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-09-12T12:03:43Z",
+      "Recipe": "vulkan-validationlayers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12910",
+      "LastCommitSHA": "201d0094adbd1b76dd863cd8276aafa1bc0cc804",
+      "LastCommitAt": "2022-09-12T12:36:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
