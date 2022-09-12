@@ -39,7 +39,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12377](https://github.com/conan-io/conan-center-index/pull/12377)|[MartinDelille](https://github.com/MartinDelille)|Aug 19|:memo: libcurl|23|Sep 9||
 [#12383](https://github.com/conan-io/conan-center-index/pull/12383)|[SpaceIm](https://github.com/SpaceIm)|Aug 19|:memo: cocoyaxi|3|Aug 26 :bell:|jgsogo|uilianries
 [#12386](https://github.com/conan-io/conan-center-index/pull/12386)|[uilianries](https://github.com/uilianries)|Aug 19|:memo: libpng|8|Sep 1||prince-chrismc
-[#12425](https://github.com/conan-io/conan-center-index/pull/12425)|[toge](https://github.com/toge)|Aug 21|:stopwatch: imutils-cpp|4|Sep 9||
 [#12470](https://github.com/conan-io/conan-center-index/pull/12470)|[jellespijker](https://github.com/jellespijker)|Aug 23|:stopwatch: cpython|1|Sep 2||
 [#12479](https://github.com/conan-io/conan-center-index/pull/12479)|[chausner](https://github.com/chausner)|Aug 23|:stopwatch: cryptopp|0|||
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|9|Sep 9||prince-chrismc
@@ -66,6 +65,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12910](https://github.com/conan-io/conan-center-index/pull/12910)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 12|:stopwatch: vulkan-validationlayers|0|||
 [#12913](https://github.com/conan-io/conan-center-index/pull/12913)|[uilianries](https://github.com/uilianries)|Sep 12|:green_book: docs|2|Sep 12||jgsogo
 [#12917](https://github.com/conan-io/conan-center-index/pull/12917)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: voropp|0|||
+[#12918](https://github.com/conan-io/conan-center-index/pull/12918)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: ninja|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -94,10 +94,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 226
+	- Open: 227
 	- Draft: 28
-	- Average Age: 65 days, 6 hours, and 59.53 minutes
-	- Stop Label: 114
+	- Average Age: 65 days, and 59.03 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
