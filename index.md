@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,6 +64,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12899](https://github.com/conan-io/conan-center-index/pull/12899)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: npcap|0|||
 [#12900](https://github.com/conan-io/conan-center-index/pull/12900)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: pcapplusplus|0|||
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:stopwatch: antlr4-cppruntime|0|||
+[#12904](https://github.com/conan-io/conan-center-index/pull/12904)|[jellespijker](https://github.com/jellespijker)|Sep 12|:stopwatch: libffi|0|||
 [#12905](https://github.com/conan-io/conan-center-index/pull/12905)|[jgsogo](https://github.com/jgsogo)|Sep 12|:green_book: docs|0|||
 [#12906](https://github.com/conan-io/conan-center-index/pull/12906)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 12|:stopwatch: qt|0|||
 
@@ -79,7 +80,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|4|uilianries, ericLemanissier, prince-chrismc, SSE4
 [#12795](https://github.com/conan-io/conan-center-index/pull/12795)|[AlexRamallo](https://github.com/AlexRamallo)|Sep 2|:warning: android-ndk|3|SpaceIm, lasote
-[#12807](https://github.com/conan-io/conan-center-index/pull/12807)|[jwillikers](https://github.com/jwillikers)|Sep 3|:warning: boost|4|prince-chrismc, gegles, uilianries
+[#12807](https://github.com/conan-io/conan-center-index/pull/12807)|[jwillikers](https://github.com/jwillikers)|Sep 3|:warning: boost|5|prince-chrismc, gegles, uilianries, jgsogo
 [#12870](https://github.com/conan-io/conan-center-index/pull/12870)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 8|:gear: .c3i|2|uilianries, jgsogo
 [#12873](https://github.com/conan-io/conan-center-index/pull/12873)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 8|:green_book: docs|5|uilianries, jgsogo, toge, jwillikers
 [#12879](https://github.com/conan-io/conan-center-index/pull/12879)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 9|:warning: qt|3|jwillikers, prince-chrismc, jgsogo
@@ -92,10 +93,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 217
-	- Draft: 26
-	- Average Age: 67 days, 16 hours, and 0.01 minutes
-	- Stop Label: 113
+	- Open: 218
+	- Draft: 27
+	- Average Age: 67 days, 9 hours, and 31.96 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
