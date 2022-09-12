@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,7 +55,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12876](https://github.com/conan-io/conan-center-index/pull/12876)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 8|:stopwatch: ms-gsl|2|Sep 9||uilianries, jwillikers
 [#12878](https://github.com/conan-io/conan-center-index/pull/12878)|[uilianries](https://github.com/uilianries)|Sep 9|:green_book: docs|3|Sep 9||jgsogo, jwillikers
 [#12879](https://github.com/conan-io/conan-center-index/pull/12879)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 9|:stopwatch: qt|2|Sep 9||jwillikers, prince-chrismc
-[#12882](https://github.com/conan-io/conan-center-index/pull/12882)|[jwillikers](https://github.com/jwillikers)|Sep 9|:memo: xkbcommon|2|Sep 10||SpaceIm, toge
 [#12887](https://github.com/conan-io/conan-center-index/pull/12887)|[kammce](https://github.com/kammce)|Sep 9|:stopwatch: boost-leaf|0|||
 [#12892](https://github.com/conan-io/conan-center-index/pull/12892)|[jellespijker](https://github.com/jellespijker)|Sep 10|:stopwatch: m4|0|||
 [#12893](https://github.com/conan-io/conan-center-index/pull/12893)|[dotChris90](https://github.com/dotChris90)|Sep 10|:stopwatch: cyclonedds|0|||
@@ -65,11 +64,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12899](https://github.com/conan-io/conan-center-index/pull/12899)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: npcap|0|||
 [#12900](https://github.com/conan-io/conan-center-index/pull/12900)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: pcapplusplus|0|||
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:stopwatch: antlr4-cppruntime|0|||
+[#12904](https://github.com/conan-io/conan-center-index/pull/12904)|[jellespijker](https://github.com/jellespijker)|Sep 12|:stopwatch: libffi|0|||
+[#12905](https://github.com/conan-io/conan-center-index/pull/12905)|[jgsogo](https://github.com/jgsogo)|Sep 12|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -81,6 +82,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#12807](https://github.com/conan-io/conan-center-index/pull/12807)|[jwillikers](https://github.com/jwillikers)|Sep 3|:warning: boost|4|prince-chrismc, gegles, uilianries
 [#12870](https://github.com/conan-io/conan-center-index/pull/12870)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 8|:gear: .c3i|2|uilianries, jgsogo
 [#12873](https://github.com/conan-io/conan-center-index/pull/12873)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 8|:green_book: docs|5|uilianries, jgsogo, toge, jwillikers
+[#12882](https://github.com/conan-io/conan-center-index/pull/12882)|[jwillikers](https://github.com/jwillikers)|Sep 9|:memo: xkbcommon|3|SpaceIm, toge, jgsogo
 
 
 #### :clipboard: Statistics
@@ -89,9 +91,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 214
+	- Open: 216
 	- Draft: 26
-	- Average Age: 68 days, 13 hours, and 2.20 minutes
+	- Average Age: 67 days, 22 hours, and 33.57 minutes
 	- Stop Label: 112
 	
 
