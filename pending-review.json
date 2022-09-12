@@ -896,18 +896,19 @@
       "LastCommitAt": "2022-09-09T13:16:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "SpaceIm",
-            "toge"
+            "toge",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-09-10T14:47:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12882#pullrequestreview-1103139909"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-09-12T08:14:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12882#pullrequestreview-1103661596"
          }
       }
    },
@@ -1065,6 +1066,42 @@
       "LastCommitSHA": "5770555be87ac7386c228fad7a54af9806a9a388",
       "LastCommitAt": "2022-09-12T06:42:41Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12904,
+      "OpenedBy": "jellespijker",
+      "CreatedAt": "2022-09-12T07:52:55Z",
+      "Recipe": "libffi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12904",
+      "LastCommitSHA": "8949aba3564ad68ec30611a63c8387291350054e",
+      "LastCommitAt": "2022-09-12T07:51:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12905,
+      "OpenedBy": "jgsogo",
+      "CreatedAt": "2022-09-12T08:12:35Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12905",
+      "LastCommitSHA": "e1d53d138d24cecae5725a870e3cb1d83bbb6df0",
+      "LastCommitAt": "2022-09-12T08:11:30Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
