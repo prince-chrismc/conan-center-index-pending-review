@@ -69,17 +69,18 @@
       "LastCommitAt": "2022-09-09T07:27:23Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "jgsogo"
+            "jgsogo",
+            "Bobini1"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-09-12T17:31:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11904#pullrequestreview-1104565967"
+            "ReviewerName": "Bobini1",
+            "SubmittedAt": "2022-09-12T19:27:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/11904#pullrequestreview-1104725249"
          }
       }
    },
@@ -273,8 +274,8 @@
       "Recipe": "nuraft",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12360",
-      "LastCommitSHA": "7ede5183c9d3cc236056675d33a0040a6dd703ad",
-      "LastCommitAt": "2022-09-12T17:39:28Z",
+      "LastCommitSHA": "121d34d0f5f1608f73774bb2cce05bdd5da30732",
+      "LastCommitAt": "2022-09-12T20:01:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 6,
