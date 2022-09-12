@@ -612,19 +612,20 @@
       "LastCommitAt": "2022-09-06T17:34:01Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
+         "Count": 5,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
             "gegles",
-            "uilianries"
+            "uilianries",
+            "jgsogo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-09T07:52:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12807#pullrequestreview-1101861705"
+            "ReviewerName": "jgsogo",
+            "SubmittedAt": "2022-09-12T10:03:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12807#pullrequestreview-1103817416"
          }
       }
    },
@@ -1089,6 +1090,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12902",
       "LastCommitSHA": "5770555be87ac7386c228fad7a54af9806a9a388",
       "LastCommitAt": "2022-09-12T06:42:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12904,
+      "OpenedBy": "jellespijker",
+      "CreatedAt": "2022-09-12T07:52:55Z",
+      "Recipe": "libffi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12904",
+      "LastCommitSHA": "601b6e093f9789a0e83961a40c25a1166065baed",
+      "LastCommitAt": "2022-09-12T09:23:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
