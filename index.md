@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **48** pull requests currently under way :detective:
+There are **49** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -72,7 +72,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12927](https://github.com/conan-io/conan-center-index/pull/12927)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:stopwatch: aws-checksums|1|Sep 13||uilianries
 [#12928](https://github.com/conan-io/conan-center-index/pull/12928)|[toge](https://github.com/toge)|Sep 13|:stopwatch: unordered_dense|2|Sep 13||uilianries
 [#12929](https://github.com/conan-io/conan-center-index/pull/12929)|[jellespijker](https://github.com/jellespijker)|Sep 13|:stopwatch: tcl|0|||
-[#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:stopwatch: daw_header_libraries|1|Sep 13||uilianries
+[#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:stopwatch: daw_header_libraries|6|Sep 13||uilianries
+[#12932](https://github.com/conan-io/conan-center-index/pull/12932)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:stopwatch: aws-c-cal|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -104,9 +105,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 237
-	- Draft: 28
-	- Average Age: 63 days, 3 hours, and 45.37 minutes
+	- Open: 239
+	- Draft: 29
+	- Average Age: 62 days, 16 hours, and 7.21 minutes
 	- Stop Label: 114
 	
 
