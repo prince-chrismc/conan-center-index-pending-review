@@ -64,7 +64,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:stopwatch: antlr4-cppruntime|0|||
 [#12904](https://github.com/conan-io/conan-center-index/pull/12904)|[jellespijker](https://github.com/jellespijker)|Sep 12|:stopwatch: libffi|0|||
 [#12906](https://github.com/conan-io/conan-center-index/pull/12906)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 12|:stopwatch: qt|0|||
-[#12910](https://github.com/conan-io/conan-center-index/pull/12910)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 12|:stopwatch: vulkan-validationlayers|0|||
 [#12913](https://github.com/conan-io/conan-center-index/pull/12913)|[uilianries](https://github.com/uilianries)|Sep 12|:green_book: docs|2|Sep 12||jgsogo
 [#12915](https://github.com/conan-io/conan-center-index/pull/12915)|[sfackler](https://github.com/sfackler)|Sep 12|:stopwatch: patchelf|0|||
 [#12917](https://github.com/conan-io/conan-center-index/pull/12917)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: voropp|0|||
@@ -72,6 +71,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12920](https://github.com/conan-io/conan-center-index/pull/12920)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: wslay|0|||
 [#12921](https://github.com/conan-io/conan-center-index/pull/12921)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: fast-cdr|0|||
 [#12922](https://github.com/conan-io/conan-center-index/pull/12922)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: gemmlowp|0|||
+[#12924](https://github.com/conan-io/conan-center-index/pull/12924)|[bog-dan-ro](https://github.com/bog-dan-ro)|Sep 13|:stopwatch: tinyspline|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -100,9 +100,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 230
+	- Open: 231
 	- Draft: 28
-	- Average Age: 64 days, 15 hours, and 32.36 minutes
+	- Average Age: 64 days, 10 hours, and 13.50 minutes
 	- Stop Label: 114
 	
 
