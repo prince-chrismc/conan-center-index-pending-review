@@ -324,19 +324,20 @@
       "LastCommitAt": "2022-08-19T09:58:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "danimtb"
          ],
          "Blockers": [
             "jgsogo"
          ],
          "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-08-26T07:47:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12383#pullrequestreview-1086551798"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-09-13T10:14:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12383#pullrequestreview-1105516568"
          }
       }
    },
@@ -372,8 +373,8 @@
       "Recipe": "cpython",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12470",
-      "LastCommitSHA": "dade5a057879ac2091ef6a0f9abca3a82d6cb091",
-      "LastCommitAt": "2022-09-09T13:49:38Z",
+      "LastCommitSHA": "3117d9630dc9e83b9c1954e7715740fa3b148b36",
+      "LastCommitAt": "2022-09-13T09:53:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -1314,8 +1315,8 @@
       "Recipe": "parson",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12925",
-      "LastCommitSHA": "c98b958918ca2b2c9590ef7ec3179a40d4656d1d",
-      "LastCommitAt": "2022-09-13T08:47:39Z",
+      "LastCommitSHA": "48f4eec56117efaf3d87fd1b2d23a429ce5acd46",
+      "LastCommitAt": "2022-09-13T09:23:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
