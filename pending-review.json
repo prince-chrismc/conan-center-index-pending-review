@@ -1428,7 +1428,7 @@
       "LastCommitAt": "2022-09-13T15:06:49Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 6,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -1436,10 +1436,28 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-13T15:19:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12930#pullrequestreview-1106007532"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-09-13T16:55:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12930#pullrequestreview-1106152135"
          }
+      }
+   },
+   {
+      "Number": 12932,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-13T16:47:59Z",
+      "Recipe": "aws-c-cal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12932",
+      "LastCommitSHA": "9ab5c7929ba118b177cf9770f71314286c432427",
+      "LastCommitAt": "2022-09-13T16:45:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
