@@ -1045,8 +1045,8 @@
       "Recipe": "antlr4-cppruntime",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12902",
-      "LastCommitSHA": "5770555be87ac7386c228fad7a54af9806a9a388",
-      "LastCommitAt": "2022-09-12T06:42:41Z",
+      "LastCommitSHA": "a73153d1d80e42132db0aedbba3117c5e35af944",
+      "LastCommitAt": "2022-09-13T03:53:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
