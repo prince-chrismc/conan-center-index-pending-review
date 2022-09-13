@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **56** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,11 +45,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12725](https://github.com/conan-io/conan-center-index/pull/12725)|[paulocoutinhox](https://github.com/paulocoutinhox)|Aug 31|:stopwatch: drogon|0|:eyes:||
 [#12735](https://github.com/conan-io/conan-center-index/pull/12735)|[JorgenPo](https://github.com/JorgenPo)|Aug 31|:stopwatch: jwt-cpp|3|Sep 6||
 [#12753](https://github.com/conan-io/conan-center-index/pull/12753)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: influxdb-cpp|2|Sep 2|uilianries|intelligide
-[#12764](https://github.com/conan-io/conan-center-index/pull/12764)|[ivmai](https://github.com/ivmai)|Sep 1|:stopwatch: bdwgc|3|Sep 1||
+[#12764](https://github.com/conan-io/conan-center-index/pull/12764)|[ivmai](https://github.com/ivmai)|Sep 1|:stopwatch: bdwgc|3|Sep 1 :bell:||
 [#12846](https://github.com/conan-io/conan-center-index/pull/12846)|[Tradias](https://github.com/Tradias)|Sep 6|:memo: asio-grpc|1|Sep 9||
-[#12847](https://github.com/conan-io/conan-center-index/pull/12847)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 6|:stopwatch: fmt|9|Sep 9||uilianries, jwillikers
+[#12847](https://github.com/conan-io/conan-center-index/pull/12847)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 6|:stopwatch: fmt|10|Sep 13||uilianries, jwillikers
 [#12855](https://github.com/conan-io/conan-center-index/pull/12855)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: coin-cgl|2|Sep 12||jwillikers, jgsogo
-[#12868](https://github.com/conan-io/conan-center-index/pull/12868)|[SpaceIm](https://github.com/SpaceIm)|Sep 8|:stopwatch: poco|2|Sep 9||jwillikers, prince-chrismc
 [#12876](https://github.com/conan-io/conan-center-index/pull/12876)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 8|:stopwatch: ms-gsl|2|Sep 9||uilianries, jwillikers
 [#12892](https://github.com/conan-io/conan-center-index/pull/12892)|[jellespijker](https://github.com/jellespijker)|Sep 10|:stopwatch: m4|4|Sep 13||jwillikers
 [#12893](https://github.com/conan-io/conan-center-index/pull/12893)|[dotChris90](https://github.com/dotChris90)|Sep 10|:stopwatch: cyclonedds|0|||
@@ -77,9 +76,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:stopwatch: daw_header_libraries|6|Sep 13||uilianries
 [#12932](https://github.com/conan-io/conan-center-index/pull/12932)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:stopwatch: aws-c-cal|0|||
 [#12933](https://github.com/conan-io/conan-center-index/pull/12933)|[jellespijker](https://github.com/jellespijker)|Sep 13|:stopwatch: tk|0|||
-[#12934](https://github.com/conan-io/conan-center-index/pull/12934)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 13|:stopwatch: docs|1|Sep 13||SSE4
+[#12934](https://github.com/conan-io/conan-center-index/pull/12934)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 13|:green_book: docs|1|Sep 13||SSE4
 [#12936](https://github.com/conan-io/conan-center-index/pull/12936)|[talyz](https://github.com/talyz)|Sep 13|:stopwatch: xnnpack|0|||
-[#12937](https://github.com/conan-io/conan-center-index/pull/12937)|[talyz](https://github.com/talyz)|Sep 13|:stopwatch: flatbuffers|0|||
 [#12938](https://github.com/conan-io/conan-center-index/pull/12938)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:stopwatch: capnproto|0|||
 
 
@@ -112,10 +110,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 245
-	- Draft: 29
-	- Average Age: 61 days, 7 hours, and 3.49 minutes
-	- Stop Label: 113
+	- Open: 247
+	- Draft: 31
+	- Average Age: 60 days, 20 hours, and 11.17 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
