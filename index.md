@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **50** pull requests currently under way :detective:
+There are **52** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -75,6 +75,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:stopwatch: daw_header_libraries|6|Sep 13||uilianries
 [#12932](https://github.com/conan-io/conan-center-index/pull/12932)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:stopwatch: aws-c-cal|0|||
 [#12933](https://github.com/conan-io/conan-center-index/pull/12933)|[jellespijker](https://github.com/jellespijker)|Sep 13|:stopwatch: tk|0|||
+[#12934](https://github.com/conan-io/conan-center-index/pull/12934)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 13|:stopwatch: docs|1|Sep 13||SSE4
+[#12935](https://github.com/conan-io/conan-center-index/pull/12935)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 13|:stopwatch: rapidjson|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -106,9 +108,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 240
+	- Open: 242
 	- Draft: 29
-	- Average Age: 62 days, 10 hours, and 46.10 minutes
+	- Average Age: 61 days, 23 hours, and 16.81 minutes
 	- Stop Label: 114
 	
 
