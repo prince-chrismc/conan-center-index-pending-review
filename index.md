@@ -66,12 +66,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12906](https://github.com/conan-io/conan-center-index/pull/12906)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 12|:stopwatch: qt|0|||
 [#12913](https://github.com/conan-io/conan-center-index/pull/12913)|[uilianries](https://github.com/uilianries)|Sep 12|:green_book: docs|2|Sep 12||jgsogo
 [#12915](https://github.com/conan-io/conan-center-index/pull/12915)|[sfackler](https://github.com/sfackler)|Sep 12|:stopwatch: patchelf|0|||
-[#12917](https://github.com/conan-io/conan-center-index/pull/12917)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: voropp|0|||
+[#12917](https://github.com/conan-io/conan-center-index/pull/12917)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: voropp|1|Sep 13||uilianries
 [#12918](https://github.com/conan-io/conan-center-index/pull/12918)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: ninja|0|||
 [#12920](https://github.com/conan-io/conan-center-index/pull/12920)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: wslay|0|||
 [#12921](https://github.com/conan-io/conan-center-index/pull/12921)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: fast-cdr|0|||
 [#12922](https://github.com/conan-io/conan-center-index/pull/12922)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:stopwatch: gemmlowp|0|||
-[#12924](https://github.com/conan-io/conan-center-index/pull/12924)|[bog-dan-ro](https://github.com/bog-dan-ro)|Sep 13|:stopwatch: tinyspline|0|||
+[#12925](https://github.com/conan-io/conan-center-index/pull/12925)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:stopwatch: parson|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -100,9 +100,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c191e986cba472ae64e4dc499aab325d36315d09
 - Pull Requests:
-	- Open: 231
+	- Open: 232
 	- Draft: 28
-	- Average Age: 64 days, 10 hours, and 13.50 minutes
+	- Average Age: 64 days, 5 hours, and 15.98 minutes
 	- Stop Label: 114
 	
 
