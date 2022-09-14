@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **49** pull requests currently under way :detective:
+There are **46** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -29,9 +29,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|18|Sep 13||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#11904](https://github.com/conan-io/conan-center-index/pull/11904)|[uilianries](https://github.com/uilianries)|Jul 25|:stopwatch: luajit|3|Sep 12||
-[#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:stopwatch: hazelcast-cpp-client|1|Aug 15 :bell:||
+[#11993](https://github.com/conan-io/conan-center-index/pull/11993)|[toge](https://github.com/toge)|Aug 1|:memo: hazelcast-cpp-client|1|Aug 15 :bell:||
 [#12003](https://github.com/conan-io/conan-center-index/pull/12003)|[YaZasnyal](https://github.com/YaZasnyal)|Aug 1|:memo: opencore-amr|0|||
-[#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:stopwatch: dacap-clip|6|Sep 14||
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:new: libxls|1|Aug 12 :bell:||
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:stopwatch: diligent-core|4|Aug 26 :bell:||
 [#12281](https://github.com/conan-io/conan-center-index/pull/12281)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|7|Sep 13|jgsogo|SSE4
@@ -47,8 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12816](https://github.com/conan-io/conan-center-index/pull/12816)|[MartinDelille](https://github.com/MartinDelille)|Sep 4|:new: bandit|4|Sep 12||
 [#12846](https://github.com/conan-io/conan-center-index/pull/12846)|[Tradias](https://github.com/Tradias)|Sep 6|:memo: asio-grpc|2|Sep 14||uilianries
 [#12847](https://github.com/conan-io/conan-center-index/pull/12847)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 6|:memo: fmt|11|Sep 14||uilianries, jwillikers
-[#12855](https://github.com/conan-io/conan-center-index/pull/12855)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:memo: coin-cgl|2|Sep 12||jwillikers, jgsogo
-[#12868](https://github.com/conan-io/conan-center-index/pull/12868)|[SpaceIm](https://github.com/SpaceIm)|Sep 8|:stopwatch: poco|2|Sep 9||
+[#12868](https://github.com/conan-io/conan-center-index/pull/12868)|[SpaceIm](https://github.com/SpaceIm)|Sep 8|:stopwatch: poco|3|Sep 14||jwillikers
 [#12876](https://github.com/conan-io/conan-center-index/pull/12876)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 8|:memo: ms-gsl|2|Sep 9||uilianries, jwillikers
 [#12892](https://github.com/conan-io/conan-center-index/pull/12892)|[jellespijker](https://github.com/jellespijker)|Sep 10|:stopwatch: m4|4|Sep 13||
 [#12894](https://github.com/conan-io/conan-center-index/pull/12894)|[SpaceIm](https://github.com/SpaceIm)|Sep 10|:memo: magic_enum|1|Sep 12||uilianries
@@ -56,11 +54,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|0|||
 [#12899](https://github.com/conan-io/conan-center-index/pull/12899)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: npcap|1|Sep 12||
 [#12900](https://github.com/conan-io/conan-center-index/pull/12900)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: pcapplusplus|1|Sep 12||
-[#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:stopwatch: antlr4-cppruntime|0|||
-[#12904](https://github.com/conan-io/conan-center-index/pull/12904)|[jellespijker](https://github.com/jellespijker)|Sep 12|:stopwatch: libffi|0|||
+[#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|||
 [#12910](https://github.com/conan-io/conan-center-index/pull/12910)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 12|:stopwatch: vulkan-validationlayers|1|Sep 13||
 [#12913](https://github.com/conan-io/conan-center-index/pull/12913)|[uilianries](https://github.com/uilianries)|Sep 12|:green_book: docs|6|Sep 13||SSE4, jellespijker
-[#12915](https://github.com/conan-io/conan-center-index/pull/12915)|[sfackler](https://github.com/sfackler)|Sep 12|:stopwatch: patchelf|2|Sep 13||
 [#12917](https://github.com/conan-io/conan-center-index/pull/12917)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:memo: voropp|1|Sep 13||uilianries
 [#12918](https://github.com/conan-io/conan-center-index/pull/12918)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:memo: ninja|3|Sep 14||jwillikers, jellespijker, uilianries
 [#12920](https://github.com/conan-io/conan-center-index/pull/12920)|[SpaceIm](https://github.com/SpaceIm)|Sep 12|:memo: wslay|0|||
@@ -69,6 +65,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12925](https://github.com/conan-io/conan-center-index/pull/12925)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:new: parson|1|Sep 13||uilianries
 [#12926](https://github.com/conan-io/conan-center-index/pull/12926)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:memo: aws-c-compression|0|||
 [#12927](https://github.com/conan-io/conan-center-index/pull/12927)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:memo: aws-checksums|1|Sep 13||uilianries
+[#12929](https://github.com/conan-io/conan-center-index/pull/12929)|[jellespijker](https://github.com/jellespijker)|Sep 13|:stopwatch: tcl|0|||
 [#12932](https://github.com/conan-io/conan-center-index/pull/12932)|[SpaceIm](https://github.com/SpaceIm)|Sep 13|:memo: aws-c-cal|1|Sep 14||uilianries
 [#12936](https://github.com/conan-io/conan-center-index/pull/12936)|[talyz](https://github.com/talyz)|Sep 13|:memo: xnnpack|0|||
 [#12937](https://github.com/conan-io/conan-center-index/pull/12937)|[talyz](https://github.com/talyz)|Sep 13|:stopwatch: flatbuffers|0|||
@@ -78,13 +75,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
 [#12807](https://github.com/conan-io/conan-center-index/pull/12807)|[jwillikers](https://github.com/jwillikers)|Sep 3|:warning: boost|5|prince-chrismc, gegles, uilianries, jgsogo
+[#12855](https://github.com/conan-io/conan-center-index/pull/12855)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:memo: coin-cgl|3|jwillikers, jgsogo, uilianries
 [#12870](https://github.com/conan-io/conan-center-index/pull/12870)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 8|:gear: .c3i|2|uilianries, jgsogo
 [#12878](https://github.com/conan-io/conan-center-index/pull/12878)|[uilianries](https://github.com/uilianries)|Sep 9|:green_book: docs|5|jgsogo, jwillikers, SSE4, prince-chrismc
 [#12882](https://github.com/conan-io/conan-center-index/pull/12882)|[jwillikers](https://github.com/jwillikers)|Sep 9|:memo: xkbcommon|3|SpaceIm, toge, jgsogo
@@ -101,8 +99,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 244
 	- Draft: 30
-	- Average Age: 61 days, 17 hours, and 3.45 minutes
-	- Stop Label: 128
+	- Average Age: 61 days, 18 hours, and 18.43 minutes
+	- Stop Label: 130
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
