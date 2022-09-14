@@ -502,29 +502,6 @@
       }
    },
    {
-      "Number": 12764,
-      "OpenedBy": "ivmai",
-      "CreatedAt": "2022-09-01T10:23:31Z",
-      "Recipe": "bdwgc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12764",
-      "LastCommitSHA": "3842c2733a98b3a361ec5ea4ff8d8b40e07cc1a4",
-      "LastCommitAt": "2022-09-12T09:15:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-09-01T21:28:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12764#pullrequestreview-1094083169"
-         }
-      }
-   },
-   {
       "Number": 12795,
       "OpenedBy": "AlexRamallo",
       "CreatedAt": "2022-09-02T13:41:15Z",
@@ -787,33 +764,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2022-09-13T15:57:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12878#pullrequestreview-1106069743"
-         }
-      }
-   },
-   {
-      "Number": 12879,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-09-09T08:36:05Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12879",
-      "LastCommitSHA": "1ee11b265e0be213d564ea106a4bde8ad378d339",
-      "LastCommitAt": "2022-09-09T08:35:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc",
-            "jgsogo"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jgsogo",
-            "SubmittedAt": "2022-09-12T08:37:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12879#pullrequestreview-1103694121"
          }
       }
    },
@@ -1433,8 +1383,8 @@
       "Recipe": "sail",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12942",
-      "LastCommitSHA": "24c678db6fc482c62f70ce19e48b32aa7d5b8b76",
-      "LastCommitAt": "2022-09-14T01:17:05Z",
+      "LastCommitSHA": "c51ac7415f643c0d10326401a4e6157da352f34f",
+      "LastCommitAt": "2022-09-14T01:33:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
