@@ -609,5 +609,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12966,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-15T20:24:31Z",
+      "Recipe": "spirv-cross",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12966",
+      "LastCommitSHA": "e43f43e1dd664ee65d71268cb24d61a4419b2f46",
+      "LastCommitAt": "2022-09-15T20:23:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
