@@ -604,5 +604,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12968,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-15T22:28:49Z",
+      "Recipe": "vulkan-validationlayers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12968",
+      "LastCommitSHA": "6bba0ebc8116c3fefbc002b9884a3223dafeef9c",
+      "LastCommitAt": "2022-09-15T22:27:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
