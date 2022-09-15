@@ -110,29 +110,6 @@
       }
    },
    {
-      "Number": 12255,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-08-16T10:40:43Z",
-      "Recipe": "diligent-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12255",
-      "LastCommitSHA": "1ca6e68435f77512a9c56b311b6f0eaf80a2de46",
-      "LastCommitAt": "2022-09-15T13:42:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-08-26T12:43:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12255#pullrequestreview-1086900652"
-         }
-      }
-   },
-   {
       "Number": 12281,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-08-16T21:18:24Z",
@@ -305,29 +282,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2022-09-14T18:43:37Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12847#pullrequestreview-1108034376"
-         }
-      }
-   },
-   {
-      "Number": 12881,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-09-09T10:08:45Z",
-      "Recipe": "mold",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12881",
-      "LastCommitSHA": "e36a0edf3c6049676254197fee3bdd9c8624452b",
-      "LastCommitAt": "2022-09-15T13:45:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-09-15T13:00:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12881#pullrequestreview-1109148711"
          }
       }
    },
