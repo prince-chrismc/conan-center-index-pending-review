@@ -59,13 +59,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
-[#12945](https://github.com/conan-io/conan-center-index/pull/12945)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|2|jgsogo, SSE4
 
 
 #### :clipboard: Statistics
@@ -74,9 +73,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 218
+	- Open: 216
 	- Draft: 31
-	- Average Age: 68 days, 19 hours, and 12.61 minutes
+	- Average Age: 69 days, 11 hours, and 54.00 minutes
 	- Stop Label: 130
 	
 
