@@ -55,7 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12968](https://github.com/conan-io/conan-center-index/pull/12968)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: vulkan-validationlayers|1|Sep 16||uilianries
 [#12973](https://github.com/conan-io/conan-center-index/pull/12973)|[uilianries](https://github.com/uilianries)|Sep 16|:gear: .github|0|||
 [#12976](https://github.com/conan-io/conan-center-index/pull/12976)|[sproberts92](https://github.com/sproberts92)|Sep 16|:stopwatch: opentelemetry-cpp|0|||
-[#12977](https://github.com/conan-io/conan-center-index/pull/12977)|[toge](https://github.com/toge)|Sep 16|:stopwatch: md4c|0|||
+[#12977](https://github.com/conan-io/conan-center-index/pull/12977)|[toge](https://github.com/toge)|Sep 16|:memo: md4c|0|||
 [#12979](https://github.com/conan-io/conan-center-index/pull/12979)|[datalogics-saharay](https://github.com/datalogics-saharay)|Sep 16|:stopwatch: libpng|0|||
 
 
@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 214
 	- Draft: 29
-	- Average Age: 70 days, 16 hours, and 28.59 minutes
+	- Average Age: 70 days, 17 hours, and 25.48 minutes
 	- Stop Label: 129
 	
 
