@@ -21,15 +21,14 @@
 
 ### :nerd_face: Please Review! 
 
-There are **34** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#11913](https://github.com/conan-io/conan-center-index/pull/11913)|[leha-bot](https://github.com/leha-bot)|Jul 25|:stopwatch: mdspan|0|||
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|7|Sep 16||uilianries
-[#12195](https://github.com/conan-io/conan-center-index/pull/12195)|[robomics](https://github.com/robomics)|Aug 13|:stopwatch: libbigwig|2|Sep 16||
+[#12195](https://github.com/conan-io/conan-center-index/pull/12195)|[robomics](https://github.com/robomics)|Aug 13|:new: libbigwig|2|Sep 16||
 [#12281](https://github.com/conan-io/conan-center-index/pull/12281)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|13|Sep 14|jgsogo|
 [#12425](https://github.com/conan-io/conan-center-index/pull/12425)|[toge](https://github.com/toge)|Aug 21|:new: imutils-cpp|5|Sep 16||uilianries
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|9|Sep 9||prince-chrismc
@@ -79,8 +78,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 214
 	- Draft: 29
-	- Average Age: 70 days, 18 hours, and 29.39 minutes
-	- Stop Label: 127
+	- Average Age: 70 days, 19 hours, and 28.29 minutes
+	- Stop Label: 128
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
