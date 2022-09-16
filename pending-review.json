@@ -156,6 +156,29 @@
       }
    },
    {
+      "Number": 12425,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-08-21T13:55:37Z",
+      "Recipe": "imutils-cpp",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12425",
+      "LastCommitSHA": "b6315880309363b2ca0af239476b5cd0b275563b",
+      "LastCommitAt": "2022-09-16T00:50:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-09-09T13:43:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12425#pullrequestreview-1102342158"
+         }
+      }
+   },
+   {
       "Number": 12563,
       "OpenedBy": "ggulgulia",
       "CreatedAt": "2022-08-25T11:16:40Z",
@@ -596,7 +619,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12967",
       "LastCommitSHA": "ee47d403b91c041038a9b87345fe627e705f7ae1",
       "LastCommitAt": "2022-09-15T21:25:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
