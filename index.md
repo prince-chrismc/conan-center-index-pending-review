@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12951](https://github.com/conan-io/conan-center-index/pull/12951)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 14|:memo: coin-cbc|1|Sep 15||uilianries
 [#12952](https://github.com/conan-io/conan-center-index/pull/12952)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:memo: wayland|0|||
 [#12961](https://github.com/conan-io/conan-center-index/pull/12961)|[lkotsonis](https://github.com/lkotsonis)|Sep 15|:stopwatch: libigl|0|||
-[#12963](https://github.com/conan-io/conan-center-index/pull/12963)|[uilianries](https://github.com/uilianries)|Sep 15|:green_book: docs|2|Sep 15||
+[#12963](https://github.com/conan-io/conan-center-index/pull/12963)|[uilianries](https://github.com/uilianries)|Sep 15|:green_book: docs|3|Sep 16||prince-chrismc
 [#12964](https://github.com/conan-io/conan-center-index/pull/12964)|[toge](https://github.com/toge)|Sep 15|:new: eternal|0|||
 [#12965](https://github.com/conan-io/conan-center-index/pull/12965)|[uilianries](https://github.com/uilianries)|Sep 15|:green_book: docs|0|||
 [#12966](https://github.com/conan-io/conan-center-index/pull/12966)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:stopwatch: spirv-cross|0|||
@@ -73,7 +73,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 213
 	- Draft: 31
-	- Average Age: 70 days, 14 hours, and 12.25 minutes
+	- Average Age: 70 days, 14 hours, and 40.62 minutes
 	- Stop Label: 130
 	
 
