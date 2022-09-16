@@ -122,15 +122,17 @@
       "LastCommitAt": "2022-09-16T00:50:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-09T13:43:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12425#pullrequestreview-1102342158"
+            "SubmittedAt": "2022-09-16T15:27:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12425#pullrequestreview-1110867956"
          }
       }
    },
@@ -255,6 +257,29 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2022-09-13T12:38:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12892#pullrequestreview-1105716191"
+         }
+      }
+   },
+   {
+      "Number": 12893,
+      "OpenedBy": "dotChris90",
+      "CreatedAt": "2022-09-10T18:01:23Z",
+      "Recipe": "cyclonedds",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12893",
+      "LastCommitSHA": "22078a90c749044723c83495e444d3a8c0d53e5f",
+      "LastCommitAt": "2022-09-16T16:22:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-09-16T16:07:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12893#pullrequestreview-1110917540"
          }
       }
    },
@@ -596,11 +621,18 @@
       "LastCommitAt": "2022-09-15T20:23:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-09-16T15:27:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12966#pullrequestreview-1110868928"
+         }
       }
    },
    {
@@ -639,11 +671,18 @@
       "LastCommitAt": "2022-09-15T22:27:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-09-16T15:47:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12968#pullrequestreview-1110894051"
+         }
       }
    },
    {
@@ -689,8 +728,8 @@
       "Recipe": "opentelemetry-cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12976",
-      "LastCommitSHA": "9898ce6772d2ceb62ca7dd36abd78edc331c9bbf",
-      "LastCommitAt": "2022-09-16T14:25:06Z",
+      "LastCommitSHA": "7ed916790b158e5bc7e152f16b0edf2f28b9c53b",
+      "LastCommitAt": "2022-09-16T15:31:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -707,8 +746,8 @@
       "Recipe": "md4c",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12977",
-      "LastCommitSHA": "50ace413a050f5154c413063af5a6be1a85b5d81",
-      "LastCommitAt": "2022-09-16T15:11:28Z",
+      "LastCommitSHA": "ab58db8261dbaf9a0a8bc53e9d027e9a6f831db7",
+      "LastCommitAt": "2022-09-16T16:18:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
