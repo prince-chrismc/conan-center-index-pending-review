@@ -443,31 +443,6 @@
       }
    },
    {
-      "Number": 12951,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-09-14T19:12:57Z",
-      "Recipe": "coin-cbc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12951",
-      "LastCommitSHA": "96bb2f3712b9510af3b54498c4c08e2b4bb71cd6",
-      "LastCommitAt": "2022-09-14T19:16:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-15T15:56:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12951#pullrequestreview-1109463073"
-         }
-      }
-   },
-   {
       "Number": 12952,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-09-14T20:01:37Z",
@@ -499,18 +474,14 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12955",
-      "LastCommitSHA": "423738c6d004d19128248966fc338bf051c7452d",
-      "LastCommitAt": "2022-09-15T05:05:45Z",
+      "LastCommitSHA": "244be76f6897fa3b0bd1aff8cbbe8189b5ce1e32",
+      "LastCommitAt": "2022-09-16T17:27:14Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jgsogo",
-            "SSE4",
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -748,6 +719,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12977",
       "LastCommitSHA": "ab58db8261dbaf9a0a8bc53e9d027e9a6f831db7",
       "LastCommitAt": "2022-09-16T16:18:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12979,
+      "OpenedBy": "datalogics-saharay",
+      "CreatedAt": "2022-09-16T16:44:30Z",
+      "Recipe": "libpng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12979",
+      "LastCommitSHA": "b8a116b5149837cc91a514257276d5f83edddd7d",
+      "LastCommitAt": "2022-09-16T16:26:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
