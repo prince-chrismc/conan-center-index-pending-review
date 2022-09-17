@@ -877,5 +877,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 12985,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-09-17T13:54:17Z",
+      "Recipe": "bzip3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12985",
+      "LastCommitSHA": "3868f28588358cb5347ee62811fe0199a1c02329",
+      "LastCommitAt": "2022-09-17T13:19:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 12986,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2022-09-17T14:10:35Z",
+      "Recipe": "bitflags",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12986",
+      "LastCommitSHA": "8a11e9643400abd7af1c0bf39f6cbc9784276055",
+      "LastCommitAt": "2022-09-17T14:03:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
