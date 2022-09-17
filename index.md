@@ -62,9 +62,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12977](https://github.com/conan-io/conan-center-index/pull/12977)|[toge](https://github.com/toge)|Sep 16|:memo: md4c|0|||
 [#12979](https://github.com/conan-io/conan-center-index/pull/12979)|[datalogics-saharay](https://github.com/datalogics-saharay)|Sep 16|:stopwatch: libpng|0|||
 [#12980](https://github.com/conan-io/conan-center-index/pull/12980)|[toge](https://github.com/toge)|Sep 17|:memo: itlib|0|||
-[#12983](https://github.com/conan-io/conan-center-index/pull/12983)|[toge](https://github.com/toge)|Sep 17|:stopwatch: zfp|0|||
-[#12985](https://github.com/conan-io/conan-center-index/pull/12985)|[toge](https://github.com/toge)|Sep 17|:stopwatch: bzip3|0|||
-[#12986](https://github.com/conan-io/conan-center-index/pull/12986)|[robomics](https://github.com/robomics)|Sep 17|:stopwatch: bitflags|0|||
+[#12983](https://github.com/conan-io/conan-center-index/pull/12983)|[toge](https://github.com/toge)|Sep 17|:memo: zfp|0|||
+[#12985](https://github.com/conan-io/conan-center-index/pull/12985)|[toge](https://github.com/toge)|Sep 17|:memo: bzip3|0|||
+[#12986](https://github.com/conan-io/conan-center-index/pull/12986)|[robomics](https://github.com/robomics)|Sep 17|:new: bitflags|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 203
 	- Draft: 25
-	- Average Age: 67 days, 17 hours, and 42.13 minutes
+	- Average Age: 67 days, 18 hours, and 44.36 minutes
 	- Stop Label: 115
 	
 
