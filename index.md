@@ -35,11 +35,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|9|Sep 9||prince-chrismc
 [#12656](https://github.com/conan-io/conan-center-index/pull/12656)|[scandyna](https://github.com/scandyna)|Aug 28|:stopwatch: qt|4|Sep 14||prince-chrismc
 [#12753](https://github.com/conan-io/conan-center-index/pull/12753)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: influxdb-cpp|3|Sep 14|uilianries|intelligide, danimtb
-[#12764](https://github.com/conan-io/conan-center-index/pull/12764)|[ivmai](https://github.com/ivmai)|Sep 1|:stopwatch: bdwgc|3|Sep 1 :bell:||
+[#12764](https://github.com/conan-io/conan-center-index/pull/12764)|[ivmai](https://github.com/ivmai)|Sep 1|:memo: bdwgc|3|Sep 1 :bell:||
 [#12845](https://github.com/conan-io/conan-center-index/pull/12845)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Sep 6|:memo: qwt|14|Sep 16||ericLemanissier
 [#12879](https://github.com/conan-io/conan-center-index/pull/12879)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 9|:memo: qt|3|Sep 12||
 [#12889](https://github.com/conan-io/conan-center-index/pull/12889)|[GIGte](https://github.com/GIGte)|Sep 9|:memo: cryptopp|4|Sep 16||
-[#12893](https://github.com/conan-io/conan-center-index/pull/12893)|[dotChris90](https://github.com/dotChris90)|Sep 10|:stopwatch: cyclonedds|1|Sep 16||
+[#12893](https://github.com/conan-io/conan-center-index/pull/12893)|[dotChris90](https://github.com/dotChris90)|Sep 10|:new: cyclonedds|1|Sep 16||
 [#12899](https://github.com/conan-io/conan-center-index/pull/12899)|[kayoub5](https://github.com/kayoub5)|Sep 11|:new: npcap|1|Sep 12||
 [#12900](https://github.com/conan-io/conan-center-index/pull/12900)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: pcapplusplus|1|Sep 12||
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|:eyes:||
@@ -82,7 +82,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 200
 	- Draft: 25
-	- Average Age: 68 days, 13 hours, and 5.75 minutes
+	- Average Age: 68 days, 14 hours, and 7.07 minutes
 	- Stop Label: 115
 	
 
