@@ -54,31 +54,6 @@
       }
    },
    {
-      "Number": 12034,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-08-03T17:46:34Z",
-      "Recipe": "dacap-clip",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12034",
-      "LastCommitSHA": "d3496b1557b14581bc2b40810d8c716b04801023",
-      "LastCommitAt": "2022-09-15T16:10:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-16T15:12:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12034#pullrequestreview-1110848803"
-         }
-      }
-   },
-   {
       "Number": 12074,
       "OpenedBy": "jcar87",
       "CreatedAt": "2022-08-05T15:04:18Z",
@@ -291,15 +266,17 @@
       "LastCommitAt": "2022-09-17T08:43:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-09-01T21:28:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12764#pullrequestreview-1094083169"
+            "SubmittedAt": "2022-09-17T21:07:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12764#pullrequestreview-1111470480"
          }
       }
    },
