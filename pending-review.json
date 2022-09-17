@@ -262,8 +262,8 @@
       "Recipe": "bdwgc",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12764",
-      "LastCommitSHA": "60303cac2bccda54cf1a0deb70d41ceceef3dd12",
-      "LastCommitAt": "2022-09-16T18:27:24Z",
+      "LastCommitSHA": "e0ad8fb5e8ebeaa4d4c11d97bfae8d6368a42ec6",
+      "LastCommitAt": "2022-09-17T08:43:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
@@ -356,9 +356,9 @@
       "Recipe": "cyclonedds",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12893",
-      "LastCommitSHA": "fa3a82ea0577b2d6cee844c7c1926146c7f331a2",
-      "LastCommitAt": "2022-09-16T18:11:22Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "b407d0f1d1f8657e5d4a54b07b871c79a1e1ba54",
+      "LastCommitAt": "2022-09-17T08:51:04Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -851,7 +851,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12980",
       "LastCommitSHA": "e8b5ba504c9e33e3416ebeeb62221b7a42651b5a",
       "LastCommitAt": "2022-09-16T17:18:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
