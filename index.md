@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -31,6 +31,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12034](https://github.com/conan-io/conan-center-index/pull/12034)|[toge](https://github.com/toge)|Aug 3|:new: dacap-clip|7|Sep 16||uilianries
 [#12195](https://github.com/conan-io/conan-center-index/pull/12195)|[robomics](https://github.com/robomics)|Aug 13|:new: libbigwig|2|Sep 16||
 [#12281](https://github.com/conan-io/conan-center-index/pull/12281)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|13|Sep 14|jgsogo|
+[#12390](https://github.com/conan-io/conan-center-index/pull/12390)|[talyz](https://github.com/talyz)|Aug 19|:stopwatch: tensorflow-lite|3|Sep 9||
 [#12425](https://github.com/conan-io/conan-center-index/pull/12425)|[toge](https://github.com/toge)|Aug 21|:new: imutils-cpp|5|Sep 16||uilianries
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|9|Sep 9||prince-chrismc
 [#12656](https://github.com/conan-io/conan-center-index/pull/12656)|[scandyna](https://github.com/scandyna)|Aug 28|:stopwatch: qt|4|Sep 14||prince-chrismc
@@ -57,6 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12966](https://github.com/conan-io/conan-center-index/pull/12966)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: spirv-cross|1|Sep 16||uilianries
 [#12967](https://github.com/conan-io/conan-center-index/pull/12967)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: glslang|1|Sep 16||uilianries
 [#12968](https://github.com/conan-io/conan-center-index/pull/12968)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: vulkan-validationlayers|1|Sep 16||uilianries
+[#12971](https://github.com/conan-io/conan-center-index/pull/12971)|[toge](https://github.com/toge)|Sep 16|:stopwatch: xsimd|0|||
 [#12973](https://github.com/conan-io/conan-center-index/pull/12973)|[uilianries](https://github.com/uilianries)|Sep 16|:gear: .github|0|||
 [#12976](https://github.com/conan-io/conan-center-index/pull/12976)|[sproberts92](https://github.com/sproberts92)|Sep 16|:stopwatch: opentelemetry-cpp|0|||
 [#12977](https://github.com/conan-io/conan-center-index/pull/12977)|[toge](https://github.com/toge)|Sep 16|:memo: md4c|0|||
@@ -82,8 +84,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 200
 	- Draft: 25
-	- Average Age: 68 days, 14 hours, and 7.07 minutes
-	- Stop Label: 115
+	- Average Age: 68 days, 15 hours, and 3.73 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
