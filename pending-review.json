@@ -869,7 +869,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12983",
       "LastCommitSHA": "7bf6618eeefba7fd6e4dd1cacd92a670ac1eb879",
       "LastCommitAt": "2022-09-17T13:21:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -885,9 +885,9 @@
       "Recipe": "bzip3",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12985",
-      "LastCommitSHA": "3868f28588358cb5347ee62811fe0199a1c02329",
-      "LastCommitAt": "2022-09-17T13:19:14Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "89d9cc659aa351386d5e855cf61f65d455c7dffe",
+      "LastCommitAt": "2022-09-17T14:24:46Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -905,7 +905,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12986",
       "LastCommitSHA": "8a11e9643400abd7af1c0bf39f6cbc9784276055",
       "LastCommitAt": "2022-09-17T14:03:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
