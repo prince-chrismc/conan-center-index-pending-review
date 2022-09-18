@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **47** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,10 +36,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12656](https://github.com/conan-io/conan-center-index/pull/12656)|[scandyna](https://github.com/scandyna)|Aug 28|:stopwatch: qt|4|Sep 14||prince-chrismc
 [#12753](https://github.com/conan-io/conan-center-index/pull/12753)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: influxdb-cpp|3|Sep 14|uilianries|intelligide, danimtb
 [#12764](https://github.com/conan-io/conan-center-index/pull/12764)|[ivmai](https://github.com/ivmai)|Sep 1|:memo: bdwgc|6|Sep 17||prince-chrismc
-[#12841](https://github.com/conan-io/conan-center-index/pull/12841)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:stopwatch: openal|0|||
 [#12868](https://github.com/conan-io/conan-center-index/pull/12868)|[SpaceIm](https://github.com/SpaceIm)|Sep 8|:stopwatch: poco|4|Sep 14||
 [#12879](https://github.com/conan-io/conan-center-index/pull/12879)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 9|:memo: qt|5|Sep 18||prince-chrismc, jwillikers
-[#12889](https://github.com/conan-io/conan-center-index/pull/12889)|[GIGte](https://github.com/GIGte)|Sep 9|:memo: cryptopp|4|Sep 16||
 [#12893](https://github.com/conan-io/conan-center-index/pull/12893)|[dotChris90](https://github.com/dotChris90)|Sep 10|:new: cyclonedds|1|Sep 16||
 [#12899](https://github.com/conan-io/conan-center-index/pull/12899)|[kayoub5](https://github.com/kayoub5)|Sep 11|:new: npcap|1|Sep 12||
 [#12900](https://github.com/conan-io/conan-center-index/pull/12900)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: pcapplusplus|1|Sep 12||
@@ -93,8 +91,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 208
 	- Draft: 25
-	- Average Age: 66 days, 23 hours, and 14.63 minutes
-	- Stop Label: 112
+	- Average Age: 67 days, and 13.82 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
