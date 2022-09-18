@@ -45,7 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|:eyes:||
 [#12928](https://github.com/conan-io/conan-center-index/pull/12928)|[toge](https://github.com/toge)|Sep 13|:new: unordered_dense|5|Sep 15||uilianries
 [#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:memo: daw_header_libraries|7|Sep 15||uilianries
-[#12944](https://github.com/conan-io/conan-center-index/pull/12944)|[elazarl](https://github.com/elazarl)|Sep 14|:stopwatch: libpfm4|3|Sep 16||
+[#12944](https://github.com/conan-io/conan-center-index/pull/12944)|[elazarl](https://github.com/elazarl)|Sep 14|:new: libpfm4|3|Sep 16||
 [#12946](https://github.com/conan-io/conan-center-index/pull/12946)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|5|Sep 17||SSE4
 [#12948](https://github.com/conan-io/conan-center-index/pull/12948)|[toge](https://github.com/toge)|Sep 14|:memo: c4core|1|Sep 15||uilianries
 [#12950](https://github.com/conan-io/conan-center-index/pull/12950)|[chausner](https://github.com/chausner)|Sep 14|:memo: cpr|0|:eyes:||
@@ -67,7 +67,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12986](https://github.com/conan-io/conan-center-index/pull/12986)|[robomics](https://github.com/robomics)|Sep 17|:new: bitflags|3|Sep 17||SpaceIm, toge
 [#12987](https://github.com/conan-io/conan-center-index/pull/12987)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 17|:green_book: docs|0|||
 [#12989](https://github.com/conan-io/conan-center-index/pull/12989)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 17|:green_book: docs|0|||
-[#12996](https://github.com/conan-io/conan-center-index/pull/12996)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 18|:stopwatch: glib|0|||
+[#12996](https://github.com/conan-io/conan-center-index/pull/12996)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 18|:memo: glib|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,10 +87,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 207
+	- Open: 208
 	- Draft: 25
-	- Average Age: 67 days, 1 hours, and 52.23 minutes
-	- Stop Label: 115
+	- Average Age: 66 days, 19 hours, and 23.71 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
