@@ -979,23 +979,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 12990,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-09-17T17:48:36Z",
-      "Recipe": "c-blosc2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12990",
-      "LastCommitSHA": "470e94b5b15e8559d7b66f2d8363eba33032bf1f",
-      "LastCommitAt": "2022-09-18T03:46:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
