@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,9 +38,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|:eyes:||
 [#12928](https://github.com/conan-io/conan-center-index/pull/12928)|[toge](https://github.com/toge)|Sep 13|:new: unordered_dense|5|Sep 15||uilianries
 [#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:memo: daw_header_libraries|7|Sep 15||uilianries
-[#12931](https://github.com/conan-io/conan-center-index/pull/12931)|[uilianries](https://github.com/uilianries)|Sep 13|:green_book: docs|9|Sep 18||
+[#12931](https://github.com/conan-io/conan-center-index/pull/12931)|[uilianries](https://github.com/uilianries)|Sep 13|:green_book: docs|10|Sep 19||prince-chrismc
 [#12944](https://github.com/conan-io/conan-center-index/pull/12944)|[elazarl](https://github.com/elazarl)|Sep 14|:new: libpfm4|4|Sep 19||uilianries
-[#12946](https://github.com/conan-io/conan-center-index/pull/12946)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|5|Sep 17||
+[#12946](https://github.com/conan-io/conan-center-index/pull/12946)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|6|Sep 19||prince-chrismc
 [#12948](https://github.com/conan-io/conan-center-index/pull/12948)|[toge](https://github.com/toge)|Sep 14|:memo: c4core|1|Sep 15||uilianries
 [#12950](https://github.com/conan-io/conan-center-index/pull/12950)|[chausner](https://github.com/chausner)|Sep 14|:memo: cpr|0|:eyes:||
 [#12955](https://github.com/conan-io/conan-center-index/pull/12955)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 15|:green_book: docs|6|Sep 19||uilianries
@@ -50,10 +50,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12966](https://github.com/conan-io/conan-center-index/pull/12966)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: spirv-cross|1|Sep 16||uilianries
 [#12967](https://github.com/conan-io/conan-center-index/pull/12967)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: glslang|1|Sep 16||uilianries
 [#12971](https://github.com/conan-io/conan-center-index/pull/12971)|[toge](https://github.com/toge)|Sep 16|:stopwatch: xsimd|0|||
-[#12973](https://github.com/conan-io/conan-center-index/pull/12973)|[uilianries](https://github.com/uilianries)|Sep 16|:gear: .github|2|Sep 17||
+[#12973](https://github.com/conan-io/conan-center-index/pull/12973)|[uilianries](https://github.com/uilianries)|Sep 16|:gear: .github|4|Sep 19||
 [#12976](https://github.com/conan-io/conan-center-index/pull/12976)|[sproberts92](https://github.com/sproberts92)|Sep 16|:stopwatch: opentelemetry-cpp|0|||
 [#12977](https://github.com/conan-io/conan-center-index/pull/12977)|[toge](https://github.com/toge)|Sep 16|:memo: md4c|1|Sep 19||uilianries
-[#12979](https://github.com/conan-io/conan-center-index/pull/12979)|[datalogics-saharay](https://github.com/datalogics-saharay)|Sep 16|:stopwatch: libpng|0|||
+[#12979](https://github.com/conan-io/conan-center-index/pull/12979)|[datalogics-saharay](https://github.com/datalogics-saharay)|Sep 16|:stopwatch: libpng|0|:eyes:||
 [#12980](https://github.com/conan-io/conan-center-index/pull/12980)|[toge](https://github.com/toge)|Sep 17|:memo: itlib|1|Sep 19||uilianries
 [#12983](https://github.com/conan-io/conan-center-index/pull/12983)|[toge](https://github.com/toge)|Sep 17|:memo: zfp|2|Sep 19||uilianries
 [#12985](https://github.com/conan-io/conan-center-index/pull/12985)|[toge](https://github.com/toge)|Sep 17|:memo: bzip3|1|Sep 19||uilianries
@@ -61,9 +61,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12989](https://github.com/conan-io/conan-center-index/pull/12989)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 17|:green_book: docs|2|Sep 19||uilianries
 [#12990](https://github.com/conan-io/conan-center-index/pull/12990)|[toge](https://github.com/toge)|Sep 17|:memo: c-blosc2|2|Sep 19||uilianries
 [#12995](https://github.com/conan-io/conan-center-index/pull/12995)|[toge](https://github.com/toge)|Sep 18|:new: jeaiii-itoa|1|Sep 19||uilianries
+[#13004](https://github.com/conan-io/conan-center-index/pull/13004)|[paulocoutinhox](https://github.com/paulocoutinhox)|Sep 19|:stopwatch: sqlitecpp|0|||
 [#13008](https://github.com/conan-io/conan-center-index/pull/13008)|[madhat1](https://github.com/madhat1)|Sep 19|:stopwatch: mosquitto|0|||
 [#13010](https://github.com/conan-io/conan-center-index/pull/13010)|[SpaceIm](https://github.com/SpaceIm)|Sep 19|:memo: libyuv|1|Sep 19||uilianries
-[#13018](https://github.com/conan-io/conan-center-index/pull/13018)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 19|:memo: harfbuzz|1|Sep 19||uilianries
+[#13011](https://github.com/conan-io/conan-center-index/pull/13011)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 19|:stopwatch: pango|0|||
 [#13019](https://github.com/conan-io/conan-center-index/pull/13019)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 19|:gear: .c3i|1|Sep 19||uilianries
 
 
@@ -83,10 +84,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 207
+	- Open: 206
 	- Draft: 26
-	- Average Age: 67 days, 19 hours, and 35.24 minutes
-	- Stop Label: 113
+	- Average Age: 68 days, 4 hours, and 34.25 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
