@@ -21,23 +21,20 @@
 
 ### :nerd_face: Please Review! 
 
-There are **44** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12195](https://github.com/conan-io/conan-center-index/pull/12195)|[robomics](https://github.com/robomics)|Aug 13|:new: libbigwig|4|Sep 19||
+[#12195](https://github.com/conan-io/conan-center-index/pull/12195)|[robomics](https://github.com/robomics)|Aug 13|:new: libbigwig|5|Sep 19||uilianries
 [#12281](https://github.com/conan-io/conan-center-index/pull/12281)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|15|Sep 19|jgsogo|
 [#12425](https://github.com/conan-io/conan-center-index/pull/12425)|[toge](https://github.com/toge)|Aug 21|:new: imutils-cpp|5|Sep 16||uilianries
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|9|Sep 9||prince-chrismc
 [#12753](https://github.com/conan-io/conan-center-index/pull/12753)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: influxdb-cpp|3|Sep 14|uilianries|intelligide, danimtb
 [#12764](https://github.com/conan-io/conan-center-index/pull/12764)|[ivmai](https://github.com/ivmai)|Sep 1|:memo: bdwgc|7|Sep 19||uilianries
-[#12783](https://github.com/conan-io/conan-center-index/pull/12783)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 2|:stopwatch: onetbb|0|:eyes:||
 [#12841](https://github.com/conan-io/conan-center-index/pull/12841)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:memo: openal|1|Sep 19||uilianries
-[#12845](https://github.com/conan-io/conan-center-index/pull/12845)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Sep 6|:memo: qwt|15|Sep 19||jgsogo
 [#12868](https://github.com/conan-io/conan-center-index/pull/12868)|[SpaceIm](https://github.com/SpaceIm)|Sep 8|:memo: poco|6|Sep 19||uilianries, jwillikers
-[#12881](https://github.com/conan-io/conan-center-index/pull/12881)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 9|:memo: mold|7|Sep 19||
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|:eyes:||
 [#12928](https://github.com/conan-io/conan-center-index/pull/12928)|[toge](https://github.com/toge)|Sep 13|:new: unordered_dense|5|Sep 15||uilianries
 [#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:memo: daw_header_libraries|7|Sep 15||uilianries
@@ -46,29 +43,28 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12946](https://github.com/conan-io/conan-center-index/pull/12946)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|5|Sep 17||
 [#12948](https://github.com/conan-io/conan-center-index/pull/12948)|[toge](https://github.com/toge)|Sep 14|:memo: c4core|1|Sep 15||uilianries
 [#12950](https://github.com/conan-io/conan-center-index/pull/12950)|[chausner](https://github.com/chausner)|Sep 14|:memo: cpr|0|:eyes:||
-[#12955](https://github.com/conan-io/conan-center-index/pull/12955)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 15|:green_book: docs|5|Sep 19||
+[#12955](https://github.com/conan-io/conan-center-index/pull/12955)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 15|:green_book: docs|6|Sep 19||uilianries
 [#12962](https://github.com/conan-io/conan-center-index/pull/12962)|[curoky](https://github.com/curoky)|Sep 15|:stopwatch: folly|1|Sep 15||
 [#12963](https://github.com/conan-io/conan-center-index/pull/12963)|[uilianries](https://github.com/uilianries)|Sep 15|:green_book: docs|3|Sep 16||prince-chrismc
 [#12964](https://github.com/conan-io/conan-center-index/pull/12964)|[toge](https://github.com/toge)|Sep 15|:new: eternal|1|Sep 16||uilianries
 [#12966](https://github.com/conan-io/conan-center-index/pull/12966)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: spirv-cross|1|Sep 16||uilianries
 [#12967](https://github.com/conan-io/conan-center-index/pull/12967)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: glslang|1|Sep 16||uilianries
+[#12971](https://github.com/conan-io/conan-center-index/pull/12971)|[toge](https://github.com/toge)|Sep 16|:stopwatch: xsimd|0|||
 [#12973](https://github.com/conan-io/conan-center-index/pull/12973)|[uilianries](https://github.com/uilianries)|Sep 16|:gear: .github|2|Sep 17||
 [#12976](https://github.com/conan-io/conan-center-index/pull/12976)|[sproberts92](https://github.com/sproberts92)|Sep 16|:stopwatch: opentelemetry-cpp|0|||
-[#12977](https://github.com/conan-io/conan-center-index/pull/12977)|[toge](https://github.com/toge)|Sep 16|:memo: md4c|0|||
+[#12977](https://github.com/conan-io/conan-center-index/pull/12977)|[toge](https://github.com/toge)|Sep 16|:memo: md4c|1|Sep 19||uilianries
 [#12979](https://github.com/conan-io/conan-center-index/pull/12979)|[datalogics-saharay](https://github.com/datalogics-saharay)|Sep 16|:stopwatch: libpng|0|||
 [#12980](https://github.com/conan-io/conan-center-index/pull/12980)|[toge](https://github.com/toge)|Sep 17|:memo: itlib|1|Sep 19||uilianries
 [#12983](https://github.com/conan-io/conan-center-index/pull/12983)|[toge](https://github.com/toge)|Sep 17|:memo: zfp|2|Sep 19||uilianries
 [#12985](https://github.com/conan-io/conan-center-index/pull/12985)|[toge](https://github.com/toge)|Sep 17|:memo: bzip3|1|Sep 19||uilianries
 [#12987](https://github.com/conan-io/conan-center-index/pull/12987)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 17|:green_book: docs|2|Sep 19||jwillikers, uilianries
 [#12989](https://github.com/conan-io/conan-center-index/pull/12989)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 17|:green_book: docs|2|Sep 19||uilianries
-[#12990](https://github.com/conan-io/conan-center-index/pull/12990)|[toge](https://github.com/toge)|Sep 17|:memo: c-blosc2|1|Sep 19||
+[#12990](https://github.com/conan-io/conan-center-index/pull/12990)|[toge](https://github.com/toge)|Sep 17|:memo: c-blosc2|2|Sep 19||uilianries
 [#12995](https://github.com/conan-io/conan-center-index/pull/12995)|[toge](https://github.com/toge)|Sep 18|:new: jeaiii-itoa|1|Sep 19||uilianries
-[#13002](https://github.com/conan-io/conan-center-index/pull/13002)|[HappySeaFox](https://github.com/HappySeaFox)|Sep 19|:memo: libavif|3|Sep 19||toge
 [#13008](https://github.com/conan-io/conan-center-index/pull/13008)|[madhat1](https://github.com/madhat1)|Sep 19|:stopwatch: mosquitto|0|||
 [#13010](https://github.com/conan-io/conan-center-index/pull/13010)|[SpaceIm](https://github.com/SpaceIm)|Sep 19|:memo: libyuv|1|Sep 19||uilianries
-[#13015](https://github.com/conan-io/conan-center-index/pull/13015)|[toge](https://github.com/toge)|Sep 19|:memo: json-c|0|||
-[#13018](https://github.com/conan-io/conan-center-index/pull/13018)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 19|:memo: harfbuzz|0|||
-[#13019](https://github.com/conan-io/conan-center-index/pull/13019)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 19|:gear: .c3i|0|||
+[#13018](https://github.com/conan-io/conan-center-index/pull/13018)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 19|:memo: harfbuzz|1|Sep 19||uilianries
+[#13019](https://github.com/conan-io/conan-center-index/pull/13019)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 19|:gear: .c3i|1|Sep 19||uilianries
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,9 +83,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 211
+	- Open: 207
 	- Draft: 26
-	- Average Age: 66 days, 13 hours, and 16.31 minutes
+	- Average Age: 67 days, 19 hours, and 35.24 minutes
 	- Stop Label: 113
 	
 
