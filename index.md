@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **47** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,7 +41,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12879](https://github.com/conan-io/conan-center-index/pull/12879)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 9|:memo: qt|5|Sep 18||prince-chrismc, jwillikers
 [#12893](https://github.com/conan-io/conan-center-index/pull/12893)|[dotChris90](https://github.com/dotChris90)|Sep 10|:new: cyclonedds|1|Sep 16||
 [#12899](https://github.com/conan-io/conan-center-index/pull/12899)|[kayoub5](https://github.com/kayoub5)|Sep 11|:new: npcap|1|Sep 12||
-[#12900](https://github.com/conan-io/conan-center-index/pull/12900)|[kayoub5](https://github.com/kayoub5)|Sep 11|:stopwatch: pcapplusplus|1|Sep 12||
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|:eyes:||
 [#12928](https://github.com/conan-io/conan-center-index/pull/12928)|[toge](https://github.com/toge)|Sep 13|:new: unordered_dense|5|Sep 15||uilianries
 [#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:memo: daw_header_libraries|7|Sep 15||uilianries
@@ -71,6 +70,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12995](https://github.com/conan-io/conan-center-index/pull/12995)|[toge](https://github.com/toge)|Sep 18|:new: jeaiii-itoa|0|||
 [#12996](https://github.com/conan-io/conan-center-index/pull/12996)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 18|:memo: glib|1|Sep 18||jwillikers
 [#12999](https://github.com/conan-io/conan-center-index/pull/12999)|[toge](https://github.com/toge)|Sep 18|:stopwatch: arrow|0|||
+[#13002](https://github.com/conan-io/conan-center-index/pull/13002)|[HappySeaFox](https://github.com/HappySeaFox)|Sep 19|:memo: libavif|1|Sep 19||toge
+[#13004](https://github.com/conan-io/conan-center-index/pull/13004)|[paulocoutinhox](https://github.com/paulocoutinhox)|Sep 19|:stopwatch: sqlitecpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -90,9 +91,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 210
-	- Draft: 26
-	- Average Age: 66 days, 19 hours, and 21.21 minutes
+	- Open: 212
+	- Draft: 25
+	- Average Age: 66 days, 5 hours, and 57.39 minutes
 	- Stop Label: 112
 	
 
