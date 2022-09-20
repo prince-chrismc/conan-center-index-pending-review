@@ -733,32 +733,6 @@
       }
    },
    {
-      "Number": 13004,
-      "OpenedBy": "paulocoutinhox",
-      "CreatedAt": "2022-09-19T06:04:37Z",
-      "Recipe": "sqlitecpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13004",
-      "LastCommitSHA": "46f003dd2ca46dac76caf0ce672e2ee84c76a5f7",
-      "LastCommitAt": "2022-09-20T15:54:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "czoido"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2022-09-20T19:05:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13004#pullrequestreview-1114339266"
-         }
-      }
-   },
-   {
       "Number": 13008,
       "OpenedBy": "madhat1",
       "CreatedAt": "2022-09-19T08:01:44Z",
@@ -1060,6 +1034,32 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 13044,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-20T19:37:00Z",
+      "Recipe": "sqlitecpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13044",
+      "LastCommitSHA": "dd88d2bf06d3227afa37238bfe5e3cf41f08135e",
+      "LastCommitAt": "2022-09-20T19:36:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "czoido",
+            "paulocoutinhox"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "paulocoutinhox",
+            "SubmittedAt": "2022-09-20T20:10:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13044#pullrequestreview-1114414184"
+         }
       }
    }
 ]
