@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **44** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -68,17 +68,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13035](https://github.com/conan-io/conan-center-index/pull/13035)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: span-lite|1|Sep 20||uilianries
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|||
 [#13038](https://github.com/conan-io/conan-center-index/pull/13038)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: xz_utils|0|||
-[#13039](https://github.com/conan-io/conan-center-index/pull/13039)|[danimtb](https://github.com/danimtb)|Sep 20|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
+[#13040](https://github.com/conan-io/conan-center-index/pull/13040)|[danimtb](https://github.com/danimtb)|Sep 20|:gear: .c3i|3|uilianries, ericLemanissier, jgsogo
 
 
 #### :clipboard: Statistics
@@ -89,7 +89,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 210
 	- Draft: 26
-	- Average Age: 67 days, 2 hours, and 56.77 minutes
+	- Average Age: 67 days, 3 hours, and 32.86 minutes
 	- Stop Label: 115
 	
 
