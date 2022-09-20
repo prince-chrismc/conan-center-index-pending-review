@@ -78,7 +78,7 @@ Currently **2** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
-[#13004](https://github.com/conan-io/conan-center-index/pull/13004)|[paulocoutinhox](https://github.com/paulocoutinhox)|Sep 19|:memo: sqlitecpp|3|uilianries, czoido
+[#13044](https://github.com/conan-io/conan-center-index/pull/13044)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:warning: sqlitecpp|2|czoido, paulocoutinhox
 
 
 #### :clipboard: Statistics
@@ -87,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 211
+	- Open: 212
 	- Draft: 26
-	- Average Age: 67 days, and 41.82 minutes
+	- Average Age: 66 days, 18 hours, and 0.17 minutes
 	- Stop Label: 118
 	
 
