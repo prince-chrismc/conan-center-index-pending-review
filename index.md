@@ -27,10 +27,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
+[#11913](https://github.com/conan-io/conan-center-index/pull/11913)|[leha-bot](https://github.com/leha-bot)|Jul 25|:stopwatch: mdspan|2|Sep 20||
 [#12281](https://github.com/conan-io/conan-center-index/pull/12281)|[prince-chrismc](https://github.com/prince-chrismc)|Aug 16|:green_book: docs|17|Sep 20|jgsogo|danimtb, uilianries
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|9|Sep 9||prince-chrismc
-[#12859](https://github.com/conan-io/conan-center-index/pull/12859)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 7|:stopwatch: jemalloc|1|Sep 7 :bell:||
 [#12885](https://github.com/conan-io/conan-center-index/pull/12885)|[mark0n](https://github.com/mark0n)|Sep 9|:memo: gtest|4|Sep 19||
+[#12889](https://github.com/conan-io/conan-center-index/pull/12889)|[GIGte](https://github.com/GIGte)|Sep 9|:stopwatch: cryptopp|6|Sep 19||
 [#12893](https://github.com/conan-io/conan-center-index/pull/12893)|[dotChris90](https://github.com/dotChris90)|Sep 10|:new: cyclonedds|4|Sep 20||
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|:eyes:||
 [#12931](https://github.com/conan-io/conan-center-index/pull/12931)|[uilianries](https://github.com/uilianries)|Sep 13|:green_book: docs|10|Sep 19||prince-chrismc
@@ -63,20 +64,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13035](https://github.com/conan-io/conan-center-index/pull/13035)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: span-lite|1|Sep 20||uilianries
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|||
 [#13041](https://github.com/conan-io/conan-center-index/pull/13041)|[jfalcou](https://github.com/jfalcou)|Sep 20|:memo: jfalcou-eve|0|||
-[#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
-[#12899](https://github.com/conan-io/conan-center-index/pull/12899)|[kayoub5](https://github.com/kayoub5)|Sep 11|:new: npcap|7|uilianries, prince-chrismc
-[#12928](https://github.com/conan-io/conan-center-index/pull/12928)|[toge](https://github.com/toge)|Sep 13|:new: unordered_dense|6|uilianries, prince-chrismc
-[#12930](https://github.com/conan-io/conan-center-index/pull/12930)|[toge](https://github.com/toge)|Sep 13|:memo: daw_header_libraries|8|uilianries, prince-chrismc
 [#13011](https://github.com/conan-io/conan-center-index/pull/13011)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 19|:memo: pango|2|uilianries, prince-chrismc
 [#13029](https://github.com/conan-io/conan-center-index/pull/13029)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: optional-lite|2|uilianries, prince-chrismc
 
@@ -87,10 +84,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 212
+	- Open: 209
 	- Draft: 26
-	- Average Age: 66 days, 18 hours, and 54.30 minutes
-	- Stop Label: 117
+	- Average Age: 67 days, 16 hours, and 18.76 minutes
+	- Stop Label: 119
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
