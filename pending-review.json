@@ -115,6 +115,29 @@
       }
    },
    {
+      "Number": 12613,
+      "OpenedBy": "ggulgulia",
+      "CreatedAt": "2022-08-26T14:23:53Z",
+      "Recipe": "gfortran",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12613",
+      "LastCommitSHA": "652d6840f1bae52a39c778eba6f9f0d43a58fa82",
+      "LastCommitAt": "2022-09-21T04:13:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-09-15T15:31:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12613#pullrequestreview-1109416683"
+         }
+      }
+   },
+   {
       "Number": 12885,
       "OpenedBy": "mark0n",
       "CreatedAt": "2022-09-09T18:50:13Z",
