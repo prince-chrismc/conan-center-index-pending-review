@@ -183,31 +183,6 @@
       }
    },
    {
-      "Number": 12893,
-      "OpenedBy": "dotChris90",
-      "CreatedAt": "2022-09-10T18:01:23Z",
-      "Recipe": "cyclonedds",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12893",
-      "LastCommitSHA": "fff1d79e4e54e1dc38818e4a8d155738a987d3d4",
-      "LastCommitAt": "2022-09-20T17:53:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-09-21T07:25:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12893#pullrequestreview-1114897062"
-         }
-      }
-   },
-   {
       "Number": 12896,
       "OpenedBy": "jellespijker",
       "CreatedAt": "2022-09-11T13:06:28Z",
