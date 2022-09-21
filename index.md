@@ -21,12 +21,12 @@
 
 ### :nerd_face: Please Review! 
 
-There are **32** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:stopwatch: gdal|26|Sep 21||prince-chrismc
+[#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:memo: gdal|26|Sep 21||prince-chrismc
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|8|Sep 17||
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|9|Sep 9 :bell:||prince-chrismc
@@ -57,6 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13062](https://github.com/conan-io/conan-center-index/pull/13062)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: tsl-sparse-map|0|||
 [#13063](https://github.com/conan-io/conan-center-index/pull/13063)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: tsl-ordered-map|0|||
 [#13064](https://github.com/conan-io/conan-center-index/pull/13064)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: tsl-hopscotch-map|0|||
+[#13065](https://github.com/conan-io/conan-center-index/pull/13065)|[leha-bot](https://github.com/leha-bot)|Sep 21|:stopwatch: doctest|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -75,9 +76,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 195
+	- Open: 196
 	- Draft: 26
-	- Average Age: 72 days, 22 hours, and 56.65 minutes
+	- Average Age: 72 days, 15 hours, and 1.70 minutes
 	- Stop Label: 114
 	
 
