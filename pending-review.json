@@ -26,7 +26,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/11694",
       "LastCommitSHA": "eb92ed16f9412b97ae2ef9973cdfbd234ead5744",
       "LastCommitAt": "2022-09-21T19:40:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 26,
          "ValidApprovals": 1,
@@ -701,6 +701,24 @@
       "LastCommitSHA": "894a499bc7bd82f6cb397d7aaee1931a9431f9c6",
       "LastCommitAt": "2022-09-21T20:51:44Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13065,
+      "OpenedBy": "leha-bot",
+      "CreatedAt": "2022-09-21T22:19:57Z",
+      "Recipe": "doctest",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13065",
+      "LastCommitSHA": "7c93d1813c5126ad442d3afa1bbfe9b82a29c878",
+      "LastCommitAt": "2022-09-21T22:17:31Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
