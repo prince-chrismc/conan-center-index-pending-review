@@ -121,9 +121,9 @@
       "Recipe": "gfortran",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12613",
-      "LastCommitSHA": "652d6840f1bae52a39c778eba6f9f0d43a58fa82",
-      "LastCommitAt": "2022-09-21T04:13:12Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "d1da41706a9fa2ecf3823f778d859caa0a4dede1",
+      "LastCommitAt": "2022-09-21T05:17:48Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -909,24 +909,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13038",
       "LastCommitSHA": "83cf0d67f845b5f00e6b54447b38b79a9d01424a",
       "LastCommitAt": "2022-09-20T22:47:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13041,
-      "OpenedBy": "jfalcou",
-      "CreatedAt": "2022-09-20T17:08:52Z",
-      "Recipe": "jfalcou-eve",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13041",
-      "LastCommitSHA": "a2b4b975dbb5a063b8be3b71c85af457da04ed02",
-      "LastCommitAt": "2022-09-20T17:07:58Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
