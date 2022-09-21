@@ -21,13 +21,13 @@
 
 ### :nerd_face: Please Review! 
 
-There are **27** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:stopwatch: diligent-core|8|Sep 17||
+[#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|8|Sep 17||
 [#12563](https://github.com/conan-io/conan-center-index/pull/12563)|[ggulgulia](https://github.com/ggulgulia)|Aug 25|:new: simbody|9|Sep 9||prince-chrismc
 [#12613](https://github.com/conan-io/conan-center-index/pull/12613)|[ggulgulia](https://github.com/ggulgulia)|Aug 26|:memo: gfortran|6|Sep 21||danimtb
 [#12881](https://github.com/conan-io/conan-center-index/pull/12881)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 9|:memo: mold|9|Sep 19||
@@ -36,9 +36,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|7|Sep 21||danimtb
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|:eyes:||
 [#12946](https://github.com/conan-io/conan-center-index/pull/12946)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|6|Sep 19||prince-chrismc
-[#12948](https://github.com/conan-io/conan-center-index/pull/12948)|[toge](https://github.com/toge)|Sep 14|:memo: c4core|4|Sep 20||uilianries
+[#12948](https://github.com/conan-io/conan-center-index/pull/12948)|[toge](https://github.com/toge)|Sep 14|:stopwatch: c4core|4|Sep 20||
 [#12962](https://github.com/conan-io/conan-center-index/pull/12962)|[curoky](https://github.com/curoky)|Sep 15|:stopwatch: folly|3|Sep 20||prince-chrismc
-[#12964](https://github.com/conan-io/conan-center-index/pull/12964)|[toge](https://github.com/toge)|Sep 15|:new: eternal|3|Sep 20||uilianries
+[#12964](https://github.com/conan-io/conan-center-index/pull/12964)|[toge](https://github.com/toge)|Sep 15|:new: eternal|3|Sep 20||
 [#12966](https://github.com/conan-io/conan-center-index/pull/12966)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: spirv-cross|1|Sep 16||uilianries
 [#12967](https://github.com/conan-io/conan-center-index/pull/12967)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: glslang|1|Sep 16||uilianries
 [#12976](https://github.com/conan-io/conan-center-index/pull/12976)|[sproberts92](https://github.com/sproberts92)|Sep 16|:stopwatch: opentelemetry-cpp|0|||
@@ -47,24 +47,22 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13010](https://github.com/conan-io/conan-center-index/pull/13010)|[SpaceIm](https://github.com/SpaceIm)|Sep 19|:memo: libyuv|3|Sep 21||jgsogo
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|||
 [#13038](https://github.com/conan-io/conan-center-index/pull/13038)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: xz_utils|0|||
+[#13041](https://github.com/conan-io/conan-center-index/pull/13041)|[jfalcou](https://github.com/jfalcou)|Sep 20|:stopwatch: jfalcou-eve|6|Sep 21||
 [#13049](https://github.com/conan-io/conan-center-index/pull/13049)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 20|:memo: gtest|1|Sep 21||jgsogo
 [#13051](https://github.com/conan-io/conan-center-index/pull/13051)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 21|:green_book: docs|2|Sep 21||
 [#13052](https://github.com/conan-io/conan-center-index/pull/13052)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 21|:memo: libusb|1|Sep 21||jgsogo
 [#13053](https://github.com/conan-io/conan-center-index/pull/13053)|[mariopil](https://github.com/mariopil)|Sep 21|:stopwatch: boost|0|||
-[#13056](https://github.com/conan-io/conan-center-index/pull/13056)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:stopwatch: md4c|0|||
+[#13056](https://github.com/conan-io/conan-center-index/pull/13056)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: md4c|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
-[#12990](https://github.com/conan-io/conan-center-index/pull/12990)|[toge](https://github.com/toge)|Sep 17|:memo: c-blosc2|3|uilianries, jgsogo
-[#12995](https://github.com/conan-io/conan-center-index/pull/12995)|[toge](https://github.com/toge)|Sep 18|:new: jeaiii-itoa|2|uilianries, jgsogo
-[#13023](https://github.com/conan-io/conan-center-index/pull/13023)|[SpaceIm](https://github.com/SpaceIm)|Sep 19|:memo: assimp|2|uilianries, jgsogo
 [#13027](https://github.com/conan-io/conan-center-index/pull/13027)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: jsoncpp|2|uilianries, jgsogo
 [#13032](https://github.com/conan-io/conan-center-index/pull/13032)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: pugixml|2|uilianries, jgsogo
 [#13033](https://github.com/conan-io/conan-center-index/pull/13033)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: sdf|2|uilianries, jgsogo
@@ -78,9 +76,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 201
+	- Open: 198
 	- Draft: 26
-	- Average Age: 70 days, 11 hours, and 6.71 minutes
+	- Average Age: 71 days, 13 hours, and 2.76 minutes
 	- Stop Label: 115
 	
 
