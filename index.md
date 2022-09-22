@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **35** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,6 +37,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12966](https://github.com/conan-io/conan-center-index/pull/12966)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: spirv-cross|1|Sep 16||uilianries
 [#12967](https://github.com/conan-io/conan-center-index/pull/12967)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: glslang|1|Sep 16||uilianries
 [#13007](https://github.com/conan-io/conan-center-index/pull/13007)|[SpaceIm](https://github.com/SpaceIm)|Sep 19|:memo: libavif|1|Sep 22||uilianries
+[#13008](https://github.com/conan-io/conan-center-index/pull/13008)|[madhat1](https://github.com/madhat1)|Sep 19|:stopwatch: mosquitto|0|:eyes:||
+[#13031](https://github.com/conan-io/conan-center-index/pull/13031)|[toge](https://github.com/toge)|Sep 20|:stopwatch: mozjpeg|0|||
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|||
 [#13037](https://github.com/conan-io/conan-center-index/pull/13037)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: catch2|4|Sep 22||uilianries
 [#13038](https://github.com/conan-io/conan-center-index/pull/13038)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: xz_utils|2|Sep 22||uilianries
@@ -78,8 +80,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 205
 	- Draft: 26
-	- Average Age: 69 days, 17 hours, and 14.07 minutes
-	- Stop Label: 124
+	- Average Age: 69 days, 18 hours, and 15.21 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
