@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13062](https://github.com/conan-io/conan-center-index/pull/13062)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: tsl-sparse-map|0|||
 [#13063](https://github.com/conan-io/conan-center-index/pull/13063)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: tsl-ordered-map|0|||
 [#13064](https://github.com/conan-io/conan-center-index/pull/13064)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: tsl-hopscotch-map|0|||
-[#13065](https://github.com/conan-io/conan-center-index/pull/13065)|[leha-bot](https://github.com/leha-bot)|Sep 21|:stopwatch: doctest|0|||
+[#13065](https://github.com/conan-io/conan-center-index/pull/13065)|[leha-bot](https://github.com/leha-bot)|Sep 21|:memo: doctest|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -78,7 +78,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 196
 	- Draft: 26
-	- Average Age: 72 days, 15 hours, and 1.70 minutes
+	- Average Age: 72 days, 17 hours, and 4.19 minutes
 	- Stop Label: 114
 	
 
