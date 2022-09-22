@@ -314,6 +314,42 @@
       }
    },
    {
+      "Number": 13008,
+      "OpenedBy": "madhat1",
+      "CreatedAt": "2022-09-19T08:01:44Z",
+      "Recipe": "mosquitto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13008",
+      "LastCommitSHA": "29b1b78ab12083318bff9af62a7868cb34653364",
+      "LastCommitAt": "2022-09-19T07:58:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13031,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-09-20T10:45:16Z",
+      "Recipe": "mozjpeg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13031",
+      "LastCommitSHA": "abfcc8f02f144ff4d6206b3ff6a7092d619cf7f2",
+      "LastCommitAt": "2022-09-22T22:24:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13036,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-09-20T12:44:22Z",
