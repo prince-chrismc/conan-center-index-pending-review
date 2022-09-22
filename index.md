@@ -21,14 +21,14 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11694](https://github.com/conan-io/conan-center-index/pull/11694)|[jpilet](https://github.com/jpilet)|Jul 14|:memo: gdal|26|Sep 21||prince-chrismc
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:stopwatch: diligent-core|9|Sep 22||
+[#12255](https://github.com/conan-io/conan-center-index/pull/12255)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 16|:memo: diligent-core|9|Sep 22||
 [#12881](https://github.com/conan-io/conan-center-index/pull/12881)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 9|:memo: mold|13|Sep 21||
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|7|Sep 21||danimtb
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|0|:eyes:||
@@ -62,11 +62,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13073](https://github.com/conan-io/conan-center-index/pull/13073)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: units|0|||
 [#13074](https://github.com/conan-io/conan-center-index/pull/13074)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: utf8proc|0|||
 [#13075](https://github.com/conan-io/conan-center-index/pull/13075)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: utf8.h|0|||
-[#13076](https://github.com/conan-io/conan-center-index/pull/13076)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:stopwatch: volk|0|||
+[#13076](https://github.com/conan-io/conan-center-index/pull/13076)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: volk|0|||
 [#13077](https://github.com/conan-io/conan-center-index/pull/13077)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: vectorclass|0|||
-[#13078](https://github.com/conan-io/conan-center-index/pull/13078)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:stopwatch: xorg-proto|0|||
-[#13079](https://github.com/conan-io/conan-center-index/pull/13079)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:stopwatch: strawberryperl|0|||
-[#13080](https://github.com/conan-io/conan-center-index/pull/13080)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:stopwatch: benchmark|0|||
+[#13078](https://github.com/conan-io/conan-center-index/pull/13078)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: xorg-proto|0|||
+[#13079](https://github.com/conan-io/conan-center-index/pull/13079)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: strawberryperl|0|||
+[#13081](https://github.com/conan-io/conan-center-index/pull/13081)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: pkgconf|0|||
+[#13083](https://github.com/conan-io/conan-center-index/pull/13083)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:stopwatch: nspr|0|||
+[#13085](https://github.com/conan-io/conan-center-index/pull/13085)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:stopwatch: libpq|0|||
+[#13087](https://github.com/conan-io/conan-center-index/pull/13087)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:stopwatch: libjpeg|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -85,10 +88,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 206
+	- Open: 216
 	- Draft: 27
-	- Average Age: 69 days, 8 hours, and 4.06 minutes
-	- Stop Label: 115
+	- Average Age: 66 days, 3 hours, and 56.82 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
