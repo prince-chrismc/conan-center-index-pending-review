@@ -61,8 +61,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13096](https://github.com/conan-io/conan-center-index/pull/13096)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: hdrhistogram-c|0|||
 [#13097](https://github.com/conan-io/conan-center-index/pull/13097)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: libschrift|0|||
 [#13098](https://github.com/conan-io/conan-center-index/pull/13098)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: leveldb|1|Sep 22||uilianries
-[#13103](https://github.com/conan-io/conan-center-index/pull/13103)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 22|:green_book: docs|0|||
-[#13104](https://github.com/conan-io/conan-center-index/pull/13104)|[greg7mdp](https://github.com/greg7mdp)|Sep 23|:memo: parallel-hashmap|0|||
+[#13103](https://github.com/conan-io/conan-center-index/pull/13103)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 22|:green_book: docs|1|Sep 23||jgsogo
+[#13104](https://github.com/conan-io/conan-center-index/pull/13104)|[greg7mdp](https://github.com/greg7mdp)|Sep 23|:memo: parallel-hashmap|1|Sep 23||jgsogo
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -83,7 +83,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 204
 	- Draft: 26
-	- Average Age: 70 days, 8 hours, and 11.87 minutes
+	- Average Age: 70 days, 9 hours, and 7.06 minutes
 	- Stop Label: 118
 	
 
