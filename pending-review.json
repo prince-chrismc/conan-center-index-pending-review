@@ -971,5 +971,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13141,
+      "OpenedBy": "paulocoutinhox",
+      "CreatedAt": "2022-09-24T23:03:07Z",
+      "Recipe": "ruby",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13141",
+      "LastCommitSHA": "4d3b4dbd6790c31975858b803bc3a82c84bd038b",
+      "LastCommitAt": "2022-09-24T23:06:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
