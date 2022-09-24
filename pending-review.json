@@ -542,32 +542,6 @@
       }
    },
    {
-      "Number": 13099,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-09-22T15:29:01Z",
-      "Recipe": "leptonica",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13099",
-      "LastCommitSHA": "f515f44b863620e1fbdb988475e8e165b5cfe8a7",
-      "LastCommitAt": "2022-09-22T15:16:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-09-24T05:38:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13099#pullrequestreview-1119166383"
-         }
-      }
-   },
-   {
       "Number": 13101,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-09-22T20:29:16Z",
