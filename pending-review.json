@@ -804,9 +804,9 @@
       "Recipe": "libjpeg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13123",
-      "LastCommitSHA": "41f925228a6a2dbd78888de31e7b408757f5733c",
-      "LastCommitAt": "2022-09-23T23:45:07Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "78d4f6029e93a85b49587cdef23930ed53e4d9ff",
+      "LastCommitAt": "2022-09-24T08:41:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
