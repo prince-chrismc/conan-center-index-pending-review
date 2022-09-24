@@ -542,56 +542,6 @@
       }
    },
    {
-      "Number": 13097,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-09-22T14:40:12Z",
-      "Recipe": "libschrift",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13097",
-      "LastCommitSHA": "46865ea4d60b7809b287dd22e59bb6eb160ddde2",
-      "LastCommitAt": "2022-09-22T14:57:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-23T09:02:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13097#pullrequestreview-1118133179"
-         }
-      }
-   },
-   {
-      "Number": 13098,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-09-22T14:54:29Z",
-      "Recipe": "leveldb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13098",
-      "LastCommitSHA": "93e604aeb5369d0ce569982a573f4eccf6be11f1",
-      "LastCommitAt": "2022-09-22T14:53:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-23T09:04:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13098#pullrequestreview-1118135109"
-         }
-      }
-   },
-   {
       "Number": 13099,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-09-22T15:29:01Z",
@@ -917,7 +867,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13125",
       "LastCommitSHA": "222a23ee63062a427c403fc2ab315129133f2c89",
       "LastCommitAt": "2022-09-23T22:49:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
