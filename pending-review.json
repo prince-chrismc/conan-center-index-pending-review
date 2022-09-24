@@ -542,32 +542,6 @@
       }
    },
    {
-      "Number": 13096,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-09-22T12:52:00Z",
-      "Recipe": "hdrhistogram-c",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13096",
-      "LastCommitSHA": "e6e9968f4f4f956f7e35457d13e7ceb761194ffc",
-      "LastCommitAt": "2022-09-22T12:51:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-09-24T01:17:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13096#pullrequestreview-1119132723"
-         }
-      }
-   },
-   {
       "Number": 13097,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-09-22T14:40:12Z",
