@@ -924,6 +924,24 @@
       }
    },
    {
+      "Number": 13131,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-09-24T11:44:42Z",
+      "Recipe": "odbc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13131",
+      "LastCommitSHA": "0dee22e41ac80c99b0eda66919416fb4089ffbf7",
+      "LastCommitAt": "2022-09-24T14:11:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13132,
       "OpenedBy": "kayoub5",
       "CreatedAt": "2022-09-24T13:25:45Z",
@@ -932,7 +950,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13132",
       "LastCommitSHA": "be206dc5951ba3a427243d8f66b670c5737284d1",
       "LastCommitAt": "2022-09-24T13:22:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
