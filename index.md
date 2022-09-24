@@ -40,7 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13041](https://github.com/conan-io/conan-center-index/pull/13041)|[jfalcou](https://github.com/jfalcou)|Sep 20|:stopwatch: jfalcou-eve|6|Sep 21||
 [#13042](https://github.com/conan-io/conan-center-index/pull/13042)|[ivmai](https://github.com/ivmai)|Sep 20|:memo: libatomic_ops|4|Sep 20||
 [#13053](https://github.com/conan-io/conan-center-index/pull/13053)|[mariopil](https://github.com/mariopil)|Sep 21|:stopwatch: boost|0|||
-[#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:stopwatch: cppfront|3|Sep 23||
+[#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:new: cppfront|3|Sep 23||
 [#13072](https://github.com/conan-io/conan-center-index/pull/13072)|[uilianries](https://github.com/uilianries)|Sep 22|:green_book: docs|1|Sep 23||toge
 [#13084](https://github.com/conan-io/conan-center-index/pull/13084)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: libxft|1|Sep 23||
 [#13086](https://github.com/conan-io/conan-center-index/pull/13086)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: libmysqlclient|2|Sep 23||uilianries
@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 204
 	- Draft: 26
-	- Average Age: 70 days, 20 hours, and 56.25 minutes
+	- Average Age: 70 days, 21 hours, and 48.08 minutes
 	- Stop Label: 116
 	
 
