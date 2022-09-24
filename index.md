@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,7 +47,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13090](https://github.com/conan-io/conan-center-index/pull/13090)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: dbus|2|Sep 23||uilianries
 [#13091](https://github.com/conan-io/conan-center-index/pull/13091)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: bison|4|Sep 23||uilianries
 [#13092](https://github.com/conan-io/conan-center-index/pull/13092)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 22|:gear: .c3i|1|Sep 22||uilianries
-[#13099](https://github.com/conan-io/conan-center-index/pull/13099)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: leptonica|1|Sep 23||uilianries
 [#13101](https://github.com/conan-io/conan-center-index/pull/13101)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 22|:gear: .github|1|Sep 23||
 [#13105](https://github.com/conan-io/conan-center-index/pull/13105)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: glew|1|Sep 23||uilianries
 [#13107](https://github.com/conan-io/conan-center-index/pull/13107)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 23|:memo: lzma_sdk|1|Sep 23||
@@ -69,12 +68,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#12074](https://github.com/conan-io/conan-center-index/pull/12074)|[jcar87](https://github.com/jcar87)|Aug 5|:memo: benchmark|2|prince-chrismc, SpaceIm
+[#13099](https://github.com/conan-io/conan-center-index/pull/13099)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: leptonica|2|uilianries, toge
 
 
 #### :clipboard: Statistics
@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 205
 	- Draft: 26
-	- Average Age: 70 days, 10 hours, and 38.29 minutes
+	- Average Age: 70 days, 12 hours, and 6.86 minutes
 	- Stop Label: 116
 	
 
