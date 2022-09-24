@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **44** pull requests currently under way :detective:
+There are **46** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -34,7 +34,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12948](https://github.com/conan-io/conan-center-index/pull/12948)|[toge](https://github.com/toge)|Sep 14|:stopwatch: c4core|6|Sep 22||prince-chrismc
 [#12966](https://github.com/conan-io/conan-center-index/pull/12966)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: spirv-cross|1|Sep 16||uilianries
 [#12967](https://github.com/conan-io/conan-center-index/pull/12967)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: glslang|1|Sep 16||uilianries
+[#12999](https://github.com/conan-io/conan-center-index/pull/12999)|[toge](https://github.com/toge)|Sep 18|:stopwatch: arrow|0|||
 [#13008](https://github.com/conan-io/conan-center-index/pull/13008)|[madhat1](https://github.com/madhat1)|Sep 19|:memo: mosquitto|1|Sep 23||uilianries
+[#13031](https://github.com/conan-io/conan-center-index/pull/13031)|[toge](https://github.com/toge)|Sep 20|:stopwatch: mozjpeg|0|||
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|:eyes:||
 [#13038](https://github.com/conan-io/conan-center-index/pull/13038)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: xz_utils|2|Sep 22||uilianries
 [#13041](https://github.com/conan-io/conan-center-index/pull/13041)|[jfalcou](https://github.com/jfalcou)|Sep 20|:stopwatch: jfalcou-eve|6|Sep 21||
@@ -68,7 +70,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13130](https://github.com/conan-io/conan-center-index/pull/13130)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: libuuid|0|||
 [#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|0|||
 [#13132](https://github.com/conan-io/conan-center-index/pull/13132)|[kayoub5](https://github.com/kayoub5)|Sep 24|:memo: npcap|0|||
-[#13135](https://github.com/conan-io/conan-center-index/pull/13135)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:stopwatch: m4|0|||
+[#13135](https://github.com/conan-io/conan-center-index/pull/13135)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: m4|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,9 +89,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 209
-	- Draft: 26
-	- Average Age: 69 days, 14 hours, and 53.50 minutes
+	- Open: 210
+	- Draft: 25
+	- Average Age: 69 days, 7 hours, and 57.05 minutes
 	- Stop Label: 116
 	
 
