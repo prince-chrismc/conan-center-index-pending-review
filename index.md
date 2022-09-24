@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,8 +47,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13090](https://github.com/conan-io/conan-center-index/pull/13090)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: dbus|2|Sep 23||uilianries
 [#13091](https://github.com/conan-io/conan-center-index/pull/13091)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: bison|4|Sep 23||uilianries
 [#13092](https://github.com/conan-io/conan-center-index/pull/13092)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 22|:gear: .c3i|1|Sep 22||uilianries
-[#13097](https://github.com/conan-io/conan-center-index/pull/13097)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: libschrift|1|Sep 23||uilianries
-[#13098](https://github.com/conan-io/conan-center-index/pull/13098)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: leveldb|2|Sep 23||uilianries
 [#13099](https://github.com/conan-io/conan-center-index/pull/13099)|[SpaceIm](https://github.com/SpaceIm)|Sep 22|:memo: leptonica|1|Sep 23||uilianries
 [#13101](https://github.com/conan-io/conan-center-index/pull/13101)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 22|:gear: .github|1|Sep 23||
 [#13105](https://github.com/conan-io/conan-center-index/pull/13105)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: glew|1|Sep 23||uilianries
@@ -65,7 +63,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13122](https://github.com/conan-io/conan-center-index/pull/13122)|[fdefelici](https://github.com/fdefelici)|Sep 23|:memo: clove-unit|0|||
 [#13123](https://github.com/conan-io/conan-center-index/pull/13123)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: libjpeg|0|||
 [#13124](https://github.com/conan-io/conan-center-index/pull/13124)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: libalsa|0|||
-[#13125](https://github.com/conan-io/conan-center-index/pull/13125)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: vulkan-headers|0|||
+[#13125](https://github.com/conan-io/conan-center-index/pull/13125)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: vulkan-headers|0|||
 [#13126](https://github.com/conan-io/conan-center-index/pull/13126)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: godot_headers|0|||
 
 
@@ -85,9 +83,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 207
+	- Open: 205
 	- Draft: 26
-	- Average Age: 69 days, 16 hours, and 13.41 minutes
+	- Average Age: 70 days, 10 hours, and 38.29 minutes
 	- Stop Label: 116
 	
 
