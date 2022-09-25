@@ -295,9 +295,9 @@
       "Recipe": "cppfront",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13068",
-      "LastCommitSHA": "30a25044e707daf53ad988639c5a8e8663d675cf",
-      "LastCommitAt": "2022-09-23T16:27:42Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c34ad179f89936058b0beda12186f3f303f70d29",
+      "LastCommitAt": "2022-09-25T12:14:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
