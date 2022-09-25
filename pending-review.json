@@ -36,24 +36,6 @@
       }
    },
    {
-      "Number": 12219,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-08-14T21:27:52Z",
-      "Recipe": "pkgconf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12219",
-      "LastCommitSHA": "7a3b9a5dd9e7547e46492a697cdc5757639fb4a9",
-      "LastCommitAt": "2022-09-25T00:59:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 12859,
       "OpenedBy": "fpelliccioni",
       "CreatedAt": "2022-09-07T11:33:26Z",
@@ -955,24 +937,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13135",
       "LastCommitSHA": "ecb5a2ff5a5fc6a445ebc29eebf94d23829a87e7",
       "LastCommitAt": "2022-09-25T00:57:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13141,
-      "OpenedBy": "paulocoutinhox",
-      "CreatedAt": "2022-09-24T23:03:07Z",
-      "Recipe": "ruby",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13141",
-      "LastCommitSHA": "0c27a8402b8d47bd8a7209c2b2cef723e6831985",
-      "LastCommitAt": "2022-09-25T00:29:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
