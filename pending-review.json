@@ -878,23 +878,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 13142,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-09-25T09:52:49Z",
-      "Recipe": "moltenvk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13142",
-      "LastCommitSHA": "8d8cb6878a249cad5b243fbcb22b5827e906633d",
-      "LastCommitAt": "2022-09-17T23:36:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
