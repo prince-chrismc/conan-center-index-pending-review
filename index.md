@@ -33,7 +33,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12948](https://github.com/conan-io/conan-center-index/pull/12948)|[toge](https://github.com/toge)|Sep 14|:stopwatch: c4core|6|Sep 22||prince-chrismc
 [#12999](https://github.com/conan-io/conan-center-index/pull/12999)|[toge](https://github.com/toge)|Sep 18|:memo: arrow|0|||
 [#13008](https://github.com/conan-io/conan-center-index/pull/13008)|[madhat1](https://github.com/madhat1)|Sep 19|:memo: mosquitto|2|Sep 25||uilianries
-[#13031](https://github.com/conan-io/conan-center-index/pull/13031)|[toge](https://github.com/toge)|Sep 20|:stopwatch: mozjpeg|0|||
+[#13031](https://github.com/conan-io/conan-center-index/pull/13031)|[toge](https://github.com/toge)|Sep 20|:memo: mozjpeg|0|||
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|:eyes:||
 [#13038](https://github.com/conan-io/conan-center-index/pull/13038)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: xz_utils|2|Sep 22||
 [#13041](https://github.com/conan-io/conan-center-index/pull/13041)|[jfalcou](https://github.com/jfalcou)|Sep 20|:stopwatch: jfalcou-eve|6|Sep 21||
@@ -78,7 +78,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Pull Requests:
 	- Open: 213
 	- Draft: 26
-	- Average Age: 69 days, 3 hours, and 10.56 minutes
+	- Average Age: 69 days, 4 hours, and 15.69 minutes
 	- Stop Label: 121
 	
 
