@@ -886,8 +886,8 @@
       "Recipe": "m4",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13135",
-      "LastCommitSHA": "ecb5a2ff5a5fc6a445ebc29eebf94d23829a87e7",
-      "LastCommitAt": "2022-09-25T00:57:18Z",
+      "LastCommitSHA": "690c7c2c04b79945ffc7a5fbfb6c599ede22d9ec",
+      "LastCommitAt": "2022-09-25T22:23:05Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
