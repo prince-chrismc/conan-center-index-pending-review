@@ -36,6 +36,29 @@
       }
    },
    {
+      "Number": 12835,
+      "OpenedBy": "dubvulture",
+      "CreatedAt": "2022-09-05T15:08:52Z",
+      "Recipe": "libmodbus",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12835",
+      "LastCommitSHA": "f04a47c4004ad960e47949e63152876eddc233d5",
+      "LastCommitAt": "2022-09-26T07:29:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-09-16T15:09:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12835#pullrequestreview-1110845028"
+         }
+      }
+   },
+   {
       "Number": 12881,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-09-09T10:08:45Z",
@@ -906,7 +929,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13136",
       "LastCommitSHA": "b39f26a609c21287ea4ca1aed266c1b812536283",
       "LastCommitAt": "2022-09-26T06:59:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
