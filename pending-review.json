@@ -67,7 +67,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12859",
       "LastCommitSHA": "dc2fdb7b7f260def2808694f11e9d12f6631a898",
       "LastCommitAt": "2022-09-26T17:52:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 0,
@@ -901,7 +901,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13145",
       "LastCommitSHA": "7d4cdc453539e07d646adbfb9cf0350427ed16f3",
       "LastCommitAt": "2022-09-26T18:10:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1040,7 +1040,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13162",
       "LastCommitSHA": "5975fa0d6f3dd12895485ada95ac6724c02f772d",
       "LastCommitAt": "2022-09-26T18:09:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1056,9 +1056,9 @@
       "Recipe": "mcap",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13163",
-      "LastCommitSHA": "6357a2fd7a348af8c74d2e97b289e3a1ea6251af",
-      "LastCommitAt": "2022-09-26T18:12:59Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "01b2cfcf017447f2db6d753d6c8c7056d6549cc7",
+      "LastCommitAt": "2022-09-26T18:39:01Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
