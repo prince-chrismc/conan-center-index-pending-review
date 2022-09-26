@@ -28,7 +28,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12835](https://github.com/conan-io/conan-center-index/pull/12835)|[dubvulture](https://github.com/dubvulture)|Sep 5|:memo: libmodbus|2|Sep 16||
-[#12859](https://github.com/conan-io/conan-center-index/pull/12859)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 7|:stopwatch: jemalloc|7|Sep 26||
+[#12859](https://github.com/conan-io/conan-center-index/pull/12859)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 7|:memo: jemalloc|7|Sep 26||
 [#12881](https://github.com/conan-io/conan-center-index/pull/12881)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 9|:memo: mold|16|Sep 25|uilianries|SSE4, prince-chrismc
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
 [#12900](https://github.com/conan-io/conan-center-index/pull/12900)|[kayoub5](https://github.com/kayoub5)|Sep 11|:memo: pcapplusplus|16|Sep 26||uilianries, seladb
@@ -62,14 +62,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|1|Sep 26||uilianries
 [#13135](https://github.com/conan-io/conan-center-index/pull/13135)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: m4|2|Sep 26||uilianries, jwillikers
 [#13136](https://github.com/conan-io/conan-center-index/pull/13136)|[toge](https://github.com/toge)|Sep 24|:memo: base64|1|Sep 26||uilianries
-[#13145](https://github.com/conan-io/conan-center-index/pull/13145)|[chausner](https://github.com/chausner)|Sep 25|:stopwatch: drflac|1|Sep 26||
+[#13145](https://github.com/conan-io/conan-center-index/pull/13145)|[chausner](https://github.com/chausner)|Sep 25|:memo: drflac|1|Sep 26||
 [#13154](https://github.com/conan-io/conan-center-index/pull/13154)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 26|:memo: freeglut|1|Sep 26||uilianries
 [#13156](https://github.com/conan-io/conan-center-index/pull/13156)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 26|:gear: .c3i|1|Sep 26||uilianries
 [#13157](https://github.com/conan-io/conan-center-index/pull/13157)|[toge](https://github.com/toge)|Sep 26|:memo: c4core|1|Sep 26||uilianries
 [#13158](https://github.com/conan-io/conan-center-index/pull/13158)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 26|:memo: 7zip|3|Sep 26||
 [#13161](https://github.com/conan-io/conan-center-index/pull/13161)|[toge](https://github.com/toge)|Sep 26|:memo: parallel-hashmap|0|||
-[#13162](https://github.com/conan-io/conan-center-index/pull/13162)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 26|:stopwatch: catch2|0|||
-[#13163](https://github.com/conan-io/conan-center-index/pull/13163)|[jtbandes](https://github.com/jtbandes)|Sep 26|:stopwatch: mcap|0|||
+[#13162](https://github.com/conan-io/conan-center-index/pull/13162)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 26|:memo: catch2|0|||
+[#13163](https://github.com/conan-io/conan-center-index/pull/13163)|[jtbandes](https://github.com/jtbandes)|Sep 26|:memo: mcap|0|||
 
 
 #### :clipboard: Statistics
@@ -80,7 +80,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Pull Requests:
 	- Open: 210
 	- Draft: 25
-	- Average Age: 70 days, 20 hours, and 0.81 minutes
+	- Average Age: 70 days, 20 hours, and 55.45 minutes
 	- Stop Label: 119
 	
 
