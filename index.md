@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **45** pull requests currently under way :detective:
+There are **46** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -62,6 +62,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|1|Sep 26||uilianries
 [#13135](https://github.com/conan-io/conan-center-index/pull/13135)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: m4|2|Sep 26||uilianries, jwillikers
 [#13136](https://github.com/conan-io/conan-center-index/pull/13136)|[toge](https://github.com/toge)|Sep 24|:memo: base64|1|Sep 26||uilianries
+[#13137](https://github.com/conan-io/conan-center-index/pull/13137)|[planetmarshall](https://github.com/planetmarshall)|Sep 24|:stopwatch: pixman|0|||
 [#13145](https://github.com/conan-io/conan-center-index/pull/13145)|[chausner](https://github.com/chausner)|Sep 25|:memo: drflac|1|Sep 26||
 [#13154](https://github.com/conan-io/conan-center-index/pull/13154)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 26|:memo: freeglut|1|Sep 26||uilianries
 [#13156](https://github.com/conan-io/conan-center-index/pull/13156)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 26|:gear: .c3i|1|Sep 26||uilianries
@@ -78,10 +79,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 210
-	- Draft: 25
-	- Average Age: 70 days, 20 hours, and 55.45 minutes
-	- Stop Label: 119
+	- Open: 212
+	- Draft: 27
+	- Average Age: 70 days, 5 hours, and 54.32 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
