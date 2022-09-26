@@ -28,6 +28,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12835](https://github.com/conan-io/conan-center-index/pull/12835)|[dubvulture](https://github.com/dubvulture)|Sep 5|:memo: libmodbus|2|Sep 16||
+[#12859](https://github.com/conan-io/conan-center-index/pull/12859)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 7|:stopwatch: jemalloc|4|Sep 26||
 [#12881](https://github.com/conan-io/conan-center-index/pull/12881)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 9|:memo: mold|16|Sep 25|uilianries|SSE4, prince-chrismc
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
 [#12946](https://github.com/conan-io/conan-center-index/pull/12946)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|6|Sep 19||prince-chrismc
@@ -44,13 +45,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13072](https://github.com/conan-io/conan-center-index/pull/13072)|[uilianries](https://github.com/uilianries)|Sep 22|:green_book: docs|1|Sep 23||toge
 [#13084](https://github.com/conan-io/conan-center-index/pull/13084)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: libxft|1|Sep 23||
 [#13086](https://github.com/conan-io/conan-center-index/pull/13086)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: libmysqlclient|2|Sep 23||uilianries
-[#13090](https://github.com/conan-io/conan-center-index/pull/13090)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: dbus|2|Sep 23||uilianries
 [#13091](https://github.com/conan-io/conan-center-index/pull/13091)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: bison|4|Sep 23||uilianries
 [#13092](https://github.com/conan-io/conan-center-index/pull/13092)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 22|:gear: .c3i|1|Sep 22||uilianries
 [#13101](https://github.com/conan-io/conan-center-index/pull/13101)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 22|:gear: .github|1|Sep 23||
-[#13107](https://github.com/conan-io/conan-center-index/pull/13107)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 23|:memo: lzma_sdk|1|Sep 23||
+[#13107](https://github.com/conan-io/conan-center-index/pull/13107)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 23|:memo: lzma_sdk|2|Sep 26||uilianries
 [#13109](https://github.com/conan-io/conan-center-index/pull/13109)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: libtiff|2|Sep 24||toge
-[#13110](https://github.com/conan-io/conan-center-index/pull/13110)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: cppcodec|0|||
+[#13110](https://github.com/conan-io/conan-center-index/pull/13110)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: cppcodec|1|Sep 26||uilianries
 [#13111](https://github.com/conan-io/conan-center-index/pull/13111)|[bigerl](https://github.com/bigerl)|Sep 23|:memo: serd|0|||
 [#13112](https://github.com/conan-io/conan-center-index/pull/13112)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: picojson|0|||
 [#13114](https://github.com/conan-io/conan-center-index/pull/13114)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: highfive|0|||
@@ -79,9 +79,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 216
+	- Open: 214
 	- Draft: 25
-	- Average Age: 68 days, 21 hours, and 1.29 minutes
+	- Average Age: 69 days, 13 hours, and 24.84 minutes
 	- Stop Label: 121
 	
 
