@@ -51,36 +51,26 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13107](https://github.com/conan-io/conan-center-index/pull/13107)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 23|:memo: lzma_sdk|2|Sep 26||uilianries
 [#13110](https://github.com/conan-io/conan-center-index/pull/13110)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: cppcodec|1|Sep 26||uilianries
 [#13112](https://github.com/conan-io/conan-center-index/pull/13112)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: picojson|1|Sep 26||uilianries
-[#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:stopwatch: qpdf|0|||
+[#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:new: qpdf|0|||
 [#13114](https://github.com/conan-io/conan-center-index/pull/13114)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: highfive|1|Sep 26||uilianries
-[#13120](https://github.com/conan-io/conan-center-index/pull/13120)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: nlohmann_json|1|Sep 26||uilianries
+[#13120](https://github.com/conan-io/conan-center-index/pull/13120)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: nlohmann_json|1|Sep 26||
 [#13121](https://github.com/conan-io/conan-center-index/pull/13121)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: gtest|0|||
 [#13122](https://github.com/conan-io/conan-center-index/pull/13122)|[fdefelici](https://github.com/fdefelici)|Sep 23|:memo: clove-unit|1|Sep 26||uilianries
-[#13123](https://github.com/conan-io/conan-center-index/pull/13123)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: libjpeg|0|||
+[#13123](https://github.com/conan-io/conan-center-index/pull/13123)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: libjpeg|1|Sep 26||uilianries
 [#13124](https://github.com/conan-io/conan-center-index/pull/13124)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: libalsa|1|Sep 26||uilianries
 [#13125](https://github.com/conan-io/conan-center-index/pull/13125)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: vulkan-headers|1|Sep 26||uilianries
 [#13126](https://github.com/conan-io/conan-center-index/pull/13126)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: godot_headers|1|Sep 26||uilianries
-[#13128](https://github.com/conan-io/conan-center-index/pull/13128)|[chausner](https://github.com/chausner)|Sep 24|:memo: concurrencpp|0|||
-[#13129](https://github.com/conan-io/conan-center-index/pull/13129)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: libuv|0|||
+[#13128](https://github.com/conan-io/conan-center-index/pull/13128)|[chausner](https://github.com/chausner)|Sep 24|:memo: concurrencpp|1|Sep 26||uilianries
+[#13129](https://github.com/conan-io/conan-center-index/pull/13129)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: libuv|1|Sep 26||uilianries
 [#13130](https://github.com/conan-io/conan-center-index/pull/13130)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: libuuid|0|||
-[#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|0|||
-[#13132](https://github.com/conan-io/conan-center-index/pull/13132)|[kayoub5](https://github.com/kayoub5)|Sep 24|:memo: npcap|1|Sep 25||prince-chrismc
+[#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|1|Sep 26||uilianries
 [#13135](https://github.com/conan-io/conan-center-index/pull/13135)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: m4|0|||
 [#13136](https://github.com/conan-io/conan-center-index/pull/13136)|[toge](https://github.com/toge)|Sep 24|:memo: base64|0|||
 [#13145](https://github.com/conan-io/conan-center-index/pull/13145)|[chausner](https://github.com/chausner)|Sep 25|:memo: drflac|0|||
 [#13152](https://github.com/conan-io/conan-center-index/pull/13152)|[uilianries](https://github.com/uilianries)|Sep 26|:memo: gtest|0|||
 [#13154](https://github.com/conan-io/conan-center-index/pull/13154)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 26|:memo: freeglut|0|||
-[#13155](https://github.com/conan-io/conan-center-index/pull/13155)|[uilianries](https://github.com/uilianries)|Sep 26|:stopwatch: libuuid|0|||
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#13109](https://github.com/conan-io/conan-center-index/pull/13109)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: libtiff|3|toge, uilianries
+[#13155](https://github.com/conan-io/conan-center-index/pull/13155)|[uilianries](https://github.com/uilianries)|Sep 26|:memo: libuuid|0|||
+[#13156](https://github.com/conan-io/conan-center-index/pull/13156)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 26|:gear: .c3i|0|||
 
 
 #### :clipboard: Statistics
@@ -89,9 +79,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 213
+	- Open: 212
 	- Draft: 25
-	- Average Age: 69 days, 22 hours, and 12.12 minutes
+	- Average Age: 70 days, 6 hours, and 55.13 minutes
 	- Stop Label: 119
 	
 
