@@ -911,11 +911,18 @@
       "LastCommitAt": "2022-09-27T14:15:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-09-27T21:08:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13176#pullrequestreview-1122699534"
+         }
       }
    },
    {
