@@ -40,9 +40,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13038](https://github.com/conan-io/conan-center-index/pull/13038)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: xz_utils|3|Sep 26||uilianries
 [#13041](https://github.com/conan-io/conan-center-index/pull/13041)|[jfalcou](https://github.com/jfalcou)|Sep 20|:stopwatch: jfalcou-eve|6|Sep 21||
 [#13053](https://github.com/conan-io/conan-center-index/pull/13053)|[mariopil](https://github.com/mariopil)|Sep 21|:stopwatch: boost|0|:eyes:||
-[#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:stopwatch: cppfront|7|Sep 26||
+[#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:new: cppfront|7|Sep 26||
 [#13072](https://github.com/conan-io/conan-center-index/pull/13072)|[uilianries](https://github.com/uilianries)|Sep 22|:green_book: docs|1|Sep 23||toge
-[#13084](https://github.com/conan-io/conan-center-index/pull/13084)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: libxft|2|Sep 26||uilianries
 [#13086](https://github.com/conan-io/conan-center-index/pull/13086)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: libmysqlclient|2|Sep 23||uilianries
 [#13090](https://github.com/conan-io/conan-center-index/pull/13090)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: dbus|6|Sep 26||jwillikers, uilianries
 [#13091](https://github.com/conan-io/conan-center-index/pull/13091)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: bison|4|Sep 23||uilianries
@@ -70,6 +69,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13163](https://github.com/conan-io/conan-center-index/pull/13163)|[jtbandes](https://github.com/jtbandes)|Sep 26|:memo: mcap|0|||
 [#13164](https://github.com/conan-io/conan-center-index/pull/13164)|[chausner](https://github.com/chausner)|Sep 26|:memo: drmp3|0|||
 [#13165](https://github.com/conan-io/conan-center-index/pull/13165)|[chausner](https://github.com/chausner)|Sep 26|:memo: drwav|0|||
+[#13167](https://github.com/conan-io/conan-center-index/pull/13167)|[toge](https://github.com/toge)|Sep 27|:new: fmtlog|0|||
 
 
 #### :clipboard: Statistics
@@ -78,10 +78,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 211
-	- Draft: 25
-	- Average Age: 70 days, 18 hours, and 8.08 minutes
-	- Stop Label: 119
+	- Open: 210
+	- Draft: 26
+	- Average Age: 71 days, 3 hours, and 30.84 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
