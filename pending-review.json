@@ -349,29 +349,6 @@
       }
    },
    {
-      "Number": 13068,
-      "OpenedBy": "fpelliccioni",
-      "CreatedAt": "2022-09-22T07:06:29Z",
-      "Recipe": "cppfront",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13068",
-      "LastCommitSHA": "2b24f7c5200183632bf7eb37f6a2548350e459ca",
-      "LastCommitAt": "2022-09-27T10:04:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-27T09:31:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13068#pullrequestreview-1121627832"
-         }
-      }
-   },
-   {
       "Number": 13072,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-09-22T08:08:54Z",
@@ -504,8 +481,8 @@
       "Recipe": "qpdf",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13113",
-      "LastCommitSHA": "c776ad12924b04acd70fb53a650f0b64071f4a8f",
-      "LastCommitAt": "2022-09-27T12:29:32Z",
+      "LastCommitSHA": "cf2fbed436b93d6e53d76466c0a177b4f88aa75b",
+      "LastCommitAt": "2022-09-27T12:37:24Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
@@ -847,7 +824,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13173",
       "LastCommitSHA": "431f95640e22750235c78063961aceb4f7856da7",
       "LastCommitAt": "2022-09-27T10:55:12Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
