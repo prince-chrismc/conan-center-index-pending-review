@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **45** pull requests currently under way :detective:
+There are **47** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -70,6 +70,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13164](https://github.com/conan-io/conan-center-index/pull/13164)|[chausner](https://github.com/chausner)|Sep 26|:memo: drmp3|0|||
 [#13165](https://github.com/conan-io/conan-center-index/pull/13165)|[chausner](https://github.com/chausner)|Sep 26|:memo: drwav|0|||
 [#13167](https://github.com/conan-io/conan-center-index/pull/13167)|[toge](https://github.com/toge)|Sep 27|:new: fmtlog|0|||
+[#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|0|||
+[#13170](https://github.com/conan-io/conan-center-index/pull/13170)|[toge](https://github.com/toge)|Sep 27|:stopwatch: svector|0|||
 
 
 #### :clipboard: Statistics
@@ -78,9 +80,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 210
+	- Open: 212
 	- Draft: 26
-	- Average Age: 71 days, 3 hours, and 30.84 minutes
+	- Average Age: 70 days, 12 hours, and 23.28 minutes
 	- Stop Label: 117
 	
 
