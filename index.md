@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,12 +46,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13091](https://github.com/conan-io/conan-center-index/pull/13091)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 22|:memo: bison|5|Sep 27||uilianries, jwillikers
 [#13092](https://github.com/conan-io/conan-center-index/pull/13092)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 22|:gear: .c3i|1|Sep 22||uilianries
 [#13101](https://github.com/conan-io/conan-center-index/pull/13101)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 22|:gear: .github|2|Sep 26||uilianries
-[#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:new: qpdf|2|Sep 27||
 [#13125](https://github.com/conan-io/conan-center-index/pull/13125)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: vulkan-headers|1|Sep 26||uilianries
 [#13128](https://github.com/conan-io/conan-center-index/pull/13128)|[chausner](https://github.com/chausner)|Sep 24|:memo: concurrencpp|1|Sep 26||uilianries
 [#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|1|Sep 26||uilianries
 [#13135](https://github.com/conan-io/conan-center-index/pull/13135)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: m4|2|Sep 26||uilianries, jwillikers
 [#13136](https://github.com/conan-io/conan-center-index/pull/13136)|[toge](https://github.com/toge)|Sep 24|:memo: base64|1|Sep 26||uilianries
+[#13137](https://github.com/conan-io/conan-center-index/pull/13137)|[planetmarshall](https://github.com/planetmarshall)|Sep 24|:stopwatch: pixman|0|||
 [#13145](https://github.com/conan-io/conan-center-index/pull/13145)|[chausner](https://github.com/chausner)|Sep 25|:memo: drflac|2|Sep 27||
 [#13154](https://github.com/conan-io/conan-center-index/pull/13154)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 26|:memo: freeglut|2|Sep 27||uilianries, jwillikers
 [#13156](https://github.com/conan-io/conan-center-index/pull/13156)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 26|:gear: .c3i|1|Sep 26||uilianries
@@ -61,11 +61,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13164](https://github.com/conan-io/conan-center-index/pull/13164)|[chausner](https://github.com/chausner)|Sep 26|:memo: drmp3|1|Sep 27||
 [#13165](https://github.com/conan-io/conan-center-index/pull/13165)|[chausner](https://github.com/chausner)|Sep 26|:memo: drwav|1|Sep 27||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
-[#13172](https://github.com/conan-io/conan-center-index/pull/13172)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 27|:memo: odbc|0|||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|0|||
 [#13176](https://github.com/conan-io/conan-center-index/pull/13176)|[uilianries](https://github.com/uilianries)|Sep 27|:memo: nettle|1|Sep 27||jwillikers
 [#13177](https://github.com/conan-io/conan-center-index/pull/13177)|[planetmarshall](https://github.com/planetmarshall)|Sep 27|:memo: glib|1|Sep 27||
-[#13180](https://github.com/conan-io/conan-center-index/pull/13180)|[toge](https://github.com/toge)|Sep 27|:memo: osmanip|0|||
+[#13180](https://github.com/conan-io/conan-center-index/pull/13180)|[toge](https://github.com/toge)|Sep 27|:memo: osmanip|1|Sep 28||jgsogo
 
 
 #### :clipboard: Statistics
@@ -76,7 +75,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Pull Requests:
 	- Open: 213
 	- Draft: 28
-	- Average Age: 70 days, 16 hours, and 41.90 minutes
+	- Average Age: 70 days, 23 hours, and 40.68 minutes
 	- Stop Label: 123
 	
 
