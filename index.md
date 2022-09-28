@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **23** pull requests currently under way :detective:
+There are **22** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,18 +36,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12999](https://github.com/conan-io/conan-center-index/pull/12999)|[toge](https://github.com/toge)|Sep 18|:memo: arrow|1|Sep 27||uilianries
 [#13008](https://github.com/conan-io/conan-center-index/pull/13008)|[madhat1](https://github.com/madhat1)|Sep 19|:memo: mosquitto|4|Sep 28||uilianries
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|:eyes:||
-[#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|0|||
 [#13053](https://github.com/conan-io/conan-center-index/pull/13053)|[mariopil](https://github.com/mariopil)|Sep 21|:stopwatch: boost|0|:eyes:||
 [#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|2|Sep 28||
-[#13137](https://github.com/conan-io/conan-center-index/pull/13137)|[planetmarshall](https://github.com/planetmarshall)|Sep 24|:stopwatch: pixman|0|||
+[#13137](https://github.com/conan-io/conan-center-index/pull/13137)|[planetmarshall](https://github.com/planetmarshall)|Sep 24|:memo: pixman|0|||
 [#13145](https://github.com/conan-io/conan-center-index/pull/13145)|[chausner](https://github.com/chausner)|Sep 25|:memo: drflac|4|Sep 28||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|0|||
-[#13174](https://github.com/conan-io/conan-center-index/pull/13174)|[planetmarshall](https://github.com/planetmarshall)|Sep 27|:stopwatch: gdk-pixbuf|0|||
 [#13187](https://github.com/conan-io/conan-center-index/pull/13187)|[toge](https://github.com/toge)|Sep 28|:memo: trantor|1|Sep 28||jwillikers
 [#13198](https://github.com/conan-io/conan-center-index/pull/13198)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 28|:memo: diligent-core|1|Sep 28||jwillikers
 [#13199](https://github.com/conan-io/conan-center-index/pull/13199)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:memo: mozilla-build|1|Sep 28||jwillikers
 [#13203](https://github.com/conan-io/conan-center-index/pull/13203)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:memo: xorg-proto|1|Sep 28||jwillikers
+[#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|||
 
 
 #### :clipboard: Statistics
@@ -56,10 +55,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 195
+	- Open: 197
 	- Draft: 28
-	- Average Age: 76 days, 18 hours, and 49.99 minutes
-	- Stop Label: 124
+	- Average Age: 76 days, 1 hours, and 3.95 minutes
+	- Stop Label: 127
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
