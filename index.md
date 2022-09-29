@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **15** pull requests currently under way :detective:
+There are **17** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -35,11 +35,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|0|||
 [#13187](https://github.com/conan-io/conan-center-index/pull/13187)|[toge](https://github.com/toge)|Sep 28|:memo: trantor|7|Sep 29||jwillikers
+[#13202](https://github.com/conan-io/conan-center-index/pull/13202)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:stopwatch: nspr|4|Sep 29||jwillikers
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|||
 [#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|4|Sep 29||prince-chrismc
 [#13208](https://github.com/conan-io/conan-center-index/pull/13208)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|1|Sep 29||jwillikers
 [#13209](https://github.com/conan-io/conan-center-index/pull/13209)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|0|||
 [#13210](https://github.com/conan-io/conan-center-index/pull/13210)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|1|Sep 29||jwillikers
+[#13213](https://github.com/conan-io/conan-center-index/pull/13213)|[jpilet](https://github.com/jpilet)|Sep 29|:stopwatch: gdal|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -60,10 +62,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 195
-	- Draft: 27
-	- Average Age: 75 days, 19 hours, and 58.85 minutes
-	- Stop Label: 123
+	- Open: 197
+	- Draft: 28
+	- Average Age: 75 days, 2 hours, and 23.43 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
