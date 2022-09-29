@@ -251,24 +251,6 @@
       }
    },
    {
-      "Number": 13174,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2022-09-27T13:01:39Z",
-      "Recipe": "gdk-pixbuf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13174",
-      "LastCommitSHA": "fa64e41e3f8f1526eb147d8e3169764c87374526",
-      "LastCommitAt": "2022-09-29T09:49:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13187,
       "OpenedBy": "toge",
       "CreatedAt": "2022-09-28T02:29:52Z",
@@ -277,7 +259,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13187",
       "LastCommitSHA": "dacc6fd42e7fdb46f6a822a81bbb50a85c7065e5",
       "LastCommitAt": "2022-09-29T17:04:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 1,
@@ -290,29 +272,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2022-09-29T17:10:49Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13187#pullrequestreview-1125705339"
-         }
-      }
-   },
-   {
-      "Number": 13194,
-      "OpenedBy": "ivmai",
-      "CreatedAt": "2022-09-28T11:51:48Z",
-      "Recipe": "bdwgc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13194",
-      "LastCommitSHA": "ea78ca20109856e36b568b5ac1f94d4a9abca093",
-      "LastCommitAt": "2022-09-29T15:48:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-29T15:10:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13194#pullrequestreview-1125493934"
          }
       }
    },
