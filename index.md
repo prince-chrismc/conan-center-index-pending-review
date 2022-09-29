@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **17** pull requests currently under way :detective:
+There are **18** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -35,6 +35,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|0|||
 [#13187](https://github.com/conan-io/conan-center-index/pull/13187)|[toge](https://github.com/toge)|Sep 28|:memo: trantor|7|Sep 29||jwillikers
+[#13194](https://github.com/conan-io/conan-center-index/pull/13194)|[ivmai](https://github.com/ivmai)|Sep 28|:stopwatch: bdwgc|2|Sep 29||
 [#13202](https://github.com/conan-io/conan-center-index/pull/13202)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:stopwatch: nspr|4|Sep 29||jwillikers
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|||
 [#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|4|Sep 29||prince-chrismc
@@ -63,8 +64,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
 	- Open: 197
-	- Draft: 28
-	- Average Age: 75 days, 2 hours, and 23.43 minutes
+	- Draft: 27
+	- Average Age: 75 days, 3 hours, and 24.79 minutes
 	- Stop Label: 122
 	
 
