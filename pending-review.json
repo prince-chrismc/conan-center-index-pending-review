@@ -256,7 +256,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13113",
       "LastCommitSHA": "6787b80bdf73f071e59fd7a79bbf66841b06bde6",
       "LastCommitAt": "2022-09-29T08:06:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -376,24 +376,6 @@
       }
    },
    {
-      "Number": 13174,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2022-09-27T13:01:39Z",
-      "Recipe": "gdk-pixbuf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13174",
-      "LastCommitSHA": "d21e646950d72c791ab6601af564977947538189",
-      "LastCommitAt": "2022-09-28T10:04:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13198,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-09-28T13:45:58Z",
@@ -495,6 +477,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13206",
       "LastCommitSHA": "825bb3a3fa173c1fc17e14d8062141678e42cb5b",
       "LastCommitAt": "2022-09-29T03:06:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13208,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-09-29T09:15:49Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13208",
+      "LastCommitSHA": "bec000b4ec3d5df74fbe18e9dcb72b9c7d986a2a",
+      "LastCommitAt": "2022-09-29T09:15:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13209,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-09-29T09:22:39Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13209",
+      "LastCommitSHA": "2c5e280cd3e6c6561c0ecf2cdd81b40b7e4794d3",
+      "LastCommitAt": "2022-09-29T09:22:32Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
