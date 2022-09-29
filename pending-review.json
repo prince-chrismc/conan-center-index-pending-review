@@ -90,17 +90,14 @@
       "Recipe": "mold",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12881",
-      "LastCommitSHA": "1e407af0ca050e30b5a35b973adfa080ad394468",
-      "LastCommitAt": "2022-09-22T19:00:26Z",
+      "LastCommitSHA": "0254b6ea3e8a29a938d68f879e0930af88866160",
+      "LastCommitAt": "2022-09-29T06:35:30Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 16,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [
             "uilianries"
          ],
