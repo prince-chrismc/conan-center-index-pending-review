@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **23** pull requests currently under way :detective:
+There are **22** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -42,12 +42,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13145](https://github.com/conan-io/conan-center-index/pull/13145)|[chausner](https://github.com/chausner)|Sep 25|:memo: drflac|4|Sep 28||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|0|||
-[#13187](https://github.com/conan-io/conan-center-index/pull/13187)|[toge](https://github.com/toge)|Sep 28|:stopwatch: trantor|1|Sep 28||
-[#13196](https://github.com/conan-io/conan-center-index/pull/13196)|[toge](https://github.com/toge)|Sep 28|:stopwatch: usockets|0|||
 [#13198](https://github.com/conan-io/conan-center-index/pull/13198)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 28|:memo: diligent-core|1|Sep 28||jwillikers
 [#13199](https://github.com/conan-io/conan-center-index/pull/13199)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:memo: mozilla-build|1|Sep 28||jwillikers
 [#13203](https://github.com/conan-io/conan-center-index/pull/13203)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:memo: xorg-proto|1|Sep 28||jwillikers
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|0|||
+[#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|0|||
 
 
 #### :clipboard: Statistics
@@ -58,7 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Pull Requests:
 	- Open: 197
 	- Draft: 28
-	- Average Age: 76 days, 5 hours, and 38.43 minutes
+	- Average Age: 76 days, 8 hours, and 5.75 minutes
 	- Stop Label: 126
 	
 
