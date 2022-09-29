@@ -284,17 +284,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13194",
       "LastCommitSHA": "5ae6b819b6adf739761c77c3e8a5b51e3adeabc7",
       "LastCommitAt": "2022-09-29T19:45:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 6,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-09-29T18:09:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13194#pullrequestreview-1125781604"
+            "SubmittedAt": "2022-09-29T20:32:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13194#pullrequestreview-1125962271"
          }
       }
    },
@@ -307,7 +309,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13202",
       "LastCommitSHA": "cb079ad1d248355c4109d6ae9f5d288951a373f5",
       "LastCommitAt": "2022-09-29T18:38:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
@@ -402,11 +404,16 @@
       "LastCommitAt": "2022-09-29T19:26:02Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-09-29T20:46:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13209#pullrequestreview-1125963959"
+         }
       }
    },
    {
