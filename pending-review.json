@@ -410,8 +410,8 @@
       "Recipe": "usockets",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13196",
-      "LastCommitSHA": "aaee2ee961befe7c559eed817d75c0c639ca2d80",
-      "LastCommitAt": "2022-09-29T01:26:12Z",
+      "LastCommitSHA": "df67ed2980f782f7b74474fb3e258f59ad4a4c08",
+      "LastCommitAt": "2022-09-29T01:44:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
