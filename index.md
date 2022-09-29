@@ -32,30 +32,28 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
 [#12946](https://github.com/conan-io/conan-center-index/pull/12946)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|6|Sep 19||prince-chrismc
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|:eyes:||
-[#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|2|Sep 28||
+[#13131](https://github.com/conan-io/conan-center-index/pull/13131)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: odbc|3|Sep 29||uilianries
 [#13137](https://github.com/conan-io/conan-center-index/pull/13137)|[planetmarshall](https://github.com/planetmarshall)|Sep 24|:memo: pixman|0|||
 [#13145](https://github.com/conan-io/conan-center-index/pull/13145)|[chausner](https://github.com/chausner)|Sep 25|:memo: drflac|4|Sep 28||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|0|||
 [#13174](https://github.com/conan-io/conan-center-index/pull/13174)|[planetmarshall](https://github.com/planetmarshall)|Sep 27|:memo: gdk-pixbuf|0|||
+[#13202](https://github.com/conan-io/conan-center-index/pull/13202)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:stopwatch: nspr|1|Sep 28||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|||
-[#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|0|||
+[#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|4|Sep 29||prince-chrismc
 [#13208](https://github.com/conan-io/conan-center-index/pull/13208)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|1|Sep 29||jwillikers
 [#13209](https://github.com/conan-io/conan-center-index/pull/13209)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|0|||
 [#13210](https://github.com/conan-io/conan-center-index/pull/13210)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|1|Sep 29||jwillikers
-[#13211](https://github.com/conan-io/conan-center-index/pull/13211)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 29|:stopwatch: diligent-tools|0|||
-[#13215](https://github.com/conan-io/conan-center-index/pull/13215)|[vvarma](https://github.com/vvarma)|Sep 29|:stopwatch: opencv|0|||
+[#13213](https://github.com/conan-io/conan-center-index/pull/13213)|[jpilet](https://github.com/jpilet)|Sep 29|:stopwatch: gdal|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#13199](https://github.com/conan-io/conan-center-index/pull/13199)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:memo: mozilla-build|2|jwillikers, prince-chrismc
-[#13203](https://github.com/conan-io/conan-center-index/pull/13203)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:memo: xorg-proto|2|jwillikers, prince-chrismc
 [#13212](https://github.com/conan-io/conan-center-index/pull/13212)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 29|:gear: .c3i|2|AndreyMlashkin, prince-chrismc
 
 
@@ -66,8 +64,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
 	- Open: 195
-	- Draft: 28
-	- Average Age: 75 days, 16 hours, and 15.88 minutes
+	- Draft: 27
+	- Average Age: 75 days, 16 hours, and 53.42 minutes
 	- Stop Label: 121
 	
 
