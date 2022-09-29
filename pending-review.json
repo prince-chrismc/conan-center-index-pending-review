@@ -59,31 +59,6 @@
       }
    },
    {
-      "Number": 12859,
-      "OpenedBy": "fpelliccioni",
-      "CreatedAt": "2022-09-07T11:33:26Z",
-      "Recipe": "jemalloc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12859",
-      "LastCommitSHA": "dc2fdb7b7f260def2808694f11e9d12f6631a898",
-      "LastCommitAt": "2022-09-26T17:52:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-27T09:05:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12859#pullrequestreview-1121591544"
-         }
-      }
-   },
-   {
       "Number": 12881,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-09-09T10:08:45Z",
@@ -142,23 +117,38 @@
       "Recipe": "pcapplusplus",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12900",
-      "LastCommitSHA": "0a2ee7f9ab8f41a2e8c8e4a8f16755fcf3ed6b7f",
-      "LastCommitAt": "2022-09-23T14:49:11Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "b8af0920e69d9874c030c182a70bfa1b4cf855c3",
+      "LastCommitAt": "2022-09-29T10:17:24Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 16,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "seladb"
-         ],
+         "Count": 17,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [],
          "LastReview": {
-            "ReviewerName": "seladb",
-            "SubmittedAt": "2022-09-26T15:58:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12900#pullrequestreview-1120510748"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-09-29T09:53:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12900#pullrequestreview-1124989351"
          }
+      }
+   },
+   {
+      "Number": 12906,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-09-12T09:00:39Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12906",
+      "LastCommitSHA": "608d1b2a5266d61364f5a52dcc9b039048ab7175",
+      "LastCommitAt": "2022-09-29T09:15:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -197,17 +187,18 @@
       "LastCommitAt": "2022-09-24T16:23:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-27T08:15:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12999#pullrequestreview-1121501253"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-09-29T10:01:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12999#pullrequestreview-1124999702"
          }
       }
    },
@@ -376,6 +367,24 @@
       }
    },
    {
+      "Number": 13174,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2022-09-27T13:01:39Z",
+      "Recipe": "gdk-pixbuf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13174",
+      "LastCommitSHA": "fa64e41e3f8f1526eb147d8e3169764c87374526",
+      "LastCommitAt": "2022-09-29T09:49:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13198,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-09-28T13:45:58Z",
@@ -386,17 +395,18 @@
       "LastCommitAt": "2022-09-28T15:13:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-09-28T16:55:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13198#pullrequestreview-1124057984"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-09-29T10:08:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13198#pullrequestreview-1125012869"
          }
       }
    },
@@ -513,6 +523,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13209",
       "LastCommitSHA": "2c5e280cd3e6c6561c0ecf2cdd81b40b7e4794d3",
       "LastCommitAt": "2022-09-29T09:22:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13210,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-09-29T09:32:46Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13210",
+      "LastCommitSHA": "02f78d8b307a2fea1b78259cf51f1c24e48d63f2",
+      "LastCommitAt": "2022-09-29T09:32:37Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
