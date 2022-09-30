@@ -44,7 +44,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12371",
       "LastCommitSHA": "3ece342aeaba68b47747a03ebb56ccd360257f6c",
       "LastCommitAt": "2022-09-30T19:35:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -157,31 +157,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-09-22T16:13:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12902#pullrequestreview-1117338215"
-         }
-      }
-   },
-   {
-      "Number": 12946,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2022-09-14T11:36:04Z",
-      "Recipe": "docs",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12946",
-      "LastCommitSHA": "8e79ee370c2b6cd2477c2639d5dd9abb8c5fde04",
-      "LastCommitAt": "2022-09-19T10:49:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-09-19T17:24:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12946#pullrequestreview-1112616879"
          }
       }
    },
@@ -466,11 +441,18 @@
       "LastCommitAt": "2022-09-30T17:23:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-09-30T21:33:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13242#pullrequestreview-1127380058"
+         }
       }
    }
 ]
