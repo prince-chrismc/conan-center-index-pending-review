@@ -21,41 +21,37 @@
 
 ### :nerd_face: Please Review! 
 
-There are **20** pull requests currently under way :detective:
+There are **17** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:memo: imagemagick|1|Sep 29||
+[#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:stopwatch: imagemagick|1|Sep 29||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|2|Sep 30|uilianries|
 [#12881](https://github.com/conan-io/conan-center-index/pull/12881)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 9|:memo: mold|21|Sep 30|uilianries|ericriff
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
 [#12946](https://github.com/conan-io/conan-center-index/pull/12946)|[uilianries](https://github.com/uilianries)|Sep 14|:green_book: docs|6|Sep 19||prince-chrismc
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|:eyes:||
-[#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|1|Sep 30||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|||
 [#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|9|Sep 30||prince-chrismc
 [#13209](https://github.com/conan-io/conan-center-index/pull/13209)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|1|Sep 29||
-[#13213](https://github.com/conan-io/conan-center-index/pull/13213)|[jpilet](https://github.com/jpilet)|Sep 29|:memo: gdal|2|Sep 30||uilianries
+[#13213](https://github.com/conan-io/conan-center-index/pull/13213)|[jpilet](https://github.com/jpilet)|Sep 29|:memo: gdal|3|Sep 30||uilianries
 [#13225](https://github.com/conan-io/conan-center-index/pull/13225)|[ericriff](https://github.com/ericriff)|Sep 30|:stopwatch: opengv|0|||
-[#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|2|Sep 30||jwillikers
-[#13230](https://github.com/conan-io/conan-center-index/pull/13230)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 30|:green_book: docs|2|Sep 30||prince-chrismc
-[#13237](https://github.com/conan-io/conan-center-index/pull/13237)|[jwillikers](https://github.com/jwillikers)|Sep 30|:green_book: docs|3|Sep 30||
-[#13240](https://github.com/conan-io/conan-center-index/pull/13240)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: catch2|0|||
+[#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
+[#13237](https://github.com/conan-io/conan-center-index/pull/13237)|[jwillikers](https://github.com/jwillikers)|Sep 30|:green_book: docs|6|Sep 30||
 [#13242](https://github.com/conan-io/conan-center-index/pull/13242)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:stopwatch: libmodbus|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13212](https://github.com/conan-io/conan-center-index/pull/13212)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 29|:gear: .c3i|3|AndreyMlashkin, prince-chrismc, uilianries
-[#13233](https://github.com/conan-io/conan-center-index/pull/13233)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 30|:memo: freetype|2|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -64,10 +60,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 196
-	- Draft: 30
-	- Average Age: 76 days, 2 hours, and 33.72 minutes
-	- Stop Label: 124
+	- Open: 193
+	- Draft: 29
+	- Average Age: 77 days, 7 hours, and 58.27 minutes
+	- Stop Label: 126
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
