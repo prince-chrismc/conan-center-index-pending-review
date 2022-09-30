@@ -36,29 +36,6 @@
       }
    },
    {
-      "Number": 12371,
-      "OpenedBy": "hesham-essam",
-      "CreatedAt": "2022-08-19T00:57:37Z",
-      "Recipe": "imagemagick",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12371",
-      "LastCommitSHA": "54f30feb5ed7819a0fa568f97c03288071fb1743",
-      "LastCommitAt": "2022-09-30T17:12:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-29T15:27:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12371#pullrequestreview-1125524091"
-         }
-      }
-   },
-   {
       "Number": 12747,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2022-09-01T07:58:07Z",
@@ -200,6 +177,31 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-09-27T14:11:13Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13169#pullrequestreview-1122075340"
+         }
+      }
+   },
+   {
+      "Number": 13173,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2022-09-27T10:59:03Z",
+      "Recipe": "gdcm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13173",
+      "LastCommitSHA": "83999a085cf3a5da51efaa8745465bc8879142d5",
+      "LastCommitAt": "2022-09-30T17:45:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "uilianries"
+         ],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-09-30T14:29:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13173#pullrequestreview-1126915034"
          }
       }
    },
@@ -398,7 +400,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13242",
       "LastCommitSHA": "b78b96d5c3840330020204b722d4c697e8c9e669",
       "LastCommitAt": "2022-09-30T17:23:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
