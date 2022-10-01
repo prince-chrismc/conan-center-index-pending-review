@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13213](https://github.com/conan-io/conan-center-index/pull/13213)|[jpilet](https://github.com/jpilet)|Sep 29|:memo: gdal|3|Sep 30||uilianries
 [#13225](https://github.com/conan-io/conan-center-index/pull/13225)|[ericriff](https://github.com/ericriff)|Sep 30|:stopwatch: opengv|0|||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
-[#13237](https://github.com/conan-io/conan-center-index/pull/13237)|[jwillikers](https://github.com/jwillikers)|Sep 30|:green_book: docs|6|Sep 30||
+[#13237](https://github.com/conan-io/conan-center-index/pull/13237)|[jwillikers](https://github.com/jwillikers)|Sep 30|:green_book: docs|7|Oct 1||
 [#13242](https://github.com/conan-io/conan-center-index/pull/13242)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: libmodbus|1|Sep 30||jwillikers
 
 
@@ -63,10 +63,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 194
+	- Open: 193
 	- Draft: 31
-	- Average Age: 77 days, 15 hours, and 20.40 minutes
-	- Stop Label: 126
+	- Average Age: 77 days, 22 hours, and 59.20 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
