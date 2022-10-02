@@ -31,7 +31,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|2|Sep 30|uilianries|
 [#12881](https://github.com/conan-io/conan-center-index/pull/12881)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 9|:memo: mold|21|Sep 30|uilianries|ericriff
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
-[#12900](https://github.com/conan-io/conan-center-index/pull/12900)|[kayoub5](https://github.com/kayoub5)|Sep 11|:memo: pcapplusplus|18|Sep 29||
 [#13036](https://github.com/conan-io/conan-center-index/pull/13036)|[uilianries](https://github.com/uilianries)|Sep 20|:stopwatch: imutils-cpp|0|:eyes:||
 [#13106](https://github.com/conan-io/conan-center-index/pull/13106)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 23|:memo: nss|0|||
 [#13167](https://github.com/conan-io/conan-center-index/pull/13167)|[toge](https://github.com/toge)|Sep 27|:new: fmtlog|2|Sep 30||
@@ -45,7 +44,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13213](https://github.com/conan-io/conan-center-index/pull/13213)|[jpilet](https://github.com/jpilet)|Sep 29|:memo: gdal|3|Sep 30||uilianries
 [#13225](https://github.com/conan-io/conan-center-index/pull/13225)|[ericriff](https://github.com/ericriff)|Sep 30|:stopwatch: opengv|0|||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
-[#13237](https://github.com/conan-io/conan-center-index/pull/13237)|[jwillikers](https://github.com/jwillikers)|Sep 30|:green_book: docs|7|Oct 1||
+[#13237](https://github.com/conan-io/conan-center-index/pull/13237)|[jwillikers](https://github.com/jwillikers)|Sep 30|:green_book: docs|8|Oct 2||prince-chrismc
 [#13242](https://github.com/conan-io/conan-center-index/pull/13242)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: libmodbus|1|Sep 30||jwillikers
 [#13250](https://github.com/conan-io/conan-center-index/pull/13250)|[toge](https://github.com/toge)|Oct 1|:memo: xbyak|0|||
 [#13253](https://github.com/conan-io/conan-center-index/pull/13253)|[toge](https://github.com/toge)|Oct 1|:memo: arsenalgear|0|||
@@ -53,8 +52,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13258](https://github.com/conan-io/conan-center-index/pull/13258)|[SpaceIm](https://github.com/SpaceIm)|Oct 1|:memo: dbus|0|||
 [#13261](https://github.com/conan-io/conan-center-index/pull/13261)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: libspng|0|||
 [#13262](https://github.com/conan-io/conan-center-index/pull/13262)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: pngpp|0|||
-[#13264](https://github.com/conan-io/conan-center-index/pull/13264)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:stopwatch: vcglib|0|||
-[#13265](https://github.com/conan-io/conan-center-index/pull/13265)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:stopwatch: vc|0|||
+[#13264](https://github.com/conan-io/conan-center-index/pull/13264)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: vcglib|0|||
+[#13265](https://github.com/conan-io/conan-center-index/pull/13265)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: vc|0|||
+[#13267](https://github.com/conan-io/conan-center-index/pull/13267)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:stopwatch: sokol|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -73,9 +73,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 202
-	- Draft: 31
-	- Average Age: 75 days, 9 hours, and 16.53 minutes
+	- Open: 204
+	- Draft: 32
+	- Average Age: 74 days, 16 hours, and 35.45 minutes
 	- Stop Label: 124
 	
 
