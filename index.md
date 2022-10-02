@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -56,6 +56,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13265](https://github.com/conan-io/conan-center-index/pull/13265)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: vc|0|||
 [#13266](https://github.com/conan-io/conan-center-index/pull/13266)|[bobrofon](https://github.com/bobrofon)|Oct 2|:memo: libsystemd|0|||
 [#13267](https://github.com/conan-io/conan-center-index/pull/13267)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: sokol|0|||
+[#13269](https://github.com/conan-io/conan-center-index/pull/13269)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: libtasn1|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -76,8 +77,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 204
 	- Draft: 31
-	- Average Age: 74 days, 20 hours, and 58.60 minutes
-	- Stop Label: 125
+	- Average Age: 74 days, 21 hours, and 53.08 minutes
+	- Stop Label: 124
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
