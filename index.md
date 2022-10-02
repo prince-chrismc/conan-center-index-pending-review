@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **26** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,7 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
 [#13170](https://github.com/conan-io/conan-center-index/pull/13170)|[toge](https://github.com/toge)|Sep 27|:new: svector|2|Sep 27||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|4|Sep 30|uilianries|
-[#13174](https://github.com/conan-io/conan-center-index/pull/13174)|[planetmarshall](https://github.com/planetmarshall)|Sep 27|:stopwatch: gdk-pixbuf|7|Oct 1||
+[#13174](https://github.com/conan-io/conan-center-index/pull/13174)|[planetmarshall](https://github.com/planetmarshall)|Sep 27|:memo: gdk-pixbuf|7|Oct 1||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|:eyes:||
 [#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|9|Sep 30||prince-chrismc
 [#13209](https://github.com/conan-io/conan-center-index/pull/13209)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|3|Oct 1||jwillikers
@@ -51,6 +51,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13253](https://github.com/conan-io/conan-center-index/pull/13253)|[toge](https://github.com/toge)|Oct 1|:memo: arsenalgear|0|||
 [#13255](https://github.com/conan-io/conan-center-index/pull/13255)|[SpaceIm](https://github.com/SpaceIm)|Oct 1|:memo: nettle|0|||
 [#13258](https://github.com/conan-io/conan-center-index/pull/13258)|[SpaceIm](https://github.com/SpaceIm)|Oct 1|:memo: dbus|0|||
+[#13261](https://github.com/conan-io/conan-center-index/pull/13261)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: libspng|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -69,9 +70,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 8100d388d410caece5df1c9f9899da5756f07a86
 - Pull Requests:
-	- Open: 197
+	- Open: 198
 	- Draft: 31
-	- Average Age: 77 days, 3 hours, and 55.39 minutes
+	- Average Age: 76 days, 19 hours, and 33.75 minutes
 	- Stop Label: 123
 	
 
