@@ -677,5 +677,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13269,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-02T14:26:45Z",
+      "Recipe": "libtasn1",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13269",
+      "LastCommitSHA": "c5eacb6d457182cea1176accb793a12d464961a3",
+      "LastCommitAt": "2022-10-02T18:31:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
