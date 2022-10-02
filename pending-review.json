@@ -386,31 +386,6 @@
       }
    },
    {
-      "Number": 13213,
-      "OpenedBy": "jpilet",
-      "CreatedAt": "2022-09-29T12:42:15Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13213",
-      "LastCommitSHA": "dd9514885faa390bb35c4bec531e15dffff2ea3a",
-      "LastCommitAt": "2022-09-29T19:15:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-09-30T16:54:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13213#pullrequestreview-1127109442"
-         }
-      }
-   },
-   {
       "Number": 13225,
       "OpenedBy": "ericriff",
       "CreatedAt": "2022-09-30T02:03:31Z",
@@ -650,6 +625,24 @@
       }
    },
    {
+      "Number": 13266,
+      "OpenedBy": "bobrofon",
+      "CreatedAt": "2022-10-02T12:37:54Z",
+      "Recipe": "libsystemd",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13266",
+      "LastCommitSHA": "da0d06584f546d8d9784d67168485198211e19b9",
+      "LastCommitAt": "2022-10-02T12:31:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13267,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-10-02T13:28:58Z",
@@ -658,7 +651,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13267",
       "LastCommitSHA": "0839d80a5440364f54b73b7da71b92d9ed607172",
       "LastCommitAt": "2022-10-02T13:28:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
