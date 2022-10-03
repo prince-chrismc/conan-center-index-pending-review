@@ -179,29 +179,6 @@
       }
    },
    {
-      "Number": 13048,
-      "OpenedBy": "fpelliccioni",
-      "CreatedAt": "2022-09-20T20:49:34Z",
-      "Recipe": "stlab",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13048",
-      "LastCommitSHA": "d042566c06a5f6420bd2042e19459892bab80cd7",
-      "LastCommitAt": "2022-10-03T08:23:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-02T13:49:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13048#pullrequestreview-1127646454"
-         }
-      }
-   },
-   {
       "Number": 13106,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2022-09-23T08:44:24Z",
