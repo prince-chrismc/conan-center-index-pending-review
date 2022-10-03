@@ -614,7 +614,7 @@
       "Recipe": "libical",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13288",
-      "LastCommitSHA": "30a8eebf5e72f4673170edbe8a9334d9d9b5fcad",
+      "LastCommitSHA": "ad4bab3ffa977f9ce922342e1be3c27fbc890a77",
       "LastCommitAt": "2022-10-03T16:54:24Z",
       "CciBotPassed": false,
       "Summary": {
