@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **30** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -42,7 +42,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13225](https://github.com/conan-io/conan-center-index/pull/13225)|[ericriff](https://github.com/ericriff)|Sep 30|:stopwatch: opengv|0|||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
 [#13237](https://github.com/conan-io/conan-center-index/pull/13237)|[jwillikers](https://github.com/jwillikers)|Sep 30|:green_book: docs|8|Oct 2||prince-chrismc
-[#13242](https://github.com/conan-io/conan-center-index/pull/13242)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: libmodbus|3|Oct 2||jwillikers
 [#13250](https://github.com/conan-io/conan-center-index/pull/13250)|[toge](https://github.com/toge)|Oct 1|:memo: xbyak|0|||
 [#13253](https://github.com/conan-io/conan-center-index/pull/13253)|[toge](https://github.com/toge)|Oct 1|:memo: arsenalgear|0|||
 [#13255](https://github.com/conan-io/conan-center-index/pull/13255)|[SpaceIm](https://github.com/SpaceIm)|Oct 1|:memo: nettle|0|||
@@ -60,12 +59,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13212](https://github.com/conan-io/conan-center-index/pull/13212)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 29|:gear: .c3i|3|AndreyMlashkin, prince-chrismc, uilianries
+[#13242](https://github.com/conan-io/conan-center-index/pull/13242)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: libmodbus|5|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -76,7 +76,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 206
 	- Draft: 33
-	- Average Age: 74 days, 11 hours, and 29.15 minutes
+	- Average Age: 74 days, 15 hours, and 28.94 minutes
 	- Stop Label: 125
 	
 
