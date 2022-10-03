@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **32** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,8 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13170](https://github.com/conan-io/conan-center-index/pull/13170)|[toge](https://github.com/toge)|Sep 27|:new: svector|2|Sep 27||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|4|Sep 30|uilianries|
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|:eyes:||
-[#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|9|Sep 30||prince-chrismc
-[#13209](https://github.com/conan-io/conan-center-index/pull/13209)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|3|Oct 1||jwillikers
+[#13209](https://github.com/conan-io/conan-center-index/pull/13209)|[prince-chrismc](https://github.com/prince-chrismc)|Sep 29|:green_book: docs|4|Oct 3||jwillikers, toge
 [#13225](https://github.com/conan-io/conan-center-index/pull/13225)|[ericriff](https://github.com/ericriff)|Sep 30|:stopwatch: opengv|0|||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
 [#13237](https://github.com/conan-io/conan-center-index/pull/13237)|[jwillikers](https://github.com/jwillikers)|Sep 30|:green_book: docs|8|Oct 2||prince-chrismc
@@ -61,11 +60,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
+[#13206](https://github.com/conan-io/conan-center-index/pull/13206)|[jwillikers](https://github.com/jwillikers)|Sep 28|:memo: avahi|10|prince-chrismc, toge
 [#13212](https://github.com/conan-io/conan-center-index/pull/13212)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 29|:gear: .c3i|3|AndreyMlashkin, prince-chrismc, uilianries
 
 
@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 207
 	- Draft: 33
-	- Average Age: 74 days, 1 hours, and 13.09 minutes
+	- Average Age: 74 days, 1 hours, and 21.76 minutes
 	- Stop Label: 125
 	
 
