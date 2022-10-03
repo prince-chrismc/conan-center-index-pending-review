@@ -291,32 +291,6 @@
       }
    },
    {
-      "Number": 13206,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2022-09-28T20:37:30Z",
-      "Recipe": "avahi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13206",
-      "LastCommitSHA": "7c1ebb7529b7cbeb9e662990374f50ca3e4ff057",
-      "LastCommitAt": "2022-09-30T12:08:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "toge"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2022-10-03T01:25:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13206#pullrequestreview-1127727376"
-         }
-      }
-   },
-   {
       "Number": 13209,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-09-29T09:22:39Z",
