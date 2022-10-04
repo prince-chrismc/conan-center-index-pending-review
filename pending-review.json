@@ -106,6 +106,24 @@
       }
    },
    {
+      "Number": 12906,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-09-12T09:00:39Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12906",
+      "LastCommitSHA": "cdb61d5d207428b2dd57cfa699059914762cd573",
+      "LastCommitAt": "2022-10-04T15:13:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13167,
       "OpenedBy": "toge",
       "CreatedAt": "2022-09-27T02:00:19Z",
@@ -287,58 +305,6 @@
       }
    },
    {
-      "Number": 13267,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-02T13:28:58Z",
-      "Recipe": "sokol",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13267",
-      "LastCommitSHA": "0839d80a5440364f54b73b7da71b92d9ed607172",
-      "LastCommitAt": "2022-10-02T13:28:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-04T12:48:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13267#pullrequestreview-1129866391"
-         }
-      }
-   },
-   {
-      "Number": 13275,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-10-03T00:16:47Z",
-      "Recipe": "wasmtime-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13275",
-      "LastCommitSHA": "d300f9dacc3b353259ff66e45fdfe39f751e1d69",
-      "LastCommitAt": "2022-10-03T00:16:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-04T12:49:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13275#pullrequestreview-1129868540"
-         }
-      }
-   },
-   {
       "Number": 13276,
       "OpenedBy": "jpilet",
       "CreatedAt": "2022-10-03T07:44:10Z",
@@ -447,9 +413,9 @@
       "Recipe": "jasper",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13285",
-      "LastCommitSHA": "c083b0d5b67209690b17cd528eadc5e2cbaaa78a",
-      "LastCommitAt": "2022-10-04T13:14:56Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8d75b16eadd9bff55324b1e6a1f840a7df7a43bb",
+      "LastCommitAt": "2022-10-04T14:52:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -520,14 +486,32 @@
       }
    },
    {
-      "Number": 13299,
+      "Number": 13301,
       "OpenedBy": "toge",
-      "CreatedAt": "2022-10-04T14:10:18Z",
-      "Recipe": "opentelemetry-cpp",
+      "CreatedAt": "2022-10-04T15:05:11Z",
+      "Recipe": "aws-checksums",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13299",
-      "LastCommitSHA": "d0550b0af66bdc322cfe54fbd35c14fbb18f4772",
-      "LastCommitAt": "2022-10-04T14:09:22Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13301",
+      "LastCommitSHA": "ab8e810be6f121c3e11a9f7d456d5df33dbc3325",
+      "LastCommitAt": "2022-10-04T15:00:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13302,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-04T15:17:25Z",
+      "Recipe": "aws-c-sdkutils",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13302",
+      "LastCommitSHA": "b1bafd2351b2d5fc2cc6375ca4318499288c7c7d",
+      "LastCommitAt": "2022-10-04T15:16:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
