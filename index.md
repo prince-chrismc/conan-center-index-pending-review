@@ -27,7 +27,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:stopwatch: imagemagick|2|Oct 3||
+[#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:memo: imagemagick|2|Oct 3||
 [#12516](https://github.com/conan-io/conan-center-index/pull/12516)|[danimtb](https://github.com/danimtb)|Aug 24|:memo: box2d|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|2|Sep 30|uilianries|
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
@@ -42,7 +42,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13247](https://github.com/conan-io/conan-center-index/pull/13247)|[chausner](https://github.com/chausner)|Sep 30|:memo: flatbuffers|2|Oct 3||uilianries
 [#13263](https://github.com/conan-io/conan-center-index/pull/13263)|[planetmarshall](https://github.com/planetmarshall)|Oct 2|:memo: libiconv|5|Oct 4||jwillikers
 [#13278](https://github.com/conan-io/conan-center-index/pull/13278)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 3|:gear: .c3i|1|Oct 3||uilianries
-[#13282](https://github.com/conan-io/conan-center-index/pull/13282)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 3|:green_book: docs|1|Oct 3||
+[#13282](https://github.com/conan-io/conan-center-index/pull/13282)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 3|:green_book: docs|2|Oct 4||prince-chrismc
 [#13285](https://github.com/conan-io/conan-center-index/pull/13285)|[uilianries](https://github.com/uilianries)|Oct 3|:memo: jasper|0|||
 [#13287](https://github.com/conan-io/conan-center-index/pull/13287)|[toge](https://github.com/toge)|Oct 3|:memo: simdjson|1|Oct 4||jwillikers
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|||
@@ -50,7 +50,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13301](https://github.com/conan-io/conan-center-index/pull/13301)|[toge](https://github.com/toge)|Oct 4|:memo: aws-checksums|0|||
 [#13302](https://github.com/conan-io/conan-center-index/pull/13302)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-sdkutils|0|||
 [#13305](https://github.com/conan-io/conan-center-index/pull/13305)|[toge](https://github.com/toge)|Oct 4|:stopwatch: aws-c-compression|0|||
-[#13306](https://github.com/conan-io/conan-center-index/pull/13306)|[uilianries](https://github.com/uilianries)|Oct 4|:memo: jwt-cpp|0|||
+[#13306](https://github.com/conan-io/conan-center-index/pull/13306)|[uilianries](https://github.com/uilianries)|Oct 4|:memo: jwt-cpp|1|Oct 4||prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -59,9 +59,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 200
-	- Draft: 31
-	- Average Age: 77 days, 18 hours, and 13.52 minutes
+	- Open: 199
+	- Draft: 30
+	- Average Age: 78 days, 3 hours, and 5.41 minutes
 	- Stop Label: 127
 	
 
