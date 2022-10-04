@@ -642,5 +642,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13290,
+      "OpenedBy": "Kidsunbo",
+      "CreatedAt": "2022-10-04T03:22:18Z",
+      "Recipe": "folly",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13290",
+      "LastCommitSHA": "beba30d22495677407e5f20f9ecd728b16cb6c43",
+      "LastCommitAt": "2022-10-04T03:28:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
