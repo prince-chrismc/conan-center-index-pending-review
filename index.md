@@ -51,7 +51,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13277](https://github.com/conan-io/conan-center-index/pull/13277)|[toge](https://github.com/toge)|Oct 3|:memo: erkir|0|||
 [#13278](https://github.com/conan-io/conan-center-index/pull/13278)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 3|:gear: .c3i|1|Oct 3||uilianries
 [#13282](https://github.com/conan-io/conan-center-index/pull/13282)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 3|:green_book: docs|1|Oct 3||uilianries
-[#13287](https://github.com/conan-io/conan-center-index/pull/13287)|[toge](https://github.com/toge)|Oct 3|:stopwatch: simdjson|0|||
+[#13287](https://github.com/conan-io/conan-center-index/pull/13287)|[toge](https://github.com/toge)|Oct 3|:memo: simdjson|0|||
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|||
 
 
@@ -61,9 +61,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 204
-	- Draft: 32
-	- Average Age: 75 days, 14 hours, and 38.67 minutes
+	- Open: 203
+	- Draft: 31
+	- Average Age: 76 days, 2 hours, and 21.16 minutes
 	- Stop Label: 127
 	
 
