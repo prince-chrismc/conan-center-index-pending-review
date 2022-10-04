@@ -610,6 +610,24 @@
       }
    },
    {
+      "Number": 13285,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2022-10-03T15:30:45Z",
+      "Recipe": "jasper",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13285",
+      "LastCommitSHA": "5bb6d1a0bf0422c23aa3f25fda5fc63e20514cdc",
+      "LastCommitAt": "2022-10-03T16:51:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13287,
       "OpenedBy": "toge",
       "CreatedAt": "2022-10-03T16:22:20Z",
