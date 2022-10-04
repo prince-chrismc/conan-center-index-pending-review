@@ -616,8 +616,8 @@
       "Recipe": "jasper",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13285",
-      "LastCommitSHA": "5bb6d1a0bf0422c23aa3f25fda5fc63e20514cdc",
-      "LastCommitAt": "2022-10-03T16:51:46Z",
+      "LastCommitSHA": "ab52a5973ef3b00608b7d898bbf81ad5b6ecba22",
+      "LastCommitAt": "2022-10-04T08:02:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
