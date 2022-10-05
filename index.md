@@ -21,13 +21,12 @@
 
 ### :nerd_face: Please Review! 
 
-There are **18** pull requests currently under way :detective:
+There are **16** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12331](https://github.com/conan-io/conan-center-index/pull/12331)|[SSE4](https://github.com/SSE4)|Aug 18|:memo: glib|6|Aug 19 :bell:||
 [#12516](https://github.com/conan-io/conan-center-index/pull/12516)|[danimtb](https://github.com/danimtb)|Aug 24|:memo: box2d|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|2|Sep 30|uilianries|
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
@@ -37,7 +36,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|:eyes:||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
 [#13236](https://github.com/conan-io/conan-center-index/pull/13236)|[dubvulture](https://github.com/dubvulture)|Sep 30|:memo: libmodbus|1|Oct 5||uilianries
-[#13247](https://github.com/conan-io/conan-center-index/pull/13247)|[chausner](https://github.com/chausner)|Sep 30|:memo: flatbuffers|2|Oct 3||uilianries
 [#13278](https://github.com/conan-io/conan-center-index/pull/13278)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 3|:gear: .c3i|1|Oct 3||uilianries
 [#13279](https://github.com/conan-io/conan-center-index/pull/13279)|[cubanpit](https://github.com/cubanpit)|Oct 3|:stopwatch: cpython|1|Oct 3||
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|||
@@ -51,9 +49,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 192
+	- Open: 191
 	- Draft: 30
-	- Average Age: 81 days, 20 hours, and 0.32 minutes
+	- Average Age: 82 days, 6 hours, and 36.40 minutes
 	- Stop Label: 124
 	
 
