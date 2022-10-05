@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **19** pull requests currently under way :detective:
+There are **18** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,7 +41,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13278](https://github.com/conan-io/conan-center-index/pull/13278)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 3|:gear: .c3i|1|Oct 3||uilianries
 [#13279](https://github.com/conan-io/conan-center-index/pull/13279)|[cubanpit](https://github.com/cubanpit)|Oct 3|:stopwatch: cpython|1|Oct 3||
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|||
-[#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|0|||
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|||
 [#13309](https://github.com/conan-io/conan-center-index/pull/13309)|[uilianries](https://github.com/uilianries)|Oct 5|:green_book: docs|3|Oct 5||jwillikers
 
@@ -54,7 +53,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Pull Requests:
 	- Open: 192
 	- Draft: 30
-	- Average Age: 81 days, 19 hours, and 6.32 minutes
+	- Average Age: 81 days, 20 hours, and 0.32 minutes
 	- Stop Label: 124
 	
 
