@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **27** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -52,6 +52,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13304](https://github.com/conan-io/conan-center-index/pull/13304)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-io|0|||
 [#13305](https://github.com/conan-io/conan-center-index/pull/13305)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-compression|0|||
 [#13306](https://github.com/conan-io/conan-center-index/pull/13306)|[uilianries](https://github.com/uilianries)|Oct 4|:memo: jwt-cpp|1|Oct 4||prince-chrismc
+[#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|||
 
 
 #### :clipboard: Statistics
@@ -60,9 +61,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 199
+	- Open: 200
 	- Draft: 30
-	- Average Age: 78 days, 6 hours, and 11.39 minutes
+	- Average Age: 78 days, 1 hours, and 7.87 minutes
 	- Stop Label: 126
 	
 
