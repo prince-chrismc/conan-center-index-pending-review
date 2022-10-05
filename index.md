@@ -27,12 +27,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
+[#12331](https://github.com/conan-io/conan-center-index/pull/12331)|[SSE4](https://github.com/SSE4)|Aug 18|:stopwatch: glib|6|Aug 19 :bell:||
 [#12516](https://github.com/conan-io/conan-center-index/pull/12516)|[danimtb](https://github.com/danimtb)|Aug 24|:memo: box2d|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|2|Sep 30|uilianries|
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
-[#12906](https://github.com/conan-io/conan-center-index/pull/12906)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 12|:stopwatch: qt|0|||
 [#13167](https://github.com/conan-io/conan-center-index/pull/13167)|[toge](https://github.com/toge)|Sep 27|:new: fmtlog|6|Oct 5||uilianries
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
+[#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:stopwatch: gdcm|5|Oct 3||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|:eyes:||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
 [#13236](https://github.com/conan-io/conan-center-index/pull/13236)|[dubvulture](https://github.com/dubvulture)|Sep 30|:memo: libmodbus|1|Oct 5||uilianries
@@ -43,19 +44,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|0|||
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|||
 [#13309](https://github.com/conan-io/conan-center-index/pull/13309)|[uilianries](https://github.com/uilianries)|Oct 5|:green_book: docs|2|Oct 5||jwillikers
-[#13313](https://github.com/conan-io/conan-center-index/pull/13313)|[spinnerok](https://github.com/spinnerok)|Oct 5|:stopwatch: antlr4-cppruntime|0|||
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **3** pull requests are waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#13301](https://github.com/conan-io/conan-center-index/pull/13301)|[toge](https://github.com/toge)|Oct 4|:memo: aws-checksums|2|uilianries, jwillikers
-[#13302](https://github.com/conan-io/conan-center-index/pull/13302)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-sdkutils|2|uilianries, jwillikers
-[#13304](https://github.com/conan-io/conan-center-index/pull/13304)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-io|2|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -64,10 +52,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 197
+	- Open: 192
 	- Draft: 30
-	- Average Age: 79 days, 13 hours, and 38.82 minutes
-	- Stop Label: 125
+	- Average Age: 81 days, 16 hours, and 25.23 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
