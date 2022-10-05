@@ -21,13 +21,12 @@
 
 ### :nerd_face: Please Review! 
 
-There are **26** pull requests currently under way :detective:
+There are **20** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12331](https://github.com/conan-io/conan-center-index/pull/12331)|[SSE4](https://github.com/SSE4)|Aug 18|:stopwatch: glib|6|Aug 19 :bell:||
 [#12516](https://github.com/conan-io/conan-center-index/pull/12516)|[danimtb](https://github.com/danimtb)|Aug 24|:memo: box2d|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|2|Sep 30|uilianries|
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
@@ -43,14 +42,21 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13285](https://github.com/conan-io/conan-center-index/pull/13285)|[uilianries](https://github.com/uilianries)|Oct 3|:memo: jasper|0|||
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|||
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|0|||
-[#13301](https://github.com/conan-io/conan-center-index/pull/13301)|[toge](https://github.com/toge)|Oct 4|:memo: aws-checksums|1|Oct 5||uilianries
-[#13302](https://github.com/conan-io/conan-center-index/pull/13302)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-sdkutils|1|Oct 5||uilianries
-[#13304](https://github.com/conan-io/conan-center-index/pull/13304)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-io|1|Oct 5||uilianries
-[#13305](https://github.com/conan-io/conan-center-index/pull/13305)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-compression|1|Oct 5||uilianries
-[#13306](https://github.com/conan-io/conan-center-index/pull/13306)|[uilianries](https://github.com/uilianries)|Oct 4|:memo: jwt-cpp|1|Oct 4||prince-chrismc
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|||
-[#13309](https://github.com/conan-io/conan-center-index/pull/13309)|[uilianries](https://github.com/uilianries)|Oct 5|:green_book: docs|0|||
+[#13309](https://github.com/conan-io/conan-center-index/pull/13309)|[uilianries](https://github.com/uilianries)|Oct 5|:green_book: docs|1|Oct 5||
 [#13313](https://github.com/conan-io/conan-center-index/pull/13313)|[spinnerok](https://github.com/spinnerok)|Oct 5|:stopwatch: antlr4-cppruntime|0|||
+
+
+### :heavy_check_mark: Ready to Merge 
+
+Currently **3** pull requests are waiting to be merged :tada:
+
+
+PR | By | Opened | Recipe | Reviews | :star2: Approvers
+:---: | --- | --- | --- | :---: | ---
+[#13301](https://github.com/conan-io/conan-center-index/pull/13301)|[toge](https://github.com/toge)|Oct 4|:memo: aws-checksums|2|uilianries, jwillikers
+[#13302](https://github.com/conan-io/conan-center-index/pull/13302)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-sdkutils|2|uilianries, jwillikers
+[#13304](https://github.com/conan-io/conan-center-index/pull/13304)|[toge](https://github.com/toge)|Oct 4|:memo: aws-c-io|2|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -59,10 +65,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 199
+	- Open: 197
 	- Draft: 30
-	- Average Age: 78 days, 16 hours, and 38.02 minutes
-	- Stop Label: 125
+	- Average Age: 79 days, 13 hours, and 12.32 minutes
+	- Stop Label: 126
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
