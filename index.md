@@ -27,7 +27,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12331](https://github.com/conan-io/conan-center-index/pull/12331)|[SSE4](https://github.com/SSE4)|Aug 18|:stopwatch: glib|6|Aug 19 :bell:||
+[#12331](https://github.com/conan-io/conan-center-index/pull/12331)|[SSE4](https://github.com/SSE4)|Aug 18|:memo: glib|6|Aug 19 :bell:||
 [#12516](https://github.com/conan-io/conan-center-index/pull/12516)|[danimtb](https://github.com/danimtb)|Aug 24|:memo: box2d|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|2|Sep 30|uilianries|
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|||
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|0|||
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|||
-[#13309](https://github.com/conan-io/conan-center-index/pull/13309)|[uilianries](https://github.com/uilianries)|Oct 5|:green_book: docs|2|Oct 5||jwillikers
+[#13309](https://github.com/conan-io/conan-center-index/pull/13309)|[uilianries](https://github.com/uilianries)|Oct 5|:green_book: docs|3|Oct 5||jwillikers
 
 
 #### :clipboard: Statistics
@@ -54,7 +54,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Pull Requests:
 	- Open: 192
 	- Draft: 30
-	- Average Age: 81 days, 17 hours, and 22.73 minutes
+	- Average Age: 81 days, 19 hours, and 6.32 minutes
 	- Stop Label: 124
 	
 
