@@ -319,8 +319,8 @@
       "Recipe": "folly",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13290",
-      "LastCommitSHA": "e90d9081e5b49791bbe20f4b33dec81b4fc2b2fb",
-      "LastCommitAt": "2022-10-06T05:01:46Z",
+      "LastCommitSHA": "63096a6025f653b9deefa0bd7124d7856bcfc913",
+      "LastCommitAt": "2022-10-06T05:59:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
