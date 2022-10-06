@@ -84,31 +84,6 @@
       }
    },
    {
-      "Number": 12747,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-09-01T07:58:07Z",
-      "Recipe": "hash-library",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12747",
-      "LastCommitSHA": "9fed5174692142c9e3138b96bac4ad93f9d0f25b",
-      "LastCommitAt": "2022-10-06T19:17:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "uilianries"
-         ],
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-06T16:20:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12747#pullrequestreview-1133297524"
-         }
-      }
-   },
-   {
       "Number": 12896,
       "OpenedBy": "jellespijker",
       "CreatedAt": "2022-09-11T13:06:28Z",
@@ -190,16 +165,14 @@
       "Recipe": "gdcm",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13173",
-      "LastCommitSHA": "5e076c0028161515c31e11bbf3b76e1ddaec8a6c",
-      "LastCommitAt": "2022-10-06T11:01:17Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ccaf1b0aca3e6d89eaf8243a76081660dbd372ac",
+      "LastCommitAt": "2022-10-06T19:29:42Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 8,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [],
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -487,6 +460,24 @@
             "SubmittedAt": "2022-10-06T16:36:29Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13324#pullrequestreview-1133326465"
          }
+      }
+   },
+   {
+      "Number": 13325,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2022-10-06T12:37:25Z",
+      "Recipe": "rust",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13325",
+      "LastCommitSHA": "52383b18feddfd567428be207df09b7a1f9944aa",
+      "LastCommitAt": "2022-10-06T19:46:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
