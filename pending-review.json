@@ -161,29 +161,6 @@
       }
    },
    {
-      "Number": 13113,
-      "OpenedBy": "cguentherTUChemnitz",
-      "CreatedAt": "2022-09-23T15:31:06Z",
-      "Recipe": "qpdf",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13113",
-      "LastCommitSHA": "a2707fe5e27eeca158880901eb1073dd40116e9d",
-      "LastCommitAt": "2022-10-06T17:20:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-10-06T06:42:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13113#pullrequestreview-1132381985"
-         }
-      }
-   },
-   {
       "Number": 13167,
       "OpenedBy": "toge",
       "CreatedAt": "2022-09-27T02:00:19Z",
@@ -265,7 +242,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13197",
       "LastCommitSHA": "7a808c969d7165953ef05f6a7bdc9035fd963ac0",
       "LastCommitAt": "2022-10-06T15:48:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -490,16 +467,14 @@
       "Recipe": "dbus",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13315",
-      "LastCommitSHA": "98b65eec8efd27b8c28708f801328d6d8ac37645",
-      "LastCommitAt": "2022-10-06T03:19:27Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "77bdefd965bdfe8ebd9a797e87292156b9afee92",
+      "LastCommitAt": "2022-10-06T14:00:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
