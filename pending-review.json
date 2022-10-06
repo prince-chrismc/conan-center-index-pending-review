@@ -92,17 +92,19 @@
       "LastCommitAt": "2022-09-30T11:54:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
          "Blockers": [
             "uilianries"
          ],
          "LastReview": {
             "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-09-30T11:01:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12747#pullrequestreview-1126646526"
+            "SubmittedAt": "2022-10-06T14:52:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12747#pullrequestreview-1133159130"
          }
       }
    },
@@ -273,32 +275,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-09-30T16:53:13Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13227#pullrequestreview-1127108435"
-         }
-      }
-   },
-   {
-      "Number": 13236,
-      "OpenedBy": "dubvulture",
-      "CreatedAt": "2022-09-30T12:32:57Z",
-      "Recipe": "libmodbus",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13236",
-      "LastCommitSHA": "c4c4c042a9dba9269d1ec89391fce2827cb7c308",
-      "LastCommitAt": "2022-10-03T15:57:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-06T14:11:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13236#pullrequestreview-1133083241"
          }
       }
    },
@@ -561,9 +537,57 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13331",
-      "LastCommitSHA": "53ea2a72fb242f27723b173b93627f6a1559081c",
-      "LastCommitAt": "2022-10-06T14:19:54Z",
+      "LastCommitSHA": "d5486d43d7e780195f58d4a5c341ab5a99dc5b16",
+      "LastCommitAt": "2022-10-06T15:06:50Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-06T14:54:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13331#pullrequestreview-1133162179"
+         }
+      }
+   },
+   {
+      "Number": 13333,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-06T14:47:26Z",
+      "Recipe": "aws-c-http",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13333",
+      "LastCommitSHA": "68925ad03bb536386cef1fadb5c44676eff4f85e",
+      "LastCommitAt": "2022-10-06T14:46:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-06T14:56:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13333#pullrequestreview-1133166936"
+         }
+      }
+   },
+   {
+      "Number": 13334,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-06T15:06:32Z",
+      "Recipe": "aws-c-event-stream",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13334",
+      "LastCommitSHA": "60110653c7696626f993233314d9f5f14fd11322",
+      "LastCommitAt": "2022-10-06T15:05:46Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
