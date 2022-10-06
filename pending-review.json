@@ -202,6 +202,29 @@
       }
    },
    {
+      "Number": 13173,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2022-09-27T10:59:03Z",
+      "Recipe": "gdcm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13173",
+      "LastCommitSHA": "5e076c0028161515c31e11bbf3b76e1ddaec8a6c",
+      "LastCommitAt": "2022-10-06T11:01:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-06T08:47:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13173#pullrequestreview-1132559434"
+         }
+      }
+   },
+   {
       "Number": 13205,
       "OpenedBy": "syoliver",
       "CreatedAt": "2022-09-28T20:37:27Z",
