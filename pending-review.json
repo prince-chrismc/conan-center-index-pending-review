@@ -69,7 +69,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12371",
       "LastCommitSHA": "622a7907a5b8d9f957631d21df011dc96c98c3d4",
       "LastCommitAt": "2022-10-06T16:10:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -107,6 +107,29 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2022-09-25T09:38:30Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12896#pullrequestreview-1119391644"
+         }
+      }
+   },
+   {
+      "Number": 12902,
+      "OpenedBy": "0xFireWolf",
+      "CreatedAt": "2022-09-12T00:04:52Z",
+      "Recipe": "antlr4-cppruntime",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12902",
+      "LastCommitSHA": "642447195e2d907d8b0daf918c7474eb3853288b",
+      "LastCommitAt": "2022-10-06T21:38:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-03T09:28:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12902#pullrequestreview-1128061608"
          }
       }
    },
@@ -208,7 +231,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13225",
       "LastCommitSHA": "fac167dfa9227e7eec9a2f9c2e9715cc1c354664",
       "LastCommitAt": "2022-10-06T19:06:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 14,
          "ValidApprovals": 2,
@@ -398,7 +421,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13315",
       "LastCommitSHA": "558248b212805a895f2fa870b5824845974192b1",
       "LastCommitAt": "2022-10-06T18:27:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -490,7 +513,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13333",
       "LastCommitSHA": "68925ad03bb536386cef1fadb5c44676eff4f85e",
       "LastCommitAt": "2022-10-06T14:46:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -515,7 +538,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13334",
       "LastCommitSHA": "60110653c7696626f993233314d9f5f14fd11322",
       "LastCommitAt": "2022-10-06T15:05:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -529,24 +552,6 @@
             "SubmittedAt": "2022-10-06T15:42:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13334#pullrequestreview-1133244123"
          }
-      }
-   },
-   {
-      "Number": 13336,
-      "OpenedBy": "kambala-decapitator",
-      "CreatedAt": "2022-10-06T16:57:54Z",
-      "Recipe": "libpng",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13336",
-      "LastCommitSHA": "c4277b8e75f127bc633ada6a25a91f6d6c0c14d1",
-      "LastCommitAt": "2022-10-06T16:55:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
