@@ -29,14 +29,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12331](https://github.com/conan-io/conan-center-index/pull/12331)|[SSE4](https://github.com/SSE4)|Aug 18|:stopwatch: glib|10|Oct 6||prince-chrismc
 [#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:stopwatch: imagemagick|3|Oct 5||
-[#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|4|Oct 6|uilianries|danimtb
+[#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:stopwatch: hash-library|4|Oct 6|uilianries|
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25|uilianries|danimtb
 [#13167](https://github.com/conan-io/conan-center-index/pull/13167)|[toge](https://github.com/toge)|Sep 27|:new: fmtlog|8|Oct 6||uilianries
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27||
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|8|Oct 6||uilianries
-[#13197](https://github.com/conan-io/conan-center-index/pull/13197)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 28|:memo: diligent-core|5|Oct 6||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|:eyes:||
-[#13225](https://github.com/conan-io/conan-center-index/pull/13225)|[ericriff](https://github.com/ericriff)|Sep 30|:memo: opengv|11|Oct 6||jwillikers
+[#13225](https://github.com/conan-io/conan-center-index/pull/13225)|[ericriff](https://github.com/ericriff)|Sep 30|:stopwatch: opengv|13|Oct 6||prince-chrismc
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|:eyes:||
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|1|Oct 5||
@@ -46,6 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13333](https://github.com/conan-io/conan-center-index/pull/13333)|[toge](https://github.com/toge)|Oct 6|:stopwatch: aws-c-http|1|Oct 6||jwillikers
 [#13334](https://github.com/conan-io/conan-center-index/pull/13334)|[toge](https://github.com/toge)|Oct 6|:stopwatch: aws-c-event-stream|1|Oct 6||jwillikers
 [#13336](https://github.com/conan-io/conan-center-index/pull/13336)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 6|:stopwatch: libpng|0|||
+[#13337](https://github.com/conan-io/conan-center-index/pull/13337)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 6|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 196
 	- Draft: 31
-	- Average Age: 80 days, 19 hours, and 54.94 minutes
+	- Average Age: 80 days, 18 hours, and 37.99 minutes
 	- Stop Label: 123
 	
 
