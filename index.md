@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **21** pull requests currently under way :detective:
+There are **22** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,6 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13334](https://github.com/conan-io/conan-center-index/pull/13334)|[toge](https://github.com/toge)|Oct 6|:memo: aws-c-event-stream|1|Oct 6||jwillikers
 [#13337](https://github.com/conan-io/conan-center-index/pull/13337)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 6|:green_book: docs|1|Oct 6||prince-chrismc
 [#13338](https://github.com/conan-io/conan-center-index/pull/13338)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 6|:stopwatch: restinio|0|||
+[#13340](https://github.com/conan-io/conan-center-index/pull/13340)|[toge](https://github.com/toge)|Oct 7|:stopwatch: protopuf|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -68,9 +69,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 197
+	- Open: 198
 	- Draft: 31
-	- Average Age: 80 days, 15 hours, and 10.53 minutes
+	- Average Age: 80 days, 9 hours, and 8.87 minutes
 	- Stop Label: 122
 	
 
