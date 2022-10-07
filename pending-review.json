@@ -157,21 +157,26 @@
       }
    },
    {
-      "Number": 12906,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-09-12T09:00:39Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12906",
-      "LastCommitSHA": "28cb3015c40cf9531a143d8fee12d4085379bf96",
-      "LastCommitAt": "2022-10-05T08:29:30Z",
+      "Number": 13113,
+      "OpenedBy": "cguentherTUChemnitz",
+      "CreatedAt": "2022-09-23T15:31:06Z",
+      "Recipe": "qpdf",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13113",
+      "LastCommitSHA": "81b022cc9d65eca51c15624cbf9845d728921260",
+      "LastCommitAt": "2022-10-06T17:55:17Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 12,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-06T06:42:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13113#pullrequestreview-1132381985"
+         }
       }
    },
    {
@@ -219,29 +224,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-09-27T14:11:13Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13169#pullrequestreview-1122075340"
-         }
-      }
-   },
-   {
-      "Number": 13197,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2022-09-28T13:09:04Z",
-      "Recipe": "diligent-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13197",
-      "LastCommitSHA": "916b0e63530a9ee0e9baceaf29fbbc82197d6506",
-      "LastCommitAt": "2022-10-07T07:08:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-06T19:07:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13197#pullrequestreview-1133510905"
          }
       }
    },
