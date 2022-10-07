@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **20** pull requests currently under way :detective:
+There are **21** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,12 +39,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|:eyes:||
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|1|Oct 5||
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|||
-[#13315](https://github.com/conan-io/conan-center-index/pull/13315)|[jwillikers](https://github.com/jwillikers)|Oct 5|:memo: dbus|4|Oct 6||
+[#13315](https://github.com/conan-io/conan-center-index/pull/13315)|[jwillikers](https://github.com/jwillikers)|Oct 5|:stopwatch: dbus|4|Oct 6||
 [#13322](https://github.com/conan-io/conan-center-index/pull/13322)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 6|:stopwatch: .c3i|1|Oct 6||uilianries
 [#13325](https://github.com/conan-io/conan-center-index/pull/13325)|[planetmarshall](https://github.com/planetmarshall)|Oct 6|:stopwatch: rust|0|||
 [#13333](https://github.com/conan-io/conan-center-index/pull/13333)|[toge](https://github.com/toge)|Oct 6|:memo: aws-c-http|1|Oct 6||jwillikers
 [#13334](https://github.com/conan-io/conan-center-index/pull/13334)|[toge](https://github.com/toge)|Oct 6|:memo: aws-c-event-stream|1|Oct 6||jwillikers
-[#13337](https://github.com/conan-io/conan-center-index/pull/13337)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 6|:green_book: docs|0|||
+[#13337](https://github.com/conan-io/conan-center-index/pull/13337)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 6|:green_book: docs|1|Oct 6||prince-chrismc
+[#13338](https://github.com/conan-io/conan-center-index/pull/13338)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 6|:stopwatch: restinio|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -69,8 +70,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 197
 	- Draft: 31
-	- Average Age: 80 days, 12 hours, and 43.93 minutes
-	- Stop Label: 123
+	- Average Age: 80 days, 15 hours, and 1.80 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
