@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **19** pull requests currently under way :detective:
+There are **18** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,10 +40,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13315](https://github.com/conan-io/conan-center-index/pull/13315)|[jwillikers](https://github.com/jwillikers)|Oct 5|:memo: dbus|4|Oct 6||
 [#13322](https://github.com/conan-io/conan-center-index/pull/13322)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 6|:stopwatch: .c3i|1|Oct 6||uilianries
 [#13333](https://github.com/conan-io/conan-center-index/pull/13333)|[toge](https://github.com/toge)|Oct 6|:memo: aws-c-http|2|Oct 7||jwillikers
-[#13340](https://github.com/conan-io/conan-center-index/pull/13340)|[toge](https://github.com/toge)|Oct 7|:new: protopuf|1|Oct 7||
 [#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|||
 [#13344](https://github.com/conan-io/conan-center-index/pull/13344)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 7|:memo: leptonica|0|||
-[#13346](https://github.com/conan-io/conan-center-index/pull/13346)|[toge](https://github.com/toge)|Oct 7|:memo: osmanip|0|||
+[#13346](https://github.com/conan-io/conan-center-index/pull/13346)|[toge](https://github.com/toge)|Oct 7|:memo: osmanip|1|Oct 7||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -64,10 +63,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 194
+	- Open: 195
 	- Draft: 30
-	- Average Age: 81 days, 14 hours, and 30.78 minutes
-	- Stop Label: 122
+	- Average Age: 81 days, 5 hours, and 9.82 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
