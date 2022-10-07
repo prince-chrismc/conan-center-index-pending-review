@@ -86,6 +86,31 @@
       }
    },
    {
+      "Number": 13113,
+      "OpenedBy": "cguentherTUChemnitz",
+      "CreatedAt": "2022-09-23T15:31:06Z",
+      "Recipe": "qpdf",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13113",
+      "LastCommitSHA": "cab48c8cb94225250f7a28babd5d85d864c3d154",
+      "LastCommitAt": "2022-10-07T18:47:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 21,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-07T18:49:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13113#pullrequestreview-1134948011"
+         }
+      }
+   },
+   {
       "Number": 13167,
       "OpenedBy": "toge",
       "CreatedAt": "2022-09-27T02:00:19Z",
@@ -389,6 +414,31 @@
       }
    },
    {
+      "Number": 13338,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-10-06T22:42:06Z",
+      "Recipe": "restinio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13338",
+      "LastCommitSHA": "7da509ba86618779216fe07f781ebe0f0d5ef1cf",
+      "LastCommitAt": "2022-10-07T19:09:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 7,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-07T19:11:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13338#pullrequestreview-1134967946"
+         }
+      }
+   },
+   {
       "Number": 13341,
       "OpenedBy": "cleanerx",
       "CreatedAt": "2022-10-07T07:56:54Z",
@@ -453,6 +503,32 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2022-10-07T14:03:02Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13346#pullrequestreview-1134543646"
+         }
+      }
+   },
+   {
+      "Number": 13354,
+      "OpenedBy": "kambala-decapitator",
+      "CreatedAt": "2022-10-07T18:56:13Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13354",
+      "LastCommitSHA": "07175f5544107e792dd9103078098b68ecf62ba4",
+      "LastCommitAt": "2022-10-07T18:54:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "ericLemanissier",
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-10-07T19:00:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13354#pullrequestreview-1134958573"
          }
       }
    }
