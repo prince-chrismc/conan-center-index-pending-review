@@ -47,7 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13344](https://github.com/conan-io/conan-center-index/pull/13344)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 7|:memo: leptonica|1|Oct 7||jwillikers
 [#13346](https://github.com/conan-io/conan-center-index/pull/13346)|[toge](https://github.com/toge)|Oct 7|:memo: osmanip|1|Oct 7||jwillikers
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:stopwatch: libcpuid|1|Oct 8||jwillikers
-[#13363](https://github.com/conan-io/conan-center-index/pull/13363)|[jwillikers](https://github.com/jwillikers)|Oct 8|:stopwatch: wayland|0|||
+[#13363](https://github.com/conan-io/conan-center-index/pull/13363)|[jwillikers](https://github.com/jwillikers)|Oct 8|:memo: wayland|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -70,7 +70,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 184
 	- Draft: 32
-	- Average Age: 77 days, 9 hours, and 52.32 minutes
+	- Average Age: 77 days, 10 hours, and 57.73 minutes
 	- Stop Label: 107
 	
 
