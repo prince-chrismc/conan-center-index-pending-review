@@ -538,6 +538,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13350",
       "LastCommitSHA": "fccfb29331f58745707be581231cf10be9a69583",
       "LastCommitAt": "2022-10-08T04:47:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13358,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-08T05:41:03Z",
+      "Recipe": "libcpuid",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13358",
+      "LastCommitSHA": "41abd04967ebf97c1f98764ad793ee8b7826ad15",
+      "LastCommitAt": "2022-10-08T05:40:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
