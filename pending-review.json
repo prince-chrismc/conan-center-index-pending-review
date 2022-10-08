@@ -130,31 +130,6 @@
       }
    },
    {
-      "Number": 13113,
-      "OpenedBy": "cguentherTUChemnitz",
-      "CreatedAt": "2022-09-23T15:31:06Z",
-      "Recipe": "qpdf",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13113",
-      "LastCommitSHA": "392170f9585f3fe9e6270ed8d09a8cb911b9c16b",
-      "LastCommitAt": "2022-10-07T20:09:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 23,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-07T20:12:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13113#pullrequestreview-1135029215"
-         }
-      }
-   },
-   {
       "Number": 13167,
       "OpenedBy": "toge",
       "CreatedAt": "2022-09-27T02:00:19Z",
