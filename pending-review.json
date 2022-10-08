@@ -65,16 +65,14 @@
       "Recipe": "autoconf",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12896",
-      "LastCommitSHA": "6e5d1491d66c42655e182b8bf70b9adce5376217",
-      "LastCommitAt": "2022-09-21T07:27:56Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "516a304287caf2d40d9dd3673bea723d23606182",
+      "LastCommitAt": "2022-10-08T08:55:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 11,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [
             "uilianries"
          ],
