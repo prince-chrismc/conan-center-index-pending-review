@@ -594,5 +594,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13364,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-10-08T17:24:48Z",
+      "Recipe": "swig",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13364",
+      "LastCommitSHA": "08820d25a2481fc19c142bce87cb78989e6e2ef1",
+      "LastCommitAt": "2022-10-08T17:23:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
