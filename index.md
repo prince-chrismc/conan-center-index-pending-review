@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|||
 [#13344](https://github.com/conan-io/conan-center-index/pull/13344)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 7|:memo: leptonica|1|Oct 7||jwillikers
 [#13346](https://github.com/conan-io/conan-center-index/pull/13346)|[toge](https://github.com/toge)|Oct 7|:memo: osmanip|1|Oct 7||jwillikers
-[#13350](https://github.com/conan-io/conan-center-index/pull/13350)|[toge](https://github.com/toge)|Oct 7|:stopwatch: rapidyaml|1|Oct 8||
+[#13350](https://github.com/conan-io/conan-center-index/pull/13350)|[toge](https://github.com/toge)|Oct 7|:stopwatch: rapidyaml|2|Oct 8||jwillikers
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:stopwatch: libcpuid|1|Oct 8||jwillikers
 [#13363](https://github.com/conan-io/conan-center-index/pull/13363)|[jwillikers](https://github.com/jwillikers)|Oct 8|:memo: wayland|0|||
 [#13364](https://github.com/conan-io/conan-center-index/pull/13364)|[jwillikers](https://github.com/jwillikers)|Oct 8|:stopwatch: swig|0|||
@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 186
 	- Draft: 32
-	- Average Age: 76 days, 17 hours, and 49.32 minutes
+	- Average Age: 76 days, 20 hours, and 50.94 minutes
 	- Stop Label: 107
 	
 
