@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,7 +55,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13364](https://github.com/conan-io/conan-center-index/pull/13364)|[jwillikers](https://github.com/jwillikers)|Oct 8|:stopwatch: swig|0|||
 [#13370](https://github.com/conan-io/conan-center-index/pull/13370)|[VestniK](https://github.com/VestniK)|Oct 9|:stopwatch: yasm|0|||
 [#13372](https://github.com/conan-io/conan-center-index/pull/13372)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 9|:stopwatch: qt|0|||
-[#13375](https://github.com/conan-io/conan-center-index/pull/13375)|[jwillikers](https://github.com/jwillikers)|Oct 9|:stopwatch: boost-ext-ut|0|||
+[#13375](https://github.com/conan-io/conan-center-index/pull/13375)|[jwillikers](https://github.com/jwillikers)|Oct 9|:memo: boost-ext-ut|0|||
+[#13376](https://github.com/conan-io/conan-center-index/pull/13376)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: plf_list|0|||
+[#13377](https://github.com/conan-io/conan-center-index/pull/13377)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: plf_colony|0|||
+[#13378](https://github.com/conan-io/conan-center-index/pull/13378)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: plf_queue|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -76,9 +79,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 192
+	- Open: 195
 	- Draft: 32
-	- Average Age: 74 days, 23 hours, and 45.07 minutes
+	- Average Age: 73 days, 21 hours, and 6.15 minutes
 	- Stop Label: 106
 	
 
