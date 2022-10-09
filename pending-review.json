@@ -680,5 +680,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13372,
+      "OpenedBy": "kambala-decapitator",
+      "CreatedAt": "2022-10-09T10:17:38Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13372",
+      "LastCommitSHA": "c17537ef4176822e8aa8fc8d40f7ed9011c63416",
+      "LastCommitAt": "2022-10-09T10:14:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
