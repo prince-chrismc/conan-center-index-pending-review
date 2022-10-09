@@ -21,16 +21,15 @@
 
 ### :nerd_face: Please Review! 
 
-There are **35** pull requests currently under way :detective:
+There are **36** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:stopwatch: cpython|3|Oct 9||jwillikers
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
-[#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:memo: imagemagick|4|Oct 7||
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:stopwatch: autoconf|11|Sep 25 :bell:|uilianries|
-[#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|14|Oct 8||michalwidera
+[#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:stopwatch: antlr4-cppruntime|15|Oct 9||
 [#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:stopwatch: qpdf|30|Oct 9||jwillikers
 [#13167](https://github.com/conan-io/conan-center-index/pull/13167)|[toge](https://github.com/toge)|Sep 27|:new: fmtlog|9|Oct 7||jwillikers
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
@@ -59,7 +58,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13376](https://github.com/conan-io/conan-center-index/pull/13376)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: plf_list|1|Oct 9||jwillikers
 [#13377](https://github.com/conan-io/conan-center-index/pull/13377)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: plf_colony|1|Oct 9||jwillikers
 [#13378](https://github.com/conan-io/conan-center-index/pull/13378)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: plf_queue|1|Oct 9||jwillikers
-[#13380](https://github.com/conan-io/conan-center-index/pull/13380)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: libyuv|0|||
+[#13380](https://github.com/conan-io/conan-center-index/pull/13380)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: libyuv|1|Oct 9||jwillikers
+[#13382](https://github.com/conan-io/conan-center-index/pull/13382)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: uriparser|2|Oct 9||jwillikers
+[#13383](https://github.com/conan-io/conan-center-index/pull/13383)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: draco|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -80,10 +81,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 197
+	- Open: 200
 	- Draft: 32
-	- Average Age: 73 days, 4 hours, and 3.05 minutes
-	- Stop Label: 107
+	- Average Age: 72 days, 2 hours, and 43.72 minutes
+	- Stop Label: 108
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
