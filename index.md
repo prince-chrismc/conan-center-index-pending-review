@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13173](https://github.com/conan-io/conan-center-index/pull/13173)|[Nekto89](https://github.com/Nekto89)|Sep 27|:memo: gdcm|10|Oct 8||jwillikers
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|0|:eyes:||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30|uilianries|jwillikers
-[#13283](https://github.com/conan-io/conan-center-index/pull/13283)|[planetmarshall](https://github.com/planetmarshall)|Oct 3|:stopwatch: pybind11|2|Oct 4||
+[#13283](https://github.com/conan-io/conan-center-index/pull/13283)|[planetmarshall](https://github.com/planetmarshall)|Oct 3|:stopwatch: pybind11|3|Oct 9||jwillikers
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|:eyes:||
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|1|Oct 5||
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|:eyes:||
@@ -71,9 +71,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 186
-	- Draft: 31
-	- Average Age: 76 days, 21 hours, and 53.49 minutes
+	- Open: 187
+	- Draft: 32
+	- Average Age: 76 days, 14 hours, and 4.64 minutes
 	- Stop Label: 107
 	
 
