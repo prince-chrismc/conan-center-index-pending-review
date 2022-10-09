@@ -662,5 +662,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13370,
+      "OpenedBy": "VestniK",
+      "CreatedAt": "2022-10-09T08:05:26Z",
+      "Recipe": "yasm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13370",
+      "LastCommitSHA": "c894df34f89dacd10766a62c2eceac419039ab96",
+      "LastCommitAt": "2022-10-09T07:47:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
