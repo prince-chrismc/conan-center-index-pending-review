@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **27** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -52,6 +52,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13363](https://github.com/conan-io/conan-center-index/pull/13363)|[jwillikers](https://github.com/jwillikers)|Oct 8|:memo: wayland|0|||
 [#13364](https://github.com/conan-io/conan-center-index/pull/13364)|[jwillikers](https://github.com/jwillikers)|Oct 8|:stopwatch: swig|0|||
 [#13370](https://github.com/conan-io/conan-center-index/pull/13370)|[VestniK](https://github.com/VestniK)|Oct 9|:stopwatch: yasm|0|||
+[#13372](https://github.com/conan-io/conan-center-index/pull/13372)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 9|:stopwatch: qt|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -72,9 +73,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 188
+	- Open: 189
 	- Draft: 32
-	- Average Age: 76 days, 3 hours, and 2.00 minutes
+	- Average Age: 75 days, 19 hours, and 18.22 minutes
 	- Stop Label: 106
 	
 
