@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **36** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -61,11 +61,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13398](https://github.com/conan-io/conan-center-index/pull/13398)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 10|:stopwatch: leptonica|1|Oct 10||jwillikers
 [#13401](https://github.com/conan-io/conan-center-index/pull/13401)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: c-blosc|1|Oct 10||jwillikers
 [#13403](https://github.com/conan-io/conan-center-index/pull/13403)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: ccfits|0|||
+[#13404](https://github.com/conan-io/conan-center-index/pull/13404)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -76,7 +77,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13333](https://github.com/conan-io/conan-center-index/pull/13333)|[toge](https://github.com/toge)|Oct 6|:warning: aws-c-http|6|jwillikers, uilianries
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13372](https://github.com/conan-io/conan-center-index/pull/13372)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 9|:warning: qt|7|ericLemanissier, jwillikers, uilianries
-[#13375](https://github.com/conan-io/conan-center-index/pull/13375)|[jwillikers](https://github.com/jwillikers)|Oct 9|:memo: boost-ext-ut|4|uilianries, prince-chrismc
 [#13382](https://github.com/conan-io/conan-center-index/pull/13382)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:warning: uriparser|3|jwillikers, uilianries
 [#13383](https://github.com/conan-io/conan-center-index/pull/13383)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:warning: draco|2|jwillikers, uilianries
 
@@ -89,7 +89,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 202
 	- Draft: 30
-	- Average Age: 72 days, 1 hours, and 25.59 minutes
+	- Average Age: 72 days, 2 hours, and 13.63 minutes
 	- Stop Label: 108
 	
 
