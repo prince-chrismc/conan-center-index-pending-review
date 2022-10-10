@@ -21,12 +21,13 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
+[#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:stopwatch: imagemagick|9|Oct 10||jwillikers
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25 :bell:|uilianries|
 [#12902](https://github.com/conan-io/conan-center-index/pull/12902)|[0xFireWolf](https://github.com/0xFireWolf)|Sep 12|:memo: antlr4-cppruntime|17|Oct 10||jwillikers, michalwidera
 [#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:stopwatch: qpdf|31|Oct 10||jwillikers
@@ -85,8 +86,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 199
 	- Draft: 31
-	- Average Age: 73 days, and 44.88 minutes
-	- Stop Label: 108
+	- Average Age: 73 days, 1 hours, and 37.70 minutes
+	- Stop Label: 107
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
