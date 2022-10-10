@@ -712,32 +712,6 @@
       }
    },
    {
-      "Number": 13375,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2022-10-09T16:53:36Z",
-      "Recipe": "boost-ext-ut",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13375",
-      "LastCommitSHA": "e6b123aa0ff50a930c6cdaee44d8a1652edbe844",
-      "LastCommitAt": "2022-10-10T11:08:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-10T20:09:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13375#pullrequestreview-1136484296"
-         }
-      }
-   },
-   {
       "Number": 13382,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-10-09T21:42:14Z",
@@ -1021,6 +995,24 @@
       "LastCommitSHA": "9285757bf6e31060e0014540ffc4cd988f79327a",
       "LastCommitAt": "2022-10-10T19:41:46Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13404,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-10-10T20:52:08Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13404",
+      "LastCommitSHA": "6e68808148b8f064a115f8afabbdb54fc132d7c4",
+      "LastCommitAt": "2022-10-10T20:51:51Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
