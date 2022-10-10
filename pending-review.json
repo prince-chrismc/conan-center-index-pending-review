@@ -36,6 +36,31 @@
       }
    },
    {
+      "Number": 12371,
+      "OpenedBy": "hesham-essam",
+      "CreatedAt": "2022-08-19T00:57:37Z",
+      "Recipe": "imagemagick",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12371",
+      "LastCommitSHA": "38a6665c20266d074badb5af86205bf29689d68b",
+      "LastCommitAt": "2022-10-10T17:45:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 9,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-10T17:46:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12371#pullrequestreview-1136361197"
+         }
+      }
+   },
+   {
       "Number": 12896,
       "OpenedBy": "jellespijker",
       "CreatedAt": "2022-09-11T13:06:28Z",
