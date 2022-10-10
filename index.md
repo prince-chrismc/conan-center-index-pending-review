@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,6 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13393](https://github.com/conan-io/conan-center-index/pull/13393)|[KingKili](https://github.com/KingKili)|Oct 10|:stopwatch: wasmedge|0|||
 [#13394](https://github.com/conan-io/conan-center-index/pull/13394)|[jwillikers](https://github.com/jwillikers)|Oct 10|:stopwatch: glib|1|Oct 10||ericLemanissier
 [#13395](https://github.com/conan-io/conan-center-index/pull/13395)|[KingKili](https://github.com/KingKili)|Oct 10|:stopwatch: waf|0|||
+[#13398](https://github.com/conan-io/conan-center-index/pull/13398)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 10|:stopwatch: leptonica|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -80,9 +81,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 196
+	- Open: 197
 	- Draft: 31
-	- Average Age: 74 days, 1 hours, and 20.60 minutes
+	- Average Age: 73 days, 17 hours, and 24.41 minutes
 	- Stop Label: 109
 	
 
