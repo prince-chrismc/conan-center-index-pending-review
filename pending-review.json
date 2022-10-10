@@ -499,17 +499,18 @@
       "LastCommitAt": "2022-10-07T19:09:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 9,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-07T19:11:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13338#pullrequestreview-1134967946"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-10T07:27:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13338#pullrequestreview-1135572382"
          }
       }
    },
@@ -520,8 +521,8 @@
       "Recipe": "opentelemetry-cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13341",
-      "LastCommitSHA": "56c33b7e6f2a5c0e8ff38275c62e3b75c6db7da7",
-      "LastCommitAt": "2022-10-07T18:09:39Z",
+      "LastCommitSHA": "93fc55328022528086970b9f0e1a9ea821cf5310",
+      "LastCommitAt": "2022-10-10T07:35:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -529,32 +530,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 13344,
-      "OpenedBy": "cguentherTUChemnitz",
-      "CreatedAt": "2022-10-07T09:24:56Z",
-      "Recipe": "leptonica",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13344",
-      "LastCommitSHA": "8cbc5a9e60154e155452b386480efc9737a419e0",
-      "LastCommitAt": "2022-10-07T09:22:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-10-10T06:43:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13344#pullrequestreview-1135533567"
-         }
       }
    },
    {
@@ -667,24 +642,6 @@
             "SubmittedAt": "2022-10-08T15:07:08Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13358#pullrequestreview-1135234068"
          }
-      }
-   },
-   {
-      "Number": 13361,
-      "OpenedBy": "kambala-decapitator",
-      "CreatedAt": "2022-10-08T11:45:04Z",
-      "Recipe": "sdl_image",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13361",
-      "LastCommitSHA": "288fbcfb604e956e873dd866c5c22bea3491c981",
-      "LastCommitAt": "2022-10-10T06:12:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -953,14 +910,14 @@
       }
    },
    {
-      "Number": 13386,
+      "Number": 13387,
       "OpenedBy": "kambala-decapitator",
-      "CreatedAt": "2022-10-10T06:08:03Z",
-      "Recipe": "onetbb",
+      "CreatedAt": "2022-10-10T07:30:55Z",
+      "Recipe": "ffmpeg",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13386",
-      "LastCommitSHA": "77f2221d16b8e315f2f4644db42f8fdb51d1f185",
-      "LastCommitAt": "2022-10-10T06:17:42Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13387",
+      "LastCommitSHA": "d3040a00c7bda2a1c637942b6e99e05230089e02",
+      "LastCommitAt": "2022-10-10T07:30:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
