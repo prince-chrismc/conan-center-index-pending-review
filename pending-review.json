@@ -870,5 +870,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13398,
+      "OpenedBy": "cguentherTUChemnitz",
+      "CreatedAt": "2022-10-10T16:09:37Z",
+      "Recipe": "leptonica",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13398",
+      "LastCommitSHA": "0e622613c6bf3de6662aad195e45ff74892827eb",
+      "LastCommitAt": "2022-10-10T16:07:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
