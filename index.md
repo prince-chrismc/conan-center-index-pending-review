@@ -21,11 +21,10 @@
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **36** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
-[#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:stopwatch: cpython|3|Oct 9||
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|11|Sep 25 :bell:|uilianries|
@@ -61,7 +60,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13401](https://github.com/conan-io/conan-center-index/pull/13401)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: c-blosc|1|Oct 10||jwillikers
 [#13403](https://github.com/conan-io/conan-center-index/pull/13403)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: ccfits|0|||
 [#13404](https://github.com/conan-io/conan-center-index/pull/13404)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:green_book: docs|0|||
-[#13405](https://github.com/conan-io/conan-center-index/pull/13405)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:stopwatch: .github|0|||
+[#13406](https://github.com/conan-io/conan-center-index/pull/13406)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: opencv|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -88,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 202
+	- Open: 203
 	- Draft: 30
-	- Average Age: 72 days, 1 hours, and 13.85 minutes
+	- Average Age: 71 days, 17 hours, and 44.13 minutes
 	- Stop Label: 106
 	
 
