@@ -290,7 +290,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13283",
       "LastCommitSHA": "b08be54444a038681c9c01560fdcbac92ab6d400",
       "LastCommitAt": "2022-10-08T23:10:21Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 1,
@@ -359,7 +359,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13303",
       "LastCommitSHA": "81750ef9ba28c19347477b3f3182162fdc35b962",
       "LastCommitAt": "2022-10-11T06:50:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
@@ -400,7 +400,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13315",
       "LastCommitSHA": "cab3e9d6784c3ac0ddf842f2c8fb4b4c8fb41187",
       "LastCommitAt": "2022-10-10T11:00:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 10,
          "ValidApprovals": 2,
@@ -991,6 +991,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13409",
       "LastCommitSHA": "63b85451a4cbd5a75df4e1b093bff5b7c7ffd95c",
       "LastCommitAt": "2022-10-11T06:33:09Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13411,
+      "OpenedBy": "mlappo",
+      "CreatedAt": "2022-10-11T07:33:03Z",
+      "Recipe": "zlib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13411",
+      "LastCommitSHA": "44d36354126bec276ab02bd380198d3d89c84e13",
+      "LastCommitAt": "2022-10-11T07:34:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
