@@ -535,8 +535,8 @@
       "Recipe": "ghostscript",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13356",
-      "LastCommitSHA": "9fef7cb6ef848b74700b7495c50bae4848c25ca3",
-      "LastCommitAt": "2022-10-10T22:24:44Z",
+      "LastCommitSHA": "2ed7267eb5513f4bf95f7c00425b293e02405330",
+      "LastCommitAt": "2022-10-11T11:42:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -915,16 +915,14 @@
       "Recipe": "leptonica",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13398",
-      "LastCommitSHA": "0e622613c6bf3de6662aad195e45ff74892827eb",
-      "LastCommitAt": "2022-10-10T16:07:46Z",
+      "LastCommitSHA": "ba597c69a78db2e4d99bdbfe7aa7df9fbb885f4e",
+      "LastCommitAt": "2022-10-11T11:19:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -1061,6 +1059,60 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13419",
       "LastCommitSHA": "0a62bf62fbbf034ef14e8f8d2fc6ed506d2810ad",
       "LastCommitAt": "2022-10-11T09:36:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13420,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-10-11T11:49:54Z",
+      "Recipe": "aravis",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13420",
+      "LastCommitSHA": "c45ae5f6fb375b65af481f3742aefaafdb36fb58",
+      "LastCommitAt": "2022-10-11T11:49:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13421,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-10-11T11:56:32Z",
+      "Recipe": "libsass",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13421",
+      "LastCommitSHA": "3842192050e9edbd26b0c076601676c7e8b29b7b",
+      "LastCommitAt": "2022-10-11T11:58:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13423,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-11T12:31:13Z",
+      "Recipe": "luau",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13423",
+      "LastCommitSHA": "3cdc58747fdc25b8bffdb3e9eed7002a3efd9ac6",
+      "LastCommitAt": "2022-10-11T12:19:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
