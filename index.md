@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **32** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -52,11 +52,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13395](https://github.com/conan-io/conan-center-index/pull/13395)|[KingKili](https://github.com/KingKili)|Oct 10|:stopwatch: waf|0|||
 [#13398](https://github.com/conan-io/conan-center-index/pull/13398)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 10|:stopwatch: leptonica|2|Oct 11||jwillikers
 [#13403](https://github.com/conan-io/conan-center-index/pull/13403)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: ccfits|1|Oct 11||uilianries
-[#13404](https://github.com/conan-io/conan-center-index/pull/13404)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:green_book: docs|0|||
-[#13408](https://github.com/conan-io/conan-center-index/pull/13408)|[tankeco](https://github.com/tankeco)|Oct 11|:stopwatch: sqlite3|0|||
+[#13404](https://github.com/conan-io/conan-center-index/pull/13404)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:green_book: docs|1|Oct 11||uilianries
 [#13409](https://github.com/conan-io/conan-center-index/pull/13409)|[KingKili](https://github.com/KingKili)|Oct 11|:memo: wayland-protocols|1|Oct 11||ericLemanissier
 [#13412](https://github.com/conan-io/conan-center-index/pull/13412)|[miklelappo](https://github.com/miklelappo)|Oct 11|:stopwatch: zlib|0|||
-[#13416](https://github.com/conan-io/conan-center-index/pull/13416)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: libmysqlclient|0|||
+[#13416](https://github.com/conan-io/conan-center-index/pull/13416)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: libmysqlclient|1|Oct 11||AndreyMlashkin
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -88,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 208
+	- Open: 207
 	- Draft: 31
-	- Average Age: 70 days, 8 hours, and 46.01 minutes
+	- Average Age: 70 days, 17 hours, and 50.63 minutes
 	- Stop Label: 107
 	
 
