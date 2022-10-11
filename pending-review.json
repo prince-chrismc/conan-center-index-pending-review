@@ -963,29 +963,18 @@
       "LastCommitAt": "2022-10-10T20:51:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13408,
-      "OpenedBy": "tankeco",
-      "CreatedAt": "2022-10-11T04:15:58Z",
-      "Recipe": "sqlite3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13408",
-      "LastCommitSHA": "92dc7fa849eb369f334622e438c0fe019caebc02",
-      "LastCommitAt": "2022-10-11T04:09:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-11T09:10:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13404#pullrequestreview-1137103599"
+         }
       }
    },
    {
@@ -1042,11 +1031,18 @@
       "LastCommitAt": "2022-10-11T08:08:45Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "AndreyMlashkin"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2022-10-11T08:34:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13416#pullrequestreview-1137039969"
+         }
       }
    }
 ]
