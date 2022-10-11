@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|:eyes:||
 [#13315](https://github.com/conan-io/conan-center-index/pull/13315)|[jwillikers](https://github.com/jwillikers)|Oct 5|:stopwatch: dbus|10|Oct 11||
 [#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|||
-[#13351](https://github.com/conan-io/conan-center-index/pull/13351)|[jave27](https://github.com/jave27)|Oct 7|:stopwatch: p7zip|0|:eyes:||
+[#13351](https://github.com/conan-io/conan-center-index/pull/13351)|[jave27](https://github.com/jave27)|Oct 7|:new: p7zip|0|:eyes:||
 [#13356](https://github.com/conan-io/conan-center-index/pull/13356)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 7|:stopwatch: ghostscript|0|||
 [#13364](https://github.com/conan-io/conan-center-index/pull/13364)|[jwillikers](https://github.com/jwillikers)|Oct 8|:stopwatch: swig|0|||
 [#13367](https://github.com/conan-io/conan-center-index/pull/13367)|[ericriff](https://github.com/ericriff)|Oct 8|:memo: opengv|1|Oct 10||prince-chrismc
@@ -64,7 +64,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -81,7 +81,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13382](https://github.com/conan-io/conan-center-index/pull/13382)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:warning: uriparser|3|jwillikers, uilianries
 [#13383](https://github.com/conan-io/conan-center-index/pull/13383)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: draco|2|jwillikers, uilianries
 [#13388](https://github.com/conan-io/conan-center-index/pull/13388)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 10|:memo: libx264|2|MartinDelille, prince-chrismc
-[#13401](https://github.com/conan-io/conan-center-index/pull/13401)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:warning: c-blosc|2|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -92,8 +91,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 211
 	- Draft: 31
-	- Average Age: 69 days, 14 hours, and 8.07 minutes
-	- Stop Label: 109
+	- Average Age: 69 days, 14 hours, and 43.94 minutes
+	- Stop Label: 110
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
