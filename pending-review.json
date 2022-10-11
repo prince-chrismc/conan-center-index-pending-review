@@ -288,16 +288,14 @@
       "Recipe": "pybind11",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13283",
-      "LastCommitSHA": "b08be54444a038681c9c01560fdcbac92ab6d400",
-      "LastCommitAt": "2022-10-08T23:10:21Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "13b4cd99621ac566456ad85525d767ba93e7e6c3",
+      "LastCommitAt": "2022-10-11T08:26:18Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -317,7 +315,7 @@
       "LastCommitAt": "2022-10-06T11:26:51Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
+         "Count": 9,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -326,9 +324,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-06T18:55:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13285#pullrequestreview-1133496202"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-10-11T07:47:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13285#pullrequestreview-1136929015"
          }
       }
    },
@@ -730,8 +728,8 @@
       "Recipe": "ffmpeg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13387",
-      "LastCommitSHA": "bf41054b74a1a450b47e21e414abfd26437631ff",
-      "LastCommitAt": "2022-10-10T11:41:01Z",
+      "LastCommitSHA": "b5de633fb158ce002ede511b0b021648825f263d",
+      "LastCommitAt": "2022-10-11T07:42:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -750,7 +748,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13388",
       "LastCommitSHA": "03c28e545351daf37d7279029f2ac094eae81f84",
       "LastCommitAt": "2022-10-10T11:32:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -801,7 +799,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13390",
       "LastCommitSHA": "310557dd54eba36b9d39857e77752de4ef754f63",
       "LastCommitAt": "2022-10-10T11:56:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -914,17 +912,18 @@
       "LastCommitAt": "2022-10-10T18:42:28Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-10T19:12:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13401#pullrequestreview-1136437546"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-11T07:53:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13401#pullrequestreview-1136938866"
          }
       }
    },
@@ -939,11 +938,18 @@
       "LastCommitAt": "2022-10-10T19:41:46Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-11T08:01:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13403#pullrequestreview-1136953860"
+         }
       }
    },
    {
@@ -993,6 +999,31 @@
       "LastCommitAt": "2022-10-11T06:33:09Z",
       "CciBotPassed": true,
       "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-10-11T07:45:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13409#pullrequestreview-1136926170"
+         }
+      }
+   },
+   {
+      "Number": 13412,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2022-10-11T07:41:13Z",
+      "Recipe": "zlib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13412",
+      "LastCommitSHA": "44d36354126bec276ab02bd380198d3d89c84e13",
+      "LastCommitAt": "2022-10-11T07:34:48Z",
+      "CciBotPassed": false,
+      "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
@@ -1001,14 +1032,14 @@
       }
    },
    {
-      "Number": 13411,
-      "OpenedBy": "mlappo",
-      "CreatedAt": "2022-10-11T07:33:03Z",
-      "Recipe": "zlib",
+      "Number": 13416,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-10-11T08:09:26Z",
+      "Recipe": "libmysqlclient",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13411",
-      "LastCommitSHA": "44d36354126bec276ab02bd380198d3d89c84e13",
-      "LastCommitAt": "2022-10-11T07:34:48Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13416",
+      "LastCommitSHA": "32fb4c34661ab0ad9477c3845629603712cd581f",
+      "LastCommitAt": "2022-10-11T08:08:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
