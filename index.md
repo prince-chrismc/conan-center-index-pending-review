@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **32** pull requests currently under way :detective:
+There are **35** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -51,12 +51,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13393](https://github.com/conan-io/conan-center-index/pull/13393)|[KingKili](https://github.com/KingKili)|Oct 10|:memo: wasmedge|1|Oct 11||toge
 [#13394](https://github.com/conan-io/conan-center-index/pull/13394)|[jwillikers](https://github.com/jwillikers)|Oct 10|:stopwatch: glib|1|Oct 10||ericLemanissier
 [#13395](https://github.com/conan-io/conan-center-index/pull/13395)|[KingKili](https://github.com/KingKili)|Oct 10|:stopwatch: waf|0|||
-[#13398](https://github.com/conan-io/conan-center-index/pull/13398)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 10|:stopwatch: leptonica|3|Oct 11||jwillikers
+[#13398](https://github.com/conan-io/conan-center-index/pull/13398)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 10|:stopwatch: leptonica|3|Oct 11||
 [#13403](https://github.com/conan-io/conan-center-index/pull/13403)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: ccfits|1|Oct 11||uilianries
 [#13404](https://github.com/conan-io/conan-center-index/pull/13404)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:green_book: docs|1|Oct 11||uilianries
 [#13412](https://github.com/conan-io/conan-center-index/pull/13412)|[miklelappo](https://github.com/miklelappo)|Oct 11|:stopwatch: zlib|0|||
 [#13416](https://github.com/conan-io/conan-center-index/pull/13416)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: libmysqlclient|1|Oct 11||AndreyMlashkin
 [#13419](https://github.com/conan-io/conan-center-index/pull/13419)|[jcar87](https://github.com/jcar87)|Oct 11|:stopwatch: sqlite3|0|||
+[#13420](https://github.com/conan-io/conan-center-index/pull/13420)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: aravis|0|||
+[#13421](https://github.com/conan-io/conan-center-index/pull/13421)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: libsass|0|||
+[#13423](https://github.com/conan-io/conan-center-index/pull/13423)|[toge](https://github.com/toge)|Oct 11|:stopwatch: luau|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -88,9 +91,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cf025976e41c51dc084b48a5935a9224ef782600
 - Pull Requests:
-	- Open: 208
+	- Open: 211
 	- Draft: 31
-	- Average Age: 70 days, 11 hours, and 33.19 minutes
+	- Average Age: 69 days, 12 hours, and 51.50 minutes
 	- Stop Label: 107
 	
 
