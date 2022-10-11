@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **36** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -48,7 +48,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13363](https://github.com/conan-io/conan-center-index/pull/13363)|[jwillikers](https://github.com/jwillikers)|Oct 8|:memo: wayland|3|Oct 10||uilianries
 [#13364](https://github.com/conan-io/conan-center-index/pull/13364)|[jwillikers](https://github.com/jwillikers)|Oct 8|:stopwatch: swig|0|||
 [#13367](https://github.com/conan-io/conan-center-index/pull/13367)|[ericriff](https://github.com/ericriff)|Oct 8|:memo: opengv|1|Oct 10||prince-chrismc
-[#13386](https://github.com/conan-io/conan-center-index/pull/13386)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 10|:stopwatch: onetbb|0|||
 [#13387](https://github.com/conan-io/conan-center-index/pull/13387)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 10|:stopwatch: ffmpeg|0|||
 [#13388](https://github.com/conan-io/conan-center-index/pull/13388)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 10|:stopwatch: libx264|1|Oct 10||MartinDelille
 [#13389](https://github.com/conan-io/conan-center-index/pull/13389)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 10|:stopwatch: .c3i|1|Oct 10||uilianries
@@ -60,7 +59,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13401](https://github.com/conan-io/conan-center-index/pull/13401)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: c-blosc|1|Oct 10||jwillikers
 [#13403](https://github.com/conan-io/conan-center-index/pull/13403)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: ccfits|0|||
 [#13404](https://github.com/conan-io/conan-center-index/pull/13404)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:green_book: docs|0|||
-[#13406](https://github.com/conan-io/conan-center-index/pull/13406)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: opencv|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -89,8 +87,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 203
 	- Draft: 30
-	- Average Age: 71 days, 17 hours, and 44.13 minutes
-	- Stop Label: 106
+	- Average Age: 71 days, 19 hours, and 44.89 minutes
+	- Stop Label: 107
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
