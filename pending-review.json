@@ -742,24 +742,6 @@
       }
    },
    {
-      "Number": 13386,
-      "OpenedBy": "kambala-decapitator",
-      "CreatedAt": "2022-10-10T06:08:03Z",
-      "Recipe": "onetbb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13386",
-      "LastCommitSHA": "b18af409747b9003889ca6ee86a1bd46a05ade17",
-      "LastCommitAt": "2022-10-10T12:19:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13387,
       "OpenedBy": "kambala-decapitator",
       "CreatedAt": "2022-10-10T07:30:55Z",
@@ -991,24 +973,6 @@
       "LastCommitSHA": "6e68808148b8f064a115f8afabbdb54fc132d7c4",
       "LastCommitAt": "2022-10-10T20:51:51Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13406,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-10T23:16:02Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13406",
-      "LastCommitSHA": "8b506aba024b9a5ae4588202d520e246d1c8a21a",
-      "LastCommitAt": "2022-10-10T23:14:15Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
