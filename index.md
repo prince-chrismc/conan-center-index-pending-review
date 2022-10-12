@@ -21,10 +21,11 @@
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
+[#9891](https://github.com/conan-io/conan-center-index/pull/9891)|[erikogenvik](https://github.com/erikogenvik)|Mar 23|:stopwatch: cpython|10|Oct 11||
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|10|Oct 11|uilianries|prince-chrismc
@@ -52,8 +53,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13416](https://github.com/conan-io/conan-center-index/pull/13416)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: libmysqlclient|3|Oct 12||
 [#13420](https://github.com/conan-io/conan-center-index/pull/13420)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:memo: aravis|1|Oct 12||jwillikers
 [#13421](https://github.com/conan-io/conan-center-index/pull/13421)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: libsass|1|Oct 12||
-[#13423](https://github.com/conan-io/conan-center-index/pull/13423)|[toge](https://github.com/toge)|Oct 11|:stopwatch: luau|1|Oct 12||
+[#13423](https://github.com/conan-io/conan-center-index/pull/13423)|[toge](https://github.com/toge)|Oct 11|:memo: luau|1|Oct 12||
 [#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|||
+[#13427](https://github.com/conan-io/conan-center-index/pull/13427)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:stopwatch: cairo|0|||
 [#13428](https://github.com/conan-io/conan-center-index/pull/13428)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:memo: gdk-pixbuf|1|Oct 12||jwillikers
 [#13430](https://github.com/conan-io/conan-center-index/pull/13430)|[jfaust](https://github.com/jfaust)|Oct 11|:stopwatch: cgltf|0|||
 
@@ -86,8 +88,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 205
 	- Draft: 32
-	- Average Age: 72 days, 1 hours, and 53.18 minutes
-	- Stop Label: 108
+	- Average Age: 72 days, 2 hours, and 50.45 minutes
+	- Stop Label: 106
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
