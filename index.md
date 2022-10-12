@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **36** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,6 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13387](https://github.com/conan-io/conan-center-index/pull/13387)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 10|:stopwatch: ffmpeg|1|Oct 12||
 [#13392](https://github.com/conan-io/conan-center-index/pull/13392)|[toge](https://github.com/toge)|Oct 10|:stopwatch: lunasvg|0|||
 [#13397](https://github.com/conan-io/conan-center-index/pull/13397)|[KingKili](https://github.com/KingKili)|Oct 10|:stopwatch: volk|0|||
+[#13401](https://github.com/conan-io/conan-center-index/pull/13401)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: c-blosc|5|Oct 11||jwillikers
 [#13403](https://github.com/conan-io/conan-center-index/pull/13403)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: ccfits|1|Oct 11||
 [#13404](https://github.com/conan-io/conan-center-index/pull/13404)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:green_book: docs|3|Oct 11||jwillikers
 [#13412](https://github.com/conan-io/conan-center-index/pull/13412)|[miklelappo](https://github.com/miklelappo)|Oct 11|:stopwatch: zlib|2|Oct 11||
@@ -58,11 +59,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13428](https://github.com/conan-io/conan-center-index/pull/13428)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:memo: gdk-pixbuf|1|Oct 12||jwillikers
 [#13430](https://github.com/conan-io/conan-center-index/pull/13430)|[jfaust](https://github.com/jfaust)|Oct 11|:stopwatch: cgltf|0|||
 [#13434](https://github.com/conan-io/conan-center-index/pull/13434)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 12|:stopwatch: sdl|0|||
+[#13435](https://github.com/conan-io/conan-center-index/pull/13435)|[morningstar1](https://github.com/morningstar1)|Oct 12|:stopwatch: openssl|0|||
+[#13437](https://github.com/conan-io/conan-center-index/pull/13437)|[lkotsonis](https://github.com/lkotsonis)|Oct 12|:stopwatch: shield|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -73,6 +76,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13283](https://github.com/conan-io/conan-center-index/pull/13283)|[planetmarshall](https://github.com/planetmarshall)|Oct 3|:warning: pybind11|8|jwillikers, prince-chrismc
 [#13322](https://github.com/conan-io/conan-center-index/pull/13322)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 6|:gear: .c3i|2|uilianries, prince-chrismc
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
+[#13381](https://github.com/conan-io/conan-center-index/pull/13381)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:warning: vk-bootstrap|2|jwillikers, uilianries
 [#13382](https://github.com/conan-io/conan-center-index/pull/13382)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:warning: uriparser|3|jwillikers, uilianries
 [#13389](https://github.com/conan-io/conan-center-index/pull/13389)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 10|:gear: .c3i|2|uilianries, prince-chrismc
 [#13394](https://github.com/conan-io/conan-center-index/pull/13394)|[jwillikers](https://github.com/jwillikers)|Oct 10|:warning: glib|2|ericLemanissier, prince-chrismc
@@ -86,10 +90,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 206
+	- Open: 209
 	- Draft: 32
-	- Average Age: 71 days, 19 hours, and 25.83 minutes
-	- Stop Label: 107
+	- Average Age: 70 days, 19 hours, and 39.55 minutes
+	- Stop Label: 105
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
