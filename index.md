@@ -55,9 +55,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13421](https://github.com/conan-io/conan-center-index/pull/13421)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: libsass|1|Oct 12||
 [#13423](https://github.com/conan-io/conan-center-index/pull/13423)|[toge](https://github.com/toge)|Oct 11|:memo: luau|1|Oct 12||
 [#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|||
-[#13427](https://github.com/conan-io/conan-center-index/pull/13427)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:stopwatch: cairo|0|||
 [#13428](https://github.com/conan-io/conan-center-index/pull/13428)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:memo: gdk-pixbuf|1|Oct 12||jwillikers
 [#13430](https://github.com/conan-io/conan-center-index/pull/13430)|[jfaust](https://github.com/jfaust)|Oct 11|:stopwatch: cgltf|0|||
+[#13434](https://github.com/conan-io/conan-center-index/pull/13434)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 12|:stopwatch: sdl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -86,10 +86,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 205
+	- Open: 206
 	- Draft: 32
-	- Average Age: 72 days, 2 hours, and 50.45 minutes
-	- Stop Label: 106
+	- Average Age: 71 days, 19 hours, and 25.83 minutes
+	- Stop Label: 107
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
