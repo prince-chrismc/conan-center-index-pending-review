@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **36** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -61,6 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13434](https://github.com/conan-io/conan-center-index/pull/13434)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 12|:stopwatch: sdl|0|||
 [#13435](https://github.com/conan-io/conan-center-index/pull/13435)|[morningstar1](https://github.com/morningstar1)|Oct 12|:stopwatch: openssl|0|||
 [#13437](https://github.com/conan-io/conan-center-index/pull/13437)|[lkotsonis](https://github.com/lkotsonis)|Oct 12|:stopwatch: shield|0|||
+[#13440](https://github.com/conan-io/conan-center-index/pull/13440)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:stopwatch: glib|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -90,9 +91,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 210
+	- Open: 211
 	- Draft: 32
-	- Average Age: 70 days, 12 hours, and 29.50 minutes
+	- Average Age: 70 days, 5 hours, and 47.99 minutes
 	- Stop Label: 105
 	
 
