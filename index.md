@@ -25,9 +25,9 @@ There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
-[#10003](https://github.com/conan-io/conan-center-index/pull/10003)|[Cyriuz](https://github.com/Cyriuz)|Mar 29|:stopwatch: imagemagick|1|Mar 29 :bell:|jgsogo|
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
+[#12371](https://github.com/conan-io/conan-center-index/pull/12371)|[hesham-essam](https://github.com/hesham-essam)|Aug 19|:stopwatch: imagemagick|9|Oct 10||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|10|Oct 11|uilianries|prince-chrismc
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13197](https://github.com/conan-io/conan-center-index/pull/13197)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 28|:memo: diligent-core|9|Oct 12||prince-chrismc
@@ -37,7 +37,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|:eyes:||
 [#13315](https://github.com/conan-io/conan-center-index/pull/13315)|[jwillikers](https://github.com/jwillikers)|Oct 5|:memo: dbus|11|Oct 11||prince-chrismc
 [#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|:eyes:||
-[#13351](https://github.com/conan-io/conan-center-index/pull/13351)|[jave27](https://github.com/jave27)|Oct 7|:new: p7zip|4|Oct 13||
+[#13351](https://github.com/conan-io/conan-center-index/pull/13351)|[jave27](https://github.com/jave27)|Oct 7|:new: p7zip|5|Oct 13||prince-chrismc
 [#13364](https://github.com/conan-io/conan-center-index/pull/13364)|[jwillikers](https://github.com/jwillikers)|Oct 8|:memo: swig|1|Oct 13||prince-chrismc
 [#13392](https://github.com/conan-io/conan-center-index/pull/13392)|[toge](https://github.com/toge)|Oct 10|:memo: lunasvg|4|Oct 12||jwillikers
 [#13397](https://github.com/conan-io/conan-center-index/pull/13397)|[KingKili](https://github.com/KingKili)|Oct 10|:memo: volk|1|Oct 12||prince-chrismc
@@ -87,7 +87,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 215
 	- Draft: 32
-	- Average Age: 70 days, 1 hours, and 12.90 minutes
+	- Average Age: 70 days, 2 hours, and 14.22 minutes
 	- Stop Label: 114
 	
 
