@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **38** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|3|Oct 12||prince-chrismc
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|:eyes:||
 [#13315](https://github.com/conan-io/conan-center-index/pull/13315)|[jwillikers](https://github.com/jwillikers)|Oct 5|:stopwatch: dbus|11|Oct 11||prince-chrismc
-[#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|||
+[#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|:eyes:||
 [#13351](https://github.com/conan-io/conan-center-index/pull/13351)|[jave27](https://github.com/jave27)|Oct 7|:new: p7zip|0|:eyes:||
 [#13355](https://github.com/conan-io/conan-center-index/pull/13355)|[jwillikers](https://github.com/jwillikers)|Oct 7|:stopwatch: libffi|2|Oct 12||
 [#13356](https://github.com/conan-io/conan-center-index/pull/13356)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 7|:stopwatch: ghostscript|0|||
@@ -63,6 +63,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13446](https://github.com/conan-io/conan-center-index/pull/13446)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:stopwatch: cityhash|0|||
 [#13447](https://github.com/conan-io/conan-center-index/pull/13447)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:stopwatch: coin-utils|0|||
 [#13450](https://github.com/conan-io/conan-center-index/pull/13450)|[SpaceIm](https://github.com/SpaceIm)|Oct 13|:stopwatch: libtar|0|||
+[#13451](https://github.com/conan-io/conan-center-index/pull/13451)|[planetmarshall](https://github.com/planetmarshall)|Oct 13|:stopwatch: freetype|0|||
+[#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:stopwatch: theora|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -97,9 +99,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 220
+	- Open: 222
 	- Draft: 32
-	- Average Age: 68 days, 3 hours, and 24.26 minutes
+	- Average Age: 67 days, 13 hours, and 33.25 minutes
 	- Stop Label: 106
 	
 
