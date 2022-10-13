@@ -800,17 +800,18 @@
       "LastCommitAt": "2022-10-12T06:49:04Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "mlappo"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-12T16:50:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13412#pullrequestreview-1139431907"
+            "ReviewerName": "mlappo",
+            "SubmittedAt": "2022-10-13T10:42:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13412#pullrequestreview-1140541993"
          }
       }
    },
