@@ -1275,8 +1275,44 @@
       "Recipe": "libtar",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13450",
-      "LastCommitSHA": "5dcb3e9019391d4bf11bc51b05e6d310cf6ec30c",
+      "LastCommitSHA": "8040ad4f2b565f5396281eda824101dadb4dc34e",
       "LastCommitAt": "2022-10-13T07:24:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13451,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2022-10-13T08:10:46Z",
+      "Recipe": "freetype",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13451",
+      "LastCommitSHA": "5a1847bd85cfcb30388685e07df6837c7221d223",
+      "LastCommitAt": "2022-10-13T08:08:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13452,
+      "OpenedBy": "paulharris",
+      "CreatedAt": "2022-10-13T08:15:24Z",
+      "Recipe": "theora",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13452",
+      "LastCommitSHA": "3297a2687bf2a0e650a08a7635df9de82376f784",
+      "LastCommitAt": "2022-10-13T07:21:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
