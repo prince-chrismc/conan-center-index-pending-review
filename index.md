@@ -65,7 +65,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -77,7 +77,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13389](https://github.com/conan-io/conan-center-index/pull/13389)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 10|:gear: .c3i|2|uilianries, prince-chrismc
 [#13398](https://github.com/conan-io/conan-center-index/pull/13398)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 10|:warning: leptonica|6|jwillikers, prince-chrismc, uilianries
-[#13419](https://github.com/conan-io/conan-center-index/pull/13419)|[jcar87](https://github.com/jcar87)|Oct 11|:memo: sqlite3|3|danimtb, prince-chrismc, uilianries
 [#13420](https://github.com/conan-io/conan-center-index/pull/13420)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:memo: aravis|2|jwillikers, uilianries
 
 
@@ -87,9 +86,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 220
+	- Open: 219
 	- Draft: 32
-	- Average Age: 68 days, 8 hours, and 25.77 minutes
+	- Average Age: 68 days, 16 hours, and 33.57 minutes
 	- Stop Label: 115
 	
 
