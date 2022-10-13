@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **38** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -62,6 +62,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13444](https://github.com/conan-io/conan-center-index/pull/13444)|[ericriff](https://github.com/ericriff)|Oct 12|:stopwatch: opengv|0|||
 [#13446](https://github.com/conan-io/conan-center-index/pull/13446)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:stopwatch: cityhash|0|||
 [#13447](https://github.com/conan-io/conan-center-index/pull/13447)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:stopwatch: coin-utils|0|||
+[#13450](https://github.com/conan-io/conan-center-index/pull/13450)|[SpaceIm](https://github.com/SpaceIm)|Oct 13|:stopwatch: libtar|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -86,7 +87,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13389](https://github.com/conan-io/conan-center-index/pull/13389)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 10|:gear: .c3i|2|uilianries, prince-chrismc
 [#13394](https://github.com/conan-io/conan-center-index/pull/13394)|[jwillikers](https://github.com/jwillikers)|Oct 10|:warning: glib|2|ericLemanissier, prince-chrismc
 [#13398](https://github.com/conan-io/conan-center-index/pull/13398)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 10|:warning: leptonica|5|jwillikers, prince-chrismc
-[#13416](https://github.com/conan-io/conan-center-index/pull/13416)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:warning: libmysqlclient|5|jwillikers, prince-chrismc
+[#13416](https://github.com/conan-io/conan-center-index/pull/13416)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:warning: libmysqlclient|6|jwillikers, prince-chrismc, uilianries
 [#13419](https://github.com/conan-io/conan-center-index/pull/13419)|[jcar87](https://github.com/jcar87)|Oct 11|:warning: sqlite3|2|danimtb, prince-chrismc
 
 
@@ -96,9 +97,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 219
+	- Open: 220
 	- Draft: 32
-	- Average Age: 68 days, 10 hours, and 13.81 minutes
+	- Average Age: 68 days, 3 hours, and 24.26 minutes
 	- Stop Label: 106
 	
 
