@@ -44,7 +44,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13401](https://github.com/conan-io/conan-center-index/pull/13401)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: c-blosc|5|Oct 11||jwillikers
 [#13403](https://github.com/conan-io/conan-center-index/pull/13403)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: ccfits|2|Oct 12||jwillikers
 [#13404](https://github.com/conan-io/conan-center-index/pull/13404)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 10|:green_book: docs|3|Oct 11||jwillikers
-[#13412](https://github.com/conan-io/conan-center-index/pull/13412)|[miklelappo](https://github.com/miklelappo)|Oct 11|:stopwatch: zlib|3|Oct 12||prince-chrismc
+[#13412](https://github.com/conan-io/conan-center-index/pull/13412)|[miklelappo](https://github.com/miklelappo)|Oct 11|:stopwatch: zlib|4|Oct 13||prince-chrismc, mlappo
 [#13420](https://github.com/conan-io/conan-center-index/pull/13420)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:memo: aravis|1|Oct 12||jwillikers
 [#13421](https://github.com/conan-io/conan-center-index/pull/13421)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:stopwatch: libsass|2|Oct 12||jwillikers
 [#13423](https://github.com/conan-io/conan-center-index/pull/13423)|[toge](https://github.com/toge)|Oct 11|:memo: luau|2|Oct 12||jwillikers
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 224
 	- Draft: 32
-	- Average Age: 67 days, and 59.72 minutes
+	- Average Age: 67 days, 1 hours, and 55.32 minutes
 	- Stop Label: 109
 	
 
