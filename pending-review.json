@@ -474,41 +474,17 @@
       "LastCommitAt": "2022-10-14T16:47:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-14T13:23:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13465#pullrequestreview-1142417118"
-         }
-      }
-   },
-   {
-      "Number": 13473,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-10-14T09:40:34Z",
-      "Recipe": "aws-c-auth",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13473",
-      "LastCommitSHA": "ffc6aa7b3e3a4912015121d4805064c0c65236dc",
-      "LastCommitAt": "2022-10-14T09:37:15Z",
-      "CciBotPassed": true,
-      "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "jwillikers",
-            "uilianries"
+            "jwillikers"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-10-14T14:18:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13473#pullrequestreview-1142510571"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-14T18:58:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13465#pullrequestreview-1142862588"
          }
       }
    },
@@ -614,6 +590,32 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2022-10-14T16:08:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13481#pullrequestreview-1142672029"
+         }
+      }
+   },
+   {
+      "Number": 13483,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-14T14:31:47Z",
+      "Recipe": "aws-c-mqtt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13483",
+      "LastCommitSHA": "d4ef05cfc9300f7f297ba6c753e3fc893a1bbfad",
+      "LastCommitAt": "2022-10-14T14:31:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries",
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-14T15:47:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13483#pullrequestreview-1142644748"
          }
       }
    },
