@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **17** pull requests currently under way :detective:
+There are **14** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -29,24 +29,21 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|10|Oct 11|uilianries|prince-chrismc
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
-[#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:stopwatch: c-ares|3|Sep 30 :bell:|uilianries|jwillikers
-[#13283](https://github.com/conan-io/conan-center-index/pull/13283)|[planetmarshall](https://github.com/planetmarshall)|Oct 3|:stopwatch: pybind11|10|Oct 14||jwillikers
+[#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30 :bell:|uilianries|jwillikers
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|:eyes:||
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|5|Oct 14||prince-chrismc
 [#13308](https://github.com/conan-io/conan-center-index/pull/13308)|[antony-jr](https://github.com/antony-jr)|Oct 5|:stopwatch: qarchive|0|:eyes:||
 [#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|:eyes:||
-[#13365](https://github.com/conan-io/conan-center-index/pull/13365)|[toge](https://github.com/toge)|Oct 8|:stopwatch: grpc|1|Oct 14||
 [#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|:eyes:||
 [#13443](https://github.com/conan-io/conan-center-index/pull/13443)|[lrineau](https://github.com/lrineau)|Oct 12|:stopwatch: cgal|0|||
 [#13444](https://github.com/conan-io/conan-center-index/pull/13444)|[ericriff](https://github.com/ericriff)|Oct 12|:memo: opengv|1|Oct 14||uilianries
-[#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:stopwatch: theora|0|||
-[#13465](https://github.com/conan-io/conan-center-index/pull/13465)|[toge](https://github.com/toge)|Oct 14|:stopwatch: quickjs|1|Oct 14||
-[#13486](https://github.com/conan-io/conan-center-index/pull/13486)|[toge](https://github.com/toge)|Oct 14|:stopwatch: sole|0|||
+[#13465](https://github.com/conan-io/conan-center-index/pull/13465)|[toge](https://github.com/toge)|Oct 14|:new: quickjs|1|Oct 14||
+[#13486](https://github.com/conan-io/conan-center-index/pull/13486)|[toge](https://github.com/toge)|Oct 14|:memo: sole|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -59,13 +56,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13435](https://github.com/conan-io/conan-center-index/pull/13435)|[morningstar1](https://github.com/morningstar1)|Oct 12|:warning: openssl|2|prince-chrismc, uilianries
 [#13457](https://github.com/conan-io/conan-center-index/pull/13457)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 13|:gear: .c3i|2|prince-chrismc, uilianries
 [#13461](https://github.com/conan-io/conan-center-index/pull/13461)|[jgsogo](https://github.com/jgsogo)|Oct 13|:gear: .c3i|4|jwillikers, prince-chrismc, danimtb, czoido
-[#13468](https://github.com/conan-io/conan-center-index/pull/13468)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 14|:memo: nss|2|jwillikers, uilianries
-[#13473](https://github.com/conan-io/conan-center-index/pull/13473)|[toge](https://github.com/toge)|Oct 14|:warning: aws-c-auth|2|jwillikers, uilianries
+[#13473](https://github.com/conan-io/conan-center-index/pull/13473)|[toge](https://github.com/toge)|Oct 14|:memo: aws-c-auth|2|jwillikers, uilianries
 [#13476](https://github.com/conan-io/conan-center-index/pull/13476)|[friendlyanon](https://github.com/friendlyanon)|Oct 14|:memo: boost-ext-ut|2|jwillikers, uilianries
 [#13479](https://github.com/conan-io/conan-center-index/pull/13479)|[SpaceIm](https://github.com/SpaceIm)|Oct 14|:memo: frozen|3|jwillikers, uilianries, toge
 [#13480](https://github.com/conan-io/conan-center-index/pull/13480)|[SpaceIm](https://github.com/SpaceIm)|Oct 14|:memo: stc|2|jwillikers, uilianries
-[#13481](https://github.com/conan-io/conan-center-index/pull/13481)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 14|:warning: sassc|8|uilianries, jwillikers
-[#13483](https://github.com/conan-io/conan-center-index/pull/13483)|[toge](https://github.com/toge)|Oct 14|:warning: aws-c-mqtt|2|uilianries, jwillikers
+[#13481](https://github.com/conan-io/conan-center-index/pull/13481)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 14|:memo: sassc|8|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -74,10 +69,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 205
+	- Open: 202
 	- Draft: 32
-	- Average Age: 73 days, 15 hours, and 57.27 minutes
-	- Stop Label: 120
+	- Average Age: 74 days, 17 hours, and 44.62 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
