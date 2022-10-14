@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **25** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -44,12 +44,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13442](https://github.com/conan-io/conan-center-index/pull/13442)|[toge](https://github.com/toge)|Oct 12|:memo: qcbor|1|Oct 12||jwillikers
 [#13443](https://github.com/conan-io/conan-center-index/pull/13443)|[lrineau](https://github.com/lrineau)|Oct 12|:stopwatch: cgal|0|||
 [#13444](https://github.com/conan-io/conan-center-index/pull/13444)|[ericriff](https://github.com/ericriff)|Oct 12|:stopwatch: opengv|0|||
+[#13445](https://github.com/conan-io/conan-center-index/pull/13445)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:memo: libelf|3|Oct 14||uilianries
 [#13451](https://github.com/conan-io/conan-center-index/pull/13451)|[planetmarshall](https://github.com/planetmarshall)|Oct 13|:stopwatch: freetype|0|||
 [#13453](https://github.com/conan-io/conan-center-index/pull/13453)|[AnotherFoxGuy](https://github.com/AnotherFoxGuy)|Oct 13|:stopwatch: angelscript|0|||
 [#13460](https://github.com/conan-io/conan-center-index/pull/13460)|[jwillikers](https://github.com/jwillikers)|Oct 13|:memo: avahi|1|Oct 13||prince-chrismc
+[#13464](https://github.com/conan-io/conan-center-index/pull/13464)|[miklelappo](https://github.com/miklelappo)|Oct 14|:stopwatch: zlib|6|Oct 14||
 [#13465](https://github.com/conan-io/conan-center-index/pull/13465)|[toge](https://github.com/toge)|Oct 14|:stopwatch: quickjs|0|||
 [#13468](https://github.com/conan-io/conan-center-index/pull/13468)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 14|:stopwatch: nss|0|||
 [#13473](https://github.com/conan-io/conan-center-index/pull/13473)|[toge](https://github.com/toge)|Oct 14|:stopwatch: aws-c-auth|0|||
+[#13476](https://github.com/conan-io/conan-center-index/pull/13476)|[friendlyanon](https://github.com/friendlyanon)|Oct 14|:memo: boost-ext-ut|0|||
+[#13479](https://github.com/conan-io/conan-center-index/pull/13479)|[SpaceIm](https://github.com/SpaceIm)|Oct 14|:stopwatch: frozen|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -77,9 +81,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 209
+	- Open: 211
 	- Draft: 32
-	- Average Age: 72 days, 9 hours, and 14.57 minutes
+	- Average Age: 71 days, 13 hours, and 11.97 minutes
 	- Stop Label: 117
 	
 
