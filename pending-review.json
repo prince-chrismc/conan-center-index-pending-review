@@ -785,5 +785,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13504,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-15T19:27:27Z",
+      "Recipe": "oatpp-sqlite",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13504",
+      "LastCommitSHA": "a870987ed2c407a31afa0b72526b678674ff8b07",
+      "LastCommitAt": "2022-10-15T19:26:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13505,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-15T19:43:04Z",
+      "Recipe": "oatpp-openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13505",
+      "LastCommitSHA": "259314a96e8b5c9420e5a7d6724606d1a8ca897c",
+      "LastCommitAt": "2022-10-15T19:40:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
