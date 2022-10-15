@@ -21,22 +21,25 @@
 
 ### :nerd_face: Please Review! 
 
-There are **15** pull requests currently under way :detective:
+There are **18** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|10|Oct 11|uilianries|prince-chrismc
+[#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:stopwatch: qpdf|39|Oct 14||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30 :bell:|uilianries|jwillikers
 [#13288](https://github.com/conan-io/conan-center-index/pull/13288)|[winterz](https://github.com/winterz)|Oct 3|:stopwatch: libical|0|:eyes:||
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|5|Oct 14||prince-chrismc
 [#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|:eyes:||
+[#13365](https://github.com/conan-io/conan-center-index/pull/13365)|[toge](https://github.com/toge)|Oct 8|:stopwatch: grpc|2|Oct 14||
 [#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|:eyes:||
 [#13443](https://github.com/conan-io/conan-center-index/pull/13443)|[lrineau](https://github.com/lrineau)|Oct 12|:stopwatch: cgal|0|||
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:stopwatch: theora|0|||
 [#13482](https://github.com/conan-io/conan-center-index/pull/13482)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 14|:stopwatch: qt|2|Oct 14||jwillikers
+[#13486](https://github.com/conan-io/conan-center-index/pull/13486)|[toge](https://github.com/toge)|Oct 14|:stopwatch: sole|3|Oct 14||
 [#13490](https://github.com/conan-io/conan-center-index/pull/13490)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 14|:green_book: docs|0|||
 [#13491](https://github.com/conan-io/conan-center-index/pull/13491)|[Croydon](https://github.com/Croydon)|Oct 15|:stopwatch: cmake|0|||
 [#13492](https://github.com/conan-io/conan-center-index/pull/13492)|[ericriff](https://github.com/ericriff)|Oct 15|:stopwatch: libsvm|0|||
@@ -67,8 +70,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 188
 	- Draft: 30
-	- Average Age: 78 days, 14 hours, and 23.96 minutes
-	- Stop Label: 121
+	- Average Age: 78 days, 15 hours, and 55.84 minutes
+	- Stop Label: 119
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
