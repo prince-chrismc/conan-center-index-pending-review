@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13322](https://github.com/conan-io/conan-center-index/pull/13322)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 6|:gear: .c3i|2|uilianries, prince-chrismc
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13389](https://github.com/conan-io/conan-center-index/pull/13389)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 10|:gear: .c3i|2|uilianries, prince-chrismc
-[#13435](https://github.com/conan-io/conan-center-index/pull/13435)|[morningstar1](https://github.com/morningstar1)|Oct 12|:warning: openssl|2|prince-chrismc, uilianries
+[#13435](https://github.com/conan-io/conan-center-index/pull/13435)|[morningstar1](https://github.com/morningstar1)|Oct 12|:warning: openssl|3|prince-chrismc, uilianries
 [#13457](https://github.com/conan-io/conan-center-index/pull/13457)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 13|:gear: .c3i|2|prince-chrismc, uilianries
 [#13461](https://github.com/conan-io/conan-center-index/pull/13461)|[jgsogo](https://github.com/jgsogo)|Oct 13|:gear: .c3i|4|jwillikers, prince-chrismc, danimtb, czoido
 
@@ -70,7 +70,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 188
 	- Draft: 30
-	- Average Age: 78 days, 15 hours, and 55.84 minutes
+	- Average Age: 78 days, 17 hours, and 32.11 minutes
 	- Stop Label: 119
 	
 
