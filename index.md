@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,6 +55,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13504](https://github.com/conan-io/conan-center-index/pull/13504)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:stopwatch: oatpp-sqlite|0|||
 [#13505](https://github.com/conan-io/conan-center-index/pull/13505)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:stopwatch: oatpp-openssl|0|||
 [#13506](https://github.com/conan-io/conan-center-index/pull/13506)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:stopwatch: oatpp-postgresql|0|||
+[#13507](https://github.com/conan-io/conan-center-index/pull/13507)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:stopwatch: oatpp-swagger|0|||
+[#13508](https://github.com/conan-io/conan-center-index/pull/13508)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:stopwatch: oatpp-libressl|0|||
+[#13509](https://github.com/conan-io/conan-center-index/pull/13509)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:stopwatch: oatpp-websocket|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -79,9 +82,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 197
+	- Open: 200
 	- Draft: 32
-	- Average Age: 75 days, 16 hours, and 27.54 minutes
+	- Average Age: 74 days, 14 hours, and 13.85 minutes
 	- Stop Label: 118
 	
 
