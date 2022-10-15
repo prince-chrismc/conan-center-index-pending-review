@@ -28,7 +28,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|10|Oct 11|uilianries|prince-chrismc
-[#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:stopwatch: qpdf|39|Oct 14||
+[#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:new: qpdf|39|Oct 14||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13185](https://github.com/conan-io/conan-center-index/pull/13185)|[MartinDelille](https://github.com/MartinDelille)|Sep 27|:stopwatch: yasm|10|Oct 12||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30 :bell:|uilianries|jwillikers
@@ -40,12 +40,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13441](https://github.com/conan-io/conan-center-index/pull/13441)|[toge](https://github.com/toge)|Oct 12|:stopwatch: bzip3|1|Oct 12||
 [#13443](https://github.com/conan-io/conan-center-index/pull/13443)|[lrineau](https://github.com/lrineau)|Oct 12|:stopwatch: cgal|0|||
 [#13451](https://github.com/conan-io/conan-center-index/pull/13451)|[planetmarshall](https://github.com/planetmarshall)|Oct 13|:stopwatch: freetype|1|Oct 14||
-[#13482](https://github.com/conan-io/conan-center-index/pull/13482)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 14|:stopwatch: qt|4|Oct 15||jwillikers, ericLemanissier
+[#13482](https://github.com/conan-io/conan-center-index/pull/13482)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 14|:memo: qt|4|Oct 15||jwillikers, ericLemanissier
 [#13486](https://github.com/conan-io/conan-center-index/pull/13486)|[toge](https://github.com/toge)|Oct 14|:memo: sole|3|Oct 14||
 [#13490](https://github.com/conan-io/conan-center-index/pull/13490)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 14|:green_book: docs|1|Oct 15||
 [#13491](https://github.com/conan-io/conan-center-index/pull/13491)|[Croydon](https://github.com/Croydon)|Oct 15|:stopwatch: cmake|0|||
 [#13492](https://github.com/conan-io/conan-center-index/pull/13492)|[ericriff](https://github.com/ericriff)|Oct 15|:memo: libsvm|0|||
-[#13494](https://github.com/conan-io/conan-center-index/pull/13494)|[toge](https://github.com/toge)|Oct 15|:stopwatch: aws-c-s3|0|||
+[#13495](https://github.com/conan-io/conan-center-index/pull/13495)|[toge](https://github.com/toge)|Oct 15|:stopwatch: aws-c-http|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -71,9 +71,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 189
-	- Draft: 30
-	- Average Age: 78 days, 10 hours, and 28.97 minutes
+	- Open: 190
+	- Draft: 31
+	- Average Age: 78 days, 1 hours, and 14.12 minutes
 	- Stop Label: 118
 	
 
