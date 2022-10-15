@@ -841,5 +841,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13507,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-15T21:18:29Z",
+      "Recipe": "oatpp-swagger",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13507",
+      "LastCommitSHA": "7cf577e16214ed1fc1ddfa24156048e3989363cc",
+      "LastCommitAt": "2022-10-15T21:17:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13508,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-15T21:56:40Z",
+      "Recipe": "oatpp-libressl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13508",
+      "LastCommitSHA": "2c6a50ae2425c92b3827eef397f4912a01bccf7a",
+      "LastCommitAt": "2022-10-15T21:55:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13509,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-15T22:07:01Z",
+      "Recipe": "oatpp-websocket",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13509",
+      "LastCommitSHA": "022b8189e902b86adbe096dda875f29f8232c332",
+      "LastCommitAt": "2022-10-15T22:06:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
