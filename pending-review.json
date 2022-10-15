@@ -695,15 +695,17 @@
       "LastCommitAt": "2022-10-15T14:34:57Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-15T13:13:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13491#pullrequestreview-1143185336"
+            "SubmittedAt": "2022-10-15T21:06:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13491#pullrequestreview-1143227873"
          }
       }
    },
@@ -813,6 +815,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13505",
       "LastCommitSHA": "259314a96e8b5c9420e5a7d6724606d1a8ca897c",
       "LastCommitAt": "2022-10-15T19:40:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13506,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-15T20:38:07Z",
+      "Recipe": "oatpp-postgresql",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13506",
+      "LastCommitSHA": "9787b0ab2e2368c526bfc47bf80b3d132714eea9",
+      "LastCommitAt": "2022-10-15T20:37:28Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
