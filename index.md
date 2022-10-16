@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **47** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -33,7 +33,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12747](https://github.com/conan-io/conan-center-index/pull/12747)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: hash-library|10|Oct 11|uilianries|prince-chrismc
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|17|Oct 16|uilianries|prince-chrismc, jwillikers
 [#12956](https://github.com/conan-io/conan-center-index/pull/12956)|[MartinDelille](https://github.com/MartinDelille)|Sep 15|:memo: libcurl|13|Oct 16||prince-chrismc
-[#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:stopwatch: qpdf|43|Oct 16||jwillikers
+[#13113](https://github.com/conan-io/conan-center-index/pull/13113)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Sep 23|:new: qpdf|43|Oct 16||jwillikers
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13185](https://github.com/conan-io/conan-center-index/pull/13185)|[MartinDelille](https://github.com/MartinDelille)|Sep 27|:memo: yasm|14|Oct 16||jwillikers
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30 :bell:|uilianries|jwillikers
@@ -64,12 +64,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13513](https://github.com/conan-io/conan-center-index/pull/13513)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: zint|1|Oct 16||jwillikers
 [#13514](https://github.com/conan-io/conan-center-index/pull/13514)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: zeromq|2|Oct 16||jwillikers
 [#13515](https://github.com/conan-io/conan-center-index/pull/13515)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: libcorrect|1|Oct 16||jwillikers
-[#13516](https://github.com/conan-io/conan-center-index/pull/13516)|[toge](https://github.com/toge)|Oct 16|:stopwatch: lurlparser|0|||
+[#13516](https://github.com/conan-io/conan-center-index/pull/13516)|[toge](https://github.com/toge)|Oct 16|:new: lurlparser|0|||
 [#13520](https://github.com/conan-io/conan-center-index/pull/13520)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: libevent|1|Oct 16||jwillikers
 [#13521](https://github.com/conan-io/conan-center-index/pull/13521)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: tmxlite|1|Oct 16||jwillikers
 [#13522](https://github.com/conan-io/conan-center-index/pull/13522)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: tmx|1|Oct 16||jwillikers
 [#13523](https://github.com/conan-io/conan-center-index/pull/13523)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: brynet|1|Oct 16||jwillikers
-[#13525](https://github.com/conan-io/conan-center-index/pull/13525)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:stopwatch: jxrlib|0|||
+[#13524](https://github.com/conan-io/conan-center-index/pull/13524)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:stopwatch: embree3|1|Oct 16||
+[#13525](https://github.com/conan-io/conan-center-index/pull/13525)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: jxrlib|0|||
 [#13527](https://github.com/conan-io/conan-center-index/pull/13527)|[toge](https://github.com/toge)|Oct 16|:memo: tcb-span|0|||
 
 
@@ -95,10 +96,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 214
+	- Open: 213
 	- Draft: 30
-	- Average Age: 69 days, 8 hours, and 9.92 minutes
-	- Stop Label: 120
+	- Average Age: 69 days, 17 hours, and 1.27 minutes
+	- Stop Label: 119
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
