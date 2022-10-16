@@ -1077,15 +1077,17 @@
       "LastCommitAt": "2022-10-16T11:35:57Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-16T02:41:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13514#pullrequestreview-1143245255"
+            "SubmittedAt": "2022-10-16T17:20:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13514#pullrequestreview-1143317339"
          }
       }
    },
@@ -1196,6 +1198,24 @@
       "LastCommitSHA": "853b191f95992ef5a3a179de942969df29af9003",
       "LastCommitAt": "2022-10-16T14:58:50Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13524,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-16T16:50:39Z",
+      "Recipe": "embree3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13524",
+      "LastCommitSHA": "c1d4fd29d8222932aa68ed00b719ecd8d8ecdf95",
+      "LastCommitAt": "2022-10-16T16:50:20Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
