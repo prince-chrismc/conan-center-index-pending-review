@@ -47,7 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13486](https://github.com/conan-io/conan-center-index/pull/13486)|[toge](https://github.com/toge)|Oct 14|:memo: sole|4|Oct 15||jwillikers
 [#13490](https://github.com/conan-io/conan-center-index/pull/13490)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 14|:green_book: docs|3|Oct 15||
 [#13491](https://github.com/conan-io/conan-center-index/pull/13491)|[Croydon](https://github.com/Croydon)|Oct 15|:memo: cmake|2|Oct 15||jwillikers
-[#13495](https://github.com/conan-io/conan-center-index/pull/13495)|[toge](https://github.com/toge)|Oct 15|:stopwatch: aws-c-http|1|Oct 15||
+[#13495](https://github.com/conan-io/conan-center-index/pull/13495)|[toge](https://github.com/toge)|Oct 15|:memo: aws-c-http|1|Oct 15||
 [#13498](https://github.com/conan-io/conan-center-index/pull/13498)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: libbacktrace|1|Oct 16||jwillikers
 [#13501](https://github.com/conan-io/conan-center-index/pull/13501)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: libe57format|2|Oct 16||jwillikers
 [#13502](https://github.com/conan-io/conan-center-index/pull/13502)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: xerces-c|1|Oct 16||jwillikers
@@ -61,7 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13512](https://github.com/conan-io/conan-center-index/pull/13512)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: zstr|1|Oct 16||jwillikers
 [#13513](https://github.com/conan-io/conan-center-index/pull/13513)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: zint|1|Oct 16||jwillikers
 [#13515](https://github.com/conan-io/conan-center-index/pull/13515)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: libcorrect|1|Oct 16||jwillikers
-[#13516](https://github.com/conan-io/conan-center-index/pull/13516)|[toge](https://github.com/toge)|Oct 16|:stopwatch: lurlparser|0|||
+[#13516](https://github.com/conan-io/conan-center-index/pull/13516)|[toge](https://github.com/toge)|Oct 16|:new: lurlparser|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 209
 	- Draft: 32
-	- Average Age: 71 days, 20 hours, and 58.98 minutes
+	- Average Age: 71 days, 21 hours, and 54.44 minutes
 	- Stop Label: 122
 	
 
