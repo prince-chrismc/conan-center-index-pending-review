@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **23** pull requests currently under way :detective:
+There are **25** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -43,30 +43,28 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13490](https://github.com/conan-io/conan-center-index/pull/13490)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 14|:green_book: docs|3|Oct 15||
 [#13496](https://github.com/conan-io/conan-center-index/pull/13496)|[toge](https://github.com/toge)|Oct 15|:memo: aws-c-auth|1|Oct 17||prince-chrismc
 [#13524](https://github.com/conan-io/conan-center-index/pull/13524)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: embree3|2|Oct 17||jwillikers
-[#13526](https://github.com/conan-io/conan-center-index/pull/13526)|[toge](https://github.com/toge)|Oct 16|:memo: lief|0|||
+[#13526](https://github.com/conan-io/conan-center-index/pull/13526)|[toge](https://github.com/toge)|Oct 16|:stopwatch: lief|0|||
+[#13527](https://github.com/conan-io/conan-center-index/pull/13527)|[toge](https://github.com/toge)|Oct 16|:memo: tcb-span|4|Oct 17||jwillikers
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|1|Oct 17||prince-chrismc
 [#13553](https://github.com/conan-io/conan-center-index/pull/13553)|[toge](https://github.com/toge)|Oct 17|:memo: libmaxminddb|2|Oct 17||jwillikers
-[#13557](https://github.com/conan-io/conan-center-index/pull/13557)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 17|:stopwatch: freetype|0|||
+[#13557](https://github.com/conan-io/conan-center-index/pull/13557)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 17|:memo: freetype|0|||
 [#13558](https://github.com/conan-io/conan-center-index/pull/13558)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:stopwatch: meshoptimizer|0|||
+[#13560](https://github.com/conan-io/conan-center-index/pull/13560)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:stopwatch: lmdb|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13185](https://github.com/conan-io/conan-center-index/pull/13185)|[MartinDelille](https://github.com/MartinDelille)|Sep 27|:warning: yasm|18|jwillikers, prince-chrismc
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
-[#13517](https://github.com/conan-io/conan-center-index/pull/13517)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:memo: qt-advanced-docking-system|3|jwillikers, uilianries
-[#13518](https://github.com/conan-io/conan-center-index/pull/13518)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:memo: qarchive|4|jwillikers, uilianries
-[#13520](https://github.com/conan-io/conan-center-index/pull/13520)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: libevent|2|jwillikers, uilianries
 [#13521](https://github.com/conan-io/conan-center-index/pull/13521)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: tmxlite|2|jwillikers, uilianries
 [#13522](https://github.com/conan-io/conan-center-index/pull/13522)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: tmx|2|jwillikers, uilianries
 [#13523](https://github.com/conan-io/conan-center-index/pull/13523)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: brynet|2|jwillikers, uilianries
 [#13525](https://github.com/conan-io/conan-center-index/pull/13525)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: jxrlib|4|jwillikers, uilianries, prince-chrismc
-[#13527](https://github.com/conan-io/conan-center-index/pull/13527)|[toge](https://github.com/toge)|Oct 16|:memo: tcb-span|3|jwillikers, prince-chrismc
 [#13529](https://github.com/conan-io/conan-center-index/pull/13529)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: ecos|2|jwillikers, uilianries
 [#13531](https://github.com/conan-io/conan-center-index/pull/13531)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:memo: arcus|2|jwillikers, uilianries
 [#13532](https://github.com/conan-io/conan-center-index/pull/13532)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:memo: gamma|2|jwillikers, uilianries
@@ -84,9 +82,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 202
+	- Open: 201
 	- Draft: 29
-	- Average Age: 73 days, 22 hours, and 17.93 minutes
+	- Average Age: 74 days, 7 hours, and 36.56 minutes
 	- Stop Label: 125
 	
 
