@@ -274,7 +274,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13322",
       "LastCommitSHA": "39236bae043a5c929064126e23d6ea6a2b2359c3",
       "LastCommitAt": "2022-10-17T15:36:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 3,
@@ -395,32 +395,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 13435,
-      "OpenedBy": "morningstar1",
-      "CreatedAt": "2022-10-12T09:38:49Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13435",
-      "LastCommitSHA": "16d2e3c30c964371e3c8835753bd33eea7ac54fc",
-      "LastCommitAt": "2022-10-16T09:32:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "Croydon",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-17T17:14:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13435#pullrequestreview-1144540098"
-         }
       }
    },
    {
@@ -714,7 +688,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13518",
       "LastCommitSHA": "73549f5786ace672384d3a1755730f094e98d7cd",
       "LastCommitAt": "2022-10-17T14:15:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 2,
