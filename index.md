@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **46** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,26 +41,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13290](https://github.com/conan-io/conan-center-index/pull/13290)|[Kidsunbo](https://github.com/Kidsunbo)|Oct 4|:stopwatch: folly|5|Oct 14||prince-chrismc
 [#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|:eyes:||
 [#13365](https://github.com/conan-io/conan-center-index/pull/13365)|[toge](https://github.com/toge)|Oct 8|:memo: grpc|5|Oct 16||jwillikers
-[#13386](https://github.com/conan-io/conan-center-index/pull/13386)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 10|:stopwatch: onetbb|7|Oct 17||
+[#13386](https://github.com/conan-io/conan-center-index/pull/13386)|[kambala-decapitator](https://github.com/kambala-decapitator)|Oct 10|:memo: onetbb|7|Oct 17||
 [#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|:eyes:||
 [#13435](https://github.com/conan-io/conan-center-index/pull/13435)|[morningstar1](https://github.com/morningstar1)|Oct 12|:stopwatch: openssl|5|Oct 16||Croydon
-[#13441](https://github.com/conan-io/conan-center-index/pull/13441)|[toge](https://github.com/toge)|Oct 12|:memo: bzip3|2|Oct 15||jwillikers
 [#13443](https://github.com/conan-io/conan-center-index/pull/13443)|[lrineau](https://github.com/lrineau)|Oct 12|:stopwatch: cgal|0|:eyes:||
-[#13451](https://github.com/conan-io/conan-center-index/pull/13451)|[planetmarshall](https://github.com/planetmarshall)|Oct 13|:memo: freetype|2|Oct 15||jwillikers
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:memo: theora|2|Oct 16||
 [#13490](https://github.com/conan-io/conan-center-index/pull/13490)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 14|:green_book: docs|3|Oct 15||
-[#13491](https://github.com/conan-io/conan-center-index/pull/13491)|[Croydon](https://github.com/Croydon)|Oct 15|:memo: cmake|2|Oct 15||jwillikers
-[#13498](https://github.com/conan-io/conan-center-index/pull/13498)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: libbacktrace|1|Oct 16||jwillikers
 [#13501](https://github.com/conan-io/conan-center-index/pull/13501)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: libe57format|2|Oct 16||jwillikers
-[#13502](https://github.com/conan-io/conan-center-index/pull/13502)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: xerces-c|1|Oct 16||jwillikers
-[#13504](https://github.com/conan-io/conan-center-index/pull/13504)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-sqlite|1|Oct 16||jwillikers
-[#13505](https://github.com/conan-io/conan-center-index/pull/13505)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-openssl|1|Oct 16||jwillikers
-[#13506](https://github.com/conan-io/conan-center-index/pull/13506)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-postgresql|1|Oct 16||jwillikers
-[#13507](https://github.com/conan-io/conan-center-index/pull/13507)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-swagger|1|Oct 16||jwillikers
-[#13508](https://github.com/conan-io/conan-center-index/pull/13508)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-libressl|1|Oct 16||jwillikers
-[#13509](https://github.com/conan-io/conan-center-index/pull/13509)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-websocket|1|Oct 16||jwillikers
 [#13510](https://github.com/conan-io/conan-center-index/pull/13510)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: flecs|1|Oct 16||jwillikers
-[#13512](https://github.com/conan-io/conan-center-index/pull/13512)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: zstr|1|Oct 16||jwillikers
 [#13513](https://github.com/conan-io/conan-center-index/pull/13513)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: zint|1|Oct 16||jwillikers
 [#13514](https://github.com/conan-io/conan-center-index/pull/13514)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: zeromq|2|Oct 16||jwillikers
 [#13515](https://github.com/conan-io/conan-center-index/pull/13515)|[SpaceIm](https://github.com/SpaceIm)|Oct 16|:memo: libcorrect|1|Oct 16||jwillikers
@@ -78,11 +66,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13531](https://github.com/conan-io/conan-center-index/pull/13531)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:memo: arcus|0|||
 [#13532](https://github.com/conan-io/conan-center-index/pull/13532)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:memo: gamma|0|||
 [#13537](https://github.com/conan-io/conan-center-index/pull/13537)|[mjimenofluendo](https://github.com/mjimenofluendo)|Oct 17|:stopwatch: gstreamer|0|||
+[#13538](https://github.com/conan-io/conan-center-index/pull/13538)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 17|:memo: xorg|0|||
+[#13539](https://github.com/conan-io/conan-center-index/pull/13539)|[jfinkhaeuser](https://github.com/jfinkhaeuser)|Oct 17|:stopwatch: libbsd|0|||
+[#13540](https://github.com/conan-io/conan-center-index/pull/13540)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:stopwatch: libssh2|0|||
+[#13541](https://github.com/conan-io/conan-center-index/pull/13541)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 17|:stopwatch: opengl|0|||
+[#13542](https://github.com/conan-io/conan-center-index/pull/13542)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 17|:stopwatch: egl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **18** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -94,7 +87,17 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13389](https://github.com/conan-io/conan-center-index/pull/13389)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 10|:gear: .c3i|2|uilianries, prince-chrismc
 [#13457](https://github.com/conan-io/conan-center-index/pull/13457)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 13|:gear: .c3i|2|prince-chrismc, uilianries
 [#13461](https://github.com/conan-io/conan-center-index/pull/13461)|[jgsogo](https://github.com/jgsogo)|Oct 13|:gear: .c3i|4|jwillikers, prince-chrismc, danimtb, czoido
+[#13491](https://github.com/conan-io/conan-center-index/pull/13491)|[Croydon](https://github.com/Croydon)|Oct 15|:memo: cmake|3|jwillikers, uilianries
 [#13495](https://github.com/conan-io/conan-center-index/pull/13495)|[toge](https://github.com/toge)|Oct 15|:memo: aws-c-http|3|jwillikers, uilianries
+[#13498](https://github.com/conan-io/conan-center-index/pull/13498)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: libbacktrace|2|jwillikers, uilianries
+[#13502](https://github.com/conan-io/conan-center-index/pull/13502)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: xerces-c|2|jwillikers, uilianries
+[#13504](https://github.com/conan-io/conan-center-index/pull/13504)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-sqlite|2|jwillikers, uilianries
+[#13505](https://github.com/conan-io/conan-center-index/pull/13505)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-openssl|2|jwillikers, uilianries
+[#13506](https://github.com/conan-io/conan-center-index/pull/13506)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-postgresql|2|jwillikers, uilianries
+[#13507](https://github.com/conan-io/conan-center-index/pull/13507)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-swagger|2|jwillikers, uilianries
+[#13508](https://github.com/conan-io/conan-center-index/pull/13508)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-libressl|2|jwillikers, uilianries
+[#13509](https://github.com/conan-io/conan-center-index/pull/13509)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: oatpp-websocket|2|jwillikers, uilianries
+[#13512](https://github.com/conan-io/conan-center-index/pull/13512)|[SpaceIm](https://github.com/SpaceIm)|Oct 15|:memo: zstr|2|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -103,10 +106,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 5210823dd9dddea775079dd063647dc2f5529f16
 - Pull Requests:
-	- Open: 217
+	- Open: 219
 	- Draft: 30
-	- Average Age: 68 days, 23 hours, and 35.72 minutes
-	- Stop Label: 119
+	- Average Age: 68 days, 8 hours, and 23.64 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
