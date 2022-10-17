@@ -1140,6 +1140,42 @@
       }
    },
    {
+      "Number": 13517,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-10-16T08:51:14Z",
+      "Recipe": "qt-advanced-docking-system",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13517",
+      "LastCommitSHA": "2f9b8a09bc7dd7a24eef635ac3f761738440ef91",
+      "LastCommitAt": "2022-10-17T06:03:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13518,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-10-16T08:51:45Z",
+      "Recipe": "qarchive",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13518",
+      "LastCommitSHA": "b6ec229efd64972108161769214a0086e8b2d02f",
+      "LastCommitAt": "2022-10-17T06:04:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13520,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-10-16T13:05:17Z",
