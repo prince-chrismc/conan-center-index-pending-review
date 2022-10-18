@@ -48,20 +48,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13560](https://github.com/conan-io/conan-center-index/pull/13560)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:memo: lmdb|5|Oct 18||uilianries
 [#13563](https://github.com/conan-io/conan-center-index/pull/13563)|[toge](https://github.com/toge)|Oct 18|:memo: avcpp|4|Oct 18||uilianries
 [#13570](https://github.com/conan-io/conan-center-index/pull/13570)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: opengl|1|Oct 18||uilianries
-[#13579](https://github.com/conan-io/conan-center-index/pull/13579)|[uilianries](https://github.com/uilianries)|Oct 18|:stopwatch: .github|1|Oct 18||jwillikers
-[#13581](https://github.com/conan-io/conan-center-index/pull/13581)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:memo: strawberryperl|0|||
 [#13582](https://github.com/conan-io/conan-center-index/pull/13582)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 18|:memo: onetbb|0|||
+[#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:stopwatch: innoextract|0|||
+[#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:stopwatch: libexif|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
-[#13580](https://github.com/conan-io/conan-center-index/pull/13580)|[uilianries](https://github.com/uilianries)|Oct 18|:gear: .github|10|prince-chrismc, toge, jwillikers
 
 
 #### :clipboard: Statistics
@@ -72,7 +71,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 187
 	- Draft: 27
-	- Average Age: 80 days, 1 hours, and 32.55 minutes
+	- Average Age: 80 days, 2 hours, and 25.74 minutes
 	- Stop Label: 123
 	
 
