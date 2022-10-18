@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **25** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -48,26 +48,24 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13560](https://github.com/conan-io/conan-center-index/pull/13560)|[SpaceIm](https://github.com/SpaceIm)|Oct 17|:memo: lmdb|5|Oct 18||uilianries
 [#13563](https://github.com/conan-io/conan-center-index/pull/13563)|[toge](https://github.com/toge)|Oct 18|:memo: avcpp|4|Oct 18||uilianries
 [#13570](https://github.com/conan-io/conan-center-index/pull/13570)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: opengl|1|Oct 18||uilianries
+[#13572](https://github.com/conan-io/conan-center-index/pull/13572)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:green_book: docs|6|Oct 18|prince-chrismc, uilianries|jwillikers
 [#13579](https://github.com/conan-io/conan-center-index/pull/13579)|[uilianries](https://github.com/uilianries)|Oct 18|:stopwatch: .github|1|Oct 18||jwillikers
-[#13580](https://github.com/conan-io/conan-center-index/pull/13580)|[uilianries](https://github.com/uilianries)|Oct 18|:gear: .github|1|Oct 18||jwillikers
+[#13580](https://github.com/conan-io/conan-center-index/pull/13580)|[uilianries](https://github.com/uilianries)|Oct 18|:gear: .github|7|Oct 18||prince-chrismc
+[#13581](https://github.com/conan-io/conan-center-index/pull/13581)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:stopwatch: strawberryperl|0|||
+[#13582](https://github.com/conan-io/conan-center-index/pull/13582)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 18|:stopwatch: onetbb|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
-[#13566](https://github.com/conan-io/conan-center-index/pull/13566)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: vdpau|2|uilianries, jwillikers
-[#13567](https://github.com/conan-io/conan-center-index/pull/13567)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: vaapi|2|uilianries, jwillikers
-[#13568](https://github.com/conan-io/conan-center-index/pull/13568)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: gtk|2|uilianries, jwillikers
-[#13569](https://github.com/conan-io/conan-center-index/pull/13569)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: glu|2|uilianries, jwillikers
 [#13571](https://github.com/conan-io/conan-center-index/pull/13571)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: egl|2|uilianries, jwillikers
-[#13572](https://github.com/conan-io/conan-center-index/pull/13572)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:green_book: docs|2|uilianries, jwillikers
 [#13573](https://github.com/conan-io/conan-center-index/pull/13573)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:memo: yasm|2|uilianries, jwillikers
-[#13576](https://github.com/conan-io/conan-center-index/pull/13576)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:memo: libevent|2|jwillikers, uilianries
+[#13576](https://github.com/conan-io/conan-center-index/pull/13576)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:memo: libevent|3|jwillikers, uilianries, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -76,9 +74,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 191
+	- Open: 189
 	- Draft: 27
-	- Average Age: 78 days, 7 hours, and 30.00 minutes
+	- Average Age: 79 days, 4 hours, and 18.84 minutes
 	- Stop Label: 121
 	
 
