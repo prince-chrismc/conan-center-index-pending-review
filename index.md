@@ -43,9 +43,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13494](https://github.com/conan-io/conan-center-index/pull/13494)|[toge](https://github.com/toge)|Oct 15|:memo: aws-c-s3|0|||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|2|Oct 18||
+[#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|1|Oct 18||
 [#13570](https://github.com/conan-io/conan-center-index/pull/13570)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: opengl|1|Oct 18||uilianries
-[#13581](https://github.com/conan-io/conan-center-index/pull/13581)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:memo: strawberryperl|3|Oct 18||jwillikers
-[#13582](https://github.com/conan-io/conan-center-index/pull/13582)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 18|:stopwatch: onetbb|4|Oct 18||
+[#13582](https://github.com/conan-io/conan-center-index/pull/13582)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 18|:memo: onetbb|4|Oct 18||
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:stopwatch: innoextract|0|||
 
 
@@ -67,7 +67,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 180
 	- Draft: 25
-	- Average Age: 81 days, 5 hours, and 44.66 minutes
+	- Average Age: 81 days, 6 hours, and 47.80 minutes
 	- Stop Label: 121
 	
 
