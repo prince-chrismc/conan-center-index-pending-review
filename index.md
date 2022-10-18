@@ -45,7 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|2|Oct 18||
 [#13570](https://github.com/conan-io/conan-center-index/pull/13570)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: opengl|1|Oct 18||uilianries
 [#13581](https://github.com/conan-io/conan-center-index/pull/13581)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:memo: strawberryperl|3|Oct 18||jwillikers
-[#13582](https://github.com/conan-io/conan-center-index/pull/13582)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 18|:stopwatch: onetbb|1|Oct 18||
+[#13582](https://github.com/conan-io/conan-center-index/pull/13582)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 18|:stopwatch: onetbb|4|Oct 18||
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:stopwatch: innoextract|0|||
 
 
@@ -67,7 +67,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 180
 	- Draft: 25
-	- Average Age: 81 days, 4 hours, and 42.24 minutes
+	- Average Age: 81 days, 5 hours, and 44.66 minutes
 	- Stop Label: 121
 	
 
