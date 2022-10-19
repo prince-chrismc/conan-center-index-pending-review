@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **19** pull requests currently under way :detective:
+There are **20** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,21 +41,21 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|4|Oct 19||
 [#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|3|Oct 19||
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|0|||
-[#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: android-ndk|0|||
+[#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:new: orcania|0|||
 [#13611](https://github.com/conan-io/conan-center-index/pull/13611)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 19|:green_book: docs|2|Oct 19||prince-chrismc
 [#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:stopwatch: xkbcommon|1|Oct 19||
+[#13615](https://github.com/conan-io/conan-center-index/pull/13615)|[qchateau](https://github.com/qchateau)|Oct 19|:stopwatch: amqp-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:warning: innoextract|2|uilianries, jwillikers
-[#13600](https://github.com/conan-io/conan-center-index/pull/13600)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: emsdk|3|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -64,9 +64,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 179
+	- Open: 180
 	- Draft: 26
-	- Average Age: 81 days, 19 hours, and 43.33 minutes
+	- Average Age: 81 days, 9 hours, and 47.23 minutes
 	- Stop Label: 121
 	
 
