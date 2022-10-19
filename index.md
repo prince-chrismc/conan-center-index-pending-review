@@ -34,9 +34,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30 :bell:|uilianries|jwillikers
 [#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|:eyes:||
-[#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:memo: theora|5|Oct 17||
 [#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:memo: nasm|5|Oct 19||
-[#13490](https://github.com/conan-io/conan-center-index/pull/13490)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 14|:green_book: docs|5|Oct 19||uilianries
 [#13499](https://github.com/conan-io/conan-center-index/pull/13499)|[toge](https://github.com/toge)|Oct 15|:new: glaze|9|Oct 19||jwillikers
 [#13551](https://github.com/conan-io/conan-center-index/pull/13551)|[paulharris](https://github.com/paulharris)|Oct 17|:memo: szip|6|Oct 19||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
@@ -48,19 +46,20 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13594](https://github.com/conan-io/conan-center-index/pull/13594)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:new: xkeyboard-config|2|Oct 19||jwillikers
 [#13599](https://github.com/conan-io/conan-center-index/pull/13599)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: alac|1|Oct 19||uilianries
 [#13600](https://github.com/conan-io/conan-center-index/pull/13600)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: emsdk|1|Oct 19||uilianries
-[#13603](https://github.com/conan-io/conan-center-index/pull/13603)|[uilianries](https://github.com/uilianries)|Oct 19|:green_book: docs|8|Oct 19||prince-chrismc
 [#13609](https://github.com/conan-io/conan-center-index/pull/13609)|[toge](https://github.com/toge)|Oct 19|:stopwatch: aws-c-mqtt|0|||
+[#13610](https://github.com/conan-io/conan-center-index/pull/13610)|[toge](https://github.com/toge)|Oct 19|:green_book: docs|0|||
+[#13611](https://github.com/conan-io/conan-center-index/pull/13611)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 19|:green_book: docs|0|||
+[#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:stopwatch: xkbcommon|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
-[#13595](https://github.com/conan-io/conan-center-index/pull/13595)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:new: xtrans|3|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -71,7 +70,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 187
 	- Draft: 28
-	- Average Age: 78 days, 4 hours, and 14.21 minutes
+	- Average Age: 78 days, 4 hours, and 42.80 minutes
 	- Stop Label: 124
 	
 
