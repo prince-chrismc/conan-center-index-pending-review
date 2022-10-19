@@ -406,9 +406,9 @@
       "Recipe": "restbed",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13561",
-      "LastCommitSHA": "6b17cd57d906a51898c9ea524509c5bcc0d78b4c",
-      "LastCommitAt": "2022-10-19T09:24:28Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "549ababd4958d63822c86315f651c40dc383a02e",
+      "LastCommitAt": "2022-10-19T10:27:24Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -582,6 +582,24 @@
       "LastCommitSHA": "caa74fefc6e38afe43d32e5dc18c5fdb1c68af71",
       "LastCommitAt": "2022-10-19T09:08:19Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13598,
+      "OpenedBy": "sujankota",
+      "CreatedAt": "2022-10-19T10:50:02Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13598",
+      "LastCommitSHA": "22c7f1c2bd9b9f9cf339f71eae841b07750719be",
+      "LastCommitAt": "2022-10-19T07:53:21Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
