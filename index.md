@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **19** pull requests currently under way :detective:
+There are **17** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,25 +40,22 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|4|Oct 19||
 [#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|3|Oct 19||
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|0|||
-[#13594](https://github.com/conan-io/conan-center-index/pull/13594)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:new: xkeyboard-config|2|Oct 19||jwillikers
-[#13609](https://github.com/conan-io/conan-center-index/pull/13609)|[toge](https://github.com/toge)|Oct 19|:memo: aws-c-mqtt|1|Oct 19||jwillikers
-[#13611](https://github.com/conan-io/conan-center-index/pull/13611)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 19|:green_book: docs|1|Oct 19||prince-chrismc
-[#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:stopwatch: xkbcommon|0|||
+[#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: android-ndk|0|||
+[#13611](https://github.com/conan-io/conan-center-index/pull/13611)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 19|:green_book: docs|2|Oct 19||prince-chrismc
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:warning: innoextract|2|uilianries, jwillikers
-[#13592](https://github.com/conan-io/conan-center-index/pull/13592)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:memo: xorg|3|jwillikers, prince-chrismc
-[#13599](https://github.com/conan-io/conan-center-index/pull/13599)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: alac|2|uilianries, jwillikers
+[#13594](https://github.com/conan-io/conan-center-index/pull/13594)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:new: xkeyboard-config|3|jwillikers, prince-chrismc
 [#13600](https://github.com/conan-io/conan-center-index/pull/13600)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:warning: emsdk|2|uilianries, jwillikers
-[#13610](https://github.com/conan-io/conan-center-index/pull/13610)|[toge](https://github.com/toge)|Oct 19|:green_book: docs|2|prince-chrismc, jwillikers
+[#13609](https://github.com/conan-io/conan-center-index/pull/13609)|[toge](https://github.com/toge)|Oct 19|:memo: aws-c-mqtt|2|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -67,10 +64,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 185
+	- Open: 182
 	- Draft: 28
-	- Average Age: 79 days, 2 hours, and 26.94 minutes
-	- Stop Label: 122
+	- Average Age: 80 days, 10 hours, and 31.79 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
