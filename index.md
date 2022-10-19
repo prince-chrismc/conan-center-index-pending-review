@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **20** pull requests currently under way :detective:
+There are **21** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -43,8 +43,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|0|||
 [#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:new: orcania|0|||
 [#13611](https://github.com/conan-io/conan-center-index/pull/13611)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 19|:green_book: docs|2|Oct 19||prince-chrismc
-[#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:stopwatch: xkbcommon|1|Oct 19||
-[#13615](https://github.com/conan-io/conan-center-index/pull/13615)|[qchateau](https://github.com/qchateau)|Oct 19|:stopwatch: amqp-cpp|0|||
+[#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:memo: xkbcommon|1|Oct 19||
+[#13616](https://github.com/conan-io/conan-center-index/pull/13616)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: xerces-c|0|||
+[#13617](https://github.com/conan-io/conan-center-index/pull/13617)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: zopfli|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -64,9 +65,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 180
+	- Open: 182
 	- Draft: 26
-	- Average Age: 81 days, 9 hours, and 47.23 minutes
+	- Average Age: 80 days, 13 hours, and 21.81 minutes
 	- Stop Label: 121
 	
 
