@@ -472,7 +472,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13612",
       "LastCommitSHA": "8cdc6d6acb094962b81cc1ad66be6f79476dc010",
       "LastCommitAt": "2022-10-19T21:08:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -487,14 +487,32 @@
       }
    },
    {
-      "Number": 13615,
-      "OpenedBy": "qchateau",
-      "CreatedAt": "2022-10-19T22:13:30Z",
-      "Recipe": "amqp-cpp",
+      "Number": 13616,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-19T22:37:39Z",
+      "Recipe": "xerces-c",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13615",
-      "LastCommitSHA": "dce1bb1ad5a1ae16e2340419ddf1b568f6120287",
-      "LastCommitAt": "2022-10-19T18:56:07Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13616",
+      "LastCommitSHA": "376d312ec72a5fc64d85dc297c1a48b94163c9e1",
+      "LastCommitAt": "2022-10-19T22:35:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13617,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-19T22:39:02Z",
+      "Recipe": "zopfli",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13617",
+      "LastCommitSHA": "0ada24b9282bdbbf8169e838c90cff1125692030",
+      "LastCommitAt": "2022-10-19T22:28:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
