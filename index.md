@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13594](https://github.com/conan-io/conan-center-index/pull/13594)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:new: xkeyboard-config|2|Oct 19||jwillikers
 [#13599](https://github.com/conan-io/conan-center-index/pull/13599)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: alac|1|Oct 19||uilianries
 [#13600](https://github.com/conan-io/conan-center-index/pull/13600)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: emsdk|1|Oct 19||uilianries
-[#13609](https://github.com/conan-io/conan-center-index/pull/13609)|[toge](https://github.com/toge)|Oct 19|:stopwatch: aws-c-mqtt|0|||
+[#13609](https://github.com/conan-io/conan-center-index/pull/13609)|[toge](https://github.com/toge)|Oct 19|:memo: aws-c-mqtt|0|||
 [#13610](https://github.com/conan-io/conan-center-index/pull/13610)|[toge](https://github.com/toge)|Oct 19|:green_book: docs|0|||
 [#13611](https://github.com/conan-io/conan-center-index/pull/13611)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 19|:green_book: docs|0|||
 [#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:stopwatch: xkbcommon|0|||
@@ -68,10 +68,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 187
+	- Open: 186
 	- Draft: 28
-	- Average Age: 78 days, 4 hours, and 42.80 minutes
-	- Stop Label: 124
+	- Average Age: 78 days, 15 hours, and 33.66 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
