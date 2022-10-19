@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **25** pull requests currently under way :detective:
+There are **26** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,7 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13490](https://github.com/conan-io/conan-center-index/pull/13490)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 14|:green_book: docs|5|Oct 19||uilianries
 [#13499](https://github.com/conan-io/conan-center-index/pull/13499)|[toge](https://github.com/toge)|Oct 15|:new: glaze|7|Oct 18||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
-[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|3|Oct 19||
+[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:stopwatch: restbed|3|Oct 19||
 [#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:stopwatch: libmicrohttpd|2|Oct 19||
 [#13570](https://github.com/conan-io/conan-center-index/pull/13570)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: opengl|1|Oct 18||uilianries
 [#13582](https://github.com/conan-io/conan-center-index/pull/13582)|[cguentherTUChemnitz](https://github.com/cguentherTUChemnitz)|Oct 18|:memo: onetbb|6|Oct 19||
@@ -50,6 +50,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13594](https://github.com/conan-io/conan-center-index/pull/13594)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:new: xkeyboard-config|0|||
 [#13595](https://github.com/conan-io/conan-center-index/pull/13595)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:new: xtrans|0|||
 [#13597](https://github.com/conan-io/conan-center-index/pull/13597)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: zlib|0|||
+[#13598](https://github.com/conan-io/conan-center-index/pull/13598)|[sujankota](https://github.com/sujankota)|Oct 19|:stopwatch: opentdf-client|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -68,9 +69,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 180
+	- Open: 181
 	- Draft: 26
-	- Average Age: 81 days, 13 hours, and 42.27 minutes
+	- Average Age: 81 days, 3 hours, and 44.43 minutes
 	- Stop Label: 122
 	
 
