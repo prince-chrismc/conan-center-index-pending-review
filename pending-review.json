@@ -162,6 +162,29 @@
       }
    },
    {
+      "Number": 13196,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-09-28T12:46:55Z",
+      "Recipe": "usockets",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13196",
+      "LastCommitSHA": "47319d2a2d29b536453abf599713ba79dbb7cca7",
+      "LastCommitAt": "2022-10-19T11:07:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-10-18T18:52:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13196#pullrequestreview-1146354554"
+         }
+      }
+   },
+   {
       "Number": 13205,
       "OpenedBy": "syoliver",
       "CreatedAt": "2022-09-28T20:37:27Z",
@@ -408,7 +431,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13561",
       "LastCommitSHA": "549ababd4958d63822c86315f651c40dc383a02e",
       "LastCommitAt": "2022-10-19T10:27:24Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -431,7 +454,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13564",
       "LastCommitSHA": "5fbf438ccfc8f8fba531bda5313cbf73a65672c1",
       "LastCommitAt": "2022-10-19T10:26:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -591,14 +614,50 @@
       }
    },
    {
-      "Number": 13598,
-      "OpenedBy": "sujankota",
-      "CreatedAt": "2022-10-19T10:50:02Z",
-      "Recipe": "opentdf-client",
+      "Number": 13599,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-19T11:22:32Z",
+      "Recipe": "alac",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13598",
-      "LastCommitSHA": "22c7f1c2bd9b9f9cf339f71eae841b07750719be",
-      "LastCommitAt": "2022-10-19T07:53:21Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13599",
+      "LastCommitSHA": "28ea406910b634c3d57aea25b0395c853623cbbf",
+      "LastCommitAt": "2022-10-19T11:21:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13600,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-19T11:39:10Z",
+      "Recipe": "emsdk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13600",
+      "LastCommitSHA": "304bd89f0038ff9986530099f8b26be0f2f6591e",
+      "LastCommitAt": "2022-10-19T11:38:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13601,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-19T11:53:07Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13601",
+      "LastCommitSHA": "70e92583fc18259ee986369f581add53539c617e",
+      "LastCommitAt": "2022-10-19T11:52:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
