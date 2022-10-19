@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **23** pull requests currently under way :detective:
+There are **24** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -35,19 +35,20 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
 [#13211](https://github.com/conan-io/conan-center-index/pull/13211)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 29|:memo: diligent-tools|2|Oct 2 :bell:||
 [#13227](https://github.com/conan-io/conan-center-index/pull/13227)|[vvarma](https://github.com/vvarma)|Sep 30|:memo: c-ares|3|Sep 30 :bell:|uilianries|jwillikers
-[#13299](https://github.com/conan-io/conan-center-index/pull/13299)|[toge](https://github.com/toge)|Oct 4|:stopwatch: opentelemetry-cpp|2|Oct 18||
+[#13299](https://github.com/conan-io/conan-center-index/pull/13299)|[toge](https://github.com/toge)|Oct 4|:memo: opentelemetry-cpp|2|Oct 18||
 [#13341](https://github.com/conan-io/conan-center-index/pull/13341)|[cleanerx](https://github.com/cleanerx)|Oct 7|:stopwatch: opentelemetry-cpp|0|:eyes:||
 [#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|:eyes:||
 [#13487](https://github.com/conan-io/conan-center-index/pull/13487)|[jwillikers](https://github.com/jwillikers)|Oct 14|:memo: wayland-protocols|1|Oct 18||prince-chrismc
 [#13488](https://github.com/conan-io/conan-center-index/pull/13488)|[jwillikers](https://github.com/jwillikers)|Oct 14|:memo: wayland|1|Oct 18||prince-chrismc
 [#13490](https://github.com/conan-io/conan-center-index/pull/13490)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 14|:green_book: docs|4|Oct 18||
-[#13494](https://github.com/conan-io/conan-center-index/pull/13494)|[toge](https://github.com/toge)|Oct 15|:stopwatch: aws-c-s3|0|||
+[#13494](https://github.com/conan-io/conan-center-index/pull/13494)|[toge](https://github.com/toge)|Oct 15|:memo: aws-c-s3|1|Oct 19||jwillikers
+[#13526](https://github.com/conan-io/conan-center-index/pull/13526)|[toge](https://github.com/toge)|Oct 16|:memo: lief|6|Oct 19||jwillikers
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|2|Oct 18||
-[#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|1|Oct 18||
 [#13570](https://github.com/conan-io/conan-center-index/pull/13570)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 18|:memo: opengl|1|Oct 18||uilianries
 [#13581](https://github.com/conan-io/conan-center-index/pull/13581)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:memo: strawberryperl|4|Oct 19||jwillikers
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:stopwatch: innoextract|0|||
+[#13591](https://github.com/conan-io/conan-center-index/pull/13591)|[Ahajha](https://github.com/Ahajha)|Oct 19|:stopwatch: vulkan-headers|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -66,9 +67,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 181
+	- Open: 182
 	- Draft: 25
-	- Average Age: 80 days, 22 hours, and 6.87 minutes
+	- Average Age: 80 days, 14 hours, and 17.71 minutes
 	- Stop Label: 122
 	
 
