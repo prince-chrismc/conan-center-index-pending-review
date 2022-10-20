@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **20** pull requests currently under way :detective:
+There are **17** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,9 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|17|Oct 16|uilianries|prince-chrismc, jwillikers
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
-[#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|:eyes:||
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:memo: theora|6|Oct 19||
-[#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:memo: nasm|6|Oct 19||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|5|Oct 20||uilianries
 [#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|4|Oct 20||uilianries
@@ -42,21 +40,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:new: orcania|2|Oct 20||uilianries
 [#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: android-ndk|2|Oct 19||
 [#13602](https://github.com/conan-io/conan-center-index/pull/13602)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:gear: .github|0|||
-[#13604](https://github.com/conan-io/conan-center-index/pull/13604)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:memo: xkbcommon|1|Oct 19||jwillikers
-[#13608](https://github.com/conan-io/conan-center-index/pull/13608)|[toge](https://github.com/toge)|Oct 19|:memo: aws-c-event-stream|0|||
-[#13622](https://github.com/conan-io/conan-center-index/pull/13622)|[paulharris](https://github.com/paulharris)|Oct 20|:memo: libaec|0|||
+[#13608](https://github.com/conan-io/conan-center-index/pull/13608)|[toge](https://github.com/toge)|Oct 19|:memo: aws-c-event-stream|1|Oct 20||uilianries
+[#13622](https://github.com/conan-io/conan-center-index/pull/13622)|[paulharris](https://github.com/paulharris)|Oct 20|:memo: libaec|1|Oct 20||uilianries
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
-[#13616](https://github.com/conan-io/conan-center-index/pull/13616)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: xerces-c|2|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -65,10 +61,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 178
+	- Open: 176
 	- Draft: 25
-	- Average Age: 82 days, 15 hours, and 21.23 minutes
-	- Stop Label: 120
+	- Average Age: 83 days, 14 hours, and 37.73 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
