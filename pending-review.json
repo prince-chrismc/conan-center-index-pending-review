@@ -642,6 +642,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13640",
       "LastCommitSHA": "34cad470059cc36bd77a963ff4a140d44660e1e4",
       "LastCommitAt": "2022-10-20T17:08:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13642,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-10-20T18:03:23Z",
+      "Recipe": "wayland-protocols",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13642",
+      "LastCommitSHA": "6c462cd3b439f92d68503f4da25aaa9ca4dd105d",
+      "LastCommitAt": "2022-10-20T17:15:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13643,
+      "OpenedBy": "Tradias",
+      "CreatedAt": "2022-10-20T18:11:21Z",
+      "Recipe": "asio-grpc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13643",
+      "LastCommitSHA": "8d4175f0a83df8e096f72fc1093c136726982bb1",
+      "LastCommitAt": "2022-10-20T18:10:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
