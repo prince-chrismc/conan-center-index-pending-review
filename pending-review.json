@@ -360,32 +360,6 @@
       }
    },
    {
-      "Number": 13618,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-20T00:24:26Z",
-      "Recipe": "spdlog",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13618",
-      "LastCommitSHA": "2af56acdcc8c8b7e38ac2b5f50fa8ed85daa396f",
-      "LastCommitAt": "2022-10-20T09:40:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-20T13:35:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13618#pullrequestreview-1149261852"
-         }
-      }
-   },
-   {
       "Number": 13622,
       "OpenedBy": "paulharris",
       "CreatedAt": "2022-10-20T04:07:48Z",
@@ -522,8 +496,31 @@
       "Recipe": "meson",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13632",
-      "LastCommitSHA": "cc326e5b8043899e5970d161445251aa8e601220",
-      "LastCommitAt": "2022-10-20T13:40:21Z",
+      "LastCommitSHA": "994ab9596ad7b6a20525d7a789630eda2824a3a4",
+      "LastCommitAt": "2022-10-20T14:18:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-20T14:10:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13632#pullrequestreview-1149330663"
+         }
+      }
+   },
+   {
+      "Number": 13633,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-20T14:13:59Z",
+      "Recipe": "aws-crt-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13633",
+      "LastCommitSHA": "85a502df36acefd5ed0157e957100ba31bb1b967",
+      "LastCommitAt": "2022-10-20T14:12:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
