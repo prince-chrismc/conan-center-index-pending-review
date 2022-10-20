@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **17** pull requests currently under way :detective:
+There are **21** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,11 +37,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|5|Oct 20||uilianries
 [#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|4|Oct 20||uilianries
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|1|Oct 20||uilianries
-[#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:new: orcania|2|Oct 20||uilianries
 [#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: android-ndk|2|Oct 19||
 [#13602](https://github.com/conan-io/conan-center-index/pull/13602)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:gear: .github|0|||
 [#13608](https://github.com/conan-io/conan-center-index/pull/13608)|[toge](https://github.com/toge)|Oct 19|:memo: aws-c-event-stream|1|Oct 20||uilianries
+[#13618](https://github.com/conan-io/conan-center-index/pull/13618)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: spdlog|5|Oct 20||uilianries
 [#13622](https://github.com/conan-io/conan-center-index/pull/13622)|[paulharris](https://github.com/paulharris)|Oct 20|:memo: libaec|1|Oct 20||uilianries
+[#13626](https://github.com/conan-io/conan-center-index/pull/13626)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: libalsa|0|||
+[#13627](https://github.com/conan-io/conan-center-index/pull/13627)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 20|:gear: .c3i|1|Oct 20||uilianries
+[#13628](https://github.com/conan-io/conan-center-index/pull/13628)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: libnghttp2|0|||
+[#13629](https://github.com/conan-io/conan-center-index/pull/13629)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -61,9 +65,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 176
+	- Open: 180
 	- Draft: 25
-	- Average Age: 83 days, 14 hours, and 37.73 minutes
+	- Average Age: 81 days, 19 hours, and 22.23 minutes
 	- Stop Label: 121
 	
 
