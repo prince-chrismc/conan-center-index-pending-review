@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **21** pull requests currently under way :detective:
+There are **19** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,16 +36,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13407](https://github.com/conan-io/conan-center-index/pull/13407)|[Nomalah](https://github.com/Nomalah)|Oct 11|:new: runtimeqml|1|Oct 18||
 [#13424](https://github.com/conan-io/conan-center-index/pull/13424)|[jwidauer](https://github.com/jwidauer)|Oct 11|:stopwatch: googleapis|0|:eyes:||
 [#13499](https://github.com/conan-io/conan-center-index/pull/13499)|[toge](https://github.com/toge)|Oct 15|:new: glaze|9|Oct 19||jwillikers
-[#13551](https://github.com/conan-io/conan-center-index/pull/13551)|[paulharris](https://github.com/paulharris)|Oct 17|:memo: szip|6|Oct 19||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|4|Oct 19||
 [#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|3|Oct 19||
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|0|||
-[#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:new: orcania|0|||
 [#13611](https://github.com/conan-io/conan-center-index/pull/13611)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 19|:green_book: docs|2|Oct 19||prince-chrismc
 [#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:memo: xkbcommon|1|Oct 19||
-[#13616](https://github.com/conan-io/conan-center-index/pull/13616)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: xerces-c|0|||
-[#13617](https://github.com/conan-io/conan-center-index/pull/13617)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: zopfli|0|||
+[#13616](https://github.com/conan-io/conan-center-index/pull/13616)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: xerces-c|1|Oct 20||jwillikers
+[#13617](https://github.com/conan-io/conan-center-index/pull/13617)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: zopfli|1|Oct 20||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -66,8 +64,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
 	- Open: 182
-	- Draft: 26
-	- Average Age: 80 days, 13 hours, and 21.81 minutes
+	- Draft: 28
+	- Average Age: 80 days, 15 hours, and 22.67 minutes
 	- Stop Label: 121
 	
 
