@@ -281,31 +281,6 @@
       }
    },
    {
-      "Number": 13551,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-10-17T15:16:56Z",
-      "Recipe": "szip",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13551",
-      "LastCommitSHA": "cba89874d8aa84a43033c4975feaf172657c4774",
-      "LastCommitAt": "2022-10-19T12:38:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-19T15:59:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13551#pullrequestreview-1147883487"
-         }
-      }
-   },
-   {
       "Number": 13552,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2022-10-17T15:20:42Z",
@@ -421,24 +396,6 @@
       }
    },
    {
-      "Number": 13589,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2022-10-19T00:30:04Z",
-      "Recipe": "orcania",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13589",
-      "LastCommitSHA": "c16fa290f047eeb766eaf5128005161fb34e3799",
-      "LastCommitAt": "2022-10-19T21:16:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13611,
       "OpenedBy": "github-actions[bot]",
       "CreatedAt": "2022-10-19T17:06:49Z",
@@ -493,15 +450,22 @@
       "Recipe": "xerces-c",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13616",
-      "LastCommitSHA": "376d312ec72a5fc64d85dc297c1a48b94163c9e1",
-      "LastCommitAt": "2022-10-19T22:35:50Z",
+      "LastCommitSHA": "4cb744066d1656ccacf87e5ed064adfa423318bc",
+      "LastCommitAt": "2022-10-19T23:59:37Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-20T01:09:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13616#pullrequestreview-1148430136"
+         }
       }
    },
    {
@@ -511,15 +475,22 @@
       "Recipe": "zopfli",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13617",
-      "LastCommitSHA": "0ada24b9282bdbbf8169e838c90cff1125692030",
+      "LastCommitSHA": "78ec04f6afbc3e473c2516e4205acdfa193cb6c2",
       "LastCommitAt": "2022-10-19T22:28:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-20T01:06:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13617#pullrequestreview-1148428758"
+         }
       }
    }
 ]
