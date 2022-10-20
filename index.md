@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **21** pull requests currently under way :detective:
+There are **19** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -33,30 +33,30 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:memo: theora|6|Oct 19||
+[#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:stopwatch: nasm|9|Oct 20||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
-[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|5|Oct 20||uilianries
-[#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|4|Oct 20||uilianries
-[#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|1|Oct 20||uilianries
-[#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: android-ndk|2|Oct 19||
-[#13602](https://github.com/conan-io/conan-center-index/pull/13602)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:gear: .github|0|||
-[#13608](https://github.com/conan-io/conan-center-index/pull/13608)|[toge](https://github.com/toge)|Oct 19|:memo: aws-c-event-stream|1|Oct 20||uilianries
-[#13618](https://github.com/conan-io/conan-center-index/pull/13618)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: spdlog|5|Oct 20||uilianries
-[#13622](https://github.com/conan-io/conan-center-index/pull/13622)|[paulharris](https://github.com/paulharris)|Oct 20|:memo: libaec|1|Oct 20||uilianries
-[#13626](https://github.com/conan-io/conan-center-index/pull/13626)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: libalsa|0|||
-[#13627](https://github.com/conan-io/conan-center-index/pull/13627)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 20|:gear: .c3i|1|Oct 20||uilianries
+[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:stopwatch: restbed|7|Oct 20||jwillikers
+[#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|2|Oct 20||uilianries
+[#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: android-ndk|3|Oct 20||jwillikers
+[#13622](https://github.com/conan-io/conan-center-index/pull/13622)|[paulharris](https://github.com/paulharris)|Oct 20|:stopwatch: libaec|2|Oct 20||jwillikers
+[#13626](https://github.com/conan-io/conan-center-index/pull/13626)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: libalsa|0|||
 [#13628](https://github.com/conan-io/conan-center-index/pull/13628)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: libnghttp2|0|||
-[#13629](https://github.com/conan-io/conan-center-index/pull/13629)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|0|||
+[#13629](https://github.com/conan-io/conan-center-index/pull/13629)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|1|Oct 20||jwillikers
+[#13631](https://github.com/conan-io/conan-center-index/pull/13631)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: exiv2|0|||
+[#13632](https://github.com/conan-io/conan-center-index/pull/13632)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:stopwatch: meson|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
+[#13618](https://github.com/conan-io/conan-center-index/pull/13618)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: spdlog|7|uilianries, jwillikers
+[#13627](https://github.com/conan-io/conan-center-index/pull/13627)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 20|:gear: .c3i|2|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -66,9 +66,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
 	- Open: 180
-	- Draft: 25
-	- Average Age: 81 days, 19 hours, and 22.23 minutes
-	- Stop Label: 121
+	- Draft: 26
+	- Average Age: 81 days, 20 hours, and 14.10 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
