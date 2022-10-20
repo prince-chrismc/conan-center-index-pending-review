@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -30,6 +30,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15||SSE4
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17||SSE4
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|17|Oct 16|uilianries|prince-chrismc, jwillikers
+[#12956](https://github.com/conan-io/conan-center-index/pull/12956)|[MartinDelille](https://github.com/MartinDelille)|Sep 15|:memo: libcurl|22|Oct 20||jwillikers
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
 [#13355](https://github.com/conan-io/conan-center-index/pull/13355)|[jwillikers](https://github.com/jwillikers)|Oct 7|:stopwatch: libffi|3|Oct 19||
@@ -40,7 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:stopwatch: libexif|3|Oct 20||jwillikers
 [#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:stopwatch: orcania|7|Oct 20||jwillikers
 [#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: android-ndk|3|Oct 20||jwillikers
-[#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:stopwatch: xkbcommon|3|Oct 20||
+[#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:memo: xkbcommon|3|Oct 20||
 [#13622](https://github.com/conan-io/conan-center-index/pull/13622)|[paulharris](https://github.com/paulharris)|Oct 20|:stopwatch: libaec|2|Oct 20||jwillikers
 [#13628](https://github.com/conan-io/conan-center-index/pull/13628)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: libnghttp2|0|||
 [#13629](https://github.com/conan-io/conan-center-index/pull/13629)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|1|Oct 20||jwillikers
@@ -75,8 +76,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 189
 	- Draft: 26
-	- Average Age: 78 days, 3 hours, and 56.19 minutes
-	- Stop Label: 123
+	- Average Age: 78 days, 4 hours, and 52.19 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
