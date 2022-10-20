@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **25** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -49,7 +49,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13633](https://github.com/conan-io/conan-center-index/pull/13633)|[toge](https://github.com/toge)|Oct 20|:stopwatch: aws-crt-cpp|1|Oct 20||jwillikers
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|||
 [#13636](https://github.com/conan-io/conan-center-index/pull/13636)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|3|Oct 20||jwillikers
-[#13640](https://github.com/conan-io/conan-center-index/pull/13640)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: wayland|0|||
+[#13640](https://github.com/conan-io/conan-center-index/pull/13640)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland|0|||
+[#13642](https://github.com/conan-io/conan-center-index/pull/13642)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: wayland-protocols|0|||
+[#13643](https://github.com/conan-io/conan-center-index/pull/13643)|[Tradias](https://github.com/Tradias)|Oct 20|:stopwatch: asio-grpc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -70,9 +72,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 185
+	- Open: 187
 	- Draft: 26
-	- Average Age: 79 days, 18 hours, and 43.51 minutes
+	- Average Age: 78 days, 23 hours, and 9.63 minutes
 	- Stop Label: 123
 	
 
