@@ -40,22 +40,23 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13564](https://github.com/conan-io/conan-center-index/pull/13564)|[madebr](https://github.com/madebr)|Oct 18|:new: libmicrohttpd|4|Oct 20||uilianries
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|1|Oct 20||uilianries
 [#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:new: orcania|2|Oct 20||uilianries
+[#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: android-ndk|2|Oct 19||
 [#13602](https://github.com/conan-io/conan-center-index/pull/13602)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:gear: .github|0|||
 [#13604](https://github.com/conan-io/conan-center-index/pull/13604)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:memo: xkbcommon|1|Oct 19||jwillikers
 [#13608](https://github.com/conan-io/conan-center-index/pull/13608)|[toge](https://github.com/toge)|Oct 19|:memo: aws-c-event-stream|0|||
-[#13616](https://github.com/conan-io/conan-center-index/pull/13616)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: xerces-c|1|Oct 20||jwillikers
 [#13622](https://github.com/conan-io/conan-center-index/pull/13622)|[paulharris](https://github.com/paulharris)|Oct 20|:memo: libaec|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
+[#13616](https://github.com/conan-io/conan-center-index/pull/13616)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: xerces-c|2|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -64,10 +65,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 179
+	- Open: 178
 	- Draft: 25
-	- Average Age: 82 days, 3 hours, and 26.18 minutes
-	- Stop Label: 121
+	- Average Age: 82 days, 15 hours, and 21.23 minutes
+	- Stop Label: 120
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
