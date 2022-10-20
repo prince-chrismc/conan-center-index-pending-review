@@ -42,7 +42,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|0|||
 [#13611](https://github.com/conan-io/conan-center-index/pull/13611)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 19|:green_book: docs|2|Oct 19||prince-chrismc
 [#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:memo: xkbcommon|1|Oct 19||
-[#13616](https://github.com/conan-io/conan-center-index/pull/13616)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:stopwatch: xerces-c|1|Oct 20||jwillikers
+[#13616](https://github.com/conan-io/conan-center-index/pull/13616)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: xerces-c|1|Oct 20||jwillikers
 [#13617](https://github.com/conan-io/conan-center-index/pull/13617)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: zopfli|1|Oct 20||jwillikers
 
 
@@ -65,7 +65,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 182
 	- Draft: 28
-	- Average Age: 80 days, 15 hours, and 22.67 minutes
+	- Average Age: 80 days, 15 hours, and 46.69 minutes
 	- Stop Label: 121
 	
 
