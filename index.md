@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **19** pull requests currently under way :detective:
+There are **20** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -43,19 +43,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13628](https://github.com/conan-io/conan-center-index/pull/13628)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: libnghttp2|0|||
 [#13629](https://github.com/conan-io/conan-center-index/pull/13629)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|1|Oct 20||jwillikers
 [#13631](https://github.com/conan-io/conan-center-index/pull/13631)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: exiv2|0|||
-[#13632](https://github.com/conan-io/conan-center-index/pull/13632)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:stopwatch: meson|0|||
+[#13632](https://github.com/conan-io/conan-center-index/pull/13632)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:stopwatch: meson|1|Oct 20||
+[#13633](https://github.com/conan-io/conan-center-index/pull/13633)|[toge](https://github.com/toge)|Oct 20|:stopwatch: aws-crt-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
-[#13618](https://github.com/conan-io/conan-center-index/pull/13618)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: spdlog|7|uilianries, jwillikers
 [#13627](https://github.com/conan-io/conan-center-index/pull/13627)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 20|:gear: .c3i|2|uilianries, jwillikers
 
 
@@ -67,7 +67,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 180
 	- Draft: 26
-	- Average Age: 81 days, 20 hours, and 14.10 minutes
+	- Average Age: 81 days, 20 hours, and 47.73 minutes
 	- Stop Label: 122
 	
 
