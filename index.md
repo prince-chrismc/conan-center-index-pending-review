@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **30** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -48,9 +48,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|||
 [#13636](https://github.com/conan-io/conan-center-index/pull/13636)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|3|Oct 20||jwillikers
 [#13638](https://github.com/conan-io/conan-center-index/pull/13638)|[toge](https://github.com/toge)|Oct 20|:new: watcher|0|||
-[#13640](https://github.com/conan-io/conan-center-index/pull/13640)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland|0|||
-[#13642](https://github.com/conan-io/conan-center-index/pull/13642)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland-protocols|1|Oct 20||prince-chrismc
-[#13644](https://github.com/conan-io/conan-center-index/pull/13644)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|0|||
+[#13640](https://github.com/conan-io/conan-center-index/pull/13640)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland|1|Oct 21||uilianries
+[#13644](https://github.com/conan-io/conan-center-index/pull/13644)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|1|Oct 21||
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: glib|0|||
 [#13648](https://github.com/conan-io/conan-center-index/pull/13648)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: xnnpack|0|||
 [#13654](https://github.com/conan-io/conan-center-index/pull/13654)|[toge](https://github.com/toge)|Oct 21|:stopwatch: daw_header_libraries|0|||
@@ -77,9 +76,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 194
+	- Open: 193
 	- Draft: 26
-	- Average Age: 74 days, 3 hours, and 8.14 minutes
+	- Average Age: 74 days, 13 hours, and 11.89 minutes
 	- Stop Label: 126
 	
 
