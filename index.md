@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,7 +46,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13626](https://github.com/conan-io/conan-center-index/pull/13626)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: libalsa|0|||
 [#13628](https://github.com/conan-io/conan-center-index/pull/13628)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: libnghttp2|0|||
 [#13629](https://github.com/conan-io/conan-center-index/pull/13629)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|1|Oct 20||jwillikers
-[#13631](https://github.com/conan-io/conan-center-index/pull/13631)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: exiv2|0|||
 [#13632](https://github.com/conan-io/conan-center-index/pull/13632)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:stopwatch: meson|2|Oct 20||jwillikers
 [#13633](https://github.com/conan-io/conan-center-index/pull/13633)|[toge](https://github.com/toge)|Oct 20|:stopwatch: aws-crt-cpp|1|Oct 20||jwillikers
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|||
@@ -55,6 +54,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13642](https://github.com/conan-io/conan-center-index/pull/13642)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland-protocols|1|Oct 20||prince-chrismc
 [#13644](https://github.com/conan-io/conan-center-index/pull/13644)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|0|||
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: glib|0|||
+[#13648](https://github.com/conan-io/conan-center-index/pull/13648)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: xnnpack|0|||
+[#13649](https://github.com/conan-io/conan-center-index/pull/13649)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: fp16|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -75,10 +76,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 190
+	- Open: 193
 	- Draft: 26
-	- Average Age: 77 days, 20 hours, and 57.22 minutes
-	- Stop Label: 121
+	- Average Age: 76 days, 18 hours, and 52.96 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
