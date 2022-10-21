@@ -38,14 +38,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13551](https://github.com/conan-io/conan-center-index/pull/13551)|[paulharris](https://github.com/paulharris)|Oct 17|:stopwatch: szip|10|Oct 20||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|7|Oct 20||jwillikers
+[#13585](https://github.com/conan-io/conan-center-index/pull/13585)|[toge](https://github.com/toge)|Oct 18|:stopwatch: screen_capture_lite|1|Oct 21||
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:memo: libexif|3|Oct 20||jwillikers
 [#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:stopwatch: orcania|7|Oct 20||jwillikers
 [#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: android-ndk|3|Oct 20||jwillikers
 [#13612](https://github.com/conan-io/conan-center-index/pull/13612)|[jwillikers](https://github.com/jwillikers)|Oct 19|:memo: xkbcommon|3|Oct 20||
 [#13622](https://github.com/conan-io/conan-center-index/pull/13622)|[paulharris](https://github.com/paulharris)|Oct 20|:memo: libaec|2|Oct 20||jwillikers
 [#13626](https://github.com/conan-io/conan-center-index/pull/13626)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: libalsa|0|||
-[#13632](https://github.com/conan-io/conan-center-index/pull/13632)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:stopwatch: meson|2|Oct 20||jwillikers
-[#13633](https://github.com/conan-io/conan-center-index/pull/13633)|[toge](https://github.com/toge)|Oct 20|:stopwatch: aws-crt-cpp|1|Oct 20||jwillikers
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|||
 [#13636](https://github.com/conan-io/conan-center-index/pull/13636)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|3|Oct 20||jwillikers
 [#13638](https://github.com/conan-io/conan-center-index/pull/13638)|[toge](https://github.com/toge)|Oct 20|:new: watcher|0|||
@@ -57,18 +56,21 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13651](https://github.com/conan-io/conan-center-index/pull/13651)|[Ahajha](https://github.com/Ahajha)|Oct 21|:stopwatch: vulkan-loader|0|||
 [#13654](https://github.com/conan-io/conan-center-index/pull/13654)|[toge](https://github.com/toge)|Oct 21|:stopwatch: daw_header_libraries|0|||
 [#13656](https://github.com/conan-io/conan-center-index/pull/13656)|[uilianries](https://github.com/uilianries)|Oct 21|:green_book: docs|0|||
+[#13659](https://github.com/conan-io/conan-center-index/pull/13659)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: cpuinfo|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|2|jwillikers, uilianries
+[#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|3|jwillikers, uilianries
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
 [#13627](https://github.com/conan-io/conan-center-index/pull/13627)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 20|:gear: .c3i|2|uilianries, jwillikers
+[#13632](https://github.com/conan-io/conan-center-index/pull/13632)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:warning: meson|3|jwillikers, uilianries
+[#13633](https://github.com/conan-io/conan-center-index/pull/13633)|[toge](https://github.com/toge)|Oct 20|:warning: aws-crt-cpp|2|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -77,10 +79,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 191
+	- Open: 193
 	- Draft: 26
-	- Average Age: 75 days, 5 hours, and 14.95 minutes
-	- Stop Label: 122
+	- Average Age: 74 days, 11 hours, and 29.59 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
