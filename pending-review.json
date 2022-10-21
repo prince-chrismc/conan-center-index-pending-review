@@ -568,24 +568,6 @@
       }
    },
    {
-      "Number": 13631,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2022-10-20T13:23:34Z",
-      "Recipe": "exiv2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13631",
-      "LastCommitSHA": "129d635a3fd62045b920177bd0aa3e988f4f8eff",
-      "LastCommitAt": "2022-10-20T12:59:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13632,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-10-20T13:45:27Z",
@@ -748,6 +730,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13645",
       "LastCommitSHA": "9ec8b654283b28967169ca51e880ede0b617c7c6",
       "LastCommitAt": "2022-10-20T19:15:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13648,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-21T00:07:31Z",
+      "Recipe": "xnnpack",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13648",
+      "LastCommitSHA": "a7ee574611324a8c9e9eb8ffec60f7a43ffd5d92",
+      "LastCommitAt": "2022-10-21T00:06:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13649,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-21T00:16:59Z",
+      "Recipe": "fp16",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13649",
+      "LastCommitSHA": "f2d48930de7c47d2d0703ce874d56749907561e0",
+      "LastCommitAt": "2022-10-21T00:16:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
