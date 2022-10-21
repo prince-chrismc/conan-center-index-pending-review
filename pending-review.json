@@ -833,5 +833,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13655,
+      "OpenedBy": "paulharris",
+      "CreatedAt": "2022-10-21T05:58:25Z",
+      "Recipe": "openmpi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13655",
+      "LastCommitSHA": "69abfab62db2f603ae6cdb8061d7f4629592db22",
+      "LastCommitAt": "2022-10-21T06:13:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
