@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **36** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,20 +41,26 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:stopwatch: orcania|9|Oct 21||jwillikers
 [#13626](https://github.com/conan-io/conan-center-index/pull/13626)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: libalsa|1|Oct 21||uilianries
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|||
+[#13639](https://github.com/conan-io/conan-center-index/pull/13639)|[toge](https://github.com/toge)|Oct 20|:memo: grpc|1|Oct 21||uilianries
 [#13640](https://github.com/conan-io/conan-center-index/pull/13640)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland|1|Oct 21||uilianries
 [#13643](https://github.com/conan-io/conan-center-index/pull/13643)|[Tradias](https://github.com/Tradias)|Oct 20|:stopwatch: asio-grpc|2|Oct 21||
 [#13644](https://github.com/conan-io/conan-center-index/pull/13644)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|4|Oct 21||uilianries
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: glib|0|||
+[#13647](https://github.com/conan-io/conan-center-index/pull/13647)|[madebr](https://github.com/madebr)|Oct 20|:memo: pcre2|1|Oct 21||uilianries
 [#13648](https://github.com/conan-io/conan-center-index/pull/13648)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: xnnpack|1|Oct 21||uilianries
 [#13651](https://github.com/conan-io/conan-center-index/pull/13651)|[Ahajha](https://github.com/Ahajha)|Oct 21|:stopwatch: vulkan-loader|2|Oct 21||
 [#13656](https://github.com/conan-io/conan-center-index/pull/13656)|[uilianries](https://github.com/uilianries)|Oct 21|:green_book: docs|3|Oct 21||jwillikers
 [#13658](https://github.com/conan-io/conan-center-index/pull/13658)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: pthreadpool|0|||
 [#13659](https://github.com/conan-io/conan-center-index/pull/13659)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: cpuinfo|1|Oct 21||uilianries
 [#13661](https://github.com/conan-io/conan-center-index/pull/13661)|[VladyslavUsenko](https://github.com/VladyslavUsenko)|Oct 21|:memo: sophus|1|Oct 21||uilianries
-[#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: tensorpipe|1|Oct 21||uilianries
-[#13663](https://github.com/conan-io/conan-center-index/pull/13663)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: sfml|1|Oct 21||uilianries
+[#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|1|Oct 21||uilianries
+[#13663](https://github.com/conan-io/conan-center-index/pull/13663)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: sfml|1|Oct 21||uilianries
 [#13665](https://github.com/conan-io/conan-center-index/pull/13665)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: libgeotiff|0|||
 [#13667](https://github.com/conan-io/conan-center-index/pull/13667)|[jwillikers](https://github.com/jwillikers)|Oct 21|:stopwatch: bzip2|1|Oct 21||
+[#13668](https://github.com/conan-io/conan-center-index/pull/13668)|[jwillikers](https://github.com/jwillikers)|Oct 21|:stopwatch: xkbcommon|0|||
+[#13669](https://github.com/conan-io/conan-center-index/pull/13669)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: mapbox-geometry|0|||
+[#13670](https://github.com/conan-io/conan-center-index/pull/13670)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: polylabel|0|||
+[#13672](https://github.com/conan-io/conan-center-index/pull/13672)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: sqlite_orm|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -75,10 +81,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 190
+	- Open: 194
 	- Draft: 26
-	- Average Age: 75 days, 11 hours, and 7.62 minutes
-	- Stop Label: 124
+	- Average Age: 73 days, 23 hours, and 41.06 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
