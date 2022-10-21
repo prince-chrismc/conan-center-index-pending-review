@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **35** pull requests currently under way :detective:
+There are **36** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -33,6 +33,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12956](https://github.com/conan-io/conan-center-index/pull/12956)|[MartinDelille](https://github.com/MartinDelille)|Sep 15|:memo: libcurl|22|Oct 20||jwillikers
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
+[#13211](https://github.com/conan-io/conan-center-index/pull/13211)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 29|:stopwatch: diligent-tools|4|Oct 19||
 [#13355](https://github.com/conan-io/conan-center-index/pull/13355)|[jwillikers](https://github.com/jwillikers)|Oct 7|:stopwatch: libffi|3|Oct 19||
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:memo: theora|6|Oct 19||
 [#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:stopwatch: nasm|9|Oct 20||
@@ -51,15 +52,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13633](https://github.com/conan-io/conan-center-index/pull/13633)|[toge](https://github.com/toge)|Oct 20|:stopwatch: aws-crt-cpp|1|Oct 20||jwillikers
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|||
 [#13636](https://github.com/conan-io/conan-center-index/pull/13636)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|3|Oct 20||jwillikers
+[#13638](https://github.com/conan-io/conan-center-index/pull/13638)|[toge](https://github.com/toge)|Oct 20|:new: watcher|0|||
 [#13640](https://github.com/conan-io/conan-center-index/pull/13640)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland|0|||
 [#13642](https://github.com/conan-io/conan-center-index/pull/13642)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland-protocols|1|Oct 20||prince-chrismc
 [#13644](https://github.com/conan-io/conan-center-index/pull/13644)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:green_book: docs|0|||
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: glib|0|||
 [#13648](https://github.com/conan-io/conan-center-index/pull/13648)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: xnnpack|0|||
-[#13649](https://github.com/conan-io/conan-center-index/pull/13649)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: fp16|0|||
+[#13649](https://github.com/conan-io/conan-center-index/pull/13649)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: fp16|0|||
 [#13651](https://github.com/conan-io/conan-center-index/pull/13651)|[Ahajha](https://github.com/Ahajha)|Oct 21|:stopwatch: vulkan-loader|0|||
 [#13654](https://github.com/conan-io/conan-center-index/pull/13654)|[toge](https://github.com/toge)|Oct 21|:stopwatch: daw_header_libraries|0|||
-[#13655](https://github.com/conan-io/conan-center-index/pull/13655)|[paulharris](https://github.com/paulharris)|Oct 21|:stopwatch: openmpi|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -82,7 +83,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 191
 	- Draft: 26
-	- Average Age: 75 days, 3 hours, and 30.01 minutes
+	- Average Age: 75 days, 4 hours, and 22.38 minutes
 	- Stop Label: 119
 	
 
