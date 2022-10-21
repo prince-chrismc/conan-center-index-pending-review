@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,8 +36,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13355](https://github.com/conan-io/conan-center-index/pull/13355)|[jwillikers](https://github.com/jwillikers)|Oct 7|:stopwatch: libffi|3|Oct 19||
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:memo: theora|6|Oct 19||
 [#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:stopwatch: nasm|9|Oct 20||
+[#13551](https://github.com/conan-io/conan-center-index/pull/13551)|[paulharris](https://github.com/paulharris)|Oct 17|:stopwatch: szip|10|Oct 20||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
-[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:stopwatch: restbed|7|Oct 20||jwillikers
+[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|7|Oct 20||jwillikers
 [#13587](https://github.com/conan-io/conan-center-index/pull/13587)|[theirix](https://github.com/theirix)|Oct 18|:stopwatch: libexif|3|Oct 20||jwillikers
 [#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:stopwatch: orcania|7|Oct 20||jwillikers
 [#13601](https://github.com/conan-io/conan-center-index/pull/13601)|[SpaceIm](https://github.com/SpaceIm)|Oct 19|:memo: android-ndk|3|Oct 20||jwillikers
@@ -76,10 +77,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 193
+	- Open: 188
 	- Draft: 26
-	- Average Age: 76 days, 18 hours, and 52.96 minutes
-	- Stop Label: 123
+	- Average Age: 76 days, 3 hours, and 6.94 minutes
+	- Stop Label: 119
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
