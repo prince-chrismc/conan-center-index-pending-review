@@ -55,15 +55,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|1|Oct 21||uilianries
 [#13667](https://github.com/conan-io/conan-center-index/pull/13667)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: bzip2|1|Oct 21||
 [#13668](https://github.com/conan-io/conan-center-index/pull/13668)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: xkbcommon|0|||
-[#13669](https://github.com/conan-io/conan-center-index/pull/13669)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: mapbox-geometry|0|||
-[#13670](https://github.com/conan-io/conan-center-index/pull/13670)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: polylabel|0|||
-[#13672](https://github.com/conan-io/conan-center-index/pull/13672)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:stopwatch: sqlite_orm|0|||
+[#13669](https://github.com/conan-io/conan-center-index/pull/13669)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: mapbox-geometry|0|||
+[#13670](https://github.com/conan-io/conan-center-index/pull/13670)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: polylabel|0|||
+[#13672](https://github.com/conan-io/conan-center-index/pull/13672)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: sqlite_orm|0|||
 [#13674](https://github.com/conan-io/conan-center-index/pull/13674)|[psyinf](https://github.com/psyinf)|Oct 21|:stopwatch: gmtl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -72,8 +72,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
 [#13627](https://github.com/conan-io/conan-center-index/pull/13627)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 20|:gear: .c3i|2|uilianries, jwillikers
 [#13639](https://github.com/conan-io/conan-center-index/pull/13639)|[toge](https://github.com/toge)|Oct 20|:warning: grpc|2|uilianries, jwillikers
-[#13659](https://github.com/conan-io/conan-center-index/pull/13659)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: cpuinfo|2|uilianries, jwillikers
-[#13663](https://github.com/conan-io/conan-center-index/pull/13663)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: sfml|2|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -82,9 +80,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 193
+	- Open: 191
 	- Draft: 26
-	- Average Age: 74 days, 12 hours, and 31.07 minutes
+	- Average Age: 75 days, 8 hours, and 9.84 minutes
 	- Stop Label: 120
 	
 
