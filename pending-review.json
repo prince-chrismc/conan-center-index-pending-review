@@ -288,8 +288,8 @@
       "Recipe": "szip",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13551",
-      "LastCommitSHA": "2ff3cd6b128bb5392c6d38b971d7c509890a3d54",
-      "LastCommitAt": "2022-10-21T01:12:21Z",
+      "LastCommitSHA": "44b3533a912afe315431a1561202a01bc8337049",
+      "LastCommitAt": "2022-10-21T01:56:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 10,
@@ -389,7 +389,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13587",
       "LastCommitSHA": "7501945792ff7c5c3cfb071e53961b38561ac344",
       "LastCommitAt": "2022-10-20T15:16:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -789,6 +789,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13649",
       "LastCommitSHA": "f2d48930de7c47d2d0703ce874d56749907561e0",
       "LastCommitAt": "2022-10-21T00:16:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13651,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2022-10-21T01:39:01Z",
+      "Recipe": "vulkan-loader",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13651",
+      "LastCommitSHA": "be1d6537725fa44726558fc393417aabdf8792b3",
+      "LastCommitAt": "2022-10-21T01:34:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13654,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-21T03:42:23Z",
+      "Recipe": "daw_header_libraries",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13654",
+      "LastCommitSHA": "45928c236d2c0536d2c6b1616b5d756db4a7472d",
+      "LastCommitAt": "2022-10-21T01:29:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
