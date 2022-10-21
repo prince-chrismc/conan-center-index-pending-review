@@ -647,35 +647,17 @@
       "LastCommitAt": "2022-10-20T17:08:19Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13642,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2022-10-20T18:03:23Z",
-      "Recipe": "wayland-protocols",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13642",
-      "LastCommitSHA": "6c462cd3b439f92d68503f4da25aaa9ca4dd105d",
-      "LastCommitAt": "2022-10-20T17:15:06Z",
-      "CciBotPassed": true,
-      "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-20T18:42:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13642#pullrequestreview-1149793797"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-21T10:56:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13640#pullrequestreview-1150760601"
          }
       }
    },
@@ -690,11 +672,16 @@
       "LastCommitAt": "2022-10-20T18:46:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-10-21T11:02:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13644#pullrequestreview-1150767792"
+         }
       }
    },
    {
