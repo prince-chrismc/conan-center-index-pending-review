@@ -35,7 +35,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
 [#13355](https://github.com/conan-io/conan-center-index/pull/13355)|[jwillikers](https://github.com/jwillikers)|Oct 7|:memo: libffi|3|Oct 19||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
-[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|12|Oct 22||
+[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|13|Oct 22||jwillikers
 [#13585](https://github.com/conan-io/conan-center-index/pull/13585)|[toge](https://github.com/toge)|Oct 18|:new: screen_capture_lite|6|Oct 22||jwillikers
 [#13621](https://github.com/conan-io/conan-center-index/pull/13621)|[kexianda](https://github.com/kexianda)|Oct 20|:memo: folly|2|Oct 20||
 [#13626](https://github.com/conan-io/conan-center-index/pull/13626)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: libalsa|1|Oct 21||uilianries
@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13680](https://github.com/conan-io/conan-center-index/pull/13680)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: mathfu|0|||
 [#13681](https://github.com/conan-io/conan-center-index/pull/13681)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: taywee-args|0|||
 [#13682](https://github.com/conan-io/conan-center-index/pull/13682)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: xproperty|0|||
-[#13683](https://github.com/conan-io/conan-center-index/pull/13683)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:stopwatch: reckless|0|||
+[#13683](https://github.com/conan-io/conan-center-index/pull/13683)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: reckless|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -81,7 +81,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 189
 	- Draft: 26
-	- Average Age: 76 days, 2 hours, and 31.97 minutes
+	- Average Age: 76 days, 3 hours, and 50.66 minutes
 	- Stop Label: 115
 	
 
