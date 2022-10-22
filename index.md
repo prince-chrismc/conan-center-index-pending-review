@@ -35,7 +35,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
 [#13355](https://github.com/conan-io/conan-center-index/pull/13355)|[jwillikers](https://github.com/jwillikers)|Oct 7|:memo: libffi|3|Oct 19||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
-[#13585](https://github.com/conan-io/conan-center-index/pull/13585)|[toge](https://github.com/toge)|Oct 18|:stopwatch: screen_capture_lite|6|Oct 22||
+[#13585](https://github.com/conan-io/conan-center-index/pull/13585)|[toge](https://github.com/toge)|Oct 18|:new: screen_capture_lite|6|Oct 22||
 [#13602](https://github.com/conan-io/conan-center-index/pull/13602)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:gear: .github|1|Oct 20||
 [#13614](https://github.com/conan-io/conan-center-index/pull/13614)|[madebr](https://github.com/madebr)|Oct 19|:new: yder|2|Oct 22||jwillikers
 [#13621](https://github.com/conan-io/conan-center-index/pull/13621)|[kexianda](https://github.com/kexianda)|Oct 20|:memo: folly|3|Oct 22||jwillikers
@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 188
 	- Draft: 25
-	- Average Age: 75 days, 17 hours, and 1.67 minutes
+	- Average Age: 75 days, 17 hours, and 56.40 minutes
 	- Stop Label: 112
 	
 
