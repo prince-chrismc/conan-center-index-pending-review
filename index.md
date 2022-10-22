@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **32** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,7 +46,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13643](https://github.com/conan-io/conan-center-index/pull/13643)|[Tradias](https://github.com/Tradias)|Oct 20|:memo: asio-grpc|3|Oct 22||prince-chrismc
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: glib|0|||
 [#13651](https://github.com/conan-io/conan-center-index/pull/13651)|[Ahajha](https://github.com/Ahajha)|Oct 21|:stopwatch: vulkan-loader|2|Oct 21||
-[#13656](https://github.com/conan-io/conan-center-index/pull/13656)|[uilianries](https://github.com/uilianries)|Oct 21|:green_book: docs|3|Oct 21||jwillikers
 [#13658](https://github.com/conan-io/conan-center-index/pull/13658)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: pthreadpool|1|Oct 22||jwillikers
 [#13660](https://github.com/conan-io/conan-center-index/pull/13660)|[toge](https://github.com/toge)|Oct 21|:memo: lief|1|Oct 22||jwillikers
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|1|Oct 21||uilianries
@@ -61,7 +60,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -71,6 +70,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
 [#13589](https://github.com/conan-io/conan-center-index/pull/13589)|[madebr](https://github.com/madebr)|Oct 19|:new: orcania|11|jwillikers, prince-chrismc
 [#13639](https://github.com/conan-io/conan-center-index/pull/13639)|[toge](https://github.com/toge)|Oct 20|:warning: grpc|2|uilianries, jwillikers
+[#13656](https://github.com/conan-io/conan-center-index/pull/13656)|[uilianries](https://github.com/uilianries)|Oct 21|:green_book: docs|4|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -81,7 +81,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 188
 	- Draft: 26
-	- Average Age: 76 days, 17 hours, and 11.28 minutes
+	- Average Age: 76 days, 17 hours, and 13.94 minutes
 	- Stop Label: 115
 	
 
