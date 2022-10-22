@@ -45,7 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|||
 [#13640](https://github.com/conan-io/conan-center-index/pull/13640)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: wayland|1|Oct 21||uilianries
 [#13643](https://github.com/conan-io/conan-center-index/pull/13643)|[Tradias](https://github.com/Tradias)|Oct 20|:memo: asio-grpc|2|Oct 21||
-[#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:stopwatch: glib|0|||
+[#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: glib|0|||
 [#13648](https://github.com/conan-io/conan-center-index/pull/13648)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: xnnpack|1|Oct 21||uilianries
 [#13651](https://github.com/conan-io/conan-center-index/pull/13651)|[Ahajha](https://github.com/Ahajha)|Oct 21|:stopwatch: vulkan-loader|2|Oct 21||
 [#13656](https://github.com/conan-io/conan-center-index/pull/13656)|[uilianries](https://github.com/uilianries)|Oct 21|:green_book: docs|3|Oct 21||jwillikers
@@ -82,7 +82,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 191
 	- Draft: 26
-	- Average Age: 75 days, 8 hours, and 9.84 minutes
+	- Average Age: 75 days, 10 hours, and 15.50 minutes
 	- Stop Label: 120
 	
 
