@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **34** pull requests currently under way :detective:
+There are **35** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -53,6 +53,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13660](https://github.com/conan-io/conan-center-index/pull/13660)|[toge](https://github.com/toge)|Oct 21|:memo: lief|0|||
 [#13661](https://github.com/conan-io/conan-center-index/pull/13661)|[VladyslavUsenko](https://github.com/VladyslavUsenko)|Oct 21|:memo: sophus|1|Oct 21||uilianries
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|1|Oct 21||uilianries
+[#13665](https://github.com/conan-io/conan-center-index/pull/13665)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: libgeotiff|0|||
 [#13667](https://github.com/conan-io/conan-center-index/pull/13667)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: bzip2|1|Oct 21||
 [#13668](https://github.com/conan-io/conan-center-index/pull/13668)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: xkbcommon|0|||
 [#13669](https://github.com/conan-io/conan-center-index/pull/13669)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: mapbox-geometry|0|||
@@ -82,8 +83,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 191
 	- Draft: 26
-	- Average Age: 75 days, 10 hours, and 15.50 minutes
-	- Stop Label: 120
+	- Average Age: 75 days, 10 hours, and 30.99 minutes
+	- Stop Label: 119
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
