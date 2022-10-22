@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **36** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -60,7 +60,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13682](https://github.com/conan-io/conan-center-index/pull/13682)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: xproperty|1|Oct 22||jwillikers
 [#13683](https://github.com/conan-io/conan-center-index/pull/13683)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: reckless|2|Oct 22||jwillikers, toge
 [#13684](https://github.com/conan-io/conan-center-index/pull/13684)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:stopwatch: libcurl|1|Oct 22||jwillikers
-[#13685](https://github.com/conan-io/conan-center-index/pull/13685)|[toge](https://github.com/toge)|Oct 22|:memo: daw_utf_range|0|||
+[#13685](https://github.com/conan-io/conan-center-index/pull/13685)|[toge](https://github.com/toge)|Oct 22|:memo: daw_utf_range|1|Oct 22||jwillikers
+[#13686](https://github.com/conan-io/conan-center-index/pull/13686)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:stopwatch: zmqpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -81,9 +82,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 190
+	- Open: 191
 	- Draft: 26
-	- Average Age: 75 days, 20 hours, and 43.72 minutes
+	- Average Age: 75 days, 12 hours, and 18.91 minutes
 	- Stop Label: 114
 	
 
