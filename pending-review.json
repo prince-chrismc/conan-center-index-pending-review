@@ -348,7 +348,7 @@
       "LastCommitAt": "2022-10-19T21:20:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -357,8 +357,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-22T14:15:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13614#pullrequestreview-1151998029"
+            "SubmittedAt": "2022-10-22T14:22:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13614#pullrequestreview-1152005377"
          }
       }
    },
@@ -478,31 +478,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-10-21T10:56:15Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13640#pullrequestreview-1150760601"
-         }
-      }
-   },
-   {
-      "Number": 13643,
-      "OpenedBy": "Tradias",
-      "CreatedAt": "2022-10-20T18:11:21Z",
-      "Recipe": "asio-grpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13643",
-      "LastCommitSHA": "1b22bd8160f74210d0da2c27cef98099e999631c",
-      "LastCommitAt": "2022-10-21T14:48:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-22T03:31:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13643#pullrequestreview-1151752469"
          }
       }
    },
@@ -848,17 +823,18 @@
       "LastCommitAt": "2022-10-22T09:51:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-22T13:57:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13681#pullrequestreview-1151984870"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-10-22T15:02:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13681#pullrequestreview-1152022184"
          }
       }
    },
@@ -898,17 +874,18 @@
       "LastCommitAt": "2022-10-22T11:04:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "toge"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-22T13:56:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13683#pullrequestreview-1151984483"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-10-22T14:50:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13683#pullrequestreview-1152015296"
          }
       }
    },
@@ -935,6 +912,24 @@
             "SubmittedAt": "2022-10-22T13:54:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13684#pullrequestreview-1151984255"
          }
+      }
+   },
+   {
+      "Number": 13685,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-22T14:47:12Z",
+      "Recipe": "daw_utf_range",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13685",
+      "LastCommitSHA": "ce82136f1836f3cab6da4978d05b97d5f364486f",
+      "LastCommitAt": "2022-10-22T14:46:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
