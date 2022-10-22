@@ -965,8 +965,26 @@
       "Recipe": "tinyobjloader",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13688",
-      "LastCommitSHA": "0e5269df046058fd2c0df92d054e3cbbd6bf3e06",
-      "LastCommitAt": "2022-10-22T20:15:13Z",
+      "LastCommitSHA": "6d0ad439d2a62b1a329ee74b303de192a39aded1",
+      "LastCommitAt": "2022-10-22T23:20:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13689,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-22T21:11:48Z",
+      "Recipe": "tinyxml",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13689",
+      "LastCommitSHA": "e51d798e0fe2a5d9f45fa71bc3c955668cbabceb",
+      "LastCommitAt": "2022-10-22T22:18:14Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
