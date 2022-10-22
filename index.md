@@ -35,7 +35,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
 [#13355](https://github.com/conan-io/conan-center-index/pull/13355)|[jwillikers](https://github.com/jwillikers)|Oct 7|:memo: libffi|3|Oct 19||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
-[#13561](https://github.com/conan-io/conan-center-index/pull/13561)|[madebr](https://github.com/madebr)|Oct 17|:new: restbed|13|Oct 22||jwillikers
 [#13585](https://github.com/conan-io/conan-center-index/pull/13585)|[toge](https://github.com/toge)|Oct 18|:new: screen_capture_lite|6|Oct 22||jwillikers
 [#13614](https://github.com/conan-io/conan-center-index/pull/13614)|[madebr](https://github.com/madebr)|Oct 19|:new: yder|2|Oct 22||jwillikers
 [#13621](https://github.com/conan-io/conan-center-index/pull/13621)|[kexianda](https://github.com/kexianda)|Oct 20|:memo: folly|3|Oct 22||jwillikers
@@ -59,9 +58,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13681](https://github.com/conan-io/conan-center-index/pull/13681)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: taywee-args|2|Oct 22||jwillikers, toge
 [#13682](https://github.com/conan-io/conan-center-index/pull/13682)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: xproperty|1|Oct 22||jwillikers
 [#13683](https://github.com/conan-io/conan-center-index/pull/13683)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: reckless|2|Oct 22||jwillikers, toge
-[#13684](https://github.com/conan-io/conan-center-index/pull/13684)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:stopwatch: libcurl|1|Oct 22||jwillikers
+[#13684](https://github.com/conan-io/conan-center-index/pull/13684)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:stopwatch: libcurl|2|Oct 22||jwillikers, MartinDelille
 [#13685](https://github.com/conan-io/conan-center-index/pull/13685)|[toge](https://github.com/toge)|Oct 22|:memo: daw_utf_range|1|Oct 22||jwillikers
-[#13686](https://github.com/conan-io/conan-center-index/pull/13686)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:stopwatch: zmqpp|0|||
+[#13686](https://github.com/conan-io/conan-center-index/pull/13686)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: zmqpp|0|||
+[#13687](https://github.com/conan-io/conan-center-index/pull/13687)|[toge](https://github.com/toge)|Oct 22|:stopwatch: libdeflate|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 191
 	- Draft: 26
-	- Average Age: 75 days, 12 hours, and 18.91 minutes
+	- Average Age: 75 days, 12 hours, and 43.54 minutes
 	- Stop Label: 114
 	
 
