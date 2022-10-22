@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -54,12 +54,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13670](https://github.com/conan-io/conan-center-index/pull/13670)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: polylabel|2|Oct 22||jwillikers, toge
 [#13672](https://github.com/conan-io/conan-center-index/pull/13672)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: sqlite_orm|2|Oct 22||jwillikers, toge
 [#13674](https://github.com/conan-io/conan-center-index/pull/13674)|[psyinf](https://github.com/psyinf)|Oct 21|:stopwatch: gmtl|0|||
-[#13676](https://github.com/conan-io/conan-center-index/pull/13676)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 22|:stopwatch: wolfssl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -67,7 +66,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|4|jwillikers, uilianries, prince-chrismc
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
 [#13639](https://github.com/conan-io/conan-center-index/pull/13639)|[toge](https://github.com/toge)|Oct 20|:warning: grpc|2|uilianries, jwillikers
-[#13656](https://github.com/conan-io/conan-center-index/pull/13656)|[uilianries](https://github.com/uilianries)|Oct 21|:green_book: docs|4|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -76,9 +74,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 187
+	- Open: 184
 	- Draft: 26
-	- Average Age: 76 days, 16 hours, and 4.43 minutes
+	- Average Age: 77 days, 23 hours, and 19.48 minutes
 	- Stop Label: 115
 	
 
