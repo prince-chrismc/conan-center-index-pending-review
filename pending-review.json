@@ -925,6 +925,31 @@
       "LastCommitAt": "2022-10-22T14:46:35Z",
       "CciBotPassed": true,
       "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-10-22T15:55:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13685#pullrequestreview-1152044062"
+         }
+      }
+   },
+   {
+      "Number": 13686,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-22T16:00:03Z",
+      "Recipe": "zmqpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13686",
+      "LastCommitSHA": "8c40d2428773bab6e61a1f279bf2c0d1b81c0de9",
+      "LastCommitAt": "2022-10-22T15:59:22Z",
+      "CciBotPassed": false,
+      "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
