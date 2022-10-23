@@ -1068,6 +1068,24 @@
       }
    },
    {
+      "Number": 13697,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-23T12:50:20Z",
+      "Recipe": "opencl-icd-loader",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13697",
+      "LastCommitSHA": "effd943138d938cd529c8295b880942f2b6acabe",
+      "LastCommitAt": "2022-10-23T13:21:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13698,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-10-23T13:02:23Z",
@@ -1076,7 +1094,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13698",
       "LastCommitSHA": "e20f0ff93235081e6cfe2c3b3be50d087c7534d4",
       "LastCommitAt": "2022-10-23T13:01:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1101,25 +1119,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13699",
       "LastCommitSHA": "2f2e30e477441a24a00dac38b18254fc3b42df54",
       "LastCommitAt": "2022-10-23T13:41:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13700,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-10-23T13:47:26Z",
-      "Recipe": "cairo",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13700",
-      "LastCommitSHA": "6420385517bf1a8b8e9390127dfc8981669254b3",
-      "LastCommitAt": "2022-10-23T13:47:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1137,6 +1137,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13701",
       "LastCommitSHA": "b90e74a54064576ce3278c4b3bd7ab281026d2d8",
       "LastCommitAt": "2022-10-23T14:05:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13702,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-23T14:30:46Z",
+      "Recipe": "cpp-httplib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13702",
+      "LastCommitSHA": "92b63af292f39d6fc97c6c23e5afe4f51ea5f2f1",
+      "LastCommitAt": "2022-10-23T14:30:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
