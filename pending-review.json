@@ -1091,7 +1091,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13699",
       "LastCommitSHA": "cf2db17ee28894233768b627031d460c27d21169",
       "LastCommitAt": "2022-10-23T16:49:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1102,31 +1102,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2022-10-23T15:32:26Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13699#pullrequestreview-1152326368"
-         }
-      }
-   },
-   {
-      "Number": 13702,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-10-23T14:30:46Z",
-      "Recipe": "cpp-httplib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13702",
-      "LastCommitSHA": "92b63af292f39d6fc97c6c23e5afe4f51ea5f2f1",
-      "LastCommitAt": "2022-10-23T14:30:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-23T15:33:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13702#pullrequestreview-1152326519"
          }
       }
    },
