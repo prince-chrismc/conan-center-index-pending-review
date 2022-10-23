@@ -965,8 +965,8 @@
       "Recipe": "tinyobjloader",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13688",
-      "LastCommitSHA": "3b0e027906865022b9d7511793e31983d717d8bc",
-      "LastCommitAt": "2022-10-23T01:04:28Z",
+      "LastCommitSHA": "064719698a06e339a24c9d0f5794bef04c418f4b",
+      "LastCommitAt": "2022-10-23T01:36:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1004,6 +1004,24 @@
       "LastCommitSHA": "7e06d0b5e4df57af10f08507430a3c1c49795cf1",
       "LastCommitAt": "2022-10-23T00:51:02Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13691,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-10-23T01:41:11Z",
+      "Recipe": "openapi-generator",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13691",
+      "LastCommitSHA": "dfc29112788ebf2420134f743b9e88e358be7f7d",
+      "LastCommitAt": "2022-10-23T00:30:02Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
