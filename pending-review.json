@@ -1016,9 +1016,9 @@
       "Recipe": "openapi-generator",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13691",
-      "LastCommitSHA": "70e611bb55228cb00c3d979255ff3a438be937e0",
-      "LastCommitAt": "2022-10-23T02:31:24Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "76fc20acdafc42d4f277d97389edd081266fda05",
+      "LastCommitAt": "2022-10-23T10:07:59Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
