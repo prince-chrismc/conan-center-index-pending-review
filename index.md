@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -49,7 +49,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13660](https://github.com/conan-io/conan-center-index/pull/13660)|[toge](https://github.com/toge)|Oct 21|:memo: lief|1|Oct 22||jwillikers
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|1|Oct 21||uilianries
 [#13665](https://github.com/conan-io/conan-center-index/pull/13665)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: libgeotiff|1|Oct 22||jwillikers
-[#13667](https://github.com/conan-io/conan-center-index/pull/13667)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: bzip2|2|Oct 22||prince-chrismc
+[#13667](https://github.com/conan-io/conan-center-index/pull/13667)|[jwillikers](https://github.com/jwillikers)|Oct 21|:stopwatch: bzip2|4|Oct 23||
 [#13668](https://github.com/conan-io/conan-center-index/pull/13668)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: xkbcommon|0|||
 [#13669](https://github.com/conan-io/conan-center-index/pull/13669)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: mapbox-geometry|1|Oct 22||jwillikers
 [#13670](https://github.com/conan-io/conan-center-index/pull/13670)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: polylabel|2|Oct 22||jwillikers, toge
@@ -68,9 +68,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:new: openapi-generator|1|Oct 23||jwillikers
 [#13697](https://github.com/conan-io/conan-center-index/pull/13697)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-icd-loader|0|||
 [#13698](https://github.com/conan-io/conan-center-index/pull/13698)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-headers|1|Oct 23||jwillikers
-[#13699](https://github.com/conan-io/conan-center-index/pull/13699)|[madebr](https://github.com/madebr)|Oct 23|:memo: libmicrohttpd|0|||
-[#13701](https://github.com/conan-io/conan-center-index/pull/13701)|[toge](https://github.com/toge)|Oct 23|:stopwatch: c-blosc|0|||
-[#13702](https://github.com/conan-io/conan-center-index/pull/13702)|[toge](https://github.com/toge)|Oct 23|:stopwatch: cpp-httplib|0|||
+[#13701](https://github.com/conan-io/conan-center-index/pull/13701)|[toge](https://github.com/toge)|Oct 23|:stopwatch: c-blosc|1|Oct 23||jwillikers
+[#13702](https://github.com/conan-io/conan-center-index/pull/13702)|[toge](https://github.com/toge)|Oct 23|:stopwatch: cpp-httplib|1|Oct 23||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -91,10 +90,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 200
+	- Open: 201
 	- Draft: 24
-	- Average Age: 72 days, and 9.54 minutes
-	- Stop Label: 115
+	- Average Age: 71 days, 16 hours, and 40.55 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
