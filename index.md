@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -68,8 +68,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:new: openapi-generator|1|Oct 23||jwillikers
 [#13697](https://github.com/conan-io/conan-center-index/pull/13697)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-icd-loader|0|||
 [#13698](https://github.com/conan-io/conan-center-index/pull/13698)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-headers|1|Oct 23||jwillikers
-[#13699](https://github.com/conan-io/conan-center-index/pull/13699)|[madebr](https://github.com/madebr)|Oct 23|:stopwatch: libmicrohttpd|1|Oct 23||
-[#13702](https://github.com/conan-io/conan-center-index/pull/13702)|[toge](https://github.com/toge)|Oct 23|:stopwatch: cpp-httplib|1|Oct 23||jwillikers
+[#13699](https://github.com/conan-io/conan-center-index/pull/13699)|[madebr](https://github.com/madebr)|Oct 23|:memo: libmicrohttpd|1|Oct 23||
 [#13703](https://github.com/conan-io/conan-center-index/pull/13703)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: bzip2|0|||
 
 
@@ -90,9 +89,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 199
+	- Open: 198
 	- Draft: 24
-	- Average Age: 72 days, 10 hours, and 35.96 minutes
+	- Average Age: 72 days, 20 hours, and 17.73 minutes
 	- Stop Label: 115
 	
 
