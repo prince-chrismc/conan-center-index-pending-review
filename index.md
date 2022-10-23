@@ -62,10 +62,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13684](https://github.com/conan-io/conan-center-index/pull/13684)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: libcurl|2|Oct 22||jwillikers, MartinDelille
 [#13685](https://github.com/conan-io/conan-center-index/pull/13685)|[toge](https://github.com/toge)|Oct 22|:memo: daw_utf_range|1|Oct 22||jwillikers
 [#13686](https://github.com/conan-io/conan-center-index/pull/13686)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: zmqpp|0|||
-[#13688](https://github.com/conan-io/conan-center-index/pull/13688)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:stopwatch: tinyobjloader|0|||
+[#13688](https://github.com/conan-io/conan-center-index/pull/13688)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: tinyobjloader|0|||
 [#13689](https://github.com/conan-io/conan-center-index/pull/13689)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: tinyxml|0|||
 [#13690](https://github.com/conan-io/conan-center-index/pull/13690)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:green_book: docs|0|||
-[#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:stopwatch: openapi-generator|0|||
+[#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:new: openapi-generator|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -86,10 +86,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 192
+	- Open: 193
 	- Draft: 25
-	- Average Age: 74 days, 10 hours, and 27.59 minutes
-	- Stop Label: 112
+	- Average Age: 74 days, 3 hours, and 33.69 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
