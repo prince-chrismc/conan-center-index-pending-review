@@ -65,7 +65,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13688](https://github.com/conan-io/conan-center-index/pull/13688)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: tinyobjloader|0|||
 [#13689](https://github.com/conan-io/conan-center-index/pull/13689)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: tinyxml|0|||
 [#13690](https://github.com/conan-io/conan-center-index/pull/13690)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:green_book: docs|0|||
-[#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:new: openapi-generator|0|||
+[#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:stopwatch: openapi-generator|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 193
 	- Draft: 25
-	- Average Age: 74 days, 8 hours, and 46.68 minutes
+	- Average Age: 74 days, 9 hours, and 46.21 minutes
 	- Stop Label: 113
 	
 
