@@ -32,6 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17||SSE4
 [#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|4|Oct 22||
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|17|Oct 16|uilianries|
+[#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:stopwatch: cppfront|16|Oct 22||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
 [#13355](https://github.com/conan-io/conan-center-index/pull/13355)|[jwillikers](https://github.com/jwillikers)|Oct 7|:memo: libffi|4|Oct 24||
@@ -41,7 +42,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13614](https://github.com/conan-io/conan-center-index/pull/13614)|[madebr](https://github.com/madebr)|Oct 19|:new: yder|3|Oct 24||jwillikers
 [#13621](https://github.com/conan-io/conan-center-index/pull/13621)|[kexianda](https://github.com/kexianda)|Oct 20|:memo: folly|5|Oct 24||jwillikers
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|:eyes:||
-[#13638](https://github.com/conan-io/conan-center-index/pull/13638)|[toge](https://github.com/toge)|Oct 20|:new: watcher|1|Oct 21||
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: glib|0|:eyes:||
 [#13660](https://github.com/conan-io/conan-center-index/pull/13660)|[toge](https://github.com/toge)|Oct 21|:memo: lief|2|Oct 24||jwillikers
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|2|Oct 24||uilianries
@@ -84,8 +84,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
 	- Open: 192
-	- Draft: 24
-	- Average Age: 75 days, 13 hours, and 54.73 minutes
+	- Draft: 25
+	- Average Age: 75 days, 14 hours, and 38.72 minutes
 	- Stop Label: 116
 	
 
