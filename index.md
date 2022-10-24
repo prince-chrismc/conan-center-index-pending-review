@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -30,6 +30,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#11725](https://github.com/conan-io/conan-center-index/pull/11725)|[tsondergaard](https://github.com/tsondergaard)|Jul 16|:memo: openssl|0|:eyes:||
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15||SSE4
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17||SSE4
+[#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|4|Oct 22||
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|17|Oct 16|uilianries|
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
@@ -62,21 +63,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13698](https://github.com/conan-io/conan-center-index/pull/13698)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-headers|1|Oct 23||jwillikers
 [#13707](https://github.com/conan-io/conan-center-index/pull/13707)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: blend2d|1|Oct 24||jwillikers
 [#13709](https://github.com/conan-io/conan-center-index/pull/13709)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: cpputest|1|Oct 24||jwillikers
+[#13713](https://github.com/conan-io/conan-center-index/pull/13713)|[toge](https://github.com/toge)|Oct 24|:stopwatch: civetweb|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|4|jwillikers, uilianries, prince-chrismc
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
-[#13681](https://github.com/conan-io/conan-center-index/pull/13681)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: taywee-args|3|jwillikers, toge, prince-chrismc
-[#13683](https://github.com/conan-io/conan-center-index/pull/13683)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: reckless|3|jwillikers, toge, prince-chrismc
-[#13685](https://github.com/conan-io/conan-center-index/pull/13685)|[toge](https://github.com/toge)|Oct 22|:memo: daw_utf_range|2|jwillikers, prince-chrismc
-[#13690](https://github.com/conan-io/conan-center-index/pull/13690)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:green_book: docs|2|jwillikers, prince-chrismc
 [#13699](https://github.com/conan-io/conan-center-index/pull/13699)|[madebr](https://github.com/madebr)|Oct 23|:memo: libmicrohttpd|3|jwillikers, prince-chrismc
 
 
@@ -86,9 +84,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 197
+	- Open: 194
 	- Draft: 24
-	- Average Age: 73 days, 13 hours, and 56.83 minutes
+	- Average Age: 74 days, 17 hours, and 50.97 minutes
 	- Stop Label: 116
 	
 
