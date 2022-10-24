@@ -32,7 +32,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 
 	fmt.Println("::group::🔎 Gathering data on all Pull Requests")
 
-	var stats stats.Stats
+	var stat stats.Stats
 	var summaries []*pending_review.PullRequestSummary
 	opt := &pending_review.PullRequestListOptions{
 		Sort:      "created",
@@ -55,7 +55,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 		}
 
 		summaries = append(summaries, out...)
-		stats.Add(s)
+		stat.Add(s)
 
 		if resp.NextPage == 0 {
 			break
@@ -67,7 +67,13 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 
 	fmt.Println("::group::🖊️ Rendering data and saving results!")
 
-	commentBody := MakeCommentBody(summaries, stats, owner, repo)
+	var weeklies stats.CountAtTime
+	err = internal.GetJSONFile(context, client, "totals-per-week.json", &weeklies)
+	if err != nil {
+		return fmt.Errorf("problem updating '%s' %w", "totals-per-week.json", err)
+	}
+
+	commentBody := MakeCommentBody(summaries, stat, weeklies, owner, repo)
 
 	if dryRun {
 		fmt.Println(commentBody)
@@ -90,7 +96,7 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 		return fmt.Errorf("problem updating 'review-count.json' %w", err)
 	}
 
-	err = updateCountFile(context, client, "open-count.json", stats.Open)
+	err = updateCountFile(context, client, "open-count.json", stat.Open)
 	if err != nil {
 		return fmt.Errorf("problem updating 'open-count.json' %w", err)
 	}

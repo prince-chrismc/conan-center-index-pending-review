@@ -1,13 +1,15 @@
 package main
 
 import (
+	"fmt"
+
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/format"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
 )
 
 // MakeCommentBody to render human friendly version that can be published to GitHub Issues
-func MakeCommentBody(summaries []*pending_review.PullRequestSummary, stats stats.Stats, owner string, repo string) string {
+func MakeCommentBody(summaries []*pending_review.PullRequestSummary, stats stats.Stats, totals stats.CountAtTime, owner string, repo string) string {
 	return `## :sparkles: Summary of Pull Requests Pending Review!
 
 ### :ballot_box_with_check: Selection Criteria:
@@ -28,7 +30,7 @@ func MakeCommentBody(summaries []*pending_review.PullRequestSummary, stats stats
 <br>
 <sup>[1]</sup>: _closely_ matches the label<br>
 <sup>[2]</sup>: depending whether the PR is under way or ready to merge` +
-	format.UnderReview(summaries, owner, repo) + format.ReadyToMerge(summaries) + format.Statistics(stats) + `
+		format.UnderReview(summaries, owner, repo) + format.ReadyToMerge(summaries) + format.Statistics(stats) + `
 
 [Raw JSON data](https://raw.githubusercontent.com/` + owner + "/" + repo + `/raw-data/pending-review.json)
 
@@ -39,6 +41,9 @@ func MakeCommentBody(summaries []*pending_review.PullRequestSummary, stats stats
 :green_square: - Open pull requests<br>
 :red_square: - Closed pull requests<br>
 :purple_square: - Merged pull requests <sup>[1]</sup><br>
+
+- 100% (most in the last year) ` + fmt.Sprint(totals.Values()[0]) + `
+- 60% ` + fmt.Sprint(int(float64(totals.Values()[0])*0.6)) + `
 
 ![ovm](https://github.com/` + owner + "/" + repo + `/blob/raw-data/open-versus-merged.gif?raw=true)
 
