@@ -97,6 +97,11 @@ func OpenVersusMerged(token string, dryRun bool, owner string, repo string) erro
 		return fmt.Errorf("problem updating %s %w", "open-versus-merged.gif", err)
 	}
 
+	_, err = internal.UpdateJSONFile(context, client, "totals-per-week.json", opw)
+	if err != nil {
+		return fmt.Errorf("problem saving %s %w", "totals-per-week.json", err)
+	}
+
 	return nil
 }
 
