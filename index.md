@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -30,7 +30,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15||SSE4
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17||SSE4
 [#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|4|Oct 22||
-[#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|18|Oct 24|uilianries|jwillikers
+[#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|19|Oct 24|uilianries|jwillikers
 [#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:stopwatch: cppfront|16|Oct 22||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:memo: hyperscan|3|Oct 18||jwillikers
@@ -39,36 +39,35 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13614](https://github.com/conan-io/conan-center-index/pull/13614)|[madebr](https://github.com/madebr)|Oct 19|:new: yder|3|Oct 24||jwillikers
 [#13621](https://github.com/conan-io/conan-center-index/pull/13621)|[kexianda](https://github.com/kexianda)|Oct 20|:stopwatch: folly|6|Oct 24||jwillikers
+[#13628](https://github.com/conan-io/conan-center-index/pull/13628)|[theirix](https://github.com/theirix)|Oct 20|:stopwatch: libnghttp2|4|Oct 24||jwillikers
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|:eyes:||
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: glib|0|:eyes:||
 [#13660](https://github.com/conan-io/conan-center-index/pull/13660)|[toge](https://github.com/toge)|Oct 21|:memo: lief|2|Oct 24||jwillikers
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|2|Oct 24||uilianries
 [#13667](https://github.com/conan-io/conan-center-index/pull/13667)|[jwillikers](https://github.com/jwillikers)|Oct 21|:stopwatch: bzip2|6|Oct 24|prince-chrismc|
 [#13668](https://github.com/conan-io/conan-center-index/pull/13668)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: xkbcommon|1|Oct 24||uilianries
+[#13674](https://github.com/conan-io/conan-center-index/pull/13674)|[psyinf](https://github.com/psyinf)|Oct 21|:stopwatch: gmtl|4|Oct 24||
 [#13684](https://github.com/conan-io/conan-center-index/pull/13684)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:stopwatch: libcurl|4|Oct 24||jwillikers
 [#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:new: openapi-generator|3|Oct 24||jwillikers
-[#13693](https://github.com/conan-io/conan-center-index/pull/13693)|[toge](https://github.com/toge)|Oct 23|:new: tscns|0|||
-[#13697](https://github.com/conan-io/conan-center-index/pull/13697)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-icd-loader|0|||
+[#13693](https://github.com/conan-io/conan-center-index/pull/13693)|[toge](https://github.com/toge)|Oct 23|:new: tscns|1|Oct 24||jwillikers
+[#13697](https://github.com/conan-io/conan-center-index/pull/13697)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-icd-loader|2|Oct 24||uilianries
 [#13698](https://github.com/conan-io/conan-center-index/pull/13698)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-headers|1|Oct 23||jwillikers
 [#13707](https://github.com/conan-io/conan-center-index/pull/13707)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: blend2d|1|Oct 24||jwillikers
 [#13709](https://github.com/conan-io/conan-center-index/pull/13709)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: cpputest|1|Oct 24||jwillikers
-[#13711](https://github.com/conan-io/conan-center-index/pull/13711)|[kexianda](https://github.com/kexianda)|Oct 24|:new: libgsasl|0|||
 [#13713](https://github.com/conan-io/conan-center-index/pull/13713)|[toge](https://github.com/toge)|Oct 24|:memo: civetweb|2|Oct 24||SpaceIm, jwillikers
-[#13714](https://github.com/conan-io/conan-center-index/pull/13714)|[toge](https://github.com/toge)|Oct 24|:stopwatch: c-blosc2|1|Oct 24||jwillikers
+[#13714](https://github.com/conan-io/conan-center-index/pull/13714)|[toge](https://github.com/toge)|Oct 24|:memo: c-blosc2|1|Oct 24||jwillikers
+[#13718](https://github.com/conan-io/conan-center-index/pull/13718)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 24|:stopwatch: .c3i|1|Oct 24||jwillikers
+[#13720](https://github.com/conan-io/conan-center-index/pull/13720)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: tiny-aes-c|1|Oct 24||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#10855](https://github.com/conan-io/conan-center-index/pull/10855)|[paulharris](https://github.com/paulharris)|May 18|:memo: cgns|12|prince-chrismc, jwillikers
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
-[#13672](https://github.com/conan-io/conan-center-index/pull/13672)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: sqlite_orm|3|jwillikers, toge, uilianries
-[#13679](https://github.com/conan-io/conan-center-index/pull/13679)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: cppzmq|2|jwillikers, uilianries
-[#13680](https://github.com/conan-io/conan-center-index/pull/13680)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: mathfu|2|jwillikers, uilianries
 [#13682](https://github.com/conan-io/conan-center-index/pull/13682)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: xproperty|2|jwillikers, uilianries
 [#13686](https://github.com/conan-io/conan-center-index/pull/13686)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: zmqpp|2|jwillikers, uilianries
 [#13688](https://github.com/conan-io/conan-center-index/pull/13688)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: tinyobjloader|4|jwillikers, uilianries
@@ -81,10 +80,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 190
+	- Open: 188
 	- Draft: 24
-	- Average Age: 76 days, 10 hours, and 33.29 minutes
-	- Stop Label: 116
+	- Average Age: 76 days, 10 hours, and 12.93 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
