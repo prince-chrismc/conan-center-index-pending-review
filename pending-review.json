@@ -899,32 +899,6 @@
       }
    },
    {
-      "Number": 13699,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2022-10-23T13:41:58Z",
-      "Recipe": "libmicrohttpd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13699",
-      "LastCommitSHA": "cf2db17ee28894233768b627031d460c27d21169",
-      "LastCommitAt": "2022-10-23T16:49:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-24T02:57:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13699#pullrequestreview-1152490753"
-         }
-      }
-   },
-   {
       "Number": 13707,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-10-23T22:25:37Z",
@@ -975,15 +949,15 @@
       }
    },
    {
-      "Number": 13713,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-10-24T06:04:42Z",
-      "Recipe": "civetweb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13713",
-      "LastCommitSHA": "70ce4eee5df8a25661013fd6f40d3ab9f4d77fbd",
-      "LastCommitAt": "2022-10-24T06:04:08Z",
-      "CciBotPassed": false,
+      "Number": 13711,
+      "OpenedBy": "kexianda",
+      "CreatedAt": "2022-10-24T02:22:06Z",
+      "Recipe": "libgsasl",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13711",
+      "LastCommitSHA": "93b8acd6df4a068eb2b9993c4f142a362c272dc7",
+      "LastCommitAt": "2022-10-24T06:38:19Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
