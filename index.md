@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,15 +41,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13585](https://github.com/conan-io/conan-center-index/pull/13585)|[toge](https://github.com/toge)|Oct 18|:new: screen_capture_lite|8|Oct 22||prince-chrismc
 [#13602](https://github.com/conan-io/conan-center-index/pull/13602)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:gear: .github|2|Oct 22||prince-chrismc
 [#13614](https://github.com/conan-io/conan-center-index/pull/13614)|[madebr](https://github.com/madebr)|Oct 19|:new: yder|3|Oct 24||jwillikers
-[#13621](https://github.com/conan-io/conan-center-index/pull/13621)|[kexianda](https://github.com/kexianda)|Oct 20|:memo: folly|5|Oct 24||jwillikers
+[#13621](https://github.com/conan-io/conan-center-index/pull/13621)|[kexianda](https://github.com/kexianda)|Oct 20|:stopwatch: folly|5|Oct 24||
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|:eyes:||
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: glib|0|:eyes:||
 [#13660](https://github.com/conan-io/conan-center-index/pull/13660)|[toge](https://github.com/toge)|Oct 21|:memo: lief|2|Oct 24||jwillikers
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|2|Oct 24||uilianries
-[#13668](https://github.com/conan-io/conan-center-index/pull/13668)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: xkbcommon|0|||
-[#13669](https://github.com/conan-io/conan-center-index/pull/13669)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: mapbox-geometry|1|Oct 22||jwillikers
-[#13670](https://github.com/conan-io/conan-center-index/pull/13670)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: polylabel|2|Oct 22||jwillikers, toge
-[#13672](https://github.com/conan-io/conan-center-index/pull/13672)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: sqlite_orm|2|Oct 22||jwillikers, toge
+[#13668](https://github.com/conan-io/conan-center-index/pull/13668)|[jwillikers](https://github.com/jwillikers)|Oct 21|:memo: xkbcommon|1|Oct 24||uilianries
 [#13679](https://github.com/conan-io/conan-center-index/pull/13679)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: cppzmq|1|Oct 22||jwillikers
 [#13680](https://github.com/conan-io/conan-center-index/pull/13680)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: mathfu|1|Oct 22||jwillikers
 [#13682](https://github.com/conan-io/conan-center-index/pull/13682)|[SpaceIm](https://github.com/SpaceIm)|Oct 22|:memo: xproperty|1|Oct 22||jwillikers
@@ -64,17 +61,20 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13707](https://github.com/conan-io/conan-center-index/pull/13707)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: blend2d|1|Oct 24||jwillikers
 [#13709](https://github.com/conan-io/conan-center-index/pull/13709)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: cpputest|1|Oct 24||jwillikers
 [#13711](https://github.com/conan-io/conan-center-index/pull/13711)|[kexianda](https://github.com/kexianda)|Oct 24|:new: libgsasl|0|||
+[#13713](https://github.com/conan-io/conan-center-index/pull/13713)|[toge](https://github.com/toge)|Oct 24|:memo: civetweb|1|Oct 24||SpaceIm
 [#13714](https://github.com/conan-io/conan-center-index/pull/13714)|[toge](https://github.com/toge)|Oct 24|:stopwatch: c-blosc2|0|||
+[#13717](https://github.com/conan-io/conan-center-index/pull/13717)|[fdgStilla](https://github.com/fdgStilla)|Oct 24|:stopwatch: anyrpc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
+[#13672](https://github.com/conan-io/conan-center-index/pull/13672)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: sqlite_orm|3|jwillikers, toge, uilianries
 
 
 #### :clipboard: Statistics
@@ -83,10 +83,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 193
+	- Open: 192
 	- Draft: 24
-	- Average Age: 75 days, 6 hours, and 12.31 minutes
-	- Stop Label: 117
+	- Average Age: 75 days, 15 hours, and 51.58 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
