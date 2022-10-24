@@ -63,19 +63,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13698](https://github.com/conan-io/conan-center-index/pull/13698)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-headers|1|Oct 23||jwillikers
 [#13707](https://github.com/conan-io/conan-center-index/pull/13707)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: blend2d|1|Oct 24||jwillikers
 [#13709](https://github.com/conan-io/conan-center-index/pull/13709)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: cpputest|1|Oct 24||jwillikers
-[#13713](https://github.com/conan-io/conan-center-index/pull/13713)|[toge](https://github.com/toge)|Oct 24|:stopwatch: civetweb|0|||
+[#13711](https://github.com/conan-io/conan-center-index/pull/13711)|[kexianda](https://github.com/kexianda)|Oct 24|:new: libgsasl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|4|jwillikers, uilianries, prince-chrismc
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
-[#13699](https://github.com/conan-io/conan-center-index/pull/13699)|[madebr](https://github.com/madebr)|Oct 23|:memo: libmicrohttpd|3|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -84,9 +83,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f127c4ea6e9762215c21b9ecf5ce2ecefc788bd3
 - Pull Requests:
-	- Open: 194
+	- Open: 192
 	- Draft: 24
-	- Average Age: 74 days, 17 hours, and 50.97 minutes
+	- Average Age: 75 days, 13 hours, and 54.73 minutes
 	- Stop Label: 116
 	
 
