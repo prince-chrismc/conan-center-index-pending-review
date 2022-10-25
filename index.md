@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -53,21 +53,20 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13747](https://github.com/conan-io/conan-center-index/pull/13747)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: highway|0|||
 [#13749](https://github.com/conan-io/conan-center-index/pull/13749)|[toge](https://github.com/toge)|Oct 25|:stopwatch: libslz|0|||
 [#13750](https://github.com/conan-io/conan-center-index/pull/13750)|[MartinDelille](https://github.com/MartinDelille)|Oct 25|:stopwatch: openjdk|0|||
+[#13751](https://github.com/conan-io/conan-center-index/pull/13751)|[jwillikers](https://github.com/jwillikers)|Oct 25|:stopwatch: libarchive|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|7|jwillikers, prince-chrismc, uilianries
-[#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:warning: innoextract|2|uilianries, jwillikers
+[#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
 [#13718](https://github.com/conan-io/conan-center-index/pull/13718)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 24|:gear: .c3i|4|jwillikers, prince-chrismc, uilianries, SSE4
-[#13738](https://github.com/conan-io/conan-center-index/pull/13738)|[toge](https://github.com/toge)|Oct 25|:memo: bzip3|2|jwillikers, uilianries
 [#13745](https://github.com/conan-io/conan-center-index/pull/13745)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:warning: libjpeg-turbo|2|jwillikers, uilianries
-[#13746](https://github.com/conan-io/conan-center-index/pull/13746)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 25|:green_book: docs|2|SSE4, uilianries
 
 
 #### :clipboard: Statistics
@@ -76,9 +75,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 183
+	- Open: 182
 	- Draft: 28
-	- Average Age: 78 days, 18 hours, and 44.48 minutes
+	- Average Age: 79 days, 6 hours, and 17.27 minutes
 	- Stop Label: 115
 	
 
