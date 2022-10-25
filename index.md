@@ -34,8 +34,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:stopwatch: cppfront|19|Oct 25||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13427](https://github.com/conan-io/conan-center-index/pull/13427)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:stopwatch: cairo|0|||
-[#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:stopwatch: theora|8|Oct 22||
-[#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:stopwatch: nasm|12|Oct 22||
+[#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:memo: theora|8|Oct 22||
+[#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:memo: nasm|12|Oct 22||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13631](https://github.com/conan-io/conan-center-index/pull/13631)|[theirix](https://github.com/theirix)|Oct 20|:memo: exiv2|3|Oct 24||prince-chrismc
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|:eyes:||
@@ -56,7 +56,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13733](https://github.com/conan-io/conan-center-index/pull/13733)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: vulkan-headers|0|||
 [#13734](https://github.com/conan-io/conan-center-index/pull/13734)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-headers|0|||
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-cross|0|||
-[#13738](https://github.com/conan-io/conan-center-index/pull/13738)|[toge](https://github.com/toge)|Oct 25|:stopwatch: bzip3|0|||
+[#13738](https://github.com/conan-io/conan-center-index/pull/13738)|[toge](https://github.com/toge)|Oct 25|:memo: bzip3|0|||
 [#13743](https://github.com/conan-io/conan-center-index/pull/13743)|[db4](https://github.com/db4)|Oct 25|:stopwatch: jasper|0|||
 
 
@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|7|jwillikers, prince-chrismc, uilianries
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
-[#13718](https://github.com/conan-io/conan-center-index/pull/13718)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 24|:gear: .c3i|3|jwillikers, prince-chrismc, uilianries
+[#13718](https://github.com/conan-io/conan-center-index/pull/13718)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 24|:gear: .c3i|4|jwillikers, prince-chrismc, uilianries, SSE4
 
 
 #### :clipboard: Statistics
@@ -80,7 +80,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 187
 	- Draft: 27
-	- Average Age: 77 days, 9 hours, and 46.59 minutes
+	- Average Age: 77 days, 10 hours, and 40.06 minutes
 	- Stop Label: 117
 	
 
