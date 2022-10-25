@@ -37,7 +37,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:memo: theora|8|Oct 22||
 [#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:memo: nasm|12|Oct 22||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
-[#13631](https://github.com/conan-io/conan-center-index/pull/13631)|[theirix](https://github.com/theirix)|Oct 20|:memo: exiv2|3|Oct 24||prince-chrismc
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|:eyes:||
 [#13638](https://github.com/conan-io/conan-center-index/pull/13638)|[toge](https://github.com/toge)|Oct 20|:new: watcher|5|Oct 24||
 [#13645](https://github.com/conan-io/conan-center-index/pull/13645)|[jwillikers](https://github.com/jwillikers)|Oct 20|:memo: glib|0|:eyes:||
@@ -47,6 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13687](https://github.com/conan-io/conan-center-index/pull/13687)|[toge](https://github.com/toge)|Oct 22|:stopwatch: libdeflate|3|Oct 24|prince-chrismc|
 [#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:new: openapi-generator|6|Oct 24||jwillikers
 [#13696](https://github.com/conan-io/conan-center-index/pull/13696)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: angelscript|1|Oct 24||
+[#13697](https://github.com/conan-io/conan-center-index/pull/13697)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-icd-loader|5|Oct 24||
 [#13717](https://github.com/conan-io/conan-center-index/pull/13717)|[fdgStilla](https://github.com/fdgStilla)|Oct 24|:new: anyrpc|0|||
 [#13723](https://github.com/conan-io/conan-center-index/pull/13723)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: yaml-cpp|2|Oct 24||MartinDelille
 [#13725](https://github.com/conan-io/conan-center-index/pull/13725)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: ms-gsl|1|Oct 24||prince-chrismc
@@ -78,10 +78,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 187
+	- Open: 185
 	- Draft: 27
-	- Average Age: 77 days, 10 hours, and 40.06 minutes
-	- Stop Label: 117
+	- Average Age: 77 days, 21 hours, and 45.51 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
