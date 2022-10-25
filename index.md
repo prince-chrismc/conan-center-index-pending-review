@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,9 +45,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13674](https://github.com/conan-io/conan-center-index/pull/13674)|[psyinf](https://github.com/psyinf)|Oct 21|:stopwatch: gmtl|6|Oct 24||
 [#13687](https://github.com/conan-io/conan-center-index/pull/13687)|[toge](https://github.com/toge)|Oct 22|:memo: libdeflate|4|Oct 25|prince-chrismc|jwillikers
 [#13691](https://github.com/conan-io/conan-center-index/pull/13691)|[MartinDelille](https://github.com/MartinDelille)|Oct 23|:new: openapi-generator|6|Oct 24||jwillikers
-[#13696](https://github.com/conan-io/conan-center-index/pull/13696)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: angelscript|1|Oct 24||
+[#13696](https://github.com/conan-io/conan-center-index/pull/13696)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: angelscript|2|Oct 25||uilianries
 [#13697](https://github.com/conan-io/conan-center-index/pull/13697)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: opencl-icd-loader|6|Oct 25||jwillikers
-[#13727](https://github.com/conan-io/conan-center-index/pull/13727)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: fmt|1|Oct 24||prince-chrismc
+[#13717](https://github.com/conan-io/conan-center-index/pull/13717)|[fdgStilla](https://github.com/fdgStilla)|Oct 24|:stopwatch: anyrpc|1|Oct 25||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|1|Oct 24||
 [#13734](https://github.com/conan-io/conan-center-index/pull/13734)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: spirv-headers|1|Oct 25||uilianries
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-cross|1|Oct 25||uilianries
@@ -56,6 +56,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13745](https://github.com/conan-io/conan-center-index/pull/13745)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: libjpeg-turbo|1|Oct 25||jwillikers
 [#13746](https://github.com/conan-io/conan-center-index/pull/13746)|[github-actions[bot]](https://github.com/github-actions[bot])|Oct 25|:green_book: docs|1|Oct 25||SSE4
 [#13747](https://github.com/conan-io/conan-center-index/pull/13747)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: highway|0|||
+[#13748](https://github.com/conan-io/conan-center-index/pull/13748)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 25|:gear: .github|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -78,7 +79,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 184
 	- Draft: 27
-	- Average Age: 78 days, 7 hours, and 17.92 minutes
+	- Average Age: 78 days, 7 hours, and 49.70 minutes
 	- Stop Label: 115
 	
 
