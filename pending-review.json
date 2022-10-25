@@ -244,29 +244,6 @@
       }
    },
    {
-      "Number": 13551,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-10-17T15:16:56Z",
-      "Recipe": "szip",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13551",
-      "LastCommitSHA": "6bfa03b9fd1128b5bf9aa2799c414abccf90fab9",
-      "LastCommitAt": "2022-10-25T03:55:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-21T16:41:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13551#pullrequestreview-1151258927"
-         }
-      }
-   },
-   {
       "Number": 13552,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2022-10-17T15:20:42Z",
@@ -798,6 +775,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13738",
       "LastCommitSHA": "fbbbbbf5b32ee7fcd65be2a319f5c86c94703019",
       "LastCommitAt": "2022-10-25T01:28:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13740,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-10-25T04:59:26Z",
+      "Recipe": ".github",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13740",
+      "LastCommitSHA": "27823f9bb0a5292096ee67dd137a52d842f50b2e",
+      "LastCommitAt": "2022-10-25T04:56:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
