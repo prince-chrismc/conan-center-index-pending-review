@@ -137,16 +137,14 @@
       "Recipe": "cppfront",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13068",
-      "LastCommitSHA": "ede1c44883695d788b7ed063d379e49a359b22ca",
-      "LastCommitAt": "2022-10-24T17:05:02Z",
+      "LastCommitSHA": "0c1524eb9c9c436d8289c35ce1c53985b0515252",
+      "LastCommitAt": "2022-10-25T08:35:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 19,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -212,9 +210,9 @@
       "Recipe": "cairo",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13427",
-      "LastCommitSHA": "374a25b1d1d7369bd849b15d9e7d2ef3fd73df20",
-      "LastCommitAt": "2022-10-21T15:36:55Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "804e80d0f6fc6f52427a17f4bf16e849269415fc",
+      "LastCommitAt": "2022-10-25T09:01:52Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -413,7 +411,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13660",
       "LastCommitSHA": "5e520606441fd2257df245083074fe6ca42eea2d",
       "LastCommitAt": "2022-10-25T00:18:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
