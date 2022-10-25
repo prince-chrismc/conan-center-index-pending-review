@@ -184,6 +184,31 @@
       }
    },
    {
+      "Number": 13347,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-10-07T13:01:18Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13347",
+      "LastCommitSHA": "6b3b23b1b04cdc855930e17e969f49dd4d6699d1",
+      "LastCommitAt": "2022-10-20T18:12:48Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-10-25T18:16:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13347#pullrequestreview-1155297121"
+         }
+      }
+   },
+   {
       "Number": 13358,
       "OpenedBy": "toge",
       "CreatedAt": "2022-10-08T05:41:03Z",
