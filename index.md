@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -51,18 +51,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13725](https://github.com/conan-io/conan-center-index/pull/13725)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: ms-gsl|1|Oct 24||prince-chrismc
 [#13727](https://github.com/conan-io/conan-center-index/pull/13727)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: fmt|1|Oct 24||prince-chrismc
 [#13728](https://github.com/conan-io/conan-center-index/pull/13728)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: nlohmann_json|5|Oct 24||prince-chrismc
-[#13731](https://github.com/conan-io/conan-center-index/pull/13731)|[toge](https://github.com/toge)|Oct 24|:memo: daw_json_link|2|Oct 24||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|1|Oct 24||
 [#13733](https://github.com/conan-io/conan-center-index/pull/13733)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: vulkan-headers|0|||
 [#13734](https://github.com/conan-io/conan-center-index/pull/13734)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-headers|0|||
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-cross|0|||
 [#13738](https://github.com/conan-io/conan-center-index/pull/13738)|[toge](https://github.com/toge)|Oct 25|:stopwatch: bzip3|0|||
-[#13740](https://github.com/conan-io/conan-center-index/pull/13740)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 25|:stopwatch: .github|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -70,6 +68,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13358](https://github.com/conan-io/conan-center-index/pull/13358)|[toge](https://github.com/toge)|Oct 8|:warning: libcpuid|6|jwillikers, prince-chrismc
 [#13586](https://github.com/conan-io/conan-center-index/pull/13586)|[datalogics-kam](https://github.com/datalogics-kam)|Oct 18|:memo: innoextract|2|uilianries, jwillikers
 [#13718](https://github.com/conan-io/conan-center-index/pull/13718)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 24|:gear: .c3i|2|jwillikers, prince-chrismc
+[#13740](https://github.com/conan-io/conan-center-index/pull/13740)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 25|:gear: .github|2|uilianries, danimtb
 
 
 #### :clipboard: Statistics
@@ -78,10 +77,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 186
-	- Draft: 26
-	- Average Age: 77 days, 16 hours, and 28.97 minutes
-	- Stop Label: 117
+	- Open: 187
+	- Draft: 27
+	- Average Age: 77 days, 7 hours, and 58.45 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
