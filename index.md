@@ -35,7 +35,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13427](https://github.com/conan-io/conan-center-index/pull/13427)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:memo: cairo|0|:eyes:||
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:stopwatch: theora|8|Oct 22||
 [#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:stopwatch: nasm|12|Oct 22||
-[#13551](https://github.com/conan-io/conan-center-index/pull/13551)|[paulharris](https://github.com/paulharris)|Oct 17|:stopwatch: szip|12|Oct 21||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13631](https://github.com/conan-io/conan-center-index/pull/13631)|[theirix](https://github.com/theirix)|Oct 20|:memo: exiv2|3|Oct 24||prince-chrismc
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|:eyes:||
@@ -58,6 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13734](https://github.com/conan-io/conan-center-index/pull/13734)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-headers|0|||
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-cross|0|||
 [#13738](https://github.com/conan-io/conan-center-index/pull/13738)|[toge](https://github.com/toge)|Oct 25|:stopwatch: bzip3|0|||
+[#13740](https://github.com/conan-io/conan-center-index/pull/13740)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 25|:stopwatch: .github|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -78,10 +78,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 185
+	- Open: 186
 	- Draft: 26
-	- Average Age: 78 days, and 46.63 minutes
-	- Stop Label: 116
+	- Average Age: 77 days, 16 hours, and 28.97 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
