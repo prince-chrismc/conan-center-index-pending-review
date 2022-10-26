@@ -285,6 +285,31 @@
       }
    },
    {
+      "Number": 13562,
+      "OpenedBy": "xissburg",
+      "CreatedAt": "2022-10-18T00:45:13Z",
+      "Recipe": "edyn",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13562",
+      "LastCommitSHA": "cadae7547cfda5d79e6ffeab358fe8d8168ed0e0",
+      "LastCommitAt": "2022-10-25T18:41:03Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 27,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-10-25T21:09:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13562#pullrequestreview-1155501914"
+         }
+      }
+   },
+   {
       "Number": 13586,
       "OpenedBy": "datalogics-kam",
       "CreatedAt": "2022-10-18T17:53:10Z",
@@ -599,14 +624,14 @@
       }
    },
    {
-      "Number": 13757,
-      "OpenedBy": "kexianda",
-      "CreatedAt": "2022-10-26T03:32:39Z",
-      "Recipe": "folly",
+      "Number": 13759,
+      "OpenedBy": "paulharris",
+      "CreatedAt": "2022-10-26T04:34:25Z",
+      "Recipe": "libdeflate",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13757",
-      "LastCommitSHA": "652af143b0dfbbda9469a01c55b3cf6cacdd7048",
-      "LastCommitAt": "2022-10-24T00:54:47Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13759",
+      "LastCommitSHA": "3bbfdfda6159350a49d8b51e8368487d2d7e5457",
+      "LastCommitAt": "2022-10-26T04:40:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
