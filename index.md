@@ -43,10 +43,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13734](https://github.com/conan-io/conan-center-index/pull/13734)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: spirv-headers|1|Oct 25||uilianries
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-cross|1|Oct 25||uilianries
 [#13747](https://github.com/conan-io/conan-center-index/pull/13747)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: highway|0|||
-[#13751](https://github.com/conan-io/conan-center-index/pull/13751)|[jwillikers](https://github.com/jwillikers)|Oct 25|:stopwatch: libarchive|0|||
 [#13753](https://github.com/conan-io/conan-center-index/pull/13753)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:stopwatch: .c3i|0|||
 [#13754](https://github.com/conan-io/conan-center-index/pull/13754)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:green_book: docs|0|||
 [#13756](https://github.com/conan-io/conan-center-index/pull/13756)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: volk|0|||
+[#13757](https://github.com/conan-io/conan-center-index/pull/13757)|[kexianda](https://github.com/kexianda)|Oct 26|:stopwatch: folly|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -71,8 +71,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 182
 	- Draft: 29
-	- Average Age: 79 days, 3 hours, and 0.98 minutes
-	- Stop Label: 115
+	- Average Age: 79 days, 7 hours, and 26.70 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
