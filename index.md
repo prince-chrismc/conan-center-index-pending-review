@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -54,7 +54,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13771](https://github.com/conan-io/conan-center-index/pull/13771)|[Croydon](https://github.com/Croydon)|Oct 26|:stopwatch: m4|2|Oct 26||ericLemanissier
 [#13773](https://github.com/conan-io/conan-center-index/pull/13773)|[birgerbr](https://github.com/birgerbr)|Oct 26|:stopwatch: libe57format|0|||
 [#13777](https://github.com/conan-io/conan-center-index/pull/13777)|[jwillikers](https://github.com/jwillikers)|Oct 26|:stopwatch: ninja|0|||
-[#13779](https://github.com/conan-io/conan-center-index/pull/13779)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 26|:gear: linter|0|||
+[#13779](https://github.com/conan-io/conan-center-index/pull/13779)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 26|:gear: linter|2|Oct 26||
+[#13780](https://github.com/conan-io/conan-center-index/pull/13780)|[mmatisko](https://github.com/mmatisko)|Oct 26|:stopwatch: function2|0|||
+[#13781](https://github.com/conan-io/conan-center-index/pull/13781)|[paulharris](https://github.com/paulharris)|Oct 26|:stopwatch: netcdf|0|||
+[#13782](https://github.com/conan-io/conan-center-index/pull/13782)|[toge](https://github.com/toge)|Oct 26|:stopwatch: libuv|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -77,9 +80,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 189
+	- Open: 192
 	- Draft: 28
-	- Average Age: 76 days, 17 hours, and 17.04 minutes
+	- Average Age: 75 days, 13 hours, and 27.83 minutes
 	- Stop Label: 115
 	
 
