@@ -47,7 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13747](https://github.com/conan-io/conan-center-index/pull/13747)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: highway|0|||
 [#13753](https://github.com/conan-io/conan-center-index/pull/13753)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:stopwatch: .c3i|0|||
 [#13754](https://github.com/conan-io/conan-center-index/pull/13754)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:green_book: docs|0|||
-[#13756](https://github.com/conan-io/conan-center-index/pull/13756)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: volk|0|||
+[#13756](https://github.com/conan-io/conan-center-index/pull/13756)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: volk|0|||
 [#13759](https://github.com/conan-io/conan-center-index/pull/13759)|[paulharris](https://github.com/paulharris)|Oct 26|:stopwatch: libdeflate|0|||
 
 
@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 183
 	- Draft: 28
-	- Average Age: 78 days, 22 hours, and 36.87 minutes
+	- Average Age: 78 days, 23 hours, and 31.76 minutes
 	- Stop Label: 117
 	
 
