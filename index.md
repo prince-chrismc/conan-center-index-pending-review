@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **29** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -33,6 +33,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:stopwatch: cppfront|20|Oct 25||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13347](https://github.com/conan-io/conan-center-index/pull/13347)|[jwillikers](https://github.com/jwillikers)|Oct 7|:stopwatch: glib|2|Oct 25||
+[#13427](https://github.com/conan-io/conan-center-index/pull/13427)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:stopwatch: cairo|4|Oct 25||
 [#13485](https://github.com/conan-io/conan-center-index/pull/13485)|[paulharris](https://github.com/paulharris)|Oct 14|:memo: nasm|14|Oct 25||prince-chrismc
 [#13551](https://github.com/conan-io/conan-center-index/pull/13551)|[paulharris](https://github.com/paulharris)|Oct 17|:memo: szip|13|Oct 25||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
@@ -48,12 +49,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-cross|1|Oct 25||uilianries
 [#13737](https://github.com/conan-io/conan-center-index/pull/13737)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: shapelib|0|||
 [#13747](https://github.com/conan-io/conan-center-index/pull/13747)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: highway|0|||
-[#13754](https://github.com/conan-io/conan-center-index/pull/13754)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:green_book: docs|2|Oct 26||SSE4
+[#13754](https://github.com/conan-io/conan-center-index/pull/13754)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:green_book: docs|8|Oct 26|uilianries|SSE4
 [#13756](https://github.com/conan-io/conan-center-index/pull/13756)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: volk|0|||
 [#13759](https://github.com/conan-io/conan-center-index/pull/13759)|[paulharris](https://github.com/paulharris)|Oct 26|:stopwatch: libdeflate|0|||
-[#13763](https://github.com/conan-io/conan-center-index/pull/13763)|[toge](https://github.com/toge)|Oct 26|:stopwatch: watcher|0|||
 [#13764](https://github.com/conan-io/conan-center-index/pull/13764)|[toge](https://github.com/toge)|Oct 26|:stopwatch: libcpuid|0|||
 [#13766](https://github.com/conan-io/conan-center-index/pull/13766)|[toge](https://github.com/toge)|Oct 26|:stopwatch: bzip3|0|||
+[#13767](https://github.com/conan-io/conan-center-index/pull/13767)|[SpaceIm](https://github.com/SpaceIm)|Oct 26|:stopwatch: spectra|0|||
+[#13768](https://github.com/conan-io/conan-center-index/pull/13768)|[SpaceIm](https://github.com/SpaceIm)|Oct 26|:stopwatch: toml11|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -75,9 +77,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 187
+	- Open: 188
 	- Draft: 28
-	- Average Age: 77 days, 6 hours, and 35.17 minutes
+	- Average Age: 76 days, 21 hours, and 38.60 minutes
 	- Stop Label: 116
 	
 
