@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **38** pull requests currently under way :detective:
+There are **39** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -63,6 +63,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13785](https://github.com/conan-io/conan-center-index/pull/13785)|[toge](https://github.com/toge)|Oct 26|:stopwatch: libpng|0|||
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:stopwatch: libpng|0|||
 [#13788](https://github.com/conan-io/conan-center-index/pull/13788)|[SpaceIm](https://github.com/SpaceIm)|Oct 26|:stopwatch: vulkan-headers|0|||
+[#13789](https://github.com/conan-io/conan-center-index/pull/13789)|[Morwenn](https://github.com/Morwenn)|Oct 26|:stopwatch: cpp-sort|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -72,7 +73,7 @@ Currently **5** pull requests are waiting to be merged :tada:
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:warning: cppfront|23|uilianries, SSE4, jcar87
+[#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:warning: cppfront|24|uilianries, SSE4, jcar87, prince-chrismc
 [#13452](https://github.com/conan-io/conan-center-index/pull/13452)|[paulharris](https://github.com/paulharris)|Oct 13|:warning: theora|10|jwillikers, prince-chrismc
 [#13718](https://github.com/conan-io/conan-center-index/pull/13718)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 24|:gear: .c3i|4|jwillikers, prince-chrismc, uilianries, SSE4
 [#13764](https://github.com/conan-io/conan-center-index/pull/13764)|[toge](https://github.com/toge)|Oct 26|:warning: libcpuid|2|jwillikers, uilianries
@@ -85,9 +86,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 198
+	- Open: 199
 	- Draft: 28
-	- Average Age: 73 days, 9 hours, and 26.10 minutes
+	- Average Age: 73 days, 2 hours, and 35.19 minutes
 	- Stop Label: 115
 	
 
