@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **44** pull requests currently under way :detective:
+There are **46** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -69,6 +69,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13813](https://github.com/conan-io/conan-center-index/pull/13813)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:stopwatch: libcurl|0|||
 [#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|5|Oct 27||
 [#13819](https://github.com/conan-io/conan-center-index/pull/13819)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:stopwatch: draco|0|||
+[#13820](https://github.com/conan-io/conan-center-index/pull/13820)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:stopwatch: protobuf|0|||
+[#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -90,7 +92,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 204
 	- Draft: 32
-	- Average Age: 71 days, 19 hours, and 24.44 minutes
+	- Average Age: 71 days, 20 hours, and 9.28 minutes
 	- Stop Label: 116
 	
 
