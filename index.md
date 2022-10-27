@@ -60,13 +60,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13788](https://github.com/conan-io/conan-center-index/pull/13788)|[SpaceIm](https://github.com/SpaceIm)|Oct 26|:stopwatch: vulkan-headers|0|||
 [#13789](https://github.com/conan-io/conan-center-index/pull/13789)|[Morwenn](https://github.com/Morwenn)|Oct 26|:stopwatch: cpp-sort|0|||
 [#13796](https://github.com/conan-io/conan-center-index/pull/13796)|[toge](https://github.com/toge)|Oct 27|:stopwatch: quill|0|||
-[#13797](https://github.com/conan-io/conan-center-index/pull/13797)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: nasm|0|||
 [#13798](https://github.com/conan-io/conan-center-index/pull/13798)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: libtiff|0|||
+[#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: libvpx|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -78,6 +78,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13764](https://github.com/conan-io/conan-center-index/pull/13764)|[toge](https://github.com/toge)|Oct 26|:warning: libcpuid|2|jwillikers, uilianries
 [#13766](https://github.com/conan-io/conan-center-index/pull/13766)|[toge](https://github.com/toge)|Oct 26|:warning: bzip3|2|uilianries, jwillikers
 [#13768](https://github.com/conan-io/conan-center-index/pull/13768)|[SpaceIm](https://github.com/SpaceIm)|Oct 26|:warning: toml11|2|jwillikers, uilianries
+[#13797](https://github.com/conan-io/conan-center-index/pull/13797)|[paulharris](https://github.com/paulharris)|Oct 27|:warning: nasm|3|SSE4, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -86,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 204
+	- Open: 205
 	- Draft: 30
-	- Average Age: 71 days, 11 hours, and 25.40 minutes
+	- Average Age: 71 days, 4 hours, and 9.74 minutes
 	- Stop Label: 121
 	
 
