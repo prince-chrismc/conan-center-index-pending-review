@@ -602,8 +602,8 @@
       "Recipe": "openjdk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13750",
-      "LastCommitSHA": "d18d605c5d7f0a54d24e52eecad7259f846fe07c",
-      "LastCommitAt": "2022-10-27T06:43:03Z",
+      "LastCommitSHA": "4d3028d784336d122335057e364c993119ba709d",
+      "LastCommitAt": "2022-10-27T07:18:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 8,
@@ -959,15 +959,23 @@
       "Recipe": "nasm",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13797",
-      "LastCommitSHA": "1e3679a8e514a5187bbf5f2ab63c7d6f8aff1e5d",
-      "LastCommitAt": "2022-10-27T07:04:23Z",
+      "LastCommitSHA": "012dd95476f999c75ef4e6c416d863dbe419a41d",
+      "LastCommitAt": "2022-10-27T07:38:03Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4",
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2022-10-27T08:05:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13797#pullrequestreview-1157789947"
+         }
       }
    },
    {
@@ -979,6 +987,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13798",
       "LastCommitSHA": "4a131bebd2e1cf02e663a135f3450db01f4a3101",
       "LastCommitAt": "2022-10-27T07:11:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13799,
+      "OpenedBy": "paulharris",
+      "CreatedAt": "2022-10-27T07:57:09Z",
+      "Recipe": "libvpx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13799",
+      "LastCommitSHA": "852061ef4f9c4ceb71a9b1bb10b7e7941034b267",
+      "LastCommitAt": "2022-10-27T07:55:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
