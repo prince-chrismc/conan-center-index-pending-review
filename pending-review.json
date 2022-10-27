@@ -700,7 +700,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13771",
       "LastCommitSHA": "aa56d20457951865596cfab28643e2fb8e46d492",
       "LastCommitAt": "2022-10-26T15:05:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 2,
@@ -727,24 +727,6 @@
       "LastCommitSHA": "ff5fed9a7f57d17eba77deabc349009ef24026ab",
       "LastCommitAt": "2022-10-26T11:34:45Z",
       "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13777,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2022-10-26T14:29:42Z",
-      "Recipe": "ninja",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13777",
-      "LastCommitSHA": "64d2691e777c342ba5f2eef5940998bcf4e99ae3",
-      "LastCommitAt": "2022-10-26T14:56:03Z",
-      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -956,14 +938,14 @@
       }
    },
    {
-      "Number": 13793,
+      "Number": 13795,
       "OpenedBy": "paulharris",
-      "CreatedAt": "2022-10-27T03:32:17Z",
-      "Recipe": "cli11",
+      "CreatedAt": "2022-10-27T05:55:33Z",
+      "Recipe": "proj",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13793",
-      "LastCommitSHA": "d9f4f06dfdb34999de0cb06b2054de09485d2c73",
-      "LastCommitAt": "2022-10-27T03:17:23Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13795",
+      "LastCommitSHA": "8f00fc2eb51e5ba2e379eaca6e902442b53662ac",
+      "LastCommitAt": "2022-10-27T06:09:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -974,14 +956,14 @@
       }
    },
    {
-      "Number": 13794,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-10-27T04:38:59Z",
-      "Recipe": "catch2",
+      "Number": 13796,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-27T06:19:42Z",
+      "Recipe": "quill",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13794",
-      "LastCommitSHA": "d2502b3bdfb7952d627cae8422a7d0aac1f4559b",
-      "LastCommitAt": "2022-10-27T04:35:28Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13796",
+      "LastCommitSHA": "ac7b3265eb3684d4982c4cb5e523b24d4a1dedb6",
+      "LastCommitAt": "2022-10-27T01:47:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
