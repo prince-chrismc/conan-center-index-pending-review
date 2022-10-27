@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **39** pull requests currently under way :detective:
+There are **38** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -30,8 +30,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15||SSE4
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17||SSE4
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|20|Oct 25|uilianries|jwillikers
+[#13142](https://github.com/conan-io/conan-center-index/pull/13142)|[SpaceIm](https://github.com/SpaceIm)|Sep 25|:stopwatch: moltenvk|5|Oct 14 :bell:||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
-[#13427](https://github.com/conan-io/conan-center-index/pull/13427)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:stopwatch: cairo|4|Oct 25||
 [#13551](https://github.com/conan-io/conan-center-index/pull/13551)|[paulharris](https://github.com/paulharris)|Oct 17|:memo: szip|14|Oct 26||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13562](https://github.com/conan-io/conan-center-index/pull/13562)|[xissburg](https://github.com/xissburg)|Oct 18|:memo: edyn|27|Oct 25||
@@ -47,14 +47,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: spirv-cross|1|Oct 25||
 [#13737](https://github.com/conan-io/conan-center-index/pull/13737)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: shapelib|1|Oct 26||uilianries
 [#13747](https://github.com/conan-io/conan-center-index/pull/13747)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: highway|1|Oct 26||uilianries
-[#13754](https://github.com/conan-io/conan-center-index/pull/13754)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:green_book: docs|9|Oct 26|uilianries|
 [#13759](https://github.com/conan-io/conan-center-index/pull/13759)|[paulharris](https://github.com/paulharris)|Oct 26|:stopwatch: libdeflate|0|||
 [#13766](https://github.com/conan-io/conan-center-index/pull/13766)|[toge](https://github.com/toge)|Oct 26|:stopwatch: bzip3|1|Oct 26||uilianries
 [#13767](https://github.com/conan-io/conan-center-index/pull/13767)|[SpaceIm](https://github.com/SpaceIm)|Oct 26|:stopwatch: spectra|1|Oct 26||uilianries
 [#13771](https://github.com/conan-io/conan-center-index/pull/13771)|[Croydon](https://github.com/Croydon)|Oct 26|:stopwatch: m4|2|Oct 26||ericLemanissier
 [#13773](https://github.com/conan-io/conan-center-index/pull/13773)|[birgerbr](https://github.com/birgerbr)|Oct 26|:stopwatch: libe57format|0|||
 [#13777](https://github.com/conan-io/conan-center-index/pull/13777)|[jwillikers](https://github.com/jwillikers)|Oct 26|:stopwatch: ninja|0|||
-[#13779](https://github.com/conan-io/conan-center-index/pull/13779)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 26|:gear: linter|2|Oct 26||
+[#13779](https://github.com/conan-io/conan-center-index/pull/13779)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 26|:gear: linter|3|Oct 27||prince-chrismc
 [#13780](https://github.com/conan-io/conan-center-index/pull/13780)|[mmatisko](https://github.com/mmatisko)|Oct 26|:stopwatch: function2|0|||
 [#13781](https://github.com/conan-io/conan-center-index/pull/13781)|[paulharris](https://github.com/paulharris)|Oct 26|:stopwatch: netcdf|0|||
 [#13782](https://github.com/conan-io/conan-center-index/pull/13782)|[toge](https://github.com/toge)|Oct 26|:stopwatch: libuv|0|||
@@ -86,9 +85,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 199
-	- Draft: 28
-	- Average Age: 73 days, 2 hours, and 35.19 minutes
+	- Open: 198
+	- Draft: 30
+	- Average Age: 73 days, 9 hours, and 32.68 minutes
 	- Stop Label: 115
 	
 
