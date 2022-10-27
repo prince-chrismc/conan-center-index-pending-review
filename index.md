@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **47** pull requests currently under way :detective:
+There are **48** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -49,6 +49,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13730](https://github.com/conan-io/conan-center-index/pull/13730)|[toge](https://github.com/toge)|Oct 24|:stopwatch: duckdb|0|||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|1|Oct 24||
 [#13734](https://github.com/conan-io/conan-center-index/pull/13734)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: spirv-headers|1|Oct 25||
+[#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: spirv-cross|1|Oct 25||
 [#13737](https://github.com/conan-io/conan-center-index/pull/13737)|[jwillikers](https://github.com/jwillikers)|Oct 24|:memo: shapelib|1|Oct 26||uilianries
 [#13750](https://github.com/conan-io/conan-center-index/pull/13750)|[MartinDelille](https://github.com/MartinDelille)|Oct 25|:memo: openjdk|8|Oct 26||
 [#13755](https://github.com/conan-io/conan-center-index/pull/13755)|[HappySeaFox](https://github.com/HappySeaFox)|Oct 25|:memo: libaom-av1|0|||
@@ -62,16 +63,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13791](https://github.com/conan-io/conan-center-index/pull/13791)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: libmp3lame|1|Oct 27||
 [#13793](https://github.com/conan-io/conan-center-index/pull/13793)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: cli11|0|||
 [#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: catch2|1|Oct 27||
-[#13796](https://github.com/conan-io/conan-center-index/pull/13796)|[toge](https://github.com/toge)|Oct 27|:stopwatch: quill|0|||
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: libvpx|0|||
 [#13805](https://github.com/conan-io/conan-center-index/pull/13805)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 27|:stopwatch: .c3i|0|||
 [#13806](https://github.com/conan-io/conan-center-index/pull/13806)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:memo: xorstr|0|||
-[#13807](https://github.com/conan-io/conan-center-index/pull/13807)|[toge](https://github.com/toge)|Oct 27|:stopwatch: picosha2|0|||
 [#13810](https://github.com/conan-io/conan-center-index/pull/13810)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|2|Oct 27||prince-chrismc
 [#13813](https://github.com/conan-io/conan-center-index/pull/13813)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:memo: libcurl|0|||
 [#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|5|Oct 27||
 [#13820](https://github.com/conan-io/conan-center-index/pull/13820)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:stopwatch: protobuf|0|||
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|||
+[#13822](https://github.com/conan-io/conan-center-index/pull/13822)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:stopwatch: freetype|0|||
+[#13823](https://github.com/conan-io/conan-center-index/pull/13823)|[toge](https://github.com/toge)|Oct 27|:stopwatch: quill|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -91,9 +92,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 203
+	- Open: 205
 	- Draft: 31
-	- Average Age: 72 days, 5 hours, and 40.11 minutes
+	- Average Age: 71 days, 13 hours, and 44.21 minutes
 	- Stop Label: 115
 	
 
