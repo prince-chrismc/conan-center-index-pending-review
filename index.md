@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **35** pull requests currently under way :detective:
+There are **33** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -31,7 +31,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17||SSE4
 [#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|8|Oct 25||
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|20|Oct 25|uilianries|jwillikers
-[#12906](https://github.com/conan-io/conan-center-index/pull/12906)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 12|:stopwatch: qt|4|Oct 27||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13204](https://github.com/conan-io/conan-center-index/pull/13204)|[planetmarshall](https://github.com/planetmarshall)|Sep 28|:memo: graphene|1|Oct 26||
 [#13205](https://github.com/conan-io/conan-center-index/pull/13205)|[syoliver](https://github.com/syoliver)|Sep 28|:stopwatch: hyperscan|5|Oct 26||
@@ -58,21 +57,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13832](https://github.com/conan-io/conan-center-index/pull/13832)|[uilianries](https://github.com/uilianries)|Oct 28|:green_book: docs|0|||
 [#13838](https://github.com/conan-io/conan-center-index/pull/13838)|[SpaceIm](https://github.com/SpaceIm)|Oct 28|:stopwatch: spirv-tools|1|Oct 28||uilianries
 [#13840](https://github.com/conan-io/conan-center-index/pull/13840)|[toge](https://github.com/toge)|Oct 28|:stopwatch: jsonnet|0|||
-[#13841](https://github.com/conan-io/conan-center-index/pull/13841)|[toge](https://github.com/toge)|Oct 28|:stopwatch: wasmtime-cpp|0|||
 [#13842](https://github.com/conan-io/conan-center-index/pull/13842)|[toge](https://github.com/toge)|Oct 28|:stopwatch: highway|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:warning: cppfront|24|uilianries, SSE4, jcar87, prince-chrismc
-[#13427](https://github.com/conan-io/conan-center-index/pull/13427)|[planetmarshall](https://github.com/planetmarshall)|Oct 11|:memo: cairo|6|uilianries, prince-chrismc
 [#13717](https://github.com/conan-io/conan-center-index/pull/13717)|[fdgStilla](https://github.com/fdgStilla)|Oct 24|:new: anyrpc|7|jwillikers, uilianries
-[#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:warning: spirv-cross|5|jwillikers, uilianries
 [#13753](https://github.com/conan-io/conan-center-index/pull/13753)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:gear: .c3i|5|danimtb, jwillikers, uilianries
 [#13755](https://github.com/conan-io/conan-center-index/pull/13755)|[HappySeaFox](https://github.com/HappySeaFox)|Oct 25|:warning: libaom-av1|5|jwillikers, prince-chrismc, uilianries
 [#13793](https://github.com/conan-io/conan-center-index/pull/13793)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: cli11|4|uilianries, jwillikers
@@ -88,10 +84,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 200
+	- Open: 198
 	- Draft: 29
-	- Average Age: 73 days, 5 hours, and 44.01 minutes
-	- Stop Label: 114
+	- Average Age: 73 days, 21 hours, and 57.86 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
