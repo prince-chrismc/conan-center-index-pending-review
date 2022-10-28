@@ -142,8 +142,8 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12906",
-      "LastCommitSHA": "deb933a3f3fe61eb58d1cf7f5a57db0ae2b52041",
-      "LastCommitAt": "2022-10-27T12:08:15Z",
+      "LastCommitSHA": "369a58bdbff85596c614e8fa21442a6f773e4188",
+      "LastCommitAt": "2022-10-28T05:18:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 4,
@@ -551,32 +551,6 @@
       }
    },
    {
-      "Number": 13737,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2022-10-24T22:03:40Z",
-      "Recipe": "shapelib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13737",
-      "LastCommitSHA": "d9f7b6c6b306edc89650058e9cff682e3722e297",
-      "LastCommitAt": "2022-10-25T22:04:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-28T04:18:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13737#pullrequestreview-1159395581"
-         }
-      }
-   },
-   {
       "Number": 13750,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2022-10-25T15:41:37Z",
@@ -695,32 +669,6 @@
       }
    },
    {
-      "Number": 13782,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-10-26T17:18:41Z",
-      "Recipe": "libuv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13782",
-      "LastCommitSHA": "806be0e52381f57d0e8f37bb4bb325b364d08080",
-      "LastCommitAt": "2022-10-26T17:17:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-28T04:20:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13782#pullrequestreview-1159397682"
-         }
-      }
-   },
-   {
       "Number": 13784,
       "OpenedBy": "toge",
       "CreatedAt": "2022-10-26T17:33:54Z",
@@ -820,7 +768,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13792",
       "LastCommitSHA": "238e079db6c47bf0ee209cbe0e5e41f814cefaaf",
       "LastCommitAt": "2022-10-28T04:25:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -892,6 +840,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13806",
       "LastCommitSHA": "09358986c1d494b83296175b1b920a82ea18004b",
       "LastCommitAt": "2022-10-27T11:39:27Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13807,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-27T11:40:26Z",
+      "Recipe": "picosha2",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13807",
+      "LastCommitSHA": "f72b17d0594b0e59ad3f1e99691f8add2196233a",
+      "LastCommitAt": "2022-10-28T04:40:48Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -995,6 +961,24 @@
       "LastCommitSHA": "90afbfbbb7343a64270a53030b2d751b9b4a8af3",
       "LastCommitAt": "2022-10-27T22:40:45Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13829,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-10-28T05:14:11Z",
+      "Recipe": "simdutf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13829",
+      "LastCommitSHA": "25f76d6ca5d4ce016ba32ff08d59e19ff376d666",
+      "LastCommitAt": "2022-10-28T05:14:29Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
