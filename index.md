@@ -49,6 +49,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: spirv-cross|2|Oct 28||uilianries
 [#13750](https://github.com/conan-io/conan-center-index/pull/13750)|[MartinDelille](https://github.com/MartinDelille)|Oct 25|:memo: openjdk|8|Oct 26||
 [#13752](https://github.com/conan-io/conan-center-index/pull/13752)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: vulkan-loader|1|Oct 28||uilianries
+[#13753](https://github.com/conan-io/conan-center-index/pull/13753)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:gear: .c3i|3|Oct 28||danimtb
 [#13755](https://github.com/conan-io/conan-center-index/pull/13755)|[HappySeaFox](https://github.com/HappySeaFox)|Oct 25|:memo: libaom-av1|1|Oct 28||uilianries
 [#13759](https://github.com/conan-io/conan-center-index/pull/13759)|[paulharris](https://github.com/paulharris)|Oct 26|:memo: libdeflate|1|Oct 27||
 [#13781](https://github.com/conan-io/conan-center-index/pull/13781)|[paulharris](https://github.com/paulharris)|Oct 26|:memo: netcdf|0|||
@@ -60,7 +61,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13805](https://github.com/conan-io/conan-center-index/pull/13805)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 27|:stopwatch: .c3i|0|||
 [#13806](https://github.com/conan-io/conan-center-index/pull/13806)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:memo: xorstr|1|Oct 28||uilianries
 [#13807](https://github.com/conan-io/conan-center-index/pull/13807)|[toge](https://github.com/toge)|Oct 27|:new: picosha2|0|||
-[#13813](https://github.com/conan-io/conan-center-index/pull/13813)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:memo: libcurl|1|Oct 28||uilianries
 [#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|10|Oct 28||
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|||
 [#13822](https://github.com/conan-io/conan-center-index/pull/13822)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:memo: freetype|1|Oct 28||uilianries
@@ -84,9 +84,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
 	- Open: 199
-	- Draft: 30
-	- Average Age: 73 days, 16 hours, and 41.19 minutes
-	- Stop Label: 119
+	- Draft: 32
+	- Average Age: 73 days, 17 hours, and 23.25 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
