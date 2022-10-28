@@ -489,29 +489,6 @@
       }
    },
    {
-      "Number": 13717,
-      "OpenedBy": "fdgStilla",
-      "CreatedAt": "2022-10-24T10:15:14Z",
-      "Recipe": "anyrpc",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13717",
-      "LastCommitSHA": "34ea1f4ef8630062b23e6c461fc72c01405606bb",
-      "LastCommitAt": "2022-10-27T15:56:05Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-10-27T13:28:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13717#pullrequestreview-1158260680"
-         }
-      }
-   },
-   {
       "Number": 13730,
       "OpenedBy": "toge",
       "CreatedAt": "2022-10-24T15:44:23Z",
@@ -647,6 +624,24 @@
       }
    },
    {
+      "Number": 13752,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-25T18:08:06Z",
+      "Recipe": "vulkan-loader",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13752",
+      "LastCommitSHA": "57bf8529de0d01d859bf9743df41850ad1904ccc",
+      "LastCommitAt": "2022-10-27T00:34:38Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13755,
       "OpenedBy": "HappySeaFox",
       "CreatedAt": "2022-10-25T21:56:11Z",
@@ -732,7 +727,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13782",
       "LastCommitSHA": "806be0e52381f57d0e8f37bb4bb325b364d08080",
       "LastCommitAt": "2022-10-26T17:17:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1028,24 +1023,6 @@
       }
    },
    {
-      "Number": 13820,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-27T20:45:18Z",
-      "Recipe": "protobuf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13820",
-      "LastCommitSHA": "55dca855f38d0e2ae78b3d0d0b023a6367c3db1a",
-      "LastCommitAt": "2022-10-27T20:44:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13821,
       "OpenedBy": "roedhaetten",
       "CreatedAt": "2022-10-27T20:51:41Z",
@@ -1072,7 +1049,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13822",
       "LastCommitSHA": "90afbfbbb7343a64270a53030b2d751b9b4a8af3",
       "LastCommitAt": "2022-10-27T22:40:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1082,14 +1059,14 @@
       }
    },
    {
-      "Number": 13823,
+      "Number": 13825,
       "OpenedBy": "toge",
-      "CreatedAt": "2022-10-27T22:50:05Z",
-      "Recipe": "quill",
+      "CreatedAt": "2022-10-28T00:51:03Z",
+      "Recipe": "kuba-zip",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13823",
-      "LastCommitSHA": "363c358e5ab24a1ca1a82fe9de0fa7c374ea27c7",
-      "LastCommitAt": "2022-10-27T18:57:41Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13825",
+      "LastCommitSHA": "51a83433d3e4827cbd8207c3e6a890e89a69f252",
+      "LastCommitAt": "2022-10-27T18:51:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
