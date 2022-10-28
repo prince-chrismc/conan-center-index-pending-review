@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **41** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13635](https://github.com/conan-io/conan-center-index/pull/13635)|[schoetbi](https://github.com/schoetbi)|Oct 20|:stopwatch: flatbuffers|0|:eyes:||
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|2|Oct 24||uilianries
 [#13717](https://github.com/conan-io/conan-center-index/pull/13717)|[fdgStilla](https://github.com/fdgStilla)|Oct 24|:new: anyrpc|5|Oct 27||
-[#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:stopwatch: wavelet_buffer|0|||
+[#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|0|||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|1|Oct 24||
 [#13734](https://github.com/conan-io/conan-center-index/pull/13734)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: spirv-headers|2|Oct 28||uilianries
 [#13735](https://github.com/conan-io/conan-center-index/pull/13735)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:memo: spirv-cross|2|Oct 28||uilianries
@@ -61,10 +61,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13805](https://github.com/conan-io/conan-center-index/pull/13805)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 27|:stopwatch: .c3i|0|||
 [#13806](https://github.com/conan-io/conan-center-index/pull/13806)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:memo: xorstr|1|Oct 28||uilianries
 [#13807](https://github.com/conan-io/conan-center-index/pull/13807)|[toge](https://github.com/toge)|Oct 27|:new: picosha2|0|||
-[#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|10|Oct 28||
+[#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|11|Oct 28||
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|||
 [#13822](https://github.com/conan-io/conan-center-index/pull/13822)|[SpaceIm](https://github.com/SpaceIm)|Oct 27|:memo: freetype|1|Oct 28||uilianries
 [#13832](https://github.com/conan-io/conan-center-index/pull/13832)|[uilianries](https://github.com/uilianries)|Oct 28|:green_book: docs|0|||
+[#13835](https://github.com/conan-io/conan-center-index/pull/13835)|[sujankota](https://github.com/sujankota)|Oct 28|:stopwatch: opentdf-client|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -83,10 +84,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 199
-	- Draft: 32
-	- Average Age: 73 days, 17 hours, and 23.25 minutes
-	- Stop Label: 118
+	- Open: 198
+	- Draft: 31
+	- Average Age: 73 days, 19 hours, and 24.72 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
