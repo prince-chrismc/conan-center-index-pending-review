@@ -1057,23 +1057,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 13825,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-10-28T00:51:03Z",
-      "Recipe": "kuba-zip",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13825",
-      "LastCommitSHA": "51a83433d3e4827cbd8207c3e6a890e89a69f252",
-      "LastCommitAt": "2022-10-27T18:51:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
