@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,7 +32,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|8|Oct 25||
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|20|Oct 25|uilianries|jwillikers
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
-[#13347](https://github.com/conan-io/conan-center-index/pull/13347)|[jwillikers](https://github.com/jwillikers)|Oct 7|:memo: glib|5|Oct 28||prince-chrismc
 [#13407](https://github.com/conan-io/conan-center-index/pull/13407)|[Nomalah](https://github.com/Nomalah)|Oct 11|:new: runtimeqml|14|Oct 28||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
 [#13605](https://github.com/conan-io/conan-center-index/pull/13605)|[paulharris](https://github.com/paulharris)|Oct 19|:memo: hdf5|1|Oct 24||
@@ -50,23 +49,25 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13826](https://github.com/conan-io/conan-center-index/pull/13826)|[Nomalah](https://github.com/Nomalah)|Oct 28|:new: dbcppp|1|Oct 28||
 [#13832](https://github.com/conan-io/conan-center-index/pull/13832)|[uilianries](https://github.com/uilianries)|Oct 28|:green_book: docs|1|Oct 28||prince-chrismc
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:stopwatch: platform.hashing|0|||
-[#13846](https://github.com/conan-io/conan-center-index/pull/13846)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 28|:stopwatch: libxml2|1|Oct 28||prince-chrismc
 [#13847](https://github.com/conan-io/conan-center-index/pull/13847)|[mmatisko](https://github.com/mmatisko)|Oct 28|:memo: function2|0|||
 [#13848](https://github.com/conan-io/conan-center-index/pull/13848)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 28|:green_book: docs|1|Oct 28||
+[#13849](https://github.com/conan-io/conan-center-index/pull/13849)|[Nomalah](https://github.com/Nomalah)|Oct 28|:memo: openh264|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13068](https://github.com/conan-io/conan-center-index/pull/13068)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 22|:warning: cppfront|24|uilianries, SSE4, jcar87, prince-chrismc
+[#13347](https://github.com/conan-io/conan-center-index/pull/13347)|[jwillikers](https://github.com/jwillikers)|Oct 7|:memo: glib|6|prince-chrismc, SSE4
 [#13753](https://github.com/conan-io/conan-center-index/pull/13753)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:gear: .c3i|5|danimtb, jwillikers, uilianries
 [#13793](https://github.com/conan-io/conan-center-index/pull/13793)|[paulharris](https://github.com/paulharris)|Oct 27|:warning: cli11|6|uilianries, jwillikers, prince-chrismc
 [#13836](https://github.com/conan-io/conan-center-index/pull/13836)|[danimtb](https://github.com/danimtb)|Oct 28|:gear: .c3i|5|davidsanfal, uilianries, jwillikers, prince-chrismc
 [#13838](https://github.com/conan-io/conan-center-index/pull/13838)|[SpaceIm](https://github.com/SpaceIm)|Oct 28|:warning: spirv-tools|3|uilianries, prince-chrismc
+[#13846](https://github.com/conan-io/conan-center-index/pull/13846)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 28|:memo: libxml2|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -77,8 +78,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 194
 	- Draft: 28
-	- Average Age: 75 days, 19 hours, and 36.40 minutes
-	- Stop Label: 119
+	- Average Age: 75 days, 22 hours, and 36.91 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
