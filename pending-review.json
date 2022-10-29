@@ -326,32 +326,6 @@
       }
    },
    {
-      "Number": 13735,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-24T20:41:23Z",
-      "Recipe": "spirv-cross",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13735",
-      "LastCommitSHA": "fe36a29ab573865f44ea716ba54721c6171e5eaf",
-      "LastCommitAt": "2022-10-28T13:05:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-10-28T15:31:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13735#pullrequestreview-1160258179"
-         }
-      }
-   },
-   {
       "Number": 13750,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2022-10-25T15:41:37Z",
