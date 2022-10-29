@@ -803,6 +803,24 @@
       }
    },
    {
+      "Number": 13855,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-29T13:59:54Z",
+      "Recipe": "vulkan-validationlayers",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13855",
+      "LastCommitSHA": "00cee85b4073d19744187151a2553739a14c590e",
+      "LastCommitAt": "2022-10-29T19:18:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 13861,
       "OpenedBy": "petrovito",
       "CreatedAt": "2022-10-29T19:40:01Z",
@@ -829,7 +847,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13862",
       "LastCommitSHA": "aa1b59a153b2267d5bb93838eb0776c627afefbe",
       "LastCommitAt": "2022-10-29T20:21:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
