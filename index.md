@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **27** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -30,7 +30,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15 :bell:||SSE4
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17||SSE4
 [#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|8|Oct 25||
-[#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|20|Oct 25|uilianries|jwillikers
+[#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|20|Oct 25|uilianries|
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13407](https://github.com/conan-io/conan-center-index/pull/13407)|[Nomalah](https://github.com/Nomalah)|Oct 11|:new: runtimeqml|14|Oct 28||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18||prince-chrismc
@@ -52,6 +52,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:stopwatch: platform.hashing|0|||
 [#13847](https://github.com/conan-io/conan-center-index/pull/13847)|[mmatisko](https://github.com/mmatisko)|Oct 28|:memo: function2|0|||
 [#13848](https://github.com/conan-io/conan-center-index/pull/13848)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 28|:green_book: docs|1|Oct 28||
+[#13853](https://github.com/conan-io/conan-center-index/pull/13853)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: ninja|0|||
+[#13855](https://github.com/conan-io/conan-center-index/pull/13855)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:stopwatch: vulkan-validationlayers|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -72,10 +74,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 183
+	- Open: 186
 	- Draft: 27
-	- Average Age: 77 days, 23 hours, and 3.30 minutes
-	- Stop Label: 111
+	- Average Age: 76 days, 17 hours, and 38.96 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
