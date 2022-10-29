@@ -541,32 +541,6 @@
       }
    },
    {
-      "Number": 13813,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-27T14:18:37Z",
-      "Recipe": "libcurl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13813",
-      "LastCommitSHA": "c47d9d30a38310e7bffcff587473b8715e0aa5f7",
-      "LastCommitAt": "2022-10-28T11:58:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-28T21:30:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13813#pullrequestreview-1160752282"
-         }
-      }
-   },
-   {
       "Number": 13814,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-10-27T14:24:34Z",
@@ -589,24 +563,6 @@
             "SubmittedAt": "2022-10-28T21:40:12Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13814#pullrequestreview-1160761624"
          }
-      }
-   },
-   {
-      "Number": 13815,
-      "OpenedBy": "beckerhe",
-      "CreatedAt": "2022-10-27T15:14:30Z",
-      "Recipe": "llvm-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13815",
-      "LastCommitSHA": "43f67661695fcbf32c758c89bd6d561f4c27efc4",
-      "LastCommitAt": "2022-10-28T08:07:21Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -684,7 +640,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13836",
       "LastCommitSHA": "7fe5717b13f0367af5da67282a876c2ea5f8d6de",
       "LastCommitAt": "2022-10-28T11:42:52Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 3,
