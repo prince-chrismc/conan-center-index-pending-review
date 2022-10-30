@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13758](https://github.com/conan-io/conan-center-index/pull/13758)|[grafikrobot](https://github.com/grafikrobot)|Oct 26|:memo: b2|11|Oct 27||
 [#13759](https://github.com/conan-io/conan-center-index/pull/13759)|[paulharris](https://github.com/paulharris)|Oct 26|:memo: libdeflate|7|Oct 28||uilianries
 [#13781](https://github.com/conan-io/conan-center-index/pull/13781)|[paulharris](https://github.com/paulharris)|Oct 26|:memo: netcdf|0|||
-[#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:stopwatch: libpng|0|:eyes:||
+[#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:stopwatch: libpng|1|Oct 30||prince-chrismc
 [#13805](https://github.com/conan-io/conan-center-index/pull/13805)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 27|:gear: .c3i|1|Oct 28||prince-chrismc
 [#13807](https://github.com/conan-io/conan-center-index/pull/13807)|[toge](https://github.com/toge)|Oct 27|:new: picosha2|2|Oct 28|prince-chrismc|
 [#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|14|Oct 28||prince-chrismc
@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 190
 	- Draft: 27
-	- Average Age: 75 days, 11 hours, and 38.87 minutes
+	- Average Age: 75 days, 16 hours, and 10.85 minutes
 	- Stop Label: 112
 	
 
