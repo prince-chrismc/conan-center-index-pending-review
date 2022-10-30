@@ -410,16 +410,14 @@
       "Recipe": "b2",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13758",
-      "LastCommitSHA": "812005d775a3a7dc982c3c53d991128f25901135",
-      "LastCommitAt": "2022-10-28T23:13:13Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "62dadea576acdc0920c9670b502a9acac927512a",
+      "LastCommitAt": "2022-10-30T21:50:57Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 15,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -973,24 +971,6 @@
       "LastCommitSHA": "a09143d491b61a87c2fd6fe5514c30e83037bf40",
       "LastCommitAt": "2022-10-30T13:00:53Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13875,
-      "OpenedBy": "AlvaroFS",
-      "CreatedAt": "2022-10-30T15:01:38Z",
-      "Recipe": "embree3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13875",
-      "LastCommitSHA": "dc6f515b1fd6354070288d49d6135883459722c8",
-      "LastCommitAt": "2022-10-30T14:30:58Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
