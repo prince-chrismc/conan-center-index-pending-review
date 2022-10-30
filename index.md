@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,7 +64,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13862](https://github.com/conan-io/conan-center-index/pull/13862)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: libxlsxwriter|1|Oct 30||prince-chrismc
 [#13863](https://github.com/conan-io/conan-center-index/pull/13863)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: minizip|0|||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:stopwatch: bx|0|||
-[#13871](https://github.com/conan-io/conan-center-index/pull/13871)|[toge](https://github.com/toge)|Oct 30|:stopwatch: daw_utf_range|0|||
+[#13869](https://github.com/conan-io/conan-center-index/pull/13869)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: iir1|0|||
+[#13873](https://github.com/conan-io/conan-center-index/pull/13873)|[toge](https://github.com/toge)|Oct 30|:stopwatch: daw_json_link|0|||
+[#13874](https://github.com/conan-io/conan-center-index/pull/13874)|[toge](https://github.com/toge)|Oct 30|:stopwatch: trompeloeil|0|||
+[#13875](https://github.com/conan-io/conan-center-index/pull/13875)|[AlvaroFS](https://github.com/AlvaroFS)|Oct 30|:stopwatch: embree3|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -84,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 192
+	- Open: 195
 	- Draft: 27
-	- Average Age: 74 days, 23 hours, and 40.24 minutes
+	- Average Age: 73 days, 21 hours, and 0.52 minutes
 	- Stop Label: 111
 	
 
