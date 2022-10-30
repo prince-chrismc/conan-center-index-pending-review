@@ -656,6 +656,29 @@
       }
    },
    {
+      "Number": 13844,
+      "OpenedBy": "nassipkali",
+      "CreatedAt": "2022-10-28T18:31:35Z",
+      "Recipe": "platform.hashing",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13844",
+      "LastCommitSHA": "1db6f462b211a56c0b6e6605a3dead4120b55044",
+      "LastCommitAt": "2022-10-30T10:55:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-10-30T05:22:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13844#pullrequestreview-1161063858"
+         }
+      }
+   },
+   {
       "Number": 13845,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2022-10-28T20:14:56Z",
@@ -868,42 +891,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13866",
       "LastCommitSHA": "3e46bc21f5cdca2d3fbb46509d392cc1182aa507",
       "LastCommitAt": "2022-10-30T05:08:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13867,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-10-30T08:51:44Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13867",
-      "LastCommitSHA": "90b0225d2fccffc6e6f34b053c7bcd1ed3755d96",
-      "LastCommitAt": "2022-10-29T06:46:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13868,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-30T09:29:34Z",
-      "Recipe": "draco",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13868",
-      "LastCommitSHA": "6089657a29d60295b5a00e3167a92cfaa19db81f",
-      "LastCommitAt": "2022-10-30T09:29:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
