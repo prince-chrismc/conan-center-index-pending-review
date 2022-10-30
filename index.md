@@ -21,7 +21,7 @@
 
 ### :nerd_face: Please Review! 
 
-There are **43** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -49,7 +49,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13805](https://github.com/conan-io/conan-center-index/pull/13805)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 27|:gear: .c3i|1|Oct 28||prince-chrismc
 [#13807](https://github.com/conan-io/conan-center-index/pull/13807)|[toge](https://github.com/toge)|Oct 27|:new: picosha2|2|Oct 28|prince-chrismc|
 [#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|15|Oct 30||prince-chrismc
-[#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|||
+[#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|:eyes:||
 [#13833](https://github.com/conan-io/conan-center-index/pull/13833)|[kexianda](https://github.com/kexianda)|Oct 28|:memo: gtest|1|Oct 28||
 [#13841](https://github.com/conan-io/conan-center-index/pull/13841)|[toge](https://github.com/toge)|Oct 28|:memo: wasmtime-cpp|0|||
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:stopwatch: platform.hashing|2|Oct 30||
@@ -68,6 +68,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:new: libdmtx|0|||
 [#13874](https://github.com/conan-io/conan-center-index/pull/13874)|[toge](https://github.com/toge)|Oct 30|:memo: trompeloeil|0|||
 [#13875](https://github.com/conan-io/conan-center-index/pull/13875)|[AlvaroFS](https://github.com/AlvaroFS)|Oct 30|:stopwatch: embree3|0|||
+[#13878](https://github.com/conan-io/conan-center-index/pull/13878)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: redis-plus-plus|0|||
+[#13879](https://github.com/conan-io/conan-center-index/pull/13879)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: recastnavigation|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,10 +89,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9e2c61d78671bb3e5e308346170e526ef6755ce
 - Pull Requests:
-	- Open: 196
+	- Open: 197
 	- Draft: 27
-	- Average Age: 73 days, 16 hours, and 57.45 minutes
-	- Stop Label: 111
+	- Average Age: 73 days, 8 hours, and 56.51 minutes
+	- Stop Label: 110
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
