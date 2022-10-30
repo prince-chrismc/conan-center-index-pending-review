@@ -65,8 +65,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13863](https://github.com/conan-io/conan-center-index/pull/13863)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: minizip|0|||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:stopwatch: bx|0|||
 [#13869](https://github.com/conan-io/conan-center-index/pull/13869)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: iir1|0|||
-[#13873](https://github.com/conan-io/conan-center-index/pull/13873)|[toge](https://github.com/toge)|Oct 30|:stopwatch: daw_json_link|0|||
-[#13874](https://github.com/conan-io/conan-center-index/pull/13874)|[toge](https://github.com/toge)|Oct 30|:stopwatch: trompeloeil|0|||
+[#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:new: libdmtx|0|||
+[#13874](https://github.com/conan-io/conan-center-index/pull/13874)|[toge](https://github.com/toge)|Oct 30|:memo: trompeloeil|0|||
 [#13875](https://github.com/conan-io/conan-center-index/pull/13875)|[AlvaroFS](https://github.com/AlvaroFS)|Oct 30|:stopwatch: embree3|0|||
 
 
@@ -89,8 +89,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 195
 	- Draft: 27
-	- Average Age: 73 days, 21 hours, and 0.52 minutes
-	- Stop Label: 111
+	- Average Age: 73 days, 22 hours, and 5.75 minutes
+	- Stop Label: 110
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
