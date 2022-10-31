@@ -32,7 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|8|Oct 25||
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|23|Oct 31|uilianries|prince-chrismc
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
-[#13204](https://github.com/conan-io/conan-center-index/pull/13204)|[planetmarshall](https://github.com/planetmarshall)|Sep 28|:memo: graphene|5|Oct 28||
+[#13204](https://github.com/conan-io/conan-center-index/pull/13204)|[planetmarshall](https://github.com/planetmarshall)|Sep 28|:memo: graphene|6|Oct 31||prince-chrismc
 [#13407](https://github.com/conan-io/conan-center-index/pull/13407)|[Nomalah](https://github.com/Nomalah)|Oct 11|:new: runtimeqml|15|Oct 30||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18 :bell:||prince-chrismc
 [#13605](https://github.com/conan-io/conan-center-index/pull/13605)|[paulharris](https://github.com/paulharris)|Oct 19|:memo: hdf5|3|Oct 30||prince-chrismc
@@ -41,7 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13742](https://github.com/conan-io/conan-center-index/pull/13742)|[jmarrec](https://github.com/jmarrec)|Oct 25|:memo: swig|5|Oct 29||prince-chrismc
 [#13750](https://github.com/conan-io/conan-center-index/pull/13750)|[MartinDelille](https://github.com/MartinDelille)|Oct 25|:memo: openjdk|9|Oct 30||prince-chrismc
 [#13753](https://github.com/conan-io/conan-center-index/pull/13753)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:gear: .c3i|5|Oct 28||
-[#13758](https://github.com/conan-io/conan-center-index/pull/13758)|[grafikrobot](https://github.com/grafikrobot)|Oct 26|:memo: b2|15|Oct 30||
+[#13758](https://github.com/conan-io/conan-center-index/pull/13758)|[grafikrobot](https://github.com/grafikrobot)|Oct 26|:stopwatch: b2|16|Oct 31||
 [#13759](https://github.com/conan-io/conan-center-index/pull/13759)|[paulharris](https://github.com/paulharris)|Oct 26|:memo: libdeflate|8|Oct 30||uilianries
 [#13781](https://github.com/conan-io/conan-center-index/pull/13781)|[paulharris](https://github.com/paulharris)|Oct 26|:memo: netcdf|0|:eyes:||
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:stopwatch: libpng|1|Oct 30||prince-chrismc
@@ -51,7 +51,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|15|Oct 30||prince-chrismc
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|:eyes:||
 [#13829](https://github.com/conan-io/conan-center-index/pull/13829)|[toge](https://github.com/toge)|Oct 28|:memo: simdutf|1|Oct 30||
-[#13833](https://github.com/conan-io/conan-center-index/pull/13833)|[kexianda](https://github.com/kexianda)|Oct 28|:memo: gtest|3|Oct 31||
+[#13833](https://github.com/conan-io/conan-center-index/pull/13833)|[kexianda](https://github.com/kexianda)|Oct 28|:memo: gtest|4|Oct 31||prince-chrismc
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:stopwatch: platform.hashing|3|Oct 31||prince-chrismc
 [#13847](https://github.com/conan-io/conan-center-index/pull/13847)|[mmatisko](https://github.com/mmatisko)|Oct 28|:memo: function2|4|Oct 30||prince-chrismc
 [#13848](https://github.com/conan-io/conan-center-index/pull/13848)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 28|:green_book: docs|1|Oct 28||
@@ -93,7 +93,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 202
 	- Draft: 27
-	- Average Age: 71 days, 19 hours, and 46.36 minutes
+	- Average Age: 71 days, 20 hours, and 49.33 minutes
 	- Stop Label: 111
 	
 
