@@ -197,15 +197,17 @@
       "LastCommitAt": "2022-10-30T10:36:02Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 6,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-28T22:10:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13204#pullrequestreview-1160790468"
+            "SubmittedAt": "2022-10-31T03:48:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13204#pullrequestreview-1161297149"
          }
       }
    },
@@ -412,19 +414,19 @@
       "Recipe": "b2",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13758",
-      "LastCommitSHA": "3e62fddcbec56e942f8a21d98af430e772e70a7c",
-      "LastCommitAt": "2022-10-30T23:04:29Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c049990a7515f9b90aea7059d5b2ebc80699856e",
+      "LastCommitAt": "2022-10-31T04:37:37Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 15,
+         "Count": 16,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-30T19:39:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13758#pullrequestreview-1161181939"
+            "SubmittedAt": "2022-10-31T04:00:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13758#pullrequestreview-1161301722"
          }
       }
    },
@@ -675,15 +677,17 @@
       "LastCommitAt": "2022-10-31T01:58:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-31T00:20:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13833#pullrequestreview-1161219285"
+            "SubmittedAt": "2022-10-31T04:01:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13833#pullrequestreview-1161302089"
          }
       }
    },
