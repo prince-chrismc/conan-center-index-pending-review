@@ -212,6 +212,31 @@
       }
    },
    {
+      "Number": 13234,
+      "OpenedBy": "sorny92",
+      "CreatedAt": "2022-09-30T12:23:07Z",
+      "Recipe": "libsvtav1",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13234",
+      "LastCommitSHA": "e0bf3c07e5f21fc293f0568f2b6484799a6908c0",
+      "LastCommitAt": "2022-09-30T12:21:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-10-31T20:47:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13234#pullrequestreview-1162539522"
+         }
+      }
+   },
+   {
       "Number": 13407,
       "OpenedBy": "Nomalah",
       "CreatedAt": "2022-10-11T01:39:57Z",
@@ -611,15 +636,17 @@
       "LastCommitAt": "2022-10-31T09:37:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-30T05:12:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13829#pullrequestreview-1161063376"
+            "SubmittedAt": "2022-10-31T20:48:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13829#pullrequestreview-1162540810"
          }
       }
    },
@@ -1255,6 +1282,24 @@
             "SubmittedAt": "2022-10-31T17:20:55Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13902#pullrequestreview-1162257811"
          }
+      }
+   },
+   {
+      "Number": 13904,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-31T21:14:17Z",
+      "Recipe": "matplotplusplus",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13904",
+      "LastCommitSHA": "be27b7b90760f776dac6bb312ba98644b6a0e38a",
+      "LastCommitAt": "2022-10-31T17:39:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
