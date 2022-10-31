@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **54** pull requests currently under way :detective:
+There are **55** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,6 +32,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15 :bell:||SSE4
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17 :bell:||SSE4
 [#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|8|Oct 25||
+[#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|30|Oct 31|uilianries|jwillikers
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13204](https://github.com/conan-io/conan-center-index/pull/13204)|[planetmarshall](https://github.com/planetmarshall)|Sep 28|:memo: graphene|6|Oct 31||prince-chrismc
 [#13407](https://github.com/conan-io/conan-center-index/pull/13407)|[Nomalah](https://github.com/Nomalah)|Oct 11|:new: runtimeqml|15|Oct 30||prince-chrismc
@@ -80,7 +81,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13887](https://github.com/conan-io/conan-center-index/pull/13887)|[SpaceIm](https://github.com/SpaceIm)|Oct 31|:memo: muparserx|0|||
 [#13889](https://github.com/conan-io/conan-center-index/pull/13889)|[SpaceIm](https://github.com/SpaceIm)|Oct 31|:memo: microtar|0|||
 [#13892](https://github.com/conan-io/conan-center-index/pull/13892)|[irieger](https://github.com/irieger)|Oct 31|:stopwatch: boost|0|||
-[#13895](https://github.com/conan-io/conan-center-index/pull/13895)|[toge](https://github.com/toge)|Oct 31|:stopwatch: utf8proc|0|||
+[#13902](https://github.com/conan-io/conan-center-index/pull/13902)|[jwillikers](https://github.com/jwillikers)|Oct 31|:stopwatch: glib|1|Oct 31||SSE4
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -101,7 +102,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 212
 	- Draft: 26
-	- Average Age: 68 days, 22 hours, and 46.11 minutes
+	- Average Age: 68 days, 23 hours, and 50.75 minutes
 	- Stop Label: 116
 	
 
