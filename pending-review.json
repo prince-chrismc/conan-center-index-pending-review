@@ -648,7 +648,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13829",
       "LastCommitSHA": "8241df8ace1bc409159107dd34d81cfe4492b127",
       "LastCommitAt": "2022-10-31T09:37:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1162,7 +1162,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13886",
       "LastCommitSHA": "742e4257aad5cb74813a06130b99eee10f577f18",
       "LastCommitAt": "2022-10-31T09:42:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1198,6 +1198,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13889",
       "LastCommitSHA": "e2e9ffa520ffc9eb665b7f4001e1b8522f9c31ba",
       "LastCommitAt": "2022-10-31T10:32:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13892,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2022-10-31T11:46:02Z",
+      "Recipe": "boost",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13892",
+      "LastCommitSHA": "1f416bda37164f19a17fb015321ae6e971c23044",
+      "LastCommitAt": "2022-10-31T11:37:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
