@@ -505,18 +505,14 @@
       "Recipe": "cli11",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13793",
-      "LastCommitSHA": "dc7f6e3f4949c5e6aa993ffd5e4de5ed9139da4c",
-      "LastCommitAt": "2022-10-28T07:47:01Z",
+      "LastCommitSHA": "35119cfd8315260eb44953db5dcea2619f7ef1d0",
+      "LastCommitAt": "2022-10-31T05:21:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers",
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
