@@ -491,15 +491,17 @@
       "LastCommitAt": "2022-10-31T12:07:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 16,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 17,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-31T04:00:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13758#pullrequestreview-1161301722"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-11-01T05:42:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13758#pullrequestreview-1162852626"
          }
       }
    },
@@ -1339,24 +1341,6 @@
             "SubmittedAt": "2022-10-31T17:20:55Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13902#pullrequestreview-1162257811"
          }
-      }
-   },
-   {
-      "Number": 13909,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-01T00:58:32Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13909",
-      "LastCommitSHA": "221a1be8e0b48cc86f838c95a680d6c490f55471",
-      "LastCommitAt": "2022-11-01T00:57:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
