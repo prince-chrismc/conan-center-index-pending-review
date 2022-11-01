@@ -1221,11 +1221,18 @@
       "LastCommitAt": "2022-10-31T05:52:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "mmatisko"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "mmatisko",
+            "SubmittedAt": "2022-11-01T10:15:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13885#pullrequestreview-1163115949"
+         }
       }
    },
    {
@@ -1354,11 +1361,18 @@
       "LastCommitAt": "2022-11-01T05:20:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-11-01T10:03:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13912#pullrequestreview-1163103398"
+         }
       }
    }
 ]
