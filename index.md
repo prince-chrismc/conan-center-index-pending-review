@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **60** pull requests currently under way :detective:
+There are **62** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -53,6 +53,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13805](https://github.com/conan-io/conan-center-index/pull/13805)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 27|:gear: .c3i|1|Oct 28||prince-chrismc
 [#13807](https://github.com/conan-io/conan-center-index/pull/13807)|[toge](https://github.com/toge)|Oct 27|:new: picosha2|3|Oct 31||prince-chrismc
 [#13814](https://github.com/conan-io/conan-center-index/pull/13814)|[uilianries](https://github.com/uilianries)|Oct 27|:green_book: docs|15|Oct 30||prince-chrismc
+[#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:stopwatch: llvm-core|1|Oct 29||
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|:eyes:||
 [#13829](https://github.com/conan-io/conan-center-index/pull/13829)|[toge](https://github.com/toge)|Oct 28|:memo: simdutf|2|Oct 31||prince-chrismc
 [#13833](https://github.com/conan-io/conan-center-index/pull/13833)|[kexianda](https://github.com/kexianda)|Oct 28|:memo: gtest|4|Oct 31||prince-chrismc
@@ -84,9 +85,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13890](https://github.com/conan-io/conan-center-index/pull/13890)|[ovostrikov](https://github.com/ovostrikov)|Oct 31|:memo: icu|0|||
 [#13892](https://github.com/conan-io/conan-center-index/pull/13892)|[irieger](https://github.com/irieger)|Oct 31|:stopwatch: boost|0|||
 [#13902](https://github.com/conan-io/conan-center-index/pull/13902)|[jwillikers](https://github.com/jwillikers)|Oct 31|:memo: glib|2|Nov 1||SSE4, mmatisko
-[#13912](https://github.com/conan-io/conan-center-index/pull/13912)|[sproberts92](https://github.com/sproberts92)|Nov 1|:stopwatch: opentelemetry-cpp|3|Nov 1||
+[#13912](https://github.com/conan-io/conan-center-index/pull/13912)|[sproberts92](https://github.com/sproberts92)|Nov 1|:memo: opentelemetry-cpp|3|Nov 1||
 [#13913](https://github.com/conan-io/conan-center-index/pull/13913)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 1|:stopwatch: cppfront|0|||
 [#13914](https://github.com/conan-io/conan-center-index/pull/13914)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: libcurl|0|||
+[#13919](https://github.com/conan-io/conan-center-index/pull/13919)|[Nomalah](https://github.com/Nomalah)|Nov 1|:stopwatch: range-v3|0|||
 
 
 #### :clipboard: Statistics
@@ -95,10 +97,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: 96d8998f7607a047343b4bfe60be947a50be94c1
 - Pull Requests:
-	- Open: 215
+	- Open: 217
 	- Draft: 27
-	- Average Age: 68 days, 10 hours, and 5.97 minutes
-	- Stop Label: 115
+	- Average Age: 67 days, 19 hours, and 36.22 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
