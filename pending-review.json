@@ -1342,5 +1342,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13902#pullrequestreview-1162257811"
          }
       }
+   },
+   {
+      "Number": 13912,
+      "OpenedBy": "sproberts92",
+      "CreatedAt": "2022-11-01T03:16:25Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13912",
+      "LastCommitSHA": "b86061d9f917c75c00c9614252e8fd3d2cf8f96f",
+      "LastCommitAt": "2022-11-01T05:20:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
