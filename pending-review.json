@@ -628,6 +628,29 @@
       }
    },
    {
+      "Number": 13815,
+      "OpenedBy": "beckerhe",
+      "CreatedAt": "2022-10-27T15:14:30Z",
+      "Recipe": "llvm-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13815",
+      "LastCommitSHA": "ba4d5ee92add48250ef18ed71238e8e49492364d",
+      "LastCommitAt": "2022-11-01T13:42:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-10-29T00:14:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13815#pullrequestreview-1160865815"
+         }
+      }
+   },
+   {
       "Number": 13821,
       "OpenedBy": "roedhaetten",
       "CreatedAt": "2022-10-27T20:51:41Z",
@@ -1296,7 +1319,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13912",
       "LastCommitSHA": "a35a0c09917abbcaf519473068e36ca24b60a8aa",
       "LastCommitAt": "2022-11-01T11:03:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -1337,6 +1360,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13914",
       "LastCommitSHA": "ad07569efce52c2478ef304f17a4d7287a03a6d3",
       "LastCommitAt": "2022-11-01T11:43:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13919,
+      "OpenedBy": "Nomalah",
+      "CreatedAt": "2022-11-01T14:05:52Z",
+      "Recipe": "range-v3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13919",
+      "LastCommitSHA": "52866a64c55d1f50b991910f56cb7e523ce4d36c",
+      "LastCommitAt": "2022-11-01T14:04:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
