@@ -1272,24 +1272,6 @@
       }
    },
    {
-      "Number": 13889,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-31T10:32:46Z",
-      "Recipe": "microtar",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13889",
-      "LastCommitSHA": "e2e9ffa520ffc9eb665b7f4001e1b8522f9c31ba",
-      "LastCommitAt": "2022-10-31T10:32:21Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13890,
       "OpenedBy": "ovostrikov",
       "CreatedAt": "2022-10-31T10:39:14Z",
@@ -1336,17 +1318,18 @@
       "LastCommitAt": "2022-10-31T16:55:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "mmatisko"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-10-31T17:20:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13902#pullrequestreview-1162257811"
+            "ReviewerName": "mmatisko",
+            "SubmittedAt": "2022-11-01T10:23:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13902#pullrequestreview-1163125433"
          }
       }
    },
@@ -1357,16 +1340,14 @@
       "Recipe": "opentelemetry-cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13912",
-      "LastCommitSHA": "b86061d9f917c75c00c9614252e8fd3d2cf8f96f",
-      "LastCommitAt": "2022-11-01T05:20:54Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a35a0c09917abbcaf519473068e36ca24b60a8aa",
+      "LastCommitAt": "2022-11-01T11:03:11Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "toge"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "toge",
