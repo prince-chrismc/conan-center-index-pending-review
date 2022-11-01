@@ -892,24 +892,6 @@
       }
    },
    {
-      "Number": 13858,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2022-10-29T17:10:14Z",
-      "Recipe": "libselinux",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13858",
-      "LastCommitSHA": "a87a7994f8f97a846ebcf59a16123b2d44d9460d",
-      "LastCommitAt": "2022-10-31T21:06:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13861,
       "OpenedBy": "petrovito",
       "CreatedAt": "2022-10-29T19:40:01Z",
