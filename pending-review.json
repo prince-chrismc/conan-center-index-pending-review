@@ -136,34 +136,6 @@
       }
    },
    {
-      "Number": 13068,
-      "OpenedBy": "fpelliccioni",
-      "CreatedAt": "2022-09-22T07:06:29Z",
-      "Recipe": "cppfront",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13068",
-      "LastCommitSHA": "bf21e158c5e2a77e93db21e85047d0cf4345ed48",
-      "LastCommitAt": "2022-10-25T20:43:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 24,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4",
-            "jcar87",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-26T21:29:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13068#pullrequestreview-1157313718"
-         }
-      }
-   },
-   {
       "Number": 13169,
       "OpenedBy": "ggulgulia",
       "CreatedAt": "2022-09-27T06:13:20Z",
@@ -1354,6 +1326,42 @@
             "SubmittedAt": "2022-11-01T10:03:48Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13912#pullrequestreview-1163103398"
          }
+      }
+   },
+   {
+      "Number": 13913,
+      "OpenedBy": "fpelliccioni",
+      "CreatedAt": "2022-11-01T11:41:12Z",
+      "Recipe": "cppfront",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13913",
+      "LastCommitSHA": "cd84fc4f7a9ef52a38374a022f6c204921c79460",
+      "LastCommitAt": "2022-11-01T11:39:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13914,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-01T11:44:52Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13914",
+      "LastCommitSHA": "ad07569efce52c2478ef304f17a4d7287a03a6d3",
+      "LastCommitAt": "2022-11-01T11:43:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
