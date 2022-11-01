@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **67** pull requests currently under way :detective:
+There are **71** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13869](https://github.com/conan-io/conan-center-index/pull/13869)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: iir1|1|Nov 1||prince-chrismc
 [#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:stopwatch: libdmtx|1|Nov 1||
 [#13874](https://github.com/conan-io/conan-center-index/pull/13874)|[toge](https://github.com/toge)|Oct 30|:memo: trompeloeil|1|Nov 1||prince-chrismc
-[#13877](https://github.com/conan-io/conan-center-index/pull/13877)|[toge](https://github.com/toge)|Oct 30|:stopwatch: icu|1|Nov 1||prince-chrismc
+[#13877](https://github.com/conan-io/conan-center-index/pull/13877)|[toge](https://github.com/toge)|Oct 30|:memo: icu|1|Nov 1||prince-chrismc
 [#13878](https://github.com/conan-io/conan-center-index/pull/13878)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: redis-plus-plus|2|Nov 1||prince-chrismc
 [#13879](https://github.com/conan-io/conan-center-index/pull/13879)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: recastnavigation|1|Nov 1||prince-chrismc
 [#13880](https://github.com/conan-io/conan-center-index/pull/13880)|[SpaceIm](https://github.com/SpaceIm)|Oct 31|:memo: libzen|1|Nov 1||prince-chrismc
@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13890](https://github.com/conan-io/conan-center-index/pull/13890)|[ovostrikov](https://github.com/ovostrikov)|Oct 31|:memo: icu|0|||
 [#13892](https://github.com/conan-io/conan-center-index/pull/13892)|[irieger](https://github.com/irieger)|Oct 31|:stopwatch: boost|1|Nov 1||jwillikers
 [#13893](https://github.com/conan-io/conan-center-index/pull/13893)|[SpaceIm](https://github.com/SpaceIm)|Oct 31|:memo: backward-cpp|0|||
-[#13902](https://github.com/conan-io/conan-center-index/pull/13902)|[jwillikers](https://github.com/jwillikers)|Oct 31|:stopwatch: glib|3|Nov 1||
+[#13902](https://github.com/conan-io/conan-center-index/pull/13902)|[jwillikers](https://github.com/jwillikers)|Oct 31|:memo: glib|3|Nov 1||
 [#13912](https://github.com/conan-io/conan-center-index/pull/13912)|[sproberts92](https://github.com/sproberts92)|Nov 1|:memo: opentelemetry-cpp|7|Nov 1||toge
 [#13913](https://github.com/conan-io/conan-center-index/pull/13913)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 1|:stopwatch: cppfront|1|Nov 1||prince-chrismc
 [#13914](https://github.com/conan-io/conan-center-index/pull/13914)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: libcurl|0|||
@@ -92,8 +92,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13922](https://github.com/conan-io/conan-center-index/pull/13922)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: cxxopts|0|||
 [#13924](https://github.com/conan-io/conan-center-index/pull/13924)|[toge](https://github.com/toge)|Nov 1|:memo: valijson|0|||
 [#13931](https://github.com/conan-io/conan-center-index/pull/13931)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: taglib|0|||
-[#13932](https://github.com/conan-io/conan-center-index/pull/13932)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: tng|0|||
+[#13932](https://github.com/conan-io/conan-center-index/pull/13932)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: tng|0|||
 [#13933](https://github.com/conan-io/conan-center-index/pull/13933)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: zziplib|0|||
+[#13935](https://github.com/conan-io/conan-center-index/pull/13935)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: podofo|0|||
+[#13936](https://github.com/conan-io/conan-center-index/pull/13936)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: hdrhistogram-c|0|||
+[#13937](https://github.com/conan-io/conan-center-index/pull/13937)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: kmod|0|||
+[#13938](https://github.com/conan-io/conan-center-index/pull/13938)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: ptex|0|||
 
 
 #### :clipboard: Statistics
@@ -102,9 +106,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 221
+	- Open: 225
 	- Draft: 27
-	- Average Age: 66 days, 18 hours, and 25.86 minutes
+	- Average Age: 65 days, 14 hours, and 53.25 minutes
 	- Stop Label: 115
 	
 
