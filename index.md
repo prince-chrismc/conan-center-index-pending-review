@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **72** pull requests currently under way :detective:
+There are **73** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13914](https://github.com/conan-io/conan-center-index/pull/13914)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: libcurl|0|||
 [#13920](https://github.com/conan-io/conan-center-index/pull/13920)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: stb|0|||
 [#13922](https://github.com/conan-io/conan-center-index/pull/13922)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: cxxopts|0|||
-[#13923](https://github.com/conan-io/conan-center-index/pull/13923)|[Croydon](https://github.com/Croydon)|Nov 1|:memo: openssl|1|Nov 1||
+[#13923](https://github.com/conan-io/conan-center-index/pull/13923)|[Croydon](https://github.com/Croydon)|Nov 1|:memo: openssl|2|Nov 1||gegles
 [#13924](https://github.com/conan-io/conan-center-index/pull/13924)|[toge](https://github.com/toge)|Nov 1|:memo: valijson|0|||
 [#13929](https://github.com/conan-io/conan-center-index/pull/13929)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: mbedtls|0|||
 [#13931](https://github.com/conan-io/conan-center-index/pull/13931)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: taglib|0|||
@@ -99,6 +99,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13935](https://github.com/conan-io/conan-center-index/pull/13935)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: podofo|0|||
 [#13937](https://github.com/conan-io/conan-center-index/pull/13937)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: kmod|0|||
 [#13938](https://github.com/conan-io/conan-center-index/pull/13938)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: ptex|0|||
+[#13941](https://github.com/conan-io/conan-center-index/pull/13941)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: libjpeg|0|||
 
 
 #### :clipboard: Statistics
@@ -107,10 +108,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 224
+	- Open: 226
 	- Draft: 27
-	- Average Age: 65 days, 22 hours, and 35.92 minutes
-	- Stop Label: 113
+	- Average Age: 65 days, 9 hours, and 57.26 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
