@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **61** pull requests currently under way :detective:
+There are **60** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,7 +64,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13853](https://github.com/conan-io/conan-center-index/pull/13853)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: ninja|1|Oct 31||SSE4
 [#13854](https://github.com/conan-io/conan-center-index/pull/13854)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: glslang|1|Oct 31||prince-chrismc
 [#13855](https://github.com/conan-io/conan-center-index/pull/13855)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: vulkan-validationlayers|1|Oct 31||prince-chrismc
-[#13858](https://github.com/conan-io/conan-center-index/pull/13858)|[jwillikers](https://github.com/jwillikers)|Oct 29|:memo: libselinux|0|||
 [#13861](https://github.com/conan-io/conan-center-index/pull/13861)|[petrovito](https://github.com/petrovito)|Oct 29|:stopwatch: onetbb|0|||
 [#13862](https://github.com/conan-io/conan-center-index/pull/13862)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: libxlsxwriter|1|Oct 30||prince-chrismc
 [#13863](https://github.com/conan-io/conan-center-index/pull/13863)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: minizip|1|Oct 31||prince-chrismc
@@ -98,8 +97,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Pull Requests:
 	- Open: 215
 	- Draft: 27
-	- Average Age: 68 days, 8 hours, and 59.51 minutes
-	- Stop Label: 113
+	- Average Age: 68 days, 10 hours, and 5.97 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
