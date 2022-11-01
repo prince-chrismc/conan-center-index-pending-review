@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **65** pull requests currently under way :detective:
+There are **69** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -40,7 +40,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18 :bell:||prince-chrismc
 [#13605](https://github.com/conan-io/conan-center-index/pull/13605)|[paulharris](https://github.com/paulharris)|Oct 19|:memo: hdf5|3|Oct 30||prince-chrismc
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|2|Oct 24||uilianries
+[#13674](https://github.com/conan-io/conan-center-index/pull/13674)|[psyinf](https://github.com/psyinf)|Oct 21|:new: psyinf-gmtl|9|Oct 27||
 [#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|1|Oct 28||
+[#13730](https://github.com/conan-io/conan-center-index/pull/13730)|[toge](https://github.com/toge)|Oct 24|:stopwatch: duckdb|3|Oct 31||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|1|Oct 24||
 [#13742](https://github.com/conan-io/conan-center-index/pull/13742)|[jmarrec](https://github.com/jmarrec)|Oct 25|:memo: swig|5|Oct 29||prince-chrismc
 [#13750](https://github.com/conan-io/conan-center-index/pull/13750)|[MartinDelille](https://github.com/MartinDelille)|Oct 25|:memo: openjdk|9|Oct 30||prince-chrismc
@@ -89,9 +91,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13912](https://github.com/conan-io/conan-center-index/pull/13912)|[sproberts92](https://github.com/sproberts92)|Nov 1|:memo: opentelemetry-cpp|4|Nov 1||toge
 [#13913](https://github.com/conan-io/conan-center-index/pull/13913)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 1|:stopwatch: cppfront|0|||
 [#13914](https://github.com/conan-io/conan-center-index/pull/13914)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: libcurl|0|||
-[#13919](https://github.com/conan-io/conan-center-index/pull/13919)|[Nomalah](https://github.com/Nomalah)|Nov 1|:stopwatch: range-v3|0|||
+[#13919](https://github.com/conan-io/conan-center-index/pull/13919)|[Nomalah](https://github.com/Nomalah)|Nov 1|:stopwatch: range-v3|6|Nov 1||
 [#13920](https://github.com/conan-io/conan-center-index/pull/13920)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: stb|0|||
-[#13921](https://github.com/conan-io/conan-center-index/pull/13921)|[paulocoutinhox](https://github.com/paulocoutinhox)|Nov 1|:stopwatch: poco|0|||
+[#13922](https://github.com/conan-io/conan-center-index/pull/13922)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: cxxopts|0|||
+[#13923](https://github.com/conan-io/conan-center-index/pull/13923)|[Croydon](https://github.com/Croydon)|Nov 1|:stopwatch: openssl|0|||
+[#13924](https://github.com/conan-io/conan-center-index/pull/13924)|[toge](https://github.com/toge)|Nov 1|:stopwatch: valijson|0|||
 
 
 #### :clipboard: Statistics
@@ -100,9 +104,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: 96d8998f7607a047343b4bfe60be947a50be94c1
 - Pull Requests:
-	- Open: 219
+	- Open: 222
 	- Draft: 27
-	- Average Age: 67 days, 5 hours, and 38.72 minutes
+	- Average Age: 66 days, 8 hours, and 55.99 minutes
 	- Stop Label: 115
 	
 
