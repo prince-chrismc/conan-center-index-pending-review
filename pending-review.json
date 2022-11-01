@@ -1475,15 +1475,17 @@
       "LastCommitAt": "2022-11-01T17:38:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "gegles"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jeremy-ang-granta",
-            "SubmittedAt": "2022-11-01T17:34:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13923#pullrequestreview-1163768914"
+            "ReviewerName": "gegles",
+            "SubmittedAt": "2022-11-01T22:32:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13923#pullrequestreview-1164135604"
          }
       }
    },
@@ -1623,6 +1625,24 @@
       "LastCommitSHA": "f6ec1cca9b4a59f755c7e80bc387c33f506dcd75",
       "LastCommitAt": "2022-11-01T21:15:05Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13941,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-01T22:49:30Z",
+      "Recipe": "libjpeg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13941",
+      "LastCommitSHA": "8103799cf81e1cd419583ea311218dc27ac933d0",
+      "LastCommitAt": "2022-11-01T23:17:06Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
