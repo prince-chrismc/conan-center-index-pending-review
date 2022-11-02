@@ -119,17 +119,19 @@
       "LastCommitAt": "2022-11-02T08:14:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 34,
-         "ValidApprovals": 0,
+         "Count": 35,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": [
             "uilianries"
          ],
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-10-31T18:56:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12896#pullrequestreview-1162390008"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-11-02T13:41:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12896#pullrequestreview-1165270396"
          }
       }
    },
@@ -201,31 +203,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2022-10-31T20:47:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13234#pullrequestreview-1162539522"
-         }
-      }
-   },
-   {
-      "Number": 13407,
-      "OpenedBy": "Nomalah",
-      "CreatedAt": "2022-10-11T01:39:57Z",
-      "Recipe": "runtimeqml",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13407",
-      "LastCommitSHA": "3999a6ec5b969c335db620ba4f01a373fb926e31",
-      "LastCommitAt": "2022-10-28T18:22:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 15,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-30T05:23:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13407#pullrequestreview-1161063892"
          }
       }
    },
@@ -468,29 +445,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2022-11-01T17:21:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13758#pullrequestreview-1163730832"
-         }
-      }
-   },
-   {
-      "Number": 13759,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-10-26T04:34:25Z",
-      "Recipe": "libdeflate",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13759",
-      "LastCommitSHA": "27d82f5a16182e667d43b507b4f99e056e0784c0",
-      "LastCommitAt": "2022-11-02T06:21:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-30T05:24:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13759#pullrequestreview-1161063924"
          }
       }
    },
@@ -906,75 +860,6 @@
       }
    },
    {
-      "Number": 13862,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-29T20:22:28Z",
-      "Recipe": "libxlsxwriter",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13862",
-      "LastCommitSHA": "aa1b59a153b2267d5bb93838eb0776c627afefbe",
-      "LastCommitAt": "2022-10-29T20:21:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-11-02T11:58:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13862#pullrequestreview-1165102531"
-         }
-      }
-   },
-   {
-      "Number": 13863,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-10-29T22:22:32Z",
-      "Recipe": "minizip",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13863",
-      "LastCommitSHA": "089bb325f3e98375cd2b125cbe4b47da6ab151a0",
-      "LastCommitAt": "2022-10-29T22:19:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-31T00:32:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13863#pullrequestreview-1161222597"
-         }
-      }
-   },
-   {
-      "Number": 13866,
-      "OpenedBy": "RazielXYZ",
-      "CreatedAt": "2022-10-30T05:23:15Z",
-      "Recipe": "bx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13866",
-      "LastCommitSHA": "3e46bc21f5cdca2d3fbb46509d392cc1182aa507",
-      "LastCommitAt": "2022-10-30T05:08:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13869,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-10-30T13:40:27Z",
@@ -1008,7 +893,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13872",
       "LastCommitSHA": "8ef12769101fc374b922d022746308ab5dd2b45e",
       "LastCommitAt": "2022-11-02T12:14:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1637,7 +1522,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13953",
       "LastCommitSHA": "07279c6b3fccbdce6bd6237b7d1b7ca2ffd0163d",
       "LastCommitAt": "2022-11-02T10:56:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
