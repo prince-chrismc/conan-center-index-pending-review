@@ -62,10 +62,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13849](https://github.com/conan-io/conan-center-index/pull/13849)|[Nomalah](https://github.com/Nomalah)|Oct 28|:memo: openh264|6|Oct 31||prince-chrismc
 [#13851](https://github.com/conan-io/conan-center-index/pull/13851)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: libmp3lame|1|Oct 31||
 [#13854](https://github.com/conan-io/conan-center-index/pull/13854)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: glslang|1|Oct 31||prince-chrismc
-[#13855](https://github.com/conan-io/conan-center-index/pull/13855)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: vulkan-validationlayers|1|Oct 31||prince-chrismc
 [#13858](https://github.com/conan-io/conan-center-index/pull/13858)|[jwillikers](https://github.com/jwillikers)|Oct 29|:memo: libselinux|1|Nov 1||prince-chrismc
-[#13861](https://github.com/conan-io/conan-center-index/pull/13861)|[petrovito](https://github.com/petrovito)|Oct 29|:stopwatch: onetbb|0|:eyes:||
-[#13862](https://github.com/conan-io/conan-center-index/pull/13862)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: libxlsxwriter|1|Oct 30||prince-chrismc
+[#13861](https://github.com/conan-io/conan-center-index/pull/13861)|[petrovito](https://github.com/petrovito)|Oct 29|:stopwatch: onetbb|1|Nov 2||uilianries
 [#13863](https://github.com/conan-io/conan-center-index/pull/13863)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: minizip|1|Oct 31||prince-chrismc
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:stopwatch: bx|0|:eyes:||
 [#13869](https://github.com/conan-io/conan-center-index/pull/13869)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: iir1|1|Nov 1||prince-chrismc
@@ -99,19 +97,20 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13937](https://github.com/conan-io/conan-center-index/pull/13937)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: kmod|0|||
 [#13938](https://github.com/conan-io/conan-center-index/pull/13938)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: ptex|0|||
 [#13941](https://github.com/conan-io/conan-center-index/pull/13941)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: libjpeg|0|||
+[#13948](https://github.com/conan-io/conan-center-index/pull/13948)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: librdkafka|0|||
+[#13953](https://github.com/conan-io/conan-center-index/pull/13953)|[fdgStilla](https://github.com/fdgStilla)|Nov 2|:stopwatch: spix|0|||
 [#13954](https://github.com/conan-io/conan-center-index/pull/13954)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:stopwatch: cmake|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#13753](https://github.com/conan-io/conan-center-index/pull/13753)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 25|:gear: .c3i|7|jwillikers, uilianries
 [#13805](https://github.com/conan-io/conan-center-index/pull/13805)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 27|:gear: .c3i|2|prince-chrismc, uilianries
-[#13848](https://github.com/conan-io/conan-center-index/pull/13848)|[prince-chrismc](https://github.com/prince-chrismc)|Oct 28|:green_book: docs|3|jwillikers, uilianries
+[#13862](https://github.com/conan-io/conan-center-index/pull/13862)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: libxlsxwriter|2|prince-chrismc, uilianries
 
 
 #### :clipboard: Statistics
@@ -120,10 +119,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 233
+	- Open: 230
 	- Draft: 28
-	- Average Age: 63 days, 22 hours, and 33.98 minutes
-	- Stop Label: 117
+	- Average Age: 64 days, 18 hours, and 14.49 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
