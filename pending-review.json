@@ -1302,11 +1302,18 @@
       "LastCommitAt": "2022-11-01T14:49:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "toge"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-11-02T16:13:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13920#pullrequestreview-1165588052"
+         }
       }
    },
    {
@@ -1526,14 +1533,86 @@
       }
    },
    {
-      "Number": 13957,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-11-02T14:21:21Z",
-      "Recipe": "libxlsxwriter",
+      "Number": 13959,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2022-11-02T15:37:44Z",
+      "Recipe": "json-schema-validator",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13957",
-      "LastCommitSHA": "3c4584be5d7b058490275b8400283dd07201cd5e",
-      "LastCommitAt": "2022-11-02T14:20:11Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13959",
+      "LastCommitSHA": "1976f71406b11672f5a6f1bb4cd4d886caee571f",
+      "LastCommitAt": "2022-11-02T15:36:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13960,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-02T15:39:46Z",
+      "Recipe": "aws-c-cal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13960",
+      "LastCommitSHA": "8b6bfb957dfcda139956ebf41a0eefc6b68bfe8d",
+      "LastCommitAt": "2022-11-02T15:39:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13961,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2022-11-02T15:42:05Z",
+      "Recipe": "websocketpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13961",
+      "LastCommitSHA": "9c30f566921d30e9f8043edeeeec29df0c06afa8",
+      "LastCommitAt": "2022-11-02T15:41:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13962,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2022-11-02T15:44:00Z",
+      "Recipe": "cpprestsdk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13962",
+      "LastCommitSHA": "9308b7df98e68d054d1688bd8328a12ab63f29ba",
+      "LastCommitAt": "2022-11-02T15:43:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13964,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-11-02T16:16:35Z",
+      "Recipe": "create-dmg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13964",
+      "LastCommitSHA": "837593d7d59c2e4467d761cbdef56f77f06a2b7f",
+      "LastCommitAt": "2022-11-02T15:50:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
