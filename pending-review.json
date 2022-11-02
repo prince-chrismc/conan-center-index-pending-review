@@ -1433,7 +1433,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13935",
       "LastCommitSHA": "bffd8c1580276533a9a924f4dd1ec58c4f1a5e18",
       "LastCommitAt": "2022-11-02T14:25:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1611,8 +1611,26 @@
       "Recipe": "create-dmg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13964",
-      "LastCommitSHA": "837593d7d59c2e4467d761cbdef56f77f06a2b7f",
-      "LastCommitAt": "2022-11-02T15:50:21Z",
+      "LastCommitSHA": "3d3bd51a3f02b22cea12b3a62c12ae2a4ab6f00a",
+      "LastCommitAt": "2022-11-02T16:52:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13966,
+      "OpenedBy": "a4z",
+      "CreatedAt": "2022-11-02T17:05:04Z",
+      "Recipe": "circularbuffer",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13966",
+      "LastCommitSHA": "31952cc3b2f85a6727c06c561508156c49de36bd",
+      "LastCommitAt": "2022-11-02T17:03:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
