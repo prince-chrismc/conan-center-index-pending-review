@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **69** pull requests currently under way :detective:
+There are **70** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -96,6 +96,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13948](https://github.com/conan-io/conan-center-index/pull/13948)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: librdkafka|0|||
 [#13953](https://github.com/conan-io/conan-center-index/pull/13953)|[fdgStilla](https://github.com/fdgStilla)|Nov 2|:new: spix|0|||
 [#13954](https://github.com/conan-io/conan-center-index/pull/13954)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:stopwatch: cmake|0|||
+[#13957](https://github.com/conan-io/conan-center-index/pull/13957)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:stopwatch: libxlsxwriter|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -114,9 +115,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 227
+	- Open: 228
 	- Draft: 28
-	- Average Age: 65 days, 12 hours, and 55.67 minutes
+	- Average Age: 65 days, 6 hours, and 31.63 minutes
 	- Stop Label: 115
 	
 
