@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **61** pull requests currently under way :detective:
+There are **63** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -59,6 +59,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13858](https://github.com/conan-io/conan-center-index/pull/13858)|[jwillikers](https://github.com/jwillikers)|Oct 29|:memo: libselinux|1|Nov 1||prince-chrismc
 [#13860](https://github.com/conan-io/conan-center-index/pull/13860)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:stopwatch: make|0|||
 [#13861](https://github.com/conan-io/conan-center-index/pull/13861)|[petrovito](https://github.com/petrovito)|Oct 29|:stopwatch: onetbb|1|Nov 2||uilianries
+[#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:stopwatch: bx|1|Nov 2||
 [#13869](https://github.com/conan-io/conan-center-index/pull/13869)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: iir1|1|Nov 1||prince-chrismc
 [#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:new: libdmtx|3|Nov 2||prince-chrismc
 [#13874](https://github.com/conan-io/conan-center-index/pull/13874)|[toge](https://github.com/toge)|Oct 30|:memo: trompeloeil|1|Nov 1||prince-chrismc
@@ -81,13 +82,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13932](https://github.com/conan-io/conan-center-index/pull/13932)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: tng|0|||
 [#13933](https://github.com/conan-io/conan-center-index/pull/13933)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: zziplib|0|||
 [#13935](https://github.com/conan-io/conan-center-index/pull/13935)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: podofo|0|||
-[#13937](https://github.com/conan-io/conan-center-index/pull/13937)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: kmod|0|||
+[#13937](https://github.com/conan-io/conan-center-index/pull/13937)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: kmod|0|||
 [#13938](https://github.com/conan-io/conan-center-index/pull/13938)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: ptex|0|||
 [#13941](https://github.com/conan-io/conan-center-index/pull/13941)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:stopwatch: libjpeg|0|||
 [#13948](https://github.com/conan-io/conan-center-index/pull/13948)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:stopwatch: librdkafka|0|||
+[#13965](https://github.com/conan-io/conan-center-index/pull/13965)|[sourcedelica](https://github.com/sourcedelica)|Nov 2|:stopwatch: easyexif|1|Nov 2||
 [#13970](https://github.com/conan-io/conan-center-index/pull/13970)|[faithfracture](https://github.com/faithfracture)|Nov 2|:stopwatch: boost|0|||
 [#13971](https://github.com/conan-io/conan-center-index/pull/13971)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 2|:green_book: docs|1|Nov 2||SSE4
-[#13972](https://github.com/conan-io/conan-center-index/pull/13972)|[Nomalah](https://github.com/Nomalah)|Nov 2|:stopwatch: runtimeqml|0|||
+[#13972](https://github.com/conan-io/conan-center-index/pull/13972)|[Nomalah](https://github.com/Nomalah)|Nov 2|:memo: runtimeqml|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -111,7 +113,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 240
 	- Draft: 28
-	- Average Age: 62 days, 4 hours, and 7.05 minutes
+	- Average Age: 62 days, 5 hours, and 8.76 minutes
 	- Stop Label: 119
 	
 
