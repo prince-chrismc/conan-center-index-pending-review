@@ -482,16 +482,14 @@
       "Recipe": "b2",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13758",
-      "LastCommitSHA": "e1a79e3fda162c5fc9651d13901c3574430d86f9",
-      "LastCommitAt": "2022-10-31T12:07:25Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "0984cd95878dba4a7427517bedece971bab6212c",
+      "LastCommitAt": "2022-11-02T02:49:04Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 18,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -1243,7 +1241,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13885",
       "LastCommitSHA": "e2cbee8d5033cd41c964c57fc17ce30813917dc2",
       "LastCommitAt": "2022-11-02T01:01:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1434,6 +1432,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13914",
       "LastCommitSHA": "ad07569efce52c2478ef304f17a4d7287a03a6d3",
       "LastCommitAt": "2022-11-01T11:43:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 13918,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-01T13:58:33Z",
+      "Recipe": "plutovg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13918",
+      "LastCommitSHA": "f7d94e1a4a8cbbe9b7e93f93b70b9718b9d5b29a",
+      "LastCommitAt": "2022-11-02T01:49:28Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -1659,24 +1675,6 @@
       "LastCommitSHA": "8103799cf81e1cd419583ea311218dc27ac933d0",
       "LastCommitAt": "2022-11-01T23:17:06Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 13945,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-11-02T00:25:14Z",
-      "Recipe": "leptonica",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13945",
-      "LastCommitSHA": "31bbaa92c247598e7cf5358ce6878682caba05ec",
-      "LastCommitAt": "2022-11-02T00:24:48Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
