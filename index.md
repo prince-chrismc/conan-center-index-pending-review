@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **73** pull requests currently under way :detective:
+There are **71** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,6 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13234](https://github.com/conan-io/conan-center-index/pull/13234)|[sorny92](https://github.com/sorny92)|Sep 30|:new: libsvtav1|3|Oct 31||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18 :bell:||prince-chrismc
 [#13605](https://github.com/conan-io/conan-center-index/pull/13605)|[paulharris](https://github.com/paulharris)|Oct 19|:memo: hdf5|3|Oct 30||prince-chrismc
+[#13614](https://github.com/conan-io/conan-center-index/pull/13614)|[madebr](https://github.com/madebr)|Oct 19|:new: yder|4|Oct 24||jwillikers
 [#13662](https://github.com/conan-io/conan-center-index/pull/13662)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: tensorpipe|2|Oct 24||uilianries
 [#13674](https://github.com/conan-io/conan-center-index/pull/13674)|[psyinf](https://github.com/psyinf)|Oct 21|:new: psyinf-gmtl|11|Nov 1||jwillikers
 [#13706](https://github.com/conan-io/conan-center-index/pull/13706)|[System-Arch](https://github.com/System-Arch)|Oct 23|:memo: zlib|0|||
@@ -94,12 +95,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13941](https://github.com/conan-io/conan-center-index/pull/13941)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: libjpeg|0|||
 [#13948](https://github.com/conan-io/conan-center-index/pull/13948)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: librdkafka|0|||
 [#13953](https://github.com/conan-io/conan-center-index/pull/13953)|[fdgStilla](https://github.com/fdgStilla)|Nov 2|:new: spix|0|||
-[#13959](https://github.com/conan-io/conan-center-index/pull/13959)|[garethsb](https://github.com/garethsb)|Nov 2|:stopwatch: json-schema-validator|0|||
 [#13960](https://github.com/conan-io/conan-center-index/pull/13960)|[toge](https://github.com/toge)|Nov 2|:stopwatch: aws-c-cal|0|||
-[#13961](https://github.com/conan-io/conan-center-index/pull/13961)|[garethsb](https://github.com/garethsb)|Nov 2|:stopwatch: websocketpp|0|||
 [#13962](https://github.com/conan-io/conan-center-index/pull/13962)|[garethsb](https://github.com/garethsb)|Nov 2|:stopwatch: cpprestsdk|0|||
 [#13964](https://github.com/conan-io/conan-center-index/pull/13964)|[MartinDelille](https://github.com/MartinDelille)|Nov 2|:stopwatch: create-dmg|0|||
-[#13966](https://github.com/conan-io/conan-center-index/pull/13966)|[a4z](https://github.com/a4z)|Nov 2|:stopwatch: circularbuffer|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -120,9 +118,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
 	- Open: 234
-	- Draft: 28
-	- Average Age: 63 days, 16 hours, and 54.01 minutes
-	- Stop Label: 117
+	- Draft: 27
+	- Average Age: 63 days, 17 hours, and 45.27 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
