@@ -1548,5 +1548,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13957,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-02T14:21:21Z",
+      "Recipe": "libxlsxwriter",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13957",
+      "LastCommitSHA": "3c4584be5d7b058490275b8400283dd07201cd5e",
+      "LastCommitAt": "2022-11-02T14:20:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
