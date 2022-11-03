@@ -1628,5 +1628,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 13981,
+      "OpenedBy": "Doome161",
+      "CreatedAt": "2022-11-03T07:49:51Z",
+      "Recipe": "c-dbg-macro",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13981",
+      "LastCommitSHA": "c07b5807a55dbb86750bb4f0545d0baf75d92772",
+      "LastCommitAt": "2022-11-03T07:18:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
