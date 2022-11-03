@@ -184,31 +184,6 @@
       }
    },
    {
-      "Number": 13234,
-      "OpenedBy": "sorny92",
-      "CreatedAt": "2022-09-30T12:23:07Z",
-      "Recipe": "libsvtav1",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13234",
-      "LastCommitSHA": "e0bf3c07e5f21fc293f0568f2b6484799a6908c0",
-      "LastCommitAt": "2022-09-30T12:21:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-11-03T12:20:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13234#pullrequestreview-1166779948"
-         }
-      }
-   },
-   {
       "Number": 13552,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2022-10-17T15:20:42Z",
@@ -1605,7 +1580,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13986",
       "LastCommitSHA": "a534770139aed298e43f5777f45faa61f25419e9",
       "LastCommitAt": "2022-11-03T11:38:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1633,26 +1608,21 @@
       }
    },
    {
-      "Number": 13990,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-11-03T13:17:28Z",
-      "Recipe": "libharu",
+      "Number": 13992,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2022-11-03T13:53:35Z",
+      "Recipe": "hdf5",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13990",
-      "LastCommitSHA": "4800f61ef9e5aca2ce819629e8eb5ef3dfab4252",
-      "LastCommitAt": "2022-11-03T13:35:59Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13992",
+      "LastCommitSHA": "30fd448cc05d179cbe3d39a9461577e1cc599e62",
+      "LastCommitAt": "2022-11-03T13:52:10Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Nekto89",
-            "SubmittedAt": "2022-11-03T13:34:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13990#pullrequestreview-1166907262"
-         }
+         "Blockers": null
       }
    }
 ]
