@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **71** pull requests currently under way :detective:
+There are **72** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -94,22 +94,22 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13998](https://github.com/conan-io/conan-center-index/pull/13998)|[toge](https://github.com/toge)|Nov 3|:stopwatch: libunwind|0|||
 [#14001](https://github.com/conan-io/conan-center-index/pull/14001)|[garethsb](https://github.com/garethsb)|Nov 3|:memo: mdnsresponder|1|Nov 3||prince-chrismc
 [#14003](https://github.com/conan-io/conan-center-index/pull/14003)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: eigen|0|||
-[#14007](https://github.com/conan-io/conan-center-index/pull/14007)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: cyrus-sasl|0|||
+[#14007](https://github.com/conan-io/conan-center-index/pull/14007)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: cyrus-sasl|0|||
 [#14008](https://github.com/conan-io/conan-center-index/pull/14008)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: odbc|0|||
 [#14009](https://github.com/conan-io/conan-center-index/pull/14009)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libelf|0|||
 [#14010](https://github.com/conan-io/conan-center-index/pull/14010)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libdaemon|0|||
+[#14012](https://github.com/conan-io/conan-center-index/pull/14012)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: xqilla|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:memo: llvm-core|6|prince-chrismc, intelligide, kou
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:warning: platform.hashing|4|prince-chrismc, uilianries
-[#13984](https://github.com/conan-io/conan-center-index/pull/13984)|[uilianries](https://github.com/uilianries)|Nov 3|:green_book: docs|3|SSE4, SpaceIm, prince-chrismc
 [#13989](https://github.com/conan-io/conan-center-index/pull/13989)|[robomics](https://github.com/robomics)|Nov 3|:memo: spdlog|2|toge, prince-chrismc
 
 
@@ -120,9 +120,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
 	- Open: 241
-	- Draft: 27
-	- Average Age: 62 days, 11 hours, and 41.92 minutes
-	- Stop Label: 120
+	- Draft: 28
+	- Average Age: 62 days, 12 hours, and 33.68 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
