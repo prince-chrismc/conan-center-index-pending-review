@@ -215,8 +215,8 @@
       "Recipe": "libxml2",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13511",
-      "LastCommitSHA": "86dc29281337e2a91e695cda4e75b8dec4d6b092",
-      "LastCommitAt": "2022-11-03T05:06:57Z",
+      "LastCommitSHA": "97866f4fcb0989b55b158c8f5ed94ba4086d94a7",
+      "LastCommitAt": "2022-11-02T11:57:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 9,
@@ -1645,7 +1645,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13980",
       "LastCommitSHA": "9a04e06219898de1b750a1868ac677cd30176232",
       "LastCommitAt": "2022-11-03T00:46:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
