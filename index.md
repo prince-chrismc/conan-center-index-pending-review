@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **69** pull requests currently under way :detective:
+There are **71** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -84,6 +84,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13970](https://github.com/conan-io/conan-center-index/pull/13970)|[faithfracture](https://github.com/faithfracture)|Nov 2|:memo: boost|0|||
 [#13971](https://github.com/conan-io/conan-center-index/pull/13971)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 2|:green_book: docs|2|Nov 3||SSE4
 [#13972](https://github.com/conan-io/conan-center-index/pull/13972)|[Nomalah](https://github.com/Nomalah)|Nov 2|:memo: runtimeqml|0|||
+[#13973](https://github.com/conan-io/conan-center-index/pull/13973)|[dvirtz](https://github.com/dvirtz)|Nov 2|:memo: polymorphic_value|1|Nov 3||
 [#13979](https://github.com/conan-io/conan-center-index/pull/13979)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: assimp|0|||
 [#13980](https://github.com/conan-io/conan-center-index/pull/13980)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: gdcm|0|||
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:stopwatch: c-dbg-macro|0|||
@@ -96,6 +97,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14007](https://github.com/conan-io/conan-center-index/pull/14007)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: cyrus-sasl|0|||
 [#14008](https://github.com/conan-io/conan-center-index/pull/14008)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: odbc|0|||
 [#14009](https://github.com/conan-io/conan-center-index/pull/14009)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libelf|0|||
+[#14010](https://github.com/conan-io/conan-center-index/pull/14010)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libdaemon|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -118,8 +120,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
 	- Open: 241
-	- Draft: 28
-	- Average Age: 62 days, 10 hours, and 48.95 minutes
+	- Draft: 27
+	- Average Age: 62 days, 11 hours, and 41.92 minutes
 	- Stop Label: 120
 	
 
