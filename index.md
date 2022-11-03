@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **68** pull requests currently under way :detective:
+There are **67** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -35,7 +35,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12896](https://github.com/conan-io/conan-center-index/pull/12896)|[jellespijker](https://github.com/jellespijker)|Sep 11|:memo: autoconf|36|Nov 3|uilianries|jwillikers
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13204](https://github.com/conan-io/conan-center-index/pull/13204)|[planetmarshall](https://github.com/planetmarshall)|Sep 28|:memo: graphene|7|Nov 3||prince-chrismc
-[#13234](https://github.com/conan-io/conan-center-index/pull/13234)|[sorny92](https://github.com/sorny92)|Sep 30|:new: libsvtav1|5|Nov 3||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18 :bell:||prince-chrismc
 [#13706](https://github.com/conan-io/conan-center-index/pull/13706)|[System-Arch](https://github.com/System-Arch)|Oct 23|:memo: zlib|1|Nov 2||prince-chrismc
 [#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:stopwatch: wavelet_buffer|2|Nov 1||
@@ -92,9 +91,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13980](https://github.com/conan-io/conan-center-index/pull/13980)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: gdcm|0|||
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:stopwatch: c-dbg-macro|0|||
 [#13982](https://github.com/conan-io/conan-center-index/pull/13982)|[AlexandrePTJ](https://github.com/AlexandrePTJ)|Nov 3|:stopwatch: fast_double_parser|0|||
-[#13986](https://github.com/conan-io/conan-center-index/pull/13986)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 3|:stopwatch: .c3i|0|||
+[#13986](https://github.com/conan-io/conan-center-index/pull/13986)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 3|:gear: .c3i|0|||
 [#13989](https://github.com/conan-io/conan-center-index/pull/13989)|[robomics](https://github.com/robomics)|Nov 3|:stopwatch: spdlog|0|||
-[#13990](https://github.com/conan-io/conan-center-index/pull/13990)|[paulharris](https://github.com/paulharris)|Nov 3|:stopwatch: libharu|1|Nov 3||
+[#13992](https://github.com/conan-io/conan-center-index/pull/13992)|[robomics](https://github.com/robomics)|Nov 3|:stopwatch: hdf5|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -117,10 +116,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 242
-	- Draft: 27
-	- Average Age: 62 days, 1 hours, and 28.93 minutes
-	- Stop Label: 122
+	- Open: 243
+	- Draft: 28
+	- Average Age: 61 days, 19 hours, and 57.64 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
