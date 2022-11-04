@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **60** pull requests currently under way :detective:
+There are **62** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13849](https://github.com/conan-io/conan-center-index/pull/13849)|[Nomalah](https://github.com/Nomalah)|Oct 28|:memo: openh264|7|Nov 3||prince-chrismc
 [#13851](https://github.com/conan-io/conan-center-index/pull/13851)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: libmp3lame|2|Nov 2||
 [#13854](https://github.com/conan-io/conan-center-index/pull/13854)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: glslang|1|Oct 31||prince-chrismc
-[#13860](https://github.com/conan-io/conan-center-index/pull/13860)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: make|2|Nov 4||uilianries
+[#13860](https://github.com/conan-io/conan-center-index/pull/13860)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: make|3|Nov 4||uilianries
 [#13861](https://github.com/conan-io/conan-center-index/pull/13861)|[petrovito](https://github.com/petrovito)|Oct 29|:stopwatch: onetbb|1|Nov 2||uilianries
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:stopwatch: bx|1|Nov 2||
 [#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:new: libdmtx|3|Nov 2||prince-chrismc
@@ -87,11 +87,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14017](https://github.com/conan-io/conan-center-index/pull/14017)|[Sneder89](https://github.com/Sneder89)|Nov 4|:stopwatch: xapian-core|0|||
 [#14019](https://github.com/conan-io/conan-center-index/pull/14019)|[pavelb-techspark](https://github.com/pavelb-techspark)|Nov 4|:stopwatch: hdf5|0|||
 [#14020](https://github.com/conan-io/conan-center-index/pull/14020)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 4|:stopwatch: qt|1|Nov 4||jwillikers
+[#14024](https://github.com/conan-io/conan-center-index/pull/14024)|[github-actions[bot]](https://github.com/github-actions[bot])|Nov 4|:green_book: docs|0|||
+[#14025](https://github.com/conan-io/conan-center-index/pull/14025)|[toge](https://github.com/toge)|Nov 4|:stopwatch: scnlib|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -99,7 +101,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:memo: llvm-core|6|prince-chrismc, intelligide, kou
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:warning: platform.hashing|4|prince-chrismc, uilianries
 [#13986](https://github.com/conan-io/conan-center-index/pull/13986)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 3|:gear: .c3i|4|danimtb, prince-chrismc
-[#14022](https://github.com/conan-io/conan-center-index/pull/14022)|[uilianries](https://github.com/uilianries)|Nov 4|:green_book: docs|2|SSE4, jwillikers
 
 
 #### :clipboard: Statistics
@@ -108,9 +109,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 234
+	- Open: 235
 	- Draft: 28
-	- Average Age: 65 days, and 5.88 minutes
+	- Average Age: 64 days, 18 hours, and 19.64 minutes
 	- Stop Label: 125
 	
 
