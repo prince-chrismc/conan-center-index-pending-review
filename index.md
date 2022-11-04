@@ -78,7 +78,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13948](https://github.com/conan-io/conan-center-index/pull/13948)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: librdkafka|0|||
 [#13964](https://github.com/conan-io/conan-center-index/pull/13964)|[MartinDelille](https://github.com/MartinDelille)|Nov 2|:memo: create-dmg|2|Nov 3||prince-chrismc
 [#13965](https://github.com/conan-io/conan-center-index/pull/13965)|[sourcedelica](https://github.com/sourcedelica)|Nov 2|:memo: easyexif|2|Nov 3||
-[#13966](https://github.com/conan-io/conan-center-index/pull/13966)|[a4z](https://github.com/a4z)|Nov 2|:memo: circularbuffer|6|Nov 3||prince-chrismc
+[#13966](https://github.com/conan-io/conan-center-index/pull/13966)|[a4z](https://github.com/a4z)|Nov 2|:memo: circularbuffer|7|Nov 4||prince-chrismc, Hopobcn
 [#13967](https://github.com/conan-io/conan-center-index/pull/13967)|[toge](https://github.com/toge)|Nov 2|:memo: lief|0|||
 [#13969](https://github.com/conan-io/conan-center-index/pull/13969)|[grafikrobot](https://github.com/grafikrobot)|Nov 2|:memo: lyra|2|Nov 4||mmatisko, prince-chrismc
 [#13970](https://github.com/conan-io/conan-center-index/pull/13970)|[faithfracture](https://github.com/faithfracture)|Nov 2|:memo: boost|0|||
@@ -121,7 +121,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 239
 	- Draft: 28
-	- Average Age: 63 days, 7 hours, and 1.80 minutes
+	- Average Age: 63 days, 8 hours, and 1.39 minutes
 	- Stop Label: 122
 	
 
