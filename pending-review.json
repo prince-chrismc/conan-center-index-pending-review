@@ -1296,16 +1296,14 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13971",
-      "LastCommitSHA": "60652ca0d1644fd39f5cae4ffe17e948eb483a53",
-      "LastCommitAt": "2022-11-02T20:31:18Z",
+      "LastCommitSHA": "c2707bf2933621b204913f7aa85ef0436cf6196b",
+      "LastCommitAt": "2022-11-04T04:21:26Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
