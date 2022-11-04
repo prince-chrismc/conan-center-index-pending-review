@@ -1652,5 +1652,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14017,
+      "OpenedBy": "Sneder89",
+      "CreatedAt": "2022-11-04T09:07:57Z",
+      "Recipe": "xapian-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14017",
+      "LastCommitSHA": "8fdc2192585d3790d7bf747c01ff77042d27eb83",
+      "LastCommitAt": "2022-11-04T09:12:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
