@@ -1524,5 +1524,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14026,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-04T19:25:26Z",
+      "Recipe": "c4core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14026",
+      "LastCommitSHA": "e26531a7044fd5ba7dd4be2e2611f2c14c9d70d2",
+      "LastCommitAt": "2022-11-04T19:24:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14027,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-04T19:35:01Z",
+      "Recipe": "lunasvg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14027",
+      "LastCommitSHA": "426ddcf61687d7e7139844db0ed28f7498a9d914",
+      "LastCommitAt": "2022-11-01T13:16:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
