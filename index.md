@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **73** pull requests currently under way :detective:
+There are **71** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,7 +39,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13650](https://github.com/conan-io/conan-center-index/pull/13650)|[madebr](https://github.com/madebr)|Oct 21|:new: ulfius|1|Oct 21 :bell:||
 [#13706](https://github.com/conan-io/conan-center-index/pull/13706)|[System-Arch](https://github.com/System-Arch)|Oct 23|:memo: zlib|1|Nov 2||prince-chrismc
 [#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|2|Nov 1||
-[#13730](https://github.com/conan-io/conan-center-index/pull/13730)|[toge](https://github.com/toge)|Oct 24|:new: duckdb|5|Nov 2||prince-chrismc
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2||prince-chrismc
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|8|Nov 3||
 [#13742](https://github.com/conan-io/conan-center-index/pull/13742)|[jmarrec](https://github.com/jmarrec)|Oct 25|:memo: swig|5|Oct 29||prince-chrismc
@@ -65,7 +64,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13887](https://github.com/conan-io/conan-center-index/pull/13887)|[SpaceIm](https://github.com/SpaceIm)|Oct 31|:memo: muparserx|0|||
 [#13889](https://github.com/conan-io/conan-center-index/pull/13889)|[SpaceIm](https://github.com/SpaceIm)|Oct 31|:memo: microtar|1|Nov 1||
 [#13914](https://github.com/conan-io/conan-center-index/pull/13914)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: libcurl|1|Nov 2||prince-chrismc
-[#13918](https://github.com/conan-io/conan-center-index/pull/13918)|[toge](https://github.com/toge)|Nov 1|:memo: plutovg|1|Nov 2||prince-chrismc
 [#13929](https://github.com/conan-io/conan-center-index/pull/13929)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: mbedtls|1|Nov 3||PatSche
 [#13931](https://github.com/conan-io/conan-center-index/pull/13931)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: taglib|0|||
 [#13932](https://github.com/conan-io/conan-center-index/pull/13932)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: tng|0|||
@@ -90,7 +88,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:stopwatch: c-dbg-macro|1|Nov 4||prince-chrismc
 [#13982](https://github.com/conan-io/conan-center-index/pull/13982)|[AlexandrePTJ](https://github.com/AlexandrePTJ)|Nov 3|:stopwatch: fast_double_parser|0|||
 [#13985](https://github.com/conan-io/conan-center-index/pull/13985)|[jngrb](https://github.com/jngrb)|Nov 3|:memo: expat|1|Nov 3||prince-chrismc
-[#13986](https://github.com/conan-io/conan-center-index/pull/13986)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 3|:gear: .c3i|1|Nov 3||SSE4
+[#13986](https://github.com/conan-io/conan-center-index/pull/13986)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 3|:gear: .c3i|2|Nov 4||SSE4
 [#14001](https://github.com/conan-io/conan-center-index/pull/14001)|[garethsb](https://github.com/garethsb)|Nov 3|:memo: mdnsresponder|1|Nov 3||prince-chrismc
 [#14003](https://github.com/conan-io/conan-center-index/pull/14003)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: eigen|0|||
 [#14007](https://github.com/conan-io/conan-center-index/pull/14007)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: cyrus-sasl|0|||
@@ -104,11 +102,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
+[#13730](https://github.com/conan-io/conan-center-index/pull/13730)|[toge](https://github.com/toge)|Oct 24|:new: duckdb|6|prince-chrismc, uilianries
 [#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:memo: llvm-core|6|prince-chrismc, intelligide, kou
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:warning: platform.hashing|4|prince-chrismc, uilianries
 
@@ -119,9 +118,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 240
+	- Open: 239
 	- Draft: 28
-	- Average Age: 63 days, 5 hours, and 37.14 minutes
+	- Average Age: 63 days, 12 hours, and 36.83 minutes
 	- Stop Label: 123
 	
 
