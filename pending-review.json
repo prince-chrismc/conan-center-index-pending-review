@@ -339,7 +339,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13739",
       "LastCommitSHA": "b6accd32531e8412e91a7337ee6fcd5b0f854a7d",
       "LastCommitAt": "2022-11-03T19:59:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -1402,11 +1402,18 @@
       "LastCommitAt": "2022-11-03T07:18:34Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-11-04T02:28:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13981#pullrequestreview-1167859656"
+         }
       }
    },
    {
@@ -1583,7 +1590,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14010",
       "LastCommitSHA": "acf0894eb5bbc121b46a1fc3a952c49fb60e3104",
       "LastCommitAt": "2022-11-03T21:55:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14012,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-03T22:44:42Z",
+      "Recipe": "xqilla",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14012",
+      "LastCommitSHA": "e93b006adc26644f54091254be15761ad59fb8b1",
+      "LastCommitAt": "2022-11-04T00:59:36Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1601,7 +1626,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14014",
       "LastCommitSHA": "eb7fae0b68615272d42cc065b52915e0c02999e6",
       "LastCommitAt": "2022-11-03T23:56:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
