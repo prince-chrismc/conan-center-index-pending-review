@@ -1214,17 +1214,18 @@
       "LastCommitAt": "2022-11-03T14:42:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "Hopobcn"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-03T20:06:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13966#pullrequestreview-1167596248"
+            "ReviewerName": "Hopobcn",
+            "SubmittedAt": "2022-11-04T05:31:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13966#pullrequestreview-1167968644"
          }
       }
    },
