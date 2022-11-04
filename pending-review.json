@@ -1542,5 +1542,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14028,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-04T21:54:48Z",
+      "Recipe": "libdeflate",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14028",
+      "LastCommitSHA": "1f518372706a17fcd2658180df0e241a1647a19e",
+      "LastCommitAt": "2022-11-04T21:56:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14030,
+      "OpenedBy": "datalogics-robb",
+      "CreatedAt": "2022-11-04T22:03:22Z",
+      "Recipe": "icu",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14030",
+      "LastCommitSHA": "c2fe06cda6e71cef4ee2d945fd0d017e008900ff",
+      "LastCommitAt": "2022-11-04T22:00:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
