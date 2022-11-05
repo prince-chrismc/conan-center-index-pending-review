@@ -1739,5 +1739,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14043,
+      "OpenedBy": "EmilienBINET",
+      "CreatedAt": "2022-11-05T13:08:55Z",
+      "Recipe": "cpplogging",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14043",
+      "LastCommitSHA": "67940f055c37985a95e0819b6c2061488c97b7b2",
+      "LastCommitAt": "2022-11-05T13:05:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
