@@ -1644,5 +1644,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14037,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-05T08:13:19Z",
+      "Recipe": "miniz",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14037",
+      "LastCommitSHA": "6da2a4b8f18418a8882125780056c6a9e4886192",
+      "LastCommitAt": "2022-11-05T08:38:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
