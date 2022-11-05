@@ -1943,5 +1943,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14055,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-05T17:17:30Z",
+      "Recipe": "canvas_ity",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14055",
+      "LastCommitSHA": "8f87f73abbc578dfde18ba389ce2df6a78f74291",
+      "LastCommitAt": "2022-11-05T17:16:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
