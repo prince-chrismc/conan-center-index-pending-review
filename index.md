@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **85** pull requests currently under way :detective:
+There are **84** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -101,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14038](https://github.com/conan-io/conan-center-index/pull/14038)|[EmilienBINET](https://github.com/EmilienBINET)|Nov 5|:stopwatch: cppcommon|0|||
 [#14039](https://github.com/conan-io/conan-center-index/pull/14039)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libconfuse|0|||
 [#14040](https://github.com/conan-io/conan-center-index/pull/14040)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: mariadb-connector-c|0|||
-[#14041](https://github.com/conan-io/conan-center-index/pull/14041)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: mongo-c-driver|0|||
+[#14041](https://github.com/conan-io/conan-center-index/pull/14041)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: mongo-c-driver|0|||
 [#14042](https://github.com/conan-io/conan-center-index/pull/14042)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: gsoap|0|||
 [#14043](https://github.com/conan-io/conan-center-index/pull/14043)|[EmilienBINET](https://github.com/EmilienBINET)|Nov 5|:stopwatch: cpplogging|0|||
 [#14044](https://github.com/conan-io/conan-center-index/pull/14044)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libspng|0|||
@@ -109,9 +109,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14046](https://github.com/conan-io/conan-center-index/pull/14046)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: giflib|0|||
 [#14047](https://github.com/conan-io/conan-center-index/pull/14047)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: glfw|0|||
 [#14048](https://github.com/conan-io/conan-center-index/pull/14048)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: json-c|0|||
-[#14049](https://github.com/conan-io/conan-center-index/pull/14049)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: libwebp|0|||
 [#14050](https://github.com/conan-io/conan-center-index/pull/14050)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: quirc|0|||
-[#14053](https://github.com/conan-io/conan-center-index/pull/14053)|[toge](https://github.com/toge)|Nov 5|:stopwatch: screen_capture_lite|0|||
+[#14054](https://github.com/conan-io/conan-center-index/pull/14054)|[PatSche](https://github.com/PatSche)|Nov 5|:stopwatch: ghc-filesystem|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -134,8 +133,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 258
 	- Draft: 28
-	- Average Age: 59 days, 19 hours, and 36.23 minutes
-	- Stop Label: 123
+	- Average Age: 59 days, 20 hours, and 29.94 minutes
+	- Stop Label: 124
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
