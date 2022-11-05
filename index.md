@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **88** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -110,11 +110,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14047](https://github.com/conan-io/conan-center-index/pull/14047)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: glfw|0|||
 [#14048](https://github.com/conan-io/conan-center-index/pull/14048)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: json-c|0|||
 [#14050](https://github.com/conan-io/conan-center-index/pull/14050)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: quirc|0|||
-[#14054](https://github.com/conan-io/conan-center-index/pull/14054)|[PatSche](https://github.com/PatSche)|Nov 5|:stopwatch: ghc-filesystem|0|||
-[#14055](https://github.com/conan-io/conan-center-index/pull/14055)|[toge](https://github.com/toge)|Nov 5|:stopwatch: canvas_ity|0|||
+[#14054](https://github.com/conan-io/conan-center-index/pull/14054)|[PatSche](https://github.com/PatSche)|Nov 5|:memo: ghc-filesystem|0|||
+[#14055](https://github.com/conan-io/conan-center-index/pull/14055)|[toge](https://github.com/toge)|Nov 5|:new: canvas_ity|0|||
 [#14056](https://github.com/conan-io/conan-center-index/pull/14056)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: xxhash|0|||
 [#14057](https://github.com/conan-io/conan-center-index/pull/14057)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: opus|0|||
 [#14059](https://github.com/conan-io/conan-center-index/pull/14059)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: miniupnpc|0|||
+[#14060](https://github.com/conan-io/conan-center-index/pull/14060)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: zstd|0|||
+[#14061](https://github.com/conan-io/conan-center-index/pull/14061)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: libev|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -135,9 +137,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 263
+	- Open: 265
 	- Draft: 28
-	- Average Age: 58 days, 20 hours, and 14.07 minutes
+	- Average Age: 58 days, 10 hours, and 28.80 minutes
 	- Stop Label: 125
 	
 
