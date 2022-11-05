@@ -44,8 +44,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13750](https://github.com/conan-io/conan-center-index/pull/13750)|[MartinDelille](https://github.com/MartinDelille)|Oct 25|:memo: openjdk|10|Nov 3||
 [#13751](https://github.com/conan-io/conan-center-index/pull/13751)|[jwillikers](https://github.com/jwillikers)|Oct 25|:memo: libarchive|5|Nov 2||prince-chrismc
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:stopwatch: libpng|1|Oct 30||prince-chrismc
-[#13792](https://github.com/conan-io/conan-center-index/pull/13792)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libsodium|5|Nov 3||prince-chrismc
-[#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: catch2|8|Nov 4||prince-chrismc
+[#13792](https://github.com/conan-io/conan-center-index/pull/13792)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: libsodium|5|Nov 3||
+[#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: catch2|8|Nov 4||
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|:eyes:||
 [#13845](https://github.com/conan-io/conan-center-index/pull/13845)|[planetmarshall](https://github.com/planetmarshall)|Oct 28|:memo: fontconfig|7|Nov 4||prince-chrismc
 [#13849](https://github.com/conan-io/conan-center-index/pull/13849)|[Nomalah](https://github.com/Nomalah)|Oct 28|:memo: openh264|7|Nov 3||prince-chrismc
@@ -102,16 +102,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14039](https://github.com/conan-io/conan-center-index/pull/14039)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libconfuse|0|||
 [#14040](https://github.com/conan-io/conan-center-index/pull/14040)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: mariadb-connector-c|0|||
 [#14041](https://github.com/conan-io/conan-center-index/pull/14041)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: mongo-c-driver|0|||
+[#14042](https://github.com/conan-io/conan-center-index/pull/14042)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: gsoap|0|||
 [#14043](https://github.com/conan-io/conan-center-index/pull/14043)|[EmilienBINET](https://github.com/EmilienBINET)|Nov 5|:stopwatch: cpplogging|0|||
-[#14044](https://github.com/conan-io/conan-center-index/pull/14044)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: libspng|0|||
-[#14045](https://github.com/conan-io/conan-center-index/pull/14045)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: cjson|0|||
-[#14046](https://github.com/conan-io/conan-center-index/pull/14046)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: giflib|0|||
+[#14044](https://github.com/conan-io/conan-center-index/pull/14044)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libspng|0|||
+[#14045](https://github.com/conan-io/conan-center-index/pull/14045)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: cjson|0|||
+[#14046](https://github.com/conan-io/conan-center-index/pull/14046)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: giflib|0|||
 [#14047](https://github.com/conan-io/conan-center-index/pull/14047)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: glfw|0|||
 [#14048](https://github.com/conan-io/conan-center-index/pull/14048)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: json-c|0|||
 [#14049](https://github.com/conan-io/conan-center-index/pull/14049)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: libwebp|0|||
 [#14050](https://github.com/conan-io/conan-center-index/pull/14050)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: quirc|0|||
-[#14051](https://github.com/conan-io/conan-center-index/pull/14051)|[toge](https://github.com/toge)|Nov 5|:stopwatch: daw_json_link|0|||
-[#14052](https://github.com/conan-io/conan-center-index/pull/14052)|[datalogics-robb](https://github.com/datalogics-robb)|Nov 5|:stopwatch: expat|0|||
+[#14053](https://github.com/conan-io/conan-center-index/pull/14053)|[toge](https://github.com/toge)|Nov 5|:stopwatch: screen_capture_lite|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -132,9 +132,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 257
+	- Open: 258
 	- Draft: 28
-	- Average Age: 60 days, and 6.18 minutes
+	- Average Age: 59 days, 19 hours, and 36.23 minutes
 	- Stop Label: 123
 	
 
