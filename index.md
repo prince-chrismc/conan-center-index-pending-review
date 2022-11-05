@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **78** pull requests currently under way :detective:
+There are **85** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -87,15 +87,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14009](https://github.com/conan-io/conan-center-index/pull/14009)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: libelf|1|Nov 4||jwillikers
 [#14010](https://github.com/conan-io/conan-center-index/pull/14010)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: libdaemon|0|||
 [#14012](https://github.com/conan-io/conan-center-index/pull/14012)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: xqilla|0|||
+[#14014](https://github.com/conan-io/conan-center-index/pull/14014)|[paulharris](https://github.com/paulharris)|Nov 3|:stopwatch: libaec|1|Nov 4||
 [#14017](https://github.com/conan-io/conan-center-index/pull/14017)|[Sneder89](https://github.com/Sneder89)|Nov 4|:stopwatch: xapian-core|0|||
 [#14020](https://github.com/conan-io/conan-center-index/pull/14020)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 4|:memo: qt|1|Nov 4||jwillikers
 [#14024](https://github.com/conan-io/conan-center-index/pull/14024)|[github-actions[bot]](https://github.com/github-actions[bot])|Nov 4|:green_book: docs|0|||
-[#14025](https://github.com/conan-io/conan-center-index/pull/14025)|[toge](https://github.com/toge)|Nov 4|:memo: scnlib|0|||
+[#14025](https://github.com/conan-io/conan-center-index/pull/14025)|[toge](https://github.com/toge)|Nov 4|:stopwatch: scnlib|0|||
 [#14027](https://github.com/conan-io/conan-center-index/pull/14027)|[toge](https://github.com/toge)|Nov 4|:memo: lunasvg|0|:eyes:||
 [#14028](https://github.com/conan-io/conan-center-index/pull/14028)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libdeflate|0|||
 [#14031](https://github.com/conan-io/conan-center-index/pull/14031)|[partiallyderived](https://github.com/partiallyderived)|Nov 4|:green_book: docs|1|Nov 5||SSE4
 [#14032](https://github.com/conan-io/conan-center-index/pull/14032)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nasm|0|||
 [#14036](https://github.com/conan-io/conan-center-index/pull/14036)|[toge](https://github.com/toge)|Nov 5|:new: dragonbox|0|||
+[#14037](https://github.com/conan-io/conan-center-index/pull/14037)|[toge](https://github.com/toge)|Nov 5|:stopwatch: miniz|1|Nov 5||
 [#14038](https://github.com/conan-io/conan-center-index/pull/14038)|[EmilienBINET](https://github.com/EmilienBINET)|Nov 5|:stopwatch: cppcommon|0|||
 [#14039](https://github.com/conan-io/conan-center-index/pull/14039)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libconfuse|0|||
 [#14040](https://github.com/conan-io/conan-center-index/pull/14040)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: mariadb-connector-c|0|||
@@ -105,6 +107,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14045](https://github.com/conan-io/conan-center-index/pull/14045)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: cjson|0|||
 [#14046](https://github.com/conan-io/conan-center-index/pull/14046)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: giflib|0|||
 [#14047](https://github.com/conan-io/conan-center-index/pull/14047)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: glfw|0|||
+[#14048](https://github.com/conan-io/conan-center-index/pull/14048)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: json-c|0|||
+[#14049](https://github.com/conan-io/conan-center-index/pull/14049)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: libwebp|0|||
+[#14050](https://github.com/conan-io/conan-center-index/pull/14050)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: quirc|0|||
+[#14051](https://github.com/conan-io/conan-center-index/pull/14051)|[toge](https://github.com/toge)|Nov 5|:stopwatch: daw_json_link|0|||
+[#14052](https://github.com/conan-io/conan-center-index/pull/14052)|[datalogics-robb](https://github.com/datalogics-robb)|Nov 5|:stopwatch: expat|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -125,9 +132,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 252
+	- Open: 257
 	- Draft: 28
-	- Average Age: 61 days, 3 hours, and 37.97 minutes
+	- Average Age: 60 days, and 6.18 minutes
 	- Stop Label: 123
 	
 
