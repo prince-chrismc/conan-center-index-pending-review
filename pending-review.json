@@ -1139,7 +1139,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13967",
       "LastCommitSHA": "ae335513b4246ef8c25d8ee115d9bf9e54df9832",
       "LastCommitAt": "2022-11-03T12:22:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1619,24 +1619,6 @@
       "LastCommitSHA": "2f27bb0c8530febaee0e21fd22fd2d43fcd23949",
       "LastCommitAt": "2022-11-04T22:17:35Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14036,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-05T04:59:05Z",
-      "Recipe": "dragonbox",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14036",
-      "LastCommitSHA": "bdb4304b70be5bd0691f1a304179a2773bc3e598",
-      "LastCommitAt": "2022-11-05T04:56:54Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
