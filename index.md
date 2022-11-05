@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **68** pull requests currently under way :detective:
+There are **67** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13948](https://github.com/conan-io/conan-center-index/pull/13948)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: librdkafka|1|Nov 4||uilianries
 [#13964](https://github.com/conan-io/conan-center-index/pull/13964)|[MartinDelille](https://github.com/MartinDelille)|Nov 2|:memo: create-dmg|2|Nov 3||prince-chrismc
 [#13965](https://github.com/conan-io/conan-center-index/pull/13965)|[sourcedelica](https://github.com/sourcedelica)|Nov 2|:memo: easyexif|2|Nov 3||
-[#13967](https://github.com/conan-io/conan-center-index/pull/13967)|[toge](https://github.com/toge)|Nov 2|:stopwatch: lief|1|Nov 4||uilianries
+[#13967](https://github.com/conan-io/conan-center-index/pull/13967)|[toge](https://github.com/toge)|Nov 2|:memo: lief|1|Nov 4||uilianries
 [#13970](https://github.com/conan-io/conan-center-index/pull/13970)|[faithfracture](https://github.com/faithfracture)|Nov 2|:memo: boost|0|||
 [#13971](https://github.com/conan-io/conan-center-index/pull/13971)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 2|:green_book: docs|3|Nov 4||jwillikers
 [#13979](https://github.com/conan-io/conan-center-index/pull/13979)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: assimp|1|Nov 4||uilianries
@@ -94,7 +94,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14028](https://github.com/conan-io/conan-center-index/pull/14028)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:stopwatch: libdeflate|0|||
 [#14031](https://github.com/conan-io/conan-center-index/pull/14031)|[partiallyderived](https://github.com/partiallyderived)|Nov 4|:green_book: docs|1|Nov 5||SSE4
 [#14032](https://github.com/conan-io/conan-center-index/pull/14032)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nasm|0|||
-[#14036](https://github.com/conan-io/conan-center-index/pull/14036)|[toge](https://github.com/toge)|Nov 5|:stopwatch: dragonbox|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -117,8 +116,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 241
 	- Draft: 28
-	- Average Age: 63 days, 14 hours, and 38.86 minutes
-	- Stop Label: 123
+	- Average Age: 63 days, 15 hours, and 33.30 minutes
+	- Stop Label: 124
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
