@@ -2133,9 +2133,9 @@
       "Recipe": "libunistring",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14063",
-      "LastCommitSHA": "b791e218060d9fdf6ec87a53e57b5185d8dc9c27",
-      "LastCommitAt": "2022-11-05T22:20:07Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d70c09687f3f96004906ef70c42692c733715d3e",
+      "LastCommitAt": "2022-11-06T15:37:49Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
