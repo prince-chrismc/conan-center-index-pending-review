@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **108** pull requests currently under way :detective:
+There are **111** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -48,6 +48,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:stopwatch: libpng|1|Oct 30||prince-chrismc
 [#13792](https://github.com/conan-io/conan-center-index/pull/13792)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libsodium|5|Nov 3||
 [#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: catch2|8|Nov 4||
+[#13795](https://github.com/conan-io/conan-center-index/pull/13795)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: proj|0|||
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|:eyes:||
 [#13849](https://github.com/conan-io/conan-center-index/pull/13849)|[Nomalah](https://github.com/Nomalah)|Oct 28|:memo: openh264|7|Nov 3||prince-chrismc
 [#13851](https://github.com/conan-io/conan-center-index/pull/13851)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: libmp3lame|2|Nov 2||
@@ -116,7 +117,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14055](https://github.com/conan-io/conan-center-index/pull/14055)|[toge](https://github.com/toge)|Nov 5|:new: canvas_ity|0|||
 [#14056](https://github.com/conan-io/conan-center-index/pull/14056)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: xxhash|0|||
 [#14057](https://github.com/conan-io/conan-center-index/pull/14057)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: opus|0|||
-[#14058](https://github.com/conan-io/conan-center-index/pull/14058)|[Nekto89](https://github.com/Nekto89)|Nov 5|:stopwatch: qr-code-generator|0|||
+[#14058](https://github.com/conan-io/conan-center-index/pull/14058)|[Nekto89](https://github.com/Nekto89)|Nov 5|:memo: qr-code-generator|0|||
 [#14059](https://github.com/conan-io/conan-center-index/pull/14059)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: miniupnpc|0|||
 [#14060](https://github.com/conan-io/conan-center-index/pull/14060)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: zstd|0|||
 [#14061](https://github.com/conan-io/conan-center-index/pull/14061)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libev|0|||
@@ -124,29 +125,30 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14063](https://github.com/conan-io/conan-center-index/pull/14063)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libunistring|0|||
 [#14064](https://github.com/conan-io/conan-center-index/pull/14064)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: univalue|0|||
 [#14065](https://github.com/conan-io/conan-center-index/pull/14065)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: cppunit|0|||
+[#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:memo: openssl|0|||
 [#14068](https://github.com/conan-io/conan-center-index/pull/14068)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: tinycbor|0|||
 [#14069](https://github.com/conan-io/conan-center-index/pull/14069)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: picobench|0|||
 [#14070](https://github.com/conan-io/conan-center-index/pull/14070)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: clara|0|||
-[#14071](https://github.com/conan-io/conan-center-index/pull/14071)|[krsch](https://github.com/krsch)|Nov 6|:stopwatch: fastprng|1|Nov 6||
+[#14071](https://github.com/conan-io/conan-center-index/pull/14071)|[krsch](https://github.com/krsch)|Nov 6|:memo: fastprng|1|Nov 6||
 [#14072](https://github.com/conan-io/conan-center-index/pull/14072)|[krsch](https://github.com/krsch)|Nov 6|:memo: cajun-jsonapi|0|||
+[#14073](https://github.com/conan-io/conan-center-index/pull/14073)|[krsch](https://github.com/krsch)|Nov 6|:memo: bacnet-stack|0|||
 [#14074](https://github.com/conan-io/conan-center-index/pull/14074)|[Tradias](https://github.com/Tradias)|Nov 6|:memo: asio-grpc|0|||
-[#14075](https://github.com/conan-io/conan-center-index/pull/14075)|[psyinf](https://github.com/psyinf)|Nov 6|:stopwatch: psyinf-gmtl|2|Nov 6||
-[#14076](https://github.com/conan-io/conan-center-index/pull/14076)|[toge](https://github.com/toge)|Nov 6|:stopwatch: luau|0|||
-[#14079](https://github.com/conan-io/conan-center-index/pull/14079)|[toge](https://github.com/toge)|Nov 6|:stopwatch: lerc|0|||
+[#14075](https://github.com/conan-io/conan-center-index/pull/14075)|[psyinf](https://github.com/psyinf)|Nov 6|:stopwatch: psyinf-gmtl|4|Nov 6||
+[#14077](https://github.com/conan-io/conan-center-index/pull/14077)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: libiconv|0|||
 [#14080](https://github.com/conan-io/conan-center-index/pull/14080)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: pfr|0|||
-[#14081](https://github.com/conan-io/conan-center-index/pull/14081)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 6|:stopwatch: .c3i|0|||
+[#14081](https://github.com/conan-io/conan-center-index/pull/14081)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 6|:gear: .c3i|0|||
+[#14082](https://github.com/conan-io/conan-center-index/pull/14082)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 6|:stopwatch: meson|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:memo: llvm-core|6|prince-chrismc, intelligide, kou
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:warning: platform.hashing|4|prince-chrismc, uilianries
-[#13986](https://github.com/conan-io/conan-center-index/pull/13986)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 3|:gear: .c3i|5|danimtb, prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -155,10 +157,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 282
+	- Open: 281
 	- Draft: 26
-	- Average Age: 55 days, 17 hours, and 54.01 minutes
-	- Stop Label: 125
+	- Average Age: 56 days, and 19.75 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
