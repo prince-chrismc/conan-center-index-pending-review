@@ -2146,23 +2146,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14066,
-      "OpenedBy": "System-Arch",
-      "CreatedAt": "2022-11-06T03:08:20Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14066",
-      "LastCommitSHA": "49736078baa268cdb7b19ff3075dc7bf05ac479b",
-      "LastCommitAt": "2022-11-06T03:20:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
