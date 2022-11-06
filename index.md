@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **102** pull requests currently under way :detective:
+There are **108** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -121,14 +121,20 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14060](https://github.com/conan-io/conan-center-index/pull/14060)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: zstd|0|||
 [#14061](https://github.com/conan-io/conan-center-index/pull/14061)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libev|0|||
 [#14062](https://github.com/conan-io/conan-center-index/pull/14062)|[Doome161](https://github.com/Doome161)|Nov 5|:stopwatch: dbg-macro|0|||
-[#14063](https://github.com/conan-io/conan-center-index/pull/14063)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: libunistring|0|||
+[#14063](https://github.com/conan-io/conan-center-index/pull/14063)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libunistring|0|||
 [#14064](https://github.com/conan-io/conan-center-index/pull/14064)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: univalue|0|||
 [#14065](https://github.com/conan-io/conan-center-index/pull/14065)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: cppunit|0|||
 [#14068](https://github.com/conan-io/conan-center-index/pull/14068)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: tinycbor|0|||
 [#14069](https://github.com/conan-io/conan-center-index/pull/14069)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: picobench|0|||
 [#14070](https://github.com/conan-io/conan-center-index/pull/14070)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: clara|0|||
+[#14071](https://github.com/conan-io/conan-center-index/pull/14071)|[krsch](https://github.com/krsch)|Nov 6|:stopwatch: fastprng|1|Nov 6||
 [#14072](https://github.com/conan-io/conan-center-index/pull/14072)|[krsch](https://github.com/krsch)|Nov 6|:memo: cajun-jsonapi|0|||
-[#14074](https://github.com/conan-io/conan-center-index/pull/14074)|[Tradias](https://github.com/Tradias)|Nov 6|:stopwatch: asio-grpc|0|||
+[#14074](https://github.com/conan-io/conan-center-index/pull/14074)|[Tradias](https://github.com/Tradias)|Nov 6|:memo: asio-grpc|0|||
+[#14075](https://github.com/conan-io/conan-center-index/pull/14075)|[psyinf](https://github.com/psyinf)|Nov 6|:stopwatch: psyinf-gmtl|2|Nov 6||
+[#14076](https://github.com/conan-io/conan-center-index/pull/14076)|[toge](https://github.com/toge)|Nov 6|:stopwatch: luau|0|||
+[#14079](https://github.com/conan-io/conan-center-index/pull/14079)|[toge](https://github.com/toge)|Nov 6|:stopwatch: lerc|0|||
+[#14080](https://github.com/conan-io/conan-center-index/pull/14080)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: pfr|0|||
+[#14081](https://github.com/conan-io/conan-center-index/pull/14081)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 6|:stopwatch: .c3i|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -149,10 +155,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 276
+	- Open: 282
 	- Draft: 26
-	- Average Age: 56 days, 20 hours, and 59.87 minutes
-	- Stop Label: 124
+	- Average Age: 55 days, 17 hours, and 54.01 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
