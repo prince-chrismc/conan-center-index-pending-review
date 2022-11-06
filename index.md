@@ -121,7 +121,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14060](https://github.com/conan-io/conan-center-index/pull/14060)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: zstd|0|||
 [#14061](https://github.com/conan-io/conan-center-index/pull/14061)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libev|0|||
 [#14062](https://github.com/conan-io/conan-center-index/pull/14062)|[Doome161](https://github.com/Doome161)|Nov 5|:stopwatch: dbg-macro|0|||
-[#14063](https://github.com/conan-io/conan-center-index/pull/14063)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libunistring|0|||
+[#14063](https://github.com/conan-io/conan-center-index/pull/14063)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: libunistring|0|||
 [#14064](https://github.com/conan-io/conan-center-index/pull/14064)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: univalue|0|||
 [#14065](https://github.com/conan-io/conan-center-index/pull/14065)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: cppunit|0|||
 [#14068](https://github.com/conan-io/conan-center-index/pull/14068)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: tinycbor|0|||
@@ -149,10 +149,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 275
-	- Draft: 27
-	- Average Age: 57 days, and 53.66 minutes
-	- Stop Label: 123
+	- Open: 276
+	- Draft: 26
+	- Average Age: 56 days, 20 hours, and 59.87 minutes
+	- Stop Label: 124
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
