@@ -2084,7 +2084,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14060",
       "LastCommitSHA": "3fcdac4d42f3400a27f32a7a0c320a9f2cc6d40c",
       "LastCommitAt": "2022-11-05T20:30:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2148,32 +2148,14 @@
       }
    },
    {
-      "Number": 14064,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-11-05T23:06:27Z",
-      "Recipe": "univalue",
+      "Number": 14066,
+      "OpenedBy": "System-Arch",
+      "CreatedAt": "2022-11-06T03:08:20Z",
+      "Recipe": "openssl",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14064",
-      "LastCommitSHA": "831462660f7b6476ebbeb81bd2606b0bcc6b751f",
-      "LastCommitAt": "2022-11-05T23:13:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14065,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-11-06T00:39:40Z",
-      "Recipe": "cppunit",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14065",
-      "LastCommitSHA": "076a3fb932e6b200744ee6769c46bb773a7f9fce",
-      "LastCommitAt": "2022-11-06T00:38:26Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14066",
+      "LastCommitSHA": "49736078baa268cdb7b19ff3075dc7bf05ac479b",
+      "LastCommitAt": "2022-11-06T03:20:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
