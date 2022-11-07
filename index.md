@@ -48,7 +48,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13751](https://github.com/conan-io/conan-center-index/pull/13751)|[jwillikers](https://github.com/jwillikers)|Oct 25|:memo: libarchive|5|Nov 2||prince-chrismc
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:stopwatch: libpng|1|Oct 30||prince-chrismc
 [#13792](https://github.com/conan-io/conan-center-index/pull/13792)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libsodium|5|Nov 3||
-[#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: catch2|8|Nov 4||
+[#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: catch2|8|Nov 4||
 [#13795](https://github.com/conan-io/conan-center-index/pull/13795)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: proj|0|||
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|:eyes:||
 [#13845](https://github.com/conan-io/conan-center-index/pull/13845)|[planetmarshall](https://github.com/planetmarshall)|Oct 28|:memo: fontconfig|8|Nov 6||prince-chrismc
@@ -99,7 +99,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14025](https://github.com/conan-io/conan-center-index/pull/14025)|[toge](https://github.com/toge)|Nov 4|:memo: scnlib|0|||
 [#14027](https://github.com/conan-io/conan-center-index/pull/14027)|[toge](https://github.com/toge)|Nov 4|:memo: lunasvg|0|:eyes:||
 [#14028](https://github.com/conan-io/conan-center-index/pull/14028)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libdeflate|0|||
-[#14031](https://github.com/conan-io/conan-center-index/pull/14031)|[partiallyderived](https://github.com/partiallyderived)|Nov 4|:green_book: docs|1|Nov 5||SSE4
 [#14032](https://github.com/conan-io/conan-center-index/pull/14032)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nasm|0|||
 [#14036](https://github.com/conan-io/conan-center-index/pull/14036)|[toge](https://github.com/toge)|Nov 5|:new: dragonbox|0|||
 [#14037](https://github.com/conan-io/conan-center-index/pull/14037)|[toge](https://github.com/toge)|Nov 5|:memo: miniz|1|Nov 5||
@@ -115,6 +114,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14047](https://github.com/conan-io/conan-center-index/pull/14047)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: glfw|0|||
 [#14048](https://github.com/conan-io/conan-center-index/pull/14048)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: json-c|0|||
 [#14050](https://github.com/conan-io/conan-center-index/pull/14050)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: quirc|0|||
+[#14053](https://github.com/conan-io/conan-center-index/pull/14053)|[toge](https://github.com/toge)|Nov 5|:memo: screen_capture_lite|0|||
 [#14054](https://github.com/conan-io/conan-center-index/pull/14054)|[PatSche](https://github.com/PatSche)|Nov 5|:memo: ghc-filesystem|0|||
 [#14055](https://github.com/conan-io/conan-center-index/pull/14055)|[toge](https://github.com/toge)|Nov 5|:new: canvas_ity|0|||
 [#14056](https://github.com/conan-io/conan-center-index/pull/14056)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: xxhash|0|||
@@ -140,7 +140,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14080](https://github.com/conan-io/conan-center-index/pull/14080)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: pfr|0|||
 [#14081](https://github.com/conan-io/conan-center-index/pull/14081)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 6|:gear: .c3i|0|||
 [#14084](https://github.com/conan-io/conan-center-index/pull/14084)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: gsl|0|||
-[#14086](https://github.com/conan-io/conan-center-index/pull/14086)|[madebr](https://github.com/madebr)|Nov 7|:stopwatch: yasm|0|||
+[#14086](https://github.com/conan-io/conan-center-index/pull/14086)|[madebr](https://github.com/madebr)|Nov 7|:memo: yasm|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -160,10 +160,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 283
+	- Open: 282
 	- Draft: 26
-	- Average Age: 55 days, 19 hours, and 42.71 minutes
-	- Stop Label: 122
+	- Average Age: 56 days, 2 hours, and 32.29 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
