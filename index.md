@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **108** pull requests currently under way :detective:
+There are **111** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,6 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13511](https://github.com/conan-io/conan-center-index/pull/13511)|[paulharris](https://github.com/paulharris)|Oct 15|:memo: libxml2|11|Nov 4||
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|2|Oct 18 :bell:||prince-chrismc
 [#13605](https://github.com/conan-io/conan-center-index/pull/13605)|[paulharris](https://github.com/paulharris)|Oct 19|:memo: hdf5|3|Oct 30||
+[#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:stopwatch: lzham|0|||
 [#13650](https://github.com/conan-io/conan-center-index/pull/13650)|[madebr](https://github.com/madebr)|Oct 21|:stopwatch: ulfius|3|Nov 7||
 [#13706](https://github.com/conan-io/conan-center-index/pull/13706)|[System-Arch](https://github.com/System-Arch)|Oct 23|:memo: zlib|1|Nov 2||prince-chrismc
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2||prince-chrismc
@@ -135,6 +136,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14087](https://github.com/conan-io/conan-center-index/pull/14087)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 7|:memo: mingw-builds|0|||
 [#14089](https://github.com/conan-io/conan-center-index/pull/14089)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 7|:memo: libpng|0|||
 [#14090](https://github.com/conan-io/conan-center-index/pull/14090)|[ElliotMugner](https://github.com/ElliotMugner)|Nov 7|:stopwatch: proj|0|||
+[#14099](https://github.com/conan-io/conan-center-index/pull/14099)|[partiallyderived](https://github.com/partiallyderived)|Nov 7|:stopwatch: docs|1|Nov 7||prince-chrismc
+[#14100](https://github.com/conan-io/conan-center-index/pull/14100)|[grafikrobot](https://github.com/grafikrobot)|Nov 7|:stopwatch: lyra|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -166,9 +169,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 275
+	- Open: 278
 	- Draft: 25
-	- Average Age: 55 days, 6 hours, and 49.66 minutes
+	- Average Age: 54 days, 19 hours, and 6.49 minutes
 	- Stop Label: 112
 	
 
