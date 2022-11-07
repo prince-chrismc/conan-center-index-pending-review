@@ -57,7 +57,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13854](https://github.com/conan-io/conan-center-index/pull/13854)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: glslang|1|Oct 31||prince-chrismc
 [#13860](https://github.com/conan-io/conan-center-index/pull/13860)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: make|4|Nov 4||uilianries
 [#13861](https://github.com/conan-io/conan-center-index/pull/13861)|[petrovito](https://github.com/petrovito)|Oct 29|:stopwatch: onetbb|1|Nov 2||uilianries
-[#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:stopwatch: bx|1|Nov 2||
 [#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:new: libdmtx|3|Nov 2||prince-chrismc
 [#13875](https://github.com/conan-io/conan-center-index/pull/13875)|[AlvaroFS](https://github.com/AlvaroFS)|Oct 30|:memo: embree3|0|||
 [#13877](https://github.com/conan-io/conan-center-index/pull/13877)|[toge](https://github.com/toge)|Oct 30|:memo: icu|1|Nov 1||prince-chrismc
@@ -136,6 +135,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14073](https://github.com/conan-io/conan-center-index/pull/14073)|[krsch](https://github.com/krsch)|Nov 6|:memo: bacnet-stack|0|||
 [#14074](https://github.com/conan-io/conan-center-index/pull/14074)|[Tradias](https://github.com/Tradias)|Nov 6|:memo: asio-grpc|0|||
 [#14075](https://github.com/conan-io/conan-center-index/pull/14075)|[psyinf](https://github.com/psyinf)|Nov 6|:memo: psyinf-gmtl|4|Nov 6||
+[#14076](https://github.com/conan-io/conan-center-index/pull/14076)|[toge](https://github.com/toge)|Nov 6|:memo: luau|0|||
 [#14077](https://github.com/conan-io/conan-center-index/pull/14077)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: libiconv|0|||
 [#14080](https://github.com/conan-io/conan-center-index/pull/14080)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: pfr|0|||
 [#14081](https://github.com/conan-io/conan-center-index/pull/14081)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 6|:gear: .c3i|0|||
@@ -160,10 +160,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 282
-	- Draft: 26
-	- Average Age: 56 days, 2 hours, and 32.29 minutes
-	- Stop Label: 121
+	- Open: 276
+	- Draft: 25
+	- Average Age: 55 days, 16 hours, and 27.99 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
