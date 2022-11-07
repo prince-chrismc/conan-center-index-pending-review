@@ -613,15 +613,17 @@
       "LastCommitAt": "2022-11-06T18:58:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 8,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-11-04T16:15:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13845#pullrequestreview-1168818289"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-11-06T23:34:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13845#pullrequestreview-1169672938"
          }
       }
    },
@@ -2447,6 +2449,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14084",
       "LastCommitSHA": "bcdc1bb264189658d38415b6de5e4323abcfc953",
       "LastCommitAt": "2022-11-06T22:17:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14086,
+      "OpenedBy": "madebr",
+      "CreatedAt": "2022-11-07T01:00:40Z",
+      "Recipe": "yasm",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14086",
+      "LastCommitSHA": "d9744a597e05cb471e1bbcbddc65ff8ff3eaabc5",
+      "LastCommitAt": "2022-11-07T00:55:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
