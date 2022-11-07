@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **114** pull requests currently under way :detective:
+There are **116** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -83,6 +83,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13979](https://github.com/conan-io/conan-center-index/pull/13979)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: assimp|1|Nov 4||uilianries
 [#13980](https://github.com/conan-io/conan-center-index/pull/13980)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: gdcm|1|Nov 4||uilianries
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:stopwatch: c-dbg-macro|1|Nov 4||
+[#13982](https://github.com/conan-io/conan-center-index/pull/13982)|[AlexandrePTJ](https://github.com/AlexandrePTJ)|Nov 3|:stopwatch: fast_double_parser|1|Nov 4||
 [#13985](https://github.com/conan-io/conan-center-index/pull/13985)|[jngrb](https://github.com/jngrb)|Nov 3|:memo: expat|1|Nov 3||prince-chrismc
 [#13990](https://github.com/conan-io/conan-center-index/pull/13990)|[paulharris](https://github.com/paulharris)|Nov 3|:memo: libharu|1|Nov 3||
 [#14003](https://github.com/conan-io/conan-center-index/pull/14003)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: eigen|1|Nov 4||jwillikers
@@ -100,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14028](https://github.com/conan-io/conan-center-index/pull/14028)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libdeflate|0|||
 [#14032](https://github.com/conan-io/conan-center-index/pull/14032)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nasm|0|||
 [#14036](https://github.com/conan-io/conan-center-index/pull/14036)|[toge](https://github.com/toge)|Nov 5|:new: dragonbox|0|||
-[#14037](https://github.com/conan-io/conan-center-index/pull/14037)|[toge](https://github.com/toge)|Nov 5|:memo: miniz|1|Nov 5||
+[#14037](https://github.com/conan-io/conan-center-index/pull/14037)|[toge](https://github.com/toge)|Nov 5|:stopwatch: miniz|1|Nov 5||
 [#14038](https://github.com/conan-io/conan-center-index/pull/14038)|[EmilienBINET](https://github.com/EmilienBINET)|Nov 5|:stopwatch: cppcommon|0|||
 [#14039](https://github.com/conan-io/conan-center-index/pull/14039)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libconfuse|0|||
 [#14040](https://github.com/conan-io/conan-center-index/pull/14040)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: mariadb-connector-c|0|||
@@ -140,7 +141,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14080](https://github.com/conan-io/conan-center-index/pull/14080)|[Doome161](https://github.com/Doome161)|Nov 6|:stopwatch: pfr|0|||
 [#14081](https://github.com/conan-io/conan-center-index/pull/14081)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 6|:gear: .c3i|0|||
 [#14084](https://github.com/conan-io/conan-center-index/pull/14084)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: gsl|0|||
-[#14086](https://github.com/conan-io/conan-center-index/pull/14086)|[madebr](https://github.com/madebr)|Nov 7|:memo: yasm|0|||
+[#14086](https://github.com/conan-io/conan-center-index/pull/14086)|[madebr](https://github.com/madebr)|Nov 7|:memo: yasm|1|Nov 7||SpaceIm
+[#14087](https://github.com/conan-io/conan-center-index/pull/14087)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 7|:memo: mingw-builds|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -160,10 +162,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 276
-	- Draft: 25
-	- Average Age: 55 days, 16 hours, and 27.99 minutes
-	- Stop Label: 116
+	- Open: 273
+	- Draft: 24
+	- Average Age: 55 days, 5 hours, and 34.30 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
