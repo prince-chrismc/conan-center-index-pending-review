@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **111** pull requests currently under way :detective:
+There are **114** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -138,6 +138,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14090](https://github.com/conan-io/conan-center-index/pull/14090)|[ElliotMugner](https://github.com/ElliotMugner)|Nov 7|:stopwatch: proj|0|||
 [#14099](https://github.com/conan-io/conan-center-index/pull/14099)|[partiallyderived](https://github.com/partiallyderived)|Nov 7|:stopwatch: docs|1|Nov 7||prince-chrismc
 [#14100](https://github.com/conan-io/conan-center-index/pull/14100)|[grafikrobot](https://github.com/grafikrobot)|Nov 7|:stopwatch: lyra|0|||
+[#14101](https://github.com/conan-io/conan-center-index/pull/14101)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:stopwatch: termcap|0|||
+[#14102](https://github.com/conan-io/conan-center-index/pull/14102)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:stopwatch: mpark-variant|0|||
+[#14103](https://github.com/conan-io/conan-center-index/pull/14103)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:stopwatch: gmp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -169,9 +172,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b64a8ed491bb1f4e2b636d8cb8f173ab83507513
 - Pull Requests:
-	- Open: 278
+	- Open: 281
 	- Draft: 25
-	- Average Age: 54 days, 19 hours, and 6.49 minutes
+	- Average Age: 54 days, 6 hours, and 55.32 minutes
 	- Stop Label: 112
 	
 
