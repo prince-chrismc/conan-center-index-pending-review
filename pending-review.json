@@ -2031,6 +2031,24 @@
       }
    },
    {
+      "Number": 14066,
+      "OpenedBy": "System-Arch",
+      "CreatedAt": "2022-11-06T03:08:20Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14066",
+      "LastCommitSHA": "fecba6bc4d561733b23e70d2931d7dbc41cb381c",
+      "LastCommitAt": "2022-11-09T02:30:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14068,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-06T10:27:27Z",
