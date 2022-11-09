@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **74** pull requests currently under way :detective:
+There are **73** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14054](https://github.com/conan-io/conan-center-index/pull/14054)|[PatSche](https://github.com/PatSche)|Nov 5|:memo: ghc-filesystem|1|Nov 8||
 [#14055](https://github.com/conan-io/conan-center-index/pull/14055)|[toge](https://github.com/toge)|Nov 5|:new: canvas_ity|1|Nov 8||
 [#14057](https://github.com/conan-io/conan-center-index/pull/14057)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: opus|3|Nov 9||MartinDelille
-[#14058](https://github.com/conan-io/conan-center-index/pull/14058)|[Nekto89](https://github.com/Nekto89)|Nov 5|:stopwatch: qr-code-generator|0|||
+[#14058](https://github.com/conan-io/conan-center-index/pull/14058)|[Nekto89](https://github.com/Nekto89)|Nov 5|:stopwatch: qr-code-generator|0|:eyes:||
 [#14061](https://github.com/conan-io/conan-center-index/pull/14061)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libev|1|Nov 8||uilianries
 [#14062](https://github.com/conan-io/conan-center-index/pull/14062)|[Doome161](https://github.com/Doome161)|Nov 5|:stopwatch: dbg-macro|1|Nov 8||
 [#14063](https://github.com/conan-io/conan-center-index/pull/14063)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libunistring|1|Nov 8||uilianries
@@ -98,14 +98,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14109](https://github.com/conan-io/conan-center-index/pull/14109)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:memo: libxcrypt|0|||
 [#14113](https://github.com/conan-io/conan-center-index/pull/14113)|[toge](https://github.com/toge)|Nov 8|:memo: osmanip|0|||
 [#14114](https://github.com/conan-io/conan-center-index/pull/14114)|[toge](https://github.com/toge)|Nov 8|:memo: qhull|0|||
-[#14115](https://github.com/conan-io/conan-center-index/pull/14115)|[RazielXYZ](https://github.com/RazielXYZ)|Nov 8|:memo: cccl|1|Nov 8||
 [#14118](https://github.com/conan-io/conan-center-index/pull/14118)|[SpaceIm](https://github.com/SpaceIm)|Nov 9|:memo: autoconf|0|||
-[#14119](https://github.com/conan-io/conan-center-index/pull/14119)|[SpaceIm](https://github.com/SpaceIm)|Nov 9|:memo: create-dmg|0|||
+[#14119](https://github.com/conan-io/conan-center-index/pull/14119)|[SpaceIm](https://github.com/SpaceIm)|Nov 9|:memo: create-dmg|1|Nov 9||ericLemanissier
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **25** pull requests are waiting to be merged :tada:
+Currently **23** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -115,8 +114,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13861](https://github.com/conan-io/conan-center-index/pull/13861)|[petrovito](https://github.com/petrovito)|Oct 29|:warning: onetbb|2|uilianries, ericLemanissier
 [#13971](https://github.com/conan-io/conan-center-index/pull/13971)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 2|:green_book: docs|4|jwillikers, uilianries
 [#13985](https://github.com/conan-io/conan-center-index/pull/13985)|[jngrb](https://github.com/jngrb)|Nov 3|:memo: expat|3|prince-chrismc, uilianries, SpaceIm
-[#14028](https://github.com/conan-io/conan-center-index/pull/14028)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libdeflate|2|uilianries, ericLemanissier
-[#14032](https://github.com/conan-io/conan-center-index/pull/14032)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nasm|2|uilianries, ericLemanissier
 [#14037](https://github.com/conan-io/conan-center-index/pull/14037)|[toge](https://github.com/toge)|Nov 5|:memo: miniz|3|uilianries, ericLemanissier
 [#14040](https://github.com/conan-io/conan-center-index/pull/14040)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: mariadb-connector-c|2|uilianries, ericLemanissier
 [#14041](https://github.com/conan-io/conan-center-index/pull/14041)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: mongo-c-driver|2|uilianries, ericLemanissier
@@ -143,9 +140,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 07755d5d2ab6da435cddf7781743ab05b29988ee
 - Pull Requests:
-	- Open: 260
+	- Open: 258
 	- Draft: 23
-	- Average Age: 57 days, 21 hours, and 39.41 minutes
+	- Average Age: 58 days, 8 hours, and 31.97 minutes
 	- Stop Label: 117
 	
 
