@@ -446,7 +446,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13826",
       "LastCommitSHA": "efad6585280a3b1bdee9d36a2ac67f9498751ae9",
       "LastCommitAt": "2022-11-09T20:15:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -492,7 +492,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13849",
       "LastCommitSHA": "9f6d17507e8336393c6cf560666cbd9b2cb9eae0",
       "LastCommitAt": "2022-11-09T19:47:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -1549,32 +1549,6 @@
       }
    },
    {
-      "Number": 14076,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-06T16:51:29Z",
-      "Recipe": "luau",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14076",
-      "LastCommitSHA": "1fa40fb8067ce4e9fcad7f054531b10b643af1e2",
-      "LastCommitAt": "2022-11-07T00:46:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-11-09T10:23:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14076#pullrequestreview-1173761735"
-         }
-      }
-   },
-   {
       "Number": 14077,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-06T16:53:13Z",
@@ -1695,32 +1669,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-11-08T16:50:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14084#pullrequestreview-1172499355"
-         }
-      }
-   },
-   {
-      "Number": 14086,
-      "OpenedBy": "madebr",
-      "CreatedAt": "2022-11-07T01:00:40Z",
-      "Recipe": "yasm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14086",
-      "LastCommitSHA": "1a88cbf3f5121fce930a3232d915a56af84a4002",
-      "LastCommitAt": "2022-11-07T19:42:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-08T03:51:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14086#pullrequestreview-1171398114"
          }
       }
    },
@@ -1971,9 +1919,9 @@
       "Recipe": "cccl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14115",
-      "LastCommitSHA": "6d077a1a4068456e0e83e9138a0a66d080b29d6d",
-      "LastCommitAt": "2022-11-09T21:16:58Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "94c1e29fcddde9d620c1e665a50da49cee4ca5d1",
+      "LastCommitAt": "2022-11-09T21:31:12Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -2047,6 +1995,24 @@
       "LastCommitSHA": "5b9df040e51dc14debc869902df4d5f215916fca",
       "LastCommitAt": "2022-11-09T16:19:04Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14129,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-09T21:52:06Z",
+      "Recipe": "libfuse",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14129",
+      "LastCommitSHA": "37379cde127a3d0eaa5ae07aeca1b53b957d2137",
+      "LastCommitAt": "2022-11-09T21:51:42Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
