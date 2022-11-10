@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **82** pull requests currently under way :detective:
+There are **81** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -44,7 +44,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13792](https://github.com/conan-io/conan-center-index/pull/13792)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: libsodium|5|Nov 3||
 [#13795](https://github.com/conan-io/conan-center-index/pull/13795)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: proj|0|||
 [#13821](https://github.com/conan-io/conan-center-index/pull/13821)|[roedhaetten](https://github.com/roedhaetten)|Oct 27|:stopwatch: gdal|0|:eyes:||
-[#13826](https://github.com/conan-io/conan-center-index/pull/13826)|[Nomalah](https://github.com/Nomalah)|Oct 28|:new: dbcppp|5|Oct 30||
 [#13844](https://github.com/conan-io/conan-center-index/pull/13844)|[nassipkali](https://github.com/nassipkali)|Oct 28|:memo: platform.hashing|5|Nov 7||
 [#13849](https://github.com/conan-io/conan-center-index/pull/13849)|[Nomalah](https://github.com/Nomalah)|Oct 28|:memo: openh264|8|Nov 9||
 [#13854](https://github.com/conan-io/conan-center-index/pull/13854)|[SpaceIm](https://github.com/SpaceIm)|Oct 29|:memo: glslang|1|Oct 31||prince-chrismc
@@ -134,7 +133,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 246
 	- Draft: 26
-	- Average Age: 61 days, 8 hours, and 59.48 minutes
+	- Average Age: 61 days, 11 hours, and 11.41 minutes
 	- Stop Label: 117
 	
 
