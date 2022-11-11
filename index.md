@@ -102,7 +102,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -114,8 +114,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14081](https://github.com/conan-io/conan-center-index/pull/14081)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 6|:gear: .c3i|3|danimtb, franramirez688, uilianries
 [#14134](https://github.com/conan-io/conan-center-index/pull/14134)|[danimtb](https://github.com/danimtb)|Nov 10|:gear: .c3i|2|uilianries, prince-chrismc
 [#14139](https://github.com/conan-io/conan-center-index/pull/14139)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:warning: boost|2|prince-chrismc, uilianries
-[#14141](https://github.com/conan-io/conan-center-index/pull/14141)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: libunwind|2|uilianries, ericLemanissier
-[#14144](https://github.com/conan-io/conan-center-index/pull/14144)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: gtest|2|uilianries, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -124,9 +122,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 237
+	- Open: 235
 	- Draft: 29
-	- Average Age: 64 days, 3 hours, and 33.98 minutes
+	- Average Age: 64 days, 17 hours, and 25.42 minutes
 	- Stop Label: 112
 	
 
