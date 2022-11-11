@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13826](https://github.com/conan-io/conan-center-index/pull/13826)|[Nomalah](https://github.com/Nomalah)|Oct 28|:new: dbcppp|7|Nov 11||uilianries
 [#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:new: libdmtx|4|Nov 9||prince-chrismc
 [#13885](https://github.com/conan-io/conan-center-index/pull/13885)|[toge](https://github.com/toge)|Oct 31|:memo: mppp|7|Nov 10||uilianries
-[#13942](https://github.com/conan-io/conan-center-index/pull/13942)|[planetmarshall](https://github.com/planetmarshall)|Nov 1|:stopwatch: harfbuzz|3|Nov 7||
+[#13942](https://github.com/conan-io/conan-center-index/pull/13942)|[planetmarshall](https://github.com/planetmarshall)|Nov 1|:memo: harfbuzz|3|Nov 7||
 [#13947](https://github.com/conan-io/conan-center-index/pull/13947)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: poco|1|Nov 11||uilianries
 [#13949](https://github.com/conan-io/conan-center-index/pull/13949)|[toge](https://github.com/toge)|Nov 2|:memo: expat|3|Nov 11||uilianries
 [#13959](https://github.com/conan-io/conan-center-index/pull/13959)|[garethsb](https://github.com/garethsb)|Nov 2|:memo: json-schema-validator|6|Nov 11||uilianries
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14150](https://github.com/conan-io/conan-center-index/pull/14150)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:new: xlnt|1|Nov 11||uilianries
 [#14151](https://github.com/conan-io/conan-center-index/pull/14151)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: entt|0|||
 [#14153](https://github.com/conan-io/conan-center-index/pull/14153)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: libpng|0|||
-[#14155](https://github.com/conan-io/conan-center-index/pull/14155)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:stopwatch: tracy|0|||
+[#14155](https://github.com/conan-io/conan-center-index/pull/14155)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: tracy|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -123,7 +123,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 230
 	- Draft: 28
-	- Average Age: 66 days, 10 hours, and 35.82 minutes
+	- Average Age: 66 days, 11 hours, and 39.68 minutes
 	- Stop Label: 111
 	
 
