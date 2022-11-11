@@ -530,16 +530,14 @@
       "Recipe": "harfbuzz",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13942",
-      "LastCommitSHA": "155f73feec89dd74e570a5c556316bc9d0984cac",
-      "LastCommitAt": "2022-11-04T21:02:30Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "846cd4937c9e8ddbeac70b7a1d821b118fa44255",
+      "LastCommitAt": "2022-11-11T16:37:55Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
