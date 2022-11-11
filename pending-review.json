@@ -48,7 +48,7 @@
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
-         "TeamApproval": true,
+         "TeamApproval": false,
          "Approvals": [
             "SSE4"
          ],
@@ -73,7 +73,7 @@
       "Summary": {
          "Count": 18,
          "ValidApprovals": 1,
-         "TeamApproval": true,
+         "TeamApproval": false,
          "Approvals": [
             "SSE4"
          ],
@@ -526,7 +526,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13890",
       "LastCommitSHA": "66288da989effec89652ca9dc8f7c53b8d606c2e",
       "LastCommitAt": "2022-11-10T10:22:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -597,16 +597,14 @@
       "Recipe": "json-schema-validator",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13959",
-      "LastCommitSHA": "39c87aee7fd98cf2d124bf881f19d12f5b68abde",
-      "LastCommitAt": "2022-11-10T12:03:42Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "11c99e0329b4eff2421aa8c68f375b5ca81c1c1b",
+      "LastCommitAt": "2022-11-11T10:32:21Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -1363,33 +1361,6 @@
       }
    },
    {
-      "Number": 14081,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2022-11-06T17:42:52Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14081",
-      "LastCommitSHA": "07342377b14b8e99bf4a85936c64d3ef6dccdfa5",
-      "LastCommitAt": "2022-11-06T17:32:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb",
-            "franramirez688",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-11-10T08:01:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14081#pullrequestreview-1175229808"
-         }
-      }
-   },
-   {
       "Number": 14084,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-06T22:17:19Z",
@@ -1701,7 +1672,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14136",
       "LastCommitSHA": "e70a8d2da76aa92b2b4dd0316706ebd3d5df6070",
       "LastCommitAt": "2022-11-10T12:03:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
