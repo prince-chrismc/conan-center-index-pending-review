@@ -1838,8 +1838,8 @@
       "Recipe": "icu",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14156",
-      "LastCommitSHA": "de3b1df65191da40b244049fb0bc9c18d42941bd",
-      "LastCommitAt": "2022-11-12T00:46:46Z",
+      "LastCommitSHA": "faf561ba35550a22900165e9aa725db2ee9a1c84",
+      "LastCommitAt": "2022-11-12T01:15:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
