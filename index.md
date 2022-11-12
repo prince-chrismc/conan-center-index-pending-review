@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **76** pull requests currently under way :detective:
+There are **75** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,7 +46,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13826](https://github.com/conan-io/conan-center-index/pull/13826)|[Nomalah](https://github.com/Nomalah)|Oct 28|:new: dbcppp|7|Nov 11||uilianries
 [#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:new: libdmtx|4|Nov 9||prince-chrismc
 [#13885](https://github.com/conan-io/conan-center-index/pull/13885)|[toge](https://github.com/toge)|Oct 31|:memo: mppp|7|Nov 10||uilianries
-[#13942](https://github.com/conan-io/conan-center-index/pull/13942)|[planetmarshall](https://github.com/planetmarshall)|Nov 1|:memo: harfbuzz|3|Nov 7||
 [#13947](https://github.com/conan-io/conan-center-index/pull/13947)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: poco|1|Nov 11||uilianries
 [#13949](https://github.com/conan-io/conan-center-index/pull/13949)|[toge](https://github.com/toge)|Nov 2|:memo: expat|3|Nov 11||uilianries
 [#13959](https://github.com/conan-io/conan-center-index/pull/13959)|[garethsb](https://github.com/garethsb)|Nov 2|:memo: json-schema-validator|6|Nov 11||uilianries
@@ -102,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14153](https://github.com/conan-io/conan-center-index/pull/14153)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: libpng|0|||
 [#14155](https://github.com/conan-io/conan-center-index/pull/14155)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: tracy|0|||
 [#14158](https://github.com/conan-io/conan-center-index/pull/14158)|[toge](https://github.com/toge)|Nov 12|:memo: glaze|0|||
-[#14162](https://github.com/conan-io/conan-center-index/pull/14162)|[MartinDelille](https://github.com/MartinDelille)|Nov 12|:stopwatch: quazip|0|||
+[#14162](https://github.com/conan-io/conan-center-index/pull/14162)|[MartinDelille](https://github.com/MartinDelille)|Nov 12|:memo: quazip|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -124,10 +123,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 234
+	- Open: 235
 	- Draft: 27
-	- Average Age: 65 days, 16 hours, and 22.30 minutes
-	- Stop Label: 113
+	- Average Age: 65 days, 11 hours, and 29.38 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
