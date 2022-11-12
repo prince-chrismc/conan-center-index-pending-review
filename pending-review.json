@@ -1711,7 +1711,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14147",
       "LastCommitSHA": "0421cf6e5c8cbbfe85ff5bfa432465aa16203e1c",
       "LastCommitAt": "2022-11-10T18:20:08Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1823,24 +1823,6 @@
       "LastCommitSHA": "c72556671cabaea06f534ff73eb052ca08a57781",
       "LastCommitAt": "2022-11-11T19:02:26Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14156,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-11-12T00:48:42Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14156",
-      "LastCommitSHA": "faf561ba35550a22900165e9aa725db2ee9a1c84",
-      "LastCommitAt": "2022-11-12T01:15:26Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
