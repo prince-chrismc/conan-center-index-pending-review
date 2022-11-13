@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **76** pull requests currently under way :detective:
+There are **77** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -88,11 +88,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14111](https://github.com/conan-io/conan-center-index/pull/14111)|[toge](https://github.com/toge)|Nov 8|:memo: arrow|2|Nov 10||uilianries
 [#14114](https://github.com/conan-io/conan-center-index/pull/14114)|[toge](https://github.com/toge)|Nov 8|:memo: qhull|0|:eyes:||
 [#14115](https://github.com/conan-io/conan-center-index/pull/14115)|[RazielXYZ](https://github.com/RazielXYZ)|Nov 8|:memo: cccl|8|Nov 9||
+[#14123](https://github.com/conan-io/conan-center-index/pull/14123)|[dvirtz](https://github.com/dvirtz)|Nov 9|:new: winmd|0|||
 [#14129](https://github.com/conan-io/conan-center-index/pull/14129)|[SpaceIm](https://github.com/SpaceIm)|Nov 9|:memo: libfuse|1|Nov 10||uilianries
 [#14130](https://github.com/conan-io/conan-center-index/pull/14130)|[toge](https://github.com/toge)|Nov 10|:memo: grpc|1|Nov 11||uilianries
 [#14136](https://github.com/conan-io/conan-center-index/pull/14136)|[Nekto89](https://github.com/Nekto89)|Nov 10|:memo: onetbb|0|:eyes:||
 [#14137](https://github.com/conan-io/conan-center-index/pull/14137)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 10|:memo: binutils|0|||
-[#14140](https://github.com/conan-io/conan-center-index/pull/14140)|[Ignition](https://github.com/Ignition)|Nov 10|:stopwatch: pybind11|0|||
+[#14140](https://github.com/conan-io/conan-center-index/pull/14140)|[Ignition](https://github.com/Ignition)|Nov 10|:stopwatch: pybind11|0|:eyes:||
 [#14145](https://github.com/conan-io/conan-center-index/pull/14145)|[toge](https://github.com/toge)|Nov 10|:new: gzip-hpp|1|Nov 11||uilianries
 [#14147](https://github.com/conan-io/conan-center-index/pull/14147)|[toge](https://github.com/toge)|Nov 10|:memo: uwebsockets|1|Nov 11||uilianries
 [#14148](https://github.com/conan-io/conan-center-index/pull/14148)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: hash-library|1|Nov 11||uilianries
@@ -102,7 +103,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14155](https://github.com/conan-io/conan-center-index/pull/14155)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: tracy|0|||
 [#14158](https://github.com/conan-io/conan-center-index/pull/14158)|[toge](https://github.com/toge)|Nov 12|:memo: glaze|0|||
 [#14162](https://github.com/conan-io/conan-center-index/pull/14162)|[MartinDelille](https://github.com/MartinDelille)|Nov 12|:memo: quazip|0|||
-[#14172](https://github.com/conan-io/conan-center-index/pull/14172)|[planetmarshall](https://github.com/planetmarshall)|Nov 13|:stopwatch: libgettext|0|||
+[#14173](https://github.com/conan-io/conan-center-index/pull/14173)|[upsj](https://github.com/upsj)|Nov 13|:stopwatch: ginkgo|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -124,10 +125,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 235
-	- Draft: 26
-	- Average Age: 66 days, 3 hours, and 59.35 minutes
-	- Stop Label: 113
+	- Open: 236
+	- Draft: 25
+	- Average Age: 65 days, 22 hours, and 20.71 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
