@@ -1861,5 +1861,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14172,
+      "OpenedBy": "planetmarshall",
+      "CreatedAt": "2022-11-13T14:31:33Z",
+      "Recipe": "libgettext",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14172",
+      "LastCommitSHA": "0fe1afa4b70da2ea59267aacea8d060ebc58b72f",
+      "LastCommitAt": "2022-11-13T10:12:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
