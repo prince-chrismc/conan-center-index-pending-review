@@ -1881,24 +1881,6 @@
       }
    },
    {
-      "Number": 14174,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-13T17:39:46Z",
-      "Recipe": "mimalloc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14174",
-      "LastCommitSHA": "37643f1c08a49714f787a74777a00e50a2d731ea",
-      "LastCommitAt": "2022-11-13T17:39:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 14175,
       "OpenedBy": "toge",
       "CreatedAt": "2022-11-13T17:56:11Z",
@@ -1907,7 +1889,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14175",
       "LastCommitSHA": "cb4c47cdd9e00e53b0cd936501cc03c68a1d12d1",
       "LastCommitAt": "2022-11-13T17:53:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
