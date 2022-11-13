@@ -1643,9 +1643,9 @@
       "Recipe": "binutils",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14137",
-      "LastCommitSHA": "527f5b46a3e5073cc27643d95949b5d0fe301923",
-      "LastCommitAt": "2022-11-12T04:23:37Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "9617cc09b2a912f4c03e966f3eb2401dc1a3532b",
+      "LastCommitAt": "2022-11-13T09:09:58Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
