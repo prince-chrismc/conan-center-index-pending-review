@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **77** pull requests currently under way :detective:
+There are **78** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -103,7 +103,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14155](https://github.com/conan-io/conan-center-index/pull/14155)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: tracy|0|||
 [#14158](https://github.com/conan-io/conan-center-index/pull/14158)|[toge](https://github.com/toge)|Nov 12|:memo: glaze|0|||
 [#14162](https://github.com/conan-io/conan-center-index/pull/14162)|[MartinDelille](https://github.com/MartinDelille)|Nov 12|:memo: quazip|0|||
-[#14173](https://github.com/conan-io/conan-center-index/pull/14173)|[upsj](https://github.com/upsj)|Nov 13|:stopwatch: ginkgo|0|||
+[#14174](https://github.com/conan-io/conan-center-index/pull/14174)|[toge](https://github.com/toge)|Nov 13|:stopwatch: mimalloc|0|||
+[#14175](https://github.com/conan-io/conan-center-index/pull/14175)|[toge](https://github.com/toge)|Nov 13|:stopwatch: simdutf|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -125,10 +126,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 236
+	- Open: 238
 	- Draft: 25
-	- Average Age: 65 days, 22 hours, and 20.71 minutes
-	- Stop Label: 114
+	- Average Age: 65 days, 10 hours, and 59.92 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
