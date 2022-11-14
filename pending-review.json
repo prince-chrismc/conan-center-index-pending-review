@@ -628,16 +628,14 @@
       "Recipe": "json-schema-validator",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13959",
-      "LastCommitSHA": "11c99e0329b4eff2421aa8c68f375b5ca81c1c1b",
-      "LastCommitAt": "2022-11-11T10:32:21Z",
+      "LastCommitSHA": "ff671dcf26ffcba589b68cf0ddaf9839bd3564a1",
+      "LastCommitAt": "2022-11-14T09:25:50Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -1965,14 +1963,14 @@
       }
    },
    {
-      "Number": 14177,
-      "OpenedBy": "SSE4",
-      "CreatedAt": "2022-11-14T07:47:52Z",
-      "Recipe": "ffmpeg",
+      "Number": 14179,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-11-14T09:37:25Z",
+      "Recipe": "diligent-core",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14177",
-      "LastCommitSHA": "ff7ad5f3d32e06ab62fcdc231b19b39509e779d3",
-      "LastCommitAt": "2022-11-14T07:47:22Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14179",
+      "LastCommitSHA": "8cb4b1f5050d82fc3e10024c43c6f61e5572a6a6",
+      "LastCommitAt": "2022-11-14T09:36:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
