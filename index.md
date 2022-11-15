@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **62** pull requests currently under way :detective:
+There are **64** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -81,6 +81,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14158](https://github.com/conan-io/conan-center-index/pull/14158)|[toge](https://github.com/toge)|Nov 12|:memo: glaze|1|Nov 14||prince-chrismc
 [#14162](https://github.com/conan-io/conan-center-index/pull/14162)|[MartinDelille](https://github.com/MartinDelille)|Nov 12|:memo: quazip|1|Nov 14||prince-chrismc
 [#14175](https://github.com/conan-io/conan-center-index/pull/14175)|[toge](https://github.com/toge)|Nov 13|:memo: simdutf|1|Nov 14||prince-chrismc
+[#14193](https://github.com/conan-io/conan-center-index/pull/14193)|[je894591](https://github.com/je894591)|Nov 14|:stopwatch: libcurl|2|Nov 15||
 [#14195](https://github.com/conan-io/conan-center-index/pull/14195)|[SpaceIm](https://github.com/SpaceIm)|Nov 14|:memo: bacnet-stack|1|Nov 15||uilianries
 [#14197](https://github.com/conan-io/conan-center-index/pull/14197)|[github-actions[bot]](https://github.com/github-actions[bot])|Nov 15|:green_book: docs|1|Nov 15||prince-chrismc
 [#14200](https://github.com/conan-io/conan-center-index/pull/14200)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: geos|1|Nov 15||uilianries
@@ -89,18 +90,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14207](https://github.com/conan-io/conan-center-index/pull/14207)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:stopwatch: icu|0|||
 [#14210](https://github.com/conan-io/conan-center-index/pull/14210)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: libtiff|2|Nov 15||uilianries
 [#14211](https://github.com/conan-io/conan-center-index/pull/14211)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 15|:green_book: docs|0|||
+[#14214](https://github.com/conan-io/conan-center-index/pull/14214)|[toge](https://github.com/toge)|Nov 15|:stopwatch: fast_float|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **14** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:memo: llvm-core|7|prince-chrismc, intelligide, kou
-[#13965](https://github.com/conan-io/conan-center-index/pull/13965)|[sourcedelica](https://github.com/sourcedelica)|Nov 2|:memo: easyexif|4|uilianries, prince-chrismc
 [#13967](https://github.com/conan-io/conan-center-index/pull/13967)|[toge](https://github.com/toge)|Nov 2|:memo: lief|3|uilianries, prince-chrismc
 [#13990](https://github.com/conan-io/conan-center-index/pull/13990)|[paulharris](https://github.com/paulharris)|Nov 3|:memo: libharu|4|uilianries, prince-chrismc
 [#13992](https://github.com/conan-io/conan-center-index/pull/13992)|[robomics](https://github.com/robomics)|Nov 3|:memo: hdf5|2|uilianries, prince-chrismc
@@ -120,9 +121,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 231
+	- Open: 232
 	- Draft: 24
-	- Average Age: 68 days, 6 hours, and 56.81 minutes
+	- Average Age: 67 days, 23 hours, and 31.75 minutes
 	- Stop Label: 120
 	
 
