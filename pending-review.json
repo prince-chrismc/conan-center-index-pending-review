@@ -109,6 +109,29 @@
       }
    },
    {
+      "Number": 13211,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2022-09-29T11:33:58Z",
+      "Recipe": "diligent-tools",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13211",
+      "LastCommitSHA": "55fa8c55eb1a574613cf2e3f6de6c976ae38f3e5",
+      "LastCommitAt": "2022-11-15T13:30:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-10-19T16:02:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13211#pullrequestreview-1147889423"
+         }
+      }
+   },
+   {
       "Number": 13511,
       "OpenedBy": "paulharris",
       "CreatedAt": "2022-10-15T22:51:41Z",
@@ -1851,7 +1874,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14204",
       "LastCommitSHA": "6c7961557d46030c043304dc32eef4546144927a",
       "LastCommitAt": "2022-11-15T12:56:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1867,8 +1890,8 @@
       "Recipe": "icu",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14207",
-      "LastCommitSHA": "3302746bc753b8553911238d03271b8c64501bb3",
-      "LastCommitAt": "2022-11-15T15:01:05Z",
+      "LastCommitSHA": "b21897abda512a3ff8545b8b262225200d4965c4",
+      "LastCommitAt": "2022-11-15T15:18:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
