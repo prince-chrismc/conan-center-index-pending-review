@@ -38,7 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13650](https://github.com/conan-io/conan-center-index/pull/13650)|[madebr](https://github.com/madebr)|Oct 21|:new: ulfius|4|Nov 10||prince-chrismc
 [#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|7|Nov 10||prince-chrismc
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||prince-chrismc
-[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|12|Nov 14||
+[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:stopwatch: cmake|12|Nov 14||
 [#13742](https://github.com/conan-io/conan-center-index/pull/13742)|[jmarrec](https://github.com/jmarrec)|Oct 25|:memo: swig|5|Oct 29 :bell:||prince-chrismc
 [#13748](https://github.com/conan-io/conan-center-index/pull/13748)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 25|:gear: .github|2|Nov 15||
 [#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: catch2|13|Nov 15||danimtb
@@ -103,7 +103,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14202](https://github.com/conan-io/conan-center-index/pull/14202)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 15|:new: egl-headers|0|||
 [#14204](https://github.com/conan-io/conan-center-index/pull/14204)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: aaplus|0|||
 [#14207](https://github.com/conan-io/conan-center-index/pull/14207)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:stopwatch: icu|0|||
-[#14210](https://github.com/conan-io/conan-center-index/pull/14210)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:stopwatch: libtiff|1|Nov 15||
+[#14210](https://github.com/conan-io/conan-center-index/pull/14210)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:stopwatch: libtiff|2|Nov 15||uilianries
 [#14211](https://github.com/conan-io/conan-center-index/pull/14211)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 15|:green_book: docs|0|||
 
 
@@ -127,7 +127,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 233
 	- Draft: 24
-	- Average Age: 67 days, 19 hours, and 33.03 minutes
+	- Average Age: 67 days, 20 hours, and 31.10 minutes
 	- Stop Label: 118
 	
 
