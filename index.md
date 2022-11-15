@@ -107,7 +107,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -115,7 +115,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:memo: llvm-core|7|prince-chrismc, intelligide, kou
 [#13985](https://github.com/conan-io/conan-center-index/pull/13985)|[jngrb](https://github.com/jngrb)|Nov 3|:memo: expat|4|prince-chrismc, uilianries, SpaceIm, datalogics-robb
-[#14194](https://github.com/conan-io/conan-center-index/pull/14194)|[SpaceIm](https://github.com/SpaceIm)|Nov 14|:memo: json-schema-validator|3|danimtb, garethsb, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -124,9 +123,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 232
+	- Open: 231
 	- Draft: 24
-	- Average Age: 67 days, 23 hours, and 38.75 minutes
+	- Average Age: 68 days, 7 hours, and 41.61 minutes
 	- Stop Label: 118
 	
 
