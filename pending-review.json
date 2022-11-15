@@ -263,9 +263,9 @@
       "Recipe": "cmake",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13739",
-      "LastCommitSHA": "f0fea9eda23a3de6cbcce5d301fa2b34cd9fe9e8",
-      "LastCommitAt": "2022-11-14T19:59:59Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "2e008ee88275da0a5934a78c26c9d3f28f4d244a",
+      "LastCommitAt": "2022-11-15T21:10:59Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 12,
          "ValidApprovals": 0,
@@ -1870,15 +1870,17 @@
       "LastCommitAt": "2022-11-15T19:34:31Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "stevn",
-            "SubmittedAt": "2022-11-15T19:29:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14210#pullrequestreview-1181439687"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-11-15T21:12:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14210#pullrequestreview-1181552352"
          }
       }
    },
