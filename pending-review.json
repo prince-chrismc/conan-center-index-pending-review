@@ -1752,33 +1752,6 @@
       }
    },
    {
-      "Number": 14194,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-11-14T23:25:09Z",
-      "Recipe": "json-schema-validator",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14194",
-      "LastCommitSHA": "3943d341b141948c7574eb35c29582cdb208abd0",
-      "LastCommitAt": "2022-11-14T23:24:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb",
-            "garethsb",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-15T16:28:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14194#pullrequestreview-1181190776"
-         }
-      }
-   },
-   {
       "Number": 14195,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-14T23:47:50Z",
