@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **64** pull requests currently under way :detective:
+There are **65** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -89,8 +89,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14211](https://github.com/conan-io/conan-center-index/pull/14211)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 15|:green_book: docs|24|Nov 16||
 [#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:memo: qarchive|0|||
 [#14218](https://github.com/conan-io/conan-center-index/pull/14218)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Nov 16|:memo: qwt|0|||
-[#14220](https://github.com/conan-io/conan-center-index/pull/14220)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: spdlog|0|||
-[#14221](https://github.com/conan-io/conan-center-index/pull/14221)|[danimtb](https://github.com/danimtb)|Nov 16|:gear: .c3i|0|||
+[#14220](https://github.com/conan-io/conan-center-index/pull/14220)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: spdlog|1|Nov 16||jwillikers
+[#14221](https://github.com/conan-io/conan-center-index/pull/14221)|[danimtb](https://github.com/danimtb)|Nov 16|:gear: .c3i|1|Nov 16||prince-chrismc
+[#14223](https://github.com/conan-io/conan-center-index/pull/14223)|[garethsb](https://github.com/garethsb)|Nov 16|:memo: avahi|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -110,9 +111,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 220
-	- Draft: 25
-	- Average Age: 71 days, 16 hours, and 8.70 minutes
+	- Open: 219
+	- Draft: 24
+	- Average Age: 72 days, and 53.18 minutes
 	- Stop Label: 116
 	
 
