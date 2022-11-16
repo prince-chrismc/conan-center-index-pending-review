@@ -1397,31 +1397,6 @@
       }
    },
    {
-      "Number": 14202,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-11-15T12:22:21Z",
-      "Recipe": "egl-headers",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14202",
-      "LastCommitSHA": "8bc46b366a1f64ddf884e214c50bb00f1149c7ae",
-      "LastCommitAt": "2022-11-15T12:21:13Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-11-15T21:27:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14202#pullrequestreview-1181570111"
-         }
-      }
-   },
-   {
       "Number": 14204,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-15T12:56:31Z",
@@ -1514,7 +1489,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14218",
       "LastCommitSHA": "5b7cd09559f4e68ed6266a7ebd1e526d603a79af",
       "LastCommitAt": "2022-11-16T11:50:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
