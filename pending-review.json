@@ -1072,32 +1072,6 @@
       }
    },
    {
-      "Number": 14130,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-10T08:56:11Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14130",
-      "LastCommitSHA": "cf39cdef7c5efb625ff088473839d5abf17e33e9",
-      "LastCommitAt": "2022-11-10T09:16:21Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-15T21:51:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14130#pullrequestreview-1181596333"
-         }
-      }
-   },
-   {
       "Number": 14136,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2022-11-10T11:50:24Z",
