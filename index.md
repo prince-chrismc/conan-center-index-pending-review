@@ -87,7 +87,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14204](https://github.com/conan-io/conan-center-index/pull/14204)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: aaplus|1|Nov 15||uilianries
 [#14207](https://github.com/conan-io/conan-center-index/pull/14207)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: icu|0|||
 [#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:stopwatch: qarchive|1|Nov 16||
-[#14218](https://github.com/conan-io/conan-center-index/pull/14218)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Nov 16|:memo: qwt|0|||
+[#14218](https://github.com/conan-io/conan-center-index/pull/14218)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Nov 16|:stopwatch: qwt|1|Nov 16||uilianries
 [#14221](https://github.com/conan-io/conan-center-index/pull/14221)|[danimtb](https://github.com/danimtb)|Nov 16|:gear: .c3i|1|Nov 16||prince-chrismc
 [#14227](https://github.com/conan-io/conan-center-index/pull/14227)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:stopwatch: cpprestsdk|0|||
 
@@ -109,9 +109,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 219
+	- Open: 218
 	- Draft: 25
-	- Average Age: 72 days, 3 hours, and 18.19 minutes
+	- Average Age: 72 days, 13 hours, and 7.07 minutes
 	- Stop Label: 115
 	
 
