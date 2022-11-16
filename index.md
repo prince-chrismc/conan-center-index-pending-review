@@ -76,7 +76,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14145](https://github.com/conan-io/conan-center-index/pull/14145)|[toge](https://github.com/toge)|Nov 10|:new: gzip-hpp|1|Nov 11||uilianries
 [#14147](https://github.com/conan-io/conan-center-index/pull/14147)|[toge](https://github.com/toge)|Nov 10|:memo: uwebsockets|1|Nov 11||uilianries
 [#14148](https://github.com/conan-io/conan-center-index/pull/14148)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: hash-library|1|Nov 11||uilianries
-[#14153](https://github.com/conan-io/conan-center-index/pull/14153)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:stopwatch: libpng|5|Nov 15||prince-chrismc
+[#14153](https://github.com/conan-io/conan-center-index/pull/14153)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: libpng|5|Nov 15||prince-chrismc
 [#14155](https://github.com/conan-io/conan-center-index/pull/14155)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: tracy|0|:eyes:||
 [#14158](https://github.com/conan-io/conan-center-index/pull/14158)|[toge](https://github.com/toge)|Nov 12|:memo: glaze|1|Nov 14||prince-chrismc
 [#14162](https://github.com/conan-io/conan-center-index/pull/14162)|[MartinDelille](https://github.com/MartinDelille)|Nov 12|:memo: quazip|1|Nov 14||prince-chrismc
@@ -117,7 +117,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 227
 	- Draft: 24
-	- Average Age: 69 days, 6 hours, and 47.53 minutes
+	- Average Age: 69 days, 6 hours, and 56.05 minutes
 	- Stop Label: 120
 	
 
