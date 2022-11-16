@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **65** pull requests currently under way :detective:
+There are **66** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,6 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13795](https://github.com/conan-io/conan-center-index/pull/13795)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: proj|0|:eyes:||
 [#13872](https://github.com/conan-io/conan-center-index/pull/13872)|[Nekto89](https://github.com/Nekto89)|Oct 30|:new: libdmtx|4|Nov 9||prince-chrismc
 [#13962](https://github.com/conan-io/conan-center-index/pull/13962)|[garethsb](https://github.com/garethsb)|Nov 2|:memo: cpprestsdk|4|Nov 14||prince-chrismc
+[#13963](https://github.com/conan-io/conan-center-index/pull/13963)|[jngrb](https://github.com/jngrb)|Nov 2|:memo: poco|0|:eyes:||
 [#13971](https://github.com/conan-io/conan-center-index/pull/13971)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 2|:green_book: docs|6|Nov 16||SSE4
 [#13982](https://github.com/conan-io/conan-center-index/pull/13982)|[AlexandrePTJ](https://github.com/AlexandrePTJ)|Nov 3|:memo: fast_double_parser|3|Nov 15||prince-chrismc
 [#14011](https://github.com/conan-io/conan-center-index/pull/14011)|[klimkin](https://github.com/klimkin)|Nov 3|:new: canary|0|||
@@ -113,8 +114,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 219
 	- Draft: 24
-	- Average Age: 71 days, 21 hours, and 55.26 minutes
-	- Stop Label: 117
+	- Average Age: 71 days, 22 hours, and 56.42 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
