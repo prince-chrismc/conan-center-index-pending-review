@@ -543,7 +543,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14025",
       "LastCommitSHA": "4eb2a544c5df60ccacd520a81cf711255286d171",
       "LastCommitAt": "2022-11-16T15:12:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -1524,24 +1524,6 @@
       "LastCommitSHA": "92b0339c1da8ab79a7433ace35f647ae74f13d02",
       "LastCommitAt": "2022-11-16T14:35:31Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14222,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-16T15:10:14Z",
-      "Recipe": "trantor",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14222",
-      "LastCommitSHA": "7687bc8d85b780df1857430967dfa8255432e12f",
-      "LastCommitAt": "2022-11-16T13:00:29Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
