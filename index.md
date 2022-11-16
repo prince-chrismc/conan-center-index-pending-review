@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **63** pull requests currently under way :detective:
+There are **64** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,6 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13650](https://github.com/conan-io/conan-center-index/pull/13650)|[madebr](https://github.com/madebr)|Oct 21|:new: ulfius|4|Nov 10||prince-chrismc
 [#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|7|Nov 10||prince-chrismc
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||prince-chrismc
+[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|12|Nov 14||
 [#13742](https://github.com/conan-io/conan-center-index/pull/13742)|[jmarrec](https://github.com/jmarrec)|Oct 25|:memo: swig|5|Oct 29 :bell:||prince-chrismc
 [#13748](https://github.com/conan-io/conan-center-index/pull/13748)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 25|:gear: .github|2|Nov 15||
 [#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: catch2|13|Nov 15||danimtb
@@ -81,7 +82,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14158](https://github.com/conan-io/conan-center-index/pull/14158)|[toge](https://github.com/toge)|Nov 12|:memo: glaze|1|Nov 14||prince-chrismc
 [#14162](https://github.com/conan-io/conan-center-index/pull/14162)|[MartinDelille](https://github.com/MartinDelille)|Nov 12|:memo: quazip|1|Nov 14||prince-chrismc
 [#14175](https://github.com/conan-io/conan-center-index/pull/14175)|[toge](https://github.com/toge)|Nov 13|:memo: simdutf|1|Nov 14||prince-chrismc
-[#14193](https://github.com/conan-io/conan-center-index/pull/14193)|[je894591](https://github.com/je894591)|Nov 14|:stopwatch: libcurl|2|Nov 15||
+[#14193](https://github.com/conan-io/conan-center-index/pull/14193)|[je894591](https://github.com/je894591)|Nov 14|:memo: libcurl|2|Nov 15||
 [#14195](https://github.com/conan-io/conan-center-index/pull/14195)|[SpaceIm](https://github.com/SpaceIm)|Nov 14|:memo: bacnet-stack|1|Nov 15||uilianries
 [#14200](https://github.com/conan-io/conan-center-index/pull/14200)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: geos|1|Nov 15||uilianries
 [#14202](https://github.com/conan-io/conan-center-index/pull/14202)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 15|:new: egl-headers|1|Nov 15||uilianries
@@ -111,8 +112,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 219
 	- Draft: 24
-	- Average Age: 71 days, 17 hours, and 53.81 minutes
-	- Stop Label: 119
+	- Average Age: 71 days, 21 hours, and 2.49 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
