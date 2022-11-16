@@ -88,21 +88,20 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14204](https://github.com/conan-io/conan-center-index/pull/14204)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: aaplus|1|Nov 15||uilianries
 [#14207](https://github.com/conan-io/conan-center-index/pull/14207)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: icu|0|||
 [#14211](https://github.com/conan-io/conan-center-index/pull/14211)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 15|:green_book: docs|24|Nov 16||
-[#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:memo: qarchive|0|||
+[#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:stopwatch: qarchive|0|||
 [#14218](https://github.com/conan-io/conan-center-index/pull/14218)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Nov 16|:stopwatch: qwt|0|||
-[#14220](https://github.com/conan-io/conan-center-index/pull/14220)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:stopwatch: spdlog|0|||
+[#14220](https://github.com/conan-io/conan-center-index/pull/14220)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: spdlog|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:memo: llvm-core|7|prince-chrismc, intelligide, kou
-[#13962](https://github.com/conan-io/conan-center-index/pull/13962)|[garethsb](https://github.com/garethsb)|Nov 2|:memo: cpprestsdk|5|prince-chrismc, uilianries
 
 
 #### :clipboard: Statistics
@@ -111,9 +110,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 219
+	- Open: 218
 	- Draft: 24
-	- Average Age: 71 days, 21 hours, and 47.00 minutes
+	- Average Age: 72 days, 5 hours, and 17.17 minutes
 	- Stop Label: 117
 	
 
