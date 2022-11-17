@@ -541,9 +541,9 @@
       "Recipe": "scnlib",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14025",
-      "LastCommitSHA": "4eb2a544c5df60ccacd520a81cf711255286d171",
-      "LastCommitAt": "2022-11-16T15:12:36Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a935ac3b6e76eb7ccbfb7076c725318e9c5df91c",
+      "LastCommitAt": "2022-11-17T00:15:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -1253,16 +1253,14 @@
       "Recipe": "glaze",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14158",
-      "LastCommitSHA": "d9d65449d035a8a5a2fae7ae8a09d1c03d6d7222",
-      "LastCommitAt": "2022-11-12T04:26:36Z",
+      "LastCommitSHA": "1fcbe2f454cb4eae2ffe1b554c35b84175641fa7",
+      "LastCommitAt": "2022-11-17T00:18:14Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -1562,6 +1560,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14229",
       "LastCommitSHA": "1d34b6d580ce8eb4ccf531d3212f13517ed4b854",
       "LastCommitAt": "2022-11-16T22:28:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14232,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-17T00:20:24Z",
+      "Recipe": "c4core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14232",
+      "LastCommitSHA": "3ff1f250af7175a32e56a87b42b30b56edef2575",
+      "LastCommitAt": "2022-11-17T00:19:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14233,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-17T01:04:25Z",
+      "Recipe": "watcher",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14233",
+      "LastCommitSHA": "457da215734d41229ba488beb82bbae3dd331692",
+      "LastCommitAt": "2022-11-17T00:58:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
