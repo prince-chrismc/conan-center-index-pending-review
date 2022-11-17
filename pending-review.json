@@ -357,8 +357,8 @@
       "Recipe": "llvm-core",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13815",
-      "LastCommitSHA": "2d18fbcd2ab7293a44bc003a6d132bc8ac801f4e",
-      "LastCommitAt": "2022-11-17T13:18:14Z",
+      "LastCommitSHA": "aaaec7f8b9becf3f751f4ec22a5f83d45e3a3af8",
+      "LastCommitAt": "2022-11-17T13:37:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 7,
@@ -1507,6 +1507,24 @@
       "LastCommitSHA": "554fb8fb7e88f4c3fc8512c074548815277ff4d7",
       "LastCommitAt": "2022-11-17T11:52:10Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14240,
+      "OpenedBy": "peterSW",
+      "CreatedAt": "2022-11-17T14:05:54Z",
+      "Recipe": "googleapis",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14240",
+      "LastCommitSHA": "ef0e562997ee38a5cf541242397fe0c615e605b7",
+      "LastCommitAt": "2022-11-17T14:12:30Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
