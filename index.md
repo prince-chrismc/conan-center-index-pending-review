@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13971](https://github.com/conan-io/conan-center-index/pull/13971)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 2|:green_book: docs|6|Nov 16||SSE4
 [#14011](https://github.com/conan-io/conan-center-index/pull/14011)|[klimkin](https://github.com/klimkin)|Nov 3|:new: canary|0|||
 [#14012](https://github.com/conan-io/conan-center-index/pull/14012)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: xqilla|1|Nov 7||uilianries
-[#14017](https://github.com/conan-io/conan-center-index/pull/14017)|[Sneder89](https://github.com/Sneder89)|Nov 4|:stopwatch: xapian-core|5|Nov 17||SpaceIm
+[#14017](https://github.com/conan-io/conan-center-index/pull/14017)|[Sneder89](https://github.com/Sneder89)|Nov 4|:memo: xapian-core|5|Nov 17||SpaceIm
 [#14025](https://github.com/conan-io/conan-center-index/pull/14025)|[toge](https://github.com/toge)|Nov 4|:memo: scnlib|4|Nov 17||SpaceIm
 [#14039](https://github.com/conan-io/conan-center-index/pull/14039)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:memo: libconfuse|1|Nov 8||uilianries
 [#14053](https://github.com/conan-io/conan-center-index/pull/14053)|[toge](https://github.com/toge)|Nov 5|:memo: screen_capture_lite|1|Nov 8||uilianries
@@ -112,7 +112,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 223
 	- Draft: 25
-	- Average Age: 71 days, 5 hours, and 47.71 minutes
+	- Average Age: 71 days, 6 hours, and 50.06 minutes
 	- Stop Label: 118
 	
 
