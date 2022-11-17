@@ -1081,16 +1081,14 @@
       "Recipe": "cppcheck",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14149",
-      "LastCommitSHA": "37302c6ccd8c7e1c8cf4c68f6383e00834c104bf",
-      "LastCommitAt": "2022-11-17T05:35:47Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a66c5a1dcfe7eeba4bb545a50e0e18a05508347d",
+      "LastCommitAt": "2022-11-17T19:51:37Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "MartinDelille"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "MartinDelille",
@@ -1476,6 +1474,24 @@
             "SubmittedAt": "2022-11-17T12:08:29Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14235#pullrequestreview-1184184508"
          }
+      }
+   },
+   {
+      "Number": 14236,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-17T11:42:50Z",
+      "Recipe": "foonathan-lexy",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14236",
+      "LastCommitSHA": "0acedf5523cf083af261b28ab053c015b1212885",
+      "LastCommitAt": "2022-11-17T17:57:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
