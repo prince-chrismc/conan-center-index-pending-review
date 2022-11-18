@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **66** pull requests currently under way :detective:
+There are **67** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -87,12 +87,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14238](https://github.com/conan-io/conan-center-index/pull/14238)|[MartinDelille](https://github.com/MartinDelille)|Nov 17|:new: opengl-registry|5|Nov 17||
 [#14240](https://github.com/conan-io/conan-center-index/pull/14240)|[peterSW](https://github.com/peterSW)|Nov 17|:stopwatch: googleapis|0|||
 [#14246](https://github.com/conan-io/conan-center-index/pull/14246)|[Yuhanun](https://github.com/Yuhanun)|Nov 17|:stopwatch: protobuf|0|||
+[#14248](https://github.com/conan-io/conan-center-index/pull/14248)|[igormironchik](https://github.com/igormironchik)|Nov 17|:new: md4qt|0|||
 [#14249](https://github.com/conan-io/conan-center-index/pull/14249)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: qwt|0|||
 [#14250](https://github.com/conan-io/conan-center-index/pull/14250)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: khrplatform|0|||
 [#14251](https://github.com/conan-io/conan-center-index/pull/14251)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libnuma|0|||
 [#14252](https://github.com/conan-io/conan-center-index/pull/14252)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: enum-flags|0|||
-[#14254](https://github.com/conan-io/conan-center-index/pull/14254)|[kou](https://github.com/kou)|Nov 18|:stopwatch: arrow|1|Nov 18||toge
-[#14255](https://github.com/conan-io/conan-center-index/pull/14255)|[toge](https://github.com/toge)|Nov 18|:stopwatch: quill|0|||
+[#14254](https://github.com/conan-io/conan-center-index/pull/14254)|[kou](https://github.com/kou)|Nov 18|:memo: arrow|1|Nov 18||toge
+[#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:stopwatch: gtest|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -111,10 +112,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 221
+	- Open: 220
 	- Draft: 25
-	- Average Age: 71 days, 12 hours, and 12.18 minutes
-	- Stop Label: 117
+	- Average Age: 71 days, 20 hours, and 52.19 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
