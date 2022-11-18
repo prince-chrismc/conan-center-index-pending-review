@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **54** pull requests currently under way :detective:
+There are **51** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14109](https://github.com/conan-io/conan-center-index/pull/14109)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:memo: libxcrypt|1|Nov 10||uilianries
 [#14110](https://github.com/conan-io/conan-center-index/pull/14110)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:memo: libsmacker|1|Nov 11||uilianries
 [#14114](https://github.com/conan-io/conan-center-index/pull/14114)|[toge](https://github.com/toge)|Nov 8|:memo: qhull|0|:eyes:||
-[#14115](https://github.com/conan-io/conan-center-index/pull/14115)|[RazielXYZ](https://github.com/RazielXYZ)|Nov 8|:stopwatch: cccl|12|Nov 18||
+[#14115](https://github.com/conan-io/conan-center-index/pull/14115)|[RazielXYZ](https://github.com/RazielXYZ)|Nov 8|:memo: cccl|12|Nov 18||
 [#14123](https://github.com/conan-io/conan-center-index/pull/14123)|[dvirtz](https://github.com/dvirtz)|Nov 9|:new: winmd|2|Nov 17||prince-chrismc
 [#14136](https://github.com/conan-io/conan-center-index/pull/14136)|[Nekto89](https://github.com/Nekto89)|Nov 10|:memo: onetbb|1|Nov 14||prince-chrismc
 [#14145](https://github.com/conan-io/conan-center-index/pull/14145)|[toge](https://github.com/toge)|Nov 10|:new: gzip-hpp|1|Nov 11||uilianries
@@ -76,11 +76,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:memo: gtest|0|||
 [#14257](https://github.com/conan-io/conan-center-index/pull/14257)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: butteraugli|0|||
 [#14263](https://github.com/conan-io/conan-center-index/pull/14263)|[toge](https://github.com/toge)|Nov 18|:memo: sqlitecpp|0|||
-[#14265](https://github.com/conan-io/conan-center-index/pull/14265)|[toge](https://github.com/toge)|Nov 18|:stopwatch: catch2|0|||
-[#14266](https://github.com/conan-io/conan-center-index/pull/14266)|[toge](https://github.com/toge)|Nov 18|:stopwatch: foonathan-memory|0|||
-[#14269](https://github.com/conan-io/conan-center-index/pull/14269)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 18|:stopwatch: civetweb|1|Nov 18||SpaceIm
+[#14266](https://github.com/conan-io/conan-center-index/pull/14266)|[toge](https://github.com/toge)|Nov 18|:memo: foonathan-memory|0|||
 [#14282](https://github.com/conan-io/conan-center-index/pull/14282)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: libiconv|0|||
-[#14283](https://github.com/conan-io/conan-center-index/pull/14283)|[serge1](https://github.com/serge1)|Nov 18|:stopwatch: elfio|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -100,9 +97,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 215
+	- Open: 213
 	- Draft: 25
-	- Average Age: 73 days, 10 hours, and 32.51 minutes
+	- Average Age: 74 days, 4 hours, and 3.70 minutes
 	- Stop Label: 121
 	
 
