@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **67** pull requests currently under way :detective:
+There are **66** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -75,13 +75,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14204](https://github.com/conan-io/conan-center-index/pull/14204)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: aaplus|1|Nov 15||uilianries
 [#14207](https://github.com/conan-io/conan-center-index/pull/14207)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: icu|0|||
 [#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:memo: qarchive|1|Nov 16||
-[#14221](https://github.com/conan-io/conan-center-index/pull/14221)|[danimtb](https://github.com/danimtb)|Nov 16|:gear: .c3i|1|Nov 16||prince-chrismc
 [#14227](https://github.com/conan-io/conan-center-index/pull/14227)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: cpprestsdk|2|Nov 16||garethsb
 [#14228](https://github.com/conan-io/conan-center-index/pull/14228)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: roaring|0|||
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|||
 [#14233](https://github.com/conan-io/conan-center-index/pull/14233)|[toge](https://github.com/toge)|Nov 17|:memo: watcher|1|Nov 17||SpaceIm
 [#14234](https://github.com/conan-io/conan-center-index/pull/14234)|[goodtune](https://github.com/goodtune)|Nov 17|:stopwatch: libvault|0|||
-[#14235](https://github.com/conan-io/conan-center-index/pull/14235)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 17|:gear: .c3i|1|Nov 17||danimtb
 [#14236](https://github.com/conan-io/conan-center-index/pull/14236)|[toge](https://github.com/toge)|Nov 17|:new: foonathan-lexy|0|||
 [#14237](https://github.com/conan-io/conan-center-index/pull/14237)|[toge](https://github.com/toge)|Nov 17|:memo: daw_header_libraries|0|||
 [#14238](https://github.com/conan-io/conan-center-index/pull/14238)|[MartinDelille](https://github.com/MartinDelille)|Nov 17|:new: opengl-registry|5|Nov 17||
@@ -93,17 +91,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14251](https://github.com/conan-io/conan-center-index/pull/14251)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libnuma|0|||
 [#14252](https://github.com/conan-io/conan-center-index/pull/14252)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: enum-flags|0|||
 [#14254](https://github.com/conan-io/conan-center-index/pull/14254)|[kou](https://github.com/kou)|Nov 18|:memo: arrow|1|Nov 18||toge
-[#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:stopwatch: gtest|0|||
+[#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:memo: gtest|0|||
+[#14257](https://github.com/conan-io/conan-center-index/pull/14257)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: butteraugli|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
+[#14235](https://github.com/conan-io/conan-center-index/pull/14235)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 17|:gear: .c3i|2|danimtb, SSE4
 
 
 #### :clipboard: Statistics
@@ -114,7 +114,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 220
 	- Draft: 25
-	- Average Age: 71 days, 20 hours, and 52.19 minutes
+	- Average Age: 71 days, 21 hours, and 41.76 minutes
 	- Stop Label: 115
 	
 
