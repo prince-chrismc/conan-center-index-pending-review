@@ -1395,6 +1395,24 @@
       }
    },
    {
+      "Number": 14248,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2022-11-17T19:28:37Z",
+      "Recipe": "md4qt",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14248",
+      "LastCommitSHA": "2bf5edf0328a59240de9a022b8feb415f03bb18c",
+      "LastCommitAt": "2022-11-18T08:22:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14249,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-17T21:21:24Z",
@@ -1475,7 +1493,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14254",
       "LastCommitSHA": "0e7bda41dbab6fb1077c5549cf6abf05ad263034",
       "LastCommitAt": "2022-11-18T04:56:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1492,14 +1510,14 @@
       }
    },
    {
-      "Number": 14255,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-18T07:57:26Z",
-      "Recipe": "quill",
+      "Number": 14256,
+      "OpenedBy": "oleurodecision",
+      "CreatedAt": "2022-11-18T08:30:54Z",
+      "Recipe": "gtest",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14255",
-      "LastCommitSHA": "29ba059865e2732a82090f35c7704265ab37d308",
-      "LastCommitAt": "2022-11-18T06:55:06Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14256",
+      "LastCommitSHA": "9f32e6f85ae87db392c54db66f73eeb179237b2f",
+      "LastCommitAt": "2022-11-18T05:47:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
