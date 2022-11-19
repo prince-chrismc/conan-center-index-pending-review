@@ -79,7 +79,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14300](https://github.com/conan-io/conan-center-index/pull/14300)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-sequences|0|||
 [#14301](https://github.com/conan-io/conan-center-index/pull/14301)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-operators|0|||
 [#14302](https://github.com/conan-io/conan-center-index/pull/14302)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: nvtx|0|||
-[#14303](https://github.com/conan-io/conan-center-index/pull/14303)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: zlib-ng|0|||
+[#14303](https://github.com/conan-io/conan-center-index/pull/14303)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: zlib-ng|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -100,7 +100,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 214
 	- Draft: 26
-	- Average Age: 74 days, 6 hours, and 4.69 minutes
+	- Average Age: 74 days, 6 hours, and 57.92 minutes
 	- Stop Label: 122
 	
 
