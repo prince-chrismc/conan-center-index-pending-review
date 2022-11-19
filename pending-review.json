@@ -1006,6 +1006,24 @@
       }
    },
    {
+      "Number": 14292,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-19T09:52:22Z",
+      "Recipe": "jpeg-compressor",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14292",
+      "LastCommitSHA": "aa936ccbf578b8c8da4a8fbe49e7d5f870c50a27",
+      "LastCommitAt": "2022-11-19T09:51:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14294,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-19T10:47:34Z",
@@ -1014,6 +1032,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14294",
       "LastCommitSHA": "d1c3ffde872178eb4fb863bfcf77ecbf8fda6e15",
       "LastCommitAt": "2022-11-19T10:47:08Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14296,
+      "OpenedBy": "Jihadist",
+      "CreatedAt": "2022-11-19T11:42:45Z",
+      "Recipe": "libevent",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14296",
+      "LastCommitSHA": "19c0279678201e8b86c89005ae181156c64bb62e",
+      "LastCommitAt": "2022-11-19T11:38:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
