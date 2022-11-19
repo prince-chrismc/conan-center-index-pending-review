@@ -909,31 +909,6 @@
       }
    },
    {
-      "Number": 14261,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-11-18T12:01:23Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14261",
-      "LastCommitSHA": "f4bcd5eee3e3590d4469ee274e2579cab5b07b09",
-      "LastCommitAt": "2022-11-18T15:00:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-19T07:34:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14261#pullrequestreview-1187033992"
-         }
-      }
-   },
-   {
       "Number": 14263,
       "OpenedBy": "toge",
       "CreatedAt": "2022-11-18T12:41:39Z",
@@ -1051,6 +1026,78 @@
       "LastCommitSHA": "89cb8dce5adf00f7bb5af3f6a33b1c7ebd5b8cbe",
       "LastCommitAt": "2022-11-19T12:50:27Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14299,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-19T14:30:37Z",
+      "Recipe": "taocpp-tuple",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14299",
+      "LastCommitSHA": "20861c6e4d4d7e8e2352b6ff1e4bb176aef370e2",
+      "LastCommitAt": "2022-11-19T14:30:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14300,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-19T14:38:09Z",
+      "Recipe": "taocpp-sequences",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14300",
+      "LastCommitSHA": "dd1ed5c6d3e58ddbddbe7ab5fa10e82d63f1c27a",
+      "LastCommitAt": "2022-11-19T14:37:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14301,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-19T14:45:04Z",
+      "Recipe": "taocpp-operators",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14301",
+      "LastCommitSHA": "97b184c914cfefec74c5224e5b01622d34c2d6e5",
+      "LastCommitAt": "2022-11-19T14:44:21Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14302,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-19T14:53:25Z",
+      "Recipe": "nvtx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14302",
+      "LastCommitSHA": "9c83642a6577b84d07cdde2f284260148a06c37d",
+      "LastCommitAt": "2022-11-19T14:53:06Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
