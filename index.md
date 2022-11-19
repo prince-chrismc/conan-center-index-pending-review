@@ -80,8 +80,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14301](https://github.com/conan-io/conan-center-index/pull/14301)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-operators|0|||
 [#14302](https://github.com/conan-io/conan-center-index/pull/14302)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: nvtx|0|||
 [#14303](https://github.com/conan-io/conan-center-index/pull/14303)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: zlib-ng|0|||
-[#14306](https://github.com/conan-io/conan-center-index/pull/14306)|[toge](https://github.com/toge)|Nov 19|:stopwatch: benchmark|0|||
-[#14308](https://github.com/conan-io/conan-center-index/pull/14308)|[toge](https://github.com/toge)|Nov 19|:stopwatch: trantor|0|||
+[#14305](https://github.com/conan-io/conan-center-index/pull/14305)|[toge](https://github.com/toge)|Nov 19|:memo: wasmtime|0|||
+[#14306](https://github.com/conan-io/conan-center-index/pull/14306)|[toge](https://github.com/toge)|Nov 19|:memo: benchmark|0|||
 [#14310](https://github.com/conan-io/conan-center-index/pull/14310)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: gcem|0|||
 
 
@@ -101,10 +101,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 219
+	- Open: 218
 	- Draft: 26
-	- Average Age: 72 days, 17 hours, and 15.64 minutes
-	- Stop Label: 124
+	- Average Age: 73 days, 2 hours, and 13.44 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
