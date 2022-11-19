@@ -1097,6 +1097,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14302",
       "LastCommitSHA": "9c83642a6577b84d07cdde2f284260148a06c37d",
       "LastCommitAt": "2022-11-19T14:53:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14303,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-19T15:25:58Z",
+      "Recipe": "zlib-ng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14303",
+      "LastCommitSHA": "ff661aee1a19d152528a47a642453d11c6851d88",
+      "LastCommitAt": "2022-11-19T15:24:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
