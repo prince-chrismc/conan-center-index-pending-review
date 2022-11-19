@@ -1042,14 +1042,14 @@
       }
    },
    {
-      "Number": 14296,
-      "OpenedBy": "Jihadist",
-      "CreatedAt": "2022-11-19T11:42:45Z",
-      "Recipe": "libevent",
+      "Number": 14298,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-19T12:50:50Z",
+      "Recipe": "xtensor",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14296",
-      "LastCommitSHA": "19c0279678201e8b86c89005ae181156c64bb62e",
-      "LastCommitAt": "2022-11-19T11:38:29Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14298",
+      "LastCommitSHA": "89cb8dce5adf00f7bb5af3f6a33b1c7ebd5b8cbe",
+      "LastCommitAt": "2022-11-19T12:50:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
