@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **49** pull requests currently under way :detective:
+There are **52** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -68,7 +68,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14252](https://github.com/conan-io/conan-center-index/pull/14252)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: enum-flags|0|||
 [#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:memo: gtest|0|||
 [#14257](https://github.com/conan-io/conan-center-index/pull/14257)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: butteraugli|0|||
-[#14261](https://github.com/conan-io/conan-center-index/pull/14261)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 18|:memo: harfbuzz|2|Nov 19||prince-chrismc
 [#14263](https://github.com/conan-io/conan-center-index/pull/14263)|[toge](https://github.com/toge)|Nov 18|:memo: sqlitecpp|0|||
 [#14266](https://github.com/conan-io/conan-center-index/pull/14266)|[toge](https://github.com/toge)|Nov 18|:memo: foonathan-memory|0|||
 [#14282](https://github.com/conan-io/conan-center-index/pull/14282)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libiconv|0|||
@@ -76,6 +75,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14292](https://github.com/conan-io/conan-center-index/pull/14292)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: jpeg-compressor|0|||
 [#14294](https://github.com/conan-io/conan-center-index/pull/14294)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: qpoases|0|||
 [#14298](https://github.com/conan-io/conan-center-index/pull/14298)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: xtensor|0|||
+[#14299](https://github.com/conan-io/conan-center-index/pull/14299)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-tuple|0|||
+[#14300](https://github.com/conan-io/conan-center-index/pull/14300)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-sequences|0|||
+[#14301](https://github.com/conan-io/conan-center-index/pull/14301)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-operators|0|||
+[#14302](https://github.com/conan-io/conan-center-index/pull/14302)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: nvtx|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -94,10 +97,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 211
+	- Open: 213
 	- Draft: 26
-	- Average Age: 75 days, 5 hours, and 26.84 minutes
-	- Stop Label: 121
+	- Average Age: 74 days, 13 hours, and 21.31 minutes
+	- Stop Label: 120
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
