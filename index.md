@@ -77,15 +77,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
-[#14110](https://github.com/conan-io/conan-center-index/pull/14110)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:memo: libsmacker|2|uilianries, prince-chrismc
-[#14145](https://github.com/conan-io/conan-center-index/pull/14145)|[toge](https://github.com/toge)|Nov 10|:new: gzip-hpp|2|uilianries, prince-chrismc
-[#14147](https://github.com/conan-io/conan-center-index/pull/14147)|[toge](https://github.com/toge)|Nov 10|:memo: uwebsockets|2|uilianries, prince-chrismc
 [#14195](https://github.com/conan-io/conan-center-index/pull/14195)|[SpaceIm](https://github.com/SpaceIm)|Nov 14|:memo: bacnet-stack|2|uilianries, prince-chrismc
 
 
@@ -95,9 +92,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 211
+	- Open: 208
 	- Draft: 26
-	- Average Age: 75 days, 3 hours, and 16.70 minutes
+	- Average Age: 76 days, 2 hours, and 58.78 minutes
 	- Stop Label: 121
 	
 
