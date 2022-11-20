@@ -1250,23 +1250,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14314,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-20T02:19:11Z",
-      "Recipe": "drogon",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14314",
-      "LastCommitSHA": "16d3e0c132964c995af4093f378716523b9a0dc1",
-      "LastCommitAt": "2022-11-20T02:18:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
