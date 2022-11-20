@@ -1355,6 +1355,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14321",
       "LastCommitSHA": "4dbaaa068b98846e1b1a66108cad7ba7dcf8e07d",
       "LastCommitAt": "2022-11-20T21:34:56Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14323,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-20T23:02:36Z",
+      "Recipe": "heatshrink",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14323",
+      "LastCommitSHA": "5936d035231ed1cdfd09d50eb994561ee19e53f1",
+      "LastCommitAt": "2022-11-20T23:02:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14324,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-20T23:15:55Z",
+      "Recipe": "hedley",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14324",
+      "LastCommitSHA": "d73a9a8c5ac6eaec2b68b720067bf457cbcb0b99",
+      "LastCommitAt": "2022-11-20T23:15:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
