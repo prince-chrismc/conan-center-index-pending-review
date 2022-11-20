@@ -624,6 +624,29 @@
       }
    },
    {
+      "Number": 14162,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-11-12T12:47:10Z",
+      "Recipe": "quazip",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14162",
+      "LastCommitSHA": "d1683f6af32cbd558a886ed244beecd95f41907a",
+      "LastCommitAt": "2022-11-18T16:06:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2022-11-18T15:44:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14162#pullrequestreview-1186338251"
+         }
+      }
+   },
+   {
       "Number": 14172,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2022-11-13T14:31:33Z",
@@ -939,6 +962,24 @@
       }
    },
    {
+      "Number": 14262,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-18T12:08:41Z",
+      "Recipe": "capstone",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14262",
+      "LastCommitSHA": "5751b3901872c3afa8c34629c0872d2cbcc7b7eb",
+      "LastCommitAt": "2022-11-18T12:30:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14263,
       "OpenedBy": "toge",
       "CreatedAt": "2022-11-18T12:41:39Z",
@@ -1242,6 +1283,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14313",
       "LastCommitSHA": "bac7fd858a11f619a3d770f37ed03f15a5620653",
       "LastCommitAt": "2022-11-20T00:23:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14316,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-11-20T10:37:59Z",
+      "Recipe": "openapi-generator",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14316",
+      "LastCommitSHA": "2d3ef952e94d324d3303cc5365e4337f74a54736",
+      "LastCommitAt": "2022-11-20T11:39:24Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
