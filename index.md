@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **64** pull requests currently under way :detective:
+There are **65** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -64,7 +64,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14239](https://github.com/conan-io/conan-center-index/pull/14239)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 17|:memo: diligent-fx|0|||
 [#14246](https://github.com/conan-io/conan-center-index/pull/14246)|[Yuhanun](https://github.com/Yuhanun)|Nov 17|:stopwatch: protobuf|0|:eyes:||
 [#14248](https://github.com/conan-io/conan-center-index/pull/14248)|[igormironchik](https://github.com/igormironchik)|Nov 17|:new: md4qt|0|||
-[#14249](https://github.com/conan-io/conan-center-index/pull/14249)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: qwt|0|||
+[#14249](https://github.com/conan-io/conan-center-index/pull/14249)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: qwt|0|:eyes:||
 [#14250](https://github.com/conan-io/conan-center-index/pull/14250)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: khrplatform|0|||
 [#14251](https://github.com/conan-io/conan-center-index/pull/14251)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libnuma|0|||
 [#14252](https://github.com/conan-io/conan-center-index/pull/14252)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: enum-flags|0|||
@@ -91,6 +91,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14316](https://github.com/conan-io/conan-center-index/pull/14316)|[MartinDelille](https://github.com/MartinDelille)|Nov 20|:memo: openapi-generator|0|||
 [#14317](https://github.com/conan-io/conan-center-index/pull/14317)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: geotrans|0|||
 [#14318](https://github.com/conan-io/conan-center-index/pull/14318)|[toge](https://github.com/toge)|Nov 20|:new: alpaca|0|||
+[#14321](https://github.com/conan-io/conan-center-index/pull/14321)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:stopwatch: gumbo-parser|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -109,10 +110,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 225
+	- Open: 227
 	- Draft: 26
-	- Average Age: 71 days, 16 hours, and 25.08 minutes
-	- Stop Label: 120
+	- Average Age: 71 days, 5 hours, and 10.66 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
