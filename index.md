@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14313](https://github.com/conan-io/conan-center-index/pull/14313)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: litehtml|0|||
 [#14316](https://github.com/conan-io/conan-center-index/pull/14316)|[MartinDelille](https://github.com/MartinDelille)|Nov 20|:memo: openapi-generator|0|||
 [#14317](https://github.com/conan-io/conan-center-index/pull/14317)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: geotrans|0|||
-[#14318](https://github.com/conan-io/conan-center-index/pull/14318)|[toge](https://github.com/toge)|Nov 20|:stopwatch: alpaca|0|||
+[#14318](https://github.com/conan-io/conan-center-index/pull/14318)|[toge](https://github.com/toge)|Nov 20|:new: alpaca|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -111,7 +111,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 224
 	- Draft: 26
-	- Average Age: 71 days, 20 hours, and 0.95 minutes
+	- Average Age: 71 days, 21 hours, and 2.58 minutes
 	- Stop Label: 119
 	
 
