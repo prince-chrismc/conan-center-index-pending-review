@@ -1345,23 +1345,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14319,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-11-20T16:54:18Z",
-      "Recipe": "glpk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14319",
-      "LastCommitSHA": "c010b73f7f8ac773eb1df35b0f0bd530dce714d9",
-      "LastCommitAt": "2022-11-20T16:53:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
