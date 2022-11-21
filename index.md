@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **78** pull requests currently under way :detective:
+There are **79** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -105,6 +105,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14344](https://github.com/conan-io/conan-center-index/pull/14344)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 21|:memo: diligent-core|0|||
 [#14347](https://github.com/conan-io/conan-center-index/pull/14347)|[toge](https://github.com/toge)|Nov 21|:memo: wasmer|0|||
 [#14348](https://github.com/conan-io/conan-center-index/pull/14348)|[github-actions[bot]](https://github.com/github-actions[bot])|Nov 21|:green_book: docs|0|||
+[#14352](https://github.com/conan-io/conan-center-index/pull/14352)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:stopwatch: sqlite3|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -123,9 +124,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 235
+	- Open: 236
 	- Draft: 26
-	- Average Age: 69 days, 9 hours, and 27.17 minutes
+	- Average Age: 69 days, 4 hours, and 25.01 minutes
 	- Stop Label: 119
 	
 
