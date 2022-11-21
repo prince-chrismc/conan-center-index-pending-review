@@ -1431,11 +1431,18 @@
       "LastCommitAt": "2022-11-20T23:37:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-11-21T12:19:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14325#pullrequestreview-1188112028"
+         }
       }
    },
    {
@@ -1448,6 +1455,72 @@
       "LastCommitSHA": "6ad25a4cb3586f884dbe135f6d1b6af8645a4f91",
       "LastCommitAt": "2022-11-21T01:36:25Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-11-21T11:21:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14326#pullrequestreview-1188027257"
+         }
+      }
+   },
+   {
+      "Number": 14332,
+      "OpenedBy": "geirhei",
+      "CreatedAt": "2022-11-21T09:56:32Z",
+      "Recipe": "easyloggingpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14332",
+      "LastCommitSHA": "33f2afb08d2163034c4abf66bd17ab18fffeff05",
+      "LastCommitAt": "2022-11-21T12:19:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-11-21T10:49:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14332#pullrequestreview-1187980033"
+         }
+      }
+   },
+   {
+      "Number": 14333,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-21T11:22:28Z",
+      "Recipe": "libcbor",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14333",
+      "LastCommitSHA": "54f6ca4393c9f12e5f9560453f5d75130910431f",
+      "LastCommitAt": "2022-11-21T11:21:48Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14335,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-21T12:09:21Z",
+      "Recipe": "libusb",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14335",
+      "LastCommitSHA": "6bd6c789d46638d52d70ecee0e2775b231363022",
+      "LastCommitAt": "2022-11-21T12:08:20Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
