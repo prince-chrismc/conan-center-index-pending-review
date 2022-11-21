@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **71** pull requests currently under way :detective:
+There are **74** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -98,18 +98,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14332](https://github.com/conan-io/conan-center-index/pull/14332)|[geirhei](https://github.com/geirhei)|Nov 21|:stopwatch: easyloggingpp|1|Nov 21||
 [#14333](https://github.com/conan-io/conan-center-index/pull/14333)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:memo: libcbor|1|Nov 21||uilianries
 [#14335](https://github.com/conan-io/conan-center-index/pull/14335)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:memo: libusb|1|Nov 21||jwillikers
+[#14337](https://github.com/conan-io/conan-center-index/pull/14337)|[toge](https://github.com/toge)|Nov 21|:stopwatch: libpng|0|||
+[#14338](https://github.com/conan-io/conan-center-index/pull/14338)|[toge](https://github.com/toge)|Nov 21|:stopwatch: unordered_dense|0|||
+[#14339](https://github.com/conan-io/conan-center-index/pull/14339)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:stopwatch: libdisasm|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
-[#14115](https://github.com/conan-io/conan-center-index/pull/14115)|[RazielXYZ](https://github.com/RazielXYZ)|Nov 8|:memo: cccl|14|prince-chrismc, danimtb
-[#14326](https://github.com/conan-io/conan-center-index/pull/14326)|[toge](https://github.com/toge)|Nov 21|:memo: quill|2|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -120,8 +121,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 236
 	- Draft: 27
-	- Average Age: 69 days, 2 hours, and 38.93 minutes
-	- Stop Label: 123
+	- Average Age: 69 days, 1 hours, and 34.35 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
