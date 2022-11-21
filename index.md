@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **71** pull requests currently under way :detective:
+There are **73** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -63,15 +63,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14236](https://github.com/conan-io/conan-center-index/pull/14236)|[toge](https://github.com/toge)|Nov 17|:new: foonathan-lexy|0|:eyes:||
 [#14238](https://github.com/conan-io/conan-center-index/pull/14238)|[MartinDelille](https://github.com/MartinDelille)|Nov 17|:new: opengl-registry|5|Nov 17||
-[#14239](https://github.com/conan-io/conan-center-index/pull/14239)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 17|:memo: diligent-fx|0|||
+[#14239](https://github.com/conan-io/conan-center-index/pull/14239)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 17|:stopwatch: diligent-fx|1|Nov 21||SSE4
 [#14246](https://github.com/conan-io/conan-center-index/pull/14246)|[Yuhanun](https://github.com/Yuhanun)|Nov 17|:stopwatch: protobuf|0|:eyes:||
-[#14248](https://github.com/conan-io/conan-center-index/pull/14248)|[igormironchik](https://github.com/igormironchik)|Nov 17|:new: md4qt|0|||
+[#14248](https://github.com/conan-io/conan-center-index/pull/14248)|[igormironchik](https://github.com/igormironchik)|Nov 17|:new: md4qt|0|:eyes:||
 [#14249](https://github.com/conan-io/conan-center-index/pull/14249)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: qwt|0|:eyes:||
 [#14250](https://github.com/conan-io/conan-center-index/pull/14250)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: khrplatform|0|:eyes:||
 [#14251](https://github.com/conan-io/conan-center-index/pull/14251)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libnuma|0|:eyes:||
 [#14252](https://github.com/conan-io/conan-center-index/pull/14252)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: enum-flags|0|:eyes:||
 [#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:memo: gtest|0|:eyes:||
-[#14257](https://github.com/conan-io/conan-center-index/pull/14257)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: butteraugli|0|||
+[#14257](https://github.com/conan-io/conan-center-index/pull/14257)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: butteraugli|0|:eyes:||
 [#14262](https://github.com/conan-io/conan-center-index/pull/14262)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: capstone|0|||
 [#14263](https://github.com/conan-io/conan-center-index/pull/14263)|[toge](https://github.com/toge)|Nov 18|:memo: sqlitecpp|0|||
 [#14266](https://github.com/conan-io/conan-center-index/pull/14266)|[toge](https://github.com/toge)|Nov 18|:memo: foonathan-memory|0|||
@@ -98,6 +98,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14324](https://github.com/conan-io/conan-center-index/pull/14324)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: hedley|0|||
 [#14325](https://github.com/conan-io/conan-center-index/pull/14325)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: jthread-lite|0|||
 [#14326](https://github.com/conan-io/conan-center-index/pull/14326)|[toge](https://github.com/toge)|Nov 21|:memo: quill|0|||
+[#14329](https://github.com/conan-io/conan-center-index/pull/14329)|[KGrzeg](https://github.com/KGrzeg)|Nov 21|:stopwatch: libb64|0|||
+[#14330](https://github.com/conan-io/conan-center-index/pull/14330)|[toge](https://github.com/toge)|Nov 21|:stopwatch: miniaudio|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -116,9 +118,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 231
+	- Open: 233
 	- Draft: 26
-	- Average Age: 70 days, 9 hours, and 40.20 minutes
+	- Average Age: 69 days, 20 hours, and 4.72 minutes
 	- Stop Label: 121
 	
 
