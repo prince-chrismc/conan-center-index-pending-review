@@ -69,7 +69,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12360",
       "LastCommitSHA": "f4798d4cb65770407c63b624be2b5a393c8030bc",
       "LastCommitAt": "2022-11-21T18:33:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 18,
          "ValidApprovals": 0,
@@ -385,6 +385,29 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 14011,
+      "OpenedBy": "klimkin",
+      "CreatedAt": "2022-11-03T22:37:05Z",
+      "Recipe": "canary",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14011",
+      "LastCommitSHA": "d57647ffa0105d1b82cf1466fdf5565b8519f8be",
+      "LastCommitAt": "2022-11-21T19:12:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-11-21T14:33:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14011#pullrequestreview-1188348890"
+         }
       }
    },
    {
