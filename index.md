@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **77** pull requests currently under way :detective:
+There are **78** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,6 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13748](https://github.com/conan-io/conan-center-index/pull/13748)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 25|:gear: .github|2|Nov 15||
 [#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: catch2|13|Nov 15||danimtb
 [#13795](https://github.com/conan-io/conan-center-index/pull/13795)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: proj|0|:eyes:||
+[#13815](https://github.com/conan-io/conan-center-index/pull/13815)|[beckerhe](https://github.com/beckerhe)|Oct 27|:memo: llvm-core|9|Nov 17||
 [#13913](https://github.com/conan-io/conan-center-index/pull/13913)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 1|:new: cppfront|3|Nov 21||
 [#13988](https://github.com/conan-io/conan-center-index/pull/13988)|[robomics](https://github.com/robomics)|Nov 3|:memo: highfive|0|:eyes:||
 [#14011](https://github.com/conan-io/conan-center-index/pull/14011)|[klimkin](https://github.com/klimkin)|Nov 3|:stopwatch: canary|2|Nov 21||
@@ -101,7 +102,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14336](https://github.com/conan-io/conan-center-index/pull/14336)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:memo: libdc1394|0|||
 [#14339](https://github.com/conan-io/conan-center-index/pull/14339)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:memo: libdisasm|1|Nov 21||uilianries
 [#14340](https://github.com/conan-io/conan-center-index/pull/14340)|[RazielXYZ](https://github.com/RazielXYZ)|Nov 21|:memo: genie|1|Nov 21||
-[#14344](https://github.com/conan-io/conan-center-index/pull/14344)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 21|:stopwatch: diligent-core|0|||
+[#14344](https://github.com/conan-io/conan-center-index/pull/14344)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 21|:memo: diligent-core|0|||
 [#14347](https://github.com/conan-io/conan-center-index/pull/14347)|[toge](https://github.com/toge)|Nov 21|:memo: wasmer|0|||
 [#14348](https://github.com/conan-io/conan-center-index/pull/14348)|[github-actions[bot]](https://github.com/github-actions[bot])|Nov 21|:green_book: docs|0|||
 
@@ -124,8 +125,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 235
 	- Draft: 26
-	- Average Age: 69 days, 8 hours, and 27.95 minutes
-	- Stop Label: 120
+	- Average Age: 69 days, 9 hours, and 27.17 minutes
+	- Stop Label: 119
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
