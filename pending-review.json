@@ -1715,5 +1715,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14352,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-21T23:07:43Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14352",
+      "LastCommitSHA": "bc20758233fe08cd32109b8e6ce2f21d977be79c",
+      "LastCommitAt": "2022-11-21T23:05:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
