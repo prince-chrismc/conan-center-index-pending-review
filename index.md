@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **70** pull requests currently under way :detective:
+There are **71** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,6 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13971](https://github.com/conan-io/conan-center-index/pull/13971)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 2|:green_book: docs|6|Nov 16||SSE4
 [#13988](https://github.com/conan-io/conan-center-index/pull/13988)|[robomics](https://github.com/robomics)|Nov 3|:memo: highfive|0|||
 [#14011](https://github.com/conan-io/conan-center-index/pull/14011)|[klimkin](https://github.com/klimkin)|Nov 3|:new: canary|1|Nov 18||
+[#14019](https://github.com/conan-io/conan-center-index/pull/14019)|[pavelb-techspark](https://github.com/pavelb-techspark)|Nov 4|:stopwatch: hdf5|1|Nov 4 :bell:||
 [#14043](https://github.com/conan-io/conan-center-index/pull/14043)|[EmilienBINET](https://github.com/EmilienBINET)|Nov 5|:new: cpplogging|1|Nov 18||
 [#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:memo: openssl|0|:eyes:||
 [#14072](https://github.com/conan-io/conan-center-index/pull/14072)|[krsch](https://github.com/krsch)|Nov 6|:memo: cajun-jsonapi|3|Nov 14||prince-chrismc
@@ -69,7 +70,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14250](https://github.com/conan-io/conan-center-index/pull/14250)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: khrplatform|0|:eyes:||
 [#14251](https://github.com/conan-io/conan-center-index/pull/14251)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libnuma|0|:eyes:||
 [#14252](https://github.com/conan-io/conan-center-index/pull/14252)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: enum-flags|0|:eyes:||
-[#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:memo: gtest|0|||
+[#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:memo: gtest|0|:eyes:||
 [#14257](https://github.com/conan-io/conan-center-index/pull/14257)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: butteraugli|0|||
 [#14262](https://github.com/conan-io/conan-center-index/pull/14262)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: capstone|0|||
 [#14263](https://github.com/conan-io/conan-center-index/pull/14263)|[toge](https://github.com/toge)|Nov 18|:memo: sqlitecpp|0|||
@@ -117,7 +118,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 231
 	- Draft: 26
-	- Average Age: 70 days, 5 hours, and 43.28 minutes
+	- Average Age: 70 days, 9 hours, and 40.20 minutes
 	- Stop Label: 121
 	
 
