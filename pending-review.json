@@ -347,6 +347,29 @@
       }
    },
    {
+      "Number": 13815,
+      "OpenedBy": "beckerhe",
+      "CreatedAt": "2022-10-27T15:14:30Z",
+      "Recipe": "llvm-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13815",
+      "LastCommitSHA": "50cc64958998040f6b76d0e0d390278533344866",
+      "LastCommitAt": "2022-11-18T07:02:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 9,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-11-17T16:03:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13815#pullrequestreview-1184605614"
+         }
+      }
+   },
+   {
       "Number": 13913,
       "OpenedBy": "fpelliccioni",
       "CreatedAt": "2022-11-01T11:41:12Z",
@@ -1648,7 +1671,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14344",
       "LastCommitSHA": "0f9bc8d20d4039fca21f68a2d9085062d2f202ee",
       "LastCommitAt": "2022-11-21T14:53:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
