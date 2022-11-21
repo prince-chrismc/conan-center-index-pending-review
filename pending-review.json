@@ -849,13 +849,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14239",
       "LastCommitSHA": "d7c93f70a3477c41cb6af99cdb4bbfaf4c65c58a",
       "LastCommitAt": "2022-11-18T09:54:06Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-11-21T09:12:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14239#pullrequestreview-1187824584"
+         }
       }
    },
    {
@@ -1469,6 +1476,42 @@
       "LastCommitSHA": "6ad25a4cb3586f884dbe135f6d1b6af8645a4f91",
       "LastCommitAt": "2022-11-21T01:36:25Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14329,
+      "OpenedBy": "KGrzeg",
+      "CreatedAt": "2022-11-21T08:50:16Z",
+      "Recipe": "libb64",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14329",
+      "LastCommitSHA": "dfd819b6131b8aaf46d1b080b2f7ad9d2e6e662f",
+      "LastCommitAt": "2022-11-21T08:52:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14330,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-21T09:09:31Z",
+      "Recipe": "miniaudio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14330",
+      "LastCommitSHA": "7de1bd56758f188fa64ab1f0f64a1c6d1662ddcc",
+      "LastCommitAt": "2022-11-21T09:08:23Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
