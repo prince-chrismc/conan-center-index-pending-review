@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **80** pull requests currently under way :detective:
+There are **82** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -61,6 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14228](https://github.com/conan-io/conan-center-index/pull/14228)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: roaring|0|:eyes:||
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14236](https://github.com/conan-io/conan-center-index/pull/14236)|[toge](https://github.com/toge)|Nov 17|:new: foonathan-lexy|0|:eyes:||
+[#14237](https://github.com/conan-io/conan-center-index/pull/14237)|[toge](https://github.com/toge)|Nov 17|:stopwatch: daw_header_libraries|1|Nov 19||
 [#14238](https://github.com/conan-io/conan-center-index/pull/14238)|[MartinDelille](https://github.com/MartinDelille)|Nov 17|:new: opengl-registry|5|Nov 17||
 [#14246](https://github.com/conan-io/conan-center-index/pull/14246)|[Yuhanun](https://github.com/Yuhanun)|Nov 17|:stopwatch: protobuf|0|:eyes:||
 [#14248](https://github.com/conan-io/conan-center-index/pull/14248)|[igormironchik](https://github.com/igormironchik)|Nov 17|:new: md4qt|0|:eyes:||
@@ -77,12 +78,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14287](https://github.com/conan-io/conan-center-index/pull/14287)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: cnpy|0|:eyes:||
 [#14292](https://github.com/conan-io/conan-center-index/pull/14292)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: jpeg-compressor|0|:eyes:||
 [#14294](https://github.com/conan-io/conan-center-index/pull/14294)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: qpoases|0|:eyes:||
-[#14298](https://github.com/conan-io/conan-center-index/pull/14298)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: xtensor|0|||
+[#14298](https://github.com/conan-io/conan-center-index/pull/14298)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: xtensor|0|:eyes:||
 [#14299](https://github.com/conan-io/conan-center-index/pull/14299)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-tuple|0|||
 [#14300](https://github.com/conan-io/conan-center-index/pull/14300)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-sequences|0|||
 [#14301](https://github.com/conan-io/conan-center-index/pull/14301)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-operators|0|||
 [#14302](https://github.com/conan-io/conan-center-index/pull/14302)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: nvtx|0|||
 [#14303](https://github.com/conan-io/conan-center-index/pull/14303)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: zlib-ng|0|||
+[#14305](https://github.com/conan-io/conan-center-index/pull/14305)|[toge](https://github.com/toge)|Nov 19|:stopwatch: wasmtime|1|Nov 20||
 [#14307](https://github.com/conan-io/conan-center-index/pull/14307)|[toge](https://github.com/toge)|Nov 19|:new: cpp-lazy|1|Nov 22||uilianries
 [#14310](https://github.com/conan-io/conan-center-index/pull/14310)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: gcem|0|||
 [#14311](https://github.com/conan-io/conan-center-index/pull/14311)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libgcrypt|1|Nov 21||uilianries
@@ -126,8 +128,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
 	- Open: 236
-	- Draft: 26
-	- Average Age: 69 days, 17 hours, and 4.57 minutes
+	- Draft: 25
+	- Average Age: 69 days, 18 hours, and 3.34 minutes
 	- Stop Label: 116
 	
 
