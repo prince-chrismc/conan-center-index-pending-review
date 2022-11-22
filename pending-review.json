@@ -672,7 +672,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14172",
       "LastCommitSHA": "8388b81f68789893ffa6d688916962d7cd29f760",
       "LastCommitAt": "2022-11-21T23:21:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -1565,6 +1565,24 @@
       }
    },
    {
+      "Number": 14330,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-21T09:09:31Z",
+      "Recipe": "miniaudio",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14330",
+      "LastCommitSHA": "fdbd0139ebbdb0b62702798bc6d67a93a8c3c4b8",
+      "LastCommitAt": "2022-11-21T23:09:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14332,
       "OpenedBy": "geirhei",
       "CreatedAt": "2022-11-21T09:56:32Z",
@@ -1748,7 +1766,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14352",
       "LastCommitSHA": "bc20758233fe08cd32109b8e6ce2f21d977be79c",
       "LastCommitAt": "2022-11-21T23:05:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1766,7 +1784,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14353",
       "LastCommitSHA": "5088e8c5b2807bf3dd7a0d95ed3fbb6510072f1a",
       "LastCommitAt": "2022-11-21T23:35:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
