@@ -869,9 +869,9 @@
       "Recipe": "md4qt",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14248",
-      "LastCommitSHA": "b2173725cfae7ad8668417ccb68ebf162d48c127",
-      "LastCommitAt": "2022-11-22T18:04:22Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "30631cd5a56d3ef6656eee59a982414fc2c68bc6",
+      "LastCommitAt": "2022-11-22T18:41:32Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
