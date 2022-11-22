@@ -1768,11 +1768,18 @@
       "LastCommitAt": "2022-11-21T23:05:46Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-11-22T08:25:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14352#pullrequestreview-1189577272"
+         }
       }
    },
    {
