@@ -107,7 +107,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14344](https://github.com/conan-io/conan-center-index/pull/14344)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 21|:memo: diligent-core|0|||
 [#14347](https://github.com/conan-io/conan-center-index/pull/14347)|[toge](https://github.com/toge)|Nov 21|:memo: wasmer|0|||
 [#14348](https://github.com/conan-io/conan-center-index/pull/14348)|[github-actions[bot]](https://github.com/github-actions[bot])|Nov 21|:green_book: docs|1|Nov 21||prince-chrismc
-[#14352](https://github.com/conan-io/conan-center-index/pull/14352)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:memo: sqlite3|0|||
+[#14352](https://github.com/conan-io/conan-center-index/pull/14352)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:memo: sqlite3|1|Nov 22||uilianries
 [#14353](https://github.com/conan-io/conan-center-index/pull/14353)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 21|:memo: json-schema-validator|0|||
 
 
@@ -129,7 +129,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 237
 	- Draft: 26
-	- Average Age: 69 days, 1 hours, and 17.75 minutes
+	- Average Age: 69 days, 7 hours, and 23.58 minutes
 	- Stop Label: 117
 	
 
