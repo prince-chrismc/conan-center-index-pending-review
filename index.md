@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14302](https://github.com/conan-io/conan-center-index/pull/14302)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: nvtx|0|:eyes:||
 [#14303](https://github.com/conan-io/conan-center-index/pull/14303)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: zlib-ng|0|:eyes:||
 [#14305](https://github.com/conan-io/conan-center-index/pull/14305)|[toge](https://github.com/toge)|Nov 19|:memo: wasmtime|2|Nov 23||prince-chrismc
-[#14307](https://github.com/conan-io/conan-center-index/pull/14307)|[toge](https://github.com/toge)|Nov 19|:new: cpp-lazy|3|Nov 22||uilianries
+[#14307](https://github.com/conan-io/conan-center-index/pull/14307)|[toge](https://github.com/toge)|Nov 19|:new: cpp-lazy|3|Nov 22||
 [#14310](https://github.com/conan-io/conan-center-index/pull/14310)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: gcem|0|:eyes:||
 [#14311](https://github.com/conan-io/conan-center-index/pull/14311)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libgcrypt|1|Nov 21||uilianries
 [#14312](https://github.com/conan-io/conan-center-index/pull/14312)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: cpu_features|1|Nov 21||uilianries
@@ -136,7 +136,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 238
 	- Draft: 25
-	- Average Age: 66 days, 9 hours, and 36.37 minutes
+	- Average Age: 66 days, 11 hours, and 36.68 minutes
 	- Stop Label: 110
 	
 
