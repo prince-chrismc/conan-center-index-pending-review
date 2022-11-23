@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **89** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -111,12 +111,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14372](https://github.com/conan-io/conan-center-index/pull/14372)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: libnet|0|||
 [#14373](https://github.com/conan-io/conan-center-index/pull/14373)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: libnfs|1|Nov 23||jwillikers
 [#14376](https://github.com/conan-io/conan-center-index/pull/14376)|[Twon](https://github.com/Twon)|Nov 22|:stopwatch: arrow|1|Nov 23||toge
-[#14377](https://github.com/conan-io/conan-center-index/pull/14377)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:green_book: docs|8|Nov 23||franramirez688
+[#14377](https://github.com/conan-io/conan-center-index/pull/14377)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:green_book: docs|8|Nov 23||
 [#14379](https://github.com/conan-io/conan-center-index/pull/14379)|[toge](https://github.com/toge)|Nov 23|:new: wyhash|0|||
 [#14387](https://github.com/conan-io/conan-center-index/pull/14387)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: jsoncpp|2|Nov 23||
 [#14389](https://github.com/conan-io/conan-center-index/pull/14389)|[toge](https://github.com/toge)|Nov 23|:memo: zstd|0|||
 [#14392](https://github.com/conan-io/conan-center-index/pull/14392)|[toge](https://github.com/toge)|Nov 23|:memo: daw_json_link|0|||
-[#14393](https://github.com/conan-io/conan-center-index/pull/14393)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 23|:gear: .github|1|Nov 23||prince-chrismc
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -135,9 +134,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 238
+	- Open: 237
 	- Draft: 24
-	- Average Age: 66 days, 8 hours, and 27.41 minutes
+	- Average Age: 66 days, 16 hours, and 4.48 minutes
 	- Stop Label: 110
 	
 
