@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **87** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,7 +32,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15 :bell:||SSE4
 [#12360](https://github.com/conan-io/conan-center-index/pull/12360)|[szmyd](https://github.com/szmyd)|Aug 18|:new: nuraft|18|Oct 17 :bell:||
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
-[#13511](https://github.com/conan-io/conan-center-index/pull/13511)|[paulharris](https://github.com/paulharris)|Oct 15|:memo: libxml2|12|Nov 10 :bell:||prince-chrismc
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|3|Nov 14||prince-chrismc
 [#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|12|Nov 22||prince-chrismc
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||prince-chrismc
@@ -61,7 +60,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14228](https://github.com/conan-io/conan-center-index/pull/14228)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: roaring|1|Nov 22||prince-chrismc
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14236](https://github.com/conan-io/conan-center-index/pull/14236)|[toge](https://github.com/toge)|Nov 17|:new: foonathan-lexy|1|Nov 22||prince-chrismc
-[#14237](https://github.com/conan-io/conan-center-index/pull/14237)|[toge](https://github.com/toge)|Nov 17|:memo: daw_header_libraries|3|Nov 22||prince-chrismc
 [#14238](https://github.com/conan-io/conan-center-index/pull/14238)|[MartinDelille](https://github.com/MartinDelille)|Nov 17|:new: opengl-registry|7|Nov 22||prince-chrismc
 [#14246](https://github.com/conan-io/conan-center-index/pull/14246)|[Yuhanun](https://github.com/Yuhanun)|Nov 17|:stopwatch: protobuf|0|:eyes:||
 [#14248](https://github.com/conan-io/conan-center-index/pull/14248)|[igormironchik](https://github.com/igormironchik)|Nov 17|:new: md4qt|4|Nov 22||
@@ -120,12 +118,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
+[#14237](https://github.com/conan-io/conan-center-index/pull/14237)|[toge](https://github.com/toge)|Nov 17|:memo: daw_header_libraries|4|prince-chrismc, uilianries
 
 
 #### :clipboard: Statistics
@@ -134,9 +133,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 238
+	- Open: 237
 	- Draft: 25
-	- Average Age: 66 days, 11 hours, and 36.68 minutes
+	- Average Age: 66 days, 15 hours, and 22.98 minutes
 	- Stop Label: 110
 	
 
