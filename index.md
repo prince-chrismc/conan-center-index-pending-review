@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14377](https://github.com/conan-io/conan-center-index/pull/14377)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:green_book: docs|8|Nov 23||
 [#14379](https://github.com/conan-io/conan-center-index/pull/14379)|[toge](https://github.com/toge)|Nov 23|:new: wyhash|0|||
 [#14387](https://github.com/conan-io/conan-center-index/pull/14387)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: jsoncpp|2|Nov 23||
-[#14389](https://github.com/conan-io/conan-center-index/pull/14389)|[toge](https://github.com/toge)|Nov 23|:stopwatch: zstd|0|||
+[#14389](https://github.com/conan-io/conan-center-index/pull/14389)|[toge](https://github.com/toge)|Nov 23|:memo: zstd|0|||
 [#14392](https://github.com/conan-io/conan-center-index/pull/14392)|[toge](https://github.com/toge)|Nov 23|:memo: daw_json_link|0|||
 
 
@@ -137,7 +137,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 237
 	- Draft: 24
-	- Average Age: 66 days, 17 hours, and 7.88 minutes
+	- Average Age: 66 days, 18 hours, and 5.48 minutes
 	- Stop Label: 110
 	
 
