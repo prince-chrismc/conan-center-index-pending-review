@@ -710,16 +710,14 @@
       "Recipe": "qarchive",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14212",
-      "LastCommitSHA": "5be0c3be174b90d2f37df7917794087a9aa1d375",
-      "LastCommitAt": "2022-11-17T16:17:17Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a3e0ef18670e77a37bd16b06598b2b530861ef57",
+      "LastCommitAt": "2022-11-22T23:33:38Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -1795,9 +1793,9 @@
       "Recipe": "asmjit",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14364",
-      "LastCommitSHA": "63d37f51089ec064f3b4d635b65e9d9895728558",
-      "LastCommitAt": "2022-11-22T15:21:49Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "9bf2b975ecb9c2c8ef4182f221f1d3b1020bf87f",
+      "LastCommitAt": "2022-11-23T00:11:27Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1833,7 +1831,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14371",
       "LastCommitSHA": "753ef6382d6676efcd713f7c78261b1109bf4452",
       "LastCommitAt": "2022-11-22T17:41:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14372,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-22T19:39:07Z",
+      "Recipe": "libnet",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14372",
+      "LastCommitSHA": "b39936cbbd2a20ceec101e55fd990e17237b1471",
+      "LastCommitAt": "2022-11-22T20:55:13Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
