@@ -1298,16 +1298,14 @@
       "Recipe": "cpp-lazy",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14307",
-      "LastCommitSHA": "ee08c5bb09a940d03ec26c0491e24bb048279aa6",
-      "LastCommitAt": "2022-11-22T09:47:33Z",
+      "LastCommitSHA": "f053a0bcb2f3c9862c0860e2778c585a02e8da6e",
+      "LastCommitAt": "2022-11-23T07:45:38Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
