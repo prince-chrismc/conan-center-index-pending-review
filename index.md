@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **89** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -114,8 +114,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14377](https://github.com/conan-io/conan-center-index/pull/14377)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:green_book: docs|8|Nov 23||
 [#14379](https://github.com/conan-io/conan-center-index/pull/14379)|[toge](https://github.com/toge)|Nov 23|:new: wyhash|0|||
 [#14387](https://github.com/conan-io/conan-center-index/pull/14387)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: jsoncpp|2|Nov 23||
-[#14392](https://github.com/conan-io/conan-center-index/pull/14392)|[toge](https://github.com/toge)|Nov 23|:stopwatch: daw_json_link|0|||
-[#14395](https://github.com/conan-io/conan-center-index/pull/14395)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:stopwatch: perfetto|0|||
+[#14392](https://github.com/conan-io/conan-center-index/pull/14392)|[toge](https://github.com/toge)|Nov 23|:memo: daw_json_link|0|||
 [#14396](https://github.com/conan-io/conan-center-index/pull/14396)|[toge](https://github.com/toge)|Nov 23|:stopwatch: zstd|0|||
 
 
@@ -135,10 +134,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 238
+	- Open: 237
 	- Draft: 24
-	- Average Age: 66 days, 12 hours, and 20.68 minutes
-	- Stop Label: 111
+	- Average Age: 66 days, 20 hours, and 4.39 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
