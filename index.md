@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -107,7 +107,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14353](https://github.com/conan-io/conan-center-index/pull/14353)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 21|:memo: json-schema-validator|0|||
 [#14358](https://github.com/conan-io/conan-center-index/pull/14358)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: luple|0|||
 [#14359](https://github.com/conan-io/conan-center-index/pull/14359)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: mikktspace|0|||
-[#14362](https://github.com/conan-io/conan-center-index/pull/14362)|[Nekto89](https://github.com/Nekto89)|Nov 22|:memo: gdcm|0|||
+[#14362](https://github.com/conan-io/conan-center-index/pull/14362)|[Nekto89](https://github.com/Nekto89)|Nov 22|:stopwatch: gdcm|0|||
 [#14364](https://github.com/conan-io/conan-center-index/pull/14364)|[toge](https://github.com/toge)|Nov 22|:memo: asmjit|0|||
 [#14370](https://github.com/conan-io/conan-center-index/pull/14370)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:gear: linter|0|||
 [#14371](https://github.com/conan-io/conan-center-index/pull/14371)|[toge](https://github.com/toge)|Nov 22|:memo: libpqxx|0|||
@@ -117,6 +117,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14377](https://github.com/conan-io/conan-center-index/pull/14377)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:green_book: docs|8|Nov 23||franramirez688
 [#14379](https://github.com/conan-io/conan-center-index/pull/14379)|[toge](https://github.com/toge)|Nov 23|:new: wyhash|0|||
 [#14385](https://github.com/conan-io/conan-center-index/pull/14385)|[uilianries](https://github.com/uilianries)|Nov 23|:green_book: docs|0|||
+[#14387](https://github.com/conan-io/conan-center-index/pull/14387)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:stopwatch: jsoncpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -135,9 +136,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 237
+	- Open: 238
 	- Draft: 24
-	- Average Age: 66 days, 18 hours, and 1.69 minutes
+	- Average Age: 66 days, 12 hours, and 16.50 minutes
 	- Stop Label: 109
 	
 
