@@ -759,6 +759,24 @@
       }
    },
    {
+      "Number": 14243,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-17T15:28:35Z",
+      "Recipe": "hiredis",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14243",
+      "LastCommitSHA": "9eeae7a91441ea9f10f652bb0d56372fede03933",
+      "LastCommitAt": "2022-11-24T02:53:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14246,
       "OpenedBy": "Yuhanun",
       "CreatedAt": "2022-11-17T16:55:45Z",
