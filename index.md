@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **92** pull requests currently under way :detective:
+There are **93** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,7 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|12|Nov 14||
 [#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: catch2|13|Nov 15||danimtb
 [#13795](https://github.com/conan-io/conan-center-index/pull/13795)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: proj|0|:eyes:||
-[#13988](https://github.com/conan-io/conan-center-index/pull/13988)|[robomics](https://github.com/robomics)|Nov 3|:memo: highfive|2|Nov 22||
+[#13988](https://github.com/conan-io/conan-center-index/pull/13988)|[robomics](https://github.com/robomics)|Nov 3|:memo: highfive|3|Nov 24||uilianries
 [#14011](https://github.com/conan-io/conan-center-index/pull/14011)|[klimkin](https://github.com/klimkin)|Nov 3|:new: canary|4|Nov 22||
 [#14019](https://github.com/conan-io/conan-center-index/pull/14019)|[pavelb-techspark](https://github.com/pavelb-techspark)|Nov 4|:stopwatch: hdf5|1|Nov 4 :bell:||
 [#14043](https://github.com/conan-io/conan-center-index/pull/14043)|[EmilienBINET](https://github.com/EmilienBINET)|Nov 5|:new: cpplogging|1|Nov 18||
@@ -112,13 +112,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14372](https://github.com/conan-io/conan-center-index/pull/14372)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: libnet|0|||
 [#14373](https://github.com/conan-io/conan-center-index/pull/14373)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: libnfs|1|Nov 23||jwillikers
 [#14376](https://github.com/conan-io/conan-center-index/pull/14376)|[Twon](https://github.com/Twon)|Nov 22|:stopwatch: arrow|1|Nov 23||toge
-[#14377](https://github.com/conan-io/conan-center-index/pull/14377)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:green_book: docs|8|Nov 23||
+[#14377](https://github.com/conan-io/conan-center-index/pull/14377)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:green_book: docs|9|Nov 24||franramirez688
 [#14379](https://github.com/conan-io/conan-center-index/pull/14379)|[toge](https://github.com/toge)|Nov 23|:new: wyhash|0|||
 [#14387](https://github.com/conan-io/conan-center-index/pull/14387)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: jsoncpp|2|Nov 23||
 [#14392](https://github.com/conan-io/conan-center-index/pull/14392)|[toge](https://github.com/toge)|Nov 23|:memo: daw_json_link|1|Nov 24||prince-chrismc
 [#14395](https://github.com/conan-io/conan-center-index/pull/14395)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: perfetto|0|||
 [#14396](https://github.com/conan-io/conan-center-index/pull/14396)|[toge](https://github.com/toge)|Nov 23|:stopwatch: zstd|0|||
 [#14399](https://github.com/conan-io/conan-center-index/pull/14399)|[kou](https://github.com/kou)|Nov 24|:stopwatch: arrow|0|||
+[#14400](https://github.com/conan-io/conan-center-index/pull/14400)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 24|:stopwatch: cppfront|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -137,9 +138,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 238
+	- Open: 239
 	- Draft: 24
-	- Average Age: 66 days, 21 hours, and 17.08 minutes
+	- Average Age: 66 days, 16 hours, and 34.41 minutes
 	- Stop Label: 110
 	
 
