@@ -102,7 +102,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14340](https://github.com/conan-io/conan-center-index/pull/14340)|[RazielXYZ](https://github.com/RazielXYZ)|Nov 21|:memo: genie|1|Nov 21||
 [#14344](https://github.com/conan-io/conan-center-index/pull/14344)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 21|:memo: diligent-core|0|||
 [#14347](https://github.com/conan-io/conan-center-index/pull/14347)|[toge](https://github.com/toge)|Nov 21|:memo: wasmer|0|||
-[#14353](https://github.com/conan-io/conan-center-index/pull/14353)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 21|:memo: json-schema-validator|0|||
+[#14353](https://github.com/conan-io/conan-center-index/pull/14353)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 21|:stopwatch: json-schema-validator|0|||
 [#14358](https://github.com/conan-io/conan-center-index/pull/14358)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: luple|0|||
 [#14359](https://github.com/conan-io/conan-center-index/pull/14359)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: mikktspace|0|||
 [#14362](https://github.com/conan-io/conan-center-index/pull/14362)|[Nekto89](https://github.com/Nekto89)|Nov 22|:memo: gdcm|0|||
@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14377](https://github.com/conan-io/conan-center-index/pull/14377)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:green_book: docs|8|Nov 23||
 [#14379](https://github.com/conan-io/conan-center-index/pull/14379)|[toge](https://github.com/toge)|Nov 23|:new: wyhash|0|||
 [#14387](https://github.com/conan-io/conan-center-index/pull/14387)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: jsoncpp|2|Nov 23||
-[#14392](https://github.com/conan-io/conan-center-index/pull/14392)|[toge](https://github.com/toge)|Nov 23|:memo: daw_json_link|0|||
+[#14392](https://github.com/conan-io/conan-center-index/pull/14392)|[toge](https://github.com/toge)|Nov 23|:memo: daw_json_link|1|Nov 24||prince-chrismc
 [#14395](https://github.com/conan-io/conan-center-index/pull/14395)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: perfetto|0|||
 [#14396](https://github.com/conan-io/conan-center-index/pull/14396)|[toge](https://github.com/toge)|Nov 23|:stopwatch: zstd|0|||
 
@@ -138,7 +138,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 237
 	- Draft: 24
-	- Average Age: 67 days, 1 hours, and 7.90 minutes
+	- Average Age: 67 days, 3 hours, and 8.11 minutes
 	- Stop Label: 110
 	
 
