@@ -71,15 +71,17 @@
       "LastCommitAt": "2022-11-21T18:33:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 18,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 19,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-10-17T20:28:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12360#pullrequestreview-1144770684"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-11-24T10:51:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12360#pullrequestreview-1192950953"
          }
       }
    },
@@ -384,31 +386,6 @@
       }
    },
    {
-      "Number": 14072,
-      "OpenedBy": "krsch",
-      "CreatedAt": "2022-11-06T13:42:45Z",
-      "Recipe": "cajun-jsonapi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14072",
-      "LastCommitSHA": "5a62d2b2bab695d2abd3c01c2b080df39e032cf8",
-      "LastCommitAt": "2022-11-11T14:55:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-14T19:59:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14072#pullrequestreview-1179755508"
-         }
-      }
-   },
-   {
       "Number": 14080,
       "OpenedBy": "Doome161",
       "CreatedAt": "2022-11-06T17:41:43Z",
@@ -444,17 +421,18 @@
       "LastCommitAt": "2022-11-14T22:11:45Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-17T21:08:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14123#pullrequestreview-1185095532"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-11-24T11:11:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14123#pullrequestreview-1192964329"
          }
       }
    },
@@ -1996,31 +1974,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14399",
       "LastCommitSHA": "6b00531aa8bf4c167f4846985657e31705a59ed5",
       "LastCommitAt": "2022-11-24T06:38:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14400,
-      "OpenedBy": "fpelliccioni",
-      "CreatedAt": "2022-11-24T09:02:53Z",
-      "Recipe": "cppfront",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14400",
-      "LastCommitSHA": "a23370fd48e8158fabf038a950efaa34a5201c38",
-      "LastCommitAt": "2022-11-24T09:01:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-11-24T10:25:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14399#pullrequestreview-1192913458"
+         }
       }
    }
 ]
