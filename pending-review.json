@@ -1671,9 +1671,9 @@
       "Recipe": "json-schema-validator",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14353",
-      "LastCommitSHA": "5088e8c5b2807bf3dd7a0d95ed3fbb6510072f1a",
-      "LastCommitAt": "2022-11-21T23:35:23Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8e9e8e47b3872325b6e6e880f2fddaf2dcc0c02f",
+      "LastCommitAt": "2022-11-24T05:53:53Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1933,11 +1933,18 @@
       "LastCommitAt": "2022-11-23T16:15:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-11-24T05:53:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14392#pullrequestreview-1192557120"
+         }
       }
    },
    {
