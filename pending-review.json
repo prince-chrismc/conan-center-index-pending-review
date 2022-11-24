@@ -1635,8 +1635,8 @@
       "Recipe": "wasmer",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14347",
-      "LastCommitSHA": "15d1d89d30185e81f59a17be9c110d7769ebe857",
-      "LastCommitAt": "2022-11-21T17:07:27Z",
+      "LastCommitSHA": "619fc97d5275feed6d78620e2e70c558866a251c",
+      "LastCommitAt": "2022-11-23T23:16:09Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
