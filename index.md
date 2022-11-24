@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **84** pull requests currently under way :detective:
+There are **85** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -111,6 +111,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14405](https://github.com/conan-io/conan-center-index/pull/14405)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:stopwatch: harfbuzz|0|||
 [#14406](https://github.com/conan-io/conan-center-index/pull/14406)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:memo: gdk-pixbuf|0|||
 [#14412](https://github.com/conan-io/conan-center-index/pull/14412)|[toge](https://github.com/toge)|Nov 24|:stopwatch: simdjson|0|||
+[#14414](https://github.com/conan-io/conan-center-index/pull/14414)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:stopwatch: glib|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -130,9 +131,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 234
+	- Open: 235
 	- Draft: 24
-	- Average Age: 68 days, 1 hours, and 1.33 minutes
+	- Average Age: 67 days, 18 hours, and 57.57 minutes
 	- Stop Label: 114
 	
 
