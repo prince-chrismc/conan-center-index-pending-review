@@ -1931,5 +1931,77 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14416,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-25T03:20:45Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14416",
+      "LastCommitSHA": "7fcdbda937a65d76165ea3ebb20956eb64a1fcc9",
+      "LastCommitAt": "2022-11-25T03:20:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14417,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-25T03:24:38Z",
+      "Recipe": "c4core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14417",
+      "LastCommitSHA": "7ee55807affc7480c9761f91ee8f54af3d3e1a9a",
+      "LastCommitAt": "2022-11-25T03:23:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14418,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-25T03:27:55Z",
+      "Recipe": "scnlib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14418",
+      "LastCommitSHA": "90aa5a0a402fceb500ec091a4d23c81dd72a52ad",
+      "LastCommitAt": "2022-11-25T03:27:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14419,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-25T03:35:08Z",
+      "Recipe": "immer",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14419",
+      "LastCommitSHA": "376404baf13b5a94ddfe09c8d579ddeff15e4e13",
+      "LastCommitAt": "2022-11-25T01:33:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
