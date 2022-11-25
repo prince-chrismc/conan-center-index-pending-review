@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **76** pull requests currently under way :detective:
+There are **71** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -44,21 +44,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:memo: openssl|0|:eyes:||
 [#14136](https://github.com/conan-io/conan-center-index/pull/14136)|[Nekto89](https://github.com/Nekto89)|Nov 10|:memo: onetbb|1|Nov 14||prince-chrismc
 [#14140](https://github.com/conan-io/conan-center-index/pull/14140)|[Ignition](https://github.com/Ignition)|Nov 10|:memo: pybind11|1|Nov 24||uilianries
-[#14149](https://github.com/conan-io/conan-center-index/pull/14149)|[Sneder89](https://github.com/Sneder89)|Nov 10|:memo: cppcheck|13|Nov 25||MartinDelille
+[#14149](https://github.com/conan-io/conan-center-index/pull/14149)|[Sneder89](https://github.com/Sneder89)|Nov 10|:memo: cppcheck|14|Nov 25||MartinDelille
 [#14152](https://github.com/conan-io/conan-center-index/pull/14152)|[garethsb](https://github.com/garethsb)|Nov 11|:memo: nmos-cpp|3|Nov 25||
 [#14155](https://github.com/conan-io/conan-center-index/pull/14155)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: tracy|1|Nov 24||uilianries
 [#14174](https://github.com/conan-io/conan-center-index/pull/14174)|[toge](https://github.com/toge)|Nov 13|:memo: mimalloc|3|Nov 25||prince-chrismc
 [#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:memo: qarchive|3|Nov 25||prince-chrismc
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
-[#14243](https://github.com/conan-io/conan-center-index/pull/14243)|[toge](https://github.com/toge)|Nov 17|:memo: hiredis|1|Nov 24||uilianries
-[#14249](https://github.com/conan-io/conan-center-index/pull/14249)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: qwt|1|Nov 24||uilianries
 [#14250](https://github.com/conan-io/conan-center-index/pull/14250)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: khrplatform|1|Nov 24||uilianries
 [#14251](https://github.com/conan-io/conan-center-index/pull/14251)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libnuma|1|Nov 24||uilianries
 [#14256](https://github.com/conan-io/conan-center-index/pull/14256)|[oleurodecision](https://github.com/oleurodecision)|Nov 18|:memo: gtest|0|:eyes:||
 [#14257](https://github.com/conan-io/conan-center-index/pull/14257)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: butteraugli|1|Nov 24||uilianries
 [#14262](https://github.com/conan-io/conan-center-index/pull/14262)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: capstone|1|Nov 21||uilianries
 [#14263](https://github.com/conan-io/conan-center-index/pull/14263)|[toge](https://github.com/toge)|Nov 18|:memo: sqlitecpp|1|Nov 24||uilianries
-[#14266](https://github.com/conan-io/conan-center-index/pull/14266)|[toge](https://github.com/toge)|Nov 18|:memo: foonathan-memory|1|Nov 24||uilianries
 [#14287](https://github.com/conan-io/conan-center-index/pull/14287)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: cnpy|1|Nov 24||uilianries
 [#14291](https://github.com/conan-io/conan-center-index/pull/14291)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 19|:stopwatch: jasper|3|Nov 22||
 [#14292](https://github.com/conan-io/conan-center-index/pull/14292)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: jpeg-compressor|1|Nov 24||uilianries
@@ -76,7 +73,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14313](https://github.com/conan-io/conan-center-index/pull/14313)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: litehtml|1|Nov 21||uilianries
 [#14317](https://github.com/conan-io/conan-center-index/pull/14317)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: geotrans|1|Nov 21||uilianries
 [#14318](https://github.com/conan-io/conan-center-index/pull/14318)|[toge](https://github.com/toge)|Nov 20|:new: alpaca|1|Nov 21||uilianries
-[#14320](https://github.com/conan-io/conan-center-index/pull/14320)|[toge](https://github.com/toge)|Nov 20|:memo: behaviortree.cpp|1|Nov 22||uilianries
 [#14321](https://github.com/conan-io/conan-center-index/pull/14321)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: gumbo-parser|1|Nov 21||uilianries
 [#14323](https://github.com/conan-io/conan-center-index/pull/14323)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: heatshrink|1|Nov 21||uilianries
 [#14324](https://github.com/conan-io/conan-center-index/pull/14324)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: hedley|1|Nov 21||uilianries
@@ -99,7 +95,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14380](https://github.com/conan-io/conan-center-index/pull/14380)|[toge](https://github.com/toge)|Nov 23|:new: teemo|1|Nov 25||uilianries
 [#14395](https://github.com/conan-io/conan-center-index/pull/14395)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: perfetto|1|Nov 25||uilianries
 [#14396](https://github.com/conan-io/conan-center-index/pull/14396)|[toge](https://github.com/toge)|Nov 23|:memo: zstd|1|Nov 25||uilianries
-[#14401](https://github.com/conan-io/conan-center-index/pull/14401)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 24|:gear: .c3i|1|Nov 25||uilianries
 [#14406](https://github.com/conan-io/conan-center-index/pull/14406)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:memo: gdk-pixbuf|1|Nov 25||uilianries
 [#14410](https://github.com/conan-io/conan-center-index/pull/14410)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 24|:memo: abseil|0|||
 [#14424](https://github.com/conan-io/conan-center-index/pull/14424)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:stopwatch: vulkan-loader|1|Nov 25||uilianries
@@ -107,16 +102,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
-[#14185](https://github.com/conan-io/conan-center-index/pull/14185)|[SpaceIm](https://github.com/SpaceIm)|Nov 14|:memo: libstudxml|3|uilianries, prince-chrismc
 [#14228](https://github.com/conan-io/conan-center-index/pull/14228)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:warning: roaring|2|prince-chrismc, uilianries
-[#14248](https://github.com/conan-io/conan-center-index/pull/14248)|[igormironchik](https://github.com/igormironchik)|Nov 17|:new: md4qt|6|uilianries, prince-chrismc
+[#14249](https://github.com/conan-io/conan-center-index/pull/14249)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: qwt|3|uilianries, ericriff
+[#14266](https://github.com/conan-io/conan-center-index/pull/14266)|[toge](https://github.com/toge)|Nov 18|:memo: foonathan-memory|2|uilianries, prince-chrismc
+[#14320](https://github.com/conan-io/conan-center-index/pull/14320)|[toge](https://github.com/toge)|Nov 20|:memo: behaviortree.cpp|2|uilianries, prince-chrismc
 [#14376](https://github.com/conan-io/conan-center-index/pull/14376)|[Twon](https://github.com/Twon)|Nov 22|:warning: arrow|2|toge, uilianries
+[#14401](https://github.com/conan-io/conan-center-index/pull/14401)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 24|:gear: .c3i|2|uilianries, prince-chrismc
 [#14405](https://github.com/conan-io/conan-center-index/pull/14405)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:warning: harfbuzz|3|uilianries, ericLemanissier
 [#14423](https://github.com/conan-io/conan-center-index/pull/14423)|[franramirez688](https://github.com/franramirez688)|Nov 25|:memo: libsystemd|2|SpaceIm, uilianries
 
@@ -127,9 +124,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 232
+	- Open: 229
 	- Draft: 24
-	- Average Age: 69 days, and 10.98 minutes
+	- Average Age: 69 days, 20 hours, and 4.42 minutes
 	- Stop Label: 113
 	
 
