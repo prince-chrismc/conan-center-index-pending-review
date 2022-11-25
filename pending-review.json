@@ -1965,5 +1965,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14426,
+      "OpenedBy": "jngrb",
+      "CreatedAt": "2022-11-25T14:15:26Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14426",
+      "LastCommitSHA": "b51d60ae94406f7b619240676bd2e6c039053141",
+      "LastCommitAt": "2022-11-25T14:11:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
