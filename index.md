@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **84** pull requests currently under way :detective:
+There are **85** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,6 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:memo: openssl|0|:eyes:||
 [#14136](https://github.com/conan-io/conan-center-index/pull/14136)|[Nekto89](https://github.com/Nekto89)|Nov 10|:memo: onetbb|1|Nov 14||prince-chrismc
 [#14140](https://github.com/conan-io/conan-center-index/pull/14140)|[Ignition](https://github.com/Ignition)|Nov 10|:memo: pybind11|1|Nov 24||uilianries
+[#14149](https://github.com/conan-io/conan-center-index/pull/14149)|[Sneder89](https://github.com/Sneder89)|Nov 10|:memo: cppcheck|12|Nov 19||
 [#14155](https://github.com/conan-io/conan-center-index/pull/14155)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: tracy|1|Nov 24||uilianries
 [#14185](https://github.com/conan-io/conan-center-index/pull/14185)|[SpaceIm](https://github.com/SpaceIm)|Nov 14|:memo: libstudxml|2|Nov 23||uilianries
 [#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:memo: qarchive|2|Nov 18||
@@ -91,8 +92,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14344](https://github.com/conan-io/conan-center-index/pull/14344)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 21|:memo: diligent-core|0|:eyes:||
 [#14347](https://github.com/conan-io/conan-center-index/pull/14347)|[toge](https://github.com/toge)|Nov 21|:memo: wasmer|0|||
 [#14353](https://github.com/conan-io/conan-center-index/pull/14353)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 21|:memo: json-schema-validator|0|||
-[#14358](https://github.com/conan-io/conan-center-index/pull/14358)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: luple|0|||
-[#14359](https://github.com/conan-io/conan-center-index/pull/14359)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: mikktspace|0|||
+[#14358](https://github.com/conan-io/conan-center-index/pull/14358)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: luple|0|:eyes:||
+[#14359](https://github.com/conan-io/conan-center-index/pull/14359)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: mikktspace|0|:eyes:||
 [#14362](https://github.com/conan-io/conan-center-index/pull/14362)|[Nekto89](https://github.com/Nekto89)|Nov 22|:memo: gdcm|0|||
 [#14364](https://github.com/conan-io/conan-center-index/pull/14364)|[toge](https://github.com/toge)|Nov 22|:memo: asmjit|0|||
 [#14370](https://github.com/conan-io/conan-center-index/pull/14370)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 22|:gear: linter|0|||
@@ -110,7 +111,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14401](https://github.com/conan-io/conan-center-index/pull/14401)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 24|:gear: .c3i|0|||
 [#14405](https://github.com/conan-io/conan-center-index/pull/14405)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:stopwatch: harfbuzz|0|||
 [#14406](https://github.com/conan-io/conan-center-index/pull/14406)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:memo: gdk-pixbuf|0|||
-[#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:stopwatch: boost|0|||
+[#14423](https://github.com/conan-io/conan-center-index/pull/14423)|[franramirez688](https://github.com/franramirez688)|Nov 25|:stopwatch: libsystemd|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -132,7 +133,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 235
 	- Draft: 24
-	- Average Age: 68 days, 9 hours, and 0.28 minutes
+	- Average Age: 68 days, 10 hours, and 13.98 minutes
 	- Stop Label: 113
 	
 
