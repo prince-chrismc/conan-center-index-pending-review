@@ -1779,32 +1779,6 @@
       }
    },
    {
-      "Number": 14423,
-      "OpenedBy": "franramirez688",
-      "CreatedAt": "2022-11-25T11:53:47Z",
-      "Recipe": "libsystemd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14423",
-      "LastCommitSHA": "e6bdc4014e5b115a0e91c9ba89fc1b195dfd2b82",
-      "LastCommitAt": "2022-11-25T11:51:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-11-25T16:50:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14423#pullrequestreview-1194649905"
-         }
-      }
-   },
-   {
       "Number": 14424,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-25T12:58:20Z",
