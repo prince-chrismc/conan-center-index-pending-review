@@ -1916,11 +1916,18 @@
       "LastCommitAt": "2022-11-25T11:51:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-11-25T13:53:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14423#pullrequestreview-1194471269"
+         }
       }
    },
    {
@@ -1932,6 +1939,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14424",
       "LastCommitSHA": "de70882935cc1aea7f6fc0469c4a94fe1a5f818b",
       "LastCommitAt": "2022-11-25T12:57:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14425,
+      "OpenedBy": "reneme",
+      "CreatedAt": "2022-11-25T13:55:00Z",
+      "Recipe": "botan",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14425",
+      "LastCommitSHA": "fb8e72f64fbf3b6aa9b221b1e8988d9a9cfc6dfa",
+      "LastCommitAt": "2022-11-25T13:49:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
