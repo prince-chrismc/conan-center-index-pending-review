@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **86** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -113,6 +113,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14406](https://github.com/conan-io/conan-center-index/pull/14406)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:memo: gdk-pixbuf|0|||
 [#14412](https://github.com/conan-io/conan-center-index/pull/14412)|[toge](https://github.com/toge)|Nov 24|:stopwatch: simdjson|0|||
 [#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:stopwatch: boost|0|||
+[#14416](https://github.com/conan-io/conan-center-index/pull/14416)|[toge](https://github.com/toge)|Nov 25|:stopwatch: glaze|0|||
+[#14417](https://github.com/conan-io/conan-center-index/pull/14417)|[toge](https://github.com/toge)|Nov 25|:stopwatch: c4core|0|||
+[#14418](https://github.com/conan-io/conan-center-index/pull/14418)|[toge](https://github.com/toge)|Nov 25|:stopwatch: scnlib|0|||
+[#14419](https://github.com/conan-io/conan-center-index/pull/14419)|[toge](https://github.com/toge)|Nov 25|:stopwatch: immer|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -132,9 +136,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 236
+	- Open: 240
 	- Draft: 24
-	- Average Age: 67 days, 18 hours, and 2.53 minutes
+	- Average Age: 66 days, 17 hours, and 21.67 minutes
 	- Stop Label: 113
 	
 
