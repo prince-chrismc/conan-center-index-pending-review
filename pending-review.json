@@ -1914,6 +1914,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14423",
       "LastCommitSHA": "e6bdc4014e5b115a0e91c9ba89fc1b195dfd2b82",
       "LastCommitAt": "2022-11-25T11:51:38Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14424,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-25T12:58:20Z",
+      "Recipe": "vulkan-loader",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14424",
+      "LastCommitSHA": "de70882935cc1aea7f6fc0469c4a94fe1a5f818b",
+      "LastCommitAt": "2022-11-25T12:57:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
