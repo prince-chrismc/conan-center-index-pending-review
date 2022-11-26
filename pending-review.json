@@ -554,32 +554,6 @@
       }
    },
    {
-      "Number": 14263,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-18T12:41:39Z",
-      "Recipe": "sqlitecpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14263",
-      "LastCommitSHA": "542adbf15e9e477644acecb30f1afda8213dc591",
-      "LastCommitAt": "2022-11-18T12:39:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-26T21:02:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14263#pullrequestreview-1194908216"
-         }
-      }
-   },
-   {
       "Number": 14287,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-18T23:45:33Z",
