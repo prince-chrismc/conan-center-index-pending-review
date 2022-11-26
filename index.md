@@ -98,7 +98,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14396](https://github.com/conan-io/conan-center-index/pull/14396)|[toge](https://github.com/toge)|Nov 23|:memo: zstd|1|Nov 25||uilianries
 [#14406](https://github.com/conan-io/conan-center-index/pull/14406)|[planetmarshall](https://github.com/planetmarshall)|Nov 24|:memo: gdk-pixbuf|1|Nov 25||uilianries
 [#14410](https://github.com/conan-io/conan-center-index/pull/14410)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 24|:memo: abseil|0|||
-[#14424](https://github.com/conan-io/conan-center-index/pull/14424)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:stopwatch: vulkan-loader|1|Nov 25||uilianries
+[#14424](https://github.com/conan-io/conan-center-index/pull/14424)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: vulkan-loader|1|Nov 25||uilianries
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25||
 [#14430](https://github.com/conan-io/conan-center-index/pull/14430)|[kou](https://github.com/kou)|Nov 25|:stopwatch: arrow|0|||
 [#14432](https://github.com/conan-io/conan-center-index/pull/14432)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:new: v-hacd|0|||
@@ -123,7 +123,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 225
 	- Draft: 24
-	- Average Age: 71 days, 4 hours, and 56.13 minutes
+	- Average Age: 71 days, 5 hours, and 29.06 minutes
 	- Stop Label: 114
 	
 
