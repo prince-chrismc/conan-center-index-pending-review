@@ -1660,32 +1660,6 @@
       }
    },
    {
-      "Number": 14406,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2022-11-24T12:22:15Z",
-      "Recipe": "gdk-pixbuf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14406",
-      "LastCommitSHA": "97da45dd9b0f854fd3d40794aae12b07104286b3",
-      "LastCommitAt": "2022-11-25T08:42:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-11-26T14:35:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14406#pullrequestreview-1194880129"
-         }
-      }
-   },
-   {
       "Number": 14410,
       "OpenedBy": "Sil3ntStorm",
       "CreatedAt": "2022-11-24T14:33:37Z",
