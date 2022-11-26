@@ -1710,32 +1710,6 @@
       }
    },
    {
-      "Number": 14405,
-      "OpenedBy": "planetmarshall",
-      "CreatedAt": "2022-11-24T11:57:28Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14405",
-      "LastCommitSHA": "07df04be64cc0ac793bc6b650636db817b7de180",
-      "LastCommitAt": "2022-11-25T16:31:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2022-11-25T16:50:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14405#pullrequestreview-1194649750"
-         }
-      }
-   },
-   {
       "Number": 14406,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2022-11-24T12:22:15Z",
@@ -1800,6 +1774,29 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-11-25T16:52:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14424#pullrequestreview-1194650936"
+         }
+      }
+   },
+   {
+      "Number": 14426,
+      "OpenedBy": "jngrb",
+      "CreatedAt": "2022-11-25T14:15:26Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14426",
+      "LastCommitSHA": "cb4920091a50faf74d6ed902ca1eb194fd382a33",
+      "LastCommitAt": "2022-11-25T23:17:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-11-25T16:57:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14426#pullrequestreview-1194654947"
          }
       }
    },
