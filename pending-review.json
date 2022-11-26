@@ -1838,23 +1838,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14434,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-11-26T00:43:34Z",
-      "Recipe": "ode",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14434",
-      "LastCommitSHA": "2a57f90f88ba3987a63523d1a2fa7362e9afc248",
-      "LastCommitAt": "2022-11-26T00:43:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
