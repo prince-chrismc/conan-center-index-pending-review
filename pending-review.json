@@ -1878,5 +1878,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14436,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-11-26T08:29:03Z",
+      "Recipe": "quill",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14436",
+      "LastCommitSHA": "1490ee02452179031c334358110f792f7527079e",
+      "LastCommitAt": "2022-11-26T07:08:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
