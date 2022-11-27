@@ -1735,6 +1735,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14446",
       "LastCommitSHA": "9e4c8a9eed90b9b323ce5864d6f45b3b5e02d4ae",
       "LastCommitAt": "2022-11-27T14:01:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14450,
+      "OpenedBy": "beckerhe",
+      "CreatedAt": "2022-11-27T16:44:17Z",
+      "Recipe": "llvm-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14450",
+      "LastCommitSHA": "05b5f9ca9f8639238abc973fb5e32e2704928d35",
+      "LastCommitAt": "2022-11-27T16:41:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
