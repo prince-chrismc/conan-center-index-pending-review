@@ -89,7 +89,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14380](https://github.com/conan-io/conan-center-index/pull/14380)|[toge](https://github.com/toge)|Nov 23|:new: teemo|1|Nov 25||uilianries
 [#14395](https://github.com/conan-io/conan-center-index/pull/14395)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: perfetto|1|Nov 25||uilianries
 [#14403](https://github.com/conan-io/conan-center-index/pull/14403)|[miklelappo](https://github.com/miklelappo)|Nov 24|:memo: boost|0|||
-[#14410](https://github.com/conan-io/conan-center-index/pull/14410)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 24|:memo: abseil|0|||
+[#14410](https://github.com/conan-io/conan-center-index/pull/14410)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 24|:memo: abseil|1|Nov 27||SpaceIm
 [#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: boost|0|||
 [#14424](https://github.com/conan-io/conan-center-index/pull/14424)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: vulkan-loader|1|Nov 25||uilianries
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25||
@@ -117,10 +117,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 217
+	- Open: 218
 	- Draft: 24
-	- Average Age: 74 days, 16 hours, and 49.94 minutes
-	- Stop Label: 111
+	- Average Age: 74 days, 11 hours, and 30.37 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
