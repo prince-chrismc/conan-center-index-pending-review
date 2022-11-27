@@ -1702,24 +1702,6 @@
       }
    },
    {
-      "Number": 14441,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-11-27T01:34:39Z",
-      "Recipe": "civetweb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14441",
-      "LastCommitSHA": "e89c0107e590e3da475d1f57c8bdfb3f204d8a59",
-      "LastCommitAt": "2022-11-27T01:33:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 14443,
       "OpenedBy": "toge",
       "CreatedAt": "2022-11-27T02:17:00Z",
