@@ -1541,11 +1541,18 @@
       "LastCommitAt": "2022-11-25T00:08:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-11-27T10:36:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14410#pullrequestreview-1194963043"
+         }
       }
    },
    {
