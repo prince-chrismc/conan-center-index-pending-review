@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **68** pull requests currently under way :detective:
+There are **69** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -88,10 +88,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14432](https://github.com/conan-io/conan-center-index/pull/14432)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:new: v-hacd|0|||
 [#14434](https://github.com/conan-io/conan-center-index/pull/14434)|[SpaceIm](https://github.com/SpaceIm)|Nov 26|:new: ode|0|||
 [#14446](https://github.com/conan-io/conan-center-index/pull/14446)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: minizip-ng|0|||
+[#14447](https://github.com/conan-io/conan-center-index/pull/14447)|[toge](https://github.com/toge)|Nov 27|:memo: json-schema-validator|0|||
 [#14450](https://github.com/conan-io/conan-center-index/pull/14450)|[beckerhe](https://github.com/beckerhe)|Nov 27|:stopwatch: llvm-core|0|||
 [#14451](https://github.com/conan-io/conan-center-index/pull/14451)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: qwt|0|||
 [#14452](https://github.com/conan-io/conan-center-index/pull/14452)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: openfbx|0|||
-[#14453](https://github.com/conan-io/conan-center-index/pull/14453)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: tinygltf|0|||
+[#14453](https://github.com/conan-io/conan-center-index/pull/14453)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: tinygltf|0|||
 [#14455](https://github.com/conan-io/conan-center-index/pull/14455)|[toge](https://github.com/toge)|Nov 27|:stopwatch: c4core|0|||
 [#14456](https://github.com/conan-io/conan-center-index/pull/14456)|[toge](https://github.com/toge)|Nov 27|:stopwatch: scnlib|0|||
 [#14457](https://github.com/conan-io/conan-center-index/pull/14457)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: quantlib|0|||
@@ -116,8 +117,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
 	- Open: 210
-	- Draft: 22
-	- Average Age: 74 days, 3 hours, and 35.25 minutes
+	- Draft: 21
+	- Average Age: 74 days, 4 hours, and 25.65 minutes
 	- Stop Label: 107
 	
 
