@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **60** pull requests currently under way :detective:
+There are **61** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -44,7 +44,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14124](https://github.com/conan-io/conan-center-index/pull/14124)|[dvirtz](https://github.com/dvirtz)|Nov 9|:new: cppwinrt|0|:eyes:||
 [#14136](https://github.com/conan-io/conan-center-index/pull/14136)|[Nekto89](https://github.com/Nekto89)|Nov 10|:memo: onetbb|1|Nov 14 :bell:||prince-chrismc
 [#14149](https://github.com/conan-io/conan-center-index/pull/14149)|[Sneder89](https://github.com/Sneder89)|Nov 10|:memo: cppcheck|15|Nov 28||prince-chrismc
-[#14150](https://github.com/conan-io/conan-center-index/pull/14150)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: xlnt|5|Nov 28||uilianries
 [#14152](https://github.com/conan-io/conan-center-index/pull/14152)|[garethsb](https://github.com/garethsb)|Nov 11|:memo: nmos-cpp|3|Nov 25||
 [#14174](https://github.com/conan-io/conan-center-index/pull/14174)|[toge](https://github.com/toge)|Nov 13|:memo: mimalloc|4|Nov 28||prince-chrismc
 [#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:memo: qarchive|3|Nov 25||prince-chrismc
@@ -52,7 +51,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14234](https://github.com/conan-io/conan-center-index/pull/14234)|[goodtune](https://github.com/goodtune)|Nov 17|:memo: libvault|2|Nov 28||prince-chrismc
 [#14291](https://github.com/conan-io/conan-center-index/pull/14291)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 19|:memo: jasper|3|Nov 22||
 [#14317](https://github.com/conan-io/conan-center-index/pull/14317)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: geotrans|3|Nov 28||uilianries
-[#14321](https://github.com/conan-io/conan-center-index/pull/14321)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: gumbo-parser|2|Nov 28||uilianries
 [#14323](https://github.com/conan-io/conan-center-index/pull/14323)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: heatshrink|1|Nov 21||uilianries
 [#14324](https://github.com/conan-io/conan-center-index/pull/14324)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: hedley|1|Nov 21||uilianries
 [#14325](https://github.com/conan-io/conan-center-index/pull/14325)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: jthread-lite|1|Nov 21||uilianries
@@ -69,7 +67,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14379](https://github.com/conan-io/conan-center-index/pull/14379)|[toge](https://github.com/toge)|Nov 23|:new: wyhash|1|Nov 25||uilianries
 [#14380](https://github.com/conan-io/conan-center-index/pull/14380)|[toge](https://github.com/toge)|Nov 23|:new: teemo|1|Nov 25||uilianries
 [#14403](https://github.com/conan-io/conan-center-index/pull/14403)|[miklelappo](https://github.com/miklelappo)|Nov 24|:memo: boost|0|:eyes:||
-[#14410](https://github.com/conan-io/conan-center-index/pull/14410)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 24|:stopwatch: abseil|5|Nov 28|prince-chrismc|uilianries
+[#14410](https://github.com/conan-io/conan-center-index/pull/14410)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 24|:stopwatch: abseil|7|Nov 28|prince-chrismc|uilianries
 [#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: boost|1|Nov 28||jwillikers
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25||
 [#14430](https://github.com/conan-io/conan-center-index/pull/14430)|[kou](https://github.com/kou)|Nov 25|:memo: arrow|0|||
@@ -87,6 +85,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14457](https://github.com/conan-io/conan-center-index/pull/14457)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: quantlib|0|||
 [#14460](https://github.com/conan-io/conan-center-index/pull/14460)|[paulharris](https://github.com/paulharris)|Nov 28|:stopwatch: libffi|0|||
 [#14462](https://github.com/conan-io/conan-center-index/pull/14462)|[paulharris](https://github.com/paulharris)|Nov 28|:stopwatch: libgettext|1|Nov 28||
+[#14469](https://github.com/conan-io/conan-center-index/pull/14469)|[toge](https://github.com/toge)|Nov 28|:stopwatch: blend2d|0|||
+[#14470](https://github.com/conan-io/conan-center-index/pull/14470)|[toge](https://github.com/toge)|Nov 28|:stopwatch: stb|0|||
+[#14471](https://github.com/conan-io/conan-center-index/pull/14471)|[toge](https://github.com/toge)|Nov 28|:stopwatch: grpc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -97,7 +98,7 @@ Currently **4** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
-[#13973](https://github.com/conan-io/conan-center-index/pull/13973)|[dvirtz](https://github.com/dvirtz)|Nov 2|:memo: polymorphic_value|10|prince-chrismc, uilianries
+[#14150](https://github.com/conan-io/conan-center-index/pull/14150)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:warning: xlnt|6|uilianries, prince-chrismc
 [#14376](https://github.com/conan-io/conan-center-index/pull/14376)|[Twon](https://github.com/Twon)|Nov 22|:warning: arrow|2|toge, uilianries
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: libxml2|2|jwillikers, prince-chrismc
 
@@ -108,9 +109,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 203
+	- Open: 204
 	- Draft: 19
-	- Average Age: 76 days, 10 hours, and 31.71 minutes
+	- Average Age: 75 days, 22 hours, and 31.41 minutes
 	- Stop Label: 112
 	
 
