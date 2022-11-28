@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **70** pull requests currently under way :detective:
+There are **71** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -97,20 +97,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14455](https://github.com/conan-io/conan-center-index/pull/14455)|[toge](https://github.com/toge)|Nov 27|:stopwatch: c4core|0|||
 [#14456](https://github.com/conan-io/conan-center-index/pull/14456)|[toge](https://github.com/toge)|Nov 27|:stopwatch: scnlib|0|||
 [#14457](https://github.com/conan-io/conan-center-index/pull/14457)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: quantlib|0|||
+[#14458](https://github.com/conan-io/conan-center-index/pull/14458)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:stopwatch: spdlog|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
-[#14307](https://github.com/conan-io/conan-center-index/pull/14307)|[toge](https://github.com/toge)|Nov 19|:new: cpp-lazy|5|uilianries, prince-chrismc
-[#14318](https://github.com/conan-io/conan-center-index/pull/14318)|[toge](https://github.com/toge)|Nov 20|:new: alpaca|2|uilianries, prince-chrismc
-[#14344](https://github.com/conan-io/conan-center-index/pull/14344)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 21|:memo: diligent-core|2|uilianries, prince-chrismc
-[#14353](https://github.com/conan-io/conan-center-index/pull/14353)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 21|:memo: json-schema-validator|2|uilianries, toge
 [#14362](https://github.com/conan-io/conan-center-index/pull/14362)|[Nekto89](https://github.com/Nekto89)|Nov 22|:memo: gdcm|2|uilianries, prince-chrismc
 [#14376](https://github.com/conan-io/conan-center-index/pull/14376)|[Twon](https://github.com/Twon)|Nov 22|:warning: arrow|2|toge, uilianries
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: libxml2|2|jwillikers, prince-chrismc
@@ -122,9 +119,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 225
+	- Open: 222
 	- Draft: 25
-	- Average Age: 72 days, 12 hours, and 51.43 minutes
+	- Average Age: 73 days, 11 hours, and 7.47 minutes
 	- Stop Label: 112
 	
 
