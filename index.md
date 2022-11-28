@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **61** pull requests currently under way :detective:
+There are **59** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -34,7 +34,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13552](https://github.com/conan-io/conan-center-index/pull/13552)|[Nekto89](https://github.com/Nekto89)|Oct 17|:memo: onetbb|4|Nov 25||prince-chrismc
 [#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|14|Nov 24||prince-chrismc
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||prince-chrismc
-[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|12|Nov 14 :bell:||
 [#13794](https://github.com/conan-io/conan-center-index/pull/13794)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: catch2|14|Nov 28||
 [#13795](https://github.com/conan-io/conan-center-index/pull/13795)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: proj|0|:eyes:||
 [#14011](https://github.com/conan-io/conan-center-index/pull/14011)|[klimkin](https://github.com/klimkin)|Nov 3|:new: canary|5|Nov 25||prince-chrismc
@@ -87,7 +86,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14462](https://github.com/conan-io/conan-center-index/pull/14462)|[paulharris](https://github.com/paulharris)|Nov 28|:stopwatch: libgettext|1|Nov 28||
 [#14469](https://github.com/conan-io/conan-center-index/pull/14469)|[toge](https://github.com/toge)|Nov 28|:stopwatch: blend2d|0|||
 [#14470](https://github.com/conan-io/conan-center-index/pull/14470)|[toge](https://github.com/toge)|Nov 28|:stopwatch: stb|0|||
-[#14471](https://github.com/conan-io/conan-center-index/pull/14471)|[toge](https://github.com/toge)|Nov 28|:stopwatch: grpc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -111,8 +109,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 204
 	- Draft: 19
-	- Average Age: 75 days, 22 hours, and 31.41 minutes
-	- Stop Label: 112
+	- Average Age: 75 days, 23 hours, and 35.86 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
