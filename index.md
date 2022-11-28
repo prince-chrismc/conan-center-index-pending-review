@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **69** pull requests currently under way :detective:
+There are **60** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,24 +45,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14136](https://github.com/conan-io/conan-center-index/pull/14136)|[Nekto89](https://github.com/Nekto89)|Nov 10|:memo: onetbb|1|Nov 14 :bell:||prince-chrismc
 [#14149](https://github.com/conan-io/conan-center-index/pull/14149)|[Sneder89](https://github.com/Sneder89)|Nov 10|:memo: cppcheck|15|Nov 28||prince-chrismc
 [#14152](https://github.com/conan-io/conan-center-index/pull/14152)|[garethsb](https://github.com/garethsb)|Nov 11|:memo: nmos-cpp|3|Nov 25||
-[#14174](https://github.com/conan-io/conan-center-index/pull/14174)|[toge](https://github.com/toge)|Nov 13|:memo: mimalloc|3|Nov 25||
+[#14174](https://github.com/conan-io/conan-center-index/pull/14174)|[toge](https://github.com/toge)|Nov 13|:memo: mimalloc|4|Nov 28||prince-chrismc
 [#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:memo: qarchive|3|Nov 25||prince-chrismc
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
-[#14234](https://github.com/conan-io/conan-center-index/pull/14234)|[goodtune](https://github.com/goodtune)|Nov 17|:memo: libvault|1|Nov 25||
+[#14234](https://github.com/conan-io/conan-center-index/pull/14234)|[goodtune](https://github.com/goodtune)|Nov 17|:memo: libvault|2|Nov 28||prince-chrismc
 [#14291](https://github.com/conan-io/conan-center-index/pull/14291)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 19|:memo: jasper|3|Nov 22||
-[#14294](https://github.com/conan-io/conan-center-index/pull/14294)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: qpoases|1|Nov 25||uilianries
-[#14298](https://github.com/conan-io/conan-center-index/pull/14298)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: xtensor|1|Nov 25||uilianries
-[#14299](https://github.com/conan-io/conan-center-index/pull/14299)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-tuple|1|Nov 25||uilianries
-[#14300](https://github.com/conan-io/conan-center-index/pull/14300)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-sequences|1|Nov 25||uilianries
-[#14301](https://github.com/conan-io/conan-center-index/pull/14301)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-operators|1|Nov 25||uilianries
-[#14302](https://github.com/conan-io/conan-center-index/pull/14302)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: nvtx|1|Nov 25||uilianries
-[#14303](https://github.com/conan-io/conan-center-index/pull/14303)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: zlib-ng|1|Nov 25||uilianries
-[#14310](https://github.com/conan-io/conan-center-index/pull/14310)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: gcem|1|Nov 25||uilianries
-[#14311](https://github.com/conan-io/conan-center-index/pull/14311)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libgcrypt|1|Nov 21||uilianries
-[#14312](https://github.com/conan-io/conan-center-index/pull/14312)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: cpu_features|1|Nov 21||uilianries
-[#14313](https://github.com/conan-io/conan-center-index/pull/14313)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: litehtml|1|Nov 21||uilianries
-[#14317](https://github.com/conan-io/conan-center-index/pull/14317)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: geotrans|1|Nov 21||uilianries
-[#14321](https://github.com/conan-io/conan-center-index/pull/14321)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: gumbo-parser|1|Nov 21||uilianries
+[#14317](https://github.com/conan-io/conan-center-index/pull/14317)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: geotrans|3|Nov 28||uilianries
+[#14321](https://github.com/conan-io/conan-center-index/pull/14321)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: gumbo-parser|2|Nov 28||uilianries
 [#14323](https://github.com/conan-io/conan-center-index/pull/14323)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: heatshrink|1|Nov 21||uilianries
 [#14324](https://github.com/conan-io/conan-center-index/pull/14324)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: hedley|1|Nov 21||uilianries
 [#14325](https://github.com/conan-io/conan-center-index/pull/14325)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: jthread-lite|1|Nov 21||uilianries
@@ -96,16 +85,27 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14455](https://github.com/conan-io/conan-center-index/pull/14455)|[toge](https://github.com/toge)|Nov 27|:stopwatch: c4core|0|||
 [#14456](https://github.com/conan-io/conan-center-index/pull/14456)|[toge](https://github.com/toge)|Nov 27|:stopwatch: scnlib|0|||
 [#14457](https://github.com/conan-io/conan-center-index/pull/14457)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: quantlib|0|||
+[#14460](https://github.com/conan-io/conan-center-index/pull/14460)|[paulharris](https://github.com/paulharris)|Nov 28|:stopwatch: libffi|0|||
+[#14461](https://github.com/conan-io/conan-center-index/pull/14461)|[madduci](https://github.com/madduci)|Nov 28|:stopwatch: opene57|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
+[#14299](https://github.com/conan-io/conan-center-index/pull/14299)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-tuple|2|uilianries, prince-chrismc
+[#14300](https://github.com/conan-io/conan-center-index/pull/14300)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-sequences|2|uilianries, prince-chrismc
+[#14301](https://github.com/conan-io/conan-center-index/pull/14301)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: taocpp-operators|2|uilianries, prince-chrismc
+[#14302](https://github.com/conan-io/conan-center-index/pull/14302)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: nvtx|2|uilianries, prince-chrismc
+[#14303](https://github.com/conan-io/conan-center-index/pull/14303)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: zlib-ng|2|uilianries, prince-chrismc
+[#14310](https://github.com/conan-io/conan-center-index/pull/14310)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: gcem|2|uilianries, prince-chrismc
+[#14311](https://github.com/conan-io/conan-center-index/pull/14311)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libgcrypt|2|uilianries, prince-chrismc
+[#14312](https://github.com/conan-io/conan-center-index/pull/14312)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: cpu_features|2|uilianries, prince-chrismc
+[#14313](https://github.com/conan-io/conan-center-index/pull/14313)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: litehtml|2|uilianries, prince-chrismc
 [#14376](https://github.com/conan-io/conan-center-index/pull/14376)|[Twon](https://github.com/Twon)|Nov 22|:warning: arrow|2|toge, uilianries
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: libxml2|2|jwillikers, prince-chrismc
 
@@ -118,7 +118,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 210
 	- Draft: 21
-	- Average Age: 74 days, 4 hours, and 25.65 minutes
+	- Average Age: 74 days, 3 hours, and 22.15 minutes
 	- Stop Label: 107
 	
 
