@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **59** pull requests currently under way :detective:
+There are **60** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -86,18 +86,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14457](https://github.com/conan-io/conan-center-index/pull/14457)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: quantlib|0|||
 [#14460](https://github.com/conan-io/conan-center-index/pull/14460)|[paulharris](https://github.com/paulharris)|Nov 28|:stopwatch: libffi|0|||
 [#14462](https://github.com/conan-io/conan-center-index/pull/14462)|[paulharris](https://github.com/paulharris)|Nov 28|:stopwatch: libgettext|0|||
+[#14464](https://github.com/conan-io/conan-center-index/pull/14464)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 28|:new: nativefiledialog-extended|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14376](https://github.com/conan-io/conan-center-index/pull/14376)|[Twon](https://github.com/Twon)|Nov 22|:warning: arrow|2|toge, uilianries
-[#14424](https://github.com/conan-io/conan-center-index/pull/14424)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: vulkan-loader|2|uilianries, AndreyMlashkin
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: libxml2|2|jwillikers, prince-chrismc
 
 
@@ -109,7 +109,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 202
 	- Draft: 21
-	- Average Age: 76 days, 19 hours, and 52.70 minutes
+	- Average Age: 76 days, 20 hours, and 28.08 minutes
 	- Stop Label: 108
 	
 
