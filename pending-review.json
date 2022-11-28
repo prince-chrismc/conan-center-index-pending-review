@@ -1413,5 +1413,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14473,
+      "OpenedBy": "garethsb",
+      "CreatedAt": "2022-11-28T18:44:32Z",
+      "Recipe": "jwt-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14473",
+      "LastCommitSHA": "aee1d20e147a6a6f812496d42d3b59a2a2ba41c8",
+      "LastCommitAt": "2022-11-28T18:42:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14474,
+      "OpenedBy": "kletoz",
+      "CreatedAt": "2022-11-28T18:55:25Z",
+      "Recipe": "protobuf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14474",
+      "LastCommitSHA": "1f7b90e364cc5633a4010fd7d78492190bd7680d",
+      "LastCommitAt": "2022-11-28T14:39:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
