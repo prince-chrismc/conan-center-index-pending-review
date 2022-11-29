@@ -61,7 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14452](https://github.com/conan-io/conan-center-index/pull/14452)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: openfbx|0|||
 [#14453](https://github.com/conan-io/conan-center-index/pull/14453)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: tinygltf|0|||
 [#14457](https://github.com/conan-io/conan-center-index/pull/14457)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: quantlib|0|||
-[#14462](https://github.com/conan-io/conan-center-index/pull/14462)|[paulharris](https://github.com/paulharris)|Nov 28|:stopwatch: libgettext|1|Nov 28||
+[#14462](https://github.com/conan-io/conan-center-index/pull/14462)|[paulharris](https://github.com/paulharris)|Nov 28|:memo: libgettext|2|Nov 29||SpaceIm
 [#14469](https://github.com/conan-io/conan-center-index/pull/14469)|[toge](https://github.com/toge)|Nov 28|:stopwatch: blend2d|0|||
 [#14470](https://github.com/conan-io/conan-center-index/pull/14470)|[toge](https://github.com/toge)|Nov 28|:stopwatch: stb|0|||
 [#14473](https://github.com/conan-io/conan-center-index/pull/14473)|[garethsb](https://github.com/garethsb)|Nov 28|:stopwatch: jwt-cpp|1|Nov 28||prince-chrismc
@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14476](https://github.com/conan-io/conan-center-index/pull/14476)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:stopwatch: libhydrogen|0|||
 [#14487](https://github.com/conan-io/conan-center-index/pull/14487)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: sdl_ttf|0|||
 [#14489](https://github.com/conan-io/conan-center-index/pull/14489)|[Linux13524](https://github.com/Linux13524)|Nov 29|:stopwatch: soxr|0|||
-[#14491](https://github.com/conan-io/conan-center-index/pull/14491)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 29|:stopwatch: docs|0|||
+[#14491](https://github.com/conan-io/conan-center-index/pull/14491)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 29|:green_book: docs|0|||
 [#14492](https://github.com/conan-io/conan-center-index/pull/14492)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: sdl_net|0|||
 
 
@@ -100,8 +100,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 204
 	- Draft: 21
-	- Average Age: 76 days, 10 hours, and 24.28 minutes
-	- Stop Label: 119
+	- Average Age: 76 days, 11 hours, and 11.92 minutes
+	- Stop Label: 120
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
