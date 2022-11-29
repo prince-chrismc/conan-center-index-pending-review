@@ -216,8 +216,8 @@
       "Recipe": "proj",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13795",
-      "LastCommitSHA": "d306c4bc3618e3e28ffb11a78b6e1db0b1de1920",
-      "LastCommitAt": "2022-11-08T17:06:01Z",
+      "LastCommitSHA": "56280e80bdaff6bd921f605cc5f6b42cd4d733fa",
+      "LastCommitAt": "2022-11-29T04:15:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
