@@ -344,17 +344,14 @@
       "Recipe": "miniaudio",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14330",
-      "LastCommitSHA": "d3fa595b542ab8d4c19082bcfd4478f2966a2ad2",
-      "LastCommitAt": "2022-11-29T11:40:58Z",
+      "LastCommitSHA": "50177279910e155003e9485d94b080b6353240f8",
+      "LastCommitAt": "2022-11-30T21:28:06Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb",
-            "jwillikers"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -1238,7 +1235,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14506",
       "LastCommitSHA": "1fd70306faf8e873d2bf69b6d6612fdf74099c53",
       "LastCommitAt": "2022-11-30T19:58:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
