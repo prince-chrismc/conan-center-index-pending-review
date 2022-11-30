@@ -1241,5 +1241,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14498,
+      "OpenedBy": "goodtune",
+      "CreatedAt": "2022-11-30T06:05:01Z",
+      "Recipe": "libvault",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14498",
+      "LastCommitSHA": "043f618838ce9593811d37e11d845ffa05625508",
+      "LastCommitAt": "2022-11-30T06:03:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
