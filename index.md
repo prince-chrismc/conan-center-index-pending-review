@@ -73,8 +73,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14494](https://github.com/conan-io/conan-center-index/pull/14494)|[toge](https://github.com/toge)|Nov 30|:stopwatch: cpp-httplib|0|||
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:stopwatch: arrow|0|||
 [#14496](https://github.com/conan-io/conan-center-index/pull/14496)|[ZXfkSIE](https://github.com/ZXfkSIE)|Nov 30|:stopwatch: taglib|0|||
-[#14498](https://github.com/conan-io/conan-center-index/pull/14498)|[goodtune](https://github.com/goodtune)|Nov 30|:stopwatch: libvault|0|||
-[#14499](https://github.com/conan-io/conan-center-index/pull/14499)|[jiaoew1991](https://github.com/jiaoew1991)|Nov 30|:stopwatch: aws-sdk-cpp|0|||
+[#14498](https://github.com/conan-io/conan-center-index/pull/14498)|[goodtune](https://github.com/goodtune)|Nov 30|:memo: libvault|0|||
+[#14501](https://github.com/conan-io/conan-center-index/pull/14501)|[miklelappo](https://github.com/miklelappo)|Nov 30|:stopwatch: perfetto|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -101,10 +101,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 205
+	- Open: 206
 	- Draft: 22
-	- Average Age: 76 days, 8 hours, and 10.71 minutes
-	- Stop Label: 116
+	- Average Age: 76 days, and 22.43 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
