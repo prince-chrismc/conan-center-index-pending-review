@@ -851,7 +851,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14447",
       "LastCommitSHA": "fb7bbd18878a98623edc5cdbee8fa3cdd5c10721",
       "LastCommitAt": "2022-11-27T15:18:19Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -1238,15 +1238,15 @@
       }
    },
    {
-      "Number": 14502,
-      "OpenedBy": "staskau",
-      "CreatedAt": "2022-11-30T10:04:23Z",
-      "Recipe": "verilator",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14502",
-      "LastCommitSHA": "95cfa0e1f3999778bf10305c975167c4abd674cc",
-      "LastCommitAt": "2022-11-30T09:56:34Z",
-      "CciBotPassed": false,
+      "Number": 14503,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-30T10:47:17Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14503",
+      "LastCommitSHA": "8d9f2e1b6279d622e6cc7ceb2a3d77d6a684feba",
+      "LastCommitAt": "2022-11-30T10:55:56Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
