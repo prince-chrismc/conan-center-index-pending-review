@@ -71,7 +71,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14496](https://github.com/conan-io/conan-center-index/pull/14496)|[ZXfkSIE](https://github.com/ZXfkSIE)|Nov 30|:stopwatch: taglib|0|||
 [#14498](https://github.com/conan-io/conan-center-index/pull/14498)|[goodtune](https://github.com/goodtune)|Nov 30|:memo: libvault|0|||
 [#14501](https://github.com/conan-io/conan-center-index/pull/14501)|[miklelappo](https://github.com/miklelappo)|Nov 30|:stopwatch: perfetto|0|||
-[#14502](https://github.com/conan-io/conan-center-index/pull/14502)|[staskau](https://github.com/staskau)|Nov 30|:stopwatch: verilator|0|||
+[#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: libxml2|2|jwillikers, prince-chrismc
 [#14432](https://github.com/conan-io/conan-center-index/pull/14432)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:warning: v-hacd|2|uilianries, jwillikers
 [#14434](https://github.com/conan-io/conan-center-index/pull/14434)|[SpaceIm](https://github.com/SpaceIm)|Nov 26|:warning: ode|2|jwillikers, uilianries
-[#14447](https://github.com/conan-io/conan-center-index/pull/14447)|[toge](https://github.com/toge)|Nov 27|:memo: json-schema-validator|2|prince-chrismc, ericLemanissier
+[#14447](https://github.com/conan-io/conan-center-index/pull/14447)|[toge](https://github.com/toge)|Nov 27|:warning: json-schema-validator|2|prince-chrismc, ericLemanissier
 [#14473](https://github.com/conan-io/conan-center-index/pull/14473)|[garethsb](https://github.com/garethsb)|Nov 28|:warning: jwt-cpp|2|prince-chrismc, ericLemanissier
 
 
@@ -100,10 +100,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 205
+	- Open: 206
 	- Draft: 22
-	- Average Age: 76 days, 8 hours, and 18.75 minutes
-	- Stop Label: 117
+	- Average Age: 76 days, and 21.44 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
