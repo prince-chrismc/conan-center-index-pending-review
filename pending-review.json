@@ -1200,8 +1200,44 @@
       "Recipe": "android-ndk",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14504",
-      "LastCommitSHA": "c3b72ada71ecadc2b7debf7e99ecf020567677bf",
+      "LastCommitSHA": "296ad9a1abe3b1375bbca635ea60e990bf9552b3",
       "LastCommitAt": "2022-11-30T19:09:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14505,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-11-30T19:15:25Z",
+      "Recipe": "emsdk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14505",
+      "LastCommitSHA": "df11e153a444c5835abeac3f640a2f58e6617339",
+      "LastCommitAt": "2022-11-30T19:15:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14506,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-11-30T20:01:15Z",
+      "Recipe": "libalsa",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14506",
+      "LastCommitSHA": "1fd70306faf8e873d2bf69b6d6612fdf74099c53",
+      "LastCommitAt": "2022-11-30T19:58:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
