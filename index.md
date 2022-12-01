@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **49** pull requests currently under way :detective:
+There are **48** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -69,13 +69,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14498](https://github.com/conan-io/conan-center-index/pull/14498)|[goodtune](https://github.com/goodtune)|Nov 30|:memo: libvault|0|||
 [#14501](https://github.com/conan-io/conan-center-index/pull/14501)|[miklelappo](https://github.com/miklelappo)|Nov 30|:stopwatch: perfetto|0|||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|8|Dec 1||
-[#14504](https://github.com/conan-io/conan-center-index/pull/14504)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: android-ndk|0|||
+[#14504](https://github.com/conan-io/conan-center-index/pull/14504)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: android-ndk|1|Dec 1||
 [#14505](https://github.com/conan-io/conan-center-index/pull/14505)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: emsdk|0|||
 [#14506](https://github.com/conan-io/conan-center-index/pull/14506)|[jwillikers](https://github.com/jwillikers)|Nov 30|:memo: libalsa|0|||
 [#14507](https://github.com/conan-io/conan-center-index/pull/14507)|[toge](https://github.com/toge)|Dec 1|:stopwatch: simdutf|0|||
 [#14511](https://github.com/conan-io/conan-center-index/pull/14511)|[toge](https://github.com/toge)|Dec 1|:stopwatch: xsimd|0|||
 [#14512](https://github.com/conan-io/conan-center-index/pull/14512)|[SpaceIm](https://github.com/SpaceIm)|Dec 1|:stopwatch: m4|0|||
-[#14514](https://github.com/conan-io/conan-center-index/pull/14514)|[ovostrikov](https://github.com/ovostrikov)|Dec 1|:stopwatch: icu|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -106,7 +105,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 212
 	- Draft: 20
-	- Average Age: 74 days, 15 hours, and 56.79 minutes
+	- Average Age: 74 days, 16 hours, and 58.67 minutes
 	- Stop Label: 122
 	
 
