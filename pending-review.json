@@ -1178,15 +1178,15 @@
       "LastCommitAt": "2022-11-30T18:44:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 8,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2022-11-30T15:47:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14503#pullrequestreview-1199576682"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-12-01T05:38:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14503#pullrequestreview-1200390696"
          }
       }
    },
@@ -1253,6 +1253,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14507",
       "LastCommitSHA": "0bb94e552266809abfcf002ab08350d09481aba1",
       "LastCommitAt": "2022-12-01T00:18:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14509,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-01T06:05:52Z",
+      "Recipe": "cassandra-cpp-driver",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14509",
+      "LastCommitSHA": "3da99bbdcec5f876888cfdf1858835997cf4bd79",
+      "LastCommitAt": "2022-12-01T06:00:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
