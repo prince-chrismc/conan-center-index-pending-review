@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **50** pull requests currently under way :detective:
+There are **52** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -35,7 +35,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||prince-chrismc
 [#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:memo: openssl|0|:eyes:||
 [#14124](https://github.com/conan-io/conan-center-index/pull/14124)|[dvirtz](https://github.com/dvirtz)|Nov 9|:new: cppwinrt|0|:eyes:||
-[#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:stopwatch: qarchive|5|Nov 29||
+[#14212](https://github.com/conan-io/conan-center-index/pull/14212)|[ericriff](https://github.com/ericriff)|Nov 15|:memo: qarchive|5|Nov 29||
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14317](https://github.com/conan-io/conan-center-index/pull/14317)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: geotrans|3|Nov 28||uilianries
 [#14330](https://github.com/conan-io/conan-center-index/pull/14330)|[toge](https://github.com/toge)|Nov 21|:stopwatch: miniaudio|6|Dec 1||uilianries
@@ -57,6 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14453](https://github.com/conan-io/conan-center-index/pull/14453)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: tinygltf|0|:eyes:||
 [#14457](https://github.com/conan-io/conan-center-index/pull/14457)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: quantlib|1|Nov 30||jwillikers
 [#14462](https://github.com/conan-io/conan-center-index/pull/14462)|[paulharris](https://github.com/paulharris)|Nov 28|:memo: libgettext|2|Nov 29||SpaceIm
+[#14468](https://github.com/conan-io/conan-center-index/pull/14468)|[toge](https://github.com/toge)|Nov 28|:memo: imgui|0|||
 [#14470](https://github.com/conan-io/conan-center-index/pull/14470)|[toge](https://github.com/toge)|Nov 28|:memo: stb|0|||
 [#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:stopwatch: protobuf|0|||
 [#14476](https://github.com/conan-io/conan-center-index/pull/14476)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:stopwatch: libhydrogen|0|||
@@ -77,6 +78,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14511](https://github.com/conan-io/conan-center-index/pull/14511)|[toge](https://github.com/toge)|Dec 1|:stopwatch: xsimd|0|||
 [#14512](https://github.com/conan-io/conan-center-index/pull/14512)|[SpaceIm](https://github.com/SpaceIm)|Dec 1|:stopwatch: m4|0|||
 [#14514](https://github.com/conan-io/conan-center-index/pull/14514)|[ovostrikov](https://github.com/ovostrikov)|Dec 1|:stopwatch: icu|2|Dec 1||
+[#14516](https://github.com/conan-io/conan-center-index/pull/14516)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 1|:gear: .c3i|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -105,9 +107,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 212
+	- Open: 214
 	- Draft: 20
-	- Average Age: 74 days, 17 hours, and 54.88 minutes
+	- Average Age: 74 days, 9 hours, and 41.83 minutes
 	- Stop Label: 121
 	
 
