@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **18** pull requests are waiting to be merged :tada:
+Currently **16** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -73,9 +73,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: libxml2|2|jwillikers, prince-chrismc
 [#14431](https://github.com/conan-io/conan-center-index/pull/14431)|[kou](https://github.com/kou)|Nov 25|:warning: arrow|14|SpaceIm, toge, jwillikers, uilianries
 [#14446](https://github.com/conan-io/conan-center-index/pull/14446)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:warning: minizip-ng|2|uilianries, jwillikers
-[#14447](https://github.com/conan-io/conan-center-index/pull/14447)|[toge](https://github.com/toge)|Nov 27|:memo: json-schema-validator|2|prince-chrismc, ericLemanissier
 [#14468](https://github.com/conan-io/conan-center-index/pull/14468)|[toge](https://github.com/toge)|Nov 28|:warning: imgui|3|jwillikers, uilianries
-[#14487](https://github.com/conan-io/conan-center-index/pull/14487)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: sdl_ttf|2|jwillikers, uilianries
 [#14491](https://github.com/conan-io/conan-center-index/pull/14491)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 29|:green_book: docs|3|SSE4, uilianries
 [#14492](https://github.com/conan-io/conan-center-index/pull/14492)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: sdl_net|2|jwillikers, uilianries
 [#14498](https://github.com/conan-io/conan-center-index/pull/14498)|[goodtune](https://github.com/goodtune)|Nov 30|:memo: libvault|2|prince-chrismc, ericLemanissier
@@ -89,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e82f70d2e821ffaecaf1167e3fcc2d4203bb6e45
 - Pull Requests:
-	- Open: 198
+	- Open: 196
 	- Draft: 18
-	- Average Age: 80 days, 7 hours, and 28.85 minutes
+	- Average Age: 81 days, 3 hours, and 5.24 minutes
 	- Stop Label: 123
 	
 
