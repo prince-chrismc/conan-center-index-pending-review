@@ -861,6 +861,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14548",
       "LastCommitSHA": "26e0733556511e3ee291364d81dc2a17a35a5df0",
       "LastCommitAt": "2022-12-03T08:27:23Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14549,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2022-12-03T09:57:25Z",
+      "Recipe": "md4qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14549",
+      "LastCommitSHA": "cc647fbb43ad4b66d270ba27ff67126eec4ef450",
+      "LastCommitAt": "2022-12-03T09:55:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
