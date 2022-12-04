@@ -62,6 +62,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14527](https://github.com/conan-io/conan-center-index/pull/14527)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 1|:green_book: docs|2|Dec 2||SSE4
 [#14530](https://github.com/conan-io/conan-center-index/pull/14530)|[Alex-PLACET](https://github.com/Alex-PLACET)|Dec 2|:stopwatch: primesieve|0|||
 [#14543](https://github.com/conan-io/conan-center-index/pull/14543)|[antekone](https://github.com/antekone)|Dec 2|:stopwatch: loguru|0|||
+[#14544](https://github.com/conan-io/conan-center-index/pull/14544)|[System-Arch](https://github.com/System-Arch)|Dec 2|:memo: m4|4|Dec 3||
 [#14546](https://github.com/conan-io/conan-center-index/pull/14546)|[toge](https://github.com/toge)|Dec 3|:new: zpp_bits|0|||
 [#14548](https://github.com/conan-io/conan-center-index/pull/14548)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: libdeflate|0|||
 [#14552](https://github.com/conan-io/conan-center-index/pull/14552)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: rply|0|||
@@ -70,7 +71,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14558](https://github.com/conan-io/conan-center-index/pull/14558)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: flecs|1|Dec 4||prince-chrismc
 [#14559](https://github.com/conan-io/conan-center-index/pull/14559)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: re2|0|||
 [#14561](https://github.com/conan-io/conan-center-index/pull/14561)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: muparser|1|Dec 4||prince-chrismc
-[#14562](https://github.com/conan-io/conan-center-index/pull/14562)|[MartinDelille](https://github.com/MartinDelille)|Dec 4|:stopwatch: qxlsx|1|Dec 4||
 [#14563](https://github.com/conan-io/conan-center-index/pull/14563)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: safeint|0|||
 [#14564](https://github.com/conan-io/conan-center-index/pull/14564)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: hlslpp|0|||
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|0|||
@@ -98,7 +98,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 199
 	- Draft: 20
-	- Average Age: 79 days, 13 hours, and 31.61 minutes
+	- Average Age: 79 days, 14 hours, and 26.69 minutes
 	- Stop Label: 120
 	
 
