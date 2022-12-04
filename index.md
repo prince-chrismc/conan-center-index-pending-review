@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -69,7 +69,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14558](https://github.com/conan-io/conan-center-index/pull/14558)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:stopwatch: flecs|0|||
 [#14559](https://github.com/conan-io/conan-center-index/pull/14559)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:stopwatch: re2|0|||
 [#14561](https://github.com/conan-io/conan-center-index/pull/14561)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:stopwatch: muparser|0|||
-[#14562](https://github.com/conan-io/conan-center-index/pull/14562)|[MartinDelille](https://github.com/MartinDelille)|Dec 4|:stopwatch: qxlsx|0|:eyes:||
 [#14563](https://github.com/conan-io/conan-center-index/pull/14563)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:stopwatch: safeint|0|||
 [#14564](https://github.com/conan-io/conan-center-index/pull/14564)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:stopwatch: hlslpp|0|||
 [#14565](https://github.com/conan-io/conan-center-index/pull/14565)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:stopwatch: reactiveplusplus|0|||
@@ -96,8 +95,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 195
 	- Draft: 18
-	- Average Age: 80 days, 11 hours, and 16.62 minutes
-	- Stop Label: 120
+	- Average Age: 80 days, 11 hours, and 24.72 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
