@@ -1034,6 +1034,29 @@
       }
    },
    {
+      "Number": 14562,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2022-12-04T00:22:23Z",
+      "Recipe": "qxlsx",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14562",
+      "LastCommitSHA": "dd75a459c8f1a398b5e5f281912c37eaaecd7253",
+      "LastCommitAt": "2022-12-04T18:06:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-12-04T11:31:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14562#pullrequestreview-1203638712"
+         }
+      }
+   },
+   {
       "Number": 14563,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-12-04T00:28:56Z",
