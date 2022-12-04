@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **45** pull requests currently under way :detective:
+There are **47** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,6 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|10|Dec 2||jwillikers
 [#14504](https://github.com/conan-io/conan-center-index/pull/14504)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: android-ndk|2|Dec 2||
 [#14505](https://github.com/conan-io/conan-center-index/pull/14505)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: emsdk|2|Dec 2||jwillikers
+[#14507](https://github.com/conan-io/conan-center-index/pull/14507)|[toge](https://github.com/toge)|Dec 1|:memo: simdutf|0|||
 [#14510](https://github.com/conan-io/conan-center-index/pull/14510)|[toge](https://github.com/toge)|Dec 1|:memo: c-blosc2|0|||
 [#14514](https://github.com/conan-io/conan-center-index/pull/14514)|[ovostrikov](https://github.com/ovostrikov)|Dec 1|:memo: icu|4|Dec 1||SpaceIm, jwillikers
 [#14518](https://github.com/conan-io/conan-center-index/pull/14518)|[toge](https://github.com/toge)|Dec 1|:memo: opentelemetry-cpp|0|||
@@ -66,12 +67,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14552](https://github.com/conan-io/conan-center-index/pull/14552)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: rply|0|||
 [#14553](https://github.com/conan-io/conan-center-index/pull/14553)|[garethsb](https://github.com/garethsb)|Dec 3|:memo: nmos-cpp|0|||
 [#14556](https://github.com/conan-io/conan-center-index/pull/14556)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: linmath.h|0|||
-[#14558](https://github.com/conan-io/conan-center-index/pull/14558)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: flecs|0|||
+[#14558](https://github.com/conan-io/conan-center-index/pull/14558)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: flecs|1|Dec 4||prince-chrismc
 [#14559](https://github.com/conan-io/conan-center-index/pull/14559)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:stopwatch: re2|0|||
-[#14561](https://github.com/conan-io/conan-center-index/pull/14561)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: muparser|0|||
+[#14561](https://github.com/conan-io/conan-center-index/pull/14561)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: muparser|1|Dec 4||prince-chrismc
 [#14563](https://github.com/conan-io/conan-center-index/pull/14563)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: safeint|0|||
 [#14564](https://github.com/conan-io/conan-center-index/pull/14564)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: hlslpp|0|||
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|0|||
+[#14569](https://github.com/conan-io/conan-center-index/pull/14569)|[tt4g](https://github.com/tt4g)|Dec 4|:stopwatch: fruit|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -95,8 +97,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 195
 	- Draft: 18
-	- Average Age: 80 days, 13 hours, and 30.80 minutes
-	- Stop Label: 120
+	- Average Age: 80 days, 14 hours, and 31.57 minutes
+	- Stop Label: 119
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
