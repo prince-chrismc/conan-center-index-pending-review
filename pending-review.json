@@ -1278,7 +1278,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14593",
       "LastCommitSHA": "0dfd2ccb6f1994b5e64c9b074a4faa1a98985252",
       "LastCommitAt": "2022-12-05T20:14:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1333,6 +1333,42 @@
       "LastCommitSHA": "8a7401e7dc12978dcfbdfbf6aa9564ee1bd8bd44",
       "LastCommitAt": "2022-12-05T19:29:02Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14598,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-12-05T20:37:32Z",
+      "Recipe": "wayland-protocols",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14598",
+      "LastCommitSHA": "e99be9c709d9921631a209aada392222ab55697d",
+      "LastCommitAt": "2022-12-05T20:35:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14600,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-05T20:56:08Z",
+      "Recipe": "libdeflate",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14600",
+      "LastCommitSHA": "6b8bfc0fe3b541a7c704d5188c9d841754ff5ed9",
+      "LastCommitAt": "2022-12-05T20:52:59Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
