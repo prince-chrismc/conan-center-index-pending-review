@@ -74,12 +74,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14563](https://github.com/conan-io/conan-center-index/pull/14563)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: safeint|0|||
 [#14564](https://github.com/conan-io/conan-center-index/pull/14564)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: hlslpp|0|||
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|0|||
-[#14571](https://github.com/conan-io/conan-center-index/pull/14571)|[toge](https://github.com/toge)|Dec 4|:stopwatch: wasmedge|0|||
+[#14571](https://github.com/conan-io/conan-center-index/pull/14571)|[toge](https://github.com/toge)|Dec 4|:memo: wasmedge|0|||
 [#14572](https://github.com/conan-io/conan-center-index/pull/14572)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: libtar|0|||
 [#14576](https://github.com/conan-io/conan-center-index/pull/14576)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: glfw|0|||
 [#14577](https://github.com/conan-io/conan-center-index/pull/14577)|[toge](https://github.com/toge)|Dec 5|:memo: watcher|0|||
 [#14578](https://github.com/conan-io/conan-center-index/pull/14578)|[igormironchik](https://github.com/igormironchik)|Dec 5|:memo: read-excel|0|||
-[#14579](https://github.com/conan-io/conan-center-index/pull/14579)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 5|:stopwatch: glibmm|0|||
+[#14580](https://github.com/conan-io/conan-center-index/pull/14580)|[kletoz](https://github.com/kletoz)|Dec 5|:stopwatch: openssl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -101,9 +101,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b014bc0ccdf8d34ba518ceec51a5579161d2cf7f
 - Pull Requests:
-	- Open: 201
+	- Open: 202
 	- Draft: 20
-	- Average Age: 79 days, 10 hours, and 8.22 minutes
+	- Average Age: 79 days, 1 hours, and 38.00 minutes
 	- Stop Label: 116
 	
 
