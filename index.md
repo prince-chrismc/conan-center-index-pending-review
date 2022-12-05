@@ -78,7 +78,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|0|||
 [#14572](https://github.com/conan-io/conan-center-index/pull/14572)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: libtar|0|||
 [#14576](https://github.com/conan-io/conan-center-index/pull/14576)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:stopwatch: glfw|0|||
-[#14577](https://github.com/conan-io/conan-center-index/pull/14577)|[toge](https://github.com/toge)|Dec 5|:stopwatch: watcher|0|||
+[#14577](https://github.com/conan-io/conan-center-index/pull/14577)|[toge](https://github.com/toge)|Dec 5|:memo: watcher|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -102,7 +102,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 201
 	- Draft: 20
-	- Average Age: 79 days, 3 hours, and 26.57 minutes
+	- Average Age: 79 days, 4 hours, and 29.05 minutes
 	- Stop Label: 117
 	
 
