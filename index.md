@@ -66,7 +66,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14543](https://github.com/conan-io/conan-center-index/pull/14543)|[antekone](https://github.com/antekone)|Dec 2|:stopwatch: loguru|0|||
 [#14544](https://github.com/conan-io/conan-center-index/pull/14544)|[System-Arch](https://github.com/System-Arch)|Dec 2|:memo: m4|4|Dec 3||
 [#14546](https://github.com/conan-io/conan-center-index/pull/14546)|[toge](https://github.com/toge)|Dec 3|:new: zpp_bits|0|||
-[#14548](https://github.com/conan-io/conan-center-index/pull/14548)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: libdeflate|0|||
+[#14548](https://github.com/conan-io/conan-center-index/pull/14548)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: libdeflate|1|Dec 5||datalogics-kam
 [#14552](https://github.com/conan-io/conan-center-index/pull/14552)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: rply|0|||
 [#14553](https://github.com/conan-io/conan-center-index/pull/14553)|[garethsb](https://github.com/garethsb)|Dec 3|:memo: nmos-cpp|0|:eyes:||
 [#14556](https://github.com/conan-io/conan-center-index/pull/14556)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: linmath.h|0|||
@@ -102,7 +102,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 201
 	- Draft: 20
-	- Average Age: 79 days, 4 hours, and 29.05 minutes
+	- Average Age: 79 days, 5 hours, and 25.45 minutes
 	- Stop Label: 117
 	
 
