@@ -826,9 +826,9 @@
       "Recipe": "opentelemetry-cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14518",
-      "LastCommitSHA": "a4d739e86fc00ef1b806b30acff28c66f5a7ada8",
-      "LastCommitAt": "2022-12-01T16:35:51Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8fd0422f39b7c7aab3af4edd2cc83feb8b6549a3",
+      "LastCommitAt": "2022-12-05T02:10:53Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
