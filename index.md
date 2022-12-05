@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **60** pull requests currently under way :detective:
+There are **62** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -83,10 +83,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14589](https://github.com/conan-io/conan-center-index/pull/14589)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: libarchive|0|||
 [#14590](https://github.com/conan-io/conan-center-index/pull/14590)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libuuid|0|||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|0|||
-[#14593](https://github.com/conan-io/conan-center-index/pull/14593)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: libmount|0|||
+[#14593](https://github.com/conan-io/conan-center-index/pull/14593)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libmount|0|||
 [#14594](https://github.com/conan-io/conan-center-index/pull/14594)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: glib|0|||
 [#14595](https://github.com/conan-io/conan-center-index/pull/14595)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: dbus|0|||
 [#14596](https://github.com/conan-io/conan-center-index/pull/14596)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: wayland|0|||
+[#14598](https://github.com/conan-io/conan-center-index/pull/14598)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: wayland-protocols|0|||
+[#14600](https://github.com/conan-io/conan-center-index/pull/14600)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:stopwatch: libdeflate|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -107,10 +109,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: b014bc0ccdf8d34ba518ceec51a5579161d2cf7f
 - Pull Requests:
-	- Open: 208
+	- Open: 211
 	- Draft: 21
-	- Average Age: 76 days, 14 hours, and 13.61 minutes
-	- Stop Label: 115
+	- Average Age: 75 days, 13 hours, and 2.92 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
