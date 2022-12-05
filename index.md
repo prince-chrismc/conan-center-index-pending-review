@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -77,9 +77,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14571](https://github.com/conan-io/conan-center-index/pull/14571)|[toge](https://github.com/toge)|Dec 4|:memo: wasmedge|0|||
 [#14572](https://github.com/conan-io/conan-center-index/pull/14572)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: libtar|0|||
 [#14576](https://github.com/conan-io/conan-center-index/pull/14576)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: glfw|0|||
-[#14577](https://github.com/conan-io/conan-center-index/pull/14577)|[toge](https://github.com/toge)|Dec 5|:memo: watcher|0|||
+[#14577](https://github.com/conan-io/conan-center-index/pull/14577)|[toge](https://github.com/toge)|Dec 5|:memo: watcher|2|Dec 5||uilianries
 [#14578](https://github.com/conan-io/conan-center-index/pull/14578)|[igormironchik](https://github.com/igormironchik)|Dec 5|:memo: read-excel|0|||
-[#14580](https://github.com/conan-io/conan-center-index/pull/14580)|[kletoz](https://github.com/kletoz)|Dec 5|:stopwatch: openssl|0|||
+[#14580](https://github.com/conan-io/conan-center-index/pull/14580)|[kletoz](https://github.com/kletoz)|Dec 5|:stopwatch: openssl|1|Dec 5||
+[#14581](https://github.com/conan-io/conan-center-index/pull/14581)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 5|:gear: .c3i|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -103,7 +104,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 202
 	- Draft: 20
-	- Average Age: 79 days, 1 hours, and 38.00 minutes
+	- Average Age: 79 days, 2 hours, and 54.50 minutes
 	- Stop Label: 116
 	
 
