@@ -1131,7 +1131,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14571",
       "LastCommitSHA": "cf72644e064f29af744eed873e1972bc42574581",
       "LastCommitAt": "2022-12-05T09:26:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1213,14 +1213,14 @@
       }
    },
    {
-      "Number": 14579,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-12-05T09:49:45Z",
-      "Recipe": "glibmm",
+      "Number": 14580,
+      "OpenedBy": "kletoz",
+      "CreatedAt": "2022-12-05T10:57:46Z",
+      "Recipe": "openssl",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14579",
-      "LastCommitSHA": "749d0b87f98c7f9b2fe5b76b9d39bb2de109e88a",
-      "LastCommitAt": "2022-12-05T09:49:16Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14580",
+      "LastCommitSHA": "94f70904d93adda3f4c03b7c329072462376d234",
+      "LastCommitAt": "2022-12-05T10:53:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
