@@ -975,11 +975,18 @@
       "LastCommitAt": "2022-12-03T08:27:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "datalogics-kam"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "datalogics-kam",
+            "SubmittedAt": "2022-12-05T05:05:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14548#pullrequestreview-1203864005"
+         }
       }
    },
    {
