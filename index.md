@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **52** pull requests currently under way :detective:
+There are **53** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -51,7 +51,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14476](https://github.com/conan-io/conan-center-index/pull/14476)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:new: libhydrogen|0|:eyes:||
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:memo: arrow|1|Dec 1||jwillikers
 [#14496](https://github.com/conan-io/conan-center-index/pull/14496)|[ZXfkSIE](https://github.com/ZXfkSIE)|Nov 30|:memo: taglib|1|Dec 2||
-[#14501](https://github.com/conan-io/conan-center-index/pull/14501)|[miklelappo](https://github.com/miklelappo)|Nov 30|:stopwatch: perfetto|1|Dec 4||
+[#14501](https://github.com/conan-io/conan-center-index/pull/14501)|[miklelappo](https://github.com/miklelappo)|Nov 30|:memo: perfetto|1|Dec 4||
 [#14502](https://github.com/conan-io/conan-center-index/pull/14502)|[staskau](https://github.com/staskau)|Nov 30|:memo: verilator|1|Dec 2||uilianries
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|10|Dec 2||jwillikers
 [#14504](https://github.com/conan-io/conan-center-index/pull/14504)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: android-ndk|2|Dec 2||
@@ -74,16 +74,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14563](https://github.com/conan-io/conan-center-index/pull/14563)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: safeint|0|||
 [#14564](https://github.com/conan-io/conan-center-index/pull/14564)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: hlslpp|0|||
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|0|||
-[#14571](https://github.com/conan-io/conan-center-index/pull/14571)|[toge](https://github.com/toge)|Dec 4|:memo: wasmedge|0|||
+[#14571](https://github.com/conan-io/conan-center-index/pull/14571)|[toge](https://github.com/toge)|Dec 4|:stopwatch: wasmedge|0|||
 [#14572](https://github.com/conan-io/conan-center-index/pull/14572)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: libtar|0|||
-[#14576](https://github.com/conan-io/conan-center-index/pull/14576)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:stopwatch: glfw|0|||
+[#14576](https://github.com/conan-io/conan-center-index/pull/14576)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: glfw|0|||
 [#14577](https://github.com/conan-io/conan-center-index/pull/14577)|[toge](https://github.com/toge)|Dec 5|:memo: watcher|0|||
 [#14578](https://github.com/conan-io/conan-center-index/pull/14578)|[igormironchik](https://github.com/igormironchik)|Dec 5|:memo: read-excel|0|||
+[#14579](https://github.com/conan-io/conan-center-index/pull/14579)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 5|:stopwatch: glibmm|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -92,7 +93,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14410](https://github.com/conan-io/conan-center-index/pull/14410)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 24|:warning: abseil|9|prince-chrismc, SpaceIm
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: libxml2|2|jwillikers, prince-chrismc
 [#14431](https://github.com/conan-io/conan-center-index/pull/14431)|[kou](https://github.com/kou)|Nov 25|:warning: arrow|14|SpaceIm, toge, jwillikers, uilianries
-[#14561](https://github.com/conan-io/conan-center-index/pull/14561)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: muparser|2|prince-chrismc, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -103,7 +103,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 201
 	- Draft: 20
-	- Average Age: 79 days, 9 hours, and 16.80 minutes
+	- Average Age: 79 days, 10 hours, and 8.22 minutes
 	- Stop Label: 116
 	
 
