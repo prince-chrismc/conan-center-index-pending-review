@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **61** pull requests currently under way :detective:
+There are **60** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -35,7 +35,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13605](https://github.com/conan-io/conan-center-index/pull/13605)|[paulharris](https://github.com/paulharris)|Oct 19|:memo: hdf5|4|Nov 8 :bell:||
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:new: lzham|0|:eyes:||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||prince-chrismc
-[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|13|Dec 2||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|1|Nov 2 :bell:||
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|14|Nov 28||
 [#13917](https://github.com/conan-io/conan-center-index/pull/13917)|[SpaceIm](https://github.com/SpaceIm)|Nov 1|:memo: cimg|2|Dec 5||uilianries
@@ -106,11 +105,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: b014bc0ccdf8d34ba518ceec51a5579161d2cf7f
+- Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
 	- Open: 211
 	- Draft: 21
-	- Average Age: 75 days, 16 hours, and 19.95 minutes
+	- Average Age: 75 days, 18 hours, and 2.42 minutes
 	- Stop Label: 115
 	
 
