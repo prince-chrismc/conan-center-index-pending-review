@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **63** pull requests currently under way :detective:
+There are **67** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -80,7 +80,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14588](https://github.com/conan-io/conan-center-index/pull/14588)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libalsa|1|Dec 5||SpaceIm
 [#14589](https://github.com/conan-io/conan-center-index/pull/14589)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libarchive|1|Dec 5||SpaceIm
 [#14590](https://github.com/conan-io/conan-center-index/pull/14590)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libuuid|1|Dec 5||SpaceIm
-[#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|0|||
+[#14593](https://github.com/conan-io/conan-center-index/pull/14593)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libmount|0|||
 [#14593](https://github.com/conan-io/conan-center-index/pull/14593)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libmount|0|||
 [#14594](https://github.com/conan-io/conan-center-index/pull/14594)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: glib|2|Dec 5||SpaceIm
 [#14595](https://github.com/conan-io/conan-center-index/pull/14595)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: dbus|1|Dec 5||SpaceIm
@@ -89,7 +89,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14598](https://github.com/conan-io/conan-center-index/pull/14598)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: wayland-protocols|1|Dec 6||SpaceIm
 [#14600](https://github.com/conan-io/conan-center-index/pull/14600)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: libdeflate|1|Dec 6||jwillikers
 [#14602](https://github.com/conan-io/conan-center-index/pull/14602)|[toge](https://github.com/toge)|Dec 5|:memo: screen_capture_lite|1|Dec 6||jwillikers
-[#14604](https://github.com/conan-io/conan-center-index/pull/14604)|[toge](https://github.com/toge)|Dec 6|:memo: brynet|0|||
+[#14604](https://github.com/conan-io/conan-center-index/pull/14604)|[toge](https://github.com/toge)|Dec 6|:memo: brynet|1|Dec 6||jwillikers
+[#14607](https://github.com/conan-io/conan-center-index/pull/14607)|[EricAtORS](https://github.com/EricAtORS)|Dec 6|:stopwatch: qt|2|Dec 6||ericLemanissier
+[#14608](https://github.com/conan-io/conan-center-index/pull/14608)|[toge](https://github.com/toge)|Dec 6|:new: libaio|0|||
+[#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:stopwatch: libsafec|0|||
+[#14613](https://github.com/conan-io/conan-center-index/pull/14613)|[toge](https://github.com/toge)|Dec 6|:memo: cs_libguarded|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -109,10 +113,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 213
+	- Open: 215
 	- Draft: 21
-	- Average Age: 75 days, 2 hours, and 7.42 minutes
-	- Stop Label: 115
+	- Average Age: 74 days, 9 hours, and 31.94 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
