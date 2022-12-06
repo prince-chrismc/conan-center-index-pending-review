@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **61** pull requests currently under way :detective:
+There are **63** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,6 +47,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14475](https://github.com/conan-io/conan-center-index/pull/14475)|[agilemapper](https://github.com/agilemapper)|Nov 28|:memo: catch2|2|Nov 29||
 [#14476](https://github.com/conan-io/conan-center-index/pull/14476)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:new: libhydrogen|1|Dec 5||uilianries
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:memo: arrow|1|Dec 1||jwillikers
+[#14496](https://github.com/conan-io/conan-center-index/pull/14496)|[ZXfkSIE](https://github.com/ZXfkSIE)|Nov 30|:memo: taglib|3|Dec 6||SpaceIm
 [#14501](https://github.com/conan-io/conan-center-index/pull/14501)|[miklelappo](https://github.com/miklelappo)|Nov 30|:memo: perfetto|1|Dec 4||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|10|Dec 2||jwillikers
 [#14504](https://github.com/conan-io/conan-center-index/pull/14504)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: android-ndk|2|Dec 2||
@@ -85,6 +86,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14594](https://github.com/conan-io/conan-center-index/pull/14594)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: glib|2|Dec 5||SpaceIm
 [#14595](https://github.com/conan-io/conan-center-index/pull/14595)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: dbus|1|Dec 5||SpaceIm
 [#14596](https://github.com/conan-io/conan-center-index/pull/14596)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: wayland|1|Dec 5||SpaceIm
+[#14597](https://github.com/conan-io/conan-center-index/pull/14597)|[theirix](https://github.com/theirix)|Dec 5|:memo: unicorn|0|||
 [#14598](https://github.com/conan-io/conan-center-index/pull/14598)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: wayland-protocols|1|Dec 6||SpaceIm
 [#14600](https://github.com/conan-io/conan-center-index/pull/14600)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: libdeflate|0|||
 [#14602](https://github.com/conan-io/conan-center-index/pull/14602)|[toge](https://github.com/toge)|Dec 5|:memo: screen_capture_lite|0|||
@@ -92,13 +94,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
-[#14410](https://github.com/conan-io/conan-center-index/pull/14410)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 24|:warning: abseil|9|prince-chrismc, SpaceIm
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:memo: libxml2|2|jwillikers, prince-chrismc
 
 
@@ -108,10 +109,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 212
+	- Open: 211
 	- Draft: 21
-	- Average Age: 75 days, 14 hours, and 29.47 minutes
-	- Stop Label: 115
+	- Average Age: 76 days, and 47.96 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
