@@ -728,15 +728,17 @@
       "LastCommitAt": "2022-12-06T14:13:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-12-06T13:23:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14519#pullrequestreview-1206584323"
+            "SubmittedAt": "2022-12-06T15:38:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14519#pullrequestreview-1206829528"
          }
       }
    },
@@ -1301,8 +1303,8 @@
       "Recipe": "redboltz-mqtt_cpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14591",
-      "LastCommitSHA": "f0ef581c4b8d644770f606d91a225d70c9ff6fee",
-      "LastCommitAt": "2022-12-05T17:59:58Z",
+      "LastCommitSHA": "a4708156a85d0c953b677946f2aeeca3655bafb2",
+      "LastCommitAt": "2022-12-06T15:40:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1507,7 +1509,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14604",
       "LastCommitSHA": "554058c2be64c278e844b28485cedd47cbe1a501",
       "LastCommitAt": "2022-12-06T14:31:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1517,14 +1519,14 @@
       }
    },
    {
-      "Number": 14606,
-      "OpenedBy": "miklelappo",
-      "CreatedAt": "2022-12-06T15:03:54Z",
-      "Recipe": "boost",
+      "Number": 14607,
+      "OpenedBy": "EricAtORS",
+      "CreatedAt": "2022-12-06T15:47:14Z",
+      "Recipe": "qt",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14606",
-      "LastCommitSHA": "6733d963082fb45de9ec8a19da67ce78bf1b464b",
-      "LastCommitAt": "2022-12-06T14:59:58Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14607",
+      "LastCommitSHA": "04448e52d95bf333eacff0b362b7c402f1fa0c63",
+      "LastCommitAt": "2022-12-06T15:44:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
