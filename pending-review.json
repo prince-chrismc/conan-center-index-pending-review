@@ -1666,6 +1666,31 @@
       }
    },
    {
+      "Number": 14619,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2022-12-07T07:53:20Z",
+      "Recipe": "libzip",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14619",
+      "LastCommitSHA": "1736e0b50a0124f64cd418b7c188b2faa0904233",
+      "LastCommitAt": "2022-12-07T07:50:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jcar87"
+         ],
+         "Blockers": [],
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2022-12-07T16:10:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14619#pullrequestreview-1208714008"
+         }
+      }
+   },
+   {
       "Number": 14622,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2022-12-07T08:59:30Z",
