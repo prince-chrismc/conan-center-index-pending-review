@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **66** pull requests currently under way :detective:
+There are **67** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -91,6 +91,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14604](https://github.com/conan-io/conan-center-index/pull/14604)|[toge](https://github.com/toge)|Dec 6|:memo: brynet|1|Dec 6||jwillikers
 [#14607](https://github.com/conan-io/conan-center-index/pull/14607)|[EricAtORS](https://github.com/EricAtORS)|Dec 6|:stopwatch: qt|3|Dec 6||ericLemanissier, jwillikers
 [#14608](https://github.com/conan-io/conan-center-index/pull/14608)|[toge](https://github.com/toge)|Dec 6|:new: libaio|1|Dec 6||jwillikers
+[#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:stopwatch: libsafec|1|Dec 6||
 [#14613](https://github.com/conan-io/conan-center-index/pull/14613)|[toge](https://github.com/toge)|Dec 6|:memo: cs_libguarded|1|Dec 6||jwillikers
 [#14615](https://github.com/conan-io/conan-center-index/pull/14615)|[toge](https://github.com/toge)|Dec 6|:stopwatch: duckdb|0|||
 
@@ -114,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 215
 	- Draft: 21
-	- Average Age: 74 days, 16 hours, and 28.76 minutes
+	- Average Age: 74 days, 17 hours, and 34.41 minutes
 	- Stop Label: 114
 	
 
