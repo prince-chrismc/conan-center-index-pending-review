@@ -1694,11 +1694,18 @@
       "LastCommitAt": "2022-12-07T11:17:24Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-12-07T20:17:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14624#pullrequestreview-1209061983"
+         }
       }
    },
    {
@@ -1730,11 +1737,19 @@
       "LastCommitAt": "2022-12-07T16:17:31Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 4,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "jwillikers",
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-12-07T21:04:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14626#pullrequestreview-1209118863"
+         }
       }
    },
    {
@@ -1744,22 +1759,21 @@
       "Recipe": "range-v3",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14628",
-      "LastCommitSHA": "41e55dafb61f75aad53794109efd75c06e1076c3",
-      "LastCommitAt": "2022-12-07T16:30:33Z",
+      "LastCommitSHA": "872b0c7cc712c493336df3a5e1d82ac53b7fde96",
+      "LastCommitAt": "2022-12-07T20:58:43Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 7,
+         "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb",
             "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-12-07T19:51:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14628#pullrequestreview-1209026318"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-12-07T21:00:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14628#pullrequestreview-1209113131"
          }
       }
    }
