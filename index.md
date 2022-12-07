@@ -97,9 +97,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14615](https://github.com/conan-io/conan-center-index/pull/14615)|[toge](https://github.com/toge)|Dec 6|:stopwatch: duckdb|0|||
 [#14618](https://github.com/conan-io/conan-center-index/pull/14618)|[toge](https://github.com/toge)|Dec 7|:memo: unordered_dense|0|||
 [#14622](https://github.com/conan-io/conan-center-index/pull/14622)|[Nekto89](https://github.com/Nekto89)|Dec 7|:memo: b2|0|||
-[#14624](https://github.com/conan-io/conan-center-index/pull/14624)|[danimtb](https://github.com/danimtb)|Dec 7|:stopwatch: .c3i|0|||
+[#14624](https://github.com/conan-io/conan-center-index/pull/14624)|[danimtb](https://github.com/danimtb)|Dec 7|:stopwatch: .c3i|1|Dec 7||jwillikers
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:stopwatch: boost|0|||
-[#14626](https://github.com/conan-io/conan-center-index/pull/14626)|[jcar87](https://github.com/jcar87)|Dec 7|:stopwatch: googleapis|0|||
+[#14628](https://github.com/conan-io/conan-center-index/pull/14628)|[jcar87](https://github.com/jcar87)|Dec 7|:stopwatch: range-v3|7|Dec 7||prince-chrismc
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -111,7 +111,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14427](https://github.com/conan-io/conan-center-index/pull/14427)|[SpaceIm](https://github.com/SpaceIm)|Nov 25|:warning: libxml2|2|jwillikers, prince-chrismc
-[#14628](https://github.com/conan-io/conan-center-index/pull/14628)|[jcar87](https://github.com/jcar87)|Dec 7|:warning: range-v3|2|danimtb, prince-chrismc
+[#14626](https://github.com/conan-io/conan-center-index/pull/14626)|[jcar87](https://github.com/jcar87)|Dec 7|:warning: googleapis|4|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -122,7 +122,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 221
 	- Draft: 21
-	- Average Age: 73 days, 6 hours, and 39.35 minutes
+	- Average Age: 73 days, 7 hours, and 38.00 minutes
 	- Stop Label: 114
 	
 
