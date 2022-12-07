@@ -1674,6 +1674,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14622",
       "LastCommitSHA": "0f41d0edf43721e002b85d0d551a92de5fb1c91c",
       "LastCommitAt": "2022-12-07T08:58:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14624,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2022-12-07T11:18:03Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14624",
+      "LastCommitSHA": "b32ab0e5ff82721a6f966781ac7d3a163fc73153",
+      "LastCommitAt": "2022-12-07T11:17:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
