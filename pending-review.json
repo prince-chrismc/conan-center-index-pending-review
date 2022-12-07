@@ -1748,17 +1748,18 @@
       "LastCommitAt": "2022-12-07T16:30:33Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb"
+            "danimtb",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-12-07T16:37:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14628#pullrequestreview-1208760339"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-12-07T19:51:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14628#pullrequestreview-1209026318"
          }
       }
    }
