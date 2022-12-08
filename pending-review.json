@@ -133,7 +133,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13722",
       "LastCommitSHA": "115c3666700183a9ce9f34ecd8fbc991fed475e7",
       "LastCommitAt": "2022-11-09T16:26:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 15,
          "ValidApprovals": 1,
@@ -789,9 +789,9 @@
       "Recipe": "m4",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14544",
-      "LastCommitSHA": "eaba4f9c3387fc0884346c10a7eb204586175447",
-      "LastCommitAt": "2022-12-04T13:36:13Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a341f344e9aede7a6ed3902cc81eab8db7fe64bb",
+      "LastCommitAt": "2022-12-08T04:03:39Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
