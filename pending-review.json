@@ -382,7 +382,7 @@
       "LastCommitAt": "2022-11-24T20:30:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -390,9 +390,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-11-28T15:22:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14415#pullrequestreview-1196010597"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-12-08T21:11:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14415#pullrequestreview-1210787281"
          }
       }
    },
