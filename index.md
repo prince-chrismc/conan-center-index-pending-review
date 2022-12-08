@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **73** pull requests currently under way :detective:
+There are **75** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -33,10 +33,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13169](https://github.com/conan-io/conan-center-index/pull/13169)|[ggulgulia](https://github.com/ggulgulia)|Sep 27|:stopwatch: openblas|2|Sep 27 :bell:||
 [#13605](https://github.com/conan-io/conan-center-index/pull/13605)|[paulharris](https://github.com/paulharris)|Oct 19|:memo: hdf5|4|Nov 8 :bell:||
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:new: lzham|0|:eyes:||
+[#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:stopwatch: wavelet_buffer|15|Dec 2||prince-chrismc
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||prince-chrismc
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|1|Nov 2 :bell:||
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|14|Nov 28||
-[#14006](https://github.com/conan-io/conan-center-index/pull/14006)|[TheSalvator](https://github.com/TheSalvator)|Nov 3|:new: yaclib|12|Nov 29||
+[#14006](https://github.com/conan-io/conan-center-index/pull/14006)|[TheSalvator](https://github.com/TheSalvator)|Nov 3|:new: yaclib|13|Dec 7||prince-chrismc
 [#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:memo: openssl|0|:eyes:||
 [#14124](https://github.com/conan-io/conan-center-index/pull/14124)|[dvirtz](https://github.com/dvirtz)|Nov 9|:new: cppwinrt|0|:eyes:||
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
@@ -55,7 +56,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14518](https://github.com/conan-io/conan-center-index/pull/14518)|[toge](https://github.com/toge)|Dec 1|:memo: opentelemetry-cpp|1|Dec 6||jwillikers
 [#14519](https://github.com/conan-io/conan-center-index/pull/14519)|[toge](https://github.com/toge)|Dec 1|:new: soundtouch|4|Dec 6||jwillikers
 [#14525](https://github.com/conan-io/conan-center-index/pull/14525)|[kammce](https://github.com/kammce)|Dec 1|:new: boost-leaf|5|Dec 1||
-[#14527](https://github.com/conan-io/conan-center-index/pull/14527)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 1|:green_book: docs|3|Dec 5||SSE4
+[#14527](https://github.com/conan-io/conan-center-index/pull/14527)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 1|:green_book: docs|4|Dec 7||SSE4
 [#14530](https://github.com/conan-io/conan-center-index/pull/14530)|[Alex-PLACET](https://github.com/Alex-PLACET)|Dec 2|:stopwatch: primesieve|0|:eyes:||
 [#14543](https://github.com/conan-io/conan-center-index/pull/14543)|[antekone](https://github.com/antekone)|Dec 2|:stopwatch: loguru|0|:eyes:||
 [#14544](https://github.com/conan-io/conan-center-index/pull/14544)|[System-Arch](https://github.com/System-Arch)|Dec 2|:memo: m4|4|Dec 3||
@@ -100,6 +101,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14628](https://github.com/conan-io/conan-center-index/pull/14628)|[jcar87](https://github.com/jcar87)|Dec 7|:stopwatch: range-v3|7|Dec 7||prince-chrismc
 [#14630](https://github.com/conan-io/conan-center-index/pull/14630)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:stopwatch: jwt-cpp|0|||
 [#14633](https://github.com/conan-io/conan-center-index/pull/14633)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:stopwatch: catch2|0|||
+[#14635](https://github.com/conan-io/conan-center-index/pull/14635)|[wolfee001](https://github.com/wolfee001)|Dec 7|:stopwatch: json_dto|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -120,10 +122,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 225
+	- Open: 226
 	- Draft: 21
-	- Average Age: 72 days, 2 hours, and 20.45 minutes
-	- Stop Label: 115
+	- Average Age: 71 days, 20 hours, and 26.04 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
