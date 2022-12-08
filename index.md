@@ -106,7 +106,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14637](https://github.com/conan-io/conan-center-index/pull/14637)|[toge](https://github.com/toge)|Dec 8|:memo: itlib|0|||
 [#14638](https://github.com/conan-io/conan-center-index/pull/14638)|[toge](https://github.com/toge)|Dec 8|:memo: tuplet|0|||
 [#14640](https://github.com/conan-io/conan-center-index/pull/14640)|[toge](https://github.com/toge)|Dec 8|:memo: glaze|0|||
-[#14642](https://github.com/conan-io/conan-center-index/pull/14642)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 8|:gear: .c3i|0|||
+[#14642](https://github.com/conan-io/conan-center-index/pull/14642)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 8|:gear: .c3i|1|Dec 8||SSE4
 [#14643](https://github.com/conan-io/conan-center-index/pull/14643)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 8|:stopwatch: qt|0|||
 
 
@@ -129,7 +129,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 232
 	- Draft: 21
-	- Average Age: 70 days, 11 hours, and 6.82 minutes
+	- Average Age: 70 days, 12 hours, and 1.89 minutes
 	- Stop Label: 114
 	
 
