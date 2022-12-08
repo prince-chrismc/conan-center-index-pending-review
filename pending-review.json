@@ -2079,5 +2079,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14650,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-12-08T18:48:59Z",
+      "Recipe": "qcustomplot",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14650",
+      "LastCommitSHA": "439ae6e54afbabfcc963690df8a59690a7d8fa66",
+      "LastCommitAt": "2022-12-08T18:19:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
