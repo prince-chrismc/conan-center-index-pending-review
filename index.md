@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -116,6 +116,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14646](https://github.com/conan-io/conan-center-index/pull/14646)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: yaml-cpp|0|||
 [#14647](https://github.com/conan-io/conan-center-index/pull/14647)|[toge](https://github.com/toge)|Dec 8|:memo: libavif|0|||
 [#14648](https://github.com/conan-io/conan-center-index/pull/14648)|[toge](https://github.com/toge)|Dec 8|:memo: modern-cpp-kafka|0|||
+[#14650](https://github.com/conan-io/conan-center-index/pull/14650)|[jwillikers](https://github.com/jwillikers)|Dec 8|:stopwatch: qcustomplot|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -134,9 +135,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 237
+	- Open: 238
 	- Draft: 22
-	- Average Age: 69 days, 3 hours, and 54.85 minutes
+	- Average Age: 68 days, 21 hours, and 50.48 minutes
 	- Stop Label: 113
 	
 
