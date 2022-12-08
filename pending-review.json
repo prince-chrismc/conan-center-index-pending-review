@@ -378,11 +378,11 @@
       "Recipe": "boost",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14415",
-      "LastCommitSHA": "af74024d3ac7e97c1fd852a3248c5950a2ca1174",
-      "LastCommitAt": "2022-11-24T20:30:33Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "0dd964996c006492dd0547ace4765c93e32de148",
+      "LastCommitAt": "2022-12-08T22:35:43Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -390,9 +390,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-12-08T21:21:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14415#pullrequestreview-1210797590"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-12-08T22:36:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14415#pullrequestreview-1210871473"
          }
       }
    },
