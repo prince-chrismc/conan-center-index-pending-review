@@ -105,7 +105,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14637](https://github.com/conan-io/conan-center-index/pull/14637)|[toge](https://github.com/toge)|Dec 8|:stopwatch: itlib|0|||
 [#14638](https://github.com/conan-io/conan-center-index/pull/14638)|[toge](https://github.com/toge)|Dec 8|:memo: tuplet|0|||
 [#14639](https://github.com/conan-io/conan-center-index/pull/14639)|[jiaoew1991](https://github.com/jiaoew1991)|Dec 8|:stopwatch: jemalloc|0|||
-[#14640](https://github.com/conan-io/conan-center-index/pull/14640)|[toge](https://github.com/toge)|Dec 8|:stopwatch: glaze|0|||
+[#14640](https://github.com/conan-io/conan-center-index/pull/14640)|[toge](https://github.com/toge)|Dec 8|:memo: glaze|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -128,7 +128,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 230
 	- Draft: 21
-	- Average Age: 70 days, 16 hours, and 10.04 minutes
+	- Average Age: 70 days, 16 hours, and 43.42 minutes
 	- Stop Label: 114
 	
 
