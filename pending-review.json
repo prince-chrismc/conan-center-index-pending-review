@@ -204,8 +204,8 @@
       "Recipe": "cmake",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13739",
-      "LastCommitSHA": "b100df80fa397369f5e12ae112c15fa898876770",
-      "LastCommitAt": "2022-12-08T17:35:48Z",
+      "LastCommitSHA": "7fa560adcf399c9b7318ccf90b7dd3d88bf310fc",
+      "LastCommitAt": "2022-12-09T03:34:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 37,
@@ -2042,7 +2042,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14650",
       "LastCommitSHA": "439ae6e54afbabfcc963690df8a59690a7d8fa66",
       "LastCommitAt": "2022-12-08T18:19:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
