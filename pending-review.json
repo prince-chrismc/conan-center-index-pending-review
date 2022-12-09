@@ -299,16 +299,14 @@
       "Recipe": "yaclib",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14006",
-      "LastCommitSHA": "abca1df4cc32216cd44f6ab9ebb1caac3770e3c1",
-      "LastCommitAt": "2022-12-05T11:46:38Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "88e1d65174a7c8deabae94f6c08cb6205447ed2d",
+      "LastCommitAt": "2022-12-09T10:04:31Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 13,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -2124,6 +2122,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14654",
       "LastCommitSHA": "455c2a5845f6dd6fd5661ca118ed265c7d9f2122",
       "LastCommitAt": "2022-12-09T08:29:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14655,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-09T09:45:54Z",
+      "Recipe": "etl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14655",
+      "LastCommitSHA": "998a0a7b4395e62f5a27f2d0f6de1bdfb87e56d0",
+      "LastCommitAt": "2022-12-09T07:06:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
