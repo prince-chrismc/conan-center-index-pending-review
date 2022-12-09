@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **88** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -85,7 +85,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14593](https://github.com/conan-io/conan-center-index/pull/14593)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libmount|0|:eyes:||
 [#14594](https://github.com/conan-io/conan-center-index/pull/14594)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: glib|2|Dec 5||SpaceIm
 [#14595](https://github.com/conan-io/conan-center-index/pull/14595)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: dbus|1|Dec 5||SpaceIm
-[#14596](https://github.com/conan-io/conan-center-index/pull/14596)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: wayland|1|Dec 5||SpaceIm
 [#14597](https://github.com/conan-io/conan-center-index/pull/14597)|[theirix](https://github.com/theirix)|Dec 5|:memo: unicorn|0|:eyes:||
 [#14598](https://github.com/conan-io/conan-center-index/pull/14598)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: wayland-protocols|1|Dec 6||SpaceIm
 [#14600](https://github.com/conan-io/conan-center-index/pull/14600)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: libdeflate|1|Dec 6||jwillikers
@@ -125,7 +124,7 @@ Currently **2** pull requests are waiting to be merged :tada:
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|16|prince-chrismc, uilianries
+[#13722](https://github.com/conan-io/conan-center-index/pull/13722)|[victor1234](https://github.com/victor1234)|Oct 24|:new: wavelet_buffer|18|prince-chrismc, uilianries
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 
 
@@ -135,9 +134,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 239
+	- Open: 238
 	- Draft: 22
-	- Average Age: 69 days, 7 hours, and 47.60 minutes
+	- Average Age: 69 days, 14 hours, and 38.17 minutes
 	- Stop Label: 111
 	
 
