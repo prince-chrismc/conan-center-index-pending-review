@@ -2128,5 +2128,41 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14660#pullrequestreview-1211879754"
          }
       }
+   },
+   {
+      "Number": 14669,
+      "OpenedBy": "calebkiage",
+      "CreatedAt": "2022-12-09T22:21:30Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14669",
+      "LastCommitSHA": "5b873ae433eb7284ba184f9728b3384d5424ceb7",
+      "LastCommitAt": "2022-12-09T21:59:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14670,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2022-12-09T22:55:23Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14670",
+      "LastCommitSHA": "19881f8f509a60d1b32e03f1de0436eebb21e802",
+      "LastCommitAt": "2022-12-09T22:55:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
