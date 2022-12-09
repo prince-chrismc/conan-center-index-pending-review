@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -115,6 +115,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14650](https://github.com/conan-io/conan-center-index/pull/14650)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: qcustomplot|0|||
 [#14651](https://github.com/conan-io/conan-center-index/pull/14651)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:memo: pcre2|1|Dec 9||jwillikers
 [#14653](https://github.com/conan-io/conan-center-index/pull/14653)|[jwillikers](https://github.com/jwillikers)|Dec 9|:memo: libselinux|0|||
+[#14657](https://github.com/conan-io/conan-center-index/pull/14657)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:memo: wavelet_buffer|0|||
 [#14660](https://github.com/conan-io/conan-center-index/pull/14660)|[uilianries](https://github.com/uilianries)|Dec 9|:memo: boost-ext-ut|7|Dec 9|prince-chrismc|RubenRBS
 
 
@@ -134,9 +135,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 239
+	- Open: 241
 	- Draft: 22
-	- Average Age: 69 days, 6 hours, and 31.08 minutes
+	- Average Age: 68 days, 17 hours, and 37.07 minutes
 	- Stop Label: 111
 	
 
