@@ -114,7 +114,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14646](https://github.com/conan-io/conan-center-index/pull/14646)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: yaml-cpp|0|||
 [#14647](https://github.com/conan-io/conan-center-index/pull/14647)|[toge](https://github.com/toge)|Dec 8|:memo: libavif|0|||
 [#14648](https://github.com/conan-io/conan-center-index/pull/14648)|[toge](https://github.com/toge)|Dec 8|:memo: modern-cpp-kafka|0|||
-[#14650](https://github.com/conan-io/conan-center-index/pull/14650)|[jwillikers](https://github.com/jwillikers)|Dec 8|:stopwatch: qcustomplot|0|||
+[#14650](https://github.com/conan-io/conan-center-index/pull/14650)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: qcustomplot|0|||
 [#14651](https://github.com/conan-io/conan-center-index/pull/14651)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:stopwatch: pcre2|0|||
 [#14652](https://github.com/conan-io/conan-center-index/pull/14652)|[toge](https://github.com/toge)|Dec 9|:stopwatch: flatbuffers|0|||
 
@@ -137,7 +137,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 240
 	- Draft: 22
-	- Average Age: 68 days, 15 hours, and 32.22 minutes
+	- Average Age: 68 days, 17 hours, and 7.89 minutes
 	- Stop Label: 114
 	
 
