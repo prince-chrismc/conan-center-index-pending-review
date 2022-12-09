@@ -2067,6 +2067,24 @@
       }
    },
    {
+      "Number": 14657,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-09T12:42:51Z",
+      "Recipe": "wavelet_buffer",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14657",
+      "LastCommitSHA": "e8daa56a638828652d5434bfc85f88d889f9c3d2",
+      "LastCommitAt": "2022-12-09T15:30:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14660,
       "OpenedBy": "uilianries",
       "CreatedAt": "2022-12-09T14:44:15Z",
