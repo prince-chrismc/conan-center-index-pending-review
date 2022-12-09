@@ -109,7 +109,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14640](https://github.com/conan-io/conan-center-index/pull/14640)|[toge](https://github.com/toge)|Dec 8|:memo: glaze|1|Dec 8||jwillikers
 [#14641](https://github.com/conan-io/conan-center-index/pull/14641)|[toge](https://github.com/toge)|Dec 8|:memo: hyperscan|0|||
 [#14642](https://github.com/conan-io/conan-center-index/pull/14642)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 8|:gear: .c3i|2|Dec 8||SSE4, MateuszMiekicki
-[#14643](https://github.com/conan-io/conan-center-index/pull/14643)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 8|:stopwatch: qt|1|Dec 8||jwillikers
+[#14643](https://github.com/conan-io/conan-center-index/pull/14643)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 8|:memo: qt|1|Dec 8||jwillikers
 [#14645](https://github.com/conan-io/conan-center-index/pull/14645)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: shapelib|0|||
 [#14646](https://github.com/conan-io/conan-center-index/pull/14646)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: yaml-cpp|0|||
 [#14647](https://github.com/conan-io/conan-center-index/pull/14647)|[toge](https://github.com/toge)|Dec 8|:memo: libavif|0|||
@@ -135,9 +135,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 240
+	- Open: 241
 	- Draft: 22
-	- Average Age: 68 days, 17 hours, and 7.89 minutes
+	- Average Age: 68 days, 13 hours, and 17.80 minutes
 	- Stop Label: 114
 	
 
