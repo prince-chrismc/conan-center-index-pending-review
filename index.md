@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14594](https://github.com/conan-io/conan-center-index/pull/14594)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: glib|2|Dec 5||SpaceIm
 [#14595](https://github.com/conan-io/conan-center-index/pull/14595)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: dbus|1|Dec 5||SpaceIm
 [#14596](https://github.com/conan-io/conan-center-index/pull/14596)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: wayland|1|Dec 5||SpaceIm
-[#14597](https://github.com/conan-io/conan-center-index/pull/14597)|[theirix](https://github.com/theirix)|Dec 5|:stopwatch: unicorn|0|||
+[#14597](https://github.com/conan-io/conan-center-index/pull/14597)|[theirix](https://github.com/theirix)|Dec 5|:memo: unicorn|0|||
 [#14598](https://github.com/conan-io/conan-center-index/pull/14598)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: wayland-protocols|1|Dec 6||SpaceIm
 [#14600](https://github.com/conan-io/conan-center-index/pull/14600)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: libdeflate|1|Dec 6||jwillikers
 [#14602](https://github.com/conan-io/conan-center-index/pull/14602)|[toge](https://github.com/toge)|Dec 5|:memo: screen_capture_lite|3|Dec 9||jwillikers
@@ -116,8 +116,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14651](https://github.com/conan-io/conan-center-index/pull/14651)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:memo: pcre2|1|Dec 9||jwillikers
 [#14653](https://github.com/conan-io/conan-center-index/pull/14653)|[jwillikers](https://github.com/jwillikers)|Dec 9|:memo: libselinux|0|||
 [#14657](https://github.com/conan-io/conan-center-index/pull/14657)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:memo: wavelet_buffer|0|||
-[#14660](https://github.com/conan-io/conan-center-index/pull/14660)|[uilianries](https://github.com/uilianries)|Dec 9|:memo: boost-ext-ut|7|Dec 9|prince-chrismc|RubenRBS
-[#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:stopwatch: libcurl|2|Dec 10||
+[#14660](https://github.com/conan-io/conan-center-index/pull/14660)|[uilianries](https://github.com/uilianries)|Dec 9|:memo: boost-leaf|7|Dec 9|prince-chrismc|
+[#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:stopwatch: libcurl|7|Dec 10||
 [#14670](https://github.com/conan-io/conan-center-index/pull/14670)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 9|:green_book: docs|1|Dec 10||SSE4
 [#14672](https://github.com/conan-io/conan-center-index/pull/14672)|[toge](https://github.com/toge)|Dec 10|:stopwatch: luau|0|||
 
@@ -140,7 +140,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 244
 	- Draft: 22
-	- Average Age: 68 days, 14 hours, and 13.19 minutes
+	- Average Age: 68 days, 16 hours, and 23.50 minutes
 	- Stop Label: 111
 	
 
