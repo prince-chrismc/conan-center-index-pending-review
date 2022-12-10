@@ -1903,7 +1903,7 @@
       "LastCommitAt": "2022-12-08T11:38:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -1913,8 +1913,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "MateuszMiekicki",
-            "SubmittedAt": "2022-12-08T16:09:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14642#pullrequestreview-1210353148"
+            "SubmittedAt": "2022-12-10T00:11:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14642#pullrequestreview-1212367602"
          }
       }
    },
@@ -2136,15 +2136,20 @@
       "Recipe": "libcurl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14669",
-      "LastCommitSHA": "5b873ae433eb7284ba184f9728b3384d5424ceb7",
-      "LastCommitAt": "2022-12-09T21:59:36Z",
+      "LastCommitSHA": "a4b46348cad9a360fca5eeb5beda759f13e54568",
+      "LastCommitAt": "2022-12-10T00:55:39Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-12-10T00:44:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14669#pullrequestreview-1212378351"
+         }
       }
    },
    {
