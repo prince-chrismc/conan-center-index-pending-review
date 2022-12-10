@@ -2153,5 +2153,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14670#pullrequestreview-1212397311"
          }
       }
+   },
+   {
+      "Number": 14672,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-10T05:54:59Z",
+      "Recipe": "luau",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14672",
+      "LastCommitSHA": "1c3aa24daea1750799479552318c7bf804ffdab5",
+      "LastCommitAt": "2022-12-10T01:40:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
