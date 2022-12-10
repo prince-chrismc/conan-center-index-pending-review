@@ -1367,9 +1367,9 @@
       "Recipe": "unicorn",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14597",
-      "LastCommitSHA": "7d2e3ff3acfe1e872e7de4eefce34ea97a9cd942",
-      "LastCommitAt": "2022-12-06T08:00:07Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "54552d403bc47648a3f81a99faf282c463a86a7c",
+      "LastCommitAt": "2022-12-10T09:54:43Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
