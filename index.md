@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **94** pull requests currently under way :detective:
+There are **93** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -116,11 +116,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14651](https://github.com/conan-io/conan-center-index/pull/14651)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:memo: pcre2|1|Dec 9||jwillikers
 [#14653](https://github.com/conan-io/conan-center-index/pull/14653)|[jwillikers](https://github.com/jwillikers)|Dec 9|:memo: libselinux|0|||
 [#14657](https://github.com/conan-io/conan-center-index/pull/14657)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:memo: wavelet_buffer|0|||
-[#14660](https://github.com/conan-io/conan-center-index/pull/14660)|[uilianries](https://github.com/uilianries)|Dec 9|:memo: boost-leaf|7|Dec 9|prince-chrismc|
+[#14660](https://github.com/conan-io/conan-center-index/pull/14660)|[uilianries](https://github.com/uilianries)|Dec 9|:memo: boost-leaf|9|Dec 10||grafikrobot, prince-chrismc
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:stopwatch: libcurl|7|Dec 10||
 [#14670](https://github.com/conan-io/conan-center-index/pull/14670)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 9|:green_book: docs|1|Dec 10||SSE4
 [#14672](https://github.com/conan-io/conan-center-index/pull/14672)|[toge](https://github.com/toge)|Dec 10|:stopwatch: luau|0|||
-[#14673](https://github.com/conan-io/conan-center-index/pull/14673)|[toge](https://github.com/toge)|Dec 10|:stopwatch: fast_double_parser|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -139,9 +138,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 245
+	- Open: 244
 	- Draft: 22
-	- Average Age: 68 days, 11 hours, and 27.33 minutes
+	- Average Age: 68 days, 19 hours, and 12.67 minutes
 	- Stop Label: 111
 	
 
