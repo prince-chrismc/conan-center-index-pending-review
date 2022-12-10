@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **93** pull requests currently under way :detective:
+There are **94** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -97,7 +97,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14618](https://github.com/conan-io/conan-center-index/pull/14618)|[toge](https://github.com/toge)|Dec 7|:memo: unordered_dense|0|:eyes:||
 [#14622](https://github.com/conan-io/conan-center-index/pull/14622)|[Nekto89](https://github.com/Nekto89)|Dec 7|:memo: b2|1|Dec 9||jwillikers
 [#14624](https://github.com/conan-io/conan-center-index/pull/14624)|[danimtb](https://github.com/danimtb)|Dec 7|:stopwatch: .c3i|1|Dec 7||jwillikers
-[#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|0|||
+[#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|0|:eyes:||
 [#14628](https://github.com/conan-io/conan-center-index/pull/14628)|[jcar87](https://github.com/jcar87)|Dec 7|:memo: range-v3|7|Dec 7||prince-chrismc
 [#14630](https://github.com/conan-io/conan-center-index/pull/14630)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:memo: jwt-cpp|1|Dec 8||jwillikers
 [#14633](https://github.com/conan-io/conan-center-index/pull/14633)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:memo: catch2|1|Dec 8||jwillikers
@@ -120,6 +120,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:stopwatch: libcurl|7|Dec 10||
 [#14670](https://github.com/conan-io/conan-center-index/pull/14670)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 9|:green_book: docs|1|Dec 10||SSE4
 [#14672](https://github.com/conan-io/conan-center-index/pull/14672)|[toge](https://github.com/toge)|Dec 10|:stopwatch: luau|0|||
+[#14673](https://github.com/conan-io/conan-center-index/pull/14673)|[toge](https://github.com/toge)|Dec 10|:stopwatch: fast_double_parser|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -138,9 +139,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 244
+	- Open: 245
 	- Draft: 22
-	- Average Age: 68 days, 16 hours, and 23.50 minutes
+	- Average Age: 68 days, 11 hours, and 27.33 minutes
 	- Stop Label: 111
 	
 
