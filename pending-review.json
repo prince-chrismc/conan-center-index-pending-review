@@ -2106,6 +2106,24 @@
       }
    },
    {
+      "Number": 14662,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2022-12-09T16:26:38Z",
+      "Recipe": "cfgfile",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14662",
+      "LastCommitSHA": "2cac37c2078a4a516fa0ec7d83385bed8e744128",
+      "LastCommitAt": "2022-12-10T18:19:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14669,
       "OpenedBy": "calebkiage",
       "CreatedAt": "2022-12-09T22:21:30Z",
