@@ -131,8 +131,8 @@
       "Recipe": "mold",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13666",
-      "LastCommitSHA": "5483aecd35caf7afd3457c602973103fd0ba3608",
-      "LastCommitAt": "2022-12-09T18:05:13Z",
+      "LastCommitSHA": "d4ec4bd65db023ef7a6d39e43843b6ff9a364f3f",
+      "LastCommitAt": "2022-12-10T01:31:35Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -2136,8 +2136,8 @@
       "Recipe": "libcurl",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14669",
-      "LastCommitSHA": "a4b46348cad9a360fca5eeb5beda759f13e54568",
-      "LastCommitAt": "2022-12-10T00:55:39Z",
+      "LastCommitSHA": "11d88df806945813ffb94e436c80e6f30b778172",
+      "LastCommitAt": "2022-12-10T01:08:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
