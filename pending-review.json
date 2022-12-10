@@ -2170,5 +2170,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14674,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2022-12-10T15:22:21Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14674",
+      "LastCommitSHA": "5291f744d2347e252d21038b049ae93d81c7c61d",
+      "LastCommitAt": "2022-12-10T15:21:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
