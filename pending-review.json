@@ -2263,5 +2263,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14679,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-11T05:06:07Z",
+      "Recipe": "tgbot",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14679",
+      "LastCommitSHA": "a10d02ea9ab8a3faed4da3c33e04827bda9ab1c0",
+      "LastCommitAt": "2022-12-11T01:21:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14680,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-11T05:06:54Z",
+      "Recipe": "seasocks",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14680",
+      "LastCommitSHA": "d140814c77415120be7b68c4d27622a1846a4f97",
+      "LastCommitAt": "2022-12-11T01:34:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
