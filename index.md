@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **98** pull requests currently under way :detective:
+There are **99** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,6 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||prince-chrismc
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|37|Dec 8||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|1|Nov 2 :bell:||
+[#13881](https://github.com/conan-io/conan-center-index/pull/13881)|[SpaceIm](https://github.com/SpaceIm)|Oct 31|:stopwatch: msdfgen|3|Nov 3 :bell:||
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|14|Nov 28 :bell:||
 [#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:memo: openssl|0|:eyes:||
 [#14124](https://github.com/conan-io/conan-center-index/pull/14124)|[dvirtz](https://github.com/dvirtz)|Nov 9|:new: cppwinrt|0|:eyes:||
@@ -145,8 +146,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 250
 	- Draft: 22
-	- Average Age: 67 days, 22 hours, and 17.96 minutes
-	- Stop Label: 112
+	- Average Age: 67 days, 23 hours, and 14.98 minutes
+	- Stop Label: 111
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
