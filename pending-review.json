@@ -2097,7 +2097,7 @@
       "LastCommitAt": "2022-12-10T11:32:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
+         "Count": 10,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -2107,8 +2107,8 @@
          "Blockers": [],
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-12-10T14:55:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14660#pullrequestreview-1212576149"
+            "SubmittedAt": "2022-12-11T16:54:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14660#pullrequestreview-1212724738"
          }
       }
    },
@@ -2249,6 +2249,24 @@
       "LastCommitSHA": "01ba46772ecad088529a1be6e42386c516a06721",
       "LastCommitAt": "2022-12-11T01:31:04Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14684,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-11T16:32:18Z",
+      "Recipe": "imath",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14684",
+      "LastCommitSHA": "3c65902706aae860e8011df58a12afcf3406f318",
+      "LastCommitAt": "2022-12-11T12:54:38Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
