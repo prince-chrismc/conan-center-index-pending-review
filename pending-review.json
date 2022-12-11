@@ -2270,23 +2270,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14681,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-11T08:11:07Z",
-      "Recipe": "nanobench",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14681",
-      "LastCommitSHA": "05b50501f381b1294d023af915417920177976b6",
-      "LastCommitAt": "2022-12-11T07:19:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
