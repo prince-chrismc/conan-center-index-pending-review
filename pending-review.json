@@ -2256,23 +2256,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14684,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-11T16:32:18Z",
-      "Recipe": "imath",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14684",
-      "LastCommitSHA": "3c65902706aae860e8011df58a12afcf3406f318",
-      "LastCommitAt": "2022-12-11T12:54:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
