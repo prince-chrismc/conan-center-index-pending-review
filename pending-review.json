@@ -2260,6 +2260,24 @@
       }
    },
    {
+      "Number": 14686,
+      "OpenedBy": "System-Arch",
+      "CreatedAt": "2022-12-11T20:41:51Z",
+      "Recipe": "msys2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14686",
+      "LastCommitSHA": "66de1e801d0d54606d4b8abd581012db0cc6d3e0",
+      "LastCommitAt": "2022-12-11T23:50:01Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14688,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2022-12-11T22:54:39Z",
