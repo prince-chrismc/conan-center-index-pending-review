@@ -2191,11 +2191,16 @@
       "LastCommitAt": "2022-12-10T15:21:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "grafikrobot",
+            "SubmittedAt": "2022-12-12T02:04:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14674#pullrequestreview-1212819814"
+         }
       }
    },
    {
