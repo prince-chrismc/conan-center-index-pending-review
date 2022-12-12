@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **83** pull requests currently under way :detective:
+There are **87** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -110,6 +110,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14696](https://github.com/conan-io/conan-center-index/pull/14696)|[toge](https://github.com/toge)|Dec 12|:memo: yyjson|1|Dec 12||SpaceIm
 [#14698](https://github.com/conan-io/conan-center-index/pull/14698)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: pystring|0|||
 [#14699](https://github.com/conan-io/conan-center-index/pull/14699)|[CD3](https://github.com/CD3)|Dec 12|:new: boost-unit-definitions|0|||
+[#14700](https://github.com/conan-io/conan-center-index/pull/14700)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: bitserializer|0|||
+[#14701](https://github.com/conan-io/conan-center-index/pull/14701)|[jwillikers](https://github.com/jwillikers)|Dec 12|:stopwatch: jom|0|||
+[#14702](https://github.com/conan-io/conan-center-index/pull/14702)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:stopwatch: numcpp|0|||
+[#14703](https://github.com/conan-io/conan-center-index/pull/14703)|[bennyhuo](https://github.com/bennyhuo)|Dec 12|:stopwatch: tinycthreadpool|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -130,9 +134,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 238
+	- Open: 242
 	- Draft: 21
-	- Average Age: 70 days, 3 hours, and 28.24 minutes
+	- Average Age: 69 days, and 38.96 minutes
 	- Stop Label: 111
 	
 
