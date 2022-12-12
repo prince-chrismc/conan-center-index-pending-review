@@ -2316,31 +2316,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14688#pullrequestreview-1212904461"
          }
       }
-   },
-   {
-      "Number": 14689,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2022-12-12T03:20:46Z",
-      "Recipe": "doctest",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14689",
-      "LastCommitSHA": "9d09a0d9da9c8695e554b5e96377208c207984b7",
-      "LastCommitAt": "2022-12-12T03:18:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-12-12T05:06:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14689#pullrequestreview-1212904406"
-         }
-      }
    }
 ]
