@@ -2036,5 +2036,77 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14700,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-12T22:22:01Z",
+      "Recipe": "bitserializer",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14700",
+      "LastCommitSHA": "0bfa66c32f55a0cf95d21dd36302bba38fa1f4af",
+      "LastCommitAt": "2022-12-12T22:21:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14701,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-12-12T23:01:09Z",
+      "Recipe": "jom",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14701",
+      "LastCommitSHA": "5752a03896836384f33c0a07259e4e08a9cefa5f",
+      "LastCommitAt": "2022-12-12T22:53:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14702,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-12T23:05:58Z",
+      "Recipe": "numcpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14702",
+      "LastCommitSHA": "f5c626250d2d8e62706647944b65d0020b1ad31e",
+      "LastCommitAt": "2022-12-12T23:04:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14703,
+      "OpenedBy": "bennyhuo",
+      "CreatedAt": "2022-12-12T23:10:29Z",
+      "Recipe": "tinycthreadpool",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14703",
+      "LastCommitSHA": "22dc8209dd54e7b4fdad52d74d7c284930306711",
+      "LastCommitAt": "2022-12-12T22:45:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
