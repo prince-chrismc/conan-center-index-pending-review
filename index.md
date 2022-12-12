@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **83** pull requests currently under way :detective:
+There are **81** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -42,7 +42,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: boost|8|Dec 11||jwillikers
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
-[#14450](https://github.com/conan-io/conan-center-index/pull/14450)|[beckerhe](https://github.com/beckerhe)|Nov 27|:memo: llvm-core|1|Dec 12||danimtb
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|11|Dec 12||jwillikers, SSE4
 [#14519](https://github.com/conan-io/conan-center-index/pull/14519)|[toge](https://github.com/toge)|Dec 1|:new: soundtouch|7|Dec 12||jwillikers, 9cvele3, MartinDelille
 [#14537](https://github.com/conan-io/conan-center-index/pull/14537)|[saukijan](https://github.com/saukijan)|Dec 2|:stopwatch: open62541|13|Dec 11||
@@ -103,10 +102,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14651](https://github.com/conan-io/conan-center-index/pull/14651)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:memo: pcre2|1|Dec 9||jwillikers
 [#14653](https://github.com/conan-io/conan-center-index/pull/14653)|[jwillikers](https://github.com/jwillikers)|Dec 9|:memo: libselinux|1|Dec 12||prince-chrismc
 [#14657](https://github.com/conan-io/conan-center-index/pull/14657)|[SpaceIm](https://github.com/SpaceIm)|Dec 9|:memo: wavelet_buffer|1|Dec 12||jwillikers
-[#14660](https://github.com/conan-io/conan-center-index/pull/14660)|[uilianries](https://github.com/uilianries)|Dec 9|:memo: boost-leaf|10|Dec 11||grafikrobot, prince-chrismc
 [#14662](https://github.com/conan-io/conan-center-index/pull/14662)|[igormironchik](https://github.com/igormironchik)|Dec 9|:memo: cfgfile|0|||
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:stopwatch: libcurl|7|Dec 10||
-[#14674](https://github.com/conan-io/conan-center-index/pull/14674)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 10|:green_book: docs|3|Dec 12||
+[#14674](https://github.com/conan-io/conan-center-index/pull/14674)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 10|:green_book: docs|4|Dec 12||
 [#14676](https://github.com/conan-io/conan-center-index/pull/14676)|[SpaceIm](https://github.com/SpaceIm)|Dec 10|:new: jsmn|1|Dec 12||jwillikers
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:memo: arrow|0|||
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|||
@@ -121,9 +119,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:warning: arrow|3|jwillikers, toge, uilianries
-[#14518](https://github.com/conan-io/conan-center-index/pull/14518)|[toge](https://github.com/toge)|Dec 1|:memo: opentelemetry-cpp|2|jwillikers, uilianries
 [#14527](https://github.com/conan-io/conan-center-index/pull/14527)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 1|:green_book: docs|6|SSE4, jwillikers, uilianries
 [#14642](https://github.com/conan-io/conan-center-index/pull/14642)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 8|:gear: .c3i|4|SSE4, MateuszMiekicki, danimtb
+[#14660](https://github.com/conan-io/conan-center-index/pull/14660)|[uilianries](https://github.com/uilianries)|Dec 9|:memo: boost-leaf|11|grafikrobot, prince-chrismc, jwillikers
 [#14688](https://github.com/conan-io/conan-center-index/pull/14688)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 11|:green_book: docs|3|SSE4, danimtb, jwillikers
 [#14690](https://github.com/conan-io/conan-center-index/pull/14690)|[uilianries](https://github.com/uilianries)|Dec 12|:memo: hana|3|RubenRBS, jwillikers, grafikrobot
 [#14692](https://github.com/conan-io/conan-center-index/pull/14692)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 12|:gear: .c3i|2|uilianries, jwillikers
@@ -135,9 +133,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 21814d00a5a30deb0239c3f6d2444aa3e6a471ee
 - Pull Requests:
-	- Open: 242
+	- Open: 240
 	- Draft: 21
-	- Average Age: 68 days, 21 hours, and 50.08 minutes
+	- Average Age: 69 days, 10 hours, and 3.78 minutes
 	- Stop Label: 109
 	
 
