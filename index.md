@@ -120,7 +120,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14662](https://github.com/conan-io/conan-center-index/pull/14662)|[igormironchik](https://github.com/igormironchik)|Dec 9|:memo: cfgfile|0|||
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:stopwatch: libcurl|7|Dec 10||
 [#14670](https://github.com/conan-io/conan-center-index/pull/14670)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 9|:green_book: docs|1|Dec 10||SSE4
-[#14674](https://github.com/conan-io/conan-center-index/pull/14674)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 10|:green_book: docs|0|||
+[#14674](https://github.com/conan-io/conan-center-index/pull/14674)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 10|:green_book: docs|2|Dec 12||
 [#14676](https://github.com/conan-io/conan-center-index/pull/14676)|[SpaceIm](https://github.com/SpaceIm)|Dec 10|:new: jsmn|0|||
 [#14677](https://github.com/conan-io/conan-center-index/pull/14677)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 10|:green_book: docs|1|Dec 11||SSE4
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:memo: arrow|0|||
@@ -146,7 +146,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 249
 	- Draft: 21
-	- Average Age: 66 days, 22 hours, and 33.01 minutes
+	- Average Age: 67 days, and 17.59 minutes
 	- Stop Label: 111
 	
 
