@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14703](https://github.com/conan-io/conan-center-index/pull/14703)|[bennyhuo](https://github.com/bennyhuo)|Dec 12|:stopwatch: tinycthreadpool|0|||
 [#14704](https://github.com/conan-io/conan-center-index/pull/14704)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: websocketpp|0|||
 [#14705](https://github.com/conan-io/conan-center-index/pull/14705)|[toge](https://github.com/toge)|Dec 13|:memo: wasmer|0|||
-[#14708](https://github.com/conan-io/conan-center-index/pull/14708)|[toge](https://github.com/toge)|Dec 13|:stopwatch: wavelet_buffer|0|||
+[#14708](https://github.com/conan-io/conan-center-index/pull/14708)|[toge](https://github.com/toge)|Dec 13|:memo: wavelet_buffer|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -138,7 +138,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 245
 	- Draft: 21
-	- Average Age: 68 days, 11 hours, and 23.75 minutes
+	- Average Age: 68 days, 12 hours, and 17.73 minutes
 	- Stop Label: 112
 	
 
