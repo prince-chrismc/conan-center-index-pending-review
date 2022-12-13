@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|0|:eyes:||
 [#14633](https://github.com/conan-io/conan-center-index/pull/14633)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:memo: catch2|2|Dec 12||jwillikers
 [#14641](https://github.com/conan-io/conan-center-index/pull/14641)|[toge](https://github.com/toge)|Dec 8|:memo: hyperscan|1|Dec 13||uilianries
-[#14662](https://github.com/conan-io/conan-center-index/pull/14662)|[igormironchik](https://github.com/igormironchik)|Dec 9|:memo: cfgfile|0|||
+[#14662](https://github.com/conan-io/conan-center-index/pull/14662)|[igormironchik](https://github.com/igormironchik)|Dec 9|:memo: cfgfile|1|Dec 13||uilianries
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:stopwatch: libcurl|7|Dec 10||
 [#14674](https://github.com/conan-io/conan-center-index/pull/14674)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 10|:green_book: docs|4|Dec 12||
 [#14676](https://github.com/conan-io/conan-center-index/pull/14676)|[SpaceIm](https://github.com/SpaceIm)|Dec 10|:new: jsmn|1|Dec 12||jwillikers
@@ -75,21 +75,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14708](https://github.com/conan-io/conan-center-index/pull/14708)|[toge](https://github.com/toge)|Dec 13|:memo: wavelet_buffer|0|||
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:stopwatch: tracy|0|||
 [#14713](https://github.com/conan-io/conan-center-index/pull/14713)|[Mikayex](https://github.com/Mikayex)|Dec 13|:stopwatch: ffmpeg|0|||
-[#14716](https://github.com/conan-io/conan-center-index/pull/14716)|[RubenRBS](https://github.com/RubenRBS)|Dec 13|:gear: .github|0|||
+[#14716](https://github.com/conan-io/conan-center-index/pull/14716)|[RubenRBS](https://github.com/RubenRBS)|Dec 13|:gear: .github|1|Dec 13||SSE4
 [#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:stopwatch: qt|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **29** pull requests are waiting to be merged :tada:
+Currently **27** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:warning: arrow|3|jwillikers, toge, uilianries
-[#14578](https://github.com/conan-io/conan-center-index/pull/14578)|[igormironchik](https://github.com/igormironchik)|Dec 5|:memo: read-excel|4|SpaceIm, jwillikers, uilianries
-[#14587](https://github.com/conan-io/conan-center-index/pull/14587)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: avahi|2|SpaceIm, uilianries
 [#14588](https://github.com/conan-io/conan-center-index/pull/14588)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libalsa|2|SpaceIm, uilianries
 [#14589](https://github.com/conan-io/conan-center-index/pull/14589)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libarchive|2|SpaceIm, uilianries
 [#14590](https://github.com/conan-io/conan-center-index/pull/14590)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libuuid|2|SpaceIm, uilianries
@@ -123,9 +121,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 239
+	- Open: 237
 	- Draft: 25
-	- Average Age: 70 days, and 27.25 minutes
+	- Average Age: 70 days, 13 hours, and 51.98 minutes
 	- Stop Label: 115
 	
 
