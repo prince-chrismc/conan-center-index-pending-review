@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **84** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,14 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: boost|8|Dec 11||jwillikers
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|11|Dec 12||jwillikers, SSE4
-[#14519](https://github.com/conan-io/conan-center-index/pull/14519)|[toge](https://github.com/toge)|Dec 1|:new: soundtouch|9|Dec 13||jwillikers, MartinDelille
-[#14548](https://github.com/conan-io/conan-center-index/pull/14548)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: libdeflate|3|Dec 13||datalogics-kam, jwillikers, toge
-[#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|2|Dec 5||
-[#14552](https://github.com/conan-io/conan-center-index/pull/14552)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: rply|1|Dec 6||jwillikers
-[#14556](https://github.com/conan-io/conan-center-index/pull/14556)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: linmath.h|1|Dec 6||jwillikers
-[#14559](https://github.com/conan-io/conan-center-index/pull/14559)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: re2|1|Dec 6||jwillikers
-[#14563](https://github.com/conan-io/conan-center-index/pull/14563)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: safeint|1|Dec 6||jwillikers
-[#14564](https://github.com/conan-io/conan-center-index/pull/14564)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: hlslpp|1|Dec 6||jwillikers
+[#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|3|Dec 13||uilianries
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5||jwillikers
 [#14571](https://github.com/conan-io/conan-center-index/pull/14571)|[toge](https://github.com/toge)|Dec 4|:memo: wasmedge|1|Dec 6||jwillikers
 [#14572](https://github.com/conan-io/conan-center-index/pull/14572)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: libtar|1|Dec 5||jwillikers
@@ -106,6 +99,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14676](https://github.com/conan-io/conan-center-index/pull/14676)|[SpaceIm](https://github.com/SpaceIm)|Dec 10|:new: jsmn|1|Dec 12||jwillikers
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:memo: arrow|0|||
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|||
+[#14692](https://github.com/conan-io/conan-center-index/pull/14692)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 12|:gear: .c3i|2|Dec 12||
 [#14694](https://github.com/conan-io/conan-center-index/pull/14694)|[toge](https://github.com/toge)|Dec 12|:memo: libspng|1|Dec 12||SpaceIm
 [#14696](https://github.com/conan-io/conan-center-index/pull/14696)|[toge](https://github.com/toge)|Dec 12|:memo: yyjson|1|Dec 12||SpaceIm
 [#14698](https://github.com/conan-io/conan-center-index/pull/14698)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: pystring|1|Dec 13||toge
@@ -116,18 +110,25 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14704](https://github.com/conan-io/conan-center-index/pull/14704)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: websocketpp|0|||
 [#14705](https://github.com/conan-io/conan-center-index/pull/14705)|[toge](https://github.com/toge)|Dec 13|:memo: wasmer|0|||
 [#14708](https://github.com/conan-io/conan-center-index/pull/14708)|[toge](https://github.com/toge)|Dec 13|:memo: wavelet_buffer|0|||
+[#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:stopwatch: tracy|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:warning: arrow|3|jwillikers, toge, uilianries
-[#14692](https://github.com/conan-io/conan-center-index/pull/14692)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 12|:gear: .c3i|2|uilianries, jwillikers
+[#14519](https://github.com/conan-io/conan-center-index/pull/14519)|[toge](https://github.com/toge)|Dec 1|:new: soundtouch|10|jwillikers, MartinDelille, uilianries
+[#14548](https://github.com/conan-io/conan-center-index/pull/14548)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: libdeflate|4|datalogics-kam, jwillikers, toge, uilianries
+[#14552](https://github.com/conan-io/conan-center-index/pull/14552)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: rply|2|jwillikers, uilianries
+[#14556](https://github.com/conan-io/conan-center-index/pull/14556)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: linmath.h|2|jwillikers, uilianries
+[#14559](https://github.com/conan-io/conan-center-index/pull/14559)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: re2|2|jwillikers, uilianries
+[#14563](https://github.com/conan-io/conan-center-index/pull/14563)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: safeint|2|jwillikers, uilianries
+[#14564](https://github.com/conan-io/conan-center-index/pull/14564)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: hlslpp|2|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -136,10 +137,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 245
+	- Open: 246
 	- Draft: 21
-	- Average Age: 68 days, 12 hours, and 17.73 minutes
-	- Stop Label: 112
+	- Average Age: 68 days, 6 hours, and 42.15 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
