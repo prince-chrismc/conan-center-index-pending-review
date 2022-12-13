@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:new: lzham|0|:eyes:||
 [#13666](https://github.com/conan-io/conan-center-index/pull/13666)|[ericriff](https://github.com/ericriff)|Oct 21|:memo: mold|0|||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||
-[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:stopwatch: cmake|41|Dec 12||
+[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|1|Nov 2 :bell:||
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|16|Dec 12||prince-chrismc
 [#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:memo: openssl|0|:eyes:||
@@ -45,7 +45,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: boost|8|Dec 11||jwillikers
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|11|Dec 12||jwillikers, SSE4
-[#14519](https://github.com/conan-io/conan-center-index/pull/14519)|[toge](https://github.com/toge)|Dec 1|:new: soundtouch|8|Dec 12||jwillikers
+[#14519](https://github.com/conan-io/conan-center-index/pull/14519)|[toge](https://github.com/toge)|Dec 1|:new: soundtouch|9|Dec 13||jwillikers, MartinDelille
 [#14548](https://github.com/conan-io/conan-center-index/pull/14548)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: libdeflate|2|Dec 5||datalogics-kam, jwillikers
 [#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|2|Dec 5||
 [#14552](https://github.com/conan-io/conan-center-index/pull/14552)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:new: rply|1|Dec 6||jwillikers
@@ -111,9 +111,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14698](https://github.com/conan-io/conan-center-index/pull/14698)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: pystring|0|||
 [#14699](https://github.com/conan-io/conan-center-index/pull/14699)|[CD3](https://github.com/CD3)|Dec 12|:new: boost-unit-definitions|0|||
 [#14700](https://github.com/conan-io/conan-center-index/pull/14700)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: bitserializer|0|||
-[#14701](https://github.com/conan-io/conan-center-index/pull/14701)|[jwillikers](https://github.com/jwillikers)|Dec 12|:stopwatch: jom|0|||
-[#14702](https://github.com/conan-io/conan-center-index/pull/14702)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:stopwatch: numcpp|0|||
+[#14702](https://github.com/conan-io/conan-center-index/pull/14702)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: numcpp|0|||
 [#14703](https://github.com/conan-io/conan-center-index/pull/14703)|[bennyhuo](https://github.com/bennyhuo)|Dec 12|:stopwatch: tinycthreadpool|0|||
+[#14704](https://github.com/conan-io/conan-center-index/pull/14704)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: websocketpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -134,10 +134,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 242
+	- Open: 243
 	- Draft: 21
-	- Average Age: 69 days, and 38.96 minutes
-	- Stop Label: 111
+	- Average Age: 68 days, 19 hours, and 39.29 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
