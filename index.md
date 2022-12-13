@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -58,7 +58,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14674](https://github.com/conan-io/conan-center-index/pull/14674)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 10|:green_book: docs|5|Dec 13||uilianries
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:memo: arrow|1|Dec 13||uilianries
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|||
-[#14699](https://github.com/conan-io/conan-center-index/pull/14699)|[CD3](https://github.com/CD3)|Dec 12|:new: cd3-boost-unit-definitions|0|||
 [#14701](https://github.com/conan-io/conan-center-index/pull/14701)|[jwillikers](https://github.com/jwillikers)|Dec 12|:memo: jom|0|||
 [#14704](https://github.com/conan-io/conan-center-index/pull/14704)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: websocketpp|1|Dec 13||uilianries
 [#14705](https://github.com/conan-io/conan-center-index/pull/14705)|[toge](https://github.com/toge)|Dec 13|:memo: wasmer|1|Dec 13||uilianries
@@ -66,12 +65,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:stopwatch: tracy|0|||
 [#14713](https://github.com/conan-io/conan-center-index/pull/14713)|[Mikayex](https://github.com/Mikayex)|Dec 13|:memo: ffmpeg|0|||
 [#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:stopwatch: qt|0|||
+[#14721](https://github.com/conan-io/conan-center-index/pull/14721)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: libtiff|0|||
 [#14722](https://github.com/conan-io/conan-center-index/pull/14722)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: taskflow|0|||
+[#14724](https://github.com/conan-io/conan-center-index/pull/14724)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:stopwatch: vulkan-headers|0|||
+[#14725](https://github.com/conan-io/conan-center-index/pull/14725)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:stopwatch: spirv-headers|0|||
+[#14726](https://github.com/conan-io/conan-center-index/pull/14726)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:stopwatch: spirv-cross|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **16** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -79,9 +82,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:warning: arrow|3|jwillikers, toge, uilianries
 [#14590](https://github.com/conan-io/conan-center-index/pull/14590)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libuuid|3|SpaceIm, uilianries, paulharris
-[#14643](https://github.com/conan-io/conan-center-index/pull/14643)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 8|:memo: qt|3|jwillikers, MartinDelille, uilianries
-[#14645](https://github.com/conan-io/conan-center-index/pull/14645)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: shapelib|3|toge, SpaceIm, uilianries
-[#14646](https://github.com/conan-io/conan-center-index/pull/14646)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: yaml-cpp|3|MartinDelille, SpaceIm, uilianries
 [#14647](https://github.com/conan-io/conan-center-index/pull/14647)|[toge](https://github.com/toge)|Dec 8|:memo: libavif|2|jwillikers, uilianries
 [#14648](https://github.com/conan-io/conan-center-index/pull/14648)|[toge](https://github.com/toge)|Dec 8|:memo: modern-cpp-kafka|2|jwillikers, uilianries
 [#14650](https://github.com/conan-io/conan-center-index/pull/14650)|[jwillikers](https://github.com/jwillikers)|Dec 8|:memo: qcustomplot|2|SpaceIm, uilianries
@@ -103,9 +103,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 223
-	- Draft: 24
-	- Average Age: 74 days, 13 hours, and 42.51 minutes
+	- Open: 224
+	- Draft: 25
+	- Average Age: 74 days, 5 hours, and 0.26 minutes
 	- Stop Label: 116
 	
 
