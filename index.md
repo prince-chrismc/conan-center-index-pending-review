@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **63** pull requests currently under way :detective:
+There are **60** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -51,12 +51,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14598](https://github.com/conan-io/conan-center-index/pull/14598)|[jwillikers](https://github.com/jwillikers)|Dec 5|:stopwatch: wayland-protocols|1|Dec 6||SpaceIm
 [#14600](https://github.com/conan-io/conan-center-index/pull/14600)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: libdeflate|2|Dec 13||uilianries
 [#14604](https://github.com/conan-io/conan-center-index/pull/14604)|[toge](https://github.com/toge)|Dec 6|:memo: brynet|2|Dec 12||jwillikers, SpaceIm
-[#14607](https://github.com/conan-io/conan-center-index/pull/14607)|[EricAtORS](https://github.com/EricAtORS)|Dec 6|:stopwatch: qt|3|Dec 6||ericLemanissier, jwillikers
-[#14608](https://github.com/conan-io/conan-center-index/pull/14608)|[toge](https://github.com/toge)|Dec 6|:new: libaio|1|Dec 6||jwillikers
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:stopwatch: libsafec|2|Dec 7||jwillikers
-[#14615](https://github.com/conan-io/conan-center-index/pull/14615)|[toge](https://github.com/toge)|Dec 6|:memo: duckdb|2|Dec 12||jwillikers, SpaceIm
-[#14618](https://github.com/conan-io/conan-center-index/pull/14618)|[toge](https://github.com/toge)|Dec 7|:memo: unordered_dense|3|Dec 13||
-[#14622](https://github.com/conan-io/conan-center-index/pull/14622)|[Nekto89](https://github.com/Nekto89)|Dec 7|:memo: b2|1|Dec 9||jwillikers
+[#14618](https://github.com/conan-io/conan-center-index/pull/14618)|[toge](https://github.com/toge)|Dec 7|:memo: unordered_dense|4|Dec 13||uilianries
 [#14624](https://github.com/conan-io/conan-center-index/pull/14624)|[danimtb](https://github.com/danimtb)|Dec 7|:stopwatch: .c3i|2|Dec 12||jwillikers, SSE4
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|0|:eyes:||
 [#14628](https://github.com/conan-io/conan-center-index/pull/14628)|[jcar87](https://github.com/jcar87)|Dec 7|:memo: range-v3|7|Dec 7||prince-chrismc
@@ -90,20 +86,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14708](https://github.com/conan-io/conan-center-index/pull/14708)|[toge](https://github.com/toge)|Dec 13|:memo: wavelet_buffer|0|||
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:stopwatch: tracy|0|||
 [#14713](https://github.com/conan-io/conan-center-index/pull/14713)|[Mikayex](https://github.com/Mikayex)|Dec 13|:stopwatch: ffmpeg|0|||
+[#14716](https://github.com/conan-io/conan-center-index/pull/14716)|[RubenRBS](https://github.com/RubenRBS)|Dec 13|:gear: .github|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **20** pull requests are waiting to be merged :tada:
+Currently **21** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:warning: arrow|3|jwillikers, toge, uilianries
-[#14563](https://github.com/conan-io/conan-center-index/pull/14563)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: safeint|2|jwillikers, uilianries
-[#14564](https://github.com/conan-io/conan-center-index/pull/14564)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: hlslpp|2|jwillikers, uilianries
-[#14571](https://github.com/conan-io/conan-center-index/pull/14571)|[toge](https://github.com/toge)|Dec 4|:memo: wasmedge|2|jwillikers, uilianries
 [#14572](https://github.com/conan-io/conan-center-index/pull/14572)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:memo: libtar|2|jwillikers, uilianries
 [#14573](https://github.com/conan-io/conan-center-index/pull/14573)|[SpaceIm](https://github.com/SpaceIm)|Dec 4|:new: joltphysics|2|jwillikers, uilianries
 [#14576](https://github.com/conan-io/conan-center-index/pull/14576)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: glfw|2|jwillikers, uilianries
@@ -118,6 +112,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14595](https://github.com/conan-io/conan-center-index/pull/14595)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: dbus|2|SpaceIm, uilianries
 [#14596](https://github.com/conan-io/conan-center-index/pull/14596)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: wayland|2|SpaceIm, uilianries
 [#14602](https://github.com/conan-io/conan-center-index/pull/14602)|[toge](https://github.com/toge)|Dec 5|:memo: screen_capture_lite|4|jwillikers, uilianries
+[#14607](https://github.com/conan-io/conan-center-index/pull/14607)|[EricAtORS](https://github.com/EricAtORS)|Dec 6|:warning: qt|4|ericLemanissier, jwillikers, uilianries
+[#14608](https://github.com/conan-io/conan-center-index/pull/14608)|[toge](https://github.com/toge)|Dec 6|:new: libaio|2|jwillikers, uilianries
+[#14615](https://github.com/conan-io/conan-center-index/pull/14615)|[toge](https://github.com/toge)|Dec 6|:memo: duckdb|3|jwillikers, SpaceIm, uilianries
+[#14622](https://github.com/conan-io/conan-center-index/pull/14622)|[Nekto89](https://github.com/Nekto89)|Dec 7|:memo: b2|2|jwillikers, uilianries
 [#14692](https://github.com/conan-io/conan-center-index/pull/14692)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 12|:gear: .c3i|4|danimtb, uilianries
 
 
@@ -127,9 +125,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 243
-	- Draft: 25
-	- Average Age: 69 days, and 3.86 minutes
+	- Open: 240
+	- Draft: 24
+	- Average Age: 69 days, 18 hours, and 39.53 minutes
 	- Stop Label: 115
 	
 
