@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -69,11 +69,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14727](https://github.com/conan-io/conan-center-index/pull/14727)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: qwt|1|Dec 14||uilianries
 [#14729](https://github.com/conan-io/conan-center-index/pull/14729)|[xyz1001](https://github.com/xyz1001)|Dec 14|:memo: libressl|1|Dec 14||danimtb
 [#14730](https://github.com/conan-io/conan-center-index/pull/14730)|[toge](https://github.com/toge)|Dec 14|:memo: platform.interfaces|2|Dec 14||danimtb
+[#14737](https://github.com/conan-io/conan-center-index/pull/14737)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:stopwatch: poppler-data|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -81,8 +82,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:warning: arrow|3|jwillikers, toge, uilianries
 [#14590](https://github.com/conan-io/conan-center-index/pull/14590)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: libuuid|3|SpaceIm, uilianries, paulharris
-[#14713](https://github.com/conan-io/conan-center-index/pull/14713)|[Mikayex](https://github.com/Mikayex)|Dec 13|:memo: ffmpeg|2|danimtb, uilianries
-[#14721](https://github.com/conan-io/conan-center-index/pull/14721)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: libtiff|2|danimtb, uilianries
 [#14722](https://github.com/conan-io/conan-center-index/pull/14722)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: taskflow|2|danimtb, uilianries
 
 
@@ -92,10 +91,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 212
-	- Draft: 21
-	- Average Age: 78 days, 16 hours, and 38.97 minutes
-	- Stop Label: 116
+	- Open: 210
+	- Draft: 22
+	- Average Age: 79 days, 10 hours, and 57.65 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
