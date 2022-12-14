@@ -252,6 +252,29 @@
       }
    },
    {
+      "Number": 14066,
+      "OpenedBy": "System-Arch",
+      "CreatedAt": "2022-11-06T03:08:20Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14066",
+      "LastCommitSHA": "30fbde295a49fb2d5144e1d6bffbd449bc1c23ba",
+      "LastCommitAt": "2022-12-14T20:47:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-12-14T20:07:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14066#pullrequestreview-1218113124"
+         }
+      }
+   },
+   {
       "Number": 14229,
       "OpenedBy": "aheck",
       "CreatedAt": "2022-11-16T22:35:01Z",
@@ -396,29 +419,21 @@
       }
    },
    {
-      "Number": 14597,
-      "OpenedBy": "theirix",
-      "CreatedAt": "2022-12-05T19:47:00Z",
-      "Recipe": "unicorn",
+      "Number": 14574,
+      "OpenedBy": "tiolan",
+      "CreatedAt": "2022-12-04T11:59:05Z",
+      "Recipe": "fruit",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14597",
-      "LastCommitSHA": "54552d403bc47648a3f81a99faf282c463a86a7c",
-      "LastCommitAt": "2022-12-10T09:54:43Z",
-      "CciBotPassed": true,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14574",
+      "LastCommitSHA": "3f838035e2483b61347decc4b4397289207fe3c3",
+      "LastCommitAt": "2022-12-05T19:20:00Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-12-14T18:51:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14597#pullrequestreview-1218051584"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -1085,6 +1100,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14749",
       "LastCommitSHA": "0f7406c990bae5265e85ecaae7bc0a52da5c63d9",
       "LastCommitAt": "2022-12-14T18:54:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14751,
+      "OpenedBy": "sujankota",
+      "CreatedAt": "2022-12-14T20:56:15Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14751",
+      "LastCommitSHA": "ba645ac29133bce4fbb63428e15908cefefa9d00",
+      "LastCommitAt": "2022-12-14T19:32:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14753,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2022-12-14T21:08:47Z",
+      "Recipe": "perfetto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14753",
+      "LastCommitSHA": "7a9c57fad4f33eb8935bc41ff3da0bb006c84893",
+      "LastCommitAt": "2022-12-14T14:20:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
