@@ -23,13 +23,14 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **50** pull requests currently under way :detective:
+There are **53** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:new: libxls|1|Aug 12 :bell:||
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15 :bell:||SSE4
+[#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: stlab|15|Dec 13||
 [#13234](https://github.com/conan-io/conan-center-index/pull/13234)|[sorny92](https://github.com/sorny92)|Sep 30|:new: libsvtav1|11|Dec 12||prince-chrismc
 [#13666](https://github.com/conan-io/conan-center-index/pull/13666)|[ericriff](https://github.com/ericriff)|Oct 21|:memo: mold|0|:eyes:||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||
@@ -42,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: boost|8|Dec 11||jwillikers
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|11|Dec 12||jwillikers, SSE4
-[#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|3|Dec 13||
+[#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|4|Dec 14||uilianries
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5||jwillikers
 [#14585](https://github.com/conan-io/conan-center-index/pull/14585)|[szmyd](https://github.com/szmyd)|Dec 5|:memo: jungle|0|:eyes:||
 [#14597](https://github.com/conan-io/conan-center-index/pull/14597)|[theirix](https://github.com/theirix)|Dec 5|:memo: unicorn|2|Dec 13||uilianries
@@ -61,14 +62,15 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14674](https://github.com/conan-io/conan-center-index/pull/14674)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 10|:green_book: docs|5|Dec 13||uilianries
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:memo: arrow|1|Dec 13||uilianries
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|||
+[#14695](https://github.com/conan-io/conan-center-index/pull/14695)|[danimtb](https://github.com/danimtb)|Dec 12|:gear: .github|6|Dec 14||
 [#14699](https://github.com/conan-io/conan-center-index/pull/14699)|[CD3](https://github.com/CD3)|Dec 12|:new: cd3-boost-unit-definitions|1|Dec 13||
-[#14701](https://github.com/conan-io/conan-center-index/pull/14701)|[jwillikers](https://github.com/jwillikers)|Dec 12|:memo: jom|0|||
+[#14701](https://github.com/conan-io/conan-center-index/pull/14701)|[jwillikers](https://github.com/jwillikers)|Dec 12|:memo: jom|1|Dec 14||uilianries
 [#14704](https://github.com/conan-io/conan-center-index/pull/14704)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: websocketpp|1|Dec 13||uilianries
 [#14705](https://github.com/conan-io/conan-center-index/pull/14705)|[toge](https://github.com/toge)|Dec 13|:memo: wasmer|1|Dec 13||uilianries
 [#14708](https://github.com/conan-io/conan-center-index/pull/14708)|[toge](https://github.com/toge)|Dec 13|:memo: wavelet_buffer|1|Dec 13||uilianries
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:stopwatch: tracy|0|||
 [#14713](https://github.com/conan-io/conan-center-index/pull/14713)|[Mikayex](https://github.com/Mikayex)|Dec 13|:memo: ffmpeg|0|||
-[#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:stopwatch: qt|0|||
+[#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:stopwatch: qt|1|Dec 14||ericLemanissier
 [#14721](https://github.com/conan-io/conan-center-index/pull/14721)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: libtiff|0|||
 [#14722](https://github.com/conan-io/conan-center-index/pull/14722)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: taskflow|0|||
 [#14723](https://github.com/conan-io/conan-center-index/pull/14723)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: qtxlsxwriter|0|||
@@ -76,7 +78,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14725](https://github.com/conan-io/conan-center-index/pull/14725)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: spirv-headers|0|||
 [#14727](https://github.com/conan-io/conan-center-index/pull/14727)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: qwt|0|||
 [#14729](https://github.com/conan-io/conan-center-index/pull/14729)|[xyz1001](https://github.com/xyz1001)|Dec 14|:memo: libressl|0|||
-[#14730](https://github.com/conan-io/conan-center-index/pull/14730)|[toge](https://github.com/toge)|Dec 14|:memo: platform.interfaces|0|||
+[#14730](https://github.com/conan-io/conan-center-index/pull/14730)|[toge](https://github.com/toge)|Dec 14|:memo: platform.interfaces|1|Dec 14||danimtb
+[#14733](https://github.com/conan-io/conan-center-index/pull/14733)|[SamsonBox](https://github.com/SamsonBox)|Dec 14|:stopwatch: libftdi|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -97,9 +100,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 214
-	- Draft: 22
-	- Average Age: 77 days, 22 hours, and 16.86 minutes
+	- Open: 215
+	- Draft: 21
+	- Average Age: 77 days, 14 hours, and 30.68 minutes
 	- Stop Label: 116
 	
 
