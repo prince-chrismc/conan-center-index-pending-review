@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **44** pull requests currently under way :detective:
+There are **46** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14415](https://github.com/conan-io/conan-center-index/pull/14415)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: boost|8|Dec 11||jwillikers
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
-[#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|12|Dec 14||jwillikers
+[#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|13|Dec 14||jwillikers, SSE4
 [#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|4|Dec 14||uilianries
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5||jwillikers
 [#14585](https://github.com/conan-io/conan-center-index/pull/14585)|[szmyd](https://github.com/szmyd)|Dec 5|:memo: jungle|1|Dec 14||uilianries
@@ -62,15 +62,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14699](https://github.com/conan-io/conan-center-index/pull/14699)|[CD3](https://github.com/CD3)|Dec 12|:new: cd3-boost-unit-definitions|1|Dec 13||
 [#14701](https://github.com/conan-io/conan-center-index/pull/14701)|[jwillikers](https://github.com/jwillikers)|Dec 12|:memo: jom|1|Dec 14||
 [#14704](https://github.com/conan-io/conan-center-index/pull/14704)|[SpaceIm](https://github.com/SpaceIm)|Dec 12|:memo: websocketpp|1|Dec 13||uilianries
-[#14708](https://github.com/conan-io/conan-center-index/pull/14708)|[toge](https://github.com/toge)|Dec 13|:memo: wavelet_buffer|1|Dec 13||uilianries
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:stopwatch: tracy|1|Dec 14||uilianries
-[#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:stopwatch: qt|1|Dec 14||ericLemanissier
+[#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:stopwatch: qt|2|Dec 14||ericLemanissier, jwillikers
 [#14723](https://github.com/conan-io/conan-center-index/pull/14723)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: qtxlsxwriter|1|Dec 14||uilianries
 [#14727](https://github.com/conan-io/conan-center-index/pull/14727)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: qwt|1|Dec 14||uilianries
 [#14729](https://github.com/conan-io/conan-center-index/pull/14729)|[xyz1001](https://github.com/xyz1001)|Dec 14|:memo: libressl|1|Dec 14||danimtb
-[#14737](https://github.com/conan-io/conan-center-index/pull/14737)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:stopwatch: poppler-data|0|||
+[#14737](https://github.com/conan-io/conan-center-index/pull/14737)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:memo: poppler-data|0|||
+[#14738](https://github.com/conan-io/conan-center-index/pull/14738)|[danimtb](https://github.com/danimtb)|Dec 14|:stopwatch: .c3i|2|Dec 14||davidsanfal, ericLemanissier
 [#14739](https://github.com/conan-io/conan-center-index/pull/14739)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:stopwatch: vulkan-loader|0|||
 [#14740](https://github.com/conan-io/conan-center-index/pull/14740)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:stopwatch: spirv-tools|0|||
+[#14741](https://github.com/conan-io/conan-center-index/pull/14741)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:memo: volk|0|||
+[#14743](https://github.com/conan-io/conan-center-index/pull/14743)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:stopwatch: flecs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -91,10 +93,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 209
-	- Draft: 23
-	- Average Age: 79 days, 12 hours, and 35.88 minutes
-	- Stop Label: 116
+	- Open: 211
+	- Draft: 24
+	- Average Age: 78 days, 19 hours, and 32.60 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
