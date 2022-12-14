@@ -715,29 +715,6 @@
       }
    },
    {
-      "Number": 14640,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-08T02:31:02Z",
-      "Recipe": "glaze",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14640",
-      "LastCommitSHA": "3d67ac85635d2bd84c4db40252aca5538a7374fa",
-      "LastCommitAt": "2022-12-14T01:22:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-12-12T20:38:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14640#pullrequestreview-1214305604"
-         }
-      }
-   },
-   {
       "Number": 14641,
       "OpenedBy": "toge",
       "CreatedAt": "2022-12-08T09:45:34Z",
@@ -1037,8 +1014,8 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14718",
-      "LastCommitSHA": "9b411f0f4f3e757d4aef740bf79814ae09881aa6",
-      "LastCommitAt": "2022-12-14T01:19:11Z",
+      "LastCommitSHA": "9d6c1e322c5e2c474da397e0de4047494656b8df",
+      "LastCommitAt": "2022-12-14T07:37:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1175,15 +1152,15 @@
       }
    },
    {
-      "Number": 14731,
+      "Number": 14730,
       "OpenedBy": "toge",
-      "CreatedAt": "2022-12-14T05:46:01Z",
-      "Recipe": "sqlitecpp",
+      "CreatedAt": "2022-12-14T05:43:00Z",
+      "Recipe": "platform.interfaces",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14731",
-      "LastCommitSHA": "f47221c5478e4b45add4b82f3ab8f40274ef86bc",
-      "LastCommitAt": "2022-12-14T01:33:56Z",
-      "CciBotPassed": false,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14730",
+      "LastCommitSHA": "257ead2fbd6c20ec40f77e4c1a312b8cb8318ab2",
+      "LastCommitAt": "2022-12-14T07:05:00Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
