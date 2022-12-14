@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **45** pull requests currently under way :detective:
+There are **49** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,11 +37,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|2|Dec 13||
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|16|Dec 12||prince-chrismc
 [#14015](https://github.com/conan-io/conan-center-index/pull/14015)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 4|:gear: linter|1|Nov 23 :bell:||
+[#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:stopwatch: openssl|3|Dec 14||
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|13|Dec 14||jwillikers, SSE4
 [#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|5|Dec 14||uilianries
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5||jwillikers
+[#14574](https://github.com/conan-io/conan-center-index/pull/14574)|[tiolan](https://github.com/tiolan)|Dec 4|:stopwatch: fruit|0|:eyes:||
 [#14599](https://github.com/conan-io/conan-center-index/pull/14599)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: xkbcommon|1|Dec 14||uilianries
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:stopwatch: libsafec|2|Dec 7||jwillikers
 [#14613](https://github.com/conan-io/conan-center-index/pull/14613)|[toge](https://github.com/toge)|Dec 6|:memo: cs_libguarded|1|Dec 6||
@@ -71,19 +73,20 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14741](https://github.com/conan-io/conan-center-index/pull/14741)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:memo: volk|0|||
 [#14746](https://github.com/conan-io/conan-center-index/pull/14746)|[toge](https://github.com/toge)|Dec 14|:memo: simdutf|0|||
 [#14747](https://github.com/conan-io/conan-center-index/pull/14747)|[toge](https://github.com/toge)|Dec 14|:memo: foonathan-lexy|0|||
-[#14749](https://github.com/conan-io/conan-center-index/pull/14749)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:stopwatch: vulkan-memory-allocator|0|||
+[#14749](https://github.com/conan-io/conan-center-index/pull/14749)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:memo: vulkan-memory-allocator|0|||
+[#14751](https://github.com/conan-io/conan-center-index/pull/14751)|[sujankota](https://github.com/sujankota)|Dec 14|:stopwatch: opentdf-client|0|||
+[#14753](https://github.com/conan-io/conan-center-index/pull/14753)|[miklelappo](https://github.com/miklelappo)|Dec 14|:stopwatch: perfetto|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14495](https://github.com/conan-io/conan-center-index/pull/14495)|[kou](https://github.com/kou)|Nov 30|:warning: arrow|3|jwillikers, toge, uilianries
-[#14597](https://github.com/conan-io/conan-center-index/pull/14597)|[theirix](https://github.com/theirix)|Dec 5|:memo: unicorn|3|uilianries, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -92,9 +95,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 207
-	- Draft: 21
-	- Average Age: 80 days, 7 hours, and 41.74 minutes
+	- Open: 208
+	- Draft: 20
+	- Average Age: 79 days, 22 hours, and 21.43 minutes
 	- Stop Label: 112
 	
 
