@@ -1155,5 +1155,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14731,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-14T05:46:01Z",
+      "Recipe": "sqlitecpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14731",
+      "LastCommitSHA": "f47221c5478e4b45add4b82f3ab8f40274ef86bc",
+      "LastCommitAt": "2022-12-14T01:33:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
