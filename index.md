@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **40** pull requests currently under way :detective:
+There are **38** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -63,9 +63,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14741](https://github.com/conan-io/conan-center-index/pull/14741)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:memo: volk|0|||
 [#14747](https://github.com/conan-io/conan-center-index/pull/14747)|[toge](https://github.com/toge)|Dec 14|:memo: foonathan-lexy|0|||
 [#14749](https://github.com/conan-io/conan-center-index/pull/14749)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:memo: vulkan-memory-allocator|0|||
-[#14755](https://github.com/conan-io/conan-center-index/pull/14755)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 14|:green_book: docs|1|Dec 15||uilianries
 [#14757](https://github.com/conan-io/conan-center-index/pull/14757)|[ashley-b](https://github.com/ashley-b)|Dec 15|:stopwatch: wt|0|||
-[#14758](https://github.com/conan-io/conan-center-index/pull/14758)|[RubenRBS](https://github.com/RubenRBS)|Dec 15|:gear: .github|1|Dec 15||uilianries
 [#14759](https://github.com/conan-io/conan-center-index/pull/14759)|[SpaceIm](https://github.com/SpaceIm)|Dec 15|:memo: glslang|0|||
 
 
@@ -86,9 +84,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 200
+	- Open: 198
 	- Draft: 23
-	- Average Age: 83 days, 15 hours, and 33.99 minutes
+	- Average Age: 84 days, 13 hours, and 40.12 minutes
 	- Stop Label: 113
 	
 
