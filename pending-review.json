@@ -140,7 +140,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13781",
       "LastCommitSHA": "65b605ae00c5a2763775aabb74c84b55533eea33",
       "LastCommitAt": "2022-12-15T03:28:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -1145,6 +1145,24 @@
       "LastCommitSHA": "1a4ea2e751d40146aa7a3d6ee0f4d2a961c0bc52",
       "LastCommitAt": "2022-12-14T23:53:39Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14757,
+      "OpenedBy": "ashley-b",
+      "CreatedAt": "2022-12-15T04:45:31Z",
+      "Recipe": "wt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14757",
+      "LastCommitSHA": "cec9f05e5c6ea7f4d025ce0dc98b7e25970affa8",
+      "LastCommitAt": "2022-12-15T04:29:05Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
