@@ -728,29 +728,6 @@
       }
    },
    {
-      "Number": 14733,
-      "OpenedBy": "SamsonBox",
-      "CreatedAt": "2022-12-14T09:10:39Z",
-      "Recipe": "libftdi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14733",
-      "LastCommitSHA": "0c7a50318746f8f117a812da64a353e05c5e3c6a",
-      "LastCommitAt": "2022-12-16T18:55:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-12-16T14:13:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14733#pullrequestreview-1220911071"
-         }
-      }
-   },
-   {
       "Number": 14739,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-12-14T13:49:55Z",
