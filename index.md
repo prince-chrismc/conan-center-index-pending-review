@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,7 +39,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|1|Nov 8 :bell:||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|6|Dec 14||
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|16|Dec 12||prince-chrismc
-[#14015](https://github.com/conan-io/conan-center-index/pull/14015)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 4|:gear: linter|1|Nov 23 :bell:||
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|13|Dec 14||jwillikers, SSE4
@@ -66,8 +65,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14749](https://github.com/conan-io/conan-center-index/pull/14749)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:memo: vulkan-memory-allocator|0|||
 [#14757](https://github.com/conan-io/conan-center-index/pull/14757)|[ashley-b](https://github.com/ashley-b)|Dec 15|:stopwatch: wt|0|||
 [#14759](https://github.com/conan-io/conan-center-index/pull/14759)|[SpaceIm](https://github.com/SpaceIm)|Dec 15|:memo: glslang|0|||
-[#14762](https://github.com/conan-io/conan-center-index/pull/14762)|[CD3](https://github.com/CD3)|Dec 15|:memo: cd3-boost-unit-definitions|3|Dec 15||
-[#14769](https://github.com/conan-io/conan-center-index/pull/14769)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 15|:green_book: docs|0|||
+[#14762](https://github.com/conan-io/conan-center-index/pull/14762)|[CD3](https://github.com/CD3)|Dec 15|:memo: cd3-boost-unit-definitions|4|Dec 16||prince-chrismc
+[#14769](https://github.com/conan-io/conan-center-index/pull/14769)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 15|:green_book: docs|1|Dec 16||SSE4
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,9 +86,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 201
+	- Open: 200
 	- Draft: 22
-	- Average Age: 83 days, 11 hours, and 18.07 minutes
+	- Average Age: 83 days, 22 hours, and 1.14 minutes
 	- Stop Label: 115
 	
 
