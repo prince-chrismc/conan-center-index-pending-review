@@ -834,8 +834,8 @@
       "Recipe": "wt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14757",
-      "LastCommitSHA": "68ee1d2ff2fc26a5f1bf7892d5bec0d5412ad022",
-      "LastCommitAt": "2022-12-15T11:19:10Z",
+      "LastCommitSHA": "e86bc64671de8324117ff3f02904107e7d416993",
+      "LastCommitAt": "2022-12-15T04:29:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -871,29 +871,21 @@
       }
    },
    {
-      "Number": 14769,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2022-12-15T22:55:21Z",
-      "Recipe": "docs",
-      "Change": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14769",
-      "LastCommitSHA": "5a16ed07dda5330e7ad21cd8c678303c52f52f7b",
-      "LastCommitAt": "2022-12-15T22:55:17Z",
+      "Number": 14772,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-16T01:42:14Z",
+      "Recipe": "libzippp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14772",
+      "LastCommitSHA": "4dbf8314f2c748af4bb1c93a7d5175789417ca72",
+      "LastCommitAt": "2022-12-16T10:40:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-16T10:43:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14769#pullrequestreview-1220629497"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
