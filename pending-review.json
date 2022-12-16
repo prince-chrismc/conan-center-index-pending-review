@@ -237,9 +237,9 @@
       "Recipe": "libvpx",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13799",
-      "LastCommitSHA": "4aadd9224628490f1e1bdeeda19b4e0b177141e3",
-      "LastCommitAt": "2022-12-15T22:34:55Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a6191d146b0d1813ec62128521f3a0b116f72f0c",
+      "LastCommitAt": "2022-12-16T06:14:43Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -285,7 +285,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13896",
       "LastCommitSHA": "f793fe6586367ec7d16da4ec104bcea731727ee1",
       "LastCommitAt": "2022-12-16T04:42:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 16,
          "ValidApprovals": 0,
@@ -296,6 +296,29 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2022-12-12T10:31:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13896#pullrequestreview-1213244101"
+         }
+      }
+   },
+   {
+      "Number": 14066,
+      "OpenedBy": "System-Arch",
+      "CreatedAt": "2022-11-06T03:08:20Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14066",
+      "LastCommitSHA": "43d914fc4d6484d50b32d42de20f12c0768a9a3d",
+      "LastCommitAt": "2022-12-16T05:15:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2022-12-15T21:26:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14066#pullrequestreview-1219943191"
          }
       }
    },
