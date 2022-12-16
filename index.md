@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12||
 [#13781](https://github.com/conan-io/conan-center-index/pull/13781)|[paulharris](https://github.com/paulharris)|Oct 26|:memo: netcdf|6|Dec 15||uilianries
 [#13795](https://github.com/conan-io/conan-center-index/pull/13795)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: proj|15|Dec 15||SpaceIm
-[#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:stopwatch: libvpx|1|Nov 8 :bell:||
+[#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|1|Nov 8 :bell:||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|6|Dec 14||
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|16|Dec 12||prince-chrismc
 [#14015](https://github.com/conan-io/conan-center-index/pull/14015)|[prince-chrismc](https://github.com/prince-chrismc)|Nov 4|:gear: linter|1|Nov 23 :bell:||
@@ -54,6 +54,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:memo: libcurl|8|Dec 13||uilianries
 [#14674](https://github.com/conan-io/conan-center-index/pull/14674)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 10|:green_book: docs|5|Dec 13||uilianries
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|:eyes:||
+[#14693](https://github.com/conan-io/conan-center-index/pull/14693)|[memsharded](https://github.com/memsharded)|Dec 12|:stopwatch: meson|13|Dec 13||
 [#14701](https://github.com/conan-io/conan-center-index/pull/14701)|[jwillikers](https://github.com/jwillikers)|Dec 12|:memo: jom|2|Dec 15||uilianries
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:stopwatch: tracy|1|Dec 14||uilianries
 [#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:stopwatch: qt|2|Dec 14||ericLemanissier, jwillikers
@@ -67,7 +68,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14759](https://github.com/conan-io/conan-center-index/pull/14759)|[SpaceIm](https://github.com/SpaceIm)|Dec 15|:memo: glslang|0|||
 [#14762](https://github.com/conan-io/conan-center-index/pull/14762)|[CD3](https://github.com/CD3)|Dec 15|:memo: cd3-boost-unit-definitions|3|Dec 15||
 [#14769](https://github.com/conan-io/conan-center-index/pull/14769)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 15|:green_book: docs|0|||
-[#14770](https://github.com/conan-io/conan-center-index/pull/14770)|[System-Arch](https://github.com/System-Arch)|Dec 15|:stopwatch: mpc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,10 +87,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 199
+	- Open: 200
 	- Draft: 22
-	- Average Age: 84 days, 4 hours, and 7.67 minutes
-	- Stop Label: 113
+	- Average Age: 83 days, 19 hours, and 44.21 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
