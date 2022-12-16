@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -68,6 +68,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14759](https://github.com/conan-io/conan-center-index/pull/14759)|[SpaceIm](https://github.com/SpaceIm)|Dec 15|:memo: glslang|0|||
 [#14762](https://github.com/conan-io/conan-center-index/pull/14762)|[CD3](https://github.com/CD3)|Dec 15|:memo: cd3-boost-unit-definitions|4|Dec 16||prince-chrismc
 [#14769](https://github.com/conan-io/conan-center-index/pull/14769)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 15|:green_book: docs|1|Dec 16||SSE4
+[#14774](https://github.com/conan-io/conan-center-index/pull/14774)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:stopwatch: vulkan-validationlayers|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,9 +88,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 197
+	- Open: 198
 	- Draft: 22
-	- Average Age: 83 days, 9 hours, and 36.33 minutes
+	- Average Age: 83 days, and 25.75 minutes
 	- Stop Label: 112
 	
 
