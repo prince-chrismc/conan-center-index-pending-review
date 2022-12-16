@@ -66,31 +66,6 @@
       }
    },
    {
-      "Number": 13234,
-      "OpenedBy": "sorny92",
-      "CreatedAt": "2022-09-30T12:23:07Z",
-      "Recipe": "libsvtav1",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13234",
-      "LastCommitSHA": "d91b450f170163a6d8fb51982f2c9e45f3403b6f",
-      "LastCommitAt": "2022-12-12T17:28:13Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-12-16T14:36:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13234#pullrequestreview-1220931525"
-         }
-      }
-   },
-   {
       "Number": 13666,
       "OpenedBy": "ericriff",
       "CreatedAt": "2022-10-21T13:38:20Z",
