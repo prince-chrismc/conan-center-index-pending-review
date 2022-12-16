@@ -314,29 +314,6 @@
       }
    },
    {
-      "Number": 14490,
-      "OpenedBy": "Sneder89",
-      "CreatedAt": "2022-11-29T20:20:31Z",
-      "Recipe": "doxygen",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14490",
-      "LastCommitSHA": "c0b99882404112639eea0ccc945229970f3e893d",
-      "LastCommitAt": "2022-12-16T19:03:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-12-10T03:50:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14490#pullrequestreview-1212433394"
-         }
-      }
-   },
-   {
       "Number": 14503,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-11-30T10:47:17Z",
