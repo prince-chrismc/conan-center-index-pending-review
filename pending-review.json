@@ -707,9 +707,9 @@
       "Recipe": "spirv-cross",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14726",
-      "LastCommitSHA": "746c2096129c98afc56eb7ac4984c2bf0e292c5f",
-      "LastCommitAt": "2022-12-16T21:24:17Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "700fec4dc83880b62f20d9eb02dfea584b6539b0",
+      "LastCommitAt": "2022-12-17T11:10:34Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -932,6 +932,24 @@
       "LastCommitSHA": "07eb0d62809dd93e6f4d2c72f8812cb58e7d4b94",
       "LastCommitAt": "2022-12-16T12:47:59Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14785,
+      "OpenedBy": "mzdun",
+      "CreatedAt": "2022-12-17T10:03:26Z",
+      "Recipe": "mbits-semver",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14785",
+      "LastCommitSHA": "3fbc4e4f485afb02681909d2f6d235d2100e2534",
+      "LastCommitAt": "2022-12-17T12:05:15Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
