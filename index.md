@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **39** pull requests currently under way :detective:
+There are **40** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,7 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14701](https://github.com/conan-io/conan-center-index/pull/14701)|[jwillikers](https://github.com/jwillikers)|Dec 12|:memo: jom|2|Dec 15||uilianries
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:stopwatch: tracy|1|Dec 14||uilianries
 [#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:stopwatch: qt|2|Dec 14||ericLemanissier, jwillikers
-[#14726](https://github.com/conan-io/conan-center-index/pull/14726)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:memo: spirv-cross|0|||
+[#14726](https://github.com/conan-io/conan-center-index/pull/14726)|[SpaceIm](https://github.com/SpaceIm)|Dec 13|:stopwatch: spirv-cross|0|||
 [#14730](https://github.com/conan-io/conan-center-index/pull/14730)|[toge](https://github.com/toge)|Dec 14|:memo: platform.interfaces|3|Dec 15||uilianries
 [#14739](https://github.com/conan-io/conan-center-index/pull/14739)|[SpaceIm](https://github.com/SpaceIm)|Dec 14|:memo: vulkan-loader|1|Dec 16||uilianries
 [#14747](https://github.com/conan-io/conan-center-index/pull/14747)|[toge](https://github.com/toge)|Dec 14|:memo: foonathan-lexy|1|Dec 16||uilianries
@@ -66,6 +66,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14774](https://github.com/conan-io/conan-center-index/pull/14774)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: vulkan-validationlayers|0|||
 [#14776](https://github.com/conan-io/conan-center-index/pull/14776)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: boost|1|Dec 16||jwillikers
 [#14778](https://github.com/conan-io/conan-center-index/pull/14778)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: libsigcpp|0|||
+[#14785](https://github.com/conan-io/conan-center-index/pull/14785)|[mzdun](https://github.com/mzdun)|Dec 17|:stopwatch: mbits-semver|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -86,8 +87,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
 	- Open: 194
-	- Draft: 23
-	- Average Age: 85 days, and 55.42 minutes
+	- Draft: 22
+	- Average Age: 85 days, 2 hours, and 7.82 minutes
 	- Stop Label: 113
 	
 
