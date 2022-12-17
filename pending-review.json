@@ -939,5 +939,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14784,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2022-12-17T09:06:36Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14784",
+      "LastCommitSHA": "097d0fd8f3e0988deda46228bc4eb58c893172f4",
+      "LastCommitAt": "2022-12-17T07:28:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
