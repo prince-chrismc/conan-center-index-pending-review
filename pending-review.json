@@ -957,5 +957,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14785,
+      "OpenedBy": "mzdun",
+      "CreatedAt": "2022-12-17T10:03:26Z",
+      "Recipe": "mbits-semver",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14785",
+      "LastCommitSHA": "69b28a938ed9258eec6afcc27f82a86bb713ca5f",
+      "LastCommitAt": "2022-12-17T09:59:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
