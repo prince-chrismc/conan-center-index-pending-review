@@ -939,41 +939,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14784,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2022-12-17T09:06:36Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14784",
-      "LastCommitSHA": "097d0fd8f3e0988deda46228bc4eb58c893172f4",
-      "LastCommitAt": "2022-12-17T07:28:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14785,
-      "OpenedBy": "mzdun",
-      "CreatedAt": "2022-12-17T10:03:26Z",
-      "Recipe": "mbits-semver",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14785",
-      "LastCommitSHA": "69b28a938ed9258eec6afcc27f82a86bb713ca5f",
-      "LastCommitAt": "2022-12-17T09:59:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
