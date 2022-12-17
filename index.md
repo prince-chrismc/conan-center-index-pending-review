@@ -23,13 +23,14 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **41** pull requests currently under way :detective:
+There are **42** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#12051](https://github.com/conan-io/conan-center-index/pull/12051)|[MartinDelille](https://github.com/MartinDelille)|Aug 4|:memo: sentry-crashpad|9|Oct 21 :bell:||
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15 :bell:||SSE4
+[#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:stopwatch: lzham|1|Dec 13||
 [#13666](https://github.com/conan-io/conan-center-index/pull/13666)|[ericriff](https://github.com/ericriff)|Oct 21|:memo: mold|0|:eyes:||
 [#13732](https://github.com/conan-io/conan-center-index/pull/13732)|[ashuels](https://github.com/ashuels)|Oct 24|:stopwatch: flex|2|Nov 2 :bell:||
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12||
@@ -89,8 +90,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 196
 	- Draft: 22
-	- Average Age: 84 days, 10 hours, and 4.08 minutes
-	- Stop Label: 114
+	- Average Age: 84 days, 11 hours, and 7.99 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
