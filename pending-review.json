@@ -1145,23 +1145,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14799,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-18T10:07:42Z",
-      "Recipe": "fakeit",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14799",
-      "LastCommitSHA": "970a761d4e6761ed9e851e949ec0ebc9f3476439",
-      "LastCommitAt": "2022-12-18T06:50:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
