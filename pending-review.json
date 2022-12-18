@@ -256,7 +256,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14066",
       "LastCommitSHA": "8ea95fc157d6e493f103d71f27891837d851f288",
       "LastCommitAt": "2022-12-17T21:16:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -800,7 +800,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14744",
       "LastCommitSHA": "2236fa9526b15ceda1b0027ebe7b85e3922c9f0f",
       "LastCommitAt": "2022-12-17T22:07:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 25,
          "ValidApprovals": 0,
@@ -1032,6 +1032,60 @@
       "LastCommitSHA": "e1e7a8bfac8e1f344e3f83ab248d7baa67e14016",
       "LastCommitAt": "2022-12-17T14:55:47Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14791,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-17T21:39:51Z",
+      "Recipe": "libyuv",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14791",
+      "LastCommitSHA": "029aa1127e4e8bb4e0471d181922a93030a80f17",
+      "LastCommitAt": "2022-12-17T21:37:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14792,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-17T23:20:59Z",
+      "Recipe": "xapian-core",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14792",
+      "LastCommitSHA": "76a44f95038c2addd04b377deeb80627ce3c6180",
+      "LastCommitAt": "2022-12-17T23:20:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14793,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-18T00:28:06Z",
+      "Recipe": "cpr",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14793",
+      "LastCommitSHA": "ea2fd7dd3cdfa89e3503162ced7b4194e073a0f0",
+      "LastCommitAt": "2022-12-18T00:15:35Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
