@@ -74,7 +74,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14791](https://github.com/conan-io/conan-center-index/pull/14791)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: libyuv|0|||
 [#14793](https://github.com/conan-io/conan-center-index/pull/14793)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: cpr|0|||
 [#14794](https://github.com/conan-io/conan-center-index/pull/14794)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: libiberty|0|||
-[#14795](https://github.com/conan-io/conan-center-index/pull/14795)|[toge](https://github.com/toge)|Dec 18|:stopwatch: c4core|0|||
+[#14795](https://github.com/conan-io/conan-center-index/pull/14795)|[toge](https://github.com/toge)|Dec 18|:memo: c4core|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 202
 	- Draft: 22
-	- Average Age: 82 days, 7 hours, and 44.44 minutes
+	- Average Age: 82 days, 8 hours, and 45.49 minutes
 	- Stop Label: 114
 	
 
