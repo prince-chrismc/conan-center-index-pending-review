@@ -24,9 +24,9 @@
       "Recipe": "sentry-crashpad",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12051",
-      "LastCommitSHA": "38d0cc53f73c94f0934fa8d24e92ce954c6b8dc0",
-      "LastCommitAt": "2022-12-15T11:48:41Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "52c3441748e2c94c19c015b0c22922f02aaf691a",
+      "LastCommitAt": "2022-12-18T13:47:07Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 9,
          "ValidApprovals": 0,
@@ -1161,6 +1161,42 @@
       "LastCommitSHA": "15145466dbd18a839b10e4cd2a7cb728e344f4b3",
       "LastCommitAt": "2022-12-18T08:58:12Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14801,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-18T13:29:36Z",
+      "Recipe": "libpcap",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14801",
+      "LastCommitSHA": "2e681305a03bea8289d9f179b414222c3f42cbca",
+      "LastCommitAt": "2022-12-18T13:32:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14804,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-18T14:08:00Z",
+      "Recipe": "stduuid",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14804",
+      "LastCommitSHA": "1c723e487ba5bbc76c5b20bdb2a1be2f71aedcbd",
+      "LastCommitAt": "2022-12-18T14:07:15Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
