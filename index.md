@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **47** pull requests currently under way :detective:
+There are **48** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -73,19 +73,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14797](https://github.com/conan-io/conan-center-index/pull/14797)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: apr|1|Dec 19||uilianries
 [#14798](https://github.com/conan-io/conan-center-index/pull/14798)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: threadpool|1|Dec 19||uilianries
 [#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|1|Dec 19||uilianries
-[#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: boost|1|Dec 19||jwillikers
+[#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: boost|2|Dec 19||
+[#14823](https://github.com/conan-io/conan-center-index/pull/14823)|[toge](https://github.com/toge)|Dec 19|:stopwatch: g3log|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
-[#14779](https://github.com/conan-io/conan-center-index/pull/14779)|[jcar87](https://github.com/jcar87)|Dec 16|:memo: pybind11|4|czoido, SpaceIm
 [#14801](https://github.com/conan-io/conan-center-index/pull/14801)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: libpcap|2|jwillikers, uilianries
 [#14804](https://github.com/conan-io/conan-center-index/pull/14804)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: stduuid|2|toge, uilianries
 [#14813](https://github.com/conan-io/conan-center-index/pull/14813)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 19|:gear: .c3i|2|SSE4, uilianries
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 213
 	- Draft: 24
-	- Average Age: 79 days, 10 hours, and 46.94 minutes
+	- Average Age: 79 days, 11 hours, and 29.59 minutes
 	- Stop Label: 117
 	
 
