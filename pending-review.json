@@ -72,8 +72,8 @@
       "Recipe": "opencv",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13406",
-      "LastCommitSHA": "00a6cfb95eafa6d049a69e3d756e5a726e4660dc",
-      "LastCommitAt": "2022-12-19T08:43:01Z",
+      "LastCommitSHA": "a57f9d2407d616b5c98df5d895bce8730e7f91a1",
+      "LastCommitAt": "2022-12-19T09:40:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
@@ -490,17 +490,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14618",
       "LastCommitSHA": "30605cba29ebeab9ba6ccf40489741504d0d8b80",
       "LastCommitAt": "2022-12-19T08:51:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-13T12:24:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14618#pullrequestreview-1215367786"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2022-12-19T09:34:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14618#pullrequestreview-1222566921"
          }
       }
    },
@@ -1253,7 +1255,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14809",
       "LastCommitSHA": "73ec443e6e54a13a5602046bc944e7dd38d988b1",
       "LastCommitAt": "2022-12-19T08:25:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
