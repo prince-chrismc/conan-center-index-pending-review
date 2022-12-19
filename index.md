@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **55** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -67,9 +67,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14772](https://github.com/conan-io/conan-center-index/pull/14772)|[toge](https://github.com/toge)|Dec 16|:memo: libzippp|0|:eyes:||
 [#14774](https://github.com/conan-io/conan-center-index/pull/14774)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: vulkan-validationlayers|0|||
 [#14776](https://github.com/conan-io/conan-center-index/pull/14776)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: boost|1|Dec 16||jwillikers
-[#14778](https://github.com/conan-io/conan-center-index/pull/14778)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: libsigcpp|0|||
+[#14778](https://github.com/conan-io/conan-center-index/pull/14778)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: libsigcpp|0|:eyes:||
 [#14785](https://github.com/conan-io/conan-center-index/pull/14785)|[mzdun](https://github.com/mzdun)|Dec 17|:new: mbits-semver|0|||
-[#14787](https://github.com/conan-io/conan-center-index/pull/14787)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: lcms|0|||
 [#14788](https://github.com/conan-io/conan-center-index/pull/14788)|[mzdun](https://github.com/mzdun)|Dec 17|:new: mbits-mstch|0|||
 [#14791](https://github.com/conan-io/conan-center-index/pull/14791)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: libyuv|0|||
 [#14793](https://github.com/conan-io/conan-center-index/pull/14793)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: cpr|0|||
@@ -81,7 +80,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14801](https://github.com/conan-io/conan-center-index/pull/14801)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: libpcap|0|||
 [#14804](https://github.com/conan-io/conan-center-index/pull/14804)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: stduuid|0|||
 [#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|0|||
-[#14813](https://github.com/conan-io/conan-center-index/pull/14813)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 19|:gear: .c3i|0|||
+[#14813](https://github.com/conan-io/conan-center-index/pull/14813)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 19|:gear: .c3i|1|Dec 19||SSE4
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -103,8 +102,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 214
 	- Draft: 24
-	- Average Age: 79 days, 1 hours, and 12.92 minutes
-	- Stop Label: 117
+	- Average Age: 79 days, 2 hours, and 7.24 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
