@@ -1156,15 +1156,17 @@
       "LastCommitAt": "2022-12-19T15:33:16Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "stefan-floeren",
-            "SubmittedAt": "2022-12-19T15:25:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14819#pullrequestreview-1223093029"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-12-19T17:55:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14819#pullrequestreview-1223302408"
          }
       }
    },
@@ -1177,6 +1179,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14823",
       "LastCommitSHA": "e3225396fe5aaa81e41f1276d7d18aff139744ab",
       "LastCommitAt": "2022-12-19T15:44:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14825,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-19T17:37:50Z",
+      "Recipe": "mozjpeg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14825",
+      "LastCommitSHA": "79d3961dea5631bb0553e33c477958df18e4f558",
+      "LastCommitAt": "2022-12-19T17:28:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14826,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2022-12-19T18:13:43Z",
+      "Recipe": "shapelib",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14826",
+      "LastCommitSHA": "33976dff35c10c9fcaf6134456384b5903908339",
+      "LastCommitAt": "2022-12-19T18:13:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
