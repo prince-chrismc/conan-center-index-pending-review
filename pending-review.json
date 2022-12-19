@@ -1192,11 +1192,43 @@
       "LastCommitAt": "2022-12-19T18:57:37Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-12-19T20:03:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14827#pullrequestreview-1223468816"
+         }
+      }
+   },
+   {
+      "Number": 14828,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-19T19:27:48Z",
+      "Recipe": "libxml2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14828",
+      "LastCommitSHA": "c4eb2cefa34ab75904fd01464158161695fb832c",
+      "LastCommitAt": "2022-12-19T19:26:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-12-19T19:31:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14828#pullrequestreview-1223426727"
+         }
       }
    }
 ]
