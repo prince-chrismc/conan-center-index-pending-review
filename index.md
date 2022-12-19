@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **48** pull requests currently under way :detective:
+There are **50** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -73,8 +73,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14797](https://github.com/conan-io/conan-center-index/pull/14797)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: apr|1|Dec 19||uilianries
 [#14798](https://github.com/conan-io/conan-center-index/pull/14798)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: threadpool|1|Dec 19||uilianries
 [#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|1|Dec 19||uilianries
-[#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: boost|2|Dec 19||
+[#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: boost|3|Dec 19||jwillikers
 [#14823](https://github.com/conan-io/conan-center-index/pull/14823)|[toge](https://github.com/toge)|Dec 19|:stopwatch: g3log|0|||
+[#14825](https://github.com/conan-io/conan-center-index/pull/14825)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: mozjpeg|0|||
+[#14826](https://github.com/conan-io/conan-center-index/pull/14826)|[jwillikers](https://github.com/jwillikers)|Dec 19|:stopwatch: shapelib|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -94,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 210
+	- Open: 212
 	- Draft: 24
-	- Average Age: 80 days, 15 hours, and 19.21 minutes
+	- Average Age: 79 days, 22 hours, and 9.12 minutes
 	- Stop Label: 117
 	
 
