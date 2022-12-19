@@ -1001,24 +1001,6 @@
       }
    },
    {
-      "Number": 14787,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-17T15:14:47Z",
-      "Recipe": "lcms",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14787",
-      "LastCommitSHA": "6a417c0109b3b3ed62a24796e57f7b12ceecb3b9",
-      "LastCommitAt": "2022-12-17T20:18:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 14788,
       "OpenedBy": "mzdun",
       "CreatedAt": "2022-12-17T15:57:44Z",
@@ -1227,11 +1209,18 @@
       "LastCommitAt": "2022-12-19T11:38:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-12-19T12:46:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14813#pullrequestreview-1222823714"
+         }
       }
    }
 ]
