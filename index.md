@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **55** pull requests currently under way :detective:
+There are **57** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,6 +37,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|1|Nov 8 :bell:||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20||prince-chrismc
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|16|Dec 12||
+[#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:memo: c-dbg-macro|3|Nov 23 :bell:||
 [#14066](https://github.com/conan-io/conan-center-index/pull/14066)|[System-Arch](https://github.com/System-Arch)|Nov 6|:stopwatch: openssl|13|Dec 19||
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
@@ -77,11 +78,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14828](https://github.com/conan-io/conan-center-index/pull/14828)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: libxml2|1|Dec 19||jwillikers
 [#14837](https://github.com/conan-io/conan-center-index/pull/14837)|[github-actions[bot]](https://github.com/github-actions[bot])|Dec 20|:green_book: docs|0|||
 [#14838](https://github.com/conan-io/conan-center-index/pull/14838)|[serge1](https://github.com/serge1)|Dec 20|:memo: elfio|0|:eyes:||
-[#14840](https://github.com/conan-io/conan-center-index/pull/14840)|[toge](https://github.com/toge)|Dec 20|:stopwatch: homog2d|0|||
+[#14840](https://github.com/conan-io/conan-center-index/pull/14840)|[toge](https://github.com/toge)|Dec 20|:memo: homog2d|0|||
 [#14841](https://github.com/conan-io/conan-center-index/pull/14841)|[toge](https://github.com/toge)|Dec 20|:stopwatch: drogon|0|||
-[#14842](https://github.com/conan-io/conan-center-index/pull/14842)|[toge](https://github.com/toge)|Dec 20|:stopwatch: etl|0|||
-[#14845](https://github.com/conan-io/conan-center-index/pull/14845)|[jcar87](https://github.com/jcar87)|Dec 20|:green_book: docs|1|Dec 20||RubenRBS
-[#14846](https://github.com/conan-io/conan-center-index/pull/14846)|[jcar87](https://github.com/jcar87)|Dec 20|:stopwatch: libbacktrace|1|Dec 20||czoido
+[#14845](https://github.com/conan-io/conan-center-index/pull/14845)|[jcar87](https://github.com/jcar87)|Dec 20|:green_book: docs|4|Dec 20||RubenRBS
+[#14846](https://github.com/conan-io/conan-center-index/pull/14846)|[jcar87](https://github.com/jcar87)|Dec 20|:stopwatch: libbacktrace|4|Dec 20||czoido
+[#14847](https://github.com/conan-io/conan-center-index/pull/14847)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:stopwatch: libuvc|0|||
+[#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:stopwatch: daw_utf_range|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -102,10 +104,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 220
+	- Open: 221
 	- Draft: 23
-	- Average Age: 77 days, 11 hours, and 56.52 minutes
-	- Stop Label: 121
+	- Average Age: 77 days, 4 hours, and 32.44 minutes
+	- Stop Label: 120
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
