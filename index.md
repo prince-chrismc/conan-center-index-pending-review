@@ -23,19 +23,18 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **49** pull requests currently under way :detective:
+There are **48** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#12051](https://github.com/conan-io/conan-center-index/pull/12051)|[MartinDelille](https://github.com/MartinDelille)|Aug 4|:memo: sentry-crashpad|9|Oct 21 :bell:||
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15 :bell:||SSE4
 [#13406](https://github.com/conan-io/conan-center-index/pull/13406)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: opencv|6|Dec 19||jwillikers
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:new: lzham|1|Dec 13||
 [#13666](https://github.com/conan-io/conan-center-index/pull/13666)|[ericriff](https://github.com/ericriff)|Oct 21|:memo: mold|0|:eyes:||
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12||
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|1|Nov 8 :bell:||
-[#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|6|Dec 14||
+[#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20||prince-chrismc
 [#13896](https://github.com/conan-io/conan-center-index/pull/13896)|[samuel-emrys](https://github.com/samuel-emrys)|Oct 31|:memo: gcc|16|Dec 12||
 [#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
@@ -96,9 +95,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
 	- Open: 213
-	- Draft: 24
-	- Average Age: 79 days, 17 hours, and 53.74 minutes
-	- Stop Label: 118
+	- Draft: 25
+	- Average Age: 79 days, 19 hours, and 38.62 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
