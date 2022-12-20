@@ -28,7 +28,7 @@ There are **55** pull requests currently under way :detective:
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#12051](https://github.com/conan-io/conan-center-index/pull/12051)|[MartinDelille](https://github.com/MartinDelille)|Aug 4|:stopwatch: sentry-crashpad|11|Dec 20||
+[#12051](https://github.com/conan-io/conan-center-index/pull/12051)|[MartinDelille](https://github.com/MartinDelille)|Aug 4|:memo: sentry-crashpad|12|Dec 20||SpaceIm
 [#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15 :bell:||SSE4
 [#13406](https://github.com/conan-io/conan-center-index/pull/13406)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: opencv|6|Dec 19||jwillikers
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:stopwatch: lzham|1|Dec 13||
@@ -74,19 +74,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: boost|3|Dec 19||jwillikers
 [#14823](https://github.com/conan-io/conan-center-index/pull/14823)|[toge](https://github.com/toge)|Dec 19|:stopwatch: g3log|1|Dec 20||
 [#14827](https://github.com/conan-io/conan-center-index/pull/14827)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: libtiff|1|Dec 19||jwillikers
-[#14828](https://github.com/conan-io/conan-center-index/pull/14828)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: libxml2|1|Dec 19||jwillikers
-[#14837](https://github.com/conan-io/conan-center-index/pull/14837)|[github-actions[bot]](https://github.com/github-actions[bot])|Dec 20|:stopwatch: docs|0|||
+[#14828](https://github.com/conan-io/conan-center-index/pull/14828)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: libxml2|1|Dec 19||jwillikers
+[#14837](https://github.com/conan-io/conan-center-index/pull/14837)|[github-actions[bot]](https://github.com/github-actions[bot])|Dec 20|:green_book: docs|0|||
 [#14838](https://github.com/conan-io/conan-center-index/pull/14838)|[serge1](https://github.com/serge1)|Dec 20|:memo: elfio|0|:eyes:||
 [#14840](https://github.com/conan-io/conan-center-index/pull/14840)|[toge](https://github.com/toge)|Dec 20|:memo: homog2d|0|||
 [#14841](https://github.com/conan-io/conan-center-index/pull/14841)|[toge](https://github.com/toge)|Dec 20|:memo: drogon|0|||
 [#14847](https://github.com/conan-io/conan-center-index/pull/14847)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: libuvc|0|||
-[#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:stopwatch: daw_utf_range|0|||
-[#14850](https://github.com/conan-io/conan-center-index/pull/14850)|[jcar87](https://github.com/jcar87)|Dec 20|:stopwatch: cryptopp|1|Dec 20||RubenRBS
+[#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:memo: daw_utf_range|0|||
+[#14852](https://github.com/conan-io/conan-center-index/pull/14852)|[jwillikers](https://github.com/jwillikers)|Dec 20|:stopwatch: libiconv|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -94,9 +94,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#14766](https://github.com/conan-io/conan-center-index/pull/14766)|[danimtb](https://github.com/danimtb)|Dec 15|:gear: .c3i|3|uilianries, memsharded, SSE4
-[#14794](https://github.com/conan-io/conan-center-index/pull/14794)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: libiberty|2|uilianries, jwillikers
-[#14798](https://github.com/conan-io/conan-center-index/pull/14798)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: threadpool|2|uilianries, jwillikers
-[#14846](https://github.com/conan-io/conan-center-index/pull/14846)|[jcar87](https://github.com/jcar87)|Dec 20|:warning: libbacktrace|6|czoido, RubenRBS
+[#14850](https://github.com/conan-io/conan-center-index/pull/14850)|[jcar87](https://github.com/jcar87)|Dec 20|:warning: cryptopp|2|RubenRBS, SpaceIm
 
 
 #### :clipboard: Statistics
@@ -105,9 +103,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 221
-	- Draft: 23
-	- Average Age: 77 days, 6 hours, and 19.48 minutes
+	- Open: 220
+	- Draft: 24
+	- Average Age: 77 days, 15 hours, and 24.44 minutes
 	- Stop Label: 120
 	
 
