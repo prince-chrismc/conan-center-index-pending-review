@@ -18,29 +18,6 @@
       }
    },
    {
-      "Number": 12051,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2022-08-04T13:47:52Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12051",
-      "LastCommitSHA": "52c3441748e2c94c19c015b0c22922f02aaf691a",
-      "LastCommitAt": "2022-12-18T13:47:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2022-10-21T10:08:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12051#pullrequestreview-1150702395"
-         }
-      }
-   },
-   {
       "Number": 12333,
       "OpenedBy": "willadsen",
       "CreatedAt": "2022-08-18T09:50:05Z",
@@ -214,15 +191,17 @@
       "LastCommitAt": "2022-12-14T22:45:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 7,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-12-14T22:03:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13866#pullrequestreview-1218311018"
+            "SubmittedAt": "2022-12-20T00:03:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13866#pullrequestreview-1223682098"
          }
       }
    },
