@@ -1085,16 +1085,14 @@
       "Recipe": "cpp-sort",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14809",
-      "LastCommitSHA": "73ec443e6e54a13a5602046bc944e7dd38d988b1",
-      "LastCommitAt": "2022-12-19T08:25:08Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ceabaacf8fff751040b5add1a6f4db8bb90e22e4",
+      "LastCommitAt": "2022-12-20T12:34:21Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
@@ -1152,32 +1150,6 @@
       }
    },
    {
-      "Number": 14825,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-19T17:37:50Z",
-      "Recipe": "mozjpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14825",
-      "LastCommitSHA": "79d3961dea5631bb0553e33c477958df18e4f558",
-      "LastCommitAt": "2022-12-19T17:28:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "toge",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2022-12-20T12:06:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14825#pullrequestreview-1224384553"
-         }
-      }
-   },
-   {
       "Number": 14827,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-12-19T18:58:47Z",
@@ -1224,31 +1196,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2022-12-19T19:31:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14828#pullrequestreview-1223426727"
-         }
-      }
-   },
-   {
-      "Number": 14834,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-20T05:51:40Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14834",
-      "LastCommitSHA": "a0ac972fb636aebd67d2cc1425592947eba23625",
-      "LastCommitAt": "2022-12-20T05:50:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-20T08:36:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14834#pullrequestreview-1224075361"
          }
       }
    },
