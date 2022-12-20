@@ -73,12 +73,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14791](https://github.com/conan-io/conan-center-index/pull/14791)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: libyuv|1|Dec 19||
 [#14795](https://github.com/conan-io/conan-center-index/pull/14795)|[toge](https://github.com/toge)|Dec 18|:memo: c4core|1|Dec 19||uilianries
 [#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|2|Dec 20||
-[#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: boost|3|Dec 19||jwillikers
-[#14821](https://github.com/conan-io/conan-center-index/pull/14821)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Dec 19|:stopwatch: qt|0|||
+[#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: boost|3|Dec 19||jwillikers
 [#14823](https://github.com/conan-io/conan-center-index/pull/14823)|[toge](https://github.com/toge)|Dec 19|:memo: g3log|1|Dec 20||
 [#14827](https://github.com/conan-io/conan-center-index/pull/14827)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: libtiff|1|Dec 19||jwillikers
 [#14828](https://github.com/conan-io/conan-center-index/pull/14828)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: libxml2|1|Dec 19||jwillikers
 [#14831](https://github.com/conan-io/conan-center-index/pull/14831)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:green_book: docs|7|Dec 20||
+[#14834](https://github.com/conan-io/conan-center-index/pull/14834)|[toge](https://github.com/toge)|Dec 20|:memo: opentelemetry-cpp|1|Dec 20||
 [#14837](https://github.com/conan-io/conan-center-index/pull/14837)|[github-actions[bot]](https://github.com/github-actions[bot])|Dec 20|:green_book: docs|1|Dec 20||prince-chrismc
 [#14838](https://github.com/conan-io/conan-center-index/pull/14838)|[serge1](https://github.com/serge1)|Dec 20|:memo: elfio|0|:eyes:||
 [#14839](https://github.com/conan-io/conan-center-index/pull/14839)|[toge](https://github.com/toge)|Dec 20|:memo: nanobench|0|||
@@ -101,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#14766](https://github.com/conan-io/conan-center-index/pull/14766)|[danimtb](https://github.com/danimtb)|Dec 15|:gear: .c3i|3|uilianries, memsharded, SSE4
-[#14850](https://github.com/conan-io/conan-center-index/pull/14850)|[jcar87](https://github.com/jcar87)|Dec 20|:warning: cryptopp|4|RubenRBS, SpaceIm, czoido
+[#14850](https://github.com/conan-io/conan-center-index/pull/14850)|[jcar87](https://github.com/jcar87)|Dec 20|:memo: cryptopp|4|RubenRBS, SpaceIm, czoido
 
 
 #### :clipboard: Statistics
@@ -112,7 +112,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 216
 	- Draft: 24
-	- Average Age: 76 days, 6 hours, and 42.60 minutes
+	- Average Age: 76 days, 7 hours, and 42.69 minutes
 	- Stop Label: 111
 	
 
