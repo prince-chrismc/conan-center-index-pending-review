@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **52** pull requests currently under way :detective:
+There are **53** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -69,21 +69,22 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14794](https://github.com/conan-io/conan-center-index/pull/14794)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: libiberty|1|Dec 19||uilianries
 [#14795](https://github.com/conan-io/conan-center-index/pull/14795)|[toge](https://github.com/toge)|Dec 18|:memo: c4core|1|Dec 19||uilianries
 [#14798](https://github.com/conan-io/conan-center-index/pull/14798)|[SpaceIm](https://github.com/SpaceIm)|Dec 18|:memo: threadpool|1|Dec 19||uilianries
-[#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|1|Dec 19||uilianries
+[#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|2|Dec 20||uilianries
 [#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: boost|3|Dec 19||jwillikers
 [#14823](https://github.com/conan-io/conan-center-index/pull/14823)|[toge](https://github.com/toge)|Dec 19|:stopwatch: g3log|1|Dec 20||
-[#14825](https://github.com/conan-io/conan-center-index/pull/14825)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: mozjpeg|1|Dec 20||toge
 [#14827](https://github.com/conan-io/conan-center-index/pull/14827)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: libtiff|1|Dec 19||jwillikers
 [#14828](https://github.com/conan-io/conan-center-index/pull/14828)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: libxml2|1|Dec 19||jwillikers
 [#14834](https://github.com/conan-io/conan-center-index/pull/14834)|[toge](https://github.com/toge)|Dec 20|:stopwatch: opentelemetry-cpp|1|Dec 20||uilianries
 [#14837](https://github.com/conan-io/conan-center-index/pull/14837)|[github-actions[bot]](https://github.com/github-actions[bot])|Dec 20|:green_book: docs|0|||
 [#14838](https://github.com/conan-io/conan-center-index/pull/14838)|[serge1](https://github.com/serge1)|Dec 20|:stopwatch: elfio|0|:eyes:||
 [#14840](https://github.com/conan-io/conan-center-index/pull/14840)|[toge](https://github.com/toge)|Dec 20|:stopwatch: homog2d|0|||
+[#14841](https://github.com/conan-io/conan-center-index/pull/14841)|[toge](https://github.com/toge)|Dec 20|:stopwatch: drogon|0|||
+[#14842](https://github.com/conan-io/conan-center-index/pull/14842)|[toge](https://github.com/toge)|Dec 20|:stopwatch: etl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -91,6 +92,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#14766](https://github.com/conan-io/conan-center-index/pull/14766)|[danimtb](https://github.com/danimtb)|Dec 15|:gear: .c3i|3|uilianries, memsharded, SSE4
+[#14825](https://github.com/conan-io/conan-center-index/pull/14825)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: mozjpeg|2|toge, danimtb
 
 
 #### :clipboard: Statistics
@@ -99,9 +101,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 216
+	- Open: 218
 	- Draft: 23
-	- Average Age: 79 days, and 34.24 minutes
+	- Average Age: 78 days, 8 hours, and 23.01 minutes
 	- Stop Label: 118
 	
 
