@@ -1170,7 +1170,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14819",
       "LastCommitSHA": "4123e210d70c30aa59fc0b4890fa120ffe9f7e8d",
       "LastCommitAt": "2022-12-19T15:33:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -1184,24 +1184,6 @@
             "SubmittedAt": "2022-12-19T17:55:19Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14819#pullrequestreview-1223302408"
          }
-      }
-   },
-   {
-      "Number": 14821,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2022-12-19T14:07:02Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14821",
-      "LastCommitSHA": "91f5235bef82dcf6f7973fe80d22e2b3eca635c9",
-      "LastCommitAt": "2022-12-20T18:29:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -1297,6 +1279,29 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2022-12-20T05:14:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14831#pullrequestreview-1223896626"
+         }
+      }
+   },
+   {
+      "Number": 14834,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-20T05:51:40Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14834",
+      "LastCommitSHA": "0cb4b2cba18d66b908857c3c9d53e51452066a7f",
+      "LastCommitAt": "2022-12-20T16:56:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2022-12-20T08:36:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14834#pullrequestreview-1224075361"
          }
       }
    },
@@ -1449,7 +1454,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14850",
       "LastCommitSHA": "0b8e4d88ef1ee672c52c254cf708d0b4813fe96b",
       "LastCommitAt": "2022-12-20T16:45:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 3,
@@ -1499,8 +1504,8 @@
       "Recipe": "ceres-solver",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14855",
-      "LastCommitSHA": "eb3d172279471602252a610e76bd86e8a2cd1ec3",
-      "LastCommitAt": "2022-12-20T21:28:05Z",
+      "LastCommitSHA": "f7e19c660d4d8c12fd008cee2d588d762e5da818",
+      "LastCommitAt": "2022-12-20T23:06:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
