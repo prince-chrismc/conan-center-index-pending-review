@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **51** pull requests currently under way :detective:
+There are **50** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -49,7 +49,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14599](https://github.com/conan-io/conan-center-index/pull/14599)|[jwillikers](https://github.com/jwillikers)|Dec 5|:memo: xkbcommon|1|Dec 14||uilianries
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:stopwatch: libsafec|3|Dec 19||jwillikers
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|0|:eyes:||
-[#14633](https://github.com/conan-io/conan-center-index/pull/14633)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:memo: catch2|2|Dec 12||jwillikers
 [#14641](https://github.com/conan-io/conan-center-index/pull/14641)|[toge](https://github.com/toge)|Dec 8|:memo: hyperscan|1|Dec 13||uilianries
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:memo: libcurl|8|Dec 13||uilianries
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|:eyes:||
@@ -76,7 +75,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14840](https://github.com/conan-io/conan-center-index/pull/14840)|[toge](https://github.com/toge)|Dec 20|:memo: homog2d|1|Dec 21||uilianries
 [#14847](https://github.com/conan-io/conan-center-index/pull/14847)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: libuvc|1|Dec 21||uilianries
 [#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:memo: daw_utf_range|1|Dec 21||uilianries
-[#14856](https://github.com/conan-io/conan-center-index/pull/14856)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:green_book: docs|5|Dec 21||RubenRBS
+[#14856](https://github.com/conan-io/conan-center-index/pull/14856)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:green_book: docs|5|Dec 21||
 [#14875](https://github.com/conan-io/conan-center-index/pull/14875)|[RubenRBS](https://github.com/RubenRBS)|Dec 21|:green_book: docs|1|Dec 21||
 
 
@@ -99,8 +98,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 219
 	- Draft: 26
-	- Average Age: 75 days, 14 hours, and 24.18 minutes
-	- Stop Label: 124
+	- Average Age: 75 days, 15 hours, and 24.46 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
