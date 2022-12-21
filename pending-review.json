@@ -1160,29 +1160,6 @@
       }
    },
    {
-      "Number": 14823,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-19T15:45:58Z",
-      "Recipe": "g3log",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14823",
-      "LastCommitSHA": "abb78903b86d857ef7ae79c1c0f7a07561a0c8d7",
-      "LastCommitAt": "2022-12-21T02:13:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-20T08:36:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14823#pullrequestreview-1224077285"
-         }
-      }
-   },
-   {
       "Number": 14827,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-12-19T18:58:47Z",
@@ -1243,15 +1220,17 @@
       "LastCommitAt": "2022-12-20T18:52:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 0,
+         "Count": 8,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-12-20T05:14:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14831#pullrequestreview-1223896626"
+            "SubmittedAt": "2022-12-21T04:16:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14831#pullrequestreview-1225440201"
          }
       }
    },
@@ -1454,11 +1433,16 @@
       "LastCommitAt": "2022-12-20T22:01:19Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 4,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-12-21T04:13:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14856#pullrequestreview-1225438656"
+         }
       }
    },
    {
