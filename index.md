@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **61** pull requests currently under way :detective:
+There are **62** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -72,6 +72,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14788](https://github.com/conan-io/conan-center-index/pull/14788)|[mzdun](https://github.com/mzdun)|Dec 17|:new: mbits-mstch|1|Dec 19||uilianries
 [#14791](https://github.com/conan-io/conan-center-index/pull/14791)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: libyuv|1|Dec 19||
 [#14795](https://github.com/conan-io/conan-center-index/pull/14795)|[toge](https://github.com/toge)|Dec 18|:memo: c4core|1|Dec 19||uilianries
+[#14796](https://github.com/conan-io/conan-center-index/pull/14796)|[Viatorus](https://github.com/Viatorus)|Dec 18|:stopwatch: emio|1|Dec 19||
 [#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|2|Dec 20||
 [#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: boost|3|Dec 19||jwillikers
 [#14827](https://github.com/conan-io/conan-center-index/pull/14827)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: libtiff|1|Dec 19||jwillikers
@@ -109,7 +110,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 217
 	- Draft: 24
-	- Average Age: 76 days, 3 hours, and 42.15 minutes
+	- Average Age: 76 days, 4 hours, and 38.35 minutes
 	- Stop Label: 115
 	
 
