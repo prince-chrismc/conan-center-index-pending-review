@@ -74,16 +74,14 @@
       "Recipe": "opencv",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13406",
-      "LastCommitSHA": "a57f9d2407d616b5c98df5d895bce8730e7f91a1",
-      "LastCommitAt": "2022-12-19T09:40:24Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c4cf328dbb7e1c6be26c504bba2899792ae54068",
+      "LastCommitAt": "2022-12-21T12:15:56Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -179,29 +177,6 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2022-11-09T10:32:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13786#pullrequestreview-1173776576"
-         }
-      }
-   },
-   {
-      "Number": 13799,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-10-27T07:57:09Z",
-      "Recipe": "libvpx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13799",
-      "LastCommitSHA": "f659eeb798537ae35a7670465fc42e4102202add",
-      "LastCommitAt": "2022-12-16T13:36:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-11-08T22:33:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13799#pullrequestreview-1172939627"
          }
       }
    },
