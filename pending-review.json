@@ -1444,24 +1444,6 @@
       }
    },
    {
-      "Number": 14855,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-20T21:36:57Z",
-      "Recipe": "ceres-solver",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14855",
-      "LastCommitSHA": "f7e19c660d4d8c12fd008cee2d588d762e5da818",
-      "LastCommitAt": "2022-12-20T23:06:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 14856,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-12-20T22:03:25Z",
