@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **63** pull requests currently under way :detective:
+There are **62** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -87,7 +87,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14847](https://github.com/conan-io/conan-center-index/pull/14847)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: libuvc|0|||
 [#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:memo: daw_utf_range|0|||
 [#14852](https://github.com/conan-io/conan-center-index/pull/14852)|[jwillikers](https://github.com/jwillikers)|Dec 20|:memo: libiconv|4|Dec 20||prince-chrismc
-[#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:stopwatch: ceres-solver|0|||
 [#14856](https://github.com/conan-io/conan-center-index/pull/14856)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:green_book: docs|0|||
 [#14858](https://github.com/conan-io/conan-center-index/pull/14858)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:memo: libxml2|0|||
 
@@ -111,8 +110,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 217
 	- Draft: 24
-	- Average Age: 76 days, 1 hours, and 58.82 minutes
-	- Stop Label: 113
+	- Average Age: 76 days, 2 hours, and 40.33 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
