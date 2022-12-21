@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **62** pull requests currently under way :detective:
+There are **61** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -88,19 +88,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14852](https://github.com/conan-io/conan-center-index/pull/14852)|[jwillikers](https://github.com/jwillikers)|Dec 20|:memo: libiconv|4|Dec 20||prince-chrismc
 [#14856](https://github.com/conan-io/conan-center-index/pull/14856)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:green_book: docs|4|Dec 21||
 [#14858](https://github.com/conan-io/conan-center-index/pull/14858)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:memo: libxml2|0|||
-[#14864](https://github.com/conan-io/conan-center-index/pull/14864)|[theirix](https://github.com/theirix)|Dec 21|:stopwatch: leptonica|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
-[#14747](https://github.com/conan-io/conan-center-index/pull/14747)|[toge](https://github.com/toge)|Dec 14|:memo: foonathan-lexy|2|uilianries, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -110,9 +108,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
 	- Open: 219
-	- Draft: 24
-	- Average Age: 75 days, 15 hours, and 52.42 minutes
-	- Stop Label: 116
+	- Draft: 23
+	- Average Age: 75 days, 16 hours, and 9.74 minutes
+	- Stop Label: 119
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
