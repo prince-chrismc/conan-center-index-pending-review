@@ -78,15 +78,17 @@
       "LastCommitAt": "2022-12-21T16:17:14Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
+         "Count": 7,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-12-19T13:24:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13406#pullrequestreview-1222874312"
+            "SubmittedAt": "2022-12-21T17:50:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13406#pullrequestreview-1226522741"
          }
       }
    },
@@ -1312,24 +1314,6 @@
             "SubmittedAt": "2022-12-21T15:13:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14858#pullrequestreview-1226265007"
          }
-      }
-   },
-   {
-      "Number": 14870,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-21T16:31:12Z",
-      "Recipe": "libmp3lame",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14870",
-      "LastCommitSHA": "a24d5482b7a5f08a5e730686329281c1b76eebb2",
-      "LastCommitAt": "2022-12-21T16:27:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
