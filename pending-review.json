@@ -558,32 +558,6 @@
       }
    },
    {
-      "Number": 14634,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2022-12-07T22:49:53Z",
-      "Recipe": "spdlog",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14634",
-      "LastCommitSHA": "38d60b1ec618c471daf7593e3d92ec87c4195e9e",
-      "LastCommitAt": "2022-12-20T16:06:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "franramirez688"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2022-12-21T20:10:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14634#pullrequestreview-1226702720"
-         }
-      }
-   },
-   {
       "Number": 14641,
       "OpenedBy": "toge",
       "CreatedAt": "2022-12-08T09:45:34Z",
@@ -1294,42 +1268,6 @@
             "SubmittedAt": "2022-12-21T19:19:24Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14875#pullrequestreview-1226643587"
          }
-      }
-   },
-   {
-      "Number": 14877,
-      "OpenedBy": "qchateau",
-      "CreatedAt": "2022-12-21T20:06:01Z",
-      "Recipe": "packio",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14877",
-      "LastCommitSHA": "1a883536fba17c387b063f429c2db9770f5b1ad6",
-      "LastCommitAt": "2022-12-21T06:49:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14878,
-      "OpenedBy": "ngrodzitski",
-      "CreatedAt": "2022-12-21T20:09:04Z",
-      "Recipe": "logr",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14878",
-      "LastCommitSHA": "03bb2faaaf0e2f36033da99ae93c5389ccab8640",
-      "LastCommitAt": "2022-12-21T20:00:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
