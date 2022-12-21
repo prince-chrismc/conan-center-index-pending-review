@@ -831,17 +831,18 @@
       "LastCommitAt": "2022-12-14T16:34:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "RubenRBS"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-16T10:41:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14747#pullrequestreview-1220623973"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2022-12-21T09:11:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14747#pullrequestreview-1225711465"
          }
       }
    },
@@ -1485,6 +1486,24 @@
       "LastCommitSHA": "b393c837f833b81700dfedba972b325613f1bb76",
       "LastCommitAt": "2022-12-20T23:28:05Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14864,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2022-12-21T08:36:04Z",
+      "Recipe": "leptonica",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14864",
+      "LastCommitSHA": "a7e6711f04f5dd12d4b303eb5c7eba7030c36bae",
+      "LastCommitAt": "2022-12-21T08:43:56Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
