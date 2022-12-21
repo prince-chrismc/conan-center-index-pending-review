@@ -50,7 +50,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:stopwatch: libsafec|3|Dec 19||jwillikers
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|0|:eyes:||
 [#14633](https://github.com/conan-io/conan-center-index/pull/14633)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:memo: catch2|2|Dec 12||jwillikers
-[#14634](https://github.com/conan-io/conan-center-index/pull/14634)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:memo: spdlog|7|Dec 20||
 [#14641](https://github.com/conan-io/conan-center-index/pull/14641)|[toge](https://github.com/toge)|Dec 8|:memo: hyperscan|1|Dec 13||uilianries
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:memo: libcurl|8|Dec 13||uilianries
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|:eyes:||
@@ -72,24 +71,26 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|3|Dec 21||uilianries
 [#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: boost|3|Dec 19||jwillikers
 [#14828](https://github.com/conan-io/conan-center-index/pull/14828)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: libxml2|1|Dec 19||jwillikers
-[#14837](https://github.com/conan-io/conan-center-index/pull/14837)|[github-actions[bot]](https://github.com/github-actions[bot])|Dec 20|:green_book: docs|2|Dec 21||
+[#14837](https://github.com/conan-io/conan-center-index/pull/14837)|[github-actions[bot]](https://github.com/github-actions[bot])|Dec 20|:green_book: docs|3|Dec 21||prince-chrismc
 [#14839](https://github.com/conan-io/conan-center-index/pull/14839)|[toge](https://github.com/toge)|Dec 20|:memo: nanobench|1|Dec 21||uilianries
 [#14840](https://github.com/conan-io/conan-center-index/pull/14840)|[toge](https://github.com/toge)|Dec 20|:memo: homog2d|1|Dec 21||uilianries
 [#14847](https://github.com/conan-io/conan-center-index/pull/14847)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: libuvc|1|Dec 21||uilianries
 [#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:memo: daw_utf_range|1|Dec 21||uilianries
 [#14856](https://github.com/conan-io/conan-center-index/pull/14856)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:green_book: docs|5|Dec 21||RubenRBS
-[#14858](https://github.com/conan-io/conan-center-index/pull/14858)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 20|:memo: libxml2|1|Dec 21||uilianries
-[#14875](https://github.com/conan-io/conan-center-index/pull/14875)|[RubenRBS](https://github.com/RubenRBS)|Dec 21|:stopwatch: docs|0|||
+[#14875](https://github.com/conan-io/conan-center-index/pull/14875)|[RubenRBS](https://github.com/RubenRBS)|Dec 21|:green_book: docs|1|Dec 21||
+[#14877](https://github.com/conan-io/conan-center-index/pull/14877)|[qchateau](https://github.com/qchateau)|Dec 21|:stopwatch: packio|0|||
+[#14878](https://github.com/conan-io/conan-center-index/pull/14878)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 21|:memo: logr|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
+[#14634](https://github.com/conan-io/conan-center-index/pull/14634)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 7|:memo: spdlog|10|RubenRBS, franramirez688
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 
 
@@ -99,10 +100,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 218
+	- Open: 220
 	- Draft: 26
-	- Average Age: 75 days, 22 hours, and 19.09 minutes
-	- Stop Label: 120
+	- Average Age: 75 days, 6 hours, and 41.91 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
