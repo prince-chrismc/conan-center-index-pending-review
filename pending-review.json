@@ -1166,9 +1166,9 @@
       "Recipe": "g3log",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14823",
-      "LastCommitSHA": "f2169b53806034a55b9ba1c5d0f2f667444ceea3",
-      "LastCommitAt": "2022-12-20T10:26:58Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "abb78903b86d857ef7ae79c1c0f7a07561a0c8d7",
+      "LastCommitAt": "2022-12-21T02:13:18Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1480,24 +1480,6 @@
       }
    },
    {
-      "Number": 14857,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-20T23:26:01Z",
-      "Recipe": "glaze",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14857",
-      "LastCommitSHA": "f8fd55acbe90ae4896487822c6e1c5b69989683c",
-      "LastCommitAt": "2022-12-21T00:29:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 14858,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-12-20T23:28:17Z",
@@ -1507,24 +1489,6 @@
       "LastCommitSHA": "b393c837f833b81700dfedba972b325613f1bb76",
       "LastCommitAt": "2022-12-20T23:28:05Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14859,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-21T00:28:09Z",
-      "Recipe": "bison",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14859",
-      "LastCommitSHA": "6eb5ecc37f583b99cfbc420cddd0ed9dab87464f",
-      "LastCommitAt": "2022-12-21T00:25:33Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
