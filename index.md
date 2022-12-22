@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **50** pull requests currently under way :detective:
+There are **52** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -77,6 +77,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14875](https://github.com/conan-io/conan-center-index/pull/14875)|[RubenRBS](https://github.com/RubenRBS)|Dec 21|:green_book: docs|2|Dec 22||uilianries
 [#14882](https://github.com/conan-io/conan-center-index/pull/14882)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 21|:green_book: docs|0|||
 [#14883](https://github.com/conan-io/conan-center-index/pull/14883)|[EricAtORS](https://github.com/EricAtORS)|Dec 22|:stopwatch: boost|0|||
+[#14887](https://github.com/conan-io/conan-center-index/pull/14887)|[toge](https://github.com/toge)|Dec 22|:stopwatch: bitsery|0|||
+[#14888](https://github.com/conan-io/conan-center-index/pull/14888)|[sanblch](https://github.com/sanblch)|Dec 22|:stopwatch: boost|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -96,9 +98,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 219
+	- Open: 221
 	- Draft: 25
-	- Average Age: 76 days, 1 hours, and 33.17 minutes
+	- Average Age: 75 days, 9 hours, and 56.15 minutes
 	- Stop Label: 126
 	
 
