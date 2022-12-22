@@ -76,18 +76,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:memo: daw_utf_range|1|Dec 21||uilianries
 [#14866](https://github.com/conan-io/conan-center-index/pull/14866)|[mzdun](https://github.com/mzdun)|Dec 21|:memo: mbits-args|3|Dec 22||uilianries
 [#14875](https://github.com/conan-io/conan-center-index/pull/14875)|[RubenRBS](https://github.com/RubenRBS)|Dec 21|:green_book: docs|2|Dec 22||uilianries
-[#14893](https://github.com/conan-io/conan-center-index/pull/14893)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:stopwatch: b2|0|||
+[#14893](https://github.com/conan-io/conan-center-index/pull/14893)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:stopwatch: b2|1|Dec 22||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
+[#14896](https://github.com/conan-io/conan-center-index/pull/14896)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 22|:green_book: docs|2|RubenRBS, SSE4
 
 
 #### :clipboard: Statistics
@@ -96,9 +97,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 222
+	- Open: 224
 	- Draft: 24
-	- Average Age: 75 days, 5 hours, and 6.45 minutes
+	- Average Age: 74 days, 14 hours, and 3.42 minutes
 	- Stop Label: 128
 	
 
