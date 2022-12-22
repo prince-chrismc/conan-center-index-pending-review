@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **50** pull requests currently under way :detective:
+There are **49** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -61,8 +61,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14772](https://github.com/conan-io/conan-center-index/pull/14772)|[toge](https://github.com/toge)|Dec 16|:memo: libzippp|1|Dec 19||uilianries
 [#14774](https://github.com/conan-io/conan-center-index/pull/14774)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: vulkan-validationlayers|1|Dec 19||uilianries
 [#14776](https://github.com/conan-io/conan-center-index/pull/14776)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: boost|1|Dec 16||jwillikers
-[#14785](https://github.com/conan-io/conan-center-index/pull/14785)|[mzdun](https://github.com/mzdun)|Dec 17|:new: mbits-semver|1|Dec 19||uilianries
-[#14788](https://github.com/conan-io/conan-center-index/pull/14788)|[mzdun](https://github.com/mzdun)|Dec 17|:new: mbits-mstch|1|Dec 19||uilianries
+[#14788](https://github.com/conan-io/conan-center-index/pull/14788)|[mzdun](https://github.com/mzdun)|Dec 17|:stopwatch: mbits-mstch|2|Dec 22||
 [#14791](https://github.com/conan-io/conan-center-index/pull/14791)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: libyuv|2|Dec 21||uilianries
 [#14795](https://github.com/conan-io/conan-center-index/pull/14795)|[toge](https://github.com/toge)|Dec 18|:memo: c4core|1|Dec 19||uilianries
 [#14796](https://github.com/conan-io/conan-center-index/pull/14796)|[Viatorus](https://github.com/Viatorus)|Dec 18|:stopwatch: emio|1|Dec 19||
@@ -98,8 +97,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 219
 	- Draft: 26
-	- Average Age: 76 days, 9 hours, and 43.70 minutes
-	- Stop Label: 126
+	- Average Age: 76 days, 10 hours, and 40.96 minutes
+	- Stop Label: 127
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
