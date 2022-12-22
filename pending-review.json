@@ -158,29 +158,6 @@
       }
    },
    {
-      "Number": 13799,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-10-27T07:57:09Z",
-      "Recipe": "libvpx",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13799",
-      "LastCommitSHA": "47fc5fcb5b971f912e4b54d46582d31878b09ad3",
-      "LastCommitAt": "2022-12-22T06:40:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2022-12-21T11:18:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13799#pullrequestreview-1225894559"
-         }
-      }
-   },
-   {
       "Number": 13866,
       "OpenedBy": "RazielXYZ",
       "CreatedAt": "2022-10-30T05:23:15Z",
