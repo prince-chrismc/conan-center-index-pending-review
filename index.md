@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **48** pull requests currently under way :detective:
+There are **47** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -62,7 +62,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14788](https://github.com/conan-io/conan-center-index/pull/14788)|[mzdun](https://github.com/mzdun)|Dec 17|:new: mbits-mstch|3|Dec 22||uilianries
 [#14791](https://github.com/conan-io/conan-center-index/pull/14791)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: libyuv|2|Dec 21||uilianries
 [#14795](https://github.com/conan-io/conan-center-index/pull/14795)|[toge](https://github.com/toge)|Dec 18|:memo: c4core|1|Dec 19||uilianries
-[#14796](https://github.com/conan-io/conan-center-index/pull/14796)|[Viatorus](https://github.com/Viatorus)|Dec 18|:stopwatch: emio|1|Dec 19||
 [#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|3|Dec 21||uilianries
 [#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: boost|3|Dec 19||jwillikers
 [#14828](https://github.com/conan-io/conan-center-index/pull/14828)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: libxml2|1|Dec 19||jwillikers
@@ -72,9 +71,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:memo: daw_utf_range|1|Dec 21||uilianries
 [#14866](https://github.com/conan-io/conan-center-index/pull/14866)|[mzdun](https://github.com/mzdun)|Dec 21|:memo: mbits-args|3|Dec 22||uilianries
 [#14902](https://github.com/conan-io/conan-center-index/pull/14902)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:stopwatch: libcurl|0|||
-[#14905](https://github.com/conan-io/conan-center-index/pull/14905)|[shtanko-sv](https://github.com/shtanko-sv)|Dec 23|:stopwatch: binutils|2|Dec 23||
 [#14906](https://github.com/conan-io/conan-center-index/pull/14906)|[SpaceIm](https://github.com/SpaceIm)|Dec 23|:stopwatch: openssl|0|||
 [#14907](https://github.com/conan-io/conan-center-index/pull/14907)|[larshg](https://github.com/larshg)|Dec 23|:stopwatch: gstreamer|0|||
+[#14910](https://github.com/conan-io/conan-center-index/pull/14910)|[uilianries](https://github.com/uilianries)|Dec 23|:stopwatch: luajit|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -94,9 +93,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 225
+	- Open: 226
 	- Draft: 25
-	- Average Age: 74 days, 18 hours, and 10.99 minutes
+	- Average Age: 74 days, 11 hours, and 9.18 minutes
 	- Stop Label: 133
 	
 
