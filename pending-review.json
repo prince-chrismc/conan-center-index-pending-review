@@ -1139,8 +1139,8 @@
       "Recipe": "linter",
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14912",
-      "LastCommitSHA": "4eb8c09c3f7bd055d22dab97147f5c107ef9c64c",
-      "LastCommitAt": "2022-12-23T15:00:05Z",
+      "LastCommitSHA": "373bb2a00168115d245f791f0c16539c4ed7f50a",
+      "LastCommitAt": "2022-12-23T15:41:38Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
