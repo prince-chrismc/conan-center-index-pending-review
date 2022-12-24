@@ -1128,14 +1128,14 @@
       }
    },
    {
-      "Number": 14918,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-24T10:02:22Z",
-      "Recipe": "wolfssl",
+      "Number": 14920,
+      "OpenedBy": "czoido",
+      "CreatedAt": "2022-12-24T10:33:45Z",
+      "Recipe": "sdl",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14918",
-      "LastCommitSHA": "644d5995e9a53fdb1873572ff91a4fde7acb10a1",
-      "LastCommitAt": "2022-12-21T07:34:48Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14920",
+      "LastCommitSHA": "620035e07baedd3e6afa5a4c582f5ba1a55cbaf6",
+      "LastCommitAt": "2022-12-24T10:36:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
