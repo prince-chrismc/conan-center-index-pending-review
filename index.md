@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **46** pull requests currently under way :detective:
+There are **45** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,7 +36,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20||prince-chrismc
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:memo: c-dbg-macro|3|Nov 23 :bell:||
 [#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:memo: libev|0|:eyes:||
-[#14229](https://github.com/conan-io/conan-center-index/pull/14229)|[aheck](https://github.com/aheck)|Nov 16|:stopwatch: libssh2|0|:eyes:||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:memo: protobuf|3|Dec 20||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|13|Dec 14||jwillikers, SSE4
@@ -92,10 +91,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 232
+	- Open: 233
 	- Draft: 24
-	- Average Age: 72 days, 18 hours, and 28.49 minutes
-	- Stop Label: 141
+	- Average Age: 72 days, 13 hours, and 0.13 minutes
+	- Stop Label: 143
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
