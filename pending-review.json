@@ -1126,23 +1126,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 14921,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-24T12:11:08Z",
-      "Recipe": "meson",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14921",
-      "LastCommitSHA": "a1be8d416b08d2bdc8f3e3367b4f5fc6da17037d",
-      "LastCommitAt": "2022-12-24T12:10:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
