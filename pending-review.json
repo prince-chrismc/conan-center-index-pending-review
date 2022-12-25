@@ -1149,5 +1149,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14933,
+      "OpenedBy": "PavelKisliak",
+      "CreatedAt": "2022-12-25T18:40:19Z",
+      "Recipe": "bitserializer",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14933",
+      "LastCommitSHA": "c8cf2857249b0b1f905f9aede10a5c88c527a0f5",
+      "LastCommitAt": "2022-12-24T18:41:27Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
