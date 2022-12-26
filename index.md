@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **48** pull requests currently under way :detective:
+There are **49** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -63,6 +63,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14809](https://github.com/conan-io/conan-center-index/pull/14809)|[toge](https://github.com/toge)|Dec 19|:memo: cpp-sort|3|Dec 21||uilianries
 [#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: boost|3|Dec 19||jwillikers
 [#14828](https://github.com/conan-io/conan-center-index/pull/14828)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: libxml2|1|Dec 19||jwillikers
+[#14834](https://github.com/conan-io/conan-center-index/pull/14834)|[toge](https://github.com/toge)|Dec 20|:stopwatch: opentelemetry-cpp|2|Dec 21||
 [#14838](https://github.com/conan-io/conan-center-index/pull/14838)|[serge1](https://github.com/serge1)|Dec 20|:memo: elfio|1|Dec 21||
 [#14839](https://github.com/conan-io/conan-center-index/pull/14839)|[toge](https://github.com/toge)|Dec 20|:memo: nanobench|1|Dec 21||uilianries
 [#14840](https://github.com/conan-io/conan-center-index/pull/14840)|[toge](https://github.com/toge)|Dec 20|:memo: homog2d|1|Dec 21||uilianries
@@ -94,10 +95,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 241
-	- Draft: 24
-	- Average Age: 70 days, 16 hours, and 55.37 minutes
-	- Stop Label: 149
+	- Open: 238
+	- Draft: 23
+	- Average Age: 70 days, 6 hours, and 27.73 minutes
+	- Stop Label: 147
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
