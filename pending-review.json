@@ -91,24 +91,6 @@
       }
    },
    {
-      "Number": 13666,
-      "OpenedBy": "ericriff",
-      "CreatedAt": "2022-10-21T13:38:20Z",
-      "Recipe": "mold",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13666",
-      "LastCommitSHA": "d4ec4bd65db023ef7a6d39e43843b6ff9a364f3f",
-      "LastCommitAt": "2022-12-10T01:31:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13739,
       "OpenedBy": "System-Arch",
       "CreatedAt": "2022-10-25T03:27:09Z",
