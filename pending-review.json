@@ -1073,14 +1073,14 @@
       }
    },
    {
-      "Number": 14945,
+      "Number": 14946,
       "OpenedBy": "toge",
-      "CreatedAt": "2022-12-26T15:06:13Z",
-      "Recipe": "brynet",
+      "CreatedAt": "2022-12-26T15:47:43Z",
+      "Recipe": "cista",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14945",
-      "LastCommitSHA": "f7e7d057dd5343cd5933b1740e073c9ba8cc9799",
-      "LastCommitAt": "2022-12-26T15:05:41Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14946",
+      "LastCommitSHA": "d0fc30e8b97c96b3705f66fd23ac02b3d1988764",
+      "LastCommitAt": "2022-12-26T15:47:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
