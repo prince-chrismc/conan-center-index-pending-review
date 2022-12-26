@@ -66,13 +66,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14902](https://github.com/conan-io/conan-center-index/pull/14902)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:stopwatch: libcurl|0|:eyes:||
 [#14907](https://github.com/conan-io/conan-center-index/pull/14907)|[larshg](https://github.com/larshg)|Dec 23|:stopwatch: gstreamer|0|:eyes:||
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
-[#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|||
+[#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14932](https://github.com/conan-io/conan-center-index/pull/14932)|[a4z](https://github.com/a4z)|Dec 25|:new: strong_type|0|||
 [#14933](https://github.com/conan-io/conan-center-index/pull/14933)|[PavelKisliak](https://github.com/PavelKisliak)|Dec 25|:memo: bitserializer|0|||
 [#14941](https://github.com/conan-io/conan-center-index/pull/14941)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 26|:gear: .c3i|0|||
 [#14943](https://github.com/conan-io/conan-center-index/pull/14943)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 26|:stopwatch: .c3i|0|||
 [#14944](https://github.com/conan-io/conan-center-index/pull/14944)|[toge](https://github.com/toge)|Dec 26|:new: commata|0|||
-[#14945](https://github.com/conan-io/conan-center-index/pull/14945)|[toge](https://github.com/toge)|Dec 26|:stopwatch: brynet|0|||
+[#14946](https://github.com/conan-io/conan-center-index/pull/14946)|[toge](https://github.com/toge)|Dec 26|:stopwatch: cista|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -92,10 +92,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 236
+	- Open: 237
 	- Draft: 23
-	- Average Age: 70 days, 22 hours, and 43.10 minutes
-	- Stop Label: 150
+	- Average Age: 70 days, 16 hours, and 35.88 minutes
+	- Stop Label: 151
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
