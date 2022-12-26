@@ -37,7 +37,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:memo: libev|0|:eyes:||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:memo: protobuf|3|Dec 20||
-[#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|13|Dec 14 :bell:||jwillikers, SSE4
+[#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|13|Dec 14 :bell:||
 [#14532](https://github.com/conan-io/conan-center-index/pull/14532)|[toge](https://github.com/toge)|Dec 2|:memo: usockets|1|Dec 21||uilianries
 [#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|6|Dec 15||uilianries
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5 :bell:||jwillikers
@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 240
 	- Draft: 23
-	- Average Age: 70 days, 1 hours, and 14.60 minutes
+	- Average Age: 70 days, 2 hours, and 15.34 minutes
 	- Stop Label: 152
 	
 
