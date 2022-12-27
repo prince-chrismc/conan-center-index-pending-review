@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14932](https://github.com/conan-io/conan-center-index/pull/14932)|[a4z](https://github.com/a4z)|Dec 25|:new: strong_type|0|||
 [#14933](https://github.com/conan-io/conan-center-index/pull/14933)|[PavelKisliak](https://github.com/PavelKisliak)|Dec 25|:memo: bitserializer|0|||
-[#14941](https://github.com/conan-io/conan-center-index/pull/14941)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 26|:gear: .c3i|0|||
+[#14941](https://github.com/conan-io/conan-center-index/pull/14941)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 26|:gear: .c3i|1|Dec 27||SSE4
 [#14943](https://github.com/conan-io/conan-center-index/pull/14943)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 26|:stopwatch: .c3i|0|||
 [#14944](https://github.com/conan-io/conan-center-index/pull/14944)|[toge](https://github.com/toge)|Dec 26|:new: commata|0|||
 
@@ -93,7 +93,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 239
 	- Draft: 22
-	- Average Age: 70 days, 11 hours, and 12.79 minutes
+	- Average Age: 70 days, 12 hours, and 17.70 minutes
 	- Stop Label: 155
 	
 
