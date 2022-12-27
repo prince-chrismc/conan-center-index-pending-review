@@ -405,17 +405,18 @@
       "LastCommitAt": "2022-12-08T14:19:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-13T12:39:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14641#pullrequestreview-1215389596"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-12-27T09:06:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14641#pullrequestreview-1230487782"
          }
       }
    },
@@ -885,31 +886,6 @@
       }
    },
    {
-      "Number": 14866,
-      "OpenedBy": "mzdun",
-      "CreatedAt": "2022-12-21T09:04:17Z",
-      "Recipe": "mbits-args",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14866",
-      "LastCommitSHA": "00720b6b0316f580877fad9e6a4e82063640fe6b",
-      "LastCommitAt": "2022-12-22T11:10:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-22T15:59:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14866#pullrequestreview-1227892253"
-         }
-      }
-   },
-   {
       "Number": 14902,
       "OpenedBy": "mkoviazin",
       "CreatedAt": "2022-12-23T07:17:33Z",
@@ -1028,17 +1004,18 @@
       "LastCommitAt": "2022-12-26T11:38:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "SSE4"
+            "SSE4",
+            "danimtb"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-12-27T07:37:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14941#pullrequestreview-1230422153"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2022-12-27T09:12:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14941#pullrequestreview-1230493661"
          }
       }
    },
@@ -1069,6 +1046,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14944",
       "LastCommitSHA": "ee0b1d6f5aa949534d0e57bb12179de72cffdfed",
       "LastCommitAt": "2022-12-26T13:44:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14946,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-26T15:47:43Z",
+      "Recipe": "cista",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14946",
+      "LastCommitSHA": "b7a76fb6ef96bf333ddfe287148ce4ca5cd41518",
+      "LastCommitAt": "2022-12-27T08:02:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14952,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2022-12-27T08:21:37Z",
+      "Recipe": ".github",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14952",
+      "LastCommitSHA": "ab41566dbc5cc04dd2476b70a946195bd31fc4f8",
+      "LastCommitAt": "2022-12-27T08:11:46Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
