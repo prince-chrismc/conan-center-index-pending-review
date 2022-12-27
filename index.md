@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **45** pull requests currently under way :detective:
+There are **44** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,13 +39,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:memo: protobuf|3|Dec 20||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|14|Dec 27||SSE4
 [#14532](https://github.com/conan-io/conan-center-index/pull/14532)|[toge](https://github.com/toge)|Dec 2|:memo: usockets|1|Dec 21||uilianries
-[#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|6|Dec 15||uilianries
+[#14550](https://github.com/conan-io/conan-center-index/pull/14550)|[toge](https://github.com/toge)|Dec 3|:new: zpp_throwing|6|Dec 15 :bell:||uilianries
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5 :bell:||jwillikers
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:memo: libsafec|3|Dec 19||jwillikers
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|0|:eyes:||
-[#14641](https://github.com/conan-io/conan-center-index/pull/14641)|[toge](https://github.com/toge)|Dec 8|:memo: hyperscan|1|Dec 13 :bell:||uilianries
 [#14669](https://github.com/conan-io/conan-center-index/pull/14669)|[calebkiage](https://github.com/calebkiage)|Dec 9|:memo: libcurl|8|Dec 13 :bell:||uilianries
-[#14730](https://github.com/conan-io/conan-center-index/pull/14730)|[toge](https://github.com/toge)|Dec 14|:memo: platform.interfaces|3|Dec 15||uilianries
+[#14730](https://github.com/conan-io/conan-center-index/pull/14730)|[toge](https://github.com/toge)|Dec 14|:memo: platform.interfaces|3|Dec 15 :bell:||uilianries
 [#14744](https://github.com/conan-io/conan-center-index/pull/14744)|[calebkiage](https://github.com/calebkiage)|Dec 14|:memo: libpq|25|Dec 17||
 [#14759](https://github.com/conan-io/conan-center-index/pull/14759)|[SpaceIm](https://github.com/SpaceIm)|Dec 15|:memo: glslang|1|Dec 16||uilianries
 [#14772](https://github.com/conan-io/conan-center-index/pull/14772)|[toge](https://github.com/toge)|Dec 16|:memo: libzippp|1|Dec 19||uilianries
@@ -62,27 +61,29 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14847](https://github.com/conan-io/conan-center-index/pull/14847)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: libuvc|1|Dec 21||uilianries
 [#14848](https://github.com/conan-io/conan-center-index/pull/14848)|[toge](https://github.com/toge)|Dec 20|:memo: daw_utf_range|1|Dec 21||uilianries
 [#14862](https://github.com/conan-io/conan-center-index/pull/14862)|[toge](https://github.com/toge)|Dec 21|:new: libserial|0|||
-[#14866](https://github.com/conan-io/conan-center-index/pull/14866)|[mzdun](https://github.com/mzdun)|Dec 21|:memo: mbits-args|3|Dec 22||uilianries
 [#14902](https://github.com/conan-io/conan-center-index/pull/14902)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:stopwatch: libcurl|0|:eyes:||
 [#14907](https://github.com/conan-io/conan-center-index/pull/14907)|[larshg](https://github.com/larshg)|Dec 23|:stopwatch: gstreamer|0|:eyes:||
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14932](https://github.com/conan-io/conan-center-index/pull/14932)|[a4z](https://github.com/a4z)|Dec 25|:new: strong_type|0|||
 [#14933](https://github.com/conan-io/conan-center-index/pull/14933)|[PavelKisliak](https://github.com/PavelKisliak)|Dec 25|:memo: bitserializer|0|||
-[#14941](https://github.com/conan-io/conan-center-index/pull/14941)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 26|:gear: .c3i|1|Dec 27||SSE4
 [#14943](https://github.com/conan-io/conan-center-index/pull/14943)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 26|:stopwatch: .c3i|0|||
 [#14944](https://github.com/conan-io/conan-center-index/pull/14944)|[toge](https://github.com/toge)|Dec 26|:new: commata|0|||
+[#14946](https://github.com/conan-io/conan-center-index/pull/14946)|[toge](https://github.com/toge)|Dec 26|:memo: cista|0|||
+[#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13786](https://github.com/conan-io/conan-center-index/pull/13786)|[ashuels](https://github.com/ashuels)|Oct 26|:warning: libpng|2|prince-chrismc, ericLemanissier
+[#14641](https://github.com/conan-io/conan-center-index/pull/14641)|[toge](https://github.com/toge)|Dec 8|:memo: hyperscan|2|uilianries, danimtb
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
+[#14941](https://github.com/conan-io/conan-center-index/pull/14941)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 26|:gear: .c3i|2|SSE4, danimtb
 
 
 #### :clipboard: Statistics
@@ -91,10 +92,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 239
+	- Open: 238
 	- Draft: 22
-	- Average Age: 70 days, 12 hours, and 17.70 minutes
-	- Stop Label: 155
+	- Average Age: 70 days, 11 hours, and 56.04 minutes
+	- Stop Label: 153
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
