@@ -1088,5 +1088,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14959,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2022-12-27T14:27:34Z",
+      "Recipe": "libsodium",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14959",
+      "LastCommitSHA": "4d422e15747b8ac04e93737238a01d0eadbca624",
+      "LastCommitAt": "2022-12-27T14:40:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 14961,
+      "OpenedBy": "czoido",
+      "CreatedAt": "2022-12-27T14:53:42Z",
+      "Recipe": "opengl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14961",
+      "LastCommitSHA": "32891a25b3c8687014b7daeefb9791f02471888b",
+      "LastCommitAt": "2022-12-27T15:01:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
