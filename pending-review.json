@@ -262,15 +262,17 @@
       "LastCommitAt": "2022-12-26T22:36:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 13,
-         "ValidApprovals": 0,
+         "Count": 14,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-12-14T14:21:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14503#pullrequestreview-1217552843"
+            "SubmittedAt": "2022-12-27T03:00:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14503#pullrequestreview-1230313595"
          }
       }
    },
@@ -1078,24 +1080,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14947",
       "LastCommitSHA": "842dd9134180661891b5b26c870448952e0fff24",
       "LastCommitAt": "2022-12-26T20:59:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 14949,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-26T21:21:11Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14949",
-      "LastCommitSHA": "7ccdbecd2bdd4ebe414abe34c2ddf142191fd1fb",
-      "LastCommitAt": "2022-12-26T21:20:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
