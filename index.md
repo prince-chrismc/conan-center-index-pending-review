@@ -47,9 +47,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|||
 [#14986](https://github.com/conan-io/conan-center-index/pull/14986)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:stopwatch: vulkan-loader|1|Dec 28||jwillikers
-[#14987](https://github.com/conan-io/conan-center-index/pull/14987)|[toge](https://github.com/toge)|Dec 28|:stopwatch: libavrocpp|0|||
-[#14988](https://github.com/conan-io/conan-center-index/pull/14988)|[toge](https://github.com/toge)|Dec 28|:stopwatch: sqlite3|0|||
-[#14989](https://github.com/conan-io/conan-center-index/pull/14989)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:stopwatch: opengl|0|||
+[#14987](https://github.com/conan-io/conan-center-index/pull/14987)|[toge](https://github.com/toge)|Dec 28|:stopwatch: libavrocpp|1|Dec 28||jwillikers
+[#14988](https://github.com/conan-io/conan-center-index/pull/14988)|[toge](https://github.com/toge)|Dec 28|:stopwatch: sqlite3|2|Dec 28||jwillikers, SpaceIm
+[#14989](https://github.com/conan-io/conan-center-index/pull/14989)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:stopwatch: opengl|1|Dec 28||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -70,10 +70,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 231
+	- Open: 229
 	- Draft: 23
-	- Average Age: 71 days, 22 hours, and 52.14 minutes
-	- Stop Label: 169
+	- Average Age: 72 days, 13 hours, and 33.54 minutes
+	- Stop Label: 166
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
