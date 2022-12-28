@@ -48,13 +48,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14932](https://github.com/conan-io/conan-center-index/pull/14932)|[a4z](https://github.com/a4z)|Dec 25|:new: strong_type|2|Dec 28||uilianries
+[#14933](https://github.com/conan-io/conan-center-index/pull/14933)|[PavelKisliak](https://github.com/PavelKisliak)|Dec 25|:stopwatch: bitserializer|4|Dec 28||
 [#14944](https://github.com/conan-io/conan-center-index/pull/14944)|[toge](https://github.com/toge)|Dec 26|:new: commata|1|Dec 27||uilianries
 [#14946](https://github.com/conan-io/conan-center-index/pull/14946)|[toge](https://github.com/toge)|Dec 26|:memo: cista|2|Dec 28||uilianries
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|||
 [#14953](https://github.com/conan-io/conan-center-index/pull/14953)|[danimtb](https://github.com/danimtb)|Dec 27|:stopwatch: .c3i|1|Dec 27||uilianries
 [#14961](https://github.com/conan-io/conan-center-index/pull/14961)|[czoido](https://github.com/czoido)|Dec 27|:memo: opengl|1|Dec 27||uilianries
 [#14983](https://github.com/conan-io/conan-center-index/pull/14983)|[toge](https://github.com/toge)|Dec 28|:memo: rapidcsv|1|Dec 28||uilianries
-[#14985](https://github.com/conan-io/conan-center-index/pull/14985)|[uilianries](https://github.com/uilianries)|Dec 28|:stopwatch: rapidyaml|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -73,9 +73,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 237
+	- Open: 233
 	- Draft: 23
-	- Average Age: 70 days, 1 hours, and 16.42 minutes
+	- Average Age: 71 days, 6 hours, and 39.43 minutes
 	- Stop Label: 168
 	
 
