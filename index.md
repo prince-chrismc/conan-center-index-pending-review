@@ -40,16 +40,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5 :bell:||jwillikers
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:memo: libsafec|3|Dec 19||jwillikers
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27||uilianries
+[#14787](https://github.com/conan-io/conan-center-index/pull/14787)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:stopwatch: lcms|3|Dec 21||
 [#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: boost|3|Dec 19||jwillikers
 [#14902](https://github.com/conan-io/conan-center-index/pull/14902)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:stopwatch: libcurl|0|:eyes:||
 [#14907](https://github.com/conan-io/conan-center-index/pull/14907)|[larshg](https://github.com/larshg)|Dec 23|:stopwatch: gstreamer|0|:eyes:||
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|||
-[#14986](https://github.com/conan-io/conan-center-index/pull/14986)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:stopwatch: vulkan-loader|1|Dec 28||jwillikers
 [#14987](https://github.com/conan-io/conan-center-index/pull/14987)|[toge](https://github.com/toge)|Dec 28|:stopwatch: libavrocpp|1|Dec 28||jwillikers
 [#14988](https://github.com/conan-io/conan-center-index/pull/14988)|[toge](https://github.com/toge)|Dec 28|:stopwatch: sqlite3|2|Dec 28||jwillikers, SpaceIm
-[#14989](https://github.com/conan-io/conan-center-index/pull/14989)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:stopwatch: opengl|1|Dec 28||jwillikers
+[#14989](https://github.com/conan-io/conan-center-index/pull/14989)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:memo: opengl|1|Dec 28||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -71,8 +71,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 227
 	- Draft: 24
-	- Average Age: 73 days, 5 hours, and 46.03 minutes
-	- Stop Label: 165
+	- Average Age: 73 days, 6 hours, and 49.13 minutes
+	- Stop Label: 166
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
