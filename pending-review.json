@@ -661,5 +661,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 14982,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-28T05:33:53Z",
+      "Recipe": "rapidyaml",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14982",
+      "LastCommitSHA": "30e64109dd93652dc84c0c3cad520f5c3c8bb2d1",
+      "LastCommitAt": "2022-12-28T05:32:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
