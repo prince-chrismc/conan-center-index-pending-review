@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **23** pull requests currently under way :detective:
+There are **21** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,8 +47,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|||
-[#14987](https://github.com/conan-io/conan-center-index/pull/14987)|[toge](https://github.com/toge)|Dec 28|:stopwatch: libavrocpp|1|Dec 28||jwillikers
-[#14988](https://github.com/conan-io/conan-center-index/pull/14988)|[toge](https://github.com/toge)|Dec 28|:stopwatch: sqlite3|2|Dec 28||jwillikers, SpaceIm
 [#14989](https://github.com/conan-io/conan-center-index/pull/14989)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:memo: opengl|1|Dec 28||jwillikers
 
 
@@ -71,8 +69,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 227
 	- Draft: 24
-	- Average Age: 73 days, 6 hours, and 49.13 minutes
-	- Stop Label: 166
+	- Average Age: 73 days, 7 hours, and 46.83 minutes
+	- Stop Label: 168
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
