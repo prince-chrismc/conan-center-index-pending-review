@@ -54,14 +54,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#14953](https://github.com/conan-io/conan-center-index/pull/14953)|[danimtb](https://github.com/danimtb)|Dec 27|:gear: .c3i|2|uilianries, jwillikers
-[#14983](https://github.com/conan-io/conan-center-index/pull/14983)|[toge](https://github.com/toge)|Dec 28|:memo: rapidcsv|2|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -70,10 +69,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 229
-	- Draft: 23
-	- Average Age: 72 days, 13 hours, and 33.54 minutes
-	- Stop Label: 166
+	- Open: 227
+	- Draft: 24
+	- Average Age: 73 days, 5 hours, and 46.03 minutes
+	- Stop Label: 165
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
