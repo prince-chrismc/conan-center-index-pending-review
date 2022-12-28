@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **20** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,30 +41,27 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:memo: libsafec|3|Dec 19||jwillikers
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27||uilianries
 [#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: boost|3|Dec 19||jwillikers
-[#14838](https://github.com/conan-io/conan-center-index/pull/14838)|[serge1](https://github.com/serge1)|Dec 20|:memo: elfio|2|Dec 28||uilianries
-[#14847](https://github.com/conan-io/conan-center-index/pull/14847)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: libuvc|1|Dec 21||uilianries
 [#14902](https://github.com/conan-io/conan-center-index/pull/14902)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:stopwatch: libcurl|0|:eyes:||
 [#14907](https://github.com/conan-io/conan-center-index/pull/14907)|[larshg](https://github.com/larshg)|Dec 23|:stopwatch: gstreamer|0|:eyes:||
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
-[#14932](https://github.com/conan-io/conan-center-index/pull/14932)|[a4z](https://github.com/a4z)|Dec 25|:new: strong_type|2|Dec 28||uilianries
-[#14944](https://github.com/conan-io/conan-center-index/pull/14944)|[toge](https://github.com/toge)|Dec 26|:new: commata|1|Dec 27||uilianries
-[#14946](https://github.com/conan-io/conan-center-index/pull/14946)|[toge](https://github.com/toge)|Dec 26|:memo: cista|2|Dec 28||uilianries
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|||
-[#14953](https://github.com/conan-io/conan-center-index/pull/14953)|[danimtb](https://github.com/danimtb)|Dec 27|:stopwatch: .c3i|1|Dec 27||uilianries
-[#14961](https://github.com/conan-io/conan-center-index/pull/14961)|[czoido](https://github.com/czoido)|Dec 27|:memo: opengl|1|Dec 27||uilianries
-[#14983](https://github.com/conan-io/conan-center-index/pull/14983)|[toge](https://github.com/toge)|Dec 28|:memo: rapidcsv|1|Dec 28||uilianries
-[#14986](https://github.com/conan-io/conan-center-index/pull/14986)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:stopwatch: vulkan-loader|0|||
+[#14986](https://github.com/conan-io/conan-center-index/pull/14986)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:stopwatch: vulkan-loader|1|Dec 28||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
+[#14932](https://github.com/conan-io/conan-center-index/pull/14932)|[a4z](https://github.com/a4z)|Dec 25|:new: strong_type|3|uilianries, jwillikers
+[#14944](https://github.com/conan-io/conan-center-index/pull/14944)|[toge](https://github.com/toge)|Dec 26|:new: commata|2|uilianries, jwillikers
+[#14946](https://github.com/conan-io/conan-center-index/pull/14946)|[toge](https://github.com/toge)|Dec 26|:memo: cista|3|uilianries, jwillikers
+[#14953](https://github.com/conan-io/conan-center-index/pull/14953)|[danimtb](https://github.com/danimtb)|Dec 27|:gear: .c3i|2|uilianries, jwillikers
+[#14983](https://github.com/conan-io/conan-center-index/pull/14983)|[toge](https://github.com/toge)|Dec 28|:memo: rapidcsv|2|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -73,10 +70,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 234
+	- Open: 231
 	- Draft: 23
-	- Average Age: 71 days, and 14.66 minutes
-	- Stop Label: 168
+	- Average Age: 71 days, 22 hours, and 31.81 minutes
+	- Stop Label: 169
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
