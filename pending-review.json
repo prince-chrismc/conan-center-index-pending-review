@@ -494,18 +494,37 @@
       "LastCommitAt": "2022-12-29T03:02:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-29T10:30:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14993#pullrequestreview-1232376932"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2022-12-29T16:13:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14993#pullrequestreview-1232615249"
          }
+      }
+   },
+   {
+      "Number": 14999,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-29T16:12:28Z",
+      "Recipe": "squirrel",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14999",
+      "LastCommitSHA": "265ab3639e80e1b7f8cde5007653f2dd2a1facc4",
+      "LastCommitAt": "2022-12-29T16:10:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
