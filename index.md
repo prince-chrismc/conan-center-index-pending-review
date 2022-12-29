@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **22** pull requests currently under way :detective:
+There are **20** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -33,7 +33,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12 :bell:||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20||prince-chrismc
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:memo: c-dbg-macro|4|Dec 27||prince-chrismc
-[#14006](https://github.com/conan-io/conan-center-index/pull/14006)|[TheSalvator](https://github.com/TheSalvator)|Nov 3|:new: yaclib|21|Dec 27||prince-chrismc
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:memo: protobuf|3|Dec 20||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|14|Dec 27||SSE4
@@ -47,8 +46,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|||
 [#14989](https://github.com/conan-io/conan-center-index/pull/14989)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:memo: opengl|1|Dec 28||jwillikers
-[#14993](https://github.com/conan-io/conan-center-index/pull/14993)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|0|||
-[#14996](https://github.com/conan-io/conan-center-index/pull/14996)|[toge](https://github.com/toge)|Dec 29|:stopwatch: tesseract|0|||
+[#14993](https://github.com/conan-io/conan-center-index/pull/14993)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|1|Dec 29||uilianries
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -68,10 +66,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 229
+	- Open: 228
 	- Draft: 24
-	- Average Age: 73 days, 5 hours, and 22.14 minutes
-	- Stop Label: 167
+	- Average Age: 73 days, 8 hours, and 10.72 minutes
+	- Stop Label: 168
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
