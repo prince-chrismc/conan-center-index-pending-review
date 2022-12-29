@@ -46,18 +46,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|||
 [#14989](https://github.com/conan-io/conan-center-index/pull/14989)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:memo: opengl|1|Dec 28||jwillikers
-[#14993](https://github.com/conan-io/conan-center-index/pull/14993)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|1|Dec 29||uilianries
+[#14999](https://github.com/conan-io/conan-center-index/pull/14999)|[toge](https://github.com/toge)|Dec 29|:stopwatch: squirrel|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#14953](https://github.com/conan-io/conan-center-index/pull/14953)|[danimtb](https://github.com/danimtb)|Dec 27|:gear: .c3i|2|uilianries, jwillikers
+[#14993](https://github.com/conan-io/conan-center-index/pull/14993)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|2|uilianries, SSE4
 
 
 #### :clipboard: Statistics
@@ -66,9 +67,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 228
-	- Draft: 24
-	- Average Age: 73 days, 10 hours, and 17.49 minutes
+	- Open: 230
+	- Draft: 25
+	- Average Age: 72 days, 21 hours, and 56.85 minutes
 	- Stop Label: 169
 	
 
