@@ -459,40 +459,15 @@
       }
    },
    {
-      "Number": 14989,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-28T16:10:59Z",
-      "Recipe": "opengl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14989",
-      "LastCommitSHA": "ec1cca99d8ed7a9cd36775e50bccad386ce89f44",
-      "LastCommitAt": "2022-12-28T16:06:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2022-12-28T17:15:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14989#pullrequestreview-1231808985"
-         }
-      }
-   },
-   {
       "Number": 14998,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-12-29T15:25:42Z",
       "Recipe": "libsodium",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14998",
-      "LastCommitSHA": "eb2e81788955e4bb3af06db292de13e5775f9e31",
+      "LastCommitSHA": "5063b7d8ba36dc7a71b09290388d8d6f00dfcf20",
       "LastCommitAt": "2022-12-29T19:52:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
