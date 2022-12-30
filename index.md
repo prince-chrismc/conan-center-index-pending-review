@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -52,9 +52,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15008](https://github.com/conan-io/conan-center-index/pull/15008)|[toge](https://github.com/toge)|Dec 30|:memo: charls|0|||
 [#15009](https://github.com/conan-io/conan-center-index/pull/15009)|[toge](https://github.com/toge)|Dec 30|:memo: libcbor|0|||
 [#15011](https://github.com/conan-io/conan-center-index/pull/15011)|[sanblch](https://github.com/sanblch)|Dec 30|:stopwatch: boost|0|||
-[#15016](https://github.com/conan-io/conan-center-index/pull/15016)|[toge](https://github.com/toge)|Dec 30|:stopwatch: utfcpp|0|||
+[#15016](https://github.com/conan-io/conan-center-index/pull/15016)|[toge](https://github.com/toge)|Dec 30|:memo: utfcpp|0|||
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
+[#15019](https://github.com/conan-io/conan-center-index/pull/15019)|[toge](https://github.com/toge)|Dec 30|:stopwatch: zstr|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -74,9 +75,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 239
+	- Open: 240
 	- Draft: 23
-	- Average Age: 71 days, 1 hours, and 45.05 minutes
+	- Average Age: 70 days, 19 hours, and 42.15 minutes
 	- Stop Label: 173
 	
 
