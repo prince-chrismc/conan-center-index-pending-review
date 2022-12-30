@@ -527,5 +527,59 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15008,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-30T06:18:50Z",
+      "Recipe": "charls",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15008",
+      "LastCommitSHA": "07bed143fba08df9d093e74257ac957ed753440f",
+      "LastCommitAt": "2022-12-30T06:17:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15009,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-30T06:37:55Z",
+      "Recipe": "libcbor",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15009",
+      "LastCommitSHA": "44a8e9ce8e881463678bdafe7ec8597c8f9ec1bf",
+      "LastCommitAt": "2022-12-30T06:36:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15010,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-30T06:53:29Z",
+      "Recipe": "glu",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15010",
+      "LastCommitSHA": "9fa77ea89debaeaadc725e32c9d8e02b780e21c4",
+      "LastCommitAt": "2022-12-30T06:51:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
