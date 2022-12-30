@@ -18,31 +18,6 @@
       }
    },
    {
-      "Number": 12333,
-      "OpenedBy": "willadsen",
-      "CreatedAt": "2022-08-18T09:50:05Z",
-      "Recipe": "foonathan-memory",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12333",
-      "LastCommitSHA": "131ca31245100270caa5ef808d88944cfaaa609c",
-      "LastCommitAt": "2022-09-01T09:13:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2022-10-15T13:13:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12333#pullrequestreview-1143186518"
-         }
-      }
-   },
-   {
       "Number": 13646,
       "OpenedBy": "partiallyderived",
       "CreatedAt": "2022-10-20T21:14:51Z",
@@ -553,7 +528,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15008",
       "LastCommitSHA": "e707bd984f1ea5d7c0f58c38ce94c18d8a643be2",
       "LastCommitAt": "2022-12-30T17:37:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
