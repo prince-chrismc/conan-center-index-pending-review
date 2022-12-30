@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **21** pull requests currently under way :detective:
+There are **24** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -48,6 +48,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14998](https://github.com/conan-io/conan-center-index/pull/14998)|[SpaceIm](https://github.com/SpaceIm)|Dec 29|:memo: libsodium|1|Dec 29||prince-chrismc
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|0|||
 [#15005](https://github.com/conan-io/conan-center-index/pull/15005)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|0|||
+[#15008](https://github.com/conan-io/conan-center-index/pull/15008)|[toge](https://github.com/toge)|Dec 30|:stopwatch: charls|0|||
+[#15009](https://github.com/conan-io/conan-center-index/pull/15009)|[toge](https://github.com/toge)|Dec 30|:stopwatch: libcbor|0|||
+[#15010](https://github.com/conan-io/conan-center-index/pull/15010)|[SpaceIm](https://github.com/SpaceIm)|Dec 30|:stopwatch: glu|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -67,10 +70,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 231
+	- Open: 233
 	- Draft: 24
-	- Average Age: 72 days, 20 hours, and 54.86 minutes
-	- Stop Label: 171
+	- Average Age: 72 days, 13 hours, and 33.79 minutes
+	- Stop Label: 170
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
