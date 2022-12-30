@@ -55,7 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15016](https://github.com/conan-io/conan-center-index/pull/15016)|[toge](https://github.com/toge)|Dec 30|:memo: utfcpp|0|||
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
-[#15019](https://github.com/conan-io/conan-center-index/pull/15019)|[toge](https://github.com/toge)|Dec 30|:stopwatch: zstr|0|||
+[#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 240
 	- Draft: 23
-	- Average Age: 70 days, 19 hours, and 42.15 minutes
+	- Average Age: 70 days, 19 hours, and 11.29 minutes
 	- Stop Label: 173
 	
 
