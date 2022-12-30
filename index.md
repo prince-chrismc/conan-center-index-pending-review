@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **29** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,23 +39,25 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5 :bell:||jwillikers
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:memo: libsafec|3|Dec 19||jwillikers
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27||uilianries
-[#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:memo: boost|3|Dec 19||jwillikers
+[#14819](https://github.com/conan-io/conan-center-index/pull/14819)|[SpaceIm](https://github.com/SpaceIm)|Dec 19|:stopwatch: boost|3|Dec 19||
 [#14902](https://github.com/conan-io/conan-center-index/pull/14902)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:memo: libcurl|1|Dec 29||prince-chrismc
 [#14903](https://github.com/conan-io/conan-center-index/pull/14903)|[kou](https://github.com/kou)|Dec 23|:memo: arrow|4|Dec 29||prince-chrismc
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|:eyes:||
 [#14998](https://github.com/conan-io/conan-center-index/pull/14998)|[SpaceIm](https://github.com/SpaceIm)|Dec 29|:memo: libsodium|1|Dec 29||prince-chrismc
-[#15000](https://github.com/conan-io/conan-center-index/pull/15000)|[toge](https://github.com/toge)|Dec 29|:new: miniscript|0|||
+[#15000](https://github.com/conan-io/conan-center-index/pull/15000)|[toge](https://github.com/toge)|Dec 29|:stopwatch: miniscript|0|||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|0|||
 [#15005](https://github.com/conan-io/conan-center-index/pull/15005)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|0|||
-[#15008](https://github.com/conan-io/conan-center-index/pull/15008)|[toge](https://github.com/toge)|Dec 30|:memo: charls|0|||
+[#15008](https://github.com/conan-io/conan-center-index/pull/15008)|[toge](https://github.com/toge)|Dec 30|:stopwatch: charls|0|||
 [#15009](https://github.com/conan-io/conan-center-index/pull/15009)|[toge](https://github.com/toge)|Dec 30|:memo: libcbor|0|||
 [#15011](https://github.com/conan-io/conan-center-index/pull/15011)|[sanblch](https://github.com/sanblch)|Dec 30|:stopwatch: boost|0|||
+[#15014](https://github.com/conan-io/conan-center-index/pull/15014)|[toge](https://github.com/toge)|Dec 30|:memo: cpr|0|||
 [#15016](https://github.com/conan-io/conan-center-index/pull/15016)|[toge](https://github.com/toge)|Dec 30|:memo: utfcpp|0|||
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
 [#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|0|||
+[#15021](https://github.com/conan-io/conan-center-index/pull/15021)|[toge](https://github.com/toge)|Dec 30|:stopwatch: seasocks|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -75,10 +77,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 240
+	- Open: 241
 	- Draft: 23
-	- Average Age: 70 days, 19 hours, and 11.29 minutes
-	- Stop Label: 173
+	- Average Age: 70 days, 13 hours, and 12.21 minutes
+	- Stop Label: 172
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
