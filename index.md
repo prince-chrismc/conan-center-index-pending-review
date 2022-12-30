@@ -23,12 +23,11 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
-[#12333](https://github.com/conan-io/conan-center-index/pull/12333)|[willadsen](https://github.com/willadsen)|Aug 18|:memo: foonathan-memory|3|Oct 15 :bell:||SSE4
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:new: lzham|3|Dec 27||prince-chrismc
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12 :bell:||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20||prince-chrismc
@@ -49,7 +48,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15000](https://github.com/conan-io/conan-center-index/pull/15000)|[toge](https://github.com/toge)|Dec 29|:new: miniscript|0|||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|0|||
 [#15005](https://github.com/conan-io/conan-center-index/pull/15005)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|0|||
-[#15008](https://github.com/conan-io/conan-center-index/pull/15008)|[toge](https://github.com/toge)|Dec 30|:stopwatch: charls|0|||
+[#15008](https://github.com/conan-io/conan-center-index/pull/15008)|[toge](https://github.com/toge)|Dec 30|:memo: charls|0|||
 [#15009](https://github.com/conan-io/conan-center-index/pull/15009)|[toge](https://github.com/toge)|Dec 30|:memo: libcbor|0|||
 [#15011](https://github.com/conan-io/conan-center-index/pull/15011)|[sanblch](https://github.com/sanblch)|Dec 30|:stopwatch: boost|0|||
 [#15014](https://github.com/conan-io/conan-center-index/pull/15014)|[toge](https://github.com/toge)|Dec 30|:memo: cpr|1|Dec 30||prince-chrismc
@@ -76,10 +75,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 241
+	- Open: 240
 	- Draft: 23
-	- Average Age: 70 days, 14 hours, and 7.06 minutes
-	- Stop Label: 173
+	- Average Age: 70 days, 20 hours, and 55.47 minutes
+	- Stop Label: 174
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
