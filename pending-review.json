@@ -642,24 +642,6 @@
       }
    },
    {
-      "Number": 15034,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-31T14:27:14Z",
-      "Recipe": "drogon",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15034",
-      "LastCommitSHA": "6225e5895ee9adae4bfdbb019d20d63ad8080863",
-      "LastCommitAt": "2022-12-31T14:24:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15035,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2022-12-31T14:50:36Z",
@@ -668,42 +650,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15035",
       "LastCommitSHA": "56a779051e994a20031dc88c08685ed5df82d218",
       "LastCommitAt": "2022-12-31T14:50:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15037,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-31T15:08:23Z",
-      "Recipe": "libmysqlclient",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15037",
-      "LastCommitSHA": "d8160e69df12a506990fa7296b06bb4cfc3b3c3b",
-      "LastCommitAt": "2022-12-31T15:07:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15038,
-      "OpenedBy": "bobrofon",
-      "CreatedAt": "2022-12-31T15:30:45Z",
-      "Recipe": "libsystemd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15038",
-      "LastCommitSHA": "d900171844f889c06c3b42de2d41bd87afb0d799",
-      "LastCommitAt": "2022-12-31T15:37:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
