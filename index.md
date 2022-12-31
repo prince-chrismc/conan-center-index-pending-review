@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **31** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -54,10 +54,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
 [#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|1|Dec 30||prince-chrismc
-[#15034](https://github.com/conan-io/conan-center-index/pull/15034)|[toge](https://github.com/toge)|Dec 31|:stopwatch: drogon|0|||
 [#15035](https://github.com/conan-io/conan-center-index/pull/15035)|[MartinDelille](https://github.com/MartinDelille)|Dec 31|:stopwatch: ffmpeg|0|||
-[#15037](https://github.com/conan-io/conan-center-index/pull/15037)|[toge](https://github.com/toge)|Dec 31|:stopwatch: libmysqlclient|0|||
-[#15038](https://github.com/conan-io/conan-center-index/pull/15038)|[bobrofon](https://github.com/bobrofon)|Dec 31|:stopwatch: libsystemd|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -77,10 +74,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 253
+	- Open: 255
 	- Draft: 23
-	- Average Age: 67 days, 16 hours, and 2.95 minutes
-	- Stop Label: 187
+	- Average Age: 67 days, 4 hours, and 12.87 minutes
+	- Stop Label: 192
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
