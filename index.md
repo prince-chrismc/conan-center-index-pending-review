@@ -45,7 +45,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|:eyes:||
-[#14998](https://github.com/conan-io/conan-center-index/pull/14998)|[SpaceIm](https://github.com/SpaceIm)|Dec 29|:memo: libsodium|1|Dec 29||prince-chrismc
 [#15000](https://github.com/conan-io/conan-center-index/pull/15000)|[toge](https://github.com/toge)|Dec 29|:new: miniscript|0|||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|0|||
 [#15005](https://github.com/conan-io/conan-center-index/pull/15005)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|0|||
@@ -59,6 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15029](https://github.com/conan-io/conan-center-index/pull/15029)|[toge](https://github.com/toge)|Dec 31|:stopwatch: lief|0|||
 [#15030](https://github.com/conan-io/conan-center-index/pull/15030)|[toge](https://github.com/toge)|Dec 31|:stopwatch: usockets|0|||
 [#15031](https://github.com/conan-io/conan-center-index/pull/15031)|[kambala-decapitator](https://github.com/kambala-decapitator)|Dec 31|:stopwatch: sdl|0|||
+[#15032](https://github.com/conan-io/conan-center-index/pull/15032)|[toge](https://github.com/toge)|Dec 31|:stopwatch: arsenalgear|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -80,7 +80,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 248
 	- Draft: 23
-	- Average Age: 69 days, 4 hours, and 48.21 minutes
+	- Average Age: 69 days, 5 hours, and 32.90 minutes
 	- Stop Label: 181
 	
 
