@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -54,7 +54,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
 [#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|1|Dec 30||prince-chrismc
-[#15028](https://github.com/conan-io/conan-center-index/pull/15028)|[toge](https://github.com/toge)|Dec 31|:stopwatch: libxlsxwriter|0|||
+[#15029](https://github.com/conan-io/conan-center-index/pull/15029)|[toge](https://github.com/toge)|Dec 31|:stopwatch: lief|0|||
+[#15030](https://github.com/conan-io/conan-center-index/pull/15030)|[toge](https://github.com/toge)|Dec 31|:stopwatch: usockets|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -74,10 +75,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 245
+	- Open: 247
 	- Draft: 23
-	- Average Age: 69 days, 23 hours, and 2.28 minutes
-	- Stop Label: 180
+	- Average Age: 69 days, 10 hours, and 38.70 minutes
+	- Stop Label: 181
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
