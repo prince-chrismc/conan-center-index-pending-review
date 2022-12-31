@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **29** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -32,12 +32,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12 :bell:||
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20||prince-chrismc
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:memo: c-dbg-macro|4|Dec 27||prince-chrismc
+[#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:stopwatch: libev|3|Dec 29||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:memo: protobuf|3|Dec 20||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|14|Dec 27||SSE4
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5 :bell:||jwillikers
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:memo: libsafec|3|Dec 19||jwillikers
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27||uilianries
+[#14635](https://github.com/conan-io/conan-center-index/pull/14635)|[wolfee001](https://github.com/wolfee001)|Dec 7|:stopwatch: json_dto|2|Dec 31||
 [#14902](https://github.com/conan-io/conan-center-index/pull/14902)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:memo: libcurl|1|Dec 29||prince-chrismc
 [#14903](https://github.com/conan-io/conan-center-index/pull/14903)|[kou](https://github.com/kou)|Dec 23|:memo: arrow|4|Dec 29||prince-chrismc
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
@@ -56,6 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|1|Dec 30||prince-chrismc
 [#15029](https://github.com/conan-io/conan-center-index/pull/15029)|[toge](https://github.com/toge)|Dec 31|:stopwatch: lief|0|||
 [#15030](https://github.com/conan-io/conan-center-index/pull/15030)|[toge](https://github.com/toge)|Dec 31|:stopwatch: usockets|0|||
+[#15031](https://github.com/conan-io/conan-center-index/pull/15031)|[kambala-decapitator](https://github.com/kambala-decapitator)|Dec 31|:stopwatch: sdl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -75,9 +78,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 247
+	- Open: 248
 	- Draft: 23
-	- Average Age: 69 days, 10 hours, and 38.70 minutes
+	- Average Age: 69 days, 4 hours, and 48.21 minutes
 	- Stop Label: 181
 	
 
