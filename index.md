@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **34** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -57,10 +57,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15041](https://github.com/conan-io/conan-center-index/pull/15041)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: libsodium|0|||
 [#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|0|||
 [#15045](https://github.com/conan-io/conan-center-index/pull/15045)|[Wuqiqi123](https://github.com/Wuqiqi123)|Jan 1|:stopwatch: libjpeg|0|||
-[#15046](https://github.com/conan-io/conan-center-index/pull/15046)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:stopwatch: zimg|0|||
-[#15048](https://github.com/conan-io/conan-center-index/pull/15048)|[toge](https://github.com/toge)|Jan 1|:stopwatch: libdxfrw|0|||
-[#15050](https://github.com/conan-io/conan-center-index/pull/15050)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:stopwatch: libmicrohttpd|0|||
-[#15051](https://github.com/conan-io/conan-center-index/pull/15051)|[toge](https://github.com/toge)|Jan 1|:stopwatch: zziplib|0|||
+[#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -80,10 +77,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 264
+	- Open: 265
 	- Draft: 23
-	- Average Age: 65 days, 5 hours, and 39.94 minutes
-	- Stop Label: 195
+	- Average Age: 65 days, and 40.82 minutes
+	- Stop Label: 199
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
