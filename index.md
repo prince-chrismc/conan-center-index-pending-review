@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **33** pull requests currently under way :detective:
+There are **32** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -54,8 +54,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
 [#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|1|Dec 30||prince-chrismc
-[#15041](https://github.com/conan-io/conan-center-index/pull/15041)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:stopwatch: libsodium|0|||
-[#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:stopwatch: xz_utils|0|||
+[#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|0|||
 [#15045](https://github.com/conan-io/conan-center-index/pull/15045)|[Wuqiqi123](https://github.com/Wuqiqi123)|Jan 1|:stopwatch: libjpeg|0|||
 [#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|0|||
 [#15054](https://github.com/conan-io/conan-center-index/pull/15054)|[toge](https://github.com/toge)|Jan 1|:new: mikelankamp-fpm|0|||
@@ -81,8 +80,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 268
 	- Draft: 23
-	- Average Age: 64 days, 9 hours, and 17.16 minutes
-	- Stop Label: 200
+	- Average Age: 64 days, 10 hours, and 11.82 minutes
+	- Stop Label: 201
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
