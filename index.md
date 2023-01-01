@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **32** pull requests currently under way :detective:
+There are **34** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -54,6 +54,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
 [#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|1|Dec 30||prince-chrismc
+[#15032](https://github.com/conan-io/conan-center-index/pull/15032)|[toge](https://github.com/toge)|Dec 31|:memo: arsenalgear|1|Jan 1||prince-chrismc
+[#15041](https://github.com/conan-io/conan-center-index/pull/15041)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: libsodium|0|||
 [#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|0|||
 [#15045](https://github.com/conan-io/conan-center-index/pull/15045)|[Wuqiqi123](https://github.com/Wuqiqi123)|Jan 1|:stopwatch: libjpeg|0|||
 [#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|0|||
@@ -78,10 +80,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 268
+	- Open: 265
 	- Draft: 23
-	- Average Age: 64 days, 10 hours, and 11.82 minutes
-	- Stop Label: 201
+	- Average Age: 65 days, 5 hours, and 20.89 minutes
+	- Stop Label: 195
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
