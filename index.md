@@ -34,7 +34,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:memo: c-dbg-macro|4|Dec 27||prince-chrismc
 [#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:memo: libev|3|Dec 29||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
-[#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:memo: protobuf|3|Dec 20||
+[#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:memo: protobuf|3|Dec 20 :bell:||
 [#14503](https://github.com/conan-io/conan-center-index/pull/14503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:green_book: docs|14|Dec 27||SSE4
 [#14567](https://github.com/conan-io/conan-center-index/pull/14567)|[samuel-emrys](https://github.com/samuel-emrys)|Dec 4|:memo: binutils|1|Dec 5 :bell:||jwillikers
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:memo: libsafec|3|Dec 19 :bell:||jwillikers
@@ -54,12 +54,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
 [#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|1|Dec 30||prince-chrismc
-[#15041](https://github.com/conan-io/conan-center-index/pull/15041)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: libsodium|0|||
-[#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|0|||
+[#15041](https://github.com/conan-io/conan-center-index/pull/15041)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:stopwatch: libsodium|0|||
+[#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:stopwatch: xz_utils|0|||
 [#15045](https://github.com/conan-io/conan-center-index/pull/15045)|[Wuqiqi123](https://github.com/Wuqiqi123)|Jan 1|:stopwatch: libjpeg|0|||
 [#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|0|||
 [#15054](https://github.com/conan-io/conan-center-index/pull/15054)|[toge](https://github.com/toge)|Jan 1|:new: mikelankamp-fpm|0|||
-[#15055](https://github.com/conan-io/conan-center-index/pull/15055)|[toge](https://github.com/toge)|Jan 1|:stopwatch: osmanip|0|||
+[#15056](https://github.com/conan-io/conan-center-index/pull/15056)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 1|:stopwatch: qt|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -79,10 +79,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 267
+	- Open: 268
 	- Draft: 23
-	- Average Age: 64 days, 14 hours, and 0.24 minutes
-	- Stop Label: 199
+	- Average Age: 64 days, 9 hours, and 17.16 minutes
+	- Stop Label: 200
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
