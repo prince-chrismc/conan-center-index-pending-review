@@ -23,14 +23,14 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:new: lzham|3|Dec 27||prince-chrismc
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12 :bell:||
-[#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20||prince-chrismc
+[#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20 :bell:||prince-chrismc
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:memo: c-dbg-macro|4|Dec 27||prince-chrismc
 [#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:memo: libev|3|Dec 29||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
@@ -54,7 +54,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|0|||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:stopwatch: hazelcast-cpp-client|0|||
 [#15020](https://github.com/conan-io/conan-center-index/pull/15020)|[toge](https://github.com/toge)|Dec 30|:memo: plog|1|Dec 30||prince-chrismc
-[#15035](https://github.com/conan-io/conan-center-index/pull/15035)|[MartinDelille](https://github.com/MartinDelille)|Dec 31|:stopwatch: ffmpeg|0|||
 [#15041](https://github.com/conan-io/conan-center-index/pull/15041)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: libsodium|0|||
 [#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|0|||
 
@@ -78,8 +77,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 258
 	- Draft: 23
-	- Average Age: 66 days, 13 hours, and 27.35 minutes
-	- Stop Label: 193
+	- Average Age: 66 days, 17 hours, and 22.31 minutes
+	- Stop Label: 194
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
