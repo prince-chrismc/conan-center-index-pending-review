@@ -648,7 +648,7 @@
       "Recipe": "libsodium",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15041",
-      "LastCommitSHA": "9afcad24ea911736d949114c9f199a3b26668b23",
+      "LastCommitSHA": "4a2cbbba7fce7da91a656890744f3463c7429846",
       "LastCommitAt": "2022-12-31T17:37:16Z",
       "CciBotPassed": false,
       "Summary": {
@@ -666,9 +666,9 @@
       "Recipe": "xz_utils",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15043",
-      "LastCommitSHA": "2e52d888fc1019d67c7c60d083d41177363304ef",
-      "LastCommitAt": "2022-12-31T19:04:06Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "22d52120bb27d81d551ada9255e012755b023276",
+      "LastCommitAt": "2023-01-01T10:38:55Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -702,7 +702,7 @@
       "Recipe": "zimg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15046",
-      "LastCommitSHA": "93417a94d1c12a39b87fbf6cdbc7e402b4ff5af0",
+      "LastCommitSHA": "a4ba448dc6c474198d669242ea5e1e626349581e",
       "LastCommitAt": "2022-12-31T20:20:24Z",
       "CciBotPassed": false,
       "Summary": {
