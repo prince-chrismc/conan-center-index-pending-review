@@ -696,69 +696,15 @@
       }
    },
    {
-      "Number": 15046,
+      "Number": 15053,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-01T09:48:47Z",
-      "Recipe": "zimg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15046",
-      "LastCommitSHA": "a4ba448dc6c474198d669242ea5e1e626349581e",
-      "LastCommitAt": "2022-12-31T20:20:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15048,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-01T11:54:00Z",
-      "Recipe": "libdxfrw",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15048",
-      "LastCommitSHA": "6d709cdad727b8d6e1fb57e3749b541153f64fdf",
-      "LastCommitAt": "2023-01-01T11:52:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15050,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-01T12:43:47Z",
-      "Recipe": "libmicrohttpd",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15050",
-      "LastCommitSHA": "110eb267a9776031a5189abd06254b07c88abf25",
-      "LastCommitAt": "2023-01-01T12:39:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15051,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-01T13:03:39Z",
-      "Recipe": "zziplib",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15051",
-      "LastCommitSHA": "3a8ee4313dcd13f7e3a2e0c7165918f8ef2535e7",
-      "LastCommitAt": "2023-01-01T13:02:38Z",
-      "CciBotPassed": false,
+      "CreatedAt": "2023-01-01T13:43:59Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15053",
+      "LastCommitSHA": "d6d9d57b7e34db49f8643da798be8557118895db",
+      "LastCommitAt": "2023-01-01T13:31:24Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
