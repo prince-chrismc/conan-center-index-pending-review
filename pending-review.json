@@ -593,23 +593,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 15068,
-      "OpenedBy": "ericriff",
-      "CreatedAt": "2023-01-02T15:16:51Z",
-      "Recipe": "mold",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15068",
-      "LastCommitSHA": "7e3fa78822aadc3313fb61f0888a5add1841cd0a",
-      "LastCommitAt": "2023-01-02T15:26:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
