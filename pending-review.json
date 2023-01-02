@@ -540,16 +540,14 @@
       "Recipe": "xz_utils",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15043",
-      "LastCommitSHA": "e81682567aa4a3c277c6d43cee84e58bb3413795",
-      "LastCommitAt": "2023-01-01T15:49:43Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8ac25e667307e3bdb48cfe06c2b9af093655da56",
+      "LastCommitAt": "2023-01-02T19:33:22Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -603,6 +601,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15071",
       "LastCommitSHA": "24ddd9c70f88643b1f77e1af26f4a86d11ac7516",
       "LastCommitAt": "2023-01-02T18:44:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15072,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-01-02T19:55:13Z",
+      "Recipe": "libsodium",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15072",
+      "LastCommitSHA": "35a28f24fd22b563a7b564ede2f9f7c530d5575e",
+      "LastCommitAt": "2023-01-02T19:16:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
