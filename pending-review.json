@@ -773,23 +773,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 15059,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-02T01:11:00Z",
-      "Recipe": "hidapi",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15059",
-      "LastCommitSHA": "db2c57a9eb5aed834e8b653fe85fdafdacb12fed",
-      "LastCommitAt": "2023-01-02T00:56:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
