@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **27** pull requests currently under way :detective:
+There are **22** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,25 +46,24 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14952](https://github.com/conan-io/conan-center-index/pull/14952)|[RubenRBS](https://github.com/RubenRBS)|Dec 27|:gear: .github|0|:eyes:||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|1|Jan 2||uilianries
 [#15005](https://github.com/conan-io/conan-center-index/pull/15005)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|1|Jan 2||uilianries
-[#15008](https://github.com/conan-io/conan-center-index/pull/15008)|[toge](https://github.com/toge)|Dec 30|:memo: charls|1|Jan 2||uilianries
-[#15009](https://github.com/conan-io/conan-center-index/pull/15009)|[toge](https://github.com/toge)|Dec 30|:memo: libcbor|3|Jan 2||jellespijker, uilianries
 [#15014](https://github.com/conan-io/conan-center-index/pull/15014)|[toge](https://github.com/toge)|Dec 30|:memo: cpr|1|Dec 30||prince-chrismc
-[#15016](https://github.com/conan-io/conan-center-index/pull/15016)|[toge](https://github.com/toge)|Dec 30|:memo: utfcpp|1|Jan 2||uilianries
-[#15041](https://github.com/conan-io/conan-center-index/pull/15041)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: libsodium|1|Jan 2||uilianries
-[#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|0|||
+[#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|1|Jan 2||jwillikers
 [#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|0|||
-[#15054](https://github.com/conan-io/conan-center-index/pull/15054)|[toge](https://github.com/toge)|Jan 1|:new: mikelankamp-fpm|1|Jan 2||uilianries
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#14953](https://github.com/conan-io/conan-center-index/pull/14953)|[danimtb](https://github.com/danimtb)|Dec 27|:gear: .c3i|2|uilianries, jwillikers
+[#15009](https://github.com/conan-io/conan-center-index/pull/15009)|[toge](https://github.com/toge)|Dec 30|:memo: libcbor|4|jellespijker, uilianries, jwillikers
+[#15016](https://github.com/conan-io/conan-center-index/pull/15016)|[toge](https://github.com/toge)|Dec 30|:memo: utfcpp|2|uilianries, jwillikers
+[#15041](https://github.com/conan-io/conan-center-index/pull/15041)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: libsodium|2|uilianries, jwillikers
+[#15054](https://github.com/conan-io/conan-center-index/pull/15054)|[toge](https://github.com/toge)|Jan 1|:new: mikelankamp-fpm|2|uilianries, jwillikers
 
 
 #### :clipboard: Statistics
@@ -75,8 +74,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 257
 	- Draft: 21
-	- Average Age: 65 days, 6 hours, and 45.01 minutes
-	- Stop Label: 195
+	- Average Age: 65 days, 7 hours, and 12.37 minutes
+	- Stop Label: 196
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
