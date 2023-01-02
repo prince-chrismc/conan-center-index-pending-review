@@ -593,5 +593,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15071,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2023-01-02T18:45:21Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15071",
+      "LastCommitSHA": "24ddd9c70f88643b1f77e1af26f4a86d11ac7516",
+      "LastCommitAt": "2023-01-02T18:44:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
