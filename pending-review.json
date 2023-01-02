@@ -605,7 +605,7 @@
       "Recipe": "hazelcast-cpp-client",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15018",
-      "LastCommitSHA": "00177dd855babb292a239bb28e27fb96ded226ee",
+      "LastCommitSHA": "f1d37478c561520ecd35edb258cc4677df34d0f4",
       "LastCommitAt": "2022-12-30T15:07:53Z",
       "CciBotPassed": false,
       "Summary": {
