@@ -403,16 +403,14 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15004",
-      "LastCommitSHA": "73ea163f9d67ab07c85cf7dfc6a9c40a8135c1bb",
-      "LastCommitAt": "2022-12-29T20:04:39Z",
+      "LastCommitSHA": "7b00484e2390f414a91987152e22b6a00bfb429d",
+      "LastCommitAt": "2023-01-03T19:39:20Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 37,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -592,29 +590,27 @@
       }
    },
    {
-      "Number": 15093,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2023-01-03T16:08:12Z",
-      "Recipe": "libjpeg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15093",
-      "LastCommitSHA": "e85a3bfaee0dd617be7e9860489ce7f7543a6ab2",
-      "LastCommitAt": "2023-01-03T16:07:18Z",
-      "CciBotPassed": false,
+      "Number": 15096,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-03T16:28:10Z",
+      "Recipe": "perlinnoise",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15096",
+      "LastCommitSHA": "a59966a1df6e88f0b37d06e9d5a2bcab813f5571",
+      "LastCommitAt": "2023-01-03T17:29:32Z",
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
          "Approvals": [
-            "arekmula",
-            "RubenRBS",
-            "prince-chrismc"
+            "jwillikers"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "arekmula",
-            "SubmittedAt": "2023-01-03T17:18:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15093#pullrequestreview-1234871213"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-01-03T19:41:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15096#pullrequestreview-1235025408"
          }
       }
    }
