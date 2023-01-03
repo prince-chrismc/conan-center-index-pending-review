@@ -618,41 +618,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 15081,
-      "OpenedBy": "basiliscos",
-      "CreatedAt": "2023-01-03T11:18:00Z",
-      "Recipe": "rotor",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15081",
-      "LastCommitSHA": "5eb77027bdf442d53b08de5e6c17bfbbf44ab8f5",
-      "LastCommitAt": "2023-01-03T11:13:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15083,
-      "OpenedBy": "robiwano",
-      "CreatedAt": "2023-01-03T12:22:21Z",
-      "Recipe": "mbedtls",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15083",
-      "LastCommitSHA": "02cbe6fa6e0cd0225454e88949e67752e6f6cc20",
-      "LastCommitAt": "2023-01-03T12:04:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
