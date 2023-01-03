@@ -540,9 +540,9 @@
       "Recipe": "xz_utils",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15043",
-      "LastCommitSHA": "8ac25e667307e3bdb48cfe06c2b9af093655da56",
+      "LastCommitSHA": "c464777a91c0a77b40cfdd6bfc82de0eec6fae0e",
       "LastCommitAt": "2023-01-02T19:33:22Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
