@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **23** pull requests currently under way :detective:
+There are **24** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -43,25 +43,25 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14903](https://github.com/conan-io/conan-center-index/pull/14903)|[kou](https://github.com/kou)|Dec 23|:memo: arrow|4|Dec 29||prince-chrismc
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
-[#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|37|Jan 3||uilianries
+[#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|37|Jan 3||
 [#15005](https://github.com/conan-io/conan-center-index/pull/15005)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|1|Jan 2||uilianries
 [#15042](https://github.com/conan-io/conan-center-index/pull/15042)|[toge](https://github.com/toge)|Dec 31|:memo: docopt.cpp|1|Jan 3||jwillikers
 [#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|2|Jan 3||jwillikers
 [#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|2|Jan 3||jwillikers, SSE4
 [#15072](https://github.com/conan-io/conan-center-index/pull/15072)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: libsodium|1|Jan 3||jwillikers
 [#15079](https://github.com/conan-io/conan-center-index/pull/15079)|[alexsmedin](https://github.com/alexsmedin)|Jan 3|:stopwatch: cmake|0|||
+[#15096](https://github.com/conan-io/conan-center-index/pull/15096)|[toge](https://github.com/toge)|Jan 3|:new: perlinnoise|1|Jan 3||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#15088](https://github.com/conan-io/conan-center-index/pull/15088)|[czoido](https://github.com/czoido)|Jan 3|:warning: openexr|2|RubenRBS, jwillikers
-[#15093](https://github.com/conan-io/conan-center-index/pull/15093)|[uilianries](https://github.com/uilianries)|Jan 3|:warning: libjpeg|5|arekmula, RubenRBS, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 264
 	- Draft: 22
-	- Average Age: 64 days, 8 hours, and 1.98 minutes
+	- Average Age: 64 days, 9 hours, and 6.36 minutes
 	- Stop Label: 203
 	
 
