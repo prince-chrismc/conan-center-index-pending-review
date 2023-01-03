@@ -618,41 +618,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 15076,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-01-03T08:21:54Z",
-      "Recipe": "xkbcommon",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15076",
-      "LastCommitSHA": "c1bca0371765108a600911ddd9e57cba6b43ef22",
-      "LastCommitAt": "2023-01-03T08:32:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15077,
-      "OpenedBy": "DavidAce",
-      "CreatedAt": "2023-01-03T09:07:45Z",
-      "Recipe": "h5pp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15077",
-      "LastCommitSHA": "9e9b69cee40a781427427a8e2c924f43c886198e",
-      "LastCommitAt": "2023-01-03T08:51:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
