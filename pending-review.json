@@ -116,29 +116,6 @@
       }
    },
    {
-      "Number": 14138,
-      "OpenedBy": "Jihadist",
-      "CreatedAt": "2022-11-10T14:38:33Z",
-      "Recipe": "libev",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14138",
-      "LastCommitSHA": "4648e67c702820050a281c214fddee074d3ddb74",
-      "LastCommitAt": "2022-12-31T12:24:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2022-12-29T18:10:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14138#pullrequestreview-1232683941"
-         }
-      }
-   },
-   {
       "Number": 14426,
       "OpenedBy": "jngrb",
       "CreatedAt": "2022-11-25T14:15:26Z",
@@ -600,18 +577,37 @@
       "LastCommitAt": "2023-01-03T17:29:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-03T19:41:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15096#pullrequestreview-1235025408"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-01-03T22:03:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15096#pullrequestreview-1235157752"
          }
+      }
+   },
+   {
+      "Number": 15098,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-01-03T22:05:16Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15098",
+      "LastCommitSHA": "fcf9b93174586091e2edbe0fc77fe9f9d21be2ba",
+      "LastCommitAt": "2023-01-03T22:04:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
