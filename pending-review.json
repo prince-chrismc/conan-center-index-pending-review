@@ -617,9 +617,9 @@
       "Recipe": "libsodium",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15072",
-      "LastCommitSHA": "35a28f24fd22b563a7b564ede2f9f7c530d5575e",
+      "LastCommitSHA": "4a7471d82bf622be294658042e54fd3fd14b5902",
       "LastCommitAt": "2023-01-02T19:16:04Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
