@@ -629,41 +629,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 15074,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-03T05:39:26Z",
-      "Recipe": "simdutf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15074",
-      "LastCommitSHA": "95123ed3d12c6ff560453f24a2810d8b1a3a3ee7",
-      "LastCommitAt": "2023-01-03T05:38:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15075,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-03T05:43:23Z",
-      "Recipe": "libcbor",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15075",
-      "LastCommitSHA": "29a408ed65300fab866dc3a4af84cd4bf212c394",
-      "LastCommitAt": "2023-01-03T05:42:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
