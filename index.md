@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **26** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -53,8 +53,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15067](https://github.com/conan-io/conan-center-index/pull/15067)|[toge](https://github.com/toge)|Jan 2|:memo: csvmonkey|0|||
 [#15071](https://github.com/conan-io/conan-center-index/pull/15071)|[danimtb](https://github.com/danimtb)|Jan 2|:stopwatch: .c3i|0|||
 [#15072](https://github.com/conan-io/conan-center-index/pull/15072)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: libsodium|0|||
-[#15074](https://github.com/conan-io/conan-center-index/pull/15074)|[toge](https://github.com/toge)|Jan 3|:stopwatch: simdutf|0|||
-[#15075](https://github.com/conan-io/conan-center-index/pull/15075)|[toge](https://github.com/toge)|Jan 3|:stopwatch: libcbor|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -74,9 +72,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 258
+	- Open: 256
 	- Draft: 21
-	- Average Age: 65 days, 9 hours, and 27.39 minutes
+	- Average Age: 65 days, 22 hours, and 39.29 minutes
 	- Stop Label: 195
 	
 
