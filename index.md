@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -52,9 +52,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15080](https://github.com/conan-io/conan-center-index/pull/15080)|[toge](https://github.com/toge)|Jan 3|:memo: watcher|0|||
 [#15102](https://github.com/conan-io/conan-center-index/pull/15102)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 4|:stopwatch: qt|1|Jan 4||jwillikers
 [#15105](https://github.com/conan-io/conan-center-index/pull/15105)|[jcar87](https://github.com/jcar87)|Jan 4|:stopwatch: boost|2|Jan 4||
-[#15108](https://github.com/conan-io/conan-center-index/pull/15108)|[fpelliccioni](https://github.com/fpelliccioni)|Jan 4|:stopwatch: cppfront|0|||
 [#15111](https://github.com/conan-io/conan-center-index/pull/15111)|[toge](https://github.com/toge)|Jan 4|:stopwatch: redis-plus-plus|0|:eyes:||
-[#15112](https://github.com/conan-io/conan-center-index/pull/15112)|[toge](https://github.com/toge)|Jan 4|:stopwatch: foonathan-lexy|0|||
+[#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:stopwatch: strong_type|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -76,10 +75,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 274
+	- Open: 275
 	- Draft: 21
-	- Average Age: 62 days, 15 hours, and 28.43 minutes
-	- Stop Label: 207
+	- Average Age: 62 days, 11 hours, and 2.52 minutes
+	- Stop Label: 209
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
