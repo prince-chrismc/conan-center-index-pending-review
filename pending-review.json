@@ -567,20 +567,14 @@
       "Recipe": "libjpeg",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15093",
-      "LastCommitSHA": "e85a3bfaee0dd617be7e9860489ce7f7543a6ab2",
-      "LastCommitAt": "2023-01-03T16:07:18Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d9ffc7e51a679d0b9ff24fe7b53f20f2dc3fa646",
+      "LastCommitAt": "2023-01-04T20:38:24Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "arekmula",
-            "RubenRBS",
-            "prince-chrismc",
-            "SpaceIm",
-            "MartinDelille"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "MartinDelille",
@@ -718,6 +712,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15113",
       "LastCommitSHA": "d9ddcc94f4d35fbfca857741e0b201442db2814b",
       "LastCommitAt": "2023-01-04T18:11:30Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15115,
+      "OpenedBy": "technic",
+      "CreatedAt": "2023-01-04T20:23:45Z",
+      "Recipe": "linter",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15115",
+      "LastCommitSHA": "62c83bc51755593794eca614afc805ad0bdf4970",
+      "LastCommitAt": "2023-01-04T20:18:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
