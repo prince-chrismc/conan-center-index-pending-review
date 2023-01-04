@@ -673,8 +673,8 @@
       "Recipe": "boost",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15105",
-      "LastCommitSHA": "651c5bda33e5d232fac75d059304fb8a8efd54fe",
-      "LastCommitAt": "2023-01-04T16:50:40Z",
+      "LastCommitSHA": "3f6633848f95222ea21e4ddcdd8585f9c5ff8f5e",
+      "LastCommitAt": "2023-01-04T17:26:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -687,24 +687,6 @@
             "SubmittedAt": "2023-01-04T16:23:10Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15105#pullrequestreview-1236147145"
          }
-      }
-   },
-   {
-      "Number": 15108,
-      "OpenedBy": "fpelliccioni",
-      "CreatedAt": "2023-01-04T14:55:03Z",
-      "Recipe": "cppfront",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15108",
-      "LastCommitSHA": "2450608199e888e9071892a1ccdb1bf2db254151",
-      "LastCommitAt": "2023-01-04T14:54:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -726,14 +708,14 @@
       }
    },
    {
-      "Number": 15112,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-04T16:31:48Z",
-      "Recipe": "foonathan-lexy",
+      "Number": 15113,
+      "OpenedBy": "a4z",
+      "CreatedAt": "2023-01-04T18:12:23Z",
+      "Recipe": "strong_type",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15112",
-      "LastCommitSHA": "a9968937b2c3123d3b95a1edc662d55e5cbbd529",
-      "LastCommitAt": "2023-01-04T16:31:10Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15113",
+      "LastCommitSHA": "d9ddcc94f4d35fbfca857741e0b201442db2814b",
+      "LastCommitAt": "2023-01-04T18:11:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
