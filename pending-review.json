@@ -296,7 +296,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14902",
       "LastCommitSHA": "303be60fec7863e15f2a1bd6590f36fa7fc311e1",
       "LastCommitAt": "2022-12-22T14:53:59Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -682,6 +682,24 @@
             "SubmittedAt": "2023-01-04T12:35:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15105#pullrequestreview-1235812368"
          }
+      }
+   },
+   {
+      "Number": 15108,
+      "OpenedBy": "fpelliccioni",
+      "CreatedAt": "2023-01-04T14:55:03Z",
+      "Recipe": "cppfront",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15108",
+      "LastCommitSHA": "2450608199e888e9071892a1ccdb1bf2db254151",
+      "LastCommitAt": "2023-01-04T14:54:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
