@@ -23,13 +23,13 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **29** pull requests currently under way :detective:
+There are **30** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#10939](https://github.com/conan-io/conan-center-index/pull/10939)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|May 24|:memo: openssl|0|:eyes:||
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:new: lzham|3|Dec 27||prince-chrismc
-[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|41|Dec 12 :bell:||
+[#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|42|Jan 4||prince-chrismc
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|7|Dec 20 :bell:||prince-chrismc
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:memo: c-dbg-macro|4|Dec 27||prince-chrismc
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
@@ -56,6 +56,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15111](https://github.com/conan-io/conan-center-index/pull/15111)|[toge](https://github.com/toge)|Jan 4|:stopwatch: redis-plus-plus|0|:eyes:||
 [#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|0|||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|||
+[#15116](https://github.com/conan-io/conan-center-index/pull/15116)|[jwillikers](https://github.com/jwillikers)|Jan 4|:stopwatch: qt|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -76,9 +77,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 275
+	- Open: 276
 	- Draft: 20
-	- Average Age: 62 days, 13 hours, and 15.66 minutes
+	- Average Age: 62 days, 8 hours, and 49.57 minutes
 	- Stop Label: 209
 	
 
