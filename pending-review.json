@@ -658,5 +658,48 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15105,
+      "OpenedBy": "jcar87",
+      "CreatedAt": "2023-01-04T12:31:46Z",
+      "Recipe": "boost",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15105",
+      "LastCommitSHA": "86b290595e16df52b610bee029c364c0e473075f",
+      "LastCommitAt": "2023-01-04T12:27:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "czoido"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-01-04T12:35:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15105#pullrequestreview-1235812368"
+         }
+      }
+   },
+   {
+      "Number": 15106,
+      "OpenedBy": "feltech",
+      "CreatedAt": "2023-01-04T12:49:56Z",
+      "Recipe": "openassetio",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15106",
+      "LastCommitSHA": "079d00625503d71ff9aebdfaa7ad2d2509928eab",
+      "LastCommitAt": "2023-01-04T12:38:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
