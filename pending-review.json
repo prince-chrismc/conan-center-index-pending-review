@@ -630,8 +630,8 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15102",
-      "LastCommitSHA": "d58b05f4b073fd732db5eeff1339f3d0966afa43",
-      "LastCommitAt": "2023-01-04T09:05:37Z",
+      "LastCommitSHA": "29b71a8b25782dac34b0a590de4721cd6f9e8929",
+      "LastCommitAt": "2023-01-04T09:23:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
