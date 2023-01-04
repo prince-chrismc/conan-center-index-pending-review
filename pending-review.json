@@ -384,15 +384,17 @@
       "LastCommitAt": "2023-01-03T19:39:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 37,
-         "ValidApprovals": 0,
+         "Count": 38,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SSE4"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-01-03T17:48:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15004#pullrequestreview-1234907514"
+            "SubmittedAt": "2023-01-04T04:22:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15004#pullrequestreview-1235336111"
          }
       }
    },
@@ -618,24 +620,6 @@
             "SubmittedAt": "2023-01-03T20:20:35Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15097#pullrequestreview-1235063924"
          }
-      }
-   },
-   {
-      "Number": 15100,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2023-01-04T00:56:46Z",
-      "Recipe": "xxhash",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15100",
-      "LastCommitSHA": "645c187325c392d79229d079505eca8ed7de2dca",
-      "LastCommitAt": "2023-01-04T00:42:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
