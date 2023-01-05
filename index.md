@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **31** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -45,16 +45,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15005](https://github.com/conan-io/conan-center-index/pull/15005)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|1|Jan 2||uilianries
 [#15042](https://github.com/conan-io/conan-center-index/pull/15042)|[toge](https://github.com/toge)|Dec 31|:memo: docopt.cpp|1|Jan 3||jwillikers
 [#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|2|Jan 3||jwillikers
+[#15047](https://github.com/conan-io/conan-center-index/pull/15047)|[toge](https://github.com/toge)|Jan 1|:new: openxlsx|0|||
 [#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|2|Jan 3||jwillikers, SSE4
 [#15072](https://github.com/conan-io/conan-center-index/pull/15072)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: libsodium|1|Jan 3||jwillikers
-[#15079](https://github.com/conan-io/conan-center-index/pull/15079)|[alexsmedin](https://github.com/alexsmedin)|Jan 3|:stopwatch: cmake|0|||
-[#15080](https://github.com/conan-io/conan-center-index/pull/15080)|[toge](https://github.com/toge)|Jan 3|:memo: watcher|0|||
-[#15093](https://github.com/conan-io/conan-center-index/pull/15093)|[uilianries](https://github.com/uilianries)|Jan 3|:stopwatch: libjpeg|7|Jan 3||
+[#15079](https://github.com/conan-io/conan-center-index/pull/15079)|[alexsmedin](https://github.com/alexsmedin)|Jan 3|:stopwatch: cmake|1|Jan 5||jwillikers
+[#15080](https://github.com/conan-io/conan-center-index/pull/15080)|[toge](https://github.com/toge)|Jan 3|:memo: watcher|1|Jan 5||jwillikers
+[#15093](https://github.com/conan-io/conan-center-index/pull/15093)|[uilianries](https://github.com/uilianries)|Jan 3|:stopwatch: libjpeg|8|Jan 5||jwillikers
 [#15102](https://github.com/conan-io/conan-center-index/pull/15102)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 4|:stopwatch: qt|1|Jan 4||jwillikers
 [#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|0|||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|||
 [#15116](https://github.com/conan-io/conan-center-index/pull/15116)|[jwillikers](https://github.com/jwillikers)|Jan 4|:stopwatch: qt|0|||
-[#15117](https://github.com/conan-io/conan-center-index/pull/15117)|[toge](https://github.com/toge)|Jan 5|:stopwatch: luau|0|||
+[#15117](https://github.com/conan-io/conan-center-index/pull/15117)|[toge](https://github.com/toge)|Jan 5|:stopwatch: luau|1|Jan 5||jwillikers
 [#15118](https://github.com/conan-io/conan-center-index/pull/15118)|[nextsilicon-itay-bookstein](https://github.com/nextsilicon-itay-bookstein)|Jan 5|:stopwatch: continuable|0|||
 [#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|1|Jan 5||SSE4
 
@@ -69,7 +70,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#15096](https://github.com/conan-io/conan-center-index/pull/15096)|[toge](https://github.com/toge)|Jan 3|:new: perlinnoise|2|jwillikers, prince-chrismc
 [#15097](https://github.com/conan-io/conan-center-index/pull/15097)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 3|:memo: http_parser|3|jwillikers, uilianries
-[#15105](https://github.com/conan-io/conan-center-index/pull/15105)|[jcar87](https://github.com/jcar87)|Jan 4|:warning: boost|7|czoido, SSE4
+[#15105](https://github.com/conan-io/conan-center-index/pull/15105)|[jcar87](https://github.com/jcar87)|Jan 4|:warning: boost|8|czoido, SSE4, jwillikers
 
 
 #### :clipboard: Statistics
@@ -80,8 +81,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 280
 	- Draft: 22
-	- Average Age: 62 days, 1 hours, and 44.88 minutes
-	- Stop Label: 210
+	- Average Age: 62 days, 2 hours, and 41.81 minutes
+	- Stop Label: 209
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
