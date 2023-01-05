@@ -46,10 +46,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15043](https://github.com/conan-io/conan-center-index/pull/15043)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: xz_utils|2|Jan 3||jwillikers
 [#15047](https://github.com/conan-io/conan-center-index/pull/15047)|[toge](https://github.com/toge)|Jan 1|:new: openxlsx|0|||
 [#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|2|Jan 3||jwillikers, SSE4
-[#15072](https://github.com/conan-io/conan-center-index/pull/15072)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: libsodium|1|Jan 3||jwillikers
+[#15072](https://github.com/conan-io/conan-center-index/pull/15072)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: libsodium|2|Jan 5||jwillikers, MartinDelille
 [#15079](https://github.com/conan-io/conan-center-index/pull/15079)|[alexsmedin](https://github.com/alexsmedin)|Jan 3|:stopwatch: cmake|1|Jan 5||jwillikers
 [#15080](https://github.com/conan-io/conan-center-index/pull/15080)|[toge](https://github.com/toge)|Jan 3|:memo: watcher|1|Jan 5||jwillikers
-[#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|1|Jan 5||jwillikers
+[#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|2|Jan 5||jwillikers, SpaceIm
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|||
 [#15116](https://github.com/conan-io/conan-center-index/pull/15116)|[jwillikers](https://github.com/jwillikers)|Jan 4|:stopwatch: qt|0|||
 [#15117](https://github.com/conan-io/conan-center-index/pull/15117)|[toge](https://github.com/toge)|Jan 5|:stopwatch: luau|1|Jan 5||jwillikers
@@ -79,7 +79,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 274
 	- Draft: 22
-	- Average Age: 62 days, 23 hours, and 10.41 minutes
+	- Average Age: 63 days, 1 hours, and 13.05 minutes
 	- Stop Label: 205
 	
 
