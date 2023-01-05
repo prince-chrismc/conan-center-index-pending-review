@@ -55,21 +55,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15117](https://github.com/conan-io/conan-center-index/pull/15117)|[toge](https://github.com/toge)|Jan 5|:stopwatch: luau|1|Jan 5||jwillikers
 [#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|1|Jan 5||SSE4
 [#15121](https://github.com/conan-io/conan-center-index/pull/15121)|[jcar87](https://github.com/jcar87)|Jan 5|:stopwatch: libiconv|2|Jan 5||czoido
-[#15123](https://github.com/conan-io/conan-center-index/pull/15123)|[SpaceIm](https://github.com/SpaceIm)|Jan 5|:stopwatch: faac|1|Jan 5||jwillikers
+[#15123](https://github.com/conan-io/conan-center-index/pull/15123)|[SpaceIm](https://github.com/SpaceIm)|Jan 5|:stopwatch: faac|3|Jan 5||jwillikers
 [#15125](https://github.com/conan-io/conan-center-index/pull/15125)|[toge](https://github.com/toge)|Jan 5|:stopwatch: ls-qpack|0|||
 [#15126](https://github.com/conan-io/conan-center-index/pull/15126)|[toge](https://github.com/toge)|Jan 5|:stopwatch: erikzenker-hsm|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
-[#15096](https://github.com/conan-io/conan-center-index/pull/15096)|[toge](https://github.com/toge)|Jan 3|:new: perlinnoise|2|jwillikers, prince-chrismc
-[#15097](https://github.com/conan-io/conan-center-index/pull/15097)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 3|:memo: http_parser|3|jwillikers, uilianries
 [#15105](https://github.com/conan-io/conan-center-index/pull/15105)|[jcar87](https://github.com/jcar87)|Jan 4|:warning: boost|8|czoido, SSE4, jwillikers
 [#15122](https://github.com/conan-io/conan-center-index/pull/15122)|[jcar87](https://github.com/jcar87)|Jan 5|:warning: m4|2|czoido, jwillikers
 
@@ -80,9 +78,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 279
+	- Open: 277
 	- Draft: 22
-	- Average Age: 62 days, 3 hours, and 33.42 minutes
+	- Average Age: 62 days, 14 hours, and 52.81 minutes
 	- Stop Label: 207
 	
 
