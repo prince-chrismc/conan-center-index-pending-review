@@ -655,17 +655,19 @@
       "LastCommitAt": "2023-01-04T17:26:48Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 5,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "czoido",
+            "RubenRBS"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-04T18:37:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15105#pullrequestreview-1236322864"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-01-05T10:06:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15105#pullrequestreview-1237130721"
          }
       }
    },
@@ -732,6 +734,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15117",
       "LastCommitSHA": "d939b1afb0d7a00c5c61a06e7ce4417e515800d0",
       "LastCommitAt": "2023-01-05T01:53:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15118,
+      "OpenedBy": "nextsilicon-itay-bookstein",
+      "CreatedAt": "2023-01-05T09:38:54Z",
+      "Recipe": "continuable",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15118",
+      "LastCommitSHA": "01ba57b99968eb924555377a3df09a757c48f42a",
+      "LastCommitAt": "2023-01-04T22:05:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
