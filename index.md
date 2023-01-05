@@ -68,7 +68,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:warning: arrow|2|uilianries, toge
 [#15096](https://github.com/conan-io/conan-center-index/pull/15096)|[toge](https://github.com/toge)|Jan 3|:new: perlinnoise|2|jwillikers, prince-chrismc
 [#15097](https://github.com/conan-io/conan-center-index/pull/15097)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 3|:memo: http_parser|3|jwillikers, uilianries
-[#15105](https://github.com/conan-io/conan-center-index/pull/15105)|[jcar87](https://github.com/jcar87)|Jan 4|:warning: boost|5|jwillikers, czoido, RubenRBS
+[#15105](https://github.com/conan-io/conan-center-index/pull/15105)|[jcar87](https://github.com/jcar87)|Jan 4|:warning: boost|7|czoido, SSE4
 
 
 #### :clipboard: Statistics
@@ -79,7 +79,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 279
 	- Draft: 22
-	- Average Age: 62 days, 4 hours, and 54.18 minutes
+	- Average Age: 62 days, 5 hours, and 51.15 minutes
 	- Stop Label: 210
 	
 
