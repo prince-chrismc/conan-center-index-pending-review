@@ -1,23 +1,5 @@
 [
    {
-      "Number": 10939,
-      "OpenedBy": "Sil3ntStorm",
-      "CreatedAt": "2022-05-24T17:12:40Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10939",
-      "LastCommitSHA": "5a9104dde77968b099f3ea0def9023b3815e04c1",
-      "LastCommitAt": "2022-11-22T09:33:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 13646,
       "OpenedBy": "partiallyderived",
       "CreatedAt": "2022-10-20T21:14:51Z",
@@ -732,6 +714,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15116",
       "LastCommitSHA": "d4dcb8c9256b6e9cb546397d930cd0aeaccc0c7d",
       "LastCommitAt": "2023-01-04T19:44:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15117,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-05T01:50:43Z",
+      "Recipe": "luau",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15117",
+      "LastCommitSHA": "d939b1afb0d7a00c5c61a06e7ce4417e515800d0",
+      "LastCommitAt": "2023-01-05T01:53:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
