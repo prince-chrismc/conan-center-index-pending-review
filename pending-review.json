@@ -599,24 +599,6 @@
       }
    },
    {
-      "Number": 15126,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-05T17:49:23Z",
-      "Recipe": "erikzenker-hsm",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15126",
-      "LastCommitSHA": "8e616359cf98dbca1efab61b07634c5d6f11f87e",
-      "LastCommitAt": "2023-01-05T18:53:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15129,
       "OpenedBy": "toge",
       "CreatedAt": "2023-01-06T07:30:41Z",
@@ -627,11 +609,18 @@
       "LastCommitAt": "2023-01-06T07:16:51Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "MartinDelille"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2023-01-06T08:22:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15129#pullrequestreview-1238512908"
+         }
       }
    }
 ]
