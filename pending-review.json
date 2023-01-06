@@ -338,16 +338,14 @@
       "Recipe": "xz_utils",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15043",
-      "LastCommitSHA": "c464777a91c0a77b40cfdd6bfc82de0eec6fae0e",
-      "LastCommitAt": "2023-01-02T19:33:22Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "f40ef1fe003fd4c11200d30761af7a3eea4ca3f9",
+      "LastCommitAt": "2023-01-06T20:18:32Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -628,8 +626,8 @@
       "Recipe": "charls",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15140",
-      "LastCommitSHA": "a748c106620cc72e45261ea732a67e92a577106c",
-      "LastCommitAt": "2023-01-06T13:49:09Z",
+      "LastCommitSHA": "4ca937dcb176ba22c6d262ef8d5b7d57cabaaedb",
+      "LastCommitAt": "2023-01-06T20:21:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -646,8 +644,8 @@
       "Recipe": "roaring",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15141",
-      "LastCommitSHA": "302e4f14fa599dc3fc23d142bcbdbdf0b1b5db21",
-      "LastCommitAt": "2023-01-06T13:54:55Z",
+      "LastCommitSHA": "b8c85ebffc2c77f96c60f3ca46e25e537649908c",
+      "LastCommitAt": "2023-01-06T20:30:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
