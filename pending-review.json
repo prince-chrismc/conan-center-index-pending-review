@@ -615,5 +615,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15128,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-01-06T07:04:22Z",
+      "Recipe": "gcc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15128",
+      "LastCommitSHA": "d8a6e9177c6be891b901e4af678458c0fec5885a",
+      "LastCommitAt": "2023-01-06T05:32:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
