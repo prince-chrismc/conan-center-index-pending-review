@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,8 +55,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15138](https://github.com/conan-io/conan-center-index/pull/15138)|[toge](https://github.com/toge)|Jan 6|:stopwatch: czmq|2|Jan 6||jwillikers
 [#15140](https://github.com/conan-io/conan-center-index/pull/15140)|[toge](https://github.com/toge)|Jan 6|:stopwatch: charls|0|||
 [#15141](https://github.com/conan-io/conan-center-index/pull/15141)|[toge](https://github.com/toge)|Jan 6|:stopwatch: roaring|0|||
-[#15142](https://github.com/conan-io/conan-center-index/pull/15142)|[toge](https://github.com/toge)|Jan 6|:stopwatch: unordered_dense|0|||
-[#15143](https://github.com/conan-io/conan-center-index/pull/15143)|[robomics](https://github.com/robomics)|Jan 6|:stopwatch: cli11|0|||
 
 
 #### :clipboard: Statistics
@@ -66,9 +64,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Commit: 35290258dd30eabde9b7321c4e6368ee3d5c5952
 - Pull Requests:
 	- Open: 275
-	- Draft: 21
-	- Average Age: 63 days, 6 hours, and 37.04 minutes
-	- Stop Label: 210
+	- Draft: 22
+	- Average Age: 63 days, 7 hours, and 24.79 minutes
+	- Stop Label: 208
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
