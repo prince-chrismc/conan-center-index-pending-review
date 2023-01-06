@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **24** pull requests currently under way :detective:
+There are **25** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,6 +39,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27||uilianries
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
+[#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|0|:eyes:||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|38|Jan 4||SSE4
 [#15005](https://github.com/conan-io/conan-center-index/pull/15005)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:gear: .github|1|Jan 2||uilianries
 [#15042](https://github.com/conan-io/conan-center-index/pull/15042)|[toge](https://github.com/toge)|Dec 31|:memo: docopt.cpp|1|Jan 3||jwillikers
@@ -61,8 +62,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 - Pull Requests:
 	- Open: 269
 	- Draft: 22
-	- Average Age: 64 days, 9 hours, and 42.05 minutes
-	- Stop Label: 209
+	- Average Age: 64 days, 10 hours, and 36.59 minutes
+	- Stop Label: 208
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
