@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **24** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|2|Jan 5||jwillikers, SpaceIm
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|||
 [#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|1|Jan 5||SSE4
+[#15121](https://github.com/conan-io/conan-center-index/pull/15121)|[jcar87](https://github.com/jcar87)|Jan 5|:memo: libiconv|2|Jan 5||czoido
 [#15135](https://github.com/conan-io/conan-center-index/pull/15135)|[jwillikers](https://github.com/jwillikers)|Jan 6|:stopwatch: libcap|0|||
+[#15137](https://github.com/conan-io/conan-center-index/pull/15137)|[jwillikers](https://github.com/jwillikers)|Jan 6|:stopwatch: qt|0|||
+[#15138](https://github.com/conan-io/conan-center-index/pull/15138)|[toge](https://github.com/toge)|Jan 6|:stopwatch: czmq|0|||
 
 
 #### :clipboard: Statistics
@@ -59,9 +62,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 - Commit: c7ebf99da89450a0ecb0889dbf19b0edb80a3ffb
 - Pull Requests:
-	- Open: 270
+	- Open: 273
 	- Draft: 22
-	- Average Age: 64 days, 8 hours, and 4.57 minutes
+	- Average Age: 63 days, 16 hours, and 9.75 minutes
 	- Stop Label: 210
 	
 
