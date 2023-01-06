@@ -3,7 +3,7 @@ module github.com/prince-chrismc/conan-center-index-pending-review/v3
 go 1.17
 
 require (
-	github.com/go-git/go-git/v5 v5.5.1
+	github.com/go-git/go-git/v5 v5.5.2
 	github.com/google/go-github/v45 v45.2.0
 	github.com/stretchr/testify v1.8.1
 	github.com/urfave/cli/v2 v2.23.7
