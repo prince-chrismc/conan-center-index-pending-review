@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **26** pull requests currently under way :detective:
+There are **25** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -51,8 +51,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|2|Jan 5||jwillikers, SpaceIm
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|||
 [#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|1|Jan 5||SSE4
-[#15126](https://github.com/conan-io/conan-center-index/pull/15126)|[toge](https://github.com/toge)|Jan 5|:stopwatch: erikzenker-hsm|0|||
-[#15129](https://github.com/conan-io/conan-center-index/pull/15129)|[toge](https://github.com/toge)|Jan 6|:stopwatch: imgui|0|||
+[#15129](https://github.com/conan-io/conan-center-index/pull/15129)|[toge](https://github.com/toge)|Jan 6|:stopwatch: imgui|1|Jan 6||MartinDelille
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -73,8 +72,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 272
 	- Draft: 22
-	- Average Age: 63 days, 15 hours, and 7.35 minutes
-	- Stop Label: 208
+	- Average Age: 63 days, 16 hours, and 3.31 minutes
+	- Stop Label: 209
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
