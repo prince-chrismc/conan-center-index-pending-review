@@ -363,16 +363,14 @@
       "Recipe": "openxlsx",
       "Change": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15047",
-      "LastCommitSHA": "7cad38d520797e71a52868a4bbd5011671848744",
-      "LastCommitAt": "2023-01-05T01:10:05Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "694cedefc606b9e7c50b1ec0f782f009634d4bb5",
+      "LastCommitAt": "2023-01-06T18:52:40Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -579,24 +577,6 @@
       }
    },
    {
-      "Number": 15135,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2023-01-06T16:33:50Z",
-      "Recipe": "libcap",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15135",
-      "LastCommitSHA": "68133793154cf4590d0163e1de87a57b357524b4",
-      "LastCommitAt": "2023-01-06T16:35:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15137,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2023-01-06T17:27:46Z",
@@ -621,15 +601,22 @@
       "Recipe": "czmq",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15138",
-      "LastCommitSHA": "bedf2099e2f9a7959cdf7867923edf23f1094cd1",
-      "LastCommitAt": "2023-01-06T18:08:13Z",
+      "LastCommitSHA": "3de0bb9c5f17438aeabf3b3dfabdb9b565670d0a",
+      "LastCommitAt": "2023-01-06T18:38:16Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-01-06T18:40:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15138#pullrequestreview-1239231977"
+         }
       }
    }
 ]
