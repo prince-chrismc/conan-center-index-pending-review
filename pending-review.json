@@ -531,5 +531,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15121#pullrequestreview-1239601856"
          }
       }
+   },
+   {
+      "Number": 15148,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-01-07T07:00:47Z",
+      "Recipe": "geotrans",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15148",
+      "LastCommitSHA": "e4a2dcfaf71bc34e2cc8dae5b4c2e5242e544406",
+      "LastCommitAt": "2023-01-07T06:58:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
