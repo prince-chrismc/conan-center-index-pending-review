@@ -530,7 +530,7 @@
       "Recipe": "opusfile",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15150",
-      "LastCommitSHA": "bfc83d4798ec99d5f8e41a7e3ac71a14a93b6486",
+      "LastCommitSHA": "ca1b78e261a6671ac552a8cd865d04cc19192cc7",
       "LastCommitAt": "2023-01-07T17:52:51Z",
       "CciBotPassed": false,
       "Summary": {
