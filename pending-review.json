@@ -36,17 +36,18 @@
       "LastCommitAt": "2022-12-12T19:21:52Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 43,
+         "Count": 44,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "jellespijker"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-01-04T22:54:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13739#pullrequestreview-1236584150"
+            "ReviewerName": "jellespijker",
+            "SubmittedAt": "2023-01-07T14:03:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13739#pullrequestreview-1239673756"
          }
       }
    },
