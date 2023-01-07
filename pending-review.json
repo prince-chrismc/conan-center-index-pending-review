@@ -318,17 +318,14 @@
       "Recipe": "docs",
       "Change": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15053",
-      "LastCommitSHA": "d6d9d57b7e34db49f8643da798be8557118895db",
-      "LastCommitAt": "2023-01-01T13:31:24Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "1f977b643b75982be414f3e79105f8c1b6915120",
+      "LastCommitAt": "2023-01-07T18:23:37Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers",
-            "SSE4"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -517,6 +514,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15148",
       "LastCommitSHA": "e4a2dcfaf71bc34e2cc8dae5b4c2e5242e544406",
       "LastCommitAt": "2023-01-07T06:58:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15150,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-01-07T18:56:47Z",
+      "Recipe": "opusfile",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15150",
+      "LastCommitSHA": "bfc83d4798ec99d5f8e41a7e3ac71a14a93b6486",
+      "LastCommitAt": "2023-01-07T17:52:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
