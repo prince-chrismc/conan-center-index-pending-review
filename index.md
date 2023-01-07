@@ -37,12 +37,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|38|Jan 4||SSE4
 [#15042](https://github.com/conan-io/conan-center-index/pull/15042)|[toge](https://github.com/toge)|Dec 31|:memo: docopt.cpp|1|Jan 3||jwillikers
-[#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:stopwatch: docs|2|Jan 3||
+[#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:stopwatch: docs|3|Jan 7||jwillikers
 [#15072](https://github.com/conan-io/conan-center-index/pull/15072)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: libsodium|2|Jan 5||jwillikers, MartinDelille
 [#15079](https://github.com/conan-io/conan-center-index/pull/15079)|[alexsmedin](https://github.com/alexsmedin)|Jan 3|:stopwatch: cmake|1|Jan 5||jwillikers
 [#15080](https://github.com/conan-io/conan-center-index/pull/15080)|[toge](https://github.com/toge)|Jan 3|:memo: watcher|2|Jan 5||jwillikers, SpaceIm
 [#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|2|Jan 5||jwillikers, SpaceIm
-[#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|||
+[#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
 [#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|1|Jan 5||SSE4
 [#15121](https://github.com/conan-io/conan-center-index/pull/15121)|[jcar87](https://github.com/jcar87)|Jan 5|:memo: libiconv|3|Jan 7||czoido
 [#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:stopwatch: geotrans|0|||
@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 271
 	- Draft: 22
-	- Average Age: 64 days, 16 hours, and 7.51 minutes
+	- Average Age: 64 days, 17 hours, and 5.43 minutes
 	- Stop Label: 213
 	
 
