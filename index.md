@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **29** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,7 +41,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15072](https://github.com/conan-io/conan-center-index/pull/15072)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: libsodium|2|Jan 5||jwillikers, MartinDelille
 [#15079](https://github.com/conan-io/conan-center-index/pull/15079)|[alexsmedin](https://github.com/alexsmedin)|Jan 3|:stopwatch: cmake|1|Jan 5||jwillikers
 [#15080](https://github.com/conan-io/conan-center-index/pull/15080)|[toge](https://github.com/toge)|Jan 3|:memo: watcher|2|Jan 5||jwillikers, SpaceIm
-[#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|2|Jan 5||jwillikers, SpaceIm
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
 [#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|1|Jan 5||SSE4
 [#15121](https://github.com/conan-io/conan-center-index/pull/15121)|[jcar87](https://github.com/jcar87)|Jan 5|:memo: libiconv|3|Jan 7||czoido
@@ -53,7 +52,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15154](https://github.com/conan-io/conan-center-index/pull/15154)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: boost|0|||
 [#15155](https://github.com/conan-io/conan-center-index/pull/15155)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: emsdk|0|||
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: android-ndk|0|||
-[#15158](https://github.com/conan-io/conan-center-index/pull/15158)|[MartinDelille](https://github.com/MartinDelille)|Jan 8|:stopwatch: docs|0|||
+[#15158](https://github.com/conan-io/conan-center-index/pull/15158)|[MartinDelille](https://github.com/MartinDelille)|Jan 8|:stopwatch: docs|1|Jan 8||prince-chrismc
 [#15159](https://github.com/conan-io/conan-center-index/pull/15159)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_json_link|0|||
 [#15160](https://github.com/conan-io/conan-center-index/pull/15160)|[jwillikers](https://github.com/jwillikers)|Jan 8|:stopwatch: libarchive|0|||
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|0|||
@@ -61,7 +60,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -69,6 +68,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13646](https://github.com/conan-io/conan-center-index/pull/13646)|[partiallyderived](https://github.com/partiallyderived)|Oct 20|:new: lzham|4|prince-chrismc, toge
 [#13866](https://github.com/conan-io/conan-center-index/pull/13866)|[RazielXYZ](https://github.com/RazielXYZ)|Oct 30|:memo: bx|8|prince-chrismc, toge
 [#13981](https://github.com/conan-io/conan-center-index/pull/13981)|[Doome161](https://github.com/Doome161)|Nov 3|:memo: c-dbg-macro|5|prince-chrismc, toge
+[#15113](https://github.com/conan-io/conan-center-index/pull/15113)|[a4z](https://github.com/a4z)|Jan 4|:memo: strong_type|3|jwillikers, SpaceIm, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -79,7 +79,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 280
 	- Draft: 21
-	- Average Age: 63 days, 8 hours, and 41.14 minutes
+	- Average Age: 63 days, 10 hours, and 39.11 minutes
 	- Stop Label: 213
 	
 
