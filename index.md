@@ -55,17 +55,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15160](https://github.com/conan-io/conan-center-index/pull/15160)|[jwillikers](https://github.com/jwillikers)|Jan 8|:stopwatch: libarchive|0|||
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|0|||
 [#15162](https://github.com/conan-io/conan-center-index/pull/15162)|[toge](https://github.com/toge)|Jan 8|:stopwatch: tsl-robin-map|0|||
-[#15166](https://github.com/conan-io/conan-center-index/pull/15166)|[qchateau](https://github.com/qchateau)|Jan 9|:stopwatch: packio|0|||
+[#15167](https://github.com/conan-io/conan-center-index/pull/15167)|[Cogitri](https://github.com/Cogitri)|Jan 9|:stopwatch: libcurl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#14910](https://github.com/conan-io/conan-center-index/pull/14910)|[uilianries](https://github.com/uilianries)|Dec 23|:memo: luajit|2|danimtb, prince-chrismc
 [#15002](https://github.com/conan-io/conan-center-index/pull/15002)|[Tradias](https://github.com/Tradias)|Dec 29|:memo: asio-grpc|2|jwillikers, prince-chrismc
 [#15021](https://github.com/conan-io/conan-center-index/pull/15021)|[toge](https://github.com/toge)|Dec 30|:memo: seasocks|3|jwillikers, prince-chrismc
 [#15047](https://github.com/conan-io/conan-center-index/pull/15047)|[toge](https://github.com/toge)|Jan 1|:new: openxlsx|3|jwillikers, prince-chrismc
@@ -86,10 +85,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 259
+	- Open: 258
 	- Draft: 21
-	- Average Age: 67 days, 16 hours, and 16.98 minutes
-	- Stop Label: 181
+	- Average Age: 67 days, 20 hours, and 56.20 minutes
+	- Stop Label: 182
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
