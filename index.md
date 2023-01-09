@@ -48,7 +48,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15150](https://github.com/conan-io/conan-center-index/pull/15150)|[SpaceIm](https://github.com/SpaceIm)|Jan 7|:stopwatch: opusfile|0|||
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:stopwatch: lely|0|||
 [#15152](https://github.com/conan-io/conan-center-index/pull/15152)|[toge](https://github.com/toge)|Jan 8|:stopwatch: unordered_dense|0|||
-[#15153](https://github.com/conan-io/conan-center-index/pull/15153)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: oboe|0|||
+[#15153](https://github.com/conan-io/conan-center-index/pull/15153)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:new: oboe|0|||
 [#15155](https://github.com/conan-io/conan-center-index/pull/15155)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: emsdk|0|||
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: android-ndk|0|||
 [#15159](https://github.com/conan-io/conan-center-index/pull/15159)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_json_link|0|||
@@ -60,12 +60,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **12** pull requests are waiting to be merged :tada:
+Currently **11** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15002](https://github.com/conan-io/conan-center-index/pull/15002)|[Tradias](https://github.com/Tradias)|Dec 29|:memo: asio-grpc|2|jwillikers, prince-chrismc
 [#15021](https://github.com/conan-io/conan-center-index/pull/15021)|[toge](https://github.com/toge)|Dec 30|:memo: seasocks|3|jwillikers, prince-chrismc
 [#15047](https://github.com/conan-io/conan-center-index/pull/15047)|[toge](https://github.com/toge)|Jan 1|:new: openxlsx|3|jwillikers, prince-chrismc
 [#15053](https://github.com/conan-io/conan-center-index/pull/15053)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:green_book: docs|4|jwillikers, prince-chrismc
@@ -85,9 +84,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 258
+	- Open: 257
 	- Draft: 21
-	- Average Age: 67 days, 20 hours, and 56.20 minutes
+	- Average Age: 68 days, 3 hours, and 13.41 minutes
 	- Stop Label: 182
 	
 
