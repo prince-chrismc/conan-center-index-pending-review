@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **30** pull requests currently under way :detective:
+There are **28** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -42,8 +42,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15079](https://github.com/conan-io/conan-center-index/pull/15079)|[alexsmedin](https://github.com/alexsmedin)|Jan 3|:stopwatch: cmake|1|Jan 5||jwillikers
 [#15080](https://github.com/conan-io/conan-center-index/pull/15080)|[toge](https://github.com/toge)|Jan 3|:memo: watcher|2|Jan 5||jwillikers, SpaceIm
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
-[#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|1|Jan 5||SSE4
-[#15121](https://github.com/conan-io/conan-center-index/pull/15121)|[jcar87](https://github.com/jcar87)|Jan 5|:memo: libiconv|3|Jan 7||czoido
 [#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:stopwatch: geotrans|0|||
 [#15150](https://github.com/conan-io/conan-center-index/pull/15150)|[SpaceIm](https://github.com/SpaceIm)|Jan 7|:stopwatch: opusfile|0|||
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:stopwatch: lely|0|||
@@ -61,11 +59,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
+[#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|2|SSE4, prince-chrismc
+[#15121](https://github.com/conan-io/conan-center-index/pull/15121)|[jcar87](https://github.com/jcar87)|Jan 5|:memo: libiconv|5|czoido, prince-chrismc
+[#15132](https://github.com/conan-io/conan-center-index/pull/15132)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 6|:memo: glib|3|jwillikers, prince-chrismc
 [#15146](https://github.com/conan-io/conan-center-index/pull/15146)|[SpaceIm](https://github.com/SpaceIm)|Jan 6|:memo: winflexbison|2|jwillikers, prince-chrismc
 
 
@@ -77,8 +78,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 276
 	- Draft: 21
-	- Average Age: 63 days, 21 hours, and 8.82 minutes
-	- Stop Label: 209
+	- Average Age: 63 days, 21 hours, and 16.29 minutes
+	- Stop Label: 207
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
