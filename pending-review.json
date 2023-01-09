@@ -470,24 +470,6 @@
       }
    },
    {
-      "Number": 15169,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-01-09T09:35:21Z",
-      "Recipe": "at-spi2-core",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15169",
-      "LastCommitSHA": "b3e3ff6ce64b2dcee5a88d1e2e60dabd9b8bcc71",
-      "LastCommitAt": "2023-01-09T10:06:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15170,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-01-09T11:38:53Z",
