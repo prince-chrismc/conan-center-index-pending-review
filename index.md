@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **17** pull requests currently under way :detective:
+There are **16** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,7 +41,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15152](https://github.com/conan-io/conan-center-index/pull/15152)|[toge](https://github.com/toge)|Jan 8|:stopwatch: unordered_dense|0|||
 [#15160](https://github.com/conan-io/conan-center-index/pull/15160)|[jwillikers](https://github.com/jwillikers)|Jan 8|:stopwatch: libarchive|2|Jan 9||uilianries
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|1|Jan 9||uilianries
-[#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:stopwatch: at-spi2-core|0|||
 [#15170](https://github.com/conan-io/conan-center-index/pull/15170)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 9|:gear: .c3i|1|Jan 9||SSE4
 [#15184](https://github.com/conan-io/conan-center-index/pull/15184)|[SpaceIm](https://github.com/SpaceIm)|Jan 9|:stopwatch: protobuf|1|Jan 9||jwillikers
 
@@ -73,8 +72,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 261
 	- Draft: 24
-	- Average Age: 66 days, 23 hours, and 25.39 minutes
-	- Stop Label: 195
+	- Average Age: 67 days, and 15.84 minutes
+	- Stop Label: 196
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
