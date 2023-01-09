@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **28** pull requests currently under way :detective:
+There are **26** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -47,10 +47,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:stopwatch: lely|0|||
 [#15152](https://github.com/conan-io/conan-center-index/pull/15152)|[toge](https://github.com/toge)|Jan 8|:stopwatch: unordered_dense|0|||
 [#15153](https://github.com/conan-io/conan-center-index/pull/15153)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: oboe|0|||
-[#15154](https://github.com/conan-io/conan-center-index/pull/15154)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: boost|1|Jan 9||prince-chrismc
 [#15155](https://github.com/conan-io/conan-center-index/pull/15155)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: emsdk|0|||
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:stopwatch: android-ndk|0|||
-[#15158](https://github.com/conan-io/conan-center-index/pull/15158)|[MartinDelille](https://github.com/MartinDelille)|Jan 8|:green_book: docs|1|Jan 8||prince-chrismc
 [#15159](https://github.com/conan-io/conan-center-index/pull/15159)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_json_link|0|||
 [#15160](https://github.com/conan-io/conan-center-index/pull/15160)|[jwillikers](https://github.com/jwillikers)|Jan 8|:stopwatch: libarchive|0|||
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|0|||
@@ -59,15 +57,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15119](https://github.com/conan-io/conan-center-index/pull/15119)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 5|:gear: .c3i|2|SSE4, prince-chrismc
-[#15121](https://github.com/conan-io/conan-center-index/pull/15121)|[jcar87](https://github.com/jcar87)|Jan 5|:memo: libiconv|5|czoido, prince-chrismc
+[#15121](https://github.com/conan-io/conan-center-index/pull/15121)|[jcar87](https://github.com/jcar87)|Jan 5|:memo: libiconv|7|czoido, prince-chrismc
 [#15132](https://github.com/conan-io/conan-center-index/pull/15132)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 6|:memo: glib|3|jwillikers, prince-chrismc
 [#15146](https://github.com/conan-io/conan-center-index/pull/15146)|[SpaceIm](https://github.com/SpaceIm)|Jan 6|:memo: winflexbison|2|jwillikers, prince-chrismc
+[#15154](https://github.com/conan-io/conan-center-index/pull/15154)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:warning: boost|2|prince-chrismc, SSE4
+[#15158](https://github.com/conan-io/conan-center-index/pull/15158)|[MartinDelille](https://github.com/MartinDelille)|Jan 8|:green_book: docs|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -76,10 +76,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 276
+	- Open: 271
 	- Draft: 21
-	- Average Age: 63 days, 21 hours, and 16.29 minutes
-	- Stop Label: 207
+	- Average Age: 64 days, 21 hours, and 4.03 minutes
+	- Stop Label: 200
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
