@@ -208,32 +208,6 @@
       }
    },
    {
-      "Number": 15002,
-      "OpenedBy": "Tradias",
-      "CreatedAt": "2022-12-29T18:36:27Z",
-      "Recipe": "asio-grpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15002",
-      "LastCommitSHA": "80dea65e071ba9dd51a2e75ce0188c5ff2493ddf",
-      "LastCommitAt": "2022-12-30T14:42:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-09T07:02:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15002#pullrequestreview-1240005045"
-         }
-      }
-   },
-   {
       "Number": 15004,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2022-12-29T20:07:08Z",
@@ -744,7 +718,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15153",
       "LastCommitSHA": "0c67ba9e50b2eb8cc98613684020fa08c35016e7",
       "LastCommitAt": "2023-01-08T01:48:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
