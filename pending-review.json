@@ -322,14 +322,14 @@
       }
    },
    {
-      "Number": 15193,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-10T01:18:30Z",
-      "Recipe": "opencv",
+      "Number": 15198,
+      "OpenedBy": "justinmcbride",
+      "CreatedAt": "2023-01-10T06:33:26Z",
+      "Recipe": "opentelemetry-cpp",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15193",
-      "LastCommitSHA": "2b84e4e4edc60265ecfb17b38351acf27d697df7",
-      "LastCommitAt": "2023-01-10T01:07:58Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15198",
+      "LastCommitSHA": "88c94d0400f4ef2210bceb5949f9ba7ad504b7fc",
+      "LastCommitAt": "2023-01-05T13:04:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -340,14 +340,41 @@
       }
    },
    {
-      "Number": 15198,
-      "OpenedBy": "justinmcbride",
-      "CreatedAt": "2023-01-10T06:33:26Z",
-      "Recipe": "opentelemetry-cpp",
+      "Number": 15200,
+      "OpenedBy": "mkoviazin",
+      "CreatedAt": "2023-01-10T08:35:40Z",
+      "Recipe": "libcurl",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15198",
-      "LastCommitSHA": "88c94d0400f4ef2210bceb5949f9ba7ad504b7fc",
-      "LastCommitAt": "2023-01-05T13:04:31Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15200",
+      "LastCommitSHA": "85e6539f23db63414828fd1d3b48c5a0ab404a27",
+      "LastCommitAt": "2023-01-10T08:34:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "arekmula",
+            "piterxpippin",
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-01-10T09:14:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15200#pullrequestreview-1241797047"
+         }
+      }
+   },
+   {
+      "Number": 15202,
+      "OpenedBy": "guillaume-michel",
+      "CreatedAt": "2023-01-10T08:53:42Z",
+      "Recipe": "protobuf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15202",
+      "LastCommitSHA": "844523c42cd0c9a758f366cf005b1feaa2fef0b0",
+      "LastCommitAt": "2023-01-10T08:46:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
