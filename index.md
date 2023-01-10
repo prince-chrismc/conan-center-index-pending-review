@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **16** pull requests currently under way :detective:
+There are **15** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,18 +41,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|1|Jan 9||uilianries
 [#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|1|Jan 9||prince-chrismc
 [#15198](https://github.com/conan-io/conan-center-index/pull/15198)|[justinmcbride](https://github.com/justinmcbride)|Jan 10|:stopwatch: opentelemetry-cpp|0|:eyes:||
-[#15200](https://github.com/conan-io/conan-center-index/pull/15200)|[mkoviazin](https://github.com/mkoviazin)|Jan 10|:stopwatch: libcurl|3|Jan 10||arekmula, piterxpippin, SSE4
 [#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15102](https://github.com/conan-io/conan-center-index/pull/15102)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 4|:warning: qt|3|jwillikers, MartinDelille, prince-chrismc
+[#15203](https://github.com/conan-io/conan-center-index/pull/15203)|[jcar87](https://github.com/jcar87)|Jan 10|:gear: .c3i|2|franramirez688, czoido
 
 
 #### :clipboard: Statistics
@@ -63,7 +63,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 253
 	- Draft: 25
-	- Average Age: 69 days, 16 hours, and 43.08 minutes
+	- Average Age: 69 days, 17 hours, and 43.12 minutes
 	- Stop Label: 198
 	
 
