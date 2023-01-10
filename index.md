@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **19** pull requests currently under way :detective:
+There are **20** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,8 +39,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
 [#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:stopwatch: geotrans|0|:eyes:||
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|0|||
+[#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:memo: android-ndk|0|||
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|1|Jan 9||uilianries
-[#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|3|Jan 10||
+[#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|4|Jan 10||jwillikers
 [#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|0|||
 [#15206](https://github.com/conan-io/conan-center-index/pull/15206)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: odbc|1|Jan 10||jwillikers
 [#15207](https://github.com/conan-io/conan-center-index/pull/15207)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: civetweb|1|Jan 10||
@@ -67,8 +68,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 256
 	- Draft: 23
-	- Average Age: 69 days, 8 hours, and 52.68 minutes
-	- Stop Label: 199
+	- Average Age: 69 days, 9 hours, and 54.01 minutes
+	- Stop Label: 198
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
