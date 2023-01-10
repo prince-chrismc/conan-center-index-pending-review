@@ -272,6 +272,24 @@
       }
    },
    {
+      "Number": 15151,
+      "OpenedBy": "uyha",
+      "CreatedAt": "2023-01-07T23:01:46Z",
+      "Recipe": "lely-core",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15151",
+      "LastCommitSHA": "5903616d7786e0735899f50c9c58931a901abae2",
+      "LastCommitAt": "2023-01-10T19:34:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 15161,
       "OpenedBy": "toge",
       "CreatedAt": "2023-01-08T14:56:22Z",
@@ -305,7 +323,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15169",
       "LastCommitSHA": "5edbecbc6e764a1ffe4537ce39a15ce5669788b3",
       "LastCommitAt": "2023-01-10T19:42:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -421,6 +439,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15208",
       "LastCommitSHA": "02aa23334f0247c8a54ec5c5151e7681606ecaf3",
       "LastCommitAt": "2023-01-10T20:10:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15209,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-10T21:00:16Z",
+      "Recipe": "bzip3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15209",
+      "LastCommitSHA": "afb64d5aa177fd166448e86f90dc853a3bba7162",
+      "LastCommitAt": "2023-01-10T20:59:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
