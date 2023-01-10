@@ -41,7 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|1|Jan 9||uilianries
 [#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:stopwatch: at-spi2-core|2|Jan 10||
 [#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|0|||
-[#15206](https://github.com/conan-io/conan-center-index/pull/15206)|[jcar87](https://github.com/jcar87)|Jan 10|:stopwatch: odbc|1|Jan 10||jwillikers
+[#15206](https://github.com/conan-io/conan-center-index/pull/15206)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: odbc|1|Jan 10||jwillikers
 [#15207](https://github.com/conan-io/conan-center-index/pull/15207)|[jcar87](https://github.com/jcar87)|Jan 10|:stopwatch: civetweb|1|Jan 10||
 
 
@@ -64,7 +64,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 254
 	- Draft: 24
-	- Average Age: 69 days, 19 hours, and 3.17 minutes
+	- Average Age: 69 days, 19 hours, and 58.30 minutes
 	- Stop Label: 199
 	
 
