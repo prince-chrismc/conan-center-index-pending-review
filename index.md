@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **19** pull requests currently under way :detective:
+There are **18** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,7 +36,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14939](https://github.com/conan-io/conan-center-index/pull/14939)|[CD3](https://github.com/CD3)|Dec 26|:new: libinterpolate|7|Jan 9||samuel-emrys, prince-chrismc
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|38|Jan 4||SSE4
-[#15069](https://github.com/conan-io/conan-center-index/pull/15069)|[toge](https://github.com/toge)|Jan 2|:stopwatch: crowcpp-crow|3|Jan 9||prince-chrismc
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
 [#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:stopwatch: geotrans|0|||
 [#15152](https://github.com/conan-io/conan-center-index/pull/15152)|[toge](https://github.com/toge)|Jan 8|:stopwatch: unordered_dense|0|||
@@ -45,7 +44,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|1|Jan 9||prince-chrismc
 [#15184](https://github.com/conan-io/conan-center-index/pull/15184)|[SpaceIm](https://github.com/SpaceIm)|Jan 9|:stopwatch: protobuf|1|Jan 9||jwillikers
 [#15187](https://github.com/conan-io/conan-center-index/pull/15187)|[toge](https://github.com/toge)|Jan 9|:stopwatch: simdutf|0|||
-[#15189](https://github.com/conan-io/conan-center-index/pull/15189)|[toge](https://github.com/toge)|Jan 9|:stopwatch: uwebsockets|0|||
+[#15192](https://github.com/conan-io/conan-center-index/pull/15192)|[toge](https://github.com/toge)|Jan 10|:stopwatch: capnproto|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -65,9 +64,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 251
-	- Draft: 24
-	- Average Age: 69 days, 20 hours, and 24.04 minutes
+	- Open: 249
+	- Draft: 25
+	- Average Age: 70 days, 11 hours, and 33.46 minutes
 	- Stop Label: 191
 	
 
