@@ -303,8 +303,8 @@
       "Recipe": "at-spi2-core",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15169",
-      "LastCommitSHA": "67a70723537804942831dcc30c1ba878cf0b17bf",
-      "LastCommitAt": "2023-01-10T17:30:37Z",
+      "LastCommitSHA": "1c3c64668b0dab84da6446534ca7d70ceae1655f",
+      "LastCommitAt": "2023-01-10T18:42:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -373,7 +373,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15206",
       "LastCommitSHA": "67b212b8769d0a0bfa9beac2520ef995733dfd09",
       "LastCommitAt": "2023-01-10T16:16:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
