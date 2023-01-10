@@ -51,7 +51,7 @@ Currently **2** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15102](https://github.com/conan-io/conan-center-index/pull/15102)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 4|:warning: qt|3|jwillikers, MartinDelille, prince-chrismc
-[#15203](https://github.com/conan-io/conan-center-index/pull/15203)|[jcar87](https://github.com/jcar87)|Jan 10|:gear: .c3i|2|franramirez688, czoido
+[#15203](https://github.com/conan-io/conan-center-index/pull/15203)|[jcar87](https://github.com/jcar87)|Jan 10|:gear: .c3i|3|franramirez688, czoido, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -62,7 +62,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 253
 	- Draft: 25
-	- Average Age: 69 days, 18 hours, and 40.71 minutes
+	- Average Age: 69 days, 19 hours, and 55.45 minutes
 	- Stop Label: 199
 	
 
