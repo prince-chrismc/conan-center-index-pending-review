@@ -807,7 +807,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15218",
       "LastCommitSHA": "a813423313c3e3dfd615ff2de9494acef43e5d60",
       "LastCommitAt": "2023-01-11T15:05:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -825,6 +825,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15219",
       "LastCommitSHA": "9049418fcb691f0c5a2857d7e061758abd4783ca",
       "LastCommitAt": "2023-01-11T15:34:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15222,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2023-01-11T17:28:46Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15222",
+      "LastCommitSHA": "8803c729c90ede7cd29f8e2036e4ff2eed1a5708",
+      "LastCommitAt": "2023-01-11T17:28:04Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
