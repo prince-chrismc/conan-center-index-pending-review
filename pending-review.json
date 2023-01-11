@@ -847,31 +847,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 15222,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2023-01-11T17:28:46Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15222",
-      "LastCommitSHA": "8803c729c90ede7cd29f8e2036e4ff2eed1a5708",
-      "LastCommitAt": "2023-01-11T17:28:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-01-11T19:11:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15222#pullrequestreview-1244472623"
-         }
-      }
    }
 ]
