@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **20** pull requests currently under way :detective:
+There are **21** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -42,11 +42,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:memo: android-ndk|0|||
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|1|Jan 9||uilianries
 [#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|4|Jan 10||jwillikers
+[#15188](https://github.com/conan-io/conan-center-index/pull/15188)|[toge](https://github.com/toge)|Jan 9|:memo: zxing-cpp|2|Jan 10||SpaceIm
 [#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|0|||
 [#15206](https://github.com/conan-io/conan-center-index/pull/15206)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: odbc|1|Jan 10||jwillikers
 [#15207](https://github.com/conan-io/conan-center-index/pull/15207)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: civetweb|1|Jan 10||
-[#15208](https://github.com/conan-io/conan-center-index/pull/15208)|[toge](https://github.com/toge)|Jan 10|:stopwatch: libucl|0|||
 [#15209](https://github.com/conan-io/conan-center-index/pull/15209)|[toge](https://github.com/toge)|Jan 10|:stopwatch: bzip3|0|||
+[#15210](https://github.com/conan-io/conan-center-index/pull/15210)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 10|:green_book: docs|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -66,9 +67,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 256
+	- Open: 257
 	- Draft: 23
-	- Average Age: 69 days, 9 hours, and 54.01 minutes
+	- Average Age: 69 days, 6 hours, and 10.75 minutes
 	- Stop Label: 198
 	
 
