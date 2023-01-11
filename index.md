@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **22** pull requests currently under way :detective:
+There are **24** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,6 +36,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14920](https://github.com/conan-io/conan-center-index/pull/14920)|[czoido](https://github.com/czoido)|Dec 24|:memo: sdl|1|Dec 27 :bell:||
 [#14939](https://github.com/conan-io/conan-center-index/pull/14939)|[CD3](https://github.com/CD3)|Dec 26|:new: libinterpolate|7|Jan 9||samuel-emrys, prince-chrismc
+[#14954](https://github.com/conan-io/conan-center-index/pull/14954)|[toge](https://github.com/toge)|Dec 27|:memo: c-blosc|2|Jan 6||
+[#14967](https://github.com/conan-io/conan-center-index/pull/14967)|[andrewwasielewski](https://github.com/andrewwasielewski)|Dec 27|:memo: dcmtk|0|||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|38|Jan 4||SSE4
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
 [#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:stopwatch: geotrans|0|:eyes:||
@@ -70,8 +72,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 257
 	- Draft: 23
-	- Average Age: 69 days, 7 hours, and 50.96 minutes
-	- Stop Label: 197
+	- Average Age: 69 days, 8 hours, and 24.87 minutes
+	- Stop Label: 195
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
