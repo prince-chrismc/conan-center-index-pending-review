@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **38** pull requests currently under way :detective:
+There are **37** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -57,24 +57,24 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|6|Jan 11||jwillikers
 [#15185](https://github.com/conan-io/conan-center-index/pull/15185)|[HappySeaFox](https://github.com/HappySeaFox)|Jan 9|:memo: libavif|0|||
 [#15188](https://github.com/conan-io/conan-center-index/pull/15188)|[toge](https://github.com/toge)|Jan 9|:memo: zxing-cpp|2|Jan 10||SpaceIm
-[#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|0|||
+[#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|1|Jan 11||prince-chrismc
 [#15207](https://github.com/conan-io/conan-center-index/pull/15207)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: civetweb|2|Jan 11||prince-chrismc
 [#15208](https://github.com/conan-io/conan-center-index/pull/15208)|[toge](https://github.com/toge)|Jan 10|:memo: libucl|0|||
 [#15209](https://github.com/conan-io/conan-center-index/pull/15209)|[toge](https://github.com/toge)|Jan 10|:memo: bzip3|1|Jan 11||prince-chrismc
-[#15215](https://github.com/conan-io/conan-center-index/pull/15215)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 11|:green_book: docs|0|||
+[#15215](https://github.com/conan-io/conan-center-index/pull/15215)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 11|:green_book: docs|1|Jan 11||prince-chrismc
 [#15218](https://github.com/conan-io/conan-center-index/pull/15218)|[toge](https://github.com/toge)|Jan 11|:memo: minizip-ng|0|||
 [#15219](https://github.com/conan-io/conan-center-index/pull/15219)|[EricAtORS](https://github.com/EricAtORS)|Jan 11|:memo: libpng|0|||
-[#15222](https://github.com/conan-io/conan-center-index/pull/15222)|[danimtb](https://github.com/danimtb)|Jan 11|:gear: .c3i|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
+[#15222](https://github.com/conan-io/conan-center-index/pull/15222)|[danimtb](https://github.com/danimtb)|Jan 11|:gear: .c3i|2|prince-chrismc, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 251
 	- Draft: 20
-	- Average Age: 71 days, 7 hours, and 41.18 minutes
+	- Average Age: 71 days, 8 hours, and 33.23 minutes
 	- Stop Label: 179
 	
 
