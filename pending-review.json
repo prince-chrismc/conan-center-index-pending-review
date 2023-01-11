@@ -547,7 +547,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15185",
       "LastCommitSHA": "273c7f8f07a9829574c3bc04162e91607b5fd6e1",
       "LastCommitAt": "2023-01-11T03:23:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -712,15 +712,15 @@
       "LastCommitAt": "2023-01-10T23:41:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-01-11T03:23:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15210#pullrequestreview-1243241280"
+            "ReviewerName": "memsharded",
+            "SubmittedAt": "2023-01-11T08:08:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15210#pullrequestreview-1243443140"
          }
       }
    }
