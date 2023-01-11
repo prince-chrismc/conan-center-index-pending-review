@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **38** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -62,8 +62,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15208](https://github.com/conan-io/conan-center-index/pull/15208)|[toge](https://github.com/toge)|Jan 10|:memo: libucl|0|||
 [#15209](https://github.com/conan-io/conan-center-index/pull/15209)|[toge](https://github.com/toge)|Jan 10|:memo: bzip3|1|Jan 11||prince-chrismc
 [#15215](https://github.com/conan-io/conan-center-index/pull/15215)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 11|:green_book: docs|0|||
-[#15218](https://github.com/conan-io/conan-center-index/pull/15218)|[toge](https://github.com/toge)|Jan 11|:stopwatch: minizip-ng|0|||
+[#15218](https://github.com/conan-io/conan-center-index/pull/15218)|[toge](https://github.com/toge)|Jan 11|:memo: minizip-ng|0|||
 [#15219](https://github.com/conan-io/conan-center-index/pull/15219)|[EricAtORS](https://github.com/EricAtORS)|Jan 11|:memo: libpng|0|||
+[#15222](https://github.com/conan-io/conan-center-index/pull/15222)|[danimtb](https://github.com/danimtb)|Jan 11|:gear: .c3i|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -82,9 +83,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 250
+	- Open: 251
 	- Draft: 20
-	- Average Age: 71 days, 13 hours, and 29.75 minutes
+	- Average Age: 71 days, 7 hours, and 41.18 minutes
 	- Stop Label: 179
 	
 
