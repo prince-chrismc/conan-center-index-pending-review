@@ -25,29 +25,6 @@
       }
    },
    {
-      "Number": 12844,
-      "OpenedBy": "kissandras",
-      "CreatedAt": "2022-09-06T06:47:58Z",
-      "Recipe": "archicad-apidevkit",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/12844",
-      "LastCommitSHA": "09e4fa58567c2222a5d86e02ff02fca8b14d583f",
-      "LastCommitAt": "2023-01-11T14:28:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-09T16:40:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12844#pullrequestreview-1240808074"
-         }
-      }
-   },
-   {
       "Number": 13739,
       "OpenedBy": "System-Arch",
       "CreatedAt": "2022-10-25T03:27:09Z",
@@ -56,7 +33,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13739",
       "LastCommitSHA": "182c7d474ad40462e032d264c75de8aa64bf0da9",
       "LastCommitAt": "2023-01-11T14:02:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 44,
          "ValidApprovals": 0,
@@ -834,6 +811,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15218",
       "LastCommitSHA": "a813423313c3e3dfd615ff2de9494acef43e5d60",
       "LastCommitAt": "2023-01-11T15:05:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15219,
+      "OpenedBy": "EricAtORS",
+      "CreatedAt": "2023-01-11T15:36:56Z",
+      "Recipe": "libpng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15219",
+      "LastCommitSHA": "9049418fcb691f0c5a2857d7e061758abd4783ca",
+      "LastCommitAt": "2023-01-11T15:34:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
