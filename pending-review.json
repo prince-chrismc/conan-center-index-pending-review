@@ -173,6 +173,29 @@
       }
    },
    {
+      "Number": 14733,
+      "OpenedBy": "SamsonBox",
+      "CreatedAt": "2022-12-14T09:10:39Z",
+      "Recipe": "libftdi",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14733",
+      "LastCommitSHA": "b34dfd72ed962a717ad8f103c1be0fde15c7d69d",
+      "LastCommitAt": "2023-01-11T10:15:12Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 10,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2022-12-22T14:52:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14733#pullrequestreview-1227792094"
+         }
+      }
+   },
+   {
       "Number": 14765,
       "OpenedBy": "toge",
       "CreatedAt": "2022-12-15T15:56:38Z",
@@ -360,6 +383,31 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2023-01-04T04:22:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15004#pullrequestreview-1235336111"
+         }
+      }
+   },
+   {
+      "Number": 15026,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-31T05:46:22Z",
+      "Recipe": "libraw",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15026",
+      "LastCommitSHA": "691dda02086e470a2333c7dd216596aa167ce817",
+      "LastCommitAt": "2023-01-08T01:46:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-01-08T04:44:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15026#pullrequestreview-1239731432"
          }
       }
    },
