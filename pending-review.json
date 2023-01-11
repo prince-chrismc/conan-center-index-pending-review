@@ -450,7 +450,7 @@
       "LastCommitAt": "2023-01-10T19:42:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -458,9 +458,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-10T21:57:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15169#pullrequestreview-1243030660"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-01-11T04:36:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15169#pullrequestreview-1243276360"
          }
       }
    },
