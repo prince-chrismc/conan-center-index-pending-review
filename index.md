@@ -48,7 +48,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|0|||
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:memo: android-ndk|0|||
 [#15159](https://github.com/conan-io/conan-center-index/pull/15159)|[toge](https://github.com/toge)|Jan 8|:memo: daw_json_link|2|Jan 11||prince-chrismc
-[#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|1|Jan 9||uilianries
+[#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:memo: daw_header_libraries|1|Jan 9||uilianries
 [#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|5|Jan 11||
 [#15185](https://github.com/conan-io/conan-center-index/pull/15185)|[HappySeaFox](https://github.com/HappySeaFox)|Jan 9|:memo: libavif|0|||
 [#15187](https://github.com/conan-io/conan-center-index/pull/15187)|[toge](https://github.com/toge)|Jan 9|:memo: simdutf|1|Jan 11||prince-chrismc
@@ -61,13 +61,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#15195](https://github.com/conan-io/conan-center-index/pull/15195)|[SSE4](https://github.com/SSE4)|Jan 10|:memo: libcurl|5|franramirez688, toge
 [#15204](https://github.com/conan-io/conan-center-index/pull/15204)|[danimtb](https://github.com/danimtb)|Jan 10|:gear: .c3i|3|jcar87, SSE4, jwillikers
 
 
@@ -79,8 +78,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 253
 	- Draft: 20
-	- Average Age: 70 days, 13 hours, and 29.37 minutes
-	- Stop Label: 188
+	- Average Age: 70 days, 15 hours, and 27.44 minutes
+	- Stop Label: 189
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
