@@ -446,16 +446,14 @@
       "Recipe": "at-spi2-core",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15169",
-      "LastCommitSHA": "5edbecbc6e764a1ffe4537ce39a15ce5669788b3",
-      "LastCommitAt": "2023-01-10T19:42:55Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "1d6f40455ba00f8311a17c0cff742dd008e56261",
+      "LastCommitAt": "2023-01-11T06:01:14Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -588,15 +586,17 @@
       "LastCommitAt": "2023-01-10T16:36:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-01-10T16:32:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15207#pullrequestreview-1242596922"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-01-11T05:32:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15207#pullrequestreview-1243306950"
          }
       }
    },
