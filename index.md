@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **24** pull requests currently under way :detective:
+There are **27** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,18 +39,21 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14954](https://github.com/conan-io/conan-center-index/pull/14954)|[toge](https://github.com/toge)|Dec 27|:memo: c-blosc|2|Jan 6||
 [#14967](https://github.com/conan-io/conan-center-index/pull/14967)|[andrewwasielewski](https://github.com/andrewwasielewski)|Dec 27|:memo: dcmtk|0|||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|38|Jan 4||SSE4
+[#15040](https://github.com/conan-io/conan-center-index/pull/15040)|[toge](https://github.com/toge)|Dec 31|:memo: mariadb-connector-c|0|||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
+[#15117](https://github.com/conan-io/conan-center-index/pull/15117)|[toge](https://github.com/toge)|Jan 5|:memo: luau|2|Jan 8||jwillikers
 [#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:stopwatch: geotrans|0|:eyes:||
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|0|||
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:memo: android-ndk|0|||
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:stopwatch: daw_header_libraries|1|Jan 9||uilianries
 [#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|4|Jan 10||jwillikers
+[#15187](https://github.com/conan-io/conan-center-index/pull/15187)|[toge](https://github.com/toge)|Jan 9|:memo: simdutf|0|||
 [#15188](https://github.com/conan-io/conan-center-index/pull/15188)|[toge](https://github.com/toge)|Jan 9|:memo: zxing-cpp|2|Jan 10||SpaceIm
 [#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|0|||
 [#15206](https://github.com/conan-io/conan-center-index/pull/15206)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: odbc|1|Jan 10||jwillikers
 [#15207](https://github.com/conan-io/conan-center-index/pull/15207)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: civetweb|1|Jan 10||
 [#15209](https://github.com/conan-io/conan-center-index/pull/15209)|[toge](https://github.com/toge)|Jan 10|:stopwatch: bzip3|0|||
-[#15210](https://github.com/conan-io/conan-center-index/pull/15210)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 10|:green_book: docs|0|||
+[#15210](https://github.com/conan-io/conan-center-index/pull/15210)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 10|:green_book: docs|1|Jan 11||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -70,10 +73,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 257
-	- Draft: 23
-	- Average Age: 69 days, 8 hours, and 24.87 minutes
-	- Stop Label: 195
+	- Open: 256
+	- Draft: 22
+	- Average Age: 69 days, 14 hours, and 21.44 minutes
+	- Stop Label: 192
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
