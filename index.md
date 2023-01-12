@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **59** pull requests currently under way :detective:
+There are **60** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27 :bell:||uilianries
 [#14765](https://github.com/conan-io/conan-center-index/pull/14765)|[toge](https://github.com/toge)|Dec 15|:memo: kaitai_struct_cpp_stl_runtime|0|||
 [#14787](https://github.com/conan-io/conan-center-index/pull/14787)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: lcms|3|Dec 21 :bell:||
-[#14857](https://github.com/conan-io/conan-center-index/pull/14857)|[toge](https://github.com/toge)|Dec 20|:memo: glaze|0|||
+[#14857](https://github.com/conan-io/conan-center-index/pull/14857)|[toge](https://github.com/toge)|Dec 20|:stopwatch: glaze|0|||
 [#14859](https://github.com/conan-io/conan-center-index/pull/14859)|[SpaceIm](https://github.com/SpaceIm)|Dec 21|:memo: bison|3|Dec 27 :bell:||danimtb
 [#14892](https://github.com/conan-io/conan-center-index/pull/14892)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:memo: proj|0|:eyes:||
 [#14893](https://github.com/conan-io/conan-center-index/pull/14893)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:memo: b2|1|Dec 22 :bell:||jwillikers
@@ -60,6 +60,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15094](https://github.com/conan-io/conan-center-index/pull/15094)|[robomics](https://github.com/robomics)|Jan 3|:memo: hdf5|5|Jan 9||
 [#15098](https://github.com/conan-io/conan-center-index/pull/15098)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 3|:memo: qt|4|Jan 12||jwillikers
 [#15100](https://github.com/conan-io/conan-center-index/pull/15100)|[robomics](https://github.com/robomics)|Jan 4|:memo: xxhash|1|Jan 9||
+[#15106](https://github.com/conan-io/conan-center-index/pull/15106)|[feltech](https://github.com/feltech)|Jan 4|:new: openassetio|0|||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
 [#15117](https://github.com/conan-io/conan-center-index/pull/15117)|[toge](https://github.com/toge)|Jan 5|:memo: luau|2|Jan 8||jwillikers
 [#15125](https://github.com/conan-io/conan-center-index/pull/15125)|[toge](https://github.com/toge)|Jan 5|:new: ls-qpack|0|||
@@ -106,8 +107,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 254
 	- Draft: 21
-	- Average Age: 70 days, 11 hours, and 36.89 minutes
-	- Stop Label: 160
+	- Average Age: 70 days, 12 hours, and 34.40 minutes
+	- Stop Label: 159
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
