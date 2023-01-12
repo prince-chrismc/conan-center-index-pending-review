@@ -971,15 +971,17 @@
       "LastCommitAt": "2023-01-12T12:29:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-09T15:35:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15179#pullrequestreview-1240701974"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-01-12T14:55:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15179#pullrequestreview-1245760703"
          }
       }
    },
