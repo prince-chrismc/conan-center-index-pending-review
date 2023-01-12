@@ -79,7 +79,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15215](https://github.com/conan-io/conan-center-index/pull/15215)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 11|:green_book: docs|1|Jan 11||prince-chrismc
 [#15225](https://github.com/conan-io/conan-center-index/pull/15225)|[toge](https://github.com/toge)|Jan 11|:memo: cpp-httplib|0|||
 [#15229](https://github.com/conan-io/conan-center-index/pull/15229)|[vbieleny](https://github.com/vbieleny)|Jan 12|:memo: vorbis|1|Jan 12||jwillikers
-[#15231](https://github.com/conan-io/conan-center-index/pull/15231)|[jcar87](https://github.com/jcar87)|Jan 12|:stopwatch: cryptopp|1|Jan 12||RubenRBS
+[#15231](https://github.com/conan-io/conan-center-index/pull/15231)|[jcar87](https://github.com/jcar87)|Jan 12|:memo: cryptopp|1|Jan 12||RubenRBS
 [#15232](https://github.com/conan-io/conan-center-index/pull/15232)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 12|:gear: .c3i|0|||
 [#15233](https://github.com/conan-io/conan-center-index/pull/15233)|[okaerin](https://github.com/okaerin)|Jan 12|:stopwatch: drogon|0|||
 
@@ -100,10 +100,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 250
+	- Open: 252
 	- Draft: 21
-	- Average Age: 71 days, 7 hours, and 52.73 minutes
-	- Stop Label: 160
+	- Average Age: 70 days, 22 hours, and 11.48 minutes
+	- Stop Label: 162
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
