@@ -1334,8 +1334,8 @@
       "Recipe": "opencv",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15239",
-      "LastCommitSHA": "d1882d842422c774f27f6c1b08f59af829a1f2a6",
-      "LastCommitAt": "2023-01-12T18:49:55Z",
+      "LastCommitSHA": "b591dc4da1f63f3c0b153721e0caf9517f7fd1d8",
+      "LastCommitAt": "2023-01-12T19:35:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
