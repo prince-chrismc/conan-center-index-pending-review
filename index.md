@@ -36,7 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27 :bell:||uilianries
 [#14765](https://github.com/conan-io/conan-center-index/pull/14765)|[toge](https://github.com/toge)|Dec 15|:memo: kaitai_struct_cpp_stl_runtime|0|||
 [#14787](https://github.com/conan-io/conan-center-index/pull/14787)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: lcms|3|Dec 21 :bell:||
-[#14857](https://github.com/conan-io/conan-center-index/pull/14857)|[toge](https://github.com/toge)|Dec 20|:stopwatch: glaze|0|||
+[#14857](https://github.com/conan-io/conan-center-index/pull/14857)|[toge](https://github.com/toge)|Dec 20|:memo: glaze|0|||
 [#14859](https://github.com/conan-io/conan-center-index/pull/14859)|[SpaceIm](https://github.com/SpaceIm)|Dec 21|:memo: bison|3|Dec 27 :bell:||danimtb
 [#14892](https://github.com/conan-io/conan-center-index/pull/14892)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:memo: proj|0|:eyes:||
 [#14893](https://github.com/conan-io/conan-center-index/pull/14893)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:memo: b2|1|Dec 22 :bell:||jwillikers
@@ -82,11 +82,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15225](https://github.com/conan-io/conan-center-index/pull/15225)|[toge](https://github.com/toge)|Jan 11|:memo: cpp-httplib|0|||
 [#15229](https://github.com/conan-io/conan-center-index/pull/15229)|[vbieleny](https://github.com/vbieleny)|Jan 12|:memo: vorbis|1|Jan 12||jwillikers
 [#15231](https://github.com/conan-io/conan-center-index/pull/15231)|[jcar87](https://github.com/jcar87)|Jan 12|:memo: cryptopp|1|Jan 12||RubenRBS
-[#15232](https://github.com/conan-io/conan-center-index/pull/15232)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 12|:gear: .c3i|0|||
+[#15232](https://github.com/conan-io/conan-center-index/pull/15232)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 12|:gear: .c3i|1|Jan 12||prince-chrismc
 [#15233](https://github.com/conan-io/conan-center-index/pull/15233)|[okaerin](https://github.com/okaerin)|Jan 12|:stopwatch: drogon|0|||
 [#15237](https://github.com/conan-io/conan-center-index/pull/15237)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-cxx|0|||
 [#15238](https://github.com/conan-io/conan-center-index/pull/15238)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-c|0|||
-[#15239](https://github.com/conan-io/conan-center-index/pull/15239)|[SpaceIm](https://github.com/SpaceIm)|Jan 12|:stopwatch: opencv|0|||
+[#15239](https://github.com/conan-io/conan-center-index/pull/15239)|[SpaceIm](https://github.com/SpaceIm)|Jan 12|:stopwatch: opencv|2|Jan 12||prince-chrismc
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -107,7 +107,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 254
 	- Draft: 21
-	- Average Age: 70 days, 12 hours, and 34.40 minutes
+	- Average Age: 70 days, 13 hours, and 35.34 minutes
 	- Stop Label: 159
 	
 
