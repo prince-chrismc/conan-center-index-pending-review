@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15059](https://github.com/conan-io/conan-center-index/pull/15059)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: hidapi|2|Jan 5||jwillikers, MartinDelille
 [#15063](https://github.com/conan-io/conan-center-index/pull/15063)|[toge](https://github.com/toge)|Jan 2|:memo: dataframe|2|Jan 6||jwillikers
 [#15094](https://github.com/conan-io/conan-center-index/pull/15094)|[robomics](https://github.com/robomics)|Jan 3|:memo: hdf5|5|Jan 9||
-[#15098](https://github.com/conan-io/conan-center-index/pull/15098)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 3|:memo: qt|3|Jan 5||jwillikers
+[#15098](https://github.com/conan-io/conan-center-index/pull/15098)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 3|:stopwatch: qt|3|Jan 5||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
 [#15117](https://github.com/conan-io/conan-center-index/pull/15117)|[toge](https://github.com/toge)|Jan 5|:memo: luau|2|Jan 8||jwillikers
 [#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:stopwatch: geotrans|0|:eyes:||
@@ -81,13 +81,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#14920](https://github.com/conan-io/conan-center-index/pull/14920)|[czoido](https://github.com/czoido)|Dec 24|:memo: sdl|4|RubenRBS, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -96,9 +95,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 247
+	- Open: 246
 	- Draft: 20
-	- Average Age: 72 days, 9 hours, and 41.35 minutes
+	- Average Age: 72 days, 15 hours, and 49.97 minutes
 	- Stop Label: 161
 	
 
