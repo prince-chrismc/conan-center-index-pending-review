@@ -68,7 +68,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15159](https://github.com/conan-io/conan-center-index/pull/15159)|[toge](https://github.com/toge)|Jan 8|:memo: daw_json_link|2|Jan 11||prince-chrismc
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:memo: daw_header_libraries|1|Jan 9||
 [#15169](https://github.com/conan-io/conan-center-index/pull/15169)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 9|:memo: at-spi2-core|6|Jan 11||jwillikers
-[#15179](https://github.com/conan-io/conan-center-index/pull/15179)|[jcar87](https://github.com/jcar87)|Jan 9|:memo: autoconf|1|Jan 9||
+[#15179](https://github.com/conan-io/conan-center-index/pull/15179)|[jcar87](https://github.com/jcar87)|Jan 9|:memo: autoconf|2|Jan 12||danimtb
 [#15184](https://github.com/conan-io/conan-center-index/pull/15184)|[SpaceIm](https://github.com/SpaceIm)|Jan 9|:memo: protobuf|1|Jan 9||jwillikers
 [#15185](https://github.com/conan-io/conan-center-index/pull/15185)|[HappySeaFox](https://github.com/HappySeaFox)|Jan 9|:memo: libavif|0|||
 [#15188](https://github.com/conan-io/conan-center-index/pull/15188)|[toge](https://github.com/toge)|Jan 9|:memo: zxing-cpp|2|Jan 10||SpaceIm
@@ -100,10 +100,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 250
+	- Open: 251
 	- Draft: 20
-	- Average Age: 71 days, 18 hours, and 57.63 minutes
-	- Stop Label: 161
+	- Average Age: 71 days, 13 hours, and 8.99 minutes
+	- Stop Label: 162
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
