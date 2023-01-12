@@ -23,13 +23,13 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:new: libxls|3|Dec 27 :bell:||prince-chrismc
 [#13739](https://github.com/conan-io/conan-center-index/pull/13739)|[System-Arch](https://github.com/System-Arch)|Oct 25|:memo: cmake|44|Jan 7||
-[#14329](https://github.com/conan-io/conan-center-index/pull/14329)|[KGrzeg](https://github.com/KGrzeg)|Nov 21|:new: b64|4|Jan 6||
+[#14329](https://github.com/conan-io/conan-center-index/pull/14329)|[KGrzeg](https://github.com/KGrzeg)|Nov 21|:stopwatch: b64|4|Jan 6||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14474](https://github.com/conan-io/conan-center-index/pull/14474)|[kletoz](https://github.com/kletoz)|Nov 28|:memo: protobuf|3|Dec 20 :bell:||
 [#14612](https://github.com/conan-io/conan-center-index/pull/14612)|[psmitsu](https://github.com/psmitsu)|Dec 6|:stopwatch: libsafec|3|Dec 19 :bell:||jwillikers
@@ -77,9 +77,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15209](https://github.com/conan-io/conan-center-index/pull/15209)|[toge](https://github.com/toge)|Jan 10|:memo: bzip3|1|Jan 11||prince-chrismc
 [#15215](https://github.com/conan-io/conan-center-index/pull/15215)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 11|:green_book: docs|1|Jan 11||prince-chrismc
 [#15225](https://github.com/conan-io/conan-center-index/pull/15225)|[toge](https://github.com/toge)|Jan 11|:memo: cpp-httplib|0|||
-[#15229](https://github.com/conan-io/conan-center-index/pull/15229)|[vbieleny](https://github.com/vbieleny)|Jan 12|:stopwatch: vorbis|0|||
+[#15229](https://github.com/conan-io/conan-center-index/pull/15229)|[vbieleny](https://github.com/vbieleny)|Jan 12|:stopwatch: vorbis|1|Jan 12||jwillikers
 [#15231](https://github.com/conan-io/conan-center-index/pull/15231)|[jcar87](https://github.com/jcar87)|Jan 12|:stopwatch: cryptopp|1|Jan 12||RubenRBS
 [#15232](https://github.com/conan-io/conan-center-index/pull/15232)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 12|:gear: .c3i|0|||
+[#15233](https://github.com/conan-io/conan-center-index/pull/15233)|[okaerin](https://github.com/okaerin)|Jan 12|:stopwatch: drogon|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -98,9 +99,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 249
+	- Open: 250
 	- Draft: 21
-	- Average Age: 72 days, and 3.08 minutes
+	- Average Age: 71 days, 18 hours, and 7.22 minutes
 	- Stop Label: 161
 	
 
