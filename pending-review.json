@@ -240,9 +240,9 @@
       "Recipe": "glaze",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14857",
-      "LastCommitSHA": "8706b4b02e45b462ff798ff50a4d9cd8eff7a908",
-      "LastCommitAt": "2023-01-11T09:57:45Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e1c114ff3693187c2388113641c2a7537673df0f",
+      "LastCommitAt": "2023-01-12T20:59:14Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -774,6 +774,24 @@
             "SubmittedAt": "2023-01-09T02:46:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15100#pullrequestreview-1239894059"
          }
+      }
+   },
+   {
+      "Number": 15106,
+      "OpenedBy": "feltech",
+      "CreatedAt": "2023-01-04T12:49:56Z",
+      "Recipe": "openassetio",
+      "Change": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15106",
+      "LastCommitSHA": "84f70e9083811aefa3d78daf43f489ea36c4a42e",
+      "LastCommitAt": "2023-01-12T19:28:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
