@@ -39,7 +39,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|||
 [#14765](https://github.com/conan-io/conan-center-index/pull/14765)|[toge](https://github.com/toge)|Dec 15|:memo: kaitai_struct_cpp_stl_runtime|0|||
 [#14787](https://github.com/conan-io/conan-center-index/pull/14787)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: lcms|4|Jan 13||uilianries
-[#14857](https://github.com/conan-io/conan-center-index/pull/14857)|[toge](https://github.com/toge)|Dec 20|:memo: glaze|1|Jan 13||uilianries
+[#14857](https://github.com/conan-io/conan-center-index/pull/14857)|[toge](https://github.com/toge)|Dec 20|:memo: glaze|1|Jan 13||
 [#14892](https://github.com/conan-io/conan-center-index/pull/14892)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:memo: proj|0|:eyes:||
 [#14893](https://github.com/conan-io/conan-center-index/pull/14893)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:memo: b2|1|Dec 22 :bell:||jwillikers
 [#14906](https://github.com/conan-io/conan-center-index/pull/14906)|[SpaceIm](https://github.com/SpaceIm)|Dec 23|:memo: openssl|1|Jan 13||prince-chrismc
@@ -77,19 +77,17 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15247](https://github.com/conan-io/conan-center-index/pull/15247)|[RubenRBS](https://github.com/RubenRBS)|Jan 13|:memo: lz4|0|||
 [#15251](https://github.com/conan-io/conan-center-index/pull/15251)|[toge](https://github.com/toge)|Jan 13|:memo: daw_utf_range|0|||
 [#15252](https://github.com/conan-io/conan-center-index/pull/15252)|[jwillikers](https://github.com/jwillikers)|Jan 13|:memo: avahi|0|||
-[#15253](https://github.com/conan-io/conan-center-index/pull/15253)|[toge](https://github.com/toge)|Jan 13|:stopwatch: xtl|0|||
+[#15253](https://github.com/conan-io/conan-center-index/pull/15253)|[toge](https://github.com/toge)|Jan 13|:memo: xtl|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#14967](https://github.com/conan-io/conan-center-index/pull/14967)|[andrewwasielewski](https://github.com/andrewwasielewski)|Dec 27|:memo: dcmtk|2|ericLemanissier, uilianries
-[#15098](https://github.com/conan-io/conan-center-index/pull/15098)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 3|:memo: qt|5|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -98,10 +96,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 244
+	- Open: 243
 	- Draft: 22
-	- Average Age: 73 days, 3 hours, and 23.87 minutes
-	- Stop Label: 153
+	- Average Age: 73 days, 9 hours, and 1.85 minutes
+	- Stop Label: 154
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
