@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **62** pull requests currently under way :detective:
+There are **58** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -73,18 +73,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15150](https://github.com/conan-io/conan-center-index/pull/15150)|[SpaceIm](https://github.com/SpaceIm)|Jan 7|:memo: opusfile|1|Jan 9||jwillikers
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|1|Jan 11||
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:memo: android-ndk|1|Jan 12||prince-chrismc
-[#15159](https://github.com/conan-io/conan-center-index/pull/15159)|[toge](https://github.com/toge)|Jan 8|:memo: daw_json_link|2|Jan 11||prince-chrismc
 [#15161](https://github.com/conan-io/conan-center-index/pull/15161)|[toge](https://github.com/toge)|Jan 8|:memo: daw_header_libraries|1|Jan 9||
 [#15184](https://github.com/conan-io/conan-center-index/pull/15184)|[SpaceIm](https://github.com/SpaceIm)|Jan 9|:memo: protobuf|1|Jan 9||jwillikers
 [#15185](https://github.com/conan-io/conan-center-index/pull/15185)|[HappySeaFox](https://github.com/HappySeaFox)|Jan 9|:memo: libavif|0|||
 [#15188](https://github.com/conan-io/conan-center-index/pull/15188)|[toge](https://github.com/toge)|Jan 9|:memo: zxing-cpp|2|Jan 10||SpaceIm
 [#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|1|Jan 11||prince-chrismc
-[#15207](https://github.com/conan-io/conan-center-index/pull/15207)|[jcar87](https://github.com/jcar87)|Jan 10|:memo: civetweb|2|Jan 11||prince-chrismc
 [#15208](https://github.com/conan-io/conan-center-index/pull/15208)|[toge](https://github.com/toge)|Jan 10|:memo: libucl|0|||
-[#15209](https://github.com/conan-io/conan-center-index/pull/15209)|[toge](https://github.com/toge)|Jan 10|:memo: bzip3|1|Jan 11||prince-chrismc
-[#15215](https://github.com/conan-io/conan-center-index/pull/15215)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 11|:green_book: docs|1|Jan 11||prince-chrismc
 [#15225](https://github.com/conan-io/conan-center-index/pull/15225)|[toge](https://github.com/toge)|Jan 11|:memo: cpp-httplib|0|||
-[#15229](https://github.com/conan-io/conan-center-index/pull/15229)|[vbieleny](https://github.com/vbieleny)|Jan 12|:memo: vorbis|1|Jan 12||jwillikers
+[#15229](https://github.com/conan-io/conan-center-index/pull/15229)|[vbieleny](https://github.com/vbieleny)|Jan 12|:memo: vorbis|2|Jan 13||jwillikers, ericLemanissier
 [#15231](https://github.com/conan-io/conan-center-index/pull/15231)|[jcar87](https://github.com/jcar87)|Jan 12|:memo: cryptopp|1|Jan 12||RubenRBS
 [#15233](https://github.com/conan-io/conan-center-index/pull/15233)|[okaerin](https://github.com/okaerin)|Jan 12|:stopwatch: drogon|0|||
 [#15237](https://github.com/conan-io/conan-center-index/pull/15237)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-cxx|0|||
@@ -93,12 +89,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
+[#15209](https://github.com/conan-io/conan-center-index/pull/15209)|[toge](https://github.com/toge)|Jan 10|:memo: bzip3|2|prince-chrismc, ericLemanissier
+[#15215](https://github.com/conan-io/conan-center-index/pull/15215)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 11|:green_book: docs|2|prince-chrismc, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -107,9 +105,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 252
+	- Open: 250
 	- Draft: 21
-	- Average Age: 71 days, 8 hours, and 23.82 minutes
+	- Average Age: 71 days, 22 hours, and 19.18 minutes
 	- Stop Label: 155
 	
 
