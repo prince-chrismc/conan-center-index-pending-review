@@ -1085,24 +1085,6 @@
       }
    },
    {
-      "Number": 15247,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-01-13T15:19:02Z",
-      "Recipe": "lz4",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15247",
-      "LastCommitSHA": "d49b7d29524e446a40c8a89c554c36338e96bae4",
-      "LastCommitAt": "2023-01-13T15:23:26Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15251,
       "OpenedBy": "toge",
       "CreatedAt": "2023-01-13T16:03:27Z",
