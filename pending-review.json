@@ -1286,5 +1286,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15243,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2023-01-13T10:15:20Z",
+      "Recipe": "libjpeg",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15243",
+      "LastCommitSHA": "33fdca9f6aba87c614bca5ed99346f2f45704952",
+      "LastCommitAt": "2023-01-13T10:14:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
