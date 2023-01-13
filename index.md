@@ -54,7 +54,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15012](https://github.com/conan-io/conan-center-index/pull/15012)|[SpaceIm](https://github.com/SpaceIm)|Dec 30|:memo: hyperscan|2|Dec 30 :bell:||prince-chrismc
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|1|Jan 2||
 [#15026](https://github.com/conan-io/conan-center-index/pull/15026)|[toge](https://github.com/toge)|Dec 31|:memo: libraw|3|Jan 8||jwillikers
-[#15040](https://github.com/conan-io/conan-center-index/pull/15040)|[toge](https://github.com/toge)|Dec 31|:memo: mariadb-connector-c|0|||
+[#15040](https://github.com/conan-io/conan-center-index/pull/15040)|[toge](https://github.com/toge)|Dec 31|:memo: mariadb-connector-c|0|:eyes:||
 [#15059](https://github.com/conan-io/conan-center-index/pull/15059)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: hidapi|2|Jan 5||jwillikers, MartinDelille
 [#15094](https://github.com/conan-io/conan-center-index/pull/15094)|[robomics](https://github.com/robomics)|Jan 3|:memo: hdf5|5|Jan 9||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
@@ -70,12 +70,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|1|Jan 11||prince-chrismc
 [#15208](https://github.com/conan-io/conan-center-index/pull/15208)|[toge](https://github.com/toge)|Jan 10|:memo: libucl|0|||
 [#15225](https://github.com/conan-io/conan-center-index/pull/15225)|[toge](https://github.com/toge)|Jan 11|:memo: cpp-httplib|1|Jan 13||ericLemanissier
-[#15229](https://github.com/conan-io/conan-center-index/pull/15229)|[vbieleny](https://github.com/vbieleny)|Jan 12|:memo: vorbis|2|Jan 13||jwillikers, ericLemanissier
 [#15233](https://github.com/conan-io/conan-center-index/pull/15233)|[okaerin](https://github.com/okaerin)|Jan 12|:stopwatch: drogon|0|||
 [#15237](https://github.com/conan-io/conan-center-index/pull/15237)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-cxx|0|||
 [#15238](https://github.com/conan-io/conan-center-index/pull/15238)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-c|0|||
+[#15247](https://github.com/conan-io/conan-center-index/pull/15247)|[RubenRBS](https://github.com/RubenRBS)|Jan 13|:memo: lz4|4|Jan 13||prince-chrismc
 [#15251](https://github.com/conan-io/conan-center-index/pull/15251)|[toge](https://github.com/toge)|Jan 13|:memo: daw_utf_range|0|||
-[#15252](https://github.com/conan-io/conan-center-index/pull/15252)|[jwillikers](https://github.com/jwillikers)|Jan 13|:memo: avahi|0|||
+[#15252](https://github.com/conan-io/conan-center-index/pull/15252)|[jwillikers](https://github.com/jwillikers)|Jan 13|:memo: avahi|1|Jan 13||prince-chrismc
 [#15253](https://github.com/conan-io/conan-center-index/pull/15253)|[toge](https://github.com/toge)|Jan 13|:memo: xtl|0|||
 
 
@@ -95,10 +95,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 242
+	- Open: 241
 	- Draft: 22
-	- Average Age: 73 days, 19 hours, and 13.33 minutes
-	- Stop Label: 154
+	- Average Age: 74 days, 3 hours, and 26.43 minutes
+	- Stop Label: 155
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
