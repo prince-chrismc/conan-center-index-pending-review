@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **59** pull requests currently under way :detective:
+There are **57** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -61,8 +61,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|1|Jan 2||
 [#15026](https://github.com/conan-io/conan-center-index/pull/15026)|[toge](https://github.com/toge)|Dec 31|:memo: libraw|3|Jan 8||jwillikers
 [#15040](https://github.com/conan-io/conan-center-index/pull/15040)|[toge](https://github.com/toge)|Dec 31|:memo: mariadb-connector-c|0|||
-[#15046](https://github.com/conan-io/conan-center-index/pull/15046)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:memo: zimg|1|Jan 3||jwillikers
-[#15057](https://github.com/conan-io/conan-center-index/pull/15057)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:memo: libusb|2|Jan 5||jwillikers, MartinDelille
 [#15059](https://github.com/conan-io/conan-center-index/pull/15059)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: hidapi|2|Jan 5||jwillikers, MartinDelille
 [#15063](https://github.com/conan-io/conan-center-index/pull/15063)|[toge](https://github.com/toge)|Jan 2|:memo: dataframe|2|Jan 6||jwillikers
 [#15094](https://github.com/conan-io/conan-center-index/pull/15094)|[robomics](https://github.com/robomics)|Jan 3|:memo: hdf5|5|Jan 9||
@@ -72,7 +70,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15117](https://github.com/conan-io/conan-center-index/pull/15117)|[toge](https://github.com/toge)|Jan 5|:memo: luau|2|Jan 8||jwillikers
 [#15125](https://github.com/conan-io/conan-center-index/pull/15125)|[toge](https://github.com/toge)|Jan 5|:new: ls-qpack|0|||
 [#15138](https://github.com/conan-io/conan-center-index/pull/15138)|[toge](https://github.com/toge)|Jan 6|:memo: czmq|8|Jan 13||jwillikers
-[#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:stopwatch: geotrans|2|Jan 13||
+[#15148](https://github.com/conan-io/conan-center-index/pull/15148)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 7|:memo: geotrans|2|Jan 13||
 [#15150](https://github.com/conan-io/conan-center-index/pull/15150)|[SpaceIm](https://github.com/SpaceIm)|Jan 7|:memo: opusfile|1|Jan 9||jwillikers
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|1|Jan 11||
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:memo: android-ndk|1|Jan 12||prince-chrismc
@@ -90,12 +88,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
+[#15057](https://github.com/conan-io/conan-center-index/pull/15057)|[SpaceIm](https://github.com/SpaceIm)|Jan 1|:memo: libusb|3|jwillikers, MartinDelille, uilianries
 
 
 #### :clipboard: Statistics
@@ -105,8 +104,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
 	- Open: 245
-	- Draft: 21
-	- Average Age: 73 days, 13 hours, and 48.44 minutes
+	- Draft: 22
+	- Average Age: 73 days, 13 hours, and 29.62 minutes
 	- Stop Label: 153
 	
 
