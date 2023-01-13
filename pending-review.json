@@ -861,31 +861,6 @@
       }
    },
    {
-      "Number": 15100,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2023-01-04T00:56:46Z",
-      "Recipe": "xxhash",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15100",
-      "LastCommitSHA": "c00b4fe9674d71f1c0da2c4cc99900ae9ec81fc0",
-      "LastCommitAt": "2023-01-09T10:46:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-13T05:53:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15100#pullrequestreview-1246940697"
-         }
-      }
-   },
-   {
       "Number": 15106,
       "OpenedBy": "feltech",
       "CreatedAt": "2023-01-04T12:49:56Z",
@@ -1187,32 +1162,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 15209,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-10T21:00:16Z",
-      "Recipe": "bzip3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15209",
-      "LastCommitSHA": "afb64d5aa177fd166448e86f90dc853a3bba7162",
-      "LastCommitAt": "2023-01-10T20:59:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-01-13T06:36:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15209#pullrequestreview-1246974093"
-         }
       }
    },
    {
