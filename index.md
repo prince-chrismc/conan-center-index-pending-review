@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **60** pull requests currently under way :detective:
+There are **59** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -83,7 +83,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15225](https://github.com/conan-io/conan-center-index/pull/15225)|[toge](https://github.com/toge)|Jan 11|:memo: cpp-httplib|0|||
 [#15229](https://github.com/conan-io/conan-center-index/pull/15229)|[vbieleny](https://github.com/vbieleny)|Jan 12|:memo: vorbis|1|Jan 12||jwillikers
 [#15231](https://github.com/conan-io/conan-center-index/pull/15231)|[jcar87](https://github.com/jcar87)|Jan 12|:memo: cryptopp|1|Jan 12||RubenRBS
-[#15232](https://github.com/conan-io/conan-center-index/pull/15232)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 12|:gear: .c3i|1|Jan 12||prince-chrismc
 [#15233](https://github.com/conan-io/conan-center-index/pull/15233)|[okaerin](https://github.com/okaerin)|Jan 12|:stopwatch: drogon|0|||
 [#15237](https://github.com/conan-io/conan-center-index/pull/15237)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-cxx|0|||
 [#15238](https://github.com/conan-io/conan-center-index/pull/15238)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-c|0|||
@@ -105,9 +104,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 254
+	- Open: 253
 	- Draft: 21
-	- Average Age: 70 days, 15 hours, and 47.80 minutes
+	- Average Age: 70 days, 23 hours, and 58.76 minutes
 	- Stop Label: 159
 	
 
