@@ -794,33 +794,6 @@
       }
    },
    {
-      "Number": 15057,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-01T21:29:36Z",
-      "Recipe": "libusb",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15057",
-      "LastCommitSHA": "2354878dd7995e9ead2f6826be16c90a460553e2",
-      "LastCommitAt": "2023-01-02T22:06:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "MartinDelille",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-13T13:50:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15057#pullrequestreview-1247668285"
-         }
-      }
-   },
-   {
       "Number": 15059,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-01-02T01:11:00Z",
@@ -843,31 +816,6 @@
             "ReviewerName": "MartinDelille",
             "SubmittedAt": "2023-01-05T23:04:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15059#pullrequestreview-1238154965"
-         }
-      }
-   },
-   {
-      "Number": 15063,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-02T13:22:12Z",
-      "Recipe": "dataframe",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15063",
-      "LastCommitSHA": "758c43118ddcbc3010a1c0b463dde6f1bdb1a0ae",
-      "LastCommitAt": "2023-01-06T18:51:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-06T19:48:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15063#pullrequestreview-1239304255"
          }
       }
    },
@@ -905,17 +853,18 @@
       "LastCommitAt": "2023-01-12T06:34:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-12T12:05:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15098#pullrequestreview-1245479575"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-01-13T14:39:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15098#pullrequestreview-1247745348"
          }
       }
    },
@@ -1068,29 +1017,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-01-09T13:30:02Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15150#pullrequestreview-1240489605"
-         }
-      }
-   },
-   {
-      "Number": 15151,
-      "OpenedBy": "uyha",
-      "CreatedAt": "2023-01-07T23:01:46Z",
-      "Recipe": "lely-core",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15151",
-      "LastCommitSHA": "14dfa3bc40cdee44c25194aa36d2ec301966b05d",
-      "LastCommitAt": "2023-01-11T13:47:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-01-11T13:28:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15151#pullrequestreview-1243889947"
          }
       }
    },
