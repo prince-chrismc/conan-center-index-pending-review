@@ -794,31 +794,6 @@
       }
    },
    {
-      "Number": 15046,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-01T09:48:47Z",
-      "Recipe": "zimg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15046",
-      "LastCommitSHA": "7d098b115ea378008f5e420521054415e943f594",
-      "LastCommitAt": "2022-12-31T20:20:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-03T15:10:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15046#pullrequestreview-1234692583"
-         }
-      }
-   },
-   {
       "Number": 15057,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-01-01T21:29:36Z",
@@ -829,18 +804,19 @@
       "LastCommitAt": "2023-01-02T22:06:04Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 3,
+         "TeamApproval": true,
          "Approvals": [
             "jwillikers",
-            "MartinDelille"
+            "MartinDelille",
+            "uilianries"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2023-01-05T23:02:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15057#pullrequestreview-1238153658"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-01-13T13:50:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15057#pullrequestreview-1247668285"
          }
       }
    },
@@ -1056,7 +1032,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15148",
       "LastCommitSHA": "f2784ffd5b9b23a93b0cbb8cb64b8487dc2dec7c",
       "LastCommitAt": "2023-01-13T12:53:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
