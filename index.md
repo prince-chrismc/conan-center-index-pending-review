@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **42** pull requests currently under way :detective:
+There are **43** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -67,6 +67,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15251](https://github.com/conan-io/conan-center-index/pull/15251)|[toge](https://github.com/toge)|Jan 13|:memo: daw_utf_range|0|||
 [#15253](https://github.com/conan-io/conan-center-index/pull/15253)|[toge](https://github.com/toge)|Jan 13|:memo: xtl|0|||
 [#15255](https://github.com/conan-io/conan-center-index/pull/15255)|[marlamb](https://github.com/marlamb)|Jan 13|:memo: opencv|1|Jan 14||prince-chrismc
+[#15256](https://github.com/conan-io/conan-center-index/pull/15256)|[toge](https://github.com/toge)|Jan 14|:memo: libwebp|0|||
 [#15257](https://github.com/conan-io/conan-center-index/pull/15257)|[toge](https://github.com/toge)|Jan 14|:memo: xpack|0|||
 [#15259](https://github.com/conan-io/conan-center-index/pull/15259)|[toge](https://github.com/toge)|Jan 14|:memo: libdeflate|0|||
 
@@ -79,7 +80,7 @@ Currently **2** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:memo: qt|8|jwillikers, ericLemanissier, prince-chrismc
+[#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:warning: qt|8|jwillikers, ericLemanissier, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -90,8 +91,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 230
 	- Draft: 21
-	- Average Age: 77 days, 12 hours, and 0.98 minutes
-	- Stop Label: 152
+	- Average Age: 77 days, 12 hours, and 59.53 minutes
+	- Stop Label: 151
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
