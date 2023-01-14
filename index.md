@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **52** pull requests currently under way :detective:
+There are **53** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -79,6 +79,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15252](https://github.com/conan-io/conan-center-index/pull/15252)|[jwillikers](https://github.com/jwillikers)|Jan 13|:memo: avahi|1|Jan 13||prince-chrismc
 [#15253](https://github.com/conan-io/conan-center-index/pull/15253)|[toge](https://github.com/toge)|Jan 13|:memo: xtl|0|||
 [#15255](https://github.com/conan-io/conan-center-index/pull/15255)|[marlamb](https://github.com/marlamb)|Jan 13|:stopwatch: opencv|0|||
+[#15256](https://github.com/conan-io/conan-center-index/pull/15256)|[toge](https://github.com/toge)|Jan 14|:stopwatch: libwebp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -97,9 +98,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 242
+	- Open: 243
 	- Draft: 22
-	- Average Age: 73 days, 21 hours, and 5.33 minutes
+	- Average Age: 73 days, 17 hours, and 47.73 minutes
 	- Stop Label: 154
 	
 
