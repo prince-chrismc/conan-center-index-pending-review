@@ -611,31 +611,6 @@
       }
    },
    {
-      "Number": 15148,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-01-07T07:00:47Z",
-      "Recipe": "geotrans",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15148",
-      "LastCommitSHA": "f2784ffd5b9b23a93b0cbb8cb64b8487dc2dec7c",
-      "LastCommitAt": "2023-01-13T12:53:26Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-13T15:53:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15148#pullrequestreview-1247890676"
-         }
-      }
-   },
-   {
       "Number": 15151,
       "OpenedBy": "uyha",
       "CreatedAt": "2023-01-07T23:01:46Z",
@@ -895,11 +870,18 @@
       "LastCommitAt": "2023-01-13T22:25:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-01-14T17:23:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15255#pullrequestreview-1248902372"
+         }
       }
    },
    {
@@ -930,24 +912,6 @@
       "LastCommitSHA": "116917884df02c43f206b5ecbf51c0abd2a50575",
       "LastCommitAt": "2023-01-14T12:25:20Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15260,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-14T16:37:17Z",
-      "Recipe": "kplot",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15260",
-      "LastCommitSHA": "1618c95f763f32e12c8bb8d95cb06d71d901dea7",
-      "LastCommitAt": "2023-01-14T16:36:05Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
