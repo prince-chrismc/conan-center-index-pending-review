@@ -72,14 +72,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#15059](https://github.com/conan-io/conan-center-index/pull/15059)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: hidapi|3|jwillikers, MartinDelille, prince-chrismc
-[#15138](https://github.com/conan-io/conan-center-index/pull/15138)|[toge](https://github.com/toge)|Jan 6|:memo: czmq|10|jwillikers, prince-chrismc
 [#15150](https://github.com/conan-io/conan-center-index/pull/15150)|[SpaceIm](https://github.com/SpaceIm)|Jan 7|:memo: opusfile|3|jwillikers, prince-chrismc
 [#15184](https://github.com/conan-io/conan-center-index/pull/15184)|[SpaceIm](https://github.com/SpaceIm)|Jan 9|:memo: protobuf|2|jwillikers, prince-chrismc
 [#15185](https://github.com/conan-io/conan-center-index/pull/15185)|[HappySeaFox](https://github.com/HappySeaFox)|Jan 9|:memo: libavif|2|ericLemanissier, prince-chrismc
@@ -93,9 +91,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 238
+	- Open: 236
 	- Draft: 22
-	- Average Age: 74 days, 21 hours, and 16.63 minutes
+	- Average Age: 75 days, 11 hours, and 25.96 minutes
 	- Stop Label: 154
 	
 
