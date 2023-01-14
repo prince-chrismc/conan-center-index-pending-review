@@ -824,24 +824,6 @@
       }
    },
    {
-      "Number": 15245,
-      "OpenedBy": "jcar87",
-      "CreatedAt": "2023-01-13T13:52:41Z",
-      "Recipe": "automake",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15245",
-      "LastCommitSHA": "caa55a019c1f3fbfc4eb0ca62b19326f7acb55e6",
-      "LastCommitAt": "2023-01-13T19:06:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15247,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-01-13T15:19:02Z",
