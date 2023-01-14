@@ -72,14 +72,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **11** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#14787](https://github.com/conan-io/conan-center-index/pull/14787)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: lcms|5|uilianries, prince-chrismc
-[#14893](https://github.com/conan-io/conan-center-index/pull/14893)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:memo: b2|3|jwillikers, prince-chrismc
 [#15010](https://github.com/conan-io/conan-center-index/pull/15010)|[SpaceIm](https://github.com/SpaceIm)|Dec 30|:memo: glu|2|ericLemanissier, prince-chrismc
 [#15026](https://github.com/conan-io/conan-center-index/pull/15026)|[toge](https://github.com/toge)|Dec 31|:memo: libraw|4|jwillikers, prince-chrismc
 [#15059](https://github.com/conan-io/conan-center-index/pull/15059)|[SpaceIm](https://github.com/SpaceIm)|Jan 2|:memo: hidapi|3|jwillikers, MartinDelille, prince-chrismc
@@ -98,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 243
+	- Open: 241
 	- Draft: 22
-	- Average Age: 73 days, 15 hours, and 1.56 minutes
+	- Average Age: 74 days, 1 hours, and 38.38 minutes
 	- Stop Label: 154
 	
 
