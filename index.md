@@ -73,12 +73,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
+[#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:memo: qt|8|jwillikers, ericLemanissier, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -89,8 +90,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 230
 	- Draft: 21
-	- Average Age: 77 days, 10 hours, and 58.05 minutes
-	- Stop Label: 153
+	- Average Age: 77 days, 12 hours, and 0.98 minutes
+	- Stop Label: 152
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
