@@ -1653,5 +1653,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15277,
+      "OpenedBy": "erikogenvik",
+      "CreatedAt": "2023-01-15T14:01:11Z",
+      "Recipe": "fltk",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15277",
+      "LastCommitSHA": "1e87c77bf242c93136932a4c91d016fb2ab3e8b2",
+      "LastCommitAt": "2023-01-15T13:55:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15278,
+      "OpenedBy": "scandyna",
+      "CreatedAt": "2023-01-15T14:01:15Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15278",
+      "LastCommitSHA": "56a808257875c29a6f901427cc0de5d656a5e482",
+      "LastCommitAt": "2023-01-15T10:33:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
