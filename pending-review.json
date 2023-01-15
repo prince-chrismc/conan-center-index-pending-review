@@ -1247,7 +1247,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15193",
       "LastCommitSHA": "2e14f1b744b4e7ff2655efa057cd23b38b8c24c0",
       "LastCommitAt": "2023-01-15T01:44:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1564,16 +1564,14 @@
       "Recipe": "libdeflate",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15259",
-      "LastCommitSHA": "116917884df02c43f206b5ecbf51c0abd2a50575",
-      "LastCommitAt": "2023-01-14T12:25:20Z",
+      "LastCommitSHA": "8647b31e9f068581c55687ca7d7a6e30d3a3e4d8",
+      "LastCommitAt": "2023-01-15T11:19:38Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -1646,6 +1644,24 @@
       "LastCommitSHA": "a25ccafde6af44f32d873c5bd2e1ab8f6eb1bc50",
       "LastCommitAt": "2023-01-15T07:38:52Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15274,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-01-15T12:03:02Z",
+      "Recipe": "libavrocpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15274",
+      "LastCommitSHA": "7756f3096be98a46b4add945047c2233235d5b70",
+      "LastCommitAt": "2023-01-15T12:00:35Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
