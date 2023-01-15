@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **77** pull requests currently under way :detective:
+There are **71** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -46,7 +46,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14803](https://github.com/conan-io/conan-center-index/pull/14803)|[jellespijker](https://github.com/jellespijker)|Dec 18|:new: vtu11|0|:eyes:||
 [#14823](https://github.com/conan-io/conan-center-index/pull/14823)|[toge](https://github.com/toge)|Dec 19|:memo: g3log|2|Dec 21 :bell:||RubenRBS
 [#14834](https://github.com/conan-io/conan-center-index/pull/14834)|[toge](https://github.com/toge)|Dec 20|:memo: opentelemetry-cpp|3|Jan 15||prince-chrismc
-[#14843](https://github.com/conan-io/conan-center-index/pull/14843)|[toge](https://github.com/toge)|Dec 20|:memo: libgd|1|Dec 28 :bell:||jwillikers
 [#14857](https://github.com/conan-io/conan-center-index/pull/14857)|[toge](https://github.com/toge)|Dec 20|:memo: glaze|1|Jan 13||
 [#14864](https://github.com/conan-io/conan-center-index/pull/14864)|[theirix](https://github.com/theirix)|Dec 21|:memo: leptonica|6|Dec 27 :bell:||
 [#14871](https://github.com/conan-io/conan-center-index/pull/14871)|[HappySeaFox](https://github.com/HappySeaFox)|Dec 21|:memo: sail|2|Dec 22 :bell:||
@@ -57,7 +56,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14906](https://github.com/conan-io/conan-center-index/pull/14906)|[SpaceIm](https://github.com/SpaceIm)|Dec 23|:memo: openssl|1|Jan 13||prince-chrismc
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
-[#14923](https://github.com/conan-io/conan-center-index/pull/14923)|[toge](https://github.com/toge)|Dec 24|:memo: mongo-c-driver|1|Jan 5||SpaceIm
 [#14924](https://github.com/conan-io/conan-center-index/pull/14924)|[toge](https://github.com/toge)|Dec 24|:memo: mongo-cxx-driver|1|Jan 5||
 [#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|0|||
 [#14930](https://github.com/conan-io/conan-center-index/pull/14930)|[planetmarshall](https://github.com/planetmarshall)|Dec 25|:memo: glibmm|0|:eyes:||
@@ -66,7 +64,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14956](https://github.com/conan-io/conan-center-index/pull/14956)|[mzdun](https://github.com/mzdun)|Dec 27|:new: mbits-utfconv|1|Jan 15||prince-chrismc
 [#14958](https://github.com/conan-io/conan-center-index/pull/14958)|[mzdun](https://github.com/mzdun)|Dec 27|:new: mbits-diags|1|Jan 15||prince-chrismc
 [#14981](https://github.com/conan-io/conan-center-index/pull/14981)|[toge](https://github.com/toge)|Dec 28|:memo: uwebsockets|1|Jan 5||
-[#14986](https://github.com/conan-io/conan-center-index/pull/14986)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:memo: vulkan-loader|1|Dec 28 :bell:||jwillikers
 [#14996](https://github.com/conan-io/conan-center-index/pull/14996)|[toge](https://github.com/toge)|Dec 29|:memo: tesseract|1|Jan 15||prince-chrismc
 [#15000](https://github.com/conan-io/conan-center-index/pull/15000)|[toge](https://github.com/toge)|Dec 29|:new: miniscript|1|Jan 2 :bell:||
 [#15004](https://github.com/conan-io/conan-center-index/pull/15004)|[prince-chrismc](https://github.com/prince-chrismc)|Dec 29|:green_book: docs|38|Jan 4||SSE4
@@ -74,10 +71,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15012](https://github.com/conan-io/conan-center-index/pull/15012)|[SpaceIm](https://github.com/SpaceIm)|Dec 30|:memo: hyperscan|2|Dec 30 :bell:||prince-chrismc
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|1|Jan 2 :bell:||
 [#15018](https://github.com/conan-io/conan-center-index/pull/15018)|[OzanCansel](https://github.com/OzanCansel)|Dec 30|:memo: hazelcast-cpp-client|3|Jan 15||prince-chrismc
-[#15029](https://github.com/conan-io/conan-center-index/pull/15029)|[toge](https://github.com/toge)|Dec 31|:memo: lief|2|Jan 6||SpaceIm, jwillikers
-[#15034](https://github.com/conan-io/conan-center-index/pull/15034)|[toge](https://github.com/toge)|Dec 31|:memo: drogon|1|Jan 3||jwillikers
 [#15040](https://github.com/conan-io/conan-center-index/pull/15040)|[toge](https://github.com/toge)|Dec 31|:memo: mariadb-connector-c|0|:eyes:||
-[#15048](https://github.com/conan-io/conan-center-index/pull/15048)|[toge](https://github.com/toge)|Jan 1|:memo: libdxfrw|1|Jan 6||jwillikers
 [#15051](https://github.com/conan-io/conan-center-index/pull/15051)|[toge](https://github.com/toge)|Jan 1|:memo: zziplib|0|:eyes:||
 [#15069](https://github.com/conan-io/conan-center-index/pull/15069)|[toge](https://github.com/toge)|Jan 2|:memo: crowcpp-crow|4|Jan 15||prince-chrismc
 [#15094](https://github.com/conan-io/conan-center-index/pull/15094)|[robomics](https://github.com/robomics)|Jan 3|:memo: hdf5|5|Jan 9||
@@ -108,14 +102,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
 [#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:warning: qt|8|jwillikers, ericLemanissier, prince-chrismc
-[#15064](https://github.com/conan-io/conan-center-index/pull/15064)|[toge](https://github.com/toge)|Jan 2|:memo: mppp|2|jwillikers, prince-chrismc
+[#14923](https://github.com/conan-io/conan-center-index/pull/14923)|[toge](https://github.com/toge)|Dec 24|:memo: mongo-c-driver|2|SpaceIm, prince-chrismc
+[#14986](https://github.com/conan-io/conan-center-index/pull/14986)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:memo: vulkan-loader|2|jwillikers, prince-chrismc
+[#15029](https://github.com/conan-io/conan-center-index/pull/15029)|[toge](https://github.com/toge)|Dec 31|:memo: lief|3|SpaceIm, jwillikers, prince-chrismc
+[#15034](https://github.com/conan-io/conan-center-index/pull/15034)|[toge](https://github.com/toge)|Dec 31|:memo: drogon|2|jwillikers, prince-chrismc
+[#15048](https://github.com/conan-io/conan-center-index/pull/15048)|[toge](https://github.com/toge)|Jan 1|:memo: libdxfrw|2|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -124,9 +122,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 227
+	- Open: 225
 	- Draft: 21
-	- Average Age: 78 days, 15 hours, and 32.39 minutes
+	- Average Age: 79 days, 5 hours, and 16.39 minutes
 	- Stop Label: 108
 	
 
