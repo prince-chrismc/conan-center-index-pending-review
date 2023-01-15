@@ -100,7 +100,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15278](https://github.com/conan-io/conan-center-index/pull/15278)|[scandyna](https://github.com/scandyna)|Jan 15|:stopwatch: qt|0|||
 [#15280](https://github.com/conan-io/conan-center-index/pull/15280)|[toge](https://github.com/toge)|Jan 15|:memo: miniz|0|||
 [#15282](https://github.com/conan-io/conan-center-index/pull/15282)|[StellaSmith](https://github.com/StellaSmith)|Jan 15|:stopwatch: ctre|0|||
-[#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:stopwatch: gcc|0|||
+[#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -122,8 +122,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 230
 	- Draft: 26
-	- Average Age: 77 days, 13 hours, and 34.12 minutes
-	- Stop Label: 109
+	- Average Age: 77 days, 14 hours, and 36.25 minutes
+	- Stop Label: 110
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
