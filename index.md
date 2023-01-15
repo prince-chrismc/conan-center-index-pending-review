@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **72** pull requests currently under way :detective:
+There are **74** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -98,7 +98,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15257](https://github.com/conan-io/conan-center-index/pull/15257)|[toge](https://github.com/toge)|Jan 14|:memo: xpack|1|Jan 15||prince-chrismc
 [#15259](https://github.com/conan-io/conan-center-index/pull/15259)|[toge](https://github.com/toge)|Jan 14|:memo: libdeflate|1|Jan 15||prince-chrismc
 [#15260](https://github.com/conan-io/conan-center-index/pull/15260)|[toge](https://github.com/toge)|Jan 14|:new: kplot|0|||
+[#15265](https://github.com/conan-io/conan-center-index/pull/15265)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: jsoncpp|0|||
 [#15266](https://github.com/conan-io/conan-center-index/pull/15266)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: openexr|0|||
+[#15267](https://github.com/conan-io/conan-center-index/pull/15267)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: benchmark|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -117,10 +119,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 227
-	- Draft: 23
-	- Average Age: 78 days, 9 hours, and 35.00 minutes
-	- Stop Label: 111
+	- Open: 226
+	- Draft: 24
+	- Average Age: 78 days, 18 hours, and 50.34 minutes
+	- Stop Label: 109
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
