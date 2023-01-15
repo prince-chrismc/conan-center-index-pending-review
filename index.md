@@ -38,7 +38,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14544](https://github.com/conan-io/conan-center-index/pull/14544)|[System-Arch](https://github.com/System-Arch)|Dec 2|:memo: m4|6|Jan 4||
 [#14574](https://github.com/conan-io/conan-center-index/pull/14574)|[tiolan](https://github.com/tiolan)|Dec 4|:memo: fruit|2|Dec 23 :bell:||
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27 :bell:||uilianries
-[#14635](https://github.com/conan-io/conan-center-index/pull/14635)|[wolfee001](https://github.com/wolfee001)|Dec 7|:memo: json_dto|5|Dec 31 :bell:||
+[#14635](https://github.com/conan-io/conan-center-index/pull/14635)|[wolfee001](https://github.com/wolfee001)|Dec 7|:memo: json_dto|6|Jan 15||SpaceIm
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:memo: arrow|3|Jan 6||prince-chrismc
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|||
 [#14744](https://github.com/conan-io/conan-center-index/pull/14744)|[calebkiage](https://github.com/calebkiage)|Dec 14|:memo: libpq|25|Dec 17 :bell:||
@@ -76,7 +76,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15069](https://github.com/conan-io/conan-center-index/pull/15069)|[toge](https://github.com/toge)|Jan 2|:memo: crowcpp-crow|4|Jan 15||prince-chrismc
 [#15094](https://github.com/conan-io/conan-center-index/pull/15094)|[robomics](https://github.com/robomics)|Jan 3|:memo: hdf5|5|Jan 9||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|0|:eyes:||
-[#15125](https://github.com/conan-io/conan-center-index/pull/15125)|[toge](https://github.com/toge)|Jan 5|:new: ls-qpack|0|||
+[#15125](https://github.com/conan-io/conan-center-index/pull/15125)|[toge](https://github.com/toge)|Jan 5|:new: ls-qpack|0|:eyes:||
 [#15126](https://github.com/conan-io/conan-center-index/pull/15126)|[toge](https://github.com/toge)|Jan 5|:memo: erikzenker-hsm|1|Jan 15||prince-chrismc
 [#15135](https://github.com/conan-io/conan-center-index/pull/15135)|[jwillikers](https://github.com/jwillikers)|Jan 6|:memo: libcap|1|Jan 8||prince-chrismc
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|2|Jan 13||
@@ -96,13 +96,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15253](https://github.com/conan-io/conan-center-index/pull/15253)|[toge](https://github.com/toge)|Jan 13|:memo: xtl|1|Jan 15||prince-chrismc
 [#15255](https://github.com/conan-io/conan-center-index/pull/15255)|[marlamb](https://github.com/marlamb)|Jan 13|:memo: opencv|1|Jan 14||prince-chrismc
 [#15257](https://github.com/conan-io/conan-center-index/pull/15257)|[toge](https://github.com/toge)|Jan 14|:memo: xpack|1|Jan 15||prince-chrismc
-[#15259](https://github.com/conan-io/conan-center-index/pull/15259)|[toge](https://github.com/toge)|Jan 14|:memo: libdeflate|2|Jan 15||SpaceIm
 [#15260](https://github.com/conan-io/conan-center-index/pull/15260)|[toge](https://github.com/toge)|Jan 14|:new: kplot|0|||
-[#15265](https://github.com/conan-io/conan-center-index/pull/15265)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: jsoncpp|0|||
+[#15265](https://github.com/conan-io/conan-center-index/pull/15265)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:stopwatch: jsoncpp|0|||
 [#15266](https://github.com/conan-io/conan-center-index/pull/15266)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: openexr|0|||
 [#15267](https://github.com/conan-io/conan-center-index/pull/15267)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: benchmark|0|||
-[#15277](https://github.com/conan-io/conan-center-index/pull/15277)|[erikogenvik](https://github.com/erikogenvik)|Jan 15|:stopwatch: fltk|0|||
+[#15274](https://github.com/conan-io/conan-center-index/pull/15274)|[SpaceIm](https://github.com/SpaceIm)|Jan 15|:memo: libavrocpp|0|||
 [#15278](https://github.com/conan-io/conan-center-index/pull/15278)|[scandyna](https://github.com/scandyna)|Jan 15|:stopwatch: qt|0|||
+[#15280](https://github.com/conan-io/conan-center-index/pull/15280)|[toge](https://github.com/toge)|Jan 15|:memo: miniz|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -123,7 +123,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 230
 	- Draft: 25
-	- Average Age: 77 days, 12 hours, and 55.88 minutes
+	- Average Age: 77 days, 14 hours, and 54.41 minutes
 	- Stop Label: 110
 	
 
