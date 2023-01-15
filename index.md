@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **74** pull requests currently under way :detective:
+There are **75** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -81,7 +81,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15135](https://github.com/conan-io/conan-center-index/pull/15135)|[jwillikers](https://github.com/jwillikers)|Jan 6|:memo: libcap|1|Jan 8||prince-chrismc
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|2|Jan 13||
 [#15156](https://github.com/conan-io/conan-center-index/pull/15156)|[SpaceIm](https://github.com/SpaceIm)|Jan 8|:memo: android-ndk|1|Jan 12||prince-chrismc
-[#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|0|||
+[#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:memo: opencv|0|||
 [#15198](https://github.com/conan-io/conan-center-index/pull/15198)|[justinmcbride](https://github.com/justinmcbride)|Jan 10|:memo: opentelemetry-cpp|0|:eyes:||
 [#15199](https://github.com/conan-io/conan-center-index/pull/15199)|[werto87](https://github.com/werto87)|Jan 10|:memo: confu_json|0|:eyes:||
 [#15202](https://github.com/conan-io/conan-center-index/pull/15202)|[guillaume-michel](https://github.com/guillaume-michel)|Jan 10|:stopwatch: protobuf|1|Jan 11||prince-chrismc
@@ -96,11 +96,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15253](https://github.com/conan-io/conan-center-index/pull/15253)|[toge](https://github.com/toge)|Jan 13|:memo: xtl|1|Jan 15||prince-chrismc
 [#15255](https://github.com/conan-io/conan-center-index/pull/15255)|[marlamb](https://github.com/marlamb)|Jan 13|:memo: opencv|1|Jan 14||prince-chrismc
 [#15257](https://github.com/conan-io/conan-center-index/pull/15257)|[toge](https://github.com/toge)|Jan 14|:memo: xpack|1|Jan 15||prince-chrismc
-[#15259](https://github.com/conan-io/conan-center-index/pull/15259)|[toge](https://github.com/toge)|Jan 14|:memo: libdeflate|1|Jan 15||prince-chrismc
+[#15259](https://github.com/conan-io/conan-center-index/pull/15259)|[toge](https://github.com/toge)|Jan 14|:memo: libdeflate|1|Jan 15||
 [#15260](https://github.com/conan-io/conan-center-index/pull/15260)|[toge](https://github.com/toge)|Jan 14|:new: kplot|0|||
 [#15265](https://github.com/conan-io/conan-center-index/pull/15265)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: jsoncpp|0|||
 [#15266](https://github.com/conan-io/conan-center-index/pull/15266)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: openexr|0|||
 [#15267](https://github.com/conan-io/conan-center-index/pull/15267)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: benchmark|0|||
+[#15274](https://github.com/conan-io/conan-center-index/pull/15274)|[SpaceIm](https://github.com/SpaceIm)|Jan 15|:stopwatch: libavrocpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -119,9 +120,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 226
-	- Draft: 24
-	- Average Age: 78 days, 18 hours, and 50.34 minutes
+	- Open: 228
+	- Draft: 25
+	- Average Age: 78 days, 3 hours, and 27.08 minutes
 	- Stop Label: 109
 	
 
