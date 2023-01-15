@@ -102,14 +102,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
 [#14718](https://github.com/conan-io/conan-center-index/pull/14718)|[kaipenglu](https://github.com/kaipenglu)|Dec 13|:warning: qt|8|jwillikers, ericLemanissier, prince-chrismc
-[#14923](https://github.com/conan-io/conan-center-index/pull/14923)|[toge](https://github.com/toge)|Dec 24|:memo: mongo-c-driver|2|SpaceIm, prince-chrismc
 [#14986](https://github.com/conan-io/conan-center-index/pull/14986)|[SpaceIm](https://github.com/SpaceIm)|Dec 28|:memo: vulkan-loader|2|jwillikers, prince-chrismc
 [#15029](https://github.com/conan-io/conan-center-index/pull/15029)|[toge](https://github.com/toge)|Dec 31|:memo: lief|3|SpaceIm, jwillikers, prince-chrismc
 [#15034](https://github.com/conan-io/conan-center-index/pull/15034)|[toge](https://github.com/toge)|Dec 31|:memo: drogon|2|jwillikers, prince-chrismc
@@ -122,9 +121,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 225
+	- Open: 224
 	- Draft: 21
-	- Average Age: 79 days, 5 hours, and 16.39 minutes
+	- Average Age: 79 days, 12 hours, and 23.62 minutes
 	- Stop Label: 108
 	
 
