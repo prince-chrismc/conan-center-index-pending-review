@@ -1048,32 +1048,6 @@
       }
    },
    {
-      "Number": 15034,
-      "OpenedBy": "toge",
-      "CreatedAt": "2022-12-31T14:27:14Z",
-      "Recipe": "drogon",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15034",
-      "LastCommitSHA": "6225e5895ee9adae4bfdbb019d20d63ad8080863",
-      "LastCommitAt": "2022-12-31T14:24:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-15T03:48:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15034#pullrequestreview-1249112870"
-         }
-      }
-   },
-   {
       "Number": 15040,
       "OpenedBy": "toge",
       "CreatedAt": "2022-12-31T16:46:35Z",
@@ -1089,32 +1063,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 15048,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-01T11:54:00Z",
-      "Recipe": "libdxfrw",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15048",
-      "LastCommitSHA": "6d709cdad727b8d6e1fb57e3749b541153f64fdf",
-      "LastCommitAt": "2023-01-01T11:52:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-15T03:49:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15048#pullrequestreview-1249112917"
-         }
       }
    },
    {
