@@ -1568,15 +1568,17 @@
       "LastCommitAt": "2023-01-15T11:19:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "SpaceIm"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-15T01:35:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15259#pullrequestreview-1249075722"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-01-15T13:15:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15259#pullrequestreview-1249226451"
          }
       }
    },
@@ -1644,24 +1646,6 @@
       "LastCommitSHA": "a25ccafde6af44f32d873c5bd2e1ab8f6eb1bc50",
       "LastCommitAt": "2023-01-15T07:38:52Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15274,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-15T12:03:02Z",
-      "Recipe": "libavrocpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15274",
-      "LastCommitSHA": "7756f3096be98a46b4add945047c2233235d5b70",
-      "LastCommitAt": "2023-01-15T12:00:35Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
