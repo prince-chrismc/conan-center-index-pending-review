@@ -351,33 +351,6 @@
       }
    },
    {
-      "Number": 14718,
-      "OpenedBy": "kaipenglu",
-      "CreatedAt": "2022-12-13T12:37:08Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14718",
-      "LastCommitSHA": "eee3a15e23bab81f9efa03351ceea16096887ca4",
-      "LastCommitAt": "2022-12-24T10:52:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "ericLemanissier",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-14T20:09:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14718#pullrequestreview-1248976987"
-         }
-      }
-   },
-   {
       "Number": 14744,
       "OpenedBy": "calebkiage",
       "CreatedAt": "2022-12-14T15:12:52Z",
@@ -1560,31 +1533,6 @@
       }
    },
    {
-      "Number": 15256,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-14T03:13:29Z",
-      "Recipe": "libwebp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15256",
-      "LastCommitSHA": "70f7e31da5848759548362a110b0c6c23f7136a9",
-      "LastCommitAt": "2023-01-14T17:20:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-15T01:40:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15256#pullrequestreview-1249076967"
-         }
-      }
-   },
-   {
       "Number": 15257,
       "OpenedBy": "toge",
       "CreatedAt": "2023-01-14T03:57:06Z",
@@ -1653,42 +1601,6 @@
       }
    },
    {
-      "Number": 15261,
-      "OpenedBy": "oleurodecision",
-      "CreatedAt": "2023-01-15T06:15:41Z",
-      "Recipe": "coin-utils",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15261",
-      "LastCommitSHA": "94f30fefb4aea91315ded9cf247b3503ec659cde",
-      "LastCommitAt": "2023-01-14T20:15:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15264,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2023-01-15T07:14:45Z",
-      "Recipe": "xtensor",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15264",
-      "LastCommitSHA": "bfceb42e35b7b11ae4d310accb70a8ddc373f5ff",
-      "LastCommitAt": "2023-01-15T07:14:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15266,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2023-01-15T07:22:01Z",
@@ -1697,25 +1609,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15266",
       "LastCommitSHA": "9f8183a87c23512faa2d86ba873160f0f38ac944",
       "LastCommitAt": "2023-01-15T07:21:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15269,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-15T07:43:47Z",
-      "Recipe": "simdutf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15269",
-      "LastCommitSHA": "841bdeb33d61cc379ffc5e330a62727992cfe08c",
-      "LastCommitAt": "2023-01-15T07:42:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
