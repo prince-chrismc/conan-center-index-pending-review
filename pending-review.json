@@ -1533,8 +1533,8 @@
       "Recipe": "jsoncpp",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15265",
-      "LastCommitSHA": "87465590e595057455646b4bcb09c20790406211",
-      "LastCommitAt": "2023-01-15T19:10:22Z",
+      "LastCommitSHA": "d6500a9bce6acdcefa59ded24447eb62a80ae0b6",
+      "LastCommitAt": "2023-01-15T19:17:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -1648,7 +1648,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15284",
       "LastCommitSHA": "bd769f1c6d17da6d7cd7023a93e37d02c071174b",
       "LastCommitAt": "2023-01-15T18:53:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
