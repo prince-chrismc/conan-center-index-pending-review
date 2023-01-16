@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **80** pull requests currently under way :detective:
+There are **79** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -39,7 +39,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27 :bell:||uilianries
 [#14678](https://github.com/conan-io/conan-center-index/pull/14678)|[kou](https://github.com/kou)|Dec 11|:memo: arrow|3|Jan 6||prince-chrismc
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|0|:eyes:||
-[#14744](https://github.com/conan-io/conan-center-index/pull/14744)|[calebkiage](https://github.com/calebkiage)|Dec 14|:memo: libpq|27|Jan 16||prince-chrismc
 [#14765](https://github.com/conan-io/conan-center-index/pull/14765)|[toge](https://github.com/toge)|Dec 15|:memo: kaitai_struct_cpp_stl_runtime|0|:eyes:||
 [#14803](https://github.com/conan-io/conan-center-index/pull/14803)|[jellespijker](https://github.com/jellespijker)|Dec 18|:new: vtu11|0|:eyes:||
 [#14823](https://github.com/conan-io/conan-center-index/pull/14823)|[toge](https://github.com/toge)|Dec 19|:memo: g3log|4|Jan 16||prince-chrismc
@@ -103,10 +102,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|0|||
 [#15286](https://github.com/conan-io/conan-center-index/pull/15286)|[toge](https://github.com/toge)|Jan 16|:memo: mongo-c-driver|0|||
 [#15287](https://github.com/conan-io/conan-center-index/pull/15287)|[toge](https://github.com/toge)|Jan 16|:memo: tsl-ordered-map|0|||
-[#15288](https://github.com/conan-io/conan-center-index/pull/15288)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: wayland-protocols|0|||
-[#15290](https://github.com/conan-io/conan-center-index/pull/15290)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: emsdk|0|||
 [#15289](https://github.com/conan-io/conan-center-index/pull/15289)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: qarchive|0|||
+[#15290](https://github.com/conan-io/conan-center-index/pull/15290)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: emsdk|0|||
 [#15291](https://github.com/conan-io/conan-center-index/pull/15291)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: cppcheck|0|||
+[#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -128,7 +127,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 236
 	- Draft: 25
-	- Average Age: 75 days, 22 hours, and 10.03 minutes
+	- Average Age: 75 days, 19 hours, and 46.40 minutes
 	- Stop Label: 112
 	
 
