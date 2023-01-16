@@ -1675,24 +1675,6 @@
       }
    },
    {
-      "Number": 15304,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-01-16T15:03:01Z",
-      "Recipe": "libmysqlclient",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15304",
-      "LastCommitSHA": "a1dfa4534c375092e4d74942ffe75b190acd17cb",
-      "LastCommitAt": "2023-01-16T14:23:14Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15305,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-01-16T15:47:45Z",
