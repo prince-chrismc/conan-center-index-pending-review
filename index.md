@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **84** pull requests currently under way :detective:
+There are **83** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -104,7 +104,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15297](https://github.com/conan-io/conan-center-index/pull/15297)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:gear: .c3i|0|||
 [#15300](https://github.com/conan-io/conan-center-index/pull/15300)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libcap|0|||
 [#15303](https://github.com/conan-io/conan-center-index/pull/15303)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:green_book: docs|2|Jan 16||
-[#15304](https://github.com/conan-io/conan-center-index/pull/15304)|[RubenRBS](https://github.com/RubenRBS)|Jan 16|:stopwatch: libmysqlclient|0|||
 [#15305](https://github.com/conan-io/conan-center-index/pull/15305)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libpq|0|||
 [#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:stopwatch: autoconf|0|||
 [#15307](https://github.com/conan-io/conan-center-index/pull/15307)|[jcar87](https://github.com/jcar87)|Jan 16|:memo: meson|0|||
@@ -131,8 +130,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 223
 	- Draft: 25
-	- Average Age: 75 days, and 57.25 minutes
-	- Stop Label: 99
+	- Average Age: 75 days, 2 hours, and 0.11 minutes
+	- Stop Label: 100
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
