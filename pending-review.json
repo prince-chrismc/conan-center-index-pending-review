@@ -350,24 +350,6 @@
       }
    },
    {
-      "Number": 14770,
-      "OpenedBy": "System-Arch",
-      "CreatedAt": "2022-12-15T23:05:46Z",
-      "Recipe": "mpc",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14770",
-      "LastCommitSHA": "e21afa2342b6b5d888ccba2c6e3ffdcee9acad8d",
-      "LastCommitAt": "2023-01-16T16:14:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 14803,
       "OpenedBy": "jellespijker",
       "CreatedAt": "2022-12-18T13:49:28Z",
@@ -1191,8 +1173,8 @@
       "Recipe": "opencv",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15193",
-      "LastCommitSHA": "f2c41dfa19a5a106e1d3fb003eef4e53f8e4a81d",
-      "LastCommitAt": "2023-01-16T16:46:31Z",
+      "LastCommitSHA": "379eb2bb6352476caa7961a3c52376ab7822108b",
+      "LastCommitAt": "2023-01-16T18:54:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1719,7 +1701,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15305",
       "LastCommitSHA": "49e07ff5250500544024715f38de1c8defef8de6",
       "LastCommitAt": "2023-01-16T16:18:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1755,25 +1737,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15307",
       "LastCommitSHA": "7958a41072e5f4675ad21274936d5d6ffacc6818",
       "LastCommitAt": "2023-01-16T16:09:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15308,
-      "OpenedBy": "jcar87",
-      "CreatedAt": "2023-01-16T16:22:58Z",
-      "Recipe": "libxml2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15308",
-      "LastCommitSHA": "8cd8048281d38a52c16497daeab8ab2873646278",
-      "LastCommitAt": "2023-01-16T16:51:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
