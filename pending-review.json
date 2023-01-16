@@ -1548,24 +1548,6 @@
       }
    },
    {
-      "Number": 15278,
-      "OpenedBy": "scandyna",
-      "CreatedAt": "2023-01-15T14:01:15Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15278",
-      "LastCommitSHA": "56a808257875c29a6f901427cc0de5d656a5e482",
-      "LastCommitAt": "2023-01-15T10:33:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15280,
       "OpenedBy": "toge",
       "CreatedAt": "2023-01-15T15:09:41Z",
