@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **79** pull requests currently under way :detective:
+There are **76** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -92,9 +92,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15257](https://github.com/conan-io/conan-center-index/pull/15257)|[toge](https://github.com/toge)|Jan 14|:memo: xpack|1|Jan 15||prince-chrismc
 [#15260](https://github.com/conan-io/conan-center-index/pull/15260)|[toge](https://github.com/toge)|Jan 14|:new: kplot|0|||
 [#15262](https://github.com/conan-io/conan-center-index/pull/15262)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:memo: coin-osi|0|||
-[#15265](https://github.com/conan-io/conan-center-index/pull/15265)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: jsoncpp|1|Jan 15||
+[#15265](https://github.com/conan-io/conan-center-index/pull/15265)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: jsoncpp|2|Jan 16||jcar87
 [#15266](https://github.com/conan-io/conan-center-index/pull/15266)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: openexr|0|||
-[#15267](https://github.com/conan-io/conan-center-index/pull/15267)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: benchmark|1|Jan 15||
+[#15267](https://github.com/conan-io/conan-center-index/pull/15267)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: benchmark|2|Jan 16||jcar87
 [#15268](https://github.com/conan-io/conan-center-index/pull/15268)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: qpdf|0|||
 [#15274](https://github.com/conan-io/conan-center-index/pull/15274)|[SpaceIm](https://github.com/SpaceIm)|Jan 15|:memo: libavrocpp|0|||
 [#15280](https://github.com/conan-io/conan-center-index/pull/15280)|[toge](https://github.com/toge)|Jan 15|:memo: miniz|0|||
@@ -102,9 +102,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|0|||
 [#15286](https://github.com/conan-io/conan-center-index/pull/15286)|[toge](https://github.com/toge)|Jan 16|:memo: mongo-c-driver|0|||
 [#15287](https://github.com/conan-io/conan-center-index/pull/15287)|[toge](https://github.com/toge)|Jan 16|:memo: tsl-ordered-map|0|||
-[#15289](https://github.com/conan-io/conan-center-index/pull/15289)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: qarchive|0|||
-[#15290](https://github.com/conan-io/conan-center-index/pull/15290)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: emsdk|0|||
-[#15291](https://github.com/conan-io/conan-center-index/pull/15291)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: cppcheck|0|||
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|0|||
 
 
@@ -125,10 +122,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 236
+	- Open: 234
 	- Draft: 25
-	- Average Age: 75 days, 19 hours, and 46.40 minutes
-	- Stop Label: 112
+	- Average Age: 76 days, 12 hours, and 19.78 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
