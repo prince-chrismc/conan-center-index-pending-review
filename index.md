@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **71** pull requests currently under way :detective:
+There are **73** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -93,11 +93,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15257](https://github.com/conan-io/conan-center-index/pull/15257)|[toge](https://github.com/toge)|Jan 14|:memo: xpack|1|Jan 15||prince-chrismc
 [#15260](https://github.com/conan-io/conan-center-index/pull/15260)|[toge](https://github.com/toge)|Jan 14|:new: kplot|0|||
 [#15266](https://github.com/conan-io/conan-center-index/pull/15266)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: openexr|0|||
+[#15268](https://github.com/conan-io/conan-center-index/pull/15268)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: qpdf|0|||
 [#15274](https://github.com/conan-io/conan-center-index/pull/15274)|[SpaceIm](https://github.com/SpaceIm)|Jan 15|:memo: libavrocpp|0|||
 [#15278](https://github.com/conan-io/conan-center-index/pull/15278)|[scandyna](https://github.com/scandyna)|Jan 15|:stopwatch: qt|0|||
 [#15280](https://github.com/conan-io/conan-center-index/pull/15280)|[toge](https://github.com/toge)|Jan 15|:memo: miniz|0|||
 [#15282](https://github.com/conan-io/conan-center-index/pull/15282)|[StellaSmith](https://github.com/StellaSmith)|Jan 15|:stopwatch: ctre|0|||
 [#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|0|||
+[#15286](https://github.com/conan-io/conan-center-index/pull/15286)|[toge](https://github.com/toge)|Jan 16|:stopwatch: mongo-c-driver|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -117,10 +119,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 230
+	- Open: 231
 	- Draft: 26
-	- Average Age: 77 days, 14 hours, and 27.31 minutes
-	- Stop Label: 112
+	- Average Age: 77 days, 7 hours, and 58.16 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
