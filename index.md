@@ -97,7 +97,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15274](https://github.com/conan-io/conan-center-index/pull/15274)|[SpaceIm](https://github.com/SpaceIm)|Jan 15|:memo: libavrocpp|0|||
 [#15278](https://github.com/conan-io/conan-center-index/pull/15278)|[scandyna](https://github.com/scandyna)|Jan 15|:stopwatch: qt|0|||
 [#15280](https://github.com/conan-io/conan-center-index/pull/15280)|[toge](https://github.com/toge)|Jan 15|:memo: miniz|0|||
-[#15282](https://github.com/conan-io/conan-center-index/pull/15282)|[StellaSmith](https://github.com/StellaSmith)|Jan 15|:stopwatch: ctre|0|||
+[#15282](https://github.com/conan-io/conan-center-index/pull/15282)|[StellaSmith](https://github.com/StellaSmith)|Jan 15|:memo: ctre|0|||
 [#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|0|||
 [#15286](https://github.com/conan-io/conan-center-index/pull/15286)|[toge](https://github.com/toge)|Jan 16|:stopwatch: mongo-c-driver|0|||
 
@@ -121,7 +121,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 231
 	- Draft: 26
-	- Average Age: 77 days, 7 hours, and 58.16 minutes
+	- Average Age: 77 days, 8 hours, and 31.40 minutes
 	- Stop Label: 113
 	
 
