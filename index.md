@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **76** pull requests currently under way :detective:
+There are **80** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -103,6 +103,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|0|||
 [#15286](https://github.com/conan-io/conan-center-index/pull/15286)|[toge](https://github.com/toge)|Jan 16|:memo: mongo-c-driver|0|||
 [#15287](https://github.com/conan-io/conan-center-index/pull/15287)|[toge](https://github.com/toge)|Jan 16|:memo: tsl-ordered-map|0|||
+[#15288](https://github.com/conan-io/conan-center-index/pull/15288)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: wayland-protocols|0|||
+[#15290](https://github.com/conan-io/conan-center-index/pull/15290)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: emsdk|0|||
+[#15289](https://github.com/conan-io/conan-center-index/pull/15289)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: qarchive|0|||
+[#15291](https://github.com/conan-io/conan-center-index/pull/15291)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:stopwatch: cppcheck|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -122,9 +126,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 232
+	- Open: 236
 	- Draft: 25
-	- Average Age: 77 days, 4 hours, and 29.97 minutes
+	- Average Age: 75 days, 22 hours, and 10.03 minutes
 	- Stop Label: 112
 	
 
