@@ -1512,6 +1512,29 @@
       }
    },
    {
+      "Number": 15265,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2023-01-15T07:17:33Z",
+      "Recipe": "jsoncpp",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15265",
+      "LastCommitSHA": "e963cb23156406b9ab408ca998a8a426d2765134",
+      "LastCommitAt": "2023-01-16T04:38:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-01-15T18:33:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15265#pullrequestreview-1249321203"
+         }
+      }
+   },
+   {
       "Number": 15266,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2023-01-15T07:22:01Z",
@@ -1651,7 +1674,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15286",
       "LastCommitSHA": "671445ed159b9a553e99f8bbf79d57a9c1758368",
       "LastCommitAt": "2023-01-16T01:41:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
