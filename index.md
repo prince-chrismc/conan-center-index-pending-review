@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **83** pull requests currently under way :detective:
+There are **84** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -110,6 +110,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15312](https://github.com/conan-io/conan-center-index/pull/15312)|[toge](https://github.com/toge)|Jan 16|:memo: tinyexr|0|||
 [#15315](https://github.com/conan-io/conan-center-index/pull/15315)|[Elnee](https://github.com/Elnee)|Jan 17|:memo: websocketpp|0|||
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|||
+[#15320](https://github.com/conan-io/conan-center-index/pull/15320)|[danimtb](https://github.com/danimtb)|Jan 17|:green_book: docs|1|Jan 17||SSE4
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -128,9 +129,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 224
+	- Open: 225
 	- Draft: 26
-	- Average Age: 75 days, and 16.09 minutes
+	- Average Age: 74 days, 18 hours, and 16.31 minutes
 	- Stop Label: 101
 	
 
