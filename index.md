@@ -55,7 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14924](https://github.com/conan-io/conan-center-index/pull/14924)|[toge](https://github.com/toge)|Dec 24|:memo: mongo-cxx-driver|1|Jan 5||
 [#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|0|:eyes:||
 [#14930](https://github.com/conan-io/conan-center-index/pull/14930)|[planetmarshall](https://github.com/planetmarshall)|Dec 25|:memo: glibmm|0|:eyes:||
-[#14931](https://github.com/conan-io/conan-center-index/pull/14931)|[toge](https://github.com/toge)|Dec 25|:stopwatch: mimalloc|1|Jan 15||
+[#14931](https://github.com/conan-io/conan-center-index/pull/14931)|[toge](https://github.com/toge)|Dec 25|:memo: mimalloc|1|Jan 15||
 [#14948](https://github.com/conan-io/conan-center-index/pull/14948)|[SpaceIm](https://github.com/SpaceIm)|Dec 26|:memo: opencv|3|Dec 28 :bell:||prince-chrismc
 [#14949](https://github.com/conan-io/conan-center-index/pull/14949)|[SpaceIm](https://github.com/SpaceIm)|Dec 26|:memo: opencv|0|:eyes:||
 [#14956](https://github.com/conan-io/conan-center-index/pull/14956)|[mzdun](https://github.com/mzdun)|Dec 27|:new: mbits-utfconv|1|Jan 15||prince-chrismc
@@ -113,14 +113,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:warning: autoconf|2|prince-chrismc, RubenRBS
-[#15308](https://github.com/conan-io/conan-center-index/pull/15308)|[jcar87](https://github.com/jcar87)|Jan 16|:memo: libxml2|5|prince-chrismc, RubenRBS
+[#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:warning: autoconf|3|prince-chrismc, RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -129,9 +128,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 223
+	- Open: 222
 	- Draft: 26
-	- Average Age: 74 days, 23 hours, and 12.07 minutes
+	- Average Age: 75 days, 8 hours, and 13.81 minutes
 	- Stop Label: 100
 	
 
