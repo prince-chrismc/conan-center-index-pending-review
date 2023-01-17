@@ -23,12 +23,13 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **85** pull requests currently under way :detective:
+There are **82** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:new: libxls|3|Dec 27 :bell:||prince-chrismc
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: stlab|20|Dec 14 :bell:||
+[#14083](https://github.com/conan-io/conan-center-index/pull/14083)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: gperf|1|Jan 17||
 [#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:memo: libev|15|Jan 16||prince-chrismc
 [#14163](https://github.com/conan-io/conan-center-index/pull/14163)|[System-Arch](https://github.com/System-Arch)|Nov 12|:memo: nasm|6|Jan 16||prince-chrismc
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
@@ -49,7 +50,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14892](https://github.com/conan-io/conan-center-index/pull/14892)|[SpaceIm](https://github.com/SpaceIm)|Dec 22|:memo: proj|0|:eyes:||
 [#14894](https://github.com/conan-io/conan-center-index/pull/14894)|[coryan](https://github.com/coryan)|Dec 22|:memo: googleapis|1|Dec 28 :bell:||
 [#14901](https://github.com/conan-io/conan-center-index/pull/14901)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:memo: libnghttp2|3|Jan 16||SpaceIm
-[#14906](https://github.com/conan-io/conan-center-index/pull/14906)|[SpaceIm](https://github.com/SpaceIm)|Dec 23|:memo: openssl|1|Jan 13||prince-chrismc
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14924](https://github.com/conan-io/conan-center-index/pull/14924)|[toge](https://github.com/toge)|Dec 24|:memo: mongo-cxx-driver|1|Jan 5||
@@ -103,9 +103,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15300](https://github.com/conan-io/conan-center-index/pull/15300)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libcap|0|||
 [#15303](https://github.com/conan-io/conan-center-index/pull/15303)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:green_book: docs|2|Jan 16||
 [#15305](https://github.com/conan-io/conan-center-index/pull/15305)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libpq|0|||
-[#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:stopwatch: autoconf|1|Jan 17||prince-chrismc
-[#15307](https://github.com/conan-io/conan-center-index/pull/15307)|[jcar87](https://github.com/jcar87)|Jan 16|:memo: meson|1|Jan 17||prince-chrismc
-[#15308](https://github.com/conan-io/conan-center-index/pull/15308)|[jcar87](https://github.com/jcar87)|Jan 16|:memo: libxml2|3|Jan 17||prince-chrismc
 [#15309](https://github.com/conan-io/conan-center-index/pull/15309)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:new: bear|0|||
 [#15312](https://github.com/conan-io/conan-center-index/pull/15312)|[toge](https://github.com/toge)|Jan 16|:memo: tinyexr|0|||
 [#15315](https://github.com/conan-io/conan-center-index/pull/15315)|[Elnee](https://github.com/Elnee)|Jan 17|:memo: websocketpp|0|||
@@ -116,12 +113,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
+[#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:warning: autoconf|2|prince-chrismc, RubenRBS
+[#15308](https://github.com/conan-io/conan-center-index/pull/15308)|[jcar87](https://github.com/jcar87)|Jan 16|:memo: libxml2|5|prince-chrismc, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -130,10 +129,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 225
+	- Open: 223
 	- Draft: 26
-	- Average Age: 74 days, 8 hours, and 14.79 minutes
-	- Stop Label: 101
+	- Average Age: 74 days, 23 hours, and 12.07 minutes
+	- Stop Label: 100
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
