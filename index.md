@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **84** pull requests currently under way :detective:
+There are **83** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -109,7 +109,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15309](https://github.com/conan-io/conan-center-index/pull/15309)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:new: bear|0|||
 [#15311](https://github.com/conan-io/conan-center-index/pull/15311)|[jcar87](https://github.com/jcar87)|Jan 16|:memo: gnu-config|1|Jan 16||SpaceIm
 [#15312](https://github.com/conan-io/conan-center-index/pull/15312)|[toge](https://github.com/toge)|Jan 16|:memo: tinyexr|0|||
-[#15313](https://github.com/conan-io/conan-center-index/pull/15313)|[toge](https://github.com/toge)|Jan 17|:stopwatch: cimg|0|||
 [#15315](https://github.com/conan-io/conan-center-index/pull/15315)|[Elnee](https://github.com/Elnee)|Jan 17|:stopwatch: websocketpp|0|||
 
 
@@ -131,7 +130,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 224
 	- Draft: 26
-	- Average Age: 74 days, 19 hours, and 0.23 minutes
+	- Average Age: 74 days, 19 hours, and 7.34 minutes
 	- Stop Label: 99
 	
 
