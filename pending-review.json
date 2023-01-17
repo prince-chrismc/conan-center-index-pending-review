@@ -654,7 +654,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14931",
       "LastCommitSHA": "fd4f72c8366eacc8dbe12aa24249945cdad6ec4c",
       "LastCommitAt": "2023-01-17T10:53:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1667,44 +1667,19 @@
       "LastCommitAt": "2023-01-16T16:06:51Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             "prince-chrismc",
-            "RubenRBS"
+            "RubenRBS",
+            "czoido"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-01-17T14:00:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15306#pullrequestreview-1251606816"
-         }
-      }
-   },
-   {
-      "Number": 15308,
-      "OpenedBy": "jcar87",
-      "CreatedAt": "2023-01-16T16:22:58Z",
-      "Recipe": "libxml2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15308",
-      "LastCommitSHA": "8cd8048281d38a52c16497daeab8ab2873646278",
-      "LastCommitAt": "2023-01-16T16:51:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-01-17T14:00:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15308#pullrequestreview-1251605988"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-01-17T14:22:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15306#pullrequestreview-1251646637"
          }
       }
    },
