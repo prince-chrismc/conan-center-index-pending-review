@@ -28,7 +28,6 @@ There are **85** pull requests currently under way :detective:
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:new: libxls|3|Dec 27 :bell:||prince-chrismc
-[#12844](https://github.com/conan-io/conan-center-index/pull/12844)|[kissandras](https://github.com/kissandras)|Sep 6|:new: archicad-apidevkit|12|Jan 17||franramirez688
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: stlab|20|Dec 14 :bell:||
 [#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:memo: libev|15|Jan 16||prince-chrismc
 [#14163](https://github.com/conan-io/conan-center-index/pull/14163)|[System-Arch](https://github.com/System-Arch)|Nov 12|:memo: nasm|6|Jan 16||prince-chrismc
@@ -112,6 +111,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15315](https://github.com/conan-io/conan-center-index/pull/15315)|[Elnee](https://github.com/Elnee)|Jan 17|:memo: websocketpp|0|||
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|||
 [#15320](https://github.com/conan-io/conan-center-index/pull/15320)|[danimtb](https://github.com/danimtb)|Jan 17|:green_book: docs|1|Jan 17||SSE4
+[#15322](https://github.com/conan-io/conan-center-index/pull/15322)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:memo: cppcheck|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -130,10 +130,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 226
+	- Open: 225
 	- Draft: 26
-	- Average Age: 74 days, 13 hours, and 13.49 minutes
-	- Stop Label: 102
+	- Average Age: 74 days, 8 hours, and 14.79 minutes
+	- Stop Label: 101
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
