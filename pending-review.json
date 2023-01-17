@@ -1802,5 +1802,30 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15320,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2023-01-17T07:41:58Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15320",
+      "LastCommitSHA": "78dd77390017106bf5abb7355e40911e63bf15c4",
+      "LastCommitAt": "2023-01-17T07:40:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-01-17T07:44:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15320#pullrequestreview-1251041962"
+         }
+      }
    }
 ]
