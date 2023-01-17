@@ -109,9 +109,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|||
 [#15320](https://github.com/conan-io/conan-center-index/pull/15320)|[danimtb](https://github.com/danimtb)|Jan 17|:green_book: docs|1|Jan 17||SSE4
 [#15322](https://github.com/conan-io/conan-center-index/pull/15322)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:memo: cppcheck|0|||
-[#15326](https://github.com/conan-io/conan-center-index/pull/15326)|[jwillikers](https://github.com/jwillikers)|Jan 17|:stopwatch: avahi|0|||
-[#15328](https://github.com/conan-io/conan-center-index/pull/15328)|[toge](https://github.com/toge)|Jan 17|:stopwatch: sdl_ttf|0|||
-[#15329](https://github.com/conan-io/conan-center-index/pull/15329)|[toge](https://github.com/toge)|Jan 17|:stopwatch: taskflow|0|||
+[#15326](https://github.com/conan-io/conan-center-index/pull/15326)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: avahi|0|||
+[#15331](https://github.com/conan-io/conan-center-index/pull/15331)|[hpe-ykoehler](https://github.com/hpe-ykoehler)|Jan 17|:stopwatch: hiredis|1|Jan 17||SpaceIm
+[#15332](https://github.com/conan-io/conan-center-index/pull/15332)|[toge](https://github.com/toge)|Jan 17|:stopwatch: libdwarf|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -131,10 +131,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 225
-	- Draft: 26
-	- Average Age: 74 days, 8 hours, and 34.69 minutes
-	- Stop Label: 99
+	- Open: 227
+	- Draft: 27
+	- Average Age: 73 days, 17 hours, and 54.85 minutes
+	- Stop Label: 100
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
