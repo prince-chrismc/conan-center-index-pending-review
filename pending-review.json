@@ -1829,5 +1829,23 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15320#pullrequestreview-1251041962"
          }
       }
+   },
+   {
+      "Number": 15322,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-01-17T09:30:24Z",
+      "Recipe": "cppcheck",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15322",
+      "LastCommitSHA": "01c153941fc76477d50fda34a6ff5eae9bfd86e8",
+      "LastCommitAt": "2023-01-17T09:36:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
