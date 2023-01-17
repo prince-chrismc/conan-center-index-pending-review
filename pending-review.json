@@ -35,15 +35,17 @@
       "LastCommitAt": "2023-01-16T13:44:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 12,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "franramirez688"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-16T12:56:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12844#pullrequestreview-1250111590"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-01-17T08:48:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/12844#pullrequestreview-1251128359"
          }
       }
    },
