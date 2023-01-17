@@ -1765,24 +1765,6 @@
       }
    },
    {
-      "Number": 15313,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-17T00:33:43Z",
-      "Recipe": "cimg",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15313",
-      "LastCommitSHA": "4087dffd41c6e70a4ac23d74cd8100ecbefd6244",
-      "LastCommitAt": "2023-01-17T00:33:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15315,
       "OpenedBy": "Elnee",
       "CreatedAt": "2023-01-17T00:45:58Z",
