@@ -950,9 +950,9 @@
       "Recipe": "rotor",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15081",
-      "LastCommitSHA": "754a5a7c7170267a582a9b1ec61b6d44c0b0b669",
-      "LastCommitAt": "2023-01-16T12:44:52Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "6ff1256d50437dbb1136fe8468cd709086b9d48a",
+      "LastCommitAt": "2023-01-18T06:40:47Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
