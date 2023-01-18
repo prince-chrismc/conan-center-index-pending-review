@@ -1598,9 +1598,9 @@
       "Recipe": "libpq",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15305",
-      "LastCommitSHA": "49e07ff5250500544024715f38de1c8defef8de6",
+      "LastCommitSHA": "9fe607b75fbff00daea6bbcada3502bb184d362b",
       "LastCommitAt": "2023-01-16T16:18:00Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
