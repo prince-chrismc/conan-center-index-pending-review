@@ -1592,24 +1592,6 @@
       }
    },
    {
-      "Number": 15305,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-16T15:47:45Z",
-      "Recipe": "libpq",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15305",
-      "LastCommitSHA": "49e07ff5250500544024715f38de1c8defef8de6",
-      "LastCommitAt": "2023-01-16T16:18:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15306,
       "OpenedBy": "jcar87",
       "CreatedAt": "2023-01-16T16:08:37Z",
