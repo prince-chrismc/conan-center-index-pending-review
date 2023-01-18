@@ -1084,7 +1084,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15193",
       "LastCommitSHA": "91e2928740b9f344b9b181ede3f09f80366e7a5c",
       "LastCommitAt": "2023-01-17T23:12:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1242,6 +1242,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15241",
       "LastCommitSHA": "de7c0c3d47c979959ccc8b552a0b7c0ab2b29541",
       "LastCommitAt": "2023-01-12T22:16:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15250,
+      "OpenedBy": "sorny92",
+      "CreatedAt": "2023-01-13T15:50:59Z",
+      "Recipe": "libsvtav1",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15250",
+      "LastCommitSHA": "0dd8f849a09964d989bfd5d2f857bf4bc8a7d067",
+      "LastCommitAt": "2023-01-13T15:33:28Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -1681,7 +1699,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15317",
       "LastCommitSHA": "d13fd948f957ccaf3281e83a39d0e6e122164ab4",
       "LastCommitAt": "2023-01-17T02:21:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
