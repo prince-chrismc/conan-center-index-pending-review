@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **83** pull requests currently under way :detective:
+There are **84** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -106,6 +106,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|||
 [#15322](https://github.com/conan-io/conan-center-index/pull/15322)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:memo: cppcheck|1|Jan 18||prince-chrismc
 [#15326](https://github.com/conan-io/conan-center-index/pull/15326)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: avahi|0|||
+[#15328](https://github.com/conan-io/conan-center-index/pull/15328)|[toge](https://github.com/toge)|Jan 17|:stopwatch: sdl_ttf|1|Jan 18||
 [#15331](https://github.com/conan-io/conan-center-index/pull/15331)|[hpe-ykoehler](https://github.com/hpe-ykoehler)|Jan 17|:stopwatch: hiredis|1|Jan 17||SpaceIm
 [#15336](https://github.com/conan-io/conan-center-index/pull/15336)|[kletoz](https://github.com/kletoz)|Jan 17|:stopwatch: openssl|0|||
 [#15337](https://github.com/conan-io/conan-center-index/pull/15337)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 17|:green_book: docs|0|||
@@ -129,9 +130,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 224
-	- Draft: 28
-	- Average Age: 74 days, 18 hours, and 38.49 minutes
+	- Open: 223
+	- Draft: 27
+	- Average Age: 75 days, 3 hours, and 38.39 minutes
 	- Stop Label: 97
 	
 
