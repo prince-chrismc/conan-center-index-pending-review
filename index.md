@@ -93,7 +93,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15274](https://github.com/conan-io/conan-center-index/pull/15274)|[SpaceIm](https://github.com/SpaceIm)|Jan 15|:memo: libavrocpp|0|||
 [#15280](https://github.com/conan-io/conan-center-index/pull/15280)|[toge](https://github.com/toge)|Jan 15|:memo: miniz|0|||
 [#15282](https://github.com/conan-io/conan-center-index/pull/15282)|[StellaSmith](https://github.com/StellaSmith)|Jan 15|:memo: ctre|0|||
-[#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|1|Jan 17||prince-chrismc
+[#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|2|Jan 18||prince-chrismc, StellaSmith
 [#15285](https://github.com/conan-io/conan-center-index/pull/15285)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libsvm|0|||
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|0|||
 [#15295](https://github.com/conan-io/conan-center-index/pull/15295)|[toge](https://github.com/toge)|Jan 16|:memo: websocketpp|0|||
@@ -128,10 +128,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 225
+	- Open: 226
 	- Draft: 27
-	- Average Age: 74 days, 9 hours, and 48.35 minutes
-	- Stop Label: 101
+	- Average Age: 74 days, 3 hours, and 44.54 minutes
+	- Stop Label: 102
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
