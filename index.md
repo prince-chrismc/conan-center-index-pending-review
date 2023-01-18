@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **91** pull requests currently under way :detective:
+There are **92** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -49,6 +49,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14871](https://github.com/conan-io/conan-center-index/pull/14871)|[HappySeaFox](https://github.com/HappySeaFox)|Dec 21|:memo: sail|2|Dec 22 :bell:||
 [#14872](https://github.com/conan-io/conan-center-index/pull/14872)|[cqc-alec](https://github.com/cqc-alec)|Dec 21|:memo: symengine|1|Dec 27 :bell:||
 [#14894](https://github.com/conan-io/conan-center-index/pull/14894)|[coryan](https://github.com/coryan)|Dec 22|:memo: googleapis|1|Dec 28 :bell:||
+[#14901](https://github.com/conan-io/conan-center-index/pull/14901)|[mkoviazin](https://github.com/mkoviazin)|Dec 23|:memo: libnghttp2|4|Jan 18||prince-chrismc
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14924](https://github.com/conan-io/conan-center-index/pull/14924)|[toge](https://github.com/toge)|Dec 24|:memo: mongo-cxx-driver|1|Jan 5 :bell:||
@@ -114,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15344](https://github.com/conan-io/conan-center-index/pull/15344)|[weinhold](https://github.com/weinhold)|Jan 18|:stopwatch: libpq|0|||
 [#15345](https://github.com/conan-io/conan-center-index/pull/15345)|[dbarkar](https://github.com/dbarkar)|Jan 18|:stopwatch: wildmidi|0|||
 [#15346](https://github.com/conan-io/conan-center-index/pull/15346)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:new: pgm-index|0|||
-[#15347](https://github.com/conan-io/conan-center-index/pull/15347)|[ngrodzitski](https://github.com/ngrodzitski)|Jan 18|:stopwatch: json_dto|1|Jan 18||
+[#15347](https://github.com/conan-io/conan-center-index/pull/15347)|[ngrodzitski](https://github.com/ngrodzitski)|Jan 18|:stopwatch: json_dto|2|Jan 18||prince-chrismc
 [#15348](https://github.com/conan-io/conan-center-index/pull/15348)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 18|:stopwatch: qt|0|||
 [#15349](https://github.com/conan-io/conan-center-index/pull/15349)|[szmyd](https://github.com/szmyd)|Jan 18|:stopwatch: nuraft|0|||
 [#15350](https://github.com/conan-io/conan-center-index/pull/15350)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:stopwatch: libfdk_aac|0|||
@@ -139,7 +140,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 229
 	- Draft: 25
-	- Average Age: 73 days, 14 hours, and 7.47 minutes
+	- Average Age: 73 days, 15 hours, and 8.87 minutes
 	- Stop Label: 97
 	
 
