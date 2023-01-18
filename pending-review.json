@@ -1187,29 +1187,6 @@
       }
    },
    {
-      "Number": 15234,
-      "OpenedBy": "franramirez688",
-      "CreatedAt": "2023-01-12T14:36:47Z",
-      "Recipe": "flex",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15234",
-      "LastCommitSHA": "f706340e542718a9f0ce95baaca8da63dcb11d63",
-      "LastCommitAt": "2023-01-18T15:19:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-01-18T14:53:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15234#pullrequestreview-1253640515"
-         }
-      }
-   },
-   {
       "Number": 15237,
       "OpenedBy": "toge",
       "CreatedAt": "2023-01-12T17:12:11Z",
@@ -1691,15 +1668,17 @@
       "LastCommitAt": "2023-01-18T13:51:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-18T13:41:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15309#pullrequestreview-1253502226"
+            "SubmittedAt": "2023-01-18T17:35:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15309#pullrequestreview-1254004642"
          }
       }
    },
@@ -1928,6 +1907,24 @@
       "LastCommitSHA": "de30780787011bd20940ebb2444b4543cae8f09b",
       "LastCommitAt": "2023-01-18T14:36:02Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15348,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-01-18T18:15:52Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15348",
+      "LastCommitSHA": "eee3a15e23bab81f9efa03351ceea16096887ca4",
+      "LastCommitAt": "2022-12-24T10:52:41Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
