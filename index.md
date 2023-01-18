@@ -68,7 +68,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15040](https://github.com/conan-io/conan-center-index/pull/15040)|[toge](https://github.com/toge)|Dec 31|:memo: mariadb-connector-c|0|:eyes:||
 [#15051](https://github.com/conan-io/conan-center-index/pull/15051)|[toge](https://github.com/toge)|Jan 1|:memo: zziplib|0|:eyes:||
 [#15069](https://github.com/conan-io/conan-center-index/pull/15069)|[toge](https://github.com/toge)|Jan 2|:memo: crowcpp-crow|4|Jan 15||prince-chrismc
-[#15081](https://github.com/conan-io/conan-center-index/pull/15081)|[basiliscos](https://github.com/basiliscos)|Jan 3|:stopwatch: rotor|5|Jan 9||
+[#15081](https://github.com/conan-io/conan-center-index/pull/15081)|[basiliscos](https://github.com/basiliscos)|Jan 3|:memo: rotor|5|Jan 9||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|0|:eyes:||
 [#15125](https://github.com/conan-io/conan-center-index/pull/15125)|[toge](https://github.com/toge)|Jan 5|:new: ls-qpack|0|:eyes:||
 [#15126](https://github.com/conan-io/conan-center-index/pull/15126)|[toge](https://github.com/toge)|Jan 5|:memo: erikzenker-hsm|1|Jan 15||prince-chrismc
@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15257](https://github.com/conan-io/conan-center-index/pull/15257)|[toge](https://github.com/toge)|Jan 14|:memo: xpack|1|Jan 15||prince-chrismc
 [#15260](https://github.com/conan-io/conan-center-index/pull/15260)|[toge](https://github.com/toge)|Jan 14|:new: kplot|0|:eyes:||
 [#15262](https://github.com/conan-io/conan-center-index/pull/15262)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:memo: coin-osi|0|||
-[#15266](https://github.com/conan-io/conan-center-index/pull/15266)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: openexr|0|||
+[#15266](https://github.com/conan-io/conan-center-index/pull/15266)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: openexr|0|:eyes:||
 [#15268](https://github.com/conan-io/conan-center-index/pull/15268)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: qpdf|1|Jan 16||jwillikers
 [#15274](https://github.com/conan-io/conan-center-index/pull/15274)|[SpaceIm](https://github.com/SpaceIm)|Jan 15|:memo: libavrocpp|0|||
 [#15280](https://github.com/conan-io/conan-center-index/pull/15280)|[toge](https://github.com/toge)|Jan 15|:memo: miniz|0|||
@@ -103,7 +103,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15309](https://github.com/conan-io/conan-center-index/pull/15309)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:new: bear|0|||
 [#15312](https://github.com/conan-io/conan-center-index/pull/15312)|[toge](https://github.com/toge)|Jan 16|:memo: tinyexr|0|||
 [#15316](https://github.com/conan-io/conan-center-index/pull/15316)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: lua|0|||
-[#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|||
+[#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:stopwatch: bimg|0|||
 [#15322](https://github.com/conan-io/conan-center-index/pull/15322)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 17|:memo: cppcheck|1|Jan 18||prince-chrismc
 [#15326](https://github.com/conan-io/conan-center-index/pull/15326)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: avahi|0|||
 [#15331](https://github.com/conan-io/conan-center-index/pull/15331)|[hpe-ykoehler](https://github.com/hpe-ykoehler)|Jan 17|:stopwatch: hiredis|1|Jan 17||SpaceIm
@@ -131,7 +131,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 223
 	- Draft: 27
-	- Average Age: 74 days, 23 hours, and 39.52 minutes
+	- Average Age: 75 days, and 44.34 minutes
 	- Stop Label: 97
 	
 
