@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15303](https://github.com/conan-io/conan-center-index/pull/15303)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:green_book: docs|2|Jan 16||
 [#15305](https://github.com/conan-io/conan-center-index/pull/15305)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libpq|0|:eyes:||
 [#15309](https://github.com/conan-io/conan-center-index/pull/15309)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 16|:new: bear|2|Jan 18||jwillikers
-[#15312](https://github.com/conan-io/conan-center-index/pull/15312)|[toge](https://github.com/toge)|Jan 16|:memo: tinyexr|0|||
+[#15312](https://github.com/conan-io/conan-center-index/pull/15312)|[toge](https://github.com/toge)|Jan 16|:memo: tinyexr|0|:eyes:||
 [#15316](https://github.com/conan-io/conan-center-index/pull/15316)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: lua|0|||
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|||
 [#15326](https://github.com/conan-io/conan-center-index/pull/15326)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: avahi|0|||
@@ -105,15 +105,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#14956](https://github.com/conan-io/conan-center-index/pull/14956)|[mzdun](https://github.com/mzdun)|Dec 27|:new: mbits-utfconv|2|prince-chrismc, jwillikers
-[#14958](https://github.com/conan-io/conan-center-index/pull/14958)|[mzdun](https://github.com/mzdun)|Dec 27|:new: mbits-diags|2|prince-chrismc, jwillikers
-[#14996](https://github.com/conan-io/conan-center-index/pull/14996)|[toge](https://github.com/toge)|Dec 29|:memo: tesseract|2|prince-chrismc, jwillikers
 [#15012](https://github.com/conan-io/conan-center-index/pull/15012)|[SpaceIm](https://github.com/SpaceIm)|Dec 30|:memo: hyperscan|3|prince-chrismc, jwillikers
 [#15069](https://github.com/conan-io/conan-center-index/pull/15069)|[toge](https://github.com/toge)|Jan 2|:memo: crowcpp-crow|5|prince-chrismc, jwillikers
 [#15126](https://github.com/conan-io/conan-center-index/pull/15126)|[toge](https://github.com/toge)|Jan 5|:memo: erikzenker-hsm|2|prince-chrismc, jwillikers
@@ -134,9 +131,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 234
+	- Open: 231
 	- Draft: 22
-	- Average Age: 72 days, and 19.51 minutes
+	- Average Age: 72 days, 16 hours, and 47.16 minutes
 	- Stop Label: 110
 	
 
