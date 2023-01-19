@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **92** pull requests currently under way :detective:
+There are **95** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -119,6 +119,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15348](https://github.com/conan-io/conan-center-index/pull/15348)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 18|:stopwatch: qt|0|||
 [#15349](https://github.com/conan-io/conan-center-index/pull/15349)|[szmyd](https://github.com/szmyd)|Jan 18|:stopwatch: nuraft|0|||
 [#15350](https://github.com/conan-io/conan-center-index/pull/15350)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:stopwatch: libfdk_aac|0|||
+[#15351](https://github.com/conan-io/conan-center-index/pull/15351)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:stopwatch: gtsam|0|||
+[#15352](https://github.com/conan-io/conan-center-index/pull/15352)|[StellaSmith](https://github.com/StellaSmith)|Jan 18|:stopwatch: binutils|0|||
+[#15354](https://github.com/conan-io/conan-center-index/pull/15354)|[toge](https://github.com/toge)|Jan 19|:stopwatch: gtest|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -138,9 +141,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 229
-	- Draft: 25
-	- Average Age: 73 days, 15 hours, and 8.87 minutes
+	- Open: 233
+	- Draft: 26
+	- Average Age: 72 days, 11 hours, and 34.27 minutes
 	- Stop Label: 97
 	
 
