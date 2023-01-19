@@ -324,19 +324,21 @@
       "Recipe": "glaze",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14857",
-      "LastCommitSHA": "045d83cd14c8752525cc6560fff008747cbb6b2e",
-      "LastCommitAt": "2023-01-18T02:37:57Z",
+      "LastCommitSHA": "ebcfa39377aa53776dc2f6d199c5b0ee19e9aa7b",
+      "LastCommitAt": "2023-01-19T22:32:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "StellaSmith"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-13T15:46:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14857#pullrequestreview-1247873733"
+            "ReviewerName": "StellaSmith",
+            "SubmittedAt": "2023-01-19T22:36:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14857#pullrequestreview-1262737415"
          }
       }
    },
@@ -1619,6 +1621,24 @@
             "SubmittedAt": "2023-01-19T21:45:24Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15365#pullrequestreview-1262675198"
          }
+      }
+   },
+   {
+      "Number": 15369,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-19T22:47:04Z",
+      "Recipe": "highway",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15369",
+      "LastCommitSHA": "c051ba0265fdf03fdf8c5119d85873b856b25e95",
+      "LastCommitAt": "2023-01-19T22:46:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
