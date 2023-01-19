@@ -107,15 +107,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#15253](https://github.com/conan-io/conan-center-index/pull/15253)|[toge](https://github.com/toge)|Jan 13|:memo: xtl|2|prince-chrismc, jwillikers
-[#15257](https://github.com/conan-io/conan-center-index/pull/15257)|[toge](https://github.com/toge)|Jan 14|:memo: xpack|2|prince-chrismc, jwillikers
-[#15284](https://github.com/conan-io/conan-center-index/pull/15284)|[System-Arch](https://github.com/System-Arch)|Jan 15|:memo: gcc|5|prince-chrismc, StellaSmith, samuel-emrys, jwillikers, AndreyMlashkin
 [#15295](https://github.com/conan-io/conan-center-index/pull/15295)|[toge](https://github.com/toge)|Jan 16|:memo: websocketpp|2|prince-chrismc, jwillikers
 [#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:warning: autoconf|3|prince-chrismc, RubenRBS, czoido
 [#15347](https://github.com/conan-io/conan-center-index/pull/15347)|[ngrodzitski](https://github.com/ngrodzitski)|Jan 18|:memo: json_dto|3|prince-chrismc, jwillikers
@@ -128,9 +125,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 226
+	- Open: 223
 	- Draft: 21
-	- Average Age: 74 days, 1 hours, and 55.40 minutes
+	- Average Age: 75 days, 1 hours, and 5.82 minutes
 	- Stop Label: 111
 	
 
