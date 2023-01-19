@@ -1812,29 +1812,6 @@
       }
    },
    {
-      "Number": 15332,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-17T17:59:16Z",
-      "Recipe": "libdwarf",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15332",
-      "LastCommitSHA": "eca43ec77dc91582d8a178d6f37dd15c5731fec5",
-      "LastCommitAt": "2023-01-18T16:21:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-17T19:12:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15332#pullrequestreview-1252247551"
-         }
-      }
-   },
-   {
       "Number": 15337,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-01-17T23:02:06Z",
@@ -1938,7 +1915,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15347",
       "LastCommitSHA": "602132c51dd4d707adee66c8a1f30fde88f86b4e",
       "LastCommitAt": "2023-01-18T20:20:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -1952,24 +1929,6 @@
             "SubmittedAt": "2023-01-18T21:57:57Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15347#pullrequestreview-1260838764"
          }
-      }
-   },
-   {
-      "Number": 15348,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-01-18T18:15:52Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15348",
-      "LastCommitSHA": "fe42be113047c9359168c0058c7cbc04985d3cd2",
-      "LastCommitAt": "2023-01-19T09:59:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -2072,24 +2031,6 @@
       "LastCommitSHA": "ffccb44da463cb8586a3657ff8a58691ea81657b",
       "LastCommitAt": "2023-01-19T09:57:43Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15360,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-01-19T10:04:06Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15360",
-      "LastCommitSHA": "a0f8ab033925752bb29372365febf7b869ff902d",
-      "LastCommitAt": "2023-01-19T10:03:06Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
