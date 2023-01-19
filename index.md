@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **95** pull requests currently under way :detective:
+There are **97** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -81,6 +81,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15199](https://github.com/conan-io/conan-center-index/pull/15199)|[werto87](https://github.com/werto87)|Jan 10|:memo: confu_json|0|:eyes:||
 [#15208](https://github.com/conan-io/conan-center-index/pull/15208)|[toge](https://github.com/toge)|Jan 10|:memo: libucl|0|:eyes:||
 [#15233](https://github.com/conan-io/conan-center-index/pull/15233)|[okaerin](https://github.com/okaerin)|Jan 12|:stopwatch: drogon|0|:eyes:||
+[#15234](https://github.com/conan-io/conan-center-index/pull/15234)|[franramirez688](https://github.com/franramirez688)|Jan 12|:stopwatch: flex|5|Jan 18||
 [#15237](https://github.com/conan-io/conan-center-index/pull/15237)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-cxx|0|:eyes:||
 [#15238](https://github.com/conan-io/conan-center-index/pull/15238)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-c|1|Jan 15||prince-chrismc
 [#15239](https://github.com/conan-io/conan-center-index/pull/15239)|[SpaceIm](https://github.com/SpaceIm)|Jan 12|:memo: opencv|2|Jan 12||prince-chrismc
@@ -122,6 +123,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15351](https://github.com/conan-io/conan-center-index/pull/15351)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:stopwatch: gtsam|0|||
 [#15352](https://github.com/conan-io/conan-center-index/pull/15352)|[StellaSmith](https://github.com/StellaSmith)|Jan 18|:stopwatch: binutils|0|||
 [#15354](https://github.com/conan-io/conan-center-index/pull/15354)|[toge](https://github.com/toge)|Jan 19|:stopwatch: gtest|0|||
+[#15357](https://github.com/conan-io/conan-center-index/pull/15357)|[axxel](https://github.com/axxel)|Jan 19|:stopwatch: zxing-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -141,9 +143,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 233
+	- Open: 234
 	- Draft: 26
-	- Average Age: 72 days, 11 hours, and 34.27 minutes
+	- Average Age: 72 days, 11 hours, and 23.31 minutes
 	- Stop Label: 97
 	
 
