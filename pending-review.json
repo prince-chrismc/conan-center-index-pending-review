@@ -1218,8 +1218,8 @@
       "Recipe": "flex",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15234",
-      "LastCommitSHA": "78ede0981b462d83fe85b3da52ab308908f7f6fd",
-      "LastCommitAt": "2023-01-19T07:39:08Z",
+      "LastCommitSHA": "5da2615980dedfdc3e0034a3e3f0f937e25d1827",
+      "LastCommitAt": "2023-01-19T09:46:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
@@ -1433,7 +1433,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15262",
       "LastCommitSHA": "518e263318c0dd6adf1eaadb7cab83181865a0b4",
       "LastCommitAt": "2023-01-15T20:58:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1984,8 +1984,8 @@
       "Recipe": "qt",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15348",
-      "LastCommitSHA": "40903593b598ccefd8b0e4c51de494495c30a721",
-      "LastCommitAt": "2023-01-18T20:24:03Z",
+      "LastCommitSHA": "fe42be113047c9359168c0058c7cbc04985d3cd2",
+      "LastCommitAt": "2023-01-19T09:59:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2104,14 +2104,14 @@
       }
    },
    {
-      "Number": 15358,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-19T08:34:13Z",
-      "Recipe": "automake",
+      "Number": 15360,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-01-19T10:04:06Z",
+      "Recipe": "qt",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15358",
-      "LastCommitSHA": "b1760ab2e54304a367ddbe79b0a1f173bf4e7c8a",
-      "LastCommitAt": "2023-01-19T08:32:12Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15360",
+      "LastCommitSHA": "a0f8ab033925752bb29372365febf7b869ff902d",
+      "LastCommitAt": "2023-01-19T10:03:06Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
