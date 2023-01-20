@@ -404,15 +404,17 @@
       "LastCommitAt": "2022-12-28T13:28:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2022-12-28T11:42:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14894#pullrequestreview-1231525326"
+            "SubmittedAt": "2023-01-20T11:02:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14894#pullrequestreview-1263349964"
          }
       }
    },
@@ -509,6 +511,29 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 14931,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-25T17:26:52Z",
+      "Recipe": "mimalloc",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14931",
+      "LastCommitSHA": "1c550a3727539821f0f6f3796ece5eb080c6b05b",
+      "LastCommitAt": "2023-01-20T10:46:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-01-17T18:50:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14931#pullrequestreview-1252224777"
+         }
       }
    },
    {
@@ -1388,24 +1413,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15344",
       "LastCommitSHA": "5a0835ad48a43360235c3386b47a212d0355fe16",
       "LastCommitAt": "2023-01-18T11:50:03Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15345,
-      "OpenedBy": "dbarkar",
-      "CreatedAt": "2023-01-18T13:57:32Z",
-      "Recipe": "wildmidi",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15345",
-      "LastCommitSHA": "ec0f7021cb17690fc5d02e43c2e7450544739a72",
-      "LastCommitAt": "2023-01-18T13:46:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
