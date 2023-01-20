@@ -840,7 +840,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15151",
       "LastCommitSHA": "a46140c1529062d76d5a0155d551fa584fc766d2",
       "LastCommitAt": "2023-01-20T21:43:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -933,16 +933,14 @@
       "Recipe": "flex",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15234",
-      "LastCommitSHA": "d2fccab97d22df8514f91ee875cdf2852d10b70f",
-      "LastCommitAt": "2023-01-20T15:31:17Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7599e7ffcdec3d97ef58ad839543911926425629",
+      "LastCommitAt": "2023-01-20T23:11:16Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 15,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "StellaSmith"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -1400,6 +1398,29 @@
       }
    },
    {
+      "Number": 15338,
+      "OpenedBy": "calebkiage",
+      "CreatedAt": "2023-01-17T23:59:11Z",
+      "Recipe": "libpq",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15338",
+      "LastCommitSHA": "a5be6426a4c10e53fe212dcc6ae80f8d6782c89b",
+      "LastCommitAt": "2023-01-20T17:39:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-01-18T00:36:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15338#pullrequestreview-1252660470"
+         }
+      }
+   },
+   {
       "Number": 15344,
       "OpenedBy": "weinhold",
       "CreatedAt": "2023-01-18T12:10:55Z",
@@ -1670,7 +1691,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15378",
       "LastCommitSHA": "9cd0fce5330d790cc1bba882746a6d80e24bd621",
       "LastCommitAt": "2023-01-20T21:09:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1705,6 +1726,24 @@
             "SubmittedAt": "2023-01-20T17:26:13Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15382#pullrequestreview-1264057905"
          }
+      }
+   },
+   {
+      "Number": 15386,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-01-20T23:10:18Z",
+      "Recipe": "gdal",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15386",
+      "LastCommitSHA": "f6558f7cf1db7edd9d518b8d86a300c868f08e0d",
+      "LastCommitAt": "2023-01-20T22:25:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
