@@ -116,7 +116,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
 [#15241](https://github.com/conan-io/conan-center-index/pull/15241)|[SpaceIm](https://github.com/SpaceIm)|Jan 12|:warning: opencv|2|jwillikers, prince-chrismc
 [#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:warning: autoconf|4|prince-chrismc, RubenRBS, czoido, StellaSmith
-[#15331](https://github.com/conan-io/conan-center-index/pull/15331)|[hpe-ykoehler](https://github.com/hpe-ykoehler)|Jan 17|:warning: hiredis|3|SpaceIm, jwillikers, prince-chrismc
+[#15331](https://github.com/conan-io/conan-center-index/pull/15331)|[hpe-ykoehler](https://github.com/hpe-ykoehler)|Jan 17|:warning: hiredis|4|SpaceIm, jwillikers, prince-chrismc, franramirez688
 
 
 #### :clipboard: Statistics
@@ -127,7 +127,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 222
 	- Draft: 21
-	- Average Age: 75 days, 17 hours, and 17.22 minutes
+	- Average Age: 75 days, 19 hours, and 17.29 minutes
 	- Stop Label: 111
 	
 
