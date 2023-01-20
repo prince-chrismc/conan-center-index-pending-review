@@ -23,12 +23,13 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **73** pull requests currently under way :detective:
+There are **75** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:new: libxls|3|Dec 27 :bell:||prince-chrismc
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: stlab|20|Dec 14 :bell:||
+[#13400](https://github.com/conan-io/conan-center-index/pull/13400)|[jwillikers](https://github.com/jwillikers)|Oct 10|:stopwatch: gstreamer|7|Jan 9||
 [#14083](https://github.com/conan-io/conan-center-index/pull/14083)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: gperf|1|Jan 17||
 [#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:memo: libev|15|Jan 16||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
@@ -81,8 +82,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|0|:eyes:||
 [#15300](https://github.com/conan-io/conan-center-index/pull/15300)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libcap|1|Jan 19||jwillikers
 [#15303](https://github.com/conan-io/conan-center-index/pull/15303)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:green_book: docs|2|Jan 16||
-[#15304](https://github.com/conan-io/conan-center-index/pull/15304)|[RubenRBS](https://github.com/RubenRBS)|Jan 16|:memo: libmysqlclient|2|Jan 20||jwillikers
-[#15305](https://github.com/conan-io/conan-center-index/pull/15305)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libpq|1|Jan 20||jwillikers
+[#15304](https://github.com/conan-io/conan-center-index/pull/15304)|[RubenRBS](https://github.com/RubenRBS)|Jan 16|:memo: libmysqlclient|3|Jan 20||jwillikers, StellaSmith
+[#15305](https://github.com/conan-io/conan-center-index/pull/15305)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:stopwatch: libpq|1|Jan 20||jwillikers
 [#15312](https://github.com/conan-io/conan-center-index/pull/15312)|[toge](https://github.com/toge)|Jan 16|:memo: tinyexr|0|:eyes:||
 [#15316](https://github.com/conan-io/conan-center-index/pull/15316)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: lua|0|||
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|:eyes:||
@@ -100,11 +101,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15371](https://github.com/conan-io/conan-center-index/pull/15371)|[SpaceIm](https://github.com/SpaceIm)|Jan 19|:memo: opencv|1|Jan 20||jwillikers
 [#15372](https://github.com/conan-io/conan-center-index/pull/15372)|[chausner](https://github.com/chausner)|Jan 19|:memo: flac|0|||
 [#15373](https://github.com/conan-io/conan-center-index/pull/15373)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:stopwatch: libcurl|1|Jan 20||jwillikers
+[#15380](https://github.com/conan-io/conan-center-index/pull/15380)|[danimtb](https://github.com/danimtb)|Jan 20|:green_book: docs|1|Jan 20||SSE4
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -112,9 +114,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
 [#15241](https://github.com/conan-io/conan-center-index/pull/15241)|[SpaceIm](https://github.com/SpaceIm)|Jan 12|:warning: opencv|2|jwillikers, prince-chrismc
 [#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:warning: autoconf|4|prince-chrismc, RubenRBS, czoido, StellaSmith
-[#15331](https://github.com/conan-io/conan-center-index/pull/15331)|[hpe-ykoehler](https://github.com/hpe-ykoehler)|Jan 17|:warning: hiredis|5|SpaceIm, jwillikers, prince-chrismc, franramirez688, uilianries
 [#15357](https://github.com/conan-io/conan-center-index/pull/15357)|[axxel](https://github.com/axxel)|Jan 19|:warning: zxing-cpp|2|prince-chrismc, jwillikers
-[#15374](https://github.com/conan-io/conan-center-index/pull/15374)|[danimtb](https://github.com/danimtb)|Jan 20|:gear: .c3i|4|SSE4, RubenRBS, uilianries, jwillikers
+[#15374](https://github.com/conan-io/conan-center-index/pull/15374)|[danimtb](https://github.com/danimtb)|Jan 20|:gear: .c3i|5|SSE4, RubenRBS, uilianries, jwillikers, StellaSmith
 
 
 #### :clipboard: Statistics
@@ -125,8 +126,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 225
 	- Draft: 21
-	- Average Age: 75 days, 1 hours, and 55.76 minutes
-	- Stop Label: 115
+	- Average Age: 75 days, 2 hours, and 41.78 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
