@@ -30,7 +30,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#12152](https://github.com/conan-io/conan-center-index/pull/12152)|[toge](https://github.com/toge)|Aug 11|:new: libxls|3|Dec 27 :bell:||prince-chrismc
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: stlab|20|Dec 14 :bell:||
 [#14083](https://github.com/conan-io/conan-center-index/pull/14083)|[SpaceIm](https://github.com/SpaceIm)|Nov 6|:memo: gperf|1|Jan 17||
-[#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:memo: libev|15|Jan 16||prince-chrismc
+[#14138](https://github.com/conan-io/conan-center-index/pull/14138)|[Jihadist](https://github.com/Jihadist)|Nov 10|:stopwatch: libev|15|Jan 16||
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|1|Nov 25 :bell:||
 [#14489](https://github.com/conan-io/conan-center-index/pull/14489)|[Linux13524](https://github.com/Linux13524)|Nov 29|:memo: soxr|8|Jan 16||prince-chrismc
 [#14490](https://github.com/conan-io/conan-center-index/pull/14490)|[Sneder89](https://github.com/Sneder89)|Nov 29|:memo: doxygen|10|Jan 16||
@@ -68,7 +68,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15199](https://github.com/conan-io/conan-center-index/pull/15199)|[werto87](https://github.com/werto87)|Jan 10|:memo: confu_json|0|:eyes:||
 [#15208](https://github.com/conan-io/conan-center-index/pull/15208)|[toge](https://github.com/toge)|Jan 10|:memo: libucl|0|:eyes:||
 [#15233](https://github.com/conan-io/conan-center-index/pull/15233)|[okaerin](https://github.com/okaerin)|Jan 12|:stopwatch: drogon|0|:eyes:||
-[#15234](https://github.com/conan-io/conan-center-index/pull/15234)|[franramirez688](https://github.com/franramirez688)|Jan 12|:memo: flex|5|Jan 18||
+[#15234](https://github.com/conan-io/conan-center-index/pull/15234)|[franramirez688](https://github.com/franramirez688)|Jan 12|:stopwatch: flex|8|Jan 20||
 [#15237](https://github.com/conan-io/conan-center-index/pull/15237)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-cxx|0|:eyes:||
 [#15250](https://github.com/conan-io/conan-center-index/pull/15250)|[sorny92](https://github.com/sorny92)|Jan 13|:memo: libsvtav1|0|:eyes:||
 [#15251](https://github.com/conan-io/conan-center-index/pull/15251)|[toge](https://github.com/toge)|Jan 13|:memo: daw_utf_range|0|:eyes:||
@@ -127,7 +127,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 222
 	- Draft: 21
-	- Average Age: 75 days, 19 hours, and 17.29 minutes
+	- Average Age: 75 days, 20 hours, and 13.21 minutes
 	- Stop Label: 111
 	
 
