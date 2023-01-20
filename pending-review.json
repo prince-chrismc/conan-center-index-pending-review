@@ -1666,9 +1666,9 @@
       "Recipe": "highway",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15369",
-      "LastCommitSHA": "c051ba0265fdf03fdf8c5119d85873b856b25e95",
-      "LastCommitAt": "2023-01-19T22:46:38Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "059833e75b2ea937328d0e8cad3006d40ef3fdf5",
+      "LastCommitAt": "2023-01-20T02:49:37Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
