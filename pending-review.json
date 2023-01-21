@@ -789,40 +789,19 @@
       "LastCommitAt": "2023-01-21T00:45:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "StellaSmith"
+         ],
          "Blockers": [
             "jcar87"
          ],
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-01-20T13:10:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15023#pullrequestreview-1263554600"
-         }
-      }
-   },
-   {
-      "Number": 15025,
-      "OpenedBy": "System-Arch",
-      "CreatedAt": "2022-12-31T00:42:55Z",
-      "Recipe": "gmp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15025",
-      "LastCommitSHA": "0f1ffac2dad9e8ab7a5e14c4cf5a33ab73f5c34f",
-      "LastCommitAt": "2023-01-21T03:34:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-01-17T19:49:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15025#pullrequestreview-1252353294"
+            "ReviewerName": "StellaSmith",
+            "SubmittedAt": "2023-01-21T16:17:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15023#pullrequestreview-1264639456"
          }
       }
    },
