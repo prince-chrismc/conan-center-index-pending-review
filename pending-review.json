@@ -386,15 +386,17 @@
       "LastCommitAt": "2023-01-20T23:56:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "StellaSmith"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "StellaSmith",
-            "SubmittedAt": "2023-01-20T16:44:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14770#pullrequestreview-1263987196"
+            "SubmittedAt": "2023-01-21T16:15:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14770#pullrequestreview-1264639279"
          }
       }
    },
@@ -1050,15 +1052,18 @@
       "LastCommitAt": "2023-01-20T23:11:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 15,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 17,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc",
+            "StellaSmith"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-20T18:27:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15234#pullrequestreview-1264138756"
+            "ReviewerName": "StellaSmith",
+            "SubmittedAt": "2023-01-21T16:04:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15234#pullrequestreview-1264638266"
          }
       }
    },
