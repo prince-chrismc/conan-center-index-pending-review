@@ -93,12 +93,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15326](https://github.com/conan-io/conan-center-index/pull/15326)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: avahi|0|:eyes:||
 [#15333](https://github.com/conan-io/conan-center-index/pull/15333)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 17|:gear: .github|0|||
 [#15337](https://github.com/conan-io/conan-center-index/pull/15337)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 17|:green_book: docs|1|Jan 20||uilianries
-[#15338](https://github.com/conan-io/conan-center-index/pull/15338)|[calebkiage](https://github.com/calebkiage)|Jan 17|:memo: libpq|1|Jan 18||
 [#15344](https://github.com/conan-io/conan-center-index/pull/15344)|[weinhold](https://github.com/weinhold)|Jan 18|:stopwatch: libpq|0|:eyes:||
 [#15345](https://github.com/conan-io/conan-center-index/pull/15345)|[dbarkar](https://github.com/dbarkar)|Jan 18|:new: wildmidi|0|:eyes:||
 [#15346](https://github.com/conan-io/conan-center-index/pull/15346)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:new: pgm-index|0|:eyes:||
 [#15349](https://github.com/conan-io/conan-center-index/pull/15349)|[szmyd](https://github.com/szmyd)|Jan 18|:stopwatch: nuraft|0|:eyes:||
 [#15350](https://github.com/conan-io/conan-center-index/pull/15350)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: libfdk_aac|0|:eyes:||
+[#15351](https://github.com/conan-io/conan-center-index/pull/15351)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: gtsam|0|||
 [#15360](https://github.com/conan-io/conan-center-index/pull/15360)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:memo: qt|1|Jan 19||jwillikers
 [#15365](https://github.com/conan-io/conan-center-index/pull/15365)|[SpaceIm](https://github.com/SpaceIm)|Jan 19|:memo: mfast|1|Jan 19||StellaSmith
 [#15369](https://github.com/conan-io/conan-center-index/pull/15369)|[toge](https://github.com/toge)|Jan 19|:memo: highway|1|Jan 20||jwillikers
@@ -141,8 +141,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 230
 	- Draft: 18
-	- Average Age: 73 days, 4 hours, and 0.04 minutes
-	- Stop Label: 108
+	- Average Age: 73 days, 5 hours, and 0.71 minutes
+	- Stop Label: 107
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
