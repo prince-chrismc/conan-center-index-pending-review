@@ -120,6 +120,29 @@
       }
    },
    {
+      "Number": 14295,
+      "OpenedBy": "Jihadist",
+      "CreatedAt": "2022-11-19T11:41:14Z",
+      "Recipe": "libverto",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14295",
+      "LastCommitSHA": "5fbe9e962b87e9e7bce32251d86a06ff5552b3b8",
+      "LastCommitAt": "2023-01-21T11:07:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-01-12T13:31:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14295#pullrequestreview-1245606983"
+         }
+      }
+   },
+   {
       "Number": 14426,
       "OpenedBy": "jngrb",
       "CreatedAt": "2022-11-25T14:15:26Z",
