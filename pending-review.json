@@ -338,15 +338,17 @@
       "LastCommitAt": "2023-01-21T07:21:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-20T12:14:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14712#pullrequestreview-1263486221"
+            "SubmittedAt": "2023-01-21T18:12:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14712#pullrequestreview-1264649343"
          }
       }
    },
@@ -1978,6 +1980,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15395",
       "LastCommitSHA": "29939cd15d37e7db5d3afcf8b2dfb71dad4c1a09",
       "LastCommitAt": "2023-01-21T08:39:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15398,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-21T18:06:23Z",
+      "Recipe": "zpp_bits",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15398",
+      "LastCommitSHA": "7abaebcd3a322b8c23bcdefe44763a174d4c0c12",
+      "LastCommitAt": "2023-01-21T18:05:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
