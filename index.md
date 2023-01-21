@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **85** pull requests currently under way :detective:
+There are **87** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -66,7 +66,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|0|:eyes:||
 [#15125](https://github.com/conan-io/conan-center-index/pull/15125)|[toge](https://github.com/toge)|Jan 5|:new: ls-qpack|0|:eyes:||
 [#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|5|Jan 20||
-[#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|0|||
+[#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:memo: opencv|0|||
 [#15198](https://github.com/conan-io/conan-center-index/pull/15198)|[justinmcbride](https://github.com/justinmcbride)|Jan 10|:memo: opentelemetry-cpp|0|:eyes:||
 [#15199](https://github.com/conan-io/conan-center-index/pull/15199)|[werto87](https://github.com/werto87)|Jan 10|:memo: confu_json|0|:eyes:||
 [#15208](https://github.com/conan-io/conan-center-index/pull/15208)|[toge](https://github.com/toge)|Jan 10|:memo: libucl|0|:eyes:||
@@ -106,12 +106,14 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15373](https://github.com/conan-io/conan-center-index/pull/15373)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:memo: libcurl|1|Jan 20||jwillikers
 [#15378](https://github.com/conan-io/conan-center-index/pull/15378)|[jwillikers](https://github.com/jwillikers)|Jan 20|:memo: clipper|1|Jan 20||
 [#15382](https://github.com/conan-io/conan-center-index/pull/15382)|[uilianries](https://github.com/uilianries)|Jan 20|:green_book: docs|2|Jan 20||
-[#15386](https://github.com/conan-io/conan-center-index/pull/15386)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:stopwatch: gdal|0|||
-[#15387](https://github.com/conan-io/conan-center-index/pull/15387)|[toge](https://github.com/toge)|Jan 21|:stopwatch: xtensor|0|||
-[#15388](https://github.com/conan-io/conan-center-index/pull/15388)|[toge](https://github.com/toge)|Jan 21|:stopwatch: fast_float|0|||
+[#15387](https://github.com/conan-io/conan-center-index/pull/15387)|[toge](https://github.com/toge)|Jan 21|:memo: xtensor|0|||
+[#15388](https://github.com/conan-io/conan-center-index/pull/15388)|[toge](https://github.com/toge)|Jan 21|:memo: fast_float|0|||
+[#15389](https://github.com/conan-io/conan-center-index/pull/15389)|[toge](https://github.com/toge)|Jan 21|:memo: cppbenchmark|0|||
 [#15390](https://github.com/conan-io/conan-center-index/pull/15390)|[toge](https://github.com/toge)|Jan 21|:stopwatch: flatbuffers|0|||
 [#15391](https://github.com/conan-io/conan-center-index/pull/15391)|[toge](https://github.com/toge)|Jan 21|:stopwatch: hidapi|0|||
-[#15392](https://github.com/conan-io/conan-center-index/pull/15392)|[toge](https://github.com/toge)|Jan 21|:stopwatch: itlib|0|||
+[#15392](https://github.com/conan-io/conan-center-index/pull/15392)|[toge](https://github.com/toge)|Jan 21|:memo: itlib|0|||
+[#15393](https://github.com/conan-io/conan-center-index/pull/15393)|[toge](https://github.com/toge)|Jan 21|:stopwatch: librdkafka|0|||
+[#15394](https://github.com/conan-io/conan-center-index/pull/15394)|[toge](https://github.com/toge)|Jan 21|:stopwatch: simdutf|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -132,9 +134,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 225
+	- Open: 227
 	- Draft: 19
-	- Average Age: 74 days, 1 hours, and 27.27 minutes
+	- Average Age: 73 days, 10 hours, and 48.88 minutes
 	- Stop Label: 110
 	
 
