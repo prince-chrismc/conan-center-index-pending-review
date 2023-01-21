@@ -2002,5 +2002,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15400,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-21T19:31:09Z",
+      "Recipe": "qcbor",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15400",
+      "LastCommitSHA": "024614a8f10bfcbd26347d1deda62b2995381653",
+      "LastCommitAt": "2023-01-21T19:30:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
