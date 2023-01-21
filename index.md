@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **91** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -95,10 +95,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15326](https://github.com/conan-io/conan-center-index/pull/15326)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: avahi|0|:eyes:||
 [#15333](https://github.com/conan-io/conan-center-index/pull/15333)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 17|:gear: .github|0|||
 [#15337](https://github.com/conan-io/conan-center-index/pull/15337)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 17|:green_book: docs|1|Jan 20||uilianries
-[#15338](https://github.com/conan-io/conan-center-index/pull/15338)|[calebkiage](https://github.com/calebkiage)|Jan 17|:memo: libpq|1|Jan 18||
 [#15344](https://github.com/conan-io/conan-center-index/pull/15344)|[weinhold](https://github.com/weinhold)|Jan 18|:stopwatch: libpq|0|:eyes:||
-[#15345](https://github.com/conan-io/conan-center-index/pull/15345)|[dbarkar](https://github.com/dbarkar)|Jan 18|:new: wildmidi|0|||
-[#15346](https://github.com/conan-io/conan-center-index/pull/15346)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:new: pgm-index|0|||
+[#15345](https://github.com/conan-io/conan-center-index/pull/15345)|[dbarkar](https://github.com/dbarkar)|Jan 18|:new: wildmidi|0|:eyes:||
+[#15346](https://github.com/conan-io/conan-center-index/pull/15346)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:new: pgm-index|0|:eyes:||
 [#15349](https://github.com/conan-io/conan-center-index/pull/15349)|[szmyd](https://github.com/szmyd)|Jan 18|:stopwatch: nuraft|0|||
 [#15350](https://github.com/conan-io/conan-center-index/pull/15350)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: libfdk_aac|0|||
 [#15360](https://github.com/conan-io/conan-center-index/pull/15360)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:memo: qt|1|Jan 19||jwillikers
@@ -140,8 +139,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 227
 	- Draft: 18
-	- Average Age: 73 days, 19 hours, and 12.82 minutes
-	- Stop Label: 107
+	- Average Age: 73 days, 21 hours, and 8.89 minutes
+	- Stop Label: 108
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
