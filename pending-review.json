@@ -634,9 +634,9 @@
       "Recipe": "glibmm",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14930",
-      "LastCommitSHA": "8bb99c2ce5ca89ded68d4f50c2958ef4432983e4",
-      "LastCommitAt": "2023-01-06T17:40:26Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "3686c00dc973c2194cdf87adaacc26f825e5b5ba",
+      "LastCommitAt": "2023-01-22T12:17:07Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
