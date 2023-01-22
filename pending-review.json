@@ -2037,7 +2037,7 @@
       "Recipe": "norm",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15411",
-      "LastCommitSHA": "ab93d2ec1a940dc0250d6a5ddb94752d85242f8f",
+      "LastCommitSHA": "7c7d2a55370a3eb891fd0c316f9a2b214e2db041",
       "LastCommitAt": "2023-01-22T19:57:31Z",
       "CciBotPassed": false,
       "Summary": {
