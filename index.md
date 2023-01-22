@@ -52,7 +52,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|0|:eyes:||
 [#14924](https://github.com/conan-io/conan-center-index/pull/14924)|[toge](https://github.com/toge)|Dec 24|:memo: mongo-cxx-driver|1|Jan 5 :bell:||
 [#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|0|:eyes:||
-[#14930](https://github.com/conan-io/conan-center-index/pull/14930)|[planetmarshall](https://github.com/planetmarshall)|Dec 25|:stopwatch: glibmm|1|Jan 22||
 [#14931](https://github.com/conan-io/conan-center-index/pull/14931)|[toge](https://github.com/toge)|Dec 25|:memo: mimalloc|4|Jan 17||
 [#14949](https://github.com/conan-io/conan-center-index/pull/14949)|[SpaceIm](https://github.com/SpaceIm)|Dec 26|:memo: opencv|0|:eyes:||
 [#14981](https://github.com/conan-io/conan-center-index/pull/14981)|[toge](https://github.com/toge)|Dec 28|:memo: uwebsockets|1|Jan 5 :bell:||
@@ -90,7 +89,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15316](https://github.com/conan-io/conan-center-index/pull/15316)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: lua|5|Jan 21||uilianries
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|:eyes:||
 [#15326](https://github.com/conan-io/conan-center-index/pull/15326)|[jwillikers](https://github.com/jwillikers)|Jan 17|:memo: avahi|0|:eyes:||
-[#15333](https://github.com/conan-io/conan-center-index/pull/15333)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 17|:gear: .github|0|||
+[#15333](https://github.com/conan-io/conan-center-index/pull/15333)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 17|:gear: .github|0|:eyes:||
 [#15337](https://github.com/conan-io/conan-center-index/pull/15337)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 17|:green_book: docs|1|Jan 20||uilianries
 [#15344](https://github.com/conan-io/conan-center-index/pull/15344)|[weinhold](https://github.com/weinhold)|Jan 18|:stopwatch: libpq|0|:eyes:||
 [#15345](https://github.com/conan-io/conan-center-index/pull/15345)|[dbarkar](https://github.com/dbarkar)|Jan 18|:new: wildmidi|0|:eyes:||
@@ -119,6 +118,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15400](https://github.com/conan-io/conan-center-index/pull/15400)|[toge](https://github.com/toge)|Jan 21|:memo: qcbor|0|||
 [#15401](https://github.com/conan-io/conan-center-index/pull/15401)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 21|:green_book: docs|0|||
 [#15409](https://github.com/conan-io/conan-center-index/pull/15409)|[toge](https://github.com/toge)|Jan 22|:stopwatch: simdjson|0|||
+[#15411](https://github.com/conan-io/conan-center-index/pull/15411)|[SpaceIm](https://github.com/SpaceIm)|Jan 22|:stopwatch: norm|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -139,9 +139,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 228
+	- Open: 229
 	- Draft: 18
-	- Average Age: 72 days, 18 hours, and 3.11 minutes
+	- Average Age: 72 days, 11 hours, and 28.36 minutes
 	- Stop Label: 104
 	
 
