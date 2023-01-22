@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **92** pull requests currently under way :detective:
+There are **94** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -98,7 +98,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15346](https://github.com/conan-io/conan-center-index/pull/15346)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:new: pgm-index|0|:eyes:||
 [#15349](https://github.com/conan-io/conan-center-index/pull/15349)|[szmyd](https://github.com/szmyd)|Jan 18|:stopwatch: nuraft|0|:eyes:||
 [#15350](https://github.com/conan-io/conan-center-index/pull/15350)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: libfdk_aac|0|:eyes:||
-[#15351](https://github.com/conan-io/conan-center-index/pull/15351)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: gtsam|0|||
+[#15351](https://github.com/conan-io/conan-center-index/pull/15351)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: gtsam|0|:eyes:||
 [#15360](https://github.com/conan-io/conan-center-index/pull/15360)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:memo: qt|1|Jan 19||jwillikers
 [#15365](https://github.com/conan-io/conan-center-index/pull/15365)|[SpaceIm](https://github.com/SpaceIm)|Jan 19|:memo: mfast|1|Jan 19||StellaSmith
 [#15369](https://github.com/conan-io/conan-center-index/pull/15369)|[toge](https://github.com/toge)|Jan 19|:memo: highway|1|Jan 20||jwillikers
@@ -119,6 +119,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15399](https://github.com/conan-io/conan-center-index/pull/15399)|[toge](https://github.com/toge)|Jan 21|:memo: wasmtime|0|||
 [#15400](https://github.com/conan-io/conan-center-index/pull/15400)|[toge](https://github.com/toge)|Jan 21|:memo: qcbor|0|||
 [#15401](https://github.com/conan-io/conan-center-index/pull/15401)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 21|:green_book: docs|0|||
+[#15408](https://github.com/conan-io/conan-center-index/pull/15408)|[toge](https://github.com/toge)|Jan 22|:stopwatch: hdrhistogram-c|0|||
+[#15409](https://github.com/conan-io/conan-center-index/pull/15409)|[toge](https://github.com/toge)|Jan 22|:stopwatch: simdjson|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -139,10 +141,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 230
+	- Open: 228
 	- Draft: 18
-	- Average Age: 73 days, 19 hours, and 59.02 minutes
-	- Stop Label: 107
+	- Average Age: 72 days, 16 hours, and 4.24 minutes
+	- Stop Label: 103
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
