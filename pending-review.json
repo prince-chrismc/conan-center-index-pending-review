@@ -1351,6 +1351,29 @@
       }
    },
    {
+      "Number": 15304,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-01-16T15:03:01Z",
+      "Recipe": "libmysqlclient",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15304",
+      "LastCommitSHA": "decd43c8bc67df579bf20f6468fb46717091dc50",
+      "LastCommitAt": "2023-01-23T10:41:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-01-22T18:05:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15304#pullrequestreview-1264837445"
+         }
+      }
+   },
+   {
       "Number": 15306,
       "OpenedBy": "jcar87",
       "CreatedAt": "2023-01-16T16:08:37Z",
@@ -2254,11 +2277,18 @@
       "LastCommitAt": "2023-01-23T11:41:02Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-01-23T12:55:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15424#pullrequestreview-1265540601"
+         }
       }
    }
 ]
