@@ -48,6 +48,29 @@
       }
    },
    {
+      "Number": 13402,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-10-10T19:05:42Z",
+      "Recipe": "cctag",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13402",
+      "LastCommitSHA": "cfe3d979d6a66483da5bad88aa5e90f6fc3da388",
+      "LastCommitAt": "2023-01-22T22:35:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-01-09T11:58:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13402#pullrequestreview-1240368861"
+         }
+      }
+   },
+   {
       "Number": 13799,
       "OpenedBy": "paulharris",
       "CreatedAt": "2022-10-27T07:57:09Z",
@@ -316,7 +339,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14686",
       "LastCommitSHA": "5640aa43df9a0d53163b6940bccb6c6aa0d3d703",
       "LastCommitAt": "2023-01-22T23:01:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -414,7 +437,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14770",
       "LastCommitSHA": "b571908a21138112f8be28d3b1c28cfbaae69683",
       "LastCommitAt": "2023-01-22T23:11:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 13,
          "ValidApprovals": 0,
@@ -967,9 +990,9 @@
       "Recipe": "opencv",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15193",
-      "LastCommitSHA": "0325e85cff60cd4fc8754074063cf120124357b0",
-      "LastCommitAt": "2023-01-20T23:14:59Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8cf98168a2fa0efe36a7c997c611b8f842a685ac",
+      "LastCommitAt": "2023-01-23T00:27:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1695,16 +1718,14 @@
       "Recipe": "opencv",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15371",
-      "LastCommitSHA": "12dc1738db0d42523a0421deed18aa7f5304644e",
-      "LastCommitAt": "2023-01-19T23:07:48Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "4e686921c79888aba0d9ccd0bb4b8ec68a40da4c",
+      "LastCommitAt": "2023-01-23T00:35:17Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
