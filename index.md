@@ -103,7 +103,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15360](https://github.com/conan-io/conan-center-index/pull/15360)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 19|:memo: qt|1|Jan 19||jwillikers
 [#15365](https://github.com/conan-io/conan-center-index/pull/15365)|[SpaceIm](https://github.com/SpaceIm)|Jan 19|:memo: mfast|1|Jan 19||StellaSmith
 [#15369](https://github.com/conan-io/conan-center-index/pull/15369)|[toge](https://github.com/toge)|Jan 19|:memo: highway|1|Jan 20||jwillikers
-[#15371](https://github.com/conan-io/conan-center-index/pull/15371)|[SpaceIm](https://github.com/SpaceIm)|Jan 19|:stopwatch: opencv|1|Jan 20||
+[#15371](https://github.com/conan-io/conan-center-index/pull/15371)|[SpaceIm](https://github.com/SpaceIm)|Jan 19|:memo: opencv|1|Jan 20||
 [#15372](https://github.com/conan-io/conan-center-index/pull/15372)|[chausner](https://github.com/chausner)|Jan 19|:memo: flac|1|Jan 22||Croydon
 [#15373](https://github.com/conan-io/conan-center-index/pull/15373)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:memo: libcurl|1|Jan 20||jwillikers
 [#15378](https://github.com/conan-io/conan-center-index/pull/15378)|[jwillikers](https://github.com/jwillikers)|Jan 20|:memo: clipper|2|Jan 22||SpaceIm
@@ -120,11 +120,11 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15399](https://github.com/conan-io/conan-center-index/pull/15399)|[toge](https://github.com/toge)|Jan 21|:memo: wasmtime|0|||
 [#15400](https://github.com/conan-io/conan-center-index/pull/15400)|[toge](https://github.com/toge)|Jan 21|:memo: qcbor|0|||
 [#15401](https://github.com/conan-io/conan-center-index/pull/15401)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 21|:green_book: docs|0|||
+[#15406](https://github.com/conan-io/conan-center-index/pull/15406)|[toge](https://github.com/toge)|Jan 22|:memo: h3|0|||
 [#15409](https://github.com/conan-io/conan-center-index/pull/15409)|[toge](https://github.com/toge)|Jan 22|:memo: simdjson|0|||
 [#15411](https://github.com/conan-io/conan-center-index/pull/15411)|[SpaceIm](https://github.com/SpaceIm)|Jan 22|:memo: norm|0|||
 [#15412](https://github.com/conan-io/conan-center-index/pull/15412)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 22|:green_book: docs|0|||
 [#15414](https://github.com/conan-io/conan-center-index/pull/15414)|[SpaceIm](https://github.com/SpaceIm)|Jan 22|:memo: baical-p7|0|||
-[#15415](https://github.com/conan-io/conan-center-index/pull/15415)|[toge](https://github.com/toge)|Jan 23|:stopwatch: libtorrent|0|||
 [#15416](https://github.com/conan-io/conan-center-index/pull/15416)|[toge](https://github.com/toge)|Jan 23|:stopwatch: trantor|0|||
 
 
@@ -148,7 +148,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 233
 	- Draft: 18
-	- Average Age: 71 days, 12 hours, and 32.68 minutes
+	- Average Age: 71 days, 13 hours, and 34.93 minutes
 	- Stop Label: 102
 	
 
