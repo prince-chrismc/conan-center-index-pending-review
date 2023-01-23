@@ -1382,17 +1382,14 @@
       "Recipe": "libmysqlclient",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15304",
-      "LastCommitSHA": "6af3d068d782ec7caefe3fdb2cd9e2bff589b379",
-      "LastCommitAt": "2023-01-20T09:08:46Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "051c65b95575666802f033de08978c195a3c65d1",
+      "LastCommitAt": "2023-01-23T09:06:51Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers",
-            "StellaSmith"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
@@ -2165,11 +2162,18 @@
       "LastCommitAt": "2023-01-22T19:57:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-01-23T09:04:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15411#pullrequestreview-1265204600"
+         }
       }
    },
    {
@@ -2199,6 +2203,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15414",
       "LastCommitSHA": "16fde07697b9119c28c377d8f4d0b8fa9112d127",
       "LastCommitAt": "2023-01-23T00:36:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15415,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-23T02:44:37Z",
+      "Recipe": "libtorrent",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15415",
+      "LastCommitSHA": "ef6dfc0bacb8c114cc3a992f0a29e968734dfd0c",
+      "LastCommitAt": "2023-01-23T05:50:55Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
