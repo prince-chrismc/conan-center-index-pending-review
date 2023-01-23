@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **103** pull requests currently under way :detective:
+There are **102** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -69,7 +69,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15081](https://github.com/conan-io/conan-center-index/pull/15081)|[basiliscos](https://github.com/basiliscos)|Jan 3|:memo: rotor|5|Jan 9 :bell:||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|0|:eyes:||
 [#15125](https://github.com/conan-io/conan-center-index/pull/15125)|[toge](https://github.com/toge)|Jan 5|:new: ls-qpack|0|:eyes:||
-[#15151](https://github.com/conan-io/conan-center-index/pull/15151)|[uyha](https://github.com/uyha)|Jan 7|:new: lely-core|6|Jan 21||uilianries
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|0|||
 [#15198](https://github.com/conan-io/conan-center-index/pull/15198)|[justinmcbride](https://github.com/justinmcbride)|Jan 10|:memo: opentelemetry-cpp|0|:eyes:||
 [#15199](https://github.com/conan-io/conan-center-index/pull/15199)|[werto87](https://github.com/werto87)|Jan 10|:memo: confu_json|0|:eyes:||
@@ -88,7 +87,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|0|:eyes:||
 [#15300](https://github.com/conan-io/conan-center-index/pull/15300)|[SpaceIm](https://github.com/SpaceIm)|Jan 16|:memo: libcap|1|Jan 19||jwillikers
 [#15303](https://github.com/conan-io/conan-center-index/pull/15303)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:green_book: docs|2|Jan 16||
-[#15304](https://github.com/conan-io/conan-center-index/pull/15304)|[RubenRBS](https://github.com/RubenRBS)|Jan 16|:stopwatch: libmysqlclient|4|Jan 22||
 [#15312](https://github.com/conan-io/conan-center-index/pull/15312)|[toge](https://github.com/toge)|Jan 16|:memo: tinyexr|0|:eyes:||
 [#15316](https://github.com/conan-io/conan-center-index/pull/15316)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: lua|5|Jan 21||uilianries
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|0|:eyes:||
@@ -108,7 +106,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15372](https://github.com/conan-io/conan-center-index/pull/15372)|[chausner](https://github.com/chausner)|Jan 19|:memo: flac|1|Jan 22||Croydon
 [#15373](https://github.com/conan-io/conan-center-index/pull/15373)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:memo: libcurl|1|Jan 20||jwillikers
 [#15378](https://github.com/conan-io/conan-center-index/pull/15378)|[jwillikers](https://github.com/jwillikers)|Jan 20|:memo: clipper|2|Jan 22||SpaceIm
-[#15382](https://github.com/conan-io/conan-center-index/pull/15382)|[uilianries](https://github.com/uilianries)|Jan 20|:green_book: docs|3|Jan 22||
+[#15382](https://github.com/conan-io/conan-center-index/pull/15382)|[uilianries](https://github.com/uilianries)|Jan 20|:green_book: docs|4|Jan 23||
 [#15387](https://github.com/conan-io/conan-center-index/pull/15387)|[toge](https://github.com/toge)|Jan 21|:memo: xtensor|0|||
 [#15388](https://github.com/conan-io/conan-center-index/pull/15388)|[toge](https://github.com/toge)|Jan 21|:memo: fast_float|0|||
 [#15389](https://github.com/conan-io/conan-center-index/pull/15389)|[toge](https://github.com/toge)|Jan 21|:memo: cppbenchmark|0|||
@@ -129,7 +127,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15414](https://github.com/conan-io/conan-center-index/pull/15414)|[SpaceIm](https://github.com/SpaceIm)|Jan 22|:memo: baical-p7|0|||
 [#15415](https://github.com/conan-io/conan-center-index/pull/15415)|[toge](https://github.com/toge)|Jan 23|:memo: libtorrent|0|||
 [#15416](https://github.com/conan-io/conan-center-index/pull/15416)|[toge](https://github.com/toge)|Jan 23|:memo: trantor|0|||
-[#15417](https://github.com/conan-io/conan-center-index/pull/15417)|[toge](https://github.com/toge)|Jan 23|:stopwatch: catch2|0|||
+[#15417](https://github.com/conan-io/conan-center-index/pull/15417)|[toge](https://github.com/toge)|Jan 23|:memo: catch2|0|||
+[#15419](https://github.com/conan-io/conan-center-index/pull/15419)|[franramirez688](https://github.com/franramirez688)|Jan 23|:stopwatch: flex|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -152,8 +151,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 235
 	- Draft: 18
-	- Average Age: 71 days, 3 hours, and 53.01 minutes
-	- Stop Label: 100
+	- Average Age: 71 days, 3 hours, and 19.43 minutes
+	- Stop Label: 101
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
