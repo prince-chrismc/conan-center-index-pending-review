@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **99** pull requests currently under way :detective:
+There are **101** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -41,6 +41,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14574](https://github.com/conan-io/conan-center-index/pull/14574)|[tiolan](https://github.com/tiolan)|Dec 4|:memo: fruit|2|Dec 23 :bell:||
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27 :bell:||uilianries
 [#14686](https://github.com/conan-io/conan-center-index/pull/14686)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: msys2|1|Jan 22||
+[#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: mpfr|1|Dec 11 :bell:||
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:memo: tracy|2|Jan 20||uilianries
 [#14712](https://github.com/conan-io/conan-center-index/pull/14712)|[seladb](https://github.com/seladb)|Dec 13|:memo: pcapplusplus|4|Jan 21||uilianries
 [#14765](https://github.com/conan-io/conan-center-index/pull/14765)|[toge](https://github.com/toge)|Dec 15|:memo: kaitai_struct_cpp_stl_runtime|1|Jan 20||uilianries
@@ -121,11 +122,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15400](https://github.com/conan-io/conan-center-index/pull/15400)|[toge](https://github.com/toge)|Jan 21|:memo: qcbor|0|||
 [#15401](https://github.com/conan-io/conan-center-index/pull/15401)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 21|:green_book: docs|0|||
 [#15406](https://github.com/conan-io/conan-center-index/pull/15406)|[toge](https://github.com/toge)|Jan 22|:memo: h3|0|||
+[#15408](https://github.com/conan-io/conan-center-index/pull/15408)|[toge](https://github.com/toge)|Jan 22|:memo: hdrhistogram-c|0|||
 [#15409](https://github.com/conan-io/conan-center-index/pull/15409)|[toge](https://github.com/toge)|Jan 22|:memo: simdjson|0|||
 [#15411](https://github.com/conan-io/conan-center-index/pull/15411)|[SpaceIm](https://github.com/SpaceIm)|Jan 22|:memo: norm|0|||
 [#15412](https://github.com/conan-io/conan-center-index/pull/15412)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 22|:green_book: docs|0|||
 [#15414](https://github.com/conan-io/conan-center-index/pull/15414)|[SpaceIm](https://github.com/SpaceIm)|Jan 22|:memo: baical-p7|0|||
-[#15416](https://github.com/conan-io/conan-center-index/pull/15416)|[toge](https://github.com/toge)|Jan 23|:stopwatch: trantor|0|||
+[#15416](https://github.com/conan-io/conan-center-index/pull/15416)|[toge](https://github.com/toge)|Jan 23|:memo: trantor|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -148,8 +150,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 233
 	- Draft: 18
-	- Average Age: 71 days, 13 hours, and 34.93 minutes
-	- Stop Label: 102
+	- Average Age: 71 days, 15 hours, and 35.18 minutes
+	- Stop Label: 100
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
