@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **126** pull requests currently under way :detective:
+There are **129** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -36,6 +36,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14489](https://github.com/conan-io/conan-center-index/pull/14489)|[Linux13524](https://github.com/Linux13524)|Nov 29|:memo: soxr|8|Jan 16||prince-chrismc
 [#14490](https://github.com/conan-io/conan-center-index/pull/14490)|[Sneder89](https://github.com/Sneder89)|Nov 29|:memo: doxygen|10|Jan 16||
 [#14544](https://github.com/conan-io/conan-center-index/pull/14544)|[System-Arch](https://github.com/System-Arch)|Dec 2|:memo: m4|8|Jan 20||
+[#14574](https://github.com/conan-io/conan-center-index/pull/14574)|[tiolan](https://github.com/tiolan)|Dec 4|:stopwatch: fruit|14|Jan 24||prince-chrismc
 [#14625](https://github.com/conan-io/conan-center-index/pull/14625)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Dec 7|:memo: boost|2|Dec 27 :bell:||uilianries
 [#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:stopwatch: mpfr|2|Jan 23||
 [#14710](https://github.com/conan-io/conan-center-index/pull/14710)|[jjcasmar](https://github.com/jjcasmar)|Dec 13|:memo: tracy|2|Jan 20||uilianries
@@ -116,7 +117,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15398](https://github.com/conan-io/conan-center-index/pull/15398)|[toge](https://github.com/toge)|Jan 21|:memo: zpp_bits|0|:eyes:||
 [#15399](https://github.com/conan-io/conan-center-index/pull/15399)|[toge](https://github.com/toge)|Jan 21|:memo: wasmtime|0|:eyes:||
 [#15400](https://github.com/conan-io/conan-center-index/pull/15400)|[toge](https://github.com/toge)|Jan 21|:memo: qcbor|0|:eyes:||
-[#15401](https://github.com/conan-io/conan-center-index/pull/15401)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 21|:green_book: docs|0|||
+[#15401](https://github.com/conan-io/conan-center-index/pull/15401)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 21|:green_book: docs|0|:eyes:||
 [#15406](https://github.com/conan-io/conan-center-index/pull/15406)|[toge](https://github.com/toge)|Jan 22|:memo: h3|0|||
 [#15408](https://github.com/conan-io/conan-center-index/pull/15408)|[toge](https://github.com/toge)|Jan 22|:memo: hdrhistogram-c|0|||
 [#15409](https://github.com/conan-io/conan-center-index/pull/15409)|[toge](https://github.com/toge)|Jan 22|:memo: simdjson|0|||
@@ -140,6 +141,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15436](https://github.com/conan-io/conan-center-index/pull/15436)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: ffmpeg|1|Jan 24||jwillikers
 [#15437](https://github.com/conan-io/conan-center-index/pull/15437)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: cyclonedds|0|||
 [#15438](https://github.com/conan-io/conan-center-index/pull/15438)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: arrow|0|||
+[#15441](https://github.com/conan-io/conan-center-index/pull/15441)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: aaf|0|||
+[#15442](https://github.com/conan-io/conan-center-index/pull/15442)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: aeron|0|||
 [#15443](https://github.com/conan-io/conan-center-index/pull/15443)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: msys2|1|Jan 23||prince-chrismc
 [#15444](https://github.com/conan-io/conan-center-index/pull/15444)|[SpaceIm](https://github.com/SpaceIm)|Jan 24|:memo: amgcl|0|||
 [#15446](https://github.com/conan-io/conan-center-index/pull/15446)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 24|:green_book: docs|0|||
@@ -175,8 +178,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 263
 	- Draft: 16
-	- Average Age: 63 days, 9 hours, and 12.28 minutes
-	- Stop Label: 105
+	- Average Age: 63 days, 12 hours, and 11.32 minutes
+	- Stop Label: 103
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
