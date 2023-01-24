@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **115** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -105,8 +105,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15373](https://github.com/conan-io/conan-center-index/pull/15373)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:memo: libcurl|1|Jan 20||jwillikers
 [#15378](https://github.com/conan-io/conan-center-index/pull/15378)|[jwillikers](https://github.com/jwillikers)|Jan 20|:memo: clipper|2|Jan 22||SpaceIm
 [#15382](https://github.com/conan-io/conan-center-index/pull/15382)|[uilianries](https://github.com/uilianries)|Jan 20|:green_book: docs|4|Jan 23||
-[#15387](https://github.com/conan-io/conan-center-index/pull/15387)|[toge](https://github.com/toge)|Jan 21|:memo: xtensor|0|||
-[#15388](https://github.com/conan-io/conan-center-index/pull/15388)|[toge](https://github.com/toge)|Jan 21|:memo: fast_float|0|||
+[#15387](https://github.com/conan-io/conan-center-index/pull/15387)|[toge](https://github.com/toge)|Jan 21|:memo: xtensor|0|:eyes:||
+[#15388](https://github.com/conan-io/conan-center-index/pull/15388)|[toge](https://github.com/toge)|Jan 21|:memo: fast_float|0|:eyes:||
 [#15389](https://github.com/conan-io/conan-center-index/pull/15389)|[toge](https://github.com/toge)|Jan 21|:memo: cppbenchmark|0|||
 [#15390](https://github.com/conan-io/conan-center-index/pull/15390)|[toge](https://github.com/toge)|Jan 21|:memo: flatbuffers|0|||
 [#15391](https://github.com/conan-io/conan-center-index/pull/15391)|[toge](https://github.com/toge)|Jan 21|:memo: hidapi|2|Jan 23||jwillikers
@@ -139,18 +139,19 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15436](https://github.com/conan-io/conan-center-index/pull/15436)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:stopwatch: ffmpeg|0|||
 [#15438](https://github.com/conan-io/conan-center-index/pull/15438)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:stopwatch: arrow|0|||
 [#15442](https://github.com/conan-io/conan-center-index/pull/15442)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:stopwatch: aeron|0|||
-[#15443](https://github.com/conan-io/conan-center-index/pull/15443)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:stopwatch: msys2|1|Jan 23||prince-chrismc
+[#15443](https://github.com/conan-io/conan-center-index/pull/15443)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: msys2|1|Jan 23||prince-chrismc
+[#15444](https://github.com/conan-io/conan-center-index/pull/15444)|[SpaceIm](https://github.com/SpaceIm)|Jan 24|:stopwatch: amgcl|0|||
+[#15445](https://github.com/conan-io/conan-center-index/pull/15445)|[SpaceIm](https://github.com/SpaceIm)|Jan 24|:stopwatch: amqp-cpp|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|4|MartinDelille, prince-chrismc
-[#14949](https://github.com/conan-io/conan-center-index/pull/14949)|[SpaceIm](https://github.com/SpaceIm)|Dec 26|:memo: opencv|2|jwillikers, prince-chrismc
 [#15306](https://github.com/conan-io/conan-center-index/pull/15306)|[jcar87](https://github.com/jcar87)|Jan 16|:warning: autoconf|4|prince-chrismc, RubenRBS, czoido, StellaSmith
 [#15374](https://github.com/conan-io/conan-center-index/pull/15374)|[danimtb](https://github.com/danimtb)|Jan 20|:gear: .c3i|5|SSE4, RubenRBS, uilianries, jwillikers, StellaSmith
 
@@ -161,9 +162,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 250
+	- Open: 251
 	- Draft: 17
-	- Average Age: 66 days, 10 hours, and 58.37 minutes
+	- Average Age: 66 days, 3 hours, and 43.52 minutes
 	- Stop Label: 105
 	
 
