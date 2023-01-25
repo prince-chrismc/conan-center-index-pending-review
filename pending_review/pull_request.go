@@ -191,9 +191,22 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		return nil, resp, fmt.Errorf("%w", ErrInvalidChange)
 	}
 
-	change, err := getDiff(files[0])
+	change, err := processChangedFiles(files)
 	if err != nil {
 		return nil, resp, err
+	}
+
+	return change, resp, nil
+}
+
+func processChangedFiles(files []*CommitFile) (*change, error) {
+	if len(files) < 1 {
+		return nil, fmt.Errorf("%w", ErrInvalidChange)
+	}
+
+	change, err := getDiff(files[0])
+	if err != nil {
+		return nil, err
 	}
 
 	addition := files[0].GetAdditions()
@@ -201,33 +214,33 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 	for _, file := range files[1:] {
 		obtained, err := getDiff(file)
 		if err != nil {
-			return nil, resp, err
+			return nil, err
 		}
 
-		if change.Recipe != obtained.Recipe { // PR should only be changing one recipe at a time
-			return nil, resp, fmt.Errorf("%w", ErrInvalidChange)
+		if change.Recipe != obtained.Recipe {
+			return nil, fmt.Errorf("%w", ErrInvalidChange)
 		}
 
 		if change.Change == NEW && obtained.Change == EDIT {
-			change.Change = EDIT // Any edit breaks the "new recipe" definition
+			change.Change = EDIT
 		}
 
 		addition += file.GetAdditions()
 		deletions += file.GetDeletions()
 	}
 
-	if len(files) <= 2 && addition <= 10 && deletions == 0 { // Something on the scale of bumping or adding a missing option
+	if len(files) <= 2 && addition <= 10 && deletions == 0 {
 		change.Weight = TINY
-	} else if len(files) <= 4 && (addition+deletions) <= 25 { // https://github.com/conan-io/conan-center-index/pull/15455
+	} else if len(files) <= 4 && (addition+deletions) <= 25 {
 		change.Weight = SMALL
-	} else if len(files) <= 5 && (addition+deletions) <= 100 { // https://github.com/conan-io/conan-center-index/pull/15454
+	} else if len(files) <= 5 && (addition+deletions) <= 100 {
 		change.Weight = REGULAR
-		// Heavy is the default so every in between should just be that
+
 	} else if len(files) > 12 || (addition+deletions) >= 500 {
 		change.Weight = TOO_MUCH
 	}
 
-	return change, resp, nil
+	return change, nil
 }
 
 func getDiff(file *CommitFile) (*change, error) {

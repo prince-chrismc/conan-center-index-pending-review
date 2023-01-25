@@ -1560,3 +1560,33 @@ func TestProcessLabelsNoApproval(t *testing.T) {
 	err := processLabels(pr.Labels)
 	assert.Equal(t, err, nil)
 }
+
+func parsePullRequestFilesJSON(t *testing.T, str string) []*CommitFile {
+	var files []*CommitFile
+
+	if err := json.Unmarshal([]byte(str), &files); err != nil {
+		t.Fatal("Unable to parse JSON")
+	}
+
+	return files
+}
+
+func TestProcessChangedFiles(t *testing.T) {
+	files := parsePullRequestFilesJSON(t, `[
+    {
+      "sha": "6761b154e37b6cdeac8a4117c420b3a3ab1380cc",
+      "filename": "recipes/jfalcou-eve/all/conanfile.py",
+      "status": "modified",
+      "additions": 1,
+      "deletions": 3,
+      "changes": 4,
+      "blob_url": "https://github.com/conan-io/conan-center-index/blob/8a13d1497e84d700ffe2a8560a0d7a8c9e2a64ee/recipes%2Fjfalcou-eve%2Fall%2Fconanfile.py",
+      "raw_url": "https://github.com/conan-io/conan-center-index/raw/8a13d1497e84d700ffe2a8560a0d7a8c9e2a64ee/recipes%2Fjfalcou-eve%2Fall%2Fconanfile.py",
+      "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fjfalcou-eve%2Fall%2Fconanfile.py?ref=8a13d1497e84d700ffe2a8560a0d7a8c9e2a64ee",
+      "patch": "@@ -35,7 +35,7 @@ def _compilers_minimum_version(self):\n                 \"Visual Studio\": \"16.9\",\n                 \"msvc\": \"1928\",\n                 \"clang\": \"13\",\n-                \"apple-clang\": \"13\"}\n+                \"apple-clang\": \"14\"}\n \n     def configure(self):\n         version = Version(self.version.strip(\"v\"))\n@@ -53,8 +53,6 @@ def validate(self):\n             check_min_cppstd(self, self._min_cppstd)\n         if is_msvc(self):\n             raise ConanInvalidConfiguration(\"EVE does not support MSVC yet (https://github.com/jfalcou/eve/issues/1022).\")\n-        if self.settings.compiler == \"apple-clang\":\n-            raise ConanInvalidConfiguration(\"EVE does not support apple Clang due to an incomplete libcpp.\")\n \n         def lazy_lt_semver(v1, v2):\n             lv1 = [int(v) for v in v1.split(\".\")]"
+    }
+  ]`)
+
+	_, err := processChangedFiles(files)
+	assert.Equal(t, err, nil)
+}
