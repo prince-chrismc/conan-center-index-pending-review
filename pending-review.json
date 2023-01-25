@@ -2276,29 +2276,6 @@
       }
    },
    {
-      "Number": 15426,
-      "OpenedBy": "vbieleny",
-      "CreatedAt": "2023-01-23T14:06:46Z",
-      "Recipe": "iso8601lib",
-      "Change": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15426",
-      "LastCommitSHA": "362292d731914b43c49442c7bb023ab1fba98802",
-      "LastCommitAt": "2023-01-24T09:09:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "StellaSmith",
-            "SubmittedAt": "2023-01-23T19:17:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15426#pullrequestreview-1266186672"
-         }
-      }
-   },
-   {
       "Number": 15427,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2023-01-23T15:35:44Z",
