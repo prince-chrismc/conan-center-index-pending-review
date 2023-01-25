@@ -229,7 +229,8 @@ func processChangedFiles(files []*CommitFile) (*change, error) {
 		deletions += file.GetDeletions()
 	}
 
-	if len(files) <= 2 && addition <= 10 && deletions == 0 {
+	//if len(files) <= 2 && addition <= 10 && deletions == 0 {
+	if len(files) <= 2 && (addition+deletions) <= 10 {
 		change.Weight = TINY
 	} else if len(files) <= 4 && (addition+deletions) <= 25 {
 		change.Weight = SMALL
@@ -276,5 +277,5 @@ func getDiff(file *CommitFile) (*change, error) {
 		return nil, fmt.Errorf("%w", ErrInvalidChange)
 	}
 
-	return &change{title, status, HEAVY}, nil // Default to heavy to make the calculation easier in `determineTypeOfChange`
+	return &change{title, status, HEAVY}, nil // Default to heavy to make the calculation easier in `processChangedFiles`
 }

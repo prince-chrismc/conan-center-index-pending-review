@@ -1571,7 +1571,8 @@ func parsePullRequestFilesJSON(t *testing.T, str string) []*CommitFile {
 	return files
 }
 
-func TestProcessChangedFiles(t *testing.T) {
+func TestProcessChangedFilesTinyEdit(t *testing.T) {
+	// https://github.com/conan-io/conan-center-index/pull/15470/files
 	files := parsePullRequestFilesJSON(t, `[
     {
       "sha": "6761b154e37b6cdeac8a4117c420b3a3ab1380cc",
@@ -1587,6 +1588,159 @@ func TestProcessChangedFiles(t *testing.T) {
     }
   ]`)
 
-	_, err := processChangedFiles(files)
+	obtained, err := processChangedFiles(files)
 	assert.Equal(t, err, nil)
+	assert.Equal(t, &change{Recipe: "jfalcou-eve", Change: EDIT, Weight: TINY}, obtained)
+}
+
+func TestProcessChangedFilesRegularEdit(t *testing.T) {
+	// https://github.com/conan-io/conan-center-index/pull/15372/files
+	files := parsePullRequestFilesJSON(t, `[
+		{
+		  "sha": "b0d1e5271b8503adea65c7477489ad7b77a1b043",
+		  "filename": "recipes/flac/all/conandata.yml",
+		  "status": "modified",
+		  "additions": 10,
+		  "deletions": 1,
+		  "changes": 11,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fall%2Fconandata.yml",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fall%2Fconandata.yml",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fflac%2Fall%2Fconandata.yml?ref=955ef84abb67216777c78a1c73ba59e8370b0937",
+		  "patch": "@@ -1,7 +1,16 @@\n sources:\n+  \"1.4.2\":\n+    url: \"https://github.com/xiph/flac/releases/download/1.4.2/flac-1.4.2.tar.xz\"\n+    sha256: \"e322d58a1f48d23d9dd38f432672865f6f79e73a6f9cc5a5f57fcaa83eb5a8e4\"\n   \"1.3.3\":\n     url: \"https://github.com/xiph/flac/archive/1.3.3.tar.gz\"\n     sha256: \"668cdeab898a7dd43cf84739f7e1f3ed6b35ece2ef9968a5c7079fe9adfe1689\"\n patches:\n+  \"1.4.2\":\n+    - patch_file: \"patches/fix-cmake-1.4.2.patch\"\n+      patch_description: \"Adapts find_package commands and install destination paths in CMakeLists.txt files.\"\n+      patch_type: \"conan\"\n   \"1.3.3\":\n-    - patch_file: \"patches/fix-cmake.patch\"\n+    - patch_file: \"patches/fix-cmake-1.3.3.patch\"\n+      patch_description: \"Various adaptations in CMakeLists.txt files to improve compatibility with Conan.\"\n+      patch_type: \"conan\""
+		},
+		{
+		  "sha": "3a9e705b2a4f7c0ff46147bcac198539b61fe62f",
+		  "filename": "recipes/flac/all/conanfile.py",
+		  "status": "modified",
+		  "additions": 10,
+		  "deletions": 7,
+		  "changes": 17,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fall%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fall%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fflac%2Fall%2Fconanfile.py?ref=955ef84abb67216777c78a1c73ba59e8370b0937",
+		  "patch": "@@ -1,10 +1,11 @@\n from conan import ConanFile\n from conan.tools.cmake import CMake, CMakeDeps, CMakeToolchain, cmake_layout\n from conan.tools.env import VirtualBuildEnv\n-from conan.tools.files import apply_conandata_patches, copy, get, rmdir\n+from conan.tools.files import apply_conandata_patches, export_conandata_patches, copy, get, rmdir\n+from conan.tools.scm import Version\n import os\n \n-required_conan_version = \">=1.47.0\"\n+required_conan_version = \">=1.53.0\"\n \n \n class FlacConan(ConanFile):\n@@ -26,22 +27,21 @@ class FlacConan(ConanFile):\n     }\n \n     def export_sources(self):\n-        for p in self.conan_data.get(\"patches\", {}).get(self.version, []):\n-            copy(self, p[\"patch_file\"], self.recipe_folder, self.export_sources_folder)\n+        export_conandata_patches(self)\n \n     def config_options(self):\n         if self.settings.os == \"Windows\":\n             del self.options.fPIC\n \n     def configure(self):\n         if self.options.shared:\n-            del self.options.fPIC\n+            self.options.rm_safe(\"fPIC\")\n \n     def requirements(self):\n         self.requires(\"ogg/1.3.5\")\n \n     def build_requirements(self):\n-        if self.settings.arch in [\"x86\", \"x86_64\"]:\n+        if Version(self.version) < \"1.4.2\" and self.settings.arch in [\"x86\", \"x86_64\"]:\n             self.tool_requires(\"nasm/2.15.05\")\n \n     def layout(self):\n@@ -56,6 +56,8 @@ def generate(self):\n         tc.variables[\"BUILD_EXAMPLES\"] = False\n         tc.variables[\"BUILD_DOCS\"] = False\n         tc.variables[\"BUILD_TESTING\"] = False\n+        # Honor BUILD_SHARED_LIBS from conan_toolchain (see https://github.com/conan-io/conan/issues/11840)\n+        tc.cache_variables[\"CMAKE_POLICY_DEFAULT_CMP0077\"] = \"NEW\"\n         tc.generate()\n         cd = CMakeDeps(self)\n         cd.generate()\n@@ -79,6 +81,8 @@ def package(self):\n         copy(self, \"*.h\", src=os.path.join(self.source_folder, \"include\", \"share\", \"grabbag\"),\n                           dst=os.path.join(self.package_folder, \"include\", \"share\", \"grabbag\"), keep_path=False)\n         rmdir(self, os.path.join(self.package_folder, \"share\"))\n+        rmdir(self, os.path.join(self.package_folder, \"lib\", \"cmake\"))\n+        rmdir(self, os.path.join(self.package_folder, \"lib\", \"pkgconfig\"))\n \n     def package_info(self):\n         self.cpp_info.set_property(\"cmake_file_name\", \"flac\")\n@@ -101,7 +105,6 @@ def package_info(self):\n         self.output.info(\"Appending PATH environment variable: {}\".format(bin_path))\n         self.env_info.PATH.append(bin_path)\n \n-        # TODO: to remove in conan v2 once cmake_find_package_* generators removed\n         self.cpp_info.filenames[\"cmake_find_package\"] = \"flac\"\n         self.cpp_info.filenames[\"cmake_find_package_multi\"] = \"flac\"\n         self.cpp_info.names[\"cmake_find_package\"] = \"FLAC\""
+		},
+		{
+		  "sha": "ec7db2f2d00aaaa31bcbebdc536d8faadb43c84b",
+		  "filename": "recipes/flac/all/patches/fix-cmake-1.3.3.patch",
+		  "status": "renamed",
+		  "additions": 0,
+		  "deletions": 0,
+		  "changes": 0,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fall%2Fpatches%2Ffix-cmake-1.3.3.patch",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fall%2Fpatches%2Ffix-cmake-1.3.3.patch",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fflac%2Fall%2Fpatches%2Ffix-cmake-1.3.3.patch?ref=955ef84abb67216777c78a1c73ba59e8370b0937",
+		  "previous_filename": "recipes/flac/all/patches/fix-cmake.patch"
+		},
+		{
+		  "sha": "bd5a0ebdb6997e0c7b0a71f0bd93830abd2266a5",
+		  "filename": "recipes/flac/all/patches/fix-cmake-1.4.2.patch",
+		  "status": "added",
+		  "additions": 38,
+		  "deletions": 0,
+		  "changes": 38,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fall%2Fpatches%2Ffix-cmake-1.4.2.patch",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fall%2Fpatches%2Ffix-cmake-1.4.2.patch",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fflac%2Fall%2Fpatches%2Ffix-cmake-1.4.2.patch?ref=955ef84abb67216777c78a1c73ba59e8370b0937",
+		  "patch": "@@ -0,0 +1,38 @@\n+--- a/CMakeLists.txt\n++++ b/CMakeLists.txt\n+@@ -43,7 +43,7 @@ if(WITH_OGG)\n+         endif()\n+     else()\n+         if(NOT TARGET Ogg::ogg)\n+-            find_package(Ogg REQUIRED)\n++            find_package(Ogg REQUIRED CONFIG)\n+         else()\n+             set(OGG_FOUND 1 CACHE INTERNAL \"ogg has already been built\")\n+         endif()\n+--- a/src/flac/CMakeLists.txt\n++++ b/src/flac/CMakeLists.txt\n+@@ -21,4 +21,4 @@ target_link_libraries(flacapp\n+     utf8)\n+ \n+ install(TARGETS flacapp EXPORT targets\n+-    RUNTIME DESTINATION \"${CMAKE_INSTALL_BINDIR}\")\n++    DESTINATION \"${CMAKE_INSTALL_BINDIR}\")\n+--- a/src/metaflac/CMakeLists.txt\n++++ b/src/metaflac/CMakeLists.txt\n+@@ -14,4 +14,4 @@ add_executable(metaflac\n+ target_link_libraries(metaflac FLAC getopt utf8)\n+ \n+ install(TARGETS metaflac EXPORT targets\n+-    RUNTIME DESTINATION \"${CMAKE_INSTALL_BINDIR}\")\n++    DESTINATION \"${CMAKE_INSTALL_BINDIR}\")\n+--- a/src/share/getopt/CMakeLists.txt\n++++ b/src/share/getopt/CMakeLists.txt\n+@@ -1,8 +1,7 @@\n+ check_include_file(\"string.h\" HAVE_STRING_H)\n+ \n+ if(NOT WIN32)\n+-    find_package(Intl)\n+ endif()\n+ \n+ add_library(getopt STATIC getopt.c getopt1.c)\n+ "
+		},
+		{
+		  "sha": "fac8ae5f33f51941a2c2fac89f8e8d2a4508a6e0",
+		  "filename": "recipes/flac/config.yml",
+		  "status": "modified",
+		  "additions": 2,
+		  "deletions": 0,
+		  "changes": 2,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fconfig.yml",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/955ef84abb67216777c78a1c73ba59e8370b0937/recipes%2Fflac%2Fconfig.yml",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fflac%2Fconfig.yml?ref=955ef84abb67216777c78a1c73ba59e8370b0937",
+		  "patch": "@@ -1,3 +1,5 @@\n versions:\n+  \"1.4.2\":\n+    folder: all\n   \"1.3.3\":\n     folder: all"
+		}
+	  ]`)
+
+	obtained, err := processChangedFiles(files)
+	assert.Equal(t, err, nil)
+	assert.Equal(t, &change{Recipe: "flac", Change: EDIT, Weight: REGULAR}, obtained)
+}
+
+func TestProcessChangedFilesHeavyEdit(t *testing.T) {
+	// https://github.com/conan-io/conan-center-index/pull/15350/files
+	files := parsePullRequestFilesJSON(t, `[
+		{
+		  "sha": "b71c882d9d33fc382d6af137c1acc5f3b7fc91a7",
+		  "filename": "recipes/libfdk_aac/all/CMakeLists.txt",
+		  "status": "removed",
+		  "additions": 0,
+		  "deletions": 7,
+		  "changes": 7,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/d6e2e52ebfa83281c5ad6f91e91cfaffcc73e1d5/recipes%2Flibfdk_aac%2Fall%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/d6e2e52ebfa83281c5ad6f91e91cfaffcc73e1d5/recipes%2Flibfdk_aac%2Fall%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Flibfdk_aac%2Fall%2FCMakeLists.txt?ref=d6e2e52ebfa83281c5ad6f91e91cfaffcc73e1d5",
+		  "patch": "@@ -1,7 +0,0 @@\n-cmake_minimum_required(VERSION 3.1)\n-project(cmake_wrapper)\n-\n-include(conanbuildinfo.cmake)\n-conan_basic_setup(KEEP_RPATHS)\n-\n-add_subdirectory(source_subfolder)"
+		},
+		{
+		  "sha": "5907c10a61c22c2dec1311ec8d0f8ba60bc423d7",
+		  "filename": "recipes/libfdk_aac/all/conanfile.py",
+		  "status": "modified",
+		  "additions": 88,
+		  "deletions": 103,
+		  "changes": 191,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Flibfdk_aac%2Fall%2Fconanfile.py?ref=893ee53357b1914124b535113be20162e47f52cc",
+		  "patch": "@@ -1,9 +1,15 @@\n-from conans import ConanFile, AutoToolsBuildEnvironment, CMake, VisualStudioBuildEnvironment, tools\n-import contextlib\n-import functools\n+from conan import ConanFile\n+from conan.tools.apple import fix_apple_shared_install_name\n+from conan.tools.cmake import CMake, CMakeToolchain, cmake_layout\n+from conan.tools.env import VirtualBuildEnv\n+from conan.tools.files import chdir, copy, get, rename, replace_in_file, rm, rmdir\n+from conan.tools.gnu import Autotools, AutotoolsToolchain\n+from conan.tools.layout import basic_layout\n+from conan.tools.microsoft import is_msvc, NMakeToolchain\n+from conan.tools.scm import Version\n import os\n \n-required_conan_version = \">=1.43.0\"\n+required_conan_version = \">=1.55.0\"\n \n \n class LibFDKAACConan(ConanFile):\n@@ -12,7 +18,7 @@ class LibFDKAACConan(ConanFile):\n     description = \"A standalone library of the Fraunhofer FDK AAC code from Android\"\n     license = \"https://github.com/mstorsjo/fdk-aac/blob/master/NOTICE\"\n     homepage = \"https://sourceforge.net/projects/opencore-amr/\"\n-    topics = (\"libfdk_aac\", \"multimedia\", \"audio\", \"fraunhofer\", \"aac\", \"decoder\", \"encoding\", \"decoding\")\n+    topics = (\"multimedia\", \"audio\", \"fraunhofer\", \"aac\", \"decoder\", \"encoding\", \"decoding\")\n \n     settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n     options = {\n@@ -24,133 +30,113 @@ class LibFDKAACConan(ConanFile):\n         \"fPIC\": True,\n     }\n \n-    exports_sources = \"CMakeLists.txt\"\n-    generators = \"cmake\"\n-\n-    @property\n-    def _source_subfolder(self):\n-        return \"source_subfolder\"\n-\n-    @property\n-    def _is_msvc(self):\n-        return str(self.settings.compiler) in [\"Visual Studio\", \"msvc\"]\n-\n     @property\n     def _settings_build(self):\n         return getattr(self, \"settings_build\", self.settings)\n \n     @property\n     def _use_cmake(self):\n-        return tools.Version(self.version) >= \"2.0.2\"\n+        return Version(self.version) >= \"2.0.2\"\n \n     def config_options(self):\n         if self.settings.os == \"Windows\":\n             del self.options.fPIC\n \n     def configure(self):\n         if self.options.shared:\n-            del self.options.fPIC\n+            self.options.rm_safe(\"fPIC\")\n+\n+    def layout(self):\n+        if self._use_cmake:\n+            cmake_layout(self, src_folder=\"src\")\n+        else:\n+            basic_layout(self, src_folder=\"src\")\n \n     def build_requirements(self):\n-        if not self._use_cmake and not self._is_msvc:\n-            self.build_requires(\"libtool/2.4.6\")\n-            if self._settings_build.os == \"Windows\" and not tools.get_env(\"CONAN_BASH_PATH\"):\n-                self.build_requires(\"msys2/cci.latest\")\n+        if not self._use_cmake and not is_msvc(self):\n+            self.tool_requires(\"libtool/2.4.7\")\n+            if self._settings_build.os == \"Windows\":\n+                self.win_bash = True\n+                if not self.conf.get(\"tools.microsoft.bash:path\", check_type=str):\n+                    self.tool_requires(\"msys2/cci.latest\")\n \n     def source(self):\n-        tools.get(**self.conan_data[\"sources\"][self.version],\n-                  destination=self._source_subfolder, strip_root=True)\n-\n-    @functools.lru_cache(1)\n-    def _configure_cmake(self):\n-        cmake = CMake(self)\n-        cmake.definitions[\"BUILD_PROGRAMS\"] = False\n-        cmake.definitions[\"FDK_AAC_INSTALL_CMAKE_CONFIG_MODULE\"] = False\n-        cmake.definitions[\"FDK_AAC_INSTALL_PKGCONFIG_MODULE\"] = False\n-        cmake.configure()\n-        return cmake\n-\n-    @contextlib.contextmanager\n-    def _msvc_build_environment(self):\n-        with tools.chdir(self._source_subfolder):\n-            with tools.vcvars(self):\n-                with tools.environment_append(VisualStudioBuildEnvironment(self).vars):\n-                    yield\n-\n-    def _build_vs(self):\n-        with self._msvc_build_environment():\n-            # Rely on flags injected by conan\n-            tools.replace_in_file(\"Makefile.vc\",\n-                                  \"CFLAGS   = /nologo /W3 /Ox /MT\",\n-                                  \"CFLAGS   = /nologo\")\n-            tools.replace_in_file(\"Makefile.vc\",\n-                                  \"MKDIR_FLAGS = -p\",\n-                                  \"MKDIR_FLAGS =\")\n-            # Build either shared or static, and don't build utility (it always depends on static lib)\n-            tools.replace_in_file(\"Makefile.vc\", \"copy $(PROGS) $(bindir)\", \"\")\n-            tools.replace_in_file(\"Makefile.vc\", \"copy $(LIB_DEF) $(libdir)\", \"\")\n-            if self.options.shared:\n-                tools.replace_in_file(\"Makefile.vc\",\n-                                      \"all: $(LIB_DEF) $(STATIC_LIB) $(SHARED_LIB) $(IMP_LIB) $(PROGS)\",\n-                                      \"all: $(LIB_DEF) $(SHARED_LIB) $(IMP_LIB)\")\n-                tools.replace_in_file(\"Makefile.vc\", \"copy $(STATIC_LIB) $(libdir)\", \"\")\n-            else:\n-                tools.replace_in_file(\"Makefile.vc\",\n-                                      \"all: $(LIB_DEF) $(STATIC_LIB) $(SHARED_LIB) $(IMP_LIB) $(PROGS)\",\n-                                      \"all: $(STATIC_LIB)\")\n-                tools.replace_in_file(\"Makefile.vc\", \"copy $(IMP_LIB) $(libdir)\", \"\")\n-                tools.replace_in_file(\"Makefile.vc\", \"copy $(SHARED_LIB) $(bindir)\", \"\")\n-            self.run(\"nmake -f Makefile.vc\")\n-\n-    def _build_autotools(self):\n-        with tools.chdir(self._source_subfolder):\n-            self.run(\"{} -fiv\".format(tools.get_env(\"AUTORECONF\")), win_bash=tools.os_info.is_windows)\n-            # relocatable shared lib on macOS\n-            tools.replace_in_file(\"configure\", \"-install_name \\\\$rpath/\", \"-install_name @rpath/\")\n-            if self.settings.os == \"Android\" and tools.os_info.is_windows:\n-                # remove escape for quotation marks, to make ndk on windows happy\n-                tools.replace_in_file(\"configure\",\n-                    \"s/[\t ~#$^&*(){}\\\\\\\\|;'\\\\\\''\\\"<>?]/\\\\\\\\&/g\", \"s/[\t ~#$^&*(){}\\\\\\\\|;<>?]/\\\\\\\\&/g\")\n-        autotools = self._configure_autotools()\n-        autotools.make()\n-\n-    @functools.lru_cache(1)\n-    def _configure_autotools(self):\n-        autotools = AutoToolsBuildEnvironment(self, win_bash=tools.os_info.is_windows)\n-        autotools.libs = []\n-        yes_no = lambda v: \"yes\" if v else \"no\"\n-        args = [\n-            \"--enable-shared={}\".format(yes_no(self.options.shared)),\n-            \"--enable-static={}\".format(yes_no(not self.options.shared)),\n-        ]\n-        autotools.configure(args=args, configure_dir=self._source_subfolder)\n-        return autotools\n+        get(self, **self.conan_data[\"sources\"][self.version], strip_root=True)\n+\n+    def generate(self):\n+        if self._use_cmake:\n+            tc = CMakeToolchain(self)\n+            tc.variables[\"BUILD_PROGRAMS\"] = False\n+            tc.variables[\"FDK_AAC_INSTALL_CMAKE_CONFIG_MODULE\"] = False\n+            tc.variables[\"FDK_AAC_INSTALL_PKGCONFIG_MODULE\"] = False\n+            tc.generate()\n+        elif is_msvc(self):\n+            tc = NMakeToolchain(self)\n+            tc.generate()\n+        else:\n+            env = VirtualBuildEnv(self)\n+            env.generate()\n+            tc = AutotoolsToolchain(self)\n+            tc.generate()\n \n     def build(self):\n         if self._use_cmake:\n-            cmake = self._configure_cmake()\n+            cmake = CMake(self)\n+            cmake.configure()\n             cmake.build()\n-        elif self._is_msvc:\n-            self._build_vs()\n+        elif is_msvc(self):\n+            makefile_vc = os.path.join(self.source_folder, \"Makefile.vc\")\n+            replace_in_file(self, makefile_vc, \"CFLAGS   = /nologo /W3 /Ox /MT\", \"CFLAGS   = /nologo\")\n+            replace_in_file(self, makefile_vc, \"MKDIR_FLAGS = -p\", \"MKDIR_FLAGS =\")\n+            # Build either shared or static, and don't build utility (it always depends on static lib)\n+            replace_in_file(self, makefile_vc, \"copy $(PROGS) $(bindir)\", \"\")\n+            replace_in_file(self, makefile_vc, \"copy $(LIB_DEF) $(libdir)\", \"\")\n+            if self.options.shared:\n+                replace_in_file(\n+                    self, makefile_vc,\n+                    \"all: $(LIB_DEF) $(STATIC_LIB) $(SHARED_LIB) $(IMP_LIB) $(PROGS)\",\n+                    \"all: $(LIB_DEF) $(SHARED_LIB) $(IMP_LIB)\",\n+                )\n+                replace_in_file(self, makefile_vc, \"copy $(STATIC_LIB) $(libdir)\", \"\")\n+            else:\n+                replace_in_file(\n+                    self, makefile_vc,\n+                    \"all: $(LIB_DEF) $(STATIC_LIB) $(SHARED_LIB) $(IMP_LIB) $(PROGS)\",\n+                    \"all: $(STATIC_LIB)\",\n+                )\n+                replace_in_file(self, makefile_vc, \"copy $(IMP_LIB) $(libdir)\", \"\")\n+                replace_in_file(self, makefile_vc, \"copy $(SHARED_LIB) $(bindir)\", \"\")\n+            with chdir(self, self.source_folder):\n+                self.run(\"nmake -f Makefile.vc\")\n         else:\n-            self._build_autotools()\n+            autotools = Autotools(self)\n+            autotools.autoreconf()\n+            if self.settings.os == \"Android\" and self._settings_build.os == \"Windows\":\n+                # remove escape for quotation marks, to make ndk on windows happy\n+                replace_in_file(\n+                    self, os.path.join(self.source_folder, \"configure\"),\n+                    \"s/[\t ~#$^&*(){}\\\\\\\\|;'\\\\\\''\\\"<>?]/\\\\\\\\&/g\", \"s/[\t ~#$^&*(){}\\\\\\\\|;<>?]/\\\\\\\\&/g\",\n+                )\n+            autotools.configure()\n+            autotools.make()\n \n     def package(self):\n-        self.copy(pattern=\"NOTICE\", src=self._source_subfolder, dst=\"licenses\")\n+        copy(self, \"NOTICE\", src=self.source_folder, dst=os.path.join(self.package_folder, \"licenses\"))\n         if self._use_cmake:\n-            cmake = self._configure_cmake()\n+            cmake = CMake(self)\n             cmake.install()\n-        elif self._is_msvc:\n-            with self._msvc_build_environment():\n-                self.run(\"nmake -f Makefile.vc prefix=\\\"{}\\\" install\".format(self.package_folder))\n+        elif is_msvc(self):\n+            with chdir(self, self.source_folder):\n+                self.run(f\"nmake -f Makefile.vc prefix=\\\"{self.package_folder}\\\" install\")\n             if self.options.shared:\n-                tools.rename(os.path.join(self.package_folder, \"lib\", \"fdk-aac.dll.lib\"),\n+                rename(self, os.path.join(self.package_folder, \"lib\", \"fdk-aac.dll.lib\"),\n                              os.path.join(self.package_folder, \"lib\", \"fdk-aac.lib\"))\n         else:\n-            autotools = self._configure_autotools()\n+            autotools = Autotools(self)\n             autotools.install()\n-            tools.rmdir(os.path.join(self.package_folder, \"lib\", \"pkgconfig\"))\n-            tools.remove_files_by_mask(os.path.join(self.package_folder, \"lib\"), \"*.la\")\n+            rmdir(self, os.path.join(self.package_folder, \"lib\", \"pkgconfig\"))\n+            rm(self, \"*.la\", os.path.join(self.package_folder, \"lib\"))\n+            fix_apple_shared_install_name(self)\n \n     def package_info(self):\n         self.cpp_info.set_property(\"cmake_file_name\", \"fdk-aac\")\n@@ -167,7 +153,6 @@ def package_info(self):\n         self.cpp_info.filenames[\"cmake_find_package_multi\"] = \"fdk-aac\"\n         self.cpp_info.names[\"cmake_find_package\"] = \"FDK-AAC\"\n         self.cpp_info.names[\"cmake_find_package_multi\"] = \"FDK-AAC\"\n-        self.cpp_info.names[\"pkg_config\"] = \"fdk-aac\"\n         self.cpp_info.components[\"fdk-aac\"].names[\"cmake_find_package\"] = \"fdk-aac\"\n         self.cpp_info.components[\"fdk-aac\"].names[\"cmake_find_package_multi\"] = \"fdk-aac\"\n         self.cpp_info.components[\"fdk-aac\"].set_property(\"cmake_target_name\", \"FDK-AAC::fdk-aac\")"
+		},
+		{
+		  "sha": "609976265e86c62b7c981b8ea63c987a57771111",
+		  "filename": "recipes/libfdk_aac/all/test_package/CMakeLists.txt",
+		  "status": "modified",
+		  "additions": 4,
+		  "deletions": 7,
+		  "changes": 11,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Ftest_package%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Ftest_package%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Flibfdk_aac%2Fall%2Ftest_package%2FCMakeLists.txt?ref=893ee53357b1914124b535113be20162e47f52cc",
+		  "patch": "@@ -1,11 +1,8 @@\n-cmake_minimum_required(VERSION 3.1)\n-project(test_package C)\n-\n-include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)\n-conan_basic_setup(TARGETS)\n+cmake_minimum_required(VERSION 3.8)\n+project(test_package LANGUAGES C)\n \n find_package(fdk-aac REQUIRED CONFIG)\n \n add_executable(${PROJECT_NAME} test_package.c)\n-target_link_libraries(${PROJECT_NAME} FDK-AAC::fdk-aac)\n-set_property(TARGET ${PROJECT_NAME} PROPERTY C_STANDARD 99)\n+target_link_libraries(${PROJECT_NAME} PRIVATE FDK-AAC::fdk-aac)\n+target_compile_features(${PROJECT_NAME} PRIVATE c_std_99)"
+		},
+		{
+		  "sha": "0a6bc68712d90152ff3321a9468644f895d36c62",
+		  "filename": "recipes/libfdk_aac/all/test_package/conanfile.py",
+		  "status": "modified",
+		  "additions": 14,
+		  "deletions": 14,
+		  "changes": 28,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Ftest_package%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Ftest_package%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Flibfdk_aac%2Fall%2Ftest_package%2Fconanfile.py?ref=893ee53357b1914124b535113be20162e47f52cc",
+		  "patch": "@@ -1,26 +1,26 @@\n-from conans import ConanFile, CMake, tools\n+from conan import ConanFile\n+from conan.tools.build import can_run\n+from conan.tools.cmake import CMake, cmake_layout\n import os\n \n \n class TestPackageConan(ConanFile):\n-    settings = \"os\", \"compiler\", \"build_type\", \"arch\"\n-    generators = \"cmake\", \"cmake_find_package_multi\"\n+    settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n+    generators = \"CMakeToolchain\", \"CMakeDeps\", \"VirtualRunEnv\"\n+    test_type = \"explicit\"\n \n-    def build_requirements(self):\n-        if self.settings.os == \"Macos\" and self.settings.arch == \"armv8\":\n-            # Workaround for CMake bug with error message:\n-            # Attempting to use @rpath without CMAKE_SHARED_LIBRARY_RUNTIME_C_FLAG being\n-            # set. This could be because you are using a Mac OS X version less than 10.5\n-            # or because CMake's platform configuration is corrupt.\n-            # FIXME: Remove once CMake on macOS/M1 CI runners is upgraded.\n-            self.build_requires(\"cmake/3.22.0\")\n+    def layout(self):\n+        cmake_layout(self)\n+\n+    def requirements(self):\n+        self.requires(self.tested_reference_str)\n \n     def build(self):\n         cmake = CMake(self)\n         cmake.configure()\n         cmake.build()\n \n     def test(self):\n-        if not tools.cross_building(self, skip_x64_x86=True):\n-            bin_path = os.path.join(\"bin\", \"test_package\")\n-            self.run(bin_path, run_environment=True)\n+        if can_run(self):\n+            bin_path = os.path.join(self.cpp.build.bindirs[0], \"test_package\")\n+            self.run(bin_path, env=\"conanrun\")"
+		},
+		{
+		  "sha": "0d20897301b68bdd7b7c0a6fe54ad74b0e86c7f9",
+		  "filename": "recipes/libfdk_aac/all/test_v1_package/CMakeLists.txt",
+		  "status": "added",
+		  "additions": 8,
+		  "deletions": 0,
+		  "changes": 8,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Ftest_v1_package%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Ftest_v1_package%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Flibfdk_aac%2Fall%2Ftest_v1_package%2FCMakeLists.txt?ref=893ee53357b1914124b535113be20162e47f52cc",
+		  "patch": "@@ -0,0 +1,8 @@\n+cmake_minimum_required(VERSION 3.1)\n+project(test_package)\n+\n+include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)\n+conan_basic_setup(TARGETS)\n+\n+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/../test_package\n+                 ${CMAKE_CURRENT_BINARY_DIR}/test_package)"
+		},
+		{
+		  "sha": "38f4483872d47f9327301676ba728e023b363c7f",
+		  "filename": "recipes/libfdk_aac/all/test_v1_package/conanfile.py",
+		  "status": "added",
+		  "additions": 17,
+		  "deletions": 0,
+		  "changes": 17,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Ftest_v1_package%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/893ee53357b1914124b535113be20162e47f52cc/recipes%2Flibfdk_aac%2Fall%2Ftest_v1_package%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Flibfdk_aac%2Fall%2Ftest_v1_package%2Fconanfile.py?ref=893ee53357b1914124b535113be20162e47f52cc",
+		  "patch": "@@ -0,0 +1,17 @@\n+from conans import ConanFile, CMake, tools\n+import os\n+\n+\n+class TestPackageConan(ConanFile):\n+    settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n+    generators = \"cmake\", \"cmake_find_package_multi\"\n+\n+    def build(self):\n+        cmake = CMake(self)\n+        cmake.configure()\n+        cmake.build()\n+\n+    def test(self):\n+        if not tools.cross_building(self):\n+            bin_path = os.path.join(\"bin\", \"test_package\")\n+            self.run(bin_path, run_environment=True)"
+		}
+	  ]`)
+
+	obtained, err := processChangedFiles(files)
+	assert.Equal(t, err, nil)
+	assert.Equal(t, &change{Recipe: "libfdk_aac", Change: EDIT, Weight: HEAVY}, obtained)
 }
