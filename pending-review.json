@@ -1912,34 +1912,6 @@
       }
    },
    {
-      "Number": 15424,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-01-23T11:41:30Z",
-      "Recipe": "cppcheck",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15424",
-      "LastCommitSHA": "656b40906eedac96389ba4e4e173268c7ffeddf7",
-      "LastCommitAt": "2023-01-23T11:41:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "jwillikers",
-            "EstebanDugueperoux2",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-25T05:55:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15424#pullrequestreview-1268743109"
-         }
-      }
-   },
-   {
       "Number": 15426,
       "OpenedBy": "vbieleny",
       "CreatedAt": "2023-01-23T14:06:46Z",
@@ -2204,32 +2176,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 15443,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-23T22:44:59Z",
-      "Recipe": "msys2",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15443",
-      "LastCommitSHA": "8146946254eb8dc475cb8af010a5c8df35c7b1a1",
-      "LastCommitAt": "2023-01-23T22:43:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-01-25T06:42:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15443#pullrequestreview-1268776689"
-         }
       }
    },
    {
