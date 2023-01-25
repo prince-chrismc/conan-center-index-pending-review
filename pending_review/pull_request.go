@@ -19,6 +19,18 @@ const (
 	CONFIG Category = iota
 )
 
+// ReviewWeight attempts to qualify the amount of effort to review any given pull request
+type ReviewWeight int
+
+// ReviewWeight attempts to qualify the amount of effort to review any given pull request
+const (
+	TINY     ReviewWeight = iota
+	SMALL    ReviewWeight = iota
+	REGULAR  ReviewWeight = iota
+	HEAVY    ReviewWeight = iota
+	TOO_MUCH ReviewWeight = iota
+)
+
 // PullRequestSummary regarding its location in the review process of conan-center-index.
 // See https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
 // for more information
@@ -28,6 +40,7 @@ type PullRequestSummary struct {
 	CreatedAt     time.Time
 	Recipe        string
 	Change        Category
+	Weight        ReviewWeight
 	ReviewURL     string
 	LastCommitSHA string
 	LastCommitAt  time.Time
@@ -90,13 +103,14 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		return nil, nil, err
 	}
 
-	diff, resp, err := s.determineTypeOfChange(ctx, owner, repo, p.Number, 10 /* recipes are currently 5-7 files */)
+	diff, resp, err := s.determineTypeOfChange(ctx, owner, repo, p.Number, 14 /* recipes are currently 8-10 files */)
 	if err != nil {
 		return nil, resp, err
 	}
 
 	p.Recipe = diff.Recipe
 	p.Change = diff.Change
+	p.Weight = diff.Weight
 
 	reviews, resp, err := s.ListAllReviews(ctx, owner, repo, p.Number)
 	if err != nil {
@@ -161,6 +175,7 @@ func processLabels(labels []*Label) error {
 type change struct {
 	Recipe string
 	Change Category
+	Weight ReviewWeight
 }
 
 func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner string, repo string, number int, perPage int) (*change, *Response, error) {
@@ -181,6 +196,8 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		return nil, resp, err
 	}
 
+	addition := files[0].GetAdditions()
+	deletions := files[0].GetDeletions()
 	for _, file := range files[1:] {
 		obtained, err := getDiff(file)
 		if err != nil {
@@ -194,6 +211,20 @@ func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner st
 		if change.Change == NEW && obtained.Change == EDIT {
 			change.Change = EDIT // Any edit breaks the "new recipe" definition
 		}
+
+		addition += file.GetAdditions()
+		deletions += file.GetDeletions()
+	}
+
+	if len(files) <= 2 && addition <= 10 && deletions == 0 { // Something on the scale of bumping or adding a missing option
+		change.Weight = TINY
+	} else if len(files) <= 4 && (addition+deletions) <= 25 { // https://github.com/conan-io/conan-center-index/pull/15455
+		change.Weight = SMALL
+	} else if len(files) <= 5 && (addition+deletions) <= 100 { // https://github.com/conan-io/conan-center-index/pull/15454
+		change.Weight = REGULAR
+		// Heavy is the default so every in between should just be that
+	} else if len(files) > 12 || (addition+deletions) >= 500 {
+		change.Weight = TOO_MUCH
 	}
 
 	return change, resp, nil
@@ -232,5 +263,5 @@ func getDiff(file *CommitFile) (*change, error) {
 		return nil, fmt.Errorf("%w", ErrInvalidChange)
 	}
 
-	return &change{title, status}, nil
+	return &change{title, status, HEAVY}, nil // Default to heavy to make the calculation easier in `determineTypeOfChange`
 }
