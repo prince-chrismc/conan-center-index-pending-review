@@ -1744,3 +1744,121 @@ func TestProcessChangedFilesHeavyEdit(t *testing.T) {
 	assert.Equal(t, err, nil)
 	assert.Equal(t, &change{Recipe: "libfdk_aac", Change: EDIT, Weight: HEAVY}, obtained)
 }
+
+func TestProcessChangedFilesRegularNew(t *testing.T) {
+	// https://github.com/conan-io/conan-center-index/pull/15260/files
+	files := parsePullRequestFilesJSON(t, `[
+		{
+		  "sha": "632b160c486910b05c90767a8348b88797467233",
+		  "filename": "recipes/kplot/all/CMakeLists.txt",
+		  "status": "added",
+		  "additions": 64,
+		  "deletions": 0,
+		  "changes": 64,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fall%2FCMakeLists.txt?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,64 @@\n+cmake_minimum_required(VERSION 3.8)\n+project(kplot LANGUAGES C)\n+\n+find_package(cairo REQUIRED CONFIG)\n+\n+set(kplot_src\n+    ${KPLOT_SRC_DIR}/colours.c\n+    ${KPLOT_SRC_DIR}/array.c\n+    ${KPLOT_SRC_DIR}/border.c\n+    ${KPLOT_SRC_DIR}/bucket.c\n+    ${KPLOT_SRC_DIR}/buffer.c\n+    ${KPLOT_SRC_DIR}/draw.c\n+    ${KPLOT_SRC_DIR}/grid.c\n+    ${KPLOT_SRC_DIR}/hist.c\n+    ${KPLOT_SRC_DIR}/label.c\n+    ${KPLOT_SRC_DIR}/kdata.c\n+    ${KPLOT_SRC_DIR}/kplot.c\n+    ${KPLOT_SRC_DIR}/margin.c\n+    ${KPLOT_SRC_DIR}/mean.c\n+    ${KPLOT_SRC_DIR}/plotctx.c\n+    ${KPLOT_SRC_DIR}/reallocarray.c\n+    ${KPLOT_SRC_DIR}/stddev.c\n+    ${KPLOT_SRC_DIR}/tic.c\n+    ${KPLOT_SRC_DIR}/vector.c\n+)\n+\n+set(kplot_inc\n+    ${KPLOT_SRC_DIR}/compat.h\n+    ${KPLOT_SRC_DIR}/extern.h\n+    ${KPLOT_SRC_DIR}/kplot.h\n+)\n+\n+include_directories(KPLOT_SRC_DIR)\n+\n+try_run(HAVE_reallocarray COMPIE_reallocarray ${CMAKE_BINARY_DIR} ${KPLOT_SRC_DIR}/test-reallocarray.c)\n+\n+file(READ \"${KPLOT_SRC_DIR}/compat.pre.h\" COMPAT_CONTENTS)\n+file(WRITE \"${KPLOT_SRC_DIR}/compat.h\" \"${COMPAT_CONTENTS}\")\n+if (${COMPIE_reallocarray} AND NOT ${HAVE_reallocarray})\n+    file(APPEND \"${KPLOT_SRC_DIR}/compat.h\" \"#define  HAVE_REALLOCARRAY\")\n+endif()\n+file(READ \"${KPLOT_SRC_DIR}/compat.post.h\" COMPAT_CONTENTS)\n+file(APPEND \"${KPLOT_SRC_DIR}/compat.h\" \"${COMPAT_CONTENTS}\")\n+\n+add_library(kplot ${kplot_src})\n+\n+target_compile_features(kplot PRIVATE c_std_99)\n+set_target_properties(kplot PROPERTIES\n+    PUBLIC_HEADER \"${kplot_inc}\"\n+    WINDOWS_EXPORT_ALL_SYMBOLS ON\n+    C_EXTENSIONS OFF\n+)\n+target_compile_features(kplot PRIVATE c_std_99)\n+target_link_libraries(kplot PRIVATE cairo::cairo)\n+\n+include(GNUInstallDirs)\n+\n+install(\n+    TARGETS kplot\n+    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}\n+    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}\n+    ARCHIVE DESTINATION ${CMAKE_INSTALL_LIBDIR}\n+    PUBLIC_HEADER DESTINATION ${CMAKE_INSTALL_INCLUDEDIR}\n+)"
+		},
+		{
+		  "sha": "d0e63f3ee2c144b7b7ad2fe706eefea03f356264",
+		  "filename": "recipes/kplot/all/conandata.yml",
+		  "status": "added",
+		  "additions": 4,
+		  "deletions": 0,
+		  "changes": 4,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Fconandata.yml",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Fconandata.yml",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fall%2Fconandata.yml?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,4 @@\n+sources:\n+  \"0.1.15\":\n+    url: \"https://github.com/kristapsdz/kplot/archive/refs/tags/VERSION_0_1_15.tar.gz\"\n+    sha256: \"602ebaac9b67dc7c7e84d8112df887c95ba0a1c4ed71fbab6671f8c5ecf4ba2a\""
+		},
+		{
+		  "sha": "47e24a0f5cdf872f73cd082a6fb12610bf60c790",
+		  "filename": "recipes/kplot/all/conanfile.py",
+		  "status": "added",
+		  "additions": 73,
+		  "deletions": 0,
+		  "changes": 73,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fall%2Fconanfile.py?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,73 @@\n+from conan import ConanFile\n+from conan.tools.files import get, copy\n+from conan.tools.cmake import CMake, CMakeDeps, CMakeToolchain, cmake_layout\n+from conan.tools.microsoft import is_msvc\n+from conan.errors import ConanInvalidConfiguration\n+import os\n+\n+required_conan_version = \">=1.53.0\"\n+\n+class KplotConan(ConanFile):\n+    name = \"kplot\"\n+    description = \"open source Cairo plotting library\"\n+    license = \"ISC\"\n+    url = \"https://github.com/conan-io/conan-center-index\"\n+    homepage = \"https://github.com/kristapsdz/kplot/\"\n+    topics = (\"plot\", \"cairo\", \"chart\") # no \"conan\"  and project name in topics\n+    settings = \"os\", \"arch\", \"compiler\", \"build_type\" # even for header only\n+    options = {\n+        \"shared\": [True, False],\n+        \"fPIC\": [True, False],\n+    }\n+    default_options = {\n+        \"shared\": False,\n+        \"fPIC\": True,\n+    }\n+\n+    def export_sources(self):\n+        copy(self, \"CMakeLists.txt\", src=self.recipe_folder, dst=self.export_sources_folder)\n+\n+    def config_options(self):\n+        if self.settings.os == \"Windows\":\n+            del self.options.fPIC\n+\n+    def configure(self):\n+        if self.options.shared:\n+            self.options.rm_safe(\"fPIC\")\n+        # for plain C projects only\n+        self.settings.rm_safe(\"compiler.libcxx\")\n+        self.settings.rm_safe(\"compiler.cppstd\")\n+\n+    def layout(self):\n+        cmake_layout(self, src_folder=\"src\")\n+\n+    def validate(self):\n+        if is_msvc(self):\n+            raise ConanInvalidConfiguration(f\"{self.ref} can not be built on Visual Studio and msvc.\")\n+\n+    def requirements(self):\n+        self.requires(\"cairo/1.17.4\")\n+\n+    def source(self):\n+        get(self, **self.conan_data[\"sources\"][self.version], strip_root=True)\n+\n+    def generate(self):\n+        tc = CMakeToolchain(self)\n+        tc.variables[\"KPLOT_SRC_DIR\"] = self.source_folder.replace(\"\\\\\", \"/\")\n+        tc.generate()\n+\n+        deps = CMakeDeps(self)\n+        deps.generate()\n+\n+    def build(self):\n+        cmake = CMake(self)\n+        cmake.configure(build_script_folder=os.path.join(self.source_folder, os.pardir))\n+        cmake.build()\n+\n+    def package(self):\n+        copy(self, pattern=\"LICENSE.md\", dst=os.path.join(self.package_folder, \"licenses\"), src=self.source_folder)\n+        cmake = CMake(self)\n+        cmake.install()\n+\n+    def package_info(self):\n+        self.cpp_info.libs = [\"kplot\"]"
+		},
+		{
+		  "sha": "e61521b15e2af876876580af78cdefc3cf5b2f32",
+		  "filename": "recipes/kplot/all/test_package/CMakeLists.txt",
+		  "status": "added",
+		  "additions": 8,
+		  "deletions": 0,
+		  "changes": 8,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_package%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_package%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fall%2Ftest_package%2FCMakeLists.txt?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,8 @@\n+cmake_minimum_required(VERSION 3.8)\n+project(test_package LANGUAGES C)\n+\n+find_package(kplot REQUIRED CONFIG)\n+\n+add_executable(${PROJECT_NAME} test_package.c)\n+target_link_libraries(${PROJECT_NAME} PRIVATE kplot::kplot)\n+target_compile_features(${PROJECT_NAME} PRIVATE c_std_99)"
+		},
+		{
+		  "sha": "a9fb96656f2039c7269d31fb77077a2781551882",
+		  "filename": "recipes/kplot/all/test_package/conanfile.py",
+		  "status": "added",
+		  "additions": 26,
+		  "deletions": 0,
+		  "changes": 26,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_package%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_package%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fall%2Ftest_package%2Fconanfile.py?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,26 @@\n+from conan import ConanFile\n+from conan.tools.build import can_run\n+from conan.tools.cmake import cmake_layout, CMake\n+import os\n+\n+\n+class TestPackageConan(ConanFile):\n+    settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n+    generators = \"CMakeDeps\", \"CMakeToolchain\", \"VirtualRunEnv\"\n+    test_type = \"explicit\"\n+\n+    def requirements(self):\n+        self.requires(self.tested_reference_str)\n+\n+    def layout(self):\n+        cmake_layout(self)\n+\n+    def build(self):\n+        cmake = CMake(self)\n+        cmake.configure()\n+        cmake.build()\n+\n+    def test(self):\n+        if can_run(self):\n+            bin_path = os.path.join(self.cpp.build.bindirs[0], \"test_package\")\n+            self.run(bin_path, env=\"conanrun\")"
+		},
+		{
+		  "sha": "2bc672875372a8e0bd23f06094638ef092af7840",
+		  "filename": "recipes/kplot/all/test_package/test_package.c",
+		  "status": "added",
+		  "additions": 14,
+		  "deletions": 0,
+		  "changes": 14,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_package%2Ftest_package.c",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_package%2Ftest_package.c",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fall%2Ftest_package%2Ftest_package.c?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,14 @@\n+#include <stdlib.h>\n+#include <unistd.h>\n+\n+#include \"cairo.h\"\n+#include \"kplot.h\"\n+\n+int main() {\n+    struct kpair points1[50];\n+    struct kdata* d1 = kdata_array_alloc(points1, 50);\n+\n+    kdata_destroy(d1);\n+\n+    return 0;\n+}"
+		},
+		{
+		  "sha": "925ecbe19e448d148f983a2ba5df4e55ebe76904",
+		  "filename": "recipes/kplot/all/test_v1_package/CMakeLists.txt",
+		  "status": "added",
+		  "additions": 8,
+		  "deletions": 0,
+		  "changes": 8,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_v1_package%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_v1_package%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fall%2Ftest_v1_package%2FCMakeLists.txt?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,8 @@\n+cmake_minimum_required(VERSION 3.1)\n+project(test_package)\n+\n+include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)\n+conan_basic_setup(TARGETS)\n+\n+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/../test_package/\n+                 ${CMAKE_CURRENT_BINARY_DIR}/test_package/)"
+		},
+		{
+		  "sha": "5a05af3c2dfd2f512de62e66004863e5e13d5d90",
+		  "filename": "recipes/kplot/all/test_v1_package/conanfile.py",
+		  "status": "added",
+		  "additions": 18,
+		  "deletions": 0,
+		  "changes": 18,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_v1_package%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fall%2Ftest_v1_package%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fall%2Ftest_v1_package%2Fconanfile.py?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,18 @@\n+from conans import ConanFile, CMake\n+from conan.tools.build import cross_building\n+import os\n+\n+\n+class TestPackageV1Conan(ConanFile):\n+    settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n+    generators = \"cmake\", \"cmake_find_package_multi\"\n+\n+    def build(self):\n+        cmake = CMake(self)\n+        cmake.configure()\n+        cmake.build()\n+\n+    def test(self):\n+        if not cross_building(self):\n+            bin_path = os.path.join(\"bin\", \"test_package\")\n+            self.run(bin_path, run_environment=True)"
+		},
+		{
+		  "sha": "d90a2c03c7832b8771fe546670003dcf4416e434",
+		  "filename": "recipes/kplot/config.yml",
+		  "status": "added",
+		  "additions": 3,
+		  "deletions": 0,
+		  "changes": 3,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fconfig.yml",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/ec5b98dc5f9030d3d33bd4b464857c560db20307/recipes%2Fkplot%2Fconfig.yml",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fkplot%2Fconfig.yml?ref=ec5b98dc5f9030d3d33bd4b464857c560db20307",
+		  "patch": "@@ -0,0 +1,3 @@\n+versions:\n+  \"0.1.15\":\n+    folder: all"
+		}
+	  ]`)
+
+	obtained, err := processChangedFiles(files)
+	assert.Equal(t, err, nil)
+	assert.Equal(t, &change{Recipe: "kplot", Change: NEW, Weight: REGULAR}, obtained)
+}

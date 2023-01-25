@@ -236,7 +236,8 @@ func processChangedFiles(files []*CommitFile) (*change, error) {
 		change.Weight = SMALL
 	} else if len(files) <= 5 && (addition+deletions) <= 100 {
 		change.Weight = REGULAR
-
+	} else if len(files) <= 9 && addition <= 225 && deletions == 0 { // Basic new recipe addition with `test_v1_package`
+		change.Weight = REGULAR
 	} else if len(files) > 12 || (addition+deletions) >= 500 {
 		change.Weight = TOO_MUCH
 	}
