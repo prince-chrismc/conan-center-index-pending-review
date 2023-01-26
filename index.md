@@ -139,7 +139,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15477](https://github.com/conan-io/conan-center-index/pull/15477)|[planetmarshall](https://github.com/planetmarshall)|Jan 25|:memo: cairo|2|Jan 26||jwillikers
 [#15478](https://github.com/conan-io/conan-center-index/pull/15478)|[toge](https://github.com/toge)|Jan 26|:stopwatch: mgs|0|||
 [#15479](https://github.com/conan-io/conan-center-index/pull/15479)|[toge](https://github.com/toge)|Jan 26|:stopwatch: quazip|0|||
-[#15481](https://github.com/conan-io/conan-center-index/pull/15481)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 26|:gear: .c3i|0|||
+[#15481](https://github.com/conan-io/conan-center-index/pull/15481)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 26|:gear: .c3i|1|Jan 26||prince-chrismc
 [#15487](https://github.com/conan-io/conan-center-index/pull/15487)|[danimtb](https://github.com/danimtb)|Jan 26|:stopwatch: .c3i|0|||
 [#15489](https://github.com/conan-io/conan-center-index/pull/15489)|[EricAtORS](https://github.com/EricAtORS)|Jan 26|:stopwatch: qt|0|||
 
@@ -162,7 +162,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 248
 	- Draft: 17
-	- Average Age: 66 days, 6 hours, and 36.33 minutes
+	- Average Age: 66 days, 8 hours, and 38.41 minutes
 	- Stop Label: 105
 	
 
