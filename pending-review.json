@@ -2632,11 +2632,18 @@
       "LastCommitAt": "2023-01-26T11:39:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-01-26T22:19:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15481#pullrequestreview-1271861782"
+         }
       }
    },
    {
