@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **117** pull requests currently under way :detective:
+There are **115** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -142,19 +142,16 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15481](https://github.com/conan-io/conan-center-index/pull/15481)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 26|:gear: .c3i|0|||
 [#15487](https://github.com/conan-io/conan-center-index/pull/15487)|[danimtb](https://github.com/danimtb)|Jan 26|:stopwatch: .c3i|0|||
 [#15489](https://github.com/conan-io/conan-center-index/pull/15489)|[EricAtORS](https://github.com/EricAtORS)|Jan 26|:stopwatch: qt|0|||
-[#15490](https://github.com/conan-io/conan-center-index/pull/15490)|[MartinDelille](https://github.com/MartinDelille)|Jan 26|:stopwatch: sentry-crashpad|0|||
-[#15491](https://github.com/conan-io/conan-center-index/pull/15491)|[MartinDelille](https://github.com/MartinDelille)|Jan 26|:stopwatch: sentry-breakpad|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15372](https://github.com/conan-io/conan-center-index/pull/15372)|[chausner](https://github.com/chausner)|Jan 19|:warning: flac|6|jwillikers, prince-chrismc
-[#15426](https://github.com/conan-io/conan-center-index/pull/15426)|[vbieleny](https://github.com/vbieleny)|Jan 23|:warning: iso8601lib|6|prince-chrismc, jwillikers
 
 
 #### :clipboard: Statistics
@@ -163,10 +160,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 249
+	- Open: 248
 	- Draft: 17
-	- Average Age: 65 days, 23 hours, and 33.54 minutes
-	- Stop Label: 103
+	- Average Age: 66 days, 6 hours, and 36.33 minutes
+	- Stop Label: 105
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
