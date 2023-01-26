@@ -54,17 +54,14 @@
       "Recipe": "libvpx",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13799",
-      "LastCommitSHA": "47fc5fcb5b971f912e4b54d46582d31878b09ad3",
-      "LastCommitAt": "2022-12-22T06:40:08Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "85e96caafbf82a6a69fa80981ff93cc7aa634899",
+      "LastCommitAt": "2023-01-26T19:45:58Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "MartinDelille",
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jcar87",
@@ -2677,6 +2674,60 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15487",
       "LastCommitSHA": "59700f02924ada14a385bd61a29012a3439fa6ea",
       "LastCommitAt": "2023-01-26T18:14:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15489,
+      "OpenedBy": "EricAtORS",
+      "CreatedAt": "2023-01-26T18:53:46Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15489",
+      "LastCommitSHA": "2f1685ab86e714d1db788852dbb55892d1ac0c15",
+      "LastCommitAt": "2023-01-26T18:36:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15490,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-01-26T19:43:59Z",
+      "Recipe": "sentry-crashpad",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15490",
+      "LastCommitSHA": "9275d1b47f189f7622a00ae8d24bc6631f81d48c",
+      "LastCommitAt": "2023-01-26T19:40:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15491,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-01-26T19:47:43Z",
+      "Recipe": "sentry-breakpad",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15491",
+      "LastCommitSHA": "7320d741a16515ab0d6d9bb3b6039a8eec8dbc78",
+      "LastCommitAt": "2023-01-26T19:44:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
