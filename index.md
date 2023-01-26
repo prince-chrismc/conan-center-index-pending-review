@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **114** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -83,7 +83,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15350](https://github.com/conan-io/conan-center-index/pull/15350)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: libfdk_aac|0|:eyes:||
 [#15351](https://github.com/conan-io/conan-center-index/pull/15351)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: gtsam|1|Jan 25||jwillikers
 [#15365](https://github.com/conan-io/conan-center-index/pull/15365)|[SpaceIm](https://github.com/SpaceIm)|Jan 19|:memo: mfast|2|Jan 25||StellaSmith, jwillikers
-[#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:memo: openscenegraph|2|Jan 26||KrisNumber24, spb-fdd
+[#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:memo: openscenegraph|3|Jan 26||KrisNumber24, spb-fdd, kaloskagatos
 [#15369](https://github.com/conan-io/conan-center-index/pull/15369)|[toge](https://github.com/toge)|Jan 19|:memo: highway|1|Jan 20||jwillikers
 [#15371](https://github.com/conan-io/conan-center-index/pull/15371)|[SpaceIm](https://github.com/SpaceIm)|Jan 19|:memo: opencv|3|Jan 25||jwillikers
 [#15373](https://github.com/conan-io/conan-center-index/pull/15373)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:memo: libcurl|1|Jan 20||jwillikers
@@ -140,20 +140,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15477](https://github.com/conan-io/conan-center-index/pull/15477)|[planetmarshall](https://github.com/planetmarshall)|Jan 25|:stopwatch: cairo|0|||
 [#15478](https://github.com/conan-io/conan-center-index/pull/15478)|[toge](https://github.com/toge)|Jan 26|:stopwatch: mgs|0|||
 [#15479](https://github.com/conan-io/conan-center-index/pull/15479)|[toge](https://github.com/toge)|Jan 26|:stopwatch: quazip|0|||
+[#15481](https://github.com/conan-io/conan-center-index/pull/15481)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 26|:gear: .c3i|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#13799](https://github.com/conan-io/conan-center-index/pull/13799)|[paulharris](https://github.com/paulharris)|Oct 27|:memo: libvpx|7|MartinDelille, prince-chrismc
 [#15372](https://github.com/conan-io/conan-center-index/pull/15372)|[chausner](https://github.com/chausner)|Jan 19|:warning: flac|6|jwillikers, prince-chrismc
-[#15374](https://github.com/conan-io/conan-center-index/pull/15374)|[danimtb](https://github.com/danimtb)|Jan 20|:gear: .c3i|5|SSE4, RubenRBS, uilianries, jwillikers, StellaSmith
-[#15465](https://github.com/conan-io/conan-center-index/pull/15465)|[github-actions[bot]](https://github.com/github-actions[bot])|Jan 25|:green_book: docs|3|prince-chrismc, ericLemanissier
-[#15470](https://github.com/conan-io/conan-center-index/pull/15470)|[fpelliccioni](https://github.com/fpelliccioni)|Jan 25|:memo: jfalcou-eve|2|prince-chrismc, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -162,9 +160,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 838190a3d6e06cacfdde945808eeeb44dc86b680
 - Pull Requests:
-	- Open: 247
+	- Open: 245
 	- Draft: 17
-	- Average Age: 66 days, 10 hours, and 12.84 minutes
+	- Average Age: 67 days, and 40.43 minutes
 	- Stop Label: 102
 	
 
