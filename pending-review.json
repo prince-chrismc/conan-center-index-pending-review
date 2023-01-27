@@ -2681,5 +2681,23 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15493,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-27T03:59:20Z",
+      "Recipe": "etl",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15493",
+      "LastCommitSHA": "54cf1910e2a6425ad87f2f7a6697038bf3cfabc6",
+      "LastCommitAt": "2023-01-27T02:06:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
