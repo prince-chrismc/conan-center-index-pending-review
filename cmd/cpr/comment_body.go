@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/format"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/format"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/pending_review"
 )
 
 // MakeCommentBody to render human friendly version that can be published to GitHub Issues

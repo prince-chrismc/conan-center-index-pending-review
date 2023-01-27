@@ -35,7 +35,7 @@ It's always benifical to see the output of the commands, so it's encouraged to p
 
 ### Enviroment
 
-We current test against Golang `^1.17`. You can follow [the official installation instructions](https://golang.org/doc/install) for your operating system.
+We current test against Golang `^1.19`. You can follow [the official installation instructions](https://golang.org/doc/install) for your operating system.
 
 ### Working Locally
 

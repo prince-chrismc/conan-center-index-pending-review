@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/pending_review"
 	"github.com/stretchr/testify/assert"
 	gock "gopkg.in/h2non/gock.v1"
 )
