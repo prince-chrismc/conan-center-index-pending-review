@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **76** pull requests currently under way :detective:
+There are **79** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -86,6 +86,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15445](https://github.com/conan-io/conan-center-index/pull/15445)|[SpaceIm](https://github.com/SpaceIm)|Jan 24|:memo: amqp-cpp|1|Jan 27||jwillikers
 [#15446](https://github.com/conan-io/conan-center-index/pull/15446)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 24|:green_book: docs|0|:eyes:||
 [#15447](https://github.com/conan-io/conan-center-index/pull/15447)|[a4z](https://github.com/a4z)|Jan 24|:memo: strong_type|0|:eyes:||
+[#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:memo: boost|0|:eyes:||
 [#15453](https://github.com/conan-io/conan-center-index/pull/15453)|[toge](https://github.com/toge)|Jan 24|:memo: plf_list|3|Jan 26||jwillikers
 [#15454](https://github.com/conan-io/conan-center-index/pull/15454)|[toge](https://github.com/toge)|Jan 24|:memo: plf_colony|1|Jan 26||jwillikers
 [#15455](https://github.com/conan-io/conan-center-index/pull/15455)|[toge](https://github.com/toge)|Jan 24|:memo: plf_stack|1|Jan 26||jwillikers
@@ -103,18 +104,18 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15494](https://github.com/conan-io/conan-center-index/pull/15494)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 27|:green_book: docs|4|Jan 27||grafikrobot
 [#15500](https://github.com/conan-io/conan-center-index/pull/15500)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 27|:gear: .github|1|Jan 27||
 [#15503](https://github.com/conan-io/conan-center-index/pull/15503)|[Linux13524](https://github.com/Linux13524)|Jan 27|:stopwatch: soxr|0|||
+[#15504](https://github.com/conan-io/conan-center-index/pull/15504)|[jcar87](https://github.com/jcar87)|Jan 27|:stopwatch: fontconfig|0|||
+[#15506](https://github.com/conan-io/conan-center-index/pull/15506)|[jcar87](https://github.com/jcar87)|Jan 27|:stopwatch: poco|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **19** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15198](https://github.com/conan-io/conan-center-index/pull/15198)|[justinmcbride](https://github.com/justinmcbride)|Jan 10|:warning: opentelemetry-cpp|2|RubenRBS, uilianries
-[#15237](https://github.com/conan-io/conan-center-index/pull/15237)|[toge](https://github.com/toge)|Jan 12|:memo: msgpack-cxx|2|jwillikers, uilianries
-[#15266](https://github.com/conan-io/conan-center-index/pull/15266)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: openexr|2|jwillikers, uilianries
 [#15268](https://github.com/conan-io/conan-center-index/pull/15268)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 15|:memo: qpdf|3|jwillikers, uilianries
 [#15274](https://github.com/conan-io/conan-center-index/pull/15274)|[SpaceIm](https://github.com/SpaceIm)|Jan 15|:warning: libavrocpp|2|jwillikers, uilianries
 [#15280](https://github.com/conan-io/conan-center-index/pull/15280)|[toge](https://github.com/toge)|Jan 15|:memo: miniz|2|jwillikers, uilianries
@@ -141,10 +142,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 792db3440f810bde7118a273f2df9da696f0415f
 - Pull Requests:
-	- Open: 235
+	- Open: 237
 	- Draft: 17
-	- Average Age: 67 days, 1 hours, and 42.96 minutes
-	- Stop Label: 107
+	- Average Age: 66 days, 9 hours, and 39.93 minutes
+	- Stop Label: 109
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
