@@ -1,7 +1,7 @@
 package charts
 
 import (
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/stats"
 	"github.com/wcharczuk/go-chart/v2"
 	"github.com/wcharczuk/go-chart/v2/drawing"
 )

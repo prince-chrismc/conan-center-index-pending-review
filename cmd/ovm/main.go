@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/app"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/app"
 	"github.com/urfave/cli/v2"
 )
 

@@ -8,7 +8,7 @@ import (
 
 	git "github.com/go-git/go-git/v5/plumbing"
 	"github.com/google/go-github/v45/github"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/pending_review"
 )
 
 // GetCommits returns a list of of number from the raw-data branch

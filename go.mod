@@ -1,6 +1,6 @@
-module github.com/prince-chrismc/conan-center-index-pending-review/v3
+module github.com/prince-chrismc/conan-center-index-pending-review/v4
 
-go 1.17
+go 1.19
 
 require (
 	github.com/go-git/go-git/v5 v5.5.2
