@@ -364,32 +364,6 @@
       }
    },
    {
-      "Number": 15274,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-15T12:03:02Z",
-      "Recipe": "libavrocpp",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15274",
-      "LastCommitSHA": "1703c56b8c24e3d4aceb12513687bc7b13851704",
-      "LastCommitAt": "2023-01-15T13:12:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-27T16:00:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15274#pullrequestreview-1272963234"
-         }
-      }
-   },
-   {
       "Number": 15293,
       "OpenedBy": "fdgStilla",
       "CreatedAt": "2023-01-16T08:35:49Z",
