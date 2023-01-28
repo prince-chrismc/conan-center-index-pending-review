@@ -294,9 +294,9 @@
       "Recipe": "protobuf",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15202",
-      "LastCommitSHA": "6121860c0671bebd3c747c5796f281c856b3dc59",
-      "LastCommitAt": "2023-01-27T18:29:57Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e3e509ad651018045cc2ac790dfa1db61559a9c7",
+      "LastCommitAt": "2023-01-28T07:16:13Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -510,7 +510,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15365",
       "LastCommitSHA": "48e7f9d91c861e50c709d0589b4c5d697f938bca",
       "LastCommitAt": "2023-01-28T05:28:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
