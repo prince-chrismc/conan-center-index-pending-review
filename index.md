@@ -44,7 +44,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15262](https://github.com/conan-io/conan-center-index/pull/15262)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:memo: coin-osi|1|Jan 27||uilianries
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|1|Jan 27||uilianries
 [#15303](https://github.com/conan-io/conan-center-index/pull/15303)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:green_book: docs|2|Jan 16||
-[#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:stopwatch: bimg|3|Jan 27||
+[#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|3|Jan 27||
 [#15333](https://github.com/conan-io/conan-center-index/pull/15333)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 17|:gear: .github|1|Jan 27||uilianries
 [#15345](https://github.com/conan-io/conan-center-index/pull/15345)|[dbarkar](https://github.com/dbarkar)|Jan 18|:stopwatch: wildmidi|8|Jan 27||jwillikers
 [#15346](https://github.com/conan-io/conan-center-index/pull/15346)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:new: pgm-index|1|Jan 26||jwillikers
@@ -131,7 +131,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 222
 	- Draft: 17
-	- Average Age: 70 days, 16 hours, and 58.97 minutes
+	- Average Age: 70 days, 18 hours, and 30.66 minutes
 	- Stop Label: 110
 	
 
