@@ -1806,8 +1806,8 @@
       "Recipe": ".github",
       "Change": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15500",
-      "LastCommitSHA": "7d8a4f6cbebb3662cc43e3184349f3a24e0820c0",
-      "LastCommitAt": "2023-01-28T10:01:19Z",
+      "LastCommitSHA": "e9656630b77fc4a74f61de5ef09e6e7b113d5aab",
+      "LastCommitAt": "2023-01-28T10:53:51Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
