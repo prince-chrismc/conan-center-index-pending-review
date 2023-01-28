@@ -111,15 +111,13 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15198](https://github.com/conan-io/conan-center-index/pull/15198)|[justinmcbride](https://github.com/justinmcbride)|Jan 10|:warning: opentelemetry-cpp|2|RubenRBS, uilianries
-[#15345](https://github.com/conan-io/conan-center-index/pull/15345)|[dbarkar](https://github.com/dbarkar)|Jan 18|:new: wildmidi|12|jwillikers, prince-chrismc
 [#15372](https://github.com/conan-io/conan-center-index/pull/15372)|[chausner](https://github.com/chausner)|Jan 19|:warning: flac|6|jwillikers, prince-chrismc
-[#15436](https://github.com/conan-io/conan-center-index/pull/15436)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: ffmpeg|3|jwillikers, nicosmd, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -128,9 +126,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f10ff9d0537fbd3e70832852d997d016bcef86fb
 - Pull Requests:
-	- Open: 219
+	- Open: 217
 	- Draft: 17
-	- Average Age: 71 days, 10 hours, and 6.87 minutes
+	- Average Age: 72 days, 1 hours, and 16.34 minutes
 	- Stop Label: 108
 	
 
