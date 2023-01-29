@@ -1988,5 +1988,41 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 15538,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-01-29T14:45:03Z",
+      "Recipe": "libpng",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15538",
+      "LastCommitSHA": "1ede91c60661a8cb7080ffd3840b1b120ccb62ab",
+      "LastCommitAt": "2023-01-29T14:42:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15539,
+      "OpenedBy": "kambala-decapitator",
+      "CreatedAt": "2023-01-29T15:13:33Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15539",
+      "LastCommitSHA": "829d41a9598a38c3523d92402c62e4cb41a637d8",
+      "LastCommitAt": "2023-01-29T15:09:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
