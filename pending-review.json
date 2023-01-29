@@ -424,7 +424,7 @@
       "LastCommitAt": "2023-01-19T19:51:50Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -432,9 +432,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-27T16:42:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15333#pullrequestreview-1273047582"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2023-01-29T10:04:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15333#pullrequestreview-1274141151"
          }
       }
    },
@@ -1100,7 +1100,7 @@
       "LastCommitAt": "2023-01-24T16:54:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -1108,9 +1108,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-01-25T14:05:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15441#pullrequestreview-1269417005"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2023-01-29T09:59:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15441#pullrequestreview-1274139299"
          }
       }
    },
@@ -1839,6 +1839,24 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15525",
       "LastCommitSHA": "9d04c8ef084ae069c1ac248f2f55df4dba571f34",
       "LastCommitAt": "2023-01-29T05:33:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15526,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-01-29T09:30:21Z",
+      "Recipe": "aaf",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15526",
+      "LastCommitSHA": "6e01e2774943349f2cd065589bd371f9d1529cd5",
+      "LastCommitAt": "2023-01-29T09:53:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
