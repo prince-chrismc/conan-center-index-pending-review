@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -117,6 +117,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15534](https://github.com/conan-io/conan-center-index/pull/15534)|[rechbergera](https://github.com/rechbergera)|Jan 29|:stopwatch: systemc|0|||
 [#15538](https://github.com/conan-io/conan-center-index/pull/15538)|[SpaceIm](https://github.com/SpaceIm)|Jan 29|:memo: libpng|0|||
 [#15539](https://github.com/conan-io/conan-center-index/pull/15539)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 29|:stopwatch: qt|0|||
+[#15540](https://github.com/conan-io/conan-center-index/pull/15540)|[SpaceIm](https://github.com/SpaceIm)|Jan 29|:stopwatch: tinycbor|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -137,9 +138,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f10ff9d0537fbd3e70832852d997d016bcef86fb
 - Pull Requests:
-	- Open: 230
+	- Open: 231
 	- Draft: 17
-	- Average Age: 68 days, 23 hours, and 6.22 minutes
+	- Average Age: 68 days, 19 hours, and 51.96 minutes
 	- Stop Label: 110
 	
 
