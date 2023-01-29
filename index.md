@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **77** pull requests currently under way :detective:
+There are **78** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -66,6 +66,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15414](https://github.com/conan-io/conan-center-index/pull/15414)|[SpaceIm](https://github.com/SpaceIm)|Jan 22|:memo: baical-p7|1|Jan 25||jwillikers
 [#15415](https://github.com/conan-io/conan-center-index/pull/15415)|[toge](https://github.com/toge)|Jan 23|:memo: libtorrent|1|Jan 26||jwillikers
 [#15416](https://github.com/conan-io/conan-center-index/pull/15416)|[toge](https://github.com/toge)|Jan 23|:memo: trantor|1|Jan 26||jwillikers
+[#15420](https://github.com/conan-io/conan-center-index/pull/15420)|[dvirtz](https://github.com/dvirtz)|Jan 23|:memo: arrow|5|Jan 29||prince-chrismc
 [#15427](https://github.com/conan-io/conan-center-index/pull/15427)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 23|:stopwatch: .c3i|0|:eyes:||
 [#15428](https://github.com/conan-io/conan-center-index/pull/15428)|[toge](https://github.com/toge)|Jan 23|:memo: qhull|1|Jan 26||jwillikers
 [#15433](https://github.com/conan-io/conan-center-index/pull/15433)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: taocpp-taopq|1|Jan 25||jwillikers
@@ -126,7 +127,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 218
 	- Draft: 17
-	- Average Age: 72 days, 6 hours, and 10.07 minutes
+	- Average Age: 72 days, 7 hours, and 11.01 minutes
 	- Stop Label: 110
 	
 
