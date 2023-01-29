@@ -1252,15 +1252,17 @@
       "LastCommitAt": "2023-01-27T13:03:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-01-25T21:33:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15450#pullrequestreview-1270156029"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-01-29T22:30:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15450#pullrequestreview-1274314848"
          }
       }
    },
