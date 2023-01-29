@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **80** pull requests currently under way :detective:
+There are **81** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -44,7 +44,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|1|Jan 27||uilianries
 [#15303](https://github.com/conan-io/conan-center-index/pull/15303)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:green_book: docs|2|Jan 16 :bell:||
 [#15317](https://github.com/conan-io/conan-center-index/pull/15317)|[RazielXYZ](https://github.com/RazielXYZ)|Jan 17|:new: bimg|3|Jan 27||
-[#15333](https://github.com/conan-io/conan-center-index/pull/15333)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 17|:gear: .github|1|Jan 27||uilianries
+[#15333](https://github.com/conan-io/conan-center-index/pull/15333)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 17|:gear: .github|4|Jan 29||uilianries
 [#15349](https://github.com/conan-io/conan-center-index/pull/15349)|[szmyd](https://github.com/szmyd)|Jan 18|:stopwatch: nuraft|0|:eyes:||
 [#15350](https://github.com/conan-io/conan-center-index/pull/15350)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: libfdk_aac|1|Jan 26||jwillikers
 [#15351](https://github.com/conan-io/conan-center-index/pull/15351)|[SpaceIm](https://github.com/SpaceIm)|Jan 18|:memo: gtsam|1|Jan 25||jwillikers
@@ -71,7 +71,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15428](https://github.com/conan-io/conan-center-index/pull/15428)|[toge](https://github.com/toge)|Jan 23|:memo: qhull|1|Jan 26||jwillikers
 [#15433](https://github.com/conan-io/conan-center-index/pull/15433)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: taocpp-taopq|1|Jan 25||jwillikers
 [#15437](https://github.com/conan-io/conan-center-index/pull/15437)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: cyclonedds|1|Jan 25||jwillikers
-[#15441](https://github.com/conan-io/conan-center-index/pull/15441)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: aaf|1|Jan 25||jwillikers
+[#15441](https://github.com/conan-io/conan-center-index/pull/15441)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: aaf|2|Jan 29||jwillikers
 [#15442](https://github.com/conan-io/conan-center-index/pull/15442)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:memo: aeron|1|Jan 25||jwillikers
 [#15444](https://github.com/conan-io/conan-center-index/pull/15444)|[SpaceIm](https://github.com/SpaceIm)|Jan 24|:memo: amgcl|1|Jan 25||jwillikers
 [#15445](https://github.com/conan-io/conan-center-index/pull/15445)|[SpaceIm](https://github.com/SpaceIm)|Jan 24|:memo: amqp-cpp|1|Jan 27||jwillikers
@@ -106,7 +106,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15520](https://github.com/conan-io/conan-center-index/pull/15520)|[SpaceIm](https://github.com/SpaceIm)|Jan 28|:memo: freexl|0|||
 [#15521](https://github.com/conan-io/conan-center-index/pull/15521)|[SpaceIm](https://github.com/SpaceIm)|Jan 29|:memo: libjpeg|0|||
 [#15523](https://github.com/conan-io/conan-center-index/pull/15523)|[toge](https://github.com/toge)|Jan 29|:memo: c-ares|0|||
-[#15525](https://github.com/conan-io/conan-center-index/pull/15525)|[toge](https://github.com/toge)|Jan 29|:stopwatch: roaring|0|||
+[#15525](https://github.com/conan-io/conan-center-index/pull/15525)|[toge](https://github.com/toge)|Jan 29|:memo: roaring|0|||
+[#15526](https://github.com/conan-io/conan-center-index/pull/15526)|[MartinDelille](https://github.com/MartinDelille)|Jan 29|:stopwatch: aaf|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -127,9 +128,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f10ff9d0537fbd3e70832852d997d016bcef86fb
 - Pull Requests:
-	- Open: 221
+	- Open: 222
 	- Draft: 17
-	- Average Age: 71 days, 12 hours, and 33.05 minutes
+	- Average Age: 71 days, 5 hours, and 50.32 minutes
 	- Stop Label: 111
 	
 
