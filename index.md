@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **73** pull requests currently under way :detective:
+There are **78** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -38,7 +38,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14931](https://github.com/conan-io/conan-center-index/pull/14931)|[toge](https://github.com/toge)|Dec 25|:memo: mimalloc|5|Jan 27||uilianries
 [#15000](https://github.com/conan-io/conan-center-index/pull/15000)|[toge](https://github.com/toge)|Dec 29|:new: miniscript|2|Jan 27||uilianries
 [#15017](https://github.com/conan-io/conan-center-index/pull/15017)|[toge](https://github.com/toge)|Dec 30|:new: uni-algo|2|Jan 27||uilianries
+[#15109](https://github.com/conan-io/conan-center-index/pull/15109)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 4|:stopwatch: armadillo|1|Jan 15 :bell:||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|0|:eyes:||
+[#15128](https://github.com/conan-io/conan-center-index/pull/15128)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 6|:stopwatch: gcc|4|Jan 19||
 [#15262](https://github.com/conan-io/conan-center-index/pull/15262)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:memo: coin-osi|1|Jan 27||uilianries
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|1|Jan 27||uilianries
 [#15303](https://github.com/conan-io/conan-center-index/pull/15303)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 16|:green_book: docs|2|Jan 16 :bell:||
@@ -100,6 +102,9 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15516](https://github.com/conan-io/conan-center-index/pull/15516)|[rturrado](https://github.com/rturrado)|Jan 28|:stopwatch: coin-lemon|0|||
 [#15517](https://github.com/conan-io/conan-center-index/pull/15517)|[SpaceIm](https://github.com/SpaceIm)|Jan 28|:memo: breakpad|0|||
 [#15518](https://github.com/conan-io/conan-center-index/pull/15518)|[SpaceIm](https://github.com/SpaceIm)|Jan 28|:stopwatch: protobuf|0|||
+[#15519](https://github.com/conan-io/conan-center-index/pull/15519)|[SpaceIm](https://github.com/SpaceIm)|Jan 28|:stopwatch: calceph|0|||
+[#15520](https://github.com/conan-io/conan-center-index/pull/15520)|[SpaceIm](https://github.com/SpaceIm)|Jan 28|:memo: freexl|0|||
+[#15521](https://github.com/conan-io/conan-center-index/pull/15521)|[SpaceIm](https://github.com/SpaceIm)|Jan 29|:stopwatch: libjpeg|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -120,9 +125,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f10ff9d0537fbd3e70832852d997d016bcef86fb
 - Pull Requests:
-	- Open: 215
+	- Open: 218
 	- Draft: 17
-	- Average Age: 73 days, 2 hours, and 16.54 minutes
+	- Average Age: 72 days, 3 hours, and 59.60 minutes
 	- Stop Label: 109
 	
 
