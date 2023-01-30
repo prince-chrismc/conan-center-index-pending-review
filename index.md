@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **93** pull requests currently under way :detective:
+There are **96** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -92,8 +92,8 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15498](https://github.com/conan-io/conan-center-index/pull/15498)|[Latios96](https://github.com/Latios96)|Jan 27|:memo: opensubdiv|0|||
 [#15500](https://github.com/conan-io/conan-center-index/pull/15500)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 27|:gear: .github|2|Jan 28||
 [#15503](https://github.com/conan-io/conan-center-index/pull/15503)|[Linux13524](https://github.com/Linux13524)|Jan 27|:memo: soxr|0|||
-[#15504](https://github.com/conan-io/conan-center-index/pull/15504)|[jcar87](https://github.com/jcar87)|Jan 27|:memo: fontconfig|0|||
-[#15506](https://github.com/conan-io/conan-center-index/pull/15506)|[jcar87](https://github.com/jcar87)|Jan 27|:memo: poco|0|||
+[#15504](https://github.com/conan-io/conan-center-index/pull/15504)|[jcar87](https://github.com/jcar87)|Jan 27|:memo: fontconfig|1|Jan 29||prince-chrismc
+[#15506](https://github.com/conan-io/conan-center-index/pull/15506)|[jcar87](https://github.com/jcar87)|Jan 27|:memo: poco|1|Jan 29||prince-chrismc
 [#15508](https://github.com/conan-io/conan-center-index/pull/15508)|[toge](https://github.com/toge)|Jan 28|:memo: glaze|0|||
 [#15509](https://github.com/conan-io/conan-center-index/pull/15509)|[hobbeshunter](https://github.com/hobbeshunter)|Jan 28|:stopwatch: imgui|0|||
 [#15510](https://github.com/conan-io/conan-center-index/pull/15510)|[SpaceIm](https://github.com/SpaceIm)|Jan 28|:memo: c-client|0|||
@@ -119,7 +119,10 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15539](https://github.com/conan-io/conan-center-index/pull/15539)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 29|:stopwatch: qt|0|||
 [#15540](https://github.com/conan-io/conan-center-index/pull/15540)|[SpaceIm](https://github.com/SpaceIm)|Jan 29|:memo: tinycbor|0|||
 [#15541](https://github.com/conan-io/conan-center-index/pull/15541)|[SpaceIm](https://github.com/SpaceIm)|Jan 29|:stopwatch: argtable2|0|||
-[#15542](https://github.com/conan-io/conan-center-index/pull/15542)|[github-actions[bot]](https://github.com/github-actions[bot])|Jan 29|:green_book: docs|0|||
+[#15542](https://github.com/conan-io/conan-center-index/pull/15542)|[github-actions[bot]](https://github.com/github-actions[bot])|Jan 29|:green_book: docs|1|Jan 29||prince-chrismc
+[#15543](https://github.com/conan-io/conan-center-index/pull/15543)|[toge](https://github.com/toge)|Jan 30|:stopwatch: drogon|0|||
+[#15544](https://github.com/conan-io/conan-center-index/pull/15544)|[toge](https://github.com/toge)|Jan 30|:stopwatch: daw_json_link|0|||
+[#15545](https://github.com/conan-io/conan-center-index/pull/15545)|[toge](https://github.com/toge)|Jan 30|:stopwatch: celero|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -140,9 +143,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f10ff9d0537fbd3e70832852d997d016bcef86fb
 - Pull Requests:
-	- Open: 232
+	- Open: 235
 	- Draft: 17
-	- Average Age: 68 days, 15 hours, and 29.28 minutes
+	- Average Age: 67 days, 20 hours, and 8.83 minutes
 	- Stop Label: 109
 	
 
