@@ -1580,31 +1580,6 @@
       }
    },
    {
-      "Number": 15539,
-      "OpenedBy": "kambala-decapitator",
-      "CreatedAt": "2023-01-29T15:13:33Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15539",
-      "LastCommitSHA": "7215c14bfe623dd920b997aab42a33a4b40abf99",
-      "LastCommitAt": "2023-01-30T09:06:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-01-30T09:19:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15539#pullrequestreview-1274749364"
-         }
-      }
-   },
-   {
       "Number": 15543,
       "OpenedBy": "toge",
       "CreatedAt": "2023-01-30T00:20:51Z",
