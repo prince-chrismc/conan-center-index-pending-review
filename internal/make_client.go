@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/pending_review"
 	"golang.org/x/oauth2"
 )
 

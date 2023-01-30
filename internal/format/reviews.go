@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/duration"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/duration"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/pending_review"
 )
 
 // ReviewsToMarkdownRows Converts pull request review status to GitHub markdown table rows

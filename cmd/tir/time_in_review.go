@@ -8,11 +8,11 @@ import (
 	"time"
 
 	"github.com/google/go-github/v45/github"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/charts"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/duration"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/stats"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/charts"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/duration"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/stats"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/pending_review"
 	"github.com/wcharczuk/go-chart/v2"
 )
 

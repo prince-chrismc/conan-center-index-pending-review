@@ -6,8 +6,8 @@ import (
 	"image/png"
 	"strings"
 
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal"
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/pending_review"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/pending_review"
 )
 
 // GetOvmPngFromThisWeek returns the last sevent PNGs that have been uploaded.

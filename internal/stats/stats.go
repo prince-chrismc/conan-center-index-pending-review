@@ -1,7 +1,7 @@
 package stats
 
 import (
-	"github.com/prince-chrismc/conan-center-index-pending-review/v3/internal/duration"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/duration"
 )
 
 // Stats for the open pull requests being evaluated
