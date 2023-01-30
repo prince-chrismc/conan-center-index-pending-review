@@ -1862,3 +1862,99 @@ func TestProcessChangedFilesRegularNew(t *testing.T) {
 	assert.Equal(t, err, nil)
 	assert.Equal(t, &change{Recipe: "kplot", Change: NEW, Weight: REGULAR}, obtained)
 }
+
+
+
+func TestProcessChangedFileRegularEditTwo(t *testing.T) {
+	// https://github.com/conan-io/conan-center-index/pull/15293/files
+	files := parsePullRequestFilesJSON(t, `[
+  {
+    "sha": "85ea4e8fd6a622f87d8ac0419acf13e5f12fec86",
+    "filename": "recipes/spix/all/conandata.yml",
+    "status": "modified",
+    "additions": 7,
+    "deletions": 0,
+    "changes": 7,
+    "blob_url": "https://github.com/conan-io/conan-center-index/blob/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Fconandata.yml",
+    "raw_url": "https://github.com/conan-io/conan-center-index/raw/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Fconandata.yml",
+    "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fspix%2Fall%2Fconandata.yml?ref=dcd594527464ad665fc52825a8daa9ff3607b270",
+    "patch": "@@ -2,8 +2,15 @@ sources:\n   \"0.4\":\n     url: \"https://github.com/faaxm/spix/archive/refs/tags/v0.4.tar.gz\"\n     sha256: \"e787c08840c37e5b153c0139f3bb613a2729ae8f6ccd0fb450fef92971cd8b53\"\n+  \"0.5\":\n+    url: \"https://github.com/faaxm/spix/archive/refs/tags/v0.5.tar.gz\"\n+    sha256: \"d3fd9bb069aef6ff6c93c69524ed3603afd24e6b52e4bb8d093c80cec255d4dc\"\n patches:\n   \"0.4\":\n     - patch_file: \"patches/0001-use-conan-libs-0.4.patch\"\n       patch_description: \"Link to conan libs\"\n       patch_type: \"conan\"\n+  \"0.5\":\n+    - patch_file: \"patches/0001-use-conan-libs-0.5.patch\"\n+      patch_description: \"Link to conan libs\"\n+      patch_type: \"conan\""
+  },
+  {
+    "sha": "62b8b81ba14100f8517aa83ec8563dcc9525825b",
+    "filename": "recipes/spix/all/conanfile.py",
+    "status": "modified",
+    "additions": 17,
+    "deletions": 10,
+    "changes": 27,
+    "blob_url": "https://github.com/conan-io/conan-center-index/blob/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Fconanfile.py",
+    "raw_url": "https://github.com/conan-io/conan-center-index/raw/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Fconanfile.py",
+    "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fspix%2Fall%2Fconanfile.py?ref=dcd594527464ad665fc52825a8daa9ff3607b270",
+    "patch": "@@ -29,16 +29,24 @@ class SpixConan(ConanFile):\n \n     @property\n     def _minimum_cpp_standard(self):\n-        return 14\n+        return 14 if self.version == \"0.4\" else 17\n \n     @property\n     def _compilers_minimum_version(self):\n-        return {\n-            \"Visual Studio\": \"14\",\n-            \"gcc\": \"5\",\n-            \"clang\": \"3.4\",\n-            \"apple-clang\": \"10\"\n-        }\n+        if self.version == \"0.4\":\n+            return {\n+                \"Visual Studio\": \"14\",\n+                \"gcc\": \"5\",\n+                \"clang\": \"3.4\",\n+                \"apple-clang\": \"10\"\n+            }\n+        else:\n+            return {\n+                \"Visual Studio\": \"15.7\",\n+                \"gcc\": \"7\",\n+                \"clang\": \"5\",\n+                \"apple-clang\": \"10\",\n+            }\n \n     def export_sources(self):\n         export_conandata_patches(self)\n@@ -59,8 +67,7 @@ def layout(self):\n \n     def requirements(self):\n         self.requires(\"anyrpc/1.0.2\")\n-        self.requires(\"qt/6.3.1\")\n-        self.requires(\"expat/2.4.9\")\n+        self.requires(\"qt/6.4.2\")\n         \n     def validate(self):\n         if self.info.settings.compiler.cppstd:\n@@ -91,7 +98,7 @@ def generate(self):\n \n     def _patch_sources(self):\n         apply_conandata_patches(self)\n-        if Version(self.deps_cpp_info[\"qt\"].version).major == 6:\n+        if self.version == \"0.4\" and Version(self.deps_cpp_info[\"qt\"].version).major == 6:\n             replace_in_file(self, os.path.join(self.source_folder, \"CMakeLists.txt\"), \"set(CMAKE_CXX_STANDARD 14)\", \"set(CMAKE_CXX_STANDARD 17)\")\n \n     def build(self):"
+  },
+  {
+    "sha": "079607701b2fb98b0de72c79843dbd13fbfa0f9c",
+    "filename": "recipes/spix/all/patches/0001-use-conan-libs-0.5.patch",
+    "status": "added",
+    "additions": 32,
+    "deletions": 0,
+    "changes": 32,
+    "blob_url": "https://github.com/conan-io/conan-center-index/blob/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Fpatches%2F0001-use-conan-libs-0.5.patch",
+    "raw_url": "https://github.com/conan-io/conan-center-index/raw/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Fpatches%2F0001-use-conan-libs-0.5.patch",
+    "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fspix%2Fall%2Fpatches%2F0001-use-conan-libs-0.5.patch?ref=dcd594527464ad665fc52825a8daa9ff3607b270",
+    "patch": "@@ -0,0 +1,32 @@\n+--- a/CMakeLists.txt\n++++ b/CMakeLists.txt\n+@@ -5,7 +5,6 @@ option(SPIX_BUILD_EXAMPLES \"Build Spix examples.\" ON)\n+ option(SPIX_BUILD_TESTS \"Build Spix unit tests.\" OFF)\n+ set(SPIX_QT_MAJOR \"6\" CACHE STRING \"Major Qt version to build Spix against\")\n+ \n+-set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} \"${CMAKE_CURRENT_LIST_DIR}/cmake/modules\")\n+ set(CMAKE_CXX_STANDARD 17)\n+ \n+ # Hide symbols unless explicitly flagged with SPIX_EXPORT\n+diff --git a/lib/CMakeLists.txt b/lib/CMakeLists.txt\n+index 723de5e..f234bec 100644\n+--- a/lib/CMakeLists.txt\n++++ b/lib/CMakeLists.txt\n+@@ -8,7 +8,7 @@ include(CMakePackageConfigHelpers)\n+ # Dependencies\n+ #\n+ find_package(Threads REQUIRED)\n+-find_package(AnyRPC REQUIRED)\n++find_package(anyrpc REQUIRED)\n+ find_package(Qt${SPIX_QT_MAJOR}\n+     COMPONENTS\n+         Core\n+@@ -132,7 +132,7 @@ target_link_libraries(Spix\n+         Qt${SPIX_QT_MAJOR}::Gui\n+         Qt${SPIX_QT_MAJOR}::Quick\n+     PRIVATE\n+-        AnyRPC::anyrpc\n++        anyrpc::anyrpc\n+ )\n+ \n+ #"
+  },
+  {
+    "sha": "8b674ce10f424662cc3f7aed09bf75be52a74a21",
+    "filename": "recipes/spix/all/test_package/CMakeLists.txt",
+    "status": "modified",
+    "additions": 1,
+    "deletions": 1,
+    "changes": 2,
+    "blob_url": "https://github.com/conan-io/conan-center-index/blob/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Ftest_package%2FCMakeLists.txt",
+    "raw_url": "https://github.com/conan-io/conan-center-index/raw/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Ftest_package%2FCMakeLists.txt",
+    "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fspix%2Fall%2Ftest_package%2FCMakeLists.txt?ref=dcd594527464ad665fc52825a8daa9ff3607b270",
+    "patch": "@@ -6,4 +6,4 @@ find_package(Spix REQUIRED CONFIG)\n \n add_executable(${PROJECT_NAME} test_spix.cpp)\n target_link_libraries(${PROJECT_NAME} PRIVATE Spix::Spix)\n-target_compile_features(${PROJECT_NAME} PRIVATE cxx_std_14)\n+target_compile_features(${PROJECT_NAME} PRIVATE cxx_std_17)"
+  },
+  {
+    "sha": "b47e9bb0e34131b0caf5d1846fda0ca05cf6a80e",
+    "filename": "recipes/spix/all/test_package/conanfile.py",
+    "status": "modified",
+    "additions": 0,
+    "deletions": 5,
+    "changes": 5,
+    "blob_url": "https://github.com/conan-io/conan-center-index/blob/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Ftest_package%2Fconanfile.py",
+    "raw_url": "https://github.com/conan-io/conan-center-index/raw/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Ftest_package%2Fconanfile.py",
+    "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fspix%2Fall%2Ftest_package%2Fconanfile.py?ref=dcd594527464ad665fc52825a8daa9ff3607b270",
+    "patch": "@@ -17,12 +17,7 @@ def requirements(self):\n     def layout(self):\n         cmake_layout(self)\n \n-    def _patch_sources(self):\n-        if Version(self.deps_cpp_info[\"qt\"].version).major == 6:\n-            replace_in_file(self, os.path.join(self.source_folder, \"CMakeLists.txt\"), \"cxx_std_14\", \"cxx_std_17\")\n-\n     def build(self):\n-        self._patch_sources()\n         cmake = CMake(self)\n         cmake.configure()\n         cmake.build()"
+  },
+  {
+    "sha": "131e8cc2de764dfc59b4e0041f0110f2b7db5ec7",
+    "filename": "recipes/spix/all/test_v1_package/conanfile.py",
+    "status": "modified",
+    "additions": 0,
+    "deletions": 5,
+    "changes": 5,
+    "blob_url": "https://github.com/conan-io/conan-center-index/blob/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Ftest_v1_package%2Fconanfile.py",
+    "raw_url": "https://github.com/conan-io/conan-center-index/raw/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fall%2Ftest_v1_package%2Fconanfile.py",
+    "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fspix%2Fall%2Ftest_v1_package%2Fconanfile.py?ref=dcd594527464ad665fc52825a8daa9ff3607b270",
+    "patch": "@@ -9,12 +9,7 @@ class TestSpixV1Conan(ConanFile):\n     settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n     generators = \"cmake\", \"cmake_find_package_multi\"\n \n-    def _patch_sources(self):\n-        if Version(self.deps_cpp_info[\"qt\"].version).major == 6:\n-            replace_in_file(self, os.path.join(self.source_folder, \"CMakeLists.txt\"), \"cxx_std_14\", \"cxx_std_17\")\n-\n     def build(self):\n-        self._patch_sources()\n         cmake = CMake(self)\n         cmake.configure()\n         cmake.build()"
+  },
+  {
+    "sha": "57a887729c2abb62f3b5772102328b71fd6c5078",
+    "filename": "recipes/spix/config.yml",
+    "status": "modified",
+    "additions": 2,
+    "deletions": 0,
+    "changes": 2,
+    "blob_url": "https://github.com/conan-io/conan-center-index/blob/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fconfig.yml",
+    "raw_url": "https://github.com/conan-io/conan-center-index/raw/dcd594527464ad665fc52825a8daa9ff3607b270/recipes%2Fspix%2Fconfig.yml",
+    "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fspix%2Fconfig.yml?ref=dcd594527464ad665fc52825a8daa9ff3607b270",
+    "patch": "@@ -1,3 +1,5 @@\n versions:\n   \"0.4\":\n     folder: all\n+  \"0.5\":\n+    folder: all"
+  }
+]`)
+
+	obtained, err := processChangedFiles(files)
+	assert.Equal(t, err, nil)
+	assert.Equal(t, &change{Recipe: "spix", Change: EDIT, Weight: REGULAR}, obtained)
+}
