@@ -1926,23 +1926,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 15582,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-01-31T02:03:54Z",
-      "Recipe": "sqlpp11-connector-sqlite3",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15582",
-      "LastCommitSHA": "d9c393175e69848bf11a1fd7515e716022adbe27",
-      "LastCommitAt": "2023-01-31T01:58:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
