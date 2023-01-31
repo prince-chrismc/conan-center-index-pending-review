@@ -1727,7 +1727,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15559",
       "LastCommitSHA": "bd9f817dd3ccc487c54129b4b722fb33ed501e29",
       "LastCommitAt": "2023-01-30T13:51:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 2,
@@ -1832,7 +1832,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15576",
       "LastCommitSHA": "ff1f5e99e81fd4358225cefcb955e5f893957e55",
       "LastCommitAt": "2023-01-30T21:20:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
