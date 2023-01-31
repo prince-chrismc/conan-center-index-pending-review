@@ -319,7 +319,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15350",
       "LastCommitSHA": "8ebaf90a3919b37819e90514b3a0004d560d633c",
       "LastCommitAt": "2023-01-31T00:30:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1171,6 +1171,24 @@
       }
    },
    {
+      "Number": 15505,
+      "OpenedBy": "jcar87",
+      "CreatedAt": "2023-01-27T17:45:38Z",
+      "Recipe": "libxml2",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15505",
+      "LastCommitSHA": "b81838894172cce9de91c6a5868eb36402ceaaa3",
+      "LastCommitAt": "2023-01-27T17:45:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 15506,
       "OpenedBy": "jcar87",
       "CreatedAt": "2023-01-27T17:49:35Z",
@@ -1839,7 +1857,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15577",
       "LastCommitSHA": "23f7152dff51044c51b4a5759d088f5d8682b3c9",
       "LastCommitAt": "2023-01-30T21:28:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1882,6 +1900,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15579",
       "LastCommitSHA": "4a1a0a37ec1071c92b1a38dd08976ed9d71b82d4",
       "LastCommitAt": "2023-01-31T00:47:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15580,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-01-31T01:34:01Z",
+      "Recipe": "glfw",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15580",
+      "LastCommitSHA": "125b1ecca20446c3d31d65ff6cb88959b985af35",
+      "LastCommitAt": "2023-01-31T01:32:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15582,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-01-31T02:03:54Z",
+      "Recipe": "sqlpp11-connector-sqlite3",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15582",
+      "LastCommitSHA": "d9c393175e69848bf11a1fd7515e716022adbe27",
+      "LastCommitAt": "2023-01-31T01:58:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
