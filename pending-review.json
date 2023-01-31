@@ -1568,16 +1568,14 @@
       "Recipe": "libpng",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15538",
-      "LastCommitSHA": "1ede91c60661a8cb7080ffd3840b1b120ccb62ab",
-      "LastCommitAt": "2023-01-29T14:42:35Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d144a53891c6231308dcfad426c2de0631beb55b",
+      "LastCommitAt": "2023-01-31T09:39:18Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -1830,16 +1828,14 @@
       "Recipe": "catch2",
       "Change": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15577",
-      "LastCommitSHA": "23f7152dff51044c51b4a5759d088f5d8682b3c9",
-      "LastCommitAt": "2023-01-30T21:28:00Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "2f384443177e693d4aeef08ddd0d9e109ffb1ecc",
+      "LastCommitAt": "2023-01-31T10:12:03Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "gegles"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "gegles",
@@ -1929,6 +1925,42 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15585",
       "LastCommitSHA": "57197b80ac48e5305feb55003df61831d6a9b48e",
       "LastCommitAt": "2023-01-31T09:07:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15586,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-01-31T09:50:43Z",
+      "Recipe": "libjpeg-turbo",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15586",
+      "LastCommitSHA": "79cb311a403124d59feb5fb542a15782038cc130",
+      "LastCommitAt": "2023-01-31T09:49:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15587,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-01-31T10:00:24Z",
+      "Recipe": "jasper",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15587",
+      "LastCommitSHA": "1b802da75d2d1f3d710212e708b32ae4348bfb6f",
+      "LastCommitAt": "2023-01-31T10:00:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
