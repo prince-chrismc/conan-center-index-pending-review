@@ -99,12 +99,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15550](https://github.com/conan-io/conan-center-index/pull/15550)|[Pro](https://github.com/Pro)|Jan 30|:stopwatch: boost|3|Jan 30||
 [#15553](https://github.com/conan-io/conan-center-index/pull/15553)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 30|:gear: .c3i|1|Jan 30||SSE4
 [#15554](https://github.com/conan-io/conan-center-index/pull/15554)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|1|Jan 30||
-[#15559](https://github.com/conan-io/conan-center-index/pull/15559)|[mologie](https://github.com/mologie)|Jan 30|:stopwatch: android-ndk|4|Jan 30||SSE4, SpaceIm
+[#15559](https://github.com/conan-io/conan-center-index/pull/15559)|[mologie](https://github.com/mologie)|Jan 30|:memo: android-ndk|4|Jan 30||SSE4, SpaceIm
 [#15561](https://github.com/conan-io/conan-center-index/pull/15561)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:memo: vulkan-headers|1|Jan 30||jwillikers
 [#15562](https://github.com/conan-io/conan-center-index/pull/15562)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:memo: spirv-headers|0|||
 [#15567](https://github.com/conan-io/conan-center-index/pull/15567)|[MartinDelille](https://github.com/MartinDelille)|Jan 30|:gear: .github|0|||
 [#15575](https://github.com/conan-io/conan-center-index/pull/15575)|[msd97](https://github.com/msd97)|Jan 30|:stopwatch: aws-c-common|0|||
-[#15576](https://github.com/conan-io/conan-center-index/pull/15576)|[fpelliccioni](https://github.com/fpelliccioni)|Jan 30|:stopwatch: catch2|1|Jan 31||gegles
+[#15576](https://github.com/conan-io/conan-center-index/pull/15576)|[fpelliccioni](https://github.com/fpelliccioni)|Jan 30|:memo: catch2|1|Jan 31||gegles
 [#15577](https://github.com/conan-io/conan-center-index/pull/15577)|[fpelliccioni](https://github.com/fpelliccioni)|Jan 30|:memo: catch2|1|Jan 31||gegles
 [#15578](https://github.com/conan-io/conan-center-index/pull/15578)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:stopwatch: zstd|0|||
 [#15579](https://github.com/conan-io/conan-center-index/pull/15579)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:stopwatch: fmt|0|||
@@ -131,7 +131,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 234
 	- Draft: 20
-	- Average Age: 68 days, 5 hours, and 17.30 minutes
+	- Average Age: 68 days, 6 hours, and 17.81 minutes
 	- Stop Label: 119
 	
 
