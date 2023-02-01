@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **67** pull requests currently under way :detective:
+There are **66** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -84,7 +84,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15586](https://github.com/conan-io/conan-center-index/pull/15586)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:stopwatch: libjpeg-turbo|2|Jan 31||jwillikers
 [#15587](https://github.com/conan-io/conan-center-index/pull/15587)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: jasper|1|Jan 31||jwillikers
 [#15588](https://github.com/conan-io/conan-center-index/pull/15588)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libgeotiff|1|Jan 31||jwillikers
-[#15590](https://github.com/conan-io/conan-center-index/pull/15590)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:stopwatch: openal|1|Jan 31||jwillikers
 [#15591](https://github.com/conan-io/conan-center-index/pull/15591)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: glm|1|Jan 31||jwillikers
 [#15592](https://github.com/conan-io/conan-center-index/pull/15592)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: geos|1|Jan 31||jwillikers
 [#15593](https://github.com/conan-io/conan-center-index/pull/15593)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: lcms|1|Jan 31||jwillikers
@@ -137,8 +136,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 239
 	- Draft: 19
-	- Average Age: 67 days, 7 hours, and 29.90 minutes
-	- Stop Label: 117
+	- Average Age: 67 days, 8 hours, and 23.04 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
