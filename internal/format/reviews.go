@@ -96,15 +96,15 @@ func title(change pending_review.Category, recipe string) string {
 func weight(w pending_review.ReviewWeight) string {
 	switch w {
 	case pending_review.TINY:
-		return "XS"
+		return ":green_circle: XS"
 	case pending_review.SMALL:
-		return "S"
+		return ":blue_square: S"
 	case pending_review.REGULAR:
 		return "M"
 	case pending_review.HEAVY:
-		return ":warning: L"
+		return "L"
 	case pending_review.TOO_MUCH:
-		return ":stop_sign: XL"
+		return "XL"
 	}
 
 	return "???"
