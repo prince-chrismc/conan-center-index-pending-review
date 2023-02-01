@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15655](https://github.com/conan-io/conan-center-index/pull/15655)|[toge](https://github.com/toge)|Feb 1|:memo: c4core|0|||
 [#15656](https://github.com/conan-io/conan-center-index/pull/15656)|[toge](https://github.com/toge)|Feb 1|:memo: scnlib|0|||
 [#15658](https://github.com/conan-io/conan-center-index/pull/15658)|[miklelappo](https://github.com/miklelappo)|Feb 1|:memo: perfetto|0|||
-[#15661](https://github.com/conan-io/conan-center-index/pull/15661)|[tiolan](https://github.com/tiolan)|Feb 1|:stopwatch: fruit|0|||
+[#15664](https://github.com/conan-io/conan-center-index/pull/15664)|[sujankota](https://github.com/sujankota)|Feb 1|:stopwatch: opentdf-client|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -136,9 +136,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cd8cb07a164daa85f4ba20d6393db0e0bc1ed8
 - Pull Requests:
-	- Open: 243
+	- Open: 244
 	- Draft: 19
-	- Average Age: 65 days, 19 hours, and 2.75 minutes
+	- Average Age: 65 days, 13 hours, and 35.16 minutes
 	- Stop Label: 114
 	
 
