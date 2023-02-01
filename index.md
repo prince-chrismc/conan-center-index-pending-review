@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **49** pull requests currently under way :detective:
+There are **50** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -37,7 +37,6 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14930](https://github.com/conan-io/conan-center-index/pull/14930)|[planetmarshall](https://github.com/planetmarshall)|Dec 25|:memo: glibmm|6|Jan 30||uilianries
 [#15109](https://github.com/conan-io/conan-center-index/pull/15109)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 4|:memo: armadillo|4|Jan 31||uilianries
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|0|:eyes:||
-[#15172](https://github.com/conan-io/conan-center-index/pull/15172)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 9|:stopwatch: date|2|Feb 1||
 [#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:memo: openscenegraph|4|Jan 31||KrisNumber24, spb-fdd, kaloskagatos, uilianries
 [#15461](https://github.com/conan-io/conan-center-index/pull/15461)|[yekmen](https://github.com/yekmen)|Jan 24|:stopwatch: opencv|7|Jan 30||
 [#15472](https://github.com/conan-io/conan-center-index/pull/15472)|[EricAtORS](https://github.com/EricAtORS)|Jan 25|:memo: qt|2|Feb 1||jwillikers
@@ -63,24 +62,26 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15596](https://github.com/conan-io/conan-center-index/pull/15596)|[toge](https://github.com/toge)|Jan 31|:memo: ctre|1|Feb 1||uilianries
 [#15598](https://github.com/conan-io/conan-center-index/pull/15598)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libsamplerate|1|Jan 31||jwillikers
 [#15602](https://github.com/conan-io/conan-center-index/pull/15602)|[toge](https://github.com/toge)|Jan 31|:memo: tuplet|1|Feb 1||uilianries
-[#15604](https://github.com/conan-io/conan-center-index/pull/15604)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:stopwatch: pugixml|0|||
+[#15604](https://github.com/conan-io/conan-center-index/pull/15604)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:stopwatch: pugixml|1|Feb 1||jwillikers
 [#15608](https://github.com/conan-io/conan-center-index/pull/15608)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:stopwatch: gdcm|0|||
-[#15628](https://github.com/conan-io/conan-center-index/pull/15628)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cubicinterpolation|0|||
-[#15629](https://github.com/conan-io/conan-center-index/pull/15629)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cose-c|0|||
+[#15628](https://github.com/conan-io/conan-center-index/pull/15628)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cubicinterpolation|1|Feb 1||jwillikers
+[#15629](https://github.com/conan-io/conan-center-index/pull/15629)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cose-c|1|Feb 1||jwillikers
 [#15630](https://github.com/conan-io/conan-center-index/pull/15630)|[planetmarshall](https://github.com/planetmarshall)|Feb 1|:stopwatch: harfbuzz|1|Feb 1||uilianries
-[#15631](https://github.com/conan-io/conan-center-index/pull/15631)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: date|0|||
-[#15632](https://github.com/conan-io/conan-center-index/pull/15632)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: flatc|0|||
-[#15633](https://github.com/conan-io/conan-center-index/pull/15633)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: folly|0|||
-[#15634](https://github.com/conan-io/conan-center-index/pull/15634)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: chaiscript|0|||
-[#15635](https://github.com/conan-io/conan-center-index/pull/15635)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cn-cbor|0|||
-[#15636](https://github.com/conan-io/conan-center-index/pull/15636)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:stopwatch: djinni-support-lib|0|||
+[#15631](https://github.com/conan-io/conan-center-index/pull/15631)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: date|1|Feb 1||jwillikers
+[#15632](https://github.com/conan-io/conan-center-index/pull/15632)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: flatc|1|Feb 1||jwillikers
+[#15633](https://github.com/conan-io/conan-center-index/pull/15633)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: folly|1|Feb 1||jwillikers
+[#15634](https://github.com/conan-io/conan-center-index/pull/15634)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: chaiscript|1|Feb 1||jwillikers
+[#15635](https://github.com/conan-io/conan-center-index/pull/15635)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cn-cbor|1|Feb 1||jwillikers
+[#15636](https://github.com/conan-io/conan-center-index/pull/15636)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:stopwatch: djinni-support-lib|1|Feb 1||jwillikers
 [#15638](https://github.com/conan-io/conan-center-index/pull/15638)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:stopwatch: nasm|1|Feb 1||uilianries
 [#15639](https://github.com/conan-io/conan-center-index/pull/15639)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:stopwatch: libmnl|0|||
+[#15640](https://github.com/conan-io/conan-center-index/pull/15640)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:stopwatch: easylzma|0|||
+[#15643](https://github.com/conan-io/conan-center-index/pull/15643)|[lukaumi](https://github.com/lukaumi)|Feb 1|:stopwatch: blasfeo|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **37** pull requests are waiting to be merged :tada:
+Currently **36** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -91,7 +92,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15406](https://github.com/conan-io/conan-center-index/pull/15406)|[toge](https://github.com/toge)|Jan 22|:warning: h3|2|jwillikers, uilianries
 [#15420](https://github.com/conan-io/conan-center-index/pull/15420)|[dvirtz](https://github.com/dvirtz)|Jan 23|:warning: arrow|7|prince-chrismc, jwillikers, uilianries
 [#15427](https://github.com/conan-io/conan-center-index/pull/15427)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 23|:gear: .c3i|2|uilianries, jwillikers
-[#15442](https://github.com/conan-io/conan-center-index/pull/15442)|[SpaceIm](https://github.com/SpaceIm)|Jan 23|:warning: aeron|3|jwillikers, uilianries, franramirez688
 [#15445](https://github.com/conan-io/conan-center-index/pull/15445)|[SpaceIm](https://github.com/SpaceIm)|Jan 24|:warning: amqp-cpp|2|jwillikers, uilianries
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15451](https://github.com/conan-io/conan-center-index/pull/15451)|[jcar87](https://github.com/jcar87)|Jan 24|:warning: grpc-proto|8|SpaceIm, franramirez688, czoido, uilianries
@@ -121,7 +121,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15584](https://github.com/conan-io/conan-center-index/pull/15584)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: xkbcommon|3|ericLemanissier, jwillikers, uilianries
 [#15587](https://github.com/conan-io/conan-center-index/pull/15587)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: jasper|2|jwillikers, uilianries
 [#15597](https://github.com/conan-io/conan-center-index/pull/15597)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libnghttp2|2|jwillikers, uilianries
-[#15606](https://github.com/conan-io/conan-center-index/pull/15606)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:gear: .github|2|prince-chrismc, SSE4
+[#15606](https://github.com/conan-io/conan-center-index/pull/15606)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:gear: .github|3|prince-chrismc, SSE4, jwillikers
 
 
 #### :clipboard: Statistics
@@ -130,10 +130,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cd8cb07a164daa85f4ba20d6393db0e0bc1ed8
 - Pull Requests:
-	- Open: 234
+	- Open: 236
 	- Draft: 19
-	- Average Age: 68 days, 6 hours, and 19.77 minutes
-	- Stop Label: 112
+	- Average Age: 67 days, 16 hours, and 35.09 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
