@@ -702,33 +702,6 @@
       }
    },
    {
-      "Number": 15559,
-      "OpenedBy": "mologie",
-      "CreatedAt": "2023-01-30T14:00:47Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15559",
-      "LastCommitSHA": "bd9f817dd3ccc487c54129b4b722fb33ed501e29",
-      "LastCommitAt": "2023-01-30T13:51:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "SpaceIm",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-02-01T12:20:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15559#pullrequestreview-1279003748"
-         }
-      }
-   },
-   {
       "Number": 15560,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-01-30T14:07:02Z",
@@ -750,32 +723,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2023-02-01T12:21:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15560#pullrequestreview-1279005340"
-         }
-      }
-   },
-   {
-      "Number": 15562,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-01-30T15:24:44Z",
-      "Recipe": "spirv-headers",
-      "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15562",
-      "LastCommitSHA": "e311d0a96a88abc5d936d1736518e488ab27d296",
-      "LastCommitAt": "2023-01-30T15:24:26Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-02-01T12:22:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15562#pullrequestreview-1279006863"
          }
       }
    },
@@ -1965,7 +1912,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15666",
       "LastCommitSHA": "eda08d63ac4360b5dbcad1d9a476999448c75702",
       "LastCommitAt": "2023-02-01T22:40:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
