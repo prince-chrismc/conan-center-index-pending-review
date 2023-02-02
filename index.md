@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **67** pull requests currently under way :detective:
+There are **68** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -55,7 +55,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15560](https://github.com/conan-io/conan-center-index/pull/15560)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:memo: sdl_ttf|1|Feb 1||uilianries
 [#15565](https://github.com/conan-io/conan-center-index/pull/15565)|[toge](https://github.com/toge)|Jan 30|:memo: cppserver|1|Feb 1||uilianries
 [#15567](https://github.com/conan-io/conan-center-index/pull/15567)|[MartinDelille](https://github.com/MartinDelille)|Jan 30|:gear: .github|0|||
-[#15583](https://github.com/conan-io/conan-center-index/pull/15583)|[Sneder89](https://github.com/Sneder89)|Jan 31|:memo: cppcheck|1|Feb 1||uilianries
+[#15583](https://github.com/conan-io/conan-center-index/pull/15583)|[Sneder89](https://github.com/Sneder89)|Jan 31|:memo: cppcheck|2|Feb 2||uilianries, EstebanDugueperoux2
 [#15586](https://github.com/conan-io/conan-center-index/pull/15586)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libjpeg-turbo|2|Jan 31||jwillikers
 [#15588](https://github.com/conan-io/conan-center-index/pull/15588)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libgeotiff|1|Jan 31||jwillikers
 [#15590](https://github.com/conan-io/conan-center-index/pull/15590)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: openal|1|Jan 31||
@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15646](https://github.com/conan-io/conan-center-index/pull/15646)|[toge](https://github.com/toge)|Feb 1|:memo: objectbox|0|||
 [#15649](https://github.com/conan-io/conan-center-index/pull/15649)|[toge](https://github.com/toge)|Feb 1|:memo: mcap|1|Feb 2||uilianries
 [#15650](https://github.com/conan-io/conan-center-index/pull/15650)|[toge](https://github.com/toge)|Feb 1|:memo: re2|0|||
-[#15653](https://github.com/conan-io/conan-center-index/pull/15653)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: fftw|0|||
+[#15652](https://github.com/conan-io/conan-center-index/pull/15652)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: liboping|0|||
 [#15655](https://github.com/conan-io/conan-center-index/pull/15655)|[toge](https://github.com/toge)|Feb 1|:memo: c4core|0|||
 [#15656](https://github.com/conan-io/conan-center-index/pull/15656)|[toge](https://github.com/toge)|Feb 1|:memo: scnlib|0|||
 [#15658](https://github.com/conan-io/conan-center-index/pull/15658)|[miklelappo](https://github.com/miklelappo)|Feb 1|:memo: perfetto|0|||
@@ -94,6 +94,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15670](https://github.com/conan-io/conan-center-index/pull/15670)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: czmq|0|||
 [#15671](https://github.com/conan-io/conan-center-index/pull/15671)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: vulkan-loader|0|||
 [#15672](https://github.com/conan-io/conan-center-index/pull/15672)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 2|:stopwatch: indicators|0|||
+[#15673](https://github.com/conan-io/conan-center-index/pull/15673)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: spirv-tools|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -129,8 +130,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 213
 	- Draft: 15
-	- Average Age: 69 days, 5 hours, and 30.03 minutes
-	- Stop Label: 99
+	- Average Age: 69 days, 5 hours, and 51.58 minutes
+	- Stop Label: 98
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
