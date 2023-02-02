@@ -101,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15685](https://github.com/conan-io/conan-center-index/pull/15685)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: zeromq|0|||
 [#15686](https://github.com/conan-io/conan-center-index/pull/15686)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: zfp|0|||
 [#15687](https://github.com/conan-io/conan-center-index/pull/15687)|[toge](https://github.com/toge)|Feb 2|:stopwatch: opentelemetry-cpp|0|||
-[#15689](https://github.com/conan-io/conan-center-index/pull/15689)|[toge](https://github.com/toge)|Feb 2|:stopwatch: glaze|0|||
+[#15689](https://github.com/conan-io/conan-center-index/pull/15689)|[toge](https://github.com/toge)|Feb 2|:memo: glaze|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -128,7 +128,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 212
 	- Draft: 17
-	- Average Age: 69 days, 18 hours, and 14.38 minutes
+	- Average Age: 69 days, 19 hours, and 7.64 minutes
 	- Stop Label: 98
 	
 
