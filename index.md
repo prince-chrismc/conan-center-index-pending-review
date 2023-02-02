@@ -98,11 +98,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15682](https://github.com/conan-io/conan-center-index/pull/15682)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: minizip|M|0|||
 [#15683](https://github.com/conan-io/conan-center-index/pull/15683)|[toge](https://github.com/toge)|Feb 2|:memo: libbpf|L|0|||
 [#15684](https://github.com/conan-io/conan-center-index/pull/15684)|[toge](https://github.com/toge)|Feb 2|:stopwatch: cs_libguarded|:green_circle: XS|0|||
-[#15685](https://github.com/conan-io/conan-center-index/pull/15685)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: zeromq|M|0|||
-[#15686](https://github.com/conan-io/conan-center-index/pull/15686)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: zfp|M|0|||
+[#15685](https://github.com/conan-io/conan-center-index/pull/15685)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: zeromq|M|1|Feb 2||jwillikers
+[#15686](https://github.com/conan-io/conan-center-index/pull/15686)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: zfp|M|1|Feb 2||jwillikers
 [#15687](https://github.com/conan-io/conan-center-index/pull/15687)|[toge](https://github.com/toge)|Feb 2|:stopwatch: opentelemetry-cpp|M|0|||
 [#15689](https://github.com/conan-io/conan-center-index/pull/15689)|[toge](https://github.com/toge)|Feb 2|:memo: glaze|:green_circle: XS|0|||
-[#15690](https://github.com/conan-io/conan-center-index/pull/15690)|[mologie](https://github.com/mologie)|Feb 2|:stopwatch: android-ndk|:blue_square: S|0|||
+[#15690](https://github.com/conan-io/conan-center-index/pull/15690)|[mologie](https://github.com/mologie)|Feb 2|:stopwatch: android-ndk|:blue_square: S|1|Feb 2||SpaceIm
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -129,7 +129,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 213
 	- Draft: 17
-	- Average Age: 69 days, 13 hours, and 17.08 minutes
+	- Average Age: 69 days, 14 hours, and 18.61 minutes
 	- Stop Label: 98
 	
 
