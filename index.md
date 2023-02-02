@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **61** pull requests currently under way :detective:
+There are **62** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | :---: | --- | --- | ---
@@ -63,6 +63,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15596](https://github.com/conan-io/conan-center-index/pull/15596)|[toge](https://github.com/toge)|Jan 31|:memo: ctre|1|Feb 1||uilianries
 [#15598](https://github.com/conan-io/conan-center-index/pull/15598)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libsamplerate|1|Jan 31||jwillikers
 [#15604](https://github.com/conan-io/conan-center-index/pull/15604)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: pugixml|1|Feb 1||jwillikers
+[#15607](https://github.com/conan-io/conan-center-index/pull/15607)|[paulharris](https://github.com/paulharris)|Feb 1|:stopwatch: libvpx|3|Feb 1||
 [#15608](https://github.com/conan-io/conan-center-index/pull/15608)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:memo: gdcm|0|||
 [#15628](https://github.com/conan-io/conan-center-index/pull/15628)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cubicinterpolation|1|Feb 1||jwillikers
 [#15629](https://github.com/conan-io/conan-center-index/pull/15629)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cose-c|1|Feb 1||jwillikers
@@ -87,12 +88,12 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15664](https://github.com/conan-io/conan-center-index/pull/15664)|[sujankota](https://github.com/sujankota)|Feb 1|:stopwatch: opentdf-client|0|||
 [#15666](https://github.com/conan-io/conan-center-index/pull/15666)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:stopwatch: mongo-cxx-driver|0|||
 [#15667](https://github.com/conan-io/conan-center-index/pull/15667)|[toge](https://github.com/toge)|Feb 1|:memo: unordered_dense|0|||
-[#15670](https://github.com/conan-io/conan-center-index/pull/15670)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:stopwatch: czmq|0|||
+[#15670](https://github.com/conan-io/conan-center-index/pull/15670)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: czmq|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **30** pull requests are waiting to be merged :tada:
+Currently **29** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -106,7 +107,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15459](https://github.com/conan-io/conan-center-index/pull/15459)|[nicosmd](https://github.com/nicosmd)|Jan 24|:warning: ffmpeg|2|uilianries, RubenRBS
 [#15471](https://github.com/conan-io/conan-center-index/pull/15471)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 25|:warning: qt|2|jwillikers, prince-chrismc
-[#15543](https://github.com/conan-io/conan-center-index/pull/15543)|[toge](https://github.com/toge)|Jan 30|:memo: drogon|2|uilianries, ericLemanissier
 [#15544](https://github.com/conan-io/conan-center-index/pull/15544)|[toge](https://github.com/toge)|Jan 30|:memo: daw_json_link|2|uilianries, ericLemanissier
 [#15546](https://github.com/conan-io/conan-center-index/pull/15546)|[toge](https://github.com/toge)|Jan 30|:memo: inja|2|jwillikers, uilianries
 [#15553](https://github.com/conan-io/conan-center-index/pull/15553)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 30|:gear: .c3i|2|SSE4, uilianries
@@ -135,9 +135,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cd8cb07a164daa85f4ba20d6393db0e0bc1ed8
 - Pull Requests:
-	- Open: 229
+	- Open: 228
 	- Draft: 17
-	- Average Age: 64 days, 19 hours, and 27.28 minutes
+	- Average Age: 65 days, 2 hours, and 29.06 minutes
 	- Stop Label: 103
 	
 
