@@ -16,19 +16,19 @@ func UnderReview(prs []*pending_review.PullRequestSummary, owner string, repo st
 		`
 	}
 
-	breif := "is **1** pull request"
+	brief := "is **1** pull request"
 	if rowCount > 1 {
-		breif = "are **" + fmt.Sprint(rowCount) + "** pull requests"
+		brief = "are **" + fmt.Sprint(rowCount) + "** pull requests"
 	}
 
 	return `
 
 ### :nerd_face: Please Review! 
 
-There ` + breif + ` currently under way :detective:
+There ` + brief + ` currently under way :detective:
 
-PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
-:---: | --- | --- | --- | :---: | --- | --- | ---
+PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
+:---: | --- | --- | --- | --- | :---: | --- | --- | ---
 ` +
 		tableBody
 }

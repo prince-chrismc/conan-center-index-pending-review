@@ -32,7 +32,7 @@ func underWay(pr *pending_review.PullRequestSummary) string {
 	var retval string
 	title := title(pr.Change, pr.Recipe)
 	if !pr.CciBotPassed {
-		// The assumption here is that "no passing" means in progress since "failing" PRs are disgarded
+		// The assumption here is that "no passing" means in progress since "failing" PRs are discarded
 		title = ":stopwatch: " + pr.Recipe
 	}
 
@@ -41,6 +41,7 @@ func underWay(pr *pending_review.PullRequestSummary) string {
 		fmt.Sprint("[", pr.OpenedBy, "](https://github.com/", pr.OpenedBy, ")"),
 		pr.CreatedAt.Format("Jan 2"),
 		title,
+		weight(pr.Weight),
 		fmt.Sprint(pr.Summary.Count),
 		lastReviewTime(pr),
 		strings.Join(pr.Summary.Blockers, ", "),
@@ -87,6 +88,23 @@ func title(change pending_review.Category, recipe string) string {
 		return ":green_book: " + recipe
 	case pending_review.CONFIG:
 		return ":gear: " + recipe
+	}
+
+	return "???"
+}
+
+func weight(w pending_review.ReviewWeight) string {
+	switch w {
+	case pending_review.TINY:
+		return ":green_circle: XS"
+	case pending_review.SMALL:
+		return ":blue_square: S"
+	case pending_review.REGULAR:
+		return "M"
+	case pending_review.HEAVY:
+		return "L"
+	case pending_review.TOO_MUCH:
+		return "XL"
 	}
 
 	return "???"

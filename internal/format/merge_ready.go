@@ -14,16 +14,16 @@ func ReadyToMerge(prs []*pending_review.PullRequestSummary) string {
 		return ""
 	}
 
-	breif := "**1** pull request is"
+	brief := "**1** pull request is"
 	if rowCount > 1 {
-		breif = "**" + fmt.Sprint(rowCount) + "** pull requests are"
+		brief = "**" + fmt.Sprint(rowCount) + "** pull requests are"
 	}
 
 	return `
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently ` + breif + ` waiting to be merged :tada:
+Currently ` + brief + ` waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
