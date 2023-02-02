@@ -37,7 +37,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#14930](https://github.com/conan-io/conan-center-index/pull/14930)|[planetmarshall](https://github.com/planetmarshall)|Dec 25|:memo: glibmm|6|Jan 30||uilianries
 [#15109](https://github.com/conan-io/conan-center-index/pull/15109)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 4|:memo: armadillo|4|Jan 31||uilianries
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|0|:eyes:||
-[#15314](https://github.com/conan-io/conan-center-index/pull/15314)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:stopwatch: sol2|0|||
+[#15314](https://github.com/conan-io/conan-center-index/pull/15314)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: sol2|0|||
 [#15353](https://github.com/conan-io/conan-center-index/pull/15353)|[paulharris](https://github.com/paulharris)|Jan 19|:stopwatch: libx264|0|:eyes:||
 [#15357](https://github.com/conan-io/conan-center-index/pull/15357)|[axxel](https://github.com/axxel)|Jan 19|:memo: zxing-cpp|2|Jan 20 :bell:||
 [#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:memo: openscenegraph|4|Jan 31||KrisNumber24, spb-fdd, kaloskagatos, uilianries
@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -108,9 +108,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15427](https://github.com/conan-io/conan-center-index/pull/15427)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 23|:gear: .c3i|2|uilianries, jwillikers
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15459](https://github.com/conan-io/conan-center-index/pull/15459)|[nicosmd](https://github.com/nicosmd)|Jan 24|:warning: ffmpeg|2|uilianries, RubenRBS
-[#15560](https://github.com/conan-io/conan-center-index/pull/15560)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:memo: sdl_ttf|2|uilianries, jwillikers
-[#15565](https://github.com/conan-io/conan-center-index/pull/15565)|[toge](https://github.com/toge)|Jan 30|:memo: cppserver|2|uilianries, jwillikers
-[#15583](https://github.com/conan-io/conan-center-index/pull/15583)|[Sneder89](https://github.com/Sneder89)|Jan 31|:memo: cppcheck|3|uilianries, EstebanDugueperoux2, jwillikers
 [#15638](https://github.com/conan-io/conan-center-index/pull/15638)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:memo: nasm|2|uilianries, ericLemanissier
 [#15649](https://github.com/conan-io/conan-center-index/pull/15649)|[toge](https://github.com/toge)|Feb 1|:memo: mcap|2|uilianries, jwillikers
 [#15677](https://github.com/conan-io/conan-center-index/pull/15677)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 2|:gear: .c3i|2|uilianries, SSE4
@@ -122,9 +119,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cd8cb07a164daa85f4ba20d6393db0e0bc1ed8
 - Pull Requests:
-	- Open: 210
+	- Open: 207
 	- Draft: 16
-	- Average Age: 70 days, 7 hours, and 21.94 minutes
+	- Average Age: 71 days, 6 hours, and 44.63 minutes
 	- Stop Label: 101
 	
 
