@@ -94,7 +94,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **22** pull requests are waiting to be merged :tada:
+Currently **19** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -107,9 +107,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15459](https://github.com/conan-io/conan-center-index/pull/15459)|[nicosmd](https://github.com/nicosmd)|Jan 24|:warning: ffmpeg|2|uilianries, RubenRBS
 [#15471](https://github.com/conan-io/conan-center-index/pull/15471)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 25|:warning: qt|2|jwillikers, prince-chrismc
-[#15563](https://github.com/conan-io/conan-center-index/pull/15563)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:memo: spirv-cross|2|jwillikers, uilianries
-[#15568](https://github.com/conan-io/conan-center-index/pull/15568)|[toge](https://github.com/toge)|Jan 30|:memo: wasmtime-cpp|2|uilianries, ericLemanissier
-[#15569](https://github.com/conan-io/conan-center-index/pull/15569)|[toge](https://github.com/toge)|Jan 30|:memo: sqlite_orm|2|uilianries, ericLemanissier
 [#15572](https://github.com/conan-io/conan-center-index/pull/15572)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:memo: cppcheck|3|jwillikers, uilianries
 [#15578](https://github.com/conan-io/conan-center-index/pull/15578)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:memo: zstd|3|jwillikers, uilianries
 [#15579](https://github.com/conan-io/conan-center-index/pull/15579)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: fmt|2|jwillikers, uilianries
@@ -129,9 +126,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cd8cb07a164daa85f4ba20d6393db0e0bc1ed8
 - Pull Requests:
-	- Open: 220
-	- Draft: 16
-	- Average Age: 67 days, 11 hours, and 16.25 minutes
+	- Open: 216
+	- Draft: 15
+	- Average Age: 68 days, 5 hours, and 21.37 minutes
 	- Stop Label: 103
 	
 
