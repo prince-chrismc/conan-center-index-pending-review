@@ -40,7 +40,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15314](https://github.com/conan-io/conan-center-index/pull/15314)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: sol2|0|||
 [#15353](https://github.com/conan-io/conan-center-index/pull/15353)|[paulharris](https://github.com/paulharris)|Jan 19|:stopwatch: libx264|0|:eyes:||
 [#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:memo: openscenegraph|4|Jan 31||KrisNumber24, spb-fdd, kaloskagatos, uilianries
-[#15416](https://github.com/conan-io/conan-center-index/pull/15416)|[toge](https://github.com/toge)|Jan 23|:stopwatch: trantor|2|Jan 31||
+[#15416](https://github.com/conan-io/conan-center-index/pull/15416)|[toge](https://github.com/toge)|Jan 23|:memo: trantor|2|Jan 31||
 [#15461](https://github.com/conan-io/conan-center-index/pull/15461)|[yekmen](https://github.com/yekmen)|Jan 24|:stopwatch: opencv|7|Jan 30||
 [#15472](https://github.com/conan-io/conan-center-index/pull/15472)|[EricAtORS](https://github.com/EricAtORS)|Jan 25|:memo: qt|2|Feb 1||jwillikers
 [#15498](https://github.com/conan-io/conan-center-index/pull/15498)|[Latios96](https://github.com/Latios96)|Jan 27|:memo: opensubdiv|1|Jan 31||uilianries
@@ -64,7 +64,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 [#15596](https://github.com/conan-io/conan-center-index/pull/15596)|[toge](https://github.com/toge)|Jan 31|:memo: ctre|1|Feb 1||uilianries
 [#15598](https://github.com/conan-io/conan-center-index/pull/15598)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libsamplerate|1|Jan 31||jwillikers
 [#15604](https://github.com/conan-io/conan-center-index/pull/15604)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: pugixml|1|Feb 1||jwillikers
-[#15607](https://github.com/conan-io/conan-center-index/pull/15607)|[paulharris](https://github.com/paulharris)|Feb 1|:stopwatch: libvpx|3|Feb 1||
+[#15607](https://github.com/conan-io/conan-center-index/pull/15607)|[paulharris](https://github.com/paulharris)|Feb 1|:memo: libvpx|3|Feb 1||
 [#15608](https://github.com/conan-io/conan-center-index/pull/15608)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:memo: gdcm|0|||
 [#15628](https://github.com/conan-io/conan-center-index/pull/15628)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cubicinterpolation|1|Feb 1||jwillikers
 [#15629](https://github.com/conan-io/conan-center-index/pull/15629)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 1|:memo: cose-c|1|Feb 1||jwillikers
@@ -94,7 +94,7 @@ PR | By | Opened | Recipe | Reviews | Last | :stop_sign: Blockers | :star2: Appr
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **26** pull requests are waiting to be merged :tada:
+Currently **24** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -107,8 +107,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15459](https://github.com/conan-io/conan-center-index/pull/15459)|[nicosmd](https://github.com/nicosmd)|Jan 24|:warning: ffmpeg|2|uilianries, RubenRBS
 [#15471](https://github.com/conan-io/conan-center-index/pull/15471)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 25|:warning: qt|2|jwillikers, prince-chrismc
-[#15553](https://github.com/conan-io/conan-center-index/pull/15553)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 30|:gear: .c3i|2|SSE4, uilianries
-[#15554](https://github.com/conan-io/conan-center-index/pull/15554)|[ericLemanissier](https://github.com/ericLemanissier)|Jan 30|:gear: .github|3|prince-chrismc, uilianries
 [#15559](https://github.com/conan-io/conan-center-index/pull/15559)|[mologie](https://github.com/mologie)|Jan 30|:memo: android-ndk|5|SSE4, SpaceIm, uilianries
 [#15562](https://github.com/conan-io/conan-center-index/pull/15562)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:memo: spirv-headers|2|jwillikers, uilianries
 [#15563](https://github.com/conan-io/conan-center-index/pull/15563)|[SpaceIm](https://github.com/SpaceIm)|Jan 30|:memo: spirv-cross|2|jwillikers, uilianries
@@ -133,9 +131,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cd8cb07a164daa85f4ba20d6393db0e0bc1ed8
 - Pull Requests:
-	- Open: 225
+	- Open: 223
 	- Draft: 16
-	- Average Age: 65 days, 22 hours, and 42.64 minutes
+	- Average Age: 66 days, 13 hours, and 15.92 minutes
 	- Stop Label: 103
 	
 
