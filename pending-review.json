@@ -880,17 +880,18 @@
       "LastCommitAt": "2023-01-31T08:56:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries"
+            "uilianries",
+            "EstebanDugueperoux2"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-02-01T12:33:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15583#pullrequestreview-1279023042"
+            "ReviewerName": "EstebanDugueperoux2",
+            "SubmittedAt": "2023-02-02T10:14:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15583#pullrequestreview-1280741332"
          }
       }
    },
@@ -1720,14 +1721,14 @@
       }
    },
    {
-      "Number": 15653,
+      "Number": 15652,
       "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-02-01T17:57:13Z",
-      "Recipe": "fftw",
+      "CreatedAt": "2023-02-01T17:19:52Z",
+      "Recipe": "liboping",
       "Change": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15653",
-      "LastCommitSHA": "fde0b62b0b7cc9d354f57345766a1eafba9908aa",
-      "LastCommitAt": "2023-02-01T18:26:26Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15652",
+      "LastCommitSHA": "daaf4eb9a5280cedf6a2289d9df7ca4b9b2e99ad",
+      "LastCommitAt": "2023-02-01T10:35:42Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -1891,6 +1892,24 @@
       "LastCommitSHA": "64903afcac949f8fa23a9a02a6e75234f5cf9cf7",
       "LastCommitAt": "2023-02-02T06:49:40Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15673,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-02T09:23:53Z",
+      "Recipe": "spirv-tools",
+      "Change": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15673",
+      "LastCommitSHA": "bf4e8924116b7bf8a09b01bc175043433e85cf0e",
+      "LastCommitAt": "2023-02-02T09:23:15Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
