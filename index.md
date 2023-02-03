@@ -41,7 +41,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15352](https://github.com/conan-io/conan-center-index/pull/15352)|[StellaSmith](https://github.com/StellaSmith)|Jan 18|:memo: binutils|L|0|||
 [#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:memo: openscenegraph|M|5|Feb 2||KrisNumber24, spb-fdd, kaloskagatos, uilianries
 [#15372](https://github.com/conan-io/conan-center-index/pull/15372)|[chausner](https://github.com/chausner)|Jan 19|:stopwatch: flac|M|9|Feb 3||SpaceIm
-[#15447](https://github.com/conan-io/conan-center-index/pull/15447)|[a4z](https://github.com/a4z)|Jan 24|:memo: strong_type|:blue_square: S|2|Feb 3||uilianries
+[#15447](https://github.com/conan-io/conan-center-index/pull/15447)|[a4z](https://github.com/a4z)|Jan 24|:stopwatch: strong_type|M|2|Feb 3||
 [#15461](https://github.com/conan-io/conan-center-index/pull/15461)|[yekmen](https://github.com/yekmen)|Jan 24|:stopwatch: opencv|:blue_square: S|9|Feb 3||SpaceIm, jwillikers
 [#15472](https://github.com/conan-io/conan-center-index/pull/15472)|[EricAtORS](https://github.com/EricAtORS)|Jan 25|:memo: qt|M|3|Feb 2||jwillikers
 [#15491](https://github.com/conan-io/conan-center-index/pull/15491)|[MartinDelille](https://github.com/MartinDelille)|Jan 26|:memo: sentry-breakpad|M|8|Feb 2|RubenRBS|SpaceIm, jwillikers
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 192
 	- Draft: 19
-	- Average Age: 75 days, 9 hours, and 50.70 minutes
+	- Average Age: 75 days, 11 hours, and 49.20 minutes
 	- Stop Label: 99
 	
 
