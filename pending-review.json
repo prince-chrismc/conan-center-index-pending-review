@@ -285,33 +285,6 @@
       }
    },
    {
-      "Number": 15198,
-      "OpenedBy": "justinmcbride",
-      "CreatedAt": "2023-01-10T06:33:26Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15198",
-      "LastCommitSHA": "88c94d0400f4ef2210bceb5949f9ba7ad504b7fc",
-      "LastCommitAt": "2023-01-05T13:04:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-01-27T15:28:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15198#pullrequestreview-1272901320"
-         }
-      }
-   },
-   {
       "Number": 15314,
       "OpenedBy": "StellaSmith",
       "CreatedAt": "2023-01-17T00:36:21Z",
@@ -629,7 +602,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15534",
       "LastCommitSHA": "003e5e25f6d370adaa6861e1aefe8b670743b261",
       "LastCommitAt": "2023-02-03T08:25:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1489,6 +1462,98 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 15699,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-02-03T10:20:40Z",
+      "Recipe": "thrift",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15699",
+      "LastCommitSHA": "bae52ac0a4337ec261b54ea1c2cae5e3e6086527",
+      "LastCommitAt": "2023-02-03T10:19:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15700,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-03T10:32:29Z",
+      "Recipe": "cpp-jwt",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15700",
+      "LastCommitSHA": "091871269aaec3e8c9b8605c5dc24cfc0050b1bd",
+      "LastCommitAt": "2023-02-03T10:31:55Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15701,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2023-02-03T10:36:45Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15701",
+      "LastCommitSHA": "1522fc94303749d02f8f4bff850567ffefe4c940",
+      "LastCommitAt": "2023-02-03T10:35:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "SSE4",
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-02-03T10:56:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15701#pullrequestreview-1282774237"
+         }
+      }
+   },
+   {
+      "Number": 15702,
+      "OpenedBy": "danimtb",
+      "CreatedAt": "2023-02-03T10:44:36Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15702",
+      "LastCommitSHA": "bb975dc3e2b18ff4625aa008e7bb2a110465061b",
+      "LastCommitAt": "2023-02-03T10:43:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "SSE4",
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-02-03T10:55:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15702#pullrequestreview-1282772023"
+         }
       }
    }
 ]
