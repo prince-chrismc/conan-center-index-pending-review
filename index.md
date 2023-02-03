@@ -34,7 +34,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|:green_circle: XS|2|Feb 2||prince-chrismc
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|M|0|||
 [#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|:blue_square: S|2|Jan 30|jcar87|prince-chrismc
-[#14930](https://github.com/conan-io/conan-center-index/pull/14930)|[planetmarshall](https://github.com/planetmarshall)|Dec 25|:memo: glibmm|L|15|Feb 3||uilianries
+[#14930](https://github.com/conan-io/conan-center-index/pull/14930)|[planetmarshall](https://github.com/planetmarshall)|Dec 25|:stopwatch: glibmm|L|15|Feb 3||
 [#15109](https://github.com/conan-io/conan-center-index/pull/15109)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 4|:memo: armadillo|L|4|Jan 31||uilianries
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|:blue_square: S|0|:eyes:||
 [#15172](https://github.com/conan-io/conan-center-index/pull/15172)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 9|:memo: date|L|3|Feb 3||uilianries
@@ -86,7 +86,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15699](https://github.com/conan-io/conan-center-index/pull/15699)|[toge](https://github.com/toge)|Feb 3|:stopwatch: thrift|M|0|||
 [#15700](https://github.com/conan-io/conan-center-index/pull/15700)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: cpp-jwt|L|0|||
 [#15701](https://github.com/conan-io/conan-center-index/pull/15701)|[danimtb](https://github.com/danimtb)|Feb 3|:green_book: docs|:green_circle: XS|2|Feb 3||SSE4, SpaceIm
-[#15702](https://github.com/conan-io/conan-center-index/pull/15702)|[danimtb](https://github.com/danimtb)|Feb 3|:stopwatch: .c3i|:blue_square: S|2|Feb 3||SSE4, SpaceIm
+[#15703](https://github.com/conan-io/conan-center-index/pull/15703)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: easyhttpcpp|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -109,10 +109,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 196
+	- Open: 195
 	- Draft: 18
-	- Average Age: 75 days, 15 hours, and 9.10 minutes
-	- Stop Label: 98
+	- Average Age: 74 days, 5 hours, and 21.83 minutes
+	- Stop Label: 97
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
