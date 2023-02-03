@@ -1086,33 +1086,6 @@
       }
    },
    {
-      "Number": 15655,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-02-01T18:08:44Z",
-      "Recipe": "c4core",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15655",
-      "LastCommitSHA": "47c51927602100579754f2a57ae2064339b75470",
-      "LastCommitAt": "2023-02-01T18:06:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-02-02T23:27:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15655#pullrequestreview-1282062743"
-         }
-      }
-   },
-   {
       "Number": 15656,
       "OpenedBy": "toge",
       "CreatedAt": "2023-02-01T18:12:49Z",
