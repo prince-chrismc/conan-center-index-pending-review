@@ -176,16 +176,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14930",
-      "LastCommitSHA": "bd513318409d6c433638a62760faa77f51dcbd4a",
-      "LastCommitAt": "2023-01-27T20:21:03Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "24ce0b6763f0cbac54981578df31bff6edfe6245",
+      "LastCommitAt": "2023-02-03T11:39:56Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 15,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
@@ -1530,30 +1528,22 @@
       }
    },
    {
-      "Number": 15702,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2023-02-03T10:44:36Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15702",
-      "LastCommitSHA": "bb975dc3e2b18ff4625aa008e7bb2a110465061b",
-      "LastCommitAt": "2023-02-03T10:43:11Z",
+      "Number": 15703,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-03T12:24:52Z",
+      "Recipe": "easyhttpcpp",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15703",
+      "LastCommitSHA": "dbc1e9cbdeb2848f24978bd236bba3464fac1e33",
+      "LastCommitAt": "2023-02-03T12:21:33Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 0,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "SSE4",
-            "SpaceIm"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-02-03T10:55:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15702#pullrequestreview-1282772023"
-         }
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
