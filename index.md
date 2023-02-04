@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -84,8 +84,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15459](https://github.com/conan-io/conan-center-index/pull/15459)|[nicosmd](https://github.com/nicosmd)|Jan 24|:warning: ffmpeg|2|uilianries, RubenRBS
 [#15590](https://github.com/conan-io/conan-center-index/pull/15590)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:warning: openal|3|jwillikers, uilianries
-[#15701](https://github.com/conan-io/conan-center-index/pull/15701)|[danimtb](https://github.com/danimtb)|Feb 3|:green_book: docs|3|SSE4, SpaceIm, uilianries
-[#15703](https://github.com/conan-io/conan-center-index/pull/15703)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: easyhttpcpp|2|jwillikers, uilianries
 
 
 #### :clipboard: Statistics
@@ -94,9 +92,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 177
+	- Open: 175
 	- Draft: 18
-	- Average Age: 82 days, 2 hours, and 37.55 minutes
+	- Average Age: 83 days, 1 hours, and 54.18 minutes
 	- Stop Label: 97
 	
 
