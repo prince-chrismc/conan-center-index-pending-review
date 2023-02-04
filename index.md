@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **54** pull requests currently under way :detective:
+There are **56** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -75,12 +75,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15709](https://github.com/conan-io/conan-center-index/pull/15709)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 4|:green_book: docs|:blue_square: S|0|||
 [#15710](https://github.com/conan-io/conan-center-index/pull/15710)|[Loki-Astari](https://github.com/Loki-Astari)|Feb 4|:stopwatch: thors-serializer|M|0|||
 [#15714](https://github.com/conan-io/conan-center-index/pull/15714)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: mosquitto|L|0|||
-[#15718](https://github.com/conan-io/conan-center-index/pull/15718)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:stopwatch: cmake|:green_circle: XS|0|||
-[#15719](https://github.com/conan-io/conan-center-index/pull/15719)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:stopwatch: emsdk|:green_circle: XS|0|||
+[#15718](https://github.com/conan-io/conan-center-index/pull/15718)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:memo: cmake|:green_circle: XS|0|||
+[#15719](https://github.com/conan-io/conan-center-index/pull/15719)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:memo: emsdk|:green_circle: XS|0|||
 [#15722](https://github.com/conan-io/conan-center-index/pull/15722)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:memo: taywee-args|:green_circle: XS|0|||
 [#15723](https://github.com/conan-io/conan-center-index/pull/15723)|[toge](https://github.com/toge)|Feb 4|:stopwatch: luau|M|0|||
-[#15724](https://github.com/conan-io/conan-center-index/pull/15724)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: bzip2|:blue_square: S|0|||
-[#15725](https://github.com/conan-io/conan-center-index/pull/15725)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:stopwatch: catch2|L|0|||
+[#15724](https://github.com/conan-io/conan-center-index/pull/15724)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:memo: bzip2|:blue_square: S|0|||
+[#15725](https://github.com/conan-io/conan-center-index/pull/15725)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: catch2|L|0|||
+[#15726](https://github.com/conan-io/conan-center-index/pull/15726)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: folly|L|0|||
+[#15727](https://github.com/conan-io/conan-center-index/pull/15727)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:green_book: docs|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -104,9 +106,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 184
+	- Open: 186
 	- Draft: 16
-	- Average Age: 77 days, 9 hours, and 34.85 minutes
+	- Average Age: 76 days, 14 hours, and 36.86 minutes
 	- Stop Label: 95
 	
 
