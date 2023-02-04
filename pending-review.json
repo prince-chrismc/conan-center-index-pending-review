@@ -739,17 +739,18 @@
       "LastCommitAt": "2023-01-31T14:18:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 8,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "grafikrobot"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-02-04T03:10:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15595#pullrequestreview-1284007085"
+            "ReviewerName": "grafikrobot",
+            "SubmittedAt": "2023-02-04T04:42:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15595#pullrequestreview-1284016155"
          }
       }
    },
@@ -828,33 +829,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2023-02-03T14:42:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15608#pullrequestreview-1283088372"
-         }
-      }
-   },
-   {
-      "Number": 15666,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-01T22:41:19Z",
-      "Recipe": "mongo-cxx-driver",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15666",
-      "LastCommitSHA": "eda08d63ac4360b5dbcad1d9a476999448c75702",
-      "LastCommitAt": "2023-02-01T22:40:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-02-03T14:48:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15666#pullrequestreview-1283097972"
          }
       }
    },
@@ -1211,7 +1185,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15704",
       "LastCommitSHA": "45cc801b235da4a3c7904beae3c87433b8e76c3c",
       "LastCommitAt": "2023-02-03T14:30:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
