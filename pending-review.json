@@ -1076,61 +1076,6 @@
       }
    },
    {
-      "Number": 15701,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2023-02-03T10:36:45Z",
-      "Recipe": "docs",
-      "Change": 2,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15701",
-      "LastCommitSHA": "1522fc94303749d02f8f4bff850567ffefe4c940",
-      "LastCommitAt": "2023-02-03T10:35:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "SpaceIm",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-02-03T15:06:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15701#pullrequestreview-1283129822"
-         }
-      }
-   },
-   {
-      "Number": 15703,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-03T12:24:52Z",
-      "Recipe": "easyhttpcpp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15703",
-      "LastCommitSHA": "7fc74df7518f2a7ea4b5aa02187a30caad6a1e30",
-      "LastCommitAt": "2023-02-03T12:27:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-02-03T15:08:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15703#pullrequestreview-1283133365"
-         }
-      }
-   },
-   {
       "Number": 15704,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-02-03T14:32:19Z",
@@ -1176,7 +1121,7 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15708",
-      "LastCommitSHA": "693ddd87004ca7ee70500f992bb2a135179798c3",
+      "LastCommitSHA": "2a789e5926936edc47849836f44d586d8ab52688",
       "LastCommitAt": "2023-02-03T21:56:11Z",
       "CciBotPassed": false,
       "Summary": {
