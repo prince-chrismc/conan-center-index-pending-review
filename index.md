@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **47** pull requests currently under way :detective:
+There are **51** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -73,7 +73,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15710](https://github.com/conan-io/conan-center-index/pull/15710)|[Loki-Astari](https://github.com/Loki-Astari)|Feb 4|:stopwatch: thors-serializer|M|0|||
 [#15714](https://github.com/conan-io/conan-center-index/pull/15714)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:stopwatch: mosquitto|L|0|||
 [#15716](https://github.com/conan-io/conan-center-index/pull/15716)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:stopwatch: openal-soft|XL|0|||
-[#15717](https://github.com/conan-io/conan-center-index/pull/15717)|[toge](https://github.com/toge)|Feb 4|:memo: libjpeg-turbo|:green_circle: XS|0|||
+[#15718](https://github.com/conan-io/conan-center-index/pull/15718)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:stopwatch: cmake|:green_circle: XS|0|||
+[#15719](https://github.com/conan-io/conan-center-index/pull/15719)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:stopwatch: emsdk|:green_circle: XS|0|||
+[#15720](https://github.com/conan-io/conan-center-index/pull/15720)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:stopwatch: flecs|:green_circle: XS|0|||
+[#15721](https://github.com/conan-io/conan-center-index/pull/15721)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:stopwatch: hunspell|:green_circle: XS|0|||
+[#15722](https://github.com/conan-io/conan-center-index/pull/15722)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:stopwatch: taywee-args|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -97,9 +101,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 180
+	- Open: 184
 	- Draft: 18
-	- Average Age: 80 days, 23 hours, and 26.90 minutes
+	- Average Age: 79 days, 6 hours, and 14.76 minutes
 	- Stop Label: 97
 	
 
