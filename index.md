@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **14** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -81,7 +81,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15459](https://github.com/conan-io/conan-center-index/pull/15459)|[nicosmd](https://github.com/nicosmd)|Jan 24|:warning: ffmpeg|2|uilianries, RubenRBS
 [#15590](https://github.com/conan-io/conan-center-index/pull/15590)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:warning: openal|3|jwillikers, uilianries
-[#15650](https://github.com/conan-io/conan-center-index/pull/15650)|[toge](https://github.com/toge)|Feb 1|:memo: re2|2|jwillikers, uilianries
 [#15656](https://github.com/conan-io/conan-center-index/pull/15656)|[toge](https://github.com/toge)|Feb 1|:memo: scnlib|2|jwillikers, uilianries
 [#15666](https://github.com/conan-io/conan-center-index/pull/15666)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:memo: mongo-cxx-driver|2|jwillikers, uilianries
 [#15676](https://github.com/conan-io/conan-center-index/pull/15676)|[wdobbe](https://github.com/wdobbe)|Feb 2|:memo: xorg|3|ericLemanissier, jwillikers, uilianries
@@ -97,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 192
+	- Open: 191
 	- Draft: 19
-	- Average Age: 75 days, 14 hours, and 17.19 minutes
+	- Average Age: 76 days, 1 hours, and 6.91 minutes
 	- Stop Label: 99
 	
 
