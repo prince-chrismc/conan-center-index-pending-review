@@ -261,6 +261,25 @@
       }
    },
    {
+      "Number": 15263,
+      "OpenedBy": "oleurodecision",
+      "CreatedAt": "2023-01-15T06:19:27Z",
+      "Recipe": "coin-clp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15263",
+      "LastCommitSHA": "f4440626d25d46507475cec672a0f17a639fd039",
+      "LastCommitAt": "2023-01-19T08:52:46Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 15314,
       "OpenedBy": "StellaSmith",
       "CreatedAt": "2023-01-17T00:36:21Z",
@@ -1262,6 +1281,25 @@
       "LastCommitSHA": "3d79bcb7871f1f9ddfb7e7f3a5bc84d9bf48bc49",
       "LastCommitAt": "2023-02-04T03:26:35Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15710,
+      "OpenedBy": "Loki-Astari",
+      "CreatedAt": "2023-02-04T05:22:00Z",
+      "Recipe": "thors-serializer",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15710",
+      "LastCommitSHA": "8bfe4fbeda8867ef96e13c046b0f0baa28438d61",
+      "LastCommitAt": "2023-02-03T22:00:29Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
