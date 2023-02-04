@@ -48,7 +48,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15549](https://github.com/conan-io/conan-center-index/pull/15549)|[toge](https://github.com/toge)|Jan 30|:stopwatch: log4cplus|L|6|Feb 3||SpaceIm
 [#15567](https://github.com/conan-io/conan-center-index/pull/15567)|[MartinDelille](https://github.com/MartinDelille)|Jan 30|:gear: .github|M|0|||
 [#15594](https://github.com/conan-io/conan-center-index/pull/15594)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libwebp|M|2|Jan 31||jwillikers
-[#15595](https://github.com/conan-io/conan-center-index/pull/15595)|[jwillikers](https://github.com/jwillikers)|Jan 31|:gear: .github|M|7|Feb 4||prince-chrismc
+[#15595](https://github.com/conan-io/conan-center-index/pull/15595)|[jwillikers](https://github.com/jwillikers)|Jan 31|:gear: .github|M|8|Feb 4||prince-chrismc, grafikrobot
 [#15598](https://github.com/conan-io/conan-center-index/pull/15598)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libsamplerate|M|1|Jan 31||jwillikers
 [#15604](https://github.com/conan-io/conan-center-index/pull/15604)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: pugixml|M|1|Feb 1||jwillikers
 [#15608](https://github.com/conan-io/conan-center-index/pull/15608)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:memo: gdcm|:blue_square: S|1|Feb 3||uilianries
@@ -60,7 +60,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15694](https://github.com/conan-io/conan-center-index/pull/15694)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 3|:gear: linter|:green_circle: XS|1|Feb 3||jwillikers
 [#15699](https://github.com/conan-io/conan-center-index/pull/15699)|[toge](https://github.com/toge)|Feb 3|:stopwatch: thrift|M|1|Feb 3||uilianries
 [#15700](https://github.com/conan-io/conan-center-index/pull/15700)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: cpp-jwt|L|1|Feb 3||uilianries
-[#15704](https://github.com/conan-io/conan-center-index/pull/15704)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: argtable3|:blue_square: S|0|||
+[#15704](https://github.com/conan-io/conan-center-index/pull/15704)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: argtable3|:blue_square: S|0|||
 [#15706](https://github.com/conan-io/conan-center-index/pull/15706)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: xmlsec|L|0|||
 [#15707](https://github.com/conan-io/conan-center-index/pull/15707)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: libiconv|M|0|||
 [#15708](https://github.com/conan-io/conan-center-index/pull/15708)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: libgettext|M|0|||
@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **14** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -82,7 +82,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15459](https://github.com/conan-io/conan-center-index/pull/15459)|[nicosmd](https://github.com/nicosmd)|Jan 24|:warning: ffmpeg|2|uilianries, RubenRBS
 [#15590](https://github.com/conan-io/conan-center-index/pull/15590)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:warning: openal|3|jwillikers, uilianries
-[#15666](https://github.com/conan-io/conan-center-index/pull/15666)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:memo: mongo-cxx-driver|2|jwillikers, uilianries
 [#15676](https://github.com/conan-io/conan-center-index/pull/15676)|[wdobbe](https://github.com/wdobbe)|Feb 2|:memo: xorg|3|ericLemanissier, jwillikers, uilianries
 [#15682](https://github.com/conan-io/conan-center-index/pull/15682)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: minizip|2|jwillikers, uilianries
 [#15685](https://github.com/conan-io/conan-center-index/pull/15685)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: zeromq|2|jwillikers, uilianries
@@ -96,9 +95,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 191
+	- Open: 189
 	- Draft: 19
-	- Average Age: 76 days, 2 hours, and 28.90 minutes
+	- Average Age: 76 days, 22 hours, and 9.59 minutes
 	- Stop Label: 99
 	
 
