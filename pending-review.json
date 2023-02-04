@@ -96,6 +96,25 @@
       }
    },
    {
+      "Number": 14792,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2022-12-17T23:20:59Z",
+      "Recipe": "xapian-core",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14792",
+      "LastCommitSHA": "181b4295b62e76902e20bd9f3445bf501b5b6ae8",
+      "LastCommitAt": "2023-02-03T23:50:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14800,
       "OpenedBy": "toge",
       "CreatedAt": "2022-12-18T11:38:06Z",
@@ -1049,7 +1068,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15699",
       "LastCommitSHA": "bae52ac0a4337ec261b54ea1c2cae5e3e6086527",
       "LastCommitAt": "2023-02-03T10:19:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1187,25 +1206,6 @@
       }
    },
    {
-      "Number": 15712,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-04T10:38:30Z",
-      "Recipe": "cose-c",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15712",
-      "LastCommitSHA": "f980afa7f195b2c651147246e5783bc43c69544d",
-      "LastCommitAt": "2023-02-04T10:42:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15714,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-02-04T12:24:23Z",
@@ -1235,6 +1235,25 @@
       "LastCommitSHA": "85322594be691e41f7d64d64409710c0e3cb37f4",
       "LastCommitAt": "2023-02-04T12:56:16Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15717,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-02-04T14:58:53Z",
+      "Recipe": "libjpeg-turbo",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15717",
+      "LastCommitSHA": "8ed9bbb100274bab617b275e149da287daf026de",
+      "LastCommitAt": "2023-02-04T14:58:25Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
