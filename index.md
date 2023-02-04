@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **37** pull requests currently under way :detective:
+There are **38** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -64,11 +64,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15704](https://github.com/conan-io/conan-center-index/pull/15704)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: argtable3|:blue_square: S|0|||
 [#15706](https://github.com/conan-io/conan-center-index/pull/15706)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: xmlsec|L|0|||
 [#15707](https://github.com/conan-io/conan-center-index/pull/15707)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: libiconv|M|0|||
+[#15708](https://github.com/conan-io/conan-center-index/pull/15708)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: libgettext|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -80,7 +81,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
 [#15459](https://github.com/conan-io/conan-center-index/pull/15459)|[nicosmd](https://github.com/nicosmd)|Jan 24|:warning: ffmpeg|2|uilianries, RubenRBS
 [#15590](https://github.com/conan-io/conan-center-index/pull/15590)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:warning: openal|3|jwillikers, uilianries
-[#15646](https://github.com/conan-io/conan-center-index/pull/15646)|[toge](https://github.com/toge)|Feb 1|:memo: objectbox|2|jwillikers, uilianries
 [#15650](https://github.com/conan-io/conan-center-index/pull/15650)|[toge](https://github.com/toge)|Feb 1|:memo: re2|2|jwillikers, uilianries
 [#15656](https://github.com/conan-io/conan-center-index/pull/15656)|[toge](https://github.com/toge)|Feb 1|:memo: scnlib|2|jwillikers, uilianries
 [#15666](https://github.com/conan-io/conan-center-index/pull/15666)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:memo: mongo-cxx-driver|2|jwillikers, uilianries
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 192
 	- Draft: 19
-	- Average Age: 75 days, 11 hours, and 49.20 minutes
+	- Average Age: 75 days, 14 hours, and 17.19 minutes
 	- Stop Label: 99
 	
 
