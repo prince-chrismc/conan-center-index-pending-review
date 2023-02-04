@@ -480,7 +480,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15352",
       "LastCommitSHA": "d11aea1432a9c93ea845865446ce79c0864e782c",
       "LastCommitAt": "2023-02-04T19:55:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -1299,25 +1299,6 @@
       }
    },
    {
-      "Number": 15716,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-04T13:01:23Z",
-      "Recipe": "openal-soft",
-      "Change": 0,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15716",
-      "LastCommitSHA": "85322594be691e41f7d64d64409710c0e3cb37f4",
-      "LastCommitAt": "2023-02-04T12:56:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15718,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2023-02-04T16:12:58Z",
@@ -1365,7 +1346,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15722",
       "LastCommitSHA": "4255c33821cd52feb91c417d73483cdf6a8f4d6b",
       "LastCommitAt": "2023-02-04T12:54:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
