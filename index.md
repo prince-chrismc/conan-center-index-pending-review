@@ -66,8 +66,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15699](https://github.com/conan-io/conan-center-index/pull/15699)|[toge](https://github.com/toge)|Feb 3|:stopwatch: thrift|M|1|Feb 3||uilianries
 [#15700](https://github.com/conan-io/conan-center-index/pull/15700)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: cpp-jwt|L|1|Feb 3||uilianries
 [#15704](https://github.com/conan-io/conan-center-index/pull/15704)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: argtable3|:blue_square: S|0|||
+[#15706](https://github.com/conan-io/conan-center-index/pull/15706)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: xmlsec|L|0|||
 [#15707](https://github.com/conan-io/conan-center-index/pull/15707)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: libiconv|M|0|||
-[#15708](https://github.com/conan-io/conan-center-index/pull/15708)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:stopwatch: libgettext|M|0|||
 [#15709](https://github.com/conan-io/conan-center-index/pull/15709)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 4|:green_book: docs|:blue_square: S|0|||
 [#15710](https://github.com/conan-io/conan-center-index/pull/15710)|[Loki-Astari](https://github.com/Loki-Astari)|Feb 4|:stopwatch: thors-serializer|M|0|||
 [#15712](https://github.com/conan-io/conan-center-index/pull/15712)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:stopwatch: cose-c|L|0|||
@@ -98,7 +98,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 179
 	- Draft: 18
-	- Average Age: 81 days, 8 hours, and 22.03 minutes
+	- Average Age: 81 days, 9 hours, and 17.12 minutes
 	- Stop Label: 97
 	
 
