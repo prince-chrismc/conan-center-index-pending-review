@@ -63,7 +63,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15608](https://github.com/conan-io/conan-center-index/pull/15608)|[SpaceIm](https://github.com/SpaceIm)|Feb 1|:memo: gdcm|:blue_square: S|1|Feb 3||uilianries
 [#15670](https://github.com/conan-io/conan-center-index/pull/15670)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: czmq|L|1|Feb 2||jwillikers
 [#15672](https://github.com/conan-io/conan-center-index/pull/15672)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 2|:memo: indicators|M|3|Feb 3||uilianries
-[#15674](https://github.com/conan-io/conan-center-index/pull/15674)|[paulharris](https://github.com/paulharris)|Feb 2|:memo: hdf5|M|4|Feb 4||
+[#15674](https://github.com/conan-io/conan-center-index/pull/15674)|[paulharris](https://github.com/paulharris)|Feb 2|:memo: hdf5|M|5|Feb 5||SpaceIm
 [#15683](https://github.com/conan-io/conan-center-index/pull/15683)|[toge](https://github.com/toge)|Feb 2|:memo: libbpf|L|1|Feb 3||
 [#15693](https://github.com/conan-io/conan-center-index/pull/15693)|[ashley-b](https://github.com/ashley-b)|Feb 3|:memo: boost|M|2|Feb 5||SpaceIm, Hopobcn
 [#15694](https://github.com/conan-io/conan-center-index/pull/15694)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 3|:gear: linter|:green_circle: XS|1|Feb 3||jwillikers
@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15727](https://github.com/conan-io/conan-center-index/pull/15727)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:green_book: docs|:green_circle: XS|0|||
 [#15728](https://github.com/conan-io/conan-center-index/pull/15728)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: fontconfig|M|0|||
 [#15729](https://github.com/conan-io/conan-center-index/pull/15729)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: fontconfig|L|0|||
-[#15730](https://github.com/conan-io/conan-center-index/pull/15730)|[toge](https://github.com/toge)|Feb 5|:stopwatch: roaring|:blue_square: S|0|||
+[#15730](https://github.com/conan-io/conan-center-index/pull/15730)|[toge](https://github.com/toge)|Feb 5|:memo: roaring|:blue_square: S|0|||
 [#15732](https://github.com/conan-io/conan-center-index/pull/15732)|[toge](https://github.com/toge)|Feb 5|:memo: xpack|:blue_square: S|0|||
 [#15733](https://github.com/conan-io/conan-center-index/pull/15733)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: antlr4-cppruntime|M|1|Feb 5||toge
 [#15734](https://github.com/conan-io/conan-center-index/pull/15734)|[toge](https://github.com/toge)|Feb 5|:memo: tinyspline|M|0|||
@@ -118,7 +118,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 196
 	- Draft: 15
-	- Average Age: 73 days, 4 hours, and 13.27 minutes
+	- Average Age: 73 days, 5 hours, and 25.97 minutes
 	- Stop Label: 98
 	
 
