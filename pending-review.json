@@ -250,7 +250,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15025",
       "LastCommitSHA": "4748e1dd60c7d46344f18626169c123a03b30773",
       "LastCommitAt": "2023-02-05T03:17:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 13,
          "ValidApprovals": 0,
@@ -1074,7 +1074,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15674",
       "LastCommitSHA": "fae79d25de8ee119e79a928277557d0a542385b7",
       "LastCommitAt": "2023-02-04T22:45:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -1339,6 +1339,25 @@
       }
    },
    {
+      "Number": 15716,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-04T13:01:23Z",
+      "Recipe": "openal-soft",
+      "Change": 0,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15716",
+      "LastCommitSHA": "85322594be691e41f7d64d64409710c0e3cb37f4",
+      "LastCommitAt": "2023-02-04T12:56:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 15718,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2023-02-04T16:12:58Z",
@@ -1585,6 +1604,25 @@
             "SubmittedAt": "2023-02-05T03:24:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15733#pullrequestreview-1284142104"
          }
+      }
+   },
+   {
+      "Number": 15734,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-02-05T01:08:38Z",
+      "Recipe": "tinyspline",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15734",
+      "LastCommitSHA": "45b7b04d667582e4ed192c3368b4de11da2d0d67",
+      "LastCommitAt": "2023-02-05T01:35:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
