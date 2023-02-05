@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **68** pull requests currently under way :detective:
+There are **70** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -34,6 +34,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14537](https://github.com/conan-io/conan-center-index/pull/14537)|[saukijan](https://github.com/saukijan)|Dec 2|:memo: open62541|XL|17|Jan 18 :bell:||
 [#14792](https://github.com/conan-io/conan-center-index/pull/14792)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: xapian-core|L|0|||
 [#14800](https://github.com/conan-io/conan-center-index/pull/14800)|[toge](https://github.com/toge)|Dec 18|:memo: libconfig|L|5|Feb 3||jwillikers
+[#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: ceres-solver|XL|0|:eyes:||
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|:green_circle: XS|2|Feb 2||prince-chrismc
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|M|0|:eyes:||
 [#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|:blue_square: S|2|Jan 30|jcar87|
@@ -88,13 +89,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15729](https://github.com/conan-io/conan-center-index/pull/15729)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: fontconfig|L|0|||
 [#15730](https://github.com/conan-io/conan-center-index/pull/15730)|[toge](https://github.com/toge)|Feb 5|:memo: roaring|:blue_square: S|0|||
 [#15732](https://github.com/conan-io/conan-center-index/pull/15732)|[toge](https://github.com/toge)|Feb 5|:memo: xpack|:blue_square: S|0|||
-[#15733](https://github.com/conan-io/conan-center-index/pull/15733)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:stopwatch: antlr4-cppruntime|M|1|Feb 5||
+[#15733](https://github.com/conan-io/conan-center-index/pull/15733)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: antlr4-cppruntime|M|1|Feb 5||
 [#15734](https://github.com/conan-io/conan-center-index/pull/15734)|[toge](https://github.com/toge)|Feb 5|:memo: tinyspline|M|0|||
 [#15735](https://github.com/conan-io/conan-center-index/pull/15735)|[toge](https://github.com/toge)|Feb 5|:memo: flatbuffers|:blue_square: S|0|||
 [#15736](https://github.com/conan-io/conan-center-index/pull/15736)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: anyrpc|M|0|||
 [#15737](https://github.com/conan-io/conan-center-index/pull/15737)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: apr|:blue_square: S|0|||
 [#15739](https://github.com/conan-io/conan-center-index/pull/15739)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 5|:green_book: docs|:green_circle: XS|1|Feb 5||SSE4
 [#15741](https://github.com/conan-io/conan-center-index/pull/15741)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:stopwatch: apriltag|XL|0|||
+[#15742](https://github.com/conan-io/conan-center-index/pull/15742)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:stopwatch: aravis|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -118,10 +120,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 197
+	- Open: 198
 	- Draft: 15
-	- Average Age: 72 days, 23 hours, and 18.80 minutes
-	- Stop Label: 97
+	- Average Age: 72 days, 15 hours, and 31.90 minutes
+	- Stop Label: 96
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
