@@ -1718,7 +1718,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15743",
       "LastCommitSHA": "7a040015441d9e2ef65ea87970a59bcac1dc5b11",
       "LastCommitAt": "2023-02-05T18:29:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1737,7 +1737,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15744",
       "LastCommitSHA": "d860de8450fed1041f5cc90fdeabfb9d853aebbf",
       "LastCommitAt": "2023-02-05T18:00:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1756,6 +1756,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15745",
       "LastCommitSHA": "791a7dbc15983e2eaae4b4da8e0174e299d27ab7",
       "LastCommitAt": "2023-02-05T18:57:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15746,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-05T19:58:40Z",
+      "Recipe": "coin-utils",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15746",
+      "LastCommitSHA": "fee48f1e181acaa5a602b4d58064770dddcafa72",
+      "LastCommitAt": "2022-10-12T22:07:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
