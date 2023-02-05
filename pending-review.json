@@ -1134,25 +1134,6 @@
       }
    },
    {
-      "Number": 15678,
-      "OpenedBy": "sabelka",
-      "CreatedAt": "2023-02-02T12:52:55Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15678",
-      "LastCommitSHA": "29fca93e326a300cadb2f4f39a3fc39e3d95ab21",
-      "LastCommitAt": "2023-02-04T19:16:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15683,
       "OpenedBy": "toge",
       "CreatedAt": "2023-02-02T16:55:21Z",
@@ -1559,7 +1540,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15728",
       "LastCommitSHA": "fe19d4cd5a770574643371747e3df407848c0f90",
       "LastCommitAt": "2023-02-04T22:15:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
