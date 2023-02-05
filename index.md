@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **69** pull requests currently under way :detective:
+There are **72** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -75,6 +75,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15704](https://github.com/conan-io/conan-center-index/pull/15704)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: argtable3|:blue_square: S|0|||
 [#15706](https://github.com/conan-io/conan-center-index/pull/15706)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: xmlsec|L|0|||
 [#15707](https://github.com/conan-io/conan-center-index/pull/15707)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: libiconv|M|0|||
+[#15708](https://github.com/conan-io/conan-center-index/pull/15708)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: libgettext|L|0|||
 [#15709](https://github.com/conan-io/conan-center-index/pull/15709)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 4|:green_book: docs|:blue_square: S|0|||
 [#15710](https://github.com/conan-io/conan-center-index/pull/15710)|[Loki-Astari](https://github.com/Loki-Astari)|Feb 4|:stopwatch: thors-serializer|M|0|||
 [#15714](https://github.com/conan-io/conan-center-index/pull/15714)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: mosquitto|L|1|Feb 5||toge
@@ -96,6 +97,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15739](https://github.com/conan-io/conan-center-index/pull/15739)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 5|:green_book: docs|:green_circle: XS|1|Feb 5||SSE4
 [#15742](https://github.com/conan-io/conan-center-index/pull/15742)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: aravis|L|0|||
 [#15743](https://github.com/conan-io/conan-center-index/pull/15743)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:stopwatch: arcus|M|0|||
+[#15744](https://github.com/conan-io/conan-center-index/pull/15744)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:stopwatch: argon2|L|0|||
+[#15745](https://github.com/conan-io/conan-center-index/pull/15745)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:stopwatch: aruco|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -118,10 +121,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 196
+	- Open: 198
 	- Draft: 14
-	- Average Age: 73 days, 9 hours, and 27.20 minutes
-	- Stop Label: 97
+	- Average Age: 72 days, 16 hours, and 34.67 minutes
+	- Stop Label: 96
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
