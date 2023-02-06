@@ -1493,30 +1493,6 @@
       }
    },
    {
-      "Number": 15726,
-      "OpenedBy": "Hopobcn",
-      "CreatedAt": "2023-02-04T21:46:30Z",
-      "Recipe": "folly",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15726",
-      "LastCommitSHA": "0c755438de4014be73cb80b8e8ad45f779ee2cad",
-      "LastCommitAt": "2023-02-05T23:24:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-02-05T17:18:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15726#pullrequestreview-1284303302"
-         }
-      }
-   },
-   {
       "Number": 15727,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2023-02-04T22:00:05Z",
@@ -1937,7 +1913,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15752",
       "LastCommitSHA": "0f91d0acf0585a14e79844768f3a8f1c3e0afde0",
       "LastCommitAt": "2023-02-06T05:05:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
