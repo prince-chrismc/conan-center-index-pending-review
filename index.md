@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -40,8 +40,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|M|0|:eyes:||
 [#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|:blue_square: S|2|Jan 30|jcar87|
 [#15025](https://github.com/conan-io/conan-center-index/pull/15025)|[System-Arch](https://github.com/System-Arch)|Dec 31|:memo: gmp|M|14|Feb 6||Hopobcn
-[#15062](https://github.com/conan-io/conan-center-index/pull/15062)|[madebr](https://github.com/madebr)|Jan 2|:memo: ncurses|M|1|Feb 7||uilianries
-[#15109](https://github.com/conan-io/conan-center-index/pull/15109)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 4|:stopwatch: armadillo|L|9|Feb 7||
+[#15109](https://github.com/conan-io/conan-center-index/pull/15109)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 4|:memo: armadillo|L|9|Feb 7||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|:blue_square: S|0|:eyes:||
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:memo: opencv|XL|0|:eyes:||
 [#15263](https://github.com/conan-io/conan-center-index/pull/15263)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:memo: coin-clp|M|1|Feb 7||uilianries
@@ -77,6 +76,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15727](https://github.com/conan-io/conan-center-index/pull/15727)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 4|:green_book: docs|:green_circle: XS|4|Feb 6||ericLemanissier, Hopobcn
 [#15728](https://github.com/conan-io/conan-center-index/pull/15728)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: fontconfig|M|1|Feb 6||jwillikers
 [#15729](https://github.com/conan-io/conan-center-index/pull/15729)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: fontconfig|L|1|Feb 6||jwillikers
+[#15731](https://github.com/conan-io/conan-center-index/pull/15731)|[toge](https://github.com/toge)|Feb 5|:memo: rabbitmq-c|L|0|||
 [#15733](https://github.com/conan-io/conan-center-index/pull/15733)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: antlr4-cppruntime|M|1|Feb 5||
 [#15735](https://github.com/conan-io/conan-center-index/pull/15735)|[toge](https://github.com/toge)|Feb 5|:memo: flatbuffers|M|1|Feb 6||
 [#15736](https://github.com/conan-io/conan-center-index/pull/15736)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: anyrpc|M|0|||
@@ -115,6 +115,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15791](https://github.com/conan-io/conan-center-index/pull/15791)|[Loki-Astari](https://github.com/Loki-Astari)|Feb 6|:stopwatch: thors-serializer|M|0|||
 [#15792](https://github.com/conan-io/conan-center-index/pull/15792)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: bullet3|M|0|||
 [#15794](https://github.com/conan-io/conan-center-index/pull/15794)|[toge](https://github.com/toge)|Feb 7|:memo: refl-cpp|L|1|Feb 7||uilianries
+[#15795](https://github.com/conan-io/conan-center-index/pull/15795)|[toge](https://github.com/toge)|Feb 7|:memo: abseil|M|0|||
 [#15797](https://github.com/conan-io/conan-center-index/pull/15797)|[Hopobcn](https://github.com/Hopobcn)|Feb 7|:gear: .github|L|0|||
 
 
@@ -134,10 +135,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 216
+	- Open: 215
 	- Draft: 14
-	- Average Age: 67 days, 16 hours, and 29.15 minutes
-	- Stop Label: 98
+	- Average Age: 67 days, 21 hours, and 17.00 minutes
+	- Stop Label: 97
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
