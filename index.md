@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -60,6 +60,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15595](https://github.com/conan-io/conan-center-index/pull/15595)|[jwillikers](https://github.com/jwillikers)|Jan 31|:gear: .github|M|8|Feb 4||prince-chrismc, grafikrobot
 [#15598](https://github.com/conan-io/conan-center-index/pull/15598)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libsamplerate|M|3|Feb 5||jwillikers, toge
 [#15604](https://github.com/conan-io/conan-center-index/pull/15604)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: pugixml|M|2|Feb 5||jwillikers, toge
+[#15643](https://github.com/conan-io/conan-center-index/pull/15643)|[lukaumi](https://github.com/lukaumi)|Feb 1|:stopwatch: blasfeo|L|2|Feb 2||
 [#15670](https://github.com/conan-io/conan-center-index/pull/15670)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: czmq|L|1|Feb 2||jwillikers
 [#15673](https://github.com/conan-io/conan-center-index/pull/15673)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: spirv-tools|M|2|Feb 6||jwillikers
 [#15674](https://github.com/conan-io/conan-center-index/pull/15674)|[paulharris](https://github.com/paulharris)|Feb 2|:memo: hdf5|M|6|Feb 6||SpaceIm, jwillikers
@@ -138,9 +139,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 221
+	- Open: 220
 	- Draft: 14
-	- Average Age: 66 days, 3 hours, and 9.12 minutes
+	- Average Age: 66 days, 11 hours, and 9.61 minutes
 	- Stop Label: 98
 	
 
