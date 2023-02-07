@@ -357,17 +357,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15109",
-      "LastCommitSHA": "bdab6da6ceaf44f623849eb23e225900b08bab61",
-      "LastCommitAt": "2023-01-30T10:50:25Z",
+      "LastCommitSHA": "002afbf7730723f5886cc68a81ef76a35733aa25",
+      "LastCommitAt": "2023-02-07T09:40:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 9,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -504,33 +501,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2023-02-03T15:09:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15314#pullrequestreview-1283135811"
-         }
-      }
-   },
-   {
-      "Number": 15338,
-      "OpenedBy": "calebkiage",
-      "CreatedAt": "2023-01-17T23:59:11Z",
-      "Recipe": "libpq",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15338",
-      "LastCommitSHA": "2bf9fc2f5a49d47f6fc510842ce25827a9a9eb09",
-      "LastCommitAt": "2023-02-03T14:42:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "SpaceIm",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-02-06T14:33:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15338#pullrequestreview-1285309284"
          }
       }
    },
