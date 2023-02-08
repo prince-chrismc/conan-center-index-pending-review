@@ -2121,26 +2121,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15809",
       "LastCommitSHA": "0af2eac6c59d4560e25b3a1a1a4bd80ee5dfe0b4",
       "LastCommitAt": "2023-02-07T23:34:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 15814,
-      "OpenedBy": "hedtke",
-      "CreatedAt": "2023-02-08T09:53:08Z",
-      "Recipe": "highs",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15814",
-      "LastCommitSHA": "0d01c00caec2d15e1f1fc90aaf077691490319f2",
-      "LastCommitAt": "2023-02-08T08:34:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
