@@ -858,18 +858,19 @@
       "LastCommitAt": "2023-01-31T14:18:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 10,
-         "ValidApprovals": 1,
+         "Count": 11,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             "grafikrobot",
-            "Croydon"
+            "Croydon",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2023-02-07T18:51:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15595#pullrequestreview-1287783061"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-02-08T03:41:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15595#pullrequestreview-1288418392"
          }
       }
    },
