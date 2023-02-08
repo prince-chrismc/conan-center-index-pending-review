@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **93** pull requests currently under way :detective:
+There are **94** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -47,7 +47,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15263](https://github.com/conan-io/conan-center-index/pull/15263)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:memo: coin-clp|M|2|Feb 7||uilianries
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|L|7|Feb 7||prince-chrismc
 [#15314](https://github.com/conan-io/conan-center-index/pull/15314)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: sol2|L|8|Feb 7||uilianries, TheClonerx
-[#15332](https://github.com/conan-io/conan-center-index/pull/15332)|[toge](https://github.com/toge)|Jan 17|:memo: libdwarf|L|6|Feb 7||
+[#15332](https://github.com/conan-io/conan-center-index/pull/15332)|[toge](https://github.com/toge)|Jan 17|:memo: libdwarf|L|7|Feb 7||jwillikers
 [#15352](https://github.com/conan-io/conan-center-index/pull/15352)|[StellaSmith](https://github.com/StellaSmith)|Jan 18|:memo: binutils|L|3|Feb 4||
 [#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:memo: ccache|L|0|||
 [#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:stopwatch: openscenegraph|M|6|Feb 7||
@@ -119,7 +119,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15803](https://github.com/conan-io/conan-center-index/pull/15803)|[toge](https://github.com/toge)|Feb 7|:stopwatch: cpp-httplib|:blue_square: S|0|||
 [#15804](https://github.com/conan-io/conan-center-index/pull/15804)|[grafikrobot](https://github.com/grafikrobot)|Feb 7|:gear: .github|:green_circle: XS|4|Feb 7||prince-chrismc
 [#15805](https://github.com/conan-io/conan-center-index/pull/15805)|[MrSparc](https://github.com/MrSparc)|Feb 7|:stopwatch: opentelemetry-cpp|M|0|||
-[#15806](https://github.com/conan-io/conan-center-index/pull/15806)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:stopwatch: caf|L|0|||
+[#15807](https://github.com/conan-io/conan-center-index/pull/15807)|[toge](https://github.com/toge)|Feb 7|:stopwatch: fast_float|:blue_square: S|0|||
+[#15809](https://github.com/conan-io/conan-center-index/pull/15809)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:stopwatch: cairo|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -139,10 +140,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 210
+	- Open: 213
 	- Draft: 14
-	- Average Age: 69 days, 16 hours, and 41.23 minutes
-	- Stop Label: 90
+	- Average Age: 68 days, 18 hours, and 54.14 minutes
+	- Stop Label: 92
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
