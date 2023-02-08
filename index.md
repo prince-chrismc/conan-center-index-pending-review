@@ -128,7 +128,7 @@ Currently **1** pull request is waiting to be merged :tada:
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:warning: boost|2|uilianries, ericLemanissier
+[#15449](https://github.com/conan-io/conan-center-index/pull/15449)|[ovostrikov](https://github.com/ovostrikov)|Jan 24|:memo: boost|2|uilianries, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -139,7 +139,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 209
 	- Draft: 14
-	- Average Age: 70 days, 5 hours, and 16.54 minutes
+	- Average Age: 70 days, 6 hours, and 21.71 minutes
 	- Stop Label: 92
 	
 
