@@ -1946,17 +1946,18 @@
       "LastCommitAt": "2023-02-06T14:40:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "jiankyu"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-02-06T17:48:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15779#pullrequestreview-1285721270"
+            "ReviewerName": "jiankyu",
+            "SubmittedAt": "2023-02-08T01:03:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15779#pullrequestreview-1288310083"
          }
       }
    },
