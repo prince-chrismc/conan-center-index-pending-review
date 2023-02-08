@@ -346,7 +346,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15110",
       "LastCommitSHA": "99d69422b3023f2007380af8f721799f643beed5",
       "LastCommitAt": "2023-02-07T14:55:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -998,33 +998,6 @@
       }
    },
    {
-      "Number": 15704,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-03T14:32:19Z",
-      "Recipe": "argtable3",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15704",
-      "LastCommitSHA": "45cc801b235da4a3c7904beae3c87433b8e76c3c",
-      "LastCommitAt": "2023-02-03T14:30:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-02-08T12:14:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15704#pullrequestreview-1289042798"
-         }
-      }
-   },
-   {
       "Number": 15706,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-02-03T17:53:00Z",
@@ -1373,33 +1346,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 15737,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-05T01:28:11Z",
-      "Recipe": "apr",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15737",
-      "LastCommitSHA": "0e9fc69d03ecaf4caf4eac426589b2e0abf9a124",
-      "LastCommitAt": "2023-02-05T01:26:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-02-08T12:14:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15737#pullrequestreview-1289041904"
-         }
       }
    },
    {
@@ -2028,25 +1974,6 @@
             "SubmittedAt": "2023-02-07T14:09:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15794#pullrequestreview-1287180408"
          }
-      }
-   },
-   {
-      "Number": 15799,
-      "OpenedBy": "hellozee",
-      "CreatedAt": "2023-02-07T14:35:20Z",
-      "Recipe": "libsvtav1",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15799",
-      "LastCommitSHA": "bdbb70d6187fb8b8d959a3e50b1639469810098b",
-      "LastCommitAt": "2023-02-07T14:30:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
