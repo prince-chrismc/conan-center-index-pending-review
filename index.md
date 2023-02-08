@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **89** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -33,7 +33,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:memo: openssl|L|1|Nov 25 :bell:||
 [#14537](https://github.com/conan-io/conan-center-index/pull/14537)|[saukijan](https://github.com/saukijan)|Dec 2|:memo: open62541|XL|18|Feb 7||prince-chrismc
 [#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: mpfr|L|5|Feb 6||Hopobcn
-[#14792](https://github.com/conan-io/conan-center-index/pull/14792)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: xapian-core|L|0|||
+[#14792](https://github.com/conan-io/conan-center-index/pull/14792)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: xapian-core|L|0|:eyes:||
 [#14800](https://github.com/conan-io/conan-center-index/pull/14800)|[toge](https://github.com/toge)|Dec 18|:memo: libconfig|L|5|Feb 3||jwillikers
 [#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: ceres-solver|XL|0|:eyes:||
 [#14911](https://github.com/conan-io/conan-center-index/pull/14911)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|:green_circle: XS|2|Feb 2||prince-chrismc
@@ -41,7 +41,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|:blue_square: S|3|Feb 8|jcar87|prince-chrismc
 [#15025](https://github.com/conan-io/conan-center-index/pull/15025)|[System-Arch](https://github.com/System-Arch)|Dec 31|:memo: gmp|M|14|Feb 6||Hopobcn
 [#15109](https://github.com/conan-io/conan-center-index/pull/15109)|[samuel-emrys](https://github.com/samuel-emrys)|Jan 4|:memo: armadillo|L|10|Feb 7||jwillikers
-[#15110](https://github.com/conan-io/conan-center-index/pull/15110)|[toge](https://github.com/toge)|Jan 4|:stopwatch: wt|XL|2|Feb 7||
+[#15110](https://github.com/conan-io/conan-center-index/pull/15110)|[toge](https://github.com/toge)|Jan 4|:memo: wt|XL|2|Feb 7||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|:blue_square: S|0|:eyes:||
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:memo: opencv|XL|0|:eyes:||
 [#15263](https://github.com/conan-io/conan-center-index/pull/15263)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:memo: coin-clp|M|2|Feb 7||uilianries
@@ -110,7 +110,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15791](https://github.com/conan-io/conan-center-index/pull/15791)|[Loki-Astari](https://github.com/Loki-Astari)|Feb 6|:stopwatch: thors-serializer|M|0|||
 [#15792](https://github.com/conan-io/conan-center-index/pull/15792)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: bullet3|M|0|||
 [#15794](https://github.com/conan-io/conan-center-index/pull/15794)|[toge](https://github.com/toge)|Feb 7|:memo: refl-cpp|L|2|Feb 7||uilianries
-[#15799](https://github.com/conan-io/conan-center-index/pull/15799)|[hellozee](https://github.com/hellozee)|Feb 7|:memo: libsvtav1|M|0|||
 [#15803](https://github.com/conan-io/conan-center-index/pull/15803)|[toge](https://github.com/toge)|Feb 7|:memo: cpp-httplib|:blue_square: S|0|||
 [#15805](https://github.com/conan-io/conan-center-index/pull/15805)|[MrSparc](https://github.com/MrSparc)|Feb 7|:stopwatch: opentelemetry-cpp|M|0|||
 [#15806](https://github.com/conan-io/conan-center-index/pull/15806)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: caf|L|0|||
@@ -121,13 +120,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15704](https://github.com/conan-io/conan-center-index/pull/15704)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: argtable3|2|prince-chrismc, ericLemanissier
-[#15737](https://github.com/conan-io/conan-center-index/pull/15737)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: apr|2|prince-chrismc, ericLemanissier
 [#15754](https://github.com/conan-io/conan-center-index/pull/15754)|[SpaceIm](https://github.com/SpaceIm)|Feb 6|:memo: assimp|2|prince-chrismc, ericLemanissier
 [#15801](https://github.com/conan-io/conan-center-index/pull/15801)|[uilianries](https://github.com/uilianries)|Feb 7|:warning: openssl|6|danimtb, jcar87
 
@@ -138,10 +135,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 209
-	- Draft: 14
-	- Average Age: 70 days, 8 hours, and 44.49 minutes
-	- Stop Label: 91
+	- Open: 208
+	- Draft: 15
+	- Average Age: 70 days, 16 hours, and 48.90 minutes
+	- Stop Label: 92
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
