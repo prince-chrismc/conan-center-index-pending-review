@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -113,19 +113,20 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15803](https://github.com/conan-io/conan-center-index/pull/15803)|[toge](https://github.com/toge)|Feb 7|:memo: cpp-httplib|:blue_square: S|0|||
 [#15805](https://github.com/conan-io/conan-center-index/pull/15805)|[MrSparc](https://github.com/MrSparc)|Feb 7|:stopwatch: opentelemetry-cpp|M|0|||
 [#15806](https://github.com/conan-io/conan-center-index/pull/15806)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: caf|L|0|||
-[#15807](https://github.com/conan-io/conan-center-index/pull/15807)|[toge](https://github.com/toge)|Feb 7|:stopwatch: fast_float|:blue_square: S|0|||
+[#15807](https://github.com/conan-io/conan-center-index/pull/15807)|[toge](https://github.com/toge)|Feb 7|:memo: fast_float|:blue_square: S|0|||
 [#15809](https://github.com/conan-io/conan-center-index/pull/15809)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: cairo|L|0|||
+[#15810](https://github.com/conan-io/conan-center-index/pull/15810)|[SpaceIm](https://github.com/SpaceIm)|Feb 8|:memo: pixman|L|0|||
 [#15815](https://github.com/conan-io/conan-center-index/pull/15815)|[czoido](https://github.com/czoido)|Feb 8|:stopwatch: cmake|:green_circle: XS|1|Feb 8||
+[#15819](https://github.com/conan-io/conan-center-index/pull/15819)|[SpaceIm](https://github.com/SpaceIm)|Feb 8|:stopwatch: ffmpeg|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15754](https://github.com/conan-io/conan-center-index/pull/15754)|[SpaceIm](https://github.com/SpaceIm)|Feb 6|:memo: assimp|2|prince-chrismc, ericLemanissier
 [#15801](https://github.com/conan-io/conan-center-index/pull/15801)|[uilianries](https://github.com/uilianries)|Feb 7|:warning: openssl|6|danimtb, jcar87
 
 
@@ -135,10 +136,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 208
-	- Draft: 15
-	- Average Age: 70 days, 16 hours, and 48.90 minutes
-	- Stop Label: 92
+	- Open: 209
+	- Draft: 16
+	- Average Age: 70 days, 9 hours, and 17.81 minutes
+	- Stop Label: 91
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
