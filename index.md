@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15549](https://github.com/conan-io/conan-center-index/pull/15549)|[toge](https://github.com/toge)|Jan 30|:memo: log4cplus|L|7|Feb 6||SpaceIm, jwillikers
 [#15590](https://github.com/conan-io/conan-center-index/pull/15590)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: openal|M|4|Feb 6||jwillikers
 [#15594](https://github.com/conan-io/conan-center-index/pull/15594)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: libwebp|M|2|Jan 31||jwillikers
-[#15595](https://github.com/conan-io/conan-center-index/pull/15595)|[jwillikers](https://github.com/jwillikers)|Jan 31|:gear: .github|M|13|Feb 8||grafikrobot
+[#15595](https://github.com/conan-io/conan-center-index/pull/15595)|[jwillikers](https://github.com/jwillikers)|Jan 31|:gear: .github|M|14|Feb 8||grafikrobot, Croydon
 [#15604](https://github.com/conan-io/conan-center-index/pull/15604)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: pugixml|M|2|Feb 5||jwillikers, toge
 [#15659](https://github.com/conan-io/conan-center-index/pull/15659)|[System-Arch](https://github.com/System-Arch)|Feb 1|:memo: autoconf-archive|L|0|||
 [#15661](https://github.com/conan-io/conan-center-index/pull/15661)|[tiolan](https://github.com/tiolan)|Feb 1|:stopwatch: fruit|L|2|Feb 8||prince-chrismc
@@ -120,12 +120,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15518](https://github.com/conan-io/conan-center-index/pull/15518)|[SpaceIm](https://github.com/SpaceIm)|Jan 28|:memo: protobuf|5|jwillikers, Hopobcn, prince-chrismc
 [#15801](https://github.com/conan-io/conan-center-index/pull/15801)|[uilianries](https://github.com/uilianries)|Feb 7|:warning: openssl|6|danimtb, jcar87
 [#15815](https://github.com/conan-io/conan-center-index/pull/15815)|[czoido](https://github.com/czoido)|Feb 8|:warning: cmake|3|memsharded, uilianries
 [#15821](https://github.com/conan-io/conan-center-index/pull/15821)|[jcar87](https://github.com/jcar87)|Feb 8|:warning: icu|3|czoido, danimtb, franramirez688
@@ -137,10 +136,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 211
-	- Draft: 15
-	- Average Age: 69 days, 13 hours, and 26.96 minutes
-	- Stop Label: 93
+	- Open: 210
+	- Draft: 14
+	- Average Age: 69 days, 21 hours, and 4.01 minutes
+	- Stop Label: 94
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
