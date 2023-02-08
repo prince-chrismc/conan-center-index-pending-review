@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -64,6 +64,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15670](https://github.com/conan-io/conan-center-index/pull/15670)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: czmq|L|1|Feb 2||jwillikers
 [#15673](https://github.com/conan-io/conan-center-index/pull/15673)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: spirv-tools|M|2|Feb 6||jwillikers
 [#15674](https://github.com/conan-io/conan-center-index/pull/15674)|[paulharris](https://github.com/paulharris)|Feb 2|:memo: hdf5|M|6|Feb 6||SpaceIm, jwillikers
+[#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:memo: qt|M|0|||
 [#15683](https://github.com/conan-io/conan-center-index/pull/15683)|[toge](https://github.com/toge)|Feb 2|:memo: libbpf|L|2|Feb 6||jwillikers
 [#15694](https://github.com/conan-io/conan-center-index/pull/15694)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 3|:gear: linter|:green_circle: XS|1|Feb 3||jwillikers
 [#15706](https://github.com/conan-io/conan-center-index/pull/15706)|[SpaceIm](https://github.com/SpaceIm)|Feb 3|:memo: xmlsec|L|0|:eyes:||
@@ -87,7 +88,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15745](https://github.com/conan-io/conan-center-index/pull/15745)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: aruco|L|0|:eyes:||
 [#15746](https://github.com/conan-io/conan-center-index/pull/15746)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: coin-utils|L|1|Feb 6||jwillikers
 [#15747](https://github.com/conan-io/conan-center-index/pull/15747)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: astc-codec|L|0|||
-[#15748](https://github.com/conan-io/conan-center-index/pull/15748)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: acl|L|0|||
+[#15748](https://github.com/conan-io/conan-center-index/pull/15748)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: acl|L|0|:eyes:||
 [#15749](https://github.com/conan-io/conan-center-index/pull/15749)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: alembic|L|0|||
 [#15756](https://github.com/conan-io/conan-center-index/pull/15756)|[SpaceIm](https://github.com/SpaceIm)|Feb 6|:memo: atk|L|1|Feb 6||jwillikers
 [#15758](https://github.com/conan-io/conan-center-index/pull/15758)|[SpaceIm](https://github.com/SpaceIm)|Feb 6|:memo: cpp-peglib|M|1|Feb 6||jwillikers
@@ -125,8 +126,8 @@ Currently **3** pull requests are waiting to be merged :tada:
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15801](https://github.com/conan-io/conan-center-index/pull/15801)|[uilianries](https://github.com/uilianries)|Feb 7|:warning: openssl|7|danimtb, jcar87, prince-chrismc
-[#15815](https://github.com/conan-io/conan-center-index/pull/15815)|[czoido](https://github.com/czoido)|Feb 8|:warning: cmake|4|memsharded, uilianries, RubenRBS
+[#15693](https://github.com/conan-io/conan-center-index/pull/15693)|[ashley-b](https://github.com/ashley-b)|Feb 3|:warning: boost|11|prince-chrismc, jwillikers, Hopobcn
+[#15815](https://github.com/conan-io/conan-center-index/pull/15815)|[czoido](https://github.com/czoido)|Feb 8|:memo: cmake|4|memsharded, uilianries, RubenRBS
 [#15821](https://github.com/conan-io/conan-center-index/pull/15821)|[jcar87](https://github.com/jcar87)|Feb 8|:warning: icu|5|czoido, danimtb, franramirez688, RubenRBS
 
 
@@ -136,10 +137,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 209
+	- Open: 208
 	- Draft: 14
-	- Average Age: 70 days, 9 hours, and 8.93 minutes
-	- Stop Label: 93
+	- Average Age: 70 days, 18 hours, and 7.84 minutes
+	- Stop Label: 91
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
