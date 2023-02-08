@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15807](https://github.com/conan-io/conan-center-index/pull/15807)|[toge](https://github.com/toge)|Feb 7|:memo: fast_float|:blue_square: S|0|||
 [#15809](https://github.com/conan-io/conan-center-index/pull/15809)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: cairo|L|0|||
 [#15810](https://github.com/conan-io/conan-center-index/pull/15810)|[SpaceIm](https://github.com/SpaceIm)|Feb 8|:memo: pixman|L|0|||
-[#15824](https://github.com/conan-io/conan-center-index/pull/15824)|[jcar87](https://github.com/jcar87)|Feb 8|:stopwatch: libbacktrace|:green_circle: XS|1|Feb 8||prince-chrismc
+[#15824](https://github.com/conan-io/conan-center-index/pull/15824)|[jcar87](https://github.com/jcar87)|Feb 8|:memo: libbacktrace|:green_circle: XS|1|Feb 8||prince-chrismc
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -127,7 +127,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15801](https://github.com/conan-io/conan-center-index/pull/15801)|[uilianries](https://github.com/uilianries)|Feb 7|:warning: openssl|7|danimtb, jcar87, prince-chrismc
 [#15815](https://github.com/conan-io/conan-center-index/pull/15815)|[czoido](https://github.com/czoido)|Feb 8|:warning: cmake|4|memsharded, uilianries, RubenRBS
-[#15821](https://github.com/conan-io/conan-center-index/pull/15821)|[jcar87](https://github.com/jcar87)|Feb 8|:warning: icu|4|czoido, danimtb, franramirez688, RubenRBS
+[#15821](https://github.com/conan-io/conan-center-index/pull/15821)|[jcar87](https://github.com/jcar87)|Feb 8|:warning: icu|5|czoido, danimtb, franramirez688, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -138,7 +138,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 209
 	- Draft: 14
-	- Average Age: 70 days, 7 hours, and 10.00 minutes
+	- Average Age: 70 days, 9 hours, and 8.93 minutes
 	- Stop Label: 93
 	
 
