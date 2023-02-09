@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -47,6 +47,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15314](https://github.com/conan-io/conan-center-index/pull/15314)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: sol2|L|8|Feb 7||uilianries, TheClonerx
 [#15332](https://github.com/conan-io/conan-center-index/pull/15332)|[toge](https://github.com/toge)|Jan 17|:memo: libdwarf|L|7|Feb 7||jwillikers
 [#15352](https://github.com/conan-io/conan-center-index/pull/15352)|[StellaSmith](https://github.com/StellaSmith)|Jan 18|:memo: binutils|L|4|Feb 8||prince-chrismc
+[#15353](https://github.com/conan-io/conan-center-index/pull/15353)|[paulharris](https://github.com/paulharris)|Jan 19|:memo: libx264|L|0|||
 [#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:memo: ccache|L|0|||
 [#15386](https://github.com/conan-io/conan-center-index/pull/15386)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:memo: gdal|L|0|:eyes:||
 [#15434](https://github.com/conan-io/conan-center-index/pull/15434)|[toge](https://github.com/toge)|Jan 23|:memo: paho-mqtt-c|L|2|Feb 6||
@@ -116,17 +117,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15824](https://github.com/conan-io/conan-center-index/pull/15824)|[jcar87](https://github.com/jcar87)|Feb 8|:memo: libbacktrace|:green_circle: XS|1|Feb 8||prince-chrismc
 [#15826](https://github.com/conan-io/conan-center-index/pull/15826)|[toge](https://github.com/toge)|Feb 9|:memo: itlib|:blue_square: S|0|||
 [#15827](https://github.com/conan-io/conan-center-index/pull/15827)|[paulharris](https://github.com/paulharris)|Feb 9|:memo: libvpx|M|0|||
+[#15828](https://github.com/conan-io/conan-center-index/pull/15828)|[sproberts92](https://github.com/sproberts92)|Feb 9|:stopwatch: opentelemetry-cpp|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15549](https://github.com/conan-io/conan-center-index/pull/15549)|[toge](https://github.com/toge)|Jan 30|:memo: log4cplus|8|SpaceIm, jwillikers, prince-chrismc
-[#15693](https://github.com/conan-io/conan-center-index/pull/15693)|[ashley-b](https://github.com/ashley-b)|Feb 3|:warning: boost|11|prince-chrismc, jwillikers, Hopobcn
+[#15693](https://github.com/conan-io/conan-center-index/pull/15693)|[ashley-b](https://github.com/ashley-b)|Feb 3|:memo: boost|11|prince-chrismc, jwillikers, Hopobcn
 
 
 #### :clipboard: Statistics
@@ -137,8 +138,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 207
 	- Draft: 14
-	- Average Age: 71 days, 5 hours, and 10.31 minutes
-	- Stop Label: 92
+	- Average Age: 71 days, 4 hours, and 54.24 minutes
+	- Stop Label: 91
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
