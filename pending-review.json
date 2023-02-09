@@ -606,18 +606,16 @@
       "CreatedAt": "2023-01-28T19:02:44Z",
       "Recipe": "coin-lemon",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15516",
-      "LastCommitSHA": "788b028529483d4057a3e405637bb7c866003467",
-      "LastCommitAt": "2023-02-04T21:06:03Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "05fbdb86f066e2b5133c62906d09763dc2ebb135",
+      "LastCommitAt": "2023-02-09T19:43:17Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -1864,11 +1862,18 @@
       "LastCommitAt": "2023-02-07T23:31:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "Croydon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2023-02-09T20:14:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15807#pullrequestreview-1291926613"
+         }
       }
    },
    {
@@ -2068,6 +2073,32 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 15843,
+      "OpenedBy": "Croydon",
+      "CreatedAt": "2023-02-09T19:18:30Z",
+      "Recipe": ".github",
+      "Change": 3,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15843",
+      "LastCommitSHA": "8013794baf24fb8fdc55a60f2c57023c0c63ec22",
+      "LastCommitAt": "2023-02-09T19:17:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-02-09T19:57:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15843#pullrequestreview-1291902244"
+         }
       }
    }
 ]
