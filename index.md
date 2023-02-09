@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **89** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -115,8 +115,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15809](https://github.com/conan-io/conan-center-index/pull/15809)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: cairo|L|0|||
 [#15810](https://github.com/conan-io/conan-center-index/pull/15810)|[SpaceIm](https://github.com/SpaceIm)|Feb 8|:memo: pixman|L|0|||
 [#15826](https://github.com/conan-io/conan-center-index/pull/15826)|[toge](https://github.com/toge)|Feb 9|:memo: itlib|:blue_square: S|0|||
-[#15827](https://github.com/conan-io/conan-center-index/pull/15827)|[paulharris](https://github.com/paulharris)|Feb 9|:memo: libvpx|M|0|||
 [#15829](https://github.com/conan-io/conan-center-index/pull/15829)|[paulharris](https://github.com/paulharris)|Feb 9|:stopwatch: qt|:green_circle: XS|1|Feb 9||ericLemanissier
+
+
+### :heavy_check_mark: Ready to Merge 
+
+Currently **1** pull request is waiting to be merged :tada:
+
+
+PR | By | Opened | Recipe | Reviews | :star2: Approvers
+:---: | --- | --- | --- | :---: | ---
+[#15832](https://github.com/conan-io/conan-center-index/pull/15832)|[jcar87](https://github.com/jcar87)|Feb 9|:warning: spdlog|3|czoido, RubenRBS, uilianries
 
 
 #### :clipboard: Statistics
@@ -125,9 +134,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 207
+	- Open: 208
 	- Draft: 14
-	- Average Age: 71 days, 7 hours, and 8.67 minutes
+	- Average Age: 70 days, 23 hours, and 54.30 minutes
 	- Stop Label: 93
 	
 
