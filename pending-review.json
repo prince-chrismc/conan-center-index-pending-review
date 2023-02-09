@@ -610,7 +610,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15516",
       "LastCommitSHA": "05fbdb86f066e2b5133c62906d09763dc2ebb135",
       "LastCommitAt": "2023-02-09T19:43:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -1354,9 +1354,9 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15757",
-      "LastCommitSHA": "4781a58ffd60b873e4bdfeff55b65bca9e8e6c82",
-      "LastCommitAt": "2023-02-06T10:15:27Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "86417ebaa526879c14fafe8c510a9841081a14ed",
+      "LastCommitAt": "2023-02-09T20:56:51Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2099,6 +2099,25 @@
             "SubmittedAt": "2023-02-09T19:57:28Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15843#pullrequestreview-1291902244"
          }
+      }
+   },
+   {
+      "Number": 15844,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-09T20:55:23Z",
+      "Recipe": "concurrencpp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15844",
+      "LastCommitSHA": "3255614da9cdf8d4a5735f27623bd527d74090f6",
+      "LastCommitAt": "2023-02-09T20:54:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
