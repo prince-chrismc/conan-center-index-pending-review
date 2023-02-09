@@ -23,11 +23,11 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
-[#10776](https://github.com/conan-io/conan-center-index/pull/10776)|[paulharris](https://github.com/paulharris)|May 13|:stopwatch: vtk|L|4|Dec 1 :bell:||
+[#10776](https://github.com/conan-io/conan-center-index/pull/10776)|[paulharris](https://github.com/paulharris)|May 13|:new: vtk|L|4|Dec 1 :bell:||
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: stlab|L|20|Dec 14 :bell:||
 [#14295](https://github.com/conan-io/conan-center-index/pull/14295)|[Jihadist](https://github.com/Jihadist)|Nov 19|:stopwatch: libverto|L|9|Jan 25 :bell:||
 [#14537](https://github.com/conan-io/conan-center-index/pull/14537)|[saukijan](https://github.com/saukijan)|Dec 2|:memo: open62541|XL|18|Feb 7||prince-chrismc
@@ -117,16 +117,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15827](https://github.com/conan-io/conan-center-index/pull/15827)|[paulharris](https://github.com/paulharris)|Feb 9|:memo: libvpx|M|0|||
 [#15828](https://github.com/conan-io/conan-center-index/pull/15828)|[sproberts92](https://github.com/sproberts92)|Feb 9|:stopwatch: opentelemetry-cpp|L|0|||
 [#15829](https://github.com/conan-io/conan-center-index/pull/15829)|[paulharris](https://github.com/paulharris)|Feb 9|:stopwatch: qt|:green_circle: XS|1|Feb 9||ericLemanissier
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#15824](https://github.com/conan-io/conan-center-index/pull/15824)|[jcar87](https://github.com/jcar87)|Feb 8|:memo: libbacktrace|3|prince-chrismc, uilianries
+[#15830](https://github.com/conan-io/conan-center-index/pull/15830)|[MartinDelille](https://github.com/MartinDelille)|Feb 9|:stopwatch: ffmpeg|:blue_square: S|0|:eyes:||
 
 
 #### :clipboard: Statistics
@@ -137,7 +128,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 207
 	- Draft: 14
-	- Average Age: 71 days, 5 hours, and 17.09 minutes
+	- Average Age: 71 days, 6 hours, and 9.49 minutes
 	- Stop Label: 92
 	
 
