@@ -2151,25 +2151,6 @@
       }
    },
    {
-      "Number": 15839,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-09T16:10:43Z",
-      "Recipe": "coin-cbc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15839",
-      "LastCommitSHA": "7eda5e1152c0c2d3ffbb6091d7deee8a197e04ba",
-      "LastCommitAt": "2023-02-09T16:09:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15840,
       "OpenedBy": "jcar87",
       "CreatedAt": "2023-02-09T16:13:27Z",
