@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **94** pull requests currently under way :detective:
+There are **93** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -119,7 +119,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15829](https://github.com/conan-io/conan-center-index/pull/15829)|[paulharris](https://github.com/paulharris)|Feb 9|:stopwatch: qt|:green_circle: XS|3|Feb 9||ericLemanissier, jwillikers
 [#15833](https://github.com/conan-io/conan-center-index/pull/15833)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 9|:gear: .c3i|:green_circle: XS|1|Feb 9||danimtb
 [#15837](https://github.com/conan-io/conan-center-index/pull/15837)|[toge](https://github.com/toge)|Feb 9|:memo: uni-algo|:blue_square: S|0|||
-[#15839](https://github.com/conan-io/conan-center-index/pull/15839)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:stopwatch: coin-cbc|L|0|||
 [#15840](https://github.com/conan-io/conan-center-index/pull/15840)|[jcar87](https://github.com/jcar87)|Feb 9|:stopwatch: boost|:blue_square: S|0|||
 
 
@@ -141,8 +140,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 216
 	- Draft: 14
-	- Average Age: 68 days, 13 hours, and 47.12 minutes
-	- Stop Label: 97
+	- Average Age: 68 days, 14 hours, and 41.00 minutes
+	- Stop Label: 98
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
