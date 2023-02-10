@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **88** pull requests currently under way :detective:
+There are **87** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -39,9 +39,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15110](https://github.com/conan-io/conan-center-index/pull/15110)|[toge](https://github.com/toge)|Jan 4|:memo: wt|XL|2|Feb 7||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|:blue_square: S|0|:eyes:||
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:memo: opencv|XL|0|:eyes:||
-[#15254](https://github.com/conan-io/conan-center-index/pull/15254)|[Latios96](https://github.com/Latios96)|Jan 13|:memo: openimageio|L|0|||
+[#15254](https://github.com/conan-io/conan-center-index/pull/15254)|[Latios96](https://github.com/Latios96)|Jan 13|:memo: openimageio|L|0|:eyes:||
 [#15293](https://github.com/conan-io/conan-center-index/pull/15293)|[fdgStilla](https://github.com/fdgStilla)|Jan 16|:memo: spix|L|9|Feb 10||prince-chrismc
-[#15314](https://github.com/conan-io/conan-center-index/pull/15314)|[StellaSmith](https://github.com/StellaSmith)|Jan 17|:memo: sol2|XL|9|Feb 10||prince-chrismc
 [#15353](https://github.com/conan-io/conan-center-index/pull/15353)|[paulharris](https://github.com/paulharris)|Jan 19|:stopwatch: libx264|L|1|Feb 10||
 [#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:memo: ccache|L|0|:eyes:||
 [#15376](https://github.com/conan-io/conan-center-index/pull/15376)|[MartinDelille](https://github.com/MartinDelille)|Jan 20|:memo: rtmidi|L|0|||
@@ -105,7 +104,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15862](https://github.com/conan-io/conan-center-index/pull/15862)|[Croydon](https://github.com/Croydon)|Feb 10|:memo: apr-util|:green_circle: XS|1|Feb 10||jwillikers
 [#15866](https://github.com/conan-io/conan-center-index/pull/15866)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: tinyxml2|M|1|Feb 10||jwillikers
 [#15867](https://github.com/conan-io/conan-center-index/pull/15867)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: dataframe|M|1|Feb 10||jwillikers
-[#15868](https://github.com/conan-io/conan-center-index/pull/15868)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: dav1d|M|1|Feb 10||jwillikers
+[#15868](https://github.com/conan-io/conan-center-index/pull/15868)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: dav1d|M|1|Feb 10||jwillikers
 [#15869](https://github.com/conan-io/conan-center-index/pull/15869)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: asyncplusplus|M|1|Feb 10||jwillikers
 [#15870](https://github.com/conan-io/conan-center-index/pull/15870)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: beauty|M|0|||
 [#15871](https://github.com/conan-io/conan-center-index/pull/15871)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: bigint|M|1|Feb 10||jwillikers
@@ -119,7 +118,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -127,7 +126,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14537](https://github.com/conan-io/conan-center-index/pull/14537)|[saukijan](https://github.com/saukijan)|Dec 2|:warning: open62541|19|prince-chrismc, jwillikers
 [#15263](https://github.com/conan-io/conan-center-index/pull/15263)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:warning: coin-clp|7|prince-chrismc, jwillikers
 [#15661](https://github.com/conan-io/conan-center-index/pull/15661)|[tiolan](https://github.com/tiolan)|Feb 1|:warning: fruit|3|prince-chrismc, jwillikers
-[#15716](https://github.com/conan-io/conan-center-index/pull/15716)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:new: openal-soft|2|prince-chrismc, jwillikers
 [#15725](https://github.com/conan-io/conan-center-index/pull/15725)|[SpaceIm](https://github.com/SpaceIm)|Feb 4|:memo: catch2|3|prince-chrismc, jwillikers
 [#15746](https://github.com/conan-io/conan-center-index/pull/15746)|[SpaceIm](https://github.com/SpaceIm)|Feb 5|:memo: coin-utils|4|franramirez688, jwillikers
 [#15774](https://github.com/conan-io/conan-center-index/pull/15774)|[SpaceIm](https://github.com/SpaceIm)|Feb 6|:memo: ode|2|prince-chrismc, ericLemanissier
@@ -138,7 +136,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15837](https://github.com/conan-io/conan-center-index/pull/15837)|[toge](https://github.com/toge)|Feb 9|:memo: uni-algo|2|prince-chrismc, jwillikers
 [#15843](https://github.com/conan-io/conan-center-index/pull/15843)|[Croydon](https://github.com/Croydon)|Feb 9|:gear: .github|2|prince-chrismc, ericLemanissier
 [#15851](https://github.com/conan-io/conan-center-index/pull/15851)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: cqrlib|2|prince-chrismc, ericLemanissier
-[#15860](https://github.com/conan-io/conan-center-index/pull/15860)|[Croydon](https://github.com/Croydon)|Feb 10|:memo: openssl|3|SpaceIm, jwillikers, prince-chrismc
+[#15860](https://github.com/conan-io/conan-center-index/pull/15860)|[Croydon](https://github.com/Croydon)|Feb 10|:warning: openssl|3|SpaceIm, jwillikers, prince-chrismc
 [#15863](https://github.com/conan-io/conan-center-index/pull/15863)|[RubenRBS](https://github.com/RubenRBS)|Feb 10|:memo: ogg|3|SpaceIm, jcar87
 
 
@@ -148,9 +146,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 234
+	- Open: 232
 	- Draft: 19
-	- Average Age: 63 days, 9 hours, and 56.35 minutes
+	- Average Age: 63 days, 20 hours, and 56.75 minutes
 	- Stop Label: 100
 	
 
