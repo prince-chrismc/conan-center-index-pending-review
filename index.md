@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **90** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -113,7 +113,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15849](https://github.com/conan-io/conan-center-index/pull/15849)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: cpptoml|L|0|||
 [#15850](https://github.com/conan-io/conan-center-index/pull/15850)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: cpuinfo|M|0|||
 [#15851](https://github.com/conan-io/conan-center-index/pull/15851)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: cqrlib|:blue_square: S|1|Feb 10||prince-chrismc
-[#15854](https://github.com/conan-io/conan-center-index/pull/15854)|[toge](https://github.com/toge)|Feb 10|:stopwatch: libsndfile|M|0|||
+[#15854](https://github.com/conan-io/conan-center-index/pull/15854)|[toge](https://github.com/toge)|Feb 10|:memo: libsndfile|M|0|||
+[#15857](https://github.com/conan-io/conan-center-index/pull/15857)|[toge](https://github.com/toge)|Feb 10|:memo: yaclib|L|0|||
 [#15859](https://github.com/conan-io/conan-center-index/pull/15859)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 10|:stopwatch: nss|:green_circle: XS|1|Feb 10||Croydon
 [#15860](https://github.com/conan-io/conan-center-index/pull/15860)|[Croydon](https://github.com/Croydon)|Feb 10|:stopwatch: openssl|:blue_square: S|0|||
 
@@ -126,8 +127,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 218
 	- Draft: 14
-	- Average Age: 68 days, 1 hours, and 31.44 minutes
-	- Stop Label: 102
+	- Average Age: 68 days, 2 hours, and 27.74 minutes
+	- Stop Label: 101
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
