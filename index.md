@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **88** pull requests currently under way :detective:
+There are **89** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -99,6 +99,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15854](https://github.com/conan-io/conan-center-index/pull/15854)|[toge](https://github.com/toge)|Feb 10|:memo: libsndfile|M|1|Feb 10||jwillikers
 [#15857](https://github.com/conan-io/conan-center-index/pull/15857)|[toge](https://github.com/toge)|Feb 10|:memo: yaclib|L|0|||
 [#15858](https://github.com/conan-io/conan-center-index/pull/15858)|[paulharris](https://github.com/paulharris)|Feb 10|:memo: libwebp|:blue_square: S|2|Feb 10||SpaceIm
+[#15865](https://github.com/conan-io/conan-center-index/pull/15865)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: tinyply|M|0|||
 [#15866](https://github.com/conan-io/conan-center-index/pull/15866)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: tinyxml2|M|1|Feb 10||jwillikers
 [#15867](https://github.com/conan-io/conan-center-index/pull/15867)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: dataframe|M|1|Feb 10||jwillikers
 [#15868](https://github.com/conan-io/conan-center-index/pull/15868)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: dav1d|M|1|Feb 10||jwillikers
@@ -106,15 +107,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15870](https://github.com/conan-io/conan-center-index/pull/15870)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: beauty|M|0|||
 [#15871](https://github.com/conan-io/conan-center-index/pull/15871)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: bigint|M|1|Feb 10||jwillikers
 [#15873](https://github.com/conan-io/conan-center-index/pull/15873)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: double-conversion|M|1|Feb 10||jwillikers
-[#15874](https://github.com/conan-io/conan-center-index/pull/15874)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: ezc3d|M|1|Feb 10||jwillikers
+[#15874](https://github.com/conan-io/conan-center-index/pull/15874)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: ezc3d|M|1|Feb 10||jwillikers
 [#15875](https://github.com/conan-io/conan-center-index/pull/15875)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: fcl|M|1|Feb 10||jwillikers
 [#15876](https://github.com/conan-io/conan-center-index/pull/15876)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: fftw|M|1|Feb 10||jwillikers
-[#15878](https://github.com/conan-io/conan-center-index/pull/15878)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: geographiclib|M|1|Feb 10||jwillikers
-[#15879](https://github.com/conan-io/conan-center-index/pull/15879)|[jcar87](https://github.com/jcar87)|Feb 10|:memo: gperf|:green_circle: XS|1|Feb 10||prince-chrismc
+[#15878](https://github.com/conan-io/conan-center-index/pull/15878)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: geographiclib|M|1|Feb 10||jwillikers
 [#15885](https://github.com/conan-io/conan-center-index/pull/15885)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: inih|M|0|||
 [#15886](https://github.com/conan-io/conan-center-index/pull/15886)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: jbig|M|0|||
 [#15887](https://github.com/conan-io/conan-center-index/pull/15887)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: libccd|M|0|||
 [#15888](https://github.com/conan-io/conan-center-index/pull/15888)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: lzo|M|0|||
+[#15889](https://github.com/conan-io/conan-center-index/pull/15889)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: octomap|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -128,13 +129,13 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15263](https://github.com/conan-io/conan-center-index/pull/15263)|[oleurodecision](https://github.com/oleurodecision)|Jan 15|:warning: coin-clp|7|prince-chrismc, jwillikers
 [#15661](https://github.com/conan-io/conan-center-index/pull/15661)|[tiolan](https://github.com/tiolan)|Feb 1|:warning: fruit|3|prince-chrismc, jwillikers
 [#15781](https://github.com/conan-io/conan-center-index/pull/15781)|[art-ignatev](https://github.com/art-ignatev)|Feb 6|:warning: cxxopts|2|prince-chrismc, ericLemanissier
-[#15829](https://github.com/conan-io/conan-center-index/pull/15829)|[paulharris](https://github.com/paulharris)|Feb 9|:memo: qt|7|ericLemanissier, jwillikers, prince-chrismc
 [#15837](https://github.com/conan-io/conan-center-index/pull/15837)|[toge](https://github.com/toge)|Feb 9|:memo: uni-algo|2|prince-chrismc, jwillikers
 [#15843](https://github.com/conan-io/conan-center-index/pull/15843)|[Croydon](https://github.com/Croydon)|Feb 9|:gear: .github|2|prince-chrismc, ericLemanissier
 [#15851](https://github.com/conan-io/conan-center-index/pull/15851)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: cqrlib|2|prince-chrismc, ericLemanissier
 [#15860](https://github.com/conan-io/conan-center-index/pull/15860)|[Croydon](https://github.com/Croydon)|Feb 10|:warning: openssl|3|SpaceIm, jwillikers, prince-chrismc
 [#15862](https://github.com/conan-io/conan-center-index/pull/15862)|[Croydon](https://github.com/Croydon)|Feb 10|:memo: apr-util|2|jwillikers, prince-chrismc
 [#15863](https://github.com/conan-io/conan-center-index/pull/15863)|[RubenRBS](https://github.com/RubenRBS)|Feb 10|:memo: ogg|4|SpaceIm, jcar87, Croydon
+[#15879](https://github.com/conan-io/conan-center-index/pull/15879)|[jcar87](https://github.com/jcar87)|Feb 10|:memo: gperf|2|prince-chrismc, SpaceIm
 
 
 #### :clipboard: Statistics
@@ -145,8 +146,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 230
 	- Draft: 19
-	- Average Age: 64 days, 11 hours, and 4.50 minutes
-	- Stop Label: 100
+	- Average Age: 64 days, 11 hours, and 54.62 minutes
+	- Stop Label: 99
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
