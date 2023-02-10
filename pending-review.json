@@ -1975,7 +1975,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15854",
       "LastCommitSHA": "1319b6361b65cda6242cb31d644e4095596e5b53",
       "LastCommitAt": "2023-02-10T04:21:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 15857,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-02-10T06:24:27Z",
+      "Recipe": "yaclib",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15857",
+      "LastCommitSHA": "7dbc35665940af03c12af3bf44d27d9da27d0c01",
+      "LastCommitAt": "2023-02-10T09:00:38Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
