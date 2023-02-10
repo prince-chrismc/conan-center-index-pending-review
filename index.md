@@ -121,7 +121,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15845](https://github.com/conan-io/conan-center-index/pull/15845)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: confu_json|L|0|||
 [#15846](https://github.com/conan-io/conan-center-index/pull/15846)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:stopwatch: cpp-optparse|M|0|||
 [#15847](https://github.com/conan-io/conan-center-index/pull/15847)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: cppfront|L|0|||
-[#15848](https://github.com/conan-io/conan-center-index/pull/15848)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:stopwatch: cppkafka|M|0|||
+[#15848](https://github.com/conan-io/conan-center-index/pull/15848)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: cppkafka|M|0|||
 [#15849](https://github.com/conan-io/conan-center-index/pull/15849)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: cpptoml|L|0|||
 [#15850](https://github.com/conan-io/conan-center-index/pull/15850)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: cpuinfo|M|0|||
 [#15851](https://github.com/conan-io/conan-center-index/pull/15851)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:stopwatch: cqrlib|:blue_square: S|0|||
@@ -145,7 +145,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 224
 	- Draft: 14
-	- Average Age: 66 days, 9 hours, and 20.08 minutes
+	- Average Age: 66 days, 9 hours, and 25.11 minutes
 	- Stop Label: 100
 	
 
