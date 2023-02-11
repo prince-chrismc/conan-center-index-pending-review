@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **102** pull requests currently under way :detective:
+There are **103** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -49,7 +49,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15386](https://github.com/conan-io/conan-center-index/pull/15386)|[SpaceIm](https://github.com/SpaceIm)|Jan 20|:memo: gdal|L|0|:eyes:||
 [#15472](https://github.com/conan-io/conan-center-index/pull/15472)|[EricAtORS](https://github.com/EricAtORS)|Jan 25|:memo: qt|M|3|Feb 2||jwillikers
 [#15522](https://github.com/conan-io/conan-center-index/pull/15522)|[toge](https://github.com/toge)|Jan 29|:memo: cpr|L|0|:eyes:||
-[#15644](https://github.com/conan-io/conan-center-index/pull/15644)|[System-Arch](https://github.com/System-Arch)|Feb 1|:memo: libtool|XL|1|Feb 10||StellaSmith
+[#15644](https://github.com/conan-io/conan-center-index/pull/15644)|[System-Arch](https://github.com/System-Arch)|Feb 1|:memo: libtool|XL|2|Feb 11||StellaSmith, samuel-emrys
 [#15659](https://github.com/conan-io/conan-center-index/pull/15659)|[System-Arch](https://github.com/System-Arch)|Feb 1|:memo: autoconf-archive|L|0|:eyes:||
 [#15670](https://github.com/conan-io/conan-center-index/pull/15670)|[SpaceIm](https://github.com/SpaceIm)|Feb 2|:memo: czmq|L|1|Feb 2||jwillikers
 [#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:memo: qt|M|0|||
@@ -129,6 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15893](https://github.com/conan-io/conan-center-index/pull/15893)|[SpaceIm](https://github.com/SpaceIm)|Feb 11|:stopwatch: pffft|M|0|||
 [#15894](https://github.com/conan-io/conan-center-index/pull/15894)|[SpaceIm](https://github.com/SpaceIm)|Feb 11|:stopwatch: sofa|M|0|||
 [#15895](https://github.com/conan-io/conan-center-index/pull/15895)|[SpaceIm](https://github.com/SpaceIm)|Feb 11|:stopwatch: chipmunk2d|M|0|||
+[#15896](https://github.com/conan-io/conan-center-index/pull/15896)|[toge](https://github.com/toge)|Feb 11|:stopwatch: simdutf|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -156,9 +157,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f51e04bc51eacfc9f13dffd04252102473dc3696
 - Pull Requests:
-	- Open: 235
+	- Open: 236
 	- Draft: 18
-	- Average Age: 63 days, 7 hours, and 56.43 minutes
+	- Average Age: 63 days, 5 hours, and 29.45 minutes
 	- Stop Label: 93
 	
 
