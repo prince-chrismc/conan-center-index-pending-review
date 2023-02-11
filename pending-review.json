@@ -149,25 +149,6 @@
       }
    },
    {
-      "Number": 14792,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-17T23:20:59Z",
-      "Recipe": "xapian-core",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14792",
-      "LastCommitSHA": "ac3a5833c921b87131c59d2374a79f0cfff00a34",
-      "LastCommitAt": "2023-02-05T12:35:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 14855,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2022-12-20T21:36:57Z",
