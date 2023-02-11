@@ -562,17 +562,18 @@
       "LastCommitAt": "2023-02-10T00:55:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
-            "StellaSmith"
+            "StellaSmith",
+            "samuel-emrys"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "StellaSmith",
-            "SubmittedAt": "2023-02-10T18:41:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15644#pullrequestreview-1293793627"
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2023-02-11T04:36:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15644#pullrequestreview-1294419681"
          }
       }
    },
