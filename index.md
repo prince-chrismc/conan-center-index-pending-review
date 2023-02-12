@@ -29,7 +29,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#10776](https://github.com/conan-io/conan-center-index/pull/10776)|[paulharris](https://github.com/paulharris)|May 13|:stopwatch: vtk|L|4|Dec 1 :bell:||
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: stlab|L|20|Dec 14 :bell:||
-[#14295](https://github.com/conan-io/conan-center-index/pull/14295)|[Jihadist](https://github.com/Jihadist)|Nov 19|:stopwatch: libverto|L|9|Jan 25 :bell:||
+[#14295](https://github.com/conan-io/conan-center-index/pull/14295)|[Jihadist](https://github.com/Jihadist)|Nov 19|:memo: libverto|L|9|Jan 25 :bell:||
 [#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:memo: mpfr|L|13|Feb 11||prince-chrismc
 [#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: ceres-solver|XL|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|M|0|:eyes:||
@@ -138,20 +138,20 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15922](https://github.com/conan-io/conan-center-index/pull/15922)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: celero|M|0|||
 [#15923](https://github.com/conan-io/conan-center-index/pull/15923)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: clhep|M|0|||
 [#15924](https://github.com/conan-io/conan-center-index/pull/15924)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: crc32c|M|0|||
-[#15925](https://github.com/conan-io/conan-center-index/pull/15925)|[System-Arch](https://github.com/System-Arch)|Feb 12|:stopwatch: yasm|M|4|Feb 12||SpaceIm
-[#15927](https://github.com/conan-io/conan-center-index/pull/15927)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: cryptopp|M|0|||
+[#15925](https://github.com/conan-io/conan-center-index/pull/15925)|[System-Arch](https://github.com/System-Arch)|Feb 12|:memo: yasm|M|4|Feb 12||SpaceIm
+[#15927](https://github.com/conan-io/conan-center-index/pull/15927)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:stopwatch: cryptopp|L|0|||
 [#15928](https://github.com/conan-io/conan-center-index/pull/15928)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: cspice|M|0|||
 [#15929](https://github.com/conan-io/conan-center-index/pull/15929)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: cwalk|M|0|||
 [#15930](https://github.com/conan-io/conan-center-index/pull/15930)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: date|L|0|||
 [#15931](https://github.com/conan-io/conan-center-index/pull/15931)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: discount|M|0|||
-[#15932](https://github.com/conan-io/conan-center-index/pull/15932)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:stopwatch: edyn|M|0|||
+[#15932](https://github.com/conan-io/conan-center-index/pull/15932)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: edyn|M|0|||
 [#15933](https://github.com/conan-io/conan-center-index/pull/15933)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: libbacktrace|M|0|||
-[#15935](https://github.com/conan-io/conan-center-index/pull/15935)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:stopwatch: entityx|M|0|||
-[#15936](https://github.com/conan-io/conan-center-index/pull/15936)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:stopwatch: erkir|M|0|||
-[#15937](https://github.com/conan-io/conan-center-index/pull/15937)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:stopwatch: exiv2|M|0|||
-[#15938](https://github.com/conan-io/conan-center-index/pull/15938)|[toge](https://github.com/toge)|Feb 12|:stopwatch: simdjson|:green_circle: XS|0|||
-[#15939](https://github.com/conan-io/conan-center-index/pull/15939)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:stopwatch: fast-cdr|:blue_square: S|0|||
-[#15940](https://github.com/conan-io/conan-center-index/pull/15940)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:stopwatch: fft|M|0|||
+[#15935](https://github.com/conan-io/conan-center-index/pull/15935)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: entityx|M|0|||
+[#15936](https://github.com/conan-io/conan-center-index/pull/15936)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: erkir|M|0|||
+[#15937](https://github.com/conan-io/conan-center-index/pull/15937)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: exiv2|M|0|||
+[#15938](https://github.com/conan-io/conan-center-index/pull/15938)|[toge](https://github.com/toge)|Feb 12|:memo: simdjson|:green_circle: XS|0|||
+[#15939](https://github.com/conan-io/conan-center-index/pull/15939)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: fast-cdr|:blue_square: S|0|||
+[#15940](https://github.com/conan-io/conan-center-index/pull/15940)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: fft|M|0|||
 [#15941](https://github.com/conan-io/conan-center-index/pull/15941)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:stopwatch: freeimage|M|0|||
 
 
@@ -174,7 +174,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 249
 	- Draft: 17
-	- Average Age: 59 days, 9 hours, and 8.80 minutes
+	- Average Age: 59 days, 10 hours, and 12.88 minutes
 	- Stop Label: 93
 	
 
