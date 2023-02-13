@@ -1863,8 +1863,6 @@ func TestProcessChangedFilesRegularNew(t *testing.T) {
 	assert.Equal(t, &change{Recipe: "kplot", Change: NEW, Weight: REGULAR}, obtained)
 }
 
-
-
 func TestProcessChangedFileRegularEditTwo(t *testing.T) {
 	// https://github.com/conan-io/conan-center-index/pull/15293/files
 	files := parsePullRequestFilesJSON(t, `[
@@ -1957,4 +1955,154 @@ func TestProcessChangedFileRegularEditTwo(t *testing.T) {
 	obtained, err := processChangedFiles(files)
 	assert.Equal(t, err, nil)
 	assert.Equal(t, &change{Recipe: "spix", Change: EDIT, Weight: REGULAR}, obtained)
+}
+
+func TestProcessChangedFilesSmallEditOne(t *testing.T) {
+	// https://github.com/conan-io/conan-center-index/pull/15416/files
+	files := parsePullRequestFilesJSON(t, `[
+		{
+		  "sha": "1da6086070fb7096513923956f5ac8331b2f4fa1",
+		  "filename": "recipes/trantor/all/conandata.yml",
+		  "status": "modified",
+		  "additions": 3,
+		  "deletions": 0,
+		  "changes": 3,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fall%2Fconandata.yml",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fall%2Fconandata.yml",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Ftrantor%2Fall%2Fconandata.yml?ref=0095be1f737baaa849ddf1ee2f92304eba965b4a",
+		  "patch": "@@ -1,4 +1,7 @@\n sources:\n+  \"1.5.10\":\n+    url: \"https://github.com/an-tao/trantor/archive/v1.5.10.tar.gz\"\n+    sha256: \"2d47775b3091a1a103bea46f5da017dc03c39883f8d717cf6ba24bdcdf01a15d\"\n   \"1.5.8\":\n     url: \"https://github.com/an-tao/trantor/archive/v1.5.8.tar.gz\"\n     sha256: \"705ec0176681be5c99fcc7af37416ece9d65ff4d907bca764cb11471b104fbf8\""
+		},
+		{
+		  "sha": "ceac8f815ba356008c54c4efce715eeaa7fd0a3f",
+		  "filename": "recipes/trantor/all/conanfile.py",
+		  "status": "modified",
+		  "additions": 4,
+		  "deletions": 6,
+		  "changes": 10,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fall%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fall%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Ftrantor%2Fall%2Fconanfile.py?ref=0095be1f737baaa849ddf1ee2f92304eba965b4a",
+		  "patch": "@@ -8,7 +8,7 @@\n \n import os\n \n-required_conan_version = \">=1.52.0\"\n+required_conan_version = \">=1.53.0\"\n \n class TrantorConan(ConanFile):\n     name = \"trantor\"\n@@ -38,6 +38,7 @@ def _compilers_minimum_version(self):\n         return {\n             \"gcc\": \"5\",\n             \"Visual Studio\": \"15.0\",\n+            \"msvc\": \"191\",\n             \"clang\": \"5\",\n             \"apple-clang\": \"10\",\n         }\n@@ -48,18 +49,15 @@ def config_options(self):\n \n     def configure(self):\n         if self.options.shared:\n-            try:\n-                del self.options.fPIC\n-            except Exception:\n-                pass\n+            self.options.rm_safe(\"fPIC\")\n \n     def layout(self):\n         cmake_layout(self, src_folder=\"src\")\n \n     def requirements(self):\n         self.requires(\"openssl/1.1.1s\")\n         if self.options.with_c_ares:\n-            self.requires(\"c-ares/1.18.1\")\n+            self.requires(\"c-ares/1.19.0\")\n \n     def validate(self):\n         if self.info.settings.compiler.get_safe(\"cppstd\"):"
+		},
+		{
+		  "sha": "96e466512e5b23e441aa51b8bc65924a56c1a49f",
+		  "filename": "recipes/trantor/all/test_package/CMakeLists.txt",
+		  "status": "modified",
+		  "additions": 2,
+		  "deletions": 2,
+		  "changes": 4,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fall%2Ftest_package%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fall%2Ftest_package%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Ftrantor%2Fall%2Ftest_package%2FCMakeLists.txt?ref=0095be1f737baaa849ddf1ee2f92304eba965b4a",
+		  "patch": "@@ -1,8 +1,8 @@\n cmake_minimum_required(VERSION 3.8)\n-project(test_package CXX)\n+project(test_package LANGUAGES CXX)\n \n find_package(Trantor CONFIG REQUIRED)\n \n add_executable(${PROJECT_NAME} test_package.cpp)\n-target_link_libraries(${PROJECT_NAME} Trantor::Trantor)\n+target_link_libraries(${PROJECT_NAME} PRIVATE Trantor::Trantor)\n target_compile_features(${PROJECT_NAME} PRIVATE cxx_std_14)"
+		},
+		{
+		  "sha": "bc541ea90b5128a1b011f64ea03ec20f030c49bd",
+		  "filename": "recipes/trantor/all/test_v1_package/CMakeLists.txt",
+		  "status": "modified",
+		  "additions": 3,
+		  "deletions": 6,
+		  "changes": 9,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fall%2Ftest_v1_package%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fall%2Ftest_v1_package%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Ftrantor%2Fall%2Ftest_v1_package%2FCMakeLists.txt?ref=0095be1f737baaa849ddf1ee2f92304eba965b4a",
+		  "patch": "@@ -1,12 +1,9 @@\n cmake_minimum_required(VERSION 3.8)\n \n-project(test_package CXX)\n+project(test_package)\n \n include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)\n conan_basic_setup(TARGETS)\n \n-find_package(Trantor REQUIRED CONFIG)\n-\n-add_executable(${PROJECT_NAME} ../test_package/test_package.cpp)\n-target_link_libraries(${PROJECT_NAME} PRIVATE Trantor::Trantor)\n-target_compile_features(${PROJECT_NAME} PRIVATE cxx_std_14)\n+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/../test_package/\n+                 ${CMAKE_CURRENT_BINARY_DIR}/test_package/)"
+		},
+		{
+		  "sha": "0056a4f6c8a1d2df8ea999c6eda50efbaba0a1fd",
+		  "filename": "recipes/trantor/config.yml",
+		  "status": "modified",
+		  "additions": 2,
+		  "deletions": 0,
+		  "changes": 2,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fconfig.yml",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/0095be1f737baaa849ddf1ee2f92304eba965b4a/recipes%2Ftrantor%2Fconfig.yml",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Ftrantor%2Fconfig.yml?ref=0095be1f737baaa849ddf1ee2f92304eba965b4a",
+		  "patch": "@@ -1,4 +1,6 @@\n versions:\n+  \"1.5.10\":\n+    folder: \"all\"\n   \"1.5.8\":\n     folder: \"all\"\n   \"1.5.7\":"
+		}
+	  ]`)
+
+	obtained, err := processChangedFiles(files)
+	assert.Equal(t, err, nil)
+	assert.Equal(t, &change{Recipe: "trantor", Change: EDIT, Weight: SMALL}, obtained)
+}
+
+func TestProcessChangedFilesRegularEditTwo(t *testing.T) {
+	// https://github.com/conan-io/conan-center-index/pull/15594/files
+	files := parsePullRequestFilesJSON(t, `[
+		{
+		  "sha": "ac9853ed7cd15facd13379a89509be9f834e2d18",
+		  "filename": "recipes/libwebp/all/conandata.yml",
+		  "status": "modified",
+		  "additions": 16,
+		  "deletions": 16,
+		  "changes": 32,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/e811994dc59acac393c90b255009548bafb99dcc/recipes%2Flibwebp%2Fall%2Fconandata.yml",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/e811994dc59acac393c90b255009548bafb99dcc/recipes%2Flibwebp%2Fall%2Fconandata.yml",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Flibwebp%2Fall%2Fconandata.yml?ref=e811994dc59acac393c90b255009548bafb99dcc",
+		  "patch": "@@ -1,28 +1,28 @@\n sources:\n   \"1.3.0\":\n-    url: \"https://github.com/webmproject/libwebp/archive/v1.3.0.tar.gz\"\n-    sha256: \"dc9860d3fe06013266c237959e1416b71c63b36f343aae1d65ea9c94832630e1\"\n+    url: \"https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.3.0.tar.gz\"\n+    sha256: \"64ac4614db292ae8c5aa26de0295bf1623dbb3985054cb656c55e67431def17c\"\n   \"1.2.4\":\n-    url: \"https://github.com/webmproject/libwebp/archive/v1.2.4.tar.gz\"\n-    sha256: \"dfe7bff3390cd4958da11e760b65318f0a48c32913e4d5bc5e8d55abaaa2d32e\"\n+    url: \"https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.2.4.tar.gz\"\n+    sha256: \"7bf5a8a28cc69bcfa8cb214f2c3095703c6b73ac5fba4d5480c205331d9494df\"\n   \"1.2.3\":\n-    url: \"https://github.com/webmproject/libwebp/archive/v1.2.3.tar.gz\"\n-    sha256: \"021169407825d7ad918ff4554c6af885e7cf116d9b641cfd7f04c1173ffb9eb0\"\n+    url: \"https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.2.3.tar.gz\"\n+    sha256: \"f5d7ab2390b06b8a934a4fc35784291b3885b557780d099bd32f09241f9d83f9\"\n   \"1.2.2\":\n-    url: \"https://github.com/webmproject/libwebp/archive/v1.2.2.tar.gz\"\n-    sha256: \"51e9297aadb7d9eb99129fe0050f53a11fcce38a0848fb2b0389e385ad93695e\"\n+    url: \"https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.2.2.tar.gz\"\n+    sha256: \"7656532f837af5f4cec3ff6bafe552c044dc39bf453587bd5b77450802f4aee6\"\n   \"1.2.1\":\n-    url: \"https://github.com/webmproject/libwebp/archive/v1.2.1.tar.gz\"\n-    sha256: \"01bcde6a40a602294994050b81df379d71c40b7e39c819c024d079b3c56307f4\"\n+    url: \"https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.2.1.tar.gz\"\n+    sha256: \"808b98d2f5b84e9b27fdef6c5372dac769c3bda4502febbfa5031bd3c4d7d018\"\n   \"1.2.0\":\n-    url: \"https://github.com/webmproject/libwebp/archive/v1.2.0.tar.gz\"\n-    sha256: \"d60608c45682fa1e5d41c3c26c199be5d0184084cd8a971a6fc54035f76487d3\"\n+    url: \"https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.2.0.tar.gz\"\n+    sha256: \"2fc8bbde9f97f2ab403c0224fb9ca62b2e6852cbc519e91ceaa7c153ffd88a0c\"\n   \"1.1.0\":\n-    url: \"https://github.com/webmproject/libwebp/archive/v1.1.0.tar.gz\"\n-    sha256: \"424faab60a14cb92c2a062733b6977b4cc1e875a6398887c5911b3a1a6c56c51\"\n+    url: \"https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.1.0.tar.gz\"\n+    sha256: \"98a052268cc4d5ece27f76572a7f50293f439c17a98e67c4ea0c7ed6f50ef043\"\n   \"1.0.3\":\n-    url: \"https://github.com/webmproject/libwebp/archive/v1.0.3.tar.gz\"\n-    sha256: \"082d114bcb18a0e2aafc3148d43367c39304f86bf18ba0b2e766447e111a4a91\"\n+    url: \"https://storage.googleapis.com/downloads.webmproject.org/releases/webp/libwebp-1.0.3.tar.gz\"\n+    sha256: \"e20a07865c8697bba00aebccc6f54912d6bc333bb4d604e6b07491c1a226b34f\"\n patches:\n   \"1.3.0\":\n     - patch_file: \"patches/1.3.0-0001-fix-cmake.patch\""
+		},
+		{
+		  "sha": "8e1d3bc0866e49a89c16adb8c512007c88ff0185",
+		  "filename": "recipes/libwebp/all/conanfile.py",
+		  "status": "modified",
+		  "additions": 4,
+		  "deletions": 5,
+		  "changes": 9,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/e811994dc59acac393c90b255009548bafb99dcc/recipes%2Flibwebp%2Fall%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/e811994dc59acac393c90b255009548bafb99dcc/recipes%2Flibwebp%2Fall%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Flibwebp%2Fall%2Fconanfile.py?ref=e811994dc59acac393c90b255009548bafb99dcc",
+		  "patch": "@@ -12,7 +12,7 @@ class LibwebpConan(ConanFile):\n     name = \"libwebp\"\n     description = \"Library to encode and decode images in WebP format\"\n     url = \"https://github.com/conan-io/conan-center-index\"\n-    homepage = \"https://github.com/webmproject/libwebp\"\n+    homepage = \"https://chromium.googlesource.com/webm/libwebp\"\n     topics = (\"image\", \"libwebp\", \"webp\", \"decoding\", \"encoding\")\n     license = \"BSD-3-Clause\"\n \n@@ -49,8 +49,7 @@ def layout(self):\n         cmake_layout(self, src_folder=\"src\")\n \n     def source(self):\n-        get(self, **self.conan_data[\"sources\"][self.version],\n-            destination=self.source_folder, strip_root=True)\n+        get(self, **self.conan_data[\"sources\"][self.version], strip_root=True)\n \n     def generate(self):\n         tc = CMakeToolchain(self)\n@@ -78,8 +77,8 @@ def generate(self):\n             tc.variables[\"WEBP_BUILD_LIBWEBPMUX\"] = True\n         tc.variables[\"WEBP_BUILD_WEBPMUX\"] = False\n         if self.options.shared and is_msvc(self):\n-          # Building a dll (see fix-dll-export patch)\n-          tc.preprocessor_definitions[\"WEBP_DLL\"] = 1\n+            # Building a dll (see fix-dll-export patch)\n+            tc.preprocessor_definitions[\"WEBP_DLL\"] = 1\n         tc.generate()\n \n     def build(self):"
+		}
+	  ]`)
+
+	obtained, err := processChangedFiles(files)
+	assert.Equal(t, err, nil)
+	assert.Equal(t, &change{Recipe: "libwebp", Change: EDIT, Weight: REGULAR}, obtained)
+}
+
+func TestProcessChangedFilesRegularEditThree(t *testing.T) {
+	// https://github.com/conan-io/conan-center-index/pull/15470/files
+	files := parsePullRequestFilesJSON(t, `[
+		{
+		  "sha": "c700cd876b542bca99f5aec953554e406597e148",
+		  "filename": "recipes/cpp-peglib/1.x.x/conanfile.py",
+		  "status": "modified",
+		  "additions": 10,
+		  "deletions": 13,
+		  "changes": 23,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/08c0d0373f5008624a472098615d5de48d056c0a/recipes%2Fcpp-peglib%2F1.x.x%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/08c0d0373f5008624a472098615d5de48d056c0a/recipes%2Fcpp-peglib%2F1.x.x%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fcpp-peglib%2F1.x.x%2Fconanfile.py?ref=08c0d0373f5008624a472098615d5de48d056c0a",
+		  "patch": "@@ -1,14 +1,13 @@\n from conan import ConanFile\n from conan.errors import ConanInvalidConfiguration\n-from conan.tools.build import check_min_cppstd\n+from conan.tools.build import check_min_cppstd, stdcpp_library\n from conan.tools.files import copy, get\n from conan.tools.layout import basic_layout\n from conan.tools.microsoft import is_msvc\n from conan.tools.scm import Version\n-from conans import tools as tools_legacy\n import os\n \n-required_conan_version = \">=1.50.0\"\n+required_conan_version = \">=1.54.0\"\n \n \n class CpppeglibConan(ConanFile):\n@@ -18,6 +17,7 @@ class CpppeglibConan(ConanFile):\n     url = \"https://github.com/conan-io/conan-center-index\"\n     homepage = \"https://github.com/yhirose/cpp-peglib\"\n     topics = (\"peg\", \"parser\", \"header-only\")\n+    package_type = \"header-library\"\n     settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n     no_copy_source = True\n \n@@ -31,9 +31,12 @@ def _compilers_minimum_version(self):\n             \"Visual Studio\": \"15.7\",\n             \"gcc\": \"7\",\n             \"clang\": \"6\",\n-            \"apple-clang\": \"10\"\n+            \"apple-clang\": \"10\",\n         }\n \n+    def layout(self):\n+        basic_layout(self, src_folder=\"src\")\n+\n     def package_id(self):\n         self.info.clear()\n \n@@ -50,19 +53,15 @@ def loose_lt_semver(v1, v2):\n         minimum_version = self._compilers_minimum_version.get(str(self.settings.compiler), False)\n         if minimum_version and loose_lt_semver(str(self.settings.compiler.version), minimum_version):\n             raise ConanInvalidConfiguration(\n-                f\"{self.name} {self.version} requires C++{self._min_cppstd}, which your compiler does not support.\",\n+                f\"{self.ref} requires C++{self._min_cppstd}, which your compiler does not support.\",\n             )\n \n         if self.settings.compiler == \"clang\" and Version(self.settings.compiler.version) == \"7\" and \\\n-           tools_legacy.stdcpp_library(self) == \"stdc++\":\n+           stdcpp_library(self) == \"stdc++\":\n             raise ConanInvalidConfiguration(f\"{self.name} {self.version} does not support clang 7 with libstdc++.\")\n \n-    def layout(self):\n-        basic_layout(self, src_folder=\"src\")\n-\n     def source(self):\n-        get(self, **self.conan_data[\"sources\"][self.version],\n-            destination=self.source_folder, strip_root=True)\n+        get(self, **self.conan_data[\"sources\"][self.version], strip_root=True)\n \n     def build(self):\n         pass\n@@ -73,9 +72,7 @@ def package(self):\n \n     def package_info(self):\n         self.cpp_info.bindirs = []\n-        self.cpp_info.frameworkdirs = []\n         self.cpp_info.libdirs = []\n-        self.cpp_info.resdirs = []\n         if self.settings.os in [\"Linux\", \"FreeBSD\"]:\n             self.cpp_info.system_libs = [\"pthread\"]\n             self.cpp_info.cxxflags.append(\"-pthread\")"
+		},
+		{
+		  "sha": "0a6bc68712d90152ff3321a9468644f895d36c62",
+		  "filename": "recipes/cpp-peglib/1.x.x/test_package/conanfile.py",
+		  "status": "modified",
+		  "additions": 4,
+		  "deletions": 3,
+		  "changes": 7,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/08c0d0373f5008624a472098615d5de48d056c0a/recipes%2Fcpp-peglib%2F1.x.x%2Ftest_package%2Fconanfile.py",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/08c0d0373f5008624a472098615d5de48d056c0a/recipes%2Fcpp-peglib%2F1.x.x%2Ftest_package%2Fconanfile.py",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fcpp-peglib%2F1.x.x%2Ftest_package%2Fconanfile.py?ref=08c0d0373f5008624a472098615d5de48d056c0a",
+		  "patch": "@@ -7,13 +7,14 @@\n class TestPackageConan(ConanFile):\n     settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n     generators = \"CMakeToolchain\", \"CMakeDeps\", \"VirtualRunEnv\"\n-\n-    def requirements(self):\n-        self.requires(self.tested_reference_str)\n+    test_type = \"explicit\"\n \n     def layout(self):\n         cmake_layout(self)\n \n+    def requirements(self):\n+        self.requires(self.tested_reference_str)\n+\n     def build(self):\n         cmake = CMake(self)\n         cmake.configure()"
+		},
+		{
+		  "sha": "0d20897301b68bdd7b7c0a6fe54ad74b0e86c7f9",
+		  "filename": "recipes/cpp-peglib/1.x.x/test_v1_package/CMakeLists.txt",
+		  "status": "modified",
+		  "additions": 4,
+		  "deletions": 7,
+		  "changes": 11,
+		  "blob_url": "https://github.com/conan-io/conan-center-index/blob/08c0d0373f5008624a472098615d5de48d056c0a/recipes%2Fcpp-peglib%2F1.x.x%2Ftest_v1_package%2FCMakeLists.txt",
+		  "raw_url": "https://github.com/conan-io/conan-center-index/raw/08c0d0373f5008624a472098615d5de48d056c0a/recipes%2Fcpp-peglib%2F1.x.x%2Ftest_v1_package%2FCMakeLists.txt",
+		  "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fcpp-peglib%2F1.x.x%2Ftest_v1_package%2FCMakeLists.txt?ref=08c0d0373f5008624a472098615d5de48d056c0a",
+		  "patch": "@@ -1,11 +1,8 @@\n-cmake_minimum_required(VERSION 3.8)\n-project(test_package LANGUAGES CXX)\n+cmake_minimum_required(VERSION 3.1)\n+project(test_package)\n \n include(${CMAKE_BINARY_DIR}/conanbuildinfo.cmake)\n conan_basic_setup(TARGETS)\n \n-find_package(cpp-peglib CONFIG REQUIRED)\n-\n-add_executable(${PROJECT_NAME} ../test_package/test_package.cpp)\n-target_link_libraries(${PROJECT_NAME} PRIVATE cpp-peglib::cpp-peglib)\n-target_compile_features(${PROJECT_NAME} PRIVATE cxx_std_17)\n+add_subdirectory(${CMAKE_CURRENT_SOURCE_DIR}/../test_package\n+                 ${CMAKE_CURRENT_BINARY_DIR}/test_package)"
+		}
+	  ]`)
+
+	obtained, err := processChangedFiles(files)
+	assert.Equal(t, err, nil)
+	assert.Equal(t, &change{Recipe: "cpp-peglib", Change: EDIT, Weight: REGULAR}, obtained)
 }
