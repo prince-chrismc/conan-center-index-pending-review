@@ -229,10 +229,11 @@ func processChangedFiles(files []*CommitFile) (*change, error) {
 		deletions += file.GetDeletions()
 	}
 
-	//if len(files) <= 2 && addition <= 10 && deletions == 0 {
 	if len(files) <= 2 && (addition+deletions) <= 10 {
 		change.Weight = TINY
-	} else if len(files) <= 4 && (addition+deletions) <= 25 {
+	} else if len(files) <= 4 && (addition+deletions) <= 40 {
+		change.Weight = SMALL
+	} else if len(files) <= 6 && (addition+deletions) <= 30 { // More files but less LOC
 		change.Weight = SMALL
 	} else if len(files) <= 7 && (addition+deletions) <= 100 {
 		change.Weight = REGULAR
@@ -241,7 +242,7 @@ func processChangedFiles(files []*CommitFile) (*change, error) {
 	} else if len(files) <= 12 || (addition+deletions) < 500 {
 		change.Weight = HEAVY
 	} else {
-		change.Weight = TOO_MUCH	
+		change.Weight = TOO_MUCH
 	}
 
 	return change, nil
