@@ -29,6 +29,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#10776](https://github.com/conan-io/conan-center-index/pull/10776)|[paulharris](https://github.com/paulharris)|May 13|:stopwatch: vtk|L|4|Dec 1 :bell:||
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:memo: stlab|L|20|Dec 14 :bell:||
+[#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:stopwatch: mpfr|L|14|Feb 12||
 [#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: ceres-solver|XL|0|:eyes:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:gear: linter|:blue_square: S|0|:eyes:||
 [#14925](https://github.com/conan-io/conan-center-index/pull/14925)|[System-Arch](https://github.com/System-Arch)|Dec 24|:memo: autoconf|:blue_square: S|6|Feb 14|jcar87|
@@ -121,14 +122,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16006](https://github.com/conan-io/conan-center-index/pull/16006)|[uilianries](https://github.com/uilianries)|Feb 14|:memo: mpg123|L|0|||
 [#16012](https://github.com/conan-io/conan-center-index/pull/16012)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: gdk-pixbuf|L|0|||
 [#16013](https://github.com/conan-io/conan-center-index/pull/16013)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: geotrans|:blue_square: S|0|||
-[#16015](https://github.com/conan-io/conan-center-index/pull/16015)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: gtest|M|0|||
 [#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|M|0|||
 [#16018](https://github.com/conan-io/conan-center-index/pull/16018)|[uilianries](https://github.com/uilianries)|Feb 14|:green_book: docs|:blue_square: S|1|Feb 14||
 [#16019](https://github.com/conan-io/conan-center-index/pull/16019)|[toge](https://github.com/toge)|Feb 14|:new: tinyexif|M|0|||
 [#16020](https://github.com/conan-io/conan-center-index/pull/16020)|[toge](https://github.com/toge)|Feb 14|:stopwatch: imgui|:blue_square: S|1|Feb 14||Hopobcn
 [#16021](https://github.com/conan-io/conan-center-index/pull/16021)|[connorsmacd](https://github.com/connorsmacd)|Feb 14|:stopwatch: dlib|L|0|||
 [#16022](https://github.com/conan-io/conan-center-index/pull/16022)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: draco|:blue_square: S|0|||
-[#16024](https://github.com/conan-io/conan-center-index/pull/16024)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: cyrus-sasl|:blue_square: S|0|||
+[#16024](https://github.com/conan-io/conan-center-index/pull/16024)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: cyrus-sasl|:blue_square: S|0|||
 [#16025](https://github.com/conan-io/conan-center-index/pull/16025)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: leveldb|:blue_square: S|0|||
 [#16026](https://github.com/conan-io/conan-center-index/pull/16026)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: libalsa|:green_circle: XS|0|||
 [#16027](https://github.com/conan-io/conan-center-index/pull/16027)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: libunwind|:green_circle: XS|0|||
@@ -146,8 +146,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15781](https://github.com/conan-io/conan-center-index/pull/15781)|[art-ignatev](https://github.com/art-ignatev)|Feb 6|:warning: cxxopts|2|prince-chrismc, ericLemanissier
 [#15850](https://github.com/conan-io/conan-center-index/pull/15850)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:warning: cpuinfo|2|jwillikers, uilianries
 [#15867](https://github.com/conan-io/conan-center-index/pull/15867)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:warning: dataframe|2|jwillikers, uilianries
-[#15869](https://github.com/conan-io/conan-center-index/pull/15869)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: asyncplusplus|2|jwillikers, uilianries
-[#15870](https://github.com/conan-io/conan-center-index/pull/15870)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: beauty|2|jwillikers, uilianries
+[#15869](https://github.com/conan-io/conan-center-index/pull/15869)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:warning: asyncplusplus|2|jwillikers, uilianries
+[#15870](https://github.com/conan-io/conan-center-index/pull/15870)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:warning: beauty|2|jwillikers, uilianries
 [#15871](https://github.com/conan-io/conan-center-index/pull/15871)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: bigint|2|jwillikers, uilianries
 [#15874](https://github.com/conan-io/conan-center-index/pull/15874)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: ezc3d|2|jwillikers, uilianries
 [#15875](https://github.com/conan-io/conan-center-index/pull/15875)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: fcl|2|jwillikers, uilianries
@@ -192,8 +192,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 268
 	- Draft: 19
-	- Average Age: 55 days, 11 hours, and 46.44 minutes
-	- Stop Label: 88
+	- Average Age: 55 days, 12 hours, and 46.88 minutes
+	- Stop Label: 89
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
