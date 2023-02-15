@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **109** pull requests currently under way :detective:
+There are **110** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -60,7 +60,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15795](https://github.com/conan-io/conan-center-index/pull/15795)|[toge](https://github.com/toge)|Feb 7|:memo: abseil|L|7|Feb 14||uilianries
 [#15805](https://github.com/conan-io/conan-center-index/pull/15805)|[MrSparc](https://github.com/MrSparc)|Feb 7|:stopwatch: opentelemetry-cpp|M|1|Feb 13||prince-chrismc
 [#15814](https://github.com/conan-io/conan-center-index/pull/15814)|[hedtke](https://github.com/hedtke)|Feb 8|:new: highs|L|4|Feb 13||prince-chrismc
-[#15828](https://github.com/conan-io/conan-center-index/pull/15828)|[sproberts92](https://github.com/sproberts92)|Feb 9|:stopwatch: opentelemetry-cpp|L|16|Feb 15||prince-chrismc
+[#15828](https://github.com/conan-io/conan-center-index/pull/15828)|[sproberts92](https://github.com/sproberts92)|Feb 9|:memo: opentelemetry-cpp|L|16|Feb 15||prince-chrismc
 [#15834](https://github.com/conan-io/conan-center-index/pull/15834)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: coin-osi|L|1|Feb 14||uilianries
 [#15845](https://github.com/conan-io/conan-center-index/pull/15845)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: confu_json|L|1|Feb 14||uilianries
 [#15857](https://github.com/conan-io/conan-center-index/pull/15857)|[toge](https://github.com/toge)|Feb 10|:memo: yaclib|L|1|Feb 14||uilianries
@@ -124,18 +124,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16012](https://github.com/conan-io/conan-center-index/pull/16012)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: gdk-pixbuf|L|0|||
 [#16013](https://github.com/conan-io/conan-center-index/pull/16013)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: geotrans|:blue_square: S|0|||
 [#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|M|0|||
-[#16018](https://github.com/conan-io/conan-center-index/pull/16018)|[uilianries](https://github.com/uilianries)|Feb 14|:green_book: docs|:blue_square: S|1|Feb 14||
+[#16018](https://github.com/conan-io/conan-center-index/pull/16018)|[uilianries](https://github.com/uilianries)|Feb 14|:green_book: docs|:blue_square: S|6|Feb 15||
 [#16019](https://github.com/conan-io/conan-center-index/pull/16019)|[toge](https://github.com/toge)|Feb 14|:new: tinyexif|M|0|||
 [#16020](https://github.com/conan-io/conan-center-index/pull/16020)|[toge](https://github.com/toge)|Feb 14|:stopwatch: imgui|:blue_square: S|1|Feb 14||Hopobcn
 [#16021](https://github.com/conan-io/conan-center-index/pull/16021)|[connorsmacd](https://github.com/connorsmacd)|Feb 14|:stopwatch: dlib|L|0|||
 [#16024](https://github.com/conan-io/conan-center-index/pull/16024)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: cyrus-sasl|:blue_square: S|0|||
 [#16025](https://github.com/conan-io/conan-center-index/pull/16025)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: leveldb|:blue_square: S|0|||
-[#16026](https://github.com/conan-io/conan-center-index/pull/16026)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: libalsa|:green_circle: XS|0|||
-[#16027](https://github.com/conan-io/conan-center-index/pull/16027)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: libunwind|:green_circle: XS|0|||
+[#16026](https://github.com/conan-io/conan-center-index/pull/16026)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: libalsa|:green_circle: XS|1|Feb 15||ericLemanissier
+[#16027](https://github.com/conan-io/conan-center-index/pull/16027)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: libunwind|:green_circle: XS|1|Feb 15||ericLemanissier
 [#16029](https://github.com/conan-io/conan-center-index/pull/16029)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: xerces-c|M|0|||
 [#16030](https://github.com/conan-io/conan-center-index/pull/16030)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: libelf|:blue_square: S|0|||
 [#16031](https://github.com/conan-io/conan-center-index/pull/16031)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:stopwatch: odbc|:blue_square: S|0|||
-[#16032](https://github.com/conan-io/conan-center-index/pull/16032)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:stopwatch: xlnt|:green_circle: XS|0|||
+[#16032](https://github.com/conan-io/conan-center-index/pull/16032)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:stopwatch: xlnt|:green_circle: XS|1|Feb 15||ericLemanissier
+[#16034](https://github.com/conan-io/conan-center-index/pull/16034)|[jiaoew1991](https://github.com/jiaoew1991)|Feb 15|:stopwatch: googleapis|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -178,7 +179,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15991](https://github.com/conan-io/conan-center-index/pull/15991)|[StellaSmith](https://github.com/StellaSmith)|Feb 13|:memo: sdl|2|prince-chrismc, ericLemanissier
 [#15999](https://github.com/conan-io/conan-center-index/pull/15999)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: catch2|2|prince-chrismc, ericLemanissier
 [#16011](https://github.com/conan-io/conan-center-index/pull/16011)|[danimtb](https://github.com/danimtb)|Feb 14|:green_book: docs|5|uilianries, ericLemanissier
-[#16014](https://github.com/conan-io/conan-center-index/pull/16014)|[memsharded](https://github.com/memsharded)|Feb 14|:memo: pistache|2|uilianries, ericLemanissier
+[#16014](https://github.com/conan-io/conan-center-index/pull/16014)|[memsharded](https://github.com/memsharded)|Feb 14|:memo: pistache|3|uilianries, ericLemanissier, czoido
 [#16016](https://github.com/conan-io/conan-center-index/pull/16016)|[uilianries](https://github.com/uilianries)|Feb 14|:memo: atk|2|prince-chrismc, SpaceIm
 
 
@@ -188,9 +189,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a6c5b17fc64c1a146bed1ec5fd7cec7667ccf2cf
 - Pull Requests:
-	- Open: 267
+	- Open: 269
 	- Draft: 19
-	- Average Age: 55 days, 23 hours, and 38.46 minutes
+	- Average Age: 55 days, 15 hours, and 39.15 minutes
 	- Stop Label: 90
 	
 
