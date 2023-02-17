@@ -124,12 +124,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15963](https://github.com/conan-io/conan-center-index/pull/15963)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: polylineencoder|2|jwillikers, prince-chrismc
 [#15991](https://github.com/conan-io/conan-center-index/pull/15991)|[StellaSmith](https://github.com/StellaSmith)|Feb 13|:memo: sdl|2|prince-chrismc, ericLemanissier
 [#16013](https://github.com/conan-io/conan-center-index/pull/16013)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: geotrans|3|jwillikers, prince-chrismc
 [#16026](https://github.com/conan-io/conan-center-index/pull/16026)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: libalsa|5|ericLemanissier, jwillikers, StellaSmith, Croydon, prince-chrismc
@@ -150,10 +149,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 226
+	- Open: 225
 	- Draft: 19
-	- Average Age: 65 days, 18 hours, and 16.31 minutes
-	- Stop Label: 85
+	- Average Age: 66 days, 1 hours, and 43.53 minutes
+	- Stop Label: 86
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
