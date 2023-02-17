@@ -1689,11 +1689,18 @@
       "LastCommitAt": "2023-02-16T16:54:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jcar87"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-02-16T23:24:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16008#pullrequestreview-1302430455"
+         }
       }
    },
    {
@@ -2657,6 +2664,25 @@
       }
    },
    {
+      "Number": 16071,
+      "OpenedBy": "hedtke",
+      "CreatedAt": "2023-02-16T15:28:22Z",
+      "Recipe": "minisat",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16071",
+      "LastCommitSHA": "11c983b3b83dbfbb61e10e52b25f80d5d5d9dca8",
+      "LastCommitAt": "2023-02-16T13:58:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 16073,
       "OpenedBy": "uilianries",
       "CreatedAt": "2023-02-16T16:10:54Z",
@@ -2680,6 +2706,44 @@
             "SubmittedAt": "2023-02-16T22:17:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16073#pullrequestreview-1302369847"
          }
+      }
+   },
+   {
+      "Number": 16076,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-17T00:34:03Z",
+      "Recipe": "highway",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16076",
+      "LastCommitSHA": "8b8477888e3bc2338b4b37e6c010ff49f56f0fc6",
+      "LastCommitAt": "2023-02-17T00:32:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 16077,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-02-17T00:38:24Z",
+      "Recipe": "mcap",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16077",
+      "LastCommitSHA": "1d8ff4e2c6f00b491d559848db55ed2e17ea0516",
+      "LastCommitAt": "2023-02-17T00:37:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
