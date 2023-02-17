@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **105** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -127,26 +127,22 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16065](https://github.com/conan-io/conan-center-index/pull/16065)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:stopwatch: g3log|M|1|Feb 16||Hopobcn
 [#16066](https://github.com/conan-io/conan-center-index/pull/16066)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:stopwatch: rtmidi|M|1|Feb 16||
 [#16069](https://github.com/conan-io/conan-center-index/pull/16069)|[jcar87](https://github.com/jcar87)|Feb 16|:stopwatch: libxml2|:green_circle: XS|2|Feb 17||Hopobcn, prince-chrismc
-[#16070](https://github.com/conan-io/conan-center-index/pull/16070)|[jcar87](https://github.com/jcar87)|Feb 16|:stopwatch: gettext|L|3|Feb 17||prince-chrismc
+[#16070](https://github.com/conan-io/conan-center-index/pull/16070)|[jcar87](https://github.com/jcar87)|Feb 16|:memo: gettext|L|3|Feb 17||prince-chrismc
 [#16071](https://github.com/conan-io/conan-center-index/pull/16071)|[hedtke](https://github.com/hedtke)|Feb 16|:new: minisat|M|0|||
 [#16076](https://github.com/conan-io/conan-center-index/pull/16076)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:stopwatch: highway|:blue_square: S|0|||
 [#16077](https://github.com/conan-io/conan-center-index/pull/16077)|[toge](https://github.com/toge)|Feb 17|:memo: mcap|:blue_square: S|0|||
 [#16078](https://github.com/conan-io/conan-center-index/pull/16078)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:stopwatch: hdf5|L|0|||
-[#16080](https://github.com/conan-io/conan-center-index/pull/16080)|[toge](https://github.com/toge)|Feb 17|:stopwatch: semimap|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **12** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15781](https://github.com/conan-io/conan-center-index/pull/15781)|[art-ignatev](https://github.com/art-ignatev)|Feb 6|:memo: cxxopts|3|prince-chrismc, ericLemanissier, SpaceIm
 [#15805](https://github.com/conan-io/conan-center-index/pull/15805)|[MrSparc](https://github.com/MrSparc)|Feb 7|:warning: opentelemetry-cpp|2|prince-chrismc, jwillikers
-[#15886](https://github.com/conan-io/conan-center-index/pull/15886)|[SpaceIm](https://github.com/SpaceIm)|Feb 10|:memo: jbig|2|RubenRBS, prince-chrismc
 [#15991](https://github.com/conan-io/conan-center-index/pull/15991)|[StellaSmith](https://github.com/StellaSmith)|Feb 13|:warning: sdl|2|prince-chrismc, ericLemanissier
-[#15997](https://github.com/conan-io/conan-center-index/pull/15997)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: butteraugli|2|ericLemanissier, prince-chrismc
 [#16008](https://github.com/conan-io/conan-center-index/pull/16008)|[RubenRBS](https://github.com/RubenRBS)|Feb 14|:memo: xorg-macros|2|jcar87, prince-chrismc
 [#16013](https://github.com/conan-io/conan-center-index/pull/16013)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: geotrans|3|jwillikers, prince-chrismc
 [#16026](https://github.com/conan-io/conan-center-index/pull/16026)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: libalsa|5|ericLemanissier, jwillikers, StellaSmith, Croydon, prince-chrismc
@@ -162,10 +158,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 237
+	- Open: 234
 	- Draft: 19
-	- Average Age: 62 days, 18 hours, and 14.05 minutes
-	- Stop Label: 87
+	- Average Age: 63 days, 12 hours, and 58.30 minutes
+	- Stop Label: 88
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
