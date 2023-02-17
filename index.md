@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **92** pull requests currently under way :detective:
+There are **93** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -38,7 +38,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|0|||
 [#15254](https://github.com/conan-io/conan-center-index/pull/15254)|[Latios96](https://github.com/Latios96)|Jan 13|:memo: openimageio|L|3|Feb 12||prince-chrismc
 [#15353](https://github.com/conan-io/conan-center-index/pull/15353)|[paulharris](https://github.com/paulharris)|Jan 19|:memo: libx264|L|1|Feb 10||
-[#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:memo: ccache|L|3|Feb 16||
 [#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:memo: openscenegraph|M|11|Feb 12||prince-chrismc
 [#15472](https://github.com/conan-io/conan-center-index/pull/15472)|[EricAtORS](https://github.com/EricAtORS)|Jan 25|:memo: qt|:blue_square: S|3|Feb 2 :bell:||jwillikers
 [#15473](https://github.com/conan-io/conan-center-index/pull/15473)|[toge](https://github.com/toge)|Jan 25|:memo: msdfgen|M|0|||
@@ -118,12 +117,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16085](https://github.com/conan-io/conan-center-index/pull/16085)|[Cogitri](https://github.com/Cogitri)|Feb 17|:stopwatch: libcurl|:blue_square: S|0|||
 [#16086](https://github.com/conan-io/conan-center-index/pull/16086)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 17|:stopwatch: qt|:green_circle: XS|0|||
 [#16087](https://github.com/conan-io/conan-center-index/pull/16087)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 17|:gear: .github|:green_circle: XS|1|Feb 17||SSE4
-[#16088](https://github.com/conan-io/conan-center-index/pull/16088)|[jcar87](https://github.com/jcar87)|Feb 17|:stopwatch: libpq|:blue_square: S|0|||
+[#16089](https://github.com/conan-io/conan-center-index/pull/16089)|[jcar87](https://github.com/jcar87)|Feb 17|:stopwatch: libffi|:blue_square: S|1|Feb 17||SpaceIm
+[#16090](https://github.com/conan-io/conan-center-index/pull/16090)|[jcar87](https://github.com/jcar87)|Feb 17|:stopwatch: openh264|:green_circle: XS|1|Feb 17||SpaceIm
+[#16091](https://github.com/conan-io/conan-center-index/pull/16091)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:stopwatch: glib|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **16** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -143,6 +144,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16069](https://github.com/conan-io/conan-center-index/pull/16069)|[jcar87](https://github.com/jcar87)|Feb 16|:warning: libxml2|3|Hopobcn, prince-chrismc, danimtb
 [#16070](https://github.com/conan-io/conan-center-index/pull/16070)|[jcar87](https://github.com/jcar87)|Feb 16|:memo: gettext|4|prince-chrismc, danimtb
 [#16073](https://github.com/conan-io/conan-center-index/pull/16073)|[uilianries](https://github.com/uilianries)|Feb 16|:memo: cmake|3|Croydon, prince-chrismc
+[#16088](https://github.com/conan-io/conan-center-index/pull/16088)|[jcar87](https://github.com/jcar87)|Feb 17|:warning: libpq|2|SpaceIm, uilianries
 
 
 #### :clipboard: Statistics
@@ -151,9 +153,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 225
+	- Open: 228
 	- Draft: 19
-	- Average Age: 66 days, and 3.35 minutes
+	- Average Age: 65 days, 4 hours, and 8.73 minutes
 	- Stop Label: 84
 	
 
