@@ -825,33 +825,6 @@
       }
    },
    {
-      "Number": 15963,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-12T23:39:27Z",
-      "Recipe": "polylineencoder",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15963",
-      "LastCommitSHA": "3f0697073b905310fd3ee6079831f329bf6ce508",
-      "LastCommitAt": "2023-02-13T08:37:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-02-17T05:03:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15963#pullrequestreview-1302697127"
-         }
-      }
-   },
-   {
       "Number": 15967,
       "OpenedBy": "toge",
       "CreatedAt": "2023-02-13T04:04:43Z",
