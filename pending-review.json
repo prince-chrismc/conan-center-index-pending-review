@@ -87,17 +87,18 @@
       "LastCommitAt": "2023-01-31T17:39:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-02-17T12:19:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14855#pullrequestreview-1303337412"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-02-18T08:26:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14855#pullrequestreview-1304496100"
          }
       }
    },
