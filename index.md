@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **93** pull requests currently under way :detective:
+There are **95** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -113,24 +113,24 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16085](https://github.com/conan-io/conan-center-index/pull/16085)|[Cogitri](https://github.com/Cogitri)|Feb 17|:memo: libcurl|:blue_square: S|1|Feb 17||StellaSmith
 [#16090](https://github.com/conan-io/conan-center-index/pull/16090)|[jcar87](https://github.com/jcar87)|Feb 17|:stopwatch: openh264|:green_circle: XS|2|Feb 18||prince-chrismc
 [#16093](https://github.com/conan-io/conan-center-index/pull/16093)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: gmp|:blue_square: S|1|Feb 17||StellaSmith
+[#16094](https://github.com/conan-io/conan-center-index/pull/16094)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: gsl|M|0|||
 [#16096](https://github.com/conan-io/conan-center-index/pull/16096)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libconfuse|:blue_square: S|0|||
 [#16098](https://github.com/conan-io/conan-center-index/pull/16098)|[toge](https://github.com/toge)|Feb 17|:stopwatch: protobuf|:blue_square: S|0|||
 [#16099](https://github.com/conan-io/conan-center-index/pull/16099)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libexif|L|0|||
-[#16101](https://github.com/conan-io/conan-center-index/pull/16101)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:stopwatch: libmodbus|M|0|||
+[#16101](https://github.com/conan-io/conan-center-index/pull/16101)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libmodbus|M|0|||
 [#16102](https://github.com/conan-io/conan-center-index/pull/16102)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libsmacker|:blue_square: S|0|||
 [#16105](https://github.com/conan-io/conan-center-index/pull/16105)|[uilianries](https://github.com/uilianries)|Feb 17|:gear: .github|:blue_square: S|4|Feb 17||ericLemanissier
 [#16109](https://github.com/conan-io/conan-center-index/pull/16109)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: nettle|M|0|||
+[#16111](https://github.com/conan-io/conan-center-index/pull/16111)|[toge](https://github.com/toge)|Feb 18|:stopwatch: roaring|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16062](https://github.com/conan-io/conan-center-index/pull/16062)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:memo: libselinux|2|jwillikers, prince-chrismc
-[#16064](https://github.com/conan-io/conan-center-index/pull/16064)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:memo: wayland|2|jwillikers, prince-chrismc
 [#16066](https://github.com/conan-io/conan-center-index/pull/16066)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:memo: rtmidi|4|MartinDelille, jwillikers, prince-chrismc
 
 
@@ -140,10 +140,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 217
+	- Open: 216
 	- Draft: 18
-	- Average Age: 68 days, 5 hours, and 14.76 minutes
-	- Stop Label: 92
+	- Average Age: 68 days, 14 hours, and 25.57 minutes
+	- Stop Label: 91
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
