@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **95** pull requests currently under way :detective:
+There are **94** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -46,34 +46,33 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15659](https://github.com/conan-io/conan-center-index/pull/15659)|[System-Arch](https://github.com/System-Arch)|Feb 1|:memo: autoconf-archive|L|2|Feb 17||StellaSmith, prince-chrismc
 [#15694](https://github.com/conan-io/conan-center-index/pull/15694)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 3|:gear: linter|:green_circle: XS|1|Feb 3 :bell:||jwillikers
 [#15759](https://github.com/conan-io/conan-center-index/pull/15759)|[SpaceIm](https://github.com/SpaceIm)|Feb 6|:memo: cppunit|M|9|Feb 16||prince-chrismc
-[#15773](https://github.com/conan-io/conan-center-index/pull/15773)|[SpaceIm](https://github.com/SpaceIm)|Feb 6|:memo: vk-bootstrap|M|0|||
-[#15792](https://github.com/conan-io/conan-center-index/pull/15792)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: bullet3|M|0|:eyes:||
-[#15830](https://github.com/conan-io/conan-center-index/pull/15830)|[MartinDelille](https://github.com/MartinDelille)|Feb 9|:memo: ffmpeg|:blue_square: S|3|Feb 17||
+[#15773](https://github.com/conan-io/conan-center-index/pull/15773)|[SpaceIm](https://github.com/SpaceIm)|Feb 6|:memo: vk-bootstrap|M|1|Feb 18||prince-chrismc
+[#15792](https://github.com/conan-io/conan-center-index/pull/15792)|[SpaceIm](https://github.com/SpaceIm)|Feb 7|:memo: bullet3|M|1|Feb 18||prince-chrismc
+[#15830](https://github.com/conan-io/conan-center-index/pull/15830)|[MartinDelille](https://github.com/MartinDelille)|Feb 9|:memo: ffmpeg|:blue_square: S|4|Feb 18||prince-chrismc
 [#15836](https://github.com/conan-io/conan-center-index/pull/15836)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: coin-clp|L|0|:eyes:||
 [#15883](https://github.com/conan-io/conan-center-index/pull/15883)|[Croydon](https://github.com/Croydon)|Feb 10|:stopwatch: dcmtk|L|0|:eyes:||
-[#15922](https://github.com/conan-io/conan-center-index/pull/15922)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: celero|M|0|:eyes:||
-[#15923](https://github.com/conan-io/conan-center-index/pull/15923)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: clhep|M|0|:eyes:||
-[#15924](https://github.com/conan-io/conan-center-index/pull/15924)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: crc32c|M|0|:eyes:||
-[#15928](https://github.com/conan-io/conan-center-index/pull/15928)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: cspice|M|0|:eyes:||
-[#15929](https://github.com/conan-io/conan-center-index/pull/15929)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: cwalk|M|0|:eyes:||
+[#15922](https://github.com/conan-io/conan-center-index/pull/15922)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: celero|M|1|Feb 18||prince-chrismc
+[#15923](https://github.com/conan-io/conan-center-index/pull/15923)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: clhep|M|1|Feb 18||prince-chrismc
+[#15924](https://github.com/conan-io/conan-center-index/pull/15924)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: crc32c|M|1|Feb 18||prince-chrismc
+[#15928](https://github.com/conan-io/conan-center-index/pull/15928)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: cspice|M|1|Feb 18||prince-chrismc
+[#15929](https://github.com/conan-io/conan-center-index/pull/15929)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: cwalk|M|1|Feb 18||prince-chrismc
 [#15930](https://github.com/conan-io/conan-center-index/pull/15930)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: date|L|1|Feb 13||jwillikers
-[#15941](https://github.com/conan-io/conan-center-index/pull/15941)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: freeimage|M|1|Feb 13||jwillikers
 [#15946](https://github.com/conan-io/conan-center-index/pull/15946)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: gnutls|L|1|Feb 13||jwillikers
-[#15948](https://github.com/conan-io/conan-center-index/pull/15948)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: hazelcast-cpp-client|M|0|:eyes:||
-[#15950](https://github.com/conan-io/conan-center-index/pull/15950)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: imutils-cpp|M|0|:eyes:||
-[#15953](https://github.com/conan-io/conan-center-index/pull/15953)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: kuba-zip|:blue_square: S|1|Feb 15||Turhsus
+[#15948](https://github.com/conan-io/conan-center-index/pull/15948)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: hazelcast-cpp-client|M|1|Feb 18||prince-chrismc
+[#15950](https://github.com/conan-io/conan-center-index/pull/15950)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: imutils-cpp|M|1|Feb 18||prince-chrismc
+[#15953](https://github.com/conan-io/conan-center-index/pull/15953)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: kuba-zip|:blue_square: S|2|Feb 18||Turhsus, prince-chrismc
 [#15955](https://github.com/conan-io/conan-center-index/pull/15955)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: libattr|L|1|Feb 13||jwillikers
 [#15957](https://github.com/conan-io/conan-center-index/pull/15957)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: nuraft|L|1|Feb 13||jwillikers
 [#15967](https://github.com/conan-io/conan-center-index/pull/15967)|[toge](https://github.com/toge)|Feb 13|:memo: ftxui|L|1|Feb 15||jwillikers
-[#15981](https://github.com/conan-io/conan-center-index/pull/15981)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: aaplus|:blue_square: S|0|:eyes:||
+[#15981](https://github.com/conan-io/conan-center-index/pull/15981)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: aaplus|:blue_square: S|1|Feb 18||prince-chrismc
 [#15983](https://github.com/conan-io/conan-center-index/pull/15983)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: arrow|L|1|Feb 15||jwillikers
-[#15985](https://github.com/conan-io/conan-center-index/pull/15985)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: aws-crt-cpp|:blue_square: S|0|:eyes:||
-[#15986](https://github.com/conan-io/conan-center-index/pull/15986)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: backward-cpp|:blue_square: S|0|:eyes:||
-[#15989](https://github.com/conan-io/conan-center-index/pull/15989)|[toge](https://github.com/toge)|Feb 13|:memo: duckdb|M|0|:eyes:||
+[#15985](https://github.com/conan-io/conan-center-index/pull/15985)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: aws-crt-cpp|:blue_square: S|1|Feb 18||prince-chrismc
+[#15986](https://github.com/conan-io/conan-center-index/pull/15986)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: backward-cpp|:blue_square: S|1|Feb 18||prince-chrismc
+[#15989](https://github.com/conan-io/conan-center-index/pull/15989)|[toge](https://github.com/toge)|Feb 13|:memo: duckdb|M|1|Feb 18||prince-chrismc
 [#15994](https://github.com/conan-io/conan-center-index/pull/15994)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 13|:gear: .c3i|:blue_square: S|0|:eyes:||
 [#15995](https://github.com/conan-io/conan-center-index/pull/15995)|[calebkiage](https://github.com/calebkiage)|Feb 13|:memo: outcome|L|0|:eyes:||
-[#15996](https://github.com/conan-io/conan-center-index/pull/15996)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: blend2d|:blue_square: S|0|:eyes:||
-[#16000](https://github.com/conan-io/conan-center-index/pull/16000)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: charls|M|0|:eyes:||
+[#15996](https://github.com/conan-io/conan-center-index/pull/15996)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: blend2d|:blue_square: S|1|Feb 18||prince-chrismc
+[#16000](https://github.com/conan-io/conan-center-index/pull/16000)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: charls|M|1|Feb 18||prince-chrismc
 [#16003](https://github.com/conan-io/conan-center-index/pull/16003)|[toge](https://github.com/toge)|Feb 14|:memo: cxxopts|M|2|Feb 17||prince-chrismc
 [#16005](https://github.com/conan-io/conan-center-index/pull/16005)|[toge](https://github.com/toge)|Feb 14|:memo: harfbuzz|L|2|Feb 15||SpaceIm
 [#16006](https://github.com/conan-io/conan-center-index/pull/16006)|[uilianries](https://github.com/uilianries)|Feb 14|:memo: mpg123|L|5|Feb 17||prince-chrismc
@@ -104,7 +103,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16065](https://github.com/conan-io/conan-center-index/pull/16065)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:memo: g3log|M|1|Feb 16||Hopobcn
 [#16067](https://github.com/conan-io/conan-center-index/pull/16067)|[AlexandrePTJ](https://github.com/AlexandrePTJ)|Feb 16|:memo: rapidfuzz|L|0|||
 [#16071](https://github.com/conan-io/conan-center-index/pull/16071)|[hedtke](https://github.com/hedtke)|Feb 16|:new: minisat|M|0|||
-[#16073](https://github.com/conan-io/conan-center-index/pull/16073)|[uilianries](https://github.com/uilianries)|Feb 16|:memo: cmake|:blue_square: S|7|Feb 17||
+[#16073](https://github.com/conan-io/conan-center-index/pull/16073)|[uilianries](https://github.com/uilianries)|Feb 16|:memo: cmake|:blue_square: S|8|Feb 18||prince-chrismc
 [#16076](https://github.com/conan-io/conan-center-index/pull/16076)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: highway|:blue_square: S|0|||
 [#16077](https://github.com/conan-io/conan-center-index/pull/16077)|[toge](https://github.com/toge)|Feb 17|:memo: mcap|:blue_square: S|0|||
 [#16078](https://github.com/conan-io/conan-center-index/pull/16078)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: hdf5|L|0|||
@@ -130,9 +129,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 215
+	- Open: 214
 	- Draft: 18
-	- Average Age: 68 days, 22 hours, and 58.44 minutes
+	- Average Age: 69 days, 6 hours, and 29.30 minutes
 	- Stop Label: 91
 	
 
