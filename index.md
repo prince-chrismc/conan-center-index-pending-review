@@ -124,7 +124,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16116](https://github.com/conan-io/conan-center-index/pull/16116)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: mariadb-connector-c|:blue_square: S|0|||
 [#16117](https://github.com/conan-io/conan-center-index/pull/16117)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: embree3|M|0|||
 [#16118](https://github.com/conan-io/conan-center-index/pull/16118)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: iir1|:blue_square: S|0|||
-[#16119](https://github.com/conan-io/conan-center-index/pull/16119)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: simdjson|M|0|||
+[#16119](https://github.com/conan-io/conan-center-index/pull/16119)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: simdjson|M|0|||
 [#16121](https://github.com/conan-io/conan-center-index/pull/16121)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: libcds|M|1|Feb 18||StellaSmith
 [#16122](https://github.com/conan-io/conan-center-index/pull/16122)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: libmount|:green_circle: XS|1|Feb 18||StellaSmith
 [#16123](https://github.com/conan-io/conan-center-index/pull/16123)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: libsystemd|L|1|Feb 18||StellaSmith
@@ -132,10 +132,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16126](https://github.com/conan-io/conan-center-index/pull/16126)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: libarchive|:blue_square: S|1|Feb 18||StellaSmith
 [#16127](https://github.com/conan-io/conan-center-index/pull/16127)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:green_book: docs|:blue_square: S|1|Feb 18||StellaSmith
 [#16129](https://github.com/conan-io/conan-center-index/pull/16129)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: mbedtls|:green_circle: XS|0|||
-[#16130](https://github.com/conan-io/conan-center-index/pull/16130)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: libuuid|:blue_square: S|0|||
+[#16130](https://github.com/conan-io/conan-center-index/pull/16130)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: libuuid|:blue_square: S|0|||
 [#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: vulkan-validationlayers|M|0|||
 [#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: glslang|:blue_square: S|0|||
-[#16133](https://github.com/conan-io/conan-center-index/pull/16133)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: libgphoto2|L|0|||
+[#16133](https://github.com/conan-io/conan-center-index/pull/16133)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: libgphoto2|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -156,7 +156,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 234
 	- Draft: 18
-	- Average Age: 64 days, 7 hours, and 43.63 minutes
+	- Average Age: 64 days, 8 hours, and 39.59 minutes
 	- Stop Label: 94
 	
 
