@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **120** pull requests currently under way :detective:
+There are **126** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -108,7 +108,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16080](https://github.com/conan-io/conan-center-index/pull/16080)|[toge](https://github.com/toge)|Feb 17|:new: semimap|M|0|||
 [#16081](https://github.com/conan-io/conan-center-index/pull/16081)|[prince-chrismc](https://github.com/prince-chrismc)|Feb 17|:memo: m4|:blue_square: S|1|Feb 17||StellaSmith
 [#16085](https://github.com/conan-io/conan-center-index/pull/16085)|[Cogitri](https://github.com/Cogitri)|Feb 17|:memo: libcurl|:blue_square: S|1|Feb 17||StellaSmith
-[#16086](https://github.com/conan-io/conan-center-index/pull/16086)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 17|:memo: qt|:green_circle: XS|3|Feb 18||
+[#16086](https://github.com/conan-io/conan-center-index/pull/16086)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 17|:memo: qt|:green_circle: XS|5|Feb 19||MartinDelille, tsondergaard
 [#16090](https://github.com/conan-io/conan-center-index/pull/16090)|[jcar87](https://github.com/jcar87)|Feb 17|:stopwatch: openh264|:green_circle: XS|2|Feb 18||prince-chrismc
 [#16091](https://github.com/conan-io/conan-center-index/pull/16091)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: glib|M|1|Feb 17||jwillikers
 [#16093](https://github.com/conan-io/conan-center-index/pull/16093)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: gmp|:blue_square: S|1|Feb 17||StellaSmith
@@ -137,6 +137,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16127](https://github.com/conan-io/conan-center-index/pull/16127)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:green_book: docs|:blue_square: S|2|Feb 19||StellaSmith, prince-chrismc
 [#16129](https://github.com/conan-io/conan-center-index/pull/16129)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: mbedtls|:green_circle: XS|0|||
 [#16130](https://github.com/conan-io/conan-center-index/pull/16130)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: libuuid|:blue_square: S|0|||
+[#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: vulkan-validationlayers|M|0|||
 [#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: glslang|:blue_square: S|0|||
 [#16133](https://github.com/conan-io/conan-center-index/pull/16133)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: libgphoto2|L|0|||
 [#16135](https://github.com/conan-io/conan-center-index/pull/16135)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: lerc|:blue_square: S|0|||
@@ -147,6 +148,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16143](https://github.com/conan-io/conan-center-index/pull/16143)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: md4c|M|0|||
 [#16144](https://github.com/conan-io/conan-center-index/pull/16144)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: re2|:blue_square: S|0|||
 [#16146](https://github.com/conan-io/conan-center-index/pull/16146)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: cctz|M|0|||
+[#16149](https://github.com/conan-io/conan-center-index/pull/16149)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: drmp3|M|0|||
+[#16150](https://github.com/conan-io/conan-center-index/pull/16150)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: drwav|M|0|||
+[#16151](https://github.com/conan-io/conan-center-index/pull/16151)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: libqrencode|:blue_square: S|0|||
+[#16152](https://github.com/conan-io/conan-center-index/pull/16152)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: librttopo|M|0|||
+[#16153](https://github.com/conan-io/conan-center-index/pull/16153)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: qhull|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -165,9 +171,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 244
+	- Open: 250
 	- Draft: 18
-	- Average Age: 62 days, 4 hours, and 12.70 minutes
+	- Average Age: 60 days, 18 hours, and 21.26 minutes
 	- Stop Label: 94
 	
 
