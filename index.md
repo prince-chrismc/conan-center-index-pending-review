@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **111** pull requests currently under way :detective:
+There are **116** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -138,6 +138,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16133](https://github.com/conan-io/conan-center-index/pull/16133)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: libgphoto2|L|0|||
 [#16135](https://github.com/conan-io/conan-center-index/pull/16135)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: lerc|:blue_square: S|0|||
 [#16136](https://github.com/conan-io/conan-center-index/pull/16136)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: joltphysics|:blue_square: S|0|||
+[#16137](https://github.com/conan-io/conan-center-index/pull/16137)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: libgcrypt|:green_circle: XS|0|||
+[#16138](https://github.com/conan-io/conan-center-index/pull/16138)|[MartinDelille](https://github.com/MartinDelille)|Feb 19|:stopwatch: openapi-generator|:blue_square: S|0|||
+[#16139](https://github.com/conan-io/conan-center-index/pull/16139)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: libnuma|:green_circle: XS|0|||
+[#16140](https://github.com/conan-io/conan-center-index/pull/16140)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: libtar|:blue_square: S|0|||
+[#16141](https://github.com/conan-io/conan-center-index/pull/16141)|[toge](https://github.com/toge)|Feb 19|:stopwatch: thrift|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -156,9 +161,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 236
+	- Open: 241
 	- Draft: 18
-	- Average Age: 63 days, 21 hours, and 31.98 minutes
+	- Average Age: 62 days, 14 hours, and 55.80 minutes
 	- Stop Label: 94
 	
 
