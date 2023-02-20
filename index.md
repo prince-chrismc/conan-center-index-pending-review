@@ -137,7 +137,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16127](https://github.com/conan-io/conan-center-index/pull/16127)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:green_book: docs|:blue_square: S|2|Feb 19||StellaSmith, prince-chrismc
 [#16129](https://github.com/conan-io/conan-center-index/pull/16129)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: mbedtls|:green_circle: XS|0|||
 [#16130](https://github.com/conan-io/conan-center-index/pull/16130)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: libuuid|:blue_square: S|0|||
-[#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: vulkan-validationlayers|M|0|||
+[#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: vulkan-validationlayers|M|0|||
 [#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: glslang|:blue_square: S|0|||
 [#16133](https://github.com/conan-io/conan-center-index/pull/16133)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: libgphoto2|L|0|||
 [#16135](https://github.com/conan-io/conan-center-index/pull/16135)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: lerc|:blue_square: S|0|||
@@ -178,7 +178,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 251
 	- Draft: 18
-	- Average Age: 59 days, 8 hours, and 21.16 minutes
+	- Average Age: 59 days, 9 hours, and 49.40 minutes
 	- Stop Label: 90
 	
 
