@@ -369,7 +369,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 10,
-         "ValidApprovals": 0,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith",
@@ -398,7 +398,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "StellaSmith",
@@ -1050,25 +1050,6 @@
       }
    },
    {
-      "Number": 15994,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2023-02-13T21:29:23Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15994",
-      "LastCommitSHA": "7958bafd90e8b482171b14f66ded6f610d06bd9e",
-      "LastCommitAt": "2023-02-13T21:14:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 15995,
       "OpenedBy": "calebkiage",
       "CreatedAt": "2023-02-13T21:38:06Z",
@@ -1299,7 +1280,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "Hopobcn",
@@ -1485,7 +1466,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -1887,7 +1868,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -1913,7 +1894,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -2018,7 +1999,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -2157,11 +2138,18 @@
       "LastCommitAt": "2023-02-18T12:50:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-02-20T08:04:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16103#pullrequestreview-1305257103"
+         }
       }
    },
    {
@@ -2369,7 +2357,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -2395,7 +2383,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -2421,7 +2409,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -2447,7 +2435,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -2492,7 +2480,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 0,
+         "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             "StellaSmith"
@@ -2518,7 +2506,7 @@
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "StellaSmith",
@@ -2961,6 +2949,25 @@
       "LastCommitSHA": "9b325a0f62948f91e088978db17db58804bbe94f",
       "LastCommitAt": "2023-02-20T00:32:45Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 16159,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-02-20T07:27:17Z",
+      "Recipe": "antlr4-cppruntime",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16159",
+      "LastCommitSHA": "1f44badb727bee8bf437fc16f9a4a3499bffc6a8",
+      "LastCommitAt": "2023-02-20T07:26:31Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
