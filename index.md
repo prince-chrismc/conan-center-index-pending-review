@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **127** pull requests currently under way :detective:
+There are **126** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -95,7 +95,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16096](https://github.com/conan-io/conan-center-index/pull/16096)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libconfuse|:blue_square: S|0|:eyes:||
 [#16097](https://github.com/conan-io/conan-center-index/pull/16097)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libdisasm|:blue_square: S|0|||
 [#16099](https://github.com/conan-io/conan-center-index/pull/16099)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libexif|L|0|:eyes:||
-[#16101](https://github.com/conan-io/conan-center-index/pull/16101)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libmodbus|M|0|||
+[#16101](https://github.com/conan-io/conan-center-index/pull/16101)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libmodbus|M|0|:eyes:||
 [#16102](https://github.com/conan-io/conan-center-index/pull/16102)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libsmacker|:blue_square: S|0|:eyes:||
 [#16103](https://github.com/conan-io/conan-center-index/pull/16103)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: univalue|:blue_square: S|1|Feb 20||uilianries
 [#16105](https://github.com/conan-io/conan-center-index/pull/16105)|[uilianries](https://github.com/uilianries)|Feb 17|:gear: .github|:blue_square: S|4|Feb 17||ericLemanissier
@@ -146,7 +146,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16174](https://github.com/conan-io/conan-center-index/pull/16174)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: nss|L|0|||
 [#16175](https://github.com/conan-io/conan-center-index/pull/16175)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Feb 20|:stopwatch: libcurl|:green_circle: XS|1|Feb 20||
 [#16178](https://github.com/conan-io/conan-center-index/pull/16178)|[maxpagani](https://github.com/maxpagani)|Feb 20|:stopwatch: chef-fun|M|0|||
-[#16179](https://github.com/conan-io/conan-center-index/pull/16179)|[jcar87](https://github.com/jcar87)|Feb 20|:memo: cmake|:blue_square: S|1|Feb 20||danimtb
 [#16181](https://github.com/conan-io/conan-center-index/pull/16181)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: libverto|L|0|||
 [#16182](https://github.com/conan-io/conan-center-index/pull/16182)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: libsgp4|M|0|||
 [#16183](https://github.com/conan-io/conan-center-index/pull/16183)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: libpciaccess|M|0|||
@@ -158,7 +157,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **17** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -179,6 +178,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16025](https://github.com/conan-io/conan-center-index/pull/16025)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: leveldb|2|toge, prince-chrismc
 [#16086](https://github.com/conan-io/conan-center-index/pull/16086)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 17|:memo: qt|7|MartinDelille, tsondergaard, jwillikers, prince-chrismc
 [#16163](https://github.com/conan-io/conan-center-index/pull/16163)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 20|:gear: .c3i|2|RubenRBS, prince-chrismc
+[#16179](https://github.com/conan-io/conan-center-index/pull/16179)|[jcar87](https://github.com/jcar87)|Feb 20|:memo: cmake|2|danimtb, Croydon
 
 
 #### :clipboard: Statistics
@@ -189,7 +189,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 262
 	- Draft: 18
-	- Average Age: 57 days, 9 hours, and 49.15 minutes
+	- Average Age: 57 days, 11 hours, and 33.64 minutes
 	- Stop Label: 89
 	
 
