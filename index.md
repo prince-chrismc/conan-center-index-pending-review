@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **141** pull requests currently under way :detective:
+There are **140** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -47,7 +47,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15472](https://github.com/conan-io/conan-center-index/pull/15472)|[EricAtORS](https://github.com/EricAtORS)|Jan 25|:memo: qt|:blue_square: S|3|Feb 2 :bell:||jwillikers
 [#15473](https://github.com/conan-io/conan-center-index/pull/15473)|[toge](https://github.com/toge)|Jan 25|:memo: msdfgen|M|1|Feb 20||uilianries
 [#15539](https://github.com/conan-io/conan-center-index/pull/15539)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 29|:stopwatch: qt|L|4|Jan 30 :bell:||
-[#15644](https://github.com/conan-io/conan-center-index/pull/15644)|[System-Arch](https://github.com/System-Arch)|Feb 1|:stopwatch: libtool|XL|10|Feb 19|jcar87|
 [#15694](https://github.com/conan-io/conan-center-index/pull/15694)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 3|:gear: linter|:green_circle: XS|1|Feb 3 :bell:||jwillikers
 [#15836](https://github.com/conan-io/conan-center-index/pull/15836)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: coin-clp|L|0|:eyes:||
 [#15883](https://github.com/conan-io/conan-center-index/pull/15883)|[Croydon](https://github.com/Croydon)|Feb 10|:stopwatch: dcmtk|L|0|:eyes:||
@@ -104,8 +103,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16105](https://github.com/conan-io/conan-center-index/pull/16105)|[uilianries](https://github.com/uilianries)|Feb 17|:gear: .github|:blue_square: S|4|Feb 17||ericLemanissier
 [#16109](https://github.com/conan-io/conan-center-index/pull/16109)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: nettle|M|0|:eyes:||
 [#16114](https://github.com/conan-io/conan-center-index/pull/16114)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 18|:memo: boost|:green_circle: XS|0|:eyes:||
-[#16116](https://github.com/conan-io/conan-center-index/pull/16116)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: mariadb-connector-c|:blue_square: S|0|||
-[#16117](https://github.com/conan-io/conan-center-index/pull/16117)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: embree3|M|0|||
+[#16116](https://github.com/conan-io/conan-center-index/pull/16116)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: mariadb-connector-c|:blue_square: S|0|:eyes:||
+[#16117](https://github.com/conan-io/conan-center-index/pull/16117)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: embree3|M|0|:eyes:||
 [#16118](https://github.com/conan-io/conan-center-index/pull/16118)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: iir1|:blue_square: S|0|||
 [#16119](https://github.com/conan-io/conan-center-index/pull/16119)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: simdjson|M|1|Feb 19||prince-chrismc
 [#16120](https://github.com/conan-io/conan-center-index/pull/16120)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: dbus|:blue_square: S|3|Feb 20||jwillikers
@@ -201,9 +200,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 269
+	- Open: 268
 	- Draft: 17
-	- Average Age: 54 days, 19 hours, and 28.37 minutes
+	- Average Age: 54 days, 23 hours, and 38.39 minutes
 	- Stop Label: 82
 	
 
