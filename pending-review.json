@@ -3150,17 +3150,18 @@
       "LastCommitAt": "2023-02-20T17:08:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb"
+            "danimtb",
+            "Croydon"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-02-20T20:19:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16179#pullrequestreview-1306287269"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2023-02-21T01:40:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16179#pullrequestreview-1306502159"
          }
       }
    },
