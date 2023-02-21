@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **140** pull requests currently under way :detective:
+There are **141** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -167,11 +167,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16203](https://github.com/conan-io/conan-center-index/pull/16203)|[uilianries](https://github.com/uilianries)|Feb 21|:green_book: docs|:green_circle: XS|1|Feb 21||danimtb
 [#16205](https://github.com/conan-io/conan-center-index/pull/16205)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: libxslt|L|0|||
 [#16208](https://github.com/conan-io/conan-center-index/pull/16208)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: libsecret|L|0|||
+[#16211](https://github.com/conan-io/conan-center-index/pull/16211)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: libepoxy|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -191,7 +192,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16024](https://github.com/conan-io/conan-center-index/pull/16024)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: cyrus-sasl|2|toge, prince-chrismc
 [#16025](https://github.com/conan-io/conan-center-index/pull/16025)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: leveldb|2|toge, prince-chrismc
 [#16086](https://github.com/conan-io/conan-center-index/pull/16086)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 17|:memo: qt|7|MartinDelille, tsondergaard, jwillikers, prince-chrismc
-[#16163](https://github.com/conan-io/conan-center-index/pull/16163)|[conan-center-bot](https://github.com/conan-center-bot)|Feb 20|:gear: .c3i|4|RubenRBS, prince-chrismc, uilianries, SSE4
 
 
 #### :clipboard: Statistics
@@ -202,7 +202,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 268
 	- Draft: 17
-	- Average Age: 54 days, 23 hours, and 38.39 minutes
+	- Average Age: 55 days, and 36.13 minutes
 	- Stop Label: 82
 	
 
