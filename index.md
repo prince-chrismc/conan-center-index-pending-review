@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **136** pull requests currently under way :detective:
+There are **138** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -163,6 +163,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16227](https://github.com/conan-io/conan-center-index/pull/16227)|[OzanCansel](https://github.com/OzanCansel)|Feb 22|:stopwatch: hazelcast-cpp-client|:green_circle: XS|0|||
 [#16232](https://github.com/conan-io/conan-center-index/pull/16232)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: vulkan-loader|:blue_square: S|0|||
 [#16234](https://github.com/conan-io/conan-center-index/pull/16234)|[patmantru](https://github.com/patmantru)|Feb 22|:stopwatch: opentdf-client|L|0|||
+[#16235](https://github.com/conan-io/conan-center-index/pull/16235)|[jwidauer](https://github.com/jwidauer)|Feb 22|:stopwatch: doctest|M|0|||
+[#16236](https://github.com/conan-io/conan-center-index/pull/16236)|[thejohnfreeman](https://github.com/thejohnfreeman)|Feb 22|:stopwatch: snappy|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -211,9 +213,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 278
+	- Open: 280
 	- Draft: 17
-	- Average Age: 54 days, 1 hours, and 24.87 minutes
+	- Average Age: 53 days, 18 hours, and 6.15 minutes
 	- Stop Label: 81
 	
 
