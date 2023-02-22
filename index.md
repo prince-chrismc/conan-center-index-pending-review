@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **147** pull requests currently under way :detective:
+There are **149** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -174,6 +174,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16218](https://github.com/conan-io/conan-center-index/pull/16218)|[patmantru](https://github.com/patmantru)|Feb 21|:stopwatch: opentdf-client|:green_circle: XS|0|||
 [#16219](https://github.com/conan-io/conan-center-index/pull/16219)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: wolfssl|L|0|||
 [#16220](https://github.com/conan-io/conan-center-index/pull/16220)|[jiaoew1991](https://github.com/jiaoew1991)|Feb 22|:stopwatch: opentelemetry-cpp|:green_circle: XS|0|||
+[#16221](https://github.com/conan-io/conan-center-index/pull/16221)|[edisonhello](https://github.com/edisonhello)|Feb 22|:stopwatch: tabulate|:blue_square: S|0|||
+[#16222](https://github.com/conan-io/conan-center-index/pull/16222)|[System-Arch](https://github.com/System-Arch)|Feb 22|:stopwatch: boost|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -207,9 +209,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 274
+	- Open: 276
 	- Draft: 18
-	- Average Age: 54 days, 4 hours, and 57.86 minutes
+	- Average Age: 53 days, 23 hours, and 3.56 minutes
 	- Stop Label: 81
 	
 
