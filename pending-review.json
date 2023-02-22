@@ -3901,5 +3901,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 16244,
+      "OpenedBy": "vbieleny",
+      "CreatedAt": "2023-02-22T22:24:07Z",
+      "Recipe": "sigslot",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16244",
+      "LastCommitSHA": "268df95e28fecc239c5fced83f2c2b8ee5f63b74",
+      "LastCommitAt": "2023-02-22T22:21:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
