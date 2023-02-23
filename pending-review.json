@@ -329,6 +329,25 @@
       }
    },
    {
+      "Number": 15336,
+      "OpenedBy": "kletoz",
+      "CreatedAt": "2023-01-17T21:35:34Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15336",
+      "LastCommitSHA": "afa9b666dfcfc9b9fa80ce6e1304825434d61abf",
+      "LastCommitAt": "2023-02-23T16:59:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 15362,
       "OpenedBy": "Cogitri",
       "CreatedAt": "2023-01-19T11:17:47Z",
@@ -4173,6 +4192,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16257",
       "LastCommitSHA": "85cb443a2ac2ab739b095d6a0a72366faa74aafe",
       "LastCommitAt": "2023-02-23T14:52:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 16259,
+      "OpenedBy": "jave27",
+      "CreatedAt": "2023-02-23T16:32:04Z",
+      "Recipe": "pkgconf",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16259",
+      "LastCommitSHA": "9479ca09249a8a41c1afc43d7bb4a9ee80c933d0",
+      "LastCommitAt": "2023-02-23T16:26:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
