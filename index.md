@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **142** pull requests currently under way :detective:
+There are **143** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -165,15 +165,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16235](https://github.com/conan-io/conan-center-index/pull/16235)|[jwidauer](https://github.com/jwidauer)|Feb 22|:stopwatch: doctest|M|0|||
 [#16236](https://github.com/conan-io/conan-center-index/pull/16236)|[thejohnfreeman](https://github.com/thejohnfreeman)|Feb 22|:stopwatch: snappy|:green_circle: XS|0|||
 [#16239](https://github.com/conan-io/conan-center-index/pull/16239)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: aaf|:green_circle: XS|0|||
-[#16240](https://github.com/conan-io/conan-center-index/pull/16240)|[grafikrobot](https://github.com/grafikrobot)|Feb 22|:stopwatch: .github|:green_circle: XS|0|||
 [#16242](https://github.com/conan-io/conan-center-index/pull/16242)|[tannerbitz](https://github.com/tannerbitz)|Feb 22|:stopwatch: libudev|M|0|||
 [#16243](https://github.com/conan-io/conan-center-index/pull/16243)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: doxygen|L|0|||
 [#16244](https://github.com/conan-io/conan-center-index/pull/16244)|[vbieleny](https://github.com/vbieleny)|Feb 22|:stopwatch: sigslot|:green_circle: XS|0|||
+[#16245](https://github.com/conan-io/conan-center-index/pull/16245)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: lief|M|0|||
+[#16246](https://github.com/conan-io/conan-center-index/pull/16246)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: soxr|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **32** pull requests are waiting to be merged :tada:
+Currently **33** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -210,6 +211,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16103](https://github.com/conan-io/conan-center-index/pull/16103)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: univalue|2|uilianries, prince-chrismc
 [#16119](https://github.com/conan-io/conan-center-index/pull/16119)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: simdjson|2|prince-chrismc, jwillikers
 [#16201](https://github.com/conan-io/conan-center-index/pull/16201)|[RubenRBS](https://github.com/RubenRBS)|Feb 21|:memo: xorg-gccmakedep|2|danimtb, prince-chrismc
+[#16240](https://github.com/conan-io/conan-center-index/pull/16240)|[grafikrobot](https://github.com/grafikrobot)|Feb 22|:gear: .github|2|Croydon, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -218,9 +220,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 284
+	- Open: 286
 	- Draft: 18
-	- Average Age: 53 days, 2 hours, and 50.30 minutes
+	- Average Age: 52 days, 19 hours, and 41.69 minutes
 	- Stop Label: 79
 	
 
