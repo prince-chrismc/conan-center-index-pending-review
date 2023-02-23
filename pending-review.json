@@ -3462,7 +3462,7 @@
       "LastCommitAt": "2023-02-21T10:34:56Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 6,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -3470,9 +3470,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-02-22T17:04:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16195#pullrequestreview-1309738247"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-02-23T03:52:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16195#pullrequestreview-1310576551"
          }
       }
    },
@@ -3958,6 +3958,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16246",
       "LastCommitSHA": "37cd6866271f3db51eb672b5cfb0b0cc8c2fb7d5",
       "LastCommitAt": "2023-02-23T00:09:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 16247,
+      "OpenedBy": "grafikrobot",
+      "CreatedAt": "2023-02-23T03:33:21Z",
+      "Recipe": "b2",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16247",
+      "LastCommitSHA": "6828c324b0c2f8908f74bd12d9b1fbada82ff3f9",
+      "LastCommitAt": "2023-02-23T03:39:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
