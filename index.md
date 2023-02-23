@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **143** pull requests currently under way :detective:
+There are **144** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -146,7 +146,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16190](https://github.com/conan-io/conan-center-index/pull/16190)|[seladb](https://github.com/seladb)|Feb 21|:stopwatch: pcapplusplus|:green_circle: XS|0|||
 [#16193](https://github.com/conan-io/conan-center-index/pull/16193)|[leha-bot](https://github.com/leha-bot)|Feb 21|:stopwatch: godot-cpp|:green_circle: XS|0|||
 [#16194](https://github.com/conan-io/conan-center-index/pull/16194)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 21|:stopwatch: ffmpeg|:green_circle: XS|0|||
-[#16195](https://github.com/conan-io/conan-center-index/pull/16195)|[uilianries](https://github.com/uilianries)|Feb 21|:stopwatch: docs|M|1|Feb 22||RubenRBS
+[#16195](https://github.com/conan-io/conan-center-index/pull/16195)|[uilianries](https://github.com/uilianries)|Feb 21|:stopwatch: docs|M|6|Feb 23||RubenRBS
 [#16197](https://github.com/conan-io/conan-center-index/pull/16197)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 21|:stopwatch: onetbb|M|0|||
 [#16205](https://github.com/conan-io/conan-center-index/pull/16205)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: libxslt|L|0|||
 [#16208](https://github.com/conan-io/conan-center-index/pull/16208)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: libsecret|L|0|||
@@ -170,6 +170,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16244](https://github.com/conan-io/conan-center-index/pull/16244)|[vbieleny](https://github.com/vbieleny)|Feb 22|:stopwatch: sigslot|:green_circle: XS|0|||
 [#16245](https://github.com/conan-io/conan-center-index/pull/16245)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: lief|M|0|||
 [#16246](https://github.com/conan-io/conan-center-index/pull/16246)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: soxr|L|0|||
+[#16247](https://github.com/conan-io/conan-center-index/pull/16247)|[grafikrobot](https://github.com/grafikrobot)|Feb 23|:stopwatch: b2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -220,9 +221,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 286
+	- Open: 287
 	- Draft: 18
-	- Average Age: 52 days, 19 hours, and 41.69 minutes
+	- Average Age: 52 days, 18 hours, and 34.33 minutes
 	- Stop Label: 79
 	
 
