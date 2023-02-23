@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **152** pull requests currently under way :detective:
+There are **154** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -141,7 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16183](https://github.com/conan-io/conan-center-index/pull/16183)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: libpciaccess|M|1|Feb 23||jwillikers
 [#16184](https://github.com/conan-io/conan-center-index/pull/16184)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: libfuse|:blue_square: S|1|Feb 23||jwillikers
 [#16185](https://github.com/conan-io/conan-center-index/pull/16185)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: grpc-proto|L|0|:eyes:||
-[#16187](https://github.com/conan-io/conan-center-index/pull/16187)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: readosm|L|0|||
+[#16187](https://github.com/conan-io/conan-center-index/pull/16187)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: readosm|L|0|:eyes:||
 [#16188](https://github.com/conan-io/conan-center-index/pull/16188)|[odygrd](https://github.com/odygrd)|Feb 21|:stopwatch: quill|:green_circle: XS|0|||
 [#16189](https://github.com/conan-io/conan-center-index/pull/16189)|[toge](https://github.com/toge)|Feb 21|:stopwatch: behaviortree.cpp|L|0|||
 [#16190](https://github.com/conan-io/conan-center-index/pull/16190)|[seladb](https://github.com/seladb)|Feb 21|:stopwatch: pcapplusplus|:green_circle: XS|0|||
@@ -179,6 +179,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16256](https://github.com/conan-io/conan-center-index/pull/16256)|[IronTony-Stark](https://github.com/IronTony-Stark)|Feb 23|:stopwatch: jsoncons|M|0|||
 [#16257](https://github.com/conan-io/conan-center-index/pull/16257)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: glog|:green_circle: XS|0|||
 [#16259](https://github.com/conan-io/conan-center-index/pull/16259)|[jave27](https://github.com/jave27)|Feb 23|:stopwatch: pkgconf|:green_circle: XS|0|||
+[#16260](https://github.com/conan-io/conan-center-index/pull/16260)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: zstd|M|0|||
+[#16261](https://github.com/conan-io/conan-center-index/pull/16261)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: spirv-tools|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -228,9 +230,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 291
+	- Open: 293
 	- Draft: 17
-	- Average Age: 52 days, 16 hours, and 11.96 minutes
+	- Average Age: 52 days, 9 hours, and 33.25 minutes
 	- Stop Label: 77
 	
 
