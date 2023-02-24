@@ -4594,5 +4594,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 16282,
+      "OpenedBy": "uyha",
+      "CreatedAt": "2023-02-24T22:32:59Z",
+      "Recipe": "lely-core",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16282",
+      "LastCommitSHA": "9f6290a30322a52a3bf1054d89176a75d6ea9ace",
+      "LastCommitAt": "2023-02-24T22:31:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
