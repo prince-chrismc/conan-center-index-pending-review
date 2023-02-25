@@ -192,7 +192,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16273](https://github.com/conan-io/conan-center-index/pull/16273)|[toge](https://github.com/toge)|Feb 24|:stopwatch: hyperscan|L|0|||
 [#16274](https://github.com/conan-io/conan-center-index/pull/16274)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: benchmark|:green_circle: XS|0|||
 [#16275](https://github.com/conan-io/conan-center-index/pull/16275)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: c-blosc2|M|0|||
-[#16276](https://github.com/conan-io/conan-center-index/pull/16276)|[MartinDelille](https://github.com/MartinDelille)|Feb 24|:stopwatch: valgrind-macos|M|0|||
 [#16277](https://github.com/conan-io/conan-center-index/pull/16277)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libsamplerate|:green_circle: XS|0|||
 [#16278](https://github.com/conan-io/conan-center-index/pull/16278)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libtorrent|M|0|||
 [#16279](https://github.com/conan-io/conan-center-index/pull/16279)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: docs|:green_circle: XS|1|Feb 25||prince-chrismc
@@ -201,6 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16282](https://github.com/conan-io/conan-center-index/pull/16282)|[uyha](https://github.com/uyha)|Feb 24|:stopwatch: lely-core|:green_circle: XS|0|||
 [#16283](https://github.com/conan-io/conan-center-index/pull/16283)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libspatialindex|:green_circle: XS|1|Feb 25||prince-chrismc
 [#16284](https://github.com/conan-io/conan-center-index/pull/16284)|[samuel-emrys](https://github.com/samuel-emrys)|Feb 25|:stopwatch: tz|M|0|||
+[#16285](https://github.com/conan-io/conan-center-index/pull/16285)|[samuel-emrys](https://github.com/samuel-emrys)|Feb 25|:stopwatch: date|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -250,9 +250,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 314
+	- Open: 315
 	- Draft: 16
-	- Average Age: 50 days, 2 hours, and 17.31 minutes
+	- Average Age: 50 days, and 27.64 minutes
 	- Stop Label: 78
 	
 
