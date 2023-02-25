@@ -3670,11 +3670,18 @@
       "LastCommitAt": "2023-02-21T16:11:17Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "StellaSmith"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "StellaSmith",
+            "SubmittedAt": "2023-02-25T19:27:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16211#pullrequestreview-1314557458"
+         }
       }
    },
    {
@@ -4749,6 +4756,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16290",
       "LastCommitSHA": "1c3e008085941202c93240d16deeec6ec8c24ee4",
       "LastCommitAt": "2023-02-25T15:06:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 16291,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-25T19:10:38Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16291",
+      "LastCommitSHA": "1a8688b8ce5a3f9165cfe46d92385949209e69b9",
+      "LastCommitAt": "2023-02-25T19:19:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
