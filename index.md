@@ -105,8 +105,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16126](https://github.com/conan-io/conan-center-index/pull/16126)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: libarchive|:blue_square: S|2|Feb 20||StellaSmith, jwillikers
 [#16129](https://github.com/conan-io/conan-center-index/pull/16129)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: mbedtls|:green_circle: XS|1|Feb 20||jwillikers
 [#16130](https://github.com/conan-io/conan-center-index/pull/16130)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: libuuid|:blue_square: S|1|Feb 20||jwillikers
-[#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: vulkan-validationlayers|M|0|||
-[#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: glslang|:blue_square: S|0|:eyes:||
+[#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: vulkan-validationlayers|L|0|||
+[#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: glslang|:blue_square: S|0|||
 [#16133](https://github.com/conan-io/conan-center-index/pull/16133)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: libgphoto2|L|0|:eyes:||
 [#16135](https://github.com/conan-io/conan-center-index/pull/16135)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: lerc|:blue_square: S|1|Feb 23||toge
 [#16136](https://github.com/conan-io/conan-center-index/pull/16136)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: joltphysics|:blue_square: S|1|Feb 23||toge
@@ -257,7 +257,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 320
 	- Draft: 17
-	- Average Age: 49 days, 14 hours, and 31.86 minutes
+	- Average Age: 49 days, 17 hours, and 35.12 minutes
 	- Stop Label: 78
 	
 
