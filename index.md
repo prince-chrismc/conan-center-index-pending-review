@@ -23,14 +23,14 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **193** pull requests currently under way :detective:
+There are **194** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#10776](https://github.com/conan-io/conan-center-index/pull/10776)|[paulharris](https://github.com/paulharris)|May 13|:stopwatch: vtk|L|4|Dec 1 :bell:||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|7|Dec 13 :bell:|uilianries|
 [#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:stopwatch: mpfr|L|15|Feb 16|prince-chrismc|
-[#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:stopwatch: ceres-solver|XL|2|Feb 18||jwillikers, SSE4
+[#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:stopwatch: ceres-solver|XL|2|Feb 18||
 [#14907](https://github.com/conan-io/conan-center-index/pull/14907)|[larshg](https://github.com/larshg)|Dec 23|:stopwatch: gstreamer|L|2|Jan 3 :bell:||
 [#14912](https://github.com/conan-io/conan-center-index/pull/14912)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 23|:stopwatch: linter|:blue_square: S|0|:eyes:||
 [#14916](https://github.com/conan-io/conan-center-index/pull/14916)|[System-Arch](https://github.com/System-Arch)|Dec 23|:stopwatch: isl|L|3|Dec 24 :bell:||
@@ -181,8 +181,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16256](https://github.com/conan-io/conan-center-index/pull/16256)|[IronTony-Stark](https://github.com/IronTony-Stark)|Feb 23|:stopwatch: jsoncons|M|0|:eyes:||
 [#16257](https://github.com/conan-io/conan-center-index/pull/16257)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: glog|:green_circle: XS|0|:eyes:||
 [#16259](https://github.com/conan-io/conan-center-index/pull/16259)|[jave27](https://github.com/jave27)|Feb 23|:stopwatch: pkgconf|:green_circle: XS|0|:eyes:||
-[#16260](https://github.com/conan-io/conan-center-index/pull/16260)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: zstd|M|0|||
-[#16261](https://github.com/conan-io/conan-center-index/pull/16261)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: spirv-tools|:green_circle: XS|0|||
+[#16260](https://github.com/conan-io/conan-center-index/pull/16260)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: zstd|M|0|:eyes:||
+[#16261](https://github.com/conan-io/conan-center-index/pull/16261)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: spirv-tools|:green_circle: XS|0|:eyes:||
 [#16262](https://github.com/conan-io/conan-center-index/pull/16262)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: coin-utils|M|0|||
 [#16263](https://github.com/conan-io/conan-center-index/pull/16263)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: csm|M|0|||
 [#16264](https://github.com/conan-io/conan-center-index/pull/16264)|[toge](https://github.com/toge)|Feb 24|:stopwatch: arsenalgear|M|0|||
@@ -220,6 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16304](https://github.com/conan-io/conan-center-index/pull/16304)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: matchit|M|0|||
 [#16305](https://github.com/conan-io/conan-center-index/pull/16305)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: mgs|:blue_square: S|0|||
 [#16306](https://github.com/conan-io/conan-center-index/pull/16306)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: miniaudio|:blue_square: S|0|||
+[#16307](https://github.com/conan-io/conan-center-index/pull/16307)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: cfitsio|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -268,9 +269,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 333
+	- Open: 334
 	- Draft: 18
-	- Average Age: 48 days, 4 hours, and 25.72 minutes
+	- Average Age: 48 days, 4 hours, and 54.42 minutes
 	- Stop Label: 77
 	
 
