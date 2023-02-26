@@ -173,7 +173,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16244](https://github.com/conan-io/conan-center-index/pull/16244)|[vbieleny](https://github.com/vbieleny)|Feb 22|:stopwatch: sigslot|:green_circle: XS|0|:eyes:||
 [#16245](https://github.com/conan-io/conan-center-index/pull/16245)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: lief|M|0|:eyes:||
 [#16246](https://github.com/conan-io/conan-center-index/pull/16246)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: soxr|L|0|:eyes:||
-[#16247](https://github.com/conan-io/conan-center-index/pull/16247)|[grafikrobot](https://github.com/grafikrobot)|Feb 23|:stopwatch: b2|:green_circle: XS|0|||
+[#16247](https://github.com/conan-io/conan-center-index/pull/16247)|[grafikrobot](https://github.com/grafikrobot)|Feb 23|:stopwatch: b2|:green_circle: XS|0|:eyes:||
 [#16250](https://github.com/conan-io/conan-center-index/pull/16250)|[toge](https://github.com/toge)|Feb 23|:stopwatch: tabulate|L|0|||
 [#16252](https://github.com/conan-io/conan-center-index/pull/16252)|[mpusz](https://github.com/mpusz)|Feb 23|:stopwatch: mp-units|L|0|||
 [#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|||
@@ -263,7 +263,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 327
 	- Draft: 18
-	- Average Age: 48 days, 22 hours, and 51.07 minutes
+	- Average Age: 49 days, 1 hours, and 57.34 minutes
 	- Stop Label: 78
 	
 
