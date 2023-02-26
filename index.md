@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **187** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -145,7 +145,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16187](https://github.com/conan-io/conan-center-index/pull/16187)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: readosm|L|0|:eyes:||
 [#16188](https://github.com/conan-io/conan-center-index/pull/16188)|[odygrd](https://github.com/odygrd)|Feb 21|:stopwatch: quill|:green_circle: XS|0|:eyes:||
 [#16189](https://github.com/conan-io/conan-center-index/pull/16189)|[toge](https://github.com/toge)|Feb 21|:stopwatch: behaviortree.cpp|L|0|:eyes:||
-[#16190](https://github.com/conan-io/conan-center-index/pull/16190)|[seladb](https://github.com/seladb)|Feb 21|:stopwatch: pcapplusplus|:green_circle: XS|0|||
+[#16190](https://github.com/conan-io/conan-center-index/pull/16190)|[seladb](https://github.com/seladb)|Feb 21|:stopwatch: pcapplusplus|:green_circle: XS|0|:eyes:||
 [#16193](https://github.com/conan-io/conan-center-index/pull/16193)|[leha-bot](https://github.com/leha-bot)|Feb 21|:stopwatch: godot-cpp|:green_circle: XS|0|:eyes:||
 [#16194](https://github.com/conan-io/conan-center-index/pull/16194)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 21|:stopwatch: ffmpeg|:green_circle: XS|0|:eyes:||
 [#16195](https://github.com/conan-io/conan-center-index/pull/16195)|[uilianries](https://github.com/uilianries)|Feb 21|:green_book: docs|M|12|Feb 24||SSE4
@@ -174,7 +174,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16245](https://github.com/conan-io/conan-center-index/pull/16245)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: lief|M|0|:eyes:||
 [#16246](https://github.com/conan-io/conan-center-index/pull/16246)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: soxr|L|0|:eyes:||
 [#16247](https://github.com/conan-io/conan-center-index/pull/16247)|[grafikrobot](https://github.com/grafikrobot)|Feb 23|:stopwatch: b2|:green_circle: XS|0|:eyes:||
-[#16250](https://github.com/conan-io/conan-center-index/pull/16250)|[toge](https://github.com/toge)|Feb 23|:stopwatch: tabulate|L|0|||
+[#16250](https://github.com/conan-io/conan-center-index/pull/16250)|[toge](https://github.com/toge)|Feb 23|:stopwatch: tabulate|L|0|:eyes:||
 [#16252](https://github.com/conan-io/conan-center-index/pull/16252)|[mpusz](https://github.com/mpusz)|Feb 23|:stopwatch: mp-units|L|0|||
 [#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|||
 [#16255](https://github.com/conan-io/conan-center-index/pull/16255)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: h3|:blue_square: S|0|||
@@ -213,6 +213,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16295](https://github.com/conan-io/conan-center-index/pull/16295)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: spirv-cross|L|0|||
 [#16297](https://github.com/conan-io/conan-center-index/pull/16297)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: moltenvk|:blue_square: S|0|||
 [#16298](https://github.com/conan-io/conan-center-index/pull/16298)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: volk|:blue_square: S|0|||
+[#16299](https://github.com/conan-io/conan-center-index/pull/16299)|[Jean1995](https://github.com/Jean1995)|Feb 26|:stopwatch: cubicinterpolation|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -261,9 +262,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 327
+	- Open: 328
 	- Draft: 18
-	- Average Age: 49 days, 1 hours, and 57.34 minutes
+	- Average Age: 49 days, 6 hours, and 29.42 minutes
 	- Stop Label: 78
 	
 
