@@ -83,17 +83,14 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14855",
-      "LastCommitSHA": "004654362a4c1b760254a3f11a7456e36bc8da3d",
-      "LastCommitAt": "2023-01-31T17:39:42Z",
+      "LastCommitSHA": "78461eaea0bb2d69111cdaeadf2b38dd3e51afed",
+      "LastCommitAt": "2023-02-26T20:56:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers",
-            "SSE4"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -5009,6 +5006,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16306",
       "LastCommitSHA": "dcf192dcd32a56f3e4a3edc32e7b6eefb3fc22c8",
       "LastCommitAt": "2023-02-26T16:58:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 16307,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-26T20:28:30Z",
+      "Recipe": "cfitsio",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16307",
+      "LastCommitSHA": "696f6067af6fe8b7d41f01df8c658e1d9e5cfcca",
+      "LastCommitAt": "2023-02-26T18:31:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
