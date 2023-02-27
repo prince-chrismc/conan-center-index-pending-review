@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **201** pull requests currently under way :detective:
+There are **202** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -43,7 +43,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:stopwatch: ccache|L|8|Feb 22||
 [#15472](https://github.com/conan-io/conan-center-index/pull/15472)|[EricAtORS](https://github.com/EricAtORS)|Jan 25|:stopwatch: qt|:blue_square: S|3|Feb 2 :bell:||jwillikers
 [#15539](https://github.com/conan-io/conan-center-index/pull/15539)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 29|:stopwatch: qt|L|4|Jan 30 :bell:||
-[#15644](https://github.com/conan-io/conan-center-index/pull/15644)|[System-Arch](https://github.com/System-Arch)|Feb 1|:stopwatch: libtool|XL|11|Feb 21|jcar87|
 [#15694](https://github.com/conan-io/conan-center-index/pull/15694)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 3|:stopwatch: linter|:green_circle: XS|1|Feb 3 :bell:||jwillikers
 [#15726](https://github.com/conan-io/conan-center-index/pull/15726)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: folly|XL|8|Feb 21||
 [#15836](https://github.com/conan-io/conan-center-index/pull/15836)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:stopwatch: coin-clp|L|0|:eyes:||
@@ -186,6 +185,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16262](https://github.com/conan-io/conan-center-index/pull/16262)|[SpaceIm](https://github.com/SpaceIm)|Feb 23|:stopwatch: coin-utils|M|0|:eyes:||
 [#16263](https://github.com/conan-io/conan-center-index/pull/16263)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: csm|M|0|:eyes:||
 [#16264](https://github.com/conan-io/conan-center-index/pull/16264)|[toge](https://github.com/toge)|Feb 24|:stopwatch: arsenalgear|M|0|:eyes:||
+[#16268](https://github.com/conan-io/conan-center-index/pull/16268)|[jcar87](https://github.com/jcar87)|Feb 24|:stopwatch: libtool|:blue_square: S|2|Feb 27||
 [#16269](https://github.com/conan-io/conan-center-index/pull/16269)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: flatbuffers|:blue_square: S|0|||
 [#16270](https://github.com/conan-io/conan-center-index/pull/16270)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: glibmm|:blue_square: S|0|||
 [#16271](https://github.com/conan-io/conan-center-index/pull/16271)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: scnlib|:blue_square: S|0|||
@@ -228,11 +228,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16315](https://github.com/conan-io/conan-center-index/pull/16315)|[SpaceIm](https://github.com/SpaceIm)|Feb 27|:stopwatch: libvpx|L|0|||
 [#16317](https://github.com/conan-io/conan-center-index/pull/16317)|[MartinDelille](https://github.com/MartinDelille)|Feb 27|:stopwatch: qt|:blue_square: S|1|Feb 27||ericLemanissier
 [#16318](https://github.com/conan-io/conan-center-index/pull/16318)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 27|:stopwatch: mingw-builds|M|0|||
+[#16319](https://github.com/conan-io/conan-center-index/pull/16319)|[toge](https://github.com/toge)|Feb 27|:stopwatch: ada|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **29** pull requests are waiting to be merged :tada:
+Currently **28** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -265,7 +266,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16039](https://github.com/conan-io/conan-center-index/pull/16039)|[PikachuHyA](https://github.com/PikachuHyA)|Feb 15|:warning: async_simple|2|uilianries, jwillikers
 [#16103](https://github.com/conan-io/conan-center-index/pull/16103)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:warning: univalue|2|uilianries, prince-chrismc
 [#16119](https://github.com/conan-io/conan-center-index/pull/16119)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:warning: simdjson|3|prince-chrismc, jwillikers, toge
-[#16240](https://github.com/conan-io/conan-center-index/pull/16240)|[grafikrobot](https://github.com/grafikrobot)|Feb 22|:gear: .github|2|Croydon, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -274,10 +274,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ae4197addfbd381bf86e2a656bd551778c3100cf
 - Pull Requests:
-	- Open: 340
+	- Open: 338
 	- Draft: 18
-	- Average Age: 48 days, and 3.23 minutes
-	- Stop Label: 77
+	- Average Age: 48 days, 5 hours, and 23.54 minutes
+	- Stop Label: 76
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
