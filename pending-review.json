@@ -352,17 +352,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15362",
-      "LastCommitSHA": "39598c7f614450802914d5463de3727b08dcc7f5",
-      "LastCommitAt": "2023-02-17T14:44:27Z",
+      "LastCommitSHA": "3174183f53ccf59881bed1887e3fb519359810ac",
+      "LastCommitAt": "2023-02-27T09:51:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "jwillikers"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -1608,16 +1605,14 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16045",
-      "LastCommitSHA": "6ad54c80e13cdcf26798b8c63962e9f39b3d0b3d",
-      "LastCommitAt": "2023-02-15T13:20:18Z",
+      "LastCommitSHA": "2fe1a7d7669bd4aed3988edec6bb17d19f6e1b72",
+      "LastCommitAt": "2023-02-27T09:49:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "toge"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "toge",
@@ -1933,7 +1928,7 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16085",
-      "LastCommitSHA": "3fb69c876ba790fd95b8352b40cfc27f4ef7de42",
+      "LastCommitSHA": "27e65a11fd142d2ac7e9e97f9b6a394df8040360",
       "LastCommitAt": "2023-02-21T08:23:33Z",
       "CciBotPassed": false,
       "Summary": {
@@ -1955,21 +1950,16 @@
       "CreatedAt": "2023-02-17T09:27:09Z",
       "Recipe": "qt",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16086",
-      "LastCommitSHA": "5c404b141b95e4c2f92a2a4300249834c2650a44",
-      "LastCommitAt": "2023-02-18T20:37:41Z",
+      "LastCommitSHA": "afa7bb1c965b025c10b10c6e1c6797b41ff1b77b",
+      "LastCommitAt": "2023-02-27T10:05:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "MartinDelille",
-            "tsondergaard",
-            "jwillikers",
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -4099,25 +4089,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16246",
       "LastCommitSHA": "37cd6866271f3db51eb672b5cfb0b0cc8c2fb7d5",
       "LastCommitAt": "2023-02-23T00:09:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 16247,
-      "OpenedBy": "grafikrobot",
-      "CreatedAt": "2023-02-23T03:33:21Z",
-      "Recipe": "b2",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16247",
-      "LastCommitSHA": "8d7afe2b33724331665c28de1de191dafb7485d4",
-      "LastCommitAt": "2023-02-23T03:39:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
