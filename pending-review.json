@@ -87,15 +87,17 @@
       "LastCommitAt": "2023-02-26T20:56:09Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-02-18T08:26:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14855#pullrequestreview-1304496100"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-02-28T14:33:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14855#pullrequestreview-1317754951"
          }
       }
    },
@@ -4427,17 +4429,18 @@
       "LastCommitAt": "2023-02-24T18:00:43Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "jwillikers"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-02-25T00:30:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16279#pullrequestreview-1314410216"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-02-28T14:34:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16279#pullrequestreview-1317757270"
          }
       }
    },
@@ -4510,17 +4513,18 @@
       "LastCommitAt": "2023-02-24T23:18:53Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "jwillikers"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-02-25T00:26:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16283#pullrequestreview-1314408977"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-02-28T14:35:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16283#pullrequestreview-1317758237"
          }
       }
    },
@@ -4676,11 +4680,18 @@
       "LastCommitAt": "2023-02-25T21:18:09Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-02-28T14:36:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16291#pullrequestreview-1317760459"
+         }
       }
    },
    {
@@ -5045,17 +5056,18 @@
       "LastCommitAt": "2023-02-27T13:42:10Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "jwillikers"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-02-27T13:50:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16317#pullrequestreview-1315627279"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-02-28T14:33:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16317#pullrequestreview-1317753874"
          }
       }
    },
