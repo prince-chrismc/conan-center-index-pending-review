@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **232** pull requests currently under way :detective:
+There are **233** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -255,6 +255,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16389](https://github.com/conan-io/conan-center-index/pull/16389)|[sfackler](https://github.com/sfackler)|Mar 5|:stopwatch: openssl|:green_circle: XS|0|||
 [#16393](https://github.com/conan-io/conan-center-index/pull/16393)|[toge](https://github.com/toge)|Mar 5|:stopwatch: watcher|:blue_square: S|0|||
 [#16394](https://github.com/conan-io/conan-center-index/pull/16394)|[SpaceIm](https://github.com/SpaceIm)|Mar 5|:stopwatch: catch2|:green_circle: XS|0|||
+[#16396](https://github.com/conan-io/conan-center-index/pull/16396)|[SpaceIm](https://github.com/SpaceIm)|Mar 5|:new: libnabo|L|0|||
 [#16397](https://github.com/conan-io/conan-center-index/pull/16397)|[CedricSchmeits](https://github.com/CedricSchmeits)|Mar 6|:stopwatch: flatbuffers|:green_circle: XS|0|||
 [#16408](https://github.com/conan-io/conan-center-index/pull/16408)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 6|:gear: .c3i|:green_circle: XS|1|Mar 6||prince-chrismc
 [#16412](https://github.com/conan-io/conan-center-index/pull/16412)|[barynton](https://github.com/barynton)|Mar 6|:stopwatch: lightgbm|:blue_square: S|0|||
@@ -311,8 +312,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 380
 	- Draft: 20
-	- Average Age: 45 days, 6 hours, and 8.66 minutes
-	- Stop Label: 76
+	- Average Age: 45 days, 7 hours, and 9.71 minutes
+	- Stop Label: 75
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
