@@ -50,13 +50,13 @@ jobs:
           restore-keys: ${{ runner.os }}-go-
       - run: go get -v -t -d ./...
 
-      - run: go run ./cmd/cpr -t ${{ github.token }}
+      - run: go run ./cmd/cpr -t ${{ secrets.REPO_PAT }}
 
       - if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 0 * * *' }}
-        run: go run ./cmd/tir -t ${{ github.token }}
+        run: go run ./cmd/tir -t ${{ secrets.REPO_PAT }}
 
       - if: ${{ github.event_name == 'workflow_dispatch' || github.event.schedule == '0 0 * * *' }}
-        run: go run ./cmd/ovm -t ${{ github.token }}
+        run: go run ./cmd/ovm -t ${{ secrets.REPO_PAT }}
 
   golangci:
     if: github.event_name == 'pull_request' || github.event_name == 'push'
