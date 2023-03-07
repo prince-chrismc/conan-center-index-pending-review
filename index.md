@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **227** pull requests currently under way :detective:
+There are **225** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -161,7 +161,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16219](https://github.com/conan-io/conan-center-index/pull/16219)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: wolfssl|L|1|Mar 3||jwillikers
 [#16221](https://github.com/conan-io/conan-center-index/pull/16221)|[edisonhello](https://github.com/edisonhello)|Feb 22|:stopwatch: tabulate|:blue_square: S|0|||
 [#16222](https://github.com/conan-io/conan-center-index/pull/16222)|[System-Arch](https://github.com/System-Arch)|Feb 22|:stopwatch: boost|:blue_square: S|4|Feb 28||grafikrobot
-[#16226](https://github.com/conan-io/conan-center-index/pull/16226)|[tim-goto](https://github.com/tim-goto)|Feb 22|:stopwatch: gurkenlaeufer|M|0|:eyes:||
 [#16232](https://github.com/conan-io/conan-center-index/pull/16232)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: vulkan-loader|:blue_square: S|0|:eyes:||
 [#16235](https://github.com/conan-io/conan-center-index/pull/16235)|[jwidauer](https://github.com/jwidauer)|Feb 22|:stopwatch: doctest|M|0|:eyes:||
 [#16236](https://github.com/conan-io/conan-center-index/pull/16236)|[thejohnfreeman](https://github.com/thejohnfreeman)|Feb 22|:stopwatch: snappy|:green_circle: XS|0|||
@@ -204,7 +203,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16295](https://github.com/conan-io/conan-center-index/pull/16295)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: spirv-cross|L|0|:eyes:||
 [#16297](https://github.com/conan-io/conan-center-index/pull/16297)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: moltenvk|:blue_square: S|0|:eyes:||
 [#16298](https://github.com/conan-io/conan-center-index/pull/16298)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: volk|:blue_square: S|0|:eyes:||
-[#16299](https://github.com/conan-io/conan-center-index/pull/16299)|[Jean1995](https://github.com/Jean1995)|Feb 26|:stopwatch: cubicinterpolation|L|0|:eyes:||
 [#16300](https://github.com/conan-io/conan-center-index/pull/16300)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: libpsl|L|0|:eyes:||
 [#16302](https://github.com/conan-io/conan-center-index/pull/16302)|[toge](https://github.com/toge)|Feb 26|:stopwatch: etl|:blue_square: S|0|:eyes:||
 [#16303](https://github.com/conan-io/conan-center-index/pull/16303)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: libxls|M|1|Mar 3||jwillikers
@@ -307,8 +305,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 381
 	- Draft: 20
-	- Average Age: 45 days, 12 hours, and 16.07 minutes
-	- Stop Label: 79
+	- Average Age: 45 days, 13 hours, and 23.19 minutes
+	- Stop Label: 81
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
