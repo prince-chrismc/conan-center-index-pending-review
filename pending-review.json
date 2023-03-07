@@ -155,17 +155,14 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14855",
-      "LastCommitSHA": "78461eaea0bb2d69111cdaeadf2b38dd3e51afed",
-      "LastCommitAt": "2023-02-26T20:56:09Z",
+      "LastCommitSHA": "fe0f57f2a39eef756ec5b9ca16ffcefab086d770",
+      "LastCommitAt": "2023-03-07T12:28:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -538,30 +535,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-02-22T17:24:30Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15473#pullrequestreview-1309778239"
-         }
-      }
-   },
-   {
-      "Number": 15539,
-      "OpenedBy": "kambala-decapitator",
-      "CreatedAt": "2023-01-29T15:13:33Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15539",
-      "LastCommitSHA": "414b770e3fc399251ff1928f088f3701b0162e8c",
-      "LastCommitAt": "2023-02-21T08:24:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-01-30T09:19:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15539#pullrequestreview-1274749364"
          }
       }
    },
