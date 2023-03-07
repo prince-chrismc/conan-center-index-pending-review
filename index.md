@@ -221,7 +221,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16333](https://github.com/conan-io/conan-center-index/pull/16333)|[toge](https://github.com/toge)|Feb 28|:stopwatch: catch2|:green_circle: XS|0|:eyes:||
 [#16339](https://github.com/conan-io/conan-center-index/pull/16339)|[SpaceIm](https://github.com/SpaceIm)|Mar 1|:stopwatch: libvips|L|0|:eyes:||
 [#16344](https://github.com/conan-io/conan-center-index/pull/16344)|[SpaceIm](https://github.com/SpaceIm)|Mar 2|:new: cgif|M|0|||
-[#16349](https://github.com/conan-io/conan-center-index/pull/16349)|[SpaceIm](https://github.com/SpaceIm)|Mar 2|:stopwatch: onetbb|M|1|Mar 3||jwillikers
 [#16351](https://github.com/conan-io/conan-center-index/pull/16351)|[toge](https://github.com/toge)|Mar 2|:memo: shield|L|0|:eyes:||
 [#16353](https://github.com/conan-io/conan-center-index/pull/16353)|[kletoz](https://github.com/kletoz)|Mar 2|:stopwatch: readerwriterqueue|M|0|:eyes:||
 [#16355](https://github.com/conan-io/conan-center-index/pull/16355)|[SpaceIm](https://github.com/SpaceIm)|Mar 2|:memo: flann|L|2|Mar 7||jwillikers
@@ -259,20 +258,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16421](https://github.com/conan-io/conan-center-index/pull/16421)|[jcar87](https://github.com/jcar87)|Mar 7|:stopwatch: grpc-proto|:green_circle: XS|1|Mar 7||RubenRBS
 [#16425](https://github.com/conan-io/conan-center-index/pull/16425)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 7|:gear: .c3i|:green_circle: XS|0|||
 [#16426](https://github.com/conan-io/conan-center-index/pull/16426)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 7|:stopwatch: .c3i|:green_circle: XS|0|||
+[#16427](https://github.com/conan-io/conan-center-index/pull/16427)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 7|:stopwatch: .c3i|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **31** pull requests are waiting to be merged :tada:
+Currently **29** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15366](https://github.com/conan-io/conan-center-index/pull/15366)|[Makamitsu](https://github.com/Makamitsu)|Jan 19|:warning: openscenegraph|12|prince-chrismc, jwillikers
 [#15473](https://github.com/conan-io/conan-center-index/pull/15473)|[toge](https://github.com/toge)|Jan 25|:warning: msdfgen|2|uilianries, jwillikers
 [#15922](https://github.com/conan-io/conan-center-index/pull/15922)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:warning: celero|2|prince-chrismc, toge
 [#15923](https://github.com/conan-io/conan-center-index/pull/15923)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:warning: clhep|2|prince-chrismc, RubenRBS
-[#15924](https://github.com/conan-io/conan-center-index/pull/15924)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:warning: crc32c|2|prince-chrismc, toge
 [#15928](https://github.com/conan-io/conan-center-index/pull/15928)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:warning: cspice|2|prince-chrismc, jwillikers
 [#15929](https://github.com/conan-io/conan-center-index/pull/15929)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:warning: cwalk|2|prince-chrismc, jwillikers
 [#15948](https://github.com/conan-io/conan-center-index/pull/15948)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:warning: hazelcast-cpp-client|2|prince-chrismc, toge
@@ -309,8 +307,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 386
 	- Draft: 18
-	- Average Age: 45 days, 3 hours, and 48.51 minutes
-	- Stop Label: 87
+	- Average Age: 45 days, 1 hours, and 46.60 minutes
+	- Stop Label: 89
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
