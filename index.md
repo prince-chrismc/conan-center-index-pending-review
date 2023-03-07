@@ -23,14 +23,14 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **229** pull requests currently under way :detective:
+There are **228** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#10776](https://github.com/conan-io/conan-center-index/pull/10776)|[paulharris](https://github.com/paulharris)|May 13|:stopwatch: vtk|L|4|Dec 1 :bell:||
 [#11913](https://github.com/conan-io/conan-center-index/pull/11913)|[leha-bot](https://github.com/leha-bot)|Jul 25|:stopwatch: mdspan|M|5|Oct 5 :bell:||
 [#12382](https://github.com/conan-io/conan-center-index/pull/12382)|[planetmarshall](https://github.com/planetmarshall)|Aug 19|:stopwatch: pango|L|4|Feb 21 :bell:||
-[#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:stopwatch: openssl|L|8|Mar 6||
+[#14426](https://github.com/conan-io/conan-center-index/pull/14426)|[jngrb](https://github.com/jngrb)|Nov 25|:stopwatch: openssl|L|9|Mar 7||Croydon
 [#14543](https://github.com/conan-io/conan-center-index/pull/14543)|[antekone](https://github.com/antekone)|Dec 2|:stopwatch: loguru|L|2|Jan 16 :bell:||
 [#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:stopwatch: mpfr|L|15|Feb 16 :bell:|prince-chrismc|
 [#14907](https://github.com/conan-io/conan-center-index/pull/14907)|[larshg](https://github.com/larshg)|Dec 23|:stopwatch: gstreamer|L|2|Jan 3 :bell:||
@@ -246,7 +246,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16385](https://github.com/conan-io/conan-center-index/pull/16385)|[gjasny](https://github.com/gjasny)|Mar 4|:stopwatch: libdb|M|0|||
 [#16386](https://github.com/conan-io/conan-center-index/pull/16386)|[chausner](https://github.com/chausner)|Mar 4|:stopwatch: x86-simd-sort|M|0|||
 [#16388](https://github.com/conan-io/conan-center-index/pull/16388)|[SpaceIm](https://github.com/SpaceIm)|Mar 5|:stopwatch: pthreadpool|:blue_square: S|0|||
-[#16389](https://github.com/conan-io/conan-center-index/pull/16389)|[sfackler](https://github.com/sfackler)|Mar 5|:stopwatch: openssl|:green_circle: XS|0|||
 [#16393](https://github.com/conan-io/conan-center-index/pull/16393)|[toge](https://github.com/toge)|Mar 5|:stopwatch: watcher|:blue_square: S|0|||
 [#16394](https://github.com/conan-io/conan-center-index/pull/16394)|[SpaceIm](https://github.com/SpaceIm)|Mar 5|:memo: catch2|:green_circle: XS|0|||
 [#16396](https://github.com/conan-io/conan-center-index/pull/16396)|[SpaceIm](https://github.com/SpaceIm)|Mar 5|:new: libnabo|L|0|||
@@ -255,7 +254,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16413](https://github.com/conan-io/conan-center-index/pull/16413)|[Kasurus](https://github.com/Kasurus)|Mar 6|:stopwatch: fftw|:green_circle: XS|0|||
 [#16416](https://github.com/conan-io/conan-center-index/pull/16416)|[mwerminski](https://github.com/mwerminski)|Mar 7|:stopwatch: vincentlaucsb-csv-parser|L|0|||
 [#16417](https://github.com/conan-io/conan-center-index/pull/16417)|[kenneth-jia](https://github.com/kenneth-jia)|Mar 7|:stopwatch: modern-cpp-kafka|:blue_square: S|0|||
-[#16419](https://github.com/conan-io/conan-center-index/pull/16419)|[Nekto89](https://github.com/Nekto89)|Mar 7|:stopwatch: gdcm|:blue_square: S|0|||
+[#16419](https://github.com/conan-io/conan-center-index/pull/16419)|[Nekto89](https://github.com/Nekto89)|Mar 7|:stopwatch: gdcm|:blue_square: S|1|Mar 7||Croydon
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -307,10 +306,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f1c5d0e5f1c3b9412b1494e7af08814b8565d8a3
 - Pull Requests:
-	- Open: 383
-	- Draft: 19
-	- Average Age: 45 days, 9 hours, and 17.77 minutes
-	- Stop Label: 80
+	- Open: 382
+	- Draft: 18
+	- Average Age: 45 days, 14 hours, and 19.68 minutes
+	- Stop Label: 81
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
