@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **231** pull requests currently under way :detective:
+There are **230** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -216,7 +216,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16308](https://github.com/conan-io/conan-center-index/pull/16308)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: mppp|:blue_square: S|1|Mar 3||jwillikers
 [#16309](https://github.com/conan-io/conan-center-index/pull/16309)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: civetweb|M|0|:eyes:||
 [#16313](https://github.com/conan-io/conan-center-index/pull/16313)|[hellozee](https://github.com/hellozee)|Feb 27|:stopwatch: qt|M|2|Feb 27||ericLemanissier, MartinDelille
-[#16315](https://github.com/conan-io/conan-center-index/pull/16315)|[SpaceIm](https://github.com/SpaceIm)|Feb 27|:stopwatch: libvpx|L|0|:eyes:||
+[#16315](https://github.com/conan-io/conan-center-index/pull/16315)|[SpaceIm](https://github.com/SpaceIm)|Feb 27|:memo: libvpx|L|0|:eyes:||
 [#16318](https://github.com/conan-io/conan-center-index/pull/16318)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 27|:stopwatch: mingw-builds|M|0|:eyes:||
 [#16319](https://github.com/conan-io/conan-center-index/pull/16319)|[toge](https://github.com/toge)|Feb 27|:stopwatch: ada|M|0|:eyes:||
 [#16320](https://github.com/conan-io/conan-center-index/pull/16320)|[toge](https://github.com/toge)|Feb 27|:stopwatch: osmanip|M|0|:eyes:||
@@ -225,7 +225,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16331](https://github.com/conan-io/conan-center-index/pull/16331)|[elor](https://github.com/elor)|Feb 28|:stopwatch: qhull|L|0|:eyes:||
 [#16333](https://github.com/conan-io/conan-center-index/pull/16333)|[toge](https://github.com/toge)|Feb 28|:stopwatch: catch2|:green_circle: XS|0|:eyes:||
 [#16339](https://github.com/conan-io/conan-center-index/pull/16339)|[SpaceIm](https://github.com/SpaceIm)|Mar 1|:stopwatch: libvips|L|0|:eyes:||
-[#16344](https://github.com/conan-io/conan-center-index/pull/16344)|[SpaceIm](https://github.com/SpaceIm)|Mar 2|:stopwatch: cgif|M|0|:eyes:||
 [#16349](https://github.com/conan-io/conan-center-index/pull/16349)|[SpaceIm](https://github.com/SpaceIm)|Mar 2|:stopwatch: onetbb|M|1|Mar 3||jwillikers
 [#16351](https://github.com/conan-io/conan-center-index/pull/16351)|[toge](https://github.com/toge)|Mar 2|:memo: shield|L|0|:eyes:||
 [#16353](https://github.com/conan-io/conan-center-index/pull/16353)|[kletoz](https://github.com/kletoz)|Mar 2|:stopwatch: readerwriterqueue|M|0|:eyes:||
@@ -310,8 +309,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 381
 	- Draft: 20
-	- Average Age: 45 days, 8 hours, and 32.42 minutes
-	- Stop Label: 76
+	- Average Age: 45 days, 9 hours, and 21.19 minutes
+	- Stop Label: 77
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
