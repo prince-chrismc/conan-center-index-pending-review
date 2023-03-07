@@ -160,7 +160,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16217](https://github.com/conan-io/conan-center-index/pull/16217)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: libx265|L|1|Mar 3||jwillikers
 [#16218](https://github.com/conan-io/conan-center-index/pull/16218)|[patmantru](https://github.com/patmantru)|Feb 21|:stopwatch: opentdf-client|:green_circle: XS|1|Mar 6||Croydon
 [#16219](https://github.com/conan-io/conan-center-index/pull/16219)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:stopwatch: wolfssl|L|1|Mar 3||jwillikers
-[#16221](https://github.com/conan-io/conan-center-index/pull/16221)|[edisonhello](https://github.com/edisonhello)|Feb 22|:stopwatch: tabulate|:blue_square: S|0|:eyes:||
+[#16221](https://github.com/conan-io/conan-center-index/pull/16221)|[edisonhello](https://github.com/edisonhello)|Feb 22|:stopwatch: tabulate|:blue_square: S|0|||
 [#16222](https://github.com/conan-io/conan-center-index/pull/16222)|[System-Arch](https://github.com/System-Arch)|Feb 22|:stopwatch: boost|:blue_square: S|4|Feb 28||grafikrobot
 [#16226](https://github.com/conan-io/conan-center-index/pull/16226)|[tim-goto](https://github.com/tim-goto)|Feb 22|:stopwatch: gurkenlaeufer|M|0|:eyes:||
 [#16232](https://github.com/conan-io/conan-center-index/pull/16232)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:stopwatch: vulkan-loader|:blue_square: S|0|:eyes:||
@@ -310,7 +310,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 381
 	- Draft: 20
-	- Average Age: 45 days, 6 hours, and 10.58 minutes
+	- Average Age: 45 days, 8 hours, and 0.40 minutes
 	- Stop Label: 76
 	
 
