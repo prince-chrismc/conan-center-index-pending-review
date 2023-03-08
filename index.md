@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **236** pull requests currently under way :detective:
+There are **238** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -258,11 +258,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16439](https://github.com/conan-io/conan-center-index/pull/16439)|[Nekto89](https://github.com/Nekto89)|Mar 7|:stopwatch: json-c|M|3|Mar 8||
 [#16454](https://github.com/conan-io/conan-center-index/pull/16454)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:stopwatch: bzip2|:green_circle: XS|0|||
 [#16455](https://github.com/conan-io/conan-center-index/pull/16455)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:stopwatch: expat|:green_circle: XS|0|||
-[#16456](https://github.com/conan-io/conan-center-index/pull/16456)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:stopwatch: freetype|:green_circle: XS|0|||
 [#16457](https://github.com/conan-io/conan-center-index/pull/16457)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:stopwatch: jasper|:green_circle: XS|0|||
 [#16458](https://github.com/conan-io/conan-center-index/pull/16458)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:stopwatch: xz_utils|:green_circle: XS|0|||
 [#16460](https://github.com/conan-io/conan-center-index/pull/16460)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:stopwatch: cmake|:green_circle: XS|0|||
 [#16461](https://github.com/conan-io/conan-center-index/pull/16461)|[jpilet](https://github.com/jpilet)|Mar 8|:stopwatch: gdal|L|0|||
+[#16462](https://github.com/conan-io/conan-center-index/pull/16462)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:stopwatch: xtrans|:green_circle: XS|0|||
+[#16463](https://github.com/conan-io/conan-center-index/pull/16463)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:stopwatch: vdpau|:blue_square: S|0|||
+[#16464](https://github.com/conan-io/conan-center-index/pull/16464)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:stopwatch: vaapi|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -294,10 +296,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f1c5d0e5f1c3b9412b1494e7af08814b8565d8a3
 - Pull Requests:
-	- Open: 378
+	- Open: 381
 	- Draft: 20
-	- Average Age: 45 days, 13 hours, and 4.92 minutes
-	- Stop Label: 91
+	- Average Age: 45 days, 5 hours, and 18.35 minutes
+	- Stop Label: 92
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
