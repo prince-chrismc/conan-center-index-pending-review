@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **244** pull requests currently under way :detective:
+There are **245** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -270,17 +270,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16442](https://github.com/conan-io/conan-center-index/pull/16442)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 8|:gear: .c3i|:green_circle: XS|0|||
 [#16443](https://github.com/conan-io/conan-center-index/pull/16443)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 8|:gear: .c3i|:green_circle: XS|0|||
 [#16444](https://github.com/conan-io/conan-center-index/pull/16444)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 8|:gear: .c3i|:green_circle: XS|1|Mar 8||SSE4
-[#16445](https://github.com/conan-io/conan-center-index/pull/16445)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 8|:stopwatch: .c3i|:green_circle: XS|0|||
+[#16445](https://github.com/conan-io/conan-center-index/pull/16445)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 8|:gear: .c3i|:green_circle: XS|1|Mar 8||SSE4
+[#16446](https://github.com/conan-io/conan-center-index/pull/16446)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 8|:stopwatch: .c3i|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **22** pull requests are waiting to be merged :tada:
+Currently **21** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#15985](https://github.com/conan-io/conan-center-index/pull/15985)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:warning: aws-crt-cpp|2|prince-chrismc, toge
 [#15986](https://github.com/conan-io/conan-center-index/pull/15986)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:warning: backward-cpp|2|prince-chrismc, toge
 [#15996](https://github.com/conan-io/conan-center-index/pull/15996)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:warning: blend2d|2|prince-chrismc, toge
 [#16000](https://github.com/conan-io/conan-center-index/pull/16000)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:warning: charls|2|prince-chrismc, toge
@@ -312,7 +312,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 392
 	- Draft: 20
-	- Average Age: 44 days, and 15.35 minutes
+	- Average Age: 43 days, 23 hours, and 48.73 minutes
 	- Stop Label: 87
 	
 
