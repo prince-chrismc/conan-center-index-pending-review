@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **239** pull requests currently under way :detective:
+There are **240** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -265,6 +265,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16485](https://github.com/conan-io/conan-center-index/pull/16485)|[roalter](https://github.com/roalter)|Mar 9|:stopwatch: qt|:green_circle: XS|1|Mar 9||MartinDelille
 [#16487](https://github.com/conan-io/conan-center-index/pull/16487)|[hellozee](https://github.com/hellozee)|Mar 9|:stopwatch: mpdecimal|:green_circle: XS|0|||
 [#16489](https://github.com/conan-io/conan-center-index/pull/16489)|[kammce](https://github.com/kammce)|Mar 9|:stopwatch: gnu-arm-embedded-toolchain|L|0|:eyes:||
+[#16491](https://github.com/conan-io/conan-center-index/pull/16491)|[dariusarnold](https://github.com/dariusarnold)|Mar 9|:stopwatch: nas|:green_circle: XS|2|Mar 9||
 [#16492](https://github.com/conan-io/conan-center-index/pull/16492)|[SpaceIm](https://github.com/SpaceIm)|Mar 9|:stopwatch: libmodplug|L|0|||
 
 
@@ -290,7 +291,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 386
 	- Draft: 19
-	- Average Age: 45 days, 11 hours, and 49.98 minutes
+	- Average Age: 45 days, 12 hours, and 51.02 minutes
 	- Stop Label: 102
 	
 
