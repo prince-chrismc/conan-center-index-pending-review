@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15957](https://github.com/conan-io/conan-center-index/pull/15957)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: nuraft|L|1|Feb 13 :bell:||jwillikers
 [#15967](https://github.com/conan-io/conan-center-index/pull/15967)|[toge](https://github.com/toge)|Feb 13|:stopwatch: ftxui|L|1|Feb 15 :bell:||jwillikers
 [#15983](https://github.com/conan-io/conan-center-index/pull/15983)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:stopwatch: arrow|L|1|Feb 15 :bell:||jwillikers
-[#15989](https://github.com/conan-io/conan-center-index/pull/15989)|[toge](https://github.com/toge)|Feb 13|:stopwatch: duckdb|M|3|Feb 27||jwillikers
+[#15989](https://github.com/conan-io/conan-center-index/pull/15989)|[toge](https://github.com/toge)|Feb 13|:memo: duckdb|M|3|Feb 27||jwillikers
 [#15995](https://github.com/conan-io/conan-center-index/pull/15995)|[calebkiage](https://github.com/calebkiage)|Feb 13|:stopwatch: outcome|L|0|:eyes:||
 [#16003](https://github.com/conan-io/conan-center-index/pull/16003)|[toge](https://github.com/toge)|Feb 14|:stopwatch: cxxopts|M|6|Mar 7||prince-chrismc
 [#16005](https://github.com/conan-io/conan-center-index/pull/16005)|[toge](https://github.com/toge)|Feb 14|:stopwatch: harfbuzz|L|2|Feb 15 :bell:||
@@ -186,7 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16277](https://github.com/conan-io/conan-center-index/pull/16277)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libsamplerate|:green_circle: XS|1|Mar 3||jwillikers
 [#16278](https://github.com/conan-io/conan-center-index/pull/16278)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libtorrent|M|2|Mar 3||Croydon, jwillikers
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:stopwatch: rmlui|L|0|:eyes:||
-[#16282](https://github.com/conan-io/conan-center-index/pull/16282)|[uyha](https://github.com/uyha)|Feb 24|:stopwatch: lely-core|:green_circle: XS|0|||
+[#16282](https://github.com/conan-io/conan-center-index/pull/16282)|[uyha](https://github.com/uyha)|Feb 24|:memo: lely-core|:green_circle: XS|0|||
 [#16284](https://github.com/conan-io/conan-center-index/pull/16284)|[samuel-emrys](https://github.com/samuel-emrys)|Feb 25|:stopwatch: tz|M|0|:eyes:||
 [#16285](https://github.com/conan-io/conan-center-index/pull/16285)|[samuel-emrys](https://github.com/samuel-emrys)|Feb 25|:stopwatch: date|L|0|:eyes:||
 [#16286](https://github.com/conan-io/conan-center-index/pull/16286)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:stopwatch: aws-c-auth|M|1|Mar 3||jwillikers
@@ -245,7 +245,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|||
 [#16435](https://github.com/conan-io/conan-center-index/pull/16435)|[SpaceIm](https://github.com/SpaceIm)|Mar 7|:stopwatch: editline|L|0|||
 [#16439](https://github.com/conan-io/conan-center-index/pull/16439)|[Nekto89](https://github.com/Nekto89)|Mar 7|:memo: json-c|M|3|Mar 8||
-[#16454](https://github.com/conan-io/conan-center-index/pull/16454)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:stopwatch: bzip2|:blue_square: S|0|||
+[#16454](https://github.com/conan-io/conan-center-index/pull/16454)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: bzip2|:blue_square: S|0|||
 [#16455](https://github.com/conan-io/conan-center-index/pull/16455)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:stopwatch: expat|:green_circle: XS|0|||
 [#16457](https://github.com/conan-io/conan-center-index/pull/16457)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: jasper|:blue_square: S|0|||
 [#16458](https://github.com/conan-io/conan-center-index/pull/16458)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: xz_utils|:green_circle: XS|0|||
@@ -290,7 +290,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 386
 	- Draft: 19
-	- Average Age: 44 days, 22 hours, and 6.00 minutes
+	- Average Age: 44 days, 23 hours, and 2.89 minutes
 	- Stop Label: 101
 	
 
