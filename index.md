@@ -217,7 +217,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16360](https://github.com/conan-io/conan-center-index/pull/16360)|[uilianries](https://github.com/uilianries)|Mar 3|:green_book: docs|:green_circle: XS|10|Mar 8||jwillikers
 [#16361](https://github.com/conan-io/conan-center-index/pull/16361)|[staskau](https://github.com/staskau)|Mar 3|:stopwatch: accellera-uvm-systemc|:green_circle: XS|0|:eyes:||
 [#16364](https://github.com/conan-io/conan-center-index/pull/16364)|[hellozee](https://github.com/hellozee)|Mar 3|:stopwatch: libsvtav1|:blue_square: S|0|:eyes:||
-[#16365](https://github.com/conan-io/conan-center-index/pull/16365)|[liarokapisv](https://github.com/liarokapisv)|Mar 3|:stopwatch: protobuf-python|M|0|:eyes:||
+[#16365](https://github.com/conan-io/conan-center-index/pull/16365)|[liarokapisv](https://github.com/liarokapisv)|Mar 3|:stopwatch: protobuf-python|M|0|||
 [#16367](https://github.com/conan-io/conan-center-index/pull/16367)|[toge](https://github.com/toge)|Mar 3|:stopwatch: glaze|:blue_square: S|0|||
 [#16371](https://github.com/conan-io/conan-center-index/pull/16371)|[uilianries](https://github.com/uilianries)|Mar 3|:green_book: docs|:green_circle: XS|3|Mar 7||prince-chrismc
 [#16373](https://github.com/conan-io/conan-center-index/pull/16373)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:stopwatch: opencl-icd-loader|:blue_square: S|0|:eyes:||
@@ -261,7 +261,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16478](https://github.com/conan-io/conan-center-index/pull/16478)|[toge](https://github.com/toge)|Mar 9|:memo: nanorange|L|0|||
 [#16481](https://github.com/conan-io/conan-center-index/pull/16481)|[roalter](https://github.com/roalter)|Mar 9|:stopwatch: grpc|:blue_square: S|0|||
 [#16483](https://github.com/conan-io/conan-center-index/pull/16483)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 9|:gear: .c3i|:blue_square: S|0|||
-[#16484](https://github.com/conan-io/conan-center-index/pull/16484)|[SamsonBox](https://github.com/SamsonBox)|Mar 9|:stopwatch: fmt|:green_circle: XS|0|||
+[#16485](https://github.com/conan-io/conan-center-index/pull/16485)|[roalter](https://github.com/roalter)|Mar 9|:stopwatch: qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -287,7 +287,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 384
 	- Draft: 19
-	- Average Age: 45 days, 9 hours, and 44.54 minutes
+	- Average Age: 45 days, 9 hours, and 54.74 minutes
 	- Stop Label: 104
 	
 
