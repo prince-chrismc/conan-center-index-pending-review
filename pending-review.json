@@ -945,7 +945,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16040",
       "LastCommitSHA": "91643135e07abd3fa6dbf7fb0d9b1c0b63069260",
       "LastCommitAt": "2023-02-15T11:45:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -3938,25 +3938,6 @@
             "SubmittedAt": "2023-03-09T11:24:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16323#pullrequestreview-1332560826"
          }
-      }
-   },
-   {
-      "Number": 16328,
-      "OpenedBy": "0xFireWolf",
-      "CreatedAt": "2023-02-28T10:01:54Z",
-      "Recipe": "antlr4-cppruntime",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16328",
-      "LastCommitSHA": "79a41c4bba5d2ae7bdac6ba5cae157a022a4b86c",
-      "LastCommitAt": "2023-02-28T09:11:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
