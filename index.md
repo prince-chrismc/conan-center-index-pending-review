@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **241** pull requests currently under way :detective:
+There are **239** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -64,10 +64,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16012](https://github.com/conan-io/conan-center-index/pull/16012)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: gdk-pixbuf|L|2|Mar 8||jwillikers
 [#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:stopwatch: soplex|M|0|:eyes:||
 [#16028](https://github.com/conan-io/conan-center-index/pull/16028)|[chausner](https://github.com/chausner)|Feb 14|:stopwatch: liblsl|L|9|Feb 20 :bell:||
-[#16029](https://github.com/conan-io/conan-center-index/pull/16029)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: xerces-c|M|0|:eyes:||
+[#16029](https://github.com/conan-io/conan-center-index/pull/16029)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: xerces-c|M|0|||
 [#16034](https://github.com/conan-io/conan-center-index/pull/16034)|[jiaoew1991](https://github.com/jiaoew1991)|Feb 15|:stopwatch: googleapis|:green_circle: XS|4|Mar 8|jcar87|prince-chrismc, jwillikers
 [#16037](https://github.com/conan-io/conan-center-index/pull/16037)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:stopwatch: tensorpipe|:blue_square: S|1|Mar 6||Croydon
-[#16038](https://github.com/conan-io/conan-center-index/pull/16038)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:stopwatch: unqlite|:blue_square: S|0|||
+[#16038](https://github.com/conan-io/conan-center-index/pull/16038)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:memo: unqlite|:blue_square: S|0|||
 [#16040](https://github.com/conan-io/conan-center-index/pull/16040)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:stopwatch: out_ptr|:blue_square: S|1|Feb 16 :bell:||StellaSmith
 [#16042](https://github.com/conan-io/conan-center-index/pull/16042)|[toge](https://github.com/toge)|Feb 15|:stopwatch: jfalcou-eve|M|0|:eyes:||
 [#16043](https://github.com/conan-io/conan-center-index/pull/16043)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:stopwatch: leptonica|M|0|:eyes:||
@@ -79,7 +79,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16057](https://github.com/conan-io/conan-center-index/pull/16057)|[toge](https://github.com/toge)|Feb 16|:stopwatch: pdfgen|M|0|:eyes:||
 [#16060](https://github.com/conan-io/conan-center-index/pull/16060)|[toge](https://github.com/toge)|Feb 16|:stopwatch: im95able-rea|M|0|:eyes:||
 [#16065](https://github.com/conan-io/conan-center-index/pull/16065)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:stopwatch: g3log|M|1|Feb 16 :bell:||Hopobcn
-[#16067](https://github.com/conan-io/conan-center-index/pull/16067)|[AlexandrePTJ](https://github.com/AlexandrePTJ)|Feb 16|:stopwatch: rapidfuzz|L|0|:eyes:||
+[#16067](https://github.com/conan-io/conan-center-index/pull/16067)|[AlexandrePTJ](https://github.com/AlexandrePTJ)|Feb 16|:memo: rapidfuzz|L|0|||
 [#16071](https://github.com/conan-io/conan-center-index/pull/16071)|[hedtke](https://github.com/hedtke)|Feb 16|:stopwatch: minisat|M|0|:eyes:||
 [#16076](https://github.com/conan-io/conan-center-index/pull/16076)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:stopwatch: highway|:blue_square: S|0|:eyes:||
 [#16077](https://github.com/conan-io/conan-center-index/pull/16077)|[toge](https://github.com/toge)|Feb 17|:stopwatch: mcap|:blue_square: S|1|Mar 6||Croydon
@@ -180,7 +180,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16273](https://github.com/conan-io/conan-center-index/pull/16273)|[toge](https://github.com/toge)|Feb 24|:stopwatch: hyperscan|L|0|:eyes:||
 [#16274](https://github.com/conan-io/conan-center-index/pull/16274)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: benchmark|:green_circle: XS|0|:eyes:||
 [#16275](https://github.com/conan-io/conan-center-index/pull/16275)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: c-blosc2|M|0|:eyes:||
-[#16277](https://github.com/conan-io/conan-center-index/pull/16277)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libsamplerate|:green_circle: XS|1|Mar 3||jwillikers
+[#16277](https://github.com/conan-io/conan-center-index/pull/16277)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:memo: libsamplerate|:green_circle: XS|1|Mar 3||jwillikers
 [#16278](https://github.com/conan-io/conan-center-index/pull/16278)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libtorrent|M|2|Mar 3||Croydon, jwillikers
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:stopwatch: rmlui|L|0|:eyes:||
 [#16282](https://github.com/conan-io/conan-center-index/pull/16282)|[uyha](https://github.com/uyha)|Feb 24|:memo: lely-core|:green_circle: XS|0|||
@@ -266,8 +266,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16489](https://github.com/conan-io/conan-center-index/pull/16489)|[kammce](https://github.com/kammce)|Mar 9|:stopwatch: gnu-arm-embedded-toolchain|L|0|||
 [#16491](https://github.com/conan-io/conan-center-index/pull/16491)|[dariusarnold](https://github.com/dariusarnold)|Mar 9|:stopwatch: nas|:green_circle: XS|2|Mar 9||
 [#16492](https://github.com/conan-io/conan-center-index/pull/16492)|[SpaceIm](https://github.com/SpaceIm)|Mar 9|:stopwatch: libmodplug|L|0|||
-[#16494](https://github.com/conan-io/conan-center-index/pull/16494)|[SpaceIm](https://github.com/SpaceIm)|Mar 10|:stopwatch: libressl|L|0|||
-[#16495](https://github.com/conan-io/conan-center-index/pull/16495)|[toge](https://github.com/toge)|Mar 10|:stopwatch: snappy|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -290,9 +288,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f1c5d0e5f1c3b9412b1494e7af08814b8565d8a3
 - Pull Requests:
-	- Open: 386
+	- Open: 385
 	- Draft: 19
-	- Average Age: 45 days, 22 hours, and 16.58 minutes
+	- Average Age: 46 days, 2 hours, and 3.58 minutes
 	- Stop Label: 103
 	
 
