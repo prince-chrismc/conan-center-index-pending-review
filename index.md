@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **206** pull requests currently under way :detective:
+There are **207** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -107,6 +107,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16158](https://github.com/conan-io/conan-center-index/pull/16158)|[toge](https://github.com/toge)|Feb 20|:stopwatch: homog2d|:blue_square: S|0|:eyes:||
 [#16159](https://github.com/conan-io/conan-center-index/pull/16159)|[toge](https://github.com/toge)|Feb 20|:stopwatch: antlr4-cppruntime|M|1|Feb 25 :bell:||1sand0s
 [#16161](https://github.com/conan-io/conan-center-index/pull/16161)|[robbert-ef](https://github.com/robbert-ef)|Feb 20|:stopwatch: mimalloc|:green_circle: XS|0|:eyes:||
+[#16166](https://github.com/conan-io/conan-center-index/pull/16166)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 20|:stopwatch: sdl_image|:green_circle: XS|0|:eyes:||
 [#16169](https://github.com/conan-io/conan-center-index/pull/16169)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:memo: libxml2|M|2|Mar 8||jwillikers
 [#16170](https://github.com/conan-io/conan-center-index/pull/16170)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:memo: rttr|M|2|Feb 20 :bell:||jwillikers, StellaSmith
 [#16171](https://github.com/conan-io/conan-center-index/pull/16171)|[Nekto89](https://github.com/Nekto89)|Feb 20|:stopwatch: minizip-ng|:blue_square: S|0|:eyes:||
@@ -140,7 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16275](https://github.com/conan-io/conan-center-index/pull/16275)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: c-blosc2|M|0|:eyes:||
 [#16278](https://github.com/conan-io/conan-center-index/pull/16278)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libtorrent|M|2|Mar 3||Croydon, jwillikers
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:stopwatch: rmlui|L|0|:eyes:||
-[#16282](https://github.com/conan-io/conan-center-index/pull/16282)|[uyha](https://github.com/uyha)|Feb 24|:stopwatch: lely-core|:green_circle: XS|0|:eyes:||
+[#16282](https://github.com/conan-io/conan-center-index/pull/16282)|[uyha](https://github.com/uyha)|Feb 24|:memo: lely-core|:green_circle: XS|0|:eyes:||
 [#16286](https://github.com/conan-io/conan-center-index/pull/16286)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:stopwatch: aws-c-auth|M|1|Mar 3||jwillikers
 [#16288](https://github.com/conan-io/conan-center-index/pull/16288)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:stopwatch: cpr|:blue_square: S|3|Mar 11||
 [#16290](https://github.com/conan-io/conan-center-index/pull/16290)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:memo: elfio|L|2|Mar 3||Hopobcn, jwillikers
@@ -261,8 +262,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 373
 	- Draft: 21
-	- Average Age: 47 days, 21 hours, and 7.10 minutes
-	- Stop Label: 121
+	- Average Age: 47 days, 22 hours, and 0.07 minutes
+	- Stop Label: 120
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
