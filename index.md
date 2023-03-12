@@ -94,7 +94,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16134](https://github.com/conan-io/conan-center-index/pull/16134)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 19|:stopwatch: bgfx|L|0|:eyes:||
 [#16142](https://github.com/conan-io/conan-center-index/pull/16142)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: apr-util|L|1|Feb 23 :bell:||toge
 [#16143](https://github.com/conan-io/conan-center-index/pull/16143)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: md4c|M|1|Feb 23 :bell:||toge
-[#16146](https://github.com/conan-io/conan-center-index/pull/16146)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: cctz|M|1|Feb 23 :bell:||toge
+[#16146](https://github.com/conan-io/conan-center-index/pull/16146)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: cctz|M|1|Feb 23 :bell:||toge
 [#16147](https://github.com/conan-io/conan-center-index/pull/16147)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: drflac|M|1|Feb 23 :bell:||toge
 [#16149](https://github.com/conan-io/conan-center-index/pull/16149)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: drmp3|M|1|Feb 23 :bell:||toge
 [#16150](https://github.com/conan-io/conan-center-index/pull/16150)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: drwav|M|1|Feb 23 :bell:||toge
@@ -264,10 +264,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f1c5d0e5f1c3b9412b1494e7af08814b8565d8a3
 - Pull Requests:
-	- Open: 372
+	- Open: 373
 	- Draft: 20
-	- Average Age: 46 days, 22 hours, and 44.34 minutes
-	- Stop Label: 115
+	- Average Age: 46 days, 20 hours, and 46.35 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
