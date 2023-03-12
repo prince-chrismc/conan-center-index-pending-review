@@ -227,7 +227,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16519](https://github.com/conan-io/conan-center-index/pull/16519)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: fxdiv|:blue_square: S|0|||
 [#16520](https://github.com/conan-io/conan-center-index/pull/16520)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: openal-soft|:blue_square: S|0|||
 [#16521](https://github.com/conan-io/conan-center-index/pull/16521)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: libnop|:blue_square: S|0|||
-[#16523](https://github.com/conan-io/conan-center-index/pull/16523)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:stopwatch: vulkan-headers|L|0|||
+[#16523](https://github.com/conan-io/conan-center-index/pull/16523)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: vulkan-headers|L|0|||
 [#16524](https://github.com/conan-io/conan-center-index/pull/16524)|[granger35](https://github.com/granger35)|Mar 11|:stopwatch: opencv|M|0|||
 [#16527](https://github.com/conan-io/conan-center-index/pull/16527)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: uriparser|:blue_square: S|0|||
 [#16530](https://github.com/conan-io/conan-center-index/pull/16530)|[Cyriuz](https://github.com/Cyriuz)|Mar 12|:stopwatch: sentry-native|M|0|||
@@ -260,7 +260,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 372
 	- Draft: 21
-	- Average Age: 47 days, 15 hours, and 3.85 minutes
+	- Average Age: 47 days, 17 hours, and 0.50 minutes
 	- Stop Label: 122
 	
 
