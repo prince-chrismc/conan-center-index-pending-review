@@ -234,8 +234,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16524](https://github.com/conan-io/conan-center-index/pull/16524)|[granger35](https://github.com/granger35)|Mar 11|:stopwatch: opencv|M|0|||
 [#16527](https://github.com/conan-io/conan-center-index/pull/16527)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: uriparser|:blue_square: S|0|||
 [#16529](https://github.com/conan-io/conan-center-index/pull/16529)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:stopwatch: ffmpeg|L|2|Mar 12||MartinDelille
-[#16531](https://github.com/conan-io/conan-center-index/pull/16531)|[SpaceIm](https://github.com/SpaceIm)|Mar 12|:stopwatch: geos|:green_circle: XS|0|||
-[#16533](https://github.com/conan-io/conan-center-index/pull/16533)|[SpaceIm](https://github.com/SpaceIm)|Mar 12|:stopwatch: lemon|L|0|||
+[#16531](https://github.com/conan-io/conan-center-index/pull/16531)|[SpaceIm](https://github.com/SpaceIm)|Mar 12|:memo: geos|:green_circle: XS|0|||
+[#16533](https://github.com/conan-io/conan-center-index/pull/16533)|[SpaceIm](https://github.com/SpaceIm)|Mar 12|:memo: lemon|L|0|||
 [#16535](https://github.com/conan-io/conan-center-index/pull/16535)|[toge](https://github.com/toge)|Mar 12|:stopwatch: msgpack-c|:blue_square: S|0|||
 [#16536](https://github.com/conan-io/conan-center-index/pull/16536)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 12|:stopwatch: boost-leaf|:green_circle: XS|0|||
 
@@ -266,7 +266,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 372
 	- Draft: 20
-	- Average Age: 46 days, 21 hours, and 49.45 minutes
+	- Average Age: 46 days, 22 hours, and 44.34 minutes
 	- Stop Label: 115
 	
 
