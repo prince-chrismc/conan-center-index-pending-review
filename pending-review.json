@@ -4294,7 +4294,7 @@
       "LastCommitAt": "2023-03-09T13:35:03Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
@@ -4304,9 +4304,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-11T07:22:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16485#pullrequestreview-1335832616"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2023-03-12T06:07:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16485#pullrequestreview-1335968979"
          }
       }
    },
@@ -4732,25 +4732,6 @@
       "LastCommitSHA": "7f50e2a2775f679b449a8dccd2661aec3b772950",
       "LastCommitAt": "2023-03-11T19:01:31Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 16530,
-      "OpenedBy": "Cyriuz",
-      "CreatedAt": "2023-03-12T00:52:12Z",
-      "Recipe": "sentry-native",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16530",
-      "LastCommitSHA": "b82ff88f51e6e25cae95201009c9235bb360a3bb",
-      "LastCommitAt": "2023-03-11T22:22:08Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
