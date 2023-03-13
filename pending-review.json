@@ -471,17 +471,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15930",
       "LastCommitSHA": "a76e797f520abf5d9b2d6464d6643ae3e8a6525e",
       "LastCommitAt": "2023-03-12T21:32:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
+         "Count": 6,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "samuel-emrys"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-12T21:09:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15930#pullrequestreview-1336085282"
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2023-03-13T01:47:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15930#pullrequestreview-1336141382"
          }
       }
    },
@@ -1264,7 +1266,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16097",
       "LastCommitSHA": "94afa8817f2a1e235dc4b43fd7909a642e3c2915",
       "LastCommitAt": "2023-02-18T11:06:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3271,10 +3273,10 @@
       "CreatedAt": "2023-03-01T17:07:36Z",
       "Recipe": "libvips",
       "Change": 0,
-      "Weight": 3,
+      "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16339",
-      "LastCommitSHA": "da1aecb0228422b76d58457e23b85eec1fc239cb",
-      "LastCommitAt": "2023-03-12T21:00:18Z",
+      "LastCommitSHA": "30acf0eeb3e2806317f8e7e9fff8b2363e1ca6fb",
+      "LastCommitAt": "2023-03-13T00:30:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
