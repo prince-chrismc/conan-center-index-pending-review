@@ -4482,33 +4482,6 @@
       }
    },
    {
-      "Number": 16503,
-      "OpenedBy": "jcar87",
-      "CreatedAt": "2023-03-10T15:36:01Z",
-      "Recipe": "cmake",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16503",
-      "LastCommitSHA": "b9d5a66eeb928d2757abf35c3093ef4f278047fd",
-      "LastCommitAt": "2023-03-13T09:22:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "czoido"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-03-13T10:24:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16503#pullrequestreview-1336664445"
-         }
-      }
-   },
-   {
       "Number": 16506,
       "OpenedBy": "kielby",
       "CreatedAt": "2023-03-10T20:47:03Z",
