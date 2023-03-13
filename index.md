@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **208** pull requests currently under way :detective:
+There are **207** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -234,7 +234,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16544](https://github.com/conan-io/conan-center-index/pull/16544)|[lmife](https://github.com/lmife)|Mar 13|:stopwatch: qt|:green_circle: XS|1|Mar 13||jwillikers
 [#16545](https://github.com/conan-io/conan-center-index/pull/16545)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 13|:gear: .c3i|:green_circle: XS|0|||
 [#16548](https://github.com/conan-io/conan-center-index/pull/16548)|[jcar87](https://github.com/jcar87)|Mar 13|:memo: xorg-cf-files|:green_circle: XS|1|Mar 13||RubenRBS
-[#16549](https://github.com/conan-io/conan-center-index/pull/16549)|[jhabermas](https://github.com/jhabermas)|Mar 13|:stopwatch: zfp|:green_circle: XS|1|Mar 13||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -250,11 +249,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16045](https://github.com/conan-io/conan-center-index/pull/16045)|[Cogitri](https://github.com/Cogitri)|Feb 15|:memo: libpq|3|SpaceIm, prince-chrismc
 [#16056](https://github.com/conan-io/conan-center-index/pull/16056)|[toge](https://github.com/toge)|Feb 16|:warning: indicators|2|jwillikers, prince-chrismc
 [#16077](https://github.com/conan-io/conan-center-index/pull/16077)|[toge](https://github.com/toge)|Feb 17|:warning: mcap|2|Croydon, prince-chrismc
-[#16085](https://github.com/conan-io/conan-center-index/pull/16085)|[Cogitri](https://github.com/Cogitri)|Feb 17|:memo: libcurl|6|prince-chrismc, ericLemanissier
 [#16144](https://github.com/conan-io/conan-center-index/pull/16144)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:warning: re2|2|toge, prince-chrismc
 [#16472](https://github.com/conan-io/conan-center-index/pull/16472)|[Croydon](https://github.com/Croydon)|Mar 8|:warning: cmake|3|prince-chrismc, ericLemanissier
 [#16476](https://github.com/conan-io/conan-center-index/pull/16476)|[tylerjw](https://github.com/tylerjw)|Mar 9|:warning: backward-cpp|2|SpaceIm, prince-chrismc
 [#16485](https://github.com/conan-io/conan-center-index/pull/16485)|[roalter](https://github.com/roalter)|Mar 9|:warning: qt|4|MartinDelille, jwillikers, prince-chrismc
+[#16549](https://github.com/conan-io/conan-center-index/pull/16549)|[jhabermas](https://github.com/jhabermas)|Mar 13|:warning: zfp|2|RubenRBS, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -263,9 +262,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f1c5d0e5f1c3b9412b1494e7af08814b8565d8a3
 - Pull Requests:
-	- Open: 372
+	- Open: 371
 	- Draft: 19
-	- Average Age: 47 days, 3 hours, and 9.79 minutes
+	- Average Age: 47 days, 5 hours, and 40.93 minutes
 	- Stop Label: 120
 	
 
