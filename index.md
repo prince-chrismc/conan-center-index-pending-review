@@ -203,8 +203,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16456](https://github.com/conan-io/conan-center-index/pull/16456)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: freetype|:blue_square: S|1|Mar 10||StellaSmith
 [#16457](https://github.com/conan-io/conan-center-index/pull/16457)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: jasper|:blue_square: S|1|Mar 10||StellaSmith
 [#16458](https://github.com/conan-io/conan-center-index/pull/16458)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: xz_utils|:green_circle: XS|2|Mar 10||Hopobcn, StellaSmith
-[#16463](https://github.com/conan-io/conan-center-index/pull/16463)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:stopwatch: vdpau|:blue_square: S|0|:eyes:||
-[#16464](https://github.com/conan-io/conan-center-index/pull/16464)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:stopwatch: vaapi|:blue_square: S|0|:eyes:||
+[#16464](https://github.com/conan-io/conan-center-index/pull/16464)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 8|:memo: vaapi|M|0|||
 [#16467](https://github.com/conan-io/conan-center-index/pull/16467)|[toge](https://github.com/toge)|Mar 8|:memo: fast_float|:blue_square: S|1|Mar 10||SpaceIm
 [#16468](https://github.com/conan-io/conan-center-index/pull/16468)|[toge](https://github.com/toge)|Mar 8|:memo: daw_header_libraries|:blue_square: S|0|:eyes:||
 [#16470](https://github.com/conan-io/conan-center-index/pull/16470)|[WilliamBehrens](https://github.com/WilliamBehrens)|Mar 8|:stopwatch: readline|L|0|:eyes:||
@@ -241,6 +240,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16533](https://github.com/conan-io/conan-center-index/pull/16533)|[SpaceIm](https://github.com/SpaceIm)|Mar 12|:memo: lemon|L|0|||
 [#16535](https://github.com/conan-io/conan-center-index/pull/16535)|[toge](https://github.com/toge)|Mar 12|:memo: msgpack-c|:blue_square: S|0|||
 [#16536](https://github.com/conan-io/conan-center-index/pull/16536)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 12|:memo: boost-leaf|:green_circle: XS|0|||
+[#16538](https://github.com/conan-io/conan-center-index/pull/16538)|[bjoernrennfanz](https://github.com/bjoernrennfanz)|Mar 12|:stopwatch: fltk|:blue_square: S|1|Mar 12||
 [#16540](https://github.com/conan-io/conan-center-index/pull/16540)|[toge](https://github.com/toge)|Mar 13|:memo: msgpack-cxx|:blue_square: S|0|||
 
 
@@ -271,8 +271,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 375
 	- Draft: 20
-	- Average Age: 46 days, 12 hours, and 7.55 minutes
-	- Stop Label: 115
+	- Average Age: 46 days, 13 hours, and 3.40 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
