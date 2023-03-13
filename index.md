@@ -177,7 +177,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16373](https://github.com/conan-io/conan-center-index/pull/16373)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:stopwatch: opencl-icd-loader|:blue_square: S|0|:eyes:||
 [#16374](https://github.com/conan-io/conan-center-index/pull/16374)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:memo: paho-mqtt-c|:green_circle: XS|0|:eyes:||
 [#16375](https://github.com/conan-io/conan-center-index/pull/16375)|[kielby](https://github.com/kielby)|Mar 4|:memo: wtl|L|0|||
-[#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:stopwatch: libtiff|L|0|||
+[#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: libtiff|L|0|||
 [#16380](https://github.com/conan-io/conan-center-index/pull/16380)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: onnx|M|2|Mar 11||
 [#16381](https://github.com/conan-io/conan-center-index/pull/16381)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: dlpack|L|0|:eyes:||
 [#16382](https://github.com/conan-io/conan-center-index/pull/16382)|[SpaceIm](https://github.com/SpaceIm)|Mar 4|:stopwatch: qpdf|M|0|:eyes:||
@@ -269,7 +269,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 375
 	- Draft: 20
-	- Average Age: 46 days, 7 hours, and 3.34 minutes
+	- Average Age: 46 days, 8 hours, and 5.58 minutes
 	- Stop Label: 115
 	
 
