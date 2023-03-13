@@ -469,19 +469,19 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15907",
-      "LastCommitSHA": "63fcd3d367dfe415bb57acecfbe98b4b18a0bbe1",
-      "LastCommitAt": "2023-03-13T06:15:25Z",
+      "LastCommitSHA": "54a4d6f76999ab0ea883b6268a7df2b78f353fe9",
+      "LastCommitAt": "2023-03-13T07:35:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "toge",
-            "SubmittedAt": "2023-02-14T03:03:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15907#pullrequestreview-1296758154"
+            "SubmittedAt": "2023-03-13T07:32:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15907#pullrequestreview-1336379785"
          }
       }
    },
@@ -1051,6 +1051,30 @@
             "ReviewerName": "Hopobcn",
             "SubmittedAt": "2023-02-16T16:30:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16065#pullrequestreview-1301845670"
+         }
+      }
+   },
+   {
+      "Number": 16067,
+      "OpenedBy": "AlexandrePTJ",
+      "CreatedAt": "2023-02-16T13:46:48Z",
+      "Recipe": "rapidfuzz",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16067",
+      "LastCommitSHA": "80d22c77f73436f896dd2bd599050a1b075db47a",
+      "LastCommitAt": "2023-03-13T07:44:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-03-10T15:59:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16067#pullrequestreview-1335132692"
          }
       }
    },
