@@ -222,7 +222,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -233,7 +233,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16077](https://github.com/conan-io/conan-center-index/pull/16077)|[toge](https://github.com/toge)|Feb 17|:warning: mcap|2|Croydon, prince-chrismc
 [#16144](https://github.com/conan-io/conan-center-index/pull/16144)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:warning: re2|2|toge, prince-chrismc
 [#16454](https://github.com/conan-io/conan-center-index/pull/16454)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: bzip2|4|Hopobcn, StellaSmith, jwillikers, prince-chrismc
-[#16455](https://github.com/conan-io/conan-center-index/pull/16455)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: expat|3|StellaSmith, jwillikers, prince-chrismc
 [#16456](https://github.com/conan-io/conan-center-index/pull/16456)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:warning: freetype|3|StellaSmith, jwillikers, prince-chrismc
 [#16457](https://github.com/conan-io/conan-center-index/pull/16457)|[SpaceIm](https://github.com/SpaceIm)|Mar 8|:memo: jasper|2|StellaSmith, prince-chrismc
 [#16472](https://github.com/conan-io/conan-center-index/pull/16472)|[Croydon](https://github.com/Croydon)|Mar 8|:warning: cmake|3|prince-chrismc, ericLemanissier
@@ -250,8 +249,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 356
 	- Draft: 20
-	- Average Age: 49 days, 7 hours, and 24.55 minutes
-	- Stop Label: 119
+	- Average Age: 49 days, 8 hours, and 20.35 minutes
+	- Stop Label: 120
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
