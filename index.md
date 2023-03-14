@@ -224,7 +224,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **20** pull requests are waiting to be merged :tada:
+Currently **18** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -246,8 +246,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16476](https://github.com/conan-io/conan-center-index/pull/16476)|[tylerjw](https://github.com/tylerjw)|Mar 9|:warning: backward-cpp|2|SpaceIm, prince-chrismc
 [#16485](https://github.com/conan-io/conan-center-index/pull/16485)|[roalter](https://github.com/roalter)|Mar 9|:warning: qt|4|MartinDelille, jwillikers, prince-chrismc
 [#16516](https://github.com/conan-io/conan-center-index/pull/16516)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: libevent|3|Hopobcn, jwillikers, prince-chrismc
-[#16517](https://github.com/conan-io/conan-center-index/pull/16517)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: libsndfile|3|jwillikers, Croydon, prince-chrismc
-[#16518](https://github.com/conan-io/conan-center-index/pull/16518)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: termcap|2|jwillikers, prince-chrismc
 [#16549](https://github.com/conan-io/conan-center-index/pull/16549)|[jhabermas](https://github.com/jhabermas)|Mar 13|:warning: zfp|2|RubenRBS, ericLemanissier
 
 
@@ -257,9 +255,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f1c5d0e5f1c3b9412b1494e7af08814b8565d8a3
 - Pull Requests:
-	- Open: 362
+	- Open: 360
 	- Draft: 19
-	- Average Age: 48 days, 7 hours, and 59.44 minutes
+	- Average Age: 48 days, 15 hours, and 9.87 minutes
 	- Stop Label: 117
 	
 
