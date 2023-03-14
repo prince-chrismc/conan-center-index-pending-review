@@ -918,33 +918,6 @@
       }
    },
    {
-      "Number": 16045,
-      "OpenedBy": "Cogitri",
-      "CreatedAt": "2023-02-15T13:22:24Z",
-      "Recipe": "libpq",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16045",
-      "LastCommitSHA": "5c8e7739b764021b18ae7eb106dac2a8f5f8e723",
-      "LastCommitAt": "2023-02-27T09:49:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-10T23:16:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16045#pullrequestreview-1335734424"
-         }
-      }
-   },
-   {
       "Number": 16053,
       "OpenedBy": "hedtke",
       "CreatedAt": "2023-02-15T20:55:25Z",
