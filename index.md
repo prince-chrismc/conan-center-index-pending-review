@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **173** pull requests currently under way :detective:
+There are **174** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -199,7 +199,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16565](https://github.com/conan-io/conan-center-index/pull/16565)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 14|:gear: .github|M|2|Mar 14||Croydon
 [#16566](https://github.com/conan-io/conan-center-index/pull/16566)|[SpaceIm](https://github.com/SpaceIm)|Mar 14|:stopwatch: giflib|:green_circle: XS|0|||
 [#16567](https://github.com/conan-io/conan-center-index/pull/16567)|[SpaceIm](https://github.com/SpaceIm)|Mar 14|:stopwatch: opencl-headers|:green_circle: XS|0|||
-[#16568](https://github.com/conan-io/conan-center-index/pull/16568)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:stopwatch: getopt-for-visual-studio|:blue_square: S|0|||
+[#16568](https://github.com/conan-io/conan-center-index/pull/16568)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: getopt-for-visual-studio|:blue_square: S|0|||
+[#16569](https://github.com/conan-io/conan-center-index/pull/16569)|[jdoubleu](https://github.com/jdoubleu)|Mar 15|:stopwatch: zbar|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -227,9 +228,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f1c5d0e5f1c3b9412b1494e7af08814b8565d8a3
 - Pull Requests:
-	- Open: 348
+	- Open: 349
 	- Draft: 21
-	- Average Age: 51 days, 2 hours, and 56.00 minutes
+	- Average Age: 51 days, and 39.99 minutes
 	- Stop Label: 130
 	
 
