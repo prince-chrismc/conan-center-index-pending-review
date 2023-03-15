@@ -119,19 +119,19 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	reviews = FilterAuthor(reviews, p.OpenedBy)
 	p.Summary = ProcessReviewComments(reviewers, reviews, p.LastCommitSHA)
 
-	// p.LastCommitAt, _, err = s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
-	// if err != nil {
-	// 	return nil, resp, err
-	// }
+	p.LastCommitAt, _, err = s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
+	if err != nil {
+		return nil, resp, err
+	}
 
-	// status, _, err := s.client.Repository.GetStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
-	// if errors.Is(err, ErrNoCommitStatus) {
-	// 	p.CciBotPassed = false
-	// } else if err != nil {
-	// 	return nil, resp, err
-	// } else {
-	// 	p.CciBotPassed = status.GetState() == "success"
-	// }
+	status, _, err := s.client.Repository.GetStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
+	if errors.Is(err, ErrNoCommitStatus) {
+		p.CciBotPassed = false
+	} else if err != nil {
+		return nil, resp, err
+	} else {
+		p.CciBotPassed = status.GetState() == "success"
+	}
 
 	if p.Change == DOCS { // Always save documentation pull requests
 		return p, resp, nil
