@@ -137,7 +137,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16302](https://github.com/conan-io/conan-center-index/pull/16302)|[toge](https://github.com/toge)|Feb 26|:stopwatch: etl|:blue_square: S|1|Mar 14||jcar87
 [#16303](https://github.com/conan-io/conan-center-index/pull/16303)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: libxls|M|1|Mar 3||jwillikers
 [#16304](https://github.com/conan-io/conan-center-index/pull/16304)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: matchit|M|1|Mar 3||jwillikers
-[#16307](https://github.com/conan-io/conan-center-index/pull/16307)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: cfitsio|L|3|Mar 14||jwillikers
+[#16307](https://github.com/conan-io/conan-center-index/pull/16307)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: cfitsio|L|3|Mar 14||jwillikers
 [#16309](https://github.com/conan-io/conan-center-index/pull/16309)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: civetweb|M|0|:eyes:||
 [#16315](https://github.com/conan-io/conan-center-index/pull/16315)|[SpaceIm](https://github.com/SpaceIm)|Feb 27|:memo: libvpx|L|3|Mar 14||paulharris
 [#16318](https://github.com/conan-io/conan-center-index/pull/16318)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 27|:stopwatch: mingw-builds|M|0|:eyes:||
@@ -231,7 +231,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 348
 	- Draft: 21
-	- Average Age: 51 days, 2 hours, and 15.66 minutes
+	- Average Age: 51 days, 3 hours, and 16.54 minutes
 	- Stop Label: 128
 	
 
