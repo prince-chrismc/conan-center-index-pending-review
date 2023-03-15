@@ -141,7 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16309](https://github.com/conan-io/conan-center-index/pull/16309)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: civetweb|M|0|:eyes:||
 [#16315](https://github.com/conan-io/conan-center-index/pull/16315)|[SpaceIm](https://github.com/SpaceIm)|Feb 27|:memo: libvpx|L|3|Mar 14||paulharris
 [#16318](https://github.com/conan-io/conan-center-index/pull/16318)|[ericLemanissier](https://github.com/ericLemanissier)|Feb 27|:stopwatch: mingw-builds|M|0|:eyes:||
-[#16323](https://github.com/conan-io/conan-center-index/pull/16323)|[github-actions[bot]](https://github.com/github-actions[bot])|Feb 27|:stopwatch: docs|:green_circle: XS|8|Mar 14||
+[#16323](https://github.com/conan-io/conan-center-index/pull/16323)|[github-actions[bot]](https://github.com/github-actions[bot])|Feb 27|:stopwatch: docs|:green_circle: XS|9|Mar 15||Croydon
 [#16328](https://github.com/conan-io/conan-center-index/pull/16328)|[0xFireWolf](https://github.com/0xFireWolf)|Feb 28|:stopwatch: antlr4-cppruntime|:blue_square: S|0|:eyes:||
 [#16331](https://github.com/conan-io/conan-center-index/pull/16331)|[elor](https://github.com/elor)|Feb 28|:stopwatch: qhull|L|0|:eyes:||
 [#16336](https://github.com/conan-io/conan-center-index/pull/16336)|[FaerHack](https://github.com/FaerHack)|Mar 1|:stopwatch: tgbot|L|0|:eyes:||
@@ -236,7 +236,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 354
 	- Draft: 21
-	- Average Age: 50 days, 1 hours, and 1.43 minutes
+	- Average Age: 50 days, 1 hours, and 39.28 minutes
 	- Stop Label: 129
 	
 
