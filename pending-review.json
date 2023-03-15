@@ -4136,6 +4136,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16568",
       "LastCommitSHA": "3c68ccba6ce693fff6f0f6fb2f247257dcda3965",
       "LastCommitAt": "2023-03-15T10:35:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 16569,
+      "OpenedBy": "jdoubleu",
+      "CreatedAt": "2023-03-15T11:16:38Z",
+      "Recipe": "zbar",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16569",
+      "LastCommitSHA": "9bf8af1d24d7ca7f120101442979af4d8686b835",
+      "LastCommitAt": "2023-03-15T11:10:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
