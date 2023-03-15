@@ -3,7 +3,6 @@ package pending_review
 import (
 	"context"
 	"encoding/json"
-	"fmt"
 	"net/http"
 	"testing"
 	"time"
@@ -2621,9 +2620,6 @@ func TestGetReviewSummary16144(t *testing.T) {
 
 	review, _, err := client.PullRequest.GetReviewSummary(context.Background(), "conan-io", "conan-center-index", &reviewers, pr)
 	assert.Equal(t, nil, err)
-
-	fmt.Printf("%+v\n", review)
-	fmt.Printf("%+v\n", review.Summary.LastReview)
 
 	const layout = "2006-01-02 15:04:05 -0700 MST"
 	createdAt, err := time.Parse(layout, "2023-02-19 15:10:36 +0000 UTC")
