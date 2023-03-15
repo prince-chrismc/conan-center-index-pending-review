@@ -5,6 +5,7 @@ import (
 	"fmt"
 
 	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal"
+	"github.com/prince-chrismc/conan-center-index-pending-review/v4/internal/stats"
 	"github.com/prince-chrismc/conan-center-index-pending-review/v4/pending_review"
 )
 
@@ -34,7 +35,7 @@ func SingleReviewStatus(token string, pr uint, owner string, repo string) error 
 	}
 
 	pulls := []*pending_review.PullRequest{pull}
-	_, _, err = gatherReviewStatus(context, client, reviewers, pulls)
+	summaries, _, err := gatherReviewStatus(context, client, reviewers, pulls)
 	if err != nil {
 		return fmt.Errorf("problem getting review status %w", err)
 	}
@@ -42,6 +43,14 @@ func SingleReviewStatus(token string, pr uint, owner string, repo string) error 
 	fmt.Println("::endgroup")
 
 	fmt.Println("::group::🖊️ Rendering data and saving results!")
+
+	// Make some fake data since the code assumes there's history
+	stat := stats.CountAtTime{}
+	stat.AddNow(0)
+
+	// Render and print the comment to verify the rest works as expected
+	commentBody := MakeCommentBody(summaries, stats.Stats{}, stat, owner, repo)
+	fmt.Println(commentBody)
 
 	fmt.Println("::endgroup")
 
