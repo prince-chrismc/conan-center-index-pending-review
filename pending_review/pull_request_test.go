@@ -2622,7 +2622,7 @@ func TestGetReviewSummary16144(t *testing.T) {
 	assert.Equal(t, nil, err)
 
 	const layout = "2006-01-02 15:04:05 -0700 MST"
-	createdAt, err := time.Parse(layout, "2023-02-19 15:10:36 +0000 UTC")
+	createdAt, err := time.Parse(layout, "2023-02-19 15:10:36 +0000 UTC") // This is the debug time from `%+v` formatter
 	assert.Equal(t, nil, err)
 	lastCommitAt, err := time.Parse(layout, "2023-02-19 15:10:08 +0000 UTC")
 	assert.Equal(t, nil, err)
