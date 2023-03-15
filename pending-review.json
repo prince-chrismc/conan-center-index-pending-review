@@ -2834,7 +2834,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16323",
       "LastCommitSHA": "8f05e0b5ed869796f08ecc27c24aa02b6b349424",
       "LastCommitAt": "2023-03-15T01:55:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 9,
          "ValidApprovals": 1,
@@ -3310,33 +3310,6 @@
       }
    },
    {
-      "Number": 16394,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-03-05T16:58:00Z",
-      "Recipe": "catch2",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16394",
-      "LastCommitSHA": "512ddb73b52b4f0867a2c6181ed3c7a16e4f09fa",
-      "LastCommitAt": "2023-03-12T21:35:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-03-14T13:39:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16394#pullrequestreview-1339305292"
-         }
-      }
-   },
-   {
       "Number": 16396,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-03-05T22:24:34Z",
@@ -3442,34 +3415,6 @@
             "ReviewerName": "Croydon",
             "SubmittedAt": "2023-03-07T11:36:38Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16419#pullrequestreview-1328195364"
-         }
-      }
-   },
-   {
-      "Number": 16425,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2023-03-07T17:09:44Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16425",
-      "LastCommitSHA": "d2225f041dde16a799c3140bea995dab9c536052",
-      "LastCommitAt": "2023-03-07T17:09:01Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "jwillikers",
-            "jcar87"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-03-14T14:39:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16425#pullrequestreview-1339460187"
          }
       }
    },
