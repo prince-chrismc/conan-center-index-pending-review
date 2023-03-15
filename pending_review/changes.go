@@ -1,7 +1,6 @@
 package pending_review
 
 import (
-	"context"
 	"fmt"
 	"strings"
 )
@@ -10,27 +9,6 @@ type change struct {
 	Recipe string
 	Change Category
 	Weight ReviewWeight
-}
-
-func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner string, repo string, number int, perPage int) (*change, *Response, error) {
-	files, resp, err := s.client.PullRequests.ListFiles(ctx, owner, repo, number, &ListOptions{
-		Page:    0,
-		PerPage: perPage,
-	})
-	if err != nil {
-		return nil, resp, err
-	}
-
-	if len(files) < 1 {
-		return nil, resp, fmt.Errorf("%w", ErrInvalidChange)
-	}
-
-	change, err := processChangedFiles(files)
-	if err != nil {
-		return nil, resp, err
-	}
-
-	return change, resp, nil
 }
 
 func processChangedFiles(files []*CommitFile) (*change, error) {
