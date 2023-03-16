@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -129,7 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16290](https://github.com/conan-io/conan-center-index/pull/16290)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:memo: elfio|L|2|Mar 3 :bell:||Hopobcn, jwillikers
 [#16291](https://github.com/conan-io/conan-center-index/pull/16291)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:stopwatch: harfbuzz|L|2|Mar 12||jwillikers
 [#16293](https://github.com/conan-io/conan-center-index/pull/16293)|[ZombieRaccoon](https://github.com/ZombieRaccoon)|Feb 25|:memo: earcut|M|0|:eyes:||
-[#16294](https://github.com/conan-io/conan-center-index/pull/16294)|[ZombieRaccoon](https://github.com/ZombieRaccoon)|Feb 25|:memo: glad|L|5|Mar 14||
+[#16294](https://github.com/conan-io/conan-center-index/pull/16294)|[ZombieRaccoon](https://github.com/ZombieRaccoon)|Feb 25|:memo: glad|L|6|Mar 16||markvilar
 [#16295](https://github.com/conan-io/conan-center-index/pull/16295)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: spirv-cross|L|0|:eyes:||
 [#16298](https://github.com/conan-io/conan-center-index/pull/16298)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:stopwatch: volk|:blue_square: S|0|:eyes:||
 [#16300](https://github.com/conan-io/conan-center-index/pull/16300)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: libpsl|L|0|:eyes:||
@@ -217,6 +217,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16581](https://github.com/conan-io/conan-center-index/pull/16581)|[grafikrobot](https://github.com/grafikrobot)|Mar 16|:stopwatch: b2|:green_circle: XS|0|||
 [#16582](https://github.com/conan-io/conan-center-index/pull/16582)|[toge](https://github.com/toge)|Mar 16|:stopwatch: numcpp|:blue_square: S|0|||
 [#16584](https://github.com/conan-io/conan-center-index/pull/16584)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 16|:stopwatch: qt|L|0|||
+[#16585](https://github.com/conan-io/conan-center-index/pull/16585)|[valgur](https://github.com/valgur)|Mar 16|:stopwatch: catch2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -250,7 +251,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 357
 	- Draft: 23
-	- Average Age: 50 days, 13 hours, and 36.05 minutes
+	- Average Age: 50 days, 14 hours, and 47.56 minutes
 	- Stop Label: 115
 	
 
