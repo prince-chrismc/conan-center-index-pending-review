@@ -53,7 +53,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15983](https://github.com/conan-io/conan-center-index/pull/15983)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:stopwatch: arrow|L|1|Feb 15 :bell:||jwillikers
 [#15995](https://github.com/conan-io/conan-center-index/pull/15995)|[calebkiage](https://github.com/calebkiage)|Feb 13|:stopwatch: outcome|L|0|:eyes:||
 [#16012](https://github.com/conan-io/conan-center-index/pull/16012)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:stopwatch: gdk-pixbuf|L|5|Mar 14||jwillikers
-[#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:stopwatch: soplex|M|0|:eyes:||
+[#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:stopwatch: soplex|M|0|||
 [#16019](https://github.com/conan-io/conan-center-index/pull/16019)|[toge](https://github.com/toge)|Feb 14|:new: tinyexif|M|2|Feb 18 :bell:||
 [#16028](https://github.com/conan-io/conan-center-index/pull/16028)|[chausner](https://github.com/chausner)|Feb 14|:stopwatch: liblsl|L|9|Feb 20 :bell:||
 [#16029](https://github.com/conan-io/conan-center-index/pull/16029)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: xerces-c|M|0|||
@@ -63,7 +63,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16060](https://github.com/conan-io/conan-center-index/pull/16060)|[toge](https://github.com/toge)|Feb 16|:stopwatch: im95able-rea|M|1|Mar 15||uilianries
 [#16065](https://github.com/conan-io/conan-center-index/pull/16065)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:memo: g3log|M|1|Feb 16 :bell:||Hopobcn
 [#16067](https://github.com/conan-io/conan-center-index/pull/16067)|[AlexandrePTJ](https://github.com/AlexandrePTJ)|Feb 16|:memo: rapidfuzz|L|5|Mar 14||uilianries
-[#16071](https://github.com/conan-io/conan-center-index/pull/16071)|[hedtke](https://github.com/hedtke)|Feb 16|:stopwatch: minisat|M|0|:eyes:||
+[#16071](https://github.com/conan-io/conan-center-index/pull/16071)|[hedtke](https://github.com/hedtke)|Feb 16|:stopwatch: minisat|M|0|||
 [#16075](https://github.com/conan-io/conan-center-index/pull/16075)|[SpaceIm](https://github.com/SpaceIm)|Feb 16|:stopwatch: pulseaudio|:blue_square: S|5|Mar 12||jwillikers
 [#16076](https://github.com/conan-io/conan-center-index/pull/16076)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: highway|:blue_square: S|0|:eyes:||
 [#16078](https://github.com/conan-io/conan-center-index/pull/16078)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:stopwatch: hdf5|L|1|Mar 12||
@@ -228,7 +228,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14792](https://github.com/conan-io/conan-center-index/pull/14792)|[SpaceIm](https://github.com/SpaceIm)|Dec 17|:memo: xapian-core|7|samuel-emrys, prince-chrismc
 [#15464](https://github.com/conan-io/conan-center-index/pull/15464)|[toge](https://github.com/toge)|Jan 25|:memo: mdspan|2|prince-chrismc, jwillikers
 [#15930](https://github.com/conan-io/conan-center-index/pull/15930)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: date|9|jwillikers, uilianries
-[#15967](https://github.com/conan-io/conan-center-index/pull/15967)|[toge](https://github.com/toge)|Feb 13|:warning: ftxui|2|jwillikers, prince-chrismc
+[#15967](https://github.com/conan-io/conan-center-index/pull/15967)|[toge](https://github.com/toge)|Feb 13|:memo: ftxui|2|jwillikers, prince-chrismc
 [#16003](https://github.com/conan-io/conan-center-index/pull/16003)|[toge](https://github.com/toge)|Feb 14|:memo: cxxopts|11|prince-chrismc, jwillikers
 [#16038](https://github.com/conan-io/conan-center-index/pull/16038)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:memo: unqlite|2|danimtb, uilianries
 [#16042](https://github.com/conan-io/conan-center-index/pull/16042)|[toge](https://github.com/toge)|Feb 15|:warning: jfalcou-eve|2|danimtb, uilianries
@@ -248,7 +248,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 355
 	- Draft: 22
-	- Average Age: 50 days, 16 hours, and 27.49 minutes
+	- Average Age: 50 days, 17 hours, and 31.92 minutes
 	- Stop Label: 116
 	
 
