@@ -150,8 +150,10 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		review, _, err := client.PullRequest.GetReviewSummary(context, "conan-io", "conan-center-index", reviewers, pr)
 		if errors.Is(err, pending_review.ErrStoppedLabel) {
 			stats.Stopped++
+			fmt.Printf("%d rejected for %v\n", pr.GetNumber(), err)
 			continue
 		} else if errors.Is(err, pending_review.ErrNoReviews) || errors.Is(err, pending_review.ErrInvalidChange) || errors.Is(err, pending_review.ErrBumpLabel) {
+			fmt.Printf("%d rejected for %v\n", pr.GetNumber(), err)
 			continue
 		} else if err != nil {
 			return nil, stats, fmt.Errorf("problem getting list of reviews %w", err)
