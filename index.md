@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **184** pull requests currently under way :detective:
+There are **185** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -211,6 +211,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16597](https://github.com/conan-io/conan-center-index/pull/16597)|[schuetzle-vector](https://github.com/schuetzle-vector)|Mar 17|:memo: websocketpp|:green_circle: XS|0|||
 [#16600](https://github.com/conan-io/conan-center-index/pull/16600)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: fakeit|M|0|||
 [#16601](https://github.com/conan-io/conan-center-index/pull/16601)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: namedtype|L|0|||
+[#16602](https://github.com/conan-io/conan-center-index/pull/16602)|[lkotsonis](https://github.com/lkotsonis)|Mar 17|:stopwatch: shield|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -233,9 +234,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 349
+	- Open: 350
 	- Draft: 24
-	- Average Age: 51 days, 3 hours, and 47.00 minutes
+	- Average Age: 51 days, 1 hours, and 9.00 minutes
 	- Stop Label: 123
 	
 
