@@ -783,33 +783,6 @@
       }
    },
    {
-      "Number": 16075,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-16T21:56:45Z",
-      "Recipe": "pulseaudio",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16075",
-      "LastCommitSHA": "3971bc98ad4675a1eff72dd1d7152ae2351279a4",
-      "LastCommitAt": "2023-03-11T13:12:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-17T21:15:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16075#pullrequestreview-1346746225"
-         }
-      }
-   },
-   {
       "Number": 16076,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-02-17T00:34:03Z",
