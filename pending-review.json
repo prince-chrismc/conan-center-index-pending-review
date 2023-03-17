@@ -150,33 +150,6 @@
       }
    },
    {
-      "Number": 14792,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2022-12-17T23:20:59Z",
-      "Recipe": "xapian-core",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14792",
-      "LastCommitSHA": "61d2cd08d21002f4298afe8e36882c4a5ed92c8a",
-      "LastCommitAt": "2023-03-08T23:33:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "samuel-emrys",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-13T20:19:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14792#pullrequestreview-1337886390"
-         }
-      }
-   },
-   {
       "Number": 14907,
       "OpenedBy": "larshg",
       "CreatedAt": "2022-12-23T11:23:16Z",
@@ -3741,25 +3714,6 @@
       "LastCommitSHA": "ef253838b53a89daa168d3824138f3d4613abe52",
       "LastCommitAt": "2023-03-11T16:28:04Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 16528,
-      "OpenedBy": "psyinf",
-      "CreatedAt": "2023-03-11T20:59:12Z",
-      "Recipe": "vsg",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16528",
-      "LastCommitSHA": "c4d7c8dd16c97101075afd91f1090fa848edcca9",
-      "LastCommitAt": "2023-03-15T21:59:06Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
