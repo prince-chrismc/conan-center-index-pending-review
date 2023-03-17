@@ -4230,5 +4230,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 16602,
+      "OpenedBy": "lkotsonis",
+      "CreatedAt": "2023-03-17T14:05:42Z",
+      "Recipe": "shield",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16602",
+      "LastCommitSHA": "02c9fbfe88ea8d4aa76ffe8107b783a105e3d959",
+      "LastCommitAt": "2023-03-17T14:03:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
