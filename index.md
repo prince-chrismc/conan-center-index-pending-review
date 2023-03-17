@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **185** pull requests currently under way :detective:
+There are **184** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -158,7 +158,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16393](https://github.com/conan-io/conan-center-index/pull/16393)|[toge](https://github.com/toge)|Mar 5|:stopwatch: watcher|:blue_square: S|0|:eyes:||
 [#16396](https://github.com/conan-io/conan-center-index/pull/16396)|[SpaceIm](https://github.com/SpaceIm)|Mar 5|:new: libnabo|L|0|:eyes:||
 [#16404](https://github.com/conan-io/conan-center-index/pull/16404)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 6|:stopwatch: qt|L|7|Mar 15||jwillikers, MartinDelille
-[#16412](https://github.com/conan-io/conan-center-index/pull/16412)|[barynton](https://github.com/barynton)|Mar 6|:stopwatch: lightgbm|:blue_square: S|1|Mar 10||
 [#16413](https://github.com/conan-io/conan-center-index/pull/16413)|[Kasurus](https://github.com/Kasurus)|Mar 6|:memo: fftw|:green_circle: XS|1|Mar 15||SpaceIm
 [#16417](https://github.com/conan-io/conan-center-index/pull/16417)|[kenneth-jia](https://github.com/kenneth-jia)|Mar 7|:stopwatch: modern-cpp-kafka|:blue_square: S|0|:eyes:||
 [#16419](https://github.com/conan-io/conan-center-index/pull/16419)|[Nekto89](https://github.com/Nekto89)|Mar 7|:stopwatch: gdcm|:blue_square: S|1|Mar 7||Croydon
@@ -211,7 +210,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16597](https://github.com/conan-io/conan-center-index/pull/16597)|[schuetzle-vector](https://github.com/schuetzle-vector)|Mar 17|:memo: websocketpp|:green_circle: XS|0|||
 [#16600](https://github.com/conan-io/conan-center-index/pull/16600)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: fakeit|M|0|||
 [#16601](https://github.com/conan-io/conan-center-index/pull/16601)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: namedtype|L|0|||
-[#16602](https://github.com/conan-io/conan-center-index/pull/16602)|[lkotsonis](https://github.com/lkotsonis)|Mar 17|:stopwatch: shield|:blue_square: S|0|||
+[#16604](https://github.com/conan-io/conan-center-index/pull/16604)|[jcar87](https://github.com/jcar87)|Mar 17|:stopwatch: pthreads4w|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -234,10 +233,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 350
+	- Open: 351
 	- Draft: 24
-	- Average Age: 51 days, 1 hours, and 9.00 minutes
-	- Stop Label: 123
+	- Average Age: 50 days, 22 hours, and 40.75 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
