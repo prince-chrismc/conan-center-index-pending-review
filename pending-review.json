@@ -4086,11 +4086,19 @@
       "LastCommitAt": "2023-03-17T14:35:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "memsharded",
+            "davidsanfal"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "davidsanfal",
+            "SubmittedAt": "2023-03-17T17:51:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16604#pullrequestreview-1346431390"
+         }
       }
    }
 ]
