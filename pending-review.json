@@ -4044,6 +4044,32 @@
       "LastCommitAt": "2023-03-18T18:05:58Z",
       "CciBotPassed": false,
       "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-03-18T21:54:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16611#pullrequestreview-1347256051"
+         }
+      }
+   },
+   {
+      "Number": 16613,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-03-18T22:13:19Z",
+      "Recipe": "librasterlite2",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16613",
+      "LastCommitSHA": "cf0eca30ccf9be2d2ee50dbdcc19b7a431e02dd2",
+      "LastCommitAt": "2023-03-18T22:12:47Z",
+      "CciBotPassed": false,
+      "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
