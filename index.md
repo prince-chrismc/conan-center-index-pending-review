@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **148** pull requests currently under way :detective:
+There are **149** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -174,7 +174,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16601](https://github.com/conan-io/conan-center-index/pull/16601)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: namedtype|L|1|Mar 18||StellaSmith
 [#16608](https://github.com/conan-io/conan-center-index/pull/16608)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: wt|M|0|||
 [#16610](https://github.com/conan-io/conan-center-index/pull/16610)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:memo: libmysqlclient|L|0|||
-[#16611](https://github.com/conan-io/conan-center-index/pull/16611)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: libspatialite|L|0|||
+[#16611](https://github.com/conan-io/conan-center-index/pull/16611)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: libspatialite|L|1|Mar 18||jwillikers
+[#16613](https://github.com/conan-io/conan-center-index/pull/16613)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite2|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -221,9 +222,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 342
+	- Open: 343
 	- Draft: 23
-	- Average Age: 50 days, 18 hours, and 50.89 minutes
+	- Average Age: 50 days, 17 hours, and 16.32 minutes
 	- Stop Label: 128
 	
 
