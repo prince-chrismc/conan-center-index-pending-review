@@ -33,6 +33,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14543](https://github.com/conan-io/conan-center-index/pull/14543)|[antekone](https://github.com/antekone)|Dec 2|:stopwatch: loguru|L|2|Jan 16 :bell:||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6|uilianries|
 [#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:stopwatch: mpfr|L|15|Feb 16 :bell:|prince-chrismc|
+[#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: ceres-solver|XL|5|Mar 7||jwillikers
 [#14907](https://github.com/conan-io/conan-center-index/pull/14907)|[larshg](https://github.com/larshg)|Dec 23|:stopwatch: gstreamer|L|2|Jan 3 :bell:||
 [#15035](https://github.com/conan-io/conan-center-index/pull/15035)|[MartinDelille](https://github.com/MartinDelille)|Dec 31|:stopwatch: ffmpeg|L|7|Feb 8 :bell:||
 [#15092](https://github.com/conan-io/conan-center-index/pull/15092)|[gjasny](https://github.com/gjasny)|Jan 3|:memo: rapidcheck|L|0|:eyes:||
@@ -163,8 +164,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16564](https://github.com/conan-io/conan-center-index/pull/16564)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 14|:stopwatch: grpc|:green_circle: XS|0|:eyes:||
 [#16566](https://github.com/conan-io/conan-center-index/pull/16566)|[SpaceIm](https://github.com/SpaceIm)|Mar 14|:stopwatch: giflib|:green_circle: XS|0|:eyes:||
 [#16567](https://github.com/conan-io/conan-center-index/pull/16567)|[SpaceIm](https://github.com/SpaceIm)|Mar 14|:memo: opencl-headers|:green_circle: XS|0|:eyes:||
-[#16568](https://github.com/conan-io/conan-center-index/pull/16568)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: getopt-for-visual-studio|:blue_square: S|0|||
-[#16569](https://github.com/conan-io/conan-center-index/pull/16569)|[jdoubleu](https://github.com/jdoubleu)|Mar 15|:stopwatch: zbar|M|0|||
+[#16568](https://github.com/conan-io/conan-center-index/pull/16568)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: getopt-for-visual-studio|:blue_square: S|0|:eyes:||
+[#16569](https://github.com/conan-io/conan-center-index/pull/16569)|[jdoubleu](https://github.com/jdoubleu)|Mar 15|:stopwatch: zbar|M|0|:eyes:||
 [#16578](https://github.com/conan-io/conan-center-index/pull/16578)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:stopwatch: glib|:green_circle: XS|0|||
 [#16579](https://github.com/conan-io/conan-center-index/pull/16579)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: lcms|:blue_square: S|0|||
 [#16580](https://github.com/conan-io/conan-center-index/pull/16580)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: libspng|:green_circle: XS|0|||
@@ -175,7 +176,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16600](https://github.com/conan-io/conan-center-index/pull/16600)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: fakeit|M|0|||
 [#16601](https://github.com/conan-io/conan-center-index/pull/16601)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: namedtype|L|0|||
 [#16608](https://github.com/conan-io/conan-center-index/pull/16608)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: wt|M|0|||
-[#16609](https://github.com/conan-io/conan-center-index/pull/16609)|[toge](https://github.com/toge)|Mar 18|:stopwatch: imgui|:green_circle: XS|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -220,8 +220,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 340
 	- Draft: 23
-	- Average Age: 50 days, 16 hours, and 23.58 minutes
-	- Stop Label: 131
+	- Average Age: 50 days, 17 hours, and 21.76 minutes
+	- Stop Label: 130
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
