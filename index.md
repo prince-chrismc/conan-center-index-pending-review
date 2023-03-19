@@ -170,12 +170,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **31** pull requests are waiting to be merged :tada:
+Currently **32** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15336](https://github.com/conan-io/conan-center-index/pull/15336)|[kletoz](https://github.com/kletoz)|Jan 17|:warning: openssl|4|prince-chrismc, jwillikers
+[#15883](https://github.com/conan-io/conan-center-index/pull/15883)|[Croydon](https://github.com/Croydon)|Feb 10|:warning: dcmtk|2|uilianries, prince-chrismc
 [#15965](https://github.com/conan-io/conan-center-index/pull/15965)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: gamma|2|prince-chrismc, jwillikers
 [#16060](https://github.com/conan-io/conan-center-index/pull/16060)|[toge](https://github.com/toge)|Feb 16|:warning: im95able-rea|2|uilianries, prince-chrismc
 [#16080](https://github.com/conan-io/conan-center-index/pull/16080)|[toge](https://github.com/toge)|Feb 17|:warning: semimap|2|uilianries, jwillikers
@@ -216,8 +217,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 347
 	- Draft: 35
-	- Average Age: 50 days, 22 hours, and 2.88 minutes
-	- Stop Label: 127
+	- Average Age: 50 days, 23 hours, and 7.43 minutes
+	- Stop Label: 126
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
