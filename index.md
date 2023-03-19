@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **138** pull requests currently under way :detective:
+There are **139** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -164,7 +164,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16608](https://github.com/conan-io/conan-center-index/pull/16608)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: wt|M|1|Mar 19||jwillikers
 [#16610](https://github.com/conan-io/conan-center-index/pull/16610)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:memo: libmysqlclient|L|1|Mar 19||jwillikers
 [#16611](https://github.com/conan-io/conan-center-index/pull/16611)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: libspatialite|L|1|Mar 18||jwillikers
-[#16617](https://github.com/conan-io/conan-center-index/pull/16617)|[SpaceIm](https://github.com/SpaceIm)|Mar 19|:stopwatch: robin-hood-hashing|M|0|||
+[#16617](https://github.com/conan-io/conan-center-index/pull/16617)|[SpaceIm](https://github.com/SpaceIm)|Mar 19|:memo: robin-hood-hashing|M|0|||
+[#16618](https://github.com/conan-io/conan-center-index/pull/16618)|[hkk2023](https://github.com/hkk2023)|Mar 19|:stopwatch: freetype|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -213,9 +214,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 346
+	- Open: 347
 	- Draft: 35
-	- Average Age: 51 days, and 40.39 minutes
+	- Average Age: 50 days, 22 hours, and 2.88 minutes
 	- Stop Label: 127
 	
 
