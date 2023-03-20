@@ -1961,25 +1961,6 @@
       }
    },
    {
-      "Number": 16293,
-      "OpenedBy": "ZombieRaccoon",
-      "CreatedAt": "2023-02-25T20:40:10Z",
-      "Recipe": "earcut",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16293",
-      "LastCommitSHA": "48c0b84a707502b13cd5c01fffc248b91d7c06c1",
-      "LastCommitAt": "2023-03-11T23:08:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 16295,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-02-26T00:10:52Z",
@@ -3714,9 +3695,9 @@
       "CreatedAt": "2023-03-20T21:04:19Z",
       "Recipe": "coin-osi",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16633",
-      "LastCommitSHA": "0640aa15ff29204f23a4a131ddb29a525f6ab66e",
+      "LastCommitSHA": "8f0c7bcb75cc182b2ccb4617da4b1a14986fc67f",
       "LastCommitAt": "2023-03-20T21:03:50Z",
       "CciBotPassed": false,
       "Summary": {
