@@ -3486,25 +3486,6 @@
       }
    },
    {
-      "Number": 16551,
-      "OpenedBy": "fong7x7",
-      "CreatedAt": "2023-03-13T20:33:10Z",
-      "Recipe": "freeglut",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16551",
-      "LastCommitSHA": "084a040e6a1932b59a6c7da80c29b1a094ca7282",
-      "LastCommitAt": "2023-03-19T20:58:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 16558,
       "OpenedBy": "jowr",
       "CreatedAt": "2023-03-14T13:31:05Z",
@@ -4020,25 +4001,6 @@
       "LastCommitSHA": "e04509b927f649c007333858f9c96ed3b2159c86",
       "LastCommitAt": "2023-03-19T20:52:26Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 16623,
-      "OpenedBy": "fong7x7",
-      "CreatedAt": "2023-03-19T22:50:08Z",
-      "Recipe": "ceres-solver",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16623",
-      "LastCommitSHA": "6c3550c22279fbb6817241f1d4dd8c2ea6a63f58",
-      "LastCommitAt": "2023-03-20T00:09:19Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
