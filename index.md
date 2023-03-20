@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **143** pull requests currently under way :detective:
+There are **142** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -94,7 +94,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16278](https://github.com/conan-io/conan-center-index/pull/16278)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:stopwatch: libtorrent|M|4|Mar 19||jwillikers
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:stopwatch: rmlui|L|0|:eyes:||
 [#16291](https://github.com/conan-io/conan-center-index/pull/16291)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:memo: harfbuzz|L|2|Mar 12||jwillikers
-[#16293](https://github.com/conan-io/conan-center-index/pull/16293)|[ZombieRaccoon](https://github.com/ZombieRaccoon)|Feb 25|:memo: earcut|M|0|:eyes:||
 [#16295](https://github.com/conan-io/conan-center-index/pull/16295)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: spirv-cross|L|0|:eyes:||
 [#16298](https://github.com/conan-io/conan-center-index/pull/16298)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: volk|:blue_square: S|0|:eyes:||
 [#16300](https://github.com/conan-io/conan-center-index/pull/16300)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: libpsl|L|0|:eyes:||
@@ -169,7 +168,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16626](https://github.com/conan-io/conan-center-index/pull/16626)|[SpaceIm](https://github.com/SpaceIm)|Mar 20|:memo: freeglut|L|0|||
 [#16628](https://github.com/conan-io/conan-center-index/pull/16628)|[toge](https://github.com/toge)|Mar 20|:memo: libcurl|:blue_square: S|1|Mar 20||prince-chrismc
 [#16630](https://github.com/conan-io/conan-center-index/pull/16630)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 20|:gear: .c3i|:green_circle: XS|0|||
-[#16633](https://github.com/conan-io/conan-center-index/pull/16633)|[SpaceIm](https://github.com/SpaceIm)|Mar 20|:stopwatch: coin-osi|:green_circle: XS|0|||
+[#16633](https://github.com/conan-io/conan-center-index/pull/16633)|[SpaceIm](https://github.com/SpaceIm)|Mar 20|:stopwatch: coin-osi|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -206,9 +205,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 338
+	- Open: 337
 	- Draft: 34
-	- Average Age: 52 days, 18 hours, and 13.49 minutes
+	- Average Age: 52 days, 21 hours, and 20.50 minutes
 	- Stop Label: 129
 	
 
