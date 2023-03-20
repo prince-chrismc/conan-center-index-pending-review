@@ -149,6 +149,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16567](https://github.com/conan-io/conan-center-index/pull/16567)|[SpaceIm](https://github.com/SpaceIm)|Mar 14|:memo: opencl-headers|:green_circle: XS|1|Mar 18||StellaSmith
 [#16568](https://github.com/conan-io/conan-center-index/pull/16568)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: getopt-for-visual-studio|:blue_square: S|1|Mar 18||StellaSmith
 [#16569](https://github.com/conan-io/conan-center-index/pull/16569)|[jdoubleu](https://github.com/jdoubleu)|Mar 15|:stopwatch: zbar|M|0|:eyes:||
+[#16577](https://github.com/conan-io/conan-center-index/pull/16577)|[Sneder89](https://github.com/Sneder89)|Mar 15|:stopwatch: cppcheck|M|2|Mar 17||
 [#16578](https://github.com/conan-io/conan-center-index/pull/16578)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: glib|:green_circle: XS|1|Mar 18||StellaSmith
 [#16579](https://github.com/conan-io/conan-center-index/pull/16579)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: lcms|:blue_square: S|1|Mar 18||StellaSmith
 [#16580](https://github.com/conan-io/conan-center-index/pull/16580)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: libspng|:green_circle: XS|1|Mar 18||StellaSmith
@@ -159,7 +160,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16593](https://github.com/conan-io/conan-center-index/pull/16593)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 17|:green_book: docs|:blue_square: S|1|Mar 18||
 [#16600](https://github.com/conan-io/conan-center-index/pull/16600)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: fakeit|M|1|Mar 18||StellaSmith
 [#16601](https://github.com/conan-io/conan-center-index/pull/16601)|[gjasny](https://github.com/gjasny)|Mar 17|:memo: namedtype|L|1|Mar 18||StellaSmith
-[#16605](https://github.com/conan-io/conan-center-index/pull/16605)|[jcar87](https://github.com/jcar87)|Mar 17|:stopwatch: pcapplusplus|L|0|||
 [#16608](https://github.com/conan-io/conan-center-index/pull/16608)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: wt|M|1|Mar 19||jwillikers
 [#16610](https://github.com/conan-io/conan-center-index/pull/16610)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:memo: libmysqlclient|L|1|Mar 19||jwillikers
 [#16611](https://github.com/conan-io/conan-center-index/pull/16611)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: libspatialite|L|1|Mar 18||jwillikers
@@ -220,7 +220,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 350
 	- Draft: 35
-	- Average Age: 51 days, and 14.05 minutes
+	- Average Age: 51 days, 1 hours, and 9.46 minutes
 	- Stop Label: 126
 	
 
