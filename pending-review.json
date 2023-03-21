@@ -1229,34 +1229,6 @@
       }
    },
    {
-      "Number": 16152,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-19T21:31:11Z",
-      "Recipe": "librttopo",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16152",
-      "LastCommitSHA": "766019fae177af0e165ec9dcf1efa877ac319c17",
-      "LastCommitAt": "2023-02-19T23:30:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "toge",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-17T23:33:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16152#pullrequestreview-1346831506"
-         }
-      }
-   },
-   {
       "Number": 16157,
       "OpenedBy": "LHLaurini",
       "CreatedAt": "2023-02-20T02:01:24Z",
