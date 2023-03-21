@@ -74,7 +74,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16166](https://github.com/conan-io/conan-center-index/pull/16166)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 20|:stopwatch: sdl_image|:green_circle: XS|0|:eyes:||
 [#16167](https://github.com/conan-io/conan-center-index/pull/16167)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:stopwatch: sdl_image|M|1|Mar 19||jwillikers
 [#16171](https://github.com/conan-io/conan-center-index/pull/16171)|[Nekto89](https://github.com/Nekto89)|Feb 20|:stopwatch: minizip-ng|:blue_square: S|0|:eyes:||
-[#16175](https://github.com/conan-io/conan-center-index/pull/16175)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Feb 20|:stopwatch: libcurl|:green_circle: XS|1|Feb 20 :bell:||
+[#16175](https://github.com/conan-io/conan-center-index/pull/16175)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Feb 20|:stopwatch: libcurl|:green_circle: XS|2|Mar 21||Hopobcn
 [#16178](https://github.com/conan-io/conan-center-index/pull/16178)|[maxpagani](https://github.com/maxpagani)|Feb 20|:new: chef-fun|M|2|Mar 11||RubenRBS
 [#16181](https://github.com/conan-io/conan-center-index/pull/16181)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:memo: libverto|L|2|Mar 12||jwillikers
 [#16197](https://github.com/conan-io/conan-center-index/pull/16197)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 21|:stopwatch: onetbb|M|0|:eyes:||
@@ -171,12 +171,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16628](https://github.com/conan-io/conan-center-index/pull/16628)|[toge](https://github.com/toge)|Mar 20|:memo: libcurl|:blue_square: S|1|Mar 20||prince-chrismc
 [#16630](https://github.com/conan-io/conan-center-index/pull/16630)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 20|:gear: .c3i|:green_circle: XS|0|||
 [#16632](https://github.com/conan-io/conan-center-index/pull/16632)|[gjasny](https://github.com/gjasny)|Mar 20|:new: popt|L|0|||
-[#16633](https://github.com/conan-io/conan-center-index/pull/16633)|[SpaceIm](https://github.com/SpaceIm)|Mar 20|:stopwatch: coin-osi|:blue_square: S|0|||
+[#16633](https://github.com/conan-io/conan-center-index/pull/16633)|[SpaceIm](https://github.com/SpaceIm)|Mar 20|:memo: coin-osi|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -184,11 +184,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#14855](https://github.com/conan-io/conan-center-index/pull/14855)|[SpaceIm](https://github.com/SpaceIm)|Dec 20|:memo: ceres-solver|7|jwillikers, SSE4, prince-chrismc
 [#15336](https://github.com/conan-io/conan-center-index/pull/15336)|[kletoz](https://github.com/kletoz)|Jan 17|:warning: openssl|4|prince-chrismc, jwillikers
 [#15883](https://github.com/conan-io/conan-center-index/pull/15883)|[Croydon](https://github.com/Croydon)|Feb 10|:warning: dcmtk|2|uilianries, prince-chrismc
-[#15965](https://github.com/conan-io/conan-center-index/pull/15965)|[SpaceIm](https://github.com/SpaceIm)|Feb 13|:memo: gamma|2|prince-chrismc, jwillikers
 [#16302](https://github.com/conan-io/conan-center-index/pull/16302)|[toge](https://github.com/toge)|Feb 26|:warning: etl|2|jcar87, prince-chrismc
 [#16472](https://github.com/conan-io/conan-center-index/pull/16472)|[Croydon](https://github.com/Croydon)|Mar 8|:warning: cmake|3|prince-chrismc, ericLemanissier
 [#16476](https://github.com/conan-io/conan-center-index/pull/16476)|[tylerjw](https://github.com/tylerjw)|Mar 9|:warning: backward-cpp|2|SpaceIm, prince-chrismc
-[#16635](https://github.com/conan-io/conan-center-index/pull/16635)|[RubenRBS](https://github.com/RubenRBS)|Mar 21|:gear: .c3i|2|danimtb, uilianries
 
 
 #### :clipboard: Statistics
@@ -197,9 +195,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 328
+	- Open: 326
 	- Draft: 34
-	- Average Age: 53 days, 18 hours, and 45.45 minutes
+	- Average Age: 54 days, and 55.77 minutes
 	- Stop Label: 127
 	
 
