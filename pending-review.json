@@ -3114,7 +3114,7 @@
       "LastCommitAt": "2023-03-19T13:27:13Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -3122,9 +3122,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-03-21T14:40:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16605#pullrequestreview-1350649272"
+            "ReviewerName": "seladb",
+            "SubmittedAt": "2023-03-22T06:39:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16605#pullrequestreview-1351808719"
          }
       }
    },
