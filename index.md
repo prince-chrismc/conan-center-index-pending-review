@@ -173,7 +173,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -185,8 +185,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16476](https://github.com/conan-io/conan-center-index/pull/16476)|[tylerjw](https://github.com/tylerjw)|Mar 9|:warning: backward-cpp|2|SpaceIm, prince-chrismc
 [#16529](https://github.com/conan-io/conan-center-index/pull/16529)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:warning: ffmpeg|5|MartinDelille, StellaSmith, SSE4, prince-chrismc
 [#16567](https://github.com/conan-io/conan-center-index/pull/16567)|[SpaceIm](https://github.com/SpaceIm)|Mar 14|:memo: opencl-headers|2|StellaSmith, danimtb
-[#16578](https://github.com/conan-io/conan-center-index/pull/16578)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: glib|2|StellaSmith, danimtb
-[#16579](https://github.com/conan-io/conan-center-index/pull/16579)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: lcms|2|StellaSmith, danimtb
 
 
 #### :clipboard: Statistics
@@ -195,9 +193,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 329
+	- Open: 327
 	- Draft: 34
-	- Average Age: 54 days, 7 hours, and 3.19 minutes
+	- Average Age: 54 days, 15 hours, and 0.18 minutes
 	- Stop Label: 133
 	
 
