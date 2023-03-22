@@ -2768,33 +2768,6 @@
       }
    },
    {
-      "Number": 16567,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-03-14T22:43:33Z",
-      "Recipe": "opencl-headers",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16567",
-      "LastCommitSHA": "54cd856374a95fd3827a6953a8377e9bc103c4d8",
-      "LastCommitAt": "2023-03-14T22:42:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "StellaSmith",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-03-21T16:35:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16567#pullrequestreview-1350937612"
-         }
-      }
-   },
-   {
       "Number": 16568,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-03-15T10:37:33Z",
