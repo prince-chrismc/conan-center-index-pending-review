@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **142** pull requests currently under way :detective:
+There are **141** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -140,7 +140,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16533](https://github.com/conan-io/conan-center-index/pull/16533)|[SpaceIm](https://github.com/SpaceIm)|Mar 12|:memo: lemon|L|2|Mar 18||jwillikers, StellaSmith
 [#16538](https://github.com/conan-io/conan-center-index/pull/16538)|[bjoernrennfanz](https://github.com/bjoernrennfanz)|Mar 12|:stopwatch: fltk|:blue_square: S|5|Mar 21||sblkr, jonaskarp, Blaxsmith, david-bueno
 [#16558](https://github.com/conan-io/conan-center-index/pull/16558)|[jowr](https://github.com/jowr)|Mar 14|:memo: libtommath|L|0|||
-[#16563](https://github.com/conan-io/conan-center-index/pull/16563)|[jngrb](https://github.com/jngrb)|Mar 14|:stopwatch: openssl|L|0|||
 [#16564](https://github.com/conan-io/conan-center-index/pull/16564)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 14|:stopwatch: grpc|:green_circle: XS|1|Mar 19||jwillikers
 [#16568](https://github.com/conan-io/conan-center-index/pull/16568)|[SpaceIm](https://github.com/SpaceIm)|Mar 15|:memo: getopt-for-visual-studio|:blue_square: S|1|Mar 18||StellaSmith
 [#16569](https://github.com/conan-io/conan-center-index/pull/16569)|[jdoubleu](https://github.com/jdoubleu)|Mar 15|:stopwatch: zbar|M|0|:eyes:||
@@ -167,7 +166,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16638](https://github.com/conan-io/conan-center-index/pull/16638)|[jputcu](https://github.com/jputcu)|Mar 21|:memo: arduinojson|:blue_square: S|0|||
 [#16643](https://github.com/conan-io/conan-center-index/pull/16643)|[agagniere](https://github.com/agagniere)|Mar 21|:stopwatch: asio|:green_circle: XS|0|||
 [#16645](https://github.com/conan-io/conan-center-index/pull/16645)|[chausner](https://github.com/chausner)|Mar 21|:memo: concurrencpp|:blue_square: S|0|||
-[#16653](https://github.com/conan-io/conan-center-index/pull/16653)|[bigcat26](https://github.com/bigcat26)|Mar 22|:stopwatch: spdlog|:green_circle: XS|1|Mar 22||
+[#16653](https://github.com/conan-io/conan-center-index/pull/16653)|[bigcat26](https://github.com/bigcat26)|Mar 22|:stopwatch: spdlog|:green_circle: XS|2|Mar 22||prince-chrismc
 [#16656](https://github.com/conan-io/conan-center-index/pull/16656)|[toge](https://github.com/toge)|Mar 22|:stopwatch: cpr|:green_circle: XS|0|||
 
 
@@ -203,8 +202,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 334
 	- Draft: 34
-	- Average Age: 53 days, 13 hours, and 18.02 minutes
-	- Stop Label: 132
+	- Average Age: 53 days, 14 hours, and 21.29 minutes
+	- Stop Label: 133
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
