@@ -1,29 +1,5 @@
 [
    {
-      "Number": 10776,
-      "OpenedBy": "paulharris",
-      "CreatedAt": "2022-05-13T08:05:42Z",
-      "Recipe": "vtk",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/10776",
-      "LastCommitSHA": "f046ac9910ba92d078416627e168e12e71188eee",
-      "LastCommitAt": "2023-02-11T08:19:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "EricAtORS",
-            "SubmittedAt": "2022-12-01T05:03:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/10776#pullrequestreview-1200367939"
-         }
-      }
-   },
-   {
       "Number": 12382,
       "OpenedBy": "planetmarshall",
       "CreatedAt": "2022-08-19T09:32:47Z",
