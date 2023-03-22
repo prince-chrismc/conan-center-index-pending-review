@@ -1791,15 +1791,17 @@
       "LastCommitAt": "2023-03-22T00:02:14Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "michalwidera"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "michalwidera",
-            "SubmittedAt": "2023-03-21T18:48:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16328#pullrequestreview-1351189227"
+            "SubmittedAt": "2023-03-22T13:25:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16328#pullrequestreview-1352573368"
          }
       }
    },
@@ -3566,25 +3568,6 @@
             "SubmittedAt": "2023-03-22T10:32:23Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16653#pullrequestreview-1352229384"
          }
-      }
-   },
-   {
-      "Number": 16654,
-      "OpenedBy": "Seadex-GmbH",
-      "CreatedAt": "2023-03-22T13:13:06Z",
-      "Recipe": "essentials",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16654",
-      "LastCommitSHA": "1f0c9427beb7b552bccd70b30c3c166a1f6a979b",
-      "LastCommitAt": "2023-03-22T12:52:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
