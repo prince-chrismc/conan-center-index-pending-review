@@ -1316,33 +1316,6 @@
       }
    },
    {
-      "Number": 16246,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-23T00:10:00Z",
-      "Recipe": "soxr",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16246",
-      "LastCommitSHA": "37cd6866271f3db51eb672b5cfb0b0cc8c2fb7d5",
-      "LastCommitAt": "2023-02-23T00:09:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "danimtb"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-03-21T16:28:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16246#pullrequestreview-1350920326"
-         }
-      }
-   },
-   {
       "Number": 16254,
       "OpenedBy": "xuzhenbao",
       "CreatedAt": "2023-02-23T14:14:53Z",
