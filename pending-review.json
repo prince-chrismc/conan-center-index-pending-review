@@ -215,6 +215,25 @@
       }
    },
    {
+      "Number": 15115,
+      "OpenedBy": "technic",
+      "CreatedAt": "2023-01-04T20:23:45Z",
+      "Recipe": "linter",
+      "Change": 3,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15115",
+      "LastCommitSHA": "ea4b0eb60f90685c864bd485284852c9a89adb9d",
+      "LastCommitAt": "2023-01-04T20:18:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 15166,
       "OpenedBy": "qchateau",
       "CreatedAt": "2023-01-09T07:04:28Z",
@@ -1578,6 +1597,25 @@
       }
    },
    {
+      "Number": 16339,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-03-01T17:07:36Z",
+      "Recipe": "libvips",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16339",
+      "LastCommitSHA": "482d9f76270ea2d3da68a5ec59f6319e756a5df7",
+      "LastCommitAt": "2023-03-21T13:08:22Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 16344,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-03-02T00:56:39Z",
@@ -1874,7 +1912,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16393",
       "LastCommitSHA": "1f9b298e78293004ef74c3f359bb7ff24f3c980b",
       "LastCommitAt": "2023-03-05T14:44:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -2569,7 +2607,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16577",
       "LastCommitSHA": "041bc243ec1b0f6c8ff48c737593d68bf1b7de7b",
       "LastCommitAt": "2023-03-23T09:04:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
