@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16295](https://github.com/conan-io/conan-center-index/pull/16295)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: spirv-cross|L|0|:eyes:||
 [#16298](https://github.com/conan-io/conan-center-index/pull/16298)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: volk|:blue_square: S|1|Mar 23||prince-chrismc
 [#16300](https://github.com/conan-io/conan-center-index/pull/16300)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: libpsl|L|0|:eyes:||
-[#16302](https://github.com/conan-io/conan-center-index/pull/16302)|[toge](https://github.com/toge)|Feb 26|:stopwatch: etl|:blue_square: S|3|Mar 23||prince-chrismc
+[#16302](https://github.com/conan-io/conan-center-index/pull/16302)|[toge](https://github.com/toge)|Feb 26|:memo: etl|:blue_square: S|3|Mar 23||prince-chrismc
 [#16307](https://github.com/conan-io/conan-center-index/pull/16307)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: cfitsio|L|4|Mar 23||jwillikers
 [#16309](https://github.com/conan-io/conan-center-index/pull/16309)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: civetweb|M|0|:eyes:||
 [#16315](https://github.com/conan-io/conan-center-index/pull/16315)|[SpaceIm](https://github.com/SpaceIm)|Feb 27|:memo: libvpx|L|4|Mar 23||paulharris, prince-chrismc
@@ -165,25 +165,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16677](https://github.com/conan-io/conan-center-index/pull/16677)|[maikelvdh](https://github.com/maikelvdh)|Mar 23|:stopwatch: wayland-protocols|:blue_square: S|1|Mar 23||
 
 
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#15648](https://github.com/conan-io/conan-center-index/pull/15648)|[MartinDelille](https://github.com/MartinDelille)|Feb 1|:memo: openjdk|4|jcar87, danimtb
-
-
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 313
+	- Open: 312
 	- Draft: 31
-	- Average Age: 56 days, 6 hours, and 55.64 minutes
+	- Average Age: 56 days, 8 hours, and 24.25 minutes
 	- Stop Label: 130
 	
 
