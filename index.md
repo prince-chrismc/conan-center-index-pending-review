@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **110** pull requests currently under way :detective:
+There are **109** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,7 +131,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|||
 [#16676](https://github.com/conan-io/conan-center-index/pull/16676)|[Cyriuz](https://github.com/Cyriuz)|Mar 23|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
 [#16677](https://github.com/conan-io/conan-center-index/pull/16677)|[maikelvdh](https://github.com/maikelvdh)|Mar 23|:stopwatch: wayland-protocols|:blue_square: S|2|Mar 24||jwillikers
-[#16680](https://github.com/conan-io/conan-center-index/pull/16680)|[yekmen](https://github.com/yekmen)|Mar 24|:stopwatch: opencv|:green_circle: XS|0|||
 [#16682](https://github.com/conan-io/conan-center-index/pull/16682)|[uilianries](https://github.com/uilianries)|Mar 24|:green_book: docs|:green_circle: XS|1|Mar 24||RubenRBS
 [#16683](https://github.com/conan-io/conan-center-index/pull/16683)|[wdobbe](https://github.com/wdobbe)|Mar 24|:memo: opengl|:green_circle: XS|0|||
 [#16684](https://github.com/conan-io/conan-center-index/pull/16684)|[joakimono](https://github.com/joakimono)|Mar 24|:stopwatch: fast-cdr|:blue_square: S|0|:eyes:||
@@ -183,8 +182,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 318
 	- Draft: 31
-	- Average Age: 55 days, 20 hours, and 58.55 minutes
-	- Stop Label: 132
+	- Average Age: 55 days, 22 hours, and 1.53 minutes
+	- Stop Label: 133
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
