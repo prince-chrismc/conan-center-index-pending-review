@@ -169,7 +169,7 @@ Currently **1** pull request is waiting to be merged :tada:
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16302](https://github.com/conan-io/conan-center-index/pull/16302)|[toge](https://github.com/toge)|Feb 26|:memo: etl|4|prince-chrismc, RubenRBS
+[#16302](https://github.com/conan-io/conan-center-index/pull/16302)|[toge](https://github.com/toge)|Feb 26|:warning: etl|4|prince-chrismc, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -180,7 +180,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 312
 	- Draft: 31
-	- Average Age: 56 days, 12 hours, and 22.29 minutes
+	- Average Age: 56 days, 13 hours, and 25.36 minutes
 	- Stop Label: 132
 	
 
