@@ -2918,25 +2918,6 @@
       }
    },
    {
-      "Number": 16643,
-      "OpenedBy": "agagniere",
-      "CreatedAt": "2023-03-21T16:17:21Z",
-      "Recipe": "asio",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16643",
-      "LastCommitSHA": "e57468b44e062fe6f7a97704991f03dd78991eec",
-      "LastCommitAt": "2023-03-21T16:07:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 16653,
       "OpenedBy": "bigcat26",
       "CreatedAt": "2023-03-22T10:12:35Z",
