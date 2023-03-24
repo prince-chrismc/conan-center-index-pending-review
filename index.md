@@ -154,7 +154,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:memo: graphene|:green_circle: XS|0|||
 [#16668](https://github.com/conan-io/conan-center-index/pull/16668)|[uilianries](https://github.com/uilianries)|Mar 23|:green_book: docs|:green_circle: XS|1|Mar 23||prince-chrismc
 [#16669](https://github.com/conan-io/conan-center-index/pull/16669)|[vlebourl](https://github.com/vlebourl)|Mar 23|:stopwatch: libdb|:green_circle: XS|0|||
-[#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: libcurl|:blue_square: S|0|||
+[#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|||
 [#16676](https://github.com/conan-io/conan-center-index/pull/16676)|[Cyriuz](https://github.com/Cyriuz)|Mar 23|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
 [#16677](https://github.com/conan-io/conan-center-index/pull/16677)|[maikelvdh](https://github.com/maikelvdh)|Mar 23|:stopwatch: wayland-protocols|:blue_square: S|1|Mar 23||
 
@@ -177,7 +177,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 312
 	- Draft: 31
-	- Average Age: 56 days, 15 hours, and 24.68 minutes
+	- Average Age: 56 days, 16 hours, and 28.12 minutes
 	- Stop Label: 133
 	
 
