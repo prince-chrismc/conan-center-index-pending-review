@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **130** pull requests currently under way :detective:
+There are **129** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -149,7 +149,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16626](https://github.com/conan-io/conan-center-index/pull/16626)|[SpaceIm](https://github.com/SpaceIm)|Mar 20|:memo: freeglut|L|3|Mar 24||czoido
 [#16632](https://github.com/conan-io/conan-center-index/pull/16632)|[gjasny](https://github.com/gjasny)|Mar 20|:new: popt|L|0|:eyes:||
 [#16633](https://github.com/conan-io/conan-center-index/pull/16633)|[SpaceIm](https://github.com/SpaceIm)|Mar 20|:memo: coin-osi|:blue_square: S|1|Mar 23||prince-chrismc
-[#16643](https://github.com/conan-io/conan-center-index/pull/16643)|[agagniere](https://github.com/agagniere)|Mar 21|:stopwatch: asio|:green_circle: XS|0|||
 [#16653](https://github.com/conan-io/conan-center-index/pull/16653)|[bigcat26](https://github.com/bigcat26)|Mar 22|:stopwatch: spdlog|:green_circle: XS|2|Mar 22||prince-chrismc
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:memo: graphene|:green_circle: XS|0|||
 [#16668](https://github.com/conan-io/conan-center-index/pull/16668)|[uilianries](https://github.com/uilianries)|Mar 23|:green_book: docs|:green_circle: XS|1|Mar 23||prince-chrismc
@@ -177,7 +176,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 312
 	- Draft: 31
-	- Average Age: 56 days, 16 hours, and 28.12 minutes
+	- Average Age: 56 days, 17 hours, and 25.62 minutes
 	- Stop Label: 133
 	
 
