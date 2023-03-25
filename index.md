@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **109** pull requests currently under way :detective:
+There are **108** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -56,6 +56,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16101](https://github.com/conan-io/conan-center-index/pull/16101)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libmodbus|M|1|Mar 24||prince-chrismc
 [#16114](https://github.com/conan-io/conan-center-index/pull/16114)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 18|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#16116](https://github.com/conan-io/conan-center-index/pull/16116)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: mariadb-connector-c|:blue_square: S|2|Mar 24||prince-chrismc
+[#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: glslang|:blue_square: S|0|:eyes:||
 [#16142](https://github.com/conan-io/conan-center-index/pull/16142)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: apr-util|L|1|Feb 23 :bell:||
 [#16157](https://github.com/conan-io/conan-center-index/pull/16157)|[LHLaurini](https://github.com/LHLaurini)|Feb 20|:new: gli|M|4|Mar 23||RubenRBS
 [#16166](https://github.com/conan-io/conan-center-index/pull/16166)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 20|:stopwatch: sdl_image|:green_circle: XS|0|:eyes:||
@@ -124,7 +125,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16636](https://github.com/conan-io/conan-center-index/pull/16636)|[cqc-alec](https://github.com/cqc-alec)|Mar 21|:stopwatch: symengine|:blue_square: S|2|Mar 24||prince-chrismc
 [#16669](https://github.com/conan-io/conan-center-index/pull/16669)|[vlebourl](https://github.com/vlebourl)|Mar 23|:stopwatch: libdb|:green_circle: XS|0|||
 [#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|||
-[#16676](https://github.com/conan-io/conan-center-index/pull/16676)|[Cyriuz](https://github.com/Cyriuz)|Mar 23|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
+[#16676](https://github.com/conan-io/conan-center-index/pull/16676)|[Cyriuz](https://github.com/Cyriuz)|Mar 23|:stopwatch: sentry-crashpad|:green_circle: XS|1|Mar 25||MartinDelille
 [#16677](https://github.com/conan-io/conan-center-index/pull/16677)|[maikelvdh](https://github.com/maikelvdh)|Mar 23|:stopwatch: wayland-protocols|:blue_square: S|2|Mar 24||jwillikers
 [#16683](https://github.com/conan-io/conan-center-index/pull/16683)|[wdobbe](https://github.com/wdobbe)|Mar 24|:memo: opengl|:green_circle: XS|0|||
 [#16684](https://github.com/conan-io/conan-center-index/pull/16684)|[joakimono](https://github.com/joakimono)|Mar 24|:memo: fast-cdr|:blue_square: S|0|:eyes:||
@@ -134,8 +135,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16691](https://github.com/conan-io/conan-center-index/pull/16691)|[github-actions[bot]](https://github.com/github-actions[bot])|Mar 24|:green_book: docs|:green_circle: XS|1|Mar 24||prince-chrismc
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|||
 [#16701](https://github.com/conan-io/conan-center-index/pull/16701)|[elejke](https://github.com/elejke)|Mar 25|:stopwatch: wil|M|0|||
-[#16702](https://github.com/conan-io/conan-center-index/pull/16702)|[SpaceIm](https://github.com/SpaceIm)|Mar 25|:stopwatch: mimalloc|L|0|||
-[#16703](https://github.com/conan-io/conan-center-index/pull/16703)|[mayeut](https://github.com/mayeut)|Mar 25|:stopwatch: nsync|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -165,9 +164,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
 	- Open: 306
-	- Draft: 30
-	- Average Age: 57 days, 8 hours, and 55.48 minutes
-	- Stop Label: 138
+	- Draft: 29
+	- Average Age: 57 days, 9 hours, and 50.44 minutes
+	- Stop Label: 140
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
