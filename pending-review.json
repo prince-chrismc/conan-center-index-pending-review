@@ -1216,11 +1216,18 @@
       "LastCommitAt": "2023-02-24T20:57:51Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ZombieRaccoon"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ZombieRaccoon",
+            "SubmittedAt": "2023-03-25T14:18:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16280#pullrequestreview-1357843719"
+         }
       }
    },
    {
