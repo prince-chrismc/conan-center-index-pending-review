@@ -520,6 +520,25 @@
       }
    },
    {
+      "Number": 16043,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-02-15T12:39:19Z",
+      "Recipe": "leptonica",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16043",
+      "LastCommitSHA": "07699c3c772c3d8e2ab8e775ee73ed93e85a24f5",
+      "LastCommitAt": "2023-02-15T12:38:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 16065,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-02-16T13:01:34Z",
@@ -1562,61 +1581,6 @@
       }
    },
    {
-      "Number": 16315,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-27T12:15:52Z",
-      "Recipe": "libvpx",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16315",
-      "LastCommitSHA": "6e47e3d64fcad44f5ecd27782e3e91ef131f076a",
-      "LastCommitAt": "2023-02-27T12:10:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "paulharris",
-            "prince-chrismc",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-03-24T13:47:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16315#pullrequestreview-1356740529"
-         }
-      }
-   },
-   {
-      "Number": 16318,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-02-27T14:00:01Z",
-      "Recipe": "mingw-builds",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16318",
-      "LastCommitSHA": "bbe84ffe840d96804bf95e500808615d20c441d7",
-      "LastCommitAt": "2023-03-24T14:07:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-03-24T19:15:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16318#pullrequestreview-1357300450"
-         }
-      }
-   },
-   {
       "Number": 16328,
       "OpenedBy": "0xFireWolf",
       "CreatedAt": "2023-02-28T10:01:54Z",
@@ -2224,16 +2188,14 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16506",
-      "LastCommitSHA": "ef34ad338a0d2e6115fcc8d27d7e46c1f51b7a3a",
-      "LastCommitAt": "2023-03-10T20:51:56Z",
+      "LastCommitSHA": "2cea88518e7772385eaea10721c91ec4220c43b3",
+      "LastCommitAt": "2023-03-25T01:59:55Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
