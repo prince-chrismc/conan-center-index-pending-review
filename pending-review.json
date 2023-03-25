@@ -1212,33 +1212,6 @@
       }
    },
    {
-      "Number": 16261,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-23T21:25:37Z",
-      "Recipe": "spirv-tools",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16261",
-      "LastCommitSHA": "ecb2808482865e8da7f652e0119799de583a3adb",
-      "LastCommitAt": "2023-03-13T23:54:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-03-24T10:02:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16261#pullrequestreview-1356365868"
-         }
-      }
-   },
-   {
       "Number": 16263,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-02-24T00:03:12Z",
