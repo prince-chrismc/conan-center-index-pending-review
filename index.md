@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **112** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -137,7 +137,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|||
 [#16701](https://github.com/conan-io/conan-center-index/pull/16701)|[elejke](https://github.com/elejke)|Mar 25|:stopwatch: wil|M|0|||
 [#16702](https://github.com/conan-io/conan-center-index/pull/16702)|[SpaceIm](https://github.com/SpaceIm)|Mar 25|:memo: mimalloc|L|0|||
-[#16703](https://github.com/conan-io/conan-center-index/pull/16703)|[mayeut](https://github.com/mayeut)|Mar 25|:memo: nsync|L|2|Mar 25||
 [#16704](https://github.com/conan-io/conan-center-index/pull/16704)|[spnda](https://github.com/spnda)|Mar 25|:stopwatch: fastgltf|M|0|||
 [#16707](https://github.com/conan-io/conan-center-index/pull/16707)|[SpaceIm](https://github.com/SpaceIm)|Mar 25|:memo: sigslot|L|0|||
 
@@ -169,7 +168,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 308
 	- Draft: 29
-	- Average Age: 57 days, 16 hours, and 53.08 minutes
+	- Average Age: 57 days, 17 hours, and 54.04 minutes
 	- Stop Label: 138
 	
 
