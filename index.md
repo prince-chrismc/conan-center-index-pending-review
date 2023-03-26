@@ -124,7 +124,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16632](https://github.com/conan-io/conan-center-index/pull/16632)|[gjasny](https://github.com/gjasny)|Mar 20|:new: popt|L|0|:eyes:||
 [#16636](https://github.com/conan-io/conan-center-index/pull/16636)|[cqc-alec](https://github.com/cqc-alec)|Mar 21|:stopwatch: symengine|:blue_square: S|2|Mar 24||prince-chrismc
 [#16669](https://github.com/conan-io/conan-center-index/pull/16669)|[vlebourl](https://github.com/vlebourl)|Mar 23|:stopwatch: libdb|:green_circle: XS|0|:eyes:||
-[#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: libcurl|:blue_square: S|0|||
+[#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|||
 [#16683](https://github.com/conan-io/conan-center-index/pull/16683)|[wdobbe](https://github.com/wdobbe)|Mar 24|:memo: opengl|:green_circle: XS|1|Mar 26||prince-chrismc
 [#16689](https://github.com/conan-io/conan-center-index/pull/16689)|[jhabermas](https://github.com/jhabermas)|Mar 24|:stopwatch: flatbuffers|:green_circle: XS|0|||
 [#16691](https://github.com/conan-io/conan-center-index/pull/16691)|[github-actions[bot]](https://github.com/github-actions[bot])|Mar 24|:green_book: docs|:green_circle: XS|1|Mar 24||prince-chrismc
@@ -163,7 +163,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 304
 	- Draft: 29
-	- Average Age: 58 days, 2 hours, and 10.73 minutes
+	- Average Age: 58 days, 3 hours, and 5.89 minutes
 	- Stop Label: 136
 	
 
