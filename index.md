@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15957](https://github.com/conan-io/conan-center-index/pull/15957)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: nuraft|L|1|Feb 13 :bell:||jwillikers
 [#15995](https://github.com/conan-io/conan-center-index/pull/15995)|[calebkiage](https://github.com/calebkiage)|Feb 13|:stopwatch: outcome|L|0|:eyes:||
 [#16005](https://github.com/conan-io/conan-center-index/pull/16005)|[toge](https://github.com/toge)|Feb 14|:memo: harfbuzz|L|4|Mar 24||
-[#16012](https://github.com/conan-io/conan-center-index/pull/16012)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: gdk-pixbuf|L|5|Mar 14||jwillikers
+[#16012](https://github.com/conan-io/conan-center-index/pull/16012)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: gdk-pixbuf|L|5|Mar 14 :bell:||jwillikers
 [#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|M|0|:eyes:||
 [#16019](https://github.com/conan-io/conan-center-index/pull/16019)|[toge](https://github.com/toge)|Feb 14|:new: tinyexif|M|2|Feb 18 :bell:||
 [#16028](https://github.com/conan-io/conan-center-index/pull/16028)|[chausner](https://github.com/chausner)|Feb 14|:stopwatch: liblsl|L|9|Feb 20 :bell:||
@@ -123,7 +123,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16632](https://github.com/conan-io/conan-center-index/pull/16632)|[gjasny](https://github.com/gjasny)|Mar 20|:new: popt|L|0|:eyes:||
 [#16636](https://github.com/conan-io/conan-center-index/pull/16636)|[cqc-alec](https://github.com/cqc-alec)|Mar 21|:stopwatch: symengine|:blue_square: S|2|Mar 24||prince-chrismc
 [#16669](https://github.com/conan-io/conan-center-index/pull/16669)|[vlebourl](https://github.com/vlebourl)|Mar 23|:stopwatch: libdb|:green_circle: XS|0|:eyes:||
-[#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|||
+[#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: libcurl|:blue_square: S|0|||
 [#16683](https://github.com/conan-io/conan-center-index/pull/16683)|[wdobbe](https://github.com/wdobbe)|Mar 24|:memo: opengl|:green_circle: XS|1|Mar 26||prince-chrismc
 [#16689](https://github.com/conan-io/conan-center-index/pull/16689)|[jhabermas](https://github.com/jhabermas)|Mar 24|:stopwatch: flatbuffers|:green_circle: XS|0|||
 [#16691](https://github.com/conan-io/conan-center-index/pull/16691)|[github-actions[bot]](https://github.com/github-actions[bot])|Mar 24|:green_book: docs|:green_circle: XS|1|Mar 24||prince-chrismc
@@ -135,7 +135,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16709](https://github.com/conan-io/conan-center-index/pull/16709)|[elejke](https://github.com/elejke)|Mar 26|:stopwatch: date|:green_circle: XS|0|||
 [#16710](https://github.com/conan-io/conan-center-index/pull/16710)|[toge](https://github.com/toge)|Mar 26|:stopwatch: daw_json_link|:blue_square: S|1|Mar 26||prince-chrismc
 [#16711](https://github.com/conan-io/conan-center-index/pull/16711)|[cprieto](https://github.com/cprieto)|Mar 26|:stopwatch: criterion|M|0|||
-[#16712](https://github.com/conan-io/conan-center-index/pull/16712)|[toge](https://github.com/toge)|Mar 26|:stopwatch: roaring|:blue_square: S|0|||
+[#16712](https://github.com/conan-io/conan-center-index/pull/16712)|[toge](https://github.com/toge)|Mar 26|:memo: roaring|:blue_square: S|0|||
 [#16713](https://github.com/conan-io/conan-center-index/pull/16713)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 26|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
 
 
@@ -160,10 +160,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 304
+	- Open: 309
 	- Draft: 29
-	- Average Age: 58 days, 4 hours, and 9.16 minutes
-	- Stop Label: 137
+	- Average Age: 57 days, 7 hours, and 30.83 minutes
+	- Stop Label: 143
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
