@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **107** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -118,7 +118,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16636](https://github.com/conan-io/conan-center-index/pull/16636)|[cqc-alec](https://github.com/cqc-alec)|Mar 21|:stopwatch: symengine|:blue_square: S|2|Mar 24||prince-chrismc
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:memo: graphene|:blue_square: S|2|Mar 24||
 [#16669](https://github.com/conan-io/conan-center-index/pull/16669)|[vlebourl](https://github.com/vlebourl)|Mar 23|:stopwatch: libdb|:green_circle: XS|0|:eyes:||
-[#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: libcurl|:blue_square: S|0|||
+[#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|||
+[#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:stopwatch: log4cxx|L|0|||
 [#16683](https://github.com/conan-io/conan-center-index/pull/16683)|[wdobbe](https://github.com/wdobbe)|Mar 24|:memo: opengl|:green_circle: XS|1|Mar 26||prince-chrismc
 [#16689](https://github.com/conan-io/conan-center-index/pull/16689)|[jhabermas](https://github.com/jhabermas)|Mar 24|:stopwatch: flatbuffers|:green_circle: XS|0|||
 [#16691](https://github.com/conan-io/conan-center-index/pull/16691)|[github-actions[bot]](https://github.com/github-actions[bot])|Mar 24|:green_book: docs|:green_circle: XS|1|Mar 24||prince-chrismc
@@ -137,7 +138,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -147,10 +148,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16181](https://github.com/conan-io/conan-center-index/pull/16181)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:memo: libverto|3|jwillikers, prince-chrismc
 [#16211](https://github.com/conan-io/conan-center-index/pull/16211)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:memo: libepoxy|2|StellaSmith, prince-chrismc
 [#16291](https://github.com/conan-io/conan-center-index/pull/16291)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:memo: harfbuzz|3|jwillikers, prince-chrismc
-[#16307](https://github.com/conan-io/conan-center-index/pull/16307)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: cfitsio|5|jwillikers, prince-chrismc
-[#16618](https://github.com/conan-io/conan-center-index/pull/16618)|[hkk2023](https://github.com/hkk2023)|Mar 19|:warning: freetype|2|prince-chrismc, jwillikers
-[#16625](https://github.com/conan-io/conan-center-index/pull/16625)|[toge](https://github.com/toge)|Mar 20|:warning: unordered_dense|2|prince-chrismc, jwillikers
-[#16653](https://github.com/conan-io/conan-center-index/pull/16653)|[bigcat26](https://github.com/bigcat26)|Mar 22|:warning: spdlog|3|prince-chrismc, jwillikers
 [#16677](https://github.com/conan-io/conan-center-index/pull/16677)|[maikelvdh](https://github.com/maikelvdh)|Mar 23|:warning: wayland-protocols|3|jwillikers, prince-chrismc
 
 
@@ -160,9 +157,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 309
+	- Open: 306
 	- Draft: 29
-	- Average Age: 57 days, 7 hours, and 40.07 minutes
+	- Average Age: 57 days, 19 hours, and 24.55 minutes
 	- Stop Label: 143
 	
 
