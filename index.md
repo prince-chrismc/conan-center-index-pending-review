@@ -38,7 +38,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15166](https://github.com/conan-io/conan-center-index/pull/15166)|[qchateau](https://github.com/qchateau)|Jan 9|:stopwatch: packio|M|1|Mar 24||prince-chrismc
 [#15353](https://github.com/conan-io/conan-center-index/pull/15353)|[paulharris](https://github.com/paulharris)|Jan 19|:stopwatch: libx264|L|2|Feb 21 :bell:||
 [#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:stopwatch: ccache|L|8|Feb 22 :bell:||
-[#15836](https://github.com/conan-io/conan-center-index/pull/15836)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: coin-clp|L|0|:eyes:||
+[#15836](https://github.com/conan-io/conan-center-index/pull/15836)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: coin-clp|L|1|Mar 27||RubenRBS
 [#15907](https://github.com/conan-io/conan-center-index/pull/15907)|[paulharris](https://github.com/paulharris)|Feb 11|:memo: exprtk|L|2|Mar 13 :bell:||
 [#15995](https://github.com/conan-io/conan-center-index/pull/15995)|[calebkiage](https://github.com/calebkiage)|Feb 13|:stopwatch: outcome|L|0|:eyes:||
 [#16005](https://github.com/conan-io/conan-center-index/pull/16005)|[toge](https://github.com/toge)|Feb 14|:stopwatch: harfbuzz|L|4|Mar 24||
@@ -142,14 +142,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16175](https://github.com/conan-io/conan-center-index/pull/16175)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Feb 20|:warning: libcurl|4|Hopobcn, prince-chrismc, jwillikers
 [#16677](https://github.com/conan-io/conan-center-index/pull/16677)|[maikelvdh](https://github.com/maikelvdh)|Mar 23|:warning: wayland-protocols|4|jwillikers, prince-chrismc, RubenRBS
-[#16723](https://github.com/conan-io/conan-center-index/pull/16723)|[jcar87](https://github.com/jcar87)|Mar 27|:memo: libcap|2|uilianries, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -159,8 +158,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
 	- Open: 306
-	- Draft: 30
-	- Average Age: 57 days, 20 hours, and 38.47 minutes
+	- Draft: 31
+	- Average Age: 57 days, 21 hours, and 40.22 minutes
 	- Stop Label: 142
 	
 
