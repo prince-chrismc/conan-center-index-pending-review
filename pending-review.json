@@ -798,33 +798,6 @@
       }
    },
    {
-      "Number": 16181,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-20T18:38:59Z",
-      "Recipe": "libverto",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16181",
-      "LastCommitSHA": "f2f8e764a91cc7f3b343d519539ab827becabacd",
-      "LastCommitAt": "2023-03-11T09:36:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-27T00:35:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16181#pullrequestreview-1358175064"
-         }
-      }
-   },
-   {
       "Number": 16197,
       "OpenedBy": "kambala-decapitator",
       "CreatedAt": "2023-02-21T11:02:06Z",
