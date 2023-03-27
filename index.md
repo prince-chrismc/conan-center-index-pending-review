@@ -131,14 +131,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16709](https://github.com/conan-io/conan-center-index/pull/16709)|[elejke](https://github.com/elejke)|Mar 26|:stopwatch: date|:green_circle: XS|0|||
 [#16710](https://github.com/conan-io/conan-center-index/pull/16710)|[toge](https://github.com/toge)|Mar 26|:stopwatch: daw_json_link|:blue_square: S|1|Mar 26||prince-chrismc
 [#16711](https://github.com/conan-io/conan-center-index/pull/16711)|[cprieto](https://github.com/cprieto)|Mar 26|:stopwatch: criterion|M|0|||
-[#16712](https://github.com/conan-io/conan-center-index/pull/16712)|[toge](https://github.com/toge)|Mar 26|:memo: roaring|:blue_square: S|0|||
+[#16712](https://github.com/conan-io/conan-center-index/pull/16712)|[toge](https://github.com/toge)|Mar 26|:memo: roaring|:blue_square: S|1|Mar 27||prince-chrismc
 [#16713](https://github.com/conan-io/conan-center-index/pull/16713)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 26|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
 [#16720](https://github.com/conan-io/conan-center-index/pull/16720)|[zhuoqiang](https://github.com/zhuoqiang)|Mar 27|:stopwatch: brotli|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -147,7 +147,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16175](https://github.com/conan-io/conan-center-index/pull/16175)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Feb 20|:warning: libcurl|4|Hopobcn, prince-chrismc, jwillikers
 [#16181](https://github.com/conan-io/conan-center-index/pull/16181)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:memo: libverto|3|jwillikers, prince-chrismc
 [#16211](https://github.com/conan-io/conan-center-index/pull/16211)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:memo: libepoxy|2|StellaSmith, prince-chrismc
-[#16291](https://github.com/conan-io/conan-center-index/pull/16291)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:memo: harfbuzz|3|jwillikers, prince-chrismc
 [#16677](https://github.com/conan-io/conan-center-index/pull/16677)|[maikelvdh](https://github.com/maikelvdh)|Mar 23|:warning: wayland-protocols|3|jwillikers, prince-chrismc
 
 
@@ -157,9 +156,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 306
+	- Open: 305
 	- Draft: 29
-	- Average Age: 57 days, 19 hours, and 24.55 minutes
+	- Average Age: 57 days, 22 hours, and 21.86 minutes
 	- Stop Label: 143
 	
 
