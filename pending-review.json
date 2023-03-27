@@ -807,7 +807,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16181",
       "LastCommitSHA": "f2f8e764a91cc7f3b343d519539ab827becabacd",
       "LastCommitAt": "2023-03-11T09:36:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 2,
@@ -847,33 +847,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2023-03-24T22:32:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16197#pullrequestreview-1357528278"
-         }
-      }
-   },
-   {
-      "Number": 16211,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-21T16:12:07Z",
-      "Recipe": "libepoxy",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16211",
-      "LastCommitSHA": "2f3aa29736bd5e2083a7a818cae0973875bf9efb",
-      "LastCommitAt": "2023-02-21T16:11:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "StellaSmith",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-27T00:37:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16211#pullrequestreview-1358175485"
          }
       }
    },
