@@ -861,7 +861,7 @@
       "LastCommitAt": "2023-03-07T16:32:02Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -870,8 +870,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "samuel-emrys",
-            "SubmittedAt": "2023-03-27T13:41:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16243#pullrequestreview-1359069340"
+            "SubmittedAt": "2023-03-27T22:30:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16243#pullrequestreview-1359956393"
          }
       }
    },
@@ -2150,34 +2150,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 16677,
-      "OpenedBy": "maikelvdh",
-      "CreatedAt": "2023-03-23T19:54:39Z",
-      "Recipe": "wayland-protocols",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16677",
-      "LastCommitSHA": "9f7d0253885c8838080cb146b9bc7dccadde3d0d",
-      "LastCommitAt": "2023-03-23T21:32:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-03-27T13:18:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16677#pullrequestreview-1359020480"
-         }
       }
    },
    {
