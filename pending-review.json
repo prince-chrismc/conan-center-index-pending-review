@@ -2133,8 +2133,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16679",
-      "LastCommitSHA": "f0cfc651d5492f23527e19d215f7555c579da486",
-      "LastCommitAt": "2023-03-27T02:14:11Z",
+      "LastCommitSHA": "1674f2bb1a217d23de6099d58a63ac47957b2ab8",
+      "LastCommitAt": "2023-03-28T01:33:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2435,6 +2435,25 @@
       "LastCommitSHA": "c9b41d1cb89d4ec0b43f75485e65ff02bb5a934a",
       "LastCommitAt": "2023-03-27T23:17:56Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 16739,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-03-28T01:39:59Z",
+      "Recipe": "daw_utf_range",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16739",
+      "LastCommitSHA": "41fd4a7f2b92a7ee5ddfeee347a728e2cc77cf9e",
+      "LastCommitAt": "2023-03-28T01:39:28Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
