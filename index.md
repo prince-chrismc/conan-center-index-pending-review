@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **95** pull requests currently under way :detective:
+There are **96** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -58,7 +58,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16166](https://github.com/conan-io/conan-center-index/pull/16166)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 20|:stopwatch: sdl_image|:green_circle: XS|0|:eyes:||
 [#16178](https://github.com/conan-io/conan-center-index/pull/16178)|[maxpagani](https://github.com/maxpagani)|Feb 20|:new: chef-fun|M|2|Mar 11 :bell:||RubenRBS
 [#16197](https://github.com/conan-io/conan-center-index/pull/16197)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 21|:stopwatch: onetbb|M|1|Mar 24||prince-chrismc
-[#16205](https://github.com/conan-io/conan-center-index/pull/16205)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:memo: libxslt|L|2|Mar 27||
 [#16216](https://github.com/conan-io/conan-center-index/pull/16216)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:memo: libfreenect|L|0|:eyes:||
 [#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|:eyes:||
 [#16275](https://github.com/conan-io/conan-center-index/pull/16275)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:memo: c-blosc2|M|0|:eyes:||
@@ -122,11 +121,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16736](https://github.com/conan-io/conan-center-index/pull/16736)|[cmannett85](https://github.com/cmannett85)|Mar 27|:stopwatch: arg_router|M|4|Mar 27||
 [#16738](https://github.com/conan-io/conan-center-index/pull/16738)|[kuroneko](https://github.com/kuroneko)|Mar 27|:stopwatch: cglm|L|0|||
 [#16739](https://github.com/conan-io/conan-center-index/pull/16739)|[toge](https://github.com/toge)|Mar 28|:memo: daw_utf_range|:green_circle: XS|1|Mar 28||prince-chrismc
+[#16745](https://github.com/conan-io/conan-center-index/pull/16745)|[forthib](https://github.com/forthib)|Mar 28|:stopwatch: tcl|L|0|||
+[#16746](https://github.com/conan-io/conan-center-index/pull/16746)|[SpaceIm](https://github.com/SpaceIm)|Mar 28|:stopwatch: libgcrypt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -137,7 +138,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16217](https://github.com/conan-io/conan-center-index/pull/16217)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:memo: libx265|4|jwillikers, prince-chrismc
 [#16243](https://github.com/conan-io/conan-center-index/pull/16243)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:memo: doxygen|6|jwillikers, prince-chrismc, samuel-emrys
 [#16263](https://github.com/conan-io/conan-center-index/pull/16263)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:new: csm|2|jwillikers, prince-chrismc
-[#16278](https://github.com/conan-io/conan-center-index/pull/16278)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:warning: libtorrent|8|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -146,9 +146,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 293
+	- Open: 294
 	- Draft: 30
-	- Average Age: 60 days, 10 hours, and 7.53 minutes
+	- Average Age: 60 days, 3 hours, and 29.80 minutes
 	- Stop Label: 143
 	
 
