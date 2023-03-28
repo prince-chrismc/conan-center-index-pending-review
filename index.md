@@ -125,7 +125,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -139,8 +139,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16278](https://github.com/conan-io/conan-center-index/pull/16278)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:warning: libtorrent|8|jwillikers, prince-chrismc
 [#16492](https://github.com/conan-io/conan-center-index/pull/16492)|[SpaceIm](https://github.com/SpaceIm)|Mar 9|:memo: libmodplug|3|StellaSmith, prince-chrismc
 [#16494](https://github.com/conan-io/conan-center-index/pull/16494)|[SpaceIm](https://github.com/SpaceIm)|Mar 10|:memo: libressl|3|StellaSmith, prince-chrismc
-[#16499](https://github.com/conan-io/conan-center-index/pull/16499)|[Minimonium](https://github.com/Minimonium)|Mar 10|:memo: hipony-enumerate|2|StellaSmith, prince-chrismc
-[#16511](https://github.com/conan-io/conan-center-index/pull/16511)|[SpaceIm](https://github.com/SpaceIm)|Mar 11|:memo: libgpg-error|3|jwillikers, StellaSmith, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -149,10 +147,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 297
+	- Open: 294
 	- Draft: 30
-	- Average Age: 59 days, 18 hours, and 15.96 minutes
-	- Stop Label: 143
+	- Average Age: 60 days, 5 hours, and 22.28 minutes
+	- Stop Label: 142
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
