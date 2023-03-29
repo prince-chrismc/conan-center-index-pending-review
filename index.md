@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **94** pull requests currently under way :detective:
+There are **95** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -118,14 +118,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16762](https://github.com/conan-io/conan-center-index/pull/16762)|[grabowski-d](https://github.com/grabowski-d)|Mar 29|:stopwatch: openldap|L|0|||
 [#16768](https://github.com/conan-io/conan-center-index/pull/16768)|[pezy](https://github.com/pezy)|Mar 29|:stopwatch: mio|:green_circle: XS|0|||
 [#16772](https://github.com/conan-io/conan-center-index/pull/16772)|[roalter](https://github.com/roalter)|Mar 29|:stopwatch: gflags|:blue_square: S|0|||
-[#16775](https://github.com/conan-io/conan-center-index/pull/16775)|[jcar87](https://github.com/jcar87)|Mar 29|:memo: cmake|:blue_square: S|2|Mar 29||RubenRBS
 [#16777](https://github.com/conan-io/conan-center-index/pull/16777)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:memo: libzip|:blue_square: S|1|Mar 29||RubenRBS
-[#16779](https://github.com/conan-io/conan-center-index/pull/16779)|[uyha](https://github.com/uyha)|Mar 29|:stopwatch: lely-core|:green_circle: XS|0|||
+[#16779](https://github.com/conan-io/conan-center-index/pull/16779)|[uyha](https://github.com/uyha)|Mar 29|:memo: lely-core|:green_circle: XS|0|||
+[#16780](https://github.com/conan-io/conan-center-index/pull/16780)|[holger-detering](https://github.com/holger-detering)|Mar 29|:stopwatch: ncurses|L|0|||
+[#16781](https://github.com/conan-io/conan-center-index/pull/16781)|[tt4g](https://github.com/tt4g)|Mar 29|:stopwatch: libpqxx|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -134,6 +135,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15943](https://github.com/conan-io/conan-center-index/pull/15943)|[SpaceIm](https://github.com/SpaceIm)|Feb 12|:memo: gemmlowp|4|RubenRBS, prince-chrismc
 [#16175](https://github.com/conan-io/conan-center-index/pull/16175)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Feb 20|:warning: libcurl|4|Hopobcn, prince-chrismc, jwillikers
 [#16611](https://github.com/conan-io/conan-center-index/pull/16611)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:warning: libspatialite|2|jwillikers, prince-chrismc
+[#16775](https://github.com/conan-io/conan-center-index/pull/16775)|[jcar87](https://github.com/jcar87)|Mar 29|:memo: cmake|3|RubenRBS, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -142,9 +144,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 292
+	- Open: 294
 	- Draft: 30
-	- Average Age: 60 days, 10 hours, and 25.22 minutes
+	- Average Age: 60 days, 1 hours, and 34.04 minutes
 	- Stop Label: 142
 	
 
