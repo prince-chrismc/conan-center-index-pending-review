@@ -23,11 +23,10 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **94** pull requests currently under way :detective:
+There are **92** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
-[#14543](https://github.com/conan-io/conan-center-index/pull/14543)|[antekone](https://github.com/antekone)|Dec 2|:stopwatch: loguru|L|2|Jan 16 :bell:||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:stopwatch: mpfr|L|17|Mar 24|prince-chrismc|uilianries
 [#14803](https://github.com/conan-io/conan-center-index/pull/14803)|[jellespijker](https://github.com/jellespijker)|Dec 18|:stopwatch: vtu11|M|1|Jan 20 :bell:||
@@ -37,7 +36,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15353](https://github.com/conan-io/conan-center-index/pull/15353)|[paulharris](https://github.com/paulharris)|Jan 19|:stopwatch: libx264|L|4|Mar 28||
 [#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:stopwatch: ccache|L|8|Feb 22 :bell:||
 [#15838](https://github.com/conan-io/conan-center-index/pull/15838)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: coin-cgl|L|0|||
-[#15907](https://github.com/conan-io/conan-center-index/pull/15907)|[paulharris](https://github.com/paulharris)|Feb 11|:memo: exprtk|L|2|Mar 13 :bell:||
+[#15907](https://github.com/conan-io/conan-center-index/pull/15907)|[paulharris](https://github.com/paulharris)|Feb 11|:stopwatch: exprtk|L|2|Mar 13 :bell:||
 [#15995](https://github.com/conan-io/conan-center-index/pull/15995)|[calebkiage](https://github.com/calebkiage)|Feb 13|:stopwatch: outcome|L|0|:eyes:||
 [#16005](https://github.com/conan-io/conan-center-index/pull/16005)|[toge](https://github.com/toge)|Feb 14|:stopwatch: harfbuzz|L|4|Mar 24||
 [#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|M|0|:eyes:||
@@ -118,14 +117,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16751](https://github.com/conan-io/conan-center-index/pull/16751)|[MartinDelille](https://github.com/MartinDelille)|Mar 28|:stopwatch: sentry-crashpad|:blue_square: S|2|Mar 29||prince-chrismc
 [#16755](https://github.com/conan-io/conan-center-index/pull/16755)|[toge](https://github.com/toge)|Mar 28|:memo: zlib-ng|:blue_square: S|1|Mar 29||prince-chrismc
 [#16756](https://github.com/conan-io/conan-center-index/pull/16756)|[czoido](https://github.com/czoido)|Mar 28|:memo: vincentlaucsb-csv-parser|M|0|||
-[#16757](https://github.com/conan-io/conan-center-index/pull/16757)|[SpaceIm](https://github.com/SpaceIm)|Mar 28|:memo: sentry-breakpad|:green_circle: XS|4|Mar 28||prince-chrismc
 [#16759](https://github.com/conan-io/conan-center-index/pull/16759)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 28|:green_book: docs|L|0|||
-[#16761](https://github.com/conan-io/conan-center-index/pull/16761)|[ivmai](https://github.com/ivmai)|Mar 29|:stopwatch: libatomic_ops|L|0|||
+[#16762](https://github.com/conan-io/conan-center-index/pull/16762)|[grabowski-d](https://github.com/grabowski-d)|Mar 29|:stopwatch: openldap|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -136,6 +134,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16694](https://github.com/conan-io/conan-center-index/pull/16694)|[DuncanChisholm](https://github.com/DuncanChisholm)|Mar 24|:memo: wiringpi|3|prince-chrismc, danimtb
 [#16732](https://github.com/conan-io/conan-center-index/pull/16732)|[toge](https://github.com/toge)|Mar 27|:memo: abseil|2|SpaceIm, prince-chrismc
 [#16746](https://github.com/conan-io/conan-center-index/pull/16746)|[SpaceIm](https://github.com/SpaceIm)|Mar 28|:memo: libgcrypt|2|uilianries, prince-chrismc
+[#16757](https://github.com/conan-io/conan-center-index/pull/16757)|[SpaceIm](https://github.com/SpaceIm)|Mar 28|:memo: sentry-breakpad|5|prince-chrismc, MartinDelille
 
 
 #### :clipboard: Statistics
@@ -144,10 +143,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 292
-	- Draft: 29
-	- Average Age: 60 days, 2 hours, and 58.07 minutes
-	- Stop Label: 141
+	- Open: 291
+	- Draft: 28
+	- Average Age: 60 days, 4 hours, and 50.63 minutes
+	- Stop Label: 142
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
