@@ -110,7 +110,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16713](https://github.com/conan-io/conan-center-index/pull/16713)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 26|:stopwatch: sentry-crashpad|:green_circle: XS|1|Mar 28||
 [#16728](https://github.com/conan-io/conan-center-index/pull/16728)|[PeteAudinate](https://github.com/PeteAudinate)|Mar 27|:stopwatch: b2|:green_circle: XS|0|||
 [#16730](https://github.com/conan-io/conan-center-index/pull/16730)|[toge](https://github.com/toge)|Mar 27|:memo: bzip3|:blue_square: S|0|||
-[#16736](https://github.com/conan-io/conan-center-index/pull/16736)|[cmannett85](https://github.com/cmannett85)|Mar 27|:stopwatch: arg_router|M|4|Mar 27||
+[#16736](https://github.com/conan-io/conan-center-index/pull/16736)|[cmannett85](https://github.com/cmannett85)|Mar 27|:new: arg_router|M|4|Mar 27||
 [#16738](https://github.com/conan-io/conan-center-index/pull/16738)|[kuroneko](https://github.com/kuroneko)|Mar 27|:stopwatch: cglm|L|0|||
 [#16739](https://github.com/conan-io/conan-center-index/pull/16739)|[toge](https://github.com/toge)|Mar 28|:memo: daw_utf_range|:green_circle: XS|1|Mar 28||prince-chrismc
 [#16751](https://github.com/conan-io/conan-center-index/pull/16751)|[MartinDelille](https://github.com/MartinDelille)|Mar 28|:stopwatch: sentry-crashpad|:blue_square: S|2|Mar 29||prince-chrismc
@@ -143,7 +143,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 291
 	- Draft: 30
-	- Average Age: 60 days, 13 hours, and 24.07 minutes
+	- Average Age: 60 days, 14 hours, and 26.21 minutes
 	- Stop Label: 142
 	
 
