@@ -128,13 +128,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16175](https://github.com/conan-io/conan-center-index/pull/16175)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Feb 20|:warning: libcurl|4|Hopobcn, prince-chrismc, jwillikers
-[#16800](https://github.com/conan-io/conan-center-index/pull/16800)|[ericLemanissier](https://github.com/ericLemanissier)|Mar 30|:gear: .github|2|prince-chrismc, jwillikers
 
 
 #### :clipboard: Statistics
@@ -143,9 +142,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 296
+	- Open: 295
 	- Draft: 31
-	- Average Age: 60 days, 1 hours, and 8.99 minutes
+	- Average Age: 60 days, 6 hours, and 58.69 minutes
 	- Stop Label: 143
 	
 
