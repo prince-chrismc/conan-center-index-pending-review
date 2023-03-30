@@ -2219,5 +2219,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 16784,
+      "OpenedBy": "hedtke",
+      "CreatedAt": "2023-03-30T06:37:39Z",
+      "Recipe": "coin-clp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16784",
+      "LastCommitSHA": "ec4f279722ebe332cb8463e2ba564e54a2349514",
+      "LastCommitAt": "2023-03-30T06:36:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
