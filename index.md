@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16178](https://github.com/conan-io/conan-center-index/pull/16178)|[maxpagani](https://github.com/maxpagani)|Feb 20|:new: chef-fun|M|2|Mar 11 :bell:||RubenRBS
 [#16197](https://github.com/conan-io/conan-center-index/pull/16197)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 21|:memo: onetbb|M|2|Mar 28||prince-chrismc
 [#16216](https://github.com/conan-io/conan-center-index/pull/16216)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:memo: libfreenect|L|0|:eyes:||
-[#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|:eyes:||
+[#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|||
 [#16275](https://github.com/conan-io/conan-center-index/pull/16275)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:memo: c-blosc2|M|0|:eyes:||
 [#16293](https://github.com/conan-io/conan-center-index/pull/16293)|[ZombieRaccoon](https://github.com/ZombieRaccoon)|Feb 25|:memo: earcut|M|1|Mar 24||prince-chrismc
 [#16295](https://github.com/conan-io/conan-center-index/pull/16295)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: spirv-cross|L|0|:eyes:||
@@ -143,10 +143,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3fd065567a11bd23389dac0d895fe26321d1686c
 - Pull Requests:
-	- Open: 294
+	- Open: 295
 	- Draft: 30
-	- Average Age: 60 days, 2 hours, and 33.85 minutes
-	- Stop Label: 142
+	- Average Age: 60 days, 1 hours, and 1.21 minutes
+	- Stop Label: 143
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
