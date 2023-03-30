@@ -605,7 +605,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16175",
       "LastCommitSHA": "d3017ecb39ae98a5ae7b2476ba304a8e1c5063f5",
       "LastCommitAt": "2023-02-20T15:47:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 2,
@@ -1100,33 +1100,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2023-03-23T04:29:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16383#pullrequestreview-1353832058"
-         }
-      }
-   },
-   {
-      "Number": 16388,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-03-05T01:34:49Z",
-      "Recipe": "pthreadpool",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16388",
-      "LastCommitSHA": "0118b935f942c695ffebec7cd601e7ceed327f44",
-      "LastCommitAt": "2023-03-30T14:58:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jcar87",
-            "davidsanfal"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "davidsanfal",
-            "SubmittedAt": "2023-03-30T16:58:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16388#pullrequestreview-1365551275"
          }
       }
    },
