@@ -1906,8 +1906,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16751",
-      "LastCommitSHA": "34fe5f1bfe5ae9936cd4cd1a43f047fbec9e781a",
-      "LastCommitAt": "2023-03-31T08:24:09Z",
+      "LastCommitSHA": "d61a86b869358fb3d7b1e90aa027ad4908af89e2",
+      "LastCommitAt": "2023-03-31T16:49:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 6,
@@ -1990,33 +1990,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 16767,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-03-29T11:54:15Z",
-      "Recipe": "doxygen",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16767",
-      "LastCommitSHA": "74fe598612310705948448801ffcda22ec9bc458",
-      "LastCommitAt": "2023-03-30T09:15:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-31T15:27:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16767#pullrequestreview-1367159241"
-         }
       }
    },
    {
@@ -2313,7 +2286,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16825",
       "LastCommitSHA": "a0e51c07ebebdca8b73468f4a92471241eccf085",
       "LastCommitAt": "2023-03-31T15:04:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2349,9 +2322,9 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16830",
-      "LastCommitSHA": "eadf3a1120f24464999670c9698ccf26e87e0f93",
-      "LastCommitAt": "2023-03-31T16:13:17Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "097eba1fa0a20c45d260bec8be41fcdc47cd1bfe",
+      "LastCommitAt": "2023-03-31T16:17:18Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
