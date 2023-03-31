@@ -127,19 +127,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16814](https://github.com/conan-io/conan-center-index/pull/16814)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: spirv-headers|:green_circle: XS|0|||
 [#16817](https://github.com/conan-io/conan-center-index/pull/16817)|[jhabermas](https://github.com/jhabermas)|Mar 31|:memo: wayland|:green_circle: XS|0|||
 [#16820](https://github.com/conan-io/conan-center-index/pull/16820)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: bitflags|M|1|Mar 31||prince-chrismc
-[#16825](https://github.com/conan-io/conan-center-index/pull/16825)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:stopwatch: freetype|:green_circle: XS|0|||
+[#16825](https://github.com/conan-io/conan-center-index/pull/16825)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: freetype|:green_circle: XS|0|||
 [#16829](https://github.com/conan-io/conan-center-index/pull/16829)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:stopwatch: zmarok-semver|:blue_square: S|0|||
-[#16830](https://github.com/conan-io/conan-center-index/pull/16830)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:stopwatch: function2|M|0|||
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#16767](https://github.com/conan-io/conan-center-index/pull/16767)|[samuel-emrys](https://github.com/samuel-emrys)|Mar 29|:warning: doxygen|7|SpaceIm, prince-chrismc
+[#16830](https://github.com/conan-io/conan-center-index/pull/16830)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: function2|M|0|||
 
 
 #### :clipboard: Statistics
@@ -148,9 +138,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 300
+	- Open: 299
 	- Draft: 31
-	- Average Age: 60 days, 8 hours, and 45.83 minutes
+	- Average Age: 60 days, 14 hours, and 21.81 minutes
 	- Stop Label: 140
 	
 
