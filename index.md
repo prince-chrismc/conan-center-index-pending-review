@@ -118,7 +118,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16780](https://github.com/conan-io/conan-center-index/pull/16780)|[holger-detering](https://github.com/holger-detering)|Mar 29|:stopwatch: ncurses|L|0|||
 [#16788](https://github.com/conan-io/conan-center-index/pull/16788)|[SpaceIm](https://github.com/SpaceIm)|Mar 30|:memo: s2n|L|0|||
 [#16791](https://github.com/conan-io/conan-center-index/pull/16791)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 30|:gear: .c3i|:green_circle: XS|1|Mar 30||prince-chrismc
-[#16801](https://github.com/conan-io/conan-center-index/pull/16801)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 30|:memo: hiredis|:blue_square: S|2|Mar 31||RubenRBS
+[#16801](https://github.com/conan-io/conan-center-index/pull/16801)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 30|:stopwatch: hiredis|:blue_square: S|2|Mar 31||
 [#16802](https://github.com/conan-io/conan-center-index/pull/16802)|[kletoz](https://github.com/kletoz)|Mar 30|:memo: gnu-config|:blue_square: S|1|Mar 30||prince-chrismc
 [#16807](https://github.com/conan-io/conan-center-index/pull/16807)|[toge](https://github.com/toge)|Mar 31|:stopwatch: scnlib|:green_circle: XS|1|Mar 31||prince-chrismc
 [#16808](https://github.com/conan-io/conan-center-index/pull/16808)|[toge](https://github.com/toge)|Mar 31|:stopwatch: c4core|:green_circle: XS|1|Mar 31||prince-chrismc
@@ -127,7 +127,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16817](https://github.com/conan-io/conan-center-index/pull/16817)|[jhabermas](https://github.com/jhabermas)|Mar 31|:memo: wayland|:green_circle: XS|0|||
 [#16820](https://github.com/conan-io/conan-center-index/pull/16820)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: bitflags|M|1|Mar 31||prince-chrismc
 [#16825](https://github.com/conan-io/conan-center-index/pull/16825)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: freetype|:green_circle: XS|0|||
-[#16829](https://github.com/conan-io/conan-center-index/pull/16829)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:stopwatch: zmarok-semver|:blue_square: S|0|||
+[#16829](https://github.com/conan-io/conan-center-index/pull/16829)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: zmarok-semver|:blue_square: S|0|||
 [#16830](https://github.com/conan-io/conan-center-index/pull/16830)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: function2|M|1|Mar 31||prince-chrismc
 
 
@@ -139,7 +139,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 299
 	- Draft: 31
-	- Average Age: 60 days, 16 hours, and 20.28 minutes
+	- Average Age: 60 days, 17 hours, and 22.64 minutes
 	- Stop Label: 140
 	
 
