@@ -52,7 +52,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16375](https://github.com/conan-io/conan-center-index/pull/16375)|[kielby](https://github.com/kielby)|Mar 4|:memo: wtl|L|0|:eyes:||
 [#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: libtiff|L|0|:eyes:||
 [#16381](https://github.com/conan-io/conan-center-index/pull/16381)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: dlpack|L|0|:eyes:||
-[#16392](https://github.com/conan-io/conan-center-index/pull/16392)|[Twon](https://github.com/Twon)|Mar 5|:stopwatch: wg21-linear_algebra|L|1|Mar 28|RubenRBS|
+[#16392](https://github.com/conan-io/conan-center-index/pull/16392)|[Twon](https://github.com/Twon)|Mar 5|:memo: wg21-linear_algebra|L|1|Mar 28|RubenRBS|
 [#16396](https://github.com/conan-io/conan-center-index/pull/16396)|[SpaceIm](https://github.com/SpaceIm)|Mar 5|:new: libnabo|L|0|:eyes:||
 [#16401](https://github.com/conan-io/conan-center-index/pull/16401)|[toge](https://github.com/toge)|Mar 6|:memo: c-blosc2|L|0|:eyes:||
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **20** pull requests are waiting to be merged :tada:
+Currently **18** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -119,9 +119,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: glslang|2|prince-chrismc, SSE4
 [#16166](https://github.com/conan-io/conan-center-index/pull/16166)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 20|:warning: sdl_image|4|prince-chrismc, SSE4
 [#16178](https://github.com/conan-io/conan-center-index/pull/16178)|[maxpagani](https://github.com/maxpagani)|Feb 20|:new: chef-fun|3|RubenRBS, SSE4
-[#16197](https://github.com/conan-io/conan-center-index/pull/16197)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 21|:memo: onetbb|3|prince-chrismc, SSE4
 [#16226](https://github.com/conan-io/conan-center-index/pull/16226)|[tim-goto](https://github.com/tim-goto)|Feb 22|:new: gurkenlaeufer|8|prince-chrismc, SSE4
-[#16293](https://github.com/conan-io/conan-center-index/pull/16293)|[ZombieRaccoon](https://github.com/ZombieRaccoon)|Feb 25|:memo: earcut|2|prince-chrismc, SSE4
 [#16383](https://github.com/conan-io/conan-center-index/pull/16383)|[toge](https://github.com/toge)|Mar 4|:warning: simdjson|2|prince-chrismc, SSE4
 [#16808](https://github.com/conan-io/conan-center-index/pull/16808)|[toge](https://github.com/toge)|Mar 31|:warning: c4core|2|prince-chrismc, SSE4
 
@@ -132,10 +130,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 288
+	- Open: 287
 	- Draft: 33
-	- Average Age: 62 days, 19 hours, and 15.85 minutes
-	- Stop Label: 145
+	- Average Age: 62 days, 19 hours, and 14.30 minutes
+	- Stop Label: 146
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
