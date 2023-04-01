@@ -650,33 +650,6 @@
       }
    },
    {
-      "Number": 16178,
-      "OpenedBy": "maxpagani",
-      "CreatedAt": "2023-02-20T16:44:36Z",
-      "Recipe": "chef-fun",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16178",
-      "LastCommitSHA": "edd7528f154ff907a583e0cacb6d35aefb73459b",
-      "LastCommitAt": "2023-03-06T14:22:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-04-01T07:12:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16178#pullrequestreview-1367822531"
-         }
-      }
-   },
-   {
       "Number": 16216,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-02-21T18:53:21Z",
