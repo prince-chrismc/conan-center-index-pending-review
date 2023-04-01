@@ -254,7 +254,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15907",
       "LastCommitSHA": "644edb77242a093ad5acdcbb6c69b6d3ee68da63",
       "LastCommitAt": "2023-04-01T02:33:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -2527,11 +2527,18 @@
       "LastCommitAt": "2023-03-31T21:49:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-04-01T03:50:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16838#pullrequestreview-1367804518"
+         }
       }
    },
    {
@@ -2544,39 +2551,13 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16839",
       "LastCommitSHA": "ef9766284b147127e2dadecb711033e6f657995c",
       "LastCommitAt": "2023-04-01T00:37:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 16840,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-04-01T02:22:25Z",
-      "Recipe": ".github",
-      "Change": 3,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16840",
-      "LastCommitSHA": "24e9e80a76e092726616586d87d80f07ecd149d2",
-      "LastCommitAt": "2023-04-01T02:21:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "Croydon"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2023-04-01T02:33:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16840#pullrequestreview-1367797198"
-         }
       }
    }
 ]
