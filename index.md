@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **107** pull requests currently under way :detective:
+There are **96** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -32,24 +32,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#14687](https://github.com/conan-io/conan-center-index/pull/14687)|[System-Arch](https://github.com/System-Arch)|Dec 11|:stopwatch: mpfr|L|18|Mar 31|prince-chrismc|uilianries, MartinDelille
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|:blue_square: S|0|:eyes:||
-[#15166](https://github.com/conan-io/conan-center-index/pull/15166)|[qchateau](https://github.com/qchateau)|Jan 9|:stopwatch: packio|M|1|Mar 24||prince-chrismc
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|0|:eyes:||
-[#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:stopwatch: ccache|L|9|Mar 30||prince-chrismc
-[#15838](https://github.com/conan-io/conan-center-index/pull/15838)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: coin-cgl|L|2|Mar 30||prince-chrismc
-[#15899](https://github.com/conan-io/conan-center-index/pull/15899)|[SpaceIm](https://github.com/SpaceIm)|Feb 11|:memo: libnova|:blue_square: S|1|Mar 31||prince-chrismc
 [#15907](https://github.com/conan-io/conan-center-index/pull/15907)|[paulharris](https://github.com/paulharris)|Feb 11|:memo: exprtk|L|4|Mar 31||
-[#16005](https://github.com/conan-io/conan-center-index/pull/16005)|[toge](https://github.com/toge)|Feb 14|:stopwatch: harfbuzz|:blue_square: S|8|Mar 30||prince-chrismc
 [#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|M|0|:eyes:||
-[#16019](https://github.com/conan-io/conan-center-index/pull/16019)|[toge](https://github.com/toge)|Feb 14|:new: tinyexif|M|3|Mar 31||prince-chrismc
 [#16034](https://github.com/conan-io/conan-center-index/pull/16034)|[jiaoew1991](https://github.com/jiaoew1991)|Feb 15|:stopwatch: googleapis|:green_circle: XS|6|Mar 27|jcar87|prince-chrismc, jwillikers, EstebanDugueperoux2
-[#16043](https://github.com/conan-io/conan-center-index/pull/16043)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:memo: leptonica|M|1|Mar 30||prince-chrismc
-[#16071](https://github.com/conan-io/conan-center-index/pull/16071)|[hedtke](https://github.com/hedtke)|Feb 16|:new: minisat|M|8|Mar 31||prince-chrismc
 [#16099](https://github.com/conan-io/conan-center-index/pull/16099)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libexif|L|0|:eyes:||
-[#16101](https://github.com/conan-io/conan-center-index/pull/16101)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libmodbus|M|1|Mar 24||prince-chrismc
 [#16114](https://github.com/conan-io/conan-center-index/pull/16114)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 18|:stopwatch: boost|:green_circle: XS|0|:eyes:||
-[#16116](https://github.com/conan-io/conan-center-index/pull/16116)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: mariadb-connector-c|:blue_square: S|2|Mar 24||prince-chrismc
 [#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: vulkan-validationlayers|L|0|:eyes:||
-[#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: glslang|:blue_square: S|1|Mar 30||prince-chrismc
 [#16142](https://github.com/conan-io/conan-center-index/pull/16142)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:stopwatch: apr-util|L|1|Feb 23 :bell:||
 [#16166](https://github.com/conan-io/conan-center-index/pull/16166)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 20|:stopwatch: sdl_image|:green_circle: XS|2|Mar 31||prince-chrismc
 [#16178](https://github.com/conan-io/conan-center-index/pull/16178)|[maxpagani](https://github.com/maxpagani)|Feb 20|:new: chef-fun|M|2|Mar 11 :bell:||RubenRBS
@@ -68,7 +57,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16344](https://github.com/conan-io/conan-center-index/pull/16344)|[SpaceIm](https://github.com/SpaceIm)|Mar 2|:new: cgif|M|0|:eyes:||
 [#16351](https://github.com/conan-io/conan-center-index/pull/16351)|[toge](https://github.com/toge)|Mar 2|:memo: shield|L|0|:eyes:||
 [#16375](https://github.com/conan-io/conan-center-index/pull/16375)|[kielby](https://github.com/kielby)|Mar 4|:memo: wtl|L|0|:eyes:||
-[#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: libtiff|L|0|||
+[#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: libtiff|L|0|:eyes:||
 [#16381](https://github.com/conan-io/conan-center-index/pull/16381)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: dlpack|L|0|:eyes:||
 [#16382](https://github.com/conan-io/conan-center-index/pull/16382)|[SpaceIm](https://github.com/SpaceIm)|Mar 4|:memo: qpdf|M|1|Mar 24||prince-chrismc
 [#16383](https://github.com/conan-io/conan-center-index/pull/16383)|[toge](https://github.com/toge)|Mar 4|:stopwatch: simdjson|:blue_square: S|1|Mar 23||prince-chrismc
@@ -138,12 +127,22 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **11** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16029](https://github.com/conan-io/conan-center-index/pull/16029)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: xerces-c|4|prince-chrismc, samuel-emrys
+[#15166](https://github.com/conan-io/conan-center-index/pull/15166)|[qchateau](https://github.com/qchateau)|Jan 9|:warning: packio|2|prince-chrismc, SSE4
+[#15362](https://github.com/conan-io/conan-center-index/pull/15362)|[Cogitri](https://github.com/Cogitri)|Jan 19|:warning: ccache|10|prince-chrismc, SSE4
+[#15838](https://github.com/conan-io/conan-center-index/pull/15838)|[SpaceIm](https://github.com/SpaceIm)|Feb 9|:memo: coin-cgl|3|prince-chrismc, SSE4
+[#15899](https://github.com/conan-io/conan-center-index/pull/15899)|[SpaceIm](https://github.com/SpaceIm)|Feb 11|:memo: libnova|2|prince-chrismc, SSE4
+[#16005](https://github.com/conan-io/conan-center-index/pull/16005)|[toge](https://github.com/toge)|Feb 14|:warning: harfbuzz|9|prince-chrismc, SSE4
+[#16019](https://github.com/conan-io/conan-center-index/pull/16019)|[toge](https://github.com/toge)|Feb 14|:new: tinyexif|4|prince-chrismc, SSE4
+[#16043](https://github.com/conan-io/conan-center-index/pull/16043)|[SpaceIm](https://github.com/SpaceIm)|Feb 15|:memo: leptonica|2|prince-chrismc, SSE4
+[#16071](https://github.com/conan-io/conan-center-index/pull/16071)|[hedtke](https://github.com/hedtke)|Feb 16|:new: minisat|9|prince-chrismc, SSE4
+[#16101](https://github.com/conan-io/conan-center-index/pull/16101)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libmodbus|2|prince-chrismc, SSE4
+[#16116](https://github.com/conan-io/conan-center-index/pull/16116)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: mariadb-connector-c|3|prince-chrismc, SSE4
+[#16132](https://github.com/conan-io/conan-center-index/pull/16132)|[SpaceIm](https://github.com/SpaceIm)|Feb 19|:memo: glslang|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -152,9 +151,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 302
+	- Open: 301
 	- Draft: 31
-	- Average Age: 60 days, 6 hours, and 30.05 minutes
+	- Average Age: 60 days, 8 hours, and 36.48 minutes
 	- Stop Label: 139
 	
 
