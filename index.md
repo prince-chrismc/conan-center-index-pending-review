@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **108** pull requests currently under way :detective:
+There are **107** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -121,7 +121,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16791](https://github.com/conan-io/conan-center-index/pull/16791)|[conan-center-bot](https://github.com/conan-center-bot)|Mar 30|:gear: .c3i|:green_circle: XS|1|Mar 30||prince-chrismc
 [#16801](https://github.com/conan-io/conan-center-index/pull/16801)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 30|:memo: hiredis|:blue_square: S|3|Mar 31||SpaceIm
 [#16802](https://github.com/conan-io/conan-center-index/pull/16802)|[kletoz](https://github.com/kletoz)|Mar 30|:memo: gnu-config|:blue_square: S|1|Mar 30||prince-chrismc
-[#16807](https://github.com/conan-io/conan-center-index/pull/16807)|[toge](https://github.com/toge)|Mar 31|:stopwatch: scnlib|:green_circle: XS|1|Mar 31||prince-chrismc
 [#16808](https://github.com/conan-io/conan-center-index/pull/16808)|[toge](https://github.com/toge)|Mar 31|:stopwatch: c4core|:green_circle: XS|1|Mar 31||prince-chrismc
 [#16813](https://github.com/conan-io/conan-center-index/pull/16813)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: vulkan-headers|:green_circle: XS|1|Mar 31||prince-chrismc
 [#16814](https://github.com/conan-io/conan-center-index/pull/16814)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: spirv-headers|:green_circle: XS|0|||
@@ -139,13 +138,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16029](https://github.com/conan-io/conan-center-index/pull/16029)|[SpaceIm](https://github.com/SpaceIm)|Feb 14|:memo: xerces-c|4|prince-chrismc, samuel-emrys
-[#16491](https://github.com/conan-io/conan-center-index/pull/16491)|[dariusarnold](https://github.com/dariusarnold)|Mar 9|:memo: nas|6|prince-chrismc, samuel-emrys
 
 
 #### :clipboard: Statistics
@@ -154,10 +152,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 303
+	- Open: 302
 	- Draft: 31
-	- Average Age: 60 days, 2 hours, and 25.62 minutes
-	- Stop Label: 138
+	- Average Age: 60 days, 6 hours, and 30.05 minutes
+	- Stop Label: 139
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
