@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16698](https://github.com/conan-io/conan-center-index/pull/16698)|[Woazim](https://github.com/Woazim)|Mar 25|:memo: imagl|L|0|:eyes:||
 [#16702](https://github.com/conan-io/conan-center-index/pull/16702)|[SpaceIm](https://github.com/SpaceIm)|Mar 25|:memo: mimalloc|L|0|:eyes:||
 [#16703](https://github.com/conan-io/conan-center-index/pull/16703)|[mayeut](https://github.com/mayeut)|Mar 25|:memo: nsync|L|5|Apr 1||SpaceIm, SSE4
-[#16725](https://github.com/conan-io/conan-center-index/pull/16725)|[sykhro](https://github.com/sykhro)|Mar 27|:memo: libpng|:blue_square: S|4|Apr 1||SpaceIm
+[#16725](https://github.com/conan-io/conan-center-index/pull/16725)|[sykhro](https://github.com/sykhro)|Mar 27|:memo: libpng|:blue_square: S|5|Apr 1||SpaceIm, SSE4
 [#16728](https://github.com/conan-io/conan-center-index/pull/16728)|[PeteAudinate](https://github.com/PeteAudinate)|Mar 27|:stopwatch: b2|:green_circle: XS|0|:eyes:||
 [#16730](https://github.com/conan-io/conan-center-index/pull/16730)|[toge](https://github.com/toge)|Mar 27|:memo: bzip3|:blue_square: S|0|:eyes:||
 [#16736](https://github.com/conan-io/conan-center-index/pull/16736)|[cmannett85](https://github.com/cmannett85)|Mar 27|:new: arg_router|M|4|Mar 27||
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -122,7 +122,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16197](https://github.com/conan-io/conan-center-index/pull/16197)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 21|:memo: onetbb|3|prince-chrismc, SSE4
 [#16226](https://github.com/conan-io/conan-center-index/pull/16226)|[tim-goto](https://github.com/tim-goto)|Feb 22|:new: gurkenlaeufer|8|prince-chrismc, SSE4
 [#16293](https://github.com/conan-io/conan-center-index/pull/16293)|[ZombieRaccoon](https://github.com/ZombieRaccoon)|Feb 25|:memo: earcut|2|prince-chrismc, SSE4
-[#16382](https://github.com/conan-io/conan-center-index/pull/16382)|[SpaceIm](https://github.com/SpaceIm)|Mar 4|:memo: qpdf|2|prince-chrismc, SSE4
 [#16383](https://github.com/conan-io/conan-center-index/pull/16383)|[toge](https://github.com/toge)|Mar 4|:warning: simdjson|2|prince-chrismc, SSE4
 [#16808](https://github.com/conan-io/conan-center-index/pull/16808)|[toge](https://github.com/toge)|Mar 31|:warning: c4core|2|prince-chrismc, SSE4
 
@@ -134,8 +133,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
 	- Open: 288
-	- Draft: 32
-	- Average Age: 62 days, 20 hours, and 32.84 minutes
+	- Draft: 33
+	- Average Age: 62 days, 19 hours, and 15.85 minutes
 	- Stop Label: 145
 	
 
