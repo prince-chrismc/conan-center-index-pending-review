@@ -85,8 +85,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16839](https://github.com/conan-io/conan-center-index/pull/16839)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: opengv|M|0|||
 [#16851](https://github.com/conan-io/conan-center-index/pull/16851)|[Jean1995](https://github.com/Jean1995)|Apr 1|:stopwatch: proposal|L|0|||
 [#16854](https://github.com/conan-io/conan-center-index/pull/16854)|[mayeut](https://github.com/mayeut)|Apr 2|:memo: eigen|M|0|||
-[#16855](https://github.com/conan-io/conan-center-index/pull/16855)|[toge](https://github.com/toge)|Apr 2|:stopwatch: minizip-ng|:blue_square: S|0|||
-[#16856](https://github.com/conan-io/conan-center-index/pull/16856)|[SpaceIm](https://github.com/SpaceIm)|Apr 2|:stopwatch: libfdk_aac|:green_circle: XS|0|||
+[#16855](https://github.com/conan-io/conan-center-index/pull/16855)|[toge](https://github.com/toge)|Apr 2|:memo: minizip-ng|:blue_square: S|0|||
+[#16856](https://github.com/conan-io/conan-center-index/pull/16856)|[SpaceIm](https://github.com/SpaceIm)|Apr 2|:memo: libfdk_aac|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 270
 	- Draft: 34
-	- Average Age: 64 days, 21 hours, and 51.21 minutes
+	- Average Age: 64 days, 23 hours, and 50.13 minutes
 	- Stop Label: 145
 	
 
