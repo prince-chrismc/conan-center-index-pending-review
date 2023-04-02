@@ -1484,5 +1484,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 16855,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-04-02T14:11:02Z",
+      "Recipe": "minizip-ng",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16855",
+      "LastCommitSHA": "005af85f8a974056dc32452caec385fb52158962",
+      "LastCommitAt": "2023-04-02T14:10:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
