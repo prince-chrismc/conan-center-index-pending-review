@@ -248,33 +248,6 @@
       }
    },
    {
-      "Number": 15899,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-02-11T10:15:07Z",
-      "Recipe": "libnova",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15899",
-      "LastCommitSHA": "93c18a62b7f8381fc12be6913bde09de96804117",
-      "LastCommitAt": "2023-02-11T10:14:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-04-01T07:05:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15899#pullrequestreview-1367821871"
-         }
-      }
-   },
-   {
       "Number": 15907,
       "OpenedBy": "paulharris",
       "CreatedAt": "2023-02-11T13:34:20Z",
