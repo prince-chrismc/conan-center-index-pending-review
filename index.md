@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **62** pull requests currently under way :detective:
+There are **63** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -89,6 +89,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16856](https://github.com/conan-io/conan-center-index/pull/16856)|[SpaceIm](https://github.com/SpaceIm)|Apr 2|:memo: libfdk_aac|:green_circle: XS|0|||
 [#16861](https://github.com/conan-io/conan-center-index/pull/16861)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 2|:stopwatch: backward-cpp|:green_circle: XS|0|||
 [#16862](https://github.com/conan-io/conan-center-index/pull/16862)|[tuduongquyet](https://github.com/tuduongquyet)|Apr 3|:stopwatch: libexif|:green_circle: XS|0|||
+[#16863](https://github.com/conan-io/conan-center-index/pull/16863)|[toge](https://github.com/toge)|Apr 3|:stopwatch: commata|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -107,7 +108,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16843](https://github.com/conan-io/conan-center-index/pull/16843)|[SpaceIm](https://github.com/SpaceIm)|Apr 1|:memo: libyuv|2|prince-chrismc, SSE4
 [#16844](https://github.com/conan-io/conan-center-index/pull/16844)|[SpaceIm](https://github.com/SpaceIm)|Apr 1|:memo: apr|2|prince-chrismc, SSE4
 [#16846](https://github.com/conan-io/conan-center-index/pull/16846)|[SpaceIm](https://github.com/SpaceIm)|Apr 1|:memo: coin-lemon|2|prince-chrismc, SSE4
-[#16859](https://github.com/conan-io/conan-center-index/pull/16859)|[SpaceIm](https://github.com/SpaceIm)|Apr 2|:memo: jfalcou-eve|2|prince-chrismc, SSE4
+[#16859](https://github.com/conan-io/conan-center-index/pull/16859)|[SpaceIm](https://github.com/SpaceIm)|Apr 2|:memo: jfalcou-eve|3|prince-chrismc, SSE4, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -116,9 +117,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 274
+	- Open: 275
 	- Draft: 35
-	- Average Age: 64 days, 13 hours, and 57.47 minutes
+	- Average Age: 64 days, 9 hours, and 23.42 minutes
 	- Stop Label: 143
 	
 
