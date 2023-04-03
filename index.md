@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **63** pull requests currently under way :detective:
+There are **64** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16685](https://github.com/conan-io/conan-center-index/pull/16685)|[joakimono](https://github.com/joakimono)|Mar 24|:memo: hdf5|L|3|Mar 26||
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
 [#16698](https://github.com/conan-io/conan-center-index/pull/16698)|[Woazim](https://github.com/Woazim)|Mar 25|:memo: imagl|L|0|:eyes:||
-[#16701](https://github.com/conan-io/conan-center-index/pull/16701)|[elejke](https://github.com/elejke)|Mar 25|:new: wil|M|1|Mar 30||
+[#16701](https://github.com/conan-io/conan-center-index/pull/16701)|[elejke](https://github.com/elejke)|Mar 25|:stopwatch: wil|M|1|Mar 30||
 [#16702](https://github.com/conan-io/conan-center-index/pull/16702)|[SpaceIm](https://github.com/SpaceIm)|Mar 25|:memo: mimalloc|L|0|:eyes:||
 [#16703](https://github.com/conan-io/conan-center-index/pull/16703)|[mayeut](https://github.com/mayeut)|Mar 25|:memo: nsync|L|5|Apr 1||SpaceIm, SSE4
 [#16728](https://github.com/conan-io/conan-center-index/pull/16728)|[PeteAudinate](https://github.com/PeteAudinate)|Mar 27|:stopwatch: b2|:green_circle: XS|0|:eyes:||
@@ -90,11 +90,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16861](https://github.com/conan-io/conan-center-index/pull/16861)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 2|:stopwatch: backward-cpp|:green_circle: XS|0|||
 [#16862](https://github.com/conan-io/conan-center-index/pull/16862)|[tuduongquyet](https://github.com/tuduongquyet)|Apr 3|:stopwatch: libexif|:green_circle: XS|0|||
 [#16863](https://github.com/conan-io/conan-center-index/pull/16863)|[toge](https://github.com/toge)|Apr 3|:memo: commata|:blue_square: S|0|||
+[#16866](https://github.com/conan-io/conan-center-index/pull/16866)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 3|:stopwatch: emsdk|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -104,7 +105,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16099](https://github.com/conan-io/conan-center-index/pull/16099)|[SpaceIm](https://github.com/SpaceIm)|Feb 17|:memo: libexif|2|prince-chrismc, SSE4
 [#16275](https://github.com/conan-io/conan-center-index/pull/16275)|[SpaceIm](https://github.com/SpaceIm)|Feb 24|:memo: c-blosc2|2|prince-chrismc, SSE4
 [#16295](https://github.com/conan-io/conan-center-index/pull/16295)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: spirv-cross|2|prince-chrismc, SSE4
-[#16829](https://github.com/conan-io/conan-center-index/pull/16829)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: zmarok-semver|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 271
 	- Draft: 35
-	- Average Age: 65 days, 9 hours, and 31.89 minutes
+	- Average Age: 65 days, 10 hours, and 14.33 minutes
 	- Stop Label: 144
 	
 
