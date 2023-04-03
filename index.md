@@ -82,13 +82,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16851](https://github.com/conan-io/conan-center-index/pull/16851)|[Jean1995](https://github.com/Jean1995)|Apr 1|:stopwatch: proposal|L|0|||
 [#16854](https://github.com/conan-io/conan-center-index/pull/16854)|[mayeut](https://github.com/mayeut)|Apr 2|:memo: eigen|M|1|Apr 3||jwillikers
 [#16855](https://github.com/conan-io/conan-center-index/pull/16855)|[toge](https://github.com/toge)|Apr 2|:memo: minizip-ng|:blue_square: S|0|||
-[#16856](https://github.com/conan-io/conan-center-index/pull/16856)|[SpaceIm](https://github.com/SpaceIm)|Apr 2|:memo: libfdk_aac|:green_circle: XS|0|||
+[#16856](https://github.com/conan-io/conan-center-index/pull/16856)|[SpaceIm](https://github.com/SpaceIm)|Apr 2|:memo: libfdk_aac|:green_circle: XS|1|Apr 3||RubenRBS
 [#16861](https://github.com/conan-io/conan-center-index/pull/16861)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 2|:stopwatch: backward-cpp|:green_circle: XS|0|||
 [#16862](https://github.com/conan-io/conan-center-index/pull/16862)|[tuduongquyet](https://github.com/tuduongquyet)|Apr 3|:stopwatch: libexif|:green_circle: XS|0|||
 [#16863](https://github.com/conan-io/conan-center-index/pull/16863)|[toge](https://github.com/toge)|Apr 3|:memo: commata|:blue_square: S|0|||
 [#16866](https://github.com/conan-io/conan-center-index/pull/16866)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 3|:stopwatch: emsdk|:green_circle: XS|0|||
 [#16867](https://github.com/conan-io/conan-center-index/pull/16867)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 3|:gear: .c3i|:green_circle: XS|1|Apr 3||SSE4
-[#16868](https://github.com/conan-io/conan-center-index/pull/16868)|[hedtke](https://github.com/hedtke)|Apr 3|:memo: minisat|L|0|||
+[#16868](https://github.com/conan-io/conan-center-index/pull/16868)|[hedtke](https://github.com/hedtke)|Apr 3|:memo: minisat|L|1|Apr 3||RubenRBS
 [#16869](https://github.com/conan-io/conan-center-index/pull/16869)|[uilianries](https://github.com/uilianries)|Apr 3|:gear: .c3i|L|1|Apr 3||SSE4
 [#16870](https://github.com/conan-io/conan-center-index/pull/16870)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 3|:stopwatch: sqlite3|:green_circle: XS|0|||
 [#16872](https://github.com/conan-io/conan-center-index/pull/16872)|[toge](https://github.com/toge)|Apr 3|:stopwatch: drogon|M|0|||
@@ -113,7 +113,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 270
 	- Draft: 34
-	- Average Age: 63 days, 16 hours, and 32.27 minutes
+	- Average Age: 63 days, 17 hours, and 26.84 minutes
 	- Stop Label: 145
 	
 
