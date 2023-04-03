@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **67** pull requests currently under way :detective:
+There are **68** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -94,17 +94,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16870](https://github.com/conan-io/conan-center-index/pull/16870)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 3|:stopwatch: sqlite3|:green_circle: XS|0|||
 [#16872](https://github.com/conan-io/conan-center-index/pull/16872)|[toge](https://github.com/toge)|Apr 3|:stopwatch: drogon|M|0|||
 [#16873](https://github.com/conan-io/conan-center-index/pull/16873)|[toge](https://github.com/toge)|Apr 3|:stopwatch: trantor|:green_circle: XS|0|||
+[#16874](https://github.com/conan-io/conan-center-index/pull/16874)|[kletoz](https://github.com/kletoz)|Apr 3|:stopwatch: libcurl|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#11459](https://github.com/conan-io/conan-center-index/pull/11459)|[hnOsmium0001](https://github.com/hnOsmium0001)|Jun 30|:new: status-code|5|prince-chrismc, SSE4
-[#15092](https://github.com/conan-io/conan-center-index/pull/15092)|[gjasny](https://github.com/gjasny)|Jan 3|:memo: rapidcheck|7|RubenRBS, SSE4
 [#16392](https://github.com/conan-io/conan-center-index/pull/16392)|[Twon](https://github.com/Twon)|Mar 5|:warning: wg21-linear_algebra|4|RubenRBS, SSE4
 
 
@@ -116,7 +116,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 272
 	- Draft: 34
-	- Average Age: 64 days, 11 hours, and 56.54 minutes
+	- Average Age: 64 days, 4 hours, and 56.30 minutes
 	- Stop Label: 145
 	
 
