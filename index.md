@@ -73,7 +73,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16861](https://github.com/conan-io/conan-center-index/pull/16861)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 2|:stopwatch: backward-cpp|:green_circle: XS|0|||
 [#16865](https://github.com/conan-io/conan-center-index/pull/16865)|[Jihadist](https://github.com/Jihadist)|Apr 3|:new: agg|M|0|||
 [#16866](https://github.com/conan-io/conan-center-index/pull/16866)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 3|:stopwatch: emsdk|:green_circle: XS|1|Apr 4||prince-chrismc
-[#16877](https://github.com/conan-io/conan-center-index/pull/16877)|[chausner](https://github.com/chausner)|Apr 3|:new: libcoro|L|0|||
+[#16877](https://github.com/conan-io/conan-center-index/pull/16877)|[chausner](https://github.com/chausner)|Apr 3|:stopwatch: libcoro|L|0|||
 [#16880](https://github.com/conan-io/conan-center-index/pull/16880)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 4|:memo: paho-mqtt-c|:green_circle: XS|1|Apr 4||Hopobcn
 [#16885](https://github.com/conan-io/conan-center-index/pull/16885)|[db4](https://github.com/db4)|Apr 4|:memo: nng|L|0|||
 [#16890](https://github.com/conan-io/conan-center-index/pull/16890)|[Hopobcn](https://github.com/Hopobcn)|Apr 4|:memo: libdwarf|:green_circle: XS|0|||
@@ -84,14 +84,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16114](https://github.com/conan-io/conan-center-index/pull/16114)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 18|:warning: boost|6|grafikrobot, SSE4, prince-chrismc
-[#16297](https://github.com/conan-io/conan-center-index/pull/16297)|[SpaceIm](https://github.com/SpaceIm)|Feb 26|:memo: moltenvk|2|prince-chrismc, SSE4
-[#16837](https://github.com/conan-io/conan-center-index/pull/16837)|[SpaceIm](https://github.com/SpaceIm)|Mar 31|:memo: pfr|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -100,9 +98,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 263
+	- Open: 261
 	- Draft: 31
-	- Average Age: 65 days, 19 hours, and 13.89 minutes
+	- Average Age: 66 days, 4 hours, and 29.45 minutes
 	- Stop Label: 147
 	
 
