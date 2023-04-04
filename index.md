@@ -77,13 +77,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16866](https://github.com/conan-io/conan-center-index/pull/16866)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 3|:stopwatch: emsdk|:green_circle: XS|0|||
 [#16880](https://github.com/conan-io/conan-center-index/pull/16880)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 4|:memo: paho-mqtt-c|:green_circle: XS|0|||
 [#16881](https://github.com/conan-io/conan-center-index/pull/16881)|[paulharris](https://github.com/paulharris)|Apr 4|:stopwatch: ccache|:blue_square: S|0|||
-[#16882](https://github.com/conan-io/conan-center-index/pull/16882)|[mayeut](https://github.com/mayeut)|Apr 4|:memo: safeint|:green_circle: XS|0|||
+[#16882](https://github.com/conan-io/conan-center-index/pull/16882)|[mayeut](https://github.com/mayeut)|Apr 4|:memo: safeint|:green_circle: XS|1|Apr 4||SpaceIm
 [#16883](https://github.com/conan-io/conan-center-index/pull/16883)|[toge](https://github.com/toge)|Apr 4|:stopwatch: wasmtime-cpp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -96,8 +96,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16751](https://github.com/conan-io/conan-center-index/pull/16751)|[MartinDelille](https://github.com/MartinDelille)|Mar 28|:warning: sentry-crashpad|8|prince-chrismc, SSE4
 [#16862](https://github.com/conan-io/conan-center-index/pull/16862)|[tuduongquyet](https://github.com/tuduongquyet)|Apr 3|:memo: libexif|3|prince-chrismc, SSE4, SpaceIm
 [#16863](https://github.com/conan-io/conan-center-index/pull/16863)|[toge](https://github.com/toge)|Apr 3|:memo: commata|2|prince-chrismc, SSE4
-[#16868](https://github.com/conan-io/conan-center-index/pull/16868)|[hedtke](https://github.com/hedtke)|Apr 3|:warning: minisat|4|SpaceIm, RubenRBS
-[#16870](https://github.com/conan-io/conan-center-index/pull/16870)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 3|:warning: sqlite3|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -106,9 +104,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 270
+	- Open: 269
 	- Draft: 34
-	- Average Age: 64 days, 1 hours, and 26.22 minutes
+	- Average Age: 64 days, 8 hours, and 1.61 minutes
 	- Stop Label: 147
 	
 
