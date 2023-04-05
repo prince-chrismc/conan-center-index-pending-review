@@ -324,30 +324,6 @@
       }
    },
    {
-      "Number": 16367,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-03-03T14:48:04Z",
-      "Recipe": "glaze",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16367",
-      "LastCommitSHA": "45b8af0f4016f4f9b16ec8e46ef11ebb243892a5",
-      "LastCommitAt": "2023-04-05T14:09:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-03-30T22:06:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16367#pullrequestreview-1366001415"
-         }
-      }
-   },
-   {
       "Number": 16375,
       "OpenedBy": "kielby",
       "CreatedAt": "2023-03-04T01:37:25Z",
@@ -1194,25 +1170,6 @@
       }
    },
    {
-      "Number": 16901,
-      "OpenedBy": "jcar87",
-      "CreatedAt": "2023-04-05T13:06:16Z",
-      "Recipe": "vulkan-headers",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16901",
-      "LastCommitSHA": "dd6bdf938848f3428df8b9832cccef88af990944",
-      "LastCommitAt": "2023-04-05T12:59:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 16902,
       "OpenedBy": "robomics",
       "CreatedAt": "2023-04-05T13:39:59Z",
@@ -1222,25 +1179,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16902",
       "LastCommitSHA": "ca1f80db3f7cb68e444bd020250b381dc8db505e",
       "LastCommitAt": "2023-04-05T13:37:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 16904,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-04-05T14:03:37Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16904",
-      "LastCommitSHA": "3c62b4dd3271c4f328e84fc447d592d2a2ba2520",
-      "LastCommitAt": "2023-04-05T14:01:13Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
