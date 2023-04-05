@@ -278,7 +278,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16299",
       "LastCommitSHA": "fda45b286ce0a808f279ebdaefbc3ed10cbd8ef1",
       "LastCommitAt": "2023-04-05T07:52:21Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -955,33 +955,6 @@
             "ReviewerName": "facontidavide",
             "SubmittedAt": "2023-03-29T13:57:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16731#pullrequestreview-1363176770"
-         }
-      }
-   },
-   {
-      "Number": 16768,
-      "OpenedBy": "pezy",
-      "CreatedAt": "2023-03-29T12:35:17Z",
-      "Recipe": "mio",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16768",
-      "LastCommitSHA": "3e44004200351ce93da8ad90fe106ed2d4a6d238",
-      "LastCommitAt": "2023-03-29T12:28:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-04-05T06:44:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16768#pullrequestreview-1372247695"
          }
       }
    },
