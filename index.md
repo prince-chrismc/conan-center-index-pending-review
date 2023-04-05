@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -38,6 +38,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16339](https://github.com/conan-io/conan-center-index/pull/16339)|[SpaceIm](https://github.com/SpaceIm)|Mar 1|:new: libvips|L|0|:eyes:||
 [#16344](https://github.com/conan-io/conan-center-index/pull/16344)|[SpaceIm](https://github.com/SpaceIm)|Mar 2|:new: cgif|M|0|:eyes:||
 [#16351](https://github.com/conan-io/conan-center-index/pull/16351)|[toge](https://github.com/toge)|Mar 2|:memo: shield|L|0|:eyes:||
+[#16367](https://github.com/conan-io/conan-center-index/pull/16367)|[toge](https://github.com/toge)|Mar 3|:stopwatch: glaze|:blue_square: S|3|Mar 30||
 [#16375](https://github.com/conan-io/conan-center-index/pull/16375)|[kielby](https://github.com/kielby)|Mar 4|:memo: wtl|L|0|:eyes:||
 [#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: libtiff|L|0|:eyes:||
 [#16381](https://github.com/conan-io/conan-center-index/pull/16381)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: dlpack|L|0|:eyes:||
@@ -78,7 +79,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16885](https://github.com/conan-io/conan-center-index/pull/16885)|[db4](https://github.com/db4)|Apr 4|:memo: nng|L|0|||
 [#16890](https://github.com/conan-io/conan-center-index/pull/16890)|[Hopobcn](https://github.com/Hopobcn)|Apr 4|:memo: libdwarf|:green_circle: XS|0|||
 [#16891](https://github.com/conan-io/conan-center-index/pull/16891)|[Hopobcn](https://github.com/Hopobcn)|Apr 4|:memo: libiberty|:green_circle: XS|1|Apr 4||prince-chrismc
-[#16892](https://github.com/conan-io/conan-center-index/pull/16892)|[toge](https://github.com/toge)|Apr 4|:stopwatch: wasmtime|:blue_square: S|1|Apr 4||prince-chrismc
+[#16892](https://github.com/conan-io/conan-center-index/pull/16892)|[toge](https://github.com/toge)|Apr 4|:memo: wasmtime|:blue_square: S|1|Apr 4||prince-chrismc
 [#16893](https://github.com/conan-io/conan-center-index/pull/16893)|[Tobulus](https://github.com/Tobulus)|Apr 4|:stopwatch: libbsd|L|0|||
 
 
@@ -100,8 +101,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 261
 	- Draft: 31
-	- Average Age: 66 days, 5 hours, and 30.23 minutes
-	- Stop Label: 147
+	- Average Age: 66 days, 8 hours, and 8.38 minutes
+	- Stop Label: 146
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
