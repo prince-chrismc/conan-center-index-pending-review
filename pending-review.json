@@ -1185,6 +1185,25 @@
       }
    },
    {
+      "Number": 16894,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2023-04-04T18:26:51Z",
+      "Recipe": "openexr",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16894",
+      "LastCommitSHA": "8ec5370b191d0f1787fb4de67c63f514356897fc",
+      "LastCommitAt": "2023-04-04T18:26:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 16896,
       "OpenedBy": "toge",
       "CreatedAt": "2023-04-05T02:13:51Z",
@@ -1194,7 +1213,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16896",
       "LastCommitSHA": "a9953ba59210c0c8ce3a5c0f8bb3941dd599c788",
       "LastCommitAt": "2023-04-05T02:12:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
