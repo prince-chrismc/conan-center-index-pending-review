@@ -81,7 +81,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -90,7 +90,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16114](https://github.com/conan-io/conan-center-index/pull/16114)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 18|:warning: boost|7|grafikrobot, SSE4, prince-chrismc, Hopobcn
 [#16328](https://github.com/conan-io/conan-center-index/pull/16328)|[0xFireWolf](https://github.com/0xFireWolf)|Feb 28|:warning: antlr4-cppruntime|7|prince-chrismc, SSE4
 [#16685](https://github.com/conan-io/conan-center-index/pull/16685)|[joakimono](https://github.com/joakimono)|Mar 24|:warning: hdf5|5|prince-chrismc, SSE4
-[#16897](https://github.com/conan-io/conan-center-index/pull/16897)|[gjasny](https://github.com/gjasny)|Apr 5|:memo: hidapi|2|prince-chrismc, SSE4
 [#16911](https://github.com/conan-io/conan-center-index/pull/16911)|[paulharris](https://github.com/paulharris)|Apr 5|:warning: proj|2|SpaceIm, prince-chrismc
 
 
@@ -100,9 +99,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 260
+	- Open: 259
 	- Draft: 32
-	- Average Age: 66 days, 21 hours, and 33.05 minutes
+	- Average Age: 67 days, 4 hours, and 35.78 minutes
 	- Stop Label: 152
 	
 
