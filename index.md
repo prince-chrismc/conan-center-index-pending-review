@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **57** pull requests currently under way :detective:
+There are **56** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -34,7 +34,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|:blue_square: S|0|:eyes:||
 [#15601](https://github.com/conan-io/conan-center-index/pull/15601)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:stopwatch: googleapis|M|3|Apr 5||
 [#15726](https://github.com/conan-io/conan-center-index/pull/15726)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: folly|XL|8|Feb 21 :bell:||
-[#16187](https://github.com/conan-io/conan-center-index/pull/16187)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:memo: readosm|L|2|Apr 6||jwillikers
 [#16205](https://github.com/conan-io/conan-center-index/pull/16205)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:memo: libxslt|L|3|Mar 28||
 [#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|||
 [#16299](https://github.com/conan-io/conan-center-index/pull/16299)|[Jean1995](https://github.com/Jean1995)|Feb 26|:memo: cubicinterpolation|L|4|Apr 4||
@@ -47,7 +46,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16385](https://github.com/conan-io/conan-center-index/pull/16385)|[gjasny](https://github.com/gjasny)|Mar 4|:stopwatch: libdb|M|0|:eyes:||
 [#16396](https://github.com/conan-io/conan-center-index/pull/16396)|[SpaceIm](https://github.com/SpaceIm)|Mar 5|:new: libnabo|L|1|Apr 6||jwillikers
 [#16401](https://github.com/conan-io/conan-center-index/pull/16401)|[toge](https://github.com/toge)|Mar 6|:memo: c-blosc2|L|1|Apr 6||jwillikers
-[#16416](https://github.com/conan-io/conan-center-index/pull/16416)|[mwerminski](https://github.com/mwerminski)|Mar 7|:memo: vincentlaucsb-csv-parser|M|0|||
+[#16416](https://github.com/conan-io/conan-center-index/pull/16416)|[mwerminski](https://github.com/mwerminski)|Mar 7|:memo: vincentlaucsb-csv-parser|M|1|Apr 6||prince-chrismc
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
 [#16435](https://github.com/conan-io/conan-center-index/pull/16435)|[SpaceIm](https://github.com/SpaceIm)|Mar 7|:memo: editline|L|1|Apr 6||jwillikers
 [#16438](https://github.com/conan-io/conan-center-index/pull/16438)|[coryan](https://github.com/coryan)|Mar 7|:stopwatch: google-cloud-cpp|XL|0|:eyes:||
@@ -88,7 +87,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -96,7 +95,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16034](https://github.com/conan-io/conan-center-index/pull/16034)|[jiaoew1991](https://github.com/jiaoew1991)|Feb 15|:warning: googleapis|10|prince-chrismc, SSE4
 [#16114](https://github.com/conan-io/conan-center-index/pull/16114)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 18|:warning: boost|7|grafikrobot, SSE4, prince-chrismc, Hopobcn
 [#16328](https://github.com/conan-io/conan-center-index/pull/16328)|[0xFireWolf](https://github.com/0xFireWolf)|Feb 28|:warning: antlr4-cppruntime|7|prince-chrismc, SSE4
-[#16911](https://github.com/conan-io/conan-center-index/pull/16911)|[paulharris](https://github.com/paulharris)|Apr 5|:warning: proj|3|SpaceIm, prince-chrismc, jwillikers
 
 
 #### :clipboard: Statistics
@@ -105,9 +103,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 261
+	- Open: 259
 	- Draft: 32
-	- Average Age: 66 days, 21 hours, and 31.58 minutes
+	- Average Age: 67 days, 6 hours, and 38.04 minutes
 	- Stop Label: 151
 	
 
