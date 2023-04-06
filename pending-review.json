@@ -1298,7 +1298,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16920",
       "LastCommitSHA": "cf000b3d7784ceb873b21fe6e1dad8b572dd6c5a",
       "LastCommitAt": "2023-04-06T11:02:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1343,7 +1343,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16922",
       "LastCommitSHA": "d9971e74655fbe94be7576f25bf5a6973a9f3ef9",
       "LastCommitAt": "2023-04-06T12:23:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1381,25 +1381,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16928",
       "LastCommitSHA": "413b6f4f7c5ae928635026800b75f4d12f5b7369",
       "LastCommitAt": "2023-04-06T15:20:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 16930,
-      "OpenedBy": "gjasny",
-      "CreatedAt": "2023-04-06T19:00:05Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16930",
-      "LastCommitSHA": "5803544dd5de37cf1de40033065be2cdd3eee24f",
-      "LastCommitAt": "2023-04-06T18:57:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
