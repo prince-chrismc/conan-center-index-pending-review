@@ -256,7 +256,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16205",
       "LastCommitSHA": "afec3236a81e21a96a7c83cf207f672e3703f369",
       "LastCommitAt": "2023-04-06T07:30:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -650,6 +650,30 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2023-03-09T00:13:22Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16475#pullrequestreview-1331775868"
+         }
+      }
+   },
+   {
+      "Number": 16487,
+      "OpenedBy": "hellozee",
+      "CreatedAt": "2023-03-09T16:33:57Z",
+      "Recipe": "mpdecimal",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16487",
+      "LastCommitSHA": "912a9cbdd5663821625276073eb88eba2e967c1c",
+      "LastCommitAt": "2023-04-06T07:40:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 7,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "sorny92",
+            "SubmittedAt": "2023-04-06T07:28:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16487#pullrequestreview-1374216282"
          }
       }
    },
