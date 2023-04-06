@@ -1091,33 +1091,6 @@
       }
    },
    {
-      "Number": 16897,
-      "OpenedBy": "gjasny",
-      "CreatedAt": "2023-04-05T07:17:33Z",
-      "Recipe": "hidapi",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16897",
-      "LastCommitSHA": "083283e67afc42d24a93e34ab462881b68ed8d98",
-      "LastCommitAt": "2023-04-05T10:37:13Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-04-06T08:06:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16897#pullrequestreview-1374290127"
-         }
-      }
-   },
-   {
       "Number": 16910,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2023-04-05T21:55:35Z",
