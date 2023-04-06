@@ -82,7 +82,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16894](https://github.com/conan-io/conan-center-index/pull/16894)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 4|:stopwatch: openexr|:green_circle: XS|2|Apr 5||
 [#16897](https://github.com/conan-io/conan-center-index/pull/16897)|[gjasny](https://github.com/gjasny)|Apr 5|:memo: hidapi|:green_circle: XS|0|||
 [#16902](https://github.com/conan-io/conan-center-index/pull/16902)|[robomics](https://github.com/robomics)|Apr 5|:memo: highfive|:blue_square: S|0|||
-[#16910](https://github.com/conan-io/conan-center-index/pull/16910)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 5|:stopwatch: utfcpp|:green_circle: XS|2|Apr 6||SpaceIm, 0xFireWolf
+[#16910](https://github.com/conan-io/conan-center-index/pull/16910)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 5|:memo: utfcpp|:green_circle: XS|2|Apr 6||SpaceIm, 0xFireWolf
 [#16912](https://github.com/conan-io/conan-center-index/pull/16912)|[paulharris](https://github.com/paulharris)|Apr 5|:stopwatch: netcdf|:green_circle: XS|0|||
 
 
@@ -105,7 +105,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 258
 	- Draft: 31
-	- Average Age: 67 days, 3 hours, and 31.17 minutes
+	- Average Age: 67 days, 4 hours, and 43.70 minutes
 	- Stop Label: 147
 	
 
