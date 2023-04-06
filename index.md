@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **54** pull requests currently under way :detective:
+There are **53** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -72,13 +72,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16877](https://github.com/conan-io/conan-center-index/pull/16877)|[chausner](https://github.com/chausner)|Apr 3|:new: libcoro|L|0|||
 [#16880](https://github.com/conan-io/conan-center-index/pull/16880)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 4|:memo: paho-mqtt-c|:green_circle: XS|1|Apr 4||Hopobcn
 [#16885](https://github.com/conan-io/conan-center-index/pull/16885)|[db4](https://github.com/db4)|Apr 4|:memo: nng|L|0|||
-[#16890](https://github.com/conan-io/conan-center-index/pull/16890)|[Hopobcn](https://github.com/Hopobcn)|Apr 4|:memo: libdwarf|:green_circle: XS|2|Apr 5||jwillikers, 0xFireWolf
 [#16893](https://github.com/conan-io/conan-center-index/pull/16893)|[Tobulus](https://github.com/Tobulus)|Apr 4|:stopwatch: libbsd|L|0|||
-[#16897](https://github.com/conan-io/conan-center-index/pull/16897)|[gjasny](https://github.com/gjasny)|Apr 5|:memo: hidapi|:green_circle: XS|0|||
-[#16902](https://github.com/conan-io/conan-center-index/pull/16902)|[robomics](https://github.com/robomics)|Apr 5|:memo: highfive|:blue_square: S|0|||
+[#16897](https://github.com/conan-io/conan-center-index/pull/16897)|[gjasny](https://github.com/gjasny)|Apr 5|:memo: hidapi|:green_circle: XS|1|Apr 6||prince-chrismc
+[#16902](https://github.com/conan-io/conan-center-index/pull/16902)|[robomics](https://github.com/robomics)|Apr 5|:memo: highfive|:blue_square: S|1|Apr 6||prince-chrismc
 [#16910](https://github.com/conan-io/conan-center-index/pull/16910)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 5|:memo: utfcpp|:green_circle: XS|2|Apr 6||SpaceIm, 0xFireWolf
 [#16912](https://github.com/conan-io/conan-center-index/pull/16912)|[paulharris](https://github.com/paulharris)|Apr 5|:stopwatch: netcdf|:green_circle: XS|0|||
-[#16913](https://github.com/conan-io/conan-center-index/pull/16913)|[paulharris](https://github.com/paulharris)|Apr 6|:stopwatch: openvr|:green_circle: XS|0|||
+[#16913](https://github.com/conan-io/conan-center-index/pull/16913)|[paulharris](https://github.com/paulharris)|Apr 6|:stopwatch: openvr|L|0|||
 [#16914](https://github.com/conan-io/conan-center-index/pull/16914)|[paulharris](https://github.com/paulharris)|Apr 6|:stopwatch: cgns|:green_circle: XS|0|||
 [#16915](https://github.com/conan-io/conan-center-index/pull/16915)|[paulharris](https://github.com/paulharris)|Apr 6|:stopwatch: qt|:green_circle: XS|0|||
 
@@ -102,9 +101,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 260
+	- Open: 259
 	- Draft: 31
-	- Average Age: 66 days, 16 hours, and 47.65 minutes
+	- Average Age: 66 days, 23 hours, and 54.37 minutes
 	- Stop Label: 150
 	
 
