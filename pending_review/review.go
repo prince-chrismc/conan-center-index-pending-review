@@ -58,7 +58,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 			removed := false
 			summary.Approvals, removed = removeUnique(summary.Approvals, reviewerName)
 			if removed && isMember {
-				// If a reviewer retracted their reivew, the count needs to be adjusted
+				// If a reviewer retracted their review, the count needs to be adjusted
 				summary.ValidApprovals = summary.ValidApprovals - 1
 			}
 

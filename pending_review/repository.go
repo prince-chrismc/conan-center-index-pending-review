@@ -21,7 +21,7 @@ func (s *RepositoryService) GetCommitDate(ctx context.Context, owner string, rep
 }
 
 // ErrNoCommitStatus available
-var ErrNoCommitStatus = errors.New("no repository status avialble for this commit")
+var ErrNoCommitStatus = errors.New("no repository status available for this commit")
 
 // GetStatus fetches the complete status available for a ref
 func (s *RepositoryService) GetStatus(ctx context.Context, owner string, repo string, ref string) (*CombinedStatus, *Response, error) {
