@@ -1074,33 +1074,6 @@
       }
    },
    {
-      "Number": 16874,
-      "OpenedBy": "kletoz",
-      "CreatedAt": "2023-04-03T16:42:45Z",
-      "Recipe": "libcurl",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16874",
-      "LastCommitSHA": "579727320e0592686ab8475f96f18e88ef899a52",
-      "LastCommitAt": "2023-04-03T16:35:21Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-07T03:36:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16874#pullrequestreview-1375788829"
-         }
-      }
-   },
-   {
       "Number": 16877,
       "OpenedBy": "chausner",
       "CreatedAt": "2023-04-03T22:16:26Z",
@@ -1243,33 +1216,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 16921,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2023-04-06T11:38:16Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16921",
-      "LastCommitSHA": "1b00386df49c0d6175f7855ae1d029beaace0d5a",
-      "LastCommitAt": "2023-04-06T11:38:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-07T03:47:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16921#pullrequestreview-1375792684"
-         }
       }
    },
    {
