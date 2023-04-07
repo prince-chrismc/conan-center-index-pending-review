@@ -70,12 +70,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16923](https://github.com/conan-io/conan-center-index/pull/16923)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 6|:stopwatch: emsdk|:green_circle: XS|0|||
 [#16928](https://github.com/conan-io/conan-center-index/pull/16928)|[Geertien](https://github.com/Geertien)|Apr 6|:stopwatch: xorg-makedepend|:green_circle: XS|0|||
 [#16932](https://github.com/conan-io/conan-center-index/pull/16932)|[weatherhead99](https://github.com/weatherhead99)|Apr 7|:stopwatch: libudev|:green_circle: XS|0|||
-[#16937](https://github.com/conan-io/conan-center-index/pull/16937)|[igormironchik](https://github.com/igormironchik)|Apr 7|:stopwatch: md4qt|:green_circle: XS|0|||
+[#16938](https://github.com/conan-io/conan-center-index/pull/16938)|[OleksandrKvl](https://github.com/OleksandrKvl)|Apr 7|:stopwatch: sbepp|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -84,7 +84,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16114](https://github.com/conan-io/conan-center-index/pull/16114)|[kambala-decapitator](https://github.com/kambala-decapitator)|Feb 18|:warning: boost|7|grafikrobot, SSE4, prince-chrismc, Hopobcn
 [#16328](https://github.com/conan-io/conan-center-index/pull/16328)|[0xFireWolf](https://github.com/0xFireWolf)|Feb 28|:warning: antlr4-cppruntime|7|prince-chrismc, SSE4
 [#16401](https://github.com/conan-io/conan-center-index/pull/16401)|[toge](https://github.com/toge)|Mar 6|:memo: c-blosc2|2|jwillikers, prince-chrismc
-[#16931](https://github.com/conan-io/conan-center-index/pull/16931)|[SpaceIm](https://github.com/SpaceIm)|Apr 6|:memo: proj|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -95,7 +94,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 250
 	- Draft: 32
-	- Average Age: 69 days, 2 hours, and 1.22 minutes
+	- Average Age: 69 days, 2 hours, and 58.59 minutes
 	- Stop Label: 151
 	
 
