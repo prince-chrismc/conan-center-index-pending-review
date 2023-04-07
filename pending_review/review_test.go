@@ -346,7 +346,7 @@ func TestKnowCase16187_1(t *testing.T) {
 	}}
 	result := ProcessReviewComments(&reviewers, reviews, "e2aa65c961d48d688dd5450811229eb1d62649ba")
 	assert.Equal(t, Reviews{
-		Count: 0, ValidApprovals: 0, TeamApproval: false,
+		Count: 1, ValidApprovals: 0, TeamApproval: false,
 		Approvals: nil,
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
