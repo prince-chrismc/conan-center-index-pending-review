@@ -54,7 +54,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
 [#16702](https://github.com/conan-io/conan-center-index/pull/16702)|[SpaceIm](https://github.com/SpaceIm)|Mar 25|:memo: mimalloc|L|1|Apr 5||jwillikers
 [#16728](https://github.com/conan-io/conan-center-index/pull/16728)|[PeteAudinate](https://github.com/PeteAudinate)|Mar 27|:stopwatch: b2|:green_circle: XS|0|:eyes:||
-[#16731](https://github.com/conan-io/conan-center-index/pull/16731)|[bariscelik](https://github.com/bariscelik)|Mar 27|:stopwatch: behaviortree.cpp|L|2|Mar 29||
+[#16731](https://github.com/conan-io/conan-center-index/pull/16731)|[bariscelik](https://github.com/bariscelik)|Mar 27|:stopwatch: behaviortree.cpp|L|3|Apr 7||facontidavide
 [#16736](https://github.com/conan-io/conan-center-index/pull/16736)|[cmannett85](https://github.com/cmannett85)|Mar 27|:new: arg_router|M|5|Apr 3||
 [#16788](https://github.com/conan-io/conan-center-index/pull/16788)|[SpaceIm](https://github.com/SpaceIm)|Mar 30|:memo: s2n|L|1|Apr 5||jwillikers
 [#16832](https://github.com/conan-io/conan-center-index/pull/16832)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 31|:stopwatch: uwebsockets|:green_circle: XS|0|:eyes:||
@@ -93,7 +93,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 249
 	- Draft: 32
-	- Average Age: 69 days, 6 hours, and 52.60 minutes
+	- Average Age: 69 days, 7 hours, and 44.86 minutes
 	- Stop Label: 152
 	
 
