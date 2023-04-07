@@ -279,7 +279,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16299",
       "LastCommitSHA": "a548b73486e0a0307f06fbdc660c238f06f475c7",
       "LastCommitAt": "2023-04-07T03:29:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 11,
          "ValidApprovals": 2,
@@ -503,33 +503,6 @@
             "ReviewerName": "prince-chrismc",
             "SubmittedAt": "2023-04-07T03:33:48Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16401#pullrequestreview-1375787877"
-         }
-      }
-   },
-   {
-      "Number": 16416,
-      "OpenedBy": "mwerminski",
-      "CreatedAt": "2023-03-07T08:44:07Z",
-      "Recipe": "vincentlaucsb-csv-parser",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16416",
-      "LastCommitSHA": "7795a4ad026df20a2a1fd943c3f8eee4da2bb2b7",
-      "LastCommitAt": "2023-04-04T14:22:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-04-07T06:21:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16416#pullrequestreview-1375868086"
          }
       }
    },
