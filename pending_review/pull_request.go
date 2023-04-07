@@ -53,8 +53,8 @@ var ErrStoppedLabel = errors.New("the pull request contains at least one label i
 // ErrStoppedLabel indicates the pull request only has minor impact and is automatically handled by the bot, does not require attention
 var ErrBumpLabel = errors.New("the pull request is labelled as bump and will automatically be merged")
 
-// ErrNoReviews indicated there were no reviews on a pull request and a summary could not be generated
-var ErrNoReviews = errors.New("no reviews on pull request")
+// ErrWorkRequired indicated there were no reviews on a pull request and a summary could not be generated
+var ErrWorkRequired = errors.New("pull requests has comments which need to be addressed")
 
 // ErrInvalidChange in the commit files of the pull request which break the rules of CCI
 var ErrInvalidChange = errors.New("the files, or lack thereof, make this PR invalid")
@@ -133,27 +133,39 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		p.CciBotPassed = status.GetState() == "success"
 	}
 
+	err = evaluateSummary(p)
+	if err != nil {
+		return nil, resp, err
+	}
+
+	return p, resp, nil
+}
+
+func evaluateSummary(p *PullRequestSummary) error {
 	if p.Change == DOCS { // Always save documentation pull requests
-		return p, resp, nil
+		return nil
 	}
 
 	if p.Change == CONFIG && p.CciBotPassed { // Always save infrastructure pull requests that are passing
-		return p, resp, nil
+		return nil
 	}
 
 	if p.Summary.Count < 1 { // Has not been looked at...
-		return p, resp, nil // let's save it! So it can get some attention
+		return nil // let's save it! So it can get some attention
 	}
 
 	if len(p.Summary.Approvals) > 0 { // It's been approved!
-		return p, resp, nil
+		return nil
 	}
 
 	if p.LastCommitAt.After(p.Summary.LastReview.SubmittedAt) { // OP has presumably applied review comments
-		return p, resp, nil // Let's save it so it gets another pass
+		return nil // Let's save it so it gets another pass
 	}
 
-	return nil, resp, fmt.Errorf("%w", ErrNoReviews)
+	// Pull request has comment which have not been corrected by a commit.
+	// Assuming more work is required.
+
+	return fmt.Errorf("%w", ErrWorkRequired)
 }
 
 func (s *PullRequestService) determineTypeOfChange(ctx context.Context, owner string, repo string, number int, perPage int) (*change, *Response, error) {
