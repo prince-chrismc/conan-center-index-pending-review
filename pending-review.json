@@ -695,15 +695,17 @@
       "LastCommitAt": "2023-04-04T11:42:43Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "facontidavide"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "facontidavide",
-            "SubmittedAt": "2023-03-29T13:57:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16731#pullrequestreview-1363176770"
+            "SubmittedAt": "2023-04-07T12:50:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16731#pullrequestreview-1376168816"
          }
       }
    },
