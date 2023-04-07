@@ -32,7 +32,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14803](https://github.com/conan-io/conan-center-index/pull/14803)|[jellespijker](https://github.com/jellespijker)|Dec 18|:stopwatch: vtu11|L|2|Mar 31||
 [#15106](https://github.com/conan-io/conan-center-index/pull/15106)|[feltech](https://github.com/feltech)|Jan 4|:stopwatch: openassetio|XL|18|Apr 5||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|:blue_square: S|0|:eyes:||
-[#15601](https://github.com/conan-io/conan-center-index/pull/15601)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:stopwatch: googleapis|M|3|Apr 5||
+[#15601](https://github.com/conan-io/conan-center-index/pull/15601)|[SpaceIm](https://github.com/SpaceIm)|Jan 31|:memo: googleapis|M|3|Apr 5||
 [#15726](https://github.com/conan-io/conan-center-index/pull/15726)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: folly|XL|8|Feb 21 :bell:||
 [#16205](https://github.com/conan-io/conan-center-index/pull/16205)|[SpaceIm](https://github.com/SpaceIm)|Feb 21|:memo: libxslt|L|3|Mar 28||
 [#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|||
@@ -106,7 +106,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 260
 	- Draft: 32
-	- Average Age: 67 days, 1 hours, and 26.28 minutes
+	- Average Age: 67 days, 5 hours, and 15.75 minutes
 	- Stop Label: 151
 	
 
