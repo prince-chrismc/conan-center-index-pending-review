@@ -165,7 +165,6 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 			stats.Review++
 		}
 
-		fmt.Printf("%+v\n", review)
 		out = append(out, review)
 	}
 	return out, stats, nil

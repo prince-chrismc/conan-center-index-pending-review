@@ -2,6 +2,7 @@ package pending_review
 
 import (
 	"context"
+	"encoding/json"
 	"errors"
 	"fmt"
 	"time"
@@ -133,6 +134,9 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		p.CciBotPassed = status.GetState() == "success"
 	}
 
+	if bytes, err := json.Marshal(p); err == nil {
+		fmt.Printf("%s\n", bytes)
+	}
 	err = evaluateSummary(p)
 	if err != nil {
 		return nil, resp, err
