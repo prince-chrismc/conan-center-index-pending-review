@@ -17,7 +17,7 @@ func parseReviewJSON(t *testing.T, str string) []*PullRequestReview {
 	return files
 }
 
-func TestKnowCase6144(t *testing.T) {
+func TestProcessReviewComments6144(t *testing.T) {
 	reviews := parseReviewJSON(t, `[
 		{
 		  "id": 698590899,
@@ -189,7 +189,7 @@ func TestKnowCase6144(t *testing.T) {
 	}, result)
 }
 
-func TestKnowCase16144(t *testing.T) {
+func TestProcessReviewComments16144(t *testing.T) {
 	reviews := parseReviewJSON(t, `[
 		{
 		  "id": 1311404502,
@@ -292,7 +292,7 @@ func TestKnowCase16144(t *testing.T) {
 	}, result)
 }
 
-func TestKnowCase16187_1(t *testing.T) {
+func TestProcessReviewComments16187_1(t *testing.T) {
 	reviews := parseReviewJSON(t, `[
 		{
 		  "id": 1323937342,
@@ -356,7 +356,7 @@ func TestKnowCase16187_1(t *testing.T) {
 	}, result)
 }
 
-func TestKnowCase16187_2(t *testing.T) {
+func TestProcessReviewComments16187_2(t *testing.T) {
 	reviews := parseReviewJSON(t, `[
 		{
 		  "id": 1323937342,
