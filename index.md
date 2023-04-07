@@ -83,7 +83,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -95,8 +95,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16401](https://github.com/conan-io/conan-center-index/pull/16401)|[toge](https://github.com/toge)|Mar 6|:memo: c-blosc2|2|jwillikers, prince-chrismc
 [#16435](https://github.com/conan-io/conan-center-index/pull/16435)|[SpaceIm](https://github.com/SpaceIm)|Mar 7|:memo: editline|2|jwillikers, prince-chrismc
 [#16681](https://github.com/conan-io/conan-center-index/pull/16681)|[toge](https://github.com/toge)|Mar 24|:memo: dirent|2|jwillikers, prince-chrismc
-[#16874](https://github.com/conan-io/conan-center-index/pull/16874)|[kletoz](https://github.com/kletoz)|Apr 3|:memo: libcurl|3|jwillikers, prince-chrismc
-[#16921](https://github.com/conan-io/conan-center-index/pull/16921)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 6|:gear: .c3i|2|SSE4, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -105,9 +103,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bb0bdea99c4133092a6299b4a1e0f765df01a8f3
 - Pull Requests:
-	- Open: 261
+	- Open: 259
 	- Draft: 32
-	- Average Age: 66 days, 22 hours, and 21.01 minutes
+	- Average Age: 67 days, 11 hours, and 19.04 minutes
 	- Stop Label: 151
 	
 
