@@ -332,6 +332,109 @@ func TestKnowCase16187(t *testing.T) {
 		  },
 		  "submitted_at": "2023-03-03T14:36:58Z",
 		  "commit_id": "d242bc7a59e64a83e45f9cf84b520de97c48619f"
+		},
+		{
+		  "id": 1374813738,
+		  "node_id": "PRR_kwDODDMJAM5R8f4q",
+		  "user": {
+			"login": "jwillikers",
+			"id": 19399197,
+			"node_id": "MDQ6VXNlcjE5Mzk5MTk3",
+			"avatar_url": "https://avatars.githubusercontent.com/u/19399197?u=dac900db43788310516c636d63cd9245b37b51a9&v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/jwillikers",
+			"html_url": "https://github.com/jwillikers",
+			"followers_url": "https://api.github.com/users/jwillikers/followers",
+			"following_url": "https://api.github.com/users/jwillikers/following{/other_user}",
+			"gists_url": "https://api.github.com/users/jwillikers/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/jwillikers/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/jwillikers/subscriptions",
+			"organizations_url": "https://api.github.com/users/jwillikers/orgs",
+			"repos_url": "https://api.github.com/users/jwillikers/repos",
+			"events_url": "https://api.github.com/users/jwillikers/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/jwillikers/received_events",
+			"type": "User",
+			"site_admin": false
+		  },
+		  "body": "",
+		  "state": "APPROVED",
+		  "html_url": "https://github.com/conan-io/conan-center-index/pull/16187#pullrequestreview-1374813738",
+		  "pull_request_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls/16187",
+		  "author_association": "CONTRIBUTOR",
+		  "_links": {
+			"html": {
+			  "href": "https://github.com/conan-io/conan-center-index/pull/16187#pullrequestreview-1374813738"
+			},
+			"pull_request": {
+			  "href": "https://api.github.com/repos/conan-io/conan-center-index/pulls/16187"
+			}
+		  },
+		  "submitted_at": "2023-04-06T12:57:34Z",
+		  "commit_id": "47efa240d39a5e74b7b02cbe15702ea85215145d"
+		}
+	  ]`)
+	reviewers := ConanCenterReviewers{Reviewers: []Reviewer{
+		{User: "czoido", Type: "team", Requested: false},
+		{User: "memsharded", Type: "team", Requested: false},
+		{User: "uilianries", Type: "team", Requested: true},
+		{User: "SpaceIm", Type: "community", Requested: false},
+		{User: "ericLemanissier", Type: "community", Requested: false},
+		{User: "prince-chrismc", Type: "team", Requested: false},
+		{User: "Croydon", Type: "community", Requested: false},
+		{User: "jwillikers", Type: "community", Requested: false},
+	}}
+	result := ProcessReviewComments(&reviewers, reviews, "e2aa65c961d48d688dd5450811229eb1d62649ba")
+	assert.Equal(t, Reviews{
+		Count: 2, ValidApprovals: 1, TeamApproval: false,
+		Approvals: []string{"jwillikers"},
+		Blockers:  nil, LastReview: &Review{
+			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
+			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
+			HTMLURL:      reviews[len(reviews)-1].GetHTMLURL(),
+		},
+	}, result)
+}
+
+func TestKnowCase16187_2(t *testing.T) {
+	reviews := parseReviewJSON(t, `[
+		{
+		  "id": 1323937342,
+		  "node_id": "PRR_kwDODDMJAM5O6a4-",
+		  "user": {
+			"login": "jwillikers",
+			"id": 19399197,
+			"node_id": "MDQ6VXNlcjE5Mzk5MTk3",
+			"avatar_url": "https://avatars.githubusercontent.com/u/19399197?u=dac900db43788310516c636d63cd9245b37b51a9&v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/jwillikers",
+			"html_url": "https://github.com/jwillikers",
+			"followers_url": "https://api.github.com/users/jwillikers/followers",
+			"following_url": "https://api.github.com/users/jwillikers/following{/other_user}",
+			"gists_url": "https://api.github.com/users/jwillikers/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/jwillikers/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/jwillikers/subscriptions",
+			"organizations_url": "https://api.github.com/users/jwillikers/orgs",
+			"repos_url": "https://api.github.com/users/jwillikers/repos",
+			"events_url": "https://api.github.com/users/jwillikers/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/jwillikers/received_events",
+			"type": "User",
+			"site_admin": false
+		  },
+		  "body": "",
+		  "state": "DISMISSED",
+		  "html_url": "https://github.com/conan-io/conan-center-index/pull/16187#pullrequestreview-1323937342",
+		  "pull_request_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls/16187",
+		  "author_association": "CONTRIBUTOR",
+		  "_links": {
+			"html": {
+			  "href": "https://github.com/conan-io/conan-center-index/pull/16187#pullrequestreview-1323937342"
+			},
+			"pull_request": {
+			  "href": "https://api.github.com/repos/conan-io/conan-center-index/pulls/16187"
+			}
+		  },
+		  "submitted_at": "2023-03-03T14:36:58Z",
+		  "commit_id": "d242bc7a59e64a83e45f9cf84b520de97c48619f"
 		}
 	  ]`)
 	reviewers := ConanCenterReviewers{Reviewers: []Reviewer{
