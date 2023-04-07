@@ -1361,5 +1361,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 16932,
+      "OpenedBy": "weatherhead99",
+      "CreatedAt": "2023-04-07T02:45:49Z",
+      "Recipe": "libudev",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16932",
+      "LastCommitSHA": "332f52a83f6ecfacb220390a75aad35349c2ffb3",
+      "LastCommitAt": "2023-04-07T02:32:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
