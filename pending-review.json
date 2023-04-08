@@ -1006,5 +1006,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 16941,
+      "OpenedBy": "boussaffawalid",
+      "CreatedAt": "2023-04-08T10:14:46Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16941",
+      "LastCommitSHA": "44492f6645a8e42cc12f431cb6158ca93f2dc528",
+      "LastCommitAt": "2023-04-08T10:11:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
