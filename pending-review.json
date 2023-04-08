@@ -152,17 +152,18 @@
       "LastCommitAt": "2023-04-07T21:58:06Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 14,
-         "ValidApprovals": 1,
+         "Count": 15,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-07T21:58:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16034#pullrequestreview-1376622006"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-04-08T04:01:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16034#pullrequestreview-1376700777"
          }
       }
    },
@@ -430,32 +431,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 16475,
-      "OpenedBy": "rbrich",
-      "CreatedAt": "2023-03-08T22:52:06Z",
-      "Recipe": "taocpp-pegtl",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16475",
-      "LastCommitSHA": "fe65e14a92aaa88183d69e8c033b63080960d362",
-      "LastCommitAt": "2023-04-07T21:48:46Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-07T21:49:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16475#pullrequestreview-1376616442"
-         }
       }
    },
    {
