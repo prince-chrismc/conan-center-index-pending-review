@@ -35,7 +35,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15726](https://github.com/conan-io/conan-center-index/pull/15726)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: folly|XL|8|Feb 21 :bell:||
 [#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|:eyes:||
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:memo: rmlui|L|1|Mar 25 :bell:||
-[#16339](https://github.com/conan-io/conan-center-index/pull/16339)|[SpaceIm](https://github.com/SpaceIm)|Mar 1|:new: libvips|L|2|Apr 7||jwillikers
+[#16339](https://github.com/conan-io/conan-center-index/pull/16339)|[SpaceIm](https://github.com/SpaceIm)|Mar 1|:stopwatch: libvips|L|2|Apr 7||
 [#16356](https://github.com/conan-io/conan-center-index/pull/16356)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:stopwatch: openmvg|XL|0|:eyes:||
 [#16375](https://github.com/conan-io/conan-center-index/pull/16375)|[kielby](https://github.com/kielby)|Mar 4|:memo: wtl|L|0|:eyes:||
 [#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: libtiff|L|0|:eyes:||
@@ -92,7 +92,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 246
 	- Draft: 31
-	- Average Age: 70 days, 15 hours, and 31.75 minutes
+	- Average Age: 70 days, 16 hours, and 32.54 minutes
 	- Stop Label: 150
 	
 
