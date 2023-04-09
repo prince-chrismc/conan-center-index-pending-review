@@ -1010,11 +1010,18 @@
       "LastCommitAt": "2023-04-08T15:52:55Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-04-09T05:45:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16941#pullrequestreview-1376860680"
+         }
       }
    },
    {
