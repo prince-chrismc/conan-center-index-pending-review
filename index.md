@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **50** pull requests currently under way :detective:
+There are **51** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -68,7 +68,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16880](https://github.com/conan-io/conan-center-index/pull/16880)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 4|:memo: paho-mqtt-c|:green_circle: XS|2|Apr 6||Hopobcn, jwillikers
 [#16885](https://github.com/conan-io/conan-center-index/pull/16885)|[db4](https://github.com/db4)|Apr 4|:memo: nng|L|1|Apr 6||jwillikers
 [#16910](https://github.com/conan-io/conan-center-index/pull/16910)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 5|:memo: utfcpp|:green_circle: XS|3|Apr 6||SpaceIm, 0xFireWolf, jwillikers
-[#16923](https://github.com/conan-io/conan-center-index/pull/16923)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 6|:stopwatch: emsdk|:green_circle: XS|0|||
+[#16923](https://github.com/conan-io/conan-center-index/pull/16923)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 6|:stopwatch: emsdk|:green_circle: XS|0|:eyes:||
 [#16928](https://github.com/conan-io/conan-center-index/pull/16928)|[Geertien](https://github.com/Geertien)|Apr 6|:stopwatch: xorg-makedepend|:green_circle: XS|0|||
 [#16932](https://github.com/conan-io/conan-center-index/pull/16932)|[weatherhead99](https://github.com/weatherhead99)|Apr 7|:stopwatch: libudev|:green_circle: XS|0|||
 [#16938](https://github.com/conan-io/conan-center-index/pull/16938)|[OleksandrKvl](https://github.com/OleksandrKvl)|Apr 7|:stopwatch: sbepp|L|0|||
@@ -77,6 +77,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16944](https://github.com/conan-io/conan-center-index/pull/16944)|[toge](https://github.com/toge)|Apr 8|:memo: itlib|:blue_square: S|0|||
 [#16945](https://github.com/conan-io/conan-center-index/pull/16945)|[rbrich](https://github.com/rbrich)|Apr 8|:memo: incbin|M|0|||
 [#16947](https://github.com/conan-io/conan-center-index/pull/16947)|[mayeut](https://github.com/mayeut)|Apr 9|:memo: re2|:green_circle: XS|0|||
+[#16949](https://github.com/conan-io/conan-center-index/pull/16949)|[toge](https://github.com/toge)|Apr 9|:stopwatch: simdjson|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -95,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cc94932379524b9110f20a53f07892df0b4dd0f4
 - Pull Requests:
-	- Open: 250
+	- Open: 251
 	- Draft: 32
-	- Average Age: 70 days, 10 hours, and 24.49 minutes
+	- Average Age: 70 days, 6 hours, and 29.55 minutes
 	- Stop Label: 148
 	
 
