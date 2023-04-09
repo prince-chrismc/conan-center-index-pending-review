@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16928](https://github.com/conan-io/conan-center-index/pull/16928)|[Geertien](https://github.com/Geertien)|Apr 6|:stopwatch: xorg-makedepend|:green_circle: XS|0|||
 [#16932](https://github.com/conan-io/conan-center-index/pull/16932)|[weatherhead99](https://github.com/weatherhead99)|Apr 7|:stopwatch: libudev|:green_circle: XS|0|||
 [#16938](https://github.com/conan-io/conan-center-index/pull/16938)|[OleksandrKvl](https://github.com/OleksandrKvl)|Apr 7|:stopwatch: sbepp|L|0|||
-[#16941](https://github.com/conan-io/conan-center-index/pull/16941)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 8|:stopwatch: qt|M|0|||
+[#16941](https://github.com/conan-io/conan-center-index/pull/16941)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 8|:stopwatch: qt|M|1|Apr 9||ericLemanissier
 [#16943](https://github.com/conan-io/conan-center-index/pull/16943)|[SpaceIm](https://github.com/SpaceIm)|Apr 8|:memo: frozen|:blue_square: S|0|||
 [#16944](https://github.com/conan-io/conan-center-index/pull/16944)|[toge](https://github.com/toge)|Apr 8|:memo: itlib|:blue_square: S|0|||
 [#16945](https://github.com/conan-io/conan-center-index/pull/16945)|[rbrich](https://github.com/rbrich)|Apr 8|:memo: incbin|M|0|||
@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 249
 	- Draft: 31
-	- Average Age: 70 days, 1 hours, and 2.34 minutes
+	- Average Age: 70 days, 11 hours, and 4.72 minutes
 	- Stop Label: 149
 	
 
