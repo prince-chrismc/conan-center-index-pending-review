@@ -890,34 +890,6 @@
       }
    },
    {
-      "Number": 16880,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2023-04-04T04:48:32Z",
-      "Recipe": "paho-mqtt-c",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16880",
-      "LastCommitSHA": "a33bd609e67b25a3d9f1b254a26157ac33f10b35",
-      "LastCommitAt": "2023-04-04T04:47:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "Hopobcn",
-            "jwillikers",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-04-10T13:14:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16880#pullrequestreview-1377517692"
-         }
-      }
-   },
-   {
       "Number": 16885,
       "OpenedBy": "db4",
       "CreatedAt": "2023-04-04T09:51:17Z",
