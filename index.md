@@ -34,7 +34,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15106](https://github.com/conan-io/conan-center-index/pull/15106)|[feltech](https://github.com/feltech)|Jan 4|:stopwatch: openassetio|XL|18|Apr 5||
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|:blue_square: S|0|:eyes:||
 [#15726](https://github.com/conan-io/conan-center-index/pull/15726)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: folly|XL|8|Feb 21 :bell:||
-[#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|:eyes:||
+[#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|||
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:memo: rmlui|L|2|Apr 8||ZombieRaccoon
 [#16339](https://github.com/conan-io/conan-center-index/pull/16339)|[SpaceIm](https://github.com/SpaceIm)|Mar 1|:stopwatch: libvips|L|2|Apr 7||
 [#16356](https://github.com/conan-io/conan-center-index/pull/16356)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:stopwatch: openmvg|XL|0|:eyes:||
@@ -101,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 252
 	- Draft: 32
-	- Average Age: 70 days, 11 hours, and 46.83 minutes
+	- Average Age: 70 days, 14 hours, and 49.76 minutes
 	- Stop Label: 147
 	
 
