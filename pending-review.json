@@ -1149,6 +1149,25 @@
       }
    },
    {
+      "Number": 16950,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-04-09T16:13:11Z",
+      "Recipe": "lexbor",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16950",
+      "LastCommitSHA": "eb6e1fb1afabd7aee8faab12186c8d09890c2742",
+      "LastCommitAt": "2023-04-10T01:27:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 16952,
       "OpenedBy": "toge",
       "CreatedAt": "2023-04-10T01:36:33Z",
@@ -1158,7 +1177,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16952",
       "LastCommitSHA": "7f3df1c7382e91a4011007e010e3f33b2ae465a8",
       "LastCommitAt": "2023-04-10T01:29:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
