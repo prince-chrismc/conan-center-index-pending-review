@@ -344,7 +344,7 @@ func TestProcessReviewComments16187_1(t *testing.T) {
 		{User: "Croydon", Type: "community", Requested: false},
 		{User: "jwillikers", Type: "community", Requested: false},
 	}}
-	result := ProcessReviewComments(&reviewers, reviews, "e2aa65c961d48d688dd5450811229eb1d62649ba")
+	result := ProcessReviewComments(&reviewers, reviews, "d242bc7a59e64a83e45f9cf84b520de97c48619f")
 	assert.Equal(t, Reviews{
 		Count: 1, ValidApprovals: 0, TeamApproval: false,
 		Approvals: nil,
@@ -447,7 +447,7 @@ func TestProcessReviewComments16187_2(t *testing.T) {
 		{User: "Croydon", Type: "community", Requested: false},
 		{User: "jwillikers", Type: "community", Requested: false},
 	}}
-	result := ProcessReviewComments(&reviewers, reviews, "e2aa65c961d48d688dd5450811229eb1d62649ba")
+	result := ProcessReviewComments(&reviewers, reviews, "47efa240d39a5e74b7b02cbe15702ea85215145d")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 1, TeamApproval: false,
 		Approvals: []string{"jwillikers"},
