@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **52** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -74,23 +74,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16932](https://github.com/conan-io/conan-center-index/pull/16932)|[weatherhead99](https://github.com/weatherhead99)|Apr 7|:stopwatch: libudev|:green_circle: XS|0|:eyes:||
 [#16938](https://github.com/conan-io/conan-center-index/pull/16938)|[OleksandrKvl](https://github.com/OleksandrKvl)|Apr 7|:stopwatch: sbepp|L|0|||
 [#16941](https://github.com/conan-io/conan-center-index/pull/16941)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 8|:stopwatch: qt|M|1|Apr 9||ericLemanissier
-[#16943](https://github.com/conan-io/conan-center-index/pull/16943)|[SpaceIm](https://github.com/SpaceIm)|Apr 8|:memo: frozen|:blue_square: S|1|Apr 10||RubenRBS
 [#16944](https://github.com/conan-io/conan-center-index/pull/16944)|[toge](https://github.com/toge)|Apr 8|:memo: itlib|:blue_square: S|0|||
 [#16945](https://github.com/conan-io/conan-center-index/pull/16945)|[rbrich](https://github.com/rbrich)|Apr 8|:memo: incbin|M|0|||
-[#16947](https://github.com/conan-io/conan-center-index/pull/16947)|[mayeut](https://github.com/mayeut)|Apr 9|:stopwatch: re2|:green_circle: XS|0|||
+[#16947](https://github.com/conan-io/conan-center-index/pull/16947)|[mayeut](https://github.com/mayeut)|Apr 9|:memo: re2|:green_circle: XS|0|||
 [#16950](https://github.com/conan-io/conan-center-index/pull/16950)|[toge](https://github.com/toge)|Apr 9|:memo: lexbor|L|0|||
 [#16952](https://github.com/conan-io/conan-center-index/pull/16952)|[toge](https://github.com/toge)|Apr 10|:memo: c4core|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16328](https://github.com/conan-io/conan-center-index/pull/16328)|[0xFireWolf](https://github.com/0xFireWolf)|Feb 28|:warning: antlr4-cppruntime|7|prince-chrismc, SSE4
-[#16910](https://github.com/conan-io/conan-center-index/pull/16910)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 5|:memo: utfcpp|4|SpaceIm, 0xFireWolf, jwillikers, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -99,9 +97,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cc94932379524b9110f20a53f07892df0b4dd0f4
 - Pull Requests:
-	- Open: 252
+	- Open: 250
 	- Draft: 32
-	- Average Age: 70 days, 18 hours, and 47.11 minutes
+	- Average Age: 71 days, 8 hours, and 42.41 minutes
 	- Stop Label: 147
 	
 
