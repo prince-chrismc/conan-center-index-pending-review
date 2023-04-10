@@ -632,7 +632,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16701",
       "LastCommitSHA": "c75ae5edd5d8e15be395f088fe571f7892fdcb30",
       "LastCommitAt": "2023-04-10T18:58:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 10,
          "ValidApprovals": 1,
@@ -993,25 +993,6 @@
             "SubmittedAt": "2023-04-10T17:33:37Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16932#pullrequestreview-1377871879"
          }
-      }
-   },
-   {
-      "Number": 16938,
-      "OpenedBy": "OleksandrKvl",
-      "CreatedAt": "2023-04-07T14:11:47Z",
-      "Recipe": "sbepp",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16938",
-      "LastCommitSHA": "feb1236c7cd2593c9c4ccb0b9b57da707b8ed8c9",
-      "LastCommitAt": "2023-04-08T07:53:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
