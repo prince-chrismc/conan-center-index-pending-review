@@ -946,17 +946,18 @@
       "LastCommitAt": "2023-04-06T15:20:33Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-10T16:01:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16928#pullrequestreview-1377746502"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-04-10T17:33:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16928#pullrequestreview-1377872073"
          }
       }
    },
@@ -972,17 +973,18 @@
       "LastCommitAt": "2023-04-07T02:32:28Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "prince-chrismc"
+            "prince-chrismc",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-10T16:02:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16932#pullrequestreview-1377751109"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-04-10T17:33:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16932#pullrequestreview-1377871879"
          }
       }
    },
@@ -1081,11 +1083,18 @@
       "LastCommitAt": "2023-04-10T11:38:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-04-10T17:34:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16954#pullrequestreview-1377872384"
+         }
       }
    },
    {
