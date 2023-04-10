@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **54** pull requests currently under way :detective:
+There are **52** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -69,13 +69,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16877](https://github.com/conan-io/conan-center-index/pull/16877)|[chausner](https://github.com/chausner)|Apr 3|:new: libcoro|L|1|Apr 6||jwillikers
 [#16885](https://github.com/conan-io/conan-center-index/pull/16885)|[db4](https://github.com/db4)|Apr 4|:memo: nng|L|1|Apr 6||jwillikers
 [#16923](https://github.com/conan-io/conan-center-index/pull/16923)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 6|:stopwatch: emsdk|:green_circle: XS|0|:eyes:||
-[#16928](https://github.com/conan-io/conan-center-index/pull/16928)|[Geertien](https://github.com/Geertien)|Apr 6|:stopwatch: xorg-makedepend|:green_circle: XS|1|Apr 10||prince-chrismc
-[#16932](https://github.com/conan-io/conan-center-index/pull/16932)|[weatherhead99](https://github.com/weatherhead99)|Apr 7|:stopwatch: libudev|:green_circle: XS|1|Apr 10||prince-chrismc
 [#16938](https://github.com/conan-io/conan-center-index/pull/16938)|[OleksandrKvl](https://github.com/OleksandrKvl)|Apr 7|:stopwatch: sbepp|L|0|||
 [#16945](https://github.com/conan-io/conan-center-index/pull/16945)|[rbrich](https://github.com/rbrich)|Apr 8|:memo: incbin|M|0|||
 [#16947](https://github.com/conan-io/conan-center-index/pull/16947)|[mayeut](https://github.com/mayeut)|Apr 9|:memo: re2|:green_circle: XS|0|||
 [#16950](https://github.com/conan-io/conan-center-index/pull/16950)|[toge](https://github.com/toge)|Apr 9|:memo: lexbor|L|1|Apr 10||jwillikers
-[#16954](https://github.com/conan-io/conan-center-index/pull/16954)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 10|:gear: .c3i|:green_circle: XS|0|||
+[#16954](https://github.com/conan-io/conan-center-index/pull/16954)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 10|:gear: .c3i|:green_circle: XS|1|Apr 10||SSE4
 [#16957](https://github.com/conan-io/conan-center-index/pull/16957)|[toge](https://github.com/toge)|Apr 10|:stopwatch: wasmtime-cpp|:blue_square: S|0|||
 [#16958](https://github.com/conan-io/conan-center-index/pull/16958)|[SpaceIm](https://github.com/SpaceIm)|Apr 10|:stopwatch: spirv-cross|:green_circle: XS|0|||
 [#16959](https://github.com/conan-io/conan-center-index/pull/16959)|[SpaceIm](https://github.com/SpaceIm)|Apr 10|:stopwatch: spirv-tools|:blue_square: S|0|||
@@ -85,12 +83,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16328](https://github.com/conan-io/conan-center-index/pull/16328)|[0xFireWolf](https://github.com/0xFireWolf)|Feb 28|:warning: antlr4-cppruntime|7|prince-chrismc, SSE4
+[#16928](https://github.com/conan-io/conan-center-index/pull/16928)|[Geertien](https://github.com/Geertien)|Apr 6|:warning: xorg-makedepend|2|prince-chrismc, SSE4
+[#16932](https://github.com/conan-io/conan-center-index/pull/16932)|[weatherhead99](https://github.com/weatherhead99)|Apr 7|:warning: libudev|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -101,7 +101,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 252
 	- Draft: 32
-	- Average Age: 70 days, 20 hours, and 40.00 minutes
+	- Average Age: 70 days, 21 hours, and 44.46 minutes
 	- Stop Label: 147
 	
 
