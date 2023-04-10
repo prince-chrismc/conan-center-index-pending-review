@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -79,19 +79,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16957](https://github.com/conan-io/conan-center-index/pull/16957)|[toge](https://github.com/toge)|Apr 10|:stopwatch: wasmtime-cpp|:blue_square: S|0|||
 [#16958](https://github.com/conan-io/conan-center-index/pull/16958)|[SpaceIm](https://github.com/SpaceIm)|Apr 10|:stopwatch: spirv-cross|:green_circle: XS|0|||
 [#16959](https://github.com/conan-io/conan-center-index/pull/16959)|[SpaceIm](https://github.com/SpaceIm)|Apr 10|:stopwatch: spirv-tools|:blue_square: S|0|||
-[#16960](https://github.com/conan-io/conan-center-index/pull/16960)|[WilliamBehrens](https://github.com/WilliamBehrens)|Apr 10|:stopwatch: readline|L|0|||
+[#16961](https://github.com/conan-io/conan-center-index/pull/16961)|[SpaceIm](https://github.com/SpaceIm)|Apr 10|:stopwatch: libaom-av1|:blue_square: S|0|||
+[#16963](https://github.com/conan-io/conan-center-index/pull/16963)|[SpaceIm](https://github.com/SpaceIm)|Apr 10|:stopwatch: cfitsio|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16328](https://github.com/conan-io/conan-center-index/pull/16328)|[0xFireWolf](https://github.com/0xFireWolf)|Feb 28|:warning: antlr4-cppruntime|7|prince-chrismc, SSE4
-[#16941](https://github.com/conan-io/conan-center-index/pull/16941)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 8|:warning: qt|3|ericLemanissier, jwillikers, prince-chrismc
-[#16944](https://github.com/conan-io/conan-center-index/pull/16944)|[toge](https://github.com/toge)|Apr 8|:memo: itlib|2|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -102,8 +101,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 252
 	- Draft: 32
-	- Average Age: 70 days, 20 hours, and 9.82 minutes
-	- Stop Label: 146
+	- Average Age: 70 days, 20 hours, and 40.00 minutes
+	- Stop Label: 147
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
