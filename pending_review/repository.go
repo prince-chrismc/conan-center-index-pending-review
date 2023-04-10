@@ -17,11 +17,15 @@ func (s *RepositoryService) GetCommitDate(ctx context.Context, owner string, rep
 	if err != nil {
 		return time.Time{}, resp, err
 	}
-	return commit.GetCommit().GetAuthor().GetDate(), resp, nil
+
+	// Here we need to get the committer date since this appears to be when the commit was pushed to the server rather
+	// then when it was initial created, for examples https://api.github.com/repos/conan-io/conan-center-index/git/commits/6b173fd061c77e5eb51990f372d9c138f14bd7fa
+	// Where the OP force pushed the same commit for 5 months.
+	return commit.GetCommit().GetCommitter().GetDate(), resp, nil
 }
 
 // ErrNoCommitStatus available
-var ErrNoCommitStatus = errors.New("no repository status avialble for this commit")
+var ErrNoCommitStatus = errors.New("no repository status available for this commit")
 
 // GetStatus fetches the complete status available for a ref
 func (s *RepositoryService) GetStatus(ctx context.Context, owner string, repo string, ref string) (*CombinedStatus, *Response, error) {

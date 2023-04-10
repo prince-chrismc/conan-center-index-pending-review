@@ -58,7 +58,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 			removed := false
 			summary.Approvals, removed = removeUnique(summary.Approvals, reviewerName)
 			if removed && isMember {
-				// If a reviewer retracted their reivew, the count needs to be adjusted
+				// If a reviewer retracted their review, the count needs to be adjusted
 				summary.ValidApprovals = summary.ValidApprovals - 1
 			}
 
@@ -71,7 +71,9 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 
 			new := false
 			summary.Approvals, new = appendUnique(summary.Approvals, reviewerName)
-			if !new { // Duplicate review (usually an accident)
+			if !new {
+				// Duplicate review (usually an accident) or might be after an empty or merge commit
+				// https://github.com/conan-io/conan-center-index/pull/16475#pullrequestreview-1376616442
 				break
 			}
 
@@ -84,7 +86,15 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 			}
 
 		case "DISMISSED":
-			summary.Blockers, _ = removeUnique(summary.Blockers, reviewerName)
+			// This is applied to both "Approvals" (15202) in addition to "Requested Changes" (16034)
+			// The previous state is not accessible (2023-04-07 at least) so *NO* modifications are
+			// required to the existing lists
+
+			// https://api.github.com/repos/conan-io/conan-center-index/pulls/15202/reviews
+			// https://github.com/conan-io/conan-center-index/pull/15202#pullrequestreview-1244441259
+
+			// https://api.github.com/repos/conan-io/conan-center-index/pulls/16034/reviews
+			// https://github.com/conan-io/conan-center-index/pull/16034#pullrequestreview-1330280912
 
 		case "COMMENTED":
 			// Out-dated Approvals are transformed into comments https://github.com/conan-io/conan-center-index/pull/3855#issuecomment-770120073
