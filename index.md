@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **54** pull requests currently under way :detective:
+There are **56** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -80,17 +80,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16980](https://github.com/conan-io/conan-center-index/pull/16980)|[Hopobcn](https://github.com/Hopobcn)|Apr 11|:stopwatch: easy_profiler|L|0|||
 [#16983](https://github.com/conan-io/conan-center-index/pull/16983)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libmorton|M|0|||
 [#16984](https://github.com/conan-io/conan-center-index/pull/16984)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libde265|:blue_square: S|0|||
-[#16985](https://github.com/conan-io/conan-center-index/pull/16985)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:stopwatch: dav1d|:blue_square: S|0|||
+[#16985](https://github.com/conan-io/conan-center-index/pull/16985)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: dav1d|:blue_square: S|0|||
+[#16986](https://github.com/conan-io/conan-center-index/pull/16986)|[kletoz](https://github.com/kletoz)|Apr 11|:stopwatch: gnu-config|:green_circle: XS|0|||
+[#16987](https://github.com/conan-io/conan-center-index/pull/16987)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:stopwatch: apriltag|XL|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16245](https://github.com/conan-io/conan-center-index/pull/16245)|[SpaceIm](https://github.com/SpaceIm)|Feb 22|:memo: lief|4|prince-chrismc, jwillikers
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
 
 
@@ -100,9 +101,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 235
+	- Open: 236
 	- Draft: 29
-	- Average Age: 72 days, 10 hours, and 12.40 minutes
+	- Average Age: 71 days, 22 hours, and 58.41 minutes
 	- Stop Label: 136
 	
 
