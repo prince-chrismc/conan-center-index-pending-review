@@ -73,12 +73,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16701](https://github.com/conan-io/conan-center-index/pull/16701)|[elejke](https://github.com/elejke)|Mar 25|:new: wil|11|prince-chrismc, SSE4
 [#16928](https://github.com/conan-io/conan-center-index/pull/16928)|[Geertien](https://github.com/Geertien)|Apr 6|:warning: xorg-makedepend|2|prince-chrismc, SSE4
 
 
@@ -88,9 +87,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 242
+	- Open: 241
 	- Draft: 31
-	- Average Age: 74 days, and 34.32 minutes
+	- Average Age: 74 days, 7 hours, and 12.27 minutes
 	- Stop Label: 150
 	
 
