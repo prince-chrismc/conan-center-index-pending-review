@@ -1,0 +1,14 @@
+[
+    {
+        "sha": "c8ad0901b061ac1977cb8f354a1c4d124474a548",
+        "filename": "recipes/re2/all/conanfile.py",
+        "status": "modified",
+        "additions": 5,
+        "deletions": 7,
+        "changes": 12,
+        "blob_url": "https://github.com/conan-io/conan-center-index/blob/e2aa65c961d48d688dd5450811229eb1d62649ba/recipes%2Fre2%2Fall%2Fconanfile.py",
+        "raw_url": "https://github.com/conan-io/conan-center-index/raw/e2aa65c961d48d688dd5450811229eb1d62649ba/recipes%2Fre2%2Fall%2Fconanfile.py",
+        "contents_url": "https://api.github.com/repos/conan-io/conan-center-index/contents/recipes%2Fre2%2Fall%2Fconanfile.py?ref=e2aa65c961d48d688dd5450811229eb1d62649ba",
+        "patch": "@@ -4,17 +4,18 @@\n from conan.tools.files import copy, get, rmdir\n import os\n \n-required_conan_version = \">=1.53.0\"\n+required_conan_version = \">=1.54.0\"\n \n \n class Re2Conan(ConanFile):\n     name = \"re2\"\n     description = \"Fast, safe, thread-friendly regular expression library\"\n-    topics = (\"regex\")\n+    topics = (\"regex\",)\n     url = \"https://github.com/conan-io/conan-center-index\"\n     homepage = \"https://github.com/google/re2\"\n     license = \"BSD-3-Clause\"\n \n+    package_type = \"library\"\n     settings = \"os\", \"arch\", \"compiler\", \"build_type\"\n     options = {\n         \"shared\": [True, False],\n@@ -37,18 +38,15 @@ def layout(self):\n         cmake_layout(self, src_folder=\"src\")\n \n     def validate(self):\n-        if self.info.settings.compiler.get_safe(\"cppstd\"):\n+        if self.settings.compiler.get_safe(\"cppstd\"):\n             check_min_cppstd(self, 11)\n \n     def source(self):\n-        get(self, **self.conan_data[\"sources\"][self.version],\n-            destination=self.source_folder, strip_root=True)\n+        get(self, **self.conan_data[\"sources\"][self.version], strip_root=True)\n \n     def generate(self):\n         tc = CMakeToolchain(self)\n         tc.variables[\"RE2_BUILD_TESTING\"] = False\n-        # Honor BUILD_SHARED_LIBS from conan_toolchain (see https://github.com/conan-io/conan/issues/11840)\n-        tc.cache_variables[\"CMAKE_POLICY_DEFAULT_CMP0077\"] = \"NEW\"\n         tc.generate()\n \n     def build(self):"
+    }
+]
