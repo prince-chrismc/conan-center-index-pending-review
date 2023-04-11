@@ -971,6 +971,25 @@
       }
    },
    {
+      "Number": 16966,
+      "OpenedBy": "KozhinovAlexander",
+      "CreatedAt": "2023-04-11T07:24:37Z",
+      "Recipe": "nodejs",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16966",
+      "LastCommitSHA": "ad013a56d0ca31c8fbcb1184db106302a33bfae1",
+      "LastCommitAt": "2023-04-11T11:52:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 16971,
       "OpenedBy": "the-nic",
       "CreatedAt": "2023-04-11T08:28:46Z",
@@ -999,7 +1018,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16972",
       "LastCommitSHA": "edc56697e141b46c65afd389b5a8d19594b3cac6",
       "LastCommitAt": "2023-04-11T10:13:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
