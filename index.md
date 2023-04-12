@@ -53,7 +53,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: graphene|:blue_square: S|5|Mar 29 :bell:||
 [#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|:eyes:||
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:stopwatch: log4cxx|XL|0|||
-[#16690](https://github.com/conan-io/conan-center-index/pull/16690)|[jhabermas](https://github.com/jhabermas)|Mar 24|:stopwatch: tensorflow-lite|:blue_square: S|0|||
+[#16690](https://github.com/conan-io/conan-center-index/pull/16690)|[jhabermas](https://github.com/jhabermas)|Mar 24|:stopwatch: tensorflow-lite|M|0|||
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
 [#16702](https://github.com/conan-io/conan-center-index/pull/16702)|[SpaceIm](https://github.com/SpaceIm)|Mar 25|:memo: mimalloc|L|1|Apr 5||jwillikers
 [#16728](https://github.com/conan-io/conan-center-index/pull/16728)|[PeteAudinate](https://github.com/PeteAudinate)|Mar 27|:stopwatch: b2|:green_circle: XS|0|:eyes:||
@@ -71,10 +71,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16964](https://github.com/conan-io/conan-center-index/pull/16964)|[KozhinovAlexander](https://github.com/KozhinovAlexander)|Apr 10|:stopwatch: nodejs|L|0|||
 [#16966](https://github.com/conan-io/conan-center-index/pull/16966)|[KozhinovAlexander](https://github.com/KozhinovAlexander)|Apr 11|:stopwatch: nodejs|M|1|Apr 12||SSE4
 [#16977](https://github.com/conan-io/conan-center-index/pull/16977)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libdeflate|:blue_square: S|1|Apr 12||jwillikers
+[#16980](https://github.com/conan-io/conan-center-index/pull/16980)|[Hopobcn](https://github.com/Hopobcn)|Apr 11|:stopwatch: easy_profiler|L|1|Apr 12||
 [#16983](https://github.com/conan-io/conan-center-index/pull/16983)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libmorton|M|1|Apr 12||jwillikers
 [#16984](https://github.com/conan-io/conan-center-index/pull/16984)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libde265|:blue_square: S|1|Apr 12||jwillikers
 [#16987](https://github.com/conan-io/conan-center-index/pull/16987)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:stopwatch: apriltag|XL|0|||
-[#16995](https://github.com/conan-io/conan-center-index/pull/16995)|[toge](https://github.com/toge)|Apr 12|:stopwatch: roaring|:green_circle: XS|0|||
 [#16996](https://github.com/conan-io/conan-center-index/pull/16996)|[uilianries](https://github.com/uilianries)|Apr 12|:gear: .c3i|:green_circle: XS|1|Apr 12||RubenRBS
 [#16997](https://github.com/conan-io/conan-center-index/pull/16997)|[nicosmd](https://github.com/nicosmd)|Apr 12|:stopwatch: foonathan-memory|:green_circle: XS|0|||
 
@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15539](https://github.com/conan-io/conan-center-index/pull/15539)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 29|:warning: qt|6|ericLemanissier, prince-chrismc
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
-[#16979](https://github.com/conan-io/conan-center-index/pull/16979)|[voronaam](https://github.com/voronaam)|Apr 11|:green_book: docs|5|prince-chrismc, SSE4, RubenRBS
+[#16979](https://github.com/conan-io/conan-center-index/pull/16979)|[voronaam](https://github.com/voronaam)|Apr 11|:green_book: docs|5|prince-chrismc, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -97,9 +97,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 225
+	- Open: 224
 	- Draft: 28
-	- Average Age: 73 days, 22 hours, and 24.48 minutes
+	- Average Age: 74 days, 7 hours, and 14.69 minutes
 	- Stop Label: 131
 	
 
