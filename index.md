@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **59** pull requests currently under way :detective:
+There are **62** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -33,9 +33,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14803](https://github.com/conan-io/conan-center-index/pull/14803)|[jellespijker](https://github.com/jellespijker)|Dec 18|:stopwatch: vtu11|L|3|Apr 11||prince-chrismc
 [#15106](https://github.com/conan-io/conan-center-index/pull/15106)|[feltech](https://github.com/feltech)|Jan 4|:stopwatch: openassetio|XL|21|Apr 12||prince-chrismc
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:stopwatch: linter|:blue_square: S|0|:eyes:||
+[#15539](https://github.com/conan-io/conan-center-index/pull/15539)|[kambala-decapitator](https://github.com/kambala-decapitator)|Jan 29|:stopwatch: qt|L|4|Jan 30 :bell:||
 [#15726](https://github.com/conan-io/conan-center-index/pull/15726)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: folly|XL|8|Feb 21 :bell:||
 [#16053](https://github.com/conan-io/conan-center-index/pull/16053)|[hedtke](https://github.com/hedtke)|Feb 15|:new: ogdf|M|5|Mar 24 :bell:||
 [#16185](https://github.com/conan-io/conan-center-index/pull/16185)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:memo: grpc-proto|L|6|Apr 11||prince-chrismc
+[#16250](https://github.com/conan-io/conan-center-index/pull/16250)|[toge](https://github.com/toge)|Feb 23|:memo: tabulate|L|5|Apr 12||
 [#16254](https://github.com/conan-io/conan-center-index/pull/16254)|[xuzhenbao](https://github.com/xuzhenbao)|Feb 23|:stopwatch: mdnsresponder|L|0|||
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:memo: rmlui|L|2|Apr 8||ZombieRaccoon
 [#16339](https://github.com/conan-io/conan-center-index/pull/16339)|[SpaceIm](https://github.com/SpaceIm)|Mar 1|:stopwatch: libvips|L|2|Apr 7||
@@ -45,6 +47,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: libtiff|L|0|:eyes:||
 [#16381](https://github.com/conan-io/conan-center-index/pull/16381)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: dlpack|L|0|:eyes:||
 [#16385](https://github.com/conan-io/conan-center-index/pull/16385)|[gjasny](https://github.com/gjasny)|Mar 4|:stopwatch: libdb|M|0|:eyes:||
+[#16392](https://github.com/conan-io/conan-center-index/pull/16392)|[Twon](https://github.com/Twon)|Mar 5|:memo: wg21-linear_algebra|L|14|Apr 12|RubenRBS|prince-chrismc
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
 [#16500](https://github.com/conan-io/conan-center-index/pull/16500)|[achim-k](https://github.com/achim-k)|Mar 10|:stopwatch: foxglove-websocket|L|0|:eyes:||
 [#16558](https://github.com/conan-io/conan-center-index/pull/16558)|[jowr](https://github.com/jowr)|Mar 14|:memo: libtommath|L|0|||
@@ -104,10 +107,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 238
+	- Open: 237
 	- Draft: 29
-	- Average Age: 71 days, 11 hours, and 17.16 minutes
-	- Stop Label: 135
+	- Average Age: 71 days, 14 hours, and 12.55 minutes
+	- Stop Label: 131
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
