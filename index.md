@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **48** pull requests currently under way :detective:
+There are **49** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -75,18 +75,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16984](https://github.com/conan-io/conan-center-index/pull/16984)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libde265|:blue_square: S|0|||
 [#16987](https://github.com/conan-io/conan-center-index/pull/16987)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:stopwatch: apriltag|XL|0|||
 [#16989](https://github.com/conan-io/conan-center-index/pull/16989)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 12|:green_book: docs|:green_circle: XS|1|Apr 12||SSE4
+[#16993](https://github.com/conan-io/conan-center-index/pull/16993)|[the-nic](https://github.com/the-nic)|Apr 12|:stopwatch: libxml2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#14803](https://github.com/conan-io/conan-center-index/pull/14803)|[jellespijker](https://github.com/jellespijker)|Dec 18|:warning: vtu11|4|prince-chrismc, SSE4
-[#16185](https://github.com/conan-io/conan-center-index/pull/16185)|[SpaceIm](https://github.com/SpaceIm)|Feb 20|:memo: grpc-proto|7|prince-chrismc, SSE4
-[#16367](https://github.com/conan-io/conan-center-index/pull/16367)|[toge](https://github.com/toge)|Mar 3|:memo: glaze|5|prince-chrismc, SSE4
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
 [#16979](https://github.com/conan-io/conan-center-index/pull/16979)|[voronaam](https://github.com/voronaam)|Apr 11|:green_book: docs|5|prince-chrismc, SSE4, RubenRBS
 
@@ -97,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 228
+	- Open: 227
 	- Draft: 28
-	- Average Age: 73 days, 22 hours, and 10.74 minutes
+	- Average Age: 73 days, 21 hours, and 38.95 minutes
 	- Stop Label: 135
 	
 
