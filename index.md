@@ -71,12 +71,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16964](https://github.com/conan-io/conan-center-index/pull/16964)|[KozhinovAlexander](https://github.com/KozhinovAlexander)|Apr 10|:stopwatch: nodejs|L|0|||
 [#16966](https://github.com/conan-io/conan-center-index/pull/16966)|[KozhinovAlexander](https://github.com/KozhinovAlexander)|Apr 11|:stopwatch: nodejs|M|1|Apr 12||SSE4
 [#16977](https://github.com/conan-io/conan-center-index/pull/16977)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libdeflate|:blue_square: S|1|Apr 12||jwillikers
-[#16980](https://github.com/conan-io/conan-center-index/pull/16980)|[Hopobcn](https://github.com/Hopobcn)|Apr 11|:stopwatch: easy_profiler|L|1|Apr 12||
+[#16980](https://github.com/conan-io/conan-center-index/pull/16980)|[Hopobcn](https://github.com/Hopobcn)|Apr 11|:memo: easy_profiler|L|1|Apr 12||
 [#16983](https://github.com/conan-io/conan-center-index/pull/16983)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libmorton|M|1|Apr 12||jwillikers
 [#16984](https://github.com/conan-io/conan-center-index/pull/16984)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libde265|:blue_square: S|1|Apr 12||jwillikers
 [#16987](https://github.com/conan-io/conan-center-index/pull/16987)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:stopwatch: apriltag|XL|0|||
+[#16992](https://github.com/conan-io/conan-center-index/pull/16992)|[tankeco](https://github.com/tankeco)|Apr 12|:stopwatch: fast-dds|L|0|||
 [#16996](https://github.com/conan-io/conan-center-index/pull/16996)|[uilianries](https://github.com/uilianries)|Apr 12|:gear: .c3i|:green_circle: XS|1|Apr 12||RubenRBS
-[#16997](https://github.com/conan-io/conan-center-index/pull/16997)|[nicosmd](https://github.com/nicosmd)|Apr 12|:stopwatch: foonathan-memory|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 224
 	- Draft: 28
-	- Average Age: 74 days, 8 hours, and 18.53 minutes
+	- Average Age: 74 days, 9 hours, and 13.61 minutes
 	- Stop Label: 132
 	
 
