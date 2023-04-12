@@ -61,7 +61,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16728](https://github.com/conan-io/conan-center-index/pull/16728)|[PeteAudinate](https://github.com/PeteAudinate)|Mar 27|:stopwatch: b2|:green_circle: XS|0|:eyes:||
 [#16731](https://github.com/conan-io/conan-center-index/pull/16731)|[bariscelik](https://github.com/bariscelik)|Mar 27|:stopwatch: behaviortree.cpp|L|3|Apr 7||
 [#16736](https://github.com/conan-io/conan-center-index/pull/16736)|[cmannett85](https://github.com/cmannett85)|Mar 27|:new: arg_router|M|5|Apr 3||
-[#16760](https://github.com/conan-io/conan-center-index/pull/16760)|[kuroneko](https://github.com/kuroneko)|Mar 29|:stopwatch: paho-mqtt-cpp|L|11|Apr 11||prince-chrismc
+[#16760](https://github.com/conan-io/conan-center-index/pull/16760)|[kuroneko](https://github.com/kuroneko)|Mar 29|:memo: paho-mqtt-cpp|L|11|Apr 11||prince-chrismc
 [#16832](https://github.com/conan-io/conan-center-index/pull/16832)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 31|:stopwatch: uwebsockets|:green_circle: XS|0|:eyes:||
 [#16851](https://github.com/conan-io/conan-center-index/pull/16851)|[Jean1995](https://github.com/Jean1995)|Apr 1|:stopwatch: proposal|L|3|Apr 4||
 [#16861](https://github.com/conan-io/conan-center-index/pull/16861)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 2|:stopwatch: backward-cpp|:green_circle: XS|0|:eyes:||
@@ -106,7 +106,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 238
 	- Draft: 29
-	- Average Age: 71 days, 11 hours, and 10.73 minutes
+	- Average Age: 71 days, 11 hours, and 17.16 minutes
 	- Stop Label: 135
 	
 
