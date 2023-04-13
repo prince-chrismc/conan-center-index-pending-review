@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -85,10 +85,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16339](https://github.com/conan-io/conan-center-index/pull/16339)|[SpaceIm](https://github.com/SpaceIm)|Mar 1|:warning: libvips|4|jwillikers, prince-chrismc
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
 [#16832](https://github.com/conan-io/conan-center-index/pull/16832)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 31|:warning: uwebsockets|2|jcar87, uilianries
-[#16851](https://github.com/conan-io/conan-center-index/pull/16851)|[Jean1995](https://github.com/Jean1995)|Apr 1|:warning: proposal|5|jcar87, prince-chrismc
-[#16894](https://github.com/conan-io/conan-center-index/pull/16894)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 4|:memo: openexr|5|jcar87, uilianries
 [#16979](https://github.com/conan-io/conan-center-index/pull/16979)|[voronaam](https://github.com/voronaam)|Apr 11|:green_book: docs|5|prince-chrismc, RubenRBS
-[#17009](https://github.com/conan-io/conan-center-index/pull/17009)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 13|:warning: qt|2|jwillikers, jcar87
 
 
 #### :clipboard: Statistics
@@ -97,10 +94,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 219
+	- Open: 217
 	- Draft: 27
-	- Average Age: 75 days, 23 hours, and 0.25 minutes
-	- Stop Label: 128
+	- Average Age: 76 days, 15 hours, and 52.20 minutes
+	- Stop Label: 129
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
