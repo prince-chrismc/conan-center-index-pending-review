@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **52** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -46,12 +46,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16487](https://github.com/conan-io/conan-center-index/pull/16487)|[hellozee](https://github.com/hellozee)|Mar 9|:memo: mpdecimal|L|10|Apr 12||sorny92, prince-chrismc
 [#16500](https://github.com/conan-io/conan-center-index/pull/16500)|[achim-k](https://github.com/achim-k)|Mar 10|:stopwatch: foxglove-websocket|L|0|:eyes:||
 [#16558](https://github.com/conan-io/conan-center-index/pull/16558)|[jowr](https://github.com/jowr)|Mar 14|:memo: libtommath|L|0|||
-[#16564](https://github.com/conan-io/conan-center-index/pull/16564)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 14|:stopwatch: grpc|:blue_square: S|4|Apr 12||
 [#16589](https://github.com/conan-io/conan-center-index/pull/16589)|[cynix](https://github.com/cynix)|Mar 16|:stopwatch: openldap|:green_circle: XS|0|:eyes:||
 [#16592](https://github.com/conan-io/conan-center-index/pull/16592)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 17|:green_book: docs|:green_circle: XS|8|Apr 1 :bell:||
 [#16612](https://github.com/conan-io/conan-center-index/pull/16612)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite|L|0|:eyes:||
 [#16632](https://github.com/conan-io/conan-center-index/pull/16632)|[gjasny](https://github.com/gjasny)|Mar 20|:new: popt|L|0|:eyes:||
-[#16654](https://github.com/conan-io/conan-center-index/pull/16654)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|Mar 22|:new: seadex-essentials|M|20|Apr 12||
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: graphene|:blue_square: S|5|Mar 29 :bell:||
 [#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|:eyes:||
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:stopwatch: log4cxx|XL|0|||
@@ -71,26 +69,26 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16964](https://github.com/conan-io/conan-center-index/pull/16964)|[KozhinovAlexander](https://github.com/KozhinovAlexander)|Apr 10|:stopwatch: nodejs|L|0|||
 [#16966](https://github.com/conan-io/conan-center-index/pull/16966)|[KozhinovAlexander](https://github.com/KozhinovAlexander)|Apr 11|:stopwatch: nodejs|M|1|Apr 12||SSE4
 [#16977](https://github.com/conan-io/conan-center-index/pull/16977)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libdeflate|:blue_square: S|1|Apr 12||jwillikers
-[#16980](https://github.com/conan-io/conan-center-index/pull/16980)|[Hopobcn](https://github.com/Hopobcn)|Apr 11|:memo: easy_profiler|L|1|Apr 12||
+[#16980](https://github.com/conan-io/conan-center-index/pull/16980)|[Hopobcn](https://github.com/Hopobcn)|Apr 11|:memo: easy_profiler|L|2|Apr 13||jwillikers
 [#16983](https://github.com/conan-io/conan-center-index/pull/16983)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libmorton|M|1|Apr 12||jwillikers
 [#16984](https://github.com/conan-io/conan-center-index/pull/16984)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: libde265|:blue_square: S|1|Apr 12||jwillikers
 [#16987](https://github.com/conan-io/conan-center-index/pull/16987)|[SpaceIm](https://github.com/SpaceIm)|Apr 11|:memo: apriltag|XL|0|||
 [#16992](https://github.com/conan-io/conan-center-index/pull/16992)|[tankeco](https://github.com/tankeco)|Apr 12|:stopwatch: fast-dds|L|0|||
 [#16999](https://github.com/conan-io/conan-center-index/pull/16999)|[FranckRJ](https://github.com/FranckRJ)|Apr 12|:stopwatch: fakeit|:green_circle: XS|0|||
 [#17000](https://github.com/conan-io/conan-center-index/pull/17000)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 12|:memo: spdlog|:blue_square: S|0|||
-[#17001](https://github.com/conan-io/conan-center-index/pull/17001)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 12|:memo: tinycthread|L|0|||
-[#17003](https://github.com/conan-io/conan-center-index/pull/17003)|[toge](https://github.com/toge)|Apr 13|:memo: xsimd|:blue_square: S|0|||
+[#17003](https://github.com/conan-io/conan-center-index/pull/17003)|[toge](https://github.com/toge)|Apr 13|:memo: xsimd|:blue_square: S|1|Apr 13||jcar87
+[#17008](https://github.com/conan-io/conan-center-index/pull/17008)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 13|:gear: .c3i|:green_circle: XS|0|||
+[#17009](https://github.com/conan-io/conan-center-index/pull/17009)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 13|:stopwatch: qt|:green_circle: XS|1|Apr 13||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
-[#16818](https://github.com/conan-io/conan-center-index/pull/16818)|[jhabermas](https://github.com/jhabermas)|Mar 31|:warning: imath|3|jcar87, czoido
 [#16979](https://github.com/conan-io/conan-center-index/pull/16979)|[voronaam](https://github.com/voronaam)|Apr 11|:green_book: docs|5|prince-chrismc, RubenRBS
 
 
@@ -100,10 +98,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 224
+	- Open: 223
 	- Draft: 27
-	- Average Age: 74 days, 7 hours, and 29.72 minutes
-	- Stop Label: 131
+	- Average Age: 74 days, 12 hours, and 6.30 minutes
+	- Stop Label: 132
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
