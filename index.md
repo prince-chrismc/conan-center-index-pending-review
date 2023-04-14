@@ -71,8 +71,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17016](https://github.com/conan-io/conan-center-index/pull/17016)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: libudev|:green_circle: XS|0|||
 [#17017](https://github.com/conan-io/conan-center-index/pull/17017)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: gtk|:blue_square: S|0|||
 [#17018](https://github.com/conan-io/conan-center-index/pull/17018)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: glu|:blue_square: S|0|||
-[#17019](https://github.com/conan-io/conan-center-index/pull/17019)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: egl|:blue_square: S|0|||
-[#17020](https://github.com/conan-io/conan-center-index/pull/17020)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:gear: .github|:green_circle: XS|1|Apr 14||SSE4
+[#17019](https://github.com/conan-io/conan-center-index/pull/17019)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: egl|:blue_square: S|1|Apr 14||jwillikers
+[#17020](https://github.com/conan-io/conan-center-index/pull/17020)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:gear: .github|:green_circle: XS|2|Apr 14||SSE4, jwillikers
 [#17021](https://github.com/conan-io/conan-center-index/pull/17021)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:stopwatch: wil|:blue_square: S|0|||
 [#17026](https://github.com/conan-io/conan-center-index/pull/17026)|[Cogitri](https://github.com/Cogitri)|Apr 14|:memo: soci|L|0|||
 [#17029](https://github.com/conan-io/conan-center-index/pull/17029)|[SpaceIm](https://github.com/SpaceIm)|Apr 14|:memo: sdl_image|:green_circle: XS|0|||
@@ -96,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
 	- Open: 217
-	- Draft: 26
-	- Average Age: 75 days, 22 hours, and 58.44 minutes
-	- Stop Label: 125
+	- Draft: 27
+	- Average Age: 75 days, 22 hours, and 25.78 minutes
+	- Stop Label: 124
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
