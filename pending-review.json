@@ -1235,24 +1235,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 17032,
-      "OpenedBy": "datalogics-kam",
-      "CreatedAt": "2023-04-14T16:10:54Z",
-      "Recipe": "cmake",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17032",
-      "LastCommitSHA": "bafc3f5b9901bb5e785397f8f1e8a333ae1de393",
-      "LastCommitAt": "2023-04-14T15:37:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
