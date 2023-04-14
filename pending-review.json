@@ -544,18 +544,16 @@
       "CreatedAt": "2023-03-23T23:23:33Z",
       "Recipe": "opencv",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16678",
-      "LastCommitSHA": "240a533e6448c8d5fd9738be8babc7352604c660",
-      "LastCommitAt": "2023-03-31T22:42:05Z",
+      "LastCommitSHA": "506ad54d7cd55720ed171d351c674dbe94873f93",
+      "LastCommitAt": "2023-04-14T06:15:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "MartinDelille"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "MartinDelille",
