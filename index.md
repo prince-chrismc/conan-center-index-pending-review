@@ -69,14 +69,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17017](https://github.com/conan-io/conan-center-index/pull/17017)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: gtk|:blue_square: S|0|||
 [#17018](https://github.com/conan-io/conan-center-index/pull/17018)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:stopwatch: glu|:green_circle: XS|0|||
 [#17019](https://github.com/conan-io/conan-center-index/pull/17019)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: egl|:blue_square: S|0|||
-[#17020](https://github.com/conan-io/conan-center-index/pull/17020)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:gear: .github|:green_circle: XS|0|||
+[#17020](https://github.com/conan-io/conan-center-index/pull/17020)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:gear: .github|:green_circle: XS|1|Apr 14||SSE4
 [#17021](https://github.com/conan-io/conan-center-index/pull/17021)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:stopwatch: wil|:blue_square: S|0|||
-[#17024](https://github.com/conan-io/conan-center-index/pull/17024)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 14|:stopwatch: foonathan-memory|:green_circle: XS|0|||
+[#17024](https://github.com/conan-io/conan-center-index/pull/17024)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 14|:memo: foonathan-memory|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -87,8 +87,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16923](https://github.com/conan-io/conan-center-index/pull/16923)|[stefanpantic-smallpdf](https://github.com/stefanpantic-smallpdf)|Apr 6|:warning: emsdk|2|prince-chrismc, SSE4
 [#16979](https://github.com/conan-io/conan-center-index/pull/16979)|[voronaam](https://github.com/voronaam)|Apr 11|:green_book: docs|5|prince-chrismc, RubenRBS
 [#16999](https://github.com/conan-io/conan-center-index/pull/16999)|[FranckRJ](https://github.com/FranckRJ)|Apr 12|:memo: fakeit|2|prince-chrismc, SSE4
-[#17008](https://github.com/conan-io/conan-center-index/pull/17008)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 13|:gear: .c3i|2|prince-chrismc, SSE4
-[#17011](https://github.com/conan-io/conan-center-index/pull/17011)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 13|:warning: qt|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -98,9 +96,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
 	- Open: 220
-	- Draft: 25
-	- Average Age: 75 days, 9 hours, and 40.54 minutes
-	- Stop Label: 127
+	- Draft: 26
+	- Average Age: 75 days, 10 hours, and 36.44 minutes
+	- Stop Label: 128
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
