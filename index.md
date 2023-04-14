@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **53** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -80,6 +80,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17020](https://github.com/conan-io/conan-center-index/pull/17020)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:gear: .github|:green_circle: XS|0|||
 [#17021](https://github.com/conan-io/conan-center-index/pull/17021)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:stopwatch: wil|:blue_square: S|0|||
 [#17022](https://github.com/conan-io/conan-center-index/pull/17022)|[toge](https://github.com/toge)|Apr 14|:stopwatch: opentelemetry-proto|M|0|||
+[#17023](https://github.com/conan-io/conan-center-index/pull/17023)|[toge](https://github.com/toge)|Apr 14|:stopwatch: glaze|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -99,9 +100,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 221
+	- Open: 222
 	- Draft: 25
-	- Average Age: 74 days, 20 hours, and 5.37 minutes
+	- Average Age: 74 days, 12 hours, and 6.08 minutes
 	- Stop Label: 127
 	
 
