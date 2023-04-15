@@ -786,6 +786,25 @@
       }
    },
    {
+      "Number": 16893,
+      "OpenedBy": "Tobulus",
+      "CreatedAt": "2023-04-04T18:22:22Z",
+      "Recipe": "libbsd",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16893",
+      "LastCommitSHA": "0cfba12866ccf53adfe6eb6fcc228f397801aba6",
+      "LastCommitAt": "2023-04-15T16:30:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 16938,
       "OpenedBy": "OleksandrKvl",
       "CreatedAt": "2023-04-07T14:11:47Z",
@@ -1298,7 +1317,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17036",
       "LastCommitSHA": "525fcd2ffa0470d25f18b1af27e77c939e186923",
       "LastCommitAt": "2023-04-15T14:50:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
