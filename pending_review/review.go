@@ -59,7 +59,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 		if isMember {
 			reviwer.Tier = Community
 		} else if isTeam {
-			reviwer.Teir = Team
+			reviwer.Tier = Team
 		}		
 
 		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API

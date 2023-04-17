@@ -180,9 +180,11 @@ func TestProcessReviewComments6144(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "3093bad9162e288d55eeddec288b0481d964518e")
 	assert.Equal(t, Reviews{
 		Count: 4, ValidApprovals: 3, TeamApproval: true,
-		Approvals: []Reviewer{
-			Reviewer{User: "prince-chrismc", Type: Team, Requested: false },
-			 "SSE4", "jgsogo", "AndreyMlashkin_"},
+		Approvals: []Approver{
+			Approver{Name: "prince-chrismc", Tier: Team},
+			Approver{Name: "SSE4", Tier: Team},
+			Approver{Name: "jgsogo", Tier: Team},
+			Approver{Name: "AndreyMlashkin_", Tier: Unofficial}},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
@@ -285,7 +287,7 @@ func TestProcessReviewComments16144(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "e2aa65c961d48d688dd5450811229eb1d62649ba")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 2, TeamApproval: true,
-		Approvals: []string{"toge", "prince-chrismc"},
+		Approvals: []Approver{Approver{Name: "toge", Tier: Community}, Approver{Name: "prince-chrismc", Tier: Team},},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
@@ -452,7 +454,7 @@ func TestProcessReviewComments16187_2(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "47efa240d39a5e74b7b02cbe15702ea85215145d")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 1, TeamApproval: false,
-		Approvals: []string{"jwillikers"},
+		Approvals: []Approver{Approver{Name: "jwillikers", Tier: Community},},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
