@@ -78,12 +78,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17018](https://github.com/conan-io/conan-center-index/pull/17018)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: glu|:blue_square: S|1|Apr 14||jwillikers
 [#17019](https://github.com/conan-io/conan-center-index/pull/17019)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: egl|:blue_square: S|2|Apr 14||jwillikers, StellaSmith
 [#17020](https://github.com/conan-io/conan-center-index/pull/17020)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:gear: .github|:green_circle: XS|2|Apr 14||SSE4, jwillikers
-[#17021](https://github.com/conan-io/conan-center-index/pull/17021)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:stopwatch: wil|:blue_square: S|0|||
+[#17021](https://github.com/conan-io/conan-center-index/pull/17021)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 13|:stopwatch: wil|:blue_square: S|0|:eyes:||
 [#17026](https://github.com/conan-io/conan-center-index/pull/17026)|[Cogitri](https://github.com/Cogitri)|Apr 14|:memo: soci|L|0|||
 [#17027](https://github.com/conan-io/conan-center-index/pull/17027)|[fcelda](https://github.com/fcelda)|Apr 14|:memo: ldns|L|0|||
 [#17035](https://github.com/conan-io/conan-center-index/pull/17035)|[SpaceIm](https://github.com/SpaceIm)|Apr 15|:memo: jom|:green_circle: XS|1|Apr 16||prince-chrismc
 [#17036](https://github.com/conan-io/conan-center-index/pull/17036)|[toge](https://github.com/toge)|Apr 15|:memo: luau|:blue_square: S|1|Apr 16||prince-chrismc
-[#17037](https://github.com/conan-io/conan-center-index/pull/17037)|[toge](https://github.com/toge)|Apr 15|:memo: blend2d|:blue_square: S|1|Apr 16||prince-chrismc
+[#17037](https://github.com/conan-io/conan-center-index/pull/17037)|[toge](https://github.com/toge)|Apr 15|:memo: blend2d|M|1|Apr 16||
 [#17038](https://github.com/conan-io/conan-center-index/pull/17038)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 15|:stopwatch: doctest|:green_circle: XS|0|||
 [#17041](https://github.com/conan-io/conan-center-index/pull/17041)|[toge](https://github.com/toge)|Apr 16|:stopwatch: libuvc|:blue_square: S|0|||
 
@@ -107,7 +107,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 221
 	- Draft: 25
-	- Average Age: 76 days, 8 hours, and 40.00 minutes
+	- Average Age: 76 days, 13 hours, and 23.74 minutes
 	- Stop Label: 122
 	
 
