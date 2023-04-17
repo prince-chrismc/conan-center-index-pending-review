@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **48** pull requests currently under way :detective:
+There are **53** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -74,7 +74,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17059](https://github.com/conan-io/conan-center-index/pull/17059)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: string-view-lite|:green_circle: XS|1|Apr 17||jwillikers
 [#17060](https://github.com/conan-io/conan-center-index/pull/17060)|[maksim-petukhov](https://github.com/maksim-petukhov)|Apr 17|:memo: libmysqlclient|:green_circle: XS|0|||
 [#17063](https://github.com/conan-io/conan-center-index/pull/17063)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: capnproto|:green_circle: XS|0|||
-[#17065](https://github.com/conan-io/conan-center-index/pull/17065)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: ffmpeg|:green_circle: XS|0|||
+[#17066](https://github.com/conan-io/conan-center-index/pull/17066)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: pulseaudio|:green_circle: XS|0|||
+[#17067](https://github.com/conan-io/conan-center-index/pull/17067)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: kmod|:green_circle: XS|0|||
+[#17068](https://github.com/conan-io/conan-center-index/pull/17068)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: libcurl|:green_circle: XS|0|||
+[#17069](https://github.com/conan-io/conan-center-index/pull/17069)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: s2n|:green_circle: XS|0|||
+[#17070](https://github.com/conan-io/conan-center-index/pull/17070)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: gdcm|:green_circle: XS|0|||
+[#17071](https://github.com/conan-io/conan-center-index/pull/17071)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: cyrus-sasl|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -94,10 +99,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 219
+	- Open: 225
 	- Draft: 25
-	- Average Age: 76 days, 20 hours, and 5.19 minutes
-	- Stop Label: 127
+	- Average Age: 74 days, 19 hours, and 54.50 minutes
+	- Stop Label: 128
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
