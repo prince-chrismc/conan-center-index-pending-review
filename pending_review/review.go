@@ -15,7 +15,7 @@ type Reviews struct {
 	ValidApprovals int  // Counted by head commit approvals from official community reviewers and the Conan team
 	TeamApproval   bool // At least one approval from the Conan team
 
-	Approvals []string // List of users who have approved the pull request on the head commit
+	Approvals []Reviewer // List of users who have approved the pull request on the head commit
 	Blockers  []string // List of Conan team members who have requested changes on the head commit
 
 	LastReview *Review `json:",omitempty"` // Snapshot of the last review
@@ -48,6 +48,13 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 		reviewerName := review.GetUser().GetLogin()
 		isTeamMember := reviewers.IsTeamMember(reviewerName)
 		isMember := isTeamMember || reviewers.IsCommunityMember(reviewerName)
+		
+		reviwer := Reviewer{User: reviewerName, Type: "", Requested: false}
+		if isMember {
+			reviwer.Type = Community
+		} else if isTeam {
+			reviwer.Type = Team
+		}		
 
 		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API
 		case "CHANGES_REQUESTED":
@@ -56,7 +63,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 			}
 
 			removed := false
-			summary.Approvals, removed = removeUnique(summary.Approvals, reviewerName)
+			summary.Approvals, removed = removeUnique(summary.Approvals, reviewer)
 			if removed && isMember {
 				// If a reviewer retracted their review, the count needs to be adjusted
 				summary.ValidApprovals = summary.ValidApprovals - 1
@@ -70,7 +77,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 			}
 
 			new := false
-			summary.Approvals, new = appendUnique(summary.Approvals, reviewerName)
+			summary.Approvals, new = appendUnique(summary.Approvals, reviewer)
 			if !new {
 				// Duplicate review (usually an accident) or might be after an empty or merge commit
 				// https://github.com/conan-io/conan-center-index/pull/16475#pullrequestreview-1376616442
@@ -97,8 +104,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 			// https://github.com/conan-io/conan-center-index/pull/16034#pullrequestreview-1330280912
 
 		case "COMMENTED":
-			// Out-dated Approvals are transformed into comments https://github.com/conan-io/conan-center-index/pull/3855#issuecomment-770120073
-			// TODO: Figure out how GitHub knows what they were!
+			// TODO: Figure out if there is something useful to extract from here
 		default:
 		}
 	}
@@ -106,7 +112,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 	return summary
 }
 
-func appendUnique(slice []string, elem string) ([]string, bool) {
+func appendUnique[K comparable](slice []K, elem K) ([]string, bool) {
 	for _, e := range slice {
 		if e == elem {
 			return slice, false
@@ -116,7 +122,7 @@ func appendUnique(slice []string, elem string) ([]string, bool) {
 	return append(slice, elem), true
 }
 
-func removeUnique(slice []string, elem string) ([]string, bool) {
+func removeUnique[K comparable](slice []K, elem K) ([]string, bool) {
 	for i, e := range slice {
 		if e == elem {
 			return append(slice[:i], slice[i+1:]...), true
