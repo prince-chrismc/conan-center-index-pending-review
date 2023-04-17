@@ -2,6 +2,12 @@ package pending_review
 
 import "time"
 
+// Approver captures the user login or display name along with the tier of the reviewer
+type Approver struct {
+	Name string
+	Tier ReviewerType
+}
+
 // Review contains the essentials of a submission
 type Review struct {
 	ReviewerName string
@@ -15,7 +21,7 @@ type Reviews struct {
 	ValidApprovals int  // Counted by head commit approvals from official community reviewers and the Conan team
 	TeamApproval   bool // At least one approval from the Conan team
 
-	Approvals []Reviewer // List of users who have approved the pull request on the head commit
+	Approvals []Approver // List of users who have approved the pull request on the head commit
 	Blockers  []string // List of Conan team members who have requested changes on the head commit
 
 	LastReview *Review `json:",omitempty"` // Snapshot of the last review
@@ -49,11 +55,11 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 		isTeamMember := reviewers.IsTeamMember(reviewerName)
 		isMember := isTeamMember || reviewers.IsCommunityMember(reviewerName)
 		
-		reviwer := Reviewer{User: reviewerName, Type: "", Requested: false}
+		reviwer := Approver{User: reviewerName, Tier: Unofficial}
 		if isMember {
-			reviwer.Type = Community
+			reviwer.Tier = Community
 		} else if isTeam {
-			reviwer.Type = Team
+			reviwer.Teir = Team
 		}		
 
 		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API
@@ -112,7 +118,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 	return summary
 }
 
-func appendUnique[K comparable](slice []K, elem K) ([]string, bool) {
+func appendUnique[K comparable](slice []K, elem K) ([]K, bool) {
 	for _, e := range slice {
 		if e == elem {
 			return slice, false
@@ -122,7 +128,7 @@ func appendUnique[K comparable](slice []K, elem K) ([]string, bool) {
 	return append(slice, elem), true
 }
 
-func removeUnique[K comparable](slice []K, elem K) ([]string, bool) {
+func removeUnique[K comparable](slice []K, elem K) ([]K, bool) {
 	for i, e := range slice {
 		if e == elem {
 			return append(slice[:i], slice[i+1:]...), true

@@ -180,7 +180,9 @@ func TestProcessReviewComments6144(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "3093bad9162e288d55eeddec288b0481d964518e")
 	assert.Equal(t, Reviews{
 		Count: 4, ValidApprovals: 3, TeamApproval: true,
-		Approvals: []string{"prince-chrismc", "SSE4", "jgsogo", "AndreyMlashkin_"},
+		Approvals: []Reviewer{
+			Reviewer{User: "prince-chrismc", Type: Team, Requested: false },
+			 "SSE4", "jgsogo", "AndreyMlashkin_"},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
