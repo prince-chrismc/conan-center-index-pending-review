@@ -1310,18 +1310,16 @@
       "CreatedAt": "2023-04-15T19:13:43Z",
       "Recipe": "blend2d",
       "Change": 1,
-      "Weight": 1,
+      "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17037",
-      "LastCommitSHA": "604b934ef2babd6e4f36992ad5eef0a0ab799a3b",
-      "LastCommitAt": "2023-04-15T19:11:52Z",
+      "LastCommitSHA": "11afaf09f695ad571eb44b720257f562f9adccf7",
+      "LastCommitAt": "2023-04-16T23:32:14Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
