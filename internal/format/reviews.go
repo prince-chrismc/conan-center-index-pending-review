@@ -45,7 +45,7 @@ func underWay(pr *pending_review.PullRequestSummary) string {
 		fmt.Sprint(pr.Summary.Count),
 		lastReviewTime(pr),
 		strings.Join(pr.Summary.Blockers, ", "),
-		strings.Join(pr.Summary.Approvals, ", "),
+		approvers(pr.Summary.Approvals),
 	}
 
 	retval += strings.Join(columns, "|")
@@ -70,7 +70,7 @@ func toMerge(pr *pending_review.PullRequestSummary) string {
 		pr.CreatedAt.Format("Jan 2"),
 		title,
 		fmt.Sprint(pr.Summary.Count),
-		strings.Join(pr.Summary.Approvals, ", "),
+		approvers(pr.Summary.Approvals),
 	}
 	retval += strings.Join(columns, "|")
 	retval += "\n"
@@ -126,4 +126,14 @@ func lastReviewTime(pr *pending_review.PullRequestSummary) string {
 	}
 
 	return ""
+}
+
+func approvers(approvers []Approvers) string {
+	var names []string
+	for _, a := approvers{
+		//TODO: Add color
+		names = append(names, a.Name)
+	}
+
+	return strings.Join(names, ", "),
 }
