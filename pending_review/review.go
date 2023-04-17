@@ -55,11 +55,11 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 		isTeamMember := reviewers.IsTeamMember(reviewerName)
 		isMember := isTeamMember || reviewers.IsCommunityMember(reviewerName)
 		
-		reviwer := Approver{Name: reviewerName, Tier: Unofficial}
+		reviewer := Approver{Name: reviewerName, Tier: Unofficial}
 		if isMember {
-			reviwer.Tier = Community
+			reviewer.Tier = Community
 		} else if isTeamMember {
-			reviwer.Tier = Team
+			reviewer.Tier = Team
 		}		
 
 		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API
