@@ -58,7 +58,7 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 		reviwer := Approver{Name: reviewerName, Tier: Unofficial}
 		if isMember {
 			reviwer.Tier = Community
-		} else if isTeam {
+		} else if isTeamMember {
 			reviwer.Tier = Team
 		}		
 
