@@ -1348,15 +1348,15 @@
       }
    },
    {
-      "Number": 17041,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-04-16T16:23:09Z",
-      "Recipe": "libuvc",
+      "Number": 17043,
+      "OpenedBy": "prince-chrismc",
+      "CreatedAt": "2023-04-17T05:06:40Z",
+      "Recipe": "libusb",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17041",
-      "LastCommitSHA": "eca71aafafb8384f5b21b6f76c0537510d61cbbe",
-      "LastCommitAt": "2023-04-16T16:21:15Z",
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17043",
+      "LastCommitSHA": "bdd2e62c5d9c399b8d314d4bedf2264e46b211ae",
+      "LastCommitAt": "2023-04-17T05:06:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
