@@ -1079,7 +1079,7 @@ func TestGetReviewSummary16144(t *testing.T) {
 		OpenedBy: "SpaceIm", CreatedAt: createdAt, Recipe: "re2", Change: EDIT, Weight: SMALL,
 		ReviewURL:     "https://github.com/conan-io/conan-center-index/pull/16144",
 		LastCommitSHA: "e2aa65c961d48d688dd5450811229eb1d62649ba", LastCommitAt: lastCommitAt, CciBotPassed: false,
-		Summary: Reviews{Count: 2, ValidApprovals: 2, TeamApproval: true, Approvals: []string{"toge", "prince-chrismc"},
+		Summary: Reviews{Count: 2, ValidApprovals: 2, TeamApproval: true, Approvals: []Approver{Approver{Name: "toge", Tier: Community}, Approver{Name: "prince-chrismc", Tier: Team},},
 			Blockers: nil, LastReview: &Review{ReviewerName: "prince-chrismc", SubmittedAt: submittedAt,
 				HTMLURL: "https://github.com/conan-io/conan-center-index/pull/16144#pullrequestreview-1335829632",
 			},
