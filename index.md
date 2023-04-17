@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17036](https://github.com/conan-io/conan-center-index/pull/17036)|[toge](https://github.com/toge)|Apr 15|:memo: luau|:blue_square: S|1|Apr 16||prince-chrismc
 [#17037](https://github.com/conan-io/conan-center-index/pull/17037)|[toge](https://github.com/toge)|Apr 15|:memo: blend2d|M|1|Apr 16||
 [#17038](https://github.com/conan-io/conan-center-index/pull/17038)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 15|:stopwatch: doctest|:green_circle: XS|0|||
-[#17041](https://github.com/conan-io/conan-center-index/pull/17041)|[toge](https://github.com/toge)|Apr 16|:stopwatch: libuvc|:blue_square: S|0|||
+[#17043](https://github.com/conan-io/conan-center-index/pull/17043)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:stopwatch: libusb|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -105,9 +105,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 221
+	- Open: 222
 	- Draft: 25
-	- Average Age: 76 days, 13 hours, and 23.74 minutes
+	- Average Age: 76 days, 9 hours, and 22.19 minutes
 	- Stop Label: 122
 	
 
