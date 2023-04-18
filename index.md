@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **57** pull requests currently under way :detective:
+There are **54** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -75,14 +75,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17080](https://github.com/conan-io/conan-center-index/pull/17080)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: opusfile|:green_circle: XS|1|Apr 18||jwillikers
 [#17085](https://github.com/conan-io/conan-center-index/pull/17085)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: libtorrent|:green_circle: XS|1|Apr 18||jwillikers
 [#17087](https://github.com/conan-io/conan-center-index/pull/17087)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: qpdf|:green_circle: XS|1|Apr 18||jwillikers
-[#17089](https://github.com/conan-io/conan-center-index/pull/17089)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: minizip-ng|:green_circle: XS|1|Apr 18||jwillikers
 [#17090](https://github.com/conan-io/conan-center-index/pull/17090)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: mailio|M|1|Apr 18||jwillikers
 [#17092](https://github.com/conan-io/conan-center-index/pull/17092)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: libzip|:green_circle: XS|1|Apr 18||jwillikers
 [#17093](https://github.com/conan-io/conan-center-index/pull/17093)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: uni-algo|M|1|Apr 18||RubenRBS
 [#17095](https://github.com/conan-io/conan-center-index/pull/17095)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: websocketpp|:green_circle: XS|0|||
-[#17096](https://github.com/conan-io/conan-center-index/pull/17096)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: cpprestsdk|M|0|||
 [#17098](https://github.com/conan-io/conan-center-index/pull/17098)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: gsoap|:green_circle: XS|0|||
-[#17099](https://github.com/conan-io/conan-center-index/pull/17099)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: caf|:green_circle: XS|0|||
 [#17100](https://github.com/conan-io/conan-center-index/pull/17100)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-cal|M|0|||
 
 
@@ -96,7 +93,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|3|prince-chrismc, SSE4, RubenRBS
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
 [#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: vdpau|4|RubenRBS, uilianries, danimtb
-[#17075](https://github.com/conan-io/conan-center-index/pull/17075)|[uilianries](https://github.com/uilianries)|Apr 18|:gear: .c3i|6|prince-chrismc, SSE4
+[#17075](https://github.com/conan-io/conan-center-index/pull/17075)|[uilianries](https://github.com/uilianries)|Apr 18|:gear: .c3i|7|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -105,9 +102,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 228
-	- Draft: 26
-	- Average Age: 74 days, 1 hours, and 1.26 minutes
+	- Open: 227
+	- Draft: 27
+	- Average Age: 74 days, 9 hours, and 55.65 minutes
 	- Stop Label: 126
 	
 
