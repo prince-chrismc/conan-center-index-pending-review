@@ -135,5 +135,5 @@ func approvers(approvers []Approvers) string {
 		names = append(names, a.Name)
 	}
 
-	return strings.Join(names, ", "),
+	return strings.Join(names, ", ")
 }
