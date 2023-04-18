@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **48** pull requests currently under way :detective:
+There are **50** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -69,17 +69,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17063](https://github.com/conan-io/conan-center-index/pull/17063)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: capnproto|:green_circle: XS|1|Apr 18||prince-chrismc
 [#17075](https://github.com/conan-io/conan-center-index/pull/17075)|[uilianries](https://github.com/uilianries)|Apr 18|:gear: .c3i|:green_circle: XS|0|||
 [#17077](https://github.com/conan-io/conan-center-index/pull/17077)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: civetweb|:blue_square: S|0|||
-[#17078](https://github.com/conan-io/conan-center-index/pull/17078)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: amqp-cpp|:green_circle: XS|0|||
 [#17079](https://github.com/conan-io/conan-center-index/pull/17079)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: libevent|:green_circle: XS|0|||
 [#17080](https://github.com/conan-io/conan-center-index/pull/17080)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: opusfile|:green_circle: XS|0|||
-[#17081](https://github.com/conan-io/conan-center-index/pull/17081)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: nuraft|:green_circle: XS|0|||
 [#17082](https://github.com/conan-io/conan-center-index/pull/17082)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: mongo-c-driver|:green_circle: XS|0|||
-[#17083](https://github.com/conan-io/conan-center-index/pull/17083)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: mariadb-connector-c|:green_circle: XS|0|||
+[#17085](https://github.com/conan-io/conan-center-index/pull/17085)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: libtorrent|:green_circle: XS|0|||
+[#17086](https://github.com/conan-io/conan-center-index/pull/17086)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: trantor|:green_circle: XS|0|||
+[#17087](https://github.com/conan-io/conan-center-index/pull/17087)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: qpdf|:green_circle: XS|0|||
+[#17088](https://github.com/conan-io/conan-center-index/pull/17088)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: paho-mqtt-c|:green_circle: XS|0|||
+[#17089](https://github.com/conan-io/conan-center-index/pull/17089)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: minizip-ng|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -88,8 +90,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
 [#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: vdpau|4|RubenRBS, uilianries, danimtb
 [#17044](https://github.com/conan-io/conan-center-index/pull/17044)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: uni-algo|3|jwillikers, RubenRBS
-[#17056](https://github.com/conan-io/conan-center-index/pull/17056)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: expected-lite|2|jwillikers, RubenRBS
-[#17057](https://github.com/conan-io/conan-center-index/pull/17057)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: http_parser|2|jwillikers, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -98,9 +98,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 222
+	- Open: 224
 	- Draft: 25
-	- Average Age: 75 days, 18 hours, and 26.57 minutes
+	- Average Age: 75 days, 2 hours, and 59.62 minutes
 	- Stop Label: 127
 	
 
