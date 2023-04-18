@@ -181,9 +181,9 @@ func TestProcessReviewComments6144(t *testing.T) {
 	assert.Equal(t, Reviews{
 		Count: 4, ValidApprovals: 3, TeamApproval: true,
 		Approvals: []Approver{
-			Approver{Name: "prince-chrismc", Tier: Team},
-			Approver{Name: "SSE4", Tier: Team},
-			Approver{Name: "jgsogo", Tier: Team},
+			Approver{Name: "prince-chrismc", Tier: Community},
+			Approver{Name: "SSE4", Tier: Community},
+			Approver{Name: "jgsogo", Tier: Community},
 			Approver{Name: "AndreyMlashkin_", Tier: Unofficial}},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
@@ -287,7 +287,7 @@ func TestProcessReviewComments16144(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "e2aa65c961d48d688dd5450811229eb1d62649ba")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 2, TeamApproval: true,
-		Approvals: []Approver{Approver{Name: "toge", Tier: Community}, Approver{Name: "prince-chrismc", Tier: Team},},
+		Approvals: []Approver{Approver{Name: "toge", Tier: Community}, Approver{Name: "prince-chrismc", Tier: Community},},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
