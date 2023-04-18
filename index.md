@@ -64,27 +64,25 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17040](https://github.com/conan-io/conan-center-index/pull/17040)|[jwidauer](https://github.com/jwidauer)|Apr 16|:stopwatch: restinio|:green_circle: XS|0|||
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|||
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:stopwatch: harfbuzz|:green_circle: XS|0|||
+[#17050](https://github.com/conan-io/conan-center-index/pull/17050)|[fdefelici](https://github.com/fdefelici)|Apr 17|:memo: clove-unit|L|1|Apr 18||
 [#17060](https://github.com/conan-io/conan-center-index/pull/17060)|[maksim-petukhov](https://github.com/maksim-petukhov)|Apr 17|:memo: libmysqlclient|:green_circle: XS|0|||
 [#17063](https://github.com/conan-io/conan-center-index/pull/17063)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: capnproto|:green_circle: XS|1|Apr 18||prince-chrismc
-[#17073](https://github.com/conan-io/conan-center-index/pull/17073)|[toge](https://github.com/toge)|Apr 18|:memo: blend2d|:green_circle: XS|1|Apr 18||prince-chrismc
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15115](https://github.com/conan-io/conan-center-index/pull/15115)|[technic](https://github.com/technic)|Jan 4|:gear: linter|3|prince-chrismc, SSE4, RubenRBS
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
-[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: vdpau|3|RubenRBS, uilianries
+[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: vdpau|4|RubenRBS, uilianries, danimtb
 [#17044](https://github.com/conan-io/conan-center-index/pull/17044)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: uni-algo|3|jwillikers, RubenRBS
 [#17056](https://github.com/conan-io/conan-center-index/pull/17056)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: expected-lite|2|jwillikers, RubenRBS
 [#17057](https://github.com/conan-io/conan-center-index/pull/17057)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: http_parser|2|jwillikers, RubenRBS
 [#17058](https://github.com/conan-io/conan-center-index/pull/17058)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: optional-lite|2|jwillikers, RubenRBS
-[#17059](https://github.com/conan-io/conan-center-index/pull/17059)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: string-view-lite|2|jwillikers, RubenRBS
-[#17067](https://github.com/conan-io/conan-center-index/pull/17067)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: kmod|2|prince-chrismc, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -93,9 +91,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 218
+	- Open: 216
 	- Draft: 25
-	- Average Age: 77 days, 2 hours, and 3.58 minutes
+	- Average Age: 77 days, 19 hours, and 59.64 minutes
 	- Stop Label: 128
 	
 
