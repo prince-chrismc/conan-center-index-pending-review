@@ -61,11 +61,18 @@
       "LastCommitAt": "2023-04-17T20:29:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-04-17T23:27:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15115#pullrequestreview-1389068639"
+         }
       }
    },
    {
@@ -776,7 +783,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17013",
       "LastCommitSHA": "28d435050b83948f917c831078ea41ee648bac76",
       "LastCommitAt": "2023-04-13T23:03:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 3,
@@ -1086,26 +1093,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17063",
       "LastCommitSHA": "6df746dfc4237f342c78da46c935b5f896c6f2bd",
       "LastCommitAt": "2023-04-17T21:24:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17066,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-17T22:34:08Z",
-      "Recipe": "pulseaudio",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17066",
-      "LastCommitSHA": "78ff308c5814cfdd1f021ac51197de4f493d06e4",
-      "LastCommitAt": "2023-04-17T22:33:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1181,25 +1169,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17070",
       "LastCommitSHA": "d60135808dd4bfcb7f6e07e9eca5b0b4a2b49d4f",
       "LastCommitAt": "2023-04-17T22:58:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17071,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-17T23:00:47Z",
-      "Recipe": "cyrus-sasl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17071",
-      "LastCommitSHA": "07cde2b675b7b7c1273f2305e2751c94cf4b7ec3",
-      "LastCommitAt": "2023-04-17T23:00:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
