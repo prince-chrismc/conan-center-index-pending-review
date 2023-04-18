@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **51** pull requests currently under way :detective:
+There are **49** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -76,8 +76,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17063](https://github.com/conan-io/conan-center-index/pull/17063)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: capnproto|:green_circle: XS|0|||
 [#17067](https://github.com/conan-io/conan-center-index/pull/17067)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: kmod|:green_circle: XS|0|||
 [#17068](https://github.com/conan-io/conan-center-index/pull/17068)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: libcurl|:green_circle: XS|0|||
-[#17069](https://github.com/conan-io/conan-center-index/pull/17069)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: s2n|:green_circle: XS|0|||
-[#17070](https://github.com/conan-io/conan-center-index/pull/17070)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: gdcm|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -97,9 +95,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 223
+	- Open: 221
 	- Draft: 25
-	- Average Age: 75 days, 13 hours, and 42.19 minutes
+	- Average Age: 76 days, 7 hours, and 18.10 minutes
 	- Stop Label: 128
 	
 
