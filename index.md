@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **50** pull requests currently under way :detective:
+There are **49** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -75,8 +75,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17060](https://github.com/conan-io/conan-center-index/pull/17060)|[maksim-petukhov](https://github.com/maksim-petukhov)|Apr 17|:memo: libmysqlclient|:green_circle: XS|0|||
 [#17063](https://github.com/conan-io/conan-center-index/pull/17063)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: capnproto|:green_circle: XS|0|||
 [#17067](https://github.com/conan-io/conan-center-index/pull/17067)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: kmod|:green_circle: XS|0|||
-[#17068](https://github.com/conan-io/conan-center-index/pull/17068)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: libcurl|:green_circle: XS|0|||
-[#17073](https://github.com/conan-io/conan-center-index/pull/17073)|[toge](https://github.com/toge)|Apr 18|:stopwatch: blend2d|:green_circle: XS|0|||
+[#17073](https://github.com/conan-io/conan-center-index/pull/17073)|[toge](https://github.com/toge)|Apr 18|:memo: blend2d|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -87,7 +86,7 @@ Currently **2** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
-[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:warning: vdpau|3|jwillikers, RubenRBS, uilianries
+[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: vdpau|3|jwillikers, RubenRBS, uilianries
 
 
 #### :clipboard: Statistics
@@ -96,9 +95,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 222
+	- Open: 221
 	- Draft: 25
-	- Average Age: 76 days, and 9.88 minutes
+	- Average Age: 76 days, 9 hours, and 25.76 minutes
 	- Stop Label: 128
 	
 
