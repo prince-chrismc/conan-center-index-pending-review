@@ -130,7 +130,7 @@ func lastReviewTime(pr *pending_review.PullRequestSummary) string {
 
 func approvers(approvers []Approvers) string {
 	var names []string
-	for _, a := approvers{
+	for _, a := range approvers{
 		//TODO: Add color
 		names = append(names, a.Name)
 	}
