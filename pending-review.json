@@ -783,7 +783,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17013",
       "LastCommitSHA": "28d435050b83948f917c831078ea41ee648bac76",
       "LastCommitAt": "2023-04-13T23:03:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 3,
@@ -1122,25 +1122,6 @@
       }
    },
    {
-      "Number": 17068,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-17T22:54:43Z",
-      "Recipe": "libcurl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17068",
-      "LastCommitSHA": "24f934bb374c7e136e59df0062717f243c29ff13",
-      "LastCommitAt": "2023-04-17T22:54:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17073,
       "OpenedBy": "toge",
       "CreatedAt": "2023-04-18T02:56:29Z",
@@ -1150,7 +1131,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17073",
       "LastCommitSHA": "014cc33c096d2bda16bd93edd85a16e830d782e9",
       "LastCommitAt": "2023-04-18T02:54:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
