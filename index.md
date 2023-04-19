@@ -93,17 +93,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17118](https://github.com/conan-io/conan-center-index/pull/17118)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-c-sdkutils|M|0|||
 [#17119](https://github.com/conan-io/conan-center-index/pull/17119)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-checksums|M|0|||
 [#17121](https://github.com/conan-io/conan-center-index/pull/17121)|[fcelda](https://github.com/fcelda)|Apr 19|:memo: ldns|:green_circle: XS|0|||
-[#17122](https://github.com/conan-io/conan-center-index/pull/17122)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: s2n|:blue_square: S|0|||
+[#17122](https://github.com/conan-io/conan-center-index/pull/17122)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: s2n|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
+[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:warning: vdpau|5|RubenRBS, uilianries, danimtb, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -112,10 +113,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 244
-	- Draft: 27
-	- Average Age: 69 days, 11 hours, and 22.92 minutes
-	- Stop Label: 133
+	- Open: 245
+	- Draft: 28
+	- Average Age: 69 days, 5 hours, and 46.88 minutes
+	- Stop Label: 132
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
