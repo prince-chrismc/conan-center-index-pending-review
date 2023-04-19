@@ -92,7 +92,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17119](https://github.com/conan-io/conan-center-index/pull/17119)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-checksums|M|1|Apr 19||jwillikers
 [#17121](https://github.com/conan-io/conan-center-index/pull/17121)|[fcelda](https://github.com/fcelda)|Apr 19|:memo: ldns|:green_circle: XS|0|||
 [#17122](https://github.com/conan-io/conan-center-index/pull/17122)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: s2n|:blue_square: S|1|Apr 19||jwillikers
-[#17128](https://github.com/conan-io/conan-center-index/pull/17128)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: libevent|:green_circle: XS|0|||
+[#17128](https://github.com/conan-io/conan-center-index/pull/17128)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: libevent|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -114,7 +114,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 243
 	- Draft: 28
-	- Average Age: 69 days, 22 hours, and 31.17 minutes
+	- Average Age: 69 days, 23 hours, and 26.47 minutes
 	- Stop Label: 131
 	
 
