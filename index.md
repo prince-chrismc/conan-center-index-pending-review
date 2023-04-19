@@ -91,7 +91,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17115](https://github.com/conan-io/conan-center-index/pull/17115)|[hedtke](https://github.com/hedtke)|Apr 19|:memo: coin-clp|:green_circle: XS|1|Apr 19||SpaceIm
 [#17118](https://github.com/conan-io/conan-center-index/pull/17118)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-c-sdkutils|M|0|||
 [#17119](https://github.com/conan-io/conan-center-index/pull/17119)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-checksums|M|1|Apr 19||jwillikers
-[#17121](https://github.com/conan-io/conan-center-index/pull/17121)|[fcelda](https://github.com/fcelda)|Apr 19|:memo: ldns|:green_circle: XS|0|||
+[#17121](https://github.com/conan-io/conan-center-index/pull/17121)|[fcelda](https://github.com/fcelda)|Apr 19|:memo: ldns|:green_circle: XS|1|Apr 19||prince-chrismc
 [#17122](https://github.com/conan-io/conan-center-index/pull/17122)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: s2n|:blue_square: S|1|Apr 19||jwillikers
 [#17128](https://github.com/conan-io/conan-center-index/pull/17128)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: libevent|:green_circle: XS|0|||
 
@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 243
 	- Draft: 28
-	- Average Age: 70 days, and 30.42 minutes
+	- Average Age: 70 days, 1 hours, and 25.04 minutes
 	- Stop Label: 130
 	
 
