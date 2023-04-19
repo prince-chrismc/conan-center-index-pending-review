@@ -92,13 +92,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
-[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: vdpau|5|RubenRBS, uilianries, danimtb, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -109,8 +108,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 235
 	- Draft: 27
-	- Average Age: 71 days, 22 hours, and 13.40 minutes
-	- Stop Label: 129
+	- Average Age: 71 days, 23 hours, and 9.24 minutes
+	- Stop Label: 130
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
