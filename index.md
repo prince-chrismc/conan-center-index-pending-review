@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **67** pull requests currently under way :detective:
+There are **66** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -58,7 +58,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16849](https://github.com/conan-io/conan-center-index/pull/16849)|[mayeut](https://github.com/mayeut)|Apr 1|:stopwatch: onnxruntime|L|9|Apr 18||
 [#16861](https://github.com/conan-io/conan-center-index/pull/16861)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 2|:memo: backward-cpp|:green_circle: XS|2|Apr 19||jcar87
 [#16865](https://github.com/conan-io/conan-center-index/pull/16865)|[Jihadist](https://github.com/Jihadist)|Apr 3|:new: agg|M|5|Apr 13||
-[#16889](https://github.com/conan-io/conan-center-index/pull/16889)|[MartinDelille](https://github.com/MartinDelille)|Apr 4|:stopwatch: qt|L|6|Apr 19||jwillikers
 [#16893](https://github.com/conan-io/conan-center-index/pull/16893)|[Tobulus](https://github.com/Tobulus)|Apr 4|:memo: libbsd|L|1|Apr 17||
 [#16930](https://github.com/conan-io/conan-center-index/pull/16930)|[gjasny](https://github.com/gjasny)|Apr 6|:memo: boost|M|2|Apr 17||jwillikers
 [#16938](https://github.com/conan-io/conan-center-index/pull/16938)|[OleksandrKvl](https://github.com/OleksandrKvl)|Apr 7|:new: sbepp|L|0|:eyes:||
@@ -113,10 +112,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 244
+	- Open: 243
 	- Draft: 28
-	- Average Age: 69 days, 19 hours, and 34.57 minutes
-	- Stop Label: 130
+	- Average Age: 70 days, 3 hours, and 25.44 minutes
+	- Stop Label: 131
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
