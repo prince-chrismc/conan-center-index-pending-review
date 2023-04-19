@@ -98,7 +98,7 @@ Currently **2** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
-[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: vdpau|5|RubenRBS, uilianries, danimtb, ericLemanissier
+[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:warning: vdpau|5|RubenRBS, uilianries, danimtb, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -109,7 +109,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 234
 	- Draft: 27
-	- Average Age: 72 days, 2 hours, and 34.96 minutes
+	- Average Age: 72 days, 3 hours, and 37.11 minutes
 	- Stop Label: 128
 	
 
