@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **62** pull requests currently under way :detective:
+There are **61** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -86,7 +86,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17103](https://github.com/conan-io/conan-center-index/pull/17103)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 18|:gear: linter|:green_circle: XS|1|Apr 18||SpaceIm
 [#17104](https://github.com/conan-io/conan-center-index/pull/17104)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-io|:blue_square: S|0|||
 [#17105](https://github.com/conan-io/conan-center-index/pull/17105)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-common|:green_circle: XS|0|||
-[#17106](https://github.com/conan-io/conan-center-index/pull/17106)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 18|:gear: .c3i|:blue_square: S|1|Apr 18||prince-chrismc
 [#17109](https://github.com/conan-io/conan-center-index/pull/17109)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-compression|:blue_square: S|0|||
 [#17113](https://github.com/conan-io/conan-center-index/pull/17113)|[calebkiage](https://github.com/calebkiage)|Apr 19|:memo: libelf|:green_circle: XS|0|||
 
@@ -99,7 +98,7 @@ Currently **2** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16789](https://github.com/conan-io/conan-center-index/pull/16789)|[Sfletche132](https://github.com/Sfletche132)|Mar 30|:warning: abseil|4|SpaceIm, prince-chrismc
-[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:warning: vdpau|5|RubenRBS, uilianries, danimtb, ericLemanissier
+[#17013](https://github.com/conan-io/conan-center-index/pull/17013)|[SpaceIm](https://github.com/SpaceIm)|Apr 13|:memo: vdpau|5|RubenRBS, uilianries, danimtb, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -110,8 +109,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 235
 	- Draft: 27
-	- Average Age: 71 days, 21 hours, and 11.67 minutes
-	- Stop Label: 128
+	- Average Age: 71 days, 22 hours, and 13.40 minutes
+	- Stop Label: 129
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
