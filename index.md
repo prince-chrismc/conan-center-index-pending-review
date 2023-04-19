@@ -31,6 +31,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#14940](https://github.com/conan-io/conan-center-index/pull/14940)|[taoyouh](https://github.com/taoyouh)|Dec 26|:stopwatch: libnice|M|12|Apr 17||
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|1|Apr 17||jwillikers
+[#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|L|10|Apr 14||
 [#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|L|0|||
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:memo: rmlui|L|3|Apr 17||ZombieRaccoon
 [#16356](https://github.com/conan-io/conan-center-index/pull/16356)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:stopwatch: openmvg|XL|0|:eyes:||
@@ -85,12 +86,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17102](https://github.com/conan-io/conan-center-index/pull/17102)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 18|:memo: xorg|:blue_square: S|1|Apr 19||jcar87
 [#17103](https://github.com/conan-io/conan-center-index/pull/17103)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 18|:gear: linter|:green_circle: XS|1|Apr 18||SpaceIm
 [#17105](https://github.com/conan-io/conan-center-index/pull/17105)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-common|M|0|||
-[#17109](https://github.com/conan-io/conan-center-index/pull/17109)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-compression|:blue_square: S|0|||
+[#17109](https://github.com/conan-io/conan-center-index/pull/17109)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-compression|M|0|||
 [#17113](https://github.com/conan-io/conan-center-index/pull/17113)|[calebkiage](https://github.com/calebkiage)|Apr 19|:memo: libelf|:green_circle: XS|0|||
 [#17115](https://github.com/conan-io/conan-center-index/pull/17115)|[hedtke](https://github.com/hedtke)|Apr 19|:memo: coin-clp|:green_circle: XS|1|Apr 19||SpaceIm
 [#17118](https://github.com/conan-io/conan-center-index/pull/17118)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-c-sdkutils|M|0|||
 [#17119](https://github.com/conan-io/conan-center-index/pull/17119)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-checksums|M|0|||
-[#17120](https://github.com/conan-io/conan-center-index/pull/17120)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-crt-cpp|M|0|||
 [#17121](https://github.com/conan-io/conan-center-index/pull/17121)|[fcelda](https://github.com/fcelda)|Apr 19|:stopwatch: ldns|:green_circle: XS|0|||
 [#17122](https://github.com/conan-io/conan-center-index/pull/17122)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: s2n|:blue_square: S|0|||
 
@@ -111,10 +111,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 243
+	- Open: 244
 	- Draft: 27
-	- Average Age: 69 days, 16 hours, and 15.89 minutes
-	- Stop Label: 133
+	- Average Age: 69 days, 10 hours, and 25.19 minutes
+	- Stop Label: 134
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
