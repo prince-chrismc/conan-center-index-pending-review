@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **66** pull requests currently under way :detective:
+There are **67** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -87,6 +87,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17109](https://github.com/conan-io/conan-center-index/pull/17109)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-compression|M|0|||
 [#17112](https://github.com/conan-io/conan-center-index/pull/17112)|[toge](https://github.com/toge)|Apr 19|:memo: mdspan|M|0|||
 [#17113](https://github.com/conan-io/conan-center-index/pull/17113)|[calebkiage](https://github.com/calebkiage)|Apr 19|:memo: libelf|:green_circle: XS|0|||
+[#17114](https://github.com/conan-io/conan-center-index/pull/17114)|[calebkiage](https://github.com/calebkiage)|Apr 19|:stopwatch: libffi|M|4|Apr 19||
 [#17115](https://github.com/conan-io/conan-center-index/pull/17115)|[hedtke](https://github.com/hedtke)|Apr 19|:memo: coin-clp|:green_circle: XS|1|Apr 19||SpaceIm
 [#17118](https://github.com/conan-io/conan-center-index/pull/17118)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-c-sdkutils|M|0|||
 [#17119](https://github.com/conan-io/conan-center-index/pull/17119)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-checksums|M|1|Apr 19||jwillikers
@@ -114,8 +115,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 243
 	- Draft: 28
-	- Average Age: 69 days, 23 hours, and 26.47 minutes
-	- Stop Label: 131
+	- Average Age: 70 days, and 30.42 minutes
+	- Stop Label: 130
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
