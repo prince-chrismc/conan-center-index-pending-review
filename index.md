@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17128](https://github.com/conan-io/conan-center-index/pull/17128)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: libevent|:green_circle: XS|1|Apr 20||jwillikers
 [#17135](https://github.com/conan-io/conan-center-index/pull/17135)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 20|:memo: ninja|:green_circle: XS|1|Apr 20||jwillikers
 [#17137](https://github.com/conan-io/conan-center-index/pull/17137)|[danimtb](https://github.com/danimtb)|Apr 20|:gear: .c3i|:blue_square: S|2|Apr 20||SSE4, jwillikers
-[#17144](https://github.com/conan-io/conan-center-index/pull/17144)|[SpaceIm](https://github.com/SpaceIm)|Apr 20|:stopwatch: opengl|:blue_square: S|0|||
+[#17144](https://github.com/conan-io/conan-center-index/pull/17144)|[SpaceIm](https://github.com/SpaceIm)|Apr 20|:memo: opengl|:blue_square: S|0|||
 
 
 #### :clipboard: Statistics
@@ -107,7 +107,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 247
 	- Draft: 30
-	- Average Age: 69 days, 18 hours, and 29.63 minutes
+	- Average Age: 69 days, 19 hours, and 25.35 minutes
 	- Stop Label: 131
 	
 
