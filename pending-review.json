@@ -1554,5 +1554,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17135,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-04-20T09:08:13Z",
+      "Recipe": "ninja",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17135",
+      "LastCommitSHA": "3f2e940f5983bf87b1247929cf8f1d7cada15b63",
+      "LastCommitAt": "2023-04-20T09:07:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
