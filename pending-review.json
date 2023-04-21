@@ -1646,7 +1646,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17151",
       "LastCommitSHA": "9df39b4fef511b4c83c957a41411fbe31b43953b",
       "LastCommitAt": "2023-04-21T19:35:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1666,6 +1666,25 @@
       "LastCommitSHA": "a4bc3b8e1103a62354071921e15871964e7dc45b",
       "LastCommitAt": "2023-04-21T17:00:41Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17157,
+      "OpenedBy": "doocman",
+      "CreatedAt": "2023-04-21T20:22:33Z",
+      "Recipe": "isl",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17157",
+      "LastCommitSHA": "633ee7c147051853c14d228bef9dfb61aafe083a",
+      "LastCommitAt": "2023-04-21T20:31:44Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
