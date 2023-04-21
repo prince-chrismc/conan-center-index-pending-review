@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **71** pull requests currently under way :detective:
+There are **70** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -72,7 +72,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|:eyes:||
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:stopwatch: harfbuzz|:green_circle: XS|0|:eyes:||
 [#17050](https://github.com/conan-io/conan-center-index/pull/17050)|[fdefelici](https://github.com/fdefelici)|Apr 17|:memo: clove-unit|L|1|Apr 18||
-[#17060](https://github.com/conan-io/conan-center-index/pull/17060)|[maksim-petukhov](https://github.com/maksim-petukhov)|Apr 17|:memo: libmysqlclient|:green_circle: XS|0|:eyes:||
 [#17062](https://github.com/conan-io/conan-center-index/pull/17062)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: xmlsec|M|2|Apr 20||jwillikers
 [#17077](https://github.com/conan-io/conan-center-index/pull/17077)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: civetweb|:blue_square: S|1|Apr 19||jwillikers
 [#17078](https://github.com/conan-io/conan-center-index/pull/17078)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: amqp-cpp|:green_circle: XS|1|Apr 19||ericLemanissier
@@ -100,6 +99,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17148](https://github.com/conan-io/conan-center-index/pull/17148)|[toge](https://github.com/toge)|Apr 21|:memo: quill|:blue_square: S|0|||
 
 
+### :heavy_check_mark: Ready to Merge 
+
+Currently **1** pull request is waiting to be merged :tada:
+
+
+PR | By | Opened | Recipe | Reviews | :star2: Approvers
+:---: | --- | --- | --- | :---: | ---
+[#17060](https://github.com/conan-io/conan-center-index/pull/17060)|[maksim-petukhov](https://github.com/maksim-petukhov)|Apr 17|:warning: libmysqlclient|3|RubenRBS, jcar87
+
+
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
@@ -108,7 +117,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 247
 	- Draft: 31
-	- Average Age: 70 days, 3 hours, and 6.69 minutes
+	- Average Age: 70 days, 4 hours, and 10.59 minutes
 	- Stop Label: 129
 	
 
