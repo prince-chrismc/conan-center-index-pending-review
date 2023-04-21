@@ -98,26 +98,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17148](https://github.com/conan-io/conan-center-index/pull/17148)|[toge](https://github.com/toge)|Apr 21|:memo: quill|:blue_square: S|0|||
 
 
-### :heavy_check_mark: Ready to Merge 
-
-Currently **2** pull requests are waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#16632](https://github.com/conan-io/conan-center-index/pull/16632)|[gjasny](https://github.com/gjasny)|Mar 20|:new: popt|2|danimtb, SSE4
-[#17060](https://github.com/conan-io/conan-center-index/pull/17060)|[maksim-petukhov](https://github.com/maksim-petukhov)|Apr 17|:memo: libmysqlclient|3|RubenRBS, jcar87
-
-
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 246
+	- Open: 244
 	- Draft: 31
-	- Average Age: 70 days, 11 hours, and 15.13 minutes
+	- Average Age: 70 days, 22 hours, and 38.87 minutes
 	- Stop Label: 128
 	
 
