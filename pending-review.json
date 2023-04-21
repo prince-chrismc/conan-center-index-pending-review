@@ -242,11 +242,18 @@
       "LastCommitAt": "2023-03-10T17:53:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-04-21T10:59:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16375#pullrequestreview-1395554635"
+         }
       }
    },
    {
@@ -569,7 +576,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16745",
       "LastCommitSHA": "020afbd6f1bc03a04f84599eb33fc7e47092d87f",
       "LastCommitAt": "2023-04-21T09:43:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1554,6 +1561,25 @@
       "LastCommitSHA": "21545fb41e5057f455271b46b87f74ca65634fa6",
       "LastCommitAt": "2023-04-21T05:05:49Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17149,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-04-21T10:52:19Z",
+      "Recipe": "taocpp-json",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17149",
+      "LastCommitSHA": "00b7e9e9938f589feebc9dfd956d68e22e0ca9ba",
+      "LastCommitAt": "2023-04-21T10:51:50Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
