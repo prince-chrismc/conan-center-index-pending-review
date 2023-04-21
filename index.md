@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17113](https://github.com/conan-io/conan-center-index/pull/17113)|[calebkiage](https://github.com/calebkiage)|Apr 19|:memo: libelf|:green_circle: XS|0|||
 [#17114](https://github.com/conan-io/conan-center-index/pull/17114)|[calebkiage](https://github.com/calebkiage)|Apr 19|:stopwatch: libffi|M|4|Apr 19||
 [#17115](https://github.com/conan-io/conan-center-index/pull/17115)|[hedtke](https://github.com/hedtke)|Apr 19|:memo: coin-clp|:green_circle: XS|2|Apr 20||SpaceIm, jwillikers
-[#17118](https://github.com/conan-io/conan-center-index/pull/17118)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-c-sdkutils|M|0|||
+[#17118](https://github.com/conan-io/conan-center-index/pull/17118)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-c-sdkutils|M|0|||
 [#17119](https://github.com/conan-io/conan-center-index/pull/17119)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-checksums|M|1|Apr 19||jwillikers
 [#17122](https://github.com/conan-io/conan-center-index/pull/17122)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: s2n|:blue_square: S|1|Apr 19||jwillikers
 [#17128](https://github.com/conan-io/conan-center-index/pull/17128)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: libevent|:green_circle: XS|1|Apr 20||jwillikers
@@ -106,7 +106,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 244
 	- Draft: 30
-	- Average Age: 70 days, 15 hours, and 46.15 minutes
+	- Average Age: 70 days, 17 hours, and 28.85 minutes
 	- Stop Label: 129
 	
 
