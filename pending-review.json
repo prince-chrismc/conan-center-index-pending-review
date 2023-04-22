@@ -807,7 +807,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16966",
       "LastCommitSHA": "f9a1dfb0eeffe31842260b756df7a78880da6559",
       "LastCommitAt": "2023-04-22T18:48:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -1691,25 +1691,6 @@
       "LastCommitSHA": "86dc7cc33d4e56134e46ac994e60cbf7e3b31226",
       "LastCommitAt": "2023-04-22T17:43:34Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17166,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-22T19:10:38Z",
-      "Recipe": "libmediainfo",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17166",
-      "LastCommitSHA": "3da7aab7e8de5ba9e32ccd1672edba38efadee4a",
-      "LastCommitAt": "2023-04-22T19:08:49Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
