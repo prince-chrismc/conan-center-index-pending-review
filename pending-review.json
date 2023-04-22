@@ -1646,25 +1646,6 @@
       }
    },
    {
-      "Number": 17161,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-04-22T09:11:52Z",
-      "Recipe": "sqlpp11",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17161",
-      "LastCommitSHA": "a80945c3a2f3edf92a000b082e4779e2dd1624ca",
-      "LastCommitAt": "2023-04-22T09:10:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17162,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-04-22T10:55:17Z",
