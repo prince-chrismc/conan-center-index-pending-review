@@ -1696,6 +1696,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17162",
       "LastCommitSHA": "a890a6ebead61f4e21b81f5f9039d0079c49ff97",
       "LastCommitAt": "2023-04-22T10:51:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17163,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-04-22T12:14:01Z",
+      "Recipe": "date",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17163",
+      "LastCommitSHA": "e5e00e768e5f44d198657d230a976068c354d377",
+      "LastCommitAt": "2023-04-22T12:08:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
