@@ -195,17 +195,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16280",
       "LastCommitSHA": "7219d0d2046047271643cceeaaa91c4547cf82df",
       "LastCommitAt": "2023-04-21T22:48:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 5,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ZombieRaccoon"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-17T19:45:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16280#pullrequestreview-1388835707"
+            "ReviewerName": "ZombieRaccoon",
+            "SubmittedAt": "2023-04-22T01:43:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16280#pullrequestreview-1396511675"
          }
       }
    },
