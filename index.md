@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **81** pull requests currently under way :detective:
+There are **83** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -107,7 +107,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17170](https://github.com/conan-io/conan-center-index/pull/17170)|[gouarin](https://github.com/gouarin)|Apr 23|:stopwatch: samurai|M|0|||
 [#17171](https://github.com/conan-io/conan-center-index/pull/17171)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:stopwatch: librealsense|L|0|||
 [#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:stopwatch: openblas|XL|0|||
-[#17174](https://github.com/conan-io/conan-center-index/pull/17174)|[toge](https://github.com/toge)|Apr 23|:stopwatch: ada|:green_circle: XS|0|||
+[#17175](https://github.com/conan-io/conan-center-index/pull/17175)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:stopwatch: effcee|L|0|||
+[#17176](https://github.com/conan-io/conan-center-index/pull/17176)|[toge](https://github.com/toge)|Apr 23|:stopwatch: icu|:blue_square: S|0|||
+[#17177](https://github.com/conan-io/conan-center-index/pull/17177)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:stopwatch: ktx|L|0|||
 
 
 #### :clipboard: Statistics
@@ -116,9 +118,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 259
+	- Open: 261
 	- Draft: 31
-	- Average Age: 69 days, and 18.45 minutes
+	- Average Age: 68 days, 12 hours, and 31.71 minutes
 	- Stop Label: 131
 	
 
