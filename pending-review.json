@@ -1736,5 +1736,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17170,
+      "OpenedBy": "gouarin",
+      "CreatedAt": "2023-04-23T04:32:21Z",
+      "Recipe": "samurai",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17170",
+      "LastCommitSHA": "df5af838483fba89cd0007016e31933ee0df5542",
+      "LastCommitAt": "2023-04-23T04:29:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
