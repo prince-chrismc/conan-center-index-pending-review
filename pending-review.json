@@ -1750,5 +1750,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17171,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-04-23T09:22:31Z",
+      "Recipe": "librealsense",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17171",
+      "LastCommitSHA": "391560c5085781a1c27c9b3ba411f9fab29586f8",
+      "LastCommitAt": "2023-04-23T11:31:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
