@@ -67,7 +67,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16992](https://github.com/conan-io/conan-center-index/pull/16992)|[tankeco](https://github.com/tankeco)|Apr 12|:memo: fast-dds|L|4|Apr 14||
 [#17002](https://github.com/conan-io/conan-center-index/pull/17002)|[SpaceIm](https://github.com/SpaceIm)|Apr 12|:stopwatch: libpointmatcher|L|0|:eyes:||
 [#17026](https://github.com/conan-io/conan-center-index/pull/17026)|[Cogitri](https://github.com/Cogitri)|Apr 14|:memo: soci|L|2|Apr 17||
-[#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|0|||
+[#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|0|:eyes:||
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|:eyes:||
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:stopwatch: harfbuzz|:green_circle: XS|0|:eyes:||
 [#17050](https://github.com/conan-io/conan-center-index/pull/17050)|[fdefelici](https://github.com/fdefelici)|Apr 17|:memo: clove-unit|L|1|Apr 18||
@@ -108,7 +108,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17171](https://github.com/conan-io/conan-center-index/pull/17171)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:stopwatch: librealsense|L|0|||
 [#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|0|||
 [#17175](https://github.com/conan-io/conan-center-index/pull/17175)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: effcee|L|0|||
-[#17176](https://github.com/conan-io/conan-center-index/pull/17176)|[toge](https://github.com/toge)|Apr 23|:memo: icu|:blue_square: S|0|||
+[#17176](https://github.com/conan-io/conan-center-index/pull/17176)|[toge](https://github.com/toge)|Apr 23|:memo: icu|:blue_square: S|1|Apr 23||SpaceIm
 [#17177](https://github.com/conan-io/conan-center-index/pull/17177)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: ktx|L|0|||
 
 
@@ -120,7 +120,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 261
 	- Draft: 31
-	- Average Age: 68 days, 16 hours, and 32.16 minutes
+	- Average Age: 68 days, 17 hours, and 33.07 minutes
 	- Stop Label: 131
 	
 
