@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **87** pull requests currently under way :detective:
+There are **86** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16654](https://github.com/conan-io/conan-center-index/pull/16654)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|Mar 22|:new: seadex-essentials|M|30|Apr 14||
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: graphene|:blue_square: S|5|Mar 29 :bell:||
 [#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|:eyes:||
-[#16678](https://github.com/conan-io/conan-center-index/pull/16678)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 23|:stopwatch: opencv|:blue_square: S|2|Apr 2 :bell:||
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:memo: log4cxx|XL|0|:eyes:||
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
 [#16745](https://github.com/conan-io/conan-center-index/pull/16745)|[forthib](https://github.com/forthib)|Mar 28|:memo: tcl|L|0|||
@@ -124,7 +123,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 265
 	- Draft: 30
-	- Average Age: 67 days, 20 hours, and 57.77 minutes
+	- Average Age: 68 days, 2 hours, and 43.00 minutes
 	- Stop Label: 132
 	
 
