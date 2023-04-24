@@ -1882,7 +1882,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17178",
       "LastCommitSHA": "f1980aa6dcd0499d5dcdb222d578bf902938ad1f",
       "LastCommitAt": "2023-04-23T22:32:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1899,8 +1899,27 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17179",
-      "LastCommitSHA": "b6713f1a8cac375b02cd03f94aaf6a250be5a7d6",
-      "LastCommitAt": "2023-04-23T22:49:21Z",
+      "LastCommitSHA": "062297dd714f6ee6029e88dabe944e5e69e3a292",
+      "LastCommitAt": "2023-04-23T23:47:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17181,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-04-24T00:55:55Z",
+      "Recipe": "greg7mdp-gtl",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17181",
+      "LastCommitSHA": "1d21cf99ab34a562dd4f4f23efc6c9c50f249d35",
+      "LastCommitAt": "2023-04-24T00:51:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
