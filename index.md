@@ -104,7 +104,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17167](https://github.com/conan-io/conan-center-index/pull/17167)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libzen|:blue_square: S|1|Apr 23||prince-chrismc
 [#17169](https://github.com/conan-io/conan-center-index/pull/17169)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libkml|L|0|||
 [#17170](https://github.com/conan-io/conan-center-index/pull/17170)|[gouarin](https://github.com/gouarin)|Apr 23|:stopwatch: samurai|M|0|||
-[#17171](https://github.com/conan-io/conan-center-index/pull/17171)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:stopwatch: librealsense|L|0|||
+[#17171](https://github.com/conan-io/conan-center-index/pull/17171)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:stopwatch: librealsense|L|1|Apr 24||RubenRBS
 [#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|0|||
 [#17175](https://github.com/conan-io/conan-center-index/pull/17175)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: effcee|L|0|||
 [#17176](https://github.com/conan-io/conan-center-index/pull/17176)|[toge](https://github.com/toge)|Apr 23|:memo: icu|:blue_square: S|1|Apr 23||SpaceIm
@@ -122,7 +122,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 266
 	- Draft: 30
-	- Average Age: 67 days, 22 hours, and 30.89 minutes
+	- Average Age: 67 days, 23 hours, and 28.12 minutes
 	- Stop Label: 134
 	
 
