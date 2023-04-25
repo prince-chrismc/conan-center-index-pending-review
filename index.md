@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -110,17 +110,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17206](https://github.com/conan-io/conan-center-index/pull/17206)|[toge](https://github.com/toge)|Apr 25|:stopwatch: statslib|L|0|||
 [#17209](https://github.com/conan-io/conan-center-index/pull/17209)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: libcurl|:green_circle: XS|2|Apr 25||RubenRBS, Hopobcn
 [#17214](https://github.com/conan-io/conan-center-index/pull/17214)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: mongo-c-driver|:green_circle: XS|2|Apr 25||RubenRBS
-[#17215](https://github.com/conan-io/conan-center-index/pull/17215)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: nuraft|:green_circle: XS|0|||
 [#17218](https://github.com/conan-io/conan-center-index/pull/17218)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: capnproto|:green_circle: XS|1|Apr 25||RubenRBS
 [#17222](https://github.com/conan-io/conan-center-index/pull/17222)|[robomics](https://github.com/robomics)|Apr 25|:stopwatch: boost|:green_circle: XS|3|Apr 25||SpaceIm, grafikrobot, jwillikers
 [#17224](https://github.com/conan-io/conan-center-index/pull/17224)|[gummif](https://github.com/gummif)|Apr 25|:stopwatch: zeromq|:green_circle: XS|0|||
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:stopwatch: .c3i|:green_circle: XS|1|Apr 25||SSE4
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:stopwatch: aeron|:green_circle: XS|0|:eyes:||
+[#17229](https://github.com/conan-io/conan-center-index/pull/17229)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: cppbenchmark|:blue_square: S|0|||
+[#17230](https://github.com/conan-io/conan-center-index/pull/17230)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: foonathan-lexy|:blue_square: S|0|||
+[#17231](https://github.com/conan-io/conan-center-index/pull/17231)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: libsvtav1|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **14** pull requests are waiting to be merged :tada:
+Currently **11** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -132,11 +134,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17050](https://github.com/conan-io/conan-center-index/pull/17050)|[fdefelici](https://github.com/fdefelici)|Apr 17|:memo: clove-unit|5|RubenRBS, memsharded
 [#17165](https://github.com/conan-io/conan-center-index/pull/17165)|[toge](https://github.com/toge)|Apr 22|:memo: screen_capture_lite|2|prince-chrismc, SSE4
 [#17176](https://github.com/conan-io/conan-center-index/pull/17176)|[toge](https://github.com/toge)|Apr 23|:memo: icu|2|SpaceIm, memsharded
-[#17184](https://github.com/conan-io/conan-center-index/pull/17184)|[SpaceIm](https://github.com/SpaceIm)|Apr 24|:memo: sundials|2|RubenRBS, SSE4
-[#17188](https://github.com/conan-io/conan-center-index/pull/17188)|[robomics](https://github.com/robomics)|Apr 24|:memo: libcuckoo|2|RubenRBS, SSE4
 [#17203](https://github.com/conan-io/conan-center-index/pull/17203)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:warning: cppserver|2|RubenRBS, SSE4
 [#17204](https://github.com/conan-io/conan-center-index/pull/17204)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:warning: benchmark|8|RubenRBS, SSE4
-[#17220](https://github.com/conan-io/conan-center-index/pull/17220)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:memo: glog|4|Hopobcn, RubenRBS, SSE4
 [#17221](https://github.com/conan-io/conan-center-index/pull/17221)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:warning: hdf5|2|RubenRBS, SSE4
 [#17223](https://github.com/conan-io/conan-center-index/pull/17223)|[robomics](https://github.com/robomics)|Apr 25|:warning: libarchive|2|RubenRBS, jwillikers
 
@@ -147,9 +146,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 288
-	- Draft: 31
-	- Average Age: 63 days, 17 hours, and 30.93 minutes
+	- Open: 289
+	- Draft: 32
+	- Average Age: 63 days, 12 hours, and 55.12 minutes
 	- Stop Label: 135
 	
 
