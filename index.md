@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **91** pull requests currently under way :detective:
+There are **89** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|:eyes:||
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:memo: log4cxx|XL|0|:eyes:||
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
-[#16745](https://github.com/conan-io/conan-center-index/pull/16745)|[forthib](https://github.com/forthib)|Mar 28|:memo: tcl|L|1|Apr 25||memsharded
 [#16750](https://github.com/conan-io/conan-center-index/pull/16750)|[gouriano](https://github.com/gouriano)|Mar 28|:stopwatch: ncbi-cxx-toolkit-public|L|4|Apr 18||
 [#16847](https://github.com/conan-io/conan-center-index/pull/16847)|[hobbeshunter](https://github.com/hobbeshunter)|Apr 1|:stopwatch: implot|L|13|Apr 16||Hopobcn
 [#16849](https://github.com/conan-io/conan-center-index/pull/16849)|[mayeut](https://github.com/mayeut)|Apr 1|:new: onnxruntime|L|9|Apr 18||
@@ -116,27 +115,27 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17224](https://github.com/conan-io/conan-center-index/pull/17224)|[gummif](https://github.com/gummif)|Apr 25|:stopwatch: zeromq|:green_circle: XS|0|||
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:stopwatch: .c3i|:green_circle: XS|1|Apr 25||SSE4
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:stopwatch: aeron|:green_circle: XS|0|:eyes:||
-[#17229](https://github.com/conan-io/conan-center-index/pull/17229)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: cppbenchmark|:blue_square: S|1|Apr 25||prince-chrismc
-[#17230](https://github.com/conan-io/conan-center-index/pull/17230)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: foonathan-lexy|:blue_square: S|0|||
+[#17230](https://github.com/conan-io/conan-center-index/pull/17230)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:memo: foonathan-lexy|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **11** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|12|prince-chrismc, SSE4
 [#16381](https://github.com/conan-io/conan-center-index/pull/16381)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: dlpack|2|uilianries, SSE4
+[#16745](https://github.com/conan-io/conan-center-index/pull/16745)|[forthib](https://github.com/forthib)|Mar 28|:memo: tcl|2|memsharded, SSE4
 [#16889](https://github.com/conan-io/conan-center-index/pull/16889)|[MartinDelille](https://github.com/MartinDelille)|Apr 4|:warning: qt|10|ericLemanissier, jwillikers, RubenRBS
 [#16992](https://github.com/conan-io/conan-center-index/pull/16992)|[tankeco](https://github.com/tankeco)|Apr 12|:memo: fast-dds|6|RubenRBS, SSE4
 [#17050](https://github.com/conan-io/conan-center-index/pull/17050)|[fdefelici](https://github.com/fdefelici)|Apr 17|:memo: clove-unit|5|RubenRBS, memsharded
 [#17165](https://github.com/conan-io/conan-center-index/pull/17165)|[toge](https://github.com/toge)|Apr 22|:memo: screen_capture_lite|2|prince-chrismc, SSE4
-[#17176](https://github.com/conan-io/conan-center-index/pull/17176)|[toge](https://github.com/toge)|Apr 23|:memo: icu|2|SpaceIm, memsharded
 [#17203](https://github.com/conan-io/conan-center-index/pull/17203)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:warning: cppserver|3|RubenRBS, SSE4
 [#17221](https://github.com/conan-io/conan-center-index/pull/17221)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:warning: hdf5|2|RubenRBS, SSE4
 [#17223](https://github.com/conan-io/conan-center-index/pull/17223)|[robomics](https://github.com/robomics)|Apr 25|:warning: libarchive|2|RubenRBS, jwillikers
+[#17229](https://github.com/conan-io/conan-center-index/pull/17229)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:warning: cppbenchmark|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -145,9 +144,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 288
+	- Open: 287
 	- Draft: 32
-	- Average Age: 63 days, 19 hours, and 15.29 minutes
+	- Average Age: 64 days, 1 hours, and 19.65 minutes
 	- Stop Label: 136
 	
 
