@@ -23,14 +23,14 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **94** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|L|24|Feb 16 :bell:||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#14940](https://github.com/conan-io/conan-center-index/pull/14940)|[taoyouh](https://github.com/taoyouh)|Dec 26|:stopwatch: libnice|M|12|Apr 17||
-[#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:stopwatch: soplex|L|11|Apr 24||prince-chrismc
+[#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|L|11|Apr 24||prince-chrismc
 [#16095](https://github.com/conan-io/conan-center-index/pull/16095)|[Pro](https://github.com/Pro)|Feb 17|:stopwatch: cunit|L|12|Apr 19||
 [#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|L|0|:eyes:||
 [#16264](https://github.com/conan-io/conan-center-index/pull/16264)|[toge](https://github.com/toge)|Feb 24|:memo: arsenalgear|M|0|:eyes:||
@@ -69,13 +69,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17050](https://github.com/conan-io/conan-center-index/pull/17050)|[fdefelici](https://github.com/fdefelici)|Apr 17|:memo: clove-unit|L|1|Apr 18||
 [#17062](https://github.com/conan-io/conan-center-index/pull/17062)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: xmlsec|M|2|Apr 20||
 [#17065](https://github.com/conan-io/conan-center-index/pull/17065)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:stopwatch: ffmpeg|:green_circle: XS|2|Apr 21||
-[#17078](https://github.com/conan-io/conan-center-index/pull/17078)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: amqp-cpp|:green_circle: XS|1|Apr 19||
 [#17080](https://github.com/conan-io/conan-center-index/pull/17080)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: opusfile|:green_circle: XS|1|Apr 18||
 [#17085](https://github.com/conan-io/conan-center-index/pull/17085)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: libtorrent|:green_circle: XS|1|Apr 18||
 [#17087](https://github.com/conan-io/conan-center-index/pull/17087)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: qpdf|:green_circle: XS|1|Apr 18||
-[#17088](https://github.com/conan-io/conan-center-index/pull/17088)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: paho-mqtt-c|L|2|Apr 19||
 [#17090](https://github.com/conan-io/conan-center-index/pull/17090)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: mailio|M|1|Apr 18||
-[#17092](https://github.com/conan-io/conan-center-index/pull/17092)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: libzip|:green_circle: XS|1|Apr 18||
+[#17092](https://github.com/conan-io/conan-center-index/pull/17092)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: libzip|:green_circle: XS|1|Apr 18||
 [#17095](https://github.com/conan-io/conan-center-index/pull/17095)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: websocketpp|:green_circle: XS|1|Apr 19||
 [#17098](https://github.com/conan-io/conan-center-index/pull/17098)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: gsoap|M|0|||
 [#17100](https://github.com/conan-io/conan-center-index/pull/17100)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-cal|L|0|||
@@ -120,7 +118,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17199](https://github.com/conan-io/conan-center-index/pull/17199)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:green_book: docs|:blue_square: S|0|||
 [#17201](https://github.com/conan-io/conan-center-index/pull/17201)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:green_book: docs|L|0|||
 [#17203](https://github.com/conan-io/conan-center-index/pull/17203)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:stopwatch: cppserver|:blue_square: S|0|||
-[#17205](https://github.com/conan-io/conan-center-index/pull/17205)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:stopwatch: wavelet_buffer|:blue_square: S|0|||
 
 
 #### :clipboard: Statistics
@@ -131,8 +128,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 279
 	- Draft: 31
-	- Average Age: 65 days, 2 hours, and 20.90 minutes
-	- Stop Label: 135
+	- Average Age: 65 days, 4 hours, and 4.78 minutes
+	- Stop Label: 138
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
