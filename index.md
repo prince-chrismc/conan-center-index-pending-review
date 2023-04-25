@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **91** pull requests currently under way :detective:
+There are **93** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -35,6 +35,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:stopwatch: vulkan-validationlayers|L|5|Apr 18||
 [#16264](https://github.com/conan-io/conan-center-index/pull/16264)|[toge](https://github.com/toge)|Feb 24|:memo: arsenalgear|M|0|:eyes:||
 [#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:memo: rmlui|L|5|Apr 22||ZombieRaccoon
+[#16287](https://github.com/conan-io/conan-center-index/pull/16287)|[SpaceIm](https://github.com/SpaceIm)|Feb 25|:stopwatch: cfgfile|M|1|Feb 28 :bell:||
 [#16356](https://github.com/conan-io/conan-center-index/pull/16356)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:stopwatch: openmvg|XL|0|:eyes:||
 [#16375](https://github.com/conan-io/conan-center-index/pull/16375)|[kielby](https://github.com/kielby)|Mar 4|:memo: wtl|L|2|Apr 21||SpaceIm
 [#16378](https://github.com/conan-io/conan-center-index/pull/16378)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: libtiff|L|1|Apr 23||SpaceIm
@@ -114,7 +115,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:stopwatch: .c3i|:green_circle: XS|1|Apr 25||SSE4
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:stopwatch: aeron|:green_circle: XS|0|:eyes:||
 [#17230](https://github.com/conan-io/conan-center-index/pull/17230)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:memo: foonathan-lexy|:blue_square: S|0|||
-[#17232](https://github.com/conan-io/conan-center-index/pull/17232)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: hdrhistogram-c|:green_circle: XS|0|||
+[#17231](https://github.com/conan-io/conan-center-index/pull/17231)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:memo: libsvtav1|:blue_square: S|0|||
+[#17232](https://github.com/conan-io/conan-center-index/pull/17232)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:memo: hdrhistogram-c|:green_circle: XS|0|||
 [#17233](https://github.com/conan-io/conan-center-index/pull/17233)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: qarchive|:blue_square: S|0|||
 [#17234](https://github.com/conan-io/conan-center-index/pull/17234)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: qxlsx|M|0|||
 [#17235](https://github.com/conan-io/conan-center-index/pull/17235)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: quazip|:blue_square: S|0|||
@@ -122,14 +124,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16017](https://github.com/conan-io/conan-center-index/pull/16017)|[hedtke](https://github.com/hedtke)|Feb 14|:new: soplex|12|prince-chrismc, SSE4
 [#16381](https://github.com/conan-io/conan-center-index/pull/16381)|[mayeut](https://github.com/mayeut)|Mar 4|:memo: dlpack|2|uilianries, SSE4
-[#16745](https://github.com/conan-io/conan-center-index/pull/16745)|[forthib](https://github.com/forthib)|Mar 28|:memo: tcl|2|memsharded, SSE4
 [#16889](https://github.com/conan-io/conan-center-index/pull/16889)|[MartinDelille](https://github.com/MartinDelille)|Apr 4|:warning: qt|10|ericLemanissier, jwillikers, RubenRBS
 [#17221](https://github.com/conan-io/conan-center-index/pull/17221)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:warning: hdf5|2|RubenRBS, SSE4
 [#17223](https://github.com/conan-io/conan-center-index/pull/17223)|[robomics](https://github.com/robomics)|Apr 25|:warning: libarchive|2|RubenRBS, jwillikers
@@ -141,10 +142,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 286
-	- Draft: 33
-	- Average Age: 64 days, 2 hours, and 39.16 minutes
-	- Stop Label: 138
+	- Open: 275
+	- Draft: 31
+	- Average Age: 63 days, 13 hours, and 30.29 minutes
+	- Stop Label: 128
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
