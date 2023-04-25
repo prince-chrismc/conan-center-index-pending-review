@@ -117,8 +117,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17194](https://github.com/conan-io/conan-center-index/pull/17194)|[robomics](https://github.com/robomics)|Apr 24|:memo: xoshiro-cpp|L|0|||
 [#17195](https://github.com/conan-io/conan-center-index/pull/17195)|[jwillikers](https://github.com/jwillikers)|Apr 24|:memo: libffi|M|0|||
 [#17197](https://github.com/conan-io/conan-center-index/pull/17197)|[jwillikers](https://github.com/jwillikers)|Apr 24|:memo: libffi|:blue_square: S|0|||
-[#17199](https://github.com/conan-io/conan-center-index/pull/17199)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:green_book: docs|:blue_square: S|0|||
-[#17201](https://github.com/conan-io/conan-center-index/pull/17201)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:green_book: docs|L|0|||
+[#17199](https://github.com/conan-io/conan-center-index/pull/17199)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:green_book: docs|:blue_square: S|1|Apr 25||SSE4
+[#17201](https://github.com/conan-io/conan-center-index/pull/17201)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:green_book: docs|L|1|Apr 25||SSE4
 [#17203](https://github.com/conan-io/conan-center-index/pull/17203)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:stopwatch: cppserver|:blue_square: S|0|||
 
 
@@ -130,7 +130,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 279
 	- Draft: 31
-	- Average Age: 65 days, 7 hours, and 23.00 minutes
+	- Average Age: 65 days, 8 hours, and 20.43 minutes
 	- Stop Label: 136
 	
 
