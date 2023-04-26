@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **90** pull requests currently under way :detective:
+There are **92** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -117,6 +117,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17237](https://github.com/conan-io/conan-center-index/pull/17237)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: args-parser|:blue_square: S|1|Apr 26||jwillikers
 [#17243](https://github.com/conan-io/conan-center-index/pull/17243)|[gegles](https://github.com/gegles)|Apr 26|:stopwatch: libssh2|L|0|||
 [#17245](https://github.com/conan-io/conan-center-index/pull/17245)|[Cogitri](https://github.com/Cogitri)|Apr 26|:memo: soci|:green_circle: XS|0|||
+[#17248](https://github.com/conan-io/conan-center-index/pull/17248)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: caf|:green_circle: XS|0|||
+[#17249](https://github.com/conan-io/conan-center-index/pull/17249)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: minizip-ng|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -135,9 +137,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 267
+	- Open: 269
 	- Draft: 32
-	- Average Age: 65 days, 13 hours, and 23.13 minutes
+	- Average Age: 65 days, 2 hours, and 44.63 minutes
 	- Stop Label: 129
 	
 
