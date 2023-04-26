@@ -2403,24 +2403,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 17266,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2023-04-26T20:52:55Z",
-      "Recipe": "restinio",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17266",
-      "LastCommitSHA": "864ca75dbd8bdfc5aed863d41fa6dc089b79946e",
-      "LastCommitAt": "2023-04-26T20:52:14Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
