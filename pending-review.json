@@ -2080,45 +2080,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17237",
       "LastCommitSHA": "13be75e3d4c19910e4780dd4cead3a9a8e8b3bdb",
       "LastCommitAt": "2023-04-25T23:59:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17239,
-      "OpenedBy": "0xFireWolf",
-      "CreatedAt": "2023-04-26T02:32:03Z",
-      "Recipe": "nanobench",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17239",
-      "LastCommitSHA": "536ac5d1b2a7c67630e6a5e4126b90f1db008035",
-      "LastCommitAt": "2023-04-26T02:29:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17240,
-      "OpenedBy": "0xFireWolf",
-      "CreatedAt": "2023-04-26T02:43:37Z",
-      "Recipe": "rapidcsv",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17240",
-      "LastCommitSHA": "75f422cd0bef032b75bcd6107c32c4ab89fb55c6",
-      "LastCommitAt": "2023-04-26T02:43:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
