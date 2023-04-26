@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **94** pull requests currently under way :detective:
+There are **92** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -108,7 +108,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17197](https://github.com/conan-io/conan-center-index/pull/17197)|[jwillikers](https://github.com/jwillikers)|Apr 24|:memo: libffi|:blue_square: S|0|||
 [#17204](https://github.com/conan-io/conan-center-index/pull/17204)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:memo: benchmark|:blue_square: S|8|Apr 25||RubenRBS
 [#17206](https://github.com/conan-io/conan-center-index/pull/17206)|[toge](https://github.com/toge)|Apr 25|:stopwatch: statslib|L|1|Apr 25||prince-chrismc
-[#17209](https://github.com/conan-io/conan-center-index/pull/17209)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: libcurl|:green_circle: XS|2|Apr 25||RubenRBS, Hopobcn
 [#17222](https://github.com/conan-io/conan-center-index/pull/17222)|[robomics](https://github.com/robomics)|Apr 25|:stopwatch: boost|:green_circle: XS|3|Apr 25||SpaceIm, grafikrobot, jwillikers
 [#17224](https://github.com/conan-io/conan-center-index/pull/17224)|[gummif](https://github.com/gummif)|Apr 25|:stopwatch: zeromq|:green_circle: XS|0|||
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:stopwatch: .c3i|:green_circle: XS|1|Apr 25||SSE4
@@ -120,7 +119,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17234](https://github.com/conan-io/conan-center-index/pull/17234)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: qxlsx|M|0|||
 [#17235](https://github.com/conan-io/conan-center-index/pull/17235)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: quazip|:blue_square: S|0|||
 [#17237](https://github.com/conan-io/conan-center-index/pull/17237)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: args-parser|:blue_square: S|0|||
-[#17241](https://github.com/conan-io/conan-center-index/pull/17241)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:stopwatch: roaring|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -139,10 +137,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 274
+	- Open: 270
 	- Draft: 32
-	- Average Age: 63 days, 13 hours, and 10.45 minutes
-	- Stop Label: 127
+	- Average Age: 64 days, 12 hours, and 39.36 minutes
+	- Stop Label: 126
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
