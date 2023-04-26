@@ -2073,5 +2073,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17248,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-04-26T15:21:47Z",
+      "Recipe": "caf",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17248",
+      "LastCommitSHA": "976e0b9b728737a4dc811fa428ba6f6d8a77a341",
+      "LastCommitAt": "2023-04-26T15:21:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17249,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-04-26T15:30:34Z",
+      "Recipe": "minizip-ng",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17249",
+      "LastCommitSHA": "29fa3d2993f725b69801b8732ad7e35a39c8e15e",
+      "LastCommitAt": "2023-04-26T15:23:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
