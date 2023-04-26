@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **92** pull requests currently under way :detective:
+There are **94** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -95,7 +95,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17166](https://github.com/conan-io/conan-center-index/pull/17166)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libmediainfo|L|0|||
 [#17169](https://github.com/conan-io/conan-center-index/pull/17169)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libkml|L|0|:eyes:||
 [#17170](https://github.com/conan-io/conan-center-index/pull/17170)|[gouarin](https://github.com/gouarin)|Apr 23|:stopwatch: samurai|M|0|||
-[#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|0|||
+[#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|0|:eyes:||
 [#17175](https://github.com/conan-io/conan-center-index/pull/17175)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: effcee|L|1|Apr 26||jwillikers
 [#17177](https://github.com/conan-io/conan-center-index/pull/17177)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: ktx|L|1|Apr 26||jwillikers
 [#17178](https://github.com/conan-io/conan-center-index/pull/17178)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: ginkgo|L|1|Apr 26||jwillikers
@@ -117,8 +117,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17237](https://github.com/conan-io/conan-center-index/pull/17237)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: args-parser|:blue_square: S|1|Apr 26||jwillikers
 [#17243](https://github.com/conan-io/conan-center-index/pull/17243)|[gegles](https://github.com/gegles)|Apr 26|:stopwatch: libssh2|L|0|||
 [#17245](https://github.com/conan-io/conan-center-index/pull/17245)|[Cogitri](https://github.com/Cogitri)|Apr 26|:memo: soci|:green_circle: XS|0|||
-[#17248](https://github.com/conan-io/conan-center-index/pull/17248)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: caf|:green_circle: XS|0|||
 [#17249](https://github.com/conan-io/conan-center-index/pull/17249)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: minizip-ng|:green_circle: XS|0|||
+[#17251](https://github.com/conan-io/conan-center-index/pull/17251)|[MartinDelille](https://github.com/MartinDelille)|Apr 26|:stopwatch: qt|:green_circle: XS|1|Apr 26||ericLemanissier
+[#17252](https://github.com/conan-io/conan-center-index/pull/17252)|[toge](https://github.com/toge)|Apr 26|:stopwatch: g3log|:green_circle: XS|0|||
+[#17253](https://github.com/conan-io/conan-center-index/pull/17253)|[paulocoutinhox](https://github.com/paulocoutinhox)|Apr 26|:stopwatch: sqlite3|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -138,9 +140,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 270
+	- Open: 273
 	- Draft: 32
-	- Average Age: 64 days, 21 hours, and 52.66 minutes
+	- Average Age: 64 days, 5 hours, and 49.17 minutes
 	- Stop Label: 130
 	
 
