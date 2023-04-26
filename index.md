@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **89** pull requests currently under way :detective:
+There are **91** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -116,18 +116,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17234](https://github.com/conan-io/conan-center-index/pull/17234)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: qxlsx|M|0|||
 [#17235](https://github.com/conan-io/conan-center-index/pull/17235)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: quazip|:blue_square: S|1|Apr 26||MartinDelille
 [#17237](https://github.com/conan-io/conan-center-index/pull/17237)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: args-parser|:blue_square: S|0|||
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **3** pull requests are waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#16889](https://github.com/conan-io/conan-center-index/pull/16889)|[MartinDelille](https://github.com/MartinDelille)|Apr 4|:warning: qt|10|ericLemanissier, jwillikers, RubenRBS
-[#17179](https://github.com/conan-io/conan-center-index/pull/17179)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: libsrtp|3|uilianries, SSE4
-[#17194](https://github.com/conan-io/conan-center-index/pull/17194)|[robomics](https://github.com/robomics)|Apr 24|:memo: xoshiro-cpp|2|memsharded, SSE4
+[#17243](https://github.com/conan-io/conan-center-index/pull/17243)|[gegles](https://github.com/gegles)|Apr 26|:stopwatch: libssh2|L|0|||
+[#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:stopwatch: z3|L|0|||
 
 
 #### :clipboard: Statistics
@@ -136,9 +126,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 268
+	- Open: 267
 	- Draft: 32
-	- Average Age: 65 days, 1 hours, and 58.94 minutes
+	- Average Age: 65 days, 6 hours, and 34.35 minutes
 	- Stop Label: 127
 	
 
