@@ -2102,15 +2102,15 @@
       }
    },
    {
-      "Number": 17248,
+      "Number": 17249,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-26T15:21:47Z",
-      "Recipe": "caf",
+      "CreatedAt": "2023-04-26T15:30:34Z",
+      "Recipe": "minizip-ng",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17248",
-      "LastCommitSHA": "976e0b9b728737a4dc811fa428ba6f6d8a77a341",
-      "LastCommitAt": "2023-04-26T15:21:13Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17249",
+      "LastCommitSHA": "29fa3d2993f725b69801b8732ad7e35a39c8e15e",
+      "LastCommitAt": "2023-04-26T15:23:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2121,15 +2121,60 @@
       }
    },
    {
-      "Number": 17249,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-26T15:30:34Z",
-      "Recipe": "minizip-ng",
+      "Number": 17251,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-04-26T17:47:39Z",
+      "Recipe": "qt",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17249",
-      "LastCommitSHA": "29fa3d2993f725b69801b8732ad7e35a39c8e15e",
-      "LastCommitAt": "2023-04-26T15:23:04Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17251",
+      "LastCommitSHA": "d669053b03798afb24874a5a20c7c730d657d685",
+      "LastCommitAt": "2023-04-26T17:35:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-04-26T17:49:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17251#pullrequestreview-1402517209"
+         }
+      }
+   },
+   {
+      "Number": 17252,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-04-26T17:54:19Z",
+      "Recipe": "g3log",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17252",
+      "LastCommitSHA": "1fe1c6d5384bd61cebac515ed2617a36f12950e5",
+      "LastCommitAt": "2023-04-26T17:53:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17253,
+      "OpenedBy": "paulocoutinhox",
+      "CreatedAt": "2023-04-26T18:00:49Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17253",
+      "LastCommitSHA": "bd207087b5d13a8de47a47d2aeb02bc31e09184f",
+      "LastCommitAt": "2023-04-26T18:00:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
