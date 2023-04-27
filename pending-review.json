@@ -2178,7 +2178,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17257",
       "LastCommitSHA": "49662a2732ad309645f4a8871edaf9ec2ecce8e8",
       "LastCommitAt": "2023-04-26T19:29:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2330,6 +2330,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17269",
       "LastCommitSHA": "786de5914b634adf0c52465d68dd37b3bced9b61",
       "LastCommitAt": "2023-04-27T01:23:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17274,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-04-27T09:22:14Z",
+      "Recipe": "sentry-native",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17274",
+      "LastCommitSHA": "c8f103d35147a00bf949c8160f4e7a4d045fada0",
+      "LastCommitAt": "2023-04-27T09:21:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17275,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-04-27T09:30:23Z",
+      "Recipe": "spirv-tools",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17275",
+      "LastCommitSHA": "7b24ae83f52b62783106a7604d63e79e1bf9c05c",
+      "LastCommitAt": "2023-04-27T09:29:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
