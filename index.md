@@ -115,6 +115,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17235](https://github.com/conan-io/conan-center-index/pull/17235)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:stopwatch: quazip|:blue_square: S|1|Apr 26||MartinDelille
 [#17243](https://github.com/conan-io/conan-center-index/pull/17243)|[gegles](https://github.com/gegles)|Apr 26|:stopwatch: libssh2|L|0|||
 [#17245](https://github.com/conan-io/conan-center-index/pull/17245)|[Cogitri](https://github.com/Cogitri)|Apr 26|:stopwatch: soci|:green_circle: XS|0|||
+[#17250](https://github.com/conan-io/conan-center-index/pull/17250)|[jputcu](https://github.com/jputcu)|Apr 26|:memo: arduinojson|:blue_square: S|0|||
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:stopwatch: cryptopp|:green_circle: XS|0|||
 [#17256](https://github.com/conan-io/conan-center-index/pull/17256)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: trantor|:green_circle: XS|0|||
 [#17257](https://github.com/conan-io/conan-center-index/pull/17257)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: rabbitmq-c|:blue_square: S|1|Apr 27||jwillikers
@@ -131,7 +132,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|1|Apr 27||MartinDelille
 [#17275](https://github.com/conan-io/conan-center-index/pull/17275)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: spirv-tools|:blue_square: S|0|||
 [#17278](https://github.com/conan-io/conan-center-index/pull/17278)|[conan-center-bot](https://github.com/conan-center-bot)|Apr 27|:gear: .c3i|:green_circle: XS|0|||
-[#17279](https://github.com/conan-io/conan-center-index/pull/17279)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: cppserver|:green_circle: XS|0|||
 [#17280](https://github.com/conan-io/conan-center-index/pull/17280)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: zlib|:green_circle: XS|1|Apr 27||jwillikers
 [#17282](https://github.com/conan-io/conan-center-index/pull/17282)|[valgur](https://github.com/valgur)|Apr 27|:stopwatch: liblzf|L|0|||
 [#17283](https://github.com/conan-io/conan-center-index/pull/17283)|[toge](https://github.com/toge)|Apr 27|:memo: ada|:blue_square: S|0|||
@@ -158,8 +158,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 288
 	- Draft: 30
-	- Average Age: 61 days, 18 hours, and 1.50 minutes
-	- Stop Label: 131
+	- Average Age: 61 days, 19 hours, and 5.08 minutes
+	- Stop Label: 130
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
