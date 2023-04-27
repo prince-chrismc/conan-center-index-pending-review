@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **112** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -117,7 +117,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17245](https://github.com/conan-io/conan-center-index/pull/17245)|[Cogitri](https://github.com/Cogitri)|Apr 26|:stopwatch: soci|:green_circle: XS|0|||
 [#17250](https://github.com/conan-io/conan-center-index/pull/17250)|[jputcu](https://github.com/jputcu)|Apr 26|:memo: arduinojson|:blue_square: S|0|||
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:stopwatch: cryptopp|:green_circle: XS|0|||
-[#17256](https://github.com/conan-io/conan-center-index/pull/17256)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: trantor|:green_circle: XS|0|||
 [#17257](https://github.com/conan-io/conan-center-index/pull/17257)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: rabbitmq-c|:blue_square: S|1|Apr 27||jwillikers
 [#17259](https://github.com/conan-io/conan-center-index/pull/17259)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: cpp-httplib|:green_circle: XS|0|||
 [#17260](https://github.com/conan-io/conan-center-index/pull/17260)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: brynet|:green_circle: XS|1|Apr 27||jwillikers
@@ -159,9 +158,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 290
+	- Open: 289
 	- Draft: 30
-	- Average Age: 61 days, 9 hours, and 45.82 minutes
+	- Average Age: 61 days, 15 hours, and 49.64 minutes
 	- Stop Label: 129
 	
 
