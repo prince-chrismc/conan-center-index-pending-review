@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **104** pull requests currently under way :detective:
+There are **103** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -118,7 +118,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17245](https://github.com/conan-io/conan-center-index/pull/17245)|[Cogitri](https://github.com/Cogitri)|Apr 26|:memo: soci|:green_circle: XS|0|||
 [#17249](https://github.com/conan-io/conan-center-index/pull/17249)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: minizip-ng|:green_circle: XS|0|||
 [#17252](https://github.com/conan-io/conan-center-index/pull/17252)|[toge](https://github.com/toge)|Apr 26|:stopwatch: g3log|:green_circle: XS|1|Apr 26||RubenRBS
-[#17253](https://github.com/conan-io/conan-center-index/pull/17253)|[paulocoutinhox](https://github.com/paulocoutinhox)|Apr 26|:stopwatch: sqlite3|:green_circle: XS|1|Apr 26||RubenRBS
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:stopwatch: cryptopp|:green_circle: XS|0|||
 [#17255](https://github.com/conan-io/conan-center-index/pull/17255)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: oatpp-openssl|:green_circle: XS|0|||
 [#17256](https://github.com/conan-io/conan-center-index/pull/17256)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: trantor|:green_circle: XS|0|||
@@ -154,7 +153,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 283
 	- Draft: 31
-	- Average Age: 62 days, 3 hours, and 28.66 minutes
+	- Average Age: 62 days, 5 hours, and 17.40 minutes
 	- Stop Label: 129
 	
 
