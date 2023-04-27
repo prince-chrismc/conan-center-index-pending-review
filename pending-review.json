@@ -2338,24 +2338,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 17272,
-      "OpenedBy": "0xFireWolf",
-      "CreatedAt": "2023-04-27T08:11:38Z",
-      "Recipe": "elfutils",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17272",
-      "LastCommitSHA": "50021cba8038914480d7d5787fd9d5ee289c94f9",
-      "LastCommitAt": "2023-04-27T07:58:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
