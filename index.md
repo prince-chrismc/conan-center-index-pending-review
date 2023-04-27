@@ -133,7 +133,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17279](https://github.com/conan-io/conan-center-index/pull/17279)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: cppserver|:green_circle: XS|0|||
 [#17280](https://github.com/conan-io/conan-center-index/pull/17280)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: zlib|:green_circle: XS|1|Apr 27||jwillikers
 [#17282](https://github.com/conan-io/conan-center-index/pull/17282)|[valgur](https://github.com/valgur)|Apr 27|:stopwatch: liblzf|L|0|||
-[#17283](https://github.com/conan-io/conan-center-index/pull/17283)|[toge](https://github.com/toge)|Apr 27|:stopwatch: ada|:blue_square: S|0|||
+[#17283](https://github.com/conan-io/conan-center-index/pull/17283)|[toge](https://github.com/toge)|Apr 27|:memo: ada|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -155,8 +155,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 287
 	- Draft: 31
-	- Average Age: 61 days, 21 hours, and 20.93 minutes
-	- Stop Label: 130
+	- Average Age: 61 days, 22 hours, and 23.77 minutes
+	- Stop Label: 131
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
