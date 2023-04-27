@@ -818,11 +818,18 @@
       "LastCommitAt": "2023-04-26T10:09:15Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-04-27T06:18:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17046#pullrequestreview-1403270866"
+         }
       }
    },
    {
@@ -1328,35 +1335,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17141,
-      "OpenedBy": "simoncent",
-      "CreatedAt": "2023-04-20T15:10:21Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17141",
-      "LastCommitSHA": "7fa7ab07b9c15b6ae9d36e2597f074b05694f6d4",
-      "LastCommitAt": "2023-04-21T09:51:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 4,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "MartinDelille",
-            "prince-chrismc",
-            "franramirez688"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-04-27T05:58:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17141#pullrequestreview-1403246723"
-         }
       }
    },
    {
@@ -2210,25 +2188,6 @@
       }
    },
    {
-      "Number": 17258,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-26T19:32:46Z",
-      "Recipe": "hiredis",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17258",
-      "LastCommitSHA": "35533bc1ce5875c940b89ee99e993e6512365e15",
-      "LastCommitAt": "2023-04-26T19:32:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17259,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-04-26T19:37:37Z",
@@ -2276,7 +2235,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17261",
       "LastCommitSHA": "d86b2236bfde1bd35766c737f9ca17a11a532b26",
       "LastCommitAt": "2023-04-26T19:47:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
