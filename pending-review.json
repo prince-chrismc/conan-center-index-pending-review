@@ -1774,35 +1774,6 @@
       }
    },
    {
-      "Number": 17222,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2023-04-25T10:28:00Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17222",
-      "LastCommitSHA": "f40415ab47ccc758ad0692c0c7685c0d8edac795",
-      "LastCommitAt": "2023-04-25T10:39:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SpaceIm",
-            "grafikrobot",
-            "jwillikers",
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-27T21:17:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17222#pullrequestreview-1404896121"
-         }
-      }
-   },
-   {
       "Number": 17225,
       "OpenedBy": "danimtb",
       "CreatedAt": "2023-04-25T15:02:55Z",
