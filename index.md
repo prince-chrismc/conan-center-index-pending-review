@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -132,7 +132,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17090](https://github.com/conan-io/conan-center-index/pull/17090)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:warning: mailio|3|jwillikers, prince-chrismc
 [#17092](https://github.com/conan-io/conan-center-index/pull/17092)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: libzip|3|jwillikers, prince-chrismc
 [#17095](https://github.com/conan-io/conan-center-index/pull/17095)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: websocketpp|3|jwillikers, prince-chrismc
-[#17105](https://github.com/conan-io/conan-center-index/pull/17105)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-common|2|jwillikers, prince-chrismc
 [#17204](https://github.com/conan-io/conan-center-index/pull/17204)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:memo: benchmark|10|RubenRBS, jwillikers
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:gear: .c3i|3|SSE4, samuel-emrys, prince-chrismc
 [#17280](https://github.com/conan-io/conan-center-index/pull/17280)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:warning: zlib|2|jwillikers, prince-chrismc
@@ -144,9 +143,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 280
+	- Open: 279
 	- Draft: 30
-	- Average Age: 63 days, 15 hours, and 46.99 minutes
+	- Average Age: 63 days, 21 hours, and 24.38 minutes
 	- Stop Label: 132
 	
 
