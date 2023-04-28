@@ -117,7 +117,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -130,7 +130,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17080](https://github.com/conan-io/conan-center-index/pull/17080)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: opusfile|4|jwillikers, prince-chrismc
 [#17085](https://github.com/conan-io/conan-center-index/pull/17085)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:warning: libtorrent|3|jwillikers, prince-chrismc
 [#17087](https://github.com/conan-io/conan-center-index/pull/17087)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: qpdf|3|jwillikers, prince-chrismc
-[#17088](https://github.com/conan-io/conan-center-index/pull/17088)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: paho-mqtt-c|4|jwillikers, prince-chrismc
 [#17092](https://github.com/conan-io/conan-center-index/pull/17092)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: libzip|3|jwillikers, prince-chrismc
 [#17204](https://github.com/conan-io/conan-center-index/pull/17204)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:memo: benchmark|10|RubenRBS, jwillikers
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:gear: .c3i|3|SSE4, samuel-emrys, prince-chrismc
@@ -143,9 +142,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 279
+	- Open: 278
 	- Draft: 30
-	- Average Age: 63 days, 22 hours, and 47.97 minutes
+	- Average Age: 64 days, 4 hours, and 24.53 minutes
 	- Stop Label: 132
 	
 
