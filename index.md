@@ -133,7 +133,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17204](https://github.com/conan-io/conan-center-index/pull/17204)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:memo: benchmark|10|RubenRBS, jwillikers
 [#17205](https://github.com/conan-io/conan-center-index/pull/17205)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:memo: wavelet_buffer|2|jcar87, jwillikers
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:gear: .c3i|3|SSE4, samuel-emrys, prince-chrismc
-[#17280](https://github.com/conan-io/conan-center-index/pull/17280)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:warning: zlib|2|jwillikers, prince-chrismc
+[#17280](https://github.com/conan-io/conan-center-index/pull/17280)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:memo: zlib|2|jwillikers, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -144,8 +144,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 278
 	- Draft: 30
-	- Average Age: 64 days, 7 hours, and 33.13 minutes
-	- Stop Label: 131
+	- Average Age: 64 days, 9 hours, and 16.50 minutes
+	- Stop Label: 132
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
