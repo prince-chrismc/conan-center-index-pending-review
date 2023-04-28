@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **82** pull requests currently under way :detective:
+There are **83** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -109,11 +109,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17285](https://github.com/conan-io/conan-center-index/pull/17285)|[gegles](https://github.com/gegles)|Apr 27|:stopwatch: yajl|M|0|||
 [#17287](https://github.com/conan-io/conan-center-index/pull/17287)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: duckdb|:green_circle: XS|0|||
 [#17288](https://github.com/conan-io/conan-center-index/pull/17288)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: restbed|M|0|||
+[#17290](https://github.com/conan-io/conan-center-index/pull/17290)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: libtiff|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **23** pull requests are waiting to be merged :tada:
+Currently **21** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -138,8 +139,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17204](https://github.com/conan-io/conan-center-index/pull/17204)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:memo: benchmark|10|RubenRBS, jwillikers
 [#17222](https://github.com/conan-io/conan-center-index/pull/17222)|[robomics](https://github.com/robomics)|Apr 25|:memo: boost|4|SpaceIm, grafikrobot, jwillikers, prince-chrismc
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:gear: .c3i|3|SSE4, samuel-emrys, prince-chrismc
-[#17230](https://github.com/conan-io/conan-center-index/pull/17230)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:memo: foonathan-lexy|2|jwillikers, prince-chrismc
-[#17235](https://github.com/conan-io/conan-center-index/pull/17235)|[SpaceIm](https://github.com/SpaceIm)|Apr 25|:warning: quazip|2|MartinDelille, prince-chrismc
 [#17280](https://github.com/conan-io/conan-center-index/pull/17280)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:warning: zlib|2|jwillikers, prince-chrismc
 
 
@@ -149,9 +148,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 284
+	- Open: 283
 	- Draft: 30
-	- Average Age: 62 days, 15 hours, and 59.89 minutes
+	- Average Age: 62 days, 22 hours, and 41.66 minutes
 	- Stop Label: 130
 	
 
