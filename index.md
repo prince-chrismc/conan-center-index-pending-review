@@ -73,7 +73,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17155](https://github.com/conan-io/conan-center-index/pull/17155)|[toge](https://github.com/toge)|Apr 21|:memo: wasmer|M|0|:eyes:||
 [#17158](https://github.com/conan-io/conan-center-index/pull/17158)|[SpaceIm](https://github.com/SpaceIm)|Apr 21|:memo: libmad|L|0|:eyes:||
 [#17162](https://github.com/conan-io/conan-center-index/pull/17162)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: tinymidi|L|0|:eyes:||
-[#17166](https://github.com/conan-io/conan-center-index/pull/17166)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libmediainfo|L|0|||
+[#17166](https://github.com/conan-io/conan-center-index/pull/17166)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libmediainfo|L|0|:eyes:||
 [#17169](https://github.com/conan-io/conan-center-index/pull/17169)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libkml|L|0|:eyes:||
 [#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|0|:eyes:||
 [#17175](https://github.com/conan-io/conan-center-index/pull/17175)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: effcee|L|1|Apr 26||jwillikers
@@ -145,7 +145,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 279
 	- Draft: 30
-	- Average Age: 63 days, 21 hours, and 44.14 minutes
+	- Average Age: 63 days, 22 hours, and 47.97 minutes
 	- Stop Label: 132
 	
 
