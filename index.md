@@ -75,7 +75,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17162](https://github.com/conan-io/conan-center-index/pull/17162)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: tinymidi|L|0|:eyes:||
 [#17166](https://github.com/conan-io/conan-center-index/pull/17166)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libmediainfo|L|0|:eyes:||
 [#17169](https://github.com/conan-io/conan-center-index/pull/17169)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libkml|L|0|:eyes:||
-[#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|0|:eyes:||
 [#17175](https://github.com/conan-io/conan-center-index/pull/17175)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: effcee|L|1|Apr 26||jwillikers
 [#17177](https://github.com/conan-io/conan-center-index/pull/17177)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: ktx|L|1|Apr 26||jwillikers
 [#17178](https://github.com/conan-io/conan-center-index/pull/17178)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: ginkgo|L|1|Apr 26||jwillikers
@@ -113,6 +112,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17290](https://github.com/conan-io/conan-center-index/pull/17290)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: libtiff|:green_circle: XS|0|||
 [#17294](https://github.com/conan-io/conan-center-index/pull/17294)|[toge](https://github.com/toge)|Apr 28|:stopwatch: cpu_features|L|0|||
 [#17295](https://github.com/conan-io/conan-center-index/pull/17295)|[gegles](https://github.com/gegles)|Apr 28|:stopwatch: protobuf-c|L|0|||
+[#17296](https://github.com/conan-io/conan-center-index/pull/17296)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 28|:stopwatch: armadillo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -142,9 +142,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 278
+	- Open: 279
 	- Draft: 30
-	- Average Age: 64 days, 4 hours, and 24.53 minutes
+	- Average Age: 64 days, and 51.08 minutes
 	- Stop Label: 132
 	
 
