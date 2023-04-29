@@ -202,7 +202,7 @@
       "LastCommitAt": "2023-04-21T22:48:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 6,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
@@ -211,8 +211,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ZombieRaccoon",
-            "SubmittedAt": "2023-04-22T01:43:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16280#pullrequestreview-1396511675"
+            "SubmittedAt": "2023-04-29T00:59:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16280#pullrequestreview-1406744816"
          }
       }
    },
@@ -1717,25 +1717,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17299",
       "LastCommitSHA": "021a14ef4b1f769ad142c5a45be86b730dcac346",
       "LastCommitAt": "2023-04-28T15:19:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17301,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-04-28T20:45:20Z",
-      "Recipe": "glib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17301",
-      "LastCommitSHA": "d1fbe1752617b034af3eca92b2eae4ad73a94934",
-      "LastCommitAt": "2023-04-28T20:33:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
