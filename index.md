@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **68** pull requests currently under way :detective:
+There are **69** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -94,7 +94,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17309](https://github.com/conan-io/conan-center-index/pull/17309)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:memo: cryptopp|:blue_square: S|1|Apr 29||prince-chrismc
 [#17313](https://github.com/conan-io/conan-center-index/pull/17313)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Apr 29|:stopwatch: flatbuffers|:blue_square: S|0|||
 [#17314](https://github.com/conan-io/conan-center-index/pull/17314)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:memo: arduinojson|M|1|Apr 29||prince-chrismc
-[#17315](https://github.com/conan-io/conan-center-index/pull/17315)|[jwillikers](https://github.com/jwillikers)|Apr 29|:stopwatch: boost|:green_circle: XS|0|||
+[#17315](https://github.com/conan-io/conan-center-index/pull/17315)|[jwillikers](https://github.com/jwillikers)|Apr 29|:stopwatch: boost|:green_circle: XS|1|Apr 29||
+[#17316](https://github.com/conan-io/conan-center-index/pull/17316)|[Sneder89](https://github.com/Sneder89)|Apr 29|:stopwatch: cppcheck|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -121,9 +122,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 260
+	- Open: 261
 	- Draft: 29
-	- Average Age: 67 days, 20 hours, and 47.26 minutes
+	- Average Age: 67 days, 16 hours, and 30.16 minutes
 	- Stop Label: 134
 	
 
