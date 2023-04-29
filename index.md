@@ -95,19 +95,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:memo: xoshiro-cpp|M|0|||
 [#17299](https://github.com/conan-io/conan-center-index/pull/17299)|[pwqbot](https://github.com/pwqbot)|Apr 28|:stopwatch: linux-headers-generic|M|0|||
 [#17302](https://github.com/conan-io/conan-center-index/pull/17302)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 28|:stopwatch: harfbuzz|:green_circle: XS|1|Apr 28||SpaceIm
-[#17303](https://github.com/conan-io/conan-center-index/pull/17303)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 29|:memo: backward-cpp|M|0|||
+[#17303](https://github.com/conan-io/conan-center-index/pull/17303)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 29|:stopwatch: backward-cpp|M|0|||
 [#17304](https://github.com/conan-io/conan-center-index/pull/17304)|[toge](https://github.com/toge)|Apr 29|:stopwatch: simdutf|:blue_square: S|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#14329](https://github.com/conan-io/conan-center-index/pull/14329)|[KGrzeg](https://github.com/KGrzeg)|Nov 21|:new: b64|9|uilianries, DoomHammer, prince-chrismc
-[#14940](https://github.com/conan-io/conan-center-index/pull/14940)|[taoyouh](https://github.com/taoyouh)|Dec 26|:warning: libnice|14|prince-chrismc, SSE4
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|2|ericLemanissier, prince-chrismc
 [#17085](https://github.com/conan-io/conan-center-index/pull/17085)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:warning: libtorrent|3|jwillikers, prince-chrismc
 [#17092](https://github.com/conan-io/conan-center-index/pull/17092)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: libzip|3|jwillikers, prince-chrismc
@@ -122,9 +121,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 260
+	- Open: 259
 	- Draft: 30
-	- Average Age: 68 days, 8 hours, and 48.25 minutes
+	- Average Age: 68 days, 4 hours, and 23.82 minutes
 	- Stop Label: 133
 	
 
