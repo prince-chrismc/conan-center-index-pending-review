@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **68** pull requests currently under way :detective:
+There are **67** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -33,7 +33,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|L|0|:eyes:||
 [#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: vulkan-validationlayers|L|5|Apr 18||
 [#16264](https://github.com/conan-io/conan-center-index/pull/16264)|[toge](https://github.com/toge)|Feb 24|:memo: arsenalgear|M|0|:eyes:||
-[#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:memo: rmlui|L|5|Apr 22||ZombieRaccoon
+[#16280](https://github.com/conan-io/conan-center-index/pull/16280)|[n-morales](https://github.com/n-morales)|Feb 24|:memo: rmlui|L|6|Apr 29||ZombieRaccoon
 [#16356](https://github.com/conan-io/conan-center-index/pull/16356)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:stopwatch: openmvg|XL|0|:eyes:||
 [#16385](https://github.com/conan-io/conan-center-index/pull/16385)|[gjasny](https://github.com/gjasny)|Mar 4|:stopwatch: libdb|M|0|:eyes:||
 [#16500](https://github.com/conan-io/conan-center-index/pull/16500)|[achim-k](https://github.com/achim-k)|Mar 10|:stopwatch: foxglove-websocket|L|0|:eyes:||
@@ -93,7 +93,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17296](https://github.com/conan-io/conan-center-index/pull/17296)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 28|:stopwatch: armadillo|:green_circle: XS|1|Apr 28||prince-chrismc
 [#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:memo: xoshiro-cpp|M|0|||
 [#17299](https://github.com/conan-io/conan-center-index/pull/17299)|[pwqbot](https://github.com/pwqbot)|Apr 28|:stopwatch: linux-headers-generic|M|0|||
-[#17301](https://github.com/conan-io/conan-center-index/pull/17301)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 28|:stopwatch: glib|:green_circle: XS|0|||
 [#17302](https://github.com/conan-io/conan-center-index/pull/17302)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 28|:stopwatch: harfbuzz|:green_circle: XS|1|Apr 28||SpaceIm
 
 
@@ -124,7 +123,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 261
 	- Draft: 30
-	- Average Age: 68 days, 11 hours, and 54.35 minutes
+	- Average Age: 68 days, 12 hours, and 1.96 minutes
 	- Stop Label: 135
 	
 
