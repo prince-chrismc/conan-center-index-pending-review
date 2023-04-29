@@ -78,33 +78,6 @@
       }
    },
    {
-      "Number": 14940,
-      "OpenedBy": "taoyouh",
-      "CreatedAt": "2022-12-26T08:45:13Z",
-      "Recipe": "libnice",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14940",
-      "LastCommitSHA": "cede95a25c6c49b49683126f6aa600b241fb9d09",
-      "LastCommitAt": "2023-04-18T12:41:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 14,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-04-28T15:43:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14940#pullrequestreview-1406201798"
-         }
-      }
-   },
-   {
       "Number": 16095,
       "OpenedBy": "Pro",
       "CreatedAt": "2023-02-17T14:05:56Z",
@@ -1727,7 +1700,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17303",
       "LastCommitSHA": "d519631d89033f4a4112b290fa017977809f578f",
       "LastCommitAt": "2023-04-29T01:21:14Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
