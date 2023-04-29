@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **69** pull requests currently under way :detective:
+There are **70** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -78,6 +78,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17180](https://github.com/conan-io/conan-center-index/pull/17180)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: opensubdiv|L|1|Apr 26||jwillikers
 [#17202](https://github.com/conan-io/conan-center-index/pull/17202)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:memo: c-blosc2|:blue_square: S|6|Apr 27|RubenRBS|SpaceIm
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:stopwatch: aeron|:green_circle: XS|0|:eyes:||
+[#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|L|0|||
 [#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:memo: z3|L|0|||
 [#17264](https://github.com/conan-io/conan-center-index/pull/17264)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: cyclonedds|:blue_square: S|1|Apr 27||jwillikers
 [#17268](https://github.com/conan-io/conan-center-index/pull/17268)|[gegles](https://github.com/gegles)|Apr 27|:stopwatch: gegles-spdlog_setup|M|2|Apr 27||
@@ -94,8 +95,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17309](https://github.com/conan-io/conan-center-index/pull/17309)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:memo: cryptopp|:blue_square: S|1|Apr 29||prince-chrismc
 [#17313](https://github.com/conan-io/conan-center-index/pull/17313)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Apr 29|:stopwatch: flatbuffers|:blue_square: S|0|||
 [#17314](https://github.com/conan-io/conan-center-index/pull/17314)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:memo: arduinojson|M|1|Apr 29||prince-chrismc
-[#17316](https://github.com/conan-io/conan-center-index/pull/17316)|[Sneder89](https://github.com/Sneder89)|Apr 29|:stopwatch: cppcheck|:green_circle: XS|0|||
-[#17317](https://github.com/conan-io/conan-center-index/pull/17317)|[theirix](https://github.com/theirix)|Apr 29|:stopwatch: amqp-cpp|M|0|||
+[#17316](https://github.com/conan-io/conan-center-index/pull/17316)|[Sneder89](https://github.com/Sneder89)|Apr 29|:memo: cppcheck|:green_circle: XS|0|||
+[#17317](https://github.com/conan-io/conan-center-index/pull/17317)|[theirix](https://github.com/theirix)|Apr 29|:stopwatch: amqp-cpp|M|1|Apr 29||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -124,8 +125,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 262
 	- Draft: 29
-	- Average Age: 67 days, 11 hours, and 16.10 minutes
-	- Stop Label: 135
+	- Average Age: 67 days, 12 hours, and 17.01 minutes
+	- Stop Label: 134
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
