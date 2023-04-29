@@ -954,6 +954,25 @@
       }
    },
    {
+      "Number": 17170,
+      "OpenedBy": "gouarin",
+      "CreatedAt": "2023-04-23T04:32:21Z",
+      "Recipe": "samurai",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17170",
+      "LastCommitSHA": "107b3b6941f3a4189768b6852d49ccecfa3ecb50",
+      "LastCommitAt": "2023-04-29T06:41:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17175,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-04-23T16:22:58Z",
