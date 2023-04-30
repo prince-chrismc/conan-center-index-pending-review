@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **72** pull requests currently under way :detective:
+There are **73** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -93,12 +93,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17302](https://github.com/conan-io/conan-center-index/pull/17302)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 28|:stopwatch: harfbuzz|:green_circle: XS|1|Apr 28||SpaceIm
 [#17303](https://github.com/conan-io/conan-center-index/pull/17303)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 29|:memo: backward-cpp|M|0|||
 [#17306](https://github.com/conan-io/conan-center-index/pull/17306)|[jwillikers](https://github.com/jwillikers)|Apr 29|:memo: libffi|:green_circle: XS|1|Apr 29||ericLemanissier
-[#17307](https://github.com/conan-io/conan-center-index/pull/17307)|[mayeut](https://github.com/mayeut)|Apr 29|:memo: cmake|:blue_square: S|0|||
 [#17309](https://github.com/conan-io/conan-center-index/pull/17309)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:memo: cryptopp|:blue_square: S|1|Apr 29||prince-chrismc
 [#17313](https://github.com/conan-io/conan-center-index/pull/17313)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Apr 29|:stopwatch: flatbuffers|:blue_square: S|0|||
 [#17314](https://github.com/conan-io/conan-center-index/pull/17314)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:memo: arduinojson|M|1|Apr 29||prince-chrismc
-[#17316](https://github.com/conan-io/conan-center-index/pull/17316)|[Sneder89](https://github.com/Sneder89)|Apr 29|:memo: cppcheck|:green_circle: XS|0|||
+[#17316](https://github.com/conan-io/conan-center-index/pull/17316)|[Sneder89](https://github.com/Sneder89)|Apr 29|:memo: cppcheck|:green_circle: XS|1|Apr 30||prince-chrismc
 [#17318](https://github.com/conan-io/conan-center-index/pull/17318)|[SpaceIm](https://github.com/SpaceIm)|Apr 30|:memo: tensorflow-lite|M|1|Apr 30||prince-chrismc
+[#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:stopwatch: armadillo|L|0|||
+[#17322](https://github.com/conan-io/conan-center-index/pull/17322)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 30|:stopwatch: restinio|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -111,10 +112,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|2|ericLemanissier, prince-chrismc
 [#17085](https://github.com/conan-io/conan-center-index/pull/17085)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:warning: libtorrent|3|jwillikers, prince-chrismc
 [#17092](https://github.com/conan-io/conan-center-index/pull/17092)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: libzip|3|jwillikers, prince-chrismc
-[#17204](https://github.com/conan-io/conan-center-index/pull/17204)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:warning: benchmark|10|RubenRBS, jwillikers
+[#17204](https://github.com/conan-io/conan-center-index/pull/17204)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 24|:memo: benchmark|10|RubenRBS, jwillikers
 [#17225](https://github.com/conan-io/conan-center-index/pull/17225)|[danimtb](https://github.com/danimtb)|Apr 25|:gear: .c3i|3|SSE4, samuel-emrys, prince-chrismc
-[#17245](https://github.com/conan-io/conan-center-index/pull/17245)|[Cogitri](https://github.com/Cogitri)|Apr 26|:warning: soci|2|prince-chrismc, SSE4
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|2|prince-chrismc, SSE4
+[#17307](https://github.com/conan-io/conan-center-index/pull/17307)|[mayeut](https://github.com/mayeut)|Apr 29|:memo: cmake|2|samuel-emrys, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -123,10 +124,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 261
-	- Draft: 29
-	- Average Age: 68 days, and 33.96 minutes
-	- Stop Label: 134
+	- Open: 262
+	- Draft: 30
+	- Average Age: 67 days, 19 hours, and 3.28 minutes
+	- Stop Label: 133
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
