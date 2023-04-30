@@ -98,7 +98,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17313](https://github.com/conan-io/conan-center-index/pull/17313)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Apr 29|:stopwatch: flatbuffers|:blue_square: S|0|||
 [#17314](https://github.com/conan-io/conan-center-index/pull/17314)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:memo: arduinojson|M|1|Apr 29||prince-chrismc
 [#17316](https://github.com/conan-io/conan-center-index/pull/17316)|[Sneder89](https://github.com/Sneder89)|Apr 29|:memo: cppcheck|:green_circle: XS|0|||
-[#17318](https://github.com/conan-io/conan-center-index/pull/17318)|[SpaceIm](https://github.com/SpaceIm)|Apr 30|:stopwatch: tensorflow-lite|M|0|||
+[#17318](https://github.com/conan-io/conan-center-index/pull/17318)|[SpaceIm](https://github.com/SpaceIm)|Apr 30|:memo: tensorflow-lite|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -125,7 +125,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 261
 	- Draft: 29
-	- Average Age: 67 days, 22 hours, and 35.17 minutes
+	- Average Age: 67 days, 23 hours, and 37.23 minutes
 	- Stop Label: 134
 	
 
