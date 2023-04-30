@@ -1666,15 +1666,17 @@
       "LastCommitAt": "2023-04-29T21:18:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "grafikrobot"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "grafikrobot",
-            "SubmittedAt": "2023-04-29T19:30:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17315#pullrequestreview-1407018987"
+            "SubmittedAt": "2023-04-30T13:44:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17315#pullrequestreview-1407115763"
          }
       }
    },
@@ -1701,33 +1703,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2023-04-30T09:39:38Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17317#pullrequestreview-1407083198"
-         }
-      }
-   },
-   {
-      "Number": 17318,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-30T00:47:54Z",
-      "Recipe": "tensorflow-lite",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17318",
-      "LastCommitSHA": "1a66e14cb2e8a7cf6e8f231cb88b14f2d5e5af7a",
-      "LastCommitAt": "2023-04-30T00:45:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-04-30T13:02:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17318#pullrequestreview-1407110021"
          }
       }
    },
