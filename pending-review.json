@@ -629,6 +629,25 @@
       }
    },
    {
+      "Number": 17051,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-04-17T13:08:23Z",
+      "Recipe": "doxygen",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17051",
+      "LastCommitSHA": "d0b17626b86fa44d8dd69af23ca391aa9078cda2",
+      "LastCommitAt": "2023-04-30T13:41:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17061,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-04-17T21:07:25Z",
@@ -1806,7 +1825,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17326",
       "LastCommitSHA": "94e9f918a529f26db77ee751a4dbcda17ff36153",
       "LastCommitAt": "2023-04-30T14:44:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
