@@ -1653,6 +1653,32 @@
       }
    },
    {
+      "Number": 17317,
+      "OpenedBy": "theirix",
+      "CreatedAt": "2023-04-29T20:35:31Z",
+      "Recipe": "amqp-cpp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17317",
+      "LastCommitSHA": "8d7831503274e7282fc8e9b41bea2f8b8f7cfe52",
+      "LastCommitAt": "2023-04-30T07:26:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "SpaceIm"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-04-30T09:39:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17317#pullrequestreview-1407083198"
+         }
+      }
+   },
+   {
       "Number": 17318,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-04-30T00:47:54Z",
@@ -1664,7 +1690,7 @@
       "LastCommitAt": "2023-04-30T00:45:19Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -1672,9 +1698,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-30T04:44:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17318#pullrequestreview-1407052227"
+            "ReviewerName": "ilya-lavrenov",
+            "SubmittedAt": "2023-04-30T09:36:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17318#pullrequestreview-1407082841"
          }
       }
    },
