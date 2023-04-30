@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **80** pull requests currently under way :detective:
+There are **79** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -101,7 +101,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17313](https://github.com/conan-io/conan-center-index/pull/17313)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Apr 29|:stopwatch: flatbuffers|:blue_square: S|0|||
 [#17314](https://github.com/conan-io/conan-center-index/pull/17314)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:memo: arduinojson|M|1|Apr 29||prince-chrismc
 [#17315](https://github.com/conan-io/conan-center-index/pull/17315)|[jwillikers](https://github.com/jwillikers)|Apr 29|:memo: boost|:green_circle: XS|2|Apr 30||grafikrobot
-[#17317](https://github.com/conan-io/conan-center-index/pull/17317)|[theirix](https://github.com/theirix)|Apr 29|:memo: amqp-cpp|M|2|Apr 30||SpaceIm
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:stopwatch: armadillo|L|0|||
 [#17321](https://github.com/conan-io/conan-center-index/pull/17321)|[bobrofon](https://github.com/bobrofon)|Apr 30|:memo: libsystemd|L|1|Apr 30||prince-chrismc
 [#17322](https://github.com/conan-io/conan-center-index/pull/17322)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 30|:memo: restinio|:green_circle: XS|1|Apr 30||jwillikers
@@ -129,9 +128,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 262
+	- Open: 261
 	- Draft: 29
-	- Average Age: 68 days, 10 hours, and 13.42 minutes
+	- Average Age: 68 days, 17 hours, and 25.51 minutes
 	- Stop Label: 128
 	
 
