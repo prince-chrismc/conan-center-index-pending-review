@@ -1815,8 +1815,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17332",
-      "LastCommitSHA": "d62b69faaf59b46f89d8792af217413625180c1b",
-      "LastCommitAt": "2023-05-01T10:05:20Z",
+      "LastCommitSHA": "11e2babec13b0e57d7b95fed59d59c5ece106b88",
+      "LastCommitAt": "2023-05-01T10:26:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1837,6 +1837,25 @@
       "LastCommitSHA": "9890e878ce70983db3857cadf106563e9fcdf112",
       "LastCommitAt": "2023-05-01T10:11:23Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17334,
+      "OpenedBy": "bobrofon",
+      "CreatedAt": "2023-05-01T10:29:12Z",
+      "Recipe": "sdbus-cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17334",
+      "LastCommitSHA": "ec4d92eda74f0c21b19b4d7818fdf20caa269a67",
+      "LastCommitAt": "2023-05-01T10:22:27Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
