@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **85** pull requests currently under way :detective:
+There are **84** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -38,7 +38,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16356](https://github.com/conan-io/conan-center-index/pull/16356)|[SpaceIm](https://github.com/SpaceIm)|Mar 3|:stopwatch: openmvg|XL|2|May 1||SSE4, jwillikers
 [#16385](https://github.com/conan-io/conan-center-index/pull/16385)|[gjasny](https://github.com/gjasny)|Mar 4|:stopwatch: libdb|M|0|:eyes:||
 [#16500](https://github.com/conan-io/conan-center-index/pull/16500)|[achim-k](https://github.com/achim-k)|Mar 10|:stopwatch: foxglove-websocket|L|0|:eyes:||
-[#16612](https://github.com/conan-io/conan-center-index/pull/16612)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite|L|0|:eyes:||
+[#16612](https://github.com/conan-io/conan-center-index/pull/16612)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite|L|1|May 1||jwillikers
 [#16613](https://github.com/conan-io/conan-center-index/pull/16613)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite2|L|0|:eyes:||
 [#16654](https://github.com/conan-io/conan-center-index/pull/16654)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|Mar 22|:new: seadex-essentials|M|34|Apr 28||
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: graphene|:blue_square: S|5|Mar 29 :bell:||
@@ -53,7 +53,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|0|:eyes:||
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|:eyes:||
 [#17051](https://github.com/conan-io/conan-center-index/pull/17051)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 17|:memo: doxygen|:blue_square: S|0|||
-[#17061](https://github.com/conan-io/conan-center-index/pull/17061)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: libmysqlclient|:blue_square: S|1|Apr 25|RubenRBS|
+[#17061](https://github.com/conan-io/conan-center-index/pull/17061)|[SpaceIm](https://github.com/SpaceIm)|Apr 17|:memo: libmysqlclient|:blue_square: S|2|May 1|RubenRBS|jwillikers
 [#17077](https://github.com/conan-io/conan-center-index/pull/17077)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: civetweb|:blue_square: S|4|Apr 25|jcar87|jwillikers
 [#17096](https://github.com/conan-io/conan-center-index/pull/17096)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: cpprestsdk|M|0|:eyes:||
 [#17100](https://github.com/conan-io/conan-center-index/pull/17100)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-cal|L|0|:eyes:||
@@ -85,13 +85,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17268](https://github.com/conan-io/conan-center-index/pull/17268)|[gegles](https://github.com/gegles)|Apr 27|:stopwatch: gegles-spdlog_setup|M|2|Apr 27||
 [#17271](https://github.com/conan-io/conan-center-index/pull/17271)|[toge](https://github.com/toge)|Apr 27|:memo: mimalloc|L|0|||
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|0|||
-[#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|2|Apr 29||MartinDelille
-[#17275](https://github.com/conan-io/conan-center-index/pull/17275)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:memo: spirv-tools|:blue_square: S|0|:eyes:||
+[#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1||MartinDelille, jwillikers
+[#17275](https://github.com/conan-io/conan-center-index/pull/17275)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:memo: spirv-tools|:blue_square: S|1|May 1||jwillikers
 [#17282](https://github.com/conan-io/conan-center-index/pull/17282)|[valgur](https://github.com/valgur)|Apr 27|:new: liblzf|L|0|||
 [#17285](https://github.com/conan-io/conan-center-index/pull/17285)|[gegles](https://github.com/gegles)|Apr 27|:new: yajl|M|0|||
 [#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:memo: xoshiro-cpp|M|1|May 1||jwillikers
-[#17299](https://github.com/conan-io/conan-center-index/pull/17299)|[pwqbot](https://github.com/pwqbot)|Apr 28|:stopwatch: linux-headers-generic|M|0|||
-[#17302](https://github.com/conan-io/conan-center-index/pull/17302)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 28|:stopwatch: harfbuzz|:green_circle: XS|1|Apr 28||SpaceIm
+[#17299](https://github.com/conan-io/conan-center-index/pull/17299)|[pwqbot](https://github.com/pwqbot)|Apr 28|:stopwatch: linux-headers-generic|M|0|:eyes:||
+[#17302](https://github.com/conan-io/conan-center-index/pull/17302)|[ericLemanissier](https://github.com/ericLemanissier)|Apr 28|:stopwatch: harfbuzz|:green_circle: XS|2|May 1||SpaceIm, jwillikers
 [#17303](https://github.com/conan-io/conan-center-index/pull/17303)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 29|:memo: backward-cpp|M|0|||
 [#17304](https://github.com/conan-io/conan-center-index/pull/17304)|[toge](https://github.com/toge)|Apr 29|:memo: simdutf|:blue_square: S|1|Apr 30||jwillikers
 [#17306](https://github.com/conan-io/conan-center-index/pull/17306)|[jwillikers](https://github.com/jwillikers)|Apr 29|:memo: libffi|:green_circle: XS|1|Apr 29||ericLemanissier
@@ -109,9 +109,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17333](https://github.com/conan-io/conan-center-index/pull/17333)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|May 1|:stopwatch: ittapi|:green_circle: XS|0|||
 [#17334](https://github.com/conan-io/conan-center-index/pull/17334)|[bobrofon](https://github.com/bobrofon)|May 1|:memo: sdbus-cpp|:green_circle: XS|1|May 1||jwillikers
 [#17335](https://github.com/conan-io/conan-center-index/pull/17335)|[conan-center-bot](https://github.com/conan-center-bot)|May 1|:gear: .c3i|:green_circle: XS|2|May 1||ilya-lavrenov, SSE4
-[#17336](https://github.com/conan-io/conan-center-index/pull/17336)|[toge](https://github.com/toge)|May 1|:memo: visit_struct|L|0|||
-[#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:stopwatch: coin-lemon|L|0|||
-[#17339](https://github.com/conan-io/conan-center-index/pull/17339)|[toge](https://github.com/toge)|May 1|:stopwatch: replxx|L|0|||
+[#17336](https://github.com/conan-io/conan-center-index/pull/17336)|[toge](https://github.com/toge)|May 1|:memo: visit_struct|L|1|May 1||jwillikers
+[#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|1|May 1||jwillikers
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -136,8 +135,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 264
 	- Draft: 28
-	- Average Age: 68 days, 8 hours, and 39.74 minutes
-	- Stop Label: 129
+	- Average Age: 68 days, 9 hours, and 43.11 minutes
+	- Stop Label: 130
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
