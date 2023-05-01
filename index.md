@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **80** pull requests currently under way :detective:
+There are **81** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -107,6 +107,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17329](https://github.com/conan-io/conan-center-index/pull/17329)|[toge](https://github.com/toge)|May 1|:memo: lua|:blue_square: S|0|||
 [#17332](https://github.com/conan-io/conan-center-index/pull/17332)|[SpaceIm](https://github.com/SpaceIm)|May 1|:stopwatch: xqilla|L|0|||
 [#17333](https://github.com/conan-io/conan-center-index/pull/17333)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|May 1|:stopwatch: ittapi|:green_circle: XS|0|||
+[#17334](https://github.com/conan-io/conan-center-index/pull/17334)|[bobrofon](https://github.com/bobrofon)|May 1|:memo: sdbus-cpp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -129,9 +130,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4c0cb97e460f09f7841e8ec6d7d70338cc1888df
 - Pull Requests:
-	- Open: 259
+	- Open: 260
 	- Draft: 29
-	- Average Age: 69 days, 11 hours, and 18.53 minutes
+	- Average Age: 69 days, 5 hours, and 50.70 minutes
 	- Stop Label: 125
 	
 
