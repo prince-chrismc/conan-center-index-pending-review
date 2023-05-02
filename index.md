@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **84** pull requests currently under way :detective:
+There are **86** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -71,7 +71,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17162](https://github.com/conan-io/conan-center-index/pull/17162)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: tinymidi|L|1|May 1||jwillikers
 [#17166](https://github.com/conan-io/conan-center-index/pull/17166)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libmediainfo|L|1|May 1||jwillikers
 [#17169](https://github.com/conan-io/conan-center-index/pull/17169)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libkml|L|1|May 1||jwillikers
-[#17170](https://github.com/conan-io/conan-center-index/pull/17170)|[gouarin](https://github.com/gouarin)|Apr 23|:new: samurai|M|0|||
+[#17170](https://github.com/conan-io/conan-center-index/pull/17170)|[gouarin](https://github.com/gouarin)|Apr 23|:new: samurai|M|0|:eyes:||
 [#17175](https://github.com/conan-io/conan-center-index/pull/17175)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: effcee|L|1|Apr 26||jwillikers
 [#17177](https://github.com/conan-io/conan-center-index/pull/17177)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: ktx|L|1|Apr 26||jwillikers
 [#17178](https://github.com/conan-io/conan-center-index/pull/17178)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: ginkgo|L|1|Apr 26||jwillikers
@@ -111,6 +111,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17350](https://github.com/conan-io/conan-center-index/pull/17350)|[jwillikers](https://github.com/jwillikers)|May 1|:memo: libuuid|:green_circle: XS|1|May 1||prince-chrismc
 [#17355](https://github.com/conan-io/conan-center-index/pull/17355)|[jwillikers](https://github.com/jwillikers)|May 1|:stopwatch: avahi|:green_circle: XS|0|||
 [#17358](https://github.com/conan-io/conan-center-index/pull/17358)|[j-carl](https://github.com/j-carl)|May 1|:stopwatch: fmt|:green_circle: XS|1|May 2||jwillikers
+[#17362](https://github.com/conan-io/conan-center-index/pull/17362)|[ericLemanissier](https://github.com/ericLemanissier)|May 2|:stopwatch: glib|:green_circle: XS|0|:eyes:||
+[#17363](https://github.com/conan-io/conan-center-index/pull/17363)|[the-nic](https://github.com/the-nic)|May 2|:stopwatch: libxml2|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -133,9 +135,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 268
+	- Open: 270
 	- Draft: 28
-	- Average Age: 67 days, 11 hours, and 16.32 minutes
+	- Average Age: 67 days, and 11.44 minutes
 	- Stop Label: 134
 	
 
