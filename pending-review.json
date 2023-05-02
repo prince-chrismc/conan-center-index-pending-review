@@ -1557,25 +1557,6 @@
       }
    },
    {
-      "Number": 17299,
-      "OpenedBy": "pwqbot",
-      "CreatedAt": "2023-04-28T15:15:23Z",
-      "Recipe": "linux-headers-generic",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17299",
-      "LastCommitSHA": "021a14ef4b1f769ad142c5a45be86b730dcac346",
-      "LastCommitAt": "2023-04-28T15:19:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17302,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-04-28T20:57:27Z",
