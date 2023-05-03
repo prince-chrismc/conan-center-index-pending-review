@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **91** pull requests currently under way :detective:
+There are **92** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -109,6 +109,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17350](https://github.com/conan-io/conan-center-index/pull/17350)|[jwillikers](https://github.com/jwillikers)|May 1|:memo: libuuid|:green_circle: XS|1|May 1||prince-chrismc
 [#17355](https://github.com/conan-io/conan-center-index/pull/17355)|[jwillikers](https://github.com/jwillikers)|May 1|:stopwatch: avahi|:green_circle: XS|0|||
 [#17358](https://github.com/conan-io/conan-center-index/pull/17358)|[j-carl](https://github.com/j-carl)|May 1|:stopwatch: fmt|:green_circle: XS|1|May 2||jwillikers
+[#17363](https://github.com/conan-io/conan-center-index/pull/17363)|[the-nic](https://github.com/the-nic)|May 2|:stopwatch: libxml2|:blue_square: S|0|||
 [#17365](https://github.com/conan-io/conan-center-index/pull/17365)|[SpaceIm](https://github.com/SpaceIm)|May 2|:memo: norm|:blue_square: S|1|May 2||jwillikers
 [#17366](https://github.com/conan-io/conan-center-index/pull/17366)|[SpaceIm](https://github.com/SpaceIm)|May 2|:stopwatch: octomap|L|0|||
 [#17367](https://github.com/conan-io/conan-center-index/pull/17367)|[Corallo](https://github.com/Corallo)|May 2|:stopwatch: opencv|:green_circle: XS|0|||
@@ -147,8 +148,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 278
 	- Draft: 31
-	- Average Age: 65 days, 19 hours, and 38.00 minutes
-	- Stop Label: 129
+	- Average Age: 65 days, 20 hours, and 34.36 minutes
+	- Stop Label: 128
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
