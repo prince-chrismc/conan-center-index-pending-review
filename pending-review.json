@@ -2471,5 +2471,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17379,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-05-03T15:07:28Z",
+      "Recipe": "zpp_bits",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17379",
+      "LastCommitSHA": "38f3839dc01917d7bd5e16d660d0d4ba9ac1d730",
+      "LastCommitAt": "2023-05-03T15:06:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
