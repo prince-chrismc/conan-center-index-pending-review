@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **97** pull requests currently under way :detective:
+There are **96** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -121,7 +121,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17374](https://github.com/conan-io/conan-center-index/pull/17374)|[prince-chrismc](https://github.com/prince-chrismc)|May 2|:stopwatch: docs|:blue_square: S|0|||
 [#17376](https://github.com/conan-io/conan-center-index/pull/17376)|[fpelliccioni](https://github.com/fpelliccioni)|May 2|:stopwatch: boost|:green_circle: XS|0|||
 [#17377](https://github.com/conan-io/conan-center-index/pull/17377)|[prince-chrismc](https://github.com/prince-chrismc)|May 2|:stopwatch: docs|:blue_square: S|1|May 3||MartinDelille
-[#17378](https://github.com/conan-io/conan-center-index/pull/17378)|[conan-center-bot](https://github.com/conan-center-bot)|May 2|:stopwatch: docs|:blue_square: S|0|||
 [#17379](https://github.com/conan-io/conan-center-index/pull/17379)|[toge](https://github.com/toge)|May 3|:stopwatch: zpp_bits|:blue_square: S|0|||
 [#17383](https://github.com/conan-io/conan-center-index/pull/17383)|[System-Arch](https://github.com/System-Arch)|May 4|:stopwatch: cmake|:green_circle: XS|1|May 4||prince-chrismc
 
@@ -153,9 +152,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 279
+	- Open: 278
 	- Draft: 32
-	- Average Age: 66 days, 8 hours, and 24.32 minutes
+	- Average Age: 66 days, 14 hours, and 56.97 minutes
 	- Stop Label: 122
 	
 
