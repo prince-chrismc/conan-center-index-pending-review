@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **101** pull requests currently under way :detective:
+There are **100** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -127,12 +127,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17383](https://github.com/conan-io/conan-center-index/pull/17383)|[System-Arch](https://github.com/System-Arch)|May 4|:stopwatch: cmake|:green_circle: XS|1|May 4||prince-chrismc
 [#17387](https://github.com/conan-io/conan-center-index/pull/17387)|[SpaceIm](https://github.com/SpaceIm)|May 4|:memo: paho-mqtt-cpp|M|1|May 4||jwillikers
 [#17388](https://github.com/conan-io/conan-center-index/pull/17388)|[conan-center-bot](https://github.com/conan-center-bot)|May 4|:stopwatch: .c3i|:green_circle: XS|1|May 4||SSE4
-[#17391](https://github.com/conan-io/conan-center-index/pull/17391)|[uilianries](https://github.com/uilianries)|May 4|:stopwatch: docs|:blue_square: S|1|May 4||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -148,6 +147,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|3|prince-chrismc, SSE4
 [#17306](https://github.com/conan-io/conan-center-index/pull/17306)|[jwillikers](https://github.com/jwillikers)|Apr 29|:warning: libffi|2|ericLemanissier, prince-chrismc
 [#17365](https://github.com/conan-io/conan-center-index/pull/17365)|[SpaceIm](https://github.com/SpaceIm)|May 2|:warning: norm|2|jwillikers, prince-chrismc
+[#17391](https://github.com/conan-io/conan-center-index/pull/17391)|[uilianries](https://github.com/uilianries)|May 4|:green_book: docs|2|RubenRBS, SSE4
 
 
 #### :clipboard: Statistics
@@ -158,7 +158,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 281
 	- Draft: 33
-	- Average Age: 66 days, 6 hours, and 17.80 minutes
+	- Average Age: 66 days, 7 hours, and 3.12 minutes
 	- Stop Label: 122
 	
 
