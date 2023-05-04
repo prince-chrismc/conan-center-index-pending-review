@@ -2188,18 +2188,20 @@
       "LastCommitAt": "2023-05-01T14:53:02Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             "jwillikers",
             "prince-chrismc"
          ],
-         "Blockers": null,
+         "Blockers": [
+            "jcar87"
+         ],
          "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-05-02T20:24:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17338#pullrequestreview-1409836680"
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-05-04T15:27:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17338#pullrequestreview-1413390290"
          }
       }
    },
@@ -2607,11 +2609,18 @@
       "LastCommitAt": "2023-05-04T15:07:09Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-05-04T15:34:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17391#pullrequestreview-1413403041"
+         }
       }
    }
 ]
