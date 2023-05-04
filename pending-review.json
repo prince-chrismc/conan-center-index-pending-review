@@ -2609,17 +2609,18 @@
       "LastCommitAt": "2023-05-04T15:07:09Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "RubenRBS"
+            "RubenRBS",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-04T15:34:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17391#pullrequestreview-1413403041"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-05-04T16:29:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17391#pullrequestreview-1413476178"
          }
       }
    }
