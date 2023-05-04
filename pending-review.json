@@ -2134,19 +2134,21 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17334",
-      "LastCommitSHA": "cbc4f23038548e2cbb2e752dd85d69f9f00587e6",
-      "LastCommitAt": "2023-05-03T08:32:10Z",
+      "LastCommitSHA": "3402b2b34cd2880485b5a238c6dd19cde8799ce2",
+      "LastCommitAt": "2023-05-04T18:22:51Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-01T13:39:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17334#pullrequestreview-1407606430"
+            "SubmittedAt": "2023-05-04T18:57:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17334#pullrequestreview-1413735507"
          }
       }
    },
@@ -2296,8 +2298,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17358",
-      "LastCommitSHA": "cae765c2cfc6ca1421cdc75ba676e301fac01b8a",
-      "LastCommitAt": "2023-05-01T22:16:37Z",
+      "LastCommitSHA": "0aa0a8217ac042f5f70d0dbc32549db9a4a296d1",
+      "LastCommitAt": "2023-05-04T19:09:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -2557,7 +2559,7 @@
       "LastCommitAt": "2023-05-04T11:09:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -2565,9 +2567,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-04T14:43:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17387#pullrequestreview-1413297180"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-05-04T19:00:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17387#pullrequestreview-1413739327"
          }
       }
    },
