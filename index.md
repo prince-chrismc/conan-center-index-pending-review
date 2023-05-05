@@ -162,12 +162,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16131](https://github.com/conan-io/conan-center-index/pull/16131)|[SpaceIm](https://github.com/SpaceIm)|Feb 18|:memo: vulkan-validationlayers|7|jwillikers, prince-chrismc
 [#16654](https://github.com/conan-io/conan-center-index/pull/16654)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|Mar 22|:warning: seadex-essentials|36|jwillikers, prince-chrismc
 [#16678](https://github.com/conan-io/conan-center-index/pull/16678)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 23|:warning: opencv|6|RubenRBS, MartinDelille
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|3|ericLemanissier, prince-chrismc
@@ -185,9 +184,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 286
+	- Open: 285
 	- Draft: 33
-	- Average Age: 65 days, 21 hours, and 34.67 minutes
+	- Average Age: 65 days, 21 hours, and 43.80 minutes
 	- Stop Label: 98
 	
 
