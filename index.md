@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **127** pull requests currently under way :detective:
+There are **125** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -134,14 +134,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17334](https://github.com/conan-io/conan-center-index/pull/17334)|[bobrofon](https://github.com/bobrofon)|May 1|:stopwatch: sdbus-cpp|:green_circle: XS|2|May 4||jwillikers
 [#17336](https://github.com/conan-io/conan-center-index/pull/17336)|[toge](https://github.com/toge)|May 1|:stopwatch: visit_struct|L|1|May 1||jwillikers
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:stopwatch: coin-lemon|L|3|May 4|jcar87|jwillikers, prince-chrismc
-[#17339](https://github.com/conan-io/conan-center-index/pull/17339)|[toge](https://github.com/toge)|May 1|:stopwatch: replxx|L|0|:eyes:||
 [#17346](https://github.com/conan-io/conan-center-index/pull/17346)|[valgur](https://github.com/valgur)|May 1|:stopwatch: console_bridge|L|0|:eyes:||
 [#17350](https://github.com/conan-io/conan-center-index/pull/17350)|[jwillikers](https://github.com/jwillikers)|May 1|:memo: libuuid|:green_circle: XS|1|May 1||prince-chrismc
 [#17355](https://github.com/conan-io/conan-center-index/pull/17355)|[jwillikers](https://github.com/jwillikers)|May 1|:stopwatch: avahi|:green_circle: XS|0|:eyes:||
 [#17358](https://github.com/conan-io/conan-center-index/pull/17358)|[j-carl](https://github.com/j-carl)|May 1|:stopwatch: fmt|:green_circle: XS|1|May 2||jwillikers
 [#17366](https://github.com/conan-io/conan-center-index/pull/17366)|[SpaceIm](https://github.com/SpaceIm)|May 2|:stopwatch: octomap|L|0|||
 [#17367](https://github.com/conan-io/conan-center-index/pull/17367)|[Corallo](https://github.com/Corallo)|May 2|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
-[#17373](https://github.com/conan-io/conan-center-index/pull/17373)|[toge](https://github.com/toge)|May 2|:stopwatch: lief|M|0|||
 [#17374](https://github.com/conan-io/conan-center-index/pull/17374)|[prince-chrismc](https://github.com/prince-chrismc)|May 2|:stopwatch: docs|:blue_square: S|0|||
 [#17377](https://github.com/conan-io/conan-center-index/pull/17377)|[prince-chrismc](https://github.com/prince-chrismc)|May 2|:stopwatch: docs|:blue_square: S|1|May 3||MartinDelille
 [#17379](https://github.com/conan-io/conan-center-index/pull/17379)|[toge](https://github.com/toge)|May 3|:stopwatch: zpp_bits|:blue_square: S|0|||
@@ -158,7 +156,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -172,7 +170,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|3|prince-chrismc, SSE4
 [#17306](https://github.com/conan-io/conan-center-index/pull/17306)|[jwillikers](https://github.com/jwillikers)|Apr 29|:memo: libffi|2|ericLemanissier, prince-chrismc
 [#17365](https://github.com/conan-io/conan-center-index/pull/17365)|[SpaceIm](https://github.com/SpaceIm)|May 2|:warning: norm|2|jwillikers, prince-chrismc
-[#17383](https://github.com/conan-io/conan-center-index/pull/17383)|[System-Arch](https://github.com/System-Arch)|May 4|:warning: cmake|2|prince-chrismc, jwillikers
 [#17391](https://github.com/conan-io/conan-center-index/pull/17391)|[uilianries](https://github.com/uilianries)|May 4|:green_book: docs|2|RubenRBS, SSE4
 
 
@@ -182,10 +179,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 284
+	- Open: 283
 	- Draft: 31
-	- Average Age: 66 days, 6 hours, and 43.70 minutes
-	- Stop Label: 101
+	- Average Age: 66 days, 13 hours, and 15.28 minutes
+	- Stop Label: 103
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
