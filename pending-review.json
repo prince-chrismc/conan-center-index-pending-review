@@ -1102,7 +1102,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17061",
       "LastCommitSHA": "a244a841dced9fb93c965ac9cabaa412f6137294",
       "LastCommitAt": "2023-05-05T19:07:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 2,
@@ -1367,11 +1367,18 @@
       "LastCommitAt": "2023-04-19T08:02:55Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ilya-lavrenov"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ilya-lavrenov",
+            "SubmittedAt": "2023-05-05T22:37:15Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17116#pullrequestreview-1415537482"
+         }
       }
    },
    {
@@ -1913,6 +1920,30 @@
       }
    },
    {
+      "Number": 17268,
+      "OpenedBy": "gegles",
+      "CreatedAt": "2023-04-27T02:05:37Z",
+      "Recipe": "gegles-spdlog_setup",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17268",
+      "LastCommitSHA": "8d840bb925e93ca5b883a3bb94a8db11dffa4812",
+      "LastCommitAt": "2023-05-05T20:38:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-04-27T15:14:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17268#pullrequestreview-1404318178"
+         }
+      }
+   },
+   {
       "Number": 17271,
       "OpenedBy": "toge",
       "CreatedAt": "2023-04-27T06:36:23Z",
@@ -2187,8 +2218,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17313",
-      "LastCommitSHA": "b54615152f3d18952fb4ff7c382987bf5ad1096c",
-      "LastCommitAt": "2023-05-05T19:05:59Z",
+      "LastCommitSHA": "a252079b66e11adda83c2779913bffda8fd692aa",
+      "LastCommitAt": "2023-05-05T22:35:29Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -2922,7 +2953,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17400",
       "LastCommitSHA": "3d216bb2cfdd405ba9b910a3963b44c3144acba4",
       "LastCommitAt": "2023-05-05T03:23:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -2974,7 +3005,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17412",
       "LastCommitSHA": "5c8c6989a8f2522f8bb6b37329784a2092ff603e",
       "LastCommitAt": "2023-05-05T20:38:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2993,7 +3024,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17413",
       "LastCommitSHA": "fd6967e9fc67925ebbbae0bc0d5dddbb96b35886",
       "LastCommitAt": "2023-05-05T21:10:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3012,6 +3043,63 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17415",
       "LastCommitSHA": "a26664b6a5633652c14259ee5ae3e67923d72a3a",
       "LastCommitAt": "2023-05-05T21:59:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17417,
+      "OpenedBy": "ilya-lavrenov",
+      "CreatedAt": "2023-05-05T22:32:18Z",
+      "Recipe": "opencl-headers",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17417",
+      "LastCommitSHA": "74aea0a0997ed986e7881924eb6357b95b421130",
+      "LastCommitAt": "2023-05-05T22:43:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17418,
+      "OpenedBy": "ilya-lavrenov",
+      "CreatedAt": "2023-05-05T22:32:57Z",
+      "Recipe": "opencl-icd-loader",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17418",
+      "LastCommitSHA": "35ed084f65bdd58a4621f7ebba54b7a8e08a4d04",
+      "LastCommitAt": "2023-05-05T22:29:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17419,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2023-05-05T23:01:26Z",
+      "Recipe": "docs",
+      "Change": 2,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17419",
+      "LastCommitSHA": "37dca470a52adccc1ada85e49d5f81801a58598d",
+      "LastCommitAt": "2023-05-05T23:01:21Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
