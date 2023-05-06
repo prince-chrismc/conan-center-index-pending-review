@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **129** pull requests currently under way :detective:
+There are **128** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -106,7 +106,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:stopwatch: z3|L|0|:eyes:||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:stopwatch: cyclonedds|L|0|:eyes:||
 [#17264](https://github.com/conan-io/conan-center-index/pull/17264)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:stopwatch: cyclonedds|:blue_square: S|1|Apr 27||jwillikers
-[#17268](https://github.com/conan-io/conan-center-index/pull/17268)|[gegles](https://github.com/gegles)|Apr 27|:stopwatch: gegles-spdlog_setup|M|2|Apr 27||
 [#17271](https://github.com/conan-io/conan-center-index/pull/17271)|[toge](https://github.com/toge)|Apr 27|:stopwatch: mimalloc|L|0|:eyes:||
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:stopwatch: elfutils|L|0|:eyes:||
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1||MartinDelille, jwillikers
@@ -182,8 +181,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 286
 	- Draft: 33
-	- Average Age: 65 days, 17 hours, and 34.83 minutes
-	- Stop Label: 103
+	- Average Age: 65 days, 21 hours, and 49.90 minutes
+	- Stop Label: 104
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
