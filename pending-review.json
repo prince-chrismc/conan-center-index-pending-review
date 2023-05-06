@@ -1866,30 +1866,6 @@
       }
    },
    {
-      "Number": 17268,
-      "OpenedBy": "gegles",
-      "CreatedAt": "2023-04-27T02:05:37Z",
-      "Recipe": "gegles-spdlog_setup",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17268",
-      "LastCommitSHA": "8d840bb925e93ca5b883a3bb94a8db11dffa4812",
-      "LastCommitAt": "2023-05-05T20:38:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-04-27T15:14:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17268#pullrequestreview-1404318178"
-         }
-      }
-   },
-   {
       "Number": 17271,
       "OpenedBy": "toge",
       "CreatedAt": "2023-04-27T06:36:23Z",
@@ -2031,8 +2007,8 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17295",
-      "LastCommitSHA": "e052938bf75e641ea4c891aa510ca6308c6d47c5",
-      "LastCommitAt": "2023-05-05T00:00:45Z",
+      "LastCommitSHA": "93aae8955bff039e2b22cdf58c0e504be2c741bd",
+      "LastCommitAt": "2023-05-06T05:35:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
