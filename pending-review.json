@@ -360,25 +360,6 @@
       }
    },
    {
-      "Number": 16674,
-      "OpenedBy": "roalter",
-      "CreatedAt": "2023-03-23T16:36:38Z",
-      "Recipe": "libusb-compat",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16674",
-      "LastCommitSHA": "b3e2c4bcc68bac8f931ea6bc5311a5624ccfd0dd",
-      "LastCommitAt": "2023-03-23T16:34:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 16678,
       "OpenedBy": "prince-chrismc",
       "CreatedAt": "2023-03-23T23:23:33Z",
@@ -2662,9 +2643,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17396",
-      "LastCommitSHA": "8973249c37e594d6307afa8c2f3985fafd8f4c3f",
-      "LastCommitAt": "2023-05-04T21:19:55Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "0c73fd9121bccc8b4e4eb28b31837b194f990e6a",
+      "LastCommitAt": "2023-05-06T19:53:14Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
