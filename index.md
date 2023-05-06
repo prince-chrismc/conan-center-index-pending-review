@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **123** pull requests currently under way :detective:
+There are **125** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -150,6 +150,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17422](https://github.com/conan-io/conan-center-index/pull/17422)|[conan-center-bot](https://github.com/conan-center-bot)|May 6|:gear: .c3i|M|1|May 6||SSE4
 [#17425](https://github.com/conan-io/conan-center-index/pull/17425)|[jiaoew1991](https://github.com/jiaoew1991)|May 6|:stopwatch: googleapis|:green_circle: XS|0|||
 [#17426](https://github.com/conan-io/conan-center-index/pull/17426)|[tankeco](https://github.com/tankeco)|May 6|:memo: sophus|:blue_square: S|0|||
+[#17428](https://github.com/conan-io/conan-center-index/pull/17428)|[kwach](https://github.com/kwach)|May 6|:stopwatch: libmemcached|L|0|||
+[#17429](https://github.com/conan-io/conan-center-index/pull/17429)|[toge](https://github.com/toge)|May 6|:stopwatch: ada|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -174,10 +176,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 285
+	- Open: 288
 	- Draft: 33
-	- Average Age: 66 days, 10 hours, and 57.14 minutes
-	- Stop Label: 108
+	- Average Age: 65 days, 19 hours, and 23.83 minutes
+	- Stop Label: 109
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
