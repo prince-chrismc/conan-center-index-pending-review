@@ -934,6 +934,32 @@
       }
    },
    {
+      "Number": 17030,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-04-14T12:38:08Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17030",
+      "LastCommitSHA": "0b300ddef2971843e762eaec30520a0e71bb27e0",
+      "LastCommitAt": "2023-04-15T15:56:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            "MartinDelille"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2023-04-18T08:23:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17030#pullrequestreview-1389556597"
+         }
+      }
+   },
+   {
       "Number": 17032,
       "OpenedBy": "datalogics-kam",
       "CreatedAt": "2023-04-14T16:10:54Z",
@@ -1416,7 +1442,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17151",
       "LastCommitSHA": "9df39b4fef511b4c83c957a41411fbe31b43953b",
       "LastCommitAt": "2023-04-21T19:35:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1520,7 +1546,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17166",
       "LastCommitSHA": "c2a541bc475553094242c60d22da508b2a6f1e0f",
       "LastCommitAt": "2023-04-25T07:14:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1546,7 +1572,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17169",
       "LastCommitSHA": "2f70b6c5b43d1e1e9f7f650b6c5821c0a4aad1ff",
       "LastCommitAt": "2023-04-22T21:41:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
