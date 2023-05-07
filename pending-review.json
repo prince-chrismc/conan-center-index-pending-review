@@ -2609,6 +2609,25 @@
       }
    },
    {
+      "Number": 17408,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-05-05T17:28:38Z",
+      "Recipe": "sonic-cpp",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17408",
+      "LastCommitSHA": "95008f632436d791ba25e78b7ea728d1c13b9267",
+      "LastCommitAt": "2023-05-07T09:07:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17412,
       "OpenedBy": "ilya-lavrenov",
       "CreatedAt": "2023-05-05T20:40:07Z",
@@ -2869,6 +2888,25 @@
             "SubmittedAt": "2023-05-07T08:57:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17433#pullrequestreview-1415870525"
          }
+      }
+   },
+   {
+      "Number": 17434,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-05-07T09:53:01Z",
+      "Recipe": "thrift",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17434",
+      "LastCommitSHA": "fdebb2db53ec33e9e5ee0f04354f0d8a31d30bef",
+      "LastCommitAt": "2023-05-07T09:48:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
