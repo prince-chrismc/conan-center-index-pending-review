@@ -47,7 +47,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16680](https://github.com/conan-io/conan-center-index/pull/16680)|[yekmen](https://github.com/yekmen)|Mar 24|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
 [#16769](https://github.com/conan-io/conan-center-index/pull/16769)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:memo: libzippp|:green_circle: XS|0|||
-[#16776](https://github.com/conan-io/conan-center-index/pull/16776)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:stopwatch: pistache|L|0|:eyes:||
 [#16782](https://github.com/conan-io/conan-center-index/pull/16782)|[puetzk](https://github.com/puetzk)|Mar 29|:stopwatch: apr|:green_circle: XS|0|:eyes:||
 [#16785](https://github.com/conan-io/conan-center-index/pull/16785)|[db4](https://github.com/db4)|Mar 30|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16798](https://github.com/conan-io/conan-center-index/pull/16798)|[samuel-emrys](https://github.com/samuel-emrys)|Mar 30|:stopwatch: gawk|M|0|:eyes:||
@@ -152,6 +151,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17431](https://github.com/conan-io/conan-center-index/pull/17431)|[conan-center-bot](https://github.com/conan-center-bot)|May 6|:green_book: docs|:blue_square: S|1|May 7||SSE4
 [#17433](https://github.com/conan-io/conan-center-index/pull/17433)|[conan-center-bot](https://github.com/conan-center-bot)|May 7|:gear: .c3i|:blue_square: S|1|May 7||SSE4
 [#17434](https://github.com/conan-io/conan-center-index/pull/17434)|[SpaceIm](https://github.com/SpaceIm)|May 7|:stopwatch: thrift|:blue_square: S|0|||
+[#17435](https://github.com/conan-io/conan-center-index/pull/17435)|[BrettDong](https://github.com/BrettDong)|May 7|:stopwatch: quantlib|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -174,10 +174,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 290
+	- Open: 291
 	- Draft: 32
-	- Average Age: 65 days, 23 hours, and 17.15 minutes
-	- Stop Label: 115
+	- Average Age: 65 days, 18 hours, and 47.91 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
