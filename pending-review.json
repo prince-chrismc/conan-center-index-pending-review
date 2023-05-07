@@ -542,6 +542,25 @@
       }
    },
    {
+      "Number": 16769,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-03-29T13:02:42Z",
+      "Recipe": "libzippp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16769",
+      "LastCommitSHA": "f6790ec8d0b2742b37cce278e4e220aecb7309ef",
+      "LastCommitAt": "2023-05-06T22:18:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 16776,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-03-29T15:08:17Z",
