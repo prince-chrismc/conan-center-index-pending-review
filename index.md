@@ -46,7 +46,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:stopwatch: log4cxx|XL|0|||
 [#16680](https://github.com/conan-io/conan-center-index/pull/16680)|[yekmen](https://github.com/yekmen)|Mar 24|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
-[#16731](https://github.com/conan-io/conan-center-index/pull/16731)|[bariscelik](https://github.com/bariscelik)|Mar 27|:stopwatch: behaviortree.cpp|L|9|Apr 17 :bell:||
 [#16762](https://github.com/conan-io/conan-center-index/pull/16762)|[grabowski-d](https://github.com/grabowski-d)|Mar 29|:stopwatch: openldap|L|1|Apr 4 :bell:||
 [#16769](https://github.com/conan-io/conan-center-index/pull/16769)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:memo: libzippp|:green_circle: XS|0|||
 [#16776](https://github.com/conan-io/conan-center-index/pull/16776)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:stopwatch: pistache|L|0|:eyes:||
@@ -148,6 +147,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17425](https://github.com/conan-io/conan-center-index/pull/17425)|[jiaoew1991](https://github.com/jiaoew1991)|May 6|:memo: googleapis|:green_circle: XS|0|||
 [#17426](https://github.com/conan-io/conan-center-index/pull/17426)|[tankeco](https://github.com/tankeco)|May 6|:memo: sophus|:blue_square: S|0|||
 [#17428](https://github.com/conan-io/conan-center-index/pull/17428)|[kwach](https://github.com/kwach)|May 6|:stopwatch: libmemcached|L|0|||
+[#17429](https://github.com/conan-io/conan-center-index/pull/17429)|[toge](https://github.com/toge)|May 6|:stopwatch: ada|:blue_square: S|0|||
 [#17430](https://github.com/conan-io/conan-center-index/pull/17430)|[conan-center-bot](https://github.com/conan-center-bot)|May 6|:gear: .c3i|:blue_square: S|0|||
 [#17431](https://github.com/conan-io/conan-center-index/pull/17431)|[conan-center-bot](https://github.com/conan-center-bot)|May 6|:green_book: docs|:blue_square: S|0|||
 
@@ -174,7 +174,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 288
 	- Draft: 32
-	- Average Age: 66 days, 5 hours, and 16.14 minutes
+	- Average Age: 66 days, 7 hours, and 15.06 minutes
 	- Stop Label: 115
 	
 
