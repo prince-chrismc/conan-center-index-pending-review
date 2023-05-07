@@ -2922,5 +2922,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17439,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-05-07T13:05:40Z",
+      "Recipe": "bitserializer",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17439",
+      "LastCommitSHA": "108dce165c4a84110bbc18b8e4cf716968f7b8b4",
+      "LastCommitAt": "2023-05-07T13:44:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
