@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **123** pull requests currently under way :detective:
+There are **125** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -138,6 +138,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17398](https://github.com/conan-io/conan-center-index/pull/17398)|[SpaceIm](https://github.com/SpaceIm)|May 4|:memo: outcome|L|1|May 5||jwillikers
 [#17399](https://github.com/conan-io/conan-center-index/pull/17399)|[SpaceIm](https://github.com/SpaceIm)|May 4|:memo: termcolor|M|1|May 5||jwillikers
 [#17400](https://github.com/conan-io/conan-center-index/pull/17400)|[toge](https://github.com/toge)|May 5|:memo: bitmagic|M|1|May 5||jwillikers
+[#17408](https://github.com/conan-io/conan-center-index/pull/17408)|[toge](https://github.com/toge)|May 5|:new: sonic-cpp|M|0|||
 [#17412](https://github.com/conan-io/conan-center-index/pull/17412)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|May 5|:memo: ade|:green_circle: XS|0|||
 [#17413](https://github.com/conan-io/conan-center-index/pull/17413)|[valgur](https://github.com/valgur)|May 5|:memo: eabase|L|0|||
 [#17417](https://github.com/conan-io/conan-center-index/pull/17417)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|May 5|:memo: opencl-headers|:blue_square: S|0|||
@@ -150,6 +151,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17430](https://github.com/conan-io/conan-center-index/pull/17430)|[conan-center-bot](https://github.com/conan-center-bot)|May 6|:gear: .c3i|:blue_square: S|1|May 7||SSE4
 [#17431](https://github.com/conan-io/conan-center-index/pull/17431)|[conan-center-bot](https://github.com/conan-center-bot)|May 6|:green_book: docs|:blue_square: S|1|May 7||SSE4
 [#17433](https://github.com/conan-io/conan-center-index/pull/17433)|[conan-center-bot](https://github.com/conan-center-bot)|May 7|:gear: .c3i|:blue_square: S|1|May 7||SSE4
+[#17434](https://github.com/conan-io/conan-center-index/pull/17434)|[SpaceIm](https://github.com/SpaceIm)|May 7|:stopwatch: thrift|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -172,10 +174,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 289
+	- Open: 290
 	- Draft: 32
-	- Average Age: 66 days, 3 hours, and 44.74 minutes
-	- Stop Label: 116
+	- Average Age: 65 days, 23 hours, and 17.15 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
