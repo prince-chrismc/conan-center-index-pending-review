@@ -42,7 +42,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16613](https://github.com/conan-io/conan-center-index/pull/16613)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite2|L|0|:eyes:||
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: graphene|:blue_square: S|5|Mar 29 :bell:||
 [#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|:eyes:||
-[#16678](https://github.com/conan-io/conan-center-index/pull/16678)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 23|:memo: opencv|:blue_square: S|9|May 6|RubenRBS|czoido, SSE4
+[#16678](https://github.com/conan-io/conan-center-index/pull/16678)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 23|:memo: opencv|:blue_square: S|11|May 8|RubenRBS|czoido, SSE4, franramirez688, davidsanfal
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:memo: log4cxx|XL|0|||
 [#16680](https://github.com/conan-io/conan-center-index/pull/16680)|[yekmen](https://github.com/yekmen)|Mar 24|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
@@ -176,7 +176,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 301
 	- Draft: 33
-	- Average Age: 64 days, 8 hours, and 45.89 minutes
+	- Average Age: 64 days, 9 hours, and 41.65 minutes
 	- Stop Label: 124
 	
 
