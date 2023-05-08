@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **128** pull requests currently under way :detective:
+There are **126** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -43,7 +43,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16664](https://github.com/conan-io/conan-center-index/pull/16664)|[roalter](https://github.com/roalter)|Mar 23|:stopwatch: graphene|:blue_square: S|5|Mar 29 :bell:||
 [#16673](https://github.com/conan-io/conan-center-index/pull/16673)|[roalter](https://github.com/roalter)|Mar 23|:memo: libcurl|:blue_square: S|0|:eyes:||
 [#16678](https://github.com/conan-io/conan-center-index/pull/16678)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 23|:memo: opencv|:blue_square: S|9|May 6|RubenRBS|czoido, SSE4
-[#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:stopwatch: log4cxx|XL|0|||
 [#16680](https://github.com/conan-io/conan-center-index/pull/16680)|[yekmen](https://github.com/yekmen)|Mar 24|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
 [#16769](https://github.com/conan-io/conan-center-index/pull/16769)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:memo: libzippp|:green_circle: XS|0|||
@@ -51,7 +50,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16785](https://github.com/conan-io/conan-center-index/pull/16785)|[db4](https://github.com/db4)|Mar 30|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16845](https://github.com/conan-io/conan-center-index/pull/16845)|[hrantzsch](https://github.com/hrantzsch)|Apr 1|:stopwatch: keychain|M|0|||
 [#16938](https://github.com/conan-io/conan-center-index/pull/16938)|[OleksandrKvl](https://github.com/OleksandrKvl)|Apr 7|:new: sbepp|L|0|:eyes:||
-[#16976](https://github.com/conan-io/conan-center-index/pull/16976)|[staskau](https://github.com/staskau)|Apr 11|:stopwatch: verilator|:green_circle: XS|0|:eyes:||
 [#16990](https://github.com/conan-io/conan-center-index/pull/16990)|[toge](https://github.com/toge)|Apr 12|:stopwatch: watcher|:blue_square: S|0|:eyes:||
 [#17002](https://github.com/conan-io/conan-center-index/pull/17002)|[SpaceIm](https://github.com/SpaceIm)|Apr 12|:stopwatch: libpointmatcher|L|0|:eyes:||
 [#17022](https://github.com/conan-io/conan-center-index/pull/17022)|[toge](https://github.com/toge)|Apr 14|:stopwatch: opentelemetry-proto|M|0|:eyes:||
@@ -154,7 +152,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17446](https://github.com/conan-io/conan-center-index/pull/17446)|[conan-center-bot](https://github.com/conan-center-bot)|May 7|:gear: .c3i|M|0|||
 [#17447](https://github.com/conan-io/conan-center-index/pull/17447)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: llhttp|L|0|||
 [#17448](https://github.com/conan-io/conan-center-index/pull/17448)|[conan-center-bot](https://github.com/conan-center-bot)|May 7|:green_book: docs|:blue_square: S|0|||
-[#17450](https://github.com/conan-io/conan-center-index/pull/17450)|[toge](https://github.com/toge)|May 8|:stopwatch: taskflow|:blue_square: S|0|||
+[#17450](https://github.com/conan-io/conan-center-index/pull/17450)|[toge](https://github.com/toge)|May 8|:memo: taskflow|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -179,8 +177,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 301
 	- Draft: 33
-	- Average Age: 64 days, 4 hours, and 49.76 minutes
-	- Stop Label: 122
+	- Average Age: 64 days, 5 hours, and 53.99 minutes
+	- Stop Label: 124
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
