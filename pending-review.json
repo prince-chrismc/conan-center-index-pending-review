@@ -371,22 +371,23 @@
       "LastCommitAt": "2023-05-05T13:28:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 4,
+         "Count": 12,
+         "ValidApprovals": 5,
          "TeamApproval": true,
          "Approvals": [
             "czoido",
             "SSE4",
             "franramirez688",
-            "davidsanfal"
+            "davidsanfal",
+            "uilianries"
          ],
          "Blockers": [
             "RubenRBS"
          ],
          "LastReview": {
-            "ReviewerName": "davidsanfal",
-            "SubmittedAt": "2023-05-08T06:35:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16678#pullrequestreview-1416201587"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-05-08T07:15:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16678#pullrequestreview-1416252082"
          }
       }
    },
@@ -552,25 +553,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17002",
       "LastCommitSHA": "eca8799053501e8f192647e27e38220664393a6f",
       "LastCommitAt": "2023-04-13T14:33:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17022,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-04-14T00:51:56Z",
-      "Recipe": "opentelemetry-proto",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17022",
-      "LastCommitSHA": "04bdcdf27d862db9b96499477f9428fad139ead8",
-      "LastCommitAt": "2023-04-14T04:48:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
