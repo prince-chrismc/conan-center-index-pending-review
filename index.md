@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **114** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -140,18 +140,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17475](https://github.com/conan-io/conan-center-index/pull/17475)|[czoido](https://github.com/czoido)|May 9|:stopwatch: opencv|:green_circle: XS|0|||
 [#17478](https://github.com/conan-io/conan-center-index/pull/17478)|[ericLemanissier](https://github.com/ericLemanissier)|May 9|:stopwatch: harfbuzz|:green_circle: XS|0|||
 [#17485](https://github.com/conan-io/conan-center-index/pull/17485)|[SpaceIm](https://github.com/SpaceIm)|May 9|:stopwatch: libxft|L|0|||
+[#17486](https://github.com/conan-io/conan-center-index/pull/17486)|[conan-center-bot](https://github.com/conan-center-bot)|May 9|:gear: .c3i|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16397](https://github.com/conan-io/conan-center-index/pull/16397)|[CedricSchmeits](https://github.com/CedricSchmeits)|Mar 6|:memo: flatbuffers|3|danimtb, SpaceIm
 [#16654](https://github.com/conan-io/conan-center-index/pull/16654)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|Mar 22|:new: seadex-essentials|38|jwillikers, prince-chrismc, franramirez688, danimtb
-[#16960](https://github.com/conan-io/conan-center-index/pull/16960)|[wbehrens-on-gh](https://github.com/wbehrens-on-gh)|Apr 10|:memo: readline|8|jcar87, RubenRBS
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|3|ericLemanissier, prince-chrismc
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|3|prince-chrismc, SSE4
@@ -165,7 +165,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 285
 	- Draft: 29
-	- Average Age: 68 days, 4 hours, and 37.48 minutes
+	- Average Age: 68 days, 3 hours, and 10.54 minutes
 	- Stop Label: 121
 	
 
