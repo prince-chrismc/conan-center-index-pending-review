@@ -293,7 +293,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16583",
       "LastCommitSHA": "b54c5dfe5ffa5bdbed508bc42b1ed1d5fb834b2c",
       "LastCommitAt": "2023-05-09T20:02:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 14,
          "ValidApprovals": 0,
@@ -752,33 +752,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17041,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-04-16T16:23:09Z",
-      "Recipe": "libuvc",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17041",
-      "LastCommitSHA": "f79edd09fd812a6e7791183b4d1adc59ad4e48d1",
-      "LastCommitAt": "2023-05-09T19:22:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "danimtb"
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-05-09T15:09:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17041#pullrequestreview-1418878128"
-         }
       }
    },
    {
