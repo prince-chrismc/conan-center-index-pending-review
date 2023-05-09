@@ -38,7 +38,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16438](https://github.com/conan-io/conan-center-index/pull/16438)|[coryan](https://github.com/coryan)|Mar 7|:new: google-cloud-cpp|XL|6|May 2||SSE4
 [#16471](https://github.com/conan-io/conan-center-index/pull/16471)|[wbehrens-on-gh](https://github.com/wbehrens-on-gh)|Mar 8|:stopwatch: libnl|L|0|||
 [#16500](https://github.com/conan-io/conan-center-index/pull/16500)|[achim-k](https://github.com/achim-k)|Mar 10|:stopwatch: foxglove-websocket|L|1|May 9||
-[#16583](https://github.com/conan-io/conan-center-index/pull/16583)|[zillemarco](https://github.com/zillemarco)|Mar 16|:stopwatch: physx|L|14|May 9||
+[#16583](https://github.com/conan-io/conan-center-index/pull/16583)|[zillemarco](https://github.com/zillemarco)|Mar 16|:memo: physx|L|14|May 9||
 [#16587](https://github.com/conan-io/conan-center-index/pull/16587)|[nicosmd](https://github.com/nicosmd)|Mar 16|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16612](https://github.com/conan-io/conan-center-index/pull/16612)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite|L|1|May 1||jwillikers
 [#16613](https://github.com/conan-io/conan-center-index/pull/16613)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite2|L|0|:eyes:||
@@ -144,7 +144,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -152,7 +152,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#16397](https://github.com/conan-io/conan-center-index/pull/16397)|[CedricSchmeits](https://github.com/CedricSchmeits)|Mar 6|:memo: flatbuffers|3|danimtb, SpaceIm
 [#16654](https://github.com/conan-io/conan-center-index/pull/16654)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|Mar 22|:new: seadex-essentials|38|jwillikers, prince-chrismc, franramirez688, danimtb
 [#16960](https://github.com/conan-io/conan-center-index/pull/16960)|[wbehrens-on-gh](https://github.com/wbehrens-on-gh)|Apr 10|:memo: readline|8|jcar87, RubenRBS
-[#17041](https://github.com/conan-io/conan-center-index/pull/17041)|[toge](https://github.com/toge)|Apr 16|:memo: libuvc|8|RubenRBS, danimtb
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|3|ericLemanissier, prince-chrismc
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|3|prince-chrismc, SSE4
@@ -164,9 +163,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 287
+	- Open: 285
 	- Draft: 29
-	- Average Age: 67 days, 18 hours, and 10.74 minutes
+	- Average Age: 68 days, 4 hours, and 37.48 minutes
 	- Stop Label: 121
 	
 
