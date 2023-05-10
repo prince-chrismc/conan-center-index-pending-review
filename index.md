@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **111** pull requests currently under way :detective:
+There are **112** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -138,11 +138,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17485](https://github.com/conan-io/conan-center-index/pull/17485)|[SpaceIm](https://github.com/SpaceIm)|May 9|:stopwatch: libxft|L|0|||
 [#17486](https://github.com/conan-io/conan-center-index/pull/17486)|[conan-center-bot](https://github.com/conan-center-bot)|May 9|:gear: .c3i|:blue_square: S|1|May 10||SSE4
 [#17487](https://github.com/conan-io/conan-center-index/pull/17487)|[SpaceIm](https://github.com/SpaceIm)|May 9|:memo: librdkafka|:blue_square: S|0|||
+[#17490](https://github.com/conan-io/conan-center-index/pull/17490)|[toge](https://github.com/toge)|May 10|:stopwatch: cpr|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -151,8 +152,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|3|ericLemanissier, prince-chrismc
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|3|prince-chrismc, SSE4
-[#17439](https://github.com/conan-io/conan-center-index/pull/17439)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: bitserializer|3|prince-chrismc, SSE4
-[#17468](https://github.com/conan-io/conan-center-index/pull/17468)|[SpaceIm](https://github.com/SpaceIm)|May 9|:memo: screen_capture_lite|2|prince-chrismc, SSE4
 
 
 #### :clipboard: Statistics
@@ -161,9 +160,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 0be1c33b3c1b9a96627a907786974255142fed0c
 - Pull Requests:
-	- Open: 282
+	- Open: 281
 	- Draft: 29
-	- Average Age: 68 days, 13 hours, and 22.68 minutes
+	- Average Age: 68 days, 20 hours, and 0.41 minutes
 	- Stop Label: 121
 	
 
