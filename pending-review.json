@@ -399,7 +399,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16679",
       "LastCommitSHA": "029a4aff159d07d50c181054b3fb5f9de8aa33d6",
       "LastCommitAt": "2023-05-10T02:08:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -2604,25 +2604,6 @@
       }
    },
    {
-      "Number": 17475,
-      "OpenedBy": "czoido",
-      "CreatedAt": "2023-05-09T15:22:10Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17475",
-      "LastCommitSHA": "04495fe0fd2b0522a8f595d70ea0d7bf596e9ac9",
-      "LastCommitAt": "2023-05-09T15:20:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17478,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-05-09T15:42:07Z",
@@ -2672,11 +2653,18 @@
       "LastCommitAt": "2023-05-09T22:42:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "SSE4"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-05-10T04:01:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17486#pullrequestreview-1419744699"
+         }
       }
    },
    {
@@ -2689,7 +2677,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17487",
       "LastCommitSHA": "eb554e7794a5cd648708261d8b8f70bc7124c2cc",
       "LastCommitAt": "2023-05-09T23:48:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
