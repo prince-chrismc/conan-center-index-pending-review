@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **105** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|4|May 8|jcar87|jwillikers, prince-chrismc
 [#17346](https://github.com/conan-io/conan-center-index/pull/17346)|[valgur](https://github.com/valgur)|May 1|:new: console_bridge|L|0|||
 [#17355](https://github.com/conan-io/conan-center-index/pull/17355)|[jwillikers](https://github.com/jwillikers)|May 1|:stopwatch: avahi|:green_circle: XS|0|:eyes:||
-[#17358](https://github.com/conan-io/conan-center-index/pull/17358)|[j-carl](https://github.com/j-carl)|May 1|:stopwatch: fmt|:green_circle: XS|2|May 10||jwillikers, 0xFireWolf
+[#17358](https://github.com/conan-io/conan-center-index/pull/17358)|[j-carl](https://github.com/j-carl)|May 1|:memo: fmt|:green_circle: XS|2|May 10||jwillikers, 0xFireWolf
 [#17363](https://github.com/conan-io/conan-center-index/pull/17363)|[the-nic](https://github.com/the-nic)|May 2|:stopwatch: libxml2|:blue_square: S|0|||
 [#17366](https://github.com/conan-io/conan-center-index/pull/17366)|[SpaceIm](https://github.com/SpaceIm)|May 2|:memo: octomap|L|0|:eyes:||
 [#17367](https://github.com/conan-io/conan-center-index/pull/17367)|[Corallo](https://github.com/Corallo)|May 2|:stopwatch: opencv|:green_circle: XS|0|||
@@ -132,7 +132,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17522](https://github.com/conan-io/conan-center-index/pull/17522)|[conan-center-bot](https://github.com/conan-center-bot)|May 11|:gear: .c3i|:green_circle: XS|0|||
 [#17523](https://github.com/conan-io/conan-center-index/pull/17523)|[RubenRBS](https://github.com/RubenRBS)|May 11|:memo: vulkan-memory-allocator|:green_circle: XS|1|May 11||jcar87
 [#17525](https://github.com/conan-io/conan-center-index/pull/17525)|[zillemarco](https://github.com/zillemarco)|May 11|:memo: physx|:green_circle: XS|1|May 11||prince-chrismc
-[#17530](https://github.com/conan-io/conan-center-index/pull/17530)|[ericriff](https://github.com/ericriff)|May 11|:stopwatch: mold|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -157,7 +156,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 284
 	- Draft: 31
-	- Average Age: 67 days, 21 hours, and 28.84 minutes
+	- Average Age: 67 days, 22 hours, and 23.83 minutes
 	- Stop Label: 128
 	
 
