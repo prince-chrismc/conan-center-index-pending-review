@@ -1555,7 +1555,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17358",
       "LastCommitSHA": "0aa0a8217ac042f5f70d0dbc32549db9a4a296d1",
       "LastCommitAt": "2023-05-04T19:09:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -2522,25 +2522,6 @@
             "SubmittedAt": "2023-05-11T17:42:58Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17525#pullrequestreview-1423132726"
          }
-      }
-   },
-   {
-      "Number": 17530,
-      "OpenedBy": "ericriff",
-      "CreatedAt": "2023-05-11T17:52:36Z",
-      "Recipe": "mold",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17530",
-      "LastCommitSHA": "ccfed85d0ad1bceda0713d0369d5e564f8368a0a",
-      "LastCommitAt": "2023-05-11T17:52:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
