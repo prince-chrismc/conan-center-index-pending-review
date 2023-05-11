@@ -2345,32 +2345,6 @@
       }
    },
    {
-      "Number": 17487,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-05-09T23:51:34Z",
-      "Recipe": "librdkafka",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17487",
-      "LastCommitSHA": "eb554e7794a5cd648708261d8b8f70bc7124c2cc",
-      "LastCommitAt": "2023-05-09T23:48:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-10T11:49:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17487#pullrequestreview-1420453222"
-         }
-      }
-   },
-   {
       "Number": 17490,
       "OpenedBy": "toge",
       "CreatedAt": "2023-05-10T06:11:21Z",
@@ -2598,8 +2572,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17516",
-      "LastCommitSHA": "244d03af79eddc20daeaa8e584d41ba8ec659e5c",
-      "LastCommitAt": "2023-05-11T03:50:12Z",
+      "LastCommitSHA": "6604b09d65987790795dfa38e04dce6ba5258fcd",
+      "LastCommitAt": "2023-05-11T04:20:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
