@@ -1274,7 +1274,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17311",
       "LastCommitSHA": "a796d9f040027f4d7105df02947260f4c668249c",
       "LastCommitAt": "2023-05-10T11:53:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
@@ -2582,6 +2582,25 @@
       "LastCommitSHA": "82f426b549d114a515f72995b1cc6ea5bca4c840",
       "LastCommitAt": "2023-05-10T23:59:58Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17516,
+      "OpenedBy": "christapley",
+      "CreatedAt": "2023-05-11T04:12:57Z",
+      "Recipe": "boost",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17516",
+      "LastCommitSHA": "244d03af79eddc20daeaa8e584d41ba8ec659e5c",
+      "LastCommitAt": "2023-05-11T03:50:12Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
