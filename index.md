@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **107** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -133,6 +133,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17522](https://github.com/conan-io/conan-center-index/pull/17522)|[conan-center-bot](https://github.com/conan-center-bot)|May 11|:gear: .c3i|:green_circle: XS|0|||
 [#17523](https://github.com/conan-io/conan-center-index/pull/17523)|[RubenRBS](https://github.com/RubenRBS)|May 11|:memo: vulkan-memory-allocator|:green_circle: XS|1|May 11||jcar87
 [#17525](https://github.com/conan-io/conan-center-index/pull/17525)|[zillemarco](https://github.com/zillemarco)|May 11|:memo: physx|:green_circle: XS|1|May 11||prince-chrismc
+[#17531](https://github.com/conan-io/conan-center-index/pull/17531)|[conan-center-bot](https://github.com/conan-center-bot)|May 11|:gear: .c3i|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -154,9 +155,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 283
+	- Open: 284
 	- Draft: 31
-	- Average Age: 68 days, 6 hours, and 9.58 minutes
+	- Average Age: 68 days, 1 hours, and 23.85 minutes
 	- Stop Label: 129
 	
 
