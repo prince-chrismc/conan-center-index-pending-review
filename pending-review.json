@@ -147,17 +147,18 @@
       "LastCommitAt": "2023-03-05T00:00:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "danimtb"
+            "danimtb",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-05-09T14:36:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16387#pullrequestreview-1418800767"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-05-11T13:08:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16387#pullrequestreview-1422576068"
          }
       }
    },
@@ -192,17 +193,18 @@
       "LastCommitAt": "2023-05-10T15:54:16Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
+         "Count": 8,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "franramirez688"
+            "franramirez688",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-05-10T17:58:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16500#pullrequestreview-1421140398"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-05-11T13:09:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16500#pullrequestreview-1422576948"
          }
       }
    },
@@ -1670,8 +1672,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17367",
-      "LastCommitSHA": "89e90204ca371bc802f6b1bec995c985e3198619",
-      "LastCommitAt": "2023-05-08T09:12:56Z",
+      "LastCommitSHA": "c29b145cb14516c97b86314d1a3f57b5f9ca9739",
+      "LastCommitAt": "2023-05-11T12:26:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1693,17 +1695,18 @@
       "LastCommitAt": "2023-05-10T15:00:42Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "RubenRBS"
+            "RubenRBS",
+            "SSE4"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-10T15:00:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17372#pullrequestreview-1420848842"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-05-11T13:09:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17372#pullrequestreview-1422577319"
          }
       }
    },
@@ -2571,34 +2574,6 @@
       }
    },
    {
-      "Number": 17519,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-05-11T07:22:24Z",
-      "Recipe": "librdkafka",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17519",
-      "LastCommitSHA": "447dea67265c57fbf40238cdabbdf183d1ce7cde",
-      "LastCommitAt": "2023-05-11T07:22:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "SpaceIm",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-11T08:49:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17519#pullrequestreview-1422087358"
-         }
-      }
-   },
-   {
       "Number": 17521,
       "OpenedBy": "mpimenov",
       "CreatedAt": "2023-05-11T08:11:01Z",
@@ -2634,6 +2609,32 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 17523,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-05-11T12:53:55Z",
+      "Recipe": "vulkan-memory-allocator",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17523",
+      "LastCommitSHA": "41ffda2bdad0d136267c5030732131fb2649a1d4",
+      "LastCommitAt": "2023-05-11T12:52:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jcar87"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-05-11T13:10:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17523#pullrequestreview-1422580177"
+         }
       }
    }
 ]
