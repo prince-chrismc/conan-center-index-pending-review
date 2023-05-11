@@ -170,8 +170,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16471",
-      "LastCommitSHA": "6d4c23344da9d7caa412f7bc104f75a1cb7c3535",
-      "LastCommitAt": "2023-05-10T12:36:29Z",
+      "LastCommitSHA": "7be629995756cd86456fa57c74fff8f854dc1efc",
+      "LastCommitAt": "2023-05-11T13:18:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2505,8 +2505,8 @@
       "Change": 0,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17509",
-      "LastCommitSHA": "9444b19209aba5078a6dce295bafcba068ca647f",
-      "LastCommitAt": "2023-05-11T09:37:15Z",
+      "LastCommitSHA": "02e2b6d2b144779404d22f5fa241d4712226e092",
+      "LastCommitAt": "2023-05-11T13:59:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2609,32 +2609,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17523,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-05-11T12:53:55Z",
-      "Recipe": "vulkan-memory-allocator",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17523",
-      "LastCommitSHA": "41ffda2bdad0d136267c5030732131fb2649a1d4",
-      "LastCommitAt": "2023-05-11T12:52:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "jcar87"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-05-11T13:10:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17523#pullrequestreview-1422580177"
-         }
       }
    }
 ]
