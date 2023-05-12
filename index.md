@@ -65,7 +65,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17166](https://github.com/conan-io/conan-center-index/pull/17166)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libmediainfo|L|1|May 1||jwillikers
 [#17180](https://github.com/conan-io/conan-center-index/pull/17180)|[SpaceIm](https://github.com/SpaceIm)|Apr 23|:memo: opensubdiv|L|1|Apr 26 :bell:||jwillikers
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|L|0|:eyes:||
-[#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:stopwatch: z3|L|1|May 7||
+[#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:memo: z3|L|1|May 7||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:stopwatch: cyclonedds|L|0|:eyes:||
 [#17264](https://github.com/conan-io/conan-center-index/pull/17264)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: cyclonedds|:blue_square: S|1|Apr 27 :bell:||jwillikers
 [#17268](https://github.com/conan-io/conan-center-index/pull/17268)|[gegles](https://github.com/gegles)|Apr 27|:stopwatch: gegles-spdlog_setup|M|2|Apr 27 :bell:||
@@ -158,7 +158,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 285
 	- Draft: 31
-	- Average Age: 67 days, 22 hours, and 20.17 minutes
+	- Average Age: 67 days, 23 hours, and 52.43 minutes
 	- Stop Label: 129
 	
 
