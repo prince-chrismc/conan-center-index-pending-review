@@ -404,7 +404,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16704",
       "LastCommitSHA": "04af20bc3dbe5e905cea4ebd5c6ec3d7388b74bf",
       "LastCommitAt": "2023-05-10T17:43:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 0,
@@ -2107,25 +2107,6 @@
       }
    },
    {
-      "Number": 17458,
-      "OpenedBy": "raulcd",
-      "CreatedAt": "2023-05-08T14:34:26Z",
-      "Recipe": "arrow",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17458",
-      "LastCommitSHA": "46c36763456bd9baea11911c2d6af77c418556e6",
-      "LastCommitAt": "2023-05-12T08:50:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17459,
       "OpenedBy": "DavidAce",
       "CreatedAt": "2023-05-08T15:20:06Z",
@@ -2413,6 +2394,33 @@
       }
    },
    {
+      "Number": 17507,
+      "OpenedBy": "franramirez688",
+      "CreatedAt": "2023-05-10T14:57:24Z",
+      "Recipe": "mosquitto",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17507",
+      "LastCommitSHA": "a8cb43152fa795e460ff282d188c868f6d550f95",
+      "LastCommitAt": "2023-05-12T08:00:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 10,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries",
+            "memsharded"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danicriss",
+            "SubmittedAt": "2023-05-12T10:56:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17507#pullrequestreview-1424258211"
+         }
+      }
+   },
+   {
       "Number": 17514,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-05-11T00:00:01Z",
@@ -2548,25 +2556,6 @@
       }
    },
    {
-      "Number": 17537,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2023-05-12T09:06:21Z",
-      "Recipe": "openexr",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17537",
-      "LastCommitSHA": "7088c6110b2410e275df1a7ebda64d7e462a3fe9",
-      "LastCommitAt": "2023-05-12T09:12:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17538,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-05-12T09:11:36Z",
@@ -2593,8 +2582,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17539",
-      "LastCommitSHA": "496a5f5fa181e912a2c36d56261808549a077c03",
-      "LastCommitAt": "2023-05-12T09:50:56Z",
+      "LastCommitSHA": "976ce0c0cdd8a437fe05085cee8362147f006a1b",
+      "LastCommitAt": "2023-05-12T10:46:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
