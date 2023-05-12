@@ -1865,9 +1865,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17411",
-      "LastCommitSHA": "bdaebce9f638ac92b7e2aba37f175ba05cb4391e",
-      "LastCommitAt": "2023-05-11T06:58:58Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "5def3be9a162589e021c0a3624fa8d605049fab6",
+      "LastCommitAt": "2023-05-12T12:09:22Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2394,33 +2394,6 @@
       }
    },
    {
-      "Number": 17507,
-      "OpenedBy": "franramirez688",
-      "CreatedAt": "2023-05-10T14:57:24Z",
-      "Recipe": "mosquitto",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17507",
-      "LastCommitSHA": "a8cb43152fa795e460ff282d188c868f6d550f95",
-      "LastCommitAt": "2023-05-12T08:00:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "memsharded"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danicriss",
-            "SubmittedAt": "2023-05-12T10:56:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17507#pullrequestreview-1424258211"
-         }
-      }
-   },
-   {
       "Number": 17514,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-05-11T00:00:01Z",
@@ -2511,16 +2484,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17532",
-      "LastCommitSHA": "18fe8984018ba752a6f5a0414023c12bc99d0ca3",
-      "LastCommitAt": "2023-05-11T22:41:08Z",
+      "LastCommitSHA": "a37449e73d1e97781a045cd1d6332c4a55cccb91",
+      "LastCommitAt": "2023-05-12T12:16:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
