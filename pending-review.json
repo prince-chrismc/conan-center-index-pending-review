@@ -542,17 +542,18 @@
       "LastCommitAt": "2023-05-10T22:53:36Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 1,
+         "Count": 9,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "MartinDelille"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-11T02:08:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17030#pullrequestreview-1421631811"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2023-05-12T10:11:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17030#pullrequestreview-1424194065"
          }
       }
    },
@@ -2575,6 +2576,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17538",
       "LastCommitSHA": "f386935b33836e9a300a8b22a9b9823388a8b404",
       "LastCommitAt": "2023-05-12T09:11:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17539,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-05-12T09:52:04Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17539",
+      "LastCommitSHA": "496a5f5fa181e912a2c36d56261808549a077c03",
+      "LastCommitAt": "2023-05-12T09:50:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
