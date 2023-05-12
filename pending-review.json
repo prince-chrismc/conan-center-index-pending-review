@@ -136,25 +136,6 @@
       }
    },
    {
-      "Number": 16471,
-      "OpenedBy": "wbehrens-on-gh",
-      "CreatedAt": "2023-03-08T16:36:32Z",
-      "Recipe": "libnl",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16471",
-      "LastCommitSHA": "7be629995756cd86456fa57c74fff8f854dc1efc",
-      "LastCommitAt": "2023-05-11T13:18:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 16528,
       "OpenedBy": "psyinf",
       "CreatedAt": "2023-03-11T20:59:12Z",
@@ -538,9 +519,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17032",
-      "LastCommitSHA": "f17c76699057dd0627571cad4dfb675d2f825bcd",
-      "LastCommitAt": "2023-05-09T18:00:40Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "1938634cfe7877a6c7e6568c66c4d29de01a2c0d",
+      "LastCommitAt": "2023-05-12T22:11:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
