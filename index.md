@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **110** pull requests currently under way :detective:
+There are **111** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -51,7 +51,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16785](https://github.com/conan-io/conan-center-index/pull/16785)|[db4](https://github.com/db4)|Mar 30|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16865](https://github.com/conan-io/conan-center-index/pull/16865)|[Jihadist](https://github.com/Jihadist)|Apr 3|:new: aggeom-agg|M|8|May 2||
 [#17025](https://github.com/conan-io/conan-center-index/pull/17025)|[SSE4](https://github.com/SSE4)|Apr 14|:stopwatch: vvenc|M|3|Apr 14 :bell:|uilianries|
-[#17030](https://github.com/conan-io/conan-center-index/pull/17030)|[SpaceIm](https://github.com/SpaceIm)|Apr 14|:stopwatch: qt|L|8|May 11||jwillikers
+[#17030](https://github.com/conan-io/conan-center-index/pull/17030)|[SpaceIm](https://github.com/SpaceIm)|Apr 14|:stopwatch: qt|L|9|May 12||jwillikers, MartinDelille
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|0|||
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|:eyes:||
 [#17051](https://github.com/conan-io/conan-center-index/pull/17051)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 17|:memo: doxygen|:blue_square: S|0|:eyes:||
@@ -136,7 +136,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17532](https://github.com/conan-io/conan-center-index/pull/17532)|[coryan](https://github.com/coryan)|May 11|:stopwatch: googleapis|:blue_square: S|1|May 12||RubenRBS
 [#17534](https://github.com/conan-io/conan-center-index/pull/17534)|[toge](https://github.com/toge)|May 12|:memo: quill|:blue_square: S|1|May 12||RubenRBS
 [#17537](https://github.com/conan-io/conan-center-index/pull/17537)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|May 12|:stopwatch: openexr|:green_circle: XS|0|||
-[#17538](https://github.com/conan-io/conan-center-index/pull/17538)|[conan-center-bot](https://github.com/conan-center-bot)|May 12|:stopwatch: .c3i|:blue_square: S|0|||
+[#17538](https://github.com/conan-io/conan-center-index/pull/17538)|[conan-center-bot](https://github.com/conan-center-bot)|May 12|:gear: .c3i|:blue_square: S|0|||
+[#17539](https://github.com/conan-io/conan-center-index/pull/17539)|[MartinDelille](https://github.com/MartinDelille)|May 12|:stopwatch: qt|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -157,9 +158,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 285
+	- Open: 286
 	- Draft: 31
-	- Average Age: 68 days, 6 hours, and 29.37 minutes
+	- Average Age: 68 days, 1 hours, and 46.01 minutes
 	- Stop Label: 127
 	
 
