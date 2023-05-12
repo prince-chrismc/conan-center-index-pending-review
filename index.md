@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **112** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -33,7 +33,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|L|0|:eyes:||
 [#16134](https://github.com/conan-io/conan-center-index/pull/16134)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 19|:stopwatch: bgfx|L|5|Apr 28 :bell:||
 [#16385](https://github.com/conan-io/conan-center-index/pull/16385)|[gjasny](https://github.com/gjasny)|Mar 4|:stopwatch: libdb|M|0|:eyes:||
-[#16471](https://github.com/conan-io/conan-center-index/pull/16471)|[wbehrens-on-gh](https://github.com/wbehrens-on-gh)|Mar 8|:stopwatch: libnl|L|0|||
 [#16528](https://github.com/conan-io/conan-center-index/pull/16528)|[psyinf](https://github.com/psyinf)|Mar 11|:stopwatch: vsg|L|0|||
 [#16569](https://github.com/conan-io/conan-center-index/pull/16569)|[jdoubleu](https://github.com/jdoubleu)|Mar 15|:memo: zbar|L|7|May 12||uilianries
 [#16587](https://github.com/conan-io/conan-center-index/pull/16587)|[nicosmd](https://github.com/nicosmd)|Mar 16|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
@@ -51,7 +50,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16785](https://github.com/conan-io/conan-center-index/pull/16785)|[db4](https://github.com/db4)|Mar 30|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16865](https://github.com/conan-io/conan-center-index/pull/16865)|[Jihadist](https://github.com/Jihadist)|Apr 3|:new: aggeom-agg|M|8|May 2||
 [#17025](https://github.com/conan-io/conan-center-index/pull/17025)|[SSE4](https://github.com/SSE4)|Apr 14|:stopwatch: vvenc|M|3|Apr 14 :bell:|uilianries|
-[#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|0|:eyes:||
+[#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|0|||
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|:eyes:||
 [#17051](https://github.com/conan-io/conan-center-index/pull/17051)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 17|:memo: doxygen|:blue_square: S|0|:eyes:||
 [#17096](https://github.com/conan-io/conan-center-index/pull/17096)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: cpprestsdk|M|0|:eyes:||
@@ -163,8 +162,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 286
 	- Draft: 29
-	- Average Age: 68 days, 7 hours, and 11.21 minutes
-	- Stop Label: 127
+	- Average Age: 68 days, 9 hours, and 12.55 minutes
+	- Stop Label: 128
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
