@@ -23,13 +23,14 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **112** pull requests currently under way :detective:
+There are **114** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|L|24|Feb 16 :bell:||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:memo: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|3|May 10||jwillikers
+[#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:stopwatch: qt|M|4|Feb 14 :bell:||
 [#16095](https://github.com/conan-io/conan-center-index/pull/16095)|[Pro](https://github.com/Pro)|Feb 17|:stopwatch: cunit|L|12|Apr 19 :bell:||
 [#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|L|0|:eyes:||
 [#16134](https://github.com/conan-io/conan-center-index/pull/16134)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 19|:stopwatch: bgfx|L|5|Apr 28 :bell:||
@@ -139,11 +140,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17550](https://github.com/conan-io/conan-center-index/pull/17550)|[BrettDong](https://github.com/BrettDong)|May 13|:stopwatch: quill|:green_circle: XS|0|||
 [#17551](https://github.com/conan-io/conan-center-index/pull/17551)|[BrettDong](https://github.com/BrettDong)|May 13|:stopwatch: asio|:green_circle: XS|0|||
 [#17552](https://github.com/conan-io/conan-center-index/pull/17552)|[conan-center-bot](https://github.com/conan-center-bot)|May 13|:gear: .c3i|:green_circle: XS|1|May 13||SSE4
+[#17553](https://github.com/conan-io/conan-center-index/pull/17553)|[leha-bot](https://github.com/leha-bot)|May 13|:stopwatch: freeglut|:green_circle: XS|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -153,9 +155,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|5|prince-chrismc, ericLemanissier
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|3|prince-chrismc, SSE4
-[#17282](https://github.com/conan-io/conan-center-index/pull/17282)|[valgur](https://github.com/valgur)|Apr 27|:new: liblzf|5|prince-chrismc, SSE4
 [#17313](https://github.com/conan-io/conan-center-index/pull/17313)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Apr 29|:warning: flatbuffers|11|jcar87, jwillikers
-[#17459](https://github.com/conan-io/conan-center-index/pull/17459)|[DavidAce](https://github.com/DavidAce)|May 8|:memo: h5pp|2|danimtb, SSE4
 [#17525](https://github.com/conan-io/conan-center-index/pull/17525)|[zillemarco](https://github.com/zillemarco)|May 11|:memo: physx|2|prince-chrismc, SSE4
 [#17532](https://github.com/conan-io/conan-center-index/pull/17532)|[coryan](https://github.com/coryan)|May 11|:warning: googleapis|4|RubenRBS, SSE4
 
@@ -166,10 +166,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 288
+	- Open: 287
 	- Draft: 29
-	- Average Age: 68 days, 6 hours, and 47.43 minutes
-	- Stop Label: 124
+	- Average Age: 68 days, 11 hours, and 43.69 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
