@@ -893,7 +893,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17173",
       "LastCommitSHA": "70db8ccd691efc3f9ca384a20b356b8782c34a07",
       "LastCommitAt": "2023-05-12T18:42:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -2704,25 +2704,6 @@
             "SubmittedAt": "2023-05-13T07:56:50Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17548#pullrequestreview-1425357804"
          }
-      }
-   },
-   {
-      "Number": 17550,
-      "OpenedBy": "BrettDong",
-      "CreatedAt": "2023-05-13T02:45:58Z",
-      "Recipe": "quill",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17550",
-      "LastCommitSHA": "20db5cdd7cad1176d135dd1b5158a6c269154f4b",
-      "LastCommitAt": "2023-05-13T02:45:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
