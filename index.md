@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16696](https://github.com/conan-io/conan-center-index/pull/16696)|[toge](https://github.com/toge)|Mar 24|:stopwatch: naive-tsearch|L|0|:eyes:||
 [#16698](https://github.com/conan-io/conan-center-index/pull/16698)|[Woazim](https://github.com/Woazim)|Mar 25|:stopwatch: imagl|L|4|Apr 11 :bell:||jwillikers
 [#16704](https://github.com/conan-io/conan-center-index/pull/16704)|[spnda](https://github.com/spnda)|Mar 25|:new: fastgltf|M|7|Apr 19 :bell:||
-[#16750](https://github.com/conan-io/conan-center-index/pull/16750)|[gouriano](https://github.com/gouriano)|Mar 28|:stopwatch: ncbi-cxx-toolkit-public|L|8|May 2||
+[#16750](https://github.com/conan-io/conan-center-index/pull/16750)|[gouriano](https://github.com/gouriano)|Mar 28|:stopwatch: ncbi-cxx-toolkit-public|L|8|May 2 :bell:||
 [#16782](https://github.com/conan-io/conan-center-index/pull/16782)|[puetzk](https://github.com/puetzk)|Mar 29|:stopwatch: apr|:green_circle: XS|0|:eyes:||
 [#16785](https://github.com/conan-io/conan-center-index/pull/16785)|[db4](https://github.com/db4)|Mar 30|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16865](https://github.com/conan-io/conan-center-index/pull/16865)|[Jihadist](https://github.com/Jihadist)|Apr 3|:new: aggeom-agg|M|8|May 2||
@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17323](https://github.com/conan-io/conan-center-index/pull/17323)|[swebb2066](https://github.com/swebb2066)|Apr 30|:stopwatch: apr|M|0|:eyes:||
 [#17326](https://github.com/conan-io/conan-center-index/pull/17326)|[toge](https://github.com/toge)|Apr 30|:stopwatch: miniaudio|:blue_square: S|1|May 1 :bell:||jwillikers
 [#17327](https://github.com/conan-io/conan-center-index/pull/17327)|[toge](https://github.com/toge)|Apr 30|:stopwatch: libnfs|:blue_square: S|1|May 1 :bell:||jwillikers
-[#17329](https://github.com/conan-io/conan-center-index/pull/17329)|[toge](https://github.com/toge)|May 1|:stopwatch: lua|:blue_square: S|1|May 1 :bell:||jwillikers
+[#17329](https://github.com/conan-io/conan-center-index/pull/17329)|[toge](https://github.com/toge)|May 1|:memo: lua|:blue_square: S|1|May 1 :bell:||jwillikers
 [#17332](https://github.com/conan-io/conan-center-index/pull/17332)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: xqilla|L|1|May 1 :bell:||jwillikers
 [#17334](https://github.com/conan-io/conan-center-index/pull/17334)|[bobrofon](https://github.com/bobrofon)|May 1|:memo: sdbus-cpp|:green_circle: XS|2|May 4||jwillikers
 [#17336](https://github.com/conan-io/conan-center-index/pull/17336)|[toge](https://github.com/toge)|May 1|:memo: visit_struct|L|1|May 1 :bell:||jwillikers
@@ -140,8 +140,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17560](https://github.com/conan-io/conan-center-index/pull/17560)|[conan-center-bot](https://github.com/conan-center-bot)|May 14|:gear: .c3i|:green_circle: XS|0|||
 [#17561](https://github.com/conan-io/conan-center-index/pull/17561)|[SpaceIm](https://github.com/SpaceIm)|May 14|:memo: zbar|M|1|May 14||jwillikers
 [#17562](https://github.com/conan-io/conan-center-index/pull/17562)|[jwillikers](https://github.com/jwillikers)|May 14|:stopwatch: boost|L|0|||
-[#17564](https://github.com/conan-io/conan-center-index/pull/17564)|[coryan](https://github.com/coryan)|May 14|:stopwatch: grpc-proto|:green_circle: XS|0|||
-[#17565](https://github.com/conan-io/conan-center-index/pull/17565)|[toge](https://github.com/toge)|May 14|:stopwatch: pcg-cpp|:blue_square: S|0|||
+[#17564](https://github.com/conan-io/conan-center-index/pull/17564)|[coryan](https://github.com/coryan)|May 14|:memo: grpc-proto|:green_circle: XS|0|||
+[#17565](https://github.com/conan-io/conan-center-index/pull/17565)|[toge](https://github.com/toge)|May 14|:memo: pcg-cpp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -165,7 +165,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 286
 	- Draft: 29
-	- Average Age: 69 days, 7 hours, and 34.11 minutes
+	- Average Age: 69 days, 8 hours, and 37.47 minutes
 	- Stop Label: 125
 	
 
