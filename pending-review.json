@@ -1934,6 +1934,30 @@
       }
    },
    {
+      "Number": 17428,
+      "OpenedBy": "kwach",
+      "CreatedAt": "2023-05-06T15:43:30Z",
+      "Recipe": "libmemcached",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17428",
+      "LastCommitSHA": "71f598f17b1da29ce4d4b923b54e0f6286c66030",
+      "LastCommitAt": "2023-05-14T19:04:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-05-09T15:02:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17428#pullrequestreview-1418817797"
+         }
+      }
+   },
+   {
       "Number": 17437,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-05-07T11:29:21Z",
@@ -2457,16 +2481,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17539",
-      "LastCommitSHA": "3f7364ef0af65973d204ba61dbbf891a356138b9",
-      "LastCommitAt": "2023-05-12T17:16:31Z",
+      "LastCommitSHA": "22196dcb539d23b0ebbbb5b3e5c04f7d13c27905",
+      "LastCommitAt": "2023-05-14T20:20:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
