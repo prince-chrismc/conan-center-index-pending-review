@@ -129,7 +129,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17514](https://github.com/conan-io/conan-center-index/pull/17514)|[conan-center-bot](https://github.com/conan-center-bot)|May 11|:gear: .c3i|:green_circle: XS|2|May 13||SSE4
 [#17516](https://github.com/conan-io/conan-center-index/pull/17516)|[christapley](https://github.com/christapley)|May 11|:stopwatch: boost|:blue_square: S|0|:eyes:||
 [#17521](https://github.com/conan-io/conan-center-index/pull/17521)|[mpimenov](https://github.com/mpimenov)|May 11|:stopwatch: arrow|L|0|:eyes:||
-[#17532](https://github.com/conan-io/conan-center-index/pull/17532)|[coryan](https://github.com/coryan)|May 11|:memo: googleapis|:blue_square: S|5|May 13||RubenRBS
 [#17538](https://github.com/conan-io/conan-center-index/pull/17538)|[conan-center-bot](https://github.com/conan-center-bot)|May 12|:gear: .c3i|:blue_square: S|0|||
 [#17539](https://github.com/conan-io/conan-center-index/pull/17539)|[MartinDelille](https://github.com/MartinDelille)|May 12|:stopwatch: qt|L|2|May 13||jwillikers
 [#17545](https://github.com/conan-io/conan-center-index/pull/17545)|[toge](https://github.com/toge)|May 12|:stopwatch: mppp|:blue_square: S|0|||
@@ -141,11 +140,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17560](https://github.com/conan-io/conan-center-index/pull/17560)|[conan-center-bot](https://github.com/conan-center-bot)|May 14|:gear: .c3i|:green_circle: XS|0|||
 [#17561](https://github.com/conan-io/conan-center-index/pull/17561)|[SpaceIm](https://github.com/SpaceIm)|May 14|:memo: zbar|M|1|May 14||jwillikers
 [#17562](https://github.com/conan-io/conan-center-index/pull/17562)|[jwillikers](https://github.com/jwillikers)|May 14|:stopwatch: boost|L|0|||
+[#17563](https://github.com/conan-io/conan-center-index/pull/17563)|[toge](https://github.com/toge)|May 14|:stopwatch: pfr|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -154,6 +154,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|3|prince-chrismc, SSE4
 [#17525](https://github.com/conan-io/conan-center-index/pull/17525)|[zillemarco](https://github.com/zillemarco)|May 11|:memo: physx|2|prince-chrismc, SSE4
+[#17532](https://github.com/conan-io/conan-center-index/pull/17532)|[coryan](https://github.com/coryan)|May 11|:memo: googleapis|6|RubenRBS, SSE4
 
 
 #### :clipboard: Statistics
@@ -162,9 +163,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 285
+	- Open: 286
 	- Draft: 29
-	- Average Age: 69 days, 10 hours, and 38.31 minutes
+	- Average Age: 69 days, 5 hours, and 49.17 minutes
 	- Stop Label: 125
 	
 
