@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17329](https://github.com/conan-io/conan-center-index/pull/17329)|[toge](https://github.com/toge)|May 1|:stopwatch: lua|:blue_square: S|1|May 1 :bell:||jwillikers
 [#17332](https://github.com/conan-io/conan-center-index/pull/17332)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: xqilla|L|1|May 1 :bell:||jwillikers
 [#17334](https://github.com/conan-io/conan-center-index/pull/17334)|[bobrofon](https://github.com/bobrofon)|May 1|:memo: sdbus-cpp|:green_circle: XS|2|May 4||jwillikers
-[#17336](https://github.com/conan-io/conan-center-index/pull/17336)|[toge](https://github.com/toge)|May 1|:stopwatch: visit_struct|L|1|May 1 :bell:||jwillikers
+[#17336](https://github.com/conan-io/conan-center-index/pull/17336)|[toge](https://github.com/toge)|May 1|:memo: visit_struct|L|1|May 1 :bell:||jwillikers
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|4|May 8|jcar87|jwillikers, prince-chrismc
 [#17346](https://github.com/conan-io/conan-center-index/pull/17346)|[valgur](https://github.com/valgur)|May 1|:new: console_bridge|L|0|:eyes:||
 [#17355](https://github.com/conan-io/conan-center-index/pull/17355)|[jwillikers](https://github.com/jwillikers)|May 1|:stopwatch: avahi|:green_circle: XS|0|:eyes:||
@@ -140,12 +140,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17560](https://github.com/conan-io/conan-center-index/pull/17560)|[conan-center-bot](https://github.com/conan-center-bot)|May 14|:gear: .c3i|:green_circle: XS|0|||
 [#17561](https://github.com/conan-io/conan-center-index/pull/17561)|[SpaceIm](https://github.com/SpaceIm)|May 14|:memo: zbar|M|1|May 14||jwillikers
 [#17562](https://github.com/conan-io/conan-center-index/pull/17562)|[jwillikers](https://github.com/jwillikers)|May 14|:stopwatch: boost|L|0|||
-[#17563](https://github.com/conan-io/conan-center-index/pull/17563)|[toge](https://github.com/toge)|May 14|:stopwatch: pfr|:green_circle: XS|0|||
+[#17564](https://github.com/conan-io/conan-center-index/pull/17564)|[coryan](https://github.com/coryan)|May 14|:stopwatch: grpc-proto|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -154,7 +154,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17254](https://github.com/conan-io/conan-center-index/pull/17254)|[Nekto89](https://github.com/Nekto89)|Apr 26|:warning: cryptopp|3|prince-chrismc, SSE4
 [#17525](https://github.com/conan-io/conan-center-index/pull/17525)|[zillemarco](https://github.com/zillemarco)|May 11|:memo: physx|2|prince-chrismc, SSE4
-[#17532](https://github.com/conan-io/conan-center-index/pull/17532)|[coryan](https://github.com/coryan)|May 11|:memo: googleapis|6|RubenRBS, SSE4
 
 
 #### :clipboard: Statistics
@@ -165,7 +164,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 286
 	- Draft: 29
-	- Average Age: 69 days, 5 hours, and 49.17 minutes
+	- Average Age: 69 days, 6 hours, and 39.07 minutes
 	- Stop Label: 125
 	
 
