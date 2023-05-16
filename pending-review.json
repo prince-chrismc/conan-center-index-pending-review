@@ -1476,7 +1476,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17358",
       "LastCommitSHA": "0aa0a8217ac042f5f70d0dbc32549db9a4a296d1",
       "LastCommitAt": "2023-05-04T19:09:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 2,
@@ -2567,6 +2567,25 @@
             "SubmittedAt": "2023-05-15T12:26:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17573#pullrequestreview-1426445798"
          }
+      }
+   },
+   {
+      "Number": 17575,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-05-15T15:15:21Z",
+      "Recipe": "embag",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17575",
+      "LastCommitSHA": "ec400a6eb2787470dd70fdb66f706d55b6b30786",
+      "LastCommitAt": "2023-05-16T09:24:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
