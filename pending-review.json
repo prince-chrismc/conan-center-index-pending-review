@@ -2579,7 +2579,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17579",
       "LastCommitSHA": "fc86a104027534f587ac160c73ba56055686d7d9",
       "LastCommitAt": "2023-05-15T21:18:17Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -2605,7 +2605,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17583",
       "LastCommitSHA": "c3908493ef02a6b4df787645abcb47f3997aad17",
       "LastCommitAt": "2023-05-16T08:14:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2624,6 +2624,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17584",
       "LastCommitSHA": "b9a55c249dc7fbe88c89346ce42af13452a8da5c",
       "LastCommitAt": "2023-05-16T08:34:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17586,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-05-16T09:36:39Z",
+      "Recipe": "libxml2",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17586",
+      "LastCommitSHA": "69cc1b0e2a02eca0169a370e68139cc2b38948ef",
+      "LastCommitAt": "2023-05-16T09:35:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
