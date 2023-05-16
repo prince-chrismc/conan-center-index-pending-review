@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **112** pull requests currently under way :detective:
+There are **113** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -136,9 +136,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17568](https://github.com/conan-io/conan-center-index/pull/17568)|[zajo](https://github.com/zajo)|May 14|:stopwatch: boost-leaf|:green_circle: XS|0|||
 [#17570](https://github.com/conan-io/conan-center-index/pull/17570)|[joakimono](https://github.com/joakimono)|May 15|:memo: gklib|L|0|||
 [#17573](https://github.com/conan-io/conan-center-index/pull/17573)|[joakimono](https://github.com/joakimono)|May 15|:stopwatch: metis|L|2|May 15||
-[#17579](https://github.com/conan-io/conan-center-index/pull/17579)|[robomics](https://github.com/robomics)|May 15|:memo: bshoshany-thread-pool|M|1|May 16||RubenRBS
-[#17583](https://github.com/conan-io/conan-center-index/pull/17583)|[toge](https://github.com/toge)|May 16|:stopwatch: blend2d|:blue_square: S|0|||
+[#17579](https://github.com/conan-io/conan-center-index/pull/17579)|[robomics](https://github.com/robomics)|May 15|:stopwatch: bshoshany-thread-pool|M|1|May 16||RubenRBS
+[#17583](https://github.com/conan-io/conan-center-index/pull/17583)|[toge](https://github.com/toge)|May 16|:memo: blend2d|:blue_square: S|0|||
 [#17584](https://github.com/conan-io/conan-center-index/pull/17584)|[ericLemanissier](https://github.com/ericLemanissier)|May 16|:stopwatch: harfbuzz|:blue_square: S|0|||
+[#17586](https://github.com/conan-io/conan-center-index/pull/17586)|[toge](https://github.com/toge)|May 16|:stopwatch: libxml2|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -160,9 +161,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 284
+	- Open: 285
 	- Draft: 30
-	- Average Age: 71 days, 4 hours, and 34.65 minutes
+	- Average Age: 70 days, 23 hours, and 35.37 minutes
 	- Stop Label: 125
 	
 
