@@ -2552,5 +2552,24 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17600#pullrequestreview-1430891786"
          }
       }
+   },
+   {
+      "Number": 17604,
+      "OpenedBy": "amrox",
+      "CreatedAt": "2023-05-17T22:47:17Z",
+      "Recipe": "ignition-tools",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17604",
+      "LastCommitSHA": "9b5c01018bfa080aae3b44faf42122437b7d55dd",
+      "LastCommitAt": "2023-05-17T22:41:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
