@@ -1238,7 +1238,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17323",
       "LastCommitSHA": "a2c1a5d7f17ac32b15f9314aa20564df12c9d005",
       "LastCommitAt": "2023-05-17T15:14:39Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -2527,6 +2527,30 @@
       }
    },
    {
+      "Number": 17594,
+      "OpenedBy": "samuaz",
+      "CreatedAt": "2023-05-17T05:06:27Z",
+      "Recipe": "mysql-connector-cpp",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17594",
+      "LastCommitSHA": "5824edfcd25a8759aea6d2a8446501c6fce15a98",
+      "LastCommitAt": "2023-05-17T16:15:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "sazconaitbit",
+            "SubmittedAt": "2023-05-17T16:06:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17594#pullrequestreview-1431083989"
+         }
+      }
+   },
+   {
       "Number": 17595,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-05-17T07:24:27Z",
@@ -2576,6 +2600,25 @@
             "SubmittedAt": "2023-05-17T14:49:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17600#pullrequestreview-1430891786"
          }
+      }
+   },
+   {
+      "Number": 17601,
+      "OpenedBy": "paulocoutinhox",
+      "CreatedAt": "2023-05-17T17:07:54Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17601",
+      "LastCommitSHA": "a8f183ee8bcf11658e6d150fb8fbcdd565a19b8d",
+      "LastCommitAt": "2023-05-17T17:07:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
