@@ -140,7 +140,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17590](https://github.com/conan-io/conan-center-index/pull/17590)|[simoncent](https://github.com/simoncent)|May 16|:memo: opus|:green_circle: XS|0|||
 [#17592](https://github.com/conan-io/conan-center-index/pull/17592)|[toge](https://github.com/toge)|May 16|:stopwatch: mailio|M|0|||
 [#17595](https://github.com/conan-io/conan-center-index/pull/17595)|[conan-center-bot](https://github.com/conan-center-bot)|May 17|:gear: .c3i|:green_circle: XS|1|May 17||RubenRBS
-[#17597](https://github.com/conan-io/conan-center-index/pull/17597)|[Cogitri](https://github.com/Cogitri)|May 17|:memo: turtle|M|1|May 17|RubenRBS|
+[#17598](https://github.com/conan-io/conan-center-index/pull/17598)|[coryan](https://github.com/coryan)|May 17|:stopwatch: grpc-proto|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -160,9 +160,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 282
+	- Open: 283
 	- Draft: 31
-	- Average Age: 72 days, 10 hours, and 13.58 minutes
+	- Average Age: 72 days, 5 hours, and 1.57 minutes
 	- Stop Label: 123
 	
 
