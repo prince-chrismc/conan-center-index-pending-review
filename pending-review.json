@@ -2635,5 +2635,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17594,
+      "OpenedBy": "samuaz",
+      "CreatedAt": "2023-05-17T05:06:27Z",
+      "Recipe": "mysql-connector-cpp",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17594",
+      "LastCommitSHA": "dfa1957bd2328063abaa1503cca85c3087e7257e",
+      "LastCommitAt": "2023-05-17T05:09:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
