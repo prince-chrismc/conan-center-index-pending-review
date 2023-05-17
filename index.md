@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **114** pull requests currently under way :detective:
+There are **115** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -140,7 +140,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17586](https://github.com/conan-io/conan-center-index/pull/17586)|[toge](https://github.com/toge)|May 16|:memo: libxml2|:blue_square: S|3|May 16||RubenRBS
 [#17590](https://github.com/conan-io/conan-center-index/pull/17590)|[simoncent](https://github.com/simoncent)|May 16|:memo: opus|:green_circle: XS|0|||
 [#17592](https://github.com/conan-io/conan-center-index/pull/17592)|[toge](https://github.com/toge)|May 16|:stopwatch: mailio|M|0|||
-[#17595](https://github.com/conan-io/conan-center-index/pull/17595)|[conan-center-bot](https://github.com/conan-center-bot)|May 17|:gear: .c3i|:green_circle: XS|0|||
+[#17595](https://github.com/conan-io/conan-center-index/pull/17595)|[conan-center-bot](https://github.com/conan-center-bot)|May 17|:gear: .c3i|:green_circle: XS|1|May 17||RubenRBS
+[#17597](https://github.com/conan-io/conan-center-index/pull/17597)|[Cogitri](https://github.com/Cogitri)|May 17|:stopwatch: turtle|M|1|May 17|RubenRBS|
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -152,7 +153,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|5|prince-chrismc, ericLemanissier
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
-[#17525](https://github.com/conan-io/conan-center-index/pull/17525)|[zillemarco](https://github.com/zillemarco)|May 11|:memo: physx|3|prince-chrismc, SSE4, RubenRBS
+[#17525](https://github.com/conan-io/conan-center-index/pull/17525)|[zillemarco](https://github.com/zillemarco)|May 11|:warning: physx|3|prince-chrismc, SSE4, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -161,9 +162,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 282
+	- Open: 283
 	- Draft: 30
-	- Average Age: 72 days, 8 hours, and 45.42 minutes
+	- Average Age: 72 days, 3 hours, and 34.04 minutes
 	- Stop Label: 124
 	
 
