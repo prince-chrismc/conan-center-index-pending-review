@@ -2585,24 +2585,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17595#pullrequestreview-1430136333"
          }
       }
-   },
-   {
-      "Number": 17598,
-      "OpenedBy": "coryan",
-      "CreatedAt": "2023-05-17T10:56:30Z",
-      "Recipe": "grpc-proto",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17598",
-      "LastCommitSHA": "491f46d25865fda5ee03242da6797d4ef868479f",
-      "LastCommitAt": "2023-05-17T10:52:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
