@@ -2587,29 +2587,22 @@
       }
    },
    {
-      "Number": 17597,
-      "OpenedBy": "Cogitri",
-      "CreatedAt": "2023-05-17T08:54:38Z",
-      "Recipe": "turtle",
+      "Number": 17598,
+      "OpenedBy": "coryan",
+      "CreatedAt": "2023-05-17T10:56:30Z",
+      "Recipe": "grpc-proto",
       "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17597",
-      "LastCommitSHA": "4158b3421bc0de4335901cc0c7d00200a5bb1470",
-      "LastCommitAt": "2023-05-17T08:58:01Z",
-      "CciBotPassed": true,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17598",
+      "LastCommitSHA": "491f46d25865fda5ee03242da6797d4ef868479f",
+      "LastCommitAt": "2023-05-17T10:52:42Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 0,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": [
-            "RubenRBS"
-         ],
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-17T08:56:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17597#pullrequestreview-1430158485"
-         }
+         "Blockers": null
       }
    }
 ]
