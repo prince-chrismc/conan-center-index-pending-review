@@ -2353,17 +2353,18 @@
       "LastCommitAt": "2023-05-15T15:52:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "RubenRBS"
+            "RubenRBS",
+            "ericLemanissier"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-15T17:58:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17529#pullrequestreview-1427081726"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-05-17T06:04:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17529#pullrequestreview-1429872175"
          }
       }
    },
@@ -2379,15 +2380,17 @@
       "LastCommitAt": "2023-05-15T13:43:59Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
+         "Count": 3,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "ericLemanissier"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-13T15:39:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17539#pullrequestreview-1425429209"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-05-17T06:01:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17539#pullrequestreview-1429868112"
          }
       }
    },
@@ -2627,25 +2630,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17592",
       "LastCommitSHA": "00bb76220dcda12f7b71169b34f702fc84f9679f",
       "LastCommitAt": "2023-05-16T20:37:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17594,
-      "OpenedBy": "samuaz",
-      "CreatedAt": "2023-05-17T05:06:27Z",
-      "Recipe": "mysql-connector-cpp",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17594",
-      "LastCommitSHA": "dfa1957bd2328063abaa1503cca85c3087e7257e",
-      "LastCommitAt": "2023-05-17T05:09:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
