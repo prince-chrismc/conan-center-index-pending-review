@@ -197,17 +197,19 @@
       "LastCommitAt": "2023-05-17T19:55:04Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "franramirez688"
+         ],
          "Blockers": [
             "RubenRBS"
          ],
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-17T14:45:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16528#pullrequestreview-1430879735"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-05-18T05:47:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16528#pullrequestreview-1432041069"
          }
       }
    },
