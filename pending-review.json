@@ -1359,16 +1359,14 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17334",
-      "LastCommitSHA": "117bb1914911f22bffd3f20f8cb4a20e9ab48f49",
-      "LastCommitAt": "2023-05-06T08:02:44Z",
+      "LastCommitSHA": "3e5b6641182022371f50e1c6eb709de24460dd63",
+      "LastCommitAt": "2023-05-18T18:09:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
@@ -2708,25 +2706,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17618",
       "LastCommitSHA": "512309fb4085c34da13593fe4c90928f45b755fe",
       "LastCommitAt": "2023-05-18T16:13:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17619,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-05-18T16:53:17Z",
-      "Recipe": "skyr-url",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17619",
-      "LastCommitSHA": "b3d2c8ab784d1c84703790a45018cadf4bd83dbb",
-      "LastCommitAt": "2023-05-18T16:51:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
