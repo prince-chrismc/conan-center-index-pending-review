@@ -635,7 +635,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17045",
       "LastCommitSHA": "6ba3281cd305b899747d8927373ae3fe85b061fc",
       "LastCommitAt": "2023-04-17T19:28:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1233,7 +1233,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17322",
       "LastCommitSHA": "67e0f6852ce382e91f7f8168a583e430122fb8e5",
       "LastCommitAt": "2023-04-30T06:01:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1363,15 +1363,17 @@
       "LastCommitAt": "2023-05-18T18:09:40Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "franramirez688"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-18T12:06:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17334#pullrequestreview-1432575513"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-05-18T21:44:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17334#pullrequestreview-1433496772"
          }
       }
    },
@@ -1535,7 +1537,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17374",
       "LastCommitSHA": "d86c1c29539cf8a220ddbed314e5cedd88bc4e2c",
       "LastCommitAt": "2023-05-09T06:52:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -2464,7 +2466,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17589",
       "LastCommitSHA": "1bcc76883d5a3d8a19a27141b643a6c0b4acbacb",
       "LastCommitAt": "2023-05-18T20:33:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
