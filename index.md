@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **114** pull requests currently under way :detective:
+There are **117** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -84,7 +84,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17327](https://github.com/conan-io/conan-center-index/pull/17327)|[toge](https://github.com/toge)|Apr 30|:memo: libnfs|:blue_square: S|1|May 1 :bell:||jwillikers
 [#17329](https://github.com/conan-io/conan-center-index/pull/17329)|[toge](https://github.com/toge)|May 1|:stopwatch: lua|:blue_square: S|1|May 1 :bell:||
 [#17332](https://github.com/conan-io/conan-center-index/pull/17332)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: xqilla|L|1|May 1 :bell:||jwillikers
-[#17334](https://github.com/conan-io/conan-center-index/pull/17334)|[bobrofon](https://github.com/bobrofon)|May 1|:memo: sdbus-cpp|:green_circle: XS|2|May 4 :bell:||jwillikers
+[#17334](https://github.com/conan-io/conan-center-index/pull/17334)|[bobrofon](https://github.com/bobrofon)|May 1|:memo: sdbus-cpp|:green_circle: XS|3|May 18||jwillikers
 [#17336](https://github.com/conan-io/conan-center-index/pull/17336)|[toge](https://github.com/toge)|May 1|:memo: visit_struct|L|1|May 1 :bell:||jwillikers
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|4|May 8|jcar87|jwillikers, prince-chrismc
 [#17346](https://github.com/conan-io/conan-center-index/pull/17346)|[valgur](https://github.com/valgur)|May 1|:new: console_bridge|L|0|:eyes:||
@@ -141,6 +141,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17604](https://github.com/conan-io/conan-center-index/pull/17604)|[amrox](https://github.com/amrox)|May 17|:stopwatch: ignition-tools|:green_circle: XS|0|||
 [#17605](https://github.com/conan-io/conan-center-index/pull/17605)|[toge](https://github.com/toge)|May 18|:stopwatch: duckdb|M|0|||
 [#17606](https://github.com/conan-io/conan-center-index/pull/17606)|[uilianries](https://github.com/uilianries)|May 18|:new: mawk|M|4|May 18||RubenRBS
+[#17607](https://github.com/conan-io/conan-center-index/pull/17607)|[ericLemanissier](https://github.com/ericLemanissier)|May 18|:stopwatch: glib|:green_circle: XS|0|||
+[#17612](https://github.com/conan-io/conan-center-index/pull/17612)|[conan-center-bot](https://github.com/conan-center-bot)|May 18|:gear: .c3i|:green_circle: XS|1|May 18||RubenRBS
+[#17613](https://github.com/conan-io/conan-center-index/pull/17613)|[BrettDong](https://github.com/BrettDong)|May 18|:stopwatch: ghc-filesystem|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -160,10 +163,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 289
+	- Open: 291
 	- Draft: 32
-	- Average Age: 71 days, 11 hours, and 5.84 minutes
-	- Stop Label: 126
+	- Average Age: 71 days, and 32.35 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
