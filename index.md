@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **115** pull requests currently under way :detective:
+There are **114** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -76,6 +76,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:memo: xoshiro-cpp|M|1|May 1 :bell:||jwillikers
 [#17303](https://github.com/conan-io/conan-center-index/pull/17303)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 29|:memo: backward-cpp|M|0|:eyes:||
 [#17304](https://github.com/conan-io/conan-center-index/pull/17304)|[toge](https://github.com/toge)|Apr 29|:memo: simdutf|:blue_square: S|1|Apr 30 :bell:||jwillikers
+[#17311](https://github.com/conan-io/conan-center-index/pull/17311)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Apr 29|:memo: onetbb|:blue_square: S|8|May 18||friendlyanon
 [#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:stopwatch: clickhouse-cpp|L|0|:eyes:||
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:stopwatch: armadillo|L|0|:eyes:||
 [#17322](https://github.com/conan-io/conan-center-index/pull/17322)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 30|:memo: restinio|:green_circle: XS|1|Apr 30 :bell:||jwillikers
@@ -134,14 +135,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:new: embag|M|0|||
 [#17583](https://github.com/conan-io/conan-center-index/pull/17583)|[toge](https://github.com/toge)|May 16|:memo: blend2d|:blue_square: S|0|||
 [#17586](https://github.com/conan-io/conan-center-index/pull/17586)|[toge](https://github.com/toge)|May 16|:memo: libxml2|:blue_square: S|3|May 16||
-[#17589](https://github.com/conan-io/conan-center-index/pull/17589)|[7bitcoder](https://github.com/7bitcoder)|May 16|:new: 7bitdi|L|0|||
 [#17590](https://github.com/conan-io/conan-center-index/pull/17590)|[simoncent](https://github.com/simoncent)|May 16|:memo: opus|:green_circle: XS|0|||
 [#17592](https://github.com/conan-io/conan-center-index/pull/17592)|[toge](https://github.com/toge)|May 16|:stopwatch: mailio|M|1|May 17||
-[#17595](https://github.com/conan-io/conan-center-index/pull/17595)|[conan-center-bot](https://github.com/conan-center-bot)|May 17|:gear: .c3i|:green_circle: XS|1|May 17||RubenRBS
 [#17600](https://github.com/conan-io/conan-center-index/pull/17600)|[bruchar1](https://github.com/bruchar1)|May 17|:stopwatch: qt|:blue_square: S|1|May 17||jwillikers
 [#17604](https://github.com/conan-io/conan-center-index/pull/17604)|[amrox](https://github.com/amrox)|May 17|:stopwatch: ignition-tools|:green_circle: XS|0|||
 [#17605](https://github.com/conan-io/conan-center-index/pull/17605)|[toge](https://github.com/toge)|May 18|:stopwatch: duckdb|M|0|||
-[#17608](https://github.com/conan-io/conan-center-index/pull/17608)|[conan-center-bot](https://github.com/conan-center-bot)|May 18|:gear: .c3i|:green_circle: XS|1|May 18||RubenRBS
+[#17606](https://github.com/conan-io/conan-center-index/pull/17606)|[uilianries](https://github.com/uilianries)|May 18|:stopwatch: mawk|M|4|May 18||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -161,10 +160,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 289
-	- Draft: 31
-	- Average Age: 71 days, 9 hours, and 13.32 minutes
-	- Stop Label: 126
+	- Open: 288
+	- Draft: 32
+	- Average Age: 71 days, 16 hours, and 5.63 minutes
+	- Stop Label: 125
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
