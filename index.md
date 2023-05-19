@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **121** pull requests currently under way :detective:
+There are **123** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -144,10 +144,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17605](https://github.com/conan-io/conan-center-index/pull/17605)|[toge](https://github.com/toge)|May 18|:stopwatch: duckdb|M|0|||
 [#17606](https://github.com/conan-io/conan-center-index/pull/17606)|[uilianries](https://github.com/uilianries)|May 18|:new: mawk|M|4|May 18||RubenRBS
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|||
-[#17614](https://github.com/conan-io/conan-center-index/pull/17614)|[mralexlupu](https://github.com/mralexlupu)|May 18|:stopwatch: gtest|:green_circle: XS|1|May 18||
+[#17614](https://github.com/conan-io/conan-center-index/pull/17614)|[mralexlupu](https://github.com/mralexlupu)|May 18|:stopwatch: gtest|:green_circle: XS|2|May 19||uilianries
 [#17615](https://github.com/conan-io/conan-center-index/pull/17615)|[pskoko](https://github.com/pskoko)|May 18|:stopwatch: wt|:green_circle: XS|0|||
 [#17618](https://github.com/conan-io/conan-center-index/pull/17618)|[toge](https://github.com/toge)|May 18|:memo: libspng|M|0|||
 [#17621](https://github.com/conan-io/conan-center-index/pull/17621)|[tristanpenman](https://github.com/tristanpenman)|May 19|:stopwatch: valijson|:green_circle: XS|0|||
+[#17622](https://github.com/conan-io/conan-center-index/pull/17622)|[ericLemanissier](https://github.com/ericLemanissier)|May 19|:stopwatch: double-conversion|:green_circle: XS|0|||
+[#17625](https://github.com/conan-io/conan-center-index/pull/17625)|[ericLemanissier](https://github.com/ericLemanissier)|May 19|:stopwatch: libxml2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -167,9 +169,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 289
+	- Open: 291
 	- Draft: 30
-	- Average Age: 71 days, 13 hours, and 39.34 minutes
+	- Average Age: 71 days, 2 hours, and 46.41 minutes
 	- Stop Label: 117
 	
 
