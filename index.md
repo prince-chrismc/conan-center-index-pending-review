@@ -133,12 +133,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17618](https://github.com/conan-io/conan-center-index/pull/17618)|[toge](https://github.com/toge)|May 18|:memo: libspng|M|0|||
 [#17621](https://github.com/conan-io/conan-center-index/pull/17621)|[tristanpenman](https://github.com/tristanpenman)|May 19|:stopwatch: valijson|:green_circle: XS|0|||
 [#17629](https://github.com/conan-io/conan-center-index/pull/17629)|[gjasny](https://github.com/gjasny)|May 19|:memo: 7zip|L|3|May 19||jwillikers
-[#17632](https://github.com/conan-io/conan-center-index/pull/17632)|[ericLemanissier](https://github.com/ericLemanissier)|May 19|:stopwatch: xkbcommon|:green_circle: XS|1|May 19||jwillikers
+[#17633](https://github.com/conan-io/conan-center-index/pull/17633)|[toge](https://github.com/toge)|May 19|:stopwatch: libuv|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -151,7 +151,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17441](https://github.com/conan-io/conan-center-index/pull/17441)|[SpaceIm](https://github.com/SpaceIm)|May 7|:warning: dataframe|3|jwillikers, RubenRBS, uilianries
 [#17463](https://github.com/conan-io/conan-center-index/pull/17463)|[bwhitchurch](https://github.com/bwhitchurch)|May 8|:memo: catch2|2|uilianries, danimtb
 [#17579](https://github.com/conan-io/conan-center-index/pull/17579)|[robomics](https://github.com/robomics)|May 15|:memo: bshoshany-thread-pool|2|RubenRBS, jwillikers
-[#17590](https://github.com/conan-io/conan-center-index/pull/17590)|[simoncent](https://github.com/simoncent)|May 16|:memo: opus|2|uilianries, jwillikers
 [#17628](https://github.com/conan-io/conan-center-index/pull/17628)|[RubenRBS](https://github.com/RubenRBS)|May 19|:warning: libcurl|3|jcar87, uilianries
 
 
@@ -163,7 +162,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 283
 	- Draft: 27
-	- Average Age: 72 days, 20 hours, and 26.40 minutes
+	- Average Age: 72 days, 21 hours, and 14.43 minutes
 	- Stop Label: 118
 	
 
