@@ -68,7 +68,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17166](https://github.com/conan-io/conan-center-index/pull/17166)|[SpaceIm](https://github.com/SpaceIm)|Apr 22|:memo: libmediainfo|L|1|May 1 :bell:||jwillikers
 [#17224](https://github.com/conan-io/conan-center-index/pull/17224)|[gummif](https://github.com/gummif)|Apr 25|:memo: zeromq|:green_circle: XS|4|May 18||
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:stopwatch: scip|L|0|:eyes:||
-[#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:memo: z3|L|1|May 7||
+[#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:memo: z3|L|1|May 7 :bell:||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|L|0|||
 [#17264](https://github.com/conan-io/conan-center-index/pull/17264)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: cyclonedds|:blue_square: S|1|Apr 27 :bell:||jwillikers
 [#17268](https://github.com/conan-io/conan-center-index/pull/17268)|[gegles](https://github.com/gegles)|Apr 27|:new: gegles-spdlog_setup|M|2|Apr 27 :bell:||
@@ -128,7 +128,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17570](https://github.com/conan-io/conan-center-index/pull/17570)|[joakimono](https://github.com/joakimono)|May 15|:memo: gklib|L|0|:eyes:||
 [#17573](https://github.com/conan-io/conan-center-index/pull/17573)|[joakimono](https://github.com/joakimono)|May 15|:stopwatch: metis|L|2|May 15||
 [#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:new: embag|M|0|:eyes:||
-[#17589](https://github.com/conan-io/conan-center-index/pull/17589)|[7bitcoder](https://github.com/7bitcoder)|May 16|:stopwatch: 7bitdi|M|3|May 19||
+[#17589](https://github.com/conan-io/conan-center-index/pull/17589)|[7bitcoder](https://github.com/7bitcoder)|May 16|:new: 7bitdi|M|3|May 19||
 [#17592](https://github.com/conan-io/conan-center-index/pull/17592)|[toge](https://github.com/toge)|May 16|:stopwatch: mailio|M|1|May 17||
 [#17600](https://github.com/conan-io/conan-center-index/pull/17600)|[bruchar1](https://github.com/bruchar1)|May 17|:stopwatch: qt|:blue_square: S|1|May 17||jwillikers
 [#17604](https://github.com/conan-io/conan-center-index/pull/17604)|[amrox](https://github.com/amrox)|May 17|:stopwatch: ignition-tools|:green_circle: XS|0|||
@@ -141,14 +141,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#15235](https://github.com/conan-io/conan-center-index/pull/15235)|[Linux13524](https://github.com/Linux13524)|Jan 12|:memo: android-ndk|2|prince-chrismc, danimtb
 [#17126](https://github.com/conan-io/conan-center-index/pull/17126)|[fcelda](https://github.com/fcelda)|Apr 19|:memo: uvw|11|RubenRBS, jwillikers
-[#17158](https://github.com/conan-io/conan-center-index/pull/17158)|[SpaceIm](https://github.com/SpaceIm)|Apr 21|:memo: libmad|2|jwillikers, czoido
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17628](https://github.com/conan-io/conan-center-index/pull/17628)|[RubenRBS](https://github.com/RubenRBS)|May 19|:warning: libcurl|3|jcar87, uilianries
 
@@ -159,9 +158,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
-	- Open: 279
+	- Open: 277
 	- Draft: 27
-	- Average Age: 73 days, 22 hours, and 25.45 minutes
+	- Average Age: 74 days, 9 hours, and 35.51 minutes
 	- Stop Label: 116
 	
 
