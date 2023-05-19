@@ -76,6 +76,32 @@
       }
    },
    {
+      "Number": 15235,
+      "OpenedBy": "Linux13524",
+      "CreatedAt": "2023-01-12T15:26:43Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15235",
+      "LastCommitSHA": "9f575e449f86a6a1eb8e9c06ee2aad8a204de3b7",
+      "LastCommitAt": "2023-05-05T06:16:25Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "prince-chrismc"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-01-16T15:36:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15235#pullrequestreview-1250365552"
+         }
+      }
+   },
+   {
       "Number": 15678,
       "OpenedBy": "sabelka",
       "CreatedAt": "2023-02-02T12:52:55Z",
@@ -163,6 +189,33 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2023-04-28T23:09:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16134#pullrequestreview-1406707134"
+         }
+      }
+   },
+   {
+      "Number": 16313,
+      "OpenedBy": "hellozee",
+      "CreatedAt": "2023-02-27T12:07:10Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16313",
+      "LastCommitSHA": "6c6605aaa8b9d6f94afe5c5f543968b199e702f7",
+      "LastCommitAt": "2023-05-18T14:10:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 7,
+         "ValidApprovals": 2,
+         "TeamApproval": false,
+         "Approvals": [
+            "ericLemanissier",
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-04-26T12:46:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16313#pullrequestreview-1401910343"
          }
       }
    },
