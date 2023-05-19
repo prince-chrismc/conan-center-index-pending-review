@@ -2388,33 +2388,6 @@
       }
    },
    {
-      "Number": 17579,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2023-05-15T20:48:50Z",
-      "Recipe": "bshoshany-thread-pool",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17579",
-      "LastCommitSHA": "fc86a104027534f587ac160c73ba56055686d7d9",
-      "LastCommitAt": "2023-05-15T21:18:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-19T13:14:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17579#pullrequestreview-1434402828"
-         }
-      }
-   },
-   {
       "Number": 17589,
       "OpenedBy": "7bitcoder",
       "CreatedAt": "2023-05-16T15:27:57Z",
