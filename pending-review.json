@@ -916,33 +916,6 @@
       }
    },
    {
-      "Number": 17158,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-21T22:27:43Z",
-      "Recipe": "libmad",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17158",
-      "LastCommitSHA": "8662629332e7072f5ae97dad9ec5ec3e8bc3e4dc",
-      "LastCommitAt": "2023-04-22T09:32:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "czoido"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-05-19T09:36:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17158#pullrequestreview-1434106168"
-         }
-      }
-   },
-   {
       "Number": 17166,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-04-22T19:10:38Z",
@@ -2413,7 +2386,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17589",
       "LastCommitSHA": "423761512317bd2b227aa19a29f89f49d93fd476",
       "LastCommitAt": "2023-05-19T19:21:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
