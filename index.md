@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **123** pull requests currently under way :detective:
+There are **122** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -135,7 +135,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17573](https://github.com/conan-io/conan-center-index/pull/17573)|[joakimono](https://github.com/joakimono)|May 15|:stopwatch: metis|L|2|May 15||
 [#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:new: embag|M|0|||
 [#17579](https://github.com/conan-io/conan-center-index/pull/17579)|[robomics](https://github.com/robomics)|May 15|:memo: bshoshany-thread-pool|M|1|May 16||RubenRBS
-[#17583](https://github.com/conan-io/conan-center-index/pull/17583)|[toge](https://github.com/toge)|May 16|:memo: blend2d|:blue_square: S|0|||
+[#17583](https://github.com/conan-io/conan-center-index/pull/17583)|[toge](https://github.com/toge)|May 16|:memo: blend2d|:blue_square: S|0|:eyes:||
 [#17589](https://github.com/conan-io/conan-center-index/pull/17589)|[7bitcoder](https://github.com/7bitcoder)|May 16|:new: 7bitdi|M|1|May 18||
 [#17590](https://github.com/conan-io/conan-center-index/pull/17590)|[simoncent](https://github.com/simoncent)|May 16|:memo: opus|:green_circle: XS|1|May 18||uilianries
 [#17592](https://github.com/conan-io/conan-center-index/pull/17592)|[toge](https://github.com/toge)|May 16|:stopwatch: mailio|M|1|May 17||
@@ -144,23 +144,23 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17605](https://github.com/conan-io/conan-center-index/pull/17605)|[toge](https://github.com/toge)|May 18|:stopwatch: duckdb|M|0|||
 [#17606](https://github.com/conan-io/conan-center-index/pull/17606)|[uilianries](https://github.com/uilianries)|May 18|:new: mawk|M|4|May 18||RubenRBS
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|||
-[#17614](https://github.com/conan-io/conan-center-index/pull/17614)|[mralexlupu](https://github.com/mralexlupu)|May 18|:stopwatch: gtest|:green_circle: XS|2|May 19||uilianries
+[#17614](https://github.com/conan-io/conan-center-index/pull/17614)|[mralexlupu](https://github.com/mralexlupu)|May 18|:memo: gtest|:green_circle: XS|2|May 19||uilianries
 [#17615](https://github.com/conan-io/conan-center-index/pull/17615)|[pskoko](https://github.com/pskoko)|May 18|:stopwatch: wt|:green_circle: XS|0|||
 [#17618](https://github.com/conan-io/conan-center-index/pull/17618)|[toge](https://github.com/toge)|May 18|:memo: libspng|M|0|||
 [#17621](https://github.com/conan-io/conan-center-index/pull/17621)|[tristanpenman](https://github.com/tristanpenman)|May 19|:stopwatch: valijson|:green_circle: XS|0|||
-[#17622](https://github.com/conan-io/conan-center-index/pull/17622)|[ericLemanissier](https://github.com/ericLemanissier)|May 19|:stopwatch: double-conversion|:green_circle: XS|0|||
-[#17625](https://github.com/conan-io/conan-center-index/pull/17625)|[ericLemanissier](https://github.com/ericLemanissier)|May 19|:stopwatch: libxml2|:green_circle: XS|0|||
+[#17626](https://github.com/conan-io/conan-center-index/pull/17626)|[conan-center-bot](https://github.com/conan-center-bot)|May 19|:gear: .c3i|:green_circle: XS|1|May 19||SSE4
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|5|prince-chrismc, ericLemanissier
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
+[#17610](https://github.com/conan-io/conan-center-index/pull/17610)|[jcar87](https://github.com/jcar87)|May 18|:warning: glib|4|uilianries, davidsanfal, czoido, memsharded
 
 
 #### :clipboard: Statistics
@@ -170,8 +170,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: d553e0df15f013a7b3f558a15f71ba8cfd5d0389
 - Pull Requests:
 	- Open: 291
-	- Draft: 30
-	- Average Age: 71 days, 2 hours, and 46.41 minutes
+	- Draft: 28
+	- Average Age: 71 days, 3 hours, and 47.20 minutes
 	- Stop Label: 117
 	
 
