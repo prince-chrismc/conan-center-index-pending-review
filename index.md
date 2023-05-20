@@ -144,7 +144,7 @@ Currently **2** pull requests are waiting to be merged :tada:
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|7|ericLemanissier, RubenRBS
+[#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|8|ericLemanissier, RubenRBS, jcar87
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 
 
@@ -156,7 +156,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 273
 	- Draft: 27
-	- Average Age: 74 days, 19 hours, and 32.28 minutes
+	- Average Age: 75 days, 1 hours, and 30.96 minutes
 	- Stop Label: 116
 	
 
