@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **114** pull requests currently under way :detective:
+There are **113** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -33,7 +33,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|3|May 10||jwillikers
 [#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:stopwatch: qt|M|4|Feb 14 :bell:||
 [#16095](https://github.com/conan-io/conan-center-index/pull/16095)|[Pro](https://github.com/Pro)|Feb 17|:stopwatch: cunit|L|12|Apr 19 :bell:||
-[#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|L|0|:eyes:||
 [#16134](https://github.com/conan-io/conan-center-index/pull/16134)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 19|:stopwatch: bgfx|L|5|Apr 28 :bell:||
 [#16222](https://github.com/conan-io/conan-center-index/pull/16222)|[System-Arch](https://github.com/System-Arch)|Feb 22|:stopwatch: boost|:blue_square: S|8|May 19||
 [#16313](https://github.com/conan-io/conan-center-index/pull/16313)|[hellozee](https://github.com/hellozee)|Feb 27|:stopwatch: qt|M|7|Apr 26 :bell:||ericLemanissier, jwillikers
@@ -104,7 +103,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17416](https://github.com/conan-io/conan-center-index/pull/17416)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|May 5|:new: opencl-clhpp-headers|M|0|:eyes:||
 [#17417](https://github.com/conan-io/conan-center-index/pull/17417)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|May 5|:memo: opencl-headers|M|2|May 8 :bell:||
 [#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:stopwatch: tk|L|0|:eyes:||
-[#17428](https://github.com/conan-io/conan-center-index/pull/17428)|[kwach](https://github.com/kwach)|May 6|:stopwatch: libmemcached|L|1|May 9||
+[#17428](https://github.com/conan-io/conan-center-index/pull/17428)|[kwach](https://github.com/kwach)|May 6|:stopwatch: libmemcached|L|1|May 9 :bell:||
 [#17437](https://github.com/conan-io/conan-center-index/pull/17437)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: ceres-solver|:green_circle: XS|1|May 10||jwillikers
 [#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:stopwatch: paho-mqtt-c|:green_circle: XS|0|:eyes:||
 [#17443](https://github.com/conan-io/conan-center-index/pull/17443)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: rectpack2d|L|1|May 7 :bell:||jwillikers
@@ -160,10 +159,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cc0d366024e80f1c47c63d22617053b407e46cf6
 - Pull Requests:
-	- Open: 274
-	- Draft: 27
-	- Average Age: 75 days, 18 hours, and 57.21 minutes
-	- Stop Label: 113
+	- Open: 275
+	- Draft: 28
+	- Average Age: 75 days, 13 hours, and 20.51 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
