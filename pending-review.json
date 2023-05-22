@@ -24,6 +24,25 @@
       }
    },
    {
+      "Number": 14509,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-01T06:05:52Z",
+      "Recipe": "cassandra-cpp-driver",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14509",
+      "LastCommitSHA": "31f0373a5ed6368de7bc958ae90df43d256a8e1b",
+      "LastCommitAt": "2023-05-22T17:48:04Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 14591,
       "OpenedBy": "MateuszMiekicki",
       "CreatedAt": "2022-12-05T18:05:21Z",
@@ -2812,15 +2831,15 @@
       }
    },
    {
-      "Number": 17659,
+      "Number": 17660,
       "OpenedBy": "jwillikers",
-      "CreatedAt": "2023-05-22T19:00:22Z",
-      "Recipe": "graphene",
+      "CreatedAt": "2023-05-22T19:23:03Z",
+      "Recipe": "libxft",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17659",
-      "LastCommitSHA": "707db0271b6082e7de1e33552a472ba95c79492b",
-      "LastCommitAt": "2023-05-22T18:59:14Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17660",
+      "LastCommitSHA": "761c2e7b0bf23414fd017227009823b13a82b6d7",
+      "LastCommitAt": "2023-05-22T19:21:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
