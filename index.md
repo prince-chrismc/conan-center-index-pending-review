@@ -28,7 +28,7 @@ There are **119** pull requests currently under way :detective:
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|L|24|Feb 16 :bell:||
-[#13400](https://github.com/conan-io/conan-center-index/pull/13400)|[jwillikers](https://github.com/jwillikers)|Oct 10|:stopwatch: gstreamer|L|11|May 19||
+[#13400](https://github.com/conan-io/conan-center-index/pull/13400)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: gstreamer|L|11|May 19||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|3|May 10||jwillikers
 [#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:stopwatch: qt|M|4|Feb 14 :bell:||
@@ -144,7 +144,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17637](https://github.com/conan-io/conan-center-index/pull/17637)|[toge](https://github.com/toge)|May 20|:memo: expat|:green_circle: XS|0|||
 [#17638](https://github.com/conan-io/conan-center-index/pull/17638)|[toge](https://github.com/toge)|May 20|:memo: minizip-ng|:blue_square: S|0|||
 [#17640](https://github.com/conan-io/conan-center-index/pull/17640)|[toge](https://github.com/toge)|May 21|:memo: bzip3|:blue_square: S|0|||
-[#17645](https://github.com/conan-io/conan-center-index/pull/17645)|[toge](https://github.com/toge)|May 22|:stopwatch: daw_json_link|:blue_square: S|0|||
+[#17645](https://github.com/conan-io/conan-center-index/pull/17645)|[toge](https://github.com/toge)|May 22|:memo: daw_json_link|:blue_square: S|0|||
 [#17647](https://github.com/conan-io/conan-center-index/pull/17647)|[toge](https://github.com/toge)|May 22|:stopwatch: trantor|M|0|||
 
 
@@ -167,7 +167,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 277
 	- Draft: 27
-	- Average Age: 75 days, 11 hours, and 34.80 minutes
+	- Average Age: 75 days, 12 hours, and 12.77 minutes
 	- Stop Label: 111
 	
 
