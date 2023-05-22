@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **119** pull requests currently under way :detective:
+There are **120** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -135,17 +135,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17600](https://github.com/conan-io/conan-center-index/pull/17600)|[bruchar1](https://github.com/bruchar1)|May 17|:stopwatch: qt|:blue_square: S|1|May 17||jwillikers
 [#17604](https://github.com/conan-io/conan-center-index/pull/17604)|[amrox](https://github.com/amrox)|May 17|:stopwatch: ignition-tools|:green_circle: XS|0|:eyes:||
 [#17605](https://github.com/conan-io/conan-center-index/pull/17605)|[toge](https://github.com/toge)|May 18|:memo: duckdb|M|0|:eyes:||
-[#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|||
+[#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
 [#17618](https://github.com/conan-io/conan-center-index/pull/17618)|[toge](https://github.com/toge)|May 18|:memo: libspng|M|0|:eyes:||
-[#17621](https://github.com/conan-io/conan-center-index/pull/17621)|[tristanpenman](https://github.com/tristanpenman)|May 19|:stopwatch: valijson|:green_circle: XS|0|||
+[#17621](https://github.com/conan-io/conan-center-index/pull/17621)|[tristanpenman](https://github.com/tristanpenman)|May 19|:stopwatch: valijson|:green_circle: XS|0|:eyes:||
 [#17629](https://github.com/conan-io/conan-center-index/pull/17629)|[gjasny](https://github.com/gjasny)|May 19|:memo: 7zip|L|3|May 19||jwillikers
 [#17633](https://github.com/conan-io/conan-center-index/pull/17633)|[toge](https://github.com/toge)|May 19|:memo: libuv|L|0|||
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:memo: android-ndk|:blue_square: S|0|||
-[#17637](https://github.com/conan-io/conan-center-index/pull/17637)|[toge](https://github.com/toge)|May 20|:memo: expat|:green_circle: XS|0|||
+[#17637](https://github.com/conan-io/conan-center-index/pull/17637)|[toge](https://github.com/toge)|May 20|:memo: expat|:green_circle: XS|1|May 22||duncanspumpkin
 [#17638](https://github.com/conan-io/conan-center-index/pull/17638)|[toge](https://github.com/toge)|May 20|:memo: minizip-ng|:blue_square: S|0|||
 [#17640](https://github.com/conan-io/conan-center-index/pull/17640)|[toge](https://github.com/toge)|May 21|:memo: bzip3|:blue_square: S|0|||
 [#17645](https://github.com/conan-io/conan-center-index/pull/17645)|[toge](https://github.com/toge)|May 22|:memo: daw_json_link|:blue_square: S|0|||
 [#17647](https://github.com/conan-io/conan-center-index/pull/17647)|[toge](https://github.com/toge)|May 22|:memo: trantor|M|0|||
+[#17648](https://github.com/conan-io/conan-center-index/pull/17648)|[0xFireWolf](https://github.com/0xFireWolf)|May 22|:stopwatch: antlr4-cppruntime|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -165,9 +166,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cc0d366024e80f1c47c63d22617053b407e46cf6
 - Pull Requests:
-	- Open: 277
+	- Open: 278
 	- Draft: 27
-	- Average Age: 75 days, 13 hours, and 14.15 minutes
+	- Average Age: 75 days, 8 hours, and 44.18 minutes
 	- Stop Label: 111
 	
 
