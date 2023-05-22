@@ -35,15 +35,18 @@
       "LastCommitAt": "2023-05-22T00:30:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 11,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 13,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS",
+            "franramirez688"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-05-19T14:15:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13400#pullrequestreview-1434514739"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-05-22T08:11:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13400#pullrequestreview-1436034616"
          }
       }
    },
@@ -310,6 +313,25 @@
             "SubmittedAt": "2023-05-19T23:02:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16528#pullrequestreview-1435255467"
          }
+      }
+   },
+   {
+      "Number": 16572,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-03-15T13:20:43Z",
+      "Recipe": "ragel",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16572",
+      "LastCommitSHA": "b0f963166bbe670c3585469af92599eec2e06318",
+      "LastCommitAt": "2023-05-22T07:07:32Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -2013,7 +2035,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17473",
       "LastCommitSHA": "ffac4845b1139290fcacec608a4f3098e35effbc",
       "LastCommitAt": "2023-05-10T10:56:07Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 3,
