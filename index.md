@@ -23,11 +23,12 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **124** pull requests currently under way :detective:
+There are **125** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|L|24|Feb 16 :bell:||
+[#14509](https://github.com/conan-io/conan-center-index/pull/14509)|[toge](https://github.com/toge)|Dec 1|:memo: cassandra-cpp-driver|XL|0|||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|3|May 10 :bell:||jwillikers
 [#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:stopwatch: qt|M|4|Feb 14 :bell:||
@@ -150,7 +151,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17651](https://github.com/conan-io/conan-center-index/pull/17651)|[conan-center-bot](https://github.com/conan-center-bot)|May 22|:gear: .c3i|:green_circle: XS|0|||
 [#17657](https://github.com/conan-io/conan-center-index/pull/17657)|[toge](https://github.com/toge)|May 22|:memo: arsenalgear|:green_circle: XS|0|||
 [#17658](https://github.com/conan-io/conan-center-index/pull/17658)|[jwillikers](https://github.com/jwillikers)|May 22|:stopwatch: cairo|:green_circle: XS|0|||
-[#17659](https://github.com/conan-io/conan-center-index/pull/17659)|[jwillikers](https://github.com/jwillikers)|May 22|:stopwatch: graphene|:green_circle: XS|0|||
+[#17660](https://github.com/conan-io/conan-center-index/pull/17660)|[jwillikers](https://github.com/jwillikers)|May 22|:stopwatch: libxft|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -170,10 +171,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cc0d366024e80f1c47c63d22617053b407e46cf6
 - Pull Requests:
-	- Open: 280
+	- Open: 281
 	- Draft: 28
-	- Average Age: 74 days, 6 hours, and 8.62 minutes
-	- Stop Label: 108
+	- Average Age: 74 days, and 51.08 minutes
+	- Stop Label: 107
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
