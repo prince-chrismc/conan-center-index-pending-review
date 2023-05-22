@@ -145,18 +145,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17638](https://github.com/conan-io/conan-center-index/pull/17638)|[toge](https://github.com/toge)|May 20|:memo: minizip-ng|:blue_square: S|0|||
 [#17640](https://github.com/conan-io/conan-center-index/pull/17640)|[toge](https://github.com/toge)|May 21|:memo: bzip3|:blue_square: S|0|||
 [#17645](https://github.com/conan-io/conan-center-index/pull/17645)|[toge](https://github.com/toge)|May 22|:memo: daw_json_link|:blue_square: S|0|||
-[#17647](https://github.com/conan-io/conan-center-index/pull/17647)|[toge](https://github.com/toge)|May 22|:stopwatch: trantor|M|1|May 22|RubenRBS|
+[#17647](https://github.com/conan-io/conan-center-index/pull/17647)|[toge](https://github.com/toge)|May 22|:memo: trantor|M|1|May 22|RubenRBS|
 [#17650](https://github.com/conan-io/conan-center-index/pull/17650)|[gjasny](https://github.com/gjasny)|May 22|:memo: sml|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16390](https://github.com/conan-io/conan-center-index/pull/16390)|[Tsche](https://github.com/Tsche)|Mar 5|:new: libassert|5|RubenRBS, franramirez688
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|8|ericLemanissier, RubenRBS, jcar87
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 
@@ -167,9 +166,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cc0d366024e80f1c47c63d22617053b407e46cf6
 - Pull Requests:
-	- Open: 276
+	- Open: 275
 	- Draft: 26
-	- Average Age: 75 days, 6 hours, and 6.42 minutes
+	- Average Age: 75 days, 6 hours, and 47.48 minutes
 	- Stop Label: 110
 	
 
