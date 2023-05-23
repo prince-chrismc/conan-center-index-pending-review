@@ -125,7 +125,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17521](https://github.com/conan-io/conan-center-index/pull/17521)|[mpimenov](https://github.com/mpimenov)|May 11|:stopwatch: arrow|L|0|:eyes:||
 [#17528](https://github.com/conan-io/conan-center-index/pull/17528)|[kammce](https://github.com/kammce)|May 11|:new: arm-gnu-toolchain|L|4|May 20||
 [#17539](https://github.com/conan-io/conan-center-index/pull/17539)|[MartinDelille](https://github.com/MartinDelille)|May 12|:stopwatch: qt|XL|4|May 17||ericLemanissier, jwillikers
-[#17540](https://github.com/conan-io/conan-center-index/pull/17540)|[raulcd](https://github.com/raulcd)|May 12|:stopwatch: arrow|:blue_square: S|2|May 23||
+[#17540](https://github.com/conan-io/conan-center-index/pull/17540)|[raulcd](https://github.com/raulcd)|May 12|:stopwatch: arrow|:blue_square: S|3|May 23||RubenRBS
 [#17545](https://github.com/conan-io/conan-center-index/pull/17545)|[toge](https://github.com/toge)|May 12|:memo: mppp|:blue_square: S|0|:eyes:||
 [#17546](https://github.com/conan-io/conan-center-index/pull/17546)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|May 12|:stopwatch: tensorflow-lite|:blue_square: S|0|:eyes:||
 [#17547](https://github.com/conan-io/conan-center-index/pull/17547)|[joakimono](https://github.com/joakimono)|May 12|:memo: glpk|L|0|:eyes:||
@@ -167,7 +167,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 274
 	- Draft: 28
-	- Average Age: 76 days, 6 hours, and 41.80 minutes
+	- Average Age: 76 days, 7 hours, and 38.91 minutes
 	- Stop Label: 107
 	
 
