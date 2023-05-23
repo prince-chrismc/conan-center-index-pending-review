@@ -518,16 +518,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16696",
-      "LastCommitSHA": "55f58a8efcb13aeb097397bd299fd4643a6a38b2",
-      "LastCommitAt": "2023-05-22T08:45:18Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e8a76e9ea7755f060452bb6c0f91b0bb6cea05b8",
+      "LastCommitAt": "2023-05-23T15:58:27Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "danimtb"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": [
             "uilianries"
          ],
@@ -913,21 +911,20 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17170",
       "LastCommitSHA": "aa290cc8c78c6905c254705fe015be6bc6852e28",
       "LastCommitAt": "2023-05-23T14:52:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "memsharded"
-         ],
-         "Blockers": [
+            "memsharded",
             "RubenRBS"
          ],
+         "Blockers": [],
          "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-05-23T14:54:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17170#pullrequestreview-1439873473"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-05-23T15:22:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17170#pullrequestreview-1439971120"
          }
       }
    },
@@ -2630,6 +2627,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17663",
       "LastCommitSHA": "d0b87001d339cab44e08c3edb8478fb0024bd54b",
       "LastCommitAt": "2023-05-23T11:43:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17665,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-05-23T15:26:35Z",
+      "Recipe": "quirc",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17665",
+      "LastCommitSHA": "a96e19fc74b42643092af23a5a9d3224c566eddc",
+      "LastCommitAt": "2023-05-23T15:53:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
