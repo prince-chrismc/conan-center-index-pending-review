@@ -2608,24 +2608,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 17667,
-      "OpenedBy": "gjasny",
-      "CreatedAt": "2023-05-23T16:53:46Z",
-      "Recipe": "lzma_sdk",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17667",
-      "LastCommitSHA": "edd61dcee9b68079d28d7f6c44f77d0357138927",
-      "LastCommitAt": "2023-05-23T16:52:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
