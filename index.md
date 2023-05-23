@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **119** pull requests currently under way :detective:
+There are **118** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -124,7 +124,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17521](https://github.com/conan-io/conan-center-index/pull/17521)|[mpimenov](https://github.com/mpimenov)|May 11|:stopwatch: arrow|L|0|:eyes:||
 [#17528](https://github.com/conan-io/conan-center-index/pull/17528)|[kammce](https://github.com/kammce)|May 11|:new: arm-gnu-toolchain|L|4|May 20||
 [#17539](https://github.com/conan-io/conan-center-index/pull/17539)|[MartinDelille](https://github.com/MartinDelille)|May 12|:stopwatch: qt|XL|4|May 17||ericLemanissier, jwillikers
-[#17540](https://github.com/conan-io/conan-center-index/pull/17540)|[raulcd](https://github.com/raulcd)|May 12|:stopwatch: arrow|:blue_square: S|1|May 12||
+[#17540](https://github.com/conan-io/conan-center-index/pull/17540)|[raulcd](https://github.com/raulcd)|May 12|:stopwatch: arrow|:blue_square: S|2|May 23||
 [#17545](https://github.com/conan-io/conan-center-index/pull/17545)|[toge](https://github.com/toge)|May 12|:memo: mppp|:blue_square: S|0|:eyes:||
 [#17546](https://github.com/conan-io/conan-center-index/pull/17546)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|May 12|:stopwatch: tensorflow-lite|:blue_square: S|0|:eyes:||
 [#17547](https://github.com/conan-io/conan-center-index/pull/17547)|[joakimono](https://github.com/joakimono)|May 12|:memo: glpk|L|0|:eyes:||
@@ -143,14 +143,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17637](https://github.com/conan-io/conan-center-index/pull/17637)|[toge](https://github.com/toge)|May 20|:memo: expat|:green_circle: XS|1|May 22||duncanspumpkin
 [#17638](https://github.com/conan-io/conan-center-index/pull/17638)|[toge](https://github.com/toge)|May 20|:memo: minizip-ng|:blue_square: S|0|||
 [#17640](https://github.com/conan-io/conan-center-index/pull/17640)|[toge](https://github.com/toge)|May 21|:memo: bzip3|:blue_square: S|0|||
-[#17651](https://github.com/conan-io/conan-center-index/pull/17651)|[conan-center-bot](https://github.com/conan-center-bot)|May 22|:gear: .c3i|:green_circle: XS|0|||
 [#17657](https://github.com/conan-io/conan-center-index/pull/17657)|[toge](https://github.com/toge)|May 22|:memo: arsenalgear|:green_circle: XS|0|||
 [#17658](https://github.com/conan-io/conan-center-index/pull/17658)|[jwillikers](https://github.com/jwillikers)|May 22|:stopwatch: cairo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -159,7 +158,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17046](https://github.com/conan-io/conan-center-index/pull/17046)|[db4](https://github.com/db4)|Apr 17|:warning: harfbuzz|8|ericLemanissier, RubenRBS, jcar87
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17570](https://github.com/conan-io/conan-center-index/pull/17570)|[joakimono](https://github.com/joakimono)|May 15|:memo: gklib|2|RubenRBS, SSE4
-[#17611](https://github.com/conan-io/conan-center-index/pull/17611)|[RubenRBS](https://github.com/RubenRBS)|May 18|:warning: sml|3|franramirez688, SSE4
+[#17611](https://github.com/conan-io/conan-center-index/pull/17611)|[RubenRBS](https://github.com/RubenRBS)|May 18|:memo: sml|3|franramirez688, SSE4
+[#17651](https://github.com/conan-io/conan-center-index/pull/17651)|[conan-center-bot](https://github.com/conan-center-bot)|May 22|:gear: .c3i|2|RubenRBS, SSE4
 
 
 #### :clipboard: Statistics
@@ -170,7 +170,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 278
 	- Draft: 28
-	- Average Age: 75 days, 6 hours, and 51.24 minutes
+	- Average Age: 75 days, 7 hours, and 55.71 minutes
 	- Stop Label: 108
 	
 
