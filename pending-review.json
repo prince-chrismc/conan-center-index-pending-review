@@ -520,7 +520,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16696",
       "LastCommitSHA": "e3526c83fa6de77c862555c64d93b5ca9ce5fe51",
       "LastCommitAt": "2023-05-23T16:29:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -2600,6 +2600,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17663",
       "LastCommitSHA": "d0b87001d339cab44e08c3edb8478fb0024bd54b",
       "LastCommitAt": "2023-05-23T11:43:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17666,
+      "OpenedBy": "Ignition",
+      "CreatedAt": "2023-05-23T16:20:17Z",
+      "Recipe": "cppitertools",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17666",
+      "LastCommitSHA": "26e531894912bf9c6b7411847d0c9d9de2d60c88",
+      "LastCommitAt": "2023-05-23T18:08:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17669,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2023-05-23T18:45:18Z",
+      "Recipe": "sobjectizer",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17669",
+      "LastCommitSHA": "836d2ccfe1e36c4ca9cc07c6bb5eefb7b3a2b7f0",
+      "LastCommitAt": "2023-05-23T18:40:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
