@@ -149,7 +149,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17681](https://github.com/conan-io/conan-center-index/pull/17681)|[ftena](https://github.com/ftena)|May 24|:memo: spdlog|:green_circle: XS|0|||
 [#17683](https://github.com/conan-io/conan-center-index/pull/17683)|[toge](https://github.com/toge)|May 24|:stopwatch: libcurl|:blue_square: S|1|May 24||Hopobcn
 [#17684](https://github.com/conan-io/conan-center-index/pull/17684)|[toge](https://github.com/toge)|May 24|:stopwatch: magic_enum|M|0|||
-[#17685](https://github.com/conan-io/conan-center-index/pull/17685)|[Ignition](https://github.com/Ignition)|May 24|:stopwatch: fmt|:green_circle: XS|0|||
+[#17685](https://github.com/conan-io/conan-center-index/pull/17685)|[Ignition](https://github.com/Ignition)|May 24|:memo: fmt|:green_circle: XS|0|||
 [#17687](https://github.com/conan-io/conan-center-index/pull/17687)|[toge](https://github.com/toge)|May 24|:stopwatch: hidapi|:blue_square: S|0|||
 [#17688](https://github.com/conan-io/conan-center-index/pull/17688)|[ericLemanissier](https://github.com/ericLemanissier)|May 24|:stopwatch: harfbuzz|:green_circle: XS|0|:eyes:||
 [#17689](https://github.com/conan-io/conan-center-index/pull/17689)|[paulocoutinhox](https://github.com/paulocoutinhox)|May 24|:stopwatch: sqlitecpp|:green_circle: XS|0|||
@@ -174,7 +174,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 289
 	- Draft: 30
-	- Average Age: 73 days, 1 hours, and 22.58 minutes
+	- Average Age: 73 days, 2 hours, and 25.36 minutes
 	- Stop Label: 114
 	
 
