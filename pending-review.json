@@ -1832,6 +1832,25 @@
       }
    },
    {
+      "Number": 17435,
+      "OpenedBy": "BrettDong",
+      "CreatedAt": "2023-05-07T10:38:03Z",
+      "Recipe": "quantlib",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17435",
+      "LastCommitSHA": "54ba07e53fbf800faabc4cf20b0535cfe0dc2826",
+      "LastCommitAt": "2023-05-24T10:30:12Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17437,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-05-07T11:29:21Z",
