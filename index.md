@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **125** pull requests currently under way :detective:
+There are **127** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -145,13 +145,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17666](https://github.com/conan-io/conan-center-index/pull/17666)|[Ignition](https://github.com/Ignition)|May 23|:memo: cppitertools|M|0|||
 [#17667](https://github.com/conan-io/conan-center-index/pull/17667)|[gjasny](https://github.com/gjasny)|May 23|:memo: lzma_sdk|L|0|||
 [#17669](https://github.com/conan-io/conan-center-index/pull/17669)|[ngrodzitski](https://github.com/ngrodzitski)|May 23|:stopwatch: sobjectizer|:green_circle: XS|0|||
-[#17677](https://github.com/conan-io/conan-center-index/pull/17677)|[ericLemanissier](https://github.com/ericLemanissier)|May 24|:memo: glib|:green_circle: XS|0|||
 [#17678](https://github.com/conan-io/conan-center-index/pull/17678)|[conan-center-bot](https://github.com/conan-center-bot)|May 24|:stopwatch: .c3i|:green_circle: XS|1|May 24||SSE4
 [#17681](https://github.com/conan-io/conan-center-index/pull/17681)|[ftena](https://github.com/ftena)|May 24|:memo: spdlog|:green_circle: XS|0|||
 [#17683](https://github.com/conan-io/conan-center-index/pull/17683)|[toge](https://github.com/toge)|May 24|:stopwatch: libcurl|:blue_square: S|1|May 24||Hopobcn
 [#17684](https://github.com/conan-io/conan-center-index/pull/17684)|[toge](https://github.com/toge)|May 24|:stopwatch: magic_enum|M|0|||
 [#17685](https://github.com/conan-io/conan-center-index/pull/17685)|[Ignition](https://github.com/Ignition)|May 24|:stopwatch: fmt|:green_circle: XS|0|||
 [#17687](https://github.com/conan-io/conan-center-index/pull/17687)|[toge](https://github.com/toge)|May 24|:stopwatch: hidapi|:blue_square: S|0|||
+[#17688](https://github.com/conan-io/conan-center-index/pull/17688)|[ericLemanissier](https://github.com/ericLemanissier)|May 24|:stopwatch: harfbuzz|:green_circle: XS|0|:eyes:||
+[#17689](https://github.com/conan-io/conan-center-index/pull/17689)|[paulocoutinhox](https://github.com/paulocoutinhox)|May 24|:stopwatch: sqlitecpp|:green_circle: XS|0|||
+[#17690](https://github.com/conan-io/conan-center-index/pull/17690)|[ericLemanissier](https://github.com/ericLemanissier)|May 24|:stopwatch: harfbuzz|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -170,9 +172,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 6de2b584dadf5444e17dba1bbf0e5e5c9fb00844
 - Pull Requests:
-	- Open: 287
+	- Open: 289
 	- Draft: 30
-	- Average Age: 73 days, 11 hours, and 38.07 minutes
+	- Average Age: 73 days, and 27.27 minutes
 	- Stop Label: 114
 	
 
