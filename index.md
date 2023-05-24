@@ -28,7 +28,7 @@ There are **120** pull requests currently under way :detective:
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|L|24|Feb 16 :bell:||
-[#13537](https://github.com/conan-io/conan-center-index/pull/13537)|[mjimenofluendo](https://github.com/mjimenofluendo)|Oct 17|:memo: gstreamer|:green_circle: XS|3|Dec 22 :bell:||
+[#13537](https://github.com/conan-io/conan-center-index/pull/13537)|[mjimenofluendo](https://github.com/mjimenofluendo)|Oct 17|:stopwatch: gstreamer|:green_circle: XS|3|Dec 22 :bell:||
 [#14509](https://github.com/conan-io/conan-center-index/pull/14509)|[toge](https://github.com/toge)|Dec 1|:memo: cassandra-cpp-driver|XL|0|||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|3|May 10 :bell:||jwillikers
@@ -164,12 +164,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: cc0d366024e80f1c47c63d22617053b407e46cf6
+- Commit: 6de2b584dadf5444e17dba1bbf0e5e5c9fb00844
 - Pull Requests:
-	- Open: 278
+	- Open: 279
 	- Draft: 30
-	- Average Age: 75 days, 17 hours, and 22.94 minutes
-	- Stop Label: 108
+	- Average Age: 75 days, 11 hours, and 56.27 minutes
+	- Stop Label: 109
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
