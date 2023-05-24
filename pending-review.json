@@ -1834,7 +1834,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17428",
       "LastCommitSHA": "bc4ae10484ca4c8780c3ab17e2164b5b86f36b8c",
       "LastCommitAt": "2023-05-24T10:37:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2744,25 +2744,6 @@
       }
    },
    {
-      "Number": 17680,
-      "OpenedBy": "miklelappo",
-      "CreatedAt": "2023-05-24T09:00:50Z",
-      "Recipe": "protobuf",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17680",
-      "LastCommitSHA": "313b745a2a8ab8aa5c65c1f8074dc8fc38788ecb",
-      "LastCommitAt": "2023-05-24T09:29:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17681,
       "OpenedBy": "ftena",
       "CreatedAt": "2023-05-24T09:01:24Z",
@@ -2791,6 +2772,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17683",
       "LastCommitSHA": "15185deb2b2e31a49b813a4924a5f51695f6978a",
       "LastCommitAt": "2023-05-24T10:17:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17684,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-05-24T11:24:03Z",
+      "Recipe": "magic_enum",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17684",
+      "LastCommitSHA": "ad312193a1d6079313dec4a5d4ac645ebd8d692b",
+      "LastCommitAt": "2023-05-24T11:21:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17685,
+      "OpenedBy": "Ignition",
+      "CreatedAt": "2023-05-24T12:02:05Z",
+      "Recipe": "fmt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17685",
+      "LastCommitSHA": "5906b467384bda4f9cf2a0b70603e8717582c2ae",
+      "LastCommitAt": "2023-05-24T11:59:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
