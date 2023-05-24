@@ -2221,30 +2221,6 @@
       }
    },
    {
-      "Number": 17528,
-      "OpenedBy": "kammce",
-      "CreatedAt": "2023-05-11T15:49:53Z",
-      "Recipe": "arm-gnu-toolchain",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17528",
-      "LastCommitSHA": "a28fe3037c6eeb402ed699711acc891575b9ba25",
-      "LastCommitAt": "2023-05-24T04:13:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-23T13:24:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17528#pullrequestreview-1439701850"
-         }
-      }
-   },
-   {
       "Number": 17539,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2023-05-12T09:52:04Z",
