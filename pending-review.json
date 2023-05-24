@@ -119,6 +119,25 @@
       }
    },
    {
+      "Number": 15669,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-02-02T00:33:26Z",
+      "Recipe": "opencolorio",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15669",
+      "LastCommitSHA": "3065832ffe457dfedd135deb1631479da32eebdb",
+      "LastCommitAt": "2023-05-24T01:42:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 15678,
       "OpenedBy": "sabelka",
       "CreatedAt": "2023-02-02T12:52:55Z",
@@ -1228,7 +1247,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17312",
       "LastCommitSHA": "20ed3c8454c42935fe9cebc1a8c244456f2e0133",
       "LastCommitAt": "2023-05-01T07:41:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1813,7 +1832,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17435",
       "LastCommitSHA": "8e8ec9520eec9cdf60aae2d4adc4508b912e5594",
       "LastCommitAt": "2023-05-24T15:21:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
