@@ -2725,5 +2725,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17677,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-05-24T07:42:17Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17677",
+      "LastCommitSHA": "499aacfd6162fd874cb406a362630e9fe5e20bb3",
+      "LastCommitAt": "2023-05-23T12:45:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
