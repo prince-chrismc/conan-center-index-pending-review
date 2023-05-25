@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **121** pull requests currently under way :detective:
+There are **120** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -145,9 +145,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17694](https://github.com/conan-io/conan-center-index/pull/17694)|[toge](https://github.com/toge)|May 25|:memo: libserial|:blue_square: S|1|May 25||RubenRBS
 [#17697](https://github.com/conan-io/conan-center-index/pull/17697)|[toge](https://github.com/toge)|May 25|:memo: tinyxml|:blue_square: S|1|May 25||RubenRBS
 [#17702](https://github.com/conan-io/conan-center-index/pull/17702)|[andioz](https://github.com/andioz)|May 25|:memo: benchmark|:blue_square: S|1|May 25||Hopobcn
-[#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:stopwatch: xsimd|M|1|May 25||
+[#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:memo: xsimd|M|1|May 25||
 [#17706](https://github.com/conan-io/conan-center-index/pull/17706)|[github-actions[bot]](https://github.com/github-actions[bot])|May 25|:green_book: docs|:blue_square: S|0|||
-[#17707](https://github.com/conan-io/conan-center-index/pull/17707)|[kevswims](https://github.com/kevswims)|May 25|:stopwatch: foxglove-protobuf-schemas|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -168,8 +167,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 283
 	- Draft: 31
-	- Average Age: 74 days, 9 hours, and 38.61 minutes
-	- Stop Label: 111
+	- Average Age: 74 days, 10 hours, and 39.78 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
