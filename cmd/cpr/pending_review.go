@@ -158,6 +158,7 @@ func gatherReviewStatus(context context.Context, client *pending_review.Client, 
 		// 	return nil, stats, fmt.Errorf("problem getting list of reviews %w", err)
 		// }
 
+		fmt.Printf("%v\n", review)
 		if review.Summary.IsApproved() {
 			stats.Merge++
 		} else {

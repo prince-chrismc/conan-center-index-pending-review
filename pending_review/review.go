@@ -23,7 +23,7 @@ type Reviews struct {
 
 // IsApproved when the conditions for merging are meet as per https://github.com/conan-io/conan-center-index/blob/master/docs/review_process.md
 func (r *Reviews) IsApproved() bool {
-	return r.TeamApproval && r.ValidApprovals >= 2 && len(r.Blockers) == 0
+	return r.TeamApproval && r.ValidApprovals >= 2 && r.Blockers != nil && len(r.Blockers) == 0
 }
 
 // ProcessReviewComments interprets the all the reviews to extract a summary based on the requirements of CCI

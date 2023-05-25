@@ -100,7 +100,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 
 	diff, resp, err := s.determineTypeOfChange(ctx, owner, repo, p.Number, 14 /* recipes are currently 8-10 files */)
 	if err != nil {
-		return nil, resp, err
+		return p, resp, err
 	}
 
 	p.Recipe = diff.Recipe
@@ -109,7 +109,7 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 
 	reviews, resp, err := s.ListAllReviews(ctx, owner, repo, p.Number)
 	if err != nil {
-		return nil, resp, err
+		return p, resp, err
 	}
 
 	reviews = FilterAuthor(reviews, p.OpenedBy)
@@ -117,14 +117,14 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 
 	p.LastCommitAt, _, err = s.client.Repository.GetCommitDate(ctx, pr.GetHead().GetRepo().GetOwner().GetLogin(), pr.GetHead().GetRepo().GetName(), p.LastCommitSHA)
 	if err != nil {
-		return nil, resp, err
+		return p, resp, err
 	}
 
 	status, _, err := s.client.Repository.GetStatus(ctx, pr.GetBase().GetRepo().GetOwner().GetLogin(), pr.GetBase().GetRepo().GetName(), p.LastCommitSHA)
 	if errors.Is(err, ErrNoCommitStatus) {
 		p.CciBotPassed = false
 	} else if err != nil {
-		return nil, resp, err
+		return p, resp, err
 	} else {
 		p.CciBotPassed = status.GetState() == "success"
 	}
@@ -135,12 +135,12 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 
 	err = evaluateSummary(p)
 	if err != nil {
-		return nil, resp, err
+		return p, resp, err
 	}
 
 	err = processLabels(pr.Labels)
 	if err != nil {
-		return nil, nil, err
+		return p, nil, err
 	}
 
 	return p, resp, nil
