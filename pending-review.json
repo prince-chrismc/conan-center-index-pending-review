@@ -2713,7 +2713,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17704",
       "LastCommitSHA": "a59b36ff0078d67da4a3e74b8ef91b9a4277bc52",
       "LastCommitAt": "2023-05-25T18:13:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2738,25 +2738,6 @@
       "LastCommitSHA": "844d6155e9f2b26029eaaff9c1718b5bb73058d5",
       "LastCommitAt": "2023-05-25T19:23:30Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17707,
-      "OpenedBy": "kevswims",
-      "CreatedAt": "2023-05-25T22:00:09Z",
-      "Recipe": "foxglove-protobuf-schemas",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17707",
-      "LastCommitSHA": "db887b845788fde781017fa0b73ff5c07d9eedb6",
-      "LastCommitAt": "2023-05-25T21:58:19Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
