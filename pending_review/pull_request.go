@@ -98,11 +98,6 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 		LastCommitSHA: pr.GetHead().GetSHA(),
 	}
 
-	err := processLabels(pr.Labels)
-	if err != nil {
-		return nil, nil, err
-	}
-
 	diff, resp, err := s.determineTypeOfChange(ctx, owner, repo, p.Number, 14 /* recipes are currently 8-10 files */)
 	if err != nil {
 		return nil, resp, err
@@ -137,9 +132,15 @@ func (s *PullRequestService) GetReviewSummary(ctx context.Context, owner string,
 	if bytes, err := json.Marshal(p); err == nil {
 		fmt.Printf("%s\n", bytes)
 	}
+
 	err = evaluateSummary(p)
 	if err != nil {
 		return nil, resp, err
+	}
+
+	err = processLabels(pr.Labels)
+	if err != nil {
+		return nil, nil, err
 	}
 
 	return p, resp, nil
