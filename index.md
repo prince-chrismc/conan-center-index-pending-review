@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16750](https://github.com/conan-io/conan-center-index/pull/16750)|[gouriano](https://github.com/gouriano)|Mar 28|:stopwatch: ncbi-cxx-toolkit-public|L|8|May 2 :bell:||
 [#16785](https://github.com/conan-io/conan-center-index/pull/16785)|[db4](https://github.com/db4)|Mar 30|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16990](https://github.com/conan-io/conan-center-index/pull/16990)|[toge](https://github.com/toge)|Apr 12|:memo: watcher|:blue_square: S|0|:eyes:||
-[#17022](https://github.com/conan-io/conan-center-index/pull/17022)|[toge](https://github.com/toge)|Apr 14|:memo: opentelemetry-proto|M|0|||
+[#17022](https://github.com/conan-io/conan-center-index/pull/17022)|[toge](https://github.com/toge)|Apr 14|:stopwatch: opentelemetry-proto|M|0|||
 [#17025](https://github.com/conan-io/conan-center-index/pull/17025)|[SSE4](https://github.com/SSE4)|Apr 14|:new: vvenc|M|3|Apr 14 :bell:|uilianries|
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|0|:eyes:||
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|:eyes:||
@@ -79,7 +79,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:memo: xoshiro-cpp|M|1|May 1 :bell:||jwillikers
 [#17298](https://github.com/conan-io/conan-center-index/pull/17298)|[valgur](https://github.com/valgur)|Apr 28|:memo: pybind11|M|0|:eyes:||
 [#17303](https://github.com/conan-io/conan-center-index/pull/17303)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 29|:memo: backward-cpp|M|0|:eyes:||
-[#17304](https://github.com/conan-io/conan-center-index/pull/17304)|[toge](https://github.com/toge)|Apr 29|:stopwatch: simdutf|M|4|May 24||jwillikers
+[#17304](https://github.com/conan-io/conan-center-index/pull/17304)|[toge](https://github.com/toge)|Apr 29|:memo: simdutf|M|4|May 24||jwillikers
 [#17311](https://github.com/conan-io/conan-center-index/pull/17311)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Apr 29|:memo: onetbb|:blue_square: S|9|May 24||friendlyanon, SSE4
 [#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:new: clickhouse-cpp|L|0|:eyes:||
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:stopwatch: armadillo|L|0|:eyes:||
@@ -145,8 +145,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17694](https://github.com/conan-io/conan-center-index/pull/17694)|[toge](https://github.com/toge)|May 25|:memo: libserial|:blue_square: S|1|May 25||RubenRBS
 [#17697](https://github.com/conan-io/conan-center-index/pull/17697)|[toge](https://github.com/toge)|May 25|:memo: tinyxml|:blue_square: S|1|May 25||RubenRBS
 [#17702](https://github.com/conan-io/conan-center-index/pull/17702)|[andioz](https://github.com/andioz)|May 25|:memo: benchmark|:blue_square: S|1|May 25||Hopobcn
-[#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:stopwatch: xsimd|M|1|May 25||
-[#17705](https://github.com/conan-io/conan-center-index/pull/17705)|[prince-chrismc](https://github.com/prince-chrismc)|May 25|:green_book: docs|L|1|May 25||memsharded
+[#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:memo: xsimd|M|1|May 25||
+[#17706](https://github.com/conan-io/conan-center-index/pull/17706)|[github-actions[bot]](https://github.com/github-actions[bot])|May 25|:green_book: docs|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -167,7 +167,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 282
 	- Draft: 31
-	- Average Age: 74 days, 12 hours, and 57.28 minutes
+	- Average Age: 74 days, 14 hours, and 0.17 minutes
 	- Stop Label: 111
 	
 
