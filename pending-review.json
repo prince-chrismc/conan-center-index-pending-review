@@ -2256,7 +2256,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17575",
       "LastCommitSHA": "8662c40f00a2b9e9a9f432cf9a1eed418e9fa327",
       "LastCommitAt": "2023-05-25T10:29:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2550,25 +2550,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17658",
       "LastCommitSHA": "624c796a3a43112b4cf4f9e5c741ed861bef3efb",
       "LastCommitAt": "2023-05-22T17:59:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17663,
-      "OpenedBy": "hiiizxf",
-      "CreatedAt": "2023-05-23T12:53:13Z",
-      "Recipe": "xlsxio",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17663",
-      "LastCommitSHA": "8d8ddc0213b05ee8927c0557a4538418e0b37ed9",
-      "LastCommitAt": "2023-05-25T12:23:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
