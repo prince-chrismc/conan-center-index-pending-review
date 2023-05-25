@@ -682,7 +682,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17022",
       "LastCommitSHA": "8b88ad182b093f5a3a1a47054640a00e2b11035f",
       "LastCommitAt": "2023-05-25T17:47:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1273,33 +1273,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17326,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-04-30T14:45:01Z",
-      "Recipe": "miniaudio",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17326",
-      "LastCommitSHA": "d53b7aa37d90b2ec73adbf5bd815577ae2ec1b61",
-      "LastCommitAt": "2023-05-15T16:00:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-25T11:18:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17326#pullrequestreview-1443658191"
-         }
       }
    },
    {
@@ -2712,7 +2685,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17702",
       "LastCommitSHA": "071409dff4db5412005c8def22b8d361d3dd16ef",
       "LastCommitAt": "2023-05-25T15:42:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2764,11 +2737,18 @@
       "LastCommitAt": "2023-05-25T17:32:50Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "memsharded"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "memsharded",
+            "SubmittedAt": "2023-05-25T18:36:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17705#pullrequestreview-1444455272"
+         }
       }
    }
 ]
