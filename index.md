@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **117** pull requests currently under way :detective:
+There are **119** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -144,11 +144,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17692](https://github.com/conan-io/conan-center-index/pull/17692)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|||
 [#17694](https://github.com/conan-io/conan-center-index/pull/17694)|[toge](https://github.com/toge)|May 25|:memo: libserial|:blue_square: S|1|May 25||RubenRBS
 [#17697](https://github.com/conan-io/conan-center-index/pull/17697)|[toge](https://github.com/toge)|May 25|:memo: tinyxml|:blue_square: S|1|May 25||RubenRBS
+[#17702](https://github.com/conan-io/conan-center-index/pull/17702)|[andioz](https://github.com/andioz)|May 25|:stopwatch: benchmark|:blue_square: S|0|||
+[#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:stopwatch: xsimd|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -158,7 +160,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17435](https://github.com/conan-io/conan-center-index/pull/17435)|[BrettDong](https://github.com/BrettDong)|May 7|:memo: quantlib|2|memsharded, RubenRBS
 [#17443](https://github.com/conan-io/conan-center-index/pull/17443)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: rectpack2d|2|jwillikers, RubenRBS
 [#17667](https://github.com/conan-io/conan-center-index/pull/17667)|[gjasny](https://github.com/gjasny)|May 23|:memo: lzma_sdk|2|memsharded, RubenRBS
-[#17684](https://github.com/conan-io/conan-center-index/pull/17684)|[toge](https://github.com/toge)|May 24|:memo: magic_enum|3|memsharded, 0xFireWolf, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -168,8 +169,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 6de2b584dadf5444e17dba1bbf0e5e5c9fb00844
 - Pull Requests:
 	- Open: 285
-	- Draft: 32
-	- Average Age: 73 days, 19 hours, and 37.50 minutes
+	- Draft: 31
+	- Average Age: 73 days, 20 hours, and 34.75 minutes
 	- Stop Label: 112
 	
 
