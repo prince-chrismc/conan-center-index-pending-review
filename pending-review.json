@@ -1875,33 +1875,6 @@
       }
    },
    {
-      "Number": 17465,
-      "OpenedBy": "AlvaroFS",
-      "CreatedAt": "2023-05-09T00:12:41Z",
-      "Recipe": "vir-simd",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17465",
-      "LastCommitSHA": "89231a233b1eddb76509d8024bc104d4100196fd",
-      "LastCommitAt": "2023-05-22T17:15:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-05-26T15:53:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17465#pullrequestreview-1446520359"
-         }
-      }
-   },
-   {
       "Number": 17470,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-05-09T12:34:19Z",
