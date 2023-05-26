@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **116** pull requests currently under way :detective:
+There are **115** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -139,10 +139,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17683](https://github.com/conan-io/conan-center-index/pull/17683)|[toge](https://github.com/toge)|May 24|:memo: libcurl|:blue_square: S|2|May 25||Hopobcn, 0xFireWolf
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|||
 [#17692](https://github.com/conan-io/conan-center-index/pull/17692)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|||
-[#17702](https://github.com/conan-io/conan-center-index/pull/17702)|[andioz](https://github.com/andioz)|May 25|:memo: benchmark|:blue_square: S|1|May 25||Hopobcn
+[#17702](https://github.com/conan-io/conan-center-index/pull/17702)|[andioz](https://github.com/andioz)|May 25|:memo: benchmark|:blue_square: S|2|May 26|RubenRBS|Hopobcn
 [#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:memo: xsimd|M|1|May 25||
-[#17706](https://github.com/conan-io/conan-center-index/pull/17706)|[github-actions[bot]](https://github.com/github-actions[bot])|May 25|:green_book: docs|:blue_square: S|1|May 26||SSE4
-[#17709](https://github.com/conan-io/conan-center-index/pull/17709)|[ericLemanissier](https://github.com/ericLemanissier)|May 26|:stopwatch: meson|:green_circle: XS|0|||
+[#17710](https://github.com/conan-io/conan-center-index/pull/17710)|[RubenRBS](https://github.com/RubenRBS)|May 26|:stopwatch: libpfm4|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -156,7 +155,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17339](https://github.com/conan-io/conan-center-index/pull/17339)|[toge](https://github.com/toge)|May 1|:memo: replxx|2|RubenRBS, SSE4
 [#17657](https://github.com/conan-io/conan-center-index/pull/17657)|[toge](https://github.com/toge)|May 22|:memo: arsenalgear|2|RubenRBS, SSE4
 [#17669](https://github.com/conan-io/conan-center-index/pull/17669)|[ngrodzitski](https://github.com/ngrodzitski)|May 23|:warning: sobjectizer|2|RubenRBS, SSE4
-[#17694](https://github.com/conan-io/conan-center-index/pull/17694)|[toge](https://github.com/toge)|May 25|:memo: libserial|2|RubenRBS, SSE4
+[#17706](https://github.com/conan-io/conan-center-index/pull/17706)|[github-actions[bot]](https://github.com/github-actions[bot])|May 25|:green_book: docs|2|SSE4, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -165,9 +164,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 6de2b584dadf5444e17dba1bbf0e5e5c9fb00844
 - Pull Requests:
-	- Open: 283
+	- Open: 282
 	- Draft: 31
-	- Average Age: 74 days, 15 hours, and 34.11 minutes
+	- Average Age: 74 days, 22 hours, and 54.49 minutes
 	- Stop Label: 112
 	
 
