@@ -145,13 +145,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
-[#17465](https://github.com/conan-io/conan-center-index/pull/17465)|[AlvaroFS](https://github.com/AlvaroFS)|May 9|:new: vir-simd|3|memsharded, SSE4
 
 
 #### :clipboard: Statistics
@@ -160,9 +159,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 6de2b584dadf5444e17dba1bbf0e5e5c9fb00844
 - Pull Requests:
-	- Open: 277
+	- Open: 276
 	- Draft: 32
-	- Average Age: 76 days, 10 hours, and 11.03 minutes
+	- Average Age: 76 days, 16 hours, and 17.22 minutes
 	- Stop Label: 111
 	
 
