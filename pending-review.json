@@ -35,15 +35,17 @@
       "LastCommitAt": "2023-05-25T14:10:36Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "memsharded"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "larshg",
-            "SubmittedAt": "2022-12-22T14:26:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13537#pullrequestreview-1227756898"
+            "ReviewerName": "memsharded",
+            "SubmittedAt": "2023-05-26T11:23:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13537#pullrequestreview-1446016729"
          }
       }
    },
@@ -2657,6 +2659,51 @@
             "SubmittedAt": "2023-05-26T08:43:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17711#pullrequestreview-1445635772"
          }
+      }
+   },
+   {
+      "Number": 17714,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-05-26T11:14:51Z",
+      "Recipe": "lzo",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17714",
+      "LastCommitSHA": "629a1775093da152949648275db8cfa107c45757",
+      "LastCommitAt": "2023-05-26T11:14:07Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-05-26T11:41:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17714#pullrequestreview-1446051306"
+         }
+      }
+   },
+   {
+      "Number": 17716,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-05-26T11:51:31Z",
+      "Recipe": "pystring",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17716",
+      "LastCommitSHA": "bbc44d3a2341fc3ac4d449456da899d80db0962c",
+      "LastCommitAt": "2023-05-26T11:50:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
