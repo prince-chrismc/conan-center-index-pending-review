@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **117** pull requests currently under way :detective:
+There are **118** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -140,10 +140,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|||
 [#17692](https://github.com/conan-io/conan-center-index/pull/17692)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|1|May 26||RubenRBS
 [#17702](https://github.com/conan-io/conan-center-index/pull/17702)|[andioz](https://github.com/andioz)|May 25|:stopwatch: benchmark|:blue_square: S|2|May 26|RubenRBS|Hopobcn
-[#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:memo: xsimd|M|1|May 25||
+[#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:memo: xsimd|M|2|May 26||RubenRBS
 [#17710](https://github.com/conan-io/conan-center-index/pull/17710)|[RubenRBS](https://github.com/RubenRBS)|May 26|:memo: libpfm4|M|0|||
 [#17711](https://github.com/conan-io/conan-center-index/pull/17711)|[conan-center-bot](https://github.com/conan-center-bot)|May 26|:gear: .c3i|:green_circle: XS|1|May 26||RubenRBS
 [#17714](https://github.com/conan-io/conan-center-index/pull/17714)|[ericLemanissier](https://github.com/ericLemanissier)|May 26|:memo: lzo|:green_circle: XS|1|May 26||RubenRBS
+[#17716](https://github.com/conan-io/conan-center-index/pull/17716)|[toge](https://github.com/toge)|May 26|:stopwatch: pystring|:green_circle: XS|1|May 26|RubenRBS|
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -164,7 +165,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 282
 	- Draft: 32
-	- Average Age: 74 days, 21 hours, and 10.50 minutes
+	- Average Age: 74 days, 22 hours, and 7.16 minutes
 	- Stop Label: 113
 	
 
