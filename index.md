@@ -23,12 +23,12 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **116** pull requests currently under way :detective:
+There are **118** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#13048](https://github.com/conan-io/conan-center-index/pull/13048)|[fpelliccioni](https://github.com/fpelliccioni)|Sep 20|:stopwatch: stlab|L|24|Feb 16 :bell:||
-[#13537](https://github.com/conan-io/conan-center-index/pull/13537)|[mjimenofluendo](https://github.com/mjimenofluendo)|Oct 17|:memo: gstreamer|:green_circle: XS|3|Dec 22 :bell:||
+[#13537](https://github.com/conan-io/conan-center-index/pull/13537)|[mjimenofluendo](https://github.com/mjimenofluendo)|Oct 17|:memo: gstreamer|:green_circle: XS|5|May 26||memsharded
 [#14509](https://github.com/conan-io/conan-center-index/pull/14509)|[toge](https://github.com/toge)|Dec 1|:memo: cassandra-cpp-driver|XL|0|:eyes:||
 [#14591](https://github.com/conan-io/conan-center-index/pull/14591)|[MateuszMiekicki](https://github.com/MateuszMiekicki)|Dec 5|:stopwatch: redboltz-mqtt_cpp|L|8|Mar 6 :bell:|uilianries|
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|3|May 10 :bell:||jwillikers
@@ -143,6 +143,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17704](https://github.com/conan-io/conan-center-index/pull/17704)|[toge](https://github.com/toge)|May 25|:memo: xsimd|M|1|May 25||
 [#17710](https://github.com/conan-io/conan-center-index/pull/17710)|[RubenRBS](https://github.com/RubenRBS)|May 26|:memo: libpfm4|M|0|||
 [#17711](https://github.com/conan-io/conan-center-index/pull/17711)|[conan-center-bot](https://github.com/conan-center-bot)|May 26|:gear: .c3i|:green_circle: XS|1|May 26||RubenRBS
+[#17714](https://github.com/conan-io/conan-center-index/pull/17714)|[ericLemanissier](https://github.com/ericLemanissier)|May 26|:memo: lzo|:green_circle: XS|1|May 26||RubenRBS
+[#17716](https://github.com/conan-io/conan-center-index/pull/17716)|[toge](https://github.com/toge)|May 26|:stopwatch: pystring|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -161,9 +163,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 6de2b584dadf5444e17dba1bbf0e5e5c9fb00844
 - Pull Requests:
-	- Open: 279
-	- Draft: 31
-	- Average Age: 75 days, 14 hours, and 25.80 minutes
+	- Open: 281
+	- Draft: 32
+	- Average Age: 75 days, 2 hours, and 43.38 minutes
 	- Stop Label: 112
 	
 
