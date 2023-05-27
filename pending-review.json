@@ -2524,6 +2524,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17724",
       "LastCommitSHA": "b5717b34cf5a3510c432ef7cb510abda53db7b92",
       "LastCommitAt": "2023-05-27T17:54:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17725,
+      "OpenedBy": "gjasny",
+      "CreatedAt": "2023-05-27T20:06:24Z",
+      "Recipe": "protobuf",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17725",
+      "LastCommitSHA": "855e3e2ac0590a1f6aa400966508cb0310b17861",
+      "LastCommitAt": "2023-05-27T20:05:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
