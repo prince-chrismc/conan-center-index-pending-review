@@ -106,17 +106,18 @@
       "LastCommitAt": "2023-05-10T15:50:27Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "samuel-emrys"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-10T16:44:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15193#pullrequestreview-1421035701"
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2023-05-27T02:51:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15193#pullrequestreview-1447127337"
          }
       }
    },
