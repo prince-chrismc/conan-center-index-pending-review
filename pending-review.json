@@ -200,15 +200,17 @@
       "LastCommitAt": "2023-05-26T17:29:49Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 15,
+         "Count": 16,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "miklelappo"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "miklelappo",
-            "SubmittedAt": "2023-05-25T19:05:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16098#pullrequestreview-1444493555"
+            "SubmittedAt": "2023-05-27T06:53:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16098#pullrequestreview-1447188640"
          }
       }
    },
@@ -2625,11 +2627,18 @@
       "LastCommitAt": "2023-05-26T17:35:53Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "0xFireWolf"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "0xFireWolf",
+            "SubmittedAt": "2023-05-27T06:18:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17721#pullrequestreview-1447175540"
+         }
       }
    }
 ]
