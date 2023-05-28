@@ -2553,15 +2553,15 @@
       }
    },
    {
-      "Number": 17727,
-      "OpenedBy": "chausner",
-      "CreatedAt": "2023-05-28T09:26:02Z",
-      "Recipe": "liblsl",
+      "Number": 17729,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-05-28T10:58:41Z",
+      "Recipe": "di",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17727",
-      "LastCommitSHA": "402b19865168e8438b140a11aff1657f497042fb",
-      "LastCommitAt": "2023-05-28T09:25:05Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17729",
+      "LastCommitSHA": "c3409272aa2756df09e45c7d0312eb100d48a9e7",
+      "LastCommitAt": "2023-05-25T01:06:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
