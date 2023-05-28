@@ -2553,15 +2553,15 @@
       }
    },
    {
-      "Number": 17726,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-05-28T09:12:06Z",
-      "Recipe": "cpp-httplib",
+      "Number": 17727,
+      "OpenedBy": "chausner",
+      "CreatedAt": "2023-05-28T09:26:02Z",
+      "Recipe": "liblsl",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17726",
-      "LastCommitSHA": "8f8a5d87948cfc16faabcc2bffb828f2984cd025",
-      "LastCommitAt": "2023-05-27T01:08:53Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17727",
+      "LastCommitSHA": "402b19865168e8438b140a11aff1657f497042fb",
+      "LastCommitAt": "2023-05-28T09:25:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
