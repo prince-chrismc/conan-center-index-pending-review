@@ -2551,24 +2551,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 17733,
-      "OpenedBy": "ivmai",
-      "CreatedAt": "2023-05-28T15:55:05Z",
-      "Recipe": "bdwgc",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17733",
-      "LastCommitSHA": "100666d277e1fa494cb7f7e14d396d9e7a1cb371",
-      "LastCommitAt": "2023-05-28T15:55:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
