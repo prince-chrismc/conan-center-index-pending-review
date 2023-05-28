@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **111** pull requests currently under way :detective:
+There are **112** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -56,7 +56,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16704](https://github.com/conan-io/conan-center-index/pull/16704)|[spnda](https://github.com/spnda)|Mar 25|:stopwatch: fastgltf|M|7|Apr 19 :bell:||
 [#16750](https://github.com/conan-io/conan-center-index/pull/16750)|[gouriano](https://github.com/gouriano)|Mar 28|:stopwatch: ncbi-cxx-toolkit-public|L|8|May 2 :bell:||
 [#16785](https://github.com/conan-io/conan-center-index/pull/16785)|[db4](https://github.com/db4)|Mar 30|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
-[#16990](https://github.com/conan-io/conan-center-index/pull/16990)|[toge](https://github.com/toge)|Apr 12|:memo: watcher|:blue_square: S|0|:eyes:||
+[#16990](https://github.com/conan-io/conan-center-index/pull/16990)|[toge](https://github.com/toge)|Apr 12|:stopwatch: watcher|:blue_square: S|0|||
 [#17025](https://github.com/conan-io/conan-center-index/pull/17025)|[SSE4](https://github.com/SSE4)|Apr 14|:new: vvenc|M|3|Apr 14 :bell:|uilianries|
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|0|:eyes:||
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|:eyes:||
@@ -138,6 +138,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17721](https://github.com/conan-io/conan-center-index/pull/17721)|[toge](https://github.com/toge)|May 26|:memo: fast_float|:blue_square: S|1|May 27||0xFireWolf
 [#17724](https://github.com/conan-io/conan-center-index/pull/17724)|[toge](https://github.com/toge)|May 27|:memo: yyjson|:blue_square: S|0|||
 [#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:memo: protobuf|:blue_square: S|0|||
+[#17734](https://github.com/conan-io/conan-center-index/pull/17734)|[toge](https://github.com/toge)|May 28|:stopwatch: lunasvg|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -156,9 +157,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 6de2b584dadf5444e17dba1bbf0e5e5c9fb00844
 - Pull Requests:
-	- Open: 276
+	- Open: 277
 	- Draft: 32
-	- Average Age: 77 days, 6 hours, and 51.86 minutes
+	- Average Age: 77 days, 1 hours, and 14.28 minutes
 	- Stop Label: 114
 	
 
