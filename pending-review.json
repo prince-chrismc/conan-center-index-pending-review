@@ -1933,34 +1933,6 @@
       }
    },
    {
-      "Number": 17495,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-05-10T07:51:00Z",
-      "Recipe": "atk",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17495",
-      "LastCommitSHA": "96567f30f312d05582c71f7a7b22a9894415129a",
-      "LastCommitAt": "2023-05-10T09:04:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "Croydon",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-29T11:02:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17495#pullrequestreview-1449314549"
-         }
-      }
-   },
-   {
       "Number": 17503,
       "OpenedBy": "joakimono",
       "CreatedAt": "2023-05-10T13:30:05Z",
