@@ -1745,7 +1745,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17436",
       "LastCommitSHA": "17bd7c36f1d6e4d38aeefe16b2c4db512c0be864",
       "LastCommitAt": "2023-05-29T12:55:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2351,34 +2351,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17637,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-05-20T15:14:57Z",
-      "Recipe": "expat",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17637",
-      "LastCommitSHA": "68bffa9a796afd411369738112d32d11b3dd357b",
-      "LastCommitAt": "2023-05-20T15:12:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "duncanspumpkin",
-            "memsharded",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-29T14:21:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17637#pullrequestreview-1449571139"
-         }
       }
    },
    {
