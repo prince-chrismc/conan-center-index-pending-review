@@ -132,7 +132,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -149,7 +149,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17546](https://github.com/conan-io/conan-center-index/pull/17546)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|May 12|:memo: tensorflow-lite|2|memsharded, SSE4
 [#17637](https://github.com/conan-io/conan-center-index/pull/17637)|[toge](https://github.com/toge)|May 20|:memo: expat|3|duncanspumpkin, memsharded, jwillikers
 [#17683](https://github.com/conan-io/conan-center-index/pull/17683)|[toge](https://github.com/toge)|May 24|:memo: libcurl|4|Hopobcn, 0xFireWolf, RubenRBS, jwillikers
-[#17702](https://github.com/conan-io/conan-center-index/pull/17702)|[andioz](https://github.com/andioz)|May 25|:memo: benchmark|5|RubenRBS, jwillikers
 
 
 #### :clipboard: Statistics
@@ -158,9 +157,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 6de2b584dadf5444e17dba1bbf0e5e5c9fb00844
 - Pull Requests:
-	- Open: 274
+	- Open: 273
 	- Draft: 31
-	- Average Age: 78 days, 14 hours, and 49.85 minutes
+	- Average Age: 78 days, 22 hours, and 18.48 minutes
 	- Stop Label: 113
 	
 
