@@ -72,7 +72,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|L|0|:eyes:||
 [#17264](https://github.com/conan-io/conan-center-index/pull/17264)|[SpaceIm](https://github.com/SpaceIm)|Apr 26|:memo: cyclonedds|:blue_square: S|1|Apr 27 :bell:||jwillikers
 [#17268](https://github.com/conan-io/conan-center-index/pull/17268)|[gegles](https://github.com/gegles)|Apr 27|:new: gegles-spdlog_setup|M|2|Apr 27 :bell:||
-[#17271](https://github.com/conan-io/conan-center-index/pull/17271)|[toge](https://github.com/toge)|Apr 27|:memo: mimalloc|L|0|:eyes:||
+[#17271](https://github.com/conan-io/conan-center-index/pull/17271)|[toge](https://github.com/toge)|Apr 27|:memo: mimalloc|L|1|May 29||mpimenov
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|0|:eyes:||
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1 :bell:||MartinDelille, jwillikers
 [#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:memo: xoshiro-cpp|M|1|May 1 :bell:||jwillikers
@@ -131,17 +131,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17666](https://github.com/conan-io/conan-center-index/pull/17666)|[Ignition](https://github.com/Ignition)|May 23|:memo: cppitertools|M|10|May 26||SSE4
 [#17681](https://github.com/conan-io/conan-center-index/pull/17681)|[ftena](https://github.com/ftena)|May 24|:stopwatch: spdlog|:green_circle: XS|0|:eyes:||
 [#17683](https://github.com/conan-io/conan-center-index/pull/17683)|[toge](https://github.com/toge)|May 24|:memo: libcurl|:blue_square: S|2|May 25||Hopobcn, 0xFireWolf
-[#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|:eyes:||
+[#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|||
 [#17702](https://github.com/conan-io/conan-center-index/pull/17702)|[andioz](https://github.com/andioz)|May 25|:stopwatch: benchmark|:blue_square: S|2|May 26|RubenRBS|Hopobcn
-[#17710](https://github.com/conan-io/conan-center-index/pull/17710)|[RubenRBS](https://github.com/RubenRBS)|May 26|:memo: libpfm4|M|0|||
+[#17710](https://github.com/conan-io/conan-center-index/pull/17710)|[RubenRBS](https://github.com/RubenRBS)|May 26|:memo: libpfm4|M|1|May 29||czoido
 [#17717](https://github.com/conan-io/conan-center-index/pull/17717)|[RubenRBS](https://github.com/RubenRBS)|May 26|:memo: imgui|M|1|May 26||
 [#17721](https://github.com/conan-io/conan-center-index/pull/17721)|[toge](https://github.com/toge)|May 26|:memo: fast_float|:blue_square: S|1|May 27||0xFireWolf
-[#17724](https://github.com/conan-io/conan-center-index/pull/17724)|[toge](https://github.com/toge)|May 27|:memo: yyjson|:blue_square: S|0|||
+[#17724](https://github.com/conan-io/conan-center-index/pull/17724)|[toge](https://github.com/toge)|May 27|:memo: yyjson|:blue_square: S|1|May 29||czoido
 [#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:memo: protobuf|:blue_square: S|0|||
 [#17733](https://github.com/conan-io/conan-center-index/pull/17733)|[ivmai](https://github.com/ivmai)|May 28|:memo: bdwgc|:blue_square: S|0|||
 [#17734](https://github.com/conan-io/conan-center-index/pull/17734)|[toge](https://github.com/toge)|May 28|:stopwatch: lunasvg|M|0|||
-[#17735](https://github.com/conan-io/conan-center-index/pull/17735)|[toge](https://github.com/toge)|May 28|:memo: ftxui|:blue_square: S|0|||
-[#17737](https://github.com/conan-io/conan-center-index/pull/17737)|[toge](https://github.com/toge)|May 29|:memo: plutovg|:blue_square: S|0|||
+[#17735](https://github.com/conan-io/conan-center-index/pull/17735)|[toge](https://github.com/toge)|May 28|:memo: ftxui|:blue_square: S|1|May 29||czoido
+[#17737](https://github.com/conan-io/conan-center-index/pull/17737)|[toge](https://github.com/toge)|May 29|:memo: plutovg|:blue_square: S|1|May 29||czoido
 [#17738](https://github.com/conan-io/conan-center-index/pull/17738)|[conan-center-bot](https://github.com/conan-center-bot)|May 29|:gear: .c3i|:green_circle: XS|0|||
 
 
@@ -163,7 +163,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 280
 	- Draft: 32
-	- Average Age: 76 days, 18 hours, and 19.39 minutes
+	- Average Age: 76 days, 19 hours, and 23.80 minutes
 	- Stop Label: 113
 	
 
