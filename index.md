@@ -129,7 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17734](https://github.com/conan-io/conan-center-index/pull/17734)|[toge](https://github.com/toge)|May 28|:memo: lunasvg|M|1|May 29||RubenRBS
 [#17741](https://github.com/conan-io/conan-center-index/pull/17741)|[perseoGI](https://github.com/perseoGI)|May 29|:stopwatch: dd-opentracing-cpp|L|0|||
 [#17744](https://github.com/conan-io/conan-center-index/pull/17744)|[krabbstek](https://github.com/krabbstek)|May 29|:stopwatch: cmake|:blue_square: S|0|||
-[#17746](https://github.com/conan-io/conan-center-index/pull/17746)|[toge](https://github.com/toge)|May 30|:stopwatch: quill|:blue_square: S|0|||
+[#17746](https://github.com/conan-io/conan-center-index/pull/17746)|[toge](https://github.com/toge)|May 30|:memo: quill|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -150,7 +150,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 263
 	- Draft: 31
-	- Average Age: 81 days, 2 hours, and 44.62 minutes
+	- Average Age: 81 days, 4 hours, and 23.87 minutes
 	- Stop Label: 114
 	
 
