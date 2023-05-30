@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **104** pull requests currently under way :detective:
+There are **106** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,6 +131,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17741](https://github.com/conan-io/conan-center-index/pull/17741)|[perseoGI](https://github.com/perseoGI)|May 29|:stopwatch: dd-opentracing-cpp|L|0|||
 [#17744](https://github.com/conan-io/conan-center-index/pull/17744)|[krabbstek](https://github.com/krabbstek)|May 29|:stopwatch: cmake|:blue_square: S|0|||
 [#17746](https://github.com/conan-io/conan-center-index/pull/17746)|[toge](https://github.com/toge)|May 30|:memo: quill|:blue_square: S|0|||
+[#17748](https://github.com/conan-io/conan-center-index/pull/17748)|[conan-center-bot](https://github.com/conan-center-bot)|May 30|:gear: .c3i|:green_circle: XS|2|May 30||SSE4
+[#17749](https://github.com/conan-io/conan-center-index/pull/17749)|[toge](https://github.com/toge)|May 30|:stopwatch: wasmtime-cpp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -149,9 +151,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ab68a912a003907c5576c6441b78edee48591dce
 - Pull Requests:
-	- Open: 263
+	- Open: 265
 	- Draft: 31
-	- Average Age: 81 days, 5 hours, and 21.01 minutes
+	- Average Age: 80 days, 15 hours, and 41.92 minutes
 	- Stop Label: 113
 	
 
