@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **103** pull requests currently under way :detective:
+There are **106** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -130,6 +130,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17757](https://github.com/conan-io/conan-center-index/pull/17757)|[jwillikers](https://github.com/jwillikers)|May 30|:memo: libmount|:green_circle: XS|0|||
 [#17761](https://github.com/conan-io/conan-center-index/pull/17761)|[leha-bot](https://github.com/leha-bot)|May 30|:stopwatch: ccache|:green_circle: XS|0|:eyes:||
 [#17763](https://github.com/conan-io/conan-center-index/pull/17763)|[memsharded](https://github.com/memsharded)|May 30|:stopwatch: libwebsockets|L|0|||
+[#17764](https://github.com/conan-io/conan-center-index/pull/17764)|[gegles](https://github.com/gegles)|May 30|:stopwatch: openssl|:blue_square: S|0|||
+[#17765](https://github.com/conan-io/conan-center-index/pull/17765)|[toge](https://github.com/toge)|May 30|:stopwatch: redis-plus-plus|M|0|||
+[#17766](https://github.com/conan-io/conan-center-index/pull/17766)|[toge](https://github.com/toge)|May 30|:stopwatch: scnlib|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -149,9 +152,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ab68a912a003907c5576c6441b78edee48591dce
 - Pull Requests:
-	- Open: 266
+	- Open: 269
 	- Draft: 34
-	- Average Age: 80 days, 7 hours, and 58.79 minutes
+	- Average Age: 79 days, 11 hours, and 22.73 minutes
 	- Stop Label: 112
 	
 
