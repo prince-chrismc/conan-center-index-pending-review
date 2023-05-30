@@ -68,7 +68,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|12|May 26||samuel-emrys
 [#17224](https://github.com/conan-io/conan-center-index/pull/17224)|[gummif](https://github.com/gummif)|Apr 25|:memo: zeromq|:green_circle: XS|4|May 18||
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|L|0|:eyes:||
-[#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:stopwatch: z3|L|3|May 24||
+[#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:memo: z3|L|3|May 24||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|L|0|:eyes:||
 [#17268](https://github.com/conan-io/conan-center-index/pull/17268)|[gegles](https://github.com/gegles)|Apr 27|:new: gegles-spdlog_setup|M|2|Apr 27 :bell:||
 [#17271](https://github.com/conan-io/conan-center-index/pull/17271)|[toge](https://github.com/toge)|Apr 27|:memo: mimalloc|L|1|May 29||mpimenov
@@ -133,14 +133,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16938](https://github.com/conan-io/conan-center-index/pull/16938)|[OleksandrKvl](https://github.com/OleksandrKvl)|Apr 7|:new: sbepp|14|memsharded, czoido, RubenRBS
-[#16990](https://github.com/conan-io/conan-center-index/pull/16990)|[toge](https://github.com/toge)|Apr 12|:memo: watcher|3|RubenRBS, SSE4
-[#17154](https://github.com/conan-io/conan-center-index/pull/17154)|[toge](https://github.com/toge)|Apr 21|:memo: wasmtime|4|jwillikers, RubenRBS, memsharded
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
 [#17521](https://github.com/conan-io/conan-center-index/pull/17521)|[mpimenov](https://github.com/mpimenov)|May 11|:warning: arrow|4|RubenRBS, SSE4
 
@@ -151,9 +149,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ab68a912a003907c5576c6441b78edee48591dce
 - Pull Requests:
-	- Open: 265
+	- Open: 263
 	- Draft: 31
-	- Average Age: 80 days, 22 hours, and 55.31 minutes
+	- Average Age: 81 days, 7 hours, and 37.69 minutes
 	- Stop Label: 113
 	
 
