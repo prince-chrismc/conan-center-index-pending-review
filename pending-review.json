@@ -1495,11 +1495,18 @@
       "LastCommitAt": "2023-05-25T10:28:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "danimtb"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-05-30T10:18:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17411#pullrequestreview-1450603659"
+         }
       }
    },
    {
@@ -2151,34 +2158,6 @@
       }
    },
    {
-      "Number": 17666,
-      "OpenedBy": "Ignition",
-      "CreatedAt": "2023-05-23T16:20:17Z",
-      "Recipe": "cppitertools",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17666",
-      "LastCommitSHA": "a6ec91866b9c3b3d5b64e929e8e4f2a0a6eaa467",
-      "LastCommitAt": "2023-05-26T15:46:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 13,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "SSE4",
-            "memsharded",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-05-30T09:37:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17666#pullrequestreview-1450530525"
-         }
-      }
-   },
-   {
       "Number": 17691,
       "OpenedBy": "mpimenov",
       "CreatedAt": "2023-05-24T21:19:12Z",
@@ -2381,6 +2360,25 @@
             "SubmittedAt": "2023-05-30T09:41:38Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17751#pullrequestreview-1450538008"
          }
+      }
+   },
+   {
+      "Number": 17752,
+      "OpenedBy": "0xFireWolf",
+      "CreatedAt": "2023-05-30T10:34:28Z",
+      "Recipe": "wolfssl",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17752",
+      "LastCommitSHA": "77a0a3a599b865aea218bd97e2467c54391e5ad9",
+      "LastCommitAt": "2023-05-30T10:33:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
