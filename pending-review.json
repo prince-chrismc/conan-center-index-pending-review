@@ -659,25 +659,6 @@
       }
    },
    {
-      "Number": 16872,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-04-03T16:04:28Z",
-      "Recipe": "drogon",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16872",
-      "LastCommitSHA": "b043c02e9c1077a04e8126afa8f852289d564ef9",
-      "LastCommitAt": "2023-05-23T10:38:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17025,
       "OpenedBy": "SSE4",
       "CreatedAt": "2023-04-14T07:18:58Z",
@@ -2353,25 +2334,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17761",
       "LastCommitSHA": "8008a85dd0005950749ac151068497e426d20238",
       "LastCommitAt": "2023-05-09T09:13:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17763,
-      "OpenedBy": "memsharded",
-      "CreatedAt": "2023-05-30T15:49:28Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17763",
-      "LastCommitSHA": "3494c9a25c4d1075414d06ee5b1335a8913f2ca6",
-      "LastCommitAt": "2023-05-30T16:20:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
