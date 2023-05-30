@@ -2313,9 +2313,9 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17752",
-      "LastCommitSHA": "77a0a3a599b865aea218bd97e2467c54391e5ad9",
-      "LastCommitAt": "2023-05-30T10:33:52Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "49161ef083ed0ce6988d43f72944e2f0e513d5c0",
+      "LastCommitAt": "2023-05-30T22:09:20Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2360,6 +2360,30 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 17764,
+      "OpenedBy": "gegles",
+      "CreatedAt": "2023-05-30T16:30:52Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17764",
+      "LastCommitSHA": "a1b527fffa20ea4ff6bb66aa80844f5661cb5394",
+      "LastCommitAt": "2023-05-30T21:11:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2023-05-30T20:34:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17764#pullrequestreview-1451773045"
+         }
       }
    },
    {
