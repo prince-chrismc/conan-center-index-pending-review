@@ -96,6 +96,25 @@
       }
    },
    {
+      "Number": 15669,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-02-02T00:33:26Z",
+      "Recipe": "opencolorio",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15669",
+      "LastCommitSHA": "f2b7c85f7f0fe47e931ca4b4ea1e6411ca397014",
+      "LastCommitAt": "2023-05-30T03:02:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 15678,
       "OpenedBy": "sabelka",
       "CreatedAt": "2023-02-02T12:52:55Z",
