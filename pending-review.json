@@ -2377,25 +2377,6 @@
       }
    },
    {
-      "Number": 17761,
-      "OpenedBy": "leha-bot",
-      "CreatedAt": "2023-05-30T14:48:13Z",
-      "Recipe": "ccache",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17761",
-      "LastCommitSHA": "8008a85dd0005950749ac151068497e426d20238",
-      "LastCommitAt": "2023-05-09T09:13:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17763,
       "OpenedBy": "memsharded",
       "CreatedAt": "2023-05-30T15:49:28Z",
@@ -2424,7 +2405,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17764",
       "LastCommitSHA": "5eab07cca3878a81807780711247b23180233919",
       "LastCommitAt": "2023-05-30T22:23:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
