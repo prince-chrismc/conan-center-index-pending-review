@@ -2305,33 +2305,6 @@
       }
    },
    {
-      "Number": 17751,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-05-30T09:30:46Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17751",
-      "LastCommitSHA": "803806368b68351992fc08eb87d9d1f0b3055921",
-      "LastCommitAt": "2023-05-30T09:14:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier",
-            "jwillikers"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-30T13:14:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17751#pullrequestreview-1450911622"
-         }
-      }
-   },
-   {
       "Number": 17752,
       "OpenedBy": "0xFireWolf",
       "CreatedAt": "2023-05-30T10:34:28Z",
