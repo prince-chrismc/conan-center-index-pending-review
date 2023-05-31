@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **105** pull requests currently under way :detective:
+There are **104** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -74,7 +74,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17271](https://github.com/conan-io/conan-center-index/pull/17271)|[toge](https://github.com/toge)|Apr 27|:memo: mimalloc|L|2|May 30||mpimenov, danimtb
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|0|:eyes:||
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1 :bell:||MartinDelille, jwillikers
-[#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:stopwatch: xoshiro-cpp|M|1|May 1 :bell:||
 [#17304](https://github.com/conan-io/conan-center-index/pull/17304)|[toge](https://github.com/toge)|Apr 29|:memo: simdutf|M|4|May 24||jwillikers
 [#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:new: clickhouse-cpp|M|3|May 31||
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:stopwatch: armadillo|L|0|:eyes:||
@@ -153,8 +152,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 264
 	- Draft: 29
-	- Average Age: 81 days, 17 hours, and 49.22 minutes
-	- Stop Label: 114
+	- Average Age: 81 days, 18 hours, and 43.22 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
