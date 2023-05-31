@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **102** pull requests currently under way :detective:
+There are **104** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -119,7 +119,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17663](https://github.com/conan-io/conan-center-index/pull/17663)|[hiiizxf](https://github.com/hiiizxf)|May 23|:new: xlsxio|L|2|May 31||danimtb
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|||
 [#17707](https://github.com/conan-io/conan-center-index/pull/17707)|[kevswims](https://github.com/kevswims)|May 25|:stopwatch: foxglove-schemas-protobuf|L|0|||
-[#17719](https://github.com/conan-io/conan-center-index/pull/17719)|[rturrado](https://github.com/rturrado)|May 26|:stopwatch: libqasm|M|9|May 30|RubenRBS|
 [#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:memo: protobuf|:blue_square: S|1|May 30||Hopobcn
 [#17741](https://github.com/conan-io/conan-center-index/pull/17741)|[perseoGI](https://github.com/perseoGI)|May 29|:stopwatch: dd-opentracing-cpp|L|0|||
 [#17744](https://github.com/conan-io/conan-center-index/pull/17744)|[krabbstek](https://github.com/krabbstek)|May 29|:stopwatch: cmake|:blue_square: S|0|||
@@ -127,19 +126,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17752](https://github.com/conan-io/conan-center-index/pull/17752)|[0xFireWolf](https://github.com/0xFireWolf)|May 30|:memo: wolfssl|:blue_square: S|0|||
 [#17764](https://github.com/conan-io/conan-center-index/pull/17764)|[gegles](https://github.com/gegles)|May 30|:stopwatch: openssl|:blue_square: S|6|May 31||
 [#17767](https://github.com/conan-io/conan-center-index/pull/17767)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:memo: gfortran|:green_circle: XS|0|||
-[#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|||
+[#17769](https://github.com/conan-io/conan-center-index/pull/17769)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:memo: mozilla-build|:blue_square: S|0|||
 [#17770](https://github.com/conan-io/conan-center-index/pull/17770)|[conan-center-bot](https://github.com/conan-center-bot)|May 31|:gear: .c3i|:green_circle: XS|1|May 31||SSE4
+[#17772](https://github.com/conan-io/conan-center-index/pull/17772)|[toge](https://github.com/toge)|May 31|:stopwatch: libcurl|:blue_square: S|0|||
+[#17774](https://github.com/conan-io/conan-center-index/pull/17774)|[jcar87](https://github.com/jcar87)|May 31|:stopwatch: xtensor|:green_circle: XS|1|May 31||RubenRBS
+[#17775](https://github.com/conan-io/conan-center-index/pull/17775)|[jcar87](https://github.com/jcar87)|May 31|:stopwatch: xoshiro-cpp|:green_circle: XS|1|May 31||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
-[#17597](https://github.com/conan-io/conan-center-index/pull/17597)|[Cogitri](https://github.com/Cogitri)|May 17|:warning: turtle|5|franramirez688, RubenRBS
 [#17748](https://github.com/conan-io/conan-center-index/pull/17748)|[conan-center-bot](https://github.com/conan-center-bot)|May 30|:gear: .c3i|3|SSE4, RubenRBS
 
 
@@ -149,10 +150,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 266
+	- Open: 267
 	- Draft: 29
-	- Average Age: 81 days, 1 hours, and 37.29 minutes
-	- Stop Label: 117
+	- Average Age: 80 days, 18 hours, and 14.69 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
