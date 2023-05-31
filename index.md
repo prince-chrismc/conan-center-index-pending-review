@@ -76,7 +76,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1 :bell:||MartinDelille, jwillikers
 [#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:memo: xoshiro-cpp|M|1|May 1 :bell:||jwillikers
 [#17304](https://github.com/conan-io/conan-center-index/pull/17304)|[toge](https://github.com/toge)|Apr 29|:memo: simdutf|M|4|May 24||jwillikers
-[#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:new: clickhouse-cpp|L|1|May 26||
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:stopwatch: armadillo|L|0|:eyes:||
 [#17332](https://github.com/conan-io/conan-center-index/pull/17332)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: xqilla|L|1|May 1 :bell:||jwillikers
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|5|May 20|jcar87|jwillikers, prince-chrismc, SSE4
@@ -111,6 +110,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17547](https://github.com/conan-io/conan-center-index/pull/17547)|[joakimono](https://github.com/joakimono)|May 12|:memo: glpk|L|0|:eyes:||
 [#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:new: embag|M|1|May 25||
 [#17592](https://github.com/conan-io/conan-center-index/pull/17592)|[toge](https://github.com/toge)|May 16|:stopwatch: mailio|M|4|May 27|RubenRBS|SSE4
+[#17597](https://github.com/conan-io/conan-center-index/pull/17597)|[Cogitri](https://github.com/Cogitri)|May 17|:stopwatch: turtle|M|3|May 25|RubenRBS|
 [#17600](https://github.com/conan-io/conan-center-index/pull/17600)|[bruchar1](https://github.com/bruchar1)|May 17|:stopwatch: qt|:blue_square: S|3|May 27||jwillikers, ericLemanissier, MartinDelille
 [#17605](https://github.com/conan-io/conan-center-index/pull/17605)|[toge](https://github.com/toge)|May 18|:memo: duckdb|M|0|:eyes:||
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
@@ -152,8 +152,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 268
 	- Draft: 34
-	- Average Age: 80 days, 9 hours, and 32.41 minutes
-	- Stop Label: 113
+	- Average Age: 80 days, 10 hours, and 30.13 minutes
+	- Stop Label: 114
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
