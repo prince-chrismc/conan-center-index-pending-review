@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **105** pull requests currently under way :detective:
+There are **106** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -125,6 +125,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|||
 [#17769](https://github.com/conan-io/conan-center-index/pull/17769)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:memo: mozilla-build|:blue_square: S|0|||
 [#17777](https://github.com/conan-io/conan-center-index/pull/17777)|[ovostrikov](https://github.com/ovostrikov)|May 31|:memo: onetbb|M|0|||
+[#17779](https://github.com/conan-io/conan-center-index/pull/17779)|[simoncent](https://github.com/simoncent)|May 31|:stopwatch: id3v2lib|M|1|Jun 1||
 [#17784](https://github.com/conan-io/conan-center-index/pull/17784)|[Sa3eedove](https://github.com/Sa3eedove)|Jun 1|:stopwatch: usockets|L|0|||
 [#17785](https://github.com/conan-io/conan-center-index/pull/17785)|[toge](https://github.com/toge)|Jun 1|:memo: etl|:blue_square: S|2|Jun 1||RubenRBS
 [#17786](https://github.com/conan-io/conan-center-index/pull/17786)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 1|:memo: opencl-icd-loader|:blue_square: S|0|||
@@ -136,14 +137,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17748](https://github.com/conan-io/conan-center-index/pull/17748)|[conan-center-bot](https://github.com/conan-center-bot)|May 30|:gear: .c3i|3|SSE4, RubenRBS
-[#17764](https://github.com/conan-io/conan-center-index/pull/17764)|[gegles](https://github.com/gegles)|May 30|:memo: openssl|9|Nekto89, Croydon, RubenRBS
-[#17770](https://github.com/conan-io/conan-center-index/pull/17770)|[conan-center-bot](https://github.com/conan-center-bot)|May 31|:gear: .c3i|2|SSE4, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -152,10 +151,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 265
-	- Draft: 29
-	- Average Age: 81 days, 14 hours, and 25.54 minutes
-	- Stop Label: 113
+	- Open: 263
+	- Draft: 27
+	- Average Age: 82 days, 5 hours, and 56.00 minutes
+	- Stop Label: 115
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
