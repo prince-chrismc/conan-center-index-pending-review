@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **103** pull requests currently under way :detective:
+There are **101** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -70,7 +70,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17244](https://github.com/conan-io/conan-center-index/pull/17244)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 26|:memo: z3|L|4|May 30||danimtb
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|L|0|:eyes:||
 [#17268](https://github.com/conan-io/conan-center-index/pull/17268)|[gegles](https://github.com/gegles)|Apr 27|:new: gegles-spdlog_setup|M|2|Apr 27 :bell:||
-[#17271](https://github.com/conan-io/conan-center-index/pull/17271)|[toge](https://github.com/toge)|Apr 27|:memo: mimalloc|L|2|May 30||mpimenov, danimtb
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|0|:eyes:||
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1 :bell:||MartinDelille, jwillikers
 [#17297](https://github.com/conan-io/conan-center-index/pull/17297)|[SpaceIm](https://github.com/SpaceIm)|Apr 28|:memo: xoshiro-cpp|M|1|May 1 :bell:||
@@ -90,7 +89,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17399](https://github.com/conan-io/conan-center-index/pull/17399)|[SpaceIm](https://github.com/SpaceIm)|May 4|:memo: termcolor|M|1|May 5 :bell:||jwillikers
 [#17408](https://github.com/conan-io/conan-center-index/pull/17408)|[toge](https://github.com/toge)|May 5|:new: sonic-cpp|M|0|:eyes:||
 [#17414](https://github.com/conan-io/conan-center-index/pull/17414)|[valgur](https://github.com/valgur)|May 5|:stopwatch: eastl|L|1|May 25||
-[#17416](https://github.com/conan-io/conan-center-index/pull/17416)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|May 5|:new: opencl-clhpp-headers|M|3|May 30||davidsanfal
 [#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:stopwatch: tk|L|0|:eyes:||
 [#17428](https://github.com/conan-io/conan-center-index/pull/17428)|[kwach](https://github.com/kwach)|May 6|:new: libmemcached|L|3|May 30||danimtb
 [#17436](https://github.com/conan-io/conan-center-index/pull/17436)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: openmvg|:green_circle: XS|0|||
@@ -118,7 +116,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17707](https://github.com/conan-io/conan-center-index/pull/17707)|[kevswims](https://github.com/kevswims)|May 25|:stopwatch: foxglove-schemas-protobuf|L|0|||
 [#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:memo: protobuf|:blue_square: S|1|May 30||Hopobcn
 [#17740](https://github.com/conan-io/conan-center-index/pull/17740)|[simoncent](https://github.com/simoncent)|May 29|:new: libwebm|L|0|||
-[#17741](https://github.com/conan-io/conan-center-index/pull/17741)|[perseoGI](https://github.com/perseoGI)|May 29|:stopwatch: dd-opentracing-cpp|L|0|||
 [#17744](https://github.com/conan-io/conan-center-index/pull/17744)|[krabbstek](https://github.com/krabbstek)|May 29|:stopwatch: cmake|:blue_square: S|0|||
 [#17752](https://github.com/conan-io/conan-center-index/pull/17752)|[0xFireWolf](https://github.com/0xFireWolf)|May 30|:memo: wolfssl|:blue_square: S|0|||
 [#17764](https://github.com/conan-io/conan-center-index/pull/17764)|[gegles](https://github.com/gegles)|May 30|:memo: openssl|:blue_square: S|8|May 31||Nekto89, Croydon
@@ -130,17 +127,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17777](https://github.com/conan-io/conan-center-index/pull/17777)|[ovostrikov](https://github.com/ovostrikov)|May 31|:memo: onetbb|M|0|||
 [#17778](https://github.com/conan-io/conan-center-index/pull/17778)|[toge](https://github.com/toge)|May 31|:stopwatch: glaze|:blue_square: S|0|||
 [#17779](https://github.com/conan-io/conan-center-index/pull/17779)|[simoncent](https://github.com/simoncent)|May 31|:new: id3v2lib|M|0|||
+[#17783](https://github.com/conan-io/conan-center-index/pull/17783)|[davidsanfal](https://github.com/davidsanfal)|Jun 1|:gear: .c3i|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#17100](https://github.com/conan-io/conan-center-index/pull/17100)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-cal|2|jwillikers, uilianries
 [#17227](https://github.com/conan-io/conan-center-index/pull/17227)|[Ambrase](https://github.com/Ambrase)|Apr 25|:warning: aeron|2|danimtb, uilianries
+[#17271](https://github.com/conan-io/conan-center-index/pull/17271)|[toge](https://github.com/toge)|Apr 27|:memo: mimalloc|3|mpimenov, danimtb, uilianries
+[#17416](https://github.com/conan-io/conan-center-index/pull/17416)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|May 5|:new: opencl-clhpp-headers|4|davidsanfal, uilianries
 [#17748](https://github.com/conan-io/conan-center-index/pull/17748)|[conan-center-bot](https://github.com/conan-center-bot)|May 30|:gear: .c3i|3|SSE4, RubenRBS
 
 
@@ -150,10 +149,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 263
+	- Open: 264
 	- Draft: 29
-	- Average Age: 82 days, 15 hours, and 4.64 minutes
-	- Stop Label: 114
+	- Average Age: 82 days, 4 hours, and 32.24 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
