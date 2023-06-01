@@ -61,6 +61,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|0|:eyes:||
 [#17045](https://github.com/conan-io/conan-center-index/pull/17045)|[prince-chrismc](https://github.com/prince-chrismc)|Apr 17|:memo: dbcppp|:blue_square: S|0|:eyes:||
 [#17096](https://github.com/conan-io/conan-center-index/pull/17096)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: cpprestsdk|M|0|:eyes:||
+[#17104](https://github.com/conan-io/conan-center-index/pull/17104)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-io|M|0|:eyes:||
 [#17138](https://github.com/conan-io/conan-center-index/pull/17138)|[gjasny](https://github.com/gjasny)|Apr 20|:new: asyncly|M|0|:eyes:||
 [#17147](https://github.com/conan-io/conan-center-index/pull/17147)|[toge](https://github.com/toge)|Apr 21|:memo: jsonnet|L|0|:eyes:||
 [#17155](https://github.com/conan-io/conan-center-index/pull/17155)|[toge](https://github.com/toge)|Apr 21|:memo: wasmer|M|1|May 1 :bell:||jwillikers
@@ -133,7 +134,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17788](https://github.com/conan-io/conan-center-index/pull/17788)|[jcar87](https://github.com/jcar87)|Jun 1|:memo: jasper|:green_circle: XS|1|Jun 1||uilianries
 [#17790](https://github.com/conan-io/conan-center-index/pull/17790)|[toge](https://github.com/toge)|Jun 1|:memo: uvw|:blue_square: S|1|Jun 1||RubenRBS
 [#17791](https://github.com/conan-io/conan-center-index/pull/17791)|[toge](https://github.com/toge)|Jun 1|:memo: c4core|:green_circle: XS|0|||
-[#17793](https://github.com/conan-io/conan-center-index/pull/17793)|[toge](https://github.com/toge)|Jun 1|:stopwatch: re2|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -154,7 +154,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 263
 	- Draft: 27
-	- Average Age: 82 days, 7 hours, and 1.82 minutes
+	- Average Age: 82 days, 7 hours, and 55.50 minutes
 	- Stop Label: 114
 	
 
