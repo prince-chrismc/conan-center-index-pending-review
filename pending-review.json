@@ -2222,6 +2222,25 @@
       }
    },
    {
+      "Number": 17778,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-05-31T15:31:03Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17778",
+      "LastCommitSHA": "eb61825f09656a7af04250b2b3655220b4c86c7a",
+      "LastCommitAt": "2023-06-01T15:16:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17779,
       "OpenedBy": "simoncent",
       "CreatedAt": "2023-05-31T15:33:44Z",
@@ -2231,7 +2250,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17779",
       "LastCommitSHA": "3e08a3fa5b89e1115c2f21eccc2ee0324e091d13",
       "LastCommitAt": "2023-06-01T16:29:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
