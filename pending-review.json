@@ -1061,15 +1061,17 @@
       "LastCommitAt": "2023-05-31T18:23:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-01T13:39:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17297#pullrequestreview-1407606981"
+            "SubmittedAt": "2023-06-01T13:25:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17297#pullrequestreview-1455476259"
          }
       }
    },
@@ -2348,6 +2350,25 @@
       "LastCommitSHA": "eb844a73cc4a2cc454bea9d59b9a7f4642d95cef",
       "LastCommitAt": "2023-06-01T09:52:08Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17788,
+      "OpenedBy": "jcar87",
+      "CreatedAt": "2023-06-01T12:53:30Z",
+      "Recipe": "jasper",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17788",
+      "LastCommitSHA": "14e1dbb8cfa60805cb514b72cc05c90f1949b7e8",
+      "LastCommitAt": "2023-06-01T13:55:30Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
