@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **111** pull requests currently under way :detective:
+There are **108** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -132,22 +132,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17779](https://github.com/conan-io/conan-center-index/pull/17779)|[simoncent](https://github.com/simoncent)|May 31|:new: id3v2lib|M|1|Jun 1||
 [#17782](https://github.com/conan-io/conan-center-index/pull/17782)|[hiiizxf](https://github.com/hiiizxf)|Jun 1|:new: nanomsg|M|0|||
 [#17784](https://github.com/conan-io/conan-center-index/pull/17784)|[Sa3eedove](https://github.com/Sa3eedove)|Jun 1|:stopwatch: usockets|L|0|||
-[#17785](https://github.com/conan-io/conan-center-index/pull/17785)|[toge](https://github.com/toge)|Jun 1|:memo: etl|:blue_square: S|2|Jun 1||RubenRBS
 [#17786](https://github.com/conan-io/conan-center-index/pull/17786)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 1|:memo: opencl-icd-loader|:blue_square: S|0|||
-[#17788](https://github.com/conan-io/conan-center-index/pull/17788)|[jcar87](https://github.com/jcar87)|Jun 1|:memo: jasper|:green_circle: XS|1|Jun 1||uilianries
 [#17791](https://github.com/conan-io/conan-center-index/pull/17791)|[toge](https://github.com/toge)|Jun 1|:memo: c4core|:green_circle: XS|0|||
-[#17795](https://github.com/conan-io/conan-center-index/pull/17795)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 2|:gear: .c3i|:green_circle: XS|1|Jun 2||RubenRBS
 [#17797](https://github.com/conan-io/conan-center-index/pull/17797)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 2|:memo: pixman|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17748](https://github.com/conan-io/conan-center-index/pull/17748)|[conan-center-bot](https://github.com/conan-center-bot)|May 30|:gear: .c3i|3|SSE4, RubenRBS
+[#17785](https://github.com/conan-io/conan-center-index/pull/17785)|[toge](https://github.com/toge)|Jun 1|:memo: etl|3|RubenRBS, ericLemanissier
+[#17788](https://github.com/conan-io/conan-center-index/pull/17788)|[jcar87](https://github.com/jcar87)|Jun 1|:memo: jasper|2|uilianries, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -156,9 +155,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 264
+	- Open: 263
 	- Draft: 26
-	- Average Age: 82 days, 17 hours, and 35.26 minutes
+	- Average Age: 83 days, 2 hours, and 0.84 minutes
 	- Stop Label: 112
 	
 
