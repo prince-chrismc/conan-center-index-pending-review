@@ -2510,5 +2510,43 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17802#pullrequestreview-1458120606"
          }
       }
+   },
+   {
+      "Number": 17803,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2023-06-02T21:50:48Z",
+      "Recipe": "sobjectizer",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17803",
+      "LastCommitSHA": "143caf9f31c8f89d6ccdac1fdf79b9fec27064f6",
+      "LastCommitAt": "2023-06-02T21:49:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17804,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-02T22:02:16Z",
+      "Recipe": "daw_header_libraries",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17804",
+      "LastCommitSHA": "62701e8d61addf880056ff17beba124d49ab96df",
+      "LastCommitAt": "2023-06-02T18:41:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
