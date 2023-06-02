@@ -2310,6 +2310,25 @@
       }
    },
    {
+      "Number": 17782,
+      "OpenedBy": "hiiizxf",
+      "CreatedAt": "2023-06-01T08:32:03Z",
+      "Recipe": "nanomsg",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17782",
+      "LastCommitSHA": "8e7bcad8e58e0a775e737275b5c8bdac5d6c06ec",
+      "LastCommitAt": "2023-06-02T01:33:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17784,
       "OpenedBy": "Sa3eedove",
       "CreatedAt": "2023-06-01T09:30:19Z",
