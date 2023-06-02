@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **108** pull requests currently under way :detective:
+There are **109** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -129,6 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17777](https://github.com/conan-io/conan-center-index/pull/17777)|[ovostrikov](https://github.com/ovostrikov)|May 31|:memo: onetbb|M|0|||
 [#17778](https://github.com/conan-io/conan-center-index/pull/17778)|[toge](https://github.com/toge)|May 31|:memo: glaze|:blue_square: S|0|||
 [#17779](https://github.com/conan-io/conan-center-index/pull/17779)|[simoncent](https://github.com/simoncent)|May 31|:new: id3v2lib|M|1|Jun 1||
+[#17782](https://github.com/conan-io/conan-center-index/pull/17782)|[hiiizxf](https://github.com/hiiizxf)|Jun 1|:new: nanomsg|M|0|||
 [#17784](https://github.com/conan-io/conan-center-index/pull/17784)|[Sa3eedove](https://github.com/Sa3eedove)|Jun 1|:stopwatch: usockets|L|0|||
 [#17785](https://github.com/conan-io/conan-center-index/pull/17785)|[toge](https://github.com/toge)|Jun 1|:memo: etl|:blue_square: S|2|Jun 1||RubenRBS
 [#17786](https://github.com/conan-io/conan-center-index/pull/17786)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 1|:memo: opencl-icd-loader|:blue_square: S|0|||
@@ -155,8 +156,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 263
 	- Draft: 27
-	- Average Age: 82 days, 9 hours, and 55.69 minutes
-	- Stop Label: 113
+	- Average Age: 82 days, 15 hours, and 31.51 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
