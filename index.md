@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **109** pull requests currently under way :detective:
+There are **111** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -102,6 +102,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17470](https://github.com/conan-io/conan-center-index/pull/17470)|[valgur](https://github.com/valgur)|May 9|:memo: libtins|L|0|:eyes:||
 [#17485](https://github.com/conan-io/conan-center-index/pull/17485)|[SpaceIm](https://github.com/SpaceIm)|May 9|:stopwatch: libxft|L|1|May 10 :bell:||jwillikers
 [#17490](https://github.com/conan-io/conan-center-index/pull/17490)|[toge](https://github.com/toge)|May 10|:memo: cpr|:blue_square: S|0|:eyes:||
+[#17491](https://github.com/conan-io/conan-center-index/pull/17491)|[Knapock](https://github.com/Knapock)|May 10|:stopwatch: dbus|:blue_square: S|4|Jun 1||jwillikers
 [#17505](https://github.com/conan-io/conan-center-index/pull/17505)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|May 10|:stopwatch: seadex-genesis|M|0|:eyes:||
 [#17528](https://github.com/conan-io/conan-center-index/pull/17528)|[kammce](https://github.com/kammce)|May 11|:stopwatch: arm-gnu-toolchain|L|5|May 23||
 [#17539](https://github.com/conan-io/conan-center-index/pull/17539)|[MartinDelille](https://github.com/MartinDelille)|May 12|:stopwatch: qt|XL|4|May 17 :bell:||ericLemanissier, jwillikers
@@ -136,6 +137,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17788](https://github.com/conan-io/conan-center-index/pull/17788)|[jcar87](https://github.com/jcar87)|Jun 1|:memo: jasper|:green_circle: XS|1|Jun 1||uilianries
 [#17791](https://github.com/conan-io/conan-center-index/pull/17791)|[toge](https://github.com/toge)|Jun 1|:memo: c4core|:green_circle: XS|0|||
 [#17795](https://github.com/conan-io/conan-center-index/pull/17795)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 2|:gear: .c3i|:green_circle: XS|1|Jun 2||RubenRBS
+[#17797](https://github.com/conan-io/conan-center-index/pull/17797)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 2|:memo: pixman|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -155,9 +157,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
 	- Open: 264
-	- Draft: 27
-	- Average Age: 82 days, 15 hours, and 23.19 minutes
-	- Stop Label: 113
+	- Draft: 26
+	- Average Age: 82 days, 17 hours, and 35.26 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
