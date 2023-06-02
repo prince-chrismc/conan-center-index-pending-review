@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17397](https://github.com/conan-io/conan-center-index/pull/17397)|[SpaceIm](https://github.com/SpaceIm)|May 4|:memo: timsort|L|1|May 5 :bell:||jwillikers
 [#17399](https://github.com/conan-io/conan-center-index/pull/17399)|[SpaceIm](https://github.com/SpaceIm)|May 4|:memo: termcolor|M|1|May 5 :bell:||jwillikers
 [#17408](https://github.com/conan-io/conan-center-index/pull/17408)|[toge](https://github.com/toge)|May 5|:new: sonic-cpp|M|0|:eyes:||
-[#17410](https://github.com/conan-io/conan-center-index/pull/17410)|[Viatorus](https://github.com/Viatorus)|May 5|:stopwatch: emio|M|1|May 30|memsharded|
+[#17410](https://github.com/conan-io/conan-center-index/pull/17410)|[Viatorus](https://github.com/Viatorus)|May 5|:new: emio|M|1|May 30|memsharded|
 [#17414](https://github.com/conan-io/conan-center-index/pull/17414)|[valgur](https://github.com/valgur)|May 5|:stopwatch: eastl|L|1|May 25||
 [#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:stopwatch: tk|L|0|:eyes:||
 [#17428](https://github.com/conan-io/conan-center-index/pull/17428)|[kwach](https://github.com/kwach)|May 6|:new: libmemcached|L|3|May 30||danimtb
@@ -158,7 +158,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 263
 	- Draft: 26
-	- Average Age: 83 days, 7 hours, and 37.89 minutes
+	- Average Age: 83 days, 8 hours, and 40.55 minutes
 	- Stop Label: 110
 	
 
