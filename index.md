@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **110** pull requests currently under way :detective:
+There are **109** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -134,9 +134,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17785](https://github.com/conan-io/conan-center-index/pull/17785)|[toge](https://github.com/toge)|Jun 1|:memo: etl|:blue_square: S|2|Jun 1||RubenRBS
 [#17786](https://github.com/conan-io/conan-center-index/pull/17786)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 1|:memo: opencl-icd-loader|:blue_square: S|0|||
 [#17788](https://github.com/conan-io/conan-center-index/pull/17788)|[jcar87](https://github.com/jcar87)|Jun 1|:memo: jasper|:green_circle: XS|1|Jun 1||uilianries
-[#17790](https://github.com/conan-io/conan-center-index/pull/17790)|[toge](https://github.com/toge)|Jun 1|:memo: uvw|:blue_square: S|1|Jun 1||RubenRBS
 [#17791](https://github.com/conan-io/conan-center-index/pull/17791)|[toge](https://github.com/toge)|Jun 1|:memo: c4core|:green_circle: XS|0|||
-[#17795](https://github.com/conan-io/conan-center-index/pull/17795)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 2|:gear: .c3i|:green_circle: XS|0|||
+[#17795](https://github.com/conan-io/conan-center-index/pull/17795)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 2|:gear: .c3i|:green_circle: XS|1|Jun 2||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -155,9 +154,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 265
+	- Open: 264
 	- Draft: 27
-	- Average Age: 82 days, 4 hours, and 1.50 minutes
+	- Average Age: 82 days, 15 hours, and 23.19 minutes
 	- Stop Label: 113
 	
 
