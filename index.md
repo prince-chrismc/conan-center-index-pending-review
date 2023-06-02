@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **107** pull requests currently under way :detective:
+There are **109** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -44,7 +44,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
 [#16559](https://github.com/conan-io/conan-center-index/pull/16559)|[zillemarco](https://github.com/zillemarco)|Mar 14|:memo: nanodbc|L|1|May 24||SSE4
 [#16572](https://github.com/conan-io/conan-center-index/pull/16572)|[toge](https://github.com/toge)|Mar 15|:memo: ragel|L|1|May 31||uilianries
-[#16587](https://github.com/conan-io/conan-center-index/pull/16587)|[nicosmd](https://github.com/nicosmd)|Mar 16|:stopwatch: opencv|:green_circle: XS|0|||
+[#16587](https://github.com/conan-io/conan-center-index/pull/16587)|[nicosmd](https://github.com/nicosmd)|Mar 16|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16589](https://github.com/conan-io/conan-center-index/pull/16589)|[cynix](https://github.com/cynix)|Mar 16|:stopwatch: openldap|:green_circle: XS|0|:eyes:||
 [#16592](https://github.com/conan-io/conan-center-index/pull/16592)|[prince-chrismc](https://github.com/prince-chrismc)|Mar 17|:stopwatch: docs|:green_circle: XS|8|Apr 1 :bell:||
 [#16612](https://github.com/conan-io/conan-center-index/pull/16612)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:stopwatch: librasterlite|L|1|May 1 :bell:||jwillikers
@@ -134,6 +134,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17786](https://github.com/conan-io/conan-center-index/pull/17786)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 1|:memo: opencl-icd-loader|:blue_square: S|0|||
 [#17791](https://github.com/conan-io/conan-center-index/pull/17791)|[toge](https://github.com/toge)|Jun 1|:memo: c4core|:green_circle: XS|0|||
 [#17797](https://github.com/conan-io/conan-center-index/pull/17797)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 2|:memo: pixman|L|0|||
+[#17801](https://github.com/conan-io/conan-center-index/pull/17801)|[kammce](https://github.com/kammce)|Jun 2|:stopwatch: tl-function-ref|:blue_square: S|0|||
+[#17802](https://github.com/conan-io/conan-center-index/pull/17802)|[kammce](https://github.com/kammce)|Jun 2|:stopwatch: ring-span-lite|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -153,9 +155,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 261
+	- Open: 263
 	- Draft: 26
-	- Average Age: 83 days, 20 hours, and 1.71 minutes
+	- Average Age: 83 days, 5 hours, and 38.94 minutes
 	- Stop Label: 111
 	
 
