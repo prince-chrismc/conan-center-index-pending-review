@@ -117,7 +117,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17664](https://github.com/conan-io/conan-center-index/pull/17664)|[samuel-emrys](https://github.com/samuel-emrys)|May 23|:new: util-linux-libuuid|M|0|||
 [#17682](https://github.com/conan-io/conan-center-index/pull/17682)|[uilianries](https://github.com/uilianries)|May 24|:memo: chaiscript|L|0|||
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|||
-[#17707](https://github.com/conan-io/conan-center-index/pull/17707)|[kevswims](https://github.com/kevswims)|May 25|:new: foxglove-schemas-protobuf|L|0|||
+[#17707](https://github.com/conan-io/conan-center-index/pull/17707)|[kevswims](https://github.com/kevswims)|May 25|:stopwatch: foxglove-schemas-protobuf|L|0|||
 [#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:memo: protobuf|:blue_square: S|1|May 30||Hopobcn
 [#17740](https://github.com/conan-io/conan-center-index/pull/17740)|[simoncent](https://github.com/simoncent)|May 29|:new: libwebm|L|0|||
 [#17744](https://github.com/conan-io/conan-center-index/pull/17744)|[krabbstek](https://github.com/krabbstek)|May 29|:memo: cmake|:blue_square: S|1|Jun 1||jcar87
@@ -134,8 +134,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17786](https://github.com/conan-io/conan-center-index/pull/17786)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 1|:memo: opencl-icd-loader|:blue_square: S|0|||
 [#17791](https://github.com/conan-io/conan-center-index/pull/17791)|[toge](https://github.com/toge)|Jun 1|:memo: c4core|:green_circle: XS|0|||
 [#17797](https://github.com/conan-io/conan-center-index/pull/17797)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 2|:memo: pixman|L|0|||
-[#17801](https://github.com/conan-io/conan-center-index/pull/17801)|[kammce](https://github.com/kammce)|Jun 2|:stopwatch: tl-function-ref|:blue_square: S|0|||
-[#17802](https://github.com/conan-io/conan-center-index/pull/17802)|[kammce](https://github.com/kammce)|Jun 2|:stopwatch: ring-span-lite|:blue_square: S|0|||
+[#17801](https://github.com/conan-io/conan-center-index/pull/17801)|[kammce](https://github.com/kammce)|Jun 2|:memo: tl-function-ref|:blue_square: S|1|Jun 2||ericLemanissier
+[#17802](https://github.com/conan-io/conan-center-index/pull/17802)|[kammce](https://github.com/kammce)|Jun 2|:memo: ring-span-lite|:blue_square: S|1|Jun 2||ericLemanissier
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -157,7 +157,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 263
 	- Draft: 26
-	- Average Age: 83 days, 5 hours, and 38.94 minutes
+	- Average Age: 83 days, 6 hours, and 42.80 minutes
 	- Stop Label: 111
 	
 
