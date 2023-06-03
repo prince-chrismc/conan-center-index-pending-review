@@ -373,33 +373,6 @@
       }
    },
    {
-      "Number": 16572,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-03-15T13:20:43Z",
-      "Recipe": "ragel",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16572",
-      "LastCommitSHA": "b0f963166bbe670c3585469af92599eec2e06318",
-      "LastCommitAt": "2023-05-22T07:07:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-06-03T07:00:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16572#pullrequestreview-1459003227"
-         }
-      }
-   },
-   {
       "Number": 16587,
       "OpenedBy": "nicosmd",
       "CreatedAt": "2023-03-16T17:06:15Z",
@@ -2393,25 +2366,6 @@
       "LastCommitSHA": "9176cd29f2360804f28241c7697b003469a6f49f",
       "LastCommitAt": "2023-06-03T03:40:18Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17809,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-06-03T11:01:51Z",
-      "Recipe": "onnxruntime",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17809",
-      "LastCommitSHA": "4ed3411a10dc806b53db3ce0dc5b80cfa317be11",
-      "LastCommitAt": "2023-06-03T10:59:58Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
