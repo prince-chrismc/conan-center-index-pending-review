@@ -2380,25 +2380,6 @@
       }
    },
    {
-      "Number": 17812,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-06-03T15:53:49Z",
-      "Recipe": "hwloc",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17812",
-      "LastCommitSHA": "a7e8aedad87b2edc94bccb9d75d34cea963486e7",
-      "LastCommitAt": "2023-06-03T18:46:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17813,
       "OpenedBy": "fcorso2016",
       "CreatedAt": "2023-06-03T16:50:34Z",
