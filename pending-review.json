@@ -2508,24 +2508,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 17808,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-06-03T06:38:06Z",
-      "Recipe": "octo-logger-cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17808",
-      "LastCommitSHA": "1c2e748436135849e25c9cb3df9621614a5695c1",
-      "LastCommitAt": "2023-04-03T18:51:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
