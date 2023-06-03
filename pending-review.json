@@ -2512,16 +2512,16 @@
       }
    },
    {
-      "Number": 17805,
+      "Number": 17806,
       "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-06-03T02:27:48Z",
-      "Recipe": "ncurses",
+      "CreatedAt": "2023-06-03T03:41:45Z",
+      "Recipe": "libdb",
       "Change": 1,
       "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17805",
-      "LastCommitSHA": "8e33b8d2c4bd854e6632a822716886a91a378f43",
-      "LastCommitAt": "2023-06-03T02:30:17Z",
-      "CciBotPassed": false,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17806",
+      "LastCommitSHA": "9176cd29f2360804f28241c7697b003469a6f49f",
+      "LastCommitAt": "2023-06-03T03:40:18Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
