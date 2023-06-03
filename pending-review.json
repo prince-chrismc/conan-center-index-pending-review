@@ -2315,17 +2315,18 @@
       "LastCommitAt": "2023-06-02T17:02:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-06-02T17:32:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17801#pullrequestreview-1458118840"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-06-03T17:04:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17801#pullrequestreview-1459828858"
          }
       }
    },
@@ -2341,17 +2342,18 @@
       "LastCommitAt": "2023-06-02T17:01:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "ericLemanissier"
+            "ericLemanissier",
+            "prince-chrismc"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-06-02T17:33:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17802#pullrequestreview-1458120606"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-06-03T17:04:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17802#pullrequestreview-1459828462"
          }
       }
    },
@@ -2403,6 +2405,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17811",
       "LastCommitSHA": "cbaa63656f5d3f84c6f541ad852ff322befe5229",
       "LastCommitAt": "2023-06-03T15:26:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17813,
+      "OpenedBy": "fcorso2016",
+      "CreatedAt": "2023-06-03T16:50:34Z",
+      "Recipe": "dr_libs",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17813",
+      "LastCommitSHA": "850fc15f6027310b6c7436efeca9b164d5f40111",
+      "LastCommitAt": "2023-06-03T16:53:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
