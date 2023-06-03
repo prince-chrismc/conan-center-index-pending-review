@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **108** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -130,22 +130,23 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17791](https://github.com/conan-io/conan-center-index/pull/17791)|[toge](https://github.com/toge)|Jun 1|:memo: c4core|:green_circle: XS|0|||
 [#17797](https://github.com/conan-io/conan-center-index/pull/17797)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 2|:memo: pixman|L|0|||
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:memo: libdb|L|0|||
+[#17809](https://github.com/conan-io/conan-center-index/pull/17809)|[mayeut](https://github.com/mayeut)|Jun 3|:stopwatch: onnxruntime|L|0|||
 [#17810](https://github.com/conan-io/conan-center-index/pull/17810)|[toge](https://github.com/toge)|Jun 3|:stopwatch: mongo-cxx-driver|L|0|||
 [#17811](https://github.com/conan-io/conan-center-index/pull/17811)|[toge](https://github.com/toge)|Jun 3|:stopwatch: mongo-c-driver|:blue_square: S|0|||
+[#17812](https://github.com/conan-io/conan-center-index/pull/17812)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 3|:stopwatch: hwloc|M|0|||
 [#17813](https://github.com/conan-io/conan-center-index/pull/17813)|[fcorso2016](https://github.com/fcorso2016)|Jun 3|:stopwatch: dr_libs|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17471](https://github.com/conan-io/conan-center-index/pull/17471)|[jhunold](https://github.com/jhunold)|May 9|:warning: boost|7|RubenRBS, jcar87
 [#17748](https://github.com/conan-io/conan-center-index/pull/17748)|[conan-center-bot](https://github.com/conan-center-bot)|May 30|:gear: .c3i|3|SSE4, RubenRBS
-[#17801](https://github.com/conan-io/conan-center-index/pull/17801)|[kammce](https://github.com/kammce)|Jun 2|:memo: tl-function-ref|2|ericLemanissier, prince-chrismc
-[#17802](https://github.com/conan-io/conan-center-index/pull/17802)|[kammce](https://github.com/kammce)|Jun 2|:memo: ring-span-lite|2|ericLemanissier, prince-chrismc
+[#17801](https://github.com/conan-io/conan-center-index/pull/17801)|[kammce](https://github.com/kammce)|Jun 2|:warning: tl-function-ref|2|ericLemanissier, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -154,10 +155,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 264
+	- Open: 263
 	- Draft: 26
-	- Average Age: 83 days, 4 hours, and 59.23 minutes
-	- Stop Label: 113
+	- Average Age: 83 days, 13 hours, and 32.99 minutes
+	- Stop Label: 111
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
