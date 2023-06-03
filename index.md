@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **105** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -119,7 +119,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17740](https://github.com/conan-io/conan-center-index/pull/17740)|[simoncent](https://github.com/simoncent)|May 29|:new: libwebm|L|0|||
 [#17765](https://github.com/conan-io/conan-center-index/pull/17765)|[toge](https://github.com/toge)|May 30|:stopwatch: redis-plus-plus|M|0|||
 [#17767](https://github.com/conan-io/conan-center-index/pull/17767)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:memo: gfortran|:green_circle: XS|1|Jun 2||samuel-emrys
-[#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|||
+[#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|:eyes:||
 [#17769](https://github.com/conan-io/conan-center-index/pull/17769)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:memo: mozilla-build|:blue_square: S|0|:eyes:||
 [#17777](https://github.com/conan-io/conan-center-index/pull/17777)|[ovostrikov](https://github.com/ovostrikov)|May 31|:memo: onetbb|M|0|||
 [#17778](https://github.com/conan-io/conan-center-index/pull/17778)|[toge](https://github.com/toge)|May 31|:memo: glaze|:blue_square: S|0|||
@@ -132,17 +132,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17801](https://github.com/conan-io/conan-center-index/pull/17801)|[kammce](https://github.com/kammce)|Jun 2|:memo: tl-function-ref|:blue_square: S|1|Jun 2||ericLemanissier
 [#17802](https://github.com/conan-io/conan-center-index/pull/17802)|[kammce](https://github.com/kammce)|Jun 2|:memo: ring-span-lite|:blue_square: S|1|Jun 2||ericLemanissier
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:memo: libdb|L|0|||
-[#17809](https://github.com/conan-io/conan-center-index/pull/17809)|[mayeut](https://github.com/mayeut)|Jun 3|:stopwatch: onnxruntime|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16572](https://github.com/conan-io/conan-center-index/pull/16572)|[toge](https://github.com/toge)|Mar 15|:memo: ragel|2|uilianries, SSE4
 [#17471](https://github.com/conan-io/conan-center-index/pull/17471)|[jhunold](https://github.com/jhunold)|May 9|:warning: boost|7|RubenRBS, jcar87
 [#17748](https://github.com/conan-io/conan-center-index/pull/17748)|[conan-center-bot](https://github.com/conan-center-bot)|May 30|:gear: .c3i|3|SSE4, RubenRBS
 
@@ -153,10 +151,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 261
+	- Open: 260
 	- Draft: 26
-	- Average Age: 84 days, 5 hours, and 17.59 minutes
-	- Stop Label: 111
+	- Average Age: 84 days, 6 hours, and 53.09 minutes
+	- Stop Label: 112
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
