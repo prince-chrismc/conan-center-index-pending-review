@@ -244,17 +244,17 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16284",
-      "LastCommitSHA": "bad37ff28663db8ce4b512a73cfaf07d4b7cbe7f",
-      "LastCommitAt": "2023-05-29T14:43:58Z",
+      "LastCommitSHA": "3c2870ac35520660bc625a09f69a6b3226d3c5f0",
+      "LastCommitAt": "2023-06-03T01:36:38Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
             "uilianries"
          ],
-         "Blockers": [],
          "LastReview": {
             "ReviewerName": "uilianries",
             "SubmittedAt": "2023-05-30T09:11:15Z",
@@ -2509,6 +2509,25 @@
             "SubmittedAt": "2023-06-02T17:33:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17802#pullrequestreview-1458120606"
          }
+      }
+   },
+   {
+      "Number": 17805,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-06-03T02:27:48Z",
+      "Recipe": "ncurses",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17805",
+      "LastCommitSHA": "8e33b8d2c4bd854e6632a822716886a91a378f43",
+      "LastCommitAt": "2023-06-03T02:30:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
