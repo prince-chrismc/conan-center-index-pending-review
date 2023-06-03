@@ -1235,33 +1235,6 @@
       }
    },
    {
-      "Number": 17355,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2023-05-01T21:40:42Z",
-      "Recipe": "avahi",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17355",
-      "LastCommitSHA": "424ae1ec24229a7e7abcda755198106a1167aec1",
-      "LastCommitAt": "2023-05-01T22:01:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-06-03T07:01:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17355#pullrequestreview-1459003285"
-         }
-      }
-   },
-   {
       "Number": 17366,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-05-02T13:01:24Z",
