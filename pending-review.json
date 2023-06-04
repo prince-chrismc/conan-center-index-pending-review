@@ -2421,5 +2421,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17816,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-04T04:00:21Z",
+      "Recipe": "uni-algo",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17816",
+      "LastCommitSHA": "078a20874f739638ba6a1e18251474e6eea68808",
+      "LastCommitAt": "2023-05-15T13:24:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
