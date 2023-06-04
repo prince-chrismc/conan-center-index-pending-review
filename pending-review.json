@@ -1639,25 +1639,6 @@
       }
    },
    {
-      "Number": 17509,
-      "OpenedBy": "jusito",
-      "CreatedAt": "2023-05-10T15:31:30Z",
-      "Recipe": "llvm",
-      "Change": 0,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17509",
-      "LastCommitSHA": "9baa4fa70a34771d46fe2052d540c166680bf4b8",
-      "LastCommitAt": "2023-06-04T10:31:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17539,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2023-05-12T09:52:04Z",
