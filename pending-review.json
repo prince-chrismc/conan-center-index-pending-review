@@ -1673,8 +1673,8 @@
       "Change": 0,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17509",
-      "LastCommitSHA": "5ec0e5768402c2ac66eb4229f4a88f95eb98625d",
-      "LastCommitAt": "2023-06-02T13:50:26Z",
+      "LastCommitSHA": "9baa4fa70a34771d46fe2052d540c166680bf4b8",
+      "LastCommitAt": "2023-06-04T10:31:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2413,6 +2413,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17813",
       "LastCommitSHA": "850fc15f6027310b6c7436efeca9b164d5f40111",
       "LastCommitAt": "2023-06-03T16:53:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17817,
+      "OpenedBy": "jasuramme",
+      "CreatedAt": "2023-06-04T10:29:49Z",
+      "Recipe": "libxft",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17817",
+      "LastCommitSHA": "f96871c011c596e14e1c321c5530aa4d79e909e4",
+      "LastCommitAt": "2023-06-04T10:23:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
