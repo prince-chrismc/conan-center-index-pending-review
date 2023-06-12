@@ -2360,25 +2360,6 @@
       }
    },
    {
-      "Number": 17907,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-06-12T04:32:36Z",
-      "Recipe": "zulu-openjdk",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17907",
-      "LastCommitSHA": "17801e8e2a2a56ed7447eab8c84251a00f8c46a0",
-      "LastCommitAt": "2023-06-12T04:34:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17911,
       "OpenedBy": "nbukuli",
       "CreatedAt": "2023-06-12T11:50:58Z",
@@ -2407,25 +2388,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17914",
       "LastCommitSHA": "2eaf56b56b9051cb4859f063e8bcff3ff56ff264",
       "LastCommitAt": "2023-06-12T12:19:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17915,
-      "OpenedBy": "coryan",
-      "CreatedAt": "2023-06-12T14:20:56Z",
-      "Recipe": "google-cloud-cpp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17915",
-      "LastCommitSHA": "4b6a8054119db198708e74e1e5fdfa70f7a6af99",
-      "LastCommitAt": "2023-06-12T14:18:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
