@@ -137,7 +137,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|||
 [#17914](https://github.com/conan-io/conan-center-index/pull/17914)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: nodejs|:green_circle: XS|0|||
 [#17915](https://github.com/conan-io/conan-center-index/pull/17915)|[coryan](https://github.com/coryan)|Jun 12|:stopwatch: google-cloud-cpp|L|0|||
-[#17916](https://github.com/conan-io/conan-center-index/pull/17916)|[patmantru](https://github.com/patmantru)|Jun 12|:stopwatch: opentdf-client|:green_circle: XS|0|||
+[#17917](https://github.com/conan-io/conan-center-index/pull/17917)|[holger-detering](https://github.com/holger-detering)|Jun 12|:stopwatch: absent|L|0|||
 
 
 #### :clipboard: Statistics
@@ -146,10 +146,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 258
+	- Open: 259
 	- Draft: 27
-	- Average Age: 88 days, 15 hours, and 15.78 minutes
-	- Stop Label: 104
+	- Average Age: 88 days, 8 hours, and 1.66 minutes
+	- Stop Label: 105
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
