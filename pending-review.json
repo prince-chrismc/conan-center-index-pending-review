@@ -270,7 +270,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16254",
       "LastCommitSHA": "9b88426a784540f1e66685d6ae150cb56fbd7300",
       "LastCommitAt": "2023-06-12T15:16:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
@@ -1735,17 +1735,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17740",
       "LastCommitSHA": "4dcf6a9581094c96604068f05209caff038cd5e8",
       "LastCommitAt": "2023-06-12T13:10:50Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-06-12T10:21:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17740#pullrequestreview-1474566225"
+            "SubmittedAt": "2023-06-12T15:34:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17740#pullrequestreview-1475223124"
          }
       }
    },
@@ -1990,32 +1992,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17835,
-      "OpenedBy": "kwach",
-      "CreatedAt": "2023-06-05T23:03:11Z",
-      "Recipe": "libmemcached",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17835",
-      "LastCommitSHA": "3c4de314dbbdc7a5a8f7d36f85c7f76fbe4bb3cb",
-      "LastCommitAt": "2023-06-09T16:32:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-06-09T16:30:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17835#pullrequestreview-1472590131"
-         }
       }
    },
    {
