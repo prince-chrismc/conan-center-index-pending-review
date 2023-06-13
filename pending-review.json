@@ -2415,24 +2415,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 17918,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-06-13T00:43:59Z",
-      "Recipe": "roaring",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17918",
-      "LastCommitSHA": "5cf6ff85d8648bbef12c85666692d4c1ae25c113",
-      "LastCommitAt": "2023-06-12T13:16:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
