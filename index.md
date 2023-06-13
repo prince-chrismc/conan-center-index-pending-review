@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **114** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -115,6 +115,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17829](https://github.com/conan-io/conan-center-index/pull/17829)|[uilianries](https://github.com/uilianries)|Jun 5|:new: lefticus-tools|M|0|:eyes:||
 [#17832](https://github.com/conan-io/conan-center-index/pull/17832)|[cjbradfield](https://github.com/cjbradfield)|Jun 5|:memo: llhttp|:blue_square: S|0|||
 [#17836](https://github.com/conan-io/conan-center-index/pull/17836)|[toge](https://github.com/toge)|Jun 6|:memo: jinja2cpp|L|1|Jun 9||memsharded
+[#17843](https://github.com/conan-io/conan-center-index/pull/17843)|[seboste](https://github.com/seboste)|Jun 6|:new: microservice-essentials|M|0|||
 [#17855](https://github.com/conan-io/conan-center-index/pull/17855)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:stopwatch: at-spi2-core|:green_circle: XS|2|Jun 13||SSE4, MartinDelille
 [#17858](https://github.com/conan-io/conan-center-index/pull/17858)|[lrineau](https://github.com/lrineau)|Jun 7|:memo: cgal|L|0|||
 [#17859](https://github.com/conan-io/conan-center-index/pull/17859)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:stopwatch: qt|L|2|Jun 13||jwillikers, MartinDelille
@@ -125,7 +126,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|0|:eyes:||
 [#17888](https://github.com/conan-io/conan-center-index/pull/17888)|[jusito](https://github.com/jusito)|Jun 10|:memo: zlib|:blue_square: S|0|:eyes:||
 [#17890](https://github.com/conan-io/conan-center-index/pull/17890)|[mayeut](https://github.com/mayeut)|Jun 10|:memo: wil|:green_circle: XS|0|||
-[#17891](https://github.com/conan-io/conan-center-index/pull/17891)|[7bitcoder](https://github.com/7bitcoder)|Jun 10|:new: 7bitconf|M|0|||
+[#17891](https://github.com/conan-io/conan-center-index/pull/17891)|[7bitcoder](https://github.com/7bitcoder)|Jun 10|:new: 7bitconf|M|0|:eyes:||
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|||
 [#17897](https://github.com/conan-io/conan-center-index/pull/17897)|[toge](https://github.com/toge)|Jun 11|:memo: cpp-httplib|:green_circle: XS|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|||
@@ -138,7 +139,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17917](https://github.com/conan-io/conan-center-index/pull/17917)|[holger-detering](https://github.com/holger-detering)|Jun 12|:memo: absent|L|0|||
 [#17919](https://github.com/conan-io/conan-center-index/pull/17919)|[toge](https://github.com/toge)|Jun 13|:memo: c-blosc|M|0|||
 [#17920](https://github.com/conan-io/conan-center-index/pull/17920)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 13|:gear: .c3i|:green_circle: XS|1|Jun 13||SSE4
-[#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:stopwatch: artery-font-format|M|0|||
+[#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:memo: artery-font-format|M|0|||
 [#17924](https://github.com/conan-io/conan-center-index/pull/17924)|[toge](https://github.com/toge)|Jun 13|:stopwatch: duckdb|M|0|||
 
 
@@ -150,8 +151,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 262
 	- Draft: 28
-	- Average Age: 87 days, 21 hours, and 51.17 minutes
-	- Stop Label: 106
+	- Average Age: 87 days, 22 hours, and 46.34 minutes
+	- Stop Label: 105
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
