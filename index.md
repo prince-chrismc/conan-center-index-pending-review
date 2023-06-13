@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **112** pull requests currently under way :detective:
+There are **111** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -120,13 +120,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17858](https://github.com/conan-io/conan-center-index/pull/17858)|[lrineau](https://github.com/lrineau)|Jun 7|:memo: cgal|L|0|||
 [#17859](https://github.com/conan-io/conan-center-index/pull/17859)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:stopwatch: qt|L|2|Jun 13||jwillikers, MartinDelille
 [#17873](https://github.com/conan-io/conan-center-index/pull/17873)|[toge](https://github.com/toge)|Jun 9|:memo: opentelemetry-cpp|M|0|:eyes:||
-[#17877](https://github.com/conan-io/conan-center-index/pull/17877)|[sykhro](https://github.com/sykhro)|Jun 9|:memo: vulkan-headers|:green_circle: XS|0|:eyes:||
+[#17877](https://github.com/conan-io/conan-center-index/pull/17877)|[sykhro](https://github.com/sykhro)|Jun 9|:memo: vulkan-headers|:green_circle: XS|1|Jun 13||memsharded
 [#17880](https://github.com/conan-io/conan-center-index/pull/17880)|[toge](https://github.com/toge)|Jun 9|:memo: rapidfuzz|:blue_square: S|0|:eyes:||
 [#17881](https://github.com/conan-io/conan-center-index/pull/17881)|[fcorso2016](https://github.com/fcorso2016)|Jun 9|:new: whisper-cpp|L|0|:eyes:||
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|0|:eyes:||
 [#17888](https://github.com/conan-io/conan-center-index/pull/17888)|[jusito](https://github.com/jusito)|Jun 10|:memo: zlib|:blue_square: S|0|:eyes:||
-[#17890](https://github.com/conan-io/conan-center-index/pull/17890)|[mayeut](https://github.com/mayeut)|Jun 10|:memo: wil|:green_circle: XS|0|||
-[#17891](https://github.com/conan-io/conan-center-index/pull/17891)|[7bitcoder](https://github.com/7bitcoder)|Jun 10|:new: 7bitconf|M|0|:eyes:||
+[#17890](https://github.com/conan-io/conan-center-index/pull/17890)|[mayeut](https://github.com/mayeut)|Jun 10|:memo: wil|:green_circle: XS|1|Jun 13||memsharded
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17897](https://github.com/conan-io/conan-center-index/pull/17897)|[toge](https://github.com/toge)|Jun 11|:memo: cpp-httplib|:green_circle: XS|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|||
@@ -141,25 +140,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:memo: artery-font-format|M|1|Jun 13||memsharded
 
 
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#17901](https://github.com/conan-io/conan-center-index/pull/17901)|[hobbeshunter](https://github.com/hobbeshunter)|Jun 11|:memo: ftxui|2|RubenRBS, memsharded
-
-
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
 - Commit: 2e16c014647818d388418b7404bdf802f715f63b
 - Pull Requests:
-	- Open: 263
+	- Open: 262
 	- Draft: 29
-	- Average Age: 87 days, 22 hours, and 44.38 minutes
+	- Average Age: 88 days, 7 hours, and 33.48 minutes
 	- Stop Label: 105
 	
 
