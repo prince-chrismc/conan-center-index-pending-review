@@ -1875,30 +1875,6 @@
       }
    },
    {
-      "Number": 17812,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-06-03T15:53:49Z",
-      "Recipe": "hwloc",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17812",
-      "LastCommitSHA": "40b0cc515f7685eca8ee54d5be9a8a638698d698",
-      "LastCommitAt": "2023-06-10T08:08:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-06-09T16:38:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17812#pullrequestreview-1472599371"
-         }
-      }
-   },
-   {
       "Number": 17822,
       "OpenedBy": "gjasny",
       "CreatedAt": "2023-06-04T17:34:36Z",
