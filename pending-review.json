@@ -2478,7 +2478,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17919",
       "LastCommitSHA": "761d1397c0c2d1ffb2eb1e80bbf1941b1203f03c",
       "LastCommitAt": "2023-06-13T06:56:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2511,6 +2511,63 @@
             "SubmittedAt": "2023-06-13T08:16:08Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17920#pullrequestreview-1476544652"
          }
+      }
+   },
+   {
+      "Number": 17922,
+      "OpenedBy": "Jean1995",
+      "CreatedAt": "2023-06-13T09:47:51Z",
+      "Recipe": "proposal",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17922",
+      "LastCommitSHA": "ae4c385bb38a9758bf6a193513ba2861cb459f79",
+      "LastCommitAt": "2023-06-13T09:52:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17923,
+      "OpenedBy": "holger-detering",
+      "CreatedAt": "2023-06-13T10:02:47Z",
+      "Recipe": "artery-font-format",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17923",
+      "LastCommitSHA": "d0487ce3d72c2b9c5af5150cd27ff0ad5109f8d3",
+      "LastCommitAt": "2023-06-13T09:52:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17924,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-13T10:05:35Z",
+      "Recipe": "duckdb",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17924",
+      "LastCommitSHA": "70527ba25c320252441b0918c0773d7b1464dca8",
+      "LastCommitAt": "2023-06-13T10:04:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
