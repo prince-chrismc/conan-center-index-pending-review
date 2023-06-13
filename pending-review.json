@@ -272,15 +272,17 @@
       "LastCommitAt": "2023-06-12T15:16:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 7,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-06-12T07:37:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16254#pullrequestreview-1474236800"
+            "SubmittedAt": "2023-06-13T07:11:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16254#pullrequestreview-1476412744"
          }
       }
    },
@@ -2450,6 +2452,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17917",
       "LastCommitSHA": "6ded55a27da9e4736516b5301c07195eb0770afa",
       "LastCommitAt": "2023-06-13T05:50:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17919,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-13T06:57:04Z",
+      "Recipe": "c-blosc",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17919",
+      "LastCommitSHA": "761d1397c0c2d1ffb2eb1e80bbf1941b1203f03c",
+      "LastCommitAt": "2023-06-13T06:56:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
