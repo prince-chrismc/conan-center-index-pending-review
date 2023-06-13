@@ -1829,11 +1829,18 @@
       "LastCommitAt": "2023-06-09T03:55:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jcar87"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-06-13T08:46:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17786#pullrequestreview-1476607397"
+         }
       }
    },
    {
