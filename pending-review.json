@@ -2398,6 +2398,25 @@
       }
    },
    {
+      "Number": 17916,
+      "OpenedBy": "patmantru",
+      "CreatedAt": "2023-06-12T20:07:11Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17916",
+      "LastCommitSHA": "6ea5d4cf497ac7621e387e3774919dbd5f69689f",
+      "LastCommitAt": "2023-06-12T22:21:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17917,
       "OpenedBy": "holger-detering",
       "CreatedAt": "2023-06-12T20:50:26Z",
