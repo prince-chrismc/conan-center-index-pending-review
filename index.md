@@ -107,7 +107,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17765](https://github.com/conan-io/conan-center-index/pull/17765)|[toge](https://github.com/toge)|May 30|:stopwatch: redis-plus-plus|M|0|:eyes:||
 [#17767](https://github.com/conan-io/conan-center-index/pull/17767)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:memo: gfortran|:green_circle: XS|1|Jun 2||samuel-emrys
 [#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|:eyes:||
-[#17786](https://github.com/conan-io/conan-center-index/pull/17786)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 1|:memo: opencl-icd-loader|:blue_square: S|0|:eyes:||
+[#17786](https://github.com/conan-io/conan-center-index/pull/17786)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 1|:memo: opencl-icd-loader|:blue_square: S|1|Jun 13||jcar87
 [#17809](https://github.com/conan-io/conan-center-index/pull/17809)|[mayeut](https://github.com/mayeut)|Jun 3|:memo: onnxruntime|L|2|Jun 9||
 [#17810](https://github.com/conan-io/conan-center-index/pull/17810)|[toge](https://github.com/toge)|Jun 3|:memo: mongo-cxx-driver|L|2|Jun 9||
 [#17812](https://github.com/conan-io/conan-center-index/pull/17812)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 3|:new: hwloc|M|5|Jun 9||
@@ -125,7 +125,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17880](https://github.com/conan-io/conan-center-index/pull/17880)|[toge](https://github.com/toge)|Jun 9|:memo: rapidfuzz|:blue_square: S|0|:eyes:||
 [#17881](https://github.com/conan-io/conan-center-index/pull/17881)|[fcorso2016](https://github.com/fcorso2016)|Jun 9|:new: whisper-cpp|L|0|||
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|0|||
-[#17888](https://github.com/conan-io/conan-center-index/pull/17888)|[jusito](https://github.com/jusito)|Jun 10|:memo: zlib|:blue_square: S|0|||
+[#17888](https://github.com/conan-io/conan-center-index/pull/17888)|[jusito](https://github.com/jusito)|Jun 10|:memo: zlib|:blue_square: S|0|:eyes:||
 [#17890](https://github.com/conan-io/conan-center-index/pull/17890)|[mayeut](https://github.com/mayeut)|Jun 10|:memo: wil|:green_circle: XS|0|||
 [#17891](https://github.com/conan-io/conan-center-index/pull/17891)|[7bitcoder](https://github.com/7bitcoder)|Jun 10|:new: 7bitconf|M|0|||
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|||
@@ -148,9 +148,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 261
+	- Open: 260
 	- Draft: 27
-	- Average Age: 88 days, 2 hours, and 46.28 minutes
+	- Average Age: 88 days, 11 hours, and 6.69 minutes
 	- Stop Label: 105
 	
 
