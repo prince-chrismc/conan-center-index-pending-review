@@ -2000,6 +2000,25 @@
       }
    },
    {
+      "Number": 17843,
+      "OpenedBy": "seboste",
+      "CreatedAt": "2023-06-06T13:53:26Z",
+      "Recipe": "microservice-essentials",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17843",
+      "LastCommitSHA": "94e2792494f43d468b9c8c0d7668576995edc632",
+      "LastCommitAt": "2023-06-13T13:17:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17855,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-06-07T09:40:44Z",
@@ -2481,7 +2500,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17923",
       "LastCommitSHA": "7300b64c5ed9790f33d71a8c77c13afd88563210",
       "LastCommitAt": "2023-06-13T12:49:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
