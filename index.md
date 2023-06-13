@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **116** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -70,7 +70,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|L|0|:eyes:||
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|0|:eyes:||
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1 :bell:||MartinDelille, jwillikers
-[#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:new: clickhouse-cpp|M|5|Jun 1||uilianries
+[#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:new: clickhouse-cpp|M|5|Jun 1 :bell:||uilianries
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:stopwatch: armadillo|L|0|:eyes:||
 [#17332](https://github.com/conan-io/conan-center-index/pull/17332)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: xqilla|L|1|May 1 :bell:||jwillikers
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|5|May 20 :bell:|jcar87|jwillikers, prince-chrismc, SSE4
@@ -138,8 +138,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17914](https://github.com/conan-io/conan-center-index/pull/17914)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: nodejs|:green_circle: XS|0|||
 [#17916](https://github.com/conan-io/conan-center-index/pull/17916)|[patmantru](https://github.com/patmantru)|Jun 12|:stopwatch: opentdf-client|:blue_square: S|0|||
 [#17917](https://github.com/conan-io/conan-center-index/pull/17917)|[holger-detering](https://github.com/holger-detering)|Jun 12|:memo: absent|L|0|||
-[#17919](https://github.com/conan-io/conan-center-index/pull/17919)|[toge](https://github.com/toge)|Jun 13|:stopwatch: c-blosc|M|0|||
+[#17919](https://github.com/conan-io/conan-center-index/pull/17919)|[toge](https://github.com/toge)|Jun 13|:memo: c-blosc|M|0|||
 [#17920](https://github.com/conan-io/conan-center-index/pull/17920)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 13|:gear: .c3i|:green_circle: XS|1|Jun 13||SSE4
+[#17922](https://github.com/conan-io/conan-center-index/pull/17922)|[Jean1995](https://github.com/Jean1995)|Jun 13|:stopwatch: proposal|:green_circle: XS|0|||
+[#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:stopwatch: artery-font-format|M|0|||
+[#17924](https://github.com/conan-io/conan-center-index/pull/17924)|[toge](https://github.com/toge)|Jun 13|:stopwatch: duckdb|M|0|||
 
 
 #### :clipboard: Statistics
@@ -148,9 +151,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 1ad7a057e212ac4d88a4829048d492949d930eb2
 - Pull Requests:
-	- Open: 260
+	- Open: 263
 	- Draft: 27
-	- Average Age: 88 days, 11 hours, and 6.69 minutes
+	- Average Age: 87 days, 11 hours, and 53.38 minutes
 	- Stop Label: 105
 	
 
