@@ -2360,6 +2360,30 @@
       }
    },
    {
+      "Number": 17907,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-12T04:32:36Z",
+      "Recipe": "zulu-openjdk",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17907",
+      "LastCommitSHA": "a6a77e5c5ce24ec436fec8e859e6d117ab254cb2",
+      "LastCommitAt": "2023-06-13T04:47:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-12T22:28:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17907#pullrequestreview-1475912593"
+         }
+      }
+   },
+   {
       "Number": 17911,
       "OpenedBy": "nbukuli",
       "CreatedAt": "2023-06-12T11:50:58Z",
