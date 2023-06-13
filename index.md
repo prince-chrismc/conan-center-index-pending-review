@@ -133,11 +133,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|||
 [#17901](https://github.com/conan-io/conan-center-index/pull/17901)|[hobbeshunter](https://github.com/hobbeshunter)|Jun 11|:memo: ftxui|:green_circle: XS|1|Jun 12||RubenRBS
 [#17904](https://github.com/conan-io/conan-center-index/pull/17904)|[toge](https://github.com/toge)|Jun 11|:memo: daw_json_link|:blue_square: S|0|||
-[#17907](https://github.com/conan-io/conan-center-index/pull/17907)|[toge](https://github.com/toge)|Jun 12|:stopwatch: zulu-openjdk|M|1|Jun 12||
+[#17907](https://github.com/conan-io/conan-center-index/pull/17907)|[toge](https://github.com/toge)|Jun 12|:memo: zulu-openjdk|M|1|Jun 12||
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|||
 [#17914](https://github.com/conan-io/conan-center-index/pull/17914)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: nodejs|:green_circle: XS|0|||
 [#17916](https://github.com/conan-io/conan-center-index/pull/17916)|[patmantru](https://github.com/patmantru)|Jun 12|:stopwatch: opentdf-client|:blue_square: S|0|||
-[#17917](https://github.com/conan-io/conan-center-index/pull/17917)|[holger-detering](https://github.com/holger-detering)|Jun 12|:memo: absent|L|0|||
+[#17917](https://github.com/conan-io/conan-center-index/pull/17917)|[holger-detering](https://github.com/holger-detering)|Jun 12|:stopwatch: absent|L|0|||
 
 
 #### :clipboard: Statistics
@@ -148,7 +148,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 259
 	- Draft: 27
-	- Average Age: 88 days, 16 hours, and 2.27 minutes
+	- Average Age: 88 days, 17 hours, and 5.81 minutes
 	- Stop Label: 105
 	
 
