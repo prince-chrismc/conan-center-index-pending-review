@@ -1103,7 +1103,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17346",
       "LastCommitSHA": "9fd822fcad1445f2e814a543fb3dd2a110da41f6",
       "LastCommitAt": "2023-06-13T14:24:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2106,7 +2106,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17858",
       "LastCommitSHA": "fc183e70165f426ff5039645340590e877fa6e7d",
       "LastCommitAt": "2023-06-13T14:43:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2571,25 +2571,6 @@
       "LastCommitSHA": "70527ba25c320252441b0918c0773d7b1464dca8",
       "LastCommitAt": "2023-06-13T10:04:41Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17926,
-      "OpenedBy": "schuetzle-vector",
-      "CreatedAt": "2023-06-13T15:10:55Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17926",
-      "LastCommitSHA": "7d2fa2b10ee2e37f0ca3416f5456208c850d7b64",
-      "LastCommitAt": "2023-06-13T14:51:24Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
