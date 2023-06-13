@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **109** pull requests currently under way :detective:
+There are **110** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -135,6 +135,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17904](https://github.com/conan-io/conan-center-index/pull/17904)|[toge](https://github.com/toge)|Jun 11|:memo: daw_json_link|:blue_square: S|0|||
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|||
 [#17914](https://github.com/conan-io/conan-center-index/pull/17914)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: nodejs|:green_circle: XS|0|||
+[#17916](https://github.com/conan-io/conan-center-index/pull/17916)|[patmantru](https://github.com/patmantru)|Jun 12|:stopwatch: opentdf-client|:blue_square: S|0|||
 [#17917](https://github.com/conan-io/conan-center-index/pull/17917)|[holger-detering](https://github.com/holger-detering)|Jun 12|:memo: absent|L|0|||
 
 
@@ -146,8 +147,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 259
 	- Draft: 27
-	- Average Age: 88 days, 13 hours, and 29.27 minutes
-	- Stop Label: 106
+	- Average Age: 88 days, 15 hours, and 4.84 minutes
+	- Stop Label: 105
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
