@@ -2535,24 +2535,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 17927,
-      "OpenedBy": "holger-detering",
-      "CreatedAt": "2023-06-13T17:31:11Z",
-      "Recipe": "ssht",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17927",
-      "LastCommitSHA": "a87ed1fccaa139e38cbb08188d148182a98bf8d8",
-      "LastCommitAt": "2023-06-13T17:11:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
