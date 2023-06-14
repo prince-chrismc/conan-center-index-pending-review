@@ -120,6 +120,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17880](https://github.com/conan-io/conan-center-index/pull/17880)|[toge](https://github.com/toge)|Jun 9|:memo: rapidfuzz|:blue_square: S|1|Jun 14||RubenRBS
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|0|:eyes:||
 [#17888](https://github.com/conan-io/conan-center-index/pull/17888)|[jusito](https://github.com/jusito)|Jun 10|:memo: zlib|:blue_square: S|0|:eyes:||
+[#17891](https://github.com/conan-io/conan-center-index/pull/17891)|[7bitcoder](https://github.com/7bitcoder)|Jun 10|:stopwatch: 7bitconf|M|1|Jun 13||
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17897](https://github.com/conan-io/conan-center-index/pull/17897)|[toge](https://github.com/toge)|Jun 11|:memo: cpp-httplib|:green_circle: XS|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|:eyes:||
@@ -133,17 +134,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17929](https://github.com/conan-io/conan-center-index/pull/17929)|[toge](https://github.com/toge)|Jun 14|:memo: c4core|:green_circle: XS|1|Jun 14||RubenRBS
 [#17930](https://github.com/conan-io/conan-center-index/pull/17930)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 14|:gear: .c3i|:green_circle: XS|1|Jun 14||RubenRBS
 [#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:stopwatch: gtsam|:blue_square: S|0|||
-[#17935](https://github.com/conan-io/conan-center-index/pull/17935)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 14|:stopwatch: at-spi2-core|:green_circle: XS|0|:eyes:||
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#17470](https://github.com/conan-io/conan-center-index/pull/17470)|[valgur](https://github.com/valgur)|May 9|:warning: libtins|6|RubenRBS, uilianries
 
 
 #### :clipboard: Statistics
@@ -152,9 +142,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 258
+	- Open: 257
 	- Draft: 28
-	- Average Age: 89 days, 14 hours, and 12.81 minutes
+	- Average Age: 89 days, 20 hours, and 16.88 minutes
 	- Stop Label: 102
 	
 
