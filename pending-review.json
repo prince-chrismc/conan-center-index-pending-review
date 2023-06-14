@@ -2102,34 +2102,6 @@
       }
    },
    {
-      "Number": 17877,
-      "OpenedBy": "sykhro",
-      "CreatedAt": "2023-06-09T14:02:45Z",
-      "Recipe": "vulkan-headers",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17877",
-      "LastCommitSHA": "ce74d03af530f52f8709be57f717c3ff576113b1",
-      "LastCommitAt": "2023-06-09T14:00:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded",
-            "jcar87",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-06-14T08:41:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17877#pullrequestreview-1478847601"
-         }
-      }
-   },
-   {
       "Number": 17880,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-09T17:11:35Z",
