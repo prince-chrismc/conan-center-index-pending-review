@@ -1395,33 +1395,6 @@
       }
    },
    {
-      "Number": 17496,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-05-10T07:52:54Z",
-      "Recipe": "at-spi2-atk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17496",
-      "LastCommitSHA": "9c6576e6db4ab9e7b6d809d49cb09620e616a19b",
-      "LastCommitAt": "2023-06-07T09:52:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jwillikers",
-            "RubenRBS"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-06-14T13:14:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17496#pullrequestreview-1479418951"
-         }
-      }
-   },
-   {
       "Number": 17505,
       "OpenedBy": "Seadex-GmbH",
       "CreatedAt": "2023-05-10T14:04:02Z",
@@ -2065,7 +2038,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17858",
       "LastCommitSHA": "e968c3b49b8f3e54b16cf8f5284f0bb557f6c1fd",
       "LastCommitAt": "2023-06-14T12:42:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2458,15 +2431,15 @@
       }
    },
    {
-      "Number": 17931,
-      "OpenedBy": "ffabiomar",
-      "CreatedAt": "2023-06-14T09:04:21Z",
+      "Number": 17933,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-14T13:33:41Z",
       "Recipe": "gtsam",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17931",
-      "LastCommitSHA": "0e31431e2fc6a50b0f70cadfdf116de5e2a72342",
-      "LastCommitAt": "2023-06-14T09:02:18Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17933",
+      "LastCommitSHA": "bca797eea96a7fa0e80260192a847dce0b764cc6",
+      "LastCommitAt": "2023-06-14T13:30:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
