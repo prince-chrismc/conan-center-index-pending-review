@@ -112,7 +112,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17822](https://github.com/conan-io/conan-center-index/pull/17822)|[gjasny](https://github.com/gjasny)|Jun 4|:new: cppdap|M|2|Jun 14||memsharded
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:stopwatch: mbits-lngs|L|0|||
 [#17829](https://github.com/conan-io/conan-center-index/pull/17829)|[uilianries](https://github.com/uilianries)|Jun 5|:new: lefticus-tools|M|0|:eyes:||
-[#17832](https://github.com/conan-io/conan-center-index/pull/17832)|[cjbradfield](https://github.com/cjbradfield)|Jun 5|:memo: llhttp|:blue_square: S|1|Jun 14||memsharded
+[#17832](https://github.com/conan-io/conan-center-index/pull/17832)|[cjbradfield](https://github.com/cjbradfield)|Jun 5|:stopwatch: llhttp|:blue_square: S|1|Jun 14||memsharded
 [#17836](https://github.com/conan-io/conan-center-index/pull/17836)|[toge](https://github.com/toge)|Jun 6|:memo: jinja2cpp|L|1|Jun 9||memsharded
 [#17843](https://github.com/conan-io/conan-center-index/pull/17843)|[seboste](https://github.com/seboste)|Jun 6|:new: microservice-essentials|M|0|||
 [#17858](https://github.com/conan-io/conan-center-index/pull/17858)|[lrineau](https://github.com/lrineau)|Jun 7|:memo: cgal|L|5|Jun 14||uilianries
@@ -145,8 +145,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 256
 	- Draft: 28
-	- Average Age: 90 days, 10 hours, and 34.43 minutes
-	- Stop Label: 101
+	- Average Age: 90 days, 11 hours, and 35.87 minutes
+	- Stop Label: 100
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
