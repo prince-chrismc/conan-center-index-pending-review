@@ -139,25 +139,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17932](https://github.com/conan-io/conan-center-index/pull/17932)|[ihsandemir](https://github.com/ihsandemir)|Jun 14|:stopwatch: hazelcast-cpp-client|:green_circle: XS|0|||
 
 
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#17877](https://github.com/conan-io/conan-center-index/pull/17877)|[sykhro](https://github.com/sykhro)|Jun 9|:memo: vulkan-headers|3|memsharded, jcar87, RubenRBS
-
-
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 261
+	- Open: 260
 	- Draft: 28
-	- Average Age: 88 days, 15 hours, and 39.99 minutes
+	- Average Age: 89 days, and 21.46 minutes
 	- Stop Label: 104
 	
 
