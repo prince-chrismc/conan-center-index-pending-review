@@ -1290,7 +1290,7 @@
       "LastCommitAt": "2023-05-25T10:24:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -1298,9 +1298,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-06-09T12:04:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17470#pullrequestreview-1471842573"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-06-14T10:11:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17470#pullrequestreview-1478994888"
          }
       }
    },
@@ -2056,25 +2056,6 @@
       }
    },
    {
-      "Number": 17858,
-      "OpenedBy": "lrineau",
-      "CreatedAt": "2023-06-07T13:54:56Z",
-      "Recipe": "cgal",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17858",
-      "LastCommitSHA": "fc183e70165f426ff5039645340590e877fa6e7d",
-      "LastCommitAt": "2023-06-13T14:43:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17859,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-06-07T14:15:07Z",
@@ -2210,33 +2191,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17890,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-06-10T11:15:01Z",
-      "Recipe": "wil",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17890",
-      "LastCommitSHA": "5d97bd8ecf01b17481a0db850384fe9a81538e32",
-      "LastCommitAt": "2023-06-11T08:26:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded",
-            "jcar87"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-06-14T08:07:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17890#pullrequestreview-1478778346"
-         }
       }
    },
    {
@@ -2456,6 +2410,25 @@
       }
    },
    {
+      "Number": 17925,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-06-13T12:23:25Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17925",
+      "LastCommitSHA": "3af38f7cbff944073233043ed3f247fdefc3345e",
+      "LastCommitAt": "2023-06-14T08:46:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17929,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-14T00:47:57Z",
@@ -2517,6 +2490,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17931",
       "LastCommitSHA": "0e31431e2fc6a50b0f70cadfdf116de5e2a72342",
       "LastCommitAt": "2023-06-14T09:02:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17932,
+      "OpenedBy": "ihsandemir",
+      "CreatedAt": "2023-06-14T09:45:51Z",
+      "Recipe": "hazelcast-cpp-client",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17932",
+      "LastCommitSHA": "8c9d9a48a97f6701bb2cf641e42730b419fbaa76",
+      "LastCommitAt": "2023-06-14T09:47:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
