@@ -1884,7 +1884,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17812",
       "LastCommitSHA": "db4b2cf12690dae8a34487c6638a95a13d3b38cf",
       "LastCommitAt": "2023-06-13T21:28:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 0,
@@ -2389,6 +2389,25 @@
       }
    },
    {
+      "Number": 17915,
+      "OpenedBy": "coryan",
+      "CreatedAt": "2023-06-12T14:20:56Z",
+      "Recipe": "google-cloud-cpp",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17915",
+      "LastCommitSHA": "b6f7ee79171464fdd2ebec34bf853703383ff3d4",
+      "LastCommitAt": "2023-06-13T15:24:52Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17916,
       "OpenedBy": "patmantru",
       "CreatedAt": "2023-06-12T20:07:11Z",
@@ -2505,25 +2524,6 @@
       }
    },
    {
-      "Number": 17928,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-06-14T00:41:41Z",
-      "Recipe": "scnlib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17928",
-      "LastCommitSHA": "10bd8673932788e68b696990b8df986f9da8c1e4",
-      "LastCommitAt": "2023-06-14T00:41:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17929,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-14T00:47:57Z",
@@ -2533,7 +2533,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17929",
       "LastCommitSHA": "47433d726bf8682f6354debd86ae3d30a701d767",
       "LastCommitAt": "2023-06-14T00:47:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
