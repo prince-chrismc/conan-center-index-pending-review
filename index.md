@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **111** pull requests currently under way :detective:
+There are **113** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -138,17 +138,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17919](https://github.com/conan-io/conan-center-index/pull/17919)|[toge](https://github.com/toge)|Jun 13|:memo: c-blosc|M|0|||
 [#17920](https://github.com/conan-io/conan-center-index/pull/17920)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 13|:gear: .c3i|:green_circle: XS|1|Jun 13||SSE4
 [#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:memo: artery-font-format|M|1|Jun 13||memsharded
+[#17928](https://github.com/conan-io/conan-center-index/pull/17928)|[toge](https://github.com/toge)|Jun 14|:stopwatch: scnlib|:green_circle: XS|0|||
+[#17929](https://github.com/conan-io/conan-center-index/pull/17929)|[toge](https://github.com/toge)|Jun 14|:stopwatch: c4core|:green_circle: XS|0|||
 
 
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 2e16c014647818d388418b7404bdf802f715f63b
+- Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 262
+	- Open: 264
 	- Draft: 29
-	- Average Age: 88 days, 7 hours, and 33.48 minutes
+	- Average Age: 87 days, 17 hours, and 20.77 minutes
 	- Stop Label: 105
 	
 
