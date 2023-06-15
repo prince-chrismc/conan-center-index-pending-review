@@ -267,7 +267,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16252",
       "LastCommitSHA": "0ad62f352d4c461d0df4fdd38f77f5fd6b8e3f20",
       "LastCommitAt": "2023-06-15T18:48:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 18,
          "ValidApprovals": 1,
@@ -2426,7 +2426,7 @@
       "LastCommitAt": "2023-06-15T14:26:45Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -2435,9 +2435,28 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-06-15T15:44:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17944#pullrequestreview-1481898528"
+            "SubmittedAt": "2023-06-15T21:17:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17944#pullrequestreview-1482400553"
          }
+      }
+   },
+   {
+      "Number": 17946,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-06-15T22:11:44Z",
+      "Recipe": "libtiff",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17946",
+      "LastCommitSHA": "374e30381c90a0248a68337c6ca15a0ac95d2f31",
+      "LastCommitAt": "2023-06-15T22:10:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
