@@ -269,7 +269,7 @@
       "LastCommitAt": "2023-06-14T17:25:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 16,
+         "Count": 17,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -278,8 +278,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "czoido",
-            "SubmittedAt": "2023-06-15T15:04:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16252#pullrequestreview-1481817375"
+            "SubmittedAt": "2023-06-15T15:37:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16252#pullrequestreview-1481885278"
          }
       }
    },
@@ -2376,11 +2376,18 @@
       "LastCommitAt": "2023-06-15T13:11:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-15T15:45:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17943#pullrequestreview-1481900589"
+         }
       }
    },
    {
@@ -2395,11 +2402,18 @@
       "LastCommitAt": "2023-06-15T14:26:45Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-15T15:44:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17944#pullrequestreview-1481898528"
+         }
       }
    }
 ]
