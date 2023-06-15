@@ -2071,6 +2071,30 @@
       }
    },
    {
+      "Number": 17891,
+      "OpenedBy": "7bitcoder",
+      "CreatedAt": "2023-06-10T13:24:58Z",
+      "Recipe": "7bitconf",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17891",
+      "LastCommitSHA": "f8512b4146b25b60b52d914b3ac15581c4f8ae39",
+      "LastCommitAt": "2023-06-15T16:23:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-06-15T06:56:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17891#pullrequestreview-1480822441"
+         }
+      }
+   },
+   {
       "Number": 17894,
       "OpenedBy": "sourcedelica",
       "CreatedAt": "2023-06-10T16:24:53Z",
@@ -2400,7 +2424,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17944",
       "LastCommitSHA": "dd8a82e775d94a3676ffdc5fb2cc96974e0cc06b",
       "LastCommitAt": "2023-06-15T14:26:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
