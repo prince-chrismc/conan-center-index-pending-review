@@ -100,17 +100,14 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15193",
-      "LastCommitSHA": "5dc5d9841c37dd0ed25ce5fe17c16fefd1bb3763",
-      "LastCommitAt": "2023-05-10T15:50:27Z",
+      "LastCommitSHA": "faea8ec9d421f2d2f975761dfd3de53a170d3798",
+      "LastCommitAt": "2023-06-15T06:43:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            "jwillikers",
-            "samuel-emrys"
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "samuel-emrys",
@@ -2107,30 +2104,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17891,
-      "OpenedBy": "7bitcoder",
-      "CreatedAt": "2023-06-10T13:24:58Z",
-      "Recipe": "7bitconf",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17891",
-      "LastCommitSHA": "ec060cd090b1d803704424535708f8b90d1d1c9d",
-      "LastCommitAt": "2023-06-14T16:55:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-06-13T22:16:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17891#pullrequestreview-1478140647"
-         }
       }
    },
    {
