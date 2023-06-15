@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **107** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -118,6 +118,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17859](https://github.com/conan-io/conan-center-index/pull/17859)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:stopwatch: qt|L|2|Jun 13||jwillikers, MartinDelille
 [#17873](https://github.com/conan-io/conan-center-index/pull/17873)|[toge](https://github.com/toge)|Jun 9|:memo: opentelemetry-cpp|M|0|:eyes:||
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|0|:eyes:||
+[#17891](https://github.com/conan-io/conan-center-index/pull/17891)|[7bitcoder](https://github.com/7bitcoder)|Jun 10|:stopwatch: 7bitconf|M|3|Jun 15||
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17897](https://github.com/conan-io/conan-center-index/pull/17897)|[toge](https://github.com/toge)|Jun 11|:memo: cpp-httplib|:green_circle: XS|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|:eyes:||
@@ -132,7 +133,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17941](https://github.com/conan-io/conan-center-index/pull/17941)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 15|:gear: .c3i|:green_circle: XS|1|Jun 15||RubenRBS
 [#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|0|||
 [#17943](https://github.com/conan-io/conan-center-index/pull/17943)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:memo: cppcheck|:blue_square: S|1|Jun 15||RubenRBS
-[#17944](https://github.com/conan-io/conan-center-index/pull/17944)|[toge](https://github.com/toge)|Jun 15|:stopwatch: glaze|:blue_square: S|1|Jun 15||RubenRBS
+[#17944](https://github.com/conan-io/conan-center-index/pull/17944)|[toge](https://github.com/toge)|Jun 15|:memo: glaze|:blue_square: S|1|Jun 15||RubenRBS
 
 
 #### :clipboard: Statistics
@@ -143,7 +144,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 257
 	- Draft: 31
-	- Average Age: 90 days, 17 hours, and 3.43 minutes
+	- Average Age: 90 days, 17 hours, and 59.55 minutes
 	- Stop Label: 101
 	
 
