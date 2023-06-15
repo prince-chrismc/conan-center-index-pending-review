@@ -269,15 +269,17 @@
       "LastCommitAt": "2023-06-14T17:25:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 12,
-         "ValidApprovals": 0,
+         "Count": 16,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-04-17T12:03:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16252#pullrequestreview-1387884439"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-06-15T15:04:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16252#pullrequestreview-1481817375"
          }
       }
    },
@@ -1126,15 +1128,17 @@
       "LastCommitAt": "2023-06-15T11:31:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "uilianries"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-06-15T09:58:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17346#pullrequestreview-1481183257"
+            "SubmittedAt": "2023-06-15T14:24:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17346#pullrequestreview-1481714032"
          }
       }
    },
@@ -1931,33 +1935,6 @@
       }
    },
    {
-      "Number": 17832,
-      "OpenedBy": "cjbradfield",
-      "CreatedAt": "2023-06-05T16:44:52Z",
-      "Recipe": "llhttp",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17832",
-      "LastCommitSHA": "3db4c75dde84abc9392a3a67840f509ee8b54a73",
-      "LastCommitAt": "2023-06-14T22:47:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-06-15T12:02:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17832#pullrequestreview-1481404439"
-         }
-      }
-   },
-   {
       "Number": 17836,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-06T01:56:32Z",
@@ -2283,11 +2260,18 @@
       "LastCommitAt": "2023-06-15T14:12:20Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "ericLemanissier"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-06-15T14:18:37Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17925#pullrequestreview-1481699238"
+         }
       }
    },
    {
@@ -2390,6 +2374,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17943",
       "LastCommitSHA": "170760937a9772fe4833c843cddcddbffaba69d6",
       "LastCommitAt": "2023-06-15T13:11:47Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17944,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-15T14:27:17Z",
+      "Recipe": "glaze",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17944",
+      "LastCommitSHA": "dd8a82e775d94a3676ffdc5fb2cc96974e0cc06b",
+      "LastCommitAt": "2023-06-15T14:26:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
