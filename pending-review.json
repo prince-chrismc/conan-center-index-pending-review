@@ -2267,17 +2267,18 @@
       "LastCommitAt": "2023-06-15T03:24:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
          "Approvals": [
-            "ilya-lavrenov"
+            "ilya-lavrenov",
+            "RubenRBS"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ilya-lavrenov",
-            "SubmittedAt": "2023-06-15T12:44:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17937#pullrequestreview-1481480227"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-16T15:33:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17937#pullrequestreview-1483774995"
          }
       }
    },
