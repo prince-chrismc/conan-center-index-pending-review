@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **107** pull requests currently under way :detective:
+There are **106** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -110,7 +110,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17810](https://github.com/conan-io/conan-center-index/pull/17810)|[toge](https://github.com/toge)|Jun 3|:memo: mongo-cxx-driver|L|2|Jun 9||
 [#17822](https://github.com/conan-io/conan-center-index/pull/17822)|[gjasny](https://github.com/gjasny)|Jun 4|:new: cppdap|M|2|Jun 14||memsharded
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:stopwatch: mbits-lngs|L|0|||
-[#17829](https://github.com/conan-io/conan-center-index/pull/17829)|[uilianries](https://github.com/uilianries)|Jun 5|:new: lefticus-tools|M|0|:eyes:||
+[#17829](https://github.com/conan-io/conan-center-index/pull/17829)|[uilianries](https://github.com/uilianries)|Jun 5|:new: lefticus-tools|M|1|Jun 16||RubenRBS
 [#17836](https://github.com/conan-io/conan-center-index/pull/17836)|[toge](https://github.com/toge)|Jun 6|:memo: jinja2cpp|L|1|Jun 9||memsharded
 [#17843](https://github.com/conan-io/conan-center-index/pull/17843)|[seboste](https://github.com/seboste)|Jun 6|:new: microservice-essentials|M|0|||
 [#17858](https://github.com/conan-io/conan-center-index/pull/17858)|[lrineau](https://github.com/lrineau)|Jun 7|:memo: cgal|L|5|Jun 14||uilianries
@@ -128,12 +128,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17924](https://github.com/conan-io/conan-center-index/pull/17924)|[toge](https://github.com/toge)|Jun 13|:memo: duckdb|M|2|Jun 15||RubenRBS
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|:blue_square: S|1|Jun 15||ericLemanissier
 [#17937](https://github.com/conan-io/conan-center-index/pull/17937)|[CD3](https://github.com/CD3)|Jun 15|:memo: libinterpolate|:green_circle: XS|1|Jun 15||ilya-lavrenov
-[#17938](https://github.com/conan-io/conan-center-index/pull/17938)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 15|:gear: .c3i|:green_circle: XS|0|||
 [#17941](https://github.com/conan-io/conan-center-index/pull/17941)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 15|:gear: .c3i|:green_circle: XS|1|Jun 15||RubenRBS
 [#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|0|||
 [#17943](https://github.com/conan-io/conan-center-index/pull/17943)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:memo: cppcheck|:blue_square: S|1|Jun 15||RubenRBS
 [#17944](https://github.com/conan-io/conan-center-index/pull/17944)|[toge](https://github.com/toge)|Jun 15|:memo: glaze|:blue_square: S|2|Jun 15||RubenRBS
-[#17948](https://github.com/conan-io/conan-center-index/pull/17948)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 16|:gear: .c3i|:green_circle: XS|0|||
+[#17948](https://github.com/conan-io/conan-center-index/pull/17948)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 16|:gear: .c3i|:green_circle: XS|1|Jun 16||RubenRBS
 
 
 #### :clipboard: Statistics
@@ -142,9 +141,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 260
+	- Open: 259
 	- Draft: 30
-	- Average Age: 89 days, 21 hours, and 27.21 minutes
+	- Average Age: 90 days, 6 hours, and 37.72 minutes
 	- Stop Label: 105
 	
 
