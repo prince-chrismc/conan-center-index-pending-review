@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **105** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -125,7 +125,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17915](https://github.com/conan-io/conan-center-index/pull/17915)|[coryan](https://github.com/coryan)|Jun 12|:memo: google-cloud-cpp|L|1|Jun 14||RubenRBS
 [#17919](https://github.com/conan-io/conan-center-index/pull/17919)|[toge](https://github.com/toge)|Jun 13|:memo: c-blosc|M|1|Jun 14||RubenRBS
 [#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:memo: artery-font-format|M|1|Jun 13||
-[#17924](https://github.com/conan-io/conan-center-index/pull/17924)|[toge](https://github.com/toge)|Jun 13|:memo: duckdb|M|2|Jun 15||RubenRBS
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|:blue_square: S|1|Jun 15||ericLemanissier
 [#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:memo: gtsam|L|0|||
 [#17937](https://github.com/conan-io/conan-center-index/pull/17937)|[CD3](https://github.com/CD3)|Jun 15|:memo: libinterpolate|:green_circle: XS|2|Jun 16||ilya-lavrenov, RubenRBS
@@ -141,10 +140,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 257
-	- Draft: 29
-	- Average Age: 91 days, 9 hours, and 32.84 minutes
-	- Stop Label: 104
+	- Open: 256
+	- Draft: 28
+	- Average Age: 91 days, 19 hours, and 46.22 minutes
+	- Stop Label: 105
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
