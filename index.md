@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **107** pull requests currently under way :detective:
+There are **105** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,9 +131,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17937](https://github.com/conan-io/conan-center-index/pull/17937)|[CD3](https://github.com/CD3)|Jun 15|:memo: libinterpolate|:green_circle: XS|2|Jun 16||ilya-lavrenov, RubenRBS
 [#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|0|||
 [#17943](https://github.com/conan-io/conan-center-index/pull/17943)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:memo: cppcheck|:blue_square: S|1|Jun 15||RubenRBS
-[#17950](https://github.com/conan-io/conan-center-index/pull/17950)|[valgur](https://github.com/valgur)|Jun 16|:stopwatch: gperftools|L|0|||
-[#17951](https://github.com/conan-io/conan-center-index/pull/17951)|[MartinDelille](https://github.com/MartinDelille)|Jun 16|:stopwatch: qt|L|1|Jun 16||ericLemanissier
-[#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:stopwatch: logr|L|0|||
+[#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|0|||
 
 
 #### :clipboard: Statistics
@@ -142,10 +140,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 258
+	- Open: 257
 	- Draft: 29
-	- Average Age: 90 days, 23 hours, and 5.56 minutes
-	- Stop Label: 103
+	- Average Age: 91 days, 8 hours, and 29.60 minutes
+	- Stop Label: 105
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
