@@ -2366,51 +2366,6 @@
       }
    },
    {
-      "Number": 17950,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-06-16T09:48:55Z",
-      "Recipe": "gperftools",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17950",
-      "LastCommitSHA": "705fb3c855c49fe526772d4d5b92cb4d94098233",
-      "LastCommitAt": "2023-06-16T17:28:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 17951,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-06-16T14:28:04Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17951",
-      "LastCommitSHA": "a252ef5da285404354108f8b3d466676128b2908",
-      "LastCommitAt": "2023-06-16T14:15:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-06-16T14:32:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17951#pullrequestreview-1483650991"
-         }
-      }
-   },
-   {
       "Number": 17953,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-16T17:19:46Z",
@@ -2420,7 +2375,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17953",
       "LastCommitSHA": "478b6f934c1eb4510ddb1d613abfff191117245d",
       "LastCommitAt": "2023-06-16T17:19:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
