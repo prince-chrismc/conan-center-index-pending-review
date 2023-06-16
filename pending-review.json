@@ -2378,59 +2378,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17943#pullrequestreview-1481900589"
          }
       }
-   },
-   {
-      "Number": 17944,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-06-15T14:27:17Z",
-      "Recipe": "glaze",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17944",
-      "LastCommitSHA": "dd8a82e775d94a3676ffdc5fb2cc96974e0cc06b",
-      "LastCommitAt": "2023-06-15T14:26:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-06-16T10:05:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17944#pullrequestreview-1483147021"
-         }
-      }
-   },
-   {
-      "Number": 17948,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2023-06-16T07:38:06Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17948",
-      "LastCommitSHA": "dc3f05a20b694281a1bdd4c073a08eac5fc65f13",
-      "LastCommitAt": "2023-06-16T07:38:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "ericLemanissier"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-06-16T10:05:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17948#pullrequestreview-1483146370"
-         }
-      }
    }
 ]
