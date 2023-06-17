@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **105** pull requests currently under way :detective:
+There are **106** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -80,13 +80,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17367](https://github.com/conan-io/conan-center-index/pull/17367)|[Corallo](https://github.com/Corallo)|May 2|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#17369](https://github.com/conan-io/conan-center-index/pull/17369)|[MartinDelille](https://github.com/MartinDelille)|May 2|:stopwatch: sentry-crashpad|:blue_square: S|0|||
 [#17395](https://github.com/conan-io/conan-center-index/pull/17395)|[SpaceIm](https://github.com/SpaceIm)|May 4|:stopwatch: h5pp|L|0|:eyes:||
-[#17410](https://github.com/conan-io/conan-center-index/pull/17410)|[Viatorus](https://github.com/Viatorus)|May 5|:new: emio|M|1|May 30 :bell:|memsharded|
-[#17414](https://github.com/conan-io/conan-center-index/pull/17414)|[valgur](https://github.com/valgur)|May 5|:memo: eastl|L|6|Jun 7||uilianries
+[#17408](https://github.com/conan-io/conan-center-index/pull/17408)|[toge](https://github.com/toge)|May 5|:new: sonic-cpp|M|1|Jun 16||memsharded
+[#17410](https://github.com/conan-io/conan-center-index/pull/17410)|[Viatorus](https://github.com/Viatorus)|May 5|:new: emio|M|2|Jun 16||memsharded
+[#17414](https://github.com/conan-io/conan-center-index/pull/17414)|[valgur](https://github.com/valgur)|May 5|:memo: eastl|L|7|Jun 16|memsharded|uilianries
 [#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:stopwatch: tk|L|0|:eyes:||
 [#17436](https://github.com/conan-io/conan-center-index/pull/17436)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: openmvg|:green_circle: XS|0|:eyes:||
 [#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:memo: paho-mqtt-c|:green_circle: XS|0|:eyes:||
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:stopwatch: libtool|:blue_square: S|0|:eyes:||
-[#17484](https://github.com/conan-io/conan-center-index/pull/17484)|[valgur](https://github.com/valgur)|May 9|:new: cub|M|0|:eyes:||
+[#17484](https://github.com/conan-io/conan-center-index/pull/17484)|[valgur](https://github.com/valgur)|May 9|:new: cub|M|1|Jun 16||memsharded
 [#17485](https://github.com/conan-io/conan-center-index/pull/17485)|[SpaceIm](https://github.com/SpaceIm)|May 9|:stopwatch: libxft|L|1|May 10 :bell:||jwillikers
 [#17490](https://github.com/conan-io/conan-center-index/pull/17490)|[toge](https://github.com/toge)|May 10|:memo: cpr|:blue_square: S|0|:eyes:||
 [#17491](https://github.com/conan-io/conan-center-index/pull/17491)|[Knapock](https://github.com/Knapock)|May 10|:stopwatch: dbus|:blue_square: S|4|Jun 1 :bell:||jwillikers
@@ -142,8 +143,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 254
 	- Draft: 28
-	- Average Age: 92 days, 13 hours, and 23.62 minutes
-	- Stop Label: 104
+	- Average Age: 92 days, 15 hours, and 10.26 minutes
+	- Stop Label: 103
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
