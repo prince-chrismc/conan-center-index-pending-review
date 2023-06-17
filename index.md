@@ -133,7 +133,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|0|||
 [#17947](https://github.com/conan-io/conan-center-index/pull/17947)|[toge](https://github.com/toge)|Jun 16|:memo: cppcommon|L|2|Jun 16||memsharded
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|0|||
-[#17955](https://github.com/conan-io/conan-center-index/pull/17955)|[toge](https://github.com/toge)|Jun 17|:stopwatch: simdjson|:green_circle: XS|0|||
+[#17956](https://github.com/conan-io/conan-center-index/pull/17956)|[nassipkali](https://github.com/nassipkali)|Jun 17|:stopwatch: platform.delegates|L|0|||
 
 
 #### :clipboard: Statistics
@@ -142,9 +142,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 255
+	- Open: 256
 	- Draft: 28
-	- Average Age: 92 days, 14 hours, and 37.84 minutes
+	- Average Age: 92 days, 6 hours, and 57.34 minutes
 	- Stop Label: 103
 	
 
