@@ -2468,5 +2468,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17960,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2023-06-17T16:47:05Z",
+      "Recipe": "charls",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17960",
+      "LastCommitSHA": "1bce0d6e44e16ea26df4a810661ca0003c61ff03",
+      "LastCommitAt": "2023-06-17T16:46:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
