@@ -145,9 +145,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 258
+	- Open: 257
 	- Draft: 28
-	- Average Age: 91 days, 21 hours, and 45.67 minutes
+	- Average Age: 92 days, 8 hours, and 18.22 minutes
 	- Stop Label: 102
 	
 
