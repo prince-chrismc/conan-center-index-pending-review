@@ -109,7 +109,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17752](https://github.com/conan-io/conan-center-index/pull/17752)|[0xFireWolf](https://github.com/0xFireWolf)|May 30|:memo: wolfssl|:blue_square: S|1|Jun 2 :bell:||
 [#17765](https://github.com/conan-io/conan-center-index/pull/17765)|[toge](https://github.com/toge)|May 30|:stopwatch: redis-plus-plus|M|0|:eyes:||
 [#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|:eyes:||
-[#17809](https://github.com/conan-io/conan-center-index/pull/17809)|[mayeut](https://github.com/mayeut)|Jun 3|:stopwatch: onnxruntime|L|2|Jun 9||
+[#17809](https://github.com/conan-io/conan-center-index/pull/17809)|[mayeut](https://github.com/mayeut)|Jun 3|:memo: onnxruntime|L|2|Jun 9||
 [#17810](https://github.com/conan-io/conan-center-index/pull/17810)|[toge](https://github.com/toge)|Jun 3|:memo: mongo-cxx-driver|L|2|Jun 9||
 [#17822](https://github.com/conan-io/conan-center-index/pull/17822)|[gjasny](https://github.com/gjasny)|Jun 4|:new: cppdap|M|2|Jun 14||memsharded
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:stopwatch: mbits-lngs|L|0|||
@@ -131,12 +131,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:memo: gtsam|L|0|||
 [#17937](https://github.com/conan-io/conan-center-index/pull/17937)|[CD3](https://github.com/CD3)|Jun 15|:memo: libinterpolate|:green_circle: XS|2|Jun 16||ilya-lavrenov, RubenRBS
 [#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|0|||
-[#17946](https://github.com/conan-io/conan-center-index/pull/17946)|[mayeut](https://github.com/mayeut)|Jun 15|:stopwatch: libtiff|:blue_square: S|0|||
+[#17946](https://github.com/conan-io/conan-center-index/pull/17946)|[mayeut](https://github.com/mayeut)|Jun 15|:stopwatch: libtiff|M|0|||
 [#17947](https://github.com/conan-io/conan-center-index/pull/17947)|[toge](https://github.com/toge)|Jun 16|:memo: cppcommon|L|2|Jun 16||memsharded
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|0|||
 [#17956](https://github.com/conan-io/conan-center-index/pull/17956)|[nassipkali](https://github.com/nassipkali)|Jun 17|:stopwatch: platform.delegates|L|0|||
-[#17959](https://github.com/conan-io/conan-center-index/pull/17959)|[toge](https://github.com/toge)|Jun 17|:stopwatch: strong_type|M|0|||
-[#17960](https://github.com/conan-io/conan-center-index/pull/17960)|[Nekto89](https://github.com/Nekto89)|Jun 17|:stopwatch: charls|:green_circle: XS|0|||
+[#17957](https://github.com/conan-io/conan-center-index/pull/17957)|[Nekto89](https://github.com/Nekto89)|Jun 17|:stopwatch: gdcm|L|0|||
+[#17959](https://github.com/conan-io/conan-center-index/pull/17959)|[toge](https://github.com/toge)|Jun 17|:memo: strong_type|M|0|||
 
 
 #### :clipboard: Statistics
@@ -147,8 +147,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 258
 	- Draft: 28
-	- Average Age: 91 days, 20 hours, and 41.45 minutes
-	- Stop Label: 103
+	- Average Age: 91 days, 21 hours, and 45.67 minutes
+	- Stop Label: 102
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
