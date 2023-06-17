@@ -131,7 +131,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:memo: gtsam|L|0|||
 [#17937](https://github.com/conan-io/conan-center-index/pull/17937)|[CD3](https://github.com/CD3)|Jun 15|:memo: libinterpolate|:green_circle: XS|2|Jun 16||ilya-lavrenov, RubenRBS
 [#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|0|||
-[#17946](https://github.com/conan-io/conan-center-index/pull/17946)|[mayeut](https://github.com/mayeut)|Jun 15|:stopwatch: libtiff|M|0|||
+[#17946](https://github.com/conan-io/conan-center-index/pull/17946)|[mayeut](https://github.com/mayeut)|Jun 15|:memo: libtiff|M|0|||
 [#17947](https://github.com/conan-io/conan-center-index/pull/17947)|[toge](https://github.com/toge)|Jun 16|:memo: cppcommon|L|2|Jun 16||memsharded
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|0|||
 [#17956](https://github.com/conan-io/conan-center-index/pull/17956)|[nassipkali](https://github.com/nassipkali)|Jun 17|:stopwatch: platform.delegates|L|0|||
@@ -147,7 +147,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 257
 	- Draft: 28
-	- Average Age: 92 days, 8 hours, and 18.22 minutes
+	- Average Age: 92 days, 9 hours, and 16.00 minutes
 	- Stop Label: 102
 	
 
