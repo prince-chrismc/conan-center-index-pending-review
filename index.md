@@ -73,7 +73,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17369](https://github.com/conan-io/conan-center-index/pull/17369)|[MartinDelille](https://github.com/MartinDelille)|May 2|:stopwatch: sentry-crashpad|:blue_square: S|0|||
 [#17408](https://github.com/conan-io/conan-center-index/pull/17408)|[toge](https://github.com/toge)|May 5|:new: sonic-cpp|M|1|Jun 16||memsharded
 [#17410](https://github.com/conan-io/conan-center-index/pull/17410)|[Viatorus](https://github.com/Viatorus)|May 5|:new: emio|M|2|Jun 16||memsharded
-[#17414](https://github.com/conan-io/conan-center-index/pull/17414)|[valgur](https://github.com/valgur)|May 5|:stopwatch: eastl|L|7|Jun 16|memsharded|
+[#17414](https://github.com/conan-io/conan-center-index/pull/17414)|[valgur](https://github.com/valgur)|May 5|:memo: eastl|L|7|Jun 16|memsharded|
 [#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:stopwatch: tk|L|0|:eyes:||
 [#17436](https://github.com/conan-io/conan-center-index/pull/17436)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: openmvg|:green_circle: XS|0|:eyes:||
 [#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:memo: paho-mqtt-c|:green_circle: XS|0|:eyes:||
@@ -102,7 +102,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17765](https://github.com/conan-io/conan-center-index/pull/17765)|[toge](https://github.com/toge)|May 30|:stopwatch: redis-plus-plus|M|0|:eyes:||
 [#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|:eyes:||
 [#17809](https://github.com/conan-io/conan-center-index/pull/17809)|[mayeut](https://github.com/mayeut)|Jun 3|:memo: onnxruntime|L|2|Jun 9||
-[#17810](https://github.com/conan-io/conan-center-index/pull/17810)|[toge](https://github.com/toge)|Jun 3|:memo: mongo-cxx-driver|L|2|Jun 9||
+[#17810](https://github.com/conan-io/conan-center-index/pull/17810)|[toge](https://github.com/toge)|Jun 3|:memo: mongo-cxx-driver|L|3|Jun 18||memsharded
 [#17822](https://github.com/conan-io/conan-center-index/pull/17822)|[gjasny](https://github.com/gjasny)|Jun 4|:new: cppdap|M|2|Jun 14||memsharded
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:stopwatch: mbits-lngs|L|0|||
 [#17829](https://github.com/conan-io/conan-center-index/pull/17829)|[uilianries](https://github.com/uilianries)|Jun 5|:new: lefticus-tools|M|1|Jun 16||RubenRBS
@@ -139,7 +139,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 259
 	- Draft: 28
-	- Average Age: 92 days, 15 hours, and 5.41 minutes
+	- Average Age: 92 days, 17 hours, and 4.11 minutes
 	- Stop Label: 114
 	
 
