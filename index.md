@@ -82,12 +82,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17490](https://github.com/conan-io/conan-center-index/pull/17490)|[toge](https://github.com/toge)|May 10|:memo: cpr|:blue_square: S|0|:eyes:||
 [#17491](https://github.com/conan-io/conan-center-index/pull/17491)|[Knapock](https://github.com/Knapock)|May 10|:stopwatch: dbus|:blue_square: S|4|Jun 1 :bell:||jwillikers
 [#17505](https://github.com/conan-io/conan-center-index/pull/17505)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|May 10|:stopwatch: seadex-genesis|M|0|:eyes:||
+[#17509](https://github.com/conan-io/conan-center-index/pull/17509)|[jusito](https://github.com/jusito)|May 10|:stopwatch: llvm|XL|0|||
 [#17528](https://github.com/conan-io/conan-center-index/pull/17528)|[kammce](https://github.com/kammce)|May 11|:new: arm-gnu-toolchain|L|5|May 23 :bell:||
 [#17545](https://github.com/conan-io/conan-center-index/pull/17545)|[toge](https://github.com/toge)|May 12|:memo: mppp|:blue_square: S|0|:eyes:||
 [#17547](https://github.com/conan-io/conan-center-index/pull/17547)|[joakimono](https://github.com/joakimono)|May 12|:memo: glpk|L|1|Jun 15||uilianries
 [#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:new: embag|M|1|May 25 :bell:||
 [#17592](https://github.com/conan-io/conan-center-index/pull/17592)|[toge](https://github.com/toge)|May 16|:stopwatch: mailio|M|4|May 27 :bell:|RubenRBS|SSE4
-[#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:memo: android-ndk|:blue_square: S|0|:eyes:||
 [#17658](https://github.com/conan-io/conan-center-index/pull/17658)|[jwillikers](https://github.com/jwillikers)|May 22|:stopwatch: cairo|:green_circle: XS|4|May 29 :bell:|RubenRBS|samuel-emrys, memsharded
 [#17664](https://github.com/conan-io/conan-center-index/pull/17664)|[samuel-emrys](https://github.com/samuel-emrys)|May 23|:new: util-linux-libuuid|M|4|Jun 8||ericLemanissier
@@ -138,7 +138,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 258
 	- Draft: 28
-	- Average Age: 92 days, 9 hours, and 43.68 minutes
+	- Average Age: 92 days, 10 hours, and 40.33 minutes
 	- Stop Label: 116
 	
 
