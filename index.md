@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **104** pull requests currently under way :detective:
+There are **103** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -127,9 +127,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17947](https://github.com/conan-io/conan-center-index/pull/17947)|[toge](https://github.com/toge)|Jun 16|:memo: cppcommon|L|2|Jun 16||memsharded
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|0|||
 [#17956](https://github.com/conan-io/conan-center-index/pull/17956)|[nassipkali](https://github.com/nassipkali)|Jun 17|:stopwatch: platform.delegates|L|0|||
-[#17957](https://github.com/conan-io/conan-center-index/pull/17957)|[Nekto89](https://github.com/Nekto89)|Jun 17|:memo: gdcm|L|0|||
-[#17959](https://github.com/conan-io/conan-center-index/pull/17959)|[toge](https://github.com/toge)|Jun 17|:memo: strong_type|M|0|||
-[#17962](https://github.com/conan-io/conan-center-index/pull/17962)|[toge](https://github.com/toge)|Jun 18|:memo: commata|:green_circle: XS|0|||
+[#17959](https://github.com/conan-io/conan-center-index/pull/17959)|[toge](https://github.com/toge)|Jun 17|:memo: strong_type|M|1|Jun 18||memsharded
+[#17962](https://github.com/conan-io/conan-center-index/pull/17962)|[toge](https://github.com/toge)|Jun 18|:memo: commata|:green_circle: XS|1|Jun 18||memsharded
 [#17963](https://github.com/conan-io/conan-center-index/pull/17963)|[toge](https://github.com/toge)|Jun 18|:memo: svgwrite|L|0|||
 
 
@@ -141,7 +140,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 259
 	- Draft: 28
-	- Average Age: 92 days, 12 hours, and 3.65 minutes
+	- Average Age: 92 days, 14 hours, and 2.80 minutes
 	- Stop Label: 114
 	
 
