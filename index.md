@@ -58,9 +58,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|0|:eyes:||
 [#17107](https://github.com/conan-io/conan-center-index/pull/17107)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-http|M|2|Jun 8||jwillikers, mpimenov
 [#17110](https://github.com/conan-io/conan-center-index/pull/17110)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-event-stream|M|2|Jun 8||jwillikers, mpimenov
-[#17138](https://github.com/conan-io/conan-center-index/pull/17138)|[gjasny](https://github.com/gjasny)|Apr 20|:new: asyncly|M|3|Jun 6||uilianries
+[#17138](https://github.com/conan-io/conan-center-index/pull/17138)|[gjasny](https://github.com/gjasny)|Apr 20|:new: asyncly|M|3|Jun 6 :bell:||uilianries
 [#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|15|Jun 14||samuel-emrys
-[#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|M|4|Jun 6||
+[#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|M|4|Jun 6 :bell:||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|L|0|:eyes:||
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|0|:eyes:||
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1 :bell:||MartinDelille, jwillikers
@@ -138,7 +138,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 258
 	- Draft: 28
-	- Average Age: 92 days, 10 hours, and 40.33 minutes
+	- Average Age: 92 days, 13 hours, and 41.33 minutes
 	- Stop Label: 116
 	
 
