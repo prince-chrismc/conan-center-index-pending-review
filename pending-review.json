@@ -1099,7 +1099,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17414",
       "LastCommitSHA": "416b745ecd606cc28d2378abf7c3eacda689cf4d",
       "LastCommitAt": "2023-06-18T12:26:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 0,
@@ -1315,8 +1315,8 @@
       "Change": 0,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17509",
-      "LastCommitSHA": "2693fc71b01cbe493d0cb6078f87d5e83d9da08a",
-      "LastCommitAt": "2023-06-18T10:01:38Z",
+      "LastCommitSHA": "891e4d046ecab3fd9fd257d861635ad6ce3a6222",
+      "LastCommitAt": "2023-06-18T14:49:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2342,6 +2342,25 @@
       "LastCommitSHA": "4db0ffb2241aa75640fdad093360d8f132668f80",
       "LastCommitAt": "2023-06-18T03:24:18Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 17963,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-18T15:03:06Z",
+      "Recipe": "svgwrite",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17963",
+      "LastCommitSHA": "97e9e7aa616411ded5e1bbb6c6b961b23809c8ab",
+      "LastCommitAt": "2023-06-18T15:02:00Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
