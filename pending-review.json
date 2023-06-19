@@ -766,7 +766,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17246",
       "LastCommitSHA": "46334234eff79c3cbb0f62a2fa7b57ff1bfa181b",
       "LastCommitAt": "2023-06-05T14:41:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1775,7 +1775,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17843",
       "LastCommitSHA": "d553b6354be461daa1a411a5d215c9a7833875d1",
       "LastCommitAt": "2023-06-19T18:33:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -1992,7 +1992,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17923",
       "LastCommitSHA": "36d5bc6994a0506b154c073cb5dc47c1c6fd50b1",
       "LastCommitAt": "2023-06-19T16:05:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2126,6 +2126,30 @@
       }
    },
    {
+      "Number": 17968,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-19T08:25:39Z",
+      "Recipe": "cuda-kat",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17968",
+      "LastCommitSHA": "152c2d1b6480dd29fc39d225305bd4f2a98545bd",
+      "LastCommitAt": "2023-06-19T19:52:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "memsharded",
+            "SubmittedAt": "2023-06-19T16:27:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17968#pullrequestreview-1486550650"
+         }
+      }
+   },
+   {
       "Number": 17969,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-06-19T08:54:01Z",
@@ -2152,6 +2176,25 @@
       }
    },
    {
+      "Number": 17972,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-19T15:35:38Z",
+      "Recipe": "metis",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17972",
+      "LastCommitSHA": "9a64527b888480a953ffa78ceb701a81650bdc31",
+      "LastCommitAt": "2023-06-19T19:38:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17973,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-19T15:58:41Z",
@@ -2161,7 +2204,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17973",
       "LastCommitSHA": "64cdce125cafec169a832a4383868f9ea34016c8",
       "LastCommitAt": "2023-06-19T15:58:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
