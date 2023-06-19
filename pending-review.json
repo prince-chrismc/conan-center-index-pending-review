@@ -2202,5 +2202,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17971,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-19T13:50:17Z",
+      "Recipe": "c-blosc2",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17971",
+      "LastCommitSHA": "6eeea4954e4856e7c31a31c6319603c7e1da816c",
+      "LastCommitAt": "2023-06-19T13:49:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
