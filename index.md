@@ -35,6 +35,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:stopwatch: qt|M|4|Feb 14 :bell:||
 [#15726](https://github.com/conan-io/conan-center-index/pull/15726)|[Hopobcn](https://github.com/Hopobcn)|Feb 4|:stopwatch: folly|XL|12|Apr 17 :bell:||
 [#16098](https://github.com/conan-io/conan-center-index/pull/16098)|[toge](https://github.com/toge)|Feb 17|:memo: protobuf|M|19|Jun 12||miklelappo
+[#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|L|2|Jun 19||memsharded
 [#16134](https://github.com/conan-io/conan-center-index/pull/16134)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 19|:stopwatch: bgfx|L|5|Apr 28 :bell:||
 [#16222](https://github.com/conan-io/conan-center-index/pull/16222)|[System-Arch](https://github.com/System-Arch)|Feb 22|:stopwatch: boost|:blue_square: S|8|May 19 :bell:||
 [#16313](https://github.com/conan-io/conan-center-index/pull/16313)|[hellozee](https://github.com/hellozee)|Feb 27|:stopwatch: qt|M|7|Apr 26 :bell:||ericLemanissier, jwillikers
@@ -119,10 +120,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17950](https://github.com/conan-io/conan-center-index/pull/17950)|[valgur](https://github.com/valgur)|Jun 16|:new: gperftools|L|0|||
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|2|Jun 19||
 [#17963](https://github.com/conan-io/conan-center-index/pull/17963)|[toge](https://github.com/toge)|Jun 18|:memo: svgwrite|L|1|Jun 18||
-[#17968](https://github.com/conan-io/conan-center-index/pull/17968)|[valgur](https://github.com/valgur)|Jun 19|:stopwatch: cuda-kat|L|1|Jun 19||
-[#17969](https://github.com/conan-io/conan-center-index/pull/17969)|[valgur](https://github.com/valgur)|Jun 19|:new: cuda-api-wrappers|M|1|Jun 19||memsharded
-[#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:stopwatch: metis|XL|0|||
+[#17968](https://github.com/conan-io/conan-center-index/pull/17968)|[valgur](https://github.com/valgur)|Jun 19|:memo: cuda-kat|L|3|Jun 19||memsharded
 [#17973](https://github.com/conan-io/conan-center-index/pull/17973)|[toge](https://github.com/toge)|Jun 19|:memo: cimg|:blue_square: S|0|||
+[#17975](https://github.com/conan-io/conan-center-index/pull/17975)|[gjasny](https://github.com/gjasny)|Jun 19|:memo: opencore-amr|L|0|||
 
 
 #### :clipboard: Statistics
@@ -131,10 +131,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 258
+	- Open: 257
 	- Draft: 29
-	- Average Age: 93 days, 5 hours, and 40.17 minutes
-	- Stop Label: 118
+	- Average Age: 93 days, 15 hours, and 18.64 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
