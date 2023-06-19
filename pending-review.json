@@ -951,7 +951,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17369",
       "LastCommitSHA": "4b4998c518f8564b12925322eb8f718ce6746358",
       "LastCommitAt": "2023-06-19T10:29:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1684,32 +1684,6 @@
             "ReviewerName": "memsharded",
             "SubmittedAt": "2023-06-18T21:13:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17810#pullrequestreview-1485197787"
-         }
-      }
-   },
-   {
-      "Number": 17822,
-      "OpenedBy": "gjasny",
-      "CreatedAt": "2023-06-04T17:34:36Z",
-      "Recipe": "cppdap",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17822",
-      "LastCommitSHA": "a21210d24bd158efaaa730fd89c0a64aacf0d044",
-      "LastCommitAt": "2023-06-05T06:13:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-06-14T11:43:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17822#pullrequestreview-1479198963"
          }
       }
    },
