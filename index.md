@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **97** pull requests currently under way :detective:
+There are **96** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -58,7 +58,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17107](https://github.com/conan-io/conan-center-index/pull/17107)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-http|M|2|Jun 8||jwillikers, mpimenov
 [#17110](https://github.com/conan-io/conan-center-index/pull/17110)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-event-stream|M|2|Jun 8||jwillikers, mpimenov
 [#17138](https://github.com/conan-io/conan-center-index/pull/17138)|[gjasny](https://github.com/gjasny)|Apr 20|:new: asyncly|M|3|Jun 6 :bell:||uilianries
-[#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:stopwatch: openblas|XL|15|Jun 14||
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|M|4|Jun 6 :bell:||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|L|0|:eyes:||
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|0|:eyes:||
@@ -105,7 +104,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:stopwatch: mbits-lngs|L|0|||
 [#17829](https://github.com/conan-io/conan-center-index/pull/17829)|[uilianries](https://github.com/uilianries)|Jun 5|:new: lefticus-tools|M|1|Jun 16||RubenRBS
 [#17836](https://github.com/conan-io/conan-center-index/pull/17836)|[toge](https://github.com/toge)|Jun 6|:memo: jinja2cpp|L|1|Jun 9||memsharded
-[#17843](https://github.com/conan-io/conan-center-index/pull/17843)|[seboste](https://github.com/seboste)|Jun 6|:new: microservice-essentials|M|0|:eyes:||
 [#17858](https://github.com/conan-io/conan-center-index/pull/17858)|[lrineau](https://github.com/lrineau)|Jun 7|:memo: cgal|L|5|Jun 14||uilianries
 [#17859](https://github.com/conan-io/conan-center-index/pull/17859)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:stopwatch: qt|L|2|Jun 13||jwillikers, MartinDelille
 [#17873](https://github.com/conan-io/conan-center-index/pull/17873)|[toge](https://github.com/toge)|Jun 9|:memo: opentelemetry-cpp|M|0|:eyes:||
@@ -119,6 +117,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:memo: artery-font-format|M|1|Jun 13||
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|:blue_square: S|1|Jun 15||ericLemanissier
 [#17947](https://github.com/conan-io/conan-center-index/pull/17947)|[toge](https://github.com/toge)|Jun 16|:memo: cppcommon|L|2|Jun 16||memsharded
+[#17950](https://github.com/conan-io/conan-center-index/pull/17950)|[valgur](https://github.com/valgur)|Jun 16|:new: gperftools|L|0|||
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|2|Jun 19||
 [#17956](https://github.com/conan-io/conan-center-index/pull/17956)|[nassipkali](https://github.com/nassipkali)|Jun 17|:stopwatch: platform.delegates|L|0|||
 [#17963](https://github.com/conan-io/conan-center-index/pull/17963)|[toge](https://github.com/toge)|Jun 18|:memo: svgwrite|L|1|Jun 18||
@@ -134,7 +133,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 257
 	- Draft: 29
-	- Average Age: 93 days, 8 hours, and 46.78 minutes
+	- Average Age: 93 days, 9 hours, and 37.02 minutes
 	- Stop Label: 116
 	
 
