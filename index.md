@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **96** pull requests currently under way :detective:
+There are **97** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -122,6 +122,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|2|Jun 19||
 [#17956](https://github.com/conan-io/conan-center-index/pull/17956)|[nassipkali](https://github.com/nassipkali)|Jun 17|:stopwatch: platform.delegates|L|0|||
 [#17963](https://github.com/conan-io/conan-center-index/pull/17963)|[toge](https://github.com/toge)|Jun 18|:memo: svgwrite|L|1|Jun 18||
+[#17968](https://github.com/conan-io/conan-center-index/pull/17968)|[valgur](https://github.com/valgur)|Jun 19|:memo: cuda-kat|L|0|||
 [#17969](https://github.com/conan-io/conan-center-index/pull/17969)|[valgur](https://github.com/valgur)|Jun 19|:new: cuda-api-wrappers|M|0|||
 
 
@@ -133,8 +134,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 257
 	- Draft: 29
-	- Average Age: 93 days, 7 hours, and 31.81 minutes
-	- Stop Label: 117
+	- Average Age: 93 days, 8 hours, and 46.78 minutes
+	- Stop Label: 116
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
