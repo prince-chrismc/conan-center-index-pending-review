@@ -2220,16 +2220,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17953",
-      "LastCommitSHA": "478b6f934c1eb4510ddb1d613abfff191117245d",
-      "LastCommitAt": "2023-06-16T17:19:02Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ec34eecbcd1c0239f2f54cd4b4d03988115a878f",
+      "LastCommitAt": "2023-06-19T01:56:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "memsharded",
@@ -2317,16 +2315,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17963",
-      "LastCommitSHA": "97e9e7aa616411ded5e1bbb6c6b961b23809c8ab",
-      "LastCommitAt": "2023-06-18T15:02:00Z",
+      "LastCommitSHA": "5539c1e34f714b8b8bcefea83875c5a4ed4bc46f",
+      "LastCommitAt": "2023-06-19T01:21:19Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded"
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "memsharded",
