@@ -59,7 +59,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17110](https://github.com/conan-io/conan-center-index/pull/17110)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-event-stream|M|2|Jun 8||jwillikers, mpimenov
 [#17138](https://github.com/conan-io/conan-center-index/pull/17138)|[gjasny](https://github.com/gjasny)|Apr 20|:new: asyncly|M|3|Jun 6 :bell:||uilianries
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|M|4|Jun 6 :bell:||
-[#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|L|0|:eyes:||
+[#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:stopwatch: cyclonedds|L|0|:eyes:||
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|0|:eyes:||
 [#17274](https://github.com/conan-io/conan-center-index/pull/17274)|[SpaceIm](https://github.com/SpaceIm)|Apr 27|:stopwatch: sentry-native|:blue_square: S|3|May 1 :bell:||MartinDelille, jwillikers
 [#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:new: clickhouse-cpp|M|5|Jun 1 :bell:||uilianries
@@ -113,7 +113,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|:eyes:||
 [#17915](https://github.com/conan-io/conan-center-index/pull/17915)|[coryan](https://github.com/coryan)|Jun 12|:memo: google-cloud-cpp|L|1|Jun 14||RubenRBS
 [#17919](https://github.com/conan-io/conan-center-index/pull/17919)|[toge](https://github.com/toge)|Jun 13|:memo: c-blosc|M|1|Jun 14||RubenRBS
-[#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:memo: artery-font-format|M|1|Jun 13||
+[#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:stopwatch: artery-font-format|M|1|Jun 13||
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|:blue_square: S|1|Jun 15||ericLemanissier
 [#17947](https://github.com/conan-io/conan-center-index/pull/17947)|[toge](https://github.com/toge)|Jun 16|:memo: cppcommon|L|2|Jun 16||memsharded
 [#17950](https://github.com/conan-io/conan-center-index/pull/17950)|[valgur](https://github.com/valgur)|Jun 16|:new: gperftools|L|0|||
@@ -122,7 +122,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17963](https://github.com/conan-io/conan-center-index/pull/17963)|[toge](https://github.com/toge)|Jun 18|:memo: svgwrite|L|1|Jun 18||
 [#17968](https://github.com/conan-io/conan-center-index/pull/17968)|[valgur](https://github.com/valgur)|Jun 19|:memo: cuda-kat|L|0|||
 [#17969](https://github.com/conan-io/conan-center-index/pull/17969)|[valgur](https://github.com/valgur)|Jun 19|:new: cuda-api-wrappers|M|0|||
-[#17971](https://github.com/conan-io/conan-center-index/pull/17971)|[toge](https://github.com/toge)|Jun 19|:stopwatch: c-blosc2|L|0|||
+[#17973](https://github.com/conan-io/conan-center-index/pull/17973)|[toge](https://github.com/toge)|Jun 19|:stopwatch: cimg|:blue_square: S|0|||
 
 
 #### :clipboard: Statistics
@@ -131,10 +131,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 257
+	- Open: 258
 	- Draft: 29
-	- Average Age: 93 days, 10 hours, and 10.25 minutes
-	- Stop Label: 116
+	- Average Age: 93 days, 2 hours, and 31.41 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
