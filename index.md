@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **96** pull requests currently under way :detective:
+There are **97** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -123,6 +123,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17963](https://github.com/conan-io/conan-center-index/pull/17963)|[toge](https://github.com/toge)|Jun 18|:memo: svgwrite|L|1|Jun 18||
 [#17968](https://github.com/conan-io/conan-center-index/pull/17968)|[valgur](https://github.com/valgur)|Jun 19|:memo: cuda-kat|L|0|||
 [#17969](https://github.com/conan-io/conan-center-index/pull/17969)|[valgur](https://github.com/valgur)|Jun 19|:new: cuda-api-wrappers|M|0|||
+[#17971](https://github.com/conan-io/conan-center-index/pull/17971)|[toge](https://github.com/toge)|Jun 19|:stopwatch: c-blosc2|L|0|||
 
 
 #### :clipboard: Statistics
@@ -131,9 +132,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 257
+	- Open: 258
 	- Draft: 29
-	- Average Age: 93 days, 9 hours, and 37.02 minutes
+	- Average Age: 93 days, 1 hours, and 51.27 minutes
 	- Stop Label: 116
 	
 
