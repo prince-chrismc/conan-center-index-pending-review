@@ -973,8 +973,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17369",
-      "LastCommitSHA": "19c1930e5aee9b20e9182154808887f6e88310d4",
-      "LastCommitAt": "2023-06-16T14:33:58Z",
+      "LastCommitSHA": "4b4998c518f8564b12925322eb8f718ce6746358",
+      "LastCommitAt": "2023-06-19T10:29:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2187,6 +2187,25 @@
             "SubmittedAt": "2023-06-18T19:11:43Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17963#pullrequestreview-1485176172"
          }
+      }
+   },
+   {
+      "Number": 17968,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-19T08:25:39Z",
+      "Recipe": "cuda-kat",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17968",
+      "LastCommitSHA": "744a78d71eb8d746802d035560f2c7ea83c49614",
+      "LastCommitAt": "2023-06-19T09:40:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
