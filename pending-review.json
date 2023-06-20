@@ -1405,17 +1405,18 @@
       "LastCommitAt": "2023-06-20T16:08:40Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
+         "Count": 4,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "czoido"
+            "czoido",
+            "RubenRBS"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-06-20T18:39:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17661#pullrequestreview-1488776915"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-20T19:58:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17661#pullrequestreview-1488924759"
          }
       }
    },
