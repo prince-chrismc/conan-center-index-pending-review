@@ -1671,33 +1671,6 @@
       }
    },
    {
-      "Number": 17810,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-06-03T15:13:46Z",
-      "Recipe": "mongo-cxx-driver",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17810",
-      "LastCommitSHA": "7dc9e16196924daf078176d1aaf301f1194c9d67",
-      "LastCommitAt": "2023-06-09T23:13:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-06-20T10:04:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17810#pullrequestreview-1487783572"
-         }
-      }
-   },
-   {
       "Number": 17825,
       "OpenedBy": "mzdun",
       "CreatedAt": "2023-06-05T05:36:27Z",
@@ -1726,7 +1699,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17843",
       "LastCommitSHA": "f777df599e454d877d70e827374464665aa79a98",
       "LastCommitAt": "2023-06-20T18:19:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
