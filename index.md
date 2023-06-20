@@ -77,6 +77,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|||
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:memo: android-ndk|:blue_square: S|0|:eyes:||
 [#17664](https://github.com/conan-io/conan-center-index/pull/17664)|[samuel-emrys](https://github.com/samuel-emrys)|May 23|:new: util-linux-libuuid|M|4|Jun 8||ericLemanissier
+[#17671](https://github.com/conan-io/conan-center-index/pull/17671)|[valgur](https://github.com/valgur)|May 23|:new: rmm|M|1|May 25 :bell:||
 [#17682](https://github.com/conan-io/conan-center-index/pull/17682)|[uilianries](https://github.com/uilianries)|May 24|:memo: chaiscript|L|0|:eyes:||
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:stopwatch: arrow|:green_circle: XS|0|:eyes:||
 [#17707](https://github.com/conan-io/conan-center-index/pull/17707)|[kevswims](https://github.com/kevswims)|May 25|:new: foxglove-schemas-protobuf|L|0|:eyes:||
@@ -102,12 +103,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17973](https://github.com/conan-io/conan-center-index/pull/17973)|[toge](https://github.com/toge)|Jun 19|:memo: cimg|:blue_square: S|1|Jun 20||czoido
 [#17975](https://github.com/conan-io/conan-center-index/pull/17975)|[gjasny](https://github.com/gjasny)|Jun 19|:memo: opencore-amr|L|0|||
 [#17976](https://github.com/conan-io/conan-center-index/pull/17976)|[pwqbot](https://github.com/pwqbot)|Jun 20|:memo: spdlog|M|0|||
-[#17982](https://github.com/conan-io/conan-center-index/pull/17982)|[hedtke](https://github.com/hedtke)|Jun 20|:stopwatch: highs|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **14** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -119,13 +119,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17369](https://github.com/conan-io/conan-center-index/pull/17369)|[MartinDelille](https://github.com/MartinDelille)|May 2|:memo: sentry-crashpad|2|uilianries, SSE4
 [#17408](https://github.com/conan-io/conan-center-index/pull/17408)|[toge](https://github.com/toge)|May 5|:new: sonic-cpp|4|uilianries, SSE4
 [#17491](https://github.com/conan-io/conan-center-index/pull/17491)|[Knapock](https://github.com/Knapock)|May 10|:warning: dbus|5|jwillikers, uilianries
-[#17547](https://github.com/conan-io/conan-center-index/pull/17547)|[joakimono](https://github.com/joakimono)|May 12|:memo: glpk|2|uilianries, SSE4
+[#17547](https://github.com/conan-io/conan-center-index/pull/17547)|[joakimono](https://github.com/joakimono)|May 12|:memo: glpk|3|uilianries, SSE4, czoido
 [#17658](https://github.com/conan-io/conan-center-index/pull/17658)|[jwillikers](https://github.com/jwillikers)|May 22|:warning: cairo|5|samuel-emrys, memsharded, RubenRBS
 [#17810](https://github.com/conan-io/conan-center-index/pull/17810)|[toge](https://github.com/toge)|Jun 3|:memo: mongo-cxx-driver|4|memsharded, SSE4
 [#17829](https://github.com/conan-io/conan-center-index/pull/17829)|[uilianries](https://github.com/uilianries)|Jun 5|:new: lefticus-tools|2|RubenRBS, SSE4
 [#17836](https://github.com/conan-io/conan-center-index/pull/17836)|[toge](https://github.com/toge)|Jun 6|:warning: jinja2cpp|4|czoido, SSE4
 [#17858](https://github.com/conan-io/conan-center-index/pull/17858)|[lrineau](https://github.com/lrineau)|Jun 7|:memo: cgal|6|uilianries, SSE4
-[#17915](https://github.com/conan-io/conan-center-index/pull/17915)|[coryan](https://github.com/coryan)|Jun 12|:memo: google-cloud-cpp|2|RubenRBS, SSE4
 
 
 #### :clipboard: Statistics
@@ -134,10 +133,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 256
+	- Open: 255
 	- Draft: 29
-	- Average Age: 94 days, 4 hours, and 22.42 minutes
-	- Stop Label: 120
+	- Average Age: 94 days, 13 hours, and 20.56 minutes
+	- Stop Label: 118
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
