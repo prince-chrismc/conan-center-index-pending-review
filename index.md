@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **75** pull requests currently under way :detective:
+There are **76** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -98,15 +98,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|:blue_square: S|1|Jun 15||ericLemanissier
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|2|Jun 19||
 [#17963](https://github.com/conan-io/conan-center-index/pull/17963)|[toge](https://github.com/toge)|Jun 18|:memo: svgwrite|L|1|Jun 18||
-[#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:memo: metis|XL|0|||
+[#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:stopwatch: metis|XL|0|||
 [#17973](https://github.com/conan-io/conan-center-index/pull/17973)|[toge](https://github.com/toge)|Jun 19|:memo: cimg|:blue_square: S|1|Jun 20||czoido
 [#17975](https://github.com/conan-io/conan-center-index/pull/17975)|[gjasny](https://github.com/gjasny)|Jun 19|:memo: opencore-amr|L|0|||
 [#17976](https://github.com/conan-io/conan-center-index/pull/17976)|[pwqbot](https://github.com/pwqbot)|Jun 20|:memo: spdlog|M|0|||
+[#17982](https://github.com/conan-io/conan-center-index/pull/17982)|[hedtke](https://github.com/hedtke)|Jun 20|:stopwatch: highs|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **14** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -125,7 +126,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17836](https://github.com/conan-io/conan-center-index/pull/17836)|[toge](https://github.com/toge)|Jun 6|:warning: jinja2cpp|4|czoido, SSE4
 [#17858](https://github.com/conan-io/conan-center-index/pull/17858)|[lrineau](https://github.com/lrineau)|Jun 7|:memo: cgal|6|uilianries, SSE4
 [#17915](https://github.com/conan-io/conan-center-index/pull/17915)|[coryan](https://github.com/coryan)|Jun 12|:memo: google-cloud-cpp|2|RubenRBS, SSE4
-[#17947](https://github.com/conan-io/conan-center-index/pull/17947)|[toge](https://github.com/toge)|Jun 16|:memo: cppcommon|3|memsharded, SSE4
 
 
 #### :clipboard: Statistics
@@ -136,7 +136,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 256
 	- Draft: 29
-	- Average Age: 94 days, 3 hours, and 32.77 minutes
+	- Average Age: 94 days, 4 hours, and 22.42 minutes
 	- Stop Label: 120
 	
 
