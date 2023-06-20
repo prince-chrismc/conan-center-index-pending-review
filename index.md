@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **80** pull requests currently under way :detective:
+There are **78** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -40,7 +40,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16313](https://github.com/conan-io/conan-center-index/pull/16313)|[hellozee](https://github.com/hellozee)|Feb 27|:stopwatch: qt|M|7|Apr 26 :bell:||ericLemanissier, jwillikers
 [#16320](https://github.com/conan-io/conan-center-index/pull/16320)|[toge](https://github.com/toge)|Feb 27|:memo: osmanip|L|0|:eyes:||
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
-[#16504](https://github.com/conan-io/conan-center-index/pull/16504)|[dheater](https://github.com/dheater)|Mar 10|:memo: libssh2|L|2|Jun 19||gegles
+[#16504](https://github.com/conan-io/conan-center-index/pull/16504)|[dheater](https://github.com/dheater)|Mar 10|:stopwatch: libssh2|L|2|Jun 19||
 [#16544](https://github.com/conan-io/conan-center-index/pull/16544)|[lmife](https://github.com/lmife)|Mar 13|:stopwatch: qt|:green_circle: XS|4|Jun 19||jwillikers, ericLemanissier, MartinDelille
 [#16559](https://github.com/conan-io/conan-center-index/pull/16559)|[zillemarco](https://github.com/zillemarco)|Mar 14|:memo: nanodbc|L|1|May 24 :bell:||SSE4
 [#16587](https://github.com/conan-io/conan-center-index/pull/16587)|[nicosmd](https://github.com/nicosmd)|Mar 16|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
@@ -102,21 +102,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17953](https://github.com/conan-io/conan-center-index/pull/17953)|[toge](https://github.com/toge)|Jun 16|:memo: logr|L|2|Jun 19||
 [#17963](https://github.com/conan-io/conan-center-index/pull/17963)|[toge](https://github.com/toge)|Jun 18|:memo: svgwrite|L|1|Jun 18||
 [#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:memo: metis|XL|0|||
-[#17973](https://github.com/conan-io/conan-center-index/pull/17973)|[toge](https://github.com/toge)|Jun 19|:memo: cimg|:blue_square: S|1|Jun 20||czoido
 [#17975](https://github.com/conan-io/conan-center-index/pull/17975)|[gjasny](https://github.com/gjasny)|Jun 19|:memo: opencore-amr|L|0|||
 [#17976](https://github.com/conan-io/conan-center-index/pull/17976)|[pwqbot](https://github.com/pwqbot)|Jun 20|:memo: spdlog|M|0|||
-[#17987](https://github.com/conan-io/conan-center-index/pull/17987)|[toge](https://github.com/toge)|Jun 20|:stopwatch: concurrentqueue|:blue_square: S|1|Jun 20||RubenRBS
 [#17988](https://github.com/conan-io/conan-center-index/pull/17988)|[coryan](https://github.com/coryan)|Jun 20|:stopwatch: google-cloud-cpp|L|1|Jun 20||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **11** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|4|memsharded, SSE4
+[#16112](https://github.com/conan-io/conan-center-index/pull/16112)|[toge](https://github.com/toge)|Feb 18|:new: libdrawille|6|memsharded, SSE4, RubenRBS
 [#16613](https://github.com/conan-io/conan-center-index/pull/16613)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:warning: librasterlite2|2|samuel-emrys, uilianries
 [#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:new: clickhouse-cpp|6|uilianries, SSE4
 [#17346](https://github.com/conan-io/conan-center-index/pull/17346)|[valgur](https://github.com/valgur)|May 1|:new: console_bridge|6|uilianries, SSE4
@@ -125,6 +123,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17547](https://github.com/conan-io/conan-center-index/pull/17547)|[joakimono](https://github.com/joakimono)|May 12|:memo: glpk|3|uilianries, SSE4, czoido
 [#17658](https://github.com/conan-io/conan-center-index/pull/17658)|[jwillikers](https://github.com/jwillikers)|May 22|:warning: cairo|5|samuel-emrys, memsharded, RubenRBS
 [#17810](https://github.com/conan-io/conan-center-index/pull/17810)|[toge](https://github.com/toge)|Jun 3|:memo: mongo-cxx-driver|4|memsharded, SSE4
+[#17973](https://github.com/conan-io/conan-center-index/pull/17973)|[toge](https://github.com/toge)|Jun 19|:memo: cimg|2|czoido, RubenRBS
 [#17978](https://github.com/conan-io/conan-center-index/pull/17978)|[gjasny](https://github.com/gjasny)|Jun 20|:new: vo-amrwbenc|2|czoido, memsharded
 
 
@@ -134,9 +133,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 3d64bb61aafa21b42d40b3839755a210fdbb9065
 - Pull Requests:
-	- Open: 252
+	- Open: 251
 	- Draft: 29
-	- Average Age: 95 days, 14 hours, and 41.96 minutes
+	- Average Age: 96 days, and 46.39 minutes
 	- Stop Label: 116
 	
 
