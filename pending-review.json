@@ -2164,5 +2164,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 17976,
+      "OpenedBy": "pwqbot",
+      "CreatedAt": "2023-06-20T02:47:00Z",
+      "Recipe": "spdlog",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17976",
+      "LastCommitSHA": "b9ed9c2dde7a62b7e6b15f776fb1955b95aeaa8f",
+      "LastCommitAt": "2023-06-20T02:45:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
