@@ -1311,15 +1311,17 @@
       "LastCommitAt": "2023-06-17T12:44:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "memsharded"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-06-09T16:47:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17809#pullrequestreview-1472617255"
+            "SubmittedAt": "2023-06-21T18:30:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17809#pullrequestreview-1491440668"
          }
       }
    },
