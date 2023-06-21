@@ -499,33 +499,6 @@
       }
    },
    {
-      "Number": 16704,
-      "OpenedBy": "spnda",
-      "CreatedAt": "2023-03-25T17:44:36Z",
-      "Recipe": "fastgltf",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16704",
-      "LastCommitSHA": "aa52998db10f97a3b7d392c1e7387b842ffd670f",
-      "LastCommitAt": "2023-06-20T07:11:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 10,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-06-20T18:23:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16704#pullrequestreview-1488750913"
-         }
-      }
-   },
-   {
       "Number": 16750,
       "OpenedBy": "gouriano",
       "CreatedAt": "2023-03-28T14:15:14Z",
@@ -1406,8 +1379,8 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17825",
-      "LastCommitSHA": "66de3a36d3d7fd930de4d82d2337f8827c926277",
-      "LastCommitAt": "2023-06-16T18:05:44Z",
+      "LastCommitSHA": "b55e9b4ed6f736336d70230e7e87739e9e964e71",
+      "LastCommitAt": "2023-06-21T05:52:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1672,11 +1645,11 @@
       "CreatedAt": "2023-06-19T15:35:38Z",
       "Recipe": "metis",
       "Change": 1,
-      "Weight": 4,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17972",
-      "LastCommitSHA": "d8eac6b483c26e31ebfab5ebfb678edd22e312f1",
-      "LastCommitAt": "2023-06-20T12:09:59Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "188cd30a2c45475e14b075d51ef8aa00a0a0f825",
+      "LastCommitAt": "2023-06-21T05:58:52Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
