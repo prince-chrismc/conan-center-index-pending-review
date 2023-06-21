@@ -830,33 +830,6 @@
       }
    },
    {
-      "Number": 17312,
-      "OpenedBy": "Jihadist",
-      "CreatedAt": "2023-04-29T13:45:02Z",
-      "Recipe": "clickhouse-cpp",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17312",
-      "LastCommitSHA": "1b46921c0e9870d34dfabb8295af517416896641",
-      "LastCommitAt": "2023-06-01T08:11:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "uilianries",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-06-20T10:15:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17312#pullrequestreview-1487803522"
-         }
-      }
-   },
-   {
       "Number": 17320,
       "OpenedBy": "samuel-emrys",
       "CreatedAt": "2023-04-30T02:48:18Z",
