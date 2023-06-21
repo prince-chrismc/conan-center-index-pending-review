@@ -104,7 +104,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -115,9 +115,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17138](https://github.com/conan-io/conan-center-index/pull/17138)|[gjasny](https://github.com/gjasny)|Apr 20|:new: asyncly|4|uilianries, SSE4
 [#17312](https://github.com/conan-io/conan-center-index/pull/17312)|[Jihadist](https://github.com/Jihadist)|Apr 29|:new: clickhouse-cpp|6|uilianries, SSE4
 [#17346](https://github.com/conan-io/conan-center-index/pull/17346)|[valgur](https://github.com/valgur)|May 1|:new: console_bridge|6|uilianries, SSE4
-[#17369](https://github.com/conan-io/conan-center-index/pull/17369)|[MartinDelille](https://github.com/MartinDelille)|May 2|:memo: sentry-crashpad|2|uilianries, SSE4
 [#17897](https://github.com/conan-io/conan-center-index/pull/17897)|[toge](https://github.com/toge)|Jun 11|:memo: cpp-httplib|2|czoido, SSE4
-[#17923](https://github.com/conan-io/conan-center-index/pull/17923)|[holger-detering](https://github.com/holger-detering)|Jun 13|:memo: artery-font-format|3|memsharded, RubenRBS
 [#17988](https://github.com/conan-io/conan-center-index/pull/17988)|[coryan](https://github.com/coryan)|Jun 20|:warning: google-cloud-cpp|2|RubenRBS, SSE4
 
 
@@ -127,9 +125,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a437a2f4afe78ab03edc5d0a9d5270468d4ed6dd
 - Pull Requests:
-	- Open: 241
+	- Open: 239
 	- Draft: 29
-	- Average Age: 99 days, 8 hours, and 17.84 minutes
+	- Average Age: 100 days, and 3.50 minutes
 	- Stop Label: 114
 	
 
