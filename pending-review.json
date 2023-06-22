@@ -2268,30 +2268,6 @@
       }
    },
    {
-      "Number": 17993,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2023-06-21T08:17:46Z",
-      "Recipe": "sqlpp11",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17993",
-      "LastCommitSHA": "06d958bf9e88761f0864cb12036693ab4cbc091b",
-      "LastCommitAt": "2023-06-22T11:47:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "CJCombrink",
-            "SubmittedAt": "2023-06-21T09:37:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17993#pullrequestreview-1490288261"
-         }
-      }
-   },
-   {
       "Number": 17994,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-06-21T09:49:31Z",
