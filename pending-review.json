@@ -31,8 +31,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13048",
-      "LastCommitSHA": "92bfa4e3b9de0104048976b2e7c3c4b1bd707a5a",
-      "LastCommitAt": "2023-03-29T09:38:03Z",
+      "LastCommitSHA": "0796e5ec331cb16667ad89c950d97f039679a811",
+      "LastCommitAt": "2023-06-22T10:44:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 24,
@@ -1491,6 +1491,25 @@
       }
    },
    {
+      "Number": 17933,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-14T13:33:41Z",
+      "Recipe": "gtsam",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17933",
+      "LastCommitSHA": "656ba7ef0bdaf4674e981019e32f25f2e6591419",
+      "LastCommitAt": "2023-06-21T07:11:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17942,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-06-15T13:05:24Z",
@@ -1793,11 +1812,18 @@
       "LastCommitAt": "2023-06-22T07:30:29Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-22T11:02:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18008#pullrequestreview-1492943200"
+         }
       }
    },
    {
@@ -1806,10 +1832,10 @@
       "CreatedAt": "2023-06-21T14:32:29Z",
       "Recipe": "wt",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18009",
-      "LastCommitSHA": "2ee9efadee9cf362946151b9ee3f97f5de3c0d60",
-      "LastCommitAt": "2023-06-20T10:43:07Z",
+      "LastCommitSHA": "29d73c66534a4d8004a768008d660fd83179a546",
+      "LastCommitAt": "2023-06-22T10:50:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1912,6 +1938,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18018",
       "LastCommitSHA": "95d1c30a10394569e7c2991d7a0c0e46ef918c86",
       "LastCommitAt": "2023-06-22T09:59:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18019,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-06-22T10:14:27Z",
+      "Recipe": "libsystemd",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18019",
+      "LastCommitSHA": "5f46fbccf3f79bfad23167fac3d806ba46f76d63",
+      "LastCommitAt": "2023-06-22T10:04:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
