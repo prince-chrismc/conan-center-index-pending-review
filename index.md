@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **108** pull requests currently under way :detective:
+There are **109** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -38,6 +38,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16313](https://github.com/conan-io/conan-center-index/pull/16313)|[hellozee](https://github.com/hellozee)|Feb 27|:stopwatch: qt|M|7|Apr 26 :bell:||ericLemanissier, jwillikers
 [#16320](https://github.com/conan-io/conan-center-index/pull/16320)|[toge](https://github.com/toge)|Feb 27|:stopwatch: osmanip|L|0|:eyes:||
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
+[#16528](https://github.com/conan-io/conan-center-index/pull/16528)|[psyinf](https://github.com/psyinf)|Mar 11|:stopwatch: vsg|L|16|Jun 22|RubenRBS|
 [#16559](https://github.com/conan-io/conan-center-index/pull/16559)|[zillemarco](https://github.com/zillemarco)|Mar 14|:stopwatch: nanodbc|L|1|May 24 :bell:||
 [#16587](https://github.com/conan-io/conan-center-index/pull/16587)|[nicosmd](https://github.com/nicosmd)|Mar 16|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#16589](https://github.com/conan-io/conan-center-index/pull/16589)|[cynix](https://github.com/cynix)|Mar 16|:stopwatch: openldap|:green_circle: XS|0|:eyes:||
@@ -131,7 +132,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18016](https://github.com/conan-io/conan-center-index/pull/18016)|[uilianries](https://github.com/uilianries)|Jun 22|:stopwatch: intel-ipsec-mb|M|0|||
 [#18018](https://github.com/conan-io/conan-center-index/pull/18018)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 22|:stopwatch: glib|:green_circle: XS|0|||
 [#18019](https://github.com/conan-io/conan-center-index/pull/18019)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 22|:stopwatch: libsystemd|:green_circle: XS|0|||
-[#18021](https://github.com/conan-io/conan-center-index/pull/18021)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 22|:stopwatch: .c3i|:green_circle: XS|1|Jun 22||SSE4
+[#18020](https://github.com/conan-io/conan-center-index/pull/18020)|[RazielXYZ](https://github.com/RazielXYZ)|Jun 22|:stopwatch: entt|L|2|Jun 22||
 [#18023](https://github.com/conan-io/conan-center-index/pull/18023)|[toge](https://github.com/toge)|Jun 22|:memo: uni-algo|:green_circle: XS|0|||
 [#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: gdal|L|0|||
 [#18028](https://github.com/conan-io/conan-center-index/pull/18028)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: proj|:blue_square: S|0|||
@@ -139,7 +140,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **14** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -157,6 +158,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17997](https://github.com/conan-io/conan-center-index/pull/17997)|[czoido](https://github.com/czoido)|Jun 21|:warning: cpp-httplib|2|RubenRBS, SSE4
 [#18006](https://github.com/conan-io/conan-center-index/pull/18006)|[jcar87](https://github.com/jcar87)|Jun 21|:warning: argtable3|2|czoido, RubenRBS
 [#18008](https://github.com/conan-io/conan-center-index/pull/18008)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 21|:warning: libgettext|2|RubenRBS, SSE4
+[#18021](https://github.com/conan-io/conan-center-index/pull/18021)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 22|:gear: .c3i|2|SSE4, RubenRBS
 [#18024](https://github.com/conan-io/conan-center-index/pull/18024)|[toge](https://github.com/toge)|Jun 22|:memo: veque|2|RubenRBS, SSE4
 
 
@@ -168,7 +170,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 244
 	- Draft: 27
-	- Average Age: 95 days, 6 hours, and 26.78 minutes
+	- Average Age: 95 days, 7 hours, and 24.26 minutes
 	- Stop Label: 73
 	
 
