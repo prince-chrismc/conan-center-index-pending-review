@@ -1606,25 +1606,6 @@
       }
    },
    {
-      "Number": 18000,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-06-21T11:58:09Z",
-      "Recipe": "util-linux-libuuid",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18000",
-      "LastCommitSHA": "1799c609861a5ddc2f5853415d3a7e2c98004567",
-      "LastCommitAt": "2023-06-21T11:57:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18001,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2023-06-21T12:03:44Z",
