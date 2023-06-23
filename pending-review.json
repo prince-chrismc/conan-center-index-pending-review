@@ -1695,34 +1695,6 @@
       }
    },
    {
-      "Number": 17751,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-05-30T09:30:46Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17751",
-      "LastCommitSHA": "7709c64c61154313fd73fc8c7e694e0fd1801f8a",
-      "LastCommitAt": "2023-06-13T09:44:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            "ericLemanissier",
-            "jwillikers",
-            "uilianries"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-06-22T09:53:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17751#pullrequestreview-1492826959"
-         }
-      }
-   },
-   {
       "Number": 17752,
       "OpenedBy": "0xFireWolf",
       "CreatedAt": "2023-05-30T10:34:28Z",
@@ -2544,6 +2516,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18041",
       "LastCommitSHA": "741a01b4deb71bd677583d8def5988d9d7c4083f",
       "LastCommitAt": "2023-06-23T15:05:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18042,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-06-23T16:00:41Z",
+      "Recipe": "wayland-protocols",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18042",
+      "LastCommitSHA": "38c590af6c4b63082baef56b31eeef0c3fb62189",
+      "LastCommitAt": "2023-06-23T15:48:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
