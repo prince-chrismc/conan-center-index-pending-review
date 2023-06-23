@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **109** pull requests currently under way :detective:
+There are **113** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -102,7 +102,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17752](https://github.com/conan-io/conan-center-index/pull/17752)|[0xFireWolf](https://github.com/0xFireWolf)|May 30|:stopwatch: wolfssl|:blue_square: S|2|Jun 19||ericLemanissier
 [#17754](https://github.com/conan-io/conan-center-index/pull/17754)|[jwidauer](https://github.com/jwidauer)|May 30|:stopwatch: sqlpp11|L|0|:eyes:||
 [#17761](https://github.com/conan-io/conan-center-index/pull/17761)|[leha-bot](https://github.com/leha-bot)|May 30|:stopwatch: ccache|:green_circle: XS|0|:eyes:||
-[#17765](https://github.com/conan-io/conan-center-index/pull/17765)|[toge](https://github.com/toge)|May 30|:stopwatch: redis-plus-plus|L|0|||
+[#17765](https://github.com/conan-io/conan-center-index/pull/17765)|[toge](https://github.com/toge)|May 30|:memo: redis-plus-plus|L|0|||
 [#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|:eyes:||
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:stopwatch: libdb|L|0|:eyes:||
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:stopwatch: mbits-lngs|L|0|||
@@ -136,6 +136,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18023](https://github.com/conan-io/conan-center-index/pull/18023)|[toge](https://github.com/toge)|Jun 22|:memo: uni-algo|:green_circle: XS|0|||
 [#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: gdal|L|0|||
 [#18028](https://github.com/conan-io/conan-center-index/pull/18028)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: proj|:blue_square: S|0|||
+[#18030](https://github.com/conan-io/conan-center-index/pull/18030)|[valgur](https://github.com/valgur)|Jun 22|:stopwatch: fff|L|0|||
+[#18031](https://github.com/conan-io/conan-center-index/pull/18031)|[toge](https://github.com/toge)|Jun 23|:stopwatch: wasmer|:blue_square: S|0|||
+[#18032](https://github.com/conan-io/conan-center-index/pull/18032)|[valgur](https://github.com/valgur)|Jun 23|:stopwatch: lest|M|0|||
+[#18033](https://github.com/conan-io/conan-center-index/pull/18033)|[toge](https://github.com/toge)|Jun 23|:stopwatch: magic_enum|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -168,9 +172,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a437a2f4afe78ab03edc5d0a9d5270468d4ed6dd
 - Pull Requests:
-	- Open: 244
+	- Open: 248
 	- Draft: 27
-	- Average Age: 95 days, 9 hours, and 27.04 minutes
+	- Average Age: 93 days, 22 hours, and 24.54 minutes
 	- Stop Label: 73
 	
 
