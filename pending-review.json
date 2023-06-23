@@ -2515,5 +2515,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18043,
+      "OpenedBy": "miklelappo",
+      "CreatedAt": "2023-06-23T20:35:18Z",
+      "Recipe": "perfetto",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18043",
+      "LastCommitSHA": "e4b433dff329224286a7bba79e1744df73ec24a5",
+      "LastCommitAt": "2023-06-23T20:30:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
