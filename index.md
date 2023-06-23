@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **104** pull requests currently under way :detective:
+There are **105** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,11 +131,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18037](https://github.com/conan-io/conan-center-index/pull/18037)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: util-linux-libuuid|:green_circle: XS|0|||
 [#18038](https://github.com/conan-io/conan-center-index/pull/18038)|[tim-goto](https://github.com/tim-goto)|Jun 23|:stopwatch: gurkenlaeufer|:green_circle: XS|0|||
 [#18041](https://github.com/conan-io/conan-center-index/pull/18041)|[toge](https://github.com/toge)|Jun 23|:stopwatch: tlx|:green_circle: XS|0|||
+[#18042](https://github.com/conan-io/conan-center-index/pull/18042)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: wayland-protocols|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -147,7 +148,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17512](https://github.com/conan-io/conan-center-index/pull/17512)|[SpaceIm](https://github.com/SpaceIm)|May 10|:warning: wt|2|RubenRBS, SSE4
 [#17671](https://github.com/conan-io/conan-center-index/pull/17671)|[valgur](https://github.com/valgur)|May 23|:warning: rmm|6|uilianries, SSE4
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:warning: arrow|2|uilianries, SSE4
-[#17751](https://github.com/conan-io/conan-center-index/pull/17751)|[MartinDelille](https://github.com/MartinDelille)|May 30|:warning: qt|4|ericLemanissier, jwillikers, uilianries
 [#17927](https://github.com/conan-io/conan-center-index/pull/17927)|[holger-detering](https://github.com/holger-detering)|Jun 13|:warning: ssht|6|czoido, jcar87
 [#17982](https://github.com/conan-io/conan-center-index/pull/17982)|[hedtke](https://github.com/hedtke)|Jun 20|:warning: highs|4|RubenRBS, SSE4
 [#18024](https://github.com/conan-io/conan-center-index/pull/18024)|[toge](https://github.com/toge)|Jun 22|:memo: veque|2|RubenRBS, SSE4
@@ -159,10 +159,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a437a2f4afe78ab03edc5d0a9d5270468d4ed6dd
 - Pull Requests:
-	- Open: 241
+	- Open: 239
 	- Draft: 28
-	- Average Age: 96 days, 13 hours, and 58.20 minutes
-	- Stop Label: 75
+	- Average Age: 96 days, 22 hours, and 44.07 minutes
+	- Stop Label: 74
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
