@@ -67,33 +67,6 @@
       }
    },
    {
-      "Number": 15669,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-02-02T00:33:26Z",
-      "Recipe": "opencolorio",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/15669",
-      "LastCommitSHA": "3051fff26ce0f1f9fbadab189219950f77b22945",
-      "LastCommitAt": "2023-05-30T15:46:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "memsharded",
-            "SSE4"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-06-22T18:34:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/15669#pullrequestreview-1493792726"
-         }
-      }
-   },
-   {
       "Number": 15678,
       "OpenedBy": "sabelka",
       "CreatedAt": "2023-02-02T12:52:55Z",
@@ -278,33 +251,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 16559,
-      "OpenedBy": "zillemarco",
-      "CreatedAt": "2023-03-14T13:39:09Z",
-      "Recipe": "nanodbc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16559",
-      "LastCommitSHA": "fff51ffdb6ed8d580f14fffa31edcf241fe8d7eb",
-      "LastCommitAt": "2023-06-23T08:25:31Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "franramirez688",
-            "jcar87"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-06-23T08:32:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16559#pullrequestreview-1494705590"
-         }
       }
    },
    {
