@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **102** pull requests currently under way :detective:
+There are **103** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -129,11 +129,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18037](https://github.com/conan-io/conan-center-index/pull/18037)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: util-linux-libuuid|:green_circle: XS|1|Jun 24||jwillikers
 [#18045](https://github.com/conan-io/conan-center-index/pull/18045)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 23|:stopwatch: docs|:blue_square: S|0|||
 [#18047](https://github.com/conan-io/conan-center-index/pull/18047)|[mayeut](https://github.com/mayeut)|Jun 24|:stopwatch: libpng|:blue_square: S|0|||
+[#18048](https://github.com/conan-io/conan-center-index/pull/18048)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 24|:stopwatch: docs|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -144,7 +145,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17671](https://github.com/conan-io/conan-center-index/pull/17671)|[valgur](https://github.com/valgur)|May 23|:warning: rmm|6|uilianries, SSE4
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:warning: arrow|2|uilianries, SSE4
 [#17927](https://github.com/conan-io/conan-center-index/pull/17927)|[holger-detering](https://github.com/holger-detering)|Jun 13|:warning: ssht|6|czoido, jcar87
-[#17982](https://github.com/conan-io/conan-center-index/pull/17982)|[hedtke](https://github.com/hedtke)|Jun 20|:memo: highs|5|RubenRBS, SSE4, jcar87
 [#18028](https://github.com/conan-io/conan-center-index/pull/18028)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:warning: proj|2|uilianries, jcar87
 
 
@@ -156,7 +156,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 235
 	- Draft: 28
-	- Average Age: 98 days, 17 hours, and 58.20 minutes
+	- Average Age: 98 days, 18 hours, and 31.94 minutes
 	- Stop Label: 76
 	
 
