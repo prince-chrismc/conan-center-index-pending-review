@@ -265,15 +265,17 @@
       "LastCommitAt": "2023-06-23T19:43:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 7,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "jcar87"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-06-23T19:37:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16471#pullrequestreview-1495810010"
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-06-24T04:33:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16471#pullrequestreview-1496338644"
          }
       }
    },
