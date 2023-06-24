@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **111** pull requests currently under way :detective:
+There are **110** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -87,7 +87,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
 [#17618](https://github.com/conan-io/conan-center-index/pull/17618)|[toge](https://github.com/toge)|May 18|:stopwatch: libspng|M|2|Jun 14||
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
-[#17655](https://github.com/conan-io/conan-center-index/pull/17655)|[jwillikers](https://github.com/jwillikers)|May 22|:stopwatch: pango|L|0|:eyes:||
+[#17655](https://github.com/conan-io/conan-center-index/pull/17655)|[jwillikers](https://github.com/jwillikers)|May 22|:stopwatch: pango|L|0|||
 [#17672](https://github.com/conan-io/conan-center-index/pull/17672)|[jiaoew1991](https://github.com/jiaoew1991)|May 24|:stopwatch: jemalloc|:green_circle: XS|0|:eyes:||
 [#17682](https://github.com/conan-io/conan-center-index/pull/17682)|[uilianries](https://github.com/uilianries)|May 24|:stopwatch: chaiscript|L|0|:eyes:||
 [#17699](https://github.com/conan-io/conan-center-index/pull/17699)|[weatherhead99](https://github.com/weatherhead99)|May 25|:stopwatch: extra-cmake-modules|M|0|:eyes:||
@@ -133,11 +133,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18037](https://github.com/conan-io/conan-center-index/pull/18037)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: util-linux-libuuid|:green_circle: XS|0|||
 [#18038](https://github.com/conan-io/conan-center-index/pull/18038)|[tim-goto](https://github.com/tim-goto)|Jun 23|:stopwatch: gurkenlaeufer|:green_circle: XS|0|||
 [#18041](https://github.com/conan-io/conan-center-index/pull/18041)|[toge](https://github.com/toge)|Jun 23|:stopwatch: tlx|:green_circle: XS|0|||
-[#18042](https://github.com/conan-io/conan-center-index/pull/18042)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: wayland-protocols|:green_circle: XS|0|||
+[#18042](https://github.com/conan-io/conan-center-index/pull/18042)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: wayland-protocols|:green_circle: XS|1|Jun 24||jwillikers
 [#18043](https://github.com/conan-io/conan-center-index/pull/18043)|[miklelappo](https://github.com/miklelappo)|Jun 23|:stopwatch: perfetto|:green_circle: XS|0|||
 [#18045](https://github.com/conan-io/conan-center-index/pull/18045)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 23|:stopwatch: docs|:blue_square: S|0|||
 [#18046](https://github.com/conan-io/conan-center-index/pull/18046)|[valgur](https://github.com/valgur)|Jun 24|:stopwatch: darknet|L|0|||
-[#18047](https://github.com/conan-io/conan-center-index/pull/18047)|[mayeut](https://github.com/mayeut)|Jun 24|:stopwatch: libpng|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -164,8 +163,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: a437a2f4afe78ab03edc5d0a9d5270468d4ed6dd
 - Pull Requests:
 	- Open: 241
-	- Draft: 28
-	- Average Age: 95 days, 23 hours, and 12.02 minutes
+	- Draft: 29
+	- Average Age: 96 days, and 4.64 minutes
 	- Stop Label: 73
 	
 
