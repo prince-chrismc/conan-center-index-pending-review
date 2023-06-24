@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **103** pull requests currently under way :detective:
+There are **102** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -113,17 +113,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17971](https://github.com/conan-io/conan-center-index/pull/17971)|[toge](https://github.com/toge)|Jun 19|:stopwatch: c-blosc2|L|0|||
 [#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:stopwatch: metis|L|0|:eyes:||
 [#17976](https://github.com/conan-io/conan-center-index/pull/17976)|[pwqbot](https://github.com/pwqbot)|Jun 20|:stopwatch: spdlog|M|0|:eyes:||
-[#17993](https://github.com/conan-io/conan-center-index/pull/17993)|[uilianries](https://github.com/uilianries)|Jun 21|:memo: sqlpp11|L|6|Jun 23||LvdStokker, CJCombrink, RubenRBS
-[#17994](https://github.com/conan-io/conan-center-index/pull/17994)|[valgur](https://github.com/valgur)|Jun 21|:memo: sbp|L|1|Jun 21||
-[#17995](https://github.com/conan-io/conan-center-index/pull/17995)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 21|:memo: fontconfig|:green_circle: XS|1|Jun 24||jwillikers
-[#18007](https://github.com/conan-io/conan-center-index/pull/18007)|[holger-detering](https://github.com/holger-detering)|Jun 21|:memo: chaiscript|L|6|Jun 24|RubenRBS|jcar87
+[#17993](https://github.com/conan-io/conan-center-index/pull/17993)|[uilianries](https://github.com/uilianries)|Jun 21|:stopwatch: sqlpp11|L|6|Jun 23||LvdStokker, CJCombrink, RubenRBS
+[#17994](https://github.com/conan-io/conan-center-index/pull/17994)|[valgur](https://github.com/valgur)|Jun 21|:stopwatch: sbp|L|1|Jun 21||
+[#17995](https://github.com/conan-io/conan-center-index/pull/17995)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 21|:stopwatch: fontconfig|:green_circle: XS|1|Jun 24||jwillikers
+[#18007](https://github.com/conan-io/conan-center-index/pull/18007)|[holger-detering](https://github.com/holger-detering)|Jun 21|:stopwatch: chaiscript|L|6|Jun 24|RubenRBS|jcar87
 [#18009](https://github.com/conan-io/conan-center-index/pull/18009)|[ViktarHasiul231862](https://github.com/ViktarHasiul231862)|Jun 21|:stopwatch: wt|:blue_square: S|0|||
 [#18018](https://github.com/conan-io/conan-center-index/pull/18018)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 22|:stopwatch: glib|:green_circle: XS|1|Jun 24||jwillikers
-[#18019](https://github.com/conan-io/conan-center-index/pull/18019)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 22|:stopwatch: libsystemd|:green_circle: XS|1|Jun 24||jwillikers
-[#18020](https://github.com/conan-io/conan-center-index/pull/18020)|[RazielXYZ](https://github.com/RazielXYZ)|Jun 22|:memo: entt|L|4|Jun 24||jcar87
+[#18020](https://github.com/conan-io/conan-center-index/pull/18020)|[RazielXYZ](https://github.com/RazielXYZ)|Jun 22|:stopwatch: entt|L|4|Jun 24||jcar87
 [#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: gdal|L|0|||
-[#18030](https://github.com/conan-io/conan-center-index/pull/18030)|[valgur](https://github.com/valgur)|Jun 22|:memo: fff|L|1|Jun 24||jcar87
-[#18031](https://github.com/conan-io/conan-center-index/pull/18031)|[toge](https://github.com/toge)|Jun 23|:memo: wasmer|:blue_square: S|1|Jun 24||jcar87
+[#18030](https://github.com/conan-io/conan-center-index/pull/18030)|[valgur](https://github.com/valgur)|Jun 22|:stopwatch: fff|L|1|Jun 24||jcar87
+[#18031](https://github.com/conan-io/conan-center-index/pull/18031)|[toge](https://github.com/toge)|Jun 23|:stopwatch: wasmer|:blue_square: S|1|Jun 24||jcar87
 [#18034](https://github.com/conan-io/conan-center-index/pull/18034)|[Cogitri](https://github.com/Cogitri)|Jun 23|:stopwatch: opentelemetry-cpp|:blue_square: S|0|||
 [#18035](https://github.com/conan-io/conan-center-index/pull/18035)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: at-spi2-core|:green_circle: XS|0|||
 [#18037](https://github.com/conan-io/conan-center-index/pull/18037)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: util-linux-libuuid|:green_circle: XS|1|Jun 24||jwillikers
@@ -154,10 +153,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a437a2f4afe78ab03edc5d0a9d5270468d4ed6dd
 - Pull Requests:
-	- Open: 235
+	- Open: 234
 	- Draft: 28
-	- Average Age: 98 days, 18 hours, and 31.94 minutes
-	- Stop Label: 76
+	- Average Age: 99 days, 5 hours, and 25.32 minutes
+	- Stop Label: 77
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
