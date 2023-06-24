@@ -163,7 +163,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 239
 	- Draft: 28
-	- Average Age: 96 days, 7 hours, and 10.29 minutes
+	- Average Age: 96 days, 8 hours, and 56.55 minutes
 	- Stop Label: 73
 	
 
