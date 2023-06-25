@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **103** pull requests currently under way :detective:
+There are **104** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -103,7 +103,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:stopwatch: libdb|L|0|:eyes:||
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:stopwatch: mbits-lngs|L|0|:eyes:||
 [#17859](https://github.com/conan-io/conan-center-index/pull/17859)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:stopwatch: qt|L|3|Jun 22||MartinDelille
-[#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:stopwatch: b2|:blue_square: S|0|||
+[#17881](https://github.com/conan-io/conan-center-index/pull/17881)|[fcorso2016](https://github.com/fcorso2016)|Jun 9|:stopwatch: whisper-cpp|L|1|Jun 14|RubenRBS|
+[#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:stopwatch: b2|:blue_square: S|0|:eyes:||
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|:eyes:||
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|:eyes:||
@@ -157,7 +158,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 234
 	- Draft: 27
-	- Average Age: 99 days, 1 hours, and 31.91 minutes
+	- Average Age: 99 days, 3 hours, and 17.56 minutes
 	- Stop Label: 76
 	
 
