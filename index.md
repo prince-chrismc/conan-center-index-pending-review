@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **110** pull requests currently under way :detective:
+There are **111** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,9 +131,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18009](https://github.com/conan-io/conan-center-index/pull/18009)|[ViktarHasiul231862](https://github.com/ViktarHasiul231862)|Jun 21|:stopwatch: wt|:blue_square: S|0|||
 [#18018](https://github.com/conan-io/conan-center-index/pull/18018)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 22|:stopwatch: glib|:green_circle: XS|1|Jun 24||jwillikers
 [#18020](https://github.com/conan-io/conan-center-index/pull/18020)|[RazielXYZ](https://github.com/RazielXYZ)|Jun 22|:stopwatch: entt|L|4|Jun 24||jcar87
-[#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: gdal|L|0|||
+[#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: gdal|L|0|:eyes:||
 [#18035](https://github.com/conan-io/conan-center-index/pull/18035)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 23|:stopwatch: at-spi2-core|:green_circle: XS|1|Jun 25||jwillikers
 [#18045](https://github.com/conan-io/conan-center-index/pull/18045)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 23|:green_book: docs|:blue_square: S|1|Jun 25||SSE4
+[#18047](https://github.com/conan-io/conan-center-index/pull/18047)|[mayeut](https://github.com/mayeut)|Jun 24|:memo: libpng|:blue_square: S|0|||
 [#18048](https://github.com/conan-io/conan-center-index/pull/18048)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 24|:green_book: docs|:blue_square: S|1|Jun 25||SSE4
 [#18049](https://github.com/conan-io/conan-center-index/pull/18049)|[toge](https://github.com/toge)|Jun 25|:stopwatch: numcpp|:blue_square: S|1|Jun 25||jwillikers
 [#18050](https://github.com/conan-io/conan-center-index/pull/18050)|[toge](https://github.com/toge)|Jun 25|:stopwatch: luau|:green_circle: XS|0|||
@@ -141,7 +142,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -155,7 +156,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17927](https://github.com/conan-io/conan-center-index/pull/17927)|[holger-detering](https://github.com/holger-detering)|Jun 13|:warning: ssht|6|czoido, jcar87
 [#17946](https://github.com/conan-io/conan-center-index/pull/17946)|[mayeut](https://github.com/mayeut)|Jun 15|:warning: libtiff|3|jcar87, memsharded
 [#17993](https://github.com/conan-io/conan-center-index/pull/17993)|[uilianries](https://github.com/uilianries)|Jun 21|:warning: sqlpp11|7|LvdStokker, CJCombrink, RubenRBS, jwillikers
-[#18030](https://github.com/conan-io/conan-center-index/pull/18030)|[valgur](https://github.com/valgur)|Jun 22|:memo: fff|2|jcar87, jwillikers
 [#18031](https://github.com/conan-io/conan-center-index/pull/18031)|[toge](https://github.com/toge)|Jun 23|:warning: wasmer|2|jcar87, jwillikers
 
 
@@ -165,10 +165,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a437a2f4afe78ab03edc5d0a9d5270468d4ed6dd
 - Pull Requests:
-	- Open: 235
+	- Open: 234
 	- Draft: 27
-	- Average Age: 98 days, 21 hours, and 14.04 minutes
-	- Stop Label: 64
+	- Average Age: 99 days, 7 hours, and 59.97 minutes
+	- Stop Label: 63
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
