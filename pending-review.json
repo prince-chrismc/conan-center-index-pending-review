@@ -1819,6 +1819,32 @@
       }
    },
    {
+      "Number": 17881,
+      "OpenedBy": "fcorso2016",
+      "CreatedAt": "2023-06-09T19:17:10Z",
+      "Recipe": "whisper-cpp",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17881",
+      "LastCommitSHA": "14eec620b907a39b0a28570a27eaa6ae5d57fce6",
+      "LastCommitAt": "2023-06-25T14:02:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "RubenRBS"
+         ],
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-14T08:40:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17881#pullrequestreview-1478824289"
+         }
+      }
+   },
+   {
       "Number": 17882,
       "OpenedBy": "PeteAudinate",
       "CreatedAt": "2023-06-09T19:58:26Z",
