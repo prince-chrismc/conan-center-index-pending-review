@@ -1657,7 +1657,7 @@
       "LastCommitAt": "2023-05-27T20:05:41Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
@@ -1665,9 +1665,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-06-09T17:18:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17725#pullrequestreview-1472711161"
+            "ReviewerName": "mayeut",
+            "SubmittedAt": "2023-06-25T11:26:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17725#pullrequestreview-1497030797"
          }
       }
    },
