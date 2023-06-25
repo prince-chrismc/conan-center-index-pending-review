@@ -856,25 +856,6 @@
       }
    },
    {
-      "Number": 17272,
-      "OpenedBy": "0xFireWolf",
-      "CreatedAt": "2023-04-27T08:11:38Z",
-      "Recipe": "elfutils",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17272",
-      "LastCommitSHA": "71790ab6754bd5803294e23a5ae3402c30077c80",
-      "LastCommitAt": "2023-04-29T01:05:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17274,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-04-27T09:22:14Z",
@@ -1264,15 +1245,17 @@
       "LastCommitAt": "2023-06-06T02:00:49Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
+         "Count": 6,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-05-23T13:24:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17528#pullrequestreview-1439701850"
+            "SubmittedAt": "2023-06-25T15:37:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17528#pullrequestreview-1497117855"
          }
       }
    },
@@ -1569,11 +1552,18 @@
       "LastCommitAt": "2023-05-25T15:24:08Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-06-25T15:32:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17699#pullrequestreview-1497115618"
+         }
       }
    },
    {
@@ -1858,11 +1848,18 @@
       "LastCommitAt": "2023-06-22T14:09:46Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            "jwillikers"
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-06-25T15:17:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17882#pullrequestreview-1497113140"
+         }
       }
    },
    {
@@ -1934,15 +1931,17 @@
       "LastCommitAt": "2023-06-21T09:29:46Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            "jwillikers"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-06-15T14:18:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17925#pullrequestreview-1481699238"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-06-25T15:15:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17925#pullrequestreview-1497112360"
          }
       }
    },
@@ -2027,8 +2026,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17946",
-      "LastCommitSHA": "841870566360902f705d1fc13b719360b0541f69",
-      "LastCommitAt": "2023-06-22T14:54:13Z",
+      "LastCommitSHA": "ddcb09229f27ab9dd5204187c727634a13b84847",
+      "LastCommitAt": "2023-06-25T16:09:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
