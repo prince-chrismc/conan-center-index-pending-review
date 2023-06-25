@@ -860,8 +860,8 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17025",
-      "LastCommitSHA": "5bfe501c5c248ef38143a49d4112f4af39e8b60b",
-      "LastCommitAt": "2023-06-25T03:58:01Z",
+      "LastCommitSHA": "7c1ddd3d400fed79d52997693b4a9a071c0db3a5",
+      "LastCommitAt": "2023-06-25T19:44:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
@@ -2338,33 +2338,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-06-25T15:08:19Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17942#pullrequestreview-1497111094"
-         }
-      }
-   },
-   {
-      "Number": 17946,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-06-15T22:11:44Z",
-      "Recipe": "libtiff",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17946",
-      "LastCommitSHA": "ddcb09229f27ab9dd5204187c727634a13b84847",
-      "LastCommitAt": "2023-06-25T16:09:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "jcar87",
-            "memsharded"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-06-25T11:04:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17946#pullrequestreview-1497021026"
          }
       }
    },
