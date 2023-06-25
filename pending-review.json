@@ -2002,17 +2002,18 @@
       "LastCommitAt": "2023-06-22T14:54:13Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "jcar87"
+            "jcar87",
+            "memsharded"
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-06-23T19:21:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17946#pullrequestreview-1495778031"
+            "ReviewerName": "memsharded",
+            "SubmittedAt": "2023-06-25T11:04:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17946#pullrequestreview-1497021026"
          }
       }
    },
