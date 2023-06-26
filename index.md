@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **97** pull requests currently under way :detective:
+There are **96** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -38,7 +38,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16222](https://github.com/conan-io/conan-center-index/pull/16222)|[System-Arch](https://github.com/System-Arch)|Feb 22|:stopwatch: boost|:blue_square: S|8|May 19 :bell:||
 [#16313](https://github.com/conan-io/conan-center-index/pull/16313)|[hellozee](https://github.com/hellozee)|Feb 27|:stopwatch: qt|M|7|Apr 26 :bell:||ericLemanissier, jwillikers
 [#16320](https://github.com/conan-io/conan-center-index/pull/16320)|[toge](https://github.com/toge)|Feb 27|:memo: osmanip|L|0|:eyes:||
-[#16384](https://github.com/conan-io/conan-center-index/pull/16384)|[AlvaroFS](https://github.com/AlvaroFS)|Mar 4|:stopwatch: openvdb|L|4|May 24 :bell:||
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
 [#16461](https://github.com/conan-io/conan-center-index/pull/16461)|[jpilet](https://github.com/jpilet)|Mar 8|:stopwatch: gdal|L|1|Mar 8 :bell:||
 [#16524](https://github.com/conan-io/conan-center-index/pull/16524)|[granger35](https://github.com/granger35)|Mar 11|:stopwatch: opencv|M|1|May 8 :bell:||
@@ -57,7 +56,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16750](https://github.com/conan-io/conan-center-index/pull/16750)|[gouriano](https://github.com/gouriano)|Mar 28|:stopwatch: ncbi-cxx-toolkit-public|L|8|May 2 :bell:||
 [#16776](https://github.com/conan-io/conan-center-index/pull/16776)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:stopwatch: pistache|L|0|:eyes:||
 [#16785](https://github.com/conan-io/conan-center-index/pull/16785)|[db4](https://github.com/db4)|Mar 30|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
-[#16872](https://github.com/conan-io/conan-center-index/pull/16872)|[toge](https://github.com/toge)|Apr 3|:stopwatch: drogon|L|0|||
 [#17025](https://github.com/conan-io/conan-center-index/pull/17025)|[SSE4](https://github.com/SSE4)|Apr 14|:new: vvenc|M|3|Apr 14 :bell:|uilianries|
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|0|:eyes:||
 [#17108](https://github.com/conan-io/conan-center-index/pull/17108)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-auth|M|2|Jun 8 :bell:||jwillikers, mpimenov
@@ -65,7 +63,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17111](https://github.com/conan-io/conan-center-index/pull/17111)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-mqtt|M|2|Jun 8 :bell:||jwillikers, mpimenov
 [#17120](https://github.com/conan-io/conan-center-index/pull/17120)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-crt-cpp|M|2|Jun 8 :bell:||jwillikers, mpimenov
 [#17125](https://github.com/conan-io/conan-center-index/pull/17125)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-sdk-cpp|L|2|Jun 8 :bell:||jwillikers, mpimenov
-[#17147](https://github.com/conan-io/conan-center-index/pull/17147)|[toge](https://github.com/toge)|Apr 21|:stopwatch: jsonnet|L|1|Jun 23||
 [#17183](https://github.com/conan-io/conan-center-index/pull/17183)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 24|:stopwatch: qcoro|L|0|:eyes:||
 [#17186](https://github.com/conan-io/conan-center-index/pull/17186)|[SpaceIm](https://github.com/SpaceIm)|Apr 24|:stopwatch: rocksdb|L|2|Jun 25||mpimenov, jwillikers
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:stopwatch: scip|M|4|Jun 6 :bell:||
@@ -86,7 +83,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17509](https://github.com/conan-io/conan-center-index/pull/17509)|[jusito](https://github.com/jusito)|May 10|:stopwatch: llvm|XL|0|:eyes:||
 [#17528](https://github.com/conan-io/conan-center-index/pull/17528)|[kammce](https://github.com/kammce)|May 11|:stopwatch: arm-gnu-toolchain|L|6|Jun 25||jwillikers
 [#17542](https://github.com/conan-io/conan-center-index/pull/17542)|[valgur](https://github.com/valgur)|May 12|:stopwatch: stdgpu|L|0|:eyes:||
-[#17545](https://github.com/conan-io/conan-center-index/pull/17545)|[toge](https://github.com/toge)|May 12|:stopwatch: mppp|:blue_square: S|0|:eyes:||
+[#17545](https://github.com/conan-io/conan-center-index/pull/17545)|[toge](https://github.com/toge)|May 12|:memo: mppp|:blue_square: S|0|:eyes:||
 [#17573](https://github.com/conan-io/conan-center-index/pull/17573)|[joakimono](https://github.com/joakimono)|May 15|:stopwatch: metis|L|7|May 23 :bell:|RubenRBS, franramirez688|
 [#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:stopwatch: embag|M|1|May 25 :bell:||
 [#17580](https://github.com/conan-io/conan-center-index/pull/17580)|[miklelappo](https://github.com/miklelappo)|May 15|:stopwatch: grpc|L|0|:eyes:||
@@ -98,7 +95,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17699](https://github.com/conan-io/conan-center-index/pull/17699)|[weatherhead99](https://github.com/weatherhead99)|May 25|:stopwatch: extra-cmake-modules|M|1|Jun 25||jwillikers
 [#17719](https://github.com/conan-io/conan-center-index/pull/17719)|[rturrado](https://github.com/rturrado)|May 26|:stopwatch: libqasm|M|11|Jun 22|RubenRBS|SSE4
 [#17722](https://github.com/conan-io/conan-center-index/pull/17722)|[0xFireWolf](https://github.com/0xFireWolf)|May 27|:stopwatch: jemalloc|L|1|May 31 :bell:||
-[#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:stopwatch: protobuf|:blue_square: S|4|Jun 26||Hopobcn
+[#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:memo: protobuf|:blue_square: S|4|Jun 26||Hopobcn
 [#17728](https://github.com/conan-io/conan-center-index/pull/17728)|[YaZasnyal](https://github.com/YaZasnyal)|May 28|:stopwatch: ffmpeg|:blue_square: S|0|:eyes:||
 [#17752](https://github.com/conan-io/conan-center-index/pull/17752)|[0xFireWolf](https://github.com/0xFireWolf)|May 30|:stopwatch: wolfssl|:blue_square: S|2|Jun 19||ericLemanissier
 [#17761](https://github.com/conan-io/conan-center-index/pull/17761)|[leha-bot](https://github.com/leha-bot)|May 30|:stopwatch: ccache|:green_circle: XS|0|:eyes:||
@@ -124,6 +121,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18038](https://github.com/conan-io/conan-center-index/pull/18038)|[tim-goto](https://github.com/tim-goto)|Jun 23|:memo: gurkenlaeufer|:green_circle: XS|1|Jun 25|memsharded|
 [#18058](https://github.com/conan-io/conan-center-index/pull/18058)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: m4|:blue_square: S|0|||
 [#18059](https://github.com/conan-io/conan-center-index/pull/18059)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: autoconf|:green_circle: XS|0|||
+[#18065](https://github.com/conan-io/conan-center-index/pull/18065)|[simoncent](https://github.com/simoncent)|Jun 26|:memo: id3v2lib|:green_circle: XS|0|||
+[#18066](https://github.com/conan-io/conan-center-index/pull/18066)|[dheater](https://github.com/dheater)|Jun 26|:memo: cmake|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -147,10 +146,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a437a2f4afe78ab03edc5d0a9d5270468d4ed6dd
 - Pull Requests:
-	- Open: 226
+	- Open: 228
 	- Draft: 29
-	- Average Age: 101 days, 17 hours, and 21.76 minutes
-	- Stop Label: 75
+	- Average Age: 100 days, 21 hours, and 1.51 minutes
+	- Stop Label: 78
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
