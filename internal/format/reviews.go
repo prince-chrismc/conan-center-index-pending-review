@@ -131,8 +131,12 @@ func lastReviewTime(pr *pending_review.PullRequestSummary) string {
 func approvers(approvers []pending_review.Approver) string {
 	var names []string
 	for _, a := range approvers {
-		//TODO: Add color
-		names = append(names, a.Name)
+		if a.Tier == pending_review.Team {
+			names = append(names, fmt.Sprint(`<span style="color: #3fb950;">`, a.Name, `</span>`))
+
+		} else {
+			names = append(names, a.Name)
+		}
 	}
 
 	return strings.Join(names, ", ")
