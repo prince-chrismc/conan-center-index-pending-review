@@ -33,17 +33,19 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/13048",
       "LastCommitSHA": "58ba8594b21e44dd4478102dc6453d2288467f48",
       "LastCommitAt": "2023-06-26T11:15:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 29,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 30,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "franramirez688"
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-06-26T10:54:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13048#pullrequestreview-1498221886"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-06-26T13:10:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/13048#pullrequestreview-1498489946"
          }
       }
    },
@@ -942,8 +944,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17147",
-      "LastCommitSHA": "6f12413d63c19c66afc35765122986aed45f4319",
-      "LastCommitAt": "2023-06-25T21:42:44Z",
+      "LastCommitSHA": "046c61bed67fbff53075b6437ad7ccfda11c08f0",
+      "LastCommitAt": "2023-06-26T12:32:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -955,32 +957,6 @@
             "ReviewerName": "memsharded",
             "SubmittedAt": "2023-06-23T10:19:37Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17147#pullrequestreview-1494867018"
-         }
-      }
-   },
-   {
-      "Number": 17150,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-21T12:31:42Z",
-      "Recipe": "sdl_mixer",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17150",
-      "LastCommitSHA": "584df405a399ce781d1c30a3d57d135f17178cac",
-      "LastCommitAt": "2023-06-26T12:16:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            "ssrobins"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ssrobins",
-            "SubmittedAt": "2023-06-26T00:30:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17150#pullrequestreview-1497258798"
          }
       }
    },
@@ -1750,7 +1726,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17707",
       "LastCommitSHA": "e93be4b4c408003fe76a8dfc5ae33c533ef77acb",
       "LastCommitAt": "2023-06-26T11:41:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2480,15 +2456,15 @@
       }
    },
    {
-      "Number": 18058,
+      "Number": 18059,
       "OpenedBy": "maksim-petukhov",
-      "CreatedAt": "2023-06-26T11:18:08Z",
-      "Recipe": "m4",
+      "CreatedAt": "2023-06-26T13:07:49Z",
+      "Recipe": "autoconf",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18058",
-      "LastCommitSHA": "6b8c729abbad775bdbbd4e55adad205380766a90",
-      "LastCommitAt": "2023-06-26T11:12:12Z",
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18059",
+      "LastCommitSHA": "00bdc7a25175bea34ccb0ff5191a5c7bb87205f1",
+      "LastCommitAt": "2023-06-26T12:56:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
