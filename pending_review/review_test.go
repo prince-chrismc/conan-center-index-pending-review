@@ -181,11 +181,11 @@ func TestProcessReviewComments6144(t *testing.T) {
 	assert.Equal(t, Reviews{
 		Count: 4, ValidApprovals: 3, TeamApproval: true,
 		Approvals: []Approver{
-			Approver{Name: "prince-chrismc", Tier: Community},
-			Approver{Name: "SSE4", Tier: Community},
-			Approver{Name: "jgsogo", Tier: Community},
-			Approver{Name: "AndreyMlashkin_", Tier: Unofficial}},
-		Blockers:  nil, LastReview: &Review{
+			{Name: "prince-chrismc", Tier: Team},
+			{Name: "SSE4", Tier: Team},
+			{Name: "jgsogo", Tier: Team},
+			{Name: "AndreyMlashkin_", Tier: Unofficial}},
+		Blockers: nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
 			HTMLURL:      reviews[len(reviews)-1].GetHTMLURL(),
@@ -287,7 +287,7 @@ func TestProcessReviewComments16144(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "e2aa65c961d48d688dd5450811229eb1d62649ba")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 2, TeamApproval: true,
-		Approvals: []Approver{Approver{Name: "toge", Tier: Community}, Approver{Name: "prince-chrismc", Tier: Community},},
+		Approvals: []Approver{{Name: "toge", Tier: Community}, {Name: "prince-chrismc", Tier: Team}},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
@@ -454,7 +454,13 @@ func TestProcessReviewComments16187_2(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "47efa240d39a5e74b7b02cbe15702ea85215145d")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 1, TeamApproval: false,
-		Approvals: []Approver{Approver{Name: "jwillikers", Tier: Community},},
+		Approvals: []Approver{Approver{Name: "jwillikers", Tier: Community}},
+		Blockers:  nil, LastReview: &Review{
+			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
+			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
+			HTMLURL:      reviews[len(reviews)-1].GetHTMLURL(),
+		},
+	}, result)
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),

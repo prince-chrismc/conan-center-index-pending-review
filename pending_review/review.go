@@ -22,7 +22,7 @@ type Reviews struct {
 	TeamApproval   bool // At least one approval from the Conan team
 
 	Approvals []Approver // List of users who have approved the pull request on the head commit
-	Blockers  []string // List of Conan team members who have requested changes on the head commit
+	Blockers  []string   // List of Conan team members who have requested changes on the head commit
 
 	LastReview *Review `json:",omitempty"` // Snapshot of the last review
 }
@@ -54,13 +54,14 @@ func ProcessReviewComments(reviewers *ConanCenterReviewers, reviews []*PullReque
 		reviewerName := review.GetUser().GetLogin()
 		isTeamMember := reviewers.IsTeamMember(reviewerName)
 		isMember := isTeamMember || reviewers.IsCommunityMember(reviewerName)
-		
+
 		reviewer := Approver{Name: reviewerName, Tier: Unofficial}
 		if isMember {
 			reviewer.Tier = Community
-		} else if isTeamMember {
+		}
+		if isTeamMember {
 			reviewer.Tier = Team
-		}		
+		}
 
 		switch review.GetState() { // Either as indicated by the reviewer or by updates from the GitHub API
 		case "CHANGES_REQUESTED":
