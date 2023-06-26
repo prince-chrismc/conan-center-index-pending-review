@@ -720,8 +720,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16872",
-      "LastCommitSHA": "3f869f85577ff00cf1830153988ba9012e8cd0da",
-      "LastCommitAt": "2023-06-26T06:45:28Z",
+      "LastCommitSHA": "2a5d450b46c260badeaf0cbb547ae995bfc87d79",
+      "LastCommitAt": "2023-06-26T16:14:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2135,15 +2135,17 @@
       "LastCommitAt": "2023-06-21T17:19:48Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            "RubenRBS"
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-06-21T15:42:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17994#pullrequestreview-1491106456"
+            "SubmittedAt": "2023-06-26T15:29:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17994#pullrequestreview-1498822150"
          }
       }
    },
@@ -2170,32 +2172,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-06-24T15:01:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17995#pullrequestreview-1496686123"
-         }
-      }
-   },
-   {
-      "Number": 18001,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-06-21T12:03:44Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18001",
-      "LastCommitSHA": "c10f1c22bde5758f41bc730b7a10505c35037973",
-      "LastCommitAt": "2023-06-26T12:36:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "jcar87"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-06-26T14:33:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18001#pullrequestreview-1498697366"
          }
       }
    },
