@@ -131,9 +131,11 @@ func lastReviewTime(pr *pending_review.PullRequestSummary) string {
 func approvers(approvers []pending_review.Approver) string {
 	var names []string
 	for _, a := range approvers {
-		if a.Tier == pending_review.Team {
-			names = append(names, fmt.Sprint(`<span style="color: #3fb950;">`, a.Name, `</span>`))
-
+		if a.Tier == pending_review.Unofficial {
+			// If the reviewer is not on the team and not a known community member, let's
+			// give ourselves a link to check them out
+			// Bonus: this is an easy to see which ones are not being counted
+			names = append(names, fmt.Sprint("[", a.Name, "](https://github.com/", a.Name, ")"))
 		} else {
 			names = append(names, a.Name)
 		}
