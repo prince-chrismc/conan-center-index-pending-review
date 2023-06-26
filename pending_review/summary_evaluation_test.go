@@ -11,14 +11,14 @@ func parseSummaryJSON(t *testing.T, str string) *PullRequestSummary {
 	var summary *PullRequestSummary
 
 	if err := json.Unmarshal([]byte(str), &summary); err != nil {
-		t.Fatal()
+		t.Fatal(err)
 	}
 
 	return summary
 }
 
 func TestEvaluateSummary(t *testing.T) {
-	summary := parseSummaryJSON(t, `{"Number":16144,"OpenedBy":"SpaceIm","CreatedAt":"2023-02-19T15:10:36Z","Recipe":"re2","Change":1,"Weight":1,"ReviewURL":"https://github.com/conan-io/conan-center-index/pull/16144","LastCommitSHA":"e2aa65c961d48d688dd5450811229eb1d62649ba","LastCommitAt":"2023-02-19T15:10:08Z","CciBotPassed":true,"Summary":{"Count":2,"ValidApprovals":2,"TeamApproval":true,"Approvals":["toge","prince-chrismc"],"Blockers":null,"LastReview":{"ReviewerName":"prince-chrismc","SubmittedAt":"2023-03-11T06:46:57Z","HTMLURL":"https://github.com/conan-io/conan-center-index/pull/16144#pullrequestreview-1335829632"}}}`)
+	summary := parseSummaryJSON(t, `{"Number":16144,"OpenedBy":"SpaceIm","CreatedAt":"2023-02-19T15:10:36Z","Recipe":"re2","Change":1,"Weight":1,"ReviewURL":"https://github.com/conan-io/conan-center-index/pull/16144","LastCommitSHA":"e2aa65c961d48d688dd5450811229eb1d62649ba","LastCommitAt":"2023-02-19T15:10:08Z","CciBotPassed":true,"Summary":{"Count":2,"ValidApprovals":2,"TeamApproval":true,"Approvals":[{"Name":"toge","Tier":"community"},{"Name":"prince-chrismc","Tier":"community"}],"Blockers":null,"LastReview":{"ReviewerName":"prince-chrismc","SubmittedAt":"2023-03-11T06:46:57Z","HTMLURL":"https://github.com/conan-io/conan-center-index/pull/16144#pullrequestreview-1335829632"}}}`)
 
 	result := evaluateSummary(summary)
 	assert.Equal(t, nil, result)
