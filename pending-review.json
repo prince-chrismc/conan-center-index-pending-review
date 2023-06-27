@@ -1173,7 +1173,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17545",
       "LastCommitSHA": "3d194ac7fcf40d3c551d5e52638078029c0e80de",
       "LastCommitAt": "2023-06-27T10:40:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -1881,8 +1881,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18034",
-      "LastCommitSHA": "5bc5506dba2f5e12c564d44fc804d0e322dcb1ac",
-      "LastCommitAt": "2023-06-23T09:45:38Z",
+      "LastCommitSHA": "47bb3cc307d1166d16059f5160d43ee47f22841b",
+      "LastCommitAt": "2023-06-27T11:36:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1904,19 +1904,20 @@
       "LastCommitAt": "2023-06-26T06:09:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
-            "jwillikers"
+            "jwillikers",
+            "RubenRBS"
          ],
          "Blockers": [
             "memsharded"
          ],
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-06-26T20:45:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18038#pullrequestreview-1499402702"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-27T12:28:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18038#pullrequestreview-1500741087"
          }
       }
    },
@@ -1999,6 +2000,30 @@
       }
    },
    {
+      "Number": 18069,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-27T04:29:46Z",
+      "Recipe": "sfml",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18069",
+      "LastCommitSHA": "a4cb2e91ac4be0432a6ad78b2f0156565ad92034",
+      "LastCommitAt": "2023-06-27T10:04:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ChrisThrasher",
+            "SubmittedAt": "2023-06-27T04:59:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18069#pullrequestreview-1499941867"
+         }
+      }
+   },
+   {
       "Number": 18070,
       "OpenedBy": "LevWi",
       "CreatedAt": "2023-06-27T07:35:33Z",
@@ -2018,33 +2043,6 @@
       }
    },
    {
-      "Number": 18071,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2023-06-27T08:01:38Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18071",
-      "LastCommitSHA": "9f840c33edbef91a7bf46ce1241fbfd04d3457b1",
-      "LastCommitAt": "2023-06-27T08:01:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            "RubenRBS",
-            "jcar87"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-06-27T11:04:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18071#pullrequestreview-1500573848"
-         }
-      }
-   },
-   {
       "Number": 18073,
       "OpenedBy": "holger-detering",
       "CreatedAt": "2023-06-27T08:42:06Z",
@@ -2052,8 +2050,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18073",
-      "LastCommitSHA": "9a12c42cb298b8e273e11aae071af47902feda3a",
-      "LastCommitAt": "2023-06-27T09:28:14Z",
+      "LastCommitSHA": "0f8ddba0eb9a229ba4a4edc15ea0e26b14b9f845",
+      "LastCommitAt": "2023-06-27T12:05:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
