@@ -1073,6 +1073,30 @@
       }
    },
    {
+      "Number": 17505,
+      "OpenedBy": "Seadex-GmbH",
+      "CreatedAt": "2023-05-10T14:04:02Z",
+      "Recipe": "seadex-genesis",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17505",
+      "LastCommitSHA": "6aa4db31cc60641186bb0d039a82fa838761058a",
+      "LastCommitAt": "2023-06-27T06:07:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-06-26T14:25:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17505#pullrequestreview-1498679833"
+         }
+      }
+   },
+   {
       "Number": 17509,
       "OpenedBy": "jusito",
       "CreatedAt": "2023-05-10T15:31:30Z",
