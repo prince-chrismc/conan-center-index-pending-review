@@ -514,25 +514,6 @@
       }
    },
    {
-      "Number": 16776,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-03-29T15:08:17Z",
-      "Recipe": "pistache",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16776",
-      "LastCommitSHA": "f5dfa8cdc9fbfa68ff362f4168c07b2f183bd215",
-      "LastCommitAt": "2023-04-30T20:13:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 16785,
       "OpenedBy": "db4",
       "CreatedAt": "2023-03-30T07:19:54Z",
