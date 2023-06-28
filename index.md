@@ -96,7 +96,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|:eyes:||
 [#17916](https://github.com/conan-io/conan-center-index/pull/17916)|[patmantru](https://github.com/patmantru)|Jun 12|:stopwatch: opentdf-client|:blue_square: S|1|Jun 14 :bell:||
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|L|2|Jun 25||jwillikers
-[#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:stopwatch: gtsam|XL|0|||
+[#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:memo: gtsam|XL|0|||
 [#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:memo: metis|XL|0|||
 [#17976](https://github.com/conan-io/conan-center-index/pull/17976)|[pwqbot](https://github.com/pwqbot)|Jun 20|:memo: spdlog|M|1|Jun 27||jcar87
 [#17995](https://github.com/conan-io/conan-center-index/pull/17995)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 21|:memo: fontconfig|:green_circle: XS|1|Jun 24||jwillikers
@@ -112,7 +112,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18083](https://github.com/conan-io/conan-center-index/pull/18083)|[toge](https://github.com/toge)|Jun 27|:memo: rapidcsv|:blue_square: S|1|Jun 27||RubenRBS
 [#18085](https://github.com/conan-io/conan-center-index/pull/18085)|[toge](https://github.com/toge)|Jun 27|:memo: r8brain-free-src|:blue_square: S|1|Jun 27||RubenRBS
 [#18088](https://github.com/conan-io/conan-center-index/pull/18088)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 27|:stopwatch: libtool|:blue_square: S|0|||
-[#18091](https://github.com/conan-io/conan-center-index/pull/18091)|[valgur](https://github.com/valgur)|Jun 27|:stopwatch: certify|L|2|Jun 27||
+[#18091](https://github.com/conan-io/conan-center-index/pull/18091)|[valgur](https://github.com/valgur)|Jun 27|:memo: certify|L|2|Jun 27||
 [#18093](https://github.com/conan-io/conan-center-index/pull/18093)|[valgur](https://github.com/valgur)|Jun 27|:memo: continuable|L|1|Jun 27||RubenRBS
 
 
@@ -136,7 +136,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 233
 	- Draft: 31
-	- Average Age: 98 days, 1 hours, and 48.59 minutes
+	- Average Age: 98 days, 3 hours, and 48.14 minutes
 	- Stop Label: 96
 	
 
