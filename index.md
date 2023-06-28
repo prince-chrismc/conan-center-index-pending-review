@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **75** pull requests currently under way :detective:
+There are **77** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -80,6 +80,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|:eyes:||
 [#17784](https://github.com/conan-io/conan-center-index/pull/17784)|[Sa3eedove](https://github.com/Sa3eedove)|Jun 1|:stopwatch: usockets|L|0|:eyes:||
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:stopwatch: libdb|L|0|:eyes:||
+[#17813](https://github.com/conan-io/conan-center-index/pull/17813)|[fcorso2016](https://github.com/fcorso2016)|Jun 3|:new: dr_libs|M|4|Jun 28||czoido
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|1|Jun 27||
 [#17868](https://github.com/conan-io/conan-center-index/pull/17868)|[toge](https://github.com/toge)|Jun 8|:new: maven|M|1|Jun 26||jwillikers
 [#17881](https://github.com/conan-io/conan-center-index/pull/17881)|[fcorso2016](https://github.com/fcorso2016)|Jun 9|:stopwatch: whisper-cpp|L|1|Jun 14 :bell:|RubenRBS|
@@ -100,23 +101,23 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18073](https://github.com/conan-io/conan-center-index/pull/18073)|[holger-detering](https://github.com/holger-detering)|Jun 27|:memo: cute_headers|M|2|Jun 28||jwillikers
 [#18088](https://github.com/conan-io/conan-center-index/pull/18088)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 27|:stopwatch: libtool|:blue_square: S|0|||
 [#18090](https://github.com/conan-io/conan-center-index/pull/18090)|[valgur](https://github.com/valgur)|Jun 27|:memo: boostdep|L|1|Jun 28||jwillikers
-[#18104](https://github.com/conan-io/conan-center-index/pull/18104)|[toge](https://github.com/toge)|Jun 28|:stopwatch: tsl-hopscotch-map|:blue_square: S|0|||
+[#18104](https://github.com/conan-io/conan-center-index/pull/18104)|[toge](https://github.com/toge)|Jun 28|:memo: tsl-hopscotch-map|:blue_square: S|0|||
 [#18105](https://github.com/conan-io/conan-center-index/pull/18105)|[jcar87](https://github.com/jcar87)|Jun 28|:stopwatch: libpng|L|1|Jun 28||RubenRBS
+[#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:stopwatch: arrow|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16528](https://github.com/conan-io/conan-center-index/pull/16528)|[psyinf](https://github.com/psyinf)|Mar 11|:new: vsg|24|RubenRBS, uilianries, czoido
 [#16613](https://github.com/conan-io/conan-center-index/pull/16613)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:warning: librasterlite2|2|samuel-emrys, uilianries
+[#17147](https://github.com/conan-io/conan-center-index/pull/17147)|[toge](https://github.com/toge)|Apr 21|:memo: jsonnet|7|memsharded, RubenRBS
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:warning: arrow|2|uilianries, SSE4
 [#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:memo: protobuf|8|[Hopobcn](https://github.com/Hopobcn), jwillikers, RubenRBS, czoido
-[#17976](https://github.com/conan-io/conan-center-index/pull/17976)|[pwqbot](https://github.com/pwqbot)|Jun 20|:memo: spdlog|3|jcar87, [CJCombrink](https://github.com/CJCombrink), czoido
-[#18014](https://github.com/conan-io/conan-center-index/pull/18014)|[CD3](https://github.com/CD3)|Jun 22|:memo: libinterpolate|5|uilianries, jcar87
 
 
 #### :clipboard: Statistics
@@ -125,10 +126,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 224
+	- Open: 223
 	- Draft: 30
-	- Average Age: 101 days, 13 hours, and 41.26 minutes
-	- Stop Label: 99
+	- Average Age: 101 days, 23 hours, and 54.15 minutes
+	- Stop Label: 97
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
