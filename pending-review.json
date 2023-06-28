@@ -1194,7 +1194,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17707",
       "LastCommitSHA": "d526336fb4738f46a77e2184c6f55d8561e2371e",
       "LastCommitAt": "2023-06-28T03:42:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -2052,25 +2052,6 @@
             "SubmittedAt": "2023-06-27T22:32:11Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18093#pullrequestreview-1501944452"
          }
-      }
-   },
-   {
-      "Number": 18097,
-      "OpenedBy": "pwqbot",
-      "CreatedAt": "2023-06-28T04:13:09Z",
-      "Recipe": "tracy",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18097",
-      "LastCommitSHA": "25bf5e0c4e86dde00d6fa1513d6ae2b79e30e225",
-      "LastCommitAt": "2023-06-28T04:13:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
