@@ -515,9 +515,9 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17025",
-      "LastCommitSHA": "90c540a432b2e61cf2d1bc44f9599656403cbc32",
-      "LastCommitAt": "2023-06-27T06:51:55Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "387e7b06a193c472210b7e891df12cc66819a871",
+      "LastCommitAt": "2023-06-28T06:48:26Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -735,6 +735,25 @@
             "SubmittedAt": "2023-06-27T19:26:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17274#pullrequestreview-1501701759"
          }
+      }
+   },
+   {
+      "Number": 17320,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-04-30T02:48:18Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17320",
+      "LastCommitSHA": "5fcbfa9f1918fca5031ee37a7bee44ed3876fd68",
+      "LastCommitAt": "2023-04-30T03:01:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -1455,9 +1474,9 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17825",
-      "LastCommitSHA": "f640d3363642c03f0dcc81ece9b989e03a3144ab",
-      "LastCommitAt": "2023-06-27T19:26:53Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "26681746ddeb2196d5f5976c3a1a686851dfb3e5",
+      "LastCommitAt": "2023-06-28T07:00:47Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1715,20 +1734,24 @@
       "LastCommitAt": "2023-06-20T02:45:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "jcar87",
                "Tier": "team"
+            },
+            {
+               "Name": "CJCombrink",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-06-27T14:17:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17976#pullrequestreview-1501002741"
+            "ReviewerName": "CJCombrink",
+            "SubmittedAt": "2023-06-28T06:29:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17976#pullrequestreview-1502369925"
          }
       }
    },
@@ -2127,6 +2150,25 @@
             "SubmittedAt": "2023-06-27T22:32:11Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18093#pullrequestreview-1501944452"
          }
+      }
+   },
+   {
+      "Number": 18098,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-28T06:28:41Z",
+      "Recipe": "simde",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18098",
+      "LastCommitSHA": "40cd000c8416b547e2fbd07066ad6b78d873cfab",
+      "LastCommitAt": "2023-06-28T06:27:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
