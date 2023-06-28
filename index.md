@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **94** pull requests currently under way :detective:
+There are **95** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -90,7 +90,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|:eyes:||
 [#17916](https://github.com/conan-io/conan-center-index/pull/17916)|[patmantru](https://github.com/patmantru)|Jun 12|:stopwatch: opentdf-client|:blue_square: S|1|Jun 14 :bell:||
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|L|2|Jun 25||jwillikers
-[#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:stopwatch: gtsam|XL|1|Jun 28||jwillikers
+[#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:memo: gtsam|XL|1|Jun 28||jwillikers
 [#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:memo: metis|XL|1|Jun 28||jwillikers
 [#17995](https://github.com/conan-io/conan-center-index/pull/17995)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 21|:memo: fontconfig|:green_circle: XS|1|Jun 24||jwillikers
 [#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: gdal|L|0|:eyes:||
@@ -102,25 +102,26 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18088](https://github.com/conan-io/conan-center-index/pull/18088)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 27|:stopwatch: libtool|:blue_square: S|0|||
 [#18090](https://github.com/conan-io/conan-center-index/pull/18090)|[valgur](https://github.com/valgur)|Jun 27|:memo: boostdep|L|1|Jun 28||jwillikers
 [#18104](https://github.com/conan-io/conan-center-index/pull/18104)|[toge](https://github.com/toge)|Jun 28|:memo: tsl-hopscotch-map|:blue_square: S|1|Jun 28||jwillikers
-[#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:stopwatch: arrow|:blue_square: S|0|||
+[#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:memo: arrow|:blue_square: S|0|||
 [#18109](https://github.com/conan-io/conan-center-index/pull/18109)|[valgur](https://github.com/valgur)|Jun 28|:memo: influxdb-cpp|M|0|||
 [#18110](https://github.com/conan-io/conan-center-index/pull/18110)|[valgur](https://github.com/valgur)|Jun 28|:memo: stringtoolbox|M|0|||
 [#18111](https://github.com/conan-io/conan-center-index/pull/18111)|[valgur](https://github.com/valgur)|Jun 28|:memo: jpcre2|M|0|||
 [#18112](https://github.com/conan-io/conan-center-index/pull/18112)|[valgur](https://github.com/valgur)|Jun 28|:memo: portable-file-dialogs|M|0|||
 [#18113](https://github.com/conan-io/conan-center-index/pull/18113)|[valgur](https://github.com/valgur)|Jun 28|:memo: hippomocks|M|0|||
 [#18114](https://github.com/conan-io/conan-center-index/pull/18114)|[valgur](https://github.com/valgur)|Jun 28|:memo: greatest|M|0|||
-[#18116](https://github.com/conan-io/conan-center-index/pull/18116)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: icecream-cpp|M|0|||
-[#18117](https://github.com/conan-io/conan-center-index/pull/18117)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: dtl|M|0|||
-[#18118](https://github.com/conan-io/conan-center-index/pull/18118)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: ctml|M|0|||
-[#18119](https://github.com/conan-io/conan-center-index/pull/18119)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: debug_assert|M|0|||
-[#18121](https://github.com/conan-io/conan-center-index/pull/18121)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: fire-hpp|M|0|||
+[#18116](https://github.com/conan-io/conan-center-index/pull/18116)|[valgur](https://github.com/valgur)|Jun 28|:memo: icecream-cpp|M|0|||
+[#18117](https://github.com/conan-io/conan-center-index/pull/18117)|[valgur](https://github.com/valgur)|Jun 28|:memo: dtl|M|0|||
+[#18118](https://github.com/conan-io/conan-center-index/pull/18118)|[valgur](https://github.com/valgur)|Jun 28|:memo: ctml|M|0|||
+[#18119](https://github.com/conan-io/conan-center-index/pull/18119)|[valgur](https://github.com/valgur)|Jun 28|:memo: debug_assert|M|0|||
+[#18121](https://github.com/conan-io/conan-center-index/pull/18121)|[valgur](https://github.com/valgur)|Jun 28|:memo: fire-hpp|M|0|||
 [#18122](https://github.com/conan-io/conan-center-index/pull/18122)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: glext|M|0|||
-[#18124](https://github.com/conan-io/conan-center-index/pull/18124)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: kainjow-mustache|M|0|||
-[#18127](https://github.com/conan-io/conan-center-index/pull/18127)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: nextsilicon-cpp-subprocess|M|0|||
-[#18128](https://github.com/conan-io/conan-center-index/pull/18128)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: effolkronium-random|M|0|||
-[#18129](https://github.com/conan-io/conan-center-index/pull/18129)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: linux-headers-generic|M|0|||
+[#18124](https://github.com/conan-io/conan-center-index/pull/18124)|[valgur](https://github.com/valgur)|Jun 28|:memo: kainjow-mustache|M|0|||
+[#18127](https://github.com/conan-io/conan-center-index/pull/18127)|[valgur](https://github.com/valgur)|Jun 28|:memo: nextsilicon-cpp-subprocess|M|0|||
+[#18128](https://github.com/conan-io/conan-center-index/pull/18128)|[valgur](https://github.com/valgur)|Jun 28|:memo: effolkronium-random|M|0|||
+[#18129](https://github.com/conan-io/conan-center-index/pull/18129)|[valgur](https://github.com/valgur)|Jun 28|:memo: linux-headers-generic|M|0|||
 [#18130](https://github.com/conan-io/conan-center-index/pull/18130)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 28|:green_book: docs|:blue_square: S|0|||
-[#18131](https://github.com/conan-io/conan-center-index/pull/18131)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: nv-codec-headers|M|0|||
+[#18131](https://github.com/conan-io/conan-center-index/pull/18131)|[valgur](https://github.com/valgur)|Jun 28|:memo: nv-codec-headers|M|0|||
+[#18132](https://github.com/conan-io/conan-center-index/pull/18132)|[valgur](https://github.com/valgur)|Jun 28|:memo: wglext|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -140,10 +141,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 243
+	- Open: 245
 	- Draft: 30
-	- Average Age: 92 days, 22 hours, and 22.86 minutes
-	- Stop Label: 103
+	- Average Age: 92 days, 5 hours, and 10.75 minutes
+	- Stop Label: 104
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
