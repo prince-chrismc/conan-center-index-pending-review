@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **79** pull requests currently under way :detective:
+There are **87** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -103,9 +103,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18090](https://github.com/conan-io/conan-center-index/pull/18090)|[valgur](https://github.com/valgur)|Jun 27|:memo: boostdep|L|1|Jun 28||jwillikers
 [#18104](https://github.com/conan-io/conan-center-index/pull/18104)|[toge](https://github.com/toge)|Jun 28|:memo: tsl-hopscotch-map|:blue_square: S|1|Jun 28||jwillikers
 [#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:stopwatch: arrow|:blue_square: S|0|||
-[#18108](https://github.com/conan-io/conan-center-index/pull/18108)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: ua-nodeset|M|0|||
-[#18109](https://github.com/conan-io/conan-center-index/pull/18109)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: influxdb-cpp|M|0|||
-[#18110](https://github.com/conan-io/conan-center-index/pull/18110)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: stringtoolbox|M|0|||
+[#18109](https://github.com/conan-io/conan-center-index/pull/18109)|[valgur](https://github.com/valgur)|Jun 28|:memo: influxdb-cpp|M|0|||
+[#18110](https://github.com/conan-io/conan-center-index/pull/18110)|[valgur](https://github.com/valgur)|Jun 28|:memo: stringtoolbox|M|0|||
+[#18111](https://github.com/conan-io/conan-center-index/pull/18111)|[valgur](https://github.com/valgur)|Jun 28|:memo: jpcre2|M|0|||
+[#18112](https://github.com/conan-io/conan-center-index/pull/18112)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: portable-file-dialogs|M|0|||
+[#18113](https://github.com/conan-io/conan-center-index/pull/18113)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: hippomocks|M|0|||
+[#18114](https://github.com/conan-io/conan-center-index/pull/18114)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: greatest|M|0|||
+[#18115](https://github.com/conan-io/conan-center-index/pull/18115)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: panzi-portable-endian|M|0|||
+[#18116](https://github.com/conan-io/conan-center-index/pull/18116)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: icecream-cpp|M|0|||
+[#18117](https://github.com/conan-io/conan-center-index/pull/18117)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: dtl|M|0|||
+[#18118](https://github.com/conan-io/conan-center-index/pull/18118)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: ctml|M|0|||
+[#18119](https://github.com/conan-io/conan-center-index/pull/18119)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: debug_assert|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -125,10 +133,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 223
+	- Open: 232
 	- Draft: 30
-	- Average Age: 101 days, 4 hours, and 21.85 minutes
-	- Stop Label: 98
+	- Average Age: 97 days, 7 hours, and 5.58 minutes
+	- Stop Label: 99
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
