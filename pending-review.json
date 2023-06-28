@@ -154,8 +154,14 @@
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
-            "miklelappo",
-            "coryan"
+            {
+               "Name": "miklelappo",
+               "Tier": "unofficial"
+            },
+            {
+               "Name": "coryan",
+               "Tier": "unofficial"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -229,8 +235,14 @@
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier",
-            "jwillikers"
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            },
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -294,7 +306,10 @@
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "franramirez688"
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
+            }
          ],
          "Blockers": [
             "RubenRBS"
@@ -384,8 +399,14 @@
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "samuel-emrys",
-            "uilianries"
+            {
+               "Name": "samuel-emrys",
+               "Tier": "community"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -547,8 +568,14 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers",
-            "mpimenov"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "mpimenov",
+               "Tier": "unofficial"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -574,8 +601,14 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers",
-            "mpimenov"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "mpimenov",
+               "Tier": "unofficial"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -601,8 +634,14 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers",
-            "mpimenov"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "mpimenov",
+               "Tier": "unofficial"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -652,8 +691,14 @@
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "ericLemanissier",
-            "jwillikers"
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            },
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -679,7 +724,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "MartinDelille"
+            {
+               "Name": "MartinDelille",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -687,25 +735,6 @@
             "SubmittedAt": "2023-06-27T19:26:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17274#pullrequestreview-1501701759"
          }
-      }
-   },
-   {
-      "Number": 17276,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-04-27T09:38:25Z",
-      "Recipe": "qtawesome",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17276",
-      "LastCommitSHA": "f06329d80d1ff46b709c89598f172360b4e5e183",
-      "LastCommitAt": "2023-05-02T08:11:34Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -724,9 +753,18 @@
          "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
-            "jwillikers",
-            "prince-chrismc",
-            "SSE4"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "prince-chrismc",
+               "Tier": "team"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
          ],
          "Blockers": [
             "jcar87"
@@ -792,7 +830,10 @@
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "RubenRBS"
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -939,8 +980,14 @@
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers",
-            "SSE4"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1009,7 +1056,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1173,8 +1223,14 @@
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
-            "uilianries",
-            "SSE4"
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1224,7 +1280,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "SSE4"
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
          ],
          "Blockers": [
             "RubenRBS"
@@ -1276,8 +1335,14 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "Hopobcn",
-            "jwillikers"
+            {
+               "Name": "Hopobcn",
+               "Tier": "unofficial"
+            },
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1304,32 +1369,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 17752,
-      "OpenedBy": "0xFireWolf",
-      "CreatedAt": "2023-05-30T10:34:28Z",
-      "Recipe": "wolfssl",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17752",
-      "LastCommitSHA": "13e852a66b8004fb7c11ec51272f92666680d562",
-      "LastCommitAt": "2023-06-27T18:22:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            "prince-chrismc"
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-06-27T18:22:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1501596473"
-         }
       }
    },
    {
@@ -1448,7 +1487,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1500,7 +1542,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1607,7 +1652,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1671,7 +1719,10 @@
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "jcar87"
+            {
+               "Name": "jcar87",
+               "Tier": "team"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1697,9 +1748,18 @@
          "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
-            "RubenRBS",
-            "SSE4",
-            "jcar87"
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            },
+            {
+               "Name": "jcar87",
+               "Tier": "team"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1725,7 +1785,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1813,7 +1876,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1839,7 +1905,10 @@
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
-            "jwillikers"
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -1951,7 +2020,10 @@
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "RubenRBS"
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
          ],
          "Blockers": null,
          "LastReview": {
@@ -2044,7 +2116,10 @@
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            "RubenRBS"
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
          ],
          "Blockers": null,
          "LastReview": {
