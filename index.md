@@ -108,16 +108,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16528](https://github.com/conan-io/conan-center-index/pull/16528)|[psyinf](https://github.com/psyinf)|Mar 11|:new: vsg|24|RubenRBS, uilianries, czoido
 [#16613](https://github.com/conan-io/conan-center-index/pull/16613)|[SpaceIm](https://github.com/SpaceIm)|Mar 18|:warning: librasterlite2|2|samuel-emrys, uilianries
-[#17147](https://github.com/conan-io/conan-center-index/pull/17147)|[toge](https://github.com/toge)|Apr 21|:memo: jsonnet|7|memsharded, RubenRBS
 [#17691](https://github.com/conan-io/conan-center-index/pull/17691)|[mpimenov](https://github.com/mpimenov)|May 24|:warning: arrow|2|uilianries, SSE4
-[#17725](https://github.com/conan-io/conan-center-index/pull/17725)|[gjasny](https://github.com/gjasny)|May 27|:memo: protobuf|8|[Hopobcn](https://github.com/Hopobcn), jwillikers, RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -126,9 +124,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 223
+	- Open: 221
 	- Draft: 30
-	- Average Age: 101 days, 23 hours, and 54.15 minutes
+	- Average Age: 102 days, 12 hours, and 14.17 minutes
 	- Stop Label: 97
 	
 
