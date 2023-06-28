@@ -300,7 +300,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16528",
       "LastCommitSHA": "35aa9e32405a034d88406ac4a73df672b81ea2a5",
       "LastCommitAt": "2023-06-28T09:56:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 23,
          "ValidApprovals": 2,
@@ -689,7 +689,7 @@
       "LastCommitAt": "2023-06-27T17:30:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
+         "Count": 6,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
@@ -704,9 +704,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-06-27T19:49:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17272#pullrequestreview-1501738803"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-06-28T11:49:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17272#pullrequestreview-1502907266"
          }
       }
    },
