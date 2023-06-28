@@ -8,7 +8,7 @@ import (
 
 const yAxisPadding = 125
 
-// MakeStackedChart of opened, closed, merged pull requrests
+// MakeStackedChart of opened, closed, merged pull requests
 func MakeStackedChart(opd stats.CountAtTime, cxd stats.CountAtTime, mxd stats.CountAtTime, m7xw stats.CountAtTime) chart.StackedBarChart {
 	most := opd.Values()[0]
 	bars := []chart.StackedBar{}

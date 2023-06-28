@@ -56,7 +56,7 @@ For reference:
 
 ## :hourglass: Time Spent in Review
 
-If you are wondering how long it will take for you pull requrest to get merged; this graph should give you an idea.
+If you are wondering how long it will take for you pull request to get merged; this graph should give you an idea.
 
 ![tir](https://github.com/` + owner + "/" + repo + `/blob/raw-data/time-in-review.png?raw=true)
 

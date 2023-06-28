@@ -180,8 +180,12 @@ func TestProcessReviewComments6144(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "3093bad9162e288d55eeddec288b0481d964518e")
 	assert.Equal(t, Reviews{
 		Count: 4, ValidApprovals: 3, TeamApproval: true,
-		Approvals: []string{"prince-chrismc", "SSE4", "jgsogo", "AndreyMlashkin_"},
-		Blockers:  nil, LastReview: &Review{
+		Approvals: []Approver{
+			{Name: "prince-chrismc", Tier: Team},
+			{Name: "SSE4", Tier: Team},
+			{Name: "jgsogo", Tier: Team},
+			{Name: "AndreyMlashkin_", Tier: Unofficial}},
+		Blockers: nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
 			HTMLURL:      reviews[len(reviews)-1].GetHTMLURL(),
@@ -283,7 +287,7 @@ func TestProcessReviewComments16144(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "e2aa65c961d48d688dd5450811229eb1d62649ba")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 2, TeamApproval: true,
-		Approvals: []string{"toge", "prince-chrismc"},
+		Approvals: []Approver{{Name: "toge", Tier: Community}, {Name: "prince-chrismc", Tier: Team}},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
@@ -450,7 +454,222 @@ func TestProcessReviewComments16187_2(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "47efa240d39a5e74b7b02cbe15702ea85215145d")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 1, TeamApproval: false,
-		Approvals: []string{"jwillikers"},
+		Approvals: []Approver{{Name: "jwillikers", Tier: Community}},
+		Blockers:  nil, LastReview: &Review{
+			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
+			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
+			HTMLURL:      reviews[len(reviews)-1].GetHTMLURL(),
+		},
+	}, result)
+}
+
+func TestProcessReviewComments17752(t *testing.T) {
+	reviews := parseReviewJSON(t, `[
+		{
+		  "id": 1457612113,
+		  "node_id": "PRR_kwDODDMJAM5W4WVR",
+		  "user": {
+			"login": "RubenRBS",
+			"id": 5364255,
+			"node_id": "MDQ6VXNlcjUzNjQyNTU=",
+			"avatar_url": "https://avatars.githubusercontent.com/u/5364255?u=1b2a8263db33c7906c65cd447567ab0639712be0&v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/RubenRBS",
+			"html_url": "https://github.com/RubenRBS",
+			"followers_url": "https://api.github.com/users/RubenRBS/followers",
+			"following_url": "https://api.github.com/users/RubenRBS/following{/other_user}",
+			"gists_url": "https://api.github.com/users/RubenRBS/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/RubenRBS/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/RubenRBS/subscriptions",
+			"organizations_url": "https://api.github.com/users/RubenRBS/orgs",
+			"repos_url": "https://api.github.com/users/RubenRBS/repos",
+			"events_url": "https://api.github.com/users/RubenRBS/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/RubenRBS/received_events",
+			"type": "User",
+			"site_admin": false
+		  },
+		  "body": "Hi! Thanks a lot for your contribution. I only have one minor question before approving :)",
+		  "state": "COMMENTED",
+		  "html_url": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1457612113",
+		  "pull_request_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752",
+		  "author_association": "MEMBER",
+		  "_links": {
+			"html": {
+			  "href": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1457612113"
+			},
+			"pull_request": {
+			  "href": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752"
+			}
+		  },
+		  "submitted_at": "2023-06-02T14:20:16Z",
+		  "commit_id": "49161ef083ed0ce6988d43f72944e2f0e513d5c0"
+		},
+		{
+		  "id": 1460602759,
+		  "node_id": "PRR_kwDODDMJAM5XDweH",
+		  "user": {
+			"login": "0xFireWolf",
+			"id": 10460478,
+			"node_id": "MDQ6VXNlcjEwNDYwNDc4",
+			"avatar_url": "https://avatars.githubusercontent.com/u/10460478?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/0xFireWolf",
+			"html_url": "https://github.com/0xFireWolf",
+			"followers_url": "https://api.github.com/users/0xFireWolf/followers",
+			"following_url": "https://api.github.com/users/0xFireWolf/following{/other_user}",
+			"gists_url": "https://api.github.com/users/0xFireWolf/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/0xFireWolf/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/0xFireWolf/subscriptions",
+			"organizations_url": "https://api.github.com/users/0xFireWolf/orgs",
+			"repos_url": "https://api.github.com/users/0xFireWolf/repos",
+			"events_url": "https://api.github.com/users/0xFireWolf/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/0xFireWolf/received_events",
+			"type": "User",
+			"site_admin": false
+		  },
+		  "body": "",
+		  "state": "COMMENTED",
+		  "html_url": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1460602759",
+		  "pull_request_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752",
+		  "author_association": "CONTRIBUTOR",
+		  "_links": {
+			"html": {
+			  "href": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1460602759"
+			},
+			"pull_request": {
+			  "href": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752"
+			}
+		  },
+		  "submitted_at": "2023-06-04T01:03:08Z",
+		  "commit_id": "49161ef083ed0ce6988d43f72944e2f0e513d5c0"
+		},
+		{
+		  "id": 1485955540,
+		  "node_id": "PRR_kwDODDMJAM5YkeHU",
+		  "user": {
+			"login": "ericLemanissier",
+			"id": 1926390,
+			"node_id": "MDQ6VXNlcjE5MjYzOTA=",
+			"avatar_url": "https://avatars.githubusercontent.com/u/1926390?v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/ericLemanissier",
+			"html_url": "https://github.com/ericLemanissier",
+			"followers_url": "https://api.github.com/users/ericLemanissier/followers",
+			"following_url": "https://api.github.com/users/ericLemanissier/following{/other_user}",
+			"gists_url": "https://api.github.com/users/ericLemanissier/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/ericLemanissier/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/ericLemanissier/subscriptions",
+			"organizations_url": "https://api.github.com/users/ericLemanissier/orgs",
+			"repos_url": "https://api.github.com/users/ericLemanissier/repos",
+			"events_url": "https://api.github.com/users/ericLemanissier/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/ericLemanissier/received_events",
+			"type": "User",
+			"site_admin": false
+		  },
+		  "body": "",
+		  "state": "APPROVED",
+		  "html_url": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1485955540",
+		  "pull_request_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752",
+		  "author_association": "CONTRIBUTOR",
+		  "_links": {
+			"html": {
+			  "href": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1485955540"
+			},
+			"pull_request": {
+			  "href": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752"
+			}
+		  },
+		  "submitted_at": "2023-06-19T10:54:02Z",
+		  "commit_id": "e5d87da51c7d00bad28b958c29383d709b5f0592"
+		},
+		{
+		  "id": 1499553254,
+		  "node_id": "PRR_kwDODDMJAM5ZYV3m",
+		  "user": {
+			"login": "prince-chrismc",
+			"id": 16867443,
+			"node_id": "MDQ6VXNlcjE2ODY3NDQz",
+			"avatar_url": "https://avatars.githubusercontent.com/u/16867443?u=d7c5b45b864fe5d26e44d38645a22f8af18a2a16&v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/prince-chrismc",
+			"html_url": "https://github.com/prince-chrismc",
+			"followers_url": "https://api.github.com/users/prince-chrismc/followers",
+			"following_url": "https://api.github.com/users/prince-chrismc/following{/other_user}",
+			"gists_url": "https://api.github.com/users/prince-chrismc/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/prince-chrismc/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/prince-chrismc/subscriptions",
+			"organizations_url": "https://api.github.com/users/prince-chrismc/orgs",
+			"repos_url": "https://api.github.com/users/prince-chrismc/repos",
+			"events_url": "https://api.github.com/users/prince-chrismc/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/prince-chrismc/received_events",
+			"type": "User",
+			"site_admin": false
+		  },
+		  "body": "Dont mind me just trying to test some code 🧑‍💻 ",
+		  "state": "DISMISSED",
+		  "html_url": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1499553254",
+		  "pull_request_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752",
+		  "author_association": "CONTRIBUTOR",
+		  "_links": {
+			"html": {
+			  "href": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1499553254"
+			},
+			"pull_request": {
+			  "href": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752"
+			}
+		  },
+		  "submitted_at": "2023-06-26T21:55:37Z",
+		  "commit_id": "e5d87da51c7d00bad28b958c29383d709b5f0592"
+		},
+		{
+		  "id": 1499560222,
+		  "node_id": "PRR_kwDODDMJAM5ZYXke",
+		  "user": {
+			"login": "prince-chrismc",
+			"id": 16867443,
+			"node_id": "MDQ6VXNlcjE2ODY3NDQz",
+			"avatar_url": "https://avatars.githubusercontent.com/u/16867443?u=d7c5b45b864fe5d26e44d38645a22f8af18a2a16&v=4",
+			"gravatar_id": "",
+			"url": "https://api.github.com/users/prince-chrismc",
+			"html_url": "https://github.com/prince-chrismc",
+			"followers_url": "https://api.github.com/users/prince-chrismc/followers",
+			"following_url": "https://api.github.com/users/prince-chrismc/following{/other_user}",
+			"gists_url": "https://api.github.com/users/prince-chrismc/gists{/gist_id}",
+			"starred_url": "https://api.github.com/users/prince-chrismc/starred{/owner}{/repo}",
+			"subscriptions_url": "https://api.github.com/users/prince-chrismc/subscriptions",
+			"organizations_url": "https://api.github.com/users/prince-chrismc/orgs",
+			"repos_url": "https://api.github.com/users/prince-chrismc/repos",
+			"events_url": "https://api.github.com/users/prince-chrismc/events{/privacy}",
+			"received_events_url": "https://api.github.com/users/prince-chrismc/received_events",
+			"type": "User",
+			"site_admin": false
+		  },
+		  "body": "",
+		  "state": "APPROVED",
+		  "html_url": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1499560222",
+		  "pull_request_url": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752",
+		  "author_association": "CONTRIBUTOR",
+		  "_links": {
+			"html": {
+			  "href": "https://github.com/conan-io/conan-center-index/pull/17752#pullrequestreview-1499560222"
+			},
+			"pull_request": {
+			  "href": "https://api.github.com/repos/conan-io/conan-center-index/pulls/17752"
+			}
+		  },
+		  "submitted_at": "2023-06-26T22:00:02Z",
+		  "commit_id": "fce3c24a57563620b8915a307171f9b2b8b2686e"
+		}
+	  ]`)
+	reviewers := ConanCenterReviewers{Reviewers: []Reviewer{
+		{User: "RubenRBS", Type: Team, Requested: false},
+		{User: "ericLemanissier", Type: Community, Requested: false},
+		{User: "prince-chrismc", Type: Team, Requested: false},
+	}}
+	result := ProcessReviewComments(&reviewers, reviews, "fce3c24a57563620b8915a307171f9b2b8b2686e")
+	assert.Equal(t, Reviews{
+		Count: 5, ValidApprovals: 1, TeamApproval: true,
+		Approvals: []Approver{{Name: "prince-chrismc", Tier: Team}},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),

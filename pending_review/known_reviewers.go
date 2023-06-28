@@ -13,6 +13,7 @@ type ReviewerType string
 const (
 	Team      ReviewerType = "team"
 	Community ReviewerType = "community"
+	Unofficial ReviewerType = "unofficial" // This is an add-in for pending_review to track extra approvals
 )
 
 type Reviewer struct {

@@ -31,9 +31,7 @@ func TestFormatMarkdownRows(t *testing.T) {
 				"Count": 36,
 				"ValidApprovals": 1,
 				"TeamApproval": false,
-				"Approvals": [
-					"prince-chrismc"
-				],
+				"Approvals":[{"Name":"prince-chrismc","Tier":"community"}],
 				"Blockers": [
 					"uilianries"
 				],
@@ -58,9 +56,7 @@ func TestFormatMarkdownRows(t *testing.T) {
 				"Count": 15,
 				"ValidApprovals": 3,
 				"TeamApproval": true,
-				"Approvals": [
-					"madebr", "SSE4", "SpaceIm"
-				],
+				"Approvals":[{"Name":"madebr","Tier":"community"},{"Name":"SSE4","Tier":"team"},{"Name":"SpaceIm","Tier":"community"}],
 				"Blockers": []
 			}
 		}
@@ -94,11 +90,7 @@ func TestFormatMarkdownRowsDocs(t *testing.T) {
 			   "Count": 3,
 			   "ValidApprovals": 3,
 			   "TeamApproval": true,
-			   "Approvals": [
-				  "SSE4",
-				  "uilianries",
-				  "prince-chrismc"
-			   ],
+			   "Approvals":[{"Name":"uilianries","Tier":"team"},{"Name":"SSE4","Tier":"community"},{"Name":"prince-chrismc","Tier":"community"}],
 			   "Blockers": null,
 			   "LastReview": {
 				  "ReviewerName": "prince-chrismc",
@@ -113,7 +105,7 @@ func TestFormatMarkdownRowsDocs(t *testing.T) {
 
 	mergeRow, mergeCount := ReviewsToMarkdownRows(rs, true)
 	assert.Equal(t, mergeCount, 1)
-	assert.Equal(t, "[#7648](https://github.com/conan-io/conan-center-index/pull/7648)|[jgsogo](https://github.com/jgsogo)|Oct 11|:green_book: docs|3|SSE4, uilianries, prince-chrismc\n", mergeRow)
+	assert.Equal(t, "[#7648](https://github.com/conan-io/conan-center-index/pull/7648)|[jgsogo](https://github.com/jgsogo)|Oct 11|:green_book: docs|3|uilianries, SSE4, prince-chrismc\n", mergeRow)
 }
 
 func TestFormatMarkdownRowsCiPending(t *testing.T) {
