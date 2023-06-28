@@ -454,7 +454,7 @@ func TestProcessReviewComments16187_2(t *testing.T) {
 	result := ProcessReviewComments(&reviewers, reviews, "47efa240d39a5e74b7b02cbe15702ea85215145d")
 	assert.Equal(t, Reviews{
 		Count: 2, ValidApprovals: 1, TeamApproval: false,
-		Approvals: []Approver{Approver{Name: "jwillikers", Tier: Community}},
+		Approvals: []Approver{{Name: "jwillikers", Tier: Community}},
 		Blockers:  nil, LastReview: &Review{
 			ReviewerName: reviews[len(reviews)-1].GetUser().GetLogin(),
 			SubmittedAt:  reviews[len(reviews)-1].GetSubmittedAt(),
