@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **87** pull requests currently under way :detective:
+There are **94** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -106,14 +106,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18109](https://github.com/conan-io/conan-center-index/pull/18109)|[valgur](https://github.com/valgur)|Jun 28|:memo: influxdb-cpp|M|0|||
 [#18110](https://github.com/conan-io/conan-center-index/pull/18110)|[valgur](https://github.com/valgur)|Jun 28|:memo: stringtoolbox|M|0|||
 [#18111](https://github.com/conan-io/conan-center-index/pull/18111)|[valgur](https://github.com/valgur)|Jun 28|:memo: jpcre2|M|0|||
-[#18112](https://github.com/conan-io/conan-center-index/pull/18112)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: portable-file-dialogs|M|0|||
-[#18113](https://github.com/conan-io/conan-center-index/pull/18113)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: hippomocks|M|0|||
-[#18114](https://github.com/conan-io/conan-center-index/pull/18114)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: greatest|M|0|||
-[#18115](https://github.com/conan-io/conan-center-index/pull/18115)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: panzi-portable-endian|M|0|||
+[#18112](https://github.com/conan-io/conan-center-index/pull/18112)|[valgur](https://github.com/valgur)|Jun 28|:memo: portable-file-dialogs|M|0|||
+[#18113](https://github.com/conan-io/conan-center-index/pull/18113)|[valgur](https://github.com/valgur)|Jun 28|:memo: hippomocks|M|0|||
+[#18114](https://github.com/conan-io/conan-center-index/pull/18114)|[valgur](https://github.com/valgur)|Jun 28|:memo: greatest|M|0|||
 [#18116](https://github.com/conan-io/conan-center-index/pull/18116)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: icecream-cpp|M|0|||
 [#18117](https://github.com/conan-io/conan-center-index/pull/18117)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: dtl|M|0|||
 [#18118](https://github.com/conan-io/conan-center-index/pull/18118)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: ctml|M|0|||
 [#18119](https://github.com/conan-io/conan-center-index/pull/18119)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: debug_assert|M|0|||
+[#18121](https://github.com/conan-io/conan-center-index/pull/18121)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: fire-hpp|M|0|||
+[#18122](https://github.com/conan-io/conan-center-index/pull/18122)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: glext|M|0|||
+[#18124](https://github.com/conan-io/conan-center-index/pull/18124)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: kainjow-mustache|M|0|||
+[#18127](https://github.com/conan-io/conan-center-index/pull/18127)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: nextsilicon-cpp-subprocess|M|0|||
+[#18128](https://github.com/conan-io/conan-center-index/pull/18128)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: effolkronium-random|M|0|||
+[#18129](https://github.com/conan-io/conan-center-index/pull/18129)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: linux-headers-generic|M|0|||
+[#18130](https://github.com/conan-io/conan-center-index/pull/18130)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 28|:green_book: docs|:blue_square: S|0|||
+[#18131](https://github.com/conan-io/conan-center-index/pull/18131)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: nv-codec-headers|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -133,10 +140,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 232
+	- Open: 243
 	- Draft: 30
-	- Average Age: 97 days, 7 hours, and 5.58 minutes
-	- Stop Label: 99
+	- Average Age: 92 days, 22 hours, and 22.86 minutes
+	- Stop Label: 103
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
