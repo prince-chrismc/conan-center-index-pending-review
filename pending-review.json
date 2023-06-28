@@ -1727,7 +1727,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17995",
       "LastCommitSHA": "57098d7f537809e3a78da8b6c76acc8a33d0129b",
       "LastCommitAt": "2023-06-21T09:50:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -2119,25 +2119,6 @@
             "SubmittedAt": "2023-06-28T08:48:24Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18098#pullrequestreview-1502598507"
          }
-      }
-   },
-   {
-      "Number": 18101,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-06-28T09:47:25Z",
-      "Recipe": "util-linux-libuuid",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18101",
-      "LastCommitSHA": "70414ec90b09fddd9bc49ba1cdc436a4b6b6a835",
-      "LastCommitAt": "2023-06-27T08:50:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
