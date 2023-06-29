@@ -986,25 +986,6 @@
       }
    },
    {
-      "Number": 17580,
-      "OpenedBy": "miklelappo",
-      "CreatedAt": "2023-05-15T21:08:25Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17580",
-      "LastCommitSHA": "2f1db8bb0cb033c74de37d4e9df300a54951d528",
-      "LastCommitAt": "2023-05-17T09:30:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17609,
       "OpenedBy": "swebb2066",
       "CreatedAt": "2023-05-18T08:32:25Z",
@@ -1585,20 +1566,24 @@
       "LastCommitAt": "2023-06-21T09:50:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "samuel-emrys",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-06-24T15:01:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17995#pullrequestreview-1496686123"
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2023-06-29T05:53:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17995#pullrequestreview-1504591999"
          }
       }
    },
