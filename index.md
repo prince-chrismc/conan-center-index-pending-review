@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **94** pull requests currently under way :detective:
+There are **92** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -100,7 +100,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18073](https://github.com/conan-io/conan-center-index/pull/18073)|[holger-detering](https://github.com/holger-detering)|Jun 27|:memo: cute_headers|M|2|Jun 28||jwillikers
 [#18088](https://github.com/conan-io/conan-center-index/pull/18088)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 27|:stopwatch: libtool|:blue_square: S|0|||
 [#18090](https://github.com/conan-io/conan-center-index/pull/18090)|[valgur](https://github.com/valgur)|Jun 27|:memo: boostdep|L|1|Jun 28||jwillikers
-[#18104](https://github.com/conan-io/conan-center-index/pull/18104)|[toge](https://github.com/toge)|Jun 28|:memo: tsl-hopscotch-map|:blue_square: S|1|Jun 28||jwillikers
 [#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:memo: arrow|:blue_square: S|0|||
 [#18109](https://github.com/conan-io/conan-center-index/pull/18109)|[valgur](https://github.com/valgur)|Jun 28|:memo: influxdb-cpp|M|0|||
 [#18110](https://github.com/conan-io/conan-center-index/pull/18110)|[valgur](https://github.com/valgur)|Jun 28|:memo: stringtoolbox|M|0|||
@@ -118,7 +117,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18127](https://github.com/conan-io/conan-center-index/pull/18127)|[valgur](https://github.com/valgur)|Jun 28|:memo: nextsilicon-cpp-subprocess|M|0|||
 [#18128](https://github.com/conan-io/conan-center-index/pull/18128)|[valgur](https://github.com/valgur)|Jun 28|:memo: effolkronium-random|M|0|||
 [#18129](https://github.com/conan-io/conan-center-index/pull/18129)|[valgur](https://github.com/valgur)|Jun 28|:memo: linux-headers-generic|M|0|||
-[#18130](https://github.com/conan-io/conan-center-index/pull/18130)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 28|:green_book: docs|:blue_square: S|0|||
 [#18131](https://github.com/conan-io/conan-center-index/pull/18131)|[valgur](https://github.com/valgur)|Jun 28|:memo: nv-codec-headers|M|0|||
 [#18132](https://github.com/conan-io/conan-center-index/pull/18132)|[valgur](https://github.com/valgur)|Jun 28|:memo: wglext|M|0|||
 
@@ -140,9 +138,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 245
+	- Open: 243
 	- Draft: 30
-	- Average Age: 92 days, 7 hours, and 5.48 minutes
+	- Average Age: 93 days, 4 hours, and 24.87 minutes
 	- Stop Label: 105
 	
 
