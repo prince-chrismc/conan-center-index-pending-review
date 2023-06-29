@@ -1877,11 +1877,21 @@
       "LastCommitAt": "2023-06-28T20:35:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-06-29T07:08:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18112#pullrequestreview-1504678347"
+         }
       }
    },
    {
