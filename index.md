@@ -70,7 +70,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
 [#17682](https://github.com/conan-io/conan-center-index/pull/17682)|[uilianries](https://github.com/uilianries)|May 24|:stopwatch: chaiscript|L|0|:eyes:||
 [#17768](https://github.com/conan-io/conan-center-index/pull/17768)|[ericLemanissier](https://github.com/ericLemanissier)|May 31|:stopwatch: mingw-builds|:blue_square: S|0|:eyes:||
-[#17784](https://github.com/conan-io/conan-center-index/pull/17784)|[Sa3eedove](https://github.com/Sa3eedove)|Jun 1|:stopwatch: usockets|L|0|:eyes:||
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:stopwatch: libdb|L|0|:eyes:||
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|1|Jun 27||
 [#17868](https://github.com/conan-io/conan-center-index/pull/17868)|[toge](https://github.com/toge)|Jun 8|:new: maven|M|1|Jun 26||jwillikers
@@ -101,7 +100,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18144](https://github.com/conan-io/conan-center-index/pull/18144)|[toge](https://github.com/toge)|Jun 29|:stopwatch: tinyexr|:blue_square: S|1|Jun 29||RubenRBS
 [#18145](https://github.com/conan-io/conan-center-index/pull/18145)|[toge](https://github.com/toge)|Jun 29|:memo: tinygltf|:blue_square: S|1|Jun 29||RubenRBS
 [#18147](https://github.com/conan-io/conan-center-index/pull/18147)|[jjcasmar](https://github.com/jjcasmar)|Jun 29|:stopwatch: embree4|L|0|||
-[#18148](https://github.com/conan-io/conan-center-index/pull/18148)|[mayeut](https://github.com/mayeut)|Jun 29|:stopwatch: libwebp|:blue_square: S|0|||
+[#18148](https://github.com/conan-io/conan-center-index/pull/18148)|[mayeut](https://github.com/mayeut)|Jun 29|:memo: libwebp|:blue_square: S|0|||
+[#18151](https://github.com/conan-io/conan-center-index/pull/18151)|[valgur](https://github.com/valgur)|Jun 29|:stopwatch: firebird|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -120,10 +120,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 231
+	- Open: 232
 	- Draft: 32
-	- Average Age: 98 days, 5 hours, and 2.26 minutes
-	- Stop Label: 110
+	- Average Age: 97 days, 19 hours, and 52.56 minutes
+	- Stop Label: 111
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
