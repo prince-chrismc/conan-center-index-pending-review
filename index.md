@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **73** pull requests currently under way :detective:
+There are **76** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -45,6 +45,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:stopwatch: log4cxx|XL|5|May 8 :bell:||
 [#16698](https://github.com/conan-io/conan-center-index/pull/16698)|[Woazim](https://github.com/Woazim)|Mar 25|:stopwatch: imagl|L|4|Apr 11 :bell:||
 [#16738](https://github.com/conan-io/conan-center-index/pull/16738)|[kuroneko](https://github.com/kuroneko)|Mar 27|:stopwatch: cglm|L|1|Jun 23||
+[#16872](https://github.com/conan-io/conan-center-index/pull/16872)|[toge](https://github.com/toge)|Apr 3|:stopwatch: drogon|L|1|Jun 29||
 [#17025](https://github.com/conan-io/conan-center-index/pull/17025)|[SSE4](https://github.com/SSE4)|Apr 14|:stopwatch: vvenc|M|3|Apr 14 :bell:|uilianries|
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|0|:eyes:||
 [#17108](https://github.com/conan-io/conan-center-index/pull/17108)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:stopwatch: aws-c-auth|M|2|Jun 8 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov)
@@ -100,6 +101,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18143](https://github.com/conan-io/conan-center-index/pull/18143)|[nayyden](https://github.com/nayyden)|Jun 29|:stopwatch: opencolorio|:green_circle: XS|0|||
 [#18144](https://github.com/conan-io/conan-center-index/pull/18144)|[toge](https://github.com/toge)|Jun 29|:stopwatch: tinyexr|:blue_square: S|1|Jun 29||RubenRBS
 [#18145](https://github.com/conan-io/conan-center-index/pull/18145)|[toge](https://github.com/toge)|Jun 29|:memo: tinygltf|:blue_square: S|1|Jun 29||RubenRBS
+[#18147](https://github.com/conan-io/conan-center-index/pull/18147)|[jjcasmar](https://github.com/jjcasmar)|Jun 29|:stopwatch: embree4|L|0|||
+[#18148](https://github.com/conan-io/conan-center-index/pull/18148)|[mayeut](https://github.com/mayeut)|Jun 29|:stopwatch: libwebp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -118,9 +121,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 229
+	- Open: 230
 	- Draft: 32
-	- Average Age: 98 days, 21 hours, and 36.22 minutes
+	- Average Age: 98 days, 12 hours, and 23.23 minutes
 	- Stop Label: 108
 	
 
