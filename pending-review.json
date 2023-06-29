@@ -1043,25 +1043,6 @@
       }
    },
    {
-      "Number": 17655,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2023-05-22T16:34:52Z",
-      "Recipe": "pango",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17655",
-      "LastCommitSHA": "3bbe03deea93422cef46e2088389d535ec6e7fed",
-      "LastCommitAt": "2023-06-24T15:17:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17682,
       "OpenedBy": "uilianries",
       "CreatedAt": "2023-05-24T10:16:30Z",
