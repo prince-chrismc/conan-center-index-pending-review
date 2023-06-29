@@ -458,25 +458,6 @@
       }
    },
    {
-      "Number": 16872,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-04-03T16:04:28Z",
-      "Recipe": "drogon",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16872",
-      "LastCommitSHA": "8cee140376217b275d5388c6454a7703270459ac",
-      "LastCommitAt": "2023-06-27T12:06:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17025,
       "OpenedBy": "SSE4",
       "CreatedAt": "2023-04-14T07:18:58Z",
@@ -1639,39 +1620,6 @@
       }
    },
    {
-      "Number": 18034,
-      "OpenedBy": "Cogitri",
-      "CreatedAt": "2023-06-23T09:46:52Z",
-      "Recipe": "opentelemetry-cpp",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18034",
-      "LastCommitSHA": "47bb3cc307d1166d16059f5160d43ee47f22841b",
-      "LastCommitAt": "2023-06-27T11:36:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-06-29T08:33:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18034#pullrequestreview-1504815430"
-         }
-      }
-   },
-   {
       "Number": 18058,
       "OpenedBy": "maksim-petukhov",
       "CreatedAt": "2023-06-26T11:18:08Z",
@@ -1806,6 +1754,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18106",
       "LastCommitSHA": "72a8a40e3ca2a1067a75046a3f65e566506e4ca7",
       "LastCommitAt": "2023-06-28T16:53:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18107,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-28T19:37:02Z",
+      "Recipe": "opentelemetry-proto",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18107",
+      "LastCommitSHA": "5d50111f55ffd39dad752e9ede15ff0b6d924aec",
+      "LastCommitAt": "2023-06-29T12:26:13Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -1979,30 +1946,21 @@
       "LastCommitAt": "2023-06-29T11:33:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18126,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-06-28T21:45:20Z",
-      "Recipe": "mattiasgustavsson-libs",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18126",
-      "LastCommitSHA": "450ca4a5d51c7479044c2c4e567a8f364b18fa8e",
-      "LastCommitAt": "2023-06-29T11:07:07Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-06-29T13:42:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18123#pullrequestreview-1505328621"
+         }
       }
    },
    {
@@ -2063,13 +2021,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18142",
       "LastCommitSHA": "58755ac0230a84be5debd2fe05bad9011c4547e6",
       "LastCommitAt": "2023-06-29T12:53:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-06-29T14:09:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18142#pullrequestreview-1505384985"
+         }
       }
    },
    {
