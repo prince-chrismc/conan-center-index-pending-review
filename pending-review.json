@@ -1829,24 +1829,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 18150,
-      "OpenedBy": "0xFireWolf",
-      "CreatedAt": "2023-06-29T19:21:54Z",
-      "Recipe": "libunwind",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18150",
-      "LastCommitSHA": "553629bcb2005d4d3d7c202a9d73dbd517bbeeff",
-      "LastCommitAt": "2023-06-29T19:21:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
