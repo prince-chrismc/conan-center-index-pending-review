@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **121** pull requests currently under way :detective:
+There are **122** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -144,10 +144,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18208](https://github.com/conan-io/conan-center-index/pull/18208)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: flatbush|M|0|||
 [#18209](https://github.com/conan-io/conan-center-index/pull/18209)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: enhex-strong_type|L|0|||
 [#18210](https://github.com/conan-io/conan-center-index/pull/18210)|[valgur](https://github.com/valgur)|Jun 30|:memo: graphthewy|M|0|||
-[#18211](https://github.com/conan-io/conan-center-index/pull/18211)|[jwillikers](https://github.com/jwillikers)|Jun 30|:stopwatch: gdcm|:blue_square: S|0|||
 [#18213](https://github.com/conan-io/conan-center-index/pull/18213)|[valgur](https://github.com/valgur)|Jun 30|:memo: mathter|L|0|||
 [#18217](https://github.com/conan-io/conan-center-index/pull/18217)|[ngrodzitski](https://github.com/ngrodzitski)|Jun 30|:stopwatch: outcome|:green_circle: XS|0|||
 [#18218](https://github.com/conan-io/conan-center-index/pull/18218)|[toge](https://github.com/toge)|Jun 30|:memo: platform.delegates|L|0|||
+[#18219](https://github.com/conan-io/conan-center-index/pull/18219)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 30|:stopwatch: libarchive|L|0|||
+[#18220](https://github.com/conan-io/conan-center-index/pull/18220)|[prince-chrismc](https://github.com/prince-chrismc)|Jun 30|:stopwatch: fontconfig|:green_circle: XS|1|Jun 30||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -166,9 +167,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 283
+	- Open: 285
 	- Draft: 32
-	- Average Age: 80 days, 18 hours, and 49.08 minutes
+	- Average Age: 80 days, 6 hours, and 16.61 minutes
 	- Stop Label: 115
 	
 
