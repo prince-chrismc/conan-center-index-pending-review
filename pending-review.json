@@ -1627,15 +1627,20 @@
       "LastCommitAt": "2023-06-29T10:58:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "toge",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-06-29T09:18:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18117#pullrequestreview-1504897600"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2023-06-30T01:42:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18117#pullrequestreview-1506339400"
          }
       }
    },
@@ -1783,6 +1788,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18148",
       "LastCommitSHA": "be08f6cad905f7bba0f94554d803980b70fa40f7",
       "LastCommitAt": "2023-06-29T18:04:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18153,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-06-30T01:37:13Z",
+      "Recipe": "st_tree",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18153",
+      "LastCommitSHA": "7cb20fdd5428dde62c8f543f6db139ac35befc4b",
+      "LastCommitAt": "2023-06-30T01:36:32Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
