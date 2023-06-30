@@ -688,6 +688,25 @@
       }
    },
    {
+      "Number": 17276,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-04-27T09:38:25Z",
+      "Recipe": "qtawesome",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17276",
+      "LastCommitSHA": "f06329d80d1ff46b709c89598f172360b4e5e183",
+      "LastCommitAt": "2023-05-02T08:11:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17320,
       "OpenedBy": "samuel-emrys",
       "CreatedAt": "2023-04-30T02:48:18Z",
@@ -1132,7 +1151,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17825",
       "LastCommitSHA": "8b7a3e6141ae7bf6ddf371ecd7b44f5cb941139b",
       "LastCommitAt": "2023-06-30T12:29:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2501,7 +2520,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18201",
       "LastCommitSHA": "a116f9e618538e0146068dc3bc5f3835718fa485",
       "LastCommitAt": "2023-06-30T13:06:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2539,7 +2558,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18204",
       "LastCommitSHA": "29a02a87c067f05700b174ff4e23ff883dac0f85",
       "LastCommitAt": "2023-06-30T13:11:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2691,6 +2710,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18213",
       "LastCommitSHA": "518c70aad413be21566eee8d13ce58dae11454bc",
       "LastCommitAt": "2023-06-30T13:39:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18215,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2023-06-30T14:42:15Z",
+      "Recipe": "sobjectizer",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18215",
+      "LastCommitSHA": "d34f1f40bd36276f28ad93679b165062d2d6d9cf",
+      "LastCommitAt": "2023-06-30T14:36:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
