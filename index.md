@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **161** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -77,7 +77,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|1|Jun 27||
 [#17859](https://github.com/conan-io/conan-center-index/pull/17859)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:stopwatch: qt|L|4|Jun 28||jwillikers
 [#17868](https://github.com/conan-io/conan-center-index/pull/17868)|[toge](https://github.com/toge)|Jun 8|:new: maven|M|1|Jun 26||jwillikers
-[#17881](https://github.com/conan-io/conan-center-index/pull/17881)|[fcorso2016](https://github.com/fcorso2016)|Jun 9|:stopwatch: whisper-cpp|L|1|Jun 14 :bell:|RubenRBS|
+[#17881](https://github.com/conan-io/conan-center-index/pull/17881)|[fcorso2016](https://github.com/fcorso2016)|Jun 9|:new: whisper-cpp|L|1|Jun 14 :bell:|RubenRBS|
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|1|Jun 25||jwillikers
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|:eyes:||
@@ -184,10 +184,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:memo: platform.converters|L|0|||
 [#18262](https://github.com/conan-io/conan-center-index/pull/18262)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: glshaderpp|M|0|||
 [#18266](https://github.com/conan-io/conan-center-index/pull/18266)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.exceptions|L|0|||
-[#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: redboltz-mqtt_cpp|M|0|||
-[#18271](https://github.com/conan-io/conan-center-index/pull/18271)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: cpp-taskflow|L|0|||
-[#18272](https://github.com/conan-io/conan-center-index/pull/18272)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: seqan|L|0|||
-[#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: seqan3|M|0|||
+[#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:memo: redboltz-mqtt_cpp|M|0|||
+[#18271](https://github.com/conan-io/conan-center-index/pull/18271)|[valgur](https://github.com/valgur)|Jul 1|:memo: cpp-taskflow|L|0|||
+[#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:memo: seqan3|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -208,8 +207,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 332
 	- Draft: 32
-	- Average Age: 69 days, 19 hours, and 6.50 minutes
-	- Stop Label: 123
+	- Average Age: 69 days, 20 hours, and 0.81 minutes
+	- Stop Label: 124
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
