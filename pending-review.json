@@ -2878,7 +2878,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18219",
       "LastCommitSHA": "0416cf32fca0fd499cf41cbe70ec0c6efcf94bb0",
       "LastCommitAt": "2023-07-01T15:30:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3192,6 +3192,25 @@
       }
    },
    {
+      "Number": 18242,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-01T10:09:29Z",
+      "Recipe": "mailio",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18242",
+      "LastCommitSHA": "61941d7a05d65fd5359f27d0036082513d5dd5d4",
+      "LastCommitAt": "2023-07-01T15:58:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18244,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-01T10:55:54Z",
@@ -3477,15 +3496,15 @@
       }
    },
    {
-      "Number": 18268,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-01T16:28:17Z",
-      "Recipe": "zimg",
+      "Number": 18270,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T17:50:58Z",
+      "Recipe": "redboltz-mqtt_cpp",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18268",
-      "LastCommitSHA": "ea5697a8123ad1dfb374ab13f066d98fe4a29806",
-      "LastCommitAt": "2023-07-01T16:27:34Z",
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18270",
+      "LastCommitSHA": "e504d92a762b035999b80dfe3a07c3f8f0783d6b",
+      "LastCommitAt": "2023-06-30T18:25:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3496,15 +3515,53 @@
       }
    },
    {
-      "Number": 18269,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-01T16:37:13Z",
-      "Recipe": "libuv",
+      "Number": 18271,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T17:51:32Z",
+      "Recipe": "cpp-taskflow",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18269",
-      "LastCommitSHA": "c00133ddc059af281cb5783cb7b7899a4ff75868",
-      "LastCommitAt": "2023-07-01T16:36:43Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18271",
+      "LastCommitSHA": "ec6de94e66ed7780512b0b2b66d4b9dd38071d5c",
+      "LastCommitAt": "2023-06-30T18:31:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18272,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T17:51:57Z",
+      "Recipe": "seqan",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18272",
+      "LastCommitSHA": "0512d9613bb4e7323543d9353c4f413c19a7ac15",
+      "LastCommitAt": "2023-06-30T18:35:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18273,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T17:52:24Z",
+      "Recipe": "seqan3",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18273",
+      "LastCommitSHA": "e98176cdfc6c3f08a20a2027e76297c1e505927d",
+      "LastCommitAt": "2023-06-30T19:49:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
