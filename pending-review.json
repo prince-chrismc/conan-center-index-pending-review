@@ -3178,10 +3178,10 @@
       "CreatedAt": "2023-07-01T10:09:29Z",
       "Recipe": "mailio",
       "Change": 1,
-      "Weight": 1,
+      "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18242",
-      "LastCommitSHA": "368a9fdbdd85e96a44a127a91169a4f7346e65ab",
-      "LastCommitAt": "2023-07-01T10:07:06Z",
+      "LastCommitSHA": "20a8fc6ec88b30bb94465f9b6dcac838010162a5",
+      "LastCommitAt": "2023-07-01T14:09:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3335,6 +3335,63 @@
       "LastCommitSHA": "bdc5a2f74c8fdb7197603e904b34799afac13928",
       "LastCommitAt": "2023-06-30T16:06:34Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18255,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T13:42:47Z",
+      "Recipe": "plusaes",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18255",
+      "LastCommitSHA": "24ca2bde489362faed00d61ca005777809198dbf",
+      "LastCommitAt": "2023-06-30T16:08:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18256,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T13:43:03Z",
+      "Recipe": "diligentgraphics-spirv-headers",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18256",
+      "LastCommitSHA": "16badef3d94b6eca0d2bd544a9d49b36abe97a4f",
+      "LastCommitAt": "2023-06-30T16:10:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18259,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T13:44:48Z",
+      "Recipe": "frugally-deep",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18259",
+      "LastCommitSHA": "606c6b120e61a39aa4b0551a6eb84dbe1cb9041c",
+      "LastCommitAt": "2023-06-30T16:23:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
