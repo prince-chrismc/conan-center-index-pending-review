@@ -2128,6 +2128,25 @@
       }
    },
    {
+      "Number": 18171,
+      "OpenedBy": "Tobulus",
+      "CreatedAt": "2023-06-30T11:53:14Z",
+      "Recipe": "libgpiod",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18171",
+      "LastCommitSHA": "dc9f292b83cae00867b31cce96a2d757df07380f",
+      "LastCommitAt": "2023-07-01T19:33:25Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18172,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-06-30T11:54:04Z",
