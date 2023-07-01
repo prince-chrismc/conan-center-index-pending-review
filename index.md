@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **152** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -151,6 +151,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18210](https://github.com/conan-io/conan-center-index/pull/18210)|[valgur](https://github.com/valgur)|Jun 30|:memo: graphthewy|M|0|||
 [#18213](https://github.com/conan-io/conan-center-index/pull/18213)|[valgur](https://github.com/valgur)|Jun 30|:memo: mathter|L|0|||
 [#18218](https://github.com/conan-io/conan-center-index/pull/18218)|[toge](https://github.com/toge)|Jun 30|:memo: platform.delegates|L|0|||
+[#18219](https://github.com/conan-io/conan-center-index/pull/18219)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 30|:stopwatch: libarchive|L|0|||
 [#18221](https://github.com/conan-io/conan-center-index/pull/18221)|[conan-center-bot](https://github.com/conan-center-bot)|Jun 30|:green_book: docs|:blue_square: S|0|||
 [#18224](https://github.com/conan-io/conan-center-index/pull/18224)|[valgur](https://github.com/valgur)|Jul 1|:memo: pretty-name|L|0|||
 [#18225](https://github.com/conan-io/conan-center-index/pull/18225)|[valgur](https://github.com/valgur)|Jul 1|:memo: source_location|L|0|||
@@ -167,7 +168,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18237](https://github.com/conan-io/conan-center-index/pull/18237)|[valgur](https://github.com/valgur)|Jul 1|:memo: snowhouse|M|0|||
 [#18238](https://github.com/conan-io/conan-center-index/pull/18238)|[valgur](https://github.com/valgur)|Jul 1|:memo: mdns|M|0|||
 [#18241](https://github.com/conan-io/conan-center-index/pull/18241)|[valgur](https://github.com/valgur)|Jul 1|:memo: quaternions|M|0|||
-[#18242](https://github.com/conan-io/conan-center-index/pull/18242)|[toge](https://github.com/toge)|Jul 1|:stopwatch: mailio|M|0|||
 [#18244](https://github.com/conan-io/conan-center-index/pull/18244)|[valgur](https://github.com/valgur)|Jul 1|:memo: thelink2012-any|M|0|||
 [#18246](https://github.com/conan-io/conan-center-index/pull/18246)|[valgur](https://github.com/valgur)|Jul 1|:memo: rangeless|M|0|||
 [#18248](https://github.com/conan-io/conan-center-index/pull/18248)|[valgur](https://github.com/valgur)|Jul 1|:memo: sjson-cpp|M|0|||
@@ -179,6 +179,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18255](https://github.com/conan-io/conan-center-index/pull/18255)|[valgur](https://github.com/valgur)|Jul 1|:memo: plusaes|M|0|||
 [#18256](https://github.com/conan-io/conan-center-index/pull/18256)|[valgur](https://github.com/valgur)|Jul 1|:memo: diligentgraphics-spirv-headers|M|0|||
 [#18259](https://github.com/conan-io/conan-center-index/pull/18259)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: frugally-deep|M|0|||
+[#18260](https://github.com/conan-io/conan-center-index/pull/18260)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: pipes|M|0|||
+[#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.converters|L|0|||
+[#18262](https://github.com/conan-io/conan-center-index/pull/18262)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: glshaderpp|M|0|||
+[#18263](https://github.com/conan-io/conan-center-index/pull/18263)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.equality|M|0|||
+[#18264](https://github.com/conan-io/conan-center-index/pull/18264)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: ctpg|L|0|||
+[#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: libunifex|L|0|||
+[#18266](https://github.com/conan-io/conan-center-index/pull/18266)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.exceptions|L|0|||
+[#18267](https://github.com/conan-io/conan-center-index/pull/18267)|[toge](https://github.com/toge)|Jul 1|:stopwatch: platform.converters|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -197,9 +205,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 320
+	- Open: 328
 	- Draft: 32
-	- Average Age: 72 days, 6 hours, and 48.52 minutes
+	- Average Age: 70 days, 13 hours, and 31.81 minutes
 	- Stop Label: 120
 	
 
