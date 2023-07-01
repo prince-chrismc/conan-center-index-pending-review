@@ -199,7 +199,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 333
 	- Draft: 32
-	- Average Age: 69 days, 17 hours, and 59.87 minutes
+	- Average Age: 69 days, 19 hours, and 1.18 minutes
 	- Stop Label: 124
 	
 
