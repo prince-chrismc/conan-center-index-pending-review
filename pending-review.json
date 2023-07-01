@@ -2862,5 +2862,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18222,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-01T04:05:21Z",
+      "Recipe": "quill",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18222",
+      "LastCommitSHA": "75234961e45a3811d7af950f17dbc071d5844534",
+      "LastCommitAt": "2023-07-01T04:04:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
