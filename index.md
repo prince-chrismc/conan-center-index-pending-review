@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **137** pull requests currently under way :detective:
+There are **136** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -156,14 +156,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18226](https://github.com/conan-io/conan-center-index/pull/18226)|[valgur](https://github.com/valgur)|Jul 1|:memo: inversify-cpp|M|0|||
 [#18227](https://github.com/conan-io/conan-center-index/pull/18227)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: deco|L|0|||
 [#18228](https://github.com/conan-io/conan-center-index/pull/18228)|[valgur](https://github.com/valgur)|Jul 1|:memo: enhex-generic_serialization|L|0|||
-[#18229](https://github.com/conan-io/conan-center-index/pull/18229)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: tllist|M|0|||
-[#18230](https://github.com/conan-io/conan-center-index/pull/18230)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: rtm|M|0|||
-[#18231](https://github.com/conan-io/conan-center-index/pull/18231)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: indirect_value|M|0|||
+[#18229](https://github.com/conan-io/conan-center-index/pull/18229)|[valgur](https://github.com/valgur)|Jul 1|:memo: tllist|M|0|||
+[#18230](https://github.com/conan-io/conan-center-index/pull/18230)|[valgur](https://github.com/valgur)|Jul 1|:memo: rtm|M|0|||
+[#18231](https://github.com/conan-io/conan-center-index/pull/18231)|[valgur](https://github.com/valgur)|Jul 1|:memo: indirect_value|M|0|||
 [#18232](https://github.com/conan-io/conan-center-index/pull/18232)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: nfrechette-acl|M|0|||
-[#18233](https://github.com/conan-io/conan-center-index/pull/18233)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: rgbcx|M|0|||
-[#18234](https://github.com/conan-io/conan-center-index/pull/18234)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: wilzegers-autotest|M|0|||
-[#18235](https://github.com/conan-io/conan-center-index/pull/18235)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: tinydir|M|0|||
-[#18236](https://github.com/conan-io/conan-center-index/pull/18236)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: ignition-cmake|L|0|||
+[#18233](https://github.com/conan-io/conan-center-index/pull/18233)|[valgur](https://github.com/valgur)|Jul 1|:memo: rgbcx|M|0|||
+[#18234](https://github.com/conan-io/conan-center-index/pull/18234)|[valgur](https://github.com/valgur)|Jul 1|:memo: wilzegers-autotest|M|0|||
+[#18235](https://github.com/conan-io/conan-center-index/pull/18235)|[valgur](https://github.com/valgur)|Jul 1|:memo: tinydir|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -184,8 +183,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 297
 	- Draft: 32
-	- Average Age: 77 days, 11 hours, and 55.47 minutes
-	- Stop Label: 112
+	- Average Age: 77 days, 12 hours, and 50.90 minutes
+	- Stop Label: 113
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
