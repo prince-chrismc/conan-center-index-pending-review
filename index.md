@@ -23,12 +23,13 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **144** pull requests currently under way :detective:
+There are **150** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#10776](https://github.com/conan-io/conan-center-index/pull/10776)|[paulharris](https://github.com/paulharris)|May 13|:stopwatch: vtk|XL|4|Dec 1 :bell:||
 [#14509](https://github.com/conan-io/conan-center-index/pull/14509)|[toge](https://github.com/toge)|Dec 1|:stopwatch: cassandra-cpp-driver|XL|0|:eyes:||
+[#14543](https://github.com/conan-io/conan-center-index/pull/14543)|[antekone](https://github.com/antekone)|Dec 2|:stopwatch: loguru|L|5|May 10 :bell:||
 [#14916](https://github.com/conan-io/conan-center-index/pull/14916)|[System-Arch](https://github.com/System-Arch)|Dec 23|:stopwatch: isl|L|3|Dec 24 :bell:||
 [#15193](https://github.com/conan-io/conan-center-index/pull/15193)|[SpaceIm](https://github.com/SpaceIm)|Jan 10|:stopwatch: opencv|XL|4|May 27 :bell:||
 [#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:stopwatch: qt|M|4|Feb 14 :bell:||
@@ -167,10 +168,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18238](https://github.com/conan-io/conan-center-index/pull/18238)|[valgur](https://github.com/valgur)|Jul 1|:memo: mdns|M|0|||
 [#18241](https://github.com/conan-io/conan-center-index/pull/18241)|[valgur](https://github.com/valgur)|Jul 1|:memo: quaternions|M|0|||
 [#18242](https://github.com/conan-io/conan-center-index/pull/18242)|[toge](https://github.com/toge)|Jul 1|:stopwatch: mailio|:blue_square: S|0|||
-[#18244](https://github.com/conan-io/conan-center-index/pull/18244)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: thelink2012-any|M|0|||
-[#18245](https://github.com/conan-io/conan-center-index/pull/18245)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: st_tree|M|0|||
-[#18246](https://github.com/conan-io/conan-center-index/pull/18246)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: rangeless|M|0|||
-[#18247](https://github.com/conan-io/conan-center-index/pull/18247)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: diligentgraphics-vulkan-headers|M|0|||
+[#18244](https://github.com/conan-io/conan-center-index/pull/18244)|[valgur](https://github.com/valgur)|Jul 1|:memo: thelink2012-any|M|0|||
+[#18246](https://github.com/conan-io/conan-center-index/pull/18246)|[valgur](https://github.com/valgur)|Jul 1|:memo: rangeless|M|0|||
+[#18248](https://github.com/conan-io/conan-center-index/pull/18248)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: sjson-cpp|M|0|||
+[#18249](https://github.com/conan-io/conan-center-index/pull/18249)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: neargye-semver|L|0|||
+[#18250](https://github.com/conan-io/conan-center-index/pull/18250)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: pprint|L|0|||
+[#18251](https://github.com/conan-io/conan-center-index/pull/18251)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: tclap|L|0|||
+[#18252](https://github.com/conan-io/conan-center-index/pull/18252)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: yas|M|0|||
+[#18253](https://github.com/conan-io/conan-center-index/pull/18253)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: kitten|L|0|||
+[#18254](https://github.com/conan-io/conan-center-index/pull/18254)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: procxx-boost-ext-simd|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -189,10 +195,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 308
+	- Open: 315
 	- Draft: 32
-	- Average Age: 74 days, 22 hours, and 16.65 minutes
-	- Stop Label: 116
+	- Average Age: 73 days, 7 hours, and 32.29 minutes
+	- Stop Label: 117
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
