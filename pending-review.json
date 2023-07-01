@@ -2864,15 +2864,72 @@
       }
    },
    {
-      "Number": 18222,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-01T04:05:21Z",
-      "Recipe": "quill",
+      "Number": 18223,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T04:48:10Z",
+      "Recipe": "platform.delegates",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18222",
-      "LastCommitSHA": "75234961e45a3811d7af950f17dbc071d5844534",
-      "LastCommitAt": "2023-07-01T04:04:43Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18223",
+      "LastCommitSHA": "b75df15587d5c66c1ca17d24014adb79b53f67a6",
+      "LastCommitAt": "2023-06-30T18:40:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18224,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T05:11:31Z",
+      "Recipe": "pretty-name",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18224",
+      "LastCommitSHA": "085af29429ec5f886a7ee0959ab85fdf940d6ba3",
+      "LastCommitAt": "2023-06-30T21:42:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18225,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T05:11:38Z",
+      "Recipe": "source_location",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18225",
+      "LastCommitSHA": "e0af1dd415746d3b1da058cec55ed8541d61d95f",
+      "LastCommitAt": "2023-06-30T21:40:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18226,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-01T05:13:29Z",
+      "Recipe": "inversify-cpp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18226",
+      "LastCommitSHA": "ec7bd2fb57c8e8d7ad68e439a11ca80154da1df1",
+      "LastCommitAt": "2023-06-30T14:12:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
