@@ -2968,7 +2968,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18229",
       "LastCommitSHA": "5924c95b73649f3d67ba4f8b3deb589ae148088b",
       "LastCommitAt": "2023-06-30T14:29:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2987,7 +2987,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18230",
       "LastCommitSHA": "3a4c6f3e94555eb664a42e53301437076671ed4b",
       "LastCommitAt": "2023-06-30T14:42:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3006,7 +3006,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18231",
       "LastCommitSHA": "77f5135f4480cbf438927e289897029d31079130",
       "LastCommitAt": "2023-06-30T14:44:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3044,7 +3044,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18233",
       "LastCommitSHA": "d2a834f5ab8120f33917fc20d87267d33889f023",
       "LastCommitAt": "2023-06-30T14:47:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3063,7 +3063,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18234",
       "LastCommitSHA": "0e37d76c12bb53a9e96e0e27b3da303b1994bab4",
       "LastCommitAt": "2023-06-30T14:53:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3082,26 +3082,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18235",
       "LastCommitSHA": "705f712f9b5a612538d76af0f3d79a18d19bd85a",
       "LastCommitAt": "2023-06-30T15:04:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18236,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-01T06:06:55Z",
-      "Recipe": "ignition-cmake",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18236",
-      "LastCommitSHA": "6677e1772d99bb4400176d69a07ad246d0a67fe9",
-      "LastCommitAt": "2023-06-30T22:21:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
