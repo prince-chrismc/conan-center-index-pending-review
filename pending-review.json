@@ -1276,7 +1276,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17881",
       "LastCommitSHA": "1e2bc4ef20729353f8e0e986bd3a365aa8992b89",
       "LastCommitAt": "2023-07-01T17:02:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -3505,7 +3505,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18270",
       "LastCommitSHA": "e504d92a762b035999b80dfe3a07c3f8f0783d6b",
       "LastCommitAt": "2023-06-30T18:25:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3524,26 +3524,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18271",
       "LastCommitSHA": "ec6de94e66ed7780512b0b2b66d4b9dd38071d5c",
       "LastCommitAt": "2023-06-30T18:31:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18272,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-01T17:51:57Z",
-      "Recipe": "seqan",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18272",
-      "LastCommitSHA": "0512d9613bb4e7323543d9353c4f413c19a7ac15",
-      "LastCommitAt": "2023-06-30T18:35:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3562,7 +3543,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18273",
       "LastCommitSHA": "e98176cdfc6c3f08a20a2027e76297c1e505927d",
       "LastCommitAt": "2023-06-30T19:49:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
