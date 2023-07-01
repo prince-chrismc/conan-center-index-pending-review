@@ -176,8 +176,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18251](https://github.com/conan-io/conan-center-index/pull/18251)|[valgur](https://github.com/valgur)|Jul 1|:memo: tclap|L|0|||
 [#18253](https://github.com/conan-io/conan-center-index/pull/18253)|[valgur](https://github.com/valgur)|Jul 1|:memo: kitten|L|0|||
 [#18254](https://github.com/conan-io/conan-center-index/pull/18254)|[valgur](https://github.com/valgur)|Jul 1|:memo: procxx-boost-ext-simd|L|0|||
-[#18255](https://github.com/conan-io/conan-center-index/pull/18255)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: plusaes|M|0|||
-[#18256](https://github.com/conan-io/conan-center-index/pull/18256)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: diligentgraphics-spirv-headers|M|0|||
+[#18255](https://github.com/conan-io/conan-center-index/pull/18255)|[valgur](https://github.com/valgur)|Jul 1|:memo: plusaes|M|0|||
+[#18256](https://github.com/conan-io/conan-center-index/pull/18256)|[valgur](https://github.com/valgur)|Jul 1|:memo: diligentgraphics-spirv-headers|M|0|||
 [#18259](https://github.com/conan-io/conan-center-index/pull/18259)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: frugally-deep|M|0|||
 
 
@@ -199,7 +199,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 320
 	- Draft: 32
-	- Average Age: 72 days, 5 hours, and 47.44 minutes
+	- Average Age: 72 days, 6 hours, and 48.52 minutes
 	- Stop Label: 120
 	
 
