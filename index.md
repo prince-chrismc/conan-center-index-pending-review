@@ -196,7 +196,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18284](https://github.com/conan-io/conan-center-index/pull/18284)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: assimp|:green_circle: XS|1|Jul 2||StellaSmith
 [#18285](https://github.com/conan-io/conan-center-index/pull/18285)|[toge](https://github.com/toge)|Jul 2|:memo: jsoncons|:blue_square: S|0|||
 [#18288](https://github.com/conan-io/conan-center-index/pull/18288)|[toge](https://github.com/toge)|Jul 2|:stopwatch: libxft|L|0|||
-[#18289](https://github.com/conan-io/conan-center-index/pull/18289)|[Nekto89](https://github.com/Nekto89)|Jul 2|:stopwatch: libtiff|:blue_square: S|0|||
+[#18289](https://github.com/conan-io/conan-center-index/pull/18289)|[Nekto89](https://github.com/Nekto89)|Jul 2|:memo: libtiff|:blue_square: S|0|||
 
 
 #### :clipboard: Statistics
@@ -207,7 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 340
 	- Draft: 33
-	- Average Age: 69 days, and 50.81 minutes
+	- Average Age: 69 days, 1 hours, and 48.22 minutes
 	- Stop Label: 122
 	
 
