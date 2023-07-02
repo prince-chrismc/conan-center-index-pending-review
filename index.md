@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **159** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -186,6 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:memo: redboltz-mqtt_cpp|M|0|||
 [#18271](https://github.com/conan-io/conan-center-index/pull/18271)|[valgur](https://github.com/valgur)|Jul 1|:memo: cpp-taskflow|L|0|||
 [#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:memo: seqan3|M|0|||
+[#18276](https://github.com/conan-io/conan-center-index/pull/18276)|[chusitoo](https://github.com/chusitoo)|Jul 2|:memo: flatbush|M|0|||
 
 
 #### :clipboard: Statistics
@@ -195,8 +196,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
 	- Open: 331
-	- Draft: 33
-	- Average Age: 70 days, 6 hours, and 54.30 minutes
+	- Draft: 32
+	- Average Age: 70 days, 8 hours, and 41.43 minutes
 	- Stop Label: 124
 	
 
