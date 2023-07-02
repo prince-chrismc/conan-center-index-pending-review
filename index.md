@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **170** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -78,6 +78,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17868](https://github.com/conan-io/conan-center-index/pull/17868)|[toge](https://github.com/toge)|Jun 8|:new: maven|M|1|Jun 26||jwillikers
 [#17881](https://github.com/conan-io/conan-center-index/pull/17881)|[fcorso2016](https://github.com/fcorso2016)|Jun 9|:new: whisper-cpp|L|1|Jun 14 :bell:|RubenRBS|
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|1|Jun 25||jwillikers
+[#17892](https://github.com/conan-io/conan-center-index/pull/17892)|[fcorso2016](https://github.com/fcorso2016)|Jun 10|:memo: openblas|L|1|Jun 23||
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|:eyes:||
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|:eyes:||
@@ -191,10 +192,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18279](https://github.com/conan-io/conan-center-index/pull/18279)|[toge](https://github.com/toge)|Jul 2|:memo: libcoro|L|0|||
 [#18280](https://github.com/conan-io/conan-center-index/pull/18280)|[Nekto89](https://github.com/Nekto89)|Jul 2|:memo: libpng|:blue_square: S|0|||
 [#18281](https://github.com/conan-io/conan-center-index/pull/18281)|[GenuineAster](https://github.com/GenuineAster)|Jul 2|:stopwatch: flecs|:green_circle: XS|0|||
-[#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|0|||
-[#18284](https://github.com/conan-io/conan-center-index/pull/18284)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: assimp|:green_circle: XS|0|||
+[#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|1|Jul 2||StellaSmith
+[#18284](https://github.com/conan-io/conan-center-index/pull/18284)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: assimp|:green_circle: XS|1|Jul 2||StellaSmith
 [#18285](https://github.com/conan-io/conan-center-index/pull/18285)|[toge](https://github.com/toge)|Jul 2|:memo: jsoncons|:blue_square: S|0|||
 [#18288](https://github.com/conan-io/conan-center-index/pull/18288)|[toge](https://github.com/toge)|Jul 2|:stopwatch: libxft|L|0|||
+[#18289](https://github.com/conan-io/conan-center-index/pull/18289)|[Nekto89](https://github.com/Nekto89)|Jul 2|:stopwatch: libtiff|:blue_square: S|0|||
 
 
 #### :clipboard: Statistics
@@ -203,10 +205,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 339
+	- Open: 340
 	- Draft: 33
-	- Average Age: 69 days, 1 hours, and 46.00 minutes
-	- Stop Label: 123
+	- Average Age: 69 days, and 50.81 minutes
+	- Stop Label: 122
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
