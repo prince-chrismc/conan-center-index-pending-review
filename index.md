@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **165** pull requests currently under way :detective:
+There are **167** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -57,7 +57,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:stopwatch: armadillo|L|0|:eyes:||
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|5|May 20 :bell:|jcar87|jwillikers, prince-chrismc, SSE4
 [#17395](https://github.com/conan-io/conan-center-index/pull/17395)|[SpaceIm](https://github.com/SpaceIm)|May 4|:stopwatch: h5pp|L|0|:eyes:||
-[#17414](https://github.com/conan-io/conan-center-index/pull/17414)|[valgur](https://github.com/valgur)|May 5|:memo: eastl|L|8|Jun 30||uilianries
 [#17423](https://github.com/conan-io/conan-center-index/pull/17423)|[Linux13524](https://github.com/Linux13524)|May 6|:memo: onnxruntime|:green_circle: XS|2|Jun 30||[Hopobcn](https://github.com/Hopobcn), czoido
 [#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:stopwatch: tk|L|0|:eyes:||
 [#17436](https://github.com/conan-io/conan-center-index/pull/17436)|[SpaceIm](https://github.com/SpaceIm)|May 7|:memo: openmvg|:green_circle: XS|0|:eyes:||
@@ -189,9 +188,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18276](https://github.com/conan-io/conan-center-index/pull/18276)|[chusitoo](https://github.com/chusitoo)|Jul 2|:memo: flatbush|M|0|||
 [#18277](https://github.com/conan-io/conan-center-index/pull/18277)|[toge](https://github.com/toge)|Jul 2|:memo: pbtools|L|0|||
 [#18279](https://github.com/conan-io/conan-center-index/pull/18279)|[toge](https://github.com/toge)|Jul 2|:memo: libcoro|L|0|||
-[#18280](https://github.com/conan-io/conan-center-index/pull/18280)|[Nekto89](https://github.com/Nekto89)|Jul 2|:stopwatch: libpng|:blue_square: S|0|||
+[#18280](https://github.com/conan-io/conan-center-index/pull/18280)|[Nekto89](https://github.com/Nekto89)|Jul 2|:memo: libpng|:blue_square: S|0|||
 [#18281](https://github.com/conan-io/conan-center-index/pull/18281)|[GenuineAster](https://github.com/GenuineAster)|Jul 2|:stopwatch: flecs|:green_circle: XS|0|||
-[#18282](https://github.com/conan-io/conan-center-index/pull/18282)|[toge](https://github.com/toge)|Jul 2|:stopwatch: glaze|M|0|||
+[#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|0|||
+[#18284](https://github.com/conan-io/conan-center-index/pull/18284)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: assimp|:green_circle: XS|0|||
+[#18285](https://github.com/conan-io/conan-center-index/pull/18285)|[toge](https://github.com/toge)|Jul 2|:stopwatch: jsoncons|:blue_square: S|0|||
+[#18286](https://github.com/conan-io/conan-center-index/pull/18286)|[toge](https://github.com/toge)|Jul 2|:stopwatch: fltk|L|0|||
 
 
 #### :clipboard: Statistics
@@ -200,9 +202,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 336
+	- Open: 339
 	- Draft: 32
-	- Average Age: 69 days, 18 hours, and 36.19 minutes
+	- Average Age: 69 days, and 43.02 minutes
 	- Stop Label: 124
 	
 
