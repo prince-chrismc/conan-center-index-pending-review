@@ -3410,6 +3410,25 @@
       }
    },
    {
+      "Number": 18268,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-01T16:28:17Z",
+      "Recipe": "zimg",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18268",
+      "LastCommitSHA": "b31fc21a2bbb6b16089397379b16bbd7b5742fd2",
+      "LastCommitAt": "2023-07-02T13:04:34Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18270,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-01T17:50:58Z",
@@ -3609,7 +3628,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18285",
       "LastCommitSHA": "15608be4206cad20da5e254a49e8b842e3366724",
       "LastCommitAt": "2023-07-02T14:37:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3619,15 +3638,15 @@
       }
    },
    {
-      "Number": 18286,
+      "Number": 18288,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-07-02T15:07:10Z",
-      "Recipe": "fltk",
+      "CreatedAt": "2023-07-02T15:38:05Z",
+      "Recipe": "libxft",
       "Change": 1,
       "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18286",
-      "LastCommitSHA": "baa031cc02e7c7d56c7bbef41699bf090bb60341",
-      "LastCommitAt": "2023-07-02T15:05:27Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18288",
+      "LastCommitSHA": "fe5867fdbbcbfacd5a55d117b97fb5ab3fe65d00",
+      "LastCommitAt": "2023-07-02T15:37:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
