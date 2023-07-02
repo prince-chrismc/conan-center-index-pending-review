@@ -3543,6 +3543,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18279",
       "LastCommitSHA": "83ffea5d858437cde0026877b9addf7724703508",
       "LastCommitAt": "2023-07-02T11:06:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18280,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2023-07-02T11:45:05Z",
+      "Recipe": "libpng",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18280",
+      "LastCommitSHA": "54ec75927650d82b70fef06ed2e3301a17b3851b",
+      "LastCommitAt": "2023-07-02T12:24:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
