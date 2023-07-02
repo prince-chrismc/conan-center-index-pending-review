@@ -1255,6 +1255,30 @@
       }
    },
    {
+      "Number": 17892,
+      "OpenedBy": "fcorso2016",
+      "CreatedAt": "2023-06-10T15:10:45Z",
+      "Recipe": "openblas",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17892",
+      "LastCommitSHA": "9c5847357de8dc324016fdfdbd77ebf0e322c578",
+      "LastCommitAt": "2023-07-02T17:15:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2023-06-23T11:38:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17892#pullrequestreview-1494976664"
+         }
+      }
+   },
+   {
       "Number": 17894,
       "OpenedBy": "sourcedelica",
       "CreatedAt": "2023-06-10T16:24:53Z",
@@ -3592,11 +3616,21 @@
       "LastCommitAt": "2023-07-02T14:56:19Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "StellaSmith",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "StellaSmith",
+            "SubmittedAt": "2023-07-02T20:04:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18283#pullrequestreview-1509681987"
+         }
       }
    },
    {
@@ -3611,11 +3645,21 @@
       "LastCommitAt": "2023-07-02T14:30:57Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "StellaSmith",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "StellaSmith",
+            "SubmittedAt": "2023-07-02T20:03:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18284#pullrequestreview-1509681911"
+         }
       }
    },
    {
@@ -3647,6 +3691,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18288",
       "LastCommitSHA": "fe5867fdbbcbfacd5a55d117b97fb5ab3fe65d00",
       "LastCommitAt": "2023-07-02T15:37:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18289,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2023-07-02T19:34:38Z",
+      "Recipe": "libtiff",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18289",
+      "LastCommitSHA": "24b47af412e983b7518526ce393108db67b08e45",
+      "LastCommitAt": "2023-07-02T19:33:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
