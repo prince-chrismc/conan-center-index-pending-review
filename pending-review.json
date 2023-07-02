@@ -3494,5 +3494,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18276,
+      "OpenedBy": "chusitoo",
+      "CreatedAt": "2023-07-02T01:01:08Z",
+      "Recipe": "flatbush",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18276",
+      "LastCommitSHA": "2af1f823dc20d09695e0d59a78093e210734a462",
+      "LastCommitAt": "2023-07-02T01:02:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
