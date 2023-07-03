@@ -3739,15 +3739,15 @@
       }
    },
    {
-      "Number": 18291,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-03T02:50:23Z",
-      "Recipe": "eastl",
+      "Number": 18292,
+      "OpenedBy": "blackliner",
+      "CreatedAt": "2023-07-03T04:01:01Z",
+      "Recipe": "pkgconf",
       "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18291",
-      "LastCommitSHA": "a3b7c379ff0475f179d85c3ff3f1b927aab5eaf9",
-      "LastCommitAt": "2023-07-03T02:49:35Z",
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18292",
+      "LastCommitSHA": "a3db03161f1246bb5964fdeacd7cc47599c7c349",
+      "LastCommitAt": "2023-07-03T03:59:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
