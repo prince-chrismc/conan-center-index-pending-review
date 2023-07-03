@@ -1836,6 +1836,30 @@
       }
    },
    {
+      "Number": 18128,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-28T21:52:40Z",
+      "Recipe": "effolkronium-random",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18128",
+      "LastCommitSHA": "d7dcb88c68bbc7c380bb5ec2d6767449a64fd143",
+      "LastCommitAt": "2023-07-03T06:20:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-07-03T06:20:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18128#pullrequestreview-1510450774"
+         }
+      }
+   },
+   {
       "Number": 18138,
       "OpenedBy": "artem-ogre",
       "CreatedAt": "2023-06-29T10:18:11Z",
