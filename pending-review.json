@@ -430,39 +430,6 @@
       }
    },
    {
-      "Number": 16872,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-04-03T16:04:28Z",
-      "Recipe": "drogon",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16872",
-      "LastCommitSHA": "55f7de0e965a8d2f423649ec9ea8521355adf854",
-      "LastCommitAt": "2023-06-30T08:52:49Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-03T08:43:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16872#pullrequestreview-1510685325"
-         }
-      }
-   },
-   {
       "Number": 17032,
       "OpenedBy": "datalogics-kam",
       "CreatedAt": "2023-04-14T16:10:54Z",
@@ -3273,35 +3240,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18268,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-01T16:28:17Z",
-      "Recipe": "zimg",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18268",
-      "LastCommitSHA": "b31fc21a2bbb6b16089397379b16bbd7b5742fd2",
-      "LastCommitAt": "2023-07-02T13:04:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-03T11:39:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18268#pullrequestreview-1511016974"
-         }
       }
    },
    {
