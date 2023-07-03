@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **166** pull requests currently under way :detective:
+There are **165** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -169,7 +169,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18254](https://github.com/conan-io/conan-center-index/pull/18254)|[valgur](https://github.com/valgur)|Jul 1|:memo: procxx-boost-ext-simd|L|0|:eyes:||
 [#18255](https://github.com/conan-io/conan-center-index/pull/18255)|[valgur](https://github.com/valgur)|Jul 1|:memo: plusaes|M|0|:eyes:||
 [#18256](https://github.com/conan-io/conan-center-index/pull/18256)|[valgur](https://github.com/valgur)|Jul 1|:memo: diligentgraphics-spirv-headers|M|0|:eyes:||
-[#18259](https://github.com/conan-io/conan-center-index/pull/18259)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: frugally-deep|M|0|||
+[#18259](https://github.com/conan-io/conan-center-index/pull/18259)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: frugally-deep|M|0|:eyes:||
 [#18260](https://github.com/conan-io/conan-center-index/pull/18260)|[valgur](https://github.com/valgur)|Jul 1|:memo: pipes|M|0|||
 [#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:memo: platform.converters|L|0|||
 [#18262](https://github.com/conan-io/conan-center-index/pull/18262)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: glshaderpp|M|0|||
@@ -190,19 +190,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18291](https://github.com/conan-io/conan-center-index/pull/18291)|[toge](https://github.com/toge)|Jul 3|:memo: eastl|M|0|||
 [#18294](https://github.com/conan-io/conan-center-index/pull/18294)|[toge](https://github.com/toge)|Jul 3|:memo: re2|:blue_square: S|0|||
 [#18295](https://github.com/conan-io/conan-center-index/pull/18295)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 3|:gear: .c3i|:green_circle: XS|1|Jul 3||RubenRBS
-[#18296](https://github.com/conan-io/conan-center-index/pull/18296)|[jjcasmar](https://github.com/jjcasmar)|Jul 3|:stopwatch: embree3|:green_circle: XS|0|||
 [#18297](https://github.com/conan-io/conan-center-index/pull/18297)|[wAuner](https://github.com/wAuner)|Jul 3|:stopwatch: sqlite3|L|0|||
 [#18300](https://github.com/conan-io/conan-center-index/pull/18300)|[toge](https://github.com/toge)|Jul 3|:stopwatch: mongo-c-driver|M|0|||
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#18094](https://github.com/conan-io/conan-center-index/pull/18094)|[valgur](https://github.com/valgur)|Jun 27|:memo: cvplot|2|czoido, jcar87
 
 
 #### :clipboard: Statistics
@@ -211,9 +200,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 340
+	- Open: 339
 	- Draft: 34
-	- Average Age: 69 days, 2 hours, and 21.24 minutes
+	- Average Age: 69 days, 7 hours, and 43.92 minutes
 	- Stop Label: 123
 	
 
