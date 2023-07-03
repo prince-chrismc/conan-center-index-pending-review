@@ -1424,39 +1424,6 @@
       }
    },
    {
-      "Number": 18094,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-06-27T16:49:09Z",
-      "Recipe": "cvplot",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18094",
-      "LastCommitSHA": "4fd4dc532ebcdc6a74c0705075eec82a84b5d6ed",
-      "LastCommitAt": "2023-07-03T07:08:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "jcar87",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-07-03T16:16:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18094#pullrequestreview-1511485818"
-         }
-      }
-   },
-   {
       "Number": 18106,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-28T16:55:41Z",
@@ -3601,25 +3568,6 @@
             "SubmittedAt": "2023-07-03T11:10:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18295#pullrequestreview-1510971404"
          }
-      }
-   },
-   {
-      "Number": 18296,
-      "OpenedBy": "jjcasmar",
-      "CreatedAt": "2023-07-03T09:12:58Z",
-      "Recipe": "embree3",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18296",
-      "LastCommitSHA": "f6063b531bcfd2e79d4e8ece4d48b4d1f93abef0",
-      "LastCommitAt": "2023-07-03T07:53:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
