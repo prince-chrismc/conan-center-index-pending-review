@@ -129,7 +129,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18260](https://github.com/conan-io/conan-center-index/pull/18260)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: pipes|L|0|||
 [#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.converters|L|0|||
 [#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: redboltz-mqtt_cpp|L|0|||
-[#18271](https://github.com/conan-io/conan-center-index/pull/18271)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: cpp-taskflow|L|0|||
 [#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: seqan3|L|0|||
 [#18276](https://github.com/conan-io/conan-center-index/pull/18276)|[chusitoo](https://github.com/chusitoo)|Jul 2|:memo: flatbush|M|0|||
 [#18277](https://github.com/conan-io/conan-center-index/pull/18277)|[toge](https://github.com/toge)|Jul 2|:memo: pbtools|L|0|||
@@ -148,16 +147,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18308](https://github.com/conan-io/conan-center-index/pull/18308)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 4|:stopwatch: ffmpeg|:blue_square: S|1|Jul 4||
 [#18313](https://github.com/conan-io/conan-center-index/pull/18313)|[Cogitri](https://github.com/Cogitri)|Jul 4|:stopwatch: turtle|:green_circle: XS|1|Jul 4||
 [#18316](https://github.com/conan-io/conan-center-index/pull/18316)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 4|:memo: inih|:blue_square: S|0|||
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **1** pull request is waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#18318](https://github.com/conan-io/conan-center-index/pull/18318)|[RubenRBS](https://github.com/RubenRBS)|Jul 4|:memo: seadex-essentials|2|czoido, prince-chrismc
+[#18318](https://github.com/conan-io/conan-center-index/pull/18318)|[RubenRBS](https://github.com/RubenRBS)|Jul 4|:memo: seadex-essentials|:green_circle: XS|3|Jul 4|prince-chrismc|czoido
 
 
 #### :clipboard: Statistics
@@ -166,10 +156,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 296
+	- Open: 295
 	- Draft: 37
-	- Average Age: 78 days, 3 hours, and 36.82 minutes
-	- Stop Label: 120
+	- Average Age: 78 days, 10 hours, and 55.74 minutes
+	- Stop Label: 121
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
