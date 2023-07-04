@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **96** pull requests currently under way :detective:
+There are **97** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -123,6 +123,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18300](https://github.com/conan-io/conan-center-index/pull/18300)|[toge](https://github.com/toge)|Jul 3|:memo: mongo-c-driver|M|0|||
 [#18306](https://github.com/conan-io/conan-center-index/pull/18306)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 3|:stopwatch: docs|:blue_square: S|0|||
 [#18307](https://github.com/conan-io/conan-center-index/pull/18307)|[dheater](https://github.com/dheater)|Jul 4|:stopwatch: pkgconf|:blue_square: S|0|||
+[#18308](https://github.com/conan-io/conan-center-index/pull/18308)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 4|:stopwatch: ffmpeg|:blue_square: S|0|||
 
 
 #### :clipboard: Statistics
@@ -131,9 +132,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 253
+	- Open: 254
 	- Draft: 33
-	- Average Age: 91 days, 11 hours, and 56.46 minutes
+	- Average Age: 91 days, 4 hours, and 22.82 minutes
 	- Stop Label: 108
 	
 
