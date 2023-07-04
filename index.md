@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **121** pull requests currently under way :detective:
+There are **122** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -148,6 +148,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18313](https://github.com/conan-io/conan-center-index/pull/18313)|[Cogitri](https://github.com/Cogitri)|Jul 4|:stopwatch: turtle|:green_circle: XS|1|Jul 4||
 [#18316](https://github.com/conan-io/conan-center-index/pull/18316)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 4|:memo: inih|:blue_square: S|0|||
 [#18318](https://github.com/conan-io/conan-center-index/pull/18318)|[RubenRBS](https://github.com/RubenRBS)|Jul 4|:memo: seadex-essentials|:green_circle: XS|3|Jul 4|prince-chrismc|czoido
+[#18322](https://github.com/conan-io/conan-center-index/pull/18322)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 4|:green_book: docs|:blue_square: S|0|||
 
 
 #### :clipboard: Statistics
@@ -156,9 +157,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 295
+	- Open: 296
 	- Draft: 37
-	- Average Age: 78 days, 10 hours, and 55.74 minutes
+	- Average Age: 78 days, 5 hours, and 34.69 minutes
 	- Stop Label: 121
 	
 
