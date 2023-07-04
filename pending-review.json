@@ -1014,8 +1014,8 @@
       "LastCommitAt": "2023-06-28T10:01:55Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
+         "Count": 6,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
@@ -1025,13 +1025,17 @@
             {
                "Name": "CJCombrink",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "CJCombrink",
-            "SubmittedAt": "2023-07-04T11:01:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17859#pullrequestreview-1512649470"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-07-04T17:09:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17859#pullrequestreview-1513211705"
          }
       }
    },
@@ -1103,7 +1107,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17892",
       "LastCommitSHA": "7dd436610c9d294577f4cf2f6f311d9f04f4a25c",
       "LastCommitAt": "2023-07-04T14:12:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1268,8 +1272,8 @@
       "LastCommitAt": "2023-06-28T12:08:41Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
+         "Count": 8,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             {
@@ -1283,13 +1287,17 @@
             {
                "Name": "CJCombrink",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "CJCombrink",
-            "SubmittedAt": "2023-07-04T11:03:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17942#pullrequestreview-1512653083"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-07-04T17:09:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17942#pullrequestreview-1513211811"
          }
       }
    },
@@ -2607,19 +2615,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18308",
-      "LastCommitSHA": "94e0d4a078e83a94ff4f405f74497721b43cdc25",
-      "LastCommitAt": "2023-07-04T05:58:50Z",
+      "LastCommitSHA": "c8cd69b59556cd833b3998c354cd43b90f0615ad",
+      "LastCommitAt": "2023-07-04T16:55:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "CJCombrink",
-               "Tier": "unofficial"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "CJCombrink",
