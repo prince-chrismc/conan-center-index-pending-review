@@ -1771,7 +1771,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18194",
       "LastCommitSHA": "1f7d29207d704a30f8064384b4e6534b93b21a25",
       "LastCommitAt": "2023-07-03T21:11:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2763,25 +2763,6 @@
             "SubmittedAt": "2023-07-04T14:53:24Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18318#pullrequestreview-1513060212"
          }
-      }
-   },
-   {
-      "Number": 18320,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2023-07-04T17:14:55Z",
-      "Recipe": "libunwind",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18320",
-      "LastCommitSHA": "12c3432b326faa7b19863c7409a62104510f1502",
-      "LastCommitAt": "2023-07-04T17:14:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
