@@ -1592,15 +1592,20 @@
       "LastCommitAt": "2023-07-04T04:39:29Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-06-30T20:08:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18154#pullrequestreview-1507833463"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-07-04T07:02:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18154#pullrequestreview-1512201478"
          }
       }
    },
@@ -2024,20 +2029,24 @@
       "LastCommitAt": "2023-07-02T14:37:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-03T11:36:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18285#pullrequestreview-1511012120"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-07-04T06:30:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18285#pullrequestreview-1512150671"
          }
       }
    },
@@ -2129,20 +2138,24 @@
       "LastCommitAt": "2023-07-03T07:48:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-03T11:10:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18295#pullrequestreview-1510971404"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-07-04T06:30:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18295#pullrequestreview-1512150336"
          }
       }
    },
@@ -2154,8 +2167,27 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18297",
-      "LastCommitSHA": "ecd23c342d1799cf389b60c6e17dcd58d23dfac7",
-      "LastCommitAt": "2023-07-03T09:51:23Z",
+      "LastCommitSHA": "4f4680572c75846a5adef9da47f0e367d31d1edd",
+      "LastCommitAt": "2023-07-04T06:35:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18299,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-07-03T14:45:05Z",
+      "Recipe": "snowhouse",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18299",
+      "LastCommitSHA": "6db6ef2cc0513ec4555205972e7bc83ffb415520",
+      "LastCommitAt": "2023-07-03T14:44:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2196,11 +2228,21 @@
       "LastCommitAt": "2023-07-03T22:04:58Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-07-04T06:31:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18306#pullrequestreview-1512152095"
+         }
       }
    },
    {
