@@ -1436,7 +1436,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18107",
       "LastCommitSHA": "033fd593a59e0c5ed8dc8e1d7caca52c15c1b965",
       "LastCommitAt": "2023-07-03T21:11:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1714,7 +1714,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18190",
       "LastCommitSHA": "b2a6267adfb85c73918c5d0f6774e96901a5f5f4",
       "LastCommitAt": "2023-07-03T21:37:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2748,20 +2748,24 @@
       "LastCommitAt": "2023-07-04T10:53:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "czoido",
                "Tier": "team"
+            },
+            {
+               "Name": "prince-chrismc",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-04T14:53:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18318#pullrequestreview-1513060212"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-07-04T20:12:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18318#pullrequestreview-1513358893"
          }
       }
    }
