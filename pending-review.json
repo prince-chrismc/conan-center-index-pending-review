@@ -2202,5 +2202,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18307,
+      "OpenedBy": "dheater",
+      "CreatedAt": "2023-07-04T02:32:02Z",
+      "Recipe": "pkgconf",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18307",
+      "LastCommitSHA": "e4ebb9199ef51a8598829e145b8ace9d09661661",
+      "LastCommitAt": "2023-07-04T02:25:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
