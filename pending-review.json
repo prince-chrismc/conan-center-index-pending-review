@@ -990,9 +990,9 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17825",
-      "LastCommitSHA": "8b7a3e6141ae7bf6ddf371ecd7b44f5cb941139b",
-      "LastCommitAt": "2023-06-30T12:29:15Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "cba804dcbeb6afd52e77ca6e34f6a3637aea87e3",
+      "LastCommitAt": "2023-07-05T20:55:09Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1594,30 +1594,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2023-06-30T08:42:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18108#pullrequestreview-1506774654"
-         }
-      }
-   },
-   {
-      "Number": 18117,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-06-28T21:04:41Z",
-      "Recipe": "dtl",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18117",
-      "LastCommitSHA": "7a1d0b6f86c43049f7aa850570dea316e1e05acc",
-      "LastCommitAt": "2023-07-03T21:37:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2023-06-30T01:42:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18117#pullrequestreview-1506339400"
          }
       }
    },
@@ -2510,11 +2486,21 @@
       "LastCommitAt": "2023-07-03T21:37:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-07-05T21:00:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18224#pullrequestreview-1515358605"
+         }
       }
    },
    {
@@ -3325,39 +3311,6 @@
       }
    },
    {
-      "Number": 18335,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2023-07-05T12:07:36Z",
-      "Recipe": "tclap",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18335",
-      "LastCommitSHA": "f6006a87c734a2b4f5530602f69eed49c8f307ca",
-      "LastCommitAt": "2023-07-05T16:21:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-07-05T18:47:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18335#pullrequestreview-1515131625"
-         }
-      }
-   },
-   {
       "Number": 18341,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-05T16:08:23Z",
@@ -3579,25 +3532,6 @@
       }
    },
    {
-      "Number": 18353,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-05T19:08:34Z",
-      "Recipe": "tcsbank-uconfig",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18353",
-      "LastCommitSHA": "08fb4fa7fb00d1ebe182540b174b97ea9ab93fb9",
-      "LastCommitAt": "2023-07-03T21:37:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18355,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-05T19:09:52Z",
@@ -3607,13 +3541,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18355",
       "LastCommitSHA": "69105f3d6467d14b6bc2bf70d42ce3ad17db7b3b",
       "LastCommitAt": "2023-07-03T21:37:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-07-05T20:58:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18355#pullrequestreview-1515355626"
+         }
       }
    },
    {
@@ -3712,13 +3656,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18361",
       "LastCommitSHA": "bec0f3d76f7316a3cf8ffaba01f9e848f63a6f7d",
       "LastCommitAt": "2023-07-03T21:37:39Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-07-05T20:57:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18361#pullrequestreview-1515354482"
+         }
       }
    },
    {
