@@ -2757,37 +2757,6 @@
       }
    },
    {
-      "Number": 18318,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-07-04T13:57:19Z",
-      "Recipe": "seadex-essentials",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18318",
-      "LastCommitSHA": "41d703c4a94561e71cc5d6cf65618d25c40aedea",
-      "LastCommitAt": "2023-07-04T10:53:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": [
-            "prince-chrismc"
-         ],
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-07-04T20:17:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18318#pullrequestreview-1513368758"
-         }
-      }
-   },
-   {
       "Number": 18322,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-07-04T22:04:47Z",
