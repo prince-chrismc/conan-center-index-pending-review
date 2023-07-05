@@ -1510,11 +1510,21 @@
       "LastCommitAt": "2023-06-29T11:09:19Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-07-05T01:10:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18138#pullrequestreview-1513524927"
+         }
       }
    },
    {
@@ -1673,11 +1683,21 @@
       "LastCommitAt": "2023-07-03T21:37:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-07-05T01:01:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18167#pullrequestreview-1513520248"
+         }
       }
    },
    {
@@ -2593,6 +2613,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18300",
       "LastCommitSHA": "f6f7dbb6a0f5d4d33e9d6003a180be8d0f774ab6",
       "LastCommitAt": "2023-07-03T15:01:38Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18301,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-03T15:44:22Z",
+      "Recipe": "fastgltf",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18301",
+      "LastCommitSHA": "6bd1148ae9dc05c4b38ce85e51d8d354bed32ad6",
+      "LastCommitAt": "2023-07-04T06:09:21Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
