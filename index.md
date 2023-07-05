@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **154** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -161,7 +161,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18308](https://github.com/conan-io/conan-center-index/pull/18308)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 4|:memo: ffmpeg|:blue_square: S|2|Jul 5||jwillikers
 [#18313](https://github.com/conan-io/conan-center-index/pull/18313)|[Cogitri](https://github.com/Cogitri)|Jul 4|:stopwatch: turtle|:green_circle: XS|1|Jul 4||
 [#18316](https://github.com/conan-io/conan-center-index/pull/18316)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 4|:memo: inih|:blue_square: S|0|||
-[#18332](https://github.com/conan-io/conan-center-index/pull/18332)|[Sneder89](https://github.com/Sneder89)|Jul 5|:memo: cppcheck|:blue_square: S|1|Jul 5||MartinDelille
 [#18333](https://github.com/conan-io/conan-center-index/pull/18333)|[jcar87](https://github.com/jcar87)|Jul 5|:memo: bison|:green_circle: XS|1|Jul 5||jwillikers
 [#18341](https://github.com/conan-io/conan-center-index/pull/18341)|[valgur](https://github.com/valgur)|Jul 5|:memo: dice-template-library|L|1|Jul 5||memsharded
 [#18342](https://github.com/conan-io/conan-center-index/pull/18342)|[valgur](https://github.com/valgur)|Jul 5|:memo: serdepp|L|1|Jul 5||memsharded
@@ -171,16 +170,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18348](https://github.com/conan-io/conan-center-index/pull/18348)|[valgur](https://github.com/valgur)|Jul 5|:memo: type_safe|L|1|Jul 5||memsharded
 [#18349](https://github.com/conan-io/conan-center-index/pull/18349)|[valgur](https://github.com/valgur)|Jul 5|:memo: pranav-csv2|L|1|Jul 5||memsharded
 [#18351](https://github.com/conan-io/conan-center-index/pull/18351)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 5|:stopwatch: qt|:green_circle: XS|0|||
-[#18352](https://github.com/conan-io/conan-center-index/pull/18352)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: si|L|0|||
 [#18355](https://github.com/conan-io/conan-center-index/pull/18355)|[valgur](https://github.com/valgur)|Jul 5|:memo: zug|L|1|Jul 5||RubenRBS
 [#18356](https://github.com/conan-io/conan-center-index/pull/18356)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: so5extra|L|0|||
 [#18357](https://github.com/conan-io/conan-center-index/pull/18357)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: simple-yaml|L|0|||
 [#18358](https://github.com/conan-io/conan-center-index/pull/18358)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 5|:stopwatch: freetype|:green_circle: XS|1|Jul 5||RubenRBS
 [#18359](https://github.com/conan-io/conan-center-index/pull/18359)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: troldal-zippy|L|0|||
 [#18361](https://github.com/conan-io/conan-center-index/pull/18361)|[valgur](https://github.com/valgur)|Jul 5|:memo: xxsds-sdsl-lite|L|1|Jul 5||RubenRBS
-[#18362](https://github.com/conan-io/conan-center-index/pull/18362)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: simple-websocket-server|L|0|||
 [#18363](https://github.com/conan-io/conan-center-index/pull/18363)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: structopt|L|0|||
 [#18364](https://github.com/conan-io/conan-center-index/pull/18364)|[wbehrens-on-gh](https://github.com/wbehrens-on-gh)|Jul 5|:stopwatch: ffmpeg|:green_circle: XS|0|||
+[#18365](https://github.com/conan-io/conan-center-index/pull/18365)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 5|:green_book: docs|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -193,7 +191,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17108](https://github.com/conan-io/conan-center-index/pull/17108)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-auth|3|jwillikers, [mpimenov](https://github.com/mpimenov), uilianries
 [#17505](https://github.com/conan-io/conan-center-index/pull/17505)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|May 10|:new: seadex-genesis|5|czoido, jwillikers
 [#17859](https://github.com/conan-io/conan-center-index/pull/17859)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:warning: qt|8|jwillikers, [CJCombrink](https://github.com/CJCombrink), SSE4, jcar87, RubenRBS
-[#17881](https://github.com/conan-io/conan-center-index/pull/17881)|[fcorso2016](https://github.com/fcorso2016)|Jun 9|:new: whisper-cpp|7|RubenRBS, czoido, franramirez688
+[#18332](https://github.com/conan-io/conan-center-index/pull/18332)|[Sneder89](https://github.com/Sneder89)|Jul 5|:memo: cppcheck|2|MartinDelille, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -204,7 +202,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 349
 	- Draft: 38
-	- Average Age: 67 days, 2 hours, and 34.28 minutes
+	- Average Age: 67 days, 1 hours, and 47.22 minutes
 	- Stop Label: 131
 	
 
