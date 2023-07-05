@@ -1617,19 +1617,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18154",
-      "LastCommitSHA": "edf55c8182d7973e582ec1953bfeb189f5241be8",
-      "LastCommitAt": "2023-07-04T04:39:29Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "d113e6452c92db8ea78707d74da3ffd9b4f78d40",
+      "LastCommitAt": "2023-07-05T06:08:14Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -1759,6 +1754,25 @@
       "LastCommitSHA": "b2a6267adfb85c73918c5d0f6774e96901a5f5f4",
       "LastCommitAt": "2023-07-03T21:37:25Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18191,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-30T12:41:08Z",
+      "Recipe": "async_simple",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18191",
+      "LastCommitSHA": "f479a36dcd23a8ee5e6f83edb2b97919173e9a07",
+      "LastCommitAt": "2023-07-03T21:11:19Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2819,15 +2833,15 @@
       }
    },
    {
-      "Number": 18325,
+      "Number": 18326,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-07-05T06:20:28Z",
-      "Recipe": "opentelemetry-proto",
+      "CreatedAt": "2023-07-05T06:47:36Z",
+      "Recipe": "cjson",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18325",
-      "LastCommitSHA": "9d94073f192d090154cab36cd1f47419672690c3",
-      "LastCommitAt": "2023-07-05T06:19:18Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18326",
+      "LastCommitSHA": "a58af9fb7882782828892954fc6dcc26944256eb",
+      "LastCommitAt": "2023-07-05T06:47:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
