@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **122** pull requests currently under way :detective:
+There are **125** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -84,6 +84,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18058](https://github.com/conan-io/conan-center-index/pull/18058)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: m4|:blue_square: S|1|Jun 26||jwillikers
 [#18059](https://github.com/conan-io/conan-center-index/pull/18059)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: autoconf|:green_circle: XS|1|Jun 26||jwillikers
 [#18088](https://github.com/conan-io/conan-center-index/pull/18088)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 27|:stopwatch: libtool|:blue_square: S|0|:eyes:||
+[#18090](https://github.com/conan-io/conan-center-index/pull/18090)|[valgur](https://github.com/valgur)|Jun 27|:stopwatch: boostdep|L|1|Jun 28||
 [#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:memo: arrow|:blue_square: S|0|:eyes:||
 [#18107](https://github.com/conan-io/conan-center-index/pull/18107)|[valgur](https://github.com/valgur)|Jun 28|:memo: opentelemetry-proto|M|1|Jun 29||
 [#18108](https://github.com/conan-io/conan-center-index/pull/18108)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: ua-nodeset|M|4|Jun 30||
@@ -149,6 +150,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18313](https://github.com/conan-io/conan-center-index/pull/18313)|[Cogitri](https://github.com/Cogitri)|Jul 4|:stopwatch: turtle|:green_circle: XS|1|Jul 4||
 [#18316](https://github.com/conan-io/conan-center-index/pull/18316)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 4|:memo: inih|:blue_square: S|0|||
 [#18322](https://github.com/conan-io/conan-center-index/pull/18322)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 4|:green_book: docs|:blue_square: S|0|||
+[#18324](https://github.com/conan-io/conan-center-index/pull/18324)|[toge](https://github.com/toge)|Jul 5|:stopwatch: uvw|:blue_square: S|0|||
+[#18325](https://github.com/conan-io/conan-center-index/pull/18325)|[toge](https://github.com/toge)|Jul 5|:stopwatch: opentelemetry-proto|:green_circle: XS|0|||
 
 
 #### :clipboard: Statistics
@@ -157,10 +160,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 295
-	- Draft: 37
-	- Average Age: 78 days, 18 hours, and 55.02 minutes
-	- Stop Label: 120
+	- Open: 302
+	- Draft: 38
+	- Average Age: 77 days, 2 hours, and 59.57 minutes
+	- Stop Label: 123
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
