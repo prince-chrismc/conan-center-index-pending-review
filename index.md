@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **133** pull requests currently under way :detective:
+There are **135** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -152,19 +152,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18351](https://github.com/conan-io/conan-center-index/pull/18351)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 5|:stopwatch: qt|:green_circle: XS|0|||
 [#18356](https://github.com/conan-io/conan-center-index/pull/18356)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: so5extra|L|0|||
 [#18357](https://github.com/conan-io/conan-center-index/pull/18357)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: simple-yaml|L|0|||
-[#18359](https://github.com/conan-io/conan-center-index/pull/18359)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: troldal-zippy|L|0|||
+[#18359](https://github.com/conan-io/conan-center-index/pull/18359)|[valgur](https://github.com/valgur)|Jul 5|:memo: troldal-zippy|L|1|Jul 6||RubenRBS
 [#18363](https://github.com/conan-io/conan-center-index/pull/18363)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: structopt|L|0|||
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:stopwatch: openssl|:blue_square: S|0|||
 [#18368](https://github.com/conan-io/conan-center-index/pull/18368)|[toge](https://github.com/toge)|Jul 6|:stopwatch: zxing-cpp|:blue_square: S|0|||
-[#18369](https://github.com/conan-io/conan-center-index/pull/18369)|[jalapenopuzzle](https://github.com/jalapenopuzzle)|Jul 6|:memo: json-schema-validator|:green_circle: XS|0|||
+[#18369](https://github.com/conan-io/conan-center-index/pull/18369)|[jalapenopuzzle](https://github.com/jalapenopuzzle)|Jul 6|:stopwatch: json-schema-validator|:green_circle: XS|0|||
 [#18373](https://github.com/conan-io/conan-center-index/pull/18373)|[ssrobins](https://github.com/ssrobins)|Jul 6|:memo: sfml|:green_circle: XS|0|||
 [#18377](https://github.com/conan-io/conan-center-index/pull/18377)|[toge](https://github.com/toge)|Jul 6|:stopwatch: type_safe|:blue_square: S|1|Jul 6||RubenRBS
 [#18378](https://github.com/conan-io/conan-center-index/pull/18378)|[gjasny](https://github.com/gjasny)|Jul 6|:stopwatch: benchmark|:green_circle: XS|0|||
+[#18380](https://github.com/conan-io/conan-center-index/pull/18380)|[danimtb](https://github.com/danimtb)|Jul 6|:stopwatch: mingw-builds|M|0|||
+[#18381](https://github.com/conan-io/conan-center-index/pull/18381)|[ylatuya](https://github.com/ylatuya)|Jul 6|:stopwatch: libtool|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **16** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -185,9 +187,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18190](https://github.com/conan-io/conan-center-index/pull/18190)|[valgur](https://github.com/valgur)|Jun 30|:memo: astc-codec|2|RubenRBS, czoido
 [#18201](https://github.com/conan-io/conan-center-index/pull/18201)|[valgur](https://github.com/valgur)|Jun 30|:memo: happly|2|RubenRBS, czoido
 [#18208](https://github.com/conan-io/conan-center-index/pull/18208)|[valgur](https://github.com/valgur)|Jun 30|:memo: flatbush|2|RubenRBS, czoido
-[#18224](https://github.com/conan-io/conan-center-index/pull/18224)|[valgur](https://github.com/valgur)|Jul 1|:memo: pretty-name|2|RubenRBS, czoido
-[#18333](https://github.com/conan-io/conan-center-index/pull/18333)|[jcar87](https://github.com/jcar87)|Jul 5|:memo: bison|2|jwillikers, czoido
-[#18343](https://github.com/conan-io/conan-center-index/pull/18343)|[valgur](https://github.com/valgur)|Jul 5|:memo: libdivide|4|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -196,9 +195,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 344
+	- Open: 343
 	- Draft: 38
-	- Average Age: 68 days, 4 hours, and 44.00 minutes
+	- Average Age: 68 days, 9 hours, and 58.07 minutes
 	- Stop Label: 132
 	
 
