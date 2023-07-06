@@ -2812,8 +2812,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18378",
-      "LastCommitSHA": "b5a5518e5041962f5cb67145994d41a56c89a950",
-      "LastCommitAt": "2023-07-06T15:11:57Z",
+      "LastCommitSHA": "4f07e58ad5a7c29bb3b0db6ee3bc6729dca593c5",
+      "LastCommitAt": "2023-07-06T22:27:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -2898,25 +2898,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18382",
       "LastCommitSHA": "b4d9366f34857ef251c450be0827cfaebecf10c1",
       "LastCommitAt": "2023-07-06T11:38:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18383,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-07-06T11:39:17Z",
-      "Recipe": "hwloc",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18383",
-      "LastCommitSHA": "0fbbb545add208a1c9068508befeba235637c86f",
-      "LastCommitAt": "2023-07-06T21:27:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
