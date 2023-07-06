@@ -155,7 +155,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18373](https://github.com/conan-io/conan-center-index/pull/18373)|[ssrobins](https://github.com/ssrobins)|Jul 6|:memo: sfml|:green_circle: XS|0|||
 [#18378](https://github.com/conan-io/conan-center-index/pull/18378)|[gjasny](https://github.com/gjasny)|Jul 6|:stopwatch: benchmark|:green_circle: XS|1|Jul 6||jwillikers
 [#18380](https://github.com/conan-io/conan-center-index/pull/18380)|[danimtb](https://github.com/danimtb)|Jul 6|:memo: mingw-builds|M|2|Jul 6||
-[#18381](https://github.com/conan-io/conan-center-index/pull/18381)|[ylatuya](https://github.com/ylatuya)|Jul 6|:stopwatch: libtool|:green_circle: XS|1|Jul 6||jwillikers
+[#18381](https://github.com/conan-io/conan-center-index/pull/18381)|[ylatuya](https://github.com/ylatuya)|Jul 6|:stopwatch: libtool|:green_circle: XS|2|Jul 6|jcar87|jwillikers
 [#18382](https://github.com/conan-io/conan-center-index/pull/18382)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 6|:stopwatch: .c3i|:green_circle: XS|0|||
 [#18383](https://github.com/conan-io/conan-center-index/pull/18383)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jul 6|:stopwatch: hwloc|:green_circle: XS|0|||
 [#18385](https://github.com/conan-io/conan-center-index/pull/18385)|[jcar87](https://github.com/jcar87)|Jul 6|:stopwatch: aaf|:green_circle: XS|0|||
@@ -163,14 +163,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16920](https://github.com/conan-io/conan-center-index/pull/16920)|[gjasny](https://github.com/gjasny)|Apr 6|:memo: binutils|5|uilianries, jwillikers
 [#17108](https://github.com/conan-io/conan-center-index/pull/17108)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:warning: aws-c-auth|3|jwillikers, [mpimenov](https://github.com/mpimenov), uilianries
-[#17110](https://github.com/conan-io/conan-center-index/pull/17110)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:warning: aws-c-event-stream|4|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS, czoido
+[#17110](https://github.com/conan-io/conan-center-index/pull/17110)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-event-stream|4|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS, czoido
 [#17111](https://github.com/conan-io/conan-center-index/pull/17111)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-mqtt|4|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS, czoido
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:warning: armadillo|2|memsharded, jcar87
 [#18046](https://github.com/conan-io/conan-center-index/pull/18046)|[valgur](https://github.com/valgur)|Jun 24|:memo: darknet|4|memsharded, czoido
@@ -179,8 +179,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18182](https://github.com/conan-io/conan-center-index/pull/18182)|[valgur](https://github.com/valgur)|Jun 30|:memo: arcus|3|RubenRBS, czoido
 [#18183](https://github.com/conan-io/conan-center-index/pull/18183)|[valgur](https://github.com/valgur)|Jun 30|:memo: argh|3|RubenRBS, czoido
 [#18184](https://github.com/conan-io/conan-center-index/pull/18184)|[valgur](https://github.com/valgur)|Jun 30|:memo: argparse|2|RubenRBS, czoido
-[#18185](https://github.com/conan-io/conan-center-index/pull/18185)|[valgur](https://github.com/valgur)|Jun 30|:memo: argtable2|2|RubenRBS, czoido
-[#18377](https://github.com/conan-io/conan-center-index/pull/18377)|[toge](https://github.com/toge)|Jul 6|:warning: type_safe|2|RubenRBS, jwillikers
+[#18377](https://github.com/conan-io/conan-center-index/pull/18377)|[toge](https://github.com/toge)|Jul 6|:memo: type_safe|2|RubenRBS, jwillikers
 
 
 #### :clipboard: Statistics
@@ -189,9 +188,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 339
+	- Open: 338
 	- Draft: 38
-	- Average Age: 69 days, 2 hours, and 37.33 minutes
+	- Average Age: 69 days, 7 hours, and 49.31 minutes
 	- Stop Label: 133
 	
 
