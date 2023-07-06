@@ -177,7 +177,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -186,7 +186,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17110](https://github.com/conan-io/conan-center-index/pull/17110)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-event-stream|3|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS
 [#17111](https://github.com/conan-io/conan-center-index/pull/17111)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-mqtt|3|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS
 [#17505](https://github.com/conan-io/conan-center-index/pull/17505)|[Seadex-GmbH](https://github.com/Seadex-GmbH)|May 10|:new: seadex-genesis|5|czoido, jwillikers
-[#17859](https://github.com/conan-io/conan-center-index/pull/17859)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 7|:warning: qt|8|jwillikers, [CJCombrink](https://github.com/CJCombrink), SSE4, jcar87, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -195,9 +194,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 343
+	- Open: 342
 	- Draft: 37
-	- Average Age: 68 days, 6 hours, and 53.08 minutes
+	- Average Age: 68 days, 9 hours, and 48.18 minutes
 	- Stop Label: 131
 	
 
