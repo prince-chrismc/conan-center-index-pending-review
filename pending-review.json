@@ -605,39 +605,6 @@
       }
    },
    {
-      "Number": 17320,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-04-30T02:48:18Z",
-      "Recipe": "armadillo",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17320",
-      "LastCommitSHA": "0db85327d81c834769227ffab96b9754005cecf2",
-      "LastCommitAt": "2023-07-04T10:45:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            },
-            {
-               "Name": "jcar87",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-07-06T09:31:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17320#pullrequestreview-1516139767"
-         }
-      }
-   },
-   {
       "Number": 17338,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-05-01T14:26:26Z",
@@ -1306,39 +1273,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18046,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-06-24T07:20:01Z",
-      "Recipe": "darknet",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18046",
-      "LastCommitSHA": "396b8cceb944737e52d704fd85f988e3889e7d3c",
-      "LastCommitAt": "2023-07-05T18:00:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-06T08:34:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18046#pullrequestreview-1516037833"
-         }
       }
    },
    {
