@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **134** pull requests currently under way :detective:
+There are **133** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -86,7 +86,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18158](https://github.com/conan-io/conan-center-index/pull/18158)|[valgur](https://github.com/valgur)|Jun 30|:memo: nudb|L|0|||
 [#18163](https://github.com/conan-io/conan-center-index/pull/18163)|[trns1997](https://github.com/trns1997)|Jun 30|:stopwatch: kickcat|M|0|||
 [#18164](https://github.com/conan-io/conan-center-index/pull/18164)|[Hopobcn](https://github.com/Hopobcn)|Jun 30|:memo: cpuinfo|M|0|:eyes:||
-[#18166](https://github.com/conan-io/conan-center-index/pull/18166)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: aaf|:blue_square: S|3|Jul 6|jcar87|MartinDelille
 [#18170](https://github.com/conan-io/conan-center-index/pull/18170)|[valgur](https://github.com/valgur)|Jun 30|:memo: aggeom-agg|L|0|||
 [#18171](https://github.com/conan-io/conan-center-index/pull/18171)|[Tobulus](https://github.com/Tobulus)|Jun 30|:memo: libgpiod|L|1|Jul 4||
 [#18173](https://github.com/conan-io/conan-center-index/pull/18173)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: alembic|:green_circle: XS|0|||
@@ -165,7 +164,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -176,9 +175,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17111](https://github.com/conan-io/conan-center-index/pull/17111)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-mqtt|4|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS, czoido
 [#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:warning: armadillo|2|memsharded, jcar87
 [#18046](https://github.com/conan-io/conan-center-index/pull/18046)|[valgur](https://github.com/valgur)|Jun 24|:memo: darknet|4|memsharded, czoido
-[#18168](https://github.com/conan-io/conan-center-index/pull/18168)|[valgur](https://github.com/valgur)|Jun 30|:memo: ade|2|RubenRBS, czoido
-[#18182](https://github.com/conan-io/conan-center-index/pull/18182)|[valgur](https://github.com/valgur)|Jun 30|:memo: arcus|3|RubenRBS, czoido
-[#18183](https://github.com/conan-io/conan-center-index/pull/18183)|[valgur](https://github.com/valgur)|Jun 30|:memo: argh|3|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -187,9 +183,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 335
+	- Open: 331
 	- Draft: 38
-	- Average Age: 70 days, 1 hours, and 23.04 minutes
+	- Average Age: 70 days, 20 hours, and 47.33 minutes
 	- Stop Label: 132
 	
 
