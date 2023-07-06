@@ -1022,7 +1022,7 @@
       "LastCommitAt": "2023-07-04T14:12:23Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
@@ -1033,9 +1033,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2023-07-04T17:48:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17892#pullrequestreview-1513251930"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-07-06T06:16:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17892#pullrequestreview-1515830425"
          }
       }
    },
