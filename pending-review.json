@@ -3142,8 +3142,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18367",
-      "LastCommitSHA": "f8f8b9745be6983004570f88bd02169aa0953b4c",
-      "LastCommitAt": "2023-07-06T00:30:28Z",
+      "LastCommitSHA": "54c237ebf72e41a051d6fe6be799cfb3d8abfc3f",
+      "LastCommitAt": "2023-07-06T16:16:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -3218,39 +3218,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18377,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-06T09:23:04Z",
-      "Recipe": "type_safe",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18377",
-      "LastCommitSHA": "d9fce48030804f34f5ce261b2ee292b198355504",
-      "LastCommitAt": "2023-07-06T09:22:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-07-06T12:50:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18377#pullrequestreview-1516473758"
-         }
       }
    },
    {
@@ -3404,6 +3371,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18386",
       "LastCommitSHA": "806c450359fcc2c404423d9101e4261d9515ccc2",
       "LastCommitAt": "2023-07-06T15:11:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18387,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-06T15:22:22Z",
+      "Recipe": "highway",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18387",
+      "LastCommitSHA": "c5deb7addf16f1428223cd9d22da71be6b195a17",
+      "LastCommitAt": "2023-07-06T15:21:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
