@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **133** pull requests currently under way :detective:
+There are **134** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -98,8 +98,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18188](https://github.com/conan-io/conan-center-index/pull/18188)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: asio|:blue_square: S|0|||
 [#18192](https://github.com/conan-io/conan-center-index/pull/18192)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: atk|:blue_square: S|0|||
 [#18193](https://github.com/conan-io/conan-center-index/pull/18193)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: audiofile|:blue_square: S|0|||
-[#18194](https://github.com/conan-io/conan-center-index/pull/18194)|[valgur](https://github.com/valgur)|Jun 30|:memo: autoconf|:blue_square: S|0|||
-[#18195](https://github.com/conan-io/conan-center-index/pull/18195)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: automake|:blue_square: S|0|||
+[#18194](https://github.com/conan-io/conan-center-index/pull/18194)|[valgur](https://github.com/valgur)|Jun 30|:memo: autoconf|:blue_square: S|0|:eyes:||
+[#18195](https://github.com/conan-io/conan-center-index/pull/18195)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: automake|:blue_square: S|0|:eyes:||
 [#18202](https://github.com/conan-io/conan-center-index/pull/18202)|[valgur](https://github.com/valgur)|Jun 30|:memo: fernandovelcic-hexdump|M|0|||
 [#18205](https://github.com/conan-io/conan-center-index/pull/18205)|[valgur](https://github.com/valgur)|Jun 30|:memo: maddy|L|0|||
 [#18209](https://github.com/conan-io/conan-center-index/pull/18209)|[valgur](https://github.com/valgur)|Jun 30|:memo: enhex-strong_type|L|0|||
@@ -160,30 +160,29 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18385](https://github.com/conan-io/conan-center-index/pull/18385)|[jcar87](https://github.com/jcar87)|Jul 6|:memo: aaf|:green_circle: XS|0|||
 [#18386](https://github.com/conan-io/conan-center-index/pull/18386)|[toge](https://github.com/toge)|Jul 6|:stopwatch: capstone|:blue_square: S|0|||
 [#18387](https://github.com/conan-io/conan-center-index/pull/18387)|[toge](https://github.com/toge)|Jul 6|:stopwatch: highway|:blue_square: S|0|||
+[#18388](https://github.com/conan-io/conan-center-index/pull/18388)|[dheater](https://github.com/dheater)|Jul 6|:stopwatch: libssh2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#16920](https://github.com/conan-io/conan-center-index/pull/16920)|[gjasny](https://github.com/gjasny)|Apr 6|:memo: binutils|5|uilianries, jwillikers
 [#17108](https://github.com/conan-io/conan-center-index/pull/17108)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:warning: aws-c-auth|3|jwillikers, [mpimenov](https://github.com/mpimenov), uilianries
-[#17110](https://github.com/conan-io/conan-center-index/pull/17110)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-event-stream|4|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS, czoido
-[#17111](https://github.com/conan-io/conan-center-index/pull/17111)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-mqtt|4|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS, czoido
 
 
 #### :clipboard: Statistics
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
+- Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 329
+	- Open: 328
 	- Draft: 38
-	- Average Age: 71 days, 2 hours, and 20.25 minutes
+	- Average Age: 70 days, 20 hours, and 57.28 minutes
 	- Stop Label: 132
 	
 
