@@ -164,7 +164,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -173,8 +173,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17108](https://github.com/conan-io/conan-center-index/pull/17108)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:warning: aws-c-auth|3|jwillikers, [mpimenov](https://github.com/mpimenov), uilianries
 [#17110](https://github.com/conan-io/conan-center-index/pull/17110)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-event-stream|4|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS, czoido
 [#17111](https://github.com/conan-io/conan-center-index/pull/17111)|[SpaceIm](https://github.com/SpaceIm)|Apr 18|:memo: aws-c-mqtt|4|jwillikers, [mpimenov](https://github.com/mpimenov), RubenRBS, czoido
-[#17320](https://github.com/conan-io/conan-center-index/pull/17320)|[samuel-emrys](https://github.com/samuel-emrys)|Apr 30|:warning: armadillo|2|memsharded, jcar87
-[#18046](https://github.com/conan-io/conan-center-index/pull/18046)|[valgur](https://github.com/valgur)|Jun 24|:memo: darknet|4|memsharded, czoido
 
 
 #### :clipboard: Statistics
@@ -183,9 +181,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74fa0aa3f92f15b462cfba76cfcf8af7d5bbdb69
 - Pull Requests:
-	- Open: 331
+	- Open: 329
 	- Draft: 38
-	- Average Age: 70 days, 20 hours, and 47.33 minutes
+	- Average Age: 71 days, 2 hours, and 20.25 minutes
 	- Stop Label: 132
 	
 
