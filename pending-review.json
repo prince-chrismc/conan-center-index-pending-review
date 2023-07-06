@@ -3472,5 +3472,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18370,
+      "OpenedBy": "jalapenopuzzle",
+      "CreatedAt": "2023-07-06T04:15:01Z",
+      "Recipe": "nlohmann_json",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18370",
+      "LastCommitSHA": "4b3a5a4c6facfff87c5065cab916aedd2fef58cd",
+      "LastCommitAt": "2023-07-06T04:10:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
