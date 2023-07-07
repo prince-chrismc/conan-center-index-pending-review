@@ -893,37 +893,6 @@
       }
    },
    {
-      "Number": 17849,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-06-06T22:10:35Z",
-      "Recipe": "zookeeper-client-c",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17849",
-      "LastCommitSHA": "70156530b20f7d6cd577100e5ad0ea6b45a68db6",
-      "LastCommitAt": "2023-07-07T08:48:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": [
-            "RubenRBS"
-         ],
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-07-07T12:18:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17849#pullrequestreview-1518711210"
-         }
-      }
-   },
-   {
       "Number": 17882,
       "OpenedBy": "PeteAudinate",
       "CreatedAt": "2023-06-09T19:58:26Z",
@@ -2838,6 +2807,44 @@
             "SubmittedAt": "2023-07-07T16:44:09Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18410#pullrequestreview-1519289963"
          }
+      }
+   },
+   {
+      "Number": 18411,
+      "OpenedBy": "kletoz",
+      "CreatedAt": "2023-07-07T20:34:53Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18411",
+      "LastCommitSHA": "77e1eddad5f023cfcce68cbdb2d8b1638494e2b1",
+      "LastCommitAt": "2023-07-07T20:26:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18412,
+      "OpenedBy": "wadehunk",
+      "CreatedAt": "2023-07-07T21:09:24Z",
+      "Recipe": "cyclonedds",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18412",
+      "LastCommitSHA": "0925bd647371c78e5160e6dfda9ad9e85cd49615",
+      "LastCommitAt": "2023-07-07T21:07:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
