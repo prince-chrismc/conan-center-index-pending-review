@@ -2587,11 +2587,21 @@
       "LastCommitAt": "2023-07-04T11:29:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SpaceIm",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-07-07T06:25:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18316#pullrequestreview-1518023541"
+         }
       }
    },
    {
@@ -2912,44 +2922,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18387",
       "LastCommitSHA": "c5deb7addf16f1428223cd9d22da71be6b195a17",
       "LastCommitAt": "2023-07-06T15:21:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18394,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-07-07T04:52:40Z",
-      "Recipe": "glib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18394",
-      "LastCommitSHA": "4edea1183a8493dccc9cd69f7c25e1dadfbba21e",
-      "LastCommitAt": "2023-07-07T01:31:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18395,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-07T06:13:55Z",
-      "Recipe": "inih",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18395",
-      "LastCommitSHA": "d077d4655c8df3a42b04e46e4418103efe04cd99",
-      "LastCommitAt": "2023-07-07T06:13:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
