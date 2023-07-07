@@ -2441,39 +2441,6 @@
       }
    },
    {
-      "Number": 18307,
-      "OpenedBy": "dheater",
-      "CreatedAt": "2023-07-04T02:32:02Z",
-      "Recipe": "pkgconf",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18307",
-      "LastCommitSHA": "196d5c6a013bde83e660bf6f3844767f6a1ad5c8",
-      "LastCommitAt": "2023-07-05T19:21:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-07-06T12:50:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18307#pullrequestreview-1516472698"
-         }
-      }
-   },
-   {
       "Number": 18313,
       "OpenedBy": "Cogitri",
       "CreatedAt": "2023-07-04T08:49:38Z",
@@ -2494,35 +2461,6 @@
             "ReviewerName": "jcar87",
             "SubmittedAt": "2023-07-04T09:15:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18313#pullrequestreview-1512450803"
-         }
-      }
-   },
-   {
-      "Number": 18316,
-      "OpenedBy": "maksim-petukhov",
-      "CreatedAt": "2023-07-04T11:39:45Z",
-      "Recipe": "inih",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18316",
-      "LastCommitSHA": "6bab30fd26d1d4b7e8fa9604c89f5f63b318314b",
-      "LastCommitAt": "2023-07-04T11:29:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "SpaceIm",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-07-07T06:25:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18316#pullrequestreview-1518023541"
          }
       }
    },
@@ -2629,39 +2567,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18359,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-05T19:32:44Z",
-      "Recipe": "troldal-zippy",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18359",
-      "LastCommitSHA": "05b34cf669e7b4b9d04d8b77ba514640bf351c6a",
-      "LastCommitAt": "2023-07-06T08:27:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-07-07T16:51:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18359#pullrequestreview-1519298841"
-         }
       }
    },
    {
