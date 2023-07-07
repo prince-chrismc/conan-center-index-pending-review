@@ -2879,49 +2879,16 @@
       }
    },
    {
-      "Number": 18403,
+      "Number": 18405,
       "OpenedBy": "jcar87",
-      "CreatedAt": "2023-07-07T12:24:32Z",
-      "Recipe": "charls",
+      "CreatedAt": "2023-07-07T13:10:37Z",
+      "Recipe": "cpputest",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18403",
-      "LastCommitSHA": "0751ca86e8874159fa1195dbb9a80b618c507146",
-      "LastCommitAt": "2023-07-07T12:22:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-07-07T13:56:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18403#pullrequestreview-1518967728"
-         }
-      }
-   },
-   {
-      "Number": 18407,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-07T14:29:54Z",
-      "Recipe": "etl",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18407",
-      "LastCommitSHA": "234c05b7ed1a1659863c1353ab4a0a2452a20ade",
-      "LastCommitAt": "2023-07-07T14:29:20Z",
-      "CciBotPassed": false,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18405",
+      "LastCommitSHA": "c7d4e2d19de8b4148a47b3cb97deaa1978ac2002",
+      "LastCommitAt": "2023-07-07T13:45:03Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2931,15 +2898,15 @@
       }
    },
    {
-      "Number": 18408,
+      "Number": 18409,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-07-07T15:02:15Z",
-      "Recipe": "clipper2",
-      "Change": 0,
+      "CreatedAt": "2023-07-07T15:22:31Z",
+      "Recipe": "joltphysics",
+      "Change": 1,
       "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18408",
-      "LastCommitSHA": "6f1e8021c21ec25398113fb0441fb81dfc096636",
-      "LastCommitAt": "2023-07-07T15:00:54Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18409",
+      "LastCommitSHA": "6169c28afc49d66d1d23fa83162e94da79d6ee78",
+      "LastCommitAt": "2023-07-07T15:21:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
