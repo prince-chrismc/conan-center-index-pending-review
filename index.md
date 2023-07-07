@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **127** pull requests currently under way :detective:
+There are **130** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -150,21 +150,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18381](https://github.com/conan-io/conan-center-index/pull/18381)|[ylatuya](https://github.com/ylatuya)|Jul 6|:stopwatch: libtool|:green_circle: XS|2|Jul 6|jcar87|jwillikers
 [#18382](https://github.com/conan-io/conan-center-index/pull/18382)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 6|:gear: .c3i|:green_circle: XS|1|Jul 7||RubenRBS
 [#18387](https://github.com/conan-io/conan-center-index/pull/18387)|[toge](https://github.com/toge)|Jul 6|:stopwatch: highway|:blue_square: S|0|||
-[#18395](https://github.com/conan-io/conan-center-index/pull/18395)|[toge](https://github.com/toge)|Jul 7|:memo: inih|:blue_square: S|0|||
+[#18395](https://github.com/conan-io/conan-center-index/pull/18395)|[toge](https://github.com/toge)|Jul 7|:memo: inih|:blue_square: S|1|Jul 7||RubenRBS
 [#18400](https://github.com/conan-io/conan-center-index/pull/18400)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 7|:stopwatch: openmvg|:blue_square: S|2|Jul 7||
-[#18402](https://github.com/conan-io/conan-center-index/pull/18402)|[joakimono](https://github.com/joakimono)|Jul 7|:stopwatch: ois|L|0|||
+[#18402](https://github.com/conan-io/conan-center-index/pull/18402)|[joakimono](https://github.com/joakimono)|Jul 7|:memo: ois|L|0|||
 [#18403](https://github.com/conan-io/conan-center-index/pull/18403)|[jcar87](https://github.com/jcar87)|Jul 7|:stopwatch: charls|:green_circle: XS|1|Jul 7||RubenRBS
-
-
-### :heavy_check_mark: Ready to Merge 
-
-Currently **2** pull requests are waiting to be merged :tada:
-
-
-PR | By | Opened | Recipe | Reviews | :star2: Approvers
-:---: | --- | --- | --- | :---: | ---
-[#18368](https://github.com/conan-io/conan-center-index/pull/18368)|[toge](https://github.com/toge)|Jul 6|:memo: zxing-cpp|2|jcar87, RubenRBS
-[#18380](https://github.com/conan-io/conan-center-index/pull/18380)|[danimtb](https://github.com/danimtb)|Jul 6|:memo: mingw-builds|4|RubenRBS, jcar87
+[#18404](https://github.com/conan-io/conan-center-index/pull/18404)|[Cogitri](https://github.com/Cogitri)|Jul 7|:stopwatch: qt|:green_circle: XS|0|||
+[#18405](https://github.com/conan-io/conan-center-index/pull/18405)|[jcar87](https://github.com/jcar87)|Jul 7|:stopwatch: cpputest|:blue_square: S|0|||
+[#18406](https://github.com/conan-io/conan-center-index/pull/18406)|[amrox](https://github.com/amrox)|Jul 7|:stopwatch: zug|:green_circle: XS|0|||
 
 
 #### :clipboard: Statistics
@@ -173,9 +165,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 325
+	- Open: 326
 	- Draft: 42
-	- Average Age: 72 days, and 46.09 minutes
+	- Average Age: 71 days, 20 hours, and 9.53 minutes
 	- Stop Label: 133
 	
 
