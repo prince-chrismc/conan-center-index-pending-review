@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **125** pull requests currently under way :detective:
+There are **127** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -62,6 +62,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17699](https://github.com/conan-io/conan-center-index/pull/17699)|[weatherhead99](https://github.com/weatherhead99)|May 25|:memo: extra-cmake-modules|L|5|Jun 28||
 [#17707](https://github.com/conan-io/conan-center-index/pull/17707)|[kevswims](https://github.com/kevswims)|May 25|:new: foxglove-schemas-protobuf|M|10|Jul 6||jcar87
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|1|Jun 27||
+[#17849](https://github.com/conan-io/conan-center-index/pull/17849)|[toge](https://github.com/toge)|Jun 6|:new: zookeeper-client-c|M|3|Jul 7|RubenRBS|franramirez688
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|1|Jun 25||jwillikers
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|:eyes:||
@@ -69,7 +70,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17916](https://github.com/conan-io/conan-center-index/pull/17916)|[patmantru](https://github.com/patmantru)|Jun 12|:stopwatch: opentdf-client|:blue_square: S|1|Jun 14 :bell:||
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|L|2|Jun 25||jwillikers
 [#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:memo: gtsam|XL|1|Jun 28||jwillikers
-[#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|11|Jul 7||
 [#17971](https://github.com/conan-io/conan-center-index/pull/17971)|[toge](https://github.com/toge)|Jun 19|:memo: c-blosc2|L|5|Jul 6||franramirez688
 [#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:memo: metis|XL|1|Jun 28||jwillikers
 [#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: gdal|L|0|:eyes:||
@@ -145,13 +145,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18357](https://github.com/conan-io/conan-center-index/pull/18357)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: simple-yaml|L|0|:eyes:||
 [#18359](https://github.com/conan-io/conan-center-index/pull/18359)|[valgur](https://github.com/valgur)|Jul 5|:memo: troldal-zippy|L|2|Jul 6||RubenRBS
 [#18363](https://github.com/conan-io/conan-center-index/pull/18363)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: structopt|L|0|:eyes:||
+[#18366](https://github.com/conan-io/conan-center-index/pull/18366)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 5|:stopwatch: sdl_ttf|:blue_square: S|1|Jul 7||
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6||
-[#18368](https://github.com/conan-io/conan-center-index/pull/18368)|[toge](https://github.com/toge)|Jul 6|:memo: zxing-cpp|:blue_square: S|1|Jul 7||jcar87
-[#18380](https://github.com/conan-io/conan-center-index/pull/18380)|[danimtb](https://github.com/danimtb)|Jul 6|:memo: mingw-builds|M|2|Jul 6||
 [#18381](https://github.com/conan-io/conan-center-index/pull/18381)|[ylatuya](https://github.com/ylatuya)|Jul 6|:stopwatch: libtool|:green_circle: XS|2|Jul 6|jcar87|jwillikers
 [#18382](https://github.com/conan-io/conan-center-index/pull/18382)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 6|:gear: .c3i|:green_circle: XS|1|Jul 7||RubenRBS
 [#18387](https://github.com/conan-io/conan-center-index/pull/18387)|[toge](https://github.com/toge)|Jul 6|:stopwatch: highway|:blue_square: S|0|||
-[#18400](https://github.com/conan-io/conan-center-index/pull/18400)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 7|:stopwatch: openmvg|:blue_square: S|1|Jul 7||[valgur](https://github.com/valgur)
+[#18395](https://github.com/conan-io/conan-center-index/pull/18395)|[toge](https://github.com/toge)|Jul 7|:memo: inih|:blue_square: S|0|||
+[#18400](https://github.com/conan-io/conan-center-index/pull/18400)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 7|:stopwatch: openmvg|:blue_square: S|2|Jul 7||
+[#18402](https://github.com/conan-io/conan-center-index/pull/18402)|[joakimono](https://github.com/joakimono)|Jul 7|:stopwatch: ois|L|0|||
+[#18403](https://github.com/conan-io/conan-center-index/pull/18403)|[jcar87](https://github.com/jcar87)|Jul 7|:stopwatch: charls|:green_circle: XS|1|Jul 7||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -161,8 +163,8 @@ Currently **2** pull requests are waiting to be merged :tada:
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#17892](https://github.com/conan-io/conan-center-index/pull/17892)|[fcorso2016](https://github.com/fcorso2016)|Jun 10|:memo: openblas|12|czoido, franramirez688
-[#18158](https://github.com/conan-io/conan-center-index/pull/18158)|[valgur](https://github.com/valgur)|Jun 30|:memo: nudb|2|RubenRBS, jcar87
+[#18368](https://github.com/conan-io/conan-center-index/pull/18368)|[toge](https://github.com/toge)|Jul 6|:memo: zxing-cpp|2|jcar87, RubenRBS
+[#18380](https://github.com/conan-io/conan-center-index/pull/18380)|[danimtb](https://github.com/danimtb)|Jul 6|:memo: mingw-builds|4|RubenRBS, jcar87
 
 
 #### :clipboard: Statistics
@@ -171,10 +173,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 326
+	- Open: 325
 	- Draft: 42
-	- Average Age: 71 days, 21 hours, and 11.98 minutes
-	- Stop Label: 136
+	- Average Age: 72 days, and 46.09 minutes
+	- Stop Label: 133
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
