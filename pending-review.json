@@ -2704,6 +2704,30 @@
       }
    },
    {
+      "Number": 18369,
+      "OpenedBy": "jalapenopuzzle",
+      "CreatedAt": "2023-07-06T03:14:12Z",
+      "Recipe": "json-schema-validator",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18369",
+      "LastCommitSHA": "06163062d5561e80a7ba24bcd21c08571c714ac8",
+      "LastCommitAt": "2023-07-07T13:12:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-07-07T10:05:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18369#pullrequestreview-1518492011"
+         }
+      }
+   },
+   {
       "Number": 18381,
       "OpenedBy": "ylatuya",
       "CreatedAt": "2023-07-06T11:12:50Z",
@@ -2843,9 +2867,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18402",
-      "LastCommitSHA": "5222b2a053223a9605d50834133100bb25034286",
-      "LastCommitAt": "2023-07-07T11:09:51Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a26777b5bd55125f495aa9b336b9007c3ff8af44",
+      "LastCommitAt": "2023-07-07T14:36:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2888,15 +2912,34 @@
       }
    },
    {
-      "Number": 18406,
-      "OpenedBy": "amrox",
-      "CreatedAt": "2023-07-07T13:22:26Z",
-      "Recipe": "zug",
+      "Number": 18407,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-07T14:29:54Z",
+      "Recipe": "etl",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18406",
-      "LastCommitSHA": "b157aa758b241f547943824a33ea2de6c6c3dbf1",
-      "LastCommitAt": "2023-07-07T13:30:30Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18407",
+      "LastCommitSHA": "234c05b7ed1a1659863c1353ab4a0a2452a20ade",
+      "LastCommitAt": "2023-07-07T14:29:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18408,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-07T15:02:15Z",
+      "Recipe": "clipper2",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18408",
+      "LastCommitSHA": "6f1e8021c21ec25398113fb0441fb81dfc096636",
+      "LastCommitAt": "2023-07-07T15:00:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
