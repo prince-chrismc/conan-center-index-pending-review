@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **133** pull requests currently under way :detective:
+There are **134** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -152,7 +152,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6||
 [#18368](https://github.com/conan-io/conan-center-index/pull/18368)|[toge](https://github.com/toge)|Jul 6|:memo: zxing-cpp|:blue_square: S|0|||
 [#18369](https://github.com/conan-io/conan-center-index/pull/18369)|[jalapenopuzzle](https://github.com/jalapenopuzzle)|Jul 6|:stopwatch: json-schema-validator|:green_circle: XS|0|||
-[#18373](https://github.com/conan-io/conan-center-index/pull/18373)|[ssrobins](https://github.com/ssrobins)|Jul 6|:memo: sfml|:green_circle: XS|0|||
+[#18373](https://github.com/conan-io/conan-center-index/pull/18373)|[ssrobins](https://github.com/ssrobins)|Jul 6|:stopwatch: sfml|:green_circle: XS|0|||
 [#18380](https://github.com/conan-io/conan-center-index/pull/18380)|[danimtb](https://github.com/danimtb)|Jul 6|:memo: mingw-builds|M|2|Jul 6||
 [#18381](https://github.com/conan-io/conan-center-index/pull/18381)|[ylatuya](https://github.com/ylatuya)|Jul 6|:stopwatch: libtool|:green_circle: XS|2|Jul 6|jcar87|jwillikers
 [#18382](https://github.com/conan-io/conan-center-index/pull/18382)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 6|:stopwatch: .c3i|:green_circle: XS|0|||
@@ -160,6 +160,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18386](https://github.com/conan-io/conan-center-index/pull/18386)|[toge](https://github.com/toge)|Jul 6|:stopwatch: capstone|:blue_square: S|0|||
 [#18387](https://github.com/conan-io/conan-center-index/pull/18387)|[toge](https://github.com/toge)|Jul 6|:stopwatch: highway|:blue_square: S|0|||
 [#18388](https://github.com/conan-io/conan-center-index/pull/18388)|[dheater](https://github.com/dheater)|Jul 6|:memo: libssh2|:green_circle: XS|1|Jul 6||RubenRBS
+[#18393](https://github.com/conan-io/conan-center-index/pull/18393)|[toge](https://github.com/toge)|Jul 7|:stopwatch: simdjson|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -178,9 +179,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 330
+	- Open: 331
 	- Draft: 41
-	- Average Age: 70 days, 22 hours, and 50.30 minutes
+	- Average Age: 70 days, 18 hours, and 11.19 minutes
 	- Stop Label: 133
 	
 
