@@ -159,10 +159,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 322
+	- Open: 321
 	- Draft: 42
-	- Average Age: 73 days, 4 hours, and 13.64 minutes
-	- Stop Label: 132
+	- Average Age: 73 days, 11 hours, and 37.35 minutes
+	- Stop Label: 131
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
