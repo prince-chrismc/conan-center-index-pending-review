@@ -150,7 +150,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18400](https://github.com/conan-io/conan-center-index/pull/18400)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 7|:stopwatch: openmvg|:blue_square: S|2|Jul 7||
 [#18405](https://github.com/conan-io/conan-center-index/pull/18405)|[jcar87](https://github.com/jcar87)|Jul 7|:memo: cpputest|M|1|Jul 7||memsharded
 [#18409](https://github.com/conan-io/conan-center-index/pull/18409)|[toge](https://github.com/toge)|Jul 7|:stopwatch: joltphysics|L|0|||
-[#18411](https://github.com/conan-io/conan-center-index/pull/18411)|[kletoz](https://github.com/kletoz)|Jul 7|:stopwatch: android-ndk|:green_circle: XS|0|||
+[#18411](https://github.com/conan-io/conan-center-index/pull/18411)|[kletoz](https://github.com/kletoz)|Jul 7|:memo: android-ndk|:green_circle: XS|0|||
 
 
 #### :clipboard: Statistics
@@ -161,7 +161,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 322
 	- Draft: 42
-	- Average Age: 72 days, 23 hours, and 11.00 minutes
+	- Average Age: 73 days, 4 hours, and 13.64 minutes
 	- Stop Label: 132
 	
 
