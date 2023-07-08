@@ -88,7 +88,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18172](https://github.com/conan-io/conan-center-index/pull/18172)|[valgur](https://github.com/valgur)|Jun 30|:memo: alac|:blue_square: S|1|Jul 5|RubenRBS|
 [#18173](https://github.com/conan-io/conan-center-index/pull/18173)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: alembic|:green_circle: XS|0|:eyes:||
 [#18175](https://github.com/conan-io/conan-center-index/pull/18175)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
-[#18177](https://github.com/conan-io/conan-center-index/pull/18177)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: antlr4-cppruntime|:blue_square: S|0|:eyes:||
+[#18177](https://github.com/conan-io/conan-center-index/pull/18177)|[valgur](https://github.com/valgur)|Jun 30|:memo: antlr4-cppruntime|:blue_square: S|0|:eyes:||
 [#18178](https://github.com/conan-io/conan-center-index/pull/18178)|[valgur](https://github.com/valgur)|Jun 30|:memo: any-lite|:blue_square: S|0|:eyes:||
 [#18179](https://github.com/conan-io/conan-center-index/pull/18179)|[valgur](https://github.com/valgur)|Jun 30|:memo: anyrpc|:blue_square: S|0|:eyes:||
 [#18180](https://github.com/conan-io/conan-center-index/pull/18180)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: aravis|:blue_square: S|0|:eyes:||
@@ -122,7 +122,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18260](https://github.com/conan-io/conan-center-index/pull/18260)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: pipes|L|0|:eyes:||
 [#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.converters|L|0|:eyes:||
 [#18266](https://github.com/conan-io/conan-center-index/pull/18266)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.exceptions|L|0|:eyes:||
-[#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: redboltz-mqtt_cpp|L|0|:eyes:||
+[#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:memo: redboltz-mqtt_cpp|L|0|:eyes:||
 [#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:memo: seqan3|L|0|:eyes:||
 [#18277](https://github.com/conan-io/conan-center-index/pull/18277)|[toge](https://github.com/toge)|Jul 2|:memo: pbtools|L|0|:eyes:||
 [#18281](https://github.com/conan-io/conan-center-index/pull/18281)|[GenuineAster](https://github.com/GenuineAster)|Jul 2|:stopwatch: flecs|:green_circle: XS|0|:eyes:||
@@ -169,7 +169,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 319
 	- Draft: 42
-	- Average Age: 73 days, 21 hours, and 9.11 minutes
+	- Average Age: 73 days, 22 hours, and 6.45 minutes
 	- Stop Label: 131
 	
 
