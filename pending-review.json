@@ -748,7 +748,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17575",
       "LastCommitSHA": "bed83ccdda20caa57e85a78404ec9f1e836532c4",
       "LastCommitAt": "2023-05-25T13:42:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -840,39 +840,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-06-28T13:16:28Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17699#pullrequestreview-1503066981"
-         }
-      }
-   },
-   {
-      "Number": 17707,
-      "OpenedBy": "kevswims",
-      "CreatedAt": "2023-05-25T22:00:09Z",
-      "Recipe": "foxglove-schemas-protobuf",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17707",
-      "LastCommitSHA": "d526336fb4738f46a77e2184c6f55d8561e2371e",
-      "LastCommitAt": "2023-06-28T03:42:33Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jcar87",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-08T06:49:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17707#pullrequestreview-1520662195"
          }
       }
    },
@@ -1433,7 +1400,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18172",
       "LastCommitSHA": "88e23f65521724d61615ac8ffb74a1f0e2c512db",
       "LastCommitAt": "2023-07-08T07:16:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1516,7 +1483,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18178",
       "LastCommitSHA": "bd7635656bc41cd47cf0b67c34ee748bfd60ef55",
       "LastCommitAt": "2023-07-03T21:37:24Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
