@@ -92,7 +92,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18178](https://github.com/conan-io/conan-center-index/pull/18178)|[valgur](https://github.com/valgur)|Jun 30|:memo: any-lite|:blue_square: S|0|:eyes:||
 [#18179](https://github.com/conan-io/conan-center-index/pull/18179)|[valgur](https://github.com/valgur)|Jun 30|:memo: anyrpc|:blue_square: S|0|:eyes:||
 [#18180](https://github.com/conan-io/conan-center-index/pull/18180)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: aravis|:blue_square: S|0|:eyes:||
-[#18188](https://github.com/conan-io/conan-center-index/pull/18188)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: asio|:blue_square: S|0|:eyes:||
+[#18188](https://github.com/conan-io/conan-center-index/pull/18188)|[valgur](https://github.com/valgur)|Jun 30|:memo: asio|:blue_square: S|0|:eyes:||
 [#18192](https://github.com/conan-io/conan-center-index/pull/18192)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: atk|:blue_square: S|0|:eyes:||
 [#18193](https://github.com/conan-io/conan-center-index/pull/18193)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: audiofile|:blue_square: S|0|:eyes:||
 [#18194](https://github.com/conan-io/conan-center-index/pull/18194)|[valgur](https://github.com/valgur)|Jun 30|:memo: autoconf|:blue_square: S|0|:eyes:||
@@ -146,8 +146,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18402](https://github.com/conan-io/conan-center-index/pull/18402)|[joakimono](https://github.com/joakimono)|Jul 7|:memo: ois|L|1|Jul 7||
 [#18409](https://github.com/conan-io/conan-center-index/pull/18409)|[toge](https://github.com/toge)|Jul 7|:stopwatch: joltphysics|L|0|||
 [#18411](https://github.com/conan-io/conan-center-index/pull/18411)|[kletoz](https://github.com/kletoz)|Jul 7|:memo: android-ndk|:green_circle: XS|1|Jul 8||SSE4
-[#18415](https://github.com/conan-io/conan-center-index/pull/18415)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 8|:stopwatch: doxygen|:blue_square: S|0|||
-[#18416](https://github.com/conan-io/conan-center-index/pull/18416)|[mayeut](https://github.com/mayeut)|Jul 8|:stopwatch: libwebp|M|0|||
+[#18415](https://github.com/conan-io/conan-center-index/pull/18415)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 8|:memo: doxygen|:blue_square: S|0|||
+[#18416](https://github.com/conan-io/conan-center-index/pull/18416)|[mayeut](https://github.com/mayeut)|Jul 8|:memo: libwebp|M|0|||
 [#18417](https://github.com/conan-io/conan-center-index/pull/18417)|[mayeut](https://github.com/mayeut)|Jul 8|:stopwatch: libjpeg-turbo|:blue_square: S|0|||
 
 
@@ -169,7 +169,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 319
 	- Draft: 42
-	- Average Age: 73 days, 23 hours, and 21.04 minutes
+	- Average Age: 74 days, and 13.76 minutes
 	- Stop Label: 131
 	
 
