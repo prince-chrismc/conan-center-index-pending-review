@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **125** pull requests currently under way :detective:
+There are **129** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -149,9 +149,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18411](https://github.com/conan-io/conan-center-index/pull/18411)|[kletoz](https://github.com/kletoz)|Jul 7|:memo: android-ndk|:green_circle: XS|1|Jul 8||SSE4
 [#18415](https://github.com/conan-io/conan-center-index/pull/18415)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 8|:memo: doxygen|:blue_square: S|0|||
 [#18416](https://github.com/conan-io/conan-center-index/pull/18416)|[mayeut](https://github.com/mayeut)|Jul 8|:memo: libwebp|M|1|Jul 8||toge
-[#18417](https://github.com/conan-io/conan-center-index/pull/18417)|[mayeut](https://github.com/mayeut)|Jul 8|:memo: libjpeg-turbo|:blue_square: S|1|Jul 8||toge
+[#18417](https://github.com/conan-io/conan-center-index/pull/18417)|[mayeut](https://github.com/mayeut)|Jul 8|:stopwatch: libjpeg-turbo|:blue_square: S|2|Jul 8||
 [#18419](https://github.com/conan-io/conan-center-index/pull/18419)|[paulharris](https://github.com/paulharris)|Jul 8|:stopwatch: proj|:green_circle: XS|0|||
 [#18420](https://github.com/conan-io/conan-center-index/pull/18420)|[paulharris](https://github.com/paulharris)|Jul 8|:stopwatch: libharu|:green_circle: XS|0|||
+[#18421](https://github.com/conan-io/conan-center-index/pull/18421)|[psyinf](https://github.com/psyinf)|Jul 8|:stopwatch: vsgxchange|L|0|||
+[#18422](https://github.com/conan-io/conan-center-index/pull/18422)|[toge](https://github.com/toge)|Jul 8|:stopwatch: uni-algo|:green_circle: XS|0|||
+[#18423](https://github.com/conan-io/conan-center-index/pull/18423)|[fcorso2016](https://github.com/fcorso2016)|Jul 8|:stopwatch: onnx|:green_circle: XS|1|Jul 8||[Hopobcn](https://github.com/Hopobcn)
+[#18424](https://github.com/conan-io/conan-center-index/pull/18424)|[toge](https://github.com/toge)|Jul 8|:stopwatch: jsoncons|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -170,10 +174,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 322
+	- Open: 326
 	- Draft: 42
-	- Average Age: 73 days, 9 hours, and 34.57 minutes
-	- Stop Label: 130
+	- Average Age: 72 days, 13 hours, and 8.35 minutes
+	- Stop Label: 131
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
