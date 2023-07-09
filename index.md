@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **141** pull requests currently under way :detective:
+There are **137** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -141,7 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18356](https://github.com/conan-io/conan-center-index/pull/18356)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: so5extra|L|0|:eyes:||
 [#18357](https://github.com/conan-io/conan-center-index/pull/18357)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: simple-yaml|L|0|:eyes:||
 [#18363](https://github.com/conan-io/conan-center-index/pull/18363)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: structopt|L|0|:eyes:||
-[#18366](https://github.com/conan-io/conan-center-index/pull/18366)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 5|:memo: sdl_ttf|:blue_square: S|2|Jul 7||
+[#18366](https://github.com/conan-io/conan-center-index/pull/18366)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 5|:stopwatch: sdl_ttf|M|2|Jul 7||
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6||
 [#18369](https://github.com/conan-io/conan-center-index/pull/18369)|[jalapenopuzzle](https://github.com/jalapenopuzzle)|Jul 6|:stopwatch: json-schema-validator|:blue_square: S|5|Jul 7||
 [#18381](https://github.com/conan-io/conan-center-index/pull/18381)|[ylatuya](https://github.com/ylatuya)|Jul 6|:stopwatch: libtool|:green_circle: XS|2|Jul 6|jcar87|jwillikers
@@ -158,16 +158,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18419](https://github.com/conan-io/conan-center-index/pull/18419)|[paulharris](https://github.com/paulharris)|Jul 8|:memo: proj|:green_circle: XS|0|||
 [#18423](https://github.com/conan-io/conan-center-index/pull/18423)|[fcorso2016](https://github.com/fcorso2016)|Jul 8|:memo: onnx|:green_circle: XS|1|Jul 8||[Hopobcn](https://github.com/Hopobcn)
 [#18425](https://github.com/conan-io/conan-center-index/pull/18425)|[toge](https://github.com/toge)|Jul 8|:memo: msgpack-cxx|:blue_square: S|0|||
-[#18433](https://github.com/conan-io/conan-center-index/pull/18433)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:stopwatch: sentry-native|M|0|||
+[#18433](https://github.com/conan-io/conan-center-index/pull/18433)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:memo: sentry-native|M|0|||
 [#18436](https://github.com/conan-io/conan-center-index/pull/18436)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: proj|:green_circle: XS|0|||
-[#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:stopwatch: asio-grpc|:blue_square: S|0|||
-[#18439](https://github.com/conan-io/conan-center-index/pull/18439)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: opencv|:green_circle: XS|0|||
+[#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:memo: asio-grpc|:blue_square: S|0|||
 [#18441](https://github.com/conan-io/conan-center-index/pull/18441)|[mayeut](https://github.com/mayeut)|Jul 9|:memo: jxrlib|:green_circle: XS|0|||
-[#18442](https://github.com/conan-io/conan-center-index/pull/18442)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: libraw|:green_circle: XS|0|||
-[#18444](https://github.com/conan-io/conan-center-index/pull/18444)|[uilianries](https://github.com/uilianries)|Jul 9|:stopwatch: cnats|M|0|||
 [#18446](https://github.com/conan-io/conan-center-index/pull/18446)|[toge](https://github.com/toge)|Jul 9|:stopwatch: spdlog|:green_circle: XS|0|||
 [#18447](https://github.com/conan-io/conan-center-index/pull/18447)|[fpelliccioni](https://github.com/fpelliccioni)|Jul 9|:stopwatch: gmp|:green_circle: XS|0|||
-[#18448](https://github.com/conan-io/conan-center-index/pull/18448)|[toge](https://github.com/toge)|Jul 9|:stopwatch: sqlpp11|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -186,9 +182,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 340
+	- Open: 338
 	- Draft: 42
-	- Average Age: 70 days, 11 hours, and 30.02 minutes
+	- Average Age: 70 days, 22 hours, and 32.26 minutes
 	- Stop Label: 132
 	
 
