@@ -2758,7 +2758,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18408",
       "LastCommitSHA": "473ba2d64d910d87507828ad8478a7f84a949a24",
       "LastCommitAt": "2023-07-09T09:21:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2998,25 +2998,6 @@
       }
    },
    {
-      "Number": 18431,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T09:15:15Z",
-      "Recipe": "openimageio",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18431",
-      "LastCommitSHA": "a0f542e35aad822ec86b1f26c86749bff7e97ab4",
-      "LastCommitAt": "2023-07-09T09:13:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18432,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-07-09T09:19:26Z",
@@ -3140,6 +3121,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18440",
       "LastCommitSHA": "a727e7fd0a0bbea2d4bc17b7473242632d3cc022",
       "LastCommitAt": "2023-07-09T10:12:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18441,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-07-09T10:33:51Z",
+      "Recipe": "jxrlib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18441",
+      "LastCommitSHA": "b47ed0aaf416aeeb7b3904e4e2f873917d4d894c",
+      "LastCommitAt": "2023-07-09T10:33:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18442,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-07-09T10:36:31Z",
+      "Recipe": "libraw",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18442",
+      "LastCommitSHA": "bdb961d889510aae4ca3d7c1e2e262365f61411e",
+      "LastCommitAt": "2023-07-09T10:35:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
