@@ -2579,11 +2579,11 @@
       "CreatedAt": "2023-07-05T23:27:37Z",
       "Recipe": "sdl_ttf",
       "Change": 1,
-      "Weight": 1,
+      "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18366",
-      "LastCommitSHA": "79d38249dfa385f5fe133ea7c51fccc49483f95b",
-      "LastCommitAt": "2023-07-08T21:08:22Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "632e464c56d2cd56edb7d16e504d2a12463082de",
+      "LastCommitAt": "2023-07-09T16:15:50Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -3007,7 +3007,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18433",
       "LastCommitSHA": "eeabd505a1f18b6d054e7aadd986184907bf9da5",
       "LastCommitAt": "2023-07-09T09:20:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3045,26 +3045,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18437",
       "LastCommitSHA": "4eda290ed585f67cfe3840fad323c3a4eb79477b",
       "LastCommitAt": "2023-07-09T09:34:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18439,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T10:02:17Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18439",
-      "LastCommitSHA": "55cff462a658ef8980c5e5d0074648d49bcfd2ad",
-      "LastCommitAt": "2023-07-09T10:01:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3084,44 +3065,6 @@
       "LastCommitSHA": "b47ed0aaf416aeeb7b3904e4e2f873917d4d894c",
       "LastCommitAt": "2023-07-09T10:33:08Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18442,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T10:36:31Z",
-      "Recipe": "libraw",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18442",
-      "LastCommitSHA": "bdb961d889510aae4ca3d7c1e2e262365f61411e",
-      "LastCommitAt": "2023-07-09T10:35:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18444,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2023-07-09T13:02:25Z",
-      "Recipe": "cnats",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18444",
-      "LastCommitSHA": "c7b039202fa34bcb5b651a45986f3bb452ea7b12",
-      "LastCommitAt": "2023-07-09T13:01:22Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3159,25 +3102,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18447",
       "LastCommitSHA": "9fd9997be128eecdf77bf805b3fa13b06ebe1f9c",
       "LastCommitAt": "2023-07-09T15:03:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18448,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-09T15:12:23Z",
-      "Recipe": "sqlpp11",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18448",
-      "LastCommitSHA": "d6de1eda659871ca2a5df0f3d7ef4240b587096b",
-      "LastCommitAt": "2023-07-09T15:11:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
