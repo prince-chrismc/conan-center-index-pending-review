@@ -2979,25 +2979,6 @@
       }
    },
    {
-      "Number": 18430,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T09:11:12Z",
-      "Recipe": "pdfium",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18430",
-      "LastCommitSHA": "f700ec6ffd74cc0a1f82af8603ad443cb8ecdf22",
-      "LastCommitAt": "2023-07-09T09:10:34Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18432,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-07-09T09:19:26Z",
@@ -3026,25 +3007,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18433",
       "LastCommitSHA": "eeabd505a1f18b6d054e7aadd986184907bf9da5",
       "LastCommitAt": "2023-07-09T09:20:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18435,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-07-09T09:32:47Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18435",
-      "LastCommitSHA": "910dc4582134cbdda0ee3e239340fd31b587ee61",
-      "LastCommitAt": "2023-07-09T09:32:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
