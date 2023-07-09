@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **140** pull requests currently under way :detective:
+There are **138** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -157,10 +157,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18419](https://github.com/conan-io/conan-center-index/pull/18419)|[paulharris](https://github.com/paulharris)|Jul 8|:memo: proj|:green_circle: XS|0|||
 [#18423](https://github.com/conan-io/conan-center-index/pull/18423)|[fcorso2016](https://github.com/fcorso2016)|Jul 8|:memo: onnx|:green_circle: XS|1|Jul 8||[Hopobcn](https://github.com/Hopobcn)
 [#18425](https://github.com/conan-io/conan-center-index/pull/18425)|[toge](https://github.com/toge)|Jul 8|:memo: msgpack-cxx|:blue_square: S|0|||
-[#18430](https://github.com/conan-io/conan-center-index/pull/18430)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: pdfium|:blue_square: S|0|||
 [#18432](https://github.com/conan-io/conan-center-index/pull/18432)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: freeimage|:green_circle: XS|0|||
 [#18433](https://github.com/conan-io/conan-center-index/pull/18433)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:stopwatch: sentry-native|M|0|||
-[#18435](https://github.com/conan-io/conan-center-index/pull/18435)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
 [#18436](https://github.com/conan-io/conan-center-index/pull/18436)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: proj|:green_circle: XS|0|||
 [#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:stopwatch: asio-grpc|:blue_square: S|0|||
 [#18439](https://github.com/conan-io/conan-center-index/pull/18439)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: opencv|:green_circle: XS|0|||
@@ -187,8 +185,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 337
 	- Draft: 42
-	- Average Age: 70 days, 22 hours, and 32.07 minutes
-	- Stop Label: 132
+	- Average Age: 70 days, 23 hours, and 46.43 minutes
+	- Stop Label: 133
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
