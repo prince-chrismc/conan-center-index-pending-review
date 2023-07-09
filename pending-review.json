@@ -3020,6 +3020,25 @@
       }
    },
    {
+      "Number": 18443,
+      "OpenedBy": "EstebanDugueperoux2",
+      "CreatedAt": "2023-07-09T11:39:40Z",
+      "Recipe": "coin-utils",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18443",
+      "LastCommitSHA": "d12de6a2ef74cae1de45535cbbb74b9da020a2a9",
+      "LastCommitAt": "2023-07-09T19:56:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18447,
       "OpenedBy": "fpelliccioni",
       "CreatedAt": "2023-07-09T15:03:43Z",
@@ -3030,44 +3049,6 @@
       "LastCommitSHA": "9fd9997be128eecdf77bf805b3fa13b06ebe1f9c",
       "LastCommitAt": "2023-07-09T15:03:07Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18451,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T17:17:12Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18451",
-      "LastCommitSHA": "12b8587a22ac6dedab42abd4fa460e148a92eec9",
-      "LastCommitAt": "2023-07-09T17:15:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18455,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T18:01:30Z",
-      "Recipe": "leptonica",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18455",
-      "LastCommitSHA": "d8174b08f5bd995c761ce2854ff8d0a2658e731e",
-      "LastCommitAt": "2023-07-09T18:00:27Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
