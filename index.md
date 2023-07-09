@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **136** pull requests currently under way :detective:
+There are **135** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -160,9 +160,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18436](https://github.com/conan-io/conan-center-index/pull/18436)|[mayeut](https://github.com/mayeut)|Jul 9|:memo: proj|:green_circle: XS|0|||
 [#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:memo: asio-grpc|:blue_square: S|0|||
 [#18441](https://github.com/conan-io/conan-center-index/pull/18441)|[mayeut](https://github.com/mayeut)|Jul 9|:memo: jxrlib|:blue_square: S|0|||
+[#18443](https://github.com/conan-io/conan-center-index/pull/18443)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 9|:stopwatch: coin-utils|M|0|||
 [#18447](https://github.com/conan-io/conan-center-index/pull/18447)|[fpelliccioni](https://github.com/fpelliccioni)|Jul 9|:memo: gmp|:green_circle: XS|0|||
-[#18451](https://github.com/conan-io/conan-center-index/pull/18451)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: opencv|:green_circle: XS|0|||
-[#18455](https://github.com/conan-io/conan-center-index/pull/18455)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: leptonica|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -181,10 +180,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 339
+	- Open: 337
 	- Draft: 41
-	- Average Age: 70 days, 21 hours, and 36.70 minutes
-	- Stop Label: 136
+	- Average Age: 71 days, 8 hours, and 42.63 minutes
+	- Stop Label: 135
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
