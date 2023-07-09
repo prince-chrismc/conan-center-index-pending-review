@@ -2752,39 +2752,6 @@
       }
    },
    {
-      "Number": 18392,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-06T23:59:17Z",
-      "Recipe": "cpp-httplib",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18392",
-      "LastCommitSHA": "25b4947a651ce09c4de9fe46a34f6f2874fa46d5",
-      "LastCommitAt": "2023-07-09T01:13:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-09T19:09:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18392#pullrequestreview-1520947129"
-         }
-      }
-   },
-   {
       "Number": 18402,
       "OpenedBy": "joakimono",
       "CreatedAt": "2023-07-07T11:15:32Z",
@@ -2829,39 +2796,6 @@
             "ReviewerName": "valgur",
             "SubmittedAt": "2023-07-08T15:34:34Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18408#pullrequestreview-1520730517"
-         }
-      }
-   },
-   {
-      "Number": 18409,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-07T15:22:31Z",
-      "Recipe": "joltphysics",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18409",
-      "LastCommitSHA": "2a67819b1b2b36dade65eab7014eebf4218e22cc",
-      "LastCommitAt": "2023-07-08T15:14:06Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-09T19:09:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18409#pullrequestreview-1520947083"
          }
       }
    },
@@ -3166,25 +3100,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18451",
       "LastCommitSHA": "12b8587a22ac6dedab42abd4fa460e148a92eec9",
       "LastCommitAt": "2023-07-09T17:15:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18453,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T17:40:47Z",
-      "Recipe": "libvips",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18453",
-      "LastCommitSHA": "1f3244b59751b504948f0d05bca006df96e36aff",
-      "LastCommitAt": "2023-07-09T17:38:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
