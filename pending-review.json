@@ -102,15 +102,24 @@
       "LastCommitAt": "2023-07-07T19:50:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 14,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 16,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "memsharded",
+               "Tier": "team"
+            },
+            {
+               "Name": "samuel-emrys",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-07-07T19:24:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16095#pullrequestreview-1519640612"
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2023-07-09T22:34:43Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16095#pullrequestreview-1520976660"
          }
       }
    },
