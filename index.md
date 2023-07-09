@@ -61,7 +61,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
 [#17682](https://github.com/conan-io/conan-center-index/pull/17682)|[uilianries](https://github.com/uilianries)|May 24|:stopwatch: chaiscript|L|0|:eyes:||
 [#17699](https://github.com/conan-io/conan-center-index/pull/17699)|[weatherhead99](https://github.com/weatherhead99)|May 25|:memo: extra-cmake-modules|L|5|Jun 28||
-[#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|1|Jun 27||
+[#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|1|Jun 27 :bell:||
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|1|Jun 25 :bell:||jwillikers
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|:eyes:||
@@ -152,12 +152,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18409](https://github.com/conan-io/conan-center-index/pull/18409)|[toge](https://github.com/toge)|Jul 7|:memo: joltphysics|L|1|Jul 8||RubenRBS
 [#18411](https://github.com/conan-io/conan-center-index/pull/18411)|[kletoz](https://github.com/kletoz)|Jul 7|:memo: android-ndk|:green_circle: XS|1|Jul 8||SSE4
 [#18415](https://github.com/conan-io/conan-center-index/pull/18415)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 8|:memo: doxygen|:blue_square: S|0|||
-[#18416](https://github.com/conan-io/conan-center-index/pull/18416)|[mayeut](https://github.com/mayeut)|Jul 8|:memo: libwebp|M|2|Jul 9||toge, [EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
+[#18416](https://github.com/conan-io/conan-center-index/pull/18416)|[mayeut](https://github.com/mayeut)|Jul 8|:stopwatch: libwebp|M|2|Jul 9||toge, [EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#18417](https://github.com/conan-io/conan-center-index/pull/18417)|[mayeut](https://github.com/mayeut)|Jul 8|:memo: libjpeg-turbo|M|3|Jul 9||[valgur](https://github.com/valgur)
 [#18419](https://github.com/conan-io/conan-center-index/pull/18419)|[paulharris](https://github.com/paulharris)|Jul 8|:memo: proj|:green_circle: XS|0|||
 [#18423](https://github.com/conan-io/conan-center-index/pull/18423)|[fcorso2016](https://github.com/fcorso2016)|Jul 8|:memo: onnx|:green_circle: XS|1|Jul 8||[Hopobcn](https://github.com/Hopobcn)
 [#18425](https://github.com/conan-io/conan-center-index/pull/18425)|[toge](https://github.com/toge)|Jul 8|:memo: msgpack-cxx|:blue_square: S|0|||
-[#18432](https://github.com/conan-io/conan-center-index/pull/18432)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: freeimage|:green_circle: XS|0|||
 [#18433](https://github.com/conan-io/conan-center-index/pull/18433)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:stopwatch: sentry-native|M|0|||
 [#18436](https://github.com/conan-io/conan-center-index/pull/18436)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: proj|:green_circle: XS|0|||
 [#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:stopwatch: asio-grpc|:blue_square: S|0|||
@@ -165,6 +164,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18440](https://github.com/conan-io/conan-center-index/pull/18440)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: cairo|:green_circle: XS|0|||
 [#18441](https://github.com/conan-io/conan-center-index/pull/18441)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: jxrlib|:green_circle: XS|0|||
 [#18442](https://github.com/conan-io/conan-center-index/pull/18442)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: libraw|:green_circle: XS|0|||
+[#18444](https://github.com/conan-io/conan-center-index/pull/18444)|[uilianries](https://github.com/uilianries)|Jul 9|:stopwatch: cnats|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -185,7 +185,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 337
 	- Draft: 42
-	- Average Age: 70 days, 23 hours, and 46.43 minutes
+	- Average Age: 71 days, and 38.09 minutes
 	- Stop Label: 133
 	
 
