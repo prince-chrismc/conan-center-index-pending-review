@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **137** pull requests currently under way :detective:
+There are **143** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -161,9 +161,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18433](https://github.com/conan-io/conan-center-index/pull/18433)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:memo: sentry-native|M|0|||
 [#18436](https://github.com/conan-io/conan-center-index/pull/18436)|[mayeut](https://github.com/mayeut)|Jul 9|:memo: proj|:green_circle: XS|0|||
 [#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:memo: asio-grpc|:blue_square: S|0|||
-[#18441](https://github.com/conan-io/conan-center-index/pull/18441)|[mayeut](https://github.com/mayeut)|Jul 9|:memo: jxrlib|:green_circle: XS|0|||
+[#18441](https://github.com/conan-io/conan-center-index/pull/18441)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: jxrlib|:blue_square: S|0|||
 [#18447](https://github.com/conan-io/conan-center-index/pull/18447)|[fpelliccioni](https://github.com/fpelliccioni)|Jul 9|:memo: gmp|:green_circle: XS|0|||
-[#18449](https://github.com/conan-io/conan-center-index/pull/18449)|[valgur](https://github.com/valgur)|Jul 9|:stopwatch: openblas|:green_circle: XS|0|||
+[#18450](https://github.com/conan-io/conan-center-index/pull/18450)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: opencv|:blue_square: S|0|||
+[#18451](https://github.com/conan-io/conan-center-index/pull/18451)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: opencv|:green_circle: XS|0|||
+[#18452](https://github.com/conan-io/conan-center-index/pull/18452)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: pango|:green_circle: XS|0|||
+[#18453](https://github.com/conan-io/conan-center-index/pull/18453)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: libvips|:blue_square: S|0|||
+[#18454](https://github.com/conan-io/conan-center-index/pull/18454)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: sail|:green_circle: XS|0|||
+[#18455](https://github.com/conan-io/conan-center-index/pull/18455)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: leptonica|:green_circle: XS|0|||
+[#18456](https://github.com/conan-io/conan-center-index/pull/18456)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: librasterlite2|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -182,9 +188,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 337
+	- Open: 342
 	- Draft: 41
-	- Average Age: 71 days, 4 hours, and 29.51 minutes
+	- Average Age: 70 days, 4 hours, and 33.64 minutes
 	- Stop Label: 133
 	
 
