@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **133** pull requests currently under way :detective:
+There are **139** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -146,20 +146,26 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18369](https://github.com/conan-io/conan-center-index/pull/18369)|[jalapenopuzzle](https://github.com/jalapenopuzzle)|Jul 6|:stopwatch: json-schema-validator|:blue_square: S|5|Jul 7||
 [#18381](https://github.com/conan-io/conan-center-index/pull/18381)|[ylatuya](https://github.com/ylatuya)|Jul 6|:stopwatch: libtool|:green_circle: XS|2|Jul 6|jcar87|jwillikers
 [#18386](https://github.com/conan-io/conan-center-index/pull/18386)|[toge](https://github.com/toge)|Jul 6|:memo: capstone|M|0|||
-[#18389](https://github.com/conan-io/conan-center-index/pull/18389)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 6|:stopwatch: pcl|L|1|Jul 7||
 [#18392](https://github.com/conan-io/conan-center-index/pull/18392)|[toge](https://github.com/toge)|Jul 6|:memo: cpp-httplib|:blue_square: S|2|Jul 9||RubenRBS
 [#18402](https://github.com/conan-io/conan-center-index/pull/18402)|[joakimono](https://github.com/joakimono)|Jul 7|:memo: ois|L|1|Jul 7||
-[#18408](https://github.com/conan-io/conan-center-index/pull/18408)|[toge](https://github.com/toge)|Jul 7|:new: clipper2|L|1|Jul 8||
+[#18408](https://github.com/conan-io/conan-center-index/pull/18408)|[toge](https://github.com/toge)|Jul 7|:stopwatch: clipper2|L|1|Jul 8||
 [#18409](https://github.com/conan-io/conan-center-index/pull/18409)|[toge](https://github.com/toge)|Jul 7|:memo: joltphysics|L|1|Jul 8||RubenRBS
 [#18411](https://github.com/conan-io/conan-center-index/pull/18411)|[kletoz](https://github.com/kletoz)|Jul 7|:memo: android-ndk|:green_circle: XS|1|Jul 8||SSE4
 [#18415](https://github.com/conan-io/conan-center-index/pull/18415)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 8|:memo: doxygen|:blue_square: S|0|||
 [#18416](https://github.com/conan-io/conan-center-index/pull/18416)|[mayeut](https://github.com/mayeut)|Jul 8|:memo: libwebp|M|2|Jul 9||toge, [EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
+[#18417](https://github.com/conan-io/conan-center-index/pull/18417)|[mayeut](https://github.com/mayeut)|Jul 8|:memo: libjpeg-turbo|M|3|Jul 9||[valgur](https://github.com/valgur)
 [#18419](https://github.com/conan-io/conan-center-index/pull/18419)|[paulharris](https://github.com/paulharris)|Jul 8|:memo: proj|:green_circle: XS|0|||
 [#18423](https://github.com/conan-io/conan-center-index/pull/18423)|[fcorso2016](https://github.com/fcorso2016)|Jul 8|:memo: onnx|:green_circle: XS|1|Jul 8||[Hopobcn](https://github.com/Hopobcn)
 [#18425](https://github.com/conan-io/conan-center-index/pull/18425)|[toge](https://github.com/toge)|Jul 8|:memo: msgpack-cxx|:blue_square: S|0|||
-[#18428](https://github.com/conan-io/conan-center-index/pull/18428)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: opencv|:blue_square: S|0|||
-[#18429](https://github.com/conan-io/conan-center-index/pull/18429)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: imagemagick|:blue_square: S|0|||
 [#18430](https://github.com/conan-io/conan-center-index/pull/18430)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: pdfium|:blue_square: S|0|||
+[#18431](https://github.com/conan-io/conan-center-index/pull/18431)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: openimageio|:green_circle: XS|0|||
+[#18432](https://github.com/conan-io/conan-center-index/pull/18432)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: freeimage|:green_circle: XS|0|||
+[#18433](https://github.com/conan-io/conan-center-index/pull/18433)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:stopwatch: sentry-native|M|0|||
+[#18435](https://github.com/conan-io/conan-center-index/pull/18435)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
+[#18436](https://github.com/conan-io/conan-center-index/pull/18436)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: proj|:green_circle: XS|0|||
+[#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:stopwatch: asio-grpc|:blue_square: S|0|||
+[#18439](https://github.com/conan-io/conan-center-index/pull/18439)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: opencv|:green_circle: XS|0|||
+[#18440](https://github.com/conan-io/conan-center-index/pull/18440)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: cairo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -178,10 +184,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 327
-	- Draft: 41
-	- Average Age: 73 days, and 35.30 minutes
-	- Stop Label: 130
+	- Open: 336
+	- Draft: 42
+	- Average Age: 71 days, 2 hours, and 39.17 minutes
+	- Stop Label: 131
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
