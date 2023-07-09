@@ -2430,39 +2430,6 @@
       }
    },
    {
-      "Number": 18301,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-03T15:44:22Z",
-      "Recipe": "fastgltf",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18301",
-      "LastCommitSHA": "6bd1148ae9dc05c4b38ce85e51d8d354bed32ad6",
-      "LastCommitAt": "2023-07-04T06:09:21Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-09T19:10:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18301#pullrequestreview-1520947198"
-         }
-      }
-   },
-   {
       "Number": 18313,
       "OpenedBy": "Cogitri",
       "CreatedAt": "2023-07-04T08:49:38Z",
@@ -3043,7 +3010,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18441",
       "LastCommitSHA": "4d4a20e12ead99bc871e6c20e06f11ade3f9bac4",
       "LastCommitAt": "2023-07-09T18:04:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3072,25 +3039,6 @@
       }
    },
    {
-      "Number": 18450,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T17:16:40Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18450",
-      "LastCommitSHA": "11ed336f83b230a98287d117e211c92402b1dc1d",
-      "LastCommitAt": "2023-07-09T17:14:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18451,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-07-09T17:17:12Z",
@@ -3110,25 +3058,6 @@
       }
    },
    {
-      "Number": 18454,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T17:57:28Z",
-      "Recipe": "sail",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18454",
-      "LastCommitSHA": "90efc067183444a6c7e0e71a7a7a57eff77de05f",
-      "LastCommitAt": "2023-07-09T17:56:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18455,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-07-09T18:01:30Z",
@@ -3138,25 +3067,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18455",
       "LastCommitSHA": "d8174b08f5bd995c761ce2854ff8d0a2658e731e",
       "LastCommitAt": "2023-07-09T18:00:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18457,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T18:20:53Z",
-      "Recipe": "dlib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18457",
-      "LastCommitSHA": "8216385a19e96cdd7ba945b69759a21d45bc7e96",
-      "LastCommitAt": "2023-07-09T18:20:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
