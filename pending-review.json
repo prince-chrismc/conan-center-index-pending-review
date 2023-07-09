@@ -2653,6 +2653,25 @@
       }
    },
    {
+      "Number": 18386,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-06T15:12:16Z",
+      "Recipe": "capstone",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18386",
+      "LastCommitSHA": "1f508bf05e664748181d18426a34ea2976293090",
+      "LastCommitAt": "2023-07-09T01:09:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18392,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-06T23:59:17Z",
@@ -2662,19 +2681,22 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18392",
       "LastCommitSHA": "25b4947a651ce09c4de9fe46a34f6f2874fa46d5",
       "LastCommitAt": "2023-07-09T01:13:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "RubenRBS"
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
          ],
+         "Blockers": [],
          "LastReview": {
             "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-08T19:54:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18392#pullrequestreview-1520778425"
+            "SubmittedAt": "2023-07-09T01:27:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18392#pullrequestreview-1520830495"
          }
       }
    },
@@ -2770,7 +2792,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18415",
       "LastCommitSHA": "645e294d792cb7ab1b3ec2f2ee0f8945450a4cae",
       "LastCommitAt": "2023-07-08T09:41:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
