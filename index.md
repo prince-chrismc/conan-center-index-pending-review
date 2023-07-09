@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **135** pull requests currently under way :detective:
+There are **134** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -31,7 +31,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#14509](https://github.com/conan-io/conan-center-index/pull/14509)|[toge](https://github.com/toge)|Dec 1|:memo: cassandra-cpp-driver|XL|0|:eyes:||
 [#14916](https://github.com/conan-io/conan-center-index/pull/14916)|[System-Arch](https://github.com/System-Arch)|Dec 23|:stopwatch: isl|L|3|Dec 24 :bell:||
 [#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:stopwatch: qt|M|4|Feb 14 :bell:||
-[#16095](https://github.com/conan-io/conan-center-index/pull/16095)|[Pro](https://github.com/Pro)|Feb 17|:memo: cunit|L|14|Jul 7||
 [#16098](https://github.com/conan-io/conan-center-index/pull/16098)|[toge](https://github.com/toge)|Feb 17|:memo: protobuf|M|21|Jun 26 :bell:||[miklelappo](https://github.com/miklelappo), [coryan](https://github.com/coryan)
 [#16134](https://github.com/conan-io/conan-center-index/pull/16134)|[RazielXYZ](https://github.com/RazielXYZ)|Feb 19|:stopwatch: bgfx|L|5|Apr 28 :bell:||
 [#16222](https://github.com/conan-io/conan-center-index/pull/16222)|[System-Arch](https://github.com/System-Arch)|Feb 22|:stopwatch: boost|:blue_square: S|8|May 19 :bell:||
@@ -166,11 +165,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
+[#16095](https://github.com/conan-io/conan-center-index/pull/16095)|[Pro](https://github.com/Pro)|Feb 17|:memo: cunit|16|memsharded, samuel-emrys
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|7|uilianries, SSE4
 
 
@@ -180,9 +180,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 337
+	- Open: 336
 	- Draft: 41
-	- Average Age: 71 days, 8 hours, and 42.63 minutes
+	- Average Age: 71 days, 14 hours, and 47.81 minutes
 	- Stop Label: 135
 	
 
