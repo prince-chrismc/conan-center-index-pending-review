@@ -3032,5 +3032,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18458,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-10T01:47:13Z",
+      "Recipe": "libgit2",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18458",
+      "LastCommitSHA": "fd202668cc507108ecdef4f7abbb758cc95adca7",
+      "LastCommitAt": "2023-07-10T01:46:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
