@@ -1923,72 +1923,6 @@
       }
    },
    {
-      "Number": 18225,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-01T05:11:38Z",
-      "Recipe": "source_location",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18225",
-      "LastCommitSHA": "721429af7dd08cf71243a223d359bb08364d6733",
-      "LastCommitAt": "2023-07-03T21:37:37Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "davidsanfal",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "davidsanfal",
-            "SubmittedAt": "2023-07-10T06:41:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18225#pullrequestreview-1521347274"
-         }
-      }
-   },
-   {
-      "Number": 18226,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-01T05:13:29Z",
-      "Recipe": "inversify-cpp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18226",
-      "LastCommitSHA": "cee52f02df01c9bd0583fb5b3082e2ca674b3969",
-      "LastCommitAt": "2023-07-03T21:37:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "davidsanfal",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "davidsanfal",
-            "SubmittedAt": "2023-07-10T06:41:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18226#pullrequestreview-1521346912"
-         }
-      }
-   },
-   {
       "Number": 18228,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-01T05:13:57Z",
@@ -2014,39 +1948,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-07-10T08:54:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18228#pullrequestreview-1521599968"
-         }
-      }
-   },
-   {
-      "Number": 18229,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-01T05:44:56Z",
-      "Recipe": "tllist",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18229",
-      "LastCommitSHA": "197bc90fdc27d5da386f746168a5655020b839ae",
-      "LastCommitAt": "2023-07-03T21:37:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "davidsanfal",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "davidsanfal",
-            "SubmittedAt": "2023-07-10T06:41:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18229#pullrequestreview-1521345963"
          }
       }
    },
