@@ -2321,39 +2321,6 @@
       }
    },
    {
-      "Number": 18300,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-03T15:02:18Z",
-      "Recipe": "mongo-c-driver",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18300",
-      "LastCommitSHA": "f6f7dbb6a0f5d4d33e9d6003a180be8d0f774ab6",
-      "LastCommitAt": "2023-07-03T15:01:38Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-10T15:31:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18300#pullrequestreview-1522362121"
-         }
-      }
-   },
-   {
       "Number": 18313,
       "OpenedBy": "Cogitri",
       "CreatedAt": "2023-07-04T08:49:38Z",
@@ -2869,7 +2836,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18447",
       "LastCommitSHA": "64cf969a9ea3fe16afd3abea3712064992ae0c0e",
       "LastCommitAt": "2023-07-10T17:30:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
