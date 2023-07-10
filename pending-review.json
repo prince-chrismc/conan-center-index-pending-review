@@ -2502,35 +2502,6 @@
       }
    },
    {
-      "Number": 18366,
-      "OpenedBy": "prince-chrismc",
-      "CreatedAt": "2023-07-05T23:27:37Z",
-      "Recipe": "sdl_ttf",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18366",
-      "LastCommitSHA": "632e464c56d2cd56edb7d16e504d2a12463082de",
-      "LastCommitAt": "2023-07-09T16:15:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-10T05:23:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18366#pullrequestreview-1521235433"
-         }
-      }
-   },
-   {
       "Number": 18367,
       "OpenedBy": "gegles",
       "CreatedAt": "2023-07-06T00:50:52Z",
@@ -2555,36 +2526,22 @@
       }
    },
    {
-      "Number": 18386,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-06T15:12:16Z",
-      "Recipe": "capstone",
+      "Number": 18401,
+      "OpenedBy": "jcar87",
+      "CreatedAt": "2023-07-07T10:38:14Z",
+      "Recipe": "wt",
       "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18386",
-      "LastCommitSHA": "1f508bf05e664748181d18426a34ea2976293090",
-      "LastCommitAt": "2023-07-09T01:09:11Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18401",
+      "LastCommitSHA": "5828ae322539d3df87f55ad1bf1c48e9c7d946a2",
+      "LastCommitAt": "2023-07-10T13:35:00Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-10T15:31:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18386#pullrequestreview-1522363244"
-         }
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -2910,15 +2867,20 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18447",
-      "LastCommitSHA": "9fd9997be128eecdf77bf805b3fa13b06ebe1f9c",
-      "LastCommitAt": "2023-07-09T15:03:07Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "64cf969a9ea3fe16afd3abea3712064992ae0c0e",
+      "LastCommitAt": "2023-07-10T17:30:14Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-07-10T17:17:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18447#pullrequestreview-1522590008"
+         }
       }
    },
    {
@@ -2951,6 +2913,25 @@
       "LastCommitSHA": "870f04b59f56122dfa736471611d897de33fc62e",
       "LastCommitAt": "2023-07-10T11:38:17Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18472,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-10T18:02:20Z",
+      "Recipe": "quill",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18472",
+      "LastCommitSHA": "22e6074571a7dc8c4bf4d52440cf0b8cfed3f5de",
+      "LastCommitAt": "2023-07-10T18:01:44Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
