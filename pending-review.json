@@ -1149,6 +1149,39 @@
       }
    },
    {
+      "Number": 18028,
+      "OpenedBy": "keyboardspecialist",
+      "CreatedAt": "2023-06-22T18:57:49Z",
+      "Recipe": "proj",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18028",
+      "LastCommitSHA": "6a28f63615e73ce71c17554d85076bbb3ea02582",
+      "LastCommitAt": "2023-06-22T18:49:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            },
+            {
+               "Name": "jcar87",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-06-24T17:41:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18028#pullrequestreview-1496765971"
+         }
+      }
+   },
+   {
       "Number": 18058,
       "OpenedBy": "maksim-petukhov",
       "CreatedAt": "2023-06-26T11:18:08Z",
@@ -2604,6 +2637,30 @@
             "ReviewerName": "SSE4",
             "SubmittedAt": "2023-07-08T06:45:08Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18411#pullrequestreview-1520661825"
+         }
+      }
+   },
+   {
+      "Number": 18413,
+      "OpenedBy": "Sahnvour",
+      "CreatedAt": "2023-07-07T21:29:26Z",
+      "Recipe": "msdf-atlas-gen",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18413",
+      "LastCommitSHA": "5d3afb5c2f1913e02b1cfbb1d8a76a06c206d7e3",
+      "LastCommitAt": "2023-07-10T15:44:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-07-10T15:44:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18413#pullrequestreview-1522387483"
          }
       }
    },
