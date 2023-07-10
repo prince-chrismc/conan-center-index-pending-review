@@ -1606,39 +1606,6 @@
       }
    },
    {
-      "Number": 18175,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-06-30T12:02:55Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18175",
-      "LastCommitSHA": "85ad236fb741653b8f0fbf4d2b5adcee1c7c39ca",
-      "LastCommitAt": "2023-07-05T07:16:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-10T11:32:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18175#pullrequestreview-1521872368"
-         }
-      }
-   },
-   {
       "Number": 18176,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-06-30T12:04:18Z",
@@ -2832,6 +2799,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18472",
       "LastCommitSHA": "22e6074571a7dc8c4bf4d52440cf0b8cfed3f5de",
       "LastCommitAt": "2023-07-10T18:01:44Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18475,
+      "OpenedBy": "jabbas",
+      "CreatedAt": "2023-07-10T20:59:09Z",
+      "Recipe": "dbg-macro",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18475",
+      "LastCommitSHA": "35e8b84a4afdfa83577ca6582ac1e9dccd90cc7b",
+      "LastCommitAt": "2023-07-10T21:08:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
