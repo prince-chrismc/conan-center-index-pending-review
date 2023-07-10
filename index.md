@@ -132,7 +132,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18423](https://github.com/conan-io/conan-center-index/pull/18423)|[fcorso2016](https://github.com/fcorso2016)|Jul 8|:memo: onnx|:green_circle: XS|2|Jul 10||[Hopobcn](https://github.com/Hopobcn), ericLemanissier
 [#18425](https://github.com/conan-io/conan-center-index/pull/18425)|[toge](https://github.com/toge)|Jul 8|:memo: msgpack-cxx|:blue_square: S|0|||
 [#18433](https://github.com/conan-io/conan-center-index/pull/18433)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:memo: sentry-native|M|0|||
-[#18436](https://github.com/conan-io/conan-center-index/pull/18436)|[mayeut](https://github.com/mayeut)|Jul 9|:memo: proj|:green_circle: XS|1|Jul 10||ericLemanissier
+[#18436](https://github.com/conan-io/conan-center-index/pull/18436)|[mayeut](https://github.com/mayeut)|Jul 9|:stopwatch: proj|:green_circle: XS|1|Jul 10||ericLemanissier
 [#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:memo: asio-grpc|:blue_square: S|0|||
 [#18441](https://github.com/conan-io/conan-center-index/pull/18441)|[mayeut](https://github.com/mayeut)|Jul 9|:memo: jxrlib|:blue_square: S|0|||
 [#18443](https://github.com/conan-io/conan-center-index/pull/18443)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 9|:stopwatch: coin-utils|M|0|||
@@ -144,7 +144,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -155,8 +155,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18128](https://github.com/conan-io/conan-center-index/pull/18128)|[valgur](https://github.com/valgur)|Jun 28|:memo: effolkronium-random|6|czoido, davidsanfal
 [#18172](https://github.com/conan-io/conan-center-index/pull/18172)|[valgur](https://github.com/valgur)|Jun 30|:memo: alac|4|RubenRBS, czoido
 [#18175](https://github.com/conan-io/conan-center-index/pull/18175)|[valgur](https://github.com/valgur)|Jun 30|:memo: android-ndk|2|RubenRBS, czoido
-[#18188](https://github.com/conan-io/conan-center-index/pull/18188)|[valgur](https://github.com/valgur)|Jun 30|:memo: asio|2|RubenRBS, jcar87
-[#18202](https://github.com/conan-io/conan-center-index/pull/18202)|[valgur](https://github.com/valgur)|Jun 30|:memo: fernandovelcic-hexdump|2|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -165,9 +163,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 322
+	- Open: 320
 	- Draft: 39
-	- Average Age: 74 days, 13 hours, and 42.46 minutes
+	- Average Age: 75 days, and 24.15 minutes
 	- Stop Label: 140
 	
 
