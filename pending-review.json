@@ -1029,8 +1029,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17939",
-      "LastCommitSHA": "038ae96e2e44b6d1aa42c0d402cab467f038e494",
-      "LastCommitAt": "2023-07-10T13:22:05Z",
+      "LastCommitSHA": "f48db431b7aaaed1e32927d0d093191db8b54d2a",
+      "LastCommitAt": "2023-07-10T13:26:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1630,39 +1630,6 @@
             "ReviewerName": "czoido",
             "SubmittedAt": "2023-07-10T11:31:31Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18177#pullrequestreview-1521871099"
-         }
-      }
-   },
-   {
-      "Number": 18178,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-06-30T12:08:04Z",
-      "Recipe": "any-lite",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18178",
-      "LastCommitSHA": "bd7635656bc41cd47cf0b67c34ee748bfd60ef55",
-      "LastCommitAt": "2023-07-03T21:37:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-10T11:31:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18178#pullrequestreview-1521870870"
          }
       }
    },
@@ -2746,7 +2713,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18419",
       "LastCommitSHA": "4cd4fc9a4de02c0736cdb23bad980bf8df6c5853",
       "LastCommitAt": "2023-07-08T15:01:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
