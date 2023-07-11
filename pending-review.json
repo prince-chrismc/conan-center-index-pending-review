@@ -2787,15 +2787,15 @@
       }
    },
    {
-      "Number": 18484,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-07-11T05:55:42Z",
-      "Recipe": "b2",
+      "Number": 18485,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-07-11T06:21:55Z",
+      "Recipe": "libspatialite",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18484",
-      "LastCommitSHA": "e89cafcde950711f8e41a95472018b2edc31f7ff",
-      "LastCommitAt": "2023-07-11T01:18:24Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18485",
+      "LastCommitSHA": "805c8270c4808dcd23485d1cf8960c8fdda1fbed",
+      "LastCommitAt": "2023-07-11T06:20:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
