@@ -334,6 +334,32 @@
       }
    },
    {
+      "Number": 17025,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2023-04-14T07:18:58Z",
+      "Recipe": "vvenc",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17025",
+      "LastCommitSHA": "bf6d14120ad006b3986f6633dfae7705473cef15",
+      "LastCommitAt": "2023-07-11T10:08:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 12,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "uilianries"
+         ],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-07-11T08:39:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17025#pullrequestreview-1523757539"
+         }
+      }
+   },
+   {
       "Number": 17032,
       "OpenedBy": "datalogics-kam",
       "CreatedAt": "2023-04-14T16:10:54Z",
@@ -2711,6 +2737,25 @@
             "SubmittedAt": "2023-07-11T08:25:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18486#pullrequestreview-1523730506"
          }
+      }
+   },
+   {
+      "Number": 18488,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-07-11T11:35:01Z",
+      "Recipe": "librasterlite",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18488",
+      "LastCommitSHA": "4f1b06a052dc7dfcd2a61fabd6aef6fe64fb872b",
+      "LastCommitAt": "2023-07-11T11:33:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
