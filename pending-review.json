@@ -1158,7 +1158,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18028",
       "LastCommitSHA": "6a28f63615e73ce71c17554d85076bbb3ea02582",
       "LastCommitAt": "2023-06-22T18:49:11Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -2733,7 +2733,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18479",
       "LastCommitSHA": "19a8a042b2659831e959a5561205f21bb39c3588",
       "LastCommitAt": "2023-07-10T21:57:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2771,6 +2771,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18481",
       "LastCommitSHA": "584268389a6fd4cec8966f4405005db805a8e4f1",
       "LastCommitAt": "2023-07-10T23:11:55Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18483,
+      "OpenedBy": "amrox",
+      "CreatedAt": "2023-07-11T00:57:10Z",
+      "Recipe": "openblas",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18483",
+      "LastCommitSHA": "a8a83e3849e00fc3ce1d72ad6c39b665b7789c24",
+      "LastCommitAt": "2023-07-11T00:57:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
