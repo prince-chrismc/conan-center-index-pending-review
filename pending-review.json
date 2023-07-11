@@ -2202,30 +2202,6 @@
       }
    },
    {
-      "Number": 18411,
-      "OpenedBy": "kletoz",
-      "CreatedAt": "2023-07-07T20:34:53Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18411",
-      "LastCommitSHA": "e0f97af275cd9e590f7c9471f2066a71ecfbf7bc",
-      "LastCommitAt": "2023-07-11T20:12:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-08T06:45:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18411#pullrequestreview-1520661825"
-         }
-      }
-   },
-   {
       "Number": 18413,
       "OpenedBy": "Sahnvour",
       "CreatedAt": "2023-07-07T21:29:26Z",
@@ -2658,11 +2634,21 @@
       "LastCommitAt": "2023-07-11T16:58:10Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "prince-chrismc",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-07-11T20:33:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18496#pullrequestreview-1525115593"
+         }
       }
    },
    {
@@ -2675,6 +2661,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18497",
       "LastCommitSHA": "5c65e207c93850b51b9cd81fbaf52c854672a9bd",
       "LastCommitAt": "2023-07-11T19:21:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18498,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-07-11T21:11:45Z",
+      "Recipe": "gdal",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18498",
+      "LastCommitSHA": "386018003713e56872435b0ca6645c8e045b40c2",
+      "LastCommitAt": "2023-07-11T21:06:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
