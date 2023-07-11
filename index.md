@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **114** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -43,7 +43,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16698](https://github.com/conan-io/conan-center-index/pull/16698)|[Woazim](https://github.com/Woazim)|Mar 25|:stopwatch: imagl|L|4|Apr 11 :bell:||
 [#16738](https://github.com/conan-io/conan-center-index/pull/16738)|[kuroneko](https://github.com/kuroneko)|Mar 27|:stopwatch: cglm|L|1|Jun 23 :bell:||
 [#17025](https://github.com/conan-io/conan-center-index/pull/17025)|[SSE4](https://github.com/SSE4)|Apr 14|:new: vvenc|M|12|Jul 11|uilianries|
-[#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|0|:eyes:||
+[#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|0|||
 [#17117](https://github.com/conan-io/conan-center-index/pull/17117)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-c-s3|M|2|Jun 8 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov)
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|6|Jun 28 :bell:||ericLemanissier, jwillikers
 [#17276](https://github.com/conan-io/conan-center-index/pull/17276)|[MartinDelille](https://github.com/MartinDelille)|Apr 27|:stopwatch: qtawesome|L|1|Jul 9||SSE4
@@ -138,8 +138,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18489](https://github.com/conan-io/conan-center-index/pull/18489)|[mologie](https://github.com/mologie)|Jul 11|:stopwatch: opencv|:green_circle: XS|0|||
 [#18494](https://github.com/conan-io/conan-center-index/pull/18494)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Jul 11|:stopwatch: clickhouse-cpp|:green_circle: XS|0|||
 [#18496](https://github.com/conan-io/conan-center-index/pull/18496)|[toge](https://github.com/toge)|Jul 11|:memo: sfml|:blue_square: S|1|Jul 11||prince-chrismc
-[#18497](https://github.com/conan-io/conan-center-index/pull/18497)|[Tobulus](https://github.com/Tobulus)|Jul 11|:stopwatch: libsystemd|:blue_square: S|0|||
-[#18498](https://github.com/conan-io/conan-center-index/pull/18498)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: gdal|:blue_square: S|0|||
+[#18497](https://github.com/conan-io/conan-center-index/pull/18497)|[Tobulus](https://github.com/Tobulus)|Jul 11|:memo: libsystemd|:blue_square: S|0|||
+[#18501](https://github.com/conan-io/conan-center-index/pull/18501)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: libgeotiff|:green_circle: XS|0|||
+[#18502](https://github.com/conan-io/conan-center-index/pull/18502)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: hdf4|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -158,10 +159,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 313
+	- Open: 317
 	- Draft: 40
-	- Average Age: 77 days, and 2.38 minutes
-	- Stop Label: 137
+	- Average Age: 76 days, 1 hours, and 43.60 minutes
+	- Stop Label: 140
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
