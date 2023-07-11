@@ -120,7 +120,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18363](https://github.com/conan-io/conan-center-index/pull/18363)|[valgur](https://github.com/valgur)|Jul 5|:memo: structopt|L|0|:eyes:||
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6||
 [#18408](https://github.com/conan-io/conan-center-index/pull/18408)|[toge](https://github.com/toge)|Jul 7|:new: clipper2|L|1|Jul 8||
-[#18411](https://github.com/conan-io/conan-center-index/pull/18411)|[kletoz](https://github.com/kletoz)|Jul 7|:stopwatch: android-ndk|:green_circle: XS|1|Jul 8||
 [#18413](https://github.com/conan-io/conan-center-index/pull/18413)|[Sahnvour](https://github.com/Sahnvour)|Jul 7|:memo: msdf-atlas-gen|L|6|Jul 11||czoido
 [#18414](https://github.com/conan-io/conan-center-index/pull/18414)|[wadehunk](https://github.com/wadehunk)|Jul 7|:memo: cyclonedds|:green_circle: XS|5|Jul 11||prince-chrismc
 [#18415](https://github.com/conan-io/conan-center-index/pull/18415)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 8|:memo: doxygen|:blue_square: S|0|:eyes:||
@@ -138,8 +137,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18483](https://github.com/conan-io/conan-center-index/pull/18483)|[amrox](https://github.com/amrox)|Jul 11|:memo: openblas|:green_circle: XS|1|Jul 11||[valgur](https://github.com/valgur)
 [#18489](https://github.com/conan-io/conan-center-index/pull/18489)|[mologie](https://github.com/mologie)|Jul 11|:stopwatch: opencv|:green_circle: XS|0|||
 [#18494](https://github.com/conan-io/conan-center-index/pull/18494)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Jul 11|:stopwatch: clickhouse-cpp|:green_circle: XS|0|||
-[#18496](https://github.com/conan-io/conan-center-index/pull/18496)|[toge](https://github.com/toge)|Jul 11|:memo: sfml|:blue_square: S|0|||
+[#18496](https://github.com/conan-io/conan-center-index/pull/18496)|[toge](https://github.com/toge)|Jul 11|:memo: sfml|:blue_square: S|1|Jul 11||prince-chrismc
 [#18497](https://github.com/conan-io/conan-center-index/pull/18497)|[Tobulus](https://github.com/Tobulus)|Jul 11|:stopwatch: libsystemd|:blue_square: S|0|||
+[#18498](https://github.com/conan-io/conan-center-index/pull/18498)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: gdal|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -158,10 +158,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 312
+	- Open: 313
 	- Draft: 40
-	- Average Age: 77 days, 4 hours, and 59.47 minutes
-	- Stop Label: 136
+	- Average Age: 77 days, and 2.38 minutes
+	- Stop Label: 137
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
