@@ -844,9 +844,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17699",
-      "LastCommitSHA": "08bab617c206d5df2f6e6323e640989cdad2456c",
-      "LastCommitAt": "2023-07-05T09:32:15Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "eb6182121d96538809cea889aed0b0119f33d577",
+      "LastCommitAt": "2023-07-11T23:06:20Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -2534,19 +2534,14 @@
       "Change": 2,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18481",
-      "LastCommitSHA": "584268389a6fd4cec8966f4405005db805a8e4f1",
-      "LastCommitAt": "2023-07-10T23:11:55Z",
+      "LastCommitSHA": "d265708143b9c104b9e15f28867b84472311a449",
+      "LastCommitAt": "2023-07-11T22:19:12Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
@@ -2690,15 +2685,15 @@
       }
    },
    {
-      "Number": 18502,
+      "Number": 18503,
       "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-11T22:04:31Z",
-      "Recipe": "hdf4",
+      "CreatedAt": "2023-07-11T22:24:23Z",
+      "Recipe": "openscenegraph",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18502",
-      "LastCommitSHA": "41c2a2483f1903fec0fea9d0a17530dc8d635d57",
-      "LastCommitAt": "2023-07-11T22:03:46Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18503",
+      "LastCommitSHA": "785ecde1a2a69724062569bf0885c57e6388763f",
+      "LastCommitAt": "2023-07-11T22:22:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
