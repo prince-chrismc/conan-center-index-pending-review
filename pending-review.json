@@ -2664,7 +2664,7 @@
       "LastCommitAt": "2023-07-10T23:11:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -2675,9 +2675,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-11T08:33:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18481#pullrequestreview-1523745721"
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-07-11T14:11:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18481#pullrequestreview-1524375057"
          }
       }
    },
@@ -2737,6 +2737,25 @@
             "SubmittedAt": "2023-07-11T08:25:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18486#pullrequestreview-1523730506"
          }
+      }
+   },
+   {
+      "Number": 18489,
+      "OpenedBy": "mologie",
+      "CreatedAt": "2023-07-11T13:33:52Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18489",
+      "LastCommitSHA": "d2a15382b4bb6b6149e69a635cc9473bb65d69b5",
+      "LastCommitAt": "2023-07-11T13:32:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
