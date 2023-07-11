@@ -140,7 +140,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18466](https://github.com/conan-io/conan-center-index/pull/18466)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 10|:gear: .c3i|:green_circle: XS|0|||
 [#18472](https://github.com/conan-io/conan-center-index/pull/18472)|[toge](https://github.com/toge)|Jul 10|:memo: quill|:blue_square: S|0|||
 [#18477](https://github.com/conan-io/conan-center-index/pull/18477)|[jabbas](https://github.com/jabbas)|Jul 10|:stopwatch: dbg-macro|M|0|||
-[#18478](https://github.com/conan-io/conan-center-index/pull/18478)|[memsharded](https://github.com/memsharded)|Jul 10|:memo: luple|:green_circle: XS|0|||
+[#18478](https://github.com/conan-io/conan-center-index/pull/18478)|[memsharded](https://github.com/memsharded)|Jul 10|:memo: luple|:green_circle: XS|1|Jul 11||czoido
 [#18479](https://github.com/conan-io/conan-center-index/pull/18479)|[mayeut](https://github.com/mayeut)|Jul 10|:memo: gstreamer|:green_circle: XS|0|||
 [#18480](https://github.com/conan-io/conan-center-index/pull/18480)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 10|:green_book: docs|M|0|||
 [#18481](https://github.com/conan-io/conan-center-index/pull/18481)|[memsharded](https://github.com/memsharded)|Jul 10|:green_book: docs|:green_circle: XS|0|||
@@ -165,7 +165,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 320
 	- Draft: 39
-	- Average Age: 75 days, 3 hours, and 34.90 minutes
+	- Average Age: 75 days, 4 hours, and 31.06 minutes
 	- Stop Label: 140
 	
 
