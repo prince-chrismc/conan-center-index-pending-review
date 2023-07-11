@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **114** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -137,9 +137,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18477](https://github.com/conan-io/conan-center-index/pull/18477)|[jabbas](https://github.com/jabbas)|Jul 10|:stopwatch: dbg-macro|M|0|||
 [#18479](https://github.com/conan-io/conan-center-index/pull/18479)|[mayeut](https://github.com/mayeut)|Jul 10|:memo: gstreamer|:green_circle: XS|1|Jul 11||RubenRBS
 [#18480](https://github.com/conan-io/conan-center-index/pull/18480)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 10|:green_book: docs|M|1|Jul 11||RubenRBS
-[#18481](https://github.com/conan-io/conan-center-index/pull/18481)|[memsharded](https://github.com/memsharded)|Jul 10|:green_book: docs|:green_circle: XS|1|Jul 11||RubenRBS
+[#18481](https://github.com/conan-io/conan-center-index/pull/18481)|[memsharded](https://github.com/memsharded)|Jul 10|:green_book: docs|:green_circle: XS|2|Jul 11||RubenRBS
 [#18483](https://github.com/conan-io/conan-center-index/pull/18483)|[amrox](https://github.com/amrox)|Jul 11|:memo: openblas|:green_circle: XS|1|Jul 11||[valgur](https://github.com/valgur)
 [#18486](https://github.com/conan-io/conan-center-index/pull/18486)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 11|:gear: .c3i|:blue_square: S|1|Jul 11||RubenRBS
+[#18489](https://github.com/conan-io/conan-center-index/pull/18489)|[mologie](https://github.com/mologie)|Jul 11|:stopwatch: opencv|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -158,9 +159,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 313
-	- Draft: 39
-	- Average Age: 76 days, 19 hours, and 5.82 minutes
+	- Open: 315
+	- Draft: 40
+	- Average Age: 76 days, 8 hours, and 13.23 minutes
 	- Stop Label: 136
 	
 
