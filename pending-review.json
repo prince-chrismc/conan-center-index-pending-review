@@ -391,8 +391,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17032",
-      "LastCommitSHA": "87035a73633354fb1fb883b99730dfb4a5cd098b",
-      "LastCommitAt": "2023-06-05T16:24:31Z",
+      "LastCommitSHA": "8e01f0a0a1491717c5e571c420b2facc69a4d0ec",
+      "LastCommitAt": "2023-07-11T21:54:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2661,6 +2661,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18497",
       "LastCommitSHA": "5c65e207c93850b51b9cd81fbaf52c854672a9bd",
       "LastCommitAt": "2023-07-11T19:21:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18501,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-07-11T21:51:52Z",
+      "Recipe": "libgeotiff",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18501",
+      "LastCommitSHA": "37cc652d687fa3bbbd4bd0170c1685342a356cdb",
+      "LastCommitAt": "2023-07-11T21:50:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2671,15 +2690,15 @@
       }
    },
    {
-      "Number": 18498,
+      "Number": 18502,
       "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-11T21:11:45Z",
-      "Recipe": "gdal",
+      "CreatedAt": "2023-07-11T22:04:31Z",
+      "Recipe": "hdf4",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18498",
-      "LastCommitSHA": "386018003713e56872435b0ca6645c8e045b40c2",
-      "LastCommitAt": "2023-07-11T21:06:03Z",
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18502",
+      "LastCommitSHA": "41c2a2483f1903fec0fea9d0a17530dc8d635d57",
+      "LastCommitAt": "2023-07-11T22:03:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
