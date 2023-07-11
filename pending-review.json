@@ -2348,7 +2348,7 @@
       "LastCommitAt": "2023-07-08T09:45:29Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -2363,9 +2363,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "EstebanDugueperoux2",
-            "SubmittedAt": "2023-07-09T09:06:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18416#pullrequestreview-1520871538"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-07-11T13:11:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18416#pullrequestreview-1524239206"
          }
       }
    },
@@ -2737,25 +2737,6 @@
             "SubmittedAt": "2023-07-11T08:25:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18486#pullrequestreview-1523730506"
          }
-      }
-   },
-   {
-      "Number": 18488,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-11T11:35:01Z",
-      "Recipe": "librasterlite",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18488",
-      "LastCommitSHA": "4f1b06a052dc7dfcd2a61fabd6aef6fe64fb872b",
-      "LastCommitAt": "2023-07-11T11:33:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
