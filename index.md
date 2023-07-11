@@ -23,11 +23,12 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **108** pull requests currently under way :detective:
+There are **110** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#10776](https://github.com/conan-io/conan-center-index/pull/10776)|[paulharris](https://github.com/paulharris)|May 13|:stopwatch: vtk|XL|4|Dec 1 :bell:||
+[#14509](https://github.com/conan-io/conan-center-index/pull/14509)|[toge](https://github.com/toge)|Dec 1|:stopwatch: cassandra-cpp-driver|XL|1|Jul 11||
 [#14916](https://github.com/conan-io/conan-center-index/pull/14916)|[System-Arch](https://github.com/System-Arch)|Dec 23|:stopwatch: isl|L|3|Dec 24 :bell:||
 [#15678](https://github.com/conan-io/conan-center-index/pull/15678)|[sabelka](https://github.com/sabelka)|Feb 2|:stopwatch: qt|M|4|Feb 14 :bell:||
 [#16098](https://github.com/conan-io/conan-center-index/pull/16098)|[toge](https://github.com/toge)|Feb 17|:memo: protobuf|M|21|Jun 26 :bell:||[miklelappo](https://github.com/miklelappo), [coryan](https://github.com/coryan)
@@ -135,11 +136,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18483](https://github.com/conan-io/conan-center-index/pull/18483)|[amrox](https://github.com/amrox)|Jul 11|:memo: openblas|:green_circle: XS|1|Jul 11||[valgur](https://github.com/valgur)
 [#18489](https://github.com/conan-io/conan-center-index/pull/18489)|[mologie](https://github.com/mologie)|Jul 11|:stopwatch: opencv|:green_circle: XS|0|||
 [#18494](https://github.com/conan-io/conan-center-index/pull/18494)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Jul 11|:stopwatch: clickhouse-cpp|:green_circle: XS|0|||
+[#18495](https://github.com/conan-io/conan-center-index/pull/18495)|[toge](https://github.com/toge)|Jul 11|:stopwatch: mongo-cxx-driver|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -149,8 +151,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18210](https://github.com/conan-io/conan-center-index/pull/18210)|[valgur](https://github.com/valgur)|Jun 30|:memo: graphthewy|4|RubenRBS, czoido
 [#18228](https://github.com/conan-io/conan-center-index/pull/18228)|[valgur](https://github.com/valgur)|Jul 1|:memo: enhex-generic_serialization|4|RubenRBS, czoido
 [#18433](https://github.com/conan-io/conan-center-index/pull/18433)|[MartinDelille](https://github.com/MartinDelille)|Jul 9|:memo: sentry-native|2|RubenRBS, czoido
-[#18466](https://github.com/conan-io/conan-center-index/pull/18466)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 10|:gear: .c3i|2|RubenRBS, czoido
-[#18472](https://github.com/conan-io/conan-center-index/pull/18472)|[toge](https://github.com/toge)|Jul 10|:memo: quill|2|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -159,9 +159,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 315
+	- Open: 314
 	- Draft: 40
-	- Average Age: 76 days, 9 hours, and 14.02 minutes
+	- Average Age: 76 days, 15 hours, and 57.93 minutes
 	- Stop Label: 136
 	
 
