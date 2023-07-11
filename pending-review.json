@@ -24,6 +24,30 @@
       }
    },
    {
+      "Number": 14509,
+      "OpenedBy": "toge",
+      "CreatedAt": "2022-12-01T06:05:52Z",
+      "Recipe": "cassandra-cpp-driver",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/14509",
+      "LastCommitSHA": "a8fc6b27ad3c24d4660a6dd041e988a2a25d5d87",
+      "LastCommitAt": "2023-07-11T18:10:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-07-11T08:02:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/14509#pullrequestreview-1523556688"
+         }
+      }
+   },
+   {
       "Number": 14916,
       "OpenedBy": "System-Arch",
       "CreatedAt": "2022-12-23T20:08:25Z",
@@ -2185,19 +2209,14 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18411",
-      "LastCommitSHA": "77e1eddad5f023cfcce68cbdb2d8b1638494e2b1",
-      "LastCommitAt": "2023-07-07T20:26:59Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e0f97af275cd9e590f7c9471f2066a71ecfbf7bc",
+      "LastCommitAt": "2023-07-11T20:12:47Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
@@ -2247,15 +2266,20 @@
       "LastCommitAt": "2023-07-11T17:56:59Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "prince-chrismc",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-07-11T17:08:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18414#pullrequestreview-1524742041"
+            "SubmittedAt": "2023-07-11T19:54:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18414#pullrequestreview-1525062217"
          }
       }
    },
@@ -2633,6 +2657,25 @@
       "LastCommitSHA": "0eb28e6d858a1f247b401bf03fe23c1722a54a2c",
       "LastCommitAt": "2023-07-11T16:58:10Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18497,
+      "OpenedBy": "Tobulus",
+      "CreatedAt": "2023-07-11T19:22:51Z",
+      "Recipe": "libsystemd",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18497",
+      "LastCommitSHA": "5c65e207c93850b51b9cd81fbaf52c854672a9bd",
+      "LastCommitAt": "2023-07-11T19:21:39Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
