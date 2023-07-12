@@ -73,16 +73,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17939](https://github.com/conan-io/conan-center-index/pull/17939)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 15|:memo: onetbb|M|0|||
 [#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|13|Jul 10||MartinDelille
 [#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:memo: metis|XL|1|Jun 28 :bell:||jwillikers
-[#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:stopwatch: gdal|L|0|:eyes:||
 [#18058](https://github.com/conan-io/conan-center-index/pull/18058)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: m4|:blue_square: S|1|Jun 26 :bell:||jwillikers
 [#18059](https://github.com/conan-io/conan-center-index/pull/18059)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: autoconf|:green_circle: XS|2|Jul 10||jwillikers, ericLemanissier
 [#18079](https://github.com/conan-io/conan-center-index/pull/18079)|[lieser](https://github.com/lieser)|Jun 27|:memo: botan|L|1|Jul 5||
 [#18088](https://github.com/conan-io/conan-center-index/pull/18088)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 27|:stopwatch: libtool|:blue_square: S|0|:eyes:||
 [#18090](https://github.com/conan-io/conan-center-index/pull/18090)|[valgur](https://github.com/valgur)|Jun 27|:memo: boostdep|L|1|Jun 28 :bell:||
 [#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:memo: arrow|:blue_square: S|0|:eyes:||
-[#18108](https://github.com/conan-io/conan-center-index/pull/18108)|[valgur](https://github.com/valgur)|Jun 28|:memo: ua-nodeset|M|4|Jun 30||
+[#18108](https://github.com/conan-io/conan-center-index/pull/18108)|[valgur](https://github.com/valgur)|Jun 28|:memo: ua-nodeset|M|4|Jun 30 :bell:||
 [#18143](https://github.com/conan-io/conan-center-index/pull/18143)|[nayyden](https://github.com/nayyden)|Jun 29|:memo: opencolorio|:green_circle: XS|2|Jul 10||[CJCombrink](https://github.com/CJCombrink), ericLemanissier
-[#18153](https://github.com/conan-io/conan-center-index/pull/18153)|[toge](https://github.com/toge)|Jun 30|:memo: st_tree|M|3|Jun 30||[CJCombrink](https://github.com/CJCombrink)
+[#18153](https://github.com/conan-io/conan-center-index/pull/18153)|[toge](https://github.com/toge)|Jun 30|:memo: st_tree|M|3|Jun 30 :bell:||[CJCombrink](https://github.com/CJCombrink)
 [#18164](https://github.com/conan-io/conan-center-index/pull/18164)|[Hopobcn](https://github.com/Hopobcn)|Jun 30|:memo: cpuinfo|M|0|:eyes:||
 [#18170](https://github.com/conan-io/conan-center-index/pull/18170)|[valgur](https://github.com/valgur)|Jun 30|:memo: aggeom-agg|L|0|:eyes:||
 [#18171](https://github.com/conan-io/conan-center-index/pull/18171)|[Tobulus](https://github.com/Tobulus)|Jun 30|:memo: libgpiod|L|1|Jul 4||
@@ -142,7 +141,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18497](https://github.com/conan-io/conan-center-index/pull/18497)|[Tobulus](https://github.com/Tobulus)|Jul 11|:memo: libsystemd|:blue_square: S|0|||
 [#18501](https://github.com/conan-io/conan-center-index/pull/18501)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: libgeotiff|:green_circle: XS|3|Jul 12||RubenRBS
 [#18503](https://github.com/conan-io/conan-center-index/pull/18503)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: openscenegraph|:blue_square: S|0|||
-[#18505](https://github.com/conan-io/conan-center-index/pull/18505)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 12|:gear: .c3i|:green_circle: XS|0|||
+[#18505](https://github.com/conan-io/conan-center-index/pull/18505)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 12|:gear: .c3i|:green_circle: XS|1|Jul 12||RubenRBS
+[#18506](https://github.com/conan-io/conan-center-index/pull/18506)|[toge](https://github.com/toge)|Jul 12|:stopwatch: hiredis|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -161,10 +161,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 320
+	- Open: 319
 	- Draft: 40
-	- Average Age: 75 days, 18 hours, and 38.02 minutes
-	- Stop Label: 139
+	- Average Age: 76 days, 1 hours, and 7.56 minutes
+	- Stop Label: 140
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
