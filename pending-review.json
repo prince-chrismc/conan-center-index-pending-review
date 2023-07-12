@@ -2741,24 +2741,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18505#pullrequestreview-1525786526"
          }
       }
-   },
-   {
-      "Number": 18506,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-12T08:32:33Z",
-      "Recipe": "hiredis",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18506",
-      "LastCommitSHA": "2e6c2efc70fda5ffa061dfe3b0329077e6e1292d",
-      "LastCommitAt": "2023-07-12T08:31:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
