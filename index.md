@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **115** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -140,6 +140,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18497](https://github.com/conan-io/conan-center-index/pull/18497)|[Tobulus](https://github.com/Tobulus)|Jul 11|:memo: libsystemd|:blue_square: S|0|||
 [#18501](https://github.com/conan-io/conan-center-index/pull/18501)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: libgeotiff|:green_circle: XS|3|Jul 12||RubenRBS
 [#18503](https://github.com/conan-io/conan-center-index/pull/18503)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: openscenegraph|:blue_square: S|0|||
+[#18506](https://github.com/conan-io/conan-center-index/pull/18506)|[toge](https://github.com/toge)|Jul 12|:memo: hiredis|:blue_square: S|0|||
+[#18508](https://github.com/conan-io/conan-center-index/pull/18508)|[toge](https://github.com/toge)|Jul 12|:stopwatch: libnghttp2|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -159,9 +161,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 317
-	- Draft: 39
-	- Average Age: 76 days, 16 hours, and 39.24 minutes
+	- Open: 318
+	- Draft: 38
+	- Average Age: 76 days, 11 hours, and 53.08 minutes
 	- Stop Label: 141
 	
 
