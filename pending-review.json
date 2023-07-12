@@ -2385,11 +2385,21 @@
       "LastCommitAt": "2023-07-11T17:48:03Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "valgur",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2023-07-12T15:25:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18443#pullrequestreview-1526638361"
+         }
       }
    },
    {
@@ -2756,6 +2766,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18508",
       "LastCommitSHA": "5f8971c00614ade6032996fd00c5f094e5101258",
       "LastCommitAt": "2023-07-12T14:40:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18509,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-12T16:04:24Z",
+      "Recipe": "redis-plus-plus",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18509",
+      "LastCommitSHA": "1fb2e290a7d535bf5e5db7eb32728aba778829eb",
+      "LastCommitAt": "2023-07-12T16:03:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
