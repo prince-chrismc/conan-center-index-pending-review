@@ -71,7 +71,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|L|2|Jun 25 :bell:||jwillikers
 [#17933](https://github.com/conan-io/conan-center-index/pull/17933)|[valgur](https://github.com/valgur)|Jun 14|:memo: gtsam|XL|1|Jun 28 :bell:||jwillikers
 [#17939](https://github.com/conan-io/conan-center-index/pull/17939)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Jun 15|:memo: onetbb|M|0|||
-[#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|14|Jul 12||MartinDelille, [dheater](https://github.com/dheater)
+[#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:stopwatch: qt|L|15|Jul 12||MartinDelille, [dheater](https://github.com/dheater)
 [#17972](https://github.com/conan-io/conan-center-index/pull/17972)|[valgur](https://github.com/valgur)|Jun 19|:memo: metis|XL|1|Jun 28 :bell:||jwillikers
 [#18058](https://github.com/conan-io/conan-center-index/pull/18058)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: m4|:blue_square: S|1|Jun 26 :bell:||jwillikers
 [#18059](https://github.com/conan-io/conan-center-index/pull/18059)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: autoconf|:green_circle: XS|2|Jul 10||jwillikers, ericLemanissier
@@ -161,7 +161,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 317
 	- Draft: 39
-	- Average Age: 76 days, 15 hours, and 49.70 minutes
+	- Average Age: 76 days, 16 hours, and 39.24 minutes
 	- Stop Label: 141
 	
 
