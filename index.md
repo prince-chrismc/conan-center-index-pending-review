@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **113** pull requests currently under way :detective:
+There are **112** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -112,7 +112,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18298](https://github.com/conan-io/conan-center-index/pull/18298)|[Nekto89](https://github.com/Nekto89)|Jul 3|:memo: itk|L|1|Jul 12||[valgur](https://github.com/valgur)
 [#18313](https://github.com/conan-io/conan-center-index/pull/18313)|[Cogitri](https://github.com/Cogitri)|Jul 4|:stopwatch: turtle|:green_circle: XS|1|Jul 4||
 [#18346](https://github.com/conan-io/conan-center-index/pull/18346)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: cprocessing|L|0|:eyes:||
-[#18350](https://github.com/conan-io/conan-center-index/pull/18350)|[valgur](https://github.com/valgur)|Jul 5|:memo: di|L|0|||
+[#18350](https://github.com/conan-io/conan-center-index/pull/18350)|[valgur](https://github.com/valgur)|Jul 5|:memo: di|L|0|:eyes:||
 [#18351](https://github.com/conan-io/conan-center-index/pull/18351)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 5|:stopwatch: qt|:green_circle: XS|1|Jul 6||MartinDelille
 [#18356](https://github.com/conan-io/conan-center-index/pull/18356)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: so5extra|L|0|:eyes:||
 [#18357](https://github.com/conan-io/conan-center-index/pull/18357)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: simple-yaml|L|0|:eyes:||
@@ -138,21 +138,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18503](https://github.com/conan-io/conan-center-index/pull/18503)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: openscenegraph|:blue_square: S|0|||
 [#18506](https://github.com/conan-io/conan-center-index/pull/18506)|[toge](https://github.com/toge)|Jul 12|:memo: hiredis|:blue_square: S|0|||
 [#18508](https://github.com/conan-io/conan-center-index/pull/18508)|[toge](https://github.com/toge)|Jul 12|:stopwatch: libnghttp2|M|0|||
-[#18509](https://github.com/conan-io/conan-center-index/pull/18509)|[toge](https://github.com/toge)|Jul 12|:stopwatch: redis-plus-plus|:blue_square: S|0|||
-[#18510](https://github.com/conan-io/conan-center-index/pull/18510)|[toge](https://github.com/toge)|Jul 12|:stopwatch: screen_capture_lite|:green_circle: XS|0|||
+[#18509](https://github.com/conan-io/conan-center-index/pull/18509)|[toge](https://github.com/toge)|Jul 12|:memo: redis-plus-plus|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|7|uilianries, SSE4
 [#18413](https://github.com/conan-io/conan-center-index/pull/18413)|[Sahnvour](https://github.com/Sahnvour)|Jul 7|:memo: msdf-atlas-gen|7|czoido, davidsanfal
-[#18479](https://github.com/conan-io/conan-center-index/pull/18479)|[mayeut](https://github.com/mayeut)|Jul 10|:memo: gstreamer|3|RubenRBS, davidsanfal
-[#18494](https://github.com/conan-io/conan-center-index/pull/18494)|[PodnimatelPingvinov](https://github.com/PodnimatelPingvinov)|Jul 11|:warning: clickhouse-cpp|2|uilianries, franramirez688
 [#18501](https://github.com/conan-io/conan-center-index/pull/18501)|[mayeut](https://github.com/mayeut)|Jul 11|:warning: libgeotiff|4|RubenRBS, davidsanfal
 
 
@@ -162,9 +159,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 319
+	- Open: 317
 	- Draft: 38
-	- Average Age: 76 days, 7 hours, and 58.21 minutes
+	- Average Age: 76 days, 20 hours, and 23.01 minutes
 	- Stop Label: 141
 	
 
