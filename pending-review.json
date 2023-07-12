@@ -2726,5 +2726,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18506,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-12T08:32:33Z",
+      "Recipe": "hiredis",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18506",
+      "LastCommitSHA": "cc35b0863a17d722b6800295b77b7574937187e0",
+      "LastCommitAt": "2023-07-12T13:52:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18508,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-12T14:41:33Z",
+      "Recipe": "libnghttp2",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18508",
+      "LastCommitSHA": "5f8971c00614ade6032996fd00c5f094e5101258",
+      "LastCommitAt": "2023-07-12T14:40:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
