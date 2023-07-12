@@ -1149,25 +1149,6 @@
       }
    },
    {
-      "Number": 18027,
-      "OpenedBy": "keyboardspecialist",
-      "CreatedAt": "2023-06-22T18:56:54Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18027",
-      "LastCommitSHA": "bba09b0a941d3d7856d03c3fbf74c5bd1a47de6b",
-      "LastCommitAt": "2023-06-22T18:47:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18058,
       "OpenedBy": "maksim-petukhov",
       "CreatedAt": "2023-06-26T11:18:08Z",
@@ -2743,6 +2724,35 @@
       "LastCommitSHA": "20f92f3ba84be5f687dbd0c25cc4d8a7b4671d7c",
       "LastCommitAt": "2023-07-12T07:24:52Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-07-12T08:21:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18505#pullrequestreview-1525786526"
+         }
+      }
+   },
+   {
+      "Number": 18506,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-12T08:32:33Z",
+      "Recipe": "hiredis",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18506",
+      "LastCommitSHA": "2e6c2efc70fda5ffa061dfe3b0329077e6e1292d",
+      "LastCommitAt": "2023-07-12T08:31:55Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
