@@ -1102,20 +1102,24 @@
       "LastCommitAt": "2023-07-09T07:05:05Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 13,
+         "Count": 14,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "MartinDelille",
                "Tier": "community"
+            },
+            {
+               "Name": "dheater",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2023-07-10T08:55:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17942#pullrequestreview-1521601246"
+            "ReviewerName": "dheater",
+            "SubmittedAt": "2023-07-12T13:12:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17942#pullrequestreview-1526326932"
          }
       }
    },
@@ -1317,43 +1321,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2023-06-30T08:42:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18108#pullrequestreview-1506774654"
-         }
-      }
-   },
-   {
-      "Number": 18143,
-      "OpenedBy": "nayyden",
-      "CreatedAt": "2023-06-29T13:21:25Z",
-      "Recipe": "opencolorio",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18143",
-      "LastCommitSHA": "f88611f782ded77f16a6fd4c1f42b75d82d4b0fe",
-      "LastCommitAt": "2023-07-04T10:16:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "CJCombrink",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-07-12T12:23:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18143#pullrequestreview-1526231470"
          }
       }
    },
@@ -2523,7 +2490,7 @@
       "LastCommitAt": "2023-07-10T22:13:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -2534,9 +2501,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-11T08:52:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18480#pullrequestreview-1523782861"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-07-12T13:09:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18480#pullrequestreview-1526303630"
          }
       }
    },
@@ -2643,20 +2610,24 @@
       "LastCommitAt": "2023-07-11T15:07:47Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "uilianries",
                "Tier": "team"
+            },
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-07-12T11:27:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18494#pullrequestreview-1526139942"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-07-12T12:56:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18494#pullrequestreview-1526300812"
          }
       }
    },
