@@ -464,6 +464,25 @@
       }
    },
    {
+      "Number": 17246,
+      "OpenedBy": "wadehunk",
+      "CreatedAt": "2023-04-26T14:36:15Z",
+      "Recipe": "cyclonedds",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17246",
+      "LastCommitSHA": "a72e70df692382adb31bab6ee5069bdeae21e5bd",
+      "LastCommitAt": "2023-07-13T13:57:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17272,
       "OpenedBy": "0xFireWolf",
       "CreatedAt": "2023-04-27T08:11:38Z",
@@ -1117,19 +1136,24 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17972",
-      "LastCommitSHA": "959f6ec0e633fc97bd6dc65f053491efb5b6f589",
-      "LastCommitAt": "2023-07-13T13:45:19Z",
+      "LastCommitSHA": "17bda2fe0b3a6610f8bc3d1db74728e92fc45593",
+      "LastCommitAt": "2023-07-13T14:31:21Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-06-28T14:53:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17972#pullrequestreview-1503313092"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-07-13T14:32:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17972#pullrequestreview-1528598079"
          }
       }
    },
