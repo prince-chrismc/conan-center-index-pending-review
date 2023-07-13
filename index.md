@@ -136,7 +136,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -147,7 +147,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18497](https://github.com/conan-io/conan-center-index/pull/18497)|[Tobulus](https://github.com/Tobulus)|Jul 11|:memo: libsystemd|2|RubenRBS, czoido
 [#18506](https://github.com/conan-io/conan-center-index/pull/18506)|[toge](https://github.com/toge)|Jul 12|:memo: hiredis|2|RubenRBS, czoido
 [#18508](https://github.com/conan-io/conan-center-index/pull/18508)|[toge](https://github.com/toge)|Jul 12|:memo: libnghttp2|2|RubenRBS, czoido
-[#18509](https://github.com/conan-io/conan-center-index/pull/18509)|[toge](https://github.com/toge)|Jul 12|:memo: redis-plus-plus|2|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -156,9 +155,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 317
+	- Open: 316
 	- Draft: 38
-	- Average Age: 77 days, 7 hours, and 19.11 minutes
+	- Average Age: 77 days, 14 hours, and 2.93 minutes
 	- Stop Label: 142
 	
 
