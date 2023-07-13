@@ -1117,19 +1117,14 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17972",
-      "LastCommitSHA": "be539557774d3c50b7709f401e282f231966e20b",
-      "LastCommitAt": "2023-06-27T13:50:27Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "959f6ec0e633fc97bd6dc65f053491efb5b6f589",
+      "LastCommitAt": "2023-07-13T13:45:19Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -1325,7 +1320,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18163",
       "LastCommitSHA": "2bec28a90c763e318cdb4e9fba80139a609d373c",
       "LastCommitAt": "2023-07-13T13:17:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2141,39 +2136,6 @@
             "ReviewerName": "valgur",
             "SubmittedAt": "2023-07-08T15:34:34Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18408#pullrequestreview-1520730517"
-         }
-      }
-   },
-   {
-      "Number": 18414,
-      "OpenedBy": "wadehunk",
-      "CreatedAt": "2023-07-07T21:32:42Z",
-      "Recipe": "cyclonedds",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18414",
-      "LastCommitSHA": "ebcd07524b9ecb0a6509e9bdd0b76aeae806f98a",
-      "LastCommitAt": "2023-07-11T17:56:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "prince-chrismc",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-07-13T13:26:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18414#pullrequestreview-1528449743"
          }
       }
    },
