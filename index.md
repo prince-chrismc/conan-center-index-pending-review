@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **106** pull requests currently under way :detective:
+There are **105** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -129,7 +129,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18490](https://github.com/conan-io/conan-center-index/pull/18490)|[uilianries](https://github.com/uilianries)|Jul 11|:stopwatch: protobuf-c|L|0|||
 [#18498](https://github.com/conan-io/conan-center-index/pull/18498)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: gdal|XL|0|||
 [#18512](https://github.com/conan-io/conan-center-index/pull/18512)|[toge](https://github.com/toge)|Jul 12|:new: wasm-micro-runtime|L|0|||
-[#18514](https://github.com/conan-io/conan-center-index/pull/18514)|[mayeut](https://github.com/mayeut)|Jul 12|:stopwatch: openmvg|:green_circle: XS|0|||
 [#18520](https://github.com/conan-io/conan-center-index/pull/18520)|[pwqbot](https://github.com/pwqbot)|Jul 13|:memo: range-v3|:green_circle: XS|1|Jul 13||RubenRBS
 [#18525](https://github.com/conan-io/conan-center-index/pull/18525)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 13|:stopwatch: gtest|:blue_square: S|0|||
 [#18526](https://github.com/conan-io/conan-center-index/pull/18526)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 13|:gear: .c3i|:green_circle: XS|0|||
@@ -137,13 +136,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|7|uilianries, SSE4
-[#18230](https://github.com/conan-io/conan-center-index/pull/18230)|[valgur](https://github.com/valgur)|Jul 1|:memo: rtm|3|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -152,10 +150,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 314
+	- Open: 313
 	- Draft: 38
-	- Average Age: 78 days, 3 hours, and 28.94 minutes
-	- Stop Label: 143
+	- Average Age: 78 days, 9 hours, and 27.09 minutes
+	- Stop Label: 144
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
