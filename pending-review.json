@@ -2116,7 +2116,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18363",
       "LastCommitSHA": "72581ca3935bade63e646d050fdc875d9c494fdb",
       "LastCommitAt": "2023-07-13T19:45:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -2505,39 +2505,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18526,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2023-07-13T09:51:39Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18526",
-      "LastCommitSHA": "087e47e9d9273147c0e2900a921d069995f58dc9",
-      "LastCommitAt": "2023-07-13T09:51:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-13T20:03:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18526#pullrequestreview-1529163254"
-         }
       }
    },
    {
