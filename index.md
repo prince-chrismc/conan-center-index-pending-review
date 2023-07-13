@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **105** pull requests currently under way :detective:
+There are **107** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -60,7 +60,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
 [#17682](https://github.com/conan-io/conan-center-index/pull/17682)|[uilianries](https://github.com/uilianries)|May 24|:stopwatch: chaiscript|L|0|:eyes:||
-[#17699](https://github.com/conan-io/conan-center-index/pull/17699)|[weatherhead99](https://github.com/weatherhead99)|May 25|:stopwatch: extra-cmake-modules|L|5|Jun 28 :bell:||
+[#17699](https://github.com/conan-io/conan-center-index/pull/17699)|[weatherhead99](https://github.com/weatherhead99)|May 25|:memo: extra-cmake-modules|L|5|Jun 28 :bell:||
 [#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|1|Jun 27 :bell:||
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|1|Jun 25 :bell:||jwillikers
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
@@ -129,9 +129,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18490](https://github.com/conan-io/conan-center-index/pull/18490)|[uilianries](https://github.com/uilianries)|Jul 11|:stopwatch: protobuf-c|L|0|||
 [#18498](https://github.com/conan-io/conan-center-index/pull/18498)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: gdal|XL|0|||
 [#18512](https://github.com/conan-io/conan-center-index/pull/18512)|[toge](https://github.com/toge)|Jul 12|:new: wasm-micro-runtime|L|0|||
-[#18520](https://github.com/conan-io/conan-center-index/pull/18520)|[pwqbot](https://github.com/pwqbot)|Jul 13|:memo: range-v3|:green_circle: XS|1|Jul 13||RubenRBS
+[#18522](https://github.com/conan-io/conan-center-index/pull/18522)|[toge](https://github.com/toge)|Jul 13|:new: uvwasi|L|0|||
 [#18525](https://github.com/conan-io/conan-center-index/pull/18525)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 13|:stopwatch: gtest|:blue_square: S|0|||
-[#18526](https://github.com/conan-io/conan-center-index/pull/18526)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 13|:gear: .c3i|:green_circle: XS|0|||
+[#18526](https://github.com/conan-io/conan-center-index/pull/18526)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 13|:gear: .c3i|:green_circle: XS|1|Jul 13||ericLemanissier
+[#18528](https://github.com/conan-io/conan-center-index/pull/18528)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 13|:gear: .c3i|:green_circle: XS|0|||
+[#18530](https://github.com/conan-io/conan-center-index/pull/18530)|[toge](https://github.com/toge)|Jul 13|:stopwatch: dice-template-library|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -150,9 +152,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 313
+	- Open: 315
 	- Draft: 38
-	- Average Age: 78 days, 9 hours, and 27.09 minutes
+	- Average Age: 77 days, 22 hours, and 46.37 minutes
 	- Stop Label: 144
 	
 
