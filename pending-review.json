@@ -2514,39 +2514,6 @@
       }
    },
    {
-      "Number": 18501,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-11T21:51:52Z",
-      "Recipe": "libgeotiff",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18501",
-      "LastCommitSHA": "37cc652d687fa3bbbd4bd0170c1685342a356cdb",
-      "LastCommitAt": "2023-07-11T21:50:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "davidsanfal",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "davidsanfal",
-            "SubmittedAt": "2023-07-12T16:54:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18501#pullrequestreview-1526806429"
-         }
-      }
-   },
-   {
       "Number": 18506,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-12T08:32:33Z",
@@ -2679,6 +2646,25 @@
             "SubmittedAt": "2023-07-12T21:51:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18515#pullrequestreview-1527285727"
          }
+      }
+   },
+   {
+      "Number": 18520,
+      "OpenedBy": "pwqbot",
+      "CreatedAt": "2023-07-13T02:53:52Z",
+      "Recipe": "range-v3",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18520",
+      "LastCommitSHA": "907442a43cbac622ed248d6fce201ac23cf4af19",
+      "LastCommitAt": "2023-07-13T02:57:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
