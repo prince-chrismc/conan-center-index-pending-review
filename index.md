@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **109** pull requests currently under way :detective:
+There are **110** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -136,17 +136,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18509](https://github.com/conan-io/conan-center-index/pull/18509)|[toge](https://github.com/toge)|Jul 12|:memo: redis-plus-plus|:blue_square: S|1|Jul 12||RubenRBS
 [#18514](https://github.com/conan-io/conan-center-index/pull/18514)|[mayeut](https://github.com/mayeut)|Jul 12|:stopwatch: openmvg|:green_circle: XS|0|||
 [#18515](https://github.com/conan-io/conan-center-index/pull/18515)|[mayeut](https://github.com/mayeut)|Jul 12|:memo: cimg|:green_circle: XS|1|Jul 12||RubenRBS
+[#18520](https://github.com/conan-io/conan-center-index/pull/18520)|[pwqbot](https://github.com/pwqbot)|Jul 13|:stopwatch: range-v3|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17242](https://github.com/conan-io/conan-center-index/pull/17242)|[hedtke](https://github.com/hedtke)|Apr 26|:new: scip|7|uilianries, SSE4
-[#18501](https://github.com/conan-io/conan-center-index/pull/18501)|[mayeut](https://github.com/mayeut)|Jul 11|:warning: libgeotiff|4|RubenRBS, davidsanfal
 
 
 #### :clipboard: Statistics
@@ -157,7 +157,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 317
 	- Draft: 38
-	- Average Age: 77 days, 2 hours, and 21.74 minutes
+	- Average Age: 77 days, 3 hours, and 59.81 minutes
 	- Stop Label: 143
 	
 
