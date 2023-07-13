@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **110** pull requests currently under way :detective:
+There are **109** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -135,8 +135,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18508](https://github.com/conan-io/conan-center-index/pull/18508)|[toge](https://github.com/toge)|Jul 12|:memo: libnghttp2|M|1|Jul 12||RubenRBS
 [#18509](https://github.com/conan-io/conan-center-index/pull/18509)|[toge](https://github.com/toge)|Jul 12|:memo: redis-plus-plus|:blue_square: S|1|Jul 12||RubenRBS
 [#18514](https://github.com/conan-io/conan-center-index/pull/18514)|[mayeut](https://github.com/mayeut)|Jul 12|:stopwatch: openmvg|:green_circle: XS|0|||
-[#18515](https://github.com/conan-io/conan-center-index/pull/18515)|[mayeut](https://github.com/mayeut)|Jul 12|:stopwatch: cimg|:green_circle: XS|1|Jul 12||RubenRBS
-[#18518](https://github.com/conan-io/conan-center-index/pull/18518)|[mayeut](https://github.com/mayeut)|Jul 12|:stopwatch: libidn|:green_circle: XS|1|Jul 12||RubenRBS
+[#18515](https://github.com/conan-io/conan-center-index/pull/18515)|[mayeut](https://github.com/mayeut)|Jul 12|:memo: cimg|:green_circle: XS|1|Jul 12||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -156,10 +155,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 319
+	- Open: 317
 	- Draft: 38
-	- Average Age: 76 days, 12 hours, and 55.91 minutes
-	- Stop Label: 144
+	- Average Age: 77 days, 2 hours, and 21.74 minutes
+	- Stop Label: 143
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
