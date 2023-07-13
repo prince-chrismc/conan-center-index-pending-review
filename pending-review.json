@@ -2481,8 +2481,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18490",
-      "LastCommitSHA": "e618c3cef7f2a4a13c481c22742c62487e40129b",
-      "LastCommitAt": "2023-07-13T06:22:08Z",
+      "LastCommitSHA": "69eaa7b00d11dc0e6eb187b6c0d286417c848b3c",
+      "LastCommitAt": "2023-07-13T08:16:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2559,39 +2559,6 @@
       }
    },
    {
-      "Number": 18508,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-12T14:41:33Z",
-      "Recipe": "libnghttp2",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18508",
-      "LastCommitSHA": "5f8971c00614ade6032996fd00c5f094e5101258",
-      "LastCommitAt": "2023-07-12T14:40:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-13T05:53:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18508#pullrequestreview-1527624586"
-         }
-      }
-   },
-   {
       "Number": 18512,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-12T19:18:31Z",
@@ -2599,9 +2566,9 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18512",
-      "LastCommitSHA": "2088c5bc70e959111b47c6a163543c6439fef086",
-      "LastCommitAt": "2023-07-13T04:56:36Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "c774d3056002a0b391c806a542fb2d42d0bb69dd",
+      "LastCommitAt": "2023-07-13T07:20:42Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2649,15 +2616,15 @@
       }
    },
    {
-      "Number": 18521,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2023-07-13T06:00:42Z",
-      "Recipe": "coin-osi",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18521",
-      "LastCommitSHA": "d02f29123ffc3f79994d36ec98c1292ccd4b584f",
-      "LastCommitAt": "2023-07-09T12:03:25Z",
+      "Number": 18522,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-13T07:29:53Z",
+      "Recipe": "uvwasi",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18522",
+      "LastCommitSHA": "95cd9b2b864d6bf435ab449e1df7cd39cf2ba2ae",
+      "LastCommitAt": "2023-07-13T07:28:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
