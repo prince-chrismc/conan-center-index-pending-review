@@ -2390,6 +2390,30 @@
       }
    },
    {
+      "Number": 18519,
+      "OpenedBy": "jabbas",
+      "CreatedAt": "2023-07-12T23:31:46Z",
+      "Recipe": "dbg-macro",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18519",
+      "LastCommitSHA": "be67f64db19bd1adbaece9e54f375b7847b443e0",
+      "LastCommitAt": "2023-07-14T15:31:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-07-14T10:18:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18519#pullrequestreview-1530031019"
+         }
+      }
+   },
+   {
       "Number": 18525,
       "OpenedBy": "klausholstjacobsen",
       "CreatedAt": "2023-07-13T09:12:02Z",
@@ -2418,6 +2442,35 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18545",
       "LastCommitSHA": "257c2defb223a4a773589476779fcd10ed91b4db",
       "LastCommitAt": "2023-07-14T14:29:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-07-14T16:05:50Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18545#pullrequestreview-1530568501"
+         }
+      }
+   },
+   {
+      "Number": 18546,
+      "OpenedBy": "maksim-petukhov",
+      "CreatedAt": "2023-07-14T15:22:54Z",
+      "Recipe": "qarchive",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18546",
+      "LastCommitSHA": "d126bd2271d24548503a730dac3333db8f3ffeb6",
+      "LastCommitAt": "2023-07-14T15:19:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
