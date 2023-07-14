@@ -2407,5 +2407,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18545,
+      "OpenedBy": "maksim-petukhov",
+      "CreatedAt": "2023-07-14T15:14:34Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18545",
+      "LastCommitSHA": "257c2defb223a4a773589476779fcd10ed91b4db",
+      "LastCommitAt": "2023-07-14T14:29:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
