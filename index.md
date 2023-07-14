@@ -127,7 +127,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18481](https://github.com/conan-io/conan-center-index/pull/18481)|[memsharded](https://github.com/memsharded)|Jul 10|:green_book: docs|:green_circle: XS|6|Jul 12||RubenRBS
 [#18489](https://github.com/conan-io/conan-center-index/pull/18489)|[mologie](https://github.com/mologie)|Jul 11|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#18498](https://github.com/conan-io/conan-center-index/pull/18498)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: gdal|XL|0|||
-[#18519](https://github.com/conan-io/conan-center-index/pull/18519)|[jabbas](https://github.com/jabbas)|Jul 12|:stopwatch: dbg-macro|M|1|Jul 14||
+[#18519](https://github.com/conan-io/conan-center-index/pull/18519)|[jabbas](https://github.com/jabbas)|Jul 12|:memo: dbg-macro|M|1|Jul 14||
 [#18525](https://github.com/conan-io/conan-center-index/pull/18525)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 13|:memo: gtest|:blue_square: S|0|||
 [#18545](https://github.com/conan-io/conan-center-index/pull/18545)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qt|:green_circle: XS|2|Jul 14||ericLemanissier, SSE4
 
@@ -140,7 +140,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 - Pull Requests:
 	- Open: 309
 	- Draft: 36
-	- Average Age: 80 days, 11 hours, and 22.69 minutes
+	- Average Age: 80 days, 12 hours, and 23.21 minutes
 	- Stop Label: 139
 	
 
