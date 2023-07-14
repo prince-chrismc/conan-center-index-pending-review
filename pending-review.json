@@ -281,30 +281,6 @@
       }
    },
    {
-      "Number": 16679,
-      "OpenedBy": "swebb2066",
-      "CreatedAt": "2023-03-24T07:12:54Z",
-      "Recipe": "log4cxx",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16679",
-      "LastCommitSHA": "a60be82b9d7bdd9501f21faeb6b9a7e717aa10f2",
-      "LastCommitAt": "2023-07-14T05:51:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-05-08T21:45:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16679#pullrequestreview-1417557340"
-         }
-      }
-   },
-   {
       "Number": 16698,
       "OpenedBy": "Woazim",
       "CreatedAt": "2023-03-25T01:48:22Z",
@@ -1303,15 +1279,20 @@
       "LastCommitAt": "2023-07-03T21:11:34Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-06-30T08:42:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18108#pullrequestreview-1506774654"
+            "SubmittedAt": "2023-07-14T07:35:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18108#pullrequestreview-1529789515"
          }
       }
    },
@@ -2342,39 +2323,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-07-12T22:09:24Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18481#pullrequestreview-1527302426"
-         }
-      }
-   },
-   {
-      "Number": 18483,
-      "OpenedBy": "amrox",
-      "CreatedAt": "2023-07-11T00:57:10Z",
-      "Recipe": "openblas",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18483",
-      "LastCommitSHA": "a8a83e3849e00fc3ce1d72ad6c39b665b7789c24",
-      "LastCommitAt": "2023-07-11T00:57:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-07-14T07:11:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18483#pullrequestreview-1529757142"
          }
       }
    },
