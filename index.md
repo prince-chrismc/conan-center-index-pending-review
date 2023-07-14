@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **111** pull requests currently under way :detective:
+There are **108** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -135,9 +135,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18525](https://github.com/conan-io/conan-center-index/pull/18525)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 13|:stopwatch: gtest|:blue_square: S|0|||
 [#18528](https://github.com/conan-io/conan-center-index/pull/18528)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 13|:gear: .c3i|:green_circle: XS|0|||
 [#18530](https://github.com/conan-io/conan-center-index/pull/18530)|[toge](https://github.com/toge)|Jul 13|:memo: dice-template-library|M|1|Jul 13||RubenRBS
-[#18536](https://github.com/conan-io/conan-center-index/pull/18536)|[toge](https://github.com/toge)|Jul 14|:stopwatch: catch2|:green_circle: XS|0|||
-[#18537](https://github.com/conan-io/conan-center-index/pull/18537)|[toge](https://github.com/toge)|Jul 14|:stopwatch: glaze|:green_circle: XS|0|||
-[#18538](https://github.com/conan-io/conan-center-index/pull/18538)|[toge](https://github.com/toge)|Jul 14|:stopwatch: etl|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -156,9 +153,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 316
+	- Open: 314
 	- Draft: 37
-	- Average Age: 78 days, 6 hours, and 44.39 minutes
+	- Average Age: 78 days, 20 hours, and 1.48 minutes
 	- Stop Label: 141
 	
 
