@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **107** pull requests currently under way :detective:
+There are **108** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -134,6 +134,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18560](https://github.com/conan-io/conan-center-index/pull/18560)|[Tobulus](https://github.com/Tobulus)|Jul 15|:memo: libsystemd|M|0|||
 [#18563](https://github.com/conan-io/conan-center-index/pull/18563)|[toge](https://github.com/toge)|Jul 15|:memo: cpp-peglib|M|0|||
 [#18566](https://github.com/conan-io/conan-center-index/pull/18566)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:green_book: docs|:blue_square: S|0|||
+[#18567](https://github.com/conan-io/conan-center-index/pull/18567)|[tannerbitz](https://github.com/tannerbitz)|Jul 15|:stopwatch: libxft|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -152,9 +153,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 318
+	- Open: 319
 	- Draft: 35
-	- Average Age: 78 days, 17 hours, and 45.91 minutes
+	- Average Age: 78 days, 14 hours, and 51.39 minutes
 	- Stop Label: 146
 	
 
