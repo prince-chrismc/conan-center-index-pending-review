@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **105** pull requests currently under way :detective:
+There are **106** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -99,7 +99,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:memo: redboltz-mqtt_cpp|L|0|:eyes:||
 [#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:memo: seqan3|L|0|:eyes:||
 [#18277](https://github.com/conan-io/conan-center-index/pull/18277)|[toge](https://github.com/toge)|Jul 2|:memo: pbtools|L|0|:eyes:||
-[#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|3|Jul 3||StellaSmith, [CJCombrink](https://github.com/CJCombrink)
+[#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|3|Jul 3 :bell:||StellaSmith, [CJCombrink](https://github.com/CJCombrink)
 [#18284](https://github.com/conan-io/conan-center-index/pull/18284)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: assimp|:green_circle: XS|3|Jul 9||StellaSmith, [CJCombrink](https://github.com/CJCombrink), [EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#18288](https://github.com/conan-io/conan-center-index/pull/18288)|[toge](https://github.com/toge)|Jul 2|:stopwatch: libxft|L|0|:eyes:||
 [#18294](https://github.com/conan-io/conan-center-index/pull/18294)|[toge](https://github.com/toge)|Jul 3|:memo: re2|:blue_square: S|1|Jul 5||jwillikers
@@ -132,6 +132,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18557](https://github.com/conan-io/conan-center-index/pull/18557)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 15|:stopwatch: azure-storage-cpp|:green_circle: XS|0|||
 [#18559](https://github.com/conan-io/conan-center-index/pull/18559)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 15|:memo: util-linux-libuuid|:green_circle: XS|0|||
 [#18560](https://github.com/conan-io/conan-center-index/pull/18560)|[Tobulus](https://github.com/Tobulus)|Jul 15|:memo: libsystemd|M|0|||
+[#18562](https://github.com/conan-io/conan-center-index/pull/18562)|[toge](https://github.com/toge)|Jul 15|:stopwatch: libnghttp2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -150,9 +151,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 316
+	- Open: 317
 	- Draft: 35
-	- Average Age: 78 days, 22 hours, and 57.22 minutes
+	- Average Age: 78 days, 18 hours, and 44.79 minutes
 	- Stop Label: 146
 	
 
