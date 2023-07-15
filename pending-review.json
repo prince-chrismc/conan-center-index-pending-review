@@ -2507,24 +2507,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 18567,
-      "OpenedBy": "tannerbitz",
-      "CreatedAt": "2023-07-15T22:07:13Z",
-      "Recipe": "libxft",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18567",
-      "LastCommitSHA": "39d695d907bf15767031ff5665072bff02c780e7",
-      "LastCommitAt": "2023-07-15T22:03:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
