@@ -471,19 +471,14 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17276",
-      "LastCommitSHA": "f06329d80d1ff46b709c89598f172360b4e5e183",
-      "LastCommitAt": "2023-05-02T08:11:34Z",
+      "LastCommitSHA": "45d0296fb33ffe90c2edf47e69b0867dd19e94fc",
+      "LastCommitAt": "2023-07-16T16:28:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SSE4",
