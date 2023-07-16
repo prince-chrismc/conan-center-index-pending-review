@@ -122,7 +122,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18498](https://github.com/conan-io/conan-center-index/pull/18498)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: gdal|XL|0|:eyes:||
 [#18519](https://github.com/conan-io/conan-center-index/pull/18519)|[jabbas](https://github.com/jabbas)|Jul 12|:memo: dbg-macro|M|1|Jul 14||
 [#18525](https://github.com/conan-io/conan-center-index/pull/18525)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 13|:memo: gtest|:blue_square: S|0|:eyes:||
-[#18544](https://github.com/conan-io/conan-center-index/pull/18544)|[pgeler](https://github.com/pgeler)|Jul 14|:memo: grpc|L|0|||
+[#18544](https://github.com/conan-io/conan-center-index/pull/18544)|[pgeler](https://github.com/pgeler)|Jul 14|:stopwatch: grpc|L|0|||
 [#18545](https://github.com/conan-io/conan-center-index/pull/18545)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qt|:green_circle: XS|3|Jul 15||ericLemanissier, SSE4, MartinDelille
 [#18546](https://github.com/conan-io/conan-center-index/pull/18546)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qarchive|:blue_square: S|0|||
 [#18548](https://github.com/conan-io/conan-center-index/pull/18548)|[nmgwddj](https://github.com/nmgwddj)|Jul 15|:stopwatch: netease-im|L|0|||
@@ -138,9 +138,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18567](https://github.com/conan-io/conan-center-index/pull/18567)|[tannerbitz](https://github.com/tannerbitz)|Jul 15|:stopwatch: libxft|L|0|||
 [#18570](https://github.com/conan-io/conan-center-index/pull/18570)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 16|:memo: xorg|:green_circle: XS|0|||
 [#18572](https://github.com/conan-io/conan-center-index/pull/18572)|[whaliendev](https://github.com/whaliendev)|Jul 16|:memo: tree-sitter|L|0|||
-[#18574](https://github.com/conan-io/conan-center-index/pull/18574)|[toge](https://github.com/toge)|Jul 16|:stopwatch: cli11|:blue_square: S|0|||
-[#18575](https://github.com/conan-io/conan-center-index/pull/18575)|[toge](https://github.com/toge)|Jul 16|:stopwatch: concurrencpp|:blue_square: S|0|||
-[#18576](https://github.com/conan-io/conan-center-index/pull/18576)|[toge](https://github.com/toge)|Jul 16|:memo: effolkronium-random|:green_circle: XS|0|||
+[#18574](https://github.com/conan-io/conan-center-index/pull/18574)|[toge](https://github.com/toge)|Jul 16|:memo: cli11|:blue_square: S|0|||
+[#18575](https://github.com/conan-io/conan-center-index/pull/18575)|[toge](https://github.com/toge)|Jul 16|:memo: concurrencpp|:blue_square: S|0|||
+[#18578](https://github.com/conan-io/conan-center-index/pull/18578)|[stefanpantic-pdftools](https://github.com/stefanpantic-pdftools)|Jul 16|:stopwatch: protobuf|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -161,7 +161,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 328
 	- Draft: 35
-	- Average Age: 77 days, 1 hours, and 4.94 minutes
+	- Average Age: 77 days, 1 hours, and 57.67 minutes
 	- Stop Label: 148
 	
 
