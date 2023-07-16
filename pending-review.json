@@ -2499,7 +2499,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18563",
       "LastCommitSHA": "06a8e7442cb681bb24f7f036672142eb0eca05d1",
       "LastCommitAt": "2023-07-15T14:37:15Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2575,6 +2575,63 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18572",
       "LastCommitSHA": "7434ad4b223cb6e6a6e2a689f59200101af33045",
       "LastCommitAt": "2023-07-16T07:42:01Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18574,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-16T11:33:37Z",
+      "Recipe": "cli11",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18574",
+      "LastCommitSHA": "7619a7d81bc97a47ccd1ac90e35163e708ff8088",
+      "LastCommitAt": "2023-07-16T11:33:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18575,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-16T11:42:01Z",
+      "Recipe": "concurrencpp",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18575",
+      "LastCommitSHA": "4f6195057972e2cc5f03bc46aec733d4dcb4835f",
+      "LastCommitAt": "2023-07-16T11:41:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18576,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-16T11:46:18Z",
+      "Recipe": "effolkronium-random",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18576",
+      "LastCommitSHA": "f034975a2821a64df9ffb9922aff2e12a68cd28c",
+      "LastCommitAt": "2023-07-16T11:45:47Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
