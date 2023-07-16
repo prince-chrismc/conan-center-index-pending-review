@@ -2623,15 +2623,15 @@
       }
    },
    {
-      "Number": 18578,
+      "Number": 18579,
       "OpenedBy": "stefanpantic-pdftools",
-      "CreatedAt": "2023-07-16T13:13:05Z",
+      "CreatedAt": "2023-07-16T13:39:07Z",
       "Recipe": "protobuf",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18578",
-      "LastCommitSHA": "6c3d125baa9e1b5e6a8efa2c108ad4debb2922d5",
-      "LastCommitAt": "2023-07-16T13:15:01Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18579",
+      "LastCommitSHA": "30937d83c72969c7090cbe8d557d34d7ad2eb617",
+      "LastCommitAt": "2023-07-16T13:40:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
