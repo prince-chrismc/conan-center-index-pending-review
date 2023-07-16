@@ -2564,24 +2564,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 18571,
-      "OpenedBy": "ashley-b",
-      "CreatedAt": "2023-07-16T05:59:29Z",
-      "Recipe": "libgpiod",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18571",
-      "LastCommitSHA": "5798b586fdcdbbafbd77a18e5358d32684da1a6f",
-      "LastCommitAt": "2023-07-16T05:57:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
