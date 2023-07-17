@@ -2466,6 +2466,35 @@
       }
    },
    {
+      "Number": 18559,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-07-15T09:50:44Z",
+      "Recipe": "util-linux-libuuid",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18559",
+      "LastCommitSHA": "266a1f1f263b055d9af08b2f4074456956ca1f00",
+      "LastCommitAt": "2023-07-15T09:47:37Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "gegles",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "gegles",
+            "SubmittedAt": "2023-07-17T02:02:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18559#pullrequestreview-1531851937"
+         }
+      }
+   },
+   {
       "Number": 18560,
       "OpenedBy": "Tobulus",
       "CreatedAt": "2023-07-15T10:01:23Z",
@@ -2551,6 +2580,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18570",
       "LastCommitSHA": "578af504d315d4ecf472bd85346c4bb55ee45872",
       "LastCommitAt": "2023-07-16T00:37:01Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18571,
+      "OpenedBy": "ashley-b",
+      "CreatedAt": "2023-07-16T05:59:29Z",
+      "Recipe": "libgpiod",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18571",
+      "LastCommitSHA": "9cdcfc5cc4be8fff07f3db11481c07abb29c6c09",
+      "LastCommitAt": "2023-07-17T01:38:43Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
