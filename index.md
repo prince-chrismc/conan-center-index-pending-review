@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **122** pull requests currently under way :detective:
+There are **117** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -35,7 +35,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16313](https://github.com/conan-io/conan-center-index/pull/16313)|[hellozee](https://github.com/hellozee)|Feb 27|:stopwatch: qt|M|7|Apr 26 :bell:||ericLemanissier, jwillikers
 [#16320](https://github.com/conan-io/conan-center-index/pull/16320)|[toge](https://github.com/toge)|Feb 27|:memo: osmanip|L|0|:eyes:||
 [#16432](https://github.com/conan-io/conan-center-index/pull/16432)|[jave27](https://github.com/jave27)|Mar 7|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
-[#16587](https://github.com/conan-io/conan-center-index/pull/16587)|[nicosmd](https://github.com/nicosmd)|Mar 16|:stopwatch: opencv|:green_circle: XS|0|||
 [#16589](https://github.com/conan-io/conan-center-index/pull/16589)|[cynix](https://github.com/cynix)|Mar 16|:stopwatch: openldap|:green_circle: XS|0|:eyes:||
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:stopwatch: log4cxx|L|10|Jul 14||
 [#16698](https://github.com/conan-io/conan-center-index/pull/16698)|[Woazim](https://github.com/Woazim)|Mar 25|:stopwatch: imagl|L|4|Apr 11 :bell:||
@@ -140,25 +139,26 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18567](https://github.com/conan-io/conan-center-index/pull/18567)|[tannerbitz](https://github.com/tannerbitz)|Jul 15|:stopwatch: libxft|L|0|||
 [#18570](https://github.com/conan-io/conan-center-index/pull/18570)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 16|:memo: xorg|:green_circle: XS|0|||
 [#18571](https://github.com/conan-io/conan-center-index/pull/18571)|[ashley-b](https://github.com/ashley-b)|Jul 16|:memo: libgpiod|L|1|Jul 17||RubenRBS
+[#18572](https://github.com/conan-io/conan-center-index/pull/18572)|[whaliendev](https://github.com/whaliendev)|Jul 16|:memo: tree-sitter|L|0|||
 [#18574](https://github.com/conan-io/conan-center-index/pull/18574)|[toge](https://github.com/toge)|Jul 16|:memo: cli11|:blue_square: S|1|Jul 17||RubenRBS
 [#18575](https://github.com/conan-io/conan-center-index/pull/18575)|[toge](https://github.com/toge)|Jul 16|:memo: concurrencpp|:blue_square: S|1|Jul 17||RubenRBS
 [#18579](https://github.com/conan-io/conan-center-index/pull/18579)|[stefanpantic-pdftools](https://github.com/stefanpantic-pdftools)|Jul 16|:memo: protobuf|:blue_square: S|0|||
 [#18582](https://github.com/conan-io/conan-center-index/pull/18582)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 17|:gear: .c3i|:green_circle: XS|1|Jul 17||RubenRBS
-[#18583](https://github.com/conan-io/conan-center-index/pull/18583)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:stopwatch: pdfium|:blue_square: S|0|||
-[#18584](https://github.com/conan-io/conan-center-index/pull/18584)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:stopwatch: dlib|:blue_square: S|0|||
-[#18585](https://github.com/conan-io/conan-center-index/pull/18585)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:stopwatch: hdf4|:blue_square: S|0|||
-[#18586](https://github.com/conan-io/conan-center-index/pull/18586)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:stopwatch: libidn|:blue_square: S|0|||
-[#18587](https://github.com/conan-io/conan-center-index/pull/18587)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:stopwatch: librasterlite2|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
+[#18583](https://github.com/conan-io/conan-center-index/pull/18583)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: pdfium|2|RubenRBS, czoido
+[#18584](https://github.com/conan-io/conan-center-index/pull/18584)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: dlib|2|RubenRBS, czoido
+[#18585](https://github.com/conan-io/conan-center-index/pull/18585)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: hdf4|2|RubenRBS, czoido
+[#18586](https://github.com/conan-io/conan-center-index/pull/18586)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: libidn|2|RubenRBS, czoido
+[#18587](https://github.com/conan-io/conan-center-index/pull/18587)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: librasterlite2|2|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -169,7 +169,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 335
 	- Draft: 35
-	- Average Age: 76 days, 4 hours, and 0.82 minutes
+	- Average Age: 76 days, 4 hours, and 55.22 minutes
 	- Stop Label: 148
 	
 
