@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **117** pull requests currently under way :detective:
+There are **116** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -60,7 +60,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
 [#17682](https://github.com/conan-io/conan-center-index/pull/17682)|[uilianries](https://github.com/uilianries)|May 24|:stopwatch: chaiscript|L|0|:eyes:||
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:memo: libdb|L|0|||
-[#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|1|Jun 27 :bell:||
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:memo: b2|:blue_square: S|1|Jun 25 :bell:||jwillikers
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17899](https://github.com/conan-io/conan-center-index/pull/17899)|[xahon](https://github.com/xahon)|Jun 11|:stopwatch: nativefiledialog|:green_circle: XS|0|:eyes:||
@@ -142,13 +141,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18572](https://github.com/conan-io/conan-center-index/pull/18572)|[whaliendev](https://github.com/whaliendev)|Jul 16|:memo: tree-sitter|L|0|||
 [#18574](https://github.com/conan-io/conan-center-index/pull/18574)|[toge](https://github.com/toge)|Jul 16|:memo: cli11|:blue_square: S|1|Jul 17||RubenRBS
 [#18575](https://github.com/conan-io/conan-center-index/pull/18575)|[toge](https://github.com/toge)|Jul 16|:memo: concurrencpp|:blue_square: S|1|Jul 17||RubenRBS
-[#18579](https://github.com/conan-io/conan-center-index/pull/18579)|[stefanpantic-pdftools](https://github.com/stefanpantic-pdftools)|Jul 16|:memo: protobuf|:blue_square: S|0|||
+[#18579](https://github.com/conan-io/conan-center-index/pull/18579)|[stefanpantic-pdftools](https://github.com/stefanpantic-pdftools)|Jul 16|:stopwatch: protobuf|:blue_square: S|0|||
 [#18582](https://github.com/conan-io/conan-center-index/pull/18582)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 17|:gear: .c3i|:green_circle: XS|1|Jul 17||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -156,9 +155,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#18583](https://github.com/conan-io/conan-center-index/pull/18583)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: pdfium|2|RubenRBS, czoido
 [#18584](https://github.com/conan-io/conan-center-index/pull/18584)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: dlib|2|RubenRBS, czoido
-[#18585](https://github.com/conan-io/conan-center-index/pull/18585)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: hdf4|2|RubenRBS, czoido
-[#18586](https://github.com/conan-io/conan-center-index/pull/18586)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: libidn|2|RubenRBS, czoido
-[#18587](https://github.com/conan-io/conan-center-index/pull/18587)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:warning: librasterlite2|2|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -167,9 +163,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 335
+	- Open: 329
 	- Draft: 35
-	- Average Age: 76 days, 4 hours, and 55.22 minutes
+	- Average Age: 77 days, 14 hours, and 5.60 minutes
 	- Stop Label: 148
 	
 
