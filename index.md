@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **115** pull requests currently under way :detective:
+There are **117** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -120,7 +120,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18437](https://github.com/conan-io/conan-center-index/pull/18437)|[toge](https://github.com/toge)|Jul 9|:memo: asio-grpc|:blue_square: S|0|:eyes:||
 [#18489](https://github.com/conan-io/conan-center-index/pull/18489)|[mologie](https://github.com/mologie)|Jul 11|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
 [#18498](https://github.com/conan-io/conan-center-index/pull/18498)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: gdal|XL|0|:eyes:||
-[#18519](https://github.com/conan-io/conan-center-index/pull/18519)|[jabbas](https://github.com/jabbas)|Jul 12|:memo: dbg-macro|M|1|Jul 14||
+[#18519](https://github.com/conan-io/conan-center-index/pull/18519)|[jabbas](https://github.com/jabbas)|Jul 12|:stopwatch: dbg-macro|M|2|Jul 17||
 [#18525](https://github.com/conan-io/conan-center-index/pull/18525)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 13|:memo: gtest|:blue_square: S|0|:eyes:||
 [#18544](https://github.com/conan-io/conan-center-index/pull/18544)|[pgeler](https://github.com/pgeler)|Jul 14|:memo: grpc|L|0|||
 [#18545](https://github.com/conan-io/conan-center-index/pull/18545)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qt|:green_circle: XS|3|Jul 15||ericLemanissier, SSE4, MartinDelille
@@ -134,14 +134,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18557](https://github.com/conan-io/conan-center-index/pull/18557)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 15|:stopwatch: azure-storage-cpp|:green_circle: XS|0|||
 [#18559](https://github.com/conan-io/conan-center-index/pull/18559)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 15|:memo: util-linux-libuuid|:green_circle: XS|4|Jul 17||[gegles](https://github.com/gegles)
 [#18560](https://github.com/conan-io/conan-center-index/pull/18560)|[Tobulus](https://github.com/Tobulus)|Jul 15|:memo: libsystemd|M|0|||
-[#18563](https://github.com/conan-io/conan-center-index/pull/18563)|[toge](https://github.com/toge)|Jul 15|:memo: cpp-peglib|M|0|||
+[#18563](https://github.com/conan-io/conan-center-index/pull/18563)|[toge](https://github.com/toge)|Jul 15|:memo: cpp-peglib|M|1|Jul 17||RubenRBS
 [#18566](https://github.com/conan-io/conan-center-index/pull/18566)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:green_book: docs|:blue_square: S|0|||
 [#18567](https://github.com/conan-io/conan-center-index/pull/18567)|[tannerbitz](https://github.com/tannerbitz)|Jul 15|:stopwatch: libxft|L|0|||
 [#18570](https://github.com/conan-io/conan-center-index/pull/18570)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 16|:memo: xorg|:green_circle: XS|0|||
-[#18571](https://github.com/conan-io/conan-center-index/pull/18571)|[ashley-b](https://github.com/ashley-b)|Jul 16|:memo: libgpiod|L|0|||
+[#18571](https://github.com/conan-io/conan-center-index/pull/18571)|[ashley-b](https://github.com/ashley-b)|Jul 16|:stopwatch: libgpiod|L|0|||
 [#18574](https://github.com/conan-io/conan-center-index/pull/18574)|[toge](https://github.com/toge)|Jul 16|:memo: cli11|:blue_square: S|1|Jul 17||RubenRBS
 [#18575](https://github.com/conan-io/conan-center-index/pull/18575)|[toge](https://github.com/toge)|Jul 16|:memo: concurrencpp|:blue_square: S|1|Jul 17||RubenRBS
 [#18579](https://github.com/conan-io/conan-center-index/pull/18579)|[stefanpantic-pdftools](https://github.com/stefanpantic-pdftools)|Jul 16|:memo: protobuf|:blue_square: S|0|||
+[#18581](https://github.com/conan-io/conan-center-index/pull/18581)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 17|:stopwatch: meson|:green_circle: XS|0|||
+[#18582](https://github.com/conan-io/conan-center-index/pull/18582)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 17|:gear: .c3i|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -160,9 +162,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 329
+	- Open: 331
 	- Draft: 35
-	- Average Age: 77 days, 11 hours, and 18.70 minutes
+	- Average Age: 77 days, 1 hours, and 1.32 minutes
 	- Stop Label: 149
 	
 
