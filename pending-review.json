@@ -1181,6 +1181,25 @@
       }
    },
    {
+      "Number": 18115,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-06-28T20:58:31Z",
+      "Recipe": "panzi-portable-endian",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18115",
+      "LastCommitSHA": "fc674794296a63fc399f9615b188a53c475821ac",
+      "LastCommitAt": "2023-07-17T17:27:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18153,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-30T01:37:13Z",
@@ -1407,20 +1426,24 @@
       "LastCommitAt": "2023-06-30T16:14:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "valgur",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-07-05T14:18:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18218#pullrequestreview-1514645448"
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2023-07-17T19:11:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18218#pullrequestreview-1533507954"
          }
       }
    },
@@ -3192,26 +3215,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18598",
       "LastCommitSHA": "c04cf2a30b327ab4d95e3aff6f970cd0d64dfec1",
       "LastCommitAt": "2023-07-17T16:23:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18602,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-17T17:52:48Z",
-      "Recipe": "gnulib",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18602",
-      "LastCommitSHA": "ff53a954275a0c01caffbd032c6276a56bd7611b",
-      "LastCommitAt": "2023-07-17T17:52:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
