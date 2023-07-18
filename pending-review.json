@@ -2431,7 +2431,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18357",
       "LastCommitSHA": "a3412e62d94d6de9440c17365806bb8f9de6029d",
       "LastCommitAt": "2023-07-18T17:47:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -3352,20 +3352,24 @@
       "LastCommitAt": "2023-07-17T21:29:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "ericLemanissier",
                "Tier": "community"
+            },
+            {
+               "Name": "prince-chrismc",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-07-18T05:35:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18603#pullrequestreview-1534210743"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-07-18T19:07:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18603#pullrequestreview-1535725397"
          }
       }
    },
@@ -3495,25 +3499,6 @@
       "LastCommitSHA": "b12af3679c4c8f675f381833f2cfee98860e3397",
       "LastCommitAt": "2023-07-18T15:19:46Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18622,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-18T16:22:36Z",
-      "Recipe": "wavelet_buffer",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18622",
-      "LastCommitSHA": "5ab0bbebb08b20641e592c69cf4d7e0fdfddb71d",
-      "LastCommitAt": "2023-07-18T16:18:43Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
