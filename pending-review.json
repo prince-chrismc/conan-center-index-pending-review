@@ -3439,5 +3439,43 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18617#pullrequestreview-1534971433"
          }
       }
+   },
+   {
+      "Number": 18618,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-18T13:56:15Z",
+      "Recipe": "xnnpack",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18618",
+      "LastCommitSHA": "227253bbd351eb19016f414a8b5c6332511ed1ce",
+      "LastCommitAt": "2023-07-18T13:40:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18619,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-18T13:57:06Z",
+      "Recipe": "tensorflow-lite",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18619",
+      "LastCommitSHA": "0a406aa9fcd6f0d397644e1f867227235748ed80",
+      "LastCommitAt": "2023-07-18T14:13:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
