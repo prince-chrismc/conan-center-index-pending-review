@@ -172,19 +172,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18611](https://github.com/conan-io/conan-center-index/pull/18611)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: at-spi2-core|M|0|||
 [#18614](https://github.com/conan-io/conan-center-index/pull/18614)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|||
-[#18617](https://github.com/conan-io/conan-center-index/pull/18617)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|0|||
+[#18627](https://github.com/conan-io/conan-center-index/pull/18627)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 18|:stopwatch: ada|:green_circle: XS|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#18603](https://github.com/conan-io/conan-center-index/pull/18603)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 17|:memo: openexr|2|ericLemanissier, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -194,8 +193,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
 	- Open: 336
-	- Draft: 39
-	- Average Age: 77 days, and 0.46 minutes
+	- Draft: 40
+	- Average Age: 77 days, and 58.17 minutes
 	- Stop Label: 132
 	
 
