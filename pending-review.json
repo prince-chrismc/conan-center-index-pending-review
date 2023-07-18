@@ -2475,7 +2475,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18416",
       "LastCommitSHA": "a61e2fb8e1b33ff94999a79b548704d5e496e307",
       "LastCommitAt": "2023-07-17T22:27:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -3249,16 +3249,16 @@
       }
    },
    {
-      "Number": 18605,
+      "Number": 18606,
       "OpenedBy": "gegles",
-      "CreatedAt": "2023-07-17T21:12:52Z",
+      "CreatedAt": "2023-07-18T00:31:33Z",
       "Recipe": "restinio",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18605",
-      "LastCommitSHA": "9326325ee6d3312a4cf7f65640c6afc811fbfe4a",
-      "LastCommitAt": "2023-07-17T21:11:25Z",
-      "CciBotPassed": false,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18606",
+      "LastCommitSHA": "859627e769c0c576aa22e006bb2907974612321a",
+      "LastCommitAt": "2023-07-18T00:29:17Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
