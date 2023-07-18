@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **145** pull requests currently under way :detective:
+There are **146** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -73,10 +73,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18088](https://github.com/conan-io/conan-center-index/pull/18088)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 27|:stopwatch: libtool|:blue_square: S|0|:eyes:||
 [#18090](https://github.com/conan-io/conan-center-index/pull/18090)|[valgur](https://github.com/valgur)|Jun 27|:memo: boostdep|L|1|Jun 28 :bell:||
 [#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:memo: arrow|:blue_square: S|1|Jul 13||[mpimenov](https://github.com/mpimenov)
-[#18107](https://github.com/conan-io/conan-center-index/pull/18107)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: opentelemetry-proto|M|6|Jul 18||
+[#18107](https://github.com/conan-io/conan-center-index/pull/18107)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: opentelemetry-proto|M|7|Jul 18||uilianries
 [#18115](https://github.com/conan-io/conan-center-index/pull/18115)|[valgur](https://github.com/valgur)|Jun 28|:memo: panzi-portable-endian|L|0|||
 [#18153](https://github.com/conan-io/conan-center-index/pull/18153)|[toge](https://github.com/toge)|Jun 30|:memo: st_tree|M|5|Jul 18||uilianries
-[#18163](https://github.com/conan-io/conan-center-index/pull/18163)|[trns1997](https://github.com/trns1997)|Jun 30|:stopwatch: kickcat|M|1|Jul 13|RubenRBS|
+[#18163](https://github.com/conan-io/conan-center-index/pull/18163)|[trns1997](https://github.com/trns1997)|Jun 30|:new: kickcat|M|1|Jul 13|RubenRBS|
 [#18164](https://github.com/conan-io/conan-center-index/pull/18164)|[Hopobcn](https://github.com/Hopobcn)|Jun 30|:memo: cpuinfo|M|0|:eyes:||
 [#18169](https://github.com/conan-io/conan-center-index/pull/18169)|[valgur](https://github.com/valgur)|Jun 30|:memo: aeron|:green_circle: XS|0|||
 [#18170](https://github.com/conan-io/conan-center-index/pull/18170)|[valgur](https://github.com/valgur)|Jun 30|:memo: aggeom-agg|L|0|:eyes:||
@@ -172,17 +172,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18603](https://github.com/conan-io/conan-center-index/pull/18603)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 17|:memo: openexr|:blue_square: S|1|Jul 18||ericLemanissier
 [#18606](https://github.com/conan-io/conan-center-index/pull/18606)|[gegles](https://github.com/gegles)|Jul 18|:memo: restinio|M|0|||
 [#18611](https://github.com/conan-io/conan-center-index/pull/18611)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: at-spi2-core|M|0|||
+[#18612](https://github.com/conan-io/conan-center-index/pull/18612)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: dbus|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **2** pull requests are waiting to be merged :tada:
+Currently **1** pull request is waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#17942](https://github.com/conan-io/conan-center-index/pull/17942)|[ericLemanissier](https://github.com/ericLemanissier)|Jun 15|:warning: qt|16|MartinDelille, [dheater](https://github.com/dheater), uilianries
 
 
 #### :clipboard: Statistics
@@ -193,7 +193,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 327
 	- Draft: 36
-	- Average Age: 78 days, 21 hours, and 11.38 minutes
+	- Average Age: 78 days, 19 hours, and 43.37 minutes
 	- Stop Label: 129
 	
 
