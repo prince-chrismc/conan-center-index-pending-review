@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **146** pull requests currently under way :detective:
+There are **148** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -173,6 +173,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18614](https://github.com/conan-io/conan-center-index/pull/18614)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|||
 [#18617](https://github.com/conan-io/conan-center-index/pull/18617)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
+[#18618](https://github.com/conan-io/conan-center-index/pull/18618)|[valgur](https://github.com/valgur)|Jul 18|:stopwatch: xnnpack|M|0|||
+[#18619](https://github.com/conan-io/conan-center-index/pull/18619)|[valgur](https://github.com/valgur)|Jul 18|:stopwatch: tensorflow-lite|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -191,9 +193,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 328
+	- Open: 330
 	- Draft: 36
-	- Average Age: 78 days, 15 hours, and 9.65 minutes
+	- Average Age: 78 days, 4 hours, and 36.40 minutes
 	- Stop Label: 129
 	
 
