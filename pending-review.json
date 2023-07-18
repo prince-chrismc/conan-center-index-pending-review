@@ -1262,11 +1262,21 @@
       "LastCommitAt": "2023-07-01T22:20:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "toge",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2023-07-18T16:08:53Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18164#pullrequestreview-1535413289"
+         }
       }
    },
    {
@@ -3100,7 +3110,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18566",
       "LastCommitSHA": "f5a2fd90aa093bd2c0ca8c33c2c1472af67a9f7e",
       "LastCommitAt": "2023-07-18T15:12:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
