@@ -1410,6 +1410,30 @@
       }
    },
    {
+      "Number": 18215,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2023-06-30T14:42:15Z",
+      "Recipe": "sobjectizer",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18215",
+      "LastCommitSHA": "9a8596b5873684fc485a5895de57ddcc214ec875",
+      "LastCommitAt": "2023-07-17T21:19:27Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2023-07-17T15:55:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18215#pullrequestreview-1533127346"
+         }
+      }
+   },
+   {
       "Number": 18218,
       "OpenedBy": "toge",
       "CreatedAt": "2023-06-30T16:15:15Z",
