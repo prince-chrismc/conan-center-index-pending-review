@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **148** pull requests currently under way :detective:
+There are **147** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -115,6 +115,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:memo: libunifex|L|0|||
 [#18266](https://github.com/conan-io/conan-center-index/pull/18266)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.exceptions|L|0|:eyes:||
 [#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:memo: redboltz-mqtt_cpp|L|0|:eyes:||
+[#18272](https://github.com/conan-io/conan-center-index/pull/18272)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: seqan|L|1|Jul 18||
 [#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:memo: seqan3|L|0|:eyes:||
 [#18277](https://github.com/conan-io/conan-center-index/pull/18277)|[toge](https://github.com/toge)|Jul 2|:memo: pbtools|L|0|:eyes:||
 [#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|3|Jul 3 :bell:||StellaSmith, [CJCombrink](https://github.com/CJCombrink)
@@ -157,7 +158,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18557](https://github.com/conan-io/conan-center-index/pull/18557)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 15|:stopwatch: azure-storage-cpp|:green_circle: XS|1|Jul 17||jwillikers
 [#18559](https://github.com/conan-io/conan-center-index/pull/18559)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 15|:memo: util-linux-libuuid|:green_circle: XS|5|Jul 17||[gegles](https://github.com/gegles), jwillikers
 [#18560](https://github.com/conan-io/conan-center-index/pull/18560)|[Tobulus](https://github.com/Tobulus)|Jul 15|:memo: libsystemd|M|0|:eyes:||
-[#18566](https://github.com/conan-io/conan-center-index/pull/18566)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:green_book: docs|:blue_square: S|1|Jul 18||
+[#18566](https://github.com/conan-io/conan-center-index/pull/18566)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 15|:stopwatch: docs|:blue_square: S|4|Jul 18||jcar87
 [#18567](https://github.com/conan-io/conan-center-index/pull/18567)|[tannerbitz](https://github.com/tannerbitz)|Jul 15|:stopwatch: libxft|L|0|||
 [#18570](https://github.com/conan-io/conan-center-index/pull/18570)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 16|:memo: xorg|:green_circle: XS|1|Jul 17||jwillikers
 [#18572](https://github.com/conan-io/conan-center-index/pull/18572)|[whaliendev](https://github.com/whaliendev)|Jul 16|:memo: tree-sitter|L|0|||
@@ -173,8 +174,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18614](https://github.com/conan-io/conan-center-index/pull/18614)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|||
 [#18617](https://github.com/conan-io/conan-center-index/pull/18617)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
-[#18618](https://github.com/conan-io/conan-center-index/pull/18618)|[valgur](https://github.com/valgur)|Jul 18|:stopwatch: xnnpack|M|0|||
-[#18619](https://github.com/conan-io/conan-center-index/pull/18619)|[valgur](https://github.com/valgur)|Jul 18|:stopwatch: tensorflow-lite|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -193,10 +192,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 330
+	- Open: 331
 	- Draft: 36
-	- Average Age: 78 days, 4 hours, and 36.40 minutes
-	- Stop Label: 129
+	- Average Age: 77 days, 23 hours, and 56.98 minutes
+	- Stop Label: 132
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
