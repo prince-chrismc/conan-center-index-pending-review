@@ -170,10 +170,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18601](https://github.com/conan-io/conan-center-index/pull/18601)|[toge](https://github.com/toge)|Jul 17|:stopwatch: glaze|:blue_square: S|0|||
 [#18606](https://github.com/conan-io/conan-center-index/pull/18606)|[gegles](https://github.com/gegles)|Jul 18|:memo: restinio|M|0|||
 [#18611](https://github.com/conan-io/conan-center-index/pull/18611)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: at-spi2-core|M|0|||
-[#18614](https://github.com/conan-io/conan-center-index/pull/18614)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|||
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|0|||
-[#18627](https://github.com/conan-io/conan-center-index/pull/18627)|[prince-chrismc](https://github.com/prince-chrismc)|Jul 18|:stopwatch: ada|:green_circle: XS|0|:eyes:||
+[#18629](https://github.com/conan-io/conan-center-index/pull/18629)|[valgur](https://github.com/valgur)|Jul 18|:stopwatch: libsass|L|0|||
+[#18630](https://github.com/conan-io/conan-center-index/pull/18630)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 18|:stopwatch: opencv|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -192,9 +192,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 336
+	- Open: 337
 	- Draft: 40
-	- Average Age: 77 days, and 58.17 minutes
+	- Average Age: 76 days, 20 hours, and 25.92 minutes
 	- Stop Label: 132
 	
 
