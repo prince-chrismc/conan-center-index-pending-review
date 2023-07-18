@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **147** pull requests currently under way :detective:
+There are **148** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -115,7 +115,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:memo: libunifex|L|0|||
 [#18266](https://github.com/conan-io/conan-center-index/pull/18266)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.exceptions|L|0|:eyes:||
 [#18270](https://github.com/conan-io/conan-center-index/pull/18270)|[valgur](https://github.com/valgur)|Jul 1|:memo: redboltz-mqtt_cpp|L|0|:eyes:||
-[#18272](https://github.com/conan-io/conan-center-index/pull/18272)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: seqan|L|1|Jul 18||
+[#18272](https://github.com/conan-io/conan-center-index/pull/18272)|[valgur](https://github.com/valgur)|Jul 1|:memo: seqan|L|1|Jul 18||
 [#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:memo: seqan3|L|0|:eyes:||
 [#18277](https://github.com/conan-io/conan-center-index/pull/18277)|[toge](https://github.com/toge)|Jul 2|:memo: pbtools|L|0|:eyes:||
 [#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|3|Jul 3 :bell:||StellaSmith, [CJCombrink](https://github.com/CJCombrink)
@@ -174,6 +174,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18614](https://github.com/conan-io/conan-center-index/pull/18614)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|||
 [#18617](https://github.com/conan-io/conan-center-index/pull/18617)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
+[#18622](https://github.com/conan-io/conan-center-index/pull/18622)|[toge](https://github.com/toge)|Jul 18|:stopwatch: wavelet_buffer|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -192,9 +193,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 331
-	- Draft: 36
-	- Average Age: 78 days, 1 hours, and 1.49 minutes
+	- Open: 333
+	- Draft: 37
+	- Average Age: 77 days, 14 hours, and 40.20 minutes
 	- Stop Label: 132
 	
 
