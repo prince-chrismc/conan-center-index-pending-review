@@ -108,7 +108,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18259](https://github.com/conan-io/conan-center-index/pull/18259)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: frugally-deep|L|0|||
 [#18260](https://github.com/conan-io/conan-center-index/pull/18260)|[valgur](https://github.com/valgur)|Jul 1|:memo: pipes|L|0|:eyes:||
 [#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:memo: platform.converters|L|0|:eyes:||
-[#18262](https://github.com/conan-io/conan-center-index/pull/18262)|[valgur](https://github.com/valgur)|Jul 1|:memo: glshaderpp|L|0|||
+[#18262](https://github.com/conan-io/conan-center-index/pull/18262)|[valgur](https://github.com/valgur)|Jul 1|:memo: glshaderpp|L|1|Jul 18||uilianries
 [#18263](https://github.com/conan-io/conan-center-index/pull/18263)|[valgur](https://github.com/valgur)|Jul 1|:memo: platform.equality|L|0|||
 [#18264](https://github.com/conan-io/conan-center-index/pull/18264)|[valgur](https://github.com/valgur)|Jul 1|:memo: ctpg|L|0|||
 [#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:memo: libunifex|L|0|||
@@ -164,7 +164,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18572](https://github.com/conan-io/conan-center-index/pull/18572)|[whaliendev](https://github.com/whaliendev)|Jul 16|:memo: tree-sitter|L|0|||
 [#18579](https://github.com/conan-io/conan-center-index/pull/18579)|[stefanpantic-pdftools](https://github.com/stefanpantic-pdftools)|Jul 16|:memo: protobuf|:blue_square: S|0|||
 [#18580](https://github.com/conan-io/conan-center-index/pull/18580)|[toge](https://github.com/toge)|Jul 16|:memo: functions-framework-cpp|L|1|Jul 17||
-[#18588](https://github.com/conan-io/conan-center-index/pull/18588)|[uilianries](https://github.com/uilianries)|Jul 17|:memo: dlib|L|2|Jul 17||
+[#18588](https://github.com/conan-io/conan-center-index/pull/18588)|[uilianries](https://github.com/uilianries)|Jul 17|:stopwatch: dlib|L|2|Jul 17||
 [#18593](https://github.com/conan-io/conan-center-index/pull/18593)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 17|:gear: .c3i|:green_circle: XS|0|||
 [#18596](https://github.com/conan-io/conan-center-index/pull/18596)|[valgur](https://github.com/valgur)|Jul 17|:memo: functionalplus|:blue_square: S|0|||
 [#18598](https://github.com/conan-io/conan-center-index/pull/18598)|[toge](https://github.com/toge)|Jul 17|:memo: fakeit|:blue_square: S|0|||
@@ -190,7 +190,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 325
 	- Draft: 36
-	- Average Age: 79 days, 4 hours, and 53.53 minutes
+	- Average Age: 79 days, 5 hours, and 48.79 minutes
 	- Stop Label: 128
 	
 
