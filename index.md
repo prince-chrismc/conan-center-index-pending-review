@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **149** pull requests currently under way :detective:
+There are **147** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,7 +131,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18350](https://github.com/conan-io/conan-center-index/pull/18350)|[valgur](https://github.com/valgur)|Jul 5|:memo: di|L|0|:eyes:||
 [#18352](https://github.com/conan-io/conan-center-index/pull/18352)|[valgur](https://github.com/valgur)|Jul 5|:memo: si|L|2|Jul 7||
 [#18356](https://github.com/conan-io/conan-center-index/pull/18356)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: so5extra|L|0|:eyes:||
-[#18357](https://github.com/conan-io/conan-center-index/pull/18357)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: simple-yaml|L|3|Jul 18||prince-chrismc
+[#18357](https://github.com/conan-io/conan-center-index/pull/18357)|[valgur](https://github.com/valgur)|Jul 5|:memo: simple-yaml|L|3|Jul 18||prince-chrismc
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6 :bell:||
 [#18376](https://github.com/conan-io/conan-center-index/pull/18376)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 6|:stopwatch: qt|L|1|Jul 6 :bell:||jwillikers
 [#18415](https://github.com/conan-io/conan-center-index/pull/18415)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 8|:memo: doxygen|:blue_square: S|0|:eyes:||
@@ -168,24 +168,23 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18596](https://github.com/conan-io/conan-center-index/pull/18596)|[valgur](https://github.com/valgur)|Jul 17|:memo: functionalplus|:blue_square: S|0|||
 [#18598](https://github.com/conan-io/conan-center-index/pull/18598)|[toge](https://github.com/toge)|Jul 17|:memo: fakeit|:blue_square: S|0|||
 [#18601](https://github.com/conan-io/conan-center-index/pull/18601)|[toge](https://github.com/toge)|Jul 17|:stopwatch: glaze|:blue_square: S|0|||
-[#18603](https://github.com/conan-io/conan-center-index/pull/18603)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 17|:memo: openexr|:blue_square: S|1|Jul 18||ericLemanissier
 [#18606](https://github.com/conan-io/conan-center-index/pull/18606)|[gegles](https://github.com/gegles)|Jul 18|:memo: restinio|M|0|||
 [#18611](https://github.com/conan-io/conan-center-index/pull/18611)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: at-spi2-core|M|0|||
 [#18614](https://github.com/conan-io/conan-center-index/pull/18614)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|||
 [#18617](https://github.com/conan-io/conan-center-index/pull/18617)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 18|:stopwatch: qt|:green_circle: XS|1|Jul 18||MartinDelille
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|0|||
-[#18622](https://github.com/conan-io/conan-center-index/pull/18622)|[toge](https://github.com/toge)|Jul 18|:stopwatch: wavelet_buffer|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **1** pull request is waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
+[#18603](https://github.com/conan-io/conan-center-index/pull/18603)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 17|:memo: openexr|2|ericLemanissier, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -196,8 +195,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 336
 	- Draft: 39
-	- Average Age: 76 days, 23 hours, and 6.63 minutes
-	- Stop Label: 131
+	- Average Age: 77 days, and 0.46 minutes
+	- Stop Label: 132
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
