@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **166** pull requests currently under way :detective:
+There are **167** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -173,7 +173,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|0|||
 [#18622](https://github.com/conan-io/conan-center-index/pull/18622)|[toge](https://github.com/toge)|Jul 18|:memo: wavelet_buffer|M|0|||
 [#18637](https://github.com/conan-io/conan-center-index/pull/18637)|[valgur](https://github.com/valgur)|Jul 19|:memo: aws-libfabric|L|0|||
-[#18638](https://github.com/conan-io/conan-center-index/pull/18638)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: libxshmfence|L|0|||
+[#18638](https://github.com/conan-io/conan-center-index/pull/18638)|[valgur](https://github.com/valgur)|Jul 19|:memo: libxshmfence|L|0|||
 [#18639](https://github.com/conan-io/conan-center-index/pull/18639)|[valgur](https://github.com/valgur)|Jul 19|:memo: xsd|L|0|||
 [#18645](https://github.com/conan-io/conan-center-index/pull/18645)|[uilianries](https://github.com/uilianries)|Jul 19|:green_book: docs|:blue_square: S|1|Jul 19||danimtb
 [#18646](https://github.com/conan-io/conan-center-index/pull/18646)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 19|:gear: .c3i|:green_circle: XS|1|Jul 19|uilianries|
@@ -183,8 +183,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18651](https://github.com/conan-io/conan-center-index/pull/18651)|[valgur](https://github.com/valgur)|Jul 19|:memo: imguizmo|L|0|||
 [#18653](https://github.com/conan-io/conan-center-index/pull/18653)|[valgur](https://github.com/valgur)|Jul 19|:memo: libipt|L|0|||
 [#18655](https://github.com/conan-io/conan-center-index/pull/18655)|[valgur](https://github.com/valgur)|Jul 19|:memo: whereami|L|0|||
-[#18658](https://github.com/conan-io/conan-center-index/pull/18658)|[valgur](https://github.com/valgur)|Jul 19|:memo: rg-etc1|L|0|||
-[#18660](https://github.com/conan-io/conan-center-index/pull/18660)|[valgur](https://github.com/valgur)|Jul 19|:memo: serial|L|0|||
+[#18658](https://github.com/conan-io/conan-center-index/pull/18658)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: rg-etc1|L|0|||
+[#18660](https://github.com/conan-io/conan-center-index/pull/18660)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: serial|L|0|||
 [#18662](https://github.com/conan-io/conan-center-index/pull/18662)|[valgur](https://github.com/valgur)|Jul 19|:memo: libslz|L|0|||
 [#18664](https://github.com/conan-io/conan-center-index/pull/18664)|[valgur](https://github.com/valgur)|Jul 19|:memo: iqa|L|0|||
 [#18665](https://github.com/conan-io/conan-center-index/pull/18665)|[valgur](https://github.com/valgur)|Jul 19|:memo: astro-informatics-so3|L|0|||
@@ -193,6 +193,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18676](https://github.com/conan-io/conan-center-index/pull/18676)|[nextsilicon-itay-bookstein](https://github.com/nextsilicon-itay-bookstein)|Jul 19|:stopwatch: mpfr|M|0|||
 [#18677](https://github.com/conan-io/conan-center-index/pull/18677)|[toge](https://github.com/toge)|Jul 19|:stopwatch: libcurl|:blue_square: S|1|Jul 19||[Hopobcn](https://github.com/Hopobcn)
 [#18678](https://github.com/conan-io/conan-center-index/pull/18678)|[toge](https://github.com/toge)|Jul 19|:stopwatch: implot|:blue_square: S|0|||
+[#18679](https://github.com/conan-io/conan-center-index/pull/18679)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 19|:gear: .c3i|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -211,9 +212,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 377
+	- Open: 378
 	- Draft: 43
-	- Average Age: 69 days, 9 hours, and 28.24 minutes
+	- Average Age: 69 days, 6 hours, and 6.66 minutes
 	- Stop Label: 151
 	
 
