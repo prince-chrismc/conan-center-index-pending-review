@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **151** pull requests currently under way :detective:
+There are **154** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -171,6 +171,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|||
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|0|||
 [#18622](https://github.com/conan-io/conan-center-index/pull/18622)|[toge](https://github.com/toge)|Jul 18|:memo: wavelet_buffer|M|0|||
+[#18629](https://github.com/conan-io/conan-center-index/pull/18629)|[valgur](https://github.com/valgur)|Jul 18|:stopwatch: libsass|L|0|||
+[#18636](https://github.com/conan-io/conan-center-index/pull/18636)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: asn1c|L|0|||
+[#18637](https://github.com/conan-io/conan-center-index/pull/18637)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: aws-libfabric|L|0|||
 [#18638](https://github.com/conan-io/conan-center-index/pull/18638)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: libxshmfence|L|0|||
 [#18639](https://github.com/conan-io/conan-center-index/pull/18639)|[valgur](https://github.com/valgur)|Jul 19|:memo: xsd|L|0|||
 [#18643](https://github.com/conan-io/conan-center-index/pull/18643)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: pexports|L|0|||
@@ -198,8 +201,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 347
 	- Draft: 40
-	- Average Age: 75 days, and 12.61 minutes
-	- Stop Label: 139
+	- Average Age: 75 days, 1 hours, and 12.86 minutes
+	- Stop Label: 136
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
