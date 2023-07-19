@@ -3572,7 +3572,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18651",
       "LastCommitSHA": "54eb4db73677af5afa0974502ac89a37747b23e6",
       "LastCommitAt": "2023-07-19T10:28:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3715,6 +3715,25 @@
       }
    },
    {
+      "Number": 18675,
+      "OpenedBy": "maksim-petukhov",
+      "CreatedAt": "2023-07-19T14:38:50Z",
+      "Recipe": "snappy",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18675",
+      "LastCommitSHA": "02d258e01c14b602ffec6094e6bf8873a381763d",
+      "LastCommitAt": "2023-07-19T15:26:21Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18676,
       "OpenedBy": "nextsilicon-itay-bookstein",
       "CreatedAt": "2023-07-19T15:47:06Z",
@@ -3724,6 +3743,54 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18676",
       "LastCommitSHA": "05fe7c8d16915ecd010602ddfc7f5f39c26168eb",
       "LastCommitAt": "2023-07-19T14:33:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18677,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-19T16:44:41Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18677",
+      "LastCommitSHA": "ba77b43aa516cb4653e46fbdb6bade199d0de72c",
+      "LastCommitAt": "2023-07-19T16:44:02Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "Hopobcn",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Hopobcn",
+            "SubmittedAt": "2023-07-19T17:01:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18677#pullrequestreview-1537562203"
+         }
+      }
+   },
+   {
+      "Number": 18678,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-19T16:59:19Z",
+      "Recipe": "implot",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18678",
+      "LastCommitSHA": "b54b113292f5de9593778d3743e6e03a84e43c42",
+      "LastCommitAt": "2023-07-19T16:58:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
