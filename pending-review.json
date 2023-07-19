@@ -3451,44 +3451,6 @@
       }
    },
    {
-      "Number": 18643,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T07:32:45Z",
-      "Recipe": "pexports",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18643",
-      "LastCommitSHA": "d7ac2a5fe60724391f5a1bf8089e13e51c3c80f9",
-      "LastCommitAt": "2023-07-19T09:30:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18644,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T07:42:58Z",
-      "Recipe": "subunit",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18644",
-      "LastCommitSHA": "3302b38db3575eb72af1c0a3be91330efeee8873",
-      "LastCommitAt": "2023-07-19T07:42:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18645,
       "OpenedBy": "uilianries",
       "CreatedAt": "2023-07-19T08:03:25Z",
@@ -3601,30 +3563,6 @@
       }
    },
    {
-      "Number": 18650,
-      "OpenedBy": "ledocc",
-      "CreatedAt": "2023-07-19T10:27:15Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18650",
-      "LastCommitSHA": "6949aa8546fa34ef78ce00053555856fb0f23553",
-      "LastCommitAt": "2023-07-19T13:29:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-07-19T11:14:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18650#pullrequestreview-1536847485"
-         }
-      }
-   },
-   {
       "Number": 18651,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T10:28:57Z",
@@ -3691,7 +3629,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18655",
       "LastCommitSHA": "19246e08ac575953423c0c7f18c70bb1bb5db672",
       "LastCommitAt": "2023-07-19T10:47:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3758,44 +3696,6 @@
       }
    },
    {
-      "Number": 18669,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T13:28:51Z",
-      "Recipe": "hunspell",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18669",
-      "LastCommitSHA": "7901d5c4fb8acc92c594f123e320796aac68e9c3",
-      "LastCommitAt": "2023-07-19T13:27:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18670,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T13:43:27Z",
-      "Recipe": "enchant",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18670",
-      "LastCommitSHA": "93a9a33305a99d2bffc39e2040d7e6ff4f414d83",
-      "LastCommitAt": "2023-07-19T13:38:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18671,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T13:46:36Z",
@@ -3805,7 +3705,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18671",
       "LastCommitSHA": "295bbe7b17274caca4816c51332db7576fa14b64",
       "LastCommitAt": "2023-07-19T13:46:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
