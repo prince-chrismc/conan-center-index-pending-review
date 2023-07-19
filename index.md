@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **146** pull requests currently under way :detective:
+There are **150** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -173,6 +173,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|||
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|0|||
 [#18622](https://github.com/conan-io/conan-center-index/pull/18622)|[toge](https://github.com/toge)|Jul 18|:memo: wavelet_buffer|M|0|||
+[#18637](https://github.com/conan-io/conan-center-index/pull/18637)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: aws-libfabric|L|0|||
+[#18638](https://github.com/conan-io/conan-center-index/pull/18638)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: libxshmfence|L|0|||
+[#18639](https://github.com/conan-io/conan-center-index/pull/18639)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: xsd|L|0|||
+[#18640](https://github.com/conan-io/conan-center-index/pull/18640)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: isl|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -191,10 +195,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 337
+	- Open: 342
 	- Draft: 40
-	- Average Age: 77 days, 2 hours, and 45.53 minutes
-	- Stop Label: 135
+	- Average Age: 76 days, and 37.46 minutes
+	- Stop Label: 136
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
