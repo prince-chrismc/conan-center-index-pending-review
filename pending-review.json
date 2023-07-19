@@ -3446,7 +3446,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18638",
       "LastCommitSHA": "452879428fd84d5085e35a57c466ff96103b0590",
       "LastCommitAt": "2023-07-19T17:45:24Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3651,9 +3651,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18658",
-      "LastCommitSHA": "b3da6528d9b4418bfac1b9329376e78b51d75a52",
-      "LastCommitAt": "2023-07-19T17:41:57Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "0ad13a0386040d949d3ee95975178fcd9f7eccef",
+      "LastCommitAt": "2023-07-19T19:32:12Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3670,9 +3670,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18660",
-      "LastCommitSHA": "1fcbd899c301703e60ee236236094bdbe70e31f9",
-      "LastCommitAt": "2023-07-19T17:43:19Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "2011f0636acf2a55e6322bc23531ac3d01e94a1c",
+      "LastCommitAt": "2023-07-19T19:30:59Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3835,6 +3835,25 @@
       "LastCommitSHA": "b54b113292f5de9593778d3743e6e03a84e43c42",
       "LastCommitAt": "2023-07-19T16:58:44Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18679,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2023-07-19T20:10:55Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18679",
+      "LastCommitSHA": "1ac7989c0f0d64ce7e7b99621e3854a473f72878",
+      "LastCommitAt": "2023-07-19T20:10:51Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
