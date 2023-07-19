@@ -851,25 +851,6 @@
       }
    },
    {
-      "Number": 17899,
-      "OpenedBy": "xahon",
-      "CreatedAt": "2023-06-11T06:09:39Z",
-      "Recipe": "nativefiledialog",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17899",
-      "LastCommitSHA": "ac38f1acac9de9de17d701bac1bdf2a6d7d76a50",
-      "LastCommitAt": "2023-06-11T06:01:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 17911,
       "OpenedBy": "nbukuli",
       "CreatedAt": "2023-06-12T11:50:58Z",
@@ -3408,25 +3389,6 @@
       "LastCommitSHA": "b12af3679c4c8f675f381833f2cfee98860e3397",
       "LastCommitAt": "2023-07-18T15:19:46Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18630,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2023-07-18T20:54:55Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18630",
-      "LastCommitSHA": "0097024f25bcc6262b2ca0935669bf6b8dca2b28",
-      "LastCommitAt": "2023-07-18T20:54:27Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
