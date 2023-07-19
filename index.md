@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **165** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -174,24 +174,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18637](https://github.com/conan-io/conan-center-index/pull/18637)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: aws-libfabric|L|0|||
 [#18638](https://github.com/conan-io/conan-center-index/pull/18638)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: libxshmfence|L|0|||
 [#18639](https://github.com/conan-io/conan-center-index/pull/18639)|[valgur](https://github.com/valgur)|Jul 19|:memo: xsd|L|0|||
-[#18643](https://github.com/conan-io/conan-center-index/pull/18643)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: pexports|L|0|||
-[#18644](https://github.com/conan-io/conan-center-index/pull/18644)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: subunit|L|0|||
 [#18645](https://github.com/conan-io/conan-center-index/pull/18645)|[uilianries](https://github.com/uilianries)|Jul 19|:green_book: docs|:blue_square: S|1|Jul 19||danimtb
 [#18646](https://github.com/conan-io/conan-center-index/pull/18646)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 19|:gear: .c3i|:green_circle: XS|1|Jul 19|uilianries|
 [#18647](https://github.com/conan-io/conan-center-index/pull/18647)|[Cogitri](https://github.com/Cogitri)|Jul 19|:stopwatch: opentelemetry-cpp|:blue_square: S|0|||
 [#18648](https://github.com/conan-io/conan-center-index/pull/18648)|[valgur](https://github.com/valgur)|Jul 19|:memo: pbtools|L|0|||
 [#18649](https://github.com/conan-io/conan-center-index/pull/18649)|[valgur](https://github.com/valgur)|Jul 19|:memo: parg|L|0|||
-[#18650](https://github.com/conan-io/conan-center-index/pull/18650)|[ledocc](https://github.com/ledocc)|Jul 19|:stopwatch: qt|L|1|Jul 19||
 [#18651](https://github.com/conan-io/conan-center-index/pull/18651)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: imguizmo|L|0|||
 [#18652](https://github.com/conan-io/conan-center-index/pull/18652)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: wineditline|L|0|||
 [#18653](https://github.com/conan-io/conan-center-index/pull/18653)|[valgur](https://github.com/valgur)|Jul 19|:memo: libipt|L|0|||
-[#18655](https://github.com/conan-io/conan-center-index/pull/18655)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: whereami|L|0|||
+[#18655](https://github.com/conan-io/conan-center-index/pull/18655)|[valgur](https://github.com/valgur)|Jul 19|:memo: whereami|L|0|||
 [#18662](https://github.com/conan-io/conan-center-index/pull/18662)|[valgur](https://github.com/valgur)|Jul 19|:memo: libslz|L|0|||
 [#18664](https://github.com/conan-io/conan-center-index/pull/18664)|[valgur](https://github.com/valgur)|Jul 19|:memo: iqa|L|0|||
 [#18665](https://github.com/conan-io/conan-center-index/pull/18665)|[valgur](https://github.com/valgur)|Jul 19|:memo: astro-informatics-so3|L|0|||
-[#18669](https://github.com/conan-io/conan-center-index/pull/18669)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: hunspell|L|0|||
-[#18670](https://github.com/conan-io/conan-center-index/pull/18670)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: enchant|L|0|||
-[#18671](https://github.com/conan-io/conan-center-index/pull/18671)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: libmbus|L|0|||
+[#18671](https://github.com/conan-io/conan-center-index/pull/18671)|[valgur](https://github.com/valgur)|Jul 19|:memo: libmbus|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -210,10 +205,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 373
+	- Open: 374
 	- Draft: 43
-	- Average Age: 69 days, 22 hours, and 19.60 minutes
-	- Stop Label: 148
+	- Average Age: 69 days, 18 hours, and 51.60 minutes
+	- Stop Label: 154
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
