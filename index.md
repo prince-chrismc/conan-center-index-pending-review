@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **154** pull requests currently under way :detective:
+There are **165** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -181,6 +181,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18645](https://github.com/conan-io/conan-center-index/pull/18645)|[uilianries](https://github.com/uilianries)|Jul 19|:green_book: docs|:blue_square: S|1|Jul 19||danimtb
 [#18646](https://github.com/conan-io/conan-center-index/pull/18646)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 19|:gear: .c3i|:green_circle: XS|1|Jul 19|uilianries|
 [#18647](https://github.com/conan-io/conan-center-index/pull/18647)|[Cogitri](https://github.com/Cogitri)|Jul 19|:stopwatch: opentelemetry-cpp|:blue_square: S|0|||
+[#18648](https://github.com/conan-io/conan-center-index/pull/18648)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: pbtools|L|0|||
+[#18649](https://github.com/conan-io/conan-center-index/pull/18649)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: parg|L|0|||
+[#18650](https://github.com/conan-io/conan-center-index/pull/18650)|[ledocc](https://github.com/ledocc)|Jul 19|:stopwatch: qt|L|0|||
+[#18651](https://github.com/conan-io/conan-center-index/pull/18651)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: imguizmo|L|0|||
+[#18652](https://github.com/conan-io/conan-center-index/pull/18652)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: wineditline|L|0|||
+[#18653](https://github.com/conan-io/conan-center-index/pull/18653)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: libipt|L|0|||
+[#18654](https://github.com/conan-io/conan-center-index/pull/18654)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: directshowbaseclasses|L|0|||
+[#18655](https://github.com/conan-io/conan-center-index/pull/18655)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: whereami|L|0|||
+[#18656](https://github.com/conan-io/conan-center-index/pull/18656)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: kcp|L|0|||
+[#18657](https://github.com/conan-io/conan-center-index/pull/18657)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: huffman|L|0|||
+[#18658](https://github.com/conan-io/conan-center-index/pull/18658)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: rg-etc1|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -199,9 +210,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 347
+	- Open: 358
 	- Draft: 40
-	- Average Age: 75 days, 1 hours, and 12.86 minutes
+	- Average Age: 72 days, 18 hours, and 48.70 minutes
 	- Stop Label: 136
 	
 
