@@ -4226,11 +4226,21 @@
       "LastCommitAt": "2023-07-20T16:36:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "prince-chrismc",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-07-20T21:13:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18753#pullrequestreview-1540104377"
+         }
       }
    },
    {
@@ -4310,16 +4320,16 @@
       }
    },
    {
-      "Number": 18765,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T20:54:00Z",
-      "Recipe": "llvm-openmp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18765",
-      "LastCommitSHA": "59fdb0a90dd73ae34bfe149d973d1750fe2bae2e",
-      "LastCommitAt": "2023-07-20T21:05:43Z",
-      "CciBotPassed": false,
+      "Number": 18767,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2023-07-20T21:34:10Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18767",
+      "LastCommitSHA": "733236c758e47e6eab7106322a5d4b2cb2e35f02",
+      "LastCommitAt": "2023-07-20T21:34:06Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
