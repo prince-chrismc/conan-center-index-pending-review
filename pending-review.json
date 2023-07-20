@@ -3927,43 +3927,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 18695,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T22:24:54Z",
-      "Recipe": "etc2comp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18695",
-      "LastCommitSHA": "cf39472a5bab92fd3970116ffab31b8587156bb2",
-      "LastCommitAt": "2023-07-19T22:24:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18696,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T22:54:01Z",
-      "Recipe": "sqlpp11-connector-sqlite3",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18696",
-      "LastCommitSHA": "403297be6cffe2b7ebe187da6ef95d9a4203b7b6",
-      "LastCommitAt": "2023-07-19T22:53:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
