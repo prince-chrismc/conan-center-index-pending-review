@@ -143,7 +143,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18498](https://github.com/conan-io/conan-center-index/pull/18498)|[mayeut](https://github.com/mayeut)|Jul 11|:stopwatch: gdal|XL|0|||
 [#18512](https://github.com/conan-io/conan-center-index/pull/18512)|[toge](https://github.com/toge)|Jul 12|:new: wasm-micro-runtime|L|1|Jul 14||
 [#18522](https://github.com/conan-io/conan-center-index/pull/18522)|[toge](https://github.com/toge)|Jul 13|:new: uvwasi|L|4|Jul 14||
-[#18544](https://github.com/conan-io/conan-center-index/pull/18544)|[pgeler](https://github.com/pgeler)|Jul 14|:stopwatch: grpc|L|0|:eyes:||
+[#18544](https://github.com/conan-io/conan-center-index/pull/18544)|[pgeler](https://github.com/pgeler)|Jul 14|:memo: grpc|L|0|:eyes:||
 [#18545](https://github.com/conan-io/conan-center-index/pull/18545)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qt|:green_circle: XS|3|Jul 15||ericLemanissier, SSE4, MartinDelille
 [#18546](https://github.com/conan-io/conan-center-index/pull/18546)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qarchive|:blue_square: S|1|Jul 20||ericLemanissier
 [#18548](https://github.com/conan-io/conan-center-index/pull/18548)|[nmgwddj](https://github.com/nmgwddj)|Jul 15|:stopwatch: netease-im|L|0|:eyes:||
@@ -213,7 +213,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18754](https://github.com/conan-io/conan-center-index/pull/18754)|[valgur](https://github.com/valgur)|Jul 20|:memo: upx|L|0|||
 [#18757](https://github.com/conan-io/conan-center-index/pull/18757)|[valgur](https://github.com/valgur)|Jul 20|:memo: detours|L|0|||
 [#18760](https://github.com/conan-io/conan-center-index/pull/18760)|[Tobulus](https://github.com/Tobulus)|Jul 20|:memo: libmnl|M|0|||
-[#18762](https://github.com/conan-io/conan-center-index/pull/18762)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 20|:stopwatch: dav1d|:green_circle: XS|0|||
+[#18764](https://github.com/conan-io/conan-center-index/pull/18764)|[stepanzorin](https://github.com/stepanzorin)|Jul 20|:stopwatch: boost|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -232,10 +232,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4a43337a306f1da9d1444f78bd860cd1bdf335a0
 - Pull Requests:
-	- Open: 445
+	- Open: 447
 	- Draft: 44
-	- Average Age: 59 days, 9 hours, and 22.00 minutes
-	- Stop Label: 196
+	- Average Age: 59 days, 4 hours, and 2.09 minutes
+	- Stop Label: 197
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
