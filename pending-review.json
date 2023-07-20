@@ -2779,7 +2779,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18544",
       "LastCommitSHA": "7c393437a4856261cba47c32e883bb004a996e61",
       "LastCommitAt": "2023-07-16T12:51:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4329,15 +4329,15 @@
       }
    },
    {
-      "Number": 18762,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2023-07-20T19:01:55Z",
-      "Recipe": "dav1d",
+      "Number": 18764,
+      "OpenedBy": "stepanzorin",
+      "CreatedAt": "2023-07-20T19:45:21Z",
+      "Recipe": "boost",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18762",
-      "LastCommitSHA": "8d7d407bd0a3a160ad025b5a344e439c9457ef12",
-      "LastCommitAt": "2023-07-20T19:01:18Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18764",
+      "LastCommitSHA": "dd1dc153133ab1ba36bd0ec20e70e6acdc547d83",
+      "LastCommitAt": "2023-07-20T19:36:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
