@@ -1059,9 +1059,9 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18106",
-      "LastCommitSHA": "72a8a40e3ca2a1067a75046a3f65e566506e4ca7",
-      "LastCommitAt": "2023-06-28T16:53:26Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "97f553e198c18dab395511f5047545c493bd843d",
+      "LastCommitAt": "2023-07-21T00:37:42Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2712,6 +2712,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18498",
       "LastCommitSHA": "d4ca1d2b63cb3f36b687727db408c577c1e36e88",
       "LastCommitAt": "2023-07-18T04:51:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18500,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-07-11T21:42:02Z",
+      "Recipe": "osgearth",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18500",
+      "LastCommitSHA": "241d8c98d78510c8279baa738453907b3763a562",
+      "LastCommitAt": "2023-07-20T21:49:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
