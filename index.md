@@ -69,7 +69,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18090](https://github.com/conan-io/conan-center-index/pull/18090)|[valgur](https://github.com/valgur)|Jun 27|:memo: boostdep|L|1|Jun 28 :bell:||
 [#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:memo: arrow|:blue_square: S|1|Jul 13||[mpimenov](https://github.com/mpimenov)
 [#18115](https://github.com/conan-io/conan-center-index/pull/18115)|[valgur](https://github.com/valgur)|Jun 28|:memo: panzi-portable-endian|L|0|:eyes:||
-[#18117](https://github.com/conan-io/conan-center-index/pull/18117)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: dtl|M|6|Jul 6 :bell:||
+[#18117](https://github.com/conan-io/conan-center-index/pull/18117)|[valgur](https://github.com/valgur)|Jun 28|:memo: dtl|M|6|Jul 6 :bell:||
 [#18153](https://github.com/conan-io/conan-center-index/pull/18153)|[toge](https://github.com/toge)|Jun 30|:memo: st_tree|M|5|Jul 18||uilianries
 [#18163](https://github.com/conan-io/conan-center-index/pull/18163)|[trns1997](https://github.com/trns1997)|Jun 30|:new: kickcat|M|3|Jul 21|RubenRBS|franramirez688, czoido
 [#18164](https://github.com/conan-io/conan-center-index/pull/18164)|[Hopobcn](https://github.com/Hopobcn)|Jun 30|:memo: cpuinfo|M|1|Jul 18||toge
@@ -220,7 +220,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 434
 	- Draft: 45
-	- Average Age: 61 days, 10 hours, and 52.16 minutes
+	- Average Age: 61 days, 11 hours, and 46.28 minutes
 	- Stop Label: 196
 	
 
