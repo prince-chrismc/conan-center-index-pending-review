@@ -202,14 +202,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:warning: b2|4|jwillikers, prince-chrismc
-[#18653](https://github.com/conan-io/conan-center-index/pull/18653)|[valgur](https://github.com/valgur)|Jul 19|:memo: libipt|2|czoido, SSE4
 [#18655](https://github.com/conan-io/conan-center-index/pull/18655)|[valgur](https://github.com/valgur)|Jul 19|:memo: whereami|2|czoido, SSE4
 [#18658](https://github.com/conan-io/conan-center-index/pull/18658)|[valgur](https://github.com/valgur)|Jul 19|:memo: rg-etc1|2|czoido, SSE4
 [#18662](https://github.com/conan-io/conan-center-index/pull/18662)|[valgur](https://github.com/valgur)|Jul 19|:memo: libslz|2|czoido, SSE4
@@ -225,9 +224,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 472
+	- Open: 471
 	- Draft: 51
-	- Average Age: 57 days, 9 hours, and 56.28 minutes
+	- Average Age: 57 days, 13 hours, and 41.33 minutes
 	- Stop Label: 221
 	
 
