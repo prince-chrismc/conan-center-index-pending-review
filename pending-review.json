@@ -3190,39 +3190,6 @@
       }
    },
    {
-      "Number": 18653,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T10:35:21Z",
-      "Recipe": "libipt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18653",
-      "LastCommitSHA": "d6971cfb3b8cf582004d2a61c25413b0432ad3b4",
-      "LastCommitAt": "2023-07-19T10:35:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-22T18:03:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18653#pullrequestreview-1542127941"
-         }
-      }
-   },
-   {
       "Number": 18655,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T10:49:05Z",
