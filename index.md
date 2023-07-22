@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **178** pull requests currently under way :detective:
+There are **183** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17636](https://github.com/conan-io/conan-center-index/pull/17636)|[vbieleny](https://github.com/vbieleny)|May 20|:stopwatch: android-ndk|:blue_square: S|0|:eyes:||
 [#17682](https://github.com/conan-io/conan-center-index/pull/17682)|[uilianries](https://github.com/uilianries)|May 24|:stopwatch: chaiscript|L|0|:eyes:||
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:memo: libdb|L|0|:eyes:||
-[#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:stopwatch: mbits-lngs|L|2|Jul 17|uilianries|
+[#17825](https://github.com/conan-io/conan-center-index/pull/17825)|[mzdun](https://github.com/mzdun)|Jun 5|:new: mbits-lngs|L|2|Jul 17|uilianries|
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
 [#17911](https://github.com/conan-io/conan-center-index/pull/17911)|[nbukuli](https://github.com/nbukuli)|Jun 12|:stopwatch: linux-headers-generic|:green_circle: XS|0|:eyes:||
 [#17916](https://github.com/conan-io/conan-center-index/pull/17916)|[patmantru](https://github.com/patmantru)|Jun 12|:stopwatch: opentdf-client|:blue_square: S|1|Jun 14 :bell:||
@@ -87,7 +87,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18227](https://github.com/conan-io/conan-center-index/pull/18227)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: deco|L|1|Jul 10||
 [#18232](https://github.com/conan-io/conan-center-index/pull/18232)|[valgur](https://github.com/valgur)|Jul 1|:memo: nfrechette-acl|L|0|:eyes:||
 [#18233](https://github.com/conan-io/conan-center-index/pull/18233)|[valgur](https://github.com/valgur)|Jul 1|:memo: rgbcx|L|0|:eyes:||
-[#18238](https://github.com/conan-io/conan-center-index/pull/18238)|[valgur](https://github.com/valgur)|Jul 1|:memo: mdns|L|1|Jul 10|RubenRBS|
+[#18238](https://github.com/conan-io/conan-center-index/pull/18238)|[valgur](https://github.com/valgur)|Jul 1|:memo: mdns|L|1|Jul 10 :bell:|RubenRBS|
 [#18239](https://github.com/conan-io/conan-center-index/pull/18239)|[valgur](https://github.com/valgur)|Jul 1|:memo: cotila|L|0|:eyes:||
 [#18240](https://github.com/conan-io/conan-center-index/pull/18240)|[valgur](https://github.com/valgur)|Jul 1|:memo: immer|L|0|:eyes:||
 [#18243](https://github.com/conan-io/conan-center-index/pull/18243)|[valgur](https://github.com/valgur)|Jul 1|:memo: fpgen|L|0|:eyes:||
@@ -205,6 +205,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18783](https://github.com/conan-io/conan-center-index/pull/18783)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 21|:stopwatch: openscenegraph|L|0|||
 [#18784](https://github.com/conan-io/conan-center-index/pull/18784)|[jtbandes](https://github.com/jtbandes)|Jul 21|:memo: mcap|:blue_square: S|0|||
 [#18787](https://github.com/conan-io/conan-center-index/pull/18787)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 22|:gear: .c3i|:blue_square: S|0|||
+[#18788](https://github.com/conan-io/conan-center-index/pull/18788)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: openvr|L|0|||
+[#18789](https://github.com/conan-io/conan-center-index/pull/18789)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: libxft|L|0|||
+[#18790](https://github.com/conan-io/conan-center-index/pull/18790)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: ozz-animation|L|0|||
+[#18791](https://github.com/conan-io/conan-center-index/pull/18791)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: tcsbank-uri-template|L|0|||
+[#18792](https://github.com/conan-io/conan-center-index/pull/18792)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: tgbot|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -224,9 +229,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 436
+	- Open: 441
 	- Draft: 45
-	- Average Age: 61 days, 16 hours, and 52.16 minutes
+	- Average Age: 61 days, 1 hours, and 7.62 minutes
 	- Stop Label: 193
 	
 
