@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **170** pull requests currently under way :detective:
+There are **171** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -196,19 +196,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18821](https://github.com/conan-io/conan-center-index/pull/18821)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 22|:new: nmea|M|1|Jul 22||
 [#18822](https://github.com/conan-io/conan-center-index/pull/18822)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: log4cxx|L|0|||
 [#18825](https://github.com/conan-io/conan-center-index/pull/18825)|[toge](https://github.com/toge)|Jul 22|:memo: xxhash|:blue_square: S|0|||
-[#18827](https://github.com/conan-io/conan-center-index/pull/18827)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 22|:gear: .c3i|:blue_square: S|0|||
+[#18827](https://github.com/conan-io/conan-center-index/pull/18827)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 22|:gear: .c3i|:blue_square: S|1|Jul 22||SSE4
+[#18833](https://github.com/conan-io/conan-center-index/pull/18833)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: hexl|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:warning: b2|4|jwillikers, prince-chrismc
-[#18648](https://github.com/conan-io/conan-center-index/pull/18648)|[valgur](https://github.com/valgur)|Jul 19|:memo: pbtools|2|czoido, SSE4
 [#18649](https://github.com/conan-io/conan-center-index/pull/18649)|[valgur](https://github.com/valgur)|Jul 19|:memo: parg|3|czoido, SSE4
 [#18651](https://github.com/conan-io/conan-center-index/pull/18651)|[valgur](https://github.com/valgur)|Jul 19|:memo: imguizmo|3|czoido, SSE4
 [#18653](https://github.com/conan-io/conan-center-index/pull/18653)|[valgur](https://github.com/valgur)|Jul 19|:memo: libipt|2|czoido, SSE4
@@ -227,9 +227,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 469
-	- Draft: 47
-	- Average Age: 57 days, 17 hours, and 17.16 minutes
+	- Open: 470
+	- Draft: 48
+	- Average Age: 57 days, 15 hours, and 8.40 minutes
 	- Stop Label: 220
 	
 
