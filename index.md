@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **185** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -208,10 +208,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18789](https://github.com/conan-io/conan-center-index/pull/18789)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: libxft|L|0|||
 [#18798](https://github.com/conan-io/conan-center-index/pull/18798)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: imagl|L|0|||
 [#18799](https://github.com/conan-io/conan-center-index/pull/18799)|[valgur](https://github.com/valgur)|Jul 22|:memo: aws-kvs-pic|L|0|||
+[#18801](https://github.com/conan-io/conan-center-index/pull/18801)|[VladyslavUsenko](https://github.com/VladyslavUsenko)|Jul 22|:memo: librealsense|M|0|||
 [#18813](https://github.com/conan-io/conan-center-index/pull/18813)|[ashley-b](https://github.com/ashley-b)|Jul 22|:memo: libgpiod|:blue_square: S|0|||
-[#18821](https://github.com/conan-io/conan-center-index/pull/18821)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 22|:new: nmea|M|1|Jul 22||[valgur](https://github.com/valgur)
+[#18821](https://github.com/conan-io/conan-center-index/pull/18821)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 22|:stopwatch: nmea|M|1|Jul 22||
 [#18822](https://github.com/conan-io/conan-center-index/pull/18822)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: log4cxx|L|0|||
-[#18825](https://github.com/conan-io/conan-center-index/pull/18825)|[toge](https://github.com/toge)|Jul 22|:stopwatch: xxhash|:blue_square: S|0|||
+[#18825](https://github.com/conan-io/conan-center-index/pull/18825)|[toge](https://github.com/toge)|Jul 22|:memo: xxhash|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -231,9 +232,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 470
+	- Open: 471
 	- Draft: 46
-	- Average Age: 57 days, 14 hours, and 24.86 minutes
+	- Average Age: 57 days, 12 hours, and 24.28 minutes
 	- Stop Label: 218
 	
 
