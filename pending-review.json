@@ -4363,6 +4363,25 @@
       }
    },
    {
+      "Number": 18801,
+      "OpenedBy": "VladyslavUsenko",
+      "CreatedAt": "2023-07-22T09:46:27Z",
+      "Recipe": "librealsense",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18801",
+      "LastCommitSHA": "94fa7145bc3792e8a9457255143dcb4636a8c7b7",
+      "LastCommitAt": "2023-07-22T13:56:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18813,
       "OpenedBy": "ashley-b",
       "CreatedAt": "2023-07-22T12:36:11Z",
@@ -4389,19 +4408,14 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18821",
-      "LastCommitSHA": "f35301cfed72cf206bf95be8bfca589dcadd8ecb",
-      "LastCommitAt": "2023-07-22T13:47:03Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "299c35cf7c10725db5fe97cf4ff78797c0bbea13",
+      "LastCommitAt": "2023-07-22T17:05:32Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
@@ -4439,7 +4453,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18825",
       "LastCommitSHA": "265a23a66b960e54f311382090f638625c640e88",
       "LastCommitAt": "2023-07-22T15:42:37Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
