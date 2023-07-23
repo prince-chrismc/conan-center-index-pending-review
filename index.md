@@ -196,15 +196,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18813](https://github.com/conan-io/conan-center-index/pull/18813)|[ashley-b](https://github.com/ashley-b)|Jul 22|:memo: libgpiod|:blue_square: S|0|||
 [#18821](https://github.com/conan-io/conan-center-index/pull/18821)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 22|:new: nmea|M|1|Jul 22||
 [#18822](https://github.com/conan-io/conan-center-index/pull/18822)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: log4cxx|L|0|||
-[#18825](https://github.com/conan-io/conan-center-index/pull/18825)|[toge](https://github.com/toge)|Jul 22|:memo: xxhash|:blue_square: S|0|||
+[#18825](https://github.com/conan-io/conan-center-index/pull/18825)|[toge](https://github.com/toge)|Jul 22|:memo: xxhash|:blue_square: S|1|Jul 23||SSE4
 [#18827](https://github.com/conan-io/conan-center-index/pull/18827)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 22|:gear: .c3i|:blue_square: S|1|Jul 22||SSE4
 [#18835](https://github.com/conan-io/conan-center-index/pull/18835)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: stx|L|0|||
-[#18838](https://github.com/conan-io/conan-center-index/pull/18838)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 23|:gear: .c3i|:blue_square: S|0|||
+[#18838](https://github.com/conan-io/conan-center-index/pull/18838)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 23|:gear: .c3i|:blue_square: S|1|Jul 23||SSE4
 [#18840](https://github.com/conan-io/conan-center-index/pull/18840)|[toge](https://github.com/toge)|Jul 23|:memo: strong_type|:green_circle: XS|0|||
 [#18841](https://github.com/conan-io/conan-center-index/pull/18841)|[toge](https://github.com/toge)|Jul 23|:memo: usockets|M|0|||
 [#18843](https://github.com/conan-io/conan-center-index/pull/18843)|[toge](https://github.com/toge)|Jul 23|:memo: sol2|:blue_square: S|0|||
-[#18848](https://github.com/conan-io/conan-center-index/pull/18848)|[valgur](https://github.com/valgur)|Jul 23|:stopwatch: mold|L|0|||
-[#18849](https://github.com/conan-io/conan-center-index/pull/18849)|[valgur](https://github.com/valgur)|Jul 23|:stopwatch: libigl|L|0|||
+[#18851](https://github.com/conan-io/conan-center-index/pull/18851)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 23|:gear: .c3i|M|1|Jul 23||SSE4
+[#18852](https://github.com/conan-io/conan-center-index/pull/18852)|[valgur](https://github.com/valgur)|Jul 23|:stopwatch: libtommath|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -224,10 +224,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 475
-	- Draft: 52
-	- Average Age: 57 days, 18 hours, and 32.04 minutes
-	- Stop Label: 224
+	- Open: 478
+	- Draft: 53
+	- Average Age: 57 days, 10 hours, and 53.84 minutes
+	- Stop Label: 226
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
