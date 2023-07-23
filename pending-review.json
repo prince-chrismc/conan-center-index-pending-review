@@ -4094,25 +4094,6 @@
       }
    },
    {
-      "Number": 18842,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-23T12:47:54Z",
-      "Recipe": "azure-storage-cpp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18842",
-      "LastCommitSHA": "449a5aab0e620c954cbb2b86faa047e88d577320",
-      "LastCommitAt": "2023-07-23T12:43:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18843,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-23T12:55:20Z",
@@ -4132,15 +4113,34 @@
       }
    },
    {
-      "Number": 18844,
+      "Number": 18845,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-23T13:22:00Z",
+      "Recipe": "geos",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18845",
+      "LastCommitSHA": "68b86bd5c62048eeee386f00a98912347dfe4d0f",
+      "LastCommitAt": "2023-07-23T13:20:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18847,
       "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-23T13:05:48Z",
-      "Recipe": "premake",
+      "CreatedAt": "2023-07-23T13:58:02Z",
+      "Recipe": "gn",
       "Change": 1,
       "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18844",
-      "LastCommitSHA": "8e88fa7ef797efdcf119de8322a7d9c6f049e80f",
-      "LastCommitAt": "2023-07-23T13:05:38Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18847",
+      "LastCommitSHA": "5300bf41feeb3eae74db4fbbfc599486eb81665d",
+      "LastCommitAt": "2023-07-23T13:57:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
