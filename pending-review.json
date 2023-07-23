@@ -3348,39 +3348,6 @@
       }
    },
    {
-      "Number": 18703,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T08:07:03Z",
-      "Recipe": "libgta",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18703",
-      "LastCommitSHA": "e9ad8ea179132ba9d6ed61ce00b71f7c75ab7918",
-      "LastCommitAt": "2023-07-20T12:29:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-22T18:05:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18703#pullrequestreview-1542128086"
-         }
-      }
-   },
-   {
       "Number": 18709,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T09:00:08Z",
