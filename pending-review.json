@@ -4160,24 +4160,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18851#pullrequestreview-1542360630"
          }
       }
-   },
-   {
-      "Number": 18854,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-23T18:48:23Z",
-      "Recipe": "gf-complete",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18854",
-      "LastCommitSHA": "03c9ebba8e444664a9fd2ab2013eb8471308fb44",
-      "LastCommitAt": "2023-07-23T18:48:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
