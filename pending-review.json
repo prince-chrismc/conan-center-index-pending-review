@@ -3209,39 +3209,6 @@
       }
    },
    {
-      "Number": 18671,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T13:46:36Z",
-      "Recipe": "libmbus",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18671",
-      "LastCommitSHA": "295bbe7b17274caca4816c51332db7576fa14b64",
-      "LastCommitAt": "2023-07-19T13:46:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-22T18:04:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18671#pullrequestreview-1542128043"
-         }
-      }
-   },
-   {
       "Number": 18676,
       "OpenedBy": "nextsilicon-itay-bookstein",
       "CreatedAt": "2023-07-19T15:47:06Z",
