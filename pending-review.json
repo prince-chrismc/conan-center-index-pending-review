@@ -3188,8 +3188,8 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18389",
-      "LastCommitSHA": "d4b2f423e94b5aca11fac0b769d22da644bfa1a2",
-      "LastCommitAt": "2023-07-24T11:17:32Z",
+      "LastCommitSHA": "ad40b51d3c24d83b91ef7ba7a344cd2a17965b91",
+      "LastCommitAt": "2023-07-24T19:02:15Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 4,
@@ -6489,19 +6489,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18771",
-      "LastCommitSHA": "6275cc5245fe722f3ba1a027759474067ae2bad5",
-      "LastCommitAt": "2023-07-24T16:49:53Z",
+      "LastCommitSHA": "ccb574da67fd5a24a7c1018d3e2caceba3967803",
+      "LastCommitAt": "2023-07-24T19:25:23Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
@@ -7756,25 +7751,6 @@
       }
    },
    {
-      "Number": 18862,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-24T06:19:35Z",
-      "Recipe": "godot-cpp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18862",
-      "LastCommitSHA": "e0c27ee7cf16ba2fc25f84b60ddc75d7e96f5b55",
-      "LastCommitAt": "2023-07-24T06:16:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18880,
       "OpenedBy": "uyha",
       "CreatedAt": "2023-07-24T16:28:12Z",
@@ -7908,15 +7884,34 @@
       }
    },
    {
-      "Number": 18887,
-      "OpenedBy": "aliaksei135",
-      "CreatedAt": "2023-07-24T18:54:40Z",
-      "Recipe": "geos",
+      "Number": 18889,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-24T19:30:18Z",
+      "Recipe": "serf",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18887",
-      "LastCommitSHA": "67c0f08719a62ae3c65c587beaa65cc992803318",
-      "LastCommitAt": "2023-07-24T18:51:06Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18889",
+      "LastCommitSHA": "dad49f27be70684bf1ab64884986d7c1e0a74cf4",
+      "LastCommitAt": "2023-07-24T19:31:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18890,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-24T19:40:01Z",
+      "Recipe": "libdrm",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18890",
+      "LastCommitSHA": "7bdeb7ac90ffa2196b6e4b8299c7b59d8f9cb341",
+      "LastCommitAt": "2023-07-24T19:39:53Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
