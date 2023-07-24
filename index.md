@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **361** pull requests currently under way :detective:
+There are **363** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -194,7 +194,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18521](https://github.com/conan-io/conan-center-index/pull/18521)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 13|:stopwatch: coin-osi|:blue_square: S|0|:eyes:||
 [#18522](https://github.com/conan-io/conan-center-index/pull/18522)|[toge](https://github.com/toge)|Jul 13|:stopwatch: uvwasi|L|4|Jul 14||
 [#18529](https://github.com/conan-io/conan-center-index/pull/18529)|[weatherhead99](https://github.com/weatherhead99)|Jul 13|:stopwatch: asio-grpc|M|0|:eyes:||
-[#18544](https://github.com/conan-io/conan-center-index/pull/18544)|[pgeler](https://github.com/pgeler)|Jul 14|:stopwatch: grpc|L|0|:eyes:||
+[#18544](https://github.com/conan-io/conan-center-index/pull/18544)|[pgeler](https://github.com/pgeler)|Jul 14|:memo: grpc|L|0|||
 [#18545](https://github.com/conan-io/conan-center-index/pull/18545)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qt|:green_circle: XS|3|Jul 15||ericLemanissier, SSE4, MartinDelille
 [#18546](https://github.com/conan-io/conan-center-index/pull/18546)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qarchive|:blue_square: S|1|Jul 20||
 [#18548](https://github.com/conan-io/conan-center-index/pull/18548)|[nmgwddj](https://github.com/nmgwddj)|Jul 15|:stopwatch: netease-im|L|0|:eyes:||
@@ -281,7 +281,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18715](https://github.com/conan-io/conan-center-index/pull/18715)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: scc|L|0|||
 [#18716](https://github.com/conan-io/conan-center-index/pull/18716)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: nodesoup|L|0|:eyes:||
 [#18717](https://github.com/conan-io/conan-center-index/pull/18717)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: rectanglebinpack|L|0|:eyes:||
-[#18719](https://github.com/conan-io/conan-center-index/pull/18719)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 20|:stopwatch: alembic|:blue_square: S|0|||
+[#18719](https://github.com/conan-io/conan-center-index/pull/18719)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 20|:memo: alembic|:blue_square: S|0|||
 [#18720](https://github.com/conan-io/conan-center-index/pull/18720)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: flint|L|0|:eyes:||
 [#18721](https://github.com/conan-io/conan-center-index/pull/18721)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: sleef|L|0|:eyes:||
 [#18722](https://github.com/conan-io/conan-center-index/pull/18722)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: libsolace|L|0|:eyes:||
@@ -388,6 +388,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18886](https://github.com/conan-io/conan-center-index/pull/18886)|[valgur](https://github.com/valgur)|Jul 24|:memo: pangomm|L|0|||
 [#18889](https://github.com/conan-io/conan-center-index/pull/18889)|[valgur](https://github.com/valgur)|Jul 24|:memo: serf|L|0|||
 [#18890](https://github.com/conan-io/conan-center-index/pull/18890)|[valgur](https://github.com/valgur)|Jul 24|:memo: libdrm|L|0|||
+[#18891](https://github.com/conan-io/conan-center-index/pull/18891)|[valgur](https://github.com/valgur)|Jul 24|:memo: openvdb|L|0|||
+[#18892](https://github.com/conan-io/conan-center-index/pull/18892)|[valgur](https://github.com/valgur)|Jul 24|:memo: nspr|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -408,9 +410,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 498
+	- Open: 500
 	- Draft: 57
-	- Average Age: 56 days, 3 hours, and 51.71 minutes
+	- Average Age: 55 days, 23 hours, and 27.81 minutes
 	- Stop Label: 54
 	
 
