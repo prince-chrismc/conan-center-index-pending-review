@@ -7336,25 +7336,6 @@
       }
    },
    {
-      "Number": 18829,
-      "OpenedBy": "CJCombrink",
-      "CreatedAt": "2023-07-22T18:43:27Z",
-      "Recipe": "hunspell",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18829",
-      "LastCommitSHA": "f0c4b0cceeb1ea173e58c48cb0540403a1c9cf29",
-      "LastCommitAt": "2023-07-23T14:44:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18830,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-22T19:28:56Z",
@@ -7817,25 +7798,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18865",
       "LastCommitSHA": "c037e1d52bddbcc19a82c9006cc861b235041448",
       "LastCommitAt": "2023-07-24T07:11:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18866,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-24T07:20:55Z",
-      "Recipe": "liquid-dsp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18866",
-      "LastCommitSHA": "a938fbd1bec11001b66e9c6d76f619a2d148979c",
-      "LastCommitAt": "2023-07-24T07:21:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
