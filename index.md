@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **344** pull requests currently under way :detective:
+There are **346** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -328,6 +328,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18808](https://github.com/conan-io/conan-center-index/pull/18808)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: opentracing-cpp|L|0|:eyes:||
 [#18811](https://github.com/conan-io/conan-center-index/pull/18811)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: libsixel|L|0|:eyes:||
 [#18812](https://github.com/conan-io/conan-center-index/pull/18812)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: libjxl|L|0|:eyes:||
+[#18813](https://github.com/conan-io/conan-center-index/pull/18813)|[ashley-b](https://github.com/ashley-b)|Jul 22|:stopwatch: libgpiod|:blue_square: S|1|Jul 25||
 [#18814](https://github.com/conan-io/conan-center-index/pull/18814)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: fltk|L|0|:eyes:||
 [#18815](https://github.com/conan-io/conan-center-index/pull/18815)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: msgpack-cxx|:blue_square: S|0|:eyes:||
 [#18816](https://github.com/conan-io/conan-center-index/pull/18816)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: dd-opentracing-cpp|L|0|:eyes:||
@@ -371,11 +372,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18895](https://github.com/conan-io/conan-center-index/pull/18895)|[toge](https://github.com/toge)|Jul 25|:memo: wasmer|:blue_square: S|0|||
 [#18901](https://github.com/conan-io/conan-center-index/pull/18901)|[valgur](https://github.com/valgur)|Jul 25|:stopwatch: mpdecimal|L|0|||
 [#18909](https://github.com/conan-io/conan-center-index/pull/18909)|[toge](https://github.com/toge)|Jul 25|:stopwatch: wt|:green_circle: XS|0|||
+[#18910](https://github.com/conan-io/conan-center-index/pull/18910)|[toge](https://github.com/toge)|Jul 25|:stopwatch: libmysqlclient|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -387,7 +389,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18100](https://github.com/conan-io/conan-center-index/pull/18100)|[jcar87](https://github.com/jcar87)|Jun 28|:warning: elfutils|2|RubenRBS, danimtb
 [#18117](https://github.com/conan-io/conan-center-index/pull/18117)|[valgur](https://github.com/valgur)|Jun 28|:warning: dtl|8|czoido, SSE4
 [#18499](https://github.com/conan-io/conan-center-index/pull/18499)|[mayeut](https://github.com/mayeut)|Jul 11|:warning: gdal|2|czoido, SSE4
-[#18634](https://github.com/conan-io/conan-center-index/pull/18634)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 19|:warning: svgpp|5|czoido, SSE4
 [#18701](https://github.com/conan-io/conan-center-index/pull/18701)|[valgur](https://github.com/valgur)|Jul 20|:warning: jungle|9|czoido, jwillikers, SSE4
 [#18741](https://github.com/conan-io/conan-center-index/pull/18741)|[valgur](https://github.com/valgur)|Jul 20|:warning: openfx|3|czoido, SSE4
 [#18748](https://github.com/conan-io/conan-center-index/pull/18748)|[valgur](https://github.com/valgur)|Jul 20|:warning: perf|2|czoido, SSE4
@@ -406,7 +407,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 514
 	- Draft: 60
-	- Average Age: 55 days, 4 hours, and 18.17 minutes
+	- Average Age: 55 days, 5 hours, and 3.66 minutes
 	- Stop Label: 68
 	
 
