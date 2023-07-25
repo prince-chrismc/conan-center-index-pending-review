@@ -5667,25 +5667,6 @@
       }
    },
    {
-      "Number": 18715,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T10:50:59Z",
-      "Recipe": "scc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18715",
-      "LastCommitSHA": "26dee87e0b81d56e004e2df215aaad396465e9b0",
-      "LastCommitAt": "2023-07-24T10:02:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18716,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T10:55:56Z",
@@ -6508,8 +6489,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18778",
-      "LastCommitSHA": "25cfcb0884f4f0dc45f6e2e2c04c3cecbe4638fb",
-      "LastCommitAt": "2023-07-25T09:10:18Z",
+      "LastCommitSHA": "2cf56dcc1503497749878a511a5b38f8af1db289",
+      "LastCommitAt": "2023-07-25T10:51:03Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -7969,25 +7950,6 @@
       "LastCommitSHA": "f5365e16d1dc3516aa9aa136a08b84b059a2615e",
       "LastCommitAt": "2023-07-25T07:45:19Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18900,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-25T09:36:35Z",
-      "Recipe": "cern-root",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18900",
-      "LastCommitSHA": "e0281fbb16691af5e220ec367e60f8ab866d472b",
-      "LastCommitAt": "2023-07-25T09:36:12Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
