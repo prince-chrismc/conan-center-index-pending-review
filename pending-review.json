@@ -1729,19 +1729,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18081",
-      "LastCommitSHA": "622e15adbe680e7b6b5395c7936eedf734539b4e",
-      "LastCommitAt": "2023-07-24T16:48:18Z",
+      "LastCommitSHA": "54c7af3742e5b185bceb55e451d988b4bcf4963c",
+      "LastCommitAt": "2023-07-25T07:50:35Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "memsharded",
@@ -7717,7 +7712,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18880",
       "LastCommitSHA": "81fc44529aaf687a5c5598e79c4e0ee2b0607693",
       "LastCommitAt": "2023-07-24T16:27:43Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -7955,15 +7950,15 @@
       }
    },
    {
-      "Number": 18896,
-      "OpenedBy": "patmantru",
-      "CreatedAt": "2023-07-25T02:26:22Z",
-      "Recipe": "opentdf-client",
+      "Number": 18897,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-25T07:51:44Z",
+      "Recipe": "verilator",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18896",
-      "LastCommitSHA": "91a29d59f88961ddd4b3f6fb4e819b1e339eb496",
-      "LastCommitAt": "2023-07-25T02:30:23Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18897",
+      "LastCommitSHA": "f5365e16d1dc3516aa9aa136a08b84b059a2615e",
+      "LastCommitAt": "2023-07-25T07:45:19Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
