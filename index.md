@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **351** pull requests currently under way :detective:
+There are **350** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -105,7 +105,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18147](https://github.com/conan-io/conan-center-index/pull/18147)|[jjcasmar](https://github.com/jjcasmar)|Jun 29|:stopwatch: embree4|L|0|:eyes:||
 [#18149](https://github.com/conan-io/conan-center-index/pull/18149)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 29|:stopwatch: exiv2|L|0|||
 [#18151](https://github.com/conan-io/conan-center-index/pull/18151)|[valgur](https://github.com/valgur)|Jun 29|:stopwatch: firebird|L|0|:eyes:||
-[#18163](https://github.com/conan-io/conan-center-index/pull/18163)|[trns1997](https://github.com/trns1997)|Jun 30|:stopwatch: kickcat|M|4|Jul 24|RubenRBS|franramirez688, czoido
+[#18163](https://github.com/conan-io/conan-center-index/pull/18163)|[trns1997](https://github.com/trns1997)|Jun 30|:new: kickcat|M|4|Jul 24|RubenRBS|franramirez688, czoido
 [#18164](https://github.com/conan-io/conan-center-index/pull/18164)|[Hopobcn](https://github.com/Hopobcn)|Jun 30|:stopwatch: cpuinfo|M|1|Jul 18||toge
 [#18170](https://github.com/conan-io/conan-center-index/pull/18170)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: aggeom-agg|L|0|:eyes:||
 [#18180](https://github.com/conan-io/conan-center-index/pull/18180)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: aravis|:blue_square: S|1|Jul 20||ericLemanissier
@@ -376,13 +376,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18893](https://github.com/conan-io/conan-center-index/pull/18893)|[valgur](https://github.com/valgur)|Jul 24|:memo: openfst|L|0|||
 [#18895](https://github.com/conan-io/conan-center-index/pull/18895)|[toge](https://github.com/toge)|Jul 25|:memo: wasmer|:blue_square: S|0|||
 [#18901](https://github.com/conan-io/conan-center-index/pull/18901)|[valgur](https://github.com/valgur)|Jul 25|:stopwatch: mpdecimal|L|0|||
-[#18903](https://github.com/conan-io/conan-center-index/pull/18903)|[valgur](https://github.com/valgur)|Jul 25|:stopwatch: mpir|L|0|||
 [#18905](https://github.com/conan-io/conan-center-index/pull/18905)|[valgur](https://github.com/valgur)|Jul 25|:stopwatch: iceoryx|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **18** pull requests are waiting to be merged :tada:
+Currently **16** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -396,13 +395,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18499](https://github.com/conan-io/conan-center-index/pull/18499)|[mayeut](https://github.com/mayeut)|Jul 11|:warning: gdal|2|czoido, SSE4
 [#18634](https://github.com/conan-io/conan-center-index/pull/18634)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 19|:warning: svgpp|5|czoido, SSE4
 [#18701](https://github.com/conan-io/conan-center-index/pull/18701)|[valgur](https://github.com/valgur)|Jul 20|:warning: jungle|9|czoido, jwillikers, SSE4
-[#18740](https://github.com/conan-io/conan-center-index/pull/18740)|[valgur](https://github.com/valgur)|Jul 20|:warning: libnfnetlink|2|czoido, SSE4
 [#18741](https://github.com/conan-io/conan-center-index/pull/18741)|[valgur](https://github.com/valgur)|Jul 20|:warning: openfx|3|czoido, SSE4
 [#18748](https://github.com/conan-io/conan-center-index/pull/18748)|[valgur](https://github.com/valgur)|Jul 20|:warning: perf|2|czoido, SSE4
 [#18754](https://github.com/conan-io/conan-center-index/pull/18754)|[valgur](https://github.com/valgur)|Jul 20|:warning: upx|2|czoido, SSE4
 [#18756](https://github.com/conan-io/conan-center-index/pull/18756)|[valgur](https://github.com/valgur)|Jul 20|:warning: quickfix|2|czoido, SSE4
 [#18799](https://github.com/conan-io/conan-center-index/pull/18799)|[valgur](https://github.com/valgur)|Jul 22|:warning: aws-kvs-pic|2|czoido, SSE4
-[#18840](https://github.com/conan-io/conan-center-index/pull/18840)|[toge](https://github.com/toge)|Jul 23|:warning: strong_type|3|czoido, [CJCombrink](https://github.com/CJCombrink), SSE4
 [#18841](https://github.com/conan-io/conan-center-index/pull/18841)|[toge](https://github.com/toge)|Jul 23|:warning: usockets|2|czoido, SSE4
 [#18858](https://github.com/conan-io/conan-center-index/pull/18858)|[pwqbot](https://github.com/pwqbot)|Jul 24|:warning: intx|6|czoido, SSE4
 
@@ -415,8 +412,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 512
 	- Draft: 60
-	- Average Age: 55 days, 6 hours, and 42.84 minutes
-	- Stop Label: 59
+	- Average Age: 55 days, 7 hours, and 29.68 minutes
+	- Stop Label: 62
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
