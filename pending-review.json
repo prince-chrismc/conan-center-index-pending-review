@@ -3726,63 +3726,6 @@
       }
    },
    {
-      "Number": 18499,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-11T21:15:05Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18499",
-      "LastCommitSHA": "d18b2aeae073870c21faa01bf12bdbbeb1439a81",
-      "LastCommitAt": "2023-07-24T12:23:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-07-25T13:53:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18499#pullrequestreview-1545544438"
-         }
-      }
-   },
-   {
-      "Number": 18500,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-11T21:42:02Z",
-      "Recipe": "osgearth",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18500",
-      "LastCommitSHA": "cfe6a8fdcc72ac7328b29d4243fc5ad5afb928cb",
-      "LastCommitAt": "2023-07-24T13:18:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-07-24T11:50:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18500#pullrequestreview-1543315814"
-         }
-      }
-   },
-   {
       "Number": 18512,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-12T19:18:31Z",
@@ -6791,25 +6734,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18800",
       "LastCommitSHA": "c87d9b7a973f4756b6a9bfcf6f6419f12cf4170d",
       "LastCommitAt": "2023-07-22T09:43:04Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18801,
-      "OpenedBy": "VladyslavUsenko",
-      "CreatedAt": "2023-07-22T09:46:27Z",
-      "Recipe": "librealsense",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18801",
-      "LastCommitSHA": "04a7c1ebeb8b049ec403bf0ac6e3b99b8b12eaa3",
-      "LastCommitAt": "2023-07-25T19:01:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
