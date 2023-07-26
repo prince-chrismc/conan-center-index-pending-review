@@ -351,7 +351,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18852](https://github.com/conan-io/conan-center-index/pull/18852)|[valgur](https://github.com/valgur)|Jul 23|:stopwatch: libtommath|L|0|||
 [#18854](https://github.com/conan-io/conan-center-index/pull/18854)|[valgur](https://github.com/valgur)|Jul 23|:stopwatch: gf-complete|L|0|||
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|L|1|Jul 24||
-[#18857](https://github.com/conan-io/conan-center-index/pull/18857)|[tt4g](https://github.com/tt4g)|Jul 24|:memo: libpqxx|M|0|||
+[#18857](https://github.com/conan-io/conan-center-index/pull/18857)|[tt4g](https://github.com/tt4g)|Jul 24|:stopwatch: libpqxx|M|0|||
 [#18859](https://github.com/conan-io/conan-center-index/pull/18859)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 24|:stopwatch: .c3i|M|0|||
 [#18880](https://github.com/conan-io/conan-center-index/pull/18880)|[uyha](https://github.com/uyha)|Jul 24|:stopwatch: luajit|:green_circle: XS|0|||
 [#18881](https://github.com/conan-io/conan-center-index/pull/18881)|[uyha](https://github.com/uyha)|Jul 24|:memo: lua|:green_circle: XS|0|||
@@ -399,7 +399,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 514
 	- Draft: 60
-	- Average Age: 55 days, 16 hours, and 58.00 minutes
+	- Average Age: 55 days, 17 hours, and 53.41 minutes
 	- Stop Label: 75
 	
 
