@@ -3788,25 +3788,6 @@
       }
    },
    {
-      "Number": 18544,
-      "OpenedBy": "pgeler",
-      "CreatedAt": "2023-07-14T13:15:08Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18544",
-      "LastCommitSHA": "12124e1d5cc14ae7c66c53503a6048823b379b16",
-      "LastCommitAt": "2023-07-25T22:46:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18545,
       "OpenedBy": "maksim-petukhov",
       "CreatedAt": "2023-07-14T15:14:34Z",
