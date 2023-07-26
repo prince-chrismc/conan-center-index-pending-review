@@ -5442,5 +5442,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18919,
+      "OpenedBy": "nassipkali",
+      "CreatedAt": "2023-07-26T17:44:08Z",
+      "Recipe": "platform.exceptions",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18919",
+      "LastCommitSHA": "27a05c67870bab6b0abcc3dfc35dc65ac4a0a630",
+      "LastCommitAt": "2023-07-26T17:42:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18920,
+      "OpenedBy": "nassipkali",
+      "CreatedAt": "2023-07-26T18:10:15Z",
+      "Recipe": "platform.converters",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18920",
+      "LastCommitSHA": "b912f184b35727d2f5dea9bc3a06580361f79c79",
+      "LastCommitAt": "2023-07-26T18:09:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
