@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **219** pull requests currently under way :detective:
+There are **221** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -108,6 +108,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18205](https://github.com/conan-io/conan-center-index/pull/18205)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: maddy|L|0|:eyes:||
 [#18206](https://github.com/conan-io/conan-center-index/pull/18206)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: dbg-macro|M|0|:eyes:||
 [#18209](https://github.com/conan-io/conan-center-index/pull/18209)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: enhex-strong_type|L|1|Jul 10 :bell:||
+[#18215](https://github.com/conan-io/conan-center-index/pull/18215)|[ngrodzitski](https://github.com/ngrodzitski)|Jun 30|:stopwatch: sobjectizer|L|4|Jul 17||
 [#18227](https://github.com/conan-io/conan-center-index/pull/18227)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: deco|L|1|Jul 10 :bell:||
 [#18232](https://github.com/conan-io/conan-center-index/pull/18232)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: nfrechette-acl|L|0|:eyes:||
 [#18233](https://github.com/conan-io/conan-center-index/pull/18233)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: rgbcx|L|0|:eyes:||
@@ -246,6 +247,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18895](https://github.com/conan-io/conan-center-index/pull/18895)|[toge](https://github.com/toge)|Jul 25|:memo: wasmer|:blue_square: S|0|||
 [#18906](https://github.com/conan-io/conan-center-index/pull/18906)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 25|:stopwatch: lzip|L|0|||
 [#18914](https://github.com/conan-io/conan-center-index/pull/18914)|[saukijan](https://github.com/saukijan)|Jul 26|:stopwatch: open62541|M|0|||
+[#18916](https://github.com/conan-io/conan-center-index/pull/18916)|[wbehrens-on-gh](https://github.com/wbehrens-on-gh)|Jul 26|:stopwatch: opencv|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -275,10 +277,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 365
+	- Open: 366
 	- Draft: 40
-	- Average Age: 76 days, 10 hours, and 33.16 minutes
-	- Stop Label: 68
+	- Average Age: 76 days, 6 hours, and 27.20 minutes
+	- Stop Label: 67
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
