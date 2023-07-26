@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **341** pull requests currently under way :detective:
+There are **340** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -338,7 +338,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18824](https://github.com/conan-io/conan-center-index/pull/18824)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: libbasisu|L|0|:eyes:||
 [#18826](https://github.com/conan-io/conan-center-index/pull/18826)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 22|:stopwatch: zstd|M|2|Jul 23||
 [#18827](https://github.com/conan-io/conan-center-index/pull/18827)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 22|:stopwatch: .c3i|:blue_square: S|1|Jul 22||SSE4
-[#18829](https://github.com/conan-io/conan-center-index/pull/18829)|[CJCombrink](https://github.com/CJCombrink)|Jul 22|:stopwatch: hunspell|L|2|Jul 24||
 [#18830](https://github.com/conan-io/conan-center-index/pull/18830)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: functions-framework-cpp|L|0|:eyes:||
 [#18833](https://github.com/conan-io/conan-center-index/pull/18833)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: hexl|L|0|:eyes:||
 [#18835](https://github.com/conan-io/conan-center-index/pull/18835)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: stx|L|0|:eyes:||
@@ -400,8 +399,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 514
 	- Draft: 60
-	- Average Age: 55 days, 15 hours, and 53.65 minutes
-	- Stop Label: 74
+	- Average Age: 55 days, 16 hours, and 58.00 minutes
+	- Stop Label: 75
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
