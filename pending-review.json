@@ -2848,6 +2848,25 @@
       }
    },
    {
+      "Number": 18353,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-05T19:08:34Z",
+      "Recipe": "tcsbank-uconfig",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18353",
+      "LastCommitSHA": "fba91e52d5f9d77b0f5bb3553b5c4c265d7bc922",
+      "LastCommitAt": "2023-07-26T18:35:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18354,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-05T19:09:22Z",
