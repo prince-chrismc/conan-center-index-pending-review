@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **225** pull requests currently under way :detective:
+There are **226** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -145,6 +145,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18346](https://github.com/conan-io/conan-center-index/pull/18346)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: cprocessing|L|0|:eyes:||
 [#18350](https://github.com/conan-io/conan-center-index/pull/18350)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: di|L|0|:eyes:||
 [#18352](https://github.com/conan-io/conan-center-index/pull/18352)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: si|L|2|Jul 7 :bell:||
+[#18353](https://github.com/conan-io/conan-center-index/pull/18353)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: tcsbank-uconfig|L|0|||
 [#18354](https://github.com/conan-io/conan-center-index/pull/18354)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: yandex-ozo|L|0|:eyes:||
 [#18356](https://github.com/conan-io/conan-center-index/pull/18356)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: so5extra|L|0|:eyes:||
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:stopwatch: openssl|:blue_square: S|1|Jul 6 :bell:||
@@ -281,9 +282,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 369
+	- Open: 370
 	- Draft: 40
-	- Average Age: 75 days, 19 hours, and 37.16 minutes
+	- Average Age: 75 days, 16 hours, and 57.80 minutes
 	- Stop Label: 67
 	
 
