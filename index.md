@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **218** pull requests currently under way :detective:
+There are **219** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -230,7 +230,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18813](https://github.com/conan-io/conan-center-index/pull/18813)|[ashley-b](https://github.com/ashley-b)|Jul 22|:memo: libgpiod|:blue_square: S|2|Jul 25||jwillikers
 [#18826](https://github.com/conan-io/conan-center-index/pull/18826)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 22|:stopwatch: zstd|M|2|Jul 23||
 [#18827](https://github.com/conan-io/conan-center-index/pull/18827)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 22|:stopwatch: .c3i|:blue_square: S|1|Jul 22||SSE4
-[#18843](https://github.com/conan-io/conan-center-index/pull/18843)|[toge](https://github.com/toge)|Jul 23|:stopwatch: sol2|:blue_square: S|0|||
+[#18843](https://github.com/conan-io/conan-center-index/pull/18843)|[toge](https://github.com/toge)|Jul 23|:stopwatch: sol2|:blue_square: S|0|:eyes:||
 [#18845](https://github.com/conan-io/conan-center-index/pull/18845)|[toge](https://github.com/toge)|Jul 23|:stopwatch: geos|:blue_square: S|1|Jul 25||jwillikers
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|L|1|Jul 24||
 [#18857](https://github.com/conan-io/conan-center-index/pull/18857)|[tt4g](https://github.com/tt4g)|Jul 24|:stopwatch: libpqxx|M|0|||
@@ -245,6 +245,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18893](https://github.com/conan-io/conan-center-index/pull/18893)|[valgur](https://github.com/valgur)|Jul 24|:memo: openfst|L|0|||
 [#18895](https://github.com/conan-io/conan-center-index/pull/18895)|[toge](https://github.com/toge)|Jul 25|:memo: wasmer|:blue_square: S|0|||
 [#18906](https://github.com/conan-io/conan-center-index/pull/18906)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 25|:stopwatch: lzip|L|0|||
+[#18914](https://github.com/conan-io/conan-center-index/pull/18914)|[saukijan](https://github.com/saukijan)|Jul 26|:stopwatch: open62541|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -274,9 +275,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
 - Pull Requests:
-	- Open: 364
+	- Open: 365
 	- Draft: 40
-	- Average Age: 76 days, 13 hours, and 28.88 minutes
+	- Average Age: 76 days, 10 hours, and 33.16 minutes
 	- Stop Label: 68
 	
 
