@@ -5573,5 +5573,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18922,
+      "OpenedBy": "holger-detering",
+      "CreatedAt": "2023-07-27T01:49:38Z",
+      "Recipe": "cargs",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18922",
+      "LastCommitSHA": "e051e599d3341af89ef41de16cce36fa006c7e7c",
+      "LastCommitAt": "2023-07-27T01:45:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
