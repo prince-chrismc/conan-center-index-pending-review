@@ -3412,25 +3412,6 @@
       }
    },
    {
-      "Number": 18490,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2023-07-11T13:53:07Z",
-      "Recipe": "protobuf-c",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18490",
-      "LastCommitSHA": "77db4327b2b0b60f3e15f8e43d0ec12647aef27b",
-      "LastCommitAt": "2023-07-17T12:42:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18495,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-11T15:48:21Z",
@@ -5626,25 +5607,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18920",
       "LastCommitSHA": "b912f184b35727d2f5dea9bc3a06580361f79c79",
       "LastCommitAt": "2023-07-26T18:09:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18922,
-      "OpenedBy": "holger-detering",
-      "CreatedAt": "2023-07-27T01:49:38Z",
-      "Recipe": "cargs",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18922",
-      "LastCommitSHA": "e051e599d3341af89ef41de16cce36fa006c7e7c",
-      "LastCommitAt": "2023-07-27T01:45:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
