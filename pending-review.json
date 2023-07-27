@@ -2519,8 +2519,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18264",
-      "LastCommitSHA": "e7aac46a2b1f5bc8ba18ee343b58b4a6335bd88e",
-      "LastCommitAt": "2023-07-17T14:21:16Z",
+      "LastCommitSHA": "ac4f6f800e831fd1fa0c97b147e6a4ef17a685e3",
+      "LastCommitAt": "2023-07-27T21:23:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5727,6 +5727,25 @@
       "LastCommitSHA": "27bf600a3234c7f0fe754c9e5f2e63dbca355225",
       "LastCommitAt": "2023-07-27T16:07:17Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18934,
+      "OpenedBy": "psyinf",
+      "CreatedAt": "2023-07-27T21:34:21Z",
+      "Recipe": "implot",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18934",
+      "LastCommitSHA": "300284e99d5002627dada20015fc224d5f534568",
+      "LastCommitAt": "2023-07-27T21:31:58Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
