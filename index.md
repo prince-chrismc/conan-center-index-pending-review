@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **236** pull requests currently under way :detective:
+There are **237** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -263,6 +263,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18918](https://github.com/conan-io/conan-center-index/pull/18918)|[toge](https://github.com/toge)|Jul 26|:stopwatch: unordered_dense|:blue_square: S|0|||
 [#18919](https://github.com/conan-io/conan-center-index/pull/18919)|[nassipkali](https://github.com/nassipkali)|Jul 26|:stopwatch: platform.exceptions|L|0|||
 [#18920](https://github.com/conan-io/conan-center-index/pull/18920)|[nassipkali](https://github.com/nassipkali)|Jul 26|:stopwatch: platform.converters|M|0|||
+[#18922](https://github.com/conan-io/conan-center-index/pull/18922)|[holger-detering](https://github.com/holger-detering)|Jul 27|:stopwatch: cargs|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -286,11 +287,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 45040d18fb474ca4c6bef74edbc08f4678a6c06f
+- Commit: 50bf1680315bc519f906ad6f9215e0892343b9c3
 - Pull Requests:
-	- Open: 369
-	- Draft: 40
-	- Average Age: 75 days, 15 hours, and 16.01 minutes
+	- Open: 371
+	- Draft: 41
+	- Average Age: 75 days, 9 hours, and 48.74 minutes
 	- Stop Label: 62
 	
 
