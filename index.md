@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **239** pull requests currently under way :detective:
+There are **241** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -249,6 +249,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18857](https://github.com/conan-io/conan-center-index/pull/18857)|[tt4g](https://github.com/tt4g)|Jul 24|:stopwatch: libpqxx|M|0|||
 [#18859](https://github.com/conan-io/conan-center-index/pull/18859)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 24|:stopwatch: .c3i|M|0|:eyes:||
 [#18866](https://github.com/conan-io/conan-center-index/pull/18866)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: liquid-dsp|L|0|||
+[#18872](https://github.com/conan-io/conan-center-index/pull/18872)|[Siarh199](https://github.com/Siarh199)|Jul 24|:stopwatch: amqp-cpp|:green_circle: XS|0|||
 [#18880](https://github.com/conan-io/conan-center-index/pull/18880)|[uyha](https://github.com/uyha)|Jul 24|:stopwatch: luajit|:green_circle: XS|0|||
 [#18881](https://github.com/conan-io/conan-center-index/pull/18881)|[uyha](https://github.com/uyha)|Jul 24|:memo: lua|:green_circle: XS|0|||
 [#18882](https://github.com/conan-io/conan-center-index/pull/18882)|[toge](https://github.com/toge)|Jul 24|:memo: dice-template-library|:green_circle: XS|0|||
@@ -266,6 +267,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18919](https://github.com/conan-io/conan-center-index/pull/18919)|[nassipkali](https://github.com/nassipkali)|Jul 26|:stopwatch: platform.exceptions|L|0|||
 [#18920](https://github.com/conan-io/conan-center-index/pull/18920)|[nassipkali](https://github.com/nassipkali)|Jul 26|:stopwatch: platform.converters|M|0|||
 [#18922](https://github.com/conan-io/conan-center-index/pull/18922)|[holger-detering](https://github.com/holger-detering)|Jul 27|:stopwatch: cargs|M|0|||
+[#18923](https://github.com/conan-io/conan-center-index/pull/18923)|[toge](https://github.com/toge)|Jul 27|:stopwatch: libcurl|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -291,10 +293,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 50bf1680315bc519f906ad6f9215e0892343b9c3
 - Pull Requests:
-	- Open: 373
-	- Draft: 41
-	- Average Age: 75 days, 5 hours, and 30.35 minutes
-	- Stop Label: 62
+	- Open: 375
+	- Draft: 42
+	- Average Age: 74 days, 21 hours, and 14.68 minutes
+	- Stop Label: 61
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
