@@ -5696,5 +5696,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18933,
+      "OpenedBy": "holger-detering",
+      "CreatedAt": "2023-07-27T16:19:01Z",
+      "Recipe": "caf",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18933",
+      "LastCommitSHA": "27bf600a3234c7f0fe754c9e5f2e63dbca355225",
+      "LastCommitAt": "2023-07-27T16:07:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
