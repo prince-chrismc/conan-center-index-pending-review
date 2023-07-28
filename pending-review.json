@@ -5198,6 +5198,30 @@
       }
    },
    {
+      "Number": 18829,
+      "OpenedBy": "CJCombrink",
+      "CreatedAt": "2023-07-22T18:43:27Z",
+      "Recipe": "hunspell",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18829",
+      "LastCommitSHA": "30d667bd3b3ae01a3591e1d3043d41ff46417c56",
+      "LastCommitAt": "2023-07-28T20:25:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2023-07-27T12:18:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18829#pullrequestreview-1549710874"
+         }
+      }
+   },
+   {
       "Number": 18841,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-23T11:09:29Z",
