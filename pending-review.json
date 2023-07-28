@@ -6185,5 +6185,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18961,
+      "OpenedBy": "memsharded",
+      "CreatedAt": "2023-07-28T18:16:17Z",
+      "Recipe": "fast-dds",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18961",
+      "LastCommitSHA": "ad420045015c786b845dd0a160118fa6308789ac",
+      "LastCommitAt": "2023-07-28T18:13:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
