@@ -5769,25 +5769,6 @@
       }
    },
    {
-      "Number": 18934,
-      "OpenedBy": "psyinf",
-      "CreatedAt": "2023-07-27T21:34:21Z",
-      "Recipe": "implot",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18934",
-      "LastCommitSHA": "300284e99d5002627dada20015fc224d5f534568",
-      "LastCommitAt": "2023-07-27T21:31:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18936,
       "OpenedBy": "klausholstjacobsen",
       "CreatedAt": "2023-07-28T09:52:03Z",
