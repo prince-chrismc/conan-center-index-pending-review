@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **266** pull requests currently under way :detective:
+There are **267** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -244,6 +244,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18813](https://github.com/conan-io/conan-center-index/pull/18813)|[ashley-b](https://github.com/ashley-b)|Jul 22|:memo: libgpiod|:blue_square: S|2|Jul 25||jwillikers
 [#18826](https://github.com/conan-io/conan-center-index/pull/18826)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 22|:stopwatch: zstd|M|2|Jul 23||
 [#18827](https://github.com/conan-io/conan-center-index/pull/18827)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 22|:stopwatch: .c3i|:blue_square: S|1|Jul 22||SSE4
+[#18829](https://github.com/conan-io/conan-center-index/pull/18829)|[CJCombrink](https://github.com/CJCombrink)|Jul 22|:stopwatch: hunspell|L|3|Jul 27||
 [#18843](https://github.com/conan-io/conan-center-index/pull/18843)|[toge](https://github.com/toge)|Jul 23|:stopwatch: sol2|:blue_square: S|0|:eyes:||
 [#18845](https://github.com/conan-io/conan-center-index/pull/18845)|[toge](https://github.com/toge)|Jul 23|:stopwatch: geos|:blue_square: S|1|Jul 25||jwillikers
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|L|1|Jul 24||
@@ -321,8 +322,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 404
 	- Draft: 45
-	- Average Age: 70 days, 20 hours, and 41.54 minutes
-	- Stop Label: 59
+	- Average Age: 70 days, 22 hours, and 41.27 minutes
+	- Stop Label: 58
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
