@@ -5567,8 +5567,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18914",
-      "LastCommitSHA": "c2d6f19b24de1f8cb21982ea0c5b5b8f5a9c22be",
-      "LastCommitAt": "2023-07-26T12:37:12Z",
+      "LastCommitSHA": "b4c56b7d0a5930eb5c34ba51b7b5b0dbc0c54f36",
+      "LastCommitAt": "2023-07-28T09:51:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5779,6 +5779,25 @@
       "LastCommitSHA": "300284e99d5002627dada20015fc224d5f534568",
       "LastCommitAt": "2023-07-27T21:31:58Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18936,
+      "OpenedBy": "klausholstjacobsen",
+      "CreatedAt": "2023-07-28T09:52:03Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18936",
+      "LastCommitSHA": "7b0ce98e405c040c1d0a07e26362a3f46f3b039f",
+      "LastCommitAt": "2023-07-28T09:48:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
