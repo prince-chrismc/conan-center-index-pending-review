@@ -3186,8 +3186,8 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18421",
-      "LastCommitSHA": "a01d0ba957a172375c9cd612fcf8fe04586def15",
-      "LastCommitAt": "2023-07-08T22:09:53Z",
+      "LastCommitSHA": "b977a883a5108a94a94dcfc1cf1c388e71b97e92",
+      "LastCommitAt": "2023-07-29T21:11:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -6254,6 +6254,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18964",
       "LastCommitSHA": "c6039ba967f307aa10727cc865c48f682b0b1dee",
       "LastCommitAt": "2023-07-29T15:39:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18965,
+      "OpenedBy": "psyinf",
+      "CreatedAt": "2023-07-29T21:33:52Z",
+      "Recipe": "vsgimgui",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18965",
+      "LastCommitSHA": "e5f97996e024caa68b94e6bd68498ca51f7af9bd",
+      "LastCommitAt": "2023-07-28T20:55:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
