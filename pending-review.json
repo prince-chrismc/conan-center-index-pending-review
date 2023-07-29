@@ -6243,5 +6243,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18964,
+      "OpenedBy": "jeremy-rifkin",
+      "CreatedAt": "2023-07-29T15:42:46Z",
+      "Recipe": "cpptrace",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18964",
+      "LastCommitSHA": "c6039ba967f307aa10727cc865c48f682b0b1dee",
+      "LastCommitAt": "2023-07-29T15:39:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
