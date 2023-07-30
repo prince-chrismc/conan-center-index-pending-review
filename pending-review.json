@@ -6300,5 +6300,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18968,
+      "OpenedBy": "klausholstjacobsen",
+      "CreatedAt": "2023-07-30T19:26:47Z",
+      "Recipe": "rsync",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18968",
+      "LastCommitSHA": "621667c9bf6618fd4fa8eec6dd78c411091f45a8",
+      "LastCommitAt": "2023-07-30T19:25:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
