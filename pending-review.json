@@ -6281,5 +6281,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18966,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-30T08:58:09Z",
+      "Recipe": "cpp-httplib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18966",
+      "LastCommitSHA": "83073cd59f5150f043964e8649faefaa304ba3c5",
+      "LastCommitAt": "2023-07-30T08:57:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
