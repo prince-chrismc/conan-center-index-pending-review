@@ -5400,11 +5400,21 @@
       "LastCommitAt": "2023-07-24T16:27:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-07-31T08:22:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18880#pullrequestreview-1554211176"
+         }
       }
    },
    {
@@ -5638,11 +5648,21 @@
       "LastCommitAt": "2023-07-26T15:37:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-07-31T08:21:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18918#pullrequestreview-1554210805"
+         }
       }
    },
    {
@@ -6273,6 +6293,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18968",
       "LastCommitSHA": "621667c9bf6618fd4fa8eec6dd78c411091f45a8",
       "LastCommitAt": "2023-07-30T19:25:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18972,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-07-31T08:30:31Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18972",
+      "LastCommitSHA": "bea1dd3ff11b3c4e01cd16ee849c3d3e72a378eb",
+      "LastCommitAt": "2023-07-30T18:40:33Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
