@@ -6320,5 +6320,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18973,
+      "OpenedBy": "holger-detering",
+      "CreatedAt": "2023-07-31T10:33:19Z",
+      "Recipe": "aws-c-common",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18973",
+      "LastCommitSHA": "bcf0f6b4d0342165f60f0eaee51f19bb65185652",
+      "LastCommitAt": "2023-07-30T12:45:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
