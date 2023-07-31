@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **270** pull requests currently under way :detective:
+There are **271** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -251,7 +251,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18859](https://github.com/conan-io/conan-center-index/pull/18859)|[conan-center-bot](https://github.com/conan-center-bot)|Jul 24|:stopwatch: .c3i|M|0|:eyes:||
 [#18866](https://github.com/conan-io/conan-center-index/pull/18866)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: liquid-dsp|L|0|:eyes:||
 [#18872](https://github.com/conan-io/conan-center-index/pull/18872)|[Siarh199](https://github.com/Siarh199)|Jul 24|:stopwatch: amqp-cpp|:green_circle: XS|0|:eyes:||
-[#18880](https://github.com/conan-io/conan-center-index/pull/18880)|[uyha](https://github.com/uyha)|Jul 24|:memo: luajit|:green_circle: XS|0|:eyes:||
+[#18880](https://github.com/conan-io/conan-center-index/pull/18880)|[uyha](https://github.com/uyha)|Jul 24|:memo: luajit|:green_circle: XS|1|Jul 31||danimtb
 [#18882](https://github.com/conan-io/conan-center-index/pull/18882)|[toge](https://github.com/toge)|Jul 24|:memo: dice-template-library|:green_circle: XS|0|:eyes:||
 [#18883](https://github.com/conan-io/conan-center-index/pull/18883)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairo|L|1|Jul 25||
 [#18890](https://github.com/conan-io/conan-center-index/pull/18890)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: libdrm|L|1|Jul 25||
@@ -263,7 +263,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18909](https://github.com/conan-io/conan-center-index/pull/18909)|[toge](https://github.com/toge)|Jul 25|:stopwatch: wt|:green_circle: XS|0|:eyes:||
 [#18914](https://github.com/conan-io/conan-center-index/pull/18914)|[saukijan](https://github.com/saukijan)|Jul 26|:stopwatch: open62541|M|0|||
 [#18916](https://github.com/conan-io/conan-center-index/pull/18916)|[wbehrens-on-gh](https://github.com/wbehrens-on-gh)|Jul 26|:stopwatch: opencv|:green_circle: XS|0|:eyes:||
-[#18918](https://github.com/conan-io/conan-center-index/pull/18918)|[toge](https://github.com/toge)|Jul 26|:memo: unordered_dense|:blue_square: S|0|:eyes:||
+[#18918](https://github.com/conan-io/conan-center-index/pull/18918)|[toge](https://github.com/toge)|Jul 26|:memo: unordered_dense|:blue_square: S|1|Jul 31||danimtb
 [#18919](https://github.com/conan-io/conan-center-index/pull/18919)|[nassipkali](https://github.com/nassipkali)|Jul 26|:stopwatch: platform.exceptions|L|0|:eyes:||
 [#18920](https://github.com/conan-io/conan-center-index/pull/18920)|[nassipkali](https://github.com/nassipkali)|Jul 26|:stopwatch: platform.converters|M|0|:eyes:||
 [#18923](https://github.com/conan-io/conan-center-index/pull/18923)|[toge](https://github.com/toge)|Jul 27|:stopwatch: libcurl|:green_circle: XS|0|:eyes:||
@@ -297,6 +297,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18964](https://github.com/conan-io/conan-center-index/pull/18964)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Jul 29|:stopwatch: cpptrace|M|0|||
 [#18965](https://github.com/conan-io/conan-center-index/pull/18965)|[psyinf](https://github.com/psyinf)|Jul 29|:stopwatch: vsgimgui|L|0|||
 [#18968](https://github.com/conan-io/conan-center-index/pull/18968)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 30|:stopwatch: rsync|M|0|||
+[#18972](https://github.com/conan-io/conan-center-index/pull/18972)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 31|:stopwatch: glib|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -323,9 +324,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 50bf1680315bc519f906ad6f9215e0892343b9c3
 - Pull Requests:
-	- Open: 411
+	- Open: 412
 	- Draft: 47
-	- Average Age: 72 days, 4 hours, and 10.91 minutes
+	- Average Age: 72 days, and 55.38 minutes
 	- Stop Label: 59
 	
 
