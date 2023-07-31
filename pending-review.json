@@ -6453,5 +6453,81 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18982,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-31T13:29:19Z",
+      "Recipe": "depot_tools",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18982",
+      "LastCommitSHA": "83081bdf783170682e741005bb115ebc1e32e433",
+      "LastCommitAt": "2023-07-31T13:28:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18983,
+      "OpenedBy": "fabiorossetto",
+      "CreatedAt": "2023-07-31T13:32:46Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18983",
+      "LastCommitSHA": "d3acdfe2717e58275cb2a8bc91fcc70dbeb1c1e4",
+      "LastCommitAt": "2023-07-31T13:23:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18984,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-31T13:44:10Z",
+      "Recipe": "pupnp",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18984",
+      "LastCommitSHA": "36cb4ea6a3e2df87281681d0b9a7b25e3307e58f",
+      "LastCommitAt": "2023-07-31T13:43:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18985,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-31T14:07:26Z",
+      "Recipe": "ctre",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18985",
+      "LastCommitSHA": "1ac15854a36d8a636b9017fd7bb14f4441b9a827",
+      "LastCommitAt": "2023-07-31T14:06:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
