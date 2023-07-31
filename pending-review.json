@@ -6643,5 +6643,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18993,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-31T17:46:38Z",
+      "Recipe": "poppler-data",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18993",
+      "LastCommitSHA": "68fb301d74b73acff152c344da7e2c1d00b3c0e6",
+      "LastCommitAt": "2023-07-31T17:42:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
