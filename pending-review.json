@@ -6226,25 +6226,6 @@
       }
    },
    {
-      "Number": 18963,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-29T14:12:46Z",
-      "Recipe": "streamvbyte",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18963",
-      "LastCommitSHA": "fcba717f00f5436c553083b0cba12ff6bb5bc0db",
-      "LastCommitAt": "2023-07-29T14:12:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18964,
       "OpenedBy": "jeremy-rifkin",
       "CreatedAt": "2023-07-29T15:42:46Z",
@@ -6273,25 +6254,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18965",
       "LastCommitSHA": "e5f97996e024caa68b94e6bd68498ca51f7af9bd",
       "LastCommitAt": "2023-07-28T20:55:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18966,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-30T08:58:09Z",
-      "Recipe": "cpp-httplib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18966",
-      "LastCommitSHA": "83073cd59f5150f043964e8649faefaa304ba3c5",
-      "LastCommitAt": "2023-07-30T08:57:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
