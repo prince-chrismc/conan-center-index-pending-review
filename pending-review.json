@@ -4298,8 +4298,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18602",
-      "LastCommitSHA": "2a652056caf108458276d67e1fbd4493f7941132",
-      "LastCommitAt": "2023-07-18T15:26:11Z",
+      "LastCommitSHA": "703ef8ca0a7b0a126fb6d79fb28c25247995fdd0",
+      "LastCommitAt": "2023-08-01T15:00:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5398,7 +5398,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18880",
       "LastCommitSHA": "81fc44529aaf687a5c5598e79c4e0ee2b0607693",
       "LastCommitAt": "2023-07-24T16:27:43Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -6635,6 +6635,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19003",
       "LastCommitSHA": "8ccf703560f516c34a106a65a49c8f696faa4673",
       "LastCommitAt": "2023-08-01T13:56:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19005,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2023-08-01T15:08:57Z",
+      "Recipe": "md4qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19005",
+      "LastCommitSHA": "0502f6388aec70fbc739216db327ec530abde15d",
+      "LastCommitAt": "2023-08-01T15:07:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
