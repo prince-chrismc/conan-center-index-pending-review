@@ -6681,5 +6681,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 18998,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-08-01T07:37:19Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18998",
+      "LastCommitSHA": "dd130870a39f50c63fb8cbe840e2926caa60a821",
+      "LastCommitAt": "2023-08-01T01:24:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
