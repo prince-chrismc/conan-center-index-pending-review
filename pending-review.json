@@ -5398,7 +5398,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18880",
       "LastCommitSHA": "81fc44529aaf687a5c5598e79c4e0ee2b0607693",
       "LastCommitAt": "2023-07-24T16:27:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
