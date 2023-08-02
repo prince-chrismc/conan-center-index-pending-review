@@ -284,7 +284,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18964](https://github.com/conan-io/conan-center-index/pull/18964)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Jul 29|:stopwatch: cpptrace|M|0|:eyes:||
 [#18965](https://github.com/conan-io/conan-center-index/pull/18965)|[psyinf](https://github.com/psyinf)|Jul 29|:stopwatch: vsgimgui|L|0|||
 [#18968](https://github.com/conan-io/conan-center-index/pull/18968)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 30|:stopwatch: rsync|M|0|||
-[#18972](https://github.com/conan-io/conan-center-index/pull/18972)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 31|:stopwatch: glib|:green_circle: XS|0|||
+[#18972](https://github.com/conan-io/conan-center-index/pull/18972)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 31|:stopwatch: glib|:green_circle: XS|0|:eyes:||
 [#18973](https://github.com/conan-io/conan-center-index/pull/18973)|[holger-detering](https://github.com/holger-detering)|Jul 31|:stopwatch: aws-c-common|:blue_square: S|0|||
 [#18974](https://github.com/conan-io/conan-center-index/pull/18974)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 31|:stopwatch: libunwind|:green_circle: XS|0|:eyes:||
 [#18975](https://github.com/conan-io/conan-center-index/pull/18975)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 31|:stopwatch: asio|:green_circle: XS|0|:eyes:||
@@ -339,7 +339,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 428
 	- Draft: 43
-	- Average Age: 71 days, 10 hours, and 38.57 minutes
+	- Average Age: 71 days, 11 hours, and 32.95 minutes
 	- Stop Label: 67
 	
 
