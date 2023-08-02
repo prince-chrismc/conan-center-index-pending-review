@@ -3501,25 +3501,6 @@
       }
    },
    {
-      "Number": 18521,
-      "OpenedBy": "EstebanDugueperoux2",
-      "CreatedAt": "2023-07-13T06:00:42Z",
-      "Recipe": "coin-osi",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18521",
-      "LastCommitSHA": "d02f29123ffc3f79994d36ec98c1292ccd4b584f",
-      "LastCommitAt": "2023-07-09T12:03:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18522,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-13T07:29:53Z",
