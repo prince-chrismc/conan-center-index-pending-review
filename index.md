@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **282** pull requests currently under way :detective:
+There are **283** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -256,7 +256,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18926](https://github.com/conan-io/conan-center-index/pull/18926)|[valgur](https://github.com/valgur)|Jul 27|:stopwatch: hdf4|L|0|:eyes:||
 [#18929](https://github.com/conan-io/conan-center-index/pull/18929)|[ibosnic00](https://github.com/ibosnic00)|Jul 27|:stopwatch: protobuf|:green_circle: XS|0|:eyes:||
 [#18932](https://github.com/conan-io/conan-center-index/pull/18932)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 27|:stopwatch: nss|:green_circle: XS|0|:eyes:||
-[#18933](https://github.com/conan-io/conan-center-index/pull/18933)|[holger-detering](https://github.com/holger-detering)|Jul 27|:stopwatch: caf|M|1|Jul 29||[mpimenov](https://github.com/mpimenov)
+[#18933](https://github.com/conan-io/conan-center-index/pull/18933)|[holger-detering](https://github.com/holger-detering)|Jul 27|:stopwatch: caf|M|1|Jul 29||
 [#18936](https://github.com/conan-io/conan-center-index/pull/18936)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 28|:stopwatch: glib|L|0|:eyes:||
 [#18937](https://github.com/conan-io/conan-center-index/pull/18937)|[steinerthomas](https://github.com/steinerthomas)|Jul 28|:stopwatch: poco|:green_circle: XS|0|||
 [#18938](https://github.com/conan-io/conan-center-index/pull/18938)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: makefile-project-workspace-creator|M|0|:eyes:||
@@ -284,7 +284,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18965](https://github.com/conan-io/conan-center-index/pull/18965)|[psyinf](https://github.com/psyinf)|Jul 29|:stopwatch: vsgimgui|L|0|||
 [#18968](https://github.com/conan-io/conan-center-index/pull/18968)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 30|:stopwatch: rsync|M|0|||
 [#18972](https://github.com/conan-io/conan-center-index/pull/18972)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 31|:stopwatch: glib|:green_circle: XS|0|||
-[#18973](https://github.com/conan-io/conan-center-index/pull/18973)|[holger-detering](https://github.com/holger-detering)|Jul 31|:stopwatch: aws-c-common|:blue_square: S|0|:eyes:||
+[#18973](https://github.com/conan-io/conan-center-index/pull/18973)|[holger-detering](https://github.com/holger-detering)|Jul 31|:stopwatch: aws-c-common|:blue_square: S|0|||
 [#18974](https://github.com/conan-io/conan-center-index/pull/18974)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 31|:stopwatch: libunwind|:green_circle: XS|0|:eyes:||
 [#18975](https://github.com/conan-io/conan-center-index/pull/18975)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 31|:stopwatch: asio|:green_circle: XS|0|:eyes:||
 [#18977](https://github.com/conan-io/conan-center-index/pull/18977)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: tcp-wrappers|L|0|||
@@ -309,6 +309,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19009](https://github.com/conan-io/conan-center-index/pull/19009)|[toge](https://github.com/toge)|Aug 1|:stopwatch: imgui|:green_circle: XS|0|||
 [#19011](https://github.com/conan-io/conan-center-index/pull/19011)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 2|:stopwatch: msgpack-c|:green_circle: XS|0|||
 [#19015](https://github.com/conan-io/conan-center-index/pull/19015)|[bigerl](https://github.com/bigerl)|Aug 2|:stopwatch: dice-template-library|:green_circle: XS|0|||
+[#19017](https://github.com/conan-io/conan-center-index/pull/19017)|[igormironchik](https://github.com/igormironchik)|Aug 2|:stopwatch: md4qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -334,9 +335,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 50bf1680315bc519f906ad6f9215e0892343b9c3
 - Pull Requests:
-	- Open: 426
+	- Open: 427
 	- Draft: 43
-	- Average Age: 71 days, 14 hours, and 38.21 minutes
+	- Average Age: 71 days, 11 hours, and 37.10 minutes
 	- Stop Label: 68
 	
 
