@@ -6469,5 +6469,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19018,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2023-08-02T18:03:55Z",
+      "Recipe": "utfcpp",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19018",
+      "LastCommitSHA": "9705a672f7c42821f3d06ec64ebefc5c2ee75132",
+      "LastCommitAt": "2023-08-02T18:01:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19019,
+      "OpenedBy": "steinerthomas",
+      "CreatedAt": "2023-08-02T18:12:24Z",
+      "Recipe": "sqlitecpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19019",
+      "LastCommitSHA": "3be8861f7e30fe58ef5af4b0de2dfee920c97978",
+      "LastCommitAt": "2023-08-02T18:14:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
