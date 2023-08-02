@@ -5303,6 +5303,35 @@
       }
    },
    {
+      "Number": 18857,
+      "OpenedBy": "tt4g",
+      "CreatedAt": "2023-07-24T00:45:15Z",
+      "Recipe": "libpqxx",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18857",
+      "LastCommitSHA": "97a9ae8745b13b0c49dc7911f74c22ebaa49df3c",
+      "LastCommitAt": "2023-07-24T14:12:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": [],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-08-02T07:37:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18857#pullrequestreview-1558388904"
+         }
+      }
+   },
+   {
       "Number": 18859,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-07-24T05:23:43Z",
@@ -6663,6 +6692,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19011",
       "LastCommitSHA": "1ec60542c3810350b9d5f648d7df4924b093ec39",
       "LastCommitAt": "2023-08-02T07:03:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19015,
+      "OpenedBy": "bigerl",
+      "CreatedAt": "2023-08-02T08:17:18Z",
+      "Recipe": "dice-template-library",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19015",
+      "LastCommitSHA": "3bf3d4564ff4584231ffe80ea639ce4b1b24e988",
+      "LastCommitAt": "2023-08-02T08:14:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
