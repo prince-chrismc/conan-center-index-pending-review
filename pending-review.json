@@ -3196,25 +3196,6 @@
       }
    },
    {
-      "Number": 18429,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-09T09:06:13Z",
-      "Recipe": "imagemagick",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18429",
-      "LastCommitSHA": "b5644b620e28673cf70e2f29e89249f6ff0a1dea",
-      "LastCommitAt": "2023-07-22T11:45:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18437,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-09T09:35:42Z",
@@ -3353,25 +3334,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18461",
       "LastCommitSHA": "0ec96cbe4493f730b41335c93e5b7027fe4d688a",
       "LastCommitAt": "2023-07-22T09:24:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18463,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-10T06:44:36Z",
-      "Recipe": "gst-plugins-base",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18463",
-      "LastCommitSHA": "d33aa880aab2bcfbd60e976b3c4d5a0ab9b1f0f8",
-      "LastCommitAt": "2023-07-17T08:55:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
