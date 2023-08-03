@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **281** pull requests currently under way :detective:
+There are **282** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -269,7 +269,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18952](https://github.com/conan-io/conan-center-index/pull/18952)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: ofeli|L|0|:eyes:||
 [#18953](https://github.com/conan-io/conan-center-index/pull/18953)|[lrineau](https://github.com/lrineau)|Jul 28|:stopwatch: cgal|:green_circle: XS|0|:eyes:||
 [#18954](https://github.com/conan-io/conan-center-index/pull/18954)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: guetzli|L|0|||
-[#18955](https://github.com/conan-io/conan-center-index/pull/18955)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: isa-l|L|0|:eyes:||
+[#18955](https://github.com/conan-io/conan-center-index/pull/18955)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: isa-l|L|0|||
 [#18956](https://github.com/conan-io/conan-center-index/pull/18956)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: resiprocate|L|0|:eyes:||
 [#18957](https://github.com/conan-io/conan-center-index/pull/18957)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: liboping|L|0|:eyes:||
 [#18958](https://github.com/conan-io/conan-center-index/pull/18958)|[toge](https://github.com/toge)|Jul 28|:stopwatch: fpzip|L|0|:eyes:||
@@ -308,6 +308,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19019](https://github.com/conan-io/conan-center-index/pull/19019)|[steinerthomas](https://github.com/steinerthomas)|Aug 2|:stopwatch: sqlitecpp|:green_circle: XS|0|||
 [#19020](https://github.com/conan-io/conan-center-index/pull/19020)|[toge](https://github.com/toge)|Aug 3|:stopwatch: quill|:blue_square: S|0|||
 [#19021](https://github.com/conan-io/conan-center-index/pull/19021)|[pwqbot](https://github.com/pwqbot)|Aug 3|:stopwatch: ethash|M|0|||
+[#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:stopwatch: intx|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -333,9 +334,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 50bf1680315bc519f906ad6f9215e0892343b9c3
 - Pull Requests:
-	- Open: 430
+	- Open: 431
 	- Draft: 42
-	- Average Age: 71 days, 14 hours, and 37.53 minutes
+	- Average Age: 71 days, 11 hours, and 34.69 minutes
 	- Stop Label: 73
 	
 
