@@ -2766,25 +2766,6 @@
       }
    },
    {
-      "Number": 18344,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-05T16:18:17Z",
-      "Recipe": "resource_pool",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18344",
-      "LastCommitSHA": "64a2811c75cfb35e149fe012096d6b08a6b15204",
-      "LastCommitAt": "2023-07-26T20:25:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18350,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-05T16:56:02Z",
@@ -2879,6 +2860,35 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-07-06T12:55:05Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18367#pullrequestreview-1516482026"
+         }
+      }
+   },
+   {
+      "Number": 18391,
+      "OpenedBy": "fcorso2016",
+      "CreatedAt": "2023-07-06T22:15:27Z",
+      "Recipe": "onnxruntime",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18391",
+      "LastCommitSHA": "15cb11acff51babb9a46d6d5a3e38d2700a3281c",
+      "LastCommitAt": "2023-07-29T14:20:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-08-03T12:41:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18391#pullrequestreview-1561011020"
          }
       }
    },
@@ -3127,25 +3137,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18489",
       "LastCommitSHA": "c5db332b4227334df0ec25f51e7ec092f5f2d1ac",
       "LastCommitAt": "2023-07-24T08:40:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18495,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-11T15:48:21Z",
-      "Recipe": "mongo-cxx-driver",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18495",
-      "LastCommitSHA": "8a5da8d181957b8fc82d0e40cb8307a058786247",
-      "LastCommitAt": "2023-07-11T15:47:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3858,7 +3849,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18601",
       "LastCommitSHA": "ffc09ee9086d5a92ad91bae8b48d5d0109a5dcdc",
       "LastCommitAt": "2023-08-03T05:06:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -3939,7 +3930,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18622",
       "LastCommitSHA": "aecfa91e3f8c0ecff87f45d89b9c2988c428ad0c",
       "LastCommitAt": "2023-07-19T01:58:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4088,25 +4079,6 @@
       }
    },
    {
-      "Number": 18690,
-      "OpenedBy": "jabbas",
-      "CreatedAt": "2023-07-19T21:55:07Z",
-      "Recipe": "jemalloc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18690",
-      "LastCommitSHA": "7141c3e6bd36caa79e439824a91b00eef5dbfcfb",
-      "LastCommitAt": "2023-07-24T22:35:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18696,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T22:54:01Z",
@@ -4240,25 +4212,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18715",
       "LastCommitSHA": "a9c486d7e3fd79356762587bfd8cfa26ae764e6b",
       "LastCommitAt": "2023-07-26T21:02:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18729,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T14:01:20Z",
-      "Recipe": "libusb-compat",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18729",
-      "LastCommitSHA": "971760c900adefce65da9359e61dfebad2aa4cbf",
-      "LastCommitAt": "2023-07-26T20:23:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4720,6 +4673,32 @@
       }
    },
    {
+      "Number": 18857,
+      "OpenedBy": "tt4g",
+      "CreatedAt": "2023-07-24T00:45:15Z",
+      "Recipe": "libpqxx",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18857",
+      "LastCommitSHA": "a4426dcc3978332a1b8cbbfed961c34e6808499c",
+      "LastCommitAt": "2023-08-03T15:03:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "uilianries"
+         ],
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-08-02T10:35:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18857#pullrequestreview-1558715562"
+         }
+      }
+   },
+   {
       "Number": 18859,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-07-24T05:23:43Z",
@@ -4813,25 +4792,6 @@
             "SubmittedAt": "2023-07-31T08:22:08Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18880#pullrequestreview-1554211176"
          }
-      }
-   },
-   {
-      "Number": 18882,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-24T16:40:33Z",
-      "Recipe": "dice-template-library",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18882",
-      "LastCommitSHA": "a7c10f607e337b97d686c2d2b34681508e4c71df",
-      "LastCommitAt": "2023-07-24T16:39:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -5600,7 +5560,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18961",
       "LastCommitSHA": "ad420045015c786b845dd0a160118fa6308789ac",
       "LastCommitAt": "2023-07-28T18:13:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6066,13 +6026,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19009",
       "LastCommitSHA": "90ccfbf58d3874e322effc0985f21f5637924e36",
       "LastCommitAt": "2023-08-01T19:37:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "jcar87",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jcar87",
+            "SubmittedAt": "2023-08-03T16:02:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19009#pullrequestreview-1561422515"
+         }
       }
    },
    {
