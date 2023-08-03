@@ -218,7 +218,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18759](https://github.com/conan-io/conan-center-index/pull/18759)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: lightgbm|L|1|Jul 21 :bell:||
 [#18764](https://github.com/conan-io/conan-center-index/pull/18764)|[stepanzorin](https://github.com/stepanzorin)|Jul 20|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#18765](https://github.com/conan-io/conan-center-index/pull/18765)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: llvm-openmp|L|0|:eyes:||
-[#18769](https://github.com/conan-io/conan-center-index/pull/18769)|[liquiddaniel](https://github.com/liquiddaniel)|Jul 21|:stopwatch: capnproto|:green_circle: XS|0|:eyes:||
+[#18769](https://github.com/conan-io/conan-center-index/pull/18769)|[liquiddaniel](https://github.com/liquiddaniel)|Jul 21|:stopwatch: capnproto|:green_circle: XS|0|||
 [#18778](https://github.com/conan-io/conan-center-index/pull/18778)|[ericLemanissier](https://github.com/ericLemanissier)|Jul 21|:stopwatch: qt|:blue_square: S|3|Jul 27||
 [#18779](https://github.com/conan-io/conan-center-index/pull/18779)|[valgur](https://github.com/valgur)|Jul 21|:stopwatch: tinyxml|:green_circle: XS|1|Jul 22||ericLemanissier
 [#18799](https://github.com/conan-io/conan-center-index/pull/18799)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: aws-kvs-pic|L|2|Jul 25||
@@ -334,7 +334,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 429
 	- Draft: 42
-	- Average Age: 71 days, 15 hours, and 35.16 minutes
+	- Average Age: 71 days, 16 hours, and 37.57 minutes
 	- Stop Label: 73
 	
 
