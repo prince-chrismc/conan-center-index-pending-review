@@ -3977,19 +3977,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18601",
-      "LastCommitSHA": "9a6e39be9362e753eb7feb42de9a5835867ff3b4",
-      "LastCommitAt": "2023-07-19T06:40:38Z",
+      "LastCommitSHA": "ffc09ee9086d5a92ad91bae8b48d5d0109a5dcdc",
+      "LastCommitAt": "2023-08-03T05:06:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
