@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **276** pull requests currently under way :detective:
+There are **277** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -125,7 +125,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18254](https://github.com/conan-io/conan-center-index/pull/18254)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: procxx-boost-ext-simd|L|0|:eyes:||
 [#18255](https://github.com/conan-io/conan-center-index/pull/18255)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: plusaes|M|0|:eyes:||
 [#18257](https://github.com/conan-io/conan-center-index/pull/18257)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: cpp_project_framework|L|0|:eyes:||
-[#18258](https://github.com/conan-io/conan-center-index/pull/18258)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: rangesnext|L|0|:eyes:||
+[#18258](https://github.com/conan-io/conan-center-index/pull/18258)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: rangesnext|L|0|||
 [#18259](https://github.com/conan-io/conan-center-index/pull/18259)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: frugally-deep|L|0|:eyes:||
 [#18260](https://github.com/conan-io/conan-center-index/pull/18260)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: pipes|L|0|:eyes:||
 [#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: platform.converters|L|0|:eyes:||
@@ -141,6 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18288](https://github.com/conan-io/conan-center-index/pull/18288)|[toge](https://github.com/toge)|Jul 2|:stopwatch: libxft|L|0|:eyes:||
 [#18297](https://github.com/conan-io/conan-center-index/pull/18297)|[wAuner](https://github.com/wAuner)|Jul 3|:stopwatch: sqlite3|L|0|:eyes:||
 [#18298](https://github.com/conan-io/conan-center-index/pull/18298)|[Nekto89](https://github.com/Nekto89)|Jul 3|:stopwatch: itk|L|6|Jul 24||
+[#18344](https://github.com/conan-io/conan-center-index/pull/18344)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: resource_pool|L|1|Aug 3||
 [#18350](https://github.com/conan-io/conan-center-index/pull/18350)|[valgur](https://github.com/valgur)|Jul 5|:memo: di|L|3|Aug 3|uilianries|franramirez688
 [#18352](https://github.com/conan-io/conan-center-index/pull/18352)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: si|L|2|Jul 7 :bell:||
 [#18356](https://github.com/conan-io/conan-center-index/pull/18356)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: so5extra|L|0|:eyes:||
@@ -329,7 +330,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 435
 	- Draft: 42
-	- Average Age: 71 days, 10 hours, and 2.65 minutes
+	- Average Age: 71 days, 12 hours, and 4.76 minutes
 	- Stop Label: 82
 	
 
