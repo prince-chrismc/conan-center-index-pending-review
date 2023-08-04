@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **263** pull requests currently under way :detective:
+There are **265** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -100,6 +100,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18115](https://github.com/conan-io/conan-center-index/pull/18115)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: panzi-portable-endian|L|0|:eyes:||
 [#18117](https://github.com/conan-io/conan-center-index/pull/18117)|[valgur](https://github.com/valgur)|Jun 28|:stopwatch: dtl|M|8|Jul 25||
 [#18147](https://github.com/conan-io/conan-center-index/pull/18147)|[jjcasmar](https://github.com/jjcasmar)|Jun 29|:stopwatch: embree4|L|0|:eyes:||
+[#18149](https://github.com/conan-io/conan-center-index/pull/18149)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 29|:memo: exiv2|L|0|||
 [#18164](https://github.com/conan-io/conan-center-index/pull/18164)|[Hopobcn](https://github.com/Hopobcn)|Jun 30|:stopwatch: cpuinfo|M|1|Jul 18 :bell:||toge
 [#18170](https://github.com/conan-io/conan-center-index/pull/18170)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: aggeom-agg|L|0|:eyes:||
 [#18196](https://github.com/conan-io/conan-center-index/pull/18196)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: avahi|M|5|Jul 20 :bell:||
@@ -272,15 +273,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18986](https://github.com/conan-io/conan-center-index/pull/18986)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: librhash|L|0|:eyes:||
 [#18987](https://github.com/conan-io/conan-center-index/pull/18987)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: libid3tag|L|0|:eyes:||
 [#18988](https://github.com/conan-io/conan-center-index/pull/18988)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: gamenetworkingsockets|L|0|:eyes:||
+[#18991](https://github.com/conan-io/conan-center-index/pull/18991)|[toge](https://github.com/toge)|Jul 31|:memo: luau|M|0|||
 [#18992](https://github.com/conan-io/conan-center-index/pull/18992)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: ignition-math|L|0|:eyes:||
 [#18993](https://github.com/conan-io/conan-center-index/pull/18993)|[valgur](https://github.com/valgur)|Jul 31|:memo: poppler-data|:blue_square: S|0|:eyes:||
 [#18996](https://github.com/conan-io/conan-center-index/pull/18996)|[psyinf](https://github.com/psyinf)|Jul 31|:stopwatch: vsg|:blue_square: S|0|:eyes:||
 [#19003](https://github.com/conan-io/conan-center-index/pull/19003)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 1|:stopwatch: dbus|L|1|Aug 2||jwillikers
 [#19011](https://github.com/conan-io/conan-center-index/pull/19011)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 2|:stopwatch: msgpack-c|:green_circle: XS|0|||
-[#19015](https://github.com/conan-io/conan-center-index/pull/19015)|[bigerl](https://github.com/bigerl)|Aug 2|:stopwatch: dice-template-library|:green_circle: XS|0|||
+[#19015](https://github.com/conan-io/conan-center-index/pull/19015)|[bigerl](https://github.com/bigerl)|Aug 2|:memo: dice-template-library|:green_circle: XS|0|||
 [#19020](https://github.com/conan-io/conan-center-index/pull/19020)|[toge](https://github.com/toge)|Aug 3|:stopwatch: quill|:blue_square: S|0|||
 [#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:stopwatch: intx|:green_circle: XS|0|||
-[#19024](https://github.com/conan-io/conan-center-index/pull/19024)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 3|:stopwatch: onetbb|:green_circle: XS|0|||
+[#19024](https://github.com/conan-io/conan-center-index/pull/19024)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 3|:memo: onetbb|:green_circle: XS|0|||
 [#19029](https://github.com/conan-io/conan-center-index/pull/19029)|[Croydon](https://github.com/Croydon)|Aug 3|:stopwatch: openssl|M|1|Aug 3||[Hopobcn](https://github.com/Hopobcn)
 [#19030](https://github.com/conan-io/conan-center-index/pull/19030)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openpam|M|0|||
 [#19032](https://github.com/conan-io/conan-center-index/pull/19032)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:stopwatch: openssl|:green_circle: XS|0|||
@@ -315,8 +317,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 434
 	- Draft: 42
-	- Average Age: 71 days, 21 hours, and 46.93 minutes
-	- Stop Label: 94
+	- Average Age: 71 days, 22 hours, and 49.51 minutes
+	- Stop Label: 92
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
