@@ -4775,6 +4775,25 @@
       }
    },
    {
+      "Number": 18908,
+      "OpenedBy": "maksim-petukhov",
+      "CreatedAt": "2023-07-25T16:17:28Z",
+      "Recipe": "kaitai_struct_cpp_stl_runtime",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18908",
+      "LastCommitSHA": "dcef833b7dc2b0203b0f9001feb3c2c162b05572",
+      "LastCommitAt": "2023-08-04T19:59:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18909,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-25T16:32:13Z",
@@ -5797,25 +5816,6 @@
       }
    },
    {
-      "Number": 19011,
-      "OpenedBy": "klausholstjacobsen",
-      "CreatedAt": "2023-08-02T07:05:24Z",
-      "Recipe": "msgpack-c",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19011",
-      "LastCommitSHA": "a5779a011ce1ced9be700096cec26006359cf677",
-      "LastCommitAt": "2023-08-04T11:08:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19015,
       "OpenedBy": "bigerl",
       "CreatedAt": "2023-08-02T08:17:18Z",
@@ -5844,7 +5844,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19020",
       "LastCommitSHA": "4ce32d491310452bad1ba34482af78a7907658d9",
       "LastCommitAt": "2023-08-03T01:34:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
