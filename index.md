@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **266** pull requests currently under way :detective:
+There are **265** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -281,7 +281,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19018](https://github.com/conan-io/conan-center-index/pull/19018)|[Nekto89](https://github.com/Nekto89)|Aug 2|:stopwatch: utfcpp|:blue_square: S|0|||
 [#19019](https://github.com/conan-io/conan-center-index/pull/19019)|[steinerthomas](https://github.com/steinerthomas)|Aug 2|:stopwatch: sqlitecpp|:green_circle: XS|0|||
 [#19020](https://github.com/conan-io/conan-center-index/pull/19020)|[toge](https://github.com/toge)|Aug 3|:stopwatch: quill|:blue_square: S|0|||
-[#19021](https://github.com/conan-io/conan-center-index/pull/19021)|[pwqbot](https://github.com/pwqbot)|Aug 3|:stopwatch: ethash|M|0|||
 [#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:stopwatch: intx|:green_circle: XS|0|||
 [#19024](https://github.com/conan-io/conan-center-index/pull/19024)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 3|:stopwatch: onetbb|:green_circle: XS|0|||
 [#19025](https://github.com/conan-io/conan-center-index/pull/19025)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 3|:stopwatch: harfbuzz|:green_circle: XS|0|||
@@ -318,8 +317,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 435
 	- Draft: 42
-	- Average Age: 71 days, 14 hours, and 59.39 minutes
-	- Stop Label: 93
+	- Average Age: 71 days, 15 hours, and 54.75 minutes
+	- Stop Label: 94
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
