@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **265** pull requests currently under way :detective:
+There are **266** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -279,7 +279,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19011](https://github.com/conan-io/conan-center-index/pull/19011)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 2|:stopwatch: msgpack-c|:green_circle: XS|0|||
 [#19015](https://github.com/conan-io/conan-center-index/pull/19015)|[bigerl](https://github.com/bigerl)|Aug 2|:stopwatch: dice-template-library|:green_circle: XS|0|||
 [#19018](https://github.com/conan-io/conan-center-index/pull/19018)|[Nekto89](https://github.com/Nekto89)|Aug 2|:stopwatch: utfcpp|:blue_square: S|0|||
-[#19019](https://github.com/conan-io/conan-center-index/pull/19019)|[steinerthomas](https://github.com/steinerthomas)|Aug 2|:stopwatch: sqlitecpp|:green_circle: XS|0|||
 [#19020](https://github.com/conan-io/conan-center-index/pull/19020)|[toge](https://github.com/toge)|Aug 3|:stopwatch: quill|:blue_square: S|0|||
 [#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:stopwatch: intx|:green_circle: XS|0|||
 [#19024](https://github.com/conan-io/conan-center-index/pull/19024)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 3|:stopwatch: onetbb|:green_circle: XS|0|||
@@ -290,8 +289,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19036](https://github.com/conan-io/conan-center-index/pull/19036)|[uilianries](https://github.com/uilianries)|Aug 4|:memo: bimg|:green_circle: XS|1|Aug 4||franramirez688
 [#19037](https://github.com/conan-io/conan-center-index/pull/19037)|[uilianries](https://github.com/uilianries)|Aug 4|:stopwatch: libnice|:blue_square: S|0|||
 [#19038](https://github.com/conan-io/conan-center-index/pull/19038)|[uilianries](https://github.com/uilianries)|Aug 4|:memo: yaclib|:green_circle: XS|0|||
+[#19039](https://github.com/conan-io/conan-center-index/pull/19039)|[robomics](https://github.com/robomics)|Aug 4|:stopwatch: hictk|M|0|||
 [#19042](https://github.com/conan-io/conan-center-index/pull/19042)|[uilianries](https://github.com/uilianries)|Aug 4|:green_book: docs|:green_circle: XS|1|Aug 4||danimtb
 [#19047](https://github.com/conan-io/conan-center-index/pull/19047)|[toge](https://github.com/toge)|Aug 4|:stopwatch: uwebsockets|:blue_square: S|0|||
+[#19048](https://github.com/conan-io/conan-center-index/pull/19048)|[ericriff](https://github.com/ericriff)|Aug 4|:stopwatch: qarchive|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -315,10 +316,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 50bf1680315bc519f906ad6f9215e0892343b9c3
 - Pull Requests:
-	- Open: 435
+	- Open: 436
 	- Draft: 42
-	- Average Age: 71 days, 15 hours, and 54.75 minutes
-	- Stop Label: 94
+	- Average Age: 71 days, 13 hours, and 2.47 minutes
+	- Stop Label: 93
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
