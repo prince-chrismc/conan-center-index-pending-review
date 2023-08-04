@@ -2952,15 +2952,20 @@
       "LastCommitAt": "2023-07-20T12:04:46Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
+         "Count": 4,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "EstebanDugueperoux2",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-11T13:11:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18416#pullrequestreview-1524239206"
+            "ReviewerName": "EstebanDugueperoux2",
+            "SubmittedAt": "2023-08-04T21:04:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18416#pullrequestreview-1563563821"
          }
       }
    },
@@ -6078,7 +6083,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19047",
       "LastCommitSHA": "1e9a8a46f9317a5ec23e90aad0bccda6daafef5d",
       "LastCommitAt": "2023-08-04T15:25:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
