@@ -4171,8 +4171,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18746",
-      "LastCommitSHA": "0e409699ba1e650745278bf0f4844e9d8cd21afa",
-      "LastCommitAt": "2023-07-26T20:26:24Z",
+      "LastCommitSHA": "873ba211d6ac22bce20886dc7b1ead32e18bdc48",
+      "LastCommitAt": "2023-08-05T15:04:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5391,25 +5391,6 @@
       }
    },
    {
-      "Number": 18973,
-      "OpenedBy": "holger-detering",
-      "CreatedAt": "2023-07-31T10:33:19Z",
-      "Recipe": "aws-c-common",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18973",
-      "LastCommitSHA": "a75497f6f393657fb9a0ee86b0504dcf9ca533c4",
-      "LastCommitAt": "2023-08-02T15:44:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18981,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-31T13:18:05Z",
@@ -5934,6 +5915,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19054",
       "LastCommitSHA": "00349d33e5e9fe6a59069f55748b7cf12ecfbea2",
       "LastCommitAt": "2023-08-05T13:17:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19055,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-08-05T14:20:59Z",
+      "Recipe": "gettext",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19055",
+      "LastCommitSHA": "a78323d38208679262c232bf51f1c7ab2d704346",
+      "LastCommitAt": "2023-08-05T14:04:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
