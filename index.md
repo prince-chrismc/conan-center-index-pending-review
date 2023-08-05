@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **267** pull requests currently under way :detective:
+There are **268** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -294,6 +294,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19039](https://github.com/conan-io/conan-center-index/pull/19039)|[robomics](https://github.com/robomics)|Aug 4|:stopwatch: hictk|M|0|||
 [#19042](https://github.com/conan-io/conan-center-index/pull/19042)|[uilianries](https://github.com/uilianries)|Aug 4|:green_book: docs|:green_circle: XS|1|Aug 4||danimtb
 [#19047](https://github.com/conan-io/conan-center-index/pull/19047)|[toge](https://github.com/toge)|Aug 4|:memo: uwebsockets|:blue_square: S|0|||
+[#19049](https://github.com/conan-io/conan-center-index/pull/19049)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 5|:gear: .c3i|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -317,9 +318,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 50bf1680315bc519f906ad6f9215e0892343b9c3
 - Pull Requests:
-	- Open: 433
+	- Open: 434
 	- Draft: 42
-	- Average Age: 72 days, 8 hours, and 52.40 minutes
+	- Average Age: 72 days, 5 hours, and 39.83 minutes
 	- Stop Label: 89
 	
 
