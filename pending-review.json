@@ -4173,7 +4173,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18746",
       "LastCommitSHA": "0cc96aaa52277b8d0912461b4ed0b0bb640ae705",
       "LastCommitAt": "2023-08-05T16:28:36Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5286,25 +5286,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18958",
       "LastCommitSHA": "d42ffd7db903149cb363a88884f8e89f6af1ac44",
       "LastCommitAt": "2023-07-28T14:44:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18959,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-28T14:59:03Z",
-      "Recipe": "pciutils",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18959",
-      "LastCommitSHA": "13e5038fbba44ff8c5e9ebd00e8a05b1edd62402",
-      "LastCommitAt": "2023-07-28T14:58:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
