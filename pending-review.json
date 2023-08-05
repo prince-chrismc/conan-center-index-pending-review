@@ -5768,25 +5768,6 @@
       }
    },
    {
-      "Number": 18992,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-31T17:10:57Z",
-      "Recipe": "ignition-math",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18992",
-      "LastCommitSHA": "36207b9bdf841125c7f17c65fc02b2793a000aee",
-      "LastCommitAt": "2023-07-31T17:09:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18993,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-31T17:46:38Z",
