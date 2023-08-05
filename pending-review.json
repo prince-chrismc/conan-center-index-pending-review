@@ -6056,24 +6056,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 19050,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-05T07:55:25Z",
-      "Recipe": "freexl",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19050",
-      "LastCommitSHA": "5ef36019fe3522a827abc291b387c54e4357bf07",
-      "LastCommitAt": "2023-08-05T07:52:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
