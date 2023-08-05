@@ -4683,6 +4683,25 @@
       }
    },
    {
+      "Number": 18906,
+      "OpenedBy": "klausholstjacobsen",
+      "CreatedAt": "2023-07-25T12:58:59Z",
+      "Recipe": "lzip",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18906",
+      "LastCommitSHA": "bce7ddea06f8836eb94bf2faa47496a0d4586050",
+      "LastCommitAt": "2023-08-05T17:44:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18908,
       "OpenedBy": "maksim-petukhov",
       "CreatedAt": "2023-07-25T16:17:28Z",
