@@ -4776,7 +4776,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18940",
       "LastCommitSHA": "c956d924e5d6e8bc23e8d90e12cc6864702f3c62",
       "LastCommitAt": "2023-08-03T20:51:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5403,8 +5403,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19057",
-      "LastCommitSHA": "ae01e784e467b25914deaa44c33f0c7752ff97c8",
-      "LastCommitAt": "2023-08-06T07:32:38Z",
+      "LastCommitSHA": "41a4cbea77c8ed82fac8f5f981c21a6b8c169703",
+      "LastCommitAt": "2023-08-06T11:36:07Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5548,6 +5548,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19065",
       "LastCommitSHA": "2b5643590e31a46fc05e049b9c0154b9e6e6243a",
       "LastCommitAt": "2023-08-06T10:36:38Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19066,
+      "OpenedBy": "holger-detering",
+      "CreatedAt": "2023-08-06T12:07:52Z",
+      "Recipe": "aws-c-cal",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19066",
+      "LastCommitSHA": "f3d4ca5e4f19312285ddf339f5d85d736f633e5c",
+      "LastCommitAt": "2023-08-06T12:04:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19067,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-08-06T12:22:48Z",
+      "Recipe": "rtmidi",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19067",
+      "LastCommitSHA": "9aef155f96df1d5d0edb0bf155a70842b34b096f",
+      "LastCommitAt": "2023-08-06T12:22:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
