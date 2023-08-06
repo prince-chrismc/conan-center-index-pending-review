@@ -135,7 +135,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: seqan3|L|0|:eyes:||
 [#18277](https://github.com/conan-io/conan-center-index/pull/18277)|[toge](https://github.com/toge)|Jul 2|:memo: pbtools|L|0|:eyes:||
 [#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|4|Jul 24 :bell:||StellaSmith, [CJCombrink](https://github.com/CJCombrink)
-[#18284](https://github.com/conan-io/conan-center-index/pull/18284)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: assimp|:green_circle: XS|3|Jul 9 :bell:||StellaSmith, [CJCombrink](https://github.com/CJCombrink), [EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#18288](https://github.com/conan-io/conan-center-index/pull/18288)|[toge](https://github.com/toge)|Jul 2|:stopwatch: libxft|L|0|:eyes:||
 [#18297](https://github.com/conan-io/conan-center-index/pull/18297)|[wAuner](https://github.com/wAuner)|Jul 3|:stopwatch: sqlite3|L|0|:eyes:||
 [#18298](https://github.com/conan-io/conan-center-index/pull/18298)|[Nekto89](https://github.com/Nekto89)|Jul 3|:stopwatch: itk|L|6|Jul 24 :bell:||
@@ -253,7 +252,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19015](https://github.com/conan-io/conan-center-index/pull/19015)|[bigerl](https://github.com/bigerl)|Aug 2|:memo: dice-template-library|:green_circle: XS|0|:eyes:||
 [#19018](https://github.com/conan-io/conan-center-index/pull/19018)|[Nekto89](https://github.com/Nekto89)|Aug 2|:memo: utfcpp|:blue_square: S|0|||
 [#19020](https://github.com/conan-io/conan-center-index/pull/19020)|[toge](https://github.com/toge)|Aug 3|:memo: quill|:blue_square: S|0|:eyes:||
-[#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:stopwatch: intx|:green_circle: XS|0|:eyes:||
+[#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:memo: intx|:green_circle: XS|0|:eyes:||
 [#19024](https://github.com/conan-io/conan-center-index/pull/19024)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 3|:memo: onetbb|:green_circle: XS|0|:eyes:||
 [#19029](https://github.com/conan-io/conan-center-index/pull/19029)|[Croydon](https://github.com/Croydon)|Aug 3|:stopwatch: openssl|M|1|Aug 3||[Hopobcn](https://github.com/Hopobcn)
 [#19030](https://github.com/conan-io/conan-center-index/pull/19030)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openpam|M|0|||
@@ -269,9 +268,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19059](https://github.com/conan-io/conan-center-index/pull/19059)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 5|:gear: .c3i|M|1|Aug 6||SSE4
 [#19060](https://github.com/conan-io/conan-center-index/pull/19060)|[fschoenm](https://github.com/fschoenm)|Aug 6|:memo: fast-cdr|:blue_square: S|0|||
 [#19061](https://github.com/conan-io/conan-center-index/pull/19061)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 6|:gear: .c3i|M|0|||
-[#19062](https://github.com/conan-io/conan-center-index/pull/19062)|[holger-detering](https://github.com/holger-detering)|Aug 6|:stopwatch: aws-checksums|M|0|||
+[#19062](https://github.com/conan-io/conan-center-index/pull/19062)|[holger-detering](https://github.com/holger-detering)|Aug 6|:memo: aws-checksums|M|0|||
 [#19063](https://github.com/conan-io/conan-center-index/pull/19063)|[holger-detering](https://github.com/holger-detering)|Aug 6|:stopwatch: aws-c-sdkutils|M|0|||
-[#19064](https://github.com/conan-io/conan-center-index/pull/19064)|[mayeut](https://github.com/mayeut)|Aug 6|:stopwatch: cmake|:blue_square: S|0|||
+[#19064](https://github.com/conan-io/conan-center-index/pull/19064)|[mayeut](https://github.com/mayeut)|Aug 6|:memo: cmake|:blue_square: S|0|||
+[#19065](https://github.com/conan-io/conan-center-index/pull/19065)|[holger-detering](https://github.com/holger-detering)|Aug 6|:stopwatch: aws-c-compression|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -295,7 +295,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 427
 	- Draft: 42
-	- Average Age: 73 days, 23 hours, and 58.62 minutes
+	- Average Age: 73 days, 22 hours, and 59.21 minutes
 	- Stop Label: 106
 	
 
