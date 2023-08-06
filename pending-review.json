@@ -5403,8 +5403,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19057",
-      "LastCommitSHA": "41a4cbea77c8ed82fac8f5f981c21a6b8c169703",
-      "LastCommitAt": "2023-08-06T11:36:07Z",
+      "LastCommitSHA": "b1fe29c8b08cd34d762e97d39a3535de37f8adb3",
+      "LastCommitAt": "2023-08-06T12:41:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5567,25 +5567,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19066",
       "LastCommitSHA": "f3d4ca5e4f19312285ddf339f5d85d736f633e5c",
       "LastCommitAt": "2023-08-06T12:04:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19067,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-08-06T12:22:48Z",
-      "Recipe": "rtmidi",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19067",
-      "LastCommitSHA": "9aef155f96df1d5d0edb0bf155a70842b34b096f",
-      "LastCommitAt": "2023-08-06T12:22:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
