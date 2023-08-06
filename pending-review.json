@@ -5481,6 +5481,25 @@
       }
    },
    {
+      "Number": 19060,
+      "OpenedBy": "fschoenm",
+      "CreatedAt": "2023-08-06T07:37:26Z",
+      "Recipe": "fast-cdr",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19060",
+      "LastCommitSHA": "dc7885ff71e34fbc15225d8655b9c89832c32017",
+      "LastCommitAt": "2023-08-06T08:16:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19061,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-08-06T08:31:11Z",
@@ -5509,6 +5528,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19062",
       "LastCommitSHA": "44964b90bd9ac3b2eb156771220431fed4a0d38c",
       "LastCommitAt": "2023-08-06T08:55:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19063,
+      "OpenedBy": "holger-detering",
+      "CreatedAt": "2023-08-06T09:14:18Z",
+      "Recipe": "aws-c-sdkutils",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19063",
+      "LastCommitSHA": "9d4c148fd0b5b6bbaeea4783eb7075a07c979246",
+      "LastCommitAt": "2023-08-06T09:11:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19064,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-08-06T09:46:51Z",
+      "Recipe": "cmake",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19064",
+      "LastCommitSHA": "ef208bbe254f7189c89255908268fb84ab4ef101",
+      "LastCommitAt": "2023-08-06T09:40:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
