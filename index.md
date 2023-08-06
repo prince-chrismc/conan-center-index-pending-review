@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **247** pull requests currently under way :detective:
+There are **246** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -78,7 +78,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17700](https://github.com/conan-io/conan-center-index/pull/17700)|[ashvardanian](https://github.com/ashvardanian)|May 25|:stopwatch: usearch|M|1|May 29 :bell:||
 [#17719](https://github.com/conan-io/conan-center-index/pull/17719)|[rturrado](https://github.com/rturrado)|May 26|:stopwatch: libqasm|M|12|Jun 27 :bell:|RubenRBS|SSE4
 [#17722](https://github.com/conan-io/conan-center-index/pull/17722)|[0xFireWolf](https://github.com/0xFireWolf)|May 27|:stopwatch: jemalloc|L|1|May 31 :bell:||
-[#17728](https://github.com/conan-io/conan-center-index/pull/17728)|[YaZasnyal](https://github.com/YaZasnyal)|May 28|:stopwatch: ffmpeg|:blue_square: S|1|Jul 25||MartinDelille
+[#17728](https://github.com/conan-io/conan-center-index/pull/17728)|[YaZasnyal](https://github.com/YaZasnyal)|May 28|:stopwatch: ffmpeg|:blue_square: S|1|Jul 25 :bell:||MartinDelille
 [#17741](https://github.com/conan-io/conan-center-index/pull/17741)|[perseoGI](https://github.com/perseoGI)|May 29|:memo: dd-opentracing-cpp|L|0|:eyes:||
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:stopwatch: libdb|L|0|:eyes:||
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:stopwatch: librdkafka|:blue_square: S|0|:eyes:||
@@ -273,7 +273,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19064](https://github.com/conan-io/conan-center-index/pull/19064)|[mayeut](https://github.com/mayeut)|Aug 6|:memo: cmake|:blue_square: S|0|||
 [#19065](https://github.com/conan-io/conan-center-index/pull/19065)|[holger-detering](https://github.com/holger-detering)|Aug 6|:memo: aws-c-compression|M|0|||
 [#19066](https://github.com/conan-io/conan-center-index/pull/19066)|[holger-detering](https://github.com/holger-detering)|Aug 6|:stopwatch: aws-c-cal|M|0|||
-[#19067](https://github.com/conan-io/conan-center-index/pull/19067)|[MartinDelille](https://github.com/MartinDelille)|Aug 6|:stopwatch: rtmidi|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -297,8 +296,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 429
 	- Draft: 42
-	- Average Age: 73 days, 15 hours, and 53.90 minutes
-	- Stop Label: 106
+	- Average Age: 73 days, 16 hours, and 46.51 minutes
+	- Stop Label: 108
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
