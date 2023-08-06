@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **247** pull requests currently under way :detective:
+There are **249** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -211,8 +211,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18866](https://github.com/conan-io/conan-center-index/pull/18866)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: liquid-dsp|L|0|:eyes:||
 [#18870](https://github.com/conan-io/conan-center-index/pull/18870)|[toge](https://github.com/toge)|Jul 24|:stopwatch: ada|:blue_square: S|0|:eyes:||
 [#18872](https://github.com/conan-io/conan-center-index/pull/18872)|[Siarh199](https://github.com/Siarh199)|Jul 24|:stopwatch: amqp-cpp|:green_circle: XS|0|:eyes:||
-[#18883](https://github.com/conan-io/conan-center-index/pull/18883)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairo|L|1|Jul 25||
-[#18890](https://github.com/conan-io/conan-center-index/pull/18890)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: libdrm|L|1|Jul 25||
+[#18883](https://github.com/conan-io/conan-center-index/pull/18883)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairo|L|1|Jul 25 :bell:||
+[#18890](https://github.com/conan-io/conan-center-index/pull/18890)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: libdrm|L|1|Jul 25 :bell:||
 [#18891](https://github.com/conan-io/conan-center-index/pull/18891)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: openvdb|L|0|:eyes:||
 [#18892](https://github.com/conan-io/conan-center-index/pull/18892)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: nspr|L|0|||
 [#18893](https://github.com/conan-io/conan-center-index/pull/18893)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: openfst|L|0|||
@@ -272,8 +272,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19064](https://github.com/conan-io/conan-center-index/pull/19064)|[mayeut](https://github.com/mayeut)|Aug 6|:memo: cmake|:blue_square: S|1|Aug 6||ericLemanissier
 [#19065](https://github.com/conan-io/conan-center-index/pull/19065)|[holger-detering](https://github.com/holger-detering)|Aug 6|:memo: aws-c-compression|M|0|||
 [#19066](https://github.com/conan-io/conan-center-index/pull/19066)|[holger-detering](https://github.com/holger-detering)|Aug 6|:memo: aws-c-cal|M|0|||
-[#19069](https://github.com/conan-io/conan-center-index/pull/19069)|[toge](https://github.com/toge)|Aug 6|:stopwatch: asio-grpc|:blue_square: S|0|||
+[#19069](https://github.com/conan-io/conan-center-index/pull/19069)|[toge](https://github.com/toge)|Aug 6|:memo: asio-grpc|:blue_square: S|0|||
 [#19070](https://github.com/conan-io/conan-center-index/pull/19070)|[Tradias](https://github.com/Tradias)|Aug 6|:memo: asio-grpc|:green_circle: XS|0|||
+[#19071](https://github.com/conan-io/conan-center-index/pull/19071)|[toge](https://github.com/toge)|Aug 6|:stopwatch: minizip-ng|L|0|||
+[#19072](https://github.com/conan-io/conan-center-index/pull/19072)|[toge](https://github.com/toge)|Aug 6|:stopwatch: libuvc|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -295,9 +297,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 50bf1680315bc519f906ad6f9215e0892343b9c3
 - Pull Requests:
-	- Open: 431
+	- Open: 433
 	- Draft: 42
-	- Average Age: 73 days, 10 hours, and 30.62 minutes
+	- Average Age: 73 days, 3 hours, and 26.32 minutes
 	- Stop Label: 109
 	
 
