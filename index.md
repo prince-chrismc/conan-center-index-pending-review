@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **246** pull requests currently under way :detective:
+There are **247** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -263,16 +263,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19049](https://github.com/conan-io/conan-center-index/pull/19049)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 5|:gear: .c3i|M|1|Aug 6||SSE4
 [#19051](https://github.com/conan-io/conan-center-index/pull/19051)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 5|:gear: .c3i|M|1|Aug 6||SSE4
 [#19054](https://github.com/conan-io/conan-center-index/pull/19054)|[toge](https://github.com/toge)|Aug 5|:memo: simdutf|M|0|||
-[#19057](https://github.com/conan-io/conan-center-index/pull/19057)|[fschoenm](https://github.com/fschoenm)|Aug 5|:stopwatch: fast-dds|:blue_square: S|0|||
+[#19057](https://github.com/conan-io/conan-center-index/pull/19057)|[fschoenm](https://github.com/fschoenm)|Aug 5|:memo: fast-dds|:blue_square: S|0|||
 [#19059](https://github.com/conan-io/conan-center-index/pull/19059)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 5|:gear: .c3i|M|1|Aug 6||SSE4
 [#19060](https://github.com/conan-io/conan-center-index/pull/19060)|[fschoenm](https://github.com/fschoenm)|Aug 6|:memo: fast-cdr|:blue_square: S|0|||
 [#19061](https://github.com/conan-io/conan-center-index/pull/19061)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 6|:gear: .c3i|M|0|||
 [#19062](https://github.com/conan-io/conan-center-index/pull/19062)|[holger-detering](https://github.com/holger-detering)|Aug 6|:memo: aws-checksums|M|0|||
-[#19063](https://github.com/conan-io/conan-center-index/pull/19063)|[holger-detering](https://github.com/holger-detering)|Aug 6|:stopwatch: aws-c-sdkutils|M|0|||
+[#19063](https://github.com/conan-io/conan-center-index/pull/19063)|[holger-detering](https://github.com/holger-detering)|Aug 6|:memo: aws-c-sdkutils|M|0|||
 [#19064](https://github.com/conan-io/conan-center-index/pull/19064)|[mayeut](https://github.com/mayeut)|Aug 6|:memo: cmake|:blue_square: S|1|Aug 6||ericLemanissier
 [#19065](https://github.com/conan-io/conan-center-index/pull/19065)|[holger-detering](https://github.com/holger-detering)|Aug 6|:memo: aws-c-compression|M|0|||
 [#19066](https://github.com/conan-io/conan-center-index/pull/19066)|[holger-detering](https://github.com/holger-detering)|Aug 6|:memo: aws-c-cal|M|0|||
 [#19069](https://github.com/conan-io/conan-center-index/pull/19069)|[toge](https://github.com/toge)|Aug 6|:stopwatch: asio-grpc|:blue_square: S|0|||
+[#19070](https://github.com/conan-io/conan-center-index/pull/19070)|[Tradias](https://github.com/Tradias)|Aug 6|:memo: asio-grpc|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -296,7 +297,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 431
 	- Draft: 42
-	- Average Age: 73 days, 9 hours, and 30.07 minutes
+	- Average Age: 73 days, 10 hours, and 30.62 minutes
 	- Stop Label: 109
 	
 
