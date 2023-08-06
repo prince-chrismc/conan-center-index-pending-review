@@ -2581,43 +2581,6 @@
       }
    },
    {
-      "Number": 18284,
-      "OpenedBy": "seppeon",
-      "CreatedAt": "2023-07-02T14:32:45Z",
-      "Recipe": "assimp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18284",
-      "LastCommitSHA": "e6e5a38efea9876d1c9a9994fad3b5707a615412",
-      "LastCommitAt": "2023-08-06T07:02:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "StellaSmith",
-               "Tier": "community"
-            },
-            {
-               "Name": "CJCombrink",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "EstebanDugueperoux2",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "EstebanDugueperoux2",
-            "SubmittedAt": "2023-07-09T17:08:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18284#pullrequestreview-1520935717"
-         }
-      }
-   },
-   {
       "Number": 18288,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-02T15:38:05Z",
@@ -5184,7 +5147,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19022",
       "LastCommitSHA": "3d0705832ebc472fc72cdf1707045a5bfdd03813",
       "LastCommitAt": "2023-08-03T08:35:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5528,7 +5491,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19062",
       "LastCommitSHA": "44964b90bd9ac3b2eb156771220431fed4a0d38c",
       "LastCommitAt": "2023-08-06T08:55:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5566,6 +5529,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19064",
       "LastCommitSHA": "ef208bbe254f7189c89255908268fb84ab4ef101",
       "LastCommitAt": "2023-08-06T09:40:39Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19065,
+      "OpenedBy": "holger-detering",
+      "CreatedAt": "2023-08-06T10:40:08Z",
+      "Recipe": "aws-c-compression",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19065",
+      "LastCommitSHA": "2b5643590e31a46fc05e049b9c0154b9e6e6243a",
+      "LastCommitAt": "2023-08-06T10:36:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
