@@ -5386,7 +5386,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19057",
       "LastCommitSHA": "b1fe29c8b08cd34d762e97d39a3535de37f8adb3",
       "LastCommitAt": "2023-08-06T12:41:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5491,7 +5491,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19063",
       "LastCommitSHA": "f1d5863bea6420124d93603037791f12b34a869c",
       "LastCommitAt": "2023-08-06T13:53:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5578,6 +5578,25 @@
       "LastCommitSHA": "407ebf60a23b8f1d824c235728f8e608c61235c3",
       "LastCommitAt": "2023-08-06T14:04:06Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19070,
+      "OpenedBy": "Tradias",
+      "CreatedAt": "2023-08-06T14:50:33Z",
+      "Recipe": "asio-grpc",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19070",
+      "LastCommitSHA": "d88910f0c51d60c27fc94db679160e229eadccec",
+      "LastCommitAt": "2023-08-06T14:38:50Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
