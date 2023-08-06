@@ -4667,25 +4667,6 @@
       }
    },
    {
-      "Number": 18932,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-07-27T15:45:17Z",
-      "Recipe": "nss",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18932",
-      "LastCommitSHA": "d2e7edb701b2316ff815f11b820e083579480be1",
-      "LastCommitAt": "2023-07-27T15:44:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18933,
       "OpenedBy": "holger-detering",
       "CreatedAt": "2023-07-27T16:19:01Z",
@@ -4707,6 +4688,25 @@
             "SubmittedAt": "2023-07-29T13:08:50Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18933#pullrequestreview-1553275942"
          }
+      }
+   },
+   {
+      "Number": 18939,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-28T11:07:52Z",
+      "Recipe": "djinni-generator",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18939",
+      "LastCommitSHA": "f1a816a5079b07d66eff597c32504c06c0bd44d5",
+      "LastCommitAt": "2023-08-06T16:23:57Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -5577,6 +5577,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19071",
       "LastCommitSHA": "2fa5949543e88fbf21f476d1fe0eeb4e10bd5fe7",
       "LastCommitAt": "2023-08-06T15:42:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19074,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-08-06T18:35:07Z",
+      "Recipe": "ignition-tools",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19074",
+      "LastCommitSHA": "458b6fe84569ea92ce641f508e882c97293a027c",
+      "LastCommitAt": "2023-08-06T18:39:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
