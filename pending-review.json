@@ -4553,25 +4553,6 @@
       }
    },
    {
-      "Number": 18919,
-      "OpenedBy": "nassipkali",
-      "CreatedAt": "2023-07-26T17:44:08Z",
-      "Recipe": "platform.exceptions",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18919",
-      "LastCommitSHA": "27a05c67870bab6b0abcc3dfc35dc65ac4a0a630",
-      "LastCommitAt": "2023-07-26T17:42:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18924,
       "OpenedBy": "Xav83",
       "CreatedAt": "2023-07-27T08:57:37Z",
@@ -5578,6 +5559,25 @@
       "LastCommitSHA": "b61b1be27e9c5da1fa6f36c7475478f04e32a5c8",
       "LastCommitAt": "2023-08-06T21:06:44Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19079,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-07T00:01:45Z",
+      "Recipe": "libtiff",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19079",
+      "LastCommitSHA": "9f0db8f60f144b9454736cee37582fb9a49a337f",
+      "LastCommitAt": "2023-08-07T00:00:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
