@@ -1253,7 +1253,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17806",
       "LastCommitSHA": "b1c24742cf3e2ed8ef04bf8824ccc56642dc1940",
       "LastCommitAt": "2023-07-15T07:35:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4170,7 +4170,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18855",
       "LastCommitSHA": "78a1d0a643f7d2410ce8acc6aeab87517cb8b196",
       "LastCommitAt": "2023-07-24T14:48:46Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4211,25 +4211,6 @@
       }
    },
    {
-      "Number": 18866,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-24T07:20:55Z",
-      "Recipe": "liquid-dsp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18866",
-      "LastCommitSHA": "66728c3bea27855af605f732f693539ee4da6cf9",
-      "LastCommitAt": "2023-07-26T20:23:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18870,
       "OpenedBy": "toge",
       "CreatedAt": "2023-07-24T09:53:21Z",
@@ -4239,25 +4220,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18870",
       "LastCommitSHA": "218584a0531cb4e778525625ef73e9136a62be43",
       "LastCommitAt": "2023-07-24T09:52:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18872,
-      "OpenedBy": "Siarh199",
-      "CreatedAt": "2023-07-24T10:27:52Z",
-      "Recipe": "amqp-cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18872",
-      "LastCommitSHA": "0e38961b8e47d3dfc9cbb2b4348d5dc26dc89c1a",
-      "LastCommitAt": "2023-07-27T07:59:06Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5331,6 +5293,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19066",
       "LastCommitSHA": "f3d4ca5e4f19312285ddf339f5d85d736f633e5c",
       "LastCommitAt": "2023-08-06T12:04:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19067,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-08-06T12:22:48Z",
+      "Recipe": "rtmidi",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19067",
+      "LastCommitSHA": "824cde3a0c9d08980176e836625314b787ae4978",
+      "LastCommitAt": "2023-08-07T07:44:12Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
