@@ -76,39 +76,6 @@
       }
    },
    {
-      "Number": 16313,
-      "OpenedBy": "hellozee",
-      "CreatedAt": "2023-02-27T12:07:10Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16313",
-      "LastCommitSHA": "6c6605aaa8b9d6f94afe5c5f543968b199e702f7",
-      "LastCommitAt": "2023-05-18T14:10:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-04-26T12:46:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16313#pullrequestreview-1401910343"
-         }
-      }
-   },
-   {
       "Number": 16320,
       "OpenedBy": "toge",
       "CreatedAt": "2023-02-27T16:14:48Z",
@@ -118,44 +85,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16320",
       "LastCommitSHA": "6ab5c352d871e8cf256156ad3c87a468fdd5ac03",
       "LastCommitAt": "2023-07-27T06:35:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 16432,
-      "OpenedBy": "jave27",
-      "CreatedAt": "2023-03-07T20:30:09Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16432",
-      "LastCommitSHA": "9ce3d7c6a62153f4e9b2e548096363f67ff85952",
-      "LastCommitAt": "2023-03-07T20:30:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 16589,
-      "OpenedBy": "cynix",
-      "CreatedAt": "2023-03-16T23:16:24Z",
-      "Recipe": "openldap",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16589",
-      "LastCommitSHA": "cf3d306544d05b01bb6830f5c3f3ca51d800590c",
-      "LastCommitAt": "2023-03-16T23:14:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3763,7 +3692,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18622",
       "LastCommitSHA": "e59cdd31e3b63733d306b4d2e8c9a6ed343cd2da",
       "LastCommitAt": "2023-08-07T01:59:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5502,25 +5431,6 @@
       "LastCommitSHA": "b61b1be27e9c5da1fa6f36c7475478f04e32a5c8",
       "LastCommitAt": "2023-08-06T21:06:44Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19080,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-07T02:24:28Z",
-      "Recipe": "jasper",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19080",
-      "LastCommitSHA": "af297e6bf3d7326fcbab0ef7e04467a2b6dd9bb6",
-      "LastCommitAt": "2023-08-07T02:22:52Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
