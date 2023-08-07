@@ -3828,7 +3828,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18756",
       "LastCommitSHA": "6ae4c7c16c95a6c6d294a543d0d90c7e691ad444",
       "LastCommitAt": "2023-08-07T11:26:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -3999,8 +3999,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18829",
-      "LastCommitSHA": "c5648c0ee29ac9cc64ecd6a6ea3f5e0f9d44adc6",
-      "LastCommitAt": "2023-08-07T18:40:46Z",
+      "LastCommitSHA": "520b36a177f33664378e5590e3c2ef1b92466f9d",
+      "LastCommitAt": "2023-08-07T18:22:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
@@ -5194,6 +5194,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19074",
       "LastCommitSHA": "458b6fe84569ea92ce641f508e882c97293a027c",
       "LastCommitAt": "2023-08-06T18:39:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19081,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-07T04:17:48Z",
+      "Recipe": "libraw",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19081",
+      "LastCommitSHA": "12354b0a4390aad329c49befc2d72347c33d30d7",
+      "LastCommitAt": "2023-08-07T15:32:06Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
