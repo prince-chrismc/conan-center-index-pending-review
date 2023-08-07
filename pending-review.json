@@ -4019,8 +4019,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18771",
-      "LastCommitSHA": "7489909ce637ae0911b73c447682e089bff53457",
-      "LastCommitAt": "2023-08-03T12:27:23Z",
+      "LastCommitSHA": "827248b34027f9db6675749b4e63c8b7acf6a2a0",
+      "LastCommitAt": "2023-08-07T04:53:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -4358,7 +4358,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18893",
       "LastCommitSHA": "c564569e7bbfec22d76fc08cbfb704523612af58",
       "LastCommitAt": "2023-08-03T21:23:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5431,6 +5431,25 @@
       "LastCommitSHA": "b61b1be27e9c5da1fa6f36c7475478f04e32a5c8",
       "LastCommitAt": "2023-08-06T21:06:44Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19081,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-07T04:17:48Z",
+      "Recipe": "libraw",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19081",
+      "LastCommitSHA": "65898c18dd3d24c97c33bd250339fb68f9e7bb02",
+      "LastCommitAt": "2023-08-07T04:17:25Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
