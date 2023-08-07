@@ -3705,25 +3705,6 @@
       }
    },
    {
-      "Number": 18696,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T22:54:01Z",
-      "Recipe": "sqlpp11-connector-sqlite3",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18696",
-      "LastCommitSHA": "01cb81ce0ab917e59d6f824e62f6f2e0a6c94652",
-      "LastCommitAt": "2023-07-26T20:25:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18697,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-07-20T06:09:52Z",
@@ -3766,7 +3747,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18702",
       "LastCommitSHA": "8334f5001ee7e6ccdf80c4f7e43e26be702fb3e3",
       "LastCommitAt": "2023-07-28T05:20:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -3790,7 +3771,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18704",
       "LastCommitSHA": "e596b75e701495a783823ca7ef6d2c71338243bc",
       "LastCommitAt": "2023-07-27T18:59:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4622,7 +4603,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18991",
       "LastCommitSHA": "3c8d6058b833106a22d91105a9d6120437c074ab",
       "LastCommitAt": "2023-08-07T16:09:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
