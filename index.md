@@ -246,7 +246,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7||jwillikers, MartinDelille
 [#19093](https://github.com/conan-io/conan-center-index/pull/19093)|[uilianries](https://github.com/uilianries)|Aug 8|:stopwatch: proj|:green_circle: XS|0|||
 [#19095](https://github.com/conan-io/conan-center-index/pull/19095)|[valgur](https://github.com/valgur)|Aug 8|:stopwatch: backward-cpp|M|0|||
-[#19096](https://github.com/conan-io/conan-center-index/pull/19096)|[valgur](https://github.com/valgur)|Aug 8|:stopwatch: acado|L|0|||
+[#19099](https://github.com/conan-io/conan-center-index/pull/19099)|[SpaceIm](https://github.com/SpaceIm)|Aug 8|:stopwatch: zookeeper-client-c|:green_circle: XS|2|Aug 8||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -269,10 +269,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 431
-	- Draft: 40
-	- Average Age: 74 days, 15 hours, and 52.20 minutes
-	- Stop Label: 134
+	- Open: 433
+	- Draft: 41
+	- Average Age: 74 days, 9 hours, and 27.54 minutes
+	- Stop Label: 135
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
