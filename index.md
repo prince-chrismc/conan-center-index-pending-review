@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **230** pull requests currently under way :detective:
+There are **231** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -241,6 +241,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19038](https://github.com/conan-io/conan-center-index/pull/19038)|[uilianries](https://github.com/uilianries)|Aug 4|:memo: yaclib|:green_circle: XS|0|:eyes:||
 [#19039](https://github.com/conan-io/conan-center-index/pull/19039)|[robomics](https://github.com/robomics)|Aug 4|:new: hictk|M|0|||
 [#19047](https://github.com/conan-io/conan-center-index/pull/19047)|[toge](https://github.com/toge)|Aug 4|:memo: uwebsockets|:blue_square: S|0|:eyes:||
+[#19050](https://github.com/conan-io/conan-center-index/pull/19050)|[toge](https://github.com/toge)|Aug 5|:memo: freexl|M|0|||
 [#19054](https://github.com/conan-io/conan-center-index/pull/19054)|[toge](https://github.com/toge)|Aug 5|:memo: simdutf|M|0|||
 [#19057](https://github.com/conan-io/conan-center-index/pull/19057)|[fschoenm](https://github.com/fschoenm)|Aug 5|:memo: fast-dds|:blue_square: S|0|||
 [#19060](https://github.com/conan-io/conan-center-index/pull/19060)|[fschoenm](https://github.com/fschoenm)|Aug 6|:memo: fast-cdr|:blue_square: S|0|||
@@ -280,8 +281,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 431
 	- Draft: 40
-	- Average Age: 74 days, 10 hours, and 22.94 minutes
-	- Stop Label: 130
+	- Average Age: 74 days, 11 hours, and 54.54 minutes
+	- Stop Label: 129
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
