@@ -4109,6 +4109,25 @@
       }
    },
    {
+      "Number": 18895,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-25T01:58:51Z",
+      "Recipe": "wasmer",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18895",
+      "LastCommitSHA": "2c466323f13d86498011264659cd995210a8cb9c",
+      "LastCommitAt": "2023-08-07T16:14:36Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18906,
       "OpenedBy": "klausholstjacobsen",
       "CreatedAt": "2023-07-25T12:58:59Z",
