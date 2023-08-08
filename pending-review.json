@@ -3529,25 +3529,6 @@
       }
    },
    {
-      "Number": 18602,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-17T17:52:48Z",
-      "Recipe": "gnulib",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18602",
-      "LastCommitSHA": "703ef8ca0a7b0a126fb6d79fb28c25247995fdd0",
-      "LastCommitAt": "2023-08-01T15:00:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18611,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-07-18T10:11:01Z",
