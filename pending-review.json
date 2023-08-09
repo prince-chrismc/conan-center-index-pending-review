@@ -664,6 +664,30 @@
       }
    },
    {
+      "Number": 17276,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-04-27T09:38:25Z",
+      "Recipe": "qtawesome",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17276",
+      "LastCommitSHA": "f386e55f5df871f1b1b9f7fbd6ed5bf8ce553c63",
+      "LastCommitAt": "2023-08-09T13:35:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 11,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-08-09T09:53:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17276#pullrequestreview-1569180747"
+         }
+      }
+   },
+   {
       "Number": 17338,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-05-01T14:26:26Z",
@@ -1431,39 +1455,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18082,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-06-27T15:01:35Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18082",
-      "LastCommitSHA": "9cb3aa5056053b1250e7d67916f4d3dd2d8364b8",
-      "LastCommitAt": "2023-08-07T10:55:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-08-09T11:04:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18082#pullrequestreview-1569296312"
-         }
       }
    },
    {
@@ -2421,25 +2412,6 @@
             "SubmittedAt": "2023-07-24T06:10:53Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18283#pullrequestreview-1542750179"
          }
-      }
-   },
-   {
-      "Number": 18288,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-02T15:38:05Z",
-      "Recipe": "libxft",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18288",
-      "LastCommitSHA": "fcbb2b983fe99c88055b103eaad78e913d9cb357",
-      "LastCommitAt": "2023-07-03T02:52:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -4960,35 +4932,6 @@
       }
    },
    {
-      "Number": 19114,
-      "OpenedBy": "jcar87",
-      "CreatedAt": "2023-08-09T10:35:39Z",
-      "Recipe": "fontconfig",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19114",
-      "LastCommitSHA": "14c4b6b898ec3dac828c9032b0b80355c504a871",
-      "LastCommitAt": "2023-08-09T10:34:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-09T10:49:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19114#pullrequestreview-1569270774"
-         }
-      }
-   },
-   {
       "Number": 19115,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-08-09T10:47:15Z",
@@ -5008,16 +4951,16 @@
       }
    },
    {
-      "Number": 19117,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-08-09T12:19:39Z",
-      "Recipe": "librttopo",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19117",
-      "LastCommitSHA": "f2a2bbb8786e19309888a72d16ed7fc2a589a532",
-      "LastCommitAt": "2023-08-09T12:19:00Z",
-      "CciBotPassed": false,
+      "Number": 19116,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-08-09T11:59:49Z",
+      "Recipe": "cuda-samples",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19116",
+      "LastCommitSHA": "a55a64d190a7f153660241b22c40b7f2938e8f52",
+      "LastCommitAt": "2023-08-09T13:08:27Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
