@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **209** pull requests currently under way :detective:
+There are **208** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -189,7 +189,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18926](https://github.com/conan-io/conan-center-index/pull/18926)|[valgur](https://github.com/valgur)|Jul 27|:memo: hdf4|L|0|||
 [#18929](https://github.com/conan-io/conan-center-index/pull/18929)|[ibosnic00](https://github.com/ibosnic00)|Jul 27|:stopwatch: protobuf|:green_circle: XS|0|:eyes:||
 [#18933](https://github.com/conan-io/conan-center-index/pull/18933)|[holger-detering](https://github.com/holger-detering)|Jul 27|:memo: caf|M|1|Jul 29||
-[#18937](https://github.com/conan-io/conan-center-index/pull/18937)|[steinerthomas](https://github.com/steinerthomas)|Jul 28|:stopwatch: poco|:green_circle: XS|0|||
 [#18939](https://github.com/conan-io/conan-center-index/pull/18939)|[valgur](https://github.com/valgur)|Jul 28|:memo: djinni-generator|M|0|:eyes:||
 [#18940](https://github.com/conan-io/conan-center-index/pull/18940)|[valgur](https://github.com/valgur)|Jul 28|:memo: objectbox-generator|M|0|:eyes:||
 [#18941](https://github.com/conan-io/conan-center-index/pull/18941)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: libnetfilter_conntrack|L|0|||
@@ -258,9 +257,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 436
-	- Draft: 45
-	- Average Age: 74 days, 14 hours, and 18.02 minutes
+	- Open: 435
+	- Draft: 44
+	- Average Age: 74 days, 18 hours, and 42.31 minutes
 	- Stop Label: 152
 	
 
