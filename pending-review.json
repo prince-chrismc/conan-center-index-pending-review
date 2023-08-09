@@ -4989,6 +4989,25 @@
       }
    },
    {
+      "Number": 19115,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-08-09T10:47:15Z",
+      "Recipe": "libmpdclient",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19115",
+      "LastCommitSHA": "2f898fa49b9f3e8f084d1f9ae4d9a00ed30319ec",
+      "LastCommitAt": "2023-08-09T11:26:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19117,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-08-09T12:19:39Z",
