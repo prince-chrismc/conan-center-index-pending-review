@@ -3884,25 +3884,6 @@
       }
    },
    {
-      "Number": 18937,
-      "OpenedBy": "steinerthomas",
-      "CreatedAt": "2023-07-28T10:32:59Z",
-      "Recipe": "poco",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18937",
-      "LastCommitSHA": "39acf0e19dd3b61c9004025592472bbc8efc7cbf",
-      "LastCommitAt": "2023-08-09T18:14:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18939,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-28T11:07:52Z",
