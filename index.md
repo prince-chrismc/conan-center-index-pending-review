@@ -198,7 +198,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18924](https://github.com/conan-io/conan-center-index/pull/18924)|[Xav83](https://github.com/Xav83)|Jul 27|:stopwatch: crc_cpp|:green_circle: XS|0|:eyes:||
 [#18926](https://github.com/conan-io/conan-center-index/pull/18926)|[valgur](https://github.com/valgur)|Jul 27|:memo: hdf4|L|0|||
 [#18929](https://github.com/conan-io/conan-center-index/pull/18929)|[ibosnic00](https://github.com/ibosnic00)|Jul 27|:stopwatch: protobuf|:green_circle: XS|0|:eyes:||
-[#18933](https://github.com/conan-io/conan-center-index/pull/18933)|[holger-detering](https://github.com/holger-detering)|Jul 27|:stopwatch: caf|M|1|Jul 29||
+[#18933](https://github.com/conan-io/conan-center-index/pull/18933)|[holger-detering](https://github.com/holger-detering)|Jul 27|:memo: caf|M|1|Jul 29||
 [#18937](https://github.com/conan-io/conan-center-index/pull/18937)|[steinerthomas](https://github.com/steinerthomas)|Jul 28|:memo: poco|:green_circle: XS|0|||
 [#18939](https://github.com/conan-io/conan-center-index/pull/18939)|[valgur](https://github.com/valgur)|Jul 28|:memo: djinni-generator|M|0|||
 [#18940](https://github.com/conan-io/conan-center-index/pull/18940)|[valgur](https://github.com/valgur)|Jul 28|:memo: objectbox-generator|M|0|:eyes:||
@@ -270,7 +270,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 428
 	- Draft: 41
-	- Average Age: 75 days, 17 hours, and 18.90 minutes
+	- Average Age: 75 days, 18 hours, and 15.43 minutes
 	- Stop Label: 134
 	
 
