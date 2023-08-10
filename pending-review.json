@@ -645,7 +645,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17272",
       "LastCommitSHA": "fb5ab970c06455004227249e088a01798fa474d7",
       "LastCommitAt": "2023-08-10T17:50:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 2,
@@ -1580,25 +1580,6 @@
             "SubmittedAt": "2023-08-09T10:23:41Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18117#pullrequestreview-1569230859"
          }
-      }
-   },
-   {
-      "Number": 18147,
-      "OpenedBy": "jjcasmar",
-      "CreatedAt": "2023-06-29T17:55:44Z",
-      "Recipe": "embree4",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18147",
-      "LastCommitSHA": "4d8c16fa82cb090401aab871357664de0f32da85",
-      "LastCommitAt": "2023-06-30T11:09:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -3883,8 +3864,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18896",
-      "LastCommitSHA": "fd6ce0ee3926821ca7956da32f85d36f1a41bb42",
-      "LastCommitAt": "2023-08-10T17:16:57Z",
+      "LastCommitSHA": "80a326127dee6ed2ea8cec972be22edefa248dfb",
+      "LastCommitAt": "2023-08-10T19:15:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 5,
