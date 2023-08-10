@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **218** pull requests currently under way :detective:
+There are **219** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -45,7 +45,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16913](https://github.com/conan-io/conan-center-index/pull/16913)|[paulharris](https://github.com/paulharris)|Apr 6|:stopwatch: openvr|L|6|May 7 :bell:||
 [#17025](https://github.com/conan-io/conan-center-index/pull/17025)|[SSE4](https://github.com/SSE4)|Apr 14|:stopwatch: vvenc|M|12|Jul 11 :bell:|uilianries|
 [#17028](https://github.com/conan-io/conan-center-index/pull/17028)|[Cogitri](https://github.com/Cogitri)|Apr 14|:stopwatch: dcmtk|L|2|Jul 5 :bell:||
-[#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|2|Aug 10||
+[#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:stopwatch: cmake|L|3|Aug 10||[Hopobcn](https://github.com/Hopobcn)
 [#17117](https://github.com/conan-io/conan-center-index/pull/17117)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-c-s3|M|2|Jun 8 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov)
 [#17120](https://github.com/conan-io/conan-center-index/pull/17120)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-crt-cpp|M|2|Jun 8 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov)
 [#17125](https://github.com/conan-io/conan-center-index/pull/17125)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-sdk-cpp|L|3|Jun 27 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov), [gegles](https://github.com/gegles)
@@ -245,11 +245,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19139](https://github.com/conan-io/conan-center-index/pull/19139)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 10|:gear: .c3i|:green_circle: XS|0|||
 [#19140](https://github.com/conan-io/conan-center-index/pull/19140)|[MartinDelille](https://github.com/MartinDelille)|Aug 10|:memo: bandit|:blue_square: S|0|||
 [#19142](https://github.com/conan-io/conan-center-index/pull/19142)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 10|:gear: .c3i|:green_circle: XS|0|||
+[#19143](https://github.com/conan-io/conan-center-index/pull/19143)|[MartinDelille](https://github.com/MartinDelille)|Aug 10|:stopwatch: freetype|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -259,8 +260,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18027](https://github.com/conan-io/conan-center-index/pull/18027)|[keyboardspecialist](https://github.com/keyboardspecialist)|Jun 22|:warning: gdal|2|RubenRBS, SSE4
 [#18500](https://github.com/conan-io/conan-center-index/pull/18500)|[mayeut](https://github.com/mayeut)|Jul 11|:warning: osgearth|4|RubenRBS, memsharded
 [#18598](https://github.com/conan-io/conan-center-index/pull/18598)|[toge](https://github.com/toge)|Jul 17|:warning: fakeit|2|ericLemanissier, RubenRBS
-[#18893](https://github.com/conan-io/conan-center-index/pull/18893)|[valgur](https://github.com/valgur)|Jul 24|:memo: openfst|2|RubenRBS, memsharded
-[#18939](https://github.com/conan-io/conan-center-index/pull/18939)|[valgur](https://github.com/valgur)|Jul 28|:memo: djinni-generator|2|RubenRBS, memsharded
 [#18984](https://github.com/conan-io/conan-center-index/pull/18984)|[valgur](https://github.com/valgur)|Jul 31|:memo: pupnp|2|RubenRBS, memsharded
 [#19133](https://github.com/conan-io/conan-center-index/pull/19133)|[toge](https://github.com/toge)|Aug 10|:memo: libmysqlclient|2|RubenRBS, memsharded
 
@@ -271,9 +270,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 442
+	- Open: 441
 	- Draft: 43
-	- Average Age: 69 days, 21 hours, and 5.30 minutes
+	- Average Age: 70 days, and 10.54 minutes
 	- Stop Label: 147
 	
 
