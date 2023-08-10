@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **213** pull requests currently under way :detective:
+There are **212** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -49,7 +49,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17117](https://github.com/conan-io/conan-center-index/pull/17117)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-c-s3|M|2|Jun 8 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov)
 [#17120](https://github.com/conan-io/conan-center-index/pull/17120)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-crt-cpp|M|2|Jun 8 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov)
 [#17125](https://github.com/conan-io/conan-center-index/pull/17125)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:stopwatch: aws-sdk-cpp|L|3|Jun 27 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov), [gegles](https://github.com/gegles)
-[#17150](https://github.com/conan-io/conan-center-index/pull/17150)|[SpaceIm](https://github.com/SpaceIm)|Apr 21|:stopwatch: sdl_mixer|L|1|Jun 26 :bell:||[ssrobins](https://github.com/ssrobins)
 [#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|16|Jul 17 :bell:||samuel-emrys
 [#17183](https://github.com/conan-io/conan-center-index/pull/17183)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 24|:stopwatch: qcoro|L|0|:eyes:||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|M|0|||
@@ -116,7 +115,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18257](https://github.com/conan-io/conan-center-index/pull/18257)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: cpp_project_framework|L|0|:eyes:||
 [#18258](https://github.com/conan-io/conan-center-index/pull/18258)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: rangesnext|L|0|:eyes:||
 [#18259](https://github.com/conan-io/conan-center-index/pull/18259)|[valgur](https://github.com/valgur)|Jul 1|:memo: frugally-deep|L|0|||
-[#18260](https://github.com/conan-io/conan-center-index/pull/18260)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: pipes|L|0|:eyes:||
+[#18260](https://github.com/conan-io/conan-center-index/pull/18260)|[valgur](https://github.com/valgur)|Jul 1|:memo: pipes|L|0|:eyes:||
 [#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:memo: platform.converters|L|0|:eyes:||
 [#18263](https://github.com/conan-io/conan-center-index/pull/18263)|[valgur](https://github.com/valgur)|Jul 1|:memo: platform.equality|L|0|:eyes:||
 [#18264](https://github.com/conan-io/conan-center-index/pull/18264)|[valgur](https://github.com/valgur)|Jul 1|:memo: ctpg|L|0|:eyes:||
@@ -239,7 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19128](https://github.com/conan-io/conan-center-index/pull/19128)|[mayeut](https://github.com/mayeut)|Aug 9|:memo: wil|:green_circle: XS|0|||
 [#19129](https://github.com/conan-io/conan-center-index/pull/19129)|[toge](https://github.com/toge)|Aug 9|:memo: daw_header_libraries|:blue_square: S|0|||
 [#19130](https://github.com/conan-io/conan-center-index/pull/19130)|[toge](https://github.com/toge)|Aug 9|:memo: drogon|:blue_square: S|0|||
-[#19131](https://github.com/conan-io/conan-center-index/pull/19131)|[toge](https://github.com/toge)|Aug 10|:stopwatch: capnproto|L|0|||
+[#19133](https://github.com/conan-io/conan-center-index/pull/19133)|[toge](https://github.com/toge)|Aug 10|:stopwatch: libmysqlclient|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -264,8 +263,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 441
 	- Draft: 44
-	- Average Age: 73 days, 23 hours, and 35.65 minutes
-	- Stop Label: 153
+	- Average Age: 74 days, and 16.54 minutes
+	- Stop Label: 155
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
