@@ -535,35 +535,6 @@
       }
    },
    {
-      "Number": 17150,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-04-21T12:31:42Z",
-      "Recipe": "sdl_mixer",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17150",
-      "LastCommitSHA": "adc27f850d6c66d9180025e9c1a1cfe312b74dad",
-      "LastCommitAt": "2023-07-04T16:12:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ssrobins",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ssrobins",
-            "SubmittedAt": "2023-06-26T00:30:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17150#pullrequestreview-1497258798"
-         }
-      }
-   },
-   {
       "Number": 17173,
       "OpenedBy": "joakimono",
       "CreatedAt": "2023-04-23T15:20:59Z",
@@ -2154,7 +2125,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18260",
       "LastCommitSHA": "29ee2027ceec1434ba0dd1b37dd8298269e71ad0",
       "LastCommitAt": "2023-07-26T20:24:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5005,15 +4976,15 @@
       }
    },
    {
-      "Number": 19131,
+      "Number": 19133,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-08-10T00:27:17Z",
-      "Recipe": "capnproto",
+      "CreatedAt": "2023-08-10T03:09:32Z",
+      "Recipe": "libmysqlclient",
       "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19131",
-      "LastCommitSHA": "e170649a51be78263b3345fd058804c957496407",
-      "LastCommitAt": "2023-08-10T00:25:47Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19133",
+      "LastCommitSHA": "0648eb5e53109d3a929f0eda41565cbf64d53250",
+      "LastCommitAt": "2023-08-10T03:07:43Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
