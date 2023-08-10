@@ -2192,7 +2192,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18261",
       "LastCommitSHA": "80f0f34b913265b027b4f295196aad19bafc879f",
       "LastCommitAt": "2023-07-26T20:24:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2211,7 +2211,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18263",
       "LastCommitSHA": "9c96965169d1fec7e9116884ab8d30d6feb66992",
       "LastCommitAt": "2023-07-26T20:24:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4971,6 +4971,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19129",
       "LastCommitSHA": "ebd5f19c51fc40e59824533435a17552a51b785b",
       "LastCommitAt": "2023-08-09T22:59:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19130,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-09T23:20:39Z",
+      "Recipe": "drogon",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19130",
+      "LastCommitSHA": "273a41b62046a567960c3a65f3abc57b68348979",
+      "LastCommitAt": "2023-08-09T23:25:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19131,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-10T00:27:17Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19131",
+      "LastCommitSHA": "e170649a51be78263b3345fd058804c957496407",
+      "LastCommitAt": "2023-08-10T00:25:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
