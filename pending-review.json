@@ -3581,25 +3581,6 @@
       }
    },
    {
-      "Number": 18720,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T12:28:42Z",
-      "Recipe": "flint",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18720",
-      "LastCommitSHA": "d47ceb1410b033b91486170885f42feaaf160250",
-      "LastCommitAt": "2023-08-07T11:25:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18724,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T12:48:22Z",
