@@ -126,9 +126,9 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16679",
-      "LastCommitSHA": "8c77b885f781fd6771f907bc6f87b770de06ea20",
-      "LastCommitAt": "2023-08-10T12:09:28Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "edc9779cc4c3b84c23173158d47d1d35749409ec",
+      "LastCommitAt": "2023-08-11T03:43:49Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 19,
          "ValidApprovals": 0,
@@ -1422,25 +1422,6 @@
             "SubmittedAt": "2023-07-10T11:50:12Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18059#pullrequestreview-1521898345"
          }
-      }
-   },
-   {
-      "Number": 18076,
-      "OpenedBy": "cbachhuber",
-      "CreatedAt": "2023-06-27T09:35:29Z",
-      "Recipe": "doxygen",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18076",
-      "LastCommitSHA": "8e03b047f146c7c61c3df0f8e72f5b602eeb57c3",
-      "LastCommitAt": "2023-06-28T08:26:34Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
