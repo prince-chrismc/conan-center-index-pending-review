@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **228** pull requests currently under way :detective:
+There are **227** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -170,7 +170,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18708](https://github.com/conan-io/conan-center-index/pull/18708)|[valgur](https://github.com/valgur)|Jul 20|:memo: lightpcapng|L|0|:eyes:||
 [#18717](https://github.com/conan-io/conan-center-index/pull/18717)|[valgur](https://github.com/valgur)|Jul 20|:memo: rectanglebinpack|L|0|:eyes:||
 [#18724](https://github.com/conan-io/conan-center-index/pull/18724)|[valgur](https://github.com/valgur)|Jul 20|:memo: cose-c|L|0|:eyes:||
-[#18732](https://github.com/conan-io/conan-center-index/pull/18732)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: cgltf|L|0|:eyes:||
 [#18733](https://github.com/conan-io/conan-center-index/pull/18733)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: tinkerforge-bindings|L|0|:eyes:||
 [#18738](https://github.com/conan-io/conan-center-index/pull/18738)|[valgur](https://github.com/valgur)|Jul 20|:memo: tidy-html5|L|0|:eyes:||
 [#18746](https://github.com/conan-io/conan-center-index/pull/18746)|[valgur](https://github.com/valgur)|Jul 20|:memo: tweetnacl|L|0|:eyes:||
@@ -259,13 +258,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#17882](https://github.com/conan-io/conan-center-index/pull/17882)|[PeteAudinate](https://github.com/PeteAudinate)|Jun 9|:warning: b2|4|jwillikers, prince-chrismc
 [#18500](https://github.com/conan-io/conan-center-index/pull/18500)|[mayeut](https://github.com/mayeut)|Jul 11|:warning: osgearth|4|RubenRBS, memsharded
 [#18598](https://github.com/conan-io/conan-center-index/pull/18598)|[toge](https://github.com/toge)|Jul 17|:warning: fakeit|2|ericLemanissier, RubenRBS
 
@@ -276,10 +274,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 476
+	- Open: 475
 	- Draft: 47
-	- Average Age: 67 days, 4 hours, and 52.56 minutes
-	- Stop Label: 170
+	- Average Age: 67 days, 6 hours, and 0.84 minutes
+	- Stop Label: 171
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
