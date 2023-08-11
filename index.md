@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **231** pull requests currently under way :detective:
+There are **227** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -172,17 +172,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18724](https://github.com/conan-io/conan-center-index/pull/18724)|[valgur](https://github.com/valgur)|Jul 20|:memo: cose-c|L|0|:eyes:||
 [#18733](https://github.com/conan-io/conan-center-index/pull/18733)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: tinkerforge-bindings|L|0|:eyes:||
 [#18738](https://github.com/conan-io/conan-center-index/pull/18738)|[valgur](https://github.com/valgur)|Jul 20|:memo: tidy-html5|L|0|:eyes:||
-[#18744](https://github.com/conan-io/conan-center-index/pull/18744)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: xege|L|0|:eyes:||
 [#18746](https://github.com/conan-io/conan-center-index/pull/18746)|[valgur](https://github.com/valgur)|Jul 20|:memo: tweetnacl|L|0|:eyes:||
-[#18749](https://github.com/conan-io/conan-center-index/pull/18749)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: open-simulation-interface|L|0|:eyes:||
 [#18751](https://github.com/conan-io/conan-center-index/pull/18751)|[valgur](https://github.com/valgur)|Jul 20|:memo: uchardet|L|0|:eyes:||
-[#18755](https://github.com/conan-io/conan-center-index/pull/18755)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: playrho|L|0|:eyes:||
 [#18756](https://github.com/conan-io/conan-center-index/pull/18756)|[valgur](https://github.com/valgur)|Jul 20|:memo: quickfix|L|2|Jul 25 :bell:||
 [#18757](https://github.com/conan-io/conan-center-index/pull/18757)|[valgur](https://github.com/valgur)|Jul 20|:memo: detours|L|0|:eyes:||
-[#18761](https://github.com/conan-io/conan-center-index/pull/18761)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: libcoap|L|0|:eyes:||
 [#18764](https://github.com/conan-io/conan-center-index/pull/18764)|[stepanzorin](https://github.com/stepanzorin)|Jul 20|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#18779](https://github.com/conan-io/conan-center-index/pull/18779)|[valgur](https://github.com/valgur)|Jul 21|:memo: tinyxml|:green_circle: XS|2|Aug 11|uilianries|ericLemanissier
-[#18781](https://github.com/conan-io/conan-center-index/pull/18781)|[valgur](https://github.com/valgur)|Jul 21|:stopwatch: libfuse|M|0|:eyes:||
+[#18781](https://github.com/conan-io/conan-center-index/pull/18781)|[valgur](https://github.com/valgur)|Jul 21|:memo: libfuse|M|0|:eyes:||
 [#18789](https://github.com/conan-io/conan-center-index/pull/18789)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: libxft|L|1|Jul 25 :bell:||
 [#18801](https://github.com/conan-io/conan-center-index/pull/18801)|[VladyslavUsenko](https://github.com/VladyslavUsenko)|Jul 22|:memo: librealsense|M|0|:eyes:||
 [#18808](https://github.com/conan-io/conan-center-index/pull/18808)|[valgur](https://github.com/valgur)|Jul 22|:memo: opentracing-cpp|L|0|:eyes:||
@@ -280,8 +276,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 482
 	- Draft: 48
-	- Average Age: 66 days, 15 hours, and 16.78 minutes
-	- Stop Label: 174
+	- Average Age: 66 days, 16 hours, and 14.85 minutes
+	- Stop Label: 178
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
