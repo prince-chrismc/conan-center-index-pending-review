@@ -1372,7 +1372,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18058",
       "LastCommitSHA": "6b8c729abbad775bdbbd4e55adad205380766a90",
       "LastCommitAt": "2023-06-26T11:12:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5347,7 +5347,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19140",
       "LastCommitSHA": "19b64bd026b13c36a45cdc9372dd9ead6ded1fd8",
       "LastCommitAt": "2023-08-10T14:00:11Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5425,44 +5425,6 @@
       "LastCommitSHA": "69a12afa8074162990f7e8f1b92f93a228cc146d",
       "LastCommitAt": "2023-08-11T05:33:34Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19148,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-11T05:59:40Z",
-      "Recipe": "influxdb-cxx",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19148",
-      "LastCommitSHA": "45ac6e592cf52fc6de845c476d010adbcfeb9250",
-      "LastCommitAt": "2023-08-11T05:59:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19149,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-11T06:17:06Z",
-      "Recipe": "zookeeper-client-c",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19149",
-      "LastCommitSHA": "fcbeed3b371eaffe7586b6cb72f2755a097bb016",
-      "LastCommitAt": "2023-08-11T06:16:21Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
