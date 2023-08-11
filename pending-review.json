@@ -1216,39 +1216,6 @@
       }
    },
    {
-      "Number": 17882,
-      "OpenedBy": "PeteAudinate",
-      "CreatedAt": "2023-06-09T19:58:26Z",
-      "Recipe": "b2",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17882",
-      "LastCommitSHA": "ab6afd4174c6c045be082868a81f9cce56713c45",
-      "LastCommitAt": "2023-07-22T06:04:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "prince-chrismc",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-07-21T14:47:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17882#pullrequestreview-1541297105"
-         }
-      }
-   },
-   {
       "Number": 17925,
       "OpenedBy": "MartinDelille",
       "CreatedAt": "2023-06-13T12:23:25Z",
@@ -3474,25 +3441,6 @@
       }
    },
    {
-      "Number": 18732,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T14:12:31Z",
-      "Recipe": "cgltf",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18732",
-      "LastCommitSHA": "94715389cdd04d7f816fa404ead7dcaa5431590b",
-      "LastCommitAt": "2023-07-26T20:21:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18733,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T14:16:07Z",
@@ -5429,8 +5377,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19157",
-      "LastCommitSHA": "1c5f2875f3918143c0fba1712b5898585e08fcd5",
-      "LastCommitAt": "2023-08-11T17:57:05Z",
+      "LastCommitSHA": "feb9f2f54263963fa83987c41bb41159984e8f13",
+      "LastCommitAt": "2023-08-11T18:54:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
