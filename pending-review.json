@@ -5060,11 +5060,21 @@
       "LastCommitAt": "2023-08-09T16:30:32Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "Tobulus",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Tobulus",
+            "SubmittedAt": "2023-08-12T06:13:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19123#pullrequestreview-1574848663"
+         }
       }
    },
    {
