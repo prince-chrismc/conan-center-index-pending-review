@@ -239,7 +239,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19115](https://github.com/conan-io/conan-center-index/pull/19115)|[SpaceIm](https://github.com/SpaceIm)|Aug 9|:new: libmpdclient|M|1|Aug 10||RubenRBS
 [#19116](https://github.com/conan-io/conan-center-index/pull/19116)|[valgur](https://github.com/valgur)|Aug 9|:new: cuda-samples|M|1|Aug 11||RubenRBS
 [#19118](https://github.com/conan-io/conan-center-index/pull/19118)|[sjlamerton](https://github.com/sjlamerton)|Aug 9|:stopwatch: ffmpeg|:blue_square: S|0|||
-[#19123](https://github.com/conan-io/conan-center-index/pull/19123)|[ledocc](https://github.com/ledocc)|Aug 9|:stopwatch: libselinux|:blue_square: S|0|||
+[#19123](https://github.com/conan-io/conan-center-index/pull/19123)|[ledocc](https://github.com/ledocc)|Aug 9|:stopwatch: libselinux|:blue_square: S|1|Aug 12||[Tobulus](https://github.com/Tobulus)
 [#19127](https://github.com/conan-io/conan-center-index/pull/19127)|[mayeut](https://github.com/mayeut)|Aug 9|:memo: re2|:green_circle: XS|0|||
 [#19129](https://github.com/conan-io/conan-center-index/pull/19129)|[toge](https://github.com/toge)|Aug 9|:memo: daw_header_libraries|:blue_square: S|1|Aug 10||RubenRBS
 [#19131](https://github.com/conan-io/conan-center-index/pull/19131)|[toge](https://github.com/toge)|Aug 10|:memo: capnproto|L|1|Aug 11||RubenRBS
@@ -274,7 +274,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 484
 	- Draft: 48
-	- Average Age: 66 days, 17 hours, and 36.29 minutes
+	- Average Age: 66 days, 18 hours, and 39.95 minutes
 	- Stop Label: 182
 	
 
