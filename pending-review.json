@@ -5334,24 +5334,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 19161,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-12T03:34:59Z",
-      "Recipe": "highway",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19161",
-      "LastCommitSHA": "3e1c68f76449f2ca1dd5cb75fbd98ca143220596",
-      "LastCommitAt": "2023-08-12T03:30:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
