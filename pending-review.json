@@ -5344,5 +5344,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19162,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-08-12T08:59:30Z",
+      "Recipe": "date",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19162",
+      "LastCommitSHA": "1704b8ed1a531a85bb144adf5553eabb5bfffedc",
+      "LastCommitAt": "2023-08-12T08:57:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
