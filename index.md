@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **224** pull requests currently under way :detective:
+There are **226** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -251,6 +251,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19152](https://github.com/conan-io/conan-center-index/pull/19152)|[fschoenm](https://github.com/fschoenm)|Aug 11|:stopwatch: mold|L|0|||
 [#19153](https://github.com/conan-io/conan-center-index/pull/19153)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 11|:gear: .c3i|:green_circle: XS|0|||
 [#19157](https://github.com/conan-io/conan-center-index/pull/19157)|[adattatri](https://github.com/adattatri)|Aug 11|:stopwatch: libwebsockets|:green_circle: XS|0|||
+[#19160](https://github.com/conan-io/conan-center-index/pull/19160)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 12|:gear: .c3i|:green_circle: XS|0|||
+[#19161](https://github.com/conan-io/conan-center-index/pull/19161)|[toge](https://github.com/toge)|Aug 12|:stopwatch: highway|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -271,10 +273,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 481
+	- Open: 484
 	- Draft: 48
-	- Average Age: 67 days, and 37.72 minutes
-	- Stop Label: 180
+	- Average Age: 66 days, 16 hours, and 40.06 minutes
+	- Stop Label: 181
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
