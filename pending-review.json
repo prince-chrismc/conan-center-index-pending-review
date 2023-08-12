@@ -131,9 +131,9 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16679",
-      "LastCommitSHA": "edc9779cc4c3b84c23173158d47d1d35749409ec",
-      "LastCommitAt": "2023-08-11T03:43:49Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d5e481177a1d37bdfb35e8b765d33389477bd0ec",
+      "LastCommitAt": "2023-08-12T00:29:47Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 19,
          "ValidApprovals": 0,
@@ -5281,35 +5281,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 19151,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-11T12:12:24Z",
-      "Recipe": "yaml-cpp",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19151",
-      "LastCommitSHA": "5050dc16ae39c12e6f5c949dde3f3e48efeb948a",
-      "LastCommitAt": "2023-08-11T12:11:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "MartinDelille",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2023-08-11T13:16:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19151#pullrequestreview-1573650158"
-         }
       }
    },
    {
