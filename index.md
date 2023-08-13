@@ -226,7 +226,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **28** pull requests are waiting to be merged :tada:
+Currently **26** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -237,8 +237,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18598](https://github.com/conan-io/conan-center-index/pull/18598)|[toge](https://github.com/toge)|Jul 17|:warning: fakeit|2|ericLemanissier, RubenRBS
 [#18647](https://github.com/conan-io/conan-center-index/pull/18647)|[Cogitri](https://github.com/Cogitri)|Jul 19|:warning: opentelemetry-cpp|3|uilianries, SSE4
 [#18678](https://github.com/conan-io/conan-center-index/pull/18678)|[toge](https://github.com/toge)|Jul 19|:memo: implot|5|RubenRBS, SSE4, [Hopobcn](https://github.com/Hopobcn)
-[#18829](https://github.com/conan-io/conan-center-index/pull/18829)|[CJCombrink](https://github.com/CJCombrink)|Jul 22|:memo: hunspell|7|uilianries, SSE4
-[#18843](https://github.com/conan-io/conan-center-index/pull/18843)|[toge](https://github.com/toge)|Jul 23|:memo: sol2|2|RubenRBS, SSE4
 [#18883](https://github.com/conan-io/conan-center-index/pull/18883)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairo|3|RubenRBS, SSE4
 [#18895](https://github.com/conan-io/conan-center-index/pull/18895)|[toge](https://github.com/toge)|Jul 25|:memo: wasmer|2|RubenRBS, SSE4
 [#18944](https://github.com/conan-io/conan-center-index/pull/18944)|[valgur](https://github.com/valgur)|Jul 28|:memo: nmslib|4|RubenRBS, SSE4
@@ -267,9 +265,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 493
+	- Open: 491
 	- Draft: 49
-	- Average Age: 66 days, 7 hours, and 28.03 minutes
+	- Average Age: 66 days, 12 hours, and 52.29 minutes
 	- Stop Label: 196
 	
 
