@@ -4033,8 +4033,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19001",
-      "LastCommitSHA": "d3e1da52696298317309f2ba3b0a906d239bce86",
-      "LastCommitAt": "2023-08-13T17:58:22Z",
+      "LastCommitSHA": "53a5bd8f3ed36826981a06b8efb00f371e01b5bb",
+      "LastCommitAt": "2023-08-13T21:03:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4381,72 +4381,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-08-10T13:11:28Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19111#pullrequestreview-1571863180"
-         }
-      }
-   },
-   {
-      "Number": 19115,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-08-09T10:47:15Z",
-      "Recipe": "libmpdclient",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19115",
-      "LastCommitSHA": "2f898fa49b9f3e8f084d1f9ae4d9a00ed30319ec",
-      "LastCommitAt": "2023-08-09T11:26:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-08-13T10:18:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19115#pullrequestreview-1575769166"
-         }
-      }
-   },
-   {
-      "Number": 19116,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-08-09T11:59:49Z",
-      "Recipe": "cuda-samples",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19116",
-      "LastCommitSHA": "a55a64d190a7f153660241b22c40b7f2938e8f52",
-      "LastCommitAt": "2023-08-09T13:08:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-08-13T10:18:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19116#pullrequestreview-1575769181"
          }
       }
    },
