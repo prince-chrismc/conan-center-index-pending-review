@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **229** pull requests currently under way :detective:
+There are **231** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -244,7 +244,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19127](https://github.com/conan-io/conan-center-index/pull/19127)|[mayeut](https://github.com/mayeut)|Aug 9|:memo: re2|:green_circle: XS|0|:eyes:||
 [#19129](https://github.com/conan-io/conan-center-index/pull/19129)|[toge](https://github.com/toge)|Aug 9|:memo: daw_header_libraries|:blue_square: S|1|Aug 10||RubenRBS
 [#19131](https://github.com/conan-io/conan-center-index/pull/19131)|[toge](https://github.com/toge)|Aug 10|:memo: capnproto|L|1|Aug 11||RubenRBS
-[#19135](https://github.com/conan-io/conan-center-index/pull/19135)|[marxin](https://github.com/marxin)|Aug 10|:stopwatch: libe57format|:blue_square: S|0|||
+[#19135](https://github.com/conan-io/conan-center-index/pull/19135)|[marxin](https://github.com/marxin)|Aug 10|:stopwatch: libe57format|:blue_square: S|0|:eyes:||
 [#19138](https://github.com/conan-io/conan-center-index/pull/19138)|[MartinDelille](https://github.com/MartinDelille)|Aug 10|:stopwatch: quazip|:green_circle: XS|0|||
 [#19140](https://github.com/conan-io/conan-center-index/pull/19140)|[MartinDelille](https://github.com/MartinDelille)|Aug 10|:memo: bandit|:blue_square: S|1|Aug 10||RubenRBS
 [#19144](https://github.com/conan-io/conan-center-index/pull/19144)|[toge](https://github.com/toge)|Aug 10|:memo: bzip3|M|2|Aug 11||RubenRBS
@@ -256,6 +256,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19165](https://github.com/conan-io/conan-center-index/pull/19165)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 12|:gear: .c3i|:green_circle: XS|0|||
 [#19167](https://github.com/conan-io/conan-center-index/pull/19167)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 12|:gear: .c3i|:green_circle: XS|0|||
 [#19170](https://github.com/conan-io/conan-center-index/pull/19170)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 13|:gear: .c3i|:green_circle: XS|0|||
+[#19171](https://github.com/conan-io/conan-center-index/pull/19171)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 13|:stopwatch: onetbb|:green_circle: XS|0|||
+[#19172](https://github.com/conan-io/conan-center-index/pull/19172)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 13|:stopwatch: pugixml|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -276,9 +278,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 492
+	- Open: 494
 	- Draft: 49
-	- Average Age: 66 days, 18 hours, and 25.16 minutes
+	- Average Age: 66 days, 12 hours, and 53.76 minutes
 	- Stop Label: 186
 	
 
