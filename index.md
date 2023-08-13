@@ -227,7 +227,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -241,8 +241,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18883](https://github.com/conan-io/conan-center-index/pull/18883)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairo|3|RubenRBS, SSE4
 [#18895](https://github.com/conan-io/conan-center-index/pull/18895)|[toge](https://github.com/toge)|Jul 25|:memo: wasmer|2|RubenRBS, SSE4
 [#19057](https://github.com/conan-io/conan-center-index/pull/19057)|[fschoenm](https://github.com/fschoenm)|Aug 5|:warning: fast-dds|2|uilianries, SSE4
-[#19115](https://github.com/conan-io/conan-center-index/pull/19115)|[SpaceIm](https://github.com/SpaceIm)|Aug 9|:new: libmpdclient|2|RubenRBS, SSE4
-[#19116](https://github.com/conan-io/conan-center-index/pull/19116)|[valgur](https://github.com/valgur)|Aug 9|:new: cuda-samples|2|RubenRBS, SSE4
 [#19129](https://github.com/conan-io/conan-center-index/pull/19129)|[toge](https://github.com/toge)|Aug 9|:memo: daw_header_libraries|2|RubenRBS, SSE4
 [#19131](https://github.com/conan-io/conan-center-index/pull/19131)|[toge](https://github.com/toge)|Aug 10|:memo: capnproto|2|RubenRBS, SSE4
 [#19140](https://github.com/conan-io/conan-center-index/pull/19140)|[MartinDelille](https://github.com/MartinDelille)|Aug 10|:memo: bandit|2|RubenRBS, SSE4
@@ -255,9 +253,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 482
+	- Open: 480
 	- Draft: 49
-	- Average Age: 67 days, 18 hours, and 35.49 minutes
+	- Average Age: 68 days, 1 hours, and 53.71 minutes
 	- Stop Label: 198
 	
 
