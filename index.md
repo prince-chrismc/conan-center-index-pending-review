@@ -226,7 +226,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **26** pull requests are waiting to be merged :tada:
+Currently **23** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -239,9 +239,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18678](https://github.com/conan-io/conan-center-index/pull/18678)|[toge](https://github.com/toge)|Jul 19|:memo: implot|5|RubenRBS, SSE4, [Hopobcn](https://github.com/Hopobcn)
 [#18883](https://github.com/conan-io/conan-center-index/pull/18883)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairo|3|RubenRBS, SSE4
 [#18895](https://github.com/conan-io/conan-center-index/pull/18895)|[toge](https://github.com/toge)|Jul 25|:memo: wasmer|2|RubenRBS, SSE4
-[#18944](https://github.com/conan-io/conan-center-index/pull/18944)|[valgur](https://github.com/valgur)|Jul 28|:memo: nmslib|4|RubenRBS, SSE4
-[#18981](https://github.com/conan-io/conan-center-index/pull/18981)|[valgur](https://github.com/valgur)|Jul 31|:memo: libsafec|3|memsharded, SSE4
-[#18985](https://github.com/conan-io/conan-center-index/pull/18985)|[toge](https://github.com/toge)|Jul 31|:memo: ctre|2|RubenRBS, SSE4
 [#18991](https://github.com/conan-io/conan-center-index/pull/18991)|[toge](https://github.com/toge)|Jul 31|:memo: luau|2|RubenRBS, SSE4
 [#19039](https://github.com/conan-io/conan-center-index/pull/19039)|[robomics](https://github.com/robomics)|Aug 4|:new: hictk|3|uilianries, SSE4
 [#19057](https://github.com/conan-io/conan-center-index/pull/19057)|[fschoenm](https://github.com/fschoenm)|Aug 5|:memo: fast-dds|2|uilianries, SSE4
@@ -265,9 +262,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 491
+	- Open: 488
 	- Draft: 49
-	- Average Age: 66 days, 12 hours, and 52.29 minutes
+	- Average Age: 66 days, 21 hours, and 40.32 minutes
 	- Stop Label: 196
 	
 
