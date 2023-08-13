@@ -226,7 +226,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **33** pull requests are waiting to be merged :tada:
+Currently **31** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -235,9 +235,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18489](https://github.com/conan-io/conan-center-index/pull/18489)|[mologie](https://github.com/mologie)|Jul 11|:memo: opencv|2|uilianries, SSE4
 [#18500](https://github.com/conan-io/conan-center-index/pull/18500)|[mayeut](https://github.com/mayeut)|Jul 11|:warning: osgearth|4|RubenRBS, memsharded
 [#18598](https://github.com/conan-io/conan-center-index/pull/18598)|[toge](https://github.com/toge)|Jul 17|:warning: fakeit|2|ericLemanissier, RubenRBS
-[#18601](https://github.com/conan-io/conan-center-index/pull/18601)|[toge](https://github.com/toge)|Jul 17|:memo: glaze|3|RubenRBS, SSE4
 [#18647](https://github.com/conan-io/conan-center-index/pull/18647)|[Cogitri](https://github.com/Cogitri)|Jul 19|:warning: opentelemetry-cpp|3|uilianries, SSE4
-[#18667](https://github.com/conan-io/conan-center-index/pull/18667)|[valgur](https://github.com/valgur)|Jul 19|:memo: rvo2|2|RubenRBS, SSE4
 [#18678](https://github.com/conan-io/conan-center-index/pull/18678)|[toge](https://github.com/toge)|Jul 19|:memo: implot|5|RubenRBS, SSE4, [Hopobcn](https://github.com/Hopobcn)
 [#18683](https://github.com/conan-io/conan-center-index/pull/18683)|[valgur](https://github.com/valgur)|Jul 19|:memo: usrsctp|2|RubenRBS, SSE4
 [#18692](https://github.com/conan-io/conan-center-index/pull/18692)|[valgur](https://github.com/valgur)|Jul 19|:memo: fusepp|2|RubenRBS, SSE4
@@ -272,9 +270,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 498
+	- Open: 496
 	- Draft: 49
-	- Average Age: 65 days, 19 hours, and 44.79 minutes
+	- Average Age: 66 days, and 29.23 minutes
 	- Stop Label: 196
 	
 
