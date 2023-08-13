@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **228** pull requests currently under way :detective:
+There are **229** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -241,7 +241,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19118](https://github.com/conan-io/conan-center-index/pull/19118)|[sjlamerton](https://github.com/sjlamerton)|Aug 9|:stopwatch: ffmpeg|:blue_square: S|0|:eyes:||
 [#19120](https://github.com/conan-io/conan-center-index/pull/19120)|[hedtke](https://github.com/hedtke)|Aug 9|:new: scippp|M|0|||
 [#19123](https://github.com/conan-io/conan-center-index/pull/19123)|[ledocc](https://github.com/ledocc)|Aug 9|:stopwatch: libselinux|:blue_square: S|1|Aug 12||[Tobulus](https://github.com/Tobulus)
-[#19127](https://github.com/conan-io/conan-center-index/pull/19127)|[mayeut](https://github.com/mayeut)|Aug 9|:memo: re2|:green_circle: XS|0|||
+[#19127](https://github.com/conan-io/conan-center-index/pull/19127)|[mayeut](https://github.com/mayeut)|Aug 9|:memo: re2|:green_circle: XS|0|:eyes:||
 [#19129](https://github.com/conan-io/conan-center-index/pull/19129)|[toge](https://github.com/toge)|Aug 9|:memo: daw_header_libraries|:blue_square: S|1|Aug 10||RubenRBS
 [#19131](https://github.com/conan-io/conan-center-index/pull/19131)|[toge](https://github.com/toge)|Aug 10|:memo: capnproto|L|1|Aug 11||RubenRBS
 [#19135](https://github.com/conan-io/conan-center-index/pull/19135)|[marxin](https://github.com/marxin)|Aug 10|:stopwatch: libe57format|:blue_square: S|0|||
@@ -255,6 +255,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19160](https://github.com/conan-io/conan-center-index/pull/19160)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 12|:gear: .c3i|:green_circle: XS|0|||
 [#19165](https://github.com/conan-io/conan-center-index/pull/19165)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 12|:gear: .c3i|:green_circle: XS|0|||
 [#19167](https://github.com/conan-io/conan-center-index/pull/19167)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 12|:gear: .c3i|:green_circle: XS|0|||
+[#19169](https://github.com/conan-io/conan-center-index/pull/19169)|[toge](https://github.com/toge)|Aug 13|:stopwatch: fmt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -275,9 +276,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 490
+	- Open: 491
 	- Draft: 49
-	- Average Age: 66 days, 13 hours, and 54.01 minutes
+	- Average Age: 66 days, 16 hours, and 39.65 minutes
 	- Stop Label: 185
 	
 
