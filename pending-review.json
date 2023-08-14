@@ -4709,5 +4709,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19180,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-08-13T23:46:16Z",
+      "Recipe": "onnxruntime",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19180",
+      "LastCommitSHA": "478807fd115966122e034e22704690344e48095b",
+      "LastCommitAt": "2023-08-13T23:10:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
