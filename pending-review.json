@@ -4599,6 +4599,25 @@
       }
    },
    {
+      "Number": 19180,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-08-13T23:46:16Z",
+      "Recipe": "onnxruntime",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19180",
+      "LastCommitSHA": "5990c72b6703a2cf05a91ed3f7d765c1fa3c897b",
+      "LastCommitAt": "2023-08-14T16:49:45Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19181,
       "OpenedBy": "bog-dan-ro",
       "CreatedAt": "2023-08-14T06:50:54Z",
@@ -4732,26 +4751,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19192",
       "LastCommitSHA": "0feba907672e6a7c417a6a9654880af94cc94f3b",
       "LastCommitAt": "2023-08-14T17:05:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19194,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-08-14T18:11:35Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19194",
-      "LastCommitSHA": "ec4bc8e49de7364cc2b005ccb3a95ff25ba57684",
-      "LastCommitAt": "2023-08-14T17:58:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
