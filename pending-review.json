@@ -4703,11 +4703,21 @@
       "LastCommitAt": "2023-08-13T20:07:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-08-14T05:13:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19176#pullrequestreview-1576081023"
+         }
       }
    }
 ]
