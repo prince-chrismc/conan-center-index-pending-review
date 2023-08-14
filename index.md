@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **205** pull requests currently under way :detective:
+There are **206** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -178,6 +178,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18857](https://github.com/conan-io/conan-center-index/pull/18857)|[tt4g](https://github.com/tt4g)|Jul 24|:memo: libpqxx|M|3|Aug 2 :bell:|uilianries|
 [#18868](https://github.com/conan-io/conan-center-index/pull/18868)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: microprofile|L|0|:eyes:||
 [#18890](https://github.com/conan-io/conan-center-index/pull/18890)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: libdrm|L|1|Jul 25 :bell:||
+[#18896](https://github.com/conan-io/conan-center-index/pull/18896)|[patmantru](https://github.com/patmantru)|Jul 25|:stopwatch: opentdf-client|:blue_square: S|6|Aug 11||
 [#18902](https://github.com/conan-io/conan-center-index/pull/18902)|[valgur](https://github.com/valgur)|Jul 25|:stopwatch: jerryscript|L|0|:eyes:||
 [#18908](https://github.com/conan-io/conan-center-index/pull/18908)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 25|:stopwatch: kaitai_struct_cpp_stl_runtime|M|0|:eyes:||
 [#18914](https://github.com/conan-io/conan-center-index/pull/18914)|[saukijan](https://github.com/saukijan)|Jul 26|:memo: open62541|M|0|||
@@ -255,8 +256,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 477
 	- Draft: 52
-	- Average Age: 69 days, 4 hours, and 6.63 minutes
-	- Stop Label: 193
+	- Average Age: 69 days, 7 hours, and 4.84 minutes
+	- Stop Label: 192
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
