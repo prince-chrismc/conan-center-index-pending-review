@@ -4370,7 +4370,7 @@
       "LastCommitAt": "2023-08-11T15:20:05Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
@@ -4381,9 +4381,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-08-14T15:21:52Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19148#pullrequestreview-1577087643"
+            "ReviewerName": "offa",
+            "SubmittedAt": "2023-08-14T18:44:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19148#pullrequestreview-1577444322"
          }
       }
    },
@@ -4416,6 +4416,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19153",
       "LastCommitSHA": "6db227dcee4495e5d918e5c29d2213b575c6c9c1",
       "LastCommitAt": "2023-08-11T15:28:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19154,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-11T15:30:22Z",
+      "Recipe": "mozjpeg",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19154",
+      "LastCommitSHA": "91b978033b6e33dc74df30046400fe7a5cdac7db",
+      "LastCommitAt": "2023-08-11T15:29:53Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
