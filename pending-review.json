@@ -4025,20 +4025,24 @@
       "LastCommitAt": "2023-08-03T10:13:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "Hopobcn",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "gegles",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "Hopobcn",
-            "SubmittedAt": "2023-08-03T10:26:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19029#pullrequestreview-1560781976"
+            "ReviewerName": "gegles",
+            "SubmittedAt": "2023-08-15T21:17:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19029#pullrequestreview-1579443703"
          }
       }
    },
@@ -5031,25 +5035,6 @@
       "LastCommitSHA": "5c5fb1386e11683441b12194885b01e1e41d89d2",
       "LastCommitAt": "2023-08-15T12:31:16Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19212,
-      "OpenedBy": "pgeler",
-      "CreatedAt": "2023-08-15T19:18:15Z",
-      "Recipe": "grpc",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19212",
-      "LastCommitSHA": "7a063a637eedbe41cf1798dbe4529d03ecc73a7a",
-      "LastCommitAt": "2023-08-15T19:16:58Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
