@@ -2250,7 +2250,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18416",
       "LastCommitSHA": "55a68b3cf647472aba5f50355abc8a8e5ef700a5",
       "LastCommitAt": "2023-07-20T12:04:46Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 1,
@@ -3030,6 +3030,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18724",
       "LastCommitSHA": "9038f986098f7ac20651c885a7fc2e66edb46dae",
       "LastCommitAt": "2023-07-27T21:13:08Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18732,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-20T14:12:31Z",
+      "Recipe": "cgltf",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18732",
+      "LastCommitSHA": "9eb31b7238c6a334003ba622161697c19f02a8e4",
+      "LastCommitAt": "2023-08-15T12:44:32Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -5045,15 +5064,15 @@
       }
    },
    {
-      "Number": 19207,
+      "Number": 19209,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-08-15T15:21:49Z",
-      "Recipe": "screen_capture_lite",
+      "CreatedAt": "2023-08-15T16:47:22Z",
+      "Recipe": "libmysqlclient",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19207",
-      "LastCommitSHA": "4333c14a88c71d9f7c1057a5efd339c919f3563d",
-      "LastCommitAt": "2023-08-15T15:21:01Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19209",
+      "LastCommitSHA": "80ea8243b4a36659a810259772c0a46edac68376",
+      "LastCommitAt": "2023-08-15T16:46:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5064,15 +5083,15 @@
       }
    },
    {
-      "Number": 19208,
+      "Number": 19210,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-08-15T15:52:11Z",
-      "Recipe": "r8brain-free-src",
+      "CreatedAt": "2023-08-15T17:01:34Z",
+      "Recipe": "gperftools",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19208",
-      "LastCommitSHA": "fd7afe4fb3a15558a24a727616ef78c1f901edec",
-      "LastCommitAt": "2023-08-15T15:51:23Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19210",
+      "LastCommitSHA": "8ebbb69e2fc436a1c96945234019230d1ccf63a5",
+      "LastCommitAt": "2023-08-15T17:00:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
