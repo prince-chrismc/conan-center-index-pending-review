@@ -82,7 +82,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18106](https://github.com/conan-io/conan-center-index/pull/18106)|[toge](https://github.com/toge)|Jun 28|:memo: arrow|:blue_square: S|1|Jul 13 :bell:||[mpimenov](https://github.com/mpimenov)
 [#18115](https://github.com/conan-io/conan-center-index/pull/18115)|[valgur](https://github.com/valgur)|Jun 28|:memo: panzi-portable-endian|L|0|:eyes:||
 [#18133](https://github.com/conan-io/conan-center-index/pull/18133)|[valgur](https://github.com/valgur)|Jun 28|:memo: easyloggingpp|L|0|:eyes:||
-[#18149](https://github.com/conan-io/conan-center-index/pull/18149)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 29|:memo: exiv2|L|3|Aug 15||MartinDelille
+[#18149](https://github.com/conan-io/conan-center-index/pull/18149)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 29|:stopwatch: exiv2|L|3|Aug 15||
 [#18170](https://github.com/conan-io/conan-center-index/pull/18170)|[valgur](https://github.com/valgur)|Jun 30|:memo: aggeom-agg|L|0|:eyes:||
 [#18196](https://github.com/conan-io/conan-center-index/pull/18196)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: avahi|M|5|Jul 20 :bell:||
 [#18205](https://github.com/conan-io/conan-center-index/pull/18205)|[valgur](https://github.com/valgur)|Jun 30|:memo: maddy|L|0|:eyes:||
@@ -243,7 +243,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19192](https://github.com/conan-io/conan-center-index/pull/19192)|[toge](https://github.com/toge)|Aug 14|:memo: spdlog|:green_circle: XS|0|||
 [#19200](https://github.com/conan-io/conan-center-index/pull/19200)|[jputcu](https://github.com/jputcu)|Aug 15|:memo: etl|:blue_square: S|0|||
 [#19201](https://github.com/conan-io/conan-center-index/pull/19201)|[Cogitri](https://github.com/Cogitri)|Aug 15|:stopwatch: libpq|:blue_square: S|0|||
-[#19203](https://github.com/conan-io/conan-center-index/pull/19203)|[MartinDelille](https://github.com/MartinDelille)|Aug 15|:stopwatch: libsndfile|:green_circle: XS|0|||
+[#19205](https://github.com/conan-io/conan-center-index/pull/19205)|[orgonth](https://github.com/orgonth)|Aug 15|:stopwatch: ffmpeg|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -266,7 +266,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 480
 	- Draft: 52
-	- Average Age: 69 days, 8 hours, and 35.37 minutes
+	- Average Age: 69 days, 8 hours, and 28.77 minutes
 	- Stop Label: 185
 	
 
