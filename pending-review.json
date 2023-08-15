@@ -4958,17 +4958,22 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19200",
       "LastCommitSHA": "9af6ebc61880e9626a0379954eaae24be76c774f",
       "LastCommitAt": "2023-08-15T14:13:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "SpaceIm",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-08-15T14:07:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19200#pullrequestreview-1578637817"
+            "SubmittedAt": "2023-08-15T16:13:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19200#pullrequestreview-1578944847"
          }
       }
    },
@@ -5031,6 +5036,44 @@
       "LastCommitSHA": "5c5fb1386e11683441b12194885b01e1e41d89d2",
       "LastCommitAt": "2023-08-15T12:31:16Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19207,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-15T15:21:49Z",
+      "Recipe": "screen_capture_lite",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19207",
+      "LastCommitSHA": "4333c14a88c71d9f7c1057a5efd339c919f3563d",
+      "LastCommitAt": "2023-08-15T15:21:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19208,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-15T15:52:11Z",
+      "Recipe": "r8brain-free-src",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19208",
+      "LastCommitSHA": "fd7afe4fb3a15558a24a727616ef78c1f901edec",
+      "LastCommitAt": "2023-08-15T15:51:23Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
