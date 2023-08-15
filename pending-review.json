@@ -4793,24 +4793,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 19199,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-15T03:06:40Z",
-      "Recipe": "jinja2cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19199",
-      "LastCommitSHA": "ef6a6a70086174df13635d53da7f35cde5476e0a",
-      "LastCommitAt": "2023-08-15T03:06:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
