@@ -5062,5 +5062,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19212,
+      "OpenedBy": "pgeler",
+      "CreatedAt": "2023-08-15T19:18:15Z",
+      "Recipe": "grpc",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19212",
+      "LastCommitSHA": "7a063a637eedbe41cf1798dbe4529d03ecc73a7a",
+      "LastCommitAt": "2023-08-15T19:16:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
