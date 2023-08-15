@@ -2250,7 +2250,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18416",
       "LastCommitSHA": "55a68b3cf647472aba5f50355abc8a8e5ef700a5",
       "LastCommitAt": "2023-07-20T12:04:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 1,
@@ -5073,25 +5073,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19209",
       "LastCommitSHA": "80ea8243b4a36659a810259772c0a46edac68376",
       "LastCommitAt": "2023-08-15T16:46:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19210,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-15T17:01:34Z",
-      "Recipe": "gperftools",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19210",
-      "LastCommitSHA": "8ebbb69e2fc436a1c96945234019230d1ccf63a5",
-      "LastCommitAt": "2023-08-15T17:00:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
