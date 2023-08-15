@@ -2317,25 +2317,6 @@
       }
    },
    {
-      "Number": 18458,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-10T01:47:13Z",
-      "Recipe": "libgit2",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18458",
-      "LastCommitSHA": "e99f103e99db8889bf4aa542b78b89b239287ead",
-      "LastCommitAt": "2023-08-15T02:37:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18461,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-07-10T06:39:15Z",
@@ -4037,7 +4018,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19029",
       "LastCommitSHA": "088da2a403acc4f11f96cebf55623078df95aa4b",
       "LastCommitAt": "2023-08-03T10:13:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
