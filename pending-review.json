@@ -5062,24 +5062,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 19209,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-15T16:47:22Z",
-      "Recipe": "libmysqlclient",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19209",
-      "LastCommitSHA": "80ea8243b4a36659a810259772c0a46edac68376",
-      "LastCommitAt": "2023-08-15T16:46:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
