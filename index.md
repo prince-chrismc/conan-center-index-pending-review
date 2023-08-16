@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **221** pull requests currently under way :detective:
+There are **223** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -200,6 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18988](https://github.com/conan-io/conan-center-index/pull/18988)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: gamenetworkingsockets|L|0|:eyes:||
 [#18990](https://github.com/conan-io/conan-center-index/pull/18990)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 31|:stopwatch: newmat|L|1|Aug 11||
 [#18993](https://github.com/conan-io/conan-center-index/pull/18993)|[valgur](https://github.com/valgur)|Jul 31|:memo: poppler-data|:blue_square: S|0|:eyes:||
+[#18996](https://github.com/conan-io/conan-center-index/pull/18996)|[psyinf](https://github.com/psyinf)|Jul 31|:memo: vsg|:blue_square: S|0|||
 [#19001](https://github.com/conan-io/conan-center-index/pull/19001)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 1|:memo: net-snmp|L|0|||
 [#19018](https://github.com/conan-io/conan-center-index/pull/19018)|[Nekto89](https://github.com/Nekto89)|Aug 2|:memo: utfcpp|:blue_square: S|0|:eyes:||
 [#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:memo: intx|:green_circle: XS|0|:eyes:||
@@ -248,6 +249,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19201](https://github.com/conan-io/conan-center-index/pull/19201)|[Cogitri](https://github.com/Cogitri)|Aug 15|:memo: libpq|:blue_square: S|1|Aug 15||jcar87
 [#19205](https://github.com/conan-io/conan-center-index/pull/19205)|[orgonth](https://github.com/orgonth)|Aug 15|:stopwatch: ffmpeg|:green_circle: XS|0|||
 [#19206](https://github.com/conan-io/conan-center-index/pull/19206)|[Clueliss](https://github.com/Clueliss)|Aug 15|:memo: metall|:blue_square: S|0|||
+[#19214](https://github.com/conan-io/conan-center-index/pull/19214)|[toge](https://github.com/toge)|Aug 16|:stopwatch: cppcommon|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -267,10 +269,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 483
+	- Open: 484
 	- Draft: 52
-	- Average Age: 69 days, 9 hours, and 18.33 minutes
-	- Stop Label: 185
+	- Average Age: 69 days, 7 hours, and 22.96 minutes
+	- Stop Label: 184
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
