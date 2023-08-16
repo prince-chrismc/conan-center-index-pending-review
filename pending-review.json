@@ -4944,5 +4944,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19234,
+      "OpenedBy": "cjbradfield",
+      "CreatedAt": "2023-08-16T21:20:44Z",
+      "Recipe": "quictls-openssl",
+      "Change": 0,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19234",
+      "LastCommitSHA": "ad556fa00774092b6b601192057cec8a54a74a08",
+      "LastCommitAt": "2023-08-16T21:06:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
