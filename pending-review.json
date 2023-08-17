@@ -320,6 +320,37 @@
       }
    },
    {
+      "Number": 17025,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2023-04-14T07:18:58Z",
+      "Recipe": "vvenc",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17025",
+      "LastCommitSHA": "398aa69f0a7647321c342d72b4d36556b64355fc",
+      "LastCommitAt": "2023-08-16T17:49:29Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 14,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": [
+            "uilianries"
+         ],
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-08-17T10:29:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17025#pullrequestreview-1582318677"
+         }
+      }
+   },
+   {
       "Number": 17032,
       "OpenedBy": "datalogics-kam",
       "CreatedAt": "2023-04-14T16:10:54Z",
@@ -2050,15 +2081,20 @@
       "LastCommitAt": "2023-08-16T07:10:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-07-14T10:10:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18512#pullrequestreview-1527933102"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-08-17T10:33:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18512#pullrequestreview-1582325962"
          }
       }
    },
@@ -2935,39 +2971,6 @@
       }
    },
    {
-      "Number": 18808,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-22T11:23:52Z",
-      "Recipe": "opentracing-cpp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18808",
-      "LastCommitSHA": "9193e90b6bedcc7e604d0f928e1b069130daadfa",
-      "LastCommitAt": "2023-07-26T20:24:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-08-17T05:42:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18808#pullrequestreview-1581817253"
-         }
-      }
-   },
-   {
       "Number": 18813,
       "OpenedBy": "ashley-b",
       "CreatedAt": "2023-07-22T12:36:11Z",
@@ -3659,11 +3662,21 @@
       "LastCommitAt": "2023-08-04T21:32:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SpaceIm",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-08-17T10:51:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19018#pullrequestreview-1582353183"
+         }
       }
    },
    {
@@ -4637,11 +4650,21 @@
       "LastCommitAt": "2023-08-16T13:12:29Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-08-17T11:04:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19229#pullrequestreview-1582372528"
+         }
       }
    },
    {
@@ -4769,35 +4792,31 @@
       }
    },
    {
-      "Number": 19244,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2023-08-17T09:51:41Z",
-      "Recipe": "docs",
-      "Change": 2,
+      "Number": 19242,
+      "OpenedBy": "Ohjurot",
+      "CreatedAt": "2023-08-17T08:30:31Z",
+      "Recipe": "opus",
+      "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19244",
-      "LastCommitSHA": "1b3c70d7ab6bd54a32a3bcbe49d33f9d7c602bad",
-      "LastCommitAt": "2023-08-17T09:46:51Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19242",
+      "LastCommitSHA": "79eb2c186e85efd94d21c96843adce4850f60447",
+      "LastCommitAt": "2023-08-17T09:17:52Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
             {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "danimtb",
+               "Name": "czoido",
                "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-08-17T10:03:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19244#pullrequestreview-1582271139"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-08-17T10:44:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19242#pullrequestreview-1582341926"
          }
       }
    }
