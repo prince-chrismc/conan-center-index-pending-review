@@ -60,7 +60,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17509](https://github.com/conan-io/conan-center-index/pull/17509)|[jusito](https://github.com/jusito)|May 10|:stopwatch: llvm|XL|0|:eyes:||
 [#17528](https://github.com/conan-io/conan-center-index/pull/17528)|[kammce](https://github.com/kammce)|May 11|:new: arm-gnu-toolchain|L|7|Aug 17||danimtb
 [#17542](https://github.com/conan-io/conan-center-index/pull/17542)|[valgur](https://github.com/valgur)|May 12|:stopwatch: stdgpu|L|0|:eyes:||
-[#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:stopwatch: embag|M|1|May 25 :bell:||
+[#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:new: embag|M|1|May 25 :bell:||
 [#17580](https://github.com/conan-io/conan-center-index/pull/17580)|[miklelappo](https://github.com/miklelappo)|May 15|:stopwatch: grpc|L|0|:eyes:||
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
 [#17655](https://github.com/conan-io/conan-center-index/pull/17655)|[jwillikers](https://github.com/jwillikers)|May 22|:stopwatch: pango|L|0|:eyes:||
@@ -210,6 +210,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19152](https://github.com/conan-io/conan-center-index/pull/19152)|[fschoenm](https://github.com/fschoenm)|Aug 11|:stopwatch: mold|L|0|:eyes:||
 [#19154](https://github.com/conan-io/conan-center-index/pull/19154)|[toge](https://github.com/toge)|Aug 11|:memo: mozjpeg|M|1|Aug 17||czoido
 [#19157](https://github.com/conan-io/conan-center-index/pull/19157)|[adattatri](https://github.com/adattatri)|Aug 11|:stopwatch: libwebsockets|:green_circle: XS|0|:eyes:||
+[#19161](https://github.com/conan-io/conan-center-index/pull/19161)|[toge](https://github.com/toge)|Aug 12|:memo: highway|M|0|||
 [#19174](https://github.com/conan-io/conan-center-index/pull/19174)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 13|:memo: onetbb|:blue_square: S|1|Aug 13||
 [#19175](https://github.com/conan-io/conan-center-index/pull/19175)|[toge](https://github.com/toge)|Aug 13|:stopwatch: boost|L|8|Aug 17|RubenRBS|jwillikers, [grafikrobot](https://github.com/grafikrobot)
 [#19179](https://github.com/conan-io/conan-center-index/pull/19179)|[mologie](https://github.com/mologie)|Aug 13|:memo: loguru|:blue_square: S|1|Aug 17||czoido
@@ -219,7 +220,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19192](https://github.com/conan-io/conan-center-index/pull/19192)|[toge](https://github.com/toge)|Aug 14|:memo: spdlog|:green_circle: XS|0|:eyes:||
 [#19200](https://github.com/conan-io/conan-center-index/pull/19200)|[jputcu](https://github.com/jputcu)|Aug 15|:memo: etl|:blue_square: S|7|Aug 17||SpaceIm
 [#19209](https://github.com/conan-io/conan-center-index/pull/19209)|[toge](https://github.com/toge)|Aug 15|:memo: libmysqlclient|:green_circle: XS|0|||
-[#19212](https://github.com/conan-io/conan-center-index/pull/19212)|[pgeler](https://github.com/pgeler)|Aug 15|:stopwatch: grpc|M|0|||
 [#19223](https://github.com/conan-io/conan-center-index/pull/19223)|[eigenraven](https://github.com/eigenraven)|Aug 16|:memo: nodejs|:blue_square: S|1|Aug 16||RubenRBS
 [#19226](https://github.com/conan-io/conan-center-index/pull/19226)|[db4](https://github.com/db4)|Aug 16|:memo: pixman|M|0|||
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:stopwatch: rmm|:blue_square: S|1|Aug 17||uilianries
@@ -259,10 +259,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 485
+	- Open: 484
 	- Draft: 58
-	- Average Age: 69 days, 2 hours, and 51.87 minutes
-	- Stop Label: 188
+	- Average Age: 69 days, 6 hours, and 43.92 minutes
+	- Stop Label: 187
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
