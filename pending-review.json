@@ -780,35 +780,6 @@
       }
    },
    {
-      "Number": 17528,
-      "OpenedBy": "kammce",
-      "CreatedAt": "2023-05-11T15:49:53Z",
-      "Recipe": "arm-gnu-toolchain",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17528",
-      "LastCommitSHA": "27e5f5a0df4ddff54cef597d51d002279e400030",
-      "LastCommitAt": "2023-08-16T11:19:18Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-08-17T07:49:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17528#pullrequestreview-1581998965"
-         }
-      }
-   },
-   {
       "Number": 17542,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-05-12T12:30:33Z",
@@ -2591,7 +2562,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18663",
       "LastCommitSHA": "0e9e1bbb65504d3f3c5e9f786c9e7f85a1295aeb",
       "LastCommitAt": "2023-08-17T20:15:15Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
