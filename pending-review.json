@@ -4573,39 +4573,6 @@
       }
    },
    {
-      "Number": 19260,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-17T17:19:35Z",
-      "Recipe": "maddy",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19260",
-      "LastCommitSHA": "75e7b46ce68198922535a4544facc2c74ebd8996",
-      "LastCommitAt": "2023-08-17T23:56:55Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-08-18T09:22:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19260#pullrequestreview-1584189486"
-         }
-      }
-   },
-   {
       "Number": 19261,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-08-17T17:53:01Z",
