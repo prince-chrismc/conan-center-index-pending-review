@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **204** pull requests currently under way :detective:
+There are **205** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -57,7 +57,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:stopwatch: paho-mqtt-c|:green_circle: XS|0|:eyes:||
 [#17485](https://github.com/conan-io/conan-center-index/pull/17485)|[SpaceIm](https://github.com/SpaceIm)|May 9|:stopwatch: libxft|L|2|Jun 22 :bell:||jwillikers, SSE4
 [#17509](https://github.com/conan-io/conan-center-index/pull/17509)|[jusito](https://github.com/jusito)|May 10|:stopwatch: llvm|XL|0|:eyes:||
-[#17528](https://github.com/conan-io/conan-center-index/pull/17528)|[kammce](https://github.com/kammce)|May 11|:stopwatch: arm-gnu-toolchain|L|8|Aug 18||
+[#17528](https://github.com/conan-io/conan-center-index/pull/17528)|[kammce](https://github.com/kammce)|May 11|:new: arm-gnu-toolchain|L|8|Aug 18||
 [#17542](https://github.com/conan-io/conan-center-index/pull/17542)|[valgur](https://github.com/valgur)|May 12|:stopwatch: stdgpu|L|0|:eyes:||
 [#17575](https://github.com/conan-io/conan-center-index/pull/17575)|[valgur](https://github.com/valgur)|May 15|:new: embag|M|3|Aug 18||
 [#17580](https://github.com/conan-io/conan-center-index/pull/17580)|[miklelappo](https://github.com/miklelappo)|May 15|:stopwatch: grpc|L|0|:eyes:||
@@ -231,6 +231,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19274](https://github.com/conan-io/conan-center-index/pull/19274)|[toge](https://github.com/toge)|Aug 18|:memo: zlib|L|0|||
 [#19275](https://github.com/conan-io/conan-center-index/pull/19275)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 18|:gear: .c3i|:blue_square: S|0|||
 [#19280](https://github.com/conan-io/conan-center-index/pull/19280)|[gegles](https://github.com/gegles)|Aug 19|:memo: lyra|M|0|||
+[#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:stopwatch: libhal|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -251,9 +252,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 485
+	- Open: 486
 	- Draft: 57
-	- Average Age: 70 days, 7 hours, and 10.12 minutes
+	- Average Age: 70 days, 4 hours, and 40.15 minutes
 	- Stop Label: 196
 	
 
