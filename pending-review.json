@@ -1662,7 +1662,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18416",
       "LastCommitSHA": "55a68b3cf647472aba5f50355abc8a8e5ef700a5",
       "LastCommitAt": "2023-07-20T12:04:46Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 1,
@@ -1740,35 +1740,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18498,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-07-11T21:11:45Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18498",
-      "LastCommitSHA": "2e146e8796616975d6ed01dfcd87ce3a44f8cd9f",
-      "LastCommitAt": "2023-08-19T09:39:14Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-19T10:10:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18498#pullrequestreview-1585623877"
-         }
       }
    },
    {
@@ -3071,39 +3042,6 @@
       }
    },
    {
-      "Number": 18940,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-28T11:12:17Z",
-      "Recipe": "objectbox-generator",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18940",
-      "LastCommitSHA": "7eb211a44551342e9002315cf2452150d3a80f63",
-      "LastCommitAt": "2023-08-17T20:21:36Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-08-19T07:48:03Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18940#pullrequestreview-1585607473"
-         }
-      }
-   },
-   {
       "Number": 18941,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-28T11:15:24Z",
@@ -4399,7 +4337,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19290",
       "LastCommitSHA": "77ecb9de4c9fd42c37cf8db7195e11964a4978fa",
       "LastCommitAt": "2023-08-19T10:58:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
