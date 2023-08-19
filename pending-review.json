@@ -1372,39 +1372,6 @@
       }
    },
    {
-      "Number": 18257,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-01T13:43:21Z",
-      "Recipe": "cpp_project_framework",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18257",
-      "LastCommitSHA": "f209194c50bf40209d9460e58430e65e3dad1d22",
-      "LastCommitAt": "2023-07-26T20:21:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-08-19T07:45:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18257#pullrequestreview-1585607071"
-         }
-      }
-   },
-   {
       "Number": 18259,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-01T13:44:48Z",
@@ -1554,43 +1521,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18277,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-07-02T08:54:15Z",
-      "Recipe": "pbtools",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18277",
-      "LastCommitSHA": "b941959c5f6530171d1db933d8c4fbc8219468f3",
-      "LastCommitAt": "2023-08-16T13:55:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jcar87",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-19T08:29:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18277#pullrequestreview-1585613883"
-         }
       }
    },
    {
@@ -4761,25 +4691,6 @@
             "SubmittedAt": "2023-08-19T07:39:21Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19286#pullrequestreview-1585605736"
          }
-      }
-   },
-   {
-      "Number": 19288,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-19T05:56:48Z",
-      "Recipe": "asio-grpc",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19288",
-      "LastCommitSHA": "061a02175ee26e7d99cb08125965a5be092c6dfa",
-      "LastCommitAt": "2023-08-19T05:56:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
