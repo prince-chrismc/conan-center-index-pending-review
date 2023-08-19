@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -104,7 +104,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18545](https://github.com/conan-io/conan-center-index/pull/18545)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qt|:green_circle: XS|3|Jul 15 :bell:||ericLemanissier, SSE4, MartinDelille
 [#18546](https://github.com/conan-io/conan-center-index/pull/18546)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 14|:stopwatch: qarchive|:blue_square: S|3|Aug 4 :bell:||
 [#18548](https://github.com/conan-io/conan-center-index/pull/18548)|[nmgwddj](https://github.com/nmgwddj)|Jul 15|:stopwatch: netease-im|L|0|:eyes:||
-[#18558](https://github.com/conan-io/conan-center-index/pull/18558)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 15|:stopwatch: cpython|:green_circle: XS|1|Aug 9||ericLemanissier
 [#18560](https://github.com/conan-io/conan-center-index/pull/18560)|[Tobulus](https://github.com/Tobulus)|Jul 15|:memo: libsystemd|M|0|:eyes:||
 [#18567](https://github.com/conan-io/conan-center-index/pull/18567)|[tannerbitz](https://github.com/tannerbitz)|Jul 15|:stopwatch: libxft|L|0|:eyes:||
 [#18570](https://github.com/conan-io/conan-center-index/pull/18570)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 16|:memo: xorg|:green_circle: XS|1|Jul 17 :bell:||jwillikers
@@ -194,7 +193,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19192](https://github.com/conan-io/conan-center-index/pull/19192)|[toge](https://github.com/toge)|Aug 14|:memo: spdlog|:green_circle: XS|1|Aug 18||[gegles](https://github.com/gegles)
 [#19218](https://github.com/conan-io/conan-center-index/pull/19218)|[hedtke](https://github.com/hedtke)|Aug 16|:new: yoga|M|1|Aug 17||
 [#19226](https://github.com/conan-io/conan-center-index/pull/19226)|[db4](https://github.com/db4)|Aug 16|:memo: pixman|M|0|||
-[#19230](https://github.com/conan-io/conan-center-index/pull/19230)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: openjpeg|M|0|||
+[#19230](https://github.com/conan-io/conan-center-index/pull/19230)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: openjpeg|M|0|:eyes:||
 [#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|||
 [#19235](https://github.com/conan-io/conan-center-index/pull/19235)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 16|:memo: onetbb|:green_circle: XS|0|||
 [#19238](https://github.com/conan-io/conan-center-index/pull/19238)|[valgur](https://github.com/valgur)|Aug 17|:memo: ftjam|L|0|||
@@ -218,15 +217,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#18196](https://github.com/conan-io/conan-center-index/pull/18196)|[valgur](https://github.com/valgur)|Jun 30|:warning: avahi|7|RubenRBS, SSE4
-[#18464](https://github.com/conan-io/conan-center-index/pull/18464)|[toge](https://github.com/toge)|Jul 10|:memo: xlsxio|6|czoido, SSE4
-[#18512](https://github.com/conan-io/conan-center-index/pull/18512)|[toge](https://github.com/toge)|Jul 12|:new: wasm-micro-runtime|3|czoido, SSE4
 [#18544](https://github.com/conan-io/conan-center-index/pull/18544)|[pgeler](https://github.com/pgeler)|Jul 14|:memo: grpc|4|uilianries, SSE4
 [#18625](https://github.com/conan-io/conan-center-index/pull/18625)|[valgur](https://github.com/valgur)|Jul 18|:memo: onetbb|2|danimtb, SSE4
 [#18756](https://github.com/conan-io/conan-center-index/pull/18756)|[valgur](https://github.com/valgur)|Jul 20|:memo: quickfix|4|czoido, SSE4
@@ -246,10 +243,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 481
+	- Open: 479
 	- Draft: 54
-	- Average Age: 69 days, 12 hours, and 29.76 minutes
-	- Stop Label: 198
+	- Average Age: 69 days, 16 hours, and 29.81 minutes
+	- Stop Label: 199
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
