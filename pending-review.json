@@ -791,7 +791,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17528",
       "LastCommitSHA": "5ecab5bb8512e817044b10828d1b62b9f1127051",
       "LastCommitAt": "2023-08-19T01:46:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 8,
          "ValidApprovals": 0,
@@ -4760,6 +4760,25 @@
       "LastCommitSHA": "c8edb95432db3d661ac17ab666c402a0c6b2e36a",
       "LastCommitAt": "2023-08-19T00:11:01Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19281,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-19T03:10:50Z",
+      "Recipe": "libhal",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19281",
+      "LastCommitSHA": "e42d6e1f0fcd247d29790ee3ea307625ee3196c7",
+      "LastCommitAt": "2023-08-19T03:12:53Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
