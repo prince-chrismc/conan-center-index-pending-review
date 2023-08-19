@@ -4361,11 +4361,21 @@
       "LastCommitAt": "2023-08-14T17:05:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "gegles",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "gegles",
+            "SubmittedAt": "2023-08-18T23:44:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19192#pullrequestreview-1585322387"
+         }
       }
    },
    {
@@ -4568,7 +4578,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19251",
       "LastCommitSHA": "075adee61f6356755dd59f74dd5c0e4e0d68920d",
       "LastCommitAt": "2023-08-18T09:58:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4731,6 +4741,25 @@
       "LastCommitSHA": "b49310a3c6d12fa69e21ddda1949d82dda724983",
       "LastCommitAt": "2023-08-18T18:05:56Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19280,
+      "OpenedBy": "gegles",
+      "CreatedAt": "2023-08-19T00:16:30Z",
+      "Recipe": "lyra",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19280",
+      "LastCommitSHA": "c8edb95432db3d661ac17ab666c402a0c6b2e36a",
+      "LastCommitAt": "2023-08-19T00:11:01Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
