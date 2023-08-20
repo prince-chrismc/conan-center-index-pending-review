@@ -1643,7 +1643,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18391",
       "LastCommitSHA": "44f8706f822a8f84d762ae517eae632e53ce35e1",
       "LastCommitAt": "2023-08-19T21:15:19Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -3218,6 +3218,32 @@
       }
    },
    {
+      "Number": 18990,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2023-07-31T15:17:09Z",
+      "Recipe": "newmat",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18990",
+      "LastCommitSHA": "a988bb9efd71c04310fceda50c2ac5fbdeb0d246",
+      "LastCommitAt": "2023-08-19T23:19:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 6,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "uilianries"
+         ],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-08-17T14:38:49Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18990#pullrequestreview-1582722458"
+         }
+      }
+   },
+   {
       "Number": 19001,
       "OpenedBy": "klausholstjacobsen",
       "CreatedAt": "2023-08-01T11:26:29Z",
@@ -4353,25 +4379,6 @@
       "LastCommitSHA": "dc26d36e6ea51b2b2b309dae71439b2361dae278",
       "LastCommitAt": "2023-08-19T23:17:28Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19299,
-      "OpenedBy": "tt4g",
-      "CreatedAt": "2023-08-20T01:40:15Z",
-      "Recipe": "libpqxx",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19299",
-      "LastCommitSHA": "0d1ffd48897d93089a3f7845922dd4f7313178c7",
-      "LastCommitAt": "2023-08-20T01:33:52Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
