@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **193** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -217,6 +217,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19294](https://github.com/conan-io/conan-center-index/pull/19294)|[avsej](https://github.com/avsej)|Aug 19|:memo: taocpp-json|:green_circle: XS|0|||
 [#19296](https://github.com/conan-io/conan-center-index/pull/19296)|[valgur](https://github.com/valgur)|Aug 19|:memo: arrow|L|0|||
 [#19297](https://github.com/conan-io/conan-center-index/pull/19297)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 19|:gear: .c3i|:blue_square: S|0|||
+[#19302](https://github.com/conan-io/conan-center-index/pull/19302)|[toge](https://github.com/toge)|Aug 20|:stopwatch: numcpp|:green_circle: XS|0|||
+[#19303](https://github.com/conan-io/conan-center-index/pull/19303)|[toge](https://github.com/toge)|Aug 20|:stopwatch: docopt.cpp|:green_circle: XS|0|||
+[#19304](https://github.com/conan-io/conan-center-index/pull/19304)|[toge](https://github.com/toge)|Aug 20|:stopwatch: wt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,9 +241,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 472
+	- Open: 475
 	- Draft: 55
-	- Average Age: 70 days, 20 hours, and 27.64 minutes
+	- Average Age: 70 days, 10 hours, and 39.67 minutes
 	- Stop Label: 199
 	
 
