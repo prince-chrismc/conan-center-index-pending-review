@@ -93,7 +93,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18356](https://github.com/conan-io/conan-center-index/pull/18356)|[valgur](https://github.com/valgur)|Jul 5|:stopwatch: so5extra|L|0|:eyes:||
 [#18360](https://github.com/conan-io/conan-center-index/pull/18360)|[valgur](https://github.com/valgur)|Jul 5|:memo: libxpm|L|0|:eyes:||
 [#18389](https://github.com/conan-io/conan-center-index/pull/18389)|[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)|Jul 6|:new: pcl|L|13|Aug 17||
-[#18391](https://github.com/conan-io/conan-center-index/pull/18391)|[fcorso2016](https://github.com/fcorso2016)|Jul 6|:stopwatch: onnxruntime|:green_circle: XS|2|Aug 15||
+[#18391](https://github.com/conan-io/conan-center-index/pull/18391)|[fcorso2016](https://github.com/fcorso2016)|Jul 6|:memo: onnxruntime|:green_circle: XS|2|Aug 15||
 [#18415](https://github.com/conan-io/conan-center-index/pull/18415)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 8|:stopwatch: doxygen|:blue_square: S|0|:eyes:||
 [#18416](https://github.com/conan-io/conan-center-index/pull/18416)|[mayeut](https://github.com/mayeut)|Jul 8|:stopwatch: libwebp|L|5|Aug 5 :bell:||[EstebanDugueperoux2](https://github.com/EstebanDugueperoux2), toge
 [#18421](https://github.com/conan-io/conan-center-index/pull/18421)|[psyinf](https://github.com/psyinf)|Jul 8|:stopwatch: vsgxchange|M|0|:eyes:||
@@ -167,6 +167,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18982](https://github.com/conan-io/conan-center-index/pull/18982)|[valgur](https://github.com/valgur)|Jul 31|:memo: depot_tools|L|0|||
 [#18983](https://github.com/conan-io/conan-center-index/pull/18983)|[fabiorossetto](https://github.com/fabiorossetto)|Jul 31|:stopwatch: capnproto|:green_circle: XS|0|:eyes:||
 [#18988](https://github.com/conan-io/conan-center-index/pull/18988)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: gamenetworkingsockets|L|0|:eyes:||
+[#18990](https://github.com/conan-io/conan-center-index/pull/18990)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Jul 31|:new: newmat|L|6|Aug 17|uilianries|
 [#19001](https://github.com/conan-io/conan-center-index/pull/19001)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 1|:memo: net-snmp|L|0|:eyes:||
 [#19018](https://github.com/conan-io/conan-center-index/pull/19018)|[Nekto89](https://github.com/Nekto89)|Aug 2|:memo: utfcpp|:blue_square: S|1|Aug 17||SpaceIm
 [#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:memo: intx|:green_circle: XS|0|||
@@ -216,7 +217,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19294](https://github.com/conan-io/conan-center-index/pull/19294)|[avsej](https://github.com/avsej)|Aug 19|:memo: taocpp-json|:green_circle: XS|0|||
 [#19296](https://github.com/conan-io/conan-center-index/pull/19296)|[valgur](https://github.com/valgur)|Aug 19|:stopwatch: arrow|L|0|||
 [#19297](https://github.com/conan-io/conan-center-index/pull/19297)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 19|:gear: .c3i|:blue_square: S|0|||
-[#19299](https://github.com/conan-io/conan-center-index/pull/19299)|[tt4g](https://github.com/tt4g)|Aug 20|:stopwatch: libpqxx|:green_circle: XS|0|||
 [#19300](https://github.com/conan-io/conan-center-index/pull/19300)|[toge](https://github.com/toge)|Aug 20|:stopwatch: ftxui|:green_circle: XS|0|||
 
 
@@ -239,10 +239,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 474
+	- Open: 473
 	- Draft: 55
-	- Average Age: 70 days, 11 hours, and 20.14 minutes
-	- Stop Label: 200
+	- Average Age: 70 days, 15 hours, and 51.33 minutes
+	- Stop Label: 199
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
