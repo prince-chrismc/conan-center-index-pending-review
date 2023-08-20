@@ -4361,11 +4361,21 @@
       "LastCommitAt": "2023-08-19T23:17:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-08-20T10:02:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19297#pullrequestreview-1585866919"
+         }
       }
    },
    {
@@ -4378,6 +4388,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19307",
       "LastCommitSHA": "854a6d5dc32ea7c4fea24a5cd775d5a8e3c04bb9",
       "LastCommitAt": "2023-08-20T07:58:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19308,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-08-20T09:13:35Z",
+      "Recipe": "proj",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19308",
+      "LastCommitSHA": "6af01b407e32bf736081da900ca8dd0d70a77388",
+      "LastCommitAt": "2023-08-20T09:13:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
