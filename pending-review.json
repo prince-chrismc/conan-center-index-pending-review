@@ -2688,6 +2688,30 @@
       }
    },
    {
+      "Number": 18826,
+      "OpenedBy": "klausholstjacobsen",
+      "CreatedAt": "2023-07-22T16:38:50Z",
+      "Recipe": "zstd",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18826",
+      "LastCommitSHA": "b0935d5141bf7974fb6261acf75b65da938e73dd",
+      "LastCommitAt": "2023-08-20T18:00:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-08-16T08:12:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18826#pullrequestreview-1580035477"
+         }
+      }
+   },
+   {
       "Number": 18831,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-22T19:43:46Z",
@@ -4468,25 +4492,6 @@
       "LastCommitSHA": "f72a8feec51898b0cd7a7df78939acf26478c95d",
       "LastCommitAt": "2023-08-20T11:08:27Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19312,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2023-08-20T17:06:29Z",
-      "Recipe": "libspatialite",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19312",
-      "LastCommitSHA": "d936b8e09728e063274a49f65d15ea17c4b08ba9",
-      "LastCommitAt": "2023-08-20T17:05:34Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
