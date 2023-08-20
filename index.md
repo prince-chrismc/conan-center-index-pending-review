@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **194** pull requests currently under way :detective:
+There are **193** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -218,8 +218,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19296](https://github.com/conan-io/conan-center-index/pull/19296)|[valgur](https://github.com/valgur)|Aug 19|:memo: arrow|L|0|||
 [#19297](https://github.com/conan-io/conan-center-index/pull/19297)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 19|:gear: .c3i|:blue_square: S|1|Aug 20||SSE4
 [#19307](https://github.com/conan-io/conan-center-index/pull/19307)|[mayeut](https://github.com/mayeut)|Aug 20|:memo: onnxruntime|M|0|||
-[#19308](https://github.com/conan-io/conan-center-index/pull/19308)|[valgur](https://github.com/valgur)|Aug 20|:stopwatch: proj|:green_circle: XS|0|||
-[#19310](https://github.com/conan-io/conan-center-index/pull/19310)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 20|:gear: .c3i|:blue_square: S|0|||
+[#19310](https://github.com/conan-io/conan-center-index/pull/19310)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 20|:gear: .c3i|:blue_square: S|1|Aug 20||SSE4
 [#19311](https://github.com/conan-io/conan-center-index/pull/19311)|[gjasny](https://github.com/gjasny)|Aug 20|:memo: binutils|M|0|||
 
 
@@ -242,10 +241,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 479
+	- Open: 480
 	- Draft: 56
-	- Average Age: 69 days, 22 hours, and 40.29 minutes
-	- Stop Label: 201
+	- Average Age: 69 days, 23 hours, and 48.53 minutes
+	- Stop Label: 203
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
