@@ -4494,5 +4494,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19316,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-20T22:23:39Z",
+      "Recipe": "svgwrite",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19316",
+      "LastCommitSHA": "9e83e6b6e195280088fc9c111c9fa77dd12cd19d",
+      "LastCommitAt": "2023-08-20T22:23:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
