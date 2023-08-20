@@ -1658,25 +1658,6 @@
       }
    },
    {
-      "Number": 18415,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-07-08T09:43:06Z",
-      "Recipe": "doxygen",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18415",
-      "LastCommitSHA": "7f8a6df54dee5df050d8e336d9a470021b132008",
-      "LastCommitAt": "2023-08-20T07:56:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18416,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-07-08T09:55:50Z",
@@ -4379,63 +4360,6 @@
       "LastCommitSHA": "dc26d36e6ea51b2b2b309dae71439b2361dae278",
       "LastCommitAt": "2023-08-19T23:17:28Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19304,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-20T05:00:56Z",
-      "Recipe": "wt",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19304",
-      "LastCommitSHA": "cd078a6a7a0c61d419c9fc82e425e6ceff967e50",
-      "LastCommitAt": "2023-08-20T05:00:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19305,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-08-20T06:54:17Z",
-      "Recipe": "libspatialite",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19305",
-      "LastCommitSHA": "701921efece1ed1d00833b4fa20d7c295e61faf4",
-      "LastCommitAt": "2023-08-20T06:53:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19306,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-20T07:44:13Z",
-      "Recipe": "trantor",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19306",
-      "LastCommitSHA": "7166ea0db4ef778458d36501c7e5afdb62e457c9",
-      "LastCommitAt": "2023-08-20T07:43:37Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
