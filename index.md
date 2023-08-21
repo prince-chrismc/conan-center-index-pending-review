@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -193,15 +193,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19218](https://github.com/conan-io/conan-center-index/pull/19218)|[hedtke](https://github.com/hedtke)|Aug 16|:new: yoga|M|1|Aug 17||
 [#19226](https://github.com/conan-io/conan-center-index/pull/19226)|[db4](https://github.com/db4)|Aug 16|:memo: pixman|M|0|:eyes:||
 [#19230](https://github.com/conan-io/conan-center-index/pull/19230)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: openjpeg|M|0|:eyes:||
-[#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:stopwatch: quictls-openssl|XL|0|:eyes:||
+[#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|:eyes:||
 [#19235](https://github.com/conan-io/conan-center-index/pull/19235)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 16|:memo: onetbb|:green_circle: XS|0|:eyes:||
 [#19238](https://github.com/conan-io/conan-center-index/pull/19238)|[valgur](https://github.com/valgur)|Aug 17|:memo: ftjam|L|0|:eyes:||
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:stopwatch: pro-mdnsd|L|1|Aug 21||[steinerthomas](https://github.com/steinerthomas)
 [#19251](https://github.com/conan-io/conan-center-index/pull/19251)|[valgur](https://github.com/valgur)|Aug 17|:stopwatch: boost|L|1|Aug 19||
 [#19253](https://github.com/conan-io/conan-center-index/pull/19253)|[valgur](https://github.com/valgur)|Aug 17|:memo: co|L|0|:eyes:||
 [#19267](https://github.com/conan-io/conan-center-index/pull/19267)|[valgur](https://github.com/valgur)|Aug 18|:memo: rpclib|L|1|Aug 21||RubenRBS
-[#19268](https://github.com/conan-io/conan-center-index/pull/19268)|[valgur](https://github.com/valgur)|Aug 18|:memo: duktape|L|0|:eyes:||
-[#19274](https://github.com/conan-io/conan-center-index/pull/19274)|[toge](https://github.com/toge)|Aug 18|:memo: zlib|L|0|:eyes:||
+[#19268](https://github.com/conan-io/conan-center-index/pull/19268)|[valgur](https://github.com/valgur)|Aug 18|:memo: duktape|L|1|Aug 21||RubenRBS
 [#19280](https://github.com/conan-io/conan-center-index/pull/19280)|[gegles](https://github.com/gegles)|Aug 19|:memo: lyra|M|3|Aug 21||RubenRBS
 [#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:memo: libhal|L|1|Aug 21||RubenRBS
 [#19283](https://github.com/conan-io/conan-center-index/pull/19283)|[gegles](https://github.com/gegles)|Aug 19|:memo: spdlog|:green_circle: XS|0|||
@@ -232,11 +231,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
+- Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
 	- Open: 468
 	- Draft: 56
-	- Average Age: 72 days, 13 hours, and 38.09 minutes
+	- Average Age: 72 days, 14 hours, and 37.82 minutes
 	- Stop Label: 201
 	
 
