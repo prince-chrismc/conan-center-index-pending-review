@@ -1998,6 +1998,25 @@
       }
    },
    {
+      "Number": 18595,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-07-17T13:58:55Z",
+      "Recipe": "xnnpack",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18595",
+      "LastCommitSHA": "493c65e6ca64f29352a7a03bfe48ec1748e9aaf5",
+      "LastCommitAt": "2023-08-21T00:22:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18596,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-17T14:09:50Z",
@@ -4534,15 +4553,15 @@
       }
    },
    {
-      "Number": 19319,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-21T00:20:47Z",
-      "Recipe": "mbits-diags",
+      "Number": 19320,
+      "OpenedBy": "gegles",
+      "CreatedAt": "2023-08-21T01:31:02Z",
+      "Recipe": "lyra",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19319",
-      "LastCommitSHA": "39dcea1afaf8d860c3a3fe7a1b5d695d1f52d297",
-      "LastCommitAt": "2023-08-21T00:16:34Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19320",
+      "LastCommitSHA": "94d2a1fef0b76e2d0aeaa15e08425e8d9ded2a1f",
+      "LastCommitAt": "2023-08-21T01:27:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
