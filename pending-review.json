@@ -2808,6 +2808,25 @@
       }
    },
    {
+      "Number": 18832,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-22T20:55:59Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18832",
+      "LastCommitSHA": "36091ba3e4919442d3c22896e2fa60fe6eda0c9d",
+      "LastCommitAt": "2023-08-21T13:09:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18842,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-23T12:47:54Z",
@@ -3281,17 +3300,22 @@
       "LastCommitAt": "2023-08-21T14:46:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 0,
+         "Count": 10,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
+         ],
          "Blockers": [
             "uilianries"
          ],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-08-21T11:34:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18990#pullrequestreview-1586792060"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-08-21T16:21:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18990#pullrequestreview-1587406515"
          }
       }
    },
@@ -4130,7 +4154,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19274",
       "LastCommitSHA": "cdb9513c17adae60fa1ebf066d8c53f0c7bdc391",
       "LastCommitAt": "2023-08-18T15:49:01Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4383,6 +4407,44 @@
       "LastCommitSHA": "4cc6100f8b1e64579b366f03b76cc5cdbd1a15d0",
       "LastCommitAt": "2023-08-21T06:24:47Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19327,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2023-08-21T16:39:20Z",
+      "Recipe": "gdcm",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19327",
+      "LastCommitSHA": "7414896ca2469ad46ad8c2c36ec707a98a844637",
+      "LastCommitAt": "2023-08-21T16:36:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19328,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-21T16:52:44Z",
+      "Recipe": "drogon",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19328",
+      "LastCommitSHA": "5b4224b95adaeb92411cb160b5c14e2ce0a0e473",
+      "LastCommitAt": "2023-08-21T02:29:30Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
