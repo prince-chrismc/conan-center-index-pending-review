@@ -193,7 +193,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19218](https://github.com/conan-io/conan-center-index/pull/19218)|[hedtke](https://github.com/hedtke)|Aug 16|:new: yoga|M|1|Aug 17||
 [#19226](https://github.com/conan-io/conan-center-index/pull/19226)|[db4](https://github.com/db4)|Aug 16|:memo: pixman|M|0|:eyes:||
 [#19230](https://github.com/conan-io/conan-center-index/pull/19230)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: openjpeg|M|0|:eyes:||
-[#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|:eyes:||
+[#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:stopwatch: quictls-openssl|XL|0|:eyes:||
 [#19235](https://github.com/conan-io/conan-center-index/pull/19235)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 16|:memo: onetbb|:green_circle: XS|0|:eyes:||
 [#19238](https://github.com/conan-io/conan-center-index/pull/19238)|[valgur](https://github.com/valgur)|Aug 17|:memo: ftjam|L|0|:eyes:||
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:stopwatch: pro-mdnsd|L|1|Aug 21||[steinerthomas](https://github.com/steinerthomas)
@@ -234,9 +234,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 467
-	- Draft: 55
-	- Average Age: 72 days, 16 hours, and 23.74 minutes
+	- Open: 468
+	- Draft: 56
+	- Average Age: 72 days, 13 hours, and 38.09 minutes
 	- Stop Label: 201
 	
 
