@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **196** pull requests currently under way :detective:
+There are **197** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -217,6 +217,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19294](https://github.com/conan-io/conan-center-index/pull/19294)|[avsej](https://github.com/avsej)|Aug 19|:memo: taocpp-json|:green_circle: XS|0|||
 [#19296](https://github.com/conan-io/conan-center-index/pull/19296)|[valgur](https://github.com/valgur)|Aug 19|:memo: arrow|L|0|||
 [#19297](https://github.com/conan-io/conan-center-index/pull/19297)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 19|:gear: .c3i|:blue_square: S|1|Aug 20||SSE4
+[#19306](https://github.com/conan-io/conan-center-index/pull/19306)|[toge](https://github.com/toge)|Aug 20|:memo: trantor|:blue_square: S|0|||
 [#19307](https://github.com/conan-io/conan-center-index/pull/19307)|[mayeut](https://github.com/mayeut)|Aug 20|:memo: onnxruntime|M|0|||
 [#19310](https://github.com/conan-io/conan-center-index/pull/19310)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 20|:gear: .c3i|:blue_square: S|1|Aug 20||SSE4
 [#19311](https://github.com/conan-io/conan-center-index/pull/19311)|[gjasny](https://github.com/gjasny)|Aug 20|:memo: binutils|M|0|||
@@ -246,8 +247,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 484
 	- Draft: 56
-	- Average Age: 69 days, 19 hours, and 27.52 minutes
-	- Stop Label: 205
+	- Average Age: 69 days, 19 hours, and 34.15 minutes
+	- Stop Label: 204
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
