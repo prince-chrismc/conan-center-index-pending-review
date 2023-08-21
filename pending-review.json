@@ -4562,7 +4562,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19320",
       "LastCommitSHA": "94d2a1fef0b76e2d0aeaa15e08425e8d9ded2a1f",
       "LastCommitAt": "2023-08-21T01:27:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4579,6 +4579,25 @@
             "SubmittedAt": "2023-08-21T01:46:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19320#pullrequestreview-1586054678"
          }
+      }
+   },
+   {
+      "Number": 19321,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-21T02:33:11Z",
+      "Recipe": "mbits-lngs",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19321",
+      "LastCommitSHA": "db667862f395a50919940919d8922c0cf9095f28",
+      "LastCommitAt": "2023-08-21T02:32:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
