@@ -4410,6 +4410,25 @@
       }
    },
    {
+      "Number": 19306,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-20T07:44:13Z",
+      "Recipe": "trantor",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19306",
+      "LastCommitSHA": "e49104da322b3a99db71b65202aa250cdd37e9d5",
+      "LastCommitAt": "2023-08-20T22:03:52Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19307,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-08-20T08:05:08Z",
