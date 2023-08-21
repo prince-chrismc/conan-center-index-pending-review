@@ -2019,11 +2019,21 @@
       "LastCommitAt": "2023-08-21T00:22:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-08-21T11:57:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18595#pullrequestreview-1586829046"
+         }
       }
    },
    {
@@ -3248,32 +3258,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 18990,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2023-07-31T15:17:09Z",
-      "Recipe": "newmat",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18990",
-      "LastCommitSHA": "a988bb9efd71c04310fceda50c2ac5fbdeb0d246",
-      "LastCommitAt": "2023-08-19T23:19:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "uilianries"
-         ],
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-08-17T14:38:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18990#pullrequestreview-1582722458"
-         }
       }
    },
    {
