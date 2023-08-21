@@ -1949,7 +1949,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18580",
       "LastCommitSHA": "749859192dda36860700c8a84231963b176a07f7",
       "LastCommitAt": "2023-08-21T05:49:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2900,9 +2900,9 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18895",
-      "LastCommitSHA": "2c466323f13d86498011264659cd995210a8cb9c",
-      "LastCommitAt": "2023-08-07T16:14:36Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "b08d8a925ccf6de89173bd7eac03d759256d9ce2",
+      "LastCommitAt": "2023-08-21T06:36:30Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 3,
@@ -3972,11 +3972,21 @@
       "LastCommitAt": "2023-08-01T16:46:34Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "steinerthomas",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "steinerthomas",
+            "SubmittedAt": "2023-08-21T06:43:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19239#pullrequestreview-1586301909"
+         }
       }
    },
    {
@@ -4593,6 +4603,25 @@
             "SubmittedAt": "2023-08-21T01:46:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19320#pullrequestreview-1586054678"
          }
+      }
+   },
+   {
+      "Number": 19322,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-08-21T06:19:56Z",
+      "Recipe": "pupnp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19322",
+      "LastCommitSHA": "4cc6100f8b1e64579b366f03b76cc5cdbd1a15d0",
+      "LastCommitAt": "2023-08-21T06:24:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
