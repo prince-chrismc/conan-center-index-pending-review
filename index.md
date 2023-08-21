@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **198** pull requests currently under way :detective:
+There are **199** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -224,7 +224,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19311](https://github.com/conan-io/conan-center-index/pull/19311)|[gjasny](https://github.com/gjasny)|Aug 20|:memo: binutils|M|0|||
 [#19313](https://github.com/conan-io/conan-center-index/pull/19313)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 20|:gear: .c3i|:blue_square: S|0|||
 [#19318](https://github.com/conan-io/conan-center-index/pull/19318)|[toge](https://github.com/toge)|Aug 20|:memo: sbepp|:green_circle: XS|0|||
-[#19320](https://github.com/conan-io/conan-center-index/pull/19320)|[gegles](https://github.com/gegles)|Aug 21|:stopwatch: lyra|:green_circle: XS|1|Aug 21||[grafikrobot](https://github.com/grafikrobot)
+[#19320](https://github.com/conan-io/conan-center-index/pull/19320)|[gegles](https://github.com/gegles)|Aug 21|:memo: lyra|:green_circle: XS|1|Aug 21||[grafikrobot](https://github.com/grafikrobot)
+[#19321](https://github.com/conan-io/conan-center-index/pull/19321)|[toge](https://github.com/toge)|Aug 21|:stopwatch: mbits-lngs|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -246,9 +247,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 66cbe85a37a3b84d199a69c643eb71ee3b9719de
 - Pull Requests:
-	- Open: 484
+	- Open: 485
 	- Draft: 56
-	- Average Age: 69 days, 20 hours, and 57.21 minutes
+	- Average Age: 69 days, 18 hours, and 26.34 minutes
 	- Stop Label: 203
 	
 
