@@ -201,7 +201,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -211,7 +211,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18391](https://github.com/conan-io/conan-center-index/pull/18391)|[fcorso2016](https://github.com/fcorso2016)|Jul 6|:warning: onnxruntime|6|danimtb, [Hopobcn](https://github.com/Hopobcn), jwillikers, jcar87
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|4|memsharded, jwillikers
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:warning: rmm|2|uilianries, toge
-[#19322](https://github.com/conan-io/conan-center-index/pull/19322)|[valgur](https://github.com/valgur)|Aug 21|:memo: pupnp|2|RubenRBS, czoido
 [#19328](https://github.com/conan-io/conan-center-index/pull/19328)|[toge](https://github.com/toge)|Aug 21|:memo: drogon|4|RubenRBS, jcar87, czoido
 [#19331](https://github.com/conan-io/conan-center-index/pull/19331)|[toge](https://github.com/toge)|Aug 22|:memo: sophus|2|RubenRBS, jwillikers
 [#19333](https://github.com/conan-io/conan-center-index/pull/19333)|[MartinDelille](https://github.com/MartinDelille)|Aug 22|:memo: rtmidi|2|RubenRBS, jwillikers
@@ -225,8 +224,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 459
 	- Draft: 55
-	- Average Age: 71 days, 11 hours, and 24.81 minutes
-	- Stop Label: 201
+	- Average Age: 71 days, 12 hours, and 22.69 minutes
+	- Stop Label: 202
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
