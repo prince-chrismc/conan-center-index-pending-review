@@ -3202,39 +3202,6 @@
       }
    },
    {
-      "Number": 19032,
-      "OpenedBy": "klausholstjacobsen",
-      "CreatedAt": "2023-08-03T12:38:08Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19032",
-      "LastCommitSHA": "49464df3378de03523c98bed0dce72e928d927b0",
-      "LastCommitAt": "2023-08-03T17:15:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jcar87",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-08-22T08:21:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19032#pullrequestreview-1588785075"
-         }
-      }
-   },
-   {
       "Number": 19037,
       "OpenedBy": "uilianries",
       "CreatedAt": "2023-08-04T08:27:20Z",
@@ -4005,7 +3972,7 @@
       "LastCommitAt": "2023-08-19T05:48:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -4018,9 +3985,9 @@
             "jcar87"
          ],
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-08-22T08:25:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19281#pullrequestreview-1588793271"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-08-22T13:16:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19281#pullrequestreview-1589413958"
          }
       }
    },
