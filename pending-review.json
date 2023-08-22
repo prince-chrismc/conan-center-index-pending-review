@@ -3172,39 +3172,6 @@
       }
    },
    {
-      "Number": 19066,
-      "OpenedBy": "holger-detering",
-      "CreatedAt": "2023-08-06T12:07:52Z",
-      "Recipe": "aws-c-cal",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19066",
-      "LastCommitSHA": "2aa157d4496c2a433959a633a117d8d344718519",
-      "LastCommitAt": "2023-08-08T11:44:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-08-22T09:23:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19066#pullrequestreview-1588960031"
-         }
-      }
-   },
-   {
       "Number": 19070,
       "OpenedBy": "Tradias",
       "CreatedAt": "2023-08-06T14:50:33Z",
@@ -4188,15 +4155,34 @@
       }
    },
    {
-      "Number": 19337,
-      "OpenedBy": "igormironchik",
-      "CreatedAt": "2023-08-22T14:58:16Z",
-      "Recipe": "md4qt",
+      "Number": 19338,
+      "OpenedBy": "pgeler",
+      "CreatedAt": "2023-08-22T15:30:37Z",
+      "Recipe": "grpc",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19337",
-      "LastCommitSHA": "59383ba91bdd43027d70a1b1e96f6dd94c5e1430",
-      "LastCommitAt": "2023-08-22T14:56:55Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19338",
+      "LastCommitSHA": "60860a3c02099d079e850cfd983b6edb3a6a17c7",
+      "LastCommitAt": "2023-08-22T15:26:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19339,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2023-08-22T15:45:57Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19339",
+      "LastCommitSHA": "7e50ff365529f91d4801b398da7e2c29cc9207dd",
+      "LastCommitAt": "2023-08-22T15:28:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
