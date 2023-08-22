@@ -3221,32 +3221,6 @@
       }
    },
    {
-      "Number": 18990,
-      "OpenedBy": "AndreyMlashkin",
-      "CreatedAt": "2023-07-31T15:17:09Z",
-      "Recipe": "newmat",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18990",
-      "LastCommitSHA": "821e8af403ce1fdc9c8223e224f97e778216837b",
-      "LastCommitAt": "2023-08-22T05:37:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 11,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "uilianries"
-         ],
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-21T23:11:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18990#pullrequestreview-1588033532"
-         }
-      }
-   },
-   {
       "Number": 19001,
       "OpenedBy": "klausholstjacobsen",
       "CreatedAt": "2023-08-01T11:26:29Z",
