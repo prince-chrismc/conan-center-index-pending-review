@@ -3833,39 +3833,6 @@
       }
    },
    {
-      "Number": 19322,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-08-21T06:19:56Z",
-      "Recipe": "pupnp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19322",
-      "LastCommitSHA": "4cc6100f8b1e64579b366f03b76cc5cdbd1a15d0",
-      "LastCommitAt": "2023-08-21T06:24:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-08-22T08:41:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19322#pullrequestreview-1588835926"
-         }
-      }
-   },
-   {
       "Number": 19327,
       "OpenedBy": "Nekto89",
       "CreatedAt": "2023-08-21T16:39:20Z",
