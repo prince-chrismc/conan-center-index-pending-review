@@ -4304,24 +4304,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19328#pullrequestreview-1587782821"
          }
       }
-   },
-   {
-      "Number": 19329,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-08-21T19:59:27Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19329",
-      "LastCommitSHA": "3f3e037511a0476fafaabecc739f021cb2f04289",
-      "LastCommitAt": "2023-08-21T19:58:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
