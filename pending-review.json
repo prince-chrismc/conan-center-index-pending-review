@@ -3906,24 +3906,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 19373,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-08-23T19:01:24Z",
-      "Recipe": "brunsli",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19373",
-      "LastCommitSHA": "c3c36873dc65ccf8b9526e40bf1a4d65fc378700",
-      "LastCommitAt": "2023-08-23T18:57:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
