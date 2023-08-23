@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **175** pull requests currently under way :detective:
+There are **173** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -75,7 +75,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18180](https://github.com/conan-io/conan-center-index/pull/18180)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: aravis|:blue_square: S|1|Jul 20 :bell:||
 [#18192](https://github.com/conan-io/conan-center-index/pull/18192)|[valgur](https://github.com/valgur)|Jun 30|:stopwatch: atk|:blue_square: S|1|Aug 19|RubenRBS|
 [#18193](https://github.com/conan-io/conan-center-index/pull/18193)|[valgur](https://github.com/valgur)|Jun 30|:memo: audiofile|M|0|:eyes:||
-[#18215](https://github.com/conan-io/conan-center-index/pull/18215)|[ngrodzitski](https://github.com/ngrodzitski)|Jun 30|:memo: sobjectizer|L|7|Aug 22|uilianries|[valgur](https://github.com/valgur), SSE4
+[#18215](https://github.com/conan-io/conan-center-index/pull/18215)|[ngrodzitski](https://github.com/ngrodzitski)|Jun 30|:memo: sobjectizer|L|8|Aug 23|uilianries|[valgur](https://github.com/valgur), SSE4
 [#18219](https://github.com/conan-io/conan-center-index/pull/18219)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 30|:memo: libarchive|L|1|Aug 10 :bell:||MartinDelille
 [#18245](https://github.com/conan-io/conan-center-index/pull/18245)|[valgur](https://github.com/valgur)|Jul 1|:memo: st_tree|L|0|:eyes:||
 [#18253](https://github.com/conan-io/conan-center-index/pull/18253)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: kitten|L|0|:eyes:||
@@ -197,9 +197,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19348](https://github.com/conan-io/conan-center-index/pull/19348)|[gegles](https://github.com/gegles)|Aug 22|:memo: date|:green_circle: XS|0|||
 [#19350](https://github.com/conan-io/conan-center-index/pull/19350)|[wadehunk](https://github.com/wadehunk)|Aug 22|:memo: acl|:green_circle: XS|0|||
 [#19351](https://github.com/conan-io/conan-center-index/pull/19351)|[gegles](https://github.com/gegles)|Aug 22|:stopwatch: boost|:green_circle: XS|0|||
-[#19356](https://github.com/conan-io/conan-center-index/pull/19356)|[toge](https://github.com/toge)|Aug 23|:stopwatch: cimg|:blue_square: S|0|||
-[#19357](https://github.com/conan-io/conan-center-index/pull/19357)|[toge](https://github.com/toge)|Aug 23|:stopwatch: simdjson|:green_circle: XS|0|||
-[#19358](https://github.com/conan-io/conan-center-index/pull/19358)|[toge](https://github.com/toge)|Aug 23|:stopwatch: cpp-httplib|:green_circle: XS|0|||
+[#19356](https://github.com/conan-io/conan-center-index/pull/19356)|[toge](https://github.com/toge)|Aug 23|:memo: cimg|:blue_square: S|0|||
 [#19359](https://github.com/conan-io/conan-center-index/pull/19359)|[toge](https://github.com/toge)|Aug 23|:stopwatch: drogon|:green_circle: XS|0|||
 [#19360](https://github.com/conan-io/conan-center-index/pull/19360)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 23|:gear: .c3i|:green_circle: XS|0|||
 
@@ -223,9 +221,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 462
+	- Open: 461
 	- Draft: 55
-	- Average Age: 71 days, 5 hours, and 35.80 minutes
+	- Average Age: 71 days, 10 hours, and 19.84 minutes
 	- Stop Label: 205
 	
 
