@@ -2053,7 +2053,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18717",
       "LastCommitSHA": "dbdf6657975aa4efccaba43949ce6dd44022b1f6",
       "LastCommitAt": "2023-08-23T15:33:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2817,9 +2817,9 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18968",
-      "LastCommitSHA": "d6c508c2052d914486ec664c12c69f50e46eb8af",
-      "LastCommitAt": "2023-08-23T09:14:12Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "2bd59d94a838ee48f9695a076d56460da43f7427",
+      "LastCommitAt": "2023-08-23T20:31:32Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
          "ValidApprovals": 1,
@@ -3751,35 +3751,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-08-23T13:29:19Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19346#pullrequestreview-1591605925"
-         }
-      }
-   },
-   {
-      "Number": 19350,
-      "OpenedBy": "wadehunk",
-      "CreatedAt": "2023-08-22T20:20:50Z",
-      "Recipe": "acl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19350",
-      "LastCommitSHA": "2a1bde9b09d965da4432eaaf9c696099c7a65c03",
-      "LastCommitAt": "2023-08-23T13:21:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2023-08-23T13:39:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19350#pullrequestreview-1591631915"
          }
       }
    },
