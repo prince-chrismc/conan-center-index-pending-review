@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **171** pull requests currently under way :detective:
+There are **174** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -193,11 +193,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19339](https://github.com/conan-io/conan-center-index/pull/19339)|[jwillikers](https://github.com/jwillikers)|Aug 22|:stopwatch: qt|:green_circle: XS|0|||
 [#19341](https://github.com/conan-io/conan-center-index/pull/19341)|[holger-detering](https://github.com/holger-detering)|Aug 22|:memo: aws-c-io|:blue_square: S|0|||
 [#19344](https://github.com/conan-io/conan-center-index/pull/19344)|[vbieleny](https://github.com/vbieleny)|Aug 22|:stopwatch: microprofile|:green_circle: XS|0|||
-[#19345](https://github.com/conan-io/conan-center-index/pull/19345)|[gegles](https://github.com/gegles)|Aug 22|:memo: expected-lite|:blue_square: S|0|||
+[#19345](https://github.com/conan-io/conan-center-index/pull/19345)|[gegles](https://github.com/gegles)|Aug 22|:stopwatch: expected-lite|:blue_square: S|0|||
 [#19348](https://github.com/conan-io/conan-center-index/pull/19348)|[gegles](https://github.com/gegles)|Aug 22|:memo: date|:green_circle: XS|0|||
 [#19350](https://github.com/conan-io/conan-center-index/pull/19350)|[wadehunk](https://github.com/wadehunk)|Aug 22|:memo: acl|:green_circle: XS|0|||
 [#19351](https://github.com/conan-io/conan-center-index/pull/19351)|[gegles](https://github.com/gegles)|Aug 22|:stopwatch: boost|:green_circle: XS|0|||
-[#19353](https://github.com/conan-io/conan-center-index/pull/19353)|[toge](https://github.com/toge)|Aug 22|:stopwatch: glaze|:green_circle: XS|0|||
+[#19354](https://github.com/conan-io/conan-center-index/pull/19354)|[toge](https://github.com/toge)|Aug 22|:stopwatch: trantor|:green_circle: XS|0|||
+[#19355](https://github.com/conan-io/conan-center-index/pull/19355)|[toge](https://github.com/toge)|Aug 22|:stopwatch: perfetto|L|0|||
+[#19356](https://github.com/conan-io/conan-center-index/pull/19356)|[toge](https://github.com/toge)|Aug 23|:stopwatch: cimg|:blue_square: S|0|||
+[#19357](https://github.com/conan-io/conan-center-index/pull/19357)|[toge](https://github.com/toge)|Aug 23|:stopwatch: simdjson|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -219,10 +222,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 459
+	- Open: 461
 	- Draft: 55
-	- Average Age: 71 days, 12 hours, and 46.90 minutes
-	- Stop Label: 205
+	- Average Age: 71 days, 6 hours, and 52.60 minutes
+	- Stop Label: 204
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
