@@ -1264,7 +1264,7 @@
       "LastCommitAt": "2023-08-07T15:18:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
+         "Count": 8,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -1281,9 +1281,9 @@
             "uilianries"
          ],
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-08-22T13:35:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18215#pullrequestreview-1589464911"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-08-23T03:29:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18215#pullrequestreview-1590695967"
          }
       }
    },
@@ -3963,45 +3963,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19356",
       "LastCommitSHA": "416d32fa4656083102dafcd054eec40c09948fd6",
       "LastCommitAt": "2023-08-23T00:10:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19357,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-23T00:39:45Z",
-      "Recipe": "simdjson",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19357",
-      "LastCommitSHA": "9d617e3460056b562617a12910ae3b35adeb87e8",
-      "LastCommitAt": "2023-08-23T00:39:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19358,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-23T01:30:03Z",
-      "Recipe": "cpp-httplib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19358",
-      "LastCommitSHA": "d01a66b4b57d4a465d635f7c2326db6f37e0f731",
-      "LastCommitAt": "2023-08-23T01:29:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
