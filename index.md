@@ -148,7 +148,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18924](https://github.com/conan-io/conan-center-index/pull/18924)|[Xav83](https://github.com/Xav83)|Jul 27|:stopwatch: crc_cpp|:green_circle: XS|0|:eyes:||
 [#18926](https://github.com/conan-io/conan-center-index/pull/18926)|[valgur](https://github.com/valgur)|Jul 27|:memo: hdf4|L|0|:eyes:||
 [#18929](https://github.com/conan-io/conan-center-index/pull/18929)|[ibosnic00](https://github.com/ibosnic00)|Jul 27|:stopwatch: protobuf|:green_circle: XS|0|:eyes:||
-[#18933](https://github.com/conan-io/conan-center-index/pull/18933)|[holger-detering](https://github.com/holger-detering)|Jul 27|:memo: caf|M|1|Jul 29 :bell:||
+[#18933](https://github.com/conan-io/conan-center-index/pull/18933)|[holger-detering](https://github.com/holger-detering)|Jul 27|:memo: caf|M|2|Aug 23||RubenRBS
 [#18941](https://github.com/conan-io/conan-center-index/pull/18941)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: libnetfilter_conntrack|L|0|:eyes:||
 [#18942](https://github.com/conan-io/conan-center-index/pull/18942)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: libnetfilter_queue|L|0|:eyes:||
 [#18945](https://github.com/conan-io/conan-center-index/pull/18945)|[valgur](https://github.com/valgur)|Jul 28|:memo: i2c-tools|L|0|:eyes:||
@@ -221,9 +221,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 458
+	- Open: 457
 	- Draft: 55
-	- Average Age: 71 days, 23 hours, and 37.13 minutes
+	- Average Age: 72 days, 4 hours, and 20.80 minutes
 	- Stop Label: 202
 	
 
