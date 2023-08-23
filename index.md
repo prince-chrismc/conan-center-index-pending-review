@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **173** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -195,7 +195,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19344](https://github.com/conan-io/conan-center-index/pull/19344)|[vbieleny](https://github.com/vbieleny)|Aug 22|:stopwatch: microprofile|:green_circle: XS|0|||
 [#19345](https://github.com/conan-io/conan-center-index/pull/19345)|[gegles](https://github.com/gegles)|Aug 22|:stopwatch: expected-lite|:blue_square: S|0|||
 [#19348](https://github.com/conan-io/conan-center-index/pull/19348)|[gegles](https://github.com/gegles)|Aug 22|:memo: date|:green_circle: XS|0|||
-[#19350](https://github.com/conan-io/conan-center-index/pull/19350)|[wadehunk](https://github.com/wadehunk)|Aug 22|:memo: acl|:green_circle: XS|0|||
 [#19351](https://github.com/conan-io/conan-center-index/pull/19351)|[gegles](https://github.com/gegles)|Aug 22|:stopwatch: boost|:green_circle: XS|0|||
 [#19356](https://github.com/conan-io/conan-center-index/pull/19356)|[toge](https://github.com/toge)|Aug 23|:memo: cimg|:blue_square: S|0|||
 [#19359](https://github.com/conan-io/conan-center-index/pull/19359)|[toge](https://github.com/toge)|Aug 23|:stopwatch: drogon|:green_circle: XS|0|||
@@ -221,10 +220,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 460
+	- Open: 459
 	- Draft: 55
-	- Average Age: 71 days, 15 hours, and 0.31 minutes
-	- Stop Label: 205
+	- Average Age: 71 days, 18 hours, and 1.35 minutes
+	- Stop Label: 204
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
