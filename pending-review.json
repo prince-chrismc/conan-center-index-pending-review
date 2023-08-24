@@ -3794,39 +3794,6 @@
       }
    },
    {
-      "Number": 19351,
-      "OpenedBy": "gegles",
-      "CreatedAt": "2023-08-22T20:20:54Z",
-      "Recipe": "boost",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19351",
-      "LastCommitSHA": "6f04041f95c8914dec90535211599aad5ad16321",
-      "LastCommitAt": "2023-08-22T20:17:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "jcar87",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-08-24T08:48:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19351#pullrequestreview-1593096882"
-         }
-      }
-   },
-   {
       "Number": 19365,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-08-23T10:08:18Z",
@@ -3934,20 +3901,24 @@
       "LastCommitAt": "2023-08-24T04:59:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "jcar87",
                "Tier": "team"
+            },
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-08-24T08:46:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19375#pullrequestreview-1593093671"
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-08-24T10:04:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19375#pullrequestreview-1593234600"
          }
       }
    },
