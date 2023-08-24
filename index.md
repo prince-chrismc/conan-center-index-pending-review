@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -190,6 +190,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19345](https://github.com/conan-io/conan-center-index/pull/19345)|[gegles](https://github.com/gegles)|Aug 22|:memo: expected-lite|:green_circle: XS|0|||
 [#19346](https://github.com/conan-io/conan-center-index/pull/19346)|[fpelliccioni](https://github.com/fpelliccioni)|Aug 22|:memo: gmp|:blue_square: S|2|Aug 23||RubenRBS
 [#19351](https://github.com/conan-io/conan-center-index/pull/19351)|[gegles](https://github.com/gegles)|Aug 22|:memo: boost|:green_circle: XS|1|Aug 23||jwillikers
+[#19365](https://github.com/conan-io/conan-center-index/pull/19365)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 23|:memo: qt|:blue_square: S|1|Aug 23||jwillikers
 [#19367](https://github.com/conan-io/conan-center-index/pull/19367)|[holger-detering](https://github.com/holger-detering)|Aug 23|:stopwatch: aws-c-http|:blue_square: S|0|||
 [#19368](https://github.com/conan-io/conan-center-index/pull/19368)|[holger-detering](https://github.com/holger-detering)|Aug 23|:memo: aws-c-event-stream|:blue_square: S|0|||
 [#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|0|||
@@ -218,8 +219,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 456
 	- Draft: 55
-	- Average Age: 72 days, 21 hours, and 17.54 minutes
-	- Stop Label: 207
+	- Average Age: 72 days, 22 hours, and 13.14 minutes
+	- Stop Label: 206
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
