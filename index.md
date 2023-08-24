@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **166** pull requests currently under way :detective:
+There are **164** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -189,15 +189,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|2|Aug 24||[valgur](https://github.com/valgur)
 [#19377](https://github.com/conan-io/conan-center-index/pull/19377)|[toge](https://github.com/toge)|Aug 24|:memo: simdutf|:blue_square: S|1|Aug 24||RubenRBS
 [#19382](https://github.com/conan-io/conan-center-index/pull/19382)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 24|:gear: .c3i|:green_circle: XS|1|Aug 24||RubenRBS
-[#19391](https://github.com/conan-io/conan-center-index/pull/19391)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: libvips|:blue_square: S|0|||
 [#19394](https://github.com/conan-io/conan-center-index/pull/19394)|[uilianries](https://github.com/uilianries)|Aug 24|:memo: nasm|:blue_square: S|1|Aug 24||RubenRBS
 [#19395](https://github.com/conan-io/conan-center-index/pull/19395)|[toge](https://github.com/toge)|Aug 24|:stopwatch: sqlite3|:green_circle: XS|0|||
-[#19396](https://github.com/conan-io/conan-center-index/pull/19396)|[igormironchik](https://github.com/igormironchik)|Aug 24|:stopwatch: md4qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -207,8 +205,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18717](https://github.com/conan-io/conan-center-index/pull/18717)|[valgur](https://github.com/valgur)|Jul 20|:warning: rectanglebinpack|3|uilianries, jwillikers
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|4|memsharded, jwillikers
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:warning: rmm|2|uilianries, toge
-[#19346](https://github.com/conan-io/conan-center-index/pull/19346)|[fpelliccioni](https://github.com/fpelliccioni)|Aug 22|:memo: gmp|3|RubenRBS, jwillikers
-[#19365](https://github.com/conan-io/conan-center-index/pull/19365)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 23|:memo: qt|3|jwillikers, MartinDelille, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -217,10 +213,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 467
-	- Draft: 58
-	- Average Age: 71 days, 17 hours, and 1.29 minutes
-	- Stop Label: 210
+	- Open: 466
+	- Draft: 60
+	- Average Age: 71 days, 21 hours, and 35.74 minutes
+	- Stop Label: 211
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
