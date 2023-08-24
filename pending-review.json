@@ -3894,25 +3894,6 @@
       }
    },
    {
-      "Number": 19370,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-08-23T16:38:52Z",
-      "Recipe": "glib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19370",
-      "LastCommitSHA": "873c832866bc1cc357afdbbe79e3eed7663a7762",
-      "LastCommitAt": "2023-08-09T01:33:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19371,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-08-23T17:05:18Z",
