@@ -193,8 +193,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19365](https://github.com/conan-io/conan-center-index/pull/19365)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 23|:memo: qt|:blue_square: S|1|Aug 23||jwillikers
 [#19367](https://github.com/conan-io/conan-center-index/pull/19367)|[holger-detering](https://github.com/holger-detering)|Aug 23|:stopwatch: aws-c-http|:blue_square: S|0|||
 [#19368](https://github.com/conan-io/conan-center-index/pull/19368)|[holger-detering](https://github.com/holger-detering)|Aug 23|:memo: aws-c-event-stream|:blue_square: S|0|||
-[#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|0|||
 [#19371](https://github.com/conan-io/conan-center-index/pull/19371)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 23|:gear: .c3i|:green_circle: XS|0|||
+[#19375](https://github.com/conan-io/conan-center-index/pull/19375)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 24|:gear: .c3i|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -216,9 +216,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 456
+	- Open: 457
 	- Draft: 55
-	- Average Age: 72 days, 23 hours, and 14.91 minutes
+	- Average Age: 72 days, 20 hours, and 22.84 minutes
 	- Stop Label: 206
 	
 
