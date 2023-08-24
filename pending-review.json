@@ -3954,24 +3954,5 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19394#pullrequestreview-1593731524"
          }
       }
-   },
-   {
-      "Number": 19403,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-08-24T19:12:31Z",
-      "Recipe": "libselinux",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19403",
-      "LastCommitSHA": "7726c615e7ec6f32f026ce6eb7608933a2b83edd",
-      "LastCommitAt": "2023-07-07T18:37:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
