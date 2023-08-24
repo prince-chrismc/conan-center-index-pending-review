@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **169** pull requests currently under way :detective:
+There are **178** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -195,7 +195,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|2|Aug 24||[valgur](https://github.com/valgur)
 [#19377](https://github.com/conan-io/conan-center-index/pull/19377)|[toge](https://github.com/toge)|Aug 24|:stopwatch: simdutf|:blue_square: S|0|||
 [#19382](https://github.com/conan-io/conan-center-index/pull/19382)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 24|:gear: .c3i|:green_circle: XS|0|||
-[#19383](https://github.com/conan-io/conan-center-index/pull/19383)|[igormironchik](https://github.com/igormironchik)|Aug 24|:stopwatch: md4qt|:green_circle: XS|0|||
+[#19384](https://github.com/conan-io/conan-center-index/pull/19384)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: libnice|:blue_square: S|0|||
+[#19385](https://github.com/conan-io/conan-center-index/pull/19385)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: avahi|:green_circle: XS|1|Aug 24||jwillikers
+[#19387](https://github.com/conan-io/conan-center-index/pull/19387)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: keychain|:green_circle: XS|0|||
+[#19388](https://github.com/conan-io/conan-center-index/pull/19388)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: libsecret|:green_circle: XS|0|||
+[#19389](https://github.com/conan-io/conan-center-index/pull/19389)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: libverto|:green_circle: XS|0|||
+[#19390](https://github.com/conan-io/conan-center-index/pull/19390)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: glibmm|:green_circle: XS|0|||
+[#19391](https://github.com/conan-io/conan-center-index/pull/19391)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: libvips|:blue_square: S|0|||
+[#19392](https://github.com/conan-io/conan-center-index/pull/19392)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: pulseaudio|:green_circle: XS|0|||
+[#19393](https://github.com/conan-io/conan-center-index/pull/19393)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: graphene|:green_circle: XS|0|||
+[#19394](https://github.com/conan-io/conan-center-index/pull/19394)|[uilianries](https://github.com/uilianries)|Aug 24|:stopwatch: nasm|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -217,9 +226,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 458
+	- Open: 468
 	- Draft: 56
-	- Average Age: 72 days, 23 hours, and 21.98 minutes
+	- Average Age: 71 days, 10 hours, and 49.06 minutes
 	- Stop Label: 207
 	
 
