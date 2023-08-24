@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **172** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -189,21 +189,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19344](https://github.com/conan-io/conan-center-index/pull/19344)|[vbieleny](https://github.com/vbieleny)|Aug 22|:stopwatch: microprofile|:green_circle: XS|0|||
 [#19345](https://github.com/conan-io/conan-center-index/pull/19345)|[gegles](https://github.com/gegles)|Aug 22|:memo: expected-lite|:green_circle: XS|0|||
 [#19346](https://github.com/conan-io/conan-center-index/pull/19346)|[fpelliccioni](https://github.com/fpelliccioni)|Aug 22|:memo: gmp|:blue_square: S|2|Aug 23||RubenRBS
-[#19351](https://github.com/conan-io/conan-center-index/pull/19351)|[gegles](https://github.com/gegles)|Aug 22|:memo: boost|:green_circle: XS|1|Aug 23||jwillikers
 [#19365](https://github.com/conan-io/conan-center-index/pull/19365)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 23|:memo: qt|:blue_square: S|1|Aug 23||jwillikers
 [#19367](https://github.com/conan-io/conan-center-index/pull/19367)|[holger-detering](https://github.com/holger-detering)|Aug 23|:stopwatch: aws-c-http|:blue_square: S|0|||
 [#19368](https://github.com/conan-io/conan-center-index/pull/19368)|[holger-detering](https://github.com/holger-detering)|Aug 23|:memo: aws-c-event-stream|:blue_square: S|0|||
 [#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|2|Aug 24||[valgur](https://github.com/valgur)
-[#19371](https://github.com/conan-io/conan-center-index/pull/19371)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 23|:gear: .c3i|:green_circle: XS|0|||
-[#19375](https://github.com/conan-io/conan-center-index/pull/19375)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 24|:gear: .c3i|:green_circle: XS|0|||
-[#19376](https://github.com/conan-io/conan-center-index/pull/19376)|[toge](https://github.com/toge)|Aug 24|:stopwatch: lexbor|:green_circle: XS|0|||
+[#19375](https://github.com/conan-io/conan-center-index/pull/19375)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 24|:gear: .c3i|:green_circle: XS|1|Aug 24||jcar87
 [#19377](https://github.com/conan-io/conan-center-index/pull/19377)|[toge](https://github.com/toge)|Aug 24|:stopwatch: simdutf|:blue_square: S|0|||
 [#19378](https://github.com/conan-io/conan-center-index/pull/19378)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: glib|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -212,6 +209,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18196](https://github.com/conan-io/conan-center-index/pull/18196)|[valgur](https://github.com/valgur)|Jun 30|:warning: avahi|8|RubenRBS, SSE4, jcar87
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|4|memsharded, jwillikers
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:warning: rmm|2|uilianries, toge
+[#19351](https://github.com/conan-io/conan-center-index/pull/19351)|[gegles](https://github.com/gegles)|Aug 22|:memo: boost|2|jwillikers, jcar87
 
 
 #### :clipboard: Statistics
@@ -220,9 +218,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 459
+	- Open: 458
 	- Draft: 55
-	- Average Age: 72 days, 15 hours, and 46.81 minutes
+	- Average Age: 72 days, 20 hours, and 31.58 minutes
 	- Stop Label: 206
 	
 
