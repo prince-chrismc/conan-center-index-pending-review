@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **169** pull requests currently under way :detective:
+There are **166** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -189,11 +189,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|2|Aug 24||[valgur](https://github.com/valgur)
 [#19377](https://github.com/conan-io/conan-center-index/pull/19377)|[toge](https://github.com/toge)|Aug 24|:memo: simdutf|:blue_square: S|1|Aug 24||RubenRBS
 [#19382](https://github.com/conan-io/conan-center-index/pull/19382)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 24|:gear: .c3i|:green_circle: XS|1|Aug 24||RubenRBS
-[#19388](https://github.com/conan-io/conan-center-index/pull/19388)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: libsecret|:green_circle: XS|0|||
-[#19389](https://github.com/conan-io/conan-center-index/pull/19389)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: libverto|:green_circle: XS|0|||
 [#19391](https://github.com/conan-io/conan-center-index/pull/19391)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: libvips|:blue_square: S|0|||
-[#19392](https://github.com/conan-io/conan-center-index/pull/19392)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 24|:stopwatch: pulseaudio|:green_circle: XS|0|||
-[#19394](https://github.com/conan-io/conan-center-index/pull/19394)|[uilianries](https://github.com/uilianries)|Aug 24|:stopwatch: nasm|:blue_square: S|1|Aug 24||RubenRBS
+[#19394](https://github.com/conan-io/conan-center-index/pull/19394)|[uilianries](https://github.com/uilianries)|Aug 24|:memo: nasm|:blue_square: S|1|Aug 24||RubenRBS
 [#19395](https://github.com/conan-io/conan-center-index/pull/19395)|[toge](https://github.com/toge)|Aug 24|:stopwatch: sqlite3|:green_circle: XS|0|||
 [#19396](https://github.com/conan-io/conan-center-index/pull/19396)|[igormironchik](https://github.com/igormironchik)|Aug 24|:stopwatch: md4qt|:green_circle: XS|0|||
 
@@ -220,9 +217,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 466
-	- Draft: 56
-	- Average Age: 71 days, 19 hours, and 47.07 minutes
+	- Open: 467
+	- Draft: 58
+	- Average Age: 71 days, 17 hours, and 1.29 minutes
 	- Stop Label: 210
 	
 
