@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **161** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -183,10 +183,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19367](https://github.com/conan-io/conan-center-index/pull/19367)|[holger-detering](https://github.com/holger-detering)|Aug 23|:stopwatch: aws-c-http|:blue_square: S|0|||
 [#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|2|Aug 24||[valgur](https://github.com/valgur)
 [#19380](https://github.com/conan-io/conan-center-index/pull/19380)|[danimtb](https://github.com/danimtb)|Aug 24|:stopwatch: arrow|L|2|Aug 25||[valgur](https://github.com/valgur), RubenRBS
-[#19404](https://github.com/conan-io/conan-center-index/pull/19404)|[toge](https://github.com/toge)|Aug 25|:stopwatch: libzip|L|0|||
+[#19404](https://github.com/conan-io/conan-center-index/pull/19404)|[toge](https://github.com/toge)|Aug 25|:memo: libzip|L|0|||
 [#19405](https://github.com/conan-io/conan-center-index/pull/19405)|[toge](https://github.com/toge)|Aug 25|:memo: glaze|M|0|||
 [#19411](https://github.com/conan-io/conan-center-index/pull/19411)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 25|:memo: kdbindings|:green_circle: XS|0|||
 [#19416](https://github.com/conan-io/conan-center-index/pull/19416)|[MartinDelille](https://github.com/MartinDelille)|Aug 25|:memo: openapi-generator|:blue_square: S|0|||
+[#19417](https://github.com/conan-io/conan-center-index/pull/19417)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 25|:stopwatch: glib|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -209,10 +210,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 455
+	- Open: 454
 	- Draft: 55
-	- Average Age: 73 days, 4 hours, and 17.74 minutes
-	- Stop Label: 211
+	- Average Age: 73 days, 9 hours, and 4.13 minutes
+	- Stop Label: 210
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
