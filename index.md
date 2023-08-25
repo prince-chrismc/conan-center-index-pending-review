@@ -193,7 +193,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -204,7 +204,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|4|memsharded, jwillikers
 [#19018](https://github.com/conan-io/conan-center-index/pull/19018)|[Nekto89](https://github.com/Nekto89)|Aug 2|:warning: utfcpp|2|SpaceIm, prince-chrismc
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:warning: rmm|2|uilianries, toge
-[#19368](https://github.com/conan-io/conan-center-index/pull/19368)|[holger-detering](https://github.com/holger-detering)|Aug 23|:memo: aws-c-event-stream|2|RubenRBS, prince-chrismc
 
 
 #### :clipboard: Statistics
@@ -213,9 +212,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 456
+	- Open: 455
 	- Draft: 57
-	- Average Age: 72 days, 19 hours, and 9.50 minutes
+	- Average Age: 72 days, 23 hours, and 0.88 minutes
 	- Stop Label: 206
 	
 
