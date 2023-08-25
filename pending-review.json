@@ -3059,8 +3059,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19138",
-      "LastCommitSHA": "335a4814f56f41f45f0da8bf1da11575809e2aba",
-      "LastCommitAt": "2023-08-18T11:00:28Z",
+      "LastCommitSHA": "464144f5235009ec8b271d21b53fac1b68648e6b",
+      "LastCommitAt": "2023-08-25T13:12:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3096,47 +3096,6 @@
             "ReviewerName": "offa",
             "SubmittedAt": "2023-08-14T18:44:20Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19148#pullrequestreview-1577444322"
-         }
-      }
-   },
-   {
-      "Number": 19151,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-11T12:12:24Z",
-      "Recipe": "yaml-cpp",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19151",
-      "LastCommitSHA": "03781fbd20320389889c62e8f8810b408ddadc3a",
-      "LastCommitAt": "2023-08-15T05:30:57Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "MartinDelille",
-               "Tier": "community"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "pwqbot",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-25T12:06:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19151#pullrequestreview-1595554599"
          }
       }
    },
@@ -3739,9 +3698,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19404",
-      "LastCommitSHA": "156b89f9ead2dc1f617aa8918e96d8167f762739",
-      "LastCommitAt": "2023-08-25T00:05:43Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "f749636c2816e90ab5d89911210023f8c3a56387",
+      "LastCommitAt": "2023-08-25T12:30:09Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3780,6 +3739,25 @@
       "LastCommitSHA": "e1e45f63d44cb092b2c21624f5655fceebfbed85",
       "LastCommitAt": "2023-08-25T05:29:32Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19416,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-08-25T13:01:52Z",
+      "Recipe": "openapi-generator",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19416",
+      "LastCommitSHA": "76523c0b079aedef85a0d758f5c533a208e64e69",
+      "LastCommitAt": "2023-08-25T13:00:08Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
