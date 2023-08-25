@@ -3791,39 +3791,6 @@
       }
    },
    {
-      "Number": 19368,
-      "OpenedBy": "holger-detering",
-      "CreatedAt": "2023-08-23T13:01:16Z",
-      "Recipe": "aws-c-event-stream",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19368",
-      "LastCommitSHA": "f5d2bd538d2aff43e704d3a010037e5dea9cd46f",
-      "LastCommitAt": "2023-08-23T12:59:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "prince-chrismc",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "prince-chrismc",
-            "SubmittedAt": "2023-08-25T00:24:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19368#pullrequestreview-1594635654"
-         }
-      }
-   },
-   {
       "Number": 19369,
       "OpenedBy": "marxin",
       "CreatedAt": "2023-08-23T13:38:36Z",
