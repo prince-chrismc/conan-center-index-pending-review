@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **163** pull requests currently under way :detective:
+There are **164** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -190,11 +190,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19404](https://github.com/conan-io/conan-center-index/pull/19404)|[toge](https://github.com/toge)|Aug 25|:memo: libzip|L|0|||
 [#19405](https://github.com/conan-io/conan-center-index/pull/19405)|[toge](https://github.com/toge)|Aug 25|:memo: glaze|M|0|||
 [#19411](https://github.com/conan-io/conan-center-index/pull/19411)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 25|:memo: kdbindings|:green_circle: XS|0|||
+[#19412](https://github.com/conan-io/conan-center-index/pull/19412)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 25|:stopwatch: wayland|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -204,7 +205,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18717](https://github.com/conan-io/conan-center-index/pull/18717)|[valgur](https://github.com/valgur)|Jul 20|:warning: rectanglebinpack|3|uilianries, jwillikers
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|4|memsharded, jwillikers
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:warning: rmm|2|uilianries, toge
-[#19377](https://github.com/conan-io/conan-center-index/pull/19377)|[toge](https://github.com/toge)|Aug 24|:memo: simdutf|2|RubenRBS, czoido
 
 
 #### :clipboard: Statistics
@@ -213,9 +213,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 459
+	- Open: 458
 	- Draft: 57
-	- Average Age: 72 days, 11 hours, and 48.98 minutes
+	- Average Age: 72 days, 16 hours, and 29.22 minutes
 	- Stop Label: 208
 	
 
