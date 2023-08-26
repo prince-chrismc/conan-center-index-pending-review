@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **159** pull requests currently under way :detective:
+There are **161** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -186,6 +186,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19428](https://github.com/conan-io/conan-center-index/pull/19428)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnx|:green_circle: XS|0|||
 [#19429](https://github.com/conan-io/conan-center-index/pull/19429)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 26|:gear: .c3i|:green_circle: XS|0|||
 [#19432](https://github.com/conan-io/conan-center-index/pull/19432)|[toge](https://github.com/toge)|Aug 26|:stopwatch: xlsxio|:green_circle: XS|0|||
+[#19433](https://github.com/conan-io/conan-center-index/pull/19433)|[toge](https://github.com/toge)|Aug 26|:stopwatch: ada|:green_circle: XS|0|||
+[#19434](https://github.com/conan-io/conan-center-index/pull/19434)|[toge](https://github.com/toge)|Aug 26|:stopwatch: c-blosc2|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -208,9 +210,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 453
+	- Open: 455
 	- Draft: 55
-	- Average Age: 74 days, 6 hours, and 12.94 minutes
+	- Average Age: 73 days, 23 hours, and 24.08 minutes
 	- Stop Label: 211
 	
 
