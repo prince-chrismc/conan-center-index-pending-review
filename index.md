@@ -188,7 +188,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19429](https://github.com/conan-io/conan-center-index/pull/19429)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 26|:gear: .c3i|:green_circle: XS|0|||
 [#19432](https://github.com/conan-io/conan-center-index/pull/19432)|[toge](https://github.com/toge)|Aug 26|:memo: xlsxio|:green_circle: XS|0|||
 [#19434](https://github.com/conan-io/conan-center-index/pull/19434)|[toge](https://github.com/toge)|Aug 26|:stopwatch: c-blosc2|L|0|||
-[#19437](https://github.com/conan-io/conan-center-index/pull/19437)|[toge](https://github.com/toge)|Aug 26|:stopwatch: drogon|L|0|||
+[#19437](https://github.com/conan-io/conan-center-index/pull/19437)|[toge](https://github.com/toge)|Aug 26|:memo: drogon|L|0|||
 [#19438](https://github.com/conan-io/conan-center-index/pull/19438)|[mayeut](https://github.com/mayeut)|Aug 26|:stopwatch: onnxruntime|:green_circle: XS|0|||
 
 
@@ -214,7 +214,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 455
 	- Draft: 55
-	- Average Age: 74 days, 3 hours, and 21.82 minutes
+	- Average Age: 74 days, 5 hours, and 21.66 minutes
 	- Stop Label: 209
 	
 
