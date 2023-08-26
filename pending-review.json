@@ -3133,43 +3133,6 @@
       }
    },
    {
-      "Number": 19192,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-14T17:06:39Z",
-      "Recipe": "spdlog",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19192",
-      "LastCommitSHA": "0feba907672e6a7c417a6a9654880af94cc94f3b",
-      "LastCommitAt": "2023-08-14T17:05:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "gegles",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "prince-chrismc",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-08-26T08:50:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19192#pullrequestreview-1596816171"
-         }
-      }
-   },
-   {
       "Number": 19218,
       "OpenedBy": "hedtke",
       "CreatedAt": "2023-08-16T07:51:23Z",
@@ -3675,7 +3638,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19428",
       "LastCommitSHA": "810bfae58b60feda055ae84b4506fa3c45f59470",
       "LastCommitAt": "2023-08-26T10:15:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3695,6 +3658,25 @@
       "LastCommitSHA": "4b809df65ad2c0b4df164f1ab96453f004129c45",
       "LastCommitAt": "2023-08-26T11:04:32Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19432,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-26T13:50:53Z",
+      "Recipe": "xlsxio",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19432",
+      "LastCommitSHA": "e5be70cbb5a8b95d20c559c79e302843c70cc7d1",
+      "LastCommitAt": "2023-08-26T13:50:03Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
