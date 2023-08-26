@@ -1983,8 +1983,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18717",
-      "LastCommitSHA": "c1192877ebb6438322c72538b1b25c2d5398a633",
-      "LastCommitAt": "2023-08-25T07:34:51Z",
+      "LastCommitSHA": "fc832c31ee59bbd7391fa19a590d1d3d669248d0",
+      "LastCommitAt": "2023-08-26T06:18:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
