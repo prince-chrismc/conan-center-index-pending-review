@@ -3481,6 +3481,25 @@
       }
    },
    {
+      "Number": 19349,
+      "OpenedBy": "ilya-lavrenov",
+      "CreatedAt": "2023-08-22T19:21:44Z",
+      "Recipe": "opencl-icd-loader",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19349",
+      "LastCommitSHA": "552e6cd60d88ee4338bc27113214cdd065303bd8",
+      "LastCommitAt": "2023-08-26T19:13:15Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19367,
       "OpenedBy": "holger-detering",
       "CreatedAt": "2023-08-23T12:52:43Z",
@@ -3767,7 +3786,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19438",
       "LastCommitSHA": "fc77de878dc307c4e31ee6dd258e952f1ee57879",
       "LastCommitAt": "2023-08-26T17:13:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
