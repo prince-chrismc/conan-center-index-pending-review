@@ -321,6 +321,39 @@
       }
    },
    {
+      "Number": 17120,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-04-19T08:42:40Z",
+      "Recipe": "aws-crt-cpp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17120",
+      "LastCommitSHA": "ac94233345843eff33b945bde3968a96d12f2f41",
+      "LastCommitAt": "2023-04-20T22:54:59Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            },
+            {
+               "Name": "mpimenov",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "mpimenov",
+            "SubmittedAt": "2023-06-08T19:49:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17120#pullrequestreview-1470653811"
+         }
+      }
+   },
+   {
       "Number": 17173,
       "OpenedBy": "joakimono",
       "CreatedAt": "2023-04-23T15:20:59Z",
@@ -3945,7 +3978,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19452",
       "LastCommitSHA": "2bffefb46d050a1a46f6cf664c29f3d28624c239",
       "LastCommitAt": "2023-08-27T20:19:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
