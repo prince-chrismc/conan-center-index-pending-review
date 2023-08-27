@@ -3902,6 +3902,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19449",
       "LastCommitSHA": "5ce4cc8291577092316d28aef105a6f3279f1061",
       "LastCommitAt": "2023-08-27T13:30:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19450,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-27T14:48:35Z",
+      "Recipe": "maddy",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19450",
+      "LastCommitSHA": "0cea06c3af50cd792ca454134be7f57d02823c02",
+      "LastCommitAt": "2023-08-27T14:48:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19451,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-27T15:09:19Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19451",
+      "LastCommitSHA": "7f0cfbd12a97afa2ee8763b441374974b4570c90",
+      "LastCommitAt": "2023-08-27T15:08:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
