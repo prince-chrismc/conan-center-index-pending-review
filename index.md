@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **166** pull requests currently under way :detective:
+There are **165** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -185,14 +185,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19417](https://github.com/conan-io/conan-center-index/pull/19417)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 25|:memo: glib|L|0|||
 [#19423](https://github.com/conan-io/conan-center-index/pull/19423)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 26|:gear: .c3i|:green_circle: XS|1|Aug 26||SSE4
 [#19426](https://github.com/conan-io/conan-center-index/pull/19426)|[toge](https://github.com/toge)|Aug 26|:new: libaesgm|M|0|||
-[#19428](https://github.com/conan-io/conan-center-index/pull/19428)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnx|L|1|Aug 26||[Hopobcn](https://github.com/Hopobcn)
+[#19428](https://github.com/conan-io/conan-center-index/pull/19428)|[mayeut](https://github.com/mayeut)|Aug 26|:stopwatch: onnx|L|1|Aug 26||
 [#19429](https://github.com/conan-io/conan-center-index/pull/19429)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 26|:gear: .c3i|:green_circle: XS|0|||
 [#19432](https://github.com/conan-io/conan-center-index/pull/19432)|[toge](https://github.com/toge)|Aug 26|:memo: xlsxio|:green_circle: XS|0|||
 [#19437](https://github.com/conan-io/conan-center-index/pull/19437)|[toge](https://github.com/toge)|Aug 26|:memo: drogon|L|0|||
-[#19438](https://github.com/conan-io/conan-center-index/pull/19438)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnxruntime|:green_circle: XS|0|||
 [#19439](https://github.com/conan-io/conan-center-index/pull/19439)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 27|:gear: .c3i|:green_circle: XS|0|||
 [#19441](https://github.com/conan-io/conan-center-index/pull/19441)|[toge](https://github.com/toge)|Aug 27|:memo: dbg-macro|:blue_square: S|0|||
-[#19444](https://github.com/conan-io/conan-center-index/pull/19444)|[toge](https://github.com/toge)|Aug 27|:stopwatch: gsl-lite|:green_circle: XS|0|||
+[#19445](https://github.com/conan-io/conan-center-index/pull/19445)|[mayeut](https://github.com/mayeut)|Aug 27|:stopwatch: wil|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -216,8 +215,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
 	- Open: 459
-	- Draft: 55
-	- Average Age: 73 days, 23 hours, and 47.84 minutes
+	- Draft: 56
+	- Average Age: 74 days, and 51.16 minutes
 	- Stop Label: 210
 	
 
