@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **172** pull requests currently under way :detective:
+There are **173** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -41,6 +41,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16876](https://github.com/conan-io/conan-center-index/pull/16876)|[SpaceIm](https://github.com/SpaceIm)|Apr 3|:stopwatch: packio|L|0|:eyes:||
 [#16913](https://github.com/conan-io/conan-center-index/pull/16913)|[paulharris](https://github.com/paulharris)|Apr 6|:stopwatch: openvr|L|6|May 7 :bell:||
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|4|Aug 10 :bell:||[Hopobcn](https://github.com/Hopobcn)
+[#17120](https://github.com/conan-io/conan-center-index/pull/17120)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-crt-cpp|M|2|Jun 8 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov)
 [#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|16|Jul 17 :bell:||samuel-emrys
 [#17183](https://github.com/conan-io/conan-center-index/pull/17183)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 24|:stopwatch: qcoro|L|0|:eyes:||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|M|0|:eyes:||
@@ -198,7 +199,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19445](https://github.com/conan-io/conan-center-index/pull/19445)|[mayeut](https://github.com/mayeut)|Aug 27|:memo: wil|:green_circle: XS|0|||
 [#19447](https://github.com/conan-io/conan-center-index/pull/19447)|[toge](https://github.com/toge)|Aug 27|:memo: libzippp|:blue_square: S|0|||
 [#19448](https://github.com/conan-io/conan-center-index/pull/19448)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 27|:gear: .c3i|:green_circle: XS|0|||
-[#19452](https://github.com/conan-io/conan-center-index/pull/19452)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 27|:stopwatch: onetbb|:green_circle: XS|0|||
+[#19452](https://github.com/conan-io/conan-center-index/pull/19452)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 27|:memo: onetbb|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -223,8 +224,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 463
 	- Draft: 56
-	- Average Age: 73 days, 22 hours, and 22.42 minutes
-	- Stop Label: 207
+	- Average Age: 74 days, and 24.42 minutes
+	- Stop Label: 206
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
