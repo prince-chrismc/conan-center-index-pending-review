@@ -3832,5 +3832,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19443,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-27T04:42:29Z",
+      "Recipe": "wasm-micro-runtime",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19443",
+      "LastCommitSHA": "9a1810729dec2d8cafaedf3e29cf38d63d99a944",
+      "LastCommitAt": "2023-08-27T04:42:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
