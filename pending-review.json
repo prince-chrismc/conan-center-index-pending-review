@@ -3805,6 +3805,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19441",
       "LastCommitSHA": "e16beed14dd198f04d89b940d40ddb6d19fabb7d",
       "LastCommitAt": "2023-08-27T06:02:08Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19444,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-27T06:21:14Z",
+      "Recipe": "gsl-lite",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19444",
+      "LastCommitSHA": "7482c6416ad180e068d5a5d729db6949f69b6815",
+      "LastCommitAt": "2023-08-27T06:20:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
