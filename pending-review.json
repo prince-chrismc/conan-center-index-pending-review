@@ -2855,7 +2855,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19081",
       "LastCommitSHA": "42e2d2e7302eba944909da23a04aebaa3eab0fcc",
       "LastCommitAt": "2023-08-27T13:39:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -3903,25 +3903,6 @@
       "LastCommitSHA": "5ce4cc8291577092316d28aef105a6f3279f1061",
       "LastCommitAt": "2023-08-27T13:30:14Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19450,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-27T14:48:35Z",
-      "Recipe": "maddy",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19450",
-      "LastCommitSHA": "0cea06c3af50cd792ca454134be7f57d02823c02",
-      "LastCommitAt": "2023-08-27T14:48:07Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
