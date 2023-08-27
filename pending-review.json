@@ -3850,25 +3850,6 @@
       }
    },
    {
-      "Number": 19446,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-27T10:30:47Z",
-      "Recipe": "cassandra-cpp-driver",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19446",
-      "LastCommitSHA": "6ce1aae63f8657226e36821b77c2d8099318131c",
-      "LastCommitAt": "2023-08-27T10:30:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19448,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-08-27T11:58:33Z",
