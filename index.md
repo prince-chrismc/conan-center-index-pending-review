@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **165** pull requests currently under way :detective:
+There are **166** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -188,10 +188,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19428](https://github.com/conan-io/conan-center-index/pull/19428)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnx|L|1|Aug 26||[Hopobcn](https://github.com/Hopobcn)
 [#19429](https://github.com/conan-io/conan-center-index/pull/19429)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 26|:gear: .c3i|:green_circle: XS|0|||
 [#19432](https://github.com/conan-io/conan-center-index/pull/19432)|[toge](https://github.com/toge)|Aug 26|:memo: xlsxio|:green_circle: XS|0|||
-[#19434](https://github.com/conan-io/conan-center-index/pull/19434)|[toge](https://github.com/toge)|Aug 26|:stopwatch: c-blosc2|L|0|||
 [#19437](https://github.com/conan-io/conan-center-index/pull/19437)|[toge](https://github.com/toge)|Aug 26|:memo: drogon|L|0|||
 [#19438](https://github.com/conan-io/conan-center-index/pull/19438)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnxruntime|:green_circle: XS|0|||
 [#19439](https://github.com/conan-io/conan-center-index/pull/19439)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 27|:gear: .c3i|:green_circle: XS|0|||
+[#19441](https://github.com/conan-io/conan-center-index/pull/19441)|[toge](https://github.com/toge)|Aug 27|:stopwatch: dbg-macro|:blue_square: S|0|||
+[#19442](https://github.com/conan-io/conan-center-index/pull/19442)|[toge](https://github.com/toge)|Aug 27|:stopwatch: implot|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -214,10 +215,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 456
+	- Open: 459
 	- Draft: 55
-	- Average Age: 74 days, 6 hours, and 7.29 minutes
-	- Stop Label: 208
+	- Average Age: 73 days, 20 hours, and 51.90 minutes
+	- Stop Label: 209
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
