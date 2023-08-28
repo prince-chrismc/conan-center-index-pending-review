@@ -182,7 +182,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|2|Aug 24||[valgur](https://github.com/valgur)
 [#19405](https://github.com/conan-io/conan-center-index/pull/19405)|[toge](https://github.com/toge)|Aug 25|:memo: glaze|M|0|:eyes:||
 [#19411](https://github.com/conan-io/conan-center-index/pull/19411)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 25|:memo: kdbindings|:green_circle: XS|0|:eyes:||
-[#19416](https://github.com/conan-io/conan-center-index/pull/19416)|[MartinDelille](https://github.com/MartinDelille)|Aug 25|:stopwatch: openapi-generator|:green_circle: XS|0|||
 [#19417](https://github.com/conan-io/conan-center-index/pull/19417)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 25|:stopwatch: glib|L|0|||
 [#19426](https://github.com/conan-io/conan-center-index/pull/19426)|[toge](https://github.com/toge)|Aug 26|:new: libaesgm|M|0|||
 [#19428](https://github.com/conan-io/conan-center-index/pull/19428)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnx|L|1|Aug 26||
@@ -193,14 +192,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19443](https://github.com/conan-io/conan-center-index/pull/19443)|[toge](https://github.com/toge)|Aug 27|:memo: wasm-micro-runtime|M|0|||
 [#19445](https://github.com/conan-io/conan-center-index/pull/19445)|[mayeut](https://github.com/mayeut)|Aug 27|:memo: wil|:green_circle: XS|0|||
 [#19447](https://github.com/conan-io/conan-center-index/pull/19447)|[toge](https://github.com/toge)|Aug 27|:memo: libzippp|:blue_square: S|0|||
-[#19449](https://github.com/conan-io/conan-center-index/pull/19449)|[toge](https://github.com/toge)|Aug 27|:stopwatch: clickhouse-cpp|M|3|Aug 28||
+[#19449](https://github.com/conan-io/conan-center-index/pull/19449)|[toge](https://github.com/toge)|Aug 27|:memo: clickhouse-cpp|M|5|Aug 28||[Jihadist](https://github.com/Jihadist), SpaceIm
 [#19452](https://github.com/conan-io/conan-center-index/pull/19452)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 27|:memo: onetbb|:green_circle: XS|0|||
 [#19455](https://github.com/conan-io/conan-center-index/pull/19455)|[SpaceIm](https://github.com/SpaceIm)|Aug 28|:memo: nodejs|:green_circle: XS|0|||
 [#19456](https://github.com/conan-io/conan-center-index/pull/19456)|[toge](https://github.com/toge)|Aug 28|:memo: sqlitecpp|:blue_square: S|0|||
 [#19457](https://github.com/conan-io/conan-center-index/pull/19457)|[toge](https://github.com/toge)|Aug 28|:memo: zlib-ng|:green_circle: XS|0|||
-[#19458](https://github.com/conan-io/conan-center-index/pull/19458)|[hedtke](https://github.com/hedtke)|Aug 28|:stopwatch: scippp|:green_circle: XS|1|Aug 28||czoido
+[#19458](https://github.com/conan-io/conan-center-index/pull/19458)|[hedtke](https://github.com/hedtke)|Aug 28|:memo: scippp|:green_circle: XS|1|Aug 28||czoido
 [#19459](https://github.com/conan-io/conan-center-index/pull/19459)|[uilianries](https://github.com/uilianries)|Aug 28|:green_book: docs|:blue_square: S|1|Aug 28||RubenRBS
 [#19460](https://github.com/conan-io/conan-center-index/pull/19460)|[DoomHammer](https://github.com/DoomHammer)|Aug 28|:stopwatch: ohnet|L|0|||
+[#19462](https://github.com/conan-io/conan-center-index/pull/19462)|[raulcd](https://github.com/raulcd)|Aug 28|:stopwatch: arrow|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -225,7 +225,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 463
 	- Draft: 56
-	- Average Age: 74 days, 9 hours, and 47.34 minutes
+	- Average Age: 74 days, 10 hours, and 39.45 minutes
 	- Stop Label: 206
 	
 
