@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **176** pull requests currently under way :detective:
+There are **174** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -201,8 +201,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19460](https://github.com/conan-io/conan-center-index/pull/19460)|[DoomHammer](https://github.com/DoomHammer)|Aug 28|:stopwatch: ohnet|L|0|||
 [#19464](https://github.com/conan-io/conan-center-index/pull/19464)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 28|:gear: .c3i|:green_circle: XS|0|||
 [#19465](https://github.com/conan-io/conan-center-index/pull/19465)|[danimtb](https://github.com/danimtb)|Aug 28|:stopwatch: arrow|:green_circle: XS|1|Aug 28||memsharded
-[#19467](https://github.com/conan-io/conan-center-index/pull/19467)|[toge](https://github.com/toge)|Aug 28|:stopwatch: fmt|:green_circle: XS|0|||
-[#19468](https://github.com/conan-io/conan-center-index/pull/19468)|[toge](https://github.com/toge)|Aug 28|:stopwatch: blend2d|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -225,9 +223,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 467
+	- Open: 466
 	- Draft: 56
-	- Average Age: 73 days, 23 hours, and 16.42 minutes
+	- Average Age: 74 days, 5 hours, and 9.97 minutes
 	- Stop Label: 208
 	
 
