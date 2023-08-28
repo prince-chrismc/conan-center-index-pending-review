@@ -4019,5 +4019,24 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19465#pullrequestreview-1598144434"
          }
       }
+   },
+   {
+      "Number": 19470,
+      "OpenedBy": "tankeco",
+      "CreatedAt": "2023-08-28T17:25:31Z",
+      "Recipe": "mimalloc",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19470",
+      "LastCommitSHA": "db70d785dbafe71c6165644483992d3360e616d6",
+      "LastCommitAt": "2023-08-28T17:22:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
