@@ -341,7 +341,7 @@
       "LastCommitAt": "2023-08-09T12:22:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 16,
+         "Count": 17,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -352,9 +352,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "samuel-emrys",
-            "SubmittedAt": "2023-07-17T05:14:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17173#pullrequestreview-1531978239"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-08-28T10:48:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17173#pullrequestreview-1598050501"
          }
       }
    },
@@ -3992,25 +3992,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19460",
       "LastCommitSHA": "5eaa0fea45173b8870a37c6afa02ff1ec62fc130",
       "LastCommitAt": "2023-08-28T08:29:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19462,
-      "OpenedBy": "raulcd",
-      "CreatedAt": "2023-08-28T09:53:04Z",
-      "Recipe": "arrow",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19462",
-      "LastCommitSHA": "d592a80a6402c80a4447586e3bd977454ac93801",
-      "LastCommitAt": "2023-08-28T09:51:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
