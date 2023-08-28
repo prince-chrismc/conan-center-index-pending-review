@@ -3992,35 +3992,6 @@
       }
    },
    {
-      "Number": 19465,
-      "OpenedBy": "danimtb",
-      "CreatedAt": "2023-08-28T11:48:29Z",
-      "Recipe": "arrow",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19465",
-      "LastCommitSHA": "2fdf78e4f64f05c9ec6dca856702eed810e376b2",
-      "LastCommitAt": "2023-08-28T11:47:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "memsharded",
-            "SubmittedAt": "2023-08-28T11:56:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19465#pullrequestreview-1598144434"
-         }
-      }
-   },
-   {
       "Number": 19470,
       "OpenedBy": "tankeco",
       "CreatedAt": "2023-08-28T17:25:31Z",
