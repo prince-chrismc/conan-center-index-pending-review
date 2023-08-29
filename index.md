@@ -201,8 +201,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:memo: zlib-ng|:blue_square: S|0|||
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:memo: poco|:green_circle: XS|0|||
 [#19482](https://github.com/conan-io/conan-center-index/pull/19482)|[trns1997](https://github.com/trns1997)|Aug 29|:stopwatch: kickcat|:green_circle: XS|0|||
-[#19486](https://github.com/conan-io/conan-center-index/pull/19486)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:stopwatch: fruit|:blue_square: S|0|||
-[#19487](https://github.com/conan-io/conan-center-index/pull/19487)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: sqlpp11|:green_circle: XS|0|||
+[#19486](https://github.com/conan-io/conan-center-index/pull/19486)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:stopwatch: fruit|:blue_square: S|1|Aug 29||RubenRBS
+[#19487](https://github.com/conan-io/conan-center-index/pull/19487)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: sqlpp11|:green_circle: XS|1|Aug 29||RubenRBS
 [#19488](https://github.com/conan-io/conan-center-index/pull/19488)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:stopwatch: libvault|M|0|||
 [#19489](https://github.com/conan-io/conan-center-index/pull/19489)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: lefticus-tools|:green_circle: XS|1|Aug 29||RubenRBS
 
@@ -228,7 +228,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 469
 	- Draft: 56
-	- Average Age: 74 days, 20 hours, and 25.90 minutes
+	- Average Age: 74 days, 21 hours, and 27.87 minutes
 	- Stop Label: 208
 	
 
