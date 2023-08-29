@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **174** pull requests currently under way :detective:
+There are **176** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -36,8 +36,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16719](https://github.com/conan-io/conan-center-index/pull/16719)|[roalter](https://github.com/roalter)|Mar 26|:stopwatch: gst-plugins-ugly|:green_circle: XS|0|:eyes:||
 [#16738](https://github.com/conan-io/conan-center-index/pull/16738)|[kuroneko](https://github.com/kuroneko)|Mar 27|:stopwatch: cglm|L|1|Jun 23 :bell:||
 [#16750](https://github.com/conan-io/conan-center-index/pull/16750)|[gouriano](https://github.com/gouriano)|Mar 28|:stopwatch: ncbi-cxx-toolkit-public|L|8|May 2 :bell:||
-[#16776](https://github.com/conan-io/conan-center-index/pull/16776)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:stopwatch: pistache|L|0|:eyes:||
-[#16876](https://github.com/conan-io/conan-center-index/pull/16876)|[SpaceIm](https://github.com/SpaceIm)|Apr 3|:stopwatch: packio|L|0|:eyes:||
+[#16776](https://github.com/conan-io/conan-center-index/pull/16776)|[SpaceIm](https://github.com/SpaceIm)|Mar 29|:stopwatch: pistache|L|0|||
+[#16876](https://github.com/conan-io/conan-center-index/pull/16876)|[SpaceIm](https://github.com/SpaceIm)|Apr 3|:memo: packio|L|0|||
 [#16913](https://github.com/conan-io/conan-center-index/pull/16913)|[paulharris](https://github.com/paulharris)|Apr 6|:stopwatch: openvr|L|6|May 7 :bell:||
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|4|Aug 10 :bell:||[Hopobcn](https://github.com/Hopobcn)
 [#17120](https://github.com/conan-io/conan-center-index/pull/17120)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-crt-cpp|M|2|Jun 8 :bell:||jwillikers, [mpimenov](https://github.com/mpimenov)
@@ -140,6 +140,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18908](https://github.com/conan-io/conan-center-index/pull/18908)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 25|:stopwatch: kaitai_struct_cpp_stl_runtime|M|0|:eyes:||
 [#18914](https://github.com/conan-io/conan-center-index/pull/18914)|[saukijan](https://github.com/saukijan)|Jul 26|:memo: open62541|M|0|:eyes:||
 [#18929](https://github.com/conan-io/conan-center-index/pull/18929)|[ibosnic00](https://github.com/ibosnic00)|Jul 27|:stopwatch: protobuf|:green_circle: XS|0|:eyes:||
+[#18936](https://github.com/conan-io/conan-center-index/pull/18936)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 28|:stopwatch: glib|L|0|||
 [#18941](https://github.com/conan-io/conan-center-index/pull/18941)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: libnetfilter_conntrack|L|0|:eyes:||
 [#18942](https://github.com/conan-io/conan-center-index/pull/18942)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: libnetfilter_queue|L|0|:eyes:||
 [#18945](https://github.com/conan-io/conan-center-index/pull/18945)|[valgur](https://github.com/valgur)|Jul 28|:memo: i2c-tools|L|0|:eyes:||
@@ -199,8 +200,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19464](https://github.com/conan-io/conan-center-index/pull/19464)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 28|:gear: .c3i|:green_circle: XS|0|||
 [#19470](https://github.com/conan-io/conan-center-index/pull/19470)|[tankeco](https://github.com/tankeco)|Aug 28|:memo: mimalloc|:green_circle: XS|0|||
 [#19472](https://github.com/conan-io/conan-center-index/pull/19472)|[pwqbot](https://github.com/pwqbot)|Aug 29|:memo: spdlog|:green_circle: XS|0|||
-[#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:stopwatch: zlib-ng|:blue_square: S|0|||
+[#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:memo: zlib-ng|:blue_square: S|0|||
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:stopwatch: poco|:green_circle: XS|0|||
+[#19482](https://github.com/conan-io/conan-center-index/pull/19482)|[trns1997](https://github.com/trns1997)|Aug 29|:stopwatch: kickcat|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -222,9 +224,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 463
+	- Open: 465
 	- Draft: 56
-	- Average Age: 75 days, 14 hours, and 45.74 minutes
+	- Average Age: 75 days, 8 hours, and 56.60 minutes
 	- Stop Label: 206
 	
 
