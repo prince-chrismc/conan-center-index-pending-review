@@ -1829,11 +1829,21 @@
       "LastCommitAt": "2023-08-17T20:16:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-08-29T09:17:40Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18656#pullrequestreview-1599899237"
+         }
       }
    },
    {
@@ -2344,23 +2354,14 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18826",
-      "LastCommitSHA": "92451aaecad2de7d64b9e894bfbd2c78a692df9a",
-      "LastCommitAt": "2023-08-25T08:41:48Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "6dc34c912152d80077fdda88593818848368374c",
+      "LastCommitAt": "2023-08-29T09:42:05Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -2814,30 +2815,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 19021,
-      "OpenedBy": "pwqbot",
-      "CreatedAt": "2023-08-03T06:03:14Z",
-      "Recipe": "ethash",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19021",
-      "LastCommitSHA": "7fc7aebff696b05c584dcf252b952371d104de68",
-      "LastCommitAt": "2023-08-29T06:00:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2023-08-29T05:56:35Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19021#pullrequestreview-1599554468"
-         }
       }
    },
    {
@@ -3746,11 +3723,21 @@
       "LastCommitAt": "2023-08-27T08:00:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-08-29T10:11:58Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19443#pullrequestreview-1600001738"
+         }
       }
    },
    {
@@ -3907,11 +3894,25 @@
       "LastCommitAt": "2023-08-28T05:24:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            },
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-08-29T09:29:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19457#pullrequestreview-1599922242"
+         }
       }
    },
    {
