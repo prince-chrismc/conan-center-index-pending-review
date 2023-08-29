@@ -183,7 +183,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19417](https://github.com/conan-io/conan-center-index/pull/19417)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 25|:memo: glib|L|0|||
 [#19426](https://github.com/conan-io/conan-center-index/pull/19426)|[toge](https://github.com/toge)|Aug 26|:new: libaesgm|M|0|||
 [#19428](https://github.com/conan-io/conan-center-index/pull/19428)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnx|L|1|Aug 26||
-[#19432](https://github.com/conan-io/conan-center-index/pull/19432)|[toge](https://github.com/toge)|Aug 26|:memo: xlsxio|:green_circle: XS|0|||
+[#19432](https://github.com/conan-io/conan-center-index/pull/19432)|[toge](https://github.com/toge)|Aug 26|:memo: xlsxio|:green_circle: XS|0|:eyes:||
 [#19434](https://github.com/conan-io/conan-center-index/pull/19434)|[toge](https://github.com/toge)|Aug 26|:memo: c-blosc2|L|0|||
 [#19437](https://github.com/conan-io/conan-center-index/pull/19437)|[toge](https://github.com/toge)|Aug 26|:memo: drogon|L|0|||
 [#19441](https://github.com/conan-io/conan-center-index/pull/19441)|[toge](https://github.com/toge)|Aug 27|:memo: dbg-macro|:blue_square: S|0|||
@@ -200,7 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19470](https://github.com/conan-io/conan-center-index/pull/19470)|[tankeco](https://github.com/tankeco)|Aug 28|:memo: mimalloc|:green_circle: XS|0|||
 [#19472](https://github.com/conan-io/conan-center-index/pull/19472)|[pwqbot](https://github.com/pwqbot)|Aug 29|:memo: spdlog|:green_circle: XS|0|||
 [#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:stopwatch: zlib-ng|:blue_square: S|0|||
-[#19479](https://github.com/conan-io/conan-center-index/pull/19479)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Aug 29|:stopwatch: libxmlpp|M|0|||
+[#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:stopwatch: poco|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -222,10 +222,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 462
+	- Open: 463
 	- Draft: 56
-	- Average Age: 75 days, 15 hours, and 41.10 minutes
-	- Stop Label: 205
+	- Average Age: 75 days, 12 hours, and 41.32 minutes
+	- Stop Label: 206
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
