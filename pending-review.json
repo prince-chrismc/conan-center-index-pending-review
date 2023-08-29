@@ -4031,25 +4031,6 @@
       }
    },
    {
-      "Number": 19471,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-29T01:25:04Z",
-      "Recipe": "ada",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19471",
-      "LastCommitSHA": "c412863d5c1e2539da54a90296ea7e535c4a2804",
-      "LastCommitAt": "2023-08-29T01:22:14Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19472,
       "OpenedBy": "pwqbot",
       "CreatedAt": "2023-08-29T02:42:29Z",
