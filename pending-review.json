@@ -3997,5 +3997,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19479,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2023-08-29T12:31:03Z",
+      "Recipe": "libxmlpp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19479",
+      "LastCommitSHA": "5afd97afe5fa8f28cd36b2a5197f42108c91f058",
+      "LastCommitAt": "2023-08-29T13:08:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
