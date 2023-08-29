@@ -150,7 +150,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18988](https://github.com/conan-io/conan-center-index/pull/18988)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: gamenetworkingsockets|L|0|:eyes:||
 [#19001](https://github.com/conan-io/conan-center-index/pull/19001)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 1|:memo: net-snmp|L|0|:eyes:||
 [#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:memo: intx|:green_circle: XS|0|:eyes:||
-[#19023](https://github.com/conan-io/conan-center-index/pull/19023)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: dsp-filters|M|0|||
+[#19023](https://github.com/conan-io/conan-center-index/pull/19023)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:stopwatch: dsp-filters|M|0|||
 [#19070](https://github.com/conan-io/conan-center-index/pull/19070)|[Tradias](https://github.com/Tradias)|Aug 6|:memo: asio-grpc|:green_circle: XS|0|:eyes:||
 [#19081](https://github.com/conan-io/conan-center-index/pull/19081)|[toge](https://github.com/toge)|Aug 7|:memo: libraw|:blue_square: S|1|Aug 8 :bell:|jcar87|
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7 :bell:||jwillikers, MartinDelille
@@ -226,7 +226,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 465
 	- Draft: 56
-	- Average Age: 74 days, 20 hours, and 28.78 minutes
+	- Average Age: 74 days, 21 hours, and 33.06 minutes
 	- Stop Label: 206
 	
 
