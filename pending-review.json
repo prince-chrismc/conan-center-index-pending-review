@@ -1906,11 +1906,21 @@
       "LastCommitAt": "2023-07-26T20:25:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-08-29T11:46:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18688#pullrequestreview-1600217417"
+         }
       }
    },
    {
@@ -3798,39 +3808,6 @@
       }
    },
    {
-      "Number": 19452,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-08-27T20:21:04Z",
-      "Recipe": "onetbb",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19452",
-      "LastCommitSHA": "2bffefb46d050a1a46f6cf664c29f3d28624c239",
-      "LastCommitAt": "2023-08-27T20:19:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-08-29T08:32:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19452#pullrequestreview-1599814157"
-         }
-      }
-   },
-   {
       "Number": 19455,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-08-28T00:45:39Z",
@@ -4003,15 +3980,15 @@
       }
    },
    {
-      "Number": 19475,
-      "OpenedBy": "Jihadist",
-      "CreatedAt": "2023-08-29T10:27:06Z",
-      "Recipe": "aggeom-agg",
+      "Number": 19476,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2023-08-29T11:18:03Z",
+      "Recipe": "zlib-ng",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19475",
-      "LastCommitSHA": "6f0e675cbf0793cf4b9df8930e1e89e9d4ecdd42",
-      "LastCommitAt": "2023-08-29T10:31:55Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19476",
+      "LastCommitSHA": "eb5d694c51201ddf7e9dee8f6c5c427e085c34ec",
+      "LastCommitAt": "2023-08-29T11:16:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
