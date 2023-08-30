@@ -3852,6 +3852,25 @@
       }
    },
    {
+      "Number": 19496,
+      "OpenedBy": "KevDi",
+      "CreatedAt": "2023-08-30T09:47:10Z",
+      "Recipe": "librdkafka",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19496",
+      "LastCommitSHA": "28225696c86b35939a021e7d45a644821c254955",
+      "LastCommitAt": "2023-08-30T16:37:52Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19497,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-08-30T09:48:34Z",
@@ -3956,25 +3975,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19505",
       "LastCommitSHA": "c33136210c69c06f5a62411417dc3fdac37bd922",
       "LastCommitAt": "2023-08-30T18:52:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19506,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-08-30T19:03:41Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19506",
-      "LastCommitSHA": "6a9738c80bcf304fd682c687481646796c1d18fa",
-      "LastCommitAt": "2023-08-30T19:03:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
