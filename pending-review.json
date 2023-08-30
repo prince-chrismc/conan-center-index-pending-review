@@ -3945,5 +3945,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19505,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-08-30T18:55:08Z",
+      "Recipe": "arrow",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19505",
+      "LastCommitSHA": "c33136210c69c06f5a62411417dc3fdac37bd922",
+      "LastCommitAt": "2023-08-30T18:52:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19506,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-08-30T19:03:41Z",
+      "Recipe": "thrift",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19506",
+      "LastCommitSHA": "6a9738c80bcf304fd682c687481646796c1d18fa",
+      "LastCommitAt": "2023-08-30T19:03:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
