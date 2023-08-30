@@ -3551,38 +3551,10 @@
       "LastCommitAt": "2023-08-27T09:55:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Hopobcn",
-            "SubmittedAt": "2023-08-26T19:01:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19428#pullrequestreview-1597037230"
-         }
-      }
-   },
-   {
-      "Number": 19434,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-26T15:02:59Z",
-      "Recipe": "c-blosc2",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19434",
-      "LastCommitSHA": "365b418dd5fb468a27aaeeab45ac68f358699fb1",
-      "LastCommitAt": "2023-08-27T12:15:46Z",
-      "CciBotPassed": true,
-      "Summary": {
          "Count": 2,
-         "ValidApprovals": 2,
+         "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
             {
                "Name": "czoido",
                "Tier": "team"
@@ -3591,8 +3563,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "czoido",
-            "SubmittedAt": "2023-08-30T07:57:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19434#pullrequestreview-1602113728"
+            "SubmittedAt": "2023-08-30T10:52:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19428#pullrequestreview-1602434170"
          }
       }
    },
@@ -3698,9 +3670,9 @@
       "LastCommitAt": "2023-08-28T08:59:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 5,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 6,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "Jihadist",
@@ -3709,13 +3681,17 @@
             {
                "Name": "SpaceIm",
                "Tier": "community"
+            },
+            {
+               "Name": "czoido",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-08-28T10:13:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19449#pullrequestreview-1597982115"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-08-30T10:36:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19449#pullrequestreview-1602406721"
          }
       }
    },
