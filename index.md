@@ -201,7 +201,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -209,8 +209,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#18196](https://github.com/conan-io/conan-center-index/pull/18196)|[valgur](https://github.com/valgur)|Jun 30|:warning: avahi|8|RubenRBS, SSE4, jcar87
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|6|memsharded, jwillikers, RubenRBS, franramirez688
-[#19441](https://github.com/conan-io/conan-center-index/pull/19441)|[toge](https://github.com/toge)|Aug 27|:memo: dbg-macro|2|RubenRBS, czoido
-[#19449](https://github.com/conan-io/conan-center-index/pull/19449)|[toge](https://github.com/toge)|Aug 27|:memo: clickhouse-cpp|6|[Jihadist](https://github.com/Jihadist), SpaceIm, czoido
 [#19482](https://github.com/conan-io/conan-center-index/pull/19482)|[trns1997](https://github.com/trns1997)|Aug 29|:memo: kickcat|2|RubenRBS, ericLemanissier
 [#19486](https://github.com/conan-io/conan-center-index/pull/19486)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: fruit|2|RubenRBS, czoido
 
@@ -221,10 +219,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 468
+	- Open: 467
 	- Draft: 56
-	- Average Age: 75 days, 5 hours, and 8.09 minutes
-	- Stop Label: 211
+	- Average Age: 75 days, 9 hours, and 32.69 minutes
+	- Stop Label: 212
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
