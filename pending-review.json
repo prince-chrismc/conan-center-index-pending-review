@@ -3749,20 +3749,24 @@
       "LastCommitAt": "2023-08-27T08:02:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-29T22:25:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19445#pullrequestreview-1601387175"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-08-30T06:57:02Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19445#pullrequestreview-1602012906"
          }
       }
    },
@@ -3811,20 +3815,24 @@
       "LastCommitAt": "2023-08-28T00:44:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-29T22:34:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19455#pullrequestreview-1601408115"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-08-30T06:56:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19455#pullrequestreview-1602012204"
          }
       }
    },
@@ -3840,20 +3848,24 @@
       "LastCommitAt": "2023-08-28T02:47:04Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-29T22:33:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19456#pullrequestreview-1601405560"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-08-30T06:55:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19456#pullrequestreview-1602010345"
          }
       }
    },
@@ -3903,39 +3915,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 19462,
-      "OpenedBy": "raulcd",
-      "CreatedAt": "2023-08-28T09:53:04Z",
-      "Recipe": "arrow",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19462",
-      "LastCommitSHA": "8c2228188794968909877f54da11037ee5bca0bf",
-      "LastCommitAt": "2023-08-28T14:27:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "toge",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-29T22:50:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19462#pullrequestreview-1601456275"
-         }
       }
    },
    {
