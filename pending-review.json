@@ -3570,39 +3570,6 @@
       }
    },
    {
-      "Number": 19441,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-27T03:45:16Z",
-      "Recipe": "dbg-macro",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19441",
-      "LastCommitSHA": "e16beed14dd198f04d89b940d40ddb6d19fabb7d",
-      "LastCommitAt": "2023-08-27T06:02:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-08-30T07:57:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19441#pullrequestreview-1602112938"
-         }
-      }
-   },
-   {
       "Number": 19447,
       "OpenedBy": "toge",
       "CreatedAt": "2023-08-27T10:47:48Z",
@@ -3623,43 +3590,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-08-29T23:00:17Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19447#pullrequestreview-1601479122"
-         }
-      }
-   },
-   {
-      "Number": 19449,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-27T13:33:52Z",
-      "Recipe": "clickhouse-cpp",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19449",
-      "LastCommitSHA": "097c2153ac5d7bfa72144bf2d0c023d58ee8ef20",
-      "LastCommitAt": "2023-08-28T08:59:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "Jihadist",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "SpaceIm",
-               "Tier": "community"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-08-30T10:36:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19449#pullrequestreview-1602406721"
          }
       }
    },
