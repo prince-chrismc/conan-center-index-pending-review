@@ -200,7 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19500](https://github.com/conan-io/conan-center-index/pull/19500)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: autoconf|:blue_square: S|0|||
 [#19501](https://github.com/conan-io/conan-center-index/pull/19501)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:stopwatch: libtool|:blue_square: S|0|||
 [#19502](https://github.com/conan-io/conan-center-index/pull/19502)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: gettext|:blue_square: S|0|||
-[#19505](https://github.com/conan-io/conan-center-index/pull/19505)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:stopwatch: arrow|:green_circle: XS|0|||
+[#19505](https://github.com/conan-io/conan-center-index/pull/19505)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: arrow|:green_circle: XS|0|||
 [#19510](https://github.com/conan-io/conan-center-index/pull/19510)|[conan-center-bot](https://github.com/conan-center-bot)|Aug 31|:gear: .c3i|:green_circle: XS|0|||
 
 
@@ -224,7 +224,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 467
 	- Draft: 56
-	- Average Age: 75 days, 13 hours, and 8.63 minutes
+	- Average Age: 75 days, 14 hours, and 35.01 minutes
 	- Stop Label: 210
 	
 
