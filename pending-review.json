@@ -2093,11 +2093,21 @@
       "LastCommitAt": "2023-07-26T20:26:31Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "toge",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2023-08-31T05:12:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18751#pullrequestreview-1603958843"
+         }
       }
    },
    {
@@ -4006,11 +4016,21 @@
       "LastCommitAt": "2023-08-30T18:52:19Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "toge",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2023-08-31T05:09:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19505#pullrequestreview-1603956919"
+         }
       }
    },
    {
