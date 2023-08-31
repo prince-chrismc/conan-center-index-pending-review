@@ -173,6 +173,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19238](https://github.com/conan-io/conan-center-index/pull/19238)|[valgur](https://github.com/valgur)|Aug 17|:memo: ftjam|L|0|:eyes:||
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:stopwatch: pro-mdnsd|L|1|Aug 21||[steinerthomas](https://github.com/steinerthomas)
 [#19251](https://github.com/conan-io/conan-center-index/pull/19251)|[valgur](https://github.com/valgur)|Aug 17|:stopwatch: boost|L|1|Aug 19||
+[#19252](https://github.com/conan-io/conan-center-index/pull/19252)|[valgur](https://github.com/valgur)|Aug 17|:stopwatch: libsixel|L|0|||
 [#19274](https://github.com/conan-io/conan-center-index/pull/19274)|[toge](https://github.com/toge)|Aug 18|:memo: zlib|L|1|Aug 21|RubenRBS|
 [#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:memo: libhal|L|3|Aug 22|jcar87|RubenRBS
 [#19327](https://github.com/conan-io/conan-center-index/pull/19327)|[Nekto89](https://github.com/Nekto89)|Aug 21|:memo: gdcm|:green_circle: XS|1|Aug 22||[fdgStilla](https://github.com/fdgStilla)
@@ -201,12 +202,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19502](https://github.com/conan-io/conan-center-index/pull/19502)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: gettext|:blue_square: S|0|||
 [#19505](https://github.com/conan-io/conan-center-index/pull/19505)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: arrow|:green_circle: XS|1|Aug 31||toge
 [#19509](https://github.com/conan-io/conan-center-index/pull/19509)|[valgur](https://github.com/valgur)|Aug 30|:stopwatch: tre|M|0|||
-[#19514](https://github.com/conan-io/conan-center-index/pull/19514)|[uilianries](https://github.com/uilianries)|Aug 31|:stopwatch: onetbb|:green_circle: XS|0|||
 [#19515](https://github.com/conan-io/conan-center-index/pull/19515)|[toge](https://github.com/toge)|Aug 31|:memo: octo-logger-cpp|M|0|||
 [#19522](https://github.com/conan-io/conan-center-index/pull/19522)|[uilianries](https://github.com/uilianries)|Aug 31|:stopwatch: .c3i|:green_circle: XS|2|Aug 31||
 [#19524](https://github.com/conan-io/conan-center-index/pull/19524)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: earcut|:blue_square: S|0|||
 [#19525](https://github.com/conan-io/conan-center-index/pull/19525)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Aug 31|:stopwatch: onetbb|:green_circle: XS|0|||
-[#19526](https://github.com/conan-io/conan-center-index/pull/19526)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:stopwatch: troldal-zippy|:blue_square: S|0|||
+[#19526](https://github.com/conan-io/conan-center-index/pull/19526)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: troldal-zippy|:blue_square: S|0|||
 [#19527](https://github.com/conan-io/conan-center-index/pull/19527)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:stopwatch: pkgconf|:green_circle: XS|0|||
 [#19528](https://github.com/conan-io/conan-center-index/pull/19528)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:stopwatch: glib|:green_circle: XS|0|||
 
@@ -230,8 +230,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 479
 	- Draft: 63
-	- Average Age: 74 days, and 41.45 minutes
-	- Stop Label: 211
+	- Average Age: 74 days, 1 hours, and 42.62 minutes
+	- Stop Label: 210
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
