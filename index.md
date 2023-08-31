@@ -39,7 +39,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16913](https://github.com/conan-io/conan-center-index/pull/16913)|[paulharris](https://github.com/paulharris)|Apr 6|:stopwatch: openvr|L|6|May 7 :bell:||
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|4|Aug 10 :bell:||[Hopobcn](https://github.com/Hopobcn)
 [#17125](https://github.com/conan-io/conan-center-index/pull/17125)|[SpaceIm](https://github.com/SpaceIm)|Apr 19|:memo: aws-sdk-cpp|L|6|Aug 28||jwillikers
-[#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:memo: openblas|XL|17|Aug 28||samuel-emrys
+[#17173](https://github.com/conan-io/conan-center-index/pull/17173)|[joakimono](https://github.com/joakimono)|Apr 23|:stopwatch: openblas|XL|17|Aug 28||samuel-emrys
 [#17183](https://github.com/conan-io/conan-center-index/pull/17183)|[boussaffawalid](https://github.com/boussaffawalid)|Apr 24|:stopwatch: qcoro|L|0|:eyes:||
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|M|0|:eyes:||
 [#17272](https://github.com/conan-io/conan-center-index/pull/17272)|[0xFireWolf](https://github.com/0xFireWolf)|Apr 27|:memo: elfutils|L|6|Jun 28 :bell:||ericLemanissier, jwillikers
@@ -62,7 +62,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17806](https://github.com/conan-io/conan-center-index/pull/17806)|[samuel-emrys](https://github.com/samuel-emrys)|Jun 3|:memo: libdb|L|1|Aug 21||
 [#17925](https://github.com/conan-io/conan-center-index/pull/17925)|[MartinDelille](https://github.com/MartinDelille)|Jun 13|:stopwatch: qt|L|2|Jun 25 :bell:||jwillikers
 [#18009](https://github.com/conan-io/conan-center-index/pull/18009)|[ViktarHasiul231862](https://github.com/ViktarHasiul231862)|Jun 21|:memo: wt|:blue_square: S|0|:eyes:||
-[#18016](https://github.com/conan-io/conan-center-index/pull/18016)|[uilianries](https://github.com/uilianries)|Jun 22|:new: intel-ipsec-mb|M|0|||
+[#18016](https://github.com/conan-io/conan-center-index/pull/18016)|[uilianries](https://github.com/uilianries)|Jun 22|:stopwatch: intel-ipsec-mb|M|0|||
 [#18058](https://github.com/conan-io/conan-center-index/pull/18058)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 26|:memo: m4|:blue_square: S|1|Jun 26 :bell:||jwillikers
 [#18088](https://github.com/conan-io/conan-center-index/pull/18088)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 27|:stopwatch: libtool|:blue_square: S|0|:eyes:||
 [#18149](https://github.com/conan-io/conan-center-index/pull/18149)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jun 29|:memo: exiv2|L|3|Aug 15 :bell:||
@@ -225,7 +225,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 467
 	- Draft: 56
-	- Average Age: 75 days, 16 hours, and 33.88 minutes
+	- Average Age: 75 days, 18 hours, and 33.69 minutes
 	- Stop Label: 210
 	
 
