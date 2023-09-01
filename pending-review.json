@@ -4053,24 +4053,19 @@
       "Change": 3,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19522",
-      "LastCommitSHA": "20f9d0e6e3eb6835cf54d07956695c300d1b6265",
-      "LastCommitAt": "2023-08-31T13:24:42Z",
+      "LastCommitSHA": "59343f265c3255aa90c6d757b14f5b695575711c",
+      "LastCommitAt": "2023-09-01T10:29:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-01T08:47:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19522#pullrequestreview-1606538119"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-09-01T10:16:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19522#pullrequestreview-1606674347"
          }
       }
    },
