@@ -4201,5 +4201,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19551,
+      "OpenedBy": "cschreib",
+      "CreatedAt": "2023-09-01T15:40:47Z",
+      "Recipe": "snitch",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19551",
+      "LastCommitSHA": "25423a017eea1eff98eb5e24989ad31e12ef6cfa",
+      "LastCommitAt": "2023-09-01T15:39:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
