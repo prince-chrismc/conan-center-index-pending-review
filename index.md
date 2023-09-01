@@ -148,7 +148,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19001](https://github.com/conan-io/conan-center-index/pull/19001)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 1|:memo: net-snmp|L|0|:eyes:||
 [#19021](https://github.com/conan-io/conan-center-index/pull/19021)|[pwqbot](https://github.com/pwqbot)|Aug 3|:new: ethash|M|4|Aug 29||
 [#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:memo: intx|:green_circle: XS|1|Aug 29||uilianries
-[#19023](https://github.com/conan-io/conan-center-index/pull/19023)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: dsp-filters|M|1|Aug 31||RubenRBS
+[#19023](https://github.com/conan-io/conan-center-index/pull/19023)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: dsp-filters|M|2|Sep 1||RubenRBS
 [#19070](https://github.com/conan-io/conan-center-index/pull/19070)|[Tradias](https://github.com/Tradias)|Aug 6|:memo: asio-grpc|:green_circle: XS|0|:eyes:||
 [#19081](https://github.com/conan-io/conan-center-index/pull/19081)|[toge](https://github.com/toge)|Aug 7|:memo: libraw|:blue_square: S|1|Aug 8 :bell:|jcar87|
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7 :bell:||jwillikers, MartinDelille
@@ -184,7 +184,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19447](https://github.com/conan-io/conan-center-index/pull/19447)|[toge](https://github.com/toge)|Aug 27|:memo: libzippp|:blue_square: S|1|Aug 29||
 [#19459](https://github.com/conan-io/conan-center-index/pull/19459)|[uilianries](https://github.com/uilianries)|Aug 28|:green_book: docs|:blue_square: S|1|Aug 28||RubenRBS
 [#19470](https://github.com/conan-io/conan-center-index/pull/19470)|[tankeco](https://github.com/tankeco)|Aug 28|:memo: mimalloc|:green_circle: XS|0|:eyes:||
-[#19472](https://github.com/conan-io/conan-center-index/pull/19472)|[pwqbot](https://github.com/pwqbot)|Aug 29|:memo: spdlog|:green_circle: XS|0|||
+[#19472](https://github.com/conan-io/conan-center-index/pull/19472)|[pwqbot](https://github.com/pwqbot)|Aug 29|:memo: spdlog|:green_circle: XS|0|:eyes:||
 [#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:memo: zlib-ng|:blue_square: S|0|||
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:memo: poco|:green_circle: XS|0|||
 [#19490](https://github.com/conan-io/conan-center-index/pull/19490)|[cjbradfield](https://github.com/cjbradfield)|Aug 30|:memo: wolfssl|:green_circle: XS|0|||
@@ -232,7 +232,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 481
 	- Draft: 60
-	- Average Age: 74 days, 5 hours, and 53.58 minutes
+	- Average Age: 74 days, 6 hours, and 50.63 minutes
 	- Stop Label: 210
 	
 
