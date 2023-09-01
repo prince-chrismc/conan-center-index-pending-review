@@ -4198,15 +4198,15 @@
       }
    },
    {
-      "Number": 19549,
+      "Number": 19550,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-09-01T12:22:57Z",
-      "Recipe": "opencolorio",
+      "CreatedAt": "2023-09-01T13:56:46Z",
+      "Recipe": "highway",
       "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19549",
-      "LastCommitSHA": "e1be4d1f67f477b1d6fceec765d229e2af8bbb39",
-      "LastCommitAt": "2023-09-01T12:21:53Z",
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19550",
+      "LastCommitSHA": "8ae3fa8956785bde32f7a2c7e2e5373538d483f2",
+      "LastCommitAt": "2023-09-01T13:56:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
