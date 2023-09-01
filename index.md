@@ -207,7 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19524](https://github.com/conan-io/conan-center-index/pull/19524)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: earcut|:blue_square: S|0|||
 [#19526](https://github.com/conan-io/conan-center-index/pull/19526)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: troldal-zippy|:blue_square: S|0|||
 [#19533](https://github.com/conan-io/conan-center-index/pull/19533)|[cjbradfield](https://github.com/cjbradfield)|Aug 31|:stopwatch: libnghttp3|M|0|||
-[#19536](https://github.com/conan-io/conan-center-index/pull/19536)|[gegles](https://github.com/gegles)|Aug 31|:stopwatch: cmake|:blue_square: S|0|||
+[#19536](https://github.com/conan-io/conan-center-index/pull/19536)|[gegles](https://github.com/gegles)|Aug 31|:memo: cmake|:blue_square: S|0|||
 [#19538](https://github.com/conan-io/conan-center-index/pull/19538)|[toge](https://github.com/toge)|Aug 31|:stopwatch: re2|:green_circle: XS|0|||
 [#19540](https://github.com/conan-io/conan-center-index/pull/19540)|[toge](https://github.com/toge)|Sep 1|:stopwatch: brotli|M|0|||
 [#19541](https://github.com/conan-io/conan-center-index/pull/19541)|[toge](https://github.com/toge)|Sep 1|:stopwatch: glaze|:blue_square: S|0|||
@@ -233,9 +233,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 486
+	- Open: 484
 	- Draft: 58
-	- Average Age: 73 days, 20 hours, and 18.80 minutes
+	- Average Age: 74 days, 6 hours, and 30.82 minutes
 	- Stop Label: 214
 	
 
