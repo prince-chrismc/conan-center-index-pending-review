@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -206,8 +206,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19515](https://github.com/conan-io/conan-center-index/pull/19515)|[toge](https://github.com/toge)|Aug 31|:memo: octo-logger-cpp|M|1|Sep 2||RubenRBS
 [#19518](https://github.com/conan-io/conan-center-index/pull/19518)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: avahi|:blue_square: S|0|||
 [#19519](https://github.com/conan-io/conan-center-index/pull/19519)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: aravis|:green_circle: XS|0|||
-[#19522](https://github.com/conan-io/conan-center-index/pull/19522)|[uilianries](https://github.com/uilianries)|Aug 31|:gear: .c3i|:green_circle: XS|7|Sep 1||prince-chrismc
-[#19524](https://github.com/conan-io/conan-center-index/pull/19524)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: earcut|:blue_square: S|0|||
+[#19524](https://github.com/conan-io/conan-center-index/pull/19524)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: earcut|:blue_square: S|1|Sep 2||RubenRBS
 [#19526](https://github.com/conan-io/conan-center-index/pull/19526)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: troldal-zippy|:blue_square: S|1|Sep 2||RubenRBS
 [#19533](https://github.com/conan-io/conan-center-index/pull/19533)|[cjbradfield](https://github.com/cjbradfield)|Aug 31|:stopwatch: libnghttp3|M|0|||
 [#19538](https://github.com/conan-io/conan-center-index/pull/19538)|[toge](https://github.com/toge)|Aug 31|:stopwatch: re2|:green_circle: XS|0|||
@@ -215,8 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19541](https://github.com/conan-io/conan-center-index/pull/19541)|[toge](https://github.com/toge)|Sep 1|:stopwatch: glaze|:blue_square: S|0|||
 [#19549](https://github.com/conan-io/conan-center-index/pull/19549)|[toge](https://github.com/toge)|Sep 1|:stopwatch: opencolorio|L|0|||
 [#19554](https://github.com/conan-io/conan-center-index/pull/19554)|[Kalixio](https://github.com/Kalixio)|Sep 1|:stopwatch: eastl|:green_circle: XS|0|||
-[#19556](https://github.com/conan-io/conan-center-index/pull/19556)|[toge](https://github.com/toge)|Sep 2|:memo: luau|L|0|||
-[#19557](https://github.com/conan-io/conan-center-index/pull/19557)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 2|:memo: gdk-pixbuf|:green_circle: XS|0|||
+[#19557](https://github.com/conan-io/conan-center-index/pull/19557)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 2|:stopwatch: gdk-pixbuf|:green_circle: XS|0|||
 [#19558](https://github.com/conan-io/conan-center-index/pull/19558)|[toge](https://github.com/toge)|Sep 2|:memo: mcap|:green_circle: XS|1|Sep 2||RubenRBS
 [#19560](https://github.com/conan-io/conan-center-index/pull/19560)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 2|:gear: .c3i|:green_circle: XS|1|Sep 2||RubenRBS
 
@@ -238,9 +236,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 482
+	- Open: 481
 	- Draft: 57
-	- Average Age: 75 days, 6 hours, and 32.73 minutes
+	- Average Age: 75 days, 11 hours, and 12.50 minutes
 	- Stop Label: 210
 	
 
