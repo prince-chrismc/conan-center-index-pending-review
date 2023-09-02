@@ -188,7 +188,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19472](https://github.com/conan-io/conan-center-index/pull/19472)|[pwqbot](https://github.com/pwqbot)|Aug 29|:memo: spdlog|:green_circle: XS|0|:eyes:||
 [#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:memo: zlib-ng|:blue_square: S|0|:eyes:||
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:memo: poco|:green_circle: XS|0|:eyes:||
-[#19490](https://github.com/conan-io/conan-center-index/pull/19490)|[cjbradfield](https://github.com/cjbradfield)|Aug 30|:memo: wolfssl|:green_circle: XS|0|||
+[#19490](https://github.com/conan-io/conan-center-index/pull/19490)|[cjbradfield](https://github.com/cjbradfield)|Aug 30|:memo: wolfssl|:green_circle: XS|0|:eyes:||
 [#19493](https://github.com/conan-io/conan-center-index/pull/19493)|[temap](https://github.com/temap)|Aug 30|:stopwatch: linux-headers-generic|:green_circle: XS|0|||
 [#19494](https://github.com/conan-io/conan-center-index/pull/19494)|[temap](https://github.com/temap)|Aug 30|:stopwatch: libxslt|:green_circle: XS|0|||
 [#19495](https://github.com/conan-io/conan-center-index/pull/19495)|[temap](https://github.com/temap)|Aug 30|:stopwatch: xmlsec|:green_circle: XS|0|||
@@ -201,16 +201,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19505](https://github.com/conan-io/conan-center-index/pull/19505)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: arrow|:green_circle: XS|1|Aug 31||toge
 [#19508](https://github.com/conan-io/conan-center-index/pull/19508)|[valgur](https://github.com/valgur)|Aug 30|:new: libmagic|M|0|||
 [#19509](https://github.com/conan-io/conan-center-index/pull/19509)|[valgur](https://github.com/valgur)|Aug 30|:new: tre|M|0|||
-[#19515](https://github.com/conan-io/conan-center-index/pull/19515)|[toge](https://github.com/toge)|Aug 31|:memo: octo-logger-cpp|M|0|||
+[#19515](https://github.com/conan-io/conan-center-index/pull/19515)|[toge](https://github.com/toge)|Aug 31|:memo: octo-logger-cpp|M|1|Sep 2||RubenRBS
 [#19518](https://github.com/conan-io/conan-center-index/pull/19518)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: avahi|:blue_square: S|0|||
 [#19519](https://github.com/conan-io/conan-center-index/pull/19519)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: aravis|:green_circle: XS|0|||
 [#19522](https://github.com/conan-io/conan-center-index/pull/19522)|[uilianries](https://github.com/uilianries)|Aug 31|:gear: .c3i|:green_circle: XS|7|Sep 1||prince-chrismc
 [#19524](https://github.com/conan-io/conan-center-index/pull/19524)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: earcut|:blue_square: S|0|||
-[#19526](https://github.com/conan-io/conan-center-index/pull/19526)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: troldal-zippy|:blue_square: S|0|||
+[#19526](https://github.com/conan-io/conan-center-index/pull/19526)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: troldal-zippy|:blue_square: S|1|Sep 2||RubenRBS
 [#19533](https://github.com/conan-io/conan-center-index/pull/19533)|[cjbradfield](https://github.com/cjbradfield)|Aug 31|:stopwatch: libnghttp3|M|0|||
-[#19536](https://github.com/conan-io/conan-center-index/pull/19536)|[gegles](https://github.com/gegles)|Aug 31|:memo: cmake|:blue_square: S|0|||
+[#19536](https://github.com/conan-io/conan-center-index/pull/19536)|[gegles](https://github.com/gegles)|Aug 31|:memo: cmake|:blue_square: S|1|Sep 2||RubenRBS
 [#19538](https://github.com/conan-io/conan-center-index/pull/19538)|[toge](https://github.com/toge)|Aug 31|:stopwatch: re2|:green_circle: XS|0|||
-[#19540](https://github.com/conan-io/conan-center-index/pull/19540)|[toge](https://github.com/toge)|Sep 1|:stopwatch: brotli|M|0|||
+[#19540](https://github.com/conan-io/conan-center-index/pull/19540)|[toge](https://github.com/toge)|Sep 1|:stopwatch: brotli|M|1|Sep 2||RubenRBS
 [#19541](https://github.com/conan-io/conan-center-index/pull/19541)|[toge](https://github.com/toge)|Sep 1|:stopwatch: glaze|:blue_square: S|0|||
 [#19552](https://github.com/conan-io/conan-center-index/pull/19552)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: fontconfig|:green_circle: XS|0|||
 [#19554](https://github.com/conan-io/conan-center-index/pull/19554)|[Kalixio](https://github.com/Kalixio)|Sep 1|:stopwatch: eastl|:green_circle: XS|0|||
@@ -234,10 +234,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 482
+	- Open: 481
 	- Draft: 58
-	- Average Age: 74 days, 17 hours, and 23.81 minutes
-	- Stop Label: 214
+	- Average Age: 74 days, 23 hours, and 32.21 minutes
+	- Stop Label: 213
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
