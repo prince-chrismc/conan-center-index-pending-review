@@ -4252,6 +4252,30 @@
       }
    },
    {
+      "Number": 19552,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2023-09-01T16:31:47Z",
+      "Recipe": "fontconfig",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19552",
+      "LastCommitSHA": "8e89447f933ea9074fd4620e8c50d5cbd166f275",
+      "LastCommitAt": "2023-09-02T17:08:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-09-02T06:41:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19552#pullrequestreview-1607953938"
+         }
+      }
+   },
+   {
       "Number": 19554,
       "OpenedBy": "Kalixio",
       "CreatedAt": "2023-09-01T17:16:26Z",
