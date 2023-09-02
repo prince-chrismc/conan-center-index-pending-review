@@ -2814,9 +2814,9 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19023",
-      "LastCommitSHA": "c1850568f67869d0d98b2527206fab9c414d3dac",
-      "LastCommitAt": "2023-09-01T05:28:09Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "8ef8ba830cf9889fa9f33e17527773437e90093a",
+      "LastCommitAt": "2023-09-02T09:17:08Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -3996,6 +3996,25 @@
       }
    },
    {
+      "Number": 19512,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-08-31T07:27:29Z",
+      "Recipe": "watcher",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19512",
+      "LastCommitSHA": "17dea106fe5aa61186d8a3bbc29119784264a19a",
+      "LastCommitAt": "2023-09-02T07:42:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19515,
       "OpenedBy": "toge",
       "CreatedAt": "2023-08-31T08:11:23Z",
@@ -4273,6 +4292,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19557",
       "LastCommitSHA": "5c3feaaa6bcf22972ac75f033ae5fd1f13a851e6",
       "LastCommitAt": "2023-08-31T12:12:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19558,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-02T09:57:10Z",
+      "Recipe": "mcap",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19558",
+      "LastCommitSHA": "667f46cc40c4dbd1e97ad926cdb1540267eabb9b",
+      "LastCommitAt": "2023-09-02T09:57:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
