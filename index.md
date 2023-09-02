@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **181** pull requests currently under way :detective:
+There are **179** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -205,22 +205,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19554](https://github.com/conan-io/conan-center-index/pull/19554)|[Kalixio](https://github.com/Kalixio)|Sep 1|:stopwatch: eastl|:green_circle: XS|0|||
 [#19557](https://github.com/conan-io/conan-center-index/pull/19557)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 2|:memo: gdk-pixbuf|:green_circle: XS|0|||
 [#19561](https://github.com/conan-io/conan-center-index/pull/19561)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 2|:green_book: docs|:green_circle: XS|0|||
-[#19562](https://github.com/conan-io/conan-center-index/pull/19562)|[toge](https://github.com/toge)|Sep 2|:stopwatch: mppp|:green_circle: XS|0|||
-[#19563](https://github.com/conan-io/conan-center-index/pull/19563)|[toge](https://github.com/toge)|Sep 2|:stopwatch: mpfr|:blue_square: S|0|||
-[#19564](https://github.com/conan-io/conan-center-index/pull/19564)|[toge](https://github.com/toge)|Sep 2|:stopwatch: arsenalgear|:green_circle: XS|0|||
+[#19563](https://github.com/conan-io/conan-center-index/pull/19563)|[toge](https://github.com/toge)|Sep 2|:memo: mpfr|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#18196](https://github.com/conan-io/conan-center-index/pull/18196)|[valgur](https://github.com/valgur)|Jun 30|:warning: avahi|8|RubenRBS, SSE4, jcar87
-[#18906](https://github.com/conan-io/conan-center-index/pull/18906)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 25|:memo: lzip|3|RubenRBS, SSE4
-[#19022](https://github.com/conan-io/conan-center-index/pull/19022)|[pwqbot](https://github.com/pwqbot)|Aug 3|:memo: intx|2|uilianries, SSE4
 [#19515](https://github.com/conan-io/conan-center-index/pull/19515)|[toge](https://github.com/toge)|Aug 31|:memo: octo-logger-cpp|2|RubenRBS, SSE4
 [#19524](https://github.com/conan-io/conan-center-index/pull/19524)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: earcut|2|RubenRBS, SSE4
 [#19526](https://github.com/conan-io/conan-center-index/pull/19526)|[maksim-petukhov](https://github.com/maksim-petukhov)|Aug 31|:memo: troldal-zippy|2|RubenRBS, SSE4
@@ -234,9 +230,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 480
+	- Open: 478
 	- Draft: 57
-	- Average Age: 75 days, 5 hours, and 41.91 minutes
+	- Average Age: 75 days, 10 hours, and 43.00 minutes
 	- Stop Label: 210
 	
 
