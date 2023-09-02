@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **189** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -212,6 +212,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19540](https://github.com/conan-io/conan-center-index/pull/19540)|[toge](https://github.com/toge)|Sep 1|:memo: brotli|M|1|Sep 2||RubenRBS
 [#19541](https://github.com/conan-io/conan-center-index/pull/19541)|[toge](https://github.com/toge)|Sep 1|:stopwatch: glaze|:blue_square: S|0|||
 [#19549](https://github.com/conan-io/conan-center-index/pull/19549)|[toge](https://github.com/toge)|Sep 1|:stopwatch: opencolorio|L|0|||
+[#19552](https://github.com/conan-io/conan-center-index/pull/19552)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:stopwatch: fontconfig|:green_circle: XS|1|Sep 2||
 [#19554](https://github.com/conan-io/conan-center-index/pull/19554)|[Kalixio](https://github.com/Kalixio)|Sep 1|:stopwatch: eastl|:green_circle: XS|0|||
 [#19557](https://github.com/conan-io/conan-center-index/pull/19557)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 2|:memo: gdk-pixbuf|:green_circle: XS|0|||
 [#19558](https://github.com/conan-io/conan-center-index/pull/19558)|[toge](https://github.com/toge)|Sep 2|:memo: mcap|:green_circle: XS|1|Sep 2||RubenRBS
@@ -237,7 +238,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 481
 	- Draft: 57
-	- Average Age: 75 days, 12 hours, and 16.35 minutes
+	- Average Age: 75 days, 13 hours, and 11.45 minutes
 	- Stop Label: 210
 	
 
