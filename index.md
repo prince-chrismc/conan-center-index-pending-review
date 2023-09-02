@@ -210,7 +210,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19533](https://github.com/conan-io/conan-center-index/pull/19533)|[cjbradfield](https://github.com/cjbradfield)|Aug 31|:stopwatch: libnghttp3|M|0|||
 [#19536](https://github.com/conan-io/conan-center-index/pull/19536)|[gegles](https://github.com/gegles)|Aug 31|:memo: cmake|:blue_square: S|1|Sep 2||RubenRBS
 [#19538](https://github.com/conan-io/conan-center-index/pull/19538)|[toge](https://github.com/toge)|Aug 31|:stopwatch: re2|:green_circle: XS|0|||
-[#19540](https://github.com/conan-io/conan-center-index/pull/19540)|[toge](https://github.com/toge)|Sep 1|:stopwatch: brotli|M|1|Sep 2||RubenRBS
+[#19540](https://github.com/conan-io/conan-center-index/pull/19540)|[toge](https://github.com/toge)|Sep 1|:memo: brotli|M|1|Sep 2||RubenRBS
 [#19541](https://github.com/conan-io/conan-center-index/pull/19541)|[toge](https://github.com/toge)|Sep 1|:stopwatch: glaze|:blue_square: S|0|||
 [#19552](https://github.com/conan-io/conan-center-index/pull/19552)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 1|:memo: fontconfig|:green_circle: XS|0|||
 [#19554](https://github.com/conan-io/conan-center-index/pull/19554)|[Kalixio](https://github.com/Kalixio)|Sep 1|:stopwatch: eastl|:green_circle: XS|0|||
@@ -236,7 +236,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 481
 	- Draft: 58
-	- Average Age: 74 days, 23 hours, and 32.21 minutes
+	- Average Age: 75 days, and 33.74 minutes
 	- Stop Label: 213
 	
 
