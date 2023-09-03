@@ -4031,11 +4031,21 @@
       "LastCommitAt": "2023-09-02T18:03:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-09-03T12:28:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19561#pullrequestreview-1608514397"
+         }
       }
    },
    {
@@ -4106,6 +4116,54 @@
       "LastCommitSHA": "d4286e836a0b88ab7481080474bd916824833c7e",
       "LastCommitAt": "2023-09-03T10:37:35Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-09-03T12:28:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19570#pullrequestreview-1608514385"
+         }
+      }
+   },
+   {
+      "Number": 19571,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-03T12:46:21Z",
+      "Recipe": "crowcpp-crow",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19571",
+      "LastCommitSHA": "2bb0ebc561c4f09c8883314c9398236eef4566ae",
+      "LastCommitAt": "2023-09-03T12:45:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19572,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-03T12:50:11Z",
+      "Recipe": "cpprestsdk",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19572",
+      "LastCommitSHA": "204f5aae210800ea19ae2a1a526409f634779ab1",
+      "LastCommitAt": "2023-09-03T12:49:41Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
