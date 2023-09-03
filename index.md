@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **187** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -136,7 +136,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18929](https://github.com/conan-io/conan-center-index/pull/18929)|[ibosnic00](https://github.com/ibosnic00)|Jul 27|:stopwatch: protobuf|:green_circle: XS|0|:eyes:||
 [#18936](https://github.com/conan-io/conan-center-index/pull/18936)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 28|:stopwatch: glib|L|0|:eyes:||
 [#18941](https://github.com/conan-io/conan-center-index/pull/18941)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: libnetfilter_conntrack|L|0|:eyes:||
-[#18942](https://github.com/conan-io/conan-center-index/pull/18942)|[valgur](https://github.com/valgur)|Jul 28|:memo: libnetfilter_queue|L|0|||
+[#18942](https://github.com/conan-io/conan-center-index/pull/18942)|[valgur](https://github.com/valgur)|Jul 28|:memo: libnetfilter_queue|L|0|:eyes:||
 [#18945](https://github.com/conan-io/conan-center-index/pull/18945)|[valgur](https://github.com/valgur)|Jul 28|:memo: i2c-tools|L|0|:eyes:||
 [#18957](https://github.com/conan-io/conan-center-index/pull/18957)|[valgur](https://github.com/valgur)|Jul 28|:memo: liboping|L|0|:eyes:||
 [#18977](https://github.com/conan-io/conan-center-index/pull/18977)|[valgur](https://github.com/valgur)|Jul 31|:memo: tcp-wrappers|L|0|:eyes:||
@@ -195,7 +195,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19501](https://github.com/conan-io/conan-center-index/pull/19501)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:stopwatch: libtool|:blue_square: S|1|Aug 31||ericLemanissier
 [#19502](https://github.com/conan-io/conan-center-index/pull/19502)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: gettext|:blue_square: S|0|:eyes:||
 [#19505](https://github.com/conan-io/conan-center-index/pull/19505)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: arrow|:green_circle: XS|1|Aug 31||toge
-[#19508](https://github.com/conan-io/conan-center-index/pull/19508)|[valgur](https://github.com/valgur)|Aug 30|:new: libmagic|M|0|||
+[#19508](https://github.com/conan-io/conan-center-index/pull/19508)|[valgur](https://github.com/valgur)|Aug 30|:new: libmagic|M|0|:eyes:||
 [#19509](https://github.com/conan-io/conan-center-index/pull/19509)|[valgur](https://github.com/valgur)|Aug 30|:new: tre|M|0|:eyes:||
 [#19518](https://github.com/conan-io/conan-center-index/pull/19518)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: avahi|:blue_square: S|1|Sep 3||jwillikers
 [#19519](https://github.com/conan-io/conan-center-index/pull/19519)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 31|:memo: aravis|:green_circle: XS|0|:eyes:||
@@ -212,7 +212,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19570](https://github.com/conan-io/conan-center-index/pull/19570)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 3|:gear: .c3i|:green_circle: XS|1|Sep 3||SSE4
 [#19571](https://github.com/conan-io/conan-center-index/pull/19571)|[toge](https://github.com/toge)|Sep 3|:memo: crowcpp-crow|:blue_square: S|0|||
 [#19574](https://github.com/conan-io/conan-center-index/pull/19574)|[toge](https://github.com/toge)|Sep 3|:memo: cubicinterpolation|:blue_square: S|0|||
-[#19575](https://github.com/conan-io/conan-center-index/pull/19575)|[toge](https://github.com/toge)|Sep 3|:stopwatch: fakeit|:green_circle: XS|0|||
+[#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:stopwatch: lief|:blue_square: S|0|||
+[#19577](https://github.com/conan-io/conan-center-index/pull/19577)|[toge](https://github.com/toge)|Sep 3|:stopwatch: csvmonkey|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -232,9 +233,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 480
+	- Open: 481
 	- Draft: 57
-	- Average Age: 75 days, 20 hours, and 28.64 minutes
+	- Average Age: 75 days, 17 hours, and 43.54 minutes
 	- Stop Label: 211
 	
 
