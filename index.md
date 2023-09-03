@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **179** pull requests currently under way :detective:
+There are **182** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -206,6 +206,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19557](https://github.com/conan-io/conan-center-index/pull/19557)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 2|:memo: gdk-pixbuf|:green_circle: XS|0|||
 [#19561](https://github.com/conan-io/conan-center-index/pull/19561)|[github-actions[bot]](https://github.com/github-actions[bot])|Sep 2|:green_book: docs|:green_circle: XS|0|||
 [#19563](https://github.com/conan-io/conan-center-index/pull/19563)|[toge](https://github.com/toge)|Sep 2|:memo: mpfr|:blue_square: S|0|||
+[#19566](https://github.com/conan-io/conan-center-index/pull/19566)|[toge](https://github.com/toge)|Sep 3|:stopwatch: octo-encryption-cpp|M|0|||
+[#19567](https://github.com/conan-io/conan-center-index/pull/19567)|[toge](https://github.com/toge)|Sep 3|:stopwatch: jinja2cpp|:green_circle: XS|0|||
+[#19568](https://github.com/conan-io/conan-center-index/pull/19568)|[toge](https://github.com/toge)|Sep 3|:stopwatch: cppitertools|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -225,9 +228,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 472
+	- Open: 475
 	- Draft: 57
-	- Average Age: 76 days, 12 hours, and 55.36 minutes
+	- Average Age: 76 days, 6 hours, and 41.43 minutes
 	- Stop Label: 211
 	
 
