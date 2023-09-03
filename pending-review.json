@@ -4234,6 +4234,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19577",
       "LastCommitSHA": "e1d96681e18d22b2efb4e66a879b19d3838ef61d",
       "LastCommitAt": "2023-09-03T16:10:08Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19578,
+      "OpenedBy": "p-groarke",
+      "CreatedAt": "2023-09-03T16:49:44Z",
+      "Recipe": "make",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19578",
+      "LastCommitSHA": "5d65b096f3a741eb89b4d1e82d909543787b1cc4",
+      "LastCommitAt": "2023-09-03T17:04:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
