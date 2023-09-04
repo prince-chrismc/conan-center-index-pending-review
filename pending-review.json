@@ -3367,6 +3367,25 @@
       }
    },
    {
+      "Number": 19372,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2023-08-23T18:18:17Z",
+      "Recipe": "so5extra",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19372",
+      "LastCommitSHA": "8bced32d6bf969a47622871dc9735ed3afb893a6",
+      "LastCommitAt": "2023-09-04T11:36:46Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19411,
       "OpenedBy": "bog-dan-ro",
       "CreatedAt": "2023-08-25T05:32:06Z",
@@ -4200,11 +4219,21 @@
       "LastCommitAt": "2023-09-04T11:21:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-09-04T12:49:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19585#pullrequestreview-1609488527"
+         }
       }
    }
 ]
