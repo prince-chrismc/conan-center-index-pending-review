@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **185** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -211,6 +211,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19585](https://github.com/conan-io/conan-center-index/pull/19585)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 4|:gear: .c3i|:green_circle: XS|1|Sep 4||RubenRBS
 [#19587](https://github.com/conan-io/conan-center-index/pull/19587)|[toge](https://github.com/toge)|Sep 4|:stopwatch: libnghttp2|:blue_square: S|0|||
 [#19588](https://github.com/conan-io/conan-center-index/pull/19588)|[RubenRBS](https://github.com/RubenRBS)|Sep 4|:green_book: docs|:green_circle: XS|1|Sep 4||
+[#19589](https://github.com/conan-io/conan-center-index/pull/19589)|[boussaffawalid](https://github.com/boussaffawalid)|Sep 4|:stopwatch: gdk-pixbuf|:green_circle: XS|0|||
 [#19590](https://github.com/conan-io/conan-center-index/pull/19590)|[toge](https://github.com/toge)|Sep 4|:stopwatch: dacap-clip|:blue_square: S|0|||
 
 
@@ -233,8 +234,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 479
 	- Draft: 56
-	- Average Age: 76 days, 14 hours, and 29.23 minutes
-	- Stop Label: 212
+	- Average Age: 76 days, 15 hours, and 24.45 minutes
+	- Stop Label: 211
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
