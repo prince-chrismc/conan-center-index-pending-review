@@ -212,7 +212,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19568](https://github.com/conan-io/conan-center-index/pull/19568)|[toge](https://github.com/toge)|Sep 3|:memo: cppitertools|M|0|||
 [#19570](https://github.com/conan-io/conan-center-index/pull/19570)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 3|:gear: .c3i|:green_circle: XS|1|Sep 3||SSE4
 [#19571](https://github.com/conan-io/conan-center-index/pull/19571)|[toge](https://github.com/toge)|Sep 3|:memo: crowcpp-crow|:blue_square: S|0|||
-[#19573](https://github.com/conan-io/conan-center-index/pull/19573)|[wolfee001](https://github.com/wolfee001)|Sep 3|:stopwatch: ulid|M|0|||
+[#19573](https://github.com/conan-io/conan-center-index/pull/19573)|[wolfee001](https://github.com/wolfee001)|Sep 3|:new: ulid|M|0|||
 [#19574](https://github.com/conan-io/conan-center-index/pull/19574)|[toge](https://github.com/toge)|Sep 3|:memo: cubicinterpolation|:blue_square: S|0|||
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:stopwatch: lief|:blue_square: S|0|||
 [#19577](https://github.com/conan-io/conan-center-index/pull/19577)|[toge](https://github.com/toge)|Sep 3|:memo: csvmonkey|:green_circle: XS|0|||
@@ -239,7 +239,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 482
 	- Draft: 57
-	- Average Age: 75 days, 20 hours, and 55.43 minutes
+	- Average Age: 75 days, 22 hours, and 31.52 minutes
 	- Stop Label: 209
 	
 
