@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **183** pull requests currently under way :detective:
+There are **185** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -165,7 +165,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19251](https://github.com/conan-io/conan-center-index/pull/19251)|[valgur](https://github.com/valgur)|Aug 17|:stopwatch: boost|L|1|Aug 19 :bell:||
 [#19252](https://github.com/conan-io/conan-center-index/pull/19252)|[valgur](https://github.com/valgur)|Aug 17|:memo: libsixel|L|0|:eyes:||
-[#19274](https://github.com/conan-io/conan-center-index/pull/19274)|[toge](https://github.com/toge)|Aug 18|:memo: zlib|L|1|Aug 21 :bell:|RubenRBS|
 [#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:memo: libhal|L|4|Sep 3|jcar87|jwillikers
 [#19327](https://github.com/conan-io/conan-center-index/pull/19327)|[Nekto89](https://github.com/Nekto89)|Aug 21|:memo: gdcm|:green_circle: XS|1|Aug 22 :bell:||[fdgStilla](https://github.com/fdgStilla)
 [#19339](https://github.com/conan-io/conan-center-index/pull/19339)|[jwillikers](https://github.com/jwillikers)|Aug 22|:memo: qt|:green_circle: XS|2|Aug 24||ericLemanissier, MartinDelille
@@ -210,18 +209,20 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19577](https://github.com/conan-io/conan-center-index/pull/19577)|[toge](https://github.com/toge)|Sep 3|:memo: csvmonkey|:green_circle: XS|1|Sep 4||RubenRBS
 [#19579](https://github.com/conan-io/conan-center-index/pull/19579)|[memsharded](https://github.com/memsharded)|Sep 3|:stopwatch: nss|:green_circle: XS|0|||
 [#19585](https://github.com/conan-io/conan-center-index/pull/19585)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 4|:gear: .c3i|:green_circle: XS|1|Sep 4||RubenRBS
+[#19587](https://github.com/conan-io/conan-center-index/pull/19587)|[toge](https://github.com/toge)|Sep 4|:stopwatch: libnghttp2|:blue_square: S|0|||
+[#19588](https://github.com/conan-io/conan-center-index/pull/19588)|[RubenRBS](https://github.com/RubenRBS)|Sep 4|:green_book: docs|:green_circle: XS|0|||
+[#19589](https://github.com/conan-io/conan-center-index/pull/19589)|[boussaffawalid](https://github.com/boussaffawalid)|Sep 4|:stopwatch: gdk-pixbuf|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **3** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#18196](https://github.com/conan-io/conan-center-index/pull/18196)|[valgur](https://github.com/valgur)|Jun 30|:warning: avahi|8|RubenRBS, SSE4, jcar87
-[#19523](https://github.com/conan-io/conan-center-index/pull/19523)|[uilianries](https://github.com/uilianries)|Aug 31|:gear: .c3i|2|danimtb, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -230,9 +231,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 477
+	- Open: 478
 	- Draft: 56
-	- Average Age: 76 days, 21 hours, and 12.17 minutes
+	- Average Age: 76 days, 17 hours, and 17.18 minutes
 	- Stop Label: 211
 	
 
