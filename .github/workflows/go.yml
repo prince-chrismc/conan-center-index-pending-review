@@ -18,7 +18,7 @@ jobs:
       - uses: actions/setup-go@v4
         with:
           go-version: ^1.19
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/cache@v3
         with:
           path: ~/go/pkg/mod
@@ -42,7 +42,7 @@ jobs:
       - uses: actions/setup-go@v4
         with:
           go-version: ^1.19
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: actions/cache@v3
         with:
           path: ~/go/pkg/mod
@@ -62,7 +62,7 @@ jobs:
     if: github.event_name == 'pull_request' || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: golangci/golangci-lint-action@v3
 
         
@@ -70,5 +70,5 @@ jobs:
     if: github.event_name == 'pull_request' || github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: dominikh/staticcheck-action@v1.3.0
