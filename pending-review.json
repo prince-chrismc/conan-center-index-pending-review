@@ -4208,27 +4208,32 @@
       "Change": 2,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19588",
-      "LastCommitSHA": "ab6ebe985e1c70de132ed33cd28d9aab9ce9958b",
-      "LastCommitAt": "2023-09-04T14:52:04Z",
+      "LastCommitSHA": "1b85093335e2502332c7043253e4e387f0b88fac",
+      "LastCommitAt": "2023-09-04T15:19:01Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
-         "Blockers": null
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-09-04T15:17:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19588#pullrequestreview-1609720418"
+         }
       }
    },
    {
-      "Number": 19589,
-      "OpenedBy": "boussaffawalid",
-      "CreatedAt": "2023-09-04T14:55:05Z",
-      "Recipe": "gdk-pixbuf",
+      "Number": 19590,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-04T16:15:12Z",
+      "Recipe": "dacap-clip",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19589",
-      "LastCommitSHA": "8bfb4edf34f2e927e803d6a1e61962d68e7d364f",
-      "LastCommitAt": "2023-09-04T14:53:58Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19590",
+      "LastCommitSHA": "9f7acfd0d8f85389f254b6b83744286d8a3e9f54",
+      "LastCommitAt": "2023-09-04T16:14:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
