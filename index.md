@@ -191,7 +191,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19538](https://github.com/conan-io/conan-center-index/pull/19538)|[toge](https://github.com/toge)|Aug 31|:stopwatch: re2|:green_circle: XS|0|:eyes:||
 [#19541](https://github.com/conan-io/conan-center-index/pull/19541)|[toge](https://github.com/toge)|Sep 1|:memo: glaze|:blue_square: S|2|Sep 5||uilianries
 [#19549](https://github.com/conan-io/conan-center-index/pull/19549)|[toge](https://github.com/toge)|Sep 1|:stopwatch: opencolorio|L|0|:eyes:||
-[#19554](https://github.com/conan-io/conan-center-index/pull/19554)|[Kalixio](https://github.com/Kalixio)|Sep 1|:stopwatch: eastl|:green_circle: XS|0|:eyes:||
+[#19554](https://github.com/conan-io/conan-center-index/pull/19554)|[Kalixio](https://github.com/Kalixio)|Sep 1|:stopwatch: eastl|:green_circle: XS|0|||
 [#19557](https://github.com/conan-io/conan-center-index/pull/19557)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 2|:memo: gdk-pixbuf|:green_circle: XS|0|:eyes:||
 [#19566](https://github.com/conan-io/conan-center-index/pull/19566)|[toge](https://github.com/toge)|Sep 3|:memo: octo-encryption-cpp|M|1|Sep 5||RubenRBS
 [#19568](https://github.com/conan-io/conan-center-index/pull/19568)|[toge](https://github.com/toge)|Sep 3|:memo: cppitertools|M|1|Sep 4||RubenRBS
@@ -227,7 +227,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 474
 	- Draft: 56
-	- Average Age: 76 days, 11 hours, and 25.80 minutes
+	- Average Age: 76 days, 12 hours, and 21.86 minutes
 	- Stop Label: 212
 	
 
