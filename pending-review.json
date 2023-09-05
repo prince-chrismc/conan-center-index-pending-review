@@ -3904,6 +3904,25 @@
       }
    },
    {
+      "Number": 19582,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-09-04T06:59:32Z",
+      "Recipe": "gtsam",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19582",
+      "LastCommitSHA": "6dcd5f3a5a9251dd84d64dff97732032f826bb8a",
+      "LastCommitAt": "2023-09-05T09:02:55Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19583,
       "OpenedBy": "xyz1001",
       "CreatedAt": "2023-09-04T09:07:05Z",
@@ -4125,7 +4144,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19606",
       "LastCommitSHA": "9353b84bbc087c576d21750e76bb8bb0b5e805a3",
       "LastCommitAt": "2023-09-05T12:47:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
