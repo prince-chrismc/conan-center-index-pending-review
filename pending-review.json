@@ -765,35 +765,6 @@
       }
    },
    {
-      "Number": 17728,
-      "OpenedBy": "YaZasnyal",
-      "CreatedAt": "2023-05-28T10:43:07Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17728",
-      "LastCommitSHA": "25d70953467664a8dc73f0b6a547cfe9b55dab56",
-      "LastCommitAt": "2023-05-28T10:45:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "MartinDelille",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2023-07-25T12:45:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17728#pullrequestreview-1545385114"
-         }
-      }
-   },
-   {
       "Number": 17741,
       "OpenedBy": "perseoGI",
       "CreatedAt": "2023-05-29T11:42:55Z",
@@ -3892,9 +3863,9 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19541",
-      "LastCommitSHA": "810086655fba2ab0f56a473365cb5e7cfc17ed98",
-      "LastCommitAt": "2023-09-01T08:22:15Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "36d0789442af23cdf9daaf87394fd76ded7379fc",
+      "LastCommitAt": "2023-09-05T02:24:36Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4273,25 +4244,6 @@
       "LastCommitSHA": "7027e1091d91dbac312961be4115de7a7e2062df",
       "LastCommitAt": "2023-09-04T23:29:03Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19595,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-05T02:14:10Z",
-      "Recipe": "libtins",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19595",
-      "LastCommitSHA": "bd981371e902153b2a84ff2a42ee890c74d47981",
-      "LastCommitAt": "2023-09-05T02:13:05Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
