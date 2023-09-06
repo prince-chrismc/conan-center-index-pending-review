@@ -198,13 +198,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#19568](https://github.com/conan-io/conan-center-index/pull/19568)|[toge](https://github.com/toge)|Sep 3|:memo: cppitertools|2|RubenRBS, danimtb
 [#19610](https://github.com/conan-io/conan-center-index/pull/19610)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:memo: freetype|2|ericLemanissier, RubenRBS
 [#19621](https://github.com/conan-io/conan-center-index/pull/19621)|[franramirez688](https://github.com/franramirez688)|Sep 6|:warning: wayland|3|RubenRBS, czoido, jwillikers
 
@@ -215,9 +214,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 473
+	- Open: 472
 	- Draft: 59
-	- Average Age: 76 days, 13 hours, and 29.71 minutes
+	- Average Age: 76 days, 18 hours, and 10.32 minutes
 	- Stop Label: 219
 	
 
