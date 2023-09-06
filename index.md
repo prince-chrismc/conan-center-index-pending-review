@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **167** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -160,7 +160,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19411](https://github.com/conan-io/conan-center-index/pull/19411)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 25|:memo: kdbindings|:green_circle: XS|0|:eyes:||
 [#19417](https://github.com/conan-io/conan-center-index/pull/19417)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 25|:memo: glib|L|0|:eyes:||
 [#19426](https://github.com/conan-io/conan-center-index/pull/19426)|[toge](https://github.com/toge)|Aug 26|:new: libaesgm|M|0|:eyes:||
-[#19438](https://github.com/conan-io/conan-center-index/pull/19438)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnxruntime|:blue_square: S|0|||
+[#19438](https://github.com/conan-io/conan-center-index/pull/19438)|[mayeut](https://github.com/mayeut)|Aug 26|:memo: onnxruntime|:blue_square: S|1|Sep 6||RubenRBS
 [#19447](https://github.com/conan-io/conan-center-index/pull/19447)|[toge](https://github.com/toge)|Aug 27|:memo: libzippp|:blue_square: S|1|Aug 29||
 [#19470](https://github.com/conan-io/conan-center-index/pull/19470)|[tankeco](https://github.com/tankeco)|Aug 28|:memo: mimalloc|:green_circle: XS|0|:eyes:||
 [#19472](https://github.com/conan-io/conan-center-index/pull/19472)|[pwqbot](https://github.com/pwqbot)|Aug 29|:memo: spdlog|:green_circle: XS|1|Sep 6||samuel-emrys
@@ -192,8 +192,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19616](https://github.com/conan-io/conan-center-index/pull/19616)|[toge](https://github.com/toge)|Sep 6|:memo: wasmer|:blue_square: S|1|Sep 6||RubenRBS
 [#19617](https://github.com/conan-io/conan-center-index/pull/19617)|[czoido](https://github.com/czoido)|Sep 6|:memo: tree-sitter-c|:blue_square: S|1|Sep 6||RubenRBS
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|||
-[#19623](https://github.com/conan-io/conan-center-index/pull/19623)|[toge](https://github.com/toge)|Sep 6|:stopwatch: zmqpp|:blue_square: S|1|Sep 6||RubenRBS
+[#19623](https://github.com/conan-io/conan-center-index/pull/19623)|[toge](https://github.com/toge)|Sep 6|:stopwatch: zmqpp|:blue_square: S|2|Sep 6||RubenRBS
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|0|||
+[#19633](https://github.com/conan-io/conan-center-index/pull/19633)|[paulharris](https://github.com/paulharris)|Sep 6|:stopwatch: sentry-crashpad|M|0|||
+[#19634](https://github.com/conan-io/conan-center-index/pull/19634)|[RubenRBS](https://github.com/RubenRBS)|Sep 6|:stopwatch: libgd|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -213,9 +215,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 470
+	- Open: 472
 	- Draft: 59
-	- Average Age: 77 days, 2 hours, and 57.31 minutes
+	- Average Age: 76 days, 20 hours, and 6.98 minutes
 	- Stop Label: 219
 	
 
