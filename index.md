@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **170** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -182,7 +182,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19557](https://github.com/conan-io/conan-center-index/pull/19557)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 2|:stopwatch: gdk-pixbuf|:blue_square: S|1|Sep 6||
 [#19573](https://github.com/conan-io/conan-center-index/pull/19573)|[wolfee001](https://github.com/wolfee001)|Sep 3|:new: ulid|M|0|||
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:stopwatch: lief|:blue_square: S|1|Sep 6||ericLemanissier
-[#19579](https://github.com/conan-io/conan-center-index/pull/19579)|[memsharded](https://github.com/memsharded)|Sep 3|:stopwatch: nss|:green_circle: XS|0|||
+[#19579](https://github.com/conan-io/conan-center-index/pull/19579)|[memsharded](https://github.com/memsharded)|Sep 3|:stopwatch: nss|:green_circle: XS|0|:eyes:||
 [#19582](https://github.com/conan-io/conan-center-index/pull/19582)|[valgur](https://github.com/valgur)|Sep 4|:memo: gtsam|:blue_square: S|1|Sep 6||ericLemanissier
 [#19589](https://github.com/conan-io/conan-center-index/pull/19589)|[boussaffawalid](https://github.com/boussaffawalid)|Sep 4|:stopwatch: gdk-pixbuf|:green_circle: XS|0|||
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:memo: newmat|:blue_square: S|0|||
@@ -193,21 +193,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19615](https://github.com/conan-io/conan-center-index/pull/19615)|[hedtke](https://github.com/hedtke)|Sep 6|:memo: soplex|M|1|Sep 6||RubenRBS
 [#19616](https://github.com/conan-io/conan-center-index/pull/19616)|[toge](https://github.com/toge)|Sep 6|:memo: wasmer|:blue_square: S|1|Sep 6||RubenRBS
 [#19617](https://github.com/conan-io/conan-center-index/pull/19617)|[czoido](https://github.com/czoido)|Sep 6|:memo: tree-sitter-c|:blue_square: S|1|Sep 6||RubenRBS
-[#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:stopwatch: cn-cbor|:blue_square: S|0|||
-[#19622](https://github.com/conan-io/conan-center-index/pull/19622)|[toge](https://github.com/toge)|Sep 6|:stopwatch: daw_header_libraries|:green_circle: XS|1|Sep 6||RubenRBS
+[#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|||
 [#19623](https://github.com/conan-io/conan-center-index/pull/19623)|[toge](https://github.com/toge)|Sep 6|:stopwatch: zmqpp|:blue_square: S|1|Sep 6||RubenRBS
 [#19624](https://github.com/conan-io/conan-center-index/pull/19624)|[toge](https://github.com/toge)|Sep 6|:stopwatch: libcurl|:green_circle: XS|1|Sep 6||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#19252](https://github.com/conan-io/conan-center-index/pull/19252)|[valgur](https://github.com/valgur)|Aug 17|:memo: libsixel|2|danimtb, RubenRBS
 [#19500](https://github.com/conan-io/conan-center-index/pull/19500)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: autoconf|2|ericLemanissier, uilianries
 [#19566](https://github.com/conan-io/conan-center-index/pull/19566)|[toge](https://github.com/toge)|Sep 3|:memo: octo-encryption-cpp|2|RubenRBS, danimtb
 [#19568](https://github.com/conan-io/conan-center-index/pull/19568)|[toge](https://github.com/toge)|Sep 3|:memo: cppitertools|2|RubenRBS, danimtb
@@ -221,9 +219,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 473
+	- Open: 472
 	- Draft: 56
-	- Average Age: 76 days, 11 hours, and 52.51 minutes
+	- Average Age: 76 days, 15 hours, and 38.85 minutes
 	- Stop Label: 216
 	
 
