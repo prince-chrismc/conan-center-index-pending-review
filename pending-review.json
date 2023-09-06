@@ -3804,25 +3804,6 @@
       }
    },
    {
-      "Number": 19606,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-09-05T12:55:32Z",
-      "Recipe": "vulkan-validationlayers",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19606",
-      "LastCommitSHA": "9353b84bbc087c576d21750e76bb8bb0b5e805a3",
-      "LastCommitAt": "2023-09-05T12:47:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19610,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-06T00:04:25Z",
