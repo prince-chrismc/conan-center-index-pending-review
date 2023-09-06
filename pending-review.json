@@ -3113,11 +3113,21 @@
       "LastCommitAt": "2023-09-05T09:37:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-09-06T22:14:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19438#pullrequestreview-1614293866"
+         }
       }
    },
    {
@@ -3882,7 +3892,7 @@
       "LastCommitAt": "2023-09-06T15:03:51Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": true,
          "Approvals": [
@@ -3893,9 +3903,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-06T15:09:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19623#pullrequestreview-1613597054"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-09-06T22:26:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19623#pullrequestreview-1614303527"
          }
       }
    },
@@ -3909,6 +3919,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19631",
       "LastCommitSHA": "2279559ee0db245f7dceeb2016a88ae5fcaa2269",
       "LastCommitAt": "2023-09-06T19:47:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19633,
+      "OpenedBy": "paulharris",
+      "CreatedAt": "2023-09-06T22:53:39Z",
+      "Recipe": "sentry-crashpad",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19633",
+      "LastCommitSHA": "722f1043404310906733376e822015192d443581",
+      "LastCommitAt": "2023-09-06T22:57:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19634,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-06T23:00:12Z",
+      "Recipe": "libgd",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19634",
+      "LastCommitSHA": "f2f95bb1847084d51115ead2a3ad4ba40e955623",
+      "LastCommitAt": "2023-09-06T23:00:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
