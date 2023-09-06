@@ -185,19 +185,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17125",
-      "LastCommitSHA": "5a98674b9d8a9c54cdea8c6f0dba2765e99c66cc",
-      "LastCommitAt": "2023-08-27T23:43:22Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8d58fb3bda1ccac1f07564e4ee6eba55163ae646",
+      "LastCommitAt": "2023-09-05T23:57:29Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -4145,6 +4140,25 @@
       "LastCommitSHA": "9353b84bbc087c576d21750e76bb8bb0b5e805a3",
       "LastCommitAt": "2023-09-05T12:47:59Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19610,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-06T00:04:25Z",
+      "Recipe": "freetype",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19610",
+      "LastCommitSHA": "c3326c07c135a86597dfe71d6f4288bfafe0811f",
+      "LastCommitAt": "2023-09-06T00:03:12Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
