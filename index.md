@@ -208,7 +208,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:memo: newmat|:blue_square: S|0|||
 [#19602](https://github.com/conan-io/conan-center-index/pull/19602)|[toge](https://github.com/toge)|Sep 5|:memo: mpc|M|1|Sep 5||RubenRBS
 [#19606](https://github.com/conan-io/conan-center-index/pull/19606)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 5|:memo: vulkan-validationlayers|:blue_square: S|0|||
-[#19610](https://github.com/conan-io/conan-center-index/pull/19610)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:stopwatch: freetype|:green_circle: XS|0|||
+[#19610](https://github.com/conan-io/conan-center-index/pull/19610)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:memo: freetype|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -229,7 +229,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 476
 	- Draft: 57
-	- Average Age: 76 days, 12 hours, and 13.07 minutes
+	- Average Age: 76 days, 13 hours, and 43.60 minutes
 	- Stop Label: 212
 	
 
