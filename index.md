@@ -40,7 +40,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17276](https://github.com/conan-io/conan-center-index/pull/17276)|[MartinDelille](https://github.com/MartinDelille)|Apr 27|:stopwatch: qtawesome|M|11|Aug 9 :bell:||
 [#17308](https://github.com/conan-io/conan-center-index/pull/17308)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:stopwatch: arg_router|L|5|May 8 :bell:||
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|5|May 20 :bell:|jcar87|jwillikers, prince-chrismc, SSE4
-[#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:memo: tk|L|3|Sep 3||AndreyMlashkin
+[#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:memo: tk|L|4|Sep 6||AndreyMlashkin, [EstebanDugueperoux2](https://github.com/EstebanDugueperoux2)
 [#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:stopwatch: paho-mqtt-c|:green_circle: XS|0|:eyes:||
 [#17485](https://github.com/conan-io/conan-center-index/pull/17485)|[SpaceIm](https://github.com/SpaceIm)|May 9|:stopwatch: libxft|L|2|Jun 22 :bell:||jwillikers, SSE4
 [#17509](https://github.com/conan-io/conan-center-index/pull/17509)|[jusito](https://github.com/jusito)|May 10|:stopwatch: llvm|XL|0|:eyes:||
@@ -193,19 +193,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19617](https://github.com/conan-io/conan-center-index/pull/19617)|[czoido](https://github.com/czoido)|Sep 6|:memo: tree-sitter-c|:blue_square: S|1|Sep 6||RubenRBS
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|||
 [#19623](https://github.com/conan-io/conan-center-index/pull/19623)|[toge](https://github.com/toge)|Sep 6|:stopwatch: zmqpp|:blue_square: S|1|Sep 6||RubenRBS
-[#19624](https://github.com/conan-io/conan-center-index/pull/19624)|[toge](https://github.com/toge)|Sep 6|:stopwatch: libcurl|:green_circle: XS|1|Sep 6||RubenRBS
+[#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#19500](https://github.com/conan-io/conan-center-index/pull/19500)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: autoconf|2|ericLemanissier, uilianries
-[#19566](https://github.com/conan-io/conan-center-index/pull/19566)|[toge](https://github.com/toge)|Sep 3|:memo: octo-encryption-cpp|2|RubenRBS, danimtb
 [#19568](https://github.com/conan-io/conan-center-index/pull/19568)|[toge](https://github.com/toge)|Sep 3|:memo: cppitertools|2|RubenRBS, danimtb
 [#19610](https://github.com/conan-io/conan-center-index/pull/19610)|[SpaceIm](https://github.com/SpaceIm)|Sep 6|:memo: freetype|2|ericLemanissier, RubenRBS
 [#19621](https://github.com/conan-io/conan-center-index/pull/19621)|[franramirez688](https://github.com/franramirez688)|Sep 6|:warning: wayland|3|RubenRBS, czoido, jwillikers
@@ -217,10 +215,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
 - Pull Requests:
-	- Open: 474
+	- Open: 473
 	- Draft: 59
-	- Average Age: 76 days, 9 hours, and 7.47 minutes
-	- Stop Label: 218
+	- Average Age: 76 days, 13 hours, and 29.71 minutes
+	- Stop Label: 219
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
