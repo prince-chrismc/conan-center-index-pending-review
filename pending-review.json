@@ -3854,25 +3854,6 @@
       }
    },
    {
-      "Number": 19645,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-09-07T09:51:13Z",
-      "Recipe": "fontconfig",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19645",
-      "LastCommitSHA": "8363c8922ccc127db0d81a9b5f528274e35eea95",
-      "LastCommitAt": "2023-09-07T09:53:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19650,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-09-07T10:34:07Z",
@@ -4120,25 +4101,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19666",
       "LastCommitSHA": "d6a581424d996a572f570233b0e8e379275c84b9",
       "LastCommitAt": "2023-09-07T17:52:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19667,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-07T19:53:46Z",
-      "Recipe": "pcre",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19667",
-      "LastCommitSHA": "221582961334fccec64f5f520c929241b5a0fb8a",
-      "LastCommitAt": "2023-09-07T19:53:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
