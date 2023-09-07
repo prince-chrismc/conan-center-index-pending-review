@@ -157,7 +157,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19344](https://github.com/conan-io/conan-center-index/pull/19344)|[vbieleny](https://github.com/vbieleny)|Aug 22|:stopwatch: microprofile|:green_circle: XS|0|:eyes:||
 [#19367](https://github.com/conan-io/conan-center-index/pull/19367)|[holger-detering](https://github.com/holger-detering)|Aug 23|:stopwatch: aws-c-http|:blue_square: S|0|:eyes:||
 [#19369](https://github.com/conan-io/conan-center-index/pull/19369)|[marxin](https://github.com/marxin)|Aug 23|:stopwatch: gdal|M|3|Sep 3||[valgur](https://github.com/valgur), AndreyMlashkin
-[#19372](https://github.com/conan-io/conan-center-index/pull/19372)|[ngrodzitski](https://github.com/ngrodzitski)|Aug 23|:memo: so5extra|L|0|||
+[#19372](https://github.com/conan-io/conan-center-index/pull/19372)|[ngrodzitski](https://github.com/ngrodzitski)|Aug 23|:memo: so5extra|L|0|:eyes:||
 [#19411](https://github.com/conan-io/conan-center-index/pull/19411)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 25|:memo: kdbindings|:green_circle: XS|0|:eyes:||
 [#19417](https://github.com/conan-io/conan-center-index/pull/19417)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 25|:stopwatch: glib|L|0|||
 [#19447](https://github.com/conan-io/conan-center-index/pull/19447)|[toge](https://github.com/toge)|Aug 27|:memo: libzippp|:blue_square: S|2|Sep 7||uilianries
@@ -199,15 +199,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **2** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
-[#19635](https://github.com/conan-io/conan-center-index/pull/19635)|[toge](https://github.com/toge)|Sep 7|:memo: wasmtime|2|uilianries, RubenRBS
-[#19636](https://github.com/conan-io/conan-center-index/pull/19636)|[toge](https://github.com/toge)|Sep 7|:memo: octo-keygen-cpp|2|uilianries, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -216,9 +214,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 472
+	- Open: 470
 	- Draft: 56
-	- Average Age: 77 days, 3 hours, and 10.15 minutes
+	- Average Age: 77 days, 12 hours, and 12.31 minutes
 	- Stop Label: 220
 	
 
