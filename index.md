@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **180** pull requests currently under way :detective:
+There are **178** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -190,7 +190,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19634](https://github.com/conan-io/conan-center-index/pull/19634)|[RubenRBS](https://github.com/RubenRBS)|Sep 6|:stopwatch: libgd|:green_circle: XS|0|||
 [#19638](https://github.com/conan-io/conan-center-index/pull/19638)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 7|:gear: .c3i|:green_circle: XS|1|Sep 7||RubenRBS
 [#19639](https://github.com/conan-io/conan-center-index/pull/19639)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: qt|:blue_square: S|1|Sep 7||jwillikers
-[#19645](https://github.com/conan-io/conan-center-index/pull/19645)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: fontconfig|:green_circle: XS|0|||
 [#19650](https://github.com/conan-io/conan-center-index/pull/19650)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: openssl|:green_circle: XS|0|||
 [#19652](https://github.com/conan-io/conan-center-index/pull/19652)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 7|:stopwatch: onetbb|:green_circle: XS|0|||
 [#19653](https://github.com/conan-io/conan-center-index/pull/19653)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: libpq|L|0|||
@@ -204,7 +203,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19664](https://github.com/conan-io/conan-center-index/pull/19664)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: openexr|:green_circle: XS|0|||
 [#19665](https://github.com/conan-io/conan-center-index/pull/19665)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: netcdf|:green_circle: XS|0|||
 [#19666](https://github.com/conan-io/conan-center-index/pull/19666)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: openexr|:green_circle: XS|0|||
-[#19667](https://github.com/conan-io/conan-center-index/pull/19667)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: pcre|:green_circle: XS|0|||
 [#19668](https://github.com/conan-io/conan-center-index/pull/19668)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: pcre2|:green_circle: XS|0|||
 [#19669](https://github.com/conan-io/conan-center-index/pull/19669)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: minizip|:green_circle: XS|0|||
 
@@ -227,9 +225,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
 	- Open: 484
-	- Draft: 56
-	- Average Age: 75 days, 13 hours, and 37.71 minutes
-	- Stop Label: 220
+	- Draft: 55
+	- Average Age: 75 days, 14 hours, and 38.86 minutes
+	- Stop Label: 222
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
