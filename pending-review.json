@@ -3888,19 +3888,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19623",
-      "LastCommitSHA": "c01cbf8bed303eb8a34ad46df4cf725559333366",
-      "LastCommitAt": "2023-09-06T15:03:51Z",
+      "LastCommitSHA": "67f88af15780ae4c7b8f2b43f051ee2aff3ccb20",
+      "LastCommitAt": "2023-09-07T01:50:33Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
@@ -3976,6 +3971,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19635",
       "LastCommitSHA": "d7508a7883ac58f61b005410fd5bd54fc6acadc8",
       "LastCommitAt": "2023-09-07T01:32:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19636,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-07T01:48:59Z",
+      "Recipe": "octo-keygen-cpp",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19636",
+      "LastCommitSHA": "19173324cc039cd9a8c04a62257a0deb2a93afb5",
+      "LastCommitAt": "2023-09-07T01:48:20Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
