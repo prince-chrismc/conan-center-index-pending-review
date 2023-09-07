@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **176** pull requests currently under way :detective:
+There are **179** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -180,7 +180,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:memo: newmat|:blue_square: S|0|||
 [#19600](https://github.com/conan-io/conan-center-index/pull/19600)|[toge](https://github.com/toge)|Sep 5|:memo: objectbox|:blue_square: S|0|||
 [#19602](https://github.com/conan-io/conan-center-index/pull/19602)|[toge](https://github.com/toge)|Sep 5|:memo: mpc|M|1|Sep 5||RubenRBS
-[#19606](https://github.com/conan-io/conan-center-index/pull/19606)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 5|:stopwatch: vulkan-validationlayers|:blue_square: S|1|Sep 6||
+[#19606](https://github.com/conan-io/conan-center-index/pull/19606)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 5|:stopwatch: vulkan-validationlayers|:blue_square: S|2|Sep 7||SpaceIm
 [#19611](https://github.com/conan-io/conan-center-index/pull/19611)|[xyz1001](https://github.com/xyz1001)|Sep 6|:memo: libheif|M|0|||
 [#19615](https://github.com/conan-io/conan-center-index/pull/19615)|[hedtke](https://github.com/hedtke)|Sep 6|:memo: soplex|M|1|Sep 6||RubenRBS
 [#19617](https://github.com/conan-io/conan-center-index/pull/19617)|[czoido](https://github.com/czoido)|Sep 6|:memo: tree-sitter-c|:blue_square: S|1|Sep 6||RubenRBS
@@ -203,6 +203,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19664](https://github.com/conan-io/conan-center-index/pull/19664)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: openexr|:green_circle: XS|0|||
 [#19665](https://github.com/conan-io/conan-center-index/pull/19665)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: netcdf|:green_circle: XS|0|||
 [#19666](https://github.com/conan-io/conan-center-index/pull/19666)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: openexr|:green_circle: XS|0|||
+[#19667](https://github.com/conan-io/conan-center-index/pull/19667)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: pcre|:green_circle: XS|0|||
+[#19668](https://github.com/conan-io/conan-center-index/pull/19668)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: pcre2|:green_circle: XS|0|||
+[#19669](https://github.com/conan-io/conan-center-index/pull/19669)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: minizip|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -222,9 +225,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 481
+	- Open: 484
 	- Draft: 56
-	- Average Age: 75 days, 20 hours, and 59.20 minutes
+	- Average Age: 75 days, 11 hours, and 38.91 minutes
 	- Stop Label: 221
 	
 
