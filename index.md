@@ -196,8 +196,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|0|||
 [#19633](https://github.com/conan-io/conan-center-index/pull/19633)|[paulharris](https://github.com/paulharris)|Sep 6|:stopwatch: sentry-crashpad|M|0|||
 [#19634](https://github.com/conan-io/conan-center-index/pull/19634)|[RubenRBS](https://github.com/RubenRBS)|Sep 6|:stopwatch: libgd|:green_circle: XS|0|||
-[#19635](https://github.com/conan-io/conan-center-index/pull/19635)|[toge](https://github.com/toge)|Sep 7|:stopwatch: wasmtime|:blue_square: S|0|||
-[#19636](https://github.com/conan-io/conan-center-index/pull/19636)|[toge](https://github.com/toge)|Sep 7|:stopwatch: octo-keygen-cpp|L|0|||
+[#19635](https://github.com/conan-io/conan-center-index/pull/19635)|[toge](https://github.com/toge)|Sep 7|:memo: wasmtime|:blue_square: S|0|||
+[#19636](https://github.com/conan-io/conan-center-index/pull/19636)|[toge](https://github.com/toge)|Sep 7|:memo: octo-keygen-cpp|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -215,11 +215,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: c331051b4c60e76d500e85a8afe1bc8c4b58108f
+- Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
 	- Open: 474
 	- Draft: 59
-	- Average Age: 76 days, 15 hours, and 26.02 minutes
+	- Average Age: 76 days, 17 hours, and 22.72 minutes
 	- Stop Label: 219
 	
 
