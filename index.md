@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **167** pull requests currently under way :detective:
+There are **168** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -106,6 +106,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18824](https://github.com/conan-io/conan-center-index/pull/18824)|[valgur](https://github.com/valgur)|Jul 22|:memo: libbasisu|L|0|:eyes:||
 [#18831](https://github.com/conan-io/conan-center-index/pull/18831)|[valgur](https://github.com/valgur)|Jul 22|:memo: ags|L|0|:eyes:||
 [#18844](https://github.com/conan-io/conan-center-index/pull/18844)|[valgur](https://github.com/valgur)|Jul 23|:memo: premake|L|0|:eyes:||
+[#18845](https://github.com/conan-io/conan-center-index/pull/18845)|[toge](https://github.com/toge)|Jul 23|:memo: geos|M|2|Sep 7||uilianries
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|L|7|Sep 6||franramirez688
 [#18863](https://github.com/conan-io/conan-center-index/pull/18863)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: cryptopp-pem|L|0|:eyes:||
 [#18865](https://github.com/conan-io/conan-center-index/pull/18865)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: libxmlpp|L|0|:eyes:||
@@ -217,8 +218,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 485
 	- Draft: 64
-	- Average Age: 75 days, 21 hours, and 32.43 minutes
-	- Stop Label: 223
+	- Average Age: 75 days, 22 hours, and 36.55 minutes
+	- Stop Label: 222
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
