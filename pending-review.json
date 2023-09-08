@@ -3821,25 +3821,6 @@
       }
    },
    {
-      "Number": 19681,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-09-08T15:13:24Z",
-      "Recipe": "openvino",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19681",
-      "LastCommitSHA": "081dff1d0960a7e73337fcf371f6fd778ea5b9ca",
-      "LastCommitAt": "2023-09-08T15:11:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19682,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-08T16:09:05Z",
