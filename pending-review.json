@@ -3574,39 +3574,6 @@
       }
    },
    {
-      "Number": 19615,
-      "OpenedBy": "hedtke",
-      "CreatedAt": "2023-09-06T07:32:06Z",
-      "Recipe": "soplex",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19615",
-      "LastCommitSHA": "c24a6ca4dcf914d374fa9c6952b3e16233e20c9a",
-      "LastCommitAt": "2023-09-06T07:26:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-09-08T06:07:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19615#pullrequestreview-1616741885"
-         }
-      }
-   },
-   {
       "Number": 19618,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-06T14:13:32Z",
