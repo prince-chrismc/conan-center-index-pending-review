@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **166** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -183,10 +183,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19652](https://github.com/conan-io/conan-center-index/pull/19652)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 7|:stopwatch: onetbb|:green_circle: XS|0|||
 [#19653](https://github.com/conan-io/conan-center-index/pull/19653)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: libpq|L|0|||
 [#19659](https://github.com/conan-io/conan-center-index/pull/19659)|[mayeut](https://github.com/mayeut)|Sep 7|:stopwatch: abseil|L|0|||
+[#19663](https://github.com/conan-io/conan-center-index/pull/19663)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: protobuf|:green_circle: XS|1|Sep 8||
 [#19665](https://github.com/conan-io/conan-center-index/pull/19665)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: netcdf|:green_circle: XS|0|||
 [#19673](https://github.com/conan-io/conan-center-index/pull/19673)|[igormironchik](https://github.com/igormironchik)|Sep 8|:stopwatch: md4qt|:green_circle: XS|0|||
-[#19679](https://github.com/conan-io/conan-center-index/pull/19679)|[sykhro](https://github.com/sykhro)|Sep 8|:stopwatch: sdl|:blue_square: S|0|||
 [#19680](https://github.com/conan-io/conan-center-index/pull/19680)|[toge](https://github.com/toge)|Sep 8|:stopwatch: zpp_bits|:green_circle: XS|0|||
+[#19681](https://github.com/conan-io/conan-center-index/pull/19681)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 8|:stopwatch: openvino|L|0|||
+[#19682](https://github.com/conan-io/conan-center-index/pull/19682)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:stopwatch: highs|:green_circle: XS|0|||
+[#19683](https://github.com/conan-io/conan-center-index/pull/19683)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:stopwatch: vtu11|:green_circle: XS|0|||
+[#19684](https://github.com/conan-io/conan-center-index/pull/19684)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:stopwatch: gnutls|:green_circle: XS|0|||
+[#19685](https://github.com/conan-io/conan-center-index/pull/19685)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:stopwatch: libspng|:green_circle: XS|0|||
+[#19686](https://github.com/conan-io/conan-center-index/pull/19686)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:stopwatch: zziplib|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -200,7 +206,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
 [#19602](https://github.com/conan-io/conan-center-index/pull/19602)|[toge](https://github.com/toge)|Sep 5|:memo: mpc|3|RubenRBS, czoido, uilianries
 [#19615](https://github.com/conan-io/conan-center-index/pull/19615)|[hedtke](https://github.com/hedtke)|Sep 6|:memo: soplex|2|RubenRBS, czoido
-[#19657](https://github.com/conan-io/conan-center-index/pull/19657)|[toge](https://github.com/toge)|Sep 7|:warning: imgui|2|ericLemanissier, uilianries
+[#19657](https://github.com/conan-io/conan-center-index/pull/19657)|[toge](https://github.com/toge)|Sep 7|:warning: imgui|3|ericLemanissier, uilianries, RubenRBS
 
 
 #### :clipboard: Statistics
@@ -209,10 +215,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 480
-	- Draft: 65
-	- Average Age: 76 days, 14 hours, and 39.27 minutes
-	- Stop Label: 222
+	- Open: 486
+	- Draft: 64
+	- Average Age: 75 days, 17 hours, and 1.27 minutes
+	- Stop Label: 223
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
