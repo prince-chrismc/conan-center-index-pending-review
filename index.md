@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **158** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -185,17 +185,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19659](https://github.com/conan-io/conan-center-index/pull/19659)|[mayeut](https://github.com/mayeut)|Sep 7|:stopwatch: abseil|L|0|||
 [#19665](https://github.com/conan-io/conan-center-index/pull/19665)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: netcdf|:green_circle: XS|0|||
 [#19673](https://github.com/conan-io/conan-center-index/pull/19673)|[igormironchik](https://github.com/igormironchik)|Sep 8|:stopwatch: md4qt|:green_circle: XS|0|||
+[#19679](https://github.com/conan-io/conan-center-index/pull/19679)|[sykhro](https://github.com/sykhro)|Sep 8|:stopwatch: sdl|:blue_square: S|0|||
+[#19680](https://github.com/conan-io/conan-center-index/pull/19680)|[toge](https://github.com/toge)|Sep 8|:stopwatch: zpp_bits|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#19023](https://github.com/conan-io/conan-center-index/pull/19023)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: dsp-filters|6|czoido, RubenRBS
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
 [#19602](https://github.com/conan-io/conan-center-index/pull/19602)|[toge](https://github.com/toge)|Sep 5|:memo: mpc|3|RubenRBS, czoido, uilianries
 [#19615](https://github.com/conan-io/conan-center-index/pull/19615)|[hedtke](https://github.com/hedtke)|Sep 6|:memo: soplex|2|RubenRBS, czoido
@@ -208,9 +209,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 479
+	- Open: 480
 	- Draft: 65
-	- Average Age: 76 days, 18 hours, and 22.78 minutes
+	- Average Age: 76 days, 14 hours, and 39.27 minutes
 	- Stop Label: 222
 	
 
