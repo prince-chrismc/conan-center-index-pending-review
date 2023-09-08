@@ -186,7 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19617](https://github.com/conan-io/conan-center-index/pull/19617)|[czoido](https://github.com/czoido)|Sep 6|:memo: tree-sitter-c|:blue_square: S|1|Sep 6||RubenRBS
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|||
 [#19624](https://github.com/conan-io/conan-center-index/pull/19624)|[toge](https://github.com/toge)|Sep 6|:memo: libcurl|:green_circle: XS|3|Sep 7||SpaceIm
-[#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|1|Sep 7||ericLemanissier
+[#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|2|Sep 8||ericLemanissier, jwillikers
 [#19634](https://github.com/conan-io/conan-center-index/pull/19634)|[RubenRBS](https://github.com/RubenRBS)|Sep 6|:stopwatch: libgd|:green_circle: XS|0|||
 [#19638](https://github.com/conan-io/conan-center-index/pull/19638)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 7|:gear: .c3i|:green_circle: XS|1|Sep 7||RubenRBS
 [#19639](https://github.com/conan-io/conan-center-index/pull/19639)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:stopwatch: qt|:blue_square: S|1|Sep 7||jwillikers
@@ -226,7 +226,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 484
 	- Draft: 55
-	- Average Age: 75 days, 14 hours, and 38.86 minutes
+	- Average Age: 75 days, 17 hours, and 13.02 minutes
 	- Stop Label: 222
 	
 
