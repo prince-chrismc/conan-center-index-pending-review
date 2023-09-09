@@ -1491,7 +1491,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18626",
       "LastCommitSHA": "f161084727ce37bc99c3cf4981fdad0cd88353a5",
       "LastCommitAt": "2023-09-08T19:22:21Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3323,30 +3323,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 19533,
-      "OpenedBy": "cjbradfield",
-      "CreatedAt": "2023-08-31T17:51:46Z",
-      "Recipe": "libnghttp3",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19533",
-      "LastCommitSHA": "570112cda0a185e06327362507aa1d6c28789122",
-      "LastCommitAt": "2023-09-08T17:07:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-09-08T11:49:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19533#pullrequestreview-1617277075"
-         }
       }
    },
    {
