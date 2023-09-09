@@ -3388,6 +3388,25 @@
       }
    },
    {
+      "Number": 19551,
+      "OpenedBy": "cschreib",
+      "CreatedAt": "2023-09-01T15:40:47Z",
+      "Recipe": "snitch",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19551",
+      "LastCommitSHA": "55463d14e31e05249ea92781ea2fdb091db49bbc",
+      "LastCommitAt": "2023-09-09T19:26:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19554,
       "OpenedBy": "Kalixio",
       "CreatedAt": "2023-09-01T17:16:26Z",
@@ -3712,7 +3731,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19656",
       "LastCommitSHA": "ca2eff73ee26cfbd14fad906422e67cbfdbff1da",
       "LastCommitAt": "2023-09-09T15:00:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
