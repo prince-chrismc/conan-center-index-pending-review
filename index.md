@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **180** pull requests currently under way :detective:
+There are **179** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -200,7 +200,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19687](https://github.com/conan-io/conan-center-index/pull/19687)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 8|:stopwatch: .c3i|:blue_square: S|1|Sep 8||RubenRBS
 [#19691](https://github.com/conan-io/conan-center-index/pull/19691)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 9|:gear: .c3i|:green_circle: XS|0|||
 [#19693](https://github.com/conan-io/conan-center-index/pull/19693)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 9|:memo: ade|:green_circle: XS|0|||
-[#19694](https://github.com/conan-io/conan-center-index/pull/19694)|[Jihadist](https://github.com/Jihadist)|Sep 9|:stopwatch: qgeoview|M|0|||
 [#19696](https://github.com/conan-io/conan-center-index/pull/19696)|[toge](https://github.com/toge)|Sep 9|:memo: seasocks|:blue_square: S|0|||
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:stopwatch: mfast|:blue_square: S|0|||
 [#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:stopwatch: oatpp-sqlite|:blue_square: S|0|||
@@ -228,8 +227,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 493
 	- Draft: 65
-	- Average Age: 75 days, 19 hours, and 18.06 minutes
-	- Stop Label: 220
+	- Average Age: 75 days, 20 hours, and 18.32 minutes
+	- Stop Label: 221
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
