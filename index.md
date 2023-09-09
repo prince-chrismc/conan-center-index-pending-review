@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **170** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -197,6 +197,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19686](https://github.com/conan-io/conan-center-index/pull/19686)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:stopwatch: zziplib|:green_circle: XS|0|||
 [#19687](https://github.com/conan-io/conan-center-index/pull/19687)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 8|:stopwatch: .c3i|:blue_square: S|1|Sep 8||RubenRBS
 [#19691](https://github.com/conan-io/conan-center-index/pull/19691)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 9|:gear: .c3i|:green_circle: XS|0|||
+[#19693](https://github.com/conan-io/conan-center-index/pull/19693)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 9|:stopwatch: ade|:green_circle: XS|0|||
+[#19694](https://github.com/conan-io/conan-center-index/pull/19694)|[Jihadist](https://github.com/Jihadist)|Sep 9|:stopwatch: qgeoview|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -217,9 +219,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 486
+	- Open: 488
 	- Draft: 64
-	- Average Age: 76 days, 8 hours, and 35.54 minutes
+	- Average Age: 76 days, 3 hours, and 1.97 minutes
 	- Stop Label: 223
 	
 
