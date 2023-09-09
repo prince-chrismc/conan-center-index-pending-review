@@ -3986,5 +3986,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19693,
+      "OpenedBy": "ilya-lavrenov",
+      "CreatedAt": "2023-09-09T10:02:27Z",
+      "Recipe": "ade",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19693",
+      "LastCommitSHA": "858808a48311a15a5853b33c9157e48e6fa62dd8",
+      "LastCommitAt": "2023-09-09T10:02:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19694,
+      "OpenedBy": "Jihadist",
+      "CreatedAt": "2023-09-09T10:06:23Z",
+      "Recipe": "qgeoview",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19694",
+      "LastCommitSHA": "e59f9661fbbb81b77577c180230876519365c21b",
+      "LastCommitAt": "2023-09-09T10:02:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
