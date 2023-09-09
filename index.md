@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -184,6 +184,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|2|Sep 8||
 [#19652](https://github.com/conan-io/conan-center-index/pull/19652)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 7|:stopwatch: onetbb|:green_circle: XS|0|||
 [#19653](https://github.com/conan-io/conan-center-index/pull/19653)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: libpq|L|0|||
+[#19656](https://github.com/conan-io/conan-center-index/pull/19656)|[toge](https://github.com/toge)|Sep 7|:stopwatch: ada|M|1|Sep 8||uilianries
 [#19659](https://github.com/conan-io/conan-center-index/pull/19659)|[mayeut](https://github.com/mayeut)|Sep 7|:stopwatch: abseil|L|0|||
 [#19663](https://github.com/conan-io/conan-center-index/pull/19663)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: protobuf|:green_circle: XS|1|Sep 8||
 [#19665](https://github.com/conan-io/conan-center-index/pull/19665)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: netcdf|:green_circle: XS|0|||
@@ -217,8 +218,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 484
 	- Draft: 64
-	- Average Age: 76 days, 6 hours, and 7.31 minutes
-	- Stop Label: 223
+	- Average Age: 76 days, 9 hours, and 37.77 minutes
+	- Stop Label: 222
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
