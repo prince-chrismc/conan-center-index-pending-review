@@ -3435,7 +3435,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19571",
       "LastCommitSHA": "6e3c3a897a2ace83e0175c889782032741e6c2a1",
       "LastCommitAt": "2023-09-10T05:30:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -3578,7 +3578,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19600",
       "LastCommitSHA": "b6bf8187a23c8498dec45d0a4b3d479be6a1a031",
       "LastCommitAt": "2023-09-10T05:41:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4165,6 +4165,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19706",
       "LastCommitSHA": "c3b3de0fb01d3777c49ee866a71224d51cb3f0eb",
       "LastCommitAt": "2023-09-10T06:03:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19708,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-10T07:39:36Z",
+      "Recipe": "restinio",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19708",
+      "LastCommitSHA": "fc26c3bbdd3caf5447339dc05d77266a9e441edd",
+      "LastCommitAt": "2023-09-10T07:39:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19709,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-10T07:46:28Z",
+      "Recipe": "wasmtime-cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19709",
+      "LastCommitSHA": "1195ae90ef43004dc40f5aee76a67c96cd3d5c7c",
+      "LastCommitAt": "2023-09-10T07:45:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
