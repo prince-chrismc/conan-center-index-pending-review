@@ -4175,25 +4175,6 @@
       }
    },
    {
-      "Number": 19712,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-10T12:01:13Z",
-      "Recipe": "xtensor",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19712",
-      "LastCommitSHA": "009819a660c730c9955169e9bbb4b324029efe72",
-      "LastCommitAt": "2023-09-10T11:59:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19713,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-09-10T12:18:52Z",
@@ -4204,6 +4185,25 @@
       "LastCommitSHA": "5a3dfebf3dc4770851d17534c22c312c183fc3a9",
       "LastCommitAt": "2023-09-10T12:18:43Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19716,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-10T13:48:31Z",
+      "Recipe": "hictk",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19716",
+      "LastCommitSHA": "e90571415d6cf17105cfc08eec1c2d900f1536a3",
+      "LastCommitAt": "2023-09-10T13:47:43Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
