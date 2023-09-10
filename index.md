@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **182** pull requests currently under way :detective:
+There are **181** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -178,7 +178,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19579](https://github.com/conan-io/conan-center-index/pull/19579)|[memsharded](https://github.com/memsharded)|Sep 3|:stopwatch: nss|:green_circle: XS|0|:eyes:||
 [#19582](https://github.com/conan-io/conan-center-index/pull/19582)|[valgur](https://github.com/valgur)|Sep 4|:memo: gtsam|:blue_square: S|1|Sep 6||ericLemanissier
 [#19589](https://github.com/conan-io/conan-center-index/pull/19589)|[boussaffawalid](https://github.com/boussaffawalid)|Sep 4|:stopwatch: gdk-pixbuf|:green_circle: XS|0|:eyes:||
-[#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:memo: newmat|:blue_square: S|0|||
+[#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:memo: newmat|:blue_square: S|0|:eyes:||
 [#19600](https://github.com/conan-io/conan-center-index/pull/19600)|[toge](https://github.com/toge)|Sep 5|:stopwatch: objectbox|:blue_square: S|0|||
 [#19606](https://github.com/conan-io/conan-center-index/pull/19606)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 5|:memo: vulkan-validationlayers|:blue_square: S|2|Sep 7||SpaceIm
 [#19611](https://github.com/conan-io/conan-center-index/pull/19611)|[xyz1001](https://github.com/xyz1001)|Sep 6|:memo: libheif|M|0|:eyes:||
@@ -207,7 +207,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:stopwatch: oatpp-sqlite|:blue_square: S|0|||
 [#19700](https://github.com/conan-io/conan-center-index/pull/19700)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 9|:gear: .c3i|:green_circle: XS|0|||
 [#19703](https://github.com/conan-io/conan-center-index/pull/19703)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 10|:gear: .c3i|:green_circle: XS|0|||
-[#19705](https://github.com/conan-io/conan-center-index/pull/19705)|[toge](https://github.com/toge)|Sep 10|:stopwatch: visit_struct|:green_circle: XS|0|||
 [#19706](https://github.com/conan-io/conan-center-index/pull/19706)|[toge](https://github.com/toge)|Sep 10|:stopwatch: usockets|:green_circle: XS|0|||
 
 
@@ -228,9 +227,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 494
+	- Open: 495
 	- Draft: 65
-	- Average Age: 76 days, and 37.35 minutes
+	- Average Age: 75 days, 21 hours, and 53.01 minutes
 	- Stop Label: 221
 	
 
