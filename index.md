@@ -208,8 +208,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19700](https://github.com/conan-io/conan-center-index/pull/19700)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 9|:gear: .c3i|:green_circle: XS|0|||
 [#19703](https://github.com/conan-io/conan-center-index/pull/19703)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 10|:gear: .c3i|:green_circle: XS|0|||
 [#19709](https://github.com/conan-io/conan-center-index/pull/19709)|[toge](https://github.com/toge)|Sep 10|:memo: wasmtime-cpp|:green_circle: XS|0|||
-[#19712](https://github.com/conan-io/conan-center-index/pull/19712)|[toge](https://github.com/toge)|Sep 10|:stopwatch: xtensor|:green_circle: XS|0|||
 [#19713](https://github.com/conan-io/conan-center-index/pull/19713)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 10|:gear: .c3i|:green_circle: XS|0|||
+[#19716](https://github.com/conan-io/conan-center-index/pull/19716)|[toge](https://github.com/toge)|Sep 10|:stopwatch: hictk|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -229,9 +229,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 497
-	- Draft: 65
-	- Average Age: 75 days, 20 hours, and 31.84 minutes
+	- Open: 499
+	- Draft: 66
+	- Average Age: 75 days, 14 hours, and 11.77 minutes
 	- Stop Label: 223
 	
 
