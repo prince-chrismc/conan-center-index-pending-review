@@ -2941,39 +2941,6 @@
       }
    },
    {
-      "Number": 19447,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-27T10:47:48Z",
-      "Recipe": "libzippp",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19447",
-      "LastCommitSHA": "887ae6e6cf642af3c15035854ed16366d8726eb1",
-      "LastCommitAt": "2023-08-30T23:04:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-09-10T16:44:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19447#pullrequestreview-1618866487"
-         }
-      }
-   },
-   {
       "Number": 19470,
       "OpenedBy": "tankeco",
       "CreatedAt": "2023-08-28T17:25:31Z",
@@ -4126,25 +4093,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19718",
       "LastCommitSHA": "4f8a880cb9e934e0276e310683a69036baad4a29",
       "LastCommitAt": "2023-09-10T14:26:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19719,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2023-09-10T14:33:00Z",
-      "Recipe": "xz_utils",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19719",
-      "LastCommitSHA": "3aad5d4c4b73f3f765e31b143b805efb30dd00bc",
-      "LastCommitAt": "2023-09-10T14:32:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
