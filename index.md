@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **183** pull requests currently under way :detective:
+There are **181** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -207,8 +207,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:stopwatch: oatpp-sqlite|:blue_square: S|0|||
 [#19700](https://github.com/conan-io/conan-center-index/pull/19700)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 9|:gear: .c3i|:green_circle: XS|0|||
 [#19703](https://github.com/conan-io/conan-center-index/pull/19703)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 10|:gear: .c3i|:green_circle: XS|0|||
-[#19706](https://github.com/conan-io/conan-center-index/pull/19706)|[toge](https://github.com/toge)|Sep 10|:stopwatch: usockets|:green_circle: XS|0|||
-[#19708](https://github.com/conan-io/conan-center-index/pull/19708)|[toge](https://github.com/toge)|Sep 10|:stopwatch: restinio|:green_circle: XS|0|||
 [#19709](https://github.com/conan-io/conan-center-index/pull/19709)|[toge](https://github.com/toge)|Sep 10|:stopwatch: wasmtime-cpp|:green_circle: XS|0|||
 
 
@@ -229,9 +227,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 496
+	- Open: 494
 	- Draft: 65
-	- Average Age: 75 days, 19 hours, and 15.12 minutes
+	- Average Age: 76 days, 3 hours, and 34.19 minutes
 	- Stop Label: 221
 	
 
