@@ -756,32 +756,6 @@
       }
    },
    {
-      "Number": 18192,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-06-30T12:44:09Z",
-      "Recipe": "atk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18192",
-      "LastCommitSHA": "883b4a6b0d8a727ddd4028b67ac7bf830c9ee9a5",
-      "LastCommitAt": "2023-08-20T11:14:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "RubenRBS"
-         ],
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-08-19T19:32:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18192#pullrequestreview-1585720635"
-         }
-      }
-   },
-   {
       "Number": 18253,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-01T11:59:47Z",
@@ -3652,39 +3626,6 @@
       }
    },
    {
-      "Number": 19656,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-07T15:17:52Z",
-      "Recipe": "ada",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19656",
-      "LastCommitSHA": "ca2eff73ee26cfbd14fad906422e67cbfdbff1da",
-      "LastCommitAt": "2023-09-09T15:00:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-09-10T16:44:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19656#pullrequestreview-1618866510"
-         }
-      }
-   },
-   {
       "Number": 19659,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-09-07T16:45:32Z",
@@ -4084,25 +4025,6 @@
       }
    },
    {
-      "Number": 19718,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2023-09-10T14:29:35Z",
-      "Recipe": "libarchive",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19718",
-      "LastCommitSHA": "4f8a880cb9e934e0276e310683a69036baad4a29",
-      "LastCommitAt": "2023-09-10T14:26:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19722,
       "OpenedBy": "toge",
       "CreatedAt": "2023-09-10T16:01:11Z",
@@ -4113,25 +4035,6 @@
       "LastCommitSHA": "129ba40b22033fcc858122c3f4266304c6185931",
       "LastCommitAt": "2023-09-10T16:00:30Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19723,
-      "OpenedBy": "HappySeaFox",
-      "CreatedAt": "2023-09-10T17:06:18Z",
-      "Recipe": "libavif",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19723",
-      "LastCommitSHA": "318f14f77343d3efaaeae3b5311643a0a5220730",
-      "LastCommitAt": "2023-09-10T17:05:55Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
