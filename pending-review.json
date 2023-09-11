@@ -3596,25 +3596,6 @@
       }
    },
    {
-      "Number": 19673,
-      "OpenedBy": "igormironchik",
-      "CreatedAt": "2023-09-08T09:10:28Z",
-      "Recipe": "md4qt",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19673",
-      "LastCommitSHA": "5e19b07eb86adce18bc120306e652282d3265d27",
-      "LastCommitAt": "2023-09-08T09:09:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19678,
       "OpenedBy": "ilya-lavrenov",
       "CreatedAt": "2023-09-08T10:39:39Z",
