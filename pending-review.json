@@ -1764,39 +1764,6 @@
       }
    },
    {
-      "Number": 18855,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-23T19:12:21Z",
-      "Recipe": "corrade",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18855",
-      "LastCommitSHA": "1b40a9c84470180ea48b4d66656e18e5f3da5590",
-      "LastCommitAt": "2023-09-05T14:20:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-09-11T03:57:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18855#pullrequestreview-1619083274"
-         }
-      }
-   },
-   {
       "Number": 18863,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-24T06:30:22Z",
