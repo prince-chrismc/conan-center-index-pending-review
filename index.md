@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **176** pull requests currently under way :detective:
+There are **177** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -203,17 +203,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19724](https://github.com/conan-io/conan-center-index/pull/19724)|[MartinDelille](https://github.com/MartinDelille)|Sep 10|:stopwatch: cppcheck|:green_circle: XS|0|||
 [#19726](https://github.com/conan-io/conan-center-index/pull/19726)|[bryce-cahill](https://github.com/bryce-cahill)|Sep 10|:stopwatch: pcre2|M|1|Sep 10||
 [#19727](https://github.com/conan-io/conan-center-index/pull/19727)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 11|:gear: .c3i|:blue_square: S|1|Sep 11||SSE4
+[#19728](https://github.com/conan-io/conan-center-index/pull/19728)|[toge](https://github.com/toge)|Sep 11|:stopwatch: daw_json_link|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#18845](https://github.com/conan-io/conan-center-index/pull/18845)|[toge](https://github.com/toge)|Jul 23|:memo: geos|3|uilianries, SSE4
 [#18855](https://github.com/conan-io/conan-center-index/pull/18855)|[valgur](https://github.com/valgur)|Jul 23|:memo: corrade|8|franramirez688, SSE4
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
 [#19687](https://github.com/conan-io/conan-center-index/pull/19687)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 8|:gear: .c3i|2|RubenRBS, SSE4
@@ -227,7 +227,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 495
 	- Draft: 65
-	- Average Age: 76 days, 4 hours, and 23.12 minutes
+	- Average Age: 76 days, 2 hours, and 56.80 minutes
 	- Stop Label: 225
 	
 
