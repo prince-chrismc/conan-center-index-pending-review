@@ -153,7 +153,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:memo: poco|:green_circle: XS|0|:eyes:||
 [#19490](https://github.com/conan-io/conan-center-index/pull/19490)|[cjbradfield](https://github.com/cjbradfield)|Aug 30|:memo: wolfssl|:green_circle: XS|0|:eyes:||
 [#19496](https://github.com/conan-io/conan-center-index/pull/19496)|[KevDi](https://github.com/KevDi)|Aug 30|:stopwatch: librdkafka|M|0|:eyes:||
-[#19497](https://github.com/conan-io/conan-center-index/pull/19497)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: pkgconf|:blue_square: S|2|Aug 31||ericLemanissier, toge
+[#19497](https://github.com/conan-io/conan-center-index/pull/19497)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: pkgconf|:blue_square: S|2|Aug 31 :bell:||ericLemanissier, toge
 [#19499](https://github.com/conan-io/conan-center-index/pull/19499)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: m4|:green_circle: XS|1|Aug 31 :bell:||ericLemanissier
 [#19501](https://github.com/conan-io/conan-center-index/pull/19501)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:stopwatch: libtool|:blue_square: S|1|Aug 31 :bell:||ericLemanissier
 [#19502](https://github.com/conan-io/conan-center-index/pull/19502)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: gettext|:blue_square: S|1|Sep 12||RubenRBS
@@ -205,12 +205,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19749](https://github.com/conan-io/conan-center-index/pull/19749)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:stopwatch: mold|:green_circle: XS|0|:eyes:||
 [#19750](https://github.com/conan-io/conan-center-index/pull/19750)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:memo: libtar|:green_circle: XS|1|Sep 12||ericLemanissier
 [#19751](https://github.com/conan-io/conan-center-index/pull/19751)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:stopwatch: libbpf|:green_circle: XS|0|||
-[#19757](https://github.com/conan-io/conan-center-index/pull/19757)|[RubenRBS](https://github.com/RubenRBS)|Sep 12|:stopwatch: libmysqlclient|M|0|||
+[#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:stopwatch: opentelemetry-proto|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **4** pull requests are waiting to be merged :tada:
+Currently **3** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -218,7 +218,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
 [#19668](https://github.com/conan-io/conan-center-index/pull/19668)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:warning: pcre2|5|RubenRBS, ericLemanissier
-[#19732](https://github.com/conan-io/conan-center-index/pull/19732)|[HappySeaFox](https://github.com/HappySeaFox)|Sep 11|:memo: sail|2|RubenRBS, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -229,7 +228,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 494
 	- Draft: 61
-	- Average Age: 77 days, 8 hours, and 18.66 minutes
+	- Average Age: 77 days, 9 hours, and 7.99 minutes
 	- Stop Label: 225
 	
 
