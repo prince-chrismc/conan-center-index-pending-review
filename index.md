@@ -109,7 +109,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18914](https://github.com/conan-io/conan-center-index/pull/18914)|[saukijan](https://github.com/saukijan)|Jul 26|:stopwatch: open62541|M|0|||
 [#18929](https://github.com/conan-io/conan-center-index/pull/18929)|[ibosnic00](https://github.com/ibosnic00)|Jul 27|:stopwatch: protobuf|:green_circle: XS|0|:eyes:||
 [#18941](https://github.com/conan-io/conan-center-index/pull/18941)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: libnetfilter_conntrack|L|0|:eyes:||
-[#18945](https://github.com/conan-io/conan-center-index/pull/18945)|[valgur](https://github.com/valgur)|Jul 28|:memo: i2c-tools|L|0|:eyes:||
+[#18945](https://github.com/conan-io/conan-center-index/pull/18945)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: i2c-tools|L|0|||
 [#18957](https://github.com/conan-io/conan-center-index/pull/18957)|[valgur](https://github.com/valgur)|Jul 28|:memo: liboping|L|0|:eyes:||
 [#18977](https://github.com/conan-io/conan-center-index/pull/18977)|[valgur](https://github.com/valgur)|Jul 31|:memo: tcp-wrappers|L|0|:eyes:||
 [#18982](https://github.com/conan-io/conan-center-index/pull/18982)|[valgur](https://github.com/valgur)|Jul 31|:memo: depot_tools|L|0|:eyes:||
@@ -207,7 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19757](https://github.com/conan-io/conan-center-index/pull/19757)|[RubenRBS](https://github.com/RubenRBS)|Sep 12|:stopwatch: libmysqlclient|M|2|Sep 12||
 [#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:stopwatch: opentelemetry-proto|:green_circle: XS|0|||
 [#19763](https://github.com/conan-io/conan-center-index/pull/19763)|[holger-detering](https://github.com/holger-detering)|Sep 12|:stopwatch: aws-c-io|:green_circle: XS|0|||
-[#19765](https://github.com/conan-io/conan-center-index/pull/19765)|[mayeut](https://github.com/mayeut)|Sep 12|:stopwatch: openssl|:blue_square: S|0|||
+[#19765](https://github.com/conan-io/conan-center-index/pull/19765)|[mayeut](https://github.com/mayeut)|Sep 12|:stopwatch: openssl|:blue_square: S|1|Sep 12||ericLemanissier
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -231,7 +231,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 498
 	- Draft: 61
-	- Average Age: 77 days, 1 hours, and 8.52 minutes
+	- Average Age: 77 days, 2 hours, and 5.57 minutes
 	- Stop Label: 228
 	
 
