@@ -772,9 +772,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18259",
-      "LastCommitSHA": "8079f3d4ee37d5024ed8eca535e990973b961949",
-      "LastCommitAt": "2023-08-07T11:25:56Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "f4f9a09f43db14cf9c4324712e37c768d4cace00",
+      "LastCommitAt": "2023-09-12T14:34:53Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -1546,11 +1546,21 @@
       "LastCommitAt": "2023-08-15T12:44:26Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "toge",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2023-09-12T15:01:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18755#pullrequestreview-1622475336"
+         }
       }
    },
    {
@@ -2055,15 +2065,20 @@
       "LastCommitAt": "2023-08-31T03:35:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2023-08-29T10:49:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19021#pullrequestreview-1600080536"
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-09-12T14:45:23Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19021#pullrequestreview-1622437299"
          }
       }
    },
@@ -4220,6 +4235,30 @@
       }
    },
    {
+      "Number": 19757,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-12T10:03:46Z",
+      "Recipe": "libmysqlclient",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19757",
+      "LastCommitSHA": "fbc82f6c809f7c2c27acbe6bf57aa6eb285b210e",
+      "LastCommitAt": "2023-09-12T14:37:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-09-12T12:28:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19757#pullrequestreview-1622126995"
+         }
+      }
+   },
+   {
       "Number": 19759,
       "OpenedBy": "tuxu",
       "CreatedAt": "2023-09-12T12:56:34Z",
@@ -4246,8 +4285,27 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19760",
-      "LastCommitSHA": "4d0f5dea761dbe90292e0e790aa0b7483cbbddde",
-      "LastCommitAt": "2023-09-12T13:58:29Z",
+      "LastCommitSHA": "bbee8e9ef7a2f448d89088bbd5eb080bf0a2f25c",
+      "LastCommitAt": "2023-09-12T14:59:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19762,
+      "OpenedBy": "ashley-b",
+      "CreatedAt": "2023-09-12T14:48:31Z",
+      "Recipe": "qwt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19762",
+      "LastCommitSHA": "4da46fadac6ffc84981f346c2aee7d033fa99a08",
+      "LastCommitAt": "2023-09-12T14:29:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
