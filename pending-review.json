@@ -2816,20 +2816,24 @@
       "LastCommitAt": "2023-08-29T05:01:18Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "samuel-emrys",
                "Tier": "community"
+            },
+            {
+               "Name": "prince-chrismc",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "samuel-emrys",
-            "SubmittedAt": "2023-09-06T12:39:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19472#pullrequestreview-1613236434"
+            "ReviewerName": "prince-chrismc",
+            "SubmittedAt": "2023-09-12T21:15:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19472#pullrequestreview-1623164061"
          }
       }
    },
