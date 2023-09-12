@@ -3481,7 +3481,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19652",
       "LastCommitSHA": "4da440a807cc36e53c6652a962f0cc9ae9105f51",
       "LastCommitAt": "2023-09-11T12:56:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3865,39 +3865,6 @@
             "ReviewerName": "ericLemanissier",
             "SubmittedAt": "2023-09-12T08:51:44Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19684#pullrequestreview-1621688956"
-         }
-      }
-   },
-   {
-      "Number": 19685,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-08T16:12:16Z",
-      "Recipe": "libspng",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19685",
-      "LastCommitSHA": "bab83a1117159739d4c97e8a966cdc5884ce540d",
-      "LastCommitAt": "2023-09-08T09:42:30Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-09-12T08:51:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19685#pullrequestreview-1621688062"
          }
       }
    },
