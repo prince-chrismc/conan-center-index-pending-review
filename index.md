@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **185** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -201,7 +201,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19732](https://github.com/conan-io/conan-center-index/pull/19732)|[HappySeaFox](https://github.com/HappySeaFox)|Sep 11|:memo: sail|:green_circle: XS|1|Sep 11||RubenRBS
 [#19733](https://github.com/conan-io/conan-center-index/pull/19733)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 11|:gear: .c3i|:green_circle: XS|1|Sep 11||RubenRBS
 [#19736](https://github.com/conan-io/conan-center-index/pull/19736)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 11|:gear: .c3i|:green_circle: XS|1|Sep 11||RubenRBS
-[#19737](https://github.com/conan-io/conan-center-index/pull/19737)|[mayeut](https://github.com/mayeut)|Sep 11|:stopwatch: pkgconf|:green_circle: XS|1|Sep 11||RubenRBS
 [#19740](https://github.com/conan-io/conan-center-index/pull/19740)|[toge](https://github.com/toge)|Sep 11|:stopwatch: sqlite3|:green_circle: XS|1|Sep 11||RubenRBS
 [#19741](https://github.com/conan-io/conan-center-index/pull/19741)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:stopwatch: crowcpp-crow|:green_circle: XS|0|:eyes:||
 [#19742](https://github.com/conan-io/conan-center-index/pull/19742)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:stopwatch: uwebsockets|:green_circle: XS|0|:eyes:||
@@ -232,9 +231,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 502
+	- Open: 501
 	- Draft: 61
-	- Average Age: 75 days, 18 hours, and 22.24 minutes
+	- Average Age: 76 days, and 30.39 minutes
 	- Stop Label: 228
 	
 
