@@ -174,7 +174,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|:eyes:||
 [#19619](https://github.com/conan-io/conan-center-index/pull/19619)|[toge](https://github.com/toge)|Sep 6|:memo: wasmedge|M|1|Sep 6||
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|3|Sep 11||MartinDelille
-[#19652](https://github.com/conan-io/conan-center-index/pull/19652)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 7|:stopwatch: onetbb|:green_circle: XS|0|||
+[#19652](https://github.com/conan-io/conan-center-index/pull/19652)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 7|:memo: onetbb|:green_circle: XS|0|||
 [#19653](https://github.com/conan-io/conan-center-index/pull/19653)|[valgur](https://github.com/valgur)|Sep 7|:memo: libpq|L|0|||
 [#19659](https://github.com/conan-io/conan-center-index/pull/19659)|[mayeut](https://github.com/mayeut)|Sep 7|:memo: abseil|L|0|:eyes:||
 [#19663](https://github.com/conan-io/conan-center-index/pull/19663)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:memo: protobuf|:green_circle: XS|1|Sep 8||
@@ -211,7 +211,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -221,7 +221,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
 [#19667](https://github.com/conan-io/conan-center-index/pull/19667)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:warning: pcre|3|RubenRBS, ericLemanissier
 [#19668](https://github.com/conan-io/conan-center-index/pull/19668)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:warning: pcre2|5|RubenRBS, ericLemanissier
-[#19685](https://github.com/conan-io/conan-center-index/pull/19685)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:memo: libspng|2|danimtb, ericLemanissier
 [#19732](https://github.com/conan-io/conan-center-index/pull/19732)|[HappySeaFox](https://github.com/HappySeaFox)|Sep 11|:memo: sail|2|RubenRBS, ericLemanissier
 
 
@@ -231,9 +230,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 497
+	- Open: 496
 	- Draft: 61
-	- Average Age: 76 days, 22 hours, and 6.17 minutes
+	- Average Age: 77 days, 2 hours, and 36.00 minutes
 	- Stop Label: 225
 	
 
