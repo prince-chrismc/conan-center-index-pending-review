@@ -4319,5 +4319,43 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19762#pullrequestreview-1622556126"
          }
       }
+   },
+   {
+      "Number": 19763,
+      "OpenedBy": "holger-detering",
+      "CreatedAt": "2023-09-12T16:20:49Z",
+      "Recipe": "aws-c-io",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19763",
+      "LastCommitSHA": "801bf95243b38d2ce7597d8fe86cd323af49a345",
+      "LastCommitAt": "2023-09-12T16:14:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19764,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-09-12T17:03:35Z",
+      "Recipe": "openexr",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19764",
+      "LastCommitSHA": "5193481c324aa887eaa980f156cb21a438b22a63",
+      "LastCommitAt": "2023-09-12T17:03:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
