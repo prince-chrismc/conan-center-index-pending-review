@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **192** pull requests currently under way :detective:
+There are **191** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -207,17 +207,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19773](https://github.com/conan-io/conan-center-index/pull/19773)|[hedtke](https://github.com/hedtke)|Sep 13|:memo: scip|:blue_square: S|0|||
 [#19776](https://github.com/conan-io/conan-center-index/pull/19776)|[lrineau](https://github.com/lrineau)|Sep 13|:memo: cgal|:green_circle: XS|0|||
 [#19779](https://github.com/conan-io/conan-center-index/pull/19779)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 13|:gear: .c3i|:green_circle: XS|1|Sep 13||RubenRBS
-[#19781](https://github.com/conan-io/conan-center-index/pull/19781)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: cfitsio|:green_circle: XS|0|:eyes:||
+[#19781](https://github.com/conan-io/conan-center-index/pull/19781)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: cfitsio|:green_circle: XS|1|Sep 13||SpaceIm
 [#19782](https://github.com/conan-io/conan-center-index/pull/19782)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: libdwarf|:green_circle: XS|0|:eyes:||
 [#19783](https://github.com/conan-io/conan-center-index/pull/19783)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: c-blosc|:green_circle: XS|0|:eyes:||
 [#19784](https://github.com/conan-io/conan-center-index/pull/19784)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: libunwind|:green_circle: XS|0|:eyes:||
 [#19785](https://github.com/conan-io/conan-center-index/pull/19785)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: coin-utils|:green_circle: XS|0|:eyes:||
 [#19786](https://github.com/conan-io/conan-center-index/pull/19786)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: readosm|:green_circle: XS|0|:eyes:||
-[#19787](https://github.com/conan-io/conan-center-index/pull/19787)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: libzippp|:green_circle: XS|0|:eyes:||
 [#19788](https://github.com/conan-io/conan-center-index/pull/19788)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: libmicrohttpd|:green_circle: XS|0|:eyes:||
 [#19789](https://github.com/conan-io/conan-center-index/pull/19789)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: ptex|:green_circle: XS|0|:eyes:||
 [#19790](https://github.com/conan-io/conan-center-index/pull/19790)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: tcl|:green_circle: XS|0|:eyes:||
-[#19791](https://github.com/conan-io/conan-center-index/pull/19791)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: restinio|:green_circle: XS|0|:eyes:||
+[#19791](https://github.com/conan-io/conan-center-index/pull/19791)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: restinio|:green_circle: XS|0|:eyes:||
 [#19792](https://github.com/conan-io/conan-center-index/pull/19792)|[chausner](https://github.com/chausner)|Sep 13|:stopwatch: drwav|:green_circle: XS|0|||
 
 
@@ -249,8 +248,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
 	- Open: 517
-	- Draft: 61
-	- Average Age: 75 days, 2 hours, and 53.07 minutes
+	- Draft: 62
+	- Average Age: 75 days, 3 hours, and 54.01 minutes
 	- Stop Label: 227
 	
 
