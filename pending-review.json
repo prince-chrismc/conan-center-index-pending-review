@@ -4597,25 +4597,6 @@
       }
    },
    {
-      "Number": 19773,
-      "OpenedBy": "hedtke",
-      "CreatedAt": "2023-09-13T09:28:35Z",
-      "Recipe": "scip",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19773",
-      "LastCommitSHA": "f835c1da949527e6aab64566ba0e11b43dbf9ae6",
-      "LastCommitAt": "2023-09-13T09:26:24Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19775,
       "OpenedBy": "PavelKisliak",
       "CreatedAt": "2023-09-13T11:53:29Z",
@@ -4665,11 +4646,21 @@
       "LastCommitAt": "2023-09-13T14:58:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-09-13T17:13:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19779#pullrequestreview-1625047274"
+         }
       }
    }
 ]
