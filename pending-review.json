@@ -4616,6 +4616,25 @@
       }
    },
    {
+      "Number": 19775,
+      "OpenedBy": "PavelKisliak",
+      "CreatedAt": "2023-09-13T11:53:29Z",
+      "Recipe": "bitserializer",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19775",
+      "LastCommitSHA": "a13bebab9464e13dc3813748d19392ba4c043d60",
+      "LastCommitAt": "2023-09-13T13:45:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19776,
       "OpenedBy": "lrineau",
       "CreatedAt": "2023-09-13T12:36:52Z",
@@ -4625,7 +4644,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19776",
       "LastCommitSHA": "d7f4fe515b08321a44442856e973ecd64cc50bf0",
       "LastCommitAt": "2023-09-13T12:33:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
