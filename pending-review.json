@@ -4800,7 +4800,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19789",
       "LastCommitSHA": "35554dee65acbc6c9ddb8ba978b2356cd833d5a5",
       "LastCommitAt": "2023-09-08T09:41:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4864,6 +4864,35 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 19793,
+      "OpenedBy": "tuxu",
+      "CreatedAt": "2023-09-13T21:20:04Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19793",
+      "LastCommitSHA": "a29e07940aa3ed676d1c8b2df5f52b6dcf29502c",
+      "LastCommitAt": "2023-09-13T21:08:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-09-13T22:13:45Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19793#pullrequestreview-1625529054"
+         }
       }
    }
 ]
