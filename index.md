@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **191** pull requests currently under way :detective:
+There are **192** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -214,10 +214,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19785](https://github.com/conan-io/conan-center-index/pull/19785)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: coin-utils|:green_circle: XS|0|:eyes:||
 [#19786](https://github.com/conan-io/conan-center-index/pull/19786)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: readosm|:green_circle: XS|0|:eyes:||
 [#19788](https://github.com/conan-io/conan-center-index/pull/19788)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: libmicrohttpd|:green_circle: XS|0|:eyes:||
-[#19789](https://github.com/conan-io/conan-center-index/pull/19789)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: ptex|:green_circle: XS|0|:eyes:||
+[#19789](https://github.com/conan-io/conan-center-index/pull/19789)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: ptex|:green_circle: XS|0|:eyes:||
 [#19790](https://github.com/conan-io/conan-center-index/pull/19790)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: tcl|:green_circle: XS|0|:eyes:||
 [#19791](https://github.com/conan-io/conan-center-index/pull/19791)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: restinio|:green_circle: XS|0|:eyes:||
 [#19792](https://github.com/conan-io/conan-center-index/pull/19792)|[chausner](https://github.com/chausner)|Sep 13|:stopwatch: drwav|:green_circle: XS|0|||
+[#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:stopwatch: opentelemetry-cpp|:green_circle: XS|1|Sep 13||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -247,9 +248,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 517
+	- Open: 518
 	- Draft: 62
-	- Average Age: 75 days, 4 hours, and 52.01 minutes
+	- Average Age: 75 days, 2 hours, and 25.38 minutes
 	- Stop Label: 227
 	
 
