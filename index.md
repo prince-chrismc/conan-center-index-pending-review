@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **183** pull requests currently under way :detective:
+There are **182** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -206,10 +206,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19768](https://github.com/conan-io/conan-center-index/pull/19768)|[mrjoel](https://github.com/mrjoel)|Sep 13|:stopwatch: qt|:green_circle: XS|1|Sep 13||jwillikers
 [#19769](https://github.com/conan-io/conan-center-index/pull/19769)|[toge](https://github.com/toge)|Sep 13|:stopwatch: libcurl|:blue_square: S|0|||
 [#19771](https://github.com/conan-io/conan-center-index/pull/19771)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 13|:gear: .c3i|:green_circle: XS|0|||
-[#19773](https://github.com/conan-io/conan-center-index/pull/19773)|[hedtke](https://github.com/hedtke)|Sep 13|:memo: scip|:blue_square: S|0|||
 [#19775](https://github.com/conan-io/conan-center-index/pull/19775)|[PavelKisliak](https://github.com/PavelKisliak)|Sep 13|:memo: bitserializer|:blue_square: S|0|||
 [#19776](https://github.com/conan-io/conan-center-index/pull/19776)|[lrineau](https://github.com/lrineau)|Sep 13|:memo: cgal|:green_circle: XS|0|||
-[#19779](https://github.com/conan-io/conan-center-index/pull/19779)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 13|:gear: .c3i|:green_circle: XS|0|||
+[#19779](https://github.com/conan-io/conan-center-index/pull/19779)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 13|:gear: .c3i|:green_circle: XS|1|Sep 13||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -239,9 +238,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 506
+	- Open: 505
 	- Draft: 61
-	- Average Age: 76 days, 15 hours, and 9.49 minutes
+	- Average Age: 76 days, 19 hours, and 43.19 minutes
 	- Stop Label: 226
 	
 
