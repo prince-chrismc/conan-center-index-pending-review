@@ -755,7 +755,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18259",
       "LastCommitSHA": "f4f9a09f43db14cf9c4324712e37c768d4cace00",
       "LastCommitAt": "2023-09-12T14:34:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -1413,6 +1413,30 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 18647,
+      "OpenedBy": "Cogitri",
+      "CreatedAt": "2023-07-19T09:06:36Z",
+      "Recipe": "opentelemetry-cpp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18647",
+      "LastCommitSHA": "7e673e64408047f724870b25fd2740257c450bb3",
+      "LastCommitAt": "2023-09-12T11:59:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-08-13T10:12:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18647#pullrequestreview-1575767393"
+         }
       }
    },
    {
@@ -4244,7 +4268,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19759",
       "LastCommitSHA": "ee11cbc1f8b27b5a243fc4e52f16f70a339952c2",
       "LastCommitAt": "2023-09-12T12:47:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4349,6 +4373,25 @@
       "LastCommitSHA": "e56092f9f2b314309e6a4b955259c367f576aa01",
       "LastCommitAt": "2023-09-12T23:08:00Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19768,
+      "OpenedBy": "mrjoel",
+      "CreatedAt": "2023-09-13T00:35:47Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19768",
+      "LastCommitSHA": "e8324bb05b684075c268c22692c5675b5e0502de",
+      "LastCommitAt": "2023-09-13T00:38:35Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
