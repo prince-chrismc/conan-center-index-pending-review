@@ -4642,11 +4642,21 @@
       "LastCommitAt": "2023-09-08T09:41:55Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SpaceIm",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-09-13T19:54:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19781#pullrequestreview-1625347402"
+         }
       }
    },
    {
@@ -4745,25 +4755,6 @@
       }
    },
    {
-      "Number": 19787,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-13T17:54:27Z",
-      "Recipe": "libzippp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19787",
-      "LastCommitSHA": "fafdff7b8ba516a4b89d91c9d97dbbc158c3bb2e",
-      "LastCommitAt": "2023-09-08T09:41:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19788,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-13T17:54:39Z",
@@ -4830,7 +4821,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19791",
       "LastCommitSHA": "a7629604e419ae3d62156a8f8a0bb703a68e00c4",
       "LastCommitAt": "2023-09-08T09:41:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
