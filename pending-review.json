@@ -5264,5 +5264,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19821,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-09-14T19:20:16Z",
+      "Recipe": "libtiff",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19821",
+      "LastCommitSHA": "02814daf54e287d3b0e42e02e469ed3129de0e59",
+      "LastCommitAt": "2023-09-14T19:17:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19822,
+      "OpenedBy": "patmantru",
+      "CreatedAt": "2023-09-14T19:22:17Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19822",
+      "LastCommitSHA": "2df289408b1bff3a5d09596862a4d966abfff8e6",
+      "LastCommitAt": "2023-09-14T19:19:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
