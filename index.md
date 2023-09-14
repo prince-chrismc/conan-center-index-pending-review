@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **200** pull requests currently under way :detective:
+There are **198** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -223,9 +223,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19798](https://github.com/conan-io/conan-center-index/pull/19798)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: cnpy|:green_circle: XS|0|:eyes:||
 [#19801](https://github.com/conan-io/conan-center-index/pull/19801)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:stopwatch: libpng|:green_circle: XS|1|Sep 14||ericLemanissier
 [#19802](https://github.com/conan-io/conan-center-index/pull/19802)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: tinyexr|:green_circle: XS|0|:eyes:||
-[#19803](https://github.com/conan-io/conan-center-index/pull/19803)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:stopwatch: arrow|:green_circle: XS|0|:eyes:||
 [#19804](https://github.com/conan-io/conan-center-index/pull/19804)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: xapian-core|:green_circle: XS|0|:eyes:||
-[#19806](https://github.com/conan-io/conan-center-index/pull/19806)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 14|:stopwatch: libsodium|:green_circle: XS|0|||
 [#19817](https://github.com/conan-io/conan-center-index/pull/19817)|[toge](https://github.com/toge)|Sep 14|:stopwatch: xtensor|:green_circle: XS|0|||
 
 
@@ -260,8 +258,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 530
 	- Draft: 61
-	- Average Age: 74 days, 2 hours, and 24.31 minutes
-	- Stop Label: 230
+	- Average Age: 74 days, 3 hours, and 27.17 minutes
+	- Stop Label: 231
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
