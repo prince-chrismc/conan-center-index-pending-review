@@ -507,6 +507,25 @@
       }
    },
    {
+      "Number": 17542,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-05-12T12:30:33Z",
+      "Recipe": "stdgpu",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17542",
+      "LastCommitSHA": "cdc1b6728b7d44dc8626d1666645b7edf0f2e81e",
+      "LastCommitAt": "2023-09-14T09:34:21Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 17580,
       "OpenedBy": "miklelappo",
       "CreatedAt": "2023-05-15T21:08:25Z",
