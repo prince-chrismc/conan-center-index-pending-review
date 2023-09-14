@@ -3700,7 +3700,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19633",
       "LastCommitSHA": "7738b48fcdfb866ea42a3863efbc8f33df78e884",
       "LastCommitAt": "2023-09-14T07:47:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4729,39 +4729,6 @@
       }
    },
    {
-      "Number": 19779,
-      "OpenedBy": "conan-center-bot",
-      "CreatedAt": "2023-09-13T14:58:51Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19779",
-      "LastCommitSHA": "5ea847d2a56479956978aae66e79c7e5c8f3ec2d",
-      "LastCommitAt": "2023-09-13T14:58:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-09-14T09:27:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19779#pullrequestreview-1626453391"
-         }
-      }
-   },
-   {
       "Number": 19781,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-13T17:53:10Z",
@@ -5256,44 +5223,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19820",
       "LastCommitSHA": "f954f3aea055c9ab2921ef69f835eabb26e7e89f",
       "LastCommitAt": "2023-09-14T18:45:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19821,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-09-14T19:20:16Z",
-      "Recipe": "libtiff",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19821",
-      "LastCommitSHA": "02814daf54e287d3b0e42e02e469ed3129de0e59",
-      "LastCommitAt": "2023-09-14T19:17:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19822,
-      "OpenedBy": "patmantru",
-      "CreatedAt": "2023-09-14T19:22:17Z",
-      "Recipe": "opentdf-client",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19822",
-      "LastCommitSHA": "2df289408b1bff3a5d09596862a4d966abfff8e6",
-      "LastCommitAt": "2023-09-14T19:19:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
