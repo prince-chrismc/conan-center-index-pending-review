@@ -5052,6 +5052,25 @@
       }
    },
    {
+      "Number": 19794,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-14T01:57:12Z",
+      "Recipe": "stringzilla",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19794",
+      "LastCommitSHA": "02b358e0c0a4773230b87d60e61746894378d6a4",
+      "LastCommitAt": "2023-09-14T12:44:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19797,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-14T07:18:00Z",
@@ -5099,7 +5118,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19801",
       "LastCommitSHA": "ddc6f0051ce1ed46e2106529875c2e235f92885a",
       "LastCommitAt": "2023-09-08T09:37:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5199,6 +5218,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19817",
       "LastCommitSHA": "0484fd66225bdad3de5b36ff0770dcaee7566f2e",
       "LastCommitAt": "2023-09-14T14:55:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19819,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-09-14T18:51:59Z",
+      "Recipe": "libwebp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19819",
+      "LastCommitSHA": "e114740bda88547d2b21275ae9753531df9cc5f1",
+      "LastCommitAt": "2023-09-14T18:51:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19820,
+      "OpenedBy": "Nerixyz",
+      "CreatedAt": "2023-09-14T19:06:28Z",
+      "Recipe": "libavif",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19820",
+      "LastCommitSHA": "f954f3aea055c9ab2921ef69f835eabb26e7e89f",
+      "LastCommitAt": "2023-09-14T18:45:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
