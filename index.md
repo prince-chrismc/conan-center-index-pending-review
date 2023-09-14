@@ -210,11 +210,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19781](https://github.com/conan-io/conan-center-index/pull/19781)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: cfitsio|:green_circle: XS|1|Sep 13||SpaceIm
 [#19782](https://github.com/conan-io/conan-center-index/pull/19782)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libdwarf|:green_circle: XS|0|:eyes:||
 [#19783](https://github.com/conan-io/conan-center-index/pull/19783)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: c-blosc|:green_circle: XS|0|:eyes:||
-[#19784](https://github.com/conan-io/conan-center-index/pull/19784)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libunwind|:green_circle: XS|0|:eyes:||
-[#19786](https://github.com/conan-io/conan-center-index/pull/19786)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: readosm|:green_circle: XS|0|:eyes:||
-[#19788](https://github.com/conan-io/conan-center-index/pull/19788)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libmicrohttpd|:green_circle: XS|0|:eyes:||
+[#19784](https://github.com/conan-io/conan-center-index/pull/19784)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libunwind|:green_circle: XS|1|Sep 14||ericLemanissier
+[#19786](https://github.com/conan-io/conan-center-index/pull/19786)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: readosm|:green_circle: XS|1|Sep 14||ericLemanissier
+[#19788](https://github.com/conan-io/conan-center-index/pull/19788)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libmicrohttpd|:green_circle: XS|1|Sep 14||ericLemanissier
 [#19789](https://github.com/conan-io/conan-center-index/pull/19789)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: ptex|:green_circle: XS|1|Sep 14||ericLemanissier
-[#19790](https://github.com/conan-io/conan-center-index/pull/19790)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:stopwatch: tcl|:green_circle: XS|0|:eyes:||
+[#19790](https://github.com/conan-io/conan-center-index/pull/19790)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: tcl|:green_circle: XS|0|:eyes:||
 [#19791](https://github.com/conan-io/conan-center-index/pull/19791)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: restinio|:green_circle: XS|1|Sep 14||ericLemanissier
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:stopwatch: opentelemetry-cpp|:green_circle: XS|1|Sep 13||RubenRBS
 
@@ -246,10 +246,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 519
+	- Open: 520
 	- Draft: 62
-	- Average Age: 75 days, 5 hours, and 56.67 minutes
-	- Stop Label: 228
+	- Average Age: 75 days, 3 hours, and 32.99 minutes
+	- Stop Label: 229
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
