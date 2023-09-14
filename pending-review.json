@@ -3746,19 +3746,14 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19661",
-      "LastCommitSHA": "4cd039d118e1dd7fbd4c07f77357ee3f31a03fac",
-      "LastCommitAt": "2023-09-14T07:43:00Z",
+      "LastCommitSHA": "194f656c9761285412cfafddfcdc5f70381578f1",
+      "LastCommitAt": "2023-09-14T09:54:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
@@ -4698,20 +4693,24 @@
       "LastCommitAt": "2023-09-13T14:58:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-13T17:13:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19779#pullrequestreview-1625047274"
+            "ReviewerName": "SSE4",
+            "SubmittedAt": "2023-09-14T09:27:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19779#pullrequestreview-1626453391"
          }
       }
    },
@@ -5082,7 +5081,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19802",
       "LastCommitSHA": "d147736c8808869045abd7f8b6bc1a95c95a52dc",
       "LastCommitAt": "2023-09-08T09:37:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
