@@ -2402,8 +2402,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19138",
-      "LastCommitSHA": "4359c172550cc8968d70e57f957915fe946fdc3a",
-      "LastCommitAt": "2023-09-10T17:23:59Z",
+      "LastCommitSHA": "07ad4cf11c43dc9c3206901f0db3d7e89259cbd8",
+      "LastCommitAt": "2023-09-14T13:32:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5163,30 +5163,21 @@
       "LastCommitAt": "2023-09-14T11:37:13Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19808,
-      "OpenedBy": "joakimono",
-      "CreatedAt": "2023-09-14T13:06:46Z",
-      "Recipe": "openblas",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19808",
-      "LastCommitSHA": "6b8b77db2275243755b3f9ef49b53235077cd4f5",
-      "LastCommitAt": "2023-09-14T12:54:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-09-14T13:27:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19807#pullrequestreview-1626892121"
+         }
       }
    }
 ]
