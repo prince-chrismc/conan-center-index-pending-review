@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **202** pull requests currently under way :detective:
+There are **204** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -229,6 +229,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19817](https://github.com/conan-io/conan-center-index/pull/19817)|[toge](https://github.com/toge)|Sep 14|:stopwatch: xtensor|:green_circle: XS|0|||
 [#19819](https://github.com/conan-io/conan-center-index/pull/19819)|[mayeut](https://github.com/mayeut)|Sep 14|:stopwatch: libwebp|:green_circle: XS|0|||
 [#19820](https://github.com/conan-io/conan-center-index/pull/19820)|[Nerixyz](https://github.com/Nerixyz)|Sep 14|:stopwatch: libavif|M|0|||
+[#19821](https://github.com/conan-io/conan-center-index/pull/19821)|[mayeut](https://github.com/mayeut)|Sep 14|:stopwatch: libtiff|:green_circle: XS|0|||
+[#19822](https://github.com/conan-io/conan-center-index/pull/19822)|[patmantru](https://github.com/patmantru)|Sep 14|:stopwatch: opentdf-client|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -260,9 +262,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 532
+	- Open: 534
 	- Draft: 61
-	- Average Age: 73 days, 23 hours, and 38.26 minutes
+	- Average Age: 73 days, 18 hours, and 3.49 minutes
 	- Stop Label: 229
 	
 
