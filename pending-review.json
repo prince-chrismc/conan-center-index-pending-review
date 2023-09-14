@@ -1876,8 +1876,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18883",
-      "LastCommitSHA": "2745ea65f3fab8276bc299aae8d9db781d5040c4",
-      "LastCommitAt": "2023-09-12T20:21:52Z",
+      "LastCommitSHA": "a913c6b2e89396bd3df1c2b608a252afb5f9f1d2",
+      "LastCommitAt": "2023-09-14T08:57:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 4,
@@ -5120,6 +5120,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19804",
       "LastCommitSHA": "491751367d9f689810b504cf8108dfc0a70e524c",
       "LastCommitAt": "2023-09-08T09:41:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19806,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-09-14T08:37:19Z",
+      "Recipe": "libsodium",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19806",
+      "LastCommitSHA": "cd9ef011311bf86e01d64f06727c9950474275bc",
+      "LastCommitAt": "2023-09-14T08:37:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
