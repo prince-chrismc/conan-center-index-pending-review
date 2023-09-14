@@ -5123,7 +5123,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19804",
       "LastCommitSHA": "491751367d9f689810b504cf8108dfc0a70e524c",
       "LastCommitAt": "2023-09-08T09:41:07Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5162,6 +5162,25 @@
       "LastCommitSHA": "4a9567c274f32e4a36de5a57e1b0b036ad995c8c",
       "LastCommitAt": "2023-09-14T11:37:13Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19808,
+      "OpenedBy": "joakimono",
+      "CreatedAt": "2023-09-14T13:06:46Z",
+      "Recipe": "openblas",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19808",
+      "LastCommitSHA": "6b8b77db2275243755b3f9ef49b53235077cd4f5",
+      "LastCommitAt": "2023-09-14T12:54:18Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
