@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **199** pull requests currently under way :detective:
+There are **198** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -178,7 +178,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19652](https://github.com/conan-io/conan-center-index/pull/19652)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 7|:memo: onetbb|:green_circle: XS|1|Sep 12||[valgur](https://github.com/valgur)
 [#19653](https://github.com/conan-io/conan-center-index/pull/19653)|[valgur](https://github.com/valgur)|Sep 7|:memo: libpq|L|0|:eyes:||
 [#19659](https://github.com/conan-io/conan-center-index/pull/19659)|[mayeut](https://github.com/mayeut)|Sep 7|:memo: abseil|L|0|:eyes:||
-[#19661](https://github.com/conan-io/conan-center-index/pull/19661)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: libxml2|:green_circle: XS|3|Sep 14||ericLemanissier
+[#19661](https://github.com/conan-io/conan-center-index/pull/19661)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: libxml2|:green_circle: XS|3|Sep 14||
 [#19663](https://github.com/conan-io/conan-center-index/pull/19663)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:memo: protobuf|:green_circle: XS|4|Sep 13||[hedtke](https://github.com/hedtke), ericLemanissier, [Hopobcn](https://github.com/Hopobcn)
 [#19665](https://github.com/conan-io/conan-center-index/pull/19665)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: netcdf|:green_circle: XS|0|||
 [#19678](https://github.com/conan-io/conan-center-index/pull/19678)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 8|:memo: onetbb|:green_circle: XS|0|:eyes:||
@@ -208,7 +208,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19763](https://github.com/conan-io/conan-center-index/pull/19763)|[holger-detering](https://github.com/holger-detering)|Sep 12|:stopwatch: aws-c-io|:green_circle: XS|0|||
 [#19768](https://github.com/conan-io/conan-center-index/pull/19768)|[mrjoel](https://github.com/mrjoel)|Sep 13|:stopwatch: qt|:green_circle: XS|1|Sep 13||jwillikers
 [#19776](https://github.com/conan-io/conan-center-index/pull/19776)|[lrineau](https://github.com/lrineau)|Sep 13|:memo: cgal|:green_circle: XS|1|Sep 13||RubenRBS
-[#19779](https://github.com/conan-io/conan-center-index/pull/19779)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 13|:gear: .c3i|:green_circle: XS|1|Sep 13||RubenRBS
 [#19781](https://github.com/conan-io/conan-center-index/pull/19781)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: cfitsio|:green_circle: XS|1|Sep 13||SpaceIm
 [#19782](https://github.com/conan-io/conan-center-index/pull/19782)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libdwarf|:green_circle: XS|1|Sep 14||ericLemanissier
 [#19783](https://github.com/conan-io/conan-center-index/pull/19783)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: c-blosc|:green_circle: XS|1|Sep 14||ericLemanissier
@@ -222,7 +221,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19797](https://github.com/conan-io/conan-center-index/pull/19797)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:stopwatch: libgd|:green_circle: XS|0|:eyes:||
 [#19798](https://github.com/conan-io/conan-center-index/pull/19798)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:stopwatch: cnpy|:green_circle: XS|0|:eyes:||
 [#19801](https://github.com/conan-io/conan-center-index/pull/19801)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:stopwatch: libpng|:green_circle: XS|1|Sep 14||ericLemanissier
-[#19802](https://github.com/conan-io/conan-center-index/pull/19802)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:stopwatch: tinyexr|:green_circle: XS|0|:eyes:||
+[#19802](https://github.com/conan-io/conan-center-index/pull/19802)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: tinyexr|:green_circle: XS|0|:eyes:||
 [#19803](https://github.com/conan-io/conan-center-index/pull/19803)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:stopwatch: arrow|:green_circle: XS|0|:eyes:||
 [#19804](https://github.com/conan-io/conan-center-index/pull/19804)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:stopwatch: xapian-core|:green_circle: XS|0|:eyes:||
 [#19806](https://github.com/conan-io/conan-center-index/pull/19806)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 14|:stopwatch: libsodium|:green_circle: XS|0|||
@@ -230,7 +229,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **12** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -247,6 +246,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19669](https://github.com/conan-io/conan-center-index/pull/19669)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:memo: minizip|4|RubenRBS, ericLemanissier
 [#19762](https://github.com/conan-io/conan-center-index/pull/19762)|[ashley-b](https://github.com/ashley-b)|Sep 12|:warning: qwt|3|RubenRBS, ericLemanissier, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#19765](https://github.com/conan-io/conan-center-index/pull/19765)|[mayeut](https://github.com/mayeut)|Sep 12|:memo: openssl|4|ericLemanissier, [Hopobcn](https://github.com/Hopobcn), RubenRBS, Croydon
+[#19779](https://github.com/conan-io/conan-center-index/pull/19779)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 13|:gear: .c3i|2|RubenRBS, SSE4
 
 
 #### :clipboard: Statistics
@@ -257,7 +257,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 527
 	- Draft: 61
-	- Average Age: 74 days, 6 hours, and 30.66 minutes
+	- Average Age: 74 days, 7 hours, and 32.29 minutes
 	- Stop Label: 229
 	
 
