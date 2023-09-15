@@ -4385,47 +4385,6 @@
       }
    },
    {
-      "Number": 19765,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-09-12T18:27:38Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19765",
-      "LastCommitSHA": "0c1f13c4c453e629979d03d79ffb047754dc762a",
-      "LastCommitAt": "2023-09-12T18:26:13Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "Hopobcn",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "Croydon",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Croydon",
-            "SubmittedAt": "2023-09-13T23:35:15Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19765#pullrequestreview-1625590022"
-         }
-      }
-   },
-   {
       "Number": 19768,
       "OpenedBy": "mrjoel",
       "CreatedAt": "2023-09-13T00:35:47Z",
