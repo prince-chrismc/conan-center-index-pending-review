@@ -3045,20 +3045,24 @@
       "LastCommitAt": "2023-08-30T11:47:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "StellaSmith",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-12T08:27:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19502#pullrequestreview-1621628114"
+            "ReviewerName": "StellaSmith",
+            "SubmittedAt": "2023-09-15T16:37:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19502#pullrequestreview-1629351121"
          }
       }
    },
@@ -4853,8 +4857,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19817",
-      "LastCommitSHA": "0484fd66225bdad3de5b36ff0770dcaee7566f2e",
-      "LastCommitAt": "2023-09-14T14:55:48Z",
+      "LastCommitSHA": "ac39b04123badbfb11b995cfd4dc7ca1422614e8",
+      "LastCommitAt": "2023-09-15T17:09:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5750,15 +5754,15 @@
       }
    },
    {
-      "Number": 19873,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-15T15:57:29Z",
-      "Recipe": "libmysqlclient",
+      "Number": 19874,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-15T17:05:36Z",
+      "Recipe": "continuable",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19873",
-      "LastCommitSHA": "659f87aae424e0bf500152d3e8563796f58dd835",
-      "LastCommitAt": "2023-09-15T15:55:21Z",
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19874",
+      "LastCommitSHA": "7da1751595b6b3af90fdcb2e717d7490f38adcac",
+      "LastCommitAt": "2023-09-15T17:04:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
