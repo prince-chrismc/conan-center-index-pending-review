@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **225** pull requests currently under way :detective:
+There are **224** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -58,7 +58,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18253](https://github.com/conan-io/conan-center-index/pull/18253)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: kitten|L|0|:eyes:||
 [#18259](https://github.com/conan-io/conan-center-index/pull/18259)|[valgur](https://github.com/valgur)|Jul 1|:memo: frugally-deep|L|1|Sep 12||RubenRBS
 [#18261](https://github.com/conan-io/conan-center-index/pull/18261)|[valgur](https://github.com/valgur)|Jul 1|:memo: platform.converters|L|1|Sep 13||RubenRBS
-[#18264](https://github.com/conan-io/conan-center-index/pull/18264)|[valgur](https://github.com/valgur)|Jul 1|:memo: ctpg|L|0|||
+[#18264](https://github.com/conan-io/conan-center-index/pull/18264)|[valgur](https://github.com/valgur)|Jul 1|:memo: ctpg|L|1|Sep 15||RubenRBS
 [#18265](https://github.com/conan-io/conan-center-index/pull/18265)|[valgur](https://github.com/valgur)|Jul 1|:stopwatch: libunifex|L|0|:eyes:||
 [#18273](https://github.com/conan-io/conan-center-index/pull/18273)|[valgur](https://github.com/valgur)|Jul 1|:memo: seqan3|L|1|Sep 13||RubenRBS
 [#18283](https://github.com/conan-io/conan-center-index/pull/18283)|[seppeon](https://github.com/seppeon)|Jul 2|:stopwatch: zlib|:green_circle: XS|4|Jul 24 :bell:||StellaSmith, [CJCombrink](https://github.com/CJCombrink)
@@ -206,7 +206,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:memo: opentelemetry-proto|:green_circle: XS|0|:eyes:||
 [#19763](https://github.com/conan-io/conan-center-index/pull/19763)|[holger-detering](https://github.com/holger-detering)|Sep 12|:memo: aws-c-io|:green_circle: XS|0|||
 [#19764](https://github.com/conan-io/conan-center-index/pull/19764)|[valgur](https://github.com/valgur)|Sep 12|:memo: openexr|M|0|||
-[#19768](https://github.com/conan-io/conan-center-index/pull/19768)|[mrjoel](https://github.com/mrjoel)|Sep 13|:stopwatch: qt|:green_circle: XS|1|Sep 13||jwillikers
+[#19768](https://github.com/conan-io/conan-center-index/pull/19768)|[mrjoel](https://github.com/mrjoel)|Sep 13|:stopwatch: qt|:green_circle: XS|2|Sep 15||
 [#19776](https://github.com/conan-io/conan-center-index/pull/19776)|[lrineau](https://github.com/lrineau)|Sep 13|:memo: cgal|:green_circle: XS|1|Sep 13||RubenRBS
 [#19781](https://github.com/conan-io/conan-center-index/pull/19781)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: cfitsio|:green_circle: XS|1|Sep 13||SpaceIm
 [#19782](https://github.com/conan-io/conan-center-index/pull/19782)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libdwarf|:green_circle: XS|1|Sep 14||ericLemanissier
@@ -229,7 +229,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19832](https://github.com/conan-io/conan-center-index/pull/19832)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 15|:memo: cryptopp|:blue_square: S|1|Sep 15||RubenRBS
 [#19834](https://github.com/conan-io/conan-center-index/pull/19834)|[joakimono](https://github.com/joakimono)|Sep 15|:new: fmi2|M|3|Sep 15||RubenRBS
 [#19837](https://github.com/conan-io/conan-center-index/pull/19837)|[joakimono](https://github.com/joakimono)|Sep 15|:new: fmi3|M|1|Sep 15||RubenRBS
-[#19845](https://github.com/conan-io/conan-center-index/pull/19845)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: valijson|M|1|Sep 15||
+[#19845](https://github.com/conan-io/conan-center-index/pull/19845)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: valijson|M|2|Sep 15||RubenRBS
 [#19846](https://github.com/conan-io/conan-center-index/pull/19846)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:stopwatch: vcglib|:blue_square: S|1|Sep 15||RubenRBS
 [#19849](https://github.com/conan-io/conan-center-index/pull/19849)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: vectorial|:blue_square: S|1|Sep 15||RubenRBS
 [#19850](https://github.com/conan-io/conan-center-index/pull/19850)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: wildmidi|:green_circle: XS|1|Sep 15||RubenRBS
@@ -237,11 +237,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19852](https://github.com/conan-io/conan-center-index/pull/19852)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: xorstr|:green_circle: XS|1|Sep 15||RubenRBS
 [#19855](https://github.com/conan-io/conan-center-index/pull/19855)|[Dobiasd](https://github.com/Dobiasd)|Sep 15|:stopwatch: functionalplus|:green_circle: XS|0|||
 [#19859](https://github.com/conan-io/conan-center-index/pull/19859)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: zstr|:green_circle: XS|1|Sep 15||ericLemanissier
-[#19861](https://github.com/conan-io/conan-center-index/pull/19861)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: gzip-hpp|:green_circle: XS|0|:eyes:||
+[#19861](https://github.com/conan-io/conan-center-index/pull/19861)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: gzip-hpp|:green_circle: XS|1|Sep 15||ericLemanissier
 [#19862](https://github.com/conan-io/conan-center-index/pull/19862)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: minisat|:green_circle: XS|0|:eyes:||
 [#19863](https://github.com/conan-io/conan-center-index/pull/19863)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: tng|:green_circle: XS|0|:eyes:||
 [#19864](https://github.com/conan-io/conan-center-index/pull/19864)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: taglib|:green_circle: XS|0|:eyes:||
-[#19865](https://github.com/conan-io/conan-center-index/pull/19865)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: seasocks|:green_circle: XS|0|:eyes:||
+[#19865](https://github.com/conan-io/conan-center-index/pull/19865)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: seasocks|:green_circle: XS|1|Sep 15||ericLemanissier
 [#19866](https://github.com/conan-io/conan-center-index/pull/19866)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: mbedtls|:green_circle: XS|0|:eyes:||
 [#19867](https://github.com/conan-io/conan-center-index/pull/19867)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: libnghttp2|:green_circle: XS|0|:eyes:||
 [#19868](https://github.com/conan-io/conan-center-index/pull/19868)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: libcurl|:green_circle: XS|0|:eyes:||
@@ -249,14 +249,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19870](https://github.com/conan-io/conan-center-index/pull/19870)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: hdrhistogram-c|:green_circle: XS|0|:eyes:||
 [#19871](https://github.com/conan-io/conan-center-index/pull/19871)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: hdf5|:green_circle: XS|0|:eyes:||
 [#19872](https://github.com/conan-io/conan-center-index/pull/19872)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: hdf4|:green_circle: XS|0|:eyes:||
-[#19873](https://github.com/conan-io/conan-center-index/pull/19873)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: libmysqlclient|:green_circle: XS|1|Sep 15||
-[#19874](https://github.com/conan-io/conan-center-index/pull/19874)|[toge](https://github.com/toge)|Sep 15|:stopwatch: continuable|:blue_square: S|0|||
-[#19875](https://github.com/conan-io/conan-center-index/pull/19875)|[gegles](https://github.com/gegles)|Sep 15|:stopwatch: gegles-spdlog_setup|:green_circle: XS|0|||
+[#19874](https://github.com/conan-io/conan-center-index/pull/19874)|[toge](https://github.com/toge)|Sep 15|:stopwatch: continuable|:blue_square: S|1|Sep 15||RubenRBS
+[#19875](https://github.com/conan-io/conan-center-index/pull/19875)|[gegles](https://github.com/gegles)|Sep 15|:stopwatch: gegles-spdlog_setup|:green_circle: XS|1|Sep 15||RubenRBS
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **12** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -265,8 +264,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
 [#19668](https://github.com/conan-io/conan-center-index/pull/19668)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:warning: pcre2|5|RubenRBS, ericLemanissier
 [#19762](https://github.com/conan-io/conan-center-index/pull/19762)|[ashley-b](https://github.com/ashley-b)|Sep 12|:warning: qwt|3|RubenRBS, ericLemanissier, [ilya-lavrenov](https://github.com/ilya-lavrenov)
-[#19839](https://github.com/conan-io/conan-center-index/pull/19839)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: tuplet|2|RubenRBS, ericLemanissier
-[#19840](https://github.com/conan-io/conan-center-index/pull/19840)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: uncrustify|3|RubenRBS, ericLemanissier, MartinDelille
 [#19841](https://github.com/conan-io/conan-center-index/pull/19841)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: units|2|RubenRBS, ericLemanissier
 [#19842](https://github.com/conan-io/conan-center-index/pull/19842)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: utf8.h|2|RubenRBS, ericLemanissier
 [#19843](https://github.com/conan-io/conan-center-index/pull/19843)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: v-hacd|2|RubenRBS, ericLemanissier
@@ -281,9 +278,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
-	- Open: 554
+	- Open: 552
 	- Draft: 61
-	- Average Age: 71 days, 6 hours, and 26.74 minutes
+	- Average Age: 71 days, 13 hours, and 40.25 minutes
 	- Stop Label: 232
 	
 
