@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **207** pull requests currently under way :detective:
+There are **209** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -40,7 +40,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17276](https://github.com/conan-io/conan-center-index/pull/17276)|[MartinDelille](https://github.com/MartinDelille)|Apr 27|:stopwatch: qtawesome|M|11|Aug 9 :bell:||
 [#17308](https://github.com/conan-io/conan-center-index/pull/17308)|[SpaceIm](https://github.com/SpaceIm)|Apr 29|:stopwatch: arg_router|L|5|May 8 :bell:||
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|5|May 20 :bell:|jcar87|jwillikers, prince-chrismc, SSE4
-[#17427](https://github.com/conan-io/conan-center-index/pull/17427)|[samuel-emrys](https://github.com/samuel-emrys)|May 6|:memo: tk|L|8|Sep 13||AndreyMlashkin, [EstebanDugueperoux2](https://github.com/EstebanDugueperoux2), MartinDelille, SSE4
 [#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:memo: paho-mqtt-c|:green_circle: XS|0|||
 [#17485](https://github.com/conan-io/conan-center-index/pull/17485)|[SpaceIm](https://github.com/SpaceIm)|May 9|:stopwatch: libxft|L|2|Jun 22 :bell:||jwillikers, SSE4
 [#17509](https://github.com/conan-io/conan-center-index/pull/17509)|[jusito](https://github.com/jusito)|May 10|:stopwatch: llvm|XL|0|:eyes:||
@@ -232,8 +231,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19824](https://github.com/conan-io/conan-center-index/pull/19824)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:memo: spectra|:green_circle: XS|1|Sep 15||RubenRBS
 [#19825](https://github.com/conan-io/conan-center-index/pull/19825)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:stopwatch: taocpp-taopq|:green_circle: XS|0|||
 [#19827](https://github.com/conan-io/conan-center-index/pull/19827)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:stopwatch: tomlplusplus|M|0|||
-[#19828](https://github.com/conan-io/conan-center-index/pull/19828)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:stopwatch: tscns|:blue_square: S|0|||
-[#19829](https://github.com/conan-io/conan-center-index/pull/19829)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:stopwatch: tsl-array-hash|:blue_square: S|0|||
+[#19828](https://github.com/conan-io/conan-center-index/pull/19828)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: tscns|:blue_square: S|1|Sep 15||RubenRBS
+[#19829](https://github.com/conan-io/conan-center-index/pull/19829)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: tsl-array-hash|:blue_square: S|0|||
+[#19830](https://github.com/conan-io/conan-center-index/pull/19830)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: tsl-hat-trie|:blue_square: S|0|||
+[#19831](https://github.com/conan-io/conan-center-index/pull/19831)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: tsl-ordered-map|:green_circle: XS|0|||
+[#19832](https://github.com/conan-io/conan-center-index/pull/19832)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 15|:stopwatch: cryptopp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -255,9 +257,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
-	- Open: 523
+	- Open: 525
 	- Draft: 62
-	- Average Age: 75 days, 8 hours, and 46.45 minutes
+	- Average Age: 74 days, 20 hours, and 52.05 minutes
 	- Stop Label: 229
 	
 
