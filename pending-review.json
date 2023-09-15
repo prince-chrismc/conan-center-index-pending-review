@@ -3821,35 +3821,6 @@
       }
    },
    {
-      "Number": 19681,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-09-08T15:13:24Z",
-      "Recipe": "openvino",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19681",
-      "LastCommitSHA": "9ae7fb6f6d78a02281c25eebd15a77339c30752d",
-      "LastCommitAt": "2023-09-11T10:17:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "CJCombrink",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "samuel-emrys",
-            "SubmittedAt": "2023-09-12T14:14:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19681#pullrequestreview-1622365004"
-         }
-      }
-   },
-   {
       "Number": 19682,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-08T16:09:05Z",
@@ -4967,25 +4938,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19825",
       "LastCommitSHA": "32609cc089745ed53c828212ed773cd8a71c12b9",
       "LastCommitAt": "2023-09-14T23:55:22Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19826,
-      "OpenedBy": "0xFireWolf",
-      "CreatedAt": "2023-09-15T04:44:36Z",
-      "Recipe": "antlr4-cppruntime",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19826",
-      "LastCommitSHA": "eb72b1c7509f9eb38d5bf5562ff2da2b07b28f68",
-      "LastCommitAt": "2023-09-15T04:44:06Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
