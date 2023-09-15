@@ -228,13 +228,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19804](https://github.com/conan-io/conan-center-index/pull/19804)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: xapian-core|:green_circle: XS|0|:eyes:||
 [#19817](https://github.com/conan-io/conan-center-index/pull/19817)|[toge](https://github.com/toge)|Sep 14|:stopwatch: xtensor|:green_circle: XS|0|||
 [#19820](https://github.com/conan-io/conan-center-index/pull/19820)|[Nerixyz](https://github.com/Nerixyz)|Sep 14|:stopwatch: libavif|M|0|||
-[#19824](https://github.com/conan-io/conan-center-index/pull/19824)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:stopwatch: spectra|:green_circle: XS|0|||
+[#19824](https://github.com/conan-io/conan-center-index/pull/19824)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:memo: spectra|:green_circle: XS|0|||
 [#19825](https://github.com/conan-io/conan-center-index/pull/19825)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:stopwatch: taocpp-taopq|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -242,7 +242,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
 [#19668](https://github.com/conan-io/conan-center-index/pull/19668)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:warning: pcre2|5|RubenRBS, ericLemanissier
-[#19669](https://github.com/conan-io/conan-center-index/pull/19669)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:memo: minizip|4|RubenRBS, ericLemanissier
 [#19762](https://github.com/conan-io/conan-center-index/pull/19762)|[ashley-b](https://github.com/ashley-b)|Sep 12|:warning: qwt|3|RubenRBS, ericLemanissier, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#19765](https://github.com/conan-io/conan-center-index/pull/19765)|[mayeut](https://github.com/mayeut)|Sep 12|:memo: openssl|4|ericLemanissier, [Hopobcn](https://github.com/Hopobcn), RubenRBS, Croydon
 
@@ -253,9 +252,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 347f28738156c50d6052d6607e8cee7085623996
 - Pull Requests:
-	- Open: 529
+	- Open: 528
 	- Draft: 61
-	- Average Age: 74 days, 5 hours, and 48.42 minutes
+	- Average Age: 74 days, 9 hours, and 20.87 minutes
 	- Stop Label: 232
 	
 
