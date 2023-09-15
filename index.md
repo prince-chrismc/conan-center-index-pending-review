@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **223** pull requests currently under way :detective:
+There are **224** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -250,21 +250,20 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19871](https://github.com/conan-io/conan-center-index/pull/19871)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: hdf5|:green_circle: XS|0|:eyes:||
 [#19872](https://github.com/conan-io/conan-center-index/pull/19872)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: hdf4|:green_circle: XS|0|:eyes:||
 [#19874](https://github.com/conan-io/conan-center-index/pull/19874)|[toge](https://github.com/toge)|Sep 15|:stopwatch: continuable|:blue_square: S|0|||
+[#19875](https://github.com/conan-io/conan-center-index/pull/19875)|[gegles](https://github.com/gegles)|Sep 15|:stopwatch: gegles-spdlog_setup|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|RubenRBS, SSE4
-[#19502](https://github.com/conan-io/conan-center-index/pull/19502)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:memo: gettext|2|RubenRBS, StellaSmith
 [#19576](https://github.com/conan-io/conan-center-index/pull/19576)|[toge](https://github.com/toge)|Sep 3|:warning: lief|2|ericLemanissier, uilianries
 [#19668](https://github.com/conan-io/conan-center-index/pull/19668)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:warning: pcre2|5|RubenRBS, ericLemanissier
 [#19762](https://github.com/conan-io/conan-center-index/pull/19762)|[ashley-b](https://github.com/ashley-b)|Sep 12|:warning: qwt|3|RubenRBS, ericLemanissier, [ilya-lavrenov](https://github.com/ilya-lavrenov)
-[#19836](https://github.com/conan-io/conan-center-index/pull/19836)|[toge](https://github.com/toge)|Sep 15|:memo: wasmtime|3|RubenRBS, ericLemanissier
 [#19838](https://github.com/conan-io/conan-center-index/pull/19838)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: tsl-sparse-map|2|RubenRBS, ericLemanissier
 [#19839](https://github.com/conan-io/conan-center-index/pull/19839)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: tuplet|2|RubenRBS, ericLemanissier
 [#19840](https://github.com/conan-io/conan-center-index/pull/19840)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: uncrustify|3|RubenRBS, ericLemanissier, MartinDelille
@@ -282,9 +281,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
-	- Open: 556
+	- Open: 555
 	- Draft: 61
-	- Average Age: 70 days, 23 hours, and 3.20 minutes
+	- Average Age: 71 days, 2 hours, and 28.74 minutes
 	- Stop Label: 232
 	
 
