@@ -2504,7 +2504,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19234",
       "LastCommitSHA": "2b546eef0687502e784edef57852907e210667d8",
       "LastCommitAt": "2023-09-15T23:18:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5183,7 +5183,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19862",
       "LastCommitSHA": "db8128501f53898c165d36442c1b04b78ec4bc69",
       "LastCommitAt": "2023-09-08T09:41:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5298,7 +5298,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19867",
       "LastCommitSHA": "c005d04109c0efd2baae43b3aefe39f2181cef96",
       "LastCommitAt": "2023-09-08T09:41:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5355,7 +5355,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19870",
       "LastCommitSHA": "e5459c8a5c34ed52532a87c81c29725ca8f3533a",
       "LastCommitAt": "2023-09-08T09:41:21Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5439,6 +5439,25 @@
             "SubmittedAt": "2023-09-15T19:18:48Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19874#pullrequestreview-1629575552"
          }
+      }
+   },
+   {
+      "Number": 19877,
+      "OpenedBy": "GavinNL",
+      "CreatedAt": "2023-09-16T03:30:20Z",
+      "Recipe": "imgui",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19877",
+      "LastCommitSHA": "cc4079b4f35d62cd06d02d2f62b1f5d7d3eea3b0",
+      "LastCommitAt": "2023-09-16T03:13:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
