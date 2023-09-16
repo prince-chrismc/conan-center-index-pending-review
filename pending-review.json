@@ -5810,8 +5810,46 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19899",
-      "LastCommitSHA": "70f13c6c3b010172d9ac9cdc6cbb13eac7c1c99e",
-      "LastCommitAt": "2023-09-16T19:49:03Z",
+      "LastCommitSHA": "dee61ae116d1d826f107944585beb78b1f869439",
+      "LastCommitAt": "2023-09-16T20:21:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19900,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-16T20:47:26Z",
+      "Recipe": "platform.equality",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19900",
+      "LastCommitSHA": "d63f00980caa81b9f724dd1c0c11e34c00c11838",
+      "LastCommitAt": "2023-09-16T20:46:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19901,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-16T20:51:25Z",
+      "Recipe": "redboltz-mqtt_cpp",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19901",
+      "LastCommitSHA": "2374521ffa1a7c270895f8ad183176b5f0b435f5",
+      "LastCommitAt": "2023-09-16T20:50:55Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
