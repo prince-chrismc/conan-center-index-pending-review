@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **228** pull requests currently under way :detective:
+There are **231** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -254,7 +254,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19880](https://github.com/conan-io/conan-center-index/pull/19880)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: vectorclass|:blue_square: S|0|||
 [#19881](https://github.com/conan-io/conan-center-index/pull/19881)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: vc|:blue_square: S|0|||
 [#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|0|||
-[#19883](https://github.com/conan-io/conan-center-index/pull/19883)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: octo-logger-cpp|M|0|||
+[#19883](https://github.com/conan-io/conan-center-index/pull/19883)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: octo-logger-cpp|M|0|||
+[#19884](https://github.com/conan-io/conan-center-index/pull/19884)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: octo-wildcardmatching-cpp|M|0|||
+[#19885](https://github.com/conan-io/conan-center-index/pull/19885)|[toge](https://github.com/toge)|Sep 16|:stopwatch: yyjson|:green_circle: XS|0|||
+[#19886](https://github.com/conan-io/conan-center-index/pull/19886)|[toge](https://github.com/toge)|Sep 16|:stopwatch: cpu_features|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -276,10 +279,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
-	- Open: 550
+	- Open: 552
 	- Draft: 61
-	- Average Age: 72 days, 10 hours, and 32.64 minutes
-	- Stop Label: 231
+	- Average Age: 71 days, 20 hours, and 42.53 minutes
+	- Stop Label: 230
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
