@@ -233,7 +233,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19849](https://github.com/conan-io/conan-center-index/pull/19849)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: vectorial|:blue_square: S|1|Sep 15||RubenRBS
 [#19850](https://github.com/conan-io/conan-center-index/pull/19850)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: wildmidi|:green_circle: XS|1|Sep 15||RubenRBS
 [#19851](https://github.com/conan-io/conan-center-index/pull/19851)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: winmd|:blue_square: S|1|Sep 15||RubenRBS
-[#19855](https://github.com/conan-io/conan-center-index/pull/19855)|[Dobiasd](https://github.com/Dobiasd)|Sep 15|:stopwatch: functionalplus|:green_circle: XS|0|||
+[#19855](https://github.com/conan-io/conan-center-index/pull/19855)|[Dobiasd](https://github.com/Dobiasd)|Sep 15|:memo: functionalplus|:green_circle: XS|1|Sep 16||RubenRBS
 [#19859](https://github.com/conan-io/conan-center-index/pull/19859)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: zstr|:green_circle: XS|1|Sep 15||ericLemanissier
 [#19861](https://github.com/conan-io/conan-center-index/pull/19861)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: gzip-hpp|:green_circle: XS|1|Sep 15||ericLemanissier
 [#19862](https://github.com/conan-io/conan-center-index/pull/19862)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: minisat|:green_circle: XS|1|Sep 16||ericLemanissier
@@ -255,11 +255,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19881](https://github.com/conan-io/conan-center-index/pull/19881)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: vc|:blue_square: S|0|||
 [#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|0|||
 [#19883](https://github.com/conan-io/conan-center-index/pull/19883)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: octo-logger-cpp|M|0|||
-[#19884](https://github.com/conan-io/conan-center-index/pull/19884)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: octo-wildcardmatching-cpp|M|0|||
-[#19886](https://github.com/conan-io/conan-center-index/pull/19886)|[toge](https://github.com/toge)|Sep 16|:stopwatch: cpu_features|:green_circle: XS|0|||
-[#19887](https://github.com/conan-io/conan-center-index/pull/19887)|[toge](https://github.com/toge)|Sep 16|:stopwatch: libnl|M|0|||
+[#19884](https://github.com/conan-io/conan-center-index/pull/19884)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: octo-wildcardmatching-cpp|M|0|||
+[#19887](https://github.com/conan-io/conan-center-index/pull/19887)|[toge](https://github.com/toge)|Sep 16|:memo: libnl|M|0|||
 [#19888](https://github.com/conan-io/conan-center-index/pull/19888)|[bobrofon](https://github.com/bobrofon)|Sep 16|:stopwatch: sdbus-cpp|:green_circle: XS|0|||
 [#19889](https://github.com/conan-io/conan-center-index/pull/19889)|[toge](https://github.com/toge)|Sep 16|:stopwatch: uni-algo|:green_circle: XS|0|||
+[#19890](https://github.com/conan-io/conan-center-index/pull/19890)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: mathfu|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -282,8 +282,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
 	- Open: 555
-	- Draft: 61
-	- Average Age: 71 days, 12 hours, and 14.43 minutes
+	- Draft: 62
+	- Average Age: 71 days, 13 hours, and 11.46 minutes
 	- Stop Label: 230
 	
 
