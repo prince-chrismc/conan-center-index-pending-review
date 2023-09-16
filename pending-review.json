@@ -5555,7 +5555,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19879",
       "LastCommitSHA": "379f1db9043e8a6a680bb1483a1e19aa69f46423",
       "LastCommitAt": "2023-09-16T08:39:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5574,7 +5574,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19880",
       "LastCommitSHA": "eaf77319b6efde84d445a072e6c2ecd8678261d1",
       "LastCommitAt": "2023-09-16T08:48:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5593,6 +5593,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19881",
       "LastCommitSHA": "48926e45f81851ecbb33d99b364a59af728c88dc",
       "LastCommitAt": "2023-09-16T09:04:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19882,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-16T09:17:12Z",
+      "Recipe": "osmanip",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19882",
+      "LastCommitSHA": "0cec7486a0ceab5f9402dd55392e6a6dcf787424",
+      "LastCommitAt": "2023-09-16T09:15:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
