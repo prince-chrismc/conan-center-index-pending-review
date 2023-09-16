@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **231** pull requests currently under way :detective:
+There are **233** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -256,8 +256,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|0|||
 [#19883](https://github.com/conan-io/conan-center-index/pull/19883)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: octo-logger-cpp|M|0|||
 [#19884](https://github.com/conan-io/conan-center-index/pull/19884)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: octo-wildcardmatching-cpp|M|0|||
-[#19885](https://github.com/conan-io/conan-center-index/pull/19885)|[toge](https://github.com/toge)|Sep 16|:stopwatch: yyjson|:green_circle: XS|0|||
 [#19886](https://github.com/conan-io/conan-center-index/pull/19886)|[toge](https://github.com/toge)|Sep 16|:stopwatch: cpu_features|:green_circle: XS|0|||
+[#19887](https://github.com/conan-io/conan-center-index/pull/19887)|[toge](https://github.com/toge)|Sep 16|:stopwatch: libnl|M|0|||
+[#19888](https://github.com/conan-io/conan-center-index/pull/19888)|[bobrofon](https://github.com/bobrofon)|Sep 16|:stopwatch: sdbus-cpp|:green_circle: XS|0|||
+[#19889](https://github.com/conan-io/conan-center-index/pull/19889)|[toge](https://github.com/toge)|Sep 16|:stopwatch: uni-algo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -279,9 +281,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
-	- Open: 552
+	- Open: 555
 	- Draft: 61
-	- Average Age: 71 days, 20 hours, and 42.53 minutes
+	- Average Age: 71 days, 12 hours, and 14.43 minutes
 	- Stop Label: 230
 	
 
