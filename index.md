@@ -246,7 +246,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19868](https://github.com/conan-io/conan-center-index/pull/19868)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: libcurl|:green_circle: XS|0|:eyes:||
 [#19869](https://github.com/conan-io/conan-center-index/pull/19869)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: kaitai_struct_cpp_stl_runtime|:green_circle: XS|0|:eyes:||
 [#19870](https://github.com/conan-io/conan-center-index/pull/19870)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: hdrhistogram-c|:green_circle: XS|0|:eyes:||
-[#19871](https://github.com/conan-io/conan-center-index/pull/19871)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:stopwatch: hdf5|:green_circle: XS|0|:eyes:||
+[#19871](https://github.com/conan-io/conan-center-index/pull/19871)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: hdf5|:green_circle: XS|0|:eyes:||
 [#19872](https://github.com/conan-io/conan-center-index/pull/19872)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: hdf4|:green_circle: XS|1|Sep 15||ericLemanissier
 [#19874](https://github.com/conan-io/conan-center-index/pull/19874)|[toge](https://github.com/toge)|Sep 15|:memo: continuable|:blue_square: S|1|Sep 15||RubenRBS
 [#19877](https://github.com/conan-io/conan-center-index/pull/19877)|[GavinNL](https://github.com/GavinNL)|Sep 16|:stopwatch: imgui|:green_circle: XS|0|||
@@ -273,7 +273,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 545
 	- Draft: 61
-	- Average Age: 72 days, 19 hours, and 35.22 minutes
+	- Average Age: 72 days, 20 hours, and 33.00 minutes
 	- Stop Label: 231
 	
 
