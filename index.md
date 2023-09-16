@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **235** pull requests currently under way :detective:
+There are **236** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -191,7 +191,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19686](https://github.com/conan-io/conan-center-index/pull/19686)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:memo: zziplib|:green_circle: XS|2|Sep 15||ericLemanissier, SpaceIm
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:stopwatch: mfast|:blue_square: S|4|Sep 13||RubenRBS
 [#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:stopwatch: oatpp-sqlite|:blue_square: S|0|||
-[#19709](https://github.com/conan-io/conan-center-index/pull/19709)|[toge](https://github.com/toge)|Sep 10|:stopwatch: wasmtime-cpp|:green_circle: XS|1|Sep 11||
+[#19709](https://github.com/conan-io/conan-center-index/pull/19709)|[toge](https://github.com/toge)|Sep 10|:memo: wasmtime-cpp|:green_circle: XS|1|Sep 11||
 [#19718](https://github.com/conan-io/conan-center-index/pull/19718)|[robomics](https://github.com/robomics)|Sep 10|:memo: libarchive|L|2|Sep 13||jwillikers
 [#19721](https://github.com/conan-io/conan-center-index/pull/19721)|[toge](https://github.com/toge)|Sep 10|:new: lazycsv|M|1|Sep 12||RubenRBS
 [#19722](https://github.com/conan-io/conan-center-index/pull/19722)|[toge](https://github.com/toge)|Sep 10|:new: ssp|M|1|Sep 12||RubenRBS
@@ -259,9 +259,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19887](https://github.com/conan-io/conan-center-index/pull/19887)|[toge](https://github.com/toge)|Sep 16|:memo: libnl|M|0|||
 [#19888](https://github.com/conan-io/conan-center-index/pull/19888)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: sdbus-cpp|:green_circle: XS|0|||
 [#19890](https://github.com/conan-io/conan-center-index/pull/19890)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: mathfu|:green_circle: XS|0|||
-[#19891](https://github.com/conan-io/conan-center-index/pull/19891)|[bobrofon](https://github.com/bobrofon)|Sep 16|:stopwatch: libsystemd|:green_circle: XS|0|||
+[#19891](https://github.com/conan-io/conan-center-index/pull/19891)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: libsystemd|:green_circle: XS|0|||
+[#19892](https://github.com/conan-io/conan-center-index/pull/19892)|[toge](https://github.com/toge)|Sep 16|:memo: elfio|M|0|||
 [#19895](https://github.com/conan-io/conan-center-index/pull/19895)|[toge](https://github.com/toge)|Sep 16|:stopwatch: implot|:green_circle: XS|0|||
-[#19896](https://github.com/conan-io/conan-center-index/pull/19896)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: oboe|:green_circle: XS|0|||
+[#19896](https://github.com/conan-io/conan-center-index/pull/19896)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: oboe|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -283,10 +284,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
-	- Open: 559
+	- Open: 558
 	- Draft: 61
-	- Average Age: 71 days, 3 hours, and 53.67 minutes
-	- Stop Label: 232
+	- Average Age: 71 days, 8 hours, and 0.77 minutes
+	- Stop Label: 231
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
