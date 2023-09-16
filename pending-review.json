@@ -3952,7 +3952,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19709",
       "LastCommitSHA": "6aa2fb4d54b8088f98183ad49f0077179f1053fd",
       "LastCommitAt": "2023-09-16T15:26:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -5736,7 +5736,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19891",
       "LastCommitSHA": "8665374a272608436a71661b3dccef30b782da45",
       "LastCommitAt": "2023-09-16T14:04:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19892,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-16T14:39:53Z",
+      "Recipe": "elfio",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19892",
+      "LastCommitSHA": "c0a46775c2c75956fadbb5a4fac23ad5a4e54b42",
+      "LastCommitAt": "2023-09-16T15:51:24Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5774,7 +5793,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19896",
       "LastCommitSHA": "dc0143718795cb53bc025b84c6a9d9ec0b628e07",
       "LastCommitAt": "2023-09-16T16:54:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
