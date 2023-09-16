@@ -263,9 +263,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19892](https://github.com/conan-io/conan-center-index/pull/19892)|[toge](https://github.com/toge)|Sep 16|:memo: elfio|M|0|||
 [#19896](https://github.com/conan-io/conan-center-index/pull/19896)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: oboe|:green_circle: XS|0|||
 [#19897](https://github.com/conan-io/conan-center-index/pull/19897)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: tk|L|0|||
-[#19899](https://github.com/conan-io/conan-center-index/pull/19899)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: tcl|M|0|||
+[#19899](https://github.com/conan-io/conan-center-index/pull/19899)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: tcl|M|0|||
 [#19900](https://github.com/conan-io/conan-center-index/pull/19900)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: platform.equality|:blue_square: S|0|||
-[#19901](https://github.com/conan-io/conan-center-index/pull/19901)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: redboltz-mqtt_cpp|:blue_square: S|0|||
+[#19901](https://github.com/conan-io/conan-center-index/pull/19901)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: redboltz-mqtt_cpp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -289,7 +289,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 561
 	- Draft: 61
-	- Average Age: 71 days, 1 hours, and 46.13 minutes
+	- Average Age: 71 days, 2 hours, and 47.20 minutes
 	- Stop Label: 231
 	
 
