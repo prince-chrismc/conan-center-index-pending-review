@@ -3619,7 +3619,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19660",
       "LastCommitSHA": "40abd09a0e0e29a1ca75d6f2926085ec9a0776b2",
       "LastCommitAt": "2023-09-14T10:03:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -3952,7 +3952,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19718",
       "LastCommitSHA": "ac795d5f2b19b614879b9427730c90b225b54292",
       "LastCommitAt": "2023-09-12T11:47:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -5113,39 +5113,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 19858,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-15T13:23:07Z",
-      "Recipe": "zopfli",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19858",
-      "LastCommitSHA": "87ab8e85794d85c9bb35470ea85a097418146b57",
-      "LastCommitAt": "2023-09-15T13:22:28Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-09-15T15:24:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19858#pullrequestreview-1629214095"
-         }
       }
    },
    {
