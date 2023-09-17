@@ -5857,7 +5857,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19910",
       "LastCommitSHA": "594a41acda1365a5936f7d32a15fa0ff9e06f3be",
       "LastCommitAt": "2023-09-17T09:12:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5895,7 +5895,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19912",
       "LastCommitSHA": "8e69702ef315e0ef907033aecbb557e0d0d22de4",
       "LastCommitAt": "2023-09-17T09:55:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5915,6 +5915,82 @@
       "LastCommitSHA": "bd53399094fc43b09bbc06eb63c02f4aaf5d2806",
       "LastCommitAt": "2023-09-17T09:57:26Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19914,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-09-17T10:20:08Z",
+      "Recipe": "cmake",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19914",
+      "LastCommitSHA": "51d8dc4f0a49c01b1f89249b460679fe3d21e378",
+      "LastCommitAt": "2023-09-17T10:19:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19915,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T10:21:34Z",
+      "Recipe": "namedtype",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19915",
+      "LastCommitSHA": "95b3ad8f252fc9e6546d0023aac8e441dedf7d2b",
+      "LastCommitAt": "2023-09-17T10:21:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19916,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T10:29:04Z",
+      "Recipe": "rpclib",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19916",
+      "LastCommitSHA": "e15d375f3aa97bece18be668e983a0a5a4fd7e11",
+      "LastCommitAt": "2023-09-17T10:40:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19917,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T11:09:49Z",
+      "Recipe": "vir-simd",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19917",
+      "LastCommitSHA": "cce0019fee5974b84c2fae2edc788208f51a3ef4",
+      "LastCommitAt": "2023-09-17T11:09:16Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
