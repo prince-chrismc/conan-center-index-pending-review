@@ -5827,5 +5827,62 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 19908,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T08:47:36Z",
+      "Recipe": "ccfits",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19908",
+      "LastCommitSHA": "67ebfae8eb210a0f5db081223b49bd451093ffde",
+      "LastCommitAt": "2023-09-17T08:46:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19909,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-09-17T08:56:49Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19909",
+      "LastCommitSHA": "eb34d7c5e9da40362b41ca5bba0b1eb720b693c3",
+      "LastCommitAt": "2023-09-17T08:42:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19910,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T09:10:59Z",
+      "Recipe": "cminpack",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19910",
+      "LastCommitSHA": "594a41acda1365a5936f7d32a15fa0ff9e06f3be",
+      "LastCommitAt": "2023-09-17T09:12:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
