@@ -5815,10 +5815,10 @@
       "CreatedAt": "2023-09-17T06:59:09Z",
       "Recipe": "armadillo",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19907",
-      "LastCommitSHA": "b21f586be50aa31aadcd2770e59feada92be8cc8",
-      "LastCommitAt": "2023-09-17T06:57:01Z",
+      "LastCommitSHA": "0703c9e5f870c95bcb00e10c3469599024da6e4e",
+      "LastCommitAt": "2023-09-17T12:22:33Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
