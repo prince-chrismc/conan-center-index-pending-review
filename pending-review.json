@@ -6047,26 +6047,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19923",
       "LastCommitSHA": "f5877ae97b2808d51f0813706b0765b1b6a1fdbc",
       "LastCommitAt": "2023-09-17T13:36:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19924,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-17T13:38:19Z",
-      "Recipe": "libalsa",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19924",
-      "LastCommitSHA": "93851d94423756111ed74a1b01b84869f9b23776",
-      "LastCommitAt": "2023-09-17T13:37:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6104,6 +6085,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19926",
       "LastCommitSHA": "3fb341aa62ee18c5b4cabc3e13194dacf029c9e2",
       "LastCommitAt": "2023-09-17T14:05:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19927,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T15:01:48Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19927",
+      "LastCommitSHA": "c5ef2716fccd501cd6cb49b77cdb13c84f81e09d",
+      "LastCommitAt": "2023-09-17T15:00:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19928,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T15:12:44Z",
+      "Recipe": "beauty",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19928",
+      "LastCommitSHA": "558f8f01ecbfa227afb4912228d9c545e98ea03a",
+      "LastCommitAt": "2023-09-17T15:12:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
