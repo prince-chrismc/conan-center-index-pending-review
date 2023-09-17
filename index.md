@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **240** pull requests currently under way :detective:
+There are **242** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -267,6 +267,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19900](https://github.com/conan-io/conan-center-index/pull/19900)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: platform.equality|:blue_square: S|0|||
 [#19901](https://github.com/conan-io/conan-center-index/pull/19901)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: redboltz-mqtt_cpp|:blue_square: S|0|||
 [#19902](https://github.com/conan-io/conan-center-index/pull/19902)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: lely-core|M|0|||
+[#19905](https://github.com/conan-io/conan-center-index/pull/19905)|[toge](https://github.com/toge)|Sep 17|:stopwatch: libdeflate|:green_circle: XS|0|||
+[#19906](https://github.com/conan-io/conan-center-index/pull/19906)|[toge](https://github.com/toge)|Sep 17|:stopwatch: yyjson|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -288,10 +290,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
-	- Open: 562
+	- Open: 565
 	- Draft: 61
-	- Average Age: 71 days, 2 hours, and 25.20 minutes
-	- Stop Label: 231
+	- Average Age: 70 days, 18 hours, and 22.47 minutes
+	- Stop Label: 232
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
