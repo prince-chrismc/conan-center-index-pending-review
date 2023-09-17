@@ -127,7 +127,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19251](https://github.com/conan-io/conan-center-index/pull/19251)|[valgur](https://github.com/valgur)|Aug 17|:memo: boost|L|1|Aug 19 :bell:||
 [#19254](https://github.com/conan-io/conan-center-index/pull/19254)|[valgur](https://github.com/valgur)|Aug 17|:memo: gsoap|M|2|Sep 13|RubenRBS|
-[#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:memo: libhal|L|8|Sep 11|jcar87, RubenRBS|SSE4
+[#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:stopwatch: libhal|L|9|Sep 17|jcar87|RubenRBS
 [#19327](https://github.com/conan-io/conan-center-index/pull/19327)|[Nekto89](https://github.com/Nekto89)|Aug 21|:memo: gdcm|:green_circle: XS|1|Aug 22 :bell:||[fdgStilla](https://github.com/fdgStilla)
 [#19339](https://github.com/conan-io/conan-center-index/pull/19339)|[jwillikers](https://github.com/jwillikers)|Aug 22|:memo: qt|:green_circle: XS|2|Aug 24 :bell:||ericLemanissier, MartinDelille
 [#19344](https://github.com/conan-io/conan-center-index/pull/19344)|[vbieleny](https://github.com/vbieleny)|Aug 22|:stopwatch: microprofile|:green_circle: XS|0|:eyes:||
@@ -267,9 +267,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19917](https://github.com/conan-io/conan-center-index/pull/19917)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: vir-simd|:blue_square: S|1|Sep 17||RubenRBS
 [#19918](https://github.com/conan-io/conan-center-index/pull/19918)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: libinterpolate|:green_circle: XS|1|Sep 17||RubenRBS
 [#19919](https://github.com/conan-io/conan-center-index/pull/19919)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: gurkenlaeufer|:blue_square: S|1|Sep 17||RubenRBS
-[#19922](https://github.com/conan-io/conan-center-index/pull/19922)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: cub|:green_circle: XS|0|||
+[#19922](https://github.com/conan-io/conan-center-index/pull/19922)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: cub|:green_circle: XS|1|Sep 17||RubenRBS
 [#19926](https://github.com/conan-io/conan-center-index/pull/19926)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: wyhash|:green_circle: XS|1|Sep 17||RubenRBS
-[#19928](https://github.com/conan-io/conan-center-index/pull/19928)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: beauty|:green_circle: XS|0|||
+[#19928](https://github.com/conan-io/conan-center-index/pull/19928)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: beauty|:green_circle: XS|1|Sep 17||RubenRBS
 [#19929](https://github.com/conan-io/conan-center-index/pull/19929)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: btyacc|L|0|||
 [#19930](https://github.com/conan-io/conan-center-index/pull/19930)|[toge](https://github.com/toge)|Sep 17|:memo: libsystemd|:blue_square: S|0|||
 
@@ -295,7 +295,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 583
 	- Draft: 62
-	- Average Age: 69 days, 7 hours, and 40.89 minutes
+	- Average Age: 69 days, 8 hours, and 40.86 minutes
 	- Stop Label: 246
 	
 
