@@ -2758,11 +2758,11 @@
       "CreatedAt": "2023-08-28T17:25:31Z",
       "Recipe": "mimalloc",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19470",
-      "LastCommitSHA": "db70d785dbafe71c6165644483992d3360e616d6",
-      "LastCommitAt": "2023-08-28T17:22:31Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "49df02ad856e724cdbb666e82984834382387657",
+      "LastCommitAt": "2023-09-17T12:09:01Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5829,25 +5829,6 @@
       }
    },
    {
-      "Number": 19908,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-17T08:47:36Z",
-      "Recipe": "ccfits",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19908",
-      "LastCommitSHA": "a1a0459c1b172f65f6f23fbc76ccc33378179978",
-      "LastCommitAt": "2023-09-17T10:09:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19910,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-17T09:10:59Z",
@@ -5874,8 +5855,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19911",
-      "LastCommitSHA": "81d96088084331df6d219559eb5e8a5ddf2aa7f0",
-      "LastCommitAt": "2023-09-17T09:24:46Z",
+      "LastCommitSHA": "19ddadb43c358c70b85a4739ea65990576e4e0d6",
+      "LastCommitAt": "2023-09-17T11:13:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5971,7 +5952,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19916",
       "LastCommitSHA": "e15d375f3aa97bece18be668e983a0a5a4fd7e11",
       "LastCommitAt": "2023-09-17T10:40:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5990,7 +5971,45 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19917",
       "LastCommitSHA": "cce0019fee5974b84c2fae2edc788208f51a3ef4",
       "LastCommitAt": "2023-09-17T11:09:16Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19918,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T11:17:21Z",
+      "Recipe": "libinterpolate",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19918",
+      "LastCommitSHA": "a232cb30146c96ec0732c2a95cddaa893adb216d",
+      "LastCommitAt": "2023-09-17T11:19:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19919,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T11:24:21Z",
+      "Recipe": "gurkenlaeufer",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19919",
+      "LastCommitSHA": "4deebcf314836fa59133df21ceaed4f7b33aa13a",
+      "LastCommitAt": "2023-09-17T11:22:47Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
