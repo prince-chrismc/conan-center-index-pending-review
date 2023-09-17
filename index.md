@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **252** pull requests currently under way :detective:
+There are **253** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -275,10 +275,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19918](https://github.com/conan-io/conan-center-index/pull/19918)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: libinterpolate|:green_circle: XS|0|||
 [#19919](https://github.com/conan-io/conan-center-index/pull/19919)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: gurkenlaeufer|:blue_square: S|0|||
 [#19922](https://github.com/conan-io/conan-center-index/pull/19922)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: cub|:green_circle: XS|0|||
-[#19923](https://github.com/conan-io/conan-center-index/pull/19923)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: cprocessing|:blue_square: S|0|||
-[#19924](https://github.com/conan-io/conan-center-index/pull/19924)|[toge](https://github.com/toge)|Sep 17|:stopwatch: libalsa|:green_circle: XS|0|||
+[#19923](https://github.com/conan-io/conan-center-index/pull/19923)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: cprocessing|:blue_square: S|0|||
 [#19925](https://github.com/conan-io/conan-center-index/pull/19925)|[toge](https://github.com/toge)|Sep 17|:stopwatch: patchelf|:green_circle: XS|0|||
-[#19926](https://github.com/conan-io/conan-center-index/pull/19926)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: wyhash|:green_circle: XS|0|||
+[#19926](https://github.com/conan-io/conan-center-index/pull/19926)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: wyhash|:green_circle: XS|0|||
+[#19927](https://github.com/conan-io/conan-center-index/pull/19927)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: armadillo|:green_circle: XS|0|||
+[#19928](https://github.com/conan-io/conan-center-index/pull/19928)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: beauty|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -302,7 +303,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 581
 	- Draft: 60
-	- Average Age: 69 days, 6 hours, and 25.53 minutes
+	- Average Age: 69 days, 7 hours, and 24.92 minutes
 	- Stop Label: 239
 	
 
