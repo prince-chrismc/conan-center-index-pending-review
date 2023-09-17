@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **247** pull requests currently under way :detective:
+There are **245** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -246,32 +246,30 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19883](https://github.com/conan-io/conan-center-index/pull/19883)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: octo-logger-cpp|M|0|||
 [#19884](https://github.com/conan-io/conan-center-index/pull/19884)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: octo-wildcardmatching-cpp|M|0|||
 [#19887](https://github.com/conan-io/conan-center-index/pull/19887)|[toge](https://github.com/toge)|Sep 16|:memo: libnl|M|1|Sep 17||RubenRBS
-[#19888](https://github.com/conan-io/conan-center-index/pull/19888)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: sdbus-cpp|:green_circle: XS|0|||
-[#19890](https://github.com/conan-io/conan-center-index/pull/19890)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: mathfu|:green_circle: XS|0|||
-[#19891](https://github.com/conan-io/conan-center-index/pull/19891)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: libsystemd|:green_circle: XS|0|||
+[#19888](https://github.com/conan-io/conan-center-index/pull/19888)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: sdbus-cpp|:green_circle: XS|1|Sep 17||RubenRBS
+[#19890](https://github.com/conan-io/conan-center-index/pull/19890)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: mathfu|:green_circle: XS|1|Sep 17||RubenRBS
+[#19891](https://github.com/conan-io/conan-center-index/pull/19891)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: libsystemd|:green_circle: XS|1|Sep 17||RubenRBS
 [#19892](https://github.com/conan-io/conan-center-index/pull/19892)|[toge](https://github.com/toge)|Sep 16|:memo: elfio|M|1|Sep 17||[Hopobcn](https://github.com/Hopobcn)
-[#19896](https://github.com/conan-io/conan-center-index/pull/19896)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: oboe|:green_circle: XS|0|||
+[#19896](https://github.com/conan-io/conan-center-index/pull/19896)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: oboe|:green_circle: XS|1|Sep 17||RubenRBS
 [#19897](https://github.com/conan-io/conan-center-index/pull/19897)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: tk|L|0|||
-[#19899](https://github.com/conan-io/conan-center-index/pull/19899)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: tcl|M|0|||
-[#19900](https://github.com/conan-io/conan-center-index/pull/19900)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: platform.equality|:blue_square: S|0|||
-[#19901](https://github.com/conan-io/conan-center-index/pull/19901)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: redboltz-mqtt_cpp|:blue_square: S|0|||
-[#19902](https://github.com/conan-io/conan-center-index/pull/19902)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: lely-core|M|0|||
-[#19906](https://github.com/conan-io/conan-center-index/pull/19906)|[toge](https://github.com/toge)|Sep 17|:memo: yyjson|:green_circle: XS|0|||
+[#19900](https://github.com/conan-io/conan-center-index/pull/19900)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: platform.equality|:blue_square: S|1|Sep 17||RubenRBS
+[#19901](https://github.com/conan-io/conan-center-index/pull/19901)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: redboltz-mqtt_cpp|:blue_square: S|1|Sep 17||RubenRBS
+[#19902](https://github.com/conan-io/conan-center-index/pull/19902)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: lely-core|M|1|Sep 17||RubenRBS
+[#19906](https://github.com/conan-io/conan-center-index/pull/19906)|[toge](https://github.com/toge)|Sep 17|:memo: yyjson|:green_circle: XS|1|Sep 17||RubenRBS
 [#19907](https://github.com/conan-io/conan-center-index/pull/19907)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 17|:stopwatch: armadillo|L|0|||
-[#19910](https://github.com/conan-io/conan-center-index/pull/19910)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: cminpack|M|0|||
+[#19910](https://github.com/conan-io/conan-center-index/pull/19910)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: cminpack|M|2|Sep 17||RubenRBS
 [#19911](https://github.com/conan-io/conan-center-index/pull/19911)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: libavrocpp|:green_circle: XS|0|||
-[#19912](https://github.com/conan-io/conan-center-index/pull/19912)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: crc_cpp|L|0|||
+[#19912](https://github.com/conan-io/conan-center-index/pull/19912)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: crc_cpp|L|1|Sep 17||RubenRBS
 [#19913](https://github.com/conan-io/conan-center-index/pull/19913)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:green_book: docs|:green_circle: XS|0|||
-[#19914](https://github.com/conan-io/conan-center-index/pull/19914)|[mayeut](https://github.com/mayeut)|Sep 17|:memo: cmake|:blue_square: S|0|||
-[#19915](https://github.com/conan-io/conan-center-index/pull/19915)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: namedtype|:blue_square: S|0|||
-[#19916](https://github.com/conan-io/conan-center-index/pull/19916)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: rpclib|M|0|||
-[#19917](https://github.com/conan-io/conan-center-index/pull/19917)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: vir-simd|:blue_square: S|0|||
-[#19918](https://github.com/conan-io/conan-center-index/pull/19918)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: libinterpolate|:green_circle: XS|0|||
-[#19919](https://github.com/conan-io/conan-center-index/pull/19919)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: gurkenlaeufer|:blue_square: S|0|||
+[#19914](https://github.com/conan-io/conan-center-index/pull/19914)|[mayeut](https://github.com/mayeut)|Sep 17|:memo: cmake|:blue_square: S|1|Sep 17||RubenRBS
+[#19915](https://github.com/conan-io/conan-center-index/pull/19915)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: namedtype|:blue_square: S|1|Sep 17||RubenRBS
+[#19916](https://github.com/conan-io/conan-center-index/pull/19916)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: rpclib|M|1|Sep 17||RubenRBS
+[#19917](https://github.com/conan-io/conan-center-index/pull/19917)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: vir-simd|:blue_square: S|1|Sep 17||RubenRBS
+[#19918](https://github.com/conan-io/conan-center-index/pull/19918)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: libinterpolate|:green_circle: XS|1|Sep 17||RubenRBS
+[#19919](https://github.com/conan-io/conan-center-index/pull/19919)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: gurkenlaeufer|:blue_square: S|1|Sep 17||RubenRBS
 [#19922](https://github.com/conan-io/conan-center-index/pull/19922)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: cub|:green_circle: XS|0|||
-[#19923](https://github.com/conan-io/conan-center-index/pull/19923)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: cprocessing|:blue_square: S|0|||
-[#19926](https://github.com/conan-io/conan-center-index/pull/19926)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: wyhash|:green_circle: XS|0|||
-[#19928](https://github.com/conan-io/conan-center-index/pull/19928)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: beauty|:green_circle: XS|0|||
+[#19926](https://github.com/conan-io/conan-center-index/pull/19926)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: wyhash|:green_circle: XS|1|Sep 17||RubenRBS
+[#19928](https://github.com/conan-io/conan-center-index/pull/19928)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: beauty|:green_circle: XS|0|||
 [#19929](https://github.com/conan-io/conan-center-index/pull/19929)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: btyacc|L|0|||
 [#19930](https://github.com/conan-io/conan-center-index/pull/19930)|[toge](https://github.com/toge)|Sep 17|:memo: libsystemd|:blue_square: S|0|||
 
@@ -296,8 +294,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: cb6dbab8bfb0c287cc8a3693a4c52d9d8b929d3b
 - Pull Requests:
 	- Open: 583
-	- Draft: 61
-	- Average Age: 69 days, 6 hours, and 41.93 minutes
+	- Draft: 62
+	- Average Age: 69 days, 7 hours, and 40.89 minutes
 	- Stop Label: 246
 	
 
