@@ -214,7 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19802](https://github.com/conan-io/conan-center-index/pull/19802)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: tinyexr|:green_circle: XS|1|Sep 16||ericLemanissier
 [#19804](https://github.com/conan-io/conan-center-index/pull/19804)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: xapian-core|:green_circle: XS|1|Sep 15||ericLemanissier
 [#19817](https://github.com/conan-io/conan-center-index/pull/19817)|[toge](https://github.com/toge)|Sep 14|:stopwatch: xtensor|:green_circle: XS|0|||
-[#19820](https://github.com/conan-io/conan-center-index/pull/19820)|[Nerixyz](https://github.com/Nerixyz)|Sep 14|:stopwatch: libavif|M|0|||
+[#19820](https://github.com/conan-io/conan-center-index/pull/19820)|[Nerixyz](https://github.com/Nerixyz)|Sep 14|:stopwatch: libavif|M|0|:eyes:||
 [#19832](https://github.com/conan-io/conan-center-index/pull/19832)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 15|:memo: cryptopp|:blue_square: S|1|Sep 15||RubenRBS
 [#19834](https://github.com/conan-io/conan-center-index/pull/19834)|[joakimono](https://github.com/joakimono)|Sep 15|:new: fmi2|M|3|Sep 15||RubenRBS
 [#19837](https://github.com/conan-io/conan-center-index/pull/19837)|[joakimono](https://github.com/joakimono)|Sep 15|:new: fmi3|M|1|Sep 15||RubenRBS
@@ -296,7 +296,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 583
 	- Draft: 61
-	- Average Age: 69 days, 4 hours, and 45.41 minutes
+	- Average Age: 69 days, 5 hours, and 40.48 minutes
 	- Stop Label: 247
 	
 
