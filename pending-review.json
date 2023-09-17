@@ -5891,25 +5891,6 @@
       }
    },
    {
-      "Number": 19905,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-17T01:30:02Z",
-      "Recipe": "libdeflate",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19905",
-      "LastCommitSHA": "d2c093bac2afb14c3bc45b0b2e8aaa942f69a0e1",
-      "LastCommitAt": "2023-09-17T01:29:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19906,
       "OpenedBy": "toge",
       "CreatedAt": "2023-09-17T01:44:44Z",
