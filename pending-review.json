@@ -1524,6 +1524,25 @@
       }
    },
    {
+      "Number": 18861,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-24T05:39:24Z",
+      "Recipe": "pdcurses",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18861",
+      "LastCommitSHA": "3162ad750ebd7ea333167f24027e2fccf3682df7",
+      "LastCommitAt": "2023-09-18T17:54:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18865,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-24T07:12:05Z",
@@ -4607,43 +4626,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-09-18T12:38:42Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19820#pullrequestreview-1630949421"
-         }
-      }
-   },
-   {
-      "Number": 19832,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-09-15T10:15:00Z",
-      "Recipe": "cryptopp",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19832",
-      "LastCommitSHA": "774c417372e17e14f67c599240ae2c38cd3e5657",
-      "LastCommitAt": "2023-09-15T10:14:44Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-09-18T12:39:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19832#pullrequestreview-1630950487"
          }
       }
    },
