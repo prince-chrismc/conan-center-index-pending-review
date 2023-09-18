@@ -5594,7 +5594,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19892",
       "LastCommitSHA": "68adba2dcb791e0ecea76abf143eb573e36faf4f",
       "LastCommitAt": "2023-09-17T23:54:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -5787,7 +5787,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19907",
       "LastCommitSHA": "c0c789f58053da9de541c3265c622902a737c751",
       "LastCommitAt": "2023-09-17T23:11:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 19909,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-09-17T08:56:49Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19909",
+      "LastCommitSHA": "b6e4b70253b2e9b55d243a783795c69d30926463",
+      "LastCommitAt": "2023-09-17T23:16:11Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -6005,39 +6024,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-09-17T20:58:46Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19917#pullrequestreview-1630125900"
-         }
-      }
-   },
-   {
-      "Number": 19918,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-17T11:17:21Z",
-      "Recipe": "libinterpolate",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19918",
-      "LastCommitSHA": "a232cb30146c96ec0732c2a95cddaa893adb216d",
-      "LastCommitAt": "2023-09-17T11:19:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "samuel-emrys",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "samuel-emrys",
-            "SubmittedAt": "2023-09-18T00:50:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19918#pullrequestreview-1630174294"
          }
       }
    },
