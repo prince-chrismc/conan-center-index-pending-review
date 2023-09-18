@@ -66,7 +66,7 @@ func TestFormatMarkdownRows(t *testing.T) {
 
 	mergeRow, mergeCount := ReviewsToMarkdownRows(rs, true)
 	assert.Equal(t, mergeCount, 1)
-	assert.Equal(t, "[#4356](https://github.com/conan-io/conan-center-index/pull/4356)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 25|:memo: paho-mqtt-c|15|madebr, SSE4, SpaceIm\n", mergeRow)
+	assert.Equal(t, "[#4356](https://github.com/conan-io/conan-center-index/pull/4356)|[prince-chrismc](https://github.com/prince-chrismc)|Jan 25|:memo: paho-mqtt-c|15|madebr, **SSE4**, SpaceIm\n", mergeRow)
 
 	reviewRow, reviewCount := ReviewsToMarkdownRows(rs, false)
 	assert.Equal(t, reviewCount, 1)
@@ -105,7 +105,7 @@ func TestFormatMarkdownRowsDocs(t *testing.T) {
 
 	mergeRow, mergeCount := ReviewsToMarkdownRows(rs, true)
 	assert.Equal(t, mergeCount, 1)
-	assert.Equal(t, "[#7648](https://github.com/conan-io/conan-center-index/pull/7648)|[jgsogo](https://github.com/jgsogo)|Oct 11|:green_book: docs|3|uilianries, SSE4, prince-chrismc\n", mergeRow)
+	assert.Equal(t, "[#7648](https://github.com/conan-io/conan-center-index/pull/7648)|[jgsogo](https://github.com/jgsogo)|Oct 11|:green_book: docs|3|**uilianries**, SSE4, prince-chrismc\n", mergeRow)
 }
 
 func TestFormatMarkdownRowsCiPending(t *testing.T) {
