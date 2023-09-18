@@ -136,6 +136,8 @@ func approvers(approvers []pending_review.Approver) string {
 			// give ourselves a link to check them out
 			// Bonus: this is an easy to see which ones are not being counted
 			names = append(names, fmt.Sprint("[", a.Name, "](https://github.com/", a.Name, ")"))
+		} else if a.Tier == pending_review.Team {
+			names = append(names, fmt.Sprint("**", a.Name, "**"))
 		} else {
 			names = append(names, a.Name)
 		}
