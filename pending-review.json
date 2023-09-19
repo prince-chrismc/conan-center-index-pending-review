@@ -3020,7 +3020,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19533",
       "LastCommitSHA": "a2639d8f196c6538e213f50cd2ed13ea45a27b18",
       "LastCommitAt": "2023-09-19T19:41:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -3430,27 +3430,14 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19652",
-      "LastCommitSHA": "4da440a807cc36e53c6652a962f0cc9ae9105f51",
-      "LastCommitAt": "2023-09-11T12:56:47Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "b47afa7e1eb1392b881b106b4aaf8874be935ef3",
+      "LastCommitAt": "2023-09-19T22:03:48Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 3,
-         "ValidApprovals": 2,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "SpaceIm",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "SpaceIm",
@@ -3960,47 +3947,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 19784,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-13T17:53:55Z",
-      "Recipe": "libunwind",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19784",
-      "LastCommitSHA": "bfbf19693df5730745013502ff06eb58deb24ae7",
-      "LastCommitAt": "2023-09-08T09:41:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "Hopobcn",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-09-19T13:28:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19784#pullrequestreview-1633281691"
-         }
       }
    },
    {
