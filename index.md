@@ -249,7 +249,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -259,7 +259,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|RubenRBS, jwillikers
 [#19762](https://github.com/conan-io/conan-center-index/pull/19762)|[ashley-b](https://github.com/ashley-b)|Sep 12|:warning: qwt|3|RubenRBS, ericLemanissier, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|RubenRBS, jwillikers
-[#19892](https://github.com/conan-io/conan-center-index/pull/19892)|[toge](https://github.com/toge)|Sep 16|:memo: elfio|4|RubenRBS, [Hopobcn](https://github.com/Hopobcn), czoido
 [#19896](https://github.com/conan-io/conan-center-index/pull/19896)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: oboe|3|RubenRBS, ericLemanissier, czoido
 [#19900](https://github.com/conan-io/conan-center-index/pull/19900)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: platform.equality|3|RubenRBS, ericLemanissier, czoido
 [#19901](https://github.com/conan-io/conan-center-index/pull/19901)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: redboltz-mqtt_cpp|3|RubenRBS, ericLemanissier, czoido
@@ -283,9 +282,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9adf0a727690982388d1b041e7304fb7c6b3f5c
 - Pull Requests:
-	- Open: 565
+	- Open: 564
 	- Draft: 60
-	- Average Age: 71 days, 23 hours, and 44.50 minutes
+	- Average Age: 72 days, 3 hours, and 37.64 minutes
 	- Stop Label: 239
 	
 
