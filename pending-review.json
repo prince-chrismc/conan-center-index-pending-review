@@ -3811,7 +3811,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19743",
       "LastCommitSHA": "167a0c7433ce98c6ea98a25d404851b5aa8de4d5",
       "LastCommitAt": "2023-09-08T09:42:20Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -4626,39 +4626,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-09-18T12:38:42Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19820#pullrequestreview-1630949421"
-         }
-      }
-   },
-   {
-      "Number": 19834,
-      "OpenedBy": "joakimono",
-      "CreatedAt": "2023-09-15T10:49:17Z",
-      "Recipe": "fmi2",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19834",
-      "LastCommitSHA": "5c1edf08a63739aecfce218222f548d9d5599c21",
-      "LastCommitAt": "2023-09-15T10:54:49Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-09-18T12:40:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19834#pullrequestreview-1630951736"
          }
       }
    },
@@ -5652,6 +5619,59 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-09-18T15:48:06Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19907#pullrequestreview-1631407730"
+         }
+      }
+   },
+   {
+      "Number": 19908,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-17T08:47:36Z",
+      "Recipe": "ccfits",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19908",
+      "LastCommitSHA": "10b4bd289c9a13eebfe279d24c95cce24b8a46a0",
+      "LastCommitAt": "2023-09-18T15:23:49Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-09-18T16:05:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19908#pullrequestreview-1631444829"
+         }
+      }
+   },
+   {
+      "Number": 19909,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-09-17T08:56:49Z",
+      "Recipe": "armadillo",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19909",
+      "LastCommitSHA": "ece784abebba9171c1516b0f5afe1c2e6d1b561d",
+      "LastCommitAt": "2023-09-18T23:31:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-09-18T13:42:56Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19909#pullrequestreview-1631098153"
          }
       }
    },
