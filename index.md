@@ -226,7 +226,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19870](https://github.com/conan-io/conan-center-index/pull/19870)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: hdrhistogram-c|:green_circle: XS|1|Sep 16||ericLemanissier
 [#19871](https://github.com/conan-io/conan-center-index/pull/19871)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: hdf5|:green_circle: XS|2|Sep 18||ericLemanissier, jwillikers
 [#19872](https://github.com/conan-io/conan-center-index/pull/19872)|[RubenRBS](https://github.com/RubenRBS)|Sep 15|:memo: hdf4|:green_circle: XS|2|Sep 18||ericLemanissier, jwillikers
-[#19877](https://github.com/conan-io/conan-center-index/pull/19877)|[GavinNL](https://github.com/GavinNL)|Sep 16|:memo: imgui|:green_circle: XS|0|||
+[#19877](https://github.com/conan-io/conan-center-index/pull/19877)|[GavinNL](https://github.com/GavinNL)|Sep 16|:memo: imgui|:green_circle: XS|0|:eyes:||
 [#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|1|Sep 18||jwillikers
 [#19883](https://github.com/conan-io/conan-center-index/pull/19883)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: octo-logger-cpp|M|1|Sep 18||jwillikers
 [#19884](https://github.com/conan-io/conan-center-index/pull/19884)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: octo-wildcardmatching-cpp|M|1|Sep 18||jwillikers
@@ -243,12 +243,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|||
 [#19946](https://github.com/conan-io/conan-center-index/pull/19946)|[toge](https://github.com/toge)|Sep 18|:new: coost|M|0|||
 [#19948](https://github.com/conan-io/conan-center-index/pull/19948)|[toge](https://github.com/toge)|Sep 18|:memo: cimg|:blue_square: S|0|||
-[#19952](https://github.com/conan-io/conan-center-index/pull/19952)|[toge](https://github.com/toge)|Sep 19|:stopwatch: libnpy|M|0|||
+[#19952](https://github.com/conan-io/conan-center-index/pull/19952)|[toge](https://github.com/toge)|Sep 19|:new: libnpy|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **25** pull requests are waiting to be merged :tada:
+Currently **23** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -258,8 +258,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|RubenRBS, jwillikers
 [#19762](https://github.com/conan-io/conan-center-index/pull/19762)|[ashley-b](https://github.com/ashley-b)|Sep 12|:warning: qwt|3|RubenRBS, ericLemanissier, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|RubenRBS, jwillikers
-[#19887](https://github.com/conan-io/conan-center-index/pull/19887)|[toge](https://github.com/toge)|Sep 16|:memo: libnl|2|RubenRBS, czoido
-[#19888](https://github.com/conan-io/conan-center-index/pull/19888)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: sdbus-cpp|3|RubenRBS, ericLemanissier, czoido
 [#19890](https://github.com/conan-io/conan-center-index/pull/19890)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: mathfu|3|RubenRBS, ericLemanissier, czoido
 [#19891](https://github.com/conan-io/conan-center-index/pull/19891)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: libsystemd|3|RubenRBS, ericLemanissier, czoido
 [#19892](https://github.com/conan-io/conan-center-index/pull/19892)|[toge](https://github.com/toge)|Sep 16|:memo: elfio|4|RubenRBS, [Hopobcn](https://github.com/Hopobcn), czoido
@@ -286,9 +284,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9adf0a727690982388d1b041e7304fb7c6b3f5c
 - Pull Requests:
-	- Open: 569
+	- Open: 567
 	- Draft: 60
-	- Average Age: 71 days, 9 hours, and 36.74 minutes
+	- Average Age: 71 days, 16 hours, and 49.89 minutes
 	- Stop Label: 240
 	
 
