@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **172** pull requests currently under way :detective:
+There are **174** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -151,6 +151,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19501](https://github.com/conan-io/conan-center-index/pull/19501)|[SpaceIm](https://github.com/SpaceIm)|Aug 30|:stopwatch: libtool|:blue_square: S|2|Sep 18||ericLemanissier, jwillikers
 [#19508](https://github.com/conan-io/conan-center-index/pull/19508)|[valgur](https://github.com/valgur)|Aug 30|:new: libmagic|M|0|:eyes:||
 [#19512](https://github.com/conan-io/conan-center-index/pull/19512)|[toge](https://github.com/toge)|Aug 31|:memo: watcher|L|2|Sep 7 :bell:||
+[#19533](https://github.com/conan-io/conan-center-index/pull/19533)|[cjbradfield](https://github.com/cjbradfield)|Aug 31|:stopwatch: nghttp3|M|2|Sep 19||
 [#19551](https://github.com/conan-io/conan-center-index/pull/19551)|[cschreib](https://github.com/cschreib)|Sep 1|:new: snitch|L|0|:eyes:||
 [#19554](https://github.com/conan-io/conan-center-index/pull/19554)|[Kalixio](https://github.com/Kalixio)|Sep 1|:stopwatch: eastl|:green_circle: XS|0|:eyes:||
 [#19578](https://github.com/conan-io/conan-center-index/pull/19578)|[p-groarke](https://github.com/p-groarke)|Sep 3|:memo: make|:blue_square: S|4|Sep 11|RubenRBS|
@@ -199,11 +200,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|||
 [#19952](https://github.com/conan-io/conan-center-index/pull/19952)|[toge](https://github.com/toge)|Sep 19|:new: libnpy|M|3|Sep 19|czoido|samuel-emrys
 [#19957](https://github.com/conan-io/conan-center-index/pull/19957)|[valgur](https://github.com/valgur)|Sep 19|:stopwatch: astro-informatics-so3|:green_circle: XS|0|||
+[#19962](https://github.com/conan-io/conan-center-index/pull/19962)|[toge](https://github.com/toge)|Sep 19|:stopwatch: stringzilla|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **49** pull requests are waiting to be merged :tada:
+Currently **47** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -215,8 +217,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19682](https://github.com/conan-io/conan-center-index/pull/19682)|[RubenRBS](https://github.com/RubenRBS)|Sep 8|:warning: highs|2|ericLemanissier, czoido
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|RubenRBS, jwillikers
 [#19718](https://github.com/conan-io/conan-center-index/pull/19718)|[robomics](https://github.com/robomics)|Sep 10|:memo: libarchive|3|jwillikers, czoido
-[#19743](https://github.com/conan-io/conan-center-index/pull/19743)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:memo: openssl|3|ericLemanissier, czoido
-[#19744](https://github.com/conan-io/conan-center-index/pull/19744)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:memo: librdkafka|2|czoido, ericLemanissier
 [#19745](https://github.com/conan-io/conan-center-index/pull/19745)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:memo: civetweb|2|ericLemanissier, czoido
 [#19746](https://github.com/conan-io/conan-center-index/pull/19746)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:memo: cpp-httplib|2|ericLemanissier, czoido
 [#19750](https://github.com/conan-io/conan-center-index/pull/19750)|[RubenRBS](https://github.com/RubenRBS)|Sep 11|:memo: libtar|3|ericLemanissier, jwillikers, czoido
@@ -267,8 +267,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 548
 	- Draft: 61
-	- Average Age: 74 days, 11 hours, and 51.59 minutes
-	- Stop Label: 239
+	- Average Age: 74 days, 12 hours, and 6.29 minutes
+	- Stop Label: 240
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
