@@ -1531,8 +1531,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18861",
-      "LastCommitSHA": "3162ad750ebd7ea333167f24027e2fccf3682df7",
-      "LastCommitAt": "2023-09-18T17:54:57Z",
+      "LastCommitSHA": "37b3a81555075dca8b41c3e6a18e1eb3cb8e1147",
+      "LastCommitAt": "2023-09-19T05:08:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5167,43 +5167,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-09-18T12:53:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19884#pullrequestreview-1630978173"
-         }
-      }
-   },
-   {
-      "Number": 19892,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-16T14:39:53Z",
-      "Recipe": "elfio",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19892",
-      "LastCommitSHA": "68adba2dcb791e0ecea76abf143eb573e36faf4f",
-      "LastCommitAt": "2023-09-17T23:54:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "Hopobcn",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-09-18T12:36:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19892#pullrequestreview-1630946193"
          }
       }
    },
