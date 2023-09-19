@@ -205,12 +205,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|||
 [#19952](https://github.com/conan-io/conan-center-index/pull/19952)|[toge](https://github.com/toge)|Sep 19|:new: libnpy|M|3|Sep 19|czoido|samuel-emrys
 [#19957](https://github.com/conan-io/conan-center-index/pull/19957)|[valgur](https://github.com/valgur)|Sep 19|:stopwatch: astro-informatics-so3|:green_circle: XS|0|||
-[#19965](https://github.com/conan-io/conan-center-index/pull/19965)|[gegles](https://github.com/gegles)|Sep 19|:stopwatch: openssl|:blue_square: S|0|||
+[#19965](https://github.com/conan-io/conan-center-index/pull/19965)|[gegles](https://github.com/gegles)|Sep 19|:memo: openssl|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **42** pull requests are waiting to be merged :tada:
+Currently **40** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -222,8 +222,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|**RubenRBS**, jwillikers
 [#19718](https://github.com/conan-io/conan-center-index/pull/19718)|[robomics](https://github.com/robomics)|Sep 10|:memo: libarchive|3|jwillikers, **czoido**
 [#19762](https://github.com/conan-io/conan-center-index/pull/19762)|[ashley-b](https://github.com/ashley-b)|Sep 12|:warning: qwt|3|**RubenRBS**, ericLemanissier, [ilya-lavrenov](https://github.com/ilya-lavrenov)
-[#19782](https://github.com/conan-io/conan-center-index/pull/19782)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libdwarf|4|ericLemanissier, [Hopobcn](https://github.com/Hopobcn), jwillikers, **czoido**
-[#19783](https://github.com/conan-io/conan-center-index/pull/19783)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: c-blosc|2|ericLemanissier, **czoido**
 [#19784](https://github.com/conan-io/conan-center-index/pull/19784)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: libunwind|4|ericLemanissier, [Hopobcn](https://github.com/Hopobcn), jwillikers, **czoido**
 [#19785](https://github.com/conan-io/conan-center-index/pull/19785)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: coin-utils|2|**czoido**, ericLemanissier
 [#19786](https://github.com/conan-io/conan-center-index/pull/19786)|[RubenRBS](https://github.com/RubenRBS)|Sep 13|:memo: readosm|2|ericLemanissier, **czoido**
@@ -265,9 +263,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74cb2ea5fc41d648424c3762c04bd5b81628d1be
 - Pull Requests:
-	- Open: 543
+	- Open: 541
 	- Draft: 61
-	- Average Age: 75 days, 5 hours, and 24.48 minutes
+	- Average Age: 75 days, 12 hours, and 30.10 minutes
 	- Stop Label: 234
 	
 
