@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **217** pull requests currently under way :detective:
+There are **218** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -138,7 +138,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19411](https://github.com/conan-io/conan-center-index/pull/19411)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 25|:memo: kdbindings|:green_circle: XS|0|:eyes:||
 [#19417](https://github.com/conan-io/conan-center-index/pull/19417)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 25|:stopwatch: glib|L|0|||
 [#19426](https://github.com/conan-io/conan-center-index/pull/19426)|[toge](https://github.com/toge)|Aug 26|:new: libaesgm|M|1|Sep 7||
-[#19470](https://github.com/conan-io/conan-center-index/pull/19470)|[tankeco](https://github.com/tankeco)|Aug 28|:stopwatch: mimalloc|:blue_square: S|0|||
+[#19470](https://github.com/conan-io/conan-center-index/pull/19470)|[tankeco](https://github.com/tankeco)|Aug 28|:memo: mimalloc|:blue_square: S|0|||
 [#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:memo: zlib-ng|:blue_square: S|0|:eyes:||
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:memo: poco|:green_circle: XS|0|:eyes:||
 [#19488](https://github.com/conan-io/conan-center-index/pull/19488)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: libvault|L|0|||
@@ -209,6 +209,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19798](https://github.com/conan-io/conan-center-index/pull/19798)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: cnpy|:green_circle: XS|1|Sep 16||ericLemanissier
 [#19801](https://github.com/conan-io/conan-center-index/pull/19801)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: libpng|:green_circle: XS|3|Sep 18||ericLemanissier, [Hopobcn](https://github.com/Hopobcn), jwillikers
 [#19802](https://github.com/conan-io/conan-center-index/pull/19802)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: tinyexr|:green_circle: XS|1|Sep 16||ericLemanissier
+[#19803](https://github.com/conan-io/conan-center-index/pull/19803)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: arrow|:green_circle: XS|0|||
 [#19804](https://github.com/conan-io/conan-center-index/pull/19804)|[RubenRBS](https://github.com/RubenRBS)|Sep 14|:memo: xapian-core|:green_circle: XS|1|Sep 15||ericLemanissier
 [#19808](https://github.com/conan-io/conan-center-index/pull/19808)|[joakimono](https://github.com/joakimono)|Sep 14|:memo: openblas|M|0|||
 [#19820](https://github.com/conan-io/conan-center-index/pull/19820)|[Nerixyz](https://github.com/Nerixyz)|Sep 14|:stopwatch: libavif|M|1|Sep 18||jwillikers
@@ -248,7 +249,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **23** pull requests are waiting to be merged :tada:
+Currently **21** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -258,8 +259,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|RubenRBS, jwillikers
 [#19762](https://github.com/conan-io/conan-center-index/pull/19762)|[ashley-b](https://github.com/ashley-b)|Sep 12|:warning: qwt|3|RubenRBS, ericLemanissier, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|RubenRBS, jwillikers
-[#19890](https://github.com/conan-io/conan-center-index/pull/19890)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: mathfu|3|RubenRBS, ericLemanissier, czoido
-[#19891](https://github.com/conan-io/conan-center-index/pull/19891)|[bobrofon](https://github.com/bobrofon)|Sep 16|:memo: libsystemd|3|RubenRBS, ericLemanissier, czoido
 [#19892](https://github.com/conan-io/conan-center-index/pull/19892)|[toge](https://github.com/toge)|Sep 16|:memo: elfio|4|RubenRBS, [Hopobcn](https://github.com/Hopobcn), czoido
 [#19896](https://github.com/conan-io/conan-center-index/pull/19896)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: oboe|3|RubenRBS, ericLemanissier, czoido
 [#19900](https://github.com/conan-io/conan-center-index/pull/19900)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:memo: platform.equality|3|RubenRBS, ericLemanissier, czoido
@@ -284,10 +283,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: d9adf0a727690982388d1b041e7304fb7c6b3f5c
 - Pull Requests:
-	- Open: 567
+	- Open: 565
 	- Draft: 60
-	- Average Age: 71 days, 16 hours, and 49.89 minutes
-	- Stop Label: 240
+	- Average Age: 71 days, 23 hours, and 44.50 minutes
+	- Stop Label: 239
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
