@@ -3055,7 +3055,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19533",
       "LastCommitSHA": "0a0a45460d212068cc74896dfc8dab7a9dd72c92",
       "LastCommitAt": "2023-09-20T21:05:04Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -4465,6 +4465,25 @@
       }
    },
    {
+      "Number": 19973,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-20T00:49:39Z",
+      "Recipe": "proj",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19973",
+      "LastCommitSHA": "e81de3d866b3da039b5178d9d98088745a2864a2",
+      "LastCommitAt": "2023-09-20T14:29:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19978,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-20T09:38:11Z",
@@ -4674,25 +4693,6 @@
       }
    },
    {
-      "Number": 20004,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-20T20:17:10Z",
-      "Recipe": "libpsl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20004",
-      "LastCommitSHA": "6d60d7d87e0ddb24bbf978ea5f1ef2eeb4132446",
-      "LastCommitAt": "2023-09-20T20:15:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20005,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-20T20:18:41Z",
@@ -4702,25 +4702,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20005",
       "LastCommitSHA": "a343bc04c7922c87c84ff7cc973b1d70e84d9fb7",
       "LastCommitAt": "2023-09-20T20:18:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20006,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T20:19:35Z",
-      "Recipe": "caf",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20006",
-      "LastCommitSHA": "312ba8be4a3cfff89b4ce69584004c1aeec6d3cc",
-      "LastCommitAt": "2023-09-20T20:19:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
