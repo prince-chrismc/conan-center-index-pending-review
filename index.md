@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **234** pull requests currently under way :detective:
+There are **233** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -219,7 +219,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20004](https://github.com/conan-io/conan-center-index/pull/20004)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: libpsl|:green_circle: XS|0|||
 [#20005](https://github.com/conan-io/conan-center-index/pull/20005)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: vsg|:green_circle: XS|0|||
 [#20006](https://github.com/conan-io/conan-center-index/pull/20006)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: caf|:green_circle: XS|0|||
-[#20007](https://github.com/conan-io/conan-center-index/pull/20007)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: nvtx|:green_circle: XS|0|||
 [#20008](https://github.com/conan-io/conan-center-index/pull/20008)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: flint|:green_circle: XS|0|||
 [#20009](https://github.com/conan-io/conan-center-index/pull/20009)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: minitrace|:blue_square: S|0|||
 [#20011](https://github.com/conan-io/conan-center-index/pull/20011)|[mayeut](https://github.com/mayeut)|Sep 20|:stopwatch: libtiff|:green_circle: XS|0|||
@@ -290,7 +289,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 584
 	- Draft: 60
-	- Average Age: 70 days, 14 hours, and 36.72 minutes
+	- Average Age: 70 days, 16 hours, and 2.76 minutes
 	- Stop Label: 239
 	
 
