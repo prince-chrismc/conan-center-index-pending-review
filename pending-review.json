@@ -3598,15 +3598,20 @@
       "LastCommitAt": "2023-09-20T20:30:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 3,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-09-19T13:25:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19683#pullrequestreview-1633270121"
+            "ReviewerName": "jellespijker",
+            "SubmittedAt": "2023-09-21T06:09:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19683#pullrequestreview-1636972310"
          }
       }
    },
@@ -4750,44 +4755,6 @@
       }
    },
    {
-      "Number": 20012,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T22:13:06Z",
-      "Recipe": "platform.exceptions",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20012",
-      "LastCommitSHA": "23d1b25d5daa2b50e81f7782e164c8811ec28853",
-      "LastCommitAt": "2023-09-20T22:12:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20013,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T22:15:13Z",
-      "Recipe": "platform.converters",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20013",
-      "LastCommitSHA": "625e794f9fd9a956ffd00998bc55cbd60a8f1e9f",
-      "LastCommitAt": "2023-09-20T22:14:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20014,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-20T22:16:56Z",
@@ -4845,44 +4812,6 @@
       }
    },
    {
-      "Number": 20018,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T22:42:03Z",
-      "Recipe": "stc",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20018",
-      "LastCommitSHA": "52410d3ed3f2e25cca8eb394fc3489bd8c568958",
-      "LastCommitAt": "2023-09-20T22:41:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20019,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T22:44:53Z",
-      "Recipe": "librdkafka",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20019",
-      "LastCommitSHA": "863f51f00b56674e303c93de48615e5bfaef0293",
-      "LastCommitAt": "2023-09-20T22:44:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20020,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-20T22:45:43Z",
@@ -4930,25 +4859,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20023",
       "LastCommitSHA": "2c87c5ff9bef41c63bd4389924d5e29a477634c4",
       "LastCommitAt": "2023-09-20T22:48:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20024,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T22:49:29Z",
-      "Recipe": "redboltz-mqtt_cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20024",
-      "LastCommitSHA": "cd7356190012bb6c45ddd5728fba742e1ec5d64b",
-      "LastCommitAt": "2023-09-20T22:49:11Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5092,25 +5002,6 @@
       }
    },
    {
-      "Number": 20033,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T22:58:51Z",
-      "Recipe": "easyloggingpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20033",
-      "LastCommitSHA": "3622d5f577f65b92b0047528c727311a65b5ebab",
-      "LastCommitAt": "2023-09-20T22:58:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20034,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-20T22:59:36Z",
@@ -5206,25 +5097,6 @@
       }
    },
    {
-      "Number": 20039,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T23:20:10Z",
-      "Recipe": "zpp_throwing",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20039",
-      "LastCommitSHA": "09795f9daa55636fb9e648e230ba3505afa85909",
-      "LastCommitAt": "2023-09-20T23:19:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20040,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-20T23:20:53Z",
@@ -5291,7 +5163,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20043",
       "LastCommitSHA": "282328b444b509dce8cd0b001ba0d25b11f97d3d",
       "LastCommitAt": "2023-09-20T23:23:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
