@@ -2576,12 +2576,16 @@
       "LastCommitAt": "2023-09-17T21:58:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 9,
-         "ValidApprovals": 1,
+         "Count": 10,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
+               "Tier": "team"
+            },
+            {
+               "Name": "franramirez688",
                "Tier": "team"
             }
          ],
@@ -2589,9 +2593,9 @@
             "jcar87"
          ],
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-17T21:58:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19281#pullrequestreview-1630131713"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-09-21T15:37:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19281#pullrequestreview-1638176286"
          }
       }
    },
