@@ -4683,26 +4683,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20003",
       "LastCommitSHA": "c452c810a715da2b39f909b52a2e1e6a6380bddd",
       "LastCommitAt": "2023-09-20T19:49:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20005,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T20:18:41Z",
-      "Recipe": "vsg",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20005",
-      "LastCommitSHA": "a343bc04c7922c87c84ff7cc973b1d70e84d9fb7",
-      "LastCommitAt": "2023-09-20T20:18:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
