@@ -5303,5 +5303,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20078,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-22T02:09:49Z",
+      "Recipe": "libcoro",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20078",
+      "LastCommitSHA": "82de005e15c6b6e1443950f0968901aac6926dca",
+      "LastCommitAt": "2023-09-22T02:09:01Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
