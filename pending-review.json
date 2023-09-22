@@ -4140,8 +4140,8 @@
       "LastCommitAt": "2023-09-18T09:36:52Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 7,
-         "ValidApprovals": 2,
+         "Count": 8,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             {
@@ -4151,13 +4151,17 @@
             {
                "Name": "ericLemanissier",
                "Tier": "community"
+            },
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-09-22T07:09:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19906#pullrequestreview-1639281854"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-09-22T07:43:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19906#pullrequestreview-1639343348"
          }
       }
    },
