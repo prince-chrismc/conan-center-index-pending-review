@@ -4451,19 +4451,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19953",
-      "LastCommitSHA": "55fbff52df475364505d83ee4a029aace7b9274a",
-      "LastCommitAt": "2023-09-20T12:20:55Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7e00b6d71a9fa97f513ff7deeffece8a49712b7b",
+      "LastCommitAt": "2023-09-22T04:03:11Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
