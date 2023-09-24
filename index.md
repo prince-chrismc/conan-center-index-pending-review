@@ -248,7 +248,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20089](https://github.com/conan-io/conan-center-index/pull/20089)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: protobuf|:green_circle: XS|0|||
 [#20090](https://github.com/conan-io/conan-center-index/pull/20090)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: onnx|:blue_square: S|1|Sep 23||[Hopobcn](https://github.com/Hopobcn)
 [#20091](https://github.com/conan-io/conan-center-index/pull/20091)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: grpc-proto|:blue_square: S|0|||
-[#20093](https://github.com/conan-io/conan-center-index/pull/20093)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:stopwatch: qt|M|1|Sep 24||
+[#20093](https://github.com/conan-io/conan-center-index/pull/20093)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:stopwatch: qt|L|1|Sep 24||
 [#20094](https://github.com/conan-io/conan-center-index/pull/20094)|[toge](https://github.com/toge)|Sep 24|:stopwatch: libenvpp|M|0|||
 [#20096](https://github.com/conan-io/conan-center-index/pull/20096)|[toge](https://github.com/toge)|Sep 24|:stopwatch: choc|M|0|||
 [#20097](https://github.com/conan-io/conan-center-index/pull/20097)|[mpusz](https://github.com/mpusz)|Sep 24|:stopwatch: mp-units|L|0|||
@@ -285,7 +285,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 610
 	- Draft: 67
-	- Average Age: 70 days, 23 hours, and 55.22 minutes
+	- Average Age: 71 days, and 57.83 minutes
 	- Stop Label: 232
 	
 
