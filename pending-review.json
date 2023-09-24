@@ -5477,10 +5477,10 @@
       "CreatedAt": "2023-09-24T12:26:17Z",
       "Recipe": "qt",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20093",
-      "LastCommitSHA": "86c4c8e08b5422788bb922290612beaf609de395",
-      "LastCommitAt": "2023-09-24T17:24:06Z",
+      "LastCommitSHA": "f9c91fa481d4ad295d46e94c2fe3d12cecaf12be",
+      "LastCommitAt": "2023-09-24T20:05:19Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
