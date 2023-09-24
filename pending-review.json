@@ -5324,11 +5324,21 @@
       "LastCommitAt": "2023-09-21T21:53:12Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "Hopobcn",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "Hopobcn",
+            "SubmittedAt": "2023-09-23T23:17:28Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20076#pullrequestreview-1640955705"
+         }
       }
    },
    {
