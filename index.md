@@ -236,7 +236,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20072](https://github.com/conan-io/conan-center-index/pull/20072)|[toge](https://github.com/toge)|Sep 21|:stopwatch: libarchive|M|1|Sep 21||jwillikers
 [#20073](https://github.com/conan-io/conan-center-index/pull/20073)|[bemehiser](https://github.com/bemehiser)|Sep 21|:stopwatch: grpc|:green_circle: XS|0|:eyes:||
 [#20074](https://github.com/conan-io/conan-center-index/pull/20074)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:stopwatch: nanodbc|M|1|Sep 22||**RubenRBS**
-[#20076](https://github.com/conan-io/conan-center-index/pull/20076)|[mayeut](https://github.com/mayeut)|Sep 21|:stopwatch: onnxruntime|L|2|Sep 23||[Hopobcn](https://github.com/Hopobcn)
+[#20076](https://github.com/conan-io/conan-center-index/pull/20076)|[mayeut](https://github.com/mayeut)|Sep 21|:stopwatch: onnxruntime|L|3|Sep 25||[Hopobcn](https://github.com/Hopobcn)
 [#20078](https://github.com/conan-io/conan-center-index/pull/20078)|[toge](https://github.com/toge)|Sep 22|:stopwatch: libcoro|M|0|:eyes:||
 [#20080](https://github.com/conan-io/conan-center-index/pull/20080)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 22|:stopwatch: glibmm|:green_circle: XS|0|:eyes:||
 [#20086](https://github.com/conan-io/conan-center-index/pull/20086)|[toge](https://github.com/toge)|Sep 23|:stopwatch: rapidcsv|:green_circle: XS|0|||
@@ -325,7 +325,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 646
 	- Draft: 64
-	- Average Age: 67 days, 22 hours, and 18.99 minutes
+	- Average Age: 67 days, 23 hours, and 19.15 minutes
 	- Stop Label: 231
 	
 
