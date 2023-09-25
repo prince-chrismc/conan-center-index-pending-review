@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **227** pull requests currently under way :detective:
+There are **228** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -146,7 +146,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19372](https://github.com/conan-io/conan-center-index/pull/19372)|[ngrodzitski](https://github.com/ngrodzitski)|Aug 23|:memo: so5extra|L|0|:eyes:||
 [#19411](https://github.com/conan-io/conan-center-index/pull/19411)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 25|:memo: kdbindings|:green_circle: XS|0|:eyes:||
 [#19417](https://github.com/conan-io/conan-center-index/pull/19417)|[ericLemanissier](https://github.com/ericLemanissier)|Aug 25|:stopwatch: glib|L|0|:eyes:||
-[#19470](https://github.com/conan-io/conan-center-index/pull/19470)|[tankeco](https://github.com/tankeco)|Aug 28|:memo: mimalloc|:blue_square: S|0|:eyes:||
+[#19470](https://github.com/conan-io/conan-center-index/pull/19470)|[tankeco](https://github.com/tankeco)|Aug 28|:memo: mimalloc|:blue_square: S|1|Sep 25||**RubenRBS**
 [#19476](https://github.com/conan-io/conan-center-index/pull/19476)|[Nekto89](https://github.com/Nekto89)|Aug 29|:memo: zlib-ng|:blue_square: S|0|:eyes:||
 [#19480](https://github.com/conan-io/conan-center-index/pull/19480)|[steinerthomas](https://github.com/steinerthomas)|Aug 29|:memo: poco|:green_circle: XS|0|:eyes:||
 [#19488](https://github.com/conan-io/conan-center-index/pull/19488)|[SpaceIm](https://github.com/SpaceIm)|Aug 29|:memo: libvault|L|0|:eyes:||
@@ -235,7 +235,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20062](https://github.com/conan-io/conan-center-index/pull/20062)|[czoido](https://github.com/czoido)|Sep 21|:stopwatch: ffmpeg|:green_circle: XS|0|:eyes:||
 [#20063](https://github.com/conan-io/conan-center-index/pull/20063)|[RubenRBS](https://github.com/RubenRBS)|Sep 21|:stopwatch: libharu|:green_circle: XS|0|:eyes:||
 [#20065](https://github.com/conan-io/conan-center-index/pull/20065)|[RubenRBS](https://github.com/RubenRBS)|Sep 21|:stopwatch: exiv2|:green_circle: XS|0|:eyes:||
-[#20066](https://github.com/conan-io/conan-center-index/pull/20066)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:stopwatch: ensmallen|M|0|||
+[#20066](https://github.com/conan-io/conan-center-index/pull/20066)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:stopwatch: ensmallen|M|0|:eyes:||
 [#20070](https://github.com/conan-io/conan-center-index/pull/20070)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:stopwatch: atk|:blue_square: S|0|||
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:stopwatch: gstreamer|:blue_square: S|0|||
 [#20072](https://github.com/conan-io/conan-center-index/pull/20072)|[toge](https://github.com/toge)|Sep 21|:stopwatch: libarchive|M|1|Sep 21||jwillikers
@@ -254,6 +254,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20096](https://github.com/conan-io/conan-center-index/pull/20096)|[toge](https://github.com/toge)|Sep 24|:stopwatch: choc|M|1|Sep 25||**RubenRBS**
 [#20100](https://github.com/conan-io/conan-center-index/pull/20100)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 25|:stopwatch: linter|:blue_square: S|0|||
 [#20101](https://github.com/conan-io/conan-center-index/pull/20101)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 25|:stopwatch: at-spi2-core|M|0|||
+[#20104](https://github.com/conan-io/conan-center-index/pull/20104)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: gcc|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -285,9 +286,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74cb2ea5fc41d648424c3762c04bd5b81628d1be
 - Pull Requests:
-	- Open: 612
+	- Open: 613
 	- Draft: 67
-	- Average Age: 71 days, 9 hours, and 22.22 minutes
+	- Average Age: 71 days, 7 hours, and 31.96 minutes
 	- Stop Label: 231
 	
 
