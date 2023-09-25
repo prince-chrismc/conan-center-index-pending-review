@@ -2777,11 +2777,21 @@
       "LastCommitAt": "2023-09-18T16:17:24Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-09-25T10:27:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19470#pullrequestreview-1641826906"
+         }
       }
    },
    {
@@ -5616,6 +5626,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20101",
       "LastCommitSHA": "9db37a344e5dd946a2d3c090da6fbb25b23e4b2a",
       "LastCommitAt": "2023-09-25T09:40:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20104,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2023-09-25T10:59:36Z",
+      "Recipe": "gcc",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20104",
+      "LastCommitSHA": "e9c6233563720cea39eb0506eb58b78859932b5d",
+      "LastCommitAt": "2023-09-25T10:57:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
