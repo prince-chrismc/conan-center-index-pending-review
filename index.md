@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **226** pull requests currently under way :detective:
+There are **224** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -131,7 +131,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19218](https://github.com/conan-io/conan-center-index/pull/19218)|[hedtke](https://github.com/hedtke)|Aug 16|:new: yoga|M|1|Aug 17 :bell:||
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:stopwatch: rmm|:blue_square: S|2|Aug 18 :bell:||
 [#19230](https://github.com/conan-io/conan-center-index/pull/19230)|[SpaceIm](https://github.com/SpaceIm)|Aug 16|:memo: openjpeg|M|2|Sep 18||samuel-emrys, jwillikers
-[#19231](https://github.com/conan-io/conan-center-index/pull/19231)|[valgur](https://github.com/valgur)|Aug 16|:memo: libselinux|M|4|Sep 18||
+[#19231](https://github.com/conan-io/conan-center-index/pull/19231)|[valgur](https://github.com/valgur)|Aug 16|:memo: libselinux|M|5|Sep 25||**danimtb**
 [#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|:eyes:||
 [#19238](https://github.com/conan-io/conan-center-index/pull/19238)|[valgur](https://github.com/valgur)|Aug 17|:memo: ftjam|L|0|:eyes:||
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
@@ -177,7 +177,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19665](https://github.com/conan-io/conan-center-index/pull/19665)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: netcdf|:green_circle: XS|0|:eyes:||
 [#19678](https://github.com/conan-io/conan-center-index/pull/19678)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 8|:memo: onetbb|:green_circle: XS|0|:eyes:||
 [#19679](https://github.com/conan-io/conan-center-index/pull/19679)|[sykhro](https://github.com/sykhro)|Sep 8|:memo: sdl|:blue_square: S|1|Sep 25||**danimtb**
-[#19681](https://github.com/conan-io/conan-center-index/pull/19681)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 8|:new: openvino|L|10|Sep 21||**RubenRBS**
+[#19681](https://github.com/conan-io/conan-center-index/pull/19681)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 8|:new: openvino|L|11|Sep 25||**RubenRBS**
 [#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:stopwatch: oatpp-sqlite|:blue_square: S|0|:eyes:||
 [#19709](https://github.com/conan-io/conan-center-index/pull/19709)|[toge](https://github.com/toge)|Sep 10|:memo: wasmtime-cpp|:green_circle: XS|1|Sep 11 :bell:||
 [#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:memo: opentelemetry-proto|:green_circle: XS|1|Sep 21||[mollers](https://github.com/mollers)
@@ -250,9 +250,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20101](https://github.com/conan-io/conan-center-index/pull/20101)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 25|:stopwatch: at-spi2-core|M|0|||
 [#20104](https://github.com/conan-io/conan-center-index/pull/20104)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: gcc|:green_circle: XS|0|||
 [#20105](https://github.com/conan-io/conan-center-index/pull/20105)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: mold|:blue_square: S|0|||
-[#20106](https://github.com/conan-io/conan-center-index/pull/20106)|[uilianries](https://github.com/uilianries)|Sep 25|:green_book: docs|:green_circle: XS|0|||
-[#20107](https://github.com/conan-io/conan-center-index/pull/20107)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: openssl|:green_circle: XS|0|||
-[#20108](https://github.com/conan-io/conan-center-index/pull/20108)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: exiv2|:green_circle: XS|0|||
+[#20106](https://github.com/conan-io/conan-center-index/pull/20106)|[uilianries](https://github.com/uilianries)|Sep 25|:green_book: docs|:green_circle: XS|1|Sep 25||**danimtb**
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -284,9 +282,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 74cb2ea5fc41d648424c3762c04bd5b81628d1be
 - Pull Requests:
-	- Open: 607
+	- Open: 605
 	- Draft: 64
-	- Average Age: 71 days, 23 hours, and 43.99 minutes
+	- Average Age: 72 days, 6 hours, and 27.46 minutes
 	- Stop Label: 230
 	
 
