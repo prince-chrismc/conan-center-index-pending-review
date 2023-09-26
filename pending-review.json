@@ -5873,8 +5873,8 @@
       "LastCommitAt": "2023-09-25T15:21:44Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
@@ -5884,13 +5884,17 @@
             {
                "Name": "grafikrobot",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "StellaSmith",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "grafikrobot",
-            "SubmittedAt": "2023-09-25T17:34:18Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20118#pullrequestreview-1642688151"
+            "ReviewerName": "StellaSmith",
+            "SubmittedAt": "2023-09-26T03:39:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20118#pullrequestreview-1643286593"
          }
       }
    },
