@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **264** pull requests currently under way :detective:
+There are **263** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -287,7 +287,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20146](https://github.com/conan-io/conan-center-index/pull/20146)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: gdcm|:green_circle: XS|1|Sep 25||**uilianries**
 [#20147](https://github.com/conan-io/conan-center-index/pull/20147)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: rsync|:green_circle: XS|1|Sep 25||**uilianries**
 [#20148](https://github.com/conan-io/conan-center-index/pull/20148)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mbedtls|:green_circle: XS|1|Sep 25||**uilianries**
-[#20149](https://github.com/conan-io/conan-center-index/pull/20149)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: openimageio|:green_circle: XS|1|Sep 25||**uilianries**
 [#20150](https://github.com/conan-io/conan-center-index/pull/20150)|[toge](https://github.com/toge)|Sep 25|:stopwatch: drogon|:blue_square: S|1|Sep 25||**RubenRBS**
 [#20151](https://github.com/conan-io/conan-center-index/pull/20151)|[Slashcash](https://github.com/Slashcash)|Sep 25|:stopwatch: rocket|M|0|||
 [#20152](https://github.com/conan-io/conan-center-index/pull/20152)|[SpaceIm](https://github.com/SpaceIm)|Sep 25|:stopwatch: ffmpeg|:blue_square: S|0|||
@@ -325,8 +324,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 646
 	- Draft: 64
-	- Average Age: 67 days, 23 hours, and 19.15 minutes
-	- Stop Label: 231
+	- Average Age: 68 days, 4 hours, and 20.61 minutes
+	- Stop Label: 232
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
