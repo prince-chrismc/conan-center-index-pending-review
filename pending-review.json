@@ -5095,25 +5095,6 @@
       }
    },
    {
-      "Number": 20062,
-      "OpenedBy": "czoido",
-      "CreatedAt": "2023-09-21T13:12:21Z",
-      "Recipe": "ffmpeg",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20062",
-      "LastCommitSHA": "1e1342797eb0239d1e7ed8dcdd27d57454e3cb1c",
-      "LastCommitAt": "2023-09-26T08:29:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20066,
       "OpenedBy": "samuel-emrys",
       "CreatedAt": "2023-09-21T13:30:44Z",
@@ -6622,20 +6603,24 @@
       "LastCommitAt": "2023-09-26T09:43:03Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-26T14:14:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20157#pullrequestreview-1644392323"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-09-26T14:28:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20157#pullrequestreview-1644435225"
          }
       }
    }
