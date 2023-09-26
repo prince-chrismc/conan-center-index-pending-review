@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **259** pull requests currently under way :detective:
+There are **257** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -229,7 +229,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20053](https://github.com/conan-io/conan-center-index/pull/20053)|[Sneder89](https://github.com/Sneder89)|Sep 21|:stopwatch: cppcheck|:green_circle: XS|0|||
 [#20054](https://github.com/conan-io/conan-center-index/pull/20054)|[mayeut](https://github.com/mayeut)|Sep 21|:memo: date|:green_circle: XS|0|:eyes:||
 [#20060](https://github.com/conan-io/conan-center-index/pull/20060)|[conan-center-bot](https://github.com/conan-center-bot)|Sep 21|:gear: .c3i|:green_circle: XS|0|:eyes:||
-[#20062](https://github.com/conan-io/conan-center-index/pull/20062)|[czoido](https://github.com/czoido)|Sep 21|:stopwatch: ffmpeg|:green_circle: XS|0|||
 [#20066](https://github.com/conan-io/conan-center-index/pull/20066)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:stopwatch: ensmallen|M|0|:eyes:||
 [#20070](https://github.com/conan-io/conan-center-index/pull/20070)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:stopwatch: atk|:blue_square: S|0|||
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:stopwatch: gstreamer|:blue_square: S|0|||
@@ -239,8 +238,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20076](https://github.com/conan-io/conan-center-index/pull/20076)|[mayeut](https://github.com/mayeut)|Sep 21|:stopwatch: onnxruntime|L|3|Sep 25||[Hopobcn](https://github.com/Hopobcn)
 [#20078](https://github.com/conan-io/conan-center-index/pull/20078)|[toge](https://github.com/toge)|Sep 22|:stopwatch: libcoro|M|0|:eyes:||
 [#20080](https://github.com/conan-io/conan-center-index/pull/20080)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 22|:stopwatch: glibmm|:green_circle: XS|0|:eyes:||
-[#20086](https://github.com/conan-io/conan-center-index/pull/20086)|[toge](https://github.com/toge)|Sep 23|:stopwatch: rapidcsv|:green_circle: XS|0|||
-[#20087](https://github.com/conan-io/conan-center-index/pull/20087)|[toge](https://github.com/toge)|Sep 23|:stopwatch: unordered_dense|:green_circle: XS|0|||
+[#20086](https://github.com/conan-io/conan-center-index/pull/20086)|[toge](https://github.com/toge)|Sep 23|:stopwatch: rapidcsv|:green_circle: XS|0|:eyes:||
+[#20087](https://github.com/conan-io/conan-center-index/pull/20087)|[toge](https://github.com/toge)|Sep 23|:stopwatch: unordered_dense|:green_circle: XS|0|:eyes:||
 [#20089](https://github.com/conan-io/conan-center-index/pull/20089)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: protobuf|:green_circle: XS|0|||
 [#20090](https://github.com/conan-io/conan-center-index/pull/20090)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: onnx|:blue_square: S|1|Sep 23||
 [#20091](https://github.com/conan-io/conan-center-index/pull/20091)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: grpc-proto|:blue_square: S|0|||
@@ -285,12 +284,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20151](https://github.com/conan-io/conan-center-index/pull/20151)|[Slashcash](https://github.com/Slashcash)|Sep 25|:stopwatch: rocket|M|0|||
 [#20152](https://github.com/conan-io/conan-center-index/pull/20152)|[SpaceIm](https://github.com/SpaceIm)|Sep 25|:stopwatch: ffmpeg|:blue_square: S|0|||
 [#20155](https://github.com/conan-io/conan-center-index/pull/20155)|[CJaccarino](https://github.com/CJaccarino)|Sep 26|:stopwatch: laslib|M|0|||
-[#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:stopwatch: libcurl|M|1|Sep 26||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **17** pull requests are waiting to be merged :tada:
+Currently **18** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -312,6 +310,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20106](https://github.com/conan-io/conan-center-index/pull/20106)|[uilianries](https://github.com/uilianries)|Sep 25|:green_book: docs|2|**danimtb**, **RubenRBS**
 [#20118](https://github.com/conan-io/conan-center-index/pull/20118)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: boost|4|**uilianries**, [grafikrobot](https://github.com/grafikrobot), StellaSmith, [Hopobcn](https://github.com/Hopobcn)
 [#20147](https://github.com/conan-io/conan-center-index/pull/20147)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: rsync|2|**uilianries**, ericLemanissier
+[#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:warning: libcurl|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -320,9 +319,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 649
+	- Open: 648
 	- Draft: 64
-	- Average Age: 68 days, 7 hours, and 44.66 minutes
+	- Average Age: 68 days, 11 hours, and 7.06 minutes
 	- Stop Label: 236
 	
 
