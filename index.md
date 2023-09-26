@@ -212,8 +212,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20001](https://github.com/conan-io/conan-center-index/pull/20001)|[gagoi](https://github.com/gagoi)|Sep 20|:stopwatch: stb|:green_circle: XS|0|:eyes:||
 [#20003](https://github.com/conan-io/conan-center-index/pull/20003)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: gdbm|:green_circle: XS|0|:eyes:||
 [#20009](https://github.com/conan-io/conan-center-index/pull/20009)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: minitrace|:blue_square: S|0|:eyes:||
-[#20011](https://github.com/conan-io/conan-center-index/pull/20011)|[mayeut](https://github.com/mayeut)|Sep 20|:stopwatch: libtiff|:green_circle: XS|0|:eyes:||
-[#20015](https://github.com/conan-io/conan-center-index/pull/20015)|[mayeut](https://github.com/mayeut)|Sep 20|:stopwatch: ffmpeg|:blue_square: S|0|:eyes:||
+[#20011](https://github.com/conan-io/conan-center-index/pull/20011)|[mayeut](https://github.com/mayeut)|Sep 20|:stopwatch: libtiff|:green_circle: XS|0|||
+[#20015](https://github.com/conan-io/conan-center-index/pull/20015)|[mayeut](https://github.com/mayeut)|Sep 20|:stopwatch: ffmpeg|:blue_square: S|0|||
 [#20020](https://github.com/conan-io/conan-center-index/pull/20020)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: vc|:green_circle: XS|0|:eyes:||
 [#20023](https://github.com/conan-io/conan-center-index/pull/20023)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: ezc3d|:green_circle: XS|0|:eyes:||
 [#20027](https://github.com/conan-io/conan-center-index/pull/20027)|[valgur](https://github.com/valgur)|Sep 20|:memo: xtensor|M|0|:eyes:||
@@ -317,7 +317,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 640
 	- Draft: 64
-	- Average Age: 69 days, 9 hours, and 43.42 minutes
+	- Average Age: 69 days, 10 hours, and 36.61 minutes
 	- Stop Label: 232
 	
 
