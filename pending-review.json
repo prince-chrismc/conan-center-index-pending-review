@@ -4006,7 +4006,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19856",
       "LastCommitSHA": "4b0869bd5558246ec3fcc5928acd32146034cfa2",
       "LastCommitAt": "2023-09-15T13:00:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -5979,6 +5979,39 @@
       }
    },
    {
+      "Number": 20128,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-25T15:22:45Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20128",
+      "LastCommitSHA": "fe1db8286c864d80131bbc35539283e6afb4118e",
+      "LastCommitAt": "2023-09-26T16:06:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-09-26T16:12:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20128#pullrequestreview-1644689032"
+         }
+      }
+   },
+   {
       "Number": 20129,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-25T15:22:57Z",
@@ -6162,7 +6195,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20135",
       "LastCommitSHA": "c57ecdd98d399307d82a1358e990776086a4dafc",
       "LastCommitAt": "2023-09-26T21:54:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
