@@ -2319,6 +2319,25 @@
       }
    },
    {
+      "Number": 19194,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-08-14T18:11:35Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19194",
+      "LastCommitSHA": "507803a047e8545f938cd3a475b85d38b8d8aa8c",
+      "LastCommitAt": "2023-09-27T07:41:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19218,
       "OpenedBy": "hedtke",
       "CreatedAt": "2023-08-16T07:51:23Z",
@@ -5912,39 +5931,6 @@
       }
    },
    {
-      "Number": 20124,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-25T15:22:22Z",
-      "Recipe": "libharu",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20124",
-      "LastCommitSHA": "4b3882848910a368fdd22f7a34eebd3f0eb2716a",
-      "LastCommitAt": "2023-09-25T15:22:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-09-27T05:01:30Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20124#pullrequestreview-1645601128"
-         }
-      }
-   },
-   {
       "Number": 20125,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-25T15:22:28Z",
@@ -6181,35 +6167,6 @@
       }
    },
    {
-      "Number": 20135,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-25T15:23:34Z",
-      "Recipe": "libxlsxwriter",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20135",
-      "LastCommitSHA": "c57ecdd98d399307d82a1358e990776086a4dafc",
-      "LastCommitAt": "2023-09-26T21:54:26Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-09-27T05:00:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20135#pullrequestreview-1645600037"
-         }
-      }
-   },
-   {
       "Number": 20137,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-25T15:23:47Z",
@@ -6351,39 +6308,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2023-09-25T16:45:41Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20145#pullrequestreview-1642613445"
-         }
-      }
-   },
-   {
-      "Number": 20146,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-25T15:24:42Z",
-      "Recipe": "gdcm",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20146",
-      "LastCommitSHA": "dbd91b6869acebd68c340c5b02b9fbbbadda4c72",
-      "LastCommitAt": "2023-09-25T15:24:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-09-27T05:00:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20146#pullrequestreview-1645600537"
          }
       }
    },
