@@ -1740,8 +1740,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18872",
-      "LastCommitSHA": "7c3fad787ec2faa8142f88be85851b6ec7d0af0e",
-      "LastCommitAt": "2023-09-27T18:46:31Z",
+      "LastCommitSHA": "52bd835046a87fe69325330dd1a5c0d2d84757b2",
+      "LastCommitAt": "2023-09-27T17:30:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5671,7 +5671,7 @@
       "LastCommitAt": "2023-09-25T15:20:57Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
@@ -5686,9 +5686,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-09-27T18:51:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20110#pullrequestreview-1647359812"
+            "ReviewerName": "Croydon",
+            "SubmittedAt": "2023-09-27T19:23:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20110#pullrequestreview-1647406152"
          }
       }
    },
@@ -6226,6 +6226,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20172",
       "LastCommitSHA": "452da5ae975296a39848382b715ed3adfc0eb827",
       "LastCommitAt": "2023-09-27T18:37:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20173,
+      "OpenedBy": "Wawha",
+      "CreatedAt": "2023-09-27T19:14:01Z",
+      "Recipe": "tensorflow-lite",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20173",
+      "LastCommitSHA": "3170b8691f6d1abd60ed8bd7f5c297f7eedb037e",
+      "LastCommitAt": "2023-09-27T19:09:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20174,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-09-27T19:16:36Z",
+      "Recipe": "cassandra-cpp-driver",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20174",
+      "LastCommitSHA": "c5601cead9c2703c0e9b2a9341a67484027a62f2",
+      "LastCommitAt": "2023-09-27T19:15:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
