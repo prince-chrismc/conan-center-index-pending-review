@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **247** pull requests currently under way :detective:
+There are **246** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -267,7 +267,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20132](https://github.com/conan-io/conan-center-index/pull/20132)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mold|:green_circle: XS|1|Sep 25||**uilianries**
 [#20133](https://github.com/conan-io/conan-center-index/pull/20133)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: sentry-crashpad|:green_circle: XS|1|Sep 25||**uilianries**
 [#20134](https://github.com/conan-io/conan-center-index/pull/20134)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: doxygen|:green_circle: XS|1|Sep 25||**uilianries**
-[#20140](https://github.com/conan-io/conan-center-index/pull/20140)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: matio|:green_circle: XS|1|Sep 25||**uilianries**
 [#20141](https://github.com/conan-io/conan-center-index/pull/20141)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: prometheus-cpp|:green_circle: XS|1|Sep 25||**uilianries**
 [#20150](https://github.com/conan-io/conan-center-index/pull/20150)|[toge](https://github.com/toge)|Sep 25|:stopwatch: drogon|:blue_square: S|1|Sep 25||**RubenRBS**
 [#20151](https://github.com/conan-io/conan-center-index/pull/20151)|[Slashcash](https://github.com/Slashcash)|Sep 25|:stopwatch: rocket|M|0|||
@@ -305,9 +304,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 626
+	- Open: 625
 	- Draft: 63
-	- Average Age: 71 days, 15 hours, and 51.70 minutes
+	- Average Age: 71 days, 19 hours, and 25.09 minutes
 	- Stop Label: 231
 	
 
