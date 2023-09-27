@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **252** pull requests currently under way :detective:
+There are **253** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -196,6 +196,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19909](https://github.com/conan-io/conan-center-index/pull/19909)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 17|:memo: armadillo|:green_circle: XS|2|Sep 19||SpaceIm
 [#19911](https://github.com/conan-io/conan-center-index/pull/19911)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: libavrocpp|:green_circle: XS|0|:eyes:||
 [#19929](https://github.com/conan-io/conan-center-index/pull/19929)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: btyacc|L|0|:eyes:||
+[#19935](https://github.com/conan-io/conan-center-index/pull/19935)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 18|:stopwatch: glib|:blue_square: S|0|:eyes:||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
 [#19946](https://github.com/conan-io/conan-center-index/pull/19946)|[toge](https://github.com/toge)|Sep 18|:new: coost|M|2|Sep 20||**RubenRBS**
 [#19952](https://github.com/conan-io/conan-center-index/pull/19952)|[toge](https://github.com/toge)|Sep 19|:new: libnpy|M|3|Sep 19|czoido|samuel-emrys
@@ -318,8 +319,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 638
 	- Draft: 64
-	- Average Age: 70 days, 1 hours, and 45.36 minutes
-	- Stop Label: 231
+	- Average Age: 70 days, 2 hours, and 51.08 minutes
+	- Stop Label: 230
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
