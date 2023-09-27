@@ -270,7 +270,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20134](https://github.com/conan-io/conan-center-index/pull/20134)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: doxygen|:green_circle: XS|1|Sep 25||**uilianries**
 [#20135](https://github.com/conan-io/conan-center-index/pull/20135)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: libxlsxwriter|:green_circle: XS|1|Sep 25||
 [#20137](https://github.com/conan-io/conan-center-index/pull/20137)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: binutils|:green_circle: XS|1|Sep 25||**uilianries**
-[#20139](https://github.com/conan-io/conan-center-index/pull/20139)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: cassandra-cpp-driver|:green_circle: XS|0|||
+[#20139](https://github.com/conan-io/conan-center-index/pull/20139)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: cassandra-cpp-driver|:green_circle: XS|0|||
 [#20140](https://github.com/conan-io/conan-center-index/pull/20140)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: matio|:green_circle: XS|1|Sep 25||**uilianries**
 [#20141](https://github.com/conan-io/conan-center-index/pull/20141)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: prometheus-cpp|:green_circle: XS|1|Sep 25||**uilianries**
 [#20145](https://github.com/conan-io/conan-center-index/pull/20145)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: libmysqlclient|:green_circle: XS|1|Sep 25||**uilianries**
@@ -318,7 +318,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 640
 	- Draft: 64
-	- Average Age: 69 days, 16 hours, and 12.97 minutes
+	- Average Age: 69 days, 16 hours, and 18.50 minutes
 	- Stop Label: 232
 	
 
