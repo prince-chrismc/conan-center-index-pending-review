@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **253** pull requests currently under way :detective:
+There are **254** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -202,6 +202,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19953](https://github.com/conan-io/conan-center-index/pull/19953)|[Dobiasd](https://github.com/Dobiasd)|Sep 19|:stopwatch: frugally-deep|:blue_square: S|1|Sep 20||
 [#19957](https://github.com/conan-io/conan-center-index/pull/19957)|[valgur](https://github.com/valgur)|Sep 19|:stopwatch: astro-informatics-so3|:blue_square: S|0|:eyes:||
 [#19965](https://github.com/conan-io/conan-center-index/pull/19965)|[gegles](https://github.com/gegles)|Sep 19|:memo: openssl|:blue_square: S|3|Sep 25||ericLemanissier, Croydon, [Hopobcn](https://github.com/Hopobcn)
+[#19967](https://github.com/conan-io/conan-center-index/pull/19967)|[toge](https://github.com/toge)|Sep 19|:stopwatch: glaze|:green_circle: XS|0|||
 [#19971](https://github.com/conan-io/conan-center-index/pull/19971)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: googleapis|M|0|||
 [#19972](https://github.com/conan-io/conan-center-index/pull/19972)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: grpc|M|0|||
 [#19973](https://github.com/conan-io/conan-center-index/pull/19973)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: proj|:blue_square: S|0|||
@@ -259,7 +260,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20117](https://github.com/conan-io/conan-center-index/pull/20117)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: minizip-ng|:green_circle: XS|0|||
 [#20122](https://github.com/conan-io/conan-center-index/pull/20122)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: libwebsockets|:blue_square: S|1|Sep 25||**uilianries**
 [#20123](https://github.com/conan-io/conan-center-index/pull/20123)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: c-blosc2|:green_circle: XS|0|||
-[#20124](https://github.com/conan-io/conan-center-index/pull/20124)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: libharu|:green_circle: XS|1|Sep 25||**uilianries**
+[#20124](https://github.com/conan-io/conan-center-index/pull/20124)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libharu|:green_circle: XS|1|Sep 25||**uilianries**
 [#20126](https://github.com/conan-io/conan-center-index/pull/20126)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: leptonica|:green_circle: XS|1|Sep 25||**uilianries**
 [#20129](https://github.com/conan-io/conan-center-index/pull/20129)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: capnproto|:green_circle: XS|1|Sep 25||**uilianries**
 [#20130](https://github.com/conan-io/conan-center-index/pull/20130)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mariadb-connector-c|:green_circle: XS|1|Sep 25||**uilianries**
@@ -317,7 +318,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 640
 	- Draft: 64
-	- Average Age: 69 days, 13 hours, and 35.13 minutes
+	- Average Age: 69 days, 16 hours, and 12.97 minutes
 	- Stop Label: 232
 	
 
