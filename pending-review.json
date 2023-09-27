@@ -5921,6 +5921,35 @@
       }
    },
    {
+      "Number": 20130,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-25T15:23:02Z",
+      "Recipe": "mariadb-connector-c",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20130",
+      "LastCommitSHA": "7f2bb6805579e01c8d773a4efc3743c99d05975f",
+      "LastCommitAt": "2023-09-27T09:03:20Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-09-27T16:43:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20130#pullrequestreview-1647157426"
+         }
+      }
+   },
+   {
       "Number": 20131,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-25T15:23:08Z",
