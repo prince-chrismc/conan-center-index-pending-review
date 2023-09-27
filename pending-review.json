@@ -3468,9 +3468,9 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19620",
-      "LastCommitSHA": "fd2c257a1be252b3e1a7b27caac6b18c374a75d1",
-      "LastCommitAt": "2023-09-14T09:03:45Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "5d8aed597d985a7bd5066cc83701e4374e6994de",
+      "LastCommitAt": "2023-09-27T11:18:15Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 0,
@@ -4528,43 +4528,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 19965,
-      "OpenedBy": "gegles",
-      "CreatedAt": "2023-09-19T18:17:49Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19965",
-      "LastCommitSHA": "dd39bd5c554f0210dbca140fa101f040921e45a8",
-      "LastCommitAt": "2023-09-19T18:14:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "Croydon",
-               "Tier": "community"
-            },
-            {
-               "Name": "Hopobcn",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Hopobcn",
-            "SubmittedAt": "2023-09-25T20:53:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19965#pullrequestreview-1642972759"
-         }
       }
    },
    {
@@ -5877,30 +5840,6 @@
       }
    },
    {
-      "Number": 20130,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-25T15:23:02Z",
-      "Recipe": "mariadb-connector-c",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20130",
-      "LastCommitSHA": "7f2bb6805579e01c8d773a4efc3743c99d05975f",
-      "LastCommitAt": "2023-09-27T09:03:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-09-25T16:37:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20130#pullrequestreview-1642595083"
-         }
-      }
-   },
-   {
       "Number": 20131,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-25T15:23:08Z",
@@ -6013,93 +5952,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2023-09-25T16:42:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20134#pullrequestreview-1642605318"
-         }
-      }
-   },
-   {
-      "Number": 20136,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-25T15:23:41Z",
-      "Recipe": "libzip",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20136",
-      "LastCommitSHA": "ba1a43fa8e4a98f82ef2b2900efaa99bc10eee3b",
-      "LastCommitAt": "2023-09-25T15:23:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-09-25T16:43:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20136#pullrequestreview-1642606148"
-         }
-      }
-   },
-   {
-      "Number": 20137,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-25T15:23:47Z",
-      "Recipe": "binutils",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20137",
-      "LastCommitSHA": "01f4c33c768710f6b38099a2c876feff292df58d",
-      "LastCommitAt": "2023-09-25T15:23:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-09-25T16:43:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20137#pullrequestreview-1642608319"
-         }
-      }
-   },
-   {
-      "Number": 20139,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-25T15:23:58Z",
-      "Recipe": "cassandra-cpp-driver",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20139",
-      "LastCommitSHA": "181d4b72dfc4b0f89cf8ad68d25ef41462ec0e97",
-      "LastCommitAt": "2023-09-27T08:55:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-09-27T10:29:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20139#pullrequestreview-1646141897"
          }
       }
    },
