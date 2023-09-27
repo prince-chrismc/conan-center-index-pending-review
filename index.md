@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **252** pull requests currently under way :detective:
+There are **247** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -171,7 +171,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19611](https://github.com/conan-io/conan-center-index/pull/19611)|[xyz1001](https://github.com/xyz1001)|Sep 6|:memo: libheif|M|2|Sep 12 :bell:||**danimtb**
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|:eyes:||
 [#19619](https://github.com/conan-io/conan-center-index/pull/19619)|[toge](https://github.com/toge)|Sep 6|:memo: wasmedge|M|1|Sep 6 :bell:||
-[#19620](https://github.com/conan-io/conan-center-index/pull/19620)|[valgur](https://github.com/valgur)|Sep 6|:memo: mbedtls|M|4|Sep 7 :bell:||
+[#19620](https://github.com/conan-io/conan-center-index/pull/19620)|[valgur](https://github.com/valgur)|Sep 6|:stopwatch: mbedtls|M|4|Sep 7 :bell:||
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|3|Sep 11 :bell:||MartinDelille
 [#19633](https://github.com/conan-io/conan-center-index/pull/19633)|[paulharris](https://github.com/paulharris)|Sep 6|:stopwatch: sentry-crashpad|M|1|Sep 7 :bell:||
 [#19653](https://github.com/conan-io/conan-center-index/pull/19653)|[valgur](https://github.com/valgur)|Sep 7|:memo: libpq|L|1|Sep 25||**danimtb**
@@ -204,7 +204,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19952](https://github.com/conan-io/conan-center-index/pull/19952)|[toge](https://github.com/toge)|Sep 19|:new: libnpy|M|3|Sep 19|czoido|samuel-emrys
 [#19953](https://github.com/conan-io/conan-center-index/pull/19953)|[Dobiasd](https://github.com/Dobiasd)|Sep 19|:stopwatch: frugally-deep|:blue_square: S|1|Sep 20||
 [#19957](https://github.com/conan-io/conan-center-index/pull/19957)|[valgur](https://github.com/valgur)|Sep 19|:stopwatch: astro-informatics-so3|:blue_square: S|0|:eyes:||
-[#19965](https://github.com/conan-io/conan-center-index/pull/19965)|[gegles](https://github.com/gegles)|Sep 19|:memo: openssl|:blue_square: S|3|Sep 25||ericLemanissier, Croydon, [Hopobcn](https://github.com/Hopobcn)
 [#19967](https://github.com/conan-io/conan-center-index/pull/19967)|[toge](https://github.com/toge)|Sep 19|:stopwatch: glaze|:green_circle: XS|0|||
 [#19971](https://github.com/conan-io/conan-center-index/pull/19971)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: googleapis|M|0|||
 [#19972](https://github.com/conan-io/conan-center-index/pull/19972)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: grpc|M|0|||
@@ -264,14 +263,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20123](https://github.com/conan-io/conan-center-index/pull/20123)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: c-blosc2|:green_circle: XS|0|||
 [#20126](https://github.com/conan-io/conan-center-index/pull/20126)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: leptonica|:green_circle: XS|1|Sep 25||**uilianries**
 [#20129](https://github.com/conan-io/conan-center-index/pull/20129)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: capnproto|:green_circle: XS|1|Sep 25||**uilianries**
-[#20130](https://github.com/conan-io/conan-center-index/pull/20130)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mariadb-connector-c|:green_circle: XS|1|Sep 25||
 [#20131](https://github.com/conan-io/conan-center-index/pull/20131)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: h5pp|:green_circle: XS|1|Sep 25||**uilianries**
 [#20132](https://github.com/conan-io/conan-center-index/pull/20132)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mold|:green_circle: XS|1|Sep 25||**uilianries**
 [#20133](https://github.com/conan-io/conan-center-index/pull/20133)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: sentry-crashpad|:green_circle: XS|1|Sep 25||**uilianries**
 [#20134](https://github.com/conan-io/conan-center-index/pull/20134)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: doxygen|:green_circle: XS|1|Sep 25||**uilianries**
-[#20136](https://github.com/conan-io/conan-center-index/pull/20136)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: libzip|:green_circle: XS|1|Sep 25||**uilianries**
-[#20137](https://github.com/conan-io/conan-center-index/pull/20137)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: binutils|:green_circle: XS|1|Sep 25||**uilianries**
-[#20139](https://github.com/conan-io/conan-center-index/pull/20139)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: cassandra-cpp-driver|:green_circle: XS|2|Sep 27||**uilianries**
 [#20140](https://github.com/conan-io/conan-center-index/pull/20140)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: matio|:green_circle: XS|1|Sep 25||**uilianries**
 [#20141](https://github.com/conan-io/conan-center-index/pull/20141)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: prometheus-cpp|:green_circle: XS|1|Sep 25||**uilianries**
 [#20150](https://github.com/conan-io/conan-center-index/pull/20150)|[toge](https://github.com/toge)|Sep 25|:stopwatch: drogon|:blue_square: S|1|Sep 25||**RubenRBS**
@@ -310,10 +305,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 629
+	- Open: 626
 	- Draft: 63
-	- Average Age: 71 days, 6 hours, and 52.56 minutes
-	- Stop Label: 229
+	- Average Age: 71 days, 15 hours, and 51.70 minutes
+	- Stop Label: 231
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
