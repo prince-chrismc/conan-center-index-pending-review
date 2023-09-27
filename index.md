@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **254** pull requests currently under way :detective:
+There are **252** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -260,7 +260,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20117](https://github.com/conan-io/conan-center-index/pull/20117)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: minizip-ng|:green_circle: XS|0|||
 [#20122](https://github.com/conan-io/conan-center-index/pull/20122)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: libwebsockets|:blue_square: S|1|Sep 25||**uilianries**
 [#20123](https://github.com/conan-io/conan-center-index/pull/20123)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: c-blosc2|:green_circle: XS|0|||
-[#20124](https://github.com/conan-io/conan-center-index/pull/20124)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libharu|:green_circle: XS|1|Sep 25||**uilianries**
 [#20126](https://github.com/conan-io/conan-center-index/pull/20126)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: leptonica|:green_circle: XS|1|Sep 25||**uilianries**
 [#20129](https://github.com/conan-io/conan-center-index/pull/20129)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: capnproto|:green_circle: XS|1|Sep 25||**uilianries**
 [#20130](https://github.com/conan-io/conan-center-index/pull/20130)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mariadb-connector-c|:green_circle: XS|1|Sep 25||**uilianries**
@@ -268,13 +267,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20132](https://github.com/conan-io/conan-center-index/pull/20132)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mold|:green_circle: XS|1|Sep 25||**uilianries**
 [#20133](https://github.com/conan-io/conan-center-index/pull/20133)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: sentry-crashpad|:green_circle: XS|1|Sep 25||**uilianries**
 [#20134](https://github.com/conan-io/conan-center-index/pull/20134)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: doxygen|:green_circle: XS|1|Sep 25||**uilianries**
-[#20135](https://github.com/conan-io/conan-center-index/pull/20135)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libxlsxwriter|:green_circle: XS|1|Sep 25||
+[#20135](https://github.com/conan-io/conan-center-index/pull/20135)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libxlsxwriter|:green_circle: XS|2|Sep 27||ericLemanissier
 [#20137](https://github.com/conan-io/conan-center-index/pull/20137)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: binutils|:green_circle: XS|1|Sep 25||**uilianries**
-[#20139](https://github.com/conan-io/conan-center-index/pull/20139)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: cassandra-cpp-driver|:green_circle: XS|0|||
+[#20139](https://github.com/conan-io/conan-center-index/pull/20139)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: cassandra-cpp-driver|:green_circle: XS|1|Sep 27||ericLemanissier
 [#20140](https://github.com/conan-io/conan-center-index/pull/20140)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: matio|:green_circle: XS|1|Sep 25||**uilianries**
 [#20141](https://github.com/conan-io/conan-center-index/pull/20141)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: prometheus-cpp|:green_circle: XS|1|Sep 25||**uilianries**
 [#20145](https://github.com/conan-io/conan-center-index/pull/20145)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: libmysqlclient|:green_circle: XS|1|Sep 25||**uilianries**
-[#20146](https://github.com/conan-io/conan-center-index/pull/20146)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: gdcm|:green_circle: XS|1|Sep 25||**uilianries**
 [#20148](https://github.com/conan-io/conan-center-index/pull/20148)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mbedtls|:green_circle: XS|1|Sep 25||**uilianries**
 [#20150](https://github.com/conan-io/conan-center-index/pull/20150)|[toge](https://github.com/toge)|Sep 25|:stopwatch: drogon|:blue_square: S|1|Sep 25||**RubenRBS**
 [#20151](https://github.com/conan-io/conan-center-index/pull/20151)|[Slashcash](https://github.com/Slashcash)|Sep 25|:stopwatch: rocket|M|0|||
@@ -285,7 +283,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -306,8 +304,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19988](https://github.com/conan-io/conan-center-index/pull/19988)|[toge](https://github.com/toge)|Sep 20|:memo: trantor|2|**uilianries**, ericLemanissier
 [#20106](https://github.com/conan-io/conan-center-index/pull/20106)|[uilianries](https://github.com/uilianries)|Sep 25|:green_book: docs|2|**danimtb**, **RubenRBS**
 [#20118](https://github.com/conan-io/conan-center-index/pull/20118)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: boost|4|**uilianries**, [grafikrobot](https://github.com/grafikrobot), StellaSmith, [Hopobcn](https://github.com/Hopobcn)
+[#20124](https://github.com/conan-io/conan-center-index/pull/20124)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libharu|2|**uilianries**, ericLemanissier
 [#20125](https://github.com/conan-io/conan-center-index/pull/20125)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libbigwig|2|**uilianries**, ericLemanissier
-[#20128](https://github.com/conan-io/conan-center-index/pull/20128)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: opencv|3|**czoido**, **uilianries**
+[#20146](https://github.com/conan-io/conan-center-index/pull/20146)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: gdcm|2|**uilianries**, ericLemanissier
 [#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:warning: libcurl|2|**RubenRBS**, ericLemanissier
 
 
@@ -317,9 +316,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 639
+	- Open: 638
 	- Draft: 64
-	- Average Age: 69 days, 20 hours, and 19.09 minutes
+	- Average Age: 70 days, 1 hours, and 45.36 minutes
 	- Stop Label: 231
 	
 
