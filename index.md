@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **230** pull requests currently under way :detective:
+There are **232** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -257,6 +257,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20160](https://github.com/conan-io/conan-center-index/pull/20160)|[toge](https://github.com/toge)|Sep 26|:stopwatch: duckdb|L|0|||
 [#20168](https://github.com/conan-io/conan-center-index/pull/20168)|[toge](https://github.com/toge)|Sep 27|:stopwatch: etl|:green_circle: XS|0|||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|0|||
+[#20173](https://github.com/conan-io/conan-center-index/pull/20173)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|L|0|||
+[#20174](https://github.com/conan-io/conan-center-index/pull/20174)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: cassandra-cpp-driver|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -282,7 +284,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19948](https://github.com/conan-io/conan-center-index/pull/19948)|[toge](https://github.com/toge)|Sep 18|:memo: cimg|3|**czoido**, ericLemanissier, **RubenRBS**
 [#19988](https://github.com/conan-io/conan-center-index/pull/19988)|[toge](https://github.com/toge)|Sep 20|:memo: trantor|2|**uilianries**, ericLemanissier
 [#20109](https://github.com/conan-io/conan-center-index/pull/20109)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: assimp|2|**uilianries**, ericLemanissier
-[#20110](https://github.com/conan-io/conan-center-index/pull/20110)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: openssl|2|**uilianries**, ericLemanissier
+[#20110](https://github.com/conan-io/conan-center-index/pull/20110)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: openssl|3|**uilianries**, ericLemanissier
 [#20112](https://github.com/conan-io/conan-center-index/pull/20112)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: libssh2|2|**uilianries**, ericLemanissier
 [#20116](https://github.com/conan-io/conan-center-index/pull/20116)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: mongo-c-driver|3|**uilianries**, ericLemanissier
 [#20117](https://github.com/conan-io/conan-center-index/pull/20117)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: minizip-ng|2|**uilianries**, ericLemanissier
@@ -304,9 +306,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 621
+	- Open: 623
 	- Draft: 61
-	- Average Age: 72 days, 9 hours, and 44.90 minutes
+	- Average Age: 72 days, 5 hours, and 13.13 minutes
 	- Stop Label: 229
 	
 
