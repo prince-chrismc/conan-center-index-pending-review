@@ -268,7 +268,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20132](https://github.com/conan-io/conan-center-index/pull/20132)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: mold|:green_circle: XS|1|Sep 25||**uilianries**
 [#20133](https://github.com/conan-io/conan-center-index/pull/20133)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: sentry-crashpad|:green_circle: XS|1|Sep 25||**uilianries**
 [#20134](https://github.com/conan-io/conan-center-index/pull/20134)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: doxygen|:green_circle: XS|1|Sep 25||**uilianries**
-[#20135](https://github.com/conan-io/conan-center-index/pull/20135)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: libxlsxwriter|:green_circle: XS|1|Sep 25||
+[#20135](https://github.com/conan-io/conan-center-index/pull/20135)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libxlsxwriter|:green_circle: XS|1|Sep 25||
 [#20137](https://github.com/conan-io/conan-center-index/pull/20137)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: binutils|:green_circle: XS|1|Sep 25||**uilianries**
 [#20139](https://github.com/conan-io/conan-center-index/pull/20139)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: cassandra-cpp-driver|:green_circle: XS|0|||
 [#20140](https://github.com/conan-io/conan-center-index/pull/20140)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:stopwatch: matio|:green_circle: XS|1|Sep 25||**uilianries**
@@ -285,7 +285,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **18** pull requests are waiting to be merged :tada:
+Currently **19** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -297,7 +297,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19652](https://github.com/conan-io/conan-center-index/pull/19652)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 7|:memo: onetbb|6|**uilianries**, **RubenRBS**
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|**RubenRBS**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
-[#19856](https://github.com/conan-io/conan-center-index/pull/19856)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:warning: zint|2|**czoido**, **RubenRBS**
+[#19856](https://github.com/conan-io/conan-center-index/pull/19856)|[SpaceIm](https://github.com/SpaceIm)|Sep 15|:memo: zint|2|**czoido**, **RubenRBS**
 [#19906](https://github.com/conan-io/conan-center-index/pull/19906)|[toge](https://github.com/toge)|Sep 17|:memo: yyjson|8|**RubenRBS**, ericLemanissier, **franramirez688**
 [#19907](https://github.com/conan-io/conan-center-index/pull/19907)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 17|:memo: armadillo|3|**RubenRBS**, **franramirez688**
 [#19930](https://github.com/conan-io/conan-center-index/pull/19930)|[toge](https://github.com/toge)|Sep 17|:warning: libsystemd|3|**czoido**, jwillikers, **uilianries**
@@ -307,6 +307,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20106](https://github.com/conan-io/conan-center-index/pull/20106)|[uilianries](https://github.com/uilianries)|Sep 25|:green_book: docs|2|**danimtb**, **RubenRBS**
 [#20118](https://github.com/conan-io/conan-center-index/pull/20118)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: boost|4|**uilianries**, [grafikrobot](https://github.com/grafikrobot), StellaSmith, [Hopobcn](https://github.com/Hopobcn)
 [#20125](https://github.com/conan-io/conan-center-index/pull/20125)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libbigwig|2|**uilianries**, ericLemanissier
+[#20128](https://github.com/conan-io/conan-center-index/pull/20128)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: opencv|3|**czoido**, **uilianries**
 [#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:warning: libcurl|2|**RubenRBS**, ericLemanissier
 
 
@@ -318,8 +319,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 640
 	- Draft: 64
-	- Average Age: 69 days, 16 hours, and 18.50 minutes
-	- Stop Label: 232
+	- Average Age: 69 days, 17 hours, and 13.56 minutes
+	- Stop Label: 231
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
