@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **236** pull requests currently under way :detective:
+There are **238** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -263,11 +263,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20175](https://github.com/conan-io/conan-center-index/pull/20175)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: ldns|:blue_square: S|0|||
 [#20176](https://github.com/conan-io/conan-center-index/pull/20176)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: xlsxio|:blue_square: S|0|||
 [#20177](https://github.com/conan-io/conan-center-index/pull/20177)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: pupnp|:green_circle: XS|0|||
+[#20178](https://github.com/conan-io/conan-center-index/pull/20178)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: shapelib|:blue_square: S|0|||
+[#20179](https://github.com/conan-io/conan-center-index/pull/20179)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: streamvbyte|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **29** pull requests are waiting to be merged :tada:
+Currently **28** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -296,7 +298,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20126](https://github.com/conan-io/conan-center-index/pull/20126)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: leptonica|2|**uilianries**, ericLemanissier
 [#20129](https://github.com/conan-io/conan-center-index/pull/20129)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: capnproto|2|**uilianries**, ericLemanissier
 [#20131](https://github.com/conan-io/conan-center-index/pull/20131)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: h5pp|2|**uilianries**, ericLemanissier
-[#20133](https://github.com/conan-io/conan-center-index/pull/20133)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: sentry-crashpad|3|**uilianries**, ericLemanissier
 [#20134](https://github.com/conan-io/conan-center-index/pull/20134)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: doxygen|2|**uilianries**, ericLemanissier
 [#20141](https://github.com/conan-io/conan-center-index/pull/20141)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: prometheus-cpp|3|**uilianries**, ericLemanissier
 [#20150](https://github.com/conan-io/conan-center-index/pull/20150)|[toge](https://github.com/toge)|Sep 25|:warning: drogon|2|**RubenRBS**, **franramirez688**
@@ -309,9 +310,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 626
+	- Open: 627
 	- Draft: 61
-	- Average Age: 71 days, 22 hours, and 52.70 minutes
+	- Average Age: 71 days, 21 hours, and 2.88 minutes
 	- Stop Label: 229
 	
 
