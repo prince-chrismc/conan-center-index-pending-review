@@ -286,7 +286,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **14** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -304,8 +304,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19940](https://github.com/conan-io/conan-center-index/pull/19940)|[SpaceIm](https://github.com/SpaceIm)|Sep 18|:memo: apr|2|jwillikers, **RubenRBS**
 [#19948](https://github.com/conan-io/conan-center-index/pull/19948)|[toge](https://github.com/toge)|Sep 18|:memo: cimg|3|**czoido**, ericLemanissier, **RubenRBS**
 [#19988](https://github.com/conan-io/conan-center-index/pull/19988)|[toge](https://github.com/toge)|Sep 20|:memo: trantor|2|**uilianries**, ericLemanissier
-[#20106](https://github.com/conan-io/conan-center-index/pull/20106)|[uilianries](https://github.com/uilianries)|Sep 25|:green_book: docs|2|**danimtb**, **RubenRBS**
-[#20125](https://github.com/conan-io/conan-center-index/pull/20125)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libbigwig|2|**uilianries**, ericLemanissier
 [#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:warning: libcurl|2|**RubenRBS**, ericLemanissier
 
 
@@ -315,9 +313,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 634
+	- Open: 632
 	- Draft: 63
-	- Average Age: 70 days, 15 hours, and 46.27 minutes
+	- Average Age: 70 days, 22 hours, and 0.38 minutes
 	- Stop Label: 229
 	
 
