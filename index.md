@@ -307,7 +307,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20106](https://github.com/conan-io/conan-center-index/pull/20106)|[uilianries](https://github.com/uilianries)|Sep 25|:green_book: docs|2|**danimtb**, **RubenRBS**
 [#20118](https://github.com/conan-io/conan-center-index/pull/20118)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: boost|4|**uilianries**, [grafikrobot](https://github.com/grafikrobot), StellaSmith, [Hopobcn](https://github.com/Hopobcn)
 [#20125](https://github.com/conan-io/conan-center-index/pull/20125)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libbigwig|2|**uilianries**, ericLemanissier
-[#20128](https://github.com/conan-io/conan-center-index/pull/20128)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: opencv|3|**czoido**, **uilianries**
+[#20128](https://github.com/conan-io/conan-center-index/pull/20128)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: opencv|3|**czoido**, **uilianries**
 [#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:warning: libcurl|2|**RubenRBS**, ericLemanissier
 
 
@@ -317,9 +317,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 640
+	- Open: 639
 	- Draft: 64
-	- Average Age: 69 days, 17 hours, and 13.56 minutes
+	- Average Age: 69 days, 20 hours, and 19.09 minutes
 	- Stop Label: 231
 	
 
