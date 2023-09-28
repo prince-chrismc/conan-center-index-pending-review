@@ -5995,5 +5995,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20195,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2023-09-28T21:11:18Z",
+      "Recipe": "libseat",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20195",
+      "LastCommitSHA": "daf72a3c97d74b61311131e6ca45369b4d9353ee",
+      "LastCommitAt": "2023-09-28T21:12:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
