@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **242** pull requests currently under way :detective:
+There are **240** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -213,7 +213,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20003](https://github.com/conan-io/conan-center-index/pull/20003)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: gdbm|:green_circle: XS|0|:eyes:||
 [#20009](https://github.com/conan-io/conan-center-index/pull/20009)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: minitrace|:blue_square: S|0|:eyes:||
 [#20011](https://github.com/conan-io/conan-center-index/pull/20011)|[mayeut](https://github.com/mayeut)|Sep 20|:stopwatch: libtiff|:green_circle: XS|0|||
-[#20015](https://github.com/conan-io/conan-center-index/pull/20015)|[mayeut](https://github.com/mayeut)|Sep 20|:stopwatch: ffmpeg|:blue_square: S|0|||
 [#20020](https://github.com/conan-io/conan-center-index/pull/20020)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: vc|:green_circle: XS|0|:eyes:||
 [#20023](https://github.com/conan-io/conan-center-index/pull/20023)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: ezc3d|:green_circle: XS|0|:eyes:||
 [#20027](https://github.com/conan-io/conan-center-index/pull/20027)|[valgur](https://github.com/valgur)|Sep 20|:memo: xtensor|M|0|:eyes:||
@@ -247,10 +246,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20094](https://github.com/conan-io/conan-center-index/pull/20094)|[toge](https://github.com/toge)|Sep 24|:stopwatch: libenvpp|M|1|Sep 25||**RubenRBS**
 [#20096](https://github.com/conan-io/conan-center-index/pull/20096)|[toge](https://github.com/toge)|Sep 24|:stopwatch: choc|M|1|Sep 25||**RubenRBS**
 [#20100](https://github.com/conan-io/conan-center-index/pull/20100)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 25|:gear: linter|:blue_square: S|1|Sep 25||**uilianries**
-[#20101](https://github.com/conan-io/conan-center-index/pull/20101)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 25|:stopwatch: at-spi2-core|M|1|Sep 25||**RubenRBS**
 [#20104](https://github.com/conan-io/conan-center-index/pull/20104)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: gcc|:green_circle: XS|0|:eyes:||
 [#20105](https://github.com/conan-io/conan-center-index/pull/20105)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: mold|:blue_square: S|1|Sep 27||
-[#20151](https://github.com/conan-io/conan-center-index/pull/20151)|[Slashcash](https://github.com/Slashcash)|Sep 25|:stopwatch: rocket|M|0|||
+[#20151](https://github.com/conan-io/conan-center-index/pull/20151)|[Slashcash](https://github.com/Slashcash)|Sep 25|:stopwatch: rocket|M|0|:eyes:||
 [#20152](https://github.com/conan-io/conan-center-index/pull/20152)|[SpaceIm](https://github.com/SpaceIm)|Sep 25|:stopwatch: ffmpeg|:blue_square: S|0|||
 [#20155](https://github.com/conan-io/conan-center-index/pull/20155)|[CJaccarino](https://github.com/CJaccarino)|Sep 26|:stopwatch: laslib|M|0|||
 [#20160](https://github.com/conan-io/conan-center-index/pull/20160)|[toge](https://github.com/toge)|Sep 26|:stopwatch: duckdb|L|0|||
@@ -266,14 +264,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20180](https://github.com/conan-io/conan-center-index/pull/20180)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: brotli|:blue_square: S|0|||
 [#20181](https://github.com/conan-io/conan-center-index/pull/20181)|[SpaceIm](https://github.com/SpaceIm)|Sep 28|:stopwatch: alembic|M|0|||
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:stopwatch: gstreamer|:blue_square: S|0|||
-[#20185](https://github.com/conan-io/conan-center-index/pull/20185)|[Adnn](https://github.com/Adnn)|Sep 28|:stopwatch: assimp|L|0|||
 [#20186](https://github.com/conan-io/conan-center-index/pull/20186)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:stopwatch: qt|L|1|Sep 28||jwillikers
 [#20188](https://github.com/conan-io/conan-center-index/pull/20188)|[toge](https://github.com/toge)|Sep 28|:stopwatch: roaring|M|0|||
+[#20190](https://github.com/conan-io/conan-center-index/pull/20190)|[jwillikers](https://github.com/jwillikers)|Sep 28|:stopwatch: pixman|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **18** pull requests are waiting to be merged :tada:
+Currently **17** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -293,7 +291,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19946](https://github.com/conan-io/conan-center-index/pull/19946)|[toge](https://github.com/toge)|Sep 18|:new: coost|3|**RubenRBS**, **czoido**
 [#19948](https://github.com/conan-io/conan-center-index/pull/19948)|[toge](https://github.com/toge)|Sep 18|:memo: cimg|3|**czoido**, ericLemanissier, **RubenRBS**
 [#19988](https://github.com/conan-io/conan-center-index/pull/19988)|[toge](https://github.com/toge)|Sep 20|:memo: trantor|2|**uilianries**, ericLemanissier
-[#20123](https://github.com/conan-io/conan-center-index/pull/20123)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: c-blosc2|2|**uilianries**, ericLemanissier
 [#20150](https://github.com/conan-io/conan-center-index/pull/20150)|[toge](https://github.com/toge)|Sep 25|:warning: drogon|2|**RubenRBS**, **franramirez688**
 [#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:warning: libcurl|2|**RubenRBS**, ericLemanissier
 
@@ -304,10 +301,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 619
+	- Open: 618
 	- Draft: 60
-	- Average Age: 73 days, 9 hours, and 42.10 minutes
-	- Stop Label: 229
+	- Average Age: 73 days, 13 hours, and 11.34 minutes
+	- Stop Label: 231
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
