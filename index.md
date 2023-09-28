@@ -177,7 +177,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19633](https://github.com/conan-io/conan-center-index/pull/19633)|[paulharris](https://github.com/paulharris)|Sep 6|:stopwatch: sentry-crashpad|M|1|Sep 7 :bell:||
 [#19653](https://github.com/conan-io/conan-center-index/pull/19653)|[valgur](https://github.com/valgur)|Sep 7|:memo: libpq|L|1|Sep 25||**danimtb**
 [#19659](https://github.com/conan-io/conan-center-index/pull/19659)|[mayeut](https://github.com/mayeut)|Sep 7|:stopwatch: abseil|L|2|Sep 20||[Hopobcn](https://github.com/Hopobcn)
-[#19662](https://github.com/conan-io/conan-center-index/pull/19662)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:stopwatch: boost|:green_circle: XS|5|Sep 27||[grafikrobot](https://github.com/grafikrobot), [offa](https://github.com/offa)
+[#19662](https://github.com/conan-io/conan-center-index/pull/19662)|[SpaceIm](https://github.com/SpaceIm)|Sep 7|:memo: boost|:green_circle: XS|5|Sep 27||[grafikrobot](https://github.com/grafikrobot), [offa](https://github.com/offa)
 [#19665](https://github.com/conan-io/conan-center-index/pull/19665)|[valgur](https://github.com/valgur)|Sep 7|:stopwatch: netcdf|:green_circle: XS|0|:eyes:||
 [#19678](https://github.com/conan-io/conan-center-index/pull/19678)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 8|:memo: onetbb|:green_circle: XS|0|:eyes:||
 [#19679](https://github.com/conan-io/conan-center-index/pull/19679)|[sykhro](https://github.com/sykhro)|Sep 8|:memo: sdl|:blue_square: S|1|Sep 25||**danimtb**
@@ -313,7 +313,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 629
 	- Draft: 61
-	- Average Age: 71 days, 19 hours, and 33.81 minutes
+	- Average Age: 71 days, 20 hours, and 36.49 minutes
 	- Stop Label: 230
 	
 
