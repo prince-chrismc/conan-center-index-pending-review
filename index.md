@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **240** pull requests currently under way :detective:
+There are **241** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -252,6 +252,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20101](https://github.com/conan-io/conan-center-index/pull/20101)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 25|:stopwatch: at-spi2-core|M|1|Sep 25||**RubenRBS**
 [#20104](https://github.com/conan-io/conan-center-index/pull/20104)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: gcc|:green_circle: XS|0|||
 [#20105](https://github.com/conan-io/conan-center-index/pull/20105)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: mold|:blue_square: S|1|Sep 27||
+[#20142](https://github.com/conan-io/conan-center-index/pull/20142)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libmediainfo|:green_circle: XS|3|Sep 28||ericLemanissier
 [#20151](https://github.com/conan-io/conan-center-index/pull/20151)|[Slashcash](https://github.com/Slashcash)|Sep 25|:stopwatch: rocket|M|0|||
 [#20152](https://github.com/conan-io/conan-center-index/pull/20152)|[SpaceIm](https://github.com/SpaceIm)|Sep 25|:stopwatch: ffmpeg|:blue_square: S|0|||
 [#20155](https://github.com/conan-io/conan-center-index/pull/20155)|[CJaccarino](https://github.com/CJaccarino)|Sep 26|:stopwatch: laslib|M|0|||
@@ -313,7 +314,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 629
 	- Draft: 61
-	- Average Age: 71 days, 20 hours, and 36.49 minutes
+	- Average Age: 71 days, 21 hours, and 34.12 minutes
 	- Stop Label: 230
 	
 
