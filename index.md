@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **242** pull requests currently under way :detective:
+There are **243** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -269,6 +269,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20192](https://github.com/conan-io/conan-center-index/pull/20192)|[RubenRBS](https://github.com/RubenRBS)|Sep 28|:stopwatch: soplex|:green_circle: XS|0|||
 [#20193](https://github.com/conan-io/conan-center-index/pull/20193)|[RubenRBS](https://github.com/RubenRBS)|Sep 28|:stopwatch: libkml|:green_circle: XS|0|||
 [#20194](https://github.com/conan-io/conan-center-index/pull/20194)|[RubenRBS](https://github.com/RubenRBS)|Sep 28|:stopwatch: poco|:green_circle: XS|0|||
+[#20195](https://github.com/conan-io/conan-center-index/pull/20195)|[jwillikers](https://github.com/jwillikers)|Sep 28|:stopwatch: libseat|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -302,9 +303,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 620
+	- Open: 621
 	- Draft: 59
-	- Average Age: 73 days, 7 hours, and 56.06 minutes
+	- Average Age: 73 days, 6 hours, and 5.11 minutes
 	- Stop Label: 233
 	
 
