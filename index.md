@@ -292,11 +292,11 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19948](https://github.com/conan-io/conan-center-index/pull/19948)|[toge](https://github.com/toge)|Sep 18|:memo: cimg|3|**czoido**, ericLemanissier, **RubenRBS**
 [#19988](https://github.com/conan-io/conan-center-index/pull/19988)|[toge](https://github.com/toge)|Sep 20|:memo: trantor|2|**uilianries**, ericLemanissier
 [#20109](https://github.com/conan-io/conan-center-index/pull/20109)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: assimp|2|**uilianries**, ericLemanissier
-[#20110](https://github.com/conan-io/conan-center-index/pull/20110)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: openssl|3|**uilianries**, ericLemanissier
+[#20110](https://github.com/conan-io/conan-center-index/pull/20110)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: openssl|3|**uilianries**, ericLemanissier
 [#20112](https://github.com/conan-io/conan-center-index/pull/20112)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libssh2|2|**uilianries**, ericLemanissier
-[#20116](https://github.com/conan-io/conan-center-index/pull/20116)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: mongo-c-driver|3|**uilianries**, ericLemanissier
-[#20117](https://github.com/conan-io/conan-center-index/pull/20117)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: minizip-ng|2|**uilianries**, ericLemanissier
-[#20122](https://github.com/conan-io/conan-center-index/pull/20122)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: libwebsockets|2|**uilianries**, ericLemanissier
+[#20116](https://github.com/conan-io/conan-center-index/pull/20116)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: mongo-c-driver|3|**uilianries**, ericLemanissier
+[#20117](https://github.com/conan-io/conan-center-index/pull/20117)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: minizip-ng|2|**uilianries**, ericLemanissier
+[#20122](https://github.com/conan-io/conan-center-index/pull/20122)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libwebsockets|2|**uilianries**, ericLemanissier
 [#20126](https://github.com/conan-io/conan-center-index/pull/20126)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: leptonica|2|**uilianries**, ericLemanissier
 [#20129](https://github.com/conan-io/conan-center-index/pull/20129)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: capnproto|2|**uilianries**, ericLemanissier
 [#20131](https://github.com/conan-io/conan-center-index/pull/20131)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: h5pp|2|**uilianries**, ericLemanissier
@@ -313,7 +313,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 629
 	- Draft: 61
-	- Average Age: 71 days, 18 hours, and 39.91 minutes
+	- Average Age: 71 days, 19 hours, and 33.81 minutes
 	- Stop Label: 230
 	
 
