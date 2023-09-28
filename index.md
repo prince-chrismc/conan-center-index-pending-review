@@ -260,7 +260,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20168](https://github.com/conan-io/conan-center-index/pull/20168)|[toge](https://github.com/toge)|Sep 27|:stopwatch: etl|:green_circle: XS|0|||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|0|||
 [#20173](https://github.com/conan-io/conan-center-index/pull/20173)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|L|0|||
-[#20174](https://github.com/conan-io/conan-center-index/pull/20174)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: cassandra-cpp-driver|:blue_square: S|0|||
+[#20174](https://github.com/conan-io/conan-center-index/pull/20174)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: cassandra-cpp-driver|:blue_square: S|1|Sep 28||**uilianries**
 [#20175](https://github.com/conan-io/conan-center-index/pull/20175)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: ldns|:blue_square: S|0|||
 [#20176](https://github.com/conan-io/conan-center-index/pull/20176)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: xlsxio|:blue_square: S|0|||
 [#20177](https://github.com/conan-io/conan-center-index/pull/20177)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:stopwatch: pupnp|:green_circle: XS|0|||
@@ -272,7 +272,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **27** pull requests are waiting to be merged :tada:
+Currently **26** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -293,7 +293,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19948](https://github.com/conan-io/conan-center-index/pull/19948)|[toge](https://github.com/toge)|Sep 18|:memo: cimg|3|**czoido**, ericLemanissier, **RubenRBS**
 [#19988](https://github.com/conan-io/conan-center-index/pull/19988)|[toge](https://github.com/toge)|Sep 20|:memo: trantor|2|**uilianries**, ericLemanissier
 [#20109](https://github.com/conan-io/conan-center-index/pull/20109)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: assimp|2|**uilianries**, ericLemanissier
-[#20110](https://github.com/conan-io/conan-center-index/pull/20110)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: openssl|3|**uilianries**, ericLemanissier
 [#20112](https://github.com/conan-io/conan-center-index/pull/20112)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: libssh2|2|**uilianries**, ericLemanissier
 [#20116](https://github.com/conan-io/conan-center-index/pull/20116)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: mongo-c-driver|3|**uilianries**, ericLemanissier
 [#20117](https://github.com/conan-io/conan-center-index/pull/20117)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: minizip-ng|2|**uilianries**, ericLemanissier
@@ -312,9 +311,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 629
+	- Open: 628
 	- Draft: 61
-	- Average Age: 71 days, 21 hours, and 34.12 minutes
+	- Average Age: 72 days, 2 hours, and 12.51 minutes
 	- Stop Label: 230
 	
 
