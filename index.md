@@ -272,7 +272,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -293,7 +293,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19946](https://github.com/conan-io/conan-center-index/pull/19946)|[toge](https://github.com/toge)|Sep 18|:new: coost|3|**RubenRBS**, **czoido**
 [#19948](https://github.com/conan-io/conan-center-index/pull/19948)|[toge](https://github.com/toge)|Sep 18|:memo: cimg|3|**czoido**, ericLemanissier, **RubenRBS**
 [#19988](https://github.com/conan-io/conan-center-index/pull/19988)|[toge](https://github.com/toge)|Sep 20|:memo: trantor|2|**uilianries**, ericLemanissier
-[#20109](https://github.com/conan-io/conan-center-index/pull/20109)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: assimp|2|**uilianries**, ericLemanissier
 [#20129](https://github.com/conan-io/conan-center-index/pull/20129)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: capnproto|2|**uilianries**, ericLemanissier
 [#20141](https://github.com/conan-io/conan-center-index/pull/20141)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:warning: prometheus-cpp|3|**uilianries**, ericLemanissier
 [#20150](https://github.com/conan-io/conan-center-index/pull/20150)|[toge](https://github.com/toge)|Sep 25|:warning: drogon|2|**RubenRBS**, **franramirez688**
@@ -306,9 +305,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 622
+	- Open: 621
 	- Draft: 60
-	- Average Age: 72 days, 23 hours, and 52.90 minutes
+	- Average Age: 73 days, 3 hours, and 35.84 minutes
 	- Stop Label: 230
 	
 
