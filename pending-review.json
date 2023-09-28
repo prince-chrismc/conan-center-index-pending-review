@@ -6075,11 +6075,21 @@
       "LastCommitAt": "2023-09-27T22:33:23Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-09-28T12:43:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20178#pullrequestreview-1648762382"
+         }
       }
    },
    {
@@ -6149,6 +6159,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20183",
       "LastCommitSHA": "aff8ed455863b9f8c92785682cb58d2da5ee1e68",
       "LastCommitAt": "2023-09-28T10:52:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20185,
+      "OpenedBy": "Adnn",
+      "CreatedAt": "2023-09-28T12:43:53Z",
+      "Recipe": "assimp",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20185",
+      "LastCommitSHA": "567b2dd9112641a152fa28cae42e45fb7dcdd2ee",
+      "LastCommitAt": "2023-09-28T12:24:04Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
