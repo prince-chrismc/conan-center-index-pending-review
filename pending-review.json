@@ -2129,11 +2129,21 @@
       "LastCommitAt": "2023-09-19T06:19:48Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SpaceIm",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-09-28T22:43:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19096#pullrequestreview-1649802344"
+         }
       }
    },
    {
