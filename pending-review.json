@@ -5906,39 +5906,6 @@
       }
    },
    {
-      "Number": 20203,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2023-09-29T07:16:30Z",
-      "Recipe": "podofo",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20203",
-      "LastCommitSHA": "5339e7cdc113912903ee03d021fb52b1e3762301",
-      "LastCommitAt": "2023-09-28T18:37:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-29T09:34:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20203#pullrequestreview-1650417189"
-         }
-      }
-   },
-   {
       "Number": 20205,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-09-29T13:17:19Z",
