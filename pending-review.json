@@ -3959,39 +3959,6 @@
       }
    },
    {
-      "Number": 19907,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-09-17T06:59:09Z",
-      "Recipe": "armadillo",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19907",
-      "LastCommitSHA": "c0c789f58053da9de541c3265c622902a737c751",
-      "LastCommitAt": "2023-09-17T23:11:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-09-21T14:11:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19907#pullrequestreview-1637944010"
-         }
-      }
-   },
-   {
       "Number": 19909,
       "OpenedBy": "samuel-emrys",
       "CreatedAt": "2023-09-17T08:56:49Z",
@@ -5818,7 +5785,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20192",
       "LastCommitSHA": "4a0213302f737e21242d1e6733e305e39ec7ccfb",
       "LastCommitAt": "2023-09-28T18:36:44Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
