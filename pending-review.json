@@ -5716,5 +5716,119 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20215,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-29T22:17:18Z",
+      "Recipe": "thrift",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20215",
+      "LastCommitSHA": "daf8124d9a8f68922e10889c7c6cce0e312b2bd5",
+      "LastCommitAt": "2023-09-29T22:12:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20216,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-29T22:22:23Z",
+      "Recipe": "cpprestsdk",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20216",
+      "LastCommitSHA": "fed3d2f6dcfc4700a69cf9c28a84db01741c73be",
+      "LastCommitAt": "2023-09-29T22:17:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20217,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-29T22:27:29Z",
+      "Recipe": "opentdf-client",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20217",
+      "LastCommitSHA": "8af4350eef0380d2c45d47196f04c4ef2bcaaa92",
+      "LastCommitAt": "2023-09-29T22:22:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20218,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-29T22:32:36Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20218",
+      "LastCommitSHA": "3cb31e727b0be4ba27ec8332db3b921abc15f393",
+      "LastCommitAt": "2023-09-29T22:27:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20219,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-29T22:37:42Z",
+      "Recipe": "gdal",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20219",
+      "LastCommitSHA": "67d29bf5f342054fd56a5f17c8ac32e61c672ad0",
+      "LastCommitAt": "2023-09-29T22:32:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20220,
+      "OpenedBy": "RubenRBS",
+      "CreatedAt": "2023-09-29T22:42:50Z",
+      "Recipe": "drogon",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20220",
+      "LastCommitSHA": "83c0ffdcad0c32f1abfa9d732bc49885c54a45a3",
+      "LastCommitAt": "2023-09-29T22:37:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
