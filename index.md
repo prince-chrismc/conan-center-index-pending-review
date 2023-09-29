@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **213** pull requests currently under way :detective:
+There are **219** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -240,6 +240,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20212](https://github.com/conan-io/conan-center-index/pull/20212)|[mayeut](https://github.com/mayeut)|Sep 29|:stopwatch: ffmpeg|:blue_square: S|0|||
 [#20213](https://github.com/conan-io/conan-center-index/pull/20213)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: fltk|:green_circle: XS|0|||
 [#20214](https://github.com/conan-io/conan-center-index/pull/20214)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: google-cloud-cpp|:green_circle: XS|0|||
+[#20215](https://github.com/conan-io/conan-center-index/pull/20215)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: thrift|:green_circle: XS|0|||
+[#20216](https://github.com/conan-io/conan-center-index/pull/20216)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: cpprestsdk|:green_circle: XS|0|||
+[#20217](https://github.com/conan-io/conan-center-index/pull/20217)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: opentdf-client|:green_circle: XS|0|||
+[#20218](https://github.com/conan-io/conan-center-index/pull/20218)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: glib|:green_circle: XS|0|||
+[#20219](https://github.com/conan-io/conan-center-index/pull/20219)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: gdal|:green_circle: XS|0|||
+[#20220](https://github.com/conan-io/conan-center-index/pull/20220)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: drogon|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -282,9 +288,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 599
+	- Open: 604
 	- Draft: 58
-	- Average Age: 75 days, 23 hours, and 27.73 minutes
+	- Average Age: 75 days, 9 hours, and 1.01 minutes
 	- Stop Label: 235
 	
 
