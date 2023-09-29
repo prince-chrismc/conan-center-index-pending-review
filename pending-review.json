@@ -4758,8 +4758,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20054",
-      "LastCommitSHA": "a5aeed17c26eb018eae35c4505f68cf41f7e17ea",
-      "LastCommitAt": "2023-09-28T19:25:15Z",
+      "LastCommitSHA": "fbb8f98778f6a805c21385379c3a60194a6a2ac2",
+      "LastCommitAt": "2023-09-29T04:40:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5763,25 +5763,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20196",
       "LastCommitSHA": "4983de8cb5550ff490dae0db37c15b08e2da053f",
       "LastCommitAt": "2023-09-28T18:37:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20197,
-      "OpenedBy": "weatherhead99",
-      "CreatedAt": "2023-09-29T04:04:01Z",
-      "Recipe": "simage",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20197",
-      "LastCommitSHA": "24d993e6077947516c11dacb50de62e19c8d67cd",
-      "LastCommitAt": "2023-09-29T04:08:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
