@@ -4125,35 +4125,26 @@
       }
    },
    {
-      "Number": 19946,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-18T14:23:17Z",
-      "Recipe": "coost",
-      "Change": 0,
+      "Number": 19944,
+      "OpenedBy": "weatherhead99",
+      "CreatedAt": "2023-09-18T13:43:34Z",
+      "Recipe": "clhep",
+      "Change": 1,
       "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19946",
-      "LastCommitSHA": "d233019c09604c081c3cf26241f30e568544f969",
-      "LastCommitAt": "2023-09-19T10:37:48Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19944",
+      "LastCommitSHA": "2c53ef1e205be7d3fc2b1b96511079d5b9d2584b",
+      "LastCommitAt": "2023-09-28T20:53:15Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
+         "Count": 6,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-09-27T14:18:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19946#pullrequestreview-1646725918"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-09-18T19:16:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19944#pullrequestreview-1631805998"
          }
       }
    },
@@ -4259,25 +4250,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19957",
       "LastCommitSHA": "0fd92be87cc364f1b7ef22ad884ee9169fd8d6c6",
       "LastCommitAt": "2023-09-21T12:48:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 19967,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-19T22:55:01Z",
-      "Recipe": "glaze",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19967",
-      "LastCommitSHA": "b279faf6856ff1c0439bf302c30fe27d2784783a",
-      "LastCommitAt": "2023-09-28T00:57:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
