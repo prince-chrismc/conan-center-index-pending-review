@@ -4375,11 +4375,21 @@
       "LastCommitAt": "2023-09-20T22:57:20Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-09-30T09:03:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20031#pullrequestreview-1651665694"
+         }
       }
    },
    {
@@ -5788,7 +5798,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20220",
       "LastCommitSHA": "83c0ffdcad0c32f1abfa9d732bc49885c54a45a3",
       "LastCommitAt": "2023-09-29T22:37:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5826,6 +5836,101 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20223",
       "LastCommitSHA": "15f512168f710505157d7673437a3f661bcc0b63",
       "LastCommitAt": "2023-09-30T02:49:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20224,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-09-30T08:30:31Z",
+      "Recipe": "sdl_image",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20224",
+      "LastCommitSHA": "33e97101af535cdf5c2450654849d139966e3342",
+      "LastCommitAt": "2023-09-30T08:28:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20227,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-09-30T08:45:40Z",
+      "Recipe": "freeimage",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20227",
+      "LastCommitSHA": "abcf5f1e159e1e0a65d9bbd421d9660c68fb981a",
+      "LastCommitAt": "2023-09-30T08:44:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20228,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-09-30T08:57:22Z",
+      "Recipe": "dlib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20228",
+      "LastCommitSHA": "e0beaa573293f34526cd15413c1e7c47e5a6992a",
+      "LastCommitAt": "2023-09-30T08:56:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20229,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-09-30T09:03:47Z",
+      "Recipe": "sail",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20229",
+      "LastCommitSHA": "15168bf3b5481cecdb58086e693d4c62cad43455",
+      "LastCommitAt": "2023-09-30T09:03:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20230,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-09-30T09:07:35Z",
+      "Recipe": "leptonica",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20230",
+      "LastCommitSHA": "ef4eaaecdbc94c3de0025721fd828e72842e0009",
+      "LastCommitAt": "2023-09-30T09:06:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
