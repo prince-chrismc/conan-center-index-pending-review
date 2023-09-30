@@ -5757,25 +5757,6 @@
       }
    },
    {
-      "Number": 20219,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-29T22:37:42Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20219",
-      "LastCommitSHA": "67d29bf5f342054fd56a5f17c8ac32e61c672ad0",
-      "LastCommitAt": "2023-09-29T22:32:39Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20220,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-29T22:42:50Z",
