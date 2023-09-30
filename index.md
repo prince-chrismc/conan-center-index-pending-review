@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **218** pull requests currently under way :detective:
+There are **217** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -241,7 +241,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20216](https://github.com/conan-io/conan-center-index/pull/20216)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:memo: cpprestsdk|:green_circle: XS|0|||
 [#20217](https://github.com/conan-io/conan-center-index/pull/20217)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: opentdf-client|:green_circle: XS|0|||
 [#20218](https://github.com/conan-io/conan-center-index/pull/20218)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: glib|:green_circle: XS|0|||
-[#20219](https://github.com/conan-io/conan-center-index/pull/20219)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: gdal|:green_circle: XS|0|||
 [#20220](https://github.com/conan-io/conan-center-index/pull/20220)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: drogon|:green_circle: XS|0|||
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:stopwatch: cryptopp-pem|:blue_square: S|0|||
 [#20223](https://github.com/conan-io/conan-center-index/pull/20223)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:stopwatch: grpc|:green_circle: XS|0|||
@@ -287,10 +286,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 599
+	- Open: 598
 	- Draft: 59
-	- Average Age: 76 days, 2 hours, and 12.49 minutes
-	- Stop Label: 236
+	- Average Age: 76 days, 5 hours, and 50.10 minutes
+	- Stop Label: 237
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
