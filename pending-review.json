@@ -3674,25 +3674,6 @@
       }
    },
    {
-      "Number": 19808,
-      "OpenedBy": "joakimono",
-      "CreatedAt": "2023-09-14T13:06:46Z",
-      "Recipe": "openblas",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19808",
-      "LastCommitSHA": "df3b582ffb29fb77c51e3b6e15da0b85a5f6d354",
-      "LastCommitAt": "2023-09-18T06:16:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19820,
       "OpenedBy": "Nerixyz",
       "CreatedAt": "2023-09-14T19:06:28Z",
