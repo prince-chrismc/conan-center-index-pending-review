@@ -238,7 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20210](https://github.com/conan-io/conan-center-index/pull/20210)|[toge](https://github.com/toge)|Sep 29|:memo: clickhouse-cpp|:blue_square: S|1|Sep 30||**RubenRBS**
 [#20213](https://github.com/conan-io/conan-center-index/pull/20213)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: fltk|:green_circle: XS|0|||
 [#20215](https://github.com/conan-io/conan-center-index/pull/20215)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: thrift|:green_circle: XS|0|||
-[#20216](https://github.com/conan-io/conan-center-index/pull/20216)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: cpprestsdk|:green_circle: XS|0|||
+[#20216](https://github.com/conan-io/conan-center-index/pull/20216)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:memo: cpprestsdk|:green_circle: XS|0|||
 [#20217](https://github.com/conan-io/conan-center-index/pull/20217)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: opentdf-client|:green_circle: XS|0|||
 [#20218](https://github.com/conan-io/conan-center-index/pull/20218)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: glib|:green_circle: XS|0|||
 [#20219](https://github.com/conan-io/conan-center-index/pull/20219)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:stopwatch: gdal|:green_circle: XS|0|||
@@ -287,9 +287,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 601
+	- Open: 599
 	- Draft: 59
-	- Average Age: 75 days, 19 hours, and 49.75 minutes
+	- Average Age: 76 days, 2 hours, and 12.49 minutes
 	- Stop Label: 236
 	
 
