@@ -244,7 +244,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20228](https://github.com/conan-io/conan-center-index/pull/20228)|[mayeut](https://github.com/mayeut)|Sep 30|:stopwatch: dlib|:green_circle: XS|0|||
 [#20229](https://github.com/conan-io/conan-center-index/pull/20229)|[mayeut](https://github.com/mayeut)|Sep 30|:stopwatch: sail|:green_circle: XS|0|||
 [#20230](https://github.com/conan-io/conan-center-index/pull/20230)|[mayeut](https://github.com/mayeut)|Sep 30|:stopwatch: leptonica|:green_circle: XS|0|||
-[#20231](https://github.com/conan-io/conan-center-index/pull/20231)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:stopwatch: platform.converters|:blue_square: S|0|||
+[#20231](https://github.com/conan-io/conan-center-index/pull/20231)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: platform.converters|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -290,9 +290,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 595
+	- Open: 593
 	- Draft: 60
-	- Average Age: 76 days, 17 hours, and 15.08 minutes
+	- Average Age: 76 days, 23 hours, and 52.50 minutes
 	- Stop Label: 238
 	
 
