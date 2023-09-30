@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **221** pull requests currently under way :detective:
+There are **222** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -246,13 +246,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20230](https://github.com/conan-io/conan-center-index/pull/20230)|[mayeut](https://github.com/mayeut)|Sep 30|:stopwatch: leptonica|:green_circle: XS|0|||
 [#20231](https://github.com/conan-io/conan-center-index/pull/20231)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: platform.converters|:blue_square: S|1|Sep 30||**RubenRBS**
 [#20235](https://github.com/conan-io/conan-center-index/pull/20235)|[toge](https://github.com/toge)|Sep 30|:stopwatch: cocoyaxi|:green_circle: XS|0|||
-[#20236](https://github.com/conan-io/conan-center-index/pull/20236)|[mayeut](https://github.com/mayeut)|Sep 30|:stopwatch: cmake|M|0|||
+[#20236](https://github.com/conan-io/conan-center-index/pull/20236)|[mayeut](https://github.com/mayeut)|Sep 30|:memo: cmake|M|0|||
 [#20238](https://github.com/conan-io/conan-center-index/pull/20238)|[hedtke](https://github.com/hedtke)|Sep 30|:stopwatch: highs|:green_circle: XS|0|||
+[#20239](https://github.com/conan-io/conan-center-index/pull/20239)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:stopwatch: dcmtk|XL|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -275,7 +276,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20180](https://github.com/conan-io/conan-center-index/pull/20180)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:warning: brotli|2|**uilianries**, jwillikers
 [#20181](https://github.com/conan-io/conan-center-index/pull/20181)|[SpaceIm](https://github.com/SpaceIm)|Sep 28|:warning: alembic|2|**uilianries**, jwillikers
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|2|ericLemanissier, **RubenRBS**
-[#20206](https://github.com/conan-io/conan-center-index/pull/20206)|[cqc-alec](https://github.com/cqc-alec)|Sep 29|:memo: symengine|2|**RubenRBS**, ericLemanissier
 [#20208](https://github.com/conan-io/conan-center-index/pull/20208)|[7bitcoder](https://github.com/7bitcoder)|Sep 29|:memo: 7bitconf|2|**RubenRBS**, ericLemanissier
 [#20210](https://github.com/conan-io/conan-center-index/pull/20210)|[toge](https://github.com/toge)|Sep 29|:memo: clickhouse-cpp|2|**RubenRBS**, ericLemanissier
 
@@ -286,9 +286,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 582
+	- Open: 580
 	- Draft: 61
-	- Average Age: 78 days, 14 hours, and 40.22 minutes
+	- Average Age: 78 days, 22 hours, and 39.99 minutes
 	- Stop Label: 237
 	
 
