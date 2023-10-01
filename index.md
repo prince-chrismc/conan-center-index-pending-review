@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **222** pull requests currently under way :detective:
+There are **217** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -128,7 +128,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19148](https://github.com/conan-io/conan-center-index/pull/19148)|[toge](https://github.com/toge)|Aug 11|:new: influxdb-cxx|M|3|Aug 14 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19191](https://github.com/conan-io/conan-center-index/pull/19191)|[AlexRamallo](https://github.com/AlexRamallo)|Aug 14|:memo: ozz-animation|L|3|Aug 17 :bell:||[valgur](https://github.com/valgur)
 [#19194](https://github.com/conan-io/conan-center-index/pull/19194)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:stopwatch: opencv|L|0|:eyes:||
-[#19218](https://github.com/conan-io/conan-center-index/pull/19218)|[hedtke](https://github.com/hedtke)|Aug 16|:stopwatch: yoga|M|2|Sep 29||
+[#19218](https://github.com/conan-io/conan-center-index/pull/19218)|[hedtke](https://github.com/hedtke)|Aug 16|:new: yoga|M|2|Sep 29||
 [#19226](https://github.com/conan-io/conan-center-index/pull/19226)|[db4](https://github.com/db4)|Aug 16|:memo: pixman|M|2|Sep 28||ericLemanissier, jwillikers
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:stopwatch: rmm|:blue_square: S|2|Aug 18 :bell:||
 [#19231](https://github.com/conan-io/conan-center-index/pull/19231)|[valgur](https://github.com/valgur)|Aug 16|:memo: libselinux|M|7|Sep 29||jwillikers
@@ -184,7 +184,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19911](https://github.com/conan-io/conan-center-index/pull/19911)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: libavrocpp|:green_circle: XS|0|:eyes:||
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20||
 [#19929](https://github.com/conan-io/conan-center-index/pull/19929)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: btyacc|L|0|:eyes:||
-[#19935](https://github.com/conan-io/conan-center-index/pull/19935)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 18|:memo: glib|:blue_square: S|1|Sep 30||**RubenRBS**
 [#19938](https://github.com/conan-io/conan-center-index/pull/19938)|[SpaceIm](https://github.com/SpaceIm)|Sep 18|:memo: apr-util|:blue_square: S|0|||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
 [#19944](https://github.com/conan-io/conan-center-index/pull/19944)|[weatherhead99](https://github.com/weatherhead99)|Sep 18|:memo: clhep|M|6|Sep 18 :bell:||
@@ -241,19 +240,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20220](https://github.com/conan-io/conan-center-index/pull/20220)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:memo: drogon|:green_circle: XS|0|||
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:stopwatch: cryptopp-pem|:blue_square: S|0|||
 [#20223](https://github.com/conan-io/conan-center-index/pull/20223)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:stopwatch: grpc|:green_circle: XS|0|||
-[#20227](https://github.com/conan-io/conan-center-index/pull/20227)|[mayeut](https://github.com/mayeut)|Sep 30|:stopwatch: freeimage|:green_circle: XS|0|||
 [#20230](https://github.com/conan-io/conan-center-index/pull/20230)|[mayeut](https://github.com/mayeut)|Sep 30|:stopwatch: leptonica|:green_circle: XS|0|||
-[#20231](https://github.com/conan-io/conan-center-index/pull/20231)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: platform.converters|:blue_square: S|1|Sep 30||**RubenRBS**
 [#20235](https://github.com/conan-io/conan-center-index/pull/20235)|[toge](https://github.com/toge)|Sep 30|:stopwatch: cocoyaxi|:green_circle: XS|0|||
-[#20236](https://github.com/conan-io/conan-center-index/pull/20236)|[mayeut](https://github.com/mayeut)|Sep 30|:memo: cmake|M|1|Sep 30||**RubenRBS**
 [#20237](https://github.com/conan-io/conan-center-index/pull/20237)|[toge](https://github.com/toge)|Sep 30|:memo: libzippp|:green_circle: XS|1|Sep 30||**RubenRBS**
-[#20238](https://github.com/conan-io/conan-center-index/pull/20238)|[hedtke](https://github.com/hedtke)|Sep 30|:stopwatch: highs|:green_circle: XS|0|||
 [#20239](https://github.com/conan-io/conan-center-index/pull/20239)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:stopwatch: dcmtk|XL|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **21** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -277,6 +272,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20180](https://github.com/conan-io/conan-center-index/pull/20180)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:warning: brotli|2|**uilianries**, jwillikers
 [#20181](https://github.com/conan-io/conan-center-index/pull/20181)|[SpaceIm](https://github.com/SpaceIm)|Sep 28|:warning: alembic|2|**uilianries**, jwillikers
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|2|ericLemanissier, **RubenRBS**
+[#20231](https://github.com/conan-io/conan-center-index/pull/20231)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: platform.converters|2|**RubenRBS**, toge
+[#20236](https://github.com/conan-io/conan-center-index/pull/20236)|[mayeut](https://github.com/mayeut)|Sep 30|:memo: cmake|2|**RubenRBS**, toge
 
 
 #### :clipboard: Statistics
@@ -285,9 +282,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 575
+	- Open: 573
 	- Draft: 61
-	- Average Age: 79 days, 16 hours, and 37.60 minutes
+	- Average Age: 80 days, and 13.71 minutes
 	- Stop Label: 235
 	
 
