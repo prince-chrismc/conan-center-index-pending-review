@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **216** pull requests currently under way :detective:
+There are **218** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -243,11 +243,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20223](https://github.com/conan-io/conan-center-index/pull/20223)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:stopwatch: grpc|:green_circle: XS|0|||
 [#20235](https://github.com/conan-io/conan-center-index/pull/20235)|[toge](https://github.com/toge)|Sep 30|:stopwatch: cocoyaxi|:green_circle: XS|0|||
 [#20241](https://github.com/conan-io/conan-center-index/pull/20241)|[toge](https://github.com/toge)|Oct 1|:memo: ada|:blue_square: S|0|||
+[#20242](https://github.com/conan-io/conan-center-index/pull/20242)|[mayeut](https://github.com/mayeut)|Oct 1|:stopwatch: onnx|:green_circle: XS|0|||
+[#20243](https://github.com/conan-io/conan-center-index/pull/20243)|[mayeut](https://github.com/mayeut)|Oct 1|:stopwatch: qpdf|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -270,7 +272,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20180](https://github.com/conan-io/conan-center-index/pull/20180)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:warning: brotli|2|**uilianries**, jwillikers
 [#20181](https://github.com/conan-io/conan-center-index/pull/20181)|[SpaceIm](https://github.com/SpaceIm)|Sep 28|:warning: alembic|2|**uilianries**, jwillikers
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|2|ericLemanissier, **RubenRBS**
-[#20231](https://github.com/conan-io/conan-center-index/pull/20231)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: platform.converters|2|**RubenRBS**, toge
 [#20236](https://github.com/conan-io/conan-center-index/pull/20236)|[mayeut](https://github.com/mayeut)|Sep 30|:memo: cmake|2|**RubenRBS**, toge
 [#20237](https://github.com/conan-io/conan-center-index/pull/20237)|[toge](https://github.com/toge)|Sep 30|:memo: libzippp|2|**RubenRBS**, ericLemanissier
 
@@ -283,8 +284,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 571
 	- Draft: 58
-	- Average Age: 80 days, 11 hours, and 5.62 minutes
-	- Stop Label: 239
+	- Average Age: 80 days, 8 hours, and 36.03 minutes
+	- Stop Label: 238
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
