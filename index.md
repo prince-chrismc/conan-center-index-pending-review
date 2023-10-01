@@ -242,12 +242,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:stopwatch: cryptopp-pem|:blue_square: S|0|||
 [#20223](https://github.com/conan-io/conan-center-index/pull/20223)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:stopwatch: grpc|:green_circle: XS|0|||
 [#20235](https://github.com/conan-io/conan-center-index/pull/20235)|[toge](https://github.com/toge)|Sep 30|:stopwatch: cocoyaxi|:green_circle: XS|0|||
-[#20241](https://github.com/conan-io/conan-center-index/pull/20241)|[toge](https://github.com/toge)|Oct 1|:stopwatch: ada|:blue_square: S|0|||
+[#20241](https://github.com/conan-io/conan-center-index/pull/20241)|[toge](https://github.com/toge)|Oct 1|:memo: ada|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **22** pull requests are waiting to be merged :tada:
+Currently **21** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -259,7 +259,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|**RubenRBS**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#19909](https://github.com/conan-io/conan-center-index/pull/19909)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 17|:memo: armadillo|3|SpaceIm, **RubenRBS**
-[#19930](https://github.com/conan-io/conan-center-index/pull/19930)|[toge](https://github.com/toge)|Sep 17|:memo: libsystemd|3|**czoido**, jwillikers, **uilianries**
 [#20074](https://github.com/conan-io/conan-center-index/pull/20074)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: nanodbc|2|**RubenRBS**, jwillikers
 [#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:warning: libcurl|2|**RubenRBS**, ericLemanissier
 [#20174](https://github.com/conan-io/conan-center-index/pull/20174)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:warning: cassandra-cpp-driver|2|**uilianries**, ericLemanissier
@@ -282,9 +281,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 572
+	- Open: 571
 	- Draft: 58
-	- Average Age: 80 days, 7 hours, and 19.96 minutes
+	- Average Age: 80 days, 11 hours, and 5.62 minutes
 	- Stop Label: 239
 	
 
