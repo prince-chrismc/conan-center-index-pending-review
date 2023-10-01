@@ -1163,11 +1163,21 @@
       "LastCommitAt": "2023-08-07T11:26:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-10-01T14:46:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18638#pullrequestreview-1651916230"
+         }
       }
    },
    {
@@ -5609,7 +5619,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20242",
       "LastCommitSHA": "8a7f4c44943f08e5099677d679a7931346304da4",
       "LastCommitAt": "2023-10-01T07:59:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
