@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **218** pull requests currently under way :detective:
+There are **220** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -245,6 +245,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20241](https://github.com/conan-io/conan-center-index/pull/20241)|[toge](https://github.com/toge)|Oct 1|:memo: ada|:blue_square: S|0|||
 [#20242](https://github.com/conan-io/conan-center-index/pull/20242)|[mayeut](https://github.com/mayeut)|Oct 1|:stopwatch: onnx|:green_circle: XS|0|||
 [#20243](https://github.com/conan-io/conan-center-index/pull/20243)|[mayeut](https://github.com/mayeut)|Oct 1|:stopwatch: qpdf|:green_circle: XS|0|||
+[#20244](https://github.com/conan-io/conan-center-index/pull/20244)|[mayeut](https://github.com/mayeut)|Oct 1|:stopwatch: libgd|:green_circle: XS|0|||
+[#20245](https://github.com/conan-io/conan-center-index/pull/20245)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 1|:stopwatch: openvino|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -282,9 +284,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 571
+	- Open: 573
 	- Draft: 58
-	- Average Age: 80 days, 8 hours, and 36.03 minutes
+	- Average Age: 80 days, 2 hours, and 48.91 minutes
 	- Stop Label: 238
 	
 
