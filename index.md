@@ -216,7 +216,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20074](https://github.com/conan-io/conan-center-index/pull/20074)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: nanodbc|M|2|Sep 29||
 [#20078](https://github.com/conan-io/conan-center-index/pull/20078)|[toge](https://github.com/toge)|Sep 22|:memo: libcoro|M|2|Oct 2||**RubenRBS**
 [#20080](https://github.com/conan-io/conan-center-index/pull/20080)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 22|:stopwatch: glibmm|:green_circle: XS|0|:eyes:||
-[#20089](https://github.com/conan-io/conan-center-index/pull/20089)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: protobuf|:green_circle: XS|0|:eyes:||
+[#20089](https://github.com/conan-io/conan-center-index/pull/20089)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: protobuf|:blue_square: S|0|||
 [#20090](https://github.com/conan-io/conan-center-index/pull/20090)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: onnx|:blue_square: S|1|Sep 23||
 [#20091](https://github.com/conan-io/conan-center-index/pull/20091)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: grpc-proto|:blue_square: S|0|:eyes:||
 [#20093](https://github.com/conan-io/conan-center-index/pull/20093)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:stopwatch: qt|L|2|Sep 25||
@@ -295,7 +295,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 585
 	- Draft: 62
-	- Average Age: 79 days, 7 hours, and 8.84 minutes
+	- Average Age: 79 days, 8 hours, and 6.70 minutes
 	- Stop Label: 241
 	
 
