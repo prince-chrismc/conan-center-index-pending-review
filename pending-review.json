@@ -3685,35 +3685,6 @@
       }
    },
    {
-      "Number": 19820,
-      "OpenedBy": "Nerixyz",
-      "CreatedAt": "2023-09-14T19:06:28Z",
-      "Recipe": "libavif",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19820",
-      "LastCommitSHA": "ae20a0e4fe4ad543c417dd0aaacf80171a97e352",
-      "LastCommitAt": "2023-09-29T12:29:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-09-18T12:38:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19820#pullrequestreview-1630949421"
-         }
-      }
-   },
-   {
       "Number": 19877,
       "OpenedBy": "GavinNL",
       "CreatedAt": "2023-09-16T03:30:20Z",
@@ -3945,22 +3916,24 @@
       "LastCommitAt": "2023-10-01T18:15:55Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
+         "Count": 5,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "czoido",
+               "Tier": "team"
             }
          ],
-         "Blockers": [
-            "czoido"
-         ],
+         "Blockers": [],
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-10-01T18:16:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19952#pullrequestreview-1651942302"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-10-02T05:46:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19952#pullrequestreview-1652131149"
          }
       }
    },
