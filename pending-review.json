@@ -4899,39 +4899,6 @@
       }
    },
    {
-      "Number": 20176,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-27T22:04:53Z",
-      "Recipe": "xlsxio",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20176",
-      "LastCommitSHA": "7135cd28167cd02ef41c5f042847bbb2a557589b",
-      "LastCommitAt": "2023-09-27T22:02:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-09-29T13:15:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20176#pullrequestreview-1650757037"
-         }
-      }
-   },
-   {
       "Number": 20177,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-27T22:12:58Z",
@@ -5550,7 +5517,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20249",
       "LastCommitSHA": "0ded38b49efb2b1c511b2629430059e7f010a471",
       "LastCommitAt": "2023-10-01T16:51:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 3,
