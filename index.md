@@ -252,7 +252,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **14** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -263,14 +263,13 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|**RubenRBS**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20157](https://github.com/conan-io/conan-center-index/pull/20157)|[SpaceIm](https://github.com/SpaceIm)|Sep 26|:warning: libcurl|2|**RubenRBS**, ericLemanissier
-[#20176](https://github.com/conan-io/conan-center-index/pull/20176)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:memo: xlsxio|2|**uilianries**, jwillikers
 [#20177](https://github.com/conan-io/conan-center-index/pull/20177)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:warning: pupnp|2|**uilianries**, jwillikers
 [#20178](https://github.com/conan-io/conan-center-index/pull/20178)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:memo: shapelib|3|jwillikers, **uilianries**
 [#20179](https://github.com/conan-io/conan-center-index/pull/20179)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:memo: streamvbyte|2|**uilianries**, jwillikers
 [#20180](https://github.com/conan-io/conan-center-index/pull/20180)|[SpaceIm](https://github.com/SpaceIm)|Sep 27|:warning: brotli|2|**uilianries**, jwillikers
 [#20181](https://github.com/conan-io/conan-center-index/pull/20181)|[SpaceIm](https://github.com/SpaceIm)|Sep 28|:warning: alembic|2|**uilianries**, jwillikers
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|2|ericLemanissier, **RubenRBS**
-[#20249](https://github.com/conan-io/conan-center-index/pull/20249)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 1|:warning: xkbcommon|3|SpaceIm, **RubenRBS**, jwillikers
+[#20249](https://github.com/conan-io/conan-center-index/pull/20249)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 1|:memo: xkbcommon|3|SpaceIm, **RubenRBS**, jwillikers
 
 
 #### :clipboard: Statistics
@@ -279,9 +278,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 567
+	- Open: 566
 	- Draft: 58
-	- Average Age: 81 days, 3 hours, and 18.06 minutes
+	- Average Age: 81 days, 7 hours, and 35.48 minutes
 	- Stop Label: 237
 	
 
