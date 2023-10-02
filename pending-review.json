@@ -4669,10 +4669,10 @@
       "CreatedAt": "2023-09-23T20:10:00Z",
       "Recipe": "protobuf",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20089",
-      "LastCommitSHA": "0275672d9100a723732f0d652244c732c73e4dc7",
-      "LastCommitAt": "2023-09-23T20:06:17Z",
+      "LastCommitSHA": "d985a28a336d1fca4b173856d8d333c9c96e9ec4",
+      "LastCommitAt": "2023-10-02T20:15:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
