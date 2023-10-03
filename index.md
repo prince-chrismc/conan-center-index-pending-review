@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **220** pull requests currently under way :detective:
+There are **222** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -240,6 +240,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20315](https://github.com/conan-io/conan-center-index/pull/20315)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: dlib|:green_circle: XS|0|||
 [#20316](https://github.com/conan-io/conan-center-index/pull/20316)|[valgur](https://github.com/valgur)|Oct 3|:memo: aws-kvs-pic|:blue_square: S|0|||
 [#20317](https://github.com/conan-io/conan-center-index/pull/20317)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: cub|:blue_square: S|0|||
+[#20318](https://github.com/conan-io/conan-center-index/pull/20318)|[jwillikers](https://github.com/jwillikers)|Oct 3|:new: libevdev|M|1|Oct 3||
 [#20319](https://github.com/conan-io/conan-center-index/pull/20319)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: hayai|M|0|||
 [#20320](https://github.com/conan-io/conan-center-index/pull/20320)|[jwillikers](https://github.com/jwillikers)|Oct 3|:stopwatch: mtdev|M|4|Oct 3||
 [#20321](https://github.com/conan-io/conan-center-index/pull/20321)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: libsgp4|M|0|||
@@ -247,17 +248,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20325](https://github.com/conan-io/conan-center-index/pull/20325)|[toge](https://github.com/toge)|Oct 3|:stopwatch: s2n|:green_circle: XS|0|||
 [#20326](https://github.com/conan-io/conan-center-index/pull/20326)|[Rdk-T](https://github.com/Rdk-T)|Oct 3|:stopwatch: kickcat|:green_circle: XS|0|||
 [#20327](https://github.com/conan-io/conan-center-index/pull/20327)|[toge](https://github.com/toge)|Oct 3|:stopwatch: immer|M|2|Oct 3||[valgur](https://github.com/valgur), **RubenRBS**
+[#20331](https://github.com/conan-io/conan-center-index/pull/20331)|[SpaceIm](https://github.com/SpaceIm)|Oct 3|:stopwatch: playrho|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **24** pull requests are waiting to be merged :tada:
+Currently **23** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|**RubenRBS**, SSE4
-[#18890](https://github.com/conan-io/conan-center-index/pull/18890)|[valgur](https://github.com/valgur)|Jul 24|:memo: libdrm|4|jwillikers, **RubenRBS**
 [#19231](https://github.com/conan-io/conan-center-index/pull/19231)|[valgur](https://github.com/valgur)|Aug 16|:memo: libselinux|8|jwillikers, **RubenRBS**
 [#19593](https://github.com/conan-io/conan-center-index/pull/19593)|[cesenaLA](https://github.com/cesenaLA)|Sep 4|:warning: libdwarf|5|**uilianries**, jwillikers
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:warning: newmat|2|**RubenRBS**, jwillikers
@@ -290,8 +291,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 609
 	- Draft: 64
-	- Average Age: 76 days, 17 hours, and 44.53 minutes
-	- Stop Label: 264
+	- Average Age: 76 days, 15 hours, and 54.85 minutes
+	- Stop Label: 263
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
