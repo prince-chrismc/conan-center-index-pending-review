@@ -5676,25 +5676,6 @@
       }
    },
    {
-      "Number": 20265,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2023-10-02T11:31:16Z",
-      "Recipe": "libglvnd",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20265",
-      "LastCommitSHA": "c9c051fc2df865f9020f071a0fdba5b75fd20313",
-      "LastCommitAt": "2023-10-02T14:13:34Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20274,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-10-02T12:54:33Z",
