@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **224** pull requests currently under way :detective:
+There are **223** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -86,7 +86,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18726](https://github.com/conan-io/conan-center-index/pull/18726)|[valgur](https://github.com/valgur)|Jul 20|:memo: twitch-native-ipc|L|1|Oct 3||**RubenRBS**
 [#18731](https://github.com/conan-io/conan-center-index/pull/18731)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: cglm|L|0|:eyes:||
 [#18732](https://github.com/conan-io/conan-center-index/pull/18732)|[valgur](https://github.com/valgur)|Jul 20|:memo: cgltf|L|0|:eyes:||
-[#18744](https://github.com/conan-io/conan-center-index/pull/18744)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: xege|L|1|Oct 3||**RubenRBS**
+[#18744](https://github.com/conan-io/conan-center-index/pull/18744)|[valgur](https://github.com/valgur)|Jul 20|:memo: xege|L|1|Oct 3||**RubenRBS**
 [#18746](https://github.com/conan-io/conan-center-index/pull/18746)|[valgur](https://github.com/valgur)|Jul 20|:memo: tweetnacl|L|1|Oct 3||**RubenRBS**
 [#18747](https://github.com/conan-io/conan-center-index/pull/18747)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: dime|L|0|:eyes:||
 [#18749](https://github.com/conan-io/conan-center-index/pull/18749)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: open-simulation-interface|L|0|:eyes:||
@@ -200,7 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20050](https://github.com/conan-io/conan-center-index/pull/20050)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: h5pp|:green_circle: XS|0|:eyes:||
 [#20066](https://github.com/conan-io/conan-center-index/pull/20066)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:new: ensmallen|M|0|||
 [#20070](https://github.com/conan-io/conan-center-index/pull/20070)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:stopwatch: atk|:blue_square: S|1|Sep 29||jwillikers
-[#20072](https://github.com/conan-io/conan-center-index/pull/20072)|[toge](https://github.com/toge)|Sep 21|:memo: libarchive|M|1|Sep 21||jwillikers
+[#20072](https://github.com/conan-io/conan-center-index/pull/20072)|[toge](https://github.com/toge)|Sep 21|:memo: libarchive|M|1|Sep 21 :bell:||jwillikers
 [#20074](https://github.com/conan-io/conan-center-index/pull/20074)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:memo: nanodbc|M|2|Sep 29||
 [#20089](https://github.com/conan-io/conan-center-index/pull/20089)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: protobuf|:blue_square: S|0|||
 [#20090](https://github.com/conan-io/conan-center-index/pull/20090)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: onnx|:blue_square: S|1|Sep 23||
@@ -230,9 +230,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20293](https://github.com/conan-io/conan-center-index/pull/20293)|[cqc-alec](https://github.com/cqc-alec)|Oct 3|:stopwatch: symengine|:green_circle: XS|0|||
 [#20298](https://github.com/conan-io/conan-center-index/pull/20298)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: cpp-peglib|:green_circle: XS|0|||
 [#20299](https://github.com/conan-io/conan-center-index/pull/20299)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: lerc|:green_circle: XS|0|||
-[#20300](https://github.com/conan-io/conan-center-index/pull/20300)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: caf|:green_circle: XS|0|||
-[#20303](https://github.com/conan-io/conan-center-index/pull/20303)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: picobench|:green_circle: XS|0|||
-[#20304](https://github.com/conan-io/conan-center-index/pull/20304)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: uwebsockets|:blue_square: S|0|||
+[#20300](https://github.com/conan-io/conan-center-index/pull/20300)|[valgur](https://github.com/valgur)|Oct 3|:memo: caf|:green_circle: XS|0|||
+[#20304](https://github.com/conan-io/conan-center-index/pull/20304)|[valgur](https://github.com/valgur)|Oct 3|:memo: uwebsockets|:blue_square: S|0|||
 [#20305](https://github.com/conan-io/conan-center-index/pull/20305)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: hdf5|:green_circle: XS|0|||
 [#20307](https://github.com/conan-io/conan-center-index/pull/20307)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: libmorton|:green_circle: XS|0|||
 [#20308](https://github.com/conan-io/conan-center-index/pull/20308)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: reactiveplusplus|:green_circle: XS|0|||
@@ -255,13 +254,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **26** pull requests are waiting to be merged :tada:
+Currently **25** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|**RubenRBS**, SSE4
-[#18638](https://github.com/conan-io/conan-center-index/pull/18638)|[valgur](https://github.com/valgur)|Jul 19|:memo: libxshmfence|2|jwillikers, **RubenRBS**
 [#18755](https://github.com/conan-io/conan-center-index/pull/18755)|[valgur](https://github.com/valgur)|Jul 20|:memo: playrho|2|toge, **RubenRBS**
 [#18890](https://github.com/conan-io/conan-center-index/pull/18890)|[valgur](https://github.com/valgur)|Jul 24|:memo: libdrm|4|jwillikers, **RubenRBS**
 [#19231](https://github.com/conan-io/conan-center-index/pull/19231)|[valgur](https://github.com/valgur)|Aug 16|:memo: libselinux|8|jwillikers, **RubenRBS**
@@ -294,9 +292,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 611
+	- Open: 610
 	- Draft: 64
-	- Average Age: 76 days, 15 hours, and 43.68 minutes
+	- Average Age: 76 days, 16 hours, and 38.33 minutes
 	- Stop Label: 261
 	
 
