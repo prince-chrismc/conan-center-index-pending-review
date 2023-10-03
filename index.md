@@ -240,9 +240,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20315](https://github.com/conan-io/conan-center-index/pull/20315)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: dlib|:green_circle: XS|0|||
 [#20316](https://github.com/conan-io/conan-center-index/pull/20316)|[valgur](https://github.com/valgur)|Oct 3|:memo: aws-kvs-pic|:blue_square: S|0|||
 [#20317](https://github.com/conan-io/conan-center-index/pull/20317)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: cub|:blue_square: S|0|||
-[#20318](https://github.com/conan-io/conan-center-index/pull/20318)|[jwillikers](https://github.com/jwillikers)|Oct 3|:new: libevdev|M|1|Oct 3||
+[#20318](https://github.com/conan-io/conan-center-index/pull/20318)|[jwillikers](https://github.com/jwillikers)|Oct 3|:new: libevdev|M|2|Oct 3||**RubenRBS**
 [#20319](https://github.com/conan-io/conan-center-index/pull/20319)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: hayai|M|0|||
-[#20320](https://github.com/conan-io/conan-center-index/pull/20320)|[jwillikers](https://github.com/jwillikers)|Oct 3|:stopwatch: mtdev|M|4|Oct 3||
+[#20320](https://github.com/conan-io/conan-center-index/pull/20320)|[jwillikers](https://github.com/jwillikers)|Oct 3|:new: mtdev|M|4|Oct 3||
 [#20321](https://github.com/conan-io/conan-center-index/pull/20321)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: libsgp4|M|0|||
 [#20322](https://github.com/conan-io/conan-center-index/pull/20322)|[valgur](https://github.com/valgur)|Oct 3|:stopwatch: litehtml|:blue_square: S|1|Oct 3||**RubenRBS**
 [#20325](https://github.com/conan-io/conan-center-index/pull/20325)|[toge](https://github.com/toge)|Oct 3|:stopwatch: s2n|:green_circle: XS|0|||
@@ -253,13 +253,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **23** pull requests are waiting to be merged :tada:
+Currently **22** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|**RubenRBS**, SSE4
-[#19231](https://github.com/conan-io/conan-center-index/pull/19231)|[valgur](https://github.com/valgur)|Aug 16|:memo: libselinux|8|jwillikers, **RubenRBS**
 [#19593](https://github.com/conan-io/conan-center-index/pull/19593)|[cesenaLA](https://github.com/cesenaLA)|Sep 4|:warning: libdwarf|5|**uilianries**, jwillikers
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:warning: newmat|2|**RubenRBS**, jwillikers
 [#19649](https://github.com/conan-io/conan-center-index/pull/19649)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 7|:warning: harfbuzz|2|**RubenRBS**, jwillikers
@@ -290,8 +289,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
 	- Open: 609
-	- Draft: 64
-	- Average Age: 76 days, 15 hours, and 54.85 minutes
+	- Draft: 65
+	- Average Age: 76 days, 15 hours, and 0.79 minutes
 	- Stop Label: 263
 	
 
