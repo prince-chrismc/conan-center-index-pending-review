@@ -221,7 +221,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20093](https://github.com/conan-io/conan-center-index/pull/20093)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:stopwatch: qt|L|2|Sep 25||
 [#20094](https://github.com/conan-io/conan-center-index/pull/20094)|[toge](https://github.com/toge)|Sep 24|:new: libenvpp|M|5|Oct 1||**RubenRBS**
 [#20097](https://github.com/conan-io/conan-center-index/pull/20097)|[mpusz](https://github.com/mpusz)|Sep 24|:stopwatch: mp-units|L|4|Sep 29||
-[#20101](https://github.com/conan-io/conan-center-index/pull/20101)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 25|:stopwatch: at-spi2-core|M|1|Sep 25||
+[#20101](https://github.com/conan-io/conan-center-index/pull/20101)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 25|:memo: at-spi2-core|M|1|Sep 25||
 [#20105](https://github.com/conan-io/conan-center-index/pull/20105)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: mold|:blue_square: S|1|Sep 27||
 [#20151](https://github.com/conan-io/conan-center-index/pull/20151)|[Slashcash](https://github.com/Slashcash)|Sep 25|:stopwatch: rocket|M|0|||
 [#20152](https://github.com/conan-io/conan-center-index/pull/20152)|[SpaceIm](https://github.com/SpaceIm)|Sep 25|:stopwatch: ffmpeg|:blue_square: S|1|Oct 2||**czoido**
@@ -290,7 +290,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 588
 	- Draft: 62
-	- Average Age: 79 days, 2 hours, and 2.24 minutes
+	- Average Age: 79 days, 3 hours, and 2.59 minutes
 	- Stop Label: 248
 	
 
