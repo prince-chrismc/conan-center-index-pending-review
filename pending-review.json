@@ -4650,7 +4650,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20177",
       "LastCommitSHA": "13f03ad6685fa811b88de455dea5efb5174d5b43",
       "LastCommitAt": "2023-10-02T06:53:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -5228,39 +5228,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 20295,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2023-10-03T10:03:32Z",
-      "Recipe": "hictk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20295",
-      "LastCommitSHA": "5c077f0728d9e602370ade40ada077394651dc64",
-      "LastCommitAt": "2023-10-02T18:24:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-03T13:00:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20295#pullrequestreview-1655154919"
-         }
       }
    },
    {
