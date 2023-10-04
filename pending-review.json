@@ -796,39 +796,6 @@
       }
    },
    {
-      "Number": 18360,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-05T19:33:20Z",
-      "Recipe": "libxpm",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18360",
-      "LastCommitSHA": "170376a23c5725793b52d34b5508eb76e2316c09",
-      "LastCommitAt": "2023-08-07T11:39:53Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-10-04T07:48:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18360#pullrequestreview-1656870850"
-         }
-      }
-   },
-   {
       "Number": 18367,
       "OpenedBy": "gegles",
       "CreatedAt": "2023-07-06T00:50:52Z",
