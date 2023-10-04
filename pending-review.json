@@ -4788,35 +4788,6 @@
       }
    },
    {
-      "Number": 20254,
-      "OpenedBy": "czoido",
-      "CreatedAt": "2023-10-02T08:30:29Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20254",
-      "LastCommitSHA": "e67f97fed1225bc9ea0e4307f43b4ac21cdf06c9",
-      "LastCommitAt": "2023-10-02T08:29:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-03T13:03:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20254#pullrequestreview-1655161362"
-         }
-      }
-   },
-   {
       "Number": 20259,
       "OpenedBy": "tux3",
       "CreatedAt": "2023-10-02T09:33:13Z",
@@ -5559,35 +5530,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-10-04T09:05:12Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20342#pullrequestreview-1657035282"
-         }
-      }
-   },
-   {
-      "Number": 20343,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-10-04T06:10:32Z",
-      "Recipe": "rpclib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20343",
-      "LastCommitSHA": "1194910834219cfa5fa936f0adbf345d49e2c7fd",
-      "LastCommitAt": "2023-10-04T06:09:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-10-04T09:05:31Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20343#pullrequestreview-1657035884"
          }
       }
    }
