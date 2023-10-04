@@ -233,21 +233,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **24** pull requests are waiting to be merged :tada:
+Currently **21** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|**RubenRBS**, SSE4
-[#18941](https://github.com/conan-io/conan-center-index/pull/18941)|[valgur](https://github.com/valgur)|Jul 28|:memo: libnetfilter_conntrack|2|**RubenRBS**, **czoido**
-[#18957](https://github.com/conan-io/conan-center-index/pull/18957)|[valgur](https://github.com/valgur)|Jul 28|:memo: liboping|2|**RubenRBS**, **czoido**
 [#19593](https://github.com/conan-io/conan-center-index/pull/19593)|[cesenaLA](https://github.com/cesenaLA)|Sep 4|:warning: libdwarf|5|**uilianries**, jwillikers
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:warning: newmat|2|**RubenRBS**, jwillikers
 [#19679](https://github.com/conan-io/conan-center-index/pull/19679)|[sykhro](https://github.com/sykhro)|Sep 8|:warning: sdl|2|**danimtb**, jwillikers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|**RubenRBS**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20073](https://github.com/conan-io/conan-center-index/pull/20073)|[bemehiser](https://github.com/bemehiser)|Sep 21|:warning: grpc|3|[coryan](https://github.com/coryan), **uilianries**, jwillikers
-[#20094](https://github.com/conan-io/conan-center-index/pull/20094)|[toge](https://github.com/toge)|Sep 24|:new: libenvpp|6|**RubenRBS**, **czoido**
 [#20152](https://github.com/conan-io/conan-center-index/pull/20152)|[SpaceIm](https://github.com/SpaceIm)|Sep 25|:warning: ffmpeg|2|**czoido**, jwillikers
 [#20187](https://github.com/conan-io/conan-center-index/pull/20187)|[alex-700](https://github.com/alex-700)|Sep 28|:new: s2geometry|2|**RubenRBS**, **czoido**
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|3|ericLemanissier, **RubenRBS**, **czoido**
@@ -270,9 +267,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 592
+	- Open: 589
 	- Draft: 66
-	- Average Age: 78 days, 1 hours, and 34.94 minutes
+	- Average Age: 78 days, 6 hours, and 14.22 minutes
 	- Stop Label: 267
 	
 
