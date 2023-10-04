@@ -1328,9 +1328,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18724",
-      "LastCommitSHA": "51a01d4e99aff19c2ac1394ea87891cae8c08e18",
-      "LastCommitAt": "2023-10-03T11:08:43Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "16ccac44a7b46c7a4786c823fc864acc87fe92be",
+      "LastCommitAt": "2023-10-04T06:14:58Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -1381,19 +1381,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18726",
-      "LastCommitSHA": "5db80bc49baa3fd8233e75f4099d155491a96539",
-      "LastCommitAt": "2023-09-20T11:40:42Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "307994bbc4fb067ac20548c5c2c69286902fc7c7",
+      "LastCommitAt": "2023-10-04T06:16:40Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
@@ -1429,9 +1424,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18732",
-      "LastCommitSHA": "9eb31b7238c6a334003ba622161697c19f02a8e4",
-      "LastCommitAt": "2023-08-15T12:44:32Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "048501e0ea0a2f8ec159999806274b506fd1e69d",
+      "LastCommitAt": "2023-10-04T06:13:20Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3017,39 +3012,6 @@
       }
    },
    {
-      "Number": 19501,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-08-30T11:33:42Z",
-      "Recipe": "libtool",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19501",
-      "LastCommitSHA": "0166858d88034be131dffa8eecff1c0edbe6471b",
-      "LastCommitAt": "2023-09-25T08:03:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-09-18T12:48:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19501#pullrequestreview-1630967356"
-         }
-      }
-   },
-   {
       "Number": 19508,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-08-30T22:12:24Z",
@@ -3428,39 +3390,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-09-07T08:36:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19633#pullrequestreview-1614880555"
-         }
-      }
-   },
-   {
-      "Number": 19649,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-09-07T10:19:50Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19649",
-      "LastCommitSHA": "1adf05a73519fbe534ca825fb0f75a4021ddb8b9",
-      "LastCommitAt": "2023-10-02T10:21:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-03T12:56:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19649#pullrequestreview-1655146239"
          }
       }
    },
@@ -5199,19 +5128,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20288",
-      "LastCommitSHA": "bedccc8e573ba807504565af170a0349e1375979",
-      "LastCommitAt": "2023-10-02T19:59:29Z",
+      "LastCommitSHA": "6319c0635247ea87b250a8142a65581a513f6fb3",
+      "LastCommitAt": "2023-10-04T06:07:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -5773,7 +5697,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20331",
       "LastCommitSHA": "506624c9ad1f56ce529a6f9a867d77a002b2dd72",
       "LastCommitAt": "2023-10-03T21:12:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5792,6 +5716,82 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20336",
       "LastCommitSHA": "1c830941ad20f735d71b4edcb74be5634f7b1b98",
       "LastCommitAt": "2023-10-03T23:19:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20340,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-10-04T06:02:07Z",
+      "Recipe": "libb2",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20340",
+      "LastCommitSHA": "a0f1a1ffb04a574853b3db9c44e7563a704ae769",
+      "LastCommitAt": "2023-10-04T06:01:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20341,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-10-04T06:05:09Z",
+      "Recipe": "qdbm",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20341",
+      "LastCommitSHA": "c271701001db00343068238c2f5927f5e2643672",
+      "LastCommitAt": "2023-10-04T06:04:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20342,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-10-04T06:08:55Z",
+      "Recipe": "uchardet",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20342",
+      "LastCommitSHA": "b7191e1539497a602a7f747290a3968b3b6045f3",
+      "LastCommitAt": "2023-10-04T06:07:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20343,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-10-04T06:10:32Z",
+      "Recipe": "rpclib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20343",
+      "LastCommitSHA": "1194910834219cfa5fa936f0adbf345d49e2c7fd",
+      "LastCommitAt": "2023-10-04T06:09:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
