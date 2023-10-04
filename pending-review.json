@@ -4288,39 +4288,6 @@
       }
    },
    {
-      "Number": 20187,
-      "OpenedBy": "alex-700",
-      "CreatedAt": "2023-09-28T16:20:56Z",
-      "Recipe": "s2geometry",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20187",
-      "LastCommitSHA": "895b329ad47f8b7aecd4574807c4c6dfca4d4593",
-      "LastCommitAt": "2023-10-01T18:02:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-10-04T14:55:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20187#pullrequestreview-1657764179"
-         }
-      }
-   },
-   {
       "Number": 20195,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2023-09-28T21:11:18Z",
@@ -4562,39 +4529,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-10-03T13:05:21Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20250#pullrequestreview-1655164692"
-         }
-      }
-   },
-   {
-      "Number": 20259,
-      "OpenedBy": "tux3",
-      "CreatedAt": "2023-10-02T09:33:13Z",
-      "Recipe": "android-ndk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20259",
-      "LastCommitSHA": "0b9cd28515e8c9786a402849d70d3bca3371f8a6",
-      "LastCommitAt": "2023-10-03T11:58:50Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-10-04T14:56:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20259#pullrequestreview-1657770091"
          }
       }
    },
