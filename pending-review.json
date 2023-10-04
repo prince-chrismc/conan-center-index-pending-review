@@ -4444,39 +4444,6 @@
       }
    },
    {
-      "Number": 20078,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-22T02:09:49Z",
-      "Recipe": "libcoro",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20078",
-      "LastCommitSHA": "eed5e6351f9bb01889a4429b6d02d5555d7c590c",
-      "LastCommitAt": "2023-10-01T16:19:04Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-03T12:58:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20078#pullrequestreview-1655150390"
-         }
-      }
-   },
-   {
       "Number": 20089,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-23T20:10:00Z",
