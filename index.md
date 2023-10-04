@@ -250,13 +250,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **14** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|**RubenRBS**, SSE4
-[#18360](https://github.com/conan-io/conan-center-index/pull/18360)|[valgur](https://github.com/valgur)|Jul 5|:memo: libxpm|2|**RubenRBS**, **franramirez688**
 [#18824](https://github.com/conan-io/conan-center-index/pull/18824)|[valgur](https://github.com/valgur)|Jul 22|:memo: libbasisu|2|**RubenRBS**, **franramirez688**
 [#19593](https://github.com/conan-io/conan-center-index/pull/19593)|[cesenaLA](https://github.com/cesenaLA)|Sep 4|:warning: libdwarf|5|**uilianries**, jwillikers
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:warning: newmat|2|**RubenRBS**, jwillikers
@@ -278,9 +277,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 601
+	- Open: 600
 	- Draft: 65
-	- Average Age: 77 days, 16 hours, and 11.67 minutes
+	- Average Age: 77 days, 16 hours, and 38.08 minutes
 	- Stop Label: 267
 	
 
