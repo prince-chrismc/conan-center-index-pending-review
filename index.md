@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **209** pull requests currently under way :detective:
+There are **210** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -229,6 +229,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20356](https://github.com/conan-io/conan-center-index/pull/20356)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 4|:stopwatch: aravis|:blue_square: S|0|||
 [#20361](https://github.com/conan-io/conan-center-index/pull/20361)|[valgur](https://github.com/valgur)|Oct 5|:memo: platform.exceptions|:blue_square: S|1|Oct 5||**RubenRBS**
 [#20364](https://github.com/conan-io/conan-center-index/pull/20364)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: harfbuzz|:green_circle: XS|0|||
+[#20367](https://github.com/conan-io/conan-center-index/pull/20367)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:memo: mpfr|M|1|Oct 5||**RubenRBS**
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|0|||
 [#20370](https://github.com/conan-io/conan-center-index/pull/20370)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: wasmtime|:blue_square: S|1|Oct 5||**RubenRBS**
 [#20371](https://github.com/conan-io/conan-center-index/pull/20371)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 5|:gear: .c3i|:green_circle: XS|1|Oct 5||**RubenRBS**
@@ -268,8 +269,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 587
 	- Draft: 64
-	- Average Age: 78 days, 23 hours, and 50.38 minutes
-	- Stop Label: 268
+	- Average Age: 79 days, and 43.92 minutes
+	- Stop Label: 267
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
