@@ -5371,5 +5371,62 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20385,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-05T22:30:13Z",
+      "Recipe": "xerces-c",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20385",
+      "LastCommitSHA": "b3a454223243180ab7419056213e2a90aa63d49e",
+      "LastCommitAt": "2023-10-05T22:29:26Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20386,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-05T22:50:51Z",
+      "Recipe": "netcdf",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20386",
+      "LastCommitSHA": "a4b61fa6f400827a3ef079ee17d6b2b68a2bbd44",
+      "LastCommitAt": "2023-10-05T22:49:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20387,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-05T23:01:45Z",
+      "Recipe": "libxslt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20387",
+      "LastCommitSHA": "93d11820d9889ccd83c0f69520506f910e8b0638",
+      "LastCommitAt": "2023-10-05T23:01:05Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
