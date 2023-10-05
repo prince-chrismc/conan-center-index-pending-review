@@ -4932,39 +4932,6 @@
       }
    },
    {
-      "Number": 20331,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-10-03T21:13:27Z",
-      "Recipe": "playrho",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20331",
-      "LastCommitSHA": "506624c9ad1f56ce529a6f9a867d77a002b2dd72",
-      "LastCommitAt": "2023-10-03T21:12:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-10-04T14:55:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20331#pullrequestreview-1657760416"
-         }
-      }
-   },
-   {
       "Number": 20336,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-10-03T23:22:09Z",
