@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **212** pull requests currently under way :detective:
+There are **215** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -239,6 +239,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20377](https://github.com/conan-io/conan-center-index/pull/20377)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: dcmtk|M|1|Oct 5||**RubenRBS**
 [#20382](https://github.com/conan-io/conan-center-index/pull/20382)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: libgphoto2|:green_circle: XS|0|||
 [#20384](https://github.com/conan-io/conan-center-index/pull/20384)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: cfitsio|:green_circle: XS|0|||
+[#20385](https://github.com/conan-io/conan-center-index/pull/20385)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: xerces-c|:green_circle: XS|0|||
+[#20386](https://github.com/conan-io/conan-center-index/pull/20386)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: netcdf|:green_circle: XS|0|||
+[#20387](https://github.com/conan-io/conan-center-index/pull/20387)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: libxslt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -269,9 +272,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 589
+	- Open: 592
 	- Draft: 64
-	- Average Age: 78 days, 20 hours, and 8.45 minutes
+	- Average Age: 78 days, 11 hours, and 34.94 minutes
 	- Stop Label: 267
 	
 
