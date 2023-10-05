@@ -234,7 +234,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -251,7 +251,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20215](https://github.com/conan-io/conan-center-index/pull/20215)|[RubenRBS](https://github.com/RubenRBS)|Sep 29|:warning: thrift|2|**czoido**, jwillikers
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20327](https://github.com/conan-io/conan-center-index/pull/20327)|[toge](https://github.com/toge)|Oct 3|:warning: immer|3|[valgur](https://github.com/valgur), **RubenRBS**, **franramirez688**
-[#20331](https://github.com/conan-io/conan-center-index/pull/20331)|[SpaceIm](https://github.com/SpaceIm)|Oct 3|:memo: playrho|3|**RubenRBS**, **czoido**
 [#20340](https://github.com/conan-io/conan-center-index/pull/20340)|[valgur](https://github.com/valgur)|Oct 4|:memo: libb2|2|**RubenRBS**, jwillikers
 [#20341](https://github.com/conan-io/conan-center-index/pull/20341)|[valgur](https://github.com/valgur)|Oct 4|:memo: qdbm|2|**RubenRBS**, **czoido**
 [#20342](https://github.com/conan-io/conan-center-index/pull/20342)|[valgur](https://github.com/valgur)|Oct 4|:memo: uchardet|2|**RubenRBS**, **czoido**
@@ -263,9 +262,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 587
+	- Open: 586
 	- Draft: 68
-	- Average Age: 78 days, 12 hours, and 0.13 minutes
+	- Average Age: 78 days, 15 hours, and 38.99 minutes
 	- Stop Label: 266
 	
 
