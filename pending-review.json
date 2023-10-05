@@ -4183,19 +4183,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20186",
-      "LastCommitSHA": "e1d5022fe44d7a239a4a249ea85d313a8b3ad8e1",
-      "LastCommitAt": "2023-09-28T13:55:31Z",
+      "LastCommitSHA": "ff70a3d2506ac07cd9ce4497534c727996c5e30a",
+      "LastCommitAt": "2023-10-05T10:44:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
@@ -5152,6 +5147,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20364",
       "LastCommitSHA": "1b77e21e9476c0c5f2054394d8ac983b292e2319",
       "LastCommitAt": "2023-10-05T08:14:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20369,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-05T11:04:45Z",
+      "Recipe": "pipes",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20369",
+      "LastCommitSHA": "df42e78bdffe8b5ac5cdc2b843295972e7265ee2",
+      "LastCommitAt": "2023-10-05T11:03:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
