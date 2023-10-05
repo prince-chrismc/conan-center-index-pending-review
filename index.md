@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **211** pull requests currently under way :detective:
+There are **213** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -238,6 +238,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20373](https://github.com/conan-io/conan-center-index/pull/20373)|[jwillikers](https://github.com/jwillikers)|Oct 5|:new: libblkid|M|0|||
 [#20374](https://github.com/conan-io/conan-center-index/pull/20374)|[FranzPoize](https://github.com/FranzPoize)|Oct 5|:stopwatch: implot|:blue_square: S|0|||
 [#20377](https://github.com/conan-io/conan-center-index/pull/20377)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: dcmtk|M|1|Oct 5||**RubenRBS**
+[#20382](https://github.com/conan-io/conan-center-index/pull/20382)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: libgphoto2|:green_circle: XS|0|||
+[#20384](https://github.com/conan-io/conan-center-index/pull/20384)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: cfitsio|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -268,9 +270,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 588
+	- Open: 590
 	- Draft: 64
-	- Average Age: 78 days, 22 hours, and 33.59 minutes
+	- Average Age: 78 days, 17 hours, and 5.84 minutes
 	- Stop Label: 267
 	
 
