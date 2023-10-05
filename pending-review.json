@@ -5357,5 +5357,43 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20377#pullrequestreview-1660179369"
          }
       }
+   },
+   {
+      "Number": 20382,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-05T20:55:11Z",
+      "Recipe": "libgphoto2",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20382",
+      "LastCommitSHA": "9e04e8aa71563f5d77b6381bb07d0fd529b6fddc",
+      "LastCommitAt": "2023-10-05T20:54:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20384,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-05T21:04:02Z",
+      "Recipe": "cfitsio",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20384",
+      "LastCommitSHA": "749a2c24799e77c06f82782118f59b7e390ecd30",
+      "LastCommitAt": "2023-10-05T21:03:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
