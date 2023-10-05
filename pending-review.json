@@ -5231,5 +5231,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20375,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-10-05T13:27:59Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20375",
+      "LastCommitSHA": "bba14cc046b0696f5cd65905f635a5edb609ac0f",
+      "LastCommitAt": "2023-10-05T13:25:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
