@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **216** pull requests currently under way :detective:
+There are **214** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -229,19 +229,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20353](https://github.com/conan-io/conan-center-index/pull/20353)|[jwillikers](https://github.com/jwillikers)|Oct 4|:memo: util-linux-libuuid|:green_circle: XS|1|Oct 5||**RubenRBS**
 [#20356](https://github.com/conan-io/conan-center-index/pull/20356)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 4|:stopwatch: aravis|:blue_square: S|0|||
 [#20361](https://github.com/conan-io/conan-center-index/pull/20361)|[valgur](https://github.com/valgur)|Oct 5|:memo: platform.exceptions|:blue_square: S|1|Oct 5||**RubenRBS**
-[#20364](https://github.com/conan-io/conan-center-index/pull/20364)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: harfbuzz|:green_circle: XS|0|||
 [#20367](https://github.com/conan-io/conan-center-index/pull/20367)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:memo: mpfr|M|1|Oct 5||**RubenRBS**
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|0|||
 [#20370](https://github.com/conan-io/conan-center-index/pull/20370)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: wasmtime|:blue_square: S|1|Oct 5||**RubenRBS**
 [#20371](https://github.com/conan-io/conan-center-index/pull/20371)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 5|:gear: .c3i|:green_circle: XS|1|Oct 5||**RubenRBS**
-[#20372](https://github.com/conan-io/conan-center-index/pull/20372)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: usockets|M|1|Oct 5||**RubenRBS**
+[#20372](https://github.com/conan-io/conan-center-index/pull/20372)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:memo: usockets|M|1|Oct 5||**RubenRBS**
 [#20373](https://github.com/conan-io/conan-center-index/pull/20373)|[jwillikers](https://github.com/jwillikers)|Oct 5|:new: libblkid|M|0|||
 [#20374](https://github.com/conan-io/conan-center-index/pull/20374)|[FranzPoize](https://github.com/FranzPoize)|Oct 5|:stopwatch: implot|:blue_square: S|0|||
 [#20377](https://github.com/conan-io/conan-center-index/pull/20377)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: dcmtk|M|1|Oct 5||**RubenRBS**
 [#20382](https://github.com/conan-io/conan-center-index/pull/20382)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: libgphoto2|:green_circle: XS|0|||
 [#20384](https://github.com/conan-io/conan-center-index/pull/20384)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: cfitsio|:green_circle: XS|0|||
 [#20385](https://github.com/conan-io/conan-center-index/pull/20385)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: xerces-c|:green_circle: XS|0|||
-[#20386](https://github.com/conan-io/conan-center-index/pull/20386)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: netcdf|:green_circle: XS|0|||
 [#20387](https://github.com/conan-io/conan-center-index/pull/20387)|[mayeut](https://github.com/mayeut)|Oct 5|:stopwatch: libxslt|:green_circle: XS|0|||
 
 
@@ -272,9 +270,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 591
-	- Draft: 64
-	- Average Age: 78 days, 20 hours, and 11.76 minutes
+	- Open: 590
+	- Draft: 63
+	- Average Age: 79 days, and 26.19 minutes
 	- Stop Label: 266
 	
 
