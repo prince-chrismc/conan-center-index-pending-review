@@ -3305,15 +3305,24 @@
       "LastCommitAt": "2023-09-22T23:15:42Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            },
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-19T18:50:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19877#pullrequestreview-1633983958"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-10-06T10:31:31Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19877#pullrequestreview-1661582967"
          }
       }
    },
@@ -3406,25 +3415,6 @@
             "SubmittedAt": "2023-09-20T18:54:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19920#pullrequestreview-1636306172"
          }
-      }
-   },
-   {
-      "Number": 19929,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-17T15:44:15Z",
-      "Recipe": "btyacc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19929",
-      "LastCommitSHA": "4aa2dee9c4b93905eb1ac2819f92e3d9ccc66d53",
-      "LastCommitAt": "2023-09-17T18:43:34Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -3911,8 +3901,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20080",
-      "LastCommitSHA": "536898e7b577ef45f129d1fdffe7c20f9b7ab3b3",
-      "LastCommitAt": "2023-10-06T09:42:56Z",
+      "LastCommitSHA": "6faa8c4eaf1883149e0c6edba78ebbfb7f0ea9e8",
+      "LastCommitAt": "2023-10-06T11:11:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
