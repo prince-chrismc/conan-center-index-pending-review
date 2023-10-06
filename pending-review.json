@@ -4012,43 +4012,6 @@
       }
    },
    {
-      "Number": 20213,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-09-29T22:03:57Z",
-      "Recipe": "fltk",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20213",
-      "LastCommitSHA": "0b67437350f0f895228e16d75ca9d8b2f76bc548",
-      "LastCommitAt": "2023-09-29T22:03:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-10-03T14:35:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20213#pullrequestreview-1655377505"
-         }
-      }
-   },
-   {
       "Number": 20215,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-09-29T22:17:18Z",
