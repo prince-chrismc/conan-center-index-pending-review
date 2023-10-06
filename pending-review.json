@@ -4191,7 +4191,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20250",
       "LastCommitSHA": "18e1fe247bb5fefe009d9f0cc325d807ef2c0d6d",
       "LastCommitAt": "2023-10-06T17:49:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -4559,7 +4559,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20317",
       "LastCommitSHA": "252bf116925731439b815a3b4cccd021a1dad7d2",
       "LastCommitAt": "2023-10-03T12:19:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5020,7 +5020,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20377",
       "LastCommitSHA": "bd94b4b7c7f2d566efb55d49ee027c1ddb2f7307",
       "LastCommitAt": "2023-10-06T17:43:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -5051,8 +5051,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20385",
-      "LastCommitSHA": "19b3f5f49b6aea3cb5d867dde0ece2f92bc12ded",
-      "LastCommitAt": "2023-10-06T20:08:05Z",
+      "LastCommitSHA": "a78f25003c78c5e9d715e694ec2ed215f0c8f00c",
+      "LastCommitAt": "2023-10-06T20:49:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 4,
@@ -5098,6 +5098,44 @@
             "SubmittedAt": "2023-10-06T15:57:55Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20390#pullrequestreview-1662194912"
          }
+      }
+   },
+   {
+      "Number": 20395,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-06T20:27:13Z",
+      "Recipe": "prometheus-cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20395",
+      "LastCommitSHA": "9c069f692dbc7b69d5f9a232de83a351c372a511",
+      "LastCommitAt": "2023-10-06T20:26:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20397,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-06T21:06:28Z",
+      "Recipe": "sentry-native",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20397",
+      "LastCommitSHA": "17ceb04a11ac71d683f6b3a244620a3d6e0d7d53",
+      "LastCommitAt": "2023-10-06T21:05:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
