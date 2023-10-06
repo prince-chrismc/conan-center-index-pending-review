@@ -5105,25 +5105,6 @@
       }
    },
    {
-      "Number": 20364,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-10-05T08:15:09Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20364",
-      "LastCommitSHA": "1b77e21e9476c0c5f2054394d8ac983b292e2319",
-      "LastCommitAt": "2023-10-05T08:14:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20367,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-10-05T09:07:14Z",
@@ -5239,7 +5220,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20372",
       "LastCommitSHA": "623190ea9f17c59741b64733c7d9b1bc16779552",
       "LastCommitAt": "2023-10-05T11:42:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5373,25 +5354,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20385",
       "LastCommitSHA": "b3a454223243180ab7419056213e2a90aa63d49e",
       "LastCommitAt": "2023-10-05T22:29:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20386,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-05T22:50:51Z",
-      "Recipe": "netcdf",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20386",
-      "LastCommitSHA": "a4b61fa6f400827a3ef079ee17d6b2b68a2bbd44",
-      "LastCommitAt": "2023-10-05T22:49:57Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
