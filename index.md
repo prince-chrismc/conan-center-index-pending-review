@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **208** pull requests currently under way :detective:
+There are **207** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -148,7 +148,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19618](https://github.com/conan-io/conan-center-index/pull/19618)|[valgur](https://github.com/valgur)|Sep 6|:memo: cn-cbor|:blue_square: S|0|:eyes:||
 [#19619](https://github.com/conan-io/conan-center-index/pull/19619)|[toge](https://github.com/toge)|Sep 6|:memo: wasmedge|M|1|Sep 6 :bell:||
 [#19631](https://github.com/conan-io/conan-center-index/pull/19631)|[technic](https://github.com/technic)|Sep 6|:stopwatch: qt|:green_circle: XS|3|Sep 11 :bell:||MartinDelille
-[#19633](https://github.com/conan-io/conan-center-index/pull/19633)|[paulharris](https://github.com/paulharris)|Sep 6|:stopwatch: sentry-crashpad|M|2|Oct 6||**danimtb**
 [#19659](https://github.com/conan-io/conan-center-index/pull/19659)|[mayeut](https://github.com/mayeut)|Sep 7|:memo: abseil|L|2|Sep 20 :bell:||[Hopobcn](https://github.com/Hopobcn)
 [#19678](https://github.com/conan-io/conan-center-index/pull/19678)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 8|:memo: onetbb|:green_circle: XS|1|Sep 29||jwillikers
 [#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:stopwatch: oatpp-sqlite|:blue_square: S|0|:eyes:||
@@ -245,8 +244,8 @@ Currently **14** pull requests are waiting to be merged :tada:
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17457](https://github.com/conan-io/conan-center-index/pull/17457)|[jwillikers](https://github.com/jwillikers)|May 8|:warning: libtool|2|**RubenRBS**, SSE4
-[#18725](https://github.com/conan-io/conan-center-index/pull/18725)|[valgur](https://github.com/valgur)|Jul 20|:warning: easylzma|2|**RubenRBS**, **danimtb**
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:warning: newmat|2|**RubenRBS**, jwillikers
+[#19633](https://github.com/conan-io/conan-center-index/pull/19633)|[paulharris](https://github.com/paulharris)|Sep 6|:memo: sentry-crashpad|3|**danimtb**, **RubenRBS**
 [#19679](https://github.com/conan-io/conan-center-index/pull/19679)|[sykhro](https://github.com/sykhro)|Sep 8|:warning: sdl|2|**danimtb**, jwillikers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|**RubenRBS**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
@@ -266,10 +265,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: f343d9f671fae5d7ce58c1086aa48076792c9a48
 - Pull Requests:
-	- Open: 583
+	- Open: 581
 	- Draft: 63
-	- Average Age: 80 days, and 29.41 minutes
-	- Stop Label: 262
+	- Average Age: 80 days, 4 hours, and 43.16 minutes
+	- Stop Label: 260
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
