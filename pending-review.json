@@ -4875,30 +4875,6 @@
       }
    },
    {
-      "Number": 20385,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-05T22:30:13Z",
-      "Recipe": "xerces-c",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20385",
-      "LastCommitSHA": "a78f25003c78c5e9d715e694ec2ed215f0c8f00c",
-      "LastCommitAt": "2023-10-06T20:49:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-10-06T20:05:55Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20385#pullrequestreview-1662730646"
-         }
-      }
-   },
-   {
       "Number": 20390,
       "OpenedBy": "fschoenm",
       "CreatedAt": "2023-10-06T09:24:33Z",
