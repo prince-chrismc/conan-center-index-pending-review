@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **210** pull requests currently under way :detective:
+There are **209** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -229,7 +229,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20402](https://github.com/conan-io/conan-center-index/pull/20402)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: mariadb-connector-c|:green_circle: XS|0|||
 [#20403](https://github.com/conan-io/conan-center-index/pull/20403)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libmediainfo|:green_circle: XS|0|||
 [#20404](https://github.com/conan-io/conan-center-index/pull/20404)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libbigwig|:green_circle: XS|0|||
-[#20405](https://github.com/conan-io/conan-center-index/pull/20405)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libsixel|:green_circle: XS|0|||
 [#20406](https://github.com/conan-io/conan-center-index/pull/20406)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
 [#20407](https://github.com/conan-io/conan-center-index/pull/20407)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: czmq|:green_circle: XS|0|||
 [#20408](https://github.com/conan-io/conan-center-index/pull/20408)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: imutils-cpp|:green_circle: XS|0|||
@@ -267,7 +266,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 584
 	- Draft: 62
-	- Average Age: 80 days, 3 hours, and 24.59 minutes
+	- Average Age: 80 days, 4 hours, and 16.57 minutes
 	- Stop Label: 261
 	
 
