@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **210** pull requests currently under way :detective:
+There are **208** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -227,16 +227,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20399](https://github.com/conan-io/conan-center-index/pull/20399)|[seladb](https://github.com/seladb)|Oct 7|:memo: npcap|:blue_square: S|0|||
 [#20400](https://github.com/conan-io/conan-center-index/pull/20400)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: tesseract|:green_circle: XS|0|||
 [#20401](https://github.com/conan-io/conan-center-index/pull/20401)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: librdkafka|L|0|||
-[#20403](https://github.com/conan-io/conan-center-index/pull/20403)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libmediainfo|:green_circle: XS|0|||
 [#20406](https://github.com/conan-io/conan-center-index/pull/20406)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
-[#20407](https://github.com/conan-io/conan-center-index/pull/20407)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: czmq|:green_circle: XS|0|||
-[#20408](https://github.com/conan-io/conan-center-index/pull/20408)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: imutils-cpp|:green_circle: XS|0|||
-[#20410](https://github.com/conan-io/conan-center-index/pull/20410)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libucl|:green_circle: XS|0|||
+[#20410](https://github.com/conan-io/conan-center-index/pull/20410)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: libucl|:green_circle: XS|0|||
 [#20411](https://github.com/conan-io/conan-center-index/pull/20411)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: ulfius|:blue_square: S|0|||
-[#20412](https://github.com/conan-io/conan-center-index/pull/20412)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: tixi3|M|0|||
+[#20412](https://github.com/conan-io/conan-center-index/pull/20412)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: tixi3|M|0|||
 [#20413](https://github.com/conan-io/conan-center-index/pull/20413)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: cocoyaxi|:green_circle: XS|0|||
 [#20414](https://github.com/conan-io/conan-center-index/pull/20414)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: yder|:blue_square: S|0|||
 [#20415](https://github.com/conan-io/conan-center-index/pull/20415)|[toge](https://github.com/toge)|Oct 7|:stopwatch: iowow|M|0|||
+[#20417](https://github.com/conan-io/conan-center-index/pull/20417)|[SpaceIm](https://github.com/SpaceIm)|Oct 7|:stopwatch: samarium|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -265,9 +263,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 584
+	- Open: 585
 	- Draft: 62
-	- Average Age: 80 days, 7 hours, and 15.64 minutes
+	- Average Age: 80 days, 4 hours, and 53.93 minutes
 	- Stop Label: 261
 	
 
