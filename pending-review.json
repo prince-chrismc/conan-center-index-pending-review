@@ -4949,5 +4949,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20399,
+      "OpenedBy": "seladb",
+      "CreatedAt": "2023-10-07T02:44:35Z",
+      "Recipe": "npcap",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20399",
+      "LastCommitSHA": "320dfaab399c6f9819a86acbcfcaa0a89cff7710",
+      "LastCommitAt": "2023-10-07T04:12:38Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
