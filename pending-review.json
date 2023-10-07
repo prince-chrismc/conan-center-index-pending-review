@@ -4970,25 +4970,6 @@
       }
    },
    {
-      "Number": 20400,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-07T08:26:34Z",
-      "Recipe": "tesseract",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20400",
-      "LastCommitSHA": "7363b1f9b7afa150ca7d36f4bd51cb35c3c71362",
-      "LastCommitAt": "2023-10-07T08:25:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20401,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-10-07T09:01:49Z",
@@ -5112,7 +5093,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20414",
       "LastCommitSHA": "7d25b7010d6058aaaf7e887dcac3eccb004e42f8",
       "LastCommitAt": "2023-10-07T14:07:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
