@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **198** pull requests currently under way :detective:
+There are **207** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -225,6 +225,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20399](https://github.com/conan-io/conan-center-index/pull/20399)|[seladb](https://github.com/seladb)|Oct 7|:memo: npcap|:blue_square: S|0|||
 [#20400](https://github.com/conan-io/conan-center-index/pull/20400)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: tesseract|:green_circle: XS|0|||
 [#20401](https://github.com/conan-io/conan-center-index/pull/20401)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: librdkafka|L|0|||
+[#20402](https://github.com/conan-io/conan-center-index/pull/20402)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: mariadb-connector-c|:green_circle: XS|0|||
+[#20403](https://github.com/conan-io/conan-center-index/pull/20403)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libmediainfo|:green_circle: XS|0|||
+[#20404](https://github.com/conan-io/conan-center-index/pull/20404)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libbigwig|:green_circle: XS|0|||
+[#20405](https://github.com/conan-io/conan-center-index/pull/20405)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libsixel|:green_circle: XS|0|||
+[#20406](https://github.com/conan-io/conan-center-index/pull/20406)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
+[#20407](https://github.com/conan-io/conan-center-index/pull/20407)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: czmq|:green_circle: XS|0|||
+[#20408](https://github.com/conan-io/conan-center-index/pull/20408)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: imutils-cpp|:green_circle: XS|0|||
+[#20409](https://github.com/conan-io/conan-center-index/pull/20409)|[igormironchik](https://github.com/igormironchik)|Oct 7|:stopwatch: md4qt|:green_circle: XS|0|||
+[#20410](https://github.com/conan-io/conan-center-index/pull/20410)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: libucl|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -253,9 +262,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 572
+	- Open: 581
 	- Draft: 62
-	- Average Age: 81 days, 16 hours, and 32.52 minutes
+	- Average Age: 80 days, 11 hours, and 10.31 minutes
 	- Stop Label: 262
 	
 
