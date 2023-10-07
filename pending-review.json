@@ -4338,7 +4338,7 @@
       "LastCommitAt": "2023-10-02T19:22:54Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -4349,9 +4349,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-03T13:03:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20287#pullrequestreview-1655160190"
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-10-07T21:23:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20287#pullrequestreview-1663109971"
          }
       }
    },
