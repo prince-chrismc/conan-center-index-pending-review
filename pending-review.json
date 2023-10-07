@@ -5041,25 +5041,6 @@
       }
    },
    {
-      "Number": 20405,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-07T09:31:53Z",
-      "Recipe": "libsixel",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20405",
-      "LastCommitSHA": "46b433aac7e9a7909d57cfefddc78e04870a40c7",
-      "LastCommitAt": "2023-10-07T09:31:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20406,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-10-07T09:38:48Z",
