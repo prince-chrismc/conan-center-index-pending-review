@@ -4097,25 +4097,6 @@
       }
    },
    {
-      "Number": 20235,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-09-30T14:43:22Z",
-      "Recipe": "cocoyaxi",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20235",
-      "LastCommitSHA": "ce2347dfed4881b1222a13dec9b158939a2f3b39",
-      "LastCommitAt": "2023-09-30T14:42:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20245,
       "OpenedBy": "ilya-lavrenov",
       "CreatedAt": "2023-10-01T09:11:59Z",
@@ -5081,11 +5062,21 @@
       "LastCommitAt": "2023-10-07T17:16:45Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "toge",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "toge",
+            "SubmittedAt": "2023-10-08T04:30:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20413#pullrequestreview-1663154438"
+         }
       }
    },
    {
