@@ -246,7 +246,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20436](https://github.com/conan-io/conan-center-index/pull/20436)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cpp-jwt|:green_circle: XS|0|||
 [#20437](https://github.com/conan-io/conan-center-index/pull/20437)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: c-client|:green_circle: XS|0|||
 [#20439](https://github.com/conan-io/conan-center-index/pull/20439)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: simple-websocket-server|:green_circle: XS|0|||
-[#20440](https://github.com/conan-io/conan-center-index/pull/20440)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: cmake|:blue_square: S|0|||
+[#20440](https://github.com/conan-io/conan-center-index/pull/20440)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cmake|:blue_square: S|0|||
 [#20442](https://github.com/conan-io/conan-center-index/pull/20442)|[toge](https://github.com/toge)|Oct 8|:stopwatch: chunkio|M|0|||
 
 
@@ -277,8 +277,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
 	- Open: 600
-	- Draft: 63
-	- Average Age: 79 days, 5 hours, and 49.89 minutes
+	- Draft: 64
+	- Average Age: 79 days, 6 hours, and 51.65 minutes
 	- Stop Label: 261
 	
 
