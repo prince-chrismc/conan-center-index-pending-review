@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **220** pull requests currently under way :detective:
+There are **225** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -220,7 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|0|:eyes:||
 [#20371](https://github.com/conan-io/conan-center-index/pull/20371)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 5|:gear: .c3i|:green_circle: XS|1|Oct 5||**RubenRBS**
 [#20373](https://github.com/conan-io/conan-center-index/pull/20373)|[jwillikers](https://github.com/jwillikers)|Oct 5|:new: libblkid|M|0|:eyes:||
-[#20374](https://github.com/conan-io/conan-center-index/pull/20374)|[FranzPoize](https://github.com/FranzPoize)|Oct 5|:stopwatch: implot|:blue_square: S|0|||
+[#20374](https://github.com/conan-io/conan-center-index/pull/20374)|[FranzPoize](https://github.com/FranzPoize)|Oct 5|:stopwatch: implot|:blue_square: S|0|:eyes:||
 [#20385](https://github.com/conan-io/conan-center-index/pull/20385)|[mayeut](https://github.com/mayeut)|Oct 5|:memo: xerces-c|:green_circle: XS|5|Oct 7||
 [#20388](https://github.com/conan-io/conan-center-index/pull/20388)|[toge](https://github.com/toge)|Oct 6|:new: fast_io|M|1|Oct 6||
 [#20390](https://github.com/conan-io/conan-center-index/pull/20390)|[fschoenm](https://github.com/fschoenm)|Oct 6|:memo: mbits-mstch|:green_circle: XS|2|Oct 6||[mzdun](https://github.com/mzdun), **RubenRBS**
@@ -247,6 +247,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20433](https://github.com/conan-io/conan-center-index/pull/20433)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libmysqlclient|:green_circle: XS|0|||
 [#20434](https://github.com/conan-io/conan-center-index/pull/20434)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libpq|:green_circle: XS|0|||
 [#20435](https://github.com/conan-io/conan-center-index/pull/20435)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: hazelcast-cpp-client|L|0|||
+[#20436](https://github.com/conan-io/conan-center-index/pull/20436)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: cpp-jwt|:green_circle: XS|0|||
+[#20437](https://github.com/conan-io/conan-center-index/pull/20437)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: c-client|:green_circle: XS|0|||
+[#20438](https://github.com/conan-io/conan-center-index/pull/20438)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cmake|:green_circle: XS|0|||
+[#20439](https://github.com/conan-io/conan-center-index/pull/20439)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: simple-websocket-server|:green_circle: XS|0|||
+[#20440](https://github.com/conan-io/conan-center-index/pull/20440)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: cmake|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -275,10 +280,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 596
+	- Open: 601
 	- Draft: 63
-	- Average Age: 79 days, 12 hours, and 38.22 minutes
-	- Stop Label: 261
+	- Average Age: 78 days, 21 hours, and 43.03 minutes
+	- Stop Label: 260
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
