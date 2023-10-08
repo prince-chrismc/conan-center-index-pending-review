@@ -5294,25 +5294,6 @@
       }
    },
    {
-      "Number": 20432,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-08T12:17:20Z",
-      "Recipe": "civetweb",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20432",
-      "LastCommitSHA": "4ac36d1764b078981d1e201cb75bbabe9f0eac67",
-      "LastCommitAt": "2023-10-08T12:16:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20433,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-10-08T12:42:24Z",
@@ -5360,7 +5341,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20436",
       "LastCommitSHA": "342a818cb9b4e4f5077cf2b62293f8164892b03d",
       "LastCommitAt": "2023-10-08T13:14:46Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5398,7 +5379,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20439",
       "LastCommitSHA": "ded236fd8c440a30955d5b7b0466621bff46263c",
       "LastCommitAt": "2023-10-08T13:46:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
