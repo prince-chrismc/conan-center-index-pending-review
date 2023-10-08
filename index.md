@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **225** pull requests currently under way :detective:
+There are **224** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -238,7 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20423](https://github.com/conan-io/conan-center-index/pull/20423)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: opentdf-client|M|0|||
 [#20424](https://github.com/conan-io/conan-center-index/pull/20424)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: tmx|:green_circle: XS|0|||
 [#20425](https://github.com/conan-io/conan-center-index/pull/20425)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libmetalink|:green_circle: XS|0|||
-[#20426](https://github.com/conan-io/conan-center-index/pull/20426)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: tcp-wrappers|:blue_square: S|0|||
+[#20426](https://github.com/conan-io/conan-center-index/pull/20426)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: tcp-wrappers|:blue_square: S|0|||
 [#20427](https://github.com/conan-io/conan-center-index/pull/20427)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: norm|:green_circle: XS|0|||
 [#20429](https://github.com/conan-io/conan-center-index/pull/20429)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libwebsockets|:green_circle: XS|0|||
 [#20430](https://github.com/conan-io/conan-center-index/pull/20430)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: twitch-native-ipc|:blue_square: S|0|||
@@ -246,7 +246,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20432](https://github.com/conan-io/conan-center-index/pull/20432)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: civetweb|:green_circle: XS|0|||
 [#20433](https://github.com/conan-io/conan-center-index/pull/20433)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libmysqlclient|:green_circle: XS|0|||
 [#20434](https://github.com/conan-io/conan-center-index/pull/20434)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libpq|:green_circle: XS|0|||
-[#20435](https://github.com/conan-io/conan-center-index/pull/20435)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: hazelcast-cpp-client|L|0|||
 [#20436](https://github.com/conan-io/conan-center-index/pull/20436)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: cpp-jwt|:green_circle: XS|0|||
 [#20437](https://github.com/conan-io/conan-center-index/pull/20437)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: c-client|:green_circle: XS|0|||
 [#20438](https://github.com/conan-io/conan-center-index/pull/20438)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cmake|:green_circle: XS|0|||
@@ -282,8 +281,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 601
 	- Draft: 63
-	- Average Age: 78 days, 21 hours, and 43.03 minutes
-	- Stop Label: 260
+	- Average Age: 78 days, 22 hours, and 43.38 minutes
+	- Stop Label: 262
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
