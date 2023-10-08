@@ -5246,7 +5246,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20426",
       "LastCommitSHA": "0d828fb071838a495ee96569dfd580216605084c",
       "LastCommitAt": "2023-10-08T11:02:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5379,25 +5379,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20434",
       "LastCommitSHA": "8c824cb30f8583f8f41a9d07194b2f0c2b3de9b4",
       "LastCommitAt": "2023-10-08T12:47:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20435,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-08T13:03:59Z",
-      "Recipe": "hazelcast-cpp-client",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20435",
-      "LastCommitSHA": "34d47fc16c4b3a02213369ba3e3c87a1339d17bd",
-      "LastCommitAt": "2023-10-08T13:03:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
