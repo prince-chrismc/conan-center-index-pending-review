@@ -166,7 +166,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19972](https://github.com/conan-io/conan-center-index/pull/19972)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: grpc|M|1|Sep 29||
 [#19973](https://github.com/conan-io/conan-center-index/pull/19973)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: proj|:blue_square: S|2|Oct 2||jwillikers, [valgur](https://github.com/valgur)
 [#19978](https://github.com/conan-io/conan-center-index/pull/19978)|[valgur](https://github.com/valgur)|Sep 20|:memo: spirv-headers|M|0|:eyes:||
-[#20001](https://github.com/conan-io/conan-center-index/pull/20001)|[gagoi](https://github.com/gagoi)|Sep 20|:memo: stb|:green_circle: XS|0|||
+[#20001](https://github.com/conan-io/conan-center-index/pull/20001)|[gagoi](https://github.com/gagoi)|Sep 20|:memo: stb|:green_circle: XS|0|:eyes:||
 [#20009](https://github.com/conan-io/conan-center-index/pull/20009)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: minitrace|:blue_square: S|0|:eyes:||
 [#20020](https://github.com/conan-io/conan-center-index/pull/20020)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: vc|:green_circle: XS|0|:eyes:||
 [#20023](https://github.com/conan-io/conan-center-index/pull/20023)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: ezc3d|:green_circle: XS|0|:eyes:||
@@ -194,8 +194,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20250](https://github.com/conan-io/conan-center-index/pull/20250)|[choll](https://github.com/choll)|Oct 1|:memo: sokol|:green_circle: XS|3|Oct 3||jwillikers
 [#20260](https://github.com/conan-io/conan-center-index/pull/20260)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:stopwatch: openssl|L|1|Oct 3||jwillikers
 [#20265](https://github.com/conan-io/conan-center-index/pull/20265)|[jwillikers](https://github.com/jwillikers)|Oct 2|:memo: libglvnd|M|1|Oct 5||**RubenRBS**
-[#20271](https://github.com/conan-io/conan-center-index/pull/20271)|[valgur](https://github.com/valgur)|Oct 2|:memo: libx264|M|0|||
-[#20274](https://github.com/conan-io/conan-center-index/pull/20274)|[valgur](https://github.com/valgur)|Oct 2|:stopwatch: openjpeg|M|0|||
+[#20271](https://github.com/conan-io/conan-center-index/pull/20271)|[valgur](https://github.com/valgur)|Oct 2|:memo: libx264|M|0|:eyes:||
+[#20274](https://github.com/conan-io/conan-center-index/pull/20274)|[valgur](https://github.com/valgur)|Oct 2|:stopwatch: openjpeg|M|0|:eyes:||
 [#20278](https://github.com/conan-io/conan-center-index/pull/20278)|[jwillikers](https://github.com/jwillikers)|Oct 2|:new: hwdata|M|1|Oct 2||
 [#20287](https://github.com/conan-io/conan-center-index/pull/20287)|[RubenRBS](https://github.com/RubenRBS)|Oct 2|:stopwatch: nmos-cpp|:blue_square: S|3|Oct 7||jwillikers
 [#20293](https://github.com/conan-io/conan-center-index/pull/20293)|[cqc-alec](https://github.com/cqc-alec)|Oct 3|:stopwatch: symengine|:green_circle: XS|0|:eyes:||
@@ -261,8 +261,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
 	- Open: 582
-	- Draft: 62
-	- Average Age: 81 days, 3 hours, and 33.05 minutes
+	- Draft: 63
+	- Average Age: 81 days, 6 hours, and 28.70 minutes
 	- Stop Label: 262
 	
 
