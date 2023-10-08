@@ -5406,5 +5406,100 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20436,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-08T13:15:30Z",
+      "Recipe": "cpp-jwt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20436",
+      "LastCommitSHA": "342a818cb9b4e4f5077cf2b62293f8164892b03d",
+      "LastCommitAt": "2023-10-08T13:14:46Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20437,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-08T13:21:40Z",
+      "Recipe": "c-client",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20437",
+      "LastCommitSHA": "ad9fb82614e28f1a7418d561f5d9c173b8ea472b",
+      "LastCommitAt": "2023-10-08T13:20:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20438,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-08T13:38:56Z",
+      "Recipe": "cmake",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20438",
+      "LastCommitSHA": "e9d5fd82ef81f4591427fc256f98dc12118f2b9f",
+      "LastCommitAt": "2023-10-08T13:38:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20439,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-08T13:47:18Z",
+      "Recipe": "simple-websocket-server",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20439",
+      "LastCommitSHA": "ded236fd8c440a30955d5b7b0466621bff46263c",
+      "LastCommitAt": "2023-10-08T13:46:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20440,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-08T14:10:07Z",
+      "Recipe": "cmake",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20440",
+      "LastCommitSHA": "c0cb60a5674e2fc1e4947819cfbcf15785cf85c3",
+      "LastCommitAt": "2023-10-08T14:09:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
