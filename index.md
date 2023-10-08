@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **213** pull requests currently under way :detective:
+There are **217** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -240,6 +240,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20425](https://github.com/conan-io/conan-center-index/pull/20425)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libmetalink|:green_circle: XS|0|||
 [#20426](https://github.com/conan-io/conan-center-index/pull/20426)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: tcp-wrappers|:blue_square: S|0|||
 [#20427](https://github.com/conan-io/conan-center-index/pull/20427)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: norm|:green_circle: XS|0|||
+[#20429](https://github.com/conan-io/conan-center-index/pull/20429)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libwebsockets|:green_circle: XS|0|||
+[#20430](https://github.com/conan-io/conan-center-index/pull/20430)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: twitch-native-ipc|:blue_square: S|0|||
+[#20431](https://github.com/conan-io/conan-center-index/pull/20431)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: easylzma|:green_circle: XS|0|||
+[#20432](https://github.com/conan-io/conan-center-index/pull/20432)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: civetweb|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -268,10 +272,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 588
+	- Open: 593
 	- Draft: 63
-	- Average Age: 80 days, 12 hours, and 31.82 minutes
-	- Stop Label: 260
+	- Average Age: 79 days, 21 hours, and 25.66 minutes
+	- Stop Label: 261
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
