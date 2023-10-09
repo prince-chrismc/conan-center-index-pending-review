@@ -5187,8 +5187,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20422",
-      "LastCommitSHA": "dfc01cc6aed6c4dbbd12de8b10fb3e5ae5ab62ee",
-      "LastCommitAt": "2023-10-08T10:34:33Z",
+      "LastCommitSHA": "b4b4cd93ac9f13a6d7b71c6291e516f62719d933",
+      "LastCommitAt": "2023-10-08T23:42:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5266,25 +5266,6 @@
       "LastCommitSHA": "28ce878e67e9cdd488b76b71b5f4e1426442e4c5",
       "LastCommitAt": "2023-10-08T12:06:38Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20434,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-08T12:48:50Z",
-      "Recipe": "libpq",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20434",
-      "LastCommitSHA": "8c824cb30f8583f8f41a9d07194b2f0c2b3de9b4",
-      "LastCommitAt": "2023-10-08T12:47:59Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5470,15 +5451,34 @@
       }
    },
    {
-      "Number": 20447,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-08T22:54:47Z",
-      "Recipe": "mosquitto",
+      "Number": 20448,
+      "OpenedBy": "memsharded",
+      "CreatedAt": "2023-10-08T23:37:12Z",
+      "Recipe": "openssl",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20447",
-      "LastCommitSHA": "6046b298ff6ffe0c3aff401a1b229bb98d37f08e",
-      "LastCommitAt": "2023-10-08T22:53:25Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20448",
+      "LastCommitSHA": "512bf2ca549ca736d8d5c7fb66c91382ca977501",
+      "LastCommitAt": "2023-10-08T23:35:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20449,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-09T00:24:51Z",
+      "Recipe": "dcmtk",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20449",
+      "LastCommitSHA": "ce8fafb008ecbe7a65fc355e087353826a6e3188",
+      "LastCommitAt": "2023-10-09T00:16:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
