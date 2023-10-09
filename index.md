@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **225** pull requests currently under way :detective:
+There are **223** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -192,7 +192,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20225](https://github.com/conan-io/conan-center-index/pull/20225)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: opencascade|L|0|:eyes:||
 [#20245](https://github.com/conan-io/conan-center-index/pull/20245)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 1|:memo: openvino|L|1|Oct 5||**RubenRBS**
 [#20250](https://github.com/conan-io/conan-center-index/pull/20250)|[choll](https://github.com/choll)|Oct 1|:memo: sokol|:green_circle: XS|3|Oct 3||jwillikers
-[#20260](https://github.com/conan-io/conan-center-index/pull/20260)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:stopwatch: openssl|L|1|Oct 3||
 [#20265](https://github.com/conan-io/conan-center-index/pull/20265)|[jwillikers](https://github.com/jwillikers)|Oct 2|:memo: libglvnd|M|1|Oct 5||**RubenRBS**
 [#20271](https://github.com/conan-io/conan-center-index/pull/20271)|[valgur](https://github.com/valgur)|Oct 2|:memo: libx264|M|0|:eyes:||
 [#20274](https://github.com/conan-io/conan-center-index/pull/20274)|[valgur](https://github.com/valgur)|Oct 2|:stopwatch: openjpeg|M|0|:eyes:||
@@ -251,12 +250,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|M|0|||
 [#20452](https://github.com/conan-io/conan-center-index/pull/20452)|[weatherhead99](https://github.com/weatherhead99)|Oct 9|:stopwatch: diplib|L|0|||
 [#20454](https://github.com/conan-io/conan-center-index/pull/20454)|[czoido](https://github.com/czoido)|Oct 9|:stopwatch: sdl|:green_circle: XS|0|||
-[#20456](https://github.com/conan-io/conan-center-index/pull/20456)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 9|:stopwatch: pkgconf|:green_circle: XS|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **12** pull requests are waiting to be merged :tada:
+Currently **11** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -272,7 +270,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20327](https://github.com/conan-io/conan-center-index/pull/20327)|[toge](https://github.com/toge)|Oct 3|:warning: immer|3|[valgur](https://github.com/valgur), **RubenRBS**, **franramirez688**
-[#20457](https://github.com/conan-io/conan-center-index/pull/20457)|[uilianries](https://github.com/uilianries)|Oct 9|:green_book: docs|2|**RubenRBS**, **danimtb**
 
 
 #### :clipboard: Statistics
@@ -281,9 +278,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 606
+	- Open: 604
 	- Draft: 63
-	- Average Age: 79 days, 1 hours, and 51.74 minutes
+	- Average Age: 79 days, 9 hours, and 5.01 minutes
 	- Stop Label: 261
 	
 
