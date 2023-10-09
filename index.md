@@ -229,7 +229,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20446](https://github.com/conan-io/conan-center-index/pull/20446)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: aws-sdk-cpp|:blue_square: S|0|||
 [#20448](https://github.com/conan-io/conan-center-index/pull/20448)|[memsharded](https://github.com/memsharded)|Oct 8|:memo: openssl|:green_circle: XS|1|Oct 9||**RubenRBS**
 [#20454](https://github.com/conan-io/conan-center-index/pull/20454)|[czoido](https://github.com/czoido)|Oct 9|:stopwatch: sdl|:green_circle: XS|0|||
-[#20462](https://github.com/conan-io/conan-center-index/pull/20462)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: libtasn1|:green_circle: XS|1|Oct 9||**RubenRBS**
+[#20462](https://github.com/conan-io/conan-center-index/pull/20462)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: libtasn1|:green_circle: XS|1|Oct 9||**RubenRBS**
 [#20466](https://github.com/conan-io/conan-center-index/pull/20466)|[gjasny](https://github.com/gjasny)|Oct 9|:stopwatch: c-ares|:green_circle: XS|0|||
 [#20468](https://github.com/conan-io/conan-center-index/pull/20468)|[toge](https://github.com/toge)|Oct 9|:stopwatch: commata|:green_circle: XS|0|||
 [#20470](https://github.com/conan-io/conan-center-index/pull/20470)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 9|:stopwatch: pkgconf|L|0|||
@@ -238,7 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **18** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -254,7 +254,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20327](https://github.com/conan-io/conan-center-index/pull/20327)|[toge](https://github.com/toge)|Oct 3|:warning: immer|3|[valgur](https://github.com/valgur), **RubenRBS**, **franramirez688**
-[#20401](https://github.com/conan-io/conan-center-index/pull/20401)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: librdkafka|2|**RubenRBS**, ericLemanissier
 [#20410](https://github.com/conan-io/conan-center-index/pull/20410)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: libucl|2|**RubenRBS**, ericLemanissier
 [#20435](https://github.com/conan-io/conan-center-index/pull/20435)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: hazelcast-cpp-client|2|**RubenRBS**, ericLemanissier
 [#20436](https://github.com/conan-io/conan-center-index/pull/20436)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cpp-jwt|2|**RubenRBS**, ericLemanissier
@@ -270,9 +269,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 601
+	- Open: 600
 	- Draft: 64
-	- Average Age: 79 days, 21 hours, and 23.28 minutes
+	- Average Age: 80 days, 1 hours, and 28.00 minutes
 	- Stop Label: 263
 	
 
