@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **208** pull requests currently under way :detective:
+There are **207** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -211,7 +211,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20326](https://github.com/conan-io/conan-center-index/pull/20326)|[Rdk-T](https://github.com/Rdk-T)|Oct 3|:memo: kickcat|:green_circle: XS|1|Oct 9||[leducp](https://github.com/leducp)
 [#20351](https://github.com/conan-io/conan-center-index/pull/20351)|[SpaceIm](https://github.com/SpaceIm)|Oct 4|:memo: s2geometry|M|2|Oct 6||[valgur](https://github.com/valgur), **RubenRBS**
 [#20353](https://github.com/conan-io/conan-center-index/pull/20353)|[jwillikers](https://github.com/jwillikers)|Oct 4|:memo: util-linux-libuuid|:green_circle: XS|1|Oct 5||**RubenRBS**
-[#20356](https://github.com/conan-io/conan-center-index/pull/20356)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 4|:stopwatch: aravis|:blue_square: S|0|||
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|0|:eyes:||
 [#20373](https://github.com/conan-io/conan-center-index/pull/20373)|[jwillikers](https://github.com/jwillikers)|Oct 5|:new: libblkid|M|0|:eyes:||
 [#20374](https://github.com/conan-io/conan-center-index/pull/20374)|[FranzPoize](https://github.com/FranzPoize)|Oct 5|:stopwatch: implot|:blue_square: S|0|||
@@ -239,7 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **20** pull requests are waiting to be merged :tada:
+Currently **19** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -255,7 +254,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20327](https://github.com/conan-io/conan-center-index/pull/20327)|[toge](https://github.com/toge)|Oct 3|:warning: immer|3|[valgur](https://github.com/valgur), **RubenRBS**, **franramirez688**
-[#20396](https://github.com/conan-io/conan-center-index/pull/20396)|[mayeut](https://github.com/mayeut)|Oct 6|:memo: cpr|2|**RubenRBS**, ericLemanissier
 [#20401](https://github.com/conan-io/conan-center-index/pull/20401)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: librdkafka|2|**RubenRBS**, ericLemanissier
 [#20410](https://github.com/conan-io/conan-center-index/pull/20410)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: libucl|2|**RubenRBS**, ericLemanissier
 [#20435](https://github.com/conan-io/conan-center-index/pull/20435)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: hazelcast-cpp-client|2|**RubenRBS**, ericLemanissier
@@ -272,10 +270,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 602
+	- Open: 601
 	- Draft: 64
-	- Average Age: 79 days, 17 hours, and 17.61 minutes
-	- Stop Label: 262
+	- Average Age: 79 days, 21 hours, and 23.28 minutes
+	- Stop Label: 263
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
