@@ -4777,39 +4777,6 @@
       }
    },
    {
-      "Number": 20401,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-07T09:01:49Z",
-      "Recipe": "librdkafka",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20401",
-      "LastCommitSHA": "cea1afa227fadeac9279930872424c968f4b931a",
-      "LastCommitAt": "2023-10-07T09:00:40Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-10-09T14:16:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20401#pullrequestreview-1664552664"
-         }
-      }
-   },
-   {
       "Number": 20410,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-10-07T10:13:38Z",
@@ -5352,7 +5319,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20462",
       "LastCommitSHA": "b67781fbc60feee119f9183fd1dcd91d6a14d030",
       "LastCommitAt": "2023-10-09T13:10:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
