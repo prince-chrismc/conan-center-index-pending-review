@@ -240,7 +240,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20426](https://github.com/conan-io/conan-center-index/pull/20426)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: tcp-wrappers|:blue_square: S|0|||
 [#20430](https://github.com/conan-io/conan-center-index/pull/20430)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: twitch-native-ipc|:blue_square: S|0|||
 [#20431](https://github.com/conan-io/conan-center-index/pull/20431)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: easylzma|:green_circle: XS|0|||
-[#20434](https://github.com/conan-io/conan-center-index/pull/20434)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: libpq|:green_circle: XS|0|||
 [#20435](https://github.com/conan-io/conan-center-index/pull/20435)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: hazelcast-cpp-client|L|0|||
 [#20436](https://github.com/conan-io/conan-center-index/pull/20436)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cpp-jwt|:green_circle: XS|0|||
 [#20437](https://github.com/conan-io/conan-center-index/pull/20437)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: c-client|:green_circle: XS|0|||
@@ -250,7 +249,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20443](https://github.com/conan-io/conan-center-index/pull/20443)|[jcar87](https://github.com/jcar87)|Oct 8|:stopwatch: arrow|:blue_square: S|0|||
 [#20445](https://github.com/conan-io/conan-center-index/pull/20445)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: arrow|:blue_square: S|0|||
 [#20446](https://github.com/conan-io/conan-center-index/pull/20446)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: aws-sdk-cpp|:blue_square: S|0|||
-[#20447](https://github.com/conan-io/conan-center-index/pull/20447)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: mosquitto|:green_circle: XS|0|||
+[#20448](https://github.com/conan-io/conan-center-index/pull/20448)|[memsharded](https://github.com/memsharded)|Oct 8|:stopwatch: openssl|:green_circle: XS|0|||
+[#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: dcmtk|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -279,10 +279,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 601
+	- Open: 603
 	- Draft: 63
-	- Average Age: 79 days, 6 hours, and 39.34 minutes
-	- Stop Label: 261
+	- Average Age: 79 days, 1 hours, and 57.22 minutes
+	- Stop Label: 263
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
