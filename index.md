@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **224** pull requests currently under way :detective:
+There are **225** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -251,6 +251,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20446](https://github.com/conan-io/conan-center-index/pull/20446)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: aws-sdk-cpp|:blue_square: S|0|||
 [#20448](https://github.com/conan-io/conan-center-index/pull/20448)|[memsharded](https://github.com/memsharded)|Oct 8|:stopwatch: openssl|:green_circle: XS|0|||
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:stopwatch: dcmtk|M|0|||
+[#20452](https://github.com/conan-io/conan-center-index/pull/20452)|[weatherhead99](https://github.com/weatherhead99)|Oct 9|:stopwatch: diplib|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -281,8 +282,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 603
 	- Draft: 63
-	- Average Age: 79 days, 1 hours, and 57.22 minutes
-	- Stop Label: 263
+	- Average Age: 79 days, 4 hours, and 20.11 minutes
+	- Stop Label: 262
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
