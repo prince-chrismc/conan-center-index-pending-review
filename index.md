@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **207** pull requests currently under way :detective:
+There are **208** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -234,11 +234,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20466](https://github.com/conan-io/conan-center-index/pull/20466)|[gjasny](https://github.com/gjasny)|Oct 9|:stopwatch: c-ares|:green_circle: XS|0|||
 [#20468](https://github.com/conan-io/conan-center-index/pull/20468)|[toge](https://github.com/toge)|Oct 9|:stopwatch: commata|:green_circle: XS|0|||
 [#20470](https://github.com/conan-io/conan-center-index/pull/20470)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 9|:stopwatch: pkgconf|L|0|||
+[#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -254,7 +255,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20327](https://github.com/conan-io/conan-center-index/pull/20327)|[toge](https://github.com/toge)|Oct 3|:warning: immer|3|[valgur](https://github.com/valgur), **RubenRBS**, **franramirez688**
-[#20390](https://github.com/conan-io/conan-center-index/pull/20390)|[fschoenm](https://github.com/fschoenm)|Oct 6|:memo: mbits-mstch|3|[mzdun](https://github.com/mzdun), **RubenRBS**, ericLemanissier
 [#20396](https://github.com/conan-io/conan-center-index/pull/20396)|[mayeut](https://github.com/mayeut)|Oct 6|:memo: cpr|2|**RubenRBS**, ericLemanissier
 [#20401](https://github.com/conan-io/conan-center-index/pull/20401)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: librdkafka|2|**RubenRBS**, ericLemanissier
 [#20410](https://github.com/conan-io/conan-center-index/pull/20410)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: libucl|2|**RubenRBS**, ericLemanissier
@@ -274,7 +274,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 602
 	- Draft: 64
-	- Average Age: 79 days, 16 hours, and 31.73 minutes
+	- Average Age: 79 days, 17 hours, and 17.61 minutes
 	- Stop Label: 262
 	
 
