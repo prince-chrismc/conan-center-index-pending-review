@@ -5451,6 +5451,25 @@
       }
    },
    {
+      "Number": 20447,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-08T22:54:47Z",
+      "Recipe": "mosquitto",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20447",
+      "LastCommitSHA": "4ce05ba92b0e3403caf075af90987cd1b4b3fb59",
+      "LastCommitAt": "2023-10-08T23:37:16Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20448,
       "OpenedBy": "memsharded",
       "CreatedAt": "2023-10-08T23:37:12Z",
