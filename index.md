@@ -228,9 +228,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20454](https://github.com/conan-io/conan-center-index/pull/20454)|[czoido](https://github.com/czoido)|Oct 9|:memo: sdl|:green_circle: XS|0|||
 [#20469](https://github.com/conan-io/conan-center-index/pull/20469)|[toge](https://github.com/toge)|Oct 9|:new: embedded_ringbuf_cpp|M|0|||
 [#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|||
-[#20474](https://github.com/conan-io/conan-center-index/pull/20474)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Oct 9|:stopwatch: libdwarf|M|0|||
+[#20474](https://github.com/conan-io/conan-center-index/pull/20474)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Oct 9|:memo: libdwarf|M|0|||
 [#20487](https://github.com/conan-io/conan-center-index/pull/20487)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: gstreamer|:green_circle: XS|0|:eyes:||
-[#20489](https://github.com/conan-io/conan-center-index/pull/20489)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: cairo|:green_circle: XS|0|||
+[#20489](https://github.com/conan-io/conan-center-index/pull/20489)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:memo: cairo|:green_circle: XS|0|||
 [#20493](https://github.com/conan-io/conan-center-index/pull/20493)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:stopwatch: amqp-cpp|L|0|||
 [#20496](https://github.com/conan-io/conan-center-index/pull/20496)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: poly2tri|:green_circle: XS|0|||
 [#20498](https://github.com/conan-io/conan-center-index/pull/20498)|[danimtb](https://github.com/danimtb)|Oct 10|:stopwatch: .c3i|:green_circle: XS|1|Oct 10||**RubenRBS**
@@ -241,7 +241,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **14** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -254,7 +254,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|5|ericLemanissier, **RubenRBS**, **czoido**
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
-[#20327](https://github.com/conan-io/conan-center-index/pull/20327)|[toge](https://github.com/toge)|Oct 3|:memo: immer|3|[valgur](https://github.com/valgur), **RubenRBS**, **franramirez688**
 [#20353](https://github.com/conan-io/conan-center-index/pull/20353)|[jwillikers](https://github.com/jwillikers)|Oct 4|:memo: util-linux-libuuid|2|**RubenRBS**, toge
 [#20379](https://github.com/conan-io/conan-center-index/pull/20379)|[jwillikers](https://github.com/jwillikers)|Oct 5|:memo: boost-ext-ut|3|**RubenRBS**, toge
 [#20445](https://github.com/conan-io/conan-center-index/pull/20445)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: arrow|2|**RubenRBS**, **danimtb**
@@ -268,9 +267,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 606
+	- Open: 605
 	- Draft: 63
-	- Average Age: 79 days, 15 hours, and 59.77 minutes
+	- Average Age: 79 days, 19 hours, and 51.83 minutes
 	- Stop Label: 258
 	
 
