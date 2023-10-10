@@ -4515,20 +4515,24 @@
       "LastCommitAt": "2023-10-09T15:40:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "leducp",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "trns1997",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "leducp",
-            "SubmittedAt": "2023-10-09T14:26:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20326#pullrequestreview-1664580689"
+            "ReviewerName": "trns1997",
+            "SubmittedAt": "2023-10-10T12:26:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20326#pullrequestreview-1667489757"
          }
       }
    },
