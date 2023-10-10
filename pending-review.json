@@ -3110,6 +3110,25 @@
       }
    },
    {
+      "Number": 19860,
+      "OpenedBy": "MartinDelille",
+      "CreatedAt": "2023-09-15T14:59:10Z",
+      "Recipe": "uncrustify",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19860",
+      "LastCommitSHA": "c23d2c46b495e83880bd8d8ab7408682cefd43fd",
+      "LastCommitAt": "2023-10-10T17:11:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19877,
       "OpenedBy": "GavinNL",
       "CreatedAt": "2023-09-16T03:30:20Z",
@@ -3345,6 +3364,35 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 19987,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-20T15:55:30Z",
+      "Recipe": "pdf-writer",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19987",
+      "LastCommitSHA": "fbe63386aefa484d0ca7cbbb0da14e565cc7b12f",
+      "LastCommitAt": "2023-10-10T14:47:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-10-10T14:44:03Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19987#pullrequestreview-1667940628"
+         }
       }
    },
    {
@@ -4483,7 +4531,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20327",
       "LastCommitSHA": "e546da385a766aef06c8b8bf68000dfe5696e215",
       "LastCommitAt": "2023-10-10T15:56:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 2,
@@ -5047,7 +5095,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20454",
       "LastCommitSHA": "3a6b8b45ab823d98186a51a82ba62f58ba4b4f8f",
       "LastCommitAt": "2023-10-10T07:32:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5135,6 +5183,25 @@
             "SubmittedAt": "2023-10-10T07:32:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20473#pullrequestreview-1666541853"
          }
+      }
+   },
+   {
+      "Number": 20474,
+      "OpenedBy": "jeremy-rifkin",
+      "CreatedAt": "2023-10-09T22:36:28Z",
+      "Recipe": "libdwarf",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20474",
+      "LastCommitSHA": "25a3a6cc592f60721d7dccea196c73783523d9d3",
+      "LastCommitAt": "2023-10-10T15:29:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
@@ -5295,25 +5362,6 @@
       }
    },
    {
-      "Number": 20490,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-10-10T08:17:57Z",
-      "Recipe": "xorg-proto",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20490",
-      "LastCommitSHA": "e022d1053d4fda3640a8b16ec66fc05e038985a2",
-      "LastCommitAt": "2023-09-12T08:50:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20491,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-10-10T08:18:05Z",
@@ -5400,44 +5448,6 @@
       }
    },
    {
-      "Number": 20500,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-10T15:51:53Z",
-      "Recipe": "sqlite3",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20500",
-      "LastCommitSHA": "290d8f82a9d7ee44925973cb0c4daed23119ab3f",
-      "LastCommitAt": "2023-10-10T15:51:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20501,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-10T16:37:40Z",
-      "Recipe": "libnghttp2",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20501",
-      "LastCommitSHA": "a3df3d86a18fa76b3df302aa29ad0eb8082a0bd6",
-      "LastCommitAt": "2023-10-10T16:36:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20502,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2023-10-10T17:18:14Z",
@@ -5448,6 +5458,25 @@
       "LastCommitSHA": "d3cc7c3b7ef9fadc19c7ca04f6c70c3d7af559dc",
       "LastCommitAt": "2023-10-10T17:16:53Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20504,
+      "OpenedBy": "kkloberdanz",
+      "CreatedAt": "2023-10-10T18:31:46Z",
+      "Recipe": "mongo-cxx-driver",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20504",
+      "LastCommitSHA": "c0c123d49d940f3f02711e0c21db44b4e0c82b1c",
+      "LastCommitAt": "2023-10-10T16:12:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
