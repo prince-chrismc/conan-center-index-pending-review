@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **211** pull requests currently under way :detective:
+There are **210** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -233,7 +233,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20446](https://github.com/conan-io/conan-center-index/pull/20446)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: aws-sdk-cpp|:blue_square: S|0|||
 [#20448](https://github.com/conan-io/conan-center-index/pull/20448)|[memsharded](https://github.com/memsharded)|Oct 8|:memo: openssl|:green_circle: XS|1|Oct 9||**RubenRBS**
 [#20454](https://github.com/conan-io/conan-center-index/pull/20454)|[czoido](https://github.com/czoido)|Oct 9|:stopwatch: sdl|:green_circle: XS|0|||
-[#20462](https://github.com/conan-io/conan-center-index/pull/20462)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: libtasn1|:green_circle: XS|1|Oct 9||**RubenRBS**
 [#20470](https://github.com/conan-io/conan-center-index/pull/20470)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 9|:memo: pkgconf|L|0|||
 [#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|||
 [#20473](https://github.com/conan-io/conan-center-index/pull/20473)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 9|:gear: .c3i|:blue_square: S|0|||
@@ -242,7 +241,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **12** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -259,6 +258,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20327](https://github.com/conan-io/conan-center-index/pull/20327)|[toge](https://github.com/toge)|Oct 3|:warning: immer|3|[valgur](https://github.com/valgur), **RubenRBS**, **franramirez688**
 [#20447](https://github.com/conan-io/conan-center-index/pull/20447)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: mosquitto|2|**RubenRBS**, ericLemanissier
+[#20462](https://github.com/conan-io/conan-center-index/pull/20462)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: libtasn1|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -269,7 +269,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 596
 	- Draft: 65
-	- Average Age: 80 days, 21 hours, and 1.15 minutes
+	- Average Age: 80 days, 22 hours, and 5.77 minutes
 	- Stop Label: 258
 	
 
