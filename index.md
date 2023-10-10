@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **220** pull requests currently under way :detective:
+There are **219** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -240,7 +240,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20482](https://github.com/conan-io/conan-center-index/pull/20482)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: wayland-protocols|:green_circle: XS|0|:eyes:||
 [#20483](https://github.com/conan-io/conan-center-index/pull/20483)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: xorg-cf-files|:green_circle: XS|0|:eyes:||
 [#20484](https://github.com/conan-io/conan-center-index/pull/20484)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: fontconfig|:green_circle: XS|0|:eyes:||
-[#20486](https://github.com/conan-io/conan-center-index/pull/20486)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: gdk-pixbuf|:blue_square: S|0|:eyes:||
 [#20487](https://github.com/conan-io/conan-center-index/pull/20487)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: gstreamer|:green_circle: XS|0|:eyes:||
 [#20488](https://github.com/conan-io/conan-center-index/pull/20488)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: opusfile|:green_circle: XS|0|:eyes:||
 [#20489](https://github.com/conan-io/conan-center-index/pull/20489)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: cairo|:green_circle: XS|0|||
@@ -251,7 +250,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **14** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -260,7 +259,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19596](https://github.com/conan-io/conan-center-index/pull/19596)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 5|:warning: newmat|2|**RubenRBS**, jwillikers
 [#19679](https://github.com/conan-io/conan-center-index/pull/19679)|[sykhro](https://github.com/sykhro)|Sep 8|:warning: sdl|2|**danimtb**, jwillikers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|**RubenRBS**, jwillikers
-[#19773](https://github.com/conan-io/conan-center-index/pull/19773)|[hedtke](https://github.com/hedtke)|Sep 13|:memo: scip|8|**uilianries**, **RubenRBS**
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#19877](https://github.com/conan-io/conan-center-index/pull/19877)|[GavinNL](https://github.com/GavinNL)|Sep 16|:warning: imgui|5|**RubenRBS**, **czoido**
 [#20073](https://github.com/conan-io/conan-center-index/pull/20073)|[bemehiser](https://github.com/bemehiser)|Sep 21|:warning: grpc|3|[coryan](https://github.com/coryan), **uilianries**, jwillikers
@@ -279,9 +277,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 606
+	- Open: 604
 	- Draft: 64
-	- Average Age: 79 days, 8 hours, and 27.41 minutes
+	- Average Age: 79 days, 14 hours, and 37.90 minutes
 	- Stop Label: 257
 	
 
