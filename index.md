@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **207** pull requests currently under way :detective:
+There are **209** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -189,6 +189,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:stopwatch: gstreamer|:blue_square: S|1|Sep 29||jwillikers
 [#20186](https://github.com/conan-io/conan-center-index/pull/20186)|[ericLemanissier](https://github.com/ericLemanissier)|Sep 28|:memo: qt|L|5|Oct 9||jwillikers, SpaceIm, [Qurcaivel](https://github.com/Qurcaivel), MartinDelille
 [#20195](https://github.com/conan-io/conan-center-index/pull/20195)|[jwillikers](https://github.com/jwillikers)|Sep 28|:stopwatch: libseat|M|0|:eyes:||
+[#20222](https://github.com/conan-io/conan-center-index/pull/20222)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:memo: microprofile|:blue_square: S|1|Oct 9||
 [#20225](https://github.com/conan-io/conan-center-index/pull/20225)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: opencascade|L|0|:eyes:||
 [#20250](https://github.com/conan-io/conan-center-index/pull/20250)|[choll](https://github.com/choll)|Oct 1|:memo: sokol|:green_circle: XS|3|Oct 3||jwillikers
 [#20265](https://github.com/conan-io/conan-center-index/pull/20265)|[jwillikers](https://github.com/jwillikers)|Oct 2|:memo: libglvnd|M|1|Oct 5||**RubenRBS**
@@ -225,6 +226,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20426](https://github.com/conan-io/conan-center-index/pull/20426)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: tcp-wrappers|:blue_square: S|0|||
 [#20430](https://github.com/conan-io/conan-center-index/pull/20430)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: twitch-native-ipc|:blue_square: S|1|Oct 9||**RubenRBS**
 [#20438](https://github.com/conan-io/conan-center-index/pull/20438)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cmake|:green_circle: XS|3|Oct 8||
+[#20441](https://github.com/conan-io/conan-center-index/pull/20441)|[mayeut](https://github.com/mayeut)|Oct 8|:stopwatch: openssl|M|0|||
 [#20445](https://github.com/conan-io/conan-center-index/pull/20445)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: arrow|:blue_square: S|0|||
 [#20446](https://github.com/conan-io/conan-center-index/pull/20446)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: aws-sdk-cpp|:blue_square: S|0|||
 [#20448](https://github.com/conan-io/conan-center-index/pull/20448)|[memsharded](https://github.com/memsharded)|Oct 8|:memo: openssl|:green_circle: XS|1|Oct 9||**RubenRBS**
@@ -268,8 +270,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 599
 	- Draft: 65
-	- Average Age: 80 days, 8 hours, and 58.03 minutes
-	- Stop Label: 261
+	- Average Age: 80 days, 8 hours, and 36.33 minutes
+	- Stop Label: 260
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
