@@ -4112,19 +4112,24 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20222",
-      "LastCommitSHA": "0c8a5c592ccf87cad9d13fd1b021ef649429d1e7",
-      "LastCommitAt": "2023-10-09T15:39:04Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ec903f5bb5de72f7560327893d62230ff00c67ae",
+      "LastCommitAt": "2023-10-10T06:50:10Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-10-09T15:26:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20222#pullrequestreview-1664777860"
+            "SubmittedAt": "2023-10-10T06:50:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20222#pullrequestreview-1666426956"
          }
       }
    },
@@ -5119,39 +5124,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 20447,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-08T22:54:47Z",
-      "Recipe": "mosquitto",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20447",
-      "LastCommitSHA": "4ce05ba92b0e3403caf075af90987cd1b4b3fb59",
-      "LastCommitAt": "2023-10-08T23:37:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-10-09T14:10:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20447#pullrequestreview-1664542144"
-         }
       }
    },
    {
