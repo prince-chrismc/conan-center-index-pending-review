@@ -4069,7 +4069,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20222",
       "LastCommitSHA": "ec903f5bb5de72f7560327893d62230ff00c67ae",
       "LastCommitAt": "2023-10-10T06:50:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -4234,6 +4234,30 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20278,
+      "OpenedBy": "jwillikers",
+      "CreatedAt": "2023-10-02T13:13:04Z",
+      "Recipe": "hwdata",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20278",
+      "LastCommitSHA": "75d651da56f4f085be46da86e722bdd7ded73994",
+      "LastCommitAt": "2023-10-10T13:41:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-10-10T09:26:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20278#pullrequestreview-1667020073"
+         }
       }
    },
    {
