@@ -220,7 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|M|2|Oct 10||
 [#20469](https://github.com/conan-io/conan-center-index/pull/20469)|[toge](https://github.com/toge)|Oct 9|:stopwatch: embedded_ringbuf_cpp|M|1|Oct 11||
 [#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|||
-[#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:stopwatch: xorg|:green_circle: XS|0|||
+[#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: xorg|:green_circle: XS|0|||
 [#20504](https://github.com/conan-io/conan-center-index/pull/20504)|[kkloberdanz](https://github.com/kkloberdanz)|Oct 10|:stopwatch: mongo-cxx-driver|M|0|||
 [#20520](https://github.com/conan-io/conan-center-index/pull/20520)|[SpaceIm](https://github.com/SpaceIm)|Oct 11|:stopwatch: jinja2cpp|:green_circle: XS|0|||
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|||
@@ -230,7 +230,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **25** pull requests are waiting to be merged :tada:
+Currently **23** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -240,8 +240,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19697](https://github.com/conan-io/conan-center-index/pull/19697)|[toge](https://github.com/toge)|Sep 9|:warning: mfast|5|**RubenRBS**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#19877](https://github.com/conan-io/conan-center-index/pull/19877)|[GavinNL](https://github.com/GavinNL)|Sep 16|:warning: imgui|5|**RubenRBS**, **czoido**
-[#19929](https://github.com/conan-io/conan-center-index/pull/19929)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:memo: btyacc|6|**franramirez688**, jwillikers
-[#19987](https://github.com/conan-io/conan-center-index/pull/19987)|[toge](https://github.com/toge)|Sep 20|:new: pdf-writer|2|**RubenRBS**, jwillikers
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|5|ericLemanissier, **RubenRBS**, **czoido**
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
@@ -268,9 +266,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 593
+	- Open: 591
 	- Draft: 71
-	- Average Age: 82 days, 2 hours, and 12.65 minutes
+	- Average Age: 82 days, 8 hours, and 7.46 minutes
 	- Stop Label: 253
 	
 
