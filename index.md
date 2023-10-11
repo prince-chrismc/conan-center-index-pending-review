@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **200** pull requests currently under way :detective:
+There are **198** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -225,8 +225,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20520](https://github.com/conan-io/conan-center-index/pull/20520)|[SpaceIm](https://github.com/SpaceIm)|Oct 11|:stopwatch: jinja2cpp|:green_circle: XS|0|||
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|||
 [#20522](https://github.com/conan-io/conan-center-index/pull/20522)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Oct 11|:stopwatch: glib|:green_circle: XS|1|Oct 11||
-[#20523](https://github.com/conan-io/conan-center-index/pull/20523)|[jwillikers](https://github.com/jwillikers)|Oct 11|:stopwatch: libmount|:green_circle: XS|0|||
-[#20524](https://github.com/conan-io/conan-center-index/pull/20524)|[jwillikers](https://github.com/jwillikers)|Oct 11|:stopwatch: util-linux-libuuid|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -272,8 +270,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 592
 	- Draft: 71
-	- Average Age: 82 days, 3 hours, and 33.94 minutes
-	- Stop Label: 250
+	- Average Age: 82 days, 4 hours, and 38.22 minutes
+	- Stop Label: 252
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
