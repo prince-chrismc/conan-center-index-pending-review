@@ -5252,7 +5252,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20517",
       "LastCommitSHA": "a8d80d246ceab202b4f8cad67b7a2e71bf6296d2",
       "LastCommitAt": "2023-10-11T10:16:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5336,6 +5336,30 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20522,
+      "OpenedBy": "AndreyMlashkin",
+      "CreatedAt": "2023-10-11T12:11:28Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20522",
+      "LastCommitSHA": "5e29506fe0be1fc64d993699441205e75df08009",
+      "LastCommitAt": "2023-10-11T12:51:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-10-11T12:19:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20522#pullrequestreview-1671040144"
+         }
       }
    }
 ]
