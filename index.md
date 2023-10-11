@@ -243,7 +243,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|5|ericLemanissier, **RubenRBS**, **czoido**
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
-[#20250](https://github.com/conan-io/conan-center-index/pull/20250)|[choll](https://github.com/choll)|Oct 1|:warning: sokol|4|jwillikers, **RubenRBS**
+[#20250](https://github.com/conan-io/conan-center-index/pull/20250)|[choll](https://github.com/choll)|Oct 1|:warning: sokol|5|jwillikers, **RubenRBS**
 [#20351](https://github.com/conan-io/conan-center-index/pull/20351)|[SpaceIm](https://github.com/SpaceIm)|Oct 4|:memo: s2geometry|3|[valgur](https://github.com/valgur), **RubenRBS**, jwillikers
 [#20412](https://github.com/conan-io/conan-center-index/pull/20412)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: tixi3|2|**RubenRBS**, jwillikers
 [#20414](https://github.com/conan-io/conan-center-index/pull/20414)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: yder|4|**RubenRBS**, jwillikers
@@ -265,10 +265,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 590
-	- Draft: 71
-	- Average Age: 82 days, 12 hours, and 44.68 minutes
-	- Stop Label: 253
+	- Open: 588
+	- Draft: 70
+	- Average Age: 82 days, 15 hours, and 34.57 minutes
+	- Stop Label: 252
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
