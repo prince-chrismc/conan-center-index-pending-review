@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **210** pull requests currently under way :detective:
+There are **211** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -221,13 +221,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20415](https://github.com/conan-io/conan-center-index/pull/20415)|[toge](https://github.com/toge)|Oct 7|:new: iowow|L|0|||
 [#20416](https://github.com/conan-io/conan-center-index/pull/20416)|[toge](https://github.com/toge)|Oct 7|:new: fastnoise2|M|1|Oct 9||**RubenRBS**
 [#20420](https://github.com/conan-io/conan-center-index/pull/20420)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 7|:memo: openvino|L|1|Oct 9||jwillikers
-[#20426](https://github.com/conan-io/conan-center-index/pull/20426)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: tcp-wrappers|:blue_square: S|0|||
+[#20426](https://github.com/conan-io/conan-center-index/pull/20426)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: tcp-wrappers|:blue_square: S|0|:eyes:||
 [#20430](https://github.com/conan-io/conan-center-index/pull/20430)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: twitch-native-ipc|:blue_square: S|1|Oct 9||**RubenRBS**
 [#20438](https://github.com/conan-io/conan-center-index/pull/20438)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cmake|:green_circle: XS|3|Oct 8||
 [#20441](https://github.com/conan-io/conan-center-index/pull/20441)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: openssl|M|1|Oct 10||Croydon
 [#20446](https://github.com/conan-io/conan-center-index/pull/20446)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: aws-sdk-cpp|:blue_square: S|0|||
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|M|2|Oct 10||
-[#20469](https://github.com/conan-io/conan-center-index/pull/20469)|[toge](https://github.com/toge)|Oct 9|:new: embedded_ringbuf_cpp|M|0|||
 [#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|||
 [#20487](https://github.com/conan-io/conan-center-index/pull/20487)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:stopwatch: gstreamer|:green_circle: XS|0|:eyes:||
 [#20493](https://github.com/conan-io/conan-center-index/pull/20493)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: amqp-cpp|L|1|Oct 11||**RubenRBS**
@@ -237,11 +236,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20506](https://github.com/conan-io/conan-center-index/pull/20506)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: libdrm|:green_circle: XS|1|Oct 11||**RubenRBS**
 [#20509](https://github.com/conan-io/conan-center-index/pull/20509)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: nmslib|:green_circle: XS|1|Oct 11||**RubenRBS**
 [#20510](https://github.com/conan-io/conan-center-index/pull/20510)|[SpaceIm](https://github.com/SpaceIm)|Oct 11|:memo: yaclib|:blue_square: S|1|Oct 11||**RubenRBS**
+[#20517](https://github.com/conan-io/conan-center-index/pull/20517)|[uilianries](https://github.com/uilianries)|Oct 11|:stopwatch: .c3i|:green_circle: XS|1|Oct 11||**RubenRBS**
+[#20518](https://github.com/conan-io/conan-center-index/pull/20518)|[uilianries](https://github.com/uilianries)|Oct 11|:green_book: docs|:green_circle: XS|1|Oct 11||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -256,7 +257,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20445](https://github.com/conan-io/conan-center-index/pull/20445)|[mayeut](https://github.com/mayeut)|Oct 8|:warning: arrow|2|**RubenRBS**, **danimtb**
 [#20489](https://github.com/conan-io/conan-center-index/pull/20489)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 10|:memo: cairo|2|**RubenRBS**, **uilianries**
-[#20498](https://github.com/conan-io/conan-center-index/pull/20498)|[danimtb](https://github.com/danimtb)|Oct 10|:gear: .c3i|2|**RubenRBS**, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -265,9 +265,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 592
+	- Open: 591
 	- Draft: 63
-	- Average Age: 81 days, 22 hours, and 52.18 minutes
+	- Average Age: 82 days, 3 hours, and 1.02 minutes
 	- Stop Label: 257
 	
 
