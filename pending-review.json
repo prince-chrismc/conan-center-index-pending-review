@@ -4171,8 +4171,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20296",
-      "LastCommitSHA": "13b2b7d14c2de0f24a201acdcba9ee554f3c893b",
-      "LastCommitAt": "2023-10-04T22:50:57Z",
+      "LastCommitSHA": "b94fbfc1cbbe38e5e14a75c512485404ca741a68",
+      "LastCommitAt": "2023-10-11T06:00:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5155,20 +5155,24 @@
       "LastCommitAt": "2023-10-10T17:58:25Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "jcar87",
                "Tier": "team"
+            },
+            {
+               "Name": "czoido",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-10-10T20:00:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20499#pullrequestreview-1668785517"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-10-11T06:09:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20499#pullrequestreview-1670009107"
          }
       }
    },
@@ -5240,6 +5244,25 @@
       "LastCommitSHA": "e2837da47ff1e0fa099afed0d3fc69dd931602fd",
       "LastCommitAt": "2023-10-11T00:12:23Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20514,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-10-11T06:11:03Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20514",
+      "LastCommitSHA": "db57636341b368dbafb6520426adfc6730b0ee64",
+      "LastCommitAt": "2023-10-11T06:09:57Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
