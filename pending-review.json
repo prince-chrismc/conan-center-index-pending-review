@@ -4530,39 +4530,6 @@
       }
    },
    {
-      "Number": 20379,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2023-10-05T15:33:10Z",
-      "Recipe": "boost-ext-ut",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20379",
-      "LastCommitSHA": "dc6e181df95f2b4ef3fbdce86e39d89e2df49952",
-      "LastCommitAt": "2023-10-09T21:49:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "toge",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2023-10-10T18:07:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20379#pullrequestreview-1668526298"
-         }
-      }
-   },
-   {
       "Number": 20385,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-10-05T22:30:13Z",
@@ -5281,7 +5248,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20510",
       "LastCommitSHA": "e2837da47ff1e0fa099afed0d3fc69dd931602fd",
       "LastCommitAt": "2023-10-11T00:12:23Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
