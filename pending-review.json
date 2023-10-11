@@ -4173,7 +4173,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20296",
       "LastCommitSHA": "b94fbfc1cbbe38e5e14a75c512485404ca741a68",
       "LastCommitAt": "2023-10-11T06:00:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4861,8 +4861,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20445",
-      "LastCommitSHA": "a56e52cbe64f294f61ff55a4a375d0747e48d475",
-      "LastCommitAt": "2023-10-08T21:55:15Z",
+      "LastCommitSHA": "e215dedca0bd203de209ce68d667f4a18825c4bd",
+      "LastCommitAt": "2023-10-11T06:40:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -4927,25 +4927,6 @@
             "SubmittedAt": "2023-10-10T08:50:36Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20449#pullrequestreview-1666893859"
          }
-      }
-   },
-   {
-      "Number": 20454,
-      "OpenedBy": "czoido",
-      "CreatedAt": "2023-10-09T06:28:26Z",
-      "Recipe": "sdl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20454",
-      "LastCommitSHA": "3a6b8b45ab823d98186a51a82ba62f58ba4b4f8f",
-      "LastCommitAt": "2023-10-10T07:32:52Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -5244,25 +5225,6 @@
       "LastCommitSHA": "e2837da47ff1e0fa099afed0d3fc69dd931602fd",
       "LastCommitAt": "2023-10-11T00:12:23Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20514,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-10-11T06:11:03Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20514",
-      "LastCommitSHA": "db57636341b368dbafb6520426adfc6730b0ee64",
-      "LastCommitAt": "2023-10-11T06:09:57Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
