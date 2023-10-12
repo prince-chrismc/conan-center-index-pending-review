@@ -1463,25 +1463,6 @@
       }
    },
    {
-      "Number": 18872,
-      "OpenedBy": "Siarh199",
-      "CreatedAt": "2023-07-24T10:27:52Z",
-      "Recipe": "amqp-cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18872",
-      "LastCommitSHA": "228d3f36cc9eddfc708d55fe95eb72f22c2c3a08",
-      "LastCommitAt": "2023-10-11T18:23:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18883,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-24T17:23:02Z",
@@ -4611,7 +4592,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20374",
       "LastCommitSHA": "3b327393e7e0b522f35be35a7ce4420206fe969c",
       "LastCommitAt": "2023-10-12T13:10:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5022,7 +5003,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20535",
       "LastCommitSHA": "2d01b9b24a938475115c7768f74d403d14f70524",
       "LastCommitAt": "2023-10-12T16:33:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5041,6 +5022,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20536",
       "LastCommitSHA": "4c32d062f1dac3ee4a0b258635ee9cf50a4fb37b",
       "LastCommitAt": "2023-10-12T14:58:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20537,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-12T14:41:22Z",
+      "Recipe": "teemo",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20537",
+      "LastCommitSHA": "81c0616c251ef1d4e0ff8780a3a36fcad2c7b239",
+      "LastCommitAt": "2023-10-12T15:00:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
