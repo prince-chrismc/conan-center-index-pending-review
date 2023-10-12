@@ -224,7 +224,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|M|2|Oct 10||
 [#20469](https://github.com/conan-io/conan-center-index/pull/20469)|[toge](https://github.com/toge)|Oct 9|:new: embedded_ringbuf_cpp|M|1|Oct 11||
 [#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|||
-[#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: xorg|:green_circle: XS|0|||
 [#20504](https://github.com/conan-io/conan-center-index/pull/20504)|[kkloberdanz](https://github.com/kkloberdanz)|Oct 10|:stopwatch: mongo-cxx-driver|M|0|||
 [#20514](https://github.com/conan-io/conan-center-index/pull/20514)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:memo: qt|L|1|Oct 11||jwillikers
 [#20520](https://github.com/conan-io/conan-center-index/pull/20520)|[SpaceIm](https://github.com/SpaceIm)|Oct 11|:memo: jinja2cpp|:green_circle: XS|0|||
@@ -232,9 +231,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20531](https://github.com/conan-io/conan-center-index/pull/20531)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:memo: rpclib|:blue_square: S|0|||
 [#20532](https://github.com/conan-io/conan-center-index/pull/20532)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 12|:gear: .c3i|:green_circle: XS|0|||
 [#20533](https://github.com/conan-io/conan-center-index/pull/20533)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:memo: libzen|:blue_square: S|0|||
-[#20535](https://github.com/conan-io/conan-center-index/pull/20535)|[jputcu](https://github.com/jputcu)|Oct 12|:memo: fltk|:green_circle: XS|0|||
+[#20535](https://github.com/conan-io/conan-center-index/pull/20535)|[jputcu](https://github.com/jputcu)|Oct 12|:stopwatch: fltk|:green_circle: XS|0|||
 [#20536](https://github.com/conan-io/conan-center-index/pull/20536)|[toge](https://github.com/toge)|Oct 12|:stopwatch: zoe|L|0|||
 [#20538](https://github.com/conan-io/conan-center-index/pull/20538)|[jwillikers](https://github.com/jwillikers)|Oct 12|:memo: mtdev|:green_circle: XS|0|||
+[#20540](https://github.com/conan-io/conan-center-index/pull/20540)|[jwillikers](https://github.com/jwillikers)|Oct 12|:memo: libglvnd|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -263,8 +263,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 571
 	- Draft: 66
-	- Average Age: 85 days, 12 hours, and 10.41 minutes
-	- Stop Label: 251
+	- Average Age: 85 days, 13 hours, and 4.68 minutes
+	- Stop Label: 252
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
