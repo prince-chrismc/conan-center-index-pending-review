@@ -4054,39 +4054,6 @@
       }
    },
    {
-      "Number": 20250,
-      "OpenedBy": "choll",
-      "CreatedAt": "2023-10-01T22:48:12Z",
-      "Recipe": "sokol",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20250",
-      "LastCommitSHA": "bf4f417f7ede89c3f30852a9a663fdb080133038",
-      "LastCommitAt": "2023-10-11T20:52:42Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-11T21:32:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20250#pullrequestreview-1672634791"
-         }
-      }
-   },
-   {
       "Number": 20260,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-10-02T09:40:44Z",
@@ -4120,7 +4087,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20271",
       "LastCommitSHA": "5d58d83daf6b2f58e6de7b5fb24d2ae3a4392add",
       "LastCommitAt": "2023-10-11T13:46:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -4984,25 +4951,6 @@
             "SubmittedAt": "2023-10-11T12:19:19Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20522#pullrequestreview-1671040144"
          }
-      }
-   },
-   {
-      "Number": 20525,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-11T16:34:39Z",
-      "Recipe": "ada",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20525",
-      "LastCommitSHA": "54e7e84bf4e43511564079df5c24b6020931d10f",
-      "LastCommitAt": "2023-10-11T16:34:14Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
