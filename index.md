@@ -230,7 +230,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **17** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -245,9 +245,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20250](https://github.com/conan-io/conan-center-index/pull/20250)|[choll](https://github.com/choll)|Oct 1|:warning: sokol|6|jwillikers, **RubenRBS**
 [#20420](https://github.com/conan-io/conan-center-index/pull/20420)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 7|:warning: openvino|2|jwillikers, **RubenRBS**
-[#20430](https://github.com/conan-io/conan-center-index/pull/20430)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:memo: twitch-native-ipc|2|**RubenRBS**, jwillikers
 [#20445](https://github.com/conan-io/conan-center-index/pull/20445)|[mayeut](https://github.com/mayeut)|Oct 8|:warning: arrow|2|**RubenRBS**, **danimtb**
-[#20493](https://github.com/conan-io/conan-center-index/pull/20493)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: amqp-cpp|2|**RubenRBS**, jwillikers
 [#20496](https://github.com/conan-io/conan-center-index/pull/20496)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: poly2tri|4|[algarcia-ujaen](https://github.com/algarcia-ujaen), **RubenRBS**, jwillikers
 [#20506](https://github.com/conan-io/conan-center-index/pull/20506)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: libdrm|2|**RubenRBS**, ericLemanissier
 [#20509](https://github.com/conan-io/conan-center-index/pull/20509)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: nmslib|2|**RubenRBS**, ericLemanissier
@@ -260,9 +258,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 584
+	- Open: 581
 	- Draft: 71
-	- Average Age: 83 days, 6 hours, and 13.09 minutes
+	- Average Age: 83 days, 17 hours, and 50.13 minutes
 	- Stop Label: 252
 	
 
