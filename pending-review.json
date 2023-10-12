@@ -5132,5 +5132,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20549,
+      "OpenedBy": "mologie",
+      "CreatedAt": "2023-10-12T21:42:42Z",
+      "Recipe": "android-ndk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20549",
+      "LastCommitSHA": "9d38b6717987640bfcf2de358297444c9de27a16",
+      "LastCommitAt": "2023-10-12T21:35:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
