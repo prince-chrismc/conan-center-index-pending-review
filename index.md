@@ -230,7 +230,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **15** pull requests are waiting to be merged :tada:
+Currently **14** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -246,7 +246,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20250](https://github.com/conan-io/conan-center-index/pull/20250)|[choll](https://github.com/choll)|Oct 1|:warning: sokol|6|jwillikers, **RubenRBS**
 [#20420](https://github.com/conan-io/conan-center-index/pull/20420)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 7|:warning: openvino|2|jwillikers, **RubenRBS**
 [#20445](https://github.com/conan-io/conan-center-index/pull/20445)|[mayeut](https://github.com/mayeut)|Oct 8|:warning: arrow|2|**RubenRBS**, **danimtb**
-[#20496](https://github.com/conan-io/conan-center-index/pull/20496)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: poly2tri|4|[algarcia-ujaen](https://github.com/algarcia-ujaen), **RubenRBS**, jwillikers
 [#20506](https://github.com/conan-io/conan-center-index/pull/20506)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: libdrm|2|**RubenRBS**, ericLemanissier
 [#20509](https://github.com/conan-io/conan-center-index/pull/20509)|[SpaceIm](https://github.com/SpaceIm)|Oct 10|:memo: nmslib|2|**RubenRBS**, ericLemanissier
 [#20510](https://github.com/conan-io/conan-center-index/pull/20510)|[SpaceIm](https://github.com/SpaceIm)|Oct 11|:memo: yaclib|3|**RubenRBS**, jwillikers, **uilianries**
@@ -258,9 +257,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 581
+	- Open: 579
 	- Draft: 71
-	- Average Age: 83 days, 17 hours, and 50.13 minutes
+	- Average Age: 84 days, 1 hours, and 38.23 minutes
 	- Stop Label: 252
 	
 
