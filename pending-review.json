@@ -4072,6 +4072,25 @@
       }
    },
    {
+      "Number": 20268,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-10-02T12:45:09Z",
+      "Recipe": "chipmunk2d",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20268",
+      "LastCommitSHA": "eb475b92f572257ea48cc8fd2210447be94f035b",
+      "LastCommitAt": "2023-10-12T18:24:03Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20269,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-10-02T12:47:03Z",
@@ -4424,8 +4443,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20313",
-      "LastCommitSHA": "52eafcc1daaf563c469b70549810ca6b9b45e14e",
-      "LastCommitAt": "2023-10-03T12:00:24Z",
+      "LastCommitSHA": "474f9d0086f058c9a4b06539ecb5f828bb623ee2",
+      "LastCommitAt": "2023-10-12T18:41:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4443,27 +4462,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20314",
-      "LastCommitSHA": "91633e7dca36bf64528e0df35f06c0dc1883e02f",
-      "LastCommitAt": "2023-10-03T12:01:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20315,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-10-03T12:02:40Z",
-      "Recipe": "dlib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20315",
-      "LastCommitSHA": "2db0ac0ee18a982a44559d5b24e56a2a4c0f4332",
-      "LastCommitAt": "2023-10-03T12:02:20Z",
+      "LastCommitSHA": "a401d1be7213f18f100b43abbd8d26ff72a2eaa0",
+      "LastCommitAt": "2023-10-12T18:41:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4999,11 +4999,11 @@
       "CreatedAt": "2023-10-12T14:18:22Z",
       "Recipe": "fltk",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20535",
-      "LastCommitSHA": "2d01b9b24a938475115c7768f74d403d14f70524",
-      "LastCommitAt": "2023-10-12T16:33:54Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "2064c230ed962828fa1e2073481a109c27782fbf",
+      "LastCommitAt": "2023-10-12T18:47:56Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
