@@ -4797,43 +4797,6 @@
       }
    },
    {
-      "Number": 20496,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-10-10T13:08:19Z",
-      "Recipe": "poly2tri",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20496",
-      "LastCommitSHA": "11ecfe86192db37d8e11d7c8d08871d6eea042b4",
-      "LastCommitAt": "2023-10-10T17:59:15Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "algarcia-ujaen",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-11T14:09:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20496#pullrequestreview-1671345625"
-         }
-      }
-   },
-   {
       "Number": 20502,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2023-10-10T17:18:14Z",
