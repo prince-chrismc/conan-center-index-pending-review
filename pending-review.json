@@ -33,7 +33,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16372",
       "LastCommitSHA": "0af3495d72c4839ab0db8a3918557d480c87b3a1",
       "LastCommitAt": "2023-10-12T18:40:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -4788,6 +4788,30 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20449,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-09T00:24:51Z",
+      "Recipe": "dcmtk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20449",
+      "LastCommitSHA": "9152d8c09b0ac6fabf48ac02512c7f76d45be014",
+      "LastCommitAt": "2023-10-12T20:18:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-10-10T08:50:36Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20449#pullrequestreview-1666893859"
+         }
       }
    },
    {
