@@ -191,7 +191,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20195](https://github.com/conan-io/conan-center-index/pull/20195)|[jwillikers](https://github.com/jwillikers)|Sep 28|:stopwatch: libseat|M|0|:eyes:||
 [#20225](https://github.com/conan-io/conan-center-index/pull/20225)|[SpaceIm](https://github.com/SpaceIm)|Sep 30|:memo: opencascade|L|0|:eyes:||
 [#20260](https://github.com/conan-io/conan-center-index/pull/20260)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: openssl|L|2|Oct 9||
+[#20266](https://github.com/conan-io/conan-center-index/pull/20266)|[valgur](https://github.com/valgur)|Oct 2|:stopwatch: mpg123|:green_circle: XS|1|Oct 12||ericLemanissier
 [#20271](https://github.com/conan-io/conan-center-index/pull/20271)|[valgur](https://github.com/valgur)|Oct 2|:memo: libx264|:green_circle: XS|2|Oct 12||ericLemanissier
+[#20272](https://github.com/conan-io/conan-center-index/pull/20272)|[valgur](https://github.com/valgur)|Oct 2|:stopwatch: libx265|:green_circle: XS|1|Oct 12||ericLemanissier
 [#20278](https://github.com/conan-io/conan-center-index/pull/20278)|[jwillikers](https://github.com/jwillikers)|Oct 2|:new: hwdata|M|8|Oct 11||
 [#20279](https://github.com/conan-io/conan-center-index/pull/20279)|[toge](https://github.com/toge)|Oct 2|:stopwatch: clipper2|:blue_square: S|1|Oct 2||
 [#20287](https://github.com/conan-io/conan-center-index/pull/20287)|[RubenRBS](https://github.com/RubenRBS)|Oct 2|:stopwatch: nmos-cpp|L|6|Oct 10||
@@ -228,8 +230,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20514](https://github.com/conan-io/conan-center-index/pull/20514)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:memo: qt|L|1|Oct 11||jwillikers
 [#20520](https://github.com/conan-io/conan-center-index/pull/20520)|[SpaceIm](https://github.com/SpaceIm)|Oct 11|:memo: jinja2cpp|:green_circle: XS|0|||
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|||
-[#20522](https://github.com/conan-io/conan-center-index/pull/20522)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Oct 11|:stopwatch: glib|:green_circle: XS|1|Oct 11||
-[#20527](https://github.com/conan-io/conan-center-index/pull/20527)|[mayeut](https://github.com/mayeut)|Oct 11|:stopwatch: onnxruntime|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -256,9 +256,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 571
-	- Draft: 71
-	- Average Age: 85 days, 8 hours, and 2.90 minutes
+	- Open: 570
+	- Draft: 69
+	- Average Age: 85 days, 12 hours, and 40.96 minutes
 	- Stop Label: 248
 	
 
