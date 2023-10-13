@@ -237,8 +237,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20540](https://github.com/conan-io/conan-center-index/pull/20540)|[jwillikers](https://github.com/jwillikers)|Oct 12|:memo: libglvnd|:green_circle: XS|0|||
 [#20545](https://github.com/conan-io/conan-center-index/pull/20545)|[jwillikers](https://github.com/jwillikers)|Oct 12|:stopwatch: xkbcommon|:blue_square: S|0|||
 [#20546](https://github.com/conan-io/conan-center-index/pull/20546)|[luizfeldmann](https://github.com/luizfeldmann)|Oct 12|:stopwatch: optick|M|0|||
-[#20549](https://github.com/conan-io/conan-center-index/pull/20549)|[mologie](https://github.com/mologie)|Oct 12|:stopwatch: android-ndk|:blue_square: S|0|||
-[#20550](https://github.com/conan-io/conan-center-index/pull/20550)|[bemehiser](https://github.com/bemehiser)|Oct 12|:stopwatch: websocketpp|:green_circle: XS|0|||
+[#20549](https://github.com/conan-io/conan-center-index/pull/20549)|[mologie](https://github.com/mologie)|Oct 12|:memo: android-ndk|:blue_square: S|0|||
+[#20550](https://github.com/conan-io/conan-center-index/pull/20550)|[bemehiser](https://github.com/bemehiser)|Oct 12|:memo: websocketpp|:green_circle: XS|0|||
 [#20551](https://github.com/conan-io/conan-center-index/pull/20551)|[bemehiser](https://github.com/bemehiser)|Oct 12|:stopwatch: cpprestsdk|:green_circle: XS|0|||
 
 
@@ -268,7 +268,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 577
 	- Draft: 66
-	- Average Age: 84 days, 21 hours, and 19.38 minutes
+	- Average Age: 84 days, 22 hours, and 57.89 minutes
 	- Stop Label: 254
 	
 
