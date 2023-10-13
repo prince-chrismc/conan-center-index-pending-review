@@ -1520,8 +1520,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18885",
-      "LastCommitSHA": "7dfabe5825eadc59acaa6d3e28f4577fbd321523",
-      "LastCommitAt": "2023-10-13T07:27:59Z",
+      "LastCommitSHA": "7ae99387b4a53376b993d1757c8657be988dc21c",
+      "LastCommitAt": "2023-10-13T10:25:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -3700,8 +3700,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20080",
-      "LastCommitSHA": "8a63edcc1fac3f4b6a88f5862bb82d988a146b7b",
-      "LastCommitAt": "2023-10-12T08:39:12Z",
+      "LastCommitSHA": "0d7bed55938995bdba149e295a3df3d2003fb0ae",
+      "LastCommitAt": "2023-10-13T10:29:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -4391,25 +4391,6 @@
       }
    },
    {
-      "Number": 20309,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-10-03T11:56:11Z",
-      "Recipe": "kangaru",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20309",
-      "LastCommitSHA": "4000dcd5e35fd72d8c8cccb23cd1fb329e31a30e",
-      "LastCommitAt": "2023-10-13T09:55:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20314,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-10-03T12:01:49Z",
@@ -5078,25 +5059,6 @@
       "LastCommitSHA": "0b21685e9731a8c312304574a0e1a5140dca1886",
       "LastCommitAt": "2023-10-12T19:27:31Z",
       "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20550,
-      "OpenedBy": "bemehiser",
-      "CreatedAt": "2023-10-12T23:02:45Z",
-      "Recipe": "websocketpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20550",
-      "LastCommitSHA": "bc2f7c6db13cb8a53d4576c32e36312654d4c2aa",
-      "LastCommitAt": "2023-10-12T23:04:07Z",
-      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
