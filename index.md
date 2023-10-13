@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **202** pull requests currently under way :detective:
+There are **201** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -166,8 +166,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19978](https://github.com/conan-io/conan-center-index/pull/19978)|[valgur](https://github.com/valgur)|Sep 20|:memo: spirv-headers|M|0|:eyes:||
 [#20001](https://github.com/conan-io/conan-center-index/pull/20001)|[gagoi](https://github.com/gagoi)|Sep 20|:memo: stb|:green_circle: XS|0|:eyes:||
 [#20009](https://github.com/conan-io/conan-center-index/pull/20009)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: minitrace|:blue_square: S|0|:eyes:||
-[#20020](https://github.com/conan-io/conan-center-index/pull/20020)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: vc|:green_circle: XS|0|||
-[#20023](https://github.com/conan-io/conan-center-index/pull/20023)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: ezc3d|:green_circle: XS|0|||
 [#20027](https://github.com/conan-io/conan-center-index/pull/20027)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: xtensor|L|2|Oct 2||
 [#20035](https://github.com/conan-io/conan-center-index/pull/20035)|[valgur](https://github.com/valgur)|Sep 20|:memo: ssht|:blue_square: S|1|Oct 13||**RubenRBS**
 [#20050](https://github.com/conan-io/conan-center-index/pull/20050)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: h5pp|:green_circle: XS|0|:eyes:||
@@ -216,7 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|:blue_square: S|2|Oct 10||
 [#20469](https://github.com/conan-io/conan-center-index/pull/20469)|[toge](https://github.com/toge)|Oct 9|:new: embedded_ringbuf_cpp|M|2|Oct 13||jwillikers
 [#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|||
-[#20504](https://github.com/conan-io/conan-center-index/pull/20504)|[kkloberdanz](https://github.com/kkloberdanz)|Oct 10|:stopwatch: mongo-cxx-driver|M|0|||
+[#20504](https://github.com/conan-io/conan-center-index/pull/20504)|[kkloberdanz](https://github.com/kkloberdanz)|Oct 10|:stopwatch: mongo-cxx-driver|M|0|:eyes:||
 [#20514](https://github.com/conan-io/conan-center-index/pull/20514)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 11|:memo: qt|L|1|Oct 11||jwillikers
 [#20520](https://github.com/conan-io/conan-center-index/pull/20520)|[SpaceIm](https://github.com/SpaceIm)|Oct 11|:memo: jinja2cpp|:green_circle: XS|1|Oct 13||**RubenRBS**
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|||
@@ -229,6 +227,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20545](https://github.com/conan-io/conan-center-index/pull/20545)|[jwillikers](https://github.com/jwillikers)|Oct 12|:stopwatch: xkbcommon|:green_circle: XS|1|Oct 13||
 [#20546](https://github.com/conan-io/conan-center-index/pull/20546)|[luizfeldmann](https://github.com/luizfeldmann)|Oct 12|:stopwatch: optick|M|0|||
 [#20554](https://github.com/conan-io/conan-center-index/pull/20554)|[SpaceIm](https://github.com/SpaceIm)|Oct 13|:memo: wslay|:green_circle: XS|0|||
+[#20557](https://github.com/conan-io/conan-center-index/pull/20557)|[jwillikers](https://github.com/jwillikers)|Oct 13|:stopwatch: libsystemd|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -255,9 +254,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 564
+	- Open: 561
 	- Draft: 66
-	- Average Age: 87 days, 4 hours, and 31.61 minutes
+	- Average Age: 87 days, 13 hours, and 50.05 minutes
 	- Stop Label: 251
 	
 
