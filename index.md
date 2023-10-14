@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **203** pull requests currently under way :detective:
+There are **205** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -207,6 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20385](https://github.com/conan-io/conan-center-index/pull/20385)|[mayeut](https://github.com/mayeut)|Oct 5|:memo: xerces-c|:green_circle: XS|5|Oct 7||
 [#20388](https://github.com/conan-io/conan-center-index/pull/20388)|[toge](https://github.com/toge)|Oct 6|:new: fast_io|M|2|Oct 13||jwillikers
 [#20392](https://github.com/conan-io/conan-center-index/pull/20392)|[bverhagen](https://github.com/bverhagen)|Oct 6|:memo: onnxruntime|M|4|Oct 11||
+[#20400](https://github.com/conan-io/conan-center-index/pull/20400)|[mayeut](https://github.com/mayeut)|Oct 7|:stopwatch: tesseract|:blue_square: S|0|:eyes:||
 [#20411](https://github.com/conan-io/conan-center-index/pull/20411)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: ulfius|:blue_square: S|0|||
 [#20415](https://github.com/conan-io/conan-center-index/pull/20415)|[toge](https://github.com/toge)|Oct 7|:new: iowow|L|0|:eyes:||
 [#20438](https://github.com/conan-io/conan-center-index/pull/20438)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cmake|:green_circle: XS|3|Oct 8||
@@ -229,6 +230,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20557](https://github.com/conan-io/conan-center-index/pull/20557)|[jwillikers](https://github.com/jwillikers)|Oct 13|:memo: libsystemd|M|1|Oct 14||**RubenRBS**
 [#20558](https://github.com/conan-io/conan-center-index/pull/20558)|[jputcu](https://github.com/jputcu)|Oct 13|:memo: fltk|:green_circle: XS|0|||
 [#20560](https://github.com/conan-io/conan-center-index/pull/20560)|[toge](https://github.com/toge)|Oct 13|:memo: thelink2012-any|:green_circle: XS|1|Oct 14||**RubenRBS**
+[#20562](https://github.com/conan-io/conan-center-index/pull/20562)|[SpaceIm](https://github.com/SpaceIm)|Oct 14|:memo: yajl|L|0|||
 [#20563](https://github.com/conan-io/conan-center-index/pull/20563)|[mayeut](https://github.com/mayeut)|Oct 14|:stopwatch: opencv|:blue_square: S|0|||
 
 
@@ -256,9 +258,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
 	- Open: 558
-	- Draft: 66
-	- Average Age: 88 days, 2 hours, and 3.94 minutes
-	- Stop Label: 248
+	- Draft: 65
+	- Average Age: 88 days, 3 hours, and 4.89 minutes
+	- Stop Label: 247
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
