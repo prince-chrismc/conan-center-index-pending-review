@@ -5292,24 +5292,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 20568,
-      "OpenedBy": "gureedo",
-      "CreatedAt": "2023-10-14T13:08:31Z",
-      "Recipe": "mbedtls",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20568",
-      "LastCommitSHA": "bc53e5324f84e1bc801f5818cae80d0773d1b1af",
-      "LastCommitAt": "2023-10-14T12:59:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
