@@ -219,7 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|||
 [#20531](https://github.com/conan-io/conan-center-index/pull/20531)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:memo: rpclib|:blue_square: S|1|Oct 14||**RubenRBS**
 [#20533](https://github.com/conan-io/conan-center-index/pull/20533)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:memo: libzen|:blue_square: S|0|||
-[#20536](https://github.com/conan-io/conan-center-index/pull/20536)|[toge](https://github.com/toge)|Oct 12|:stopwatch: zoe|L|1|Oct 14||
+[#20536](https://github.com/conan-io/conan-center-index/pull/20536)|[toge](https://github.com/toge)|Oct 12|:new: zoe|L|1|Oct 14||
 [#20538](https://github.com/conan-io/conan-center-index/pull/20538)|[jwillikers](https://github.com/jwillikers)|Oct 12|:memo: mtdev|:green_circle: XS|1|Oct 14||**RubenRBS**
 [#20540](https://github.com/conan-io/conan-center-index/pull/20540)|[jwillikers](https://github.com/jwillikers)|Oct 12|:memo: libglvnd|:green_circle: XS|1|Oct 14||**RubenRBS**
 [#20545](https://github.com/conan-io/conan-center-index/pull/20545)|[jwillikers](https://github.com/jwillikers)|Oct 12|:stopwatch: xkbcommon|:green_circle: XS|1|Oct 13||
@@ -256,7 +256,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 557
 	- Draft: 66
-	- Average Age: 87 days, 23 hours, and 53.31 minutes
+	- Average Age: 88 days, 1 hours, and 51.21 minutes
 	- Stop Label: 248
 	
 
