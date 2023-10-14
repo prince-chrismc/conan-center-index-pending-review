@@ -228,7 +228,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20546](https://github.com/conan-io/conan-center-index/pull/20546)|[luizfeldmann](https://github.com/luizfeldmann)|Oct 12|:stopwatch: optick|M|0|||
 [#20554](https://github.com/conan-io/conan-center-index/pull/20554)|[SpaceIm](https://github.com/SpaceIm)|Oct 13|:memo: wslay|:green_circle: XS|1|Oct 14||**RubenRBS**
 [#20555](https://github.com/conan-io/conan-center-index/pull/20555)|[SpaceIm](https://github.com/SpaceIm)|Oct 13|:memo: tinkerforge-bindings|:blue_square: S|1|Oct 14||**RubenRBS**
-[#20557](https://github.com/conan-io/conan-center-index/pull/20557)|[jwillikers](https://github.com/jwillikers)|Oct 13|:memo: libsystemd|M|0|||
+[#20557](https://github.com/conan-io/conan-center-index/pull/20557)|[jwillikers](https://github.com/jwillikers)|Oct 13|:memo: libsystemd|M|1|Oct 14||**RubenRBS**
 [#20558](https://github.com/conan-io/conan-center-index/pull/20558)|[jputcu](https://github.com/jputcu)|Oct 13|:memo: fltk|:green_circle: XS|0|||
 [#20560](https://github.com/conan-io/conan-center-index/pull/20560)|[toge](https://github.com/toge)|Oct 13|:memo: thelink2012-any|:green_circle: XS|0|||
 
@@ -258,7 +258,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 559
 	- Draft: 66
-	- Average Age: 87 days, 14 hours, and 19.40 minutes
+	- Average Age: 87 days, 14 hours, and 25.16 minutes
 	- Stop Label: 248
 	
 
