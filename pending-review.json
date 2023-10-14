@@ -2596,7 +2596,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19509",
       "LastCommitSHA": "bf5d82283e72ca361276bfbf6dad5aa69dc4ee59",
       "LastCommitAt": "2023-10-14T16:49:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -3435,6 +3435,32 @@
       }
    },
    {
+      "Number": 19982,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-09-20T11:09:41Z",
+      "Recipe": "spirv-cross",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19982",
+      "LastCommitSHA": "c399cd88c6d7d953d1a6d07df7d2bda8be135159",
+      "LastCommitAt": "2023-10-14T18:56:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "RubenRBS"
+         ],
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-10-06T17:48:06Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19982#pullrequestreview-1662534198"
+         }
+      }
+   },
+   {
       "Number": 20001,
       "OpenedBy": "gagoi",
       "CreatedAt": "2023-09-20T19:40:28Z",
@@ -3480,8 +3506,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20027",
-      "LastCommitSHA": "06ab6ddccf696d8d6329b4a93ebcdf6cadde5fd0",
-      "LastCommitAt": "2023-10-02T10:40:18Z",
+      "LastCommitSHA": "331800266a37b9c471a7cace948b9e281549d556",
+      "LastCommitAt": "2023-10-14T18:59:11Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -4162,7 +4188,7 @@
       "LastCommitAt": "2023-10-14T13:17:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -4174,8 +4200,8 @@
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-10-14T13:45:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20274#pullrequestreview-1678111913"
+            "SubmittedAt": "2023-10-14T18:59:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20274#pullrequestreview-1678381596"
          }
       }
    },
