@@ -5089,5 +5089,24 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20560#pullrequestreview-1677620506"
          }
       }
+   },
+   {
+      "Number": 20563,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-14T08:50:25Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20563",
+      "LastCommitSHA": "326498ea912fd75b627246d7d2272957067bf624",
+      "LastCommitAt": "2023-10-14T08:49:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
