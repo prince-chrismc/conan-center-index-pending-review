@@ -5297,5 +5297,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20571,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-15T02:22:08Z",
+      "Recipe": "cpr",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20571",
+      "LastCommitSHA": "9ead020ae1864d4646c3cd481aac29902ff0e7a8",
+      "LastCommitAt": "2023-10-15T02:21:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
