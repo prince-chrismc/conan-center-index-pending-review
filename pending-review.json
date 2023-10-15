@@ -199,35 +199,6 @@
       }
    },
    {
-      "Number": 17173,
-      "OpenedBy": "joakimono",
-      "CreatedAt": "2023-04-23T15:20:59Z",
-      "Recipe": "openblas",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17173",
-      "LastCommitSHA": "a3d8899c72eb0cc87b6de0224c049f989ea525b6",
-      "LastCommitAt": "2023-08-31T06:53:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 17,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "samuel-emrys",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-08-28T10:48:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17173#pullrequestreview-1598050501"
-         }
-      }
-   },
-   {
       "Number": 17183,
       "OpenedBy": "boussaffawalid",
       "CreatedAt": "2023-04-24T09:50:43Z",
@@ -491,32 +462,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-10-06T17:00:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17509#pullrequestreview-1662304051"
-         }
-      }
-   },
-   {
-      "Number": 17528,
-      "OpenedBy": "kammce",
-      "CreatedAt": "2023-05-11T15:49:53Z",
-      "Recipe": "arm-gnu-toolchain",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17528",
-      "LastCommitSHA": "c6bc92c1965616bf43eff0bcf92a3b1952951d8b",
-      "LastCommitAt": "2023-08-25T19:10:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 12,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "RubenRBS"
-         ],
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-08-25T17:18:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17528#pullrequestreview-1596175953"
          }
       }
    },
@@ -1627,25 +1572,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18929",
       "LastCommitSHA": "f554d925670f824376608d4e5ee8adc050026331",
       "LastCommitAt": "2023-07-27T12:15:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 18945,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-28T13:42:44Z",
-      "Recipe": "i2c-tools",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18945",
-      "LastCommitSHA": "080a0074c921ad72061a4d8c06557b86b7ebd1fe",
-      "LastCommitAt": "2023-09-12T20:31:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3053,25 +2979,6 @@
             "SubmittedAt": "2023-09-21T13:13:04Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19759#pullrequestreview-1637791443"
          }
-      }
-   },
-   {
-      "Number": 19763,
-      "OpenedBy": "holger-detering",
-      "CreatedAt": "2023-09-12T16:20:49Z",
-      "Recipe": "aws-c-io",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19763",
-      "LastCommitSHA": "d91e370edd3d28384021af30d8438d14275076d4",
-      "LastCommitAt": "2023-09-14T22:28:17Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -5346,7 +5253,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20573",
       "LastCommitSHA": "89f674ea5f2ad9d1fa9663abc9bbe330cb1c8d2e",
       "LastCommitAt": "2023-10-15T02:37:24Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
