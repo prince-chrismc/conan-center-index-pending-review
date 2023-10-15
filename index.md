@@ -238,7 +238,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20562](https://github.com/conan-io/conan-center-index/pull/20562)|[SpaceIm](https://github.com/SpaceIm)|Oct 14|:memo: yajl|L|0|||
 [#20565](https://github.com/conan-io/conan-center-index/pull/20565)|[matheusgomes28](https://github.com/matheusgomes28)|Oct 14|:stopwatch: qt|:green_circle: XS|0|||
 [#20566](https://github.com/conan-io/conan-center-index/pull/20566)|[SpaceIm](https://github.com/SpaceIm)|Oct 14|:memo: replxx|L|0|||
-[#20571](https://github.com/conan-io/conan-center-index/pull/20571)|[toge](https://github.com/toge)|Oct 15|:stopwatch: cpr|:green_circle: XS|0|||
+[#20571](https://github.com/conan-io/conan-center-index/pull/20571)|[toge](https://github.com/toge)|Oct 15|:memo: cpr|:green_circle: XS|0|||
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|0|||
 [#20573](https://github.com/conan-io/conan-center-index/pull/20573)|[toge](https://github.com/toge)|Oct 15|:stopwatch: c-blosc2|M|0|||
 
@@ -268,7 +268,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 563
 	- Draft: 65
-	- Average Age: 88 days, and 10.96 minutes
+	- Average Age: 88 days, 2 hours, and 10.14 minutes
 	- Stop Label: 246
 	
 
