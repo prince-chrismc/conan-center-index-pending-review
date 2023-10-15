@@ -933,7 +933,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18626",
       "LastCommitSHA": "d646ee291e7513c6a54b97f73d505f80f876df8d",
       "LastCommitAt": "2023-10-15T08:08:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2318,25 +2318,6 @@
             "SubmittedAt": "2023-09-04T11:54:27Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19509#pullrequestreview-1609348971"
          }
-      }
-   },
-   {
-      "Number": 19551,
-      "OpenedBy": "cschreib",
-      "CreatedAt": "2023-09-01T15:40:47Z",
-      "Recipe": "snitch",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19551",
-      "LastCommitSHA": "74f49146c75dd843a772e6edbb36b83c095e5765",
-      "LastCommitAt": "2023-09-11T07:14:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
