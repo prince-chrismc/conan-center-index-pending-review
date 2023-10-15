@@ -5316,5 +5316,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20572,
+      "OpenedBy": "wing328",
+      "CreatedAt": "2023-10-15T02:31:30Z",
+      "Recipe": "openapi-generator",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20572",
+      "LastCommitSHA": "2fbfa1d86f77266c87a5a461db5a982d33579962",
+      "LastCommitAt": "2023-10-15T02:31:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20573,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-15T02:37:57Z",
+      "Recipe": "c-blosc2",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20573",
+      "LastCommitSHA": "89f674ea5f2ad9d1fa9663abc9bbe330cb1c8d2e",
+      "LastCommitAt": "2023-10-15T02:37:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
