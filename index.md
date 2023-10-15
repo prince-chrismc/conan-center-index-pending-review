@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **171** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -159,7 +159,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20293](https://github.com/conan-io/conan-center-index/pull/20293)|[cqc-alec](https://github.com/cqc-alec)|Oct 3|:stopwatch: symengine|:green_circle: XS|0|:eyes:||
 [#20296](https://github.com/conan-io/conan-center-index/pull/20296)|[seladb](https://github.com/seladb)|Oct 3|:memo: pcapplusplus|M|7|Oct 11||
 [#20314](https://github.com/conan-io/conan-center-index/pull/20314)|[valgur](https://github.com/valgur)|Oct 3|:memo: cppbenchmark|:green_circle: XS|0|||
-[#20323](https://github.com/conan-io/conan-center-index/pull/20323)|[valgur](https://github.com/valgur)|Oct 3|:memo: recastnavigation|L|5|Oct 3||
+[#20323](https://github.com/conan-io/conan-center-index/pull/20323)|[valgur](https://github.com/valgur)|Oct 3|:memo: recastnavigation|L|5|Oct 3 :bell:||
 [#20325](https://github.com/conan-io/conan-center-index/pull/20325)|[toge](https://github.com/toge)|Oct 3|:stopwatch: s2n|:green_circle: XS|0|:eyes:||
 [#20326](https://github.com/conan-io/conan-center-index/pull/20326)|[Rdk-T](https://github.com/Rdk-T)|Oct 3|:memo: kickcat|:green_circle: XS|2|Oct 10||[leducp](https://github.com/leducp), [trns1997](https://github.com/trns1997)
 [#20354](https://github.com/conan-io/conan-center-index/pull/20354)|[weatherhead99](https://github.com/weatherhead99)|Oct 4|:stopwatch: aravis|M|0|:eyes:||
@@ -198,6 +198,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20573](https://github.com/conan-io/conan-center-index/pull/20573)|[toge](https://github.com/toge)|Oct 15|:memo: c-blosc2|M|0|||
 [#20580](https://github.com/conan-io/conan-center-index/pull/20580)|[jwillikers](https://github.com/jwillikers)|Oct 15|:stopwatch: qcustomplot|:green_circle: XS|0|||
 [#20581](https://github.com/conan-io/conan-center-index/pull/20581)|[toge](https://github.com/toge)|Oct 15|:stopwatch: perfetto|:green_circle: XS|0|||
+[#20583](https://github.com/conan-io/conan-center-index/pull/20583)|[toge](https://github.com/toge)|Oct 15|:stopwatch: sqlpp11|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -222,9 +223,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 541
+	- Open: 542
 	- Draft: 60
-	- Average Age: 83 days, 6 hours, and 20.31 minutes
+	- Average Age: 83 days, 3 hours, and 34.89 minutes
 	- Stop Label: 281
 	
 
