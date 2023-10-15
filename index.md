@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **172** pull requests currently under way :detective:
+There are **171** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -198,12 +198,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20573](https://github.com/conan-io/conan-center-index/pull/20573)|[toge](https://github.com/toge)|Oct 15|:memo: c-blosc2|M|0|||
 [#20580](https://github.com/conan-io/conan-center-index/pull/20580)|[jwillikers](https://github.com/jwillikers)|Oct 15|:stopwatch: qcustomplot|:green_circle: XS|0|||
 [#20581](https://github.com/conan-io/conan-center-index/pull/20581)|[toge](https://github.com/toge)|Oct 15|:stopwatch: perfetto|:green_circle: XS|0|||
-[#20582](https://github.com/conan-io/conan-center-index/pull/20582)|[toge](https://github.com/toge)|Oct 15|:stopwatch: clipboard_lite|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -215,7 +214,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20199](https://github.com/conan-io/conan-center-index/pull/20199)|[uilianries](https://github.com/uilianries)|Sep 29|:warning: ixwebsocket|5|ericLemanissier, **RubenRBS**, **czoido**
 [#20221](https://github.com/conan-io/conan-center-index/pull/20221)|[RubenRBS](https://github.com/RubenRBS)|Sep 30|:warning: cryptopp-pem|2|**uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
-[#20560](https://github.com/conan-io/conan-center-index/pull/20560)|[toge](https://github.com/toge)|Oct 13|:memo: thelink2012-any|2|**RubenRBS**, jwillikers
 
 
 #### :clipboard: Statistics
@@ -224,10 +222,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 543
+	- Open: 541
 	- Draft: 60
-	- Average Age: 82 days, 22 hours, and 1.38 minutes
-	- Stop Label: 280
+	- Average Age: 83 days, 6 hours, and 20.31 minutes
+	- Stop Label: 281
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
