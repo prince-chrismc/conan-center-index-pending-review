@@ -4321,5 +4321,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20583,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-15T16:34:15Z",
+      "Recipe": "sqlpp11",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20583",
+      "LastCommitSHA": "05d40faa3295f8cc97263cb6daf1a68e47b2e5cf",
+      "LastCommitAt": "2023-10-15T16:32:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
