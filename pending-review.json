@@ -3787,15 +3787,20 @@
       "LastCommitAt": "2023-10-10T15:15:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 5,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-09-29T12:04:01Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20097#pullrequestreview-1650647300"
+            "SubmittedAt": "2023-10-15T00:25:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20097#pullrequestreview-1678530692"
          }
       }
    },
