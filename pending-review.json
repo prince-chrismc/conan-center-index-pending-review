@@ -181,7 +181,7 @@
       "LastCommitAt": "2023-08-10T17:50:33Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
+         "Count": 7,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
@@ -196,9 +196,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-06-28T11:49:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17272#pullrequestreview-1502907266"
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-10-16T06:45:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17272#pullrequestreview-1679215730"
          }
       }
    },
@@ -1081,35 +1081,6 @@
             "ReviewerName": "SpaceIm",
             "SubmittedAt": "2023-09-21T17:45:45Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18883#pullrequestreview-1638402204"
-         }
-      }
-   },
-   {
-      "Number": 18885,
-      "OpenedBy": "achim-k",
-      "CreatedAt": "2023-07-24T18:31:13Z",
-      "Recipe": "foxglove-websocket",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18885",
-      "LastCommitSHA": "7ae99387b4a53376b993d1757c8657be988dc21c",
-      "LastCommitAt": "2023-10-13T10:25:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-10-16T06:17:27Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18885#pullrequestreview-1679181897"
          }
       }
    },
@@ -3406,15 +3377,20 @@
       "LastCommitAt": "2023-10-12T03:15:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 9,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-10-11T14:37:11Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20278#pullrequestreview-1671417812"
+            "SubmittedAt": "2023-10-16T07:09:22Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20278#pullrequestreview-1679258600"
          }
       }
    },
@@ -4313,8 +4289,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20568",
-      "LastCommitSHA": "d04086a0000b947755bc4a7f6b32cb3107c2a08f",
-      "LastCommitAt": "2023-10-15T10:07:40Z",
+      "LastCommitSHA": "a042031212ef5c8cf73c96562f54f5ccca7ec507",
+      "LastCommitAt": "2023-10-16T06:25:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -4435,6 +4411,25 @@
       "LastCommitSHA": "5053710b205248403e2af7bc6e77b118478d5c05",
       "LastCommitAt": "2023-10-15T14:54:41Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20582,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-15T15:02:19Z",
+      "Recipe": "clipboard_lite",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20582",
+      "LastCommitSHA": "9913aae547a7178bd79d3f5a3658d3452ab6e5cb",
+      "LastCommitAt": "2023-10-16T05:10:37Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
