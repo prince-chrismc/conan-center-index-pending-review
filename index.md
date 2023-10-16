@@ -178,7 +178,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20442](https://github.com/conan-io/conan-center-index/pull/20442)|[toge](https://github.com/toge)|Oct 8|:new: chunkio|L|2|Oct 9|RubenRBS|
 [#20446](https://github.com/conan-io/conan-center-index/pull/20446)|[SpaceIm](https://github.com/SpaceIm)|Oct 8|:stopwatch: aws-sdk-cpp|:blue_square: S|0|:eyes:||
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|:blue_square: S|2|Oct 10||
-[#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|||
+[#20472](https://github.com/conan-io/conan-center-index/pull/20472)|[fixstars-sonali](https://github.com/fixstars-sonali)|Oct 9|:stopwatch: aravis|M|0|:eyes:||
 [#20504](https://github.com/conan-io/conan-center-index/pull/20504)|[kkloberdanz](https://github.com/kkloberdanz)|Oct 10|:stopwatch: mongo-cxx-driver|M|0|:eyes:||
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
 [#20533](https://github.com/conan-io/conan-center-index/pull/20533)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:memo: libzen|:blue_square: S|1|Oct 16||jwillikers
@@ -204,7 +204,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20599](https://github.com/conan-io/conan-center-index/pull/20599)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: nettle|:green_circle: XS|1|Oct 16||jwillikers
 [#20603](https://github.com/conan-io/conan-center-index/pull/20603)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: xmlsec|:green_circle: XS|0|:eyes:||
 [#20604](https://github.com/conan-io/conan-center-index/pull/20604)|[toge](https://github.com/toge)|Oct 16|:stopwatch: pdf-writer|:green_circle: XS|1|Oct 16||**RubenRBS**
-[#20605](https://github.com/conan-io/conan-center-index/pull/20605)|[toge](https://github.com/toge)|Oct 16|:stopwatch: nghttp3|:blue_square: S|1|Oct 16||
+[#20605](https://github.com/conan-io/conan-center-index/pull/20605)|[toge](https://github.com/toge)|Oct 16|:stopwatch: nghttp3|:blue_square: S|2|Oct 16||**RubenRBS**
 [#20606](https://github.com/conan-io/conan-center-index/pull/20606)|[toge](https://github.com/toge)|Oct 16|:stopwatch: mfast|:green_circle: XS|1|Oct 16||**RubenRBS**
 
 
@@ -236,7 +236,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 549
 	- Draft: 60
-	- Average Age: 82 days, 3 hours, and 51.05 minutes
+	- Average Age: 82 days, 4 hours, and 44.65 minutes
 	- Stop Label: 278
 	
 
