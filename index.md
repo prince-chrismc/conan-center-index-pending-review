@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **178** pull requests currently under way :detective:
+There are **180** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -129,7 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19978](https://github.com/conan-io/conan-center-index/pull/19978)|[valgur](https://github.com/valgur)|Sep 20|:memo: spirv-headers|M|0|:eyes:||
 [#19982](https://github.com/conan-io/conan-center-index/pull/19982)|[valgur](https://github.com/valgur)|Sep 20|:memo: spirv-cross|L|4|Oct 6|RubenRBS|
 [#20001](https://github.com/conan-io/conan-center-index/pull/20001)|[gagoi](https://github.com/gagoi)|Sep 20|:memo: stb|:green_circle: XS|0|:eyes:||
-[#20009](https://github.com/conan-io/conan-center-index/pull/20009)|[valgur](https://github.com/valgur)|Sep 20|:memo: minitrace|:blue_square: S|0|||
+[#20009](https://github.com/conan-io/conan-center-index/pull/20009)|[valgur](https://github.com/valgur)|Sep 20|:memo: minitrace|:blue_square: S|0|:eyes:||
 [#20027](https://github.com/conan-io/conan-center-index/pull/20027)|[valgur](https://github.com/valgur)|Sep 20|:memo: xtensor|L|2|Oct 2 :bell:||
 [#20050](https://github.com/conan-io/conan-center-index/pull/20050)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: h5pp|:green_circle: XS|0|:eyes:||
 [#20066](https://github.com/conan-io/conan-center-index/pull/20066)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:new: ensmallen|M|0|:eyes:||
@@ -204,7 +204,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20598](https://github.com/conan-io/conan-center-index/pull/20598)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: mongo-c-driver|:green_circle: XS|1|Oct 16||jwillikers
 [#20599](https://github.com/conan-io/conan-center-index/pull/20599)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: nettle|:green_circle: XS|1|Oct 16||jwillikers
 [#20603](https://github.com/conan-io/conan-center-index/pull/20603)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: xmlsec|:green_circle: XS|0|:eyes:||
-[#20604](https://github.com/conan-io/conan-center-index/pull/20604)|[toge](https://github.com/toge)|Oct 16|:stopwatch: pdf-writer|:green_circle: XS|0|||
+[#20604](https://github.com/conan-io/conan-center-index/pull/20604)|[toge](https://github.com/toge)|Oct 16|:stopwatch: pdf-writer|:green_circle: XS|1|Oct 16||**RubenRBS**
+[#20605](https://github.com/conan-io/conan-center-index/pull/20605)|[toge](https://github.com/toge)|Oct 16|:stopwatch: nghttp3|:blue_square: S|1|Oct 16||
+[#20606](https://github.com/conan-io/conan-center-index/pull/20606)|[toge](https://github.com/toge)|Oct 16|:stopwatch: mfast|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -233,10 +235,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 549
+	- Open: 550
 	- Draft: 60
-	- Average Age: 82 days, 3 hours, and 35.25 minutes
-	- Stop Label: 279
+	- Average Age: 81 days, 23 hours, and 17.82 minutes
+	- Stop Label: 278
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
