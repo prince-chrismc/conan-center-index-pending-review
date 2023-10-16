@@ -674,39 +674,6 @@
       }
    },
    {
-      "Number": 18629,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-18T20:35:09Z",
-      "Recipe": "libsass",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18629",
-      "LastCommitSHA": "b6ebd9428a20b1d9d43c0bed6ce9a196065e3446",
-      "LastCommitAt": "2023-09-19T08:02:58Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-10-16T18:01:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18629#pullrequestreview-1680659286"
-         }
-      }
-   },
-   {
       "Number": 18647,
       "OpenedBy": "Cogitri",
       "CreatedAt": "2023-07-19T09:06:36Z",
