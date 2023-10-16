@@ -966,6 +966,30 @@
       }
    },
    {
+      "Number": 18826,
+      "OpenedBy": "klausholstjacobsen",
+      "CreatedAt": "2023-07-22T16:38:50Z",
+      "Recipe": "zstd",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18826",
+      "LastCommitSHA": "cd205fd4a4f1b180c9fbf3c4b29566fbaec786a7",
+      "LastCommitAt": "2023-10-15T16:52:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 11,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-09-04T08:00:19Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18826#pullrequestreview-1608973684"
+         }
+      }
+   },
+   {
       "Number": 18831,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-22T19:43:46Z",
@@ -2866,6 +2890,25 @@
             "SubmittedAt": "2023-10-10T10:10:47Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20093#pullrequestreview-1667122860"
          }
+      }
+   },
+   {
+      "Number": 20160,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-26T16:42:43Z",
+      "Recipe": "duckdb",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20160",
+      "LastCommitSHA": "e75c60983ee7eb109613baa836b2bef8346d3a12",
+      "LastCommitAt": "2023-10-15T14:42:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
