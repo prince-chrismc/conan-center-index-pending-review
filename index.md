@@ -196,14 +196,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20565](https://github.com/conan-io/conan-center-index/pull/20565)|[matheusgomes28](https://github.com/matheusgomes28)|Oct 14|:stopwatch: qt|:green_circle: XS|0|||
 [#20566](https://github.com/conan-io/conan-center-index/pull/20566)|[SpaceIm](https://github.com/SpaceIm)|Oct 14|:memo: replxx|L|0|||
 [#20568](https://github.com/conan-io/conan-center-index/pull/20568)|[gureedo](https://github.com/gureedo)|Oct 14|:stopwatch: mbedtls|:blue_square: S|2|Oct 14||
-[#20571](https://github.com/conan-io/conan-center-index/pull/20571)|[toge](https://github.com/toge)|Oct 15|:memo: cpr|:green_circle: XS|0|||
+[#20571](https://github.com/conan-io/conan-center-index/pull/20571)|[toge](https://github.com/toge)|Oct 15|:memo: cpr|:green_circle: XS|1|Oct 16||**RubenRBS**
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|0|||
-[#20573](https://github.com/conan-io/conan-center-index/pull/20573)|[toge](https://github.com/toge)|Oct 15|:memo: c-blosc2|M|0|||
-[#20578](https://github.com/conan-io/conan-center-index/pull/20578)|[toge](https://github.com/toge)|Oct 15|:memo: numcpp|:blue_square: S|0|||
+[#20573](https://github.com/conan-io/conan-center-index/pull/20573)|[toge](https://github.com/toge)|Oct 15|:memo: c-blosc2|M|1|Oct 16||**RubenRBS**
+[#20578](https://github.com/conan-io/conan-center-index/pull/20578)|[toge](https://github.com/toge)|Oct 15|:memo: numcpp|:blue_square: S|1|Oct 16||**RubenRBS**
 [#20580](https://github.com/conan-io/conan-center-index/pull/20580)|[jwillikers](https://github.com/jwillikers)|Oct 15|:stopwatch: qcustomplot|:green_circle: XS|0|||
 [#20581](https://github.com/conan-io/conan-center-index/pull/20581)|[toge](https://github.com/toge)|Oct 15|:stopwatch: perfetto|:green_circle: XS|0|||
-[#20582](https://github.com/conan-io/conan-center-index/pull/20582)|[toge](https://github.com/toge)|Oct 15|:new: clipboard_lite|M|0|||
-[#20586](https://github.com/conan-io/conan-center-index/pull/20586)|[valgur](https://github.com/valgur)|Oct 16|:stopwatch: pcre2|M|0|||
+[#20582](https://github.com/conan-io/conan-center-index/pull/20582)|[toge](https://github.com/toge)|Oct 15|:new: clipboard_lite|M|1|Oct 16||**RubenRBS**
+[#20587](https://github.com/conan-io/conan-center-index/pull/20587)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -229,9 +229,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
 	- Open: 542
-	- Draft: 60
-	- Average Age: 83 days, 14 hours, and 59.90 minutes
-	- Stop Label: 276
+	- Draft: 59
+	- Average Age: 83 days, 9 hours, and 26.10 minutes
+	- Stop Label: 277
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
