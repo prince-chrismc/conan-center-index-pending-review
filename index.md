@@ -199,7 +199,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20571](https://github.com/conan-io/conan-center-index/pull/20571)|[toge](https://github.com/toge)|Oct 15|:memo: cpr|:green_circle: XS|0|||
 [#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|0|||
 [#20573](https://github.com/conan-io/conan-center-index/pull/20573)|[toge](https://github.com/toge)|Oct 15|:memo: c-blosc2|M|0|||
-[#20578](https://github.com/conan-io/conan-center-index/pull/20578)|[toge](https://github.com/toge)|Oct 15|:stopwatch: numcpp|:blue_square: S|0|||
+[#20578](https://github.com/conan-io/conan-center-index/pull/20578)|[toge](https://github.com/toge)|Oct 15|:memo: numcpp|:blue_square: S|0|||
 [#20580](https://github.com/conan-io/conan-center-index/pull/20580)|[jwillikers](https://github.com/jwillikers)|Oct 15|:stopwatch: qcustomplot|:green_circle: XS|0|||
 [#20581](https://github.com/conan-io/conan-center-index/pull/20581)|[toge](https://github.com/toge)|Oct 15|:stopwatch: perfetto|:green_circle: XS|0|||
 
@@ -228,7 +228,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 542
 	- Draft: 60
-	- Average Age: 83 days, 12 hours, and 16.30 minutes
+	- Average Age: 83 days, 12 hours, and 46.43 minutes
 	- Stop Label: 278
 	
 
