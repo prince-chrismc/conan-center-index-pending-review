@@ -70,7 +70,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18817](https://github.com/conan-io/conan-center-index/pull/18817)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: andreasbuhr-cppcoro|L|0|:eyes:||
 [#18826](https://github.com/conan-io/conan-center-index/pull/18826)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Jul 22|:memo: zstd|M|11|Sep 4 :bell:||
 [#18831](https://github.com/conan-io/conan-center-index/pull/18831)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: ags|L|0|:eyes:||
-[#18844](https://github.com/conan-io/conan-center-index/pull/18844)|[valgur](https://github.com/valgur)|Jul 23|:stopwatch: premake|L|0|||
+[#18844](https://github.com/conan-io/conan-center-index/pull/18844)|[valgur](https://github.com/valgur)|Jul 23|:memo: premake|L|0|||
 [#18883](https://github.com/conan-io/conan-center-index/pull/18883)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: cairo|L|6|Sep 21 :bell:||
 [#18901](https://github.com/conan-io/conan-center-index/pull/18901)|[valgur](https://github.com/valgur)|Jul 25|:memo: mpdecimal|L|0|:eyes:||
 [#18902](https://github.com/conan-io/conan-center-index/pull/18902)|[valgur](https://github.com/valgur)|Jul 25|:stopwatch: jerryscript|L|0|||
@@ -133,7 +133,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20050](https://github.com/conan-io/conan-center-index/pull/20050)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: h5pp|:green_circle: XS|0|:eyes:||
 [#20066](https://github.com/conan-io/conan-center-index/pull/20066)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:new: ensmallen|M|0|:eyes:||
 [#20072](https://github.com/conan-io/conan-center-index/pull/20072)|[toge](https://github.com/toge)|Sep 21|:memo: libarchive|M|1|Sep 21 :bell:||jwillikers
-[#20080](https://github.com/conan-io/conan-center-index/pull/20080)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 22|:stopwatch: glibmm|:green_circle: XS|5|Oct 16||**franramirez688**
+[#20080](https://github.com/conan-io/conan-center-index/pull/20080)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 22|:memo: glibmm|:green_circle: XS|5|Oct 16||**franramirez688**
 [#20089](https://github.com/conan-io/conan-center-index/pull/20089)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: protobuf|:blue_square: S|0|:eyes:||
 [#20090](https://github.com/conan-io/conan-center-index/pull/20090)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:memo: onnx|:blue_square: S|1|Sep 23 :bell:||
 [#20091](https://github.com/conan-io/conan-center-index/pull/20091)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: grpc-proto|:blue_square: S|0|:eyes:||
@@ -236,7 +236,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 549
 	- Draft: 60
-	- Average Age: 82 days, 4 hours, and 44.65 minutes
+	- Average Age: 82 days, 5 hours, and 48.42 minutes
 	- Stop Label: 278
 	
 
