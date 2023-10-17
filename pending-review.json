@@ -4473,25 +4473,6 @@
       }
    },
    {
-      "Number": 20590,
-      "OpenedBy": "ma30002000",
-      "CreatedAt": "2023-10-16T10:13:59Z",
-      "Recipe": "fast-dds",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20590",
-      "LastCommitSHA": "6fe15381bf0740cb07af47ca8ba06012d72f8bb7",
-      "LastCommitAt": "2023-10-17T20:01:08Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20592,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-10-16T10:59:17Z",
