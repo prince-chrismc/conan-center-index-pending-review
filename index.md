@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **181** pull requests currently under way :detective:
+There are **180** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -201,7 +201,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20588](https://github.com/conan-io/conan-center-index/pull/20588)|[ma30002000](https://github.com/ma30002000)|Oct 16|:stopwatch: fast-cdr|:blue_square: S|0|||
 [#20590](https://github.com/conan-io/conan-center-index/pull/20590)|[ma30002000](https://github.com/ma30002000)|Oct 16|:stopwatch: fast-dds|XL|0|||
 [#20593](https://github.com/conan-io/conan-center-index/pull/20593)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 16|:gear: .c3i|:green_circle: XS|1|Oct 16||**RubenRBS**
-[#20596](https://github.com/conan-io/conan-center-index/pull/20596)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: gnutls|:green_circle: XS|1|Oct 16||jwillikers
 [#20598](https://github.com/conan-io/conan-center-index/pull/20598)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: mongo-c-driver|:green_circle: XS|1|Oct 16||jwillikers
 [#20603](https://github.com/conan-io/conan-center-index/pull/20603)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: xmlsec|:green_circle: XS|0|:eyes:||
 [#20604](https://github.com/conan-io/conan-center-index/pull/20604)|[toge](https://github.com/toge)|Oct 16|:stopwatch: pdf-writer|:green_circle: XS|1|Oct 16||**RubenRBS**
@@ -233,7 +232,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 546
 	- Draft: 60
-	- Average Age: 82 days, 18 hours, and 4.34 minutes
+	- Average Age: 82 days, 18 hours, and 34.05 minutes
 	- Stop Label: 276
 	
 
