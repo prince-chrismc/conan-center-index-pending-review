@@ -717,39 +717,6 @@
       }
    },
    {
-      "Number": 18673,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T13:53:24Z",
-      "Recipe": "systemc-cci",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18673",
-      "LastCommitSHA": "1f67c419ea859af6121b1abe73e9af764bfeaa75",
-      "LastCommitAt": "2023-09-30T09:37:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-10-17T09:06:41Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18673#pullrequestreview-1681784272"
-         }
-      }
-   },
-   {
       "Number": 18693,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T22:11:14Z",
