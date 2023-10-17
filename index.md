@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **173** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -197,19 +197,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20619](https://github.com/conan-io/conan-center-index/pull/20619)|[valgur](https://github.com/valgur)|Oct 17|:stopwatch: onnxruntime|L|0|||
 [#20623](https://github.com/conan-io/conan-center-index/pull/20623)|[jwillikers](https://github.com/jwillikers)|Oct 17|:stopwatch: directx-headers|M|1|Oct 17||
 [#20624](https://github.com/conan-io/conan-center-index/pull/20624)|[toge](https://github.com/toge)|Oct 17|:stopwatch: tracy|:green_circle: XS|0|||
-[#20625](https://github.com/conan-io/conan-center-index/pull/20625)|[toge](https://github.com/toge)|Oct 17|:stopwatch: samurai|:green_circle: XS|0|||
-[#20626](https://github.com/conan-io/conan-center-index/pull/20626)|[toge](https://github.com/toge)|Oct 17|:stopwatch: glaze|:green_circle: XS|0|||
 [#20627](https://github.com/conan-io/conan-center-index/pull/20627)|[luizfeldmann](https://github.com/luizfeldmann)|Oct 17|:stopwatch: protobuf|:green_circle: XS|0|||
+[#20628](https://github.com/conan-io/conan-center-index/pull/20628)|[jwillikers](https://github.com/jwillikers)|Oct 17|:stopwatch: shapelib|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **23** pull requests are waiting to be merged :tada:
+Currently **22** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#18724](https://github.com/conan-io/conan-center-index/pull/18724)|[valgur](https://github.com/valgur)|Jul 20|:memo: cose-c|3|**RubenRBS**, **danimtb**
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#19860](https://github.com/conan-io/conan-center-index/pull/19860)|[MartinDelille](https://github.com/MartinDelille)|Sep 15|:memo: uncrustify|4|SpaceIm, **RubenRBS**, **uilianries**
 [#20009](https://github.com/conan-io/conan-center-index/pull/20009)|[valgur](https://github.com/valgur)|Sep 20|:memo: minitrace|2|**RubenRBS**, **czoido**
@@ -242,7 +240,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 551
 	- Draft: 60
-	- Average Age: 82 days, 1 hours, and 43.69 minutes
+	- Average Age: 81 days, 22 hours, and 52.80 minutes
 	- Stop Label: 268
 	
 
