@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **185** pull requests currently under way :detective:
+There are **184** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -117,6 +117,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19698](https://github.com/conan-io/conan-center-index/pull/19698)|[toge](https://github.com/toge)|Sep 9|:stopwatch: oatpp-sqlite|:blue_square: S|0|:eyes:||
 [#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:memo: opentelemetry-proto|:green_circle: XS|1|Sep 21 :bell:||[mollers](https://github.com/mollers)
 [#19764](https://github.com/conan-io/conan-center-index/pull/19764)|[valgur](https://github.com/valgur)|Sep 12|:memo: openexr|M|0|:eyes:||
+[#19808](https://github.com/conan-io/conan-center-index/pull/19808)|[joakimono](https://github.com/joakimono)|Sep 14|:memo: openblas|M|3|Oct 17||samuel-emrys
 [#19823](https://github.com/conan-io/conan-center-index/pull/19823)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:memo: sdl_net|:blue_square: S|0|:eyes:||
 [#19860](https://github.com/conan-io/conan-center-index/pull/19860)|[MartinDelille](https://github.com/MartinDelille)|Sep 15|:memo: uncrustify|:blue_square: S|2|Oct 11||SpaceIm
 [#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|1|Sep 18 :bell:||jwillikers
@@ -205,13 +206,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20590](https://github.com/conan-io/conan-center-index/pull/20590)|[ma30002000](https://github.com/ma30002000)|Oct 16|:stopwatch: fast-dds|XL|0|||
 [#20593](https://github.com/conan-io/conan-center-index/pull/20593)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 16|:gear: .c3i|:green_circle: XS|1|Oct 16||**RubenRBS**
 [#20598](https://github.com/conan-io/conan-center-index/pull/20598)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 16|:stopwatch: mongo-c-driver|:green_circle: XS|1|Oct 16||jwillikers
-[#20604](https://github.com/conan-io/conan-center-index/pull/20604)|[toge](https://github.com/toge)|Oct 16|:stopwatch: pdf-writer|:green_circle: XS|1|Oct 16||**RubenRBS**
 [#20605](https://github.com/conan-io/conan-center-index/pull/20605)|[toge](https://github.com/toge)|Oct 16|:memo: nghttp3|:blue_square: S|2|Oct 16||**RubenRBS**
 [#20606](https://github.com/conan-io/conan-center-index/pull/20606)|[toge](https://github.com/toge)|Oct 16|:stopwatch: mfast|:green_circle: XS|1|Oct 16||**RubenRBS**
 [#20607](https://github.com/conan-io/conan-center-index/pull/20607)|[toge](https://github.com/toge)|Oct 16|:new: mm_file|M|0|||
 [#20608](https://github.com/conan-io/conan-center-index/pull/20608)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 17|:gear: .c3i|:blue_square: S|1|Oct 17||**RubenRBS**
 [#20610](https://github.com/conan-io/conan-center-index/pull/20610)|[Ahajha](https://github.com/Ahajha)|Oct 17|:memo: 7zip|:green_circle: XS|0|||
-[#20611](https://github.com/conan-io/conan-center-index/pull/20611)|[Ahajha](https://github.com/Ahajha)|Oct 17|:stopwatch: andreasbuhr-cppcoro|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -234,9 +233,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 547
-	- Draft: 60
-	- Average Age: 82 days, 13 hours, and 27.23 minutes
+	- Open: 546
+	- Draft: 61
+	- Average Age: 82 days, 17 hours, and 24.50 minutes
 	- Stop Label: 271
 	
 
