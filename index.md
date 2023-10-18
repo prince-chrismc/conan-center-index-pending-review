@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **177** pull requests currently under way :detective:
+There are **178** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -74,7 +74,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18902](https://github.com/conan-io/conan-center-index/pull/18902)|[valgur](https://github.com/valgur)|Jul 25|:stopwatch: jerryscript|L|0|||
 [#18983](https://github.com/conan-io/conan-center-index/pull/18983)|[fabiorossetto](https://github.com/fabiorossetto)|Jul 31|:stopwatch: capnproto|:green_circle: XS|0|:eyes:||
 [#18988](https://github.com/conan-io/conan-center-index/pull/18988)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: gamenetworkingsockets|L|0|:eyes:||
-[#19031](https://github.com/conan-io/conan-center-index/pull/19031)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openssh|L|5|Oct 6||
+[#19031](https://github.com/conan-io/conan-center-index/pull/19031)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openssh|L|5|Oct 6 :bell:||
 [#19070](https://github.com/conan-io/conan-center-index/pull/19070)|[Tradias](https://github.com/Tradias)|Aug 6|:memo: asio-grpc|:green_circle: XS|0|:eyes:||
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7 :bell:||jwillikers, MartinDelille
 [#19096](https://github.com/conan-io/conan-center-index/pull/19096)|[valgur](https://github.com/valgur)|Aug 8|:memo: acado|L|3|Sep 29 :bell:||SpaceIm
@@ -138,6 +138,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20091](https://github.com/conan-io/conan-center-index/pull/20091)|[SpaceIm](https://github.com/SpaceIm)|Sep 23|:stopwatch: grpc-proto|:blue_square: S|0|:eyes:||
 [#20093](https://github.com/conan-io/conan-center-index/pull/20093)|[SpaceIm](https://github.com/SpaceIm)|Sep 24|:memo: qt|L|4|Oct 10||MartinDelille
 [#20105](https://github.com/conan-io/conan-center-index/pull/20105)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Sep 25|:stopwatch: mold|:blue_square: S|1|Sep 27 :bell:||
+[#20134](https://github.com/conan-io/conan-center-index/pull/20134)|[RubenRBS](https://github.com/RubenRBS)|Sep 25|:memo: doxygen|L|7|Oct 18||**uilianries**
 [#20155](https://github.com/conan-io/conan-center-index/pull/20155)|[CJaccarino](https://github.com/CJaccarino)|Sep 26|:new: laslib|M|3|Oct 2 :bell:||
 [#20160](https://github.com/conan-io/conan-center-index/pull/20160)|[toge](https://github.com/toge)|Sep 26|:memo: duckdb|L|0|||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|1|Oct 2 :bell:||[valgur](https://github.com/valgur)
@@ -228,10 +229,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 543
+	- Open: 542
 	- Draft: 60
-	- Average Age: 83 days, and 55.76 minutes
-	- Stop Label: 270
+	- Average Age: 83 days, 5 hours, and 28.62 minutes
+	- Stop Label: 269
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
