@@ -292,9 +292,9 @@
       "Change": 0,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17528",
-      "LastCommitSHA": "c6bc92c1965616bf43eff0bcf92a3b1952951d8b",
-      "LastCommitAt": "2023-08-25T19:10:59Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e7ae67e94343e1b2c80e7b4688434cc06fc42f2d",
+      "LastCommitAt": "2023-10-17T23:31:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 12,
          "ValidApprovals": 0,
@@ -2553,39 +2553,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 20009,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T20:52:56Z",
-      "Recipe": "minitrace",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20009",
-      "LastCommitSHA": "0ef3da1031888a21df8eed14552eb4fb93be750a",
-      "LastCommitAt": "2023-10-13T16:24:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-10-17T09:17:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20009#pullrequestreview-1681807008"
-         }
       }
    },
    {
