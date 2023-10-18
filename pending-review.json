@@ -3066,10 +3066,10 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20276",
       "LastCommitSHA": "e66face3b1f809f6895b34b4f19ec5eb5d260528",
       "LastCommitAt": "2023-10-18T13:36:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 2,
+         "Count": 9,
+         "ValidApprovals": 3,
          "TeamApproval": true,
          "Approvals": [
             {
@@ -3079,13 +3079,17 @@
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
             }
          ],
          "Blockers": [],
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-18T14:55:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20276#pullrequestreview-1685318294"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-10-18T17:21:14Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20276#pullrequestreview-1685699038"
          }
       }
    },
@@ -3882,7 +3886,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20545",
       "LastCommitSHA": "d9b9df53177008e9548cc457ef92d2cea6d4db3a",
       "LastCommitAt": "2023-10-18T13:33:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4195,6 +4199,30 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20611,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2023-10-17T05:52:20Z",
+      "Recipe": "andreasbuhr-cppcoro",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20611",
+      "LastCommitSHA": "24049feead9ce853e4e3508068770e37ad27f1e2",
+      "LastCommitAt": "2023-10-18T13:26:30Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-10-17T09:36:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20611#pullrequestreview-1681599025"
+         }
       }
    },
    {
@@ -4532,26 +4560,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20642",
       "LastCommitSHA": "d6849e0c3e3cfedc4033357001a81963eeb72926",
       "LastCommitAt": "2023-10-18T09:58:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20644,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-10-18T11:57:48Z",
-      "Recipe": "coin-osi",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20644",
-      "LastCommitSHA": "1df3603fdaa67f97dd5d1b5928c583f52fc52f31",
-      "LastCommitAt": "2023-09-12T08:24:09Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
