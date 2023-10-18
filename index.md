@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **171** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -195,6 +195,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20646](https://github.com/conan-io/conan-center-index/pull/20646)|[uilianries](https://github.com/uilianries)|Oct 18|:stopwatch: .c3i|:green_circle: XS|0|||
 [#20647](https://github.com/conan-io/conan-center-index/pull/20647)|[toge](https://github.com/toge)|Oct 18|:stopwatch: etl|:green_circle: XS|0|||
 [#20648](https://github.com/conan-io/conan-center-index/pull/20648)|[toge](https://github.com/toge)|Oct 18|:stopwatch: freetype|:green_circle: XS|0|||
+[#20650](https://github.com/conan-io/conan-center-index/pull/20650)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:stopwatch: zstd|:blue_square: S|0|||
+[#20651](https://github.com/conan-io/conan-center-index/pull/20651)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: gst-plugins-base|:green_circle: XS|0|||
+[#20652](https://github.com/conan-io/conan-center-index/pull/20652)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: pciutils|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -228,9 +231,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 539
+	- Open: 542
 	- Draft: 60
-	- Average Age: 83 days, 16 hours, and 4.38 minutes
+	- Average Age: 83 days, 5 hours, and 57.31 minutes
 	- Stop Label: 264
 	
 
