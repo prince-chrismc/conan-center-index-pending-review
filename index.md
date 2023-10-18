@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **171** pull requests currently under way :detective:
+There are **185** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -195,9 +195,23 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20646](https://github.com/conan-io/conan-center-index/pull/20646)|[uilianries](https://github.com/uilianries)|Oct 18|:stopwatch: .c3i|:green_circle: XS|0|||
 [#20647](https://github.com/conan-io/conan-center-index/pull/20647)|[toge](https://github.com/toge)|Oct 18|:stopwatch: etl|:green_circle: XS|0|||
 [#20648](https://github.com/conan-io/conan-center-index/pull/20648)|[toge](https://github.com/toge)|Oct 18|:stopwatch: freetype|:green_circle: XS|0|||
-[#20650](https://github.com/conan-io/conan-center-index/pull/20650)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:stopwatch: zstd|:blue_square: S|0|||
-[#20651](https://github.com/conan-io/conan-center-index/pull/20651)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: gst-plugins-base|:green_circle: XS|0|||
-[#20652](https://github.com/conan-io/conan-center-index/pull/20652)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: pciutils|:green_circle: XS|0|||
+[#20650](https://github.com/conan-io/conan-center-index/pull/20650)|[SpaceIm](https://github.com/SpaceIm)|Oct 18|:stopwatch: zstd|:blue_square: S|1|Oct 18||**RubenRBS**
+[#20653](https://github.com/conan-io/conan-center-index/pull/20653)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: openscenegraph|:green_circle: XS|0|||
+[#20654](https://github.com/conan-io/conan-center-index/pull/20654)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: osgearth|:green_circle: XS|0|||
+[#20656](https://github.com/conan-io/conan-center-index/pull/20656)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: msix|:green_circle: XS|0|||
+[#20657](https://github.com/conan-io/conan-center-index/pull/20657)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: rocksdb|:green_circle: XS|0|||
+[#20659](https://github.com/conan-io/conan-center-index/pull/20659)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: ruby|:green_circle: XS|0|||
+[#20660](https://github.com/conan-io/conan-center-index/pull/20660)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: elfutils|:green_circle: XS|0|||
+[#20661](https://github.com/conan-io/conan-center-index/pull/20661)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: libid3tag|:green_circle: XS|0|||
+[#20662](https://github.com/conan-io/conan-center-index/pull/20662)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: libgit2|:green_circle: XS|0|||
+[#20663](https://github.com/conan-io/conan-center-index/pull/20663)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: openvdb|:green_circle: XS|0|||
+[#20664](https://github.com/conan-io/conan-center-index/pull/20664)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: nss|:green_circle: XS|0|||
+[#20665](https://github.com/conan-io/conan-center-index/pull/20665)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: librasterlite2|:green_circle: XS|0|||
+[#20666](https://github.com/conan-io/conan-center-index/pull/20666)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: folly|:green_circle: XS|0|||
+[#20667](https://github.com/conan-io/conan-center-index/pull/20667)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: dd-opentracing-cpp|:green_circle: XS|0|||
+[#20668](https://github.com/conan-io/conan-center-index/pull/20668)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: botan|:green_circle: XS|0|||
+[#20669](https://github.com/conan-io/conan-center-index/pull/20669)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: diligent-tools|:green_circle: XS|0|||
+[#20670](https://github.com/conan-io/conan-center-index/pull/20670)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: poppler|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -231,10 +245,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 542
+	- Open: 559
 	- Draft: 60
-	- Average Age: 83 days, 5 hours, and 57.31 minutes
-	- Stop Label: 264
+	- Average Age: 80 days, 18 hours, and 11.84 minutes
+	- Stop Label: 267
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
