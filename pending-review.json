@@ -2979,43 +2979,6 @@
       }
    },
    {
-      "Number": 20266,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-10-02T12:37:32Z",
-      "Recipe": "mpg123",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20266",
-      "LastCommitSHA": "830c6fc25276e068b97099c041218996840c08eb",
-      "LastCommitAt": "2023-10-12T05:24:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-10-17T15:51:46Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20266#pullrequestreview-1682739281"
-         }
-      }
-   },
-   {
       "Number": 20268,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-10-02T12:45:09Z",
@@ -4045,25 +4008,6 @@
       }
    },
    {
-      "Number": 20546,
-      "OpenedBy": "luizfeldmann",
-      "CreatedAt": "2023-10-12T19:30:41Z",
-      "Recipe": "optick",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20546",
-      "LastCommitSHA": "ccba875599ba4fbc391ddfdd1a88fb040c6a28a2",
-      "LastCommitAt": "2023-10-18T02:04:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20557,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2023-10-13T15:16:07Z",
@@ -4653,25 +4597,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20624",
       "LastCommitSHA": "9c1d18afffd2080e69b5840f1f807b9911f554c5",
       "LastCommitAt": "2023-10-17T15:58:42Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20627,
-      "OpenedBy": "luizfeldmann",
-      "CreatedAt": "2023-10-17T16:28:02Z",
-      "Recipe": "protobuf",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20627",
-      "LastCommitSHA": "9282bed37c2d3c3f638c12c7d89fde797dfe76e5",
-      "LastCommitAt": "2023-10-17T16:28:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
