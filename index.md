@@ -220,7 +220,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **12** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -230,7 +230,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
 [#20073](https://github.com/conan-io/conan-center-index/pull/20073)|[bemehiser](https://github.com/bemehiser)|Sep 21|:warning: grpc|3|[coryan](https://github.com/coryan), **uilianries**, jwillikers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
-[#20276](https://github.com/conan-io/conan-center-index/pull/20276)|[valgur](https://github.com/valgur)|Oct 2|:memo: soundtouch|9|**RubenRBS**, jwillikers, ericLemanissier
 [#20281](https://github.com/conan-io/conan-center-index/pull/20281)|[toge](https://github.com/toge)|Oct 2|:memo: ls-qpack|2|**RubenRBS**, jwillikers
 [#20314](https://github.com/conan-io/conan-center-index/pull/20314)|[valgur](https://github.com/valgur)|Oct 3|:memo: cppbenchmark|2|**RubenRBS**, jwillikers
 [#20415](https://github.com/conan-io/conan-center-index/pull/20415)|[toge](https://github.com/toge)|Oct 7|:new: iowow|2|**danimtb**, jwillikers
@@ -246,9 +245,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 561
+	- Open: 560
 	- Draft: 59
-	- Average Age: 80 days, 7 hours, and 44.98 minutes
+	- Average Age: 80 days, 11 hours, and 22.01 minutes
 	- Stop Label: 270
 	
 
