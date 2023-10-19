@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **180** pull requests currently under way :detective:
+There are **179** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -204,7 +204,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20681](https://github.com/conan-io/conan-center-index/pull/20681)|[technoyes](https://github.com/technoyes)|Oct 19|:stopwatch: implot|:green_circle: XS|0|||
 [#20684](https://github.com/conan-io/conan-center-index/pull/20684)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:stopwatch: proj|:green_circle: XS|0|||
 [#20685](https://github.com/conan-io/conan-center-index/pull/20685)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 19|:gear: .c3i|:green_circle: XS|0|||
-[#20690](https://github.com/conan-io/conan-center-index/pull/20690)|[toge](https://github.com/toge)|Oct 19|:stopwatch: log4cxx|M|0|||
 [#20693](https://github.com/conan-io/conan-center-index/pull/20693)|[cyberflashguru](https://github.com/cyberflashguru)|Oct 19|:stopwatch: libiconv|:blue_square: S|0|||
 [#20694](https://github.com/conan-io/conan-center-index/pull/20694)|[Subash-Lamichhane](https://github.com/Subash-Lamichhane)|Oct 19|:stopwatch: docs|:blue_square: S|1|Oct 19||prince-chrismc
 
@@ -232,10 +231,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 547
+	- Open: 544
 	- Draft: 58
-	- Average Age: 82 days, 15 hours, and 49.27 minutes
-	- Stop Label: 278
+	- Average Age: 83 days, 6 hours, and 40.19 minutes
+	- Stop Label: 280
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
