@@ -3907,39 +3907,6 @@
       }
    },
    {
-      "Number": 20631,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-18T01:12:09Z",
-      "Recipe": "openjdk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20631",
-      "LastCommitSHA": "05aafb68132d7d5341cb4954ac5b83498890457d",
-      "LastCommitAt": "2023-10-18T01:43:26Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-10-19T13:02:29Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20631#pullrequestreview-1687683942"
-         }
-      }
-   },
-   {
       "Number": 20632,
       "OpenedBy": "thbeu",
       "CreatedAt": "2023-10-18T06:14:49Z",
