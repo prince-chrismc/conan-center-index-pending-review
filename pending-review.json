@@ -4012,8 +4012,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20648",
-      "LastCommitSHA": "aebac8adb8a9467a0d52574f36d69697ee731a37",
-      "LastCommitAt": "2023-10-18T15:24:26Z",
+      "LastCommitSHA": "2332f237c7b5b6e305d9736a88a05c409bb76559",
+      "LastCommitAt": "2023-10-20T13:54:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -4496,25 +4496,6 @@
       }
    },
    {
-      "Number": 20684,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-10-19T10:51:20Z",
-      "Recipe": "proj",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20684",
-      "LastCommitSHA": "afbaf38c486829f5d516be41efe3140d50b83797",
-      "LastCommitAt": "2023-10-18T12:49:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20693,
       "OpenedBy": "cyberflashguru",
       "CreatedAt": "2023-10-19T14:01:50Z",
@@ -4571,6 +4552,35 @@
       }
    },
    {
+      "Number": 20696,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-20T01:51:03Z",
+      "Recipe": "zulu-openjdk",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20696",
+      "LastCommitSHA": "37a6e8ea62062d59eefcb142ba8a60733cd77933",
+      "LastCommitAt": "2023-10-20T07:25:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-10-20T08:44:59Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20696#pullrequestreview-1689547826"
+         }
+      }
+   },
+   {
       "Number": 20702,
       "OpenedBy": "ilya-lavrenov",
       "CreatedAt": "2023-10-20T11:13:00Z",
@@ -4609,6 +4619,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20703",
       "LastCommitSHA": "661d132ab0efd38acd83cd408edbcdc0929f6f26",
       "LastCommitAt": "2023-10-20T12:20:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20704,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-20T13:47:30Z",
+      "Recipe": "antlr",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20704",
+      "LastCommitSHA": "9c48ae742d07e70b4339f327084e29a5f43c045d",
+      "LastCommitAt": "2023-10-20T13:46:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
