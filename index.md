@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **177** pull requests currently under way :detective:
+There are **178** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -200,15 +200,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20681](https://github.com/conan-io/conan-center-index/pull/20681)|[technoyes](https://github.com/technoyes)|Oct 19|:stopwatch: implot|:green_circle: XS|0|||
 [#20693](https://github.com/conan-io/conan-center-index/pull/20693)|[cyberflashguru](https://github.com/cyberflashguru)|Oct 19|:stopwatch: libiconv|:blue_square: S|0|||
 [#20694](https://github.com/conan-io/conan-center-index/pull/20694)|[Subash-Lamichhane](https://github.com/Subash-Lamichhane)|Oct 19|:stopwatch: docs|:blue_square: S|3|Oct 20||prince-chrismc, MartinDelille, jwillikers
-[#20696](https://github.com/conan-io/conan-center-index/pull/20696)|[toge](https://github.com/toge)|Oct 20|:memo: zulu-openjdk|M|1|Oct 20||**RubenRBS**
 [#20702](https://github.com/conan-io/conan-center-index/pull/20702)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 20|:stopwatch: onetbb|:green_circle: XS|1|Oct 20||jwillikers
 [#20703](https://github.com/conan-io/conan-center-index/pull/20703)|[irieger](https://github.com/irieger)|Oct 20|:stopwatch: opencolorio|L|0|||
-[#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:stopwatch: antlr|M|0|||
+[#20706](https://github.com/conan-io/conan-center-index/pull/20706)|[uilianries](https://github.com/uilianries)|Oct 20|:stopwatch: avahi|:blue_square: S|1|Oct 20||jwillikers
+[#20707](https://github.com/conan-io/conan-center-index/pull/20707)|[puetzk](https://github.com/puetzk)|Oct 20|:stopwatch: serf|:green_circle: XS|0|||
+[#20708](https://github.com/conan-io/conan-center-index/pull/20708)|[toge](https://github.com/toge)|Oct 20|:stopwatch: c-blosc2|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **8** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -220,6 +221,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20287](https://github.com/conan-io/conan-center-index/pull/20287)|[RubenRBS](https://github.com/RubenRBS)|Oct 2|:warning: nmos-cpp|8|**czoido**, jwillikers
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
+[#20696](https://github.com/conan-io/conan-center-index/pull/20696)|[toge](https://github.com/toge)|Oct 20|:memo: zulu-openjdk|2|**RubenRBS**, jwillikers
 
 
 #### :clipboard: Statistics
@@ -228,10 +230,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 543
+	- Open: 545
 	- Draft: 59
-	- Average Age: 83 days, 22 hours, and 26.16 minutes
-	- Stop Label: 280
+	- Average Age: 83 days, 15 hours, and 59.33 minutes
+	- Stop Label: 281
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
