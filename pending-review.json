@@ -4650,5 +4650,24 @@
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20694#pullrequestreview-1688166730"
          }
       }
+   },
+   {
+      "Number": 20696,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-20T01:51:03Z",
+      "Recipe": "zulu-openjdk",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20696",
+      "LastCommitSHA": "f89fd4cd41aed94a55d3989e7e4d2ece205ad57b",
+      "LastCommitAt": "2023-10-20T01:49:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
