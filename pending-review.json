@@ -3654,7 +3654,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20587",
       "LastCommitSHA": "77e85fe9bd7af8d3b1a3959cbf038aa7ef955027",
       "LastCommitAt": "2023-10-16T09:19:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -4030,6 +4030,35 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-10-20T16:42:07Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20648#pullrequestreview-1690514002"
+         }
+      }
+   },
+   {
+      "Number": 20650,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-18T21:59:22Z",
+      "Recipe": "zstd",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20650",
+      "LastCommitSHA": "684754da3f46be5b28ddd941d1998d9b2413d225",
+      "LastCommitAt": "2023-10-19T12:32:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-10-20T17:42:44Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20650#pullrequestreview-1690629644"
          }
       }
    },
@@ -4650,25 +4679,6 @@
             "SubmittedAt": "2023-10-20T15:01:50Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20706#pullrequestreview-1690261301"
          }
-      }
-   },
-   {
-      "Number": 20707,
-      "OpenedBy": "puetzk",
-      "CreatedAt": "2023-10-20T15:01:55Z",
-      "Recipe": "serf",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20707",
-      "LastCommitSHA": "e626b6dd0e076ded0b6f80da9aa8bdbded164d68",
-      "LastCommitAt": "2023-10-20T14:25:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
