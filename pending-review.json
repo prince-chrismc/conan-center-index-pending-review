@@ -4653,35 +4653,6 @@
       }
    },
    {
-      "Number": 20706,
-      "OpenedBy": "uilianries",
-      "CreatedAt": "2023-10-20T14:16:48Z",
-      "Recipe": "avahi",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20706",
-      "LastCommitSHA": "7dc907cafb1088af1e119a2d62dd6a5d1c9d1731",
-      "LastCommitAt": "2023-10-20T14:53:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-20T15:01:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20706#pullrequestreview-1690261301"
-         }
-      }
-   },
-   {
       "Number": 20708,
       "OpenedBy": "toge",
       "CreatedAt": "2023-10-20T15:11:02Z",
@@ -4717,35 +4688,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 20711,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-10-20T19:40:51Z",
-      "Recipe": "libspatialite",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20711",
-      "LastCommitSHA": "188a9a9da0e9a738a0377be603ed1f6d50a20661",
-      "LastCommitAt": "2023-10-13T07:24:41Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-20T19:43:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20711#pullrequestreview-1690811869"
-         }
       }
    },
    {
