@@ -4459,11 +4459,21 @@
       "LastCommitAt": "2023-10-18T23:25:55Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-10-20T12:43:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20678#pullrequestreview-1689955366"
+         }
       }
    },
    {
@@ -4535,8 +4545,8 @@
       "LastCommitAt": "2023-10-19T16:04:59Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             {
@@ -4546,13 +4556,17 @@
             {
                "Name": "MartinDelille",
                "Tier": "community"
+            },
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2023-10-20T08:54:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20694#pullrequestreview-1689564098"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-10-20T12:45:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20694#pullrequestreview-1689957676"
          }
       }
    },
@@ -4583,6 +4597,25 @@
             "SubmittedAt": "2023-10-20T11:51:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20702#pullrequestreview-1689866476"
          }
+      }
+   },
+   {
+      "Number": 20703,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2023-10-20T12:51:04Z",
+      "Recipe": "opencolorio",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20703",
+      "LastCommitSHA": "661d132ab0efd38acd83cd408edbcdc0929f6f26",
+      "LastCommitAt": "2023-10-20T12:20:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
