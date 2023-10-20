@@ -4012,8 +4012,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20648",
-      "LastCommitSHA": "2332f237c7b5b6e305d9736a88a05c409bb76559",
-      "LastCommitAt": "2023-10-20T13:54:21Z",
+      "LastCommitSHA": "f4e194803957860ce6629655259b9a9245aa435d",
+      "LastCommitAt": "2023-10-20T15:30:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -4548,39 +4548,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-10-20T12:45:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20694#pullrequestreview-1689957676"
-         }
-      }
-   },
-   {
-      "Number": 20696,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-20T01:51:03Z",
-      "Recipe": "zulu-openjdk",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20696",
-      "LastCommitSHA": "37a6e8ea62062d59eefcb142ba8a60733cd77933",
-      "LastCommitAt": "2023-10-20T07:25:10Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-20T15:03:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20696#pullrequestreview-1690269867"
          }
       }
    },
