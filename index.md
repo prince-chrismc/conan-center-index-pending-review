@@ -78,7 +78,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7 :bell:||jwillikers, MartinDelille
 [#19096](https://github.com/conan-io/conan-center-index/pull/19096)|[valgur](https://github.com/valgur)|Aug 8|:memo: acado|L|3|Sep 29 :bell:||SpaceIm
 [#19103](https://github.com/conan-io/conan-center-index/pull/19103)|[Tobulus](https://github.com/Tobulus)|Aug 8|:memo: linux-headers-generic|:green_circle: XS|2|Sep 28 :bell:||ericLemanissier, jwillikers
-[#19118](https://github.com/conan-io/conan-center-index/pull/19118)|[sjlamerton](https://github.com/sjlamerton)|Aug 9|:stopwatch: ffmpeg|M|0|||
+[#19118](https://github.com/conan-io/conan-center-index/pull/19118)|[sjlamerton](https://github.com/sjlamerton)|Aug 9|:memo: ffmpeg|M|0|||
 [#19123](https://github.com/conan-io/conan-center-index/pull/19123)|[ledocc](https://github.com/ledocc)|Aug 9|:stopwatch: libselinux|:blue_square: S|4|Oct 15||[Tobulus](https://github.com/Tobulus), [tbsuht](https://github.com/tbsuht), jwillikers
 [#19148](https://github.com/conan-io/conan-center-index/pull/19148)|[toge](https://github.com/toge)|Aug 11|:new: influxdb-cxx|M|3|Aug 14 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19191](https://github.com/conan-io/conan-center-index/pull/19191)|[AlexRamallo](https://github.com/AlexRamallo)|Aug 14|:memo: ozz-animation|L|3|Aug 17 :bell:||[valgur](https://github.com/valgur)
@@ -234,7 +234,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 546
 	- Draft: 58
-	- Average Age: 83 days, 2 hours, and 28.11 minutes
+	- Average Age: 83 days, 4 hours, and 23.43 minutes
 	- Stop Label: 281
 	
 
