@@ -1631,7 +1631,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19460",
       "LastCommitSHA": "052f747620b602589db8b2ccca0aee70e90fa627",
       "LastCommitAt": "2023-10-19T10:31:32Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3783,7 +3783,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20611",
       "LastCommitSHA": "0648868b17b02626cf545da419c93548f85743ac",
       "LastCommitAt": "2023-10-19T13:47:20Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4582,6 +4582,35 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20692,
+      "OpenedBy": "ilya-lavrenov",
+      "CreatedAt": "2023-10-19T13:02:01Z",
+      "Recipe": "ade",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20692",
+      "LastCommitSHA": "6789d2148c7bb4b1e0167a2f451e14cd800a31e7",
+      "LastCommitAt": "2023-10-19T21:26:25Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-10-19T13:02:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20692#pullrequestreview-1687684743"
+         }
       }
    },
    {
