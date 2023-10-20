@@ -4662,7 +4662,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20706",
       "LastCommitSHA": "7dc907cafb1088af1e119a2d62dd6a5d1c9d1731",
       "LastCommitAt": "2023-10-20T14:53:41Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -4691,6 +4691,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20708",
       "LastCommitSHA": "5df50d918307aa9a719d0ad402a289ccd3b3ad54",
       "LastCommitAt": "2023-10-20T15:10:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20710,
+      "OpenedBy": "rezvee6",
+      "CreatedAt": "2023-10-20T18:33:52Z",
+      "Recipe": "abseil",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20710",
+      "LastCommitSHA": "03faf951bc4489977d00770cea92a89cc6dda66d",
+      "LastCommitAt": "2023-10-20T18:44:10Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
