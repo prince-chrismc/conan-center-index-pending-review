@@ -1648,19 +1648,19 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19479",
-      "LastCommitSHA": "d3bfc7f628d8bc62329c7c414e24d801283da761",
-      "LastCommitAt": "2023-10-19T15:37:26Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8a085bffcedaec5d9f77b7f6719abc5413085a73",
+      "LastCommitAt": "2023-10-20T06:51:53Z",
+      "CciBotPassed": false,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-10-19T14:44:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19479#pullrequestreview-1687904560"
+            "SubmittedAt": "2023-10-20T06:18:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19479#pullrequestreview-1689313765"
          }
       }
    },
@@ -4659,25 +4659,6 @@
             "SubmittedAt": "2023-10-19T16:18:40Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20694#pullrequestreview-1688166730"
          }
-      }
-   },
-   {
-      "Number": 20696,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-20T01:51:03Z",
-      "Recipe": "zulu-openjdk",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20696",
-      "LastCommitSHA": "f89fd4cd41aed94a55d3989e7e4d2ece205ad57b",
-      "LastCommitAt": "2023-10-20T01:49:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
