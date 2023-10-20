@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **177** pull requests currently under way :detective:
+There are **176** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -200,7 +200,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20678](https://github.com/conan-io/conan-center-index/pull/20678)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: cpython|:green_circle: XS|0|||
 [#20681](https://github.com/conan-io/conan-center-index/pull/20681)|[technoyes](https://github.com/technoyes)|Oct 19|:stopwatch: implot|:green_circle: XS|0|||
 [#20684](https://github.com/conan-io/conan-center-index/pull/20684)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 19|:stopwatch: proj|:green_circle: XS|0|||
-[#20685](https://github.com/conan-io/conan-center-index/pull/20685)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 19|:gear: .c3i|:green_circle: XS|0|||
 [#20692](https://github.com/conan-io/conan-center-index/pull/20692)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 19|:memo: ade|:green_circle: XS|1|Oct 19||**RubenRBS**
 [#20693](https://github.com/conan-io/conan-center-index/pull/20693)|[cyberflashguru](https://github.com/cyberflashguru)|Oct 19|:stopwatch: libiconv|:blue_square: S|0|||
 [#20694](https://github.com/conan-io/conan-center-index/pull/20694)|[Subash-Lamichhane](https://github.com/Subash-Lamichhane)|Oct 19|:stopwatch: docs|:blue_square: S|2|Oct 20||prince-chrismc, MartinDelille
@@ -208,7 +207,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -219,7 +218,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|3|jwillikers, **franramirez688**
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20287](https://github.com/conan-io/conan-center-index/pull/20287)|[RubenRBS](https://github.com/RubenRBS)|Oct 2|:warning: nmos-cpp|8|**czoido**, jwillikers
-[#20400](https://github.com/conan-io/conan-center-index/pull/20400)|[mayeut](https://github.com/mayeut)|Oct 7|:memo: tesseract|4|**RubenRBS**, jwillikers
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
 
 
@@ -229,9 +227,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 545
+	- Open: 543
 	- Draft: 59
-	- Average Age: 83 days, 12 hours, and 59.03 minutes
+	- Average Age: 83 days, 20 hours, and 45.47 minutes
 	- Stop Label: 281
 	
 
