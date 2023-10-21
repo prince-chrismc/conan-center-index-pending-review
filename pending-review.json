@@ -4627,24 +4627,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 20717,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-10-21T05:17:16Z",
-      "Recipe": "librttopo",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20717",
-      "LastCommitSHA": "a65f4ffb01c9ab33682a3b0603558d6a7615c104",
-      "LastCommitAt": "2023-09-11T05:25:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
