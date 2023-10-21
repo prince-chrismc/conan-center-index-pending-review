@@ -85,7 +85,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19226](https://github.com/conan-io/conan-center-index/pull/19226)|[db4](https://github.com/db4)|Aug 16|:memo: pixman|M|2|Sep 28 :bell:||ericLemanissier, jwillikers
 [#19229](https://github.com/conan-io/conan-center-index/pull/19229)|[valgur](https://github.com/valgur)|Aug 16|:stopwatch: rmm|M|2|Aug 18 :bell:||
 [#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|:eyes:||
-[#19238](https://github.com/conan-io/conan-center-index/pull/19238)|[valgur](https://github.com/valgur)|Aug 17|:stopwatch: ftjam|L|3|Oct 18||jwillikers
+[#19238](https://github.com/conan-io/conan-center-index/pull/19238)|[valgur](https://github.com/valgur)|Aug 17|:memo: ftjam|L|3|Oct 18||jwillikers
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19251](https://github.com/conan-io/conan-center-index/pull/19251)|[valgur](https://github.com/valgur)|Aug 17|:memo: boost|L|1|Aug 19 :bell:||
 [#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:memo: libhal|L|12|Oct 20|jcar87|**RubenRBS**, **franramirez688**, **czoido**, **uilianries**
@@ -209,12 +209,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#19111](https://github.com/conan-io/conan-center-index/pull/19111)|[SpaceIm](https://github.com/SpaceIm)|Aug 9|:warning: libspatialite|4|**czoido**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|3|jwillikers, **franramirez688**
@@ -231,8 +230,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 545
 	- Draft: 59
-	- Average Age: 84 days, 3 hours, and 56.27 minutes
-	- Stop Label: 282
+	- Average Age: 84 days, 5 hours, and 54.97 minutes
+	- Stop Label: 283
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
