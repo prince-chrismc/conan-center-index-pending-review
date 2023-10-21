@@ -4746,5 +4746,34 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20727,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-10-21T19:16:13Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20727",
+      "LastCommitSHA": "44bef7190a41e5062b5f2fceb0f35356da63302e",
+      "LastCommitAt": "2023-10-21T19:14:57Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "ilya-lavrenov",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ilya-lavrenov",
+            "SubmittedAt": "2023-10-21T20:05:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20727#pullrequestreview-1691330392"
+         }
+      }
    }
 ]
