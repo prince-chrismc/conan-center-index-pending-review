@@ -2323,7 +2323,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19971",
       "LastCommitSHA": "f28a6ff98fc4c31e34325b9a979f6cd70f4199ec",
       "LastCommitAt": "2023-10-20T23:07:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -2915,8 +2915,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20287",
-      "LastCommitSHA": "a2826ea26e1559fdbe85e4e4f759e08ab2b6d44e",
-      "LastCommitAt": "2023-10-18T23:48:21Z",
+      "LastCommitSHA": "a4da8c8bea64998daaf0adfdbec9f98d9d95ff8f",
+      "LastCommitAt": "2023-10-21T09:20:30Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 8,
@@ -3642,20 +3642,24 @@
       "LastCommitAt": "2023-10-16T09:19:06Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "MartinDelille",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "matheusgomes28",
-            "SubmittedAt": "2023-10-17T20:36:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20587#pullrequestreview-1683313422"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2023-10-21T09:44:52Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20587#pullrequestreview-1691222957"
          }
       }
    },
