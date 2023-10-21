@@ -1174,39 +1174,6 @@
       }
    },
    {
-      "Number": 19111,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-08-09T07:05:50Z",
-      "Recipe": "libspatialite",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19111",
-      "LastCommitSHA": "de6b942fd8c7643ffbfcc51bd4c46b7b12210c44",
-      "LastCommitAt": "2023-10-18T21:02:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-19T12:32:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19111#pullrequestreview-1687586097"
-         }
-      }
-   },
-   {
       "Number": 19118,
       "OpenedBy": "sjlamerton",
       "CreatedAt": "2023-08-09T12:22:40Z",
@@ -1416,7 +1383,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19238",
       "LastCommitSHA": "bb7e19858f058e76a0019c4c9adfb2f82c00dffb",
       "LastCommitAt": "2023-10-20T23:48:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
