@@ -4696,25 +4696,6 @@
       }
    },
    {
-      "Number": 20725,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-21T18:37:10Z",
-      "Recipe": "podofo",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20725",
-      "LastCommitSHA": "d6a855666e55efda17daac4da63a27b20b6d8d65",
-      "LastCommitAt": "2023-10-21T18:36:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20727,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-10-21T19:16:13Z",
@@ -4744,15 +4725,15 @@
       }
    },
    {
-      "Number": 20728,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-10-21T20:31:37Z",
-      "Recipe": "openvino",
+      "Number": 20729,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-21T21:24:36Z",
+      "Recipe": "opencv",
       "Change": 1,
       "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20728",
-      "LastCommitSHA": "ba1ae8510be5dc21b3fb199430db5dd53adbff56",
-      "LastCommitAt": "2023-10-21T20:44:54Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20729",
+      "LastCommitSHA": "c4868ebb3f23acd10f3ee2793ac518b0a3850a23",
+      "LastCommitAt": "2023-10-21T21:39:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
