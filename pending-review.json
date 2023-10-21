@@ -1603,30 +1603,6 @@
       }
    },
    {
-      "Number": 19460,
-      "OpenedBy": "DoomHammer",
-      "CreatedAt": "2023-08-28T08:19:52Z",
-      "Recipe": "ohnet",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19460",
-      "LastCommitSHA": "be0d1e10fe0ffcb9a2fc9c16bfe91eb85b6caa32",
-      "LastCommitAt": "2023-10-21T10:37:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-10-20T11:26:07Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19460#pullrequestreview-1689829639"
-         }
-      }
-   },
-   {
       "Number": 19479,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2023-08-29T12:31:03Z",
@@ -2928,39 +2904,6 @@
             "ReviewerName": "RubenRBS",
             "SubmittedAt": "2023-10-14T01:27:10Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20279#pullrequestreview-1677622095"
-         }
-      }
-   },
-   {
-      "Number": 20287,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-10-02T19:17:38Z",
-      "Recipe": "nmos-cpp",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20287",
-      "LastCommitSHA": "a4da8c8bea64998daaf0adfdbec9f98d9d95ff8f",
-      "LastCommitAt": "2023-10-21T09:20:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 8,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-19T12:36:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20287#pullrequestreview-1687599187"
          }
       }
    },
