@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -138,7 +138,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|1|Oct 2 :bell:||[valgur](https://github.com/valgur)
 [#20173](https://github.com/conan-io/conan-center-index/pull/20173)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|L|0|:eyes:||
 [#20260](https://github.com/conan-io/conan-center-index/pull/20260)|[SpaceIm](https://github.com/SpaceIm)|Oct 2|:memo: openssl|L|2|Oct 9 :bell:||
-[#20267](https://github.com/conan-io/conan-center-index/pull/20267)|[valgur](https://github.com/valgur)|Oct 2|:stopwatch: aeron|:green_circle: XS|2|Oct 22||ericLemanissier
 [#20277](https://github.com/conan-io/conan-center-index/pull/20277)|[valgur](https://github.com/valgur)|Oct 2|:stopwatch: ffmpeg|L|0|||
 [#20278](https://github.com/conan-io/conan-center-index/pull/20278)|[jwillikers](https://github.com/jwillikers)|Oct 2|:new: hwdata|M|9|Oct 16||**uilianries**
 [#20279](https://github.com/conan-io/conan-center-index/pull/20279)|[toge](https://github.com/toge)|Oct 2|:stopwatch: clipper2|:blue_square: S|4|Oct 14||jwillikers
@@ -213,7 +212,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20727](https://github.com/conan-io/conan-center-index/pull/20727)|[mayeut](https://github.com/mayeut)|Oct 21|:memo: opencv|M|1|Oct 21||[ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#20729](https://github.com/conan-io/conan-center-index/pull/20729)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: opencv|L|0|||
 [#20730](https://github.com/conan-io/conan-center-index/pull/20730)|[toge](https://github.com/toge)|Oct 22|:memo: stringzilla|:blue_square: S|0|||
-[#20733](https://github.com/conan-io/conan-center-index/pull/20733)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 22|:stopwatch: coin-clp|:green_circle: XS|0|||
+[#20734](https://github.com/conan-io/conan-center-index/pull/20734)|[mayeut](https://github.com/mayeut)|Oct 22|:stopwatch: gdal|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -236,9 +235,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 552
+	- Open: 551
 	- Draft: 57
-	- Average Age: 84 days, 13 hours, and 1.67 minutes
+	- Average Age: 84 days, 16 hours, and 46.81 minutes
 	- Stop Label: 284
 	
 
