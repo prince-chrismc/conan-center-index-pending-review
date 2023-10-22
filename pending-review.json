@@ -2874,13 +2874,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20277",
       "LastCommitSHA": "284fb1e9a0973a08f41cd83c485b8acd94f59f1f",
       "LastCommitAt": "2023-10-22T07:00:08Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "MartinDelille",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2023-10-22T22:01:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20277#pullrequestreview-1691496500"
+         }
       }
    },
    {
@@ -4803,6 +4813,30 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20735,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-22T17:31:51Z",
+      "Recipe": "zeromq",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20735",
+      "LastCommitSHA": "26b29a8ebf62604fa9a48f896fd2084d5f3dda8f",
+      "LastCommitAt": "2023-10-22T18:08:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-10-22T17:47:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20735#pullrequestreview-1691469553"
+         }
       }
    },
    {
