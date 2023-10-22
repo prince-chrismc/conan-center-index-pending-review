@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -208,11 +208,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20708](https://github.com/conan-io/conan-center-index/pull/20708)|[toge](https://github.com/toge)|Oct 20|:stopwatch: c-blosc2|M|0|||
 [#20710](https://github.com/conan-io/conan-center-index/pull/20710)|[rezvee6](https://github.com/rezvee6)|Oct 20|:stopwatch: abseil|:green_circle: XS|0|||
 [#20714](https://github.com/conan-io/conan-center-index/pull/20714)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: assimp|M|0|||
+[#20722](https://github.com/conan-io/conan-center-index/pull/20722)|[toge](https://github.com/toge)|Oct 21|:memo: simdutf|:blue_square: S|0|||
 [#20723](https://github.com/conan-io/conan-center-index/pull/20723)|[toge](https://github.com/toge)|Oct 21|:memo: utf8proc|:blue_square: S|1|Oct 21||
 [#20727](https://github.com/conan-io/conan-center-index/pull/20727)|[mayeut](https://github.com/mayeut)|Oct 21|:memo: opencv|M|1|Oct 21||[ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#20729](https://github.com/conan-io/conan-center-index/pull/20729)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: opencv|L|0|||
 [#20730](https://github.com/conan-io/conan-center-index/pull/20730)|[toge](https://github.com/toge)|Oct 22|:memo: stringzilla|:blue_square: S|0|||
 [#20734](https://github.com/conan-io/conan-center-index/pull/20734)|[mayeut](https://github.com/mayeut)|Oct 22|:stopwatch: gdal|M|0|||
+[#20736](https://github.com/conan-io/conan-center-index/pull/20736)|[toge](https://github.com/toge)|Oct 22|:stopwatch: signals-light|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -235,9 +237,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 551
+	- Open: 553
 	- Draft: 57
-	- Average Age: 84 days, 16 hours, and 46.81 minutes
+	- Average Age: 84 days, 10 hours, and 28.46 minutes
 	- Stop Label: 284
 	
 
