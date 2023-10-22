@@ -4729,7 +4729,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20723",
       "LastCommitSHA": "3478130eea0c8c64435c070d8600a5ec5327bc17",
       "LastCommitAt": "2023-10-22T02:59:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4773,6 +4773,25 @@
       }
    },
    {
+      "Number": 20729,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-21T21:24:36Z",
+      "Recipe": "opencv",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20729",
+      "LastCommitSHA": "847975780e610221b68402eada5dee698ee602eb",
+      "LastCommitAt": "2023-10-22T01:14:58Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20730,
       "OpenedBy": "toge",
       "CreatedAt": "2023-10-22T04:14:44Z",
@@ -4783,6 +4802,25 @@
       "LastCommitSHA": "ea894d2ef8c9e7fe882c913eb1704966aca55135",
       "LastCommitAt": "2023-10-22T07:42:31Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20733,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-10-22T14:22:40Z",
+      "Recipe": "coin-clp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20733",
+      "LastCommitSHA": "9f479aa6d12e5d73209f7a6341ef1b97d6296269",
+      "LastCommitAt": "2023-10-22T14:22:29Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
