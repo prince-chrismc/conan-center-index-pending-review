@@ -3723,30 +3723,6 @@
       }
    },
    {
-      "Number": 20611,
-      "OpenedBy": "Ahajha",
-      "CreatedAt": "2023-10-17T05:52:20Z",
-      "Recipe": "andreasbuhr-cppcoro",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20611",
-      "LastCommitSHA": "0648868b17b02626cf545da419c93548f85743ac",
-      "LastCommitAt": "2023-10-19T13:47:20Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-10-17T09:36:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20611#pullrequestreview-1681599025"
-         }
-      }
-   },
-   {
       "Number": 20619,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-10-17T11:45:20Z",
@@ -4703,8 +4679,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20727",
-      "LastCommitSHA": "44bef7190a41e5062b5f2fceb0f35356da63302e",
-      "LastCommitAt": "2023-10-21T19:14:57Z",
+      "LastCommitSHA": "215ebd817f9d01a8a62336d0146c51c4de564399",
+      "LastCommitAt": "2023-10-22T00:00:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
