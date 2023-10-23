@@ -227,7 +227,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|3|jwillikers, **franramirez688**
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
-[#20743](https://github.com/conan-io/conan-center-index/pull/20743)|[uilianries](https://github.com/uilianries)|Oct 23|:warning: grpc|2|**RubenRBS**, jwillikers
+[#20743](https://github.com/conan-io/conan-center-index/pull/20743)|[uilianries](https://github.com/uilianries)|Oct 23|:memo: grpc|2|**RubenRBS**, jwillikers
 
 
 #### :clipboard: Statistics
@@ -238,7 +238,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 549
 	- Draft: 55
-	- Average Age: 84 days, 23 hours, and 46.43 minutes
+	- Average Age: 85 days, and 46.21 minutes
 	- Stop Label: 282
 	
 
