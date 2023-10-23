@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -214,6 +214,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20740](https://github.com/conan-io/conan-center-index/pull/20740)|[Dobiasd](https://github.com/Dobiasd)|Oct 23|:stopwatch: frugally-deep|:green_circle: XS|0|||
 [#20741](https://github.com/conan-io/conan-center-index/pull/20741)|[uilianries](https://github.com/uilianries)|Oct 23|:memo: avahi|:green_circle: XS|1|Oct 23||**RubenRBS**
 [#20743](https://github.com/conan-io/conan-center-index/pull/20743)|[uilianries](https://github.com/uilianries)|Oct 23|:stopwatch: grpc|:blue_square: S|1|Oct 23||**RubenRBS**
+[#20744](https://github.com/conan-io/conan-center-index/pull/20744)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 23|:stopwatch: vulkan-validationlayers|:green_circle: XS|0|:eyes:||
+[#20745](https://github.com/conan-io/conan-center-index/pull/20745)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 23|:stopwatch: coin-cgl|:green_circle: XS|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -236,10 +238,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 549
+	- Open: 550
 	- Draft: 56
-	- Average Age: 85 days, 6 hours, and 0.85 minutes
-	- Stop Label: 282
+	- Average Age: 84 days, 20 hours, and 14.43 minutes
+	- Stop Label: 281
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
