@@ -2182,39 +2182,6 @@
       }
    },
    {
-      "Number": 19982,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T11:09:41Z",
-      "Recipe": "spirv-cross",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19982",
-      "LastCommitSHA": "c399cd88c6d7d953d1a6d07df7d2bda8be135159",
-      "LastCommitAt": "2023-10-14T18:56:16Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 6,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-10-23T15:21:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19982#pullrequestreview-1692863490"
-         }
-      }
-   },
-   {
       "Number": 20001,
       "OpenedBy": "gagoi",
       "CreatedAt": "2023-09-20T19:40:28Z",
@@ -4861,6 +4828,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20750",
       "LastCommitSHA": "f51e1577bc9ed2b15580f16e1111e361689a886d",
       "LastCommitAt": "2023-10-23T16:10:43Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20751,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2023-10-23T16:32:14Z",
+      "Recipe": "wt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20751",
+      "LastCommitSHA": "7d9b136f2a478e62217804fb42afb04cf6ae1a5a",
+      "LastCommitAt": "2023-10-23T16:32:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
