@@ -118,7 +118,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
 [#19944](https://github.com/conan-io/conan-center-index/pull/19944)|[weatherhead99](https://github.com/weatherhead99)|Sep 18|:memo: clhep|M|11|Oct 13|RubenRBS|SpaceIm
 [#19957](https://github.com/conan-io/conan-center-index/pull/19957)|[valgur](https://github.com/valgur)|Sep 19|:stopwatch: astro-informatics-so3|:blue_square: S|0|:eyes:||
-[#19971](https://github.com/conan-io/conan-center-index/pull/19971)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:memo: googleapis|M|1|Oct 21||**RubenRBS**
 [#19972](https://github.com/conan-io/conan-center-index/pull/19972)|[SpaceIm](https://github.com/SpaceIm)|Sep 20|:stopwatch: grpc|M|1|Sep 29 :bell:||
 [#19978](https://github.com/conan-io/conan-center-index/pull/19978)|[valgur](https://github.com/valgur)|Sep 20|:memo: spirv-headers|M|0|:eyes:||
 [#19982](https://github.com/conan-io/conan-center-index/pull/19982)|[valgur](https://github.com/valgur)|Sep 20|:memo: spirv-cross|L|4|Oct 6 :bell:|RubenRBS|
@@ -216,6 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20735](https://github.com/conan-io/conan-center-index/pull/20735)|[toge](https://github.com/toge)|Oct 22|:memo: zeromq|M|2|Oct 22||
 [#20736](https://github.com/conan-io/conan-center-index/pull/20736)|[toge](https://github.com/toge)|Oct 22|:new: signals-light|M|0|||
 [#20739](https://github.com/conan-io/conan-center-index/pull/20739)|[seppeon](https://github.com/seppeon)|Oct 23|:stopwatch: sdl|:green_circle: XS|0|||
+[#20740](https://github.com/conan-io/conan-center-index/pull/20740)|[Dobiasd](https://github.com/Dobiasd)|Oct 23|:stopwatch: frugally-deep|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -240,7 +240,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 548
 	- Draft: 56
-	- Average Age: 85 days, 13 hours, and 29.97 minutes
+	- Average Age: 85 days, 12 hours, and 57.24 minutes
 	- Stop Label: 280
 	
 
