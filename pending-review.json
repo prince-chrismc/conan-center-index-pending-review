@@ -2290,35 +2290,6 @@
       }
    },
    {
-      "Number": 19971,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-20T00:29:45Z",
-      "Recipe": "googleapis",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19971",
-      "LastCommitSHA": "f28a6ff98fc4c31e34325b9a979f6cd70f4199ec",
-      "LastCommitAt": "2023-10-20T23:07:51Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-10-21T17:52:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19971#pullrequestreview-1691310402"
-         }
-      }
-   },
-   {
       "Number": 19972,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-20T00:40:34Z",
@@ -4844,6 +4815,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20739",
       "LastCommitSHA": "24eee0160e1b1b8d57b8d7ad80d9daafacc16ea0",
       "LastCommitAt": "2023-10-23T03:45:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20740,
+      "OpenedBy": "Dobiasd",
+      "CreatedAt": "2023-10-23T06:41:45Z",
+      "Recipe": "frugally-deep",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20740",
+      "LastCommitSHA": "a4c7eabd0f65809d2304362247d8e0ddbd4b22f8",
+      "LastCommitAt": "2023-10-23T06:41:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
