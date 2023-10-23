@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **184** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -209,10 +209,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20745](https://github.com/conan-io/conan-center-index/pull/20745)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 23|:stopwatch: coin-cgl|:green_circle: XS|1|Oct 23||jwillikers
 [#20746](https://github.com/conan-io/conan-center-index/pull/20746)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 23|:gear: .c3i|:green_circle: XS|0|||
 [#20747](https://github.com/conan-io/conan-center-index/pull/20747)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 23|:stopwatch: openvino|L|0|||
-[#20748](https://github.com/conan-io/conan-center-index/pull/20748)|[valgur](https://github.com/valgur)|Oct 23|:stopwatch: octomap|L|0|||
 [#20749](https://github.com/conan-io/conan-center-index/pull/20749)|[toge](https://github.com/toge)|Oct 23|:stopwatch: opensubdiv|M|0|||
 [#20750](https://github.com/conan-io/conan-center-index/pull/20750)|[toge](https://github.com/toge)|Oct 23|:stopwatch: glaze|M|0|||
-[#20751](https://github.com/conan-io/conan-center-index/pull/20751)|[uilianries](https://github.com/uilianries)|Oct 23|:stopwatch: wt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -239,8 +237,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 550
 	- Draft: 55
-	- Average Age: 84 days, 17 hours, and 8.03 minutes
-	- Stop Label: 282
+	- Average Age: 84 days, 18 hours, and 13.14 minutes
+	- Stop Label: 284
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
