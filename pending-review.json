@@ -4857,5 +4857,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20739,
+      "OpenedBy": "seppeon",
+      "CreatedAt": "2023-10-23T04:05:21Z",
+      "Recipe": "sdl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20739",
+      "LastCommitSHA": "24eee0160e1b1b8d57b8d7ad80d9daafacc16ea0",
+      "LastCommitAt": "2023-10-23T03:45:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
