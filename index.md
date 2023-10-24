@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **184** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -56,6 +56,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18644](https://github.com/conan-io/conan-center-index/pull/18644)|[valgur](https://github.com/valgur)|Jul 19|:memo: subunit|L|0|||
 [#18647](https://github.com/conan-io/conan-center-index/pull/18647)|[Cogitri](https://github.com/Cogitri)|Jul 19|:stopwatch: opentelemetry-cpp|M|3|Aug 13 :bell:||
 [#18652](https://github.com/conan-io/conan-center-index/pull/18652)|[valgur](https://github.com/valgur)|Jul 19|:memo: wineditline|L|0|||
+[#18654](https://github.com/conan-io/conan-center-index/pull/18654)|[valgur](https://github.com/valgur)|Jul 19|:memo: directshowbaseclasses|L|0|||
 [#18666](https://github.com/conan-io/conan-center-index/pull/18666)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: libproperties|L|0|:eyes:||
 [#18681](https://github.com/conan-io/conan-center-index/pull/18681)|[valgur](https://github.com/valgur)|Jul 19|:memo: libelfin|L|0|:eyes:||
 [#18693](https://github.com/conan-io/conan-center-index/pull/18693)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: s2let|L|0|:eyes:||
@@ -198,7 +199,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20690](https://github.com/conan-io/conan-center-index/pull/20690)|[toge](https://github.com/toge)|Oct 19|:memo: log4cxx|M|1|Oct 19||
 [#20693](https://github.com/conan-io/conan-center-index/pull/20693)|[cyberflashguru](https://github.com/cyberflashguru)|Oct 19|:stopwatch: libiconv|:blue_square: S|0|:eyes:||
 [#20694](https://github.com/conan-io/conan-center-index/pull/20694)|[Subash-Lamichhane](https://github.com/Subash-Lamichhane)|Oct 19|:stopwatch: docs|:blue_square: S|3|Oct 20||prince-chrismc, MartinDelille, jwillikers
-[#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|0|||
+[#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|0|:eyes:||
 [#20710](https://github.com/conan-io/conan-center-index/pull/20710)|[rezvee6](https://github.com/rezvee6)|Oct 20|:stopwatch: abseil|:green_circle: XS|1|Oct 24||[hedtke](https://github.com/hedtke)
 [#20714](https://github.com/conan-io/conan-center-index/pull/20714)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: assimp|M|0|:eyes:||
 [#20721](https://github.com/conan-io/conan-center-index/pull/20721)|[coryan](https://github.com/coryan)|Oct 21|:memo: google-cloud-cpp|M|0|||
@@ -211,6 +212,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20749](https://github.com/conan-io/conan-center-index/pull/20749)|[toge](https://github.com/toge)|Oct 23|:stopwatch: opensubdiv|M|0|||
 [#20750](https://github.com/conan-io/conan-center-index/pull/20750)|[toge](https://github.com/toge)|Oct 23|:stopwatch: glaze|M|0|||
 [#20752](https://github.com/conan-io/conan-center-index/pull/20752)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: libxmlpp|L|0|||
+[#20757](https://github.com/conan-io/conan-center-index/pull/20757)|[toge](https://github.com/toge)|Oct 24|:stopwatch: wide-integer|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -234,9 +236,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 539
+	- Open: 540
 	- Draft: 54
-	- Average Age: 86 days, 15 hours, and 4.51 minutes
+	- Average Age: 86 days, 12 hours, and 8.80 minutes
 	- Stop Label: 275
 	
 
