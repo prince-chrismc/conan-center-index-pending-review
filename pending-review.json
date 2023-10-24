@@ -3043,6 +3043,30 @@
       }
    },
    {
+      "Number": 20381,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-05T19:35:08Z",
+      "Recipe": "sdl",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20381",
+      "LastCommitSHA": "6de71ce79c76c06bc34ca18eec406ab929b70659",
+      "LastCommitAt": "2023-10-24T16:22:37Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 4,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "sykhro",
+            "SubmittedAt": "2023-10-17T12:26:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20381#pullrequestreview-1682185524"
+         }
+      }
+   },
+   {
       "Number": 20385,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-10-05T22:30:13Z",
