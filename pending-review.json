@@ -690,6 +690,25 @@
       }
    },
    {
+      "Number": 18657,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-19T10:59:47Z",
+      "Recipe": "huffman",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18657",
+      "LastCommitSHA": "58624c0ff868fc6225591acb18a048b10ac84927",
+      "LastCommitAt": "2023-10-24T13:39:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18666,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T11:47:07Z",
@@ -830,9 +849,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18793",
-      "LastCommitSHA": "1776256790f7b06467977333401ad941775c3087",
-      "LastCommitAt": "2023-09-18T21:17:16Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "8a5e010e77a3760adb69e3abf2cc3b14189e22b7",
+      "LastCommitAt": "2023-10-24T18:44:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -897,8 +916,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18817",
-      "LastCommitSHA": "8ab97299f7baa8cf788ae3b22e57e539d52a6229",
-      "LastCommitAt": "2023-10-17T12:16:20Z",
+      "LastCommitSHA": "5732156c94b9dc7425ec4e0a94fc6f1a0db39861",
+      "LastCommitAt": "2023-10-24T18:48:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -921,8 +940,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18831",
-      "LastCommitSHA": "89ac57d3e335c3ef611c92a5b7b31519caac697b",
-      "LastCommitAt": "2023-09-21T17:17:04Z",
+      "LastCommitSHA": "94cb715d7775c7f028ec2e76b8d7f8aa2f8b3fc8",
+      "LastCommitAt": "2023-10-24T18:49:18Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2210,25 +2229,6 @@
       }
    },
    {
-      "Number": 19957,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-19T11:38:46Z",
-      "Recipe": "astro-informatics-so3",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19957",
-      "LastCommitSHA": "dfedf5fcf1a0a3aa174865ccce709ca38668c877",
-      "LastCommitAt": "2023-10-24T17:54:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19972,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-20T00:40:34Z",
@@ -2715,7 +2715,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20277",
       "LastCommitSHA": "a10647418c9a0c4018522b2162c3bcfacc22f3f3",
       "LastCommitAt": "2023-10-23T12:17:17Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
