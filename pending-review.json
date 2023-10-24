@@ -911,11 +911,21 @@
       "LastCommitAt": "2023-10-23T10:17:47Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-10-24T07:10:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18889#pullrequestreview-1694155539"
+         }
       }
    },
    {
@@ -1067,35 +1077,6 @@
             "ReviewerName": "MartinDelille",
             "SubmittedAt": "2023-08-07T12:24:52Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19082#pullrequestreview-1565210321"
-         }
-      }
-   },
-   {
-      "Number": 19096,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-08-08T12:42:56Z",
-      "Recipe": "acado",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19096",
-      "LastCommitSHA": "f5aee9e6174516a955a134b28511f2d297799188",
-      "LastCommitAt": "2023-09-29T08:05:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "SpaceIm",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-09-29T09:06:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19096#pullrequestreview-1650371330"
          }
       }
    },
@@ -4526,11 +4507,21 @@
       "LastCommitAt": "2023-10-20T18:44:10Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "hedtke",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "hedtke",
+            "SubmittedAt": "2023-10-24T06:32:21Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20710#pullrequestreview-1694108795"
+         }
       }
    },
    {
