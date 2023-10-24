@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **187** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -185,6 +185,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20663](https://github.com/conan-io/conan-center-index/pull/20663)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: openvdb|:green_circle: XS|1|Oct 19||jwillikers
 [#20664](https://github.com/conan-io/conan-center-index/pull/20664)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: nss|:green_circle: XS|1|Oct 19||jwillikers
 [#20665](https://github.com/conan-io/conan-center-index/pull/20665)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: librasterlite2|:green_circle: XS|1|Oct 23||jwillikers
+[#20666](https://github.com/conan-io/conan-center-index/pull/20666)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: folly|:green_circle: XS|0|:eyes:||
 [#20667](https://github.com/conan-io/conan-center-index/pull/20667)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: dd-opentracing-cpp|:green_circle: XS|1|Oct 23||jwillikers
 [#20668](https://github.com/conan-io/conan-center-index/pull/20668)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: botan|:green_circle: XS|0|:eyes:||
 [#20669](https://github.com/conan-io/conan-center-index/pull/20669)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: diligent-tools|:green_circle: XS|0|:eyes:||
@@ -200,7 +201,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20708](https://github.com/conan-io/conan-center-index/pull/20708)|[toge](https://github.com/toge)|Oct 20|:stopwatch: c-blosc2|M|1|Oct 23||**RubenRBS**
 [#20710](https://github.com/conan-io/conan-center-index/pull/20710)|[rezvee6](https://github.com/rezvee6)|Oct 20|:stopwatch: abseil|:green_circle: XS|1|Oct 24||[hedtke](https://github.com/hedtke)
 [#20714](https://github.com/conan-io/conan-center-index/pull/20714)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: assimp|M|0|:eyes:||
-[#20721](https://github.com/conan-io/conan-center-index/pull/20721)|[coryan](https://github.com/coryan)|Oct 21|:stopwatch: google-cloud-cpp|M|0|||
+[#20721](https://github.com/conan-io/conan-center-index/pull/20721)|[coryan](https://github.com/coryan)|Oct 21|:memo: google-cloud-cpp|M|0|||
 [#20722](https://github.com/conan-io/conan-center-index/pull/20722)|[toge](https://github.com/toge)|Oct 21|:stopwatch: simdutf|:blue_square: S|1|Oct 23||
 [#20727](https://github.com/conan-io/conan-center-index/pull/20727)|[mayeut](https://github.com/mayeut)|Oct 21|:memo: opencv|M|2|Oct 23||[ilya-lavrenov](https://github.com/ilya-lavrenov), jwillikers
 [#20729](https://github.com/conan-io/conan-center-index/pull/20729)|[SpaceIm](https://github.com/SpaceIm)|Oct 21|:memo: opencv|L|1|Oct 23||jwillikers
@@ -218,7 +219,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -228,7 +229,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|3|jwillikers, **franramirez688**
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
-[#20623](https://github.com/conan-io/conan-center-index/pull/20623)|[jwillikers](https://github.com/jwillikers)|Oct 17|:new: directx-headers|5|**RubenRBS**, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -237,10 +237,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 544
+	- Open: 543
 	- Draft: 54
-	- Average Age: 85 days, 22 hours, and 57.13 minutes
-	- Stop Label: 278
+	- Average Age: 86 days, 3 hours, and 29.25 minutes
+	- Stop Label: 277
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
