@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -147,6 +147,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|1|Oct 13||jwillikers
 [#20373](https://github.com/conan-io/conan-center-index/pull/20373)|[jwillikers](https://github.com/jwillikers)|Oct 5|:new: libblkid|M|0|:eyes:||
 [#20374](https://github.com/conan-io/conan-center-index/pull/20374)|[FranzPoize](https://github.com/FranzPoize)|Oct 5|:stopwatch: implot|:blue_square: S|0|:eyes:||
+[#20381](https://github.com/conan-io/conan-center-index/pull/20381)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:memo: sdl|L|4|Oct 17||
 [#20385](https://github.com/conan-io/conan-center-index/pull/20385)|[mayeut](https://github.com/mayeut)|Oct 5|:memo: xerces-c|:green_circle: XS|5|Oct 7 :bell:||
 [#20388](https://github.com/conan-io/conan-center-index/pull/20388)|[toge](https://github.com/toge)|Oct 6|:new: fast_io|M|2|Oct 13||jwillikers
 [#20392](https://github.com/conan-io/conan-center-index/pull/20392)|[bverhagen](https://github.com/bverhagen)|Oct 6|:stopwatch: onnxruntime|M|8|Oct 17||jwillikers
@@ -239,8 +240,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 537
 	- Draft: 52
-	- Average Age: 86 days, 21 hours, and 54.36 minutes
-	- Stop Label: 273
+	- Average Age: 86 days, 22 hours, and 55.06 minutes
+	- Stop Label: 272
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
