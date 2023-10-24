@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **189** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -51,6 +51,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18616](https://github.com/conan-io/conan-center-index/pull/18616)|[li-dl](https://github.com/li-dl)|Jul 18|:stopwatch: openssl|:green_circle: XS|0|:eyes:||
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|6|Aug 11 :bell:||MartinDelille, [valgur](https://github.com/valgur)
 [#18626](https://github.com/conan-io/conan-center-index/pull/18626)|[jstzwj](https://github.com/jstzwj)|Jul 18|:memo: nvcloth|L|0|:eyes:||
+[#18636](https://github.com/conan-io/conan-center-index/pull/18636)|[valgur](https://github.com/valgur)|Jul 19|:memo: asn1c|L|0|||
 [#18647](https://github.com/conan-io/conan-center-index/pull/18647)|[Cogitri](https://github.com/Cogitri)|Jul 19|:stopwatch: opentelemetry-cpp|M|3|Aug 13 :bell:||
 [#18666](https://github.com/conan-io/conan-center-index/pull/18666)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: libproperties|L|0|:eyes:||
 [#18681](https://github.com/conan-io/conan-center-index/pull/18681)|[valgur](https://github.com/valgur)|Jul 19|:memo: libelfin|L|0|:eyes:||
@@ -214,7 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20749](https://github.com/conan-io/conan-center-index/pull/20749)|[toge](https://github.com/toge)|Oct 23|:stopwatch: opensubdiv|M|0|||
 [#20750](https://github.com/conan-io/conan-center-index/pull/20750)|[toge](https://github.com/toge)|Oct 23|:stopwatch: glaze|M|0|||
 [#20752](https://github.com/conan-io/conan-center-index/pull/20752)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:stopwatch: libxmlpp|L|0|||
-[#20753](https://github.com/conan-io/conan-center-index/pull/20753)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 24|:stopwatch: .c3i|:blue_square: S|0|||
+[#20753](https://github.com/conan-io/conan-center-index/pull/20753)|[conan-center-bot](https://github.com/conan-center-bot)|Oct 24|:gear: .c3i|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -237,10 +238,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 4ea798c8a9d27ba9f1f42ace0256b16392df99c4
 - Pull Requests:
-	- Open: 550
+	- Open: 549
 	- Draft: 55
-	- Average Age: 85 days, and 38.68 minutes
-	- Stop Label: 281
+	- Average Age: 85 days, 5 hours, and 21.57 minutes
+	- Stop Label: 280
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
