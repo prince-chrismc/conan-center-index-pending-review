@@ -1196,8 +1196,8 @@
       "LastCommitAt": "2023-08-08T17:10:39Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
+         "Count": 3,
+         "ValidApprovals": 3,
          "TeamApproval": false,
          "Approvals": [
             {
@@ -1207,13 +1207,17 @@
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "toge",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-09-28T21:53:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19103#pullrequestreview-1649762032"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2023-10-25T15:20:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19103#pullrequestreview-1697661245"
          }
       }
    },
@@ -5070,6 +5074,25 @@
             "SubmittedAt": "2023-10-25T13:23:13Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20766#pullrequestreview-1697340060"
          }
+      }
+   },
+   {
+      "Number": 20767,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-25T15:19:35Z",
+      "Recipe": "linux-headers-generic",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20767",
+      "LastCommitSHA": "5c920356ed56e66a96992baad565d3b8e1863865",
+      "LastCommitAt": "2023-10-25T15:19:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
