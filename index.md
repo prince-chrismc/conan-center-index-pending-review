@@ -216,7 +216,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **12** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -228,9 +228,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
 [#20740](https://github.com/conan-io/conan-center-index/pull/20740)|[Dobiasd](https://github.com/Dobiasd)|Oct 23|:warning: frugally-deep|2|**RubenRBS**, ericLemanissier
-[#20748](https://github.com/conan-io/conan-center-index/pull/20748)|[valgur](https://github.com/valgur)|Oct 23|:memo: octomap|2|**RubenRBS**, jwillikers
 [#20749](https://github.com/conan-io/conan-center-index/pull/20749)|[toge](https://github.com/toge)|Oct 23|:warning: opensubdiv|2|**RubenRBS**, jwillikers
-[#20752](https://github.com/conan-io/conan-center-index/pull/20752)|[SpaceIm](https://github.com/SpaceIm)|Oct 23|:memo: libxmlpp|3|**RubenRBS**, [valgur](https://github.com/valgur), jwillikers
 [#20757](https://github.com/conan-io/conan-center-index/pull/20757)|[toge](https://github.com/toge)|Oct 24|:new: wide-integer|2|**RubenRBS**, jwillikers
 [#20765](https://github.com/conan-io/conan-center-index/pull/20765)|[uilianries](https://github.com/uilianries)|Oct 25|:gear: .c3i|3|**danimtb**, **RubenRBS**, jwillikers
 
@@ -241,9 +239,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 538
+	- Open: 536
 	- Draft: 52
-	- Average Age: 86 days, 23 hours, and 3.35 minutes
+	- Average Age: 87 days, 7 hours, and 37.87 minutes
 	- Stop Label: 271
 	
 
