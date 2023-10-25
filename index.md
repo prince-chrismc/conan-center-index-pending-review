@@ -213,8 +213,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20766](https://github.com/conan-io/conan-center-index/pull/20766)|[valgur](https://github.com/valgur)|Oct 25|:memo: libmikmod|:green_circle: XS|1|Oct 25||jwillikers
 [#20767](https://github.com/conan-io/conan-center-index/pull/20767)|[toge](https://github.com/toge)|Oct 25|:memo: linux-headers-generic|:green_circle: XS|0|||
 [#20769](https://github.com/conan-io/conan-center-index/pull/20769)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: xerces-c|:blue_square: S|0|||
-[#20770](https://github.com/conan-io/conan-center-index/pull/20770)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: mariadb-connector-c|:green_circle: XS|0|||
 [#20771](https://github.com/conan-io/conan-center-index/pull/20771)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: netcdf|:blue_square: S|0|||
+[#20772](https://github.com/conan-io/conan-center-index/pull/20772)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: libmediainfo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -241,10 +241,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 538
+	- Open: 539
 	- Draft: 52
-	- Average Age: 87 days, and 47.92 minutes
-	- Stop Label: 271
+	- Average Age: 86 days, 21 hours, and 55.65 minutes
+	- Stop Label: 272
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
