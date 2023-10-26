@@ -4779,19 +4779,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20775",
-      "LastCommitSHA": "e4432eeebcd42217ecd8265a297a19c8f850a6a6",
-      "LastCommitAt": "2023-10-26T06:37:48Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "dd0f90ca65a73817495bb575f13b00035c91f670",
+      "LastCommitAt": "2023-10-26T10:20:20Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "RubenRBS",
@@ -4810,6 +4805,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20777",
       "LastCommitSHA": "89729b511d866753f520c2e26f332f872e1963f4",
       "LastCommitAt": "2023-10-26T09:41:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20779,
+      "OpenedBy": "hegyizs",
+      "CreatedAt": "2023-10-26T11:06:04Z",
+      "Recipe": "icu",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20779",
+      "LastCommitSHA": "3de996e4adf9c354e24870d72631d97f8c14114e",
+      "LastCommitAt": "2023-10-26T11:07:12Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
