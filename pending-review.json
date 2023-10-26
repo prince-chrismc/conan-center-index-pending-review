@@ -509,25 +509,6 @@
       }
    },
    {
-      "Number": 18616,
-      "OpenedBy": "li-dl",
-      "CreatedAt": "2023-07-18T12:19:55Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18616",
-      "LastCommitSHA": "51c624303e809ca57f6dfdb7aaae5db3524d07ed",
-      "LastCommitAt": "2023-07-24T22:46:46Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18621,
       "OpenedBy": "maksim-petukhov",
       "CreatedAt": "2023-07-18T14:57:57Z",
