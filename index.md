@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **184** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -207,11 +207,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20761](https://github.com/conan-io/conan-center-index/pull/20761)|[fschoenm](https://github.com/fschoenm)|Oct 25|:stopwatch: fast-dds|:green_circle: XS|0|||
 [#20763](https://github.com/conan-io/conan-center-index/pull/20763)|[uilianries](https://github.com/uilianries)|Oct 25|:green_book: docs|:blue_square: S|1|Oct 25||
 [#20764](https://github.com/conan-io/conan-center-index/pull/20764)|[hegyizs](https://github.com/hegyizs)|Oct 25|:stopwatch: icu|:green_circle: XS|0|||
-[#20766](https://github.com/conan-io/conan-center-index/pull/20766)|[valgur](https://github.com/valgur)|Oct 25|:memo: libmikmod|:green_circle: XS|1|Oct 25||jwillikers
-[#20767](https://github.com/conan-io/conan-center-index/pull/20767)|[toge](https://github.com/toge)|Oct 25|:memo: linux-headers-generic|:green_circle: XS|1|Oct 26||jwillikers
 [#20769](https://github.com/conan-io/conan-center-index/pull/20769)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: xerces-c|:blue_square: S|1|Oct 26||**RubenRBS**
 [#20771](https://github.com/conan-io/conan-center-index/pull/20771)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: netcdf|:blue_square: S|1|Oct 26||**RubenRBS**
-[#20772](https://github.com/conan-io/conan-center-index/pull/20772)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:stopwatch: libmediainfo|:green_circle: XS|1|Oct 26||**RubenRBS**
+[#20772](https://github.com/conan-io/conan-center-index/pull/20772)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: libmediainfo|:green_circle: XS|1|Oct 26||**RubenRBS**
 [#20775](https://github.com/conan-io/conan-center-index/pull/20775)|[toge](https://github.com/toge)|Oct 26|:stopwatch: kaitai_struct_cpp_stl_runtime|L|0|||
 
 
@@ -238,9 +236,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 539
+	- Open: 538
 	- Draft: 53
-	- Average Age: 87 days, 1 hours, and 27.04 minutes
+	- Average Age: 87 days, 6 hours, and 21.75 minutes
 	- Stop Label: 274
 	
 
