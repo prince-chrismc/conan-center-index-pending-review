@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **183** pull requests currently under way :detective:
+There are **184** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -208,8 +208,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20769](https://github.com/conan-io/conan-center-index/pull/20769)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: xerces-c|:blue_square: S|1|Oct 26||**RubenRBS**
 [#20771](https://github.com/conan-io/conan-center-index/pull/20771)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: netcdf|:blue_square: S|1|Oct 26||**RubenRBS**
 [#20772](https://github.com/conan-io/conan-center-index/pull/20772)|[SpaceIm](https://github.com/SpaceIm)|Oct 25|:memo: libmediainfo|:green_circle: XS|1|Oct 26||**RubenRBS**
-[#20775](https://github.com/conan-io/conan-center-index/pull/20775)|[toge](https://github.com/toge)|Oct 26|:memo: kaitai_struct_cpp_stl_runtime|L|1|Oct 26||**RubenRBS**
+[#20775](https://github.com/conan-io/conan-center-index/pull/20775)|[toge](https://github.com/toge)|Oct 26|:stopwatch: kaitai_struct_cpp_stl_runtime|L|1|Oct 26||
 [#20777](https://github.com/conan-io/conan-center-index/pull/20777)|[SpaceIm](https://github.com/SpaceIm)|Oct 26|:stopwatch: cfitsio|:blue_square: S|0|||
+[#20779](https://github.com/conan-io/conan-center-index/pull/20779)|[hegyizs](https://github.com/hegyizs)|Oct 26|:stopwatch: icu|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -237,7 +238,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 535
 	- Draft: 53
-	- Average Age: 87 days, 13 hours, and 53.09 minutes
+	- Average Age: 87 days, 13 hours, and 14.67 minutes
 	- Stop Label: 272
 	
 
