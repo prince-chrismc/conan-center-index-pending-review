@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **187** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -107,7 +107,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19678](https://github.com/conan-io/conan-center-index/pull/19678)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Sep 8|:memo: onetbb|:green_circle: XS|1|Sep 29 :bell:||jwillikers
 [#19726](https://github.com/conan-io/conan-center-index/pull/19726)|[bryce-cahill](https://github.com/bryce-cahill)|Sep 10|:stopwatch: pcre2|M|2|Sep 12 :bell:||SpaceIm
 [#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:memo: opentelemetry-proto|:green_circle: XS|1|Sep 21 :bell:||[mollers](https://github.com/mollers)
-[#19768](https://github.com/conan-io/conan-center-index/pull/19768)|[mrjoel](https://github.com/mrjoel)|Sep 13|:memo: qt|:green_circle: XS|3|Oct 9 :bell:||jwillikers, ericLemanissier, MartinDelille
+[#19768](https://github.com/conan-io/conan-center-index/pull/19768)|[mrjoel](https://github.com/mrjoel)|Sep 13|:memo: qt|:green_circle: XS|4|Oct 26||jwillikers, ericLemanissier, MartinDelille
 [#19808](https://github.com/conan-io/conan-center-index/pull/19808)|[joakimono](https://github.com/joakimono)|Sep 14|:memo: openblas|M|3|Oct 17||
 [#19823](https://github.com/conan-io/conan-center-index/pull/19823)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:memo: sdl_net|:blue_square: S|0|:eyes:||
 [#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|1|Sep 18 :bell:||jwillikers
@@ -206,7 +206,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20750](https://github.com/conan-io/conan-center-index/pull/20750)|[toge](https://github.com/toge)|Oct 23|:stopwatch: glaze|M|0|||
 [#20756](https://github.com/conan-io/conan-center-index/pull/20756)|[toge](https://github.com/toge)|Oct 24|:memo: detools|L|0|||
 [#20758](https://github.com/conan-io/conan-center-index/pull/20758)|[SpaceIm](https://github.com/SpaceIm)|Oct 24|:stopwatch: tre|:green_circle: XS|0|||
-[#20759](https://github.com/conan-io/conan-center-index/pull/20759)|[toge](https://github.com/toge)|Oct 25|:stopwatch: cthash|M|0|||
 [#20761](https://github.com/conan-io/conan-center-index/pull/20761)|[fschoenm](https://github.com/fschoenm)|Oct 25|:memo: fast-dds|:green_circle: XS|0|||
 [#20763](https://github.com/conan-io/conan-center-index/pull/20763)|[uilianries](https://github.com/uilianries)|Oct 25|:green_book: docs|:blue_square: S|1|Oct 25||
 [#20764](https://github.com/conan-io/conan-center-index/pull/20764)|[hegyizs](https://github.com/hegyizs)|Oct 25|:stopwatch: icu|:green_circle: XS|0|||
@@ -241,10 +240,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 539
-	- Draft: 52
-	- Average Age: 87 days, 1 hours, and 56.21 minutes
-	- Stop Label: 272
+	- Open: 540
+	- Draft: 53
+	- Average Age: 87 days, and 2.75 minutes
+	- Stop Label: 273
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
