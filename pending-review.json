@@ -1056,39 +1056,6 @@
       }
    },
    {
-      "Number": 19095,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-08-08T11:40:45Z",
-      "Recipe": "backward-cpp",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19095",
-      "LastCommitSHA": "7785de0a165428b806ca5a90f6206d1b182286fa",
-      "LastCommitAt": "2023-09-12T13:46:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-27T13:57:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19095#pullrequestreview-1701862624"
-         }
-      }
-   },
-   {
       "Number": 19118,
       "OpenedBy": "sjlamerton",
       "CreatedAt": "2023-08-09T12:22:40Z",
@@ -1180,43 +1147,6 @@
             "ReviewerName": "offa",
             "SubmittedAt": "2023-08-14T18:44:20Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19148#pullrequestreview-1577444322"
-         }
-      }
-   },
-   {
-      "Number": 19191,
-      "OpenedBy": "AlexRamallo",
-      "CreatedAt": "2023-08-14T15:44:56Z",
-      "Recipe": "ozz-animation",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19191",
-      "LastCommitSHA": "a8cb63548d8de71c70c06aec6efe209b92efb837",
-      "LastCommitAt": "2023-08-17T14:12:39Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "danimtb",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-27T13:58:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19191#pullrequestreview-1701865041"
          }
       }
    },
@@ -3501,35 +3431,6 @@
       }
    },
    {
-      "Number": 20654,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-10-18T22:15:02Z",
-      "Recipe": "osgearth",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20654",
-      "LastCommitSHA": "44b2b042f845359dac05c31c881d3fbe91f35d10",
-      "LastCommitAt": "2023-10-27T11:40:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-19T12:43:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20654#pullrequestreview-1687626939"
-         }
-      }
-   },
-   {
       "Number": 20656,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-10-18T22:17:12Z",
@@ -4066,6 +3967,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20792",
       "LastCommitSHA": "4e6545e3ba27cba80a15a78ff4a9cd49f9f5e5f3",
       "LastCommitAt": "2023-10-27T13:30:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20793,
+      "OpenedBy": "datalogics-robb",
+      "CreatedAt": "2023-10-27T15:07:41Z",
+      "Recipe": "doxygen",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20793",
+      "LastCommitSHA": "fd5260fd4795ad298946a5b422b4f940c1ab6547",
+      "LastCommitAt": "2023-10-27T15:07:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
