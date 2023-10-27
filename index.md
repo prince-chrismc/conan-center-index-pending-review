@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **159** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -186,6 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20775](https://github.com/conan-io/conan-center-index/pull/20775)|[toge](https://github.com/toge)|Oct 26|:memo: kaitai_struct_cpp_stl_runtime|L|2|Oct 26||jwillikers
 [#20779](https://github.com/conan-io/conan-center-index/pull/20779)|[hegyizs](https://github.com/hegyizs)|Oct 26|:stopwatch: icu|M|0|||
 [#20782](https://github.com/conan-io/conan-center-index/pull/20782)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 26|:stopwatch: openvino|:blue_square: S|1|Oct 26||jwillikers
+[#20786](https://github.com/conan-io/conan-center-index/pull/20786)|[uilianries](https://github.com/uilianries)|Oct 27|:stopwatch: onetbb|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -210,10 +211,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 512
-	- Draft: 53
-	- Average Age: 91 days, and 28.20 minutes
-	- Stop Label: 274
+	- Open: 513
+	- Draft: 54
+	- Average Age: 90 days, 21 hours, and 45.06 minutes
+	- Stop Label: 273
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
