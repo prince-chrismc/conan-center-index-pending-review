@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **161** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -40,7 +40,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17841](https://github.com/conan-io/conan-center-index/pull/17841)|[Jihadist](https://github.com/Jihadist)|Jun 6|:new: limereport|M|0|:eyes:||
 [#18009](https://github.com/conan-io/conan-center-index/pull/18009)|[ViktarHasiul231862](https://github.com/ViktarHasiul231862)|Jun 21|:stopwatch: wt|:blue_square: S|0|:eyes:||
 [#18016](https://github.com/conan-io/conan-center-index/pull/18016)|[uilianries](https://github.com/uilianries)|Jun 22|:new: intel-ipsec-mb|M|1|Sep 18 :bell:||jwillikers
-[#18079](https://github.com/conan-io/conan-center-index/pull/18079)|[lieser](https://github.com/lieser)|Jun 27|:memo: botan|XL|13|Oct 11 :bell:||
 [#18084](https://github.com/conan-io/conan-center-index/pull/18084)|[valgur](https://github.com/valgur)|Jun 27|:memo: accellera-uvm-systemc|L|0|||
 [#18353](https://github.com/conan-io/conan-center-index/pull/18353)|[valgur](https://github.com/valgur)|Jul 5|:memo: tcsbank-uconfig|L|0|:eyes:||
 [#18354](https://github.com/conan-io/conan-center-index/pull/18354)|[valgur](https://github.com/valgur)|Jul 5|:memo: yandex-ozo|L|0|:eyes:||
@@ -212,10 +211,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 514
+	- Open: 513
 	- Draft: 55
-	- Average Age: 90 days, 18 hours, and 28.54 minutes
-	- Stop Label: 272
+	- Average Age: 90 days, 22 hours, and 23.01 minutes
+	- Stop Label: 271
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
