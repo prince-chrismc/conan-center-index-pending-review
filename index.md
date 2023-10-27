@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **155** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -166,13 +166,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20664](https://github.com/conan-io/conan-center-index/pull/20664)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: nss|:green_circle: XS|1|Oct 19||jwillikers
 [#20665](https://github.com/conan-io/conan-center-index/pull/20665)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: librasterlite2|:green_circle: XS|1|Oct 23||jwillikers
 [#20666](https://github.com/conan-io/conan-center-index/pull/20666)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: folly|:green_circle: XS|1|Oct 26||jwillikers
-[#20667](https://github.com/conan-io/conan-center-index/pull/20667)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: dd-opentracing-cpp|:green_circle: XS|1|Oct 23||jwillikers
-[#20668](https://github.com/conan-io/conan-center-index/pull/20668)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: botan|:green_circle: XS|1|Oct 26||jwillikers
-[#20669](https://github.com/conan-io/conan-center-index/pull/20669)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: diligent-tools|:green_circle: XS|1|Oct 26||jwillikers
 [#20670](https://github.com/conan-io/conan-center-index/pull/20670)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: poppler|:green_circle: XS|1|Oct 19||jwillikers
-[#20675](https://github.com/conan-io/conan-center-index/pull/20675)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: pangomm|:green_circle: XS|1|Oct 19||jwillikers
 [#20677](https://github.com/conan-io/conan-center-index/pull/20677)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: imagemagick|:green_circle: XS|1|Oct 19||jwillikers
-[#20678](https://github.com/conan-io/conan-center-index/pull/20678)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: cpython|:green_circle: XS|1|Oct 20||jwillikers
 [#20686](https://github.com/conan-io/conan-center-index/pull/20686)|[toge](https://github.com/toge)|Oct 19|:new: crossguid|M|1|Oct 19||
 [#20693](https://github.com/conan-io/conan-center-index/pull/20693)|[cyberflashguru](https://github.com/cyberflashguru)|Oct 19|:stopwatch: libiconv|:blue_square: S|0|:eyes:||
 [#20694](https://github.com/conan-io/conan-center-index/pull/20694)|[Subash-Lamichhane](https://github.com/Subash-Lamichhane)|Oct 19|:stopwatch: docs|:blue_square: S|3|Oct 20||prince-chrismc, MartinDelille, jwillikers
@@ -211,10 +206,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 513
+	- Open: 505
 	- Draft: 55
-	- Average Age: 90 days, 22 hours, and 23.01 minutes
-	- Stop Label: 271
+	- Average Age: 92 days, 5 hours, and 29.53 minutes
+	- Stop Label: 268
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
