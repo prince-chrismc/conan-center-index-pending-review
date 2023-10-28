@@ -173,7 +173,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20775](https://github.com/conan-io/conan-center-index/pull/20775)|[toge](https://github.com/toge)|Oct 26|:memo: kaitai_struct_cpp_stl_runtime|L|2|Oct 26||jwillikers
 [#20779](https://github.com/conan-io/conan-center-index/pull/20779)|[hegyizs](https://github.com/hegyizs)|Oct 26|:stopwatch: icu|M|0|||
 [#20782](https://github.com/conan-io/conan-center-index/pull/20782)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 26|:memo: openvino|:blue_square: S|2|Oct 27|uilianries|jwillikers
-[#20790](https://github.com/conan-io/conan-center-index/pull/20790)|[gjasny](https://github.com/gjasny)|Oct 27|:stopwatch: openssl|:green_circle: XS|0|||
+[#20790](https://github.com/conan-io/conan-center-index/pull/20790)|[gjasny](https://github.com/gjasny)|Oct 27|:memo: openssl|:green_circle: XS|0|||
 [#20792](https://github.com/conan-io/conan-center-index/pull/20792)|[simoncent](https://github.com/simoncent)|Oct 27|:memo: libwebm|:blue_square: S|0|||
 [#20793](https://github.com/conan-io/conan-center-index/pull/20793)|[datalogics-robb](https://github.com/datalogics-robb)|Oct 27|:stopwatch: doxygen|M|0|||
 
@@ -201,7 +201,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 496
 	- Draft: 55
-	- Average Age: 93 days, 16 hours, and 14.09 minutes
+	- Average Age: 93 days, 17 hours, and 16.12 minutes
 	- Stop Label: 270
 	
 
