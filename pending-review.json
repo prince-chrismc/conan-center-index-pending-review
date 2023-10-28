@@ -952,21 +952,16 @@
       "CreatedAt": "2023-07-24T17:23:02Z",
       "Recipe": "cairo",
       "Change": 1,
-      "Weight": 4,
+      "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18883",
-      "LastCommitSHA": "3b36d852c0bd5a05486be6661621b3c63af9c1e2",
-      "LastCommitAt": "2023-10-25T12:44:07Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "486a502d385c8b150a046b6c581c285c0f1faf87",
+      "LastCommitAt": "2023-10-28T08:14:55Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
