@@ -181,7 +181,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20796](https://github.com/conan-io/conan-center-index/pull/20796)|[tbeu](https://github.com/tbeu)|Oct 28|:memo: matio|:blue_square: S|0|||
 [#20798](https://github.com/conan-io/conan-center-index/pull/20798)|[SpaceIm](https://github.com/SpaceIm)|Oct 28|:memo: openssl|L|0|||
 [#20800](https://github.com/conan-io/conan-center-index/pull/20800)|[technoyes](https://github.com/technoyes)|Oct 28|:new: iconfontcppheaders|M|0|||
-[#20802](https://github.com/conan-io/conan-center-index/pull/20802)|[toge](https://github.com/toge)|Oct 28|:stopwatch: cairo|:blue_square: S|0|||
+[#20802](https://github.com/conan-io/conan-center-index/pull/20802)|[toge](https://github.com/toge)|Oct 28|:memo: cairo|:blue_square: S|1|Oct 28||ericLemanissier
 [#20803](https://github.com/conan-io/conan-center-index/pull/20803)|[martin-olivier](https://github.com/martin-olivier)|Oct 28|:stopwatch: dylib|M|0|||
 [#20804](https://github.com/conan-io/conan-center-index/pull/20804)|[toge](https://github.com/toge)|Oct 28|:stopwatch: itlib|:blue_square: S|0|||
 [#20805](https://github.com/conan-io/conan-center-index/pull/20805)|[toge](https://github.com/toge)|Oct 28|:stopwatch: libnghttp2|M|0|||
@@ -210,7 +210,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 502
 	- Draft: 55
-	- Average Age: 92 days, 21 hours, and 34.80 minutes
+	- Average Age: 92 days, 22 hours, and 36.46 minutes
 	- Stop Label: 267
 	
 
