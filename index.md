@@ -168,7 +168,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|0|:eyes:||
 [#20714](https://github.com/conan-io/conan-center-index/pull/20714)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: assimp|M|1|Oct 26||jwillikers
 [#20721](https://github.com/conan-io/conan-center-index/pull/20721)|[coryan](https://github.com/coryan)|Oct 21|:memo: google-cloud-cpp|M|2|Oct 27||**RubenRBS**
-[#20722](https://github.com/conan-io/conan-center-index/pull/20722)|[toge](https://github.com/toge)|Oct 21|:memo: simdutf|L|1|Oct 23||
+[#20722](https://github.com/conan-io/conan-center-index/pull/20722)|[toge](https://github.com/toge)|Oct 21|:stopwatch: simdutf|L|1|Oct 23||
 [#20727](https://github.com/conan-io/conan-center-index/pull/20727)|[mayeut](https://github.com/mayeut)|Oct 21|:memo: opencv|M|3|Oct 26||[ilya-lavrenov](https://github.com/ilya-lavrenov), jwillikers
 [#20735](https://github.com/conan-io/conan-center-index/pull/20735)|[toge](https://github.com/toge)|Oct 22|:memo: zeromq|M|5|Oct 24||jwillikers
 [#20756](https://github.com/conan-io/conan-center-index/pull/20756)|[toge](https://github.com/toge)|Oct 24|:memo: detools|L|3|Oct 28||jwillikers
@@ -179,7 +179,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20790](https://github.com/conan-io/conan-center-index/pull/20790)|[gjasny](https://github.com/gjasny)|Oct 27|:memo: openssl|:green_circle: XS|0|||
 [#20792](https://github.com/conan-io/conan-center-index/pull/20792)|[simoncent](https://github.com/simoncent)|Oct 27|:memo: libwebm|:blue_square: S|0|||
 [#20793](https://github.com/conan-io/conan-center-index/pull/20793)|[datalogics-robb](https://github.com/datalogics-robb)|Oct 27|:stopwatch: doxygen|M|0|||
-[#20796](https://github.com/conan-io/conan-center-index/pull/20796)|[tbeu](https://github.com/tbeu)|Oct 28|:stopwatch: matio|:blue_square: S|0|||
+[#20796](https://github.com/conan-io/conan-center-index/pull/20796)|[tbeu](https://github.com/tbeu)|Oct 28|:memo: matio|:blue_square: S|0|||
 [#20798](https://github.com/conan-io/conan-center-index/pull/20798)|[SpaceIm](https://github.com/SpaceIm)|Oct 28|:memo: openssl|L|0|||
 [#20800](https://github.com/conan-io/conan-center-index/pull/20800)|[technoyes](https://github.com/technoyes)|Oct 28|:new: iconfontcppheaders|M|0|||
 [#20802](https://github.com/conan-io/conan-center-index/pull/20802)|[toge](https://github.com/toge)|Oct 28|:memo: cairo|:blue_square: S|1|Oct 28||ericLemanissier
@@ -212,7 +212,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 505
 	- Draft: 56
-	- Average Age: 92 days, 13 hours, and 18.87 minutes
+	- Average Age: 92 days, 15 hours, and 19.25 minutes
 	- Stop Label: 267
 	
 
