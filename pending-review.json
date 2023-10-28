@@ -2844,39 +2844,6 @@
       }
    },
    {
-      "Number": 20441,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-08T14:33:45Z",
-      "Recipe": "openssl",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20441",
-      "LastCommitSHA": "518cabb6173cbe0970ac401e3dc49dc893a608e5",
-      "LastCommitAt": "2023-10-27T20:08:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "Croydon",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-10-26T12:56:43Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20441#pullrequestreview-1699563297"
-         }
-      }
-   },
-   {
       "Number": 20442,
       "OpenedBy": "toge",
       "CreatedAt": "2023-10-08T17:38:29Z",
@@ -3674,7 +3641,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20727",
       "LastCommitSHA": "6d0139702bf3ec3841fed75f465507a90f8f6d4f",
       "LastCommitAt": "2023-10-27T20:09:26Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 1,
@@ -3929,7 +3896,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20792",
       "LastCommitSHA": "4e6545e3ba27cba80a15a78ff4a9cd49f9f5e5f3",
       "LastCommitAt": "2023-10-27T13:30:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
