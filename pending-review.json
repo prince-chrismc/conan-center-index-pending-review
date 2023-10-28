@@ -4113,7 +4113,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20805",
       "LastCommitSHA": "eaeaa49513da96f1f8dc0cb3a2d5ee0b36bd246e",
       "LastCommitAt": "2023-10-28T13:46:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4132,7 +4132,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20806",
       "LastCommitSHA": "f7ac7980313d91dd606745deff92e1e96ab988e5",
       "LastCommitAt": "2023-10-28T15:28:57Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4151,25 +4151,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20808",
       "LastCommitSHA": "47ed5608b6e8df78549decbb4655595115951e4f",
       "LastCommitAt": "2023-10-28T15:46:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20809,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-28T16:02:08Z",
-      "Recipe": "simdjson",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20809",
-      "LastCommitSHA": "c21e6f74855034dcdd9f81b0f422051849322a50",
-      "LastCommitAt": "2023-10-28T15:54:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
