@@ -4190,5 +4190,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20807,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-28T15:41:18Z",
+      "Recipe": "samurai",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20807",
+      "LastCommitSHA": "dbed613963d7b592ac2da722f7887101ac12e26b",
+      "LastCommitAt": "2023-10-29T01:08:24Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20814,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-29T01:35:24Z",
+      "Recipe": "ada",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20814",
+      "LastCommitSHA": "2469354b9cdb0c6d965fe4b0370dfcbb7b93a4fc",
+      "LastCommitAt": "2023-10-29T01:34:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
