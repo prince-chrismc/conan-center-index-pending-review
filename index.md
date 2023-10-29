@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **164** pull requests currently under way :detective:
+There are **165** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -191,6 +191,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20807](https://github.com/conan-io/conan-center-index/pull/20807)|[toge](https://github.com/toge)|Oct 28|:memo: samurai|:blue_square: S|0|||
 [#20817](https://github.com/conan-io/conan-center-index/pull/20817)|[fnadeau](https://github.com/fnadeau)|Oct 29|:stopwatch: qt|:green_circle: XS|0|||
 [#20819](https://github.com/conan-io/conan-center-index/pull/20819)|[toge](https://github.com/toge)|Oct 29|:stopwatch: minizip-ng|:blue_square: S|0|||
+[#20821](https://github.com/conan-io/conan-center-index/pull/20821)|[toge](https://github.com/toge)|Oct 29|:stopwatch: miniaudio|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -216,7 +217,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 509
 	- Draft: 55
-	- Average Age: 92 days, 4 hours, and 53.17 minutes
+	- Average Age: 92 days, 5 hours, and 50.31 minutes
 	- Stop Label: 267
 	
 
