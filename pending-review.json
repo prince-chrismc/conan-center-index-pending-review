@@ -2117,7 +2117,7 @@
       "LastCommitAt": "2023-10-14T18:59:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
+         "Count": 5,
          "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
@@ -2132,9 +2132,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-27T11:45:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20027#pullrequestreview-1701593985"
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-10-29T09:31:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20027#pullrequestreview-1702924901"
          }
       }
    },
@@ -3237,30 +3237,6 @@
             "ReviewerName": "TiloW",
             "SubmittedAt": "2023-10-20T08:45:14Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20584#pullrequestreview-1689548242"
-         }
-      }
-   },
-   {
-      "Number": 20594,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-10-16T12:04:40Z",
-      "Recipe": "xkbcommon",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20594",
-      "LastCommitSHA": "4b3205a084ced4df5f1c11e501c74a5f69a4e1ce",
-      "LastCommitAt": "2023-10-29T09:05:53Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-10-28T12:29:16Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20594#pullrequestreview-1702782963"
          }
       }
    },
