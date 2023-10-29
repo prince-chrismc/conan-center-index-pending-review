@@ -2552,9 +2552,9 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20284",
-      "LastCommitSHA": "fb1c8a7813a160c74de7e38b598bdfa1251a13c6",
-      "LastCommitAt": "2023-10-28T21:56:28Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "5fa8a3e15afa6daa6d8f7472df79548d3c76d178",
+      "LastCommitAt": "2023-10-29T17:08:34Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -4198,6 +4198,25 @@
       "LastCommitSHA": "5f9b37b69bc7ccc5ca1914dc397d2ec86658966c",
       "LastCommitAt": "2023-10-29T03:35:28Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20827,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-10-29T16:44:12Z",
+      "Recipe": "drogon",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20827",
+      "LastCommitSHA": "4077648eed052fb42426b09f3f4c73acf9193dab",
+      "LastCommitAt": "2023-10-29T16:43:21Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
