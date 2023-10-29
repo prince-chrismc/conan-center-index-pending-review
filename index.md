@@ -126,7 +126,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20277](https://github.com/conan-io/conan-center-index/pull/20277)|[valgur](https://github.com/valgur)|Oct 2|:memo: ffmpeg|L|2|Oct 27||jwillikers
 [#20278](https://github.com/conan-io/conan-center-index/pull/20278)|[jwillikers](https://github.com/jwillikers)|Oct 2|:new: hwdata|M|9|Oct 16 :bell:||**uilianries**
 [#20279](https://github.com/conan-io/conan-center-index/pull/20279)|[toge](https://github.com/toge)|Oct 2|:memo: clipper2|:blue_square: S|5|Oct 23||jwillikers
-[#20284](https://github.com/conan-io/conan-center-index/pull/20284)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Oct 2|:stopwatch: cpptrace|L|7|Oct 29||**RubenRBS**
+[#20284](https://github.com/conan-io/conan-center-index/pull/20284)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Oct 2|:new: cpptrace|L|7|Oct 29||**RubenRBS**
 [#20289](https://github.com/conan-io/conan-center-index/pull/20289)|[jwillikers](https://github.com/jwillikers)|Oct 2|:memo: libxcrypt|:blue_square: S|0|:eyes:||
 [#20293](https://github.com/conan-io/conan-center-index/pull/20293)|[cqc-alec](https://github.com/cqc-alec)|Oct 3|:stopwatch: symengine|:green_circle: XS|0|:eyes:||
 [#20319](https://github.com/conan-io/conan-center-index/pull/20319)|[valgur](https://github.com/valgur)|Oct 3|:new: hayai|M|1|Oct 6 :bell:||
@@ -217,7 +217,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 510
 	- Draft: 55
-	- Average Age: 92 days, 15 hours, and 49.96 minutes
+	- Average Age: 92 days, 16 hours, and 48.66 minutes
 	- Stop Label: 269
 	
 
