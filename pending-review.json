@@ -4211,15 +4211,15 @@
       }
    },
    {
-      "Number": 20815,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-29T02:14:15Z",
-      "Recipe": "etl",
+      "Number": 20817,
+      "OpenedBy": "fnadeau",
+      "CreatedAt": "2023-10-29T02:40:11Z",
+      "Recipe": "qt",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20815",
-      "LastCommitSHA": "f90df2ed5f809559dc8b902c2d74ae50d8784efb",
-      "LastCommitAt": "2023-10-29T02:03:14Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20817",
+      "LastCommitSHA": "90f16c952f24bd67bb11fb1443b403a2f4d791b4",
+      "LastCommitAt": "2023-10-29T02:42:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
