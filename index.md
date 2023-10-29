@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **166** pull requests currently under way :detective:
+There are **165** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -191,7 +191,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20817](https://github.com/conan-io/conan-center-index/pull/20817)|[fnadeau](https://github.com/fnadeau)|Oct 29|:stopwatch: qt|:green_circle: XS|1|Oct 29||jwillikers
 [#20819](https://github.com/conan-io/conan-center-index/pull/20819)|[toge](https://github.com/toge)|Oct 29|:memo: minizip-ng|:blue_square: S|0|||
 [#20827](https://github.com/conan-io/conan-center-index/pull/20827)|[toge](https://github.com/toge)|Oct 29|:stopwatch: drogon|M|0|||
-[#20828](https://github.com/conan-io/conan-center-index/pull/20828)|[toge](https://github.com/toge)|Oct 29|:stopwatch: cassandra-cpp-driver|:blue_square: S|0|||
 [#20830](https://github.com/conan-io/conan-center-index/pull/20830)|[mayeut](https://github.com/mayeut)|Oct 29|:stopwatch: openssl|:blue_square: S|0|||
 
 
@@ -216,9 +215,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 511
+	- Open: 510
 	- Draft: 55
-	- Average Age: 92 days, 10 hours, and 27.02 minutes
+	- Average Age: 92 days, 15 hours, and 49.96 minutes
 	- Stop Label: 269
 	
 
