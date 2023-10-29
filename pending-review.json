@@ -2191,25 +2191,6 @@
       }
    },
    {
-      "Number": 20089,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-23T20:10:00Z",
-      "Recipe": "protobuf",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20089",
-      "LastCommitSHA": "d985a28a336d1fca4b173856d8d333c9c96e9ec4",
-      "LastCommitAt": "2023-10-02T20:15:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20090,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-23T20:23:05Z",
@@ -3996,7 +3977,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20798",
       "LastCommitSHA": "b530fb4519ab4983493d476ee7b68f9a91669aa8",
       "LastCommitAt": "2023-10-29T10:51:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
