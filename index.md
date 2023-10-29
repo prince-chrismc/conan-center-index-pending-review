@@ -189,7 +189,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20805](https://github.com/conan-io/conan-center-index/pull/20805)|[toge](https://github.com/toge)|Oct 28|:memo: libnghttp2|M|0|||
 [#20806](https://github.com/conan-io/conan-center-index/pull/20806)|[toge](https://github.com/toge)|Oct 28|:memo: librdkafka|:blue_square: S|0|||
 [#20807](https://github.com/conan-io/conan-center-index/pull/20807)|[toge](https://github.com/toge)|Oct 28|:memo: samurai|:blue_square: S|0|||
-[#20815](https://github.com/conan-io/conan-center-index/pull/20815)|[toge](https://github.com/toge)|Oct 29|:stopwatch: etl|:green_circle: XS|0|||
+[#20817](https://github.com/conan-io/conan-center-index/pull/20817)|[fnadeau](https://github.com/fnadeau)|Oct 29|:stopwatch: qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -213,9 +213,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 507
+	- Open: 508
 	- Draft: 55
-	- Average Age: 92 days, 11 hours, and 43.97 minutes
+	- Average Age: 92 days, 8 hours, and 13.17 minutes
 	- Stop Label: 267
 	
 
