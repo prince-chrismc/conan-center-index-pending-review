@@ -1786,15 +1786,20 @@
       "LastCommitAt": "2023-10-30T11:04:11Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "samuel-emrys",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "samuel-emrys",
-            "SubmittedAt": "2023-10-17T06:27:38Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19808#pullrequestreview-1681453533"
+            "SubmittedAt": "2023-10-30T20:14:00Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19808#pullrequestreview-1704989034"
          }
       }
    },
@@ -3359,6 +3364,25 @@
       }
    },
    {
+      "Number": 20681,
+      "OpenedBy": "technoyes",
+      "CreatedAt": "2023-10-19T05:23:55Z",
+      "Recipe": "implot",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20681",
+      "LastCommitSHA": "84f6e3a4783aa77b1a1bd436bd86ba9893c73580",
+      "LastCommitAt": "2023-10-30T18:05:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20693,
       "OpenedBy": "cyberflashguru",
       "CreatedAt": "2023-10-19T14:01:50Z",
@@ -3704,6 +3728,30 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20803,
+      "OpenedBy": "martin-olivier",
+      "CreatedAt": "2023-10-28T13:21:39Z",
+      "Recipe": "dylib",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20803",
+      "LastCommitSHA": "50bfa6dc5f02d477026728978d1af43840d247cd",
+      "LastCommitAt": "2023-10-30T20:55:34Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-10-30T16:23:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20803#pullrequestreview-1704574364"
+         }
       }
    },
    {
