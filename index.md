@@ -193,7 +193,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20827](https://github.com/conan-io/conan-center-index/pull/20827)|[toge](https://github.com/toge)|Oct 29|:memo: drogon|M|0|||
 [#20830](https://github.com/conan-io/conan-center-index/pull/20830)|[mayeut](https://github.com/mayeut)|Oct 29|:memo: openssl|:blue_square: S|0|||
 [#20832](https://github.com/conan-io/conan-center-index/pull/20832)|[toge](https://github.com/toge)|Oct 30|:stopwatch: asio-grpc|:blue_square: S|0|||
-[#20833](https://github.com/conan-io/conan-center-index/pull/20833)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: yaml-cpp|:green_circle: XS|0|||
+[#20833](https://github.com/conan-io/conan-center-index/pull/20833)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:stopwatch: yaml-cpp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -219,7 +219,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 512
 	- Draft: 55
-	- Average Age: 92 days, 11 hours, and 45.68 minutes
+	- Average Age: 92 days, 11 hours, and 50.89 minutes
 	- Stop Label: 269
 	
 
