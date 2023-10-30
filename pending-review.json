@@ -2379,8 +2379,8 @@
       "Change": 0,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20256",
-      "LastCommitSHA": "1cf10e7ad2d537d4c3d2a2d9bb07a5db937c435e",
-      "LastCommitAt": "2023-10-30T12:38:25Z",
+      "LastCommitSHA": "8b3f0f5d59ad18b2c5d45e14196b463a01e1a6a8",
+      "LastCommitAt": "2023-10-30T13:20:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -3574,43 +3574,6 @@
       }
    },
    {
-      "Number": 20727,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-10-21T19:16:13Z",
-      "Recipe": "opencv",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20727",
-      "LastCommitSHA": "6d0139702bf3ec3841fed75f465507a90f8f6d4f",
-      "LastCommitAt": "2023-10-27T20:09:26Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ilya-lavrenov",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-10-30T12:51:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20727#pullrequestreview-1704048270"
-         }
-      }
-   },
-   {
       "Number": 20735,
       "OpenedBy": "toge",
       "CreatedAt": "2023-10-22T17:31:51Z",
@@ -4161,39 +4124,6 @@
       }
    },
    {
-      "Number": 20833,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-10-30T00:43:35Z",
-      "Recipe": "yaml-cpp",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20833",
-      "LastCommitSHA": "30e904cd1083a73fa3cd0cf04db52652b6bb06aa",
-      "LastCommitAt": "2023-10-30T07:46:47Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-30T12:13:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20833#pullrequestreview-1703963605"
-         }
-      }
-   },
-   {
       "Number": 20835,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-10-30T11:22:38Z",
@@ -4222,6 +4152,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20838",
       "LastCommitSHA": "c1dd46587179417d8769aacf85cc56cdf96a4ffc",
       "LastCommitAt": "2023-10-30T13:06:28Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20839,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-30T13:28:56Z",
+      "Recipe": "spirv-cross",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20839",
+      "LastCommitSHA": "3c1677e3016b4d7ac26abbfe7f2526830325eb2a",
+      "LastCommitAt": "2023-10-30T13:25:45Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
