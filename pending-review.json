@@ -57,8 +57,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16750",
-      "LastCommitSHA": "ddb42910c3676559f45f167be8bbb5bbc77a5302",
-      "LastCommitAt": "2023-09-19T19:34:53Z",
+      "LastCommitSHA": "475bf6b49949bb152c7524f8289096e7724de5a3",
+      "LastCommitAt": "2023-10-31T14:43:50Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 8,
@@ -3674,7 +3674,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20817",
       "LastCommitSHA": "869f10fbd53bba6ce66ab75cf6428c4a6cd4d4bc",
       "LastCommitAt": "2023-10-30T23:56:59Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -3899,7 +3899,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20850",
       "LastCommitSHA": "0824582282ec54a7cd860490b78ef6963ab4df06",
       "LastCommitAt": "2023-10-31T09:25:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3949,6 +3949,25 @@
             "SubmittedAt": "2023-10-31T13:17:05Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20856#pullrequestreview-1706278418"
          }
+      }
+   },
+   {
+      "Number": 20859,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2023-10-31T15:10:34Z",
+      "Recipe": "quickcpplib",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20859",
+      "LastCommitSHA": "1052e864414787d751cb547968d470082f7d0247",
+      "LastCommitAt": "2023-10-31T15:05:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
