@@ -3987,6 +3987,25 @@
       }
    },
    {
+      "Number": 20860,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2023-10-31T15:15:34Z",
+      "Recipe": "mariadb-connector-c",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20860",
+      "LastCommitSHA": "9e2ba92d6c4215019d2de11a7523d989b3244bdd",
+      "LastCommitAt": "2023-10-31T15:09:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20861,
       "OpenedBy": "toge",
       "CreatedAt": "2023-10-31T15:21:54Z",
@@ -4061,6 +4080,25 @@
             "SubmittedAt": "2023-10-31T19:05:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20863#pullrequestreview-1707060081"
          }
+      }
+   },
+   {
+      "Number": 20866,
+      "OpenedBy": "spnda",
+      "CreatedAt": "2023-10-31T23:07:58Z",
+      "Recipe": "fastgltf",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20866",
+      "LastCommitSHA": "8f7a6467a60767c29c9beef36e1da2b87556e04a",
+      "LastCommitAt": "2023-10-31T23:04:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
