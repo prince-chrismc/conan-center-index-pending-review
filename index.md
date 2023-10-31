@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **150** pull requests currently under way :detective:
+There are **151** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -165,7 +165,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20798](https://github.com/conan-io/conan-center-index/pull/20798)|[SpaceIm](https://github.com/SpaceIm)|Oct 28|:memo: openssl|L|1|Oct 31||**uilianries**
 [#20803](https://github.com/conan-io/conan-center-index/pull/20803)|[martin-olivier](https://github.com/martin-olivier)|Oct 28|:new: dylib|M|2|Oct 31||**uilianries**
 [#20813](https://github.com/conan-io/conan-center-index/pull/20813)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Oct 28|:memo: onetbb|:blue_square: S|1|Oct 28||
-[#20817](https://github.com/conan-io/conan-center-index/pull/20817)|[fnadeau](https://github.com/fnadeau)|Oct 29|:stopwatch: qt|:green_circle: XS|1|Oct 29||jwillikers
+[#20817](https://github.com/conan-io/conan-center-index/pull/20817)|[fnadeau](https://github.com/fnadeau)|Oct 29|:memo: qt|:green_circle: XS|1|Oct 29||jwillikers
 [#20819](https://github.com/conan-io/conan-center-index/pull/20819)|[toge](https://github.com/toge)|Oct 29|:memo: minizip-ng|:blue_square: S|0|||
 [#20827](https://github.com/conan-io/conan-center-index/pull/20827)|[toge](https://github.com/toge)|Oct 29|:memo: drogon|M|1|Oct 31||jwillikers
 [#20837](https://github.com/conan-io/conan-center-index/pull/20837)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: vulkan-headers|L|1|Oct 31||jwillikers
@@ -174,9 +174,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20842](https://github.com/conan-io/conan-center-index/pull/20842)|[valgur](https://github.com/valgur)|Oct 30|:memo: geographiclib|L|0|||
 [#20844](https://github.com/conan-io/conan-center-index/pull/20844)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Oct 30|:memo: libassert|L|0|||
 [#20847](https://github.com/conan-io/conan-center-index/pull/20847)|[SpaceIm](https://github.com/SpaceIm)|Oct 31|:new: jsbsim|L|0|||
-[#20850](https://github.com/conan-io/conan-center-index/pull/20850)|[irieger](https://github.com/irieger)|Oct 31|:stopwatch: openexr|L|0|||
+[#20850](https://github.com/conan-io/conan-center-index/pull/20850)|[irieger](https://github.com/irieger)|Oct 31|:memo: openexr|L|0|||
 [#20852](https://github.com/conan-io/conan-center-index/pull/20852)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:stopwatch: so5extra|:blue_square: S|0|||
 [#20856](https://github.com/conan-io/conan-center-index/pull/20856)|[jwillikers](https://github.com/jwillikers)|Oct 31|:green_book: docs|L|1|Oct 31||
+[#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:stopwatch: quickcpplib|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -201,9 +202,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 498
+	- Open: 497
 	- Draft: 55
-	- Average Age: 94 days, 18 hours, and 6.36 minutes
+	- Average Age: 94 days, 23 hours, and 41.25 minutes
 	- Stop Label: 267
 	
 
