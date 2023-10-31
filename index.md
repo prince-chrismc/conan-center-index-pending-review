@@ -174,10 +174,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20813](https://github.com/conan-io/conan-center-index/pull/20813)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Oct 28|:memo: onetbb|:blue_square: S|1|Oct 28||
 [#20817](https://github.com/conan-io/conan-center-index/pull/20817)|[fnadeau](https://github.com/fnadeau)|Oct 29|:stopwatch: qt|:green_circle: XS|1|Oct 29||jwillikers
 [#20819](https://github.com/conan-io/conan-center-index/pull/20819)|[toge](https://github.com/toge)|Oct 29|:memo: minizip-ng|:blue_square: S|0|||
-[#20827](https://github.com/conan-io/conan-center-index/pull/20827)|[toge](https://github.com/toge)|Oct 29|:memo: drogon|M|0|||
-[#20837](https://github.com/conan-io/conan-center-index/pull/20837)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: vulkan-headers|L|0|||
-[#20838](https://github.com/conan-io/conan-center-index/pull/20838)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: spirv-headers|M|0|||
-[#20839](https://github.com/conan-io/conan-center-index/pull/20839)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: spirv-cross|M|0|||
+[#20827](https://github.com/conan-io/conan-center-index/pull/20827)|[toge](https://github.com/toge)|Oct 29|:memo: drogon|M|1|Oct 31||jwillikers
+[#20837](https://github.com/conan-io/conan-center-index/pull/20837)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: vulkan-headers|L|1|Oct 31||jwillikers
+[#20838](https://github.com/conan-io/conan-center-index/pull/20838)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: spirv-headers|M|1|Oct 31||jwillikers
+[#20839](https://github.com/conan-io/conan-center-index/pull/20839)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: spirv-cross|M|1|Oct 31||jwillikers
 [#20844](https://github.com/conan-io/conan-center-index/pull/20844)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Oct 30|:memo: libassert|L|0|||
 
 
@@ -202,10 +202,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 499
+	- Open: 500
 	- Draft: 55
-	- Average Age: 94 days, 15 hours, and 38.04 minutes
-	- Stop Label: 269
+	- Average Age: 94 days, 12 hours, and 0.59 minutes
+	- Stop Label: 270
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
