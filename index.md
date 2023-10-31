@@ -172,14 +172,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20852](https://github.com/conan-io/conan-center-index/pull/20852)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:stopwatch: so5extra|:blue_square: S|0|||
 [#20856](https://github.com/conan-io/conan-center-index/pull/20856)|[jwillikers](https://github.com/jwillikers)|Oct 31|:green_book: docs|L|1|Oct 31||
 [#20860](https://github.com/conan-io/conan-center-index/pull/20860)|[uilianries](https://github.com/uilianries)|Oct 31|:stopwatch: mariadb-connector-c|:green_circle: XS|0|||
-[#20862](https://github.com/conan-io/conan-center-index/pull/20862)|[toge](https://github.com/toge)|Oct 31|:stopwatch: re2|:green_circle: XS|0|||
+[#20862](https://github.com/conan-io/conan-center-index/pull/20862)|[toge](https://github.com/toge)|Oct 31|:memo: re2|:green_circle: XS|0|||
 [#20863](https://github.com/conan-io/conan-center-index/pull/20863)|[valgur](https://github.com/valgur)|Oct 31|:stopwatch: libzip|:green_circle: XS|0|||
-[#20864](https://github.com/conan-io/conan-center-index/pull/20864)|[toge](https://github.com/toge)|Oct 31|:stopwatch: aws-lambda-cpp|M|0|||
+[#20865](https://github.com/conan-io/conan-center-index/pull/20865)|[fdefelici](https://github.com/fdefelici)|Oct 31|:stopwatch: clove-unit|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -193,7 +193,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
 [#20632](https://github.com/conan-io/conan-center-index/pull/20632)|[thbeu](https://github.com/thbeu)|Oct 18|:warning: shapelib|3|jwillikers, **uilianries**
 [#20798](https://github.com/conan-io/conan-center-index/pull/20798)|[SpaceIm](https://github.com/SpaceIm)|Oct 28|:memo: openssl|3|**uilianries**, jwillikers
-[#20803](https://github.com/conan-io/conan-center-index/pull/20803)|[martin-olivier](https://github.com/martin-olivier)|Oct 28|:new: dylib|3|**uilianries**, jwillikers
 [#20827](https://github.com/conan-io/conan-center-index/pull/20827)|[toge](https://github.com/toge)|Oct 29|:memo: drogon|2|jwillikers, **uilianries**
 
 
@@ -205,8 +204,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 501
 	- Draft: 54
-	- Average Age: 94 days, 6 hours, and 58.87 minutes
-	- Stop Label: 271
+	- Average Age: 94 days, 7 hours, and 54.15 minutes
+	- Stop Label: 272
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
