@@ -1982,35 +1982,6 @@
       }
    },
    {
-      "Number": 19978,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T09:38:11Z",
-      "Recipe": "spirv-headers",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19978",
-      "LastCommitSHA": "9054861d705426812d566b48d935d53f8bffdcc4",
-      "LastCommitAt": "2023-09-20T09:37:29Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-27T11:46:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19978#pullrequestreview-1701594314"
-         }
-      }
-   },
-   {
       "Number": 20027,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-20T22:54:57Z",
@@ -3394,11 +3365,21 @@
       "LastCommitAt": "2023-10-30T18:05:41Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-10-31T08:15:48Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20681#pullrequestreview-1705677567"
+         }
       }
    },
    {
@@ -3906,20 +3887,24 @@
       "LastCommitAt": "2023-10-30T13:06:28Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "valgur",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-31T01:26:53Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20838#pullrequestreview-1705300094"
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2023-10-31T07:36:32Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20838#pullrequestreview-1705619191"
          }
       }
    },
