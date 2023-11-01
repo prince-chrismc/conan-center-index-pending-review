@@ -4325,25 +4325,6 @@
       }
    },
    {
-      "Number": 20872,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-01T13:03:32Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20872",
-      "LastCommitSHA": "2a3b37356aef2e4a48caa01ca96c31baaff23758",
-      "LastCommitAt": "2023-11-01T12:59:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20873,
       "OpenedBy": "datalogics-robb",
       "CreatedAt": "2023-11-01T14:09:14Z",
@@ -4360,35 +4341,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 20874,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-01T14:50:51Z",
-      "Recipe": "sqlite3",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20874",
-      "LastCommitSHA": "356d94a14be8083ce4ed9de2b2d86d51655127f3",
-      "LastCommitAt": "2023-11-01T14:50:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-01T18:36:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20874#pullrequestreview-1708807560"
-         }
       }
    },
    {
