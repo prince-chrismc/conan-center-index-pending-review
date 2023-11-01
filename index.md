@@ -181,7 +181,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20862](https://github.com/conan-io/conan-center-index/pull/20862)|[toge](https://github.com/toge)|Oct 31|:memo: re2|:green_circle: XS|1|Oct 31||jwillikers
 [#20863](https://github.com/conan-io/conan-center-index/pull/20863)|[valgur](https://github.com/valgur)|Oct 31|:stopwatch: libzip|:green_circle: XS|1|Oct 31||jwillikers
 [#20864](https://github.com/conan-io/conan-center-index/pull/20864)|[toge](https://github.com/toge)|Oct 31|:new: aws-lambda-cpp|M|0|||
-[#20868](https://github.com/conan-io/conan-center-index/pull/20868)|[toge](https://github.com/toge)|Nov 1|:memo: libxmlpp|:blue_square: S|0|||
+[#20868](https://github.com/conan-io/conan-center-index/pull/20868)|[toge](https://github.com/toge)|Nov 1|:stopwatch: libxmlpp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -209,7 +209,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 499
 	- Draft: 54
-	- Average Age: 94 days, 19 hours, and 40.77 minutes
+	- Average Age: 94 days, 20 hours, and 36.45 minutes
 	- Stop Label: 265
 	
 
