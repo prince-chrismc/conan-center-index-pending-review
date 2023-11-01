@@ -3699,7 +3699,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20817",
       "LastCommitSHA": "680877f52af00d0c399b2b204a9055c3249beff8",
       "LastCommitAt": "2023-10-31T20:01:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -4080,25 +4080,6 @@
             "SubmittedAt": "2023-10-31T19:05:32Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20863#pullrequestreview-1707060081"
          }
-      }
-   },
-   {
-      "Number": 20866,
-      "OpenedBy": "spnda",
-      "CreatedAt": "2023-10-31T23:07:58Z",
-      "Recipe": "fastgltf",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20866",
-      "LastCommitSHA": "8f7a6467a60767c29c9beef36e1da2b87556e04a",
-      "LastCommitAt": "2023-10-31T23:04:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
