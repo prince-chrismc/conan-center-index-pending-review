@@ -2645,15 +2645,20 @@
       "LastCommitAt": "2023-11-01T01:58:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
+         "Count": 4,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "AndreyMlashkin",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-10-18T20:37:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20354#pullrequestreview-1686095156"
+            "ReviewerName": "AndreyMlashkin",
+            "SubmittedAt": "2023-11-01T07:36:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20354#pullrequestreview-1707708427"
          }
       }
    },
@@ -4131,6 +4136,25 @@
       "LastCommitSHA": "857d79d65a3011268c4e8dc2bc9e005e645bf94c",
       "LastCommitAt": "2023-11-01T06:13:59Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20869,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-01T08:17:06Z",
+      "Recipe": "parg",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20869",
+      "LastCommitSHA": "e5d5bed9c07525c6ded26e1829f833255131cf16",
+      "LastCommitAt": "2023-11-01T08:16:13Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
