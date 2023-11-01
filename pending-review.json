@@ -2369,7 +2369,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20260",
       "LastCommitSHA": "58ec0d6eb46bf081a207e5b08ba4649ea1a93e0b",
       "LastCommitAt": "2023-10-31T20:55:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -3447,6 +3447,25 @@
             "SubmittedAt": "2023-10-20T12:45:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20694#pullrequestreview-1689957676"
          }
+      }
+   },
+   {
+      "Number": 20703,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2023-10-20T12:51:04Z",
+      "Recipe": "opencolorio",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20703",
+      "LastCommitSHA": "1a8b10bcc1bd42cec735a7992800f2fe0449c6e3",
+      "LastCommitAt": "2023-10-31T23:29:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
