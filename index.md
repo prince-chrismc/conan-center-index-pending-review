@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **162** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -122,6 +122,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20315](https://github.com/conan-io/conan-center-index/pull/20315)|[valgur](https://github.com/valgur)|Oct 3|:memo: dlib|M|0|||
 [#20319](https://github.com/conan-io/conan-center-index/pull/20319)|[valgur](https://github.com/valgur)|Oct 3|:new: hayai|M|1|Oct 6 :bell:||
 [#20323](https://github.com/conan-io/conan-center-index/pull/20323)|[valgur](https://github.com/valgur)|Oct 3|:memo: recastnavigation|L|5|Oct 3 :bell:||
+[#20324](https://github.com/conan-io/conan-center-index/pull/20324)|[jwillikers](https://github.com/jwillikers)|Oct 3|:new: libdisplay-info|M|1|Nov 1||
 [#20326](https://github.com/conan-io/conan-center-index/pull/20326)|[Rdk-T](https://github.com/Rdk-T)|Oct 3|:memo: kickcat|:green_circle: XS|2|Oct 10 :bell:||[leducp](https://github.com/leducp), [trns1997](https://github.com/trns1997)
 [#20336](https://github.com/conan-io/conan-center-index/pull/20336)|[SpaceIm](https://github.com/SpaceIm)|Oct 3|:memo: boost|:green_circle: XS|2|Oct 16 :bell:|RubenRBS|jwillikers
 [#20354](https://github.com/conan-io/conan-center-index/pull/20354)|[weatherhead99](https://github.com/weatherhead99)|Oct 4|:memo: aravis|M|4|Nov 1||AndreyMlashkin
@@ -182,6 +183,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20868](https://github.com/conan-io/conan-center-index/pull/20868)|[toge](https://github.com/toge)|Nov 1|:memo: libxmlpp|:blue_square: S|1|Nov 1||jwillikers
 [#20869](https://github.com/conan-io/conan-center-index/pull/20869)|[toge](https://github.com/toge)|Nov 1|:memo: parg|:blue_square: S|1|Nov 1||jwillikers
 [#20870](https://github.com/conan-io/conan-center-index/pull/20870)|[mayeut](https://github.com/mayeut)|Nov 1|:stopwatch: harfbuzz|:green_circle: XS|1|Nov 1||jwillikers
+[#20871](https://github.com/conan-io/conan-center-index/pull/20871)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: onnx|:blue_square: S|0|||
 [#20872](https://github.com/conan-io/conan-center-index/pull/20872)|[valgur](https://github.com/valgur)|Nov 1|:stopwatch: gdal|L|0|||
 [#20873](https://github.com/conan-io/conan-center-index/pull/20873)|[datalogics-robb](https://github.com/datalogics-robb)|Nov 1|:stopwatch: icu|:green_circle: XS|0|||
 [#20874](https://github.com/conan-io/conan-center-index/pull/20874)|[toge](https://github.com/toge)|Nov 1|:stopwatch: sqlite3|:green_circle: XS|0|||
@@ -214,8 +216,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 504
 	- Draft: 54
-	- Average Age: 94 days, 2 hours, and 50.16 minutes
-	- Stop Label: 265
+	- Average Age: 94 days, 3 hours, and 54.82 minutes
+	- Stop Label: 263
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
