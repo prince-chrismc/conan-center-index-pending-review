@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **164** pull requests currently under way :detective:
+There are **165** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -66,6 +66,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18831](https://github.com/conan-io/conan-center-index/pull/18831)|[valgur](https://github.com/valgur)|Jul 22|:memo: ags|L|0|||
 [#18861](https://github.com/conan-io/conan-center-index/pull/18861)|[valgur](https://github.com/valgur)|Jul 24|:memo: pdcurses|L|0|||
 [#18883](https://github.com/conan-io/conan-center-index/pull/18883)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairo|M|11|Oct 31||jwillikers
+[#18884](https://github.com/conan-io/conan-center-index/pull/18884)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairomm|L|0|||
 [#18901](https://github.com/conan-io/conan-center-index/pull/18901)|[valgur](https://github.com/valgur)|Jul 25|:memo: mpdecimal|L|1|Oct 31||jwillikers
 [#18902](https://github.com/conan-io/conan-center-index/pull/18902)|[valgur](https://github.com/valgur)|Jul 25|:memo: jerryscript|L|1|Oct 31||jwillikers
 [#18945](https://github.com/conan-io/conan-center-index/pull/18945)|[valgur](https://github.com/valgur)|Jul 28|:memo: i2c-tools|L|0|||
@@ -218,8 +219,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 503
 	- Draft: 54
-	- Average Age: 94 days, 14 hours, and 22.33 minutes
-	- Stop Label: 260
+	- Average Age: 94 days, 15 hours, and 22.69 minutes
+	- Stop Label: 259
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
