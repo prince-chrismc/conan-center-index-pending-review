@@ -2201,30 +2201,6 @@
       }
    },
    {
-      "Number": 19994,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-09-20T17:17:36Z",
-      "Recipe": "aws-c-event-stream",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19994",
-      "LastCommitSHA": "28f87b281253c7c8e902c854e3632b314cd9e59f",
-      "LastCommitAt": "2023-11-02T04:12:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-09-20T20:11:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19994#pullrequestreview-1636415567"
-         }
-      }
-   },
-   {
       "Number": 20025,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-09-20T22:50:21Z",
