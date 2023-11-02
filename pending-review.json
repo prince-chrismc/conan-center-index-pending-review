@@ -2215,43 +2215,6 @@
       }
    },
    {
-      "Number": 20091,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-23T20:42:46Z",
-      "Recipe": "grpc-proto",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20091",
-      "LastCommitSHA": "81bb578e6d823c5f9334ed516114f2a067bd0eb8",
-      "LastCommitAt": "2023-09-24T23:28:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "Jihadist",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "Jihadist",
-            "SubmittedAt": "2023-11-02T16:57:20Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20091#pullrequestreview-1710813274"
-         }
-      }
-   },
-   {
       "Number": 20172,
       "OpenedBy": "Wawha",
       "CreatedAt": "2023-09-27T18:36:04Z",
@@ -3753,35 +3716,6 @@
       }
    },
    {
-      "Number": 20844,
-      "OpenedBy": "jeremy-rifkin",
-      "CreatedAt": "2023-10-30T17:01:59Z",
-      "Recipe": "libassert",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20844",
-      "LastCommitSHA": "f35a7f691f2bccf71faa9becd21c7617725d0e2e",
-      "LastCommitAt": "2023-10-31T19:40:23Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "SSE4",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-11-02T14:59:47Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20844#pullrequestreview-1710521360"
-         }
-      }
-   },
-   {
       "Number": 20847,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-10-31T01:27:05Z",
@@ -3923,7 +3857,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20861",
       "LastCommitSHA": "4fcbcc68594ef3e74d095c9ad6807396a712639b",
       "LastCommitAt": "2023-11-02T15:25:51Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
@@ -4258,6 +4192,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20900",
       "LastCommitSHA": "b8fbde61e6c10ff8299652638ce621557dfef8e4",
       "LastCommitAt": "2023-11-02T16:00:56Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20902,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-02T19:10:20Z",
+      "Recipe": "crossguid",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20902",
+      "LastCommitSHA": "6254409a58d1df2da7ab805e84fcae9d2f6b13ae",
+      "LastCommitAt": "2023-11-02T19:02:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
