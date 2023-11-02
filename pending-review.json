@@ -1944,6 +1944,25 @@
       }
    },
    {
+      "Number": 19857,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-09-15T13:19:21Z",
+      "Recipe": "llvm-openmp",
+      "Change": 1,
+      "Weight": 4,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19857",
+      "LastCommitSHA": "eaf78a1c657d1ae652feff085acc25a81f1cc11f",
+      "LastCommitAt": "2023-11-02T15:38:37Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 19882,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-16T09:17:12Z",
