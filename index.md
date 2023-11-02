@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **165** pull requests currently under way :detective:
+There are **164** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -191,7 +191,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20873](https://github.com/conan-io/conan-center-index/pull/20873)|[datalogics-robb](https://github.com/datalogics-robb)|Nov 1|:stopwatch: icu|:green_circle: XS|1|Nov 1||SpaceIm
 [#20875](https://github.com/conan-io/conan-center-index/pull/20875)|[toge](https://github.com/toge)|Nov 1|:stopwatch: mongo-c-driver|M|0|||
 [#20877](https://github.com/conan-io/conan-center-index/pull/20877)|[toge](https://github.com/toge)|Nov 1|:memo: cyrus-sasl|:blue_square: S|0|||
-[#20882](https://github.com/conan-io/conan-center-index/pull/20882)|[patmantru](https://github.com/patmantru)|Nov 1|:stopwatch: opentdf-client|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -219,7 +218,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 503
 	- Draft: 54
-	- Average Age: 94 days, 15 hours, and 22.69 minutes
+	- Average Age: 94 days, 15 hours, and 53.23 minutes
 	- Stop Label: 259
 	
 
