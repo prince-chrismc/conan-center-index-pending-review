@@ -1635,25 +1635,6 @@
       }
    },
    {
-      "Number": 19398,
-      "OpenedBy": "matthewT53",
-      "CreatedAt": "2023-08-24T15:39:47Z",
-      "Recipe": "very-simple-smtps",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19398",
-      "LastCommitSHA": "5f68149b359f6b9afa87d92ae87bb04f1ddc4072",
-      "LastCommitAt": "2023-10-30T12:29:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19490,
       "OpenedBy": "cjbradfield",
       "CreatedAt": "2023-08-30T01:21:44Z",
@@ -3277,19 +3258,14 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20584",
-      "LastCommitSHA": "459a7ea5284762192219655676d2488f645f4f45",
-      "LastCommitAt": "2023-10-16T12:56:25Z",
+      "LastCommitSHA": "1bc1cb79677247ec63c215157dfa100364e18f32",
+      "LastCommitAt": "2023-10-31T10:48:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "TiloW",
-               "Tier": "unofficial"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
@@ -3412,11 +3388,11 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20633",
       "LastCommitSHA": "6032a4e4bc38dfd588c7cc2ad3a2805ad414e190",
       "LastCommitAt": "2023-10-18T06:52:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 3,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "valgur",
@@ -3425,13 +3401,17 @@
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-18T12:20:32Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20633#pullrequestreview-1684918954"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-02T09:24:41Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20633#pullrequestreview-1709789464"
          }
       }
    },
