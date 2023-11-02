@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **157** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -145,8 +145,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20545](https://github.com/conan-io/conan-center-index/pull/20545)|[jwillikers](https://github.com/jwillikers)|Oct 12|:stopwatch: xkbcommon|:green_circle: XS|4|Oct 31||ericLemanissier
 [#20566](https://github.com/conan-io/conan-center-index/pull/20566)|[SpaceIm](https://github.com/SpaceIm)|Oct 14|:memo: replxx|L|1|Oct 16 :bell:||jwillikers
 [#20568](https://github.com/conan-io/conan-center-index/pull/20568)|[gureedo](https://github.com/gureedo)|Oct 14|:stopwatch: mbedtls|:blue_square: S|2|Oct 14 :bell:||
-[#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|0|:eyes:||
-[#20584](https://github.com/conan-io/conan-center-index/pull/20584)|[hedtke](https://github.com/hedtke)|Oct 15|:memo: scippp|:blue_square: S|4|Nov 2||**uilianries**
+[#20572](https://github.com/conan-io/conan-center-index/pull/20572)|[wing328](https://github.com/wing328)|Oct 15|:stopwatch: openapi-generator|:green_circle: XS|1|Nov 2||jwillikers
 [#20588](https://github.com/conan-io/conan-center-index/pull/20588)|[ma30002000](https://github.com/ma30002000)|Oct 16|:stopwatch: fast-cdr|M|0|||
 [#20628](https://github.com/conan-io/conan-center-index/pull/20628)|[jwillikers](https://github.com/jwillikers)|Oct 17|:memo: shapelib|:blue_square: S|0|:eyes:||
 [#20634](https://github.com/conan-io/conan-center-index/pull/20634)|[thbeu](https://github.com/thbeu)|Oct 18|:memo: libtiff|:green_circle: XS|1|Oct 18 :bell:||jwillikers
@@ -183,28 +182,25 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20870](https://github.com/conan-io/conan-center-index/pull/20870)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: harfbuzz|:green_circle: XS|2|Nov 2||jwillikers, SSE4
 [#20871](https://github.com/conan-io/conan-center-index/pull/20871)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: onnx|:blue_square: S|2|Nov 2||SSE4, jwillikers
 [#20877](https://github.com/conan-io/conan-center-index/pull/20877)|[toge](https://github.com/toge)|Nov 1|:memo: cyrus-sasl|:blue_square: S|1|Nov 2||SSE4
-[#20891](https://github.com/conan-io/conan-center-index/pull/20891)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 2|:gear: .c3i|:green_circle: XS|1|Nov 2||SSE4
 [#20892](https://github.com/conan-io/conan-center-index/pull/20892)|[Kischy](https://github.com/Kischy)|Nov 2|:stopwatch: open62541|:blue_square: S|0|||
-[#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:stopwatch: openblas|:green_circle: XS|0|||
 [#20895](https://github.com/conan-io/conan-center-index/pull/20895)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 2|:stopwatch: libgcrypt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
 [#17894](https://github.com/conan-io/conan-center-index/pull/17894)|[sourcedelica](https://github.com/sourcedelica)|Jun 10|:warning: librdkafka|4|**uilianries**, jwillikers
-[#19373](https://github.com/conan-io/conan-center-index/pull/19373)|[valgur](https://github.com/valgur)|Aug 23|:new: brunsli|2|jwillikers, **uilianries**
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
 [#20072](https://github.com/conan-io/conan-center-index/pull/20072)|[toge](https://github.com/toge)|Sep 21|:warning: libarchive|3|jwillikers, **czoido**, **uilianries**
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|3|jwillikers, **franramirez688**
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
+[#20584](https://github.com/conan-io/conan-center-index/pull/20584)|[hedtke](https://github.com/hedtke)|Oct 15|:memo: scippp|5|**uilianries**, jwillikers
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
-[#20837](https://github.com/conan-io/conan-center-index/pull/20837)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: vulkan-headers|2|jwillikers, **uilianries**
 [#20839](https://github.com/conan-io/conan-center-index/pull/20839)|[SpaceIm](https://github.com/SpaceIm)|Oct 30|:memo: spirv-cross|3|jwillikers, SSE4, **uilianries**
 [#20842](https://github.com/conan-io/conan-center-index/pull/20842)|[valgur](https://github.com/valgur)|Oct 30|:memo: geographiclib|3|jwillikers, SSE4, **uilianries**
 
@@ -215,10 +211,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 502
+	- Open: 500
 	- Draft: 53
-	- Average Age: 95 days, 1 hours, and 10.38 minutes
-	- Stop Label: 260
+	- Average Age: 95 days, 7 hours, and 41.34 minutes
+	- Stop Label: 261
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
