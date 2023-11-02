@@ -2083,7 +2083,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19964",
       "LastCommitSHA": "4877ef525c052c34eb230192df481bf61a11181e",
       "LastCommitAt": "2023-11-02T12:58:03Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4142,6 +4142,25 @@
             "SubmittedAt": "2023-11-02T15:13:54Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20877#pullrequestreview-1710559563"
          }
+      }
+   },
+   {
+      "Number": 20888,
+      "OpenedBy": "SSE4",
+      "CreatedAt": "2023-11-02T07:43:23Z",
+      "Recipe": "fftw",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20888",
+      "LastCommitSHA": "4053033d9b4131479a5462357a9b06c14c3b15c3",
+      "LastCommitAt": "2023-11-02T12:39:12Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
