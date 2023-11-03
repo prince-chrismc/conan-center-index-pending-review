@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **147** pull requests currently under way :detective:
+There are **149** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -174,6 +174,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20903](https://github.com/conan-io/conan-center-index/pull/20903)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: cthash|:blue_square: S|1|Nov 2||jwillikers
 [#20904](https://github.com/conan-io/conan-center-index/pull/20904)|[jjcasmar](https://github.com/jjcasmar)|Nov 2|:memo: highfive|:blue_square: S|1|Nov 3||**franramirez688**
 [#20907](https://github.com/conan-io/conan-center-index/pull/20907)|[gmeeker](https://github.com/gmeeker)|Nov 3|:memo: nsimd|L|2|Nov 3||[valgur](https://github.com/valgur), **czoido**
+[#20909](https://github.com/conan-io/conan-center-index/pull/20909)|[toge](https://github.com/toge)|Nov 3|:stopwatch: simd|M|0|||
+[#20910](https://github.com/conan-io/conan-center-index/pull/20910)|[svenpilz](https://github.com/svenpilz)|Nov 3|:stopwatch: openimageio|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -201,9 +203,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 485
+	- Open: 487
 	- Draft: 54
-	- Average Age: 97 days, 22 hours, and 10.21 minutes
+	- Average Age: 97 days, 13 hours, and 27.79 minutes
 	- Stop Label: 256
 	
 
