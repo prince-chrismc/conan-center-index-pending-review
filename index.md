@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **145** pull requests currently under way :detective:
+There are **144** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -155,7 +155,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20714](https://github.com/conan-io/conan-center-index/pull/20714)|[SpaceIm](https://github.com/SpaceIm)|Oct 20|:memo: assimp|M|1|Oct 26||jwillikers
 [#20735](https://github.com/conan-io/conan-center-index/pull/20735)|[toge](https://github.com/toge)|Oct 22|:memo: zeromq|M|5|Oct 24||jwillikers
 [#20764](https://github.com/conan-io/conan-center-index/pull/20764)|[hegyizs](https://github.com/hegyizs)|Oct 25|:memo: icu|:green_circle: XS|5|Nov 3||SpaceIm, jwillikers
-[#20774](https://github.com/conan-io/conan-center-index/pull/20774)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Oct 26|:stopwatch: whisper-cpp|M|7|Oct 31|memsharded|
 [#20779](https://github.com/conan-io/conan-center-index/pull/20779)|[hegyizs](https://github.com/hegyizs)|Oct 26|:stopwatch: icu|M|0|:eyes:||
 [#20813](https://github.com/conan-io/conan-center-index/pull/20813)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Oct 28|:memo: onetbb|:blue_square: S|2|Nov 2||SSE4
 [#20844](https://github.com/conan-io/conan-center-index/pull/20844)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Oct 30|:memo: libassert|L|3|Nov 2||
@@ -176,7 +175,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -190,7 +189,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:memo: libcurl|6|jwillikers, **uilianries**
 [#20852](https://github.com/conan-io/conan-center-index/pull/20852)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:warning: so5extra|2|**uilianries**, jwillikers
-[#20898](https://github.com/conan-io/conan-center-index/pull/20898)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:warning: usockets|2|**czoido**, jwillikers
 
 
 #### :clipboard: Statistics
@@ -201,8 +199,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 486
 	- Draft: 52
-	- Average Age: 97 days, 20 hours, and 44.23 minutes
-	- Stop Label: 261
+	- Average Age: 97 days, 21 hours, and 38.24 minutes
+	- Stop Label: 263
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
