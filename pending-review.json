@@ -277,20 +277,24 @@
       "LastCommitAt": "2023-10-24T12:35:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "danimtb",
                "Tier": "team"
+            },
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "danimtb",
-            "SubmittedAt": "2023-11-03T11:27:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18084#pullrequestreview-1712423347"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-11-03T19:23:42Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18084#pullrequestreview-1713400879"
          }
       }
    },
@@ -584,8 +588,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18641",
-      "LastCommitSHA": "cc2bc27642d44c82b14ff5042ceb7fa6dfac8eb1",
-      "LastCommitAt": "2023-11-03T17:32:44Z",
+      "LastCommitSHA": "03ac3afb4ed46a825b07fae9607d27101a183a05",
+      "LastCommitAt": "2023-11-03T19:25:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -1971,8 +1975,8 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19857",
-      "LastCommitSHA": "c0298927658f6c7e25270dca249ca19e6fd56206",
-      "LastCommitAt": "2023-11-03T13:16:32Z",
+      "LastCommitSHA": "68a08af8aec495335a234f4c623cfc83c0610945",
+      "LastCommitAt": "2023-11-03T19:27:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3633,15 +3637,20 @@
       "LastCommitAt": "2023-11-03T18:19:11Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
+         "Count": 5,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-11-03T15:02:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20860#pullrequestreview-1712913479"
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-11-03T19:14:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20860#pullrequestreview-1713388566"
          }
       }
    },
@@ -3902,39 +3911,6 @@
       }
    },
    {
-      "Number": 20907,
-      "OpenedBy": "gmeeker",
-      "CreatedAt": "2023-11-03T03:33:50Z",
-      "Recipe": "nsimd",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20907",
-      "LastCommitSHA": "32abef037621062ac0b54412ca99897da7072c44",
-      "LastCommitAt": "2023-11-03T03:36:54Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            },
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "czoido",
-            "SubmittedAt": "2023-11-03T07:20:09Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20907#pullrequestreview-1711934631"
-         }
-      }
-   },
-   {
       "Number": 20911,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-03T09:32:18Z",
@@ -3980,8 +3956,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20916",
-      "LastCommitSHA": "131111fbc295fe5d7ccac3fe57d040f568d0e4c2",
-      "LastCommitAt": "2023-11-03T17:24:25Z",
+      "LastCommitSHA": "c61c2a486e72d2b06df2ae8651d9c89545602cdf",
+      "LastCommitAt": "2023-11-03T19:30:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
