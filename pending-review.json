@@ -3719,24 +3719,24 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20864",
-      "LastCommitSHA": "87d1ceddc7e5b4a32bdf33b2b47621c640c33515",
-      "LastCommitAt": "2023-11-01T14:52:45Z",
+      "LastCommitSHA": "c4088af419eb04c7f2b356b7bc5e520b02b7884e",
+      "LastCommitAt": "2023-11-03T07:30:12Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 3,
          "ValidApprovals": 1,
-         "TeamApproval": false,
+         "TeamApproval": true,
          "Approvals": [
             {
-               "Name": "SSE4",
-               "Tier": "community"
+               "Name": "czoido",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "SSE4",
-            "SubmittedAt": "2023-11-02T05:40:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20864#pullrequestreview-1709488982"
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-11-03T08:09:20Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20864#pullrequestreview-1711998762"
          }
       }
    },
@@ -4037,11 +4037,25 @@
       "LastCommitAt": "2023-11-03T03:36:54Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 2,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "valgur",
+               "Tier": "unofficial"
+            },
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "czoido",
+            "SubmittedAt": "2023-11-03T07:20:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20907#pullrequestreview-1711934631"
+         }
       }
    }
 ]
