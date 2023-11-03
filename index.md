@@ -172,8 +172,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20900](https://github.com/conan-io/conan-center-index/pull/20900)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:stopwatch: volk|M|0|||
 [#20902](https://github.com/conan-io/conan-center-index/pull/20902)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: crossguid|:green_circle: XS|0|||
 [#20903](https://github.com/conan-io/conan-center-index/pull/20903)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: cthash|:blue_square: S|1|Nov 2||jwillikers
-[#20904](https://github.com/conan-io/conan-center-index/pull/20904)|[jjcasmar](https://github.com/jjcasmar)|Nov 2|:stopwatch: highfive|:blue_square: S|0|||
-[#20907](https://github.com/conan-io/conan-center-index/pull/20907)|[gmeeker](https://github.com/gmeeker)|Nov 3|:stopwatch: nsimd|L|0|||
+[#20904](https://github.com/conan-io/conan-center-index/pull/20904)|[jjcasmar](https://github.com/jjcasmar)|Nov 2|:memo: highfive|:blue_square: S|1|Nov 3||**franramirez688**
+[#20907](https://github.com/conan-io/conan-center-index/pull/20907)|[gmeeker](https://github.com/gmeeker)|Nov 3|:memo: nsimd|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -203,7 +203,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 486
 	- Draft: 54
-	- Average Age: 97 days, 20 hours, and 33.21 minutes
+	- Average Age: 97 days, 21 hours, and 28.53 minutes
 	- Stop Label: 257
 	
 
