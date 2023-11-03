@@ -1925,7 +1925,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19857",
       "LastCommitSHA": "68a08af8aec495335a234f4c623cfc83c0610945",
       "LastCommitAt": "2023-11-03T19:27:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3982,6 +3982,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20919",
       "LastCommitSHA": "6678e104c448fc00daa808ce4ba63036dc09b636",
       "LastCommitAt": "2023-11-03T21:21:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20920,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-03T22:38:30Z",
+      "Recipe": "duckdb",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20920",
+      "LastCommitSHA": "50b63d7b83e2f142206119a694e5fff5b8364a69",
+      "LastCommitAt": "2023-11-03T22:36:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
