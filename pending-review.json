@@ -3118,7 +3118,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20588",
       "LastCommitSHA": "865eaa747b1da57a9ac8ac20d6e300eee1c3b518",
       "LastCommitAt": "2023-10-31T10:00:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3845,6 +3845,25 @@
       }
    },
    {
+      "Number": 20894,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-11-02T13:01:16Z",
+      "Recipe": "openblas",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20894",
+      "LastCommitSHA": "e35433047da05a6210a7daf2bd232210d431f70c",
+      "LastCommitAt": "2023-11-02T22:24:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20897,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-02T14:26:26Z",
@@ -3988,6 +4007,25 @@
       "LastCommitSHA": "4b3c13d5bc3526fb537457f90b64dc58092de641",
       "LastCommitAt": "2023-11-02T20:20:47Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20907,
+      "OpenedBy": "gmeeker",
+      "CreatedAt": "2023-11-03T03:33:50Z",
+      "Recipe": "nsimd",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20907",
+      "LastCommitSHA": "32abef037621062ac0b54412ca99897da7072c44",
+      "LastCommitAt": "2023-11-03T03:36:54Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
