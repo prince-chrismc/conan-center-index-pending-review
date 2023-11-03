@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **149** pull requests currently under way :detective:
+There are **150** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -102,7 +102,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:memo: opentelemetry-proto|:green_circle: XS|1|Sep 21 :bell:||[mollers](https://github.com/mollers)
 [#19764](https://github.com/conan-io/conan-center-index/pull/19764)|[valgur](https://github.com/valgur)|Sep 12|:memo: openexr|M|4|Oct 27||jwillikers
 [#19823](https://github.com/conan-io/conan-center-index/pull/19823)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:memo: sdl_net|:blue_square: S|1|Oct 27||jwillikers
-[#19857](https://github.com/conan-io/conan-center-index/pull/19857)|[valgur](https://github.com/valgur)|Sep 15|:stopwatch: llvm-openmp|XL|0|||
+[#19857](https://github.com/conan-io/conan-center-index/pull/19857)|[valgur](https://github.com/valgur)|Sep 15|:memo: llvm-openmp|XL|0|||
 [#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|1|Sep 18 :bell:||jwillikers
 [#19897](https://github.com/conan-io/conan-center-index/pull/19897)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: tk|L|1|Oct 16 :bell:||jwillikers
 [#19911](https://github.com/conan-io/conan-center-index/pull/19911)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: libavrocpp|:green_circle: XS|1|Oct 16 :bell:||jwillikers
@@ -176,6 +176,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20917](https://github.com/conan-io/conan-center-index/pull/20917)|[toge](https://github.com/toge)|Nov 3|:stopwatch: aws-c-common|:green_circle: XS|0|||
 [#20918](https://github.com/conan-io/conan-center-index/pull/20918)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libpq|M|0|||
 [#20919](https://github.com/conan-io/conan-center-index/pull/20919)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: zstd|:green_circle: XS|0|||
+[#20920](https://github.com/conan-io/conan-center-index/pull/20920)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: duckdb|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -202,8 +203,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
 	- Open: 488
-	- Draft: 52
-	- Average Age: 97 days, 6 hours, and 23.93 minutes
+	- Draft: 51
+	- Average Age: 97 days, 7 hours, and 0.92 minutes
 	- Stop Label: 261
 	
 
