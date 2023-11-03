@@ -194,39 +194,6 @@
       }
    },
    {
-      "Number": 17894,
-      "OpenedBy": "sourcedelica",
-      "CreatedAt": "2023-06-10T16:24:53Z",
-      "Recipe": "librdkafka",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17894",
-      "LastCommitSHA": "eb9c0a7302605243df87b36ea5944c5100228a5e",
-      "LastCommitAt": "2023-11-03T10:04:59Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-31T16:36:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17894#pullrequestreview-1706776639"
-         }
-      }
-   },
-   {
       "Number": 18009,
       "OpenedBy": "ViktarHasiul231862",
       "CreatedAt": "2023-06-21T14:32:29Z",
@@ -3935,25 +3902,6 @@
       "LastCommitSHA": "2825cd1df248ea590e2605ecb1215186d55e24ab",
       "LastCommitAt": "2023-11-03T10:42:56Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20914,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-03T14:14:50Z",
-      "Recipe": "glaze",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20914",
-      "LastCommitSHA": "0aedcc65052c3f55a88acb27a29ce674bc218756",
-      "LastCommitAt": "2023-11-03T14:14:09Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
