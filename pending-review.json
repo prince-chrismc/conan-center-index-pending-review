@@ -4006,13 +4006,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20904",
       "LastCommitSHA": "c5fba4c68d9d4f928d1bea6d2d841c7fb7e55c3e",
       "LastCommitAt": "2023-11-03T05:59:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-11-03T07:08:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20904#pullrequestreview-1711923890"
+         }
       }
    },
    {
@@ -4025,7 +4035,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20907",
       "LastCommitSHA": "32abef037621062ac0b54412ca99897da7072c44",
       "LastCommitAt": "2023-11-03T03:36:54Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
