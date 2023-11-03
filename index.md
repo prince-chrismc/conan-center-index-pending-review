@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **146** pull requests currently under way :detective:
+There are **145** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -162,7 +162,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20844](https://github.com/conan-io/conan-center-index/pull/20844)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Oct 30|:memo: libassert|L|3|Nov 2||
 [#20856](https://github.com/conan-io/conan-center-index/pull/20856)|[jwillikers](https://github.com/jwillikers)|Oct 31|:green_book: docs|L|2|Nov 2||SSE4
 [#20860](https://github.com/conan-io/conan-center-index/pull/20860)|[uilianries](https://github.com/uilianries)|Oct 31|:memo: mariadb-connector-c|:green_circle: XS|2|Nov 2||jwillikers, SSE4
-[#20861](https://github.com/conan-io/conan-center-index/pull/20861)|[toge](https://github.com/toge)|Oct 31|:memo: stx|L|4|Nov 2||**czoido**
 [#20864](https://github.com/conan-io/conan-center-index/pull/20864)|[toge](https://github.com/toge)|Oct 31|:new: aws-lambda-cpp|M|1|Nov 2||SSE4
 [#20869](https://github.com/conan-io/conan-center-index/pull/20869)|[toge](https://github.com/toge)|Nov 1|:memo: parg|:blue_square: S|2|Nov 2||jwillikers, SSE4
 [#20870](https://github.com/conan-io/conan-center-index/pull/20870)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: harfbuzz|:green_circle: XS|2|Nov 2||jwillikers, SSE4
@@ -177,7 +176,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -189,6 +188,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|3|jwillikers, **franramirez688**
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20621](https://github.com/conan-io/conan-center-index/pull/20621)|[fcorso2016](https://github.com/fcorso2016)|Oct 17|:warning: sdl|2|**RubenRBS**, **czoido**
+[#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:memo: libcurl|6|jwillikers, **uilianries**
 [#20852](https://github.com/conan-io/conan-center-index/pull/20852)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:warning: so5extra|2|**uilianries**, jwillikers
 [#20898](https://github.com/conan-io/conan-center-index/pull/20898)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:warning: usockets|2|**czoido**, jwillikers
 
@@ -199,10 +199,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 486
+	- Open: 485
 	- Draft: 54
-	- Average Age: 97 days, 16 hours, and 45.11 minutes
-	- Stop Label: 259
+	- Average Age: 97 days, 22 hours, and 20.34 minutes
+	- Stop Label: 258
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
