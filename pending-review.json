@@ -3506,30 +3506,6 @@
       }
    },
    {
-      "Number": 20785,
-      "OpenedBy": "ilya-lavrenov",
-      "CreatedAt": "2023-10-27T02:02:40Z",
-      "Recipe": "openvino",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20785",
-      "LastCommitSHA": "6cb7908ea2de7fb8081c2d5aa2336d7b576a3881",
-      "LastCommitAt": "2023-11-03T10:05:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-10-28T12:58:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20785#pullrequestreview-1702786731"
-         }
-      }
-   },
-   {
       "Number": 20813,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2023-10-28T21:23:00Z",
@@ -3678,39 +3654,6 @@
       }
    },
    {
-      "Number": 20864,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-10-31T16:52:38Z",
-      "Recipe": "aws-lambda-cpp",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20864",
-      "LastCommitSHA": "26692ad4781733f373b505dd5eb144932a912ffd",
-      "LastCommitAt": "2023-11-03T09:32:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 9,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "czoido",
-               "Tier": "team"
-            },
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-11-03T09:34:00Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20864#pullrequestreview-1712197787"
-         }
-      }
-   },
-   {
       "Number": 20869,
       "OpenedBy": "toge",
       "CreatedAt": "2023-11-01T08:17:06Z",
@@ -3845,7 +3788,7 @@
       "LastCommitAt": "2023-11-02T14:24:30Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
+         "Count": 3,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -3856,13 +3799,17 @@
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "ilya-lavrenov",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-02T15:28:59Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20897#pullrequestreview-1710602244"
+            "ReviewerName": "ilya-lavrenov",
+            "SubmittedAt": "2023-11-03T10:34:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20897#pullrequestreview-1712315401"
          }
       }
    },
