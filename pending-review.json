@@ -1985,8 +1985,8 @@
       "Change": 1,
       "Weight": 4,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19857",
-      "LastCommitSHA": "eaf78a1c657d1ae652feff085acc25a81f1cc11f",
-      "LastCommitAt": "2023-11-02T15:38:37Z",
+      "LastCommitSHA": "c0298927658f6c7e25270dca249ca19e6fd56206",
+      "LastCommitAt": "2023-11-03T13:16:32Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3502,6 +3502,32 @@
       }
    },
    {
+      "Number": 20774,
+      "OpenedBy": "ilya-lavrenov",
+      "CreatedAt": "2023-10-26T04:23:19Z",
+      "Recipe": "whisper-cpp",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20774",
+      "LastCommitSHA": "026f3b5393f659b222fcc6269f708a1cde5b1160",
+      "LastCommitAt": "2023-11-03T10:09:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 7,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "memsharded"
+         ],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-10-31T16:15:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20774#pullrequestreview-1706731574"
+         }
+      }
+   },
+   {
       "Number": 20779,
       "OpenedBy": "hegyizs",
       "CreatedAt": "2023-10-26T11:06:04Z",
@@ -3871,7 +3897,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20900",
       "LastCommitSHA": "b8fbde61e6c10ff8299652638ce621557dfef8e4",
       "LastCommitAt": "2023-11-02T16:00:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
