@@ -4196,5 +4196,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20931,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-04T17:03:43Z",
+      "Recipe": "nettle",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20931",
+      "LastCommitSHA": "70ba63cfc98f6f00aa7f6e6625b0166ca22747b5",
+      "LastCommitAt": "2023-11-04T17:10:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
