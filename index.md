@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **159** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -183,7 +183,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20922](https://github.com/conan-io/conan-center-index/pull/20922)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: hdf5|:green_circle: XS|0|||
 [#20923](https://github.com/conan-io/conan-center-index/pull/20923)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libarchive|:blue_square: S|0|||
 [#20925](https://github.com/conan-io/conan-center-index/pull/20925)|[toge](https://github.com/toge)|Nov 4|:stopwatch: aws-c-cal|:green_circle: XS|0|||
-[#20926](https://github.com/conan-io/conan-center-index/pull/20926)|[toge](https://github.com/toge)|Nov 4|:stopwatch: aws-c-sdkutils|:green_circle: XS|0|||
 [#20927](https://github.com/conan-io/conan-center-index/pull/20927)|[toge](https://github.com/toge)|Nov 4|:stopwatch: aws-c-compression|:green_circle: XS|0|||
 [#20928](https://github.com/conan-io/conan-center-index/pull/20928)|[toge](https://github.com/toge)|Nov 4|:stopwatch: cs_libguarded|:green_circle: XS|0|||
 [#20929](https://github.com/conan-io/conan-center-index/pull/20929)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:stopwatch: soplex|M|0|||
@@ -212,9 +211,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 492
+	- Open: 491
 	- Draft: 50
-	- Average Age: 97 days, 1 hours, and 15.97 minutes
+	- Average Age: 97 days, 7 hours, and 0.73 minutes
 	- Stop Label: 256
 	
 
