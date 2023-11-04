@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **162** pull requests currently under way :detective:
+There are **163** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -183,12 +183,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20918](https://github.com/conan-io/conan-center-index/pull/20918)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: libpq|M|0|||
 [#20920](https://github.com/conan-io/conan-center-index/pull/20920)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: duckdb|:blue_square: S|0|||
 [#20922](https://github.com/conan-io/conan-center-index/pull/20922)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: hdf5|:green_circle: XS|0|||
-[#20923](https://github.com/conan-io/conan-center-index/pull/20923)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libarchive|:blue_square: S|0|||
+[#20923](https://github.com/conan-io/conan-center-index/pull/20923)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: libarchive|:blue_square: S|0|||
 [#20925](https://github.com/conan-io/conan-center-index/pull/20925)|[toge](https://github.com/toge)|Nov 4|:stopwatch: aws-c-cal|:green_circle: XS|0|||
 [#20929](https://github.com/conan-io/conan-center-index/pull/20929)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: soplex|M|0|||
 [#20930](https://github.com/conan-io/conan-center-index/pull/20930)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: faac|:green_circle: XS|0|||
 [#20931](https://github.com/conan-io/conan-center-index/pull/20931)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nettle|:blue_square: S|0|||
 [#20932](https://github.com/conan-io/conan-center-index/pull/20932)|[fnadeau](https://github.com/fnadeau)|Nov 4|:stopwatch: qt|:green_circle: XS|1|Nov 4||ericLemanissier
+[#20934](https://github.com/conan-io/conan-center-index/pull/20934)|[technoyes](https://github.com/technoyes)|Nov 4|:stopwatch: iconfontcppheaders|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -214,9 +215,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 492
+	- Open: 493
 	- Draft: 50
-	- Average Age: 97 days, 8 hours, and 34.60 minutes
+	- Average Age: 97 days, 4 hours, and 49.52 minutes
 	- Stop Label: 254
 	
 
