@@ -1766,6 +1766,30 @@
       }
    },
    {
+      "Number": 19619,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-09-06T14:18:05Z",
+      "Recipe": "wasmedge",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19619",
+      "LastCommitSHA": "f6288eac796f5c48893b2d19597267a1ccfff837",
+      "LastCommitAt": "2023-11-04T08:31:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-09-06T15:11:55Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19619#pullrequestreview-1613602246"
+         }
+      }
+   },
+   {
       "Number": 19631,
       "OpenedBy": "technic",
       "CreatedAt": "2023-09-06T19:55:46Z",
