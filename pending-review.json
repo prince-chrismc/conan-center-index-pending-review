@@ -1040,6 +1040,25 @@
       }
    },
    {
+      "Number": 18905,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-25T12:58:05Z",
+      "Recipe": "iceoryx",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18905",
+      "LastCommitSHA": "b206d0fa96f938827fe010418ee449145fd2e6b3",
+      "LastCommitAt": "2023-11-04T15:50:08Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18945,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-28T13:42:44Z",
