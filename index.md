@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **157** pull requests currently under way :detective:
+There are **156** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -178,7 +178,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20913](https://github.com/conan-io/conan-center-index/pull/20913)|[jwillikers](https://github.com/jwillikers)|Nov 3|:stopwatch: glfw|L|0|||
 [#20915](https://github.com/conan-io/conan-center-index/pull/20915)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: vorbis|M|0|||
 [#20916](https://github.com/conan-io/conan-center-index/pull/20916)|[valgur](https://github.com/valgur)|Nov 3|:memo: easyloggingpp|:green_circle: XS|0|||
-[#20917](https://github.com/conan-io/conan-center-index/pull/20917)|[toge](https://github.com/toge)|Nov 3|:stopwatch: aws-c-common|:green_circle: XS|0|||
 [#20918](https://github.com/conan-io/conan-center-index/pull/20918)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libpq|M|0|||
 [#20919](https://github.com/conan-io/conan-center-index/pull/20919)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: zstd|:green_circle: XS|0|||
 [#20920](https://github.com/conan-io/conan-center-index/pull/20920)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: duckdb|:blue_square: S|0|||
@@ -211,7 +210,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 490
 	- Draft: 51
-	- Average Age: 97 days, 3 hours, and 27.45 minutes
+	- Average Age: 97 days, 6 hours, and 30.12 minutes
 	- Stop Label: 256
 	
 
