@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **150** pull requests currently under way :detective:
+There are **154** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -55,6 +55,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18657](https://github.com/conan-io/conan-center-index/pull/18657)|[valgur](https://github.com/valgur)|Jul 19|:memo: huffman|L|0|:eyes:||
 [#18666](https://github.com/conan-io/conan-center-index/pull/18666)|[valgur](https://github.com/valgur)|Jul 19|:memo: libproperties|L|0|||
 [#18668](https://github.com/conan-io/conan-center-index/pull/18668)|[valgur](https://github.com/valgur)|Jul 19|:memo: libdispatch|L|0|||
+[#18670](https://github.com/conan-io/conan-center-index/pull/18670)|[valgur](https://github.com/valgur)|Jul 19|:memo: enchant|L|0|||
 [#18681](https://github.com/conan-io/conan-center-index/pull/18681)|[valgur](https://github.com/valgur)|Jul 19|:memo: libelfin|L|0|:eyes:||
 [#18727](https://github.com/conan-io/conan-center-index/pull/18727)|[valgur](https://github.com/valgur)|Jul 20|:memo: twitchtv-libsoundtrackutil|L|0|||
 [#18731](https://github.com/conan-io/conan-center-index/pull/18731)|[valgur](https://github.com/valgur)|Jul 20|:memo: cglm|M|0|||
@@ -63,6 +64,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18759](https://github.com/conan-io/conan-center-index/pull/18759)|[valgur](https://github.com/valgur)|Jul 20|:memo: lightgbm|L|2|Nov 2||jwillikers
 [#18761](https://github.com/conan-io/conan-center-index/pull/18761)|[valgur](https://github.com/valgur)|Jul 20|:memo: libcoap|L|0|||
 [#18801](https://github.com/conan-io/conan-center-index/pull/18801)|[VladyslavUsenko](https://github.com/VladyslavUsenko)|Jul 22|:memo: librealsense|M|0|:eyes:||
+[#18804](https://github.com/conan-io/conan-center-index/pull/18804)|[valgur](https://github.com/valgur)|Jul 22|:memo: enjincppsdk|L|0|||
 [#18813](https://github.com/conan-io/conan-center-index/pull/18813)|[ashley-b](https://github.com/ashley-b)|Jul 22|:memo: libgpiod|:blue_square: S|3|Oct 15 :bell:||jwillikers
 [#18831](https://github.com/conan-io/conan-center-index/pull/18831)|[valgur](https://github.com/valgur)|Jul 22|:memo: ags|L|0|||
 [#18861](https://github.com/conan-io/conan-center-index/pull/18861)|[valgur](https://github.com/valgur)|Jul 24|:memo: pdcurses|L|0|||
@@ -176,7 +178,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20917](https://github.com/conan-io/conan-center-index/pull/20917)|[toge](https://github.com/toge)|Nov 3|:stopwatch: aws-c-common|:green_circle: XS|0|||
 [#20918](https://github.com/conan-io/conan-center-index/pull/20918)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libpq|M|0|||
 [#20919](https://github.com/conan-io/conan-center-index/pull/20919)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: zstd|:green_circle: XS|0|||
-[#20920](https://github.com/conan-io/conan-center-index/pull/20920)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: duckdb|:green_circle: XS|0|||
+[#20920](https://github.com/conan-io/conan-center-index/pull/20920)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: duckdb|:blue_square: S|0|||
+[#20922](https://github.com/conan-io/conan-center-index/pull/20922)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: hdf5|:green_circle: XS|0|||
+[#20923](https://github.com/conan-io/conan-center-index/pull/20923)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:stopwatch: libarchive|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -202,10 +206,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 488
+	- Open: 490
 	- Draft: 51
-	- Average Age: 97 days, 7 hours, and 0.92 minutes
-	- Stop Label: 261
+	- Average Age: 96 days, 23 hours, and 5.24 minutes
+	- Stop Label: 259
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
