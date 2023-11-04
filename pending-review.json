@@ -4115,25 +4115,6 @@
       }
    },
    {
-      "Number": 20926,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-04T10:52:01Z",
-      "Recipe": "aws-c-sdkutils",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20926",
-      "LastCommitSHA": "af9ae1c21bc909bb82de305f83acd3aa594c1c1b",
-      "LastCommitAt": "2023-11-04T10:51:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20927,
       "OpenedBy": "toge",
       "CreatedAt": "2023-11-04T13:03:41Z",
