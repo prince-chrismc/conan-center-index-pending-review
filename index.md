@@ -186,7 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20925](https://github.com/conan-io/conan-center-index/pull/20925)|[toge](https://github.com/toge)|Nov 4|:stopwatch: aws-c-cal|:green_circle: XS|0|||
 [#20929](https://github.com/conan-io/conan-center-index/pull/20929)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: soplex|M|0|||
 [#20930](https://github.com/conan-io/conan-center-index/pull/20930)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:stopwatch: faac|:green_circle: XS|0|||
-[#20931](https://github.com/conan-io/conan-center-index/pull/20931)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:stopwatch: nettle|:blue_square: S|0|||
+[#20931](https://github.com/conan-io/conan-center-index/pull/20931)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nettle|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -214,7 +214,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 491
 	- Draft: 50
-	- Average Age: 97 days, 10 hours, and 3.31 minutes
+	- Average Age: 97 days, 10 hours, and 57.48 minutes
 	- Stop Label: 255
 	
 
