@@ -4170,5 +4170,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 20929,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-04T14:11:18Z",
+      "Recipe": "soplex",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20929",
+      "LastCommitSHA": "ee8fbadb53604819734d74b2739af9ec20097cc0",
+      "LastCommitAt": "2023-11-04T14:05:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
