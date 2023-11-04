@@ -643,6 +643,25 @@
       }
    },
    {
+      "Number": 18670,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-19T13:43:27Z",
+      "Recipe": "enchant",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18670",
+      "LastCommitSHA": "c44af3e940e38a86b6248446d6cdcf4964cd6423",
+      "LastCommitAt": "2023-11-03T21:27:54Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18681,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T20:57:07Z",
@@ -795,6 +814,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18801",
       "LastCommitSHA": "71d0249a6639a9fa884f9941783b244a15277d15",
       "LastCommitAt": "2023-07-26T21:43:46Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 18804,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-22T10:44:19Z",
+      "Recipe": "enjincppsdk",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18804",
+      "LastCommitSHA": "6b4857a006bd62190525dea04dbde4426a18cc3a",
+      "LastCommitAt": "2023-11-03T21:08:45Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
@@ -3997,10 +4035,48 @@
       "CreatedAt": "2023-11-03T22:38:30Z",
       "Recipe": "duckdb",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20920",
-      "LastCommitSHA": "50b63d7b83e2f142206119a694e5fff5b8364a69",
-      "LastCommitAt": "2023-11-03T22:36:25Z",
+      "LastCommitSHA": "de7decb874912444e9f90b523617df65d0b3b6b4",
+      "LastCommitAt": "2023-11-03T23:21:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20922,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-03T23:31:35Z",
+      "Recipe": "hdf5",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20922",
+      "LastCommitSHA": "206c157101ea2b34e15953eceec6a8f83ca14c44",
+      "LastCommitAt": "2023-11-03T23:29:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20923,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-03T23:55:21Z",
+      "Recipe": "libarchive",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20923",
+      "LastCommitSHA": "e93e719dc28946ca44d6cc6239b8edc3d5946414",
+      "LastCommitAt": "2023-11-03T23:54:00Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
