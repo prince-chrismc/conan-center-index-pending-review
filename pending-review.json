@@ -1236,32 +1236,6 @@
       }
    },
    {
-      "Number": 19081,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-08-07T04:17:48Z",
-      "Recipe": "libraw",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19081",
-      "LastCommitSHA": "b2db8f8b31bb69d90d08ea5db4aed3e149819e44",
-      "LastCommitAt": "2023-11-04T15:58:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "jcar87"
-         ],
-         "LastReview": {
-            "ReviewerName": "jcar87",
-            "SubmittedAt": "2023-08-08T08:50:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19081#pullrequestreview-1566818022"
-         }
-      }
-   },
-   {
       "Number": 19082,
       "OpenedBy": "bog-dan-ro",
       "CreatedAt": "2023-08-07T06:45:35Z",
@@ -3875,7 +3849,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20894",
       "LastCommitSHA": "e35433047da05a6210a7daf2bd232210d431f70c",
       "LastCommitAt": "2023-11-02T22:24:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4246,15 +4220,15 @@
       }
    },
    {
-      "Number": 20934,
-      "OpenedBy": "technoyes",
-      "CreatedAt": "2023-11-04T23:07:55Z",
-      "Recipe": "iconfontcppheaders",
+      "Number": 20935,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-04T23:21:31Z",
+      "Recipe": "libraw",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20934",
-      "LastCommitSHA": "02d8243eb96c43158222a19bda2829df3d085b60",
-      "LastCommitAt": "2023-11-04T23:11:19Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20935",
+      "LastCommitSHA": "044acd5f4acef9ebc4cc10aea57a2f32743db5c0",
+      "LastCommitAt": "2023-11-04T23:55:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
