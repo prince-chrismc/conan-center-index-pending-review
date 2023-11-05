@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **169** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -64,6 +64,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18749](https://github.com/conan-io/conan-center-index/pull/18749)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: open-simulation-interface|L|0|:eyes:||
 [#18759](https://github.com/conan-io/conan-center-index/pull/18759)|[valgur](https://github.com/valgur)|Jul 20|:memo: lightgbm|L|2|Nov 2||jwillikers
 [#18761](https://github.com/conan-io/conan-center-index/pull/18761)|[valgur](https://github.com/valgur)|Jul 20|:memo: libcoap|L|0|:eyes:||
+[#18792](https://github.com/conan-io/conan-center-index/pull/18792)|[valgur](https://github.com/valgur)|Jul 22|:memo: tgbot|L|0|||
 [#18801](https://github.com/conan-io/conan-center-index/pull/18801)|[VladyslavUsenko](https://github.com/VladyslavUsenko)|Jul 22|:memo: librealsense|M|0|:eyes:||
 [#18804](https://github.com/conan-io/conan-center-index/pull/18804)|[valgur](https://github.com/valgur)|Jul 22|:memo: enjincppsdk|L|0|||
 [#18813](https://github.com/conan-io/conan-center-index/pull/18813)|[ashley-b](https://github.com/ashley-b)|Jul 22|:memo: libgpiod|:blue_square: S|3|Oct 15 :bell:||jwillikers
@@ -175,7 +176,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20892](https://github.com/conan-io/conan-center-index/pull/20892)|[Kischy](https://github.com/Kischy)|Nov 2|:stopwatch: open62541|:blue_square: S|0|:eyes:||
 [#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|0|||
 [#20897](https://github.com/conan-io/conan-center-index/pull/20897)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: onetbb|M|3|Nov 3||[valgur](https://github.com/valgur), jwillikers, [ilya-lavrenov](https://github.com/ilya-lavrenov)
-[#20900](https://github.com/conan-io/conan-center-index/pull/20900)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: volk|M|0|||
+[#20900](https://github.com/conan-io/conan-center-index/pull/20900)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: volk|M|0|:eyes:||
 [#20902](https://github.com/conan-io/conan-center-index/pull/20902)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: crossguid|:green_circle: XS|0|||
 [#20903](https://github.com/conan-io/conan-center-index/pull/20903)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: cthash|:blue_square: S|1|Nov 2||jwillikers
 [#20911](https://github.com/conan-io/conan-center-index/pull/20911)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: tcl|M|0|||
@@ -194,8 +195,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20934](https://github.com/conan-io/conan-center-index/pull/20934)|[technoyes](https://github.com/technoyes)|Nov 4|:memo: iconfontcppheaders|:blue_square: S|0|||
 [#20935](https://github.com/conan-io/conan-center-index/pull/20935)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libraw|L|0|||
 [#20938](https://github.com/conan-io/conan-center-index/pull/20938)|[toge](https://github.com/toge)|Nov 5|:memo: nanosvg|:blue_square: S|0|||
-[#20945](https://github.com/conan-io/conan-center-index/pull/20945)|[toge](https://github.com/toge)|Nov 5|:stopwatch: aws-lambda-cpp|:blue_square: S|0|||
+[#20945](https://github.com/conan-io/conan-center-index/pull/20945)|[toge](https://github.com/toge)|Nov 5|:memo: aws-lambda-cpp|:blue_square: S|0|||
 [#20946](https://github.com/conan-io/conan-center-index/pull/20946)|[toge](https://github.com/toge)|Nov 5|:stopwatch: paho-mqtt-c|:green_circle: XS|0|||
+[#20947](https://github.com/conan-io/conan-center-index/pull/20947)|[Ahajha](https://github.com/Ahajha)|Nov 5|:stopwatch: pybind11|:blue_square: S|0|||
+[#20948](https://github.com/conan-io/conan-center-index/pull/20948)|[toge](https://github.com/toge)|Nov 5|:stopwatch: openexr|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -221,10 +224,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 499
+	- Open: 501
 	- Draft: 50
-	- Average Age: 96 days, 16 hours, and 39.70 minutes
-	- Stop Label: 252
+	- Average Age: 96 days, 8 hours, and 26.88 minutes
+	- Stop Label: 251
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
