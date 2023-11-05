@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **169** pull requests currently under way :detective:
+There are **168** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -194,7 +194,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20934](https://github.com/conan-io/conan-center-index/pull/20934)|[technoyes](https://github.com/technoyes)|Nov 4|:memo: iconfontcppheaders|:blue_square: S|0|||
 [#20935](https://github.com/conan-io/conan-center-index/pull/20935)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libraw|L|0|||
 [#20938](https://github.com/conan-io/conan-center-index/pull/20938)|[toge](https://github.com/toge)|Nov 5|:memo: nanosvg|:blue_square: S|0|||
-[#20940](https://github.com/conan-io/conan-center-index/pull/20940)|[toge](https://github.com/toge)|Nov 5|:stopwatch: rapidfuzz|:green_circle: XS|0|||
 [#20941](https://github.com/conan-io/conan-center-index/pull/20941)|[toge](https://github.com/toge)|Nov 5|:stopwatch: hwdata|:green_circle: XS|0|||
 
 
@@ -221,9 +220,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 497
+	- Open: 496
 	- Draft: 50
-	- Average Age: 96 days, 19 hours, and 3.75 minutes
+	- Average Age: 97 days, and 41.27 minutes
 	- Stop Label: 251
 	
 
