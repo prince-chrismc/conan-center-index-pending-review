@@ -3925,6 +3925,25 @@
       }
    },
    {
+      "Number": 20875,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-01T15:34:20Z",
+      "Recipe": "mongo-c-driver",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20875",
+      "LastCommitSHA": "0332e9549157a9b18464e452ec218770753d4dfc",
+      "LastCommitAt": "2023-11-05T15:21:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20888,
       "OpenedBy": "SSE4",
       "CreatedAt": "2023-11-02T07:43:23Z",
@@ -4447,7 +4466,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20948",
       "LastCommitSHA": "f00af89c0d1c39a95ec8ba8493166f5ea1d1c618",
       "LastCommitAt": "2023-11-05T15:48:10Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
