@@ -4200,25 +4200,6 @@
       }
    },
    {
-      "Number": 20925,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-04T10:43:07Z",
-      "Recipe": "aws-c-cal",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20925",
-      "LastCommitSHA": "e9378c6b325b93bfbe63f40a54a8e39bb8eac456",
-      "LastCommitAt": "2023-11-05T08:18:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20929,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-04T14:11:18Z",
@@ -4371,25 +4352,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20943",
       "LastCommitSHA": "c9fb114c6194f8317be117b327610c79d33c3b98",
       "LastCommitAt": "2023-11-05T10:32:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20944,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-05T11:57:00Z",
-      "Recipe": "c-blosc2",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20944",
-      "LastCommitSHA": "12e8eb48749ab65c54dce01b98cd674d202cc91f",
-      "LastCommitAt": "2023-11-05T11:56:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
