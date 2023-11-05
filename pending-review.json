@@ -4266,7 +4266,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20932",
       "LastCommitSHA": "54d709fdad6f979df354f8d714bac1cfcc487b4f",
       "LastCommitAt": "2023-11-04T18:56:06Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -4352,6 +4352,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20941",
       "LastCommitSHA": "5bfcc0f550b84f953ed5bc51863bb2e097fa52f0",
       "LastCommitAt": "2023-11-05T08:09:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20943,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-05T10:32:54Z",
+      "Recipe": "libtool",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20943",
+      "LastCommitSHA": "c9fb114c6194f8317be117b327610c79d33c3b98",
+      "LastCommitAt": "2023-11-05T10:32:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
