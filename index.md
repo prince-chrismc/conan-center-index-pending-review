@@ -174,10 +174,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20866](https://github.com/conan-io/conan-center-index/pull/20866)|[spnda](https://github.com/spnda)|Oct 31|:memo: fastgltf|:blue_square: S|0|||
 [#20869](https://github.com/conan-io/conan-center-index/pull/20869)|[toge](https://github.com/toge)|Nov 1|:memo: parg|:blue_square: S|2|Nov 2||jwillikers, SSE4
 [#20870](https://github.com/conan-io/conan-center-index/pull/20870)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: harfbuzz|:green_circle: XS|2|Nov 2||jwillikers, SSE4
-[#20875](https://github.com/conan-io/conan-center-index/pull/20875)|[toge](https://github.com/toge)|Nov 1|:stopwatch: mongo-c-driver|M|0|||
+[#20875](https://github.com/conan-io/conan-center-index/pull/20875)|[toge](https://github.com/toge)|Nov 1|:memo: mongo-c-driver|M|0|||
 [#20888](https://github.com/conan-io/conan-center-index/pull/20888)|[SSE4](https://github.com/SSE4)|Nov 2|:memo: fftw|L|0|:eyes:||
 [#20892](https://github.com/conan-io/conan-center-index/pull/20892)|[Kischy](https://github.com/Kischy)|Nov 2|:stopwatch: open62541|:blue_square: S|0|:eyes:||
-[#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|0|||
+[#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|0|:eyes:||
 [#20897](https://github.com/conan-io/conan-center-index/pull/20897)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: onetbb|M|3|Nov 3||[valgur](https://github.com/valgur), jwillikers, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#20900](https://github.com/conan-io/conan-center-index/pull/20900)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: volk|M|0|:eyes:||
 [#20902](https://github.com/conan-io/conan-center-index/pull/20902)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: crossguid|:green_circle: XS|0|:eyes:||
@@ -200,8 +200,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20938](https://github.com/conan-io/conan-center-index/pull/20938)|[toge](https://github.com/toge)|Nov 5|:memo: nanosvg|:blue_square: S|0|||
 [#20945](https://github.com/conan-io/conan-center-index/pull/20945)|[toge](https://github.com/toge)|Nov 5|:memo: aws-lambda-cpp|:blue_square: S|0|||
 [#20947](https://github.com/conan-io/conan-center-index/pull/20947)|[Ahajha](https://github.com/Ahajha)|Nov 5|:memo: pybind11|:blue_square: S|0|||
-[#20948](https://github.com/conan-io/conan-center-index/pull/20948)|[toge](https://github.com/toge)|Nov 5|:memo: openexr|M|0|||
 [#20949](https://github.com/conan-io/conan-center-index/pull/20949)|[toge](https://github.com/toge)|Nov 5|:stopwatch: quill|:green_circle: XS|0|||
+[#20950](https://github.com/conan-io/conan-center-index/pull/20950)|[toge](https://github.com/toge)|Nov 5|:stopwatch: sfml|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -227,10 +227,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 501
+	- Open: 502
 	- Draft: 50
-	- Average Age: 96 days, 14 hours, and 22.10 minutes
-	- Stop Label: 248
+	- Average Age: 96 days, 10 hours, and 45.53 minutes
+	- Stop Label: 249
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
