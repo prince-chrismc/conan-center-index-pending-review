@@ -872,6 +872,25 @@
       }
    },
    {
+      "Number": 18815,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-22T12:52:15Z",
+      "Recipe": "msgpack-cxx",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18815",
+      "LastCommitSHA": "96c1efe96514a6755d7057b581c55dc9732e5d70",
+      "LastCommitAt": "2023-11-04T21:05:23Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18831,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-22T19:43:46Z",
@@ -4310,6 +4329,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20938",
       "LastCommitSHA": "f14eda3523c2ca4395d4f8ba70ac94e5a0b479b7",
       "LastCommitAt": "2023-11-05T05:00:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20940,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-05T09:06:51Z",
+      "Recipe": "rapidfuzz",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20940",
+      "LastCommitSHA": "6be0c1a76b4c50b0313b2514947acfedd0cab763",
+      "LastCommitAt": "2023-11-05T08:06:21Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20941,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-05T09:10:16Z",
+      "Recipe": "hwdata",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20941",
+      "LastCommitSHA": "5bfcc0f550b84f953ed5bc51863bb2e097fa52f0",
+      "LastCommitAt": "2023-11-05T08:09:34Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
