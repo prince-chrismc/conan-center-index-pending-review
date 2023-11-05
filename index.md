@@ -66,7 +66,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18761](https://github.com/conan-io/conan-center-index/pull/18761)|[valgur](https://github.com/valgur)|Jul 20|:memo: libcoap|L|0|:eyes:||
 [#18792](https://github.com/conan-io/conan-center-index/pull/18792)|[valgur](https://github.com/valgur)|Jul 22|:memo: tgbot|L|0|||
 [#18801](https://github.com/conan-io/conan-center-index/pull/18801)|[VladyslavUsenko](https://github.com/VladyslavUsenko)|Jul 22|:memo: librealsense|M|0|:eyes:||
-[#18803](https://github.com/conan-io/conan-center-index/pull/18803)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: opene57|L|0|||
+[#18803](https://github.com/conan-io/conan-center-index/pull/18803)|[valgur](https://github.com/valgur)|Jul 22|:memo: opene57|L|0|||
 [#18804](https://github.com/conan-io/conan-center-index/pull/18804)|[valgur](https://github.com/valgur)|Jul 22|:memo: enjincppsdk|L|0|||
 [#18813](https://github.com/conan-io/conan-center-index/pull/18813)|[ashley-b](https://github.com/ashley-b)|Jul 22|:memo: libgpiod|:blue_square: S|3|Oct 15 :bell:||jwillikers
 [#18815](https://github.com/conan-io/conan-center-index/pull/18815)|[valgur](https://github.com/valgur)|Jul 22|:memo: msgpack-cxx|:blue_square: S|0|||
@@ -179,7 +179,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|0|||
 [#20897](https://github.com/conan-io/conan-center-index/pull/20897)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: onetbb|M|3|Nov 3||[valgur](https://github.com/valgur), jwillikers, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#20900](https://github.com/conan-io/conan-center-index/pull/20900)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: volk|M|0|:eyes:||
-[#20902](https://github.com/conan-io/conan-center-index/pull/20902)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: crossguid|:green_circle: XS|0|||
+[#20902](https://github.com/conan-io/conan-center-index/pull/20902)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: crossguid|:green_circle: XS|0|:eyes:||
 [#20903](https://github.com/conan-io/conan-center-index/pull/20903)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: cthash|:blue_square: S|1|Nov 2||jwillikers
 [#20911](https://github.com/conan-io/conan-center-index/pull/20911)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: tcl|M|0|||
 [#20913](https://github.com/conan-io/conan-center-index/pull/20913)|[jwillikers](https://github.com/jwillikers)|Nov 3|:stopwatch: glfw|L|0|||
@@ -198,7 +198,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20935](https://github.com/conan-io/conan-center-index/pull/20935)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libraw|L|0|||
 [#20938](https://github.com/conan-io/conan-center-index/pull/20938)|[toge](https://github.com/toge)|Nov 5|:memo: nanosvg|:blue_square: S|0|||
 [#20945](https://github.com/conan-io/conan-center-index/pull/20945)|[toge](https://github.com/toge)|Nov 5|:memo: aws-lambda-cpp|:blue_square: S|0|||
-[#20947](https://github.com/conan-io/conan-center-index/pull/20947)|[Ahajha](https://github.com/Ahajha)|Nov 5|:stopwatch: pybind11|:blue_square: S|0|||
+[#20947](https://github.com/conan-io/conan-center-index/pull/20947)|[Ahajha](https://github.com/Ahajha)|Nov 5|:memo: pybind11|:blue_square: S|0|||
 [#20948](https://github.com/conan-io/conan-center-index/pull/20948)|[toge](https://github.com/toge)|Nov 5|:stopwatch: openexr|M|0|||
 
 
@@ -227,7 +227,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 500
 	- Draft: 50
-	- Average Age: 96 days, 15 hours, and 59.34 minutes
+	- Average Age: 96 days, 17 hours, and 2.11 minutes
 	- Stop Label: 249
 	
 
