@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **169** pull requests currently under way :detective:
+There are **170** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -57,6 +57,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18668](https://github.com/conan-io/conan-center-index/pull/18668)|[valgur](https://github.com/valgur)|Jul 19|:memo: libdispatch|L|0|:eyes:||
 [#18670](https://github.com/conan-io/conan-center-index/pull/18670)|[valgur](https://github.com/valgur)|Jul 19|:memo: enchant|L|0|||
 [#18681](https://github.com/conan-io/conan-center-index/pull/18681)|[valgur](https://github.com/valgur)|Jul 19|:memo: libelfin|L|0|:eyes:||
+[#18722](https://github.com/conan-io/conan-center-index/pull/18722)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: libsolace|L|0|||
 [#18727](https://github.com/conan-io/conan-center-index/pull/18727)|[valgur](https://github.com/valgur)|Jul 20|:memo: twitchtv-libsoundtrackutil|L|0|:eyes:||
 [#18731](https://github.com/conan-io/conan-center-index/pull/18731)|[valgur](https://github.com/valgur)|Jul 20|:memo: cglm|M|0|:eyes:||
 [#18747](https://github.com/conan-io/conan-center-index/pull/18747)|[valgur](https://github.com/valgur)|Jul 20|:memo: dime|L|0|:eyes:||
@@ -171,7 +172,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20869](https://github.com/conan-io/conan-center-index/pull/20869)|[toge](https://github.com/toge)|Nov 1|:memo: parg|:blue_square: S|2|Nov 2||jwillikers, SSE4
 [#20870](https://github.com/conan-io/conan-center-index/pull/20870)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: harfbuzz|:green_circle: XS|2|Nov 2||jwillikers, SSE4
 [#20888](https://github.com/conan-io/conan-center-index/pull/20888)|[SSE4](https://github.com/SSE4)|Nov 2|:memo: fftw|L|0|||
-[#20892](https://github.com/conan-io/conan-center-index/pull/20892)|[Kischy](https://github.com/Kischy)|Nov 2|:stopwatch: open62541|:blue_square: S|0|||
+[#20892](https://github.com/conan-io/conan-center-index/pull/20892)|[Kischy](https://github.com/Kischy)|Nov 2|:stopwatch: open62541|:blue_square: S|0|:eyes:||
 [#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|0|||
 [#20897](https://github.com/conan-io/conan-center-index/pull/20897)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: onetbb|M|3|Nov 3||[valgur](https://github.com/valgur), jwillikers, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#20900](https://github.com/conan-io/conan-center-index/pull/20900)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: volk|M|0|||
@@ -194,8 +195,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20934](https://github.com/conan-io/conan-center-index/pull/20934)|[technoyes](https://github.com/technoyes)|Nov 4|:memo: iconfontcppheaders|:blue_square: S|0|||
 [#20935](https://github.com/conan-io/conan-center-index/pull/20935)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libraw|L|0|||
 [#20938](https://github.com/conan-io/conan-center-index/pull/20938)|[toge](https://github.com/toge)|Nov 5|:memo: nanosvg|:blue_square: S|0|||
-[#20941](https://github.com/conan-io/conan-center-index/pull/20941)|[toge](https://github.com/toge)|Nov 5|:stopwatch: hwdata|:green_circle: XS|0|||
 [#20943](https://github.com/conan-io/conan-center-index/pull/20943)|[SpaceIm](https://github.com/SpaceIm)|Nov 5|:stopwatch: libtool|:blue_square: S|0|||
+[#20944](https://github.com/conan-io/conan-center-index/pull/20944)|[toge](https://github.com/toge)|Nov 5|:stopwatch: c-blosc2|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -221,10 +222,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 497
+	- Open: 498
 	- Draft: 50
-	- Average Age: 96 days, 21 hours, and 58.25 minutes
-	- Stop Label: 251
+	- Average Age: 96 days, 18 hours, and 29.88 minutes
+	- Stop Label: 250
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
