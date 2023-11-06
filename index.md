@@ -198,9 +198,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20934](https://github.com/conan-io/conan-center-index/pull/20934)|[technoyes](https://github.com/technoyes)|Nov 4|:memo: iconfontcppheaders|:blue_square: S|0|||
 [#20935](https://github.com/conan-io/conan-center-index/pull/20935)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libraw|L|0|||
 [#20938](https://github.com/conan-io/conan-center-index/pull/20938)|[toge](https://github.com/toge)|Nov 5|:memo: nanosvg|:blue_square: S|0|||
+[#20944](https://github.com/conan-io/conan-center-index/pull/20944)|[toge](https://github.com/toge)|Nov 5|:memo: c-blosc2|L|0|||
 [#20945](https://github.com/conan-io/conan-center-index/pull/20945)|[toge](https://github.com/toge)|Nov 5|:memo: aws-lambda-cpp|:blue_square: S|0|||
 [#20947](https://github.com/conan-io/conan-center-index/pull/20947)|[Ahajha](https://github.com/Ahajha)|Nov 5|:memo: pybind11|:blue_square: S|0|||
-[#20949](https://github.com/conan-io/conan-center-index/pull/20949)|[toge](https://github.com/toge)|Nov 5|:stopwatch: quill|:green_circle: XS|0|||
 [#20950](https://github.com/conan-io/conan-center-index/pull/20950)|[toge](https://github.com/toge)|Nov 5|:stopwatch: sfml|M|0|||
 
 
@@ -229,8 +229,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 502
 	- Draft: 50
-	- Average Age: 96 days, 10 hours, and 45.53 minutes
-	- Stop Label: 249
+	- Average Age: 96 days, 12 hours, and 25.71 minutes
+	- Stop Label: 248
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
