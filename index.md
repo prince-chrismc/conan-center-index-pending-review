@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **154** pull requests currently under way :detective:
+There are **153** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -100,7 +100,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:memo: opentelemetry-proto|:green_circle: XS|1|Sep 21 :bell:||[mollers](https://github.com/mollers)
 [#19764](https://github.com/conan-io/conan-center-index/pull/19764)|[valgur](https://github.com/valgur)|Sep 12|:memo: openexr|M|4|Oct 27||jwillikers
 [#19823](https://github.com/conan-io/conan-center-index/pull/19823)|[SpaceIm](https://github.com/SpaceIm)|Sep 14|:memo: sdl_net|:blue_square: S|1|Oct 27||jwillikers
-[#19857](https://github.com/conan-io/conan-center-index/pull/19857)|[valgur](https://github.com/valgur)|Sep 15|:memo: llvm-openmp|XL|0|||
+[#19857](https://github.com/conan-io/conan-center-index/pull/19857)|[valgur](https://github.com/valgur)|Sep 15|:memo: llvm-openmp|XL|0|:eyes:||
 [#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|1|Sep 18 :bell:||jwillikers
 [#19897](https://github.com/conan-io/conan-center-index/pull/19897)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: tk|L|1|Oct 16 :bell:||jwillikers
 [#19911](https://github.com/conan-io/conan-center-index/pull/19911)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: libavrocpp|:green_circle: XS|1|Oct 16 :bell:||jwillikers
@@ -175,7 +175,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20931](https://github.com/conan-io/conan-center-index/pull/20931)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nettle|:blue_square: S|1|Nov 6||jwillikers
 [#20932](https://github.com/conan-io/conan-center-index/pull/20932)|[fnadeau](https://github.com/fnadeau)|Nov 4|:memo: qt|:green_circle: XS|2|Nov 6||ericLemanissier, jwillikers
 [#20935](https://github.com/conan-io/conan-center-index/pull/20935)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libraw|L|1|Nov 6||jwillikers
-[#20953](https://github.com/conan-io/conan-center-index/pull/20953)|[jwillikers](https://github.com/jwillikers)|Nov 6|:stopwatch: mesa-glu|M|0|||
 [#20955](https://github.com/conan-io/conan-center-index/pull/20955)|[Nekto89](https://github.com/Nekto89)|Nov 6|:stopwatch: onnxruntime|:blue_square: S|0|||
 [#20956](https://github.com/conan-io/conan-center-index/pull/20956)|[toge](https://github.com/toge)|Nov 6|:stopwatch: scnlib|M|0|||
 [#20957](https://github.com/conan-io/conan-center-index/pull/20957)|[toge](https://github.com/toge)|Nov 6|:stopwatch: aws-c-cal|:blue_square: S|0|||
@@ -185,12 +184,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **18** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#18668](https://github.com/conan-io/conan-center-index/pull/18668)|[valgur](https://github.com/valgur)|Jul 19|:memo: libdispatch|2|**uilianries**, jwillikers
 [#18747](https://github.com/conan-io/conan-center-index/pull/18747)|[valgur](https://github.com/valgur)|Jul 20|:memo: dime|2|**uilianries**, jwillikers
 [#18761](https://github.com/conan-io/conan-center-index/pull/18761)|[valgur](https://github.com/valgur)|Jul 20|:memo: libcoap|2|**uilianries**, jwillikers
 [#18954](https://github.com/conan-io/conan-center-index/pull/18954)|[valgur](https://github.com/valgur)|Jul 28|:memo: guetzli|3|jwillikers, **uilianries**
@@ -218,9 +216,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
 	- Open: 493
-	- Draft: 49
-	- Average Age: 97 days, 5 hours, and 4.40 minutes
-	- Stop Label: 245
+	- Draft: 50
+	- Average Age: 97 days, 1 hours, and 38.97 minutes
+	- Stop Label: 246
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
