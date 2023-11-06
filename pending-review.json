@@ -543,39 +543,6 @@
       }
    },
    {
-      "Number": 18668,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T13:22:26Z",
-      "Recipe": "libdispatch",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18668",
-      "LastCommitSHA": "5b915336b5db327eb310269153994a0b8dee06d8",
-      "LastCommitAt": "2023-11-02T05:37:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-06T16:45:17Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18668#pullrequestreview-1715689306"
-         }
-      }
-   },
-   {
       "Number": 18670,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-19T13:43:27Z",
@@ -4399,25 +4366,6 @@
             "SubmittedAt": "2023-11-06T12:17:00Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20950#pullrequestreview-1715026148"
          }
-      }
-   },
-   {
-      "Number": 20953,
-      "OpenedBy": "jwillikers",
-      "CreatedAt": "2023-11-06T15:32:20Z",
-      "Recipe": "mesa-glu",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20953",
-      "LastCommitSHA": "d755794ccbccac95e8002ca5c4dd4688ac7ce083",
-      "LastCommitAt": "2023-11-06T18:00:52Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
