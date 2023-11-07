@@ -4127,7 +4127,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20955",
       "LastCommitSHA": "fe179d59d17cf6841c8dbf782d5d5064a8e42399",
       "LastCommitAt": "2023-11-06T16:13:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4213,6 +4213,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20959",
       "LastCommitSHA": "4e2aa7ad9de670bcae8b3b27733d69a95f7ec93c",
       "LastCommitAt": "2023-11-06T17:28:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20961,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-06T21:01:06Z",
+      "Recipe": "lager",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20961",
+      "LastCommitSHA": "31ccce2326ebce65e851c7d8a126b884a590b67d",
+      "LastCommitAt": "2023-11-07T04:36:22Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
