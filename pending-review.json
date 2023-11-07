@@ -581,6 +581,25 @@
       }
    },
    {
+      "Number": 18696,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-19T22:54:01Z",
+      "Recipe": "sqlpp11-connector-sqlite3",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18696",
+      "LastCommitSHA": "51af2ccfa8330e48c7ed9acb802aaf7e8c1a42dc",
+      "LastCommitAt": "2023-11-07T12:14:35Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18722,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T12:36:18Z",
@@ -4202,6 +4221,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20980",
       "LastCommitSHA": "a95e60a53bb384c0eacbb6f017ad684e9e727d2a",
       "LastCommitAt": "2023-11-07T17:51:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20982,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-07T18:53:03Z",
+      "Recipe": "octo-logger-cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20982",
+      "LastCommitSHA": "5b4c7934029321041f01818b7a8fdedd66047bf7",
+      "LastCommitAt": "2023-11-07T18:52:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
