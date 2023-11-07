@@ -173,7 +173,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20929](https://github.com/conan-io/conan-center-index/pull/20929)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: soplex|M|1|Nov 6||jwillikers
 [#20930](https://github.com/conan-io/conan-center-index/pull/20930)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: faac|:green_circle: XS|1|Nov 6||jwillikers
 [#20931](https://github.com/conan-io/conan-center-index/pull/20931)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nettle|:blue_square: S|1|Nov 6||jwillikers
-[#20932](https://github.com/conan-io/conan-center-index/pull/20932)|[fnadeau](https://github.com/fnadeau)|Nov 4|:memo: qt|:green_circle: XS|2|Nov 6||ericLemanissier, jwillikers
+[#20932](https://github.com/conan-io/conan-center-index/pull/20932)|[fnadeau](https://github.com/fnadeau)|Nov 4|:stopwatch: qt|:green_circle: XS|2|Nov 6||ericLemanissier, jwillikers
 [#20935](https://github.com/conan-io/conan-center-index/pull/20935)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libraw|L|1|Nov 6||jwillikers
 [#20955](https://github.com/conan-io/conan-center-index/pull/20955)|[Nekto89](https://github.com/Nekto89)|Nov 6|:memo: onnxruntime|:blue_square: S|0|||
 [#20956](https://github.com/conan-io/conan-center-index/pull/20956)|[toge](https://github.com/toge)|Nov 6|:stopwatch: scnlib|M|0|||
@@ -185,8 +185,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20978](https://github.com/conan-io/conan-center-index/pull/20978)|[toge](https://github.com/toge)|Nov 7|:stopwatch: aws-c-io|:green_circle: XS|0|||
 [#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:stopwatch: qt|:green_circle: XS|1|Nov 7||ericLemanissier
 [#20980](https://github.com/conan-io/conan-center-index/pull/20980)|[raulcd](https://github.com/raulcd)|Nov 7|:stopwatch: arrow|:green_circle: XS|0|||
-[#20982](https://github.com/conan-io/conan-center-index/pull/20982)|[toge](https://github.com/toge)|Nov 7|:stopwatch: octo-logger-cpp|:green_circle: XS|0|||
 [#20983](https://github.com/conan-io/conan-center-index/pull/20983)|[leha-bot](https://github.com/leha-bot)|Nov 7|:stopwatch: sdl|:green_circle: XS|0|||
+[#20984](https://github.com/conan-io/conan-center-index/pull/20984)|[memsharded](https://github.com/memsharded)|Nov 7|:stopwatch: exiv2|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -215,7 +215,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 490
 	- Draft: 50
-	- Average Age: 98 days, 1 hours, and 3.62 minutes
+	- Average Age: 98 days, 3 hours, and 3.90 minutes
 	- Stop Label: 239
 	
 
