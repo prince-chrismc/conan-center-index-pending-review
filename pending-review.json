@@ -469,8 +469,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18635",
-      "LastCommitSHA": "3f824427d3792196b6b5a39f9e3624b06b1af3c8",
-      "LastCommitAt": "2023-11-06T15:30:40Z",
+      "LastCommitSHA": "401a3dbdf5181330949ebdac35c91d05aeaf7d0e",
+      "LastCommitAt": "2023-11-07T12:01:36Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -702,8 +702,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18749",
-      "LastCommitSHA": "7a9622140c92195a2e863b07e564b2e17a96fd49",
-      "LastCommitAt": "2023-11-02T05:17:47Z",
+      "LastCommitSHA": "e9a8ea55e5c0d58b332c76f39c658ff839be07f1",
+      "LastCommitAt": "2023-11-07T11:46:47Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -2512,25 +2512,6 @@
       }
    },
    {
-      "Number": 20355,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-10-04T20:07:25Z",
-      "Recipe": "ncurses",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20355",
-      "LastCommitSHA": "a38f589dfab6c6eb83d853c7dd5fb700690a8945",
-      "LastCommitAt": "2023-11-06T17:06:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20369,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-10-05T11:04:45Z",
@@ -2794,6 +2775,35 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20530,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-10-12T08:25:24Z",
+      "Recipe": "nmslib",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20530",
+      "LastCommitSHA": "a03041d792e38289de0a7fc54ece535e4e55e8a6",
+      "LastCommitAt": "2023-11-07T08:52:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 8,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": [],
+         "LastReview": {
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-11-07T08:57:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20530#pullrequestreview-1717143672"
+         }
       }
    },
    {
@@ -4323,6 +4333,101 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20969",
       "LastCommitSHA": "4639e3adc3892f414a1f757f4cc5934d831dce02",
       "LastCommitAt": "2023-11-07T08:06:34Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20971,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-11-07T12:13:07Z",
+      "Recipe": "czmq",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20971",
+      "LastCommitSHA": "e5c4f177ce255498220b6ba291388972ada79310",
+      "LastCommitAt": "2023-11-07T02:29:48Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20972,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-11-07T12:15:19Z",
+      "Recipe": "fakeit",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20972",
+      "LastCommitSHA": "5d761b07c5ed44407bc2aa3ccf0b1a963639d1ed",
+      "LastCommitAt": "2023-10-14T02:25:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20973,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-11-07T12:17:52Z",
+      "Recipe": "libpqxx",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20973",
+      "LastCommitSHA": "02315c712d39797d43ed5c970793781ffd769bca",
+      "LastCommitAt": "2023-08-23T09:28:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20974,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-11-07T12:20:26Z",
+      "Recipe": "microservice-essentials",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20974",
+      "LastCommitSHA": "7b0c60345f2aefdb54e55d90676b66e6ee836b21",
+      "LastCommitAt": "2023-10-01T14:30:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 20975,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-11-07T12:21:11Z",
+      "Recipe": "oatpp-postgresql",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20975",
+      "LastCommitSHA": "9c98c8abc53fd104c9238b752132283701280a25",
+      "LastCommitAt": "2023-08-23T09:33:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
