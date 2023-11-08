@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **163** pull requests currently under way :detective:
+There are **162** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -184,7 +184,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20975](https://github.com/conan-io/conan-center-index/pull/20975)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 7|:memo: oatpp-postgresql|:green_circle: XS|0|||
 [#20978](https://github.com/conan-io/conan-center-index/pull/20978)|[toge](https://github.com/toge)|Nov 7|:stopwatch: aws-c-io|:green_circle: XS|0|||
 [#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:stopwatch: qt|:green_circle: XS|1|Nov 7||ericLemanissier
-[#20980](https://github.com/conan-io/conan-center-index/pull/20980)|[raulcd](https://github.com/raulcd)|Nov 7|:stopwatch: arrow|:green_circle: XS|0|||
 [#20983](https://github.com/conan-io/conan-center-index/pull/20983)|[leha-bot](https://github.com/leha-bot)|Nov 7|:stopwatch: sdl|:green_circle: XS|0|||
 [#20984](https://github.com/conan-io/conan-center-index/pull/20984)|[memsharded](https://github.com/memsharded)|Nov 7|:stopwatch: exiv2|:green_circle: XS|0|||
 [#20986](https://github.com/conan-io/conan-center-index/pull/20986)|[toge](https://github.com/toge)|Nov 8|:stopwatch: create-dmg|M|0|||
@@ -218,7 +217,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 493
 	- Draft: 50
-	- Average Age: 97 days, 11 hours, and 22.19 minutes
+	- Average Age: 97 days, 11 hours, and 51.43 minutes
 	- Stop Label: 239
 	
 
