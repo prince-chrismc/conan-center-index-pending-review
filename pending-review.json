@@ -4083,25 +4083,6 @@
       }
    },
    {
-      "Number": 20972,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-11-07T12:15:19Z",
-      "Recipe": "fakeit",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20972",
-      "LastCommitSHA": "5d761b07c5ed44407bc2aa3ccf0b1a963639d1ed",
-      "LastCommitAt": "2023-10-14T02:25:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20973,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-11-07T12:17:52Z",
@@ -4151,6 +4132,39 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
+      }
+   },
+   {
+      "Number": 20976,
+      "OpenedBy": "uilianries",
+      "CreatedAt": "2023-11-07T13:04:56Z",
+      "Recipe": "hwloc",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20976",
+      "LastCommitSHA": "037b3674544c865c73cf8220536cfb7fc58277d6",
+      "LastCommitAt": "2023-11-07T14:49:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "czoido",
+               "Tier": "team"
+            },
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-11-08T07:53:12Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20976#pullrequestreview-1719598104"
+         }
       }
    },
    {
