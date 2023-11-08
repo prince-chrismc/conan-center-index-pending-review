@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **162** pull requests currently under way :detective:
+There are **161** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -129,7 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20442](https://github.com/conan-io/conan-center-index/pull/20442)|[toge](https://github.com/toge)|Oct 8|:new: chunkio|L|2|Oct 9 :bell:|RubenRBS|
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|:blue_square: S|3|Oct 31||jwillikers
 [#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: xorg|:blue_square: S|0|:eyes:||
-[#20504](https://github.com/conan-io/conan-center-index/pull/20504)|[kkloberdanz](https://github.com/kkloberdanz)|Oct 10|:stopwatch: mongo-cxx-driver|M|1|Oct 27||
+[#20504](https://github.com/conan-io/conan-center-index/pull/20504)|[kkloberdanz](https://github.com/kkloberdanz)|Oct 10|:stopwatch: mongo-cxx-driver|M|1|Oct 27 :bell:||
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
 [#20526](https://github.com/conan-io/conan-center-index/pull/20526)|[toge](https://github.com/toge)|Oct 11|:new: cpp-validator|M|0|:eyes:||
 [#20533](https://github.com/conan-io/conan-center-index/pull/20533)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:memo: libzen|:blue_square: S|1|Oct 16 :bell:||jwillikers
@@ -180,7 +180,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20959](https://github.com/conan-io/conan-center-index/pull/20959)|[MangaD](https://github.com/MangaD)|Nov 6|:stopwatch: argparse|:green_circle: XS|0|||
 [#20967](https://github.com/conan-io/conan-center-index/pull/20967)|[toge](https://github.com/toge)|Nov 7|:memo: libuv|M|0|||
 [#20969](https://github.com/conan-io/conan-center-index/pull/20969)|[petermbauer](https://github.com/petermbauer)|Nov 7|:stopwatch: qt|:green_circle: XS|0|||
-[#20972](https://github.com/conan-io/conan-center-index/pull/20972)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 7|:stopwatch: fakeit|:green_circle: XS|0|:eyes:||
 [#20975](https://github.com/conan-io/conan-center-index/pull/20975)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 7|:memo: oatpp-postgresql|:green_circle: XS|0|||
 [#20978](https://github.com/conan-io/conan-center-index/pull/20978)|[toge](https://github.com/toge)|Nov 7|:stopwatch: aws-c-io|:green_circle: XS|0|||
 [#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:stopwatch: qt|:green_circle: XS|1|Nov 7||ericLemanissier
@@ -193,7 +192,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -207,6 +206,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|6|jwillikers, **uilianries**
 [#20852](https://github.com/conan-io/conan-center-index/pull/20852)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:warning: so5extra|2|**uilianries**, jwillikers
 [#20973](https://github.com/conan-io/conan-center-index/pull/20973)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 7|:warning: libpqxx|2|**czoido**, jwillikers
+[#20976](https://github.com/conan-io/conan-center-index/pull/20976)|[uilianries](https://github.com/uilianries)|Nov 7|:warning: hwloc|5|**czoido**, **danimtb**
 
 
 #### :clipboard: Statistics
@@ -217,7 +217,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 492
 	- Draft: 50
-	- Average Age: 97 days, 21 hours, and 26.28 minutes
+	- Average Age: 97 days, 22 hours, and 29.90 minutes
 	- Stop Label: 239
 	
 
