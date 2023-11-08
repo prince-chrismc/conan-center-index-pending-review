@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **161** pull requests currently under way :detective:
+There are **162** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -114,6 +114,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19964](https://github.com/conan-io/conan-center-index/pull/19964)|[coryan](https://github.com/coryan)|Sep 19|:memo: google-cloud-cpp|L|0|:eyes:||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|1|Oct 2 :bell:||[valgur](https://github.com/valgur)
 [#20173](https://github.com/conan-io/conan-center-index/pull/20173)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|L|0|:eyes:||
+[#20256](https://github.com/conan-io/conan-center-index/pull/20256)|[joakimono](https://github.com/joakimono)|Oct 2|:stopwatch: fmilib|XL|5|Nov 2||
 [#20270](https://github.com/conan-io/conan-center-index/pull/20270)|[valgur](https://github.com/valgur)|Oct 2|:memo: libsndfile|M|2|Oct 27||ericLemanissier, jwillikers
 [#20277](https://github.com/conan-io/conan-center-index/pull/20277)|[valgur](https://github.com/valgur)|Oct 2|:memo: ffmpeg|L|2|Oct 27||jwillikers
 [#20289](https://github.com/conan-io/conan-center-index/pull/20289)|[jwillikers](https://github.com/jwillikers)|Oct 2|:memo: libxcrypt|:blue_square: S|0|:eyes:||
@@ -173,7 +174,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20929](https://github.com/conan-io/conan-center-index/pull/20929)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: soplex|M|1|Nov 6||jwillikers
 [#20930](https://github.com/conan-io/conan-center-index/pull/20930)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: faac|:green_circle: XS|1|Nov 6||jwillikers
 [#20931](https://github.com/conan-io/conan-center-index/pull/20931)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: nettle|:blue_square: S|1|Nov 6||jwillikers
-[#20932](https://github.com/conan-io/conan-center-index/pull/20932)|[fnadeau](https://github.com/fnadeau)|Nov 4|:stopwatch: qt|:green_circle: XS|2|Nov 6||ericLemanissier, jwillikers
+[#20932](https://github.com/conan-io/conan-center-index/pull/20932)|[fnadeau](https://github.com/fnadeau)|Nov 4|:stopwatch: qt|:green_circle: XS|3|Nov 8||ericLemanissier, jwillikers, MartinDelille
 [#20935](https://github.com/conan-io/conan-center-index/pull/20935)|[SpaceIm](https://github.com/SpaceIm)|Nov 4|:memo: libraw|L|1|Nov 6||jwillikers
 [#20955](https://github.com/conan-io/conan-center-index/pull/20955)|[Nekto89](https://github.com/Nekto89)|Nov 6|:memo: onnxruntime|:blue_square: S|0|||
 [#20956](https://github.com/conan-io/conan-center-index/pull/20956)|[toge](https://github.com/toge)|Nov 6|:stopwatch: scnlib|M|0|||
@@ -185,7 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:stopwatch: qt|:green_circle: XS|1|Nov 7||ericLemanissier
 [#20983](https://github.com/conan-io/conan-center-index/pull/20983)|[leha-bot](https://github.com/leha-bot)|Nov 7|:stopwatch: sdl|:green_circle: XS|0|||
 [#20984](https://github.com/conan-io/conan-center-index/pull/20984)|[memsharded](https://github.com/memsharded)|Nov 7|:stopwatch: exiv2|:green_circle: XS|0|||
-[#20986](https://github.com/conan-io/conan-center-index/pull/20986)|[toge](https://github.com/toge)|Nov 8|:stopwatch: create-dmg|M|0|||
+[#20986](https://github.com/conan-io/conan-center-index/pull/20986)|[toge](https://github.com/toge)|Nov 8|:memo: create-dmg|M|1|Nov 8||MartinDelille
 [#20987](https://github.com/conan-io/conan-center-index/pull/20987)|[toge](https://github.com/toge)|Nov 8|:stopwatch: octo-keygen-cpp|:green_circle: XS|0|||
 [#20988](https://github.com/conan-io/conan-center-index/pull/20988)|[xyz1001](https://github.com/xyz1001)|Nov 8|:stopwatch: libx264|:green_circle: XS|0|||
 
@@ -215,9 +216,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 492
+	- Open: 491
 	- Draft: 50
-	- Average Age: 97 days, 22 hours, and 29.90 minutes
+	- Average Age: 98 days, 4 hours, and 11.73 minutes
 	- Stop Label: 239
 	
 
