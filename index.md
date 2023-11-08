@@ -169,14 +169,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **18** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#18722](https://github.com/conan-io/conan-center-index/pull/18722)|[valgur](https://github.com/valgur)|Jul 20|:memo: libsolace|2|**uilianries**, jwillikers
-[#18815](https://github.com/conan-io/conan-center-index/pull/18815)|[valgur](https://github.com/valgur)|Jul 22|:memo: msgpack-cxx|2|**uilianries**, jwillikers
-[#18898](https://github.com/conan-io/conan-center-index/pull/18898)|[valgur](https://github.com/valgur)|Jul 25|:memo: sqlcipher|2|**uilianries**, jwillikers
 [#19619](https://github.com/conan-io/conan-center-index/pull/19619)|[toge](https://github.com/toge)|Sep 6|:memo: wasmedge|3|**uilianries**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
@@ -203,9 +200,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 487
-	- Draft: 50
-	- Average Age: 97 days, 12 hours, and 15.30 minutes
+	- Open: 485
+	- Draft: 51
+	- Average Age: 97 days, 6 hours, and 45.73 minutes
 	- Stop Label: 242
 	
 
