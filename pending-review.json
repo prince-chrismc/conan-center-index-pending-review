@@ -3487,7 +3487,7 @@
       "LastCommitAt": "2023-11-06T21:29:38Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 4,
          "ValidApprovals": 1,
          "TeamApproval": false,
          "Approvals": [
@@ -3498,9 +3498,9 @@
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-09T13:50:24Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20899#pullrequestreview-1722581515"
+            "ReviewerName": "juan-lunarg",
+            "SubmittedAt": "2023-11-09T18:48:01Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20899#pullrequestreview-1723278521"
          }
       }
    },
@@ -4099,7 +4099,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21003",
       "LastCommitSHA": "c82283eea5ab7f8817b44f80f3c3eaa8d693b393",
       "LastCommitAt": "2023-11-09T13:42:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
