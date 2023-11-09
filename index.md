@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **144** pull requests currently under way :detective:
+There are **143** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -165,10 +165,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20996](https://github.com/conan-io/conan-center-index/pull/20996)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:memo: libcoap|:blue_square: S|0|||
 [#20999](https://github.com/conan-io/conan-center-index/pull/20999)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 8|:stopwatch: openssl|:blue_square: S|0|||
 [#21000](https://github.com/conan-io/conan-center-index/pull/21000)|[KingKili](https://github.com/KingKili)|Nov 8|:stopwatch: hdf5|:blue_square: S|0|||
-[#21003](https://github.com/conan-io/conan-center-index/pull/21003)|[jwillikers](https://github.com/jwillikers)|Nov 8|:stopwatch: glew|:blue_square: S|1|Nov 8||
+[#21003](https://github.com/conan-io/conan-center-index/pull/21003)|[jwillikers](https://github.com/jwillikers)|Nov 8|:stopwatch: glew|:blue_square: S|2|Nov 9||SpaceIm
 [#21008](https://github.com/conan-io/conan-center-index/pull/21008)|[toge](https://github.com/toge)|Nov 8|:stopwatch: asyncly|:green_circle: XS|0|||
 [#21009](https://github.com/conan-io/conan-center-index/pull/21009)|[toge](https://github.com/toge)|Nov 8|:stopwatch: aws-c-io|:green_circle: XS|0|||
-[#21010](https://github.com/conan-io/conan-center-index/pull/21010)|[toge](https://github.com/toge)|Nov 8|:stopwatch: continuable|:green_circle: XS|0|||
 [#21011](https://github.com/conan-io/conan-center-index/pull/21011)|[toge](https://github.com/toge)|Nov 8|:stopwatch: cimg|:green_circle: XS|0|||
 [#21012](https://github.com/conan-io/conan-center-index/pull/21012)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:stopwatch: abseil|M|0|||
 
@@ -199,7 +198,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 481
 	- Draft: 51
-	- Average Age: 98 days, 1 hours, and 32.50 minutes
+	- Average Age: 98 days, 1 hours, and 37.25 minutes
 	- Stop Label: 241
 	
 
