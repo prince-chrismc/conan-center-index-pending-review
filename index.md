@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **146** pull requests currently under way :detective:
+There are **147** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -171,8 +171,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21000](https://github.com/conan-io/conan-center-index/pull/21000)|[KingKili](https://github.com/KingKili)|Nov 8|:stopwatch: hdf5|:blue_square: S|0|||
 [#21003](https://github.com/conan-io/conan-center-index/pull/21003)|[jwillikers](https://github.com/jwillikers)|Nov 8|:stopwatch: glew|:blue_square: S|2|Nov 9||SpaceIm
 [#21012](https://github.com/conan-io/conan-center-index/pull/21012)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:stopwatch: abseil|M|0|||
-[#21016](https://github.com/conan-io/conan-center-index/pull/21016)|[toge](https://github.com/toge)|Nov 9|:stopwatch: aws-c-http|:blue_square: S|0|||
 [#21017](https://github.com/conan-io/conan-center-index/pull/21017)|[toge](https://github.com/toge)|Nov 9|:stopwatch: aws-checksums|:green_circle: XS|0|||
+[#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|||
+[#21021](https://github.com/conan-io/conan-center-index/pull/21021)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 9|:stopwatch: libpqxx|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -199,10 +200,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 480
+	- Open: 483
 	- Draft: 51
-	- Average Age: 98 days, 13 hours, and 48.67 minutes
-	- Stop Label: 240
+	- Average Age: 97 days, 23 hours, and 57.74 minutes
+	- Stop Label: 242
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
