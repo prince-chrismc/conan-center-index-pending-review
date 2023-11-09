@@ -88,7 +88,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17246",
       "LastCommitSHA": "312497265b686c2c389668b327340268b3dcfef1",
       "LastCommitAt": "2023-11-09T17:56:13Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3255,15 +3255,20 @@
       "LastCommitAt": "2023-11-09T14:35:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "valgur",
+               "Tier": "unofficial"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
-            "SubmittedAt": "2023-11-01T11:34:05Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20851#pullrequestreview-1708015154"
+            "SubmittedAt": "2023-11-09T20:49:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20851#pullrequestreview-1723448709"
          }
       }
    },
@@ -3971,6 +3976,25 @@
             "SubmittedAt": "2023-11-08T18:34:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20988#pullrequestreview-1721029716"
          }
+      }
+   },
+   {
+      "Number": 20991,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-08T11:17:38Z",
+      "Recipe": "rust",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20991",
+      "LastCommitSHA": "add4efeb5d7ab095f094355e0fc75618b17aa264",
+      "LastCommitAt": "2023-11-09T17:50:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
