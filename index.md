@@ -164,7 +164,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20994](https://github.com/conan-io/conan-center-index/pull/20994)|[danimtb](https://github.com/danimtb)|Nov 8|:gear: .c3i|:green_circle: XS|0|||
 [#20995](https://github.com/conan-io/conan-center-index/pull/20995)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:memo: tcsbank-uconfig|:green_circle: XS|0|||
 [#20996](https://github.com/conan-io/conan-center-index/pull/20996)|[SpaceIm](https://github.com/SpaceIm)|Nov 8|:memo: libcoap|:blue_square: S|0|||
-[#20999](https://github.com/conan-io/conan-center-index/pull/20999)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 8|:stopwatch: openssl|:blue_square: S|0|||
+[#20999](https://github.com/conan-io/conan-center-index/pull/20999)|[Sil3ntStorm](https://github.com/Sil3ntStorm)|Nov 8|:memo: openssl|:blue_square: S|0|||
 [#21000](https://github.com/conan-io/conan-center-index/pull/21000)|[KingKili](https://github.com/KingKili)|Nov 8|:stopwatch: hdf5|:blue_square: S|0|||
 [#21003](https://github.com/conan-io/conan-center-index/pull/21003)|[jwillikers](https://github.com/jwillikers)|Nov 8|:stopwatch: glew|:blue_square: S|2|Nov 9||SpaceIm
 [#21009](https://github.com/conan-io/conan-center-index/pull/21009)|[toge](https://github.com/toge)|Nov 8|:stopwatch: aws-c-io|:green_circle: XS|0|||
@@ -199,7 +199,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 480
 	- Draft: 51
-	- Average Age: 98 days, 8 hours, and 47.95 minutes
+	- Average Age: 98 days, 9 hours, and 49.69 minutes
 	- Stop Label: 240
 	
 
