@@ -142,7 +142,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20888](https://github.com/conan-io/conan-center-index/pull/20888)|[SSE4](https://github.com/SSE4)|Nov 2|:memo: fftw|L|2|Nov 7||
 [#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|1|Nov 6||jwillikers
 [#20897](https://github.com/conan-io/conan-center-index/pull/20897)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: onetbb|M|4|Nov 6|uilianries|[valgur](https://github.com/valgur), jwillikers, [ilya-lavrenov](https://github.com/ilya-lavrenov)
-[#20899](https://github.com/conan-io/conan-center-index/pull/20899)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:stopwatch: vulkan-loader|L|0|||
+[#20899](https://github.com/conan-io/conan-center-index/pull/20899)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: vulkan-loader|L|0|||
 [#20905](https://github.com/conan-io/conan-center-index/pull/20905)|[jwillikers](https://github.com/jwillikers)|Nov 2|:memo: freeglut|XL|0|||
 [#20911](https://github.com/conan-io/conan-center-index/pull/20911)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: tcl|M|1|Nov 6||jwillikers
 [#20913](https://github.com/conan-io/conan-center-index/pull/20913)|[jwillikers](https://github.com/jwillikers)|Nov 3|:memo: glfw|L|0|||
@@ -196,9 +196,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 69b1b57e4ec0b358d99cdd1631c203f443d7979c
 - Pull Requests:
-	- Open: 480
+	- Open: 479
 	- Draft: 51
-	- Average Age: 98 days, 7 hours, and 27.96 minutes
+	- Average Age: 98 days, 12 hours, and 52.83 minutes
 	- Stop Label: 240
 	
 
