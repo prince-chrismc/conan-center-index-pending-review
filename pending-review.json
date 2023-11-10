@@ -3398,7 +3398,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20888",
       "LastCommitSHA": "f427bb1c90619f3e064aa8f1cb7482e7940338c0",
       "LastCommitAt": "2023-11-08T06:50:34Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -3983,6 +3983,25 @@
       }
    },
    {
+      "Number": 20991,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-08T11:17:38Z",
+      "Recipe": "rust",
+      "Change": 0,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20991",
+      "LastCommitSHA": "154fe97f4328716b0026dd110a407d15af72e320",
+      "LastCommitAt": "2023-11-10T06:01:41Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20993,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-08T12:55:09Z",
@@ -4019,8 +4038,8 @@
       "Change": 3,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20994",
-      "LastCommitSHA": "f84e1f5fef6ffc2284167922e265a05e0c7c2d73",
-      "LastCommitAt": "2023-11-08T12:22:58Z",
+      "LastCommitSHA": "3a4bf9733a7b9244a42da57e22bbd8f4cc2e4376",
+      "LastCommitAt": "2023-11-10T08:10:14Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 1,
