@@ -4670,5 +4670,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21054,
+      "OpenedBy": "fpelliccioni",
+      "CreatedAt": "2023-11-10T15:36:17Z",
+      "Recipe": "emsdk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21054",
+      "LastCommitSHA": "1fe9e5ea89694a5b19c89b88a1bf1024234e68c8",
+      "LastCommitAt": "2023-11-10T15:35:30Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
