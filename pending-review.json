@@ -4452,5 +4452,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21035,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-10T04:47:58Z",
+      "Recipe": "ada",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21035",
+      "LastCommitSHA": "be6d7516af28eabb867284566e5ee09c26c9b42c",
+      "LastCommitAt": "2023-11-10T04:47:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
