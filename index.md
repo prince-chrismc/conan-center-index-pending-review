@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -138,7 +138,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|0|:eyes:||
 [#20788](https://github.com/conan-io/conan-center-index/pull/20788)|[HappySeaFox](https://github.com/HappySeaFox)|Oct 27|:memo: sail|L|0|:eyes:||
 [#20813](https://github.com/conan-io/conan-center-index/pull/20813)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Oct 28|:memo: onetbb|:blue_square: S|2|Nov 2||SSE4
-[#20851](https://github.com/conan-io/conan-center-index/pull/20851)|[lucaskdc](https://github.com/lucaskdc)|Oct 31|:new: freealut|L|3|Nov 10||[valgur](https://github.com/valgur), [luizfeldmann](https://github.com/luizfeldmann)
+[#20851](https://github.com/conan-io/conan-center-index/pull/20851)|[lucaskdc](https://github.com/lucaskdc)|Oct 31|:stopwatch: freealut|L|3|Nov 10||
 [#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:new: quickcpplib|L|1|Nov 1||
 [#20866](https://github.com/conan-io/conan-center-index/pull/20866)|[spnda](https://github.com/spnda)|Oct 31|:memo: fastgltf|:blue_square: S|1|Nov 8|uilianries|
 [#20870](https://github.com/conan-io/conan-center-index/pull/20870)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: harfbuzz|:green_circle: XS|2|Nov 2||jwillikers, SSE4
@@ -187,14 +187,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21042](https://github.com/conan-io/conan-center-index/pull/21042)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: ffmpeg|:green_circle: XS|1|Nov 10||jwillikers
 [#21043](https://github.com/conan-io/conan-center-index/pull/21043)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: sentry-breakpad|:green_circle: XS|1|Nov 10||jwillikers
 [#21044](https://github.com/conan-io/conan-center-index/pull/21044)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-cgl|:green_circle: XS|1|Nov 10||jwillikers
-[#21045](https://github.com/conan-io/conan-center-index/pull/21045)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: aws-kvs-pic|:green_circle: XS|0|||
-[#21047](https://github.com/conan-io/conan-center-index/pull/21047)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: sdbus-cpp|:green_circle: XS|0|||
+[#21045](https://github.com/conan-io/conan-center-index/pull/21045)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: aws-kvs-pic|:green_circle: XS|1|Nov 10||jwillikers
+[#21047](https://github.com/conan-io/conan-center-index/pull/21047)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: sdbus-cpp|:green_circle: XS|1|Nov 10||jwillikers
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:stopwatch: rocksdb|:blue_square: S|0|||
 [#21050](https://github.com/conan-io/conan-center-index/pull/21050)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:gear: linter|:green_circle: XS|1|Nov 10||jwillikers
-[#21051](https://github.com/conan-io/conan-center-index/pull/21051)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: zbar|:green_circle: XS|0|||
-[#21053](https://github.com/conan-io/conan-center-index/pull/21053)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-utils|:green_circle: XS|0|||
+[#21051](https://github.com/conan-io/conan-center-index/pull/21051)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: zbar|:green_circle: XS|1|Nov 10||jwillikers
+[#21053](https://github.com/conan-io/conan-center-index/pull/21053)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-utils|:green_circle: XS|1|Nov 10||jwillikers
 [#21054](https://github.com/conan-io/conan-center-index/pull/21054)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 10|:stopwatch: emsdk|:blue_square: S|0|||
 [#21056](https://github.com/conan-io/conan-center-index/pull/21056)|[toge](https://github.com/toge)|Nov 10|:stopwatch: xsimd|:green_circle: XS|0|||
+[#21057](https://github.com/conan-io/conan-center-index/pull/21057)|[raulcd](https://github.com/raulcd)|Nov 10|:stopwatch: arrow|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -221,9 +222,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 500
+	- Open: 501
 	- Draft: 52
-	- Average Age: 95 days, 2 hours, and 49.54 minutes
+	- Average Age: 94 days, 23 hours, and 19.50 minutes
 	- Stop Label: 241
 	
 
