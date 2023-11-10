@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **169** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -196,6 +196,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21054](https://github.com/conan-io/conan-center-index/pull/21054)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 10|:stopwatch: emsdk|:blue_square: S|0|||
 [#21056](https://github.com/conan-io/conan-center-index/pull/21056)|[toge](https://github.com/toge)|Nov 10|:stopwatch: xsimd|:green_circle: XS|0|||
 [#21057](https://github.com/conan-io/conan-center-index/pull/21057)|[raulcd](https://github.com/raulcd)|Nov 10|:stopwatch: arrow|:green_circle: XS|0|||
+[#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:stopwatch: ginkgo|L|0|||
+[#21059](https://github.com/conan-io/conan-center-index/pull/21059)|[valgur](https://github.com/valgur)|Nov 10|:stopwatch: vulkan-utility-libraries|L|0|||
+[#21060](https://github.com/conan-io/conan-center-index/pull/21060)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: libavif|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -222,9 +225,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 501
+	- Open: 504
 	- Draft: 52
-	- Average Age: 95 days, 1 hours, and 16.91 minutes
+	- Average Age: 94 days, 12 hours, and 40.43 minutes
 	- Stop Label: 241
 	
 
