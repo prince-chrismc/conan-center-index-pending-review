@@ -4480,35 +4480,6 @@
       }
    },
    {
-      "Number": 21044,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-11-10T12:24:18Z",
-      "Recipe": "coin-cgl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21044",
-      "LastCommitSHA": "014a045afc20d8d5bcf7885794e0eb4c543e2e91",
-      "LastCommitAt": "2023-11-10T12:03:57Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-10T13:21:40Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21044#pullrequestreview-1724766846"
-         }
-      }
-   },
-   {
       "Number": 21049,
       "OpenedBy": "Bronek",
       "CreatedAt": "2023-11-10T12:37:17Z",
@@ -4728,7 +4699,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21071",
       "LastCommitSHA": "9dcee1575b868ef76e5dfa6dece1c2bb39af1b81",
       "LastCommitAt": "2023-11-11T17:10:24Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
