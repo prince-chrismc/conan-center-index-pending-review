@@ -154,7 +154,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20953](https://github.com/conan-io/conan-center-index/pull/20953)|[jwillikers](https://github.com/jwillikers)|Nov 6|:new: mesa-glu|M|0|||
 [#20955](https://github.com/conan-io/conan-center-index/pull/20955)|[Nekto89](https://github.com/Nekto89)|Nov 6|:memo: onnxruntime|:blue_square: S|1|Nov 10||jwillikers
 [#20956](https://github.com/conan-io/conan-center-index/pull/20956)|[toge](https://github.com/toge)|Nov 6|:stopwatch: scnlib|M|1|Nov 10||jwillikers
-[#20959](https://github.com/conan-io/conan-center-index/pull/20959)|[MangaD](https://github.com/MangaD)|Nov 6|:stopwatch: argparse|:green_circle: XS|2|Nov 10||jwillikers
 [#20962](https://github.com/conan-io/conan-center-index/pull/20962)|[valgur](https://github.com/valgur)|Nov 6|:new: libdicom|M|1|Nov 10||jwillikers
 [#20967](https://github.com/conan-io/conan-center-index/pull/20967)|[toge](https://github.com/toge)|Nov 7|:memo: libuv|M|1|Nov 10||jwillikers
 [#20969](https://github.com/conan-io/conan-center-index/pull/20969)|[petermbauer](https://github.com/petermbauer)|Nov 7|:memo: qt|:green_circle: XS|1|Nov 8||ericLemanissier
@@ -200,6 +199,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21062](https://github.com/conan-io/conan-center-index/pull/21062)|[toge](https://github.com/toge)|Nov 11|:stopwatch: uwebsockets|:green_circle: XS|0|||
 [#21063](https://github.com/conan-io/conan-center-index/pull/21063)|[toge](https://github.com/toge)|Nov 11|:stopwatch: libmaxminddb|:green_circle: XS|0|||
 [#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:stopwatch: tinyalsa|L|0|||
+[#21065](https://github.com/conan-io/conan-center-index/pull/21065)|[igormironchik](https://github.com/igormironchik)|Nov 11|:stopwatch: md4qt|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -226,9 +226,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 506
+	- Open: 507
 	- Draft: 52
-	- Average Age: 94 days, 12 hours, and 47.45 minutes
+	- Average Age: 94 days, 9 hours, and 19.62 minutes
 	- Stop Label: 242
 	
 
