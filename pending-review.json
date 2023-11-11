@@ -4682,25 +4682,6 @@
       }
    },
    {
-      "Number": 21058,
-      "OpenedBy": "upsj",
-      "CreatedAt": "2023-11-10T20:39:48Z",
-      "Recipe": "ginkgo",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21058",
-      "LastCommitSHA": "5bd529883db47dc0911875ec15ec828dad2d24c1",
-      "LastCommitAt": "2023-11-10T20:27:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21060,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-10T21:13:56Z",
