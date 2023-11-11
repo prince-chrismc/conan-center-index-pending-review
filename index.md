@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **174** pull requests currently under way :detective:
+There are **173** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -191,7 +191,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21047](https://github.com/conan-io/conan-center-index/pull/21047)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: sdbus-cpp|:green_circle: XS|1|Nov 10||jwillikers
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:stopwatch: rocksdb|:blue_square: S|0|||
 [#21050](https://github.com/conan-io/conan-center-index/pull/21050)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:gear: linter|:green_circle: XS|1|Nov 10||jwillikers
-[#21051](https://github.com/conan-io/conan-center-index/pull/21051)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: zbar|:green_circle: XS|1|Nov 10||jwillikers
 [#21053](https://github.com/conan-io/conan-center-index/pull/21053)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-utils|:green_circle: XS|1|Nov 10||jwillikers
 [#21054](https://github.com/conan-io/conan-center-index/pull/21054)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 10|:stopwatch: emsdk|:blue_square: S|0|||
 [#21056](https://github.com/conan-io/conan-center-index/pull/21056)|[toge](https://github.com/toge)|Nov 10|:stopwatch: xsimd|:green_circle: XS|0|||
@@ -229,8 +228,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 506
 	- Draft: 52
-	- Average Age: 94 days, 6 hours, and 29.82 minutes
-	- Stop Label: 241
+	- Average Age: 94 days, 6 hours, and 53.65 minutes
+	- Stop Label: 242
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
