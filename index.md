@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -145,7 +145,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20888](https://github.com/conan-io/conan-center-index/pull/20888)|[SSE4](https://github.com/SSE4)|Nov 2|:memo: fftw|L|2|Nov 7||
 [#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|1|Nov 6||jwillikers
 [#20899](https://github.com/conan-io/conan-center-index/pull/20899)|[SpaceIm](https://github.com/SpaceIm)|Nov 2|:memo: vulkan-loader|L|5|Nov 9||jwillikers, [juan-lunarg](https://github.com/juan-lunarg)
-[#20905](https://github.com/conan-io/conan-center-index/pull/20905)|[jwillikers](https://github.com/jwillikers)|Nov 2|:memo: freeglut|XL|0|||
+[#20905](https://github.com/conan-io/conan-center-index/pull/20905)|[jwillikers](https://github.com/jwillikers)|Nov 2|:memo: freeglut|XL|0|:eyes:||
 [#20911](https://github.com/conan-io/conan-center-index/pull/20911)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: tcl|M|1|Nov 6||jwillikers
 [#20913](https://github.com/conan-io/conan-center-index/pull/20913)|[jwillikers](https://github.com/jwillikers)|Nov 3|:memo: glfw|L|0|:eyes:||
 [#20920](https://github.com/conan-io/conan-center-index/pull/20920)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: duckdb|:blue_square: S|1|Nov 6||jwillikers
@@ -195,6 +195,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21063](https://github.com/conan-io/conan-center-index/pull/21063)|[toge](https://github.com/toge)|Nov 11|:stopwatch: libmaxminddb|:green_circle: XS|0|||
 [#21066](https://github.com/conan-io/conan-center-index/pull/21066)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:stopwatch: serf|:green_circle: XS|0|||
 [#21067](https://github.com/conan-io/conan-center-index/pull/21067)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:stopwatch: zyre|:blue_square: S|0|||
+[#21071](https://github.com/conan-io/conan-center-index/pull/21071)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: opene57|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -221,9 +222,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 505
+	- Open: 506
 	- Draft: 53
-	- Average Age: 94 days, 23 hours, and 59.39 minutes
+	- Average Age: 94 days, 20 hours, and 23.88 minutes
 	- Stop Label: 245
 	
 
