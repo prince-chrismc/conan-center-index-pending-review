@@ -2337,6 +2337,25 @@
       }
    },
    {
+      "Number": 20355,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-10-04T20:07:25Z",
+      "Recipe": "ncurses",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20355",
+      "LastCommitSHA": "33c136320809daa882766f6f8a39b4fb1d1bd218",
+      "LastCommitAt": "2023-11-10T15:18:31Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20369,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-10-05T11:04:45Z",
@@ -4451,35 +4470,6 @@
       }
    },
    {
-      "Number": 21043,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-11-10T12:23:21Z",
-      "Recipe": "sentry-breakpad",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21043",
-      "LastCommitSHA": "a49dbc8fad44c355691c60a2f8e5adc17acd6a91",
-      "LastCommitAt": "2023-09-12T08:45:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-10T13:21:33Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21043#pullrequestreview-1724766667"
-         }
-      }
-   },
-   {
       "Number": 21049,
       "OpenedBy": "Bronek",
       "CreatedAt": "2023-11-10T12:37:17Z",
@@ -4642,25 +4632,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21066",
       "LastCommitSHA": "3bb83b3a74cd0d614fa661a78ae62671fdcaf185",
       "LastCommitAt": "2023-11-11T10:42:31Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21067,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-11T10:59:01Z",
-      "Recipe": "zyre",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21067",
-      "LastCommitSHA": "213cfe943e5fb562cafc3ad465122f11e1b6f4f6",
-      "LastCommitAt": "2023-11-11T10:55:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
