@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **173** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -197,7 +197,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21056](https://github.com/conan-io/conan-center-index/pull/21056)|[toge](https://github.com/toge)|Nov 10|:stopwatch: xsimd|:green_circle: XS|0|||
 [#21057](https://github.com/conan-io/conan-center-index/pull/21057)|[raulcd](https://github.com/raulcd)|Nov 10|:stopwatch: arrow|:green_circle: XS|0|||
 [#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:stopwatch: ginkgo|L|0|||
-[#21059](https://github.com/conan-io/conan-center-index/pull/21059)|[valgur](https://github.com/valgur)|Nov 10|:stopwatch: vulkan-utility-libraries|L|0|||
 [#21060](https://github.com/conan-io/conan-center-index/pull/21060)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: libavif|:blue_square: S|0|||
 [#21061](https://github.com/conan-io/conan-center-index/pull/21061)|[Ahajha](https://github.com/Ahajha)|Nov 10|:stopwatch: liburing|L|0|||
 
@@ -228,8 +227,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 504
 	- Draft: 52
-	- Average Age: 94 days, 13 hours, and 26.14 minutes
-	- Stop Label: 240
+	- Average Age: 94 days, 14 hours, and 25.52 minutes
+	- Stop Label: 241
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
