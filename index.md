@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **171** pull requests currently under way :detective:
+There are **170** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -192,7 +192,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21053](https://github.com/conan-io/conan-center-index/pull/21053)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-utils|:green_circle: XS|1|Nov 10||jwillikers
 [#21056](https://github.com/conan-io/conan-center-index/pull/21056)|[toge](https://github.com/toge)|Nov 10|:stopwatch: xsimd|:green_circle: XS|0|||
 [#21057](https://github.com/conan-io/conan-center-index/pull/21057)|[raulcd](https://github.com/raulcd)|Nov 10|:stopwatch: arrow|:green_circle: XS|0|||
-[#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:stopwatch: ginkgo|L|0|||
 [#21060](https://github.com/conan-io/conan-center-index/pull/21060)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: libavif|:blue_square: S|0|||
 [#21062](https://github.com/conan-io/conan-center-index/pull/21062)|[toge](https://github.com/toge)|Nov 11|:stopwatch: uwebsockets|:green_circle: XS|0|||
 [#21063](https://github.com/conan-io/conan-center-index/pull/21063)|[toge](https://github.com/toge)|Nov 11|:stopwatch: libmaxminddb|:green_circle: XS|0|||
@@ -226,8 +225,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 507
 	- Draft: 52
-	- Average Age: 94 days, 13 hours, and 2.51 minutes
-	- Stop Label: 244
+	- Average Age: 94 days, 14 hours, and 3.59 minutes
+	- Stop Label: 245
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
