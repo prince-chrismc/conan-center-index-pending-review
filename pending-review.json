@@ -4644,25 +4644,6 @@
       }
    },
    {
-      "Number": 21054,
-      "OpenedBy": "fpelliccioni",
-      "CreatedAt": "2023-11-10T15:36:17Z",
-      "Recipe": "emsdk",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21054",
-      "LastCommitSHA": "1fe9e5ea89694a5b19c89b88a1bf1024234e68c8",
-      "LastCommitAt": "2023-11-10T15:35:30Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21056,
       "OpenedBy": "toge",
       "CreatedAt": "2023-11-10T17:07:03Z",
@@ -4767,44 +4748,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21063",
       "LastCommitSHA": "84d292305ca26c773973e962ed8c82c66c57ba97",
       "LastCommitAt": "2023-11-11T02:32:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21064,
-      "OpenedBy": "Ahajha",
-      "CreatedAt": "2023-11-11T04:16:19Z",
-      "Recipe": "tinyalsa",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21064",
-      "LastCommitSHA": "e98910c010040e527fa667e02d0097fb44c9fde0",
-      "LastCommitAt": "2023-11-11T04:15:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21065,
-      "OpenedBy": "igormironchik",
-      "CreatedAt": "2023-11-11T09:38:39Z",
-      "Recipe": "md4qt",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21065",
-      "LastCommitSHA": "12c0e9d4e07adfc21905277ace2676971009c638",
-      "LastCommitAt": "2023-11-11T09:37:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
