@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **174** pull requests currently under way :detective:
+There are **173** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -187,7 +187,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21042](https://github.com/conan-io/conan-center-index/pull/21042)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: ffmpeg|:green_circle: XS|1|Nov 10||jwillikers
 [#21043](https://github.com/conan-io/conan-center-index/pull/21043)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: sentry-breakpad|:green_circle: XS|1|Nov 10||jwillikers
 [#21044](https://github.com/conan-io/conan-center-index/pull/21044)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-cgl|:green_circle: XS|1|Nov 10||jwillikers
-[#21045](https://github.com/conan-io/conan-center-index/pull/21045)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: aws-kvs-pic|:green_circle: XS|1|Nov 10||jwillikers
 [#21047](https://github.com/conan-io/conan-center-index/pull/21047)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: sdbus-cpp|:green_circle: XS|1|Nov 10||jwillikers
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:stopwatch: rocksdb|:blue_square: S|0|||
 [#21050](https://github.com/conan-io/conan-center-index/pull/21050)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:gear: linter|:green_circle: XS|1|Nov 10||jwillikers
@@ -229,7 +228,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 507
 	- Draft: 52
-	- Average Age: 94 days, 3 hours, and 25.31 minutes
+	- Average Age: 94 days, 7 hours, and 24.48 minutes
 	- Stop Label: 242
 	
 
