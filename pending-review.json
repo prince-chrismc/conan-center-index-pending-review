@@ -4807,25 +4807,6 @@
       }
    },
    {
-      "Number": 21059,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-10T21:06:35Z",
-      "Recipe": "vulkan-utility-libraries",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21059",
-      "LastCommitSHA": "3105641e4d69c31b7df1fc433dae5585d278fc41",
-      "LastCommitAt": "2023-11-10T21:06:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21060,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-10T21:13:56Z",
