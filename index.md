@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **170** pull requests currently under way :detective:
+There are **168** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -182,11 +182,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21032](https://github.com/conan-io/conan-center-index/pull/21032)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: alembic|:blue_square: S|1|Nov 10||jwillikers
 [#21036](https://github.com/conan-io/conan-center-index/pull/21036)|[toge](https://github.com/toge)|Nov 10|:memo: blend2d|M|0|||
 [#21040](https://github.com/conan-io/conan-center-index/pull/21040)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: hidapi|:green_circle: XS|1|Nov 10||jwillikers
-[#21041](https://github.com/conan-io/conan-center-index/pull/21041)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: libcap|:green_circle: XS|1|Nov 10||jwillikers
 [#21042](https://github.com/conan-io/conan-center-index/pull/21042)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: ffmpeg|:green_circle: XS|1|Nov 10||jwillikers
 [#21043](https://github.com/conan-io/conan-center-index/pull/21043)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: sentry-breakpad|:green_circle: XS|1|Nov 10||jwillikers
 [#21044](https://github.com/conan-io/conan-center-index/pull/21044)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-cgl|:green_circle: XS|1|Nov 10||jwillikers
-[#21047](https://github.com/conan-io/conan-center-index/pull/21047)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: sdbus-cpp|:green_circle: XS|1|Nov 10||jwillikers
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:stopwatch: rocksdb|:blue_square: S|0|||
 [#21050](https://github.com/conan-io/conan-center-index/pull/21050)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:gear: linter|:green_circle: XS|1|Nov 10||jwillikers
 [#21053](https://github.com/conan-io/conan-center-index/pull/21053)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-utils|:green_circle: XS|1|Nov 10||jwillikers
@@ -223,9 +221,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 507
-	- Draft: 52
-	- Average Age: 94 days, 14 hours, and 3.59 minutes
+	- Open: 505
+	- Draft: 53
+	- Average Age: 94 days, 23 hours, and 59.39 minutes
 	- Stop Label: 245
 	
 
