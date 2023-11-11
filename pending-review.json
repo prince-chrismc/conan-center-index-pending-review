@@ -4567,35 +4567,6 @@
       }
    },
    {
-      "Number": 21045,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-11-10T12:24:43Z",
-      "Recipe": "aws-kvs-pic",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21045",
-      "LastCommitSHA": "29b6e7dc53a54acaee2034963252a0832c93be86",
-      "LastCommitAt": "2023-11-10T12:03:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-10T17:43:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21045#pullrequestreview-1725269877"
-         }
-      }
-   },
-   {
       "Number": 21047,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-11-10T12:26:15Z",
