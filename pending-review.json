@@ -4665,43 +4665,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 21081,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-12T20:08:22Z",
-      "Recipe": "libjpeg-turbo",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21081",
-      "LastCommitSHA": "7e088a938395d874caa4f21ed830c053ac6e916c",
-      "LastCommitAt": "2023-11-12T20:08:01Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21083,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-12T20:17:13Z",
-      "Recipe": "ezc3d",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21083",
-      "LastCommitSHA": "86f3ad9451f05dbe79e4e28684c1916f033496c2",
-      "LastCommitAt": "2023-11-12T20:16:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
