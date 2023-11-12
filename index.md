@@ -23,13 +23,14 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **165** pull requests currently under way :detective:
+There are **166** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
 [#16372](https://github.com/conan-io/conan-center-index/pull/16372)|[Jihadist](https://github.com/Jihadist)|Mar 3|:new: dnet|M|2|Jun 21 :bell:|memsharded|
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:stopwatch: log4cxx|XL|20|Aug 28 :bell:||
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|4|Aug 10 :bell:||[Hopobcn](https://github.com/Hopobcn)
+[#17186](https://github.com/conan-io/conan-center-index/pull/17186)|[SpaceIm](https://github.com/SpaceIm)|Apr 24|:memo: rocksdb|L|4|Oct 20 :bell:|RubenRBS|
 [#17246](https://github.com/conan-io/conan-center-index/pull/17246)|[wadehunk](https://github.com/wadehunk)|Apr 26|:memo: cyclonedds|M|1|Nov 10||**danimtb**
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|5|May 20 :bell:|jcar87|jwillikers, prince-chrismc, SSE4
 [#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:memo: paho-mqtt-c|:green_circle: XS|0|:eyes:||
@@ -97,7 +98,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20 :bell:||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
 [#19964](https://github.com/conan-io/conan-center-index/pull/19964)|[coryan](https://github.com/coryan)|Sep 19|:memo: google-cloud-cpp|L|0|:eyes:||
-[#19979](https://github.com/conan-io/conan-center-index/pull/19979)|[valgur](https://github.com/valgur)|Sep 20|:stopwatch: spirv-tools|M|1|Nov 7||
+[#19979](https://github.com/conan-io/conan-center-index/pull/19979)|[valgur](https://github.com/valgur)|Sep 20|:memo: spirv-tools|M|1|Nov 7||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|1|Oct 2 :bell:||[valgur](https://github.com/valgur)
 [#20173](https://github.com/conan-io/conan-center-index/pull/20173)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|L|0|:eyes:||
 [#20256](https://github.com/conan-io/conan-center-index/pull/20256)|[joakimono](https://github.com/joakimono)|Oct 2|:new: fmilib|XL|5|Nov 2||
@@ -217,10 +218,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 501
+	- Open: 499
 	- Draft: 53
-	- Average Age: 96 days, 6 hours, and 14.38 minutes
-	- Stop Label: 243
+	- Average Age: 96 days, 16 hours, and 33.29 minutes
+	- Stop Label: 242
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
