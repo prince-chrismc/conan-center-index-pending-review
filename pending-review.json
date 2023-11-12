@@ -4676,7 +4676,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21081",
       "LastCommitSHA": "7e088a938395d874caa4f21ed830c053ac6e916c",
       "LastCommitAt": "2023-11-12T20:08:01Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4695,7 +4695,64 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21082",
       "LastCommitSHA": "c608c5e5935e2efa36d68b4223be78391d583045",
       "LastCommitAt": "2023-11-12T20:12:56Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21083,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-12T20:17:13Z",
+      "Recipe": "ezc3d",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21083",
+      "LastCommitSHA": "86f3ad9451f05dbe79e4e28684c1916f033496c2",
+      "LastCommitAt": "2023-11-12T20:16:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21084,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-12T20:34:20Z",
+      "Recipe": "roaring",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21084",
+      "LastCommitSHA": "b2d2ce2631e13ab99c7dd41158406fd66e69b22b",
+      "LastCommitAt": "2023-11-12T20:33:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21085,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-12T20:50:32Z",
+      "Recipe": "msdfgen",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21085",
+      "LastCommitSHA": "f5a9f5a0a1381e7ed3a09aa5c82fff05c07996b9",
+      "LastCommitAt": "2023-11-12T20:54:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
