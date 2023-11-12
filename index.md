@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **169** pull requests currently under way :detective:
+There are **168** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -49,7 +49,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18654](https://github.com/conan-io/conan-center-index/pull/18654)|[valgur](https://github.com/valgur)|Jul 19|:memo: directshowbaseclasses|L|1|Nov 9||jwillikers
 [#18657](https://github.com/conan-io/conan-center-index/pull/18657)|[valgur](https://github.com/valgur)|Jul 19|:memo: huffman|L|1|Nov 9||jwillikers
 [#18681](https://github.com/conan-io/conan-center-index/pull/18681)|[valgur](https://github.com/valgur)|Jul 19|:memo: libelfin|L|1|Nov 9||jwillikers
-[#18729](https://github.com/conan-io/conan-center-index/pull/18729)|[valgur](https://github.com/valgur)|Jul 20|:memo: libusb-compat|L|1|Nov 9||jwillikers
+[#18729](https://github.com/conan-io/conan-center-index/pull/18729)|[valgur](https://github.com/valgur)|Jul 20|:memo: libusb-compat|L|2|Nov 12||jwillikers, toge
 [#18736](https://github.com/conan-io/conan-center-index/pull/18736)|[valgur](https://github.com/valgur)|Jul 20|:memo: djinni-support-lib|XL|0|:eyes:||
 [#18749](https://github.com/conan-io/conan-center-index/pull/18749)|[valgur](https://github.com/valgur)|Jul 20|:memo: open-simulation-interface|L|1|Nov 9||jwillikers
 [#18759](https://github.com/conan-io/conan-center-index/pull/18759)|[valgur](https://github.com/valgur)|Jul 20|:memo: lightgbm|L|3|Nov 6||jwillikers
@@ -195,7 +195,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21067](https://github.com/conan-io/conan-center-index/pull/21067)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: zyre|M|0|||
 [#21071](https://github.com/conan-io/conan-center-index/pull/21071)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: opene57|:blue_square: S|0|||
 [#21078](https://github.com/conan-io/conan-center-index/pull/21078)|[mayeut](https://github.com/mayeut)|Nov 12|:memo: wil|:green_circle: XS|0|||
-[#21079](https://github.com/conan-io/conan-center-index/pull/21079)|[valgur](https://github.com/valgur)|Nov 12|:stopwatch: nodejs|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -221,10 +220,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 501
+	- Open: 502
 	- Draft: 52
-	- Average Age: 96 days, 16 hours, and 6.36 minutes
-	- Stop Label: 242
+	- Average Age: 96 days, 12 hours, and 32.16 minutes
+	- Stop Label: 244
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
