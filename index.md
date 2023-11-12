@@ -182,17 +182,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21031](https://github.com/conan-io/conan-center-index/pull/21031)|[SpaceIm](https://github.com/SpaceIm)|Nov 9|:memo: clhep|M|1|Nov 10||jwillikers
 [#21032](https://github.com/conan-io/conan-center-index/pull/21032)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: alembic|:blue_square: S|1|Nov 10||jwillikers
 [#21036](https://github.com/conan-io/conan-center-index/pull/21036)|[toge](https://github.com/toge)|Nov 10|:memo: blend2d|M|0|||
+[#21037](https://github.com/conan-io/conan-center-index/pull/21037)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: qt|:blue_square: S|1|Nov 10||
 [#21042](https://github.com/conan-io/conan-center-index/pull/21042)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: ffmpeg|:green_circle: XS|1|Nov 10||jwillikers
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:stopwatch: rocksdb|:blue_square: S|0|||
 [#21050](https://github.com/conan-io/conan-center-index/pull/21050)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:gear: linter|:green_circle: XS|1|Nov 10||jwillikers
-[#21053](https://github.com/conan-io/conan-center-index/pull/21053)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: coin-utils|:green_circle: XS|1|Nov 10||jwillikers
 [#21056](https://github.com/conan-io/conan-center-index/pull/21056)|[toge](https://github.com/toge)|Nov 10|:stopwatch: xsimd|:green_circle: XS|0|||
 [#21057](https://github.com/conan-io/conan-center-index/pull/21057)|[raulcd](https://github.com/raulcd)|Nov 10|:stopwatch: arrow|:green_circle: XS|0|||
 [#21060](https://github.com/conan-io/conan-center-index/pull/21060)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: libavif|:blue_square: S|0|||
 [#21062](https://github.com/conan-io/conan-center-index/pull/21062)|[toge](https://github.com/toge)|Nov 11|:stopwatch: uwebsockets|:green_circle: XS|0|||
+[#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:memo: tinyalsa|L|0|||
 [#21066](https://github.com/conan-io/conan-center-index/pull/21066)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: serf|:green_circle: XS|0|||
 [#21071](https://github.com/conan-io/conan-center-index/pull/21071)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:stopwatch: opene57|:blue_square: S|0|||
-[#21072](https://github.com/conan-io/conan-center-index/pull/21072)|[mayeut](https://github.com/mayeut)|Nov 11|:stopwatch: onnxruntime|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -218,10 +218,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 504
-	- Draft: 54
-	- Average Age: 95 days, 10 hours, and 46.51 minutes
-	- Stop Label: 246
+	- Open: 503
+	- Draft: 53
+	- Average Age: 95 days, 16 hours, and 57.48 minutes
+	- Stop Label: 245
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
