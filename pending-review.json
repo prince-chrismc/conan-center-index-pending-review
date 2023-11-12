@@ -4480,25 +4480,6 @@
       }
    },
    {
-      "Number": 21056,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-10T17:07:03Z",
-      "Recipe": "xsimd",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21056",
-      "LastCommitSHA": "d3637c561bdea5279ca18114468a2a4271633ff2",
-      "LastCommitAt": "2023-11-12T02:14:21Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21060,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-10T21:13:56Z",
@@ -4528,25 +4509,6 @@
       "LastCommitSHA": "dd406f598bd2f04d67acbbac246454015e86c2d7",
       "LastCommitAt": "2023-11-12T00:27:41Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21062,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-11T02:29:14Z",
-      "Recipe": "uwebsockets",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21062",
-      "LastCommitSHA": "54e688ab6b22fb77b135553623e8c130fca67cee",
-      "LastCommitAt": "2023-11-12T03:30:58Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4622,44 +4584,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21071",
       "LastCommitSHA": "9dcee1575b868ef76e5dfa6dece1c2bb39af1b81",
       "LastCommitAt": "2023-11-11T17:10:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21074,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-12T02:14:01Z",
-      "Recipe": "c-blosc2",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21074",
-      "LastCommitSHA": "80a82d2db69afb473bf9adaf3bb57af1527ec3ca",
-      "LastCommitAt": "2023-11-12T02:13:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21075,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-12T03:34:16Z",
-      "Recipe": "luau",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21075",
-      "LastCommitSHA": "ac76309d4a82103b601405906211727eb349bed9",
-      "LastCommitAt": "2023-11-12T03:33:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
