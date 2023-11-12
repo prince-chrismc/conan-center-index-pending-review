@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **170** pull requests currently under way :detective:
+There are **173** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -195,8 +195,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21067](https://github.com/conan-io/conan-center-index/pull/21067)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: zyre|M|0|||
 [#21071](https://github.com/conan-io/conan-center-index/pull/21071)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: opene57|:blue_square: S|0|||
 [#21078](https://github.com/conan-io/conan-center-index/pull/21078)|[mayeut](https://github.com/mayeut)|Nov 12|:memo: wil|:green_circle: XS|0|||
-[#21081](https://github.com/conan-io/conan-center-index/pull/21081)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: libjpeg-turbo|:green_circle: XS|0|||
-[#21082](https://github.com/conan-io/conan-center-index/pull/21082)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: flecs|:green_circle: XS|0|||
+[#21081](https://github.com/conan-io/conan-center-index/pull/21081)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:stopwatch: libjpeg-turbo|:green_circle: XS|0|||
+[#21082](https://github.com/conan-io/conan-center-index/pull/21082)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:stopwatch: flecs|:green_circle: XS|0|||
+[#21083](https://github.com/conan-io/conan-center-index/pull/21083)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:stopwatch: ezc3d|:green_circle: XS|0|||
+[#21084](https://github.com/conan-io/conan-center-index/pull/21084)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:stopwatch: roaring|:green_circle: XS|0|||
+[#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:stopwatch: msdfgen|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -222,9 +225,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 503
+	- Open: 506
 	- Draft: 52
-	- Average Age: 96 days, 11 hours, and 51.57 minutes
+	- Average Age: 95 days, 23 hours, and 5.37 minutes
 	- Stop Label: 243
 	
 
