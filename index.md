@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -177,7 +177,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21022](https://github.com/conan-io/conan-center-index/pull/21022)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 9|:memo: aws-c-io|:blue_square: S|1|Nov 9||jwillikers
 [#21023](https://github.com/conan-io/conan-center-index/pull/21023)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 9|:memo: aws-c-cal|:blue_square: S|1|Nov 9||jwillikers
 [#21024](https://github.com/conan-io/conan-center-index/pull/21024)|[ngrodzitski](https://github.com/ngrodzitski)|Nov 9|:memo: llhttp|:blue_square: S|0|||
-[#21026](https://github.com/conan-io/conan-center-index/pull/21026)|[wdobbe](https://github.com/wdobbe)|Nov 9|:stopwatch: qt|M|2|Nov 9||jwillikers
+[#21026](https://github.com/conan-io/conan-center-index/pull/21026)|[wdobbe](https://github.com/wdobbe)|Nov 9|:memo: qt|M|2|Nov 9||jwillikers
 [#21027](https://github.com/conan-io/conan-center-index/pull/21027)|[toge](https://github.com/toge)|Nov 9|:memo: commata|:green_circle: XS|1|Nov 10||jwillikers
 [#21031](https://github.com/conan-io/conan-center-index/pull/21031)|[SpaceIm](https://github.com/SpaceIm)|Nov 9|:memo: clhep|M|1|Nov 10||jwillikers
 [#21032](https://github.com/conan-io/conan-center-index/pull/21032)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: alembic|:blue_square: S|1|Nov 10||jwillikers
@@ -195,6 +195,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21067](https://github.com/conan-io/conan-center-index/pull/21067)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: zyre|M|0|||
 [#21071](https://github.com/conan-io/conan-center-index/pull/21071)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:stopwatch: opene57|:blue_square: S|0|||
 [#21074](https://github.com/conan-io/conan-center-index/pull/21074)|[toge](https://github.com/toge)|Nov 12|:stopwatch: c-blosc2|:green_circle: XS|0|||
+[#21075](https://github.com/conan-io/conan-center-index/pull/21075)|[toge](https://github.com/toge)|Nov 12|:stopwatch: luau|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -222,7 +223,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 503
 	- Draft: 53
-	- Average Age: 95 days, 19 hours, and 12.47 minutes
+	- Average Age: 95 days, 20 hours, and 13.07 minutes
 	- Stop Label: 243
 	
 
