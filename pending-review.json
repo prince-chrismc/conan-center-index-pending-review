@@ -4594,6 +4594,25 @@
       }
    },
    {
+      "Number": 21067,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-11T10:59:01Z",
+      "Recipe": "zyre",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21067",
+      "LastCommitSHA": "235829e5cfc1d0ae6f7a9304fb48957c24222a6d",
+      "LastCommitAt": "2023-11-11T23:31:10Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21071,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-11T17:11:05Z",
