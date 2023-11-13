@@ -184,7 +184,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21031](https://github.com/conan-io/conan-center-index/pull/21031)|[SpaceIm](https://github.com/SpaceIm)|Nov 9|:memo: clhep|M|1|Nov 10||jwillikers
 [#21032](https://github.com/conan-io/conan-center-index/pull/21032)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: alembic|:blue_square: S|1|Nov 10||jwillikers
 [#21036](https://github.com/conan-io/conan-center-index/pull/21036)|[toge](https://github.com/toge)|Nov 10|:memo: blend2d|M|0|||
-[#21037](https://github.com/conan-io/conan-center-index/pull/21037)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:stopwatch: qt|:blue_square: S|1|Nov 10||
+[#21037](https://github.com/conan-io/conan-center-index/pull/21037)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:memo: qt|:blue_square: S|1|Nov 10||
 [#21042](https://github.com/conan-io/conan-center-index/pull/21042)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:stopwatch: ffmpeg|:green_circle: XS|1|Nov 10||jwillikers
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:stopwatch: rocksdb|:blue_square: S|0|||
 [#21050](https://github.com/conan-io/conan-center-index/pull/21050)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:gear: linter|:green_circle: XS|1|Nov 10||jwillikers
@@ -222,7 +222,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 502
 	- Draft: 52
-	- Average Age: 96 days, 19 hours, and 28.45 minutes
+	- Average Age: 96 days, 23 hours, and 29.85 minutes
 	- Stop Label: 244
 	
 
