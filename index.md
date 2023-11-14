@@ -60,7 +60,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18938](https://github.com/conan-io/conan-center-index/pull/18938)|[valgur](https://github.com/valgur)|Jul 28|:memo: makefile-project-workspace-creator|M|2|Nov 13||jwillikers
 [#18947](https://github.com/conan-io/conan-center-index/pull/18947)|[valgur](https://github.com/valgur)|Jul 28|:memo: libest|L|1|Nov 8||
 [#18952](https://github.com/conan-io/conan-center-index/pull/18952)|[valgur](https://github.com/valgur)|Jul 28|:memo: ofeli|L|1|Nov 6||
-[#18959](https://github.com/conan-io/conan-center-index/pull/18959)|[valgur](https://github.com/valgur)|Jul 28|:stopwatch: pciutils|L|2|Nov 14||
+[#18959](https://github.com/conan-io/conan-center-index/pull/18959)|[valgur](https://github.com/valgur)|Jul 28|:memo: pciutils|L|2|Nov 14||
 [#18982](https://github.com/conan-io/conan-center-index/pull/18982)|[valgur](https://github.com/valgur)|Jul 31|:memo: depot_tools|L|1|Oct 3 :bell:||
 [#18983](https://github.com/conan-io/conan-center-index/pull/18983)|[fabiorossetto](https://github.com/fabiorossetto)|Jul 31|:stopwatch: capnproto|:green_circle: XS|0|:eyes:||
 [#19031](https://github.com/conan-io/conan-center-index/pull/19031)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openssh|M|5|Oct 6 :bell:||
@@ -144,10 +144,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21066](https://github.com/conan-io/conan-center-index/pull/21066)|[SpaceIm](https://github.com/SpaceIm)|Nov 11|:memo: serf|:green_circle: XS|1|Nov 13||jwillikers
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|0|||
 [#21097](https://github.com/conan-io/conan-center-index/pull/21097)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 13|:memo: tsil|:blue_square: S|2|Nov 13||jwillikers
+[#21098](https://github.com/conan-io/conan-center-index/pull/21098)|[ngrodzitski](https://github.com/ngrodzitski)|Nov 13|:stopwatch: restinio|M|2|Nov 14||
 [#21110](https://github.com/conan-io/conan-center-index/pull/21110)|[toge](https://github.com/toge)|Nov 14|:memo: magic_enum|M|1|Nov 14||jwillikers
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14||jwillikers
 [#21120](https://github.com/conan-io/conan-center-index/pull/21120)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 14|:stopwatch: libnice|:green_circle: XS|1|Nov 14||jwillikers
-[#21124](https://github.com/conan-io/conan-center-index/pull/21124)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 14|:stopwatch: libxshmfence|:green_circle: XS|1|Nov 14||jwillikers
 [#21125](https://github.com/conan-io/conan-center-index/pull/21125)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 14|:stopwatch: pupnp|:green_circle: XS|1|Nov 14||jwillikers
 [#21130](https://github.com/conan-io/conan-center-index/pull/21130)|[valgur](https://github.com/valgur)|Nov 14|:stopwatch: pdfium|L|0|||
 [#21132](https://github.com/conan-io/conan-center-index/pull/21132)|[OndrejSlamecka](https://github.com/OndrejSlamecka)|Nov 14|:stopwatch: certify|:green_circle: XS|0|||
@@ -180,9 +180,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 475
+	- Open: 472
 	- Draft: 53
-	- Average Age: 100 days, 3 hours, and 22.11 minutes
+	- Average Age: 100 days, 19 hours, and 30.98 minutes
 	- Stop Label: 246
 	
 
