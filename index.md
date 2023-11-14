@@ -158,7 +158,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **21** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -172,7 +172,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#20764](https://github.com/conan-io/conan-center-index/pull/20764)|[hegyizs](https://github.com/hegyizs)|Oct 25|:memo: icu|6|SpaceIm, jwillikers, **uilianries**
 [#20955](https://github.com/conan-io/conan-center-index/pull/20955)|[Nekto89](https://github.com/Nekto89)|Nov 6|:warning: onnxruntime|2|jwillikers, **uilianries**
-[#21021](https://github.com/conan-io/conan-center-index/pull/21021)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 9|:memo: libpqxx|2|jwillikers, **RubenRBS**
 [#21022](https://github.com/conan-io/conan-center-index/pull/21022)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 9|:memo: aws-c-io|2|jwillikers, **RubenRBS**
 [#21023](https://github.com/conan-io/conan-center-index/pull/21023)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 9|:memo: aws-c-cal|2|jwillikers, **RubenRBS**
 [#21024](https://github.com/conan-io/conan-center-index/pull/21024)|[ngrodzitski](https://github.com/ngrodzitski)|Nov 9|:memo: llhttp|3|**uilianries**, [gegles](https://github.com/gegles), jwillikers
@@ -192,9 +191,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 479
+	- Open: 478
 	- Draft: 53
-	- Average Age: 99 days, 17 hours, and 15.32 minutes
+	- Average Age: 99 days, 22 hours, and 32.62 minutes
 	- Stop Label: 241
 	
 
