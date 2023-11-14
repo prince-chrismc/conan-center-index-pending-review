@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **127** pull requests currently under way :detective:
+There are **128** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -153,7 +153,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21132](https://github.com/conan-io/conan-center-index/pull/21132)|[OndrejSlamecka](https://github.com/OndrejSlamecka)|Nov 14|:stopwatch: certify|:green_circle: XS|0|||
 [#21133](https://github.com/conan-io/conan-center-index/pull/21133)|[toge](https://github.com/toge)|Nov 14|:stopwatch: scnlib|:green_circle: XS|0|||
 [#21134](https://github.com/conan-io/conan-center-index/pull/21134)|[toge](https://github.com/toge)|Nov 14|:stopwatch: c4core|:green_circle: XS|0|||
-[#21137](https://github.com/conan-io/conan-center-index/pull/21137)|[valgur](https://github.com/valgur)|Nov 14|:stopwatch: gdk-pixbuf|:blue_square: S|0|||
+[#21137](https://github.com/conan-io/conan-center-index/pull/21137)|[valgur](https://github.com/valgur)|Nov 14|:stopwatch: gdk-pixbuf|:blue_square: S|1|Nov 14||jwillikers
+[#21138](https://github.com/conan-io/conan-center-index/pull/21138)|[valgur](https://github.com/valgur)|Nov 14|:stopwatch: openslide|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -180,9 +181,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 475
+	- Open: 476
 	- Draft: 53
-	- Average Age: 100 days, 1 hours, and 24.58 minutes
+	- Average Age: 99 days, 21 hours, and 16.42 minutes
 	- Stop Label: 245
 	
 
