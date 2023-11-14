@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **127** pull requests currently under way :detective:
+There are **126** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -153,12 +153,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21088](https://github.com/conan-io/conan-center-index/pull/21088)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Nov 13|:stopwatch: ffmpeg|:green_circle: XS|1|Nov 13||jwillikers
 [#21097](https://github.com/conan-io/conan-center-index/pull/21097)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 13|:memo: tsil|:blue_square: S|2|Nov 13||jwillikers
 [#21098](https://github.com/conan-io/conan-center-index/pull/21098)|[ngrodzitski](https://github.com/ngrodzitski)|Nov 13|:memo: restinio|L|1|Nov 13||
-[#21104](https://github.com/conan-io/conan-center-index/pull/21104)|[toge](https://github.com/toge)|Nov 14|:stopwatch: minizip-ng|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **17** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -171,8 +170,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#20764](https://github.com/conan-io/conan-center-index/pull/20764)|[hegyizs](https://github.com/hegyizs)|Oct 25|:memo: icu|6|SpaceIm, jwillikers, **uilianries**
-[#21022](https://github.com/conan-io/conan-center-index/pull/21022)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 9|:memo: aws-c-io|2|jwillikers, **RubenRBS**
-[#21023](https://github.com/conan-io/conan-center-index/pull/21023)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 9|:memo: aws-c-cal|2|jwillikers, **RubenRBS**
 [#21024](https://github.com/conan-io/conan-center-index/pull/21024)|[ngrodzitski](https://github.com/ngrodzitski)|Nov 9|:memo: llhttp|3|**uilianries**, [gegles](https://github.com/gegles), jwillikers
 [#21031](https://github.com/conan-io/conan-center-index/pull/21031)|[SpaceIm](https://github.com/SpaceIm)|Nov 9|:memo: clhep|2|jwillikers, **uilianries**
 [#21032](https://github.com/conan-io/conan-center-index/pull/21032)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: alembic|2|jwillikers, **uilianries**
@@ -190,9 +187,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 478
+	- Open: 476
 	- Draft: 53
-	- Average Age: 99 days, 23 hours, and 0.56 minutes
+	- Average Age: 100 days, 9 hours, and 38.21 minutes
 	- Stop Label: 241
 	
 
