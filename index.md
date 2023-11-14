@@ -148,13 +148,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21098](https://github.com/conan-io/conan-center-index/pull/21098)|[ngrodzitski](https://github.com/ngrodzitski)|Nov 13|:stopwatch: restinio|M|2|Nov 14||
 [#21110](https://github.com/conan-io/conan-center-index/pull/21110)|[toge](https://github.com/toge)|Nov 14|:memo: magic_enum|M|1|Nov 14||jwillikers
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14||jwillikers
-[#21120](https://github.com/conan-io/conan-center-index/pull/21120)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 14|:stopwatch: libnice|:green_circle: XS|1|Nov 14||jwillikers
 [#21130](https://github.com/conan-io/conan-center-index/pull/21130)|[valgur](https://github.com/valgur)|Nov 14|:stopwatch: pdfium|L|0|||
 [#21132](https://github.com/conan-io/conan-center-index/pull/21132)|[OndrejSlamecka](https://github.com/OndrejSlamecka)|Nov 14|:stopwatch: certify|:green_circle: XS|0|||
 [#21133](https://github.com/conan-io/conan-center-index/pull/21133)|[toge](https://github.com/toge)|Nov 14|:stopwatch: scnlib|:green_circle: XS|0|||
 [#21134](https://github.com/conan-io/conan-center-index/pull/21134)|[toge](https://github.com/toge)|Nov 14|:stopwatch: c4core|:green_circle: XS|0|||
 [#21137](https://github.com/conan-io/conan-center-index/pull/21137)|[valgur](https://github.com/valgur)|Nov 14|:memo: gdk-pixbuf|:blue_square: S|1|Nov 14||jwillikers
 [#21139](https://github.com/conan-io/conan-center-index/pull/21139)|[valgur](https://github.com/valgur)|Nov 14|:stopwatch: lerc|L|0|||
+[#21140](https://github.com/conan-io/conan-center-index/pull/21140)|[valgur](https://github.com/valgur)|Nov 14|:stopwatch: libtiff|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -181,9 +181,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 470
+	- Open: 469
 	- Draft: 53
-	- Average Age: 101 days, 6 hours, and 47.30 minutes
+	- Average Age: 101 days, 12 hours, and 56.66 minutes
 	- Stop Label: 247
 	
 
