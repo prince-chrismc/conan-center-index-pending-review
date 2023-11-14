@@ -3071,8 +3071,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20969",
-      "LastCommitSHA": "0aad0e0285bda9f8049cf8548d47809a280c6fae",
-      "LastCommitAt": "2023-11-14T13:08:10Z",
+      "LastCommitSHA": "575a5dc205be83670f154b439699412bda0e8a3a",
+      "LastCommitAt": "2023-11-14T18:23:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
@@ -3618,6 +3618,35 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21137",
       "LastCommitSHA": "715061fb868475e09b036eafd5a193fd00678875",
       "LastCommitAt": "2023-11-14T17:00:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-11-14T19:02:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21137#pullrequestreview-1730524824"
+         }
+      }
+   },
+   {
+      "Number": 21138,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-14T18:54:21Z",
+      "Recipe": "openslide",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21138",
+      "LastCommitSHA": "9e0f9b20be5fa0f851fd6f39cb919bf619592ad0",
+      "LastCommitAt": "2023-11-14T18:52:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
