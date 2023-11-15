@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **128** pull requests currently under way :detective:
+There are **129** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -152,14 +152,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21132](https://github.com/conan-io/conan-center-index/pull/21132)|[OndrejSlamecka](https://github.com/OndrejSlamecka)|Nov 14|:stopwatch: certify|:green_circle: XS|0|||
 [#21134](https://github.com/conan-io/conan-center-index/pull/21134)|[toge](https://github.com/toge)|Nov 14|:stopwatch: c4core|:green_circle: XS|0|||
 [#21137](https://github.com/conan-io/conan-center-index/pull/21137)|[valgur](https://github.com/valgur)|Nov 14|:memo: gdk-pixbuf|:blue_square: S|1|Nov 14||jwillikers
-[#21141](https://github.com/conan-io/conan-center-index/pull/21141)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: czmq|:green_circle: XS|0|||
-[#21142](https://github.com/conan-io/conan-center-index/pull/21142)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: libgphoto2|:green_circle: XS|0|||
+[#21142](https://github.com/conan-io/conan-center-index/pull/21142)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: libgphoto2|:green_circle: XS|1|Nov 15||**RubenRBS**
 [#21144](https://github.com/conan-io/conan-center-index/pull/21144)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 15|:stopwatch: onnx|:blue_square: S|0|||
+[#21147](https://github.com/conan-io/conan-center-index/pull/21147)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 15|:stopwatch: llvm-openmp|:green_circle: XS|0|||
+[#21148](https://github.com/conan-io/conan-center-index/pull/21148)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 15|:stopwatch: rangesnext|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -171,7 +172,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#20764](https://github.com/conan-io/conan-center-index/pull/20764)|[hegyizs](https://github.com/hegyizs)|Oct 25|:memo: icu|6|SpaceIm, jwillikers, **uilianries**
-[#21042](https://github.com/conan-io/conan-center-index/pull/21042)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:memo: ffmpeg|4|jwillikers, AndreyMlashkin, [ilya-lavrenov](https://github.com/ilya-lavrenov), **franramirez688**
+[#21042](https://github.com/conan-io/conan-center-index/pull/21042)|[SpaceIm](https://github.com/SpaceIm)|Nov 10|:warning: ffmpeg|5|jwillikers, AndreyMlashkin, [ilya-lavrenov](https://github.com/ilya-lavrenov), **franramirez688**, MartinDelille
+[#21141](https://github.com/conan-io/conan-center-index/pull/21141)|[SpaceIm](https://github.com/SpaceIm)|Nov 15|:memo: czmq|2|**RubenRBS**, **franramirez688**
 
 
 #### :clipboard: Statistics
@@ -180,9 +182,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 465
+	- Open: 467
 	- Draft: 53
-	- Average Age: 102 days, 17 hours, and 51.06 minutes
+	- Average Age: 102 days, 8 hours, and 17.87 minutes
 	- Stop Label: 243
 	
 
