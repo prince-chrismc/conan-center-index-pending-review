@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **129** pull requests currently under way :detective:
+There are **130** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -75,6 +75,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19262](https://github.com/conan-io/conan-center-index/pull/19262)|[valgur](https://github.com/valgur)|Aug 17|:memo: nss|L|2|Nov 9||jwillikers
 [#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:memo: libhal|L|12|Oct 20 :bell:|jcar87|**RubenRBS**, **franramirez688**, **czoido**, **uilianries**
+[#19291](https://github.com/conan-io/conan-center-index/pull/19291)|[valgur](https://github.com/valgur)|Aug 19|:stopwatch: ouster_sdk|L|0|||
 [#19339](https://github.com/conan-io/conan-center-index/pull/19339)|[jwillikers](https://github.com/jwillikers)|Aug 22|:memo: qt|:green_circle: XS|2|Aug 24 :bell:||ericLemanissier, MartinDelille
 [#19490](https://github.com/conan-io/conan-center-index/pull/19490)|[cjbradfield](https://github.com/cjbradfield)|Aug 30|:memo: wolfssl|:green_circle: XS|0|:eyes:||
 [#19496](https://github.com/conan-io/conan-center-index/pull/19496)|[KevDi](https://github.com/KevDi)|Aug 30|:stopwatch: librdkafka|M|0|:eyes:||
@@ -183,8 +184,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 467
 	- Draft: 53
-	- Average Age: 102 days, and 46.44 minutes
-	- Stop Label: 246
+	- Average Age: 102 days, 1 hours, and 33.86 minutes
+	- Stop Label: 244
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
