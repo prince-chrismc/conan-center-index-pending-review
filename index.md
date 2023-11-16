@@ -152,7 +152,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **20** pull requests are waiting to be merged :tada:
+Currently **19** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -161,7 +161,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#18848](https://github.com/conan-io/conan-center-index/pull/18848)|[valgur](https://github.com/valgur)|Jul 23|:warning: mold|3|**uilianries**, jwillikers
 [#18884](https://github.com/conan-io/conan-center-index/pull/18884)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairomm|5|jwillikers, **RubenRBS**
 [#19281](https://github.com/conan-io/conan-center-index/pull/19281)|[toge](https://github.com/toge)|Aug 19|:memo: libhal|12|**RubenRBS**, **franramirez688**, **czoido**, **uilianries**
-[#19339](https://github.com/conan-io/conan-center-index/pull/19339)|[jwillikers](https://github.com/jwillikers)|Aug 22|:warning: qt|3|ericLemanissier, MartinDelille, **RubenRBS**
+[#19339](https://github.com/conan-io/conan-center-index/pull/19339)|[jwillikers](https://github.com/jwillikers)|Aug 22|:warning: qt|4|MartinDelille, **RubenRBS**
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
 [#20072](https://github.com/conan-io/conan-center-index/pull/20072)|[toge](https://github.com/toge)|Sep 21|:warning: libarchive|3|jwillikers, **czoido**, **uilianries**
@@ -174,7 +174,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20953](https://github.com/conan-io/conan-center-index/pull/20953)|[jwillikers](https://github.com/jwillikers)|Nov 6|:new: mesa-glu|5|**uilianries**, **RubenRBS**
 [#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:warning: ginkgo|6|**uilianries**, jwillikers, **RubenRBS**
 [#21159](https://github.com/conan-io/conan-center-index/pull/21159)|[uilianries](https://github.com/uilianries)|Nov 16|:warning: cimg|2|**RubenRBS**, ericLemanissier
-[#21162](https://github.com/conan-io/conan-center-index/pull/21162)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 16|:gear: .c3i|2|**uilianries**, **RubenRBS**
 [#21166](https://github.com/conan-io/conan-center-index/pull/21166)|[RubenRBS](https://github.com/RubenRBS)|Nov 16|:gear: .c3i|2|**uilianries**, jwillikers
 [#21169](https://github.com/conan-io/conan-center-index/pull/21169)|[valgur](https://github.com/valgur)|Nov 16|:warning: coin-utils|2|**RubenRBS**, jwillikers
 
@@ -185,9 +184,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 460
+	- Open: 459
 	- Draft: 51
-	- Average Age: 103 days, 15 hours, and 41.67 minutes
+	- Average Age: 103 days, 22 hours, and 10.82 minutes
 	- Stop Label: 237
 	
 
