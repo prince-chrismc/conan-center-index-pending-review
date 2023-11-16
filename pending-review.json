@@ -2259,6 +2259,39 @@
       }
    },
    {
+      "Number": 20374,
+      "OpenedBy": "FranzPoize",
+      "CreatedAt": "2023-10-05T13:19:00Z",
+      "Recipe": "implot",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20374",
+      "LastCommitSHA": "baa41a649beab4677883c2b6759dd45d7d715a82",
+      "LastCommitAt": "2023-10-26T14:54:26Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-15T14:49:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20374#pullrequestreview-1732209709"
+         }
+      }
+   },
+   {
       "Number": 20388,
       "OpenedBy": "toge",
       "CreatedAt": "2023-10-06T03:57:45Z",
