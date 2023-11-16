@@ -736,6 +736,30 @@
       }
    },
    {
+      "Number": 18861,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-24T05:39:24Z",
+      "Recipe": "pdcurses",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18861",
+      "LastCommitSHA": "6c21030e0133a2d6793aa463c0e3d30248abbc64",
+      "LastCommitAt": "2023-11-16T07:54:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-15T16:20:57Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18861#pullrequestreview-1732423056"
+         }
+      }
+   },
+   {
       "Number": 18862,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-24T06:19:35Z",
@@ -2869,6 +2893,25 @@
       }
    },
    {
+      "Number": 20770,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-10-25T21:46:50Z",
+      "Recipe": "mariadb-connector-c",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20770",
+      "LastCommitSHA": "2a0c973167ca0a3ec9bff37332df34e28adbbb7e",
+      "LastCommitAt": "2023-11-16T04:56:13Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20813,
       "OpenedBy": "AndreyMlashkin",
       "CreatedAt": "2023-10-28T21:23:00Z",
@@ -2970,20 +3013,24 @@
       "LastCommitAt": "2023-11-14T15:37:56Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 6,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 7,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-15T13:38:08Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20888#pullrequestreview-1732051497"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-16T07:49:35Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20888#pullrequestreview-1733710607"
          }
       }
    },
@@ -3131,15 +3178,20 @@
       "LastCommitAt": "2023-11-15T13:15:43Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 3,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
+         "Count": 4,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-11-15T10:24:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20953#pullrequestreview-1731701080"
+            "SubmittedAt": "2023-11-16T08:04:18Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20953#pullrequestreview-1733732485"
          }
       }
    },
@@ -3199,25 +3251,6 @@
             "SubmittedAt": "2023-11-08T18:34:16Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20988#pullrequestreview-1721029716"
          }
-      }
-   },
-   {
-      "Number": 20991,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-08T11:17:38Z",
-      "Recipe": "rust",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20991",
-      "LastCommitSHA": "154fe97f4328716b0026dd110a407d15af72e320",
-      "LastCommitAt": "2023-11-10T06:01:41Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
