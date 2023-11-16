@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **130** pull requests currently under way :detective:
+There are **127** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -154,9 +154,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21137](https://github.com/conan-io/conan-center-index/pull/21137)|[valgur](https://github.com/valgur)|Nov 14|:memo: gdk-pixbuf|:blue_square: S|5|Nov 15|franramirez688|jwillikers, **RubenRBS**
 [#21149](https://github.com/conan-io/conan-center-index/pull/21149)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 15|:stopwatch: openvino|M|0|||
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|0|||
-[#21154](https://github.com/conan-io/conan-center-index/pull/21154)|[toge](https://github.com/toge)|Nov 16|:stopwatch: dacap-clip|:green_circle: XS|0|||
-[#21155](https://github.com/conan-io/conan-center-index/pull/21155)|[toge](https://github.com/toge)|Nov 16|:stopwatch: ssp|:green_circle: XS|0|||
-[#21156](https://github.com/conan-io/conan-center-index/pull/21156)|[toge](https://github.com/toge)|Nov 16|:stopwatch: c-ares|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -181,10 +178,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 455
+	- Open: 453
 	- Draft: 51
-	- Average Age: 104 days, 22 hours, and 52.11 minutes
-	- Stop Label: 236
+	- Average Age: 105 days, 10 hours, and 52.31 minutes
+	- Stop Label: 235
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
