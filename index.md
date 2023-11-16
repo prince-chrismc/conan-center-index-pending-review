@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **125** pull requests currently under way :detective:
+There are **129** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -55,6 +55,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18831](https://github.com/conan-io/conan-center-index/pull/18831)|[valgur](https://github.com/valgur)|Jul 22|:memo: ags|L|1|Nov 6||
 [#18837](https://github.com/conan-io/conan-center-index/pull/18837)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: qcoro|L|0|||
 [#18847](https://github.com/conan-io/conan-center-index/pull/18847)|[valgur](https://github.com/valgur)|Jul 23|:memo: gn|L|0|:eyes:||
+[#18848](https://github.com/conan-io/conan-center-index/pull/18848)|[valgur](https://github.com/valgur)|Jul 23|:memo: mold|L|0|||
 [#18862](https://github.com/conan-io/conan-center-index/pull/18862)|[valgur](https://github.com/valgur)|Jul 24|:memo: godot-cpp|L|1|Nov 2 :bell:||jwillikers
 [#18884](https://github.com/conan-io/conan-center-index/pull/18884)|[valgur](https://github.com/valgur)|Jul 24|:memo: cairomm|L|3|Nov 14||jwillikers
 [#18901](https://github.com/conan-io/conan-center-index/pull/18901)|[valgur](https://github.com/valgur)|Jul 25|:memo: mpdecimal|L|1|Oct 31 :bell:||jwillikers
@@ -152,6 +153,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21144](https://github.com/conan-io/conan-center-index/pull/21144)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 15|:stopwatch: onnx|:green_circle: XS|0|||
 [#21149](https://github.com/conan-io/conan-center-index/pull/21149)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 15|:stopwatch: openvino|M|0|||
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|0|||
+[#21154](https://github.com/conan-io/conan-center-index/pull/21154)|[toge](https://github.com/toge)|Nov 16|:stopwatch: dacap-clip|:green_circle: XS|0|||
+[#21155](https://github.com/conan-io/conan-center-index/pull/21155)|[toge](https://github.com/toge)|Nov 16|:stopwatch: ssp|:green_circle: XS|0|||
+[#21156](https://github.com/conan-io/conan-center-index/pull/21156)|[toge](https://github.com/toge)|Nov 16|:stopwatch: c-ares|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -176,10 +180,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 453
+	- Open: 456
 	- Draft: 51
-	- Average Age: 105 days, 5 hours, and 5.22 minutes
-	- Stop Label: 239
+	- Average Age: 104 days, 14 hours, and 7.08 minutes
+	- Stop Label: 238
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
