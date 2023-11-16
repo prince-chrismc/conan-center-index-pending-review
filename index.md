@@ -141,7 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
 [#21026](https://github.com/conan-io/conan-center-index/pull/21026)|[wdobbe](https://github.com/wdobbe)|Nov 9|:memo: qt|M|2|Nov 9||jwillikers
 [#21037](https://github.com/conan-io/conan-center-index/pull/21037)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:memo: qt|:blue_square: S|2|Nov 13||jwillikers
-[#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:memo: rocksdb|:blue_square: S|0|||
+[#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:stopwatch: rocksdb|:blue_square: S|0|||
 [#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:stopwatch: ginkgo|M|4|Nov 16||**uilianries**
 [#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:memo: tinyalsa|L|1|Nov 14|uilianries|
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|0|||
@@ -149,11 +149,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21137](https://github.com/conan-io/conan-center-index/pull/21137)|[valgur](https://github.com/valgur)|Nov 14|:stopwatch: gdk-pixbuf|:blue_square: S|5|Nov 15|franramirez688|
 [#21149](https://github.com/conan-io/conan-center-index/pull/21149)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 15|:stopwatch: openvino|M|0|||
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|0|||
-[#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:memo: pulseaudio|:green_circle: XS|1|Nov 16||**RubenRBS**
+[#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:memo: pulseaudio|:green_circle: XS|2|Nov 16||**RubenRBS**
 [#21159](https://github.com/conan-io/conan-center-index/pull/21159)|[uilianries](https://github.com/uilianries)|Nov 16|:stopwatch: cimg|:blue_square: S|1|Nov 16||**RubenRBS**
-[#21160](https://github.com/conan-io/conan-center-index/pull/21160)|[ma30002000](https://github.com/ma30002000)|Nov 16|:stopwatch: fast-cdr|:green_circle: XS|0|||
-[#21162](https://github.com/conan-io/conan-center-index/pull/21162)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 16|:gear: .c3i|:green_circle: XS|1|Nov 16||**uilianries**
 [#21164](https://github.com/conan-io/conan-center-index/pull/21164)|[valgur](https://github.com/valgur)|Nov 16|:stopwatch: aws-cdi-sdk|L|0|||
+[#21165](https://github.com/conan-io/conan-center-index/pull/21165)|[valgur](https://github.com/valgur)|Nov 16|:stopwatch: elfutils|M|0|||
+[#21166](https://github.com/conan-io/conan-center-index/pull/21166)|[RubenRBS](https://github.com/RubenRBS)|Nov 16|:stopwatch: .c3i|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -169,9 +169,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20072](https://github.com/conan-io/conan-center-index/pull/20072)|[toge](https://github.com/toge)|Sep 21|:warning: libarchive|3|jwillikers, **czoido**, **uilianries**
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|3|jwillikers, **franramirez688**
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
-[#20289](https://github.com/conan-io/conan-center-index/pull/20289)|[jwillikers](https://github.com/jwillikers)|Oct 2|:memo: libxcrypt|2|**RubenRBS**, **uilianries**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#20764](https://github.com/conan-io/conan-center-index/pull/20764)|[hegyizs](https://github.com/hegyizs)|Oct 25|:warning: icu|6|SpaceIm, jwillikers, **uilianries**
+[#21162](https://github.com/conan-io/conan-center-index/pull/21162)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 16|:gear: .c3i|2|**uilianries**, **RubenRBS**
 
 
 #### :clipboard: Statistics
@@ -180,9 +180,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 454
+	- Open: 455
 	- Draft: 51
-	- Average Age: 105 days, 5 hours, and 49.38 minutes
+	- Average Age: 104 days, 22 hours, and 47.08 minutes
 	- Stop Label: 237
 	
 
