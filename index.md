@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **120** pull requests currently under way :detective:
+There are **124** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -74,7 +74,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19118](https://github.com/conan-io/conan-center-index/pull/19118)|[sjlamerton](https://github.com/sjlamerton)|Aug 9|:memo: ffmpeg|M|1|Oct 20 :bell:||MartinDelille
 [#19123](https://github.com/conan-io/conan-center-index/pull/19123)|[ledocc](https://github.com/ledocc)|Aug 9|:memo: libselinux|:blue_square: S|4|Oct 15 :bell:||[Tobulus](https://github.com/Tobulus), [tbsuht](https://github.com/tbsuht), jwillikers
 [#19148](https://github.com/conan-io/conan-center-index/pull/19148)|[toge](https://github.com/toge)|Aug 11|:new: influxdb-cxx|M|3|Aug 14 :bell:||[steinerthomas](https://github.com/steinerthomas)
-[#19194](https://github.com/conan-io/conan-center-index/pull/19194)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: opencv|L|2|Nov 17||**uilianries**
+[#19194](https://github.com/conan-io/conan-center-index/pull/19194)|[SpaceIm](https://github.com/SpaceIm)|Aug 14|:memo: opencv|L|3|Nov 17||**uilianries**, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#19226](https://github.com/conan-io/conan-center-index/pull/19226)|[db4](https://github.com/db4)|Aug 16|:memo: pixman|M|2|Sep 28 :bell:||ericLemanissier, jwillikers
 [#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|:eyes:||
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
@@ -147,11 +147,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:stopwatch: pulseaudio|:green_circle: XS|2|Nov 16||
 [#21179](https://github.com/conan-io/conan-center-index/pull/21179)|[correaa](https://github.com/correaa)|Nov 17|:stopwatch: b-multi|:blue_square: S|0|||
 [#21180](https://github.com/conan-io/conan-center-index/pull/21180)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:stopwatch: wt|:blue_square: S|0|||
+[#21184](https://github.com/conan-io/conan-center-index/pull/21184)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 17|:stopwatch: libcurl|M|0|||
+[#21185](https://github.com/conan-io/conan-center-index/pull/21185)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 17|:stopwatch: protobuf|:blue_square: S|0|||
+[#21186](https://github.com/conan-io/conan-center-index/pull/21186)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 17|:stopwatch: redis-plus-plus|M|0|||
+[#21187](https://github.com/conan-io/conan-center-index/pull/21187)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 17|:stopwatch: wavelet_buffer|:green_circle: XS|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **9** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -163,8 +167,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:warning: ginkgo|6|**uilianries**, jwillikers, **RubenRBS**
-[#21149](https://github.com/conan-io/conan-center-index/pull/21149)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 15|:memo: openvino|2|**uilianries**, **RubenRBS**
-[#21170](https://github.com/conan-io/conan-center-index/pull/21170)|[toge](https://github.com/toge)|Nov 16|:memo: imgui|2|**RubenRBS**, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -173,9 +175,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 444
+	- Open: 446
 	- Draft: 51
-	- Average Age: 106 days, 16 hours, and 49.58 minutes
+	- Average Age: 106 days, 6 hours, and 8.58 minutes
 	- Stop Label: 234
 	
 
