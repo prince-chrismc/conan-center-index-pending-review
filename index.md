@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **128** pull requests currently under way :detective:
+There are **129** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -147,6 +147,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21186](https://github.com/conan-io/conan-center-index/pull/21186)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 17|:stopwatch: redis-plus-plus|M|1|Nov 17||jwillikers
 [#21187](https://github.com/conan-io/conan-center-index/pull/21187)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 17|:stopwatch: wavelet_buffer|:green_circle: XS|1|Nov 17||jwillikers
 [#21189](https://github.com/conan-io/conan-center-index/pull/21189)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: ccfits|:green_circle: XS|1|Nov 17||jwillikers
+[#21190](https://github.com/conan-io/conan-center-index/pull/21190)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: fltk|:green_circle: XS|3|Nov 17||jwillikers
 [#21191](https://github.com/conan-io/conan-center-index/pull/21191)|[uilianries](https://github.com/uilianries)|Nov 17|:stopwatch: glfw|:green_circle: XS|2|Nov 17||ericLemanissier, jwillikers
 [#21192](https://github.com/conan-io/conan-center-index/pull/21192)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 17|:stopwatch: certify|:green_circle: XS|0|:eyes:||
 [#21194](https://github.com/conan-io/conan-center-index/pull/21194)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: libselinux|:green_circle: XS|1|Nov 17||jwillikers
@@ -159,12 +160,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#19551](https://github.com/conan-io/conan-center-index/pull/19551)|[cschreib](https://github.com/cschreib)|Sep 1|:new: snitch|2|**uilianries**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|3|jwillikers, **franramirez688**
@@ -183,9 +183,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 456
+	- Open: 455
 	- Draft: 50
-	- Average Age: 103 days, 20 hours, and 6.25 minutes
+	- Average Age: 103 days, 22 hours, and 35.18 minutes
 	- Stop Label: 237
 	
 
