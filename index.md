@@ -137,6 +137,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:memo: rocksdb|:blue_square: S|0|||
 [#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:memo: tinyalsa|L|1|Nov 14|uilianries|
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|0|:eyes:||
+[#21102](https://github.com/conan-io/conan-center-index/pull/21102)|[agdavydov81](https://github.com/agdavydov81)|Nov 13|:new: dfp|M|1|Nov 14|RubenRBS|
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14||jwillikers
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|0|||
 [#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:stopwatch: pulseaudio|:green_circle: XS|2|Nov 16||
@@ -148,7 +149,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21189](https://github.com/conan-io/conan-center-index/pull/21189)|[valgur](https://github.com/valgur)|Nov 17|:memo: ccfits|:green_circle: XS|1|Nov 17||jwillikers
 [#21190](https://github.com/conan-io/conan-center-index/pull/21190)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: fltk|:green_circle: XS|3|Nov 17||jwillikers
 [#21191](https://github.com/conan-io/conan-center-index/pull/21191)|[uilianries](https://github.com/uilianries)|Nov 17|:stopwatch: glfw|:green_circle: XS|2|Nov 17||ericLemanissier, jwillikers
-[#21192](https://github.com/conan-io/conan-center-index/pull/21192)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 17|:stopwatch: certify|:green_circle: XS|1|Nov 17||jwillikers
 [#21194](https://github.com/conan-io/conan-center-index/pull/21194)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: libselinux|:green_circle: XS|1|Nov 17||jwillikers
 [#21195](https://github.com/conan-io/conan-center-index/pull/21195)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: openjdk|:green_circle: XS|1|Nov 17||toge
 [#21196](https://github.com/conan-io/conan-center-index/pull/21196)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: qwt|:green_circle: XS|0|||
@@ -181,10 +181,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 454
+	- Open: 453
 	- Draft: 50
-	- Average Age: 104 days, 4 hours, and 26.72 minutes
-	- Stop Label: 237
+	- Average Age: 104 days, 10 hours, and 51.60 minutes
+	- Stop Label: 236
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
