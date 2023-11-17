@@ -141,7 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21149](https://github.com/conan-io/conan-center-index/pull/21149)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 15|:memo: openvino|M|0|||
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|0|||
 [#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:stopwatch: pulseaudio|:green_circle: XS|2|Nov 16||
-[#21170](https://github.com/conan-io/conan-center-index/pull/21170)|[toge](https://github.com/toge)|Nov 16|:stopwatch: imgui|:green_circle: XS|1|Nov 16||**RubenRBS**
+[#21170](https://github.com/conan-io/conan-center-index/pull/21170)|[toge](https://github.com/toge)|Nov 16|:memo: imgui|:green_circle: XS|1|Nov 16||**RubenRBS**
 [#21171](https://github.com/conan-io/conan-center-index/pull/21171)|[toge](https://github.com/toge)|Nov 16|:stopwatch: iowow|:green_circle: XS|1|Nov 16||**RubenRBS**
 [#21174](https://github.com/conan-io/conan-center-index/pull/21174)|[toge](https://github.com/toge)|Nov 16|:stopwatch: aws-c-io|:green_circle: XS|0|||
 [#21177](https://github.com/conan-io/conan-center-index/pull/21177)|[toge](https://github.com/toge)|Nov 17|:stopwatch: highfive|:green_circle: XS|0|||
@@ -175,7 +175,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 451
 	- Draft: 51
-	- Average Age: 104 days, 21 hours, and 0.74 minutes
+	- Average Age: 104 days, 21 hours, and 47.15 minutes
 	- Stop Label: 239
 	
 
