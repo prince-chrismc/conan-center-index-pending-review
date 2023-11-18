@@ -3630,15 +3630,34 @@
       }
    },
    {
-      "Number": 21211,
+      "Number": 21212,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-11-18T09:10:43Z",
-      "Recipe": "samurai",
+      "CreatedAt": "2023-11-18T09:16:05Z",
+      "Recipe": "simdutf",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21211",
-      "LastCommitSHA": "bbc512e872c32b57f4cc2dfebce605dcdafb0b7e",
-      "LastCommitAt": "2023-11-18T09:10:09Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21212",
+      "LastCommitSHA": "b807aadda58ec024ab07944ae61fae3ad7fb6906",
+      "LastCommitAt": "2023-11-18T09:15:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21213,
+      "OpenedBy": "Nekto89",
+      "CreatedAt": "2023-11-18T09:59:20Z",
+      "Recipe": "openssl",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21213",
+      "LastCommitSHA": "425080640db640619b80c1d8be04f1a78fa80d7b",
+      "LastCommitAt": "2023-11-18T09:56:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
