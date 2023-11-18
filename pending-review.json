@@ -3675,24 +3675,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 21221,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-18T16:59:33Z",
-      "Recipe": "openal-soft",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21221",
-      "LastCommitSHA": "ebc893033d138f99f9491d0ac35346e6bc549a29",
-      "LastCommitAt": "2023-11-18T16:59:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
