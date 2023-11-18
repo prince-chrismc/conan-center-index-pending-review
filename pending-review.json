@@ -3599,8 +3599,46 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21209",
-      "LastCommitSHA": "61852fffce316e936976ada6ccd1ced18c34792e",
-      "LastCommitAt": "2023-11-18T07:58:56Z",
+      "LastCommitSHA": "252ed9a54a540198ac9b0eee79e9684935e81c21",
+      "LastCommitAt": "2023-11-18T08:37:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21210,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-18T09:05:55Z",
+      "Recipe": "mcap",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21210",
+      "LastCommitSHA": "7e230d321a49bb694fbc7e73665a5d96df87c37e",
+      "LastCommitAt": "2023-11-18T09:04:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21211,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-18T09:10:43Z",
+      "Recipe": "samurai",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21211",
+      "LastCommitSHA": "bbc512e872c32b57f4cc2dfebce605dcdafb0b7e",
+      "LastCommitAt": "2023-11-18T09:10:09Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
