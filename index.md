@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **138** pull requests currently under way :detective:
+There are **136** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -162,9 +162,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21209](https://github.com/conan-io/conan-center-index/pull/21209)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libyuv|:blue_square: S|0|||
 [#21213](https://github.com/conan-io/conan-center-index/pull/21213)|[Nekto89](https://github.com/Nekto89)|Nov 18|:memo: openssl|M|0|||
 [#21217](https://github.com/conan-io/conan-center-index/pull/21217)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: fftw|:green_circle: XS|0|||
-[#21218](https://github.com/conan-io/conan-center-index/pull/21218)|[toge](https://github.com/toge)|Nov 18|:stopwatch: aws-lambda-cpp|:green_circle: XS|0|||
-[#21219](https://github.com/conan-io/conan-center-index/pull/21219)|[toge](https://github.com/toge)|Nov 18|:stopwatch: aws-c-event-stream|:green_circle: XS|0|||
-[#21220](https://github.com/conan-io/conan-center-index/pull/21220)|[toge](https://github.com/toge)|Nov 18|:stopwatch: libavif|:green_circle: XS|0|||
+[#21221](https://github.com/conan-io/conan-center-index/pull/21221)|[valgur](https://github.com/valgur)|Nov 18|:stopwatch: openal-soft|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -189,9 +187,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 458
+	- Open: 459
 	- Draft: 50
-	- Average Age: 104 days, and 35.75 minutes
+	- Average Age: 103 days, 20 hours, and 4.82 minutes
 	- Stop Label: 235
 	
 
