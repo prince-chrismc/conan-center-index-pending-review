@@ -3553,21 +3553,16 @@
       "CreatedAt": "2023-11-17T21:22:50Z",
       "Recipe": "libvpx",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21202",
-      "LastCommitSHA": "7adc1a8428f46f61878a42ab9175c9562aeec334",
-      "LastCommitAt": "2023-11-17T21:11:53Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "bb9530420ba3ac8aa45d77aaa46bcd86e4ec4315",
+      "LastCommitAt": "2023-11-18T14:06:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "valgur",
