@@ -154,7 +154,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21197](https://github.com/conan-io/conan-center-index/pull/21197)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: tcp-wrappers|:green_circle: XS|0|||
 [#21199](https://github.com/conan-io/conan-center-index/pull/21199)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:stopwatch: glfw|M|2|Nov 17||jwillikers
 [#21200](https://github.com/conan-io/conan-center-index/pull/21200)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: sofa|:green_circle: XS|1|Nov 17||jwillikers
-[#21202](https://github.com/conan-io/conan-center-index/pull/21202)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:stopwatch: libvpx|:green_circle: XS|1|Nov 17||[valgur](https://github.com/valgur)
+[#21202](https://github.com/conan-io/conan-center-index/pull/21202)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: libvpx|:green_circle: XS|1|Nov 17||[valgur](https://github.com/valgur)
 [#21203](https://github.com/conan-io/conan-center-index/pull/21203)|[mayeut](https://github.com/mayeut)|Nov 17|:stopwatch: soci|:green_circle: XS|0|||
 [#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:stopwatch: opencv|M|0|||
 [#21205](https://github.com/conan-io/conan-center-index/pull/21205)|[mayeut](https://github.com/mayeut)|Nov 17|:stopwatch: libwebsockets|:green_circle: XS|0|||
@@ -185,7 +185,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 454
 	- Draft: 50
-	- Average Age: 104 days, 8 hours, and 50.05 minutes
+	- Average Age: 104 days, 9 hours, and 39.17 minutes
 	- Stop Label: 237
 	
 
