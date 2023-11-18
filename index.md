@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **141** pull requests currently under way :detective:
+There are **146** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -168,6 +168,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21223](https://github.com/conan-io/conan-center-index/pull/21223)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: qt|:blue_square: S|1|Nov 18||ericLemanissier
 [#21224](https://github.com/conan-io/conan-center-index/pull/21224)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: rtmidi|:green_circle: XS|0|||
 [#21225](https://github.com/conan-io/conan-center-index/pull/21225)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: openal-soft|:green_circle: XS|0|||
+[#21226](https://github.com/conan-io/conan-center-index/pull/21226)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: libsixel|:green_circle: XS|0|||
+[#21227](https://github.com/conan-io/conan-center-index/pull/21227)|[temap](https://github.com/temap)|Nov 18|:stopwatch: libbpf|:blue_square: S|0|||
+[#21228](https://github.com/conan-io/conan-center-index/pull/21228)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: imutils-cpp|:green_circle: XS|0|||
+[#21229](https://github.com/conan-io/conan-center-index/pull/21229)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: prometheus-cpp|:green_circle: XS|0|||
+[#21230](https://github.com/conan-io/conan-center-index/pull/21230)|[temap](https://github.com/temap)|Nov 18|:stopwatch: elfutils|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -192,9 +197,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 463
+	- Open: 468
 	- Draft: 50
-	- Average Age: 103 days, 1 hours, and 34.03 minutes
+	- Average Age: 102 days, and 6.06 minutes
 	- Stop Label: 234
 	
 
