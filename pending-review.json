@@ -606,7 +606,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18813",
       "LastCommitSHA": "e1d4ea83ddba7aaaae79328df57d17154003ee9a",
       "LastCommitAt": "2023-11-18T11:56:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 3,
          "ValidApprovals": 0,
@@ -2601,6 +2601,25 @@
       }
    },
    {
+      "Number": 20875,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-01T15:34:20Z",
+      "Recipe": "mongo-c-driver",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20875",
+      "LastCommitSHA": "9772c48c44746ecc415b167795c58fe96c51b906",
+      "LastCommitAt": "2023-11-18T08:58:55Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 20892,
       "OpenedBy": "Kischy",
       "CreatedAt": "2023-11-02T11:30:46Z",
@@ -3216,7 +3235,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21184",
       "LastCommitSHA": "2cf9fd481500f251b586a399407af8c8113c9f10",
       "LastCommitAt": "2023-11-17T10:19:52Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
