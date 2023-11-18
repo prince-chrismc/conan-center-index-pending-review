@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **137** pull requests currently under way :detective:
+There are **141** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -164,6 +164,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21209](https://github.com/conan-io/conan-center-index/pull/21209)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libyuv|:blue_square: S|0|||
 [#21213](https://github.com/conan-io/conan-center-index/pull/21213)|[Nekto89](https://github.com/Nekto89)|Nov 18|:memo: openssl|M|0|||
 [#21217](https://github.com/conan-io/conan-center-index/pull/21217)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: fftw|:green_circle: XS|0|||
+[#21222](https://github.com/conan-io/conan-center-index/pull/21222)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: ceres-solver|L|0|||
+[#21223](https://github.com/conan-io/conan-center-index/pull/21223)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: qt|:blue_square: S|1|Nov 18||ericLemanissier
+[#21224](https://github.com/conan-io/conan-center-index/pull/21224)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: rtmidi|:green_circle: XS|0|||
+[#21225](https://github.com/conan-io/conan-center-index/pull/21225)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: openal-soft|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -188,9 +192,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 459
+	- Open: 463
 	- Draft: 50
-	- Average Age: 103 days, 22 hours, and 4.23 minutes
+	- Average Age: 103 days, 1 hours, and 34.03 minutes
 	- Stop Label: 234
 	
 
