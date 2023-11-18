@@ -3548,51 +3548,23 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21204",
       "LastCommitSHA": "9791355597ad5093a3864cd3c0ff3bf9280deccc",
       "LastCommitAt": "2023-11-17T22:14:29Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21205,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-11-17T21:48:14Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21205",
-      "LastCommitSHA": "b010c79a3bb5c23addc7755b3c82cb602110ef00",
-      "LastCommitAt": "2023-11-17T21:47:37Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21206,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-11-17T22:11:39Z",
-      "Recipe": "sqlitecpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21206",
-      "LastCommitSHA": "ae9e8207474d126123e9cf5f595316207612dcf8",
-      "LastCommitAt": "2023-11-17T22:10:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "SpaceIm",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "SpaceIm",
+            "SubmittedAt": "2023-11-18T06:54:07Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21204#pullrequestreview-1738273145"
+         }
       }
    },
    {
@@ -3605,7 +3577,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21207",
       "LastCommitSHA": "78856dafc89ddf8e688958968a4e660c88a3b33d",
       "LastCommitAt": "2023-11-18T03:56:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
