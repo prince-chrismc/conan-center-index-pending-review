@@ -3718,5 +3718,91 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21222,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-18T19:21:08Z",
+      "Recipe": "ceres-solver",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21222",
+      "LastCommitSHA": "924157b0bef9acbc6e1187c04362f559b6bf4e07",
+      "LastCommitAt": "2023-11-18T19:24:15Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21223,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-18T19:45:40Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21223",
+      "LastCommitSHA": "b6427b59ddeb0b1773cb386d32e4b0f64138cf0f",
+      "LastCommitAt": "2023-11-18T19:44:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-11-18T20:01:08Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21223#pullrequestreview-1738478109"
+         }
+      }
+   },
+   {
+      "Number": 21224,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-18T20:08:53Z",
+      "Recipe": "rtmidi",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21224",
+      "LastCommitSHA": "49987c5c4a6d449df1ce744888058e2a2e1930cf",
+      "LastCommitAt": "2023-11-18T20:08:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21225,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-18T20:10:04Z",
+      "Recipe": "openal-soft",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21225",
+      "LastCommitSHA": "fd40d0aad4db3f97955b7b849a412018e9f059ca",
+      "LastCommitAt": "2023-11-18T20:09:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
