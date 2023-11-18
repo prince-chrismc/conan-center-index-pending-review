@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **133** pull requests currently under way :detective:
+There are **134** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -159,7 +159,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|0|||
 [#21209](https://github.com/conan-io/conan-center-index/pull/21209)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: libyuv|:blue_square: S|0|||
 [#21210](https://github.com/conan-io/conan-center-index/pull/21210)|[toge](https://github.com/toge)|Nov 18|:stopwatch: mcap|:green_circle: XS|0|||
-[#21211](https://github.com/conan-io/conan-center-index/pull/21211)|[toge](https://github.com/toge)|Nov 18|:stopwatch: samurai|:green_circle: XS|0|||
+[#21212](https://github.com/conan-io/conan-center-index/pull/21212)|[toge](https://github.com/toge)|Nov 18|:stopwatch: simdutf|:green_circle: XS|0|||
+[#21213](https://github.com/conan-io/conan-center-index/pull/21213)|[Nekto89](https://github.com/Nekto89)|Nov 18|:stopwatch: openssl|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -184,9 +185,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 456
+	- Open: 457
 	- Draft: 50
-	- Average Age: 104 days, 4 hours, and 33.09 minutes
+	- Average Age: 104 days, and 5.55 minutes
 	- Stop Label: 238
 	
 
