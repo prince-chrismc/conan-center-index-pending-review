@@ -3667,6 +3667,63 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21217",
       "LastCommitSHA": "9ac08f940f8dccec96aaa2080e601540ca29b911",
       "LastCommitAt": "2023-11-18T14:55:11Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21218,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-18T15:55:23Z",
+      "Recipe": "aws-lambda-cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21218",
+      "LastCommitSHA": "4323f34903a25b977e758802c9b02233353ae56c",
+      "LastCommitAt": "2023-11-18T15:54:32Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21219,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-18T15:59:19Z",
+      "Recipe": "aws-c-event-stream",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21219",
+      "LastCommitSHA": "1fed32c9f2495911e74b8faddcc39ed333dd1fa1",
+      "LastCommitAt": "2023-11-18T15:58:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21220,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-18T16:04:16Z",
+      "Recipe": "libavif",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21220",
+      "LastCommitSHA": "7b6b7d475c4f7d4deda8b84f88a9430b851eb56f",
+      "LastCommitAt": "2023-11-18T16:03:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
