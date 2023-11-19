@@ -3667,7 +3667,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21209",
       "LastCommitSHA": "40d3ce427ae67b0b8c502fba3f7e8d5c6a7acf9b",
       "LastCommitAt": "2023-11-19T08:01:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3896,44 +3896,6 @@
       "LastCommitSHA": "8d98bbb454e32870a074b7828fa199de0a2c2c4d",
       "LastCommitAt": "2023-11-19T08:36:16Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21240,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-19T09:06:31Z",
-      "Recipe": "wayland",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21240",
-      "LastCommitSHA": "5089a3b1a15d2cd77db64b7cb2b484d8cca73372",
-      "LastCommitAt": "2023-11-19T09:05:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21241,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-19T09:53:21Z",
-      "Recipe": "libxml2",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21241",
-      "LastCommitSHA": "80beaa1045126c225a093caf0426b23b07f9e0ea",
-      "LastCommitAt": "2023-11-19T09:52:39Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
