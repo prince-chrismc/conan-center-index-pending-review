@@ -3729,7 +3729,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21222",
       "LastCommitSHA": "924157b0bef9acbc6e1187c04362f559b6bf4e07",
       "LastCommitAt": "2023-11-18T19:24:15Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3768,25 +3768,6 @@
       }
    },
    {
-      "Number": 21224,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-18T20:08:53Z",
-      "Recipe": "rtmidi",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21224",
-      "LastCommitSHA": "49987c5c4a6d449df1ce744888058e2a2e1930cf",
-      "LastCommitAt": "2023-11-18T20:08:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21225,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-18T20:10:04Z",
@@ -3815,7 +3796,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21226",
       "LastCommitSHA": "99d86922cc6c905405c19f8f072ccb4e133bda79",
       "LastCommitAt": "2023-11-18T20:15:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
