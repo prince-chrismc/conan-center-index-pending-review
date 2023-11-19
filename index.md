@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **148** pull requests currently under way :detective:
+There are **151** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -156,7 +156,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21195](https://github.com/conan-io/conan-center-index/pull/21195)|[valgur](https://github.com/valgur)|Nov 17|:memo: openjdk|:green_circle: XS|1|Nov 17||toge
 [#21196](https://github.com/conan-io/conan-center-index/pull/21196)|[valgur](https://github.com/valgur)|Nov 17|:memo: qwt|:green_circle: XS|0|||
 [#21197](https://github.com/conan-io/conan-center-index/pull/21197)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: tcp-wrappers|:green_circle: XS|0|||
-[#21199](https://github.com/conan-io/conan-center-index/pull/21199)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: glfw|M|2|Nov 17||jwillikers
+[#21199](https://github.com/conan-io/conan-center-index/pull/21199)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:stopwatch: glfw|M|2|Nov 17||
 [#21200](https://github.com/conan-io/conan-center-index/pull/21200)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: sofa|:green_circle: XS|1|Nov 17||jwillikers
 [#21202](https://github.com/conan-io/conan-center-index/pull/21202)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: libvpx|:blue_square: S|1|Nov 17||
 [#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:memo: opencv|M|1|Nov 18||SpaceIm
@@ -173,8 +173,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21233](https://github.com/conan-io/conan-center-index/pull/21233)|[toge](https://github.com/toge)|Nov 19|:memo: serdepp|M|0|||
 [#21236](https://github.com/conan-io/conan-center-index/pull/21236)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: harfbuzz|:green_circle: XS|0|||
 [#21237](https://github.com/conan-io/conan-center-index/pull/21237)|[valgur](https://github.com/valgur)|Nov 19|:stopwatch: proj|:green_circle: XS|0|||
-[#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:stopwatch: brunsli|:green_circle: XS|0|||
+[#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|0|||
 [#21240](https://github.com/conan-io/conan-center-index/pull/21240)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: wayland|:green_circle: XS|0|||
+[#21241](https://github.com/conan-io/conan-center-index/pull/21241)|[toge](https://github.com/toge)|Nov 19|:stopwatch: libxml2|:green_circle: XS|0|||
+[#21242](https://github.com/conan-io/conan-center-index/pull/21242)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: opencv|:blue_square: S|0|||
+[#21243](https://github.com/conan-io/conan-center-index/pull/21243)|[toge](https://github.com/toge)|Nov 19|:stopwatch: stringzilla|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -199,9 +202,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 472
+	- Open: 475
 	- Draft: 51
-	- Average Age: 101 days, 15 hours, and 14.08 minutes
+	- Average Age: 101 days, and 50.51 minutes
 	- Stop Label: 235
 	
 
