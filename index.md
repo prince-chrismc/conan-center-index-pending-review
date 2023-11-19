@@ -135,7 +135,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
 [#21026](https://github.com/conan-io/conan-center-index/pull/21026)|[wdobbe](https://github.com/wdobbe)|Nov 9|:memo: qt|M|2|Nov 9||jwillikers
 [#21037](https://github.com/conan-io/conan-center-index/pull/21037)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 10|:memo: qt|:blue_square: S|2|Nov 13||jwillikers
-[#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:memo: rocksdb|:blue_square: S|0|||
+[#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:memo: rocksdb|:blue_square: S|0|:eyes:||
 [#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:memo: tinyalsa|L|1|Nov 14|uilianries|
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|0|:eyes:||
 [#21102](https://github.com/conan-io/conan-center-index/pull/21102)|[agdavydov81](https://github.com/agdavydov81)|Nov 13|:new: dfp|M|1|Nov 14|RubenRBS|
@@ -156,7 +156,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21195](https://github.com/conan-io/conan-center-index/pull/21195)|[valgur](https://github.com/valgur)|Nov 17|:memo: openjdk|:green_circle: XS|1|Nov 17||toge
 [#21196](https://github.com/conan-io/conan-center-index/pull/21196)|[valgur](https://github.com/valgur)|Nov 17|:memo: qwt|:green_circle: XS|0|||
 [#21197](https://github.com/conan-io/conan-center-index/pull/21197)|[valgur](https://github.com/valgur)|Nov 17|:stopwatch: tcp-wrappers|:green_circle: XS|0|||
-[#21199](https://github.com/conan-io/conan-center-index/pull/21199)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:stopwatch: glfw|M|2|Nov 17||
+[#21199](https://github.com/conan-io/conan-center-index/pull/21199)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:stopwatch: glfw|M|3|Nov 19||jwillikers
 [#21200](https://github.com/conan-io/conan-center-index/pull/21200)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: sofa|:green_circle: XS|1|Nov 17||jwillikers
 [#21202](https://github.com/conan-io/conan-center-index/pull/21202)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: libvpx|:blue_square: S|1|Nov 17||
 [#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:memo: opencv|M|1|Nov 18||SpaceIm
@@ -202,7 +202,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 475
 	- Draft: 51
-	- Average Age: 101 days, 2 hours, and 59.67 minutes
+	- Average Age: 101 days, 4 hours, and 47.96 minutes
 	- Stop Label: 237
 	
 
