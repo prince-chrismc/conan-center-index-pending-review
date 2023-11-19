@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **145** pull requests currently under way :detective:
+There are **146** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -161,7 +161,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21202](https://github.com/conan-io/conan-center-index/pull/21202)|[SpaceIm](https://github.com/SpaceIm)|Nov 17|:memo: libvpx|:blue_square: S|1|Nov 17||
 [#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:memo: opencv|M|1|Nov 18||SpaceIm
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|0|||
-[#21209](https://github.com/conan-io/conan-center-index/pull/21209)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libyuv|:blue_square: S|0|||
+[#21209](https://github.com/conan-io/conan-center-index/pull/21209)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: libyuv|M|0|||
 [#21213](https://github.com/conan-io/conan-center-index/pull/21213)|[Nekto89](https://github.com/Nekto89)|Nov 18|:memo: openssl|M|0|||
 [#21217](https://github.com/conan-io/conan-center-index/pull/21217)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: fftw|:green_circle: XS|0|||
 [#21222](https://github.com/conan-io/conan-center-index/pull/21222)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: ceres-solver|L|0|||
@@ -171,7 +171,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21229](https://github.com/conan-io/conan-center-index/pull/21229)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: prometheus-cpp|:green_circle: XS|0|||
 [#21230](https://github.com/conan-io/conan-center-index/pull/21230)|[temap](https://github.com/temap)|Nov 18|:memo: elfutils|:green_circle: XS|0|||
 [#21233](https://github.com/conan-io/conan-center-index/pull/21233)|[toge](https://github.com/toge)|Nov 19|:memo: serdepp|M|0|||
-[#21235](https://github.com/conan-io/conan-center-index/pull/21235)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: libyuv|M|0|||
+[#21236](https://github.com/conan-io/conan-center-index/pull/21236)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: harfbuzz|:green_circle: XS|0|||
+[#21237](https://github.com/conan-io/conan-center-index/pull/21237)|[valgur](https://github.com/valgur)|Nov 19|:stopwatch: proj|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -196,9 +197,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 468
+	- Open: 469
 	- Draft: 51
-	- Average Age: 102 days, 10 hours, and 4.90 minutes
+	- Average Age: 102 days, 5 hours, and 53.77 minutes
 	- Stop Label: 234
 	
 
