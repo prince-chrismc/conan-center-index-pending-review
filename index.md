@@ -171,7 +171,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21229](https://github.com/conan-io/conan-center-index/pull/21229)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: prometheus-cpp|:green_circle: XS|0|||
 [#21230](https://github.com/conan-io/conan-center-index/pull/21230)|[temap](https://github.com/temap)|Nov 18|:memo: elfutils|:green_circle: XS|0|||
 [#21233](https://github.com/conan-io/conan-center-index/pull/21233)|[toge](https://github.com/toge)|Nov 19|:memo: serdepp|M|0|||
-[#21234](https://github.com/conan-io/conan-center-index/pull/21234)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: fontconfig|:blue_square: S|0|||
+[#21235](https://github.com/conan-io/conan-center-index/pull/21235)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: libyuv|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -198,7 +198,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 468
 	- Draft: 51
-	- Average Age: 102 days, 9 hours, and 8.72 minutes
+	- Average Age: 102 days, 10 hours, and 4.90 minutes
 	- Stop Label: 234
 	
 
