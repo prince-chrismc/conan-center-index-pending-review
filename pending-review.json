@@ -3853,15 +3853,15 @@
       }
    },
    {
-      "Number": 21234,
+      "Number": 21235,
       "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-19T06:12:03Z",
-      "Recipe": "fontconfig",
+      "CreatedAt": "2023-11-19T06:30:18Z",
+      "Recipe": "libyuv",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21234",
-      "LastCommitSHA": "15a446864a8f1774a337b104b07ce24ae725ef79",
-      "LastCommitAt": "2023-11-19T06:11:42Z",
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21235",
+      "LastCommitSHA": "7aeeb9bdadba7122541825f23a3e97123f30381f",
+      "LastCommitAt": "2023-11-19T06:29:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
