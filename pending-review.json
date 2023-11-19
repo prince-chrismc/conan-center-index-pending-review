@@ -3889,5 +3889,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21238,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-19T08:33:48Z",
+      "Recipe": "brunsli",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21238",
+      "LastCommitSHA": "8d98bbb454e32870a074b7828fa199de0a2c2c4d",
+      "LastCommitAt": "2023-11-19T08:36:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21240,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-19T09:06:31Z",
+      "Recipe": "wayland",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21240",
+      "LastCommitSHA": "5089a3b1a15d2cd77db64b7cb2b484d8cca73372",
+      "LastCommitAt": "2023-11-19T09:05:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
