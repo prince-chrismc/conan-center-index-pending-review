@@ -167,15 +167,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21222](https://github.com/conan-io/conan-center-index/pull/21222)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: ceres-solver|L|0|||
 [#21226](https://github.com/conan-io/conan-center-index/pull/21226)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libsixel|:green_circle: XS|0|||
 [#21227](https://github.com/conan-io/conan-center-index/pull/21227)|[temap](https://github.com/temap)|Nov 18|:stopwatch: libbpf|:blue_square: S|0|||
-[#21228](https://github.com/conan-io/conan-center-index/pull/21228)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: imutils-cpp|:green_circle: XS|0|||
+[#21228](https://github.com/conan-io/conan-center-index/pull/21228)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: imutils-cpp|:green_circle: XS|0|||
 [#21229](https://github.com/conan-io/conan-center-index/pull/21229)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: prometheus-cpp|:green_circle: XS|0|||
 [#21230](https://github.com/conan-io/conan-center-index/pull/21230)|[temap](https://github.com/temap)|Nov 18|:memo: elfutils|:green_circle: XS|0|||
 [#21233](https://github.com/conan-io/conan-center-index/pull/21233)|[toge](https://github.com/toge)|Nov 19|:memo: serdepp|M|0|||
-[#21236](https://github.com/conan-io/conan-center-index/pull/21236)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: harfbuzz|:green_circle: XS|0|||
 [#21237](https://github.com/conan-io/conan-center-index/pull/21237)|[valgur](https://github.com/valgur)|Nov 19|:stopwatch: proj|:green_circle: XS|0|||
 [#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|0|||
 [#21242](https://github.com/conan-io/conan-center-index/pull/21242)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: opencv|:blue_square: S|0|||
 [#21244](https://github.com/conan-io/conan-center-index/pull/21244)|[toge](https://github.com/toge)|Nov 19|:stopwatch: miniaudio|:green_circle: XS|0|||
+[#21246](https://github.com/conan-io/conan-center-index/pull/21246)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: libdisplay-info|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -200,9 +200,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 475
+	- Open: 476
 	- Draft: 51
-	- Average Age: 101 days, 4 hours, and 47.96 minutes
+	- Average Age: 101 days, and 43.09 minutes
 	- Stop Label: 237
 	
 
