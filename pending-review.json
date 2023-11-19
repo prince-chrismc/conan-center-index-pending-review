@@ -3768,25 +3768,6 @@
       }
    },
    {
-      "Number": 21225,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-18T20:10:04Z",
-      "Recipe": "openal-soft",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21225",
-      "LastCommitSHA": "fd40d0aad4db3f97955b7b849a412018e9f059ca",
-      "LastCommitAt": "2023-11-18T20:09:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21226,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-18T20:16:09Z",
@@ -3853,7 +3834,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21229",
       "LastCommitSHA": "d8f0a3c5a29ec054e6290dbdf7dc84d7a9728ec4",
       "LastCommitAt": "2023-11-18T20:21:05Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
