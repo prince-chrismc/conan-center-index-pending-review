@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **145** pull requests currently under way :detective:
+There are **144** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -166,11 +166,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21217](https://github.com/conan-io/conan-center-index/pull/21217)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: fftw|:green_circle: XS|0|||
 [#21222](https://github.com/conan-io/conan-center-index/pull/21222)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: ceres-solver|L|0|||
 [#21223](https://github.com/conan-io/conan-center-index/pull/21223)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: qt|:blue_square: S|1|Nov 18||ericLemanissier
-[#21225](https://github.com/conan-io/conan-center-index/pull/21225)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: openal-soft|:green_circle: XS|0|||
 [#21226](https://github.com/conan-io/conan-center-index/pull/21226)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: libsixel|:green_circle: XS|0|||
 [#21227](https://github.com/conan-io/conan-center-index/pull/21227)|[temap](https://github.com/temap)|Nov 18|:stopwatch: libbpf|:blue_square: S|0|||
 [#21228](https://github.com/conan-io/conan-center-index/pull/21228)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: imutils-cpp|:green_circle: XS|0|||
-[#21229](https://github.com/conan-io/conan-center-index/pull/21229)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:stopwatch: prometheus-cpp|:green_circle: XS|0|||
+[#21229](https://github.com/conan-io/conan-center-index/pull/21229)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: prometheus-cpp|:green_circle: XS|0|||
 [#21230](https://github.com/conan-io/conan-center-index/pull/21230)|[temap](https://github.com/temap)|Nov 18|:memo: elfutils|:green_circle: XS|0|||
 
 
@@ -196,9 +195,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 467
+	- Open: 466
 	- Draft: 50
-	- Average Age: 102 days, 9 hours, and 5.51 minutes
+	- Average Age: 102 days, 15 hours, and 52.77 minutes
 	- Stop Label: 234
 	
 
