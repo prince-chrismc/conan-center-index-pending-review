@@ -3786,7 +3786,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21228",
       "LastCommitSHA": "2955b8d33f5506c029e960f94878e3fbf875fc53",
       "LastCommitAt": "2023-11-18T20:17:53Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3844,25 +3844,6 @@
       "LastCommitSHA": "68f006187959deab033fe5f5f941450946cbf023",
       "LastCommitAt": "2023-11-19T04:30:51Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21236,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-19T08:08:56Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21236",
-      "LastCommitSHA": "8a72ef61e036b9d77aae9b3e78c933bf48a34bd7",
-      "LastCommitAt": "2023-11-19T08:08:23Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3938,6 +3919,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21244",
       "LastCommitSHA": "97ec646536ee362944e43a4437c4c94531464a30",
       "LastCommitAt": "2023-11-19T12:13:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21246,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-19T14:56:06Z",
+      "Recipe": "libdisplay-info",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21246",
+      "LastCommitSHA": "7413aa2c47bc1e994cd9a5317c5dd4723c056b33",
+      "LastCommitAt": "2023-11-19T14:55:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
