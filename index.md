@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **150** pull requests currently under way :detective:
+There are **151** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -141,6 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21102](https://github.com/conan-io/conan-center-index/pull/21102)|[agdavydov81](https://github.com/agdavydov81)|Nov 13|:new: dfp|M|1|Nov 14|RubenRBS|
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14||jwillikers
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|0|:eyes:||
+[#21157](https://github.com/conan-io/conan-center-index/pull/21157)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: libmysqlclient|:blue_square: S|0|||
 [#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:stopwatch: pulseaudio|:green_circle: XS|2|Nov 16||
 [#21174](https://github.com/conan-io/conan-center-index/pull/21174)|[toge](https://github.com/toge)|Nov 16|:memo: aws-c-io|:green_circle: XS|1|Nov 17||**uilianries**
 [#21177](https://github.com/conan-io/conan-center-index/pull/21177)|[toge](https://github.com/toge)|Nov 17|:memo: highfive|:green_circle: XS|0|||
@@ -201,10 +202,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 476
+	- Open: 475
 	- Draft: 51
-	- Average Age: 101 days, 2 hours, and 41.93 minutes
-	- Stop Label: 236
+	- Average Age: 101 days, 9 hours, and 46.47 minutes
+	- Stop Label: 235
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
