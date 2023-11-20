@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **153** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -175,7 +175,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|0|||
 [#21239](https://github.com/conan-io/conan-center-index/pull/21239)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: xkbcommon|M|2|Nov 19||jwillikers
 [#21242](https://github.com/conan-io/conan-center-index/pull/21242)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: opencv|:blue_square: S|0|||
-[#21244](https://github.com/conan-io/conan-center-index/pull/21244)|[toge](https://github.com/toge)|Nov 19|:stopwatch: miniaudio|:green_circle: XS|0|||
 [#21246](https://github.com/conan-io/conan-center-index/pull/21246)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libdisplay-info|:blue_square: S|0|||
 [#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:memo: libhal|:blue_square: S|0|||
 [#21248](https://github.com/conan-io/conan-center-index/pull/21248)|[kammce](https://github.com/kammce)|Nov 19|:gear: .github|:green_circle: XS|0|||
@@ -204,9 +203,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 477
+	- Open: 476
 	- Draft: 51
-	- Average Age: 101 days, 5 hours, and 14.95 minutes
+	- Average Age: 101 days, 11 hours, and 24.44 minutes
 	- Stop Label: 235
 	
 
