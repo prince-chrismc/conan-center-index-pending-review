@@ -4013,43 +4013,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 21250,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-20T02:09:29Z",
-      "Recipe": "pdfium",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21250",
-      "LastCommitSHA": "2da2b70ed5b0edc21084d85d2037949dab99a922",
-      "LastCommitAt": "2023-11-20T02:08:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21251,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-20T02:19:42Z",
-      "Recipe": "aggeom-agg",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21251",
-      "LastCommitSHA": "118c2aa1d87755e8c1a36f4bbc48a8b7ac98a2f3",
-      "LastCommitAt": "2023-11-20T02:19:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
