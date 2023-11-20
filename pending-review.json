@@ -3040,9 +3040,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21085",
-      "LastCommitSHA": "44fd0803e32854282023e12e0e68f2c998ab0dac",
-      "LastCommitAt": "2023-11-14T06:14:06Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7a01051a22a72f9ea5a6500dd091167079b41761",
+      "LastCommitAt": "2023-11-20T08:51:40Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3988,11 +3988,21 @@
       "LastCommitAt": "2023-11-19T21:28:32Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-11-20T09:12:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21248#pullrequestreview-1739268647"
+         }
       }
    },
    {
@@ -4015,15 +4025,15 @@
       }
    },
    {
-      "Number": 21258,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-11-20T08:11:18Z",
-      "Recipe": "meson",
+      "Number": 21259,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-20T08:15:46Z",
+      "Recipe": "msdfgen",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21258",
-      "LastCommitSHA": "17ea30bc69852cbfaf7da33d11e832a7ec0a30c2",
-      "LastCommitAt": "2023-11-20T08:10:28Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21259",
+      "LastCommitSHA": "702d0a3f8de4b0cd2a8929cd5cd40a0d104f94f7",
+      "LastCommitAt": "2023-11-20T08:15:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4034,15 +4044,15 @@
       }
    },
    {
-      "Number": 21259,
+      "Number": 21260,
       "OpenedBy": "toge",
-      "CreatedAt": "2023-11-20T08:15:46Z",
-      "Recipe": "msdfgen",
+      "CreatedAt": "2023-11-20T08:35:41Z",
+      "Recipe": "libxft",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21259",
-      "LastCommitSHA": "702d0a3f8de4b0cd2a8929cd5cd40a0d104f94f7",
-      "LastCommitAt": "2023-11-20T08:15:13Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21260",
+      "LastCommitSHA": "101f68d9e9ce62d2f43844ef8c61799f685438e0",
+      "LastCommitAt": "2023-11-20T08:34:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
