@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **154** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -179,8 +179,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:memo: libhal|:blue_square: S|0|||
 [#21248](https://github.com/conan-io/conan-center-index/pull/21248)|[kammce](https://github.com/kammce)|Nov 19|:gear: .github|:green_circle: XS|0|||
 [#21249](https://github.com/conan-io/conan-center-index/pull/21249)|[jakeheke75](https://github.com/jakeheke75)|Nov 19|:stopwatch: ms-gsl|:green_circle: XS|0|||
-[#21250](https://github.com/conan-io/conan-center-index/pull/21250)|[toge](https://github.com/toge)|Nov 20|:stopwatch: pdfium|:green_circle: XS|0|||
-[#21251](https://github.com/conan-io/conan-center-index/pull/21251)|[toge](https://github.com/toge)|Nov 20|:stopwatch: aggeom-agg|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -205,9 +203,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 478
+	- Open: 477
 	- Draft: 51
-	- Average Age: 101 days, 1 hours, and 44.98 minutes
+	- Average Age: 101 days, 7 hours, and 34.24 minutes
 	- Stop Label: 235
 	
 
