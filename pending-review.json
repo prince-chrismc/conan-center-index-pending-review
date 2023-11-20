@@ -3946,8 +3946,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21244",
-      "LastCommitSHA": "97ec646536ee362944e43a4437c4c94531464a30",
-      "LastCommitAt": "2023-11-19T12:13:27Z",
+      "LastCommitSHA": "34a3181ec1c7337fdb75bd994e75e7b38c56928b",
+      "LastCommitAt": "2023-11-20T00:45:40Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4006,6 +4006,25 @@
       "LastCommitSHA": "edbd13ed3677e2f25eb9dfe9467ce4ffe3eae7ec",
       "LastCommitAt": "2023-11-19T21:28:32Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21249,
+      "OpenedBy": "jakeheke75",
+      "CreatedAt": "2023-11-19T23:36:17Z",
+      "Recipe": "ms-gsl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21249",
+      "LastCommitSHA": "d48d4aa8bddcd19b6fc73d22cdeeb959e7864e48",
+      "LastCommitAt": "2023-11-19T23:17:27Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
