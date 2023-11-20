@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **149** pull requests currently under way :detective:
+There are **153** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -172,10 +172,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:memo: libhal|:blue_square: S|1|Nov 20||jwillikers
 [#21249](https://github.com/conan-io/conan-center-index/pull/21249)|[jakeheke75](https://github.com/jakeheke75)|Nov 19|:stopwatch: ms-gsl|:green_circle: XS|0|||
 [#21262](https://github.com/conan-io/conan-center-index/pull/21262)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 20|:gear: .c3i|:green_circle: XS|1|Nov 20||**RubenRBS**
-[#21263](https://github.com/conan-io/conan-center-index/pull/21263)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 20|:stopwatch: qt|:blue_square: S|1|Nov 20||jwillikers
+[#21263](https://github.com/conan-io/conan-center-index/pull/21263)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 20|:stopwatch: qt|:blue_square: S|1|Nov 20||
 [#21264](https://github.com/conan-io/conan-center-index/pull/21264)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:stopwatch: ms-gsl|:blue_square: S|1|Nov 20||jwillikers
-[#21265](https://github.com/conan-io/conan-center-index/pull/21265)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 20|:stopwatch: xkbcommon|:green_circle: XS|0|||
-[#21266](https://github.com/conan-io/conan-center-index/pull/21266)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 20|:stopwatch: wayland|:green_circle: XS|0|||
+[#21265](https://github.com/conan-io/conan-center-index/pull/21265)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 20|:stopwatch: xkbcommon|:green_circle: XS|1|Nov 20||jwillikers
+[#21266](https://github.com/conan-io/conan-center-index/pull/21266)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 20|:stopwatch: wayland|:green_circle: XS|1|Nov 20||jwillikers
+[#21269](https://github.com/conan-io/conan-center-index/pull/21269)|[igormironchik](https://github.com/igormironchik)|Nov 20|:stopwatch: md4qt|:green_circle: XS|0|||
+[#21270](https://github.com/conan-io/conan-center-index/pull/21270)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:stopwatch: hictk|:blue_square: S|0|||
+[#21271](https://github.com/conan-io/conan-center-index/pull/21271)|[valgur](https://github.com/valgur)|Nov 20|:stopwatch: arbiter|M|0|||
+[#21272](https://github.com/conan-io/conan-center-index/pull/21272)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:stopwatch: refl-cpp|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -199,10 +203,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 473
+	- Open: 479
 	- Draft: 52
-	- Average Age: 102 days, 10 hours, and 7.29 minutes
-	- Stop Label: 235
+	- Average Age: 101 days, 4 hours, and 12.10 minutes
+	- Stop Label: 237
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
