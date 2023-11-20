@@ -4013,5 +4013,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21254,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-20T04:32:39Z",
+      "Recipe": "sfml",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21254",
+      "LastCommitSHA": "391214ee3282f4a359475ca249e155bb26a40139",
+      "LastCommitAt": "2023-11-20T04:32:11Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21256,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-20T04:58:27Z",
+      "Recipe": "sdl_ttf",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21256",
+      "LastCommitSHA": "387a90e7174f773f3118b2266a1fb9fb9d50867b",
+      "LastCommitAt": "2023-11-20T04:57:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
