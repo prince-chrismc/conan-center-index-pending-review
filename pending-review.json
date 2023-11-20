@@ -3898,9 +3898,9 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21239",
-      "LastCommitSHA": "d55b7ea4d79c8641ff17f20b35e737c13e37164f",
-      "LastCommitAt": "2023-11-19T14:30:05Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "6caff28fa8ac93be9ff3c49a79fc659e3d1b2789",
+      "LastCommitAt": "2023-11-20T07:41:35Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 1,
@@ -4005,6 +4005,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21249",
       "LastCommitSHA": "d48d4aa8bddcd19b6fc73d22cdeeb959e7864e48",
       "LastCommitAt": "2023-11-19T23:17:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21258,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-11-20T08:11:18Z",
+      "Recipe": "meson",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21258",
+      "LastCommitSHA": "17ea30bc69852cbfaf7da33d11e832a7ec0a30c2",
+      "LastCommitAt": "2023-11-20T08:10:28Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21259,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-20T08:15:46Z",
+      "Recipe": "msdfgen",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21259",
+      "LastCommitSHA": "702d0a3f8de4b0cd2a8929cd5cd40a0d104f94f7",
+      "LastCommitAt": "2023-11-20T08:15:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
