@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **158** pull requests currently under way :detective:
+There are **159** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -165,7 +165,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21229](https://github.com/conan-io/conan-center-index/pull/21229)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: prometheus-cpp|:green_circle: XS|1|Nov 20||jwillikers
 [#21233](https://github.com/conan-io/conan-center-index/pull/21233)|[toge](https://github.com/toge)|Nov 19|:memo: serdepp|M|1|Nov 20||jwillikers
 [#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|1|Nov 20||jwillikers
-[#21239](https://github.com/conan-io/conan-center-index/pull/21239)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: xkbcommon|M|3|Nov 20||jwillikers
 [#21242](https://github.com/conan-io/conan-center-index/pull/21242)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: opencv|:blue_square: S|1|Nov 20||jwillikers
 [#21246](https://github.com/conan-io/conan-center-index/pull/21246)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libdisplay-info|:blue_square: S|1|Nov 20||jwillikers
 [#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:memo: libhal|:blue_square: S|1|Nov 20||
@@ -185,6 +184,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21279](https://github.com/conan-io/conan-center-index/pull/21279)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: jwasm|:blue_square: S|0|||
 [#21280](https://github.com/conan-io/conan-center-index/pull/21280)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: nlohmann_json|:green_circle: XS|2|Nov 21||jwillikers, [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#21281](https://github.com/conan-io/conan-center-index/pull/21281)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: spirv-headers|:green_circle: XS|0|||
+[#21282](https://github.com/conan-io/conan-center-index/pull/21282)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:stopwatch: arsenalgear|M|0|||
+[#21285](https://github.com/conan-io/conan-center-index/pull/21285)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:memo: stb|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -210,8 +211,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 484
 	- Draft: 51
-	- Average Age: 99 days, 23 hours, and 26.87 minutes
-	- Stop Label: 239
+	- Average Age: 100 days, and 22.51 minutes
+	- Stop Label: 238
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
