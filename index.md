@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **145** pull requests currently under way :detective:
+There are **146** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -170,8 +170,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21270](https://github.com/conan-io/conan-center-index/pull/21270)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: hictk|:blue_square: S|0|||
 [#21271](https://github.com/conan-io/conan-center-index/pull/21271)|[valgur](https://github.com/valgur)|Nov 20|:new: arbiter|M|0|||
 [#21272](https://github.com/conan-io/conan-center-index/pull/21272)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: refl-cpp|:blue_square: S|0|||
-[#21282](https://github.com/conan-io/conan-center-index/pull/21282)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: arsenalgear|M|0|||
+[#21282](https://github.com/conan-io/conan-center-index/pull/21282)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:stopwatch: arsenalgear|M|0|||
 [#21293](https://github.com/conan-io/conan-center-index/pull/21293)|[hegyizs](https://github.com/hegyizs)|Nov 21|:memo: icu|:green_circle: XS|0|||
+[#21303](https://github.com/conan-io/conan-center-index/pull/21303)|[Nerixyz](https://github.com/Nerixyz)|Nov 21|:new: boost-wintls|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -195,9 +196,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 466
-	- Draft: 48
-	- Average Age: 104 days, 5 hours, and 58.89 minutes
+	- Open: 468
+	- Draft: 49
+	- Average Age: 103 days, 20 hours, and 16.62 minutes
 	- Stop Label: 238
 	
 
