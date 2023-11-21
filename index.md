@@ -168,7 +168,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21239](https://github.com/conan-io/conan-center-index/pull/21239)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: xkbcommon|M|3|Nov 20||jwillikers
 [#21242](https://github.com/conan-io/conan-center-index/pull/21242)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: opencv|:blue_square: S|1|Nov 20||jwillikers
 [#21246](https://github.com/conan-io/conan-center-index/pull/21246)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libdisplay-info|:blue_square: S|1|Nov 20||jwillikers
-[#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:memo: libhal|:blue_square: S|1|Nov 20||jwillikers
+[#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:memo: libhal|:blue_square: S|1|Nov 20||
 [#21249](https://github.com/conan-io/conan-center-index/pull/21249)|[jakeheke75](https://github.com/jakeheke75)|Nov 19|:stopwatch: ms-gsl|:green_circle: XS|0|||
 [#21262](https://github.com/conan-io/conan-center-index/pull/21262)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 20|:gear: .c3i|:green_circle: XS|1|Nov 20||**RubenRBS**
 [#21263](https://github.com/conan-io/conan-center-index/pull/21263)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 20|:stopwatch: qt|:blue_square: S|3|Nov 20||jwillikers
@@ -211,7 +211,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 483
 	- Draft: 51
-	- Average Age: 99 days, 21 hours, and 21.24 minutes
+	- Average Age: 99 days, 23 hours, and 0.65 minutes
 	- Stop Label: 237
 	
 
