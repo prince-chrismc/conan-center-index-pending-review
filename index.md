@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **147** pull requests currently under way :detective:
+There are **146** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -78,7 +78,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19234](https://github.com/conan-io/conan-center-index/pull/19234)|[cjbradfield](https://github.com/cjbradfield)|Aug 16|:new: quictls-openssl|XL|0|:eyes:||
 [#19239](https://github.com/conan-io/conan-center-index/pull/19239)|[valgur](https://github.com/valgur)|Aug 17|:memo: pro-mdnsd|L|1|Aug 21 :bell:||[steinerthomas](https://github.com/steinerthomas)
 [#19262](https://github.com/conan-io/conan-center-index/pull/19262)|[valgur](https://github.com/valgur)|Aug 17|:memo: nss|L|5|Nov 16||jwillikers
-[#19298](https://github.com/conan-io/conan-center-index/pull/19298)|[valgur](https://github.com/valgur)|Aug 19|:memo: gdal|XL|1|Oct 20 :bell:||
+[#19298](https://github.com/conan-io/conan-center-index/pull/19298)|[valgur](https://github.com/valgur)|Aug 19|:memo: gdal|XL|2|Nov 21||AndreyMlashkin
 [#19490](https://github.com/conan-io/conan-center-index/pull/19490)|[cjbradfield](https://github.com/cjbradfield)|Aug 30|:memo: wolfssl|:green_circle: XS|0|:eyes:||
 [#19496](https://github.com/conan-io/conan-center-index/pull/19496)|[KevDi](https://github.com/KevDi)|Aug 30|:stopwatch: librdkafka|M|0|:eyes:||
 [#19606](https://github.com/conan-io/conan-center-index/pull/19606)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 5|:memo: vulkan-validationlayers|:blue_square: S|5|Nov 1 :bell:||SpaceIm, SSE4, jwillikers, StellaSmith
@@ -135,11 +135,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21000](https://github.com/conan-io/conan-center-index/pull/21000)|[KingKili](https://github.com/KingKili)|Nov 8|:stopwatch: hdf5|:blue_square: S|1|Nov 14||
 [#21016](https://github.com/conan-io/conan-center-index/pull/21016)|[toge](https://github.com/toge)|Nov 9|:memo: aws-c-http|:blue_square: S|0|||
 [#21020](https://github.com/conan-io/conan-center-index/pull/21020)|[nagayev](https://github.com/nagayev)|Nov 9|:stopwatch: dcmtk|:green_circle: XS|0|:eyes:||
-[#21026](https://github.com/conan-io/conan-center-index/pull/21026)|[wdobbe](https://github.com/wdobbe)|Nov 9|:memo: qt|M|2|Nov 9||jwillikers
+[#21026](https://github.com/conan-io/conan-center-index/pull/21026)|[wdobbe](https://github.com/wdobbe)|Nov 9|:memo: qt|M|2|Nov 9 :bell:||jwillikers
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:memo: rocksdb|:blue_square: S|0|:eyes:||
 [#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:memo: tinyalsa|L|1|Nov 14|uilianries|
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|2|Nov 20||jwillikers
-[#21102](https://github.com/conan-io/conan-center-index/pull/21102)|[agdavydov81](https://github.com/agdavydov81)|Nov 13|:new: dfp|M|1|Nov 14|RubenRBS|
+[#21102](https://github.com/conan-io/conan-center-index/pull/21102)|[agdavydov81](https://github.com/agdavydov81)|Nov 13|:stopwatch: dfp|M|4|Nov 21|RubenRBS|**franramirez688**
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14||jwillikers
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|1|Nov 20||jwillikers
 [#21157](https://github.com/conan-io/conan-center-index/pull/21157)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: libmysqlclient|:blue_square: S|1|Nov 20||jwillikers
@@ -171,14 +171,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21282](https://github.com/conan-io/conan-center-index/pull/21282)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: arsenalgear|M|0|||
 [#21288](https://github.com/conan-io/conan-center-index/pull/21288)|[toge](https://github.com/toge)|Nov 21|:memo: libgd|M|1|Nov 21||**RubenRBS**
 [#21293](https://github.com/conan-io/conan-center-index/pull/21293)|[hegyizs](https://github.com/hegyizs)|Nov 21|:stopwatch: icu|:green_circle: XS|0|||
-[#21295](https://github.com/conan-io/conan-center-index/pull/21295)|[toge](https://github.com/toge)|Nov 21|:stopwatch: quill|:green_circle: XS|0|||
-[#21297](https://github.com/conan-io/conan-center-index/pull/21297)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 21|:stopwatch: osmanip|:green_circle: XS|0|||
-[#21298](https://github.com/conan-io/conan-center-index/pull/21298)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 21|:stopwatch: tensorflow-lite|:green_circle: XS|0|||
+[#21300](https://github.com/conan-io/conan-center-index/pull/21300)|[fpelliccioni](https://github.com/fpelliccioni)|Nov 21|:stopwatch: emsdk|:green_circle: XS|0|||
+[#21301](https://github.com/conan-io/conan-center-index/pull/21301)|[toge](https://github.com/toge)|Nov 21|:stopwatch: ktx|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **6** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -189,7 +188,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:warning: ginkgo|6|**uilianries**, jwillikers, **RubenRBS**
-[#21285](https://github.com/conan-io/conan-center-index/pull/21285)|[SpaceIm](https://github.com/SpaceIm)|Nov 21|:memo: stb|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -198,10 +196,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 474
+	- Open: 475
 	- Draft: 50
-	- Average Age: 102 days, 8 hours, and 48.25 minutes
-	- Stop Label: 238
+	- Average Age: 102 days, 4 hours, and 39.61 minutes
+	- Stop Label: 241
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
