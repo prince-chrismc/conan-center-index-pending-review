@@ -3916,7 +3916,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21282",
       "LastCommitSHA": "816b2ad57946d9dfe02c79ba8840636c3066009b",
       "LastCommitAt": "2023-11-21T08:16:49Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3935,6 +3935,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21293",
       "LastCommitSHA": "cfc5aac3b841f18019b09fe60bc0ce4788d09321",
       "LastCommitAt": "2023-11-21T12:36:27Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21303,
+      "OpenedBy": "Nerixyz",
+      "CreatedAt": "2023-11-21T20:47:06Z",
+      "Recipe": "boost-wintls",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21303",
+      "LastCommitSHA": "94cf7ff372ec049b2887097426cf17eaf30f7d6d",
+      "LastCommitAt": "2023-11-21T20:44:46Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
