@@ -128,7 +128,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|1|Nov 20||jwillikers
 [#20734](https://github.com/conan-io/conan-center-index/pull/20734)|[mayeut](https://github.com/mayeut)|Oct 22|:stopwatch: gdal|M|0|||
 [#20762](https://github.com/conan-io/conan-center-index/pull/20762)|[MartinDelille](https://github.com/MartinDelille)|Oct 25|:stopwatch: sentry-native|XL|0|||
-[#20813](https://github.com/conan-io/conan-center-index/pull/20813)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Oct 28|:stopwatch: onetbb|:blue_square: S|4|Nov 22||**uilianries**
+[#20813](https://github.com/conan-io/conan-center-index/pull/20813)|[AndreyMlashkin](https://github.com/AndreyMlashkin)|Oct 28|:stopwatch: onetbb|:blue_square: S|4|Nov 22||
 [#20851](https://github.com/conan-io/conan-center-index/pull/20851)|[lucaskdc](https://github.com/lucaskdc)|Oct 31|:new: freealut|M|4|Nov 14||
 [#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:new: quickcpplib|L|1|Nov 1 :bell:||
 [#20870](https://github.com/conan-io/conan-center-index/pull/20870)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: harfbuzz|:green_circle: XS|3|Nov 15||jwillikers, SSE4, [valgur](https://github.com/valgur)
@@ -179,7 +179,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **19** pull requests are waiting to be merged :tada:
+Currently **18** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -202,7 +202,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#21306](https://github.com/conan-io/conan-center-index/pull/21306)|[toge](https://github.com/toge)|Nov 22|:memo: rapidjson|2|**RubenRBS**, ericLemanissier
 [#21310](https://github.com/conan-io/conan-center-index/pull/21310)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: psimd|2|**RubenRBS**, ericLemanissier
 [#21311](https://github.com/conan-io/conan-center-index/pull/21311)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: nanoflann|2|**RubenRBS**, ericLemanissier
-[#21319](https://github.com/conan-io/conan-center-index/pull/21319)|[danimtb](https://github.com/danimtb)|Nov 22|:gear: .c3i|2|**RubenRBS**, **jcar87**
 
 
 #### :clipboard: Statistics
@@ -211,9 +210,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 474
+	- Open: 473
 	- Draft: 49
-	- Average Age: 102 days, 21 hours, and 32.86 minutes
+	- Average Age: 103 days, 3 hours, and 44.22 minutes
 	- Stop Label: 228
 	
 
