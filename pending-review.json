@@ -820,25 +820,6 @@
       }
    },
    {
-      "Number": 18860,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-24T05:26:25Z",
-      "Recipe": "magnum",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18860",
-      "LastCommitSHA": "80b3062df285a283aa523efa6bf06a6277f3728a",
-      "LastCommitAt": "2023-11-22T15:03:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18861,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-24T05:39:24Z",
@@ -2805,25 +2786,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20734",
       "LastCommitSHA": "31448bd64ba8ea286635f594a56515e64d09e1be",
       "LastCommitAt": "2023-11-21T08:19:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 20762,
-      "OpenedBy": "MartinDelille",
-      "CreatedAt": "2023-10-25T09:11:58Z",
-      "Recipe": "sentry-native",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20762",
-      "LastCommitSHA": "41d239f258061d7bf5f74a4d9c13d5fe5399b13e",
-      "LastCommitAt": "2023-11-22T14:24:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
