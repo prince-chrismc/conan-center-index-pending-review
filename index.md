@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **149** pull requests currently under way :detective:
+There are **148** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -175,12 +175,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21316](https://github.com/conan-io/conan-center-index/pull/21316)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:stopwatch: onetbb|:blue_square: S|0|||
 [#21317](https://github.com/conan-io/conan-center-index/pull/21317)|[toge](https://github.com/toge)|Nov 22|:stopwatch: sqlite3|:green_circle: XS|0|||
 [#21318](https://github.com/conan-io/conan-center-index/pull/21318)|[toge](https://github.com/toge)|Nov 22|:stopwatch: glaze|:green_circle: XS|0|||
-[#21319](https://github.com/conan-io/conan-center-index/pull/21319)|[danimtb](https://github.com/danimtb)|Nov 22|:gear: .c3i|:green_circle: XS|1|Nov 22||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **18** pull requests are waiting to be merged :tada:
+Currently **19** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -203,6 +202,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#21306](https://github.com/conan-io/conan-center-index/pull/21306)|[toge](https://github.com/toge)|Nov 22|:memo: rapidjson|2|**RubenRBS**, ericLemanissier
 [#21310](https://github.com/conan-io/conan-center-index/pull/21310)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: psimd|2|**RubenRBS**, ericLemanissier
 [#21311](https://github.com/conan-io/conan-center-index/pull/21311)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: nanoflann|2|**RubenRBS**, ericLemanissier
+[#21319](https://github.com/conan-io/conan-center-index/pull/21319)|[danimtb](https://github.com/danimtb)|Nov 22|:gear: .c3i|2|**RubenRBS**, **jcar87**
 
 
 #### :clipboard: Statistics
@@ -213,7 +213,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 474
 	- Draft: 49
-	- Average Age: 102 days, 18 hours, and 31.72 minutes
+	- Average Age: 102 days, 21 hours, and 32.86 minutes
 	- Stop Label: 228
 	
 
