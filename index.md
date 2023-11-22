@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **147** pull requests currently under way :detective:
+There are **148** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -174,6 +174,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21293](https://github.com/conan-io/conan-center-index/pull/21293)|[hegyizs](https://github.com/hegyizs)|Nov 21|:memo: icu|:green_circle: XS|0|||
 [#21303](https://github.com/conan-io/conan-center-index/pull/21303)|[Nerixyz](https://github.com/Nerixyz)|Nov 21|:new: boost-wintls|M|0|||
 [#21306](https://github.com/conan-io/conan-center-index/pull/21306)|[toge](https://github.com/toge)|Nov 22|:memo: rapidjson|:green_circle: XS|0|||
+[#21307](https://github.com/conan-io/conan-center-index/pull/21307)|[toge](https://github.com/toge)|Nov 22|:stopwatch: implot|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -197,10 +198,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 470
-	- Draft: 49
-	- Average Age: 103 days, 18 hours, and 43.86 minutes
-	- Stop Label: 239
+	- Open: 471
+	- Draft: 50
+	- Average Age: 103 days, 14 hours, and 21.34 minutes
+	- Stop Label: 238
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
