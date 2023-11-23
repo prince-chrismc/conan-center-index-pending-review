@@ -2895,11 +2895,21 @@
       "LastCommitAt": "2023-11-21T11:20:35Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-23T08:01:04Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21016#pullrequestreview-1745863326"
+         }
       }
    },
    {
@@ -3553,9 +3563,9 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21271",
-      "LastCommitSHA": "708766c4996432d90d33ac635633376ca3354541",
-      "LastCommitAt": "2023-11-21T09:42:13Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "7d44f1484da5d8621e355d8a18fcb3c1c0245be4",
+      "LastCommitAt": "2023-11-23T07:58:55Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3762,6 +3772,25 @@
       "LastCommitSHA": "574ef565a4c49d8ef302360b2bf5c637dbcd6f12",
       "LastCommitAt": "2023-11-22T14:23:29Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21322,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-23T07:15:07Z",
+      "Recipe": "capnproto",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21322",
+      "LastCommitSHA": "e9fbab5cc6f54e0784ee2dc1328badea5291abb9",
+      "LastCommitAt": "2023-11-23T07:13:21Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
