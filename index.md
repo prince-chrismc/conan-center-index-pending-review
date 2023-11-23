@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **140** pull requests currently under way :detective:
+There are **144** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -71,7 +71,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18978](https://github.com/conan-io/conan-center-index/pull/18978)|[valgur](https://github.com/valgur)|Jul 31|:stopwatch: rdma-core|L|0|:eyes:||
 [#19031](https://github.com/conan-io/conan-center-index/pull/19031)|[klausholstjacobsen](https://github.com/klausholstjacobsen)|Aug 3|:new: openssh|M|5|Oct 6 :bell:||
 [#19070](https://github.com/conan-io/conan-center-index/pull/19070)|[Tradias](https://github.com/Tradias)|Aug 6|:memo: asio-grpc|:green_circle: XS|0|:eyes:||
-[#19073](https://github.com/conan-io/conan-center-index/pull/19073)|[valgur](https://github.com/valgur)|Aug 6|:memo: ignition-cmake|L|0|:eyes:||
+[#19073](https://github.com/conan-io/conan-center-index/pull/19073)|[valgur](https://github.com/valgur)|Aug 6|:memo: ignition-cmake|L|1|Nov 23||**uilianries**
 [#19082](https://github.com/conan-io/conan-center-index/pull/19082)|[bog-dan-ro](https://github.com/bog-dan-ro)|Aug 7|:stopwatch: qt|:green_circle: XS|3|Aug 7 :bell:||jwillikers, MartinDelille
 [#19118](https://github.com/conan-io/conan-center-index/pull/19118)|[sjlamerton](https://github.com/sjlamerton)|Aug 9|:memo: ffmpeg|M|1|Oct 20 :bell:||MartinDelille
 [#19123](https://github.com/conan-io/conan-center-index/pull/19123)|[ledocc](https://github.com/ledocc)|Aug 9|:memo: libselinux|:blue_square: S|4|Oct 15 :bell:||[Tobulus](https://github.com/Tobulus), [tbsuht](https://github.com/tbsuht), jwillikers
@@ -142,6 +142,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|2|Nov 20||jwillikers
 [#21102](https://github.com/conan-io/conan-center-index/pull/21102)|[agdavydov81](https://github.com/agdavydov81)|Nov 13|:new: dfp|M|4|Nov 21|RubenRBS|**franramirez688**
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14||jwillikers
+[#21137](https://github.com/conan-io/conan-center-index/pull/21137)|[valgur](https://github.com/valgur)|Nov 14|:memo: gdk-pixbuf|M|9|Nov 23|franramirez688|**uilianries**
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|1|Nov 20||jwillikers
 [#21157](https://github.com/conan-io/conan-center-index/pull/21157)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: libmysqlclient|:blue_square: S|1|Nov 20||jwillikers
 [#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:stopwatch: pulseaudio|:green_circle: XS|3|Nov 20||jwillikers
@@ -156,6 +157,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:memo: libhal|:blue_square: S|1|Nov 20||
 [#21249](https://github.com/conan-io/conan-center-index/pull/21249)|[jakeheke75](https://github.com/jakeheke75)|Nov 19|:stopwatch: ms-gsl|:green_circle: XS|0|:eyes:||
 [#21267](https://github.com/conan-io/conan-center-index/pull/21267)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: cpp-sort|:blue_square: S|1|Nov 22||jwillikers
+[#21271](https://github.com/conan-io/conan-center-index/pull/21271)|[valgur](https://github.com/valgur)|Nov 20|:new: arbiter|M|0|||
 [#21282](https://github.com/conan-io/conan-center-index/pull/21282)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:stopwatch: arsenalgear|M|1|Nov 22||jwillikers
 [#21293](https://github.com/conan-io/conan-center-index/pull/21293)|[hegyizs](https://github.com/hegyizs)|Nov 21|:memo: icu|:green_circle: XS|0|||
 [#21303](https://github.com/conan-io/conan-center-index/pull/21303)|[Nerixyz](https://github.com/Nerixyz)|Nov 21|:new: boost-wintls|M|0|||
@@ -167,6 +169,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21322](https://github.com/conan-io/conan-center-index/pull/21322)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: capnproto|M|0|||
 [#21324](https://github.com/conan-io/conan-center-index/pull/21324)|[NelDav](https://github.com/NelDav)|Nov 23|:stopwatch: cantera|L|0|||
 [#21325](https://github.com/conan-io/conan-center-index/pull/21325)|[uilianries](https://github.com/uilianries)|Nov 23|:stopwatch: pcl|:green_circle: XS|1|Nov 23||[valgur](https://github.com/valgur)
+[#21327](https://github.com/conan-io/conan-center-index/pull/21327)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 23|:gear: .c3i|:green_circle: XS|1|Nov 23||**uilianries**
+[#21328](https://github.com/conan-io/conan-center-index/pull/21328)|[valgur](https://github.com/valgur)|Nov 23|:stopwatch: coin-utils|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -190,10 +194,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 458
+	- Open: 460
 	- Draft: 49
-	- Average Age: 106 days, 9 hours, and 35.55 minutes
-	- Stop Label: 238
+	- Average Age: 105 days, 23 hours, and 42.50 minutes
+	- Stop Label: 236
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
