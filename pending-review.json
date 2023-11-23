@@ -1087,11 +1087,21 @@
       "LastCommitAt": "2023-11-17T07:35:09Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-23T11:12:09Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19073#pullrequestreview-1746222125"
+         }
       }
    },
    {
@@ -3175,6 +3185,37 @@
       }
    },
    {
+      "Number": 21137,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-14T17:02:17Z",
+      "Recipe": "gdk-pixbuf",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21137",
+      "LastCommitSHA": "25039944e5acdd5c5a1d48106dd9fcbc29a92b91",
+      "LastCommitAt": "2023-11-23T09:11:43Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 9,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": [
+            "franramirez688"
+         ],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-23T11:34:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21137#pullrequestreview-1746256848"
+         }
+      }
+   },
+   {
       "Number": 21153,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-11-15T22:40:37Z",
@@ -3570,6 +3611,25 @@
       }
    },
    {
+      "Number": 21271,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-20T16:42:22Z",
+      "Recipe": "arbiter",
+      "Change": 0,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21271",
+      "LastCommitSHA": "775df9a7f76b62f6847270e602723b5621d2f425",
+      "LastCommitAt": "2023-11-23T09:14:19Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21282,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-20T22:03:45Z",
@@ -3841,6 +3901,54 @@
             "SubmittedAt": "2023-11-23T09:11:41Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21325#pullrequestreview-1745997990"
          }
+      }
+   },
+   {
+      "Number": 21327,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2023-11-23T11:21:17Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21327",
+      "LastCommitSHA": "bcc8a1b6c9486b59735160f398d495f9d3d2cbad",
+      "LastCommitAt": "2023-11-23T11:21:14Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-23T11:51:05Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21327#pullrequestreview-1746286514"
+         }
+      }
+   },
+   {
+      "Number": 21328,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-23T12:07:52Z",
+      "Recipe": "coin-utils",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21328",
+      "LastCommitSHA": "386e4f5fa6d305d6cb2b3eb826c480c8817d6f5b",
+      "LastCommitAt": "2023-11-23T12:02:40Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
