@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **139** pull requests currently under way :detective:
+There are **138** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -50,7 +50,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18654](https://github.com/conan-io/conan-center-index/pull/18654)|[valgur](https://github.com/valgur)|Jul 19|:memo: directshowbaseclasses|L|1|Nov 9 :bell:||jwillikers
 [#18657](https://github.com/conan-io/conan-center-index/pull/18657)|[valgur](https://github.com/valgur)|Jul 19|:memo: huffman|L|1|Nov 9 :bell:||jwillikers
 [#18681](https://github.com/conan-io/conan-center-index/pull/18681)|[valgur](https://github.com/valgur)|Jul 19|:memo: libelfin|L|1|Nov 9 :bell:||jwillikers
-[#18730](https://github.com/conan-io/conan-center-index/pull/18730)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: libftdi|L|0|||
 [#18736](https://github.com/conan-io/conan-center-index/pull/18736)|[valgur](https://github.com/valgur)|Jul 20|:memo: djinni-support-lib|XL|0|:eyes:||
 [#18759](https://github.com/conan-io/conan-center-index/pull/18759)|[valgur](https://github.com/valgur)|Jul 20|:memo: lightgbm|L|3|Nov 6 :bell:||
 [#18820](https://github.com/conan-io/conan-center-index/pull/18820)|[valgur](https://github.com/valgur)|Jul 22|:memo: pagmo2|L|0|:eyes:||
@@ -191,8 +190,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 458
 	- Draft: 49
-	- Average Age: 106 days, 6 hours, and 1.44 minutes
-	- Stop Label: 237
+	- Average Age: 106 days, 6 hours, and 56.55 minutes
+	- Stop Label: 238
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
