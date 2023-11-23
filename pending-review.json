@@ -597,25 +597,6 @@
       }
    },
    {
-      "Number": 18730,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T14:04:57Z",
-      "Recipe": "libftdi",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18730",
-      "LastCommitSHA": "7083121c3b83201a1234467d61639de0ec4872d0",
-      "LastCommitAt": "2023-11-22T13:40:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18736,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T14:49:26Z",
