@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **145** pull requests currently under way :detective:
+There are **148** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -129,6 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20892](https://github.com/conan-io/conan-center-index/pull/20892)|[Kischy](https://github.com/Kischy)|Nov 2|:stopwatch: open62541|L|8|Nov 15||
 [#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|2|Nov 13|uilianries|jwillikers
 [#20905](https://github.com/conan-io/conan-center-index/pull/20905)|[jwillikers](https://github.com/jwillikers)|Nov 2|:memo: freeglut|XL|1|Nov 13||
+[#20909](https://github.com/conan-io/conan-center-index/pull/20909)|[toge](https://github.com/toge)|Nov 3|:new: simd|M|0|||
 [#20911](https://github.com/conan-io/conan-center-index/pull/20911)|[SpaceIm](https://github.com/SpaceIm)|Nov 3|:memo: tcl|M|1|Nov 6 :bell:||jwillikers
 [#20979](https://github.com/conan-io/conan-center-index/pull/20979)|[wdobbe](https://github.com/wdobbe)|Nov 7|:memo: qt|:blue_square: S|4|Nov 18|RubenRBS|ericLemanissier
 [#20984](https://github.com/conan-io/conan-center-index/pull/20984)|[memsharded](https://github.com/memsharded)|Nov 7|:memo: exiv2|:green_circle: XS|3|Nov 23||**RubenRBS**
@@ -172,6 +173,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21328](https://github.com/conan-io/conan-center-index/pull/21328)|[valgur](https://github.com/valgur)|Nov 23|:memo: coin-utils|:blue_square: S|0|||
 [#21331](https://github.com/conan-io/conan-center-index/pull/21331)|[toge](https://github.com/toge)|Nov 23|:memo: aws-c-auth|:blue_square: S|0|||
 [#21333](https://github.com/conan-io/conan-center-index/pull/21333)|[toge](https://github.com/toge)|Nov 23|:stopwatch: duckdb|M|0|||
+[#21334](https://github.com/conan-io/conan-center-index/pull/21334)|[valgur](https://github.com/valgur)|Nov 23|:stopwatch: thrift|L|0|||
+[#21335](https://github.com/conan-io/conan-center-index/pull/21335)|[toge](https://github.com/toge)|Nov 23|:stopwatch: metall|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -195,10 +198,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 464
+	- Open: 465
 	- Draft: 51
-	- Average Age: 105 days, 4 hours, and 34.91 minutes
-	- Stop Label: 235
+	- Average Age: 105 days, and 11.72 minutes
+	- Stop Label: 234
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
