@@ -3709,30 +3709,6 @@
       }
    },
    {
-      "Number": 21305,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-11-22T01:37:16Z",
-      "Recipe": "jinja2cpp",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21305",
-      "LastCommitSHA": "cef9c50880fdb42a9c795c2739457377891d1d19",
-      "LastCommitAt": "2023-11-23T08:17:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "rmorozov",
-            "SubmittedAt": "2023-11-22T13:38:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21305#pullrequestreview-1744404040"
-         }
-      }
-   },
-   {
       "Number": 21308,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-22T07:39:23Z",
@@ -3872,25 +3848,6 @@
       }
    },
    {
-      "Number": 21324,
-      "OpenedBy": "NelDav",
-      "CreatedAt": "2023-11-23T09:07:40Z",
-      "Recipe": "cantera",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21324",
-      "LastCommitSHA": "ca3b0d1be94402e756e69b611f49f2e9929432c1",
-      "LastCommitAt": "2023-11-23T13:14:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21325,
       "OpenedBy": "uilianries",
       "CreatedAt": "2023-11-23T09:09:26Z",
@@ -3958,7 +3915,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21328",
       "LastCommitSHA": "386e4f5fa6d305d6cb2b3eb826c480c8817d6f5b",
       "LastCommitAt": "2023-11-23T12:02:40Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3968,16 +3925,16 @@
       }
    },
    {
-      "Number": 21329,
-      "OpenedBy": "dean0x7d",
-      "CreatedAt": "2023-11-23T12:49:17Z",
-      "Recipe": "pfr",
+      "Number": 21331,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-23T14:28:01Z",
+      "Recipe": "aws-c-auth",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21329",
-      "LastCommitSHA": "d600360160a80e50dab181371860b2d5fc25650f",
-      "LastCommitAt": "2023-11-23T12:47:00Z",
-      "CciBotPassed": false,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21331",
+      "LastCommitSHA": "1530f508e003b01bf793a807bf52d046d9935db8",
+      "LastCommitAt": "2023-11-23T14:27:22Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3987,15 +3944,15 @@
       }
    },
    {
-      "Number": 21330,
-      "OpenedBy": "Nekto89",
-      "CreatedAt": "2023-11-23T14:05:58Z",
-      "Recipe": "xz_utils",
+      "Number": 21333,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-23T14:40:52Z",
+      "Recipe": "duckdb",
       "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21330",
-      "LastCommitSHA": "13ab022a78710571ef0f1ef924b10fdd939e7d5c",
-      "LastCommitAt": "2023-11-23T14:05:19Z",
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21333",
+      "LastCommitSHA": "a2652833a50f4234eb1300dde8ec6a3d763724b3",
+      "LastCommitAt": "2023-11-23T14:40:21Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
