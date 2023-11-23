@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **148** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -175,6 +175,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21333](https://github.com/conan-io/conan-center-index/pull/21333)|[toge](https://github.com/toge)|Nov 23|:stopwatch: duckdb|M|0|||
 [#21334](https://github.com/conan-io/conan-center-index/pull/21334)|[valgur](https://github.com/valgur)|Nov 23|:stopwatch: thrift|L|0|||
 [#21335](https://github.com/conan-io/conan-center-index/pull/21335)|[toge](https://github.com/toge)|Nov 23|:stopwatch: metall|:green_circle: XS|0|||
+[#21336](https://github.com/conan-io/conan-center-index/pull/21336)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 23|:stopwatch: bzip3|L|0|||
+[#21337](https://github.com/conan-io/conan-center-index/pull/21337)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 23|:stopwatch: libssh2|:blue_square: S|0|||
+[#21338](https://github.com/conan-io/conan-center-index/pull/21338)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 23|:stopwatch: m4|:blue_square: S|0|||
+[#21339](https://github.com/conan-io/conan-center-index/pull/21339)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 23|:stopwatch: mpfr|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -198,9 +202,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 465
+	- Open: 469
 	- Draft: 51
-	- Average Age: 105 days, and 11.72 minutes
+	- Average Age: 104 days, 3 hours, and 37.50 minutes
 	- Stop Label: 234
 	
 
