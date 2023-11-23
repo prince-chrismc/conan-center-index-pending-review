@@ -1376,30 +1376,6 @@
       }
    },
    {
-      "Number": 19298,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-08-19T23:30:35Z",
-      "Recipe": "gdal",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19298",
-      "LastCommitSHA": "0346e82afa962573be583805a6a105d6286accc0",
-      "LastCommitAt": "2023-11-22T13:30:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2023-11-21T15:19:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1742291804"
-         }
-      }
-   },
-   {
       "Number": 19490,
       "OpenedBy": "cjbradfield",
       "CreatedAt": "2023-08-30T01:21:44Z",
