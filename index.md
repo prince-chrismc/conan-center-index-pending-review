@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **146** pull requests currently under way :detective:
+There are **147** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -166,13 +166,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21308](https://github.com/conan-io/conan-center-index/pull/21308)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: cereal|:blue_square: S|1|Nov 22||jwillikers
 [#21309](https://github.com/conan-io/conan-center-index/pull/21309)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: fp16|:green_circle: XS|1|Nov 23||**RubenRBS**
 [#21312](https://github.com/conan-io/conan-center-index/pull/21312)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: parallel-hashmap|:blue_square: S|1|Nov 23||**RubenRBS**
-[#21316](https://github.com/conan-io/conan-center-index/pull/21316)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: onetbb|:blue_square: S|1|Nov 23||**RubenRBS**
+[#21316](https://github.com/conan-io/conan-center-index/pull/21316)|[SpaceIm](https://github.com/SpaceIm)|Nov 22|:memo: onetbb|:blue_square: S|2|Nov 23||**RubenRBS**, [Nekto89](https://github.com/Nekto89)
 [#21322](https://github.com/conan-io/conan-center-index/pull/21322)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: capnproto|M|0|||
 [#21324](https://github.com/conan-io/conan-center-index/pull/21324)|[NelDav](https://github.com/NelDav)|Nov 23|:stopwatch: cantera|L|0|||
-[#21325](https://github.com/conan-io/conan-center-index/pull/21325)|[uilianries](https://github.com/uilianries)|Nov 23|:stopwatch: pcl|:green_circle: XS|1|Nov 23||[valgur](https://github.com/valgur)
+[#21325](https://github.com/conan-io/conan-center-index/pull/21325)|[uilianries](https://github.com/uilianries)|Nov 23|:memo: pcl|:green_circle: XS|1|Nov 23||[valgur](https://github.com/valgur)
 [#21327](https://github.com/conan-io/conan-center-index/pull/21327)|[conan-center-bot](https://github.com/conan-center-bot)|Nov 23|:gear: .c3i|:green_circle: XS|1|Nov 23||**uilianries**
 [#21328](https://github.com/conan-io/conan-center-index/pull/21328)|[valgur](https://github.com/valgur)|Nov 23|:stopwatch: coin-utils|:blue_square: S|0|||
 [#21329](https://github.com/conan-io/conan-center-index/pull/21329)|[dean0x7d](https://github.com/dean0x7d)|Nov 23|:stopwatch: pfr|:green_circle: XS|0|||
+[#21330](https://github.com/conan-io/conan-center-index/pull/21330)|[Nekto89](https://github.com/Nekto89)|Nov 23|:stopwatch: xz_utils|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -196,9 +197,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 461
+	- Open: 462
 	- Draft: 50
-	- Average Age: 105 days, 19 hours, and 3.30 minutes
+	- Average Age: 105 days, 14 hours, and 29.82 minutes
 	- Stop Label: 234
 	
 
