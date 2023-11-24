@@ -1390,7 +1390,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19494",
       "LastCommitSHA": "ca1fd97eccdc28cd1078e0938b2016b6f6d0ab95",
       "LastCommitAt": "2023-11-24T08:02:34Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2655,30 +2655,6 @@
       }
    },
    {
-      "Number": 20851,
-      "OpenedBy": "lucaskdc",
-      "CreatedAt": "2023-10-31T11:14:20Z",
-      "Recipe": "freealut",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20851",
-      "LastCommitSHA": "910521109709fa7c215b14f7eea9bd8697801c11",
-      "LastCommitAt": "2023-11-21T18:05:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-11-14T10:30:49Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20851#pullrequestreview-1729412797"
-         }
-      }
-   },
-   {
       "Number": 20859,
       "OpenedBy": "ngrodzitski",
       "CreatedAt": "2023-10-31T15:10:34Z",
@@ -3439,7 +3415,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21227",
       "LastCommitSHA": "a8eaa52e8657a90fcc22546936fbaf87422c4b0e",
       "LastCommitAt": "2023-11-24T08:02:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3532,30 +3508,6 @@
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-11-20T12:37:51Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21246#pullrequestreview-1739715558"
-         }
-      }
-   },
-   {
-      "Number": 21247,
-      "OpenedBy": "kammce",
-      "CreatedAt": "2023-11-19T20:47:53Z",
-      "Recipe": "libhal",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21247",
-      "LastCommitSHA": "d797e3a91d56a319cbab57b17c34edaf211ebd4f",
-      "LastCommitAt": "2023-11-21T16:54:43Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-11-20T12:41:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21247#pullrequestreview-1739721330"
          }
       }
    },
@@ -3665,25 +3617,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21293",
       "LastCommitSHA": "cfc5aac3b841f18019b09fe60bc0ce4788d09321",
       "LastCommitAt": "2023-11-21T12:36:27Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21303,
-      "OpenedBy": "Nerixyz",
-      "CreatedAt": "2023-11-21T20:47:06Z",
-      "Recipe": "boost-wintls",
-      "Change": 0,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21303",
-      "LastCommitSHA": "94cf7ff372ec049b2887097426cf17eaf30f7d6d",
-      "LastCommitAt": "2023-11-21T20:44:46Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
