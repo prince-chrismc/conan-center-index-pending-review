@@ -142,7 +142,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21059](https://github.com/conan-io/conan-center-index/pull/21059)|[valgur](https://github.com/valgur)|Nov 10|:new: vulkan-utility-libraries|L|0|||
 [#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:memo: tinyalsa|L|1|Nov 14|uilianries|
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|2|Nov 20||jwillikers
-[#21102](https://github.com/conan-io/conan-center-index/pull/21102)|[agdavydov81](https://github.com/agdavydov81)|Nov 13|:stopwatch: dfp|M|5|Nov 24|RubenRBS|**franramirez688**
+[#21102](https://github.com/conan-io/conan-center-index/pull/21102)|[agdavydov81](https://github.com/agdavydov81)|Nov 13|:new: dfp|M|5|Nov 24|RubenRBS|**franramirez688**
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14||jwillikers
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|1|Nov 20||jwillikers
 [#21157](https://github.com/conan-io/conan-center-index/pull/21157)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: libmysqlclient|:blue_square: S|1|Nov 20||jwillikers
@@ -159,7 +159,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21271](https://github.com/conan-io/conan-center-index/pull/21271)|[valgur](https://github.com/valgur)|Nov 20|:new: arbiter|M|0|||
 [#21282](https://github.com/conan-io/conan-center-index/pull/21282)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: arsenalgear|M|1|Nov 22||jwillikers
 [#21293](https://github.com/conan-io/conan-center-index/pull/21293)|[hegyizs](https://github.com/hegyizs)|Nov 21|:memo: icu|:green_circle: XS|0|:eyes:||
-[#21304](https://github.com/conan-io/conan-center-index/pull/21304)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Nov 21|:memo: cpptrace|:blue_square: S|2|Nov 22||
+[#21304](https://github.com/conan-io/conan-center-index/pull/21304)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Nov 21|:memo: cpptrace|:blue_square: S|3|Nov 24||**uilianries**
 [#21305](https://github.com/conan-io/conan-center-index/pull/21305)|[toge](https://github.com/toge)|Nov 22|:memo: jinja2cpp|M|3|Nov 23||
 [#21322](https://github.com/conan-io/conan-center-index/pull/21322)|[SpaceIm](https://github.com/SpaceIm)|Nov 23|:memo: capnproto|M|1|Nov 24||**RubenRBS**
 [#21328](https://github.com/conan-io/conan-center-index/pull/21328)|[valgur](https://github.com/valgur)|Nov 23|:memo: coin-utils|:blue_square: S|0|||
@@ -170,7 +170,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21340](https://github.com/conan-io/conan-center-index/pull/21340)|[abedra](https://github.com/abedra)|Nov 23|:stopwatch: libvault|:green_circle: XS|0|||
 [#21343](https://github.com/conan-io/conan-center-index/pull/21343)|[toge](https://github.com/toge)|Nov 24|:new: suyash-ulid|M|1|Nov 24||**RubenRBS**
 [#21344](https://github.com/conan-io/conan-center-index/pull/21344)|[toge](https://github.com/toge)|Nov 24|:stopwatch: aws-c-mqtt|:blue_square: S|0|||
-[#21350](https://github.com/conan-io/conan-center-index/pull/21350)|[kyllingstad](https://github.com/kyllingstad)|Nov 24|:stopwatch: doxygen|:green_circle: XS|0|||
+[#21350](https://github.com/conan-io/conan-center-index/pull/21350)|[kyllingstad](https://github.com/kyllingstad)|Nov 24|:memo: doxygen|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -196,8 +196,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 467
 	- Draft: 51
-	- Average Age: 105 days, 9 hours, and 46.90 minutes
-	- Stop Label: 236
+	- Average Age: 105 days, 10 hours, and 48.39 minutes
+	- Stop Label: 237
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
