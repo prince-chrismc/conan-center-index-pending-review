@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **149** pull requests currently under way :detective:
+There are **154** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -123,7 +123,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20656](https://github.com/conan-io/conan-center-index/pull/20656)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: msix|:green_circle: XS|1|Oct 19 :bell:||jwillikers
 [#20693](https://github.com/conan-io/conan-center-index/pull/20693)|[cyberflashguru](https://github.com/cyberflashguru)|Oct 19|:stopwatch: libiconv|:blue_square: S|0|:eyes:||
 [#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|1|Nov 20||jwillikers
-[#20734](https://github.com/conan-io/conan-center-index/pull/20734)|[mayeut](https://github.com/mayeut)|Oct 22|:stopwatch: gdal|M|0|||
 [#20859](https://github.com/conan-io/conan-center-index/pull/20859)|[ngrodzitski](https://github.com/ngrodzitski)|Oct 31|:new: quickcpplib|L|1|Nov 1 :bell:||
 [#20870](https://github.com/conan-io/conan-center-index/pull/20870)|[mayeut](https://github.com/mayeut)|Nov 1|:memo: harfbuzz|:green_circle: XS|3|Nov 15||jwillikers, SSE4, [valgur](https://github.com/valgur)
 [#20875](https://github.com/conan-io/conan-center-index/pull/20875)|[toge](https://github.com/toge)|Nov 1|:memo: mongo-c-driver|M|0|:eyes:||
@@ -153,7 +152,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|1|Nov 20||jwillikers
 [#21242](https://github.com/conan-io/conan-center-index/pull/21242)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: opencv|:blue_square: S|1|Nov 20||jwillikers
 [#21246](https://github.com/conan-io/conan-center-index/pull/21246)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libdisplay-info|:blue_square: S|1|Nov 20||jwillikers
-[#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:memo: libhal|M|2|Nov 24||
+[#21247](https://github.com/conan-io/conan-center-index/pull/21247)|[kammce](https://github.com/kammce)|Nov 19|:stopwatch: libhal|M|3|Nov 25||
 [#21249](https://github.com/conan-io/conan-center-index/pull/21249)|[jakeheke75](https://github.com/jakeheke75)|Nov 19|:stopwatch: ms-gsl|:green_circle: XS|0|:eyes:||
 [#21267](https://github.com/conan-io/conan-center-index/pull/21267)|[SpaceIm](https://github.com/SpaceIm)|Nov 20|:memo: cpp-sort|:blue_square: S|1|Nov 22||jwillikers
 [#21271](https://github.com/conan-io/conan-center-index/pull/21271)|[valgur](https://github.com/valgur)|Nov 20|:new: arbiter|M|0|||
@@ -173,9 +172,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21344](https://github.com/conan-io/conan-center-index/pull/21344)|[toge](https://github.com/toge)|Nov 24|:memo: aws-c-mqtt|:blue_square: S|0|||
 [#21350](https://github.com/conan-io/conan-center-index/pull/21350)|[kyllingstad](https://github.com/kyllingstad)|Nov 24|:memo: doxygen|:green_circle: XS|0|||
 [#21352](https://github.com/conan-io/conan-center-index/pull/21352)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: pcl|:blue_square: S|1|Nov 25||[valgur](https://github.com/valgur)
-[#21359](https://github.com/conan-io/conan-center-index/pull/21359)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: sqlite3|:green_circle: XS|0|||
-[#21360](https://github.com/conan-io/conan-center-index/pull/21360)|[toge](https://github.com/toge)|Nov 25|:stopwatch: paho-mqtt-cpp|:green_circle: XS|0|||
-[#21361](https://github.com/conan-io/conan-center-index/pull/21361)|[toge](https://github.com/toge)|Nov 25|:stopwatch: simdutf|:green_circle: XS|0|||
+[#21362](https://github.com/conan-io/conan-center-index/pull/21362)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: qt|:green_circle: XS|0|||
+[#21363](https://github.com/conan-io/conan-center-index/pull/21363)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: poco|:green_circle: XS|0|||
+[#21364](https://github.com/conan-io/conan-center-index/pull/21364)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: drogon|:green_circle: XS|0|||
+[#21365](https://github.com/conan-io/conan-center-index/pull/21365)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: cyrus-sasl|:green_circle: XS|0|||
+[#21366](https://github.com/conan-io/conan-center-index/pull/21366)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: sqlpp11-connector-sqlite3|:green_circle: XS|0|||
+[#21367](https://github.com/conan-io/conan-center-index/pull/21367)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: apr-util|:green_circle: XS|0|||
+[#21368](https://github.com/conan-io/conan-center-index/pull/21368)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: dlib|:green_circle: XS|0|||
+[#21369](https://github.com/conan-io/conan-center-index/pull/21369)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: mfast|M|0|||
+[#21370](https://github.com/conan-io/conan-center-index/pull/21370)|[toge](https://github.com/toge)|Nov 25|:stopwatch: stx|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -199,10 +204,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 473
+	- Open: 480
 	- Draft: 53
-	- Average Age: 105 days, and 47.06 minutes
-	- Stop Label: 238
+	- Average Age: 103 days, 13 hours, and 1.71 minutes
+	- Stop Label: 240
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
