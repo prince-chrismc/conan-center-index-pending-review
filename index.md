@@ -171,7 +171,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21343](https://github.com/conan-io/conan-center-index/pull/21343)|[toge](https://github.com/toge)|Nov 24|:new: suyash-ulid|M|1|Nov 24||**RubenRBS**
 [#21344](https://github.com/conan-io/conan-center-index/pull/21344)|[toge](https://github.com/toge)|Nov 24|:memo: aws-c-mqtt|:blue_square: S|0|||
 [#21350](https://github.com/conan-io/conan-center-index/pull/21350)|[kyllingstad](https://github.com/kyllingstad)|Nov 24|:memo: doxygen|:green_circle: XS|0|||
-[#21352](https://github.com/conan-io/conan-center-index/pull/21352)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: pcl|:blue_square: S|1|Nov 25||[valgur](https://github.com/valgur)
+[#21352](https://github.com/conan-io/conan-center-index/pull/21352)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:stopwatch: pcl|:blue_square: S|1|Nov 25||
 [#21362](https://github.com/conan-io/conan-center-index/pull/21362)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: qt|:green_circle: XS|0|||
 [#21364](https://github.com/conan-io/conan-center-index/pull/21364)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: drogon|:green_circle: XS|0|||
 [#21365](https://github.com/conan-io/conan-center-index/pull/21365)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: cyrus-sasl|:green_circle: XS|0|||
@@ -204,7 +204,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 479
 	- Draft: 53
-	- Average Age: 104 days, and 11.44 minutes
+	- Average Age: 104 days, 1 hours, and 12.10 minutes
 	- Stop Label: 241
 	
 
