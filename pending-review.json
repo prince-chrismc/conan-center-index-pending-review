@@ -3648,39 +3648,6 @@
       }
    },
    {
-      "Number": 21304,
-      "OpenedBy": "jeremy-rifkin",
-      "CreatedAt": "2023-11-21T21:02:50Z",
-      "Recipe": "cpptrace",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21304",
-      "LastCommitSHA": "26400120422b3d61a39346b27585a2f6c44b2c1c",
-      "LastCommitAt": "2023-11-23T02:06:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-11-25T08:12:58Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21304#pullrequestreview-1748799976"
-         }
-      }
-   },
-   {
       "Number": 21305,
       "OpenedBy": "toge",
       "CreatedAt": "2023-11-22T01:37:16Z",
