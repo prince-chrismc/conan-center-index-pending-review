@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **154** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -173,11 +173,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21350](https://github.com/conan-io/conan-center-index/pull/21350)|[kyllingstad](https://github.com/kyllingstad)|Nov 24|:memo: doxygen|:green_circle: XS|0|||
 [#21352](https://github.com/conan-io/conan-center-index/pull/21352)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: pcl|:blue_square: S|1|Nov 25||[valgur](https://github.com/valgur)
 [#21362](https://github.com/conan-io/conan-center-index/pull/21362)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: qt|:green_circle: XS|0|||
-[#21363](https://github.com/conan-io/conan-center-index/pull/21363)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: poco|:green_circle: XS|0|||
 [#21364](https://github.com/conan-io/conan-center-index/pull/21364)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: drogon|:green_circle: XS|0|||
 [#21365](https://github.com/conan-io/conan-center-index/pull/21365)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: cyrus-sasl|:green_circle: XS|0|||
 [#21366](https://github.com/conan-io/conan-center-index/pull/21366)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: sqlpp11-connector-sqlite3|:green_circle: XS|0|||
-[#21367](https://github.com/conan-io/conan-center-index/pull/21367)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: apr-util|:green_circle: XS|0|||
 [#21368](https://github.com/conan-io/conan-center-index/pull/21368)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: dlib|:green_circle: XS|0|||
 [#21370](https://github.com/conan-io/conan-center-index/pull/21370)|[toge](https://github.com/toge)|Nov 25|:memo: stx|:blue_square: S|0|||
 [#21371](https://github.com/conan-io/conan-center-index/pull/21371)|[kammce](https://github.com/kammce)|Nov 25|:stopwatch: ninja|:green_circle: XS|0|||
@@ -204,9 +202,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 481
+	- Open: 480
 	- Draft: 53
-	- Average Age: 103 days, 10 hours, and 54.32 minutes
+	- Average Age: 103 days, 16 hours, and 59.01 minutes
 	- Stop Label: 241
 	
 
