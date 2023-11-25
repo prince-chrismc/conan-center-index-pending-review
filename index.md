@@ -178,7 +178,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21366](https://github.com/conan-io/conan-center-index/pull/21366)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: sqlpp11-connector-sqlite3|:green_circle: XS|0|||
 [#21368](https://github.com/conan-io/conan-center-index/pull/21368)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: dlib|:green_circle: XS|0|||
 [#21370](https://github.com/conan-io/conan-center-index/pull/21370)|[toge](https://github.com/toge)|Nov 25|:memo: stx|:blue_square: S|0|||
-[#21371](https://github.com/conan-io/conan-center-index/pull/21371)|[kammce](https://github.com/kammce)|Nov 25|:stopwatch: ninja|:green_circle: XS|0|||
+[#21371](https://github.com/conan-io/conan-center-index/pull/21371)|[kammce](https://github.com/kammce)|Nov 25|:memo: ninja|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -202,9 +202,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 480
+	- Open: 479
 	- Draft: 53
-	- Average Age: 103 days, 16 hours, and 59.01 minutes
+	- Average Age: 104 days, and 11.44 minutes
 	- Stop Label: 241
 	
 
