@@ -4083,6 +4083,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21370",
       "LastCommitSHA": "e316e36a2dadbe64eaf2e0612bb696639c3baae8",
       "LastCommitAt": "2023-11-25T15:11:02Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21371,
+      "OpenedBy": "kammce",
+      "CreatedAt": "2023-11-25T17:11:51Z",
+      "Recipe": "ninja",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21371",
+      "LastCommitSHA": "b2086962094fd09f31c943ba847bff7056efcfae",
+      "LastCommitAt": "2023-11-25T17:07:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
