@@ -2653,8 +2653,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20734",
-      "LastCommitSHA": "31448bd64ba8ea286635f594a56515e64d09e1be",
-      "LastCommitAt": "2023-11-21T08:19:02Z",
+      "LastCommitSHA": "103a60e0832c930312e7e5af48342e3b98df0b6f",
+      "LastCommitAt": "2023-11-25T12:30:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3941,6 +3941,73 @@
       "LastCommitSHA": "dd49a3c62298056347300f30080d4d007e20a845",
       "LastCommitAt": "2023-11-24T19:01:23Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 1,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": [
+            {
+               "Name": "valgur",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "valgur",
+            "SubmittedAt": "2023-11-25T12:58:54Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21352#pullrequestreview-1748827907"
+         }
+      }
+   },
+   {
+      "Number": 21359,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-11-25T12:39:44Z",
+      "Recipe": "sqlite3",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21359",
+      "LastCommitSHA": "88ef5302eda820aca53e404f4e7e5096a3176dbe",
+      "LastCommitAt": "2023-11-25T12:38:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21360,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-25T12:40:13Z",
+      "Recipe": "paho-mqtt-cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21360",
+      "LastCommitSHA": "c4b84591ef49a7c0a18e1d8c64a4d176b518fa01",
+      "LastCommitAt": "2023-11-25T12:39:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21361,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-25T12:44:36Z",
+      "Recipe": "simdutf",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21361",
+      "LastCommitSHA": "7b042fe9b23555ffaba9cb2d1c8b78ffd33149a3",
+      "LastCommitAt": "2023-11-25T12:43:58Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
