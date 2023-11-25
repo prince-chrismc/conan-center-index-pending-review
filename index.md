@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **153** pull requests currently under way :detective:
+There are **154** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -179,7 +179,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21366](https://github.com/conan-io/conan-center-index/pull/21366)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: sqlpp11-connector-sqlite3|:green_circle: XS|0|||
 [#21367](https://github.com/conan-io/conan-center-index/pull/21367)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: apr-util|:green_circle: XS|0|||
 [#21368](https://github.com/conan-io/conan-center-index/pull/21368)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: dlib|:green_circle: XS|0|||
-[#21370](https://github.com/conan-io/conan-center-index/pull/21370)|[toge](https://github.com/toge)|Nov 25|:stopwatch: stx|:blue_square: S|0|||
+[#21370](https://github.com/conan-io/conan-center-index/pull/21370)|[toge](https://github.com/toge)|Nov 25|:memo: stx|:blue_square: S|0|||
+[#21371](https://github.com/conan-io/conan-center-index/pull/21371)|[kammce](https://github.com/kammce)|Nov 25|:stopwatch: ninja|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -203,9 +204,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 480
+	- Open: 481
 	- Draft: 53
-	- Average Age: 103 days, 15 hours, and 0.08 minutes
+	- Average Age: 103 days, 10 hours, and 54.32 minutes
 	- Stop Label: 241
 	
 
