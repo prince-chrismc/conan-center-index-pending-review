@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **154** pull requests currently under way :detective:
+There are **153** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -179,7 +179,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21366](https://github.com/conan-io/conan-center-index/pull/21366)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: sqlpp11-connector-sqlite3|:green_circle: XS|0|||
 [#21367](https://github.com/conan-io/conan-center-index/pull/21367)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: apr-util|:green_circle: XS|0|||
 [#21368](https://github.com/conan-io/conan-center-index/pull/21368)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: dlib|:green_circle: XS|0|||
-[#21369](https://github.com/conan-io/conan-center-index/pull/21369)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: mfast|M|0|||
 [#21370](https://github.com/conan-io/conan-center-index/pull/21370)|[toge](https://github.com/toge)|Nov 25|:stopwatch: stx|:blue_square: S|0|||
 
 
@@ -206,8 +205,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 480
 	- Draft: 53
-	- Average Age: 103 days, 13 hours, and 1.71 minutes
-	- Stop Label: 240
+	- Average Age: 103 days, 14 hours, and 5.01 minutes
+	- Stop Label: 241
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
