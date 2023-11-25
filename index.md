@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **152** pull requests currently under way :detective:
+There are **151** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -172,7 +172,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21344](https://github.com/conan-io/conan-center-index/pull/21344)|[toge](https://github.com/toge)|Nov 24|:memo: aws-c-mqtt|:blue_square: S|0|||
 [#21350](https://github.com/conan-io/conan-center-index/pull/21350)|[kyllingstad](https://github.com/kyllingstad)|Nov 24|:memo: doxygen|:green_circle: XS|0|||
 [#21352](https://github.com/conan-io/conan-center-index/pull/21352)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:stopwatch: pcl|:blue_square: S|1|Nov 25||
-[#21362](https://github.com/conan-io/conan-center-index/pull/21362)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: qt|:green_circle: XS|0|||
 [#21364](https://github.com/conan-io/conan-center-index/pull/21364)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: drogon|:green_circle: XS|0|||
 [#21365](https://github.com/conan-io/conan-center-index/pull/21365)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: cyrus-sasl|:green_circle: XS|0|||
 [#21366](https://github.com/conan-io/conan-center-index/pull/21366)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: sqlpp11-connector-sqlite3|:green_circle: XS|0|||
@@ -204,8 +203,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 479
 	- Draft: 53
-	- Average Age: 104 days, 1 hours, and 12.10 minutes
-	- Stop Label: 241
+	- Average Age: 104 days, 2 hours, and 12.74 minutes
+	- Stop Label: 242
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
