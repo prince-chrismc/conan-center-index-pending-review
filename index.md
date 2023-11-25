@@ -109,10 +109,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20438](https://github.com/conan-io/conan-center-index/pull/20438)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cmake|:green_circle: XS|3|Oct 8 :bell:||
 [#20442](https://github.com/conan-io/conan-center-index/pull/20442)|[toge](https://github.com/toge)|Oct 8|:new: chunkio|L|2|Oct 9 :bell:|RubenRBS|
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|:blue_square: S|4|Nov 10 :bell:||jwillikers
-[#20470](https://github.com/conan-io/conan-center-index/pull/20470)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 9|:memo: pkgconf|L|2|Nov 13||jwillikers
+[#20470](https://github.com/conan-io/conan-center-index/pull/20470)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 9|:memo: pkgconf|L|2|Nov 13 :bell:||jwillikers
 [#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: xorg|:blue_square: S|0|:eyes:||
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
-[#20526](https://github.com/conan-io/conan-center-index/pull/20526)|[toge](https://github.com/toge)|Oct 11|:new: cpp-validator|M|1|Nov 13||jwillikers
+[#20526](https://github.com/conan-io/conan-center-index/pull/20526)|[toge](https://github.com/toge)|Oct 11|:new: cpp-validator|M|1|Nov 13 :bell:||jwillikers
 [#20533](https://github.com/conan-io/conan-center-index/pull/20533)|[SpaceIm](https://github.com/SpaceIm)|Oct 12|:memo: libzen|:blue_square: S|1|Oct 16 :bell:||jwillikers
 [#20536](https://github.com/conan-io/conan-center-index/pull/20536)|[toge](https://github.com/toge)|Oct 12|:new: zoe|L|4|Oct 17 :bell:||jwillikers
 [#20568](https://github.com/conan-io/conan-center-index/pull/20568)|[gureedo](https://github.com/gureedo)|Oct 14|:stopwatch: mbedtls|:blue_square: S|2|Oct 14 :bell:||
@@ -170,7 +170,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21340](https://github.com/conan-io/conan-center-index/pull/21340)|[abedra](https://github.com/abedra)|Nov 23|:stopwatch: libvault|:green_circle: XS|0|||
 [#21341](https://github.com/conan-io/conan-center-index/pull/21341)|[valgur](https://github.com/valgur)|Nov 23|:new: libecwj2|XL|0|||
 [#21343](https://github.com/conan-io/conan-center-index/pull/21343)|[toge](https://github.com/toge)|Nov 24|:new: suyash-ulid|M|1|Nov 24||**RubenRBS**
-[#21344](https://github.com/conan-io/conan-center-index/pull/21344)|[toge](https://github.com/toge)|Nov 24|:stopwatch: aws-c-mqtt|:blue_square: S|0|||
+[#21344](https://github.com/conan-io/conan-center-index/pull/21344)|[toge](https://github.com/toge)|Nov 24|:memo: aws-c-mqtt|:blue_square: S|0|||
 [#21350](https://github.com/conan-io/conan-center-index/pull/21350)|[kyllingstad](https://github.com/kyllingstad)|Nov 24|:memo: doxygen|:green_circle: XS|0|||
 [#21352](https://github.com/conan-io/conan-center-index/pull/21352)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: pcl|:blue_square: S|1|Nov 25||[valgur](https://github.com/valgur)
 [#21359](https://github.com/conan-io/conan-center-index/pull/21359)|[mayeut](https://github.com/mayeut)|Nov 25|:stopwatch: sqlite3|:green_circle: XS|0|||
@@ -201,7 +201,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 473
 	- Draft: 53
-	- Average Age: 104 days, 23 hours, and 50.14 minutes
+	- Average Age: 105 days, and 47.06 minutes
 	- Stop Label: 238
 	
 
