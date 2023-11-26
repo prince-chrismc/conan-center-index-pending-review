@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **156** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -141,7 +141,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21059](https://github.com/conan-io/conan-center-index/pull/21059)|[valgur](https://github.com/valgur)|Nov 10|:new: vulkan-utility-libraries|L|0|:eyes:||
 [#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:memo: tinyalsa|L|1|Nov 14 :bell:|uilianries|
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|2|Nov 20||jwillikers
-[#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14||jwillikers
+[#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14 :bell:||jwillikers
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|1|Nov 20||jwillikers
 [#21157](https://github.com/conan-io/conan-center-index/pull/21157)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: libmysqlclient|:blue_square: S|1|Nov 20||jwillikers
 [#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:stopwatch: pulseaudio|:green_circle: XS|3|Nov 20||jwillikers
@@ -183,6 +183,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21377](https://github.com/conan-io/conan-center-index/pull/21377)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: libwebsockets|:green_circle: XS|0|||
 [#21378](https://github.com/conan-io/conan-center-index/pull/21378)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: wt|:green_circle: XS|0|||
 [#21379](https://github.com/conan-io/conan-center-index/pull/21379)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: qt|:green_circle: XS|0|||
+[#21381](https://github.com/conan-io/conan-center-index/pull/21381)|[toge](https://github.com/toge)|Nov 26|:stopwatch: daw_json_link|:green_circle: XS|0|||
+[#21382](https://github.com/conan-io/conan-center-index/pull/21382)|[toge](https://github.com/toge)|Nov 26|:stopwatch: clipper2|:green_circle: XS|0|||
+[#21383](https://github.com/conan-io/conan-center-index/pull/21383)|[toge](https://github.com/toge)|Nov 26|:stopwatch: jasper|M|0|||
+[#21384](https://github.com/conan-io/conan-center-index/pull/21384)|[toge](https://github.com/toge)|Nov 26|:stopwatch: nghttp3|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -206,10 +210,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 483
-	- Draft: 53
-	- Average Age: 103 days, 18 hours, and 27.67 minutes
-	- Stop Label: 241
+	- Open: 488
+	- Draft: 54
+	- Average Age: 102 days, 18 hours, and 44.76 minutes
+	- Stop Label: 240
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
