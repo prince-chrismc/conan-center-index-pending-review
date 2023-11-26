@@ -1326,19 +1326,14 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19262",
-      "LastCommitSHA": "24962fa73923c55b046f23bd9a4d1f39c0e784c5",
-      "LastCommitAt": "2023-11-02T20:05:36Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "963beecd2bc8f4d13f1e9b800e8dd51de1c092a2",
+      "LastCommitAt": "2023-11-26T20:09:39Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 6,
-         "ValidApprovals": 1,
+         "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            }
-         ],
+         "Approvals": null,
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "mayeut",
@@ -4188,25 +4183,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21386",
       "LastCommitSHA": "99cd04c3c976cdeec30f446d2ea56d66a27739ad",
       "LastCommitAt": "2023-11-26T15:29:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21389,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-26T18:45:43Z",
-      "Recipe": "getdns",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21389",
-      "LastCommitSHA": "5c167ff0a3cac111bac2e8b35ba67d5f9b0dbcc1",
-      "LastCommitAt": "2023-11-26T18:45:16Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
