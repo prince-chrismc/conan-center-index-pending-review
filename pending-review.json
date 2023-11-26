@@ -4015,5 +4015,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21373,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-11-26T11:06:18Z",
+      "Recipe": "proj",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21373",
+      "LastCommitSHA": "6dd8b7506ae1d13f499f8aaa67e30a3bb24d9f74",
+      "LastCommitAt": "2023-11-26T11:05:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21374,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-11-26T11:09:08Z",
+      "Recipe": "soci",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21374",
+      "LastCommitSHA": "55a963083916910904417d7182f1c48eead75996",
+      "LastCommitAt": "2023-11-26T11:08:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
