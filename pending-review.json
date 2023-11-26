@@ -4053,5 +4053,100 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21375,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-11-26T11:12:53Z",
+      "Recipe": "elfutils",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21375",
+      "LastCommitSHA": "94bbaa9f9529e5799fc69f3ffe64be744a9d83a4",
+      "LastCommitAt": "2023-11-26T11:12:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21376,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-11-26T11:16:12Z",
+      "Recipe": "sqlitecpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21376",
+      "LastCommitSHA": "1de784424c39011339df21678afb8ecfd5703b16",
+      "LastCommitAt": "2023-11-26T11:15:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21377,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-11-26T11:18:55Z",
+      "Recipe": "libwebsockets",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21377",
+      "LastCommitSHA": "0ab65ffc327228c71d58523dc24d8152eccf2a07",
+      "LastCommitAt": "2023-11-26T11:18:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21378,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-11-26T11:22:26Z",
+      "Recipe": "wt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21378",
+      "LastCommitSHA": "5c73ccd3835653a7b06d3c676c7985ebf25c3ec4",
+      "LastCommitAt": "2023-11-26T11:21:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21379,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-11-26T11:24:48Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21379",
+      "LastCommitSHA": "083af2b2cbf2e839cce584ba221d774d3ec889e3",
+      "LastCommitAt": "2023-11-26T11:24:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
