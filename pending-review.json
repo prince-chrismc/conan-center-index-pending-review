@@ -4069,25 +4069,6 @@
       }
    },
    {
-      "Number": 21376,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-11-26T11:16:12Z",
-      "Recipe": "sqlitecpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21376",
-      "LastCommitSHA": "1de784424c39011339df21678afb8ecfd5703b16",
-      "LastCommitAt": "2023-11-26T11:15:19Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21378,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-11-26T11:22:26Z",
