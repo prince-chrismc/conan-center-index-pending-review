@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **158** pull requests currently under way :detective:
+There are **157** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -37,7 +37,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17841](https://github.com/conan-io/conan-center-index/pull/17841)|[Jihadist](https://github.com/Jihadist)|Jun 6|:new: limereport|M|0|:eyes:||
 [#18009](https://github.com/conan-io/conan-center-index/pull/18009)|[ViktarHasiul231862](https://github.com/ViktarHasiul231862)|Jun 21|:stopwatch: wt|:blue_square: S|0|:eyes:||
 [#18016](https://github.com/conan-io/conan-center-index/pull/18016)|[uilianries](https://github.com/uilianries)|Jun 22|:new: intel-ipsec-mb|M|1|Sep 18 :bell:||jwillikers
-[#18079](https://github.com/conan-io/conan-center-index/pull/18079)|[lieser](https://github.com/lieser)|Jun 27|:stopwatch: botan|XL|23|Nov 14||
+[#18079](https://github.com/conan-io/conan-center-index/pull/18079)|[lieser](https://github.com/lieser)|Jun 27|:stopwatch: botan|XL|23|Nov 14 :bell:||
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6 :bell:||
 [#18421](https://github.com/conan-io/conan-center-index/pull/18421)|[psyinf](https://github.com/psyinf)|Jul 8|:stopwatch: vsgxchange|M|0|:eyes:||
 [#18458](https://github.com/conan-io/conan-center-index/pull/18458)|[toge](https://github.com/toge)|Jul 10|:stopwatch: libgit2|L|5|Oct 31 :bell:||jwillikers
@@ -179,7 +179,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21371](https://github.com/conan-io/conan-center-index/pull/21371)|[kammce](https://github.com/kammce)|Nov 25|:memo: ninja|:green_circle: XS|0|||
 [#21373](https://github.com/conan-io/conan-center-index/pull/21373)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: proj|:green_circle: XS|0|||
 [#21375](https://github.com/conan-io/conan-center-index/pull/21375)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: elfutils|:green_circle: XS|0|||
-[#21376](https://github.com/conan-io/conan-center-index/pull/21376)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: sqlitecpp|:green_circle: XS|0|||
 [#21378](https://github.com/conan-io/conan-center-index/pull/21378)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: wt|:green_circle: XS|0|||
 [#21379](https://github.com/conan-io/conan-center-index/pull/21379)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: qt|:green_circle: XS|1|Nov 26||jwillikers
 [#21383](https://github.com/conan-io/conan-center-index/pull/21383)|[toge](https://github.com/toge)|Nov 26|:stopwatch: jasper|M|0|||
@@ -208,9 +207,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 490
+	- Open: 489
 	- Draft: 55
-	- Average Age: 102 days, 14 hours, and 40.81 minutes
+	- Average Age: 102 days, 21 hours, and 40.79 minutes
 	- Stop Label: 242
 	
 
