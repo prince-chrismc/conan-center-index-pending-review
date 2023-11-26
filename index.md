@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **159** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -180,9 +180,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21373](https://github.com/conan-io/conan-center-index/pull/21373)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: proj|:green_circle: XS|0|||
 [#21375](https://github.com/conan-io/conan-center-index/pull/21375)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: elfutils|:green_circle: XS|0|||
 [#21376](https://github.com/conan-io/conan-center-index/pull/21376)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: sqlitecpp|:green_circle: XS|0|||
-[#21377](https://github.com/conan-io/conan-center-index/pull/21377)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: libwebsockets|:green_circle: XS|0|||
 [#21378](https://github.com/conan-io/conan-center-index/pull/21378)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: wt|:green_circle: XS|0|||
-[#21379](https://github.com/conan-io/conan-center-index/pull/21379)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: qt|:green_circle: XS|0|||
+[#21379](https://github.com/conan-io/conan-center-index/pull/21379)|[mayeut](https://github.com/mayeut)|Nov 26|:stopwatch: qt|:green_circle: XS|1|Nov 26||jwillikers
 [#21382](https://github.com/conan-io/conan-center-index/pull/21382)|[toge](https://github.com/toge)|Nov 26|:stopwatch: clipper2|:green_circle: XS|0|||
 [#21383](https://github.com/conan-io/conan-center-index/pull/21383)|[toge](https://github.com/toge)|Nov 26|:stopwatch: jasper|M|0|||
 [#21384](https://github.com/conan-io/conan-center-index/pull/21384)|[toge](https://github.com/toge)|Nov 26|:stopwatch: nghttp3|:green_circle: XS|0|||
@@ -210,9 +209,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 490
+	- Open: 489
 	- Draft: 55
-	- Average Age: 102 days, 11 hours, and 39.76 minutes
+	- Average Age: 102 days, 17 hours, and 44.58 minutes
 	- Stop Label: 240
 	
 
