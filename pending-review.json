@@ -4093,25 +4093,6 @@
       }
    },
    {
-      "Number": 21377,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-11-26T11:18:55Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21377",
-      "LastCommitSHA": "0ab65ffc327228c71d58523dc24d8152eccf2a07",
-      "LastCommitAt": "2023-11-26T11:18:17Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21378,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-11-26T11:22:26Z",
@@ -4142,11 +4123,21 @@
       "LastCommitAt": "2023-11-26T11:24:10Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "jwillikers",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-11-26T17:45:39Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21379#pullrequestreview-1749382311"
+         }
       }
    },
    {
