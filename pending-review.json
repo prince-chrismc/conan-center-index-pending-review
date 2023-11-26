@@ -3921,7 +3921,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21352",
       "LastCommitSHA": "2eba83b98c357699ada9adfe233eee45199c2056",
       "LastCommitAt": "2023-11-25T21:39:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -3945,25 +3945,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21364",
       "LastCommitSHA": "763c0ab2fcacc3cc85790cde63f8d567c52ad090",
       "LastCommitAt": "2023-11-25T13:30:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21365,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-11-25T14:50:05Z",
-      "Recipe": "cyrus-sasl",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21365",
-      "LastCommitSHA": "b71cac8577acf059267a20df757aa9f38a40f1df",
-      "LastCommitAt": "2023-11-25T13:27:26Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
