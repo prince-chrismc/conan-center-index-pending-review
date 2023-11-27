@@ -3702,20 +3702,24 @@
       "LastCommitAt": "2023-11-23T07:13:21Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-11-24T13:03:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21322#pullrequestreview-1747918921"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-11-27T10:09:46Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21322#pullrequestreview-1750072715"
          }
       }
    },
