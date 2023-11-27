@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **151** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -176,6 +176,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21350](https://github.com/conan-io/conan-center-index/pull/21350)|[kyllingstad](https://github.com/kyllingstad)|Nov 24|:memo: doxygen|:green_circle: XS|0|||
 [#21352](https://github.com/conan-io/conan-center-index/pull/21352)|[SpaceIm](https://github.com/SpaceIm)|Nov 24|:memo: pcl|:blue_square: S|1|Nov 25||
 [#21370](https://github.com/conan-io/conan-center-index/pull/21370)|[toge](https://github.com/toge)|Nov 25|:memo: stx|:blue_square: S|0|||
+[#21382](https://github.com/conan-io/conan-center-index/pull/21382)|[toge](https://github.com/toge)|Nov 26|:memo: clipper2|:blue_square: S|0|||
 [#21383](https://github.com/conan-io/conan-center-index/pull/21383)|[toge](https://github.com/toge)|Nov 26|:memo: jasper|M|0|||
 [#21386](https://github.com/conan-io/conan-center-index/pull/21386)|[SpaceIm](https://github.com/SpaceIm)|Nov 26|:memo: base64|M|0|||
 
@@ -201,10 +202,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 485
+	- Open: 483
 	- Draft: 55
-	- Average Age: 103 days, 22 hours, and 9.21 minutes
-	- Stop Label: 243
+	- Average Age: 104 days, 10 hours, and 9.31 minutes
+	- Stop Label: 242
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
