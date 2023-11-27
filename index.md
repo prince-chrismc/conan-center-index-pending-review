@@ -171,7 +171,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21386](https://github.com/conan-io/conan-center-index/pull/21386)|[SpaceIm](https://github.com/SpaceIm)|Nov 26|:memo: base64|M|1|Nov 27||**uilianries**
 [#21390](https://github.com/conan-io/conan-center-index/pull/21390)|[toge](https://github.com/toge)|Nov 27|:memo: jsoncons|M|1|Nov 27||**uilianries**
 [#21402](https://github.com/conan-io/conan-center-index/pull/21402)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cpuinfo|:blue_square: S|0|||
-[#21404](https://github.com/conan-io/conan-center-index/pull/21404)|[toge](https://github.com/toge)|Nov 27|:stopwatch: djinni-generator|:green_circle: XS|0|||
 [#21407](https://github.com/conan-io/conan-center-index/pull/21407)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: backport-cpp|:blue_square: S|0|||
 [#21408](https://github.com/conan-io/conan-center-index/pull/21408)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: bit-lite|:blue_square: S|0|||
 [#21409](https://github.com/conan-io/conan-center-index/pull/21409)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: bertrand|:blue_square: S|0|||
@@ -189,11 +188,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21421](https://github.com/conan-io/conan-center-index/pull/21421)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: canvas_ity|:green_circle: XS|0|||
 [#21422](https://github.com/conan-io/conan-center-index/pull/21422)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: cd3-boost-unit-definitions|:blue_square: S|0|||
 [#21423](https://github.com/conan-io/conan-center-index/pull/21423)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: chef-fun|M|0|||
+[#21424](https://github.com/conan-io/conan-center-index/pull/21424)|[mayeut](https://github.com/mayeut)|Nov 27|:stopwatch: onnxruntime|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **8** pull requests are waiting to be merged :tada:
+Currently **7** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -205,7 +205,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:warning: ginkgo|6|**uilianries**, jwillikers, **RubenRBS**
 [#21340](https://github.com/conan-io/conan-center-index/pull/21340)|[abedra](https://github.com/abedra)|Nov 23|:warning: libvault|2|**uilianries**, jwillikers
-[#21397](https://github.com/conan-io/conan-center-index/pull/21397)|[fdgStilla](https://github.com/fdgStilla)|Nov 27|:memo: spix|2|**czoido**, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -216,7 +215,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 495
 	- Draft: 54
-	- Average Age: 101 days, 23 hours, and 24.49 minutes
+	- Average Age: 102 days, and 26.12 minutes
 	- Stop Label: 242
 	
 
