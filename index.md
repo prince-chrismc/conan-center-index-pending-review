@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **165** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -31,7 +31,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#16679](https://github.com/conan-io/conan-center-index/pull/16679)|[swebb2066](https://github.com/swebb2066)|Mar 24|:memo: log4cxx|L|20|Aug 28 :bell:||
 [#17032](https://github.com/conan-io/conan-center-index/pull/17032)|[datalogics-kam](https://github.com/datalogics-kam)|Apr 14|:memo: cmake|L|4|Aug 10 :bell:||[Hopobcn](https://github.com/Hopobcn)
 [#17338](https://github.com/conan-io/conan-center-index/pull/17338)|[SpaceIm](https://github.com/SpaceIm)|May 1|:memo: coin-lemon|L|5|May 20 :bell:|jcar87|jwillikers, prince-chrismc, SSE4
-[#17344](https://github.com/conan-io/conan-center-index/pull/17344)|[wadehunk](https://github.com/wadehunk)|May 1|:stopwatch: cyclonedds-cxx|L|1|Nov 27||
+[#17344](https://github.com/conan-io/conan-center-index/pull/17344)|[wadehunk](https://github.com/wadehunk)|May 1|:new: cyclonedds-cxx|L|1|Nov 27||
 [#17442](https://github.com/conan-io/conan-center-index/pull/17442)|[mtudan](https://github.com/mtudan)|May 7|:memo: paho-mqtt-c|:green_circle: XS|0|:eyes:||
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
 [#17841](https://github.com/conan-io/conan-center-index/pull/17841)|[Jihadist](https://github.com/Jihadist)|Jun 6|:new: limereport|M|0|:eyes:||
@@ -55,6 +55,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18736](https://github.com/conan-io/conan-center-index/pull/18736)|[valgur](https://github.com/valgur)|Jul 20|:memo: djinni-support-lib|XL|0|:eyes:||
 [#18759](https://github.com/conan-io/conan-center-index/pull/18759)|[valgur](https://github.com/valgur)|Jul 20|:memo: lightgbm|L|3|Nov 6 :bell:||
 [#18820](https://github.com/conan-io/conan-center-index/pull/18820)|[valgur](https://github.com/valgur)|Jul 22|:memo: pagmo2|L|0|:eyes:||
+[#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:memo: redradist-icc|L|0|||
 [#18834](https://github.com/conan-io/conan-center-index/pull/18834)|[valgur](https://github.com/valgur)|Jul 22|:memo: libfreenect2|L|0|:eyes:||
 [#18837](https://github.com/conan-io/conan-center-index/pull/18837)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: qcoro|L|0|:eyes:||
 [#18844](https://github.com/conan-io/conan-center-index/pull/18844)|[valgur](https://github.com/valgur)|Jul 23|:memo: premake|L|2|Nov 16||
@@ -63,6 +64,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18861](https://github.com/conan-io/conan-center-index/pull/18861)|[valgur](https://github.com/valgur)|Jul 24|:memo: pdcurses|L|4|Nov 16||**uilianries**
 [#18862](https://github.com/conan-io/conan-center-index/pull/18862)|[valgur](https://github.com/valgur)|Jul 24|:memo: godot-cpp|L|1|Nov 2 :bell:||jwillikers
 [#18891](https://github.com/conan-io/conan-center-index/pull/18891)|[valgur](https://github.com/valgur)|Jul 24|:memo: openvdb|L|0|:eyes:||
+[#18897](https://github.com/conan-io/conan-center-index/pull/18897)|[valgur](https://github.com/valgur)|Jul 25|:memo: verilator|XL|0|||
 [#18901](https://github.com/conan-io/conan-center-index/pull/18901)|[valgur](https://github.com/valgur)|Jul 25|:memo: mpdecimal|L|1|Oct 31 :bell:||jwillikers
 [#18902](https://github.com/conan-io/conan-center-index/pull/18902)|[valgur](https://github.com/valgur)|Jul 25|:memo: jerryscript|L|1|Oct 31 :bell:||jwillikers
 [#18938](https://github.com/conan-io/conan-center-index/pull/18938)|[valgur](https://github.com/valgur)|Jul 28|:memo: makefile-project-workspace-creator|M|2|Nov 13 :bell:||jwillikers
@@ -161,6 +163,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21293](https://github.com/conan-io/conan-center-index/pull/21293)|[hegyizs](https://github.com/hegyizs)|Nov 21|:memo: icu|:green_circle: XS|0|:eyes:||
 [#21303](https://github.com/conan-io/conan-center-index/pull/21303)|[Nerixyz](https://github.com/Nerixyz)|Nov 21|:new: laudrup-wintls|M|1|Nov 24|uilianries|
 [#21305](https://github.com/conan-io/conan-center-index/pull/21305)|[toge](https://github.com/toge)|Nov 22|:memo: jinja2cpp|M|3|Nov 23||
+[#21323](https://github.com/conan-io/conan-center-index/pull/21323)|[toge](https://github.com/toge)|Nov 23|:new: duckx|M|0|||
 [#21328](https://github.com/conan-io/conan-center-index/pull/21328)|[valgur](https://github.com/valgur)|Nov 23|:memo: coin-utils|:blue_square: S|0|:eyes:||
 [#21331](https://github.com/conan-io/conan-center-index/pull/21331)|[toge](https://github.com/toge)|Nov 23|:memo: aws-c-auth|L|2|Nov 27||**uilianries**
 [#21341](https://github.com/conan-io/conan-center-index/pull/21341)|[valgur](https://github.com/valgur)|Nov 23|:new: libecwj2|XL|0|:eyes:||
@@ -187,11 +190,15 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21418](https://github.com/conan-io/conan-center-index/pull/21418)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: c-dbg-macro|:blue_square: S|0|||
 [#21419](https://github.com/conan-io/conan-center-index/pull/21419)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cajun-jsonapi|:blue_square: S|0|||
 [#21420](https://github.com/conan-io/conan-center-index/pull/21420)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: canary|:blue_square: S|0|||
-[#21421](https://github.com/conan-io/conan-center-index/pull/21421)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: canvas_ity|:green_circle: XS|0|||
-[#21422](https://github.com/conan-io/conan-center-index/pull/21422)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cd3-boost-unit-definitions|:blue_square: S|0|||
+[#21421](https://github.com/conan-io/conan-center-index/pull/21421)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: canvas_ity|:green_circle: XS|1|Nov 27||**RubenRBS**
+[#21422](https://github.com/conan-io/conan-center-index/pull/21422)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cd3-boost-unit-definitions|:blue_square: S|1|Nov 27||**RubenRBS**
 [#21423](https://github.com/conan-io/conan-center-index/pull/21423)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: chef-fun|M|1|Nov 27||**RubenRBS**
 [#21424](https://github.com/conan-io/conan-center-index/pull/21424)|[mayeut](https://github.com/mayeut)|Nov 27|:stopwatch: onnxruntime|:blue_square: S|0|||
-[#21425](https://github.com/conan-io/conan-center-index/pull/21425)|[kammce](https://github.com/kammce)|Nov 27|:stopwatch: libhal|M|1|Nov 27||
+[#21425](https://github.com/conan-io/conan-center-index/pull/21425)|[kammce](https://github.com/kammce)|Nov 27|:memo: libhal|M|2|Nov 27||**RubenRBS**
+[#21428](https://github.com/conan-io/conan-center-index/pull/21428)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: circularbuffer|M|1|Nov 27||**RubenRBS**
+[#21429](https://github.com/conan-io/conan-center-index/pull/21429)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cista|:blue_square: S|1|Nov 27||**RubenRBS**
+[#21430](https://github.com/conan-io/conan-center-index/pull/21430)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: clipp|M|1|Nov 27||**RubenRBS**
+[#21431](https://github.com/conan-io/conan-center-index/pull/21431)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cpp-lazy|:green_circle: XS|1|Nov 27||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -216,10 +223,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
 - Pull Requests:
-	- Open: 497
-	- Draft: 56
-	- Average Age: 101 days, 15 hours, and 32.40 minutes
-	- Stop Label: 241
+	- Open: 500
+	- Draft: 55
+	- Average Age: 101 days, 1 hours, and 53.98 minutes
+	- Stop Label: 238
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
