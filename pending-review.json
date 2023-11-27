@@ -4012,6 +4012,25 @@
       }
    },
    {
+      "Number": 21382,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-11-26T13:41:58Z",
+      "Recipe": "clipper2",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21382",
+      "LastCommitSHA": "7fa80e1f920de9b5b1a19286d24b2d52ac45c437",
+      "LastCommitAt": "2023-11-27T03:03:08Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21383,
       "OpenedBy": "toge",
       "CreatedAt": "2023-11-26T13:53:35Z",
