@@ -183,7 +183,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21390](https://github.com/conan-io/conan-center-index/pull/21390)|[toge](https://github.com/toge)|Nov 27|:memo: jsoncons|M|0|||
 [#21392](https://github.com/conan-io/conan-center-index/pull/21392)|[gegles](https://github.com/gegles)|Nov 27|:memo: openssl|:green_circle: XS|0|||
 [#21393](https://github.com/conan-io/conan-center-index/pull/21393)|[toge](https://github.com/toge)|Nov 27|:memo: mozjpeg|M|0|||
-[#21394](https://github.com/conan-io/conan-center-index/pull/21394)|[toge](https://github.com/toge)|Nov 27|:stopwatch: nng|:blue_square: S|0|||
+[#21394](https://github.com/conan-io/conan-center-index/pull/21394)|[toge](https://github.com/toge)|Nov 27|:memo: nng|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -209,7 +209,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 486
 	- Draft: 55
-	- Average Age: 103 days, 20 hours, and 42.43 minutes
+	- Average Age: 103 days, 21 hours, and 37.90 minutes
 	- Stop Label: 240
 	
 
