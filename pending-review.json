@@ -2513,30 +2513,6 @@
       }
    },
    {
-      "Number": 20611,
-      "OpenedBy": "Ahajha",
-      "CreatedAt": "2023-10-17T05:52:20Z",
-      "Recipe": "andreasbuhr-cppcoro",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20611",
-      "LastCommitSHA": "157167118ed0d0cebfa5f546e04a949402644737",
-      "LastCommitAt": "2023-11-28T04:51:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-11-27T18:19:42Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20611#pullrequestreview-1751082046"
-         }
-      }
-   },
-   {
       "Number": 20619,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-10-17T11:45:20Z",
@@ -3155,7 +3131,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21064",
       "LastCommitSHA": "1d8997fa8f969afa71a0d0c1a8a5e69d2f649fa9",
       "LastCommitAt": "2023-11-28T05:12:14Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -4680,6 +4656,25 @@
             "SubmittedAt": "2023-11-27T21:45:03Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21431#pullrequestreview-1751432767"
          }
+      }
+   },
+   {
+      "Number": 21434,
+      "OpenedBy": "Ahajha",
+      "CreatedAt": "2023-11-28T05:57:48Z",
+      "Recipe": "vulkan-memory-allocator",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21434",
+      "LastCommitSHA": "aa847a1ed806dccc135d2143e224c8f4b23b60cc",
+      "LastCommitAt": "2023-11-28T05:55:53Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
