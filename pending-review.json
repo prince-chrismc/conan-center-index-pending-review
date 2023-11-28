@@ -3999,39 +3999,6 @@
       }
    },
    {
-      "Number": 21423,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-27T18:28:44Z",
-      "Recipe": "chef-fun",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21423",
-      "LastCommitSHA": "07b99751f45d7391fb8ab099097940f4a62e31ce",
-      "LastCommitAt": "2023-11-27T18:28:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "toge",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2023-11-28T09:02:45Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21423#pullrequestreview-1752375104"
-         }
-      }
-   },
-   {
       "Number": 21425,
       "OpenedBy": "kammce",
       "CreatedAt": "2023-11-27T20:22:17Z",
