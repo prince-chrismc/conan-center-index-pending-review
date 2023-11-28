@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **171** pull requests currently under way :detective:
+There are **167** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -193,16 +193,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21422](https://github.com/conan-io/conan-center-index/pull/21422)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cd3-boost-unit-definitions|:blue_square: S|1|Nov 27||**RubenRBS**
 [#21423](https://github.com/conan-io/conan-center-index/pull/21423)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: chef-fun|M|1|Nov 27||**RubenRBS**
 [#21425](https://github.com/conan-io/conan-center-index/pull/21425)|[kammce](https://github.com/kammce)|Nov 27|:memo: libhal|M|2|Nov 27||**RubenRBS**
-[#21428](https://github.com/conan-io/conan-center-index/pull/21428)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: circularbuffer|M|1|Nov 27||**RubenRBS**
-[#21429](https://github.com/conan-io/conan-center-index/pull/21429)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cista|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21430](https://github.com/conan-io/conan-center-index/pull/21430)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: clipp|M|1|Nov 27||**RubenRBS**
-[#21431](https://github.com/conan-io/conan-center-index/pull/21431)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cpp-lazy|:green_circle: XS|1|Nov 27||**RubenRBS**
-[#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:stopwatch: vulkan-memory-allocator|M|0|||
+[#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:memo: vulkan-memory-allocator|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -214,6 +210,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:warning: ginkgo|6|**uilianries**, jwillikers, **RubenRBS**
 [#21340](https://github.com/conan-io/conan-center-index/pull/21340)|[abedra](https://github.com/abedra)|Nov 23|:warning: libvault|2|**uilianries**, jwillikers
+[#21429](https://github.com/conan-io/conan-center-index/pull/21429)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cista|2|**RubenRBS**, toge
+[#21430](https://github.com/conan-io/conan-center-index/pull/21430)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: clipp|2|**RubenRBS**, toge
+[#21431](https://github.com/conan-io/conan-center-index/pull/21431)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cpp-lazy|2|**RubenRBS**, toge
 
 
 #### :clipboard: Statistics
@@ -222,10 +221,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: bf70f3011da440a8ccb500e643b4b5889d44c6e8
 - Pull Requests:
-	- Open: 502
+	- Open: 503
 	- Draft: 56
-	- Average Age: 101 days, and 18.45 minutes
-	- Stop Label: 241
+	- Average Age: 100 days, 20 hours, and 23.18 minutes
+	- Stop Label: 242
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
