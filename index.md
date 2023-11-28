@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **171** pull requests currently under way :detective:
+There are **170** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -192,7 +192,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21421](https://github.com/conan-io/conan-center-index/pull/21421)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: canvas_ity|:green_circle: XS|1|Nov 27||**RubenRBS**
 [#21422](https://github.com/conan-io/conan-center-index/pull/21422)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cd3-boost-unit-definitions|:blue_square: S|1|Nov 27||**RubenRBS**
 [#21423](https://github.com/conan-io/conan-center-index/pull/21423)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: chef-fun|M|1|Nov 27||**RubenRBS**
-[#21424](https://github.com/conan-io/conan-center-index/pull/21424)|[mayeut](https://github.com/mayeut)|Nov 27|:stopwatch: onnxruntime|:blue_square: S|0|||
 [#21425](https://github.com/conan-io/conan-center-index/pull/21425)|[kammce](https://github.com/kammce)|Nov 27|:memo: libhal|M|2|Nov 27||**RubenRBS**
 [#21428](https://github.com/conan-io/conan-center-index/pull/21428)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: circularbuffer|M|1|Nov 27||**RubenRBS**
 [#21429](https://github.com/conan-io/conan-center-index/pull/21429)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cista|:blue_square: S|1|Nov 27||**RubenRBS**
@@ -220,12 +219,12 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 > :warning: These are just rough metrics counting the labels and may not reflect the actual state of pull requests
 
-- Commit: e7f0cb79c1e68581389989be4c104aaa864e2afc
+- Commit: bf70f3011da440a8ccb500e643b4b5889d44c6e8
 - Pull Requests:
-	- Open: 500
+	- Open: 501
 	- Draft: 55
-	- Average Age: 101 days, 2 hours, and 55.30 minutes
-	- Stop Label: 239
+	- Average Age: 100 days, 23 hours, and 44.78 minutes
+	- Stop Label: 241
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
