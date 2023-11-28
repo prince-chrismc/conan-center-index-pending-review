@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **167** pull requests currently under way :detective:
+There are **157** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -111,6 +111,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20438](https://github.com/conan-io/conan-center-index/pull/20438)|[mayeut](https://github.com/mayeut)|Oct 8|:memo: cmake|:green_circle: XS|3|Oct 8 :bell:||
 [#20442](https://github.com/conan-io/conan-center-index/pull/20442)|[toge](https://github.com/toge)|Oct 8|:new: chunkio|L|2|Oct 9 :bell:|RubenRBS|
 [#20449](https://github.com/conan-io/conan-center-index/pull/20449)|[SpaceIm](https://github.com/SpaceIm)|Oct 9|:memo: dcmtk|:blue_square: S|4|Nov 10 :bell:||jwillikers
+[#20465](https://github.com/conan-io/conan-center-index/pull/20465)|[gjasny](https://github.com/gjasny)|Oct 9|:stopwatch: resiprocate|L|1|Nov 23||
 [#20470](https://github.com/conan-io/conan-center-index/pull/20470)|[ericLemanissier](https://github.com/ericLemanissier)|Oct 9|:memo: pkgconf|L|2|Nov 13 :bell:||jwillikers
 [#20502](https://github.com/conan-io/conan-center-index/pull/20502)|[jwillikers](https://github.com/jwillikers)|Oct 10|:memo: xorg|:blue_square: S|0|:eyes:||
 [#20521](https://github.com/conan-io/conan-center-index/pull/20521)|[tamaskenezlego](https://github.com/tamaskenezlego)|Oct 11|:stopwatch: opencolorio|:green_circle: XS|0|:eyes:||
@@ -141,7 +142,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21026](https://github.com/conan-io/conan-center-index/pull/21026)|[wdobbe](https://github.com/wdobbe)|Nov 9|:memo: qt|M|2|Nov 9 :bell:||jwillikers
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:memo: rocksdb|:blue_square: S|0|:eyes:||
 [#21059](https://github.com/conan-io/conan-center-index/pull/21059)|[valgur](https://github.com/valgur)|Nov 10|:new: vulkan-utility-libraries|L|1|Nov 27||
-[#21064](https://github.com/conan-io/conan-center-index/pull/21064)|[Ahajha](https://github.com/Ahajha)|Nov 11|:memo: tinyalsa|L|2|Nov 27|uilianries|
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|2|Nov 20||jwillikers
 [#21111](https://github.com/conan-io/conan-center-index/pull/21111)|[valgur](https://github.com/valgur)|Nov 14|:memo: xtr|L|7|Nov 26||
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14 :bell:||jwillikers
@@ -176,29 +176,19 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21386](https://github.com/conan-io/conan-center-index/pull/21386)|[SpaceIm](https://github.com/SpaceIm)|Nov 26|:memo: base64|M|1|Nov 27||**uilianries**
 [#21390](https://github.com/conan-io/conan-center-index/pull/21390)|[toge](https://github.com/toge)|Nov 27|:memo: jsoncons|M|1|Nov 27||**uilianries**
 [#21402](https://github.com/conan-io/conan-center-index/pull/21402)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cpuinfo|:blue_square: S|0|||
-[#21407](https://github.com/conan-io/conan-center-index/pull/21407)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: backport-cpp|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21408](https://github.com/conan-io/conan-center-index/pull/21408)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bit-lite|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21409](https://github.com/conan-io/conan-center-index/pull/21409)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bertrand|:blue_square: S|1|Nov 27||**RubenRBS**
 [#21410](https://github.com/conan-io/conan-center-index/pull/21410)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: bitsery|:blue_square: S|0|||
-[#21411](https://github.com/conan-io/conan-center-index/pull/21411)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: blaze|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21412](https://github.com/conan-io/conan-center-index/pull/21412)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: boolean-lite|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21413](https://github.com/conan-io/conan-center-index/pull/21413)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: boolinq|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21414](https://github.com/conan-io/conan-center-index/pull/21414)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: brigand|:blue_square: S|1|Nov 27||**RubenRBS**
 [#21415](https://github.com/conan-io/conan-center-index/pull/21415)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bshoshany-thread-pool|M|1|Nov 27||**RubenRBS**
-[#21416](https://github.com/conan-io/conan-center-index/pull/21416)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bvdberg-ctest|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21418](https://github.com/conan-io/conan-center-index/pull/21418)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: c-dbg-macro|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21419](https://github.com/conan-io/conan-center-index/pull/21419)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cajun-jsonapi|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21420](https://github.com/conan-io/conan-center-index/pull/21420)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: canary|:blue_square: S|1|Nov 27||**RubenRBS**
-[#21421](https://github.com/conan-io/conan-center-index/pull/21421)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: canvas_ity|:green_circle: XS|1|Nov 27||**RubenRBS**
-[#21422](https://github.com/conan-io/conan-center-index/pull/21422)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cd3-boost-unit-definitions|:blue_square: S|1|Nov 27||**RubenRBS**
 [#21423](https://github.com/conan-io/conan-center-index/pull/21423)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: chef-fun|M|1|Nov 27||**RubenRBS**
 [#21425](https://github.com/conan-io/conan-center-index/pull/21425)|[kammce](https://github.com/kammce)|Nov 27|:memo: libhal|M|2|Nov 27||**RubenRBS**
 [#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:memo: vulkan-memory-allocator|M|0|||
+[#21437](https://github.com/conan-io/conan-center-index/pull/21437)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: cppcodec|:green_circle: XS|0|||
+[#21438](https://github.com/conan-io/conan-center-index/pull/21438)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: cppzmq|:green_circle: XS|0|||
+[#21439](https://github.com/conan-io/conan-center-index/pull/21439)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 28|:memo: openssl|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **10** pull requests are waiting to be merged :tada:
+Currently **20** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -210,8 +200,18 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21058](https://github.com/conan-io/conan-center-index/pull/21058)|[upsj](https://github.com/upsj)|Nov 10|:warning: ginkgo|6|**uilianries**, jwillikers, **RubenRBS**
 [#21340](https://github.com/conan-io/conan-center-index/pull/21340)|[abedra](https://github.com/abedra)|Nov 23|:warning: libvault|2|**uilianries**, jwillikers
-[#21429](https://github.com/conan-io/conan-center-index/pull/21429)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cista|2|**RubenRBS**, toge
-[#21430](https://github.com/conan-io/conan-center-index/pull/21430)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: clipp|2|**RubenRBS**, toge
+[#21407](https://github.com/conan-io/conan-center-index/pull/21407)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: backport-cpp|2|**RubenRBS**, ericLemanissier
+[#21408](https://github.com/conan-io/conan-center-index/pull/21408)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bit-lite|2|**RubenRBS**, ericLemanissier
+[#21409](https://github.com/conan-io/conan-center-index/pull/21409)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bertrand|2|**RubenRBS**, ericLemanissier
+[#21412](https://github.com/conan-io/conan-center-index/pull/21412)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: boolean-lite|2|**RubenRBS**, ericLemanissier
+[#21413](https://github.com/conan-io/conan-center-index/pull/21413)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: boolinq|2|**RubenRBS**, ericLemanissier
+[#21414](https://github.com/conan-io/conan-center-index/pull/21414)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: brigand|2|**RubenRBS**, ericLemanissier
+[#21416](https://github.com/conan-io/conan-center-index/pull/21416)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: bvdberg-ctest|2|**RubenRBS**, ericLemanissier
+[#21418](https://github.com/conan-io/conan-center-index/pull/21418)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: c-dbg-macro|2|**RubenRBS**, ericLemanissier
+[#21419](https://github.com/conan-io/conan-center-index/pull/21419)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cajun-jsonapi|2|**RubenRBS**, ericLemanissier
+[#21420](https://github.com/conan-io/conan-center-index/pull/21420)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:warning: canary|2|**RubenRBS**, ericLemanissier
+[#21421](https://github.com/conan-io/conan-center-index/pull/21421)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: canvas_ity|2|**RubenRBS**, ericLemanissier
+[#21422](https://github.com/conan-io/conan-center-index/pull/21422)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cd3-boost-unit-definitions|2|**RubenRBS**, ericLemanissier
 [#21431](https://github.com/conan-io/conan-center-index/pull/21431)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:memo: cpp-lazy|2|**RubenRBS**, toge
 
 
@@ -222,8 +222,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Commit: bf70f3011da440a8ccb500e643b4b5889d44c6e8
 - Pull Requests:
 	- Open: 503
-	- Draft: 56
-	- Average Age: 100 days, 20 hours, and 23.18 minutes
+	- Draft: 55
+	- Average Age: 100 days, 21 hours, and 23.46 minutes
 	- Stop Label: 242
 	
 
