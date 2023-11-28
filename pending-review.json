@@ -3058,7 +3058,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21049",
       "LastCommitSHA": "e5de822eda3dd6c0ebaba17519cd0d4cb736177b",
       "LastCommitAt": "2023-11-28T11:51:55Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3726,7 +3726,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21323",
       "LastCommitSHA": "ca6bae3ea1f48b6f65b95467ab2f050faf65eb9b",
       "LastCommitAt": "2023-11-28T15:24:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4099,6 +4099,25 @@
       }
    },
    {
+      "Number": 21440,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-11-28T08:33:56Z",
+      "Recipe": "libvips",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21440",
+      "LastCommitSHA": "e8d8a82b33b4ab9b4515ed7c978d9f33ddfc71f8",
+      "LastCommitAt": "2023-11-28T12:57:42Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21442,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-28T11:52:29Z",
@@ -4194,25 +4213,6 @@
       }
    },
    {
-      "Number": 21452,
-      "OpenedBy": "achim-k",
-      "CreatedAt": "2023-11-28T17:47:44Z",
-      "Recipe": "foxglove-websocket",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21452",
-      "LastCommitSHA": "039351a0f4f17a7888a873460096fac84821fc9b",
-      "LastCommitAt": "2023-11-28T17:45:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21453,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-28T19:35:34Z",
@@ -4222,7 +4222,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21453",
       "LastCommitSHA": "31812380ad9fa4b0d89441641ad72cbe77435948",
       "LastCommitAt": "2023-11-28T19:34:31Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4241,7 +4241,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21454",
       "LastCommitSHA": "5e7dffd8389419af069a026ff5a39d692944db3f",
       "LastCommitAt": "2023-11-28T19:38:47Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4298,7 +4298,26 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21457",
       "LastCommitSHA": "b550d97ea76d0e0ec5c4e1473fd9df0b77093a3c",
       "LastCommitAt": "2023-11-28T20:03:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21458,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-28T20:06:48Z",
+      "Recipe": "fast-cpp-csv-parser",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21458",
+      "LastCommitSHA": "7135f6270f899b9759e8071ad6c3c261ee2d3819",
+      "LastCommitAt": "2023-11-28T20:06:00Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
