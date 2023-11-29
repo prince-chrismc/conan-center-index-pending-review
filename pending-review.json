@@ -4342,7 +4342,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21466",
       "LastCommitSHA": "a6adf04ea5e77942cdad4df391ab2f1322839c59",
       "LastCommitAt": "2023-11-29T08:40:49Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4361,7 +4361,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21467",
       "LastCommitSHA": "4d7225b87080c0d8b6966f7ceba2a01d131875d6",
       "LastCommitAt": "2023-11-29T08:45:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4380,26 +4380,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21468",
       "LastCommitSHA": "2872d7d5b1ab6180acdc9a9d7d56f3e62fdc83ab",
       "LastCommitAt": "2023-11-29T08:48:36Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21469,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-11-29T08:56:53Z",
-      "Recipe": "gsl-lite",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21469",
-      "LastCommitSHA": "d94692f6fc9aefc7710f45cfd1e8630c66455776",
-      "LastCommitAt": "2023-11-29T08:56:12Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4418,7 +4399,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21470",
       "LastCommitSHA": "2949b086c2902509c6400715eb46bd20bc20d03a",
       "LastCommitAt": "2023-11-29T08:59:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4437,6 +4418,63 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21471",
       "LastCommitSHA": "e19cd5c6a8a33e7f0a5c25c9670ed16eb6e0cc57",
       "LastCommitAt": "2023-11-29T09:03:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21472,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-29T09:51:43Z",
+      "Recipe": "hedley",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21472",
+      "LastCommitSHA": "bbfb123422834fe49a7cfed5ace1820f2b5c5f46",
+      "LastCommitAt": "2023-11-29T09:51:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21473,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-29T09:55:00Z",
+      "Recipe": "hffix",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21473",
+      "LastCommitSHA": "86e2200eebf616600de500738d8eb8bca9347804",
+      "LastCommitAt": "2023-11-29T09:53:51Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21474,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-29T09:58:57Z",
+      "Recipe": "highfive",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21474",
+      "LastCommitSHA": "695f2a976245f953bf03d641c9d5cf0eaa65c63f",
+      "LastCommitAt": "2023-11-29T09:58:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
