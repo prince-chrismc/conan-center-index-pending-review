@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **161** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -174,7 +174,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21410](https://github.com/conan-io/conan-center-index/pull/21410)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: bitsery|:blue_square: S|0|||
 [#21433](https://github.com/conan-io/conan-center-index/pull/21433)|[bennettgoble](https://github.com/bennettgoble)|Nov 28|:stopwatch: xmlrpc-epi|L|0|||
 [#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:memo: vulkan-memory-allocator|M|0|||
-[#21437](https://github.com/conan-io/conan-center-index/pull/21437)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: cppcodec|:green_circle: XS|1|Nov 28||**RubenRBS**
 [#21440](https://github.com/conan-io/conan-center-index/pull/21440)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 28|:memo: libvips|:blue_square: S|0|||
 [#21442](https://github.com/conan-io/conan-center-index/pull/21442)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: cs_libguarded|:green_circle: XS|0|||
 [#21443](https://github.com/conan-io/conan-center-index/pull/21443)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: cxxopts|:green_circle: XS|0|||
@@ -187,6 +186,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21457](https://github.com/conan-io/conan-center-index/pull/21457)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: eternal|:blue_square: S|0|||
 [#21458](https://github.com/conan-io/conan-center-index/pull/21458)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: fast-cpp-csv-parser|:blue_square: S|0|||
 [#21459](https://github.com/conan-io/conan-center-index/pull/21459)|[toge](https://github.com/toge)|Nov 29|:stopwatch: c-blosc2|:green_circle: XS|0|||
+[#21460](https://github.com/conan-io/conan-center-index/pull/21460)|[toge](https://github.com/toge)|Nov 29|:stopwatch: libbigwig|:green_circle: XS|0|||
+[#21461](https://github.com/conan-io/conan-center-index/pull/21461)|[toge](https://github.com/toge)|Nov 29|:stopwatch: nlohmann_json|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -213,9 +214,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 494
+	- Open: 495
 	- Draft: 54
-	- Average Age: 103 days, 8 hours, and 29.78 minutes
+	- Average Age: 103 days, 4 hours, and 25.43 minutes
 	- Stop Label: 242
 	
 
