@@ -54,7 +54,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18759](https://github.com/conan-io/conan-center-index/pull/18759)|[valgur](https://github.com/valgur)|Jul 20|:memo: lightgbm|L|3|Nov 6 :bell:||
 [#18819](https://github.com/conan-io/conan-center-index/pull/18819)|[valgur](https://github.com/valgur)|Jul 22|:memo: tar|L|1|Nov 6 :bell:||
 [#18820](https://github.com/conan-io/conan-center-index/pull/18820)|[valgur](https://github.com/valgur)|Jul 22|:memo: pagmo2|L|0|:eyes:||
-[#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:memo: redradist-icc|L|0|||
+[#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:memo: redradist-icc|L|1|Nov 29||**uilianries**
 [#18834](https://github.com/conan-io/conan-center-index/pull/18834)|[valgur](https://github.com/valgur)|Jul 22|:memo: libfreenect2|L|0|:eyes:||
 [#18837](https://github.com/conan-io/conan-center-index/pull/18837)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: qcoro|L|0|:eyes:||
 [#18844](https://github.com/conan-io/conan-center-index/pull/18844)|[valgur](https://github.com/valgur)|Jul 23|:memo: premake|L|2|Nov 16 :bell:||
@@ -146,7 +146,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|1|Nov 20||jwillikers
 [#21157](https://github.com/conan-io/conan-center-index/pull/21157)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: libmysqlclient|:blue_square: S|1|Nov 20||jwillikers
 [#21158](https://github.com/conan-io/conan-center-index/pull/21158)|[uilianries](https://github.com/uilianries)|Nov 16|:stopwatch: pulseaudio|:green_circle: XS|3|Nov 20||jwillikers
-[#21165](https://github.com/conan-io/conan-center-index/pull/21165)|[valgur](https://github.com/valgur)|Nov 16|:memo: elfutils|L|0|||
+[#21165](https://github.com/conan-io/conan-center-index/pull/21165)|[valgur](https://github.com/valgur)|Nov 16|:memo: elfutils|L|0|:eyes:||
 [#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:memo: opencv|M|1|Nov 18||SpaceIm
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|3|Nov 22|uilianries|jwillikers
 [#21222](https://github.com/conan-io/conan-center-index/pull/21222)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: ceres-solver|L|2|Nov 20||jwillikers, [valgur](https://github.com/valgur)
@@ -202,9 +202,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21475](https://github.com/conan-io/conan-center-index/pull/21475)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: hlslpp|:green_circle: XS|0|||
 [#21476](https://github.com/conan-io/conan-center-index/pull/21476)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: homog2d|:green_circle: XS|0|||
 [#21477](https://github.com/conan-io/conan-center-index/pull/21477)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: ginkgo|:blue_square: S|0|||
-[#21478](https://github.com/conan-io/conan-center-index/pull/21478)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: im95able-rea|:green_circle: XS|0|||
-[#21479](https://github.com/conan-io/conan-center-index/pull/21479)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: incbin|:green_circle: XS|0|||
-[#21481](https://github.com/conan-io/conan-center-index/pull/21481)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: indicators|:green_circle: XS|0|||
+[#21478](https://github.com/conan-io/conan-center-index/pull/21478)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: im95able-rea|:green_circle: XS|0|||
+[#21479](https://github.com/conan-io/conan-center-index/pull/21479)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: incbin|:green_circle: XS|0|||
+[#21481](https://github.com/conan-io/conan-center-index/pull/21481)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: indicators|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -230,7 +230,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 508
 	- Draft: 54
-	- Average Age: 100 days, 16 hours, and 50.47 minutes
+	- Average Age: 100 days, 17 hours, and 46.41 minutes
 	- Stop Label: 242
 	
 
