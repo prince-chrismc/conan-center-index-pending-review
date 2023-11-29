@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **170** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -191,12 +191,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21463](https://github.com/conan-io/conan-center-index/pull/21463)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: fastprng|:blue_square: S|0|||
 [#21464](https://github.com/conan-io/conan-center-index/pull/21464)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: gcem|:green_circle: XS|0|||
 [#21465](https://github.com/conan-io/conan-center-index/pull/21465)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: ghc-filesystem|:blue_square: S|0|||
-[#21466](https://github.com/conan-io/conan-center-index/pull/21466)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: gli|M|0|||
-[#21467](https://github.com/conan-io/conan-center-index/pull/21467)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: gnu-config|:green_circle: XS|0|||
-[#21468](https://github.com/conan-io/conan-center-index/pull/21468)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: godot_headers|:green_circle: XS|0|||
-[#21469](https://github.com/conan-io/conan-center-index/pull/21469)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: gsl-lite|M|0|||
-[#21470](https://github.com/conan-io/conan-center-index/pull/21470)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: gzip-hpp|:green_circle: XS|0|||
-[#21471](https://github.com/conan-io/conan-center-index/pull/21471)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: half|:blue_square: S|0|||
+[#21466](https://github.com/conan-io/conan-center-index/pull/21466)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: gli|M|0|||
+[#21467](https://github.com/conan-io/conan-center-index/pull/21467)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: gnu-config|:green_circle: XS|0|||
+[#21468](https://github.com/conan-io/conan-center-index/pull/21468)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: godot_headers|:green_circle: XS|0|||
+[#21470](https://github.com/conan-io/conan-center-index/pull/21470)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: gzip-hpp|:green_circle: XS|0|||
+[#21471](https://github.com/conan-io/conan-center-index/pull/21471)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: half|:blue_square: S|0|||
+[#21472](https://github.com/conan-io/conan-center-index/pull/21472)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: hedley|:green_circle: XS|0|||
+[#21473](https://github.com/conan-io/conan-center-index/pull/21473)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: hffix|:blue_square: S|0|||
+[#21474](https://github.com/conan-io/conan-center-index/pull/21474)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:stopwatch: highfive|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -221,10 +223,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 500
+	- Open: 503
 	- Draft: 54
-	- Average Age: 102 days, 9 hours, and 51.31 minutes
-	- Stop Label: 241
+	- Average Age: 101 days, 20 hours, and 12.46 minutes
+	- Stop Label: 242
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
