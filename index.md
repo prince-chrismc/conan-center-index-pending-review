@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **160** pull requests currently under way :detective:
+There are **159** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -184,7 +184,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21453](https://github.com/conan-io/conan-center-index/pull/21453)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: earcut|M|0|||
 [#21454](https://github.com/conan-io/conan-center-index/pull/21454)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: egl-headers|:green_circle: XS|0|||
 [#21455](https://github.com/conan-io/conan-center-index/pull/21455)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:stopwatch: enum-flags|:green_circle: XS|0|||
-[#21456](https://github.com/conan-io/conan-center-index/pull/21456)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:stopwatch: erikzenker-hsm|:blue_square: S|0|||
 [#21457](https://github.com/conan-io/conan-center-index/pull/21457)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: eternal|:blue_square: S|0|||
 [#21458](https://github.com/conan-io/conan-center-index/pull/21458)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: fast-cpp-csv-parser|:blue_square: S|0|||
 
@@ -213,9 +212,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 494
+	- Open: 493
 	- Draft: 54
-	- Average Age: 103 days, 6 hours, and 46.03 minutes
+	- Average Age: 103 days, 13 hours, and 25.60 minutes
 	- Stop Label: 242
 	
 
