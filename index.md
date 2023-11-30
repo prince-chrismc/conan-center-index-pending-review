@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **147** pull requests currently under way :detective:
+There are **148** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -142,7 +142,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|1|Nov 20||jwillikers
 [#21157](https://github.com/conan-io/conan-center-index/pull/21157)|[SpaceIm](https://github.com/SpaceIm)|Nov 16|:memo: libmysqlclient|:blue_square: S|1|Nov 20||jwillikers
 [#21165](https://github.com/conan-io/conan-center-index/pull/21165)|[valgur](https://github.com/valgur)|Nov 16|:memo: elfutils|L|0|:eyes:||
-[#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:memo: opencv|M|1|Nov 18||SpaceIm
+[#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:memo: opencv|M|1|Nov 18 :bell:||SpaceIm
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|3|Nov 22|uilianries|jwillikers
 [#21222](https://github.com/conan-io/conan-center-index/pull/21222)|[SpaceIm](https://github.com/SpaceIm)|Nov 18|:memo: ceres-solver|L|2|Nov 20||jwillikers, [valgur](https://github.com/valgur)
 [#21227](https://github.com/conan-io/conan-center-index/pull/21227)|[temap](https://github.com/temap)|Nov 18|:memo: libbpf|:blue_square: S|1|Nov 24||ericLemanissier
@@ -174,6 +174,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21481](https://github.com/conan-io/conan-center-index/pull/21481)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: indicators|:green_circle: XS|1|Nov 29||**RubenRBS**
 [#21482](https://github.com/conan-io/conan-center-index/pull/21482)|[toge](https://github.com/toge)|Nov 29|:stopwatch: itlib|:green_circle: XS|0|||
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|||
+[#21487](https://github.com/conan-io/conan-center-index/pull/21487)|[toge](https://github.com/toge)|Nov 30|:stopwatch: aws-c-auth|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -198,9 +199,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 473
+	- Open: 474
 	- Draft: 54
-	- Average Age: 107 days, 17 hours, and 29.75 minutes
+	- Average Age: 107 days, 14 hours, and 58.97 minutes
 	- Stop Label: 238
 	
 
