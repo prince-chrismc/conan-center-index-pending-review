@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **162** pull requests currently under way :detective:
+There are **163** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -99,6 +99,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20323](https://github.com/conan-io/conan-center-index/pull/20323)|[valgur](https://github.com/valgur)|Oct 3|:memo: recastnavigation|L|5|Oct 3 :bell:||
 [#20326](https://github.com/conan-io/conan-center-index/pull/20326)|[Rdk-T](https://github.com/Rdk-T)|Oct 3|:memo: kickcat|:green_circle: XS|2|Oct 10 :bell:||[leducp](https://github.com/leducp), [trns1997](https://github.com/trns1997)
 [#20336](https://github.com/conan-io/conan-center-index/pull/20336)|[SpaceIm](https://github.com/SpaceIm)|Oct 3|:memo: boost|:green_circle: XS|2|Oct 16 :bell:|RubenRBS|jwillikers
+[#20355](https://github.com/conan-io/conan-center-index/pull/20355)|[valgur](https://github.com/valgur)|Oct 4|:stopwatch: ncurses|L|8|Nov 30||**RubenRBS**
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|1|Oct 13 :bell:||jwillikers
 [#20373](https://github.com/conan-io/conan-center-index/pull/20373)|[jwillikers](https://github.com/jwillikers)|Oct 5|:new: libblkid|M|0|:eyes:||
 [#20388](https://github.com/conan-io/conan-center-index/pull/20388)|[toge](https://github.com/toge)|Oct 6|:new: fast_io|M|2|Oct 13 :bell:||jwillikers
@@ -188,7 +189,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21520](https://github.com/conan-io/conan-center-index/pull/21520)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: modern-cpp-kafka|:blue_square: S|0|||
 [#21521](https://github.com/conan-io/conan-center-index/pull/21521)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: morton-nd|:blue_square: S|0|||
 [#21522](https://github.com/conan-io/conan-center-index/pull/21522)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: diligent-core|XL|0|||
-[#21524](https://github.com/conan-io/conan-center-index/pull/21524)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: raylib|:blue_square: S|0|||
+[#21524](https://github.com/conan-io/conan-center-index/pull/21524)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: raylib|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -216,7 +217,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 501
 	- Draft: 54
-	- Average Age: 102 days, 4 hours, and 15.22 minutes
+	- Average Age: 102 days, 5 hours, and 18.91 minutes
 	- Stop Label: 248
 	
 
