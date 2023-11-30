@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **154** pull requests currently under way :detective:
+There are **159** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -99,7 +99,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20323](https://github.com/conan-io/conan-center-index/pull/20323)|[valgur](https://github.com/valgur)|Oct 3|:memo: recastnavigation|L|5|Oct 3 :bell:||
 [#20326](https://github.com/conan-io/conan-center-index/pull/20326)|[Rdk-T](https://github.com/Rdk-T)|Oct 3|:memo: kickcat|:green_circle: XS|2|Oct 10 :bell:||[leducp](https://github.com/leducp), [trns1997](https://github.com/trns1997)
 [#20336](https://github.com/conan-io/conan-center-index/pull/20336)|[SpaceIm](https://github.com/SpaceIm)|Oct 3|:memo: boost|:green_circle: XS|2|Oct 16 :bell:|RubenRBS|jwillikers
-[#20355](https://github.com/conan-io/conan-center-index/pull/20355)|[valgur](https://github.com/valgur)|Oct 4|:stopwatch: ncurses|L|7|Nov 30||**uilianries**
 [#20369](https://github.com/conan-io/conan-center-index/pull/20369)|[SpaceIm](https://github.com/SpaceIm)|Oct 5|:stopwatch: pipes|:blue_square: S|1|Oct 13 :bell:||jwillikers
 [#20373](https://github.com/conan-io/conan-center-index/pull/20373)|[jwillikers](https://github.com/jwillikers)|Oct 5|:new: libblkid|M|0|:eyes:||
 [#20388](https://github.com/conan-io/conan-center-index/pull/20388)|[toge](https://github.com/toge)|Oct 6|:new: fast_io|M|2|Oct 13 :bell:||jwillikers
@@ -181,6 +180,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21513](https://github.com/conan-io/conan-center-index/pull/21513)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: magnum-extras|L|0|||
 [#21514](https://github.com/conan-io/conan-center-index/pull/21514)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: magnum-integration|L|0|||
 [#21515](https://github.com/conan-io/conan-center-index/pull/21515)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: metall|M|0|||
+[#21516](https://github.com/conan-io/conan-center-index/pull/21516)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 30|:stopwatch: pcl|:green_circle: XS|0|||
+[#21517](https://github.com/conan-io/conan-center-index/pull/21517)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: mikelankamp-fpm|:green_circle: XS|0|||
+[#21518](https://github.com/conan-io/conan-center-index/pull/21518)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: mio|M|0|||
+[#21519](https://github.com/conan-io/conan-center-index/pull/21519)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: magnum-plugins|L|0|||
+[#21520](https://github.com/conan-io/conan-center-index/pull/21520)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: modern-cpp-kafka|:blue_square: S|0|||
+[#21521](https://github.com/conan-io/conan-center-index/pull/21521)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: morton-nd|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -206,9 +211,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 493
+	- Open: 499
 	- Draft: 54
-	- Average Age: 103 days, 16 hours, and 2.39 minutes
+	- Average Age: 102 days, 11 hours, and 11.77 minutes
 	- Stop Label: 248
 	
 
