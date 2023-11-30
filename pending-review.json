@@ -4230,5 +4230,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21524,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-11-30T18:48:51Z",
+      "Recipe": "raylib",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21524",
+      "LastCommitSHA": "4b77b2512fdb0ca89ac40ff79eb77d61f1552581",
+      "LastCommitAt": "2023-11-30T18:47:38Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
