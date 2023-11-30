@@ -177,7 +177,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -189,9 +189,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21340](https://github.com/conan-io/conan-center-index/pull/21340)|[abedra](https://github.com/abedra)|Nov 23|:warning: libvault|2|**uilianries**, jwillikers
-[#21467](https://github.com/conan-io/conan-center-index/pull/21467)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: gnu-config|2|**RubenRBS**, jwillikers
-[#21468](https://github.com/conan-io/conan-center-index/pull/21468)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: godot_headers|2|**RubenRBS**, jwillikers
-[#21470](https://github.com/conan-io/conan-center-index/pull/21470)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: gzip-hpp|2|**RubenRBS**, jwillikers
 [#21471](https://github.com/conan-io/conan-center-index/pull/21471)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: half|2|**RubenRBS**, jwillikers
 [#21472](https://github.com/conan-io/conan-center-index/pull/21472)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: hedley|2|**RubenRBS**, jwillikers
 [#21473](https://github.com/conan-io/conan-center-index/pull/21473)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: hffix|2|**RubenRBS**, jwillikers
@@ -206,9 +203,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 482
+	- Open: 479
 	- Draft: 54
-	- Average Age: 105 days, 14 hours, and 11.41 minutes
+	- Average Age: 106 days, 7 hours, and 2.65 minutes
 	- Stop Label: 238
 	
 
