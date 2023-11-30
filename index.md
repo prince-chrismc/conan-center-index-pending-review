@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **159** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -186,6 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21519](https://github.com/conan-io/conan-center-index/pull/21519)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: magnum-plugins|L|0|||
 [#21520](https://github.com/conan-io/conan-center-index/pull/21520)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: modern-cpp-kafka|:blue_square: S|0|||
 [#21521](https://github.com/conan-io/conan-center-index/pull/21521)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: morton-nd|:blue_square: S|0|||
+[#21522](https://github.com/conan-io/conan-center-index/pull/21522)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: diligent-core|XL|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -211,9 +212,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 499
+	- Open: 500
 	- Draft: 54
-	- Average Age: 102 days, 11 hours, and 11.77 minutes
+	- Average Age: 102 days, 7 hours, and 12.02 minutes
 	- Stop Label: 248
 	
 
