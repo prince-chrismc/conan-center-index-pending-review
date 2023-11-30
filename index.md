@@ -177,7 +177,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **9** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -189,8 +189,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20247](https://github.com/conan-io/conan-center-index/pull/20247)|[toge](https://github.com/toge)|Oct 1|:warning: mosquitto|2|**RubenRBS**, ericLemanissier
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21340](https://github.com/conan-io/conan-center-index/pull/21340)|[abedra](https://github.com/abedra)|Nov 23|:warning: libvault|2|**uilianries**, jwillikers
-[#21473](https://github.com/conan-io/conan-center-index/pull/21473)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: hffix|2|**RubenRBS**, jwillikers
-[#21474](https://github.com/conan-io/conan-center-index/pull/21474)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: highfive|2|**RubenRBS**, jwillikers
 [#21477](https://github.com/conan-io/conan-center-index/pull/21477)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: ginkgo|2|**RubenRBS**, jwillikers
 [#21478](https://github.com/conan-io/conan-center-index/pull/21478)|[SpaceIm](https://github.com/SpaceIm)|Nov 29|:memo: im95able-rea|2|**RubenRBS**, jwillikers
 
@@ -201,9 +199,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 477
+	- Open: 475
 	- Draft: 54
-	- Average Age: 106 days, 18 hours, and 10.39 minutes
+	- Average Age: 107 days, 5 hours, and 39.98 minutes
 	- Stop Label: 238
 	
 
