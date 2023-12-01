@@ -166,7 +166,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|||
 [#21491](https://github.com/conan-io/conan-center-index/pull/21491)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: jeaiii-itoa|:blue_square: S|1|Nov 30||**RubenRBS**
 [#21493](https://github.com/conan-io/conan-center-index/pull/21493)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 30|:stopwatch: cpr|L|0|||
-[#21494](https://github.com/conan-io/conan-center-index/pull/21494)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: jfalcou-eve|:green_circle: XS|1|Nov 30||**RubenRBS**
+[#21494](https://github.com/conan-io/conan-center-index/pull/21494)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: jfalcou-eve|:green_circle: XS|1|Nov 30||**RubenRBS**
 [#21496](https://github.com/conan-io/conan-center-index/pull/21496)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: jsmn|:green_circle: XS|1|Nov 30||**RubenRBS**
 [#21497](https://github.com/conan-io/conan-center-index/pull/21497)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 30|:stopwatch: libcurl|:green_circle: XS|1|Nov 30||**RubenRBS**
 [#21498](https://github.com/conan-io/conan-center-index/pull/21498)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: json_dto|L|1|Nov 30||**RubenRBS**
@@ -217,7 +217,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 505
 	- Draft: 54
-	- Average Age: 101 days, 20 hours, and 47.99 minutes
+	- Average Age: 101 days, 21 hours, and 51.81 minutes
 	- Stop Label: 252
 	
 
