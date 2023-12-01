@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **162** pull requests currently under way :detective:
+There are **165** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -122,6 +122,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#20656](https://github.com/conan-io/conan-center-index/pull/20656)|[RubenRBS](https://github.com/RubenRBS)|Oct 18|:stopwatch: msix|:green_circle: XS|1|Oct 19 :bell:||jwillikers
 [#20693](https://github.com/conan-io/conan-center-index/pull/20693)|[cyberflashguru](https://github.com/cyberflashguru)|Oct 19|:memo: libiconv|:blue_square: S|0|:eyes:||
 [#20704](https://github.com/conan-io/conan-center-index/pull/20704)|[toge](https://github.com/toge)|Oct 20|:new: antlr4|M|1|Nov 20||jwillikers
+[#20795](https://github.com/conan-io/conan-center-index/pull/20795)|[mayeut](https://github.com/mayeut)|Oct 28|:stopwatch: pango|L|0|||
 [#20875](https://github.com/conan-io/conan-center-index/pull/20875)|[toge](https://github.com/toge)|Nov 1|:memo: mongo-c-driver|M|0|:eyes:||
 [#20894](https://github.com/conan-io/conan-center-index/pull/20894)|[samuel-emrys](https://github.com/samuel-emrys)|Nov 2|:memo: openblas|:green_circle: XS|2|Nov 13 :bell:|uilianries|jwillikers
 [#20905](https://github.com/conan-io/conan-center-index/pull/20905)|[jwillikers](https://github.com/jwillikers)|Nov 2|:memo: freeglut|XL|1|Nov 13 :bell:||
@@ -189,6 +190,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21542](https://github.com/conan-io/conan-center-index/pull/21542)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: libwebsockets|:green_circle: XS|0|||
 [#21543](https://github.com/conan-io/conan-center-index/pull/21543)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: libzip|:green_circle: XS|0|||
 [#21544](https://github.com/conan-io/conan-center-index/pull/21544)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: onetbb|:green_circle: XS|0|||
+[#21545](https://github.com/conan-io/conan-center-index/pull/21545)|[mayeut](https://github.com/mayeut)|Dec 1|:stopwatch: libjpeg-turbo|:green_circle: XS|0|||
+[#21546](https://github.com/conan-io/conan-center-index/pull/21546)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: .c3i|:green_circle: XS|1|Dec 1||**memsharded**
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -226,10 +229,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 519
+	- Open: 521
 	- Draft: 54
-	- Average Age: 99 days, 15 hours, and 8.69 minutes
-	- Stop Label: 253
+	- Average Age: 99 days, 6 hours, and 58.33 minutes
+	- Stop Label: 252
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
