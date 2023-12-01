@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **157** pull requests currently under way :detective:
+There are **156** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -158,7 +158,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21341](https://github.com/conan-io/conan-center-index/pull/21341)|[valgur](https://github.com/valgur)|Nov 23|:new: libecwj2|XL|0|:eyes:||
 [#21342](https://github.com/conan-io/conan-center-index/pull/21342)|[toge](https://github.com/toge)|Nov 24|:memo: coost|:blue_square: S|0|:eyes:||
 [#21410](https://github.com/conan-io/conan-center-index/pull/21410)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: bitsery|:blue_square: S|0|:eyes:||
-[#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:memo: vulkan-memory-allocator|M|0|||
+[#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:memo: vulkan-memory-allocator|M|0|:eyes:||
 [#21436](https://github.com/conan-io/conan-center-index/pull/21436)|[temap](https://github.com/temap)|Nov 28|:new: lksctp-tools|M|1|Nov 28||
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|0|||
 [#21450](https://github.com/conan-io/conan-center-index/pull/21450)|[toge](https://github.com/toge)|Nov 28|:memo: trantor|M|1|Nov 28||
@@ -174,21 +174,20 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21500](https://github.com/conan-io/conan-center-index/pull/21500)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: jwt-cpp|M|1|Nov 30||**RubenRBS**
 [#21508](https://github.com/conan-io/conan-center-index/pull/21508)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: md4qt|:blue_square: S|1|Nov 30||**RubenRBS**
 [#21509](https://github.com/conan-io/conan-center-index/pull/21509)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: jemalloc|L|0|||
-[#21515](https://github.com/conan-io/conan-center-index/pull/21515)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: metall|M|1|Nov 30||**RubenRBS**
 [#21516](https://github.com/conan-io/conan-center-index/pull/21516)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 30|:stopwatch: pcl|:green_circle: XS|1|Nov 30||**RubenRBS**
 [#21517](https://github.com/conan-io/conan-center-index/pull/21517)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: mikelankamp-fpm|:green_circle: XS|1|Nov 30||**RubenRBS**
-[#21518](https://github.com/conan-io/conan-center-index/pull/21518)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: mio|M|1|Nov 30||**RubenRBS**
 [#21519](https://github.com/conan-io/conan-center-index/pull/21519)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: magnum-plugins|L|0|||
-[#21520](https://github.com/conan-io/conan-center-index/pull/21520)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: modern-cpp-kafka|:blue_square: S|1|Nov 30||**RubenRBS**
-[#21521](https://github.com/conan-io/conan-center-index/pull/21521)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: morton-nd|:blue_square: S|1|Nov 30||**RubenRBS**
 [#21522](https://github.com/conan-io/conan-center-index/pull/21522)|[valgur](https://github.com/valgur)|Nov 30|:stopwatch: diligent-core|XL|0|||
 [#21524](https://github.com/conan-io/conan-center-index/pull/21524)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: raylib|M|1|Nov 30||**RubenRBS**
 [#21525](https://github.com/conan-io/conan-center-index/pull/21525)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: log4cpp|M|0|||
+[#21527](https://github.com/conan-io/conan-center-index/pull/21527)|[toge](https://github.com/toge)|Dec 1|:stopwatch: xsimd|:green_circle: XS|0|||
+[#21528](https://github.com/conan-io/conan-center-index/pull/21528)|[toge](https://github.com/toge)|Dec 1|:stopwatch: simdjson|:green_circle: XS|0|||
+[#21529](https://github.com/conan-io/conan-center-index/pull/21529)|[toge](https://github.com/toge)|Dec 1|:stopwatch: strong_type|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **11** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -204,6 +203,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#21489](https://github.com/conan-io/conan-center-index/pull/21489)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: inja|2|**RubenRBS**, **uilianries**
 [#21490](https://github.com/conan-io/conan-center-index/pull/21490)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: intel-neon2sse|2|**RubenRBS**, **uilianries**
 [#21511](https://github.com/conan-io/conan-center-index/pull/21511)|[valgur](https://github.com/valgur)|Nov 30|:warning: libspatialite|2|jwillikers, **RubenRBS**
+[#21515](https://github.com/conan-io/conan-center-index/pull/21515)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: metall|2|**RubenRBS**, **franramirez688**
+[#21518](https://github.com/conan-io/conan-center-index/pull/21518)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: mio|2|**RubenRBS**, toge
+[#21520](https://github.com/conan-io/conan-center-index/pull/21520)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: modern-cpp-kafka|2|**RubenRBS**, toge
+[#21521](https://github.com/conan-io/conan-center-index/pull/21521)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: morton-nd|2|**RubenRBS**, toge
 
 
 #### :clipboard: Statistics
@@ -212,9 +215,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 502
+	- Open: 505
 	- Draft: 54
-	- Average Age: 102 days, 5 hours, and 8.67 minutes
+	- Average Age: 101 days, 20 hours, and 47.99 minutes
 	- Stop Label: 252
 	
 
