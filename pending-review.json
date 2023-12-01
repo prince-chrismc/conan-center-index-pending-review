@@ -2968,30 +2968,6 @@
       }
    },
    {
-      "Number": 21111,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-14T08:38:59Z",
-      "Recipe": "xtr",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21111",
-      "LastCommitSHA": "a83d8663d6d1cf9e758b5ec53ba107010adf8fa9",
-      "LastCommitAt": "2023-11-27T15:19:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 7,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "choll",
-            "SubmittedAt": "2023-11-26T20:23:37Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21111#pullrequestreview-1749411069"
-         }
-      }
-   },
-   {
       "Number": 21112,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-11-14T08:50:27Z",
@@ -4108,39 +4084,6 @@
       }
    },
    {
-      "Number": 21511,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-30T12:56:08Z",
-      "Recipe": "libspatialite",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21511",
-      "LastCommitSHA": "954bc9707f228fe2441c7099ea5a782b12a7e9e7",
-      "LastCommitAt": "2023-11-30T12:55:54Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-11-30T21:13:12Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21511#pullrequestreview-1758462867"
-         }
-      }
-   },
-   {
       "Number": 21515,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-30T15:12:40Z",
@@ -4517,11 +4460,21 @@
       "LastCommitAt": "2023-12-01T17:01:27Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2023-12-01T17:24:13Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21535#pullrequestreview-1760267887"
+         }
       }
    }
 ]
