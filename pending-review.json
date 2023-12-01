@@ -1988,20 +1988,24 @@
       "LastCommitAt": "2023-11-22T09:27:20Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 8,
-         "ValidApprovals": 1,
+         "Count": 9,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "RubenRBS",
                "Tier": "team"
+            },
+            {
+               "Name": "samuel-emrys",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-11-30T19:51:22Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20355#pullrequestreview-1758329144"
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2023-12-01T00:49:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20355#pullrequestreview-1758809139"
          }
       }
    },
@@ -2904,32 +2908,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 21026,
-      "OpenedBy": "wdobbe",
-      "CreatedAt": "2023-11-09T13:46:46Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21026",
-      "LastCommitSHA": "a0b142d8d6286b4bc6a03f8d4072251f62b356e7",
-      "LastCommitAt": "2023-11-30T15:10:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": [
-            "RubenRBS"
-         ],
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-11-28T11:51:10Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21026#pullrequestreview-1752699858"
-         }
       }
    },
    {
@@ -4000,7 +3978,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21499",
       "LastCommitSHA": "caf3b4f8ce55aa48231ff8ee722fc83d9531989c",
       "LastCommitAt": "2023-11-30T10:53:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -4127,44 +4105,6 @@
             "SubmittedAt": "2023-11-30T21:13:12Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21511#pullrequestreview-1758462867"
          }
-      }
-   },
-   {
-      "Number": 21513,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-30T14:40:18Z",
-      "Recipe": "magnum-extras",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21513",
-      "LastCommitSHA": "0ffea6d776a50d22bed3544791289aa6be8fc3ca",
-      "LastCommitAt": "2023-11-30T14:39:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21514,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-30T14:52:48Z",
-      "Recipe": "magnum-integration",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21514",
-      "LastCommitSHA": "c7148a765b9072c96a7fa67a43af69d575204a1e",
-      "LastCommitAt": "2023-11-30T14:52:18Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
