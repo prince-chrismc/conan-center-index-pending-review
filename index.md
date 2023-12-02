@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **161** pull requests currently under way :detective:
+There are **160** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -182,17 +182,16 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21531](https://github.com/conan-io/conan-center-index/pull/21531)|[igormironchik](https://github.com/igormironchik)|Dec 1|:stopwatch: md4qt|:green_circle: XS|0|||
 [#21532](https://github.com/conan-io/conan-center-index/pull/21532)|[valgur](https://github.com/valgur)|Dec 1|:stopwatch: ios-cmake|L|0|||
 [#21533](https://github.com/conan-io/conan-center-index/pull/21533)|[bruchar1](https://github.com/bruchar1)|Dec 1|:stopwatch: pkgconf|:blue_square: S|0|||
-[#21534](https://github.com/conan-io/conan-center-index/pull/21534)|[toge](https://github.com/toge)|Dec 1|:stopwatch: cppserver|L|0|||
 [#21535](https://github.com/conan-io/conan-center-index/pull/21535)|[jwillikers](https://github.com/jwillikers)|Dec 1|:stopwatch: glib|M|1|Dec 1||ericLemanissier
 [#21537](https://github.com/conan-io/conan-center-index/pull/21537)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: re2|:green_circle: XS|0|||
 [#21544](https://github.com/conan-io/conan-center-index/pull/21544)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:memo: onetbb|:green_circle: XS|0|||
 [#21545](https://github.com/conan-io/conan-center-index/pull/21545)|[mayeut](https://github.com/mayeut)|Dec 1|:stopwatch: libjpeg-turbo|:green_circle: XS|0|||
-[#21546](https://github.com/conan-io/conan-center-index/pull/21546)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:gear: .c3i|:green_circle: XS|1|Dec 1||**memsharded**
+[#21548](https://github.com/conan-io/conan-center-index/pull/21548)|[toge](https://github.com/toge)|Dec 2|:stopwatch: glaze|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **20** pull requests are waiting to be merged :tada:
+Currently **21** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -217,6 +216,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#21518](https://github.com/conan-io/conan-center-index/pull/21518)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: mio|2|**RubenRBS**, toge
 [#21520](https://github.com/conan-io/conan-center-index/pull/21520)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: modern-cpp-kafka|2|**RubenRBS**, toge
 [#21529](https://github.com/conan-io/conan-center-index/pull/21529)|[toge](https://github.com/toge)|Dec 1|:warning: strong_type|2|**RubenRBS**, ericLemanissier
+[#21546](https://github.com/conan-io/conan-center-index/pull/21546)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:gear: .c3i|2|**memsharded**, **uilianries**
 
 
 #### :clipboard: Statistics
@@ -227,7 +227,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 521
 	- Draft: 54
-	- Average Age: 99 days, 18 hours, and 58.37 minutes
+	- Average Age: 99 days, 21 hours, and 5.62 minutes
 	- Stop Label: 251
 	
 
