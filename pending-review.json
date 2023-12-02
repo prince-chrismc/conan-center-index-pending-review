@@ -4592,39 +4592,6 @@
       }
    },
    {
-      "Number": 21546,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-12-01T21:34:25Z",
-      "Recipe": ".c3i",
-      "Change": 3,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21546",
-      "LastCommitSHA": "a0cd11bb2e52c128f14b55591069a425a5653f57",
-      "LastCommitAt": "2023-12-01T21:34:03Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "memsharded",
-               "Tier": "team"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-12-02T11:27:26Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21546#pullrequestreview-1760859656"
-         }
-      }
-   },
-   {
       "Number": 21548,
       "OpenedBy": "toge",
       "CreatedAt": "2023-12-02T11:33:44Z",
