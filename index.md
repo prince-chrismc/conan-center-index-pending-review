@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **157** pull requests currently under way :detective:
+There are **156** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -177,7 +177,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21525](https://github.com/conan-io/conan-center-index/pull/21525)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:stopwatch: log4cpp|M|0|||
 [#21527](https://github.com/conan-io/conan-center-index/pull/21527)|[toge](https://github.com/toge)|Dec 1|:stopwatch: xsimd|:green_circle: XS|0|||
 [#21528](https://github.com/conan-io/conan-center-index/pull/21528)|[toge](https://github.com/toge)|Dec 1|:stopwatch: simdjson|:green_circle: XS|0|||
-[#21530](https://github.com/conan-io/conan-center-index/pull/21530)|[toge](https://github.com/toge)|Dec 1|:stopwatch: c-ares|:green_circle: XS|0|||
 [#21531](https://github.com/conan-io/conan-center-index/pull/21531)|[igormironchik](https://github.com/igormironchik)|Dec 1|:stopwatch: md4qt|:green_circle: XS|0|||
 [#21532](https://github.com/conan-io/conan-center-index/pull/21532)|[valgur](https://github.com/valgur)|Dec 1|:stopwatch: ios-cmake|L|0|||
 [#21533](https://github.com/conan-io/conan-center-index/pull/21533)|[bruchar1](https://github.com/bruchar1)|Dec 1|:memo: pkgconf|:blue_square: S|0|||
@@ -188,7 +187,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **12** pull requests are waiting to be merged :tada:
+Currently **10** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -198,8 +197,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#21503](https://github.com/conan-io/conan-center-index/pull/21503)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: khrplatform|2|**RubenRBS**, ericLemanissier
-[#21504](https://github.com/conan-io/conan-center-index/pull/21504)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: linmath.h|2|**RubenRBS**, **franramirez688**
 [#21515](https://github.com/conan-io/conan-center-index/pull/21515)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: metall|2|**RubenRBS**, **franramirez688**
 [#21517](https://github.com/conan-io/conan-center-index/pull/21517)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: mikelankamp-fpm|2|**RubenRBS**, ericLemanissier
 [#21518](https://github.com/conan-io/conan-center-index/pull/21518)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: mio|2|**RubenRBS**, toge
@@ -213,10 +210,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 505
+	- Open: 502
 	- Draft: 53
-	- Average Age: 102 days, 11 hours, and 25.26 minutes
-	- Stop Label: 252
+	- Average Age: 103 days, 2 hours, and 43.82 minutes
+	- Stop Label: 253
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
