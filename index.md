@@ -178,7 +178,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21528](https://github.com/conan-io/conan-center-index/pull/21528)|[toge](https://github.com/toge)|Dec 1|:stopwatch: simdjson|:green_circle: XS|0|||
 [#21531](https://github.com/conan-io/conan-center-index/pull/21531)|[igormironchik](https://github.com/igormironchik)|Dec 1|:stopwatch: md4qt|:green_circle: XS|0|||
 [#21532](https://github.com/conan-io/conan-center-index/pull/21532)|[valgur](https://github.com/valgur)|Dec 1|:stopwatch: ios-cmake|L|0|||
-[#21533](https://github.com/conan-io/conan-center-index/pull/21533)|[bruchar1](https://github.com/bruchar1)|Dec 1|:memo: pkgconf|:blue_square: S|0|||
+[#21533](https://github.com/conan-io/conan-center-index/pull/21533)|[bruchar1](https://github.com/bruchar1)|Dec 1|:memo: pkgconf|:blue_square: S|1|Dec 2||ericLemanissier
 [#21537](https://github.com/conan-io/conan-center-index/pull/21537)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: re2|:green_circle: XS|0|||
 [#21544](https://github.com/conan-io/conan-center-index/pull/21544)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:memo: onetbb|:green_circle: XS|0|||
 [#21545](https://github.com/conan-io/conan-center-index/pull/21545)|[mayeut](https://github.com/mayeut)|Dec 1|:memo: libjpeg-turbo|:green_circle: XS|0|||
@@ -196,7 +196,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#21515](https://github.com/conan-io/conan-center-index/pull/21515)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: metall|2|**RubenRBS**, **franramirez688**
+[#21515](https://github.com/conan-io/conan-center-index/pull/21515)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: metall|2|**RubenRBS**, **franramirez688**
 [#21518](https://github.com/conan-io/conan-center-index/pull/21518)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:warning: mio|2|**RubenRBS**, toge
 [#21529](https://github.com/conan-io/conan-center-index/pull/21529)|[toge](https://github.com/toge)|Dec 1|:warning: strong_type|2|**RubenRBS**, ericLemanissier
 
@@ -207,10 +207,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 499
+	- Open: 498
 	- Draft: 53
-	- Average Age: 103 days, 18 hours, and 25.71 minutes
-	- Stop Label: 254
+	- Average Age: 104 days, and 16.49 minutes
+	- Stop Label: 253
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
