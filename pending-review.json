@@ -4573,25 +4573,6 @@
       }
    },
    {
-      "Number": 21540,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-12-01T20:30:12Z",
-      "Recipe": "libtiff",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21540",
-      "LastCommitSHA": "15bc0653ea3d34c45c7929a840601b68e01bf4d2",
-      "LastCommitAt": "2023-12-01T20:20:45Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21544,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-12-01T20:30:46Z",
