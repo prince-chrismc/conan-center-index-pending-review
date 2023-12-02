@@ -4535,25 +4535,6 @@
       }
    },
    {
-      "Number": 21536,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-12-01T20:28:32Z",
-      "Recipe": "thrift",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21536",
-      "LastCommitSHA": "a27106d6b5f15bb59e33cdbb2c6991992335f952",
-      "LastCommitAt": "2023-12-01T20:25:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21537,
       "OpenedBy": "RubenRBS",
       "CreatedAt": "2023-12-01T20:29:27Z",
@@ -4620,25 +4601,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21541",
       "LastCommitSHA": "f0655a1591992ebe6c47a7f29902fde99b1ba21c",
       "LastCommitAt": "2023-12-01T20:21:23Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21542,
-      "OpenedBy": "RubenRBS",
-      "CreatedAt": "2023-12-01T20:30:26Z",
-      "Recipe": "libwebsockets",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21542",
-      "LastCommitSHA": "5b80027be19cf56ae99323f555266ea2b99f09b0",
-      "LastCommitAt": "2023-12-01T20:22:35Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
