@@ -4590,24 +4590,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 21548,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-02T11:33:44Z",
-      "Recipe": "glaze",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21548",
-      "LastCommitSHA": "6b94e52223ceb3134132bee4fedf86ad400326d1",
-      "LastCommitAt": "2023-12-02T11:32:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
