@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **166** pull requests currently under way :detective:
+There are **164** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -183,12 +183,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21533](https://github.com/conan-io/conan-center-index/pull/21533)|[bruchar1](https://github.com/bruchar1)|Dec 1|:stopwatch: pkgconf|:blue_square: S|0|||
 [#21534](https://github.com/conan-io/conan-center-index/pull/21534)|[toge](https://github.com/toge)|Dec 1|:stopwatch: cppserver|L|0|||
 [#21535](https://github.com/conan-io/conan-center-index/pull/21535)|[jwillikers](https://github.com/jwillikers)|Dec 1|:stopwatch: glib|M|1|Dec 1||ericLemanissier
-[#21536](https://github.com/conan-io/conan-center-index/pull/21536)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: thrift|:green_circle: XS|0|||
 [#21537](https://github.com/conan-io/conan-center-index/pull/21537)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: re2|:green_circle: XS|0|||
 [#21538](https://github.com/conan-io/conan-center-index/pull/21538)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: glog|:green_circle: XS|0|||
 [#21540](https://github.com/conan-io/conan-center-index/pull/21540)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: libtiff|:green_circle: XS|0|||
 [#21541](https://github.com/conan-io/conan-center-index/pull/21541)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: libunwind|:green_circle: XS|0|||
-[#21542](https://github.com/conan-io/conan-center-index/pull/21542)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: libwebsockets|:green_circle: XS|0|||
 [#21543](https://github.com/conan-io/conan-center-index/pull/21543)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: libzip|:green_circle: XS|0|||
 [#21544](https://github.com/conan-io/conan-center-index/pull/21544)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: onetbb|:green_circle: XS|0|||
 [#21545](https://github.com/conan-io/conan-center-index/pull/21545)|[mayeut](https://github.com/mayeut)|Dec 1|:stopwatch: libjpeg-turbo|:green_circle: XS|0|||
@@ -232,8 +230,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 521
 	- Draft: 54
-	- Average Age: 99 days, 7 hours, and 59.22 minutes
-	- Stop Label: 251
+	- Average Age: 99 days, 10 hours, and 36.77 minutes
+	- Stop Label: 252
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
