@@ -3941,20 +3941,24 @@
       "LastCommitAt": "2023-12-01T20:24:17Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
+         "Count": 2,
          "ValidApprovals": 0,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "sandye51",
                "Tier": "unofficial"
+            },
+            {
+               "Name": "ilya-lavrenov",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "sandye51",
-            "SubmittedAt": "2023-12-02T22:15:23Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21544#pullrequestreview-1760979761"
+            "ReviewerName": "ilya-lavrenov",
+            "SubmittedAt": "2023-12-03T08:02:33Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21544#pullrequestreview-1761152807"
          }
       }
    },
