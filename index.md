@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **151** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -158,13 +158,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21333](https://github.com/conan-io/conan-center-index/pull/21333)|[toge](https://github.com/toge)|Nov 23|:memo: duckdb|M|0|:eyes:||
 [#21341](https://github.com/conan-io/conan-center-index/pull/21341)|[valgur](https://github.com/valgur)|Nov 23|:new: libecwj2|XL|0|:eyes:||
 [#21342](https://github.com/conan-io/conan-center-index/pull/21342)|[toge](https://github.com/toge)|Nov 24|:memo: coost|:blue_square: S|0|:eyes:||
-[#21353](https://github.com/conan-io/conan-center-index/pull/21353)|[gmeeker](https://github.com/gmeeker)|Nov 24|:stopwatch: wxwidgets|L|0|||
+[#21353](https://github.com/conan-io/conan-center-index/pull/21353)|[gmeeker](https://github.com/gmeeker)|Nov 24|:new: wxwidgets|L|0|||
 [#21410](https://github.com/conan-io/conan-center-index/pull/21410)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: bitsery|:blue_square: S|0|:eyes:||
 [#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:memo: vulkan-memory-allocator|M|0|:eyes:||
 [#21436](https://github.com/conan-io/conan-center-index/pull/21436)|[temap](https://github.com/temap)|Nov 28|:new: lksctp-tools|M|1|Nov 28||
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|0|:eyes:||
 [#21450](https://github.com/conan-io/conan-center-index/pull/21450)|[toge](https://github.com/toge)|Nov 28|:memo: trantor|M|1|Nov 28||
-[#21480](https://github.com/conan-io/conan-center-index/pull/21480)|[Zugzwanger](https://github.com/Zugzwanger)|Nov 29|:memo: re2c|:blue_square: S|0|||
+[#21480](https://github.com/conan-io/conan-center-index/pull/21480)|[Zugzwanger](https://github.com/Zugzwanger)|Nov 29|:memo: re2c|:blue_square: S|0|:eyes:||
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|:eyes:||
 [#21498](https://github.com/conan-io/conan-center-index/pull/21498)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: json_dto|L|1|Nov 30||**RubenRBS**
 [#21505](https://github.com/conan-io/conan-center-index/pull/21505)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: lyra|M|0|||
@@ -178,6 +178,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21537](https://github.com/conan-io/conan-center-index/pull/21537)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:stopwatch: re2|:green_circle: XS|0|||
 [#21544](https://github.com/conan-io/conan-center-index/pull/21544)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:memo: onetbb|:green_circle: XS|2|Dec 3||[sandye51](https://github.com/sandye51), [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#21545](https://github.com/conan-io/conan-center-index/pull/21545)|[mayeut](https://github.com/mayeut)|Dec 1|:memo: libjpeg-turbo|:green_circle: XS|0|||
+[#21549](https://github.com/conan-io/conan-center-index/pull/21549)|[toge](https://github.com/toge)|Dec 3|:stopwatch: glaze|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -201,9 +202,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 494
+	- Open: 495
 	- Draft: 53
-	- Average Age: 105 days, 7 hours, and 11.41 minutes
+	- Average Age: 105 days, 5 hours, and 0.16 minutes
 	- Stop Label: 254
 	
 
