@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **166** pull requests currently under way :detective:
+There are **167** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -46,7 +46,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|6|Aug 11 :bell:||MartinDelille, [valgur](https://github.com/valgur)
 [#18628](https://github.com/conan-io/conan-center-index/pull/18628)|[valgur](https://github.com/valgur)|Jul 18|:memo: giflib|L|1|Oct 31 :bell:||jwillikers
 [#18636](https://github.com/conan-io/conan-center-index/pull/18636)|[valgur](https://github.com/valgur)|Jul 19|:memo: asn1c|L|1|Nov 9 :bell:||jwillikers
-[#18643](https://github.com/conan-io/conan-center-index/pull/18643)|[valgur](https://github.com/valgur)|Jul 19|:stopwatch: pexports|L|2|Nov 30||
+[#18643](https://github.com/conan-io/conan-center-index/pull/18643)|[valgur](https://github.com/valgur)|Jul 19|:memo: pexports|L|2|Nov 30||
 [#18654](https://github.com/conan-io/conan-center-index/pull/18654)|[valgur](https://github.com/valgur)|Jul 19|:memo: directshowbaseclasses|L|1|Nov 9 :bell:||jwillikers
 [#18657](https://github.com/conan-io/conan-center-index/pull/18657)|[valgur](https://github.com/valgur)|Jul 19|:memo: huffman|L|1|Nov 9 :bell:||jwillikers
 [#18681](https://github.com/conan-io/conan-center-index/pull/18681)|[valgur](https://github.com/valgur)|Jul 19|:memo: libelfin|L|1|Nov 9 :bell:||jwillikers
@@ -175,7 +175,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21533](https://github.com/conan-io/conan-center-index/pull/21533)|[bruchar1](https://github.com/bruchar1)|Dec 1|:memo: pkgconf|:blue_square: S|1|Dec 2||ericLemanissier
 [#21544](https://github.com/conan-io/conan-center-index/pull/21544)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:memo: onetbb|:green_circle: XS|2|Dec 3||[sandye51](https://github.com/sandye51), [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#21545](https://github.com/conan-io/conan-center-index/pull/21545)|[mayeut](https://github.com/mayeut)|Dec 1|:memo: libjpeg-turbo|:green_circle: XS|1|Dec 3||toge
-[#21553](https://github.com/conan-io/conan-center-index/pull/21553)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: harfbuzz|:green_circle: XS|1|Dec 3||**RubenRBS**
 [#21554](https://github.com/conan-io/conan-center-index/pull/21554)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: cmake|M|1|Dec 3||**RubenRBS**
 [#21556](https://github.com/conan-io/conan-center-index/pull/21556)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: very-simple-smtps|:blue_square: S|0|||
 [#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: libcurl|L|0|||
@@ -193,6 +192,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21570](https://github.com/conan-io/conan-center-index/pull/21570)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: libucl|:green_circle: XS|0|||
 [#21572](https://github.com/conan-io/conan-center-index/pull/21572)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
 [#21573](https://github.com/conan-io/conan-center-index/pull/21573)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: sentry-native|:green_circle: XS|0|||
+[#21574](https://github.com/conan-io/conan-center-index/pull/21574)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Dec 3|:stopwatch: cpptrace|:blue_square: S|0|||
+[#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:stopwatch: logr|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -215,9 +216,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 509
+	- Open: 510
 	- Draft: 53
-	- Average Age: 102 days, 7 hours, and 46.35 minutes
+	- Average Age: 102 days, 3 hours, and 51.74 minutes
 	- Stop Label: 256
 	
 
