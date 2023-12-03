@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **167** pull requests currently under way :detective:
+There are **166** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -177,14 +177,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21545](https://github.com/conan-io/conan-center-index/pull/21545)|[mayeut](https://github.com/mayeut)|Dec 1|:memo: libjpeg-turbo|:green_circle: XS|1|Dec 3||toge
 [#21554](https://github.com/conan-io/conan-center-index/pull/21554)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: cmake|M|1|Dec 3||**RubenRBS**
 [#21556](https://github.com/conan-io/conan-center-index/pull/21556)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: very-simple-smtps|:blue_square: S|0|||
-[#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: libcurl|L|0|||
-[#21559](https://github.com/conan-io/conan-center-index/pull/21559)|[toge](https://github.com/toge)|Dec 3|:stopwatch: skyr-url|:green_circle: XS|0|||
+[#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: libcurl|L|0|||
 [#21561](https://github.com/conan-io/conan-center-index/pull/21561)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: exiv2|:green_circle: XS|0|||
 [#21562](https://github.com/conan-io/conan-center-index/pull/21562)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: cpr|:green_circle: XS|0|||
 [#21563](https://github.com/conan-io/conan-center-index/pull/21563)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: ulfius|:green_circle: XS|0|||
 [#21564](https://github.com/conan-io/conan-center-index/pull/21564)|[toge](https://github.com/toge)|Dec 3|:stopwatch: jsonnet|:green_circle: XS|0|||
 [#21565](https://github.com/conan-io/conan-center-index/pull/21565)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: libbigwig|:green_circle: XS|0|||
-[#21566](https://github.com/conan-io/conan-center-index/pull/21566)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: cocoyaxi|:green_circle: XS|0|||
+[#21566](https://github.com/conan-io/conan-center-index/pull/21566)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: cocoyaxi|:green_circle: XS|0|||
 [#21567](https://github.com/conan-io/conan-center-index/pull/21567)|[toge](https://github.com/toge)|Dec 3|:stopwatch: tinygltf|:green_circle: XS|0|||
 [#21568](https://github.com/conan-io/conan-center-index/pull/21568)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: coost|:green_circle: XS|0|||
 [#21569](https://github.com/conan-io/conan-center-index/pull/21569)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: tixi3|:green_circle: XS|0|||
@@ -192,7 +191,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21572](https://github.com/conan-io/conan-center-index/pull/21572)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: sentry-crashpad|:green_circle: XS|0|||
 [#21573](https://github.com/conan-io/conan-center-index/pull/21573)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: sentry-native|:green_circle: XS|0|||
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:stopwatch: logr|M|0|||
-[#21576](https://github.com/conan-io/conan-center-index/pull/21576)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:stopwatch: mpark-variant|:green_circle: XS|0|||
+[#21576](https://github.com/conan-io/conan-center-index/pull/21576)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: mpark-variant|:green_circle: XS|0|||
 [#21577](https://github.com/conan-io/conan-center-index/pull/21577)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:stopwatch: mpmcqueue|:blue_square: S|0|||
 
 
@@ -216,9 +215,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 512
+	- Open: 511
 	- Draft: 53
-	- Average Age: 101 days, 19 hours, and 19.39 minutes
+	- Average Age: 102 days, 1 hours, and 3.66 minutes
 	- Stop Label: 257
 	
 
