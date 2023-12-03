@@ -505,7 +505,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18643",
       "LastCommitSHA": "e1c346a01a8edef303abe6d8f0dd6c9b08b451bb",
       "LastCommitAt": "2023-11-30T11:31:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 0,
@@ -3880,35 +3880,6 @@
       }
    },
    {
-      "Number": 21553,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-12-03T12:45:45Z",
-      "Recipe": "harfbuzz",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21553",
-      "LastCommitSHA": "aae39182bc4cd07163da29881d38c11cf621d7b0",
-      "LastCommitAt": "2023-12-03T13:08:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-12-03T14:52:36Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21553#pullrequestreview-1761265137"
-         }
-      }
-   },
-   {
       "Number": 21554,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-12-03T13:10:04Z",
@@ -4232,6 +4203,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21573",
       "LastCommitSHA": "60fe8816f53d44fda121f18eb3b89c1e38ef7aa9",
       "LastCommitAt": "2023-12-03T16:53:14Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21574,
+      "OpenedBy": "jeremy-rifkin",
+      "CreatedAt": "2023-12-03T18:43:05Z",
+      "Recipe": "cpptrace",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21574",
+      "LastCommitSHA": "58ea101662efe142362d42e364b279e3fa0c19ed",
+      "LastCommitAt": "2023-12-03T18:42:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21575,
+      "OpenedBy": "ngrodzitski",
+      "CreatedAt": "2023-12-03T19:07:24Z",
+      "Recipe": "logr",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21575",
+      "LastCommitSHA": "58ca9916f2c6dff6572938a0a02260c005135459",
+      "LastCommitAt": "2023-12-03T19:05:59Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
