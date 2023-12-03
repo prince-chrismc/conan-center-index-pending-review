@@ -607,6 +607,25 @@
       }
    },
    {
+      "Number": 18745,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-20T16:00:46Z",
+      "Recipe": "waf",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18745",
+      "LastCommitSHA": "0f8bdb1d2f48b365bffca98f4acc03d9ea715017",
+      "LastCommitAt": "2023-12-03T17:35:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18759,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T17:44:40Z",
@@ -4004,25 +4023,6 @@
       }
    },
    {
-      "Number": 21564,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-03T16:25:55Z",
-      "Recipe": "jsonnet",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21564",
-      "LastCommitSHA": "62d9e9327473a446c3072892ac4e3c5c23f98bcd",
-      "LastCommitAt": "2023-12-03T16:25:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21565,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-12-03T16:30:05Z",
@@ -4089,7 +4089,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21568",
       "LastCommitSHA": "b3b7f6f86ec188c243ae8b5610f3613ec2961635",
       "LastCommitAt": "2023-12-03T16:37:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4108,7 +4108,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21569",
       "LastCommitSHA": "4bc987a6896c81eb073af32abca0f53d5de64aca",
       "LastCommitAt": "2023-12-03T16:40:35Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4222,7 +4222,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21577",
       "LastCommitSHA": "e7c92dbd575f74af3d464bade87cd2774db1be03",
       "LastCommitAt": "2023-12-03T19:36:11Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
