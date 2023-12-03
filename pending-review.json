@@ -3918,5 +3918,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21553,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-12-03T12:45:45Z",
+      "Recipe": "harfbuzz",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21553",
+      "LastCommitSHA": "aae39182bc4cd07163da29881d38c11cf621d7b0",
+      "LastCommitAt": "2023-12-03T13:08:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21554,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-12-03T13:10:04Z",
+      "Recipe": "cmake",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21554",
+      "LastCommitSHA": "f7e80f0641f34a7e941234fa544726a3ec77d94e",
+      "LastCommitAt": "2023-12-03T13:05:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
