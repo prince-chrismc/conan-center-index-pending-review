@@ -3975,7 +3975,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21561",
       "LastCommitSHA": "3c22512fed4c7f7f836124f866812e6affc97e2d",
       "LastCommitAt": "2023-12-03T16:16:58Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3994,7 +3994,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21562",
       "LastCommitSHA": "d95a09677f29c8dea3f2d90f4fa9a92b97448ccb",
       "LastCommitAt": "2023-12-03T16:21:25Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4013,7 +4013,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21563",
       "LastCommitSHA": "f7bbaffbc91d94b3640e57e39b4535e27566d140",
       "LastCommitAt": "2023-12-03T16:24:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4032,7 +4032,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21565",
       "LastCommitSHA": "ec0fd63d41aa7d571dbbd80b42757d1716e419ff",
       "LastCommitAt": "2023-12-03T16:29:28Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4146,7 +4146,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21572",
       "LastCommitSHA": "1efac6f5e0e659018ddb6d48ad5d38fd53fe7507",
       "LastCommitAt": "2023-12-03T16:49:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4223,6 +4223,25 @@
       "LastCommitSHA": "e7c92dbd575f74af3d464bade87cd2774db1be03",
       "LastCommitAt": "2023-12-03T19:36:11Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21578,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2023-12-03T22:39:11Z",
+      "Recipe": "minizip-ng",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21578",
+      "LastCommitSHA": "1bace572f97b6bc4941520d304069cf4efed1f9c",
+      "LastCommitAt": "2023-12-03T21:41:27Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
