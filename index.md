@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **150** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -177,6 +177,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21544](https://github.com/conan-io/conan-center-index/pull/21544)|[RubenRBS](https://github.com/RubenRBS)|Dec 1|:memo: onetbb|:green_circle: XS|2|Dec 3||[sandye51](https://github.com/sandye51), [ilya-lavrenov](https://github.com/ilya-lavrenov)
 [#21545](https://github.com/conan-io/conan-center-index/pull/21545)|[mayeut](https://github.com/mayeut)|Dec 1|:memo: libjpeg-turbo|:green_circle: XS|1|Dec 3||toge
 [#21552](https://github.com/conan-io/conan-center-index/pull/21552)|[toge](https://github.com/toge)|Dec 3|:stopwatch: c-blosc2|:green_circle: XS|0|||
+[#21553](https://github.com/conan-io/conan-center-index/pull/21553)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: harfbuzz|:green_circle: XS|0|||
+[#21554](https://github.com/conan-io/conan-center-index/pull/21554)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: cmake|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -199,9 +201,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: a43a270a65e78f64aa059bb4c3d60e8038962306
 - Pull Requests:
-	- Open: 495
+	- Open: 494
 	- Draft: 53
-	- Average Age: 105 days, 5 hours, and 48.62 minutes
+	- Average Age: 105 days, 11 hours, and 46.41 minutes
 	- Stop Label: 254
 	
 
