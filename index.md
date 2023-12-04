@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -169,6 +169,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21450](https://github.com/conan-io/conan-center-index/pull/21450)|[toge](https://github.com/toge)|Nov 28|:memo: trantor|M|1|Nov 28||
 [#21480](https://github.com/conan-io/conan-center-index/pull/21480)|[Zugzwanger](https://github.com/Zugzwanger)|Nov 29|:memo: re2c|:blue_square: S|0|:eyes:||
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|:eyes:||
+[#21493](https://github.com/conan-io/conan-center-index/pull/21493)|[ericLemanissier](https://github.com/ericLemanissier)|Nov 30|:memo: cpr|L|0|:eyes:||
 [#21505](https://github.com/conan-io/conan-center-index/pull/21505)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: lyra|M|0|:eyes:||
 [#21506](https://github.com/conan-io/conan-center-index/pull/21506)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: mapbox-geometry|:blue_square: S|0|:eyes:||
 [#21507](https://github.com/conan-io/conan-center-index/pull/21507)|[SpaceIm](https://github.com/SpaceIm)|Nov 30|:memo: mapbox-variant|:blue_square: S|0|:eyes:||
@@ -219,8 +220,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 510
 	- Draft: 53
-	- Average Age: 102 days, 9 hours, and 33.29 minutes
-	- Stop Label: 255
+	- Average Age: 102 days, 10 hours, and 38.86 minutes
+	- Stop Label: 254
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
