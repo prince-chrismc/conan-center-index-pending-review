@@ -3839,8 +3839,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21531",
-      "LastCommitSHA": "819ec32abab6c192af8d7bcb060ed6b191e3248e",
-      "LastCommitAt": "2023-12-01T10:31:12Z",
+      "LastCommitSHA": "2e5e12f984a6a1f92ac427703dc22bd9f26688ee",
+      "LastCommitAt": "2023-12-04T05:58:38Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4285,6 +4285,25 @@
       "LastCommitSHA": "e7c92dbd575f74af3d464bade87cd2774db1be03",
       "LastCommitAt": "2023-12-03T19:36:11Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21579,
+      "OpenedBy": "irieger",
+      "CreatedAt": "2023-12-04T05:46:46Z",
+      "Recipe": "ffmpeg",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21579",
+      "LastCommitSHA": "fdf9c71b11e76a87553477f3fe2e159aea108681",
+      "LastCommitAt": "2023-12-04T05:45:28Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
