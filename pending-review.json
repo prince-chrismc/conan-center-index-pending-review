@@ -3737,6 +3737,25 @@
       }
    },
    {
+      "Number": 21493,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-11-30T10:06:10Z",
+      "Recipe": "cpr",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21493",
+      "LastCommitSHA": "f67faaba93d3e29bb6443d797291a1f010d75699",
+      "LastCommitAt": "2023-11-30T10:27:17Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21505,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-11-30T12:07:07Z",
