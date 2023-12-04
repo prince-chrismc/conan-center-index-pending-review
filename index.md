@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **143** pull requests currently under way :detective:
+There are **140** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -164,17 +164,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|1|Dec 4||jwillikers
 [#21450](https://github.com/conan-io/conan-center-index/pull/21450)|[toge](https://github.com/toge)|Nov 28|:memo: trantor|M|1|Nov 28||
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|:eyes:||
-[#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: libcurl|L|0|||
-[#21573](https://github.com/conan-io/conan-center-index/pull/21573)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: sentry-native|:green_circle: XS|1|Dec 4||**RubenRBS**
+[#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: libcurl|L|0|||
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:stopwatch: logr|M|0|||
 [#21582](https://github.com/conan-io/conan-center-index/pull/21582)|[valgur](https://github.com/valgur)|Dec 4|:stopwatch: libmysqlclient|:green_circle: XS|0|||
-[#21586](https://github.com/conan-io/conan-center-index/pull/21586)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 4|:stopwatch: proj|:green_circle: XS|0|:eyes:||
-[#21589](https://github.com/conan-io/conan-center-index/pull/21589)|[toge](https://github.com/toge)|Dec 4|:memo: libserial|:green_circle: XS|1|Dec 4||**RubenRBS**
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **14** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -184,17 +181,15 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20071](https://github.com/conan-io/conan-center-index/pull/20071)|[SpaceIm](https://github.com/SpaceIm)|Sep 21|:warning: gstreamer|4|jwillikers, **franramirez688**, [valgur](https://github.com/valgur)
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#21556](https://github.com/conan-io/conan-center-index/pull/21556)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: very-simple-smtps|2|**uilianries**, ericLemanissier
-[#21561](https://github.com/conan-io/conan-center-index/pull/21561)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: exiv2|2|**RubenRBS**, **juansblanco**
-[#21562](https://github.com/conan-io/conan-center-index/pull/21562)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: cpr|2|**RubenRBS**, **juansblanco**
-[#21563](https://github.com/conan-io/conan-center-index/pull/21563)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: ulfius|2|**RubenRBS**, **juansblanco**
-[#21565](https://github.com/conan-io/conan-center-index/pull/21565)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: libbigwig|2|**RubenRBS**, **juansblanco**
+[#21562](https://github.com/conan-io/conan-center-index/pull/21562)|[mayeut](https://github.com/mayeut)|Dec 3|:warning: cpr|2|**RubenRBS**, **juansblanco**
 [#21567](https://github.com/conan-io/conan-center-index/pull/21567)|[toge](https://github.com/toge)|Dec 3|:warning: tinygltf|2|**uilianries**, ericLemanissier
 [#21568](https://github.com/conan-io/conan-center-index/pull/21568)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: coost|2|**uilianries**, ericLemanissier
 [#21569](https://github.com/conan-io/conan-center-index/pull/21569)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: tixi3|2|**uilianries**, **RubenRBS**
 [#21572](https://github.com/conan-io/conan-center-index/pull/21572)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: sentry-crashpad|2|**RubenRBS**, **juansblanco**
+[#21573](https://github.com/conan-io/conan-center-index/pull/21573)|[mayeut](https://github.com/mayeut)|Dec 3|:warning: sentry-native|2|**RubenRBS**, ericLemanissier
 [#21576](https://github.com/conan-io/conan-center-index/pull/21576)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: mpark-variant|3|**RubenRBS**, ericLemanissier, **uilianries**
 [#21577](https://github.com/conan-io/conan-center-index/pull/21577)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: mpmcqueue|3|**RubenRBS**, ericLemanissier, **uilianries**
+[#21589](https://github.com/conan-io/conan-center-index/pull/21589)|[toge](https://github.com/toge)|Dec 4|:memo: libserial|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -203,10 +198,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: fe41577bc16a2d14100f4c37054068b36c138182
 - Pull Requests:
-	- Open: 506
+	- Open: 503
 	- Draft: 53
-	- Average Age: 103 days, 15 hours, and 1.26 minutes
-	- Stop Label: 260
+	- Average Age: 104 days, 6 hours, and 38.94 minutes
+	- Stop Label: 261
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
