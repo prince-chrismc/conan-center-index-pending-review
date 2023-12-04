@@ -192,7 +192,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21570](https://github.com/conan-io/conan-center-index/pull/21570)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: libucl|:green_circle: XS|0|||
 [#21572](https://github.com/conan-io/conan-center-index/pull/21572)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: sentry-crashpad|:green_circle: XS|0|||
 [#21573](https://github.com/conan-io/conan-center-index/pull/21573)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: sentry-native|:green_circle: XS|0|||
-[#21574](https://github.com/conan-io/conan-center-index/pull/21574)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Dec 3|:memo: cpptrace|:blue_square: S|0|||
+[#21574](https://github.com/conan-io/conan-center-index/pull/21574)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Dec 3|:stopwatch: cpptrace|:blue_square: S|0|||
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:stopwatch: logr|M|0|||
 [#21576](https://github.com/conan-io/conan-center-index/pull/21576)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: mpark-variant|:green_circle: XS|0|||
 [#21577](https://github.com/conan-io/conan-center-index/pull/21577)|[SpaceIm](https://github.com/SpaceIm)|Dec 3|:memo: mpmcqueue|:blue_square: S|0|||
@@ -220,7 +220,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 510
 	- Draft: 53
-	- Average Age: 102 days, 10 hours, and 38.86 minutes
+	- Average Age: 102 days, 11 hours, and 54.49 minutes
 	- Stop Label: 254
 	
 
