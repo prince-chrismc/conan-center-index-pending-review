@@ -2449,9 +2449,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20611",
-      "LastCommitSHA": "e2b3b189045a4c67b1251d0a2f70fd3a4c4387bc",
-      "LastCommitAt": "2023-12-01T13:42:08Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "d8ce9ebf6aa58a6e997d51c444606537192780e6",
+      "LastCommitAt": "2023-12-04T22:10:42Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 7,
          "ValidApprovals": 0,
@@ -3030,8 +3030,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21165",
-      "LastCommitSHA": "e47b31ae221927381468de071d3d9dcd9932882a",
-      "LastCommitAt": "2023-12-04T08:26:32Z",
+      "LastCommitSHA": "9ef33ebf7fa02a3e8fcbe284711a7b3943f6c242",
+      "LastCommitAt": "2023-12-04T22:10:02Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 1,
@@ -3679,8 +3679,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21562",
-      "LastCommitSHA": "d95a09677f29c8dea3f2d90f4fa9a92b97448ccb",
-      "LastCommitAt": "2023-12-03T16:21:25Z",
+      "LastCommitSHA": "95126a86f219c5e8d8ad78ad1816b051df19cd32",
+      "LastCommitAt": "2023-12-04T21:17:54Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 2,
@@ -3738,105 +3738,6 @@
       }
    },
    {
-      "Number": 21568,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-12-03T16:37:40Z",
-      "Recipe": "coost",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21568",
-      "LastCommitSHA": "b3b7f6f86ec188c243ae8b5610f3613ec2961635",
-      "LastCommitAt": "2023-12-03T16:37:02Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-12-04T15:54:02Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21568#pullrequestreview-1762790439"
-         }
-      }
-   },
-   {
-      "Number": 21569,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-12-03T16:41:12Z",
-      "Recipe": "tixi3",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21569",
-      "LastCommitSHA": "4bc987a6896c81eb073af32abca0f53d5de64aca",
-      "LastCommitAt": "2023-12-03T16:40:35Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-12-04T15:48:34Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21569#pullrequestreview-1762775756"
-         }
-      }
-   },
-   {
-      "Number": 21572,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-12-03T16:50:20Z",
-      "Recipe": "sentry-crashpad",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21572",
-      "LastCommitSHA": "1efac6f5e0e659018ddb6d48ad5d38fd53fe7507",
-      "LastCommitAt": "2023-12-03T16:49:48Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "juansblanco",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "juansblanco",
-            "SubmittedAt": "2023-12-04T17:34:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21572#pullrequestreview-1763020190"
-         }
-      }
-   },
-   {
       "Number": 21573,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-12-03T16:53:53Z",
@@ -3889,43 +3790,6 @@
       }
    },
    {
-      "Number": 21576,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-12-03T19:32:55Z",
-      "Recipe": "mpark-variant",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21576",
-      "LastCommitSHA": "8f9c28534faeb7443aef3ea380c82ad734afcdbe",
-      "LastCommitAt": "2023-12-03T19:32:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 3,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-12-04T12:54:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21576#pullrequestreview-1762334165"
-         }
-      }
-   },
-   {
       "Number": 21577,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-12-03T19:36:50Z",
@@ -3970,8 +3834,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21582",
-      "LastCommitSHA": "533f4127e7eedbeff45d5ec3762b95bc3263caec",
-      "LastCommitAt": "2023-12-04T08:07:18Z",
+      "LastCommitSHA": "80948464882daeacaf9d5b3e199325d939bb76cb",
+      "LastCommitAt": "2023-12-04T22:09:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
