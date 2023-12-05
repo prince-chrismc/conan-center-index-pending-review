@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **139** pull requests currently under way :detective:
+There are **140** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -86,7 +86,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19911](https://github.com/conan-io/conan-center-index/pull/19911)|[SpaceIm](https://github.com/SpaceIm)|Sep 17|:stopwatch: libavrocpp|:green_circle: XS|1|Oct 16 :bell:||jwillikers
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20 :bell:||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
-[#20068](https://github.com/conan-io/conan-center-index/pull/20068)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:memo: armadillo|L|0|||
+[#20068](https://github.com/conan-io/conan-center-index/pull/20068)|[samuel-emrys](https://github.com/samuel-emrys)|Sep 21|:stopwatch: armadillo|L|0|||
 [#20172](https://github.com/conan-io/conan-center-index/pull/20172)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|:green_circle: XS|1|Oct 2 :bell:||[valgur](https://github.com/valgur)
 [#20173](https://github.com/conan-io/conan-center-index/pull/20173)|[Wawha](https://github.com/Wawha)|Sep 27|:stopwatch: tensorflow-lite|L|0|:eyes:||
 [#20256](https://github.com/conan-io/conan-center-index/pull/20256)|[joakimono](https://github.com/joakimono)|Oct 2|:new: fmilib|XL|8|Dec 4||
@@ -156,7 +156,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21450](https://github.com/conan-io/conan-center-index/pull/21450)|[toge](https://github.com/toge)|Nov 28|:memo: trantor|M|1|Nov 28||
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|:eyes:||
 [#21558](https://github.com/conan-io/conan-center-index/pull/21558)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: libcurl|L|0|||
-[#21571](https://github.com/conan-io/conan-center-index/pull/21571)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: tesseract|:green_circle: XS|0|||
+[#21571](https://github.com/conan-io/conan-center-index/pull/21571)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: tesseract|:green_circle: XS|0|||
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:stopwatch: logr|M|0|||
 [#21611](https://github.com/conan-io/conan-center-index/pull/21611)|[mayeut](https://github.com/mayeut)|Dec 5|:memo: teemo|:green_circle: XS|0|||
 [#21612](https://github.com/conan-io/conan-center-index/pull/21612)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:stopwatch: nanobench|:green_circle: XS|0|||
@@ -166,6 +166,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21617](https://github.com/conan-io/conan-center-index/pull/21617)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: opengl-registry|:green_circle: XS|1|Dec 5||MartinDelille
 [#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:stopwatch: protobuf|L|0|||
 [#21625](https://github.com/conan-io/conan-center-index/pull/21625)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 5|:stopwatch: aravis|:blue_square: S|0|||
+[#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:stopwatch: ginkgo|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -191,7 +192,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 487
 	- Draft: 51
-	- Average Age: 107 days, 1 hours, and 36.34 minutes
+	- Average Age: 107 days, 2 hours, and 36.39 minutes
 	- Stop Label: 261
 	
 
