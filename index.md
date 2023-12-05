@@ -158,7 +158,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21341](https://github.com/conan-io/conan-center-index/pull/21341)|[valgur](https://github.com/valgur)|Nov 23|:new: libecwj2|XL|0|:eyes:||
 [#21342](https://github.com/conan-io/conan-center-index/pull/21342)|[toge](https://github.com/toge)|Nov 24|:memo: coost|:blue_square: S|0|:eyes:||
 [#21353](https://github.com/conan-io/conan-center-index/pull/21353)|[gmeeker](https://github.com/gmeeker)|Nov 24|:stopwatch: wxwidgets|L|0|||
-[#21403](https://github.com/conan-io/conan-center-index/pull/21403)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Nov 27|:memo: libassert|:blue_square: S|0|||
+[#21403](https://github.com/conan-io/conan-center-index/pull/21403)|[jeremy-rifkin](https://github.com/jeremy-rifkin)|Nov 27|:memo: libassert|:blue_square: S|1|Dec 5||**RubenRBS**
 [#21410](https://github.com/conan-io/conan-center-index/pull/21410)|[SpaceIm](https://github.com/SpaceIm)|Nov 27|:stopwatch: bitsery|:blue_square: S|0|:eyes:||
 [#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:memo: vulkan-memory-allocator|M|0|:eyes:||
 [#21436](https://github.com/conan-io/conan-center-index/pull/21436)|[temap](https://github.com/temap)|Nov 28|:new: lksctp-tools|M|2|Dec 4||samuel-emrys
@@ -194,9 +194,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: fe41577bc16a2d14100f4c37054068b36c138182
 - Pull Requests:
-	- Open: 496
+	- Open: 493
 	- Draft: 53
-	- Average Age: 105 days, 23 hours, and 2.27 minutes
+	- Average Age: 106 days, 15 hours, and 26.77 minutes
 	- Stop Label: 259
 	
 
