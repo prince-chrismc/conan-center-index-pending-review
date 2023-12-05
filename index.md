@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **143** pull requests currently under way :detective:
+There are **146** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -170,6 +170,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21565](https://github.com/conan-io/conan-center-index/pull/21565)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: libbigwig|:green_circle: XS|2|Dec 4||
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:stopwatch: logr|M|0|||
 [#21595](https://github.com/conan-io/conan-center-index/pull/21595)|[mayeut](https://github.com/mayeut)|Dec 5|:stopwatch: leptonica|:green_circle: XS|0|||
+[#21599](https://github.com/conan-io/conan-center-index/pull/21599)|[toge](https://github.com/toge)|Dec 5|:stopwatch: poco|:blue_square: S|0|||
+[#21600](https://github.com/conan-io/conan-center-index/pull/21600)|[toge](https://github.com/toge)|Dec 5|:stopwatch: cpprestsdk|:blue_square: S|0|||
+[#21601](https://github.com/conan-io/conan-center-index/pull/21601)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 5|:stopwatch: coin-clp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -193,9 +196,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: fe41577bc16a2d14100f4c37054068b36c138182
 - Pull Requests:
-	- Open: 491
+	- Open: 493
 	- Draft: 53
-	- Average Age: 107 days, 2 hours, and 46.10 minutes
+	- Average Age: 106 days, 19 hours, and 21.93 minutes
 	- Stop Label: 259
 	
 
