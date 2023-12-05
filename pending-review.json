@@ -3464,7 +3464,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21571",
       "LastCommitSHA": "b136c030f14759750b3702de6ecd3699b2701866",
       "LastCommitAt": "2023-12-05T18:36:48Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3626,6 +3626,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21622",
       "LastCommitSHA": "1e55975117a8e5d8bbd6e3c2704beefb524b730a",
       "LastCommitAt": "2023-12-05T17:04:07Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21625,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-12-05T21:19:12Z",
+      "Recipe": "aravis",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21625",
+      "LastCommitSHA": "1ace0237bb6bf5b6331beb6076f662683c0913fa",
+      "LastCommitAt": "2023-12-05T21:18:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
