@@ -2801,7 +2801,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20988",
       "LastCommitSHA": "491799defa3a48a2b26994fc531e6cfe237420cb",
       "LastCommitAt": "2023-12-05T02:23:30Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -3772,39 +3772,6 @@
       }
    },
    {
-      "Number": 21573,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-12-03T16:53:53Z",
-      "Recipe": "sentry-native",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21573",
-      "LastCommitSHA": "4d28ec56c9589863727c495d181cb6be6beffa68",
-      "LastCommitAt": "2023-12-04T22:37:19Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            },
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "ericLemanissier",
-            "SubmittedAt": "2023-12-04T20:19:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21573#pullrequestreview-1763323535"
-         }
-      }
-   },
-   {
       "Number": 21575,
       "OpenedBy": "ngrodzitski",
       "CreatedAt": "2023-12-03T19:07:24Z",
@@ -3814,25 +3781,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21575",
       "LastCommitSHA": "58ca9916f2c6dff6572938a0a02260c005135459",
       "LastCommitAt": "2023-12-03T19:05:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21582,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-04T08:07:53Z",
-      "Recipe": "libmysqlclient",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21582",
-      "LastCommitSHA": "80948464882daeacaf9d5b3e199325d939bb76cb",
-      "LastCommitAt": "2023-12-04T22:09:41Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
