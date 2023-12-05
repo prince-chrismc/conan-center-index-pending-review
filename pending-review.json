@@ -3818,5 +3818,62 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21599,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-05T07:21:49Z",
+      "Recipe": "poco",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21599",
+      "LastCommitSHA": "eed4aa247b10ad785e911564eab4bf0f19a67d39",
+      "LastCommitAt": "2023-12-05T07:21:20Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21600,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-05T07:42:37Z",
+      "Recipe": "cpprestsdk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21600",
+      "LastCommitSHA": "30fed30ad0821d18ccc607367bca55bf3e7396ce",
+      "LastCommitAt": "2023-12-05T07:42:04Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21601,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-12-05T07:54:45Z",
+      "Recipe": "coin-clp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21601",
+      "LastCommitSHA": "8726c46224c72a81297d290bbec7a8d2b1c202c2",
+      "LastCommitAt": "2023-12-04T20:18:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
