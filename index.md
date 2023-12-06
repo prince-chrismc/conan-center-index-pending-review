@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **147** pull requests currently under way :detective:
+There are **152** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -171,9 +171,14 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21632](https://github.com/conan-io/conan-center-index/pull/21632)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: libxml2|:green_circle: XS|0|||
 [#21633](https://github.com/conan-io/conan-center-index/pull/21633)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: nanoflann|:green_circle: XS|0|||
 [#21634](https://github.com/conan-io/conan-center-index/pull/21634)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: xbyak|:green_circle: XS|0|||
-[#21635](https://github.com/conan-io/conan-center-index/pull/21635)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: arsenalgear|:green_circle: XS|0|||
 [#21636](https://github.com/conan-io/conan-center-index/pull/21636)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: libbpf|:green_circle: XS|0|||
 [#21637](https://github.com/conan-io/conan-center-index/pull/21637)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: frugally-deep|:blue_square: S|0|||
+[#21638](https://github.com/conan-io/conan-center-index/pull/21638)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: evmc|:green_circle: XS|0|||
+[#21639](https://github.com/conan-io/conan-center-index/pull/21639)|[toge](https://github.com/toge)|Dec 6|:stopwatch: libcurl|:blue_square: S|0|||
+[#21640](https://github.com/conan-io/conan-center-index/pull/21640)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:stopwatch: glib|:green_circle: XS|0|||
+[#21641](https://github.com/conan-io/conan-center-index/pull/21641)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: iceoryx|:green_circle: XS|0|||
+[#21642](https://github.com/conan-io/conan-center-index/pull/21642)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: z3|:green_circle: XS|0|||
+[#21643](https://github.com/conan-io/conan-center-index/pull/21643)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:stopwatch: libsndfile|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -197,9 +202,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: fe41577bc16a2d14100f4c37054068b36c138182
 - Pull Requests:
-	- Open: 495
+	- Open: 500
 	- Draft: 51
-	- Average Age: 105 days, 17 hours, and 58.65 minutes
+	- Average Age: 104 days, 17 hours, and 32.07 minutes
 	- Stop Label: 263
 	
 
