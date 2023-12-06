@@ -3653,24 +3653,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 21626,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-12-05T22:45:29Z",
-      "Recipe": "ginkgo",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21626",
-      "LastCommitSHA": "52dbba896bb55ebb81a1eb21126516579d444361",
-      "LastCommitAt": "2023-12-05T22:41:24Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
