@@ -3750,25 +3750,6 @@
       }
    },
    {
-      "Number": 21635,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-06T08:09:24Z",
-      "Recipe": "arsenalgear",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21635",
-      "LastCommitSHA": "771c71f0dd59770e49b5f4964e6cfb7226d3170d",
-      "LastCommitAt": "2023-12-06T08:09:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21636,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-06T08:10:06Z",
@@ -3797,6 +3778,120 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21637",
       "LastCommitSHA": "09831d18cf58712fd19327fbbe24142bf6003c5d",
       "LastCommitAt": "2023-12-06T08:13:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21638,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-06T08:18:17Z",
+      "Recipe": "evmc",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21638",
+      "LastCommitSHA": "438ceb40c8337bc7f0a77e70346ac2267e77ddaa",
+      "LastCommitAt": "2023-12-06T08:17:45Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21639,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-06T08:33:46Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21639",
+      "LastCommitSHA": "77e49697030a0f99dfd819cedd8ae9de17a0ced1",
+      "LastCommitAt": "2023-12-06T08:32:44Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21640,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-12-06T08:36:22Z",
+      "Recipe": "glib",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21640",
+      "LastCommitSHA": "d9e412d3bf2a6e8cdff54ca876a4e0c5e5e1fdf6",
+      "LastCommitAt": "2023-12-05T18:34:12Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21641,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-06T08:41:02Z",
+      "Recipe": "iceoryx",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21641",
+      "LastCommitSHA": "c19a9cf11d0b2ff3e374308a94ab1f12a48b5e48",
+      "LastCommitAt": "2023-12-06T08:40:47Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21642,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-06T08:42:24Z",
+      "Recipe": "z3",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21642",
+      "LastCommitSHA": "023deb737584c0f819a441206d40e3cbfa34c1ed",
+      "LastCommitAt": "2023-12-06T08:42:13Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21643,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-12-06T09:13:41Z",
+      "Recipe": "libsndfile",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21643",
+      "LastCommitSHA": "bb3281b981fe2e614cebe08715c80a164dfc1fbe",
+      "LastCommitAt": "2023-12-06T09:11:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
