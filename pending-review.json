@@ -3672,5 +3672,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21631,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-06T06:38:15Z",
+      "Recipe": "libssh2",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21631",
+      "LastCommitSHA": "68547c5dc7b23b838709dcfcd26e10183227240b",
+      "LastCommitAt": "2023-12-06T06:37:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
