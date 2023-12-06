@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **152** pull requests currently under way :detective:
+There are **154** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -179,6 +179,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21641](https://github.com/conan-io/conan-center-index/pull/21641)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: iceoryx|:green_circle: XS|0|||
 [#21642](https://github.com/conan-io/conan-center-index/pull/21642)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: z3|:green_circle: XS|0|||
 [#21643](https://github.com/conan-io/conan-center-index/pull/21643)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:stopwatch: libsndfile|:green_circle: XS|0|||
+[#21645](https://github.com/conan-io/conan-center-index/pull/21645)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:stopwatch: xmlsec|:blue_square: S|0|||
+[#21646](https://github.com/conan-io/conan-center-index/pull/21646)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:stopwatch: soxr|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -202,9 +204,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: fe41577bc16a2d14100f4c37054068b36c138182
 - Pull Requests:
-	- Open: 500
+	- Open: 503
 	- Draft: 51
-	- Average Age: 104 days, 17 hours, and 32.07 minutes
+	- Average Age: 104 days, 3 hours, and 33.16 minutes
 	- Stop Label: 263
 	
 
