@@ -4173,5 +4173,62 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21659,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-06T17:35:36Z",
+      "Recipe": "exiv2",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21659",
+      "LastCommitSHA": "7b754e3f6f10b8d1f96aabb006f1c5ad027b1a94",
+      "LastCommitAt": "2023-12-06T17:35:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21660,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-06T18:14:18Z",
+      "Recipe": "libvips",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21660",
+      "LastCommitSHA": "277c7680774fe1889db0ce1faad40074b8231387",
+      "LastCommitAt": "2023-12-06T18:11:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21661,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-06T18:18:24Z",
+      "Recipe": "openblas",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21661",
+      "LastCommitSHA": "1bbbf20d6ec725654dcdcfa9dc2a5073fdd0d74d",
+      "LastCommitAt": "2023-12-06T18:17:06Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
