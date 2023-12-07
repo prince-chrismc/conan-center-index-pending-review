@@ -4427,5 +4427,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21683,
+      "OpenedBy": "jputcu",
+      "CreatedAt": "2023-12-07T18:53:53Z",
+      "Recipe": "arduinojson",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21683",
+      "LastCommitSHA": "9c2538dbc53f8e35f832e37153046b704a69c5a6",
+      "LastCommitAt": "2023-12-07T18:52:54Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
