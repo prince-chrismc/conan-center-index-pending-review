@@ -4291,5 +4291,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21676,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-07T11:03:13Z",
+      "Recipe": "qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21676",
+      "LastCommitSHA": "d72a0cc2ee59ecd0a3ae4adff6de33d445ffc408",
+      "LastCommitAt": "2023-12-07T11:09:23Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
