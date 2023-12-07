@@ -4298,25 +4298,6 @@
       }
    },
    {
-      "Number": 21671,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-12-07T02:48:17Z",
-      "Recipe": "tz",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21671",
-      "LastCommitSHA": "a89ec207994dc946d2136c5cd0ac3b2d63b406bc",
-      "LastCommitAt": "2023-12-07T03:38:15Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21673,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-12-07T07:11:42Z",
