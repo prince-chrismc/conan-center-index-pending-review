@@ -1620,43 +1620,6 @@
       }
    },
    {
-      "Number": 20071,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2023-09-21T14:11:23Z",
-      "Recipe": "gstreamer",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20071",
-      "LastCommitSHA": "fc06c79a4c31df271fe1c225ba17b475c7aa10ea",
-      "LastCommitAt": "2023-11-10T08:46:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            },
-            {
-               "Name": "valgur",
-               "Tier": "unofficial"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "valgur",
-            "SubmittedAt": "2023-10-12T12:25:04Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20071#pullrequestreview-1674022539"
-         }
-      }
-   },
-   {
       "Number": 20089,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-23T20:10:00Z",
