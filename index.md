@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **159** pull requests currently under way :detective:
+There are **157** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -157,9 +157,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|:eyes:||
 [#21571](https://github.com/conan-io/conan-center-index/pull/21571)|[mayeut](https://github.com/mayeut)|Dec 3|:stopwatch: tesseract|:green_circle: XS|0|||
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:stopwatch: logr|M|0|:eyes:||
-[#21592](https://github.com/conan-io/conan-center-index/pull/21592)|[valgur](https://github.com/valgur)|Dec 4|:memo: protobuf|L|2|Dec 7||**uilianries**
 [#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:stopwatch: protobuf|L|0|||
-[#21625](https://github.com/conan-io/conan-center-index/pull/21625)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 5|:memo: aravis|:blue_square: S|1|Dec 7||**uilianries**
 [#21630](https://github.com/conan-io/conan-center-index/pull/21630)|[toge](https://github.com/toge)|Dec 6|:memo: mppp|M|1|Dec 7||**uilianries**
 [#21641](https://github.com/conan-io/conan-center-index/pull/21641)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: iceoryx|:green_circle: XS|1|Dec 6||jwillikers
 [#21645](https://github.com/conan-io/conan-center-index/pull/21645)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:stopwatch: xmlsec|L|2|Dec 7||**uilianries**
@@ -190,7 +188,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **13** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -201,11 +199,13 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
 [#21444](https://github.com/conan-io/conan-center-index/pull/21444)|[SpaceIm](https://github.com/SpaceIm)|Nov 28|:memo: date|2|jwillikers, **uilianries**
 [#21567](https://github.com/conan-io/conan-center-index/pull/21567)|[toge](https://github.com/toge)|Dec 3|:warning: tinygltf|2|**uilianries**, ericLemanissier
+[#21592](https://github.com/conan-io/conan-center-index/pull/21592)|[valgur](https://github.com/valgur)|Dec 4|:memo: protobuf|3|**uilianries**, toge
 [#21612](https://github.com/conan-io/conan-center-index/pull/21612)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:warning: nanobench|2|jwillikers, **uilianries**
 [#21613](https://github.com/conan-io/conan-center-index/pull/21613)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: nuklear|2|jwillikers, **uilianries**
 [#21614](https://github.com/conan-io/conan-center-index/pull/21614)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: nvtx|2|jwillikers, **uilianries**
 [#21615](https://github.com/conan-io/conan-center-index/pull/21615)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: observer-ptr-lite|2|jwillikers, **uilianries**
 [#21617](https://github.com/conan-io/conan-center-index/pull/21617)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: opengl-registry|3|MartinDelille, jwillikers, **uilianries**
+[#21625](https://github.com/conan-io/conan-center-index/pull/21625)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 5|:memo: aravis|2|**uilianries**, toge
 [#21631](https://github.com/conan-io/conan-center-index/pull/21631)|[valgur](https://github.com/valgur)|Dec 6|:memo: libssh2|2|jwillikers, **uilianries**
 [#21646](https://github.com/conan-io/conan-center-index/pull/21646)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:warning: soxr|2|jwillikers, **uilianries**
 
@@ -218,7 +218,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 526
 	- Draft: 52
-	- Average Age: 100 days, 20 hours, and 49.06 minutes
+	- Average Age: 100 days, 22 hours, and 50.67 minutes
 	- Stop Label: 269
 	
 
