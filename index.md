@@ -190,7 +190,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **14** pull requests are waiting to be merged :tada:
+Currently **13** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -207,7 +207,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#21615](https://github.com/conan-io/conan-center-index/pull/21615)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: observer-ptr-lite|2|jwillikers, **uilianries**
 [#21617](https://github.com/conan-io/conan-center-index/pull/21617)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: opengl-registry|3|MartinDelille, jwillikers, **uilianries**
 [#21631](https://github.com/conan-io/conan-center-index/pull/21631)|[valgur](https://github.com/valgur)|Dec 6|:memo: libssh2|2|jwillikers, **uilianries**
-[#21643](https://github.com/conan-io/conan-center-index/pull/21643)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:warning: libsndfile|2|jwillikers, **uilianries**
 [#21646](https://github.com/conan-io/conan-center-index/pull/21646)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:warning: soxr|2|jwillikers, **uilianries**
 
 
@@ -219,8 +218,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 526
 	- Draft: 52
-	- Average Age: 100 days, 16 hours, and 50.43 minutes
-	- Stop Label: 268
+	- Average Age: 100 days, 20 hours, and 49.06 minutes
+	- Stop Label: 269
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
