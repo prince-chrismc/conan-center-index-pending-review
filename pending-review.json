@@ -4342,5 +4342,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21689,
+      "OpenedBy": "PodnimatelPingvinov",
+      "CreatedAt": "2023-12-08T15:00:51Z",
+      "Recipe": "clickhouse-cpp",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21689",
+      "LastCommitSHA": "88d1d3eefbbf56c3fa8134371d6c20eaee7de30a",
+      "LastCommitAt": "2023-12-08T14:57:17Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
