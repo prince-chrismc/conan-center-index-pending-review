@@ -1601,25 +1601,6 @@
       }
    },
    {
-      "Number": 20068,
-      "OpenedBy": "samuel-emrys",
-      "CreatedAt": "2023-09-21T13:43:22Z",
-      "Recipe": "armadillo",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20068",
-      "LastCommitSHA": "39b309fd17088431b95be6e824d55f2ecce39cc4",
-      "LastCommitAt": "2023-12-05T17:02:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 20089,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-09-23T20:10:00Z",
@@ -4068,25 +4049,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21663",
       "LastCommitSHA": "ec2419824f2be39c7b66461b25b3bce7ad34ab99",
       "LastCommitAt": "2023-12-06T18:43:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21664,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-06T18:55:01Z",
-      "Recipe": "sundials",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21664",
-      "LastCommitSHA": "baa1cc9bb18e706320d194e7de81279dec260d6f",
-      "LastCommitAt": "2023-12-06T19:01:25Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
