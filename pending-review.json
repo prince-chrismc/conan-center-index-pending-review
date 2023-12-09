@@ -3419,25 +3419,6 @@
       }
    },
    {
-      "Number": 21571,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-12-03T16:47:36Z",
-      "Recipe": "tesseract",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21571",
-      "LastCommitSHA": "f2521fdfc2fa3a8b68b21b0650fe1d0675ea9767",
-      "LastCommitAt": "2023-12-06T20:51:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21575,
       "OpenedBy": "ngrodzitski",
       "CreatedAt": "2023-12-03T19:07:24Z",
@@ -3893,39 +3874,6 @@
       }
    },
    {
-      "Number": 21653,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-06T14:49:53Z",
-      "Recipe": "backward-cpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21653",
-      "LastCommitSHA": "6bb0deec2a47a917d722bee28f28cff8b3b2f0f3",
-      "LastCommitAt": "2023-12-06T14:49:33Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "toge",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2023-12-08T14:05:28Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21653#pullrequestreview-1772418386"
-         }
-      }
-   },
-   {
       "Number": 21654,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-06T15:11:07Z",
@@ -3983,25 +3931,6 @@
       }
    },
    {
-      "Number": 21660,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-06T18:14:18Z",
-      "Recipe": "libvips",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21660",
-      "LastCommitSHA": "277c7680774fe1889db0ce1faad40074b8231387",
-      "LastCommitAt": "2023-12-06T18:11:59Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21661,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-06T18:18:24Z",
@@ -4030,25 +3959,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21662",
       "LastCommitSHA": "8f813ffa1b8d971562eadea831f576a12947cdfb",
       "LastCommitAt": "2023-12-06T18:37:35Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21663,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-06T18:43:58Z",
-      "Recipe": "raylib",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21663",
-      "LastCommitSHA": "ec2419824f2be39c7b66461b25b3bce7ad34ab99",
-      "LastCommitAt": "2023-12-06T18:43:48Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
