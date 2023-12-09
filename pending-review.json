@@ -3834,25 +3834,6 @@
       }
    },
    {
-      "Number": 21654,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-06T15:11:07Z",
-      "Recipe": "mbedtls",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21654",
-      "LastCommitSHA": "16cac4aea41f267a19b2937887b90e8b721b3137",
-      "LastCommitAt": "2023-11-08T19:01:55Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21655,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-06T15:12:04Z",
