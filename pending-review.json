@@ -118,39 +118,6 @@
       }
    },
    {
-      "Number": 17344,
-      "OpenedBy": "wadehunk",
-      "CreatedAt": "2023-05-01T17:45:41Z",
-      "Recipe": "cyclonedds-cxx",
-      "Change": 0,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/17344",
-      "LastCommitSHA": "61cedfa532cc55ed8fff34ebe63e63bdff196fa8",
-      "LastCommitAt": "2023-11-30T15:08:45Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 5,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            },
-            {
-               "Name": "toge",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "toge",
-            "SubmittedAt": "2023-12-09T03:29:51Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/17344#pullrequestreview-1773475580"
-         }
-      }
-   },
-   {
       "Number": 17442,
       "OpenedBy": "mtudan",
       "CreatedAt": "2023-05-07T16:24:25Z",
