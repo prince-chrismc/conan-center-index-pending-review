@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **148** pull requests currently under way :detective:
+There are **147** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -157,7 +157,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21630](https://github.com/conan-io/conan-center-index/pull/21630)|[toge](https://github.com/toge)|Dec 6|:memo: mppp|M|1|Dec 7||**uilianries**
 [#21645](https://github.com/conan-io/conan-center-index/pull/21645)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 6|:stopwatch: xmlsec|L|2|Dec 7||**uilianries**
 [#21649](https://github.com/conan-io/conan-center-index/pull/21649)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: libsystemd|M|3|Dec 8||jwillikers
-[#21654](https://github.com/conan-io/conan-center-index/pull/21654)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: mbedtls|:green_circle: XS|0|:eyes:||
 [#21655](https://github.com/conan-io/conan-center-index/pull/21655)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: wolfssl|:green_circle: XS|0|:eyes:||
 [#21657](https://github.com/conan-io/conan-center-index/pull/21657)|[toge](https://github.com/toge)|Dec 6|:stopwatch: asmjit|:green_circle: XS|0|||
 [#21661](https://github.com/conan-io/conan-center-index/pull/21661)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: openblas|:green_circle: XS|0|||
@@ -210,8 +209,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 530
 	- Draft: 53
-	- Average Age: 101 days, 3 hours, and 22.58 minutes
-	- Stop Label: 280
+	- Average Age: 101 days, 6 hours, and 17.83 minutes
+	- Stop Label: 281
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
