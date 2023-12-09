@@ -3222,25 +3222,6 @@
       }
    },
    {
-      "Number": 21424,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-11-27T19:44:25Z",
-      "Recipe": "onnxruntime",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21424",
-      "LastCommitSHA": "603510bb77ad7c2cddb676a363ae9ce28d75148d",
-      "LastCommitAt": "2023-12-05T19:47:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21434,
       "OpenedBy": "Ahajha",
       "CreatedAt": "2023-11-28T05:57:48Z",
