@@ -178,12 +178,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **16** pull requests are waiting to be merged :tada:
+Currently **15** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#17344](https://github.com/conan-io/conan-center-index/pull/17344)|[wadehunk](https://github.com/wadehunk)|May 1|:new: cyclonedds-cxx|5|**uilianries**, toge
 [#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:memo: redradist-icc|2|**uilianries**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
@@ -207,9 +206,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: fe41577bc16a2d14100f4c37054068b36c138182
 - Pull Requests:
-	- Open: 530
+	- Open: 529
 	- Draft: 53
-	- Average Age: 101 days, 6 hours, and 17.83 minutes
+	- Average Age: 101 days, 2 hours, and 53.00 minutes
 	- Stop Label: 281
 	
 
