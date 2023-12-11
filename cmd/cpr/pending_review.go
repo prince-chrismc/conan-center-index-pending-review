@@ -13,7 +13,7 @@ import (
 )
 
 // PendingReview analysis of open pull requests
-func PendingReview(token string, dryRun bool, owner string, repo string) error {
+func PendingReview(token string, dryRun bool, owner string, repo string, issue int) error {
 	context := context.Background()
 	client, err := internal.MakeClient(context, token, pending_review.WorkingRepository{Owner: owner, Name: repo})
 	if err != nil {
@@ -106,11 +106,13 @@ func PendingReview(token string, dryRun bool, owner string, repo string) error {
 		return fmt.Errorf("problem editing web view %w", err)
 	}
 
-	_, _, err = client.Issues.Edit(context, owner, repo, 1, &github.IssueRequest{
-		Body: github.String(commentBody),
-	})
-	if err != nil {
-		return fmt.Errorf("problem editing issue %w", err)
+	if issue != 0 {
+		_, _, err = client.Issues.Edit(context, owner, repo, issue, &github.IssueRequest{
+			Body: github.String(commentBody),
+		})
+		if err != nil {
+			return fmt.Errorf("problem editing issue %w", err)
+		}
 	}
 
 	fmt.Println("::endgroup")
