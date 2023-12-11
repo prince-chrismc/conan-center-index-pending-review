@@ -142,7 +142,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21323](https://github.com/conan-io/conan-center-index/pull/21323)|[toge](https://github.com/toge)|Nov 23|:new: duckx|M|1|Nov 28 :bell:||
 [#21328](https://github.com/conan-io/conan-center-index/pull/21328)|[valgur](https://github.com/valgur)|Nov 23|:memo: coin-utils|:blue_square: S|1|Dec 6||jwillikers
 [#21341](https://github.com/conan-io/conan-center-index/pull/21341)|[valgur](https://github.com/valgur)|Nov 23|:new: libecwj2|XL|0|:eyes:||
-[#21342](https://github.com/conan-io/conan-center-index/pull/21342)|[toge](https://github.com/toge)|Nov 24|:stopwatch: coost|:blue_square: S|2|Dec 11||
+[#21342](https://github.com/conan-io/conan-center-index/pull/21342)|[toge](https://github.com/toge)|Nov 24|:memo: coost|:blue_square: S|2|Dec 11||
 [#21353](https://github.com/conan-io/conan-center-index/pull/21353)|[gmeeker](https://github.com/gmeeker)|Nov 24|:stopwatch: wxwidgets|L|0|:eyes:||
 [#21424](https://github.com/conan-io/conan-center-index/pull/21424)|[mayeut](https://github.com/mayeut)|Nov 27|:memo: onnxruntime|:blue_square: S|0|||
 [#21434](https://github.com/conan-io/conan-center-index/pull/21434)|[Ahajha](https://github.com/Ahajha)|Nov 28|:memo: vulkan-memory-allocator|M|0|:eyes:||
@@ -169,7 +169,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21701](https://github.com/conan-io/conan-center-index/pull/21701)|[toge](https://github.com/toge)|Dec 10|:stopwatch: asio|:green_circle: XS|0|||
 [#21711](https://github.com/conan-io/conan-center-index/pull/21711)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 11|:stopwatch: libarchive|:green_circle: XS|0|:eyes:||
 [#21713](https://github.com/conan-io/conan-center-index/pull/21713)|[tpaustian](https://github.com/tpaustian)|Dec 11|:stopwatch: boost|:green_circle: XS|0|||
-[#21714](https://github.com/conan-io/conan-center-index/pull/21714)|[franramirez688](https://github.com/franramirez688)|Dec 11|:stopwatch: ceres-solver|:green_circle: XS|0|||
+[#21714](https://github.com/conan-io/conan-center-index/pull/21714)|[franramirez688](https://github.com/franramirez688)|Dec 11|:stopwatch: ceres-solver|:green_circle: XS|1|Dec 11||SpaceIm
 [#21716](https://github.com/conan-io/conan-center-index/pull/21716)|[temap](https://github.com/temap)|Dec 11|:stopwatch: libbpf|:green_circle: XS|0|||
 [#21718](https://github.com/conan-io/conan-center-index/pull/21718)|[toge](https://github.com/toge)|Dec 11|:stopwatch: catch2|:green_circle: XS|0|||
 
@@ -200,7 +200,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 530
 	- Draft: 53
-	- Average Age: 102 days, 12 hours, and 6.19 minutes
+	- Average Age: 102 days, 13 hours, and 0.01 minutes
 	- Stop Label: 286
 	
 
