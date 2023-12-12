@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **146** pull requests currently under way :detective:
+There are **147** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -172,7 +172,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21714](https://github.com/conan-io/conan-center-index/pull/21714)|[franramirez688](https://github.com/franramirez688)|Dec 11|:stopwatch: ceres-solver|:green_circle: XS|1|Dec 11||SpaceIm
 [#21716](https://github.com/conan-io/conan-center-index/pull/21716)|[temap](https://github.com/temap)|Dec 11|:stopwatch: libbpf|:green_circle: XS|0|||
 [#21718](https://github.com/conan-io/conan-center-index/pull/21718)|[toge](https://github.com/toge)|Dec 11|:stopwatch: catch2|:green_circle: XS|0|||
-[#21720](https://github.com/conan-io/conan-center-index/pull/21720)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 11|:stopwatch: .c3i|:green_circle: XS|0|||
+[#21720](https://github.com/conan-io/conan-center-index/pull/21720)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 11|:stopwatch: .c3i|:green_circle: XS|1|Dec 12||**RubenRBS**
+[#21721](https://github.com/conan-io/conan-center-index/pull/21721)|[SpaceIm](https://github.com/SpaceIm)|Dec 11|:stopwatch: pdqsort|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -200,7 +201,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 531
 	- Draft: 54
-	- Average Age: 102 days, 12 hours, and 7.99 minutes
+	- Average Age: 102 days, 13 hours, and 32.79 minutes
 	- Stop Label: 286
 	
 
