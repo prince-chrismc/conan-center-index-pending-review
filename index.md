@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **145** pull requests currently under way :detective:
+There are **147** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -149,6 +149,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|1|Dec 4||jwillikers
 [#21450](https://github.com/conan-io/conan-center-index/pull/21450)|[toge](https://github.com/toge)|Nov 28|:memo: trantor|M|2|Dec 11||**RubenRBS**
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|:eyes:||
+[#21571](https://github.com/conan-io/conan-center-index/pull/21571)|[mayeut](https://github.com/mayeut)|Dec 3|:memo: tesseract|:green_circle: XS|1|Dec 12||**RubenRBS**
+[#21581](https://github.com/conan-io/conan-center-index/pull/21581)|[valgur](https://github.com/valgur)|Dec 4|:memo: minizip-ng|L|0|||
 [#21611](https://github.com/conan-io/conan-center-index/pull/21611)|[mayeut](https://github.com/mayeut)|Dec 5|:stopwatch: teemo|:green_circle: XS|1|Dec 11||**RubenRBS**
 [#21622](https://github.com/conan-io/conan-center-index/pull/21622)|[valgur](https://github.com/valgur)|Dec 5|:stopwatch: protobuf|L|0|:eyes:||
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:stopwatch: ginkgo|M|1|Dec 6||
@@ -171,7 +173,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21718](https://github.com/conan-io/conan-center-index/pull/21718)|[toge](https://github.com/toge)|Dec 11|:stopwatch: catch2|:green_circle: XS|0|||
 [#21720](https://github.com/conan-io/conan-center-index/pull/21720)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 11|:stopwatch: .c3i|:green_circle: XS|1|Dec 12||**RubenRBS**
 [#21721](https://github.com/conan-io/conan-center-index/pull/21721)|[SpaceIm](https://github.com/SpaceIm)|Dec 11|:memo: pdqsort|:blue_square: S|0|||
-[#21723](https://github.com/conan-io/conan-center-index/pull/21723)|[nfrechette](https://github.com/nfrechette)|Dec 12|:stopwatch: rtm|:green_circle: XS|0|||
+[#21724](https://github.com/conan-io/conan-center-index/pull/21724)|[toge](https://github.com/toge)|Dec 12|:stopwatch: jwt-cpp|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -197,8 +199,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 523
 	- Draft: 54
-	- Average Age: 104 days, 6 hours, and 22.69 minutes
-	- Stop Label: 288
+	- Average Age: 104 days, 7 hours, and 26.63 minutes
+	- Stop Label: 286
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
