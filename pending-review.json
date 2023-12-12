@@ -3390,39 +3390,6 @@
       }
    },
    {
-      "Number": 21646,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-12-06T10:01:55Z",
-      "Recipe": "soxr",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21646",
-      "LastCommitSHA": "023f9d70df068e7733a1e6f60289417a7caeaa10",
-      "LastCommitAt": "2023-12-06T09:46:00Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "jwillikers",
-               "Tier": "community"
-            },
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-12-07T14:57:44Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21646#pullrequestreview-1770360970"
-         }
-      }
-   },
-   {
       "Number": 21655,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-06T15:12:04Z",
@@ -3734,35 +3701,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 21714,
-      "OpenedBy": "franramirez688",
-      "CreatedAt": "2023-12-11T14:23:45Z",
-      "Recipe": "ceres-solver",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21714",
-      "LastCommitSHA": "45bbdc9382845bbae8d82559c4e0bf2b0d639eb1",
-      "LastCommitAt": "2023-12-11T15:53:48Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
-         "Approvals": [
-            {
-               "Name": "SpaceIm",
-               "Tier": "community"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "SpaceIm",
-            "SubmittedAt": "2023-12-11T18:51:25Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21714#pullrequestreview-1775951002"
-         }
       }
    },
    {
