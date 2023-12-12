@@ -156,7 +156,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21655](https://github.com/conan-io/conan-center-index/pull/21655)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: wolfssl|:green_circle: XS|0|||
 [#21657](https://github.com/conan-io/conan-center-index/pull/21657)|[toge](https://github.com/toge)|Dec 6|:stopwatch: asmjit|:green_circle: XS|0|:eyes:||
 [#21661](https://github.com/conan-io/conan-center-index/pull/21661)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: openblas|:green_circle: XS|0|:eyes:||
-[#21662](https://github.com/conan-io/conan-center-index/pull/21662)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: mongo-c-driver|M|0|||
 [#21677](https://github.com/conan-io/conan-center-index/pull/21677)|[toge](https://github.com/toge)|Dec 7|:stopwatch: bzip3|:green_circle: XS|0|:eyes:||
 [#21678](https://github.com/conan-io/conan-center-index/pull/21678)|[toge](https://github.com/toge)|Dec 7|:stopwatch: g3log|:green_circle: XS|0|:eyes:||
 [#21679](https://github.com/conan-io/conan-center-index/pull/21679)|[toge](https://github.com/toge)|Dec 7|:stopwatch: hwdata|:green_circle: XS|0|:eyes:||
@@ -172,6 +171,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21718](https://github.com/conan-io/conan-center-index/pull/21718)|[toge](https://github.com/toge)|Dec 11|:stopwatch: catch2|:green_circle: XS|0|||
 [#21720](https://github.com/conan-io/conan-center-index/pull/21720)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 11|:stopwatch: .c3i|:green_circle: XS|1|Dec 12||**RubenRBS**
 [#21721](https://github.com/conan-io/conan-center-index/pull/21721)|[SpaceIm](https://github.com/SpaceIm)|Dec 11|:stopwatch: pdqsort|:blue_square: S|0|||
+[#21723](https://github.com/conan-io/conan-center-index/pull/21723)|[nfrechette](https://github.com/nfrechette)|Dec 12|:stopwatch: rtm|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -195,10 +195,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 526
+	- Open: 523
 	- Draft: 54
-	- Average Age: 103 days, 14 hours, and 18.20 minutes
-	- Stop Label: 287
+	- Average Age: 104 days, 5 hours, and 25.33 minutes
+	- Stop Label: 288
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
