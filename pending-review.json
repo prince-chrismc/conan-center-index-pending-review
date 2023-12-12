@@ -3399,7 +3399,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21646",
       "LastCommitSHA": "023f9d70df068e7733a1e6f60289417a7caeaa10",
       "LastCommitAt": "2023-12-06T09:46:00Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -3763,25 +3763,6 @@
             "SubmittedAt": "2023-12-11T18:51:25Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21714#pullrequestreview-1775951002"
          }
-      }
-   },
-   {
-      "Number": 21716,
-      "OpenedBy": "temap",
-      "CreatedAt": "2023-12-11T15:04:36Z",
-      "Recipe": "libbpf",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21716",
-      "LastCommitSHA": "f8cf790571aa64662ef63000fb1f4dbd8f6eda94",
-      "LastCommitAt": "2023-12-11T15:00:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
