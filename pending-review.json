@@ -1014,6 +1014,25 @@
       }
    },
    {
+      "Number": 18980,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-31T13:11:29Z",
+      "Recipe": "openmpi",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18980",
+      "LastCommitSHA": "232a3cce0e0c4cfa79210ef152dc01fc9329965d",
+      "LastCommitAt": "2023-12-13T22:58:39Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18987,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-31T14:21:52Z",
