@@ -3838,5 +3838,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21746,
+      "OpenedBy": "nikolay-pv",
+      "CreatedAt": "2023-12-13T19:01:11Z",
+      "Recipe": "libcurl",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21746",
+      "LastCommitSHA": "8f521a54c52a6b9ede7e22fb55aa4eeb7f5134ed",
+      "LastCommitAt": "2023-12-13T18:46:42Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
