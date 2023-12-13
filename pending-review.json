@@ -3736,35 +3736,6 @@
       }
    },
    {
-      "Number": 21730,
-      "OpenedBy": "hedtke",
-      "CreatedAt": "2023-12-12T11:51:58Z",
-      "Recipe": "ogdf",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21730",
-      "LastCommitSHA": "364e687f31570a430521c0e041f21b91e41aaafc",
-      "LastCommitAt": "2023-12-12T11:50:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-12-12T19:03:50Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21730#pullrequestreview-1778253595"
-         }
-      }
-   },
-   {
       "Number": 21733,
       "OpenedBy": "toge",
       "CreatedAt": "2023-12-12T17:07:19Z",
