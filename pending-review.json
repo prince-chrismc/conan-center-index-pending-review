@@ -107,9 +107,7 @@
                "Tier": "community"
             }
          ],
-         "Blockers": [
-            "jcar87"
-         ],
+         "Blockers": null,
          "LastReview": {
             "ReviewerName": "jwillikers",
             "SubmittedAt": "2023-12-13T14:30:05Z",
