@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **149** pull requests currently under way :detective:
+There are **151** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -176,6 +176,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21747](https://github.com/conan-io/conan-center-index/pull/21747)|[toge](https://github.com/toge)|Dec 14|:stopwatch: boost|L|0|||
 [#21748](https://github.com/conan-io/conan-center-index/pull/21748)|[toge](https://github.com/toge)|Dec 14|:stopwatch: glaze|:green_circle: XS|0|||
 [#21749](https://github.com/conan-io/conan-center-index/pull/21749)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 14|:gear: .c3i|:green_circle: XS|0|||
+[#21750](https://github.com/conan-io/conan-center-index/pull/21750)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: approvaltests.cpp|:blue_square: S|0|||
+[#21751](https://github.com/conan-io/conan-center-index/pull/21751)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: cpp-httplib|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -199,9 +201,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 506
+	- Open: 508
 	- Draft: 54
-	- Average Age: 108 days, 9 hours, and 6.79 minutes
+	- Average Age: 107 days, 23 hours, and 44.63 minutes
 	- Stop Label: 267
 	
 
