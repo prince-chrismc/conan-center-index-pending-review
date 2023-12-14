@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **165** pull requests currently under way :detective:
+There are **166** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -176,7 +176,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21749](https://github.com/conan-io/conan-center-index/pull/21749)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 14|:gear: .c3i|:green_circle: XS|1|Dec 14||**RubenRBS**
 [#21750](https://github.com/conan-io/conan-center-index/pull/21750)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: approvaltests.cpp|:blue_square: S|0|||
 [#21751](https://github.com/conan-io/conan-center-index/pull/21751)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: cpp-httplib|:blue_square: S|0|||
-[#21753](https://github.com/conan-io/conan-center-index/pull/21753)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: grpc|:blue_square: S|0|||
 [#21754](https://github.com/conan-io/conan-center-index/pull/21754)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: hazelcast-cpp-client|:green_circle: XS|0|||
 [#21755](https://github.com/conan-io/conan-center-index/pull/21755)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: librdkafka|:blue_square: S|0|||
 [#21756](https://github.com/conan-io/conan-center-index/pull/21756)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: onetbb|:green_circle: XS|0|||
@@ -192,6 +191,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21773](https://github.com/conan-io/conan-center-index/pull/21773)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: wayland|:green_circle: XS|0|:eyes:||
 [#21774](https://github.com/conan-io/conan-center-index/pull/21774)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: wayland-protocols|:green_circle: XS|0|:eyes:||
 [#21775](https://github.com/conan-io/conan-center-index/pull/21775)|[piliugin-anton](https://github.com/piliugin-anton)|Dec 14|:stopwatch: libsrtp|:blue_square: S|0|||
+[#21776](https://github.com/conan-io/conan-center-index/pull/21776)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: libva|M|0|||
+[#21777](https://github.com/conan-io/conan-center-index/pull/21777)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: libdrm|:green_circle: XS|0|:eyes:||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -216,9 +217,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 528
+	- Open: 529
 	- Draft: 54
-	- Average Age: 103 days, 15 hours, and 8.09 minutes
+	- Average Age: 103 days, 11 hours, and 29.90 minutes
 	- Stop Label: 272
 	
 
