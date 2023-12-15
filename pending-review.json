@@ -3923,25 +3923,6 @@
       }
    },
    {
-      "Number": 21764,
-      "OpenedBy": "memsharded",
-      "CreatedAt": "2023-12-14T14:01:16Z",
-      "Recipe": "meson",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21764",
-      "LastCommitSHA": "4a92d83f8e606268919fe4962de7ae3621ccf592",
-      "LastCommitAt": "2023-12-14T13:57:26Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21766,
       "OpenedBy": "igormironchik",
       "CreatedAt": "2023-12-14T14:35:19Z",
