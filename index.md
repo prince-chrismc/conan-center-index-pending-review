@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **167** pull requests currently under way :detective:
+There are **166** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -180,7 +180,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21755](https://github.com/conan-io/conan-center-index/pull/21755)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: librdkafka|:blue_square: S|0|||
 [#21756](https://github.com/conan-io/conan-center-index/pull/21756)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: onetbb|:green_circle: XS|0|||
 [#21759](https://github.com/conan-io/conan-center-index/pull/21759)|[talyz](https://github.com/talyz)|Dec 14|:stopwatch: cpuinfo|:green_circle: XS|0|||
-[#21764](https://github.com/conan-io/conan-center-index/pull/21764)|[memsharded](https://github.com/memsharded)|Dec 14|:stopwatch: meson|:green_circle: XS|0|||
 [#21766](https://github.com/conan-io/conan-center-index/pull/21766)|[igormironchik](https://github.com/igormironchik)|Dec 14|:stopwatch: md4qt|:green_circle: XS|1|Dec 14||**RubenRBS**
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:stopwatch: wasm-micro-runtime|M|0|||
 [#21768](https://github.com/conan-io/conan-center-index/pull/21768)|[toge](https://github.com/toge)|Dec 14|:stopwatch: uni-algo|:green_circle: XS|0|||
@@ -220,8 +219,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 530
 	- Draft: 54
-	- Average Age: 103 days, 13 hours, and 24.51 minutes
-	- Stop Label: 272
+	- Average Age: 103 days, 16 hours, and 47.53 minutes
+	- Stop Label: 273
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
