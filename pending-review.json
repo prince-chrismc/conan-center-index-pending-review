@@ -3930,35 +3930,6 @@
       }
    },
    {
-      "Number": 21766,
-      "OpenedBy": "igormironchik",
-      "CreatedAt": "2023-12-14T14:35:19Z",
-      "Recipe": "md4qt",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21766",
-      "LastCommitSHA": "c3e70e9046965d4ed22deb85da84a1862eb0e703",
-      "LastCommitAt": "2023-12-14T14:34:16Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-12-14T15:19:56Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21766#pullrequestreview-1782059726"
-         }
-      }
-   },
-   {
       "Number": 21767,
       "OpenedBy": "toge",
       "CreatedAt": "2023-12-14T14:38:01Z",
@@ -4147,8 +4118,8 @@
       "Change": 0,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21776",
-      "LastCommitSHA": "e35522d03027603b867b47d62d784c2b989db219",
-      "LastCommitAt": "2023-12-14T17:32:32Z",
+      "LastCommitSHA": "fc553512d323bdee322287f9cf67fd03782a356c",
+      "LastCommitAt": "2023-12-15T12:54:08Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4244,6 +4215,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21781",
       "LastCommitSHA": "74346cf04df79f13e1d4e95f3f1d99e9a880b6a6",
       "LastCommitAt": "2023-12-15T09:26:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21782,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-15T12:32:52Z",
+      "Recipe": "sdl_mixer",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21782",
+      "LastCommitSHA": "b8b1f0e2a47980d5045e66bcc8e583b6957e8251",
+      "LastCommitAt": "2023-12-15T12:33:51Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
