@@ -180,7 +180,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21755](https://github.com/conan-io/conan-center-index/pull/21755)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: librdkafka|:blue_square: S|0|||
 [#21756](https://github.com/conan-io/conan-center-index/pull/21756)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: onetbb|:green_circle: XS|0|||
 [#21759](https://github.com/conan-io/conan-center-index/pull/21759)|[talyz](https://github.com/talyz)|Dec 14|:stopwatch: cpuinfo|:green_circle: XS|0|||
-[#21766](https://github.com/conan-io/conan-center-index/pull/21766)|[igormironchik](https://github.com/igormironchik)|Dec 14|:stopwatch: md4qt|:green_circle: XS|1|Dec 14||**RubenRBS**
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:stopwatch: wasm-micro-runtime|M|0|||
 [#21768](https://github.com/conan-io/conan-center-index/pull/21768)|[toge](https://github.com/toge)|Dec 14|:stopwatch: uni-algo|:green_circle: XS|0|||
 [#21769](https://github.com/conan-io/conan-center-index/pull/21769)|[toge](https://github.com/toge)|Dec 14|:stopwatch: s2n|:green_circle: XS|1|Dec 14||**RubenRBS**
@@ -196,6 +195,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21779](https://github.com/conan-io/conan-center-index/pull/21779)|[toge](https://github.com/toge)|Dec 15|:stopwatch: valijson|:green_circle: XS|0|||
 [#21780](https://github.com/conan-io/conan-center-index/pull/21780)|[toge](https://github.com/toge)|Dec 15|:stopwatch: jsoncons|:green_circle: XS|0|||
 [#21781](https://github.com/conan-io/conan-center-index/pull/21781)|[gouarin](https://github.com/gouarin)|Dec 15|:stopwatch: samurai|:green_circle: XS|0|||
+[#21782](https://github.com/conan-io/conan-center-index/pull/21782)|[valgur](https://github.com/valgur)|Dec 15|:stopwatch: sdl_mixer|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -222,7 +222,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 533
 	- Draft: 54
-	- Average Age: 103 days, 8 hours, and 44.08 minutes
+	- Average Age: 103 days, 11 hours, and 44.13 minutes
 	- Stop Label: 274
 	
 
