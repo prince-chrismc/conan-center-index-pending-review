@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **168** pull requests currently under way :detective:
+There are **169** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -152,7 +152,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21436](https://github.com/conan-io/conan-center-index/pull/21436)|[temap](https://github.com/temap)|Nov 28|:new: lksctp-tools|M|2|Dec 4||samuel-emrys
 [#21448](https://github.com/conan-io/conan-center-index/pull/21448)|[uilianries](https://github.com/uilianries)|Nov 28|:green_book: docs|:green_circle: XS|1|Dec 4||jwillikers
 [#21485](https://github.com/conan-io/conan-center-index/pull/21485)|[amrox](https://github.com/amrox)|Nov 30|:stopwatch: openblas|M|0|:eyes:||
-[#21509](https://github.com/conan-io/conan-center-index/pull/21509)|[valgur](https://github.com/valgur)|Nov 30|:memo: jemalloc|L|0|||
+[#21509](https://github.com/conan-io/conan-center-index/pull/21509)|[valgur](https://github.com/valgur)|Nov 30|:memo: jemalloc|L|0|:eyes:||
 [#21511](https://github.com/conan-io/conan-center-index/pull/21511)|[valgur](https://github.com/valgur)|Nov 30|:memo: libspatialite|:blue_square: S|6|Dec 13||ericLemanissier, jwillikers
 [#21575](https://github.com/conan-io/conan-center-index/pull/21575)|[ngrodzitski](https://github.com/ngrodzitski)|Dec 3|:stopwatch: logr|M|0|||
 [#21581](https://github.com/conan-io/conan-center-index/pull/21581)|[valgur](https://github.com/valgur)|Dec 4|:memo: minizip-ng|L|0|:eyes:||
@@ -195,6 +195,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21778](https://github.com/conan-io/conan-center-index/pull/21778)|[toge](https://github.com/toge)|Dec 15|:stopwatch: fast_float|:green_circle: XS|0|||
 [#21779](https://github.com/conan-io/conan-center-index/pull/21779)|[toge](https://github.com/toge)|Dec 15|:stopwatch: valijson|:green_circle: XS|0|||
 [#21780](https://github.com/conan-io/conan-center-index/pull/21780)|[toge](https://github.com/toge)|Dec 15|:stopwatch: jsoncons|:green_circle: XS|0|||
+[#21781](https://github.com/conan-io/conan-center-index/pull/21781)|[gouarin](https://github.com/gouarin)|Dec 15|:stopwatch: samurai|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -219,9 +220,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 532
+	- Open: 533
 	- Draft: 54
-	- Average Age: 103 days, 12 hours, and 22.93 minutes
+	- Average Age: 103 days, 8 hours, and 44.08 minutes
 	- Stop Label: 274
 	
 
