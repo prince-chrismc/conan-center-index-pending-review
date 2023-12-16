@@ -4021,6 +4021,25 @@
       }
    },
    {
+      "Number": 21788,
+      "OpenedBy": "SpaceIm",
+      "CreatedAt": "2023-12-16T15:03:17Z",
+      "Recipe": "fftw",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21788",
+      "LastCommitSHA": "0f1c92ed96d01b7baf61d05521904781eb2e423f",
+      "LastCommitAt": "2023-12-16T15:02:08Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21789,
       "OpenedBy": "toge",
       "CreatedAt": "2023-12-16T15:24:02Z",
@@ -4030,6 +4049,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21789",
       "LastCommitSHA": "860ef821c94b70b17f10e92795af86a860640cb7",
       "LastCommitAt": "2023-12-16T15:23:22Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21791,
+      "OpenedBy": "RMZeroFour",
+      "CreatedAt": "2023-12-16T18:11:20Z",
+      "Recipe": "openal-soft",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21791",
+      "LastCommitSHA": "c883dd98d375f3b5c882b939ef605012de0649fe",
+      "LastCommitAt": "2023-12-16T18:01:05Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
