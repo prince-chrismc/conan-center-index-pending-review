@@ -2778,10 +2778,10 @@
       "CreatedAt": "2023-11-17T12:59:12Z",
       "Recipe": "gcc",
       "Change": 1,
-      "Weight": 2,
+      "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21193",
-      "LastCommitSHA": "09e524bc895ed4a9f4f61ad4f5b9b972dae833ad",
-      "LastCommitAt": "2023-12-15T21:40:30Z",
+      "LastCommitSHA": "649368eeacf6a2a2fa34b2e342fba1508d5f1d29",
+      "LastCommitAt": "2023-12-16T15:11:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
