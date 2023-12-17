@@ -3774,6 +3774,25 @@
       }
    },
    {
+      "Number": 21755,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-12-14T13:25:33Z",
+      "Recipe": "librdkafka",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21755",
+      "LastCommitSHA": "622b48ef320c9dfb0d1acfcd0fab0758c2f9efe7",
+      "LastCommitAt": "2023-12-14T13:36:23Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21756,
       "OpenedBy": "ericLemanissier",
       "CreatedAt": "2023-12-14T13:26:28Z",
@@ -3783,7 +3802,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21756",
       "LastCommitSHA": "632284fb7c12defe352b11f7254e41594b13e7e7",
       "LastCommitAt": "2023-12-14T13:26:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
