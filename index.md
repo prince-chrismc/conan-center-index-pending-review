@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **167** pull requests currently under way :detective:
+There are **168** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -174,7 +174,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21748](https://github.com/conan-io/conan-center-index/pull/21748)|[toge](https://github.com/toge)|Dec 14|:stopwatch: glaze|:green_circle: XS|0|||
 [#21749](https://github.com/conan-io/conan-center-index/pull/21749)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 14|:gear: .c3i|:green_circle: XS|1|Dec 14||**RubenRBS**
 [#21750](https://github.com/conan-io/conan-center-index/pull/21750)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: approvaltests.cpp|:blue_square: S|0|:eyes:||
-[#21756](https://github.com/conan-io/conan-center-index/pull/21756)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:stopwatch: onetbb|:green_circle: XS|0|:eyes:||
+[#21755](https://github.com/conan-io/conan-center-index/pull/21755)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:memo: librdkafka|:blue_square: S|0|:eyes:||
+[#21756](https://github.com/conan-io/conan-center-index/pull/21756)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:memo: onetbb|:green_circle: XS|0|:eyes:||
 [#21767](https://github.com/conan-io/conan-center-index/pull/21767)|[toge](https://github.com/toge)|Dec 14|:stopwatch: wasm-micro-runtime|M|0|:eyes:||
 [#21768](https://github.com/conan-io/conan-center-index/pull/21768)|[toge](https://github.com/toge)|Dec 14|:stopwatch: uni-algo|:green_circle: XS|0|||
 [#21770](https://github.com/conan-io/conan-center-index/pull/21770)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:memo: opentdf-client|:green_circle: XS|0|:eyes:||
@@ -219,8 +220,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 536
 	- Draft: 53
-	- Average Age: 105 days, 4 hours, and 48.22 minutes
-	- Stop Label: 282
+	- Average Age: 105 days, 5 hours, and 48.89 minutes
+	- Stop Label: 281
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
