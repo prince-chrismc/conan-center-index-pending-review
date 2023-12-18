@@ -3955,10 +3955,10 @@
       "CreatedAt": "2023-12-16T02:03:17Z",
       "Recipe": "opencv",
       "Change": 1,
-      "Weight": 0,
+      "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21785",
-      "LastCommitSHA": "350b2d9da82950caf629a01b7e2bd73921cbd88e",
-      "LastCommitAt": "2023-12-16T01:49:29Z",
+      "LastCommitSHA": "2eea6c7d2db2c11df0ff2e8497f24c501db1d208",
+      "LastCommitAt": "2023-12-18T22:05:53Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
