@@ -1622,7 +1622,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20256",
       "LastCommitSHA": "b30ae79c00643ff9896c4a9d59d2ad97812ca8f8",
       "LastCommitAt": "2023-12-18T13:19:22Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 9,
          "ValidApprovals": 0,
@@ -3361,7 +3361,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21657",
       "LastCommitSHA": "1b2614ca1d34a9bfab3c5b89aac849387df5b2d8",
       "LastCommitAt": "2023-12-18T12:08:01Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -3397,9 +3397,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21677",
-      "LastCommitSHA": "0578e9fa947631feffc3e7a2c9a3943b455b01d5",
-      "LastCommitAt": "2023-12-08T17:59:04Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "766672cfd30546ea9b8f8ebca985fe8509d8dbe7",
+      "LastCommitAt": "2023-12-18T18:17:13Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4151,6 +4151,25 @@
       "LastCommitSHA": "4ae12563f7a594ce23812a545e17ffef0205e868",
       "LastCommitAt": "2023-12-17T20:07:05Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21803,
+      "OpenedBy": "ericLemanissier",
+      "CreatedAt": "2023-12-18T09:21:18Z",
+      "Recipe": "hazelcast-cpp-client",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21803",
+      "LastCommitSHA": "1ee99f8ac971d910f8f3f21b18a13f971a394854",
+      "LastCommitAt": "2023-12-18T10:17:35Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
