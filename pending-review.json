@@ -476,35 +476,6 @@
       }
    },
    {
-      "Number": 18681,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-19T20:57:07Z",
-      "Recipe": "libelfin",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18681",
-      "LastCommitSHA": "36a4b8abe18df6775157542466575cf0503f6070",
-      "LastCommitAt": "2023-12-14T09:57:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "franramirez688",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "franramirez688",
-            "SubmittedAt": "2023-12-13T11:17:57Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18681#pullrequestreview-1779411314"
-         }
-      }
-   },
-   {
       "Number": 18720,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T12:28:42Z",
@@ -2611,11 +2582,21 @@
       "LastCommitAt": "2023-11-24T09:10:51Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "franramirez688",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "franramirez688",
+            "SubmittedAt": "2023-12-18T07:47:27Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21019#pullrequestreview-1786031192"
+         }
       }
    },
    {
@@ -4018,11 +3999,21 @@
       "LastCommitAt": "2023-12-16T15:02:08Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "fdgStilla",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "fdgStilla",
+            "SubmittedAt": "2023-12-18T07:51:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21788#pullrequestreview-1786036123"
+         }
       }
    },
    {
