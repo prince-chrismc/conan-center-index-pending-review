@@ -3390,25 +3390,6 @@
       }
    },
    {
-      "Number": 21677,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-07T14:12:56Z",
-      "Recipe": "bzip3",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21677",
-      "LastCommitSHA": "766672cfd30546ea9b8f8ebca985fe8509d8dbe7",
-      "LastCommitAt": "2023-12-18T18:17:13Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21679,
       "OpenedBy": "toge",
       "CreatedAt": "2023-12-07T14:20:21Z",
@@ -3419,25 +3400,6 @@
       "LastCommitSHA": "5f926cb844791a70d7b6c7b4a1ced45a48306a3f",
       "LastCommitAt": "2023-12-18T18:17:39Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21680,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-07T14:23:32Z",
-      "Recipe": "liburing",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21680",
-      "LastCommitSHA": "384061473257267105e404c2aec5cdada6776143",
-      "LastCommitAt": "2023-12-09T01:26:20Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
