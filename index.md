@@ -186,7 +186,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21785](https://github.com/conan-io/conan-center-index/pull/21785)|[Drllap](https://github.com/Drllap)|Dec 16|:stopwatch: opencv|:green_circle: XS|0|||
 [#21786](https://github.com/conan-io/conan-center-index/pull/21786)|[toge](https://github.com/toge)|Dec 16|:stopwatch: roaring|:green_circle: XS|0|||
 [#21787](https://github.com/conan-io/conan-center-index/pull/21787)|[ivmai](https://github.com/ivmai)|Dec 16|:stopwatch: libatomic_ops|:green_circle: XS|0|||
-[#21788](https://github.com/conan-io/conan-center-index/pull/21788)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:stopwatch: fftw|:blue_square: S|0|||
+[#21788](https://github.com/conan-io/conan-center-index/pull/21788)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: fftw|:blue_square: S|0|||
 [#21789](https://github.com/conan-io/conan-center-index/pull/21789)|[toge](https://github.com/toge)|Dec 16|:stopwatch: uwebsockets|:green_circle: XS|0|||
 [#21791](https://github.com/conan-io/conan-center-index/pull/21791)|[RMZeroFour](https://github.com/RMZeroFour)|Dec 16|:stopwatch: openal-soft|:blue_square: S|0|||
 [#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:stopwatch: catch2|:blue_square: S|0|||
@@ -215,9 +215,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 534
+	- Open: 533
 	- Draft: 53
-	- Average Age: 105 days, 21 hours, and 45.04 minutes
+	- Average Age: 106 days, 3 hours, and 26.14 minutes
 	- Stop Label: 281
 	
 
