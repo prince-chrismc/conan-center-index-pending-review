@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **165** pull requests currently under way :detective:
+There are **163** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -155,9 +155,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21626](https://github.com/conan-io/conan-center-index/pull/21626)|[SpaceIm](https://github.com/SpaceIm)|Dec 5|:memo: ginkgo|M|3|Dec 18||jwillikers
 [#21657](https://github.com/conan-io/conan-center-index/pull/21657)|[toge](https://github.com/toge)|Dec 6|:memo: asmjit|:green_circle: XS|0|||
 [#21664](https://github.com/conan-io/conan-center-index/pull/21664)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: sundials|M|0|:eyes:||
-[#21677](https://github.com/conan-io/conan-center-index/pull/21677)|[toge](https://github.com/toge)|Dec 7|:stopwatch: bzip3|:green_circle: XS|0|||
 [#21679](https://github.com/conan-io/conan-center-index/pull/21679)|[toge](https://github.com/toge)|Dec 7|:memo: hwdata|:green_circle: XS|0|||
-[#21680](https://github.com/conan-io/conan-center-index/pull/21680)|[toge](https://github.com/toge)|Dec 7|:stopwatch: liburing|:green_circle: XS|0|:eyes:||
 [#21683](https://github.com/conan-io/conan-center-index/pull/21683)|[jputcu](https://github.com/jputcu)|Dec 7|:memo: arduinojson|:blue_square: S|1|Dec 18||jwillikers
 [#21686](https://github.com/conan-io/conan-center-index/pull/21686)|[gjasny](https://github.com/gjasny)|Dec 8|:memo: rapidcheck|:green_circle: XS|0|||
 [#21690](https://github.com/conan-io/conan-center-index/pull/21690)|[toge](https://github.com/toge)|Dec 8|:stopwatch: kuba-zip|:green_circle: XS|0|:eyes:||
@@ -217,8 +215,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 532
 	- Draft: 54
-	- Average Age: 106 days, 7 hours, and 52.91 minutes
-	- Stop Label: 281
+	- Average Age: 106 days, 8 hours, and 26.05 minutes
+	- Stop Label: 282
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
