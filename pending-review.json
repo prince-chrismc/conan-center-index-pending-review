@@ -4114,5 +4114,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21818,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-12-19T19:27:47Z",
+      "Recipe": "wil",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21818",
+      "LastCommitSHA": "9dc01c0af79c12c1a38b96f5715b5e07081a76da",
+      "LastCommitAt": "2023-12-19T19:27:05Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
