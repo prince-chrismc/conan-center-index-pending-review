@@ -3548,7 +3548,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21743",
       "LastCommitSHA": "dbc988791ec224732bfa6bd0efda2d335d229638",
       "LastCommitAt": "2023-12-13T13:44:18Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4114,25 +4114,6 @@
       "LastCommitSHA": "05659e41741d8f288c371806a081ced6aec0b8dd",
       "LastCommitAt": "2023-12-18T11:27:30Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21815,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-19T13:41:06Z",
-      "Recipe": "taocpp-taopq",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21815",
-      "LastCommitSHA": "ce1bffccd3a1c9840df880f1b8bd3331dd1b4ba7",
-      "LastCommitAt": "2023-12-19T13:40:24Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
