@@ -4097,25 +4097,6 @@
       }
    },
    {
-      "Number": 21817,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-19T16:24:00Z",
-      "Recipe": "libdwarf",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21817",
-      "LastCommitSHA": "389dd2151314c41de8b10a8492657de37c36d108",
-      "LastCommitAt": "2023-12-19T16:23:07Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21818,
       "OpenedBy": "mayeut",
       "CreatedAt": "2023-12-19T19:27:47Z",
