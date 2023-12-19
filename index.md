@@ -159,8 +159,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21679](https://github.com/conan-io/conan-center-index/pull/21679)|[toge](https://github.com/toge)|Dec 7|:memo: hwdata|:green_circle: XS|0|||
 [#21683](https://github.com/conan-io/conan-center-index/pull/21683)|[jputcu](https://github.com/jputcu)|Dec 7|:memo: arduinojson|:blue_square: S|1|Dec 18||jwillikers
 [#21686](https://github.com/conan-io/conan-center-index/pull/21686)|[gjasny](https://github.com/gjasny)|Dec 8|:memo: rapidcheck|:green_circle: XS|0|||
-[#21690](https://github.com/conan-io/conan-center-index/pull/21690)|[toge](https://github.com/toge)|Dec 8|:stopwatch: kuba-zip|:green_circle: XS|0|:eyes:||
-[#21693](https://github.com/conan-io/conan-center-index/pull/21693)|[toge](https://github.com/toge)|Dec 9|:stopwatch: plf_colony|:green_circle: XS|0|:eyes:||
+[#21690](https://github.com/conan-io/conan-center-index/pull/21690)|[toge](https://github.com/toge)|Dec 8|:stopwatch: kuba-zip|:green_circle: XS|0|||
+[#21693](https://github.com/conan-io/conan-center-index/pull/21693)|[toge](https://github.com/toge)|Dec 9|:stopwatch: plf_colony|:green_circle: XS|0|||
 [#21708](https://github.com/conan-io/conan-center-index/pull/21708)|[jmalopoy](https://github.com/jmalopoy)|Dec 11|:memo: openssl|:green_circle: XS|4|Dec 13||
 [#21713](https://github.com/conan-io/conan-center-index/pull/21713)|[tpaustian](https://github.com/tpaustian)|Dec 11|:stopwatch: boost|:green_circle: XS|0|:eyes:||
 [#21740](https://github.com/conan-io/conan-center-index/pull/21740)|[rainman110](https://github.com/rainman110)|Dec 13|:stopwatch: gtlab-logging|M|0|:eyes:||
@@ -215,7 +215,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 530
 	- Draft: 54
-	- Average Age: 107 days, 5 hours, and 25.61 minutes
+	- Average Age: 107 days, 6 hours, and 21.99 minutes
 	- Stop Label: 281
 	
 
