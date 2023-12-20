@@ -3384,6 +3384,25 @@
       }
    },
    {
+      "Number": 21669,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-06T21:51:04Z",
+      "Recipe": "arrow",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21669",
+      "LastCommitSHA": "ceda7116bebbabcab0c5612c5986894c22c4588c",
+      "LastCommitAt": "2023-12-19T14:42:53Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21679,
       "OpenedBy": "toge",
       "CreatedAt": "2023-12-07T14:20:21Z",
@@ -3741,8 +3760,8 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21767",
-      "LastCommitSHA": "c134e06aade21e37f9daf27bfd63a479b41bd003",
-      "LastCommitAt": "2023-12-14T14:37:23Z",
+      "LastCommitSHA": "52c28885faab4cc71841ed310f823da70eefb429",
+      "LastCommitAt": "2023-12-20T00:15:17Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -3990,8 +4009,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21789",
-      "LastCommitSHA": "860ef821c94b70b17f10e92795af86a860640cb7",
-      "LastCommitAt": "2023-12-16T15:23:22Z",
+      "LastCommitSHA": "801d62ee516808671ba99f7872f9c1d99d967743",
+      "LastCommitAt": "2023-12-20T00:16:44Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4126,6 +4145,25 @@
       "LastCommitSHA": "9dc01c0af79c12c1a38b96f5715b5e07081a76da",
       "LastCommitAt": "2023-12-19T19:27:05Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21819,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-20T00:36:38Z",
+      "Recipe": "fltk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21819",
+      "LastCommitSHA": "75c7699c009e863b68b3bd279200795250e63bc4",
+      "LastCommitAt": "2023-12-20T00:36:05Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
