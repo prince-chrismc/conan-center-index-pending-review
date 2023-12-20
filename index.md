@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **177** pull requests currently under way :detective:
+There are **178** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -191,7 +191,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21791](https://github.com/conan-io/conan-center-index/pull/21791)|[RMZeroFour](https://github.com/RMZeroFour)|Dec 16|:stopwatch: openal-soft|:blue_square: S|0|:eyes:||
 [#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:stopwatch: catch2|:blue_square: S|0|:eyes:||
 [#21796](https://github.com/conan-io/conan-center-index/pull/21796)|[i-curve](https://github.com/i-curve)|Dec 17|:stopwatch: copypp|M|0|||
-[#21798](https://github.com/conan-io/conan-center-index/pull/21798)|[nfrechette](https://github.com/nfrechette)|Dec 17|:stopwatch: nfrechette-acl|:blue_square: S|0|||
+[#21798](https://github.com/conan-io/conan-center-index/pull/21798)|[nfrechette](https://github.com/nfrechette)|Dec 17|:stopwatch: nfrechette-acl|:blue_square: S|0|:eyes:||
 [#21803](https://github.com/conan-io/conan-center-index/pull/21803)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 18|:memo: hazelcast-cpp-client|:blue_square: S|0|||
 [#21804](https://github.com/conan-io/conan-center-index/pull/21804)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 18|:gear: .c3i|:green_circle: XS|0|||
 [#21815](https://github.com/conan-io/conan-center-index/pull/21815)|[toge](https://github.com/toge)|Dec 19|:memo: taocpp-taopq|:blue_square: S|0|||
@@ -204,6 +204,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21831](https://github.com/conan-io/conan-center-index/pull/21831)|[cbaecker](https://github.com/cbaecker)|Dec 20|:stopwatch: json-schema-validator|:green_circle: XS|0|||
 [#21833](https://github.com/conan-io/conan-center-index/pull/21833)|[gureedo](https://github.com/gureedo)|Dec 20|:stopwatch: xmlsec|:blue_square: S|0|||
 [#21834](https://github.com/conan-io/conan-center-index/pull/21834)|[toge](https://github.com/toge)|Dec 20|:stopwatch: commata|M|0|||
+[#21835](https://github.com/conan-io/conan-center-index/pull/21835)|[7bitcoder](https://github.com/7bitcoder)|Dec 20|:stopwatch: 7bitdi|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -228,9 +229,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 535
+	- Open: 536
 	- Draft: 56
-	- Average Age: 107 days, 12 hours, and 37.64 minutes
+	- Average Age: 107 days, 9 hours, and 45.68 minutes
 	- Stop Label: 267
 	
 
