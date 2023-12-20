@@ -505,6 +505,25 @@
       }
    },
    {
+      "Number": 18721,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-07-20T12:30:32Z",
+      "Recipe": "sleef",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18721",
+      "LastCommitSHA": "0d20d5416522ecc6c02a7fc0770809b7a9ec0aa8",
+      "LastCommitAt": "2023-12-20T12:13:09Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 18739,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T15:00:01Z",
