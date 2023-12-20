@@ -4002,25 +4002,6 @@
       }
    },
    {
-      "Number": 21789,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-16T15:24:02Z",
-      "Recipe": "uwebsockets",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21789",
-      "LastCommitSHA": "801d62ee516808671ba99f7872f9c1d99d967743",
-      "LastCommitAt": "2023-12-20T00:16:44Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21791,
       "OpenedBy": "RMZeroFour",
       "CreatedAt": "2023-12-16T18:11:20Z",
