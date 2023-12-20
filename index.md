@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **164** pull requests currently under way :detective:
+There are **167** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -47,6 +47,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18642](https://github.com/conan-io/conan-center-index/pull/18642)|[valgur](https://github.com/valgur)|Jul 19|:memo: libidn2|L|1|Nov 27 :bell:||
 [#18657](https://github.com/conan-io/conan-center-index/pull/18657)|[valgur](https://github.com/valgur)|Jul 19|:memo: huffman|L|1|Nov 9 :bell:||jwillikers
 [#18720](https://github.com/conan-io/conan-center-index/pull/18720)|[valgur](https://github.com/valgur)|Jul 20|:memo: flint|L|1|Dec 19||**uilianries**
+[#18739](https://github.com/conan-io/conan-center-index/pull/18739)|[valgur](https://github.com/valgur)|Jul 20|:stopwatch: unleash-client-cpp|L|0|||
 [#18812](https://github.com/conan-io/conan-center-index/pull/18812)|[valgur](https://github.com/valgur)|Jul 22|:memo: libjxl|XL|1|Dec 13||
 [#18820](https://github.com/conan-io/conan-center-index/pull/18820)|[valgur](https://github.com/valgur)|Jul 22|:memo: pagmo2|L|0|:eyes:||
 [#18837](https://github.com/conan-io/conan-center-index/pull/18837)|[valgur](https://github.com/valgur)|Jul 22|:stopwatch: qcoro|L|0|:eyes:||
@@ -178,7 +179,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21775](https://github.com/conan-io/conan-center-index/pull/21775)|[piliugin-anton](https://github.com/piliugin-anton)|Dec 14|:stopwatch: libsrtp|:blue_square: S|0|||
 [#21776](https://github.com/conan-io/conan-center-index/pull/21776)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 14|:new: libva|L|2|Dec 18||jwillikers
 [#21781](https://github.com/conan-io/conan-center-index/pull/21781)|[gouarin](https://github.com/gouarin)|Dec 15|:stopwatch: samurai|:green_circle: XS|0|:eyes:||
-[#21783](https://github.com/conan-io/conan-center-index/pull/21783)|[igormironchik](https://github.com/igormironchik)|Dec 15|:stopwatch: md4qt|:green_circle: XS|0|:eyes:||
+[#21783](https://github.com/conan-io/conan-center-index/pull/21783)|[igormironchik](https://github.com/igormironchik)|Dec 15|:stopwatch: md4qt|:green_circle: XS|0|||
 [#21785](https://github.com/conan-io/conan-center-index/pull/21785)|[Drllap](https://github.com/Drllap)|Dec 16|:stopwatch: opencv|:blue_square: S|0|||
 [#21787](https://github.com/conan-io/conan-center-index/pull/21787)|[ivmai](https://github.com/ivmai)|Dec 16|:stopwatch: libatomic_ops|:green_circle: XS|1|Dec 18||jwillikers
 [#21788](https://github.com/conan-io/conan-center-index/pull/21788)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: fftw|:blue_square: S|1|Dec 18||[fdgStilla](https://github.com/fdgStilla)
@@ -191,6 +192,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21815](https://github.com/conan-io/conan-center-index/pull/21815)|[toge](https://github.com/toge)|Dec 19|:memo: taocpp-taopq|:blue_square: S|0|||
 [#21818](https://github.com/conan-io/conan-center-index/pull/21818)|[mayeut](https://github.com/mayeut)|Dec 19|:memo: wil|:green_circle: XS|0|||
 [#21819](https://github.com/conan-io/conan-center-index/pull/21819)|[toge](https://github.com/toge)|Dec 20|:memo: fltk|:blue_square: S|0|||
+[#21824](https://github.com/conan-io/conan-center-index/pull/21824)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 20|:stopwatch: xkbcommon|:green_circle: XS|0|||
+[#21825](https://github.com/conan-io/conan-center-index/pull/21825)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 20|:stopwatch: xkeyboard-config|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -213,10 +216,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 528
+	- Open: 530
 	- Draft: 55
-	- Average Age: 108 days, 14 hours, and 56.59 minutes
-	- Stop Label: 277
+	- Average Age: 108 days, 6 hours, and 3.81 minutes
+	- Stop Label: 276
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
