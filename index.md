@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **178** pull requests currently under way :detective:
+There are **177** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -197,8 +197,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21815](https://github.com/conan-io/conan-center-index/pull/21815)|[toge](https://github.com/toge)|Dec 19|:memo: taocpp-taopq|:blue_square: S|0|||
 [#21818](https://github.com/conan-io/conan-center-index/pull/21818)|[mayeut](https://github.com/mayeut)|Dec 19|:memo: wil|:green_circle: XS|0|||
 [#21819](https://github.com/conan-io/conan-center-index/pull/21819)|[toge](https://github.com/toge)|Dec 20|:memo: fltk|:blue_square: S|0|||
-[#21824](https://github.com/conan-io/conan-center-index/pull/21824)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 20|:stopwatch: xkbcommon|:green_circle: XS|0|||
-[#21825](https://github.com/conan-io/conan-center-index/pull/21825)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 20|:stopwatch: xkeyboard-config|:green_circle: XS|1|Dec 20||SpaceIm
+[#21825](https://github.com/conan-io/conan-center-index/pull/21825)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 20|:memo: xkeyboard-config|:green_circle: XS|1|Dec 20||SpaceIm
 [#21828](https://github.com/conan-io/conan-center-index/pull/21828)|[toge](https://github.com/toge)|Dec 20|:stopwatch: unordered_dense|:green_circle: XS|0|||
 [#21829](https://github.com/conan-io/conan-center-index/pull/21829)|[gureedo](https://github.com/gureedo)|Dec 20|:stopwatch: libxml2|:green_circle: XS|0|||
 [#21831](https://github.com/conan-io/conan-center-index/pull/21831)|[cbaecker](https://github.com/cbaecker)|Dec 20|:stopwatch: json-schema-validator|:green_circle: XS|0|||
@@ -229,7 +228,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 535
 	- Draft: 57
-	- Average Age: 107 days, 15 hours, and 41.02 minutes
+	- Average Age: 107 days, 16 hours, and 42.10 minutes
 	- Stop Label: 267
 	
 
