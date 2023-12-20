@@ -4475,5 +4475,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21835,
+      "OpenedBy": "7bitcoder",
+      "CreatedAt": "2023-12-20T19:24:33Z",
+      "Recipe": "7bitdi",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21835",
+      "LastCommitSHA": "820590355abb2093b49b918031a9903cff1317bf",
+      "LastCommitAt": "2023-12-20T19:22:55Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
