@@ -3798,9 +3798,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21772",
-      "LastCommitSHA": "1411854152ccc0a0663652285351230fd614c3c1",
-      "LastCommitAt": "2023-12-06T19:34:15Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "ca75e1f9e9982172547b2d1f81c368f6bc3272a8",
+      "LastCommitAt": "2023-12-20T08:36:34Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 2,
          "ValidApprovals": 2,
@@ -4149,25 +4149,6 @@
       "LastCommitSHA": "908940e5f5e08fdb730bb8b906ad36528443de9c",
       "LastCommitAt": "2023-12-20T01:51:33Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21821,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-12-20T07:17:33Z",
-      "Recipe": "xkbcommon",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21821",
-      "LastCommitSHA": "6d0eb6fd98bf0938bc34bca7ff48a31ad1a031a6",
-      "LastCommitAt": "2023-12-20T07:17:03Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
