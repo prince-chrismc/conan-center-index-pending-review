@@ -189,6 +189,30 @@
       }
    },
    {
+      "Number": 18338,
+      "OpenedBy": "jmarrec",
+      "CreatedAt": "2023-07-05T14:53:02Z",
+      "Recipe": "ruby",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18338",
+      "LastCommitSHA": "0c364567012336cb6eb9b94ef7506361e970830d",
+      "LastCommitAt": "2023-12-21T08:54:35Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 9,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "samuel-emrys",
+            "SubmittedAt": "2023-12-20T17:04:29Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/18338#pullrequestreview-1791294894"
+         }
+      }
+   },
+   {
       "Number": 18367,
       "OpenedBy": "gegles",
       "CreatedAt": "2023-07-06T00:50:52Z",
@@ -476,25 +500,6 @@
       }
    },
    {
-      "Number": 18715,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T10:50:59Z",
-      "Recipe": "scc",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18715",
-      "LastCommitSHA": "9eab710718cc77c304d1029c1199fe5a7e10169b",
-      "LastCommitAt": "2023-12-21T08:05:09Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18720,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T12:28:42Z",
@@ -524,25 +529,6 @@
       }
    },
    {
-      "Number": 18721,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-07-20T12:30:32Z",
-      "Recipe": "sleef",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18721",
-      "LastCommitSHA": "d1ad0e1f610dab89163e2eb8cd76d7da76ecf653",
-      "LastCommitAt": "2023-12-21T08:05:25Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 18739,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-07-20T15:00:01Z",
@@ -552,7 +538,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18739",
       "LastCommitSHA": "37cf24a871265f5a75d393e8cb106256f73dfe80",
       "LastCommitAt": "2023-12-21T08:06:21Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -828,7 +814,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/18903",
       "LastCommitSHA": "d35586a9f7c41ec66bc265ee696bde39e29a5609",
       "LastCommitAt": "2023-12-21T08:04:47Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -2473,7 +2459,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20851",
       "LastCommitSHA": "53b9985366ea85dab45fdd276b29c5cbdd817f5f",
       "LastCommitAt": "2023-12-14T16:59:38Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 5,
          "ValidApprovals": 0,
@@ -2732,25 +2718,6 @@
             "SubmittedAt": "2023-11-14T13:28:15Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21112#pullrequestreview-1729730629"
          }
-      }
-   },
-   {
-      "Number": 21135,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-11-14T16:12:31Z",
-      "Recipe": "poppler",
-      "Change": 1,
-      "Weight": 4,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21135",
-      "LastCommitSHA": "a67201b44eb26ec4596d1127e815929d6b1afec7",
-      "LastCommitAt": "2023-12-21T08:05:00Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    },
    {
@@ -3153,8 +3120,8 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21332",
-      "LastCommitSHA": "36acaa76a28fad612b886af60f19e0c390066be3",
-      "LastCommitAt": "2023-12-20T21:40:39Z",
+      "LastCommitSHA": "895f9eeb897f8209bd2ed847c7a1e46928067247",
+      "LastCommitAt": "2023-12-21T08:45:13Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 3,
@@ -4037,20 +4004,24 @@
       "LastCommitAt": "2023-12-16T11:53:36Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": false,
+         "Count": 2,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "uilianries",
+               "Tier": "team"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-12-18T13:58:19Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21787#pullrequestreview-1786949265"
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-12-21T09:13:16Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21787#pullrequestreview-1792540961"
          }
       }
    },
@@ -4291,8 +4262,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21828",
-      "LastCommitSHA": "03db5d520444933ecc51b1a905febd08dbf22661",
-      "LastCommitAt": "2023-12-20T13:02:00Z",
+      "LastCommitSHA": "c2ed89f8c8f2b0fc164c8260dd46e0d0ec190bff",
+      "LastCommitAt": "2023-12-21T08:37:39Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
