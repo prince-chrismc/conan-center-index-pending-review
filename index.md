@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **170** pull requests currently under way :detective:
+There are **174** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -160,7 +160,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21657](https://github.com/conan-io/conan-center-index/pull/21657)|[toge](https://github.com/toge)|Dec 6|:memo: asmjit|:green_circle: XS|0|:eyes:||
 [#21664](https://github.com/conan-io/conan-center-index/pull/21664)|[valgur](https://github.com/valgur)|Dec 6|:stopwatch: sundials|M|0|||
 [#21669](https://github.com/conan-io/conan-center-index/pull/21669)|[valgur](https://github.com/valgur)|Dec 6|:memo: arrow|L|0|||
-[#21679](https://github.com/conan-io/conan-center-index/pull/21679)|[toge](https://github.com/toge)|Dec 7|:memo: hwdata|:green_circle: XS|0|||
+[#21679](https://github.com/conan-io/conan-center-index/pull/21679)|[toge](https://github.com/toge)|Dec 7|:memo: hwdata|:green_circle: XS|0|:eyes:||
 [#21686](https://github.com/conan-io/conan-center-index/pull/21686)|[gjasny](https://github.com/gjasny)|Dec 8|:memo: rapidcheck|:green_circle: XS|0|:eyes:||
 [#21695](https://github.com/conan-io/conan-center-index/pull/21695)|[toge](https://github.com/toge)|Dec 9|:memo: quickjs|M|0|||
 [#21708](https://github.com/conan-io/conan-center-index/pull/21708)|[jmalopoy](https://github.com/jmalopoy)|Dec 11|:memo: openssl|:green_circle: XS|4|Dec 13||
@@ -195,18 +195,21 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21834](https://github.com/conan-io/conan-center-index/pull/21834)|[toge](https://github.com/toge)|Dec 20|:memo: commata|M|0|||
 [#21841](https://github.com/conan-io/conan-center-index/pull/21841)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 21|:gear: .c3i|:green_circle: XS|0|||
 [#21843](https://github.com/conan-io/conan-center-index/pull/21843)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 21|:stopwatch: qt|M|0|||
-[#21844](https://github.com/conan-io/conan-center-index/pull/21844)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 21|:stopwatch: bdwgc|:green_circle: XS|0|||
 [#21847](https://github.com/conan-io/conan-center-index/pull/21847)|[igormironchik](https://github.com/igormironchik)|Dec 21|:stopwatch: md4qt|:green_circle: XS|0|||
+[#21849](https://github.com/conan-io/conan-center-index/pull/21849)|[valgur](https://github.com/valgur)|Dec 21|:stopwatch: 7bitdi|:green_circle: XS|0|||
+[#21850](https://github.com/conan-io/conan-center-index/pull/21850)|[valgur](https://github.com/valgur)|Dec 21|:stopwatch: lightgbm|:green_circle: XS|0|||
+[#21851](https://github.com/conan-io/conan-center-index/pull/21851)|[valgur](https://github.com/valgur)|Dec 21|:stopwatch: libde265|:green_circle: XS|0|||
+[#21852](https://github.com/conan-io/conan-center-index/pull/21852)|[valgur](https://github.com/valgur)|Dec 21|:stopwatch: ittapi|:blue_square: S|0|||
+[#21853](https://github.com/conan-io/conan-center-index/pull/21853)|[valgur](https://github.com/valgur)|Dec 21|:stopwatch: ls-qpack|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **5** pull requests are waiting to be merged :tada:
+Currently **4** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
 :---: | --- | --- | --- | :---: | ---
-[#16901](https://github.com/conan-io/conan-center-index/pull/16901)|[jcar87](https://github.com/jcar87)|Apr 5|:memo: vulkan-headers|5|**memsharded**, **RubenRBS**
 [#18823](https://github.com/conan-io/conan-center-index/pull/18823)|[valgur](https://github.com/valgur)|Jul 22|:warning: redradist-icc|2|**uilianries**, jwillikers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
@@ -219,9 +222,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 531
+	- Open: 535
 	- Draft: 54
-	- Average Age: 108 days, 20 hours, and 45.90 minutes
+	- Average Age: 107 days, 15 hours, and 29.00 minutes
 	- Stop Label: 275
 	
 
