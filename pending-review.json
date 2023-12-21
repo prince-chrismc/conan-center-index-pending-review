@@ -50,6 +50,39 @@
       }
    },
    {
+      "Number": 16901,
+      "OpenedBy": "jcar87",
+      "CreatedAt": "2023-04-05T13:06:16Z",
+      "Recipe": "vulkan-headers",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/16901",
+      "LastCommitSHA": "35847446f37e17d1a79c3c1bbbf10fb3d7fbfe70",
+      "LastCommitAt": "2023-12-21T13:03:36Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 5,
+         "ValidApprovals": 2,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "memsharded",
+               "Tier": "team"
+            },
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2023-12-21T16:08:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/16901#pullrequestreview-1793270834"
+         }
+      }
+   },
+   {
       "Number": 17032,
       "OpenedBy": "datalogics-kam",
       "CreatedAt": "2023-04-14T16:10:54Z",
@@ -4185,6 +4218,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21844",
       "LastCommitSHA": "c4c6b0edc9d0742fc270b927bff27de873d6c271",
       "LastCommitAt": "2023-12-21T10:16:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21847,
+      "OpenedBy": "igormironchik",
+      "CreatedAt": "2023-12-21T16:02:59Z",
+      "Recipe": "md4qt",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21847",
+      "LastCommitSHA": "f883e47e21dced5aa9dc629e9118e2eb0e671754",
+      "LastCommitAt": "2023-12-21T16:01:42Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
