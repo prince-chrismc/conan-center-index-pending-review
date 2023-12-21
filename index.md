@@ -194,7 +194,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21833](https://github.com/conan-io/conan-center-index/pull/21833)|[gureedo](https://github.com/gureedo)|Dec 20|:stopwatch: xmlsec|:blue_square: S|0|||
 [#21834](https://github.com/conan-io/conan-center-index/pull/21834)|[toge](https://github.com/toge)|Dec 20|:memo: commata|M|0|||
 [#21841](https://github.com/conan-io/conan-center-index/pull/21841)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 21|:gear: .c3i|:green_circle: XS|0|||
-[#21843](https://github.com/conan-io/conan-center-index/pull/21843)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 21|:stopwatch: qt|:green_circle: XS|0|||
+[#21843](https://github.com/conan-io/conan-center-index/pull/21843)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 21|:stopwatch: qt|M|0|||
 [#21844](https://github.com/conan-io/conan-center-index/pull/21844)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 21|:stopwatch: bdwgc|:green_circle: XS|0|||
 [#21847](https://github.com/conan-io/conan-center-index/pull/21847)|[igormironchik](https://github.com/igormironchik)|Dec 21|:stopwatch: md4qt|:green_circle: XS|0|||
 
@@ -221,7 +221,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 531
 	- Draft: 54
-	- Average Age: 108 days, 19 hours, and 49.08 minutes
+	- Average Age: 108 days, 20 hours, and 45.90 minutes
 	- Stop Label: 275
 	
 
