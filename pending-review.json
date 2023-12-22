@@ -4191,25 +4191,6 @@
       }
    },
    {
-      "Number": 21835,
-      "OpenedBy": "7bitcoder",
-      "CreatedAt": "2023-12-20T19:24:33Z",
-      "Recipe": "7bitdi",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21835",
-      "LastCommitSHA": "6cfe423c2633ee2e60c2b4f6f42baf8b16594235",
-      "LastCommitAt": "2023-12-21T14:04:11Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21841,
       "OpenedBy": "conan-center-bot",
       "CreatedAt": "2023-12-21T11:21:17Z",
@@ -4219,25 +4200,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21841",
       "LastCommitSHA": "9f9a3dc4b28d08b39cd55fa8dbc3480627a4c6ab",
       "LastCommitAt": "2023-12-21T11:21:14Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21843,
-      "OpenedBy": "ericLemanissier",
-      "CreatedAt": "2023-12-21T12:00:56Z",
-      "Recipe": "qt",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21843",
-      "LastCommitSHA": "608e4b44dab1b0b2034a98d4167b08fadab32ce2",
-      "LastCommitAt": "2023-12-21T17:12:02Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
