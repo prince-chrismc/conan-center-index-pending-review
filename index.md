@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **176** pull requests currently under way :detective:
+There are **175** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -199,7 +199,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21835](https://github.com/conan-io/conan-center-index/pull/21835)|[7bitcoder](https://github.com/7bitcoder)|Dec 20|:memo: 7bitdi|:blue_square: S|0|||
 [#21841](https://github.com/conan-io/conan-center-index/pull/21841)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 21|:gear: .c3i|:green_circle: XS|0|||
 [#21843](https://github.com/conan-io/conan-center-index/pull/21843)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 21|:stopwatch: qt|M|0|||
-[#21850](https://github.com/conan-io/conan-center-index/pull/21850)|[valgur](https://github.com/valgur)|Dec 21|:stopwatch: lightgbm|:green_circle: XS|0|||
 [#21852](https://github.com/conan-io/conan-center-index/pull/21852)|[valgur](https://github.com/valgur)|Dec 21|:memo: ittapi|:blue_square: S|0|||
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|0|||
 [#21860](https://github.com/conan-io/conan-center-index/pull/21860)|[valgur](https://github.com/valgur)|Dec 21|:memo: whisper-cpp|M|0|||
@@ -224,9 +223,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 542
+	- Open: 539
 	- Draft: 54
-	- Average Age: 106 days, 11 hours, and 13.17 minutes
+	- Average Age: 107 days, 1 hours, and 54.12 minutes
 	- Stop Label: 276
 	
 
