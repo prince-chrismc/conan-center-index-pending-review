@@ -4267,25 +4267,6 @@
       }
    },
    {
-      "Number": 21850,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-21T18:47:17Z",
-      "Recipe": "lightgbm",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21850",
-      "LastCommitSHA": "691a1836622ff0e940e8bf1f3f4cac715e559280",
-      "LastCommitAt": "2023-12-21T18:47:02Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21852,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-21T18:58:29Z",
