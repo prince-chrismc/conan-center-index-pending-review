@@ -197,7 +197,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21834](https://github.com/conan-io/conan-center-index/pull/21834)|[toge](https://github.com/toge)|Dec 20|:memo: commata|M|0|||
 [#21835](https://github.com/conan-io/conan-center-index/pull/21835)|[7bitcoder](https://github.com/7bitcoder)|Dec 20|:memo: 7bitdi|:blue_square: S|0|||
 [#21841](https://github.com/conan-io/conan-center-index/pull/21841)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 21|:gear: .c3i|:green_circle: XS|0|||
-[#21843](https://github.com/conan-io/conan-center-index/pull/21843)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 21|:stopwatch: qt|M|0|||
+[#21843](https://github.com/conan-io/conan-center-index/pull/21843)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 21|:memo: qt|M|0|||
 [#21852](https://github.com/conan-io/conan-center-index/pull/21852)|[valgur](https://github.com/valgur)|Dec 21|:memo: ittapi|:blue_square: S|0|||
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|0|||
 [#21860](https://github.com/conan-io/conan-center-index/pull/21860)|[valgur](https://github.com/valgur)|Dec 21|:memo: whisper-cpp|M|0|||
@@ -224,7 +224,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 535
 	- Draft: 54
-	- Average Age: 107 days, 23 hours, and 50.13 minutes
+	- Average Age: 108 days, 3 hours, and 50.14 minutes
 	- Stop Label: 276
 	
 
