@@ -34,7 +34,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#17609](https://github.com/conan-io/conan-center-index/pull/17609)|[swebb2066](https://github.com/swebb2066)|May 18|:stopwatch: apr|L|0|:eyes:||
 [#17841](https://github.com/conan-io/conan-center-index/pull/17841)|[Jihadist](https://github.com/Jihadist)|Jun 6|:new: limereport|M|0|:eyes:||
 [#18016](https://github.com/conan-io/conan-center-index/pull/18016)|[uilianries](https://github.com/uilianries)|Jun 22|:new: intel-ipsec-mb|M|1|Sep 18 :bell:||jwillikers
-[#18079](https://github.com/conan-io/conan-center-index/pull/18079)|[lieser](https://github.com/lieser)|Jun 27|:stopwatch: botan|XL|23|Nov 14 :bell:||
+[#18079](https://github.com/conan-io/conan-center-index/pull/18079)|[lieser](https://github.com/lieser)|Jun 27|:memo: botan|XL|23|Nov 14 :bell:||
 [#18367](https://github.com/conan-io/conan-center-index/pull/18367)|[gegles](https://github.com/gegles)|Jul 6|:memo: openssl|:blue_square: S|1|Jul 6 :bell:||
 [#18421](https://github.com/conan-io/conan-center-index/pull/18421)|[psyinf](https://github.com/psyinf)|Jul 8|:stopwatch: vsgxchange|M|0|:eyes:||
 [#18458](https://github.com/conan-io/conan-center-index/pull/18458)|[toge](https://github.com/toge)|Jul 10|:stopwatch: libgit2|L|5|Oct 31 :bell:||jwillikers
@@ -188,7 +188,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21798](https://github.com/conan-io/conan-center-index/pull/21798)|[nfrechette](https://github.com/nfrechette)|Dec 17|:stopwatch: nfrechette-acl|:blue_square: S|0|:eyes:||
 [#21803](https://github.com/conan-io/conan-center-index/pull/21803)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 18|:memo: hazelcast-cpp-client|:blue_square: S|0|:eyes:||
 [#21815](https://github.com/conan-io/conan-center-index/pull/21815)|[toge](https://github.com/toge)|Dec 19|:memo: taocpp-taopq|:blue_square: S|0|||
-[#21818](https://github.com/conan-io/conan-center-index/pull/21818)|[mayeut](https://github.com/mayeut)|Dec 19|:memo: wil|:green_circle: XS|0|||
+[#21818](https://github.com/conan-io/conan-center-index/pull/21818)|[mayeut](https://github.com/mayeut)|Dec 19|:memo: wil|:green_circle: XS|0|:eyes:||
 [#21819](https://github.com/conan-io/conan-center-index/pull/21819)|[toge](https://github.com/toge)|Dec 20|:memo: fltk|:blue_square: S|0|||
 [#21825](https://github.com/conan-io/conan-center-index/pull/21825)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 20|:memo: xkeyboard-config|:green_circle: XS|1|Dec 20||SpaceIm
 [#21829](https://github.com/conan-io/conan-center-index/pull/21829)|[gureedo](https://github.com/gureedo)|Dec 20|:stopwatch: libxml2|:green_circle: XS|0|||
@@ -225,7 +225,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 536
 	- Draft: 54
-	- Average Age: 108 days, 8 hours, and 51.38 minutes
+	- Average Age: 108 days, 9 hours, and 54.98 minutes
 	- Stop Label: 276
 	
 
