@@ -4274,24 +4274,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 21880,
-      "OpenedBy": "grafikrobot",
-      "CreatedAt": "2023-12-23T20:13:46Z",
-      "Recipe": "b2",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21880",
-      "LastCommitSHA": "c8cdeff81f02feeaa574cfc6fb306d6c4075a40a",
-      "LastCommitAt": "2023-12-23T20:11:51Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
