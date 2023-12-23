@@ -4163,15 +4163,20 @@
       "LastCommitAt": "2023-12-22T12:15:44Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 0,
+         "Count": 2,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
+         "Approvals": [
+            {
+               "Name": "MartinDelille",
+               "Tier": "community"
+            }
+         ],
          "Blockers": null,
          "LastReview": {
             "ReviewerName": "MartinDelille",
-            "SubmittedAt": "2023-12-22T10:23:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21843#pullrequestreview-1794281006"
+            "SubmittedAt": "2023-12-23T15:45:26Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21843#pullrequestreview-1795449638"
          }
       }
    },
@@ -4271,15 +4276,15 @@
       }
    },
    {
-      "Number": 21878,
-      "OpenedBy": "robomics",
-      "CreatedAt": "2023-12-23T14:51:59Z",
-      "Recipe": "hictk",
+      "Number": 21879,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-23T15:57:02Z",
+      "Recipe": "poco",
       "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21878",
-      "LastCommitSHA": "27e2d7c5c1222a8742e519cdfb73b4ff56c8c425",
-      "LastCommitAt": "2023-12-23T14:51:03Z",
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21879",
+      "LastCommitSHA": "66d7fd21da258eea39cb2e5c822c8c17c452c354",
+      "LastCommitAt": "2023-12-23T15:56:23Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
