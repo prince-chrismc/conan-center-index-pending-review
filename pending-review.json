@@ -3321,6 +3321,25 @@
       }
    },
    {
+      "Number": 21530,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-01T09:31:31Z",
+      "Recipe": "c-ares",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21530",
+      "LastCommitSHA": "27e37b0cd2e9c8c5cf4f7ae35ba3af75dca4cafb",
+      "LastCommitAt": "2023-12-23T12:34:56Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 21575,
       "OpenedBy": "ngrodzitski",
       "CreatedAt": "2023-12-03T19:07:24Z",
@@ -4243,6 +4262,25 @@
       "LastCommitSHA": "62e3c94aa365f40f796d8e194fd4c82b54fbf759",
       "LastCommitAt": "2023-12-23T12:32:50Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21878,
+      "OpenedBy": "robomics",
+      "CreatedAt": "2023-12-23T14:51:59Z",
+      "Recipe": "hictk",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21878",
+      "LastCommitSHA": "27e2d7c5c1222a8742e519cdfb73b4ff56c8c425",
+      "LastCommitAt": "2023-12-23T14:51:03Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
