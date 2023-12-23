@@ -200,7 +200,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **7** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -210,8 +210,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#21834](https://github.com/conan-io/conan-center-index/pull/21834)|[toge](https://github.com/toge)|Dec 20|:memo: commata|2|**RubenRBS**, ericLemanissier
-[#21852](https://github.com/conan-io/conan-center-index/pull/21852)|[valgur](https://github.com/valgur)|Dec 21|:memo: ittapi|2|**RubenRBS**, ericLemanissier
 
 
 #### :clipboard: Statistics
@@ -220,9 +218,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 533
+	- Open: 531
 	- Draft: 54
-	- Average Age: 109 days, 13 hours, and 7.80 minutes
+	- Average Age: 109 days, 23 hours, and 36.86 minutes
 	- Stop Label: 276
 	
 
