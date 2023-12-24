@@ -3740,7 +3740,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21748",
       "LastCommitSHA": "a0a970298a1a86b0eb68dc69f7fa87c1c8cf8426",
       "LastCommitAt": "2023-12-24T14:54:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4324,6 +4324,44 @@
       "LastCommitSHA": "40f1cdcda5f6bfd5c6089a80881b43fc16fa4050",
       "LastCommitAt": "2023-12-24T10:34:58Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21887,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-24T15:26:56Z",
+      "Recipe": "libavif",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21887",
+      "LastCommitSHA": "7258e6379b1c32f1b9468805a57ca5acd16c5430",
+      "LastCommitAt": "2023-12-24T15:26:25Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21888,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-24T15:55:36Z",
+      "Recipe": "commata",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21888",
+      "LastCommitSHA": "a62aa6f41a977cd53042689ec5f9476174585a78",
+      "LastCommitAt": "2023-12-24T15:53:45Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
