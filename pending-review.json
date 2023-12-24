@@ -3738,9 +3738,9 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21748",
-      "LastCommitSHA": "d50deb1118de0fce5210a5924188fe28d50120cc",
-      "LastCommitAt": "2023-12-24T10:25:24Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "a0a970298a1a86b0eb68dc69f7fa87c1c8cf8426",
+      "LastCommitAt": "2023-12-24T14:54:33Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4285,6 +4285,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21876",
       "LastCommitSHA": "62e3c94aa365f40f796d8e194fd4c82b54fbf759",
       "LastCommitAt": "2023-12-23T12:32:50Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21883,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-24T03:13:32Z",
+      "Recipe": "lunasvg",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21883",
+      "LastCommitSHA": "710574f94eddb84b243d2e4d1e441fa11f12b821",
+      "LastCommitAt": "2023-12-24T13:47:50Z",
       "CciBotPassed": true,
       "Summary": {
          "Count": 0,
