@@ -4312,24 +4312,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 21886,
-      "OpenedBy": "Sneder89",
-      "CreatedAt": "2023-12-24T12:38:21Z",
-      "Recipe": "cppcheck",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21886",
-      "LastCommitSHA": "f3f96714363e1bbbdaf4b2b6d94bece055114047",
-      "LastCommitAt": "2023-12-24T12:37:28Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
