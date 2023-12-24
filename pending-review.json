@@ -4293,43 +4293,5 @@
          "Approvals": null,
          "Blockers": null
       }
-   },
-   {
-      "Number": 21882,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-24T02:47:37Z",
-      "Recipe": "commata",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21882",
-      "LastCommitSHA": "47e05e329ae0ad1d72897f60ebaaadf4f5ff4dea",
-      "LastCommitAt": "2023-12-24T02:47:12Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21883,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-24T03:13:32Z",
-      "Recipe": "lunasvg",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21883",
-      "LastCommitSHA": "7aa0b917b39fd4f917a7c847b12f2c2eec3c45b0",
-      "LastCommitAt": "2023-12-24T03:12:22Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
    }
 ]
