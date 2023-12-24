@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **174** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -199,8 +199,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21873](https://github.com/conan-io/conan-center-index/pull/21873)|[OrianeGourdyStilla](https://github.com/OrianeGourdyStilla)|Dec 22|:memo: restinio|:green_circle: XS|0|||
 [#21876](https://github.com/conan-io/conan-center-index/pull/21876)|[i-curve](https://github.com/i-curve)|Dec 23|:new: copypp|M|0|||
 [#21881](https://github.com/conan-io/conan-center-index/pull/21881)|[mayeut](https://github.com/mayeut)|Dec 24|:stopwatch: onnxruntime|:green_circle: XS|0|||
-[#21882](https://github.com/conan-io/conan-center-index/pull/21882)|[toge](https://github.com/toge)|Dec 24|:stopwatch: commata|:green_circle: XS|0|||
-[#21883](https://github.com/conan-io/conan-center-index/pull/21883)|[toge](https://github.com/toge)|Dec 24|:memo: lunasvg|M|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -225,8 +223,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 538
 	- Draft: 55
-	- Average Age: 109 days, 6 hours, and 9.77 minutes
-	- Stop Label: 277
+	- Average Age: 109 days, 7 hours, and 11.01 minutes
+	- Stop Label: 279
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
