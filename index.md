@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -212,8 +212,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21897](https://github.com/conan-io/conan-center-index/pull/21897)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: aravis|:green_circle: XS|0|||
 [#21898](https://github.com/conan-io/conan-center-index/pull/21898)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: libgphoto2|:green_circle: XS|0|||
 [#21899](https://github.com/conan-io/conan-center-index/pull/21899)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: libnghttp2|:green_circle: XS|0|||
-[#21900](https://github.com/conan-io/conan-center-index/pull/21900)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: hwloc|:green_circle: XS|0|||
-[#21901](https://github.com/conan-io/conan-center-index/pull/21901)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: libmetalink|:green_circle: XS|0|||
 [#21902](https://github.com/conan-io/conan-center-index/pull/21902)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: norm|:green_circle: XS|0|||
 
 
@@ -239,8 +237,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 550
 	- Draft: 56
-	- Average Age: 108 days, 11 hours, and 6.20 minutes
-	- Stop Label: 273
+	- Average Age: 108 days, 12 hours, and 1.85 minutes
+	- Stop Label: 275
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
