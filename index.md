@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **179** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -198,6 +198,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21853](https://github.com/conan-io/conan-center-index/pull/21853)|[valgur](https://github.com/valgur)|Dec 21|:memo: ls-qpack|M|0|||
 [#21855](https://github.com/conan-io/conan-center-index/pull/21855)|[valgur](https://github.com/valgur)|Dec 21|:memo: aeron|:blue_square: S|0|:eyes:||
 [#21860](https://github.com/conan-io/conan-center-index/pull/21860)|[valgur](https://github.com/valgur)|Dec 21|:memo: whisper-cpp|M|0|:eyes:||
+[#21861](https://github.com/conan-io/conan-center-index/pull/21861)|[valgur](https://github.com/valgur)|Dec 21|:memo: outcome|:blue_square: S|0|||
+[#21862](https://github.com/conan-io/conan-center-index/pull/21862)|[valgur](https://github.com/valgur)|Dec 21|:memo: vcglib|:blue_square: S|0|||
 [#21869](https://github.com/conan-io/conan-center-index/pull/21869)|[Mi-La](https://github.com/Mi-La)|Dec 22|:stopwatch: zserio|M|0|:eyes:||
 [#21873](https://github.com/conan-io/conan-center-index/pull/21873)|[OrianeGourdyStilla](https://github.com/OrianeGourdyStilla)|Dec 22|:memo: restinio|:green_circle: XS|0|:eyes:||
 [#21876](https://github.com/conan-io/conan-center-index/pull/21876)|[i-curve](https://github.com/i-curve)|Dec 23|:new: copypp|M|0|||
@@ -206,6 +208,13 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21888](https://github.com/conan-io/conan-center-index/pull/21888)|[toge](https://github.com/toge)|Dec 24|:memo: commata|:blue_square: S|0|||
 [#21890](https://github.com/conan-io/conan-center-index/pull/21890)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 25|:gear: .c3i|:green_circle: XS|0|||
 [#21894](https://github.com/conan-io/conan-center-index/pull/21894)|[toge](https://github.com/toge)|Dec 25|:stopwatch: shapelib|M|0|||
+[#21896](https://github.com/conan-io/conan-center-index/pull/21896)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: libxslt|:green_circle: XS|0|||
+[#21897](https://github.com/conan-io/conan-center-index/pull/21897)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: aravis|:green_circle: XS|0|||
+[#21898](https://github.com/conan-io/conan-center-index/pull/21898)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: libgphoto2|:green_circle: XS|0|||
+[#21899](https://github.com/conan-io/conan-center-index/pull/21899)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: libnghttp2|:green_circle: XS|0|||
+[#21900](https://github.com/conan-io/conan-center-index/pull/21900)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: hwloc|:green_circle: XS|0|||
+[#21901](https://github.com/conan-io/conan-center-index/pull/21901)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: libmetalink|:green_circle: XS|0|||
+[#21902](https://github.com/conan-io/conan-center-index/pull/21902)|[mayeut](https://github.com/mayeut)|Dec 25|:stopwatch: norm|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -228,10 +237,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 544
+	- Open: 550
 	- Draft: 56
-	- Average Age: 109 days, 14 hours, and 55.05 minutes
-	- Stop Label: 276
+	- Average Age: 108 days, 11 hours, and 6.20 minutes
+	- Stop Label: 273
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
