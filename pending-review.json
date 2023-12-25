@@ -2236,9 +2236,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20619",
-      "LastCommitSHA": "698177868cc8b9183689020e96d20ed9bf055c19",
-      "LastCommitAt": "2023-12-15T09:01:27Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "2487eef717b70d828443c321fc3ef5dda1d7415e",
+      "LastCommitAt": "2023-12-25T14:11:03Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4362,25 +4362,6 @@
       "LastCommitSHA": "73b9adddd7d2e6d2e03f380645283ee3067e172d",
       "LastCommitAt": "2023-12-25T11:22:20Z",
       "CciBotPassed": true,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21891,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-12-25T11:32:35Z",
-      "Recipe": "libxslt",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21891",
-      "LastCommitSHA": "ef5c7ccca120cce6470cc906abd294eb04e83eec",
-      "LastCommitAt": "2023-12-25T11:31:01Z",
-      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
