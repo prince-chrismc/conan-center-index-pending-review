@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **197** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -212,9 +212,18 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21890](https://github.com/conan-io/conan-center-index/pull/21890)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 25|:gear: .c3i|:green_circle: XS|0|||
 [#21894](https://github.com/conan-io/conan-center-index/pull/21894)|[toge](https://github.com/toge)|Dec 25|:stopwatch: shapelib|M|0|||
 [#21896](https://github.com/conan-io/conan-center-index/pull/21896)|[mayeut](https://github.com/mayeut)|Dec 25|:memo: libxslt|:green_circle: XS|0|||
-[#21906](https://github.com/conan-io/conan-center-index/pull/21906)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: nettle|:green_circle: XS|0|||
-[#21907](https://github.com/conan-io/conan-center-index/pull/21907)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: ode|:blue_square: S|0|||
-[#21910](https://github.com/conan-io/conan-center-index/pull/21910)|[valgur](https://github.com/valgur)|Dec 26|:memo: mariadb-connector-c|L|0|||
+[#21904](https://github.com/conan-io/conan-center-index/pull/21904)|[valgur](https://github.com/valgur)|Dec 25|:memo: log4cplus|L|0|||
+[#21907](https://github.com/conan-io/conan-center-index/pull/21907)|[valgur](https://github.com/valgur)|Dec 26|:memo: ode|:blue_square: S|0|||
+[#21912](https://github.com/conan-io/conan-center-index/pull/21912)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: microprofile|M|0|||
+[#21913](https://github.com/conan-io/conan-center-index/pull/21913)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: drflac|:green_circle: XS|0|||
+[#21914](https://github.com/conan-io/conan-center-index/pull/21914)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: drmp3|:blue_square: S|0|||
+[#21915](https://github.com/conan-io/conan-center-index/pull/21915)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: drwav|:blue_square: S|0|||
+[#21916](https://github.com/conan-io/conan-center-index/pull/21916)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: sbp|:blue_square: S|0|||
+[#21917](https://github.com/conan-io/conan-center-index/pull/21917)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: ensmallen|:blue_square: S|0|||
+[#21918](https://github.com/conan-io/conan-center-index/pull/21918)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: extra-cmake-modules|:green_circle: XS|0|||
+[#21919](https://github.com/conan-io/conan-center-index/pull/21919)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: calceph|:green_circle: XS|0|||
+[#21920](https://github.com/conan-io/conan-center-index/pull/21920)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: cfitsio|:green_circle: XS|0|||
+[#21921](https://github.com/conan-io/conan-center-index/pull/21921)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: cista|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -237,10 +246,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 553
+	- Open: 562
 	- Draft: 56
-	- Average Age: 108 days, 3 hours, and 35.13 minutes
-	- Stop Label: 275
+	- Average Age: 106 days, 10 hours, and 56.45 minutes
+	- Stop Label: 276
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
