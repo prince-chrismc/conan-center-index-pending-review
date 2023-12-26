@@ -934,25 +934,6 @@
       }
    },
    {
-      "Number": 19070,
-      "OpenedBy": "Tradias",
-      "CreatedAt": "2023-08-06T14:50:33Z",
-      "Recipe": "asio-grpc",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/19070",
-      "LastCommitSHA": "d88910f0c51d60c27fc94db679160e229eadccec",
-      "LastCommitAt": "2023-08-06T14:38:50Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 19074,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-08-06T18:35:07Z",
@@ -4409,44 +4390,6 @@
             "SubmittedAt": "2023-12-26T16:20:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21942#pullrequestreview-1796463901"
          }
-      }
-   },
-   {
-      "Number": 21948,
-      "OpenedBy": "Tradias",
-      "CreatedAt": "2023-12-26T17:16:25Z",
-      "Recipe": "asio-grpc",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21948",
-      "LastCommitSHA": "2fdf7db2d7d47f441a8a5519f2634da0a5c0b5f2",
-      "LastCommitAt": "2023-12-26T17:05:58Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 21951,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-26T18:01:50Z",
-      "Recipe": "libpq",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21951",
-      "LastCommitSHA": "95ea4e2778eb2dbcbb289ef02fb304319dcce86d",
-      "LastCommitAt": "2023-12-26T18:01:25Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
       }
    }
 ]
