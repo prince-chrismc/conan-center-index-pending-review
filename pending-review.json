@@ -2728,9 +2728,9 @@
       "Change": 1,
       "Weight": 2,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21239",
-      "LastCommitSHA": "4137fa804763016ac9ab19e705d9cd38d2d83026",
-      "LastCommitAt": "2023-12-21T00:28:51Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "9905a4bfc948af2fb68faf856d3e15fe423f51d7",
+      "LastCommitAt": "2023-12-26T20:05:46Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 4,
          "ValidApprovals": 1,
@@ -4390,6 +4390,25 @@
             "SubmittedAt": "2023-12-26T16:20:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21942#pullrequestreview-1796463901"
          }
+      }
+   },
+   {
+      "Number": 21954,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-26T19:21:30Z",
+      "Recipe": "libsigcpp",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21954",
+      "LastCommitSHA": "77b58eb775678d4fe0e96d408b2fe6286c383537",
+      "LastCommitAt": "2023-12-26T19:21:19Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
