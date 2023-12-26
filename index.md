@@ -214,7 +214,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21896](https://github.com/conan-io/conan-center-index/pull/21896)|[mayeut](https://github.com/mayeut)|Dec 25|:memo: libxslt|:green_circle: XS|0|||
 [#21906](https://github.com/conan-io/conan-center-index/pull/21906)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: nettle|:green_circle: XS|0|||
 [#21907](https://github.com/conan-io/conan-center-index/pull/21907)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: ode|:blue_square: S|0|||
-[#21908](https://github.com/conan-io/conan-center-index/pull/21908)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: linux-syscall-support|:green_circle: XS|0|||
+[#21910](https://github.com/conan-io/conan-center-index/pull/21910)|[valgur](https://github.com/valgur)|Dec 26|:memo: mariadb-connector-c|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -237,9 +237,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 552
+	- Open: 553
 	- Draft: 56
-	- Average Age: 108 days, 8 hours, and 11.27 minutes
+	- Average Age: 108 days, 3 hours, and 35.13 minutes
 	- Stop Label: 275
 	
 
