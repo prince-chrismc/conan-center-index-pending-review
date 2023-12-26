@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **174** pull requests currently under way :detective:
+There are **175** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -129,7 +129,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:memo: opencv|M|1|Nov 18 :bell:||SpaceIm
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|3|Nov 22 :bell:|uilianries|jwillikers
 [#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|1|Nov 20 :bell:||jwillikers
-[#21239](https://github.com/conan-io/conan-center-index/pull/21239)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: xkbcommon|M|4|Dec 26||jwillikers
+[#21239](https://github.com/conan-io/conan-center-index/pull/21239)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:stopwatch: xkbcommon|M|4|Dec 26||jwillikers
 [#21242](https://github.com/conan-io/conan-center-index/pull/21242)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: opencv|:blue_square: S|1|Nov 20 :bell:||jwillikers
 [#21246](https://github.com/conan-io/conan-center-index/pull/21246)|[SpaceIm](https://github.com/SpaceIm)|Nov 19|:memo: libdisplay-info|:blue_square: S|1|Nov 20 :bell:||jwillikers
 [#21271](https://github.com/conan-io/conan-center-index/pull/21271)|[valgur](https://github.com/valgur)|Nov 20|:new: arbiter|M|0|:eyes:||
@@ -201,6 +201,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21937](https://github.com/conan-io/conan-center-index/pull/21937)|[valgur](https://github.com/valgur)|Dec 26|:memo: async_simple|:green_circle: XS|1|Dec 26||ericLemanissier
 [#21938](https://github.com/conan-io/conan-center-index/pull/21938)|[valgur](https://github.com/valgur)|Dec 26|:memo: bazel|:blue_square: S|1|Dec 26||ericLemanissier
 [#21942](https://github.com/conan-io/conan-center-index/pull/21942)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 26|:memo: xkbcommon|:green_circle: XS|1|Dec 26||jwillikers
+[#21954](https://github.com/conan-io/conan-center-index/pull/21954)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: libsigcpp|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -223,9 +224,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 552
+	- Open: 553
 	- Draft: 57
-	- Average Age: 107 days, 16 hours, and 5.36 minutes
+	- Average Age: 107 days, 12 hours, and 27.86 minutes
 	- Stop Label: 289
 	
 
