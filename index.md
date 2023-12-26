@@ -210,7 +210,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21884](https://github.com/conan-io/conan-center-index/pull/21884)|[toge](https://github.com/toge)|Dec 24|:memo: xmlsec|:blue_square: S|0|||
 [#21888](https://github.com/conan-io/conan-center-index/pull/21888)|[toge](https://github.com/toge)|Dec 24|:memo: commata|:blue_square: S|0|||
 [#21890](https://github.com/conan-io/conan-center-index/pull/21890)|[conan-center-bot](https://github.com/conan-center-bot)|Dec 25|:gear: .c3i|:green_circle: XS|0|||
-[#21894](https://github.com/conan-io/conan-center-index/pull/21894)|[toge](https://github.com/toge)|Dec 25|:stopwatch: shapelib|M|0|||
+[#21894](https://github.com/conan-io/conan-center-index/pull/21894)|[toge](https://github.com/toge)|Dec 25|:memo: shapelib|M|0|||
 [#21896](https://github.com/conan-io/conan-center-index/pull/21896)|[mayeut](https://github.com/mayeut)|Dec 25|:memo: libxslt|:green_circle: XS|0|||
 [#21904](https://github.com/conan-io/conan-center-index/pull/21904)|[valgur](https://github.com/valgur)|Dec 25|:memo: log4cplus|L|0|||
 [#21907](https://github.com/conan-io/conan-center-index/pull/21907)|[valgur](https://github.com/valgur)|Dec 26|:memo: ode|:blue_square: S|0|||
@@ -245,7 +245,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 565
 	- Draft: 56
-	- Average Age: 106 days, and 42.60 minutes
+	- Average Age: 106 days, 1 hours, and 46.14 minutes
 	- Stop Label: 282
 	
 
