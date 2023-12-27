@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **175** pull requests currently under way :detective:
+There are **178** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -56,11 +56,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18852](https://github.com/conan-io/conan-center-index/pull/18852)|[valgur](https://github.com/valgur)|Jul 23|:memo: libtommath|XL|0|:eyes:||
 [#18854](https://github.com/conan-io/conan-center-index/pull/18854)|[valgur](https://github.com/valgur)|Jul 23|:memo: gf-complete|L|1|Oct 16 :bell:||
 [#18862](https://github.com/conan-io/conan-center-index/pull/18862)|[valgur](https://github.com/valgur)|Jul 24|:memo: godot-cpp|L|1|Nov 2 :bell:||jwillikers
-[#18873](https://github.com/conan-io/conan-center-index/pull/18873)|[valgur](https://github.com/valgur)|Jul 24|:memo: cc65|L|0|:eyes:||
+[#18873](https://github.com/conan-io/conan-center-index/pull/18873)|[valgur](https://github.com/valgur)|Jul 24|:stopwatch: cc65|L|1|Dec 27||
 [#18891](https://github.com/conan-io/conan-center-index/pull/18891)|[valgur](https://github.com/valgur)|Jul 24|:memo: openvdb|L|0|:eyes:||
 [#18897](https://github.com/conan-io/conan-center-index/pull/18897)|[valgur](https://github.com/valgur)|Jul 25|:memo: verilator|XL|0|:eyes:||
 [#18901](https://github.com/conan-io/conan-center-index/pull/18901)|[valgur](https://github.com/valgur)|Jul 25|:memo: mpdecimal|L|2|Dec 12 :bell:||jwillikers, samuel-emrys
 [#18938](https://github.com/conan-io/conan-center-index/pull/18938)|[valgur](https://github.com/valgur)|Jul 28|:memo: makefile-project-workspace-creator|M|2|Nov 13 :bell:||jwillikers
+[#18947](https://github.com/conan-io/conan-center-index/pull/18947)|[valgur](https://github.com/valgur)|Jul 28|:memo: libest|L|4|Dec 27||**uilianries**
 [#18952](https://github.com/conan-io/conan-center-index/pull/18952)|[valgur](https://github.com/valgur)|Jul 28|:memo: ofeli|L|1|Nov 6 :bell:||
 [#18959](https://github.com/conan-io/conan-center-index/pull/18959)|[valgur](https://github.com/valgur)|Jul 28|:memo: pciutils|L|2|Nov 14 :bell:||
 [#18978](https://github.com/conan-io/conan-center-index/pull/18978)|[valgur](https://github.com/valgur)|Jul 31|:new: rdma-core|L|0|:eyes:||
@@ -200,8 +201,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21968](https://github.com/conan-io/conan-center-index/pull/21968)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libmnl|:green_circle: XS|0|||
 [#21969](https://github.com/conan-io/conan-center-index/pull/21969)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libmpdclient|:green_circle: XS|0|||
 [#21973](https://github.com/conan-io/conan-center-index/pull/21973)|[Cyriuz](https://github.com/Cyriuz)|Dec 27|:memo: pdfium|:green_circle: XS|0|||
-[#21974](https://github.com/conan-io/conan-center-index/pull/21974)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libxml2|:green_circle: XS|0|||
-[#21975](https://github.com/conan-io/conan-center-index/pull/21975)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: cmake|:blue_square: S|0|||
+[#21975](https://github.com/conan-io/conan-center-index/pull/21975)|[mayeut](https://github.com/mayeut)|Dec 27|:memo: cmake|:blue_square: S|1|Dec 27||ericLemanissier
+[#21976](https://github.com/conan-io/conan-center-index/pull/21976)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libxml2|:green_circle: XS|0|||
+[#21977](https://github.com/conan-io/conan-center-index/pull/21977)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: wayland|:green_circle: XS|0|||
+[#21978](https://github.com/conan-io/conan-center-index/pull/21978)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: norm|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -225,9 +228,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 558
+	- Open: 560
 	- Draft: 57
-	- Average Age: 106 days, 18 hours, and 32.54 minutes
+	- Average Age: 106 days, 10 hours, and 15.59 minutes
 	- Stop Label: 295
 	
 
