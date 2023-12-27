@@ -3209,7 +3209,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21657",
       "LastCommitSHA": "1b2614ca1d34a9bfab3c5b89aac849387df5b2d8",
       "LastCommitAt": "2023-12-18T12:08:01Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -4579,6 +4579,25 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21985",
       "LastCommitSHA": "fada8c5fde09bd46b12cb1de70679ef1edb8a803",
       "LastCommitAt": "2023-12-27T13:59:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21986,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-27T15:56:03Z",
+      "Recipe": "pdf-writer",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21986",
+      "LastCommitSHA": "6815f6989f1bfcf44e9aacbd0ff43d51753db760",
+      "LastCommitAt": "2023-12-27T15:55:31Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
