@@ -4326,6 +4326,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21973",
       "LastCommitSHA": "9edb85b333019588ac161f237710c14685b4fe1b",
       "LastCommitAt": "2023-12-27T10:27:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21974,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-12-27T11:48:08Z",
+      "Recipe": "libxml2",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21974",
+      "LastCommitSHA": "f666a2281a18abd833e508b2354dea45a66387c7",
+      "LastCommitAt": "2023-12-27T11:43:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21975,
+      "OpenedBy": "mayeut",
+      "CreatedAt": "2023-12-27T12:12:44Z",
+      "Recipe": "cmake",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21975",
+      "LastCommitSHA": "07fe60c5b9f34be0c1937bc442e1fb45817f1ec6",
+      "LastCommitAt": "2023-12-27T12:11:56Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
