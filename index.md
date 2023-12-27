@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **188** pull requests currently under way :detective:
+There are **190** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -202,8 +202,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21969](https://github.com/conan-io/conan-center-index/pull/21969)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libmpdclient|:green_circle: XS|0|||
 [#21973](https://github.com/conan-io/conan-center-index/pull/21973)|[Cyriuz](https://github.com/Cyriuz)|Dec 27|:memo: pdfium|:green_circle: XS|0|||
 [#21975](https://github.com/conan-io/conan-center-index/pull/21975)|[mayeut](https://github.com/mayeut)|Dec 27|:memo: cmake|:blue_square: S|1|Dec 27||ericLemanissier
-[#21976](https://github.com/conan-io/conan-center-index/pull/21976)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libxml2|:green_circle: XS|0|||
-[#21977](https://github.com/conan-io/conan-center-index/pull/21977)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: wayland|:green_circle: XS|0|||
 [#21978](https://github.com/conan-io/conan-center-index/pull/21978)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: norm|:green_circle: XS|0|||
 [#21979](https://github.com/conan-io/conan-center-index/pull/21979)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libnghttp2|:green_circle: XS|0|||
 [#21980](https://github.com/conan-io/conan-center-index/pull/21980)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libmetalink|:green_circle: XS|0|||
@@ -213,8 +211,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21984](https://github.com/conan-io/conan-center-index/pull/21984)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: aravis|:green_circle: XS|0|||
 [#21985](https://github.com/conan-io/conan-center-index/pull/21985)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: dcmtk|:green_circle: XS|0|||
 [#21986](https://github.com/conan-io/conan-center-index/pull/21986)|[toge](https://github.com/toge)|Dec 27|:stopwatch: pdf-writer|:green_circle: XS|0|||
-[#21987](https://github.com/conan-io/conan-center-index/pull/21987)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libaec|L|0|||
 [#21988](https://github.com/conan-io/conan-center-index/pull/21988)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libaom-av1|M|0|||
+[#21989](https://github.com/conan-io/conan-center-index/pull/21989)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libmd|M|0|||
+[#21991](https://github.com/conan-io/conan-center-index/pull/21991)|[bshoshany](https://github.com/bshoshany)|Dec 27|:stopwatch: bshoshany-thread-pool|M|0|||
+[#21992](https://github.com/conan-io/conan-center-index/pull/21992)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libdc1394|:green_circle: XS|0|||
+[#21993](https://github.com/conan-io/conan-center-index/pull/21993)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libdrm|:green_circle: XS|0|||
+[#21994](https://github.com/conan-io/conan-center-index/pull/21994)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libfdk_aac|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -238,10 +240,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 569
-	- Draft: 56
-	- Average Age: 104 days, 18 hours, and 39.51 minutes
-	- Stop Label: 295
+	- Open: 575
+	- Draft: 57
+	- Average Age: 103 days, 17 hours, and 29.38 minutes
+	- Stop Label: 296
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
