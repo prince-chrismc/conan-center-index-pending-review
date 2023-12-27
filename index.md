@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **173** pull requests currently under way :detective:
+There are **172** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -199,12 +199,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21947](https://github.com/conan-io/conan-center-index/pull/21947)|[toge](https://github.com/toge)|Dec 26|:memo: serd|:blue_square: S|1|Dec 27||ericLemanissier
 [#21954](https://github.com/conan-io/conan-center-index/pull/21954)|[valgur](https://github.com/valgur)|Dec 26|:memo: libsigcpp|L|0|||
 [#21957](https://github.com/conan-io/conan-center-index/pull/21957)|[valgur](https://github.com/valgur)|Dec 26|:memo: libzen|:blue_square: S|1|Dec 27||ericLemanissier
-[#21965](https://github.com/conan-io/conan-center-index/pull/21965)|[Dobiasd](https://github.com/Dobiasd)|Dec 27|:stopwatch: frugally-deep|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
 
-Currently **6** pull requests are waiting to be merged :tada:
+Currently **5** pull requests are waiting to be merged :tada:
 
 
 PR | By | Opened | Recipe | Reviews | :star2: Approvers
@@ -214,7 +213,6 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 [#19793](https://github.com/conan-io/conan-center-index/pull/19793)|[tuxu](https://github.com/tuxu)|Sep 13|:warning: opentelemetry-cpp|2|**RubenRBS**, jwillikers
 [#20183](https://github.com/conan-io/conan-center-index/pull/20183)|[mjimenofluendo](https://github.com/mjimenofluendo)|Sep 28|:warning: gstreamer|4|jwillikers, **franramirez688**
 [#20639](https://github.com/conan-io/conan-center-index/pull/20639)|[HypoYoung](https://github.com/HypoYoung)|Oct 18|:warning: libcurl|7|jwillikers, **uilianries**, SpaceIm
-[#21860](https://github.com/conan-io/conan-center-index/pull/21860)|[valgur](https://github.com/valgur)|Dec 21|:memo: whisper-cpp|2|**uilianries**, toge
 
 
 #### :clipboard: Statistics
@@ -223,9 +221,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 557
+	- Open: 555
 	- Draft: 57
-	- Average Age: 106 days, 23 hours, and 29.13 minutes
+	- Average Age: 107 days, 9 hours, and 25.87 minutes
 	- Stop Label: 294
 	
 
