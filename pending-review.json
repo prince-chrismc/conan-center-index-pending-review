@@ -4365,5 +4365,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 21962,
+      "OpenedBy": "memsharded",
+      "CreatedAt": "2023-12-27T00:06:20Z",
+      "Recipe": "libvault",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21962",
+      "LastCommitSHA": "58d178afd41d64965ae2acbf44c7b826fd5aceee",
+      "LastCommitAt": "2023-12-27T00:04:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
