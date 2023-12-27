@@ -3211,11 +3211,21 @@
       "LastCommitAt": "2023-12-18T12:08:01Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "danimtb",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "danimtb",
+            "SubmittedAt": "2023-12-27T16:41:47Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21657#pullrequestreview-1797357561"
+         }
       }
    },
    {
@@ -4598,6 +4608,44 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21986",
       "LastCommitSHA": "6815f6989f1bfcf44e9aacbd0ff43d51753db760",
       "LastCommitAt": "2023-12-27T15:55:31Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21987,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-27T16:59:41Z",
+      "Recipe": "libaec",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21987",
+      "LastCommitSHA": "6a76abcd2aceae22ed93bb6f529037ed0e9546b8",
+      "LastCommitAt": "2023-12-27T16:58:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21988,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-27T17:09:07Z",
+      "Recipe": "libaom-av1",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21988",
+      "LastCommitSHA": "13b57b3a0b72b7b74919d56d100b02e1956da56d",
+      "LastCommitAt": "2023-12-27T17:08:58Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
