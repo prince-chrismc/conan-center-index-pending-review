@@ -3840,20 +3840,24 @@
       "LastCommitAt": "2023-12-21T21:05:16Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
+         "Count": 2,
+         "ValidApprovals": 2,
          "TeamApproval": true,
          "Approvals": [
             {
                "Name": "uilianries",
                "Tier": "team"
+            },
+            {
+               "Name": "toge",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-12-26T16:25:21Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21860#pullrequestreview-1796466253"
+            "ReviewerName": "toge",
+            "SubmittedAt": "2023-12-27T06:12:38Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21860#pullrequestreview-1796795557"
          }
       }
    },
@@ -4345,6 +4349,25 @@
             "SubmittedAt": "2023-12-27T05:09:41Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21957#pullrequestreview-1796763112"
          }
+      }
+   },
+   {
+      "Number": 21965,
+      "OpenedBy": "Dobiasd",
+      "CreatedAt": "2023-12-27T05:57:29Z",
+      "Recipe": "frugally-deep",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21965",
+      "LastCommitSHA": "291de9c49a1020cb76a4e343fed6fe0f6b56bff7",
+      "LastCommitAt": "2023-12-27T05:56:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    }
 ]
