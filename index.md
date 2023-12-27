@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **190** pull requests currently under way :detective:
+There are **194** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -124,7 +124,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21049](https://github.com/conan-io/conan-center-index/pull/21049)|[Bronek](https://github.com/Bronek)|Nov 10|:memo: rocksdb|:blue_square: S|0|:eyes:||
 [#21085](https://github.com/conan-io/conan-center-index/pull/21085)|[SpaceIm](https://github.com/SpaceIm)|Nov 12|:memo: msdfgen|L|2|Nov 20 :bell:||jwillikers
 [#21112](https://github.com/conan-io/conan-center-index/pull/21112)|[valgur](https://github.com/valgur)|Nov 14|:memo: sassc|L|1|Nov 14 :bell:||jwillikers
-[#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:memo: isl|L|2|Dec 13 :bell:||jwillikers
+[#21153](https://github.com/conan-io/conan-center-index/pull/21153)|[valgur](https://github.com/valgur)|Nov 15|:stopwatch: isl|L|2|Dec 13 :bell:||
 [#21204](https://github.com/conan-io/conan-center-index/pull/21204)|[ilya-lavrenov](https://github.com/ilya-lavrenov)|Nov 17|:memo: opencv|M|1|Nov 18 :bell:||SpaceIm
 [#21207](https://github.com/conan-io/conan-center-index/pull/21207)|[toge](https://github.com/toge)|Nov 18|:memo: structopt|:green_circle: XS|3|Nov 22 :bell:|uilianries|jwillikers
 [#21238](https://github.com/conan-io/conan-center-index/pull/21238)|[valgur](https://github.com/valgur)|Nov 19|:memo: brunsli|:green_circle: XS|1|Nov 20 :bell:||jwillikers
@@ -204,19 +204,23 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21975](https://github.com/conan-io/conan-center-index/pull/21975)|[mayeut](https://github.com/mayeut)|Dec 27|:memo: cmake|:blue_square: S|1|Dec 27||ericLemanissier
 [#21978](https://github.com/conan-io/conan-center-index/pull/21978)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: norm|:green_circle: XS|0|||
 [#21979](https://github.com/conan-io/conan-center-index/pull/21979)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libnghttp2|:green_circle: XS|0|||
-[#21980](https://github.com/conan-io/conan-center-index/pull/21980)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libmetalink|:green_circle: XS|0|||
-[#21981](https://github.com/conan-io/conan-center-index/pull/21981)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libgphoto2|:green_circle: XS|0|||
 [#21982](https://github.com/conan-io/conan-center-index/pull/21982)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: libarchive|:green_circle: XS|0|||
 [#21983](https://github.com/conan-io/conan-center-index/pull/21983)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: hwloc|:green_circle: XS|0|||
 [#21984](https://github.com/conan-io/conan-center-index/pull/21984)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: aravis|:green_circle: XS|0|||
 [#21985](https://github.com/conan-io/conan-center-index/pull/21985)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: dcmtk|:green_circle: XS|0|||
 [#21986](https://github.com/conan-io/conan-center-index/pull/21986)|[toge](https://github.com/toge)|Dec 27|:stopwatch: pdf-writer|:green_circle: XS|0|||
 [#21988](https://github.com/conan-io/conan-center-index/pull/21988)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libaom-av1|M|0|||
-[#21989](https://github.com/conan-io/conan-center-index/pull/21989)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libmd|M|0|||
-[#21991](https://github.com/conan-io/conan-center-index/pull/21991)|[bshoshany](https://github.com/bshoshany)|Dec 27|:stopwatch: bshoshany-thread-pool|M|0|||
 [#21992](https://github.com/conan-io/conan-center-index/pull/21992)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libdc1394|:green_circle: XS|0|||
 [#21993](https://github.com/conan-io/conan-center-index/pull/21993)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libdrm|:green_circle: XS|0|||
 [#21994](https://github.com/conan-io/conan-center-index/pull/21994)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: libfdk_aac|:green_circle: XS|0|||
+[#21995](https://github.com/conan-io/conan-center-index/pull/21995)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: gnutls|:blue_square: S|0|||
+[#21996](https://github.com/conan-io/conan-center-index/pull/21996)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: gsoap|:blue_square: S|0|||
+[#21997](https://github.com/conan-io/conan-center-index/pull/21997)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: hdf4|:blue_square: S|0|||
+[#21998](https://github.com/conan-io/conan-center-index/pull/21998)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: fontconfig|:green_circle: XS|0|||
+[#21999](https://github.com/conan-io/conan-center-index/pull/21999)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: gdcm|:blue_square: S|0|||
+[#22000](https://github.com/conan-io/conan-center-index/pull/22000)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: scdoc|:green_circle: XS|0|||
+[#22001](https://github.com/conan-io/conan-center-index/pull/22001)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: scons|:green_circle: XS|0|||
+[#22002](https://github.com/conan-io/conan-center-index/pull/22002)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: sdl_net|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -240,10 +244,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ca3f0bbf33dcc7e0275d23941629805e822f5639
 - Pull Requests:
-	- Open: 575
+	- Open: 582
 	- Draft: 57
-	- Average Age: 103 days, 17 hours, and 29.38 minutes
-	- Stop Label: 296
+	- Average Age: 102 days, 12 hours, and 26.02 minutes
+	- Stop Label: 298
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
