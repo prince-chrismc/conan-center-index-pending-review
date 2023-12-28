@@ -2608,6 +2608,30 @@
       }
    },
    {
+      "Number": 21153,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-11-15T22:40:37Z",
+      "Recipe": "isl",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21153",
+      "LastCommitSHA": "4fcb9801fdfe293c26dc8f8b884f9c70d0aefa48",
+      "LastCommitAt": "2023-12-28T10:40:33Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 2,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "jwillikers",
+            "SubmittedAt": "2023-12-13T15:10:24Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21153#pullrequestreview-1779866167"
+         }
+      }
+   },
+   {
       "Number": 21204,
       "OpenedBy": "ilya-lavrenov",
       "CreatedAt": "2023-11-17T21:41:25Z",
@@ -4381,7 +4405,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21995",
       "LastCommitSHA": "61e9ccebbe0f432c4cb6978250f08369aa4b08c7",
       "LastCommitAt": "2023-12-27T18:21:33Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
