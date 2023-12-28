@@ -3779,25 +3779,6 @@
       }
    },
    {
-      "Number": 21829,
-      "OpenedBy": "gureedo",
-      "CreatedAt": "2023-12-20T14:37:14Z",
-      "Recipe": "libxml2",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21829",
-      "LastCommitSHA": "0c835dba707932ff90bb09da672167f1de5e80a6",
-      "LastCommitAt": "2023-12-20T14:35:09Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21831,
       "OpenedBy": "cbaecker",
       "CreatedAt": "2023-12-20T15:19:02Z",
@@ -4353,39 +4334,6 @@
       }
    },
    {
-      "Number": 21975,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2023-12-27T12:12:44Z",
-      "Recipe": "cmake",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21975",
-      "LastCommitSHA": "07fe60c5b9f34be0c1937bc442e1fb45817f1ec6",
-      "LastCommitAt": "2023-12-27T12:11:56Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 2,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2023-12-28T08:41:54Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21975#pullrequestreview-1797814681"
-         }
-      }
-   },
-   {
       "Number": 21986,
       "OpenedBy": "toge",
       "CreatedAt": "2023-12-27T15:56:03Z",
@@ -4502,8 +4450,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21997",
-      "LastCommitSHA": "0eab6bf9868558d7ab3e76a6e92acba1c5c16654",
-      "LastCommitAt": "2023-12-27T18:48:59Z",
+      "LastCommitSHA": "7d280e9f77315cbfe5d05f88e923fd3a11679e37",
+      "LastCommitAt": "2023-12-28T12:04:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
