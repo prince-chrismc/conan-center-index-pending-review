@@ -211,8 +211,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21997](https://github.com/conan-io/conan-center-index/pull/21997)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: hdf4|:blue_square: S|0|||
 [#22000](https://github.com/conan-io/conan-center-index/pull/22000)|[valgur](https://github.com/valgur)|Dec 27|:memo: scdoc|:green_circle: XS|1|Dec 27||**RubenRBS**
 [#22003](https://github.com/conan-io/conan-center-index/pull/22003)|[valgur](https://github.com/valgur)|Dec 27|:stopwatch: serf|L|0|||
-[#22008](https://github.com/conan-io/conan-center-index/pull/22008)|[valgur](https://github.com/valgur)|Dec 27|:memo: upx|:blue_square: S|0|||
-[#22009](https://github.com/conan-io/conan-center-index/pull/22009)|[valgur](https://github.com/valgur)|Dec 27|:memo: vvenc|:green_circle: XS|0|||
+[#22008](https://github.com/conan-io/conan-center-index/pull/22008)|[valgur](https://github.com/valgur)|Dec 27|:memo: upx|:blue_square: S|1|Dec 28||**RubenRBS**
+[#22009](https://github.com/conan-io/conan-center-index/pull/22009)|[valgur](https://github.com/valgur)|Dec 27|:memo: vvenc|:green_circle: XS|1|Dec 28||**RubenRBS**
 [#22012](https://github.com/conan-io/conan-center-index/pull/22012)|[valgur](https://github.com/valgur)|Dec 27|:memo: zookeeper-client-c|:blue_square: S|0|||
 [#22014](https://github.com/conan-io/conan-center-index/pull/22014)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: xkbcommon|:green_circle: XS|0|||
 [#22016](https://github.com/conan-io/conan-center-index/pull/22016)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:stopwatch: reflect-cpp|M|0|||
@@ -243,7 +243,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 595
 	- Draft: 57
-	- Average Age: 100 days, 18 hours, and 36.50 minutes
+	- Average Age: 100 days, 19 hours, and 40.33 minutes
 	- Stop Label: 302
 	
 
