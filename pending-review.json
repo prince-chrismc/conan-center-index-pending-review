@@ -4497,6 +4497,63 @@
       }
    },
    {
+      "Number": 21994,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-27T18:16:13Z",
+      "Recipe": "libfdk_aac",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21994",
+      "LastCommitSHA": "d144d32fc892b6a1bdb6b9fdc3d69b16c6dfeae6",
+      "LastCommitAt": "2023-12-27T18:16:00Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21995,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-27T18:23:39Z",
+      "Recipe": "gnutls",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21995",
+      "LastCommitSHA": "61e9ccebbe0f432c4cb6978250f08369aa4b08c7",
+      "LastCommitAt": "2023-12-27T18:21:33Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 21997,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-27T18:49:38Z",
+      "Recipe": "hdf4",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21997",
+      "LastCommitSHA": "0eab6bf9868558d7ab3e76a6e92acba1c5c16654",
+      "LastCommitAt": "2023-12-27T18:48:59Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 22000,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-27T19:01:56Z",
