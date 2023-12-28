@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **204** pull requests currently under way :detective:
+There are **207** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -231,6 +231,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22041](https://github.com/conan-io/conan-center-index/pull/22041)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: uchardet|:blue_square: S|0|||
 [#22042](https://github.com/conan-io/conan-center-index/pull/22042)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: wasmtime|L|0|||
 [#22043](https://github.com/conan-io/conan-center-index/pull/22043)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: xapian-core|:green_circle: XS|0|||
+[#22044](https://github.com/conan-io/conan-center-index/pull/22044)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: xorg-cf-files|:green_circle: XS|0|||
+[#22045](https://github.com/conan-io/conan-center-index/pull/22045)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: xorg-macros|:green_circle: XS|0|||
+[#22046](https://github.com/conan-io/conan-center-index/pull/22046)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: xorg-proto|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -257,9 +260,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ea430987e56d13d268ec2eab5e3633371dd42e70
 - Pull Requests:
-	- Open: 614
+	- Open: 617
 	- Draft: 57
-	- Average Age: 98 days, 4 hours, and 1.57 minutes
+	- Average Age: 97 days, 17 hours, and 32.64 minutes
 	- Stop Label: 305
 	
 
