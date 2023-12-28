@@ -5030,5 +5030,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22042,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-28T20:01:23Z",
+      "Recipe": "wasmtime",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22042",
+      "LastCommitSHA": "6e7b2bfab2434566b6fcdb1b584862beee73fdeb",
+      "LastCommitAt": "2023-12-28T20:01:10Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22043,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-28T20:14:08Z",
+      "Recipe": "xapian-core",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22043",
+      "LastCommitSHA": "38635ead890c58b58aee34438da4a45a22c7d114",
+      "LastCommitAt": "2023-12-28T20:13:29Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
