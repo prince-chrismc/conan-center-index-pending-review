@@ -209,7 +209,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22017](https://github.com/conan-io/conan-center-index/pull/22017)|[toge](https://github.com/toge)|Dec 28|:stopwatch: glaze|:green_circle: XS|0|||
 [#22018](https://github.com/conan-io/conan-center-index/pull/22018)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:stopwatch: meshoptimizer|:blue_square: S|0|||
 [#22019](https://github.com/conan-io/conan-center-index/pull/22019)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: apr-util|L|0|||
-[#22020](https://github.com/conan-io/conan-center-index/pull/22020)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: autoconf-archive|:blue_square: S|0|||
 [#22021](https://github.com/conan-io/conan-center-index/pull/22021)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: flac|M|0|||
 [#22022](https://github.com/conan-io/conan-center-index/pull/22022)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: gettext|M|0|||
 [#22023](https://github.com/conan-io/conan-center-index/pull/22023)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: glibmm|L|0|||
@@ -235,6 +234,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22044](https://github.com/conan-io/conan-center-index/pull/22044)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: xorg-cf-files|:green_circle: XS|0|||
 [#22045](https://github.com/conan-io/conan-center-index/pull/22045)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: xorg-macros|:green_circle: XS|0|||
 [#22046](https://github.com/conan-io/conan-center-index/pull/22046)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: xorg-proto|:green_circle: XS|0|||
+[#22047](https://github.com/conan-io/conan-center-index/pull/22047)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: assimp|L|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -261,10 +261,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ea430987e56d13d268ec2eab5e3633371dd42e70
 - Pull Requests:
-	- Open: 617
+	- Open: 618
 	- Draft: 57
-	- Average Age: 97 days, 18 hours, and 33.02 minutes
-	- Stop Label: 304
+	- Average Age: 97 days, 15 hours, and 47.23 minutes
+	- Stop Label: 305
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
