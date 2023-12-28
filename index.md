@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **185** pull requests currently under way :detective:
+There are **186** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -83,6 +83,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#19726](https://github.com/conan-io/conan-center-index/pull/19726)|[bryce-cahill](https://github.com/bryce-cahill)|Sep 10|:stopwatch: pcre2|M|2|Sep 12 :bell:||SpaceIm
 [#19759](https://github.com/conan-io/conan-center-index/pull/19759)|[tuxu](https://github.com/tuxu)|Sep 12|:memo: opentelemetry-proto|:green_circle: XS|1|Sep 21 :bell:||[mollers](https://github.com/mollers)
 [#19764](https://github.com/conan-io/conan-center-index/pull/19764)|[valgur](https://github.com/valgur)|Sep 12|:memo: openexr|M|4|Oct 27 :bell:||jwillikers
+[#19882](https://github.com/conan-io/conan-center-index/pull/19882)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: osmanip|M|1|Sep 18 :bell:||
 [#19897](https://github.com/conan-io/conan-center-index/pull/19897)|[SpaceIm](https://github.com/SpaceIm)|Sep 16|:stopwatch: tk|L|1|Oct 16 :bell:||jwillikers
 [#19920](https://github.com/conan-io/conan-center-index/pull/19920)|[fmorgner](https://github.com/fmorgner)|Sep 17|:stopwatch: godot-cpp|L|6|Sep 20 :bell:||
 [#19942](https://github.com/conan-io/conan-center-index/pull/19942)|[Woazim](https://github.com/Woazim)|Sep 18|:memo: imagl|M|0|:eyes:||
@@ -237,8 +238,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 593
 	- Draft: 57
-	- Average Age: 100 days, 20 hours, and 28.47 minutes
-	- Stop Label: 306
+	- Average Age: 100 days, 21 hours, and 25.05 minutes
+	- Stop Label: 305
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
