@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **186** pull requests currently under way :detective:
+There are **188** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -213,6 +213,8 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22012](https://github.com/conan-io/conan-center-index/pull/22012)|[valgur](https://github.com/valgur)|Dec 27|:memo: zookeeper-client-c|:blue_square: S|0|||
 [#22014](https://github.com/conan-io/conan-center-index/pull/22014)|[mayeut](https://github.com/mayeut)|Dec 27|:stopwatch: xkbcommon|:green_circle: XS|0|||
 [#22016](https://github.com/conan-io/conan-center-index/pull/22016)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:stopwatch: reflect-cpp|M|0|||
+[#22017](https://github.com/conan-io/conan-center-index/pull/22017)|[toge](https://github.com/toge)|Dec 28|:stopwatch: glaze|:green_circle: XS|0|||
+[#22018](https://github.com/conan-io/conan-center-index/pull/22018)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:stopwatch: meshoptimizer|:blue_square: S|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -236,9 +238,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ea430987e56d13d268ec2eab5e3633371dd42e70
 - Pull Requests:
-	- Open: 593
+	- Open: 595
 	- Draft: 57
-	- Average Age: 100 days, 21 hours, and 25.05 minutes
+	- Average Age: 100 days, 16 hours, and 36.72 minutes
 	- Stop Label: 305
 	
 
