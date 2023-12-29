@@ -4066,25 +4066,6 @@
       }
    },
    {
-      "Number": 21921,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-26T01:51:38Z",
-      "Recipe": "cista",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21921",
-      "LastCommitSHA": "e2b0209922362a142dbd79d4a827f75baaeee79a",
-      "LastCommitAt": "2023-12-26T01:51:29Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21922,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-26T01:54:40Z",
@@ -4569,8 +4550,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22014",
-      "LastCommitSHA": "df97430aa05c96dbea86b1ec3cad9c94f862445f",
-      "LastCommitAt": "2023-12-28T10:50:14Z",
+      "LastCommitSHA": "05397122f7ff8e36232b1091be5e0365c875b8d6",
+      "LastCommitAt": "2023-12-28T23:49:28Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4742,25 +4723,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22025",
       "LastCommitSHA": "69b613f908583953f6f102bf866503a77b792a02",
       "LastCommitAt": "2023-12-28T16:47:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22026,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-28T16:50:56Z",
-      "Recipe": "lcms",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22026",
-      "LastCommitSHA": "dba3637e69b8853e9da9813138716fd97d0d6fde",
-      "LastCommitAt": "2023-12-28T16:50:49Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5141,6 +5103,139 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22047",
       "LastCommitSHA": "6965f7de38805a54bf2e2aaa83594c711ab83808",
       "LastCommitAt": "2023-12-28T22:36:36Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22048,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-28T23:28:00Z",
+      "Recipe": "autoconf",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22048",
+      "LastCommitSHA": "994b8fb890ceebbdd277b9a1d2728fa7f67cdfbc",
+      "LastCommitAt": "2023-12-28T23:27:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22049,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-28T23:37:58Z",
+      "Recipe": "bear",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22049",
+      "LastCommitSHA": "b4193c89f732315f911982214079ef92f760d0ae",
+      "LastCommitAt": "2023-12-28T23:37:50Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22050,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-28T23:39:57Z",
+      "Recipe": "capstone",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22050",
+      "LastCommitSHA": "d6ab393cb20c45dbf3e59d9f1b6533d3bf190295",
+      "LastCommitAt": "2023-12-28T23:39:41Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22051,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-28T23:48:27Z",
+      "Recipe": "cgns",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22051",
+      "LastCommitSHA": "32a6962d90de2ed553215f437b60df9c3932cc56",
+      "LastCommitAt": "2023-12-28T23:48:18Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22052,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-29T00:10:06Z",
+      "Recipe": "doxygen",
+      "Change": 1,
+      "Weight": 3,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22052",
+      "LastCommitSHA": "1ed6b5ac573e031e98f374e20823bff6c9bf3db5",
+      "LastCommitAt": "2023-12-29T00:09:27Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22053,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-29T00:15:02Z",
+      "Recipe": "libmysqlclient",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22053",
+      "LastCommitSHA": "67bb392006298dc50fa9f3d3fa2bb56d72829438",
+      "LastCommitAt": "2023-12-29T00:11:49Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22054,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-29T00:20:39Z",
+      "Recipe": "icu",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22054",
+      "LastCommitSHA": "fd58424478b53e7130e90fda09f819b9e84dbc0d",
+      "LastCommitAt": "2023-12-29T00:20:27Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
