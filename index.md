@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **224** pull requests currently under way :detective:
+There are **223** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -247,7 +247,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22059](https://github.com/conan-io/conan-center-index/pull/22059)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: nv-codec-headers|:blue_square: S|0|||
 [#22060](https://github.com/conan-io/conan-center-index/pull/22060)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: physfs|:blue_square: S|0|||
 [#22061](https://github.com/conan-io/conan-center-index/pull/22061)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: ptex|M|0|||
-[#22062](https://github.com/conan-io/conan-center-index/pull/22062)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: serd|:green_circle: XS|0|||
 [#22063](https://github.com/conan-io/conan-center-index/pull/22063)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: uncrustify|:green_circle: XS|0|||
 [#22064](https://github.com/conan-io/conan-center-index/pull/22064)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: vc|:green_circle: XS|0|||
 [#22065](https://github.com/conan-io/conan-center-index/pull/22065)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: zug|:green_circle: XS|0|||
@@ -277,9 +276,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ea430987e56d13d268ec2eab5e3633371dd42e70
 - Pull Requests:
-	- Open: 636
+	- Open: 635
 	- Draft: 57
-	- Average Age: 94 days, 23 hours, and 52.53 minutes
+	- Average Age: 95 days, 6 hours, and 58.72 minutes
 	- Stop Label: 306
 	
 
