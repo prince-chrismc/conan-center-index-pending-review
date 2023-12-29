@@ -5382,5 +5382,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22067,
+      "OpenedBy": "pgrossomoreira",
+      "CreatedAt": "2023-12-29T21:14:51Z",
+      "Recipe": "coin-lemon",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22067",
+      "LastCommitSHA": "0b88f4d9af408dba10b665be0e98d360140177cb",
+      "LastCommitAt": "2023-12-29T18:33:16Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
