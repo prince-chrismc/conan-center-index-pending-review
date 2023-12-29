@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **213** pull requests currently under way :detective:
+There are **224** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -187,7 +187,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21904](https://github.com/conan-io/conan-center-index/pull/21904)|[valgur](https://github.com/valgur)|Dec 25|:memo: log4cplus|L|0|:eyes:||
 [#21907](https://github.com/conan-io/conan-center-index/pull/21907)|[valgur](https://github.com/valgur)|Dec 26|:memo: ode|:blue_square: S|1|Dec 26||ericLemanissier
 [#21912](https://github.com/conan-io/conan-center-index/pull/21912)|[valgur](https://github.com/valgur)|Dec 26|:memo: microprofile|M|1|Dec 28||ericLemanissier
-[#21915](https://github.com/conan-io/conan-center-index/pull/21915)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: drwav|:blue_square: S|0|||
+[#21915](https://github.com/conan-io/conan-center-index/pull/21915)|[valgur](https://github.com/valgur)|Dec 26|:stopwatch: drwav|:blue_square: S|0|:eyes:||
 [#21922](https://github.com/conan-io/conan-center-index/pull/21922)|[valgur](https://github.com/valgur)|Dec 26|:memo: clhep|:blue_square: S|1|Dec 26||ericLemanissier
 [#21937](https://github.com/conan-io/conan-center-index/pull/21937)|[valgur](https://github.com/valgur)|Dec 26|:memo: async_simple|:green_circle: XS|1|Dec 26||ericLemanissier
 [#21943](https://github.com/conan-io/conan-center-index/pull/21943)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 26|:memo: qt|L|1|Dec 26||
@@ -240,6 +240,17 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22052](https://github.com/conan-io/conan-center-index/pull/22052)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: doxygen|L|0|||
 [#22053](https://github.com/conan-io/conan-center-index/pull/22053)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: libmysqlclient|M|0|||
 [#22054](https://github.com/conan-io/conan-center-index/pull/22054)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: icu|:green_circle: XS|0|||
+[#22055](https://github.com/conan-io/conan-center-index/pull/22055)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: jasper|L|0|||
+[#22056](https://github.com/conan-io/conan-center-index/pull/22056)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: libmodbus|:blue_square: S|0|||
+[#22057](https://github.com/conan-io/conan-center-index/pull/22057)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: libnet|:green_circle: XS|0|||
+[#22058](https://github.com/conan-io/conan-center-index/pull/22058)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: maven|:blue_square: S|0|||
+[#22059](https://github.com/conan-io/conan-center-index/pull/22059)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: nv-codec-headers|:blue_square: S|0|||
+[#22060](https://github.com/conan-io/conan-center-index/pull/22060)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: physfs|:blue_square: S|0|||
+[#22061](https://github.com/conan-io/conan-center-index/pull/22061)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: ptex|M|0|||
+[#22062](https://github.com/conan-io/conan-center-index/pull/22062)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: serd|:green_circle: XS|0|||
+[#22063](https://github.com/conan-io/conan-center-index/pull/22063)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: uncrustify|:green_circle: XS|0|||
+[#22064](https://github.com/conan-io/conan-center-index/pull/22064)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: vc|:green_circle: XS|0|||
+[#22065](https://github.com/conan-io/conan-center-index/pull/22065)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: zug|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -266,9 +277,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ea430987e56d13d268ec2eab5e3633371dd42e70
 - Pull Requests:
-	- Open: 625
+	- Open: 636
 	- Draft: 57
-	- Average Age: 96 days, 14 hours, and 59.85 minutes
+	- Average Age: 94 days, 23 hours, and 52.53 minutes
 	- Stop Label: 306
 	
 
