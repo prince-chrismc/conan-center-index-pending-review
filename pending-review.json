@@ -5379,25 +5379,6 @@
       }
    },
    {
-      "Number": 22062,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-29T01:36:00Z",
-      "Recipe": "serd",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22062",
-      "LastCommitSHA": "829ed9be0544c5bca512b34d3d9c357841149081",
-      "LastCommitAt": "2023-12-29T01:35:43Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22063,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-29T01:36:55Z",
