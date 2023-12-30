@@ -4275,6 +4275,25 @@
       }
    },
    {
+      "Number": 21997,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-27T18:49:38Z",
+      "Recipe": "hdf4",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21997",
+      "LastCommitSHA": "7d280e9f77315cbfe5d05f88e923fd3a11679e37",
+      "LastCommitAt": "2023-12-28T12:04:01Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 22010,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-27T21:10:54Z",
