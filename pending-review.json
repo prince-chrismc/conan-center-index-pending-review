@@ -4651,25 +4651,6 @@
       }
    },
    {
-      "Number": 22052,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-29T00:10:06Z",
-      "Recipe": "doxygen",
-      "Change": 1,
-      "Weight": 3,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22052",
-      "LastCommitSHA": "1ed6b5ac573e031e98f374e20823bff6c9bf3db5",
-      "LastCommitAt": "2023-12-29T00:09:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22053,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-29T00:15:02Z",
@@ -4679,82 +4660,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22053",
       "LastCommitSHA": "67bb392006298dc50fa9f3d3fa2bb56d72829438",
       "LastCommitAt": "2023-12-29T00:11:49Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22054,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-29T00:20:39Z",
-      "Recipe": "icu",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22054",
-      "LastCommitSHA": "fd58424478b53e7130e90fda09f819b9e84dbc0d",
-      "LastCommitAt": "2023-12-29T00:20:27Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22056,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-29T01:02:31Z",
-      "Recipe": "libmodbus",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22056",
-      "LastCommitSHA": "c7d090b6999d1c9111da2ae39ba20c2dfcc4d30b",
-      "LastCommitAt": "2023-12-29T01:02:20Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22057,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-29T01:03:40Z",
-      "Recipe": "libnet",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22057",
-      "LastCommitSHA": "abdc1c60fb9d58b0a13de0d7e68d86d57de790e3",
-      "LastCommitAt": "2023-12-29T01:03:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22058,
-      "OpenedBy": "valgur",
-      "CreatedAt": "2023-12-29T01:08:12Z",
-      "Recipe": "maven",
-      "Change": 1,
-      "Weight": 1,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22058",
-      "LastCommitSHA": "482dce90598e22fb0279b3984e3142383920aebf",
-      "LastCommitAt": "2023-12-29T01:08:01Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -4889,6 +4794,25 @@
       "LastCommitSHA": "0b88f4d9af408dba10b665be0e98d360140177cb",
       "LastCommitAt": "2023-12-29T18:33:16Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22070,
+      "OpenedBy": "toge",
+      "CreatedAt": "2023-12-30T07:01:31Z",
+      "Recipe": "arsenalgear",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22070",
+      "LastCommitSHA": "557acca8a5d781f088e8bf5f845fd4dd8d492911",
+      "LastCommitAt": "2023-12-30T16:16:28Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
