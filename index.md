@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **215** pull requests currently under way :detective:
+There are **216** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -203,14 +203,12 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22016](https://github.com/conan-io/conan-center-index/pull/22016)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:stopwatch: reflect-cpp|M|0|||
 [#22018](https://github.com/conan-io/conan-center-index/pull/22018)|[RazielXYZ](https://github.com/RazielXYZ)|Dec 28|:stopwatch: meshoptimizer|:blue_square: S|0|||
 [#22019](https://github.com/conan-io/conan-center-index/pull/22019)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: apr-util|L|0|||
-[#22022](https://github.com/conan-io/conan-center-index/pull/22022)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: gettext|M|0|||
 [#22023](https://github.com/conan-io/conan-center-index/pull/22023)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: glibmm|L|0|||
 [#22024](https://github.com/conan-io/conan-center-index/pull/22024)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: gsl|:blue_square: S|0|||
 [#22025](https://github.com/conan-io/conan-center-index/pull/22025)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: kmod|:green_circle: XS|0|||
 [#22027](https://github.com/conan-io/conan-center-index/pull/22027)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: libfuse|:green_circle: XS|0|||
 [#22028](https://github.com/conan-io/conan-center-index/pull/22028)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: libgphoto2|:green_circle: XS|0|||
 [#22029](https://github.com/conan-io/conan-center-index/pull/22029)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: libpsl|M|0|||
-[#22032](https://github.com/conan-io/conan-center-index/pull/22032)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: libsrtp|:blue_square: S|0|||
 [#22034](https://github.com/conan-io/conan-center-index/pull/22034)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: libtorrent|:green_circle: XS|0|||
 [#22035](https://github.com/conan-io/conan-center-index/pull/22035)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: make|:blue_square: S|0|||
 [#22036](https://github.com/conan-io/conan-center-index/pull/22036)|[valgur](https://github.com/valgur)|Dec 28|:stopwatch: xorg-makedepend|:green_circle: XS|0|||
@@ -242,6 +240,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22064](https://github.com/conan-io/conan-center-index/pull/22064)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: vc|:green_circle: XS|0|||
 [#22065](https://github.com/conan-io/conan-center-index/pull/22065)|[valgur](https://github.com/valgur)|Dec 29|:stopwatch: zug|:green_circle: XS|0|||
 [#22067](https://github.com/conan-io/conan-center-index/pull/22067)|[pgrossomoreira](https://github.com/pgrossomoreira)|Dec 29|:stopwatch: coin-lemon|:blue_square: S|0|||
+[#22068](https://github.com/conan-io/conan-center-index/pull/22068)|[toge](https://github.com/toge)|Dec 30|:stopwatch: homog2d|:green_circle: XS|0|||
+[#22069](https://github.com/conan-io/conan-center-index/pull/22069)|[toge](https://github.com/toge)|Dec 30|:stopwatch: libenvpp|:green_circle: XS|0|||
+[#22070](https://github.com/conan-io/conan-center-index/pull/22070)|[toge](https://github.com/toge)|Dec 30|:stopwatch: arsenalgear|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -268,10 +269,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ea430987e56d13d268ec2eab5e3633371dd42e70
 - Pull Requests:
-	- Open: 636
+	- Open: 638
 	- Draft: 58
-	- Average Age: 96 days, and 11.79 minutes
-	- Stop Label: 313
+	- Average Age: 95 days, 21 hours, and 37.67 minutes
+	- Stop Label: 315
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
