@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **207** pull requests currently under way :detective:
+There are **210** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -40,6 +40,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#18458](https://github.com/conan-io/conan-center-index/pull/18458)|[toge](https://github.com/toge)|Jul 10|:stopwatch: libgit2|L|5|Oct 31 :bell:||jwillikers
 [#18560](https://github.com/conan-io/conan-center-index/pull/18560)|[Tobulus](https://github.com/Tobulus)|Jul 15|:memo: libsystemd|M|0|:eyes:||
 [#18570](https://github.com/conan-io/conan-center-index/pull/18570)|[samuel-emrys](https://github.com/samuel-emrys)|Jul 16|:memo: xorg|:green_circle: XS|2|Sep 10 :bell:||jwillikers, SSE4
+[#18602](https://github.com/conan-io/conan-center-index/pull/18602)|[valgur](https://github.com/valgur)|Jul 17|:memo: gnulib|L|1|Oct 31 :bell:||
 [#18621](https://github.com/conan-io/conan-center-index/pull/18621)|[maksim-petukhov](https://github.com/maksim-petukhov)|Jul 18|:new: libntv2|M|6|Aug 11 :bell:||MartinDelille, [valgur](https://github.com/valgur)
 [#18628](https://github.com/conan-io/conan-center-index/pull/18628)|[valgur](https://github.com/valgur)|Jul 18|:memo: giflib|L|1|Oct 31 :bell:||jwillikers
 [#18641](https://github.com/conan-io/conan-center-index/pull/18641)|[valgur](https://github.com/valgur)|Jul 19|:memo: libidn|L|0|:eyes:||
@@ -192,7 +193,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21937](https://github.com/conan-io/conan-center-index/pull/21937)|[valgur](https://github.com/valgur)|Dec 26|:memo: async_simple|:green_circle: XS|1|Dec 26||ericLemanissier
 [#21943](https://github.com/conan-io/conan-center-index/pull/21943)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 26|:memo: qt|L|2|Dec 30||jwillikers
 [#21947](https://github.com/conan-io/conan-center-index/pull/21947)|[toge](https://github.com/toge)|Dec 26|:memo: serd|:blue_square: S|1|Dec 27||ericLemanissier
+[#21953](https://github.com/conan-io/conan-center-index/pull/21953)|[valgur](https://github.com/valgur)|Dec 26|:memo: libselinux|:blue_square: S|0|||
 [#21954](https://github.com/conan-io/conan-center-index/pull/21954)|[valgur](https://github.com/valgur)|Dec 26|:memo: libsigcpp|L|0|:eyes:||
+[#21959](https://github.com/conan-io/conan-center-index/pull/21959)|[valgur](https://github.com/valgur)|Dec 26|:memo: libgcrypt|:blue_square: S|0|||
 [#21969](https://github.com/conan-io/conan-center-index/pull/21969)|[valgur](https://github.com/valgur)|Dec 27|:memo: libmpdclient|:blue_square: S|0|||
 [#21971](https://github.com/conan-io/conan-center-index/pull/21971)|[valgur](https://github.com/valgur)|Dec 27|:memo: jom|:blue_square: S|0|||
 [#21972](https://github.com/conan-io/conan-center-index/pull/21972)|[valgur](https://github.com/valgur)|Dec 27|:memo: ldns|:blue_square: S|0|||
@@ -258,8 +261,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 604
 	- Draft: 58
-	- Average Age: 102 days, 18 hours, and 30.24 minutes
-	- Stop Label: 309
+	- Average Age: 102 days, 19 hours, and 31.56 minutes
+	- Stop Label: 306
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
