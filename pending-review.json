@@ -4608,6 +4608,25 @@
       }
    },
    {
+      "Number": 22039,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2023-12-28T18:30:36Z",
+      "Recipe": "tesseract",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22039",
+      "LastCommitSHA": "50ee7bea2979cd5cc727a12b219a62857f5247e7",
+      "LastCommitAt": "2023-12-31T18:11:00Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
       "Number": 22041,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-28T18:54:42Z",
