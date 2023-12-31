@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **205** pull requests currently under way :detective:
+There are **206** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -215,6 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22032](https://github.com/conan-io/conan-center-index/pull/22032)|[valgur](https://github.com/valgur)|Dec 28|:memo: libsrtp|:blue_square: S|0|||
 [#22035](https://github.com/conan-io/conan-center-index/pull/22035)|[valgur](https://github.com/valgur)|Dec 28|:memo: make|:blue_square: S|0|:eyes:||
 [#22037](https://github.com/conan-io/conan-center-index/pull/22037)|[valgur](https://github.com/valgur)|Dec 28|:memo: miniupnpc|:blue_square: S|0|||
+[#22039](https://github.com/conan-io/conan-center-index/pull/22039)|[valgur](https://github.com/valgur)|Dec 28|:memo: tesseract|:blue_square: S|0|||
 [#22041](https://github.com/conan-io/conan-center-index/pull/22041)|[valgur](https://github.com/valgur)|Dec 28|:memo: uchardet|M|0|||
 [#22042](https://github.com/conan-io/conan-center-index/pull/22042)|[valgur](https://github.com/valgur)|Dec 28|:memo: wasmtime|L|0|||
 [#22047](https://github.com/conan-io/conan-center-index/pull/22047)|[valgur](https://github.com/valgur)|Dec 28|:memo: assimp|L|3|Dec 31||
@@ -256,8 +257,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 604
 	- Draft: 58
-	- Average Age: 102 days, 16 hours, and 31.73 minutes
-	- Stop Label: 311
+	- Average Age: 102 days, 17 hours, and 29.43 minutes
+	- Stop Label: 310
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
