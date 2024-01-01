@@ -3141,9 +3141,9 @@
       "Change": 1,
       "Weight": 3,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21512",
-      "LastCommitSHA": "a0b01fada20f358d625efa23d9e54e82c3ba0933",
-      "LastCommitAt": "2023-12-20T17:47:05Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "42caa4ad67bfb4c8237bbd6fae2a4be76376ca66",
+      "LastCommitAt": "2024-01-01T14:00:57Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -5200,25 +5200,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22094",
       "LastCommitSHA": "0e72fedc95665b247cdbc4843765a7281206f9bb",
       "LastCommitAt": "2024-01-01T10:32:11Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22095,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2024-01-01T11:11:24Z",
-      "Recipe": "libgeotiff",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22095",
-      "LastCommitSHA": "08af7660a4f09d478abead5bf65637d4573b214c",
-      "LastCommitAt": "2024-01-01T11:09:14Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
