@@ -2409,6 +2409,32 @@
       }
    },
    {
+      "Number": 20894,
+      "OpenedBy": "samuel-emrys",
+      "CreatedAt": "2023-11-02T13:01:16Z",
+      "Recipe": "openblas",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/20894",
+      "LastCommitSHA": "5fc291028587a9336864cf80c11d819ec6607db3",
+      "LastCommitAt": "2024-01-01T04:07:51Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 3,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": [
+            "uilianries"
+         ],
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2023-12-26T16:21:11Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/20894#pullrequestreview-1796464190"
+         }
+      }
+   },
+   {
       "Number": 20905,
       "OpenedBy": "jwillikers",
       "CreatedAt": "2023-11-02T21:30:51Z",
