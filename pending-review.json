@@ -3540,7 +3540,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21734",
       "LastCommitSHA": "1517c672cd199c2e6891882120cf679d72ff8511",
       "LastCommitAt": "2024-01-01T10:44:43Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5155,27 +5155,8 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22088",
-      "LastCommitSHA": "4a03e215fdbe36b11d951dace12ddb36a9ee3063",
-      "LastCommitAt": "2024-01-01T09:27:47Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22091,
-      "OpenedBy": "mayeut",
-      "CreatedAt": "2024-01-01T09:45:00Z",
-      "Recipe": "opentdf-client",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22091",
-      "LastCommitSHA": "fb21a9b18a5553b75f662410457584d5ca93a775",
-      "LastCommitAt": "2024-01-01T09:44:29Z",
+      "LastCommitSHA": "62c47e1d7bfc15612f06a167b9544ba14b3be07f",
+      "LastCommitAt": "2024-01-01T12:08:06Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5215,6 +5196,25 @@
       "LastCommitSHA": "08af7660a4f09d478abead5bf65637d4573b214c",
       "LastCommitAt": "2024-01-01T11:09:14Z",
       "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22096,
+      "OpenedBy": "conan-center-bot",
+      "CreatedAt": "2024-01-01T11:34:11Z",
+      "Recipe": ".c3i",
+      "Change": 3,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22096",
+      "LastCommitSHA": "39a83c9efac3e46f44076c647894ea6d4e900ab3",
+      "LastCommitAt": "2024-01-01T11:34:07Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
