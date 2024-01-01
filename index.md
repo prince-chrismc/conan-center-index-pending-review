@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **215** pull requests currently under way :detective:
+There are **220** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -242,6 +242,11 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22081](https://github.com/conan-io/conan-center-index/pull/22081)|[tsondergaard](https://github.com/tsondergaard)|Dec 31|:memo: xorg|:blue_square: S|0|||
 [#22082](https://github.com/conan-io/conan-center-index/pull/22082)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: highs|L|0|||
 [#22087](https://github.com/conan-io/conan-center-index/pull/22087)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: proj|:green_circle: XS|0|||
+[#22088](https://github.com/conan-io/conan-center-index/pull/22088)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: libxmlpp|:green_circle: XS|0|||
+[#22089](https://github.com/conan-io/conan-center-index/pull/22089)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: xmlsec|:green_circle: XS|0|||
+[#22090](https://github.com/conan-io/conan-center-index/pull/22090)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: tmx|:green_circle: XS|0|||
+[#22091](https://github.com/conan-io/conan-center-index/pull/22091)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: opentdf-client|:green_circle: XS|0|||
+[#22092](https://github.com/conan-io/conan-center-index/pull/22092)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: tixi3|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -264,10 +269,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ea430987e56d13d268ec2eab5e3633371dd42e70
 - Pull Requests:
-	- Open: 605
-	- Draft: 58
-	- Average Age: 103 days, 1 hours, and 27.13 minutes
-	- Stop Label: 302
+	- Open: 610
+	- Draft: 57
+	- Average Age: 102 days, 6 hours, and 10.56 minutes
+	- Stop Label: 303
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
