@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **220** pull requests currently under way :detective:
+There are **219** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -164,6 +164,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21697](https://github.com/conan-io/conan-center-index/pull/21697)|[mpusz](https://github.com/mpusz)|Dec 9|:memo: mp-units|:blue_square: S|3|Dec 26||jwillikers
 [#21708](https://github.com/conan-io/conan-center-index/pull/21708)|[jmalopoy](https://github.com/jmalopoy)|Dec 11|:memo: openssl|:green_circle: XS|4|Dec 13 :bell:||
 [#21713](https://github.com/conan-io/conan-center-index/pull/21713)|[tpaustian](https://github.com/tpaustian)|Dec 11|:stopwatch: boost|:green_circle: XS|0|:eyes:||
+[#21734](https://github.com/conan-io/conan-center-index/pull/21734)|[valgur](https://github.com/valgur)|Dec 12|:stopwatch: mingw-w64|L|0|||
 [#21740](https://github.com/conan-io/conan-center-index/pull/21740)|[rainman110](https://github.com/rainman110)|Dec 13|:stopwatch: gtlab-logging|M|0|:eyes:||
 [#21743](https://github.com/conan-io/conan-center-index/pull/21743)|[toge](https://github.com/toge)|Dec 13|:memo: drogon|:blue_square: S|0|:eyes:||
 [#21744](https://github.com/conan-io/conan-center-index/pull/21744)|[valgur](https://github.com/valgur)|Dec 13|:memo: cyrus-sasl|L|0|:eyes:||
@@ -241,12 +242,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22076](https://github.com/conan-io/conan-center-index/pull/22076)|[AlexRamallo](https://github.com/AlexRamallo)|Dec 30|:stopwatch: openjdk|:green_circle: XS|0|||
 [#22081](https://github.com/conan-io/conan-center-index/pull/22081)|[tsondergaard](https://github.com/tsondergaard)|Dec 31|:memo: xorg|:blue_square: S|0|||
 [#22082](https://github.com/conan-io/conan-center-index/pull/22082)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: highs|L|0|||
-[#22087](https://github.com/conan-io/conan-center-index/pull/22087)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: proj|:green_circle: XS|0|||
 [#22088](https://github.com/conan-io/conan-center-index/pull/22088)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: libxmlpp|:green_circle: XS|0|||
-[#22089](https://github.com/conan-io/conan-center-index/pull/22089)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: xmlsec|:green_circle: XS|0|||
-[#22090](https://github.com/conan-io/conan-center-index/pull/22090)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: tmx|:green_circle: XS|0|||
 [#22091](https://github.com/conan-io/conan-center-index/pull/22091)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: opentdf-client|:green_circle: XS|0|||
-[#22092](https://github.com/conan-io/conan-center-index/pull/22092)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: tixi3|:green_circle: XS|0|||
+[#22094](https://github.com/conan-io/conan-center-index/pull/22094)|[anonymousdouble](https://github.com/anonymousdouble)|Jan 1|:stopwatch: dbus|:green_circle: XS|0|||
+[#22095](https://github.com/conan-io/conan-center-index/pull/22095)|[mayeut](https://github.com/mayeut)|Jan 1|:stopwatch: libgeotiff|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -269,10 +268,10 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: ea430987e56d13d268ec2eab5e3633371dd42e70
 - Pull Requests:
-	- Open: 610
+	- Open: 612
 	- Draft: 57
-	- Average Age: 102 days, 6 hours, and 10.56 minutes
-	- Stop Label: 303
+	- Average Age: 101 days, 23 hours, and 6.62 minutes
+	- Stop Label: 302
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
