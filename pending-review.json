@@ -5195,11 +5195,21 @@
       "LastCommitAt": "2023-12-31T13:11:58Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
+         "Count": 1,
+         "ValidApprovals": 1,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "ericLemanissier",
+               "Tier": "community"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "ericLemanissier",
+            "SubmittedAt": "2024-01-02T11:25:34Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22081#pullrequestreview-1800287535"
+         }
       }
    },
    {
@@ -5248,39 +5258,6 @@
          "TeamApproval": false,
          "Approvals": null,
          "Blockers": null
-      }
-   },
-   {
-      "Number": 22097,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-01T15:05:11Z",
-      "Recipe": "trompeloeil",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22097",
-      "LastCommitSHA": "fd9ba515bc9ec7893c0070260c6641f764762583",
-      "LastCommitAt": "2024-01-01T15:04:32Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 4,
-         "ValidApprovals": 2,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "ericLemanissier",
-               "Tier": "community"
-            },
-            {
-               "Name": "RubenRBS",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": [],
-         "LastReview": {
-            "ReviewerName": "RubenRBS",
-            "SubmittedAt": "2024-01-02T10:06:48Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22097#pullrequestreview-1800193929"
-         }
       }
    },
    {
