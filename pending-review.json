@@ -5179,7 +5179,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22072",
       "LastCommitSHA": "e11bc5da97f0e0a3f0f370286b1c066ceb8c93f9",
       "LastCommitAt": "2024-01-02T15:22:42Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5347,7 +5347,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22106",
       "LastCommitSHA": "770d66e26775a85dea643de3cc9237a751fccf03",
       "LastCommitAt": "2024-01-02T08:47:02Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5366,25 +5366,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22108",
       "LastCommitSHA": "6d76fc15d2af0f2787bbf289a0eeafa876c1ead0",
       "LastCommitAt": "2024-01-02T10:27:32Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22109,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-02T10:24:22Z",
-      "Recipe": "quill",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22109",
-      "LastCommitSHA": "becd8fa091882692600a1703facb97e6e81782cd",
-      "LastCommitAt": "2024-01-02T10:23:37Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
