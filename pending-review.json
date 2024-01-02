@@ -1269,20 +1269,28 @@
       "LastCommitAt": "2024-01-02T06:28:22Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 4,
-         "ValidApprovals": 1,
+         "Count": 6,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "AndreyMlashkin",
                "Tier": "community"
+            },
+            {
+               "Name": "SSE4",
+               "Tier": "community"
+            },
+            {
+               "Name": "mayeut",
+               "Tier": "unofficial"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "AndreyMlashkin",
-            "SubmittedAt": "2024-01-02T12:44:06Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1800374783"
+            "ReviewerName": "mayeut",
+            "SubmittedAt": "2024-01-02T16:12:10Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/19298#pullrequestreview-1800664427"
          }
       }
    },
@@ -5143,9 +5151,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22072",
-      "LastCommitSHA": "9e3b366fc6299c0a640cfdda72a7c9ef3d86c2ce",
-      "LastCommitAt": "2023-12-30T17:52:33Z",
-      "CciBotPassed": true,
+      "LastCommitSHA": "e11bc5da97f0e0a3f0f370286b1c066ceb8c93f9",
+      "LastCommitAt": "2024-01-02T15:22:42Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5311,6 +5319,25 @@
             "SubmittedAt": "2024-01-02T07:03:33Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22101#pullrequestreview-1800011448"
          }
+      }
+   },
+   {
+      "Number": 22105,
+      "OpenedBy": "valgur",
+      "CreatedAt": "2024-01-02T07:22:09Z",
+      "Recipe": "llvm-openmp",
+      "Change": 1,
+      "Weight": 1,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22105",
+      "LastCommitSHA": "38495aed31d51b6a43d4f3124e7a13db9ca1d0a9",
+      "LastCommitAt": "2024-01-02T08:33:06Z",
+      "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
       }
    },
    {
