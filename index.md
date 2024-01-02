@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **227** pull requests currently under way :detective:
+There are **225** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -181,7 +181,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21788](https://github.com/conan-io/conan-center-index/pull/21788)|[SpaceIm](https://github.com/SpaceIm)|Dec 16|:memo: fftw|:blue_square: S|1|Dec 18 :bell:||[fdgStilla](https://github.com/fdgStilla)
 [#21791](https://github.com/conan-io/conan-center-index/pull/21791)|[RMZeroFour](https://github.com/RMZeroFour)|Dec 16|:stopwatch: openal-soft|:blue_square: S|0|:eyes:||
 [#21792](https://github.com/conan-io/conan-center-index/pull/21792)|[Twon](https://github.com/Twon)|Dec 16|:stopwatch: catch2|:blue_square: S|0|:eyes:||
-[#21798](https://github.com/conan-io/conan-center-index/pull/21798)|[nfrechette](https://github.com/nfrechette)|Dec 17|:stopwatch: nfrechette-acl|:blue_square: S|0|||
+[#21798](https://github.com/conan-io/conan-center-index/pull/21798)|[nfrechette](https://github.com/nfrechette)|Dec 17|:memo: nfrechette-acl|:blue_square: S|0|||
 [#21819](https://github.com/conan-io/conan-center-index/pull/21819)|[toge](https://github.com/toge)|Dec 20|:memo: fltk|:blue_square: S|0|:eyes:||
 [#21831](https://github.com/conan-io/conan-center-index/pull/21831)|[cbaecker](https://github.com/cbaecker)|Dec 20|:stopwatch: json-schema-validator|:green_circle: XS|0|:eyes:||
 [#21853](https://github.com/conan-io/conan-center-index/pull/21853)|[valgur](https://github.com/valgur)|Dec 21|:memo: ls-qpack|M|0|:eyes:||
@@ -225,7 +225,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22024](https://github.com/conan-io/conan-center-index/pull/22024)|[valgur](https://github.com/valgur)|Dec 28|:memo: gsl|:blue_square: S|0|:eyes:||
 [#22025](https://github.com/conan-io/conan-center-index/pull/22025)|[valgur](https://github.com/valgur)|Dec 28|:memo: kmod|:green_circle: XS|0|:eyes:||
 [#22026](https://github.com/conan-io/conan-center-index/pull/22026)|[valgur](https://github.com/valgur)|Dec 28|:memo: lcms|:blue_square: S|0|||
-[#22032](https://github.com/conan-io/conan-center-index/pull/22032)|[valgur](https://github.com/valgur)|Dec 28|:memo: libsrtp|:blue_square: S|0|||
+[#22032](https://github.com/conan-io/conan-center-index/pull/22032)|[valgur](https://github.com/valgur)|Dec 28|:memo: libsrtp|:blue_square: S|0|:eyes:||
 [#22035](https://github.com/conan-io/conan-center-index/pull/22035)|[valgur](https://github.com/valgur)|Dec 28|:memo: make|:blue_square: S|0|:eyes:||
 [#22037](https://github.com/conan-io/conan-center-index/pull/22037)|[valgur](https://github.com/valgur)|Dec 28|:memo: miniupnpc|:blue_square: S|0|||
 [#22039](https://github.com/conan-io/conan-center-index/pull/22039)|[valgur](https://github.com/valgur)|Dec 28|:memo: tesseract|:blue_square: S|0|||
@@ -239,10 +239,9 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22060](https://github.com/conan-io/conan-center-index/pull/22060)|[valgur](https://github.com/valgur)|Dec 29|:memo: physfs|:blue_square: S|0|||
 [#22061](https://github.com/conan-io/conan-center-index/pull/22061)|[valgur](https://github.com/valgur)|Dec 29|:memo: ptex|M|0|||
 [#22065](https://github.com/conan-io/conan-center-index/pull/22065)|[valgur](https://github.com/valgur)|Dec 29|:memo: zug|:green_circle: XS|0|||
-[#22067](https://github.com/conan-io/conan-center-index/pull/22067)|[pgrossomoreira](https://github.com/pgrossomoreira)|Dec 29|:stopwatch: coin-lemon|:blue_square: S|0|:eyes:||
+[#22067](https://github.com/conan-io/conan-center-index/pull/22067)|[pgrossomoreira](https://github.com/pgrossomoreira)|Dec 29|:stopwatch: coin-lemon|:blue_square: S|0|||
 [#22070](https://github.com/conan-io/conan-center-index/pull/22070)|[toge](https://github.com/toge)|Dec 30|:stopwatch: arsenalgear|:blue_square: S|1|Jan 2||
 [#22072](https://github.com/conan-io/conan-center-index/pull/22072)|[eyalroz](https://github.com/eyalroz)|Dec 30|:stopwatch: cuda-api-wrappers|:green_circle: XS|1|Jan 2||**uilianries**
-[#22076](https://github.com/conan-io/conan-center-index/pull/22076)|[AlexRamallo](https://github.com/AlexRamallo)|Dec 30|:stopwatch: openjdk|:green_circle: XS|1|Jan 2||**uilianries**
 [#22081](https://github.com/conan-io/conan-center-index/pull/22081)|[tsondergaard](https://github.com/tsondergaard)|Dec 31|:memo: xorg|:blue_square: S|1|Jan 2||ericLemanissier
 [#22082](https://github.com/conan-io/conan-center-index/pull/22082)|[SpaceIm](https://github.com/SpaceIm)|Dec 31|:memo: highs|L|1|Jan 2||**RubenRBS**
 [#22094](https://github.com/conan-io/conan-center-index/pull/22094)|[anonymousdouble](https://github.com/anonymousdouble)|Jan 1|:stopwatch: dbus|:green_circle: XS|0|||
@@ -253,7 +252,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22108](https://github.com/conan-io/conan-center-index/pull/22108)|[tsondergaard](https://github.com/tsondergaard)|Jan 2|:stopwatch: libtiff|:green_circle: XS|0|||
 [#22109](https://github.com/conan-io/conan-center-index/pull/22109)|[toge](https://github.com/toge)|Jan 2|:stopwatch: quill|:green_circle: XS|0|||
 [#22110](https://github.com/conan-io/conan-center-index/pull/22110)|[toge](https://github.com/toge)|Jan 2|:stopwatch: jinja2cpp|:green_circle: XS|0|||
-[#22111](https://github.com/conan-io/conan-center-index/pull/22111)|[toge](https://github.com/toge)|Jan 2|:stopwatch: libenvpp|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -278,8 +276,8 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 610
 	- Draft: 56
-	- Average Age: 103 days, 1 hours, and 10.34 minutes
-	- Stop Label: 296
+	- Average Age: 103 days, 2 hours, and 8.49 minutes
+	- Stop Label: 297
 	
 
 [Raw JSON data](https://raw.githubusercontent.com/prince-chrismc/conan-center-index-pending-review/raw-data/pending-review.json)
