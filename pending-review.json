@@ -3825,25 +3825,6 @@
       }
    },
    {
-      "Number": 21781,
-      "OpenedBy": "gouarin",
-      "CreatedAt": "2023-12-15T09:27:09Z",
-      "Recipe": "samurai",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21781",
-      "LastCommitSHA": "74346cf04df79f13e1d4e95f3f1d99e9a880b6a6",
-      "LastCommitAt": "2023-12-15T09:26:10Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 21788,
       "OpenedBy": "SpaceIm",
       "CreatedAt": "2023-12-16T15:03:17Z",
@@ -4328,20 +4309,24 @@
       "LastCommitAt": "2023-12-27T12:33:42Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 2,
-         "ValidApprovals": 1,
+         "Count": 3,
+         "ValidApprovals": 2,
          "TeamApproval": false,
          "Approvals": [
             {
                "Name": "jwillikers",
                "Tier": "community"
+            },
+            {
+               "Name": "MartinDelille",
+               "Tier": "community"
             }
          ],
          "Blockers": null,
          "LastReview": {
-            "ReviewerName": "jwillikers",
-            "SubmittedAt": "2023-12-30T14:40:13Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21943#pullrequestreview-1799563317"
+            "ReviewerName": "MartinDelille",
+            "SubmittedAt": "2024-01-02T14:44:51Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21943#pullrequestreview-1800532574"
          }
       }
    },
