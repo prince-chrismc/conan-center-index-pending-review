@@ -4103,35 +4103,6 @@
       }
    },
    {
-      "Number": 21883,
-      "OpenedBy": "toge",
-      "CreatedAt": "2023-12-24T03:13:32Z",
-      "Recipe": "lunasvg",
-      "Change": 1,
-      "Weight": 2,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21883",
-      "LastCommitSHA": "89b749043ef27e0c0c1d71442e4a826c4305a73f",
-      "LastCommitAt": "2023-12-26T10:35:08Z",
-      "CciBotPassed": true,
-      "Summary": {
-         "Count": 3,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2023-12-26T14:55:14Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/21883#pullrequestreview-1796417310"
-         }
-      }
-   },
-   {
       "Number": 21904,
       "OpenedBy": "valgur",
       "CreatedAt": "2023-12-25T22:22:48Z",
@@ -5321,11 +5292,21 @@
       "LastCommitAt": "2024-01-01T11:34:07Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "RubenRBS",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "RubenRBS",
+            "SubmittedAt": "2024-01-02T07:04:25Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22096#pullrequestreview-1800012054"
+         }
       }
    },
    {
@@ -5358,25 +5339,6 @@
       "LastCommitSHA": "7bbb11618b812c507b0249c5892f767fe0a9712e",
       "LastCommitAt": "2024-01-01T17:16:59Z",
       "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22101,
-      "OpenedBy": "SpaceIm",
-      "CreatedAt": "2024-01-01T20:20:01Z",
-      "Recipe": "taocpp-taopq",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22101",
-      "LastCommitSHA": "9e8f5b4695e14bed6b9a67b5accff33ce1b04f93",
-      "LastCommitAt": "2024-01-01T20:18:04Z",
-      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
