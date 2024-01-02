@@ -3909,7 +3909,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21798",
       "LastCommitSHA": "32e81847397dfb31709936692bd751fc2fd1de42",
       "LastCommitAt": "2023-12-31T21:42:27Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
@@ -5108,8 +5108,8 @@
       "Change": 1,
       "Weight": 1,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22067",
-      "LastCommitSHA": "0b88f4d9af408dba10b665be0e98d360140177cb",
-      "LastCommitAt": "2023-12-29T18:33:16Z",
+      "LastCommitSHA": "532584d643dc45545faa29e122499a080c410d5c",
+      "LastCommitAt": "2024-01-02T16:26:52Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
@@ -5169,35 +5169,6 @@
             "ReviewerName": "uilianries",
             "SubmittedAt": "2024-01-02T13:16:50Z",
             "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22072#pullrequestreview-1800413117"
-         }
-      }
-   },
-   {
-      "Number": 22076,
-      "OpenedBy": "AlexRamallo",
-      "CreatedAt": "2023-12-30T21:52:38Z",
-      "Recipe": "openjdk",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22076",
-      "LastCommitSHA": "8f8d4570ffedaad2ce244d7ecaa98e9c4979d031",
-      "LastCommitAt": "2023-12-30T21:45:40Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 1,
-         "ValidApprovals": 1,
-         "TeamApproval": true,
-         "Approvals": [
-            {
-               "Name": "uilianries",
-               "Tier": "team"
-            }
-         ],
-         "Blockers": null,
-         "LastReview": {
-            "ReviewerName": "uilianries",
-            "SubmittedAt": "2024-01-02T13:01:39Z",
-            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22076#pullrequestreview-1800394756"
          }
       }
    },
@@ -5407,25 +5378,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22110",
       "LastCommitSHA": "88e9cc53e79c888fbf04d5295c3f929c68fcce71",
       "LastCommitAt": "2024-01-02T10:30:06Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22111,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-02T10:37:11Z",
-      "Recipe": "libenvpp",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22111",
-      "LastCommitSHA": "9e44b05718f372979417f2c9aa002f13abc39396",
-      "LastCommitAt": "2024-01-02T10:36:46Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
