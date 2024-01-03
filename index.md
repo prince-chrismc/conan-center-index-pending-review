@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **227** pull requests currently under way :detective:
+There are **226** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -215,7 +215,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21973](https://github.com/conan-io/conan-center-index/pull/21973)|[Cyriuz](https://github.com/Cyriuz)|Dec 27|:memo: pdfium|:green_circle: XS|1|Dec 28||ericLemanissier
 [#21986](https://github.com/conan-io/conan-center-index/pull/21986)|[toge](https://github.com/toge)|Dec 27|:memo: pdf-writer|:blue_square: S|1|Jan 3||ericLemanissier
 [#21987](https://github.com/conan-io/conan-center-index/pull/21987)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaec|L|0|:eyes:||
-[#21988](https://github.com/conan-io/conan-center-index/pull/21988)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaom-av1|M|0|||
+[#21988](https://github.com/conan-io/conan-center-index/pull/21988)|[valgur](https://github.com/valgur)|Dec 27|:memo: libaom-av1|M|0|:eyes:||
 [#21991](https://github.com/conan-io/conan-center-index/pull/21991)|[bshoshany](https://github.com/bshoshany)|Dec 27|:memo: bshoshany-thread-pool|M|2|Dec 28||
 [#21996](https://github.com/conan-io/conan-center-index/pull/21996)|[valgur](https://github.com/valgur)|Dec 27|:memo: gsoap|:blue_square: S|0|:eyes:||
 [#21997](https://github.com/conan-io/conan-center-index/pull/21997)|[valgur](https://github.com/valgur)|Dec 27|:memo: hdf4|:blue_square: S|0|:eyes:||
@@ -237,7 +237,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22042](https://github.com/conan-io/conan-center-index/pull/22042)|[valgur](https://github.com/valgur)|Dec 28|:memo: wasmtime|L|0|:eyes:||
 [#22047](https://github.com/conan-io/conan-center-index/pull/22047)|[valgur](https://github.com/valgur)|Dec 28|:memo: assimp|L|3|Dec 31||
 [#22048](https://github.com/conan-io/conan-center-index/pull/22048)|[valgur](https://github.com/valgur)|Dec 28|:memo: autoconf|L|1|Jan 2|jcar87|
-[#22055](https://github.com/conan-io/conan-center-index/pull/22055)|[valgur](https://github.com/valgur)|Dec 29|:memo: jasper|L|0|:eyes:||
+[#22055](https://github.com/conan-io/conan-center-index/pull/22055)|[valgur](https://github.com/valgur)|Dec 29|:memo: jasper|L|1|Jan 3||**uilianries**
 [#22056](https://github.com/conan-io/conan-center-index/pull/22056)|[valgur](https://github.com/valgur)|Dec 29|:memo: libmodbus|:blue_square: S|0|:eyes:||
 [#22058](https://github.com/conan-io/conan-center-index/pull/22058)|[valgur](https://github.com/valgur)|Dec 29|:memo: maven|:blue_square: S|0|:eyes:||
 [#22059](https://github.com/conan-io/conan-center-index/pull/22059)|[valgur](https://github.com/valgur)|Dec 29|:memo: nv-codec-headers|:blue_square: S|0|:eyes:||
@@ -253,7 +253,6 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22105](https://github.com/conan-io/conan-center-index/pull/22105)|[valgur](https://github.com/valgur)|Jan 2|:memo: llvm-openmp|:blue_square: S|0|||
 [#22108](https://github.com/conan-io/conan-center-index/pull/22108)|[tsondergaard](https://github.com/tsondergaard)|Jan 2|:memo: libtiff|:green_circle: XS|1|Jan 3||ericLemanissier
 [#22123](https://github.com/conan-io/conan-center-index/pull/22123)|[toge](https://github.com/toge)|Jan 3|:stopwatch: cppcommon|:green_circle: XS|0|||
-[#22130](https://github.com/conan-io/conan-center-index/pull/22130)|[toge](https://github.com/toge)|Jan 3|:stopwatch: svgwrite|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -276,9 +275,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 610
+	- Open: 608
 	- Draft: 57
-	- Average Age: 103 days, 19 hours, and 58.63 minutes
+	- Average Age: 104 days, 6 hours, and 7.92 minutes
 	- Stop Label: 295
 	
 
