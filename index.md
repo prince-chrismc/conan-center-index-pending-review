@@ -23,7 +23,7 @@ Icon | Description
 
 ### :nerd_face: Please Review! 
 
-There are **227** pull requests currently under way :detective:
+There are **228** pull requests currently under way :detective:
 
 PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :star2: Approvers
 :---: | --- | --- | --- | --- | :---: | --- | --- | ---
@@ -206,7 +206,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#21937](https://github.com/conan-io/conan-center-index/pull/21937)|[valgur](https://github.com/valgur)|Dec 26|:memo: async_simple|:green_circle: XS|1|Dec 26||ericLemanissier
 [#21943](https://github.com/conan-io/conan-center-index/pull/21943)|[ericLemanissier](https://github.com/ericLemanissier)|Dec 26|:memo: qt|L|4|Jan 3||jwillikers, MartinDelille, [tsondergaard](https://github.com/tsondergaard)
 [#21947](https://github.com/conan-io/conan-center-index/pull/21947)|[toge](https://github.com/toge)|Dec 26|:memo: serd|:blue_square: S|1|Dec 27||ericLemanissier
-[#21953](https://github.com/conan-io/conan-center-index/pull/21953)|[valgur](https://github.com/valgur)|Dec 26|:memo: libselinux|:blue_square: S|0|||
+[#21953](https://github.com/conan-io/conan-center-index/pull/21953)|[valgur](https://github.com/valgur)|Dec 26|:memo: libselinux|:blue_square: S|0|:eyes:||
 [#21954](https://github.com/conan-io/conan-center-index/pull/21954)|[valgur](https://github.com/valgur)|Dec 26|:memo: libsigcpp|L|0|:eyes:||
 [#21959](https://github.com/conan-io/conan-center-index/pull/21959)|[valgur](https://github.com/valgur)|Dec 26|:memo: libgcrypt|:blue_square: S|0|:eyes:||
 [#21969](https://github.com/conan-io/conan-center-index/pull/21969)|[valgur](https://github.com/valgur)|Dec 27|:memo: libmpdclient|:blue_square: S|0|:eyes:||
@@ -254,6 +254,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22123](https://github.com/conan-io/conan-center-index/pull/22123)|[toge](https://github.com/toge)|Jan 3|:stopwatch: cppcommon|:green_circle: XS|0|||
 [#22131](https://github.com/conan-io/conan-center-index/pull/22131)|[gjasny](https://github.com/gjasny)|Jan 3|:stopwatch: ccache|:blue_square: S|0|||
 [#22135](https://github.com/conan-io/conan-center-index/pull/22135)|[tsondergaard](https://github.com/tsondergaard)|Jan 3|:memo: xorg|:green_circle: XS|0|||
+[#22137](https://github.com/conan-io/conan-center-index/pull/22137)|[toge](https://github.com/toge)|Jan 3|:stopwatch: glaze|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -276,9 +277,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 612
+	- Open: 613
 	- Draft: 58
-	- Average Age: 103 days, 19 hours, and 41.07 minutes
+	- Average Age: 103 days, 17 hours, and 39.50 minutes
 	- Stop Label: 297
 	
 
