@@ -5129,11 +5129,21 @@
       "LastCommitAt": "2023-12-30T17:58:14Z",
       "CciBotPassed": true,
       "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Count": 1,
+         "ValidApprovals": 1,
+         "TeamApproval": true,
+         "Approvals": [
+            {
+               "Name": "uilianries",
+               "Tier": "team"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "uilianries",
+            "SubmittedAt": "2024-01-03T15:10:30Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22055#pullrequestreview-1802372070"
+         }
       }
    },
    {
@@ -5467,25 +5477,6 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22123",
       "LastCommitSHA": "dd5053e3fa23e1568da300c44e504c3cd40e5ed4",
       "LastCommitAt": "2024-01-03T07:17:38Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22130,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-03T12:21:53Z",
-      "Recipe": "svgwrite",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22130",
-      "LastCommitSHA": "725fdaefeaa0c5101f6e4e40b01f356805b1bc9d",
-      "LastCommitAt": "2024-01-03T12:21:24Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
