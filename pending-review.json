@@ -5472,25 +5472,6 @@
       }
    },
    {
-      "Number": 22134,
-      "OpenedBy": "tsondergaard",
-      "CreatedAt": "2024-01-03T19:25:44Z",
-      "Recipe": "dbus",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22134",
-      "LastCommitSHA": "793eded798a288b6437aaac5ba93c8dfd7faa03f",
-      "LastCommitAt": "2024-01-03T19:23:56Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
       "Number": 22135,
       "OpenedBy": "tsondergaard",
       "CreatedAt": "2024-01-03T20:09:56Z",
@@ -5498,9 +5479,9 @@
       "Change": 1,
       "Weight": 0,
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22135",
-      "LastCommitSHA": "52a68545d374b480a8d244fa78ba28ff3bcfd8b0",
-      "LastCommitAt": "2024-01-03T20:07:17Z",
-      "CciBotPassed": false,
+      "LastCommitSHA": "5c2889b87e9e8465ff76a65a4ef3b8601b5f25d1",
+      "LastCommitAt": "2024-01-03T20:37:57Z",
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
