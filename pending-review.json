@@ -5417,5 +5417,43 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22119,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-03T04:35:03Z",
+      "Recipe": "mbits-diags",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22119",
+      "LastCommitSHA": "af6032736dea8cc87550ebde4ad5ec1fda9b6829",
+      "LastCommitAt": "2024-01-03T04:34:24Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22121,
+      "OpenedBy": "toge",
+      "CreatedAt": "2024-01-03T04:46:33Z",
+      "Recipe": "spdlog",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22121",
+      "LastCommitSHA": "b34f306da06b3e06db808d24ab787b4157a3dd50",
+      "LastCommitAt": "2024-01-03T04:45:52Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
