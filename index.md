@@ -259,7 +259,7 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22136](https://github.com/conan-io/conan-center-index/pull/22136)|[mayeut](https://github.com/mayeut)|Jan 3|:memo: opencv|M|0|||
 [#22138](https://github.com/conan-io/conan-center-index/pull/22138)|[bemehiser](https://github.com/bemehiser)|Jan 4|:stopwatch: rapidjson|:green_circle: XS|0|||
 [#22142](https://github.com/conan-io/conan-center-index/pull/22142)|[toge](https://github.com/toge)|Jan 4|:memo: nng|:blue_square: S|0|||
-[#22144](https://github.com/conan-io/conan-center-index/pull/22144)|[Inujel](https://github.com/Inujel)|Jan 4|:stopwatch: msys2|:green_circle: XS|0|||
+[#22144](https://github.com/conan-io/conan-center-index/pull/22144)|[Inujel](https://github.com/Inujel)|Jan 4|:stopwatch: msys2|:green_circle: XS|1|Jan 4||[tsondergaard](https://github.com/tsondergaard)
 [#22146](https://github.com/conan-io/conan-center-index/pull/22146)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 4|:gear: .c3i|:green_circle: XS|0|||
 [#22156](https://github.com/conan-io/conan-center-index/pull/22156)|[tsondergaard](https://github.com/tsondergaard)|Jan 4|:stopwatch: dbus|M|0|||
 
@@ -286,7 +286,7 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 - Pull Requests:
 	- Open: 618
 	- Draft: 57
-	- Average Age: 103 days, 18 hours, and 11.82 minutes
+	- Average Age: 103 days, 19 hours, and 9.20 minutes
 	- Stop Label: 296
 	
 
