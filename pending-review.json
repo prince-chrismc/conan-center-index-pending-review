@@ -3785,7 +3785,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21765",
       "LastCommitSHA": "3c36bb86edf99b4c1d18511263417a3682c679ba",
       "LastCommitAt": "2024-01-04T05:36:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -4143,7 +4143,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/21869",
       "LastCommitSHA": "6da7a2ba77aeeb9ea2ca1734ac235c9bf84a4cdc",
       "LastCommitAt": "2024-01-04T10:03:45Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 0,
@@ -5556,7 +5556,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22135",
       "LastCommitSHA": "5c2889b87e9e8465ff76a65a4ef3b8601b5f25d1",
       "LastCommitAt": "2024-01-03T20:37:57Z",
-      "CciBotPassed": true,
+      "CciBotPassed": false,
       "Summary": {
          "Count": 1,
          "ValidApprovals": 1,
@@ -5624,6 +5624,25 @@
       "LastCommitSHA": "f7deb43f98f1ca0e4c1ec373f924058b461829c5",
       "LastCommitAt": "2024-01-04T06:27:22Z",
       "CciBotPassed": true,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
+   },
+   {
+      "Number": 22144,
+      "OpenedBy": "Inujel",
+      "CreatedAt": "2024-01-04T10:51:07Z",
+      "Recipe": "msys2",
+      "Change": 1,
+      "Weight": 0,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22144",
+      "LastCommitSHA": "06a89558d056df32928a9927c7b67cfbc097c1c1",
+      "LastCommitAt": "2024-01-04T10:46:10Z",
+      "CciBotPassed": false,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
