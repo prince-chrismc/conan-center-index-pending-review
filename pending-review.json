@@ -5644,5 +5644,24 @@
          "Approvals": null,
          "Blockers": null
       }
+   },
+   {
+      "Number": 22156,
+      "OpenedBy": "tsondergaard",
+      "CreatedAt": "2024-01-04T19:18:21Z",
+      "Recipe": "dbus",
+      "Change": 1,
+      "Weight": 2,
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22156",
+      "LastCommitSHA": "30d916920f8f74438caa989173e94cfd70ea8128",
+      "LastCommitAt": "2024-01-04T19:12:58Z",
+      "CciBotPassed": false,
+      "Summary": {
+         "Count": 0,
+         "ValidApprovals": 0,
+         "TeamApproval": false,
+         "Approvals": null,
+         "Blockers": null
+      }
    }
 ]
