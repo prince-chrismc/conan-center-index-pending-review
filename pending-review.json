@@ -5619,11 +5619,21 @@
       "LastCommitAt": "2024-01-04T10:46:10Z",
       "CciBotPassed": false,
       "Summary": {
-         "Count": 0,
+         "Count": 1,
          "ValidApprovals": 0,
          "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
+         "Approvals": [
+            {
+               "Name": "tsondergaard",
+               "Tier": "unofficial"
+            }
+         ],
+         "Blockers": null,
+         "LastReview": {
+            "ReviewerName": "tsondergaard",
+            "SubmittedAt": "2024-01-04T21:05:17Z",
+            "HTMLURL": "https://github.com/conan-io/conan-center-index/pull/22144#pullrequestreview-1804971015"
+         }
       }
    },
    {
