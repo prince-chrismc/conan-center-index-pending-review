@@ -5491,15 +5491,15 @@
       }
    },
    {
-      "Number": 22137,
-      "OpenedBy": "toge",
-      "CreatedAt": "2024-01-03T22:36:21Z",
-      "Recipe": "glaze",
+      "Number": 22138,
+      "OpenedBy": "bemehiser",
+      "CreatedAt": "2024-01-04T00:12:31Z",
+      "Recipe": "rapidjson",
       "Change": 1,
       "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22137",
-      "LastCommitSHA": "18248225bf1e9db5e07277c51897799eb2c0bf76",
-      "LastCommitAt": "2024-01-03T22:35:48Z",
+      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22138",
+      "LastCommitSHA": "a9215ec7de59b145346b54f60d788b14d6fc485a",
+      "LastCommitAt": "2024-01-04T00:17:15Z",
       "CciBotPassed": false,
       "Summary": {
          "Count": 0,
