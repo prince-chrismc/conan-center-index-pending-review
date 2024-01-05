@@ -261,10 +261,10 @@ PR | By | Opened | Recipe | Weight | Reviews | Last | :stop_sign: Blockers | :st
 [#22144](https://github.com/conan-io/conan-center-index/pull/22144)|[Inujel](https://github.com/Inujel)|Jan 4|:stopwatch: msys2|:green_circle: XS|1|Jan 4||[tsondergaard](https://github.com/tsondergaard)
 [#22146](https://github.com/conan-io/conan-center-index/pull/22146)|[conan-center-bot](https://github.com/conan-center-bot)|Jan 4|:gear: .c3i|:green_circle: XS|0|||
 [#22156](https://github.com/conan-io/conan-center-index/pull/22156)|[tsondergaard](https://github.com/tsondergaard)|Jan 4|:stopwatch: dbus|M|1|Jan 4||jwillikers
-[#22160](https://github.com/conan-io/conan-center-index/pull/22160)|[toge](https://github.com/toge)|Jan 5|:stopwatch: glaze|:green_circle: XS|0|||
 [#22161](https://github.com/conan-io/conan-center-index/pull/22161)|[toge](https://github.com/toge)|Jan 5|:stopwatch: fmt|:green_circle: XS|0|||
 [#22162](https://github.com/conan-io/conan-center-index/pull/22162)|[toge](https://github.com/toge)|Jan 5|:stopwatch: uwebsockets|:green_circle: XS|0|||
 [#22163](https://github.com/conan-io/conan-center-index/pull/22163)|[toge](https://github.com/toge)|Jan 5|:stopwatch: daw_header_libraries|:green_circle: XS|0|||
+[#22164](https://github.com/conan-io/conan-center-index/pull/22164)|[TheClockTwister](https://github.com/TheClockTwister)|Jan 5|:stopwatch: abseil|:green_circle: XS|0|||
 
 
 ### :heavy_check_mark: Ready to Merge 
@@ -287,9 +287,9 @@ PR | By | Opened | Recipe | Reviews | :star2: Approvers
 
 - Commit: 99fdb7a6d2550a18c7325278aa60fc8b6ebd034e
 - Pull Requests:
-	- Open: 623
+	- Open: 624
 	- Draft: 57
-	- Average Age: 103 days, 2 hours, and 48.92 minutes
+	- Average Age: 102 days, 23 hours, and 55.09 minutes
 	- Stop Label: 297
 	
 
