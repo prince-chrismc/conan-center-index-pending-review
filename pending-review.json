@@ -5700,26 +5700,7 @@
       "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22170",
       "LastCommitSHA": "9e6545d4178ef1b1a1b9db57861d43c48e2c45e1",
       "LastCommitAt": "2024-01-05T16:26:05Z",
-      "CciBotPassed": false,
-      "Summary": {
-         "Count": 0,
-         "ValidApprovals": 0,
-         "TeamApproval": false,
-         "Approvals": null,
-         "Blockers": null
-      }
-   },
-   {
-      "Number": 22171,
-      "OpenedBy": "Ignition",
-      "CreatedAt": "2024-01-05T16:29:34Z",
-      "Recipe": "rocksdb",
-      "Change": 1,
-      "Weight": 0,
-      "ReviewURL": "https://github.com/conan-io/conan-center-index/pull/22171",
-      "LastCommitSHA": "31c88781dea0b15906b33f2351422cadd5bcde79",
-      "LastCommitAt": "2024-01-05T16:26:56Z",
-      "CciBotPassed": false,
+      "CciBotPassed": true,
       "Summary": {
          "Count": 0,
          "ValidApprovals": 0,
